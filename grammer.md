@@ -1,19 +1,25 @@
 # Grammer
 
 ## 基本
-- 基本文系
-    - 他動型: SVO
-    - 自動型: SV
-    - 説明型: SVC
-    - 授与型: SVOO
-- 修飾方向
-    - -> 限定
-    - <- 説明
-    - 穴埋め修飾
-        - wh 修飾
-        - to 不定詞
-- 配置転換
-- 時表現
+
+### 基本文系
+
+- 他動型: SVO
+- 自動型: SV
+- 説明型: SVC
+- 授与型: SVOO
+
+### 修飾方向
+
+- -> 限定
+- <- 説明
+- 穴埋め修飾
+    - wh 修飾
+    - to 不定詞
+
+### 配置転換
+
+### 時表現
 
 ## 基本文系
 - Subject
@@ -74,3 +80,6 @@
                 - have:   I'll have the nurse bandage your leg for you.
                 - let:    My daughter's upse because I won't let her get a tatoo.
                 - get to: I got one of my classmates to help my sister with her homowork. : 頼んだり小遣いをやったりして、させる
+        4. to-infinitive
+            - 相手に働きかける
+                - My parents always tell me to study harder!
