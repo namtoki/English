@@ -70,6 +70,29 @@
     - 相手に働きかける
         - My parents always tell me to study harder!
 
+### レポート文
+
+- 動詞+節
+    - I think **Mary is gorgeous**
+    - Tom said **Today is his birthday!**
+- 複合+節
+    - Tom said to me **he loved me.**
+    - He promised me **he would try his best from now on.**
+- 形容詞+節
+    - I'm afraid **we cannot give you a refund.**
+    - I'm so sad **he lost his job.**
+    - Sorry **I'm late!**
+- whether 節
+    - abbr
+- if 節
+    - abbr
+- wh 節
+    - abbr
+- say, hear, tell などコミュニケーションを表す動詞では、しばしば現在形が優先される
+    - She **says** she **isn't** going to marry him.
+    - I **hear** that the PTA **is** going to hold a fund-raising concert next month.
+    - Kaori **tells** me that Kenji **is** going to be expelled from school.
+
 ## 修飾方向
 - -> 限定
 - <- 説明
