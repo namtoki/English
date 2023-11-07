@@ -2,10 +2,10 @@
 
 ## 基本
 - 基本文系
-    - SVO
-    - SV
-    - SVC
-    - SVOO
+    - 他動型: SVO
+    - 自動型: SV
+    - 説明型: SVC
+    - 授与型: SVOO
 - 修飾方向
     - -> 限定
     - <- 説明
@@ -49,5 +49,28 @@
         - remain, keep, stay
         - look, feel, sound
         - seem, appear, prove, turn out
-    - SVOO
-        - 
+    - SVO1O2
+        - SVO2(to|for)O1 も使えるが、SVO1O2 のほうが一般的
+    - 目的語説明文
+        1. Basic
+            - Just call me Ken.
+            - I'd like my coffee black.
+        2. Perception verb
+            - I saw Mary cross the street.
+            - We went to the beach and watched the sun go down.
+            - 生の状況に触れる形
+                - I heard      her play the piano. (彼女がピアノを弾くのを聞いた)
+                - I heard that her play the piano. (彼女がピアノを弾くって聞いた)
+        3. Causative verb
+            - I'll do anything to make you happy.
+            - The story made me sad.
+            - When I was on homestay, I found it difficult to make myself understood in English.
+            - Shall we have our new plasma TV on the wall?
+            - I had my uniform cleaned for the graduation ceremony.
+            - I had my iPod pinched from my school bag.
+            - I had my hair cut.
+            - させる
+                - make:   The PE teacher made the students run in the snow.
+                - have:   I'll have the nurse bandage your leg for you.
+                - let:    My daughter's upse because I won't let her get a tatoo.
+                - get to: I got one of my classmates to help my sister with her homowork. : 頼んだり小遣いをやったりして、させる
