@@ -1,0 +1,53 @@
+# Grammer
+
+## 基本
+- 基本文系
+    - SVO
+    - SV
+    - SVC
+    - SVOO
+- 修飾方向
+    - -> 限定
+    - <- 説明
+    - 穴埋め修飾
+        - wh 修飾
+        - to 不定詞
+- 配置転換
+- 時表現
+
+## 基本文系
+- Subject
+    - 標準は単純な名詞か代名詞
+        - to 不定詞や節を使った主語は「高尚な出だしだなぁ」「複雑なことを言い出しやがったな」という印象を与えがち
+    - 無生物主語を使って最短の表現を目指せ！
+    - 主語に前置詞句を使うことも
+        - Under the doormat must be the stupidest place to leave a key.
+    - 主語が省略されるケース
+        - 友達同士
+            - (Are you) Enjoying the party?
+            - I heard you were sick. (I) Hope you recover soon.
+- Verb
+    - SVO
+    - SV
+        - O へ及ぶ力の差
+            - e.g.1
+                - I know       Monet. (深い知識を持っている)
+                - I know about Monet. (印象派だな、光の画家だな、くらいの知っている感)
+                - I know of    Monet. ( あー聞いたころあるなー。建築やってんだっけ？くらい)
+            - e.g.2
+                - He shot    the bird. (彼は鳥を        撃った)
+                - He shot at the bird. (彼は鳥をめがけて撃った)
+    - SVC
+        - be
+            - be 動詞は省略されることがある
+                - 感情が激昂したとき
+                    - You ~~are a~~ liar!
+                - 手短に切れくよく発言したいとき
+                    - ~~Is~~ everything OK?
+        - become
+        - go, get, turn
+        - remain, keep, stay
+        - look, feel, sound
+        - seem, appear, prove, turn out
+    - SVOO
+        - 
