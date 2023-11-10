@@ -122,6 +122,10 @@
     - Exception
         - (C, D, E) お互いよく知っている事柄については There 文を使用しない
 
+## Noun
+- Determiner (Countable/Uncountable) + Adjective + Singular/Plural
+    - the と all では、all the dogs の語順となる
+
 ## 修飾方向
 - -> 限定
 - <- 説明
