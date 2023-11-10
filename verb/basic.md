@@ -23,3 +23,10 @@
     - (どうして) **How come** I wasn't inveted?
 
 ## RUN
+- Basic
+    - There's a free shuttle bus that **runs** between the airport terminals.
+    - That movie made shivers **run** down my sprine.
+- deriv.
+    - (稼働している) Who left the tap **running** ?
+    - (稼働している) I have a **runny** nose.
+    - (運営する/仕切る) He gave me tips on how to **run** a meeting.
