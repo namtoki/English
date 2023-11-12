@@ -30,3 +30,16 @@
     - (稼働している) Who left the tap **running** ?
     - (稼働している) I have a **runny** nose.
     - (運営する/仕切る) He gave me tips on how to **run** a meeting.
+
+## BRING
+- Basic
+    - COME + もの
+    - I'll **bring** my guitar.
+    - (もたらした) The Internet **has brought** many changes to our everyday lives.
+- deriv.
+
+## CARRY
+- Basic
+    - 支える
+        - That's a heavy backpak you're **carrying.**
+- deriv.
