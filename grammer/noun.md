@@ -21,6 +21,8 @@
 - **a gallon of** gasoline/water
 - **a pound of** sugar/tea/butter
 
+## Singular/Plural
+
 ### 単数形でも複数だと感じられる、複数形でも単数だと感じられるケース
 - 集団は単数扱い
     - **My family** are/is all into skiing.

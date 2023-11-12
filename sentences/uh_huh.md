@@ -1,24 +1,35 @@
+# UH HUH
 
+## Videos
+- https://www.youtube.com/watch?v=QbU7kDn5rPg
 
-https://www.youtube.com/watch?v=QbU7kDn5rPg
-## Uh
+## Uh-huh
+- [ ] Uh
+- [ ] Oh
+- [ ] Hmm
+- [ ] Uh-huh.
 
-## Oh
+## たしかに
+- [ ] I see.
+- [ ] Fair enough
+- [ ] That's true.
+- [ ] That makes sense.
+- [ ] Make sense.
+- [ ] True.
 
-## Hmm
+## いいね
+- [ ] Sounds good.
+- [ ] Great.
 
-## Uh-huh.
+## 同意
+- [ ] So do I.
+- [ ] Same here.
 
-## I see.
-
-## Fair enough
-
-## That's true.
-
-## True.
-
-## That makes sense. (Make sense.)
-
-## Same here.
-
-## I know.
+## そうだよね
+- [ ] Exactly.
+- [ ] Absolutely.
+- [ ] Totally.
+- [ ] I think so too.
+- [ ] I know.
+- [ ] Of course.
+- [ ] Right.

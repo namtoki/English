@@ -26,3 +26,16 @@
 - [x] How do you say ... in English?
 - [ ] What does ... mean?
 - [ ] Is ... the same as ...?
+
+## レッスンの終わりに
+- [ ] Thank you for the lesson!
+- [ ] Enjoy your ...
+- [ ] Have a nice day!
+- [ ] See you next time!
+
+## Online
+- [ ] Can you see me?
+- [ ] Can you hear me?
+- [ ] I was on mute.
+- [ ] I can't see you/the material/the notes.
+- [ ] Could you make the material/notes bigger?
