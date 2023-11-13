@@ -2,6 +2,45 @@
 - Determiner (Countable/Uncountable) + Adjective + Singular/Plural
     - the と all では、all the dogs の語順となる
 
+## Determiner
+- 限定詞なし
+    - ～というもの
+        - **Crows** are highly intelligent birds but also a big buisance!
+        - I like **wine**.
+        - **Hyenas** kill **zebras** and **lions** kill **hyenas.**
+    - リストアップ
+        - We need **poster paper, marker pens, and glue.**
+        - How about **scissors?**
+- The
+    - 1 つに決まる
+        - (文脈) I met Karen's boyfriend last night. **The guy** is not friendly at all.
+        - (文脈) You know I bought a new iPod? Well, **the thing** keeps freezing up!
+        - (文脈) I just saw **a dog** attack a little kid. **The owner** did nothing!
+        - (目前) Close **the door!**
+        - (目前) Look at **the puppy** over there!
+        - (常識) 70% of **the earth's** surface is covered by water.
+        - (常識) **The world** is our classroom.
+        - (常識) Which way is **the restroom?**
+        - (唯一) She was **the first Japanese woman** to travel into space.
+        - (唯一) You are **the only girl** I've ever loved.
+        - (唯一) Who is **the youngest** of the three?
+        - (集団) Look at **the penguins** ovet there.
+        - (集団) **The United States of America**
+        - (一家) **The Yamadas** are moving to Indonesia.
+    - それとわかる
+        - (唯一) Sharon is **the woman** for the job.
+        - (唯一) I think the Hotel de Paris is **the place** to stay.
+        - (唯一) **The New York Times**
+        - (唯一) **The Ritz**
+        - (ピン) John plays **the flute** and **the clarinet.**
+        - (ピン) I love listening to you playing **the piano.**
+        - (ピン) **The police** were quickly on the scene.
+        - (ピン) I don't often listen to **the radio.**
+        - (ピン) Do you prefer **the town** or **the country?**
+        - (ピン) I want to live in a house on **the river**.
+        - (ピン) I think you should see **the doctor.**
+        - (人々) **The poor** are getting poorer, and **the rich** are getting richer.
+
 ## Countable/Uncountable
 
 ### basic

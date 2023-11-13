@@ -41,5 +41,16 @@
 ## CARRY
 - Basic
     - 支える
-        - That's a heavy backpak you're **carrying.**
+    - That's a heavy backpak you're **carrying.**
 - deriv.
+
+## DRIVE
+- Links
+    - https://kimini.online/blog/archives/3549
+- Basic
+    - 力を入れて動かす
+    - My husband always **drives** too fast.
+- deriv.
+    - (追い払う) My mother-in-law **drove** me out of the house!
+    - (追い込む) Spam mail **drives** me nuts.
+    - (追い払う) The politician needs to drive away evil thoughts.
