@@ -54,3 +54,11 @@
     - (追い払う) My mother-in-law **drove** me out of the house!
     - (追い込む) Spam mail **drives** me nuts.
     - (追い払う) The politician needs to drive away evil thoughts.
+
+## LEAVE
+- Basic
+    - 残して去る
+    - (去る) He **left** for Manila this monrning.
+    - (残す) I **left** my wallet at home.
+- deriv.
+    - (残す) **Leave** everything to me, OK?

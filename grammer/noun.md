@@ -40,6 +40,51 @@
         - (ピン) I want to live in a house on **the river**.
         - (ピン) I think you should see **the doctor.**
         - (人々) **The poor** are getting poorer, and **the rich** are getting richer.
+- A, An
+    - 話題に初めて出る
+        - You know I bought **a new iPod?** Well, the thing keeps freezing up!
+        - Karen's got **a new boyfriend**. The guy is not friendly at all.
+    - 特定のものを思い描いていない
+        - I need to find **a part-time job.**
+        - (職業) Mary is **a nurse.**
+    - ほかにもいろいろある
+        - This is **a present** that he gave me.
+        - She gave me **a reason** why she left him.
+- Some
+    - ぼんやりと
+        - (数〇の) There are **some squirrels** in your garden.
+        - (いくらか) I need **some olive oil** for the salad.
+        - (いる) **Some people** never learn from experience.
+        - (もいる) **Some** are cheap and **others** are expensive.
+    - 温かい
+        - Would you like **some coffee**?
+        - Do you need **some assistance**?
+    - 興味がない
+        - She ran off with **some guy** from Italy!
+    - ぼやかしたい
+        - **Some guy** told me.
+- Any
+    - 誰でも・どれでも
+        - **Any parent** would want the best for their child.
+        - He's more talented than **any player** I've coached.
+        - Choose **any card.**
+    - 疑問文と相性よし
+        - Do you have **any other questions**?
+        - Do you have **any money**?
+    - 否定文 (どんな～もない)
+        - I don't like **any sports.**
+        - I don't need **any advace.**
+- All
+    - ひっくるめて全部
+        - **All the spectators** were delighted.
+- Every (単)
+    - 緻密なすべて
+        - I hope **every** customer **is** satisfied.
+        - **Every** mother look**s** after **her** children.
+- Each (単)
+    - それぞれ
+        - She had a glass of wine in **each** hand.
+        - In golf, **Each** player keeps their own score.
 
 ## Countable/Uncountable
 
