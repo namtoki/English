@@ -62,3 +62,17 @@
     - (残す) I **left** my wallet at home.
 - deriv.
     - (残す) **Leave** everything to me, OK?
+
+## RISE
+- Basic
+    - 上がる
+    - Food prices have **risen** dramatically.
+- deriv.
+
+## FALL
+- Basic
+    - 落ちる
+    - Be careful or yhou'll **fall**!
+- deriv.
+    - (健康/意識の衰退) I lost control and **fell** head first into the snow.
+    - (健康/意識の衰退) He **fell** ill while we were on holiday.

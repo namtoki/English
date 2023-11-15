@@ -85,6 +85,39 @@
     - それぞれ
         - She had a glass of wine in **each** hand.
         - In golf, **Each** player keeps their own score.
+- No (複/単)
+    - ゼロ 真っ黒 漆黒
+        - **Nobody** came to my party!
+    - 補足
+        - 複数が普通だが、単数を使うとより強烈な否定表現となる
+        - not を使うところで NO を使うと、全く違う感が出る
+- Both (複)
+- Either (単)
+- Neither (単)
+    - ～も、の言い回し
+        - I like it **too**.
+        - I don't like it **either**.
+        - **Neither** do I.
+- Many (a good/great/large number of)
+    - (疑問/否定) I don't have **many** friends.
+- Much (a good/great deal of, a large amount/quantity of)
+    - (疑問/否定) Do you have **much** rain in October?
+        - so や too , very が付随すると強くなるので、肯定文でも使える
+- A lot of (Lots of, Plenty of)
+    - (肯定) I have **a lot of** money.
+- A Few (Few)
+    - I have **a few/few** good friends.
+        - a few は肯定的、few は否定的
+- A little (Litte)
+    - I have **a little time** to talk now, so please take a seat.
+    - I have **little time** to talk now, so please come back later.
+        - a little は肯定的、little は否定的
+- This
+- That
+    - 副詞のようにも使用できる
+        - I'm telling you I was **this** close to a hole-in-one!
+        - Wow, I've never been **that** close!
+        - I knew he was stingy, but not **that** stingy!
 
 ## Countable/Uncountable
 
