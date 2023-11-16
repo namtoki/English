@@ -76,3 +76,18 @@
 - deriv.
     - (健康/意識の衰退) I lost control and **fell** head first into the snow.
     - (健康/意識の衰退) He **fell** ill while we were on holiday.
+
+## TURN
+- Basic
+    - 曲がる
+    - **Turn** left at the next corner.
+- deriv.
+    - (変化) I love it when the leaves **turn** golden yellow in the fall.
+
+## PASS
+- Basic
+    - 通り過ぎる
+    - If you **pass** a big park, you've gone too far.
+- deriv.
+    - The days **pass** too quickly when you're on holiday.
+    - Hey, I **passed** my driving test!

@@ -157,3 +157,14 @@
     - Did you get a direct flight or did you have to **change planes?**
     - Some people bow while others **shake hands.**
     - I **made friends** with Karen.
+
+## Pronoun
+- ～んとこ
+    - The baker's
+    - The butcher's
+    - McDonald's
+    - I visited my **aunt's.
+- 人 -> 部位
+    - I patted John on the shoulder.
+    - I punched him in the face.
+        - 部位に her や his などの所有格を使うと不自然なので注意
