@@ -1,0 +1,4 @@
+# DEGREE
+
+- more or less
+    - Don't be shy. Your pronunciation is more or less correct.
