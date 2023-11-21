@@ -168,3 +168,9 @@
     - I patted John on the shoulder.
     - I punched him in the face.
         - 部位に her や his などの所有格を使うと不自然なので注意
+- 人々一般
+    - You need a visa to travel to Chana.
+    - We shall fight terrorism al the way.
+    - They say life begins at 40.
+    - People always want what they cannot have.
+    - One should never take love for granted.
