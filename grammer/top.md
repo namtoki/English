@@ -1,19 +1,21 @@
 # Grammer
 
-## [SENTENCE PATTERN](pattern.md)
+## Framework
 
-## [SUBJECTIVE](subjective.md)
+- [SENTENCE PATTERN](pattern.md)
+- [SUBJECTIVE](subjective.md)
+- [VERB](verb.md)
+- [NOUN](noun.md)
 
-## [VERB](verb.md)
+## Modification
 
-## [NOUN](noun.md)
-
-## 修飾方向
-- -> 限定
-- <- 説明
-- 穴埋め修飾
-    - wh 修飾
-    - to 不定詞
+- [ADJECTIVE](adjective.md)
+- [ADVERB](adverb.md)
+- [COMPARISON](comparison.md)
+- [NEGATION](negation.md)
+- [AUXILIARY VERBS](auxiliary_verbs.md)
+- [PREPOSITIONS](prepositions.md)
+- [WH MODIFICATIONS](wh-modifications.md)
 
 ## 配置転換
 
