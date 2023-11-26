@@ -78,4 +78,17 @@
       |       | perhaps    |
       | 低    | possibly   |
 - 評価 態度
-
+    - **Happily**, no one was badly injured.
+    - **Clearly**, we cannot handle this situation alone.
+    - **Honestly**, I have no idea where she went.
+    - **As far as I know**, John is the only one with a key to the safe.
+    - Flankly speaking
+    - Strictly
+    - Seriously
+    - Just between you and me
+    - personally
+    - To tell the truth
+    - To be honest
+    - To be sure
+    - To make the matter worse
+    - To my surprise
