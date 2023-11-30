@@ -79,6 +79,75 @@
 - My kids are no naughtier than most other children.
 - This perfume isn't any more fragrant than the one I am using now.
 
+### 限定語句 (very, really, so, much などは使えない)
+- My hair is **a little** softer than before, so I like this conditioner.
+- Today's test was **somewhat** more difficult than last week's.
+- Fruit is **much** cheaper in my country than in Japan.
+- Whisky is **far** stronger than beer.
+- My brother is **even** crazier than me!
+
+### 限定語句 (数)
+- Sue is **3 years** younger than me.
+- I need **3** more volunteers.
+
+### ★ 比較対象は名詞以外でも
+- It's cheaper to eat at home than at a restaurant.
+- Doing something is always better than doing nothing.
+- It's healthier to play sport than to watch it on TV.
+- He looks older than he actually is.
+- I'm more confident than I've ever been.
+- The meeting lasted longer than I expected.
+
+### ★ 応用表現 (more and more)
+- It's becoming harder and harder to get a job.
+- Your English is getting better and better.
+- The situation is becoming more and more serious.
+
+### ★ 応用表現 (the more ... , the more ...)
+- The younger you are, the easier it is to learn.
+
+### ★ 応用表現 (all the more)
+- I like her all the better because she is shy and modest.
+- The fact that I simply ignored his rude comments made him all the more angry.
+
+### ★ 応用表現 (more ... any other ...)
+- John is taller than any other boy in his class.
+- Tokyo is bigger than any city in England.
+
+### ★ 応用表現 (というよりむしろ)
+- She is more pretty than beautiful.
+- Getting a visa is more time-consuming than difficult.
+
+### ★ 応用表現 (less)
+- Lucy is less intelligent than Hanako.
+
+### ★ 応用表現 (no more ... than)
+- That is no more a Rolex than this plastic toy watch!
+- You, a detective? Ha! You're no more a detective than my grandmother!
+- He's no more fit to do this job than a monkey!
+
+### ★ 応用表現 (no less ... than)
+- I'm no less confident than before, just because I didn't win.
+- He's no less a man than you, just because he refuses to fight.
+
+### ★ 応用表現 (no more than)
+- The earth is no more than a little star.
+- There wewe no more than ten people present.
+
+### ★ 応用表現 (no less than)
+- You got Chris to pay for a drink? That is no less than a miracle!
+- A house in that area would cost no less than $500,000.
+
+### ★ 応用表現 (more or less)
+- I've more or less made up my mind.
+
 ## 最上級
 
 ### 基本
+- Cheryl is the cleverest.
+- That's the best idea.
+- Which engine runs the most efficiently?
+
+### ★ 応用表現 (でさえ)
+- The best players can sometimes lose.
+- Event the most competent professionals make embarrasing mistakes.
