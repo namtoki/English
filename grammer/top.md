@@ -1,22 +1,33 @@
 # Grammer
 
 ## Framework
-
-- [SENTENCE PATTERN](pattern.md)
-- [SUBJECTIVE](subjective.md)
-- [VERB](verb.md)
-- [NOUN](noun.md)
+- [ ] [SENTENCE PATTERN](pattern.md)
+- [ ] [SUBJECTIVE](subjective.md)
+- [ ] [VERB](verb.md)
+- [ ] [NOUN](noun.md)
 
 ## Modification
+- [x] [ADJECTIVE](adjective.md)
+- [x] [ADVERB](adverb.md)
+- [x] [COMPARISON](comparison.md)
+- [x] [NEGATION](negation.md)
+- [ ] [AUXILIARY VERBS](auxiliary_verbs.md)
+- [ ] [PREPOSITIONS](prepositions.md)
+- [ ] [WH MODIFICATIONS](wh-modifications.md)
 
-- [ADJECTIVE](adjective.md)
-- [ADVERB](adverb.md)
-- [COMPARISON](comparison.md)
-- [NEGATION](negation.md)
-- [AUXILIARY VERBS](auxiliary_verbs.md)
-- [PREPOSITIONS](prepositions.md)
-- [WH MODIFICATIONS](wh-modifications.md)
+## FREE ELEMENTS
+- [ ] [ING FORM](ing.md)
+- [ ] [TO INFINITIVES](to.md)
+- [ ] [PAST PARTICIPLES](past.md)
+- [ ] [CLAUSES](clauses.md)
 
-## 配置転換
+## DISLOCATION
+- [ ] [QUESTIONS](questions.md)
+- [ ] [DISLOCATIONS](dislocations.md)
 
-## 時表現
+## TEMPORAL EXPRESSIONS
+- [ ] [TEMPORAL EXPRESSIONS](temporal_expressions.md)
+
+## COMBINING SETENCES
+- [ ] [CONJUNCTIONS](conjunctions.md)
+- [ ] [GOOD FLOW](good_flow.md)
