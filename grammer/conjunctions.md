@@ -134,3 +134,141 @@
 #### given (that)
 - Given the circumstances, a tie is a brilliant result.
 
+### 予防
+
+#### in case
+- Bring an umbrella with you just in case it rains.
+- In case you need help, here's my cell phone number.
+
+#### for fear that
+- I stuck very close to my big brother, for fear that I should get lost.
+
+#### lest ... (should)
+- Naoko tiptoed from her bedroom to the front door, lest her parents (should) hear her.
+
+#### otherwise
+- I'll answer them straight away, otherwise I'll forget.
+
+### 原因
+
+#### because
+- Because I didn't practice, I made no progress.
+
+#### for
+- I went to bed very early, for I had had an exhausting day.
+
+#### in that
+- Money is important in that we need it to survive.
+
+#### inasmuch as
+- He was lucky inasmuch as they didn't fire him.
+
+#### because of
+- The match was delayed because of the terrible storm.
+
+#### due to
+- Due to train delays, many students were late for classes this morning.
+
+#### owing to
+- I can't take part in the exchange program owing to the cost.
+
+#### thanks to
+- I passed the test thanks to all your help.
+
+#### on account of (困難, 問題, 不具合)
+- Schools were closed on account of the typhoon.
+
+### 目的
+
+#### to 不定詞
+- He took the course to get a better job.
+
+#### in order to 不定詞
+- He took the course in order to get a better job.
+
+#### so as to 不定詞
+- He took the course so as to get a better job.
+
+#### so (that)
+- She stayed at work late so (that) she could complete the report.
+
+#### in order that
+- I have to be strict in order that the students realize who is the boss!
+
+#### such that (アカデミック)
+- I've organized the files such that each document will be easy to find.
+
+#### in such a way that/as to
+- They presented the project in such a way that only the positive aspects were seen.
+
+#### for the sake of (現状の改善)
+- I know I shouldn't smoke for the sake of my health, but ...
+
+### 譲歩
+
+#### although / though
+- Although/Though he was injured, he carried on playing.
+- Colin is an excellent coach. He can be a bit aggressive, though.
+- Even though they know they could get caught, many athletes continue to use drugs.
+
+#### still
+- I treat my girlfriend like a queen, and still she's not satisfied.
+
+#### all the same
+- We didn't make as much money as expected. All the same, it was a pretty successful event.
+
+#### nevertheless / nonetheless
+- Nevertheless, it's a good idea to double-check.
+
+#### despite [in spite of] the fact that
+- Despite the fact that we lost, we are satisfied with our overall performance.
+- We played soccer despite [in spite of] the rain.
+
+### 対比
+
+#### while
+- I support the Giants, while my girlfriend is a Hanshin Tigers' fan.
+
+#### whereas
+- The old system was fairly complicated, whereas the new system is very simple.
+
+#### in/by contrast
+- Dogs can easily be trained to do tricks. By contrast, it is very difficult to train cats.
+
+#### on the contrary
+- I hear the city is a bit dead. On the contrary, it's very vibrant with tons of things to do.
+
+#### on the other hand
+
+### 時間
+
+#### when
+
+#### while
+
+#### since
+
+#### once
+- Once she makes a few friends, she'll be fine.
+
+#### now that
+- Now that we understand the causes of this problem, let us consider some solutions.
+
+### as
+
+#### 同時
+- As I bent down to tie my laces, my back went out!
+- I lost balance as I was trying to stand on my head.
+
+#### 理由 (公然の事実から)
+- As the cost of air tickets has gone up so much, many people can no longer afford to travel.
+- As the hurricane hit the town, everyone ran for their lives.
+
+#### につれて
+- As time passed, his condition got better and better.
+- As the unemployment level rises, the crime rate also increases.
+
+#### として
+- As your doctor, I have to advise you to quit smoking.
+- I regard my new job as a great challenge.
+- As you know, it's Tom's birthdday next week.
