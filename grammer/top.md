@@ -26,7 +26,7 @@
 - [ ] [DISLOCATIONS](dislocations.md)
 
 ## TEMPORAL EXPRESSIONS
-- [ ] [TEMPORAL EXPRESSIONS](temporal_expressions.md)
+- [x] [TEMPORAL EXPRESSIONS](temporal_expressions.md)
 
 ## COMBINING SETENCES
 - [x] [CONJUNCTIONS](conjunctions.md)

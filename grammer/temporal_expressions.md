@@ -6,9 +6,9 @@
 - Be quiet!
 
 ### 願望 要求 提案などをあらわす節
-- I always insist that my staff be well dressed.
-- They are demanding that she pay in cash.
-- I propose that the money be spent on library books.
+- I always **insist** that my staff be well dressed.
+- They are **demanding** that she pay in cash.
+- I **propose** that the money be spent on library books.
 - It is important that you give 100% to your job.
 
 ## 現在文
@@ -155,7 +155,7 @@
 - Will you be going on a trip this summer?
 
 ### be to (指し示す)
-- You're finish your homework before wathing TV.
+- You're to finish your homework before wathing TV.
 - 2 students from my class are to be awarded study-abroad acholarships.
 
 ### 過去形を使うことだってできる
