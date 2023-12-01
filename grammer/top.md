@@ -29,5 +29,5 @@
 - [ ] [TEMPORAL EXPRESSIONS](temporal_expressions.md)
 
 ## COMBINING SETENCES
-- [ ] [CONJUNCTIONS](conjunctions.md)
+- [x] [CONJUNCTIONS](conjunctions.md)
 - [ ] [GOOD FLOW](good_flow.md)
