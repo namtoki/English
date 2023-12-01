@@ -160,3 +160,39 @@
 
 ### 過去形を使うことだってできる
 - You're going to see Johnny Depp's latest movie tonight? Tell me what it **was** like tommorow, OK?
+
+## 仮定法
+
+### If
+- If you kissed me, I'd scream.
+- If you stopped smoking, you would feel much healthier.
+- If I had 'connections', I could get a much better job.
+- If you went out a bit more, you might make more friends.
+- If I had studied harder, I would have got a higher TOEIC score.
+- If I had saved more money, I could have gone to Hawaii.
+- If you had called me earlier, I might have been able to meet you.
+
+### wish
+- I wish I had a girlfriend.
+- I wish I had been more attentive.
+- I wish I hadn't eaten so much chocolate!
+
+### if only
+- If only Bob was/were here.
+- If only she would give me another chance.
+
+### as if
+- My boyfrined acts as if he was/were my boss.
+
+### suppose / imagine
+- Suppose I was/were to offer you a job here, would you accept?
+
+### it's (high) time
+- It's time we said good-bye.
+
+### If の省略や他の接続詞の使用
+- I would start by spending only on absolute necessities.
+- I would have kicked him out for good!
+- Without my parents' support, I couldn't have started my business.
+- But for your encouragement, I would have given up a long time ago.
+- If  it weren't for sport, my life would be pretty dull.
