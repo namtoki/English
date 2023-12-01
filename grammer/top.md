@@ -30,4 +30,4 @@
 
 ## COMBINING SETENCES
 - [x] [CONJUNCTIONS](conjunctions.md)
-- [ ] [GOOD FLOW](good_flow.md)
+- [x] [GOOD FLOW](good_flow.md)
