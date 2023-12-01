@@ -92,6 +92,71 @@
 - Have you finished your dinner **yet**? No, not **yet**.
 
 ### 経験
+- I've eaten fried ants.
+- I've enjoyed many fascinating adventures.
+- We've been to Machu Picchu.
+- Have you **ever** loved someone?
 
-## 未来のことに過去形を使うことだってできる
+### 継続
+- We've been partners for 3 years.
+- I've lived in Nagoya since 2001.
+- How have you been?
+
+### 結果
+- I've dislocated my shoulder, so I can't play tennis.
+
+## 過去完了形
+- The poor man had already died when the ambulance got there.
+
+## 助動詞 + 完了形
+- I will have finished my homework by 10.
+- They will have arrived in Los Angeles by now.
+- Something may have happened to her. I'm very worried.
+- He must have forgotten to cancel the reservation.
+- I should have studied harder.
+
+## 現在完了進行形
+- I've been cleaning the kitchen since this morning.
+- I've been waiting for you for ages!
+
+## 未来
+
+### will (予測)
+- It will rain tomorrow.
+- Don't worry, we'll make it in time.
+
+### will (意思 するよ)
+- I'll give you a hand with the dishes.
+- I'll clean my room!
+- I'll check it out.
+
+### be going to (目に見える原因)
+できごとに向かった流れの中にいる
+- It's going to pour down any minute.
+- Watch out! The boxes are going to fall.
+- Look. He is going to do some magic.
+- Hurry. We're going to be late for class.
+
+### be going to (意思 つもり)
+- Are you going to attend the party?
+- I'm going to check out the new bookshop.
+
+### 進行形 (予定)
+- I'm playing badminton at 3.
+- I'm having luch with Keiko on Thursday.
+
+### 現在形 (確定した未来)
+- My birthday is next Tuesday.
+- What time does this train arrive at Tokyo Station?
+- His presentation begins at 1:30 p.m.
+
+### will + 進行形 (しているだろう)
+- This time next week, I'll be sunbathing on the beach.
+- Will you be going on a trip this summer?
+
+### be to (指し示す)
+- You're finish your homework before wathing TV.
+- 2 students from my class are to be awarded study-abroad acholarships.
+
+### 過去形を使うことだってできる
 - You're going to see Johnny Depp's latest movie tonight? Tell me what it **was** like tommorow, OK?
