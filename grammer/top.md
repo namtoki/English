@@ -22,8 +22,8 @@
 - [ ] [CLAUSES](clauses.md)
 
 ## DISLOCATION
-- [ ] [QUESTIONS](questions.md)
-- [ ] [DISLOCATIONS](dislocations.md)
+- [x] [QUESTIONS](questions.md)
+- [x] [DISLOCATIONS](dislocations.md)
 
 ## TEMPORAL EXPRESSIONS
 - [x] [TEMPORAL EXPRESSIONS](temporal_expressions.md)
