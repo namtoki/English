@@ -16,7 +16,7 @@
 - [ ] [WH MODIFICATIONS](wh-modifications.md)
 
 ## FREE ELEMENTS
-- [ ] [ING FORM](ing.md)
+- [x] [ING FORM](ing.md)
 - [ ] [TO INFINITIVES](to.md)
 - [ ] [PAST PARTICIPLES](past.md)
 - [ ] [CLAUSES](clauses.md)
