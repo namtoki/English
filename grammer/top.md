@@ -19,7 +19,7 @@
 - [x] [ING FORM](ing.md)
 - [x] [TO INFINITIVES](to.md)
 - [x] [PAST PARTICIPLES](past.md)
-- [ ] [CLAUSES](clauses.md)
+- [x] [CLAUSES](clauses.md)
 
 ## DISLOCATION
 - [x] [QUESTIONS](questions.md)
