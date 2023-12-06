@@ -17,8 +17,8 @@
 
 ## FREE ELEMENTS
 - [x] [ING FORM](ing.md)
-- [ ] [TO INFINITIVES](to.md)
-- [ ] [PAST PARTICIPLES](past.md)
+- [x] [TO INFINITIVES](to.md)
+- [x] [PAST PARTICIPLES](past.md)
 - [ ] [CLAUSES](clauses.md)
 
 ## DISLOCATION
