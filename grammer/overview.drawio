@@ -1,59 +1,59 @@
-<mxfile host="Electron" modified="2023-12-10T01:15:53.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="sGyUqX27xUIQqZrAmxOm" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2023-12-10T05:25:45.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="7zutIZTpQRU2f75IqtmT" version="22.1.2" type="device">
   <diagram name="ページ1" id="GFmZzAKyXg2SDJh61zp_">
-    <mxGraphModel dx="1585" dy="712" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2128" dy="1438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="278fj_2jpAA5u8s5JAmA-2" value="主" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="112" width="26" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-3" value="動" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8" y="112" width="26" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-4" value="説" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="90" y="202" width="26" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-5" value="目" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="90" y="112" width="26" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-6" value="目" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="172" y="247" width="26" height="26" as="geometry" />
-        </mxCell>
         <mxCell id="278fj_2jpAA5u8s5JAmA-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;他動型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-188" y="116" width="63" height="18" as="geometry" />
+          <mxGeometry x="-188" y="60" width="63" height="447" as="geometry" />
         </mxCell>
         <mxCell id="278fj_2jpAA5u8s5JAmA-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;自動型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-188" y="161" width="63" height="18" as="geometry" />
+          <mxGeometry x="-188" y="516" width="63" height="39" as="geometry" />
         </mxCell>
         <mxCell id="278fj_2jpAA5u8s5JAmA-9" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;説明型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-188" y="206" width="63" height="18" as="geometry" />
+          <mxGeometry x="-188" y="576" width="63" height="101" as="geometry" />
         </mxCell>
         <mxCell id="278fj_2jpAA5u8s5JAmA-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;授与型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="-188" y="251" width="63" height="18" as="geometry" />
+          <mxGeometry x="-188" y="775.1500000000001" width="63" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-11" value="主" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="156" width="26" height="26" as="geometry" />
+        <mxCell id="278fj_2jpAA5u8s5JAmA-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ なんでも主語に&lt;br&gt;ing 形、to 不定詞、節、前置詞&lt;br&gt;Under the doormat is ~~~.&lt;br&gt;&lt;br&gt;✅ 標準は単純な (代) 名詞&lt;br&gt;to 不定詞や節は高尚なイメージ&lt;br&gt;&lt;br&gt;✅ 友達同士などで主語省略&lt;br&gt;&lt;strike&gt;Are you&lt;/strike&gt; Enjoying the party?&lt;br&gt;&lt;strike&gt;I&lt;/strike&gt; Hope you recover soon!&lt;br&gt;&lt;br&gt;✅ 無生物主語 → 便利&lt;br&gt;The news made us all excited.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#E6E6E6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="-208" width="160" height="257" as="geometry" />
         </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-12" value="動" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8" y="156" width="26" height="26" as="geometry" />
+        <mxCell id="278fj_2jpAA5u8s5JAmA-19" value="主語" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-107" y="60" width="159" height="764" as="geometry" />
         </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-13" value="主" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="202" width="26" height="26" as="geometry" />
+        <mxCell id="278fj_2jpAA5u8s5JAmA-23" value="✅ 句動詞&#xa;" style="text;whiteSpace=wrap;fontSize=10;fontColor=#FF0000;fontStyle=1;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="567" y="516" width="394" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-14" value="動" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8" y="202" width="26" height="26" as="geometry" />
+        <mxCell id="278fj_2jpAA5u8s5JAmA-25" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ be 動詞は省略されることがある&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;感情が激昂したとき&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;You &lt;strike&gt;are a&lt;/strike&gt; liar!&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;手短に切れくよく発言したいとき&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;&lt;strike&gt;Is&lt;/strike&gt; Everything OK?&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#E6E6E6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="567" y="576" width="394" height="98.29" as="geometry" />
         </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-15" value="主" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="247" width="26" height="26" as="geometry" />
+        <mxCell id="278fj_2jpAA5u8s5JAmA-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;トレーニングを積むしかない事項&lt;br&gt;&lt;br&gt;✅ どの動詞がどの文型でどう使われるのか&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-151" y="-376" width="277" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-16" value="動" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8" y="247" width="26" height="26" as="geometry" />
+        <mxCell id="278fj_2jpAA5u8s5JAmA-27" value="動詞" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="61" y="60" width="159" height="767" as="geometry" />
         </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-17" value="目" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="90" y="247" width="26" height="26" as="geometry" />
+        <mxCell id="278fj_2jpAA5u8s5JAmA-28" value="目的語" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="229" y="60" width="159" height="447" as="geometry" />
         </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ なんでも主語に&lt;br&gt;ing 形、to 不定詞、that 節、&lt;br&gt;wh 節、where 節、前置詞&lt;br&gt;Under the doormat is ~~~.&lt;br&gt;✅ 標準は単純な (代) 名詞&lt;br&gt;to 不定詞や節は高尚なイメージ&lt;br&gt;✅ 友達同士などで主語省略&lt;br&gt;&lt;strike&gt;Are you&lt;/strike&gt; Enjoying the party?&lt;br&gt;&lt;strike&gt;I&lt;/strike&gt; Hope you recover soon!&lt;br&gt;✅ 無生物主語 → 便利&lt;br&gt;The news made us all excited.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-117" y="306" width="157" height="211" as="geometry" />
+        <mxCell id="278fj_2jpAA5u8s5JAmA-29" value="説明語句" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="229" y="576" width="159" height="98.29" as="geometry" />
+        </mxCell>
+        <mxCell id="278fj_2jpAA5u8s5JAmA-30" value="目的語" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="229" y="747.86" width="159" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="278fj_2jpAA5u8s5JAmA-31" value="目的語" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="397" y="747.86" width="159" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="278fj_2jpAA5u8s5JAmA-33" value="(説明語句)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="397" y="197" width="159" height="367" as="geometry" />
+        </mxCell>
+        <mxCell id="278fj_2jpAA5u8s5JAmA-34" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ 他動型のもつ強い「及ぶ」感触&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;[他] I know&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Monet. (深い知識を持っている)&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;[自] I know about Monet. (印象派だな、光の画家だな、くらいの知っている感)&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;[自] I know of&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Monet. ( あー聞いたころあるなー。建築やってんだっけ？くらい)&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;[他] He shot&amp;nbsp; &amp;nbsp; &amp;nbsp;the bird.&amp;nbsp; &amp;nbsp;(彼は鳥を&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 撃った)&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;[自] He shot at the bird.&amp;nbsp; &amp;nbsp;(彼は鳥をめがけて撃った)&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;✅ 目的語説明文&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;(名詞)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Just call me &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;Ken&lt;/font&gt;&lt;/b&gt;.&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;(形容詞)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;He smashed the lock &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;open&lt;/font&gt;&lt;/b&gt;.&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;(前置詞句)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I saw a cockroach&lt;font color=&quot;#00ff00&quot;&gt; &lt;b&gt;in the kitchen&lt;/b&gt;&lt;/font&gt;.&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;(ing 形)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;I saw the players &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;training&lt;/font&gt;&lt;/b&gt;.&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;(過去分詞)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Harry saw Lucy &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;bullied by her classmate&lt;/font&gt;&lt;/b&gt;.&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;(知覚動詞 + 動詞原形) I &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;saw &lt;/font&gt;&lt;/b&gt;Mary &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;cross &lt;/font&gt;&lt;/b&gt;the street.&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;(知覚動詞 + 動詞原形) Didn&#39;t you &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;hear &lt;/font&gt;&lt;/b&gt;the phone &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;ring&lt;/font&gt;&lt;/b&gt;?&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;(使役動詞)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I&#39;ll do anything to &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;make &lt;/font&gt;&lt;/b&gt;you &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;happy&lt;/font&gt;&lt;/b&gt;.&lt;br style=&quot;border-color: var(--border-color); padding: 0px; margin: 0px;&quot;&gt;(使役動詞)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;had &lt;/font&gt;&lt;/b&gt;my hair &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;cut&lt;/font&gt;&lt;/b&gt;.&amp;nbsp;&lt;br&gt;(使役動詞)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Don&#39;t &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;let&lt;/font&gt;&lt;/b&gt; me &lt;font color=&quot;#00ff00&quot;&gt;&lt;b&gt;down&lt;/b&gt;&lt;/font&gt;.&lt;br&gt;(使役動詞 + 動詞原形) I&#39;ll &lt;font color=&quot;#00ff00&quot;&gt;&lt;b&gt;have&lt;/b&gt;&lt;/font&gt; my secretary &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;fax &lt;/font&gt;&lt;/b&gt;it to you rightaway.&lt;br&gt;(使役動詞 + 動詞原形) The PE tacher &lt;font color=&quot;#00ff00&quot;&gt;made &lt;/font&gt;the students &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;run &lt;/font&gt;&lt;/b&gt;in the snow.&lt;br&gt;(使役動詞 + 動詞原形) My daughter&#39;s upset because I won&#39;t &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;let &lt;/font&gt;&lt;/b&gt;her &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;get &lt;/font&gt;&lt;/b&gt;a tattoo.&lt;br&gt;(get + to 不定詞)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;got &lt;/font&gt;&lt;/b&gt;one of my classmates&lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt; to help&lt;/font&gt;&lt;/b&gt; my sister with her homowork.&lt;br&gt;(to 不定詞)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;My parents always &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;tell&lt;/font&gt;&lt;/b&gt; me &lt;font color=&quot;#00ff00&quot;&gt;&lt;b&gt;to study&lt;/b&gt;&lt;/font&gt; harder!&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#E6E6E6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="567" y="60" width="395" height="444" as="geometry" />
+        </mxCell>
+        <mxCell id="278fj_2jpAA5u8s5JAmA-36" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ レポート文&lt;br&gt;(that 節)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Tom said to me &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;he loved me&lt;/font&gt;&lt;/b&gt;.&lt;br&gt;(that 節)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;I think &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;Mary is gorgeous&lt;/font&gt;&lt;/b&gt;.&lt;br&gt;(whether/if 節) I didn&#39;t know &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;whether/if you had already paid the bill&lt;/font&gt;&lt;/b&gt;.&lt;br&gt;&lt;br&gt;✅ say, hear, tell などのコミュニケーション動詞では、しばしば現在形が優先される&lt;br&gt;She &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;says &lt;/font&gt;&lt;/b&gt;she &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;isn&#39;t &lt;/font&gt;&lt;/b&gt;going to marry him.&lt;br&gt;I &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;hear&lt;/font&gt;&lt;/b&gt; that the PTA &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;is &lt;/font&gt;&lt;/b&gt;going to hold a fund-raising concert next month.&lt;br&gt;Kaori &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;tells &lt;/font&gt;&lt;/b&gt;me that Kenji &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;is &lt;/font&gt;&lt;/b&gt;going to be expelled from school.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;✅ レポート文&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;(that 節)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I&#39;m so sad &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;he lost his job&lt;/font&gt;&lt;/b&gt;.&lt;br&gt;(that 節)&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; I&#39;m afraid &lt;b&gt;&lt;font color=&quot;#00ff00&quot;&gt;we cannot give you a refund&lt;/font&gt;&lt;/b&gt;.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#E6E6E6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="974" y="325" width="395" height="311" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
