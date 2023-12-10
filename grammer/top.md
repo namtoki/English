@@ -1,7 +1,6 @@
 # Grammer
 
 ## Framework
-- [ ] [VERB](verb.md)
 - [ ] [NOUN](noun.md)
 
 ## Modification
