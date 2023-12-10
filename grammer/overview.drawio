@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-12-10T05:25:45.603Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="7zutIZTpQRU2f75IqtmT" version="22.1.2" type="device">
+<mxfile host="Electron" modified="2023-12-10T05:33:33.301Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="cpRRtqxGjtFAN0zyS_Zn" version="22.1.2" type="device">
   <diagram name="ページ1" id="GFmZzAKyXg2SDJh61zp_">
     <mxGraphModel dx="2128" dy="1438" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="278fj_2jpAA5u8s5JAmA-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;授与型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;verticalAlign=middle;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-188" y="775.1500000000001" width="63" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="278fj_2jpAA5u8s5JAmA-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ なんでも主語に&lt;br&gt;ing 形、to 不定詞、節、前置詞&lt;br&gt;Under the doormat is ~~~.&lt;br&gt;&lt;br&gt;✅ 標準は単純な (代) 名詞&lt;br&gt;to 不定詞や節は高尚なイメージ&lt;br&gt;&lt;br&gt;✅ 友達同士などで主語省略&lt;br&gt;&lt;strike&gt;Are you&lt;/strike&gt; Enjoying the party?&lt;br&gt;&lt;strike&gt;I&lt;/strike&gt; Hope you recover soon!&lt;br&gt;&lt;br&gt;✅ 無生物主語 → 便利&lt;br&gt;The news made us all excited.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#E6E6E6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-108" y="-208" width="160" height="257" as="geometry" />
+        <mxCell id="278fj_2jpAA5u8s5JAmA-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;✅ なんでも主語に&lt;br&gt;ing 形、to 不定詞、節、前置詞&lt;br&gt;Under the doormat is ~~~.&lt;br&gt;&lt;br&gt;✅ 標準は単純な (代) 名詞&lt;br&gt;to 不定詞や節は高尚なイメージ&lt;br&gt;&lt;br&gt;✅ 友達同士などで主語省略&lt;br&gt;&lt;strike&gt;Are you&lt;/strike&gt; Enjoying the party?&lt;br&gt;&lt;strike&gt;I&lt;/strike&gt; Hope you recover soon!&lt;br&gt;&lt;br&gt;✅ 命令文&lt;br&gt;(高圧) Concentrate!&lt;br&gt;(勧め) Take a look at it.&lt;br&gt;&lt;br&gt;✅ 無生物主語 → 便利&lt;br&gt;The news made us all excited.&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#E6E6E6;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-108" y="-282" width="160" height="331" as="geometry" />
         </mxCell>
         <mxCell id="278fj_2jpAA5u8s5JAmA-19" value="主語" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-107" y="60" width="159" height="764" as="geometry" />
