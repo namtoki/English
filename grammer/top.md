@@ -1,7 +1,6 @@
 # Grammer
 
 ## Framework
-- [ ] [SENTENCE PATTERN](pattern.md)
 - [ ] [VERB](verb.md)
 - [ ] [NOUN](noun.md)
 
