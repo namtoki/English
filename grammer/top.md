@@ -2,7 +2,6 @@
 
 ## Framework
 - [ ] [SENTENCE PATTERN](pattern.md)
-- [ ] [SUBJECTIVE](subjective.md)
 - [ ] [VERB](verb.md)
 - [ ] [NOUN](noun.md)
 
