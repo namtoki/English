@@ -1,8 +1,5 @@
 # Grammer
 
-## Framework
-- [ ] [NOUN](noun.md)
-
 ## Modification
 - [x] [ADJECTIVE](adjective.md)
 - [x] [ADVERB](adverb.md)
