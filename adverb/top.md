@@ -1,3 +1,0 @@
-# ADVERB
-
-- [DEGREE](degree.md)

@@ -1,8 +1,4 @@
 # English
 
-- [GRAMMER](grammer/top.md)
-- [VERB (Basic)](verb/basic.md)
-- [CONJUNCTION](conjunction/top.md)
-- [ADVERB](adverb/top.md)
-- [SENTENCES](sentences/top.md)
-- [STOCK](stock/top.md)
+- [GRAMMER](grammer/overview.drawio.svg)
+- [STOCK 01](stock/01.md)
