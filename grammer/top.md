@@ -1,7 +1,6 @@
 # Grammer
 
 ## Modification
-- [x] [ADVERB](adverb.md)
 - [x] [COMPARISON](comparison.md)
 - [x] [NEGATION](negation.md)
 - [ ] [AUXILIARY VERBS](auxiliary_verbs.md)
