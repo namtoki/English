@@ -1,12 +1,5 @@
 # Grammer
 
-## Modification
-- [x] [COMPARISON](comparison.md)
-- [x] [NEGATION](negation.md)
-- [ ] [AUXILIARY VERBS](auxiliary_verbs.md)
-- [ ] [PREPOSITIONS](prepositions.md)
-- [ ] [WH MODIFICATIONS](wh-modifications.md)
-
 ## FREE ELEMENTS
 - [x] [ING FORM](ing.md)
 - [x] [TO INFINITIVES](to.md)
