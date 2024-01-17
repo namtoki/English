@@ -1,0 +1,190 @@
+
+
+
+### Appearance
+- bald
+- beard
+- moustache
+
+### Culture / Customs
+- be a custom to ...
+    - It's `a custom to` take off your shoes before entering a Japanese Home.
+- be traditional to ...
+    - In Japan, it's `traditional to` visit a shrine during the first few days of the new year.
+- always ... on|for ...
+    - In my family, we `always` eat turkey `on` Thanksgiving and have ham `for` Christmas.
+- be supposed to ...
+    - On Valentine's Day, in Japan girls `are supposed to` give chocolates to the guys.
+    - Dolphins `are supposed to` be intelligent.
+- be acceptable <--> unacceptable
+    - Crossing your legs is `unacceptable` in business situations in Japan, but it's `acceptable` in other countries.
+- no longer
+    - Japanese ment `no longer` wear their hair in topknots.
+- die out
+    - The custom of tipping might die out because of digital payments.
+
+### Foods
+- easy on my stomach
+    - Udon noodles are `easy on my stomach`.
+
+### Life
+- pu on
+    - It is difficult to `put on` a Kimono.
+- make ... Adj
+    - I'll do anything to make you happy.
+    - The story made me sad.
+    - When I was on homestay, I found it difficult to make mayself understood in English.
+    - (使役) The PE teacher made the students run in the snow.
+- have ... Adj
+    - Shall we have our new plasma TV on the wall?
+    - I had my uniform cleaned for the graduation ceremony.
+    - I had my iPod pinched from my school bag.
+    - ★ My iPod was pinched との違いは？
+    - I had my hair cut.
+    - (使役) I'll have the nurse bandage your leg for you.
+- let ... Adj
+    - Don't  let me down.
+    - (使役) My daughter's upset because I won't let her get a tattoo.
+- get ... to 不定詞
+    - (使役) I got one of my classmates to help my sister with her homework.
+        - = I asked some of my classmates to give me a hand.
+    - (使役) She often gets an Italian restaurant to deliver a pizza to her home.
+- I took out my `mortage` this year.
+    - mortage = loan for a house/property/condo
+- treat yourself
+- blur
+    - Last weekend was a blur. = I don't remember well.
+- browsing
+    - Some people are browsing their phones.
+
+### Weather
+- sunny
+- chilly
+- cold
+- fleezing
+- humid
+    - humidity = wet air
+    - Seattle has low humidity in summer.
+    - Tokyo is too humid.
+    - It is humid in the summer but it is cold and dry in the winter.
+- polluted
+    - India is so `polluted`.
+
+### Plan
+- be supposed to ...
+    - What time are we `supposed` to be there?
+    - What time are we `going` to be there?
+    - It's `supposed` to snow tonight.
+    - I'm not `supposed` to be here.
+    - I shouldn't be here.
+    - You `were supposed` to do the dishes tonight.
+- plan ahead
+    - We should plan ahead for the year-end shopping season and hire some new workers now.
+- give some thought to 
+    - We need to give some thought to what we will do if the client ways no to our first offer.
+
+### Others
+- bathed in
+    - I `bathed in` the Ghanges River.
+    - The nuns traditionally `bathed in` the lake, and one day two nuns saw a hand with a gold ring extending from the water.
+    - be bathed in a golden light
+    - be bathed in blood
+    - be bathed in sweat
+- Meeting
+    - I think it's difficult to talk about this over the phone. Let's `meet face-to-face` and talk about what we should do.
+    - I have to `go to a meeting` with a new client `on` Monday afternoon `at` 3pm `in` Berlin.
+    - We're `having a meeting` tomorrow morning to duscuss the new project.
+    - Good morning, everyone. We should `get started`. First, I'd like to `go over` the most recent marketing data.
+    - Today Ms.Gibbons will be `giving a presentation on` our latest products.
+    - I'm going to `hand out` a few copies of our new brochure. Please `pass` them `around`.
+- Their last championship was 16 years ago.
+- The last time they were champions was 16 years ago.
+- Last Saturday, I `came` here for the first time.
+- There are many `people in poverty`.
+- Strong face
+- Soft face
+- talks too much
+    - The new guy in the office talks too much. I can't focus on my work.
+- pick nose
+- kind of thing
+    - I was trying to create something like my original anime kind of thing.
+    - This is a flip phone kind of thing but a bit different.
+- make a decision|choice
+    - I got job offers from two companies. Ihave to make a decision about which offer to accept.
+- check with ...
+    - I need to check with my boss before I can make a decision about when to take my summer vacation.
+- take a vote
+    - My team took a vote to decide where we should have lunch.
+- refuse <--> decline
+    - We asked the supplier to lower the price by 5%, but they refused.
+- the right thing to do
+    - We've decided to buy an electric car because it's the right thing to do for the environment.
+- leaning toward
+    - I haven't decided yet, but I'm leaning toward B.
+- choose ... over ...
+    - I would choose Interstate Construction over New Look Construction.
+- start / finish work at ...
+- business hours
+- work late
+- work overtime
+- can make it
+    - Can you make it to the meeting on Friday? Sorry, I can't make it because I'm going on a business trip.
+- available, unavailable, in, out, off
+- I work 8 hours not including lunch
+- I work 8 hours without lunch
+- I'm looking forward to your souvenirs.
+- come across
+    - I `came across` this information on the internet.
+    - I `came across` an old friend on the street.
+
+## Degree
+- frequency
+    - 100: always
+    - 95:  nearly|almost always
+    - 80:  usually
+    - 65:  often
+    - 55:  frequently
+    - 50:  sometimes
+    - 30:  occasionally
+    - 10:  seldom | rarely
+    - 5:   almost never | hardly ever
+    - 0:   never
+- great / good / bad
+    - great
+        - very
+        - really
+        - pretty
+        - fairly
+        - kind of
+    - good
+        - kind of bad
+        - fairly bad
+        - pretty bad
+        - really bad
+    - bad
+- dislike
+    - don't mind
+    - don't really like
+    - don't like
+    - really don't like
+    - can't stand
+    - hate
+- not at all
+
+## Proverb / Saying
+- Happy wife, happy life.
+- hit it out of the park
+
+## Noun
+- equipment
+    - I got rid of some equipment
+    - I had to carry 100 pieces of equipment.
+- fancy
+- Insurance
+    - The social welfare
+    - The health insurance
+- passengers
+- pedestrians
+- current events
+- deer
+- baked goods
