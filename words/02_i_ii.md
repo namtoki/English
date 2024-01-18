@@ -33,5 +33,3 @@
 - era           er-a            ['i:rə]
 - eagle         ea-gle          ['i:gl]
 - eager         ea-ger          ['i:gɚ]
-
-ɚ ə ɪ æ ɔ ʌ θ ð ʃ ʒ ŋ
