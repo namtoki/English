@@ -18,14 +18,21 @@
 - `Great`
   - `Sounds good`
   - `Lucky you!`
+
+## Response
 - `Me too`
   - `So do I`
   - `Same here`
 - `Of course`
   - `Sure`
   - `You bet`
-
-## Response
+- `Might as well`
+  - Do you want to get some food first? `Might as well`. It's a long play.
+  - Shall we try that place? `Might as well`. There aren't many restaurants around here.
+  - We `might as well` walk there.
+  - They `may just as well` be married since they've been living together for years.
+  - Come on now, you `may as well` tell us.
+  - The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start. (仕方ない)
 - `That's a fair point`
 - `I'll take care of it.`
 - `Let me see...`
@@ -124,7 +131,12 @@
         - Talking of soccer, Did you watch the game yesterday?
 - Toward the end of game,
 
-### Question
+### Modesty
+- `You know as well as I do that`
+- `I don't want to bother` you.
+    - `It's no bother`.
+
+## Question
 - I've never been to Disney World in Florida. `How about you`?
 - Are we gonna have fun `or what`?
 - Do you like this kind of music, `or not really`?
@@ -139,66 +151,17 @@
 - `When was the last time ..`
   - `When was the last time` you talked to him?
 
-### Modesty
-- `You know as well as I do that`
-- `I don't want to bother` you.
-    - `It's no bother`.
-
-### Past
+## Actual
+- `used to`
+  - I `used to` read every day.
+  - I `used to` watch it all the time with my parents.
 - She `was supposed to` say yes.
-- I `used to` read every day.
-- I `used to` watch it all the time with my parents.
 - I `have never` been to Hawaii `before`, but I would like to go someday.
 - I felt dizzy, `and the next thing I knew` I was being carried by the ambulance.
-
-### Compromise
-- `might as well`
-    - Do you want to get some food first? `Might as well`. It's a long play.
-    - Shall we try that place? `Might as well`. There aren't many restaurants around here.
-    - We `might as well` walk there.
-    - They `may just as well` be married since they've been living together for years.
-    - Come on now, you `may as well` tell us.
-    - (仕方ない) The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start.
 
 ## Plural
 - My hobby is watching baseball game`s`.
 - I like wathing baseball game`s`.
 
 ## Literary expression
-- in which case
-
-## Archive
-- I wanted a hobby that I could do in Yokohama.
-- Oh! I always forget the 'S'!
-- Could you repeat that, please?
-- Could you speak a little slowly, please?
-- Could you speak more slowly, please?
-- Could you explain that?
-- Could you say that more simply, please?
-- Could you write it down, please?
-- Could you type it in the chat, please?
-- Could you make the material/notes bigger?
-- I'm sorry, I don't understand.
-- Can I ask you a question?
-- I want to know about...
-- How do you pronounce this word?
-- How do you spell this word?
-- How do you say ... in English?
-- Thank you for the lesson!
-- Enjoy your ...
-- Have a nice day!
-- See you next time!
-- Take care.
-- Can you see me?
-- Can you hear me?
-- I was on mute.
-- I can't see you/the material/the notes.
-- I `transferred offices` because I `changed jobs`.
-- I recently changed companies, so I have a lot to learn about the new company's culture.
-- My office is `in` Kawasaki.
-- I work `in` Kawasaki city.
-- I work `on` the fifth floor.
-- From my house to Kamiooka station is 20 minutes `on foot`.
-- I like working for my company but I'm still in my `honeymoon phase`.
-- I've been working at my current company for about 1 month and a half.
-- How long have you been working here?
+- `in which case`

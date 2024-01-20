@@ -1,14 +1,7 @@
 # Vocaburaly
 
-## Adverb
-- `Such a`
-  - That was `such a` fun day.
-  - You are `such a` pro. (まさしく)
-- `All kinds of ...`
-  - I've been eating `all kinds of things`.
-
 ## Idioms
-- one of those days
+- `one of those days`
 - `make the most of ..`
   - Let's `make the most of` it.
   - Let's `make the most of` our time here.
@@ -19,6 +12,13 @@
 - `the only thing`
   - It was great! `The only thing` was the food.
   - Is that `the only thing` you think about?
+
+## Daily life
+- He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.
+- He `goes to work` by work.
+
+## Food
+- Where is your favorite place to `eat out`?
 
 ## Work
 - `ace` / `nailed it`
@@ -33,7 +33,6 @@
 - up there / down there
 
 ## Restaurant
-- Salmomn roe
 - Salmomn roe
 - Seaweed
 - Pickled plum
