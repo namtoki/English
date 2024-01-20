@@ -47,6 +47,10 @@
 - `Such as?`
 - `I didn't mean it`.
 - `My pleasure`
+- `How kind of you`
+- `I have to say ..`
+  - `I have to say` your place is adorable!
+  - `I have to say` you have great taste.
 
 ## Beginning
 - `Do you have time?`
@@ -58,6 +62,9 @@
 - `What's up for lunch?`
 - `How's your day going?`
 - `Going back to` your question, my answer is no.
+- `Not again!`
+- `I know!`
+  - `I know!` Let's go bowling.
 
 ## Request
 - `Could you ..`

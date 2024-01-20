@@ -26,6 +26,7 @@
   - I think I really `nailed it` this time.
 - `work went late`
   - Sorry, `work went late`.
+- `Hang in there`
 
 ## Appearance
 - tidy
