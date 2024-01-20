@@ -1,9 +1,6 @@
 # Framework
 
-## Basic Pattern
-
-### Back-channeling
-
+## Back-channeling
 - `I think so too`
   - `I know, right?`
   - `Fair enough (, but)`
@@ -20,6 +17,7 @@
   - `(That) makes sense`
 - `Great`
   - `Sounds good`
+  - `Lucky you!`
 - `Me too`
   - `So do I`
   - `Same here`
@@ -27,8 +25,7 @@
   - `Sure`
   - `You bet`
 
-### Response
-
+## Response
 - `That's a fair point`
 - `I'll take care of it.`
 - `Let me see...`
@@ -37,9 +34,14 @@
 - `I couldn't catch you.`
   - `I couldn't get it.`
 - `Like you said,`
+- `That good?`
+  - I can't tell you how much I loved it.
+  - Wow! `That good?`
+- `Such as?`
+- `I didn't mean it`.
+- `My pleasure`
 
-### Beginning
-
+## Beginning
 - `Do you have time?`
   - `Do you have a minute/second?`
   - `Can I borrow you for a minute/second?`
@@ -50,14 +52,22 @@
 - `How's your day going?`
 - `Going back to` your question, my answer is no.
 
-### Request
+## Request
+- `Could you ..`
+  - `Could you` say that again?
+- `Do you think you could ..`
+  - `Do you think you could` talk to her?
+- `Do you think I could ..`
+  - `Do you think I could` get your number?
 
-- `Could you` say that again?
-
-### Opinion
-- `instead of ...ing`
-    - I think `instead of` try`ing` to make a killing in the first year, ,,,
-    - We dediced to chill at home `instead of` go`ing` out.
+## Opinion
+- `I feel bad about ..`
+  - `I feel bad about` canceling.
+- `I can't tell you how much ..`
+  - `I can't tell you how much` I loved it.
+- `With a little` luck, we can still make it.
+- I think `instead of` try`ing` to make a killing in the first year, ,,,
+- We dediced to chill at home `instead of` go`ing` out.
 - `rather than ...`
 - We're just tiny specks in the universe `if you think about it.`
 - It's crazy how we can communicate like this `if you think about it.`
@@ -124,6 +134,10 @@
 - `Is ... the same as ...?`
 - `What's it called?`
 - `What's the word for it?`
+- `Want to .. ?`
+  - `Want to` get dinner?
+- `When was the last time ..`
+  - `When was the last time` you talked to him?
 
 ### Modesty
 - `You know as well as I do that`
@@ -136,7 +150,6 @@
 - I `used to` watch it all the time with my parents.
 - I `have never` been to Hawaii `before`, but I would like to go someday.
 - I felt dizzy, `and the next thing I knew` I was being carried by the ambulance.
-- `I didn't mean it`.
 
 ### Compromise
 - `might as well`
