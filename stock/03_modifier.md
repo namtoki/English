@@ -10,9 +10,51 @@
   - There were only `like` thirty peeple there.
   - He doesn't like `(some)things like that`.
   - `Things like` party hats, paper plates and napkins.
+  - I think he's learning Spanish `or something like that`, if that makes sence.
 - `Kind of`
   - I'm `kind of` hungry.
   - I'm `kind of` sleepy.
   - She is `kind of` rude.
   - It was `kind of` ... confusing.
+- `And stuff`.
+  - We've got to do editing `and stuff`.
 
+## Conjunction
+- `instead of`
+  - I think `instead of` try`ing` to make a killing in the first year, ,,,
+  - We dediced to chill at home `instead of` go`ing` out.
+- `Going back to`
+  - `Going back to` your question, my answer is no.
+- `In this case`
+  - My printer runs out of ink every time I use it. `In this case`, I have to rush to an electronic store to get it.
+- `In that case`
+  - Can I get a glass of wine, please? We are terribly sorry, but we’ve run out of wine. `In that case`, I’ll have a beer.
+- `In which case`
+  - Literary expression
+- `simply put`
+- `(let's) say`
+- `Toward the end of ..`
+- `Speaking/Talking of ..`
+  - `Speaking of` summer, where did you go this year?
+  - `Talking of` soccer, Did you watch the game yesterday?
+- `When it comes to ..` `About ..`
+  - `When it comes to` the weather, there’s nothing I can do.
+  - `About` the food ... it is bad.
+  - `in regard to` our official comments
+  - `with regard to` the notes below
+  - `regarding` the subject above
+  - `concerning` the changes that were recently made
+  - `As for` the cost per person
+- `With a little`
+  - `With a little` luck, we can still make it.
+
+## Tag
+- `if you think about it.`
+  - We're just tiny specks in the universe `if you think about it.`
+  - It's crazy how we can communicate like this `if you think about it.`
+- `if that makes sense.`
+  - Well, it sounded a little bit British, but at the same time, maybe a bit Australian, `if that makes sense.`
+  - I want something cold, but at the same time, you know, maybe warmish `if that makes sense.`
+- `you know what I mean?`
+  - I think YouTube is getting more and more competitive, `you know what I mean?`
+  - At the end of the day, whether or not you should study English is completely up to you. `You know what I mean?`

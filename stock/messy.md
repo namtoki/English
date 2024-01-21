@@ -1,4 +1,16 @@
 
+- I studied English so much `to the point where` my dream started being in English.
+- He likes learning from textbooks, `whereas` I like learning on the job because I think it's way more efficient.
+- I `will never` climb Mt.Fuji `again`! I went last August and it was way too difficult for me.
+- I `want to try` scuba diving. My frinend said it's a lot of fun.
+- `the reason being`
+    - I made the decision not to join the program. `The reason being` I thought I wasn't ready yet and didn't have the competence enough to do it.
+    - I decided to turn down the job offer. `The reason being that`, I didn’t want to relocate.
+    - She moved back in with her parents. `The reason being that`, she wanted to take care of her parents.
+- I want to have a discussion `as to` which university is the best university.
+- `Whether or not` you like it doesn't matter because at the end of the day, he calls the shots.
+- `This might be just me, but` don't you think this is a bit too expensive?
+- Every one in my family is prerry short. I `wish` I `were` a little taller.
 
 ## Archive
 - I wanted a hobby that I could do in Yokohama.
