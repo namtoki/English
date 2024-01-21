@@ -20,6 +20,7 @@
 - `Lucky you!`
 - `That ...?`
   - I can't tell you how much I loved it. Wow! `That good?`
+- `I told you.`
 
 ## Response
 
@@ -41,6 +42,12 @@
   - Come on now, you `may as well` tell us.
   - The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start. (仕方ない)
 
+### Refuse
+- `I'm trying to ..`
+  - Hey, Toshi? `I'm trying to` work, Emily! (邪魔しないで)
+- `at the moment`
+  - Hang on. I'm just finishing up an email `at the moment`
+ 
 ### Great quiestion
 - `That's a fair point`
 - `Like you said,`
@@ -78,6 +85,8 @@
 - `Did you hear about`
   - `Did you hear about` Kim? She got promoted.
   - `Did you hear about` Greg's new job?
+- `I told you about .. , right?`
+  - `I told you about` my dad, `right?`
 
 ### Consultation
 - `What's up for lunch?`
@@ -111,13 +120,17 @@
 - `When was the last time ..`
   - `When was the last time` you talked to him?
 
-## Past
+## Experience
 - `used to`
   - I `used to` read every day.
   - I `used to` watch it all the time with my parents.
-- She `was supposed to` say yes.
-- I `have never` been to Hawaii `before`, but I would like to go someday.
-- I felt dizzy, `and the next thing I knew` I was being carried by the ambulance.
+- `have never .. before ..`
+  - I `have never` been to Hawaii `before`, but I would like to go someday.
+- `And the next thing I knew`
+  - I felt dizzy, `and the next thing I knew` I was being carried by the ambulance.
+- `I end up .. ing`
+  - `I` usually `end up getting` fast food. (ついついしちゃう)
+  - `I ended up staying` home. (結局 .. した)
 
 ## Opinion
 
@@ -132,26 +145,42 @@
 - `I have a feeling/hunch that`
   - `I have a feeling that` it's gonna be a great event.
   - `I have a hunch that` there's more to it.
-- `I feel bad about ..`
-  - `I feel bad about` canceling.
-- `I can't tell you how much ..`
-  - `I can't tell you how much` I loved it.
+- `it seems to be ..`
+  - `It seems to be` a good fit for him.
+  - `It seems to be` broken.
 - `It's .. how ..`
   - `It's` interesting `how` you said that.
   - `It's` amazing `how` you did that.
   - `It's` amazing `how` we can work on this project.
   - `It's` strange `how` time flies when we're having fun.
+- `I feel bad about ..`
+  - `I feel bad about` canceling.
+- `I can't tell you how much ..`
+  - `I can't tell you how much` I loved it.
 - `believe in`
   - I don't `believe in` ghosts.
+- `I feel like ..`
+  - `I feel like` Thai food.
+  - `I feel like` we never talk anymore.
+- `I was going to say ..`
+  - `I was going to say` we should get the smmaller one.
+  - `I was going to say`! (だよね！)
+- She `was supposed to` say yes.
 
 ### Correction
 - `I didn't mean it`.
 - `What I meant was ..`
   - `What I meant was`, you should do it carefully.
-- `It's not that/like ...`
+- `I was saying ..`
+  - No! `I was just saying ...` it's a new look for you.
+- `It's not that/like ..`
   - `It's not that` I like Joe. I just want to be on YouTube a lot.
   - `It's not that` I don't like you. I just don't have the time now.
   - `It's not like` Joe is a bad guy. He is just shady sometimes.
+- `I'm just trying to ..`
+  - `I'm just trying to` explain what happened.
+- `but at the same time`
+  - Working from home is great. Yeah, `but at the same time`, it's king of incovenient.
 
 ### Wish
 - `rather than ...`

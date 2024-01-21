@@ -8,11 +8,19 @@
 - `the best`
   - That show is `the best`!
 - `something else`
-  - That dinner was `something else`!
+  - That dinner was `something else`! (格別)
 - `the only thing`
   - It was great! `The only thing` was the food.
   - Is that `the only thing` you think about?
-
+- `It doesn't matter`
+  - `It doesn't matter`. I quit. (どうしようもない、どうでもよい)
+  - `It doesn't matter`. They're both great. (どっちでもよい)
+  - Which train do we need to take? `It doesn't matter`. They all go to Central Station. (どっちでもよい)
+- `new passion`
+  - It's my `new passion`. (最近の趣味)
+- `hang on`
+  - `Hang on` a sec.
+ 
 ## Daily life
 - He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.
 - He `goes to work` by work.

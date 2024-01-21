@@ -11,6 +11,9 @@
   - He doesn't like `(some)things like that`.
   - `Things like` party hats, paper plates and napkins.
   - I think he's learning Spanish `or something like that`, if that makes sence.
+- `Or whatever`
+  - I'm just going to read a book `or whatever`.
+  - She can gossip about me `or whatever`. (どうでもよいけど)
 - `Kind of`
   - I'm `kind of` hungry.
   - I'm `kind of` sleepy.
@@ -18,6 +21,8 @@
   - It was `kind of` ... confusing.
 - `And stuff`.
   - We've got to do editing `and stuff`.
+- `At the same time`
+  - It's hard being the writer and an actor `at the same time` (両立)
 
 ## Conjunction
 - `instead of`
@@ -47,6 +52,8 @@
   - `As for` the cost per person
 - `With a little`
   - `With a little` luck, we can still make it.
+- `As I was saying`
+  - Sorry. `As I was saying`, the acting was amazing.
 
 ## Tag
 - `if you think about it.`
