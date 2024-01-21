@@ -1,23 +1,31 @@
 # Framework
 
 ## Back-channeling
+
+### `I think so too`
 - `I think so too`
-  - `I know, right?`
-  - `Fair enough (, but)`
-  - `I feel you`
-  - `Been there done that`
-  - `I know what you mean`
-  - `I know what you are saying`
+- `I know, right?`
+- `Fair enough (, but)`
+- `I feel you`
+- `Been there done that`
+- `I know what you mean`
+- `I know what you are saying`
+
+### `(That's) true`
 - `(That's) true`
-  - `Exactly`
-  - `Absolutely`
-  - `Totally`
-  - `Right`
+- `Exactly`
+- `Absolutely`
+- `Totally`
+- `Right`
+
+### `I see`
 - `I see`
-  - `(That) makes sense`
+- `(That) makes sense`
+
+### `Great`
 - `Great`
-  - `Sounds good`
-  - `Lucky you!`
+- `Sounds good`
+- `Lucky you!`
 
 ## Response
 - `Me too`
@@ -46,6 +54,8 @@
   - Wow! `That good?`
 - `Such as?`
 - `I didn't mean it`.
+  - `What I meant was ..`
+    - `What I meant was`, you should do it carefully.
 - `My pleasure`
 - `How kind of you`
 - `I have to say ..`
@@ -57,14 +67,16 @@
   - `Do you have a minute/second?`
   - `Can I borrow you for a minute/second?`
   - `Is this a good time?`
+- `Did you hear about`
+  - `Did you hear about` Kim? She got promoted.
+  - `Did you hear about` Greg's new job?
+- `I know!`
+  - `I know!` Let's go bowling.
 - Hey Bob, long time no see. `What's new`?
-- `Did you hear about` Kim? She got promoted.
 - `What's up for lunch?`
 - `How's your day going?`
 - `Going back to` your question, my answer is no.
 - `Not again!`
-- `I know!`
-  - `I know!` Let's go bowling.
 
 ## Request
 - `Could you ..`
@@ -75,6 +87,9 @@
   - `Do you think I could` get your number?
 
 ## Opinion
+- `I was thinking ..`
+  - `I was thinking. Let's` take a short trip. (考えていたんだけど)
+  - `I was thinking... maybe` we could go somewhere else.
 - `I feel bad about ..`
   - `I feel bad about` canceling.
 - `I can't tell you how much ..`

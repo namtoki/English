@@ -8,6 +8,8 @@
   - I've been eating `all kinds of things`.
 - `Like`
   - There were only `like` thirty peeple there.
+  - He doesn't like `(some)things like that`.
+  - `Things like` party hats, paper plates and napkins.
 - `Kind of`
   - I'm `kind of` hungry.
   - I'm `kind of` sleepy.

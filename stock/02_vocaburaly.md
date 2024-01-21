@@ -17,9 +17,6 @@
 - He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.
 - He `goes to work` by work.
 
-## Food
-- Where is your favorite place to `eat out`?
-
 ## Work
 - `ace` / `nailed it`
   - I think we `aced` that presentation.
@@ -34,6 +31,7 @@
 - up there / down there
 
 ## Restaurant
+- Where is your favorite place to `eat out`?
 - Salmomn roe
 - Seaweed
 - Pickled plum
