@@ -32,5 +32,3 @@
 - yours         yours           [j'uɚz]
 - urine         urine           [j'uɚrin]
 - euro          euro            [j'uɚrou]
-
-ɚ ə ɪ æ ɔ ʌ θ ð ʃ ʒ ŋ
