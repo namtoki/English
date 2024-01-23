@@ -21,7 +21,10 @@
 - `hang on`
   - `Hang on` a sec.
 - `Hang in there.` / `Good luck.`
- 
+- `Eat someone alive`
+  - Keeping secrets was `eating me alive`.
+  - Memories of that tragedy are still `eating him alive`. 
+
 ## Daily life
 - He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.
 - He `goes to work` by work.
