@@ -1,49 +1,3 @@
-- I `want to try` scuba diving. My frinend said it's a lot of fun.
-- `the reason being`
-    - I made the decision not to join the program. `The reason being` I thought I wasn't ready yet and didn't have the competence enough to do it.
-    - I decided to turn down the job offer. `The reason being that`, I didn’t want to relocate.
-    - She moved back in with her parents. `The reason being that`, she wanted to take care of her parents.
-- I want to have a discussion `as to` which university is the best university.
-- `Whether or not` you like it doesn't matter because at the end of the day, he calls the shots.
-- `This might be just me, but` don't you think this is a bit too expensive?
-- Every one in my family is prerry short. I `wish` I `were` a little taller.
-
-## Archive
-- I wanted a hobby that I could do in Yokohama.
-- Oh! I always forget the 'S'!
-- Could you repeat that, please?
-- Could you speak a little slowly, please?
-- Could you speak more slowly, please?
-- Could you explain that?
-- Could you say that more simply, please?
-- Could you write it down, please?
-- Could you type it in the chat, please?
-- Could you make the material/notes bigger?
-- I'm sorry, I don't understand.
-- Can I ask you a question?
-- I want to know about...
-- How do you pronounce this word?
-- How do you spell this word?
-- How do you say ... in English?
-- Thank you for the lesson!
-- Enjoy your ...
-- Have a nice day!
-- See you next time!
-- Take care.
-- Can you see me?
-- Can you hear me?
-- I was on mute.
-- I can't see you/the material/the notes.
-- I `transferred offices` because I `changed jobs`.
-- I recently changed companies, so I have a lot to learn about the new company's culture.
-- My office is `in` Kawasaki.
-- I work `in` Kawasaki city.
-- I work `on` the fifth floor.
-- From my house to Kamiooka station is 20 minutes `on foot`.
-- I like working for my company but I'm still in my `honeymoon phase`.
-- I've been working at my current company for about 1 month and a half.
-- How long have you been working here?
-
 ## Uncategorized
 - `Apples and oranges`
 - `Mum's the word`
@@ -275,3 +229,43 @@
 - current events
 - deer
 - baked goods
+
+# Archive
+- I `want to try` scuba diving. My frinend said it's a lot of fun.
+- Every one in my family is prerry short. I `wish` I `were` a little taller.
+- `This might be just me, but` don't you think this is a bit too expensive?
+- `Whether or not` you like it doesn't matter because at the end of the day, he calls the shots.
+- I wanted a hobby that I could do in Yokohama.
+- Oh! I always forget the 'S'!
+- Could you repeat that, please?
+- Could you speak a little slowly, please?
+- Could you speak more slowly, please?
+- Could you explain that?
+- Could you say that more simply, please?
+- Could you write it down, please?
+- Could you type it in the chat, please?
+- Could you make the material/notes bigger?
+- I'm sorry, I don't understand.
+- Can I ask you a question?
+- I want to know about...
+- How do you pronounce this word?
+- How do you spell this word?
+- How do you say ... in English?
+- Thank you for the lesson!
+- Enjoy your ...
+- Have a nice day!
+- See you next time!
+- Take care.
+- Can you see me?
+- Can you hear me?
+- I was on mute.
+- I can't see you/the material/the notes.
+- I `transferred offices` because I `changed jobs`.
+- I recently changed companies, so I have a lot to learn about the new company's culture.
+- My office is `in` Kawasaki.
+- I work `in` Kawasaki city.
+- I work `on` the fifth floor.
+- From my house to Kamiooka station is 20 minutes `on foot`.
+- I like working for my company but I'm still in my `honeymoon phase`.
+- I've been working at my current company for about 1 month and a half.
+- How long have you been working here?

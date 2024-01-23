@@ -32,7 +32,6 @@
 ### Accept the proposal
 - `Of course`
 - `Sure`
-- `You bet`
 - `I'll take care of it.`
 - `Might as well`
   - Do you want to get some food first? `Might as well`. It's a long play.
@@ -69,6 +68,7 @@
 
 ### Return to appreciation
 - `My pleasure`
+- `You bet`
 
 ## Beginning
 
@@ -175,6 +175,10 @@
 - `I'm terrible with ..`
 - `I will never .. again`
   - `I will never` climb Mt.Fuji `again`! I went last August and it was way too difficult for me.
+- `the reason being`
+  - I made the decision not to join the program. `The reason being` I thought I wasn't ready yet and didn't have the competence enough to do it.
+  - I decided to turn down the job offer. `The reason being that`, I didn’t want to relocate.
+  - She moved back in with her parents. `The reason being that`, she wanted to take care of her parents.
 
 ### Correction
 - `I didn't mean it`.

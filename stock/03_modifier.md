@@ -58,6 +58,11 @@
   - I studied English so much `to the point where` my dream started being in English.
 - `whereas`
   - He likes learning from textbooks, `whereas` I like learning on the job because I think it's way more efficient.
+- `At to ..`
+  - I want to have a discussion `as to` which university is the best university.
+  - `As to` your request, we refunded your money to your account.
+- `At for ..`
+  - `As for` me, I agree with his opinion.
 
 ## Tag
 - `if you think about it.`
