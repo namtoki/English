@@ -18,7 +18,6 @@
 - There are different flavors of Udon noodles `all over Japan`.
 - I `don't really like` boiled carrot`s`. They don't smell good `to` me.
 - I am `determined` to used to speaking English, so I `decided` to take English lessons.
-- I wish I were better at speaking English.
 - I don't `work overtime` so my `work life balance` is so good.
 - My job was pretty difficult at first but now I've `gotten used to` it, so it is easier to do.
 - My boss `line manager` is American.

@@ -43,6 +43,7 @@
   - `Speaking of` summer, where did you go this year?
   - `Talking of` soccer, Did you watch the game yesterday?
 - `When it comes to ..` `About ..`
+  - Trust me `when it comes to` sushi.
   - `When it comes to` the weather, there’s nothing I can do.
   - `About` the food ... it is bad.
   - `in regard to` our official comments

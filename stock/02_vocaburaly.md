@@ -20,7 +20,7 @@
   - It's my `new passion`. (最近の趣味)
 - `hang on`
   - `Hang on` a sec.
-- `Hang in there`
+- `Hang in there.` / `Good luck.`
  
 ## Daily life
 - He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.

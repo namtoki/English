@@ -40,8 +40,11 @@
   - They `may just as well` be married since they've been living together for years.
   - Come on now, you `may as well` tell us.
   - The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start. (仕方ない)
+- `I'll do my best.`
 
 ### Refuse
+- `I wish I could, but ..`
+  - `I wish I could, but` I have to be out of town.
 - `I'm trying to ..`
   - Hey, Toshi? `I'm trying to` work, Emily! (邪魔しないで)
 - `at the moment`
@@ -70,6 +73,11 @@
 - `My pleasure`
 - `You bet`
 
+### Yell
+- `Good luck with ..`
+  - `Good luck with` your speech.
+- `It's not your fault.`
+
 ## Beginning
 
 ### Greeting
@@ -93,6 +101,8 @@
   - `Did you hear about` Greg's new job?
 - `I told you about .. , right?`
   - `I told you about` my dad, `right?`
+- `Do you remember ..?`
+  - `Do you remember` that bike at ABC Departmment Store?
 
 ### Consultation
 - `What's up for lunch?`
@@ -109,6 +119,8 @@
   - `Do you think you could` talk to her?
 - `Do you think I could ..`
   - `Do you think I could` get your number?
+- `I have a favor to ask.`
+- `I'd like to ask you a favor.`
 
 ### Question
 - I've never been to Disney World in Florida. `How about you`?
@@ -135,6 +147,8 @@
   - `Would you like to` give a speech?
 
 ## Experience
+
+### Past
 - `used to`
   - I `used to` read every day.
   - I `used to` watch it all the time with my parents.
@@ -142,6 +156,14 @@
   - I `have never` been to Hawaii `before`, but I would like to go someday.
 - `And the next thing I knew`
   - I felt dizzy, `and the next thing I knew` I was being carried by the ambulance.
+
+### Past -> Now
+- `It's been (a long time / a while / ages) since ..`
+  - `It's been a long time since` I've swung a tennis racket.
+- `for the first time in ..`
+  - I'm going to Hawaii `for the first time in` 1 year.
+
+### Recent
 - `I end up .. ing`
   - `I` usually `end up getting` fast food. (ついついしちゃう)
   - `I ended up staying` home. (結局 .. した)
@@ -203,7 +225,13 @@
 - `but at the same time`
   - Working from home is great. Yeah, `but at the same time`, it's king of incovenient.
 
-### Wish
+### Want / Hope / Wish
+- `I hope ..`
+  - `I hope` we are on time.
+  - `I hope` it doesn't rain.
+- `I wish ..`
+  - `I wish` I spoke French.
+  - `I wish` I were better at speaking English.
 - `rather than ...`
 
 ### Flattery
