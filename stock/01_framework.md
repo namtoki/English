@@ -94,7 +94,7 @@
 ### Refrection
 - `Not again!`
 
-## Request / Question
+## Request / Question / Suggestion
 
 ### Request
 - `Could you ..`
@@ -119,6 +119,14 @@
   - `Want to` get dinner?
 - `When was the last time ..`
   - `When was the last time` you talked to him?
+
+### Suggestion
+- `Would you like some .. ?`
+  - `Would you like some` company?
+  - `Would you like some` more?
+- `Would you like to .. ?`
+  - `Would you like to` be my date?
+  - `Would you like to` give a speech?
 
 ## Experience
 - `used to`
