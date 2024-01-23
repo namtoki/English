@@ -54,6 +54,10 @@
   - `With a little` luck, we can still make it.
 - `As I was saying`
   - Sorry. `As I was saying`, the acting was amazing.
+- `to the point where`
+  - I studied English so much `to the point where` my dream started being in English.
+- `whereas`
+  - He likes learning from textbooks, `whereas` I like learning on the job because I think it's way more efficient.
 
 ## Tag
 - `if you think about it.`

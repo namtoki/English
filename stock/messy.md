@@ -1,7 +1,3 @@
-
-- I studied English so much `to the point where` my dream started being in English.
-- He likes learning from textbooks, `whereas` I like learning on the job because I think it's way more efficient.
-- I `will never` climb Mt.Fuji `again`! I went last August and it was way too difficult for me.
 - I `want to try` scuba diving. My frinend said it's a lot of fun.
 - `the reason being`
     - I made the decision not to join the program. `The reason being` I thought I wasn't ready yet and didn't have the competence enough to do it.
@@ -91,8 +87,6 @@
 - This is `pretty much` done.
 - He made a mistake `on purpose`.
 - He `purposely` didn't say anything.
-
-
 
 ### Appearance
 - bald

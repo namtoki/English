@@ -24,6 +24,7 @@
 ## Daily life
 - He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.
 - He `goes to work` by work.
+- `chore`
 
 ## Work
 - `ace` / `nailed it`
@@ -35,8 +36,13 @@
 
 ## Appearance
 - tidy
+- tidy up
+- spotless
 - Hilly area
 - up there / down there
+
+## Site
+- `around the corner`
 
 ## Restaurant
 - Where is your favorite place to `eat out`?

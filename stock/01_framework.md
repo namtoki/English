@@ -58,6 +58,8 @@
 - `It's difficult to say.`
 - `I couldn't catch you.`
   - `I couldn't get it.`
+- `slip someone's mind`
+  - Your birthday party completely `slipped my mind`.
 
 ### Dive deep
 - `Such as?`
@@ -74,6 +76,10 @@
 - `What's new?`
   - Hey Bob, long time no see. `What's new?`
 - `How's your day going?`
+- `It's been ... since we met the last time.`
+  - `It's been` a month `since we met the last time.`
+- `I haven't seen you in ..`.
+  - `I haven't seen you in` a month.
 
 ### Get Permission
 - `Do you have time?`
@@ -166,6 +172,9 @@
   - `I was going to say` we should get the smmaller one.
   - `I was going to say`! (だよね！)
 - She `was supposed to` say yes.
+- `I'm terrible with ..`
+- `I will never .. again`
+  - `I will never` climb Mt.Fuji `again`! I went last August and it was way too difficult for me.
 
 ### Correction
 - `I didn't mean it`.
