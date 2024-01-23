@@ -29,6 +29,10 @@
 - `So do I`
 - `Same here`
 
+### Later
+- `I'll tell you later.`
+- `I'll let you know.`
+
 ### Accept the proposal
 - `Of course`
 - `Sure`
@@ -176,6 +180,9 @@
 - `I was thinking ..`
   - `I was thinking. Let's` take a short trip. (考えていたんだけど)
   - `I was thinking... maybe` we could go somewhere else.
+- `Take your time ..`
+    - `Take your time.`
+    - `Take your time` with this project.
 
 ### Thoughts
 - `I have a feeling/hunch that`
