@@ -216,20 +216,6 @@
 - Happy wife, happy life.
 - hit it out of the park
 
-## Noun
-- equipment
-    - I got rid of some equipment
-    - I had to carry 100 pieces of equipment.
-- fancy
-- Insurance
-    - The social welfare
-    - The health insurance
-- passengers
-- pedestrians
-- current events
-- deer
-- baked goods
-
 # Archive
 - I `want to try` scuba diving. My frinend said it's a lot of fun.
 - Every one in my family is prerry short. I `wish` I `were` a little taller.

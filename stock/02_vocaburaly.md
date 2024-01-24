@@ -26,6 +26,16 @@
 - He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.
 - He `goes to work` by work.
 - `chore`
+- `equipment`
+    - I got rid of some equipment
+    - I had to carry 100 pieces of equipment.
+- `fancy`
+- `Insurance`
+    - The social welfare
+    - The health insurance
+- `passengers`
+- `pedestrians`
+- `current events`
 
 ## Business
 - `ace` / `nailed it`
@@ -46,7 +56,7 @@
 ## Site
 - `around the corner`
 
-## Restaurant
+## Restaurant / Foods
 - Where is your favorite place to `eat out`?
 - Salmomn roe
 - Seaweed
@@ -56,6 +66,10 @@
 - `get .. ..` / `spill .. ..`
   - Just don't `get` sauce on your nice shirt.
   - Fine. Until I `spilled` iced coffee on him.
+- `baked goods`
+
+## Animal
+- `deer`
 
 ## Person
 - Dean
