@@ -20,19 +20,21 @@
   - It's my `new passion`. (最近の趣味)
 - `hang on`
   - `Hang on` a sec.
+- `Hang in there`
  
 ## Daily life
 - He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.
 - He `goes to work` by work.
 - `chore`
 
-## Work
+## Business
 - `ace` / `nailed it`
   - I think we `aced` that presentation.
   - I think I really `nailed it` this time.
 - `work went late`
   - Sorry, `work went late`.
-- `Hang in there`
+- `Off the charts`
+- `Through the roof`
 
 ## Appearance
 - tidy
