@@ -256,3 +256,8 @@
   - They `may just as well` be married since they've been living together for years.
   - Come on now, you `may as well` tell us.
   - The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start. (仕方ない)
+- Are we gonna have fun `or what`?
+
+- `or not really`?
+  - Do you like this kind of music, `or not really`?
+  - Is this what you're looking for, `or not really`?

@@ -3,29 +3,46 @@ Framework
 
 Back-channeling
 ---------------
-- `I think so too`
-- `I know, right?`
-- `Fair enough (, but)`
-- `I feel you`
-- `Been there done that`
-- `I know what you mean`
-- `I know what you are saying`
-- `(That's) true`
-- `Exactly`
-- `Absolutely`
-- `Totally`
-- `Right`
-- `I see`
-- `(That) makes sense`
-- `Great`
-- `Sounds good`
-- `Lucky you!`
-- `That ...?`
+- 私もそう思う
+  - `I think so too`
+  - `That's what I think, too.`
+  - `I know what you mean.`
+- 私も
+  - `Me too`
+  - `So do I`
+  - `Same here`
+- だよね
+  - `I know, right?`
+- わかるよ (共感)
+  - `I feel you`
+  - `Been there done that`
+- 理解できる
+  - `Fair enough (, but)`
+  - `I know what you are saying`
+- その通りだね
+  - `(That's) true`
+  - `Exactly`
+  - `Absolutely`
+  - `Totally`
+- そうだよ
+  - `Right`
+- なるほど
+  - `I see` what you mean.
+  - `(That) makes sense`
+- いいね
+  - `Sounds good`
+  - `Sounds like a plan`
+- いいなぁ
+  - `Lucky you!`
+- そんなに？
   - I can't tell you how much I loved it. Wow! `That good?`
-- `I told you.`
-- `Me too`
-- `So do I`
-- `Same here`
+- ほらね
+  - `I told you.`
+- ありがとう
+  - `How kind of you.`
+- どういたしまして
+  - `My pleasure`
+  - `You bet`
 
 Beginning
 ---------
@@ -38,6 +55,9 @@ Beginning
   - `Do you have a minute/second?`
   - `Can I borrow you for a minute/second?`
   - `Is this a good time?`
+- 頼みがあるの
+  - `I have a favor to ask.`
+  - `I'd like to ask you a favor.`
 - 話題を切り出す
   - `Did you hear about` Kim? She got promoted.
   - `Did you hear about` Greg's new job?
@@ -67,70 +87,44 @@ Response
 - 引き受けた
   - `I'll take care of it.`
   - `I'll do my best.`
-
-### Refuse
-- `I wish I could, but ..`
+- 断る
   - `I wish I could, but` I have to be out of town.
-- `I'm trying to ..`
   - Hey, Toshi? `I'm trying to` work, Emily! (邪魔しないで)
-- `at the moment`
   - Hang on. I'm just finishing up an email `at the moment`
- 
-### Great quiestion
-- `That's a fair point`
-- `Like you said,`
-
-### Difficult to say
-- `Let me see...`
-- `I can't remember ...`
-- `It's difficult to say.`
-- `I couldn't catch you.`
+- その他
+  - `That's a fair point`
+  - `Like you said,`
+- ええと
+  - `Let me see...`
+  - `I can't remember ...`
+  - `It's difficult to say.`
+  - `I couldn't catch you.`
   - `I couldn't get it.`
-- `slip someone's mind`
   - Your birthday party completely `slipped my mind`.
-
-### Dive deep
-- `Such as?`
-
-### Appreciation
-- `How kind of you.`
-
-### Return to appreciation
-- `My pleasure`
-- `You bet`
-
-### Yell
-- `Good luck with ..`
+- 応援
   - `Good luck with` your speech.
-- `It's not your fault.`
+  - `It's not your fault.`
 
-## Request / Question / Suggestion
-
-### Request
-- `Could you ..`
-  - `Could you` say that again?
-- `Do you think you could ..`
-  - `Do you think you could` talk to her?
-- `Do you think I could ..`
-  - `Do you think I could` get your number?
-- `I have a favor to ask.`
-- `I'd like to ask you a favor.`
-
-### Question
+Question
+--------
+- `Such as?`
 - I've never been to Disney World in Florida. `How about you`?
-- Are we gonna have fun `or what`?
-- `or not really`?
-  - Do you like this kind of music, `or not really`?
-  - Is this what you're looking for, `or not really`?
 - `Do you have the time?`
 - `What does ... mean?`
 - `Is ... the same as ...?`
 - `What's it called?`
 - `What's the word for it?`
-- `Want to .. ?`
+- `When was the last time` you talked to him?
+
+Request / Suggestion
+--------------------
+- してもらえます？
+  - `Could you` say that again?
+  - `Do you think you could` talk to her?
+- してもいい？
+  - `Do you think I could` get your number?
+- します？
   - `Want to` get dinner?
-- `When was the last time ..`
-  - `When was the last time` you talked to him?
 
 ### Suggestion
 - `Would you like some .. ?`
