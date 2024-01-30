@@ -1,6 +1,8 @@
-# Framework
+Framework
+=========
 
-## Back-channeling
+Back-channeling
+---------------
 - `I think so too`
 - `I know, right?`
 - `Fair enough (, but)`
@@ -21,30 +23,50 @@
 - `That ...?`
   - I can't tell you how much I loved it. Wow! `That good?`
 - `I told you.`
-
-## Response
-
-### Consent
 - `Me too`
 - `So do I`
 - `Same here`
 
-### Later
-- `I'll tell you later.`
-- `I'll let you know.`
+Beginning
+---------
+- 久しぶり
+  - Hey Bob, `long time no see`. `What's new?`
+  - `It's been` a month `since we met the last time.`
+  - `I haven't seen you in` a month.
+- 今いい？
+  - `Do you have time?`
+  - `Do you have a minute/second?`
+  - `Can I borrow you for a minute/second?`
+  - `Is this a good time?`
+- 話題を切り出す
+  - `Did you hear about` Kim? She got promoted.
+  - `Did you hear about` Greg's new job?
+  - `I told you about` my dad, `right?`
+  - `Do you remember` that bike at ABC Departmment Store?
+- 昼
+  - `What's up for lunch?`
+- 夜
+  - `How's your day going?`
 
-### Accept the proposal
-- `Of course`
-- `Sure`
-- `I'll take care of it.`
-- `Might as well`
+Termination
+-----------
+- また後で
+  - `I'll tell you later.`
+  - `I'll let you know.`
+
+Response
+--------
+- どうぞ
+  - `Go ahead` and use mine.
+  - `Go ahead` and have a seat.
+- 許諾
+  - `Of course`
+  - `Sure`
   - Do you want to get some food first? `Might as well`. It's a long play.
   - Shall we try that place? `Might as well`. There aren't many restaurants around here.
-  - We `might as well` walk there.
-  - They `may just as well` be married since they've been living together for years.
-  - Come on now, you `may as well` tell us.
-  - The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start. (仕方ない)
-- `I'll do my best.`
+- 引き受けた
+  - `I'll take care of it.`
+  - `I'll do my best.`
 
 ### Refuse
 - `I wish I could, but ..`
@@ -81,38 +103,6 @@
 - `Good luck with ..`
   - `Good luck with` your speech.
 - `It's not your fault.`
-
-## Beginning
-
-### Greeting
-- `What's new?`
-  - Hey Bob, long time no see. `What's new?`
-- `How's your day going?`
-- `It's been ... since we met the last time.`
-  - `It's been` a month `since we met the last time.`
-- `I haven't seen you in ..`.
-  - `I haven't seen you in` a month.
-
-### Get Permission
-- `Do you have time?`
-- `Do you have a minute/second?`
-- `Can I borrow you for a minute/second?`
-- `Is this a good time?`
-
-### Hot topic
-- `Did you hear about`
-  - `Did you hear about` Kim? She got promoted.
-  - `Did you hear about` Greg's new job?
-- `I told you about .. , right?`
-  - `I told you about` my dad, `right?`
-- `Do you remember ..?`
-  - `Do you remember` that bike at ABC Departmment Store?
-
-### Consultation
-- `What's up for lunch?`
-
-### Refrection
-- `Not again!`
 
 ## Request / Question / Suggestion
 

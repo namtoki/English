@@ -24,6 +24,9 @@
 - `Eat someone alive`
   - Keeping secrets was `eating me alive`.
   - Memories of that tragedy are still `eating him alive`. 
+- `Happy wife, happy life.`
+- `hit it out of the park`
+- `Not again!`
 
 ## Daily life
 - He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.

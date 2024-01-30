@@ -211,10 +211,6 @@
     - hate
 - not at all
 
-## Proverb / Saying
-- Happy wife, happy life.
-- hit it out of the park
-
 # Archive
 - I `want to try` scuba diving. My frinend said it's a lot of fun.
 - Every one in my family is prerry short. I `wish` I `were` a little taller.
@@ -254,3 +250,9 @@
 - I like working for my company but I'm still in my `honeymoon phase`.
 - I've been working at my current company for about 1 month and a half.
 - How long have you been working here?
+
+- `Might as well`
+  - We `might as well` walk there.
+  - They `may just as well` be married since they've been living together for years.
+  - Come on now, you `may as well` tell us.
+  - The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start. (仕方ない)
