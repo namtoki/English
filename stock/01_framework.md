@@ -31,7 +31,10 @@ Back-channeling
   - `(That) makes sense`
 - いいね
   - `Sounds good`
-  - `Sounds like a plan`
+  - `(That) Sounds like a plan`
+  - `I love it!`
+- それは .. だね
+  - `That sounds like` a lot of work. (※ 名詞だから like が必要)
 - いいなぁ
   - `Lucky you!`
 - そんなに？
@@ -128,16 +131,21 @@ Request / Suggestion
   - `Do you think you could` talk to her?
 - してもいい？
   - `Do you think I could` get your number?
-  - `Would you like some` company?
-- しませんか？
+- はいかが？
+  - `Would you like` some company?
+  - `Would you like` some more?
+- してくれる？ (しませんか？)
   - `Would you like to` be my date?
   - `Would you like to` give a speech?
+- したい？
   - `Want to` get dinner?
-- します？
-  - `Would you like some` more?
 - しよう
-  - `Take your time.`
   - `Take your time` with this project.
+- ごゆっくり
+  - `Take your time.`
+- 聞かせて
+  - `Let me ask you` something.
+  - `Let me ask you` your honest opinion.
 
 Fact
 ----
@@ -151,6 +159,9 @@ Fact
   - `It's been (a long time / a while / ages) since` I've swung a tennis racket.
   - I'm going to Hawaii `for the first time in` 1 year.
 - 習慣 / 習性
+  - `I tend to` prefer non-fiction. (普段は)
+  - `I tend not to` remeber my dreams. (たいてい)
+  - `I tend to` eat a lot when I' nervous. (ついついしちゃう)
   - `I` usually `end up getting` fast food. (ついついしちゃう)
 
 Opinion
@@ -163,6 +174,7 @@ Opinion
 - 気分だ
   - `I feel like` Thai food.
   - `I feel like` we never talk anymore.
+  - `I'm not in the mood.`
 - 思う
   - `It's` interesting `how` you said that.
   - `It's` amazing `how` you did that.
@@ -172,6 +184,7 @@ Opinion
   - `I can't tell you how much` I loved it.
   - `I will never` climb Mt.Fuji `again`! I went last August and it was way too difficult for me.
   - Working from home is great. Yeah, `but at the same time`, it's king of incovenient.
+  - `The fact is that` I don't know.
 - 信じる
   - I don't `believe in` ghosts.
 - 今言おうと思っていた
@@ -199,6 +212,8 @@ Opinion
 - ～だったらよかったのに
   - `I wish` I spoke French.
   - `I wish` I were better at speaking English.
+- すると思う
+  - I `would` be too nervous.
 - 謙遜
   - `I have to say` your place is adorable!
   - `I have to say` you have great taste.

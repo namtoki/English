@@ -22,6 +22,13 @@ Idioms
 - `hit it out of the park`
 - `Not again!`
 
+評価
+----
+- 似合う
+  - The hat `suits` you. (服装)
+  - it `fits` you. (サイズ)
+  - The blue tie `(matches | goes with)` you. (色合い)
+  
 ## Daily life
 - He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.
 - He `goes to work` by work.

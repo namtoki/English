@@ -64,6 +64,8 @@
   - `As to` your request, we refunded your money to your account.
 - `At for ..`
   - `As for` me, I agree with his opinion.
+- 実は
+  - `The fact is,` I don't have enough money.
 
 ## Tag
 - `if you think about it.`
