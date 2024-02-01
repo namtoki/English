@@ -94,6 +94,8 @@ Response
   - `I wish I could, but` I have to be out of town.
   - Hey, Toshi? `I'm trying to` work, Emily! (邪魔しないで)
   - Hang on. I'm just finishing up an email `at the moment`
+- そうしていただけると嬉しい
+  - `That would be great.`
 - その他
   - `That's a fair point`
   - `Like you said,`
@@ -118,6 +120,8 @@ Question
 - `What's it called?`
 - `What's the word for it?`
 - `When was the last time` you talked to him?
+- `How do you like` your new shoes?
+- `How do you like` the soup?
 
 Request / Suggestion
 --------------------
@@ -212,8 +216,9 @@ Opinion
 - ～だったらよかったのに
   - `I wish` I spoke French.
   - `I wish` I were better at speaking English.
-- すると思う
+- そうなったら .. と思う
   - I `would` be too nervous.
+  - `That would be` awesome.
 - 謙遜
   - `I have to say` your place is adorable!
   - `I have to say` you have great taste.
