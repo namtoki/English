@@ -261,3 +261,7 @@
 - `or not really`?
   - Do you like this kind of music, `or not really`?
   - Is this what you're looking for, `or not really`?
+
+## Plural
+- My hobby is watching baseball game`s`.
+- I like wathing baseball game`s`.

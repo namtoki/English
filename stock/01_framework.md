@@ -6,13 +6,13 @@ Back-channeling
 - 私もそう思う
   - `I think so too`
   - `That's what I think, too.`
-  - `I know what you mean.`
+  - ★ `I know what you mean.`
 - 私も
   - `Me too`
   - `So do I`
   - `Same here`
 - だよね
-  - `I know, right?`
+  - ★ `I know, right?`
 - わかるよ (共感)
   - `I feel you`
   - `Been there done that`
@@ -118,121 +118,92 @@ Question
 
 Request / Suggestion
 --------------------
+- そうだ！
+  - `I know!` Let's go bowling.
+- 考えていたんだけど
+  - `I was thinking. Let's` take a short trip. (考えていたんだけど)
+  - `I was thinking... maybe` we could go somewhere else.
 - してもらえます？
   - `Could you` say that again?
   - `Do you think you could` talk to her?
 - してもいい？
   - `Do you think I could` get your number?
-- します？
-  - `Want to` get dinner?
-
-### Suggestion
-- `Would you like some .. ?`
   - `Would you like some` company?
-  - `Would you like some` more?
-- `Would you like to .. ?`
+- しませんか？
   - `Would you like to` be my date?
   - `Would you like to` give a speech?
+  - `Want to` get dinner?
+- します？
+  - `Would you like some` more?
+- しよう
+  - `Take your time.`
+  - `Take your time` with this project.
 
-## Experience
-
-### Past
-- `used to`
+Fact
+----
+- 過去
   - I `used to` read every day.
   - I `used to` watch it all the time with my parents.
-- `have never .. before ..`
   - I `have never` been to Hawaii `before`, but I would like to go someday.
-- `And the next thing I knew`
   - I felt dizzy, `and the next thing I knew` I was being carried by the ambulance.
-
-### Past -> Now
-- `It's been (a long time / a while / ages) since ..`
-  - `It's been a long time since` I've swung a tennis racket.
-- `for the first time in ..`
-  - I'm going to Hawaii `for the first time in` 1 year.
-
-### Recent
-- `I end up .. ing`
-  - `I` usually `end up getting` fast food. (ついついしちゃう)
   - `I ended up staying` home. (結局 .. した)
+- 久しぶり
+  - `It's been (a long time / a while / ages) since` I've swung a tennis racket.
+  - I'm going to Hawaii `for the first time in` 1 year.
+- 習慣 / 習性
+  - `I` usually `end up getting` fast food. (ついついしちゃう)
 
-## Opinion
-
-### Suggestion
-- `I know!`
-  - `I know!` Let's go bowling.
-- `I was thinking ..`
-  - `I was thinking. Let's` take a short trip. (考えていたんだけど)
-  - `I was thinking... maybe` we could go somewhere else.
-- `Take your time ..`
-    - `Take your time.`
-    - `Take your time` with this project.
-
-### Thoughts
-- `I have a feeling/hunch that`
+Opinion
+-------
+- 気がする
   - `I have a feeling that` it's gonna be a great event.
   - `I have a hunch that` there's more to it.
-- `it seems to be ..`
   - `It seems to be` a good fit for him.
   - `It seems to be` broken.
-- `It's .. how ..`
+- 気分だ
+  - `I feel like` Thai food.
+  - `I feel like` we never talk anymore.
+- 思う
   - `It's` interesting `how` you said that.
   - `It's` amazing `how` you did that.
   - `It's` amazing `how` we can work on this project.
   - `It's` strange `how` time flies when we're having fun.
-- `I feel bad about ..`
   - `I feel bad about` canceling.
-- `I can't tell you how much ..`
   - `I can't tell you how much` I loved it.
-- `believe in`
-  - I don't `believe in` ghosts.
-- `I feel like ..`
-  - `I feel like` Thai food.
-  - `I feel like` we never talk anymore.
-- `I was going to say ..`
-  - `I was going to say` we should get the smmaller one.
-  - `I was going to say`! (だよね！)
-- She `was supposed to` say yes.
-- `I'm terrible with ..`
-- `I will never .. again`
   - `I will never` climb Mt.Fuji `again`! I went last August and it was way too difficult for me.
-- `the reason being`
+  - Working from home is great. Yeah, `but at the same time`, it's king of incovenient.
+- 信じる
+  - I don't `believe in` ghosts.
+- 今言おうと思っていた
+  - `I was going to say` we should get the smaller one.
+  - `I was going to say`! (だよね！)
+- するべきだった
+  - She `was supposed to` say yes.
+- 苦手
+  - `I'm terrible with ..`
+- というのも
   - I made the decision not to join the program. `The reason being` I thought I wasn't ready yet and didn't have the competence enough to do it.
   - I decided to turn down the job offer. `The reason being that`, I didn’t want to relocate.
   - She moved back in with her parents. `The reason being that`, she wanted to take care of her parents.
-
-### Correction
-- `I didn't mean it`.
-- `What I meant was ..`
+- 訂正
+  - `I didn't mean it`.
   - `What I meant was`, you should do it carefully.
-- `I was saying ..`
   - No! `I was just saying ...` it's a new look for you.
-- `It's not that/like ..`
   - `It's not that` I like Joe. I just want to be on YouTube a lot.
   - `It's not that` I don't like you. I just don't have the time now.
   - `It's not like` Joe is a bad guy. He is just shady sometimes.
-- `I'm just trying to ..`
   - `I'm just trying to` explain what happened.
-- `but at the same time`
-  - Working from home is great. Yeah, `but at the same time`, it's king of incovenient.
-
-### Want / Hope / Wish
-- `I hope ..`
+- ～だといいね
   - `I hope` we are on time.
   - `I hope` it doesn't rain.
-- `I wish ..`
+- ～だったらよかったのに
   - `I wish` I spoke French.
   - `I wish` I were better at speaking English.
-- `rather than ...`
-
-### Flattery
-- `I have to say ..`
+- 謙遜
   - `I have to say` your place is adorable!
   - `I have to say` you have great taste.
-- `You know as well as I do that`
-- `I don't want to bother` you.
+  - `You know as well as I do that`
+  - `I don't want to bother` you.
   - `It's no bother`.
-
-## Plural
-- My hobby is watching baseball game`s`.
-- I like wathing baseball game`s`.
+- 他
+  - `rather than ...`
