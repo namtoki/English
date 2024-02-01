@@ -1,25 +1,19 @@
 # Vocaburaly
 
-## Idioms
+Idioms
+------
 - `one of those days`
-- `make the most of ..`
-  - Let's `make the most of` it.
-  - Let's `make the most of` our time here.
-- `the best`
-  - That show is `the best`!
-- `something else`
-  - That dinner was `something else`! (格別)
-- `the only thing`
-  - It was great! `The only thing` was the food.
-  - Is that `the only thing` you think about?
-- `It doesn't matter`
-  - `It doesn't matter`. I quit. (どうしようもない、どうでもよい)
-  - `It doesn't matter`. They're both great. (どっちでもよい)
-  - Which train do we need to take? `It doesn't matter`. They all go to Central Station. (どっちでもよい)
-- `new passion`
-  - It's my `new passion`. (最近の趣味)
-- `hang on`
-  - `Hang on` a sec.
+- Let's `make the most of` it.
+- Let's `make the most of` our time here.
+- That show is `the best`!
+- That dinner was `something else`! (格別)
+- It was great! `The only thing` was the food.
+- Is that `the only thing` you think about?
+- `It doesn't matter`. I quit. (どうしようもない、どうでもよい)
+- `It doesn't matter`. They're both great. (どっちでもよい)
+- Which train do we need to take? `It doesn't matter`. They all go to Central Station. (どっちでもよい)
+- It's my `new passion`. (最近の趣味)
+- `Hang on` a sec.
 - `Hang in there.` / `Good luck.`
 - `Eat someone alive`
   - Keeping secrets was `eating me alive`.
