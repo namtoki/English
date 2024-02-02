@@ -21,6 +21,8 @@ Idioms
 - `Happy wife, happy life.`
 - `hit it out of the park`
 - `Not again!`
+- `Apples and oranges`
+- `Mum's the word`
 
 Synonyms
 --------
@@ -41,6 +43,7 @@ Expression
   - Fine. Until I `spilled` iced coffee on him.
   - I got rid of some `equipment`.
   - I had to carry 100 pieces of `equipment`.
+  - Are we gonna `have fun` or what?
 - Business
   - I think we `aced` that presentation.
   - I think I really `nailed it` this time.

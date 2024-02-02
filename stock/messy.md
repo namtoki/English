@@ -1,7 +1,3 @@
-## Uncategorized
-- `Apples and oranges`
-- `Mum's the word`
-- Are we gonna `have fun` or what?
 - `I work for <company>`
 - `I work in <place/department>`
 - The Baystars are going to `play The Carp` today.
