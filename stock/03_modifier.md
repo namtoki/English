@@ -1,49 +1,38 @@
-# Modifier
+Modifier
+========
 
-## Adverb
-- `Such a`
+Adverb
+------
+- 限定 (頭につける)
   - That was `such a` fun day.
   - You are `such a` pro. (まさしく)
-- `All kinds of ...`
-  - I've been eating `all kinds of things`.
-- `Like`
+  - I've been eating `all kinds of` things.
   - There were only `like` thirty peeple there.
-  - He doesn't like `(some)things like that`.
-  - `Things like` party hats, paper plates and napkins.
-  - I think he's learning Spanish `or something like that`, if that makes sence.
-- `Or whatever`
-  - I'm just going to read a book `or whatever`.
-  - She can gossip about me `or whatever`. (どうでもよいけど)
-- `Kind of`
   - I'm `kind of` hungry.
   - I'm `kind of` sleepy.
   - She is `kind of` rude.
   - It was `kind of` ... confusing.
-- `And stuff`.
+- 付け足し (後ろから修飾)
+  - He doesn't like `(some)things like that`.
+  - I think he's learning Spanish `or something like that`, if that makes sence.
+  - `Things like` party hats, paper plates and napkins.
+  - I'm just going to read a book `or whatever`.
+  - She can gossip about me `or whatever`. (どうでもよいけど)
   - We've got to do editing `and stuff`.
-- `At the same time`
   - It's hard being the writer and an actor `at the same time` (両立)
 
-## Conjunction
-- `instead of`
-  - I think `instead of` try`ing` to make a killing in the first year, ,,,
-  - We dediced to chill at home `instead of` go`ing` out.
-- `Going back to`
+Conjunction
+-----------
+- 限定 (頭につける)
   - `Going back to` your question, my answer is no.
-- `In this case`
   - My printer runs out of ink every time I use it. `In this case`, I have to rush to an electronic store to get it.
-- `In that case`
   - Can I get a glass of wine, please? We are terribly sorry, but we’ve run out of wine. `In that case`, I’ll have a beer.
-- `In which case`
-  - Literary expression
-- `simply put`
-- `(let's) say`
-- `Toward the end of ..`
-- `Speaking/Talking of ..`
+  - `In which case` (※ Literary expression)
+  - `simply put`
+  - `(let's) say`
+  - `Toward the end of ..`
   - `Speaking of` summer, where did you go this year?
   - `Talking of` soccer, Did you watch the game yesterday?
-- `When it comes to ..` `About ..`
-  - Trust me `when it comes to` sushi.
   - `When it comes to` the weather, there’s nothing I can do.
   - `About` the food ... it is bad.
   - `in regard to` our official comments
@@ -51,29 +40,23 @@
   - `regarding` the subject above
   - `concerning` the changes that were recently made
   - `As for` the cost per person
-- `With a little`
-  - `With a little` luck, we can still make it.
-- `As I was saying`
-  - Sorry. `As I was saying`, the acting was amazing.
-- `to the point where`
-  - I studied English so much `to the point where` my dream started being in English.
-- `whereas`
-  - He likes learning from textbooks, `whereas` I like learning on the job because I think it's way more efficient.
-- `At to ..`
-  - I want to have a discussion `as to` which university is the best university.
-  - `As to` your request, we refunded your money to your account.
-- `At for ..`
   - `As for` me, I agree with his opinion.
-- 実は
+  - `As to` your request, we refunded your money to your account.
+  - `With a little` luck, we can still make it.
+  - Sorry. `As I was saying`, the acting was amazing.
   - `The fact is,` I don't have enough money.
+- 付け足し (後ろから修飾)
+  - I think `instead of` try`ing` to make a killing in the first year, ,,,
+  - We dediced to chill at home `instead of` go`ing` out.
+  - Trust me `when it comes to` sushi.
+  - I studied English so much `to the point where` my dream started being in English.
+  - He likes learning from textbooks, `whereas` I like learning on the job because I think it's way more efficient.
+  - I want to have a discussion `as to` which university is the best university.
 
 ## Tag
-- `if you think about it.`
-  - We're just tiny specks in the universe `if you think about it.`
-  - It's crazy how we can communicate like this `if you think about it.`
-- `if that makes sense.`
-  - Well, it sounded a little bit British, but at the same time, maybe a bit Australian, `if that makes sense.`
-  - I want something cold, but at the same time, you know, maybe warmish `if that makes sense.`
-- `you know what I mean?`
-  - I think YouTube is getting more and more competitive, `you know what I mean?`
-  - At the end of the day, whether or not you should study English is completely up to you. `You know what I mean?`
+- We're just tiny specks in the universe `if you think about it.`
+- It's crazy how we can communicate like this `if you think about it.`
+- Well, it sounded a little bit British, but at the same time, maybe a bit Australian, `if that makes sense.`
+- I want something cold, but at the same time, you know, maybe warmish `if that makes sense.`
+- I think YouTube is getting more and more competitive, `you know what I mean?`
+- At the end of the day, whether or not you should study English is completely up to you. `You know what I mean?`

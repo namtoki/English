@@ -1,4 +1,5 @@
-# Vocaburaly
+Vocaburaly
+==========
 
 Idioms
 ------
