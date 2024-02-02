@@ -2,11 +2,11 @@
 
 Idioms
 ------
-- `one of those days`
 - Let's `make the most of` it.
 - Let's `make the most of` our time here.
 - That show is `the best`!
 - That dinner was `something else`! (格別)
+- `one of those days`
 - It was great! `The only thing` was the food.
 - Is that `the only thing` you think about?
 - `It doesn't matter`. I quit. (どうしようもない、どうでもよい)
@@ -15,70 +15,65 @@ Idioms
 - It's my `new passion`. (最近の趣味)
 - `Hang on` a sec.
 - `Hang in there.` / `Good luck.`
-- `Eat someone alive`
-  - Keeping secrets was `eating me alive`.
-  - Memories of that tragedy are still `eating him alive`. 
+- Keeping secrets was `eating me alive`.
+- Memories of that tragedy are still `eating him alive`. 
 - `Happy wife, happy life.`
 - `hit it out of the park`
 - `Not again!`
 
-評価
-----
+Synonyms
+--------
 - 似合う
   - The hat `suits` you. (服装)
   - it `fits` you. (サイズ)
   - The blue tie `(matches | goes with)` you. (色合い)
   
-## Daily life
-- He `gets up` at 7 AM. `It takes him about` an hour to `get ready for work`.
-- He `goes to work` by work.
-- `chore`
-- `equipment`
-    - I got rid of some equipment
-    - I had to carry 100 pieces of equipment.
-- `fancy`
-- `Insurance`
-    - The social welfare
-    - The health insurance
-- `passengers`
-- `pedestrians`
-- `current events`
-
-## Business
-- `ace` / `nailed it`
-  - I think we `aced` that presentation.
-  - I think I really `nailed it` this time.
-- `work went late`
-  - Sorry, `work went late`.
-- `Off the charts`
-- `Through the roof`
-
-## Appearance
-- tidy
-- tidy up
-- spotless
-- Hilly area
-- up there / down there
-
-## Site
-- `around the corner`
-
-## Restaurant / Foods
-- Where is your favorite place to `eat out`?
-- Salmomn roe
-- Seaweed
-- Pickled plum
-- `I'll have`
+Expression
+----------
+- Daily / Casual / Common
+  - He `gets up` at 7 AM.
+  - `It takes him about` an hour to `get ready for work`.
+  - He `goes to work` by walk.
+  - Where is your favorite place to `eat out`?
   - `I'll have` the same as her.
-- `get .. ..` / `spill .. ..`
   - Just don't `get` sauce on your nice shirt.
   - Fine. Until I `spilled` iced coffee on him.
-- `baked goods`
+  - I got rid of some `equipment`.
+  - I had to carry 100 pieces of `equipment`.
+- Business
+  - I think we `aced` that presentation.
+  - I think I really `nailed it` this time.
+  - Sorry, `work went late`.
+  - `Off the charts`
+  - `Through the roof`
 
-## Animal
-- `deer`
+Words
+-----
+- Life
+  - `chore`
+  - The social `welfare`
+  - The health `insurance`
+  - `passengers`
+  - `pedestrians`
+  - `current events`
+  - `around the corner`
+- Appearance
+  - `tidy`
+  - `tidy up`
+  - `spotless`
+  - `Hilly area`
+  - `up there / down there`
+  - `fancy`
+- Animal
+  - `deer`
+- Foods
+  - `Salmomn roe`
+  - `Seaweed`
+  - `Pickled plum`
+  - `baked goods`
 
-## Person
+Person's neme
+-------------
 - Dean
 - Paul
 - Gordon
