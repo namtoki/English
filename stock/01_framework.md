@@ -72,6 +72,7 @@ Beginning
   - `Did you hear about` Greg's new job?
   - `I told you about` my dad, `right?`
   - `Do you remember` that bike at ABC Departmment Store?
+  - `You know what?`
 - 昼
   - `What's up for lunch?`
 - 夜
@@ -136,11 +137,14 @@ Question
 - `How do you like` the soup?
 - `Is that enough?`
 - `Is that really necessay?`
+- いつまでに
+  - `(By) When do I have to` finish this?
 
 Request / Suggestion
 --------------------
 - そうだ！
   - `I know!` Let's go bowling.
+  - `You know what?` I'm going to get an ice cream cone.
 - 考えていたんだけど
   - `I was thinking. Let's` take a short trip. (考えていたんだけど)
   - `I was thinking... maybe` we could go somewhere else.
@@ -158,6 +162,9 @@ Request / Suggestion
 - してくれる？ (しませんか？)
   - `Would you like to` be my date?
   - `Would you like to` give a speech?
+- したら？
+  - `Why don't you` use this?
+  - We `should` ask first.
 - したい？
   - `Want to` get dinner?
 - しよう
@@ -212,7 +219,13 @@ Opinion
 - 気分だ
   - `I feel like` Thai food.
   - `I feel like` we never talk anymore.
+  - `I don't feel like` it.
+  - `I don't feel like` talking right now.
   - `I'm not in the mood.`
+- しなくちゃ
+  - `I need to` get back to the office.
+  - `I have to` go home.
+  - `I gotta` go.
 - 思う
   - `It's` interesting `how` you said that.
   - `It's` amazing `how` you did that.

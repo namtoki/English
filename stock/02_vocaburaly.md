@@ -53,6 +53,8 @@ Expression
   - It is difficult to `put on` a Kimono.
   - Last weekend was a `blur`. = I don't remember well.
   - Some people are `browsing` their phones.
+  - `You'll be sorry.`
+  - `You'll be sorry` if you don't finish it today.
 - Business
   - I think we `aced` that presentation.
   - I think I really `nailed it` this time.
