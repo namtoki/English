@@ -73,6 +73,7 @@ Beginning
   - `I told you about` my dad, `right?`
   - `Do you remember` that bike at ABC Departmment Store?
   - `You know what?`
+  - `I'm thinking about` retiring and going to Thailand this year.
 - 昼
   - `What's up for lunch?`
 - 夜
@@ -105,6 +106,7 @@ Response
   - `I wish I could, but` I have to be out of town.
   - Hey, Toshi? `I'm trying to` work, Emily! (邪魔しないで)
   - Hang on. I'm just finishing up an email `at the moment`
+  - `I'll think about it.`
 - そうしていただけると嬉しい
   - `That would be great.`
 - その他

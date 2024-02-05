@@ -64,6 +64,9 @@ Expression
 
 Words
 -----
+- Slip my mind
+  - `what-cha-ma-call-it.`
+  - `The thing that` you use to see the stars.
 - Life
   - `chore`
   - The social `welfare`
