@@ -9,5 +9,3 @@
 - outline       out-line        ['autl'ain]
 - outer         out-er          ['autɚ]
 - outdoor       out-door        ['autd'ɔɚ]
-
-ɚəɪæɔʌθðʃʒŋ
