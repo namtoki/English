@@ -24,6 +24,7 @@ Idioms
 - `Apples and oranges`
 - `Mum's the word`
 - `treat yourself`
+- `That's a waste.`
 
 Synonyms
 --------
@@ -31,6 +32,9 @@ Synonyms
   - The hat `suits` you. (服装)
   - it `fits` you. (サイズ)
   - The blue tie `(matches | goes with)` you. (色合い)
+- どうなの
+  - `How about`
+  - `What about`
   
 Expression
 ----------

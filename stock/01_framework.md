@@ -12,7 +12,7 @@ Back-channeling
   - `So do I`
   - `Same here`
 - だよね
-  - ★ `I know, right?`
+  - `I know, right?`
 - わかるよ (共感)
   - `I feel you`
   - `Been there done that`
@@ -46,6 +46,12 @@ Back-channeling
 - どういたしまして
   - `My pleasure`
   - `You bet`
+- 大丈夫だよ
+  - `It's OK.`
+- 気にしないで
+  - `That's OK.`
+- なんとかなるよ
+  - `It's going to be OK.`
 
 Beginning
 ---------
@@ -82,6 +88,9 @@ Response
 - どうぞ
   - `Go ahead` and use mine.
   - `Go ahead` and have a seat.
+  - `Here`.
+  - `Here you are`.
+  - `Here's` a little something for you.
 - 許諾
   - `Of course`
   - `Sure`
@@ -91,6 +100,7 @@ Response
   - `I'll take care of it.`
   - `I'll do my best.`
 - 断る
+  - `Not yet`.
   - `I wish I could, but` I have to be out of town.
   - Hey, Toshi? `I'm trying to` work, Emily! (邪魔しないで)
   - Hang on. I'm just finishing up an email `at the moment`
@@ -109,6 +119,8 @@ Response
 - 応援
   - `Good luck with` your speech.
   - `It's not your fault.`
+- 提案
+  - `How about` sending flowers?
 
 Question
 --------
@@ -122,6 +134,8 @@ Question
 - `When was the last time` you talked to him?
 - `How do you like` your new shoes?
 - `How do you like` the soup?
+- `Is that enough?`
+- `Is that really necessay?`
 
 Request / Suggestion
 --------------------
@@ -131,10 +145,13 @@ Request / Suggestion
   - `I was thinking. Let's` take a short trip. (考えていたんだけど)
   - `I was thinking... maybe` we could go somewhere else.
 - してもらえます？
+  - `Would you` get me that box?
   - `Could you` say that again?
   - `Do you think you could` talk to her?
 - してもいい？
+  - `May I` have a receipt?
   - `Do you think I could` get your number?
+  - `Is it OK if` I park here?
 - はいかが？
   - `Would you like` some company?
   - `Would you like` some more?
@@ -145,6 +162,7 @@ Request / Suggestion
   - `Want to` get dinner?
 - しよう
   - `Take your time` with this project.
+  - `We'll see whether` the newspapers print the story.
 - ごゆっくり
   - `Take your time.`
 - 聞かせて
