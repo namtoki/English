@@ -167,6 +167,22 @@ Fact
   - `I tend not to` remeber my dreams. (たいてい)
   - `I tend to` eat a lot when I' nervous. (ついついしちゃう)
   - `I` usually `end up getting` fast food. (ついついしちゃう)
+  - In my family, we `always` eat turkey `on` Thanksgiving and have ham `for` Christmas.
+- 一般的に
+  - It's `a custom to` take off your shoes before entering a Japanese Home.
+  - In Japan, it's `traditional to` visit a shrine during the first few days of the new year.
+  - On Valentine's Day, in Japan girls `are supposed to` give chocolates to the guys.
+  - Dolphins `are supposed to` be intelligent.
+  - Crossing your legs is `unacceptable` in business situations in Japan, but it's `acceptable` in other countries.
+  - Japanese men `no longer` wear their hair in topknots.
+  - The custom of tipping might `die out` because of digital payments.
+- 予定
+  - What time are we `supposed` to be there?
+  - What time are we `going` to be there?
+  - It's `supposed` to snow tonight.
+  - I'm not `supposed` to be here.
+  - I shouldn't be here.
+  - You `were supposed` to do the dishes tonight.
 
 Opinion
 -------
@@ -189,6 +205,7 @@ Opinion
   - `I will never` climb Mt.Fuji `again`! I went last August and it was way too difficult for me.
   - Working from home is great. Yeah, `but at the same time`, it's king of incovenient.
   - `The fact is that` I don't know.
+  - `This might be just me, but` don't you think this is a bit too expensive?
 - 信じる
   - I don't `believe in` ghosts.
 - 今言おうと思っていた
@@ -225,5 +242,25 @@ Opinion
   - `You know as well as I do that`
   - `I don't want to bother` you.
   - `It's no bother`.
+- させる
+  - `make ... Adj`
+    - I'll do anything to `make you happy`.
+    - The story `made me sad`.
+    - When I was on homestay, I found it difficult to `make mayself understood` in English.
+    - (使役) The PE teacher `made the students run` in the snow.
+  - `have ... Adj`
+    - Shall we `have our new plasma TV on the wall`?
+    - I `had my uniform cleaned` for the graduation ceremony.
+    - I `had my iPod pinched` from my school bag.
+    - ★ My iPod was pinched との違いは？
+    - I `had my hair cut`.
+    - (使役) I'll `have the nurse bandage` your leg for you.
+  - `let ... Adj`
+      - Don't `let me down`.
+      - (使役) My daughter's upset because I won't `let her get` a tattoo.
+  - `get ... to 不定詞`
+      - (使役) I `got one of my classmates to help` my sister with her homework.
+          - = I asked some of my classmates to give me a hand.
+      - (使役) She often `gets an Italian restaurant to deliver` a pizza to her home.
 - 他
   - `rather than ...`

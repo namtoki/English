@@ -1,3 +1,44 @@
+Messy
+=====
+- I `want to try` scuba diving. My frinend said it's a lot of fun.
+- I wanted a hobby that I could do in Yokohama.
+- Oh! I always forget the 'S'!
+- Could you repeat that, please?
+- Could you speak a little slowly, please?
+- Could you speak more slowly, please?
+- Could you explain that?
+- Could you say that more simply, please?
+- Could you write it down, please?
+- Could you type it in the chat, please?
+- Could you make the material/notes bigger?
+- I'm sorry, I don't understand.
+- Can I ask you a question?
+- I want to know about...
+- How do you pronounce this word?
+- How do you spell this word?
+- How do you say ... in English?
+- Thank you for the lesson!
+- Enjoy your ...
+- Have a nice day!
+- See you next time!
+- Take care.
+- Can you see me?
+- Can you hear me?
+- I was on mute.
+- I can't see you/the material/the notes.
+- I `transferred offices` because I `changed jobs`.
+- I recently changed companies, so I have a lot to learn about the new company's culture.
+- My office is `in` Kawasaki.
+- I work `in` Kawasaki city.
+- I work `on` the fifth floor.
+- From my house to Kamiooka station is 20 minutes `on foot`.
+- I like working for my company but I'm still in my `honeymoon phase`.
+- I've been working at my current company for about 1 month and a half.
+- How long have you been working here?
+- My hobby is watching baseball game`s`.
+- I like wathing baseball game`s`.
+- We should plan ahead for the year-end shopping season and hire some new workers now.
+- We need to give some thought to what we will do if the client ways no to our first offer.
 - `I work for <company>`
 - `I work in <place/department>`
 - The Baystars are going to `play The Carp` today.
@@ -36,90 +77,6 @@
 - This is `pretty much` done.
 - He made a mistake `on purpose`.
 - He `purposely` didn't say anything.
-
-### Appearance
-- bald
-- beard
-- moustache
-
-### Culture / Customs
-- be a custom to ...
-    - It's `a custom to` take off your shoes before entering a Japanese Home.
-- be traditional to ...
-    - In Japan, it's `traditional to` visit a shrine during the first few days of the new year.
-- always ... on|for ...
-    - In my family, we `always` eat turkey `on` Thanksgiving and have ham `for` Christmas.
-- be supposed to ...
-    - On Valentine's Day, in Japan girls `are supposed to` give chocolates to the guys.
-    - Dolphins `are supposed to` be intelligent.
-- be acceptable <--> unacceptable
-    - Crossing your legs is `unacceptable` in business situations in Japan, but it's `acceptable` in other countries.
-- no longer
-    - Japanese ment `no longer` wear their hair in topknots.
-- die out
-    - The custom of tipping might die out because of digital payments.
-
-### Foods
-- easy on my stomach
-    - Udon noodles are `easy on my stomach`.
-
-### Life
-- pu on
-    - It is difficult to `put on` a Kimono.
-- make ... Adj
-    - I'll do anything to make you happy.
-    - The story made me sad.
-    - When I was on homestay, I found it difficult to make mayself understood in English.
-    - (使役) The PE teacher made the students run in the snow.
-- have ... Adj
-    - Shall we have our new plasma TV on the wall?
-    - I had my uniform cleaned for the graduation ceremony.
-    - I had my iPod pinched from my school bag.
-    - ★ My iPod was pinched との違いは？
-    - I had my hair cut.
-    - (使役) I'll have the nurse bandage your leg for you.
-- let ... Adj
-    - Don't  let me down.
-    - (使役) My daughter's upset because I won't let her get a tattoo.
-- get ... to 不定詞
-    - (使役) I got one of my classmates to help my sister with her homework.
-        - = I asked some of my classmates to give me a hand.
-    - (使役) She often gets an Italian restaurant to deliver a pizza to her home.
-- I took out my `mortage` this year.
-    - mortage = loan for a house/property/condo
-- treat yourself
-- blur
-    - Last weekend was a blur. = I don't remember well.
-- browsing
-    - Some people are browsing their phones.
-
-### Weather
-- sunny
-- chilly
-- cold
-- fleezing
-- humid
-    - humidity = wet air
-    - Seattle has low humidity in summer.
-    - Tokyo is too humid.
-    - It is humid in the summer but it is cold and dry in the winter.
-- polluted
-    - India is so `polluted`.
-
-### Plan
-- be supposed to ...
-    - What time are we `supposed` to be there?
-    - What time are we `going` to be there?
-    - It's `supposed` to snow tonight.
-    - I'm not `supposed` to be here.
-    - I shouldn't be here.
-    - You `were supposed` to do the dishes tonight.
-- plan ahead
-    - We should plan ahead for the year-end shopping season and hire some new workers now.
-- give some thought to 
-    - We need to give some thought to what we will do if the client ways no to our first offer.
-
-### Others
 - bathed in
     - I `bathed in` the Ghanges River.
     - The nuns traditionally `bathed in` the lake, and one day two nuns saw a hand with a gold ring extending from the water.
@@ -172,94 +129,3 @@
 - come across
     - I `came across` this information on the internet.
     - I `came across` an old friend on the street.
-
-## Degree
-- frequency
-    - 100: always
-    - 95:  nearly|almost always
-    - 80:  usually
-    - 65:  often
-    - 55:  frequently
-    - 50:  sometimes
-    - 30:  occasionally
-    - 10:  seldom | rarely
-    - 5:   almost never | hardly ever
-    - 0:   never
-- great / good / bad
-    - great
-        - very
-        - really
-        - pretty
-        - fairly
-        - kind of
-    - good
-        - kind of bad
-        - fairly bad
-        - pretty bad
-        - really bad
-    - bad
-- dislike
-    - don't mind
-    - don't really like
-    - don't like
-    - really don't like
-    - can't stand
-    - hate
-- not at all
-
-# Archive
-- I `want to try` scuba diving. My frinend said it's a lot of fun.
-- Every one in my family is prerry short. I `wish` I `were` a little taller.
-- `This might be just me, but` don't you think this is a bit too expensive?
-- `Whether or not` you like it doesn't matter because at the end of the day, he calls the shots.
-- I wanted a hobby that I could do in Yokohama.
-- Oh! I always forget the 'S'!
-- Could you repeat that, please?
-- Could you speak a little slowly, please?
-- Could you speak more slowly, please?
-- Could you explain that?
-- Could you say that more simply, please?
-- Could you write it down, please?
-- Could you type it in the chat, please?
-- Could you make the material/notes bigger?
-- I'm sorry, I don't understand.
-- Can I ask you a question?
-- I want to know about...
-- How do you pronounce this word?
-- How do you spell this word?
-- How do you say ... in English?
-- Thank you for the lesson!
-- Enjoy your ...
-- Have a nice day!
-- See you next time!
-- Take care.
-- Can you see me?
-- Can you hear me?
-- I was on mute.
-- I can't see you/the material/the notes.
-- I `transferred offices` because I `changed jobs`.
-- I recently changed companies, so I have a lot to learn about the new company's culture.
-- My office is `in` Kawasaki.
-- I work `in` Kawasaki city.
-- I work `on` the fifth floor.
-- From my house to Kamiooka station is 20 minutes `on foot`.
-- I like working for my company but I'm still in my `honeymoon phase`.
-- I've been working at my current company for about 1 month and a half.
-- How long have you been working here?
-
-- `Might as well`
-  - We `might as well` walk there.
-  - They `may just as well` be married since they've been living together for years.
-  - Come on now, you `may as well` tell us.
-  - The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start. (仕方ない)
-- Are we gonna have fun `or what`?
-
-- `or not really`?
-  - Do you like this kind of music, `or not really`?
-  - Is this what you're looking for, `or not really`?
-
-## Plural
-- My hobby is watching baseball game`s`.
-- I like wathing baseball game`s`.
-
-- I guess it wasn't that important.

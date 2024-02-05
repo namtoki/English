@@ -23,6 +23,7 @@ Idioms
 - `Not again!`
 - `Apples and oranges`
 - `Mum's the word`
+- `treat yourself`
 
 Synonyms
 --------
@@ -44,6 +45,10 @@ Expression
   - I got rid of some `equipment`.
   - I had to carry 100 pieces of `equipment`.
   - Are we gonna `have fun` or what?
+  - Udon noodles are `easy on my stomach`.
+  - It is difficult to `put on` a Kimono.
+  - Last weekend was a `blur`. = I don't remember well.
+  - Some people are `browsing` their phones.
 - Business
   - I think we `aced` that presentation.
   - I think I really `nailed it` this time.
@@ -57,6 +62,7 @@ Words
   - `chore`
   - The social `welfare`
   - The health `insurance`
+  - I took out my `mortage` this year. = loan for a house/property/condo
   - `passengers`
   - `pedestrians`
   - `current events`
@@ -68,6 +74,9 @@ Words
   - `Hilly area`
   - `up there / down there`
   - `fancy`
+  - `bald`
+  - `beard`
+  - `moustache`
 - Animal
   - `deer`
 - Foods
@@ -75,6 +84,15 @@ Words
   - `Seaweed`
   - `Pickled plum`
   - `baked goods`
+- Weather
+  - `sunny`
+  - `chilly`
+  - `cold`
+  - `fleezing`
+  - Seattle has low `humidity` in summer.
+  - Tokyo is too `humid`.
+  - It is `humid` in the summer but it is cold and dry in the winter.
+  - India is so `polluted`.
 
 Person's neme
 -------------

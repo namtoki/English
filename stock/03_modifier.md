@@ -12,6 +12,11 @@ Adverb
   - I'm `kind of` sleepy.
   - She is `kind of` rude.
   - It was `kind of` ... confusing.
+  - I guess it wasn't `that` important.
+  - We `might as well` walk there.
+  - They `may just as well` be married since they've been living together for years.
+  - Come on now, you `may as well` tell us.
+  - The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start. (仕方ない)
 - 付け足し (後ろから修飾)
   - He doesn't like `(some)things like that`.
   - I think he's learning Spanish `or something like that`, if that makes sence.
@@ -20,6 +25,44 @@ Adverb
   - She can gossip about me `or whatever`. (どうでもよいけど)
   - We've got to do editing `and stuff`.
   - It's hard being the writer and an actor `at the same time` (両立)
+  - Do you like this kind of music, `or not really`?
+  - Is this what you're looking for, `or not really`?
+  - Are we gonna have fun `or what`?
+
+Adverb (Level)
+--------------
+- frequency
+  - 100: always
+  - 95:  nearly|almost always
+  - 80:  usually
+  - 65:  often
+  - 55:  frequently
+  - 50:  sometimes
+  - 30:  occasionally
+  - 10:  seldom | rarely
+  - 5:   almost never | hardly ever
+  - 0:   never
+- great / good / bad
+  - great
+    - very
+    - really
+    - pretty
+    - fairly
+    - kind of
+  - good
+    - kind of bad
+    - fairly bad
+    - pretty bad
+    - really bad
+  - bad
+- dislike
+  - don't mind
+  - don't really like
+  - don't like
+  - really don't like
+  - can't stand
+  - hate
+- not at all
 
 Conjunction
 -----------
