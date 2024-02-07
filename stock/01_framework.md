@@ -101,6 +101,7 @@ Response
 - 引き受けた
   - `I'll take care of it.`
   - `I'll do my best.`
+  - `I'll try.`
 - 断る
   - `Not yet`.
   - `I wish I could, but` I have to be out of town.
@@ -109,6 +110,8 @@ Response
   - `I'll think about it.`
 - そうしていただけると嬉しい
   - `That would be great.`
+- ってこと？
+  - `Do you mean` ... you lost?
 - その他
   - `That's a fair point`
   - `Like you said,`
@@ -255,6 +258,7 @@ Opinion
 - 訂正
   - `I didn't mean it`.
   - `What I meant was`, you should do it carefully.
+  - That's not `what I meant`.
   - No! `I was just saying ...` it's a new look for you.
   - `It's not that` I like Joe. I just want to be on YouTube a lot.
   - `It's not that` I don't like you. I just don't have the time now.

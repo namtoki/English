@@ -13,10 +13,15 @@ Adverb
   - She is `kind of` rude.
   - It was `kind of` ... confusing.
   - I guess it wasn't `that` important.
+  - Your daddy's not `that` strong.
+  - I didn't think it was `that` difficult.
   - We `might as well` walk there.
   - They `may just as well` be married since they've been living together for years.
   - Come on now, you `may as well` tell us.
   - The guy I'm playing is a really good golfer? Well, I `may as well` give up before I start. (仕方ない)
+  - `Everyone` does it.
+  - `Almost all` Japanese
+  - `Most` people like it.
 - 付け足し (後ろから修飾)
   - He doesn't like `(some)things like that`.
   - I think he's learning Spanish `or something like that`, if that makes sence.
