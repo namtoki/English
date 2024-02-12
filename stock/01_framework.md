@@ -52,6 +52,8 @@ Back-channeling
   - `That's OK.`
 - なんとかなるよ
   - `It's going to be OK.`
+- なんでもないです / 気にしないで
+  - `Never mind.`
 
 Beginning
 ---------
@@ -98,6 +100,7 @@ Response
   - `Sure`
   - Do you want to get some food first? `Might as well`. It's a long play.
   - Shall we try that place? `Might as well`. There aren't many restaurants around here.
+  - `I don't mind.`
 - 引き受けた
   - `I'll take care of it.`
   - `I'll do my best.`
@@ -144,6 +147,10 @@ Question
 - `Is that really necessay?`
 - いつまでに
   - `(By) When do I have to` finish this?
+- どんな, どこの
+  - `What` racket do you use?
+- するつもり？
+  - `Are you` going to Tokyo or New York next week?
 
 Request / Suggestion
 --------------------
@@ -180,6 +187,8 @@ Request / Suggestion
 - 聞かせて
   - `Let me ask you` something.
   - `Let me ask you` your honest opinion.
+- 好きなほうでいいですよ
+  - `It's up to you.`
 
 Fact
 ----
@@ -231,6 +240,11 @@ Opinion
   - `I need to` get back to the office.
   - `I have to` go home.
   - `I gotta` go.
+- するかも
+  - `I might` finish early tonight.
+- による
+  - `I depends.`
+  - `I depends` on the traffic.
 - 思う
   - `It's` interesting `how` you said that.
   - `It's` amazing `how` you did that.
@@ -299,5 +313,8 @@ Opinion
       - (使役) I `got one of my classmates to help` my sister with her homework.
           - = I asked some of my classmates to give me a hand.
       - (使役) She often `gets an Italian restaurant to deliver` a pizza to her home.
-- 他
-  - `rather than ...`
+- やっぱりやめておきます
+  - `I'd rather not.`
+- 仕方ない
+  - `I can't help it.`
+  - `There's nothing we can do about` it.
