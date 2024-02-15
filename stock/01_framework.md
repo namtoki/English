@@ -6,7 +6,7 @@ Back-channeling
 - 私もそう思う
   - `I think so too`
   - `That's what I think, too.`
-  - ★ `I know what you mean.`
+  - `I know what you mean.`
 - 私も
   - `Me too`
   - `So do I`
@@ -48,12 +48,11 @@ Back-channeling
   - `You bet`
 - 大丈夫だよ
   - `It's OK.`
-- 気にしないで
-  - `That's OK.`
 - なんとかなるよ
   - `It's going to be OK.`
 - なんでもないです / 気にしないで
   - `Never mind.`
+  - `That's OK.`
 
 Beginning
 ---------
@@ -114,7 +113,7 @@ Response
 - そうしていただけると嬉しい
   - `That would be great.`
 - ってこと？
-  - `Do you mean` ... you lost?
+  - ★ `Do you mean` ... you lost?
 - その他
   - `That's a fair point`
   - `Like you said,`
@@ -264,7 +263,7 @@ Opinion
 - するべきだった
   - She `was supposed to` say yes.
 - 苦手
-  - `I'm terrible with ..`
+  - ★ `I'm terrible with ..`
 - というのも
   - I made the decision not to join the program. `The reason being` I thought I wasn't ready yet and didn't have the competence enough to do it.
   - I decided to turn down the job offer. `The reason being that`, I didn’t want to relocate.

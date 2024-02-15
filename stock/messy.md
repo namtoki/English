@@ -1,6 +1,6 @@
 Messy
 =====
-- I `want to try` scuba diving. My frinend said it's a lot of fun.
+- I want to try scuba diving. My frinend said it's a lot of fun.
 - I wanted a hobby that I could do in Yokohama.
 - Oh! I always forget the 'S'!
 - Could you repeat that, please?
@@ -26,17 +26,20 @@ Messy
 - Can you hear me?
 - I was on mute.
 - I can't see you/the material/the notes.
-- I `transferred offices` because I `changed jobs`.
+- I transferred offices because I changed jobs.
 - I recently changed companies, so I have a lot to learn about the new company's culture.
-- My office is `in` Kawasaki.
-- I work `in` Kawasaki city.
-- I work `on` the fifth floor.
-- From my house to Kamiooka station is 20 minutes `on foot`.
-- I like working for my company but I'm still in my `honeymoon phase`.
+- My office is in Kawasaki.
+- I work in Kawasaki city.
+- I work on the fifth floor.
+- From my house to Kamiooka station is 20 minutes on foot.
+- I like working for my company but I'm still in my honeymoon phase.
 - I've been working at my current company for about 1 month and a half.
 - How long have you been working here?
 - My hobby is watching baseball game`s`.
 - I like wathing baseball game`s`.
+
+
+
 - We should plan ahead for the year-end shopping season and hire some new workers now.
 - We need to give some thought to what we will do if the client ways no to our first offer.
 - `I work for <company>`
