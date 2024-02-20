@@ -37,20 +37,19 @@ Messy
 - How long have you been working here?
 - My hobby is watching baseball game`s`.
 - I like wathing baseball game`s`.
-
-
-
 - We should plan ahead for the year-end shopping season and hire some new workers now.
 - We need to give some thought to what we will do if the client ways no to our first offer.
-- `I work for <company>`
-- `I work in <place/department>`
-- The Baystars are going to `play The Carp` today.
-- I `became` a fan of Baystars 2 years ago.
+- I work for <company>
+- I work in <place/department>
+- The Baystars are going to play The Carp today.
+- I became a fan of Baystars 2 years ago.
+
+
+
 - I `don't care for` spicy food.
 - That `doesn't work for` my wife.
 - I `always` go to the gym `on my days off`.
 - I `always` eat steak `on my birthday.`
-- Most people said ther movie was terrible, but `personally` I thought it was pretty good.
 - I like spending time with my coworkers and clients in `my professional life` but in `my personal life` I just relax with my family.
 - I like `fresh air` in the morning.
 - be `an early bird`

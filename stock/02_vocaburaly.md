@@ -25,6 +25,7 @@ Idioms
 - `Mum's the word`
 - `treat yourself`
 - `That's a waste.`
+- My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just `took it easy`.
 
 Synonyms
 --------

@@ -22,6 +22,7 @@ Adverb
   - `Everyone` does it.
   - `Almost all` Japanese
   - `Most` people like it.
+  - Most people said ther movie was terrible, but `personally` I thought it was pretty good.
 - 付け足し (後ろから修飾)
   - He doesn't like `(some)things like that`.
   - I think he's learning Spanish `or something like that`, if that makes sence.
