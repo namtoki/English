@@ -9,3 +9,9 @@ And `the` mood on our campus was ~disblief~`disbelief`.
 ~One~`A lot of` people ~from~`felt` like ~Euro~`we were` acting without `hearing` ~one~`a lot` of ~the~ important ~inspectives~`perspectives.`
 And ~then~`the toll on` soldiers and `their families and our` national ~society~`psyche` was severe.
 ~you~`And` most of us ~feel~`felt` like we `were` powerless to do anything about it.
+
+And I remember ~a~ feeling that `if` more people ~have~`had` a voice to share their experiences, ~than~`then` maybe `it could have gone` differently.
+And `those early years` shape`d` my belief `that` giving more people ~our~`a` voice gives ~the~ power `to` the powerless and push~the~`es` society to get better over time.
+
+Now back ~analyze~`then I was` just building `an` early version of ~the~ Facebook for my community.
+But I got the chance to see my values and `beliefs play out at a` small`er` ~skills~`scale`.
