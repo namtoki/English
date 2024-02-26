@@ -15,3 +15,21 @@ And `those early years` shape`d` my belief `that` giving more people ~our~`a` vo
 
 Now back ~analyze~`then I was` just building `an` early version of ~the~ Facebook for my community.
 But I got the chance to see my values and `beliefs play out at a` small`er` ~skills~`scale`.
+
+`When students got to` express `who they were and what mattered to them,`
+      ^^^^^^^^                                    ^^^^
+      glottal                                     wa
+
+they start`ed` more student ~incluve~`groups` ~say,~`they` organize`d` more businesses, and
+                                                                                     ^^^^^^
+                                                                                     linking
+
+`they` even challeng~ing~`ed` `some established ways of` doing ~than~`things around` campus.
+
+And it ~tell~`taught` me the lesson ~the one of~`that while a lot of the` world often forcuses on the big ~invent~`events and` institutions,
+             ^^^^^^^^^^^                              ^^^^^^^^^^^^^^^^^^^^^^^^^
+             strength                                 strength
+
+the bigger story `is that` most progress ~than~`in` our lives actually comes from individuals having ~our~`more of a` voice.
+                                                              ^^^^^^^^^^^^^^
+                                                              strength
