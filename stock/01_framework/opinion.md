@@ -49,6 +49,11 @@ Opinion
 ------
 - I don't `believe in` ghosts.
 
+までわからない
+---------------
+- `I won't know until` Friday.
+- `I won't know until` I try.
+
 今言おうと思っていた
 --------------------
 - `I was going to say` we should get the smaller one.
