@@ -3,6 +3,7 @@ Back-channeling
 
 私もそう思う
 ------------
+
 - `I think so too`
 - `That's what I think, too.`
 - `I know what you mean.`

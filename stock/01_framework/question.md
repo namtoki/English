@@ -17,6 +17,14 @@ Question
   - `(By) When do I have to` finish this?
 - どんな, どこの
   - `What` racket do you use?
-- するつもり？
-  - `Are you` going to Tokyo or New York next week?
 
+するつもり？
+------------
+
+- `Are you` going to Tokyo or New York next week?
+
+どっちがいい？
+--------------
+
+- `What's better`
+- `Which do you prefer`, going to the movies or watching films at home?
