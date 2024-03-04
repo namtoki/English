@@ -12,8 +12,11 @@
 - We're just tiny specks in the universe `if you think about it.`
 - It's crazy how we can communicate like this `if you think about it.`
 
-## 私に言わせれば
+## 自分の意見
 
+- `Personally`, in my opinion ,,,
+- `Honestly`, I feel ,,,
+- `From my point of view`, ,,,
 - It was a little long, `if you ask me.`
 
 ## よろしければ

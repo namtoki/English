@@ -13,20 +13,19 @@
 - 5:   almost never | hardly ever
 - 0:   never
 
-## Greatness
+## Goodness
 
 - great
-  - very
-  - really
-  - pretty
-  - fairly
-  - kind of
+- very good
+- really good
 - good
-  - kind of bad
-  - fairly bad
-  - pretty bad
-  - really bad
+- pretty good / fairly good
+- kind of good
+- so-so / not bad
+- kind of bad
+- pretty bad / fairly bad
 - bad
+- really bad
 
 ## Like
 
