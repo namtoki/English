@@ -9,3 +9,13 @@
 - The company `culture` is different.
 - The people who disagreed are `old fashioned seniors`.
 - It is easier to share my opinions when (`senior management` | `upper management`) is not present.
+
+## Health
+
+- I have `hay fever`.
+  - I have `a pollen allergy`.
+- I can't stop `sneezing`.
+  - I keep `sneezing`.
+- I've got `bloodshot eyes`.
+  - `My eyes are bloodshot`.
+- I have `itchy throat and nose`.

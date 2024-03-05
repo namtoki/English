@@ -9,3 +9,9 @@
 
 - `Hang on` a sec.
 - `Hang in there.` ≒ `Good luck.`
+
+## come
+
+- OK. I'll `come clean`.
+- I'm gonna `come clean` with everyone.
+  - `confess`
