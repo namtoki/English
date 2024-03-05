@@ -1,39 +1,38 @@
-Opinion
-=======
+# Opinion
 
-気がする
---------
+## 気がする
+
 - `I have a feeling that` it's gonna be a great event.
 - `I have a hunch that` there's more to it.
 - `It seems to be` a good fit for him.
 - `It seems to be` broken.
 - `I believe` she drives a white truck.
 
-気分だ
-------
+## 気分だ
+
 - `I feel like` Thai food.
 - `I feel like` we never talk anymore.
 - `I don't feel like` it.
 - `I don't feel like` talking right now.
 - `I'm not in the mood.`
 
-しなくちゃ
-----------
+## しなくちゃ
+
 - `I need to` get back to the office.
 - `I have to` go home.
 - `I gotta` go.
 
-するかも
---------
+## するかも
+
 - `I might` finish early tonight.
 
-による
-------
+## による
+
 - `I depends.`
 - `I depends` on the traffic.
 
-思う
-----
+## 思う
+
 - `It's` interesting `how` you said that.
 - `It's` amazing `how` you did that.
 - `It's` amazing `how` we can work on this project.
@@ -45,36 +44,36 @@ Opinion
 - `The fact is that` I don't know.
 - `This might be just me, but` don't you think this is a bit too expensive?
 
-信じる
-------
+## 信じる
+
 - I don't `believe in` ghosts.
 
-までわからない
----------------
+## までわからない
+
 - `I won't know until` Friday.
 - `I won't know until` I try.
 
-今言おうと思っていた
---------------------
+## 今言おうと思っていた
+
 - `I was going to say` we should get the smaller one.
 - `I was going to say`! (だよね！)
 
-するべきだった
---------------
+## するべきだった
+
 - She `was supposed to` say yes.
 
-苦手
-----
+## 苦手
+
 - ★ `I'm terrible with ..`
 
-というのも
-----------
+## というのも
+
 - I made the decision not to join the program. `The reason being` I thought I wasn't ready yet and didn't have the competence enough to do it.
 - I decided to turn down the job offer. `The reason being that`, I didn’t want to relocate.
 - She moved back in with her parents. `The reason being that`, she wanted to take care of her parents.
 
-訂正
-----
+## 訂正
+
 - `I didn't mean it`.
 - `What I meant was`, you should do it carefully.
 - That's not `what I meant`.
@@ -84,25 +83,25 @@ Opinion
 - `It's not like` Joe is a bad guy. He is just shady sometimes.
 - `I'm just trying to` explain what happened.
 
-～だといい
-----------
+## ～だといい
+
 - `I hope` we are on time.
 - `I hope` it doesn't rain.
 - `I hope` so.
 - `I hope` not.
 
-～だったらよかったのに
-----------------------
+## ～だったらよかったのに
+
 - `I wish` I spoke French.
 - `I wish` I were better at speaking English.
 
-そうなったら .. と思う
-----------------------
+## そうなったら .. と思う
+
 - I `would` be too nervous.
 - `That would be` awesome.
 
-謙遜
-----
+## 謙遜
+
 - `I have to say` your place is adorable!
 - `I have to say` you have great taste.
 - `You know as well as I do that`
@@ -110,8 +109,8 @@ Opinion
 - `It's no bother`.
 - `I hope` I'm not interrupting you.
 
-させる
-------
+## させる
+
 - `make ... Adj`
   - I'll do anything to `make you happy`.
   - The story `made me sad`.
@@ -132,15 +131,15 @@ Opinion
     - = I asked some of my classmates to give me a hand.
   - (使役) She often `gets an Italian restaurant to deliver` a pizza to her home.
 
-やっぱりやめておきます
-----------------------
+## やっぱりやめておきます
+
 - `I'd rather not.`
 
-仕方ない
---------
+## 仕方ない
+
 - `I can't help it.`
 - `There's nothing we can do about` it.
 
-懐かしい
---------
+## 懐かしい
+
 - `I remember` that trip!
