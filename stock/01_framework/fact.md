@@ -2,13 +2,23 @@
 
 ## 過去
 
-- I `used to` read every day.
-- I `used to` watch it all the time with my parents.
-- I `have never` been to Hawaii `before`, but I would like to go someday.
-- `I ended up staying` home. (結局 .. した)
-- `I got to` meet Joyce Nelson in person! (ラッキーなことに ... できた)
-- I felt dizzy, `and the next thing I knew` I was being carried by the ambulance. (次の瞬間)
-- My current company is the fourth company `I've worked for`.
+- used to
+  - I used to read every day.
+  - I used to watch it all the time with my parents.
+  - My wife used to be a junior high school teacher.
+- have never ... before
+  - I have never been to Hawaii before, but I would like to go someday.
+- ended up ... ing
+  - I ended up staying home. (結局 .. した)
+- got to
+  - I got to meet Joyce Nelson in person! (ラッキーなことに ... できた)
+- and the next thing I knew
+  - I felt dizzy, and the next thing I knew I was being carried by the ambulance. (次の瞬間)
+
+## 特徴
+
+- in one's XXs
+  - Some of her first students are new in their 20s.
 
 ## 慣れる/ている
 
