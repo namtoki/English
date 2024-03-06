@@ -39,3 +39,10 @@
 
 - get along ⇔ clash
   - My wife did not get along with the principal of her school.
+
+## 見分ける
+
+- Bob was so beside himself that he could scarcely tell fact from fiction.
+- distingish A from B  
+- know A from B
+

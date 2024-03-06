@@ -1,5 +1,17 @@
 Messy
 =====
+
+- know everything about ...
+  - If you're interested in old films you should talk to Gene. He knows everything about movies.
+- ... for the (fun | love | joy) of it
+  - I enjoy cooking but I don't want to be a chef, because I just cook for the fun of it.
+- spend time ...
+  - I spend time with my wife on my days off.
+- in-laws
+  - I visit my in-laws on holidays.
+- lack
+  - I lacked height.
+
 - I want to try scuba diving. My frinend said it's a lot of fun.
 - I wanted a hobby that I could do in Yokohama.
 - Oh! I always forget the 'S'!
