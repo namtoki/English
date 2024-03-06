@@ -2,11 +2,12 @@
 
 ## 気がする
 
-- `I have a feeling that` it's gonna be a great event.
-- `I have a hunch that` there's more to it.
-- `It seems to be` a good fit for him.
-- `It seems to be` broken.
-- `I believe` she drives a white truck.
+- I have a feeling/hunch that ...
+  - I have a feeling that it's gonna be a great event.
+  - I have a hunch that there's more to it.
+- It seems to be ...
+  - It seems to be a good fit for him.
+  - It seems to be broken.
 
 ## 気分だ
 
@@ -14,7 +15,9 @@
 - `I feel like` we never talk anymore.
 - `I don't feel like` it.
 - `I don't feel like` talking right now.
-- `I'm not in the mood.`
+- I'm in the mood ...
+  - I'm not in the mood.
+  - I'm in the mood to watch a movie.
 
 ## しなくちゃ
 
@@ -28,11 +31,15 @@
 
 ## による
 
-- `I depends.`
-- `I depends` on the traffic.
+- depends.
+  - It depends.
+  - It depends on the traffic.
+  - It depends on my mood.
+  - It depends on how I feel.
 
 ## 思う
 
+- `I believe` she drives a white truck.
 - `It's` interesting `how` you said that.
 - `It's` amazing `how` you did that.
 - `It's` amazing `how` we can work on this project.

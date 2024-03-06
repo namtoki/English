@@ -12,13 +12,17 @@
   - I ended up staying home. (結局 .. した)
 - got to
   - I got to meet Joyce Nelson in person! (ラッキーなことに ... できた)
-- and the next thing I knew
-  - I felt dizzy, and the next thing I knew I was being carried by the ambulance. (次の瞬間)
 
 ## 特徴
 
 - in one's XXs
   - Some of her first students are new in their 20s.
+
+## かかる
+
+- It takes ...
+  - It takes her 25minutes to walk to work.
+  - It takes 9 hours to San Francisco from Tokyo.
 
 ## 慣れる/ている
 
@@ -27,21 +31,21 @@
 - He `got familiar with` a new laptop.
 - I `am familiar to` him, I've spent time with him for over 10 years.
 
-ぶりだ
-------
+## ぶりだ
+
 - `It's been (a long time / a while / ages) since` I've swung a tennis racket.
 - I'm going to Hawaii `for the first time in` 1 year.
 
-習慣 / 習性
------------
+## 習慣 / 習性
+
 - `I tend to` prefer non-fiction. (普段は)
 - `I tend not to` remeber my dreams. (たいてい)
 - `I tend to` eat a lot when I' nervous. (ついついしちゃう)
 - `I` usually `end up getting` fast food. (ついついしちゃう)
 - In my family, we `always` eat turkey `on` Thanksgiving and have ham `for` Christmas.
 
-一般的に
---------
+## 一般的に
+
 - It's `a custom to` take off your shoes before entering a Japanese Home.
 - In Japan, it's `traditional to` visit a shrine during the first few days of the new year.
 - On Valentine's Day, in Japan girls `are supposed to` give chocolates to the guys.
@@ -50,8 +54,8 @@
 - Japanese men `no longer` wear their hair in topknots.
 - The custom of tipping might `die out` because of digital payments.
 
-予定
-----
+## 予定
+
 - What time are we `supposed` to be there?
 - What time are we `going` to be there?
 - It's `supposed` to snow tonight.

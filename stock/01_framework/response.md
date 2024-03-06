@@ -19,9 +19,10 @@ Response
 
 引き受けた
 ----------
-- `I'll take care of it.`
-- `I'll do my best.`
-- `I'll try.`
+- I'll take care of it.
+- I'll get on that.
+- I'll try.
+- I'll do my best.
 
 断る
 ----
@@ -30,6 +31,7 @@ Response
 - Hey, Toshi? `I'm trying to` work, Emily! (邪魔しないで)
 - Hang on. I'm just finishing up an email `at the moment`
 - `I'll think about it.`
+- No. I'm Okay.
 
 そうしていただけると嬉しい
 --------------------------

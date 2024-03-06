@@ -1,94 +1,93 @@
-Back-channeling
-===============
+# Back-channeling
 
-私もそう思う
-------------
+## 私もそう思う
 
-- `I think so too`
-- `That's what I think, too.`
-- `I know what you mean.`
+- I think so too
+- That's what I think, too.
+- I know what you mean.
 
-私も
-----
-- `Me too`
-- `So do I`
-- `Same here`
+## 私も
 
-だよね
-------
-- `I know, right?`
+- Me too
+- So do I
+- Same here
 
-わかるよ (共感)
----------------
-- `I feel you`
-- `Been there done that`
+## だよね
 
-理解できる
-----------
-- `Fair enough (, but)`
-- `I know what you are saying`
+- I know, right?
 
-その通りだね
-------------
-- `(That's) true`
-- `Exactly`
-- `Absolutely`
-- `Totally`
+## わかるよ (共感)
 
-そうだよ
---------
-- `Right`
+- I feel you
+- Been there done that
 
-なるほど
---------
-- `I see` what you mean.
-- `(That) makes sense`
+## 理解できる
 
-いいね
-------
-- `Sounds good`
-- `(That) Sounds like a plan`
-- `I love it!`
+- Fair enough (, but)
+- I know what you are saying
 
-それは .. だね
---------------
-- ★ `That sounds like` a lot of work. (※ 名詞だから like が必要)
+## その通りだね
 
-いいなぁ
---------
-- `Lucky you!`
+- (That's) true
+- Exactly
+- Absolutely
+- Totally
 
-そんなに？
-----------
-- I can't tell you how much I loved it. Wow! `That good?`
+## そうだよ
 
-ほらね
-------
-- `I told you.`
+- Right
 
-ありがとう
-----------
-- `How kind of you.`
+## なるほど
 
-どういたしまして
-----------------
-- `My pleasure`
-- `You bet`
-- `Don't mention it`
+- I see what you mean.
+- (That) makes sense
 
-大丈夫だよ
-----------
-- `It's OK.`
+## いいね
 
-なんとかなるよ
---------------
-- `It's going to be OK.`
+- Sounds good
+- (That) Sounds like a plan
+- I love it!
 
-なんでもないです / 気にしないで
--------------------------------
-- `Never mind.`
-- `That's OK.`
+## それは .. だね
 
-わかったよ
-----------
-- `I believe you`
+- That sounds like a lot of work. (※ 名詞だから like が必要)
+
+## いいなぁ
+
+- Lucky you!
+
+## そんなに？
+
+- I can't tell you how much I loved it. Wow! That good?
+
+## ほらね
+
+- I told you.
+
+## ありがとう
+
+- How kind of you.
+
+## どういたしまして
+
+- My pleasure
+- You bet
+- Don't mention it
+- Anytime
+
+## 大丈夫だよ
+
+- It's OK.
+
+## なんとかなるよ
+
+- It's going to be OK.
+
+## なんでもないです / 気にしないで
+
+- Never mind.
+- That's OK.
+
+## わかったよ
+
+- I believe you

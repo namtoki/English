@@ -11,3 +11,5 @@
 - `That's a waste.`
 - My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just `took it easy`.
 - She seems angry, you should `tread lightly`
+- and the next thing I knew
+  - I felt dizzy, and the next thing I knew I was being carried by the ambulance. (次の瞬間)
