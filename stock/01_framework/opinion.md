@@ -91,14 +91,18 @@
 
 ## 訂正
 
-- I didn't mean it.
-- What I meant was, you should do it carefully.
-- That's not what I meant.
-- No! I was just saying ... it's a new look for you.
-- It's not that I like Joe. I just want to be on YouTube a lot.
-- It's not that I don't like you. I just don't have the time now.
-- It's not like Joe is a bad guy. He is just shady sometimes.
-- I'm just trying to explain what happened.
+- mean/meant
+  - I didn't mean it.
+  - What I meant was, you should do it carefully.
+  - That's not what I meant.
+- It's not that ...
+  - It's not that I like Joe. I just want to be on YouTube a lot.
+  - It's not that I don't like you. I just don't have the time now.
+  - It's not like Joe is a bad guy. He is just shady sometimes.
+- I was just saying ...
+  - No! I was just saying ... it's a new look for you.
+- I'm just trying to ...
+  - I'm just trying to explain what happened.
 
 ## ～だといい
 
