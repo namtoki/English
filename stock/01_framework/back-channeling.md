@@ -16,14 +16,19 @@
 
 - I know, right?
 
-## わかるよ (共感)
+## なるほど
 
+- I see what you mean.
+- (That) makes sense
+
+## 共感
+
+- Fair enough (, but)
 - I feel you
 - Been there done that
 
 ## 理解できる
 
-- Fair enough (, but)
 - I know what you are saying
 
 ## その通りだね
@@ -36,11 +41,6 @@
 ## そうだよ
 
 - Right
-
-## なるほど
-
-- I see what you mean.
-- (That) makes sense
 
 ## いいね
 

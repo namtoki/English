@@ -15,7 +15,7 @@
 
 ## 大丈夫？
 
-- Is everything all right, Thelma?
+- Is everything all right?
 
 ## 頼みがあるの
 

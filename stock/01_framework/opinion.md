@@ -11,23 +11,58 @@
 
 ## 気分だ
 
-- `I feel like` Thai food.
-- `I feel like` we never talk anymore.
-- `I don't feel like` it.
-- `I don't feel like` talking right now.
+- I feel like ...
+  - I feel like Thai food.
+  - I feel like we never talk anymore.
+  - I don't feel like it.
+  - I don't feel like talking right now.
 - I'm in the mood ...
   - I'm not in the mood.
   - I'm in the mood to watch a movie.
 
 ## しなくちゃ
 
-- `I need to` get back to the office.
-- `I have to` go home.
-- `I gotta` go.
+- I need to ...
+  - I need to get back to the office.
+- I have to ...
+  - I have to go home.
+- I gotta ...
+  - I gotta go.
+
+## 思う
+
+- I believe ...
+  - I believe she drives a white truck.
+- It's ... how ...
+  - It's interesting how you said that.
+  - It's amazing how you did that.
+  - It's amazing how we can work on this project.
+  - It's strange how time flies when we're having fun.
+- I feel ...
+  - I feel bad about canceling.
+- The fact is that ...
+  - The fact is that I don't know.
+
+## 思う (感情的に)
+
+- I will never ... again!
+  - I will never climb Mt.Fuji again! I went last August and it was way too difficult for me.
+- I can't tell you how much ...
+  - I can't tell you how much I loved it.
+
+## 好み
+
+- I'm terrible with ..
+
+## 信じる
+
+- I believe in ...
+  - I don't believe in ghosts.
 
 ## するかも
 
-- `I might` finish early tonight.
+- I might ...
+  - I might finish early tonight.
 
 ## による
 
@@ -37,116 +72,74 @@
   - It depends on my mood.
   - It depends on how I feel.
 
-## 思う
-
-- `I believe` she drives a white truck.
-- `It's` interesting `how` you said that.
-- `It's` amazing `how` you did that.
-- `It's` amazing `how` we can work on this project.
-- `It's` strange `how` time flies when we're having fun.
-- `I feel bad about` canceling.
-- `I can't tell you how much` I loved it.
-- `I will never` climb Mt.Fuji `again`! I went last August and it was way too difficult for me.
-- Working from home is great. Yeah, `but at the same time`, it's king of incovenient.
-- `The fact is that` I don't know.
-- `This might be just me, but` don't you think this is a bit too expensive?
-
-## 信じる
-
-- I don't `believe in` ghosts.
-
 ## までわからない
 
-- `I won't know until` Friday.
-- `I won't know until` I try.
+- I won't know until ...
+  - I won't know until Friday.
+  - I won't know until I try.
 
 ## 今言おうと思っていた
 
-- `I was going to say` we should get the smaller one.
-- `I was going to say`! (だよね！)
+- I was going to say ...
+  - I was going to say we should get the smaller one.
+  - I was going to say! (だよね！)
 
 ## するべきだった
 
-- She `was supposed to` say yes.
-
-## 苦手
-
-- ★ `I'm terrible with ..`
-
-## というのも
-
-- I made the decision not to join the program. `The reason being` I thought I wasn't ready yet and didn't have the competence enough to do it.
-- I decided to turn down the job offer. `The reason being that`, I didn’t want to relocate.
-- She moved back in with her parents. `The reason being that`, she wanted to take care of her parents.
+- ... was/were supposed to ...
+  - She was supposed to say yes.
 
 ## 訂正
 
-- `I didn't mean it`.
-- `What I meant was`, you should do it carefully.
-- That's not `what I meant`.
-- No! `I was just saying ...` it's a new look for you.
-- `It's not that` I like Joe. I just want to be on YouTube a lot.
-- `It's not that` I don't like you. I just don't have the time now.
-- `It's not like` Joe is a bad guy. He is just shady sometimes.
-- `I'm just trying to` explain what happened.
+- I didn't mean it.
+- What I meant was, you should do it carefully.
+- That's not what I meant.
+- No! I was just saying ... it's a new look for you.
+- It's not that I like Joe. I just want to be on YouTube a lot.
+- It's not that I don't like you. I just don't have the time now.
+- It's not like Joe is a bad guy. He is just shady sometimes.
+- I'm just trying to explain what happened.
 
 ## ～だといい
 
-- `I hope` we are on time.
-- `I hope` it doesn't rain.
-- `I hope` so.
-- `I hope` not.
+- I hope ...
+  - I hope we are on time.
+  - I hope it doesn't rain.
+  - I hope so.
+  - I hope not.
 
 ## ～だったらよかったのに
 
-- `I wish` I spoke French.
-- `I wish` I were better at speaking English.
+- I wish ...
+  - I wish I spoke French.
+  - I wish I were better at speaking English.
 
 ## そうなったら .. と思う
 
-- I `would` be too nervous.
-- `That would be` awesome.
+- ... woulld ...
+  - I would be too nervous.
+  - That would be awesome.
 
 ## 謙遜
 
-- `I have to say` your place is adorable!
-- `I have to say` you have great taste.
-- `You know as well as I do that`
-- `I don't want to bother` you.
-- `It's no bother`.
-- `I hope` I'm not interrupting you.
-
-## させる
-
-- `make ... Adj`
-  - I'll do anything to `make you happy`.
-  - The story `made me sad`.
-  - When I was on homestay, I found it difficult to `make mayself understood` in English.
-  - (使役) The PE teacher `made the students run` in the snow.
-- `have ... Adj`
-  - Shall we `have our new plasma TV on the wall`?
-  - I `had my uniform cleaned` for the graduation ceremony.
-  - I `had my iPod pinched` from my school bag.
-  - ★ My iPod was pinched との違いは？
-  - I `had my hair cut`.
-  - (使役) I'll `have the nurse bandage` your leg for you.
-- `let ... Adj`
-  - Don't `let me down`.
-  - (使役) My daughter's upset because I won't `let her get` a tattoo.
-- `get ... to 不定詞`
-  - (使役) I `got one of my classmates to help` my sister with her homework.
-    - = I asked some of my classmates to give me a hand.
-  - (使役) She often `gets an Italian restaurant to deliver` a pizza to her home.
+- I have to say ...
+  - I have to say your place is adorable!
+  - I have to say you have great taste.
+- You know as well as I do that ...
+- I don't want to bother you.
+  - It's no bother.
+- I hope I'm not interrupting you.
 
 ## やっぱりやめておきます
 
-- `I'd rather not.`
+- I'd rather not.
 
 ## 仕方ない
 
-- `I can't help it.`
-- `There's nothing we can do about` it.
+- I can't help it.
+- There's nothing we can do about it.
 
 ## 懐かしい
 
-- `I remember` that trip!
+- I remember ...
+  - I remember that trip!

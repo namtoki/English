@@ -13,3 +13,9 @@
 - She seems angry, you should `tread lightly`
 - and the next thing I knew
   - I felt dizzy, and the next thing I knew I was being carried by the ambulance. (次の瞬間)
+
+## 特徴
+
+- in one's XXs
+  - Some of her first students are new in their 20s.
+
