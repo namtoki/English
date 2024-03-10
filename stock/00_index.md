@@ -3,9 +3,10 @@
 ## Framework
 
 - [Fact](01_framework/fact.md)
-- Feelings
-  - [Feelings](01_framework/feelings/feelings.md)
-  - [Feelings](01_framework/feelings/suggestion.md)
+- Opinion
+  - [Feelings](01_framework/opinion/feelings.md)
+  - [Feelings](01_framework/opinion/suggestion.md)
+  - [Feelings](01_framework/opinion/subjunctive.md)
 - [Description](01_framework/description.md)
 - Conversation
   - [Beginning](01_framework/conversation/beginning.md)

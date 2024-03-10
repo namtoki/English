@@ -1,6 +1,6 @@
 # Complementary
 
-## とか
+## とかね
 
 - ... like
   - Things like party hats, paper plates and napkins.
@@ -11,10 +11,21 @@
   - I'm just going to read a book or whatever.
   - She can gossip about me or whatever. (どうでもよいけど)
 
-## とかいろいろ
+## とかいろいろね
 
 - ... and stuff.
   - We've got to do editing and stuff.
+
+## ある意味ね
+
+- ... in a way
+  - Yep, in a way.
+  - He's a genius, in a way.
+
+## すべてにおいてね
+
+- ... in every way
+  - That movie was perfect in every way.
 
 ## 同時に
 
