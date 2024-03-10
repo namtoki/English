@@ -1,6 +1,6 @@
 # Complementary
 
-## とかね
+## とか
 
 - ... like
   - Things like party hats, paper plates and napkins.
@@ -11,21 +11,39 @@
   - I'm just going to read a book or whatever.
   - She can gossip about me or whatever. (どうでもよいけど)
 
-## とかいろいろね
+## とかいろいろ
 
 - ... and stuff.
   - We've got to do editing and stuff.
 
-## ある意味ね
+## ある意味
 
 - ... in a way
   - Yep, in a way.
   - He's a genius, in a way.
 
-## すべてにおいてね
+## すべてにおいて
 
 - ... in every way
   - That movie was perfect in every way.
+
+## (つい) こないだ
+
+- ... the other day
+  - I saw Alison the other day.
+- ... (just) the other day (つい)
+  - I went there just the other day!
+
+## ここまで来たら
+
+- ... at this point
+  - I'm ready to quit at this point.
+
+## そろそろ
+
+- ... at some point
+  - We should really clean the fridge at some point.
+  - You should ask her out at some point.
 
 ## 同時に
 

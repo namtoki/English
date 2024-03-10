@@ -84,11 +84,6 @@
   - I was going to say we should get the smaller one.
   - I was going to say! (だよね！)
 
-## するべきだった
-
-- ... was/were supposed to ...
-  - She was supposed to say yes.
-
 ## 訂正
 
 - mean/meant
@@ -103,26 +98,6 @@
   - No! I was just saying ... it's a new look for you.
 - I'm just trying to ...
   - I'm just trying to explain what happened.
-
-## ～だといい
-
-- I hope ...
-  - I hope we are on time.
-  - I hope it doesn't rain.
-  - I hope so.
-  - I hope not.
-
-## ～だったらよかったのに
-
-- I wish ...
-  - I wish I spoke French.
-  - I wish I were better at speaking English.
-
-## そうなったら .. と思う
-
-- ... woulld ...
-  - I would be too nervous.
-  - That would be awesome.
 
 ## 謙遜
 
