@@ -33,6 +33,9 @@
   - (占める) I didn't realize I was taking up so much space.
   - (占める) Your work will take up a large portion of your time.
   - (占める) This routine is annoying because it takes up my precious time.
+- take off
+  - (休みを取る) I took some time off.
+  - (休みを取る) I think I can take off two weeks in July.
 
 ## turn
 
