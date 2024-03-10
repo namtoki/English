@@ -51,7 +51,6 @@
   - Would you like to give a speech?
 - したら？
   - Why don't you use this?
-  - We should ask first.
 - したい？
   - Want to get dinner?
 - しよう

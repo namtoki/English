@@ -43,6 +43,12 @@
 - be going to ...
   - What time are we going to be there?
 
+## 予定だった (のに)
+
+- I was going to ...
+  - I was going to get the burger, but the salad looked so good.
+  - It looks like a huge rainstorm is coming in on Saturday. I was going to go hiking this weekend. (残念)
+
 ## かかる
 
 - It takes ...
