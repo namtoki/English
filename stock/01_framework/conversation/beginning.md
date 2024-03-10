@@ -41,16 +41,21 @@
 
 - How's your day going?
 
+## そうだ！
 
-- そうだ！
-  - `I know!` Let's go bowling.
-  - `You know what?` I'm going to get an ice cream cone.
+- I know!
+  - I know! Let's go bowling.
+- You know what?
+  - You know what? I'm going to get an ice cream cone.
 
 
-- 考えていたんだけど
-  - `I was thinking. Let's` take a short trip. (考えていたんだけど)
-  - `I was thinking... maybe` we could go somewhere else.
+## 考えていたんだけど
 
-- 聞かせて
-  - `Let me ask you` something.
-  - `Let me ask you` your honest opinion.
+- I was thinking.
+  - I was thinking. Let's take a short trip.
+  - I was thinking... maybe we could go somewhere else.
+
+## 聞かせて
+
+- Let me ask you something.
+- Let me ask you your honest opinion.

@@ -11,7 +11,6 @@
   - [Response](01_framework/conversation/response.md)
   - [Question](01_framework/conversation/question.md)
   - [Termination](01_framework/conversation/termination.md)
-- [Question](01_framework/question.md)
 
 ## Vocaburaly
 

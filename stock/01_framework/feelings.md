@@ -148,5 +148,6 @@
 - I remember ...
   - I remember that trip!
 
-- 好きなほうでいいですよ
-  - `It's up to you.`
+## 好きなほうでいいですよ
+
+- `It's up to you.`

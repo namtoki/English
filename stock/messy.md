@@ -1,6 +1,72 @@
 Messy
 =====
 
+Expression
+----------
+- Daily / Casual / Common
+  - He `gets up` at 7 AM.
+  - `It takes him about` an hour to `get ready for work`.
+  - He `goes to work` by walk.
+  - Where is your favorite place to `eat out`?
+  - `I'll have` the same as her.
+  - Just don't `get` sauce on your nice shirt.
+  - Fine. Until I `spilled` iced coffee on him.
+  - I got rid of some `equipment`.
+  - I had to carry 100 pieces of `equipment`.
+  - Are we gonna `have fun` or what?
+  - Udon noodles are `easy on my stomach`.
+  - It is difficult to `put on` a Kimono.
+  - Last weekend was a `blur`. = I don't remember well.
+  - Some people are `browsing` their phones.
+  - `You'll be sorry.`
+  - `You'll be sorry` if you don't finish it today.
+- Business
+  - I think we `aced` that presentation.
+  - I think I really `nailed it` this time.
+  - Sorry, `work went late`.
+  - `Off the charts`
+  - `Through the roof`
+
+Words
+-----
+- Slip my mind
+  - `what-cha-ma-call-it.`
+  - `The thing that` you use to see the stars.
+- Life
+  - `chore`
+  - The social `welfare`
+  - The health `insurance`
+  - I took out my `mortage` this year. = loan for a house/property/condo
+  - `passengers`
+  - `pedestrians`
+  - `current events`
+  - `around the corner`
+- Appearance
+  - `tidy`
+  - `tidy up`
+  - `spotless`
+  - `Hilly area`
+  - `up there / down there`
+  - `fancy`
+  - `bald`
+  - `beard`
+  - `moustache`
+- Animal
+  - `deer`
+- Foods
+  - `Salmomn roe`
+  - `Seaweed`
+  - `Pickled plum`
+  - `baked goods`
+- Weather
+  - `sunny`
+  - `chilly`
+  - `cold`
+  - `fleezing`
+  - Seattle has low `humidity` in summer.
+  - Tokyo is too `humid`.
+  - It is `humid` in the summer but it is cold and dry in the winter.
+  - India is so `polluted`.
 - know everything about ...
   - If you're interested in old films you should talk to Gene. He knows everything about movies.
 - ... for the (fun | love | joy) of it
@@ -11,6 +77,10 @@ Messy
   - I visit my in-laws on holidays.
 - lack
   - I lacked height.
+
+
+
+
 
 - I want to try scuba diving. My frinend said it's a lot of fun.
 - I wanted a hobby that I could do in Yokohama.
