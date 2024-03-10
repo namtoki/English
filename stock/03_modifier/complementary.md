@@ -34,3 +34,9 @@
 - ... more than ...
   - I like chocolate more than vanilla.
   - I like vanilla better than chocolate.
+
+## の真っ最中に
+
+- in the middle of ...
+  - He fell asleep in the middle of the sales meeting.
+

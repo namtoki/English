@@ -13,6 +13,9 @@
 - the rest of ...
   - You can have the rest of them.
   - I don't want to do this for the rest of my life.
+- the only way to ...
+  - The only way to get to karaoke is to keep working. (やるしかない)
+  - This is the only way to live. (やっぱりこれでしょ)
 
 ## ビジネス
 

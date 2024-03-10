@@ -14,13 +14,13 @@
   - [Question](01_framework/conversation/question.md)
   - [Termination](01_framework/conversation/termination.md)
 
-## Vocaburaly
+## Vocabulary
 
-- [Noun](02_vocabraly/noun.md)
-- [Verb Adjective](02_vocabraly/verb_adjective.md)
-- [Phrasal Verb](02_vocabraly/phrasal_verb.md)
-- [Idiom](02_vocabraly/idiom.md)
-- [Saying](02_vocabraly/saying.md)
+- [Noun](02_vocablary/noun.md)
+- [Verb Adjective](02_vocablary/verb_adjective.md)
+- [Phrasal Verb](02_vocablary/phrasal_verb.md)
+- [Idiom](02_vocablary/idiom.md)
+- [Saying](02_vocablary/saying.md)
 
 ## Modifier
 
