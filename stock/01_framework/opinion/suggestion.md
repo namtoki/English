@@ -4,7 +4,8 @@
 
 - should ...
   - We should ask first.
-- you might want to ...
+- you (might) want to ...
+  - You want to pull your fingers in like this.
   - You might want to change your plans.
   - You might want to make a reservation. It’s always crowded there.
 

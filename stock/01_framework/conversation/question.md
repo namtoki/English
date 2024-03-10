@@ -7,31 +7,47 @@
 - What's it called?
 - What's the word for it?
 
-## 聞き返す系
+## 例えば？
 
 - Such as?
 
-## 意見を求める系
+## ... するつもり？
+
+- Are you ...ing?
+  - Are you going to Tokyo or New York next week?
+
+## ... しない？
+
+- (Do you) want to ...
+  - Do you want to get some food first?
+  - You want to come?
+  - Want to get dinner?
+
+## ... はどう (思う)？
 
 - How do you like ... ?
   - How do you like your new shoes?
   - How do you like the soup?
 - How do you think of ... ?
+
+## あなたはどう？
+
 - How about you?
   - I've never been to Disney World in Florida. How about you?
 
-## 時間系
+## いつまでに？
 
-- Do you have the time?
-- When was the last time ... ?
-  - When was the last time you talked to him?
 - (By) When ... ?
   - (By) When do I have to finish this?
 
-## 予定を聞く系
+## いつぶり？
 
-- Are you ...ing?
-  - Are you going to Tokyo or New York next week?
+- When was the last time ... ?
+  - When was the last time you talked to him?
+
+## 今何時？
+
+- Do you have the time?
 
 ## 提案
 
@@ -51,13 +67,9 @@
   - Would you like to give a speech?
 - したら？
   - Why don't you use this?
-- したい？
-  - Want to get dinner?
 - しよう
   - Take your time with this project.
   - We'll see whether the newspapers print the story.
-- ごゆっくり
-  - Take your time.
 
 ## 未分類
 

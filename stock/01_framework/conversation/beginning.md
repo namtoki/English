@@ -17,6 +17,10 @@
 
 - Is everything all right?
 
+## 今何してんの？
+
+- What are you up to?
+
 ## 頼みがあるの
 
 - I have a favor to ask.

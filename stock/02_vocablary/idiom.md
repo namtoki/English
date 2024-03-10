@@ -4,6 +4,14 @@
 
 - I'm in the middle of something.
 
+## ごゆっくり
+
+- Take your time.
+
+## 誤解しないでね
+
+- Don't get me wrong.
+
 ## 特徴
 
 - in one's XXs
