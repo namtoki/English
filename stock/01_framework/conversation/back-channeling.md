@@ -1,4 +1,4 @@
-# Back-channeling
+# Back channeling
 
 ## 私もそう思う
 

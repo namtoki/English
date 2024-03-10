@@ -2,14 +2,16 @@
 
 ## Framework
 
-- [Back Channeling](01_framework/back-channeling.md)
-- [Beggining](01_framework/beginning.md)
 - [Fact](01_framework/fact.md)
-- [Opinion](01_framework/opinion.md)
+- [Feelings](01_framework/feelings.md)
+- [Description](01_framework/description.md)
+- Conversation
+  - [Beginning](01_framework/conversation/beginning.md)
+  - [Back-channeling](01_framework/conversation/back-channeling.md)
+  - [Response](01_framework/conversation/response.md)
+  - [Question](01_framework/conversation/question.md)
+  - [Termination](01_framework/conversation/termination.md)
 - [Question](01_framework/question.md)
-- [Request / Suggestion](01_framework/request_suggestion.md)
-- [Response](01_framework/response.md)
-- [Response](01_framework/response.md)
 
 ## Vocaburaly
 

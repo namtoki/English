@@ -33,6 +33,33 @@
 - Are you ...ing?
   - Are you going to Tokyo or New York next week?
 
+## 提案
+
+- してもらえます？
+  - `Would you` get me that box?
+  - `Could you` say that again?
+  - `Do you think you could` talk to her?
+- してもいい？
+  - `May I` have a receipt?
+  - `Do you think I could` get your number?
+  - `Is it OK if` I park here?
+- はいかが？
+  - `Would you like` some company?
+  - `Would you like` some more?
+- してくれる？ (しませんか？)
+  - `Would you like to` be my date?
+  - `Would you like to` give a speech?
+- したら？
+  - `Why don't you` use this?
+  - We `should` ask first.
+- したい？
+  - `Want to` get dinner?
+- しよう
+  - `Take your time` with this project.
+  - `We'll see whether` the newspapers print the story.
+- ごゆっくり
+  - `Take your time.`
+
 ## 未分類
 
 - What racket do you use? (どんな, どこの)
