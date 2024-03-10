@@ -1,5 +1,10 @@
 # Conjunction
 
+## Every time ... , ...
+
+- Every time you make them, they are perfect.
+- My printer runs out of ink every time I use it. In this case, I have to rush to an electronic store to get it.
+
 ## Limimtaion
 
 - Going back to your question, my answer is no.

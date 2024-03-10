@@ -61,5 +61,6 @@
 
 ## 聞かせて
 
-- Let me ask you something.
-- Let me ask you your honest opinion.
+- Let me ask you ...
+  - Let me ask you something.
+  - Let me ask you your honest opinion.

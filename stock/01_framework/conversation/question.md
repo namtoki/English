@@ -10,6 +10,7 @@
 ## 例えば？
 
 - Such as?
+- Like what?
 
 ## ... するつもり？
 
@@ -22,6 +23,8 @@
   - Do you want to get some food first?
   - You want to come?
   - Want to get dinner?
+- Why don't you ...
+  - Why don't you use this?
 
 ## ... はどう (思う)？
 
@@ -65,8 +68,6 @@
 - してくれる？ (しませんか？)
   - Would you like to be my date?
   - Would you like to give a speech?
-- したら？
-  - Why don't you use this?
 - しよう
   - Take your time with this project.
   - We'll see whether the newspapers print the story.

@@ -28,7 +28,8 @@
 - Not yet.
 - I wish I could, but I have to be out of town.
 - Hey, Toshi? I'm trying to work, Emily! (邪魔しないで)
-- Hang on. I'm just finishing up an email at the moment
+- I'm ... ing ... at the moment
+  - Hang on. I'm just finishing up an email at the moment
 - I'll think about it.
 - No. I'm Okay.
 
