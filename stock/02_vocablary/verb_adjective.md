@@ -51,6 +51,16 @@
 - distingish A from B  
 - know A from B
 
+## 惹きつける
+
+- intrigue
+  - I was very intrigued by the range of species found on that island.
+
+## 困惑させる
+
+- confound (ちょい古い)
+  - That problem confounded me.
+- confuse
 
 ## させる
 

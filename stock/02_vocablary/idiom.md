@@ -17,6 +17,11 @@
 - in one's XXs
   - Some of her first students are new in their 20s.
 
+## 記録
+
+- set a new record
+  - Carbon emissions are expected to set a new record in 2023.
+
 ## その他
 
 - It doesn't matter. I quit. (どうしようもない、どうでもよい)

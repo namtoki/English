@@ -75,3 +75,8 @@
   - I work 8 hours not including lunch (含まずに)
 - without
   - I work 8 hours without lunch (しないで)
+
+## と比べて
+
+- when compared
+  - Global emissions could rise 1.1 percent this year when compared to 2022.

@@ -205,3 +205,7 @@ Words
 - work late
 - work overtime
 - available, unavailable, in, out, off
+  take the top spot
+  round out
+  homegrown
+  state-run
