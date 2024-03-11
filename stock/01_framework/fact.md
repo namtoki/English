@@ -54,6 +54,7 @@
 - It takes ...
   - It takes her 25minutes to walk to work.
   - It takes 9 hours to San Francisco from Tokyo.
+  - It takes him about an hour to get ready for work.
 
 ## ぶりだ
 

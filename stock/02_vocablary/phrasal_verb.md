@@ -1,5 +1,12 @@
 # Phrasal verb
 
+## get
+
+- get up
+  - He gets up at 7 AM.
+- get ready
+  - It takes him about an hour to get ready for work.
+
 ## make
 
 - make the most of it.

@@ -1,11 +1,7 @@
 Messy
 =====
 
-Expression
-----------
 - Daily / Casual / Common
-  - He `gets up` at 7 AM.
-  - `It takes him about` an hour to `get ready for work`.
   - He `goes to work` by walk.
   - Where is your favorite place to `eat out`?
   - `I'll have` the same as her.
