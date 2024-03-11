@@ -1,5 +1,25 @@
 # Verb, Adjective
 
+## 増やす
+
+- increment
+- boost
+  - I wanted to boost sales this month, so I created a new team.
+- elevate
+  - If you want to elevate your performance, you're gonna have to practice.
+- amplify
+  - To amplify sales, we're gonna have to come up with a game plan.
+
+## 伝える
+
+- communicate
+- convey
+  - Do you understand what I' trying to convey to you?
+- disclose
+  - I'm sorry but I can't disclose all the details right now.
+- articulate
+  - If you want us to understand what you are saying, you're gonna have to articulate a little bit better.
+
 ## 面白い
 
 - interesting (興味深い)

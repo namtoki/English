@@ -2,6 +2,7 @@
 
 ## 久しぶり
 
+- It's been a while.
 - Hey Bob, long time no see. What's new?
 - It's been a month since we met the last time.
 - I haven't seen you in a month.
