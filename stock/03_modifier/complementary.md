@@ -69,3 +69,9 @@
 - in the middle of ...
   - He fell asleep in the middle of the sales meeting.
 
+## 除いて
+
+- not including
+  - I work 8 hours not including lunch (含まずに)
+- without
+  - I work 8 hours without lunch (しないで)

@@ -5,6 +5,11 @@
 - make the most of it.
   - Let's make the most of it.
   - Let's make the most of our time here.
+- make it
+  - (都合がつく) Can you make it to the meeting on Friday? Sorry, I can't make it because I'm going on a business trip.
+  - (間に合う) You can still make it.
+  - (うまくいく、やり遂げる) We made it!
+  - (うまくいく、やり遂げる) You can make it!
 
 ## hang
 
@@ -18,6 +23,9 @@
 - come clean (= confess)
   - OK. I'll come clean.
   - I'm gonna come clean with everyone.
+- come across
+  - I came across this information on the internet.
+  - I came across an old friend on the street.
 
 ## work
 
@@ -49,3 +57,8 @@
     - (集まる) They turned out on time for the campaign.
   - 他動詞
     - (消す) Please turn out the light.
+
+## look
+
+- look forward to
+  - I'm looking forward to your souvenirs.

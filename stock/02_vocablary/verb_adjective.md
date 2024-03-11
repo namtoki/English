@@ -1,5 +1,10 @@
 # Verb, Adjective
 
+## 面白い
+
+- interesting (興味深い)
+- intriguing (超興味深い)
+
 ## 似合う
 
 - suit (服装)

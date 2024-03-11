@@ -23,6 +23,7 @@
   - It is easier to share my opinions when senior management is not present.
 - culture
   - The company culture is different.
+- side hustle
 
 ## 健康
 
