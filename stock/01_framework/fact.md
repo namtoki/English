@@ -63,6 +63,11 @@
 - for the first time in ...
   - I'm going to Hawaii for the first time in 1 year.
 
+## ... までには ... だった
+
+- by the time ...
+  - By the time I got wake up, the snow had stopped falling.
+
 ## 文化
 
 - It's a custom to ...

@@ -23,6 +23,7 @@
   - [Food](02_vocablary/scenes/food.md)
   - [Health](02_vocablary/scenes/health.md)
   - [Work](02_vocablary/scenes/work.md)
+  - [Weather](02_vocablary/scenes/weather.md)
 - [Phrasal Verb](02_vocablary/phrasal_verb.md)
 - [Idiom](02_vocablary/idiom.md)
 - [Saying](02_vocablary/saying.md)

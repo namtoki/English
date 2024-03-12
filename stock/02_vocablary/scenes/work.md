@@ -17,6 +17,11 @@
 - senior management | upper management
   - It is easier to share my opinions when senior management is not present.
 
+## 帰宅
+
+- ETA (Estimated Time of Arrival)
+  - I send her a message with my ETA.
+
 ## 副業
 
 - side hustle

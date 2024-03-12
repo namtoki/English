@@ -77,6 +77,16 @@
 - passion
   - It's my new passion. (最近の趣味)
 
+## 掘る
+
+- engrave
+  - We will buy personalized chopsticks with his name engraved on them.
+
+## 家電
+
+- die
+    - my phone's battery died quickly.
+
 ## その他
 
 - seniors
