@@ -85,7 +85,7 @@
 ## 家電
 
 - die
-    - my phone's battery died quickly.
+  - my phone's battery died quickly.
 
 ## その他
 

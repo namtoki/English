@@ -42,6 +42,8 @@
   - I feel bad about canceling.
 - The fact is that ...
   - The fact is that I don't know.
+- I find it ... to do
+  - I find it really interesting to study English
 
 ## 思う (感情的に)
 
@@ -49,6 +51,11 @@
   - I will never climb Mt.Fuji again! I went last August and it was way too difficult for me.
 - I can't tell you how much ...
   - I can't tell you how much I loved it.
+
+## だからと言って ... ではない
+
+- just because ... doesn't mean ...
+  - Just because he smiles a lot doesn't mean he's kind.
 
 ## 好み
 
