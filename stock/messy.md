@@ -1,3 +1,9 @@
+What do you think about ... ing
+take off two weeks
+some kind of sport
+move around
+right away
+
 # Verb, Adjective
 
 ## 見分ける
