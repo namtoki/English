@@ -19,6 +19,10 @@
   - Can you say my goal is becoming a write?
 - how would you say it?
   - If you were to state your dream, how would you say it?
+- What does ... mean?
+- Is ... the same as ...?
+- What's it called?
+- What's the word for it?
 
 ## 返事
 

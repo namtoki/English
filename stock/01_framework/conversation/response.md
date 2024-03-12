@@ -60,5 +60,6 @@
 - How about sending flowers?
 
 ## その他
+
 - That's a fair point
 - Like you said,

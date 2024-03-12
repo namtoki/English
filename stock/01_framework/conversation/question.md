@@ -1,12 +1,5 @@
 # Question
 
-## レッスン向け
-
-- What does ... mean?
-- Is ... the same as ...?
-- What's it called?
-- What's the word for it?
-
 ## 例えば？
 
 - Such as?
@@ -51,26 +44,6 @@
 ## 今何時？
 
 - Do you have the time?
-
-## 提案
-
-- してもらえます？
-  - Would you get me that box?
-  - Could you say that again?
-  - Do you think you could talk to her?
-- してもいい？
-  - May I have a receipt?
-  - Do you think I could get your number?
-  - Is it OK if I park here?
-- はいかが？
-  - Would you like some company?
-  - Would you like some more?
-- してくれる？ (しませんか？)
-  - Would you like to be my date?
-  - Would you like to give a speech?
-- しよう
-  - Take your time with this project.
-  - We'll see whether the newspapers print the story.
 
 ## 未分類
 

@@ -1,5 +1,14 @@
 # Verb, Adjective
 
+## 外食
+
+- Where is your favorite place to eat out? (外食)
+  - `I'll have` the same as her.
+
+## 出勤する
+
+- He goes to work by walk.
+
 ## 増やす
 
 - increment

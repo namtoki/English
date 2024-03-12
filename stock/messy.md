@@ -2,9 +2,6 @@ Messy
 =====
 
 - Daily / Casual / Common
-  - He `goes to work` by walk.
-  - Where is your favorite place to `eat out`?
-  - `I'll have` the same as her.
   - Just don't `get` sauce on your nice shirt.
   - Fine. Until I `spilled` iced coffee on him.
   - I got rid of some `equipment`.
