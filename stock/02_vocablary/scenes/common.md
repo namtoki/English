@@ -1,4 +1,4 @@
-# Noun
+# Common
 
 ## 〇〇なもの
 
@@ -17,29 +17,12 @@
   - The only way to get to karaoke is to keep working. (やるしかない)
   - This is the only way to live. (やっぱりこれでしょ)
 
-## ビジネス
-
-- senior management | upper management
-  - It is easier to share my opinions when senior management is not present.
-- culture
-  - The company culture is different.
-- side hustle
-
-## 健康
-
-- hay fever
-  - I have a pollen allergy.
-- sneezing
-  - I can't stop sneezing.
-  - I keep sneezing.
-- bloodshot eyes
-  - I've got bloodshot eyes.
-  - My eyes are bloodshot.
-- I have itchy throat and nose.
-
-## その他
+## 趣味
 
 - passion
   - It's my new passion. (最近の趣味)
+
+## その他
+
 - seniors
   - The people who disagreed are old fashioned seniors.

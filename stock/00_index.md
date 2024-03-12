@@ -18,8 +18,11 @@
 
 ## Vocabulary
 
-- [Noun](02_vocablary/noun.md)
-- [Verb Adjective](02_vocablary/verb_adjective.md)
+- Scenes
+  - [Common](02_vocablary/scenes/common.md)
+  - [Food](02_vocablary/scenes/food.md)
+  - [Health](02_vocablary/scenes/health.md)
+  - [Work](02_vocablary/scenes/work.md)
 - [Phrasal Verb](02_vocablary/phrasal_verb.md)
 - [Idiom](02_vocablary/idiom.md)
 - [Saying](02_vocablary/saying.md)
