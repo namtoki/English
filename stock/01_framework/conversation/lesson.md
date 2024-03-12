@@ -12,6 +12,7 @@
 
 ## 質問部分
 
+- What should I do in a situation like this?
 - but is that true?
 - would it sound a little bit weird if I said ...
   - Would it sound a little bit weird if I said "My hobby is to take pictures"?
