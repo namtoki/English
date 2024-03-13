@@ -17,6 +17,33 @@
   - The only way to get to karaoke is to keep working. (やるしかない)
   - This is the only way to live. (やっぱりこれでしょ)
 
+## させる
+
+- make ... Adj
+  - I'll do anything to make you happy.
+  - The story made me sad.
+  - When I was on homestay, I found it difficult to make mayself understood in English.
+  - (使役) The PE teacher made the students run in the snow.
+- have ... Adj
+  - Shall we have our new plasma TV on the wall?
+  - I had my uniform cleaned for the graduation ceremony.
+  - I had my iPod pinched from my school bag.
+  - ★ My iPod was pinched との違いは？
+  - I had my hair cut.
+  - (使役) I'll have the nurse bandage your leg for you.
+- let ... Adj
+  - Don't let me down.
+  - (使役) My daughter's upset because I won't let her get a tattoo.
+- get ... to 不定詞
+  - (使役) I got one of my classmates to help my sister with her homework.
+    - = I asked some of my classmates to give me a hand.
+  - (使役) She often gets an Italian restaurant to deliver a pizza to her home.
+
+## 覚えていない
+
+- be a blur
+  - Last weekend was a blur. = I don't remember well.
+
 ## 増やす
 
 - increment
@@ -86,6 +113,29 @@
 
 - die
   - my phone's battery died quickly.
+
+## 見分ける
+
+- tell ... from ...
+  - Bob was so beside himself that he could scarcely tell fact from fiction.
+- distingish A from B  
+- know A from B
+
+## 惹きつける
+
+- intrigue
+  - I was very intrigued by the range of species found on that island.
+
+## 困惑させる
+
+- confound (ちょい古い)
+  - That problem confounded me.
+- confuse
+
+## 捨てる
+
+- got rid of
+  - I got rid of some equipment.
 
 ## その他
 

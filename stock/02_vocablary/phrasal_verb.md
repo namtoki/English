@@ -1,5 +1,10 @@
 # Phrasal verb
 
+## put
+
+- put on
+  - It is difficult to put on a Kimono.
+
 ## get
 
 - get up
