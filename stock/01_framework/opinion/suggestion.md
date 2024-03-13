@@ -46,3 +46,8 @@
 
 - Take your time with this project.
 - We'll see whether the newspapers print the story.
+
+## 後悔するよ
+
+- You'll be sorry
+  - You'll be sorry if you don't finish it today.

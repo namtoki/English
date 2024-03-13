@@ -129,3 +129,14 @@
 
 - I remember ...
   - I remember that trip!
+
+## 確信している
+
+- be sure that ...
+  - I am sure that I will enjoy the movie.
+  - He is sure that he will pass the exam
+- be sure of ...
+  - I am sure of enjoying the movie.
+  - He is sure of passing the exam
+- be sure to ...
+  - You are sure to see many animals there.

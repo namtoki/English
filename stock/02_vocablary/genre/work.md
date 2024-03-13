@@ -18,6 +18,13 @@
 - get along ⇔ clash
   - My wife did not get along with the principal of her school.
 
+## 達成する (した)
+
+- ace
+  - I think we aced that presentation.
+- nail
+  - I think I really nailed it this time.
+
 ## role
 
 - senior management | upper management

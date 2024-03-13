@@ -5,8 +5,8 @@
 - [Fact](01_framework/fact.md)
 - Opinion
   - [Feelings](01_framework/opinion/feelings.md)
-  - [Feelings](01_framework/opinion/suggestion.md)
-  - [Feelings](01_framework/opinion/subjunctive.md)
+  - [Suggestion](01_framework/opinion/suggestion.md)
+  - [Subjunctive](01_framework/opinion/subjunctive.md)
 - [Description](01_framework/description.md)
 - Conversation
   - [Beginning](01_framework/conversation/beginning.md)
@@ -18,12 +18,12 @@
 
 ## Vocabulary
 
-- Scenes
-  - [Common](02_vocablary/scenes/common.md)
-  - [Food](02_vocablary/scenes/food.md)
-  - [Health](02_vocablary/scenes/health.md)
-  - [Work](02_vocablary/scenes/work.md)
-  - [Weather](02_vocablary/scenes/weather.md)
+- Genre
+  - [Common](02_vocablary/genre/common.md)
+  - [Food](02_vocablary/genre/food.md)
+  - [Health](02_vocablary/genre/health.md)
+  - [Work](02_vocablary/genre/work.md)
+  - [Weather](02_vocablary/genre/weather.md)
 - [Phrasal Verb](02_vocablary/phrasal_verb.md)
 - [Idiom](02_vocablary/idiom.md)
 - [Saying](02_vocablary/saying.md)

@@ -85,3 +85,7 @@
 
 - right away
   - I'll come right away.
+
+## 1 週間ずっと
+
+- all week
