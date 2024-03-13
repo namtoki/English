@@ -7,6 +7,12 @@
 - (通いやすい) get to, access
   - We live in Kamioka so Yokohama is easy to get to.
 
+## 休み
+
+- take off
+  - take off two weeks
+  - I'm going to take a week off from work this November. 
+
 ## うまくやる ⇔ 衝突する
 
 - get along ⇔ clash

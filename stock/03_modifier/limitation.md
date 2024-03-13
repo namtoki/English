@@ -24,6 +24,17 @@
   - She is kind of rude.
   - It was kind of ... confusing.
 
+## なにか
+
+- *some kind of ...
+  - born with some kind of special talent
+  - some kind of sport
+
+## 数種の
+
+- *some kinds of ...
+  - amplify the effects of some kinds of pollution
+
 ## そんなに
 
 - that ...

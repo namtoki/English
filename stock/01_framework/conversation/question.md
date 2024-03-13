@@ -21,10 +21,13 @@
 
 ## ... はどう (思う)？
 
+- What do you think about ... ing
+  - What do you think about moving to Osaka?
 - How do you like ... ?
   - How do you like your new shoes?
   - How do you like the soup?
-- How do you think of ... ?
+- How do you feel about ... ?
+  - How do you feel about the service in Japan?
 
 ## あなたはどう？
 

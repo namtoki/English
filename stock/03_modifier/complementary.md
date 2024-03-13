@@ -80,3 +80,8 @@
 
 - when compared
   - Global emissions could rise 1.1 percent this year when compared to 2022.
+
+## 今すぐ
+
+- right away
+  - I'll come right away.
