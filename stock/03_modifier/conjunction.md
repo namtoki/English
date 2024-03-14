@@ -12,7 +12,9 @@
 - Can I get a glass of wine, please? We are terribly sorry, but we’ve run out of wine. In that case, I’ll have a beer.
 - In which case (※ Literary expression)
 - simply put
+  - Simply put, he doesn't like sports.
 - (let's) say
+  - Let's say I invest a hundred dollars now, how mucch will I be able to make in a year?
 - Toward the end of ..
 - Speaking of summer, where did you go this year?
 - Talking of soccer, Did you watch the game yesterday?
@@ -33,8 +35,10 @@
 ## Complementary
 
 - Working from home is great. Yeah, but at the same time, it's king of incovenient.
-- I think instead of trying to make a killing in the first year, ,,,
-- We dediced to chill at home instead of going out.
+- instead of ...
+  - I think instead of trying to make a killing in the first year, ,,,
+  - We dediced to chill at home instead of going out.
+- rather than ...
 - Trust me when it comes to sushi.
 - I studied English so much to the point where my dream started being in English.
 - He likes learning from textbooks, whereas I like learning on the job because I think it's way more efficient.

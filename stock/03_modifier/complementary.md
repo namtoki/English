@@ -11,6 +11,12 @@
   - I'm just going to read a book or whatever.
   - She can gossip about me or whatever. (どうでもよいけど)
 
+## みたいなもの
+
+- kind of thing
+  - I was trying to create something like my original anime kind of thing.
+  - This is a flip phone kind of thing but a bit different.
+
 ## とかいろいろ
 
 - ... and stuff.

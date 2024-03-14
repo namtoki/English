@@ -138,9 +138,6 @@
 - talks too much
     - The new guy in the office talks too much. I can't focus on my work.
 - pick nose
-- kind of thing
-    - I was trying to create something like my original anime kind of thing.
-    - This is a flip phone kind of thing but a bit different.
 - make a decision|choice
     - I got job offers from two companies. Ihave to make a decision about which offer to accept.
 - check with ...
