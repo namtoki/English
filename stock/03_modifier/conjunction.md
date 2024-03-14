@@ -1,26 +1,7 @@
 # Conjunction
 
-## Every time ... , ...
-
-- Every time you make them, they are perfect.
-- My printer runs out of ink every time I use it. In this case, I have to rush to an electronic store to get it.
-
 ## Limimtaion
 
-- Going back to your question, my answer is no.
-- My printer runs out of ink every time I use it. In this case, I have to rush to an electronic store to get it.
-- Can I get a glass of wine, please? We are terribly sorry, but we’ve run out of wine. In that case, I’ll have a beer.
-- In which case (※ Literary expression)
-- simply put
-  - Simply put, he doesn't like sports.
-- (let's) say
-  - Let's say I invest a hundred dollars now, how mucch will I be able to make in a year?
-- Toward the end of ..
-- Speaking of summer, where did you go this year?
-- Talking of soccer, Did you watch the game yesterday?
-- When it comes to the weather, there’s nothing I can do.
-- About the food ... it is bad.
-- in regard to our official comments
 - with regard to the notes below
 - regarding the subject above
 - concerning the changes that were recently made

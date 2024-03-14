@@ -30,8 +30,10 @@
 
 ## Modifier
 
+- [Head](03_modifier/head.md)
+- [Tail](03_modifier/tail.md)
+- [When](03_modifier/when.md)
 - [Limitation](03_modifier/limitation.md)
 - [Complementary](03_modifier/complementary.md)
-- [Tag](03_modifier/tag.md)
 - [Conjunction](03_modifier/conjunction.md)
 - [Degree](03_modifier/degree.md)
