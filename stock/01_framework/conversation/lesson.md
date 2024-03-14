@@ -25,6 +25,11 @@
 - What's it called?
 - What's the word for it?
 
+## ～するもの
+
+- the thing that
+  - The thing that you use to see the stars.
+
 ## 返事
 
 - Good to know

@@ -1,18 +1,8 @@
-- Business
-  - Sorry, `work went late`.
-  - `Off the charts`
-  - `Through the roof`
-- Slip my mind
-  - `what-cha-ma-call-it.`
-  - `The thing that` you use to see the stars.
-- Life
-  - `chore`
   - The social `welfare`
   - The health `insurance`
   - I took out my `mortage` this year. = loan for a house/property/condo
   - `passengers`
   - `pedestrians`
-  - `current events`
   - `around the corner`
 - Appearance
   - `tidy`
@@ -167,7 +157,6 @@
     - I would choose Interstate Construction over New Look Construction.
 - start / finish work at ...
 - business hours
-- work late
 - work overtime
 - available, unavailable, in, out, off
   take the top spot

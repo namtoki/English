@@ -10,6 +10,8 @@
   - You might want to make a reservation. It’s always crowded there.
 - you're gonna have to ...
   - If you want us to understand what you are saying, you're gonna have to articulate a little bit better.
+- would be better if ...
+  - Would it be better if I got wet?
 
 ## 好きなほうでいいですよ
 
