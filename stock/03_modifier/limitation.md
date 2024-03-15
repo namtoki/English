@@ -34,6 +34,8 @@
 
 - *some kinds of ...
   - amplify the effects of some kinds of pollution
+- many different kinds of ...
+  - there are many different kinds of stores.
 
 ## そんなに
 

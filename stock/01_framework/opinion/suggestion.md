@@ -30,9 +30,13 @@
 
 ## してもいい？
 
-- May I have a receipt?
+- May I ...
+  - May I have a receipt?
+  - May I sit here?
 - Do you think I could get your number?
 - Is it OK if I park here?
+- Would you mind ... ing?
+  - Would you mind doing that?
 
 ## はいかが？
 

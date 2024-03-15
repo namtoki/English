@@ -2,14 +2,6 @@
 
 ## Limimtaion
 
-- with regard to the notes below
-- regarding the subject above
-- concerning the changes that were recently made
-- As for the cost per person
-- As for me, I agree with his opinion.
-- As to your request, we refunded your money to your account.
-- With a little luck, we can still make it.
-- Sorry. As I was saying, the acting was amazing.
 - The fact is, I don't have enough money.
 - This might be just me, but don't you think this is a bit too expensive?
 

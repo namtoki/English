@@ -140,3 +140,8 @@
   - He is sure of passing the exam
 - be sure to ...
   - You are sure to see many animals there.
+
+## ふと思った
+
+- It occurs to me that ...
+  - It occurs to me that I've never asked your name.

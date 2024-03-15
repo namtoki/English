@@ -8,6 +8,11 @@
 - Here you are.
 - Here's a little something for you.
 
+## それは大変だったでしょう
+
+- That must have been tough.
+- That must have been difficult.
+
 ## 許諾
 
 - Of course

@@ -17,6 +17,11 @@
   - The only way to get to karaoke is to keep working. (やるしかない)
   - This is the only way to live. (やっぱりこれでしょ)
 
+## 利き手
+
+- dominant hand
+  - Which is your dominant hand?
+
 ## させる
 
 - make ... Adj
