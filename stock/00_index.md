@@ -31,9 +31,9 @@
 ## Modifier
 
 - [Head](03_modifier/head.md)
+- [Pre](03_modifier/pre.md)
+- [Post](03_modifier/post.md)
 - [Tail](03_modifier/tail.md)
 - [When](03_modifier/when.md)
 - [How](03_modifier/how.md)
 - [Level](03_modifier/level.md)
-- [Limitation](03_modifier/limitation.md)
-- [Complementary](03_modifier/complementary.md)

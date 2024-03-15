@@ -1,4 +1,4 @@
-# Limitation
+# Pre
 
 ## まさしく
 
@@ -52,12 +52,3 @@
   - Come on now, you may as well tell us.
   - The guy I'm playing is a really good golfer? Well, I may as well give up before I start. (仕方ない)
 
-## みんな
-
-- Everyone + V
-  - Everyone does it.
-- Almost all ...
-  - Almost all Japanese
-- Most ...
-  - Most people like it.
-  - Most people said ther movie was terrible, but personally I thought it was pretty good.
