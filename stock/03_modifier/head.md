@@ -12,6 +12,7 @@
     - Talking of soccer, Did you watch the game yesterday?
   - When it comes to ...
     - When it comes to the weather, there’s nothing I can do.
+    - Trust me when it comes to sushi.
   - About ...
     - About the food ... it is bad.
   - with regard to
@@ -27,6 +28,7 @@
     - As for the cost per person
   - as to 物
     - As to your request, we refunded your money to your account.
+    - I want to have a discussion as to which university is the best university.
 - 自分の意見としては
   - Personally, in my opinion ,,,
   - Honestly, I feel ,,,
@@ -38,6 +40,9 @@
 - さっき言ったように
   - As I was saying,
     - Sorry. As I was saying, the acting was amazing.
+- 自分だけかもしれないけど
+ - This might be just me, but
+    - This might be just me, but don't you think this is a bit too expensive?
 
 ## 議論
 
@@ -63,3 +68,20 @@
 
 - よろしければ
   - if you don't mind
+- 実は
+  - The fact is,
+    - The fact is, I don't have enough money.
+
+## 新しいトピックを交える
+
+- と同時にですね、
+  - but at the same time,
+    - Working from home is great. Yeah, but at the same time, it's king of incovenient.
+- 一方で
+  - ... , whereas ...
+    - He likes learning from textbooks, whereas I like learning on the job because I think it's way more efficient.
+- というのも
+  - The reason being ...
+    - I made the decision not to join the program. The reason being I thought I wasn't ready yet and didn't have the competence enough to do it.
+    - I decided to turn down the job offer. The reason being that, I didn’t want to relocate.
+    - She moved back in with her parents. The reason being that, she wanted to take care of her parents.

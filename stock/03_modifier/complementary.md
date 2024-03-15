@@ -1,5 +1,10 @@
 # Complementary
 
+- instead of ...
+  - I think instead of trying to make a killing in the first year, ,,,
+  - We dediced to chill at home instead of going out.
+- rather than ...
+
 ## とか
 
 - ... like
