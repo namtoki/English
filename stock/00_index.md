@@ -18,15 +18,12 @@
 
 ## Vocabulary
 
-- Genre
-  - [Common](02_vocablary/genre/common.md)
-  - [Food](02_vocablary/genre/food.md)
-  - [Health](02_vocablary/genre/health.md)
-  - [Work](02_vocablary/genre/work.md)
-  - [Weather](02_vocablary/genre/weather.md)
+- [Life](02_vocablary/life.md)
+- [Food](02_vocablary/food.md)
+- [Health](02_vocablary/health.md)
+- [Work](02_vocablary/work.md)
+- [Weather](02_vocablary/weather.md)
 - [Phrasal Verb](02_vocablary/phrasal_verb.md)
-- [Idiom](02_vocablary/idiom.md)
-- [Saying](02_vocablary/saying.md)
 
 ## Modifier
 
