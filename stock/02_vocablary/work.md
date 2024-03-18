@@ -56,3 +56,10 @@
 - 文化
   - culture
     - The company culture is different.
+- 合う
+  - be for
+    - That job wasn't for me.
+- 外資系
+  - foreign owned
+  - be based in
+    - My company is based in U.S. but 80% of the employees are Japanese.

@@ -44,6 +44,17 @@
     - We should really clean the fridge at some point.
     - You should ask her out at some point.
 
+## 期間
+
+- 1 週間ずっと
+  - all week
+- カ月
+  - n months
+    - I've been working for the company for 6 months.
+- 半年
+  - half a year.
+    - I'll be living here for half a year.
+
 ## 詳細
 
 - の終盤に、
@@ -53,5 +64,3 @@
 - 同時に
   - ... at the same time
     - It's hard being the writer and an actor at the same time (両立)
-- 1 週間ずっと
-  - all week

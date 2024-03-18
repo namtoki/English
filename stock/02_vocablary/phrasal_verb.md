@@ -78,3 +78,8 @@
 ## move
 
 - move around
+
+## pay
+
+- pay off
+  - (報われる) I think the time you are spending on English is paying off.

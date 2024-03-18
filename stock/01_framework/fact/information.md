@@ -13,6 +13,12 @@
   - for the first time in ...
     - I'm going to Hawaii for the first time in 1 year.
 
+## 数
+
+- B 中 A
+  - A out of B
+    - We have watched 4 out of 5 seasons.
+
 ## 文化/習慣
 
 - ... する習慣だ
