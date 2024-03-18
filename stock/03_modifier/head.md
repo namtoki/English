@@ -57,6 +57,8 @@
     - In that case, I’ll have a beer.
 - この場合 (自分の発した前提に対して)
   - In which case (※ Literary expression)
+- あなたが言った通り、
+  - Like you said,
 
 ## 仮定 (前提)
 
@@ -71,6 +73,8 @@
 - 実は
   - The fact is,
     - The fact is, I don't have enough money.
+  - The fact is that ...
+    - The fact is that I don't know.
 
 ## 新しいトピックを交える
 

@@ -44,3 +44,6 @@
 - ... する
   - be going to ...
     - What time are we going to be there?
+- 二度と ... しない
+  - I will never ... again!
+    - I will never climb Mt.Fuji again! I went last August and it was way too difficult for me.

@@ -1,5 +1,15 @@
 # Question
 
+## ってこと？
+
+- Do you mean ... you lost?
+
+- How about sending flowers?
+
+## そんなに？
+
+- I can't tell you how much I loved it. Wow! That good?
+
 ## 例えば？
 
 - Such as?
@@ -56,3 +66,19 @@
   - Which do you prefer, going to the movies or watching films at home?
 - Is that enough?
 - Is that really necessay?
+
+## よく会う人
+
+- 今いい？
+  - Do you have time?
+  - Do you have a minute/second?
+  - Can I borrow you for a minute/second?
+  - Is this a good time?
+- 大丈夫？
+  - Is everything all right?
+- 今何してんの？
+  - What are you up to?
+
+## しませんか？
+
+- What's up for lunch?

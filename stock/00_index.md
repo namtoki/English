@@ -5,17 +5,15 @@
 - [Tense](01_framework/tense.md)
 - Fact
   - [Depiction](01_framework/fact/depiction.md)
-  - [Depiction](01_framework/fact/information.md)
+  - [Information](01_framework/fact/information.md)
 - Opinion
   - [Feelings](01_framework/opinion/feelings.md)
   - [Suggestion](01_framework/opinion/suggestion.md)
   - [Subjunctive](01_framework/opinion/subjunctive.md)
 - Conversation
   - [Beginning](01_framework/conversation/beginning.md)
-  - [Back-channeling](01_framework/conversation/back-channeling.md)
   - [Response](01_framework/conversation/response.md)
   - [Question](01_framework/conversation/question.md)
-  - [Termination](01_framework/conversation/termination.md)
   - [Lesson](01_framework/conversation/lesson.md)
 
 ## Vocabulary
