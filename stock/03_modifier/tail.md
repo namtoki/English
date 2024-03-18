@@ -9,6 +9,15 @@
   - you know what I mean?
     - I think YouTube is getting more and more competitive, you know what I mean?
     - At the end of the day, whether or not you should study English is completely up to you. You know what I mean?
+- ここまで来たら
+  - ... at this point
+    - I'm ready to quit at this point.
+- それとも違う？
+  - ... , or not really?
+    - Do you like this kind of music, or not really?
+    - Is this what you're looking for, or not really?
+  - ... or what?
+    - Are we gonna have fun or what?
 
 ## 文を弱める
 

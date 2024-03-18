@@ -145,3 +145,12 @@
 
 - It occurs to me that ...
   - It occurs to me that I've never asked your name.
+
+## してもいい
+
+- might as well ...
+  - We might as well walk there.
+  - They may just as well be married since they've been living together for years.
+  - Come on now, you may as well tell us.
+  - The guy I'm playing is a really good golfer? Well, I may as well give up before I start. (仕方ない)
+

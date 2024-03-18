@@ -13,12 +13,33 @@
 - 5:   almost never | hardly ever
 - 0:   never
 
-## ざっくり
+## 普段
 
 - するときはいつも
   - every time ...
     - Every time you make them, they are perfect.
     - My printer runs out of ink every time I use it. In this case, I have to rush to an electronic store to get it.
+
+## 過去
+
+- (つい) こないだ
+  - ... the other day
+    - I saw Alison the other day.
+  - ... (just) the other day (つい)
+    - I went there just the other day!
+- の真っ最中に
+  - in the middle of ...
+    - He fell asleep in the middle of the sales meeting.
+
+## 未来
+
+- 今すぐ
+  - right away
+    - I'll come right away.
+- そろそろ
+  - ... at some point
+    - We should really clean the fridge at some point.
+    - You should ask her out at some point.
 
 ## 詳細
 
@@ -26,4 +47,8 @@
   - toward the end of ...
     - TAIRA no Koremori was a samurai who lived towards the end of the Heian period.
     - toward the end of afternoon
-
+- 同時に
+  - ... at the same time
+    - It's hard being the writer and an actor at the same time (両立)
+- 1 週間ずっと
+  - all week

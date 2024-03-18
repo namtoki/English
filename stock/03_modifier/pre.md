@@ -1,54 +1,40 @@
 # Pre
 
-## まさしく
+## 強調
 
-- Such a ...
-  - That was such a fun day.
-  - You are such a pro.
+- まさしく
+  - Such a ...
+    - That was such a fun day.
+    - You are such a pro.
+- そんなに
+  - that ...
+    - I guess it wasn't that important.
+    - Your daddy's not that strong.
+    - I didn't think it was that difficult.
 
-## 約
+## ぼやかす
 
-- like ...
-  - There were only like thirty peeple there.
+- 約
+  - like ...
+    - There were only like thirty people there.
+- なんとなく少し
+  - kind of ...
+    - I'm kind of hungry.
+    - I'm kind of sleepy.
+    - She is kind of rude.
+    - It was kind of ... confusing.
+- なにか
+  - some kind of ...
+    - born with some kind of special talent
+    - some kind of sport
 
-## すべての
+## 全体/部分
 
-- all kinds of ...
-  - I've been eating all kinds of things.
-
-## なんとなく少し
-
-- kind of ...
-  - I'm kind of hungry.
-  - I'm kind of sleepy.
-  - She is kind of rude.
-  - It was kind of ... confusing.
-
-## なにか
-
-- *some kind of ...
-  - born with some kind of special talent
-  - some kind of sport
-
-## 数種の
-
-- *some kinds of ...
-  - amplify the effects of some kinds of pollution
-- many different kinds of ...
-  - there are many different kinds of stores.
-
-## そんなに
-
-- that ...
-  - I guess it wasn't that important.
-  - Your daddy's not that strong.
-  - I didn't think it was that difficult.
-
-## してもいい
-
-- might as well ...
-  - We might as well walk there.
-  - They may just as well be married since they've been living together for years.
-  - Come on now, you may as well tell us.
-  - The guy I'm playing is a really good golfer? Well, I may as well give up before I start. (仕方ない)
-
+- すべての
+  - all kinds of ...
+    - I've been eating all kinds of things.
+-  数種の
+  - some kinds of ...
+    - amplify the effects of some kinds of pollution
+  - many different kinds of ...
+    - there are many different kinds of stores.
