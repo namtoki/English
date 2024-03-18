@@ -32,3 +32,9 @@
 - 廃れた
   - die out
     - The custom of tipping might die out because of digital payments.
+
+## 記録
+
+- set a new record
+  - Carbon emissions are expected to set a new record in 2023.
+

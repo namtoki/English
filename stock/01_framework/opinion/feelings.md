@@ -69,6 +69,13 @@
     - They may just as well be married since they've been living together for years.
     - Come on now, you may as well tell us.
     - The guy I'm playing is a really good golfer? Well, I may as well give up before I start. (仕方ない)
+- どうでもよい
+  - It doesn't matter.
+    - It doesn't matter. I quit.
+- どっちでもよい
+  - It doesn't matter.
+    - It doesn't matter. They're both great.
+    - Which train do we need to take? It doesn't matter. They all go to Central Station.
 
 ## 複雑な表現
 
@@ -88,6 +95,12 @@
 - どれだけ ... か伝えきれない
   - I can't tell you how much ...
     - I can't tell you how much I loved it.
+- 誤解しないでね
+  - Don't get me wrong.
+- 押しつぶされそう
+  - be eating me alive.
+    - Keeping secrets was eating me alive.
+    - Memories of that tragedy are still eating him alive. 
 
 ## 特定表現
 

@@ -89,3 +89,7 @@
     - I made the decision not to join the program. The reason being I thought I wasn't ready yet and didn't have the competence enough to do it.
     - I decided to turn down the job offer. The reason being that, I didn’t want to relocate.
     - She moved back in with her parents. The reason being that, she wanted to take care of her parents.
+- 次の瞬間
+  - and the next thing I knew
+    - I felt dizzy, and the next thing I knew I was being carried by the ambulance.
+

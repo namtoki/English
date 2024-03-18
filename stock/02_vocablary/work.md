@@ -29,6 +29,8 @@
     - I think we aced that presentation.
   - nail
     - I think I really nailed it this time.
+  - hit it out of the park
+    - We’ve hit it out of the park!
 - うまくやる ⇔ 衝突する
   - get along ⇔ clash
     - My wife did not get along with the principal of her school.

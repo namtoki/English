@@ -1,53 +1,11 @@
-  
-# Idiom
+# Pool
 
-## 今手が離せない
-
-- I'm in the middle of something.
-
-## ごゆっくり
-
-- Take your time.
-
-## 誤解しないでね
-
-- Don't get me wrong.
-
-## 特徴
-
-- in one's XXs
-  - Some of her first students are new in their 20s.
-
-## 記録
-
-- set a new record
-  - Carbon emissions are expected to set a new record in 2023.
-
-## その他
-
-- It doesn't matter. I quit. (どうしようもない、どうでもよい)
-- It doesn't matter. They're both great. (どっちでもよい)
-- Which train do we need to take? It doesn't matter. They all go to Central Station. (どっちでもよい)
-- Keeping secrets was eating me alive.
-- Memories of that tragedy are still eating him alive. 
-- hit it out of the park
-- Not again!
-- treat yourself
-- That's a waste.
+## 例文
 - My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just took it easy.
-- She seems angry, you should tread lightly
-- and the next thing I knew
-  - I felt dizzy, and the next thing I knew I was being carried by the ambulance. (次の瞬間)
 
-
-
-
-
-
-# Common
+---------------------------
 
 ## 〇〇なもの
-
 - the best
   - That show is the best!
 - something else
@@ -64,7 +22,6 @@
   - This is the only way to live. (やっぱりこれでしょ)
 
 ## させる
-
 - make ... Adj
   - I'll do anything to make you happy.
   - The story made me sad.
@@ -86,12 +43,10 @@
   - (使役) She often gets an Italian restaurant to deliver a pizza to her home.
 
 ## 覚えていない
-
 - be a blur
   - Last weekend was a blur. = I don't remember well.
 
 ## 増やす
-
 - increment
 - boost
   - I wanted to boost sales this month, so I created a new team.
@@ -101,7 +56,6 @@
   - To amplify sales, we're gonna have to come up with a game plan.
 
 ## 伝える
-
 - communicate
 - convey
   - Do you understand what I' trying to convey to you?
@@ -111,12 +65,10 @@
   - If you want us to understand what you are saying, you're gonna have to articulate a little bit better.
 
 ## 面白い
-
 - interesting (興味深い)
 - intriguing (超興味深い)
 
 ## 似合う
-
 - suit (服装)
   - The hat suits you.
 - fit (サイズ)
@@ -125,17 +77,14 @@
   - The blue tie goes with you.
 
 ## 固執する
-
 - stuck in one's ways (=stubborn, unwilling or unable to change)
   - My boss is stuck in his ways.
 
 ## 機嫌が悪い
-
 - be in a bad mood
   - I won't share my opinion if my wife seems as if she is in a bad mood.
 
 ## 断る
-
 - refuse (はっきり)
   - They wanted me to participate in the meeting, but I refused.
 - reject (不適切だ)
@@ -146,52 +95,35 @@
   - She turned down his marriage proposal, though he looked like a nice guy.
 
 ## 掘る
-
 - engrave
   - We will buy personalized chopsticks with his name engraved on them.
 
 ## 家電
-
 - die
   - my phone's battery died quickly.
 
 ## 見分ける
-
 - tell ... from ...
   - Bob was so beside himself that he could scarcely tell fact from fiction.
 - distingish A from B  
 - know A from B
 
 ## 惹きつける
-
 - intrigue
   - I was very intrigued by the range of species found on that island.
 
 ## 困惑させる
-
 - confound (ちょい古い)
   - That problem confounded me.
 - confuse
 
 ## 捨てる
-
 - got rid of
   - I got rid of some equipment.
 
 ## その他
-
 - seniors
   - The people who disagreed are old fashioned seniors.
-
-
-
-
-
-
-
-
-
-
 
 - The social `welfare`
   - The health `insurance`

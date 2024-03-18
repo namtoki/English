@@ -19,6 +19,7 @@
 ## Vocabulary
 
 - [Life](02_vocablary/life.md)
+- [Motion](02_vocablary/motion.md)
 - [Food](02_vocablary/food.md)
 - [Health](02_vocablary/health.md)
 - [Work](02_vocablary/work.md)

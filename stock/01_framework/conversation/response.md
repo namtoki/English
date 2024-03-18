@@ -69,6 +69,10 @@
   - That's a fair point
 - そうしていただけると嬉しい
   - That would be great.
+- またかよ！
+  - Not again!
+- もったいない
+  - That's a waste.
 
 ## 許諾
 
@@ -91,6 +95,8 @@
   - I'll do my best.
 - 頑張って
   - Good luck with your speech.
+- ごゆっくり
+  - Take your time.
 
 ## 拒否
 
@@ -103,6 +109,8 @@
 - やりたいですが、、
   - I wish I could, but ...
     - I wish I could, but I have to be out of town.
+- 今手が離せない
+  - I'm in the middle of something.
 - ... 中だから邪魔しないで
   - I'm trying to ...
     - Hey, Toshi? I'm trying to work, Emily!
