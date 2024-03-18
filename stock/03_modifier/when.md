@@ -30,6 +30,9 @@
 - の真っ最中に
   - in the middle of ...
     - He fell asleep in the middle of the sales meeting.
+- ... までには ... だった
+  - by the time ...
+    - By the time I got wake up, the snow had stopped falling.
 
 ## 未来
 

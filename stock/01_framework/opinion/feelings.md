@@ -154,3 +154,13 @@
   - Come on now, you may as well tell us.
   - The guy I'm playing is a really good golfer? Well, I may as well give up before I start. (仕方ない)
 
+
+## 慣れる/ている
+
+- get/be used to ...
+  - I cook everyday, so I am used to it.
+  - I'm getting used to working with new coworkers here.
+- get/be familiar with ...
+  - He got familiar with a new laptop.
+  - I am familiar to him, I've spent time with him for over 10 years.
+
