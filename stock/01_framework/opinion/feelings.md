@@ -101,6 +101,9 @@
   - be eating me alive.
     - Keeping secrets was eating me alive.
     - Memories of that tragedy are still eating him alive. 
+- やっぱりこれでしょ
+  - the only way to ...
+    - This is the only way to live.
 
 ## 特定表現
 

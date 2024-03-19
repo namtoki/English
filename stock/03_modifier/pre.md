@@ -33,8 +33,12 @@
 - すべての
   - all kinds of ...
     - I've been eating all kinds of things.
--  数種の
+- 数種の
   - some kinds of ...
     - amplify the effects of some kinds of pollution
   - many different kinds of ...
     - there are many different kinds of stores.
+- 残りの
+  - the rest of ...
+    - You can have the rest of them.
+    - I don't want to do this for the rest of my life.

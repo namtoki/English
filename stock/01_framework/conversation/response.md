@@ -1,14 +1,22 @@
 # Response
 
-## ええと
+## 考え中
 
-- Let me see...
-- I can't remember ...
-- It's difficult to say.
-- I couldn't catch you.
-- I couldn't get it.
-- Your birthday party completely slipped my mind.
-- what-cha-ma-call-it.
+- ええと (なんだっけ)
+  - Let me see...
+  - It's difficult to say.
+  - what-cha-ma-call-it.
+- わからなかった
+  - I couldn't catch you.
+  - I couldn't get it.
+- ド忘れした
+  - ... slipped my mind.
+    - Your birthday party completely slipped my mind.
+- 覚えていない
+  - I can't remember ...
+  - be a blur
+    - Last weekend was a blur. = I don't remember well.
+
 
 ## 同意
 

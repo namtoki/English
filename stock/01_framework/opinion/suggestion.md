@@ -51,6 +51,9 @@
 - 後悔するよ
   - You'll be sorry
     - You'll be sorry if you don't finish it today.
+- やるしかない
+  - the only way to ...
+    - The only way to get to karaoke is to keep working. (やるしかない)
 
 ## 譲歩
 

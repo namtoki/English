@@ -18,6 +18,7 @@
 
 ## Vocabulary
 
+- [Common](02_vocablary/common.md)
 - [Life](02_vocablary/life.md)
 - [Motion](02_vocablary/motion.md)
 - [Food](02_vocablary/food.md)

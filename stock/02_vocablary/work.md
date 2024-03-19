@@ -43,6 +43,14 @@
 - 突き抜けている
   - Through the roof
     - My stress was through the roof
+- 増やす
+  - increment
+  - boost
+    - I wanted to boost sales this month, so I created a new team.
+  - elevate
+    - If you want to elevate your performance, you're gonna have to practice.
+  - amplify
+    - To amplify sales, we're gonna have to come up with a game plan.
 
 ## 役職
 
