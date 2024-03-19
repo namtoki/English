@@ -59,6 +59,9 @@
   - In which case (※ Literary expression)
 - あなたが言った通り、
   - Like you said,
+- まず第一に
+  - To begin with
+    - To begin with, its theme is obscure.
 
 ## 仮定 (前提)
 

@@ -34,6 +34,8 @@
 - うまくやる ⇔ 衝突する
   - get along ⇔ clash
     - My wife did not get along with the principal of her school.
+- 要領を得た ⇔ 的外れの
+  - to the point ⇔ beside the point
 
 ## 数字について
 
