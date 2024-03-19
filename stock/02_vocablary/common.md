@@ -15,7 +15,7 @@
 - 最悪の日
   - one of those days
 
-## させる
+## 使役
 
 - make ... Adj
   - I'll do anything to make you happy.
@@ -36,3 +36,62 @@
     - = I asked some of my classmates to give me a hand.
   - (使役) She often gets an Italian restaurant to deliver a pizza to her home.
 
+## Verb
+
+- 見分ける
+  - tell ... from ...
+    - Bob was so beside himself that he could scarcely tell fact from fiction.
+  - distingish A from B  
+  - know A from B
+- 伝える
+  - communicate
+  - convey
+    - Do you understand what I' trying to convey to you?
+  - disclose
+    - I'm sorry but I can't disclose all the details right now.
+  - articulate
+    - If you want us to understand what you are saying, you're gonna have to articulate a little bit better.
+- 似合う
+  - suit (服装)
+    - The hat suits you.
+  - fit (サイズ)
+    - it fits you.
+  - match, go with (色合い)
+    - The blue tie goes with you.
+- 固執する
+  - stubborn
+  - unwilling
+  - unable to change
+  - stuck in one's ways
+    - My boss is stuck in his ways.
+- 断る
+  - refuse (はっきり)
+    - They wanted me to participate in the meeting, but I refused.
+  - reject (不適切だ)
+    - The boss rejected my proposal.
+  - decline (丁寧に)
+    - He declined my invitation to dinner.
+  - turn down (くだけて)
+    - She turned down his marriage proposal, though he looked like a nice guy.
+- 掘る
+  - engrave
+    - We will buy personalized chopsticks with his name engraved on them.
+- 惹きつける
+  - intrigue
+    - I was very intrigued by the range of species found on that island.
+- 困惑させる
+  - confound (ちょい古い)
+    - That problem confounded me.
+  - confuse
+- 捨てる
+  - got rid of
+    - I got rid of some equipment.
+
+## Adjective
+
+- 面白い
+  - interesting (興味深い)
+  - intriguing (超興味深い)
+- 機嫌が悪い
+  - be in a bad mood
+    - I won't share my opinion if my wife seems as if she is in a bad mood.
