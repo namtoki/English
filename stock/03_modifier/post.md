@@ -42,3 +42,9 @@
 - とかいろいろ
   - ... and stuff.
     - We've got to do editing and stuff.
+
+## to 不定詞
+
+- 残り
+  - to go
+    - We have ten minutes to go.

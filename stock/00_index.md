@@ -30,7 +30,12 @@
 - [Work](02_vocablary/work.md)
 - [Weather](02_vocablary/weather.md)
 - [Animal](02_vocablary/animal.md)
-- [Phrasal Verb](02_vocablary/phrasal_verb.md)
+- Phrasal Verb
+    - [ABCDE](02_vocablary/phrasal_verb/abcde.md)
+    - [FGHIJ](02_vocablary/phrasal_verb/fghij.md)
+    - [KMLNO](02_vocablary/phrasal_verb/kmlno.md)
+    - [PQRST](02_vocablary/phrasal_verb/pqrst.md)
+    - [UVWXYZ](02_vocablary/phrasal_verb/uvwxyz.md)
 
 ## Modifier
 

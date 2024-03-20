@@ -16,6 +16,9 @@
 - 濡れる
   - get wet
     - I got wet on my way to work.
+- びしょ濡れ
+  - be soaked
+    - I'm soaked with sweat.
 
 ## 気温
 

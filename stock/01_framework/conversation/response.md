@@ -38,6 +38,10 @@
   - Exactly
   - Absolutely
   - Totally
+- 全くその通りだ
+  - Tell me about it.
+  - You can say that again.
+  - No doubt about it.
 - いいね
   - Sounds good
   - (That) Sounds like a plan

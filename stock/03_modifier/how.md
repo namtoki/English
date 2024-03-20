@@ -11,10 +11,31 @@
 
 ## どの程度
 
--  ある意味
+- すべてにおいて
+  - ... in every way
+    - That movie was perfect in every way.
+- だいたい
+  - about / around
+  - approximately
+  - roughly
+  - more or less
+    - Your pronunciation is more or less correct.
+  - almost
+  - nearly
+  - pretty much
+- ある意味
   - ... in a way
     - Yep, in a way.
     - He's a genius, in a way.
--  すべてにおいて
-  - ... in every way
-    - That movie was perfect in every way.
+- ある程度
+  －to (a certain | some) extent
+    -In any case, the union has to compromise to a certain extent.
+
+## どのように
+
+- 衝動的に
+  - on impulse
+    - I'm apt to buy things on impulse whenever something is on sale.
+- 連続して
+  - in a row
+    - As we anticipated, the unemployment rate has risen three quarters in a row.

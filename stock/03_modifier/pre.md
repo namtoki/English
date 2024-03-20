@@ -11,6 +11,9 @@
     - I guess it wasn't that important.
     - Your daddy's not that strong.
     - I didn't think it was that difficult.
+- ほとんど ... ない
+  - next to ...
+    - I know next to nothing about it.
 
 ## ぼやかす
 

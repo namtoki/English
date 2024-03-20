@@ -19,6 +19,16 @@
   - every time ...
     - Every time you make them, they are perfect.
     - My printer runs out of ink every time I use it. In this case, I have to rush to an electronic store to get it.
+- たまに (確率高い順)
+  - sometimes / at times
+    - At times I confuse "curve" with "carve."
+  - here and there
+  - now and then
+  - occasionally / on occasion
+  - 50%
+  - from time to time (ときおり)
+  - once in a while (ときおり)
+  - once a blue moon (めったにない)
 
 ## 過去
 
@@ -43,6 +53,12 @@
   - ... at some point
     - We should really clean the fridge at some point.
     - You should ask her out at some point.
+- これからは
+  - from now on
+    - I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis.
+- この先数年
+  - for years to come
+    - In all likelihood, the birthrate will continue to decline steadily for years to come.
 
 ## 期間
 

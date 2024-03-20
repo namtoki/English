@@ -43,31 +43,41 @@
 - 自分だけかもしれないけど
  - This might be just me, but
     - This might be just me, but don't you think this is a bit too expensive?
+- に戻ると
+  - Going back to ...
+    - Going back to your question, my answer is no.
+- あなたが言った通り、
+  - Like you said,
+- 予想していた通り
+  - As ... anticipated,
+    - As we anticipated, the unemployment rate has risen three quarters in a row.
 
-## 議論
+## 説明
+
+- まず第一に
+  - To begin with
+    - To begin with, its theme is obscure.
+- 実際のところ
+  - As it is (残念ながら)
+    - As it is, ordinary people cannot afford to purchase such luxuries.
+- いずれにしても
+  - anyway
+  - in any case
+    -In any case, the union has to compromise to a certain extent.
+
+## 仮定 (前提)
 
 - ～とします
   - (Let's) Say
     - Let's say I invest a hundred dollars now, how mucch will I be able to make in a year?
-- に戻ると
-  - Going back to ...
-    - Going back to your question, my answer is no.
+- があれば
+  - With ...
+    - With a little luck, we can still make it.
 - だったら (相手の言葉を受けて)
   - In that case
     - In that case, I’ll have a beer.
 - この場合 (自分の発した前提に対して)
   - In which case (※ Literary expression)
-- あなたが言った通り、
-  - Like you said,
-- まず第一に
-  - To begin with
-    - To begin with, its theme is obscure.
-
-## 仮定 (前提)
-
-- があれば
-  - With ...
-    - With a little luck, we can still make it.
 
 ## 相手を思う
 
@@ -82,7 +92,7 @@
   - I hope you don't mind ...
     - I hope you don't mind if I eat while we talk.
 
-## 新しいトピックを交える
+## 文をつなげる
 
 - と同時にですね、
   - but at the same time,
