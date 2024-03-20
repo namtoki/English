@@ -29,6 +29,8 @@
   - Is that enough?
 - それほんとに必要ですか？
   - Is that really necessay?
+- 知り合いがいますか？
+  - Do you know anyone in New York?
 
 ## 単純な質問
 

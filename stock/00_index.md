@@ -1,5 +1,7 @@
 # Stock
 
+## [Favorite](favorite.md)
+
 ## Framework
 
 - [Tense](01_framework/tense.md)

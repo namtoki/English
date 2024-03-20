@@ -75,6 +75,9 @@
 
 ## 未分類
 
+- 決まり
+  - standard procedure
+    - This is just a standard procedure. (念のためです)
 - 副業
   - side hustle
 - 文化

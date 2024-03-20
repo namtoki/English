@@ -29,6 +29,9 @@
 - と記憶しているんだけど
   - I remember you ...
     - I remember you went there last year.
+- と聞いています
+  - I understand that ...
+    - I understand that you speak a little English.
 - なんだと思う？
   - You know what ... ?
   - Guess what ... ?

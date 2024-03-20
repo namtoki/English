@@ -1,6 +1,6 @@
 # Tail
 
-## Tag
+## 添加
 
 - 伝わった？
   - if that makes sense?
@@ -19,10 +19,12 @@
   - ... or what?
     - Are we gonna have fun or what?
 
-## 文を弱める
+## 補足
 
 - 考え方によっては
   - if you think about it.
     - We're just tiny specks in the universe if you think about it.
     - It's crazy how we can communicate like this if you think about it.
-
+- 要約すると
+  - in a nutshell
+    - That's it in a nutshell.
