@@ -59,6 +59,20 @@
 - senior management | upper management
   - It is easier to share my opinions when senior management is not present.
 
+## リモートワーク
+
+- 見えます？聞こえます？
+  - Can you see me?
+  - Can you hear me?
+- ミュートにしてました
+  - I was on mute.
+- 見えない
+  - I can't see you/the material/the notes.
+- 大きくして
+  - Could you make the material/notes bigger?
+- 文字にして
+  - Could you type it in the chat, please?
+
 ## 未分類
 
 - 副業

@@ -1,14 +1,5 @@
 # Pool
 
-## 例文
-
-- My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just took it easy.
-- India is so polluted.
-- I want to try scuba diving. My frinend said it's a lot of fun.
-- I wanted a hobby that I could do in Yokohama.
-
----------------------------
-
 - Appearance
   - `tidy`
   - `tidy up`
@@ -29,25 +20,6 @@
   - I visit my in-laws on holidays.
 - lack
   - I lacked height.
-- Enjoy your ...
-- Have a nice day!
-- See you next time!
-- Take care.
-- Can you see me?
-- Can you hear me?
-- I was on mute.
-- I can't see you/the material/the notes.
-- I transferred offices because I changed jobs.
-- I recently changed companies, so I have a lot to learn about the new company's culture.
-- My office is in Kawasaki.
-- I work in Kawasaki city.
-- I work on the fifth floor.
-- From my house to Kamiooka station is 20 minutes on foot.
-- I like working for my company but I'm still in my honeymoon phase.
-- I've been working at my current company for about 1 month and a half.
-- How long have you been working here?
-- My hobby is watching baseball game`s`.
-- I like wathing baseball game`s`.
 - We should plan ahead for the year-end shopping season and hire some new workers now.
 - We need to give some thought to what we will do if the client ways no to our first offer.
 - I work for <company>
@@ -131,6 +103,27 @@
   round out
   homegrown
   state-run
-  on and off
-- Could you type it in the chat, please?
-- Could you make the material/notes bigger?
+
+---------------------------
+
+## 例文
+
+- My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just took it easy.
+- India is so polluted.
+- I want to try scuba diving. My frinend said it's a lot of fun.
+- I wanted a hobby that I could do in Yokohama.
+- Enjoy your ...
+- Have a nice day!
+- See you next time!
+- Take care.
+- I transferred offices because I changed jobs.
+- I recently changed companies, so I have a lot to learn about the new company's culture.
+- My office is in Kawasaki.
+- I work in Kawasaki city.
+- I work on the fifth floor.
+- From my house to Kamiooka station is 20 minutes on foot.
+- I like working for my company but I'm still in my honeymoon phase.
+- I've been working at my current company for about 1 month and a half.
+- How long have you been working here?
+- My hobby is watching baseball games.
+- I like wathing baseball games.

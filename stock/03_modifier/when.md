@@ -54,6 +54,8 @@
 - 半年
   - half a year.
     - I'll be living here for half a year.
+- 断続的に
+  - on and off
 
 ## 詳細
 
