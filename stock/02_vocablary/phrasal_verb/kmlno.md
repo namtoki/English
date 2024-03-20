@@ -10,6 +10,8 @@
   - (間に合う) You can still make it.
   - (うまくいく、やり遂げる) We made it!
   - (うまくいく、やり遂げる) You can make it!
+- make (much | little | nothing) of A
+  - (Aに...な評価をする) For years the press overlooked the problem. But now, if anything, they are making too much of it.
 
 ## move
 

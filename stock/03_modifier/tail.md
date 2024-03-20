@@ -28,3 +28,6 @@
 - 要約すると
   - in a nutshell
     - That's it in a nutshell.
+- むしろ、どちらかといえば
+  - if anything
+    - For years the press overlooked the problem. But now, if anything, they are making too much of it.
