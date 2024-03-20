@@ -21,7 +21,7 @@
 - 最悪の日
   - one of those days
 
-## 使役
+## 使役動詞
 
 - make ... Adj
   - I'll do anything to make you happy.
@@ -41,6 +41,12 @@
   - (使役) I got one of my classmates to help my sister with her homework.
     - = I asked some of my classmates to give me a hand.
   - (使役) She often gets an Italian restaurant to deliver a pizza to her home.
+
+## 動詞原型
+
+- help 人 V
+  - Just help me find them.
+  - He helps me study English.
 
 ## Verb
 

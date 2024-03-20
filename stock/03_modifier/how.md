@@ -2,6 +2,9 @@
 
 ## ... まで
 
+- もう少し
+  - some more
+    - I'll think about it some more.
 - になる (する) くらいまで
   - to the point where ...
     - I studied English so much to the point where my dream started being in English.

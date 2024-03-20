@@ -7,6 +7,9 @@
     - It's my new passion. (最近の趣味)
 - ご褒美
   - treat oneself
+- 飽きてきた
+  - I'm getting tired of ...
+    - I'm getting tired of them.
 
 ## 家電
 
