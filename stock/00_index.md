@@ -19,12 +19,15 @@
 ## Vocabulary
 
 - [Common](02_vocablary/common.md)
+- [Charactor](02_vocablary/charactor.md)
+- [Outing](02_vocablary/outing.md)
 - [Life](02_vocablary/life.md)
 - [Motion](02_vocablary/motion.md)
 - [Food](02_vocablary/food.md)
 - [Health](02_vocablary/health.md)
 - [Work](02_vocablary/work.md)
 - [Weather](02_vocablary/weather.md)
+- [Animal](02_vocablary/animal.md)
 - [Phrasal Verb](02_vocablary/phrasal_verb.md)
 
 ## Modifier

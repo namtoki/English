@@ -1,18 +1,14 @@
 # Pool
 
 ## 例文
+
 - My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just took it easy.
+- India is so polluted.
+- I want to try scuba diving. My frinend said it's a lot of fun.
+- I wanted a hobby that I could do in Yokohama.
 
 ---------------------------
 
-- seniors
-  - The people who disagreed are old fashioned seniors.
-- The social `welfare`
-  - The health `insurance`
-  - I took out my `mortage` this year. = loan for a house/property/condo
-  - `passengers`
-  - `pedestrians`
-  - `around the corner`
 - Appearance
   - `tidy`
   - `tidy up`
@@ -23,22 +19,6 @@
   - `bald`
   - `beard`
   - `moustache`
-- Animal
-  - `deer`
-- Foods
-  - `Salmomn roe`
-  - `Seaweed`
-  - `Pickled plum`
-  - `baked goods`
-- Weather
-  - `sunny`
-  - `chilly`
-  - `cold`
-  - `fleezing`
-  - Seattle has low `humidity` in summer.
-  - Tokyo is too `humid`.
-  - It is `humid` in the summer but it is cold and dry in the winter.
-  - India is so `polluted`.
 - know everything about ...
   - If you're interested in old films you should talk to Gene. He knows everything about movies.
 - ... for the (fun | love | joy) of it
@@ -49,24 +29,6 @@
   - I visit my in-laws on holidays.
 - lack
   - I lacked height.
-- I want to try scuba diving. My frinend said it's a lot of fun.
-- I wanted a hobby that I could do in Yokohama.
-- Oh! I always forget the 'S'!
-- Could you repeat that, please?
-- Could you speak a little slowly, please?
-- Could you speak more slowly, please?
-- Could you explain that?
-- Could you say that more simply, please?
-- Could you write it down, please?
-- Could you type it in the chat, please?
-- Could you make the material/notes bigger?
-- I'm sorry, I don't understand.
-- Can I ask you a question?
-- I want to know about...
-- How do you pronounce this word?
-- How do you spell this word?
-- How do you say ... in English?
-- Thank you for the lesson!
 - Enjoy your ...
 - Have a nice day!
 - See you next time!
@@ -170,3 +132,5 @@
   homegrown
   state-run
   on and off
+- Could you type it in the chat, please?
+- Could you make the material/notes bigger?

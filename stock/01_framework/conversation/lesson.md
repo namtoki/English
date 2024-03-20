@@ -2,6 +2,8 @@
 
 ## 質問
 
+- 質問してもよろしいでしょうか
+  - Can I ask you a question?
 - ... 点質問があります
   - I've got ... questions
     - So today I've got a couple of questions.
@@ -35,6 +37,18 @@
 - ～するもの
   - the thing that
     - The thing that you use to see the stars.
+- もう一度言ってもらえますか？
+  - Could you repeat that, please?
+  - Could you speak a little slowly, please?
+  - Could you speak more slowly, please?
+  - Could you explain that?
+  - Could you say that more simply, please?
+- 書いてもらえますか？
+  - Could you write it down, please?
+- どう～しますか？
+  - How do you pronounce this word?
+  - How do you spell this word?
+  - How do you say ... in English?
 
 ## 回答
 
@@ -60,3 +74,5 @@
 
 - 聞けて良かった
   - Good to know
+- いつも間違える
+  - Oh! I always forget the 'S'!

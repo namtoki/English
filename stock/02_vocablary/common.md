@@ -1,5 +1,11 @@
 # Common
 
+## Saying
+
+- Happy wife, happy life
+- Apples and oranges
+- Mum's the word
+
 ## 〇〇なもの
 
 - 一番のもの

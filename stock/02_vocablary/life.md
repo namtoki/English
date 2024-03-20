@@ -1,17 +1,5 @@
 # Life
 
-## Saying
-
-- Happy wife, happy life
-- Apples and oranges
-- Mum's the word
-
-## Human
-
-- 利き手
-  - dominant hand
-    - Which is your dominant hand?
-
 ## 嗜好
 
 - 趣味
@@ -25,3 +13,12 @@
 - 電池がすぐなくなる
   - die
     - my phone's battery died quickly.
+
+## 暮らし
+
+- 福祉
+  - The social welfare
+- 健康保険
+  - The health insurance
+- 住宅ローン
+  - I took out my mortgage this year. (= loan for a house/property/condo)
