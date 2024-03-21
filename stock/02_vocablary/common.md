@@ -8,6 +8,9 @@
 
 ## 〇〇なもの
 
+- そのようなもの
+  - such things
+    - C++ has plenty of such things!
 - 一番のもの
   - the best
     - That show is the best!
@@ -110,3 +113,9 @@
 - 機嫌が悪い
   - be in a bad mood
     - I won't share my opinion if my wife seems as if she is in a bad mood.
+
+## Noun
+
+- 存在感
+  - presence
+    - Hollywood has a very small presence.

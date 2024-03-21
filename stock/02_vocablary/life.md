@@ -10,6 +10,9 @@
 - 飽きてきた
   - I'm getting tired of ...
     - I'm getting tired of them.
+- 総興行収入を挙げる
+  - gross
+    - If you look at the four highest grossing films in the history of the world, you've made three of them.
 
 ## 家電
 

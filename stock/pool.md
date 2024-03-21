@@ -63,6 +63,9 @@
   round out
   homegrown
   state-run
+  as it seeks to
+  tap into
+   I think that taps into the subconscious that we all, kind of, share
 
 ---------------------------
 
