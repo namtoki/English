@@ -12,6 +12,8 @@
 
 ## take
 
+- take a vote
+  - (投票する) My team took a vote to decide where we should have lunch.
 - take up
   - (始める) I took up Yoga.
   - (始める) I decided to take up writing a blog.
@@ -22,6 +24,11 @@
 - take off
   - (休みを取る) I took some time off.
   - (休みを取る) I think I can take off two weeks in July.
+
+## tap
+
+- tap into
+  - (活用する) I think that taps into the subconscious that we all, kind of, share
 
 ## turn
 

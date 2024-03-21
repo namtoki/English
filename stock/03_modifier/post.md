@@ -48,6 +48,9 @@
 - とかいろいろ
   - ... and stuff.
     - We've got to do editing and stuff.
+- とかそのへん
+  - ... or so.
+    - It's 20 dollars or so.
 
 ## to 不定詞
 

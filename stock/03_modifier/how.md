@@ -40,3 +40,14 @@
 - 連続して
   - in a row
     - As we anticipated, the unemployment rate has risen three quarters in a row.
+- わざと
+  - on purpose
+    - He made a mistake on purpose.
+  - purposely
+    - He purposely didn't say anything.
+
+## 体をどうして
+
+- 肩まで
+  - to my shoulders
+    - I entered the Ghanges river to my shoulders.

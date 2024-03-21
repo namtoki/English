@@ -11,6 +11,10 @@
 - 利き手
   - dominant hand
     - Which is your dominant hand?
+- 早起き
+  - an early bird
+- 夜更かしするほう
+  - a night owl
 
 ## 外的特徴
 

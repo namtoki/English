@@ -64,6 +64,9 @@
   - anyway
   - in any case
     -In any case, the union has to compromise to a certain extent.
+- 結局のところ
+  - At the end of the day,
+    - At the end of the day, this is not that important.
 
 ## 仮定 (前提)
 

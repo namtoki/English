@@ -12,12 +12,19 @@
   - (うまくいく、やり遂げる) You can make it!
 - make (much | little | nothing) of A
   - (Aに...な評価をする) For years the press overlooked the problem. But now, if anything, they are making too much of it.
+- make a (decision | choice)
+  - I got job offers from two companies. I have to make a decision about which offer to accept.
 
 ## move
 
 - move around
 - move over
   - (席を詰める) Could you move over a little?
+
+## lean
+
+- lean toward
+  - (考えが傾く) I haven't decided yet, but I'm leaning toward B.
 
 ## let
 

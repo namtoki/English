@@ -1,5 +1,15 @@
 # Phrasal verb (ABCDE)
 
+## check
+
+- check with
+  - (相談する) I need to check with my boss before I can make a decision about when to take my summer vacation.
+
+## choose
+
+- choose ... over ...
+  - (よりも) I would choose Interstate Construction over New Look Construction.
+
 ## come
 
 - come across

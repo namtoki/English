@@ -12,6 +12,11 @@
 - give off
   - (発する) A woman passed by me giving off a subtle scent of perfume.
 
+## go
+
+- go over
+  - (チェックする) Good morning, everyone. We should get started. First, I'd like to go over the most recent marketing data.
+
 ## hang
 
 - hang on

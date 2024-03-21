@@ -31,3 +31,7 @@
 - むしろ、どちらかといえば
   - if anything
     - For years the press overlooked the problem. But now, if anything, they are making too much of it.
+- も
+  - as well
+    - Would you like to come as well?
+    - Would you like some toast as well?

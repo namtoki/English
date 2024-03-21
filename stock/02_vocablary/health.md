@@ -1,5 +1,14 @@
 # Health
 
+## 健康
+
+- 体型を保つ
+  - stay fit
+    - I want to stay fit.
+- 筋肉
+  - muscle
+    - I don't want to lose muscle.
+
 ## 病名
 
 - 花粉症

@@ -23,6 +23,9 @@
     - Is that the only thing you think about?
 - 最悪の日
   - one of those days
+- 正しいこと
+  - the right thing to do
+    - We've decided to buy an electric car because it's the right thing to do for the environment.
 
 ## 使役動詞
 
@@ -85,6 +88,7 @@
 - 断る
   - refuse (はっきり)
     - They wanted me to participate in the meeting, but I refused.
+    - We asked the supplier to lower the price by 5%, but they refused.
   - reject (不適切だ)
     - The boss rejected my proposal.
   - decline (丁寧に)
@@ -113,6 +117,11 @@
 - 機嫌が悪い
   - be in a bad mood
     - I won't share my opinion if my wife seems as if she is in a bad mood.
+- まみれになる
+  - be bathed in
+    - be bathed in a golden light (日光を浴びる)
+    - be bathed in blood (血まみれ)
+    - be bathed in sweat (汗だく)
 
 ## Noun
 

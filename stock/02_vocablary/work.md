@@ -20,6 +20,8 @@
     - take off two weeks
     - I'm going to take a week off from work this November. 
 - 残業する
+  - work overtime
+- 遅くまで仕事をする
   - work late
     - She works late most of the days.
   - work went late
@@ -27,6 +29,10 @@
 - 帰る時間
   - ETA (Estimated Time of Arrival)
     - I send her a message with my ETA.
+- 仕事を始める/終える
+  - start / finish work at ...
+- 執務時間
+  - business hours
 
 ## どうしているか (どうだったか)
 
@@ -62,8 +68,17 @@
 
 ## 役職
 
-- senior management | upper management
+- big boss | senior management | upper management
   - It is easier to share my opinions when senior management is not present.
+- immediate boss | line manager
+  - My boss line manager is American.
+  - My direct(section) boss is Japanese and my divigional boss is American.
+- supervisor
+- superior : senior coworker
+- me
+- coworker
+  - The coworker next to me is Indian and he doesn't speak Japanese.
+- subordinate : junior coworker
 
 ## リモートワーク
 
