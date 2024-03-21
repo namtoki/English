@@ -50,6 +50,9 @@
 
 ## Verb
 
+- 過ごす
+  - spend time ...
+    - I spend time with my wife on my days off.
 - 見分ける
   - tell ... from ...
     - Bob was so beside himself that he could scarcely tell fact from fiction.

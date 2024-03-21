@@ -1,5 +1,11 @@
 # Work
 
+## 仕事の説明
+
+- で働いています
+  - I work for <company>
+  - I work in <place/department>
+
 ## 通勤
 
 - (通う) go to work

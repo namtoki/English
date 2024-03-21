@@ -62,6 +62,7 @@
   - get/be used to ...
     - I cook everyday, so I am used to it.
     - I'm getting used to working with new coworkers here.
+    - My job was pretty difficult at first but now I've gotten used to it, so it is easier to do.
   - get/be familiar with ...
     - He got familiar with a new laptop.
     - I am familiar to him, I've spent time with him for over 10 years.
@@ -110,7 +111,9 @@
 ## 特定表現
 
 - が苦手
-  - I'm terrible with ..
+  - I'm terrible with ...
+  - I don't care for ...
+    - I don't care for spicy food.
 - 仕方ない
   - I can't help it.
   - There's nothing we can do about it.

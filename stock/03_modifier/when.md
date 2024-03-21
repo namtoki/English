@@ -43,6 +43,9 @@
 - ... までには ... だった
   - by the time ...
     - By the time I got wake up, the snow had stopped falling.
+- 初めて
+  - for the first time
+    - Last Saturday, I came here for the first time.
 
 ## 未来
 

@@ -25,3 +25,12 @@
   - The health insurance
 - 住宅ローン
   - I took out my mortgage this year. (= loan for a house/property/condo)
+
+## 掃除
+
+- 整理された
+  - tidy
+- 片づける 整理する
+  - tidy up
+- しみのない
+  - spotless

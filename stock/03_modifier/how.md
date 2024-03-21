@@ -23,6 +23,7 @@
   - almost
   - nearly
   - pretty much
+    - This is pretty much done.
 - ある意味
   - ... in a way
     - Yep, in a way.
