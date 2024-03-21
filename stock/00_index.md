@@ -1,6 +1,6 @@
 # Stock
 
-## [Favorite](favorite.md)
+## [Favorite](04_favorite.md)
 
 ## Framework
 
