@@ -21,6 +21,7 @@
 ## Vocabulary
 
 - [Common](02_vocablary/common.md)
+- [Emotion](02_vocablary/emotion.md)
 - [Charactor](02_vocablary/charactor.md)
 - [Outing](02_vocablary/outing.md)
 - [Life](02_vocablary/life.md)

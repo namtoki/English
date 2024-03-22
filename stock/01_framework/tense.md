@@ -27,7 +27,7 @@
   - tend to ...
     - I tend to prefer non-fiction. (普段は)
     - I tend not to remeber my dreams. (たいてい)
-    - I tend to eat a lot when I' nervous. (ついついしちゃう)
+    - I tend to eat a lot when I'm nervous. (ついついしちゃう)
   - usually end up ... ing
     - I usually end up getting fast food. (ついついしちゃう)
   - always
