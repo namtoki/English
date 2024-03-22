@@ -2,6 +2,9 @@
 
 ## 年齢
 
+- .. 十代
+  - in one's XXs
+    - Some of her first students are new in their 20s.
 - 年配
   - seniors
     - The people who disagreed are old fashioned seniors.

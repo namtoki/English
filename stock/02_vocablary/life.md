@@ -16,6 +16,9 @@
 
 ## 家電
 
+- スマホを見ている
+  - browse
+    - Some people are browsing their phones.
 - 電池がすぐなくなる
   - die
     - my phone's battery died quickly.
