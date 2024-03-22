@@ -13,6 +13,8 @@
 - 総興行収入を挙げる
   - gross
     - If you look at the four highest grossing films in the history of the world, you've made three of them.
+- ... することを習慣とする
+  - make it a habit to
 
 ## 家電
 

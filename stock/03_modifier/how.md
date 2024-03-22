@@ -45,6 +45,10 @@
     - He made a mistake on purpose.
   - purposely
     - He purposely didn't say anything.
+- くせで
+  - out of habit
+    - I got the Namboku line out of habit.
+    - I got up at 7 out of habit.
 
 ## 体をどうして
 
