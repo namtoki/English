@@ -111,12 +111,6 @@
 
 ## Adjective
 
-- 面白い
-  - interesting (興味深い)
-  - intriguing (超興味深い)
-- 機嫌が悪い
-  - be in a bad mood
-    - I won't share my opinion if my wife seems as if she is in a bad mood.
 - まみれになる
   - be bathed in
     - be bathed in a golden light (日光を浴びる)
