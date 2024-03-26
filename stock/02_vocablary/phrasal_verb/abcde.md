@@ -25,3 +25,13 @@
 
 - cut down on
   - (減らす) I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis.
+
+## drive
+
+- drive ... crazy (> annoyed, irritated)
+  - (イライラさせる) I don't know why we're still friends. You often drive me crazy.
+  - (夢中にさせる) Tom drives me crazy.
+- drive ... (nuts | insane | mad)
+  - (イライラさせる) Can you stop doing that? it drives me nuts.
+- drive ... up the wall
+  - (イライラさせる) All this noise is driving me up the wall!

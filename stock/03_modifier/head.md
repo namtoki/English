@@ -101,7 +101,7 @@
 
 - と同時にですね、
   - but at the same time,
-    - Working from home is great. Yeah, but at the same time, it's king of incovenient.
+    - Working from home is great. Yeah, but at the same time, it's king of inconvenient.
 - 一方で
   - ... , whereas ...
     - He likes learning from textbooks, whereas I like learning on the job because I think it's way more efficient.
@@ -113,4 +113,3 @@
 - 次の瞬間
   - and the next thing I knew
     - I felt dizzy, and the next thing I knew I was being carried by the ambulance.
-

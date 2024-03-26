@@ -3,9 +3,13 @@
 ## get
 
 - get up
-  - He gets up at 7 AM.
+  - (起きる) He gets up at 7 AM.
 - get ready
-  - It takes him about an hour to get ready for work.
+  - (準備する) It takes him about an hour to get ready for work.
+- get to
+  - (イライラさせる) The construction in front of my house is so noisy. It gets to me.
+  - (イライラさせる) It’s raining the whole week! This weather is getting to me.
+  - (気に障る) Don’t let it get to you. It’s really nothing.
 
 ## give
 

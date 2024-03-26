@@ -1,5 +1,11 @@
 # Phrasal verb (KMLNO)
 
+## kick
+
+- kick out
+  - (追い出す) He was caught having an affair. So, I kicked him out of my house.
+  - (追い出す) I got kicked out of the club for missing too many meetings.
+
 ## make
 
 - make the most of it.

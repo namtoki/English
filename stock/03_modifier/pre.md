@@ -14,6 +14,9 @@
 - ほとんど ... ない
   - next to ...
     - I know next to nothing about it.
+- 本当に
+  - high-key
+    - I high-key cannot stand when my roommate sings in the shower.
 
 ## ぼやかす
 
@@ -26,6 +29,8 @@
     - I'm kind of sleepy.
     - She is kind of rude.
     - It was kind of ... confusing.
+  - Low-key ...
+    - I’m low-key in love with my study partner’s new cologne.
 - なにか
   - some kind of ...
     - born with some kind of special talent
