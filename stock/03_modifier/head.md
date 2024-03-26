@@ -6,29 +6,29 @@
   - Simply put
     - Simply put, he doesn't like sports.
 - に関して言うと
+  - About ...
+    - About the food ... it is bad.
+  - Regarding ...
+    - Regarding the subject above
+  - (With | In) regard to ...
+    - With regard to the notes below
+    - In regard to our official comments
+  - Concerning
+    - concerning the changes that were recently made
+  - As for (人 or 物)
+    - As for the cost per person
+  - As to 物
+    - As to your request, we refunded your money to your account.
+    - I want to have a discussion as to which university is the best university.
+  - In terms of ...
+  - When it comes to ...
+    - When it comes to the weather, there’s nothing I can do.
+    - Trust me when it comes to sushi.
+- そういえば ... と言えば
   - Speaking of ...
     - Speaking of summer, where did you go this year?
   - Talking of ...
     - Talking of soccer, Did you watch the game yesterday?
-  - When it comes to ...
-    - When it comes to the weather, there’s nothing I can do.
-    - Trust me when it comes to sushi.
-  - About ...
-    - About the food ... it is bad.
-  - with regard to
-    - with regard to the notes below
-  - In regard to ...
-    - in regard to our official comments
-  - regarding ...
-    - regarding the subject above
-  - about
-  - concerning
-    - concerning the changes that were recently made
-  - as for 人
-    - As for the cost per person
-  - as to 物
-    - As to your request, we refunded your money to your account.
-    - I want to have a discussion as to which university is the best university.
 - 自分の意見としては
   - Personally, in my opinion ,,,
   - Honestly, I feel ,,,
@@ -57,9 +57,11 @@
 - まず第一に
   - To begin with
     - To begin with, its theme is obscure.
-- 実際のところ
+- 実際のところ / 今のところは
   - As it is (残念ながら)
     - As it is, ordinary people cannot afford to purchase such luxuries.
+  - So far
+    - So far I’m having a blast. The town is wonderful.
 - いずれにしても
   - anyway
   - in any case

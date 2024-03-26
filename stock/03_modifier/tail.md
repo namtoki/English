@@ -35,3 +35,6 @@
   - as well
     - Would you like to come as well?
     - Would you like some toast as well?
+- とりあえあず
+  - for the moment
+    - I will make it do for the moment.

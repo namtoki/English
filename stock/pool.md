@@ -2,6 +2,8 @@
 
 ## プール
 
+So, that's how
+
 ## 分類できないけど残しておく
 
 - My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just took it easy.

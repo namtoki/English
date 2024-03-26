@@ -22,7 +22,7 @@
 - [Number](02_vocablary/number.md)
 - [Emotion](02_vocablary/emotion.md)
 - [Motion](02_vocablary/motion.md)
-- [Charactor](02_vocablary/charactor.md)
+- [Character](02_vocablary/character.md)
 - [Life](02_vocablary/life.md)
 - [Work](02_vocablary/work.md)
 - [Outing](02_vocablary/outing.md)
