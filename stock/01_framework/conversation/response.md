@@ -17,7 +17,6 @@
   - be a blur
     - Last weekend was a blur. = I don't remember well.
 
-
 ## 同意
 
 - 私もそう

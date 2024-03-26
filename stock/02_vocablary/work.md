@@ -33,6 +33,8 @@
   - start / finish work at ...
 - 執務時間
   - business hours
+  - working hours
+    - My regular working hours end at 6pm.
 
 ## どうしているか (どうだったか)
 

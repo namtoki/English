@@ -3,6 +3,17 @@
 ## プール
 
 So, that's how
+fine/sick
+shocked
+shy/outgoing
+cheerful
+hard-working/lazy
+I have been assigned a new long term project.
+For a long span of time, Kyoto was the capital of Japan.
+My father turned 70 years old last week.
+I bought him chopsticks with his name engraved on them.
+We aren't very close with our in-laws.
+I get angry at myself.
 
 ## 分類できないけど残しておく
 
