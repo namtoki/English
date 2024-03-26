@@ -59,6 +59,8 @@
 
 - 好きなほうでいいですよ
   - It's up to you.
+- なんでもいいよ
+  - You name it.
 - まででいいですよ
   - it can wait until ...
     - Is this job urgent? No, it can wait until tomorrow.

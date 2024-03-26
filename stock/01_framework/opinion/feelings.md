@@ -82,6 +82,9 @@
 
 ## 複雑な表現
 
+- 腑に落ちない
+  - (It | Something) doesn't add up.
+    - It doesn't add up at all.
 - だからと言って ... ではない
   - just because ... doesn't mean ...
     - Just because he smiles a lot doesn't mean he's kind.

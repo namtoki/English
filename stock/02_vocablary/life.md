@@ -38,6 +38,8 @@
 
 - 整理された
   - tidy
+  - neat and tidy
+  - shipshape
 - 片づける 整理する
   - tidy up
 - しみのない

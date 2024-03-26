@@ -21,6 +21,12 @@
 - go over
   - (チェックする) Good morning, everyone. We should get started. First, I'd like to go over the most recent marketing data.
 
+## guess
+
+- guess ... right
+  - (言い当てる) I guessed the age right.
+  - (言い当てる) I couldn't guessed those right.
+
 ## hang
 
 - hang on

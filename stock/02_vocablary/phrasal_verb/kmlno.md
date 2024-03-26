@@ -8,6 +8,8 @@
 
 ## make
 
+- make (full) use of
+  - (活用する) make full use of IT
 - make the most of it.
   - Let's make the most of it.
   - Let's make the most of our time here.

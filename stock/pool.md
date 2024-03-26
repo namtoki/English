@@ -2,7 +2,6 @@
 
 ## プール
 
-So, that's how
 fine/sick
 shocked
 shy/outgoing
@@ -14,6 +13,7 @@ My father turned 70 years old last week.
 I bought him chopsticks with his name engraved on them.
 We aren't very close with our in-laws.
 I get angry at myself.
+sarcasm
 
 ## 分類できないけど残しておく
 
@@ -61,3 +61,4 @@ I get angry at myself.
 - There are many people in poverty.
 - The new guy in the office talks too much. I can't focus on my work.
 - round out
+- It's raining cats and dogs
