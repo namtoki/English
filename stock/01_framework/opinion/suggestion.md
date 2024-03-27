@@ -39,6 +39,10 @@
     - If you want us to understand what you are saying, you're gonna have to articulate a little bit better.
   - would be better if ...
     - Would it be better if I got wet?
+-  のほうがいい
+  - better off ...
+    - You're better off starting from the beginning than trying to find out where you went wrong.
+    - The team was better off without their coach.
 - はいかが？
   - Would you like some ...
     - Would you like some company?

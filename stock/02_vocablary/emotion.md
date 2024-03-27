@@ -20,6 +20,8 @@
     - Things in life are never black and white.
   - unambiguous
     - The warnings were unambiguous.
+  - clear-cut
+    - Patrick's instructions were very clear-cut.
 - 雑な (いい加減な)
   - sloppy
     - The bridge collapsed soon after completion because of the sloppy construction work.
