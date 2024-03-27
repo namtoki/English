@@ -1,5 +1,11 @@
 # Work
 
+## 経歴
+
+- 経験がある
+  - I have ... years of experience in the ... field.
+  - I have ... years of ... experience.
+
 ## 仕事の説明
 
 - で働いています

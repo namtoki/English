@@ -1,5 +1,11 @@
 # Life
 
+## 家族
+
+- 人家族です
+  - I'm from a family of ...
+    - I'm from a family of four.
+
 ## 嗜好
 
 - 趣味

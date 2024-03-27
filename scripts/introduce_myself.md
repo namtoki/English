@@ -1,20 +1,28 @@
 Introduce myself
 ================
 
-Hi, Name is Toshiyuki Tanamura.
-But I also go by Tana.
+Hi, Name's Toshiyuki.
+But I usually go by Toshi. (But my friends call me Toshi.)
 
-I was born and raised in Nagoya Japan.
+Pleasure to meet you.
+
+Japan-born-and-raised.
+More specifically, I was born and raised in Nagoya.
+
 Do you know about Nagoya?
 
-It's the prefectural capital of Aichi-ken.
-Toyota city, you know which is famous for automobile is a next town.
-Manifold cars run around the town.
-So Aichi is ranked the top prefecture for number of owned vehicles in Japan.
+It's about like 1 hour and 30 minutes by Shinkansen from Yokohama. it's in the west side from here.
+and it is located next to Toyota, you know, which is famous for automobile manufacturer.
+So, it's a heavily trafficked city.
 
-Back to my story, I works as a software engineer in an audio equipment manufacturer.
+Going back to my story,
+I'm a big fan of Baystars which is a baseball team in Japanese professional league.
+I usually enjoy watching their games.
+
+I work as a software engineer at an audio equipment manufacturer.
+
 Actually, I changed jobs last October.
-And it's American owned company. So I have to got to communicate with English.
-So I entered Oneup Eikaiwa.
+And it's American owned company. So I have to got to use English.
+So I also entered Oneup Eikaiwa.
 
 Um, that's about it.
