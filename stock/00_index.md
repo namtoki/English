@@ -31,6 +31,7 @@
 - [Health](02_vocablary/health.md)
 - [Weather](02_vocablary/weather.md)
 - [Animal](02_vocablary/animal.md)
+- [Place](02_vocablary/place.md)
 - Phrasal Verb
     - [ABCDE](02_vocablary/phrasal_verb/abcde.md)
     - [FGHIJ](02_vocablary/phrasal_verb/fghij.md)
@@ -45,5 +46,6 @@
 - [Post](03_modifier/post.md)
 - [Tail](03_modifier/tail.md)
 - [When](03_modifier/when.md)
+- [Why](03_modifier/why.md)
 - [How](03_modifier/how.md)
 - [Level](03_modifier/level.md)
