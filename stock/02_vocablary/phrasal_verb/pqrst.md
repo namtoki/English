@@ -9,6 +9,13 @@
 
 - put on
   - It is difficult to put on a Kimono.
+- put ... into practice
+  - (実行に移す) He came up with an ingenious, sensible solution and immediately put it into practice.
+
+## talk
+
+- talk ... into ...ing
+  - (説得してさせる) but eventually I talked everyone into going along with my plan.
 
 ## take
 

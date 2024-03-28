@@ -84,6 +84,8 @@
   - Not again!
 - もったいない
   - That's a waste.
+- お世辞でも嬉しいです
+  - You flatter me.
 
 ## 許諾
 

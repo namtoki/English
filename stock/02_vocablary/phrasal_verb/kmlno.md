@@ -24,6 +24,10 @@
   - I got job offers from two companies. I have to make a decision about which offer to accept.
 - be made up of ...
   - (で構成されている) Our workgroup is made up of people from lots of divisions in our company. 
+- make out
+  - (理解する) I couldn't make out what you were getting at.
+- make up for
+  - (埋め合わせる) Her genius makes up for her lack of firsthand experience.
 
 ## move
 
@@ -40,6 +44,11 @@
 
 - let go of
   - (手を離す) Let go of your negative outlook on life.
+
+## live
+
+- live up to ...
+  - (応える) We expected him to defeat his opponent, but he failed to live up to our expectation.
 
 ## look
 

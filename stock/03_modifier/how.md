@@ -25,10 +25,13 @@
   - pretty much
     - This is pretty much done.
 - ある意味
-  - ... in a way
+  - ... in a (way | sense)
     - Yep, in a way.
     - He's a genius, in a way.
-- ある程度
+    - In a sense, he is to blame for the disaster.
+- ある程度, いくらか
+  －somewhat
+    - Strictly speaking, his view differs somewhat from mine.
   －to (a certain | some) extent
     -In any case, the union has to compromise to a certain extent.
 
@@ -49,6 +52,17 @@
   - out of habit
     - I got the Namboku line out of habit.
     - I got up at 7 out of habit.
+
+## どういう立場で
+
+- 代表して
+  - on behalf of ...
+    - On behalf of all staff, I'd like to express our sympathy for the victims.
+- の代わりに
+  - on behalf of ...
+    - I thank you on behalf of my husband.
+  - in place of ...
+    - I used Knox’s PC in place of mine today.
 
 ## 体をどうして
 

@@ -5,6 +5,11 @@
 - watch out (for)
   - (気を付ける) When driving at night, you need to watch out for wildlife that may appear unexpectedly.
 
+## wind
+
+- wind ... up
+  - (終わりにする) "Time to wind things up. Let's take a vote."
+
 ## work
 
 - work for

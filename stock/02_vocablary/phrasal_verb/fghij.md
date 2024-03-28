@@ -10,6 +10,10 @@
   - (イライラさせる) The construction in front of my house is so noisy. It gets to me.
   - (イライラさせる) It’s raining the whole week! This weather is getting to me.
   - (気に障る) Don’t let it get to you. It’s really nothing.
+- be getting at
+  - (言おうとする) I couldn't make out what you were getting at.
+  - (言おうとする) What's the point you're getting at?
+  - (言おうとする) I'm not sure what you're getting at.
 
 ## give
 
@@ -19,7 +23,9 @@
 ## go
 
 - go over
-  - (チェックする) Good morning, everyone. We should get started. First, I'd like to go over the most recent marketing data.
+  - (おさらい) Good morning, everyone. We should get started. First, I'd like to go over the most recent marketing data.
+  - (説明する) Could you go over it again?
+  - (検討する) We will go over your application and let you know of the results next week.
 
 ## guess
 

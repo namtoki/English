@@ -19,6 +19,10 @@
   - every time ...
     - Every time you make them, they are perfect.
     - My printer runs out of ink every time I use it. In this case, I have to rush to an electronic store to get it.
+- ... ごとに
+  - every ...
+    - The vehicles are inspected for defects every three months.
+    - every other day
 - たまに (確率高い順)
   - sometimes / at times
     - At times I confuse "curve" with "carve."

@@ -20,11 +20,15 @@
   - (正直に述べる) I'm gonna come clean with everyone.
 - come out
   - (出版される) An up-to-date edition of the encyclopedia will come out next month.
+- come up with
+  - (考え出す) He came up with an ingenious, sensible solution and immediately put it into practice.
 
 ## cut
 
 - cut down on
   - (減らす) I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis.
+- cut ... off
+  - (遮る) The chairman cut me off, saying, "brabrabra."
 
 ## drive
 
