@@ -14,6 +14,14 @@
   - (言おうとする) I couldn't make out what you were getting at.
   - (言おうとする) What's the point you're getting at?
   - (言おうとする) I'm not sure what you're getting at.
+- get in
+  - (小型 乗る) The man got in the car and drove off.
+- get out
+  - (小型 降りる) I got out of the taxi at Tokyo station.
+- get on
+  - (大型 乗る) I got on the train at Shinjuku and got off at Shibuya.
+- get off
+  - (大型 降りる) I got off the elevator at the wrong floor.
 
 ## give
 

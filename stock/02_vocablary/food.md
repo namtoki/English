@@ -17,6 +17,13 @@
   - Where is your favorite place to eat out?
 - I'll have
   - I'll have the same as her.
+- おごりです
+  - It's on me.
+- おごる
+  - treat ...
+    - You treat me every time we eat out.
+- 割り勘する
+  - split the check
 
 ## こぼす
 

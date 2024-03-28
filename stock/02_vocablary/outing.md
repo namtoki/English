@@ -10,6 +10,8 @@
 - 空港での決まり文句
   - What is the purpose of you visit? Business or pleasure?
   - Could I see your return ticket, please?
+- おつりはいりません
+  - Keep the change
 
 ## 街
 

@@ -33,6 +33,8 @@
   - (休みを取る) I think I can take off two weeks in July.
 - take ... out of context
   - (文脈無視) It can easily be taken out of context.
+- take it
+  - (それにします) I'll take it.
 
 ## tap
 
