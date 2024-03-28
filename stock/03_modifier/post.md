@@ -5,6 +5,10 @@
 - 趣味として
   - ... for the (fun | love | joy) of it
     - I enjoy cooking but I don't want to be a chef, because I just cook for the fun of it.
+- 前もって
+  - up-front
+    - This hotel requires a cash deposit up-front.
+  - in advance
 
 ## 比較対象
 

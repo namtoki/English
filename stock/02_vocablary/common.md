@@ -108,6 +108,13 @@
 - 捨てる
   - got rid of
     - I got rid of some equipment.
+- 含む
+  - include
+    - The prices displayed include delivery costs and taxes.
+  - contain
+    - I accidentally deleted a file containing very important information.
+  - encompass
+    - Her new job encompasses a broad range of tasks.
 
 ## Adjective
 

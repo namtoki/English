@@ -62,10 +62,10 @@
   - Fair enough (, but と続けば否定的)
   - I know what you are saying
 - なるほど
-  - I see what you mean.
+  - I see (what you mean).
   - (That) makes sense
 
-## 印象を伝える
+## 印象
 
 - それは .. だね
   - That sounds like ... (※ 名詞だから like が必要)
@@ -88,16 +88,20 @@
 ## 許諾
 
 - どうぞ
-  - Go ahead and use mine.
-  - Go ahead and have a seat.
-  - Here.
-  - Here you are.
-  - Here's a little something for you.
+  - Go ahead
+    - Go ahead and use mine.
+    - Go ahead and have a seat.
+  - Here
+    - Here you are.
+    - Here's a little something for you.
 - もちろん
   - Of course
   - Sure
-  - Do you want to get some food first? Might as well. It's a long play.
-  - Shall we try that place? Might as well. There aren't many restaurants around here.
+- まぁいいよ
+  - Might as well
+    - Do you want to get some food first? Might as well. It's a long play.
+    - Shall we try that place? Might as well. There aren't many restaurants around here.
+- 気にしないよ
   - I don't mind.
 - 引き受けた
   - I'll take care of it.
@@ -172,3 +176,7 @@
 - また後で
   - I'll tell you later.
   - I'll let you know.
+- ここまでにしましょう
+  - leave it there.
+- その通り
+  - There you go.

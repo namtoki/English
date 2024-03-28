@@ -22,6 +22,8 @@
   - (Aに...な評価をする) For years the press overlooked the problem. But now, if anything, they are making too much of it.
 - make a (decision | choice)
   - I got job offers from two companies. I have to make a decision about which offer to accept.
+- be made up of ...
+  - (で構成されている) Our workgroup is made up of people from lots of divisions in our company. 
 
 ## move
 

@@ -1,5 +1,15 @@
 # Life
 
+## 過ごし方
+
+- 夜更かしする
+  - stay up (till) late
+    - I stayed up late last night.
+- 徹夜する
+  - stay up all night
+  - burn the midnight oil
+  - pull an all-nighter
+
 ## 家族
 
 - 人家族です
