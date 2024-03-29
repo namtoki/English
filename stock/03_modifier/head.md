@@ -51,6 +51,11 @@
 - 予想していた通り
   - As ... anticipated,
     - As we anticipated, the unemployment rate has risen three quarters in a row.
+- 全体的にみると / 総合的に考えると
+  - On the whole
+    - On the whole, it was a great trip.
+  - All things considered
+    - All things considered, that was a successful event.
 
 ## 説明
 

@@ -20,8 +20,10 @@
     - Things in life are never black and white.
   - unambiguous
     - The warnings were unambiguous.
-  - clear-cut
+  - clear-cut (usually used for instructions) 
     - Patrick's instructions were very clear-cut.
+  - crystal clear
+    - I could make it crystal clear that we have to be at the restaurant for 7pm and give you clear cut directions to the restaurant.
 - 雑な (いい加減な)
   - sloppy
     - The bridge collapsed soon after completion because of the sloppy construction work.
@@ -32,3 +34,8 @@
   - (go | be) over the top
     - I went over the top at my child's sports day.
     - I think painting every wall in the house bright yellow is a bit over the top.
+- めんどくさい
+  - fiddly
+    - He is asking so many questions and it's so fiddly
+  - hassle
+    - What a hassle! I can't even figure out how to answer this question.
