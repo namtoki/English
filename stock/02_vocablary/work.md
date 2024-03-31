@@ -25,6 +25,7 @@
   - take off
     - take off two weeks
     - I'm going to take a week off from work this November. 
+    - take the whole day off
 - 残業する
   - work overtime
 - 遅くまで仕事をする

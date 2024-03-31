@@ -41,6 +41,7 @@
   - Tell me about it.
   - You can say that again.
   - No doubt about it.
+  - You have no idea.
 - いいね
   - Sounds good
   - (That) Sounds like a plan

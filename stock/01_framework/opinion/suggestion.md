@@ -9,6 +9,8 @@
     - Could you say that again?
   - Do you think you could ...
     - Do you think you could talk to her?
+  - I was wondering if ...
+    - I was wondering if you could do me a favor.
 - してくれる？ (しませんか？)
   - Would you like to be my date?
   - Would you like to give a speech?
@@ -28,6 +30,14 @@
 
 ## 提案
 
+- ... しない？ / しましょうか？
+  - (Do you) want to ...
+    - Do you want to get some food first?
+    - Do you want me to bring anything?
+    - You want to come?
+    - Want to get dinner?
+  - Why don't you ...
+    - Why don't you use this?
 -  したほうがいい
   - should ...
     - We should ask first.
