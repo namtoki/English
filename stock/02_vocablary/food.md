@@ -13,10 +13,14 @@
 
 ## 外食
 
-- eat out
-  - Where is your favorite place to eat out?
-- I'll have
-  - I'll have the same as her.
+- 外食する
+  - eat out
+    - Where is your favorite place to eat out?
+- ください
+  - I'll have
+    - I'll have the same as her.
+- 以上です
+  - That's it.
 - おごりです
   - It's on me.
 - おごる

@@ -20,3 +20,8 @@
 - すぐそこの角、目と鼻の先
   - just around the corner
     - The library is just around the corner from the museum.
+
+## ショッピング
+
+- ください
+  - I'll take it.
