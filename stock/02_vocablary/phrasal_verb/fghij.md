@@ -22,6 +22,9 @@
   - (大型 乗る) I got on the train at Shinjuku and got off at Shibuya.
 - get off
   - (大型 降りる) I got off the elevator at the wrong floor.
+- get into
+  - (ハマる) I wanna ask you how you got into whisky.
+  - (習慣化する) I've been thinking about getting into yoga.
 
 ## give
 
@@ -48,3 +51,8 @@
 - hang in
   - Hang in there. ≒ Good luck.
 
+## hold
+
+- hold sth/sb up
+  (遅らせる) The train was held up because of the railroad accident.
+  (時間を取らせる) Sorry for holding you up from going home.
