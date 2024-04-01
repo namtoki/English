@@ -52,6 +52,9 @@
   - out of habit
     - I got the Namboku line out of habit.
     - I got up at 7 out of habit.
+- 激怒して
+  - in a rage
+    - "Turn the faucet off!" mom yelled in a rage.
 
 ## どういう立場で
 

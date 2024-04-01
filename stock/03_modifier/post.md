@@ -12,6 +12,8 @@
 - 念のため
   - just in case
     - I'll write it down just in case.
+  - for a rainy day
+    -I could have laid out all that money on a new PC, but on second thought I decided to put some aside for a rainy day.
 
 ## 比較対象
 

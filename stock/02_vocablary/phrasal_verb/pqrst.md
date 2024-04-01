@@ -11,6 +11,8 @@
   - It is difficult to put on a Kimono.
 - put ... into practice
   - (実行に移す) He came up with an ingenious, sensible solution and immediately put it into practice.
+- put ... aside
+  -(取っておく) I could have laid out all that money on a new PC, but on second thought I decided to put some aside for a rainy day.
 
 ## stand
 

@@ -27,6 +27,8 @@
   - (出版される) An up-to-date edition of the encyclopedia will come out next month.
 - come up with
   - (考え出す) He came up with an ingenious, sensible solution and immediately put it into practice.
+- come to
+  - (合計なる)  I was amazed to see that our utility bills came to so much!
 
 ## cut
 

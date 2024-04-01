@@ -25,6 +25,8 @@
 - get into
   - (ハマる) I wanna ask you how you got into whisky.
   - (習慣化する) I've been thinking about getting into yoga.
+- get rid of
+  - (処分する) I'm getting rid of this leather jacket because it's worn out at the elbows.
 
 ## give
 
