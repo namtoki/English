@@ -1,5 +1,10 @@
 # Phrasal verb (ABCDE)
 
+## bring
+
+- bring about
+  - (もたらす) Medical breakthroughs have brought about great benefits for humanity as a whole.
+
 ## check
 
 - check with

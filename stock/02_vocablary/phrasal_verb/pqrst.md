@@ -12,6 +12,11 @@
 - put ... into practice
   - (実行に移す) He came up with an ingenious, sensible solution and immediately put it into practice.
 
+## stand
+
+- stand on one's own two feet
+  - (自立する) Now that I've found that there's no one to turn to, I'll have to stand on my own two feet.
+
 ## talk
 
 - talk ... into ...ing
@@ -53,4 +58,6 @@
     - (集まる) They turned out on time for the campaign.
   - 他動詞
     - (消す) Please turn out the light.
+- turn to
+  - (頼る) Now that I've found that there's no one to turn to, I'll have to stand on my own two feet.
 

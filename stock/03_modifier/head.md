@@ -56,6 +56,8 @@
     - On the whole, it was a great trip.
   - All things considered
     - All things considered, that was a successful event.
+- 言うまでもないが
+  - It goes without saying that the aging of society is inevitable.
 
 ## 説明
 

@@ -18,6 +18,9 @@
   - an early bird
 - 夜更かしするほう
   - a night owl
+- 癖がある
+  - have a habit of doing
+    - He has a habit of biting his nails.
 
 ## 外的特徴
 

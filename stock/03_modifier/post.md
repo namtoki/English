@@ -9,6 +9,9 @@
   - up-front
     - This hotel requires a cash deposit up-front.
   - in advance
+- 念のため
+  - just in case
+    - I'll write it down just in case.
 
 ## 比較対象
 
