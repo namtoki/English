@@ -62,3 +62,5 @@ sarcasm
 - The new guy in the office talks too much. I can't focus on my work.
 - round out
 - It's raining cats and dogs
+- Oh! I always forget the 'S'!
+- So, I've read somewhere. I don't remember where, but somebody saying that

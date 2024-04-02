@@ -1,0 +1,172 @@
+# Casual
+
+## Beginning
+
+- そうだ！
+  - You know what?
+    - You know what? I'm going to get an ice cream cone.
+- 久しぶり
+  - It's been a while.
+- と言ったと思うんだけど
+  - I told you ..., right?
+    - I told you about my dad, right?
+- 覚えてる？
+  - Do you remember that ... ?
+    - Do you remember that bike at ABC Departmment Store?
+- と記憶しているんだけど
+  - I remember you ...
+    - I remember you went there last year.
+- しようと思っているんだけど
+  - I'm thinking about ...
+    - I'm thinking about retiring and going to Thailand this year.
+- 今日はどうだった？
+  - How's your day going?
+- 頼みがあるの
+  - I'd like to ask you a favor.
+- 聞かせて
+  - Let me ask you ...
+    - Let me ask you something.
+    - Let me ask you your honest opinion.
+- 今いい？
+  - Do you have a minute/second?
+- 大丈夫？
+  - Is everything all right?
+- 今何してんの？
+  - What are you up to?
+
+## Response
+
+- ええと (なんだっけ)
+  - I don't know.
+- ... ってこと？
+  - Do you mean ...?
+    - Do you mean ... you lost?
+- そんなに ...？
+  - that ... ?
+    - Wow! That good?
+- それで十分ですか？
+  - Is that enough?
+- それほんとに必要ですか？
+  - Is that really necessay?
+- 例えば？
+  - Such as?
+- あなたはどう？
+  - How about you?
+    - I've never been to Disney World in Florida. How about you?
+- わからなかった
+  - I couldn't get it.
+- 私もそう
+  - Same here
+- 私もそう思う
+  - I think so too
+- だよね
+  - I know, right?
+- わかる
+  - I've been there.
+- その通りだね
+  - (That's) true
+- 全くその通りだ
+  - Tell me about it.
+- いいね
+  - Sounds good
+  - (That) Sounds like a plan
+- それは大変だったでしょう
+  - That must have been (tough | difficult).
+- 今言おうと思っていた
+  - I was going to say ...
+    - I was going to say we should get the smaller one.
+    - I was going to say! (だよね！)
+- 理解できる
+  - Fair enough (, but と続けば否定的)
+- なるほど
+  - (That) makes sense
+- それは .. だね
+  - That sounds like ... (※ 名詞だから like が必要)
+    - That sounds like a lot of work.
+- いいなぁ
+  - Lucky you!
+- それは鋭い指摘だ
+  - That's a fair point
+- そうしていただけると嬉しい
+  - That would be great.
+- お世辞でも嬉しいです
+  - You flatter me.
+- 気にしないよ
+  - I don't mind.
+- 引き受けた
+  - I'll take care of it.
+- 結構です
+  - No. I'm Okay.
+- やっぱりやめておきます
+  - I'd rather not.
+- まだです
+  - Not yet.
+- やりたいですが、、
+  - I wish I could, but ...
+    - I wish I could, but I have to be out of town.
+- 考えとく
+  - I'll think about it.
+- なんとかなるよ
+  - It's going to be OK.
+- また後で
+  - I'll tell you later.
+  - I'll let you know.
+- ここまでにしましょう
+  - leave it there.
+- その通り
+  - There you go.
+- どういたしまして
+  - My pleasure
+  - You bet
+  - Don't mention it
+  - Anytime
+- 聞けて良かった
+  - Good to know
+
+## Question
+
+- するつもり？
+  - Are you ...ing?
+    - Are you going to Tokyo or New York next week?
+- 知り合いがいますか？
+  - Do you know anyone in New York?
+- いつまでに？
+  - (By) When ... ?
+    - (By) When do I have to finish this?
+- いつぶり？
+  - When was the last time ... ?
+    - When was the last time you talked to him?
+- 今何時？
+  - Do you have the time?
+- どんな, どこの？
+  - What racket do you use?
+- どっちがいい？
+  - Which do you prefer, A or B?
+    - Which do you prefer, going to the movies or watching films at home?
+- どう (思う)？
+  - What do you think about ... ing
+    - What do you think about moving to Osaka?
+  - How do you like ... ?
+    - How do you like your new shoes?
+    - How do you like the soup?
+  - How do you feel about ... ?
+    - How do you feel about the service in Japan?
+- どう～しますか？
+  - How do you pronounce this word?
+  - How do you spell this word?
+  - How do you say ... in English?
+- は ... と同じですか？
+  - Is ... the same as ...?
+- はどういう意味ですか？
+  - What does ... mean?
+- と言えますか？
+  - can you say ... ?
+    - Can you say my goal is becoming a write?
+- と言ったら変ですか？
+  - would it sound a little bit weird if I said ...
+    - Would it sound a little bit weird if I said "My hobby is to take pictures"?
+- どう表現しますか？
+  - how would you say it?
+    - If you were to state your dream, how would you say it?
+  - What's it called?
+  - What's the word for it?

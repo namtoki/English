@@ -1,0 +1,138 @@
+# Casual
+
+## Beginning
+
+- そうだ！
+  - I know!
+    - I know! Let's go bowling.
+- 久しぶり
+  - Hey Bob, long time no see. What's new?
+  - It's been a month since we met the last time.
+  - I haven't seen you in a month.
+- 聞いた？
+  - Did you hear
+    - Did you hear about Kim? She got promoted.
+    - Did you hear about Greg's new job?
+- と聞いています
+  - I understand that ...
+    - I understand that you speak a little English.
+- なんだと思う？
+  - You know what ... ?
+  - Guess what ... ?
+- 考えていたんだけど
+  - I was thinking.
+    - I was thinking. Let's take a short trip.
+    - I was thinking... maybe we could go somewhere else.
+- 聞かせて
+  - Let me ask you ...
+    - Let me ask you something.
+    - Let me ask you your honest opinion.
+- 今いい？
+  - Do you have time?
+  - Can I borrow you for a minute/second?
+  - Is this a good time?
+- どうぞ
+  - Go ahead
+    - Go ahead and use mine.
+    - Go ahead and have a seat.
+  - Here
+    - Here you are.
+    - Here's a little something for you.
+- なんでもないです / 気にしないで
+  - That's OK.
+  - Never mind.
+
+## Response
+
+- ええと (なんだっけ)
+  - Let me see...
+  - It's difficult to say.
+  - what-cha-ma-call-it.
+- ... させるつもり？
+  - Do you want me to ... ?
+    - Do you want me to lose my job?
+- 例えば？
+  - Like what?
+- わからなかった
+  - I couldn't catch you.
+- 私もそう
+  - Me too
+  - So do I
+- 私もそう思う
+  - That's what I think, too.
+  - I know what you mean.
+- わかる
+  - I feel you
+- その通りだね
+  - Exactly
+  - Absolutely
+  - Totally
+- 全くその通りだ
+  - You can say that again.
+  - No doubt about it.
+  - You have no idea.
+- いいね
+  - I love it!
+- ほらね
+  - I told you.
+- わかったよ
+  - I believe you
+- 理解できる
+  - I know what you are saying
+- なるほど
+  - I see (what you mean).
+- やったことあるけど、もういい (飽きた)
+  - Been there done that
+- ありがとう
+  - How kind of you.
+- またかよ！
+  - Not again!
+- もったいない
+  - That's a waste.
+- もちろん
+  - Of course
+  - Sure
+- まぁいいよ
+  - Might as well
+    - Do you want to get some food first? Might as well. It's a long play.
+    - Shall we try that place? Might as well. There aren't many restaurants around here.
+- 引き受けた
+  - I'll get on that.
+  - I'll try.
+  - I'll do my best.
+- 頑張って
+  - Good luck with your speech.
+- ごゆっくり
+  - Take your time.
+- 今手が離せない
+  - I'm in the middle of something.
+- ... 中だから邪魔しないで
+  - I'm trying to ...
+    - Hey, Toshi? I'm trying to work, Emily!
+  - I'm ... ing ... at the moment
+    - Hang on. I'm just finishing up an email at the moment
+- あなたのせいではありません
+  - It's not your fault.
+- 大丈夫だよ
+  - It's OK.
+
+## Question
+
+- どっちがいい？
+  - What's better
+- 書いてもらえますか？
+  - Could you write it down, please?
+- もう一度言ってもらえますか？
+  - Could you repeat that, please?
+  - Could you speak a little slowly, please?
+  - Could you speak more slowly, please?
+  - Could you explain that?
+  - Could you say that more simply, please?
+- これは正しいですか？
+  - is that true?
+    - but is that true?
+- どうすればよいか
+  - what should I do ...
+    - What should I do in a situation like this?
+- 質問してもよろしいでしょうか
+  - Can I ask you a question?
