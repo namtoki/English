@@ -27,6 +27,8 @@
   - (習慣化する) I've been thinking about getting into yoga.
 - get rid of
   - (処分する) I'm getting rid of this leather jacket because it's worn out at the elbows.
+- get the ball rolling
+  - (始める) I'm gonna get the ball rolling on our wedding planning by booking the venue tomorrow.
 
 ## give
 

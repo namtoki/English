@@ -110,6 +110,9 @@
 - やっぱりこれでしょ
   - the only way to ...
     - This is the only way to live.
+- と思うかもしれません
+  - You might wonder ...
+    - You might wonder why that is so.
 
 ## 特定表現
 

@@ -4,6 +4,8 @@
 
 - bring about
   - (もたらす) Medical breakthroughs have brought about great benefits for humanity as a whole.
+- bring up
+  - (話に出す) The comment you made is really spot-on. I'm glad you brought that up.
 
 ## check
 
@@ -36,6 +38,8 @@
   - (減らす) I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis.
 - cut ... off
   - (遮る) The chairman cut me off, saying, "brabrabra."
+- cut corners
+  - (手を抜く) You shouldn't cut corners.
 
 ## drive
 

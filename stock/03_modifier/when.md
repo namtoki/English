@@ -66,6 +66,9 @@
 - この先数年
   - for years to come
     - In all likelihood, the birthrate will continue to decline steadily for years to come.
+- ちょっとしたら
+  - in just a little bit
+    - The ambulance will get here in just a little bit.
 
 ## 期間
 
