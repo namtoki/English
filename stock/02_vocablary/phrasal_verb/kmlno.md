@@ -1,5 +1,10 @@
 # Phrasal verb (KMLNO)
 
+## keep
+
+- keep an eye on
+  - (目を離さない) Can you keep an eye on my kids for a while?
+
 ## kick
 
 - kick out
@@ -28,6 +33,8 @@
   - (理解する) I couldn't make out what you were getting at.
 - make up for
   - (埋め合わせる) Her genius makes up for her lack of firsthand experience.
+- make believe
+  - (ふりをする) When the kids made believe they were dinosaurs, they were scolded by their mother.
 
 ## move
 

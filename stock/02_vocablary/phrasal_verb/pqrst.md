@@ -8,11 +8,13 @@
 ## put
 
 - put on
-  - It is difficult to put on a Kimono.
+  - (着る) It is difficult to put on a Kimono.
 - put ... into practice
   - (実行に移す) He came up with an ingenious, sensible solution and immediately put it into practice.
 - put ... aside
-  -(取っておく) I could have laid out all that money on a new PC, but on second thought I decided to put some aside for a rainy day.
+  - (取っておく) I could have laid out all that money on a new PC, but on second thought I decided to put some aside for a rainy day.
+- put ... away
+  - (片づける) Put this stuff away! It's in the way.
 
 ## stand
 
@@ -47,6 +49,15 @@
 
 - tap into
   - (活用する) I think that taps into the subconscious that we all, kind of, share
+
+## tell
+
+- tell ... off
+  - (説教する) Our neighbor told us off for making a mess in his yard.
+- tell A from B
+  - (区別する) Bob was so beside himself that he could scarcely tell fact from fiction.
+- tell ... apart
+  - (見分ける) Dolly resembles her big sister in every way. You can't tell them apart.
 
 ## turn
 
