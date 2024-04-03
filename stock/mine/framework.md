@@ -1,6 +1,6 @@
 # OPINION
 
-- I feel                        (思う)                          I feel bad about canceling.
+- I feel                        (思う)                          <!-- I feel bad about canceling. -->
 - I believe                     (思う)                          I believe she drives a white truck.
 - I find it ... to do           (思う)                          I find it really interesting to study English
 - It's ... how ...              (思う)                          It's interesting how you said that.
