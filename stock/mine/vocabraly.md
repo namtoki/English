@@ -1,16 +1,10 @@
 # PREPOSITION
 
-- 理由
-- 直接的理由を表す
-  - because + 文
-  - because of + Noun
-- すでに分かっている理由
-  - since
-- 補足的理由
-  - as
-- に関して言うと
-  - About ...
-    - About the food ... it is bad.
+- because + 文          直接的理由
+- because of + Noun     直接的理由
+- since                 すでに分かっている理由
+- as                    補足的理由
+- About                 に関して言うと              About the food ... it is bad.
   - Regarding ...
     - Regarding the subject above
   - (With | In) regard to ...
@@ -27,6 +21,17 @@
   - When it comes to ...
     - When it comes to the weather, there’s nothing I can do.
     - Trust me when it comes to sushi.
+
+# CONJUNCTION
+
+- 次の瞬間
+  - and the next thing I knew
+    - I felt dizzy, and the next thing I knew I was being carried by the ambulance.
+- というのも
+  - The reason being ...
+    - I made the decision not to join the program. The reason being I thought I wasn't ready yet and didn't have the competence enough to do it.
+    - I decided to turn down the job offer. The reason being that, I didn’t want to relocate.
+    - She moved back in with her parents. The reason being that, she wanted to take care of her parents.
 
 # ADVERB 
 
