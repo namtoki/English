@@ -1,5 +1,7 @@
 # Casual
 
+- I can't help it.              (仕方ない)
+- There's nothing we can do about it (仕方ない)
 ## Beginning
 
 - そうだ！

@@ -1,132 +1,50 @@
-# THOUGHT
+# OPINION
 
-- 思う
-  - I believe ...
-    - I believe she drives a white truck.
-  - I find it ... to do
-    - I find it really interesting to study English
-- 感じる
-  - It's ... how ...
-    - It's interesting how you said that.
-    - It's amazing how you did that.
-    - It's amazing how we can work on this project.
-    - It's strange how time flies when we're having fun.
-  - I feel ...
-    - I feel bad about canceling.
-- 気がする
-  - I have a feeling/hunch that ...
-    - I have a feeling that it's gonna be a great event.
-    - I have a hunch that there's more to it.
-  - It seems as if/though ...
-- ようだ
-  - It seems to be ...
-    - It seems to be a good fit for him.
-    - It seems to be broken.
-- ふと思った
-  - It occurs to me that ...
-    - It occurs to me that I've never asked your name.
-- 気分だ
-  - I feel like ...
-    - I feel like Thai food.
-    - I feel like we never talk anymore.
-    - I don't feel like it.
-    - I don't feel like talking right now.
-  - I'm in the mood ...
-    - I'm not in the mood.
-    - I'm in the mood to watch a movie.
-- 信じる
-  - I believe in ...
-    - I don't believe in ghosts.
-- 確信している
-  - be sure that ...
-    - I am sure that I will enjoy the movie.
-    - He is sure that he will pass the exam
-  - be sure of ...
-    - I am sure of enjoying the movie.
-    - He is sure of passing the exam
-  - be sure to ...
-    - You are sure to see many animals there.
-- 慣れる/ている
-  - get/be used to ...
-    - I cook everyday, so I am used to it.
-    - I'm getting used to working with new coworkers here.
-    - My job was pretty difficult at first but now I've gotten used to it, so it is easier to do.
-  - get/be familiar with ...
-    - He got familiar with a new laptop.
-    - I am familiar to him, I've spent time with him for over 10 years.
-- ド忘れした
-  - ... slipped my mind.
-    - Your birthday party completely slipped my mind.
-- 覚えていない
-  - be a blur
-    - Last weekend was a blur. = I don't remember well.
-- が苦手
-  - I'm terrible with ...
-  - I don't care for ...
-    - I don't care for spicy food.
-- 仕方ない
-  - I can't help it.
-  - There's nothing we can do about it.
-- 懐かしい
-  - I remember ...
-    - I remember that trip!
-- 腑に落ちない
-  - (It | Something) doesn't add up.
-    - It doesn't add up at all.
-- だからと言って ... ではない
-  - just because ... doesn't mean ...
-    - Just because he smiles a lot doesn't mean he's kind.
-- による
-  - depends.
-    - It depends.
-    - It depends on the traffic.
-    - It depends on my mood.
-    - It depends on how I feel.
-- までわからない
-  - I won't know until ...
-    - I won't know until Friday.
-    - I won't know until I try.
+- I feel                        (思う)                          I feel bad about canceling.
+- I believe                     (思う)                          I believe she drives a white truck.
+- I find it ... to do           (思う)                          I find it really interesting to study English
+- It's ... how ...              (思う)                          It's interesting how you said that.
+- I have a feeling/hunch that   (気がする)                      I have a hunch that there's more to it.
+- It seems as if/though         (ようだ)
+- It seems to be ...            (ようだ)                        It seems to be broken.
+- It occurs to me that ...      (ふと思った)                    It occurs to me that I've never asked your name.
+- I feel like ...               (気分だ)                        I feel like Thai food. I don't feel like it.
+- I'm in the mood ...           (気分だ)                        I'm not in the mood. I'm in the mood to watch a movie.
+- I believe in ...              (信じる)                        I don't believe in ghosts.
+- be sure that ...              (確信している)                  I am sure that I will enjoy the movie.
+- be sure of ...                (確信している)                  I am sure of enjoying the movie.
+- be sure to ...                (きっと)                        You are sure to see many animals there.
+- just because ... doesn't mean (だからと言って ... ではない)   Just because he smiles a lot doesn't mean he's kind.
+- It depends                    (による)                        It depends. It depends on the traffic. It depends on how I feel.
+- I won't know until ...        (までわからない)                I won't know until Friday.
 
-# HAVE TO
+# STATUS
 
-- しなくちゃ
-  - I need to ...
-    - I need to get back to the office.
-  - I have to ...
-    - I have to go home.
-  - I gotta ...
-    - I gotta go.
-- するかも
-  - I might ...
-    - I might finish early tonight.
-- してもいい
-  - might as well ...
-    - We might as well walk there.
-    - They may just as well be married since they've been living together for years.
-    - Come on now, you may as well tell us.
-    - The guy I'm playing is a really good golfer? Well, I may as well give up before I start. (仕方ない)
-- どうでもよい
-  - It doesn't matter.
-    - It doesn't matter. I quit.
-- どっちでもよい
-  - It doesn't matter.
-    - It doesn't matter. They're both great.
-    - Which train do we need to take? It doesn't matter. They all go to Central Station.
+- get/be used to ...            (慣れる/ている) I'm getting used to working with new coworkers here.
+- get/be familiar with ...      (慣れる/ている) He got familiar with a new laptop.
+- slipped my mind               (ド忘れした)    Your birthday party completely slipped my mind.
+- be a blur                     (覚えていない)  Last weekend was a blur.
 
-# SUGGESTION
+# FEELING
 
-- まででいいですよ
-  - it can wait until ...
-    - Is this job urgent? No, it can wait until tomorrow.
-- はどう？
-  - How about ...?
-    - How about sending flowers?
-- 後悔するよ
-  - You'll be sorry
-    - You'll be sorry if you don't finish it today.
-- やるしかない
-  - the only way to ...
-    - The only way to get to karaoke is to keep working. (やるしかない)
+- I'm terrible with             (苦手)
+- I don't care for              (苦手)              I don't care for spicy food.
+- I remember                    (懐かしい)          I remember that trip!
+- It/Something doesn't add up   (腑に落ちない)      It doesn't add up at all.
+- might as well ...             (してもいい)        We might as well walk there.
+- It doesn't matter             (どうでもよい)      It doesn't matter. I quit.
+- It doesn't matter.            (どっちでもよい)    It doesn't matter. They're both great.
+- I need to                     (しなくちゃ)        I need to get back to the office.
+- I have to                     (しなくちゃ)        I have to go home.
+- I gotta                       (しなくちゃ)        I gotta go.
+- I might                       (するかも)          I might finish early tonight.
+
+# SUGGESTION / ADVICE
+
+- it can wait until             (まででいい)        Is this job urgent? No, it can wait until tomorrow.
+- How about ...?                (はどう？)          How about sending flowers?
+- You'll be sorry               (後悔するよ)        You'll be sorry if you don't finish it today.
+- the only way to               (やるしかない)      The only way to get to karaoke is to keep working.
 - ... しない？ / しましょうか？
   - (Do you) want to ...
     - Do you want to get some food first?

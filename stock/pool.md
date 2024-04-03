@@ -1,6 +1,4 @@
-# Pool
-
-## プール
+# TODO
 
 fine/sick
 shocked
@@ -15,7 +13,7 @@ We aren't very close with our in-laws.
 I get angry at myself.
 sarcasm
 
-## 分類できないけど残しておく
+# POOL
 
 - My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just took it easy.
 - India is so polluted.
@@ -64,3 +62,8 @@ sarcasm
 - It's raining cats and dogs
 - Oh! I always forget the 'S'!
 - So, I've read somewhere. I don't remember where, but somebody saying that
+- They may just as well be married since they've been living together for years.
+- Come on now, you may as well tell us.
+- The guy I'm playing is a really good golfer? Well, I may as well give up before I start. (仕方ない)
+- Which train do we need to take? It doesn't matter. They all go to Central Station.
+- I won't know until I try.
