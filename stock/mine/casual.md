@@ -33,6 +33,11 @@
   - Is everything all right?
 - 今何してんの？
   - What are you up to?
+- 誤解しないでね
+  - Don't get me wrong.
+- と思うかもしれません
+  - You might wonder ...
+    - You might wonder why that is so.
 
 ## Response
 
@@ -122,6 +127,8 @@
   - Anytime
 - 聞けて良かった
   - Good to know
+- 好きなほうでいいですよ
+  - It's up to you.
 
 ## Question
 

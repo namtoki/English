@@ -115,6 +115,8 @@
   - It's not your fault.
 - 大丈夫だよ
   - It's OK.
+- なんでもいいよ
+  - You name it.
 
 ## Question
 

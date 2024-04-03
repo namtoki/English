@@ -1,6 +1,174 @@
-# Framework
+# THOUGHT
 
-## Tense
+- 思う
+  - I believe ...
+    - I believe she drives a white truck.
+  - I find it ... to do
+    - I find it really interesting to study English
+- 感じる
+  - It's ... how ...
+    - It's interesting how you said that.
+    - It's amazing how you did that.
+    - It's amazing how we can work on this project.
+    - It's strange how time flies when we're having fun.
+  - I feel ...
+    - I feel bad about canceling.
+- 気がする
+  - I have a feeling/hunch that ...
+    - I have a feeling that it's gonna be a great event.
+    - I have a hunch that there's more to it.
+  - It seems as if/though ...
+- ようだ
+  - It seems to be ...
+    - It seems to be a good fit for him.
+    - It seems to be broken.
+- ふと思った
+  - It occurs to me that ...
+    - It occurs to me that I've never asked your name.
+- 気分だ
+  - I feel like ...
+    - I feel like Thai food.
+    - I feel like we never talk anymore.
+    - I don't feel like it.
+    - I don't feel like talking right now.
+  - I'm in the mood ...
+    - I'm not in the mood.
+    - I'm in the mood to watch a movie.
+- 信じる
+  - I believe in ...
+    - I don't believe in ghosts.
+- 確信している
+  - be sure that ...
+    - I am sure that I will enjoy the movie.
+    - He is sure that he will pass the exam
+  - be sure of ...
+    - I am sure of enjoying the movie.
+    - He is sure of passing the exam
+  - be sure to ...
+    - You are sure to see many animals there.
+- 慣れる/ている
+  - get/be used to ...
+    - I cook everyday, so I am used to it.
+    - I'm getting used to working with new coworkers here.
+    - My job was pretty difficult at first but now I've gotten used to it, so it is easier to do.
+  - get/be familiar with ...
+    - He got familiar with a new laptop.
+    - I am familiar to him, I've spent time with him for over 10 years.
+- ド忘れした
+  - ... slipped my mind.
+    - Your birthday party completely slipped my mind.
+- 覚えていない
+  - be a blur
+    - Last weekend was a blur. = I don't remember well.
+- が苦手
+  - I'm terrible with ...
+  - I don't care for ...
+    - I don't care for spicy food.
+- 仕方ない
+  - I can't help it.
+  - There's nothing we can do about it.
+- 懐かしい
+  - I remember ...
+    - I remember that trip!
+- 腑に落ちない
+  - (It | Something) doesn't add up.
+    - It doesn't add up at all.
+- だからと言って ... ではない
+  - just because ... doesn't mean ...
+    - Just because he smiles a lot doesn't mean he's kind.
+- による
+  - depends.
+    - It depends.
+    - It depends on the traffic.
+    - It depends on my mood.
+    - It depends on how I feel.
+- までわからない
+  - I won't know until ...
+    - I won't know until Friday.
+    - I won't know until I try.
+
+# HAVE TO
+
+- しなくちゃ
+  - I need to ...
+    - I need to get back to the office.
+  - I have to ...
+    - I have to go home.
+  - I gotta ...
+    - I gotta go.
+- するかも
+  - I might ...
+    - I might finish early tonight.
+- してもいい
+  - might as well ...
+    - We might as well walk there.
+    - They may just as well be married since they've been living together for years.
+    - Come on now, you may as well tell us.
+    - The guy I'm playing is a really good golfer? Well, I may as well give up before I start. (仕方ない)
+- どうでもよい
+  - It doesn't matter.
+    - It doesn't matter. I quit.
+- どっちでもよい
+  - It doesn't matter.
+    - It doesn't matter. They're both great.
+    - Which train do we need to take? It doesn't matter. They all go to Central Station.
+
+# SUGGESTION
+
+- まででいいですよ
+  - it can wait until ...
+    - Is this job urgent? No, it can wait until tomorrow.
+- はどう？
+  - How about ...?
+    - How about sending flowers?
+- 後悔するよ
+  - You'll be sorry
+    - You'll be sorry if you don't finish it today.
+- やるしかない
+  - the only way to ...
+    - The only way to get to karaoke is to keep working. (やるしかない)
+- ... しない？ / しましょうか？
+  - (Do you) want to ...
+    - Do you want to get some food first?
+    - Do you want me to bring anything?
+    - You want to come?
+    - Want to get dinner?
+  - Why don't you ...
+    - Why don't you use this?
+-  したほうがいい
+  - should ...
+    - We should ask first.
+  - you (might) want to ...
+    - You want to pull your fingers in like this.
+    - You might want to change your plans.
+    - You might want to make a reservation. It’s always crowded there.
+  - you're gonna have to ...
+    - If you want us to understand what you are saying, you're gonna have to articulate a little bit better.
+  - would be better if ...
+    - Would it be better if I got wet?
+- はいかが？
+  - Would you like some ...
+    - Would you like some company?
+    - Would you like some more?
+- してもいい？
+  - May I ...
+    - May I have a receipt?
+    - May I sit here?
+  - Do you think I could ...
+    - Do you think I could get your number?
+  - Is it OK if ...
+    - Is it OK if I park here?
+  - Would you mind ... ing?
+    - Would you mind doing that?
+- でも大丈夫
+  - you can still ...
+    - but you can still even with this one say my job is to take pictures of flowers
+- のほうがいい
+  - better off ...
+    - You're better off starting from the beginning than trying to find out where you went wrong.
+    - The team was better off without their coach.
+
+# TENSE
 
 - かつては ... だった
   - used to ...
@@ -22,7 +190,7 @@
     - I'm not supposed to be here.
     - You were supposed to do the dishes tonight.
 
-## Subjunction
+# SUBJUNCTION
 
 - そうなったら .. と思う
   - ... woulld ...
@@ -46,13 +214,13 @@
     - I hope so.
     - I hope not.
 
-## Question
+# QUESTION
 
 - ... 点質問があります
   - I've got ... questions
     - So today I've got a couple of questions.
 
-## Correction
+# CORRECTION
 
 - 言おうとしていたこと
   - mean/meant
@@ -70,7 +238,7 @@
   - I'm just trying to ...
     - I'm just trying to explain what happened.
 
-## Fact
+# FACT
 
 - ... かかる
   - It takes ...
@@ -82,4 +250,3 @@
     - It's been a while since I've swung a tennis racket.
   - for the first time in ...
     - I'm going to Hawaii for the first time in 1 year.
-
