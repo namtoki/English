@@ -41,21 +41,13 @@
 
 # SUGGESTION / ADVICE
 
+- should                        (したほうがいい)    <!-- We should ask first. -->
+- (Do you) want to              (しない？ / しましょうか？) <!-- Do you want to get some food first? Want to get dinner? -->
+- Why don't you                 (しようよ)          <!-- Why don't you use this? -->
 - it can wait until             (まででいい)        <!-- Is this job urgent? No, it can wait until tomorrow. -->
 - How about ...?                (はどう？)          <!-- How about sending flowers? -->
 - You'll be sorry               (後悔するよ)        <!-- You'll be sorry if you don't finish it today. -->
 - the only way to               (やるしかない)      <!-- The only way to get to karaoke is to keep working. -->
-- ... しない？ / しましょうか？
-  - (Do you) want to ...
-    - Do you want to get some food first?
-    - Do you want me to bring anything?
-    - You want to come?
-    - Want to get dinner?
-  - Why don't you ...
-    - Why don't you use this?
--  したほうがいい
-  - should ...
-    - We should ask first.
   - you (might) want to ...
     - You want to pull your fingers in like this.
     - You might want to change your plans.

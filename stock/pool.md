@@ -67,3 +67,5 @@ sarcasm
 - The guy I'm playing is a really good golfer? Well, I may as well give up before I start. (仕方ない)
 - Which train do we need to take? It doesn't matter. They all go to Central Station.
 - I won't know until I try.
+- Do you want me to bring anything?
+- You want to come?
