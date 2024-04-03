@@ -1,5 +1,6 @@
 # PREPOSITION
 
+- 理由
 - 直接的理由を表す
   - because + 文
   - because of + Noun
@@ -7,6 +8,25 @@
   - since
 - 補足的理由
   - as
+- に関して言うと
+  - About ...
+    - About the food ... it is bad.
+  - Regarding ...
+    - Regarding the subject above
+  - (With | In) regard to ...
+    - With regard to the notes below
+    - In regard to our official comments
+  - Concerning
+    - concerning the changes that were recently made
+  - As for (人 or 物)
+    - As for the cost per person
+  - As to 物
+    - As to your request, we refunded your money to your account.
+    - I want to have a discussion as to which university is the best university.
+  - In terms of ...
+  - When it comes to ...
+    - When it comes to the weather, there’s nothing I can do.
+    - Trust me when it comes to sushi.
 
 # ADVERB 
 
@@ -14,16 +34,6 @@
   - ... there
     - up there
     - down there
-- 考え方によっては
-  - if you think about it.
-    - We're just tiny specks in the universe if you think about it.
-    - It's crazy how we can communicate like this if you think about it.
-- むしろ、どちらかといえば
-  - if anything
-    - For years the press overlooked the problem. But now, if anything, they are making too much of it.
-- とりあえあず
-  - for the moment
-    - I will make it do for the moment.
 
 # ADJECTIVE 
 
