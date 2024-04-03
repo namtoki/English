@@ -31,6 +31,7 @@
   - (考え出す) He came up with an ingenious, sensible solution and immediately put it into practice.
 - come to
   - (合計なる)  I was amazed to see that our utility bills came to so much!
+  - (意識回復)  <!-- He fainted with hunger and farigue, but came to after a while. -->
 - come after
   - (文章が続く) what comes after that has to be -ing like "My hobby is taking pictures."
 

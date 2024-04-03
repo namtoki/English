@@ -26,6 +26,8 @@
 - down there            (下のほうで)
 - if you think about it (考え方によっては)  <!-- It's crazy how we can communicate like this if you think about it. -->
 - for the moment        (とりあえあず)      <!-- I will make it do for the moment. -->
+- after a while         (しばらくして)      <!-- He fainted with hunger and fatigue, but came to after a while. -->
+- except for            (を除いて)          <!-- The auditorium was empty except for a single piece of furniture. -->
 
 # ADJECTIVE 
 

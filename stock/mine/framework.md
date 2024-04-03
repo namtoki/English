@@ -17,6 +17,7 @@
 - just because ... doesn't mean (だからと言って ... ではない)   <!-- Just because he smiles a lot doesn't mean he's kind. -->
 - It depends                    (による)                        <!-- It depends. It depends on the traffic. It depends on how I feel. -->
 - I won't know until ...        (までわからない)                <!-- I won't know until Friday. -->
+- any ... will do as long as .. (である限り大丈夫)              <!-- Any apartment will do as long as the rent is low. -->
 
 # STATUS
 
@@ -24,6 +25,7 @@
 - get/be familiar with ...      (慣れる/ている) <!-- He got familiar with a new laptop. -->
 - slipped my mind               (ド忘れした)    <!-- Your birthday party completely slipped my mind. -->
 - be a blur                     (覚えていない)  <!-- Last weekend was a blur. -->
+- I'm not particular about it.  (こだわりはない)
 
 # FEELING
 
@@ -38,6 +40,7 @@
 - I have to                     (しなくちゃ)        <!-- I have to go home. -->
 - I gotta                       (しなくちゃ)        <!-- I gotta go. -->
 - I might                       (するかも)          <!-- I might finish early tonight. -->
+- It's pleasant.                (心地よい)          <!-- My favorite pastime is strolling along the shore. It's pleasant. -->
 
 # SUGGESTION / ADVICE
 

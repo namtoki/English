@@ -41,12 +41,13 @@
 - ... とか
   - ... like
     - Things like party hats, paper plates and napkins.
-  - ... (some)things like that
+  - ... (some)things/stuff like that
     - He doesn't like (some)things like that.
     - I think he's learning Spanish or something like that, if that makes sense.
   - ... or whatever
     - I'm just going to read a book or whatever.
     - She can gossip about me or whatever. (どうでもよいけど)
+and so on (など) I'm tired of doing the dished, doing the laundry, and so on!
 
 ## ぼやかす
 
