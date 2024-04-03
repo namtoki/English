@@ -1,50 +1,50 @@
 # OPINION
 
 - I feel                        (思う)                          <!-- I feel bad about canceling. -->
-- I believe                     (思う)                          I believe she drives a white truck.
-- I find it ... to do           (思う)                          I find it really interesting to study English
-- It's ... how ...              (思う)                          It's interesting how you said that.
-- I have a feeling/hunch that   (気がする)                      I have a hunch that there's more to it.
+- I believe                     (思う)                          <!-- I believe she drives a white truck. -->
+- I find it ... to do           (思う)                          <!-- I find it really interesting to study English -->
+- It's ... how ...              (思う)                          <!-- It's interesting how you said that. -->
+- I have a feeling/hunch that   (気がする)                      <!-- I have a hunch that there's more to it. -->
 - It seems as if/though         (ようだ)
-- It seems to be ...            (ようだ)                        It seems to be broken.
-- It occurs to me that ...      (ふと思った)                    It occurs to me that I've never asked your name.
-- I feel like ...               (気分だ)                        I feel like Thai food. I don't feel like it.
-- I'm in the mood ...           (気分だ)                        I'm not in the mood. I'm in the mood to watch a movie.
-- I believe in ...              (信じる)                        I don't believe in ghosts.
-- be sure that ...              (確信している)                  I am sure that I will enjoy the movie.
-- be sure of ...                (確信している)                  I am sure of enjoying the movie.
-- be sure to ...                (きっと)                        You are sure to see many animals there.
-- just because ... doesn't mean (だからと言って ... ではない)   Just because he smiles a lot doesn't mean he's kind.
-- It depends                    (による)                        It depends. It depends on the traffic. It depends on how I feel.
-- I won't know until ...        (までわからない)                I won't know until Friday.
+- It seems to be ...            (ようだ)                        <!-- It seems to be broken. -->
+- It occurs to me that ...      (ふと思った)                    <!-- It occurs to me that I've never asked your name. -->
+- I feel like ...               (気分だ)                        <!-- I feel like Thai food. I don't feel like it. -->
+- I'm in the mood ...           (気分だ)                        <!-- I'm not in the mood. I'm in the mood to watch a movie. -->
+- I believe in ...              (信じる)                        <!-- I don't believe in ghosts. -->
+- be sure that ...              (確信している)                  <!-- I am sure that I will enjoy the movie. -->
+- be sure of ...                (確信している)                  <!-- I am sure of enjoying the movie. -->
+- be sure to ...                (きっと)                        <!-- You are sure to see many animals there. -->
+- just because ... doesn't mean (だからと言って ... ではない)   <!-- Just because he smiles a lot doesn't mean he's kind. -->
+- It depends                    (による)                        <!-- It depends. It depends on the traffic. It depends on how I feel. -->
+- I won't know until ...        (までわからない)                <!-- I won't know until Friday. -->
 
 # STATUS
 
-- get/be used to ...            (慣れる/ている) I'm getting used to working with new coworkers here.
-- get/be familiar with ...      (慣れる/ている) He got familiar with a new laptop.
-- slipped my mind               (ド忘れした)    Your birthday party completely slipped my mind.
-- be a blur                     (覚えていない)  Last weekend was a blur.
+- get/be used to ...            (慣れる/ている) <!-- I'm getting used to working with new coworkers here. -->
+- get/be familiar with ...      (慣れる/ている) <!-- He got familiar with a new laptop. -->
+- slipped my mind               (ド忘れした)    <!-- Your birthday party completely slipped my mind. -->
+- be a blur                     (覚えていない)  <!-- Last weekend was a blur. -->
 
 # FEELING
 
 - I'm terrible with             (苦手)
-- I don't care for              (苦手)              I don't care for spicy food.
-- I remember                    (懐かしい)          I remember that trip!
-- It/Something doesn't add up   (腑に落ちない)      It doesn't add up at all.
-- might as well ...             (してもいい)        We might as well walk there.
-- It doesn't matter             (どうでもよい)      It doesn't matter. I quit.
-- It doesn't matter.            (どっちでもよい)    It doesn't matter. They're both great.
-- I need to                     (しなくちゃ)        I need to get back to the office.
-- I have to                     (しなくちゃ)        I have to go home.
-- I gotta                       (しなくちゃ)        I gotta go.
-- I might                       (するかも)          I might finish early tonight.
+- I don't care for              (苦手)              <!-- I don't care for spicy food. -->
+- I remember                    (懐かしい)          <!-- I remember that trip! -->
+- It/Something doesn't add up   (腑に落ちない)      <!-- It doesn't add up at all. -->
+- might as well ...             (してもいい)        <!-- We might as well walk there. -->
+- It doesn't matter             (どうでもよい)      <!-- It doesn't matter. I quit. -->
+- It doesn't matter.            (どっちでもよい)    <!-- It doesn't matter. They're both great. -->
+- I need to                     (しなくちゃ)        <!-- I need to get back to the office. -->
+- I have to                     (しなくちゃ)        <!-- I have to go home. -->
+- I gotta                       (しなくちゃ)        <!-- I gotta go. -->
+- I might                       (するかも)          <!-- I might finish early tonight. -->
 
 # SUGGESTION / ADVICE
 
-- it can wait until             (まででいい)        Is this job urgent? No, it can wait until tomorrow.
-- How about ...?                (はどう？)          How about sending flowers?
-- You'll be sorry               (後悔するよ)        You'll be sorry if you don't finish it today.
-- the only way to               (やるしかない)      The only way to get to karaoke is to keep working.
+- it can wait until             (まででいい)        <!-- Is this job urgent? No, it can wait until tomorrow. -->
+- How about ...?                (はどう？)          <!-- How about sending flowers? -->
+- You'll be sorry               (後悔するよ)        <!-- You'll be sorry if you don't finish it today. -->
+- the only way to               (やるしかない)      <!-- The only way to get to karaoke is to keep working. -->
 - ... しない？ / しましょうか？
   - (Do you) want to ...
     - Do you want to get some food first?
