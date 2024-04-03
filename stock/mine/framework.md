@@ -240,13 +240,39 @@
 
 # FACT
 
-- ... かかる
+- かかる
   - It takes ...
     - It takes her 25minutes to walk to work.
     - It takes 9 hours to San Francisco from Tokyo.
     - It takes him about an hour to get ready for work.
-- ... ぶりだ
+- ぶりだ
   - It's been (a long time / a while / ages) since ...
     - It's been a while since I've swung a tennis racket.
   - for the first time in ...
     - I'm going to Hawaii for the first time in 1 year.
+- 今や
+  - Now that ...
+    - Now that things are better, we should talk about the problem.
+    - Now that I've found that there's no one to turn to, I'll have to stand on my own feet.
+- みんな ... してる
+  - Everyone ...
+    - Everyone does it.
+
+# TAG
+
+- 伝わった？
+  - if that makes sense?
+    - Well, it sounded a little bit British, but at the same time, maybe a bit Australian, if that makes sense.
+    - I want something cold, but at the same time, you know, maybe warmish if that makes sense.
+  - you know what I mean?
+    - I think YouTube is getting more and more competitive, you know what I mean?
+    - At the end of the day, whether or not you should study English is completely up to you. You know what I mean?
+- ここまで来たら
+  - ... at this point
+    - I'm ready to quit at this point.
+- それとも違う？
+  - ... , or not really?
+    - Do you like this kind of music, or not really?
+    - Is this what you're looking for, or not really?
+  - ... or what?
+    - Are we gonna have fun or what?
