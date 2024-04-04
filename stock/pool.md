@@ -115,3 +115,12 @@ sarcasm
 - How kind of you.
 - Do you want to get some food first? Might as well. It's a long play.
 - Shall we try that place? Might as well. There aren't many restaurants around here.
+- He's a genius, in a way.
+- In a sense, he is to blame for the disaster.
+- I got up at 7 out of habit.
+- Your daddy's not that strong.
+- I didn't think it was that difficult.
+- I'm kind of sleepy.
+- She is kind of rude.
+- It was kind of ... confusing.
+- I don't want to do this for the rest of my life.

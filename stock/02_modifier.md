@@ -24,6 +24,12 @@
 - almost all                    (ほぼすべての)          <!-- almost all Japanese -->
 - most                          (ほとんどの)            <!-- most people like it. -->
 - everyone                      (みんな ... してる)     <!-- Everyone does it. -->
+- in every way                  (すべてにおいて)        <!-- That movie was perfect in every way. -->
+- all kinds of ...              (すべての)              <!-- I've been eating all kinds of things. -->
+- everything about ...          (すべての)              <!-- He knows everything about movies. -->
+- some kinds of ...             (数種の)                <!-- amplify the effects of some kinds of pollution -->
+- many different kinds of ...   (数種の)                <!-- there are many different kinds of stores. -->
+- the rest of ...               (残りの)                <!-- You can have the rest of them. -->
 ## TIME
 - so far                        (今のところは)          <!-- So far I’m having a blast. The town is wonderful. -->
 - for the moment                (とりあえあず)          <!-- I will make it do for the moment. -->
@@ -37,6 +43,16 @@
 - with                          (があれば)              <!-- With a little luck, we can still make it. -->
 - (Let's) Say                   (とします)              <!-- Say I invest a hundred dollars now, how much will I ... -->
 
+# EMPHASIS / ROUGH
+- Such a                        (まさしく)              <!-- That was such a fun day. / You are such a pro. -->
+- that                          (そんなに)              <!-- I guess it wasn't that important. -->
+- next to ...                   (ほとんど ... ない)     <!-- I know next to nothing about it. -->
+- high-key                      (本当に)                <!-- I high-key cannot stand when my roommate sings in the shower. -->
+- like ...                      (約)                    <!-- There were only like thirty people there. -->
+- kind of ...                   (なんとなく少し)        <!-- I'm kind of hungry. -->
+- low-key ...                   (なんとなく少し)        <!-- I’m low-key in love with my study partner’s new cologne. -->
+- some kind of ...              (なにか)                <!-- born with some kind of special talent. / some kind of sport -->
+
 # SUPPLEMENT
 ## REASON
 - because + 文                  (直接的理由)
@@ -48,7 +64,6 @@
 - owing to                      (形式的な理由 / 文頭)   <!-- Owing to illness, some representatives were absent from ... -->
 - on account of                 (困難や問題などの理由)  <!-- Our flight to Vienna was delayed on account of a minor accident. -->
 - thanks to                     (良い理由 / 文頭)
-
 ## CONCLUSION
 - simply put                    (簡単に言うと)          <!-- Simply put, he doesn't like sports. -->
 - in a nutshell                 (要約すると)            <!-- That's it in a nutshell. -->
@@ -59,6 +74,28 @@
 - in that case                  (だったら)              <!-- In that case, I’ll have a beer. -->
 - in which case                 (この場合 文語)
 - except for                    (を除いて)              <!-- The auditorium was empty except for a single piece of furniture. -->
+## EXTENT
+- some more                     (もう少し)              <!-- I'll think about it some more. -->
+- to the point where ...        (くらいまで)            <!-- I studied English so much to the point where my dream started being in English. -->
+- about / around                (だいたい)
+- approximately                 (だいたい)
+- roughly                       (だいたい)
+- more or less                  (だいたい)              <!-- Your pronunciation is more or less correct. -->
+- pretty much                   (だいたい)              <!-- This is pretty much done. -->
+- in a (way | sense)            (ある意味)              <!-- Yep, in a way. -->
+- somewhat                      (ある程度, いくらか)    <!-- Strictly speaking, his view differs somewhat from mine. -->
+- to (a certain | some) extent  (ある程度, いくらか)    <!-- In any case, the union has to compromise to a certain extent. -->
+- to my shoulders               (肩まで)                <!-- I entered the Ghanges river to my shoulders. -->
+## HOW
+- on impulse                    (衝動的に)              <!-- I'm apt to buy things on impulse whenever something is on sale. -->
+- in a row                      (連続して)              <!-- As we anticipated, the unemployment rate has risen three quarters in a row. -->
+- on purpose                    (わざと)                <!-- He made a mistake on purpose. -->
+- purposely                     (わざと)                <!-- He purposely didn't say anything. -->
+- out of habit                  (くせで)                <!-- I got the Namboku line out of habit. -->
+- in a rage                     (激怒して)              <!-- "Turn the faucet off!" mom yelled in a rage. -->
+- on behalf of ...              (代表して)              <!-- On behalf of all staff, I'd like to express our sympathy for the victims. -->
+- on behalf of ...              (の代わりに)            <!-- I thank you on behalf of my husband. -->
+- in place of ...               (の代わりに)            <!-- I used Knox’s PC in place of mine today. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->
