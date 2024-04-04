@@ -69,3 +69,27 @@ sarcasm
 - I won't know until I try.
 - Do you want me to bring anything?
 - You want to come?
+- The fact is that I don't know.
+- Well, it sounded a little bit British, but at the same time, maybe a bit Australian, if that makes sense.
+- At the end of the day, whether or not you should study English is completely up to you. You know what I mean?
+- Is this what you're looking for, or not really?
+- You might want to change your plans.
+- You might want to make a reservation. It’s always crowded there.
+- Would you like some company?
+- May I have a receipt?
+- The team was better off without their coach.
+- I used to watch it all the time with my parents.
+- My wife used to be a junior high school teacher.
+- It's supposed to snow tonight.
+- I'm not supposed to be here.
+- You were supposed to do the dishes tonight.
+- I wish I were better at speaking English.
+- I hope we are on time.
+- I hope so.
+- I hope not.
+- It's not that I like Joe. I just want to be on YouTube a lot.
+- It's not that I don't like you. I just don't have the time now.
+- It takes 9 hours to San Francisco from Tokyo.
+- It takes him about an hour to get ready for work.
+- Now that I've found that there's no one to turn to, I'll have to stand on my own feet.
+- That's not what I meant.

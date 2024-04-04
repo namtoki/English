@@ -1,35 +1,76 @@
-# PREPOSITION
+# FOCUS
+## TOPIC
+- about                     (に関して言うと)    <!-- About the food ... it is bad. -->
+- regarding                 (に関して言うと)    <!-- Regarding the subject above -->
+- with/in regard to         (に関して言うと)    <!-- With regard to the notes below -->
+- concerning                (に関して言うと)    <!-- concerning the changes that were recently made -->
+- as for 人/物              (に関して言うと)    <!-- As for the cost per person -->
+- as for me                 (自分の意見としては)<!-- As for me, I agree with his opinion. -->
+- as to 物                  (に関して言うと)    <!-- discussion as to which university is the best university. -->
+- in terms of               (に関して言うと)
+- when it comes to          (となると)          <!-- When it comes to the weather, there’s nothing I can do. -->
+- speaking of               (そういえば)        <!-- Speaking of summer, where did you go this year? -->
+- talking of                (そういえば)        <!-- Talking of soccer, Did you watch the game yesterday? -->
+- personally, in my opinion (自分の意見としては)
+- honestly                  (自分の意見としては)
+- from my point of view     (自分の意見としては)
+- like/as I was saying      (さっき言ったように)<!-- Sorry. As I was saying, the acting was amazing. -->
+- like/as you said          (あなたが言った通り)
+- going back to             (に戻ると)          <!-- Going back to your question, my answer is no. -->
+- to begin with             (まず第一に)        <!-- To begin with, its theme is obscure. -->
+## RANGE
+- on the whole              (全体的にみると)    <!-- On the whole, it was a great trip. -->
+- all things considered     (全体的にみると)    <!-- All things considered, that was a successful event. -->
+- almost all                (ほぼすべての)      <!-- almost all Japanese -->
+- most                      (ほとんどの)        <!-- most people like it. -->
+- everyone                  (みんな ... してる) <!-- Everyone does it. -->
+## TIME
+- so far                    (今のところは)      <!-- So far I’m having a blast. The town is wonderful. -->
+- for the moment            (とりあえあず)      <!-- I will make it do for the moment. -->
+- after a while             (しばらくして)      <!-- He fainted with hunger and fatigue, but came to after a while. -->
+- now that                  (今や)              <!-- Now that things are better, we should talk about the problem. -->
+- for the first time in     (ぶりに)            <!-- I'm going to Hawaii for the first time in 1 year. -->
+## LOCATION
+- up there                  (上のほうで)
+- down there                (下のほうで)
+## SUBJUNCTION
+- with                      (があれば)          <!-- With a little luck, we can still make it. -->
+- (Let's) Say               (とします)          <!-- Say I invest a hundred dollars now, how much will I be able to make in a year? -->
 
-- because + 文          (直接的理由)
-- because of + Noun     (直接的理由)
-- since                 (すでに分かっている理由)
-- as                    (補足的理由)
-- about                 (に関して言うと)            <!-- About the food ... it is bad. -->
-- regarding             (に関して言うと)            <!-- Regarding the subject above -->
-- with/in regard to     (に関して言うと)            <!-- With regard to the notes below -->
-- concerning            (に関して言うと)            <!-- concerning the changes that were recently made -->
-- As for 人/物          (に関して言うと)            <!-- As for the cost per person -->
-- As to 物              (に関して言うと)            <!-- discussion as to which university is the best university. -->
-- In terms of           (に関して言うと)
-- When it comes to      (となると)                  <!-- When it comes to the weather, there’s nothing I can do. -->
+# SUPPLEMENT
+## REASON
+- because + 文              (直接的理由)
+- because of + Noun         (直接的理由)
+- since                     (既出の理由)
+- as                        (補足的理由)
+- the reason being          (というのも)        <!-- I decided to turn down the job offer. The reason being that, I didn’t want to ... -->
+## CONCLUSION
+- simply put                (簡単に言うと)      <!-- Simply put, he doesn't like sports. -->
+## ADDITION
+- but at the same time      (と同時にですね)    <!-- Working from home is great. Yeah, but at the same time, it's king of inconvenient. -->
+- whereas                   (一方で)            <!-- He likes learning from textbooks, whereas I like learning on the job. -->
+- and the next thing I knew (次の瞬間)          <!-- I felt dizzy, and the next thing, I knew I was being carried by the ambulance. -->
+- in that case              (だったら)          <!-- In that case, I’ll have a beer. -->
+- in which case             (この場合 文語)
+- except for                (を除いて)          <!-- The auditorium was empty except for a single piece of furniture. -->
 
-# CONJUNCTION
+# FEELING
+- it goes without saying    (言うまでもないが)  <!-- It goes without saying that the aging of society is inevitable. -->
+- this might be just me     (自分だけかもやけど)<!-- This might be just me, but don't you think this is a bit too expensive? -->
+- if you ask me             (私に言わせてみれば)<!-- It was a little long, if you ask me. -->
+- as ... anticipated        (予想していた通り)  <!-- As we anticipated, the unemployment rate has risen three quarters in a row. -->
+- if anything               (むしろ)            <!-- But now, if anything, they are making too much of it. -->
+- as it is                  (残念ながら)        <!-- As it is, ordinary people cannot afford to purchase such luxuries. -->
+- anyway                    (いずれにしても)
+- in any case               (いずれにしても)    <!-- In any case, the union has to compromise to a certain extent. -->
+- at the end of the day,    (結局のところ)      <!-- At the end of the day, this is not that important. -->
+- if you think about it     (考え方によっては)  <!-- It's crazy how we can communicate like this if you think about it. -->
+- if you don't mind         (よろしければ)
+- The fact is               (実は)              <!-- The fact is, I don't have enough money. -->
+- at this point             (ここまで来たら)    <!-- I'm ready to quit at this point. -->
 
-- the reason being          (というのも)    <!-- I decided to turn down the job offer. The reason being that, I didn’t want to relocate. -->
-- simply put                (簡単に言うと)  <!-- Simply put, he doesn't like sports. -->
-- if anything               (むしろ)        <!-- For years the press overlooked the problem. But now, if anything, they are making too much of it. -->
-- and the next thing I knew (次の瞬間)      <!-- I felt dizzy, and the next thing, I knew I was being carried by the ambulance. -->
-
-# ADVERB 
-
-- up there              (上のほうで)
-- down there            (下のほうで)
-- if you think about it (考え方によっては)  <!-- It's crazy how we can communicate like this if you think about it. -->
-- for the moment        (とりあえあず)      <!-- I will make it do for the moment. -->
-- after a while         (しばらくして)      <!-- He fainted with hunger and fatigue, but came to after a while. -->
-- except for            (を除いて)          <!-- The auditorium was empty except for a single piece of furniture. -->
-
-# ADJECTIVE 
-
-- almost all    (ほぼすべての)  <!-- almost all Japanese -->
-- most          (ほとんどの)    <!-- most people like it. -->
+# TAG
+- if that makes sense?      (伝わった？)        <!-- I want something cold, but at the same time, maybe warmish if that makes sense. -->
+- you know what I mean?     (伝わった？)        <!-- I think YouTube is getting more and more competitive, you know what I mean? -->
+- or not really?            (それとも違う？)    <!-- Do you like this kind of music, or not really? -->
+- or what?                  (それとも違う？)    <!-- Are we gonna have fun or what? -->

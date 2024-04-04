@@ -117,6 +117,9 @@
   - It's OK.
 - なんでもいいよ
   - You name it.
+- 失礼ですが
+  - I hope you don't mind ...
+    - I hope you don't mind if I eat while we talk.
 
 ## Question
 
