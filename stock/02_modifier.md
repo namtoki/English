@@ -44,8 +44,14 @@
 - since                         (既出の理由)
 - as                            (補足的理由)
 - the reason being              (というのも)            <!-- I decided to turn down the job offer. The reason being that, I ... -->
+- due to                        (悪い理由)
+- owing to                      (形式的な理由 / 文頭)   <!-- Owing to illness, some representatives were absent from ... -->
+- on account of                 (困難や問題などの理由)  <!-- Our flight to Vienna was delayed on account of a minor accident. -->
+- thanks to                     (良い理由 / 文頭)
+
 ## CONCLUSION
 - simply put                    (簡単に言うと)          <!-- Simply put, he doesn't like sports. -->
+- in a nutshell                 (要約すると)            <!-- That's it in a nutshell. -->
 ## ADDITION
 - but at the same time          (と同時にですね)        <!-- Working from home is great. but at the same time, it's king of ... -->
 - whereas                       (一方で)                <!-- He likes learning from textbooks, whereas I like learning on the job. -->
@@ -73,33 +79,11 @@
 - I hope I'm not interrupting you (お邪魔はしたくないのですが)
 - no longer                     (もはや ... ではない)   <!-- Japanese men no longer wear their hair in topknots. -->
 
+# DEGREE
+- great > very good > really good > good > pretty good / fairly good > kind of good > so-so / not bad
+
 # TAG
 - if that makes sense?          (伝わった？)
 - you know what I mean?         (伝わった？)
 - or not really?                (それとも違う？)        <!-- Do you like this kind of music, or not really? -->
 - or what?                      (それとも違う？)        <!-- Are we gonna have fun or what? -->
-
-
-# PREPOSITION
-
-- 悪い意味での原因や理由
-  - due to
-- 形式的な表現 (副詞句として文頭で使用)
-  - owing to
-    - Owing to illness, some representatives were absent from the annual conference.
-- 困難や問題など良くないことの理由
-  - on account of
-    - Our flight to Vienna was delayed on account of a minor accident.
-- 基本的に良い意味 (文頭に使用される)
-  - thanks to
-
-# ADVERB 
-
-- 要約すると
-  - in a nutshell
-    - That's it in a nutshell.
-- も
-  - as well
-    - Would you like to come as well?
-    - Would you like some toast as well?
-
