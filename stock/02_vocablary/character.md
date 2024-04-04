@@ -22,18 +22,3 @@
   - have a habit of doing
     - He has a habit of biting his nails.
 
-## 外的特徴
-
-- 禿げた
-  - bald
-- あごひげ
-  - beard
-- くちひげ
-  - moustache
-- (身長が) 足りない
-  - lack
-    - I lacked height.
-- 四角い顔
-  - Strong face
-- 丸い顔
-  - Soft face

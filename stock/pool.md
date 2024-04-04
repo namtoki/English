@@ -106,3 +106,12 @@ sarcasm
 - Could you speak a little slowly, please?
 - Could you speak more slowly, please?
 - Could you explain that?
+- It's not your fault.
+- Exactly
+- Absolutely
+- Totally
+- Of course
+- Sure
+- How kind of you.
+- Do you want to get some food first? Might as well. It's a long play.
+- Shall we try that place? Might as well. There aren't many restaurants around here.

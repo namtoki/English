@@ -78,6 +78,7 @@
 - I don't want to bother you.   (お邪魔はしたくないのですが)
 - I hope I'm not interrupting you (お邪魔はしたくないのですが)
 - no longer                     (もはや ... ではない)   <!-- Japanese men no longer wear their hair in topknots. -->
+- I hope you don't mind ...     (失礼ですが)            <!-- I hope you don't mind if I eat while we talk. -->
 
 # DEGREE
 - great > very good > really good > good > pretty good / fairly good > kind of good > so-so / not bad

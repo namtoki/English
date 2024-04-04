@@ -34,14 +34,27 @@
 - Lucky you!                    (いいなぁ)
 - I would.                      (いいなぁ)                  <!-- You're not going? I would. -->
 - I've been there.              (わかる)
+- I feel you                    (わかる)
 - I think so too                (私もそう思う)
+- That's what I think, too.     (私もそう思う)
+I know what you mean.           (私もそう思う)
 - Same here                     (私もそう)
+- Me too                        (私もそう)
+- So do I                       (私もそう)
 - (That's) true                 (その通りだね)
 - Tell me about it.             (全くその通りだ)
+- You can say that again.       (全くその通りだ)
+- No doubt about it.            (全くその通りだ)
+- You have no idea.             (まじでそう)
 - (That) makes sense            (なるほど)
+- I see (what you mean).        (なるほど)
 - Fair enough                   (理解できる)                <!-- , but と続けば否定的 -->
+- I know what you are saying    (理解できる)
 - Sounds good                   (いいね)
+- I love it!                    (いいね)
 - (That) Sounds like a plan     (それでいこう)
+- I told you.                   (ほらね)
+- I believe you                 (わかったよ)
 - I don't know.                 (そうだなぁ)
 - that ... ?                    (そんなに ...？)            <!-- Wow! That good? -->
 - That must have been tough     (それは大変だったでしょう)
@@ -55,7 +68,17 @@
 - I can't help it.              (仕方ない)
 - There's nothing we can do about it (仕方ない)
 - the only way to ...           (やっぱりこれでしょ)        <!-- This is the only way to live. -->
+- Do you want me to ... ?       (... させるつもり？)        <!-- Do you want me to lose my job? -->
+- You name it.                  (なんでもいいよ)
+- Been there done that          (やったことあるけど、もういい (飽きた))
+- I'm in the middle of something(今手が離せない)
+- I'm trying to ...             (中だから邪魔しないで)      <!-- Hey, Toshi? I'm trying to work, Emily! -->
+- I'm ... ing ... at the moment (中だから邪魔しないで)      <!-- Hang on. I'm just finishing up an email at the moment -->
+- Not again!                    (またかよ！)
 ## ANSWER
+- Let me see...                 (ええと, なんだっけ)
+- It's difficult to say.        (ええと, なんだっけ)
+- what-cha-ma-call-it.          (ええと, なんだっけ)
 - I don't mind.                 (気にしないよ)
 - I'll take care of it.         (引き受けた)
 - No. I'm Okay.                 (結構です)
@@ -69,10 +92,17 @@
 - Here                          (どうぞ)                    <!-- Here you are. / Here's a little something for you. -->
 - That's OK.                    (なんでもないです)
 - Never mind.                   (気にしないで)
+- It's OK.                      (大丈夫だよ)
+- Might as well                 (まぁいいよ)
+- I'll get on that.             (引き受けた)
+- I'll try.                     (引き受けた)
+- I'll do my best.              (引き受けた)
 ## DIVE INTO
 - I couldn't get it.            (わからなかった)
+- I couldn't catch you.         (わからなかった)
 - Do you mean ...?              (... ってこと？)            <!-- Do you mean ... you lost? -->
 - Such as?                      (例えば？)
+- Like what?                    (例えば？)
 - How about you?                (あなたはどう？)            <!-- I've never been to Disney World in Florida. How about you? -->
 ## DOUBT
 - Is that enough?               (それで十分ですか？)
@@ -87,6 +117,8 @@
 - You bet                       (どういたしまして)
 - Don't mention it              (どういたしまして)
 - Anytime                       (どういたしまして)
+- Take your time.               (ごゆっくり)
+- Good luck with your speech.   (頑張って)
 
 # Question
 ## GENERAL
@@ -117,80 +149,3 @@
 - Could you say that again?     (もう一度言って？)          <!-- Could you say that more simply, please? -->
 - is that true?                 (これは正しいですか？)
 - what should I do ...          (どうすればよいか)          <!-- What should I do in a situation like this? -->
-
-- ええと (なんだっけ)
-  - Let me see...
-  - It's difficult to say.
-  - what-cha-ma-call-it.
-- ... させるつもり？
-  - Do you want me to ... ?
-    - Do you want me to lose my job?
-- 例えば？
-  - Like what?
-- わからなかった
-  - I couldn't catch you.
-- 私もそう
-  - Me too
-  - So do I
-- 私もそう思う
-  - That's what I think, too.
-  - I know what you mean.
-- わかる
-  - I feel you
-- その通りだね
-  - Exactly
-  - Absolutely
-  - Totally
-- 全くその通りだ
-  - You can say that again.
-  - No doubt about it.
-  - You have no idea.
-- いいね
-  - I love it!
-- ほらね
-  - I told you.
-- わかったよ
-  - I believe you
-- 理解できる
-  - I know what you are saying
-- なるほど
-  - I see (what you mean).
-- やったことあるけど、もういい (飽きた)
-  - Been there done that
-- ありがとう
-  - How kind of you.
-- またかよ！
-  - Not again!
-- もったいない
-  - That's a waste.
-- もちろん
-  - Of course
-  - Sure
-- まぁいいよ
-  - Might as well
-    - Do you want to get some food first? Might as well. It's a long play.
-    - Shall we try that place? Might as well. There aren't many restaurants around here.
-- 引き受けた
-  - I'll get on that.
-  - I'll try.
-  - I'll do my best.
-- 頑張って
-  - Good luck with your speech.
-- ごゆっくり
-  - Take your time.
-- 今手が離せない
-  - I'm in the middle of something.
-- ... 中だから邪魔しないで
-  - I'm trying to ...
-    - Hey, Toshi? I'm trying to work, Emily!
-  - I'm ... ing ... at the moment
-    - Hang on. I'm just finishing up an email at the moment
-- あなたのせいではありません
-  - It's not your fault.
-- 大丈夫だよ
-  - It's OK.
-- なんでもいいよ
-  - You name it.
-- 失礼ですが
-  - I hope you don't mind ...
-    - I hope you don't mind if I eat while we talk.
