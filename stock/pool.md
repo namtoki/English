@@ -100,3 +100,5 @@ sarcasm
 - I think YouTube is getting more and more competitive, you know what I mean?
 - I want something cold, but at the same time, maybe warmish if that makes sense.
 - Would you like to be my date?
+- Did you hear about Greg's new job?
+- I was thinking... maybe we could go somewhere else.

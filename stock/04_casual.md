@@ -1,10 +1,19 @@
 # BEGINING
 - You know what?                (そうだ！)                  <!-- You know what? I'm going to get an ice cream cone. -->
+- I know!                       (そうだ！)                  <!-- I know! Let's go bowling. -->
 - It's been a while.            (久しぶり)
+- long time no see.             (久しぶり)                  <!-- Hey Bob, long time no see. What's new? -->
+- It's been a month since       (久しぶり)                  <!-- It's been a month since we met the last time. -->
+- I haven't seen you in         (...ぶり)                   <!-- I haven't seen you in a month. -->
+- Did you hear                  (聞いた？)                  <!-- Did you hear about Kim? She got promoted. -->
 - I told you ..., right?        (と言ったと思うんだけど)    <!-- I told you about my dad, right? -->
 - Do you remember that .. ?     (覚えてる？)                <!-- Do you remember that bike at ABC Departmment Store? -->
 - I remember you ...            (と記憶しているんだけど)    <!-- I remember you went there last year. -->
+- I understand that ...         (と聞いています)            <!-- I understand that you speak a little English. -->
+- You know what ... ?           (なんだと思う？)
+- Guess what ... ?              (なんだと思う？)
 - I'm thinking about ...        (しようと思っているんだけど)<!-- I'm thinking about retiring and going to Thailand this year. -->
+- I was thinking.               (考えていたんだけど)        <!-- I was thinking. Let's take a short trip. -->
 - How's your day going?         (今日はどうだった？)
 - I'd like to ask you a favor.  (頼みがあるの)
 - Let me ask you ...            (聞かせて)                  <!-- Let me ask you your honest opinion. -->
@@ -95,32 +104,8 @@
 - Would it sound .. if I said ..(と言ったら..ですか？)      <!-- Would it sound a little bit weird if I said ... -->
 
 
-
-# Casual
-
 ## Beginning
 
-- そうだ！
-  - I know!
-    - I know! Let's go bowling.
-- 久しぶり
-  - Hey Bob, long time no see. What's new?
-  - It's been a month since we met the last time.
-  - I haven't seen you in a month.
-- 聞いた？
-  - Did you hear
-    - Did you hear about Kim? She got promoted.
-    - Did you hear about Greg's new job?
-- と聞いています
-  - I understand that ...
-    - I understand that you speak a little English.
-- なんだと思う？
-  - You know what ... ?
-  - Guess what ... ?
-- 考えていたんだけど
-  - I was thinking.
-    - I was thinking. Let's take a short trip.
-    - I was thinking... maybe we could go somewhere else.
 - 聞かせて
   - Let me ask you ...
     - Let me ask you something.
