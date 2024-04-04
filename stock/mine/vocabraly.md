@@ -7,3 +7,7 @@
 # LEVEL
 ## Goodness
 - great > very good > really good > good > pretty good / fairly good > kind of good > so-so / not bad
+
+# LOCATION
+- hilly area                        (丘陵地)
+- fancy neighborhood                (高級街)
