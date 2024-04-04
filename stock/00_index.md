@@ -1,13 +1,7 @@
 # Stock
 
-- [Sentence Pattern](pattern.md)
-- Mine
-  - [Casual](mine/casual.md)
-  - [Framework](mine/framework.md)
-  - [Modifier](mine/modifier.md)
-  - [Vacabraly](mine/vocabraly.md)
-- Knowledge
-  - [Casual](knowledge/casual.md)
-  - [Framework](knowledge/framework.md)
-  - [Modifier](knowledge/modifier.md)
-  - [Vacabraly](knowledge/vocabraly.md)
+- [Framework](01_framework.md)
+- [Modifier](02_modifier.md)
+- [Vacabraly](03_vocabraly.md)
+- [Casual](04_casual.md)
+- [Sentence Pattern](05_pattern.md)
