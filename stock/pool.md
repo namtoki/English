@@ -102,3 +102,7 @@ sarcasm
 - Would you like to be my date?
 - Did you hear about Greg's new job?
 - I was thinking... maybe we could go somewhere else.
+- Could you repeat that, please?
+- Could you speak a little slowly, please?
+- Could you speak more slowly, please?
+- Could you explain that?

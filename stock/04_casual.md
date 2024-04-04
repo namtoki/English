@@ -18,6 +18,10 @@
 - I'd like to ask you a favor.  (頼みがあるの)
 - Let me ask you ...            (聞かせて)                  <!-- Let me ask you your honest opinion. -->
 - Do you have a minute/second?  (今いい？)
+- Do you have time?             (今いい？)
+- Can I borrow you for a second?(今いい？)
+- Can I borrow you for a minute?(今いい？)
+- Is this a good time?          (今いい？)
 - Is everything all right?      (大丈夫？)
 - What are you up to?           (今何してんの？)
 - Don't get me wrong.           (誤解しないでね)
@@ -50,6 +54,7 @@
 - Good to know                  (聞けて良かった)
 - I can't help it.              (仕方ない)
 - There's nothing we can do about it (仕方ない)
+- the only way to ...           (やっぱりこれでしょ)        <!-- This is the only way to live. -->
 ## ANSWER
 - I don't mind.                 (気にしないよ)
 - I'll take care of it.         (引き受けた)
@@ -60,6 +65,10 @@
 - I'll think about it.          (考えとく)
 - It's going to be OK.          (なんとかなるよ)
 - It's up to you.               (好きなほうでいいですよ)
+- Go ahead                      (どうぞ)                    <!-- Go ahead and use mine. / Go ahead and have a seat. -->
+- Here                          (どうぞ)                    <!-- Here you are. / Here's a little something for you. -->
+- That's OK.                    (なんでもないです)
+- Never mind.                   (気にしないで)
 ## DIVE INTO
 - I couldn't get it.            (わからなかった)
 - Do you mean ...?              (... ってこと？)            <!-- Do you mean ... you lost? -->
@@ -91,41 +100,23 @@
 - How do you like ... ?         (どう？)                    <!-- How do you like your new shoes? -->
 - How do you feel about ... ?   (どう？どう思う？)          <!-- How do you feel about the service in Japan? -->
 - What do you think about ing   (どう？どう思う？)          <!-- What do you think about moving to Osaka? -->
+- What's better                 (どっちがいい？)
 ## LESSON
+- Can I ask you a question?     (質問してもいい？)
 - How do you say .. in English? (どう表現する？)
 - how would you say it?         (どう表現しますか？)        <!-- If you were to state your dream, how would you say it? -->
 - What's it called?             (なんと呼ばれていますか？)
 - What's the word for it?       (どういう言葉が適切ですか？)
 - How do you pronounce          (どう発音する？)            <!-- How do you pronounce this word? -->
 - How do you spell this word?   (どう書く？)
+- Could you write it down?      (書いてもらえますか？)
 - Is ... the same as ...?       (は ... と同じですか？)
 - What does ... mean?           (はどういう意味ですか？)
 - Can you say ... ?             (と言えますか？)            <!-- Can you say my goal is becoming a write? -->
 - Would it sound .. if I said ..(と言ったら..ですか？)      <!-- Would it sound a little bit weird if I said ... -->
-
-
-## Beginning
-
-- 聞かせて
-  - Let me ask you ...
-    - Let me ask you something.
-    - Let me ask you your honest opinion.
-- 今いい？
-  - Do you have time?
-  - Can I borrow you for a minute/second?
-  - Is this a good time?
-- どうぞ
-  - Go ahead
-    - Go ahead and use mine.
-    - Go ahead and have a seat.
-  - Here
-    - Here you are.
-    - Here's a little something for you.
-- なんでもないです / 気にしないで
-  - That's OK.
-  - Never mind.
-
-## Response
+- Could you say that again?     (もう一度言って？)          <!-- Could you say that more simply, please? -->
+- is that true?                 (これは正しいですか？)
+- what should I do ...          (どうすればよいか)          <!-- What should I do in a situation like this? -->
 
 - ええと (なんだっけ)
   - Let me see...
@@ -203,28 +194,3 @@
 - 失礼ですが
   - I hope you don't mind ...
     - I hope you don't mind if I eat while we talk.
-
-## Question
-
-- どっちがいい？
-  - What's better
-- 書いてもらえますか？
-  - Could you write it down, please?
-- もう一度言ってもらえますか？
-  - Could you repeat that, please?
-  - Could you speak a little slowly, please?
-  - Could you speak more slowly, please?
-  - Could you explain that?
-  - Could you say that more simply, please?
-- これは正しいですか？
-  - is that true?
-    - but is that true?
-- どうすればよいか
-  - what should I do ...
-    - What should I do in a situation like this?
-- 質問してもよろしいでしょうか
-  - Can I ask you a question?
-
-- やっぱりこれでしょ
-  - the only way to ...
-    - This is the only way to live.
