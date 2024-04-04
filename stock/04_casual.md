@@ -112,6 +112,7 @@ I know what you mean.           (私もそう思う)
 - I'll tell you later.          (また後で連絡する)
 - I'll let you know.            (わかったら連絡する)
 - leave it there.               (ここまでにしましょう)
+- So much for                   (ここまでにしましょう)      <!-- So much for the small talk. Let's get down to business -->
 - There you go.                 (その通り)
 - My pleasure                   (どういたしまして)
 - You bet                       (どういたしまして)

@@ -29,6 +29,7 @@
   - (処分する) I'm getting rid of this leather jacket because it's worn out at the elbows.
 - get the ball rolling
   - (始める) I'm gonna get the ball rolling on our wedding planning by booking the venue tomorrow.
+- get down to               (取り掛かる)        <!-- So much for the small talk. Let's get down to business -->
 
 ## give
 
