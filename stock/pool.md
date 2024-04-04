@@ -95,3 +95,8 @@ sarcasm
 - That's not what I meant.
 - Let me ask you something.
 - How do you like the soup?
+- Memories of that tragedy are still eating him alive. 
+- I have to say you have great taste.
+- I think YouTube is getting more and more competitive, you know what I mean?
+- I want something cold, but at the same time, maybe warmish if that makes sense.
+- Would you like to be my date?

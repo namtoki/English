@@ -8,6 +8,13 @@
 ## Goodness
 - great > very good > really good > good > pretty good / fairly good > kind of good > so-so / not bad
 
-# LOCATION
+# NOUN
 - hilly area                        (丘陵地)
 - fancy neighborhood                (高級街)
+
+# VERB
+- die out                           (廃れた)            <!-- The custom of tipping might die out because of digital payments. -->
+
+- 許される/許されない
+  - acceptable, unacceptable
+    - Crossing your legs is unacceptable in business situations in Japan, but it's acceptable in other countries.

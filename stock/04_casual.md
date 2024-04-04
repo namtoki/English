@@ -239,3 +239,7 @@
     - What should I do in a situation like this?
 - 質問してもよろしいでしょうか
   - Can I ask you a question?
+
+- やっぱりこれでしょ
+  - the only way to ...
+    - This is the only way to live.
