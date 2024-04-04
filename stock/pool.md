@@ -93,3 +93,5 @@ sarcasm
 - It takes him about an hour to get ready for work.
 - Now that I've found that there's no one to turn to, I'll have to stand on my own feet.
 - That's not what I meant.
+- Let me ask you something.
+- How do you like the soup?
