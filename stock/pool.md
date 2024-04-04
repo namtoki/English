@@ -1,5 +1,12 @@
 # TODO
 
+There are a number of factors discouraging us from investing in stocks.
+          ^^^^^^^^^^^
+In the course of its economic development, Japan has abandoned its traditional values.
+^^^^^^^^^^^^^^^^
+In order to keep up its competitiveness in the world, Japan must undertake sweeping deregulation in earnest.
+^^^^^^^^^^^ ^^^^^^^                                                        ^^^^^^^^              ^^^^^^^^^^^
+
 fine/sick
 shocked
 shy/outgoing
