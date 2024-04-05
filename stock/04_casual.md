@@ -97,6 +97,8 @@ I know what you mean.           (私もそう思う)
 - I'll get on that.             (引き受けた)
 - I'll try.                     (引き受けた)
 - I'll do my best.              (引き受けた)
+- I'll take it.                 (これください)
+- Keep the change               (おつりはいりません)
 ## DIVE INTO
 - I couldn't get it.            (わからなかった)
 - I couldn't catch you.         (わからなかった)

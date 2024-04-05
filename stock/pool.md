@@ -124,3 +124,9 @@ sarcasm
 - She is kind of rude.
 - It was kind of ... confusing.
 - I don't want to do this for the rest of my life.
+- I think instead of trying to make a killing in the first year, ,,,
+- He doesn't like (some)things like that.
+- She can gossip about me or whatever. (どうでもよいけど)
+- I was trying to create something like my original anime kind of thing.
+- What is the purpose of you visit? Business or pleasure?
+- Could I see your return ticket, please?

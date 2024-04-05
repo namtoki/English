@@ -32,6 +32,7 @@
 - many different kinds of ...   (数種の)                <!-- there are many different kinds of stores. -->
 - the rest of ...               (残りの)                <!-- You can have the rest of them. -->
 - a number of ...               (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
+- to go                         (残りの)                <!-- We have ten minutes to go. -->
 ## TIME
 - so far                        (今のところは)          <!-- So far I’m having a blast. The town is wonderful. -->
 - for the moment                (とりあえあず)          <!-- I will make it do for the moment. -->
@@ -55,6 +56,13 @@
 - kind of ...                   (なんとなく少し)        <!-- I'm kind of hungry. -->
 - low-key ...                   (なんとなく少し)        <!-- I’m low-key in love with my study partner’s new cologne. -->
 - some kind of ...              (なにか)                <!-- born with some kind of special talent. / some kind of sport -->
+- ... like                      (とか)                  <!-- Things like party hats, paper plates and napkins. -->
+- ... things/stuff like that    (みたいなもの)          <!-- I think he's learning Spanish or something like that, if that makes sense. -->
+- ... and so on                 (など)                  <!-- I'm tired of doing the dished, doing the laundry, and so on! -->
+- ... kind of thing             (的なもの)              <!-- This is a flip phone kind of thing but a bit different. -->
+- ... and stuff                 (とかいろいろ)          <!-- We've got to do editing and stuff. -->
+- ... or whatever               (とかいろいろ)          <!-- I'm just going to read a book or whatever. -->
+- ... or so                     (とかそのへん)          <!-- It's 20 dollars or so. -->
 
 # SUPPLEMENT
 ## REASON
@@ -80,6 +88,13 @@
 - in that case                  (だったら)              <!-- In that case, I’ll have a beer. -->
 - in which case                 (この場合 文語)
 - except for                    (を除いて)              <!-- The auditorium was empty except for a single piece of furniture. -->
+- not including                 (を除いて)              <!-- I work 8 hours not including lunch (含まずに) -->
+- without                       (無しで, しないで)      <!-- I work 8 hours without lunch -->
+- instead of ...                (するのではなく)        <!-- We dediced to chill at home instead of going out. -->
+- rather than ...               (よりもむしろ)
+- more than ...                 (よりも)                <!-- I like chocolate more than vanilla. -->
+- better than ...               (よりも)                <!-- I like vanilla better than chocolate. -->
+- when compared                 (と比べて)              <!-- Global emissions could rise 1.1 percent this year when compared to 2022. -->
 ## EXTENT
 - some more                     (もう少し)              <!-- I'll think about it some more. -->
 - to the point where ...        (くらいまで)            <!-- I studied English so much to the point where my dream started being in English. -->
@@ -103,6 +118,11 @@
 - on behalf of ...              (の代わりに)            <!-- I thank you on behalf of my husband. -->
 - in place of ...               (の代わりに)            <!-- I used Knox’s PC in place of mine today. -->
 - in earnest                    (真面目に)              <!-- Japan must undertake sweeping deregulation in earnest. -->
+- for the (fun | joy) of it     (趣味として)            <!-- I just cook for the fun of it. -->
+- up-front                      (前もって)              <!-- This hotel requires a cash deposit up-front. -->
+- in advance                    (前もって)
+- just in case                  (念のため)              <!-- I'll write it down just in case. -->
+- for a rainy day               (念のため)              <!-- I decided to put some aside for a rainy day. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->
