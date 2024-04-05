@@ -1,4 +1,4 @@
-# Stock
+# CHEATSHEET
 
 - [Framework](01_framework.md)
 - [Modifier](02_modifier.md)
