@@ -1,4 +1,5 @@
 # FOCUS
+
 ## TOPIC
 - about                         (に関して言うと)        <!-- About the food ... it is bad. -->
 - regarding                     (に関して言うと)        <!-- Regarding the subject above -->
@@ -30,12 +31,14 @@
 - some kinds of ...             (数種の)                <!-- amplify the effects of some kinds of pollution -->
 - many different kinds of ...   (数種の)                <!-- there are many different kinds of stores. -->
 - the rest of ...               (残りの)                <!-- You can have the rest of them. -->
+- a number of ...               (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
 ## TIME
 - so far                        (今のところは)          <!-- So far I’m having a blast. The town is wonderful. -->
 - for the moment                (とりあえあず)          <!-- I will make it do for the moment. -->
 - after a while                 (しばらくして)          <!-- He fainted with hunger and fatigue, but came to after a while. -->
 - now that                      (今や)                  <!-- Now that things are better, we should talk about the problem. -->
 - for the first time in         (ぶりに)                <!-- I'm going to Hawaii for the first time in 1 year. -->
+- in the course of              (の過程で)              <!-- In the course of its economic development, Japan has ... -->
 ## LOCATION
 - up there                      (上のほうで)
 - down there                    (下のほうで)
@@ -64,6 +67,9 @@
 - owing to                      (形式的な理由 / 文頭)   <!-- Owing to illness, some representatives were absent from ... -->
 - on account of                 (困難や問題などの理由)  <!-- Our flight to Vienna was delayed on account of a minor accident. -->
 - thanks to                     (良い理由 / 文頭)
+## OBJECTIVE
+- (in order) to                 (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
+- so as to                      (のために 堅い)
 ## CONCLUSION
 - simply put                    (簡単に言うと)          <!-- Simply put, he doesn't like sports. -->
 - in a nutshell                 (要約すると)            <!-- That's it in a nutshell. -->
@@ -88,7 +94,7 @@
 - to my shoulders               (肩まで)                <!-- I entered the Ghanges river to my shoulders. -->
 ## HOW
 - on impulse                    (衝動的に)              <!-- I'm apt to buy things on impulse whenever something is on sale. -->
-- in a row                      (連続して)              <!-- As we anticipated, the unemployment rate has risen three quarters in a row. -->
+- in a row                      (連続して)              <!-- the unemployment rate has risen three quarters in a row. -->
 - on purpose                    (わざと)                <!-- He made a mistake on purpose. -->
 - purposely                     (わざと)                <!-- He purposely didn't say anything. -->
 - out of habit                  (くせで)                <!-- I got the Namboku line out of habit. -->
@@ -96,6 +102,7 @@
 - on behalf of ...              (代表して)              <!-- On behalf of all staff, I'd like to express our sympathy for the victims. -->
 - on behalf of ...              (の代わりに)            <!-- I thank you on behalf of my husband. -->
 - in place of ...               (の代わりに)            <!-- I used Knox’s PC in place of mine today. -->
+- in earnest                    (真面目に)              <!-- Japan must undertake sweeping deregulation in earnest. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->
