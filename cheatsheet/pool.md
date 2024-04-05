@@ -130,3 +130,7 @@ sarcasm
 - I was trying to create something like my original anime kind of thing.
 - What is the purpose of you visit? Business or pleasure?
 - Could I see your return ticket, please?
+- I keep sneezing.
+- My eyes are bloodshot.
+- Tokyo is too humid.
+- Seattle has low humidity in summer.

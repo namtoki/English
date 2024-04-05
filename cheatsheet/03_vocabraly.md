@@ -22,6 +22,11 @@
 - pedestrians                       (歩行者)
 - passengers                        (乗客)
 - just around the corner            (目と鼻の先)        <!-- The library is just around the corner from the museum. -->
+- muscle                            (筋肉)              <!-- I don't want to lose muscle. -->
+- hay fever                         (花粉症)            <!-- I have a pollen allergy. -->
+- sneezing                          (くしゃみ)          <!-- I can't stop sneezing. -->
+- bloodshot eyes                    (充血した目)        <!-- I've got bloodshot eyes. -->
+- humidity                          (湿気)
 
 # VERB
 - die out                           (廃れた)            <!-- The custom of tipping might die out because of digital payments. -->
@@ -31,8 +36,19 @@
 - take the top spot                 (優勝する)
 - have a habit of doing             (癖がある)          <!-- He has a habit of biting his nails. -->
 - line up                           (整列する)          <!-- All visitors to the US should line up at booths one through 15. -->
+- stay fit                          (体型を保つ)        <!-- I want to stay fit. -->
+- was predicted                     (予報では..だった)  <!-- Snow was predicted this morning. -->
+- get wet                           (濡れる)            <!-- I got wet on my way to work. -->
+- be soaked                         (びしょ濡れ)        <!-- I'm soaked with sweat. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
 - bald                              (禿げた)
 - lack                              ((身長が) 足りない) <!-- I lacked height. -->
+- itchy                             (かゆい)            <!-- I have itchy throat and nose. -->
+- sunny                             (晴れ)
+- clearing up                       (晴れてきた)        <!-- It's clearing up. -->
+- chilly                            (肌寒い)
+- cold                              (寒い)
+- freezing                          (凍えるほど寒い)
+- humid                             (じめじめしている)  <!-- It is humid in the summer but it is cold and dry in the winter. -->
