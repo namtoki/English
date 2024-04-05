@@ -98,7 +98,9 @@ I know what you mean.           (私もそう思う)
 - I'll try.                     (引き受けた)
 - I'll do my best.              (引き受けた)
 - I'll take it.                 (これください)
+- I'll have                     (飲食店 ください)           <!-- I'll have the same as her. -->
 - Keep the change               (おつりはいりません)
+- It's on me.                   (おごりです)
 ## DIVE INTO
 - I couldn't get it.            (わからなかった)
 - I couldn't catch you.         (わからなかった)
@@ -122,6 +124,7 @@ I know what you mean.           (私もそう思う)
 - Anytime                       (どういたしまして)
 - Take your time.               (ごゆっくり)
 - Good luck with your speech.   (頑張って)
+- That's (about) it.            (以上です)
 
 # Question
 ## GENERAL

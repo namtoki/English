@@ -134,3 +134,4 @@ sarcasm
 - My eyes are bloodshot.
 - Tokyo is too humid.
 - Seattle has low humidity in summer.
+- Fine. Until I spilled iced coffee on him.

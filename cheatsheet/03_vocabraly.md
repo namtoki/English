@@ -27,19 +27,27 @@
 - sneezing                          (くしゃみ)          <!-- I can't stop sneezing. -->
 - bloodshot eyes                    (充血した目)        <!-- I've got bloodshot eyes. -->
 - humidity                          (湿気)
+- salmomn roe                       (いくら)
+- seaweed                           (のり)
+- pickled plum                      (梅)
+- baked goods                       (総菜パン)
+
 
 # VERB
+- be soaked                         (びしょ濡れ)        <!-- I'm soaked with sweat. -->
 - die out                           (廃れた)            <!-- The custom of tipping might die out because of digital payments. -->
-- pick nose                         (鼻をほじる)
-- tread lightly                     (そっと歩く)        <!-- She seems angry, you should tread lightly -->
-- set a new record                  (賞をとる)          <!-- Carbon emissions are expected to set a new record in 2023. -->
-- take the top spot                 (優勝する)
+- get                               (こぼす)            <!-- Just don't get sauce on your nice shirt. -->
+- get wet                           (濡れる)            <!-- I got wet on my way to work. -->
 - have a habit of doing             (癖がある)          <!-- He has a habit of biting his nails. -->
 - line up                           (整列する)          <!-- All visitors to the US should line up at booths one through 15. -->
+- pick nose                         (鼻をほじる)
+- set a new record                  (賞をとる)          <!-- Carbon emissions are expected to set a new record in 2023. -->
 - stay fit                          (体型を保つ)        <!-- I want to stay fit. -->
+- take the top spot                 (優勝する)
+- tread lightly                     (そっと歩く)        <!-- She seems angry, you should tread lightly -->
 - was predicted                     (予報では..だった)  <!-- Snow was predicted this morning. -->
-- get wet                           (濡れる)            <!-- I got wet on my way to work. -->
-- be soaked                         (びしょ濡れ)        <!-- I'm soaked with sweat. -->
+- spill                             (こぼす)            <!-- I spilled wine on my shirt -->
+- eat out                           (外食する)          <!-- Where is your favorite place to eat out? -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
@@ -52,3 +60,4 @@
 - cold                              (寒い)
 - freezing                          (凍えるほど寒い)
 - humid                             (じめじめしている)  <!-- It is humid in the summer but it is cold and dry in the winter. -->
+- easy on my stomach                (おなかにやさしい)  <!-- Udon noodles are easy on my stomach. -->
