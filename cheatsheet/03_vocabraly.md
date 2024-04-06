@@ -32,7 +32,6 @@
 - pickled plum                      (梅)
 - baked goods                       (総菜パン)
 
-
 # VERB
 - be soaked                         (びしょ濡れ)        <!-- I'm soaked with sweat. -->
 - die out                           (廃れた)            <!-- The custom of tipping might die out because of digital payments. -->
@@ -48,6 +47,8 @@
 - was predicted                     (予報では..だった)  <!-- Snow was predicted this morning. -->
 - spill                             (こぼす)            <!-- I spilled wine on my shirt -->
 - eat out                           (外食する)          <!-- Where is your favorite place to eat out? -->
+- treat                             (おごる)            <!-- You treat me every time we eat out. -->
+- split the check                   (割り勘する)
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
@@ -61,3 +62,16 @@
 - freezing                          (凍えるほど寒い)
 - humid                             (じめじめしている)  <!-- It is humid in the summer but it is cold and dry in the winter. -->
 - easy on my stomach                (おなかにやさしい)  <!-- Udon noodles are easy on my stomach. -->
+- weak at the knees                 (立っていられない)  <!-- Mary went weak at the knees when she saw the man. -->
+- interesting                       (興味深い)
+- intriguing                        (超興味深い)
+- in a bad mood                     (機嫌が悪い)        <!-- I won't share my opinion if my wife seems as if she is in a bad mood. -->
+- black and white                   (明らかな)          <!-- Things in life are never black and white. -->
+- unambiguous                       (明らかな)          <!-- The warnings were unambiguous. -->
+- clear-cut                         (明らかな)          <!-- (usually used for instructions) Patrick's instructions were very clear-cut. -->
+- crystal clear                     (明らかな)          <!-- I could make it crystal clear that we have to be at the restaurant for 7pm and give you clear cut directions to the restaurant. -->
+- sloppy                            (雑な いい加減な)   <!-- The bridge collapsed soon after completion because of the sloppy construction work. -->
+- too far                           (やり過ぎな)        <!-- He went too far there. -->
+- over the top                      (度が過ぎている)    <!-- I went over the top at my child's sports day. -->
+- fiddly                            (めんどくさい)      <!-- He is asking so many questions and it's so fiddly -->
+- hassle                            (めんどくさい)      <!-- What a hassle! I can't even figure out how to answer this question. -->
