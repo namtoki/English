@@ -143,3 +143,17 @@ sarcasm
 - I think painting every wall in the house bright yellow is a bit over the top.
 - We asked the supplier to lower the price by 5%, but they refused.
 - Is that the only thing you think about?
+- I came across an old friend on the street.
+- I'm gonna come clean with everyone.
+- It’s raining the whole week! This weather is getting to me.
+- I'm not sure what you're getting at.
+- I got kicked out of the club for missing too many meetings.
+- Let's make the most of our time here.
+- I took up Yoga.
+- I didn't realize I was taking up so much space.
+- The TV takes up a lot of space in my room.
+- This routine is annoying because it takes up my precious time.
+- I took some time off.
+- I'm going to take a week off from work this November. 
+- It turned out like I thought it would.
+- They turned out on time for the campaign.
