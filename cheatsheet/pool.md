@@ -157,3 +157,4 @@ sarcasm
 - I'm going to take a week off from work this November. 
 - It turned out like I thought it would.
 - They turned out on time for the campaign.
+- toward the end of afternoon

@@ -152,6 +152,7 @@
 - turn out                      (と判明する)        <!-- It turned out to be true. -->
 - turn out                      (集まる)            <!-- I think they will turn out shortly. -->
 - turn out                      (消す)              <!-- Please turn out the light. -->
+- turn ...'s back on            (背を向ける 無視)   <!-- We cannot turn our backs on desperate people who are at risk. -->
 - turn to                       (頼る)              <!-- Now that I've found that there's no one to turn to, I'll have to stand on my own two feet. -->
 
 # U

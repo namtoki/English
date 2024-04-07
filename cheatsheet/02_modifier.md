@@ -33,9 +33,13 @@
 - the rest of ...               (残りの)                <!-- You can have the rest of them. -->
 - a number of ...               (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
 - to go                         (残りの)                <!-- We have ten minutes to go. -->
+- on itself                     (それ自体は)            <!-- The revolution in itself, bore no fruit, after all. -->
 ## TIME
 - right away                    (今すぐ)                <!-- I'll come right away. -->
 - at some point                 (そろそろ)              <!-- We should really clean the fridge at some point. -->
+- before long                   (近いうちに)            <!-- Before long, they will enter a crucial phase. -->
+- shortly                       (近いうちに)
+- soon                          (近いうちに)
 - from now on                   (これからは)            <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
 - by the time ...               (するまでには)          <!-- By the time I got wake up, the snow had stopped falling. -->
 - for years to come             (この先数年)            <!-- In all likelihood, the birthrate will continue to decline steadily for years to come. -->
@@ -49,16 +53,7 @@
 - every time ...                (するときはいつも)      <!-- Every time you make them, they are perfect. -->
 - in the middle of              (の真っ最中に)          <!-- He fell asleep in the middle of the sales meeting. -->
 - (just) the other day          ((つい) こないだ)       <!-- I went there just the other day! -->
-
-## 詳細
-
-- の終盤に、
-  - toward the end of ...
-    - TAIRA no Koremori was a samurai who lived towards the end of the Heian period.
-    - toward the end of afternoon
-- 同時に
-  - ... at the same time
-    - It's hard being the writer and an actor at the same time (両立)
+- toward the end of ...         (の終盤に)              <!-- TAIRA no Koremori was a samurai who lived towards the end of the Heian period. -->
 - so far                        (今のところは)          <!-- So far I’m having a blast. The town is wonderful. -->
 - for the moment                (とりあえず)            <!-- I will make it do for the moment. -->
 - after a while                 (しばらくして)          <!-- He fainted with hunger and fatigue, but came to after a while. -->
@@ -149,6 +144,8 @@
 - just in case                  (念のため)              <!-- I'll write it down just in case. -->
 - for a rainy day               (念のため)              <!-- I decided to put some aside for a rainy day. -->
 - for the first time            (初めて)                <!-- Last Saturday, I came here for the first time. -->
+- at the same time              (同時に)                <!-- It's hard being the writer and an actor at the same time (両立) -->
+- to ...'s heart's content      (思う存分)              <!-- The aristocrats abused their privileges to their hearts' content. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->

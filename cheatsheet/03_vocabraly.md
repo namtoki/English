@@ -64,6 +64,14 @@
 
 # VERB
 - be soaked                         (びしょ濡れ)        <!-- I'm soaked with sweat. -->
+- be bathed in                      (まみれになる)
+- be bathed in a golden light       (日光を浴びる)
+- be bathed in blood                (血まみれ)
+- be bathed in sweat                (汗だく)
+- be under way                      (進行中)            <!-- The negotiations are under way. -->
+- be for                            (合う)              <!-- That job wasn't for me. -->
+- be eager to                       (切望する 中 → 良)
+- be anxious to                     (切望する 悪 → 中)  <!-- The slaves were anxious to alter their destinies. -->
 - die out                           (廃れた)            <!-- The custom of tipping might die out because of digital payments. -->
 - get                               (こぼす)            <!-- Just don't get sauce on your nice shirt. -->
 - get wet                           (濡れる)            <!-- I got wet on my way to work. -->
@@ -152,10 +160,6 @@
 - over the top                      (度が過ぎている)    <!-- I went over the top at my child's sports day. -->
 - fiddly                            (めんどくさい)      <!-- He is asking so many questions and it's so fiddly -->
 - hassle                            (めんどくさい)      <!-- What a hassle! I can't even figure out how to answer this question. -->
-- be bathed in                      (まみれになる)
-- be bathed in a golden light       (日光を浴びる)
-- be bathed in blood                (血まみれ)
-- be bathed in sweat                (汗だく)
 - tidy                              (整理された)
 - neat and tidy                     (整理された)
 - shipshape                         (整理された)
@@ -164,7 +168,6 @@
 - beside the point                  (的外れの)
 - off the charts                    (半端ない)          <!-- His guitar performance was totally off the charts! -->
 - through the roof                  (突き抜けている)    <!-- My stress was through the roof -->
-- for                               (合う)              <!-- That job wasn't for me. -->
 - foreign owned                     (外資系)
 - based in                          (外資系)            <!-- My company is based in U.S. but 80% of the employees are Japanese. -->
 
