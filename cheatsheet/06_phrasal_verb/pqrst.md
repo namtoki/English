@@ -21,6 +21,11 @@
 - stand on one's own two feet
   - (自立する) Now that I've found that there's no one to turn to, I'll have to stand on my own two feet.
 
+## stay
+
+- stay up (till) late               (夜更かしする)          <!-- I stayed up late last night. -->
+- stay up all night                 (徹夜する)
+
 ## talk
 
 - talk ... into ...ing
@@ -44,6 +49,11 @@
   - (文脈無視) It can easily be taken out of context.
 - take it
   - (それにします) I'll take it.
+- 休みを取る
+  - take off
+    - take off two weeks
+    - I'm going to take a week off from work this November. 
+    - take the whole day off
 
 ## tap
 

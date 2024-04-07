@@ -98,6 +98,9 @@
 - It's traditional to ...       (する習慣だ)                    <!-- In Japan, it's traditional to visit ... -->
 - be supposed to ...            (するものだ)                    <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->
 - be supposed to ...            (らしい)                        <!-- Dolphins are supposed to be intelligent. -->
+- years of experience           (経験がある)                    <!-- I have ... years of experience in the ... field. / I have ... years of ... experience. -->
+- I work for (company)          (で働いています)
+- I work in (place/department)  (で働いています)
 
 # TENSE
 ## PAST

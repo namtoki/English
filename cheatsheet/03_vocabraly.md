@@ -1,10 +1,17 @@
 # GENERAL
+- such things                       (そのようなもの)    <!-- C++ has plenty of such things! -->
+- the best                          (一番のもの)        <!-- That show is the best! -->
+- something else                    (格別)              <!-- That dinner was something else! -->
+- the only thing                    (唯一良くないもの)  <!-- It was great! The only thing was the food. -->
+- one of those days                 (最悪の日)
+- the right thing to do             (正しいこと)        <!-- We've decided to buy an electric car because it's the right thing to do for the environment. -->
 - the most commonly accepted way    (一番自然な表現)    <!-- but the most commonly accepted way is the -ing. -->
 - the thing that                    (するもの)          <!-- The thing that you use to see the stars. -->
 - the very first question           (一番最初の質問)    <!-- the very first question is the use of ..." -->
 - what I meant                      (言いたかったこと)  <!-- What I meant was, you should do it carefully. -->
 - A out of B                        (B 中 A)            <!-- We have watched 4 out of 5 seasons. -->
 - in one's XXs                      (.. 十代)           <!-- Some of her first students are new in their 20s. -->
+- I'm from a family of ...          (人家族です)        <!-- I'm from a family of four. -->
 
 # NOUN
 - hilly area                        (丘陵地)
@@ -31,6 +38,29 @@
 - seaweed                           (のり)
 - pickled plum                      (梅)
 - baked goods                       (総菜パン)
+- presence                          (存在感)            <!-- Hollywood has a very small presence. -->
+- passion                           (趣味)              <!-- It's my new passion. (最近の趣味) -->
+- treat oneself                     (ご褒美)
+- social welfare                    (福祉)
+- health insurance                  (健康保険)
+- mortgage                          (住宅ローン)        <!-- I took out my mortgage this year. (= loan for a house/property/condo) -->
+- ETA (Estimated Time of Arrival)   (帰る時間)          <!-- I send her a message with my ETA. -->
+- business hours                    (執務時間)
+- working hours                     (執務時間)          <!-- My regular working hours end at 6pm. -->
+- senior management                 (執行役)            <!-- It is easier to share my opinions when senior management is not present. -->
+- upper management                  (執行役)
+- big boss                          (すごく上の上司)
+- immediate boss                    (直属の上司)
+- direct boss                       (直属の上司)        <!-- My direct(section) boss is Japanese and my divigional boss is American. -->
+- supervisor                        (監督)
+- superior                          (先輩)
+- senior coworker                   (先輩)
+- coworker                          (同僚)              <!-- The coworker next to me is Indian and he doesn't speak Japanese. -->
+- subordinate                       (後輩)
+- junior coworker                   (後輩)
+- standard procedure                (決まり)            <!-- This is just a standard procedure. (念のためです) -->
+- side hustle                       (副業)
+- culture                           (文化)              <!-- The company culture is different. -->
 
 # VERB
 - be soaked                         (びしょ濡れ)        <!-- I'm soaked with sweat. -->
@@ -49,6 +79,53 @@
 - eat out                           (外食する)          <!-- Where is your favorite place to eat out? -->
 - treat                             (おごる)            <!-- You treat me every time we eat out. -->
 - split the check                   (割り勘する)
+- burn the midnight oil             (徹夜する)
+- pull an all-nighter               (徹夜する)
+- spend time ...                    (過ごす)            <!-- I spend time with my wife on my days off. -->
+- distingish A from B               (見分ける)
+- know A from B                     (見分ける)
+- communicate                       (伝える)
+- convey                            (伝える)            <!-- Do you understand what I' trying to convey to you? -->
+- disclose                          (伝える)            <!-- I'm sorry but I can't disclose all the details right now. -->
+- articulate                        (伝える)            <!-- If you want us to understand what you are saying, you're gonna have to articulate a little bit better. -->
+- suit                              (似合う 服装)       <!-- The hat suits you. -->
+- fit                               (似合う サイズ)     <!-- it fits you. -->
+- match                             (似合う 色合い)
+- go with                           (似合う 色合い)     <!-- The blue tie goes with you. -->
+- stubborn                          (固執する)
+- unwilling                         (固執する)
+- unable to change                  (固執する)
+- stuck in one's ways               (固執する)          <!-- My boss is stuck in his ways. -->
+- refuse                            (断る はっきり)     <!-- They wanted me to participate in the meeting, but I refused. -->
+- reject                            (断る 不適切だ)     <!-- The boss rejected my proposal. -->
+- decline                           (断る 丁寧に)       <!-- He declined my invitation to dinner -->
+- turn down                         (断る くだけて)     <!-- She turned down his marriage proposal, though he looked like a nice guy. -->
+- engrave                           (掘る)              <!-- We will buy personalized chopsticks with his name engraved on them. -->
+- intrigue                          (惹きつける)        <!-- I was very intrigued by the range of species found on that island. -->
+- confound                          (困惑させる old)    <!-- That problem confounded me. -->
+- confuse                           (困惑させる)
+- got rid of                        (捨てる)            <!-- I got rid of some equipment. -->
+- include                           (含む)              <!-- The prices displayed include delivery costs and taxes. -->
+- contain                           (含む)              <!-- I accidentally deleted a file containing very important information. -->
+- encompass                         (含む)              <!-- Her new job encompasses a broad range of tasks. -->
+- I'm getting tired of ...          (飽きてきた)        <!-- I'm getting tired of them. -->
+- gross                             (総興行収入挙げる)  <!-- If you look at the four highest grossing films in the history of the world, you've made three of them. -->
+- make it a habit to                (を習慣とする)
+- browse                            (スマホを見ている)  <!-- Some people are browsing their phones. -->
+- die                               (電池がなくなる)    <!-- my phone's battery died quickly. -->
+- tidy up                           (片づける 整理する)
+- work overtime                     (残業する)
+- work late                         (遅くまで仕事する)  <!-- She works late most of the days. -->
+- work went late                    (仕事遅くまであた)  <!-- Sorry, work went late. -->
+- start work at                     (時に仕事を始める)
+- finish work at                    (時に仕事を終える)
+- ace                               (達成する)          <!-- I think we aced that presentation. -->
+- nail                              (達成する)          <!-- I think I really nailed it this time. -->
+- hit it out of the park            (達成する)          <!-- We’ve hit it out of the park! -->
+- increment                         (増やす)
+- boost                             (増やす)            <!-- I wanted to boost sales this month, so I created a new team. -->
+- elevate                           (増やす)            <!-- If you want to elevate your performance, you're gonna have to practice. -->
+- amplify                           (増やす)            <!-- To amplify sales, we're gonna have to come up with a game plan. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
@@ -75,3 +152,23 @@
 - over the top                      (度が過ぎている)    <!-- I went over the top at my child's sports day. -->
 - fiddly                            (めんどくさい)      <!-- He is asking so many questions and it's so fiddly -->
 - hassle                            (めんどくさい)      <!-- What a hassle! I can't even figure out how to answer this question. -->
+- be bathed in                      (まみれになる)
+- be bathed in a golden light       (日光を浴びる)
+- be bathed in blood                (血まみれ)
+- be bathed in sweat                (汗だく)
+- tidy                              (整理された)
+- neat and tidy                     (整理された)
+- shipshape                         (整理された)
+- spotless                          (しみのない)
+- to the point                      (要領を得た)
+- beside the point                  (的外れの)
+- off the charts                    (半端ない)          <!-- His guitar performance was totally off the charts! -->
+- through the roof                  (突き抜けている)    <!-- My stress was through the roof -->
+- for                               (合う)              <!-- That job wasn't for me. -->
+- foreign owned                     (外資系)
+- based in                          (外資系)            <!-- My company is based in U.S. but 80% of the employees are Japanese. -->
+
+# SAYING
+- Happy wife, happy life
+- Apples and oranges
+- Mum's the word

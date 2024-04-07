@@ -10,6 +10,8 @@
   - (イライラさせる) The construction in front of my house is so noisy. It gets to me.
   - (イライラさせる) It’s raining the whole week! This weather is getting to me.
   - (気に障る) Don’t let it get to you. It’s really nothing.
+- get to (通いやすい) access
+  - We live in Kamioka so Yokohama is easy to get to.
 - be getting at
   - (言おうとする) I couldn't make out what you were getting at.
   - (言おうとする) What's the point you're getting at?
@@ -30,6 +32,9 @@
 - get the ball rolling
   - (始める) I'm gonna get the ball rolling on our wedding planning by booking the venue tomorrow.
 - get down to               (取り掛かる)        <!-- So much for the small talk. Let's get down to business -->
+- うまくやる
+  - get along
+    - My wife did not get along with the principal of her school.
 
 ## give
 
@@ -42,6 +47,8 @@
   - (おさらい) Good morning, everyone. We should get started. First, I'd like to go over the most recent marketing data.
   - (説明する) Could you go over it again?
   - (検討する) We will go over your application and let you know of the results next week.
+- (通う) go to work
+  - He goes to work by walk.
 
 ## guess
 

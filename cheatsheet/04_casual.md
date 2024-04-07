@@ -155,3 +155,9 @@ I know what you mean.           (私もそう思う)
 - Could you say that again?     (もう一度言って？)          <!-- Could you say that more simply, please? -->
 - is that true?                 (これは正しいですか？)
 - what should I do ...          (どうすればよいか)          <!-- What should I do in a situation like this? -->
+- Can you see me?               (見えます？)
+- Can you hear me?              (聞こえます？)
+- I was on mute.                (ミュートにしてました)
+- I can't see                   (見えない)                  <!-- I can't see you/the material/the notes. -->
+- Could you make ... bigger?    (大きくして)                <!-- Could you make the material/notes bigger? -->
+- Could you type it in the chat (文字にして)
