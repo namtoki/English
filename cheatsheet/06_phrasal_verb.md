@@ -22,6 +22,7 @@
 - cut ... off                   (遮る)              <!-- The chairman cut me off, saying, "brabrabra." -->
 - cut corners                   (手を抜く)          <!-- You shouldn't cut corners. -->
 - cut down on                   (減らす)            <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
+- cut in (on)                   (割り込む)          <!-- Bob cut in on our conversation, saying, "I'm against it!" But everybody ignored him. -->
 
 # D
 ## DRIVE
@@ -148,11 +149,14 @@
 - tell A from B                 (区別する)          <!-- Bob was so beside himself that he could scarcely tell fact from fiction. -->
 - tell ... apart                (見分ける)          <!-- Dolly resembles her big sister in every way. You can't tell them apart. -->
 ## TURN
+- turn ...'s back on            (背を向ける 無視)   <!-- We cannot turn our backs on desperate people who are at risk. -->
+- turn a blind eye              (見て見ぬふりする)  <!-- He saw someone being bullied, but he turned a blind eye. -->
+- turn a deaf ear               (聞こえぬふりする)
+- turn away                     (顔をそむける)      <!-- In spite of our compliments, he frowned and turned away. He was so rude. -->
 - turn out                      (という結果となる)  <!-- Take it easy. I can assure you that everything will turn out fine. / It turned out OK. -->
 - turn out                      (と判明する)        <!-- It turned out to be true. -->
-- turn out                      (集まる)            <!-- I think they will turn out shortly. -->
 - turn out                      (消す)              <!-- Please turn out the light. -->
-- turn ...'s back on            (背を向ける 無視)   <!-- We cannot turn our backs on desperate people who are at risk. -->
+- turn out                      (集まる)            <!-- I think they will turn out shortly. -->
 - turn to                       (頼る)              <!-- Now that I've found that there's no one to turn to, I'll have to stand on my own two feet. -->
 
 # U

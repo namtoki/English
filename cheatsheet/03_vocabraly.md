@@ -72,6 +72,7 @@
 - be for                            (合う)              <!-- That job wasn't for me. -->
 - be eager to                       (切望する 中 → 良)
 - be anxious to                     (切望する 悪 → 中)  <!-- The slaves were anxious to alter their destinies. -->
+- be at his disposal                (思い通りにできる)  <!-- He claimed that the enormous property was at his disposal. -->
 - die out                           (廃れた)            <!-- The custom of tipping might die out because of digital payments. -->
 - get                               (こぼす)            <!-- Just don't get sauce on your nice shirt. -->
 - get wet                           (濡れる)            <!-- I got wet on my way to work. -->
