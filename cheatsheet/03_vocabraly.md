@@ -170,6 +170,13 @@
 - through the roof                  (突き抜けている)    <!-- My stress was through the roof -->
 - foreign owned                     (外資系)
 - based in                          (外資系)            <!-- My company is based in U.S. but 80% of the employees are Japanese. -->
+- honest                            (率直)              <!-- She is an honest person. -->
+- sincere                           (誠実)              <!-- He is a sincere person. -->
+- genuine                           (本物)              <!-- His feelings for her is genuine. -->
+- obedient                          (従順)              <!-- The new trainee,Bea,is very obedient. -->
+- vague                             (曖昧な ぼやっと)   <!-- He gave me a vague description of the incident. -->
+- obscure                           (曖昧な 難解)       <!-- The maening of that poem is obscure. -->
+- ambiguous                         (曖昧な 様々な解釈) <!-- Her statement was ambiguous, and it could be interpreted in different ways -->
 
 # SAYING
 - Happy wife, happy life
