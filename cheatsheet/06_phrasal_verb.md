@@ -56,6 +56,7 @@
 ## GIVE
 - give off                      (発する)            <!-- A woman passed by me giving off a subtle scent of perfume. -->
 ## GO
+- go along with                 (賛成する 支持する) <!-- No one backed me up at first, but eventually I talked everyone into going along with my plan, -->
 - go over                       (おさらい)          <!-- Good morning, everyone. We should get started. First, I'd like to go over the most recent marketing data. -->
 - go over                       (説明する)          <!-- Could you go over it again? -->
 - go over                       (検討する)          <!-- We will go over your application and let you know of the results next week. -->
@@ -142,6 +143,7 @@
 - take off                      (休みを取る)        <!-- I think I can take off two weeks in July. / take the whole day off -->
 - take ... out of context       (文脈無視)          <!-- It can easily be taken out of context. -->
 - take it                       (それにします)      <!-- I'll take it. -->
+- take ... into doing           (説得してさせる)    <!-- No one backed me up at first, but eventually I talked everyone into going along with my plan, -->
 ## TAP
 - tap into                      (活用する)          <!-- I think that taps into the subconscious that we all, kind of, share -->
 ## TELL

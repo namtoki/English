@@ -61,6 +61,7 @@
 - now that                      (今や)                  <!-- Now that things are better, we should talk about the problem. -->
 - for the first time in         (ぶりに)                <!-- I'm going to Hawaii for the first time in 1 year. -->
 - in the course of              (の過程で)              <!-- In the course of its economic development, Japan has ... -->
+- in doing                      (するときは)            <!-- In making a decision, I rely not on logic but on insinct. -->
 ## LOCATION
 - up there                      (上のほうで)
 - down there                    (下のほうで)
