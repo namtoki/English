@@ -3,6 +3,7 @@
 - the best                          (一番のもの)        <!-- That show is the best! -->
 - something else                    (格別)              <!-- That dinner was something else! -->
 - the only thing                    (唯一良くないもの)  <!-- It was great! The only thing was the food. -->
+- some of the things                (いくつか)          <!-- What are some of the things that you can say when you don't understand something? -->
 - one of those days                 (最悪の日)
 - the right thing to do             (正しいこと)        <!-- We've decided to buy an electric car because it's the right thing to do for the environment. -->
 - the most commonly accepted way    (一番自然な表現)    <!-- but the most commonly accepted way is the -ing. -->

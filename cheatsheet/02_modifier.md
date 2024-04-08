@@ -34,6 +34,7 @@
 - a number of ...               (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
 - to go                         (残りの)                <!-- We have ten minutes to go. -->
 - on itself                     (それ自体は)            <!-- The revolution in itself, bore no fruit, after all. -->
+- each and every one of ...     (ひとつひとつ)          <!-- Today's tips are going to help you with each and every one of these questions and more. -->
 ## TIME
 - right away                    (今すぐ)                <!-- I'll come right away. -->
 - at some point                 (そろそろ)              <!-- We should really clean the fridge at some point. -->
