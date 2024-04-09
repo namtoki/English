@@ -140,6 +140,7 @@
 - work as                           (として働く)        <!-- I work as a software engineer for an audio equipment manufacturer. -->
 - go home                           (家に向かって出発)  <!-- Dave goes home at 8 p.m., so he comes home at 9 p.m. -->
 - come/get home (from work/school)  (帰宅する)          <!-- Dave goes home at 8 p.m., so he comes home at 9 p.m. -->
+- get 人 物                         (人に物を提供する)  <!-- If I get you something else, I'm afraid you'll have to pay for it. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->

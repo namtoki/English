@@ -20,6 +20,8 @@
 - ★ going back to               (に戻ると)              <!-- Going back to your question, my answer is no. -->
 - ★ in the first place          (そもそも)              <!-- Why was he at the party in the first place? He wasn't invited, was he? -->
 - to begin with                 (そもそも まず第一に)   <!-- To begin with, its theme is obscure. -->
+- above all                     (何よりもまず)          <!-- Above all, scientific terms call for precise definitions. -->
+- first/most of all             (何よりもまず)
 ## RANGE
 - ★ on the whole                (全体的にみると)        <!-- On the whole, it was a great trip. -->
 - all things considered         (全体的にみると)        <!-- All things considered, that was a successful event. -->
@@ -124,6 +126,7 @@
 - in which case                 (この場合 文語)
 - except for                    (を除いて)              <!-- The auditorium was empty except for a single piece of furniture. -->
 - not including                 (を除いて)              <!-- I work 8 hours not including lunch (含まずに) -->
+- apart/aside from              (以外は)                <!-- This is good apart from the terrible handwriting. -->
 - without                       (無しで, しないで)      <!-- I work 8 hours without lunch -->
 - instead of ...                (するのではなく)        <!-- We dediced to chill at home instead of going out. -->
 - rather than ...               (よりもむしろ)

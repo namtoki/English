@@ -139,6 +139,7 @@ I know what you mean.           (私もそう思う)
 - How do you feel about ... ?   (どう？どう思う？)          <!-- How do you feel about the service in Japan? -->
 - What do you think about ing   (どう？どう思う？)          <!-- What do you think about moving to Osaka? -->
 - What's better                 (どっちがいい？)
+- What if ...                   (したらどうなるだろう？)    <!-- What if I don't meet the deadline? -->
 ## LESSON
 - Can I ask you a question?     (質問してもいい？)
 - How do you say .. in English? (どう表現する？)

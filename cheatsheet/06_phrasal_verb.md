@@ -6,6 +6,8 @@
 - bring up                      (話に出す)          <!-- The comment you made is really spot-on. I'm glad you brought that up. -->
 
 # C
+## CALL
+- call for                      (必要とする)        <!-- Above all, scientific terms call for precise definitions. -->
 ## CHECK
 - check with                    (相談する)          <!-- I need to check with my boss before I can make a decision about when to take my summer vacation. -->
 ## CHOOSE
@@ -68,6 +70,8 @@
 ## HANG
 - hang on                       (待つ)              <!-- Hang on a sec. -->
 - hang in there                 (頑張って)
+## HAVE
+- have one's hands full         (手が離せない)      <!-- I have my hands full right now. -->
 ## HOLD
 - hold ... up                   (遅らせる)          <!-- The train was held up because of the railroad accident. -->
 - hold ... up                   (時間を取らせる)    <!-- Sorry for holding you up from going home. -->
@@ -81,6 +85,17 @@
 - keep an eye on                (目を離さない)      <!-- Can you keep an eye on my kids for a while? -->
 ## KICK
 - kick out                      (追い出す)          <!-- He was caught having an affair. So, I kicked him out of my house. -->
+
+# L
+## LEAN
+- lean toward                   (考えが傾く)        <!-- I haven't decided yet, but I'm leaning toward B. -->
+## LET
+- let go of                     (手を離す)          <!-- Let go of your negative outlook on life. -->
+## LIVE
+- live up to                    (応える)            <!-- We expected him to defeat his opponent, but he failed to live up to our expectation. -->
+## LOOK
+- be looking forward to         (楽しみにしている)  <!-- I'm looking forward to your souvenirs. -->
+- look ... over                 (ざっと目を通す)    <!-- I want you to look this over before I turn it in. -->
 
 # M
 ## MAKE
@@ -98,16 +113,6 @@
 ## MOVE
 - move around                   (あちこち動き回る)
 - move over                     (席を詰める)        <!-- Could you move over a little? -->
-
-# L
-## LEAN
-- lean toward                   (考えが傾く)        <!-- I haven't decided yet, but I'm leaning toward B. -->
-## LET
-- let go of                     (手を離す)          <!-- Let go of your negative outlook on life. -->
-## LIVE
-- live up to                    (応える)            <!-- We expected him to defeat his opponent, but he failed to live up to our expectation. -->
-## LOOK
-- be looking forward to         (楽しみにしている)  <!-- I'm looking forward to your souvenirs. -->
 
 # N
 
@@ -150,6 +155,8 @@
 - tell ... off                  (説教する)          <!-- Our neighbor told us off for making a mess in his yard. -->
 - tell A from B                 (区別する)          <!-- Bob was so beside himself that he could scarcely tell fact from fiction. -->
 - tell ... apart                (見分ける)          <!-- Dolly resembles her big sister in every way. You can't tell them apart. -->
+## THINK
+- think ... over                (慎重に考える)      <!-- You ought to think over whether the premise is valid or not. -->
 ## TURN
 - turn ...'s back on            (背を向ける 無視)   <!-- We cannot turn our backs on desperate people who are at risk. -->
 - turn a blind eye              (見て見ぬふりする)  <!-- He saw someone being bullied, but he turned a blind eye. -->
@@ -160,6 +167,7 @@
 - turn out                      (消す)              <!-- Please turn out the light. -->
 - turn out                      (集まる)            <!-- I think they will turn out shortly. -->
 - turn to                       (頼る)              <!-- Now that I've found that there's no one to turn to, I'll have to stand on my own two feet. -->
+- turn/hand ... in              (提出する)          <!-- I want you to look this over before I turn it in. -->
 
 # U
 
