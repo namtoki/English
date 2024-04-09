@@ -23,6 +23,8 @@
 - be a blur                     (覚えていない)                  <!-- Last weekend was a blur. -->
 - I can't remember ...          (覚えていない)
 - I have to say ...             (と言わざるを得ない)            <!-- I have to say your place is adorable! -->
+- be likely to                  (しそうだ)                      <!-- It's likely to rain tomorrow. -->
+- be more likely to             (する可能性が高い)              <!-- In engineering, people are more likely to work in their feild. -->
 ## SUBJUNCTION
 - would                         (そうなったら .. と思う)        <!-- I would be too nervous. / That would be awesome. -->
 - I would                       (私なら ... する)               <!-- I would go, if I were you. -->
@@ -93,7 +95,7 @@
 - be eating me alive.           (押しつぶされそう)              <!-- Keeping secrets was eating me alive. -->
 
 # FACT
-- It takes ...                  (かかる)                        <!-- It takes her 25minutes to walk to work. -->
+- It takes ... N (time)s        (かかる)                        <!-- It takes her 25 minutes to walk to work. -->
 - It's a custom to ...          (する習慣だ)                    <!-- It's a custom to take off your shoes before entering ... -->
 - It's traditional to ...       (する習慣だ)                    <!-- In Japan, it's traditional to visit ... -->
 - be supposed to ...            (するものだ)                    <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->

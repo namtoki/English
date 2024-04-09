@@ -160,3 +160,5 @@ one-off
 - They turned out on time for the campaign.
 - toward the end of afternoon
 - Oh really? Well, it's not important. Anyway...
+- Some coworkers are from an older generation, so the atmosphere can be traditional.
+- Senior coworkers have established styles of working.

@@ -137,6 +137,9 @@
 - boost                             (増やす)            <!-- I wanted to boost sales this month, so I created a new team. -->
 - elevate                           (増やす)            <!-- If you want to elevate your performance, you're gonna have to practice. -->
 - amplify                           (増やす)            <!-- To amplify sales, we're gonna have to come up with a game plan. -->
+- work as                           (として働く)        <!-- I work as a software engineer for an audio equipment manufacturer. -->
+- go home                           (家に向かって出発)  <!-- Dave goes home at 8 p.m., so he comes home at 9 p.m. -->
+- come/get home (from work/school)  (帰宅する)          <!-- Dave goes home at 8 p.m., so he comes home at 9 p.m. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
@@ -180,6 +183,7 @@
 - vague                             (曖昧な ぼやっと)   <!-- He gave me a vague description of the incident. -->
 - obscure                           (曖昧な 難解)       <!-- The maening of that poem is obscure. -->
 - ambiguous                         (曖昧な 様々な解釈) <!-- Her statement was ambiguous, and it could be interpreted in different ways -->
+- lumpy                             (でこぼこな 塊ある) <!-- The old sofa is worn out and lumpy. -->
 
 # SAYING
 - Happy wife, happy life

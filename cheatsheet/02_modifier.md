@@ -48,7 +48,7 @@
 - for years to come             (この先数年)            <!-- In all likelihood, the birthrate will continue to decline steadily for years to come. -->
 - every ...                     (ごとに)                <!-- The vehicles are inspected for defects every three months. -->
 - every other day               (隔日で)
-- n months                      (カ月)                  <!-- I've been working for the company for 6 months. -->
+- for N (time)s                 (の間)                  <!-- I've been working for the company for 6 months. -->
 - half a year                   (半年)                  <!-- I'll be living here for half a year. -->
 - all week                      (1 週間ずっと)
 - ★ on and off                  (断続的に)
@@ -63,7 +63,16 @@
 - for the first time in         (ぶりに)                <!-- I'm going to Hawaii for the first time in 1 year. -->
 - in the course of              (の過程で)              <!-- In the course of its economic development, Japan has ... -->
 - ★ in doing                    (するときは)            <!-- In making a decision, I rely not on logic but on insinct. -->
+- on Sunday                     (曜日に)
 - bright and early              (朝早くに)              <!-- The store opens at 8 a.m. tomorrow, so you can get your hands on the product bright and early. -->
+- in the early morning          (早朝に)
+- in the morning                (午前に)
+- in the mid-morning            (正午より少し前)
+- at noon                       (正午に)                <!-- I'll be back on Monday at noon. -->
+- in the afternoon              (午後に)
+- in the early evening          (夕方に)
+- in the evening                (日没後に)
+- at night                      (夜に)
 ## LOCATION
 - up there                      (上のほうで)
 - down there                    (下のほうで)
@@ -90,17 +99,17 @@
 
 # SUPPLEMENT
 ## REASON
-- because + 文                  (直接的理由)
+- ★ because + 文                (直接的理由)
 - because of + Noun             (直接的理由)
 - since                         (既出の理由)
 - as                            (補足的理由)
-- the reason being              (というのも)            <!-- I decided to turn down the job offer. The reason being that, I ... -->
+- ★ the reason being            (というのも)            <!-- I decided to turn down the job offer. The reason being that, I ... -->
 - due to                        (悪い理由)
 - owing to                      (形式的な理由 / 文頭)   <!-- Owing to illness, some representatives were absent from ... -->
 - on account of                 (困難や問題などの理由)  <!-- Our flight to Vienna was delayed on account of a minor accident. -->
-- thanks to                     (良い理由 / 文頭)
+- ★ thanks to                   (良い理由 / 文頭)
 ## OBJECTIVE
-- (in order) to                 (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
+- ★ (in order) to               (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
 - so as to                      (のために 堅い)
 ## CONCLUSION
 - simply put                    (簡単に言うと)          <!-- Simply put, he doesn't like sports. -->
@@ -135,37 +144,38 @@
 - to my shoulders               (肩まで)                <!-- I entered the Ghanges river to my shoulders. -->
 ## HOW
 - on impulse                    (衝動的に)              <!-- I'm apt to buy things on impulse whenever something is on sale. -->
-- in a row                      (連続して)              <!-- the unemployment rate has risen three quarters in a row. -->
+- ★ in a row                    (連続して)              <!-- the unemployment rate has risen three quarters in a row. -->
 - on purpose                    (わざと)                <!-- He made a mistake on purpose. -->
 - purposely                     (わざと)                <!-- He purposely didn't say anything. -->
-- out of habit                  (くせで)                <!-- I got the Namboku line out of habit. -->
+- ★ out of habit                (くせで)                <!-- I got the Namboku line out of habit. -->
 - in a rage                     (激怒して)              <!-- "Turn the faucet off!" mom yelled in a rage. -->
 - on behalf of ...              (代表して)              <!-- On behalf of all staff, I'd like to express our sympathy for the victims. -->
 - on behalf of ...              (の代わりに)            <!-- I thank you on behalf of my husband. -->
 - in place of ...               (の代わりに)            <!-- I used Knox’s PC in place of mine today. -->
 - in earnest                    (真面目に)              <!-- Japan must undertake sweeping deregulation in earnest. -->
 - for the (fun | joy) of it     (趣味として)            <!-- I just cook for the fun of it. -->
-- up-front                      (前もって)              <!-- This hotel requires a cash deposit up-front. -->
+- ★ up-front                    (前もって)              <!-- This hotel requires a cash deposit up-front. -->
 - in advance                    (前もって)
-- just in case                  (念のため)              <!-- I'll write it down just in case. -->
-- for a rainy day               (念のため)              <!-- I decided to put some aside for a rainy day. -->
+- ★ just in case                (念のため)              <!-- I'll write it down just in case. -->
+- ★ for a rainy day             (念のため)              <!-- I decided to put some aside for a rainy day. -->
 - for the first time            (初めて)                <!-- Last Saturday, I came here for the first time. -->
-- at the same time              (同時に)                <!-- It's hard being the writer and an actor at the same time (両立) -->
+- ★ at the same time            (同時に)                <!-- It's hard being the writer and an actor at the same time (両立) -->
 - to ...'s heart's content      (思う存分)              <!-- The aristocrats abused their privileges to their hearts' content. -->
 - one-off                       (一度限りの)            <!-- The expense incurred this year to construct the building is a one-off cost. -->
+- door to door                  (家から〇〇まで)        <!-- It takes me about one hour door to door. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->
 - this might be just me         (自分だけかもやけど)    <!-- This might be just me, but don't you think this is a bit too expensive? -->
 - if you ask me                 (私に言わせてみれば)    <!-- It was a little long, if you ask me. -->
-- as ... anticipated            (予想していた通り)      <!-- As we anticipated, the unemployment rate has risen .... -->
-- if anything                   (むしろ)                <!-- But now, if anything, they are making too much of it. -->
+- ★ as ... anticipated          (予想していた通り)      <!-- As we anticipated, the unemployment rate has risen .... -->
+- ★ if anything                 (むしろ)                <!-- But now, if anything, they are making too much of it. -->
 - as it is                      (残念ながら)            <!-- As it is, ordinary people cannot afford to purchase such luxuries. -->
 - anyway                        (いずれにしても)
-- in any case                   (いずれにしても)        <!-- In any case, the union has to compromise to a certain extent. -->
+- ★ in any case                 (いずれにしても)        <!-- In any case, the union has to compromise to a certain extent. -->
 - at the end of the day,        (結局のところ)          <!-- At the end of the day, this is not that important. -->
 - if you think about it         (考え方によっては)      <!-- It's crazy how we can communicate like this if you think about it. -->
-- if you don't mind             (よろしければ)
+- ★ if you don't mind           (よろしければ)
 - The fact is                   (実は)                  <!-- The fact is, I don't have enough money. -->
 - at this point                 (ここまで来たら)        <!-- I'm ready to quit at this point. -->
 - You know as well as I do that (ご存じかと思いますが)
