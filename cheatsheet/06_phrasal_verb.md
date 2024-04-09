@@ -173,6 +173,7 @@
 ## WORK
 - work for                      (勤めている)        <!-- My current company is the fourth company I've worked for. -->
 - work for                      (都合がよい)        <!-- That doesn't work for my wife. -->
+- work on                       (改善する 取り組む) <!-- I need to work on being more punctual. -->
 
 # X
 

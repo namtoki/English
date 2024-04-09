@@ -13,6 +13,7 @@
 - A out of B                        (B 中 A)            <!-- We have watched 4 out of 5 seasons. -->
 - in one's XXs                      (.. 十代)           <!-- Some of her first students are new in their 20s. -->
 - I'm from a family of ...          (人家族です)        <!-- I'm from a family of four. -->
+- downer                            (がっかりなもの)    <!- The news is a bit of a downer. -->
 
 # NOUN
 - hilly area                        (丘陵地)
