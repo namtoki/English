@@ -72,18 +72,18 @@
 - ★ (Let's) Say                 (とします)              <!-- Say I invest a hundred dollars now, how much will I ... -->
 
 # EMPHASIS / ROUGH
-- Such a                        (まさしく)              <!-- That was such a fun day. / You are such a pro. -->
+- ★ Such a                      (まさしく)              <!-- That was such a fun day. / You are such a pro. -->
 - that                          (そんなに)              <!-- I guess it wasn't that important. -->
-- next to ...                   (ほとんど ... ない)     <!-- I know next to nothing about it. -->
+- next to ...                   (ほとんど)              <!-- I know next to nothing about it. -->
 - high-key                      (本当に)                <!-- I high-key cannot stand when my roommate sings in the shower. -->
 - like ...                      (約)                    <!-- There were only like thirty people there. -->
-- kind of ...                   (なんとなく少し)        <!-- I'm kind of hungry. -->
+- ★ kind of ...                 (なんとなく少し)        <!-- I'm kind of hungry. -->
 - low-key ...                   (なんとなく少し)        <!-- I’m low-key in love with my study partner’s new cologne. -->
-- some kind of ...              (なにか)                <!-- born with some kind of special talent. / some kind of sport -->
+- ★ some kind of ...            (なにか)                <!-- born with some kind of special talent. / some kind of sport -->
 - ... like                      (とか)                  <!-- Things like party hats, paper plates and napkins. -->
-- ... things/stuff like that    (みたいなもの)          <!-- I think he's learning Spanish or something like that, if that makes sense. -->
+- ★ ... things/stuff like that  (みたいなもの)          <!-- I think he's learning Spanish or something like that, if that makes sense. -->
 - ... and so on                 (など)                  <!-- I'm tired of doing the dished, doing the laundry, and so on! -->
-- ... kind of thing             (的なもの)              <!-- This is a flip phone kind of thing but a bit different. -->
+- ★ ... kind of thing           (的なもの)              <!-- This is a flip phone kind of thing but a bit different. -->
 - ... and stuff                 (とかいろいろ)          <!-- We've got to do editing and stuff. -->
 - ... or whatever               (とかいろいろ)          <!-- I'm just going to read a book or whatever. -->
 - ... or so                     (とかそのへん)          <!-- It's 20 dollars or so. -->
