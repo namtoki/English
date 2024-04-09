@@ -45,6 +45,7 @@
 - soon                          (近いうちに)
 - ★ from now on                 (これからは)            <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
 - ★ by the time ...             (するまでには)          <!-- By the time I got wake up, the snow had stopped falling. -->
+- no later than ...             (遅くとも .. までには)  <!-- Please hand in your assignment via e-mail no later than 5:00 PM on June 10. -->
 - for years to come             (この先数年)            <!-- In all likelihood, the birthrate will continue to decline steadily for years to come. -->
 - every ...                     (ごとに)                <!-- The vehicles are inspected for defects every three months. -->
 - every other day               (隔日で)
@@ -84,6 +85,7 @@
 - ★ Such a                      (まさしく)              <!-- That was such a fun day. / You are such a pro. -->
 - that                          (そんなに)              <!-- I guess it wasn't that important. -->
 - next to ...                   (ほとんど)              <!-- I know next to nothing about it. -->
+- anythin but ...               (なんてとんでもない)    <!-- Joe is anything but diligent. That's why he flunked math again. -->
 - high-key                      (本当に)                <!-- I high-key cannot stand when my roommate sings in the shower. -->
 - like ...                      (約)                    <!-- There were only like thirty people there. -->
 - ★ kind of ...                 (なんとなく少し)        <!-- I'm kind of hungry. -->
