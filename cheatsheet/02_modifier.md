@@ -119,8 +119,8 @@
 - simply put                    (簡単に言うと)          <!-- Simply put, he doesn't like sports. -->
 - in a nutshell                 (要約すると)            <!-- That's it in a nutshell. -->
 ## ADDITION
-- but at the same time          (と同時にですね)        <!-- Working from home is great. but at the same time, it's king of ... -->
-- whereas                       (一方で)                <!-- He likes learning from textbooks, whereas I like learning on the job. -->
+- ★ but at the same time        (と同時にですね)        <!-- Working from home is great. but at the same time, it's king of ... -->
+- ★ whereas                     (一方で)                <!-- He likes learning from textbooks, whereas I like learning on the job. -->
 - and the next thing I knew     (次の瞬間)              <!-- I felt dizzy, and the next thing I knew I was ... -->
 - in that case                  (だったら)              <!-- In that case, I’ll have a beer. -->
 - in which case                 (この場合 文語)
@@ -134,17 +134,17 @@
 - better than ...               (よりも)                <!-- I like vanilla better than chocolate. -->
 - when compared                 (と比べて)              <!-- Global emissions could rise 1.1 percent this year when compared to 2022. -->
 - in spite of                   (に反して)              <!-- In spite of our compliments, he frowned and turned away. He was so rude. -->
-- despite                       (と関係なく)            <!-- Despite the risk, I would like to proceed with the plan. -->
+- ★ despite                     (と関係なく)            <!-- Despite the risk, I would like to proceed with the plan. -->
 ## EXTENT
-- some more                     (もう少し)              <!-- I'll think about it some more. -->
+- ★ some more                   (もう少し)              <!-- I'll think about it some more. -->
 - to the point where ...        (くらいまで)            <!-- I studied English so much to the point where my dream started being in English. -->
 - about / around                (だいたい)
 - approximately                 (だいたい)
 - roughly                       (だいたい)
 - more or less                  (だいたい)              <!-- Your pronunciation is more or less correct. -->
 - pretty much                   (だいたい)              <!-- This is pretty much done. -->
-- in a (way | sense)            (ある意味)              <!-- Yep, in a way. -->
-- somewhat                      (ある程度, いくらか)    <!-- Strictly speaking, his view differs somewhat from mine. -->
+- ★ in a (way | sense)          (ある意味)              <!-- Yep, in a way. -->
+- ★ somewhat                    (ある程度, いくらか)    <!-- Strictly speaking, his view differs somewhat from mine. -->
 - to (a certain | some) extent  (ある程度, いくらか)    <!-- In any case, the union has to compromise to a certain extent. -->
 - to my shoulders               (肩まで)                <!-- I entered the Ghanges river to my shoulders. -->
 ## HOW
@@ -163,7 +163,7 @@
 - in advance                    (前もって)
 - ★ just in case                (念のため)              <!-- I'll write it down just in case. -->
 - ★ for a rainy day             (念のため)              <!-- I decided to put some aside for a rainy day. -->
-- for the first time            (初めて)                <!-- Last Saturday, I came here for the first time. -->
+- ★ for the first time          (初めて)                <!-- Last Saturday, I came here for the first time. -->
 - ★ at the same time            (同時に)                <!-- It's hard being the writer and an actor at the same time (両立) -->
 - to ...'s heart's content      (思う存分)              <!-- The aristocrats abused their privileges to their hearts' content. -->
 - one-off                       (一度限りの)            <!-- The expense incurred this year to construct the building is a one-off cost. -->
@@ -210,6 +210,6 @@
 
 # TAG
 - if that makes sense?          (伝わった？)
-- you know what I mean?         (伝わった？)
-- or not really?                (それとも違う？)        <!-- Do you like this kind of music, or not really? -->
+- ★ you know what I mean?       (伝わった？)
+- ★ or not really?              (それとも違う？)        <!-- Do you like this kind of music, or not really? -->
 - or what?                      (それとも違う？)        <!-- Are we gonna have fun or what? -->
