@@ -25,6 +25,7 @@
 - cut corners                   (手を抜く)          <!-- You shouldn't cut corners. -->
 - cut down on                   (減らす)            <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
 - cut in (on)                   (割り込む)          <!-- Bob cut in on our conversation, saying, "I'm against it!" But everybody ignored him. -->
+- cut to the chase              (要点を言う)        <!-- Since we've only got five minutes, I'm going to cut to the chase. -->
 
 # D
 ## DRIVE
@@ -55,6 +56,7 @@
 - get to                        (気に障る)          <!-- Don’t let it get to you. It’s really nothing. -->
 - get to                        (通う)              <!-- We live in Kamioka so Yokohama is easy to get to. = access-->
 - get up                        (起きる)            <!-- He gets up at 7 AM. -->
+- get one's head around ...     (理解する)          <!-- I'm going to need a few minutes to get my head around the diagram you just showed me. -->
 ## GIVE
 - give off                      (発する)            <!-- A woman passed by me giving off a subtle scent of perfume. -->
 ## GO

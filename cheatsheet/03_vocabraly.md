@@ -141,6 +141,7 @@
 - go home                           (家に向かって出発)  <!-- Dave goes home at 8 p.m., so he comes home at 9 p.m. -->
 - come/get home (from work/school)  (帰宅する)          <!-- Dave goes home at 8 p.m., so he comes home at 9 p.m. -->
 - get 人 物                         (人に物を提供する)  <!-- If I get you something else, I'm afraid you'll have to pay for it. -->
+- get one's hopes up                (期待する)          <!-- Don't get your hopes up because you might not actually get promoted. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
@@ -185,6 +186,7 @@
 - obscure                           (曖昧な 難解)       <!-- The maening of that poem is obscure. -->
 - ambiguous                         (曖昧な 様々な解釈) <!-- Her statement was ambiguous, and it could be interpreted in different ways -->
 - lumpy                             (でこぼこな 塊ある) <!-- The old sofa is worn out and lumpy. -->
+- old-school                        (懐かしい)          <!-- This song is so old-school. -->
 
 # SAYING
 - Happy wife, happy life

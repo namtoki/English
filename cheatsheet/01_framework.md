@@ -79,6 +79,7 @@
 - I'm terrible with             (苦手)
 - I don't care for              (苦手)                          <!-- I don't care for spicy food. -->
 - I remember                    (懐かしい)                      <!-- I remember that trip! -->
+- This ... brings back memories (懐かしい)                      <!-- This song brings back memories! -->
 - It/Something doesn't add up   (腑に落ちない)                  <!-- It doesn't add up at all. -->
 - might as well ...             (してもいい)                    <!-- We might as well walk there. -->
 - It doesn't matter             (どうでもよい)                  <!-- It doesn't matter. I quit. -->
