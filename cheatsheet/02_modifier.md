@@ -135,6 +135,8 @@
 - when compared                 (と比べて)              <!-- Global emissions could rise 1.1 percent this year when compared to 2022. -->
 - in spite of                   (に反して)              <!-- In spite of our compliments, he frowned and turned away. He was so rude. -->
 - ★ despite                     (と関係なく)            <!-- Despite the risk, I would like to proceed with the plan. -->
+- what's more                   (おまけに さらに)       <!-- I met the man by chance. He's gentle and smart. What's more, he's single. -->
+- besides                       (それに さらに)         <!-- I don’t wanna go out. Besides, I’m so tired today. -->
 ## EXTENT
 - ★ some more                   (もう少し)              <!-- I'll think about it some more. -->
 - to the point where ...        (くらいまで)            <!-- I studied English so much to the point where my dream started being in English. -->

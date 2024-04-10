@@ -144,6 +144,8 @@
 - get one's hopes up                (期待する)          <!-- Don't get your hopes up because you might not actually get promoted. -->
 - be composed of                    (で構成されている)  <!-- This substance is mostly composed of hydrogen and oxygen. -->
 - consist of                        (で構成されている)  <!-- Muscle tissue consists of a vast number of cells. -->
+- go/be on a diet                   (ダイエットする/中)
+- take a chance / take the plunge   (思い切てやてみる)  <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->

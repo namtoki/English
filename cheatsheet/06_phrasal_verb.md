@@ -4,6 +4,7 @@
 ## BRING
 - bring about                   (もたらす)          <!-- Medical breakthroughs have brought about great benefits for humanity as a whole. -->
 - bring up                      (話に出す)          <!-- The comment you made is really spot-on. I'm glad you brought that up. -->
+- bring up                      (育てる)            <!-- His nephew was brought up to be modest and considerate. -->
 
 # C
 ## CALL
@@ -138,6 +139,8 @@
 # R
 
 # S
+## SHOW
+- show off                      (見せびらかす)      <!-- Naomi likes to show off her perfect figure. -->
 ## STAND
 - stand on one's own two feet   (自立する)          <!-- Now that I've found that there's no one to turn to, I'll have to stand on my own two feet. -->
 ## STAY
@@ -155,6 +158,8 @@
 - take ... out of context       (文脈無視)          <!-- It can easily be taken out of context. -->
 - take it                       (それにします)      <!-- I'll take it. -->
 - take ... into doing           (説得してさせる)    <!-- No one backed me up at first, but eventually I talked everyone into going along with my plan, -->
+- take to                       (好きになる)        <!-- I introduced Bob to my folks, and they took to him at once. -->
+- take to                       (習慣化する)        <!-- He took to his new job quickly. -->
 ## TAP
 - tap into                      (活用する)          <!-- I think that taps into the subconscious that we all, kind of, share -->
 ## TELL
@@ -174,6 +179,7 @@
 - turn out                      (集まる)            <!-- I think they will turn out shortly. -->
 - turn to                       (頼る)              <!-- Now that I've found that there's no one to turn to, I'll have to stand on my own two feet. -->
 - turn/hand ... in              (提出する)          <!-- I want you to look this over before I turn it in. -->
+- turn ... down                 (断る)              <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
 
 # U
 
