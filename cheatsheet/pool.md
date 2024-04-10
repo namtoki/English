@@ -162,3 +162,6 @@ one-off
 - Oh really? Well, it's not important. Anyway...
 - Some coworkers are from an older generation, so the atmosphere can be traditional.
 - Senior coworkers have established styles of working.
+- I had my iPod pinched from my school bag.
+- I had my uniform cleaned for the graduation ceremony.
+- She often gets an Italian restaurant to deliver a pizza to her home.

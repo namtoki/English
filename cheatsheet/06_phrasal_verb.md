@@ -57,6 +57,7 @@
 - get to                        (通う)              <!-- We live in Kamioka so Yokohama is easy to get to. = access-->
 - get up                        (起きる)            <!-- He gets up at 7 AM. -->
 - get one's head around ...     (理解する)          <!-- I'm going to need a few minutes to get my head around the diagram you just showed me. -->
+- get 人 to do                  (人にしてもらう)    <!-- I got one of my classmates to help my sister with her homework. -->
 ## GIVE
 - give off                      (発する)            <!-- A woman passed by me giving off a subtle scent of perfume. -->
 ## GO
@@ -65,6 +66,7 @@
 - go over                       (説明する)          <!-- Could you go over it again? -->
 - go over                       (検討する)          <!-- We will go over your application and let you know of the results next week. -->
 - go to work                    (通う)              <!-- He goes to work by walk. -->
+- go wrong with                 (機械調子が悪くなる)<!-- Something's gone wrong with this microscope. -->
 ## GUESS
 - guess ... right               (言い当てる)        <!-- I guessed the age right. / I couldn't guessed those right. -->
 
@@ -74,6 +76,8 @@
 - hang in there                 (頑張って)
 ## HAVE
 - have one's hands full         (手が離せない)      <!-- I have my hands full right now. -->
+- have 物 done                  (物をしてもらう)    <!-- I need to have it repaird. / I had my hair cut. -->
+- have 人 do                    (人にしてもらう)    <!-- I'll have the nurse bandage your leg for you. -->
 ## HOLD
 - hold ... up                   (遅らせる)          <!-- The train was held up because of the railroad accident. -->
 - hold ... up                   (時間を取らせる)    <!-- Sorry for holding you up from going home. -->

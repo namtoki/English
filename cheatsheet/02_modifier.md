@@ -21,7 +21,7 @@
 - ★ in the first place          (そもそも)              <!-- Why was he at the party in the first place? He wasn't invited, was he? -->
 - to begin with                 (そもそも まず第一に)   <!-- To begin with, its theme is obscure. -->
 - above all                     (何よりもまず)          <!-- Above all, scientific terms call for precise definitions. -->
-- first/most of all             (何よりもまず)
+- first/most of all             (何よりもまず)          <!-- First of all, learn the formula by heart. -->
 ## RANGE
 - ★ on the whole                (全体的にみると)        <!-- On the whole, it was a great trip. -->
 - all things considered         (全体的にみると)        <!-- All things considered, that was a successful event. -->
@@ -168,6 +168,8 @@
 - to ...'s heart's content      (思う存分)              <!-- The aristocrats abused their privileges to their hearts' content. -->
 - one-off                       (一度限りの)            <!-- The expense incurred this year to construct the building is a one-off cost. -->
 - door to door                  (家から〇〇まで)        <!-- It takes me about one hour door to door. -->
+- by heart                      (暗記で)                <!-- First of all, learn the formula by heart. / know by heart.-->
+- barely                        (かろうじて)            <!-- The minute particles are barely visible to the naked eye. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->

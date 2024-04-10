@@ -142,6 +142,8 @@
 - come/get home (from work/school)  (帰宅する)          <!-- Dave goes home at 8 p.m., so he comes home at 9 p.m. -->
 - get 人 物                         (人に物を提供する)  <!-- If I get you something else, I'm afraid you'll have to pay for it. -->
 - get one's hopes up                (期待する)          <!-- Don't get your hopes up because you might not actually get promoted. -->
+- be composed of                    (で構成されている)  <!-- This substance is mostly composed of hydrogen and oxygen. -->
+- consist of                        (で構成されている)  <!-- Muscle tissue consists of a vast number of cells. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
