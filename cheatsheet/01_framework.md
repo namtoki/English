@@ -25,6 +25,7 @@
 - I have to say ...             (と言わざるを得ない)            <!-- I have to say your place is adorable! -->
 - be likely to                  (しそうだ)                      <!-- It's likely to rain tomorrow. -->
 - be more likely to             (する可能性が高い)              <!-- In engineering, people are more likely to work in their feild. -->
+- be less likely to             (あまりしそうにない)            <!-- It's less likely to get broken. -->
 ## SUBJUNCTION
 - would                         (そうなったら .. と思う)        <!-- I would be too nervous. / That would be awesome. -->
 - I would                       (私なら ... する)               <!-- I would go, if I were you. -->

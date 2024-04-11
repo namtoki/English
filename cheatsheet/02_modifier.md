@@ -137,6 +137,8 @@
 - ★ despite                     (と関係なく)            <!-- Despite the risk, I would like to proceed with the plan. -->
 - what's more                   (おまけに さらに)       <!-- I met the man by chance. He's gentle and smart. What's more, he's single. -->
 - besides                       (それに さらに)         <!-- I don’t wanna go out. Besides, I’m so tired today. -->
+- what's worse                  (さらに悪いことに)
+- to make matters worse         (さらに悪いことに)      <!-- To make matters worse, he isn't even conscious of annoying us. -->
 ## EXTENT
 - ★ some more                   (もう少し)              <!-- I'll think about it some more. -->
 - to the point where ...        (くらいまで)            <!-- I studied English so much to the point where my dream started being in English. -->

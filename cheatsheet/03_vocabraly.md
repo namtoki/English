@@ -146,6 +146,8 @@
 - consist of                        (で構成されている)  <!-- Muscle tissue consists of a vast number of cells. -->
 - go/be on a diet                   (ダイエットする/中)
 - take a chance / take the plunge   (思い切てやてみる)  <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
+- be conscious of                   (自覚している)      <!-- To make matters worse, he isn't even conscious of annoying us. -->
+- be aware of                       (気づいている)
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
@@ -191,6 +193,7 @@
 - ambiguous                         (曖昧な 様々な解釈) <!-- Her statement was ambiguous, and it could be interpreted in different ways -->
 - lumpy                             (でこぼこな 塊ある) <!-- The old sofa is worn out and lumpy. -->
 - old-school                        (懐かしい)          <!-- This song is so old-school. -->
+- clumsy                            (ドジな)            <!-- Dave is fat and clumsy. When he leaped over the shallow stream, he stumbled and twisted his ankle. -->
 
 # SAYING
 - Happy wife, happy life

@@ -90,6 +90,7 @@
 # K
 ## KEEP
 - keep an eye on                (目を離さない)      <!-- Can you keep an eye on my kids for a while? -->
+- keep on doing                 (し続ける)          <!-- I can't help laughing at him because he keeps on making stupid mistakes. -->
 ## KICK
 - kick out                      (追い出す)          <!-- He was caught having an affair. So, I kicked him out of my house. -->
 
