@@ -112,6 +112,7 @@
 - owing to                      (形式的な理由 / 文頭)   <!-- Owing to illness, some representatives were absent from ... -->
 - on account of                 (困難や問題などの理由)  <!-- Our flight to Vienna was delayed on account of a minor accident. -->
 - ★ thanks to                   (良い理由 / 文頭)
+- ★ at the thought of ...       (のことを考えると)      <!-- I tremble with fear at the thought of an injection. -->
 ## OBJECTIVE
 - ★ (in order) to               (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
 - so as to                      (のために 堅い)
@@ -174,6 +175,7 @@
 - door to door                  (家から〇〇まで)        <!-- It takes me about one hour door to door. -->
 - by heart                      (暗記で)                <!-- First of all, learn the formula by heart. / know by heart.-->
 - ★ barely                      (かろうじて)            <!-- The minute particles are barely visible to the naked eye. -->
+- in heart                      (本当は)                <!-- Since Bob is lazy at heart, he frequently neglects his duties. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->
@@ -205,7 +207,7 @@
 - frequently                    (55)
 - sometimes / at times          (50)                    <!-- At times I confuse "curve" with "carve." -->
 - here and there                (ときおり)
-- now and then                  (たまに)
+- now and then                  (たまに)                <!-- I must admit we quarrel every now and then, but generally we're on good terms with each other. -->
 - occasionally                  (30)
 - from time to time             (ときおり)
 - once in a while               (ときおり)
