@@ -12,11 +12,11 @@
 - ★ when it comes to            (となると)              <!-- When it comes to the weather, there’s nothing I can do. -->
 - ★ speaking of                 (そういえば)            <!-- Speaking of summer, where did you go this year? -->
 - talking of                    (そういえば)            <!-- Talking of soccer, Did you watch the game yesterday? -->
-- personally, in my opinion     (自分の意見としては)    
-- honestly                      (自分の意見としては)    
-- from my point of view         (自分の意見としては)    
+- personally, in my opinion     (自分の意見としては)
+- honestly                      (自分の意見としては)
+- from my point of view         (自分の意見としては)
 - like/as I was saying          (さっき言ったように)    <!-- Sorry. As I was saying, the acting was amazing. -->
-- like/as you said              (あなたが言った通り)    
+- like/as you said              (あなたが言った通り)
 - ★ going back to               (に戻ると)              <!-- Going back to your question, my answer is no. -->
 - ★ in the first place          (そもそも)              <!-- Why was he at the party in the first place? He wasn't invited, was he? -->
 - to begin with                 (そもそも まず第一に)   <!-- To begin with, its theme is obscure. -->
@@ -52,7 +52,7 @@
 - every ...                     (ごとに)                <!-- The vehicles are inspected for defects every three months. -->
 - every other day               (隔日で)
 - for N (time)s                 (の間)                  <!-- I've been working for the company for 6 months. -->
-- half a year                   (半年)                  <!-- I'll be living here for half a year. -->
+- for half a year               (半年)                  <!-- I'll be living here for half a year. -->
 - all week                      (1 週間ずっと)
 - ★ on and off                  (断続的に)
 - ★ every time ...              (するときはいつも)      <!-- Every time you make them, they are perfect. -->
@@ -173,7 +173,7 @@
 - one-off                       (一度限りの)            <!-- The expense incurred this year to construct the building is a one-off cost. -->
 - door to door                  (家から〇〇まで)        <!-- It takes me about one hour door to door. -->
 - by heart                      (暗記で)                <!-- First of all, learn the formula by heart. / know by heart.-->
-- barely                        (かろうじて)            <!-- The minute particles are barely visible to the naked eye. -->
+- ★ barely                      (かろうじて)            <!-- The minute particles are barely visible to the naked eye. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->

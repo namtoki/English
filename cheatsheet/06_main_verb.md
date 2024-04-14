@@ -1,4 +1,8 @@
 # A
+## ASK (質問, 依頼, 招待)
+- ask for                       (請求する)          <!-- The credit card company asked for the payment. / You are asking for it. -->
+- ★ You can ask me ...          (聞いてくれ)        <!-- You can ask me for help anytime. -->
+- ask ... out                   (誘う)              <!-- He finally asked Alice out! -->
 
 # B
 ## BRING

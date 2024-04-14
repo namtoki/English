@@ -82,31 +82,31 @@
 - line up                           (整列する)          <!-- All visitors to the US should line up at booths one through 15. -->
 - pick nose                         (鼻をほじる)
 - set a new record                  (賞をとる)          <!-- Carbon emissions are expected to set a new record in 2023. -->
-- stay fit                          (体型を保つ)        <!-- I want to stay fit. -->
+- ★ stay fit                        (体型を保つ)        <!-- I want to stay fit. -->
 - take the top spot                 (優勝する)
 - tread lightly                     (そっと歩く)        <!-- She seems angry, you should tread lightly -->
-- was predicted                     (予報では..だった)  <!-- Snow was predicted this morning. -->
+- ★ was predicted                   (予報では..だった)  <!-- Snow was predicted this morning. -->
 - spill                             (こぼす)            <!-- I spilled wine on my shirt -->
 - eat out                           (外食する)          <!-- Where is your favorite place to eat out? -->
 - treat                             (おごる)            <!-- You treat me every time we eat out. -->
-- split the check                   (割り勘する)
+- ★ split the check                 (割り勘する)
 - burn the midnight oil             (徹夜する)
 - pull an all-nighter               (徹夜する)
 - spend time ...                    (過ごす)            <!-- I spend time with my wife on my days off. -->
 - distingish A from B               (見分ける)
 - know A from B                     (見分ける)
 - communicate                       (伝える)
-- convey                            (伝える)            <!-- Do you understand what I' trying to convey to you? -->
+- ★ convey                          (伝える)            <!-- Do you understand what I' trying to convey to you? -->
 - disclose                          (伝える)            <!-- I'm sorry but I can't disclose all the details right now. -->
 - articulate                        (伝える)            <!-- If you want us to understand what you are saying, you're gonna have to articulate a little bit better. -->
 - suit                              (似合う 服装)       <!-- The hat suits you. -->
 - fit                               (似合う サイズ)     <!-- it fits you. -->
 - match                             (似合う 色合い)
-- go with                           (似合う 色合い)     <!-- The blue tie goes with you. -->
+- ★ go with                         (似合う 色合い)     <!-- The blue tie goes with you. -->
 - stubborn                          (固執する)
 - unwilling                         (固執する)
 - unable to change                  (固執する)
-- stuck in one's ways               (固執する)          <!-- My boss is stuck in his ways. -->
+- ★ stuck in one's ways             (固執する)          <!-- My boss is stuck in his ways. -->
 - refuse                            (断る はっきり)     <!-- They wanted me to participate in the meeting, but I refused. -->
 - reject                            (断る 不適切だ)     <!-- The boss rejected my proposal. -->
 - decline                           (断る 丁寧に)       <!-- He declined my invitation to dinner -->
@@ -144,9 +144,9 @@
 - get one's hopes up                (期待する)          <!-- Don't get your hopes up because you might not actually get promoted. -->
 - be composed of                    (で構成されている)  <!-- This substance is mostly composed of hydrogen and oxygen. -->
 - consist of                        (で構成されている)  <!-- Muscle tissue consists of a vast number of cells. -->
-- go/be on a diet                   (ダイエットする/中)
-- take a chance / take the plunge   (思い切てやてみる)  <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
-- be conscious of                   (自覚している)      <!-- To make matters worse, he isn't even conscious of annoying us. -->
+- ★ go/be on a diet                 (ダイエットする/中)
+- ★ take a chance / take the plunge (思い切てやてみる)  <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
+- ★ be conscious of                 (自覚している)      <!-- To make matters worse, he isn't even conscious of annoying us. -->
 - be aware of                       (気づいている)
 
 # ADJECTIVE
@@ -167,20 +167,20 @@
 - in a bad mood                     (機嫌が悪い)        <!-- I won't share my opinion if my wife seems as if she is in a bad mood. -->
 - black and white                   (明らかな)          <!-- Things in life are never black and white. -->
 - unambiguous                       (明らかな)          <!-- The warnings were unambiguous. -->
-- clear-cut                         (明らかな)          <!-- (usually used for instructions) Patrick's instructions were very clear-cut. -->
-- crystal clear                     (明らかな)          <!-- I could make it crystal clear that we have to be at the restaurant for 7pm and give you clear cut directions to the restaurant. -->
-- sloppy                            (雑な いい加減な)   <!-- The bridge collapsed soon after completion because of the sloppy construction work. -->
+- ★ clear-cut                       (明らかな)          <!-- (usually used for instructions) Patrick's instructions were very clear-cut. -->
+- ★ crystal clear                   (明らかな)          <!-- I could make it crystal clear that we have to be at the restaurant for 7pm and give you clear cut directions to the restaurant. -->
+- ★ sloppy                          (雑な いい加減な)   <!-- The bridge collapsed soon after completion because of the sloppy construction work. -->
 - too far                           (やり過ぎな)        <!-- He went too far there. -->
-- over the top                      (度が過ぎている)    <!-- I went over the top at my child's sports day. -->
-- fiddly                            (めんどくさい)      <!-- He is asking so many questions and it's so fiddly -->
+- ★ over the top                    (度が過ぎている)    <!-- I went over the top at my child's sports day. -->
+- ★ fiddly                          (めんどくさい)      <!-- He is asking so many questions and it's so fiddly -->
 - hassle                            (めんどくさい)      <!-- What a hassle! I can't even figure out how to answer this question. -->
 - tidy                              (整理された)
 - neat and tidy                     (整理された)
 - shipshape                         (整理された)
 - spotless                          (しみのない)
-- to the point                      (要領を得た)
-- beside the point                  (的外れの)
-- off the charts                    (半端ない)          <!-- His guitar performance was totally off the charts! -->
+- ★ to the point                    (要領を得た)
+- ★ beside the point                (的外れの)
+- ★ off the charts                  (半端ない)          <!-- His guitar performance was totally off the charts! -->
 - through the roof                  (突き抜けている)    <!-- My stress was through the roof -->
 - foreign owned                     (外資系)
 - based in                          (外資系)            <!-- My company is based in U.S. but 80% of the employees are Japanese. -->

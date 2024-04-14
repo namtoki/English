@@ -6,26 +6,26 @@
 - It's ... how ...              (思う)                          <!-- It's interesting how you said that. -->
 - I have a feeling/hunch that   (気がする)                      <!-- I have a hunch that there's more to it. -->
 - It seems as if/though         (ようだ)
-- It seems to be ...            (ようだ)                        <!-- It seems to be broken. -->
-- It occurs to me that ...      (ふと思った)                    <!-- It occurs to me that I've never asked your name. -->
-- I feel like ...               (気分だ)                        <!-- I feel like Thai food. I don't feel like it. -->
+- ★ It seems to be ...          (ようだ)                        <!-- It seems to be broken. -->
+- ★ It occurs to me that ...    (ふと思った)                    <!-- It occurs to me that I've never asked your name. -->
+- ★ I feel like ...             (気分だ)                        <!-- I feel like Thai food. I don't feel like it. -->
 - I'm in the mood ...           (気分だ)                        <!-- I'm not in the mood. I'm in the mood to watch a movie. -->
 - I believe in ...              (信じる)                        <!-- I don't believe in ghosts. -->
-- be sure that ...              (確信している)                  <!-- I am sure that I will enjoy the movie. -->
+- ★ be sure that ...            (確信している)                  <!-- I am sure that I will enjoy the movie. -->
 - be sure of ...                (確信している)                  <!-- I am sure of enjoying the movie. -->
-- be sure to ...                (きっと)                        <!-- You are sure to see many animals there. -->
+- ★ be sure to ...              (きっと)                        <!-- You are sure to see many animals there. -->
 - just because ... doesn't mean (だからと言って ... ではない)   <!-- Just because he smiles a lot doesn't mean he's kind. -->
 - It depends                    (による)                        <!-- It depends. It depends on the traffic. It depends on how I feel. -->
 - I won't know until ...        (までわからない)                <!-- I won't know until Friday. -->
-- any ... will do as long as .. (である限り大丈夫)              <!-- Any apartment will do as long as the rent is low. -->
-- I've got ... questions        (点質問があります)              <!-- So today I've got a couple of questions. -->
+- ★ any ... will do as long as  (である限り大丈夫)              <!-- Any apartment will do as long as the rent is low. -->
+- ★ I've got ... questions      (点質問があります)              <!-- So today I've got a couple of questions. -->
 - slipped my mind               (ド忘れした)                    <!-- Your birthday party completely slipped my mind. -->
 - be a blur                     (覚えていない)                  <!-- Last weekend was a blur. -->
 - I can't remember ...          (覚えていない)
 - I have to say ...             (と言わざるを得ない)            <!-- I have to say your place is adorable! -->
-- be likely to                  (しそうだ)                      <!-- It's likely to rain tomorrow. -->
-- be more likely to             (する可能性が高い)              <!-- In engineering, people are more likely to work in their feild. -->
-- be less likely to             (あまりしそうにない)            <!-- It's less likely to get broken. -->
+- ★ be likely to                (しそうだ)                      <!-- It's likely to rain tomorrow. -->
+- ★ be more likely to           (する可能性が高い)              <!-- In engineering, people are more likely to work in their feild. -->
+- ★ be less likely to           (あまりしそうにない)            <!-- It's less likely to get broken. -->
 ## SUBJUNCTION
 - would                         (そうなったら .. と思う)        <!-- I would be too nervous. / That would be awesome. -->
 - I would                       (私なら ... する)               <!-- I would go, if I were you. -->
@@ -35,11 +35,11 @@
 ## CORRECTION
 - I didn't mean it.             (そんなつもりじゃなかった)
 - I was just saying             (と言いたかっただけ)            <!-- No! I was just saying ... it's a new look for you. -->
-- It's not that                 (というわけではなくて)          <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
+- ★ It's not that               (というわけではなくて)          <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
 - I'm just trying to            (しようとしているだけ)          <!-- I'm just trying to explain what happened. -->
 ## ADVICE
 - should                        (したほうがいい)                <!-- We should ask first. -->
-- you (might) want to           (したほうがいい)                <!-- You want to pull your fingers in like this. -->
+- ★ you (might) want to         (したほうがいい)                <!-- You want to pull your fingers in like this. -->
 - you're gonna have to          (したほうがいい)                <!-- If you want us to ..., you're gonna have to ... -->
 - would be better if ...        (したほうがいい)                <!-- Would it be better if I got wet? -->
 - be better off                 (のほうがいい)                  <!-- You're better off starting from the beginning than trying ... -->
@@ -81,7 +81,7 @@
 - I don't care for              (苦手)                          <!-- I don't care for spicy food. -->
 - I remember                    (懐かしい)                      <!-- I remember that trip! -->
 - This ... brings back memories (懐かしい)                      <!-- This song brings back memories! -->
-- It/Something doesn't add up   (腑に落ちない)                  <!-- It doesn't add up at all. -->
+- ★ It/Something doesn't add up (腑に落ちない)                  <!-- It doesn't add up at all. -->
 - might as well ...             (してもいい)                    <!-- We might as well walk there. -->
 - It doesn't matter             (どうでもよい)                  <!-- It doesn't matter. I quit. -->
 - It doesn't matter.            (どっちでもよい)                <!-- It doesn't matter. They're both great. -->
@@ -90,7 +90,7 @@
 - I gotta                       (しなくちゃ)                    <!-- I gotta go. -->
 - I might                       (するかも)                      <!-- I might finish early tonight. -->
 - It's pleasant.                (心地よい)                      <!-- My favorite pastime is strolling along the shore. It's pleasant. -->
-- I'm not particular about it.  (こだわりはない)
+- ★ I'm not particular about it.(こだわりはない)
 - It's been a long time since   (ぶりだ)
 - It's been a while since       (ぶりだ)                        <!-- It's been a while since I've swung a tennis racket. -->
 - It's been ages since          (ぶりだ)
@@ -103,9 +103,9 @@
 - It's traditional to ...       (する習慣だ)                    <!-- In Japan, it's traditional to visit ... -->
 - be supposed to ...            (するものだ)                    <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->
 - be supposed to ...            (らしい)                        <!-- Dolphins are supposed to be intelligent. -->
-- years of experience           (経験がある)                    <!-- I have ... years of experience in the ... field. / I have ... years of ... experience. -->
-- I work for (company)          (で働いています)
-- I work in (place/department)  (で働いています)
+- ★ years of experience         (経験がある)                    <!-- I have ... years of experience in the ... field. / I have ... years of ... experience. -->
+- ★ I work for (company)        (で働いています)
+- ★ I work in (place/department)(で働いています)
 
 # TENSE
 ## PAST
@@ -117,6 +117,6 @@
 - I was going to ...            (予定だったのに)                <!-- It looks like a rainstorm is coming in. I was going to go hiking.. -->
 
 ## FUTURE
-- be supposed to ...            (することになっている)          <!-- What time are we supposed to be there? -->
+- ★ be supposed to ...          (することになっている)          <!-- What time are we supposed to be there? -->
 - be going to ...               (する)                          <!-- What time are we going to be there? -->
 - I will never ... again!       (二度と ... しない)             <!-- I will never climb Mt.Fuji again! -->

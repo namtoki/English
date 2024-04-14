@@ -29,42 +29,42 @@
 
 # RESPONSE
 ## REACTION
-- I know, right?                (だよね)
+- ★ I know, right?              (だよね)
 - I was going to say!           (だよね！)
 - Lucky you!                    (いいなぁ)
 - I would.                      (いいなぁ)                  <!-- You're not going? I would. -->
-- I've been there.              (わかる)
-- I feel you                    (わかる)
+- ★ I've been there.            (わかる)
+- ★ I feel you                  (わかる)
 - I think so too                (私もそう思う)
 - That's what I think, too.     (私もそう思う)
-I know what you mean.           (私もそう思う)
-- Same here                     (私もそう)
+- I know what you mean.         (私もそう思う)
+- ★ Same here                   (私もそう)
 - Me too                        (私もそう)
 - So do I                       (私もそう)
-- (That's) true                 (その通りだね)
-- Tell me about it.             (全くその通りだ)
+- ★ (That's) true               (その通りだね)
+- ★ Tell me about it.           (全くその通りだ)
 - You can say that again.       (全くその通りだ)
 - No doubt about it.            (全くその通りだ)
 - You have no idea.             (まじでそう)
-- (That) makes sense            (なるほど)
-- I see (what you mean).        (なるほど)
-- Fair enough                   (理解できる)                <!-- , but と続けば否定的 -->
+- ★ (That) makes sense          (なるほど)
+- ★ I see (what you mean).      (なるほど)
+- ★ Fair enough                 (理解できる)                <!-- , but と続けば否定的 -->
 - I know what you are saying    (理解できる)
-- Sounds good                   (いいね)
+- ★ Sounds good                 (いいね)
 - I love it!                    (いいね)
 - (That) Sounds like a plan     (それでいこう)
 - I told you.                   (ほらね)
 - I believe you                 (わかったよ)
-- I don't know.                 (そうだなぁ)
+- ★ I don't know.               (そうだなぁ)
 - that ... ?                    (そんなに ...？)            <!-- Wow! That good? -->
 - That must have been tough     (それは大変だったでしょう)
 - That must have been difficult (それは大変だったでしょう)
 - I was going to say            (今言おうと思っていた)      <!-- I was going to say we should get the smaller one. -->
-- That sounds like              (それは .. だね)            <!-- That sounds like a lot of work. -->
+- ★ That sounds like            (それは .. だね)            <!-- That sounds like a lot of work. -->
 - That's a fair point           (それは鋭い指摘だ)
-- That would be great.          (そうしていただけると嬉しい)
-- You flatter me.               (お世辞でも嬉しいです)
-- Good to know                  (聞けて良かった)
+- ★ That would be great.        (そうしていただけると嬉しい)
+- ★ You flatter me.             (お世辞でも嬉しいです)
+- ★ Good to know                (聞けて良かった)
 - I can't help it.              (仕方ない)
 - There's nothing we can do about it (仕方ない)
 - the only way to ...           (やっぱりこれでしょ)        <!-- This is the only way to live. -->
@@ -74,7 +74,7 @@ I know what you mean.           (私もそう思う)
 - I'm in the middle of something(今手が離せない)
 - I'm trying to ...             (中だから邪魔しないで)      <!-- Hey, Toshi? I'm trying to work, Emily! -->
 - I'm ... ing ... at the moment (中だから邪魔しないで)      <!-- Hang on. I'm just finishing up an email at the moment -->
-- Not again!                    (またかよ！)
+- ★ Not again!                  (またかよ！)
 ## ANSWER
 - Let me see...                 (ええと, なんだっけ)
 - It's difficult to say.        (ええと, なんだっけ)
@@ -102,9 +102,9 @@ I know what you mean.           (私もそう思う)
 - Keep the change               (おつりはいりません)
 - It's on me.                   (おごりです)
 ## DIVE INTO
-- I couldn't get it.            (わからなかった)
-- I couldn't catch you.         (わからなかった)
-- Do you mean ...?              (... ってこと？)            <!-- Do you mean ... you lost? -->
+- ★ I couldn't get it.          (わからなかった)
+- ★ I couldn't catch you.       (わからなかった)
+- ★ Do you mean ...?            (... ってこと？)            <!-- Do you mean ... you lost? -->
 - Such as?                      (例えば？)
 - Like what?                    (例えば？)
 - How about you?                (あなたはどう？)            <!-- I've never been to Disney World in Florida. How about you? -->
@@ -141,7 +141,7 @@ I know what you mean.           (私もそう思う)
 - What's better                 (どっちがいい？)
 - What if ...                   (したらどうなるだろう？)    <!-- What if I don't meet the deadline? -->
 ## LESSON
-- Can I ask you a question?     (質問してもいい？)
+- ★ Can I ask you a question?   (質問してもいい？)
 - How do you say .. in English? (どう表現する？)
 - how would you say it?         (どう表現しますか？)        <!-- If you were to state your dream, how would you say it? -->
 - What's it called?             (なんと呼ばれていますか？)
