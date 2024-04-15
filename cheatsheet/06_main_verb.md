@@ -63,6 +63,7 @@
 - get up                        (起きる)            <!-- He gets up at 7 AM. -->
 - get one's head around ...     (理解する)          <!-- I'm going to need a few minutes to get my head around the diagram you just showed me. -->
 - get 人 to do                  (人にしてもらう)    <!-- I got one of my classmates to help my sister with her homework. -->
+- get even                      (仕返する 同点する) <!-- I’ll get even with him one day. -->
 ## GIVE
 - give off                      (発する)            <!-- A woman passed by me giving off a subtle scent of perfume. -->
 ## GO
@@ -123,7 +124,8 @@
 - make it                       (間に合う)          <!-- You can still make it. -->
 - make out                      (理解する)          <!-- I couldn't make out what you were getting at. -->
 - make the most of it.          (最善を尽くす)      <!-- Let's make the most of it. -->
-- make up for                   (埋め合わせる)      <!-- Her genius makes up for her lack of firsthand experience. -->
+- make up for 物                (埋め合わせる)      <!-- Her genius makes up for her lack of firsthand experience. -->
+- make up to 人                 (埋め合わせる)      <!-- How can I make it up to you? -->
 ## MOVE
 - move around                   (あちこち動き回る)
 - move over                     (席を詰める)        <!-- Could you move over a little? -->
@@ -159,6 +161,7 @@
 # T
 ## TALK
 - talk ... into ...ing          (説得してさせる)    <!-- but eventually I talked everyone into going along with my plan. -->
+- talk ... over                 (よく話し合う)      <!-- I didn't mean to hurt you. Let's talk it over. -->
 ## TAKE
 - take a vote                   (投票する)          <!-- My team took a vote to decide where we should have lunch. -->
 - take up                       (始める)            <!-- I decided to take up writing a blog. -->

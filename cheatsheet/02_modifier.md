@@ -76,6 +76,7 @@
 - in the early evening          (夕方に)
 - in the evening                (日没後に)
 - at night                      (夜に)
+- for good                      (これを最後に永久に)    <!-- We're through for good this time. -->
 ## LOCATION
 - up there                      (上のほうで)
 - down there                    (下のほうで)
@@ -179,6 +180,7 @@
 - in heart                      (本当は)                <!-- Since Bob is lazy at heart, he frequently neglects his duties. -->
 - back and forth                (行ったり来たり)        <!-- While Jennifer was standing still, Bob was pacing back and forth along the sidewalk. -->
 - to and fro                    (あちこちに)            <!-- I have been traveling to and fro between Canada and the U.K. for years. -->
+- in the long run               (長い目で見れば)        <!-- Bob sticks to his moral principles and believes that honesty pays off in the long run. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->
