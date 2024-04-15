@@ -53,7 +53,7 @@
 - every other day               (隔日で)
 - for N (time)s                 (の間)                  <!-- I've been working for the company for 6 months. -->
 - for half a year               (半年)                  <!-- I'll be living here for half a year. -->
-- all week                      (1 週間ずっと)
+- the entire week               (1 週間ずっと)
 - ★ on and off                  (断続的に)
 - ★ every time ...              (するときはいつも)      <!-- Every time you make them, they are perfect. -->
 - in the middle of              (の真っ最中に)          <!-- He fell asleep in the middle of the sales meeting. -->
@@ -113,6 +113,7 @@
 - on account of                 (困難や問題などの理由)  <!-- Our flight to Vienna was delayed on account of a minor accident. -->
 - ★ thanks to                   (良い理由 / 文頭)
 - ★ at the thought of ...       (のことを考えると)      <!-- I tremble with fear at the thought of an injection. -->
+- for one thing                 (その理由の一つは)      <!-- I can't pu you up. For one thing, my dad drops in on me from time to time.-->
 ## OBJECTIVE
 - ★ (in order) to               (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
 - so as to                      (のために 堅い)
@@ -176,6 +177,8 @@
 - by heart                      (暗記で)                <!-- First of all, learn the formula by heart. / know by heart.-->
 - ★ barely                      (かろうじて)            <!-- The minute particles are barely visible to the naked eye. -->
 - in heart                      (本当は)                <!-- Since Bob is lazy at heart, he frequently neglects his duties. -->
+- back and forth                (行ったり来たり)        <!-- While Jennifer was standing still, Bob was pacing back and forth along the sidewalk. -->
+- to and fro                    (あちこちに)            <!-- I have been traveling to and fro between Canada and the U.K. for years. -->
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->

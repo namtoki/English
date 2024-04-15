@@ -165,3 +165,6 @@ one-off
 - I had my iPod pinched from my school bag.
 - I had my uniform cleaned for the graduation ceremony.
 - She often gets an Italian restaurant to deliver a pizza to her home.
+- The Baystars will play against the Swallows.
+- Baseball fans usually go to the stadium once a week or once every two weeks.
+- I like to get seats along the first baseline or the third baseline.

@@ -78,6 +78,7 @@
 # H
 ## HANG
 - hang on                       (待つ)              <!-- Hang on a sec. -->
+- hang up                       (電話を切る)        <!-- Don't hang up! -->
 - hang in there                 (頑張って)
 ## HAVE
 - have one's hands full         (手が離せない)      <!-- I have my hands full right now. -->
@@ -86,6 +87,7 @@
 ## HOLD
 - hold ... up                   (遅らせる)          <!-- The train was held up because of the railroad accident. -->
 - hold ... up                   (時間を取らせる)    <!-- Sorry for holding you up from going home. -->
+- hold ... back                 (真実・感情を隠す)  <!-- It occured to me that he was holding something back, because he wouldn't look me in the eye. -->
 
 # I
 
@@ -138,6 +140,8 @@
 - put ... into practice         (実行に移す)        <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
 - put ... aside                 (取っておく)        <!-- I could have laid out all that money on a new PC, but on second thought I decided to put some aside for a rainy day. -->
 - put ... away                  (片づける)          <!-- Put this stuff away! It's in the way. -->
+- put ... up                    (掲示する)          <!-- put .... on the wall. -->
+- put ... up                    (泊める)            <!-- I can't pu you up. -->
 
 # Q
 

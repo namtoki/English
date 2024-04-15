@@ -63,6 +63,7 @@
 - Do you think I could          (してもいい？)                  <!-- Do you think I could get your number? -->
 - Is it OK if                   (してもいい？)                  <!-- Is it OK if I park here? -->
 - Would you mind ... ing?       (してもいい？)                  <!-- Would you mind doing that? -->
+- Do you mind if I ... ?        (してもいい？)                  <!-- Do you mind if I stop by your house? -->
 ## COMPROMISE
 - it can wait until             (まででいい)                    <!-- Is this job urgent? No, it can wait until tomorrow. -->
 - you can still                 (でも大丈夫)                    <!-- but you can still even with this one say my job ... -->

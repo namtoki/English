@@ -63,6 +63,9 @@
 - standard procedure                (決まり)            <!-- This is just a standard procedure. (念のためです) -->
 - side hustle                       (副業)
 - culture                           (文化)              <!-- The company culture is different. -->
+- first baseline                    (一塁側)
+- third baseline                    (三塁側)
+- deep tissue massage               (整体)
 
 # VERB
 - be soaked                         (びしょ濡れ)        <!-- I'm soaked with sweat. -->
