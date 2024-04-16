@@ -31,7 +31,11 @@
 
 # C
 ## CALL
+- call                          (呼ぶ)              <!-- Call an ambulance! / I heard someone calling for help. -->
+- call at 場所                  (立ち寄る)          <!-- He sometimes calls at his grandmothers' house. -->
+- call on 人                    (立ち寄る)          <!-- I'll call on you later. -->
 - call for                      (必要とする)        <!-- Above all, scientific terms call for precise definitions. -->
+- call off                      (中止する)          <!-- The field trip was called off because of the rain. -->
 ## CHECK
 - check with                    (相談する)          <!-- I need to check with my boss before I can make a decision about when to take my summer vacation. -->
 ## CHOOSE
