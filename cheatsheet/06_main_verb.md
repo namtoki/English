@@ -167,6 +167,8 @@
 # Q
 
 # R
+## RUN
+- run out                       (使い果たす)        <!-- The other day I ran out of gas in the middle of a busy Interstate. -->
 
 # S
 ## SHOW
@@ -211,6 +213,7 @@
 - turn to                       (頼る)              <!-- Now that I've found that there's no one to turn to, I'll have to stand on my own two feet. -->
 - turn/hand ... in              (提出する)          <!-- I want you to look this over before I turn it in. -->
 - turn ... down                 (断る)              <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
+- turn up                       (現れる)            <!-- As usual, Mike turned up on time. He's very punctual. -->
 
 # U
 

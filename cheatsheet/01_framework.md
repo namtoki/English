@@ -58,6 +58,7 @@
 - Do you think you could ...    (してもらえます？)              <!-- Do you think you could talk to her? -->
 - I was wondering if ...        (してもらえます？)              <!-- I was wondering if you could do me a favor. -->
 - Would you like to ...         (してもらえます？)              <!-- Would you like to give a speech? -->
+- Please do me a favor and ...  (してもらえます？)              <!-- Please do me a favor and give me a ride to Times Square. -->
 ## PERMISSION
 - May I                         (してもいい？)                  <!-- May I sit here? -->
 - Do you think I could          (してもいい？)                  <!-- Do you think I could get your number? -->
