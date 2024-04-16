@@ -5,8 +5,27 @@
 - ask ... out                   (誘う)              <!-- He finally asked Alice out! -->
 
 # B
+## BRAKE
+- break                         (骨折する)          <!-- I broke my arms. -->
+- break                         (破る)              <!-- He broke the traffic rules. -->
+- break                         (中断する)          <!-- Let's break for lunch. -->
+- break                         (悪 打ち明ける)     <!-- I'll break the news to her. -->
+- break                         (壊れる)            <!-- The machine breaks. / Someone breaks the machine. -->
+- break away                    (逃げる)            <!-- The calf is breaking away from the cowboy. -->
+- break away                    (独立する)          <!-- In the 1800s the South tried to break away from the Union. -->
+- break down                    (動力機械が壊れる)  <!-- The washing machine has broken down again. -->
+- break in                      (慣らす)            <!-- I have to break in my new shoes. -->
+- break in(to)                  (会話に入る)        <!-- Can I break in here? -->
+- break in(to)                  (侵入する)          <!-- A burglar broke into my house over the weekend. -->
+- break into                    (急にしだす)        <!-- He broke into tears. She broke into laugher. / Sarah saw pandas and broke into a run. -->
+- break out                     (起こる)            <!-- The fire broke out in the middle of the night. -->
+- break through                 (突破する)          <!-- The player broke through the defensive line. / The sun began to break through. -->
 ## BRING
 - bring about                   (もたらす)          <!-- Medical breakthroughs have brought about great benefits for humanity as a whole. -->
+- bring back memories           (記憶がよみがえる)  <!-- Those pictures bring back happy memories of my time in the US. -->
+- bring through                 (難局を切抜させる)  <!-- Her angelic smile brought me through my mental distress . -->
+- bring around                  (連れていく)        <!-- We finally brought him around to our point of view . -->
+- bring on                      (引き起こす)        <!-- Fatigue often brings on headaches. -->
 - bring up                      (話に出す)          <!-- The comment you made is really spot-on. I'm glad you brought that up. -->
 - bring up                      (育てる)            <!-- His nephew was brought up to be modest and considerate. -->
 

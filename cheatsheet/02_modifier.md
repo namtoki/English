@@ -67,6 +67,8 @@
 - in the course of              (の過程で)              <!-- In the course of its economic development, Japan has ... -->
 - ★ in doing                    (するときは)            <!-- In making a decision, I rely not on logic but on insinct. -->
 - on Sunday                     (曜日に)
+- on the weekend                (週末に)
+- over the weekend              (週末の間に)
 - bright and early              (朝早くに)              <!-- The store opens at 8 a.m. tomorrow, so you can get your hands on the product bright and early. -->
 - in the early morning          (早朝に)
 - in the morning                (午前に)
