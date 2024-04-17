@@ -41,6 +41,19 @@
 - take care of                  (世話をする)        <!-- He has to take care of his sick mother. -->
 - take care of                  (引き受ける)        <!-- I'll take care of it. -->
 - care for                      (好む)              <!-- 疑か否で使う Would you care for tea? / I don't care for meat. -->
+## CATCH
+- catch                         (つかむ, になる)    <!-- I caught a fish. / I caught a cold. -->
+- catch                         (キャッチボール)    <!-- Let's play catch. -->
+- catch                         (間に合う)          <!-- I have to catch the last train. -->
+- catch                         (理解する)          <!-- I couldn't catch that. -->
+- catch up (with)               (追いつく)          <!-- He is a really fast runner. I couldn’t catch up. -->
+- catch up (with)               (親交を深める)      <!-- I caught up with some old friends yesterday. -->
+- catch up on                   (遅れを取り戻す)    <!-- I have to catch up on my work. -->
+- catch on                      (意味を理解する)    <!-- You catch on fast. -->
+- catch on                      (流行る)            <!-- The game is catching on. -->
+- catch out                     (見破る、ボロ出さる)<!-- My husband was sending messages to another woman but I caught him out. -->
+- be caught up in               (巻き込まれる)      <!-- I got caught up in the rain on the way home from the station. -->
+
 ## CHECK
 - check with                    (相談する)          <!-- I need to check with my boss before I can make a decision about when to take my summer vacation. -->
 ## CHOOSE
