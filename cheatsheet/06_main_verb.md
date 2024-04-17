@@ -36,6 +36,11 @@
 - call on 人                    (立ち寄る)          <!-- I'll call on you later. -->
 - call for                      (必要とする)        <!-- Above all, scientific terms call for precise definitions. -->
 - call off                      (中止する)          <!-- The field trip was called off because of the rain. -->
+## CARE
+- take care                     (気を付ける)        <!-- Take care you don't drink too much. -->
+- take care of                  (世話をする)        <!-- He has to take care of his sick mother. -->
+- take care of                  (引き受ける)        <!-- I'll take care of it. -->
+- care for                      (好む)              <!-- 疑か否で使う Would you care for tea? / I don't care for meat. -->
 ## CHECK
 - check with                    (相談する)          <!-- I need to check with my boss before I can make a decision about when to take my summer vacation. -->
 ## CHOOSE
