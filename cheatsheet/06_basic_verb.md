@@ -53,19 +53,21 @@
 - catch on                      (流行る)            <!-- The game is catching on. -->
 - catch out                     (見破る、ボロ出さる)<!-- My husband was sending messages to another woman but I caught him out. -->
 - be caught up in               (巻き込まれる)      <!-- I got caught up in the rain on the way home from the station. -->
-
 ## CHECK
 - check with                    (相談する)          <!-- I need to check with my boss before I can make a decision about when to take my summer vacation. -->
 ## CHOOSE
 - choose ... over ...           (よりも)            <!-- I would choose Interstate Construction over New Look Construction. -->
 ## COME
 - come across                   (遭遇する)          <!-- I came across this information on the internet. -->
+- come along                    (一緒に来る)        <!-- I would like you to come along. -->
+- come along                    (うまくいく)        <!-- It's coming along. -->
 - come after                    (文章が続く)        <!-- what comes after that has to be -ing like "My hobby is taking pictures." -->
 - come clean (= confess)        (正直に述べる)      <!-- OK. I'll come clean. -->
 - come out                      (出版される)        <!-- An up-to-date edition of the encyclopedia will come out next month. -->
 - come to                       (合計なる)          <!-- I was amazed to see that our utility bills came to so much! -->
 - come to                       (意識回復)          <!-- He fainted with hunger and farigue, but came to after a while. -->
 - come up with                  (考え出す)          <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
+- come by                       (努力で手に入れる)  <!-- Cheap airline tickets are usually hard to come by during Christmas season. -->
 ## CUT
 - cut ... off                   (遮る)              <!-- The chairman cut me off, saying, "brabrabra." -->
 - cut corners                   (手を抜く)          <!-- You shouldn't cut corners. -->
