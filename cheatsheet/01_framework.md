@@ -70,6 +70,7 @@
 - you can still                 (でも大丈夫)                    <!-- but you can still even with this one say my job ... -->
 - Take your time with ..        (急がなくてよい)                <!-- Take your time with this project. -->
 - leave nothing to be desired   (申し分ない)                    <!-- Your summary leaves nothing to be desired. -->
+- It's no use ... ing           (しても無駄だ)                  <!-- It's no use polishing it. -->
 
 # PREFERENCE
 - get/be used to ...            (慣れる/ている)                 <!-- I'm getting used to working with new coworkers here. -->

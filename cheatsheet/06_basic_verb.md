@@ -68,6 +68,7 @@
 - come to                       (意識回復)          <!-- He fainted with hunger and farigue, but came to after a while. -->
 - come up with                  (考え出す)          <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
 - come by                       (努力で手に入れる)  <!-- Cheap airline tickets are usually hard to come by during Christmas season. -->
+- come close to ... ing         (危うくしそうになる)<!-- The ambulance went out of control and came close to running over a pedestrian. -->
 ## CUT
 - cut ... off                   (遮る)              <!-- The chairman cut me off, saying, "brabrabra." -->
 - cut corners                   (手を抜く)          <!-- You shouldn't cut corners. -->
@@ -107,6 +108,7 @@
 - get one's head around ...     (理解する)          <!-- I'm going to need a few minutes to get my head around the diagram you just showed me. -->
 - get 人 to do                  (人にしてもらう)    <!-- I got one of my classmates to help my sister with her homework. -->
 - get even                      (仕返する 同点する) <!-- I’ll get even with him one day. -->
+- get in touch with             (連絡を取る)        <!-- In case of an emergency, get in touch with my agent right away. -->
 ## GIVE
 - give off                      (発する)            <!-- A woman passed by me giving off a subtle scent of perfume. -->
 ## GO
@@ -180,6 +182,8 @@
 # P
 ## PAY
 - pay off                       (報われる)          <!-- I think the time you are spending on English is paying off. -->
+## PULL
+- pull over                     (路肩に寄せ止める)
 ## PUT
 - put on                        (着る)              <!-- It is difficult to put on a Kimono. -->
 - put ... into practice         (実行に移す)        <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->

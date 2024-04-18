@@ -26,6 +26,7 @@
 - What are you up to?           (今何してんの？)
 - Don't get me wrong.           (誤解しないでね)
 - You might wonder ...          (と思うかもしれません)      <!-- You might wonder why that is so. -->
+- Can you give me a hand?       (手伝ってくれる？)
 
 # RESPONSE
 ## REACTION
@@ -81,6 +82,7 @@
 - what-cha-ma-call-it.          (ええと, なんだっけ)
 - I don't mind.                 (気にしないよ)
 - I'll take care of it.         (引き受けた)
+- I'd be glad to.               (ええ、喜んで)
 - No. I'm Okay.                 (結構です)
 - I'd rather not.               (やっぱりやめておきます)
 - Not yet.                      (まだです)
