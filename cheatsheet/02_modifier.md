@@ -120,6 +120,7 @@
 ## OBJECTIVE
 - ★ (in order) to               (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
 - so as to                      (のために 堅い)
+- with a view to doing          (を期待して)            <!-- A fund was set up with a view to preserving our endangered planet. -->
 ## CONCLUSION
 - simply put                    (簡単に言うと)          <!-- Simply put, he doesn't like sports. -->
 - in a nutshell                 (要約すると)            <!-- That's it in a nutshell. -->
