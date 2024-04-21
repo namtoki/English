@@ -70,10 +70,12 @@
 - come by                       (努力で手に入れる)  <!-- Cheap airline tickets are usually hard to come by during Christmas season. -->
 - come close to ... ing         (危うくしそうになる)<!-- The ambulance went out of control and came close to running over a pedestrian. -->
 ## CUT
-- cut ... off                   (遮る)              <!-- The chairman cut me off, saying, "brabrabra." -->
 - cut corners                   (手を抜く)          <!-- You shouldn't cut corners. -->
 - cut down on                   (減らす)            <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
 - cut in (on)                   (割り込む)          <!-- Bob cut in on our conversation, saying, "I'm against it!" But everybody ignored him. -->
+- cut it out                    (やめて！)          <!-- Cut it out! -->
+- cut off                       (機械の電源を切る)  <!-- The line was cut off. -->
+- cut off                       (遮る)              <!-- The chairman cut me off, saying, "brabrabra." -->
 - cut to the chase              (要点を言う)        <!-- Since we've only got five minutes, I'm going to cut to the chase. -->
 
 # D
