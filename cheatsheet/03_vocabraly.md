@@ -66,6 +66,8 @@
 - first baseline                    (一塁側)
 - third baseline                    (三塁側)
 - deep tissue massage               (整体)
+- forest / woods                    (森)
+- scene                             (現場)              <!-- The police arrived at the scene quickly. -->
 
 # VERB
 - be soaked                         (びしょ濡れ)        <!-- I'm soaked with sweat. -->
@@ -151,6 +153,9 @@
 - ★ take a chance / take the plunge (思い切てやてみる)  <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
 - ★ be conscious of                 (自覚している)      <!-- To make matters worse, he isn't even conscious of annoying us. -->
 - be aware of                       (気づいている)
+- shine / shone / shone             (輝く 光る)         <!-- Outside the tent, stars were shining in the clear sky. -->
+- blow / blew / blown               (吹き飛ばす)        <!-- The kid blew his nose many times. -->
+- act fanny                         (ふざける)          <!-- Why do you always act funny like that? -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
