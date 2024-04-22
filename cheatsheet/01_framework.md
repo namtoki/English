@@ -123,3 +123,6 @@
 - ★ be supposed to ...          (することになっている)          <!-- What time are we supposed to be there? -->
 - be going to ...               (する)                          <!-- What time are we going to be there? -->
 - I will never ... again!       (二度と ... しない)             <!-- I will never climb Mt.Fuji again! -->
+- be about to ...               (しようとしているところ)        <!-- I am about to go to sleep. -->
+- be on the verge of ...        (寸前である 瀕している)         <!-- Many fragile species are on the verge of extinction. -->
+- be on the brink of ...        (寸前である 重大)               <!-- We are on the brink of war. -->
