@@ -81,6 +81,11 @@
 
 # D
 ## DO
+- [ ] do (noun)                 (する)              <!-- He does the dishes. / I usually do the garden on weekends. / I have to do my hair. -->
+- [ ] do away with              (廃止する 処分する) <!-- Japan should do away with all its nuclear power stations. -->
+- [ ] do for                    (役立つ 間に合う)   <!-- I don't think this embankment will do for a big tsunami. -->
+- [ ] do in                     (殺す 超疲れさせる) <!-- Many innocent people were done in by the terrorist group. -->
+- [ ] do well                   (うまくいく)        <!-- He is doing well at school. / My company is doing very well. -->
 - [ ] do (adj) damage to        (な損害を与える)    <!-- The prolonged drought did severe damage to the crop. -->
 ## DRIVE
 - drive ... (nuts/insane/mad)   (イライラさせる)    <!-- Can you stop doing that? it drives me nuts. -->
