@@ -28,6 +28,15 @@
 - [x] It's ... how ...          (思う)          <!-- It's interesting how you said that. -->
 - [ ] It occurs to me that ...  (ふと思った)    <!-- It occurs to me that I've never asked your name. -->
 - [ ] I believe in ...          (信じる)        <!-- I don't believe in ghosts. -->
+## CORRECTION
+- [ ] I didn't mean it.         (そんなつもりじゃなかった)
+- [ ] I was just saying         (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
+- [ ] It's not that             (というわけではなくて)      <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
+- [ ] I'm just trying to        (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
+- [x] It's just that ...        (なだけ)
+- [ ] It's not that ...         (というわけではない)
+- [x] It's not like ...         (というわけではない)
+- [x] It's more like ...        (どちらかというと)
 ## CASE
 - [x] It depends                    (による)                <!-- It depends. It depends on the traffic. It depends on how I feel. -->
 - [ ] just because ... doesn't mean (と言って...ではない)   <!-- Just because he smiles a lot doesn't mean he's kind. -->
@@ -45,23 +54,21 @@
 - [ ] was/were supposed to ...  (するべきだった)            <!-- She was supposed to say yes. -->
 - [ ] I wish                    (だったらよかったのに)      <!-- I wish I spoke French. -->
 - [ ] I hope                    (だといいな)                <!-- I hope it doesn't rain. -->
-## CORRECTION
-- [ ] I didn't mean it.         (そんなつもりじゃなかった)
-- [ ] I was just saying         (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
-- [ ] It's not that             (というわけではなくて)      <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
-- [ ] I'm just trying to        (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
-- [x] It's just that ...        (なだけ)
-- [ ] It's not that ...         (というわけではない)
-- [x] It's not like ...         (というわけではない)
-- [x] It's more like ...        (どちらかというと)
-## ADVICE
-- should                        (したほうがいい)                <!-- We should ask first. -->
-- you (might) want to           (したほうがいい)                <!-- You want to pull your fingers in like this. -->
-- you're gonna have to          (したほうがいい)                <!-- If you want us to ..., you're gonna have to ... -->
-- would be better if ...        (したほうがいい)                <!-- Would it be better if I got wet? -->
-- be better off                 (のほうがいい)                  <!-- You're better off starting from the beginning than trying ... -->
-- the only way to               (やるしかない)                  <!-- The only way to get to karaoke is to keep working. -->
-- You'll be sorry               (後悔するよ)                    <!-- You'll be sorry if you don't finish it today. -->
+## ADVICE / HAVE-TO
+- [ ] had better                (**** しなければ 緊迫)
+- [ ] must                      (***  しなければ 義務)
+- [x] be gonna have to          (**   しなければ 今後 残念)
+- [ ] have (got) to             (**   しなければ 必要)
+- [ ] gotta                     (*    しなくちゃ)           <!-- I gotta go. -->
+- [ ] need to                   (していただきたい)
+- [ ] should                    (するべきだ)                <!-- We should ask first. -->
+- [ ] be supposed to ...        (であるべき)
+- [x] you (might) want to       (してみてよ してごらん)     <!-- You want to pull your fingers in like this. -->
+- [ ] You'll be sorry           (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
+## GOOD-TO-DO
+- [x] it would be better if ...     (したほうがいい)    <!-- Would it be better if I got wet? -->
+- [x] be better off (noun / ing)    (のほうがいい)      <!-- You're better off starting from the beginning than trying ... -->
+- [ ] the only way to               (やるしかない)      <!-- The only way to get to karaoke is to keep working. -->
 ## SUGGESTION
 - (Do you) want to              (しない？ / しましょうか？)     <!-- Do you want to get some food first? Want to get dinner? -->
 - Would you like some ...       (はいかが？)                    <!-- Would you like some more? -->
@@ -107,7 +114,6 @@
 - It doesn't matter.            (どっちでもよい)                <!-- It doesn't matter. They're both great. -->
 - I need to                     (しなくちゃ)                    <!-- I need to get back to the office. -->
 - I have to                     (しなくちゃ)                    <!-- I have to go home. -->
-- I gotta                       (しなくちゃ)                    <!-- I gotta go. -->
 - I might                       (するかも)                      <!-- I might finish early tonight. -->
 - It's pleasant.                (心地よい)                      <!-- My favorite pastime is strolling along the shore. It's pleasant. -->
 - ★ I'm not particular about it.(こだわりはない)
