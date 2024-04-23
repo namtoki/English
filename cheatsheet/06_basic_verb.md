@@ -34,6 +34,7 @@
 - call                          (呼ぶ)              <!-- Call an ambulance! / I heard someone calling for help. -->
 - call at 場所                  (立ち寄る)          <!-- He sometimes calls at his grandmothers' house. -->
 - call on 人                    (立ち寄る)          <!-- I'll call on you later. -->
+- call on 人 to do              (するように求める)  <!-- The committee called on all nations to work side by side to curb air pollution. -->
 - call for                      (必要とする)        <!-- Above all, scientific terms call for precise definitions. -->
 - call off                      (中止する)          <!-- The field trip was called off because of the rain. -->
 ## CARE
@@ -79,6 +80,8 @@
 - cut to the chase              (要点を言う)        <!-- Since we've only got five minutes, I'm going to cut to the chase. -->
 
 # D
+## DO
+- [ ] do (adj) damage to        (な損害を与える)    <!-- The prolonged drought did severe damage to the crop. -->
 ## DRIVE
 - drive ... (nuts/insane/mad)   (イライラさせる)    <!-- Can you stop doing that? it drives me nuts. -->
 - drive ... crazy               (イライラさせる)    <!-- > annoyed, irritated | I don't know why we're still friends. You often drive me crazy. -->
