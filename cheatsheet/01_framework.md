@@ -1,51 +1,59 @@
 # OPINION
 ## FEEL
-- I feel <adj>                  (と感じる)                      <!-- I feel bad about canceling. -->
-- I feel like <S> <V>           (気がする)                      <!-- I feel like there is a ton of bricks on my lap. -->
-- I feel like <noun>            (気がする)                      <!-- I feel like an idiot. -->
-- I have a feeling/hunch that   (気がする)                      <!-- I have a hunch that there's more to it. -->
-- I feel like <noun>            (の気分だ)                      <!-- I feel like Thai food. I don't feel like it. -->
-- I feel like <doing>           (したい気分だ)                  <!-- I feel like going out somewhere. -->
-- I'm in the mood for <noun>    (の気分だ)                      <!-- I'm not in the mood. -->
-- I'm in the mood to <S> <V>    (したい気分だ)                  <!-- I'm in the mood to watch a movie. -->
+- [/] It's like (noun) / (doing)    (みたいな感じ)  <!-- It's like surfing on land. -->
+- [/] It's kind of like ...         (みたいな感じ)
+- [/] It's almost like ...          (ほぼ みたいな感じ)
+- [ ] I feel (adj)                  (と感じる)      <!-- I feel bad about canceling. -->
+- [/] It feels like (S) (V)         (気がする)
+- [ ] I feel like (S) (V)           (気がする)      <!-- I feel like there is a ton of bricks on my lap. -->
+- [ ] I feel like (noun)            (気がする)      <!-- I feel like an idiot. -->
+- [ ] I have a feeling/hunch that   (気がする)      <!-- I have a hunch that there's more to it. -->
+- [/] I feel like (noun)            (の気分だ)      <!-- I feel like Thai food. I don't feel like it. -->
+- [/] I feel like (doing)           (したい気分だ)  <!-- I feel like going out somewhere. -->
+- [ ] I'm in the mood for (noun)    (の気分だ)      <!-- I'm not in the mood. -->
+- [ ] I'm in the mood to (S) (V)    (したい気分だ)  <!-- I'm in the mood to watch a movie. -->
 ## SEEM
-- It seems as if/though         (ようだ)
-- It seems to be ...            (ようだ)                        <!-- It seems to be broken. -->
-- be likely to                  (しそうだ)                      <!-- It's likely to rain tomorrow. -->
-- be more likely to             (する可能性が高い)              <!-- In engineering, people are more likely to work in their feild. -->
-- be less likely to             (あまりしそうにない)            <!-- It's less likely to get broken. -->
-## THINK
-- I believe                     (思う)                          <!-- I believe she drives a white truck. -->
-- I find it ... to do           (思う)                          <!-- I find it really interesting to study English -->
-- It's ... how ...              (思う)                          <!-- It's interesting how you said that. -->
-- It occurs to me that ...      (ふと思った)                    <!-- It occurs to me that I've never asked your name. -->
-- I believe in ...              (信じる)                        <!-- I don't believe in ghosts. -->
+- [/] It seems as if/though     (ようだ)
+- [/] It seems to be ...        (ようだ)                <!-- It seems to be broken. -->
+- [/] be likely to              (しそうだ)              <!-- It's likely to rain tomorrow. -->
+- [/] be more likely to         (する可能性が高い)      <!-- In engineering, people are more likely to work in their feild. -->
+- [/] be less likely to         (あまりしそうにない)    <!-- It's less likely to get broken. -->
 ## SURE
-- be sure that ...              (確信している)                  <!-- I am sure that I will enjoy the movie. -->
-- be sure of ...                (確信している)                  <!-- I am sure of enjoying the movie. -->
-- be sure to ...                (きっと)                        <!-- You are sure to see many animals there. -->
+- [/] be sure that (S) (V)      (確信している)  <!-- I am sure that I will enjoy the movie. --> 
+- [ ] be sure of (noun)         (確信している)  <!-- I am sure of enjoying the movie. -->
+- [ ] be sure to (V)            (きっと)        <!-- You are sure to see many animals there. -->
+## THINK
+- [ ] I believe                 (思う)          <!-- I believe she drives a white truck. -->
+- [ ] I find it ... to do       (思う)          <!-- I find it really interesting to study English -->
+- [/] It's ... how ...          (思う)          <!-- It's interesting how you said that. -->
+- [ ] It occurs to me that ...  (ふと思った)    <!-- It occurs to me that I've never asked your name. -->
+- [ ] I believe in ...          (信じる)        <!-- I don't believe in ghosts. -->
 ## CASE
-- It depends                    (による)                        <!-- It depends. It depends on the traffic. It depends on how I feel. -->
-- just because ... doesn't mean (だからと言って ... ではない)   <!-- Just because he smiles a lot doesn't mean he's kind. -->
-- any ... will do as long as    (である限り大丈夫)              <!-- Any apartment will do as long as the rent is low. -->
-- I've got ... questions        (点質問があります)              <!-- So today I've got a couple of questions. -->
+- [/] It depends                    (による)                <!-- It depends. It depends on the traffic. It depends on how I feel. -->
+- [ ] just because ... doesn't mean (と言って...ではない)   <!-- Just because he smiles a lot doesn't mean he's kind. -->
+- [ ] any ... will do as long as    (である限り大丈夫)      <!-- Any apartment will do as long as the rent is low. -->
+- [ ] I've got ... questions        (点質問があります)      <!-- So today I've got a couple of questions. -->
 ## UNKNOWN
-- slipped my mind               (ド忘れした)                    <!-- Your birthday party completely slipped my mind. -->
-- be a blur                     (覚えていない)                  <!-- Last weekend was a blur. -->
-- I can't remember ...          (覚えていない)
-- I won't know until ...        (までわからない)                <!-- I won't know until Friday. -->
-- I have to say ...             (と言わざるを得ない)            <!-- I have to say your place is adorable! -->
+- [/] slipped my mind           (ド忘れした)            <!-- Your birthday party completely slipped my mind. -->
+- [/] be a blur                 (覚えていない)          <!-- Last weekend was a blur. -->
+- [ ] I can't remember ...      (覚えていない)
+- [ ] I won't know until ...    (までわからない)        <!-- I won't know until Friday. -->
+- [ ] I have to say ...         (と言わざるを得ない)    <!-- I have to say your place is adorable! -->
 ## SUBJUNCTION
-- would                         (そうなったら .. と思う)        <!-- I would be too nervous. / That would be awesome. -->
-- I would                       (私なら ... する)               <!-- I would go, if I were you. -->
-- was/were supposed to ...      (するべきだった)                <!-- She was supposed to say yes. -->
-- I wish                        (だったらよかったのに)          <!-- I wish I spoke French. -->
-- I hope                        (だといいな)                    <!-- I hope it doesn't rain. -->
+- [/] would                     (そうなったら .. と思う)    <!-- I would be too nervous. / That would be awesome. -->
+- [/] I would                   (私なら ... する)           <!-- I would go, if I were you. -->
+- [ ] was/were supposed to ...  (するべきだった)            <!-- She was supposed to say yes. -->
+- [ ] I wish                    (だったらよかったのに)      <!-- I wish I spoke French. -->
+- [ ] I hope                    (だといいな)                <!-- I hope it doesn't rain. -->
 ## CORRECTION
-- I didn't mean it.             (そんなつもりじゃなかった)
-- I was just saying             (と言いたかっただけ)            <!-- No! I was just saying ... it's a new look for you. -->
-- It's not that                 (というわけではなくて)          <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
-- I'm just trying to            (しようとしているだけ)          <!-- I'm just trying to explain what happened. -->
+- [ ] I didn't mean it.         (そんなつもりじゃなかった)
+- [ ] I was just saying         (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
+- [ ] It's not that             (というわけではなくて)      <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
+- [ ] I'm just trying to        (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
+- [/] It's just that ...        (なだけ)
+- [ ] It's not that ...         (というわけではない)
+- [/] It's not like ...         (というわけではない)
+- [/] It's more like ...        (どちらかというと)
 ## ADVICE
 - should                        (したほうがいい)                <!-- We should ask first. -->
 - you (might) want to           (したほうがいい)                <!-- You want to pull your fingers in like this. -->
@@ -118,6 +126,7 @@
 - ★ years of experience         (経験がある)                    <!-- I have ... years of experience in the ... field. / I have ... years of ... experience. -->
 - ★ I work for (company)        (で働いています)
 - ★ I work in (place/department)(で働いています)
+- That's how ...                (こうすることで)
 
 # TENSE
 ## PAST

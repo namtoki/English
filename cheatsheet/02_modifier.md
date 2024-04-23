@@ -22,6 +22,7 @@
 - to begin with                 (そもそも まず第一に)   <!-- To begin with, its theme is obscure. -->
 - above all                     (何よりもまず)          <!-- Above all, scientific terms call for precise definitions. -->
 - first/most of all             (何よりもまず)          <!-- First of all, learn the formula by heart. -->
+- ★ in doing                    (するときは)            <!-- In making a decision, I rely not on logic but on insinct. -->
 ## RANGE
 - ★ on the whole                (全体的にみると)        <!-- On the whole, it was a great trip. -->
 - all things considered         (全体的にみると)        <!-- All things considered, that was a successful event. -->
@@ -65,7 +66,6 @@
 - ★ now that                    (今や)                  <!-- Now that things are better, we should talk about the problem. -->
 - for the first time in         (ぶりに)                <!-- I'm going to Hawaii for the first time in 1 year. -->
 - in the course of              (の過程で)              <!-- In the course of its economic development, Japan has ... -->
-- ★ in doing                    (するときは)            <!-- In making a decision, I rely not on logic but on insinct. -->
 - on Sunday                     (曜日に)
 - on the weekend                (週末に)
 - over the weekend              (週末の間に)
