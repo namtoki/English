@@ -112,6 +112,7 @@
 - unwilling                         (固執する)
 - unable to change                  (固執する)
 - ★ stuck in one's ways             (固執する)          <!-- My boss is stuck in his ways. -->
+- be obsessed                       (が頭から離れない)  <!-- He's obsessed with his new baby. -->
 - refuse                            (断る はっきり)     <!-- They wanted me to participate in the meeting, but I refused. -->
 - reject                            (断る 不適切だ)     <!-- The boss rejected my proposal. -->
 - decline                           (断る 丁寧に)       <!-- He declined my invitation to dinner -->
@@ -156,6 +157,7 @@
 - shine / shone / shone             (輝く 光る)         <!-- Outside the tent, stars were shining in the clear sky. -->
 - blow / blew / blown               (吹き飛ばす)        <!-- The kid blew his nose many times. -->
 - act fanny                         (ふざける)          <!-- Why do you always act funny like that? -->
+- ring a bell                       (ピンとくる)        <!-- That doesn't ring a bell at all. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
@@ -202,6 +204,11 @@
 - lumpy                             (でこぼこな 塊ある) <!-- The old sofa is worn out and lumpy. -->
 - old-school                        (懐かしい)          <!-- This song is so old-school. -->
 - clumsy                            (ドジな)            <!-- Dave is fat and clumsy. When he leaped over the shallow stream, he stumbled and twisted his ankle. -->
+## EXACTNESS
+- correct                           (*    基準に合う) <!-- The correct answer to the math problem is 25. -->
+- accurate                          (**   誤りなし)   <!-- The accurate weather forecast helped us plan our outdoor activities. -->
+- exact                             (***  正確)       <!-- She gave me the exact address of the restaurant. -->
+- precise                           (**** 正確)       <!-- They were unable to find the precise location of the crash. -->
 
 # SAYING
 - Happy wife, happy life

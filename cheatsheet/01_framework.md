@@ -1,6 +1,9 @@
 # OPINION
 ## BASE
-- I feel                        (思う)                          <!-- I feel bad about canceling. -->
+- I feel <adj>                  (感じる)                        <!-- I feel bad about canceling. -->
+- I feel like <S> <V>           (のように感じる)                <!-- I feel like there is a ton of bricks on my lap. -->
+- I feel like <noun>            (の気分だ)                      <!-- I feel like Thai food. I don't feel like it. -->
+- I feel like <doing>           (したい気分だ)                  <!-- I feel like Thai food. I don't feel like it. -->
 - I believe                     (思う)                          <!-- I believe she drives a white truck. -->
 - I find it ... to do           (思う)                          <!-- I find it really interesting to study English -->
 - It's ... how ...              (思う)                          <!-- It's interesting how you said that. -->
@@ -8,7 +11,6 @@
 - It seems as if/though         (ようだ)
 - ★ It seems to be ...          (ようだ)                        <!-- It seems to be broken. -->
 - ★ It occurs to me that ...    (ふと思った)                    <!-- It occurs to me that I've never asked your name. -->
-- ★ I feel like ...             (気分だ)                        <!-- I feel like Thai food. I don't feel like it. -->
 - I'm in the mood ...           (気分だ)                        <!-- I'm not in the mood. I'm in the mood to watch a movie. -->
 - I believe in ...              (信じる)                        <!-- I don't believe in ghosts. -->
 - ★ be sure that ...            (確信している)                  <!-- I am sure that I will enjoy the movie. -->
