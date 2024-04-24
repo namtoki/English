@@ -96,6 +96,11 @@
 # E
 
 # F
+## FEEL
+- feel free to                  (遠慮なくして)      <!-- Please feel free to contact me. -->
+## FIND
+- find out                      (発見する)          <!-- I just found out that I have a big meeting tomorrow and I need to prepare. -->
+- find out                      (見破る)            <!-- I think what she’s done will be found out sometime soon. -->
 
 # G
 ## GET
