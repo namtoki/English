@@ -1,81 +1,86 @@
 # OPINION
 ## FEEL
-- [x] It's like (noun) / (doing)    (みたいな感じ)  <!-- It's like surfing on land. -->
+- [x] It's like (noun) / (doing)    (みたいな感じ)              <!-- It's like surfing on land. -->
 - [x] It's kind of like ...         (みたいな感じ)
 - [x] It's almost like ...          (ほぼ みたいな感じ)
-- [ ] I feel (adj)                  (と感じる)      <!-- I feel bad about canceling. -->
+- [ ] I feel (adj)                  (と感じる)                  <!-- I feel bad about canceling. -->
 - [x] It feels like (S) (V)         (気がする)
-- [ ] I feel like (S) (V)           (気がする)      <!-- I feel like there is a ton of bricks on my lap. -->
-- [ ] I feel like (noun)            (気がする)      <!-- I feel like an idiot. -->
-- [ ] I have a feeling/hunch that   (気がする)      <!-- I have a hunch that there's more to it. -->
-- [x] I feel like (noun)            (の気分だ)      <!-- I feel like Thai food. I don't feel like it. -->
-- [x] I feel like (doing)           (したい気分だ)  <!-- I feel like going out somewhere. -->
-- [ ] I'm in the mood for (noun)    (の気分だ)      <!-- I'm not in the mood. -->
-- [ ] I'm in the mood to (S) (V)    (したい気分だ)  <!-- I'm in the mood to watch a movie. -->
+- [ ] I feel like (S) (V)           (気がする)                  <!-- I feel like there is a ton of bricks on my lap. -->
+- [ ] I feel like (noun)            (気がする)                  <!-- I feel like an idiot. -->
+- [ ] I have a feeling/hunch that   (気がする)                  <!-- I have a hunch that there's more to it. -->
+- [x] I feel like (noun)            (の気分だ)                  <!-- I feel like Thai food. I don't feel like it. -->
+- [x] I feel like (doing)           (したい気分だ)              <!-- I feel like going out somewhere. -->
+- [ ] I'm in the mood for (noun)    (の気分だ)                  <!-- I'm not in the mood. -->
+- [ ] I'm in the mood to (S) (V)    (したい気分だ)              <!-- I'm in the mood to watch a movie. -->
 ## SEEM
-- [x] It seems as if/though     (ようだ)
-- [x] It seems to be ...        (ようだ)                <!-- It seems to be broken. -->
-- [x] be likely to              (しそうだ)              <!-- It's likely to rain tomorrow. -->
-- [x] be more likely to         (する可能性が高い)      <!-- In engineering, people are more likely to work in their feild. -->
-- [x] be less likely to         (あまりしそうにない)    <!-- It's less likely to get broken. -->
+- [x] It seems as if/though         (ようだ)
+- [x] It seems to be ...            (ようだ)                    <!-- It seems to be broken. -->
+- [x] be likely to                  (しそうだ)                  <!-- It's likely to rain tomorrow. -->
+- [x] be more likely to             (する可能性が高い)          <!-- In engineering, people are more likely to work in their feild. -->
+- [x] be less likely to             (あまりしそうにない)        <!-- It's less likely to get broken. -->
 ## SURE
-- [x] be sure that (S) (V)      (確信している)  <!-- I am sure that I will enjoy the movie. --> 
-- [ ] be sure of (noun)         (確信している)  <!-- I am sure of enjoying the movie. -->
-- [ ] be sure to (V)            (きっと)        <!-- You are sure to see many animals there. -->
+- [x] be sure that (S) (V)          (確信している)              <!-- I am sure that I will enjoy the movie. --> 
+- [ ] be sure of (noun)             (確信している)              <!-- I am sure of enjoying the movie. -->
+- [ ] be sure to (V)                (きっと)                    <!-- You are sure to see many animals there. -->
 ## THINK
-- [ ] I believe                 (思う)          <!-- I believe she drives a white truck. -->
-- [ ] I find it ... to do       (思う)          <!-- I find it really interesting to study English -->
-- [x] It's ... how ...          (思う)          <!-- It's interesting how you said that. -->
-- [ ] It occurs to me that ...  (ふと思った)    <!-- It occurs to me that I've never asked your name. -->
-- [ ] I believe in ...          (信じる)        <!-- I don't believe in ghosts. -->
+- [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
+- [ ] I find it ... to do           (思う)                      <!-- I find it really interesting to study English -->
+- [x] It's ... how ...              (思う)                      <!-- It's interesting how you said that. -->
+- [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
+- [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
 ## CORRECTION
-- [ ] I didn't mean it.         (そんなつもりじゃなかった)
-- [ ] I was just saying         (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
-- [ ] It's not that             (というわけではなくて)      <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
-- [ ] I'm just trying to        (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
-- [x] It's just that ...        (なだけ)
-- [ ] It's not that ...         (というわけではない)
-- [x] It's not like ...         (というわけではない)
-- [x] It's more like ...        (どちらかというと)
+- [ ] I didn't mean it.             (そんなつもりじゃなかった)
+- [ ] I was just saying             (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
+- [ ] It's not that                 (というわけではなくて)      <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
+- [ ] I'm just trying to            (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
+- [x] It's just that ...            (なだけ)
+- [ ] It's not that ...             (というわけではない)
+- [x] It's not like ...             (というわけではない)
+- [x] It's more like ...            (どちらかというと)
 ## CASE
-- [x] It depends                    (による)                <!-- It depends. It depends on the traffic. It depends on how I feel. -->
-- [ ] just because ... doesn't mean (と言って...ではない)   <!-- Just because he smiles a lot doesn't mean he's kind. -->
-- [ ] any ... will do as long as    (である限り大丈夫)      <!-- Any apartment will do as long as the rent is low. -->
-- [ ] I've got ... questions        (点質問があります)      <!-- So today I've got a couple of questions. -->
+- [x] It depends                    (による)                    <!-- It depends. It depends on the traffic. It depends on how I feel. -->
+- [ ] just because ... doesn't mean (と言って...ではない)       <!-- Just because he smiles a lot doesn't mean he's kind. -->
+- [ ] any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
+- [ ] I've got ... questions        (点質問があります)          <!-- So today I've got a couple of questions. -->
 ## UNKNOWN
-- [x] slipped my mind           (ド忘れした)            <!-- Your birthday party completely slipped my mind. -->
-- [x] be a blur                 (覚えていない)          <!-- Last weekend was a blur. -->
-- [ ] I can't remember ...      (覚えていない)
-- [ ] I won't know until ...    (までわからない)        <!-- I won't know until Friday. -->
-- [ ] I have to say ...         (と言わざるを得ない)    <!-- I have to say your place is adorable! -->
+- [x] slipped my mind               (ド忘れした)                <!-- Your birthday party completely slipped my mind. -->
+- [x] be a blur                     (覚えていない)              <!-- Last weekend was a blur. -->
+- [ ] I can't remember ...          (覚えていない)
+- [ ] I won't know until ...        (までわからない)            <!-- I won't know until Friday. -->
+- [ ] I have to say ...             (と言わざるを得ない)        <!-- I have to say your place is adorable! -->
 ## SUBJUNCTION
-- [x] would                     (そうなったら .. と思う)    <!-- I would be too nervous. / That would be awesome. -->
-- [x] I would                   (私なら ... する)           <!-- I would go, if I were you. -->
-- [ ] was/were supposed to ...  (するべきだった)            <!-- She was supposed to say yes. -->
-- [ ] I wish                    (だったらよかったのに)      <!-- I wish I spoke French. -->
-- [ ] I hope                    (だといいな)                <!-- I hope it doesn't rain. -->
-## ADVICE / HAVE-TO
-- [ ] had better                (**** しなければ 緊迫)
-- [ ] must                      (***  しなければ 義務)
-- [x] be gonna have to          (**   しなければ 今後 残念)
-- [ ] have (got) to             (**   しなければ 必要)
-- [ ] gotta                     (*    しなくちゃ)           <!-- I gotta go. -->
-- [ ] need to                   (していただきたい)
-- [ ] should                    (するべきだ)                <!-- We should ask first. -->
-- [ ] be supposed to ...        (であるべき)
-- [x] you (might) want to       (してみてよ してごらん)     <!-- You want to pull your fingers in like this. -->
-- [ ] You'll be sorry           (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
-## GOOD-TO-DO
-- [x] it would be better if ...     (したほうがいい)    <!-- Would it be better if I got wet? -->
-- [x] be better off (noun / ing)    (のほうがいい)      <!-- You're better off starting from the beginning than trying ... -->
-- [ ] the only way to               (やるしかない)      <!-- The only way to get to karaoke is to keep working. -->
+- [x] would                         (そうなったら .. と思う)    <!-- I would be too nervous. / That would be awesome. -->
+- [x] I would                       (私なら ... する)           <!-- I would go, if I were you. -->
+- [ ] was/were supposed to ...      (するべきだった)            <!-- She was supposed to say yes. -->
+- [ ] I wish                        (だったらよかったのに)      <!-- I wish I spoke French. -->
+- [ ] I hope                        (だといいな)                <!-- I hope it doesn't rain. -->
 ## SUGGESTION
-- (Do you) want to              (しない？ / しましょうか？)     <!-- Do you want to get some food first? Want to get dinner? -->
-- Would you like some ...       (はいかが？)                    <!-- Would you like some more? -->
-- How about ...?                (はどう？)                      <!-- How about sending flowers? -->
-- Why don't you                 (しようよ)                      <!-- Why don't you use this? -->
-- What's up for lunch?          (お昼ご一緒しませんか？)
-- We'll see whether ...         (確かめよう)                    <!-- We'll see whether the newspapers print the story. -->
+- [ ] had better                    (**** しなければ 緊迫)
+- [ ] must                          (***  しなければ 義務)
+- [x] be gonna have to              (**   しなければ 今後 残念)
+- [ ] have (got) to                 (**   しなければ 必要)
+- [ ] gotta                         (*    しなくちゃ)           <!-- I gotta go. -->
+- [ ] need to                       (していただきたい)
+- [ ] be supposed to ...            (であるべき)
+- [x] should                        (したほうがいい)            <!-- We should ask first. -->
+- [x] (might) want to               (してみてよ してごらん)     <!-- You want to pull your fingers in like this. -->
+- [x] might as well                 (したほうがよさそうだ)      <!-- You might as well walk home. -->
+- [x] it would be better if         (したほうがいいでしょうね)  <!-- Would it be better if I got wet? -->
+- [x] it might be good idea to      (したほうがいいでしょうね)  <!-- It might be a good idea to read the reviews before you buy it. -->
+- [x] be better off (noun / ing)    (のほうがいい)              <!-- You're better off starting from the beginning than trying ... -->
+- [ ] the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
+- [ ] You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
+## INVITATION
+- [x] Would you like to             (しない？)                  <!-- Would you like to watch it together? -->
+- [x] (Do you) want to              (しない？)                  <!-- Do you want to get some food first? Want to get dinner? -->
+- [x] How about ...?                (はどう？)                  <!-- How about sending flowers? -->
+- [x] Why don't (S) (V)             (しようよ)                  <!-- Why don't you use this? -->
+- [ ] We'll see whether ...         (確かめよう)                <!-- We'll see whether the newspapers print the story. -->
+- [ ] What's up for lunch?          (お昼ご一緒しませんか？)
+## SERVICE
+- [x] Would you like me to          (しましょうか？)            <!-- Would you like me to open the window? -->
+- [x] (Do you) want me to           (しましょうか？)            <!-- Do you want me to cook dinner? -->
+- [ ] Would you like some ...       (はいかが？)                <!-- Would you like some more? -->
 ## FAVOR
 - Would you ...                 (してもらえます？)              <!-- Would you get me that box? -->
 - Could you ...                 (してもらえます？)              <!-- Could you say that again? -->
