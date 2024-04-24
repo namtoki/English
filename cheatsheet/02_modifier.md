@@ -160,6 +160,7 @@
 ## HOW
 - on impulse                    (衝動的に)              <!-- I'm apt to buy things on impulse whenever something is on sale. -->
 - ★ in a row                    (連続して)              <!-- the unemployment rate has risen three quarters in a row. -->
+- ★ time and again              (何度も)                <!-- The ecologist has warned us time and again that petroleum is not only a blessing but also a curse. -->
 - on purpose                    (わざと)                <!-- He made a mistake on purpose. -->
 - purposely                     (わざと)                <!-- He purposely didn't say anything. -->
 - ★ out of habit                (くせで)                <!-- I got the Namboku line out of habit. -->

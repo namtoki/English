@@ -158,6 +158,7 @@
 - blow / blew / blown               (吹き飛ばす)        <!-- The kid blew his nose many times. -->
 - act fanny                         (ふざける)          <!-- Why do you always act funny like that? -->
 - ring a bell                       (ピンとくる)        <!-- That doesn't ring a bell at all. -->
+- account for                       (占める)            <!-- Wheat accounts for approximately two-thirds of agricultural production in the area. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
@@ -204,6 +205,8 @@
 - lumpy                             (でこぼこな 塊ある) <!-- The old sofa is worn out and lumpy. -->
 - old-school                        (懐かしい)          <!-- This song is so old-school. -->
 - clumsy                            (ドジな)            <!-- Dave is fat and clumsy. When he leaped over the shallow stream, he stumbled and twisted his ankle. -->
+- fertile                           (肥沃な)            <!-- Fertile soil is indispensable for a good harvest. -->
+- characteristic of                 (の特徴である)      <!-- A humid climate is characteristic of the peninsula. -->
 ## EXACTNESS
 - correct                           (*    基準に合う) <!-- The correct answer to the math problem is 25. -->
 - accurate                          (**   誤りなし)   <!-- The accurate weather forecast helped us plan our outdoor activities. -->
