@@ -212,6 +212,7 @@
 - always                        (100)
 - nearly / almost always        (95)
 - usually                       (80)
+- more often than not           (たいてい)              <!-- More often than not. famine is accompanied by plague. -->
 - often                         (65)
 - frequently                    (55)
 - sometimes / at times          (50)                    <!-- At times I confuse "curve" with "carve." -->
