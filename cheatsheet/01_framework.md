@@ -80,20 +80,24 @@
 ## SERVICE
 - [x] Would you like me to          (しましょうか？)            <!-- Would you like me to open the window? -->
 - [x] (Do you) want me to           (しましょうか？)            <!-- Do you want me to cook dinner? -->
-- [ ] Would you like some ...       (はいかが？)                <!-- Would you like some more? -->
+- [ ] Would you like (noun)         (はいかが？)                <!-- Would you like some more? -->
 ## FAVOR
-- Would you ...                 (してもらえます？)              <!-- Would you get me that box? -->
-- Could you ...                 (してもらえます？)              <!-- Could you say that again? -->
-- Do you think you could ...    (してもらえます？)              <!-- Do you think you could talk to her? -->
-- I was wondering if ...        (してもらえます？)              <!-- I was wondering if you could do me a favor. -->
-- Would you like to ...         (してもらえます？)              <!-- Would you like to give a speech? -->
-- Please do me a favor and ...  (してもらえます？)              <!-- Please do me a favor and give me a ride to Times Square. -->
+- [x] Could you ...                 (*    してもらえます？)     <!-- Could you say that again? -->
+- [x] Would you ...                 (**   してもらえます？)     <!-- Would you get me that box? -->
+- [?] Do you think you could ...    (**   してもらえます？)     <!-- Do you think you could talk to her? -->
+- [?] Would you like to ...         (**   してもらえます？)     <!-- Would you like to give a speech? -->
+- [?] Would you mind ... ing?       (**   してもらえます？)     <!-- Would you mind doing that? -->
+- [?] Please do me a favor and ...  (**   してもらえます？)     <!-- Please do me a favor and give me a ride to Times Square. -->
+- [?] I was wondering if you could  (***  してもらえます？)     <!-- I was wondering if you could do me a favor. -->
+- [ ] Would it be possible to ...?  (***  してもらえます？)     <!-- Would it be possible to have the invoice ready by the 15th? -->
+- [ ] I'd be grateful if you could  (**** してもらえます？)     <!-- [TEXT] I would be grateful if you could give us an update on progress at the end of the month. -->
 ## PERMISSION
 - May I                         (してもいい？)                  <!-- May I sit here? -->
 - Do you think I could          (してもいい？)                  <!-- Do you think I could get your number? -->
 - Is it OK if                   (してもいい？)                  <!-- Is it OK if I park here? -->
-- Would you mind ... ing?       (してもいい？)                  <!-- Would you mind doing that? -->
-- Do you mind if I ... ?        (してもいい？)                  <!-- Do you mind if I stop by your house? -->
+- Would you mind me ... ing?    (してもいい？)                  <!-- Would you mind my opening the window? -->
+- Would/Do you mind if I ... ?  (してもいい？)                  <!-- Do you mind if I stop by your house? -->
+- [?] I was wondering if I could  (してもいい？)     <!-- I was wondering if you could do me a favor. -->
 ## COMPROMISE
 - it can wait until             (まででいい)                    <!-- Is this job urgent? No, it can wait until tomorrow. -->
 - you can still                 (でも大丈夫)                    <!-- but you can still even with this one say my job ... -->
