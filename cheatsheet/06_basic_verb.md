@@ -29,14 +29,18 @@
 - bring up                      (話に出す)          <!-- The comment you made is really spot-on. I'm glad you brought that up. -->
 - bring up                      (育てる)            <!-- His nephew was brought up to be modest and considerate. -->
 
-# C
-## CALL
-- call                          (呼ぶ)              <!-- Call an ambulance! / I heard someone calling for help. -->
-- call at 場所                  (立ち寄る)          <!-- He sometimes calls at his grandmothers' house. -->
-- call on 人                    (立ち寄る)          <!-- I'll call on you later. -->
-- call on 人 to do              (するように求める)  <!-- The committee called on all nations to work side by side to curb air pollution. -->
-- call for                      (必要とする)        <!-- Above all, scientific terms call for precise definitions. -->
-- call off                      (中止する)          <!-- The field trip was called off because of the rain. -->
+C
+=
+
+CALL
+----
+- [ ] call                      (呼ぶ)              <!-- Call an ambulance! / I heard someone calling for help. -->
+- [x] call at 場所              (立ち寄る)          <!-- He sometimes calls at his grandmothers' house. -->
+- [x] call on 人                (立ち寄る)          <!-- I'll call on you later. -->
+- [ ] call on 人 to do          (するように求める)  <!-- The committee called on all nations to work side by side to curb air pollution. -->
+- [x] call for                  (必要とする)        <!-- Above all, scientific terms call for precise definitions. -->
+- [x] call off                  (中止する)          <!-- cancel よりカジュアル The field trip was called off because of the rain. -->
+
 ## CARE
 - take care                     (気を付ける)        <!-- Take care you don't drink too much. -->
 - take care of                  (世話をする)        <!-- He has to take care of his sick mother. -->

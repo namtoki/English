@@ -161,7 +161,18 @@
 - account for                       (占める)            <!-- Wheat accounts for approximately two-thirds of agricultural production in the area. -->
 - be accompanied by                 (が付随して起こる)  <!-- More often than not. famine is accompanied by plague. -->
 
-# ADJECTIVE
+ADJECTIVE
+=========
+
+popular
+-------
+- [x] in fashion                    (流行っている)      <!-- This type of hairdo is in fashion now among young women. -->
+- [ ] fashionable                   (流行っている)      <!-- She always tries to be fashionable. -->
+- [x] popular                       (人気がある)        <!-- His music is popular among young people. -->
+- [x] prevalent                     (広く普及している)  <!-- The terrible disease was prevalent in the town. -->
+
+unordered
+---------
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->
 - bald                              (禿げた)
 - lack                              ((身長が) 足りない) <!-- I lacked height. -->
