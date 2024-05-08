@@ -1,5 +1,8 @@
-# OPINION
-## FEEL
+OPINION
+=======
+
+FEEL
+----
 - [x] It's like (noun) / (doing)    (みたいな感じ)              <!-- It's like surfing on land. -->
 - [x] It's kind of like ...         (みたいな感じ)
 - [x] It's almost like ...          (ほぼ みたいな感じ)
@@ -12,12 +15,15 @@
 - [x] I feel like (doing)           (したい気分だ)              <!-- I feel like going out somewhere. -->
 - [ ] I'm in the mood for (noun)    (の気分だ)                  <!-- I'm not in the mood. -->
 - [ ] I'm in the mood to (S) (V)    (したい気分だ)              <!-- I'm in the mood to watch a movie. -->
-## SEEM
+
+SEEM
+----
 - [x] It seems as if/though         (ようだ)
 - [x] It seems to be ...            (ようだ)                    <!-- It seems to be broken. -->
 - [x] be likely to                  (しそうだ)                  <!-- It's likely to rain tomorrow. -->
 - [x] be more likely to             (する可能性が高い)          <!-- In engineering, people are more likely to work in their feild. -->
 - [x] be less likely to             (あまりしそうにない)        <!-- It's less likely to get broken. -->
+
 ## SURE
 - [x] be sure that (S) (V)          (確信している)              <!-- I am sure that I will enjoy the movie. --> 
 - [ ] be sure of (noun)             (確信している)              <!-- I am sure of enjoying the movie. -->

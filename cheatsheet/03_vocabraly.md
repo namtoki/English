@@ -159,6 +159,7 @@
 - act fanny                         (ふざける)          <!-- Why do you always act funny like that? -->
 - ring a bell                       (ピンとくる)        <!-- That doesn't ring a bell at all. -->
 - account for                       (占める)            <!-- Wheat accounts for approximately two-thirds of agricultural production in the area. -->
+- be accompanied by                 (が付随して起こる)  <!-- More often than not. famine is accompanied by plague. -->
 
 # ADJECTIVE
 - acceptable, unacceptable          (許される, ない)    <!-- Crossing your legs is unacceptable in business situations in Japan -->

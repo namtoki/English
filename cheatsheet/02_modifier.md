@@ -1,44 +1,48 @@
-# FOCUS
+FOCUS
+=====
 
-## TOPIC
-- about                         (に関して言うと)        <!-- About the food ... it is bad. -->
-- ★ regarding                   (に関して言うと)        <!-- Regarding the subject above -->
-- with/in regard to             (に関して言うと)        <!-- With regard to the notes below -->
-- concerning                    (に関して言うと)        <!-- concerning the changes that were recently made -->
-- as for 人/物                  (に関して言うと)        <!-- As for the cost per person -->
-- as for me                     (自分の意見としては)    <!-- As for me, I agree with his opinion. -->
-- as to 物                      (に関して言うと)        <!-- discussion as to which university is the best university. -->
-- in terms of                   (に関して言うと)
-- ★ when it comes to            (となると)              <!-- When it comes to the weather, there’s nothing I can do. -->
-- ★ speaking of                 (そういえば)            <!-- Speaking of summer, where did you go this year? -->
-- talking of                    (そういえば)            <!-- Talking of soccer, Did you watch the game yesterday? -->
-- personally, in my opinion     (自分の意見としては)
-- honestly                      (自分の意見としては)
-- from my point of view         (自分の意見としては)
-- like/as I was saying          (さっき言ったように)    <!-- Sorry. As I was saying, the acting was amazing. -->
-- like/as you said              (あなたが言った通り)
-- ★ going back to               (に戻ると)              <!-- Going back to your question, my answer is no. -->
-- ★ in the first place          (そもそも)              <!-- Why was he at the party in the first place? He wasn't invited, was he? -->
-- to begin with                 (そもそも まず第一に)   <!-- To begin with, its theme is obscure. -->
-- above all                     (何よりもまず)          <!-- Above all, scientific terms call for precise definitions. -->
-- first/most of all             (何よりもまず)          <!-- First of all, learn the formula by heart. -->
-- ★ in doing                    (するときは)            <!-- In making a decision, I rely not on logic but on insinct. -->
-## RANGE
-- ★ on the whole                (全体的にみると)        <!-- On the whole, it was a great trip. -->
+TOPIC
+-----
+- [ ] about                     (に関して言うと)        <!-- About the food ... it is bad. -->
+- [x] regarding                 (に関して言うと)        <!-- Regarding the subject above -->
+- [ ] with/in regard to         (に関して言うと)        <!-- With regard to the notes below -->
+- [ ] concerning                (に関して言うと)        <!-- concerning the changes that were recently made -->
+- [ ] as for 人/物              (に関して言うと)        <!-- As for the cost per person -->
+- [ ] as for me                 (自分の意見としては)    <!-- As for me, I agree with his opinion. -->
+- [ ] as to 物                  (に関して言うと)        <!-- discussion as to which university is the best university. -->
+- [ ] in terms of               (に関して言うと)
+- [x] when it comes to          (となると)              <!-- When it comes to the weather, there’s nothing I can do. -->
+- [x] speaking of               (そういえば)            <!-- Speaking of summer, where did you go this year? -->
+- [ ] talking of                (そういえば)            <!-- Talking of soccer, Did you watch the game yesterday? -->
+- [x] personally, in my opinion (自分の意見としては)
+- [ ] honestly                  (自分の意見としては)
+- [ ] from my point of view     (自分の意見としては)
+- [ ] like/as I was saying      (さっき言ったように)    <!-- Sorry. As I was saying, the acting was amazing. -->
+- [x] like/as you said          (あなたが言った通り)
+- [x] going back to             (に戻ると)              <!-- Going back to your question, my answer is no. -->
+- [x] in the first place        (そもそも)              <!-- Why was he at the party in the first place? He wasn't invited, was he? -->
+- [ ] to begin with             (そもそも まず第一に)   <!-- To begin with, its theme is obscure. -->
+- [ ] above all                 (何よりもまず)          <!-- Above all, scientific terms call for precise definitions. -->
+- [ ] first/most of all         (何よりもまず)          <!-- First of all, learn the formula by heart. -->
+- [x] in doing                  (するときは)            <!-- In making a decision, I rely not on logic but on insinct. -->
+
+RANGE
+-----
+- on the whole                  (全体的にみると)        <!-- On the whole, it was a great trip. -->
 - all things considered         (全体的にみると)        <!-- All things considered, that was a successful event. -->
 - almost all                    (ほぼすべての)          <!-- almost all Japanese -->
 - most                          (ほとんどの)            <!-- most people like it. -->
 - everyone                      (みんな ... してる)     <!-- Everyone does it. -->
-- ★ in every way                (すべてにおいて)        <!-- That movie was perfect in every way. -->
-- ★ all kinds of ...            (すべての)              <!-- I've been eating all kinds of things. -->
+- in every way                  (すべてにおいて)        <!-- That movie was perfect in every way. -->
+- all kinds of ...              (すべての)              <!-- I've been eating all kinds of things. -->
 - everything about ...          (すべての)              <!-- He knows everything about movies. -->
-- ★ some kinds of ...           (数種の)                <!-- amplify the effects of some kinds of pollution -->
+- some kinds of ...             (数種の)                <!-- amplify the effects of some kinds of pollution -->
 - many different kinds of ...   (数種の)                <!-- there are many different kinds of stores. -->
 - the rest of ...               (残りの)                <!-- You can have the rest of them. -->
-- ★ a number of ...             (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
+- a number of ...               (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
 - to go                         (残りの)                <!-- We have ten minutes to go. -->
-- ★ on itself                   (それ自体は)            <!-- The revolution in itself, bore no fruit, after all. -->
-- ★ each and every one of ...   (ひとつひとつ)          <!-- Today's tips are going to help you with each and every one of these questions and more. -->
+- on itself                   (それ自体は)            <!-- The revolution in itself, bore no fruit, after all. -->
+- each and every one of ...   (ひとつひとつ)          <!-- Today's tips are going to help you with each and every one of these questions and more. -->
 ## TIME
 - ★ right away                  (今すぐ)                <!-- I'll come right away. -->
 - ★ in (just) a little bit      (ちょっとしたら)        <!-- The ambulance will get here in just a little bit. -->
@@ -79,6 +83,7 @@
 - in the evening                (日没後に)
 - at night                      (夜に)
 - for good                      (これを最後に永久に)    <!-- We're through for good this time. -->
+- tens of minutes               (数十分)
 ## LOCATION
 - up there                      (上のほうで)
 - down there                    (下のほうで)
@@ -212,6 +217,7 @@
 - always                        (100)
 - nearly / almost always        (95)
 - usually                       (80)
+- more often than not           (たいてい)              <!-- More often than not. famine is accompanied by plague. -->
 - often                         (65)
 - frequently                    (55)
 - sometimes / at times          (50)                    <!-- At times I confuse "curve" with "carve." -->
