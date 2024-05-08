@@ -34,6 +34,7 @@ RANGE
 - [ ] all things considered     (全体的にみると)        <!-- All things considered, that was a successful event. -->
 - [ ] almost all                (ほぼすべての)          <!-- almost all Japanese -->
 - [ ] most                      (ほとんどの)            <!-- most people like it. -->
+- [ ] for the most part         (大部分は)              <!-- For the most part, modernization is identified with westernization. -->
 - [ ] everyone                  (みんな ... してる)     <!-- Everyone does it. -->
 - [ ] all kinds of ...          (すべての)              <!-- I've been eating all kinds of things. -->
 - [ ] everything about ...      (すべての)              <!-- He knows everything about movies. -->

@@ -130,6 +130,7 @@ CALL
 - get in touch with             (連絡を取る)        <!-- In case of an emergency, get in touch with my agent right away. -->
 ## GIVE
 - give off                      (発する)            <!-- A woman passed by me giving off a subtle scent of perfume. -->
+- give way                      (崩れ落ちる)        <!-- Watch out! The ceiling is giving way! -->
 ## GO
 - go along with                 (賛成する 支持する) <!-- No one backed me up at first, but eventually I talked everyone into going along with my plan, -->
 - go over                       (おさらい)          <!-- Good morning, everyone. We should get started. First, I'd like to go over the most recent marketing data. -->

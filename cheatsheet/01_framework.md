@@ -34,6 +34,7 @@ SEEM
 - [x] be likely to                  (しそうだ)                  <!-- It's likely to rain tomorrow. -->
 - [x] be more likely to             (する可能性が高い)          <!-- In engineering, people are more likely to work in their feild. -->
 - [x] be less likely to             (あまりしそうにない)        <!-- It's less likely to get broken. -->
+- [x] chances are (that) ...        (たぶん ... だ)             <!-- It's foggy, isn't it? It sure is. But chances are it'll clear up later on. -->
 
 SURE
 ----
@@ -182,6 +183,8 @@ FACT
 - [ ] It's traditional to ...       (する習慣だ)                <!-- In Japan, it's traditional to visit ... -->
 - [ ] be supposed to ...            (するものだ)                <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->
 - [ ] be supposed to ...            (らしい)                    <!-- Dolphins are supposed to be intelligent. -->
+- [ ] it's up in the air whether .. (決まっていない)            <!-- It's up in the air whether the game will be called off or not. -->
+- [ ] identify A with B             (A を B と同じと考える)     <!-- For the most part, modernization is identified with westernization. -->
 
 TENSE
 =====
