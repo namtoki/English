@@ -28,62 +28,72 @@ TOPIC
 
 RANGE
 -----
-- on the whole                  (全体的にみると)        <!-- On the whole, it was a great trip. -->
-- all things considered         (全体的にみると)        <!-- All things considered, that was a successful event. -->
-- almost all                    (ほぼすべての)          <!-- almost all Japanese -->
-- most                          (ほとんどの)            <!-- most people like it. -->
-- everyone                      (みんな ... してる)     <!-- Everyone does it. -->
-- in every way                  (すべてにおいて)        <!-- That movie was perfect in every way. -->
-- all kinds of ...              (すべての)              <!-- I've been eating all kinds of things. -->
-- everything about ...          (すべての)              <!-- He knows everything about movies. -->
-- some kinds of ...             (数種の)                <!-- amplify the effects of some kinds of pollution -->
-- many different kinds of ...   (数種の)                <!-- there are many different kinds of stores. -->
-- the rest of ...               (残りの)                <!-- You can have the rest of them. -->
-- a number of ...               (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
-- to go                         (残りの)                <!-- We have ten minutes to go. -->
-- on itself                   (それ自体は)            <!-- The revolution in itself, bore no fruit, after all. -->
-- each and every one of ...   (ひとつひとつ)          <!-- Today's tips are going to help you with each and every one of these questions and more. -->
-## TIME
-- ★ right away                  (今すぐ)                <!-- I'll come right away. -->
-- ★ in (just) a little bit      (ちょっとしたら)        <!-- The ambulance will get here in just a little bit. -->
-- ★ at some point               (そろそろ)              <!-- We should really clean the fridge at some point. -->
-- ★ before long                 (近いうちに)            <!-- Before long, they will enter a crucial phase. -->
-- shortly                       (近いうちに)
-- soon                          (近いうちに)
-- ★ from now on                 (これからは)            <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
-- ★ by the time ...             (するまでには)          <!-- By the time I got wake up, the snow had stopped falling. -->
-- no later than ...             (遅くとも .. までには)  <!-- Please hand in your assignment via e-mail no later than 5:00 PM on June 10. -->
-- for years to come             (この先数年)            <!-- In all likelihood, the birthrate will continue to decline steadily for years to come. -->
-- every ...                     (ごとに)                <!-- The vehicles are inspected for defects every three months. -->
-- every other day               (隔日で)
-- for N (time)s                 (の間)                  <!-- I've been working for the company for 6 months. -->
-- for half a year               (半年)                  <!-- I'll be living here for half a year. -->
-- the entire week               (1 週間ずっと)
-- ★ on and off                  (断続的に)
-- ★ every time ...              (するときはいつも)      <!-- Every time you make them, they are perfect. -->
-- in the middle of              (の真っ最中に)          <!-- He fell asleep in the middle of the sales meeting. -->
-- (just) the other day          ((つい) こないだ)       <!-- I went there just the other day! -->
-- toward the end of ...         (の終盤に)              <!-- TAIRA no Koremori was a samurai who lived towards the end of the Heian period. -->
-- so far                        (今のところは)          <!-- So far I’m having a blast. The town is wonderful. -->
-- ★ for the moment              (とりあえず)            <!-- I will make it do for the moment. -->
-- after a while                 (しばらくして)          <!-- He fainted with hunger and fatigue, but came to after a while. -->
-- ★ now that                    (今や)                  <!-- Now that things are better, we should talk about the problem. -->
-- for the first time in         (ぶりに)                <!-- I'm going to Hawaii for the first time in 1 year. -->
-- in the course of              (の過程で)              <!-- In the course of its economic development, Japan has ... -->
-- on Sunday                     (曜日に)
-- on the weekend                (週末に)
-- over the weekend              (週末の間に)
-- bright and early              (朝早くに)              <!-- The store opens at 8 a.m. tomorrow, so you can get your hands on the product bright and early. -->
-- in the early morning          (早朝に)
-- in the morning                (午前に)
-- in the mid-morning            (正午より少し前)
-- at noon                       (正午に)                <!-- I'll be back on Monday at noon. -->
-- in the afternoon              (午後に)
-- in the early evening          (夕方に)
-- in the evening                (日没後に)
-- at night                      (夜に)
-- for good                      (これを最後に永久に)    <!-- We're through for good this time. -->
-- tens of minutes               (数十分)
+- [x] in every way              (すべてにおいて)        <!-- That movie was perfect in every way. -->
+- [ ] as a whole                (100% すべて)           <!-- The train system in Tokyo is much better than for the country as a whole. -->
+- [ ] on the whole              (全体的に)              <!-- On the whole, it was a great trip. -->
+- [ ] all things considered     (全体的にみると)        <!-- All things considered, that was a successful event. -->
+- [ ] almost all                (ほぼすべての)          <!-- almost all Japanese -->
+- [ ] most                      (ほとんどの)            <!-- most people like it. -->
+- [ ] everyone                  (みんな ... してる)     <!-- Everyone does it. -->
+- [ ] all kinds of ...          (すべての)              <!-- I've been eating all kinds of things. -->
+- [ ] everything about ...      (すべての)              <!-- He knows everything about movies. -->
+- [x] some kinds of ...         (数種の)                <!-- amplify the effects of some kinds of pollution -->
+- [ ] many different kinds of ..(数種の)                <!-- there are many different kinds of stores. -->
+- [ ] the rest of ...           (残りの)                <!-- You can have the rest of them. -->
+- [ ] a number of ...           (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
+- [ ] to go                     (残りの)                <!-- We have ten minutes to go. -->
+- [x] in itself                 (それ自体は)            <!-- The revolution in itself, bore no fruit, after all. -->
+- [ ] each and every one of ... (ひとつひとつ)          <!-- Today's tips are going to help you with each and every one of these questions and more. -->
+
+TIME (FUTURE)
+-------------
+- [x] right away                (今すぐ)                <!-- I'll come right away. -->
+- [x] from now on               (これからは)            <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
+- [x] in (just) a little bit    (ちょっとしたら)        <!-- The ambulance will get here in just a little bit. -->
+- [x] at some point             (そろそろ)              <!-- We should really clean the fridge at some point. -->
+- [x] before long               (近いうちに)            <!-- Before long, they will enter a crucial phase. -->
+- [ ] shortly                   (近いうちに)
+- [ ] soon                      (近いうちに)
+- [x] by the time ...           (するまでには)          <!-- By the time I got wake up, the snow had stopped falling. -->
+- [x] no later than ...         (遅くとも .. までには)  <!-- Please hand in your assignment via e-mail no later than 5:00 PM on June 10. -->
+- [ ] for years to come         (この先数年)            <!-- In all likelihood, the birthrate will continue to decline steadily for years to come. -->
+- [ ] for good                  (これを最後に永久に)    <!-- We're through for good this time. -->
+
+TIME (COMMON)
+-------------
+- [x] every ...                 (ごとに)                <!-- The vehicles are inspected for defects every three months. -->
+- [x] every other day           (隔日で)
+- [x] for N (time)s             (の間)                  <!-- I've been working for the company for 6 months. -->
+- [ ] the entire week           (1 週間ずっと)
+- [x] for half a year           (半年)                  <!-- I'll be living here for half a year. -->
+- [ ] on and off                (断続的に)
+- [ ] on Sunday                 (曜日に)
+- [ ] on the weekend            (週末に)
+- [ ] over the weekend          (週末の間に)
+- [ ] bright and early          (朝早くに)              <!-- The store opens at 8 a.m. tomorrow, so you can get your hands on the product bright and early. -->
+- [ ] in the early morning      (早朝に)
+- [ ] in the morning            (午前に)
+- [ ] in the mid-morning        (正午より少し前)
+- [ ] at noon                   (正午に)                <!-- I'll be back on Monday at noon. -->
+- [ ] in the afternoon          (午後に)
+- [ ] in the early evening      (夕方に)
+- [ ] in the evening            (日没後に)
+- [ ] at night                  (夜に)
+- [ ] tens of minutes           (数十分)
+
+TIME (PAST)
+-----------
+- [x] every time ...            (するときはいつも)      <!-- Every time you make them, they are perfect. -->
+- [x] in the middle of          (の真っ最中に)          <!-- He fell asleep in the middle of the sales meeting. -->
+- [x] (just) the other day      ((つい) こないだ)       <!-- I went there just the other day! -->
+- [ ] toward the end of ...     (の終盤に)              <!-- TAIRA no Koremori was a samurai who lived towards the end of the Heian period. -->
+- [x] so far                    (今のところは)          <!-- So far I’m having a blast. The town is wonderful. -->
+- [ ] for the moment            (とりあえず)            <!-- I will make it do for the moment. -->
+- [ ] after a while             (しばらくして)          <!-- He fainted with hunger and fatigue, but came to after a while. -->
+- [ ] now that                  (今や)                  <!-- Now that things are better, we should talk about the problem. -->
+- [ ] for the first time in     (ぶりに)                <!-- I'm going to Hawaii for the first time in 1 year. -->
+- [ ] in the course of          (の過程で)              <!-- In the course of its economic development, Japan has ... -->
+
 ## LOCATION
 - up there                      (上のほうで)
 - down there                    (下のほうで)
@@ -122,6 +132,7 @@ RANGE
 - ★ thanks to                   (良い理由 / 文頭)
 - ★ at the thought of ...       (のことを考えると)      <!-- I tremble with fear at the thought of an injection. -->
 - for one thing                 (その理由の一つは)      <!-- I can't pu you up. For one thing, my dad drops in on me from time to time.-->
+- That's how ...                (こうすることで)
 ## OBJECTIVE
 - ★ (in order) to               (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
 - so as to                      (のために 堅い)

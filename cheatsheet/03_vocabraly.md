@@ -160,6 +160,8 @@
 - ring a bell                       (ピンとくる)        <!-- That doesn't ring a bell at all. -->
 - account for                       (占める)            <!-- Wheat accounts for approximately two-thirds of agricultural production in the area. -->
 - be accompanied by                 (が付随して起こる)  <!-- More often than not. famine is accompanied by plague. -->
+- [ ] be on the verge of ...    (寸前である 瀕している)         <!-- Many fragile species are on the verge of extinction. -->
+- [ ] be on the brink of ...    (寸前である 重大)               <!-- We are on the brink of war. -->
 
 ADJECTIVE
 =========
