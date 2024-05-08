@@ -1,39 +1,46 @@
 OPINION
 =======
 
+FIND
+----
+- [x] I find (O) (C)                (だなぁ)                    <!-- I find it really interesting to study English -->
+
+THINK
+-----
+- [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
+- [x] It's ... how ...              (思う)                      <!-- It's interesting how you said that. -->
+- [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
+- [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
+
 FEEL
 ----
 - [x] It's like (noun) / (doing)    (みたいな感じ)              <!-- It's like surfing on land. -->
 - [x] It's kind of like ...         (みたいな感じ)
 - [x] It's almost like ...          (ほぼ みたいな感じ)
+- [x] It feels like (S) (V)         (気がする 客観的)
 - [ ] I feel (adj)                  (と感じる)                  <!-- I feel bad about canceling. -->
-- [x] It feels like (S) (V)         (気がする)
-- [ ] I feel like (S) (V)           (気がする)                  <!-- I feel like there is a ton of bricks on my lap. -->
+- [x] I feel like (S) (V)           (気がする 主観的)           <!-- I feel like there is a ton of bricks on my lap. -->
 - [ ] I feel like (noun)            (気がする)                  <!-- I feel like an idiot. -->
-- [ ] I have a feeling/hunch that   (気がする)                  <!-- I have a hunch that there's more to it. -->
 - [x] I feel like (noun)            (の気分だ)                  <!-- I feel like Thai food. I don't feel like it. -->
 - [x] I feel like (doing)           (したい気分だ)              <!-- I feel like going out somewhere. -->
+- [x] I have a feeling/hunch that   (気がする 確かな)           <!-- I have a hunch that there's more to it. -->
 - [ ] I'm in the mood for (noun)    (の気分だ)                  <!-- I'm not in the mood. -->
 - [ ] I'm in the mood to (S) (V)    (したい気分だ)              <!-- I'm in the mood to watch a movie. -->
 
 SEEM
 ----
 - [x] It seems as if/though         (ようだ)
-- [x] It seems to be ...            (ようだ)                    <!-- It seems to be broken. -->
+- [x] It seems to be ...            (ようだ 目の前の状況)       <!-- It seems to be broken. -->
 - [x] be likely to                  (しそうだ)                  <!-- It's likely to rain tomorrow. -->
 - [x] be more likely to             (する可能性が高い)          <!-- In engineering, people are more likely to work in their feild. -->
 - [x] be less likely to             (あまりしそうにない)        <!-- It's less likely to get broken. -->
 
-## SURE
+SURE
+----
 - [x] be sure that (S) (V)          (確信している)              <!-- I am sure that I will enjoy the movie. --> 
 - [ ] be sure of (noun)             (確信している)              <!-- I am sure of enjoying the movie. -->
-- [ ] be sure to (V)                (きっと)                    <!-- You are sure to see many animals there. -->
-## THINK
-- [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
-- [ ] I find it ... to do           (思う)                      <!-- I find it really interesting to study English -->
-- [x] It's ... how ...              (思う)                      <!-- It's interesting how you said that. -->
-- [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
-- [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
+- [x] be sure to (V)                (きっと)                    <!-- You are sure to see many animals there. -->
+
 ## CORRECTION
 - [ ] I didn't mean it.             (そんなつもりじゃなかった)
 - [ ] I was just saying             (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
