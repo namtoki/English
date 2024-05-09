@@ -1,3 +1,15 @@
+FAMILY
+======
+- [ ] family of ...                 (人家族です)
+- [ ] I'm from a family of ...      (私は人家族です)    <!-- I'm from a family of four. -->
+- [ ] provide for                   (養う)              <!-- My income is not adequate to provide for my family of four. -->
+
+EFFORT
+======
+- [x] keep up/pace with             (遅れずに付いてく)  <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
+- [ ] fall behind                   (遅れをとる)        <!-- Once you fall behind, It's hard to catch up. -->
+- [x] catch up (with)               (追いつく)          <!-- Once you fall behind, It's hard to catch up. -->
+
 # GENERAL
 - such things                       (そのようなもの)    <!-- C++ has plenty of such things! -->
 - the best                          (一番のもの)        <!-- That show is the best! -->
@@ -12,7 +24,6 @@
 - what I meant                      (言いたかったこと)  <!-- What I meant was, you should do it carefully. -->
 - A out of B                        (B 中 A)            <!-- We have watched 4 out of 5 seasons. -->
 - in one's XXs                      (.. 十代)           <!-- Some of her first students are new in their 20s. -->
-- I'm from a family of ...          (人家族です)        <!-- I'm from a family of four. -->
 - downer                            (がっかりなもの)    <!- The news is a bit of a downer. -->
 
 # NOUN
@@ -39,6 +50,7 @@
 - salmomn roe                       (いくら)
 - seaweed                           (のり)
 - pickled plum                      (梅)
+- pickled giger                     (紅ショウガ)
 - baked goods                       (総菜パン)
 - presence                          (存在感)            <!-- Hollywood has a very small presence. -->
 - passion                           (趣味)              <!-- It's my new passion. (最近の趣味) -->
@@ -162,6 +174,7 @@
 - be accompanied by                 (が付随して起こる)  <!-- More often than not. famine is accompanied by plague. -->
 - [ ] be on the verge of ...    (寸前である 瀕している)         <!-- Many fragile species are on the verge of extinction. -->
 - [ ] be on the brink of ...    (寸前である 重大)               <!-- We are on the brink of war. -->
+- [x] A stands for B                (A は B の約である) <!-- AI stands for artificial intelligence. -->
 
 ADJECTIVE
 =========
@@ -221,6 +234,16 @@ unordered
 - clumsy                            (ドジな)            <!-- Dave is fat and clumsy. When he leaped over the shallow stream, he stumbled and twisted his ankle. -->
 - fertile                           (肥沃な)            <!-- Fertile soil is indispensable for a good harvest. -->
 - characteristic of                 (の特徴である)      <!-- A humid climate is characteristic of the peninsula. -->
+
+OMIT
+----
+- [ ] leave out                     (省略する)          <!-- They left out the scene where he jumps on the car in the TV version of that movie. -->
+- [ ] omit                          (省略する)          <!-- Can I omit "do you"? -->
+
+FIT
+---
+- [ ] just right for                (ちょうどいい)      <!-- India was just right for us. -->
+
 ## EXACTNESS
 - correct                           (*    基準に合う) <!-- The correct answer to the math problem is 25. -->
 - accurate                          (**   誤りなし)   <!-- The accurate weather forecast helped us plan our outdoor activities. -->

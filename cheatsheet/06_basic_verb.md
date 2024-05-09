@@ -188,7 +188,7 @@ CALL
 - make it                       (都合がつく)        <!-- Can you make it to the meeting on Friday? Sorry, I can't make it because I'm going on a business trip. -->
 - make it                       (間に合う)          <!-- You can still make it. -->
 - make out                      (理解する)          <!-- I couldn't make out what you were getting at. -->
-- make the most of it.          (最善を尽くす)      <!-- Let's make the most of it. -->
+- make the most/best of it.     (最善を尽くす)      <!-- Let's make the most of it. -->
 - make up for 物                (埋め合わせる)      <!-- Her genius makes up for her lack of firsthand experience. -->
 - make up to 人                 (埋め合わせる)      <!-- How can I make it up to you? -->
 ## MOVE

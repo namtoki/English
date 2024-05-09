@@ -9,7 +9,7 @@ THINK
 -----
 - [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
 - [x] It's ... how ...              (思う)                      <!-- It's interesting how you said that. -->
-- [x] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
+- [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
 - [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
 
 FEEL
@@ -34,6 +34,7 @@ SEEM
 - [x] be likely to                  (しそうだ)                  <!-- It's likely to rain tomorrow. -->
 - [x] be more likely to             (する可能性が高い)          <!-- In engineering, people are more likely to work in their feild. -->
 - [x] be less likely to             (あまりしそうにない)        <!-- It's less likely to get broken. -->
+- [x] be a low/little chance of     (する確率は低い)            <!-- There's a low chance of rain tonight. -->
 - [x] chances are (that) ...        (たぶん ... だ)             <!-- It's foggy, isn't it? It sure is. But chances are it'll clear up later on. -->
 
 SURE
@@ -82,7 +83,7 @@ SHOULD
 - [ ] had better                    (**** しなければ 緊迫)
 - [ ] must                          (***  しなければ 義務)
 - [x] be gonna have to              (**   しなければ 今後 残念)
-- [ ] have (got) to                 (**   しなければ 必要)
+- [x] have (got) to                 (**   しなければ 必要)      <!-- You've got to keep up with it. Once you fall behind, It's hard to catch up. -->
 - [x] gotta                         (*    しなくちゃ)           <!-- I gotta go. -->
 - [ ] I need to                     (*    しなくちゃ)           <!-- I need to get back to the office. -->
 - [ ] I have to                     (*    しなくちゃ)           <!-- I have to go home. -->

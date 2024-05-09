@@ -81,6 +81,8 @@ TIME (COMMON)
 - [ ] in the evening            (日没後に)
 - [ ] at night                  (夜に)
 - [ ] tens of minutes           (数十分)
+- [ ] just before ...           (のちょっと前に)        <!-- I will get home sometime just before 9pm. -->
+- [ ] just after ...            (のちょっと後に)        <!-- I will go abroad sometime just after Golden Week. -->
 
 TIME (PAST)
 -----------
@@ -98,6 +100,7 @@ TIME (PAST)
 ## LOCATION
 - up there                      (上のほうで)
 - down there                    (下のほうで)
+- over                          (話し手のもとに)        <!-- I invited some friends and family over for lunch. -->
 ## SUBJUNCTION
 - ★ with                        (があれば)              <!-- With a little luck, we can still make it. -->
 - ★ (Let's) Say                 (とします)              <!-- Say I invest a hundred dollars now, how much will I ... -->
@@ -162,6 +165,7 @@ TIME (PAST)
 - besides                       (それに さらに)         <!-- I don’t wanna go out. Besides, I’m so tired today. -->
 - what's worse                  (さらに悪いことに)
 - to make matters worse         (さらに悪いことに)      <!-- To make matters worse, he isn't even conscious of annoying us. -->
+- [x] in particular             (その中でも特に)        <!-- Urban culture appears to be attractive to many people, in particular, to younger people. -->
 ## EXTENT
 - ★ some more                   (もう少し)              <!-- I'll think about it some more. -->
 - to the point where ...        (くらいまで)            <!-- I studied English so much to the point where my dream started being in English. -->
