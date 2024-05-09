@@ -223,28 +223,47 @@ TIME (PAST)
 - no longer                     (もはや ... ではない)   <!-- Japanese men no longer wear their hair in topknots. -->
 - I hope you don't mind ...     (失礼ですが)            <!-- I hope you don't mind if I eat while we talk. -->
 
-# DEGREE
-- great > very good > really good > good > pretty good / fairly good > kind of good > so-so / not bad
-## FREQUENCY
-- always                        (100)
-- nearly / almost always        (95)
-- usually                       (80)
-- more often than not           (たいてい)              <!-- More often than not. famine is accompanied by plague. -->
-- often                         (65)
-- frequently                    (55)
-- sometimes / at times          (50)                    <!-- At times I confuse "curve" with "carve." -->
-- here and there                (ときおり)
-- now and then                  (たまに)                <!-- I must admit we quarrel every now and then, but generally we're on good terms with each other. -->
-- occasionally                  (30)
-- from time to time             (ときおり)
-- once in a while               (ときおり)
-- once a blue moon              (めったにない)
-- seldom | rarely               (10)
-- almost never | hardly ever    (5)
-- never                         (0)
+DEGREE
+======
 
-# TAG
-- if that makes sense?          (伝わった？)
-- ★ you know what I mean?       (伝わった？)
-- ★ or not really?              (それとも違う？)        <!-- Do you like this kind of music, or not really? -->
-- or what?                      (それとも違う？)        <!-- Are we gonna have fun or what? -->
+GOODNESS
+--------
+- [ ] great                     (100)
+- [ ] very good                 (90)
+- [ ] really good               (80)
+- [ ] good                      (70)
+- [x] pretty good               (60)
+- [ ] fairly good               (60)
+- [ ] kind of good              (50)
+- [ ] so-so                     (40)
+- [x] not bad                   (40)
+
+FREQUENCY
+---------
+- [x] always                    (100)
+- [ ] nearly                    (95)
+- [x] almost always             (95)
+- [ ] usually                   (80)
+- [ ] more often than not       (たいてい)              <!-- More often than not. famine is accompanied by plague. -->
+- [ ] often                     (65)
+- [ ] frequently                (55)
+- [ ] sometimes                 (50)
+- [x] at times                  (50)                    <!-- At times I confuse "curve" with "carve." -->
+- [ ] here and there            (ときおり)
+- [ ] now and then              (たまに)                <!-- I must admit we quarrel every now and then, but generally we're on good terms with each other. -->
+- [ ] occasionally              (30)
+- [x] from time to time         (ときおり)
+- [ ] once in a while           (ときおり)
+- [ ] once a blue moon          (めったにない)
+- [ ] seldom | rarely           (10)
+- [x] almost never              (5)
+- [ ] hardly ever               (5)
+- [x] never                     (0)
+
+TAG
+===
+
+- [ ] if that makes sense?      (伝わった？)
+- [x] you know what I mean?     (伝わった？)
+- [x] or not really?            (それとも違う？)        <!-- Do you like this kind of music, or not really? -->
+- [ ] or what?                  (それとも違う？)        <!-- Are we gonna have fun or what? -->

@@ -9,7 +9,7 @@ THINK
 -----
 - [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
 - [x] It's ... how ...              (思う)                      <!-- It's interesting how you said that. -->
-- [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
+- [x] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
 - [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
 
 FEEL
@@ -49,15 +49,14 @@ CORRECTION
 - [x] It's not that                 (というわけではなくて)      <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
 - [ ] I'm just trying to            (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
 - [x] It's just that ...            (なだけ)
-- [x] It's not like ...             (というわけではない)
+- [x] It's not like ...             (別に...というわけではない)
 - [x] It's more like ...            (どちらかというと)
 
 CASE
 ----
 - [x] It depends                    (による)                    <!-- It depends. It depends on the traffic. It depends on how I feel. -->
-- [ ] just because ... doesn't mean (と言って...ではない)       <!-- Just because he smiles a lot doesn't mean he's kind. -->
-- [ ] any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
-- [ ] I've got ... questions        (点質問があります)          <!-- So today I've got a couple of questions. -->
+- [x] just because ... doesn't mean (と言って...ではない)       <!-- Just because he smiles a lot doesn't mean he's kind. -->
+- [x] any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
 
 UNKNOWN
 -------
@@ -84,14 +83,16 @@ SHOULD
 - [ ] must                          (***  しなければ 義務)
 - [x] be gonna have to              (**   しなければ 今後 残念)
 - [ ] have (got) to                 (**   しなければ 必要)
-- [ ] gotta                         (*    しなくちゃ)           <!-- I gotta go. -->
+- [x] gotta                         (*    しなくちゃ)           <!-- I gotta go. -->
+- [ ] I need to                     (*    しなくちゃ)           <!-- I need to get back to the office. -->
+- [ ] I have to                     (*    しなくちゃ)           <!-- I have to go home. -->
 - [ ] need to                       (していただきたい)
 - [ ] be supposed to ...            (であるべき)
 - [x] should                        (したほうがいい)            <!-- We should ask first. -->
 - [x] (might) want to               (してみてよ してごらん)     <!-- You want to pull your fingers in like this. -->
 - [x] might as well                 (したほうがよさそうだ)      <!-- You might as well walk home. -->
 - [x] it would be better if         (したほうがいいでしょうね)  <!-- Would it be better if I got wet? -->
-- [x] it might be good idea to      (したほうがいいでしょうね)  <!-- It might be a good idea to read the reviews before you buy it. -->
+- [ ] it might be good idea to      (したほうがいいでしょうね)  <!-- It might be a good idea to read the reviews before you buy it. -->
 - [x] be better off (noun / ing)    (のほうがいい)              <!-- You're better off starting from the beginning than trying ... -->
 - [ ] the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
 - [ ] You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
@@ -133,6 +134,7 @@ PERMISSION
 - [ ] Would you mind me ... ing?    (***  してもいい？)         <!-- Would you mind my opening the window? -->
 - [x] I was wondering if I could    (**** してもいい？)         <!-- I was wondering if you could do me a favor. -->
 - [ ] May I                         (**** してもいい？)         <!-- May I sit here? -->
+- [x] I've got ... questions        (点質問があります)          <!-- So today I've got a couple of questions. -->
 
 COMPROMISE
 ----------
@@ -160,31 +162,29 @@ PERSONAL
 - [ ] This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
 - [x] It/Something doesn't add up   (腑に落ちない)              <!-- It doesn't add up at all. -->
 - [ ] might as well ...             (してもいい)                <!-- We might as well walk there. -->
-- [ ] It doesn't matter             (どうでもよい)              <!-- It doesn't matter. I quit. -->
-- [ ] It doesn't matter.            (どっちでもよい)            <!-- It doesn't matter. They're both great. -->
-- [ ] I need to                     (しなくちゃ)                <!-- I need to get back to the office. -->
-- [ ] I have to                     (しなくちゃ)                <!-- I have to go home. -->
-- [ ] I might                       (するかも)                  <!-- I might finish early tonight. -->
-- [ ] It's pleasant.                (心地よい)                  <!-- My favorite pastime is strolling along the shore. It's pleasant. -->
-- [ ] I'm not particular about it.  (こだわりはない)
+- [x] It doesn't matter             (どうでもよい)              <!-- It doesn't matter. I quit. -->
+- [x] It doesn't matter.            (どっちでもよい)            <!-- It doesn't matter. They're both great. -->
+- [x] I'm not particular about it.  (こだわりはない)
+- [x] I might                       (するかも)                  <!-- I might finish early tonight. -->
+- [x] It's pleasant.                (心地よい)                  <!-- My favorite pastime is strolling along the shore. It's pleasant. -->
 - [ ] It's been a long time since   (ぶりだ)
-- [ ] It's been a while since       (ぶりだ)                    <!-- It's been a while since I've swung a tennis racket. -->
+- [x] It's been a while since       (ぶりだ)                    <!-- It's been a while since I've swung a tennis racket. -->
 - [ ] It's been ages since          (ぶりだ)
 - [ ] I can't tell you how much ... (どれだけ...か伝えきれない) <!-- I can't tell you how much I loved it. -->
 - [ ] be eating me alive.           (押しつぶされそう)          <!-- Keeping secrets was eating me alive. -->
-- [ ] years of experience           (経験がある)                <!-- I have ... years of experience in the ... field. / I have ... years of ... experience. -->
-- [ ] I work for (company)          (で働いています)
+- [x] years of experience           (経験がある)                <!-- I have ... years of experience in the ... field. / I have ... years of ... experience. -->
+- [x] I work for (company)          (で働いています)
 - [ ] I work in (place/department)  (で働いています)
 
 FACT
 ----
-- [ ] It takes ... N (time)s        (かかる)                    <!-- It takes her 25 minutes to walk to work. -->
+- [x] It takes ... N (time)s        (かかる)                    <!-- It takes her 25 minutes to walk to work. -->
 - [ ] It's a custom to ...          (する習慣だ)                <!-- It's a custom to take off your shoes before entering ... -->
 - [ ] It's traditional to ...       (する習慣だ)                <!-- In Japan, it's traditional to visit ... -->
 - [ ] be supposed to ...            (するものだ)                <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->
 - [ ] be supposed to ...            (らしい)                    <!-- Dolphins are supposed to be intelligent. -->
-- [ ] it's up in the air whether .. (決まっていない)            <!-- It's up in the air whether the game will be called off or not. -->
-- [ ] identify A with B             (A を B と同じと考える)     <!-- For the most part, modernization is identified with westernization. -->
+- [x] it's up in the air whether .. (決まっていない)            <!-- It's up in the air whether the game will be called off or not. -->
+- [x] identify A with B             (A を B と同じと考える)     <!-- For the most part, modernization is identified with westernization. -->
 
 TENSE
 =====
@@ -201,6 +201,6 @@ PAST
 FUTURE
 ------
 - [ ] be supposed to ...        (することになっている)          <!-- What time are we supposed to be there? -->
-- [ ] be going to ...           (する)                          <!-- What time are we going to be there? -->
+- [x] be going to ...           (する)                          <!-- What time are we going to be there? -->
 - [ ] I will never ... again!   (二度と ... しない)             <!-- I will never climb Mt.Fuji again! -->
 - [x] be about to ...           (しようとしているところ)        <!-- I am about to go to sleep. -->
