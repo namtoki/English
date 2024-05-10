@@ -1,14 +1,16 @@
+TASK
+====
+- [x] keep up/pace with             (遅れずに付いてく)  <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
+- [ ] fall behind                   (遅れをとる)        <!-- Once you fall behind, It's hard to catch up. -->
+- [x] catch up (with)               (追いつく)          <!-- Once you fall behind, It's hard to catch up. -->
+- [x] all set                       (準備万端)          <!-- I'm all set. / You're all set. -->
+- [ ] all done                      (全て終わっている)  <!-- It's all done. -->
+
 FAMILY
 ======
 - [ ] family of ...                 (人家族です)
 - [ ] I'm from a family of ...      (私は人家族です)    <!-- I'm from a family of four. -->
 - [ ] provide for                   (養う)              <!-- My income is not adequate to provide for my family of four. -->
-
-EFFORT
-======
-- [x] keep up/pace with             (遅れずに付いてく)  <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
-- [ ] fall behind                   (遅れをとる)        <!-- Once you fall behind, It's hard to catch up. -->
-- [x] catch up (with)               (追いつく)          <!-- Once you fall behind, It's hard to catch up. -->
 
 # GENERAL
 - such things                       (そのようなもの)    <!-- C++ has plenty of such things! -->
