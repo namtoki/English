@@ -122,6 +122,7 @@ TIME (PAST)
 - ... and stuff                 (とかいろいろ)          <!-- We've got to do editing and stuff. -->
 - ... or whatever               (とかいろいろ)          <!-- I'm just going to read a book or whatever. -->
 - ... or so                     (とかそのへん)          <!-- It's 20 dollars or so. -->
+- [x] the least                 (ちっとも ... ない)     <!-- I have the least confidence about this answer. -->
 
 # SUPPLEMENT
 ## REASON

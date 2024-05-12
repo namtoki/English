@@ -1,32 +1,33 @@
-# BEGINING
-- You know what?                (そうだ！)                  <!-- You know what? I'm going to get an ice cream cone. -->
-- I know!                       (そうだ！)                  <!-- I know! Let's go bowling. -->
-- It's been a while.            (久しぶり)
-- long time no see.             (久しぶり)                  <!-- Hey Bob, long time no see. What's new? -->
-- It's been a month since       (久しぶり)                  <!-- It's been a month since we met the last time. -->
-- I haven't seen you in         (...ぶり)                   <!-- I haven't seen you in a month. -->
-- Did you hear                  (聞いた？)                  <!-- Did you hear about Kim? She got promoted. -->
-- I told you ..., right?        (と言ったと思うんだけど)    <!-- I told you about my dad, right? -->
-- Do you remember that .. ?     (覚えてる？)                <!-- Do you remember that bike at ABC Departmment Store? -->
-- I remember you ...            (と記憶しているんだけど)    <!-- I remember you went there last year. -->
-- I understand that ...         (と聞いています)            <!-- I understand that you speak a little English. -->
-- You know what ... ?           (なんだと思う？)
-- Guess what ... ?              (なんだと思う？)
-- I'm thinking about ...        (しようと思っているんだけど)<!-- I'm thinking about retiring and going to Thailand this year. -->
-- I was thinking.               (考えていたんだけど)        <!-- I was thinking. Let's take a short trip. -->
-- How's your day going?         (今日はどうだった？)
-- I'd like to ask you a favor.  (頼みがあるの)
-- Let me ask you ...            (聞かせて)                  <!-- Let me ask you your honest opinion. -->
-- Do you have a minute/second?  (今いい？)
-- Do you have time?             (今いい？)
-- Can I borrow you for a second?(今いい？)
-- Can I borrow you for a minute?(今いい？)
-- Is this a good time?          (今いい？)
-- Is everything all right?      (大丈夫？)
-- What are you up to?           (今何してんの？)
-- Don't get me wrong.           (誤解しないでね)
-- You might wonder ...          (と思うかもしれません)      <!-- You might wonder why that is so. -->
-- Can you give me a hand?       (手伝ってくれる？)
+BEGINING
+========
+- [ ] You know what?                (そうだ！)                  <!-- You know what? I'm going to get an ice cream cone. -->
+- [x] I know!                       (そうだ！)                  <!-- I know! Let's go bowling. -->
+- [x] It's been a while.            (久しぶり)
+- [ ] long time no see.             (久しぶり)                  <!-- Hey Bob, long time no see. What's new? -->
+- [ ] It's been a month since       (久しぶり)                  <!-- It's been a month since we met the last time. -->
+- [ ] I haven't seen you in         (...ぶり)                   <!-- I haven't seen you in a month. -->
+- [x] Did you hear                  (聞いた？)                  <!-- Did you hear about Kim? She got promoted. -->
+- [x] I told you ..., right?        (と言ったと思うんだけど)    <!-- I told you about my dad, right? -->
+- [ ] Do you remember that .. ?     (覚えてる？)                <!-- Do you remember that bike at ABC Departmment Store? -->
+- [ ] I remember you ...            (と記憶しているんだけど)    <!-- I remember you went there last year. -->
+- [ ] I understand that ...         (と聞いています)            <!-- I understand that you speak a little English. -->
+- [ ] You know what ... ?           (なんだと思う？)
+- [ ] Guess what ... ?              (なんだと思う？)
+- [ ] I'm thinking about ...        (しようと思っているんだけど)<!-- I'm thinking about retiring and going to Thailand this year. -->
+- [ ] I was thinking.               (考えていたんだけど)        <!-- I was thinking. Let's take a short trip. -->
+- [ ] How's your day going?         (今日はどうだった？)
+- [ ] I'd like to ask you a favor.  (頼みがあるの)
+- [ ] Let me ask you ...            (聞かせて)                  <!-- Let me ask you your honest opinion. -->
+- [ ] Do you have a minute/second?  (今いい？)
+- [ ] Do you have time?             (今いい？)
+- [ ] Can I borrow you for a second?(今いい？)
+- [ ] Can I borrow you for a minute?(今いい？)
+- [ ] Is this a good time?          (今いい？)
+- [ ] Is everything all right?      (大丈夫？)
+- [ ] What are you up to?           (今何してんの？)
+- [ ] Don't get me wrong.           (誤解しないでね)
+- [ ] You might wonder ...          (と思うかもしれません)      <!-- You might wonder why that is so. -->
+- [ ] Can you give me a hand?       (手伝ってくれる？)
 
 # RESPONSE
 ## REACTION
@@ -103,13 +104,17 @@
 - I'll have                     (飲食店 ください)           <!-- I'll have the same as her. -->
 - Keep the change               (おつりはいりません)
 - It's on me.                   (おごりです)
-## DIVE INTO
-- ★ I couldn't get it.          (わからなかった)
-- ★ I couldn't catch you.       (わからなかった)
-- ★ Do you mean ...?            (... ってこと？)            <!-- Do you mean ... you lost? -->
-- Such as?                      (例えば？)
-- Like what?                    (例えば？)
-- How about you?                (あなたはどう？)            <!-- I've never been to Disney World in Florida. How about you? -->
+
+DIVE INTO
+---------
+- [x] I couldn't get it.        (わからなかった)
+- [ ] I couldn't catch you.     (わからなかった)
+- [x] Do you mean ...?          (... ってこと？)            <!-- Do you mean ... you lost? -->
+- [x] Such as?                  (例えば？)
+- [ ] Like what?                (例えば？)
+- [ ] How about you?            (あなたはどう？)            <!-- I've never been to Disney World in Florida. How about you? -->
+- [x] In what way?              (どうやって？)
+
 ## DOUBT
 - Is that enough?               (それで十分ですか？)
 - Is that really necessay?      (それほんとに必要ですか？)
