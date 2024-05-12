@@ -42,6 +42,7 @@ RANGE
 - [ ] many different kinds of ..(数種の)                <!-- there are many different kinds of stores. -->
 - [ ] the rest of ...           (残りの)                <!-- You can have the rest of them. -->
 - [ ] a number of ...           (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
+- [x] a bunch of ...            (たくさんの)            <!-- A bunch of other companies are imitating our excellent methods. -->
 - [ ] to go                     (残りの)                <!-- We have ten minutes to go. -->
 - [x] in itself                 (それ自体は)            <!-- The revolution in itself, bore no fruit, after all. -->
 - [ ] each and every one of ... (ひとつひとつ)          <!-- Today's tips are going to help you with each and every one of these questions and more. -->

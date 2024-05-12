@@ -201,7 +201,8 @@ PAST
 
 FUTURE
 ------
-- [ ] be supposed to ...        (することになっている)          <!-- What time are we supposed to be there? -->
+- [ ] be supposed to ...        (することになっている expect)   <!-- What time are we supposed to be there? -->
+- [ ] be due to ...             (することになっている)          <!-- She is due to have her baby this week. -->
 - [x] be going to ...           (する)                          <!-- What time are we going to be there? -->
 - [ ] I will never ... again!   (二度と ... しない)             <!-- I will never climb Mt.Fuji again! -->
 - [x] be about to ...           (しようとしているところ)        <!-- I am about to go to sleep. -->

@@ -10,14 +10,54 @@ VERB
 - [ ] provide for                   (養う)                  <!-- My income is not adequate to provide for my family of four. -->
 - [x] keep up/pace with             (遅れずに付いてく)      <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
 - [ ] fall behind                   (遅れをとる)            <!-- Once you fall behind, It's hard to catch up. -->
+- [ ] catch                         (間に合う)              <!-- I have to catch the last train. -->
 - [x] catch up (with)               (追いつく)              <!-- Once you fall behind, It's hard to catch up. -->
+- [ ] catch up on                   (遅れを取り戻す)        <!-- I have to catch up on my work. -->
+- [ ] come along                    (うまくいく)            <!-- It's coming along. -->
 - [ ] protect A from (noun)         (A を noun から防ぐ)    <!-- A leather jacket can't protect you from the cold. -->
 - [ ] prevent A from (doing)        (A を doing から防ぐ)   <!-- It can't prevent you from getting cold. -->
+- [ ] come across                   (遭遇する)              <!-- I came across this information on the internet. -->
+- [ ] come along                    (一緒に来る)            <!-- I would like you to come along. -->
+- [ ] come after                    (文章が続く)            <!-- what comes after that has to be -ing like "My hobby is taking pictures." -->
+- [ ] come clean (= confess)        (正直に述べる)          <!-- OK. I'll come clean. -->
+- [ ] come out                      (出版される)            <!-- An up-to-date edition of the encyclopedia will come out next month. -->
+- [ ] come to                       (合計なる)              <!-- I was amazed to see that our utility bills came to so much! -->
+- [ ] come to                       (意識回復)              <!-- He fainted with hunger and farigue, but came to after a while. -->
+- [ ] come up with                  (考え出す)              <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
+- [ ] come by                       (努力で手に入れる)      <!-- Cheap airline tickets are usually hard to come by during Christmas season. -->
+- [ ] come close to ... ing         (危うくしそうになる)    <!-- The ambulance went out of control and came close to running over a pedestrian. -->
+- [ ] come in handy                 (役に立つ)              <!-- This tool comes in handy, so I always keep it close at hand. -->
+- [ ] catch                         (つかむ, になる)        <!-- I caught a fish. / I caught a cold. -->
+- [ ] catch                         (キャッチボール)        <!-- Let's play catch. -->
+- [ ] catch                         (理解する)              <!-- I couldn't catch that. -->
+- [ ] catch up (with)               (追いつく)              <!-- He is a really fast runner. I couldn’t catch up. -->
+- [ ] catch up (with)               (親交を深める)          <!-- I caught up with some old friends yesterday. -->
+- [ ] catch on                      (意味を理解する)        <!-- You catch on fast. -->
+- [ ] catch on                      (流行る)                <!-- It's catching on form coast to coast. -->
+- [ ] catch out                     (見破る、ボロ出さる)    <!-- My husband was sending messages to another woman but I caught him out. -->
+- [ ] be caught up in               (巻き込まれる)          <!-- I got caught up in the rain on the way home from the station. -->
+- [ ] turn ...'s back on            (背を向ける 無視)       <!-- We cannot turn our backs on desperate people who are at risk. -->
+- [ ] turn a blind eye              (見て見ぬふりする)      <!-- He saw someone being bullied, but he turned a blind eye. -->
+- [ ] turn a deaf ear               (聞こえぬふりする)
+- [ ] turn away                     (顔をそむける)          <!-- In spite of our compliments, he frowned and turned away. He was so rude. -->
+- [ ] turn out                      (という結果となる)      <!-- Take it easy. I can assure you that everything will turn out fine. -->
+- [ ] turn out                      (と判明する)            <!-- It turned out to be true. -->
+- [ ] turn out                      (消す)                  <!-- Please turn out the light. -->
+- [ ] turn out                      (集まる)                <!-- I think they will turn out shortly. -->
+- [ ] turn to                       (頼る)                  <!-- Now that I've found that there's no one to turn to. -->
+- [ ] turn/hand ... in              (提出する)              <!-- I want you to look this over before I turn it in. -->
+- [ ] turn ... down                 (断る)                  <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
+- [ ] turn up                       (現れる)                <!-- As usual, Mike turned up on time. He's very punctual. -->
 - [x] watch out (for)               (気を付ける)            <!-- You need to watch out for wildlife that may appear unexpectedly. -->
 - [x] wind ... up                   (終わりにする)          <!-- "Time to wind things up. Let's take a vote." -->
 - [x] work for                      (で勤めている)          <!-- My current company is the fourth company I've worked for. -->
 - [x] work for 人                   (都合がよい)            <!-- That doesn't work for my wife. -->
 - [x] work on                       (改善する 取り組む)     <!-- I need to work on being more punctual. -->
+- [x] have something to do with ... (と何らかの関係がある)  <!-- Innovation has something to do with the ability to notice unusual phenomena. -->
+- [x] have nothing to do with ...   (と関係がない)
+- [x] have much to do with ...      (と大いに関係がある)
+- [x] have little to do with ...    (とほとんど関係がない)
+- [ ] attribute A to B              (AはBに起因すると考える)<!-- The strength of the firm is attributed to its unique and future-oriented strategies. -->
 
 ADJECTIVES
 ==========
@@ -29,7 +69,7 @@ ADJECTIVES
 - [ ] severe                        (激しい 痛 不足)        <!-- Luke suddenly felt a severe pain in his lower back. -->
 - [ ] furious                       (激しい 怒 速度 活動)   <!-- The runners set off at a furious pace. -->
 - [ ] wear and tear                 (摩耗 消耗 衰え)        <!-- wear and tear on a tire. / I feel a little wear and tear on my body these days. -->
-- [x] all set                       (準備万端)              <!-- I'm all set. / You're all set. -->
+- [x] all set                       (準備万端)              <!-- I''re all set. -->
 - [ ] all done                      (全て終わっている)      <!-- It's all done. -->
 - [ ] over the top                  (度が過ぎている)        <!-- His acting was over the top so it wasn't believable at all. -->
 - [ ] objectionable                 (不快な 人の言動が)     <!-- The guest found the noise objectionable. -->
@@ -38,6 +78,7 @@ ADJECTIVES
 - [ ] eager for                     (熱望的な)              <!-- He's eager for his own business. -->
 - [ ] keen on                       (乗り気な)              <!-- He's keen on his own business. -->
 - [ ] enthusiastic about            (夢中な)                <!-- He's enthusiastic about his own business. -->
+- [ ] the other way around          (正反対な)              <!-- It's the other way around today. -->
 
 # GENERAL
 - such things                       (そのようなもの)    <!-- C++ has plenty of such things! -->
@@ -335,34 +376,10 @@ CALL
 - take care of                  (世話をする)        <!-- He has to take care of his sick mother. -->
 - take care of                  (引き受ける)        <!-- I'll take care of it. -->
 - care for                      (好む)              <!-- 疑か否で使う Would you care for tea? / I don't care for meat. -->
-## CATCH
-- catch                         (つかむ, になる)    <!-- I caught a fish. / I caught a cold. -->
-- catch                         (キャッチボール)    <!-- Let's play catch. -->
-- catch                         (間に合う)          <!-- I have to catch the last train. -->
-- catch                         (理解する)          <!-- I couldn't catch that. -->
-- catch up (with)               (追いつく)          <!-- He is a really fast runner. I couldn’t catch up. -->
-- catch up (with)               (親交を深める)      <!-- I caught up with some old friends yesterday. -->
-- catch up on                   (遅れを取り戻す)    <!-- I have to catch up on my work. -->
-- catch on                      (意味を理解する)    <!-- You catch on fast. -->
-- catch on                      (流行る)            <!-- The game is catching on. -->
-- catch out                     (見破る、ボロ出さる)<!-- My husband was sending messages to another woman but I caught him out. -->
-- be caught up in               (巻き込まれる)      <!-- I got caught up in the rain on the way home from the station. -->
 ## CHECK
 - check with                    (相談する)          <!-- I need to check with my boss before I can make a decision about when to take my summer vacation. -->
 ## CHOOSE
 - choose ... over ...           (よりも)            <!-- I would choose Interstate Construction over New Look Construction. -->
-## COME
-- come across                   (遭遇する)          <!-- I came across this information on the internet. -->
-- come along                    (一緒に来る)        <!-- I would like you to come along. -->
-- come along                    (うまくいく)        <!-- It's coming along. -->
-- come after                    (文章が続く)        <!-- what comes after that has to be -ing like "My hobby is taking pictures." -->
-- come clean (= confess)        (正直に述べる)      <!-- OK. I'll come clean. -->
-- come out                      (出版される)        <!-- An up-to-date edition of the encyclopedia will come out next month. -->
-- come to                       (合計なる)          <!-- I was amazed to see that our utility bills came to so much! -->
-- come to                       (意識回復)          <!-- He fainted with hunger and farigue, but came to after a while. -->
-- come up with                  (考え出す)          <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
-- come by                       (努力で手に入れる)  <!-- Cheap airline tickets are usually hard to come by during Christmas season. -->
-- come close to ... ing         (危うくしそうになる)<!-- The ambulance went out of control and came close to running over a pedestrian. -->
 ## CUT
 - cut corners                   (手を抜く)          <!-- You shouldn't cut corners. -->
 - cut down on                   (減らす)            <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
@@ -537,16 +554,3 @@ CALL
 - tell ... apart                (見分ける)          <!-- Dolly resembles her big sister in every way. You can't tell them apart. -->
 ## THINK
 - think ... over                (慎重に考える)      <!-- You ought to think over whether the premise is valid or not. -->
-## TURN
-- turn ...'s back on            (背を向ける 無視)   <!-- We cannot turn our backs on desperate people who are at risk. -->
-- turn a blind eye              (見て見ぬふりする)  <!-- He saw someone being bullied, but he turned a blind eye. -->
-- turn a deaf ear               (聞こえぬふりする)
-- turn away                     (顔をそむける)      <!-- In spite of our compliments, he frowned and turned away. He was so rude. -->
-- turn out                      (という結果となる)  <!-- Take it easy. I can assure you that everything will turn out fine. / It turned out OK. -->
-- turn out                      (と判明する)        <!-- It turned out to be true. -->
-- turn out                      (消す)              <!-- Please turn out the light. -->
-- turn out                      (集まる)            <!-- I think they will turn out shortly. -->
-- turn to                       (頼る)              <!-- Now that I've found that there's no one to turn to, I'll have to stand on my own two feet. -->
-- turn/hand ... in              (提出する)          <!-- I want you to look this over before I turn it in. -->
-- turn ... down                 (断る)              <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
-- turn up                       (現れる)            <!-- As usual, Mike turned up on time. He's very punctual. -->
