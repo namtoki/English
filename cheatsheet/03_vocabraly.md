@@ -2,6 +2,7 @@ NOUN
 ====
 - [x] family of ...                 (人家族)                <!-- I'm from a family of four. -->
 - [x] gut feeling                   (直観)
+- [ ] voucher                       (引換券 保証人)
 
 VERB
 ====
@@ -31,6 +32,12 @@ ADJECTIVES
 - [x] all set                       (準備万端)              <!-- I'm all set. / You're all set. -->
 - [ ] all done                      (全て終わっている)      <!-- It's all done. -->
 - [ ] over the top                  (度が過ぎている)        <!-- His acting was over the top so it wasn't believable at all. -->
+- [ ] objectionable                 (不快な 人の言動が)     <!-- The guest found the noise objectionable. -->
+- [ ] unpleasant                    (不快な 自然現象含めて)
+- [ ] avid (noun)                   (熱心な noun)           <!-- avid reader -->
+- [ ] eager for                     (熱望的な)              <!-- He's eager for his own business. -->
+- [ ] keen on                       (乗り気な)              <!-- He's keen on his own business. -->
+- [ ] enthusiastic about            (夢中な)                <!-- He's enthusiastic about his own business. -->
 
 # GENERAL
 - such things                       (そのようなもの)    <!-- C++ has plenty of such things! -->

@@ -83,6 +83,8 @@ TIME (COMMON)
 - [ ] tens of minutes           (数十分)
 - [ ] just before ...           (のちょっと前に)        <!-- I will get home sometime just before 9pm. -->
 - [ ] just after ...            (のちょっと後に)        <!-- I will go abroad sometime just after Golden Week. -->
+- [x] meanwhile                 (それまでの間)          <!-- We can go out tomorrow, meanwhile I'll teach you how to play bridge. -->
+- [ ] afterwards                (そのあとに)            <!-- We’ll grab dinner and go to karaoke afterward(s). -->
 
 TIME (PAST)
 -----------
@@ -167,6 +169,7 @@ TIME (PAST)
 - what's worse                  (さらに悪いことに)
 - to make matters worse         (さらに悪いことに)      <!-- To make matters worse, he isn't even conscious of annoying us. -->
 - [x] in particular             (その中でも特に)        <!-- Urban culture appears to be attractive to many people, in particular, to younger people. -->
+- [ ] among other things        (その中でも特に)
 ## EXTENT
 - ★ some more                   (もう少し)              <!-- I'll think about it some more. -->
 - to the point where ...        (くらいまで)            <!-- I studied English so much to the point where my dream started being in English. -->
