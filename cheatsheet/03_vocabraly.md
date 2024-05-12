@@ -1,6 +1,7 @@
 NOUN
 ====
 - [x] family of ...                 (人家族)                <!-- I'm from a family of four. -->
+- [x] gut feeling                   (直観)
 
 VERB
 ====

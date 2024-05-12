@@ -105,15 +105,6 @@ ANSWER (POSITIVE)
 - [ ] It's OK.                      (大丈夫だよ)
 - [ ] Might as well                 (まぁいいよ)
 
-CLICHE
-======
-- [ ] It's on me.                   (おごりです)
-- [ ] Keep the change               (おつりはいりません)
-- [ ] I'll take it.                 (これください)
-- [ ] I'll have                     (飲食店 ください)           <!-- I'll have the same as her. -->
-- [x] I can't help it.              (仕方ない)
-- [ ] There's nothing we can do about it (仕方ない)
-
 DIVE
 ====
 - [x] I couldn't get it.            (わからなかった)
@@ -175,3 +166,15 @@ Question
 - [ ] I can't see                   (見えない)                  <!-- I can't see you/the material/the notes. -->
 - [ ] Could you make ... bigger?    (大きくして)                <!-- Could you make the material/notes bigger? -->
 - [ ] Could you type it in the chat (文字にして)
+
+CLICHE
+======
+- [ ] It's on me.                   (おごりです)
+- [ ] Keep the change               (おつりはいりません)
+- [x] I'll take it.                 (これください)
+- [x] I'll have                     (飲食店 ください)           <!-- I'll have the same as her. -->
+- [x] I can't help it.              (仕方ない)
+- [ ] There's nothing we can do about it (仕方ない)
+- [x] I'm a stranger here           (ここは初めてなんです)
+- [x] bless you                     (お大事に くしゃみに対して)
+- [x] Nothing personal.             (悪く思わないでね)
