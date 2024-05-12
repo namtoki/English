@@ -3,7 +3,7 @@
 - [Framework](01_framework.md)
 - [Modifier](02_modifier.md)
 - [Vacabraly](03_vocabraly.md)
-- [Casual](04_casual.md)
+- [Phrase](04_phrase.md)
 
 # TODO
 

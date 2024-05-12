@@ -1,16 +1,21 @@
 NOUN
 ====
-- [ ] family of ...                 (人家族)                <!-- I'm from a family of four. -->
+- [x] family of ...                 (人家族)                <!-- I'm from a family of four. -->
 
 VERB
 ====
-- [ ] get to                        (通う 着く)             <!-- We live in Kamioka so Yokohama is easy to get to. = access-->
+- [x] get to                        (通う 着く)             <!-- We live in Kamioka so Yokohama is easy to get to. = access-->
 - [ ] provide for                   (養う)                  <!-- My income is not adequate to provide for my family of four. -->
 - [x] keep up/pace with             (遅れずに付いてく)      <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
 - [ ] fall behind                   (遅れをとる)            <!-- Once you fall behind, It's hard to catch up. -->
 - [x] catch up (with)               (追いつく)              <!-- Once you fall behind, It's hard to catch up. -->
 - [ ] protect A from (noun)         (A を noun から防ぐ)    <!-- A leather jacket can't protect you from the cold. -->
 - [ ] prevent A from (doing)        (A を doing から防ぐ)   <!-- It can't prevent you from getting cold. -->
+- [x] watch out (for)               (気を付ける)            <!-- You need to watch out for wildlife that may appear unexpectedly. -->
+- [x] wind ... up                   (終わりにする)          <!-- "Time to wind things up. Let's take a vote." -->
+- [x] work for                      (で勤めている)          <!-- My current company is the fourth company I've worked for. -->
+- [x] work for 人                   (都合がよい)            <!-- That doesn't work for my wife. -->
+- [x] work on                       (改善する 取り組む)     <!-- I need to work on being more punctual. -->
 
 ADJECTIVES
 ==========
@@ -537,23 +542,3 @@ CALL
 - turn/hand ... in              (提出する)          <!-- I want you to look this over before I turn it in. -->
 - turn ... down                 (断る)              <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
 - turn up                       (現れる)            <!-- As usual, Mike turned up on time. He's very punctual. -->
-
-# U
-
-# V
-
-# W
-## WATCH
-- watch out (for)               (気を付ける)        <!-- When driving at night, you need to watch out for wildlife that may appear unexpectedly. -->
-## WIND
-- wind ... up                   (終わりにする)      <!-- "Time to wind things up. Let's take a vote." -->
-## WORK
-- work for                      (勤めている)        <!-- My current company is the fourth company I've worked for. -->
-- work for                      (都合がよい)        <!-- That doesn't work for my wife. -->
-- work on                       (改善する 取り組む) <!-- I need to work on being more punctual. -->
-
-# X
-
-# Y
-
-# Z
