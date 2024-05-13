@@ -29,6 +29,7 @@ VERB
 - [ ] come by                       (努力で手に入れる)      <!-- Cheap airline tickets are usually hard to come by during Christmas season. -->
 - [ ] come close to ... ing         (危うくしそうになる)    <!-- The ambulance went out of control and came close to running over a pedestrian. -->
 - [ ] come in handy                 (役に立つ)              <!-- This tool comes in handy, so I always keep it close at hand. -->
+- [ ] come into being/existence     (be born originally)    <!-- With restrictions removed, thousands of new enterprises have come into being. -->
 - [ ] catch                         (つかむ, になる)        <!-- I caught a fish. / I caught a cold. -->
 - [ ] catch                         (キャッチボール)        <!-- Let's play catch. -->
 - [ ] catch                         (理解する)              <!-- I couldn't catch that. -->
@@ -62,6 +63,8 @@ VERB
 - [ ] attribute A to B              (AはBに起因すると考える)<!-- The strength of the firm is attributed to its unique and future-oriented strategies. -->
 - [ ] live up to                    (期待に応える)          <!-- He promised the electorate to set land aside for a national park, but he hasn't lived up to that promise. -->
 - [ ] publicize                     (宣伝する)
+- [ ] drop A a line                 (A にちょい連絡する)    <!-- Please drop me a line. -->
+- [ ] give birth to                 (出産する)              <!-- While he was away on business, his wife gave birth to a baby boy. -->
 
 ADJECTIVES
 ==========

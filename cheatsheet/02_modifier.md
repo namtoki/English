@@ -144,6 +144,7 @@ REASON
 - ★ at the thought of ...       (のことを考えると)      <!-- I tremble with fear at the thought of an injection. -->
 - for one thing                 (その理由の一つは)      <!-- I can't pu you up. For one thing, my dad drops in on me from time to time.-->
 - That's how ...                (こうすることで)
+- as a result of ...            (because of)            <!-- As a result of his ridiculous venture, he is in danger  of going bankrupt. -->
 ## OBJECTIVE
 - ★ (in order) to               (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
 - so as to                      (のために 堅い)
