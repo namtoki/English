@@ -3,6 +3,8 @@ NOUN
 - [x] family of ...                 (人家族)                <!-- I'm from a family of four. -->
 - [x] gut feeling                   (直観)
 - [ ] voucher                       (引換券 保証人)
+- [ ] wear and tear                 (摩耗 消耗 衰え)        <!-- wear and tear on a tire. / I feel a little wear and tear on my body these days. -->
+- [ ] sales quota                   (売上ノルマ)
 
 VERB
 ====
@@ -58,27 +60,36 @@ VERB
 - [x] have much to do with ...      (と大いに関係がある)
 - [x] have little to do with ...    (とほとんど関係がない)
 - [ ] attribute A to B              (AはBに起因すると考える)<!-- The strength of the firm is attributed to its unique and future-oriented strategies. -->
+- [ ] live up to                    (期待に応える)          <!-- He promised the electorate to set land aside for a national park, but he hasn't lived up to that promise. -->
+- [ ] publicize                     (宣伝する)
 
 ADJECTIVES
 ==========
-- [ ] moderate                      (中 適度の 節度のある)  <!-- a moderate temperature -->
-- [ ] modest                        (小 控えめ 謙虚な)      <!-- a modest increase in price -->
-- [ ] intense                       (激しい 暑 光 痛 感情)  <!-- Lauren sought shelter from the intense heat of the midday sun. -->
+- [x] moderate                      (中 適度の 節度のある)  <!-- a moderate temperature -->
+- [x] modest                        (小 控えめ 謙虚な)      <!-- a modest increase in price -->
+- [x] intense                       (激しい 暑 光 痛 感情)  <!-- Lauren sought shelter from the intense heat of the midday sun. -->
 - [ ] violent                       (激しい 自然現象 感情)  <!-- A violent storm tossed the ship around like a toy. -->
 - [ ] fierce                        (激しい 競争 暴風暴雨)  <!-- The plans have faced fierce resistance from local residents. -->
 - [ ] severe                        (激しい 痛 不足)        <!-- Luke suddenly felt a severe pain in his lower back. -->
 - [ ] furious                       (激しい 怒 速度 活動)   <!-- The runners set off at a furious pace. -->
-- [ ] wear and tear                 (摩耗 消耗 衰え)        <!-- wear and tear on a tire. / I feel a little wear and tear on my body these days. -->
+- [ ] ready
 - [x] all set                       (準備万端)              <!-- I''re all set. -->
 - [ ] all done                      (全て終わっている)      <!-- It's all done. -->
 - [ ] over the top                  (度が過ぎている)        <!-- His acting was over the top so it wasn't believable at all. -->
 - [ ] objectionable                 (不快な 人の言動が)     <!-- The guest found the noise objectionable. -->
 - [ ] unpleasant                    (不快な 自然現象含めて)
-- [ ] avid (noun)                   (熱心な noun)           <!-- avid reader -->
 - [ ] eager for                     (熱望的な)              <!-- He's eager for his own business. -->
+- [ ] avid (noun)                   (熱心な noun)           <!-- avid reader -->
 - [ ] keen on                       (乗り気な)              <!-- He's keen on his own business. -->
 - [ ] enthusiastic about            (夢中な)                <!-- He's enthusiastic about his own business. -->
+- [ ] aspiring                      (志望の)                <!-- an aspiring writer -->
 - [ ] the other way around          (正反対な)              <!-- It's the other way around today. -->
+- [ ] beautiful
+- [ ] picturesque                   (絵のように美しい)
+- [ ] excited                       (わくわくして 通常)
+- [ ] thrilled                      (わくわくして 特に)
+- [ ] unprecedented                 (前例のない)
+- [ ] sturdy                        (頑丈な)                <!-- The table looks sturdy. -->
 
 # GENERAL
 - such things                       (そのようなもの)    <!-- C++ has plenty of such things! -->

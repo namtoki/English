@@ -127,8 +127,11 @@ TIME (PAST)
 - ... or so                     (とかそのへん)          <!-- It's 20 dollars or so. -->
 - [x] the least                 (ちっとも ... ない)     <!-- I have the least confidence about this answer. -->
 
-# SUPPLEMENT
-## REASON
+SUPPLEMENT
+==========
+
+REASON
+------
 - ★ because + 文                (直接的理由)
 - because of + Noun             (直接的理由)
 - since                         (既出の理由)
@@ -183,34 +186,37 @@ TIME (PAST)
 - ★ somewhat                    (ある程度, いくらか)    <!-- Strictly speaking, his view differs somewhat from mine. -->
 - to (a certain | some) extent  (ある程度, いくらか)    <!-- In any case, the union has to compromise to a certain extent. -->
 - to my shoulders               (肩まで)                <!-- I entered the Ghanges river to my shoulders. -->
-## HOW
-- on impulse                    (衝動的に)              <!-- I'm apt to buy things on impulse whenever something is on sale. -->
-- ★ in a row                    (連続して)              <!-- the unemployment rate has risen three quarters in a row. -->
-- ★ time and again              (何度も)                <!-- The ecologist has warned us time and again that petroleum is not only a blessing but also a curse. -->
-- on purpose                    (わざと)                <!-- He made a mistake on purpose. -->
-- purposely                     (わざと)                <!-- He purposely didn't say anything. -->
-- ★ out of habit                (くせで)                <!-- I got the Namboku line out of habit. -->
-- in a rage                     (激怒して)              <!-- "Turn the faucet off!" mom yelled in a rage. -->
-- on behalf of ...              (代表して)              <!-- On behalf of all staff, I'd like to express our sympathy for the victims. -->
-- on behalf of ...              (の代わりに)            <!-- I thank you on behalf of my husband. -->
-- in place of ...               (の代わりに)            <!-- I used Knox’s PC in place of mine today. -->
-- in earnest                    (真面目に)              <!-- Japan must undertake sweeping deregulation in earnest. -->
-- for the (fun | joy) of it     (趣味として)            <!-- I just cook for the fun of it. -->
-- ★ up-front                    (前もって)              <!-- This hotel requires a cash deposit up-front. -->
-- in advance                    (前もって)
-- ★ just in case                (念のため)              <!-- I'll write it down just in case. -->
-- ★ for a rainy day             (念のため)              <!-- I decided to put some aside for a rainy day. -->
-- ★ for the first time          (初めて)                <!-- Last Saturday, I came here for the first time. -->
-- ★ at the same time            (同時に)                <!-- It's hard being the writer and an actor at the same time (両立) -->
-- to ...'s heart's content      (思う存分)              <!-- The aristocrats abused their privileges to their hearts' content. -->
-- one-off                       (一度限りの)            <!-- The expense incurred this year to construct the building is a one-off cost. -->
-- door to door                  (家から〇〇まで)        <!-- It takes me about one hour door to door. -->
-- by heart                      (暗記で)                <!-- First of all, learn the formula by heart. / know by heart.-->
-- ★ barely                      (かろうじて)            <!-- The minute particles are barely visible to the naked eye. -->
-- in heart                      (本当は)                <!-- Since Bob is lazy at heart, he frequently neglects his duties. -->
-- back and forth                (行ったり来たり)        <!-- While Jennifer was standing still, Bob was pacing back and forth along the sidewalk. -->
-- to and fro                    (あちこちに)            <!-- I have been traveling to and fro between Canada and the U.K. for years. -->
-- in the long run               (長い目で見れば)        <!-- Bob sticks to his moral principles and believes that honesty pays off in the long run. -->
+
+HOW
+---
+- [ ] on impulse                (衝動的に)              <!-- I'm apt to buy things on impulse whenever something is on sale. -->
+- [ ] out of habit              (くせで)                <!-- I got the Namboku line out of habit. -->
+- [ ] on purpose                (わざと)                <!-- He made a mistake on purpose. -->
+- [ ] purposely                 (わざと)                <!-- He purposely didn't say anything. -->
+- [ ] at the same time          (同時に)                <!-- It's hard being the writer and an actor at the same time (両立) -->
+- [ ] in a row                  (連続して)              <!-- the unemployment rate has risen three quarters in a row. -->
+- [ ] time and again            (何度も)                <!-- The ecologist has warned us time and again that petroleum is not only a blessing but also a curse. -->
+- [ ] one-off                   (一度限りの)            <!-- The expense incurred this year to construct the building is a one-off cost. -->
+- [ ] for the first time        (初めて)                <!-- Last Saturday, I came here for the first time. -->
+- [ ] up-front                  (前もって)              <!-- This hotel requires a cash deposit up-front. -->
+- [ ] in advance                (前もって)
+- [ ] in a rage                 (激怒して)              <!-- "Turn the faucet off!" mom yelled in a rage. -->
+- [ ] in earnest                (真面目に)              <!-- Japan must undertake sweeping deregulation in earnest. -->
+- [ ] on behalf of ...          (代表して)              <!-- On behalf of all staff, I'd like to express our sympathy for the victims. -->
+- [ ] on behalf of ...          (の代わりに)            <!-- I thank you on behalf of my husband. -->
+- [ ] in place of ...           (の代わりに)            <!-- I used Knox’s PC in place of mine today. -->
+- [ ] for the (fun | joy) of it (趣味として)            <!-- I just cook for the fun of it. -->
+- [ ] just in case              (念のため)              <!-- I'll write it down just in case. -->
+- [ ] for a rainy day           (念のため)              <!-- I decided to put some aside for a rainy day. -->
+- [ ] to ...'s heart's content  (思う存分)              <!-- The aristocrats abused their privileges to their hearts' content. -->
+- [ ] door to door              (家から〇〇まで)        <!-- It takes me about one hour door to door. -->
+- [ ] by heart                  (暗記で)                <!-- First of all, learn the formula by heart. / know by heart.-->
+- [ ] barely                    (かろうじて)            <!-- The minute particles are barely visible to the naked eye. -->
+- [ ] at heart                  (本当は)                <!-- Since Bob is lazy at heart, he frequently neglects his duties. -->
+- [ ] back and forth            (行ったり来たり)        <!-- While Jennifer was standing still, Bob was pacing back and forth along the sidewalk. -->
+- [ ] to and fro                (あちこちに)            <!-- I have been traveling to and fro between Canada and the U.K. for years. -->
+- [ ] in the long run           (長い目で見れば)        <!-- Bob sticks to his moral principles and believes that honesty pays off in the long run. -->
+- [ ] in accordance with        (に従って)
 
 # FEELING
 - it goes without saying        (言うまでもないが)      <!-- It goes without saying that the aging of society is inevitable. -->
