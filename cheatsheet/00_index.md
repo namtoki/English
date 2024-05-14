@@ -7,6 +7,16 @@
 
 # TODO
 
+Duo
+1 8 15
+2 9 16
+3 10 17
+4 11 18
+5 12 19
+6 13 20
+7 14 21
+22 23
+
 fine/sick
 shocked
 shy/outgoing

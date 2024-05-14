@@ -58,6 +58,7 @@ TIME (FUTURE)
 - [ ] soon                      (近いうちに)
 - [x] by the time ...           (するまでには)          <!-- By the time I got wake up, the snow had stopped falling. -->
 - [x] no later than ...         (遅くとも .. までには)  <!-- Please hand in your assignment via e-mail no later than 5:00 PM on June 10. -->
+- [x] ... at the latest         (遅くとも .. までには)  <!-- Please estimate the losses by Friday at the latest. I'll manage it somehow. -->
 - [ ] for years to come         (この先数年)            <!-- In all likelihood, the birthrate will continue to decline steadily for years to come. -->
 - [ ] for good                  (これを最後に永久に)    <!-- We're through for good this time. -->
 
@@ -203,6 +204,7 @@ EXTENT
 
 HOW
 ---
+- [x] somehow                   (なんとかして)          <!-- Please estimate the losses by Friday at the latest. I'll manage it somehow. -->
 - [ ] on impulse                (衝動的に)              <!-- I'm apt to buy things on impulse whenever something is on sale. -->
 - [ ] out of habit              (くせで)                <!-- I got the Namboku line out of habit. -->
 - [ ] on purpose                (わざと)                <!-- He made a mistake on purpose. -->
@@ -231,6 +233,7 @@ HOW
 - [ ] to and fro                (あちこちに)            <!-- I have been traveling to and fro between Canada and the U.K. for years. -->
 - [ ] in the long run           (長い目で見れば)        <!-- Bob sticks to his moral principles and believes that honesty pays off in the long run. -->
 - [ ] in accordance with        (に従って)
+- [ ] around the clock          (休むことなく)          <!-- They are working around the clock looking into the cause of the crash. -->
 
 # FEELING
 - [ ] it goes without saying            (言うまでもないが)              <!-- It goes without saying that the aging of society is inevitable. -->

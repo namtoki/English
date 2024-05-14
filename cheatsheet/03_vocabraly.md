@@ -259,6 +259,7 @@ VERB
 - [ ] take care                         (気を付ける)            <!-- Take care you don't drink too much. -->
 - [ ] take care of                      (世話をする)            <!-- He has to take care of his sick mother. -->
 - [ ] take care of                      (引き受ける)            <!-- I'll take care of it. -->
+- [ ] take on                           (引き受ける)            <!-- Apparently, Nick wasn't willing to take on the task because it would just add to his burdens. -->
 - [ ] care for                          (好む)                  <!-- 疑か否で使う Would you care for tea? / I don't care for meat. -->
 - [ ] check with                        (相談する)              <!-- I need to check with my boss before I can make a decision about when to take my summer vacation. -->
 - [ ] choose ... over ...               (よりも)                <!-- I would choose Interstate Construction over New Look Construction. -->
