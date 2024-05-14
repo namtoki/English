@@ -88,7 +88,7 @@ ANSWER (NEGATIVE)
 ANSWER (POSITIVE)
 =================
 - [ ] Let me see...                 (ええと, なんだっけ)
-- [ ] It's difficult to say.        (ええと, なんだっけ)
+- [x] It's difficult to say.        (ええと, なんだっけ)
 - [ ] what-cha-ma-call-it.          (ええと, なんだっけ)
 - [ ] I don't mind.                 (気にしないよ)
 - [x] I'll take care of it.         (引き受けた)
@@ -100,7 +100,7 @@ ANSWER (POSITIVE)
 - [x] It's up to you.               (好きなほうでいいですよ)
 - [ ] Go ahead                      (どうぞ)                    <!-- Go ahead and use mine. / Go ahead and have a seat. -->
 - [ ] Here                          (どうぞ)                    <!-- Here you are. / Here's a little something for you. -->
-- [ ] That's OK.                    (なんでもないです)
+- [x] That's OK.                    (なんでもないです)
 - [ ] Never mind.                   (気にしないで)
 - [ ] It's OK.                      (大丈夫だよ)
 - [ ] Might as well                 (まぁいいよ)
@@ -154,7 +154,7 @@ Question
 - [x] How do you spell this word?   (どう書く？)
 - [ ] Could you write it down?      (書いてもらえますか？)
 - [ ] Is ... the same as ...?       (は ... と同じですか？)
-- [ ] What does ... mean?           (はどういう意味ですか？)
+- [x] What does ... mean?           (はどういう意味ですか？)
 - [ ] Can you say ... ?             (と言えますか？)            <!-- Can you say my goal is becoming a write? -->
 - [x] Would it sound .. if I said ..(と言ったら..ですか？)      <!-- Would it sound a little bit weird if I said ... -->
 - [x] Could you say that again?     (もう一度言って？)          <!-- Could you say that more simply, please? -->

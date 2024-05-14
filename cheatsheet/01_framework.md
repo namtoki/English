@@ -117,18 +117,18 @@ ASK
 ---
 - [x] Could you ...                 (*    してもらえます？)     <!-- Could you say that again? -->
 - [x] Would you ...                 (**   してもらえます？)     <!-- Would you get me that box? -->
-- [?] Do you think you could ...    (**   してもらえます？)     <!-- Do you think you could talk to her? -->
-- [?] Would you like to ...         (**   してもらえます？)     <!-- Would you like to give a speech? -->
-- [?] Would you mind ... ing?       (**   してもらえます？)     <!-- Would you mind doing that? -->
-- [?] Please do me a favor and ...  (**   してもらえます？)     <!-- Please do me a favor and give me a ride to Times Square. -->
-- [?] I was wondering if you could  (***  してもらえます？)     <!-- I was wondering if you could do me a favor. -->
+- [ ] Do you think you could ...    (**   してもらえます？)     <!-- Do you think you could talk to her? -->
+- [x] Would you like to ...         (**   してもらえます？)     <!-- Would you like to give a speech? -->
+- [x] Would you mind ... ing?       (**   してもらえます？)     <!-- Would you mind doing that? -->
+- [ ] Please do me a favor and ...  (**   してもらえます？)     <!-- Please do me a favor and give me a ride to Times Square. -->
+- [x] I was wondering if you could  (***  してもらえます？)     <!-- I was wondering if you could do me a favor. -->
 - [ ] Would it be possible to ...?  (***  してもらえます？)     <!-- Would it be possible to have the invoice ready by the 15th? -->
 - [ ] I'd be grateful if you could  (**** してもらえます？)     <!-- [TEXT] I would be grateful if you could give us an update on progress at the end of the month. -->
 
 PERMISSION
 ----------
-- [ ] Can I                         (*    してもいい？)
-- [ ] Could I                       (**   してもいい？)
+- [x] Can I                         (*    してもいい？)
+- [x] Could I                       (**   してもいい？)
 - [ ] Do you think I could          (***  してもいい？)         <!-- Do you think I could get your number? -->
 - [x] Is it OK/alright if           (***  してもいい？)         <!-- Is it OK if I park here? -->
 - [x] Would you mind if I ... ?     (***  してもいい？)         <!-- Do you mind if I stop by your house? -->
@@ -153,11 +153,11 @@ PERSONAL
 - [x] get/be used to ...            (慣れる/ている)             <!-- I'm getting used to working with new coworkers here. -->
 - [x] get/be familiar with ...      (慣れる/ている)             <!-- He got familiar with a new laptop. -->
 - [ ] always                        (普段は ... する)           <!-- In my family, we always eat turkey on ... -->
-- [ ] tend to ...                   (普段は ... する)           <!-- I tend to prefer non-fiction -->
-- [x] usually end up ... ing        (普段は ... する)           <!-- I usually end up getting fast food. (ついついしちゃう) -->
-- [ ] tend to ...                   (たいてい ... する)         <!-- I tend not to remember my dreams -->
-- [ ] tend to ...                   (ついつい ... する)         <!-- I tend to eat a lot when I'm nervous -->
-- [ ] I'm terrible with             (苦手)
+- [x] tend to ...                   (普段は ... する)           <!-- I tend to prefer non-fiction -->
+- [ ] usually end up ... ing        (普段は ... する)           <!-- I usually end up getting fast food. (ついついしちゃう) -->
+- [x] tend to ...                   (たいてい ... する)         <!-- I tend not to remember my dreams -->
+- [x] tend to ...                   (ついつい ... する)         <!-- I tend to eat a lot when I'm nervous -->
+- [x] I'm terrible with             (苦手)
 - [x] I don't care for              (苦手)                      <!-- I don't care for spicy food. -->
 - [ ] I remember                    (懐かしい)                  <!-- I remember that trip! -->
 - [ ] This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
@@ -184,8 +184,6 @@ FACT
 - [ ] It's traditional to ...       (する習慣だ)                <!-- In Japan, it's traditional to visit ... -->
 - [ ] be supposed to ...            (するものだ)                <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->
 - [ ] be supposed to ...            (らしい)                    <!-- Dolphins are supposed to be intelligent. -->
-- [x] it's up in the air whether .. (決まっていない)            <!-- It's up in the air whether the game will be called off or not. -->
-- [x] identify A with B             (A を B と同じと考える)     <!-- For the most part, modernization is identified with westernization. -->
 
 TENSE
 =====
@@ -207,34 +205,39 @@ FUTURE
 - [ ] I will never ... again!   (二度と ... しない)             <!-- I will never climb Mt.Fuji again! -->
 - [x] be about to ...           (しようとしているところ)        <!-- I am about to go to sleep. -->
 
-# S+V. And S+V, which means that ...
+PATTERN
+=======
 
+S+V. And S+V, which means that ...
+----------------------------------
 So all the flight in and out of your country have been suspended indefinitely.
 And the new government has sealed all the borders,
 which means that your passport and visa are no longer valid.
 
-# S+V. And S+V. It seems that ...
-
+S+V. And S+V. It seems that ...
+-------------------------------
 Here's my dilemma, Mr. Navorski.
 You have no legal right to enter the United States,
 and I have no legal right to detain you.
 It seems that you have fallen through a small crack in the system.
 
-# The things that I ... are ...
-
+The things that I ... are ...
+-----------------------------
 The things that I care about are trying to reach people emotionally,
 
-# ... but I also ...
-
+... but I also ...
+------------------
 but I also am very visual, right?
 but I also think about that global market, and I think ...
 
-# <Suggestion>, especially if you ...
+(Suggestion), especially if you ...
+-----------------------------------
 We want to give you some extremely powerful English tips,
 which today are questions you should be asking your English teacher during your English classes,
 especially if you want to know more, get more from your lessons, or if you feel confused or don't understand something.
 
-# 使役
+使役
+----
 - make ... Adj
   - I'll do anything to make you happy.
   - The story made me sad.

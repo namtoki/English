@@ -65,6 +65,7 @@ VERB
 - [ ] publicize                     (宣伝する)
 - [ ] drop A a line                 (A にちょい連絡する)    <!-- Please drop me a line. -->
 - [ ] give birth to                 (出産する)              <!-- While he was away on business, his wife gave birth to a baby boy. -->
+- [x] identify A with B             (A を B と同じと考える) <!-- For the most part, modernization is identified with westernization. -->
 
 ADJECTIVES
 ==========
@@ -93,6 +94,7 @@ ADJECTIVES
 - [ ] thrilled                      (わくわくして 特に)
 - [ ] unprecedented                 (前例のない)
 - [ ] sturdy                        (頑丈な)                <!-- The table looks sturdy. -->
+- [x] it's up in the air whether .. (決まっていない)        <!-- It's up in the air whether the game will be called off or not. -->
 
 # GENERAL
 - such things                       (そのようなもの)    <!-- C++ has plenty of such things! -->
