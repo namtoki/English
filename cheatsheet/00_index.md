@@ -31,6 +31,10 @@ I get angry at myself.
 sarcasm
 one-off
 
+## TOEIC 10
+stoplight
+bolster
+
 # POOL
 
 - My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just took it easy.

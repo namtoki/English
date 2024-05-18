@@ -31,51 +31,51 @@ BEGINING
 
 REACTION
 ========
-- [x] I know, right?                (だよね)
-- [ ] I was going to say!           (だよね！)
-- [x] Lucky you!                    (いいなぁ)
-- [ ] I would.                      (いいなぁ)                  <!-- You're not going? I would. -->
-- [x] I've been there.              (わかる)
+- [x] (That's) true                 (その通りだね)
+- [x] (That) Sounds like a plan     (それでいこう)
+- [x] (That) makes sense            (なるほど)
+- [x] Fair enough                   (理解できる)                <!-- , but と続けば否定的 -->
+- [x] Good to know                  (聞けて良かった)
 - [x] I feel you                    (わかる)
-- [ ] I think so too                (私もそう思う)
-- [ ] That's what I think, too.     (私もそう思う)
 - [x] I know what you mean.         (私もそう思う)
-- [ ] Me too                        (私もそう)
+- [x] I know, right?                (だよね)
+- [x] I see (what you mean).        (なるほど)
+- [x] I'm in the middle of something(今手が離せない)
+- [x] I've been there.              (わかる)
+- [x] Lucky you!                    (いいなぁ)
+- [x] Neither do I                  (私もそう)
 - [x] Same here                     (私もそう)
 - [x] So do I                       (私もそう)
-- [x] Neither do I                  (私もそう)
-- [x] (That's) true                 (その通りだね)
-- [x] Tell me about it.             (全くその通りだ)
-- [ ] You can say that again.       (全くその通りだ)
-- [ ] No doubt about it.            (全くその通りだ)
-- [ ] You have no idea.             (まじでそう)
-- [x] (That) makes sense            (なるほど)
-- [x] I see (what you mean).        (なるほど)
-- [x] Fair enough                   (理解できる)                <!-- , but と続けば否定的 -->
-- [ ] I know what you are saying    (理解できる)
 - [x] Sounds good                   (いいね)
-- [ ] I love it!                    (いいね)
-- [x] (That) Sounds like a plan     (それでいこう)
-- [ ] I told you.                   (ほらね)
-- [ ] I believe you                 (わかったよ)
-- [ ] I don't know.                 (そうだなぁ)
-- [x] that ... ?                    (そんなに ...？)            <!-- Wow! That good? -->
+- [x] Tell me about it.             (全くその通りだ)
 - [x] That must have been tough     (それは大変だったでしょう)
-- [ ] That must have been difficult (それは大変だったでしょう)
-- [ ] I was going to say            (今言おうと思っていた)      <!-- I was going to say we should get the smaller one. -->
 - [x] That sounds like              (それは .. だね)            <!-- That sounds like a lot of work. -->
-- [ ] That's a fair point           (それは鋭い指摘だ)
 - [x] That would be great.          (そうしていただけると嬉しい)
 - [x] You flatter me.               (お世辞でも嬉しいです)
-- [x] Good to know                  (聞けて良かった)
-- [ ] the only way to ...           (やっぱりこれでしょ)        <!-- This is the only way to live. -->
-- [ ] Do you want me to ... ?       (... させるつもり？)        <!-- Do you want me to lose my job? -->
-- [ ] You name it.                  (なんでもいいよ)
+- [x] that ... ?                    (そんなに ...？)            <!-- Wow! That good? -->
 - [ ] Been there done that          (やったことあるけど、もういい (飽きた))
-- [x] I'm in the middle of something(今手が離せない)
-- [ ] I'm trying to ...             (中だから邪魔しないで)      <!-- Hey, Toshi? I'm trying to work, Emily! -->
+- [ ] Do you want me to ... ?       (... させるつもり？)        <!-- Do you want me to lose my job? -->
+- [ ] I believe you                 (わかったよ)
+- [ ] I don't know.                 (そうだなぁ)
+- [ ] I know what you are saying    (理解できる)
+- [ ] I love it!                    (いいね)
+- [ ] I think so too                (私もそう思う)
+- [ ] I told you.                   (ほらね)
+- [ ] I was going to say            (今言おうと思っていた)      <!-- I was going to say we should get the smaller one. -->
+- [ ] I was going to say!           (だよね！)
+- [ ] I would.                      (いいなぁ)                  <!-- You're not going? I would. -->
 - [ ] I'm ... ing ... at the moment (中だから邪魔しないで)      <!-- Hang on. I'm just finishing up an email at the moment -->
+- [ ] I'm trying to ...             (中だから邪魔しないで)      <!-- Hey, Toshi? I'm trying to work, Emily! -->
+- [ ] Me too                        (私もそう)
+- [ ] No doubt about it.            (全くその通りだ)
 - [ ] Not again!                    (またかよ！)
+- [ ] That must have been difficult (それは大変だったでしょう)
+- [ ] That's a fair point           (それは鋭い指摘だ)
+- [ ] That's what I think, too.     (私もそう思う)
+- [ ] You can say that again.       (全くその通りだ)
+- [ ] You have no idea.             (まじでそう)
+- [ ] You name it.                  (なんでもいいよ)
+- [ ] the only way to ...           (やっぱりこれでしょ)        <!-- This is the only way to live. -->
 
 ANSWER (NEGATIVE)
 =================
@@ -87,20 +87,20 @@ ANSWER (NEGATIVE)
 
 ANSWER (POSITIVE)
 =================
-- [ ] Let me see...                 (ええと, なんだっけ)
 - [x] It's difficult to say.        (ええと, なんだっけ)
+- [x] I'll take care of it.         (引き受けた)
+- [x] It's up to you.               (好きなほうでいいですよ)
+- [x] That's OK.                    (なんでもないです)
+- [ ] Let me see...                 (ええと, なんだっけ)
 - [ ] what-cha-ma-call-it.          (ええと, なんだっけ)
 - [ ] I don't mind.                 (気にしないよ)
-- [x] I'll take care of it.         (引き受けた)
 - [ ] I'll get on that.             (引き受けた)
 - [ ] I'll try.                     (引き受けた)
 - [ ] I'll do my best.              (引き受けた)
 - [ ] I'd be glad to.               (ええ、喜んで)
 - [ ] It's going to be OK.          (なんとかなるよ)
-- [x] It's up to you.               (好きなほうでいいですよ)
 - [ ] Go ahead                      (どうぞ)                    <!-- Go ahead and use mine. / Go ahead and have a seat. -->
 - [ ] Here                          (どうぞ)                    <!-- Here you are. / Here's a little something for you. -->
-- [x] That's OK.                    (なんでもないです)
 - [ ] Never mind.                   (気にしないで)
 - [ ] It's OK.                      (大丈夫だよ)
 - [ ] Might as well                 (まぁいいよ)
@@ -108,56 +108,56 @@ ANSWER (POSITIVE)
 DIVE
 ====
 - [x] I couldn't get it.            (わからなかった)
-- [ ] I couldn't catch you.         (わからなかった)
 - [x] Do you mean ...?              (... ってこと？)            <!-- Do you mean ... you lost? -->
 - [x] Such as?                      (例えば？)
-- [ ] Like what?                    (例えば？)
-- [ ] How about you?                (あなたはどう？)            <!-- I've never been to Disney World in Florida. How about you? -->
 - [x] In what way?                  (どうやって？)
 - [x] Is that enough?               (それで十分ですか？)
-- [x] Is that really necessay?      (それほんとに必要ですか？)
+- [x] Is that really necessary?     (それほんとに必要ですか？)
+- [ ] I couldn't catch you.         (わからなかった)
+- [ ] Like what?                    (例えば？)
+- [ ] How about you?                (あなたはどう？)            <!-- I've never been to Disney World in Florida. How about you? -->
 
 # ENDING
+- [x] leave it there.               (ここまでにしましょう)
+- [x] My pleasure                   (どういたしまして)
+- [x] Anytime                       (どういたしまして)
+- [x] That's (about) it.            (以上です)
 - [ ] I'll tell you later.          (また後で連絡する)
 - [ ] I'll let you know.            (わかったら連絡する)
-- [x] leave it there.               (ここまでにしましょう)
 - [ ] So much for                   (ここまでにしましょう)      <!-- So much for the small talk. Let's get down to business -->
 - [ ] There you go.                 (その通り)
-- [x] My pleasure                   (どういたしまして)
 - [ ] You bet                       (どういたしまして)
 - [ ] Don't mention it              (どういたしまして)
-- [x] Anytime                       (どういたしまして)
 - [ ] Take your time.               (ごゆっくり)
 - [ ] Good luck with your speech.   (頑張って)
-- [x] That's (about) it.            (以上です)
 
 Question
 ========
+- [x] How do you like ... ?         (どう？)                    <!-- How do you like your new shoes? -->
+- [x] How do you feel about ... ?   (どう？どう思う？)          <!-- How do you feel about the service in Japan? -->
+- [x] What do you think about ing   (どう？どう思う？)          <!-- What do you think about moving to Osaka? -->
+- [x] Which do you prefer, A or B?  (どっちがいい？)            <!-- Which do you prefer, going to the movies or watching films at home? -->
+- [x] When was the last time ... ?  (いつぶり？)                <!-- When was the last time you talked to him? -->
+- [x] What if ...                   (したらどうなるだろう？)    <!-- What if I don't meet the deadline? -->
+- [x] Can I ask you a question?     (質問してもいい？)
+- [x] how would you say it?         (どう表現しますか？)        <!-- If you were to state your dream, how would you say it? -->
+- [x] What's the word for it?       (どういう言葉が適切ですか？)
+- [x] How do you pronounce          (どう発音する？)            <!-- How do you pronounce this word? -->
+- [x] How do you spell this word?   (どう書く？)
+- [x] What does ... mean?           (はどういう意味ですか？)
+- [x] Would it sound .. if I said ..(と言ったら..ですか？)      <!-- Would it sound a little bit weird if I said ... -->
+- [x] Could you say that again?     (もう一度言って？)          <!-- Could you say that more simply, please? -->
+- [x] Is ... the same as ...?       (は ... と同じですか？)
 - [ ] Are you ...ing?               (するつもり？)              <!-- Are you going to Tokyo or New York next week? -->
 - [ ] Do you know anyone            (知り合いがいますか？)      <!-- Do you know anyone in New York? -->
 - [ ] (By) When ... ?               (いつまでに？)              <!-- (By) When do I have to finish this? -->
-- [x] When was the last time ... ?  (いつぶり？)                <!-- When was the last time you talked to him? -->
 - [ ] Do you have the time?         (今何時？)
 - [ ] What ...                      (どんな, どこの？)          <!-- What racket do you use? -->
-- [x] Which do you prefer, A or B?  (どっちがいい？)            <!-- Which do you prefer, going to the movies or watching films at home? -->
-- [ ] How do you like ... ?         (どう？)                    <!-- How do you like your new shoes? -->
-- [ ] How do you feel about ... ?   (どう？どう思う？)          <!-- How do you feel about the service in Japan? -->
-- [ ] What do you think about ing   (どう？どう思う？)          <!-- What do you think about moving to Osaka? -->
 - [ ] What's better                 (どっちがいい？)
-- [x] What if ...                   (したらどうなるだろう？)    <!-- What if I don't meet the deadline? -->
-- [x] Can I ask you a question?     (質問してもいい？)
 - [ ] How do you say .. in English? (どう表現する？)
-- [x] how would you say it?         (どう表現しますか？)        <!-- If you were to state your dream, how would you say it? -->
 - [ ] What's it called?             (なんと呼ばれていますか？)
-- [ ] What's the word for it?       (どういう言葉が適切ですか？)
-- [x] How do you pronounce          (どう発音する？)            <!-- How do you pronounce this word? -->
-- [x] How do you spell this word?   (どう書く？)
 - [ ] Could you write it down?      (書いてもらえますか？)
-- [ ] Is ... the same as ...?       (は ... と同じですか？)
-- [x] What does ... mean?           (はどういう意味ですか？)
 - [ ] Can you say ... ?             (と言えますか？)            <!-- Can you say my goal is becoming a write? -->
-- [x] Would it sound .. if I said ..(と言ったら..ですか？)      <!-- Would it sound a little bit weird if I said ... -->
-- [x] Could you say that again?     (もう一度言って？)          <!-- Could you say that more simply, please? -->
 - [ ] is that true?                 (これは正しいですか？)
 - [ ] what should I do ...          (どうすればよいか)          <!-- What should I do in a situation like this? -->
 - [ ] Can you see me?               (見えます？)
@@ -166,17 +166,18 @@ Question
 - [ ] I can't see                   (見えない)                  <!-- I can't see you/the material/the notes. -->
 - [ ] Could you make ... bigger?    (大きくして)                <!-- Could you make the material/notes bigger? -->
 - [ ] Could you type it in the chat (文字にして)
+- [ ] Hang in there                 (頑張って)
 
 CLICHE
 ======
-- [ ] It's on me.                   (おごりです)
-- [ ] Keep the change               (おつりはいりません)
 - [x] I'll take it.                 (これください)
 - [x] I'll have                     (飲食店 ください)           <!-- I'll have the same as her. -->
 - [x] I can't help it.              (仕方ない)
-- [ ] There's nothing we can do about it (仕方ない)
 - [x] I'm a stranger here           (ここは初めてなんです)
 - [x] bless you                     (お大事に くしゃみに対して)
 - [x] Nothing personal.             (悪く思わないでね)
-- [x] Should you have any questions (もしご質問があれば)
+- [ ] It's on me.                   (おごりです)
+- [ ] Keep the change               (おつりはいりません)
+- [ ] There's nothing we can do about it (仕方ない)
+- [ ] Should you have any questions (もしご質問があれば)
 - [ ] Look no further than          (で決まりです)

@@ -25,6 +25,7 @@ TOPIC
 - [ ] above all                 (何よりもまず)          <!-- Above all, scientific terms call for precise definitions. -->
 - [ ] first/most of all         (何よりもまず)          <!-- First of all, learn the formula by heart. -->
 - [x] in doing                  (するときは)            <!-- In making a decision, I rely not on logic but on insinct. -->
+- [x] at the thought of         (のことを考えると)      <!-- I tremble with fear at the thought of an injection. -->
 
 RANGE
 -----
@@ -154,6 +155,7 @@ REASON
 OBJECTIVE
 ---------
 - [x] (in order) to             (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
+- [x] so                        (するように)            <!-- Tighten the lid so the food doesn't go bad. -->
 - [ ] so as to                  (のために 堅い)
 - [ ] with a view to doing      (を期待して)            <!-- A fund was set up with a view to preserving our endangered planet. -->
 
@@ -214,7 +216,7 @@ HOW
 - [ ] time and again            (何度も)                <!-- The ecologist has warned us time and again that petroleum is not only a blessing but also a curse. -->
 - [ ] one-off                   (一度限りの)            <!-- The expense incurred this year to construct the building is a one-off cost. -->
 - [ ] for the first time        (初めて)                <!-- Last Saturday, I came here for the first time. -->
-- [ ] up-front                  (前もって)              <!-- This hotel requires a cash deposit up-front. -->
+- [x] up-front                  (前もって)              <!-- This hotel requires a cash deposit up-front. -->
 - [ ] in advance                (前もって)
 - [ ] in a rage                 (激怒して)              <!-- "Turn the faucet off!" mom yelled in a rage. -->
 - [ ] in earnest                (真面目に)              <!-- Japan must undertake sweeping deregulation in earnest. -->

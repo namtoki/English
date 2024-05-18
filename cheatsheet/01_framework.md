@@ -42,6 +42,7 @@ SURE
 - [x] be sure that (S) (V)          (確信している)              <!-- I am sure that I will enjoy the movie. --> 
 - [ ] be sure of (noun)             (確信している)              <!-- I am sure of enjoying the movie. -->
 - [x] be sure to (V)                (きっと)                    <!-- You are sure to see many animals there. -->
+- [x] no doubt                      (きっと)                    <!-- His policy will no doubt lead to dismal consequences. -->
 
 CORRECTION
 ----------
