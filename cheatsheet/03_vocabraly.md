@@ -1,8 +1,6 @@
-NOUN
-====
+# VOCABRALY
 
-ABSTRACT
---------
+## ABSTRACT
 - [x] the thing that                    (するもの)              <!-- The thing that you use to see the stars. -->
 - [x] what I meant                      (言いたかったこと)      <!-- What I meant was, you should do it carefully. -->
 - [x] such things                       (そのようなもの)        <!-- C++ has plenty of such things! -->
@@ -16,9 +14,12 @@ ABSTRACT
 - [ ] one of those days                 (最悪の日)
 - [x] the very first question           (一番最初の質問)        <!-- the very first question is the use of ..." -->
 - [x] A out of B                        (B 中 A)                <!-- We have watched 4 out of 5 seasons. -->
+- [ ] see to                            (きちんと する)         <!-- I'll see to it. -->
 
-FEATURE
--------
+## COMMON
+- [ ] count on                          (頼る)                  <!-- I'm counting on you. -->
+
+## FEATURE
 - [ ] in one's XXs                      (.. 十代)               <!-- Some of her first students are new in their 20s. -->
 - [x] family of ...                     (人家族)                <!-- I'm from a family of four. -->
 - [ ] beard                             (あごひげ)
@@ -29,8 +30,7 @@ FEATURE
 - [x] an early bird                     (早起き)
 - [x] a night owl                       (夜更かしするほう)
 
-WORK
-----
+## WORK
 - [x] ETA (Estimated Time of Arrival)   (帰る時間)              <!-- I send her a message with my ETA. -->
 - [x] business hours                    (執務時間)
 - [ ] working hours                     (執務時間)              <!-- My regular working hours end at 6pm. -->
@@ -53,9 +53,14 @@ WORK
 - [ ] assessment                        (評価 改善目的の)
 - [ ] evaluation                        (評価 判断目的の)
 - [ ] credential                        (経歴)
-- [x] years of experience           (経験がある)                <!-- I have ... years of experience in the ... field. / I have ... years of ... experience. -->
-- [x] I work for (company)          (で働いています)
-- [ ] I work in (place/department)  (で働いています)
+- [x] years of experience               (経験がある)            <!-- I have ... years of experience in the ... field. / I have ... years of ... experience. -->
+- [x] I work for (company)              (で働いています)
+- [ ] I work in (place/department)      (で働いています)
+- [ ] take on                           (引き受ける)            <!-- Apparently, Nick wasn't willing to take on the task because it would just add to his burdens. -->
+- [ ] work overtime                     (残業する)
+
+## POSITION
+- [ ] be around                         (近くにいる)            <!-- He pretends to be enthusiastic when his boss is around. -->
 
 FOOD
 ----
@@ -236,7 +241,6 @@ OTHERS
 - [ ] browse                            (スマホを見ている)      <!-- Some people are browsing their phones. -->
 - [ ] die                               (電池がなくなる)        <!-- my phone's battery died quickly. -->
 - [ ] tidy up                           (片づける 整理する)
-- [ ] work overtime                     (残業する)
 - [ ] work late                         (遅くまで仕事する)      <!-- She works late most of the days. -->
 - [ ] work went late                    (仕事遅くまであた)      <!-- Sorry, work went late. -->
 - [ ] start work at                     (時に仕事を始める)
@@ -525,6 +529,10 @@ ADJECTIVES
 - [x] intolerant                        (不寛容な)              <!-- Some older people are intolerant when it comes to people eating on the train. -->
 - [x] complimentary                     (無料の)                <!-- it is complimentary. -->
 - [ ] viable                            (成立する)              <!-- a financially viable option -->
+- [ ] tired                             (*    疲れている)
+- [ ] worn out                          (**   疲れている)
+- [ ] beat                              (***  疲れている)
+- [ ] exhausted                         (**** 疲れている)
 
 # SAYING
 - [ ] Happy wife, happy life

@@ -167,6 +167,7 @@
 - [ ] among other things                (その中でも特に)
 - [x] if anything                       (むしろ)                        <!-- But now, if anything, they are making too much of it. -->
 - [ ] on the second thought             (考え直して)
+- [ ] let alone                         (はなおさらない)                <!-- We can't apply cloning techniques to cattle, let alone human beings. -->
 ## EXTENT
 - [x] some more                         (もう少し)                      <!-- I'll think about it some more. -->
 - [x] to the point where ...            (くらいまで)                    <!-- I studied English so much to the point where my dream started being in English. -->
@@ -210,6 +211,7 @@
 - [ ] in the long run                   (長い目で見れば)                <!-- Bob sticks to his moral principles and believes that honesty pays off in the long run. -->
 - [ ] in accordance with                (に従って)
 - [ ] around the clock                  (休むことなく)                  <!-- They are working around the clock looking into the cause of the crash. -->
+- [ ] at the expense of                 (を犠牲にして)                  <!-- He got promoted at the expense of his colleague. He should be ashamed of himself. -->
 
 # FEELING
 - [ ] it goes without saying            (言うまでもないが)              <!-- It goes without saying that the aging of society is inevitable. -->

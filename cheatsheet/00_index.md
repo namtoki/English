@@ -7,13 +7,6 @@
 
 # TODO
 
-Duo
-5 18
-6 19
-7 20
-12 21
-13 22
-14 23
 
 fine/sick
 shocked
@@ -187,3 +180,4 @@ bolster
 - The Baystars will play against the Swallows.
 - Baseball fans usually go to the stadium once a week or once every two weeks.
 - I like to get seats along the first baseline or the third baseline.
+- I have to attend an orientation for new hires, but I am already familiar with much of the information so some lectures are a bit boring for me.
