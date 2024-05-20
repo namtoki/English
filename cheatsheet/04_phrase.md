@@ -181,3 +181,4 @@ CLICHE
 - [ ] There's nothing we can do about it (仕方ない)
 - [ ] Should you have any questions (もしご質問があれば)
 - [ ] Look no further than          (で決まりです)
+- [ ] That's how it is.             (そういうもんです)

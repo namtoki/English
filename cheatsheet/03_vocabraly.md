@@ -53,6 +53,9 @@ WORK
 - [ ] assessment                        (評価 改善目的の)
 - [ ] evaluation                        (評価 判断目的の)
 - [ ] credential                        (経歴)
+- [x] years of experience           (経験がある)                <!-- I have ... years of experience in the ... field. / I have ... years of ... experience. -->
+- [x] I work for (company)          (で働いています)
+- [ ] I work in (place/department)  (で働いています)
 
 FOOD
 ----
@@ -423,6 +426,20 @@ OTHERS
 - [ ] contemplate                       (think 熟考)
 - [ ] deliberate                        (think 協議)
 - [ ] ponder                            (think 思案)
+
+使役
+----
+- make ... Adj
+  - I'll do anything to make you happy.
+  - The story made me sad.
+  - When I was on homestay, I found it difficult to make mayself understood in English.
+  - (使役) The PE teacher made the students run in the snow.
+- let ... Adj
+  - Don't let me down.
+  - (使役) My daughter's upset because I won't let her get a tattoo.
+- help 人 V
+  - Just help me find them.
+  - He helps me study English.
 
 ADJECTIVES
 ==========
