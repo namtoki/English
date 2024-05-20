@@ -88,6 +88,7 @@ TIME (COMMON)
 - [x] just after ...            (のちょっと後に)        <!-- I will go abroad sometime just after Golden Week. -->
 - [x] meanwhile                 (それまでの間)          <!-- We can go out tomorrow, meanwhile I'll teach you how to play bridge. -->
 - [ ] afterwards                (そのあとに)            <!-- We’ll grab dinner and go to karaoke afterward(s). -->
+- [ ] by now                    (もう)                  <!-- You must be hungry by now. -->
 
 TIME (PAST)
 -----------
@@ -112,6 +113,8 @@ SUBJUNCTION
 -----------
 - [x] with                      (があれば)              <!-- With a little luck, we can still make it. -->
 - [ ] (Let's) Say               (とします)              <!-- Say I invest a hundred dollars now, how much will I ... -->
+- [x] as long as                (する限り 条件)         <!-- As long as you are young, you should experience different things. -->
+- [x] as far as / insofar as    (する限り 範囲)         <!-- As far as I can see, he will fail the exam again this time. -->
 
 EMPHASIS / ROUGH
 ----------------
@@ -189,6 +192,7 @@ ADDITION
 - [x] in particular             (その中でも特に)        <!-- Urban culture appears to be attractive to many people, in particular, to younger people. -->
 - [ ] among other things        (その中でも特に)
 - [x] if anything               (むしろ)                <!-- But now, if anything, they are making too much of it. -->
+- [ ] on the second thought     (考え直して)
 
 EXTENT
 ------

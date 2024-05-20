@@ -49,6 +49,10 @@ WORK
 - [x] side hustle                       (副業)
 - [x] sales quota                       (売上ノルマ)
 - [x] mid-career                        (中途社員)              <!-- This event is for freshman and not mid-career employees like me. -->
+- [ ] appraisal                         (査定)
+- [ ] assessment                        (評価 改善目的の)
+- [ ] evaluation                        (評価 判断目的の)
+- [ ] credential                        (経歴)
 
 FOOD
 ----
@@ -57,6 +61,9 @@ FOOD
 - [x] pickled plum                      (梅)
 - [x] pickled ginger                    (紅ショウガ)
 - [x] baked goods                       (総菜パン)
+- [ ] pastry                            (パン菓子)
+- [ ] utensil                           (調理器具)
+- [ ] appliance                         (調理器具 w/ 電源)
 
 ANIMAL
 ------
@@ -93,6 +100,7 @@ OTHERS
 - [ ] deep tissue massage               (整体)
 - [ ] forest / woods                    (森)
 - [ ] scene                             (現場)                  <!-- The police arrived at the scene quickly. -->
+- [ ] mural                             (壁画)
 
 VERB
 ====
@@ -404,6 +412,17 @@ OTHERS
 - [ ] leave out                         (省略する)              <!-- They left out the scene where he jumps on the car in the TV version of that movie. -->
 - [ ] omit                              (省略する)              <!-- Can I omit "do you"? -->
 - [ ] jaywalk                           (無謀横断する)
+- [ ] alleviate                         (緩和する)              <!-- alleviate traffic congestion -->
+- [ ] praise                            (褒める カジュアル)
+- [ ] commend                           (褒める フォーマル)
+- [ ] expedite                          (促進する 効率的にも)
+- [ ] accelerate                        (促進する 物理的に)
+- [ ] foster                            (促進する 助長 養育)    <!-- foster an abandoned child / foster a good work environment -->
+- [ ] clarify                           (明確化する)
+- [ ] consider                          (think 考慮)
+- [ ] contemplate                       (think 熟考)
+- [ ] deliberate                        (think 協議)
+- [ ] ponder                            (think 思案)
 
 ADJECTIVES
 ==========
@@ -488,6 +507,7 @@ ADJECTIVES
 - [ ] just right for                    (ちょうどいい)          <!-- India was just right for us. -->
 - [x] intolerant                        (不寛容な)              <!-- Some older people are intolerant when it comes to people eating on the train. -->
 - [x] complimentary                     (無料の)                <!-- it is complimentary. -->
+- [ ] viable                            (成立する)              <!-- a financially viable option -->
 
 # SAYING
 - [ ] Happy wife, happy life
