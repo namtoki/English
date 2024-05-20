@@ -1,245 +1,215 @@
-FOCUS
-=====
+# FOCUS
+## TOPIC
+- [ ] about                             (に関して言うと)                <!-- About the food ... it is bad. -->
+- [x] regarding                         (に関して言うと)                <!-- Regarding the subject above -->
+- [ ] with/in regard to                 (に関して言うと)                <!-- With regard to the notes below -->
+- [ ] concerning                        (に関して言うと)                <!-- concerning the changes that were recently made -->
+- [ ] as for 人/物                      (に関して言うと)                <!-- As for the cost per person -->
+- [ ] as for me                         (自分の意見としては)            <!-- As for me, I agree with his opinion. -->
+- [ ] as to 物                          (に関して言うと)                <!-- discussion as to which university is the best university. -->
+- [ ] in terms of                       (に関して言うと)
+- [x] when it comes to                  (となると)                      <!-- When it comes to the weather, there’s nothing I can do. -->
+- [x] speaking of                       (そういえば)                    <!-- Speaking of summer, where did you go this year? -->
+- [ ] talking of                        (そういえば)                    <!-- Talking of soccer, Did you watch the game yesterday? -->
+- [x] personally, in my opinion         (自分の意見としては)
+- [ ] honestly                          (自分の意見としては)
+- [ ] from my point of view             (自分の意見としては)
+- [ ] like/as I was saying              (さっき言ったように)            <!-- Sorry. As I was saying, the acting was amazing. -->
+- [x] like/as you said                  (あなたが言った通り)
+- [x] going back to                     (に戻ると)                      <!-- Going back to your question, my answer is no. -->
+- [x] in the first place                (そもそも)                      <!-- Why was he at the party in the first place? He wasn't invited, was he? -->
+- [ ] to begin with                     (そもそも まず第一に)           <!-- To begin with, its theme is obscure. -->
+- [ ] above all                         (何よりもまず)                  <!-- Above all, scientific terms call for precise definitions. -->
+- [ ] first/most of all                 (何よりもまず)                  <!-- First of all, learn the formula by heart. -->
+- [x] in doing                          (するときは)                    <!-- In making a decision, I rely not on logic but on insinct. -->
+- [x] at the thought of                 (のことを考えると)              <!-- I tremble with fear at the thought of an injection. -->
+## RANGE
+- [x] in every way                      (すべてにおいて)                <!-- That movie was perfect in every way. -->
+- [ ] as a whole                        (100% すべて)                   <!-- The train system in Tokyo is much better than for the country as a whole. -->
+- [ ] on the whole                      (全体的に)                      <!-- On the whole, it was a great trip. -->
+- [ ] all things considered             (全体的にみると)                <!-- All things considered, that was a successful event. -->
+- [x] almost all                        (ほぼすべての)                  <!-- almost all Japanese -->
+- [x] most                              (ほとんどの)                    <!-- most people like it. -->
+- [ ] for the most part                 (大部分は)                      <!-- For the most part, modernization is identified with westernization. -->
+- [ ] everyone                          (みんな ... してる)             <!-- Everyone does it. -->
+- [ ] all kinds of ...                  (すべての)                      <!-- I've been eating all kinds of things. -->
+- [ ] everything about ...              (すべての)                      <!-- He knows everything about movies. -->
+- [x] some kinds of ...                 (数種の)                        <!-- amplify the effects of some kinds of pollution -->
+- [ ] many different kinds of ..        (数種の)                        <!-- there are many different kinds of stores. -->
+- [ ] the rest of ...                   (残りの)                        <!-- You can have the rest of them. -->
+- [ ] a number of ...                   (たくさんの)                    <!-- There are a number of factors discouraging us from investing in stocks. -->
+- [x] a bunch of ...                    (たくさんの)                    <!-- A bunch of other companies are imitating our excellent methods. -->
+- [ ] to go                             (残りの)                        <!-- We have ten minutes to go. -->
+- [x] in itself                         (それ自体は)                    <!-- The revolution in itself, bore no fruit, after all. -->
+- [ ] each and every one of ...         (ひとつひとつ)                  <!-- Today's tips are going to help you with each and every one of these questions and more. -->
+## TIME (FUTURE)
+- [x] right away                        (今すぐ)                        <!-- I'll come right away. -->
+- [x] from now on                       (これからは)                    <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
+- [x] in (just) a little bit            (ちょっとしたら)                <!-- The ambulance will get here in just a little bit. -->
+- [x] at some point                     (そろそろ)                      <!-- We should really clean the fridge at some point. -->
+- [x] before long                       (近いうちに)                    <!-- Before long, they will enter a crucial phase. -->
+- [ ] shortly                           (近いうちに)
+- [ ] soon                              (近いうちに)
+- [x] by the time ...                   (するまでには)                  <!-- By the time I got wake up, the snow had stopped falling. -->
+- [x] no later than ...                 (遅くとも .. までには)          <!-- Please hand in your assignment via e-mail no later than 5:00 PM on June 10. -->
+- [x] ... at the latest                 (遅くとも .. までには)          <!-- Please estimate the losses by Friday at the latest. I'll manage it somehow. -->
+- [ ] for years to come                 (この先数年)                    <!-- In all likelihood, the birthrate will continue to decline steadily for years to come. -->
+- [ ] for good                          (これを最後に永久に)            <!-- We're through for good this time. -->
+## TIME (COMMON)
+- [x] every ...                         (ごとに)                        <!-- The vehicles are inspected for defects every three months. -->
+- [x] every other day                   (隔日で)
+- [x] for N (time)s                     (の間)                          <!-- I've been working for the company for 6 months. -->
+- [ ] the entire week                   (1 週間ずっと)
+- [x] for half a year                   (半年)                          <!-- I'll be living here for half a year. -->
+- [ ] on and off                        (断続的に)
+- [ ] on Sunday                         (曜日に)
+- [x] on the weekend                    (週末に)
+- [x] over the weekend                  (週末の間に)
+- [ ] bright and early                  (朝早くに)                      <!-- The store opens at 8 a.m. tomorrow, so you can get your hands on the product bright and early. -->
+- [ ] in the early morning              (早朝に)
+- [x] in the morning                    (午前に)
+- [ ] in the mid-morning                (正午より少し前)
+- [x] at noon                           (正午に)                        <!-- I'll be back on Monday at noon. -->
+- [x] in the afternoon                  (午後に)
+- [ ] in the early evening              (夕方に)
+- [ ] in the evening                    (日没後に)
+- [x] at night                          (夜に)
+- [x] tens of minutes                   (数十分)
+- [x] just before ...                   (のちょっと前に)                <!-- I will get home sometime just before 9pm. -->
+- [x] just after ...                    (のちょっと後に)                <!-- I will go abroad sometime just after Golden Week. -->
+- [x] meanwhile                         (それまでの間)                  <!-- We can go out tomorrow, meanwhile I'll teach you how to play bridge. -->
+- [ ] afterwards                        (そのあとに)                    <!-- We’ll grab dinner and go to karaoke afterward(s). -->
+- [ ] by now                            (もう)                          <!-- You must be hungry by now. -->
+## TIME (PAST)
+- [x] every time ...                    (するときはいつも)              <!-- Every time you make them, they are perfect. -->
+- [x] in the middle of                  (の真っ最中に)                  <!-- He fell asleep in the middle of the sales meeting. -->
+- [x] (just) the other day              ((つい) こないだ)               <!-- I went there just the other day! -->
+- [ ] toward the end of ...             (の終盤に)                      <!-- TAIRA no Koremori was a samurai who lived towards the end of the Heian period. -->
+- [x] so far                            (今のところは)                  <!-- So far I’m having a blast. The town is wonderful. -->
+- [x] for the moment                    (とりあえず)                    <!-- I will make it do for the moment. -->
+- [ ] after a while                     (しばらくして)                  <!-- He fainted with hunger and fatigue, but came to after a while. -->
+- [x] now that                          (今や)                          <!-- Now that things are better, we should talk about the problem. -->
+- [ ] for the first time in             (ぶりに)                        <!-- I'm going to Hawaii for the first time in 1 year. -->
+- [ ] in the course of                  (の過程で)                      <!-- In the course of its economic development, Japan has ... -->
+## LOCATION
+- [x] up there                          (上のほうで)
+- [x] down there                        (下のほうで)
+- [x] over                              (話し手のもとに)                <!-- I invited some friends and family over for lunch. -->
+## SUBJUNCTIVE MOOD
+- [x] with                              (があれば)                      <!-- With a little luck, we can still make it. -->
+- [ ] (Let's) Say                       (とします)                      <!-- Say I invest a hundred dollars now, how much will I ... -->
+- [x] as long as                        (する限り 条件)                 <!-- As long as you are young, you should experience different things. -->
+- [x] as far as / insofar as            (する限り 範囲)                 <!-- As far as I can see, he will fail the exam again this time. -->
+## EMPHASIS / ROUGH
+- [ ] Such a                            (まさしく)                      <!-- That was such a fun day. / You are such a pro. -->
+- [ ] that                              (そんなに)                      <!-- I guess it wasn't that important. -->
+- [ ] next to ...                       (ほとんど)                      <!-- I know next to nothing about it. -->
+- [ ] anything but ...                  (なんてとんでもない)            <!-- Joe is anything but diligent. That's why he flunked math again. -->
+- [ ] high-key                          (本当に)                        <!-- I high-key cannot stand when my roommate sings in the shower. -->
+- [ ] like ...                          (約)                            <!-- There were only like thirty people there. -->
+- [x] kind of ...                       (なんとなく少し)                <!-- I'm kind of hungry. -->
+- [x] low-key ...                       (なんとなく少し)                <!-- I’m low-key in love with my study partner’s new cologne. -->
+- [ ] some kind of ...                  (なにか)                        <!-- born with some kind of special talent. / some kind of sport -->
+- [x] ... like                          (とか)                          <!-- Things like party hats, paper plates and napkins. -->
+- [x] ... things/stuff like that        (みたいなもの)                  <!-- I think he's learning Spanish or something like that, if that makes sense. -->
+- [ ] ... and so on                     (など)                          <!-- I'm tired of doing the dished, doing the laundry, and so on! -->
+- [x] ... kind of thing                 (的なもの)                      <!-- This is a flip phone kind of thing but a bit different. -->
+- [x] ... and stuff                     (とかいろいろ)                  <!-- We've got to do editing and stuff. -->
+- [ ] ... or whatever                   (とかいろいろ)                  <!-- I'm just going to read a book or whatever. -->
+- [ ] ... or so                         (とかそのへん)                  <!-- It's 20 dollars or so. -->
+- [x] the least                         (ちっとも ... ない)             <!-- I have the least confidence about this answer. -->
 
-TOPIC
------
-- [ ] about                     (に関して言うと)        <!-- About the food ... it is bad. -->
-- [x] regarding                 (に関して言うと)        <!-- Regarding the subject above -->
-- [ ] with/in regard to         (に関して言うと)        <!-- With regard to the notes below -->
-- [ ] concerning                (に関して言うと)        <!-- concerning the changes that were recently made -->
-- [ ] as for 人/物              (に関して言うと)        <!-- As for the cost per person -->
-- [ ] as for me                 (自分の意見としては)    <!-- As for me, I agree with his opinion. -->
-- [ ] as to 物                  (に関して言うと)        <!-- discussion as to which university is the best university. -->
-- [ ] in terms of               (に関して言うと)
-- [x] when it comes to          (となると)              <!-- When it comes to the weather, there’s nothing I can do. -->
-- [x] speaking of               (そういえば)            <!-- Speaking of summer, where did you go this year? -->
-- [ ] talking of                (そういえば)            <!-- Talking of soccer, Did you watch the game yesterday? -->
-- [x] personally, in my opinion (自分の意見としては)
-- [ ] honestly                  (自分の意見としては)
-- [ ] from my point of view     (自分の意見としては)
-- [ ] like/as I was saying      (さっき言ったように)    <!-- Sorry. As I was saying, the acting was amazing. -->
-- [x] like/as you said          (あなたが言った通り)
-- [x] going back to             (に戻ると)              <!-- Going back to your question, my answer is no. -->
-- [x] in the first place        (そもそも)              <!-- Why was he at the party in the first place? He wasn't invited, was he? -->
-- [ ] to begin with             (そもそも まず第一に)   <!-- To begin with, its theme is obscure. -->
-- [ ] above all                 (何よりもまず)          <!-- Above all, scientific terms call for precise definitions. -->
-- [ ] first/most of all         (何よりもまず)          <!-- First of all, learn the formula by heart. -->
-- [x] in doing                  (するときは)            <!-- In making a decision, I rely not on logic but on insinct. -->
-- [x] at the thought of         (のことを考えると)      <!-- I tremble with fear at the thought of an injection. -->
-
-RANGE
------
-- [x] in every way              (すべてにおいて)        <!-- That movie was perfect in every way. -->
-- [ ] as a whole                (100% すべて)           <!-- The train system in Tokyo is much better than for the country as a whole. -->
-- [ ] on the whole              (全体的に)              <!-- On the whole, it was a great trip. -->
-- [ ] all things considered     (全体的にみると)        <!-- All things considered, that was a successful event. -->
-- [x] almost all                (ほぼすべての)          <!-- almost all Japanese -->
-- [x] most                      (ほとんどの)            <!-- most people like it. -->
-- [ ] for the most part         (大部分は)              <!-- For the most part, modernization is identified with westernization. -->
-- [ ] everyone                  (みんな ... してる)     <!-- Everyone does it. -->
-- [ ] all kinds of ...          (すべての)              <!-- I've been eating all kinds of things. -->
-- [ ] everything about ...      (すべての)              <!-- He knows everything about movies. -->
-- [x] some kinds of ...         (数種の)                <!-- amplify the effects of some kinds of pollution -->
-- [ ] many different kinds of ..(数種の)                <!-- there are many different kinds of stores. -->
-- [ ] the rest of ...           (残りの)                <!-- You can have the rest of them. -->
-- [ ] a number of ...           (たくさんの)            <!-- There are a number of factors discouraging us from investing in stocks. -->
-- [x] a bunch of ...            (たくさんの)            <!-- A bunch of other companies are imitating our excellent methods. -->
-- [ ] to go                     (残りの)                <!-- We have ten minutes to go. -->
-- [x] in itself                 (それ自体は)            <!-- The revolution in itself, bore no fruit, after all. -->
-- [ ] each and every one of ... (ひとつひとつ)          <!-- Today's tips are going to help you with each and every one of these questions and more. -->
-
-TIME (FUTURE)
--------------
-- [x] right away                (今すぐ)                <!-- I'll come right away. -->
-- [x] from now on               (これからは)            <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
-- [x] in (just) a little bit    (ちょっとしたら)        <!-- The ambulance will get here in just a little bit. -->
-- [x] at some point             (そろそろ)              <!-- We should really clean the fridge at some point. -->
-- [x] before long               (近いうちに)            <!-- Before long, they will enter a crucial phase. -->
-- [ ] shortly                   (近いうちに)
-- [ ] soon                      (近いうちに)
-- [x] by the time ...           (するまでには)          <!-- By the time I got wake up, the snow had stopped falling. -->
-- [x] no later than ...         (遅くとも .. までには)  <!-- Please hand in your assignment via e-mail no later than 5:00 PM on June 10. -->
-- [x] ... at the latest         (遅くとも .. までには)  <!-- Please estimate the losses by Friday at the latest. I'll manage it somehow. -->
-- [ ] for years to come         (この先数年)            <!-- In all likelihood, the birthrate will continue to decline steadily for years to come. -->
-- [ ] for good                  (これを最後に永久に)    <!-- We're through for good this time. -->
-
-TIME (COMMON)
--------------
-- [x] every ...                 (ごとに)                <!-- The vehicles are inspected for defects every three months. -->
-- [x] every other day           (隔日で)
-- [x] for N (time)s             (の間)                  <!-- I've been working for the company for 6 months. -->
-- [ ] the entire week           (1 週間ずっと)
-- [x] for half a year           (半年)                  <!-- I'll be living here for half a year. -->
-- [ ] on and off                (断続的に)
-- [ ] on Sunday                 (曜日に)
-- [x] on the weekend            (週末に)
-- [x] over the weekend          (週末の間に)
-- [ ] bright and early          (朝早くに)              <!-- The store opens at 8 a.m. tomorrow, so you can get your hands on the product bright and early. -->
-- [ ] in the early morning      (早朝に)
-- [x] in the morning            (午前に)
-- [ ] in the mid-morning        (正午より少し前)
-- [x] at noon                   (正午に)                <!-- I'll be back on Monday at noon. -->
-- [x] in the afternoon          (午後に)
-- [ ] in the early evening      (夕方に)
-- [ ] in the evening            (日没後に)
-- [x] at night                  (夜に)
-- [x] tens of minutes           (数十分)
-- [x] just before ...           (のちょっと前に)        <!-- I will get home sometime just before 9pm. -->
-- [x] just after ...            (のちょっと後に)        <!-- I will go abroad sometime just after Golden Week. -->
-- [x] meanwhile                 (それまでの間)          <!-- We can go out tomorrow, meanwhile I'll teach you how to play bridge. -->
-- [ ] afterwards                (そのあとに)            <!-- We’ll grab dinner and go to karaoke afterward(s). -->
-- [ ] by now                    (もう)                  <!-- You must be hungry by now. -->
-
-TIME (PAST)
------------
-- [x] every time ...            (するときはいつも)      <!-- Every time you make them, they are perfect. -->
-- [x] in the middle of          (の真っ最中に)          <!-- He fell asleep in the middle of the sales meeting. -->
-- [x] (just) the other day      ((つい) こないだ)       <!-- I went there just the other day! -->
-- [ ] toward the end of ...     (の終盤に)              <!-- TAIRA no Koremori was a samurai who lived towards the end of the Heian period. -->
-- [x] so far                    (今のところは)          <!-- So far I’m having a blast. The town is wonderful. -->
-- [x] for the moment            (とりあえず)            <!-- I will make it do for the moment. -->
-- [ ] after a while             (しばらくして)          <!-- He fainted with hunger and fatigue, but came to after a while. -->
-- [x] now that                  (今や)                  <!-- Now that things are better, we should talk about the problem. -->
-- [ ] for the first time in     (ぶりに)                <!-- I'm going to Hawaii for the first time in 1 year. -->
-- [ ] in the course of          (の過程で)              <!-- In the course of its economic development, Japan has ... -->
-
-LOCATION
---------
-- [x] up there                  (上のほうで)
-- [x] down there                (下のほうで)
-- [x] over                      (話し手のもとに)        <!-- I invited some friends and family over for lunch. -->
-
-SUBJUNCTION
------------
-- [x] with                      (があれば)              <!-- With a little luck, we can still make it. -->
-- [ ] (Let's) Say               (とします)              <!-- Say I invest a hundred dollars now, how much will I ... -->
-- [x] as long as                (する限り 条件)         <!-- As long as you are young, you should experience different things. -->
-- [x] as far as / insofar as    (する限り 範囲)         <!-- As far as I can see, he will fail the exam again this time. -->
-
-EMPHASIS / ROUGH
-----------------
-- [ ] Such a                    (まさしく)              <!-- That was such a fun day. / You are such a pro. -->
-- [ ] that                      (そんなに)              <!-- I guess it wasn't that important. -->
-- [ ] next to ...               (ほとんど)              <!-- I know next to nothing about it. -->
-- [ ] anything but ...          (なんてとんでもない)    <!-- Joe is anything but diligent. That's why he flunked math again. -->
-- [ ] high-key                  (本当に)                <!-- I high-key cannot stand when my roommate sings in the shower. -->
-- [ ] like ...                  (約)                    <!-- There were only like thirty people there. -->
-- [x] kind of ...               (なんとなく少し)        <!-- I'm kind of hungry. -->
-- [x] low-key ...               (なんとなく少し)        <!-- I’m low-key in love with my study partner’s new cologne. -->
-- [ ] some kind of ...          (なにか)                <!-- born with some kind of special talent. / some kind of sport -->
-- [x] ... like                  (とか)                  <!-- Things like party hats, paper plates and napkins. -->
-- [x] ... things/stuff like that(みたいなもの)          <!-- I think he's learning Spanish or something like that, if that makes sense. -->
-- [ ] ... and so on             (など)                  <!-- I'm tired of doing the dished, doing the laundry, and so on! -->
-- [x] ... kind of thing         (的なもの)              <!-- This is a flip phone kind of thing but a bit different. -->
-- [x] ... and stuff             (とかいろいろ)          <!-- We've got to do editing and stuff. -->
-- [ ] ... or whatever           (とかいろいろ)          <!-- I'm just going to read a book or whatever. -->
-- [ ] ... or so                 (とかそのへん)          <!-- It's 20 dollars or so. -->
-- [x] the least                 (ちっとも ... ない)     <!-- I have the least confidence about this answer. -->
-
-SUPPLEMENT
-==========
-
-REASON
-------
-- [x] because + 文              (直接的理由)
-- [x] because of + Noun         (直接的理由)
-- [ ] since                     (既出の理由)
-- [ ] as                        (補足的理由)
-- [x] the reason being          (というのも)            <!-- I decided to turn down the job offer. The reason being that, I ... -->
-- [ ] due to                    (悪い理由)
-- [ ] owing to                  (形式的な理由 / 文頭)   <!-- Owing to illness, some representatives were absent from ... -->
-- [ ] on account of             (困難や問題などの理由)  <!-- Our flight to Vienna was delayed on account of a minor accident. -->
-- [x] thanks to                 (良い理由 / 文頭)
-- [ ] at the thought of ...     (のことを考えると)      <!-- I tremble with fear at the thought of an injection. -->
-- [x] for one thing             (その理由の一つは)      <!-- I can't put you up. For one thing, my dad drops in on me from time to time.-->
-- [x] That's how ...            (こうすることで)
-- [ ] as a result of ...        (because of)            <!-- As a result of his ridiculous venture, he is in danger  of going bankrupt. -->
-
-OBJECTIVE
----------
-- [x] (in order) to             (のために 一般)         <!-- In order to keep up its competitiveness in the world, Japan ... -->
-- [x] so                        (するように)            <!-- Tighten the lid so the food doesn't go bad. -->
-- [ ] so as to                  (のために 堅い)
-- [ ] with a view to doing      (を期待して)            <!-- A fund was set up with a view to preserving our endangered planet. -->
-
-CONCLUSION
-----------
-- [x] simply put                (簡単に言うと)          <!-- Simply put, he doesn't like sports. -->
-- [ ] in a nutshell             (要約すると)            <!-- That's it in a nutshell. -->
-
-ADDITION
---------
-- [x] but at the same time      (と同時にですね)        <!-- Working from home is great. but at the same time, it's king of ... -->
-- [x] whereas                   (一方で)                <!-- He likes learning from textbooks, whereas I like learning on the job. -->
-- [ ] and the next thing I knew (次の瞬間)              <!-- I felt dizzy, and the next thing I knew I was ... -->
-- [x] in that case              (だったら)              <!-- In that case, I’ll have a beer. -->
-- [ ] in which case             (この場合 文語)
-- [x] except for                (を除いて)              <!-- The auditorium was empty except for a single piece of furniture. -->
-- [ ] not including             (を除いて)              <!-- I work 8 hours not including lunch (含まずに) -->
-- [ ] apart/aside from          (以外は)                <!-- This is good apart from the terrible handwriting. -->
-- [x] without                   (無しで, しないで)      <!-- I work 8 hours without lunch -->
-- [x] instead of ...            (するのではなく)        <!-- We dediced to chill at home instead of going out. -->
-- [ ] rather than ...           (よりもむしろ)
-- [ ] more than ...             (よりも)                <!-- I like chocolate more than vanilla. -->
-- [ ] better than ...           (よりも)                <!-- I like vanilla better than chocolate. -->
-- [x] when compared             (と比べて)              <!-- Global emissions could rise 1.1 percent this year when compared to 2022. -->
-- [x] in spite of               (に反して)              <!-- In spite of our compliments, he frowned and turned away. He was so rude. -->
-- [ ] despite                   (と関係なく)            <!-- Despite the risk, I would like to proceed with the plan. -->
-- [ ] what's more               (おまけに さらに)       <!-- I met the man by chance. He's gentle and smart. What's more, he's single. -->
-- [ ] besides                   (それに さらに)         <!-- I don’t wanna go out. Besides, I’m so tired today. -->
-- [ ] what's worse              (さらに悪いことに)
-- [ ] to make matters worse     (さらに悪いことに)      <!-- To make matters worse, he isn't even conscious of annoying us. -->
-- [x] in particular             (その中でも特に)        <!-- Urban culture appears to be attractive to many people, in particular, to younger people. -->
-- [ ] among other things        (その中でも特に)
-- [x] if anything               (むしろ)                <!-- But now, if anything, they are making too much of it. -->
-- [ ] on the second thought     (考え直して)
-
-EXTENT
-------
-- [x] some more                 (もう少し)              <!-- I'll think about it some more. -->
-- [x] to the point where ...    (くらいまで)            <!-- I studied English so much to the point where my dream started being in English. -->
-- [ ] about / around            (だいたい)
-- [ ] approximately             (だいたい)
-- [ ] roughly                   (だいたい)
-- [x] more or less              (だいたい)              <!-- Your pronunciation is more or less correct. -->
-- [ ] pretty much               (だいたい)              <!-- This is pretty much done. -->
-- [x] in a (way | sense)        (ある意味)              <!-- Yep, in a way. -->
-- [ ] somewhat                  (ある程度, いくらか)    <!-- Strictly speaking, his view differs somewhat from mine. -->
-- [x] to (a certain | some) extent  (ある程度, いくらか)<!-- In any case, the union has to compromise to a certain extent. -->
-- [ ] to my shoulders           (肩まで)                <!-- I entered the Ghanges river to my shoulders. -->
-
-HOW
----
-- [x] somehow                   (なんとかして)          <!-- Please estimate the losses by Friday at the latest. I'll manage it somehow. -->
-- [ ] on impulse                (衝動的に)              <!-- I'm apt to buy things on impulse whenever something is on sale. -->
-- [ ] out of habit              (くせで)                <!-- I got the Namboku line out of habit. -->
-- [ ] on purpose                (わざと)                <!-- He made a mistake on purpose. -->
-- [ ] purposely                 (わざと)                <!-- He purposely didn't say anything. -->
-- [ ] at the same time          (同時に)                <!-- It's hard being the writer and an actor at the same time (両立) -->
-- [ ] in a row                  (連続して)              <!-- the unemployment rate has risen three quarters in a row. -->
-- [ ] time and again            (何度も)                <!-- The ecologist has warned us time and again that petroleum is not only a blessing but also a curse. -->
-- [ ] one-off                   (一度限りの)            <!-- The expense incurred this year to construct the building is a one-off cost. -->
-- [ ] for the first time        (初めて)                <!-- Last Saturday, I came here for the first time. -->
-- [x] up-front                  (前もって)              <!-- This hotel requires a cash deposit up-front. -->
-- [ ] in advance                (前もって)
-- [ ] in a rage                 (激怒して)              <!-- "Turn the faucet off!" mom yelled in a rage. -->
-- [ ] in earnest                (真面目に)              <!-- Japan must undertake sweeping deregulation in earnest. -->
-- [ ] on behalf of ...          (代表して)              <!-- On behalf of all staff, I'd like to express our sympathy for the victims. -->
-- [ ] on behalf of ...          (の代わりに)            <!-- I thank you on behalf of my husband. -->
-- [ ] in place of ...           (の代わりに)            <!-- I used Knox’s PC in place of mine today. -->
-- [ ] for the (fun | joy) of it (趣味として)            <!-- I just cook for the fun of it. -->
-- [ ] just in case              (念のため)              <!-- I'll write it down just in case. -->
-- [ ] for a rainy day           (念のため)              <!-- I decided to put some aside for a rainy day. -->
-- [ ] to ...'s heart's content  (思う存分)              <!-- The aristocrats abused their privileges to their hearts' content. -->
-- [ ] door to door              (家から〇〇まで)        <!-- It takes me about one hour door to door. -->
-- [ ] by heart                  (暗記で)                <!-- First of all, learn the formula by heart. / know by heart.-->
-- [ ] barely                    (かろうじて)            <!-- The minute particles are barely visible to the naked eye. -->
-- [ ] at heart                  (本当は)                <!-- Since Bob is lazy at heart, he frequently neglects his duties. -->
-- [ ] back and forth            (行ったり来たり)        <!-- While Jennifer was standing still, Bob was pacing back and forth along the sidewalk. -->
-- [ ] to and fro                (あちこちに)            <!-- I have been traveling to and fro between Canada and the U.K. for years. -->
-- [ ] in the long run           (長い目で見れば)        <!-- Bob sticks to his moral principles and believes that honesty pays off in the long run. -->
-- [ ] in accordance with        (に従って)
-- [ ] around the clock          (休むことなく)          <!-- They are working around the clock looking into the cause of the crash. -->
+# SUPPLEMENT
+## REASON
+- [x] because + 文                      (直接的理由)
+- [x] because of + Noun                 (直接的理由)
+- [ ] since                             (既出の理由)
+- [ ] as                                (補足的理由)
+- [x] the reason being                  (というのも)                    <!-- I decided to turn down the job offer. The reason being that, I ... -->
+- [ ] due to                            (悪い理由)
+- [ ] owing to                          (形式的な理由 / 文頭)           <!-- Owing to illness, some representatives were absent from ... -->
+- [ ] on account of                     (困難や問題などの理由)          <!-- Our flight to Vienna was delayed on account of a minor accident. -->
+- [x] thanks to                         (良い理由 / 文頭)
+- [ ] at the thought of ...             (のことを考えると)              <!-- I tremble with fear at the thought of an injection. -->
+- [x] for one thing                     (その理由の一つは)              <!-- I can't put you up. For one thing, my dad drops in on me from time to time.-->
+- [x] That's how ...                    (こうすることで)
+- [ ] as a result of ...                (because of)                    <!-- As a result of his ridiculous venture, he is in danger  of going bankrupt. -->
+## OBJECTIVE
+- [x] (in order) to                     (のために 一般)                 <!-- In order to keep up its competitiveness in the world, Japan ... -->
+- [x] so                                (するように)                    <!-- Tighten the lid so the food doesn't go bad. -->
+- [ ] so as to                          (のために 堅い)
+- [ ] with a view to doing              (を期待して)                    <!-- A fund was set up with a view to preserving our endangered planet. -->
+## CONCLUSION
+- [x] simply put                        (簡単に言うと)                  <!-- Simply put, he doesn't like sports. -->
+- [ ] in a nutshell                     (要約すると)                    <!-- That's it in a nutshell. -->
+## ADDITION
+- [x] but at the same time              (と同時にですね)                <!-- Working from home is great. but at the same time, it's king of ... -->
+- [x] whereas                           (一方で)                        <!-- He likes learning from textbooks, whereas I like learning on the job. -->
+- [ ] and the next thing I knew         (次の瞬間)                      <!-- I felt dizzy, and the next thing I knew I was ... -->
+- [x] in that case                      (だったら)                      <!-- In that case, I’ll have a beer. -->
+- [ ] in which case                     (この場合 文語)
+- [x] except for                        (を除いて)                      <!-- The auditorium was empty except for a single piece of furniture. -->
+- [ ] not including                     (を除いて)                      <!-- I work 8 hours not including lunch (含まずに) -->
+- [ ] apart/aside from                  (以外は)                        <!-- This is good apart from the terrible handwriting. -->
+- [x] without                           (無しで, しないで)              <!-- I work 8 hours without lunch -->
+- [x] instead of ...                    (するのではなく)                <!-- We dediced to chill at home instead of going out. -->
+- [ ] rather than ...                   (よりもむしろ)
+- [ ] more than ...                     (よりも)                        <!-- I like chocolate more than vanilla. -->
+- [ ] better than ...                   (よりも)                        <!-- I like vanilla better than chocolate. -->
+- [x] when compared                     (と比べて)                      <!-- Global emissions could rise 1.1 percent this year when compared to 2022. -->
+- [x] in spite of                       (に反して)                      <!-- In spite of our compliments, he frowned and turned away. He was so rude. -->
+- [ ] despite                           (と関係なく)                    <!-- Despite the risk, I would like to proceed with the plan. -->
+- [ ] what's more                       (おまけに さらに)               <!-- I met the man by chance. He's gentle and smart. What's more, he's single. -->
+- [ ] besides                           (それに さらに)                 <!-- I don’t wanna go out. Besides, I’m so tired today. -->
+- [ ] what's worse                      (さらに悪いことに)
+- [ ] to make matters worse             (さらに悪いことに)              <!-- To make matters worse, he isn't even conscious of annoying us. -->
+- [x] in particular                     (その中でも特に)                <!-- Urban culture appears to be attractive to many people, in particular, to younger people. -->
+- [ ] among other things                (その中でも特に)
+- [x] if anything                       (むしろ)                        <!-- But now, if anything, they are making too much of it. -->
+- [ ] on the second thought             (考え直して)
+## EXTENT
+- [x] some more                         (もう少し)                      <!-- I'll think about it some more. -->
+- [x] to the point where ...            (くらいまで)                    <!-- I studied English so much to the point where my dream started being in English. -->
+- [ ] about / around                    (だいたい)
+- [ ] approximately                     (だいたい)
+- [ ] roughly                           (だいたい)
+- [x] more or less                      (だいたい)                      <!-- Your pronunciation is more or less correct. -->
+- [ ] pretty much                       (だいたい)                      <!-- This is pretty much done. -->
+- [x] in a (way | sense)                (ある意味)                      <!-- Yep, in a way. -->
+- [ ] somewhat                          (ある程度, いくらか)            <!-- Strictly speaking, his view differs somewhat from mine. -->
+- [x] to (a certain | some) extent      (ある程度, いくらか)            <!-- In any case, the union has to compromise to a certain extent. -->
+- [ ] to my shoulders                   (肩まで)                        <!-- I entered the Ghanges river to my shoulders. -->
+## HOW
+- [x] somehow                           (なんとかして)                  <!-- Please estimate the losses by Friday at the latest. I'll manage it somehow. -->
+- [ ] on impulse                        (衝動的に)                      <!-- I'm apt to buy things on impulse whenever something is on sale. -->
+- [ ] out of habit                      (くせで)                        <!-- I got the Namboku line out of habit. -->
+- [ ] on purpose                        (わざと)                        <!-- He made a mistake on purpose. -->
+- [ ] purposely                         (わざと)                        <!-- He purposely didn't say anything. -->
+- [ ] at the same time                  (同時に)                        <!-- It's hard being the writer and an actor at the same time (両立) -->
+- [ ] in a row                          (連続して)                      <!-- the unemployment rate has risen three quarters in a row. -->
+- [ ] time and again                    (何度も)                        <!-- The ecologist has warned us time and again that petroleum is not only a blessing but also a curse. -->
+- [ ] one-off                           (一度限りの)                    <!-- The expense incurred this year to construct the building is a one-off cost. -->
+- [ ] for the first time                (初めて)                        <!-- Last Saturday, I came here for the first time. -->
+- [x] up-front                          (前もって)                      <!-- This hotel requires a cash deposit up-front. -->
+- [ ] in advance                        (前もって)
+- [ ] in a rage                         (激怒して)                      <!-- "Turn the faucet off!" mom yelled in a rage. -->
+- [ ] in earnest                        (真面目に)                      <!-- Japan must undertake sweeping deregulation in earnest. -->
+- [ ] on behalf of ...                  (代表して)                      <!-- On behalf of all staff, I'd like to express our sympathy for the victims. -->
+- [ ] on behalf of ...                  (の代わりに)                    <!-- I thank you on behalf of my husband. -->
+- [ ] in place of ...                   (の代わりに)                    <!-- I used Knox’s PC in place of mine today. -->
+- [ ] for the (fun | joy) of it         (趣味として)                    <!-- I just cook for the fun of it. -->
+- [ ] just in case                      (念のため)                      <!-- I'll write it down just in case. -->
+- [ ] for a rainy day                   (念のため)                      <!-- I decided to put some aside for a rainy day. -->
+- [ ] to ...'s heart's content          (思う存分)                      <!-- The aristocrats abused their privileges to their hearts' content. -->
+- [ ] door to door                      (家から〇〇まで)                <!-- It takes me about one hour door to door. -->
+- [ ] by heart                          (暗記で)                        <!-- First of all, learn the formula by heart. / know by heart.-->
+- [ ] barely                            (かろうじて)                    <!-- The minute particles are barely visible to the naked eye. -->
+- [ ] at heart                          (本当は)                        <!-- Since Bob is lazy at heart, he frequently neglects his duties. -->
+- [ ] back and forth                    (行ったり来たり)                <!-- While Jennifer was standing still, Bob was pacing back and forth along the sidewalk. -->
+- [ ] to and fro                        (あちこちに)                    <!-- I have been traveling to and fro between Canada and the U.K. for years. -->
+- [ ] in the long run                   (長い目で見れば)                <!-- Bob sticks to his moral principles and believes that honesty pays off in the long run. -->
+- [ ] in accordance with                (に従って)
+- [ ] around the clock                  (休むことなく)                  <!-- They are working around the clock looking into the cause of the crash. -->
 
 # FEELING
 - [ ] it goes without saying            (言うまでもないが)              <!-- It goes without saying that the aging of society is inevitable. -->
@@ -260,46 +230,40 @@ HOW
 - [ ] no longer                         (もはや ... ではない)           <!-- Japanese men no longer wear their hair in topknots. -->
 - [x] I hope you don't mind ...         (失礼ですが)                    <!-- I hope you don't mind if I eat while we talk. -->
 
-DEGREE
-======
+# DEGREE
+## GOODNESS
+- [ ] great                             (100)
+- [ ] very good                         (90)
+- [ ] really good                       (80)
+- [ ] good                              (70)
+- [x] pretty good                       (60)
+- [ ] fairly good                       (60)
+- [ ] kind of good                      (50)
+- [ ] so-so                             (40)
+- [x] not bad                           (40)
+## FREQUENCY
+- [x] always                            (100)
+- [ ] nearly                            (95)
+- [x] almost always                     (95)
+- [ ] usually                           (80)
+- [ ] more often than not               (たいてい)                      <!-- More often than not. famine is accompanied by plague. -->
+- [ ] often                             (65)
+- [ ] frequently                        (55)
+- [ ] sometimes                         (50)
+- [x] at times                          (50)                            <!-- At times I confuse "curve" with "carve." -->
+- [ ] here and there                    (ときおり)
+- [ ] now and then                      (たまに)                        <!-- I must admit we quarrel every now and then, but generally we're on good terms with each other. -->
+- [ ] occasionally                      (30)
+- [x] from time to time                 (ときおり)
+- [ ] once in a while                   (ときおり)
+- [ ] once a blue moon                  (めったにない)
+- [ ] seldom | rarely                   (10)
+- [x] almost never                      (5)
+- [ ] hardly ever                       (5)
+- [x] never                             (0)
 
-GOODNESS
---------
-- [ ] great                     (100)
-- [ ] very good                 (90)
-- [ ] really good               (80)
-- [ ] good                      (70)
-- [x] pretty good               (60)
-- [ ] fairly good               (60)
-- [ ] kind of good              (50)
-- [ ] so-so                     (40)
-- [x] not bad                   (40)
-
-FREQUENCY
----------
-- [x] always                    (100)
-- [ ] nearly                    (95)
-- [x] almost always             (95)
-- [ ] usually                   (80)
-- [ ] more often than not       (たいてい)              <!-- More often than not. famine is accompanied by plague. -->
-- [ ] often                     (65)
-- [ ] frequently                (55)
-- [ ] sometimes                 (50)
-- [x] at times                  (50)                    <!-- At times I confuse "curve" with "carve." -->
-- [ ] here and there            (ときおり)
-- [ ] now and then              (たまに)                <!-- I must admit we quarrel every now and then, but generally we're on good terms with each other. -->
-- [ ] occasionally              (30)
-- [x] from time to time         (ときおり)
-- [ ] once in a while           (ときおり)
-- [ ] once a blue moon          (めったにない)
-- [ ] seldom | rarely           (10)
-- [x] almost never              (5)
-- [ ] hardly ever               (5)
-- [x] never                     (0)
-
-TAG
-===
-- [ ] if that makes sense?      (伝わった？)
-- [x] you know what I mean?     (伝わった？)
-- [x] or not really?            (それとも違う？)        <!-- Do you like this kind of music, or not really? -->
-- [ ] or what?                  (それとも違う？)        <!-- Are we gonna have fun or what? -->
+# TAG
+- [ ] if that makes sense?              (伝わった？)
+- [x] you know what I mean?             (伝わった？)
+- [x] or not really?                    (それとも違う？)                <!-- Do you like this kind of music, or not really? -->
+- [ ] or what?                          (それとも違う？)                <!-- Are we gonna have fun or what? -->

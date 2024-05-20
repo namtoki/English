@@ -1,5 +1,4 @@
-BEGINING
-========
+# BEGINING
 - [x] Do you have a minute/second?  (今いい？)
 - [x] Is this a good time?          (今いい？)
 - [ ] Do you have time?             (今いい？)
@@ -29,8 +28,7 @@ BEGINING
 - [ ] You might wonder ...          (と思うかもしれません)      <!-- You might wonder why that is so. -->
 - [x] Can you give me a hand?       (手伝ってくれる？)
 
-REACTION
-========
+# REACTION
 - [x] (That's) true                 (その通りだね)
 - [x] (That) Sounds like a plan     (それでいこう)
 - [x] (That) makes sense            (なるほど)
@@ -77,16 +75,14 @@ REACTION
 - [ ] You name it.                  (なんでもいいよ)
 - [ ] the only way to ...           (やっぱりこれでしょ)        <!-- This is the only way to live. -->
 
-ANSWER (NEGATIVE)
-=================
+# ANSWER (NEGATIVE)
 - [x] No. I'm Okay.                 (結構です)
 - [x] I'd rather not.               (やっぱりやめておきます)
 - [x] Not yet.                      (まだです)
 - [x] I wish I could, but ...       (やりたいですが、、)        <!-- I wish I could, but I have to be out of town. -->
 - [x] I'll think about it.          (考えとく)
 
-ANSWER (POSITIVE)
-=================
+# ANSWER (POSITIVE)
 - [x] It's difficult to say.        (ええと, なんだっけ)
 - [x] I'll take care of it.         (引き受けた)
 - [x] It's up to you.               (好きなほうでいいですよ)
@@ -105,8 +101,7 @@ ANSWER (POSITIVE)
 - [ ] It's OK.                      (大丈夫だよ)
 - [ ] Might as well                 (まぁいいよ)
 
-DIVE
-====
+# DIVE
 - [x] I couldn't get it.            (わからなかった)
 - [x] Do you mean ...?              (... ってこと？)            <!-- Do you mean ... you lost? -->
 - [x] Such as?                      (例えば？)
@@ -131,8 +126,7 @@ DIVE
 - [ ] Take your time.               (ごゆっくり)
 - [ ] Good luck with your speech.   (頑張って)
 
-Question
-========
+# Question
 - [x] How do you like ... ?         (どう？)                    <!-- How do you like your new shoes? -->
 - [x] How do you feel about ... ?   (どう？どう思う？)          <!-- How do you feel about the service in Japan? -->
 - [x] What do you think about ing   (どう？どう思う？)          <!-- What do you think about moving to Osaka? -->
@@ -168,8 +162,7 @@ Question
 - [ ] Could you type it in the chat (文字にして)
 - [ ] Hang in there                 (頑張って)
 
-CLICHE
-======
+# CLICHE
 - [x] I'll take it.                 (これください)
 - [x] I'll have                     (飲食店 ください)           <!-- I'll have the same as her. -->
 - [x] I can't help it.              (仕方ない)
