@@ -19,6 +19,9 @@
 ## COMMON
 - [ ] count on                          (頼る)                  <!-- I'm counting on you. -->
 - [ ] have fun                          (楽しむ)                <!-- We had fun at the zoo seeing the lions and tigers. -->
+- [ ] grand                             (壮大な 最高位の)       <!-- grand prize -->
+- [ ] serve                             (仕える)
+- [ ] priest                            (聖職者 司祭)
 
 ## FEATURE
 - [ ] in one's XXs                      (.. 十代)               <!-- Some of her first students are new in their 20s. -->
@@ -30,6 +33,7 @@
 - [ ] seniors                           (年配)                  <!-- The people who disagreed are old fashioned seniors. -->
 - [x] an early bird                     (早起き)
 - [x] a night owl                       (夜更かしするほう)
+- [ ] cheek                             (頬)
 
 ## WORK
 - [x] ETA (Estimated Time of Arrival)   (帰る時間)              <!-- I send her a message with my ETA. -->
@@ -60,11 +64,13 @@
 - [ ] take on                           (引き受ける)            <!-- Apparently, Nick wasn't willing to take on the task because it would just add to his burdens. -->
 - [ ] work overtime                     (残業する)
 
-## POSITION
+## LOCATION
 - [ ] be around                         (近くにいる)            <!-- He pretends to be enthusiastic when his boss is around. -->
+- [ ] garage                            (車庫)
+- [ ] harbor                            (港 避難所)
+- [ ] palace                            (宮殿 官邸 公邸 大邸宅)
 
-FOOD
-----
+## FOOD
 - [x] salmon roe                        (いくら)
 - [x] seaweed                           (のり)
 - [x] pickled plum                      (梅)
@@ -73,17 +79,28 @@ FOOD
 - [ ] pastry                            (パン菓子)
 - [ ] utensil                           (調理器具)
 - [ ] appliance                         (調理器具 w/ 電源)
+- [ ] cocoa [koukou]                    (ココア)
+- [ ] pea                               (えんどう)
+- [ ] parfait                           (パフェ)
+- [ ] persimmon                         (柿)
 
-ANIMAL
-------
+## ANIMAL
 - [ ] deer                              (しか)
+- [ ] wolf / wolves                     (狼)
 
-NATION
-------
+## PLANT
+- [ ] violet                            (すみれ)
+
+## NATION
 - [ ] Vienna                            (ウィーン)
 
-OTHERS
-------
+## PROFESSION
+- [ ] astronaut                         (宇宙飛行士)
+
+## OTHERS
+- [ ] nest                              (巣 群れ 憩いの場)      <!-- leave the nest -->
+- [ ] coal                              (石炭)
+- [ ] hide / hid / hid                  (隠れる 隠す)           <!-- She hid behind a curtain. -->
 - [ ] dig up                            (掘り出す)              <!-- Grandpa and I dug up some potatoes. -->
 - [ ] nod                               (うなずく)              <!-- He nodded, but I ... -->
 - [ ] comfort                           (慰める なだめる)       <!-- The movie star comforted the local people. -->
