@@ -63,6 +63,7 @@
 - [x] for half a year                   (半年)                          <!-- I'll be living here for half a year. -->
 - [ ] on and off                        (断続的に)
 - [ ] on Sunday                         (曜日に)
+- [ ] on ... days                       (な日に)                        <!-- I don't close this door on hot days. -->
 - [x] on the weekend                    (週末に)
 - [x] over the weekend                  (週末の間に)
 - [ ] bright and early                  (朝早くに)                      <!-- The store opens at 8 a.m. tomorrow, so you can get your hands on the product bright and early. -->

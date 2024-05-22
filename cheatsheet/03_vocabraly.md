@@ -18,6 +18,7 @@
 
 ## COMMON
 - [ ] count on                          (頼る)                  <!-- I'm counting on you. -->
+- [ ] have fun                          (楽しむ)                <!-- We had fun at the zoo seeing the lions and tigers. -->
 
 ## FEATURE
 - [ ] in one's XXs                      (.. 十代)               <!-- Some of her first students are new in their 20s. -->
@@ -83,6 +84,10 @@ NATION
 
 OTHERS
 ------
+- [ ] dig up                            (掘り出す)              <!-- Grandpa and I dug up some potatoes. -->
+- [ ] nod                               (うなずく)              <!-- He nodded, but I ... -->
+- [ ] comfort                           (慰める なだめる)       <!-- The movie star comforted the local people. -->
+- [ ] sink / sank / sunk                (沈む)                  <!-- His medal sank deeply into the pond. -->
 - [x] gut feeling                       (直観)
 - [x] dominant hand                     (利き手)                <!-- Which is your dominant hand? -->
 - [ ] voucher                           (引換券 保証人)
