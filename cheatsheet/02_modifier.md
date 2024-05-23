@@ -169,6 +169,7 @@
 - [x] if anything                       (むしろ)                        <!-- But now, if anything, they are making too much of it. -->
 - [ ] on the second thought             (考え直して)
 - [ ] let alone                         (はなおさらない)                <!-- We can't apply cloning techniques to cattle, let alone human beings. -->
+- [ ] followed by                       (引き続いて さらに)             <!-- Lightning flashed, followed by terribly loud thunder. -->
 ## EXTENT
 - [x] some more                         (もう少し)                      <!-- I'll think about it some more. -->
 - [x] to the point where ...            (くらいまで)                    <!-- I studied English so much to the point where my dream started being in English. -->

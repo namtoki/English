@@ -15,6 +15,7 @@
 - [x] the very first question           (一番最初の質問)        <!-- the very first question is the use of ..." -->
 - [x] A out of B                        (B 中 A)                <!-- We have watched 4 out of 5 seasons. -->
 - [ ] see to                            (きちんと する)         <!-- I'll see to it. -->
+- [ ] firm                              (堅い 固定した 確固たる)<!-- a firm decision -->
 
 ## COMMON
 - [ ] count on                          (頼る)                  <!-- I'm counting on you. -->
@@ -22,8 +23,14 @@
 - [ ] grand                             (壮大な 最高位の)       <!-- grand prize -->
 - [ ] serve                             (仕える)
 - [ ] priest                            (聖職者 司祭)
+- [ ] come forward                      (名乗り出る)            <!-- The police are appealing to anyone with information about the crime to come forward. -->
+- [ ] be blessed with                   (恵まれる)              <!-- He is lucky to be blessed with so much talent. -->
+- [ ] impress                           (感銘を与える)          <!-- He impressed me with his homemade pizza. -->
+- [ ] be offended by/with               (気分を害する)          <!-- She was extremely offended by the things you said. -->
+- [ ] flock                             (集まる 群がる 群れ)    <!-- The people that flock to that store are mostly young women. -->
+- [ ] rub                               (こする 撫でる すり減る)<!-- He always rubs his jaw when he thinks. -->
 
-## FEATURE
+## FEATURE / PARTS
 - [ ] in one's XXs                      (.. 十代)               <!-- Some of her first students are new in their 20s. -->
 - [x] family of ...                     (人家族)                <!-- I'm from a family of four. -->
 - [ ] beard                             (あごひげ)
@@ -34,6 +41,8 @@
 - [x] an early bird                     (早起き)
 - [x] a night owl                       (夜更かしするほう)
 - [ ] cheek                             (頬)
+- [ ] pupil                             (瞳孔)
+- [ ] jaw                               (あご)
 
 ## WORK
 - [x] ETA (Estimated Time of Arrival)   (帰る時間)              <!-- I send her a message with my ETA. -->
@@ -98,6 +107,8 @@
 - [ ] astronaut                         (宇宙飛行士)
 
 ## OTHERS
+- [ ] arise / arose / arisen            (起こる 生じる)         <!-- an argument against development in the area arose. -->
+- [ ] pupil                             (生徒 教え子 弟子)
 - [ ] nest                              (巣 群れ 憩いの場)      <!-- leave the nest -->
 - [ ] coal                              (石炭)
 - [ ] hide / hid / hid                  (隠れる 隠す)           <!-- She hid behind a curtain. -->
@@ -442,6 +453,7 @@ OTHERS
 - [ ] omit                              (省略する)              <!-- Can I omit "do you"? -->
 - [ ] jaywalk                           (無謀横断する)
 - [ ] alleviate                         (緩和する)              <!-- alleviate traffic congestion -->
+- [ ] ease                              (和らげる)              <!-- This biscuit should ease your hunger a little -->
 - [ ] praise                            (褒める カジュアル)
 - [ ] commend                           (褒める フォーマル)
 - [ ] expedite                          (促進する 効率的にも)
