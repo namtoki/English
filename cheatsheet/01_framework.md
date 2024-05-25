@@ -140,6 +140,9 @@
 - [ ] be eating me alive.           (押しつぶされそう)          <!-- Keeping secrets was eating me alive. -->
 - [x] leave nothing to be desired   (申し分ない)                <!-- Your summary leaves nothing to be desired. -->
 - [x] It's no use ... ing           (しても無駄だ)              <!-- It's no use polishing it. -->
+- [ ] I will grant you that ...     (ということは認めよう)
+- [ ] be really into                (like a lot / interested in)<!-- I'm really into ramen. -->
+- [ ] be not really into            (dislike / not interested)  <!-- I'm not really into sweets. -->
 ## FACT
 - [x] It takes ... N (time)s        (かかる)                    <!-- It takes her 25 minutes to walk to work. -->
 - [ ] be supposed to ...            (するものだ)                <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->

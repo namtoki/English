@@ -40,6 +40,7 @@
 - [x] think much of                     (高く評価する)          <!-- Bob likes cartoons, but I don't think much of them. -->
 - [x] think nothing of                  (なんとも思わない)
 - [ ] I'm getting (adj)                 (adj になってきた)      <!-- I'm getting tired of them. -->
+- [ ] pity                              (残念なこと 哀れみ)
 
 ## FEATURE / PARTS
 
@@ -54,9 +55,17 @@
 - [x] a night owl                       (夜更かしするほう)
 - [ ] cheek                             (頬)
 - [ ] pupil                             (瞳孔)
-- [ ] jaw                               (あご)
+- [ ] jaw                               (あご えら)
+- [ ] chin                              (あご 先)
 - [x] dominant hand                     (利き手)                <!-- Which is your dominant hand? -->
 - [ ] muscle                            (筋肉)                  <!-- I don't want to lose muscle. -->
+- [ ] lung                              (肺)
+- [ ] brow                              (まゆ 額)
+- [ ] breast                            (胸 乳房)
+- [ ] chest                             (胸部)
+- [ ] waist                             (胴のくびれ)
+- [ ] lap                               (座ったときの腰から膝部)
+- [ ] knee                              (ひざ)
 
 ## WORK
 
@@ -87,6 +96,10 @@
 - [ ] I work in (place/department)      (で働いています)
 - [ ] take on                           (引き受ける)            <!-- Apparently, Nick wasn't willing to take on the task because it would just add to his burdens. -->
 - [ ] work overtime                     (残業する)
+- [ ] dismiss                           (解雇する)
+- [ ] reward                            (報酬)
+- [ ] move up                           (予定を繰り上げる)
+- [ ] push back                         (予定を後ろ倒しにする)
 
 ## PLACE
 
@@ -99,6 +112,10 @@
 - [ ] forest / woods                    (森)
 - [ ] scene                             (現場)                  <!-- The police arrived at the scene quickly. -->
 - [ ] mural                             (壁画)
+- [ ] chimney                           (煙突)
+- [ ] cliff                             (崖)
+- [ ] countryside                       (田舎 地方)
+- [ ] world heritage                    (世界遺産)
 
 ## FOOD
 
@@ -114,12 +131,23 @@
 - [ ] pea                               (えんどう)
 - [ ] parfait                           (パフェ)
 - [ ] persimmon                         (柿)
+- [ ] cabbage [k@bidg]                  (キャベツ)
+- [ ] lettuce [letis]                   (レタス)
+- [ ] pear [pe~r]                       (西洋なし)
+- [ ] plum [pl^m]                       (西洋すもも)
+- [ ] wheat                             (小麦)
+- [ ] go out (for the meal)             (食事に行く)            <!-- my wife typically makes dinner during the week and we go out on weekends. -->
 
 ## ANIMAL / PLANT
 
 - [ ] deer                              (しか)
 - [ ] wolf / wolves                     (狼)
 - [ ] violet                            (すみれ)
+- [ ] bull                              (雄牛 大柄ながっしりした人)
+- [ ] feather                           (鳥類)
+- [ ] goat                              (ヤギ)
+- [ ] lily                              (ユリ)
+- [ ] palm                              (ヤシ)
 
 ## PERSON
 
@@ -128,6 +156,9 @@
 - [ ] pupil                             (生徒 教え子 弟子)
 - [ ] pedestrians                       (歩行者)
 - [ ] passengers                        (乗客)
+- [ ] shopkeeper                        (小売店主)
+- [ ] barber                            (床屋)
+- [ ] vet / veterinarian                (獣医)
 
 ## NATION
 
@@ -135,6 +166,11 @@
 
 ## OTHERS
 
+- [ ] be fond of                        (が大好きである)
+- [ ] funeral                           (葬儀 不幸なこと)
+- [ ] grace                             (品の良さ 恩恵 慈悲)
+- [ ] comb                              (くし)
+- [ ] nerve                             (神経)
 - [ ] You can ask me ...                (聞いてくれ)            <!-- You can ask me for help anytime. -->
 - [ ] accelerate                        (促進する 物理的に)
 - [ ] acceptable, unacceptable          (許される, ない)        <!-- Crossing your legs is unacceptable in business situations in Japan -->
@@ -227,6 +263,7 @@
 - [ ] clarify                           (明確化する)
 - [ ] clear-cut                         (明らかな)              <!-- (usually used for instructions) Patrick's instructions were very clear-cut. -->
 - [ ] clearing up                       (晴れてきた)            <!-- It's clearing up. -->
+- [ ] clothe                            (着せる)                <!-- She clothed her naked baby. -->
 - [ ] clumsy                            (ドジな)                <!-- Dave is fat and clumsy. When he leaped over the shallow stream, he stumbled and twisted his ankle. -->
 - [ ] coal                              (石炭)
 - [ ] cold                              (寒い)
@@ -305,6 +342,7 @@
 - [ ] foreign owned                     (外資系)
 - [ ] foster                            (促進する 助長 養育)    <!-- foster an abandoned child / foster a good work environment -->
 - [ ] freezing                          (凍えるほど寒い)
+- [ ] frighten                          (びっくりさせる)
 - [ ] furious                           (激しい 怒 速度 活動)   <!-- The runners set off at a furious pace. -->
 - [ ] genuine                           (本物)                  <!-- His feelings for her is genuine. -->
 - [ ] get                               (こぼす)                <!-- Just don't get sauce on your nice shirt. -->
@@ -439,6 +477,7 @@
 - [ ] ring a bell                       (ピンとくる)            <!-- That doesn't ring a bell at all. -->
 - [ ] rub                               (こする 撫でる すり減る)<!-- He always rubs his jaw when he thinks. -->
 - [ ] run out                           (使い果たす)            <!-- The other day I ran out of gas in the middle of a busy Interstate. -->
+- [ ] ruin                              (台無しにする 破壊する)
 - [ ] serve                             (仕える)
 - [ ] set a new record                  (賞をとる)              <!-- Carbon emissions are expected to set a new record in 2023. -->
 - [ ] severe                            (激しい 痛 不足)        <!-- Luke suddenly felt a severe pain in his lower back. -->
@@ -451,6 +490,7 @@
 - [ ] sneezing                          (くしゃみ)              <!-- I can't stop sneezing. -->
 - [ ] social welfare                    (福祉)
 - [ ] spend time ...                    (過ごす)                <!-- I spend time with my wife on my days off. -->
+- [ ] spoil                             (台無しにする)
 - [ ] spill                             (こぼす)                <!-- I spilled wine on my shirt -->
 - [ ] split the check                   (割り勘する)
 - [ ] spotless                          (しみのない)
@@ -488,6 +528,7 @@
 - [ ] the other way around              (正反対な)              <!-- It's the other way around today. -->
 - [ ] think ... over                    (慎重に考える)          <!-- You ought to think over whether the premise is valid or not. -->
 - [ ] third baseline                    (三塁側)
+- [ ] threaten                          (脅迫する)
 - [ ] thrilled                          (わくわくして 特に)
 - [ ] through the roof                  (突き抜けている)        <!-- My stress was through the roof -->
 - [ ] tidy                              (整理された)
@@ -509,6 +550,7 @@
 - [ ] turn to                           (頼る)                  <!-- Now that I've found that there's no one to turn to. -->
 - [ ] turn up                           (現れる)                <!-- As usual, Mike turned up on time. He's very punctual. -->
 - [ ] turn/hand ... in                  (提出する)              <!-- I want you to look this over before I turn it in. -->
+- [ ] trousers                          (ズボン)
 - [ ] unable to change                  (固執する)
 - [ ] unambiguous                       (明らかな)              <!-- The warnings were unambiguous. -->
 - [ ] unpleasant                        (不快な 自然現象含めて)

@@ -75,12 +75,14 @@
 - [ ] in the early evening              (夕方に)
 - [ ] in the evening                    (日没後に)
 - [x] at night                          (夜に)
+- [x] at dawn                           (夜明けに)
 - [x] tens of minutes                   (数十分)
 - [x] just before ...                   (のちょっと前に)                <!-- I will get home sometime just before 9pm. -->
 - [x] just after ...                    (のちょっと後に)                <!-- I will go abroad sometime just after Golden Week. -->
 - [x] meanwhile                         (それまでの間)                  <!-- We can go out tomorrow, meanwhile I'll teach you how to play bridge. -->
 - [ ] afterwards                        (そのあとに)                    <!-- We’ll grab dinner and go to karaoke afterward(s). -->
 - [ ] by now                            (もう)                          <!-- You must be hungry by now. -->
+- [ ] throughout                        (の間中)                        <!-- We plan to celebrate our victory throughout the night. -->
 ## TIME (PAST)
 - [x] every time ...                    (するときはいつも)              <!-- Every time you make them, they are perfect. -->
 - [x] in the middle of                  (の真っ最中に)                  <!-- He fell asleep in the middle of the sales meeting. -->
@@ -220,7 +222,7 @@
 - [x] this might be just me             (自分だけかもやけど)            <!-- This might be just me, but don't you think this is a bit too expensive? -->
 - [ ] if you ask me                     (私に言わせてみれば)            <!-- It was a little long, if you ask me. -->
 - [ ] as ... anticipated                (予想していた通り)              <!-- As we anticipated, the unemployment rate has risen .... -->
-- [ ] as it is                          (残念ながら)                    <!-- As it is, ordinary people cannot afford to purchase such luxuries. -->
+- [ ] as it is                          (現状では 残念ながら)           <!-- As it is, ordinary people cannot afford to purchase such luxuries. -->
 - [x] anyway                            (いずれにしても)
 - [x] in any case                       (いずれにしても)                <!-- In any case, the union has to compromise to a certain extent. -->
 - [x] at the end of the day,            (結局のところ)                  <!-- At the end of the day, this is not that important. -->
@@ -267,7 +269,9 @@
 - [x] never                             (0)
 
 # TAG
-- [ ] if that makes sense?              (伝わった？)
-- [x] you know what I mean?             (伝わった？)
-- [x] or not really?                    (それとも違う？)                <!-- Do you like this kind of music, or not really? -->
-- [ ] or what?                          (それとも違う？)                <!-- Are we gonna have fun or what? -->
+- [ ] ,if that makes sense?             (伝わった？)
+- [x] ,you know what I mean?            (伝わった？)
+- [x] ,or not really?                   (それとも違う？)                <!-- Do you like this kind of music, or not really? -->
+- [ ] ,or what?                         (それとも違う？)                <!-- Are we gonna have fun or what? -->
+- [ ] if I had to guess,                (知らんけど敢えて言うなら)
+- [ ] if I'm not mistaken,              (確か 間違っていなければ)

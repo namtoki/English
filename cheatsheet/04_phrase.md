@@ -100,6 +100,7 @@
 - [ ] Never mind.                   (気にしないで)
 - [ ] It's OK.                      (大丈夫だよ)
 - [ ] Might as well                 (まぁいいよ)
+- [ ] Let me check and I'll get back to you.
 
 # DIVE
 - [x] I couldn't get it.            (わからなかった)
