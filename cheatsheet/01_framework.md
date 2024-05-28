@@ -1,5 +1,9 @@
 # OPINION
 
+## PAST
+
+- [x] be like                       (と思った 言った)           <!-- I was like "..." -->
+
 ## FIND
 
 - [x] I find (O) (C)                (だなぁ)                    <!-- I find it really interesting to study English -->
@@ -7,6 +11,7 @@
 ## THINK
 
 - [x] It's ... how ...              (思う)                      <!-- It's interesting how you said that. -->
+- [x] This is the kind of thing ... (こういうのが...なんだ)     <!-- This is the kind of thing that makes me really happy. -->
 - [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
 - [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
 - [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
@@ -79,21 +84,21 @@
 
 ## SHOULD
 
-- [ ] had better                    (**** しなければ 緊迫)
-- [x] must                          (***  しなければ 義務)
-- [x] be gonna have to              (**   しなければ 今後 残念)
-- [x] have (got) to                 (**   しなければ 必要)      <!-- You've got to keep up with it. Once you fall behind, It's hard to catch up. -->
-- [ ] have to                       (*    しなくちゃ)           <!-- I have to go home. -->
-- [x] gotta                         (*    しなくちゃ)           <!-- I gotta go. -->
-- [ ] need to                       (*    しなくちゃ)           <!-- I need to get back to the office. -->
-- [ ] need to                       (していただきたい)
-- [ ] be supposed to ...            (であるべき)
+- [x] be better off (noun / ing)    (のほうがいい)              <!-- You're better off starting from the beginning than trying ... -->
 - [x] should                        (したほうがいい)            <!-- We should ask first. -->
 - [x] (might) want to               (してみてよ してごらん)     <!-- You want to pull your fingers in like this. -->
 - [x] might as well                 (したほうがよさそうだ)      <!-- You might as well walk home. -->
 - [x] it would be better if         (したほうがいいでしょうね)  <!-- Would it be better if I got wet? -->
+- [x] have to                       (*    しなくちゃ)           <!-- I have to go home. -->
+- [x] gotta                         (*    しなくちゃ)           <!-- I gotta go. -->
+- [x] be gonna have to              (**   しなければ 今後 残念)
+- [x] have (got) to                 (**   しなければ 必要)      <!-- You've got to keep up with it. -->
+- [x] must                          (***  しなければ 義務)
+- [ ] had better                    (**** しなければ 緊迫)
+- [ ] need to                       (*    しなくちゃ)           <!-- I need to get back to the office. -->
+- [ ] need to                       (していただきたい)
+- [ ] be supposed to ...            (であるべき)
 - [ ] it might be good idea to      (したほうがいいでしょうね)  <!-- It might be a good idea to read the reviews before you buy it. -->
-- [x] be better off (noun / ing)    (のほうがいい)              <!-- You're better off starting from the beginning than trying ... -->
 - [ ] the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
 - [ ] You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
 
@@ -148,36 +153,37 @@
 
 - [x] get/be used to ...            (慣れる/ている)             <!-- I'm getting used to working with new coworkers here. -->
 - [x] get/be familiar with ...      (慣れる/ている)             <!-- He got familiar with a new laptop. -->
-- [ ] always                        (普段は ... する)           <!-- In my family, we always eat turkey on ... -->
 - [x] tend to ...                   (普段は ... する)           <!-- I tend to prefer non-fiction -->
-- [ ] usually end up ... ing        (普段は ... する)           <!-- I usually end up getting fast food. (ついついしちゃう) -->
 - [x] tend to ...                   (たいてい ... する)         <!-- I tend not to remember my dreams -->
 - [x] tend to ...                   (ついつい ... する)         <!-- I tend to eat a lot when I'm nervous -->
-- [ ] It's been a long time since   (ぶりだ)
 - [x] It's been a while since       (ぶりだ)                    <!-- It's been a while since I've swung a tennis racket. -->
+- [x] I remember                    (懐かしい)                  <!-- I remember that trip! -->
+- [x] This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
+- [ ] always                        (普段は ... する)           <!-- In my family, we always eat turkey on ... -->
+- [ ] usually end up ... ing        (普段は ... する)           <!-- I usually end up getting fast food. (ついついしちゃう) -->
+- [ ] It's been a long time since   (ぶりだ)
 - [ ] It's been ages since          (ぶりだ)
-- [ ] I remember                    (懐かしい)                  <!-- I remember that trip! -->
-- [ ] This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
 
 ## PREFERENCE
 
-- [x] I might                       (するかも)                  <!-- I might finish early tonight. -->
-- [ ] might as well ...             (してもいい)                <!-- We might as well walk there. -->
 - [x] It doesn't matter             (どうでもよい)              <!-- It doesn't matter. I quit. -->
 - [x] It doesn't matter.            (どっちでもよい)            <!-- It doesn't matter. They're both great. -->
 - [x] I'm not particular about it.  (こだわりはない)
+- [x] I might                       (するかも)                  <!-- I might finish early tonight. -->
 - [x] It's pleasant.                (心地よい)                  <!-- My favorite pastime is strolling along the shore. It's pleasant. -->
+- [x] be really into                (like a lot / interested in)<!-- I'm really into ramen. -->
+- [x] be not really into            (dislike / not interested)  <!-- I'm not really into sweets. -->
 - [x] I'm terrible with             (苦手)
 - [x] I don't care for              (苦手)                      <!-- I don't care for spicy food. -->
-- [ ] I have trouble ... ing        (苦手 難しい 大変 できない)
 - [x] It/Something doesn't add up   (腑に落ちない)              <!-- It doesn't add up at all. -->
+- [x] It's no use ... ing           (しても無駄だ)              <!-- It's no use polishing it. -->
+- [x] how (A) is (O)                (...ってすごく...だよね)    <!-- How funny is it? -->
+- [ ] might as well ...             (してもいい)                <!-- We might as well walk there. -->
+- [ ] I have trouble ... ing        (苦手 難しい 大変 できない)
 - [ ] I can't tell you how much ... (どれだけ...か伝えきれない) <!-- I can't tell you how much I loved it. -->
 - [ ] be eating me alive.           (押しつぶされそう)          <!-- Keeping secrets was eating me alive. -->
-- [x] leave nothing to be desired   (申し分ない)                <!-- Your summary leaves nothing to be desired. -->
-- [x] It's no use ... ing           (しても無駄だ)              <!-- It's no use polishing it. -->
+- [ ] leave nothing to be desired   (申し分ない)                <!-- Your summary leaves nothing to be desired. -->
 - [ ] I will grant you that ...     (ということは認めよう)
-- [ ] be really into                (like a lot / interested in)<!-- I'm really into ramen. -->
-- [ ] be not really into            (dislike / not interested)  <!-- I'm not really into sweets. -->
 
 ## FACT
 
@@ -194,9 +200,9 @@
 - [x] used to                       (かつては ... だった)       <!-- I used to read every day. -->
 - [x] ended up ... ing              (結局 ... した)             <!-- I ended up staying home. -->
 - [x] got to ...                    (ラッキーなことに...できた) <!-- I got to meet Joyce Nelson in person! -->
+- [x] have never ... before         (一度も ... したことない)   <!-- I have never been to Hawaii before, but I would like to go someday -->
 - [ ] I was going to ...            (予定だった)                <!-- I was going to get the burger, but the salad looked so good. -->
 - [ ] I was going to ...            (予定だったのに)            <!-- It looks like a rainstorm is coming in. I was going to go hiking.. -->
-- [x] have never ... before         (一度も ... したことない)   <!-- I have never been to Hawaii before, but I would like to go someday -->
 
 ## FUTURE
 
@@ -204,7 +210,7 @@
 - [x] be going to ...               (する)                      <!-- What time are we going to be there? -->
 - [x] be supposed to ...            (することになっている 期待) <!-- What time are we supposed to be there? -->
 - [x] be due to ...                 (することになっている)      <!-- She is due to have her baby this week. -->
-- [ ] I will never ... again!       (二度と ... しない)         <!-- I will never climb Mt.Fuji again! -->
+- [x] I will never ... again!       (二度と ... しない)         <!-- I will never climb Mt.Fuji again! -->
 
 # PATTERN
 

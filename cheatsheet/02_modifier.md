@@ -1,6 +1,7 @@
 # FOCUS
 
 ## TOPIC
+
 - [x] first/most of all                 (何よりもまず)                  <!-- First of all, learn the formula by heart. -->
 - [x] in doing                          (するときは)                    <!-- In making a decision, I rely not on logic but on insinct. -->
 - [x] regarding                         (に関して言うと)                <!-- Regarding the subject above -->
@@ -29,6 +30,7 @@
 - [ ] at the thought of                 (のことを考えると)              <!-- I tremble with fear at the thought of an injection. -->
 
 ## RANGE
+
 - [x] most                              (ほとんどの)                    <!-- most people like it. -->
 - [x] almost all                        (ほぼすべての)                  <!-- almost all Japanese -->
 - [x] a bunch of ...                    (たくさんの)                    <!-- A bunch of other companies are imitating our excellent methods. -->
@@ -49,6 +51,7 @@
 - [ ] each and every one of ...         (ひとつひとつ)                  <!-- each and every one of these questions -->
 
 ## TIME (FUTURE)
+
 - [x] right away                        (今すぐ)                        <!-- I'll come right away. -->
 - [x] from now on                       (これからは)                    <!-- I have to cut down on my expenses, so from now on, I'm ~~ -->
 - [x] in (just) a little bit            (ちょっとしたら)                <!-- The ambulance will get here in just a little bit. -->
@@ -63,6 +66,7 @@
 - [ ] for good                          (これを最後に永久に)            <!-- We're through for good this time. -->
 
 ## TIME (COMMON)
+
 - [x] every ...                         (ごとに)                        <!-- The vehicles are inspected for defects every three months. -->
 - [x] every other day                   (隔日で)
 - [x] for N (time)s                     (の間)                          <!-- I've been working for the company for 6 months. -->
@@ -92,6 +96,7 @@
 - [ ] throughout                        (の間中)                        <!-- We plan to celebrate our victory throughout the night. -->
 
 ## TIME (PAST)
+
 - [x] every time ...                    (するときはいつも)              <!-- Every time you make them, they are perfect. -->
 - [x] in the middle of                  (の真っ最中に)                  <!-- He fell asleep in the middle of the sales meeting. -->
 - [x] (just) the other day              ((つい) こないだ)               <!-- I went there just the other day! -->
@@ -102,16 +107,22 @@
 - [x] now that                          (今や)                          <!-- Now that things are better, we should talk about the problem. -->
 - [ ] for the first time in             (ぶりに)                        <!-- I'm going to Hawaii for the first time in 1 year. -->
 - [ ] in the course of                  (の過程で)                      <!-- In the course of its economic development, Japan has ... -->
+
 ## LOCATION
+
 - [x] up there                          (上のほうで)
 - [x] down there                        (下のほうで)
 - [x] over                              (話し手のもとに)                <!-- I invited some friends and family over for lunch. -->
+
 ## SUBJUNCTIVE MOOD
+
 - [x] with                              (があれば)                      <!-- With a little luck, we can still make it. -->
 - [ ] (Let's) Say                       (とします)                      <!-- Say I invest a hundred dollars now, how much will I ... -->
 - [x] as long as                        (する限り 条件)                 <!-- As long as you are young, you should experience different things. -->
 - [x] as far as / insofar as            (する限り 範囲)                 <!-- As far as I can see, he will fail the exam again this time. -->
+
 ## EMPHASIS / ROUGH
+
 - [ ] Such a                            (まさしく)                      <!-- That was such a fun day. / You are such a pro. -->
 - [ ] that                              (そんなに)                      <!-- I guess it wasn't that important. -->
 - [ ] next to ...                       (ほとんど)                      <!-- I know next to nothing about it. -->
@@ -122,7 +133,7 @@
 - [x] low-key ...                       (なんとなく少し)                <!-- I’m low-key in love with my study partner’s new cologne. -->
 - [ ] some kind of ...                  (なにか)                        <!-- born with some kind of special talent. / some kind of sport -->
 - [x] ... like                          (とか)                          <!-- Things like party hats, paper plates and napkins. -->
-- [x] ... things/stuff like that        (みたいなもの)                  <!-- I think he's learning Spanish or something like that, if that makes sense. -->
+- [x] ... thing/stuff like that         (みたいなもの)                  <!-- I think he's learning Spanish or something like that, if that makes sense. -->
 - [ ] ... and so on                     (など)                          <!-- I'm tired of doing the dished, doing the laundry, and so on! -->
 - [x] ... kind of thing                 (的なもの)                      <!-- This is a flip phone kind of thing but a bit different. -->
 - [x] ... and stuff                     (とかいろいろ)                  <!-- We've got to do editing and stuff. -->
@@ -133,6 +144,7 @@
 # SUPPLEMENT
 
 ## REASON
+
 - [x] because + 文                      (直接的理由)
 - [x] because of + Noun                 (直接的理由)
 - [x] the reason being                  (というのも)                    <!-- I decided to turn down the job offer. The reason being that, I ... -->
@@ -149,14 +161,19 @@
 - [ ] as a result of ...                (because of)                    <!-- As a result of his ridiculous venture, he is in danger  of going bankrupt. -->
 
 ## OBJECTIVE
+
 - [x] (in order) to                     (のために 一般)                 <!-- In order to keep up its competitiveness in the world, Japan ... -->
 - [x] so                                (するように)                    <!-- Tighten the lid so the food doesn't go bad. -->
 - [ ] so as to                          (のために 堅い)
 - [ ] with a view to doing              (を期待して)                    <!-- A fund was set up with a view to preserving our endangered planet. -->
+
 ## CONCLUSION
+
 - [x] simply put                        (簡単に言うと)                  <!-- Simply put, he doesn't like sports. -->
 - [ ] in a nutshell                     (要約すると)                    <!-- That's it in a nutshell. -->
+
 ## ADDITION
+
 - [x] but at the same time              (と同時にですね)                <!-- Working from home is great. but at the same time, it's king of ... -->
 - [x] whereas                           (一方で)                        <!-- He likes learning from textbooks, whereas I like learning on the job. -->
 - [ ] and the next thing I knew         (次の瞬間)                      <!-- I felt dizzy, and the next thing I knew I was ... -->
@@ -183,7 +200,9 @@
 - [ ] on the second thought             (考え直して)
 - [ ] let alone                         (はなおさらない)                <!-- We can't apply cloning techniques to cattle, let alone human beings. -->
 - [ ] followed by                       (引き続いて さらに)             <!-- Lightning flashed, followed by terribly loud thunder. -->
+
 ## EXTENT
+
 - [x] some more                         (もう少し)                      <!-- I'll think about it some more. -->
 - [x] to the point where ...            (くらいまで)                    <!-- I studied English so much to the point where my dream started being in English. -->
 - [ ] about / around                    (だいたい)
@@ -197,6 +216,7 @@
 - [ ] to my shoulders                   (肩まで)                        <!-- I entered the Ghanges river to my shoulders. -->
 
 ## HOW
+
 - [x] just out of curiosity             (単なる好奇心なのですが)        <!-- Just out of curiosity, why did you come to Japan? -->
 - [x] out of habit                      (くせで)                        <!-- I got the Namboku line out of habit. -->
 - [x] somehow                           (なんとかして)                  <!-- Please estimate the losses by Friday at the latest. I'll manage it somehow. -->
@@ -231,6 +251,7 @@
 - [ ] at the expense of                 (を犠牲にして)                  <!-- He got promoted at the expense of his colleague. -->
 
 # FEELING
+
 - [ ] it goes without saying            (言うまでもないが)              <!-- It goes without saying that the aging of society is inevitable. -->
 - [x] this might be just me             (自分だけかもやけど)            <!-- This might be just me, but don't you think this is a bit too expensive? -->
 - [ ] if you ask me                     (私に言わせてみれば)            <!-- It was a little long, if you ask me. -->
@@ -252,6 +273,7 @@
 # DEGREE
 
 ## GOODNESS
+
 - [ ] great                             (100)
 - [ ] very good                         (90)
 - [ ] really good                       (80)
@@ -263,6 +285,7 @@
 - [x] not bad                           (40)
 
 ## FREQUENCY
+
 - [x] always                            (100)
 - [ ] nearly                            (95)
 - [x] almost always                     (95)
@@ -284,6 +307,7 @@
 - [x] never                             (0)
 
 # TAG
+
 - [x] if I had to guess,                (知らんけど敢えて言うなら)
 - [x] if I'm not mistaken,              (確か 間違っていなければ)
 - [x] ,if that makes sense?             (伝わった？)
