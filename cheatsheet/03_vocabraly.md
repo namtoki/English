@@ -166,6 +166,7 @@
 
 ## OTHERS
 
+- [ ] break apart into                  (まで分解する)
 - [ ] be fond of                        (が大好きである)
 - [ ] funeral                           (葬儀 不幸なこと)
 - [ ] grace                             (品の良さ 恩恵 慈悲)
