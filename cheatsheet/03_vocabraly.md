@@ -168,6 +168,8 @@
 ## OTHERS
 
 - [ ] break apart into                  (まで分解する)
+- [ ] best-in-class                     (最高クラスの)
+- [ ] trepidation                       (不安)
 - [ ] be fond of                        (が大好きである)
 - [ ] funeral                           (葬儀 不幸なこと)
 - [ ] grace                             (品の良さ 恩恵 慈悲)
