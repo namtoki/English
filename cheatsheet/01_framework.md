@@ -1,24 +1,12 @@
 # OPINION
 
-## PAST
-
-- [x] be like                       (と思った 言った)           <!-- I was like "..." -->
-
-## FIND
-
-- [x] I find (O) (C)                (だなぁ)                    <!-- I find it really interesting to study English -->
-
 ## THINK
 
+- [x] be like                       (と思った 言った)           <!-- I was like "..." -->
+- [x] I find (O) (C)                (だなぁ)                    <!-- I find it really interesting to study English -->
 - [x] It's (adj) how (S) (V)        (思う)                      <!-- It's interesting how you said that. -->
 - [x] This is the kind of thing ... (こういうのが...なんだ)     <!-- This is the kind of thing that makes me really happy. -->
 - [x] (O) doing, that's (adj)       (O が do するの adj だ)     <!-- This ramen shop putting whipped cream in soup, that's gross. -->
-- [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
-- [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
-- [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
-
-## FEEL
-
 - [x] It's         like ...         (みたいな感じ)              <!-- It's like surfing on land. -->
 - [x] It's kind of like ...         (みたいな感じ)
 - [x] It's almost  like ...         (ほぼ みたいな感じ)
@@ -26,6 +14,9 @@
 - [x] It feels like (S) (V)         (気がする 客観的)
 - [x] I feel like (noun)            (の気分だ)                  <!-- I feel like Thai food. I don't feel like it. -->
 - [x] I feel like (doing)           (したい気分だ)              <!-- I feel like going out somewhere. -->
+- [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
+- [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
+- [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
 - [ ] I feel like (S) (V)           (気がする 主観的)           <!-- I feel like there is a ton of bricks on my lap. -->
 - [ ] I feel like (noun)            (気がする)                  <!-- I feel like an idiot. -->
 - [ ] I feel (adj)                  (と感じる)                  <!-- I feel bad about canceling. -->

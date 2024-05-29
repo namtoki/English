@@ -8,8 +8,6 @@
 - [x] when it comes to                  (となると)                      <!-- When it comes to the weather, there’s nothing I can do. -->
 - [x] speaking of                       (そういえば)                    <!-- Speaking of summer, where did you go this year? -->
 - [x] personally, in my opinion         (自分の意見としては)
-- [x] from the perspective of           (の観点から)
-- [x] in terms of                       (の点で)
 - [x] like/as I was saying              (さっき言ったように)            <!-- Sorry. As I was saying, the acting was amazing. -->
 - [x] like/as you said                  (あなたが言った通り)
 - [x] off-topic, but                    (話は変わりますが)              <!-- Bit off-topic, but I just finished editing the video. -->
@@ -24,13 +22,15 @@
 - [ ] as to 物                          (に関して言うと)                <!-- discussion as to which university is the best university. -->
 - [ ] talking of                        (そういえば)                    <!-- Talking of soccer, Did you watch the game yesterday? -->
 - [ ] honestly                          (自分の意見としては)
-- [ ] from my point of view             (自分の意見としては)
 - [ ] to begin with                     (そもそも まず第一に)           <!-- To begin with, its theme is obscure. -->
 - [ ] above all                         (何よりもまず)                  <!-- Above all, scientific terms call for precise definitions. -->
 - [ ] at the thought of                 (のことを考えると)              <!-- I tremble with fear at the thought of an injection. -->
 
 ## RANGE
 
+- [x] from my point of view             (自分の意見としては)
+- [x] from the perspective of           (の観点から)
+- [x] in terms of                       (の点で)
 - [x] most                              (ほとんどの)                    <!-- most people like it. -->
 - [x] almost all                        (ほぼすべての)                  <!-- almost all Japanese -->
 - [x] a bunch of ...                    (たくさんの)                    <!-- A bunch of other companies are imitating our excellent methods. -->
@@ -67,24 +67,23 @@
 
 ## TIME (COMMON)
 
-- [x] every ...                         (ごとに)                        <!-- The vehicles are inspected for defects every three months. -->
-- [x] every other day                   (隔日で)
-- [x] for N (time)s                     (の間)                          <!-- I've been working for the company for 6 months. -->
-- [ ] the entire week                   (1 週間ずっと)
-- [x] for half a year                   (半年)                          <!-- I'll be living here for half a year. -->
-- [ ] on and off                        (断続的に)
-- [ ] on Sunday                         (曜日に)
-- [ ] on ... days                       (な日に)                        <!-- I don't close this door on hot days. -->
+- [x] on Sunday                         (曜日に)
 - [x] on the weekend                    (週末に)
 - [x] over the weekend                  (週末の間に)
-- [ ] bright and early                  (朝早くに)                      <!-- The store opens at 8 a.m. tomorrow, so you can get your hands on the product bright and early. -->
-- [ ] in the early morning              (早朝に)
+- [x] on ... days                       (な日に)                        <!-- I don't close this door on hot days. -->
+- [x] for N (time)s                     (の間)                          <!-- I've been working for the company for 6 months. -->
+- [x] for half a year                   (半年)                          <!-- I'll be living here for half a year. -->
+- [x] every ...                         (ごとに)                        <!-- The vehicles are inspected for defects every three months. -->
+- [x] every other day                   (隔日で)
+- [x] on and off                        (断続的に)
+- [x] bright and early                  (朝早くに)                      <!-- you can get your hands on the product bright and early. -->
+- [x] in the early morning              (早朝に)
 - [x] in the morning                    (午前に)
-- [ ] in the mid-morning                (正午より少し前)
+- [x] in the mid-morning                (正午より少し前)
 - [x] at noon                           (正午に)                        <!-- I'll be back on Monday at noon. -->
 - [x] in the afternoon                  (午後に)
-- [ ] in the early evening              (夕方に)
-- [ ] in the evening                    (日没後に)
+- [x] in the early evening              (夕方に)
+- [x] in the evening                    (日没後に)
 - [x] at night                          (夜に)
 - [x] at dawn                           (夜明けに)
 - [x] tens of minutes                   (数十分)
@@ -94,6 +93,7 @@
 - [ ] afterwards                        (そのあとに)                    <!-- We’ll grab dinner and go to karaoke afterward(s). -->
 - [ ] by now                            (もう)                          <!-- You must be hungry by now. -->
 - [ ] throughout                        (の間中)                        <!-- We plan to celebrate our victory throughout the night. -->
+- [ ] the entire week                   (1 週間ずっと)
 
 ## TIME (PAST)
 
