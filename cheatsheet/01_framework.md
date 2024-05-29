@@ -10,8 +10,9 @@
 
 ## THINK
 
-- [x] It's ... how ...              (思う)                      <!-- It's interesting how you said that. -->
+- [x] It's (adj) how (S) (V)        (思う)                      <!-- It's interesting how you said that. -->
 - [x] This is the kind of thing ... (こういうのが...なんだ)     <!-- This is the kind of thing that makes me really happy. -->
+- [x] (O) doing, that's (adj)       (O が do するの adj だ)     <!-- This ramen shop putting whipped cream in soup, that's gross. -->
 - [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
 - [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
 - [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
@@ -76,6 +77,7 @@
 
 - [x] would                         (そうなったら .. と思う)    <!-- I would be too nervous. / That would be awesome. -->
 - [x] I would                       (私なら ... する)           <!-- I would go, if I were you. -->
+- [x] (O) doing, that'd be (adj)    (O が do したら adj だ)     <!-- A Starbucks opening right next to my apartment, that'd be amazing. -->
 - [ ] was/were supposed to ...      (するべきだった)            <!-- She was supposed to say yes. -->
 - [ ] I wish                        (だったらよかったのに)      <!-- I wish I spoke French. -->
 - [ ] I hope                        (だといいな)                <!-- I hope it doesn't rain. -->
@@ -188,6 +190,7 @@
 ## FACT
 
 - [x] It takes ... N (time)s        (かかる)                    <!-- It takes her 25 minutes to walk to work. -->
+- [x] (O) gets (S) doing            (O で S は do しちゃう)     <!-- This song always gets me feeling some type of way. -->
 - [ ] be supposed to ...            (するものだ)                <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->
 - [ ] be supposed to ...            (らしい)                    <!-- Dolphins are supposed to be intelligent. -->
 - [ ] It's a custom to ...          (する習慣だ)                <!-- It's a custom to take off your shoes before entering ... -->

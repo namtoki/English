@@ -2,6 +2,7 @@
 
 ## USEFUL
 
+- [x] (O) doing                         (... が do すること)    <!-- My dog barking like that is a bit weird. -->
 - [x] the thing that                    (するもの)              <!-- The thing that you use to see the stars. -->
 - [x] what I meant                      (言いたかったこと)      <!-- What I meant was, you should do it carefully. -->
 - [x] such things                       (そのようなもの)        <!-- C++ has plenty of such things! -->
