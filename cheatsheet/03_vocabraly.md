@@ -42,6 +42,8 @@
 - [x] think nothing of                  (なんとも思わない)
 - [ ] I'm getting (adj)                 (adj になってきた)      <!-- I'm getting tired of them. -->
 - [ ] pity                              (残念なこと 哀れみ)
+- [ ] go do                             (do しにいく)           <!-- Do you want to go have lunch? -->
+- [ ] come do                           (do しに来る)           <!-- I wish my girlfriend would come see me. -->
 
 ## FEATURE / PARTS
 

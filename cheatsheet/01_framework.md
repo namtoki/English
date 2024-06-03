@@ -14,6 +14,7 @@
 - [x] It feels like (S) (V)         (気がする 客観的)
 - [x] I feel like (noun)            (の気分だ)                  <!-- I feel like Thai food. I don't feel like it. -->
 - [x] I feel like (doing)           (したい気分だ)              <!-- I feel like going out somewhere. -->
+- [x] (It) turns out (that) ...     (結局...だとわかった)       <!-- Turns out my five-year-old daughter already knows Santa doesn't exist. -->
 - [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
 - [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
 - [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
@@ -152,6 +153,7 @@
 - [x] It's been a while since       (ぶりだ)                    <!-- It's been a while since I've swung a tennis racket. -->
 - [x] I remember                    (懐かしい)                  <!-- I remember that trip! -->
 - [x] This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
+- [x] find myself doing             (気付いたらdoしてる)        <!-- I often find myself keeping an eye on the stock market. -->
 - [ ] always                        (普段は ... する)           <!-- In my family, we always eat turkey on ... -->
 - [ ] usually end up ... ing        (普段は ... する)           <!-- I usually end up getting fast food. (ついついしちゃう) -->
 - [ ] It's been a long time since   (ぶりだ)
