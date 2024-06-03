@@ -1,41 +1,45 @@
 # VOCABRALY
 
+## BASIC VERB
+
+- [x] break apart into                  (まで分解する)
+- [x] come across                       (遭遇する)              <!-- I came across this information on the internet. -->
+- [x] come after                        (文章が続く)            <!-- what comes after that has to be -ing like "My hobby is taking pictures." -->
+- [x] come clean (= confess)            (正直に述べる)          <!-- OK. I'll come clean. -->
+- [x] come close to ... ing             (危うくしそうになる)    <!-- The ambulance went out of control and came close to running over a pedestrian. -->
+- [x] come in handy                     (役に立つ)              <!-- This tool comes in handy, so I always keep it close at hand. -->
+- [x] come up with                      (考え出す)              <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
+- [x] get to                            (通う 着く)             <!-- We live in Kamioka so Yokohama is easy to get to. = access-->
+- [x] have little to do with ...        (とほとんど関係がない)
+- [x] have much to do with ...          (と大いに関係がある)
+- [x] have nothing to do with ...       (と関係がない)
+- [x] have something to do with ...     (と何らかの関係がある)  <!-- Innovation has something to do with the ability to notice unusual phenomena. -->
+- [x] turn out                          (という結果となる)      <!-- Take it easy. I can assure you that everything will turn out fine. -->
+- [x] turn out                          (と判明する)            <!-- It turned out to be true. -->
+
 ## USEFUL
 
 - [x] (O) doing                         (... が do すること)    <!-- My dog barking like that is a bit weird. -->
 - [x] the thing that                    (するもの)              <!-- The thing that you use to see the stars. -->
 - [x] what I meant                      (言いたかったこと)      <!-- What I meant was, you should do it carefully. -->
 - [x] such things                       (そのようなもの)        <!-- C++ has plenty of such things! -->
-- [ ] the right thing to do             (正しいこと)            <!-- We've decided to buy an electric car because it's the right thing to do for the environment. -->
-- [ ] the best                          (一番のもの)            <!-- That show is the best! -->
-- [ ] something else                    (格別なもの)            <!-- That dinner was something else! -->
-- [ ] downer                            (がっかりなもの)        <!-- The news is a bit of a downer. -->
-- [ ] the only thing                    (唯一良くないもの)      <!-- It was great! The only thing was the food. -->
-- [ ] some of the things                (いくつかのもの)        <!-- What are some of the things that you can say when you don't understand something? -->
+- [x] something else                    (格別なもの)            <!-- That dinner was something else! -->
+- [x] the only thing                    (唯一良くないもの)      <!-- It was great! The only thing was the food. -->
 - [x] the most commonly accepted way    (一番自然な表現)        <!-- but the most commonly accepted way is the -ing. -->
-- [ ] one of those days                 (最悪の日)
 - [x] the very first question           (一番最初の質問)        <!-- the very first question is the use of ..." -->
 - [x] A out of B                        (B 中 A)                <!-- We have watched 4 out of 5 seasons. -->
+- [ ] the right thing to do             (正しいこと)            <!-- it's the right thing to do for the environment. -->
+- [ ] the best                          (一番のもの)            <!-- That show is the best! -->
+- [ ] downer                            (がっかりなもの)        <!-- The news is a bit of a downer. -->
+- [ ] some of the things                (いくつかのもの)        <!-- What are some of the things that you can say when you don't understand something? -->
+- [ ] one of those days                 (最悪の日)
 - [ ] see to                            (きちんと する)         <!-- I'll see to it. -->
 - [ ] firm                              (堅い 固定した 確固たる)<!-- a firm decision -->
 - [x] let A know                        (A に知らせる)          <!-- I must let my wife know when I'll be home. -->
-- [x] get to                            (通う 着く)             <!-- We live in Kamioka so Yokohama is easy to get to. = access-->
-- [x] come across                       (遭遇する)              <!-- I came across this information on the internet. -->
-- [x] come after                        (文章が続く)            <!-- what comes after that has to be -ing like "My hobby is taking pictures." -->
-- [x] come clean (= confess)            (正直に述べる)          <!-- OK. I'll come clean. -->
-- [x] come up with                      (考え出す)              <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
-- [x] come close to ... ing             (危うくしそうになる)    <!-- The ambulance went out of control and came close to running over a pedestrian. -->
-- [x] come in handy                     (役に立つ)              <!-- This tool comes in handy, so I always keep it close at hand. -->
-- [ ] turn out                          (という結果となる)      <!-- Take it easy. I can assure you that everything will turn out fine. -->
-- [ ] turn out                          (と判明する)            <!-- It turned out to be true. -->
 - [x] watch out (for)                   (気を付ける)            <!-- You need to watch out for wildlife that may appear unexpectedly. -->
 - [x] work for                          (で勤めている)          <!-- My current company is the fourth company I've worked for. -->
 - [x] work for 人                       (都合がよい)            <!-- That doesn't work for my wife. -->
 - [x] work on                           (改善する 取り組む)     <!-- I need to work on being more punctual. -->
-- [x] have something to do with ...     (と何らかの関係がある)  <!-- Innovation has something to do with the ability to notice unusual phenomena. -->
-- [x] have nothing to do with ...       (と関係がない)
-- [x] have much to do with ...          (と大いに関係がある)
-- [x] have little to do with ...        (とほとんど関係がない)
 - [ ] be for                            (合う)                  <!-- That job wasn't for me. -->
 - [x] have a lot in common              (共通点が多い)          <!-- As a rule, twins have a lot in common. -->
 - [x] think much of                     (高く評価する)          <!-- Bob likes cartoons, but I don't think much of them. -->
@@ -44,6 +48,7 @@
 - [ ] pity                              (残念なこと 哀れみ)
 - [ ] go do                             (do しにいく)           <!-- Do you want to go have lunch? -->
 - [ ] come do                           (do しに来る)           <!-- I wish my girlfriend would come see me. -->
+- [x] it's up in the air whether ..     (決まっていない)        <!-- It's up in the air whether the game will be called off or not. -->
 
 ## FEATURE / PARTS
 
@@ -127,6 +132,7 @@
 - [x] pickled plum                      (梅)
 - [x] pickled ginger                    (紅ショウガ)
 - [x] baked goods                       (総菜パン)
+- [x] sea urchin                        (うに)
 - [ ] pastry                            (パン菓子)
 - [ ] utensil                           (調理器具)
 - [ ] appliance                         (調理器具 w/ 電源)
@@ -169,7 +175,6 @@
 
 ## OTHERS
 
-- [ ] break apart into                  (まで分解する)
 - [ ] best-in-class                     (最高クラスの)
 - [ ] trepidation                       (不安)
 - [ ] be fond of                        (が大好きである)
@@ -586,7 +591,6 @@
 - [x] in fashion                        (流行っている)          <!-- This type of hairdo is in fashion now among young women. -->
 - [x] intense                           (激しい 暑 光 痛 感情)  <!-- Lauren sought shelter from the intense heat of the midday sun. -->
 - [x] intolerant                        (不寛容な)              <!-- Some older people are intolerant when it comes to people eating on the train. -->
-- [x] it's up in the air whether ..     (決まっていない)        <!-- It's up in the air whether the game will be called off or not. -->
 - [x] keep up/pace with                 (遅れずに付いてく)      <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
 - [x] moderate                          (中 適度の 節度のある)  <!-- a moderate temperature -->
 - [x] modest                            (小 控えめ 謙虚な)      <!-- a modest increase in price -->
