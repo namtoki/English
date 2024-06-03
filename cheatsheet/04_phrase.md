@@ -2,32 +2,32 @@
 
 - [x] Do you have a minute/second?  (今いい？)
 - [x] Is this a good time?          (今いい？)
-- [ ] Do you have time?             (今いい？)
-- [ ] Can I borrow you for a second?(今いい？)
-- [ ] Can I borrow you for a minute?(今いい？)
+- [x] Do you have time?             (今いい？)
+- [x] Can I borrow you for a second?(今いい？)
+- [x] Can I borrow you for a minute?(今いい？)
+- [x] Can you give me a hand?       (手伝ってくれる？)
 - [x] What are you up to?           (今何してんの？)
+- [x] How's your day going?         (今日はどうだった？)
 - [x] Is everything all right?      (大丈夫？)
-- [ ] You know what?                (そうだ！)                  <!-- You know what? I'm going to get an ice cream cone. -->
 - [x] I know!                       (そうだ！)                  <!-- I know! Let's go bowling. -->
 - [x] It's been a while.            (久しぶり)
-- [ ] long time no see.             (久しぶり)                  <!-- Hey Bob, long time no see. What's new? -->
-- [ ] It's been a month since       (久しぶり)                  <!-- It's been a month since we met the last time. -->
-- [ ] I haven't seen you in         (...ぶり)                   <!-- I haven't seen you in a month. -->
 - [x] Did you hear                  (聞いた？)                  <!-- Did you hear about Kim? She got promoted. -->
 - [x] Do you remember that .. ?     (覚えてる？)                <!-- Do you remember that bike at ABC Departmment Store? -->
 - [x] I told you ..., right?        (と言ったと思うんだけど)    <!-- I told you about my dad, right? -->
 - [x] I remember you ...            (と記憶しているんだけど)    <!-- I remember you went there last year. -->
 - [x] I understand that ...         (と聞いています)            <!-- I understand that you speak a little English. -->
+- [x] Let me ask you ...            (聞かせて)                  <!-- Let me ask you your honest opinion. -->
+- [ ] You know what?                (そうだ！)                  <!-- You know what? I'm going to get an ice cream cone. -->
+- [ ] long time no see.             (久しぶり)                  <!-- Hey Bob, long time no see. What's new? -->
+- [ ] It's been a month since       (久しぶり)                  <!-- It's been a month since we met the last time. -->
+- [ ] I haven't seen you in         (...ぶり)                   <!-- I haven't seen you in a month. -->
 - [ ] You know what ... ?           (なんだと思う？)
 - [ ] Guess what ... ?              (なんだと思う？)
 - [ ] I'm thinking about ...        (しようと思っているんだけど)<!-- I'm thinking about retiring and going to Thailand this year. -->
 - [ ] I was thinking.               (考えていたんだけど)        <!-- I was thinking. Let's take a short trip. -->
-- [x] How's your day going?         (今日はどうだった？)
 - [ ] I'd like to ask you a favor.  (頼みがあるの)
-- [x] Let me ask you ...            (聞かせて)                  <!-- Let me ask you your honest opinion. -->
 - [ ] Don't get me wrong.           (誤解しないでね)
 - [ ] You might wonder ...          (と思うかもしれません)      <!-- You might wonder why that is so. -->
-- [x] Can you give me a hand?       (手伝ってくれる？)
 
 # REACTION
 
@@ -40,7 +40,6 @@
 - [x] I know what you mean.         (私もそう思う)
 - [x] I know, right?                (だよね)
 - [x] I see (what you mean).        (なるほど)
-- [x] I'm in the middle of something(今手が離せない)
 - [x] I've been there.              (わかる)
 - [x] Lucky you!                    (いいなぁ)
 - [x] Neither do I                  (私もそう)
@@ -53,6 +52,7 @@
 - [x] That would be great.          (そうしていただけると嬉しい)
 - [x] You flatter me.               (お世辞でも嬉しいです)
 - [x] that ... ?                    (そんなに ...？)            <!-- Wow! That good? -->
+- [ ] I'm in the middle of something(今手が離せない)
 - [ ] Been there done that          (やったことあるけど、もういい (飽きた))
 - [ ] Do you want me to ... ?       (... させるつもり？)        <!-- Do you want me to lose my job? -->
 - [ ] I believe you                 (わかったよ)
