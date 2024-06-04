@@ -4,7 +4,9 @@
 
 - [x] be like                       (と思った 言った)           <!-- I was like "..." -->
 - [x] I find (O) (C)                (だなぁ)                    <!-- I find it really interesting to study English -->
-- [x] It's (adj) how (S) (V)        (思う)                      <!-- It's interesting how you said that. -->
+- [x] I'd say (S) (V)               (なんじゃないかなぁ)        <!-- I'd say it's usually more art than science. -->
+- [x] I would've thought (S) (V)    (だと思っていた)            <!-- I would've thought that he'd hate dancing at a club. -->
+- [x] It's (adj) how (S) (V)        (adj と思う)                <!-- It's interesting how you said that. -->
 - [x] This is the kind of thing ... (こういうのが...なんだ)     <!-- This is the kind of thing that makes me really happy. -->
 - [x] (O) doing, that's (adj)       (O が do するの adj だ)     <!-- This ramen shop putting whipped cream in soup, that's gross. -->
 - [x] It's         like ...         (みたいな感じ)              <!-- It's like surfing on land. -->
@@ -78,6 +80,8 @@
 
 ## SHOULD
 
+- [x] I say ...                     (したほうがいい)            <!-- I say it's time you force the issue. -->
+- [x] I'd (V)                       (自分なら V する)           <!-- I'd ask Tom. -->
 - [x] be better off (noun / ing)    (のほうがいい)              <!-- You're better off starting from the beginning than trying ... -->
 - [x] should                        (したほうがいい)            <!-- We should ask first. -->
 - [x] (might) want to               (してみてよ してごらん)     <!-- You want to pull your fingers in like this. -->
