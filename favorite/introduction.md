@@ -1,6 +1,6 @@
 # Introduction
 
-## https://www.youtube.com/watch?v=F9sQPpVVLeQ&t=53s
+## <https://www.youtube.com/watch?v=F9sQPpVVLeQ&t=53s>
 
 **Has this sort of thing ever happened to you?**
 
@@ -38,3 +38,6 @@ You can self-host containerized applications and environments in your machine
 **so** you can spin up new work spaces like no problem whatsoever.
 
 Seriously check this out.
+I have a dockerized rails environment that **let's just say** was set up for my client's codebase.
+If I open this environment, I can access everything I need from here.
+I can open up VScode if I want to and just be thrust right into the environment for my client

@@ -315,3 +315,4 @@
 - [x] ,you know what I mean?            (伝わった？)
 - [x] ,or not really?                   (それとも違う？)                <!-- Do you like this kind of music, or not really? -->
 - [ ] ,or what?                         (それとも違う？)                <!-- Are we gonna have fun or what? -->
+- [ ] let's just say                    (とりま...とだけ言っておくよ)   <!-- The environment that let's just say was set up for my ... -->
