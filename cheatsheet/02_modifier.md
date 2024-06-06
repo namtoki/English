@@ -130,6 +130,8 @@
 - [ ] high-key                          (本当に)                        <!-- I high-key cannot stand when my roommate sings in the shower. -->
 - [ ] like ...                          (約)                            <!-- There were only like thirty people there. -->
 - [x] kind of ...                       (なんとなく少し)                <!-- I'm kind of hungry. -->
+- [x] more of ...                       (どちらかと言うと)              <!-- I think he is more of an entertainer. -->
+- [x] more like ... (than)              (みたいな感じ)                  <!-- Dogs are more like friends than pets. -->
 - [x] low-key ...                       (なんとなく少し)                <!-- I’m low-key in love with my study partner’s new cologne. -->
 - [ ] some kind of ...                  (なにか)                        <!-- born with some kind of special talent. / some kind of sport -->
 - [x] ... like                          (とか)                          <!-- Things like party hats, paper plates and napkins. -->

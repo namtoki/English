@@ -17,6 +17,7 @@
 - [x] I feel like (noun)            (の気分だ)                  <!-- I feel like Thai food. I don't feel like it. -->
 - [x] I feel like (doing)           (したい気分だ)              <!-- I feel like going out somewhere. -->
 - [x] (It) turns out (that) ...     (結局...だとわかった)       <!-- Turns out my five-year-old daughter already knows Santa doesn't exist. -->
+- [x] It could be that (S) (V)      (なのかもしれない)          <!-- It could be that Wayne's just naturally fit, but ,,, -->
 - [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
 - [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
 - [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
@@ -49,6 +50,7 @@
 - [x] It's not  like (S) (V)        (別に...というわけではない)
 - [x] It's just that (S) (V)        (なだけ)
 - [x] It's more like (S) (V)        (どちらかというと)
+- [x] You'd think (that) (S) (V)    (と思うだろうけど、)        <!-- You'd think Japan would be really technologically advanced, but ,,, -->
 - [ ] I didn't mean it.             (そんなつもりじゃなかった)
 - [ ] I was just saying             (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
 - [ ] I'm just trying to            (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
