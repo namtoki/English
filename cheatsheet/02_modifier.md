@@ -3,10 +3,10 @@
 ## TOPIC
 
 - [x] first/most of all                 (何よりもまず)                  <!-- First of all, learn the formula by heart. -->
-- [x] in doing                          (するときは)                    <!-- In making a decision, I rely not on logic but on insinct. -->
+- [x] in doing                          (するときは)                    <!-- In making a decision, I rely not on logic but on instinct. -->
 - [x] regarding                         (に関して言うと)                <!-- Regarding the subject above -->
 - [x] when it comes to                  (となると)                      <!-- When it comes to the weather, there’s nothing I can do. -->
-- [x] speaking of                       (そういえば)                    <!-- Speaking of summer, where did you go this year? -->
+- [x] speaking of which/(N)             (そういえば)                    <!-- Speaking of summer, where did you go this year? -->
 - [x] personally, in my opinion         (自分の意見としては)
 - [x] like/as I was saying              (さっき言ったように)            <!-- Sorry. As I was saying, the acting was amazing. -->
 - [x] like/as you said                  (あなたが言った通り)
@@ -90,8 +90,8 @@
 - [x] just before ...                   (のちょっと前に)                <!-- I will get home sometime just before 9pm. -->
 - [x] just after ...                    (のちょっと後に)                <!-- I will go abroad sometime just after Golden Week. -->
 - [x] meanwhile                         (それまでの間)                  <!-- We can go out tomorrow, meanwhile I'll teach you how to play bridge. -->
-- [ ] afterwards                        (そのあとに)                    <!-- We’ll grab dinner and go to karaoke afterward(s). -->
-- [ ] by now                            (もう)                          <!-- You must be hungry by now. -->
+- [x] afterwards                        (そのあとに)                    <!-- We’ll grab dinner and go to karaoke afterward(s). -->
+- [x] by now                            (もう)                          <!-- You must be hungry by now. -->
 - [ ] throughout                        (の間中)                        <!-- We plan to celebrate our victory throughout the night. -->
 - [ ] the entire week                   (1 週間ずっと)
 
@@ -100,13 +100,13 @@
 - [x] every time ...                    (するときはいつも)              <!-- Every time you make them, they are perfect. -->
 - [x] in the middle of                  (の真っ最中に)                  <!-- He fell asleep in the middle of the sales meeting. -->
 - [x] (just) the other day              ((つい) こないだ)               <!-- I went there just the other day! -->
-- [ ] toward the end of ...             (の終盤に)                      <!-- TAIRA no Koremori was a samurai who lived towards the end of the Heian period. -->
 - [x] so far                            (今のところは)                  <!-- So far I’m having a blast. The town is wonderful. -->
 - [x] for the moment                    (とりあえず)                    <!-- I will make it do for the moment. -->
-- [ ] after a while                     (しばらくして)                  <!-- He fainted with hunger and fatigue, but came to after a while. -->
 - [x] now that                          (今や)                          <!-- Now that things are better, we should talk about the problem. -->
-- [ ] for the first time in             (ぶりに)                        <!-- I'm going to Hawaii for the first time in 1 year. -->
-- [ ] in the course of                  (の過程で)                      <!-- In the course of its economic development, Japan has ... -->
+- [x] in the course of                  (の過程で)                      <!-- In the course of its economic development, Japan has ... -->
+- [x] for the first time in             (ぶりに)                        <!-- I'm going to Hawaii for the first time in 1 year. -->
+- [ ] after a while                     (しばらくして)                  <!-- He fainted with hunger and fatigue, but came to after a while. -->
+- [ ] toward the end of ...             (の終盤に)                      <!-- He was a samurai who lived towards the end of the Heian period. -->
 
 ## LOCATION
 
