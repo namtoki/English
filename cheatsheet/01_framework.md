@@ -36,6 +36,8 @@
 - [x] be less likely to             (あまりしそうにない)        <!-- It's less likely to get broken. -->
 - [x] be a low/little chance of     (する確率は低い)            <!-- There's a low chance of rain tonight. -->
 - [x] chances are (that) ...        (たぶん ... だ)             <!-- It's foggy. But chances are it'll clear up later on. -->
+- [x] (A) doesn't have as much (B) as (C) (A は C ほどは B はない)  <!-- He doesn't have as much experience as the other candidates. -->
+- [x] (A) doesn't have as many (B) as (C) (A は C ほどは B はない)  <!-- We don't have as many poeple in our team as we did last year. -->
 
 ## SURE
 
@@ -50,6 +52,7 @@
 - [x] It's not  like (S) (V)        (別に...というわけではない)
 - [x] It's just that (S) (V)        (なだけ)
 - [x] It's more like (S) (V)        (どちらかというと)
+- [x] It's more that (S) (V)        (どちらかというと)
 - [x] You'd think (that) (S) (V)    (と思うだろうけど、)        <!-- You'd think Japan would be really technologically advanced, but ,,, -->
 - [ ] I didn't mean it.             (そんなつもりじゃなかった)
 - [ ] I was just saying             (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
