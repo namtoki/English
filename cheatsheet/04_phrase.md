@@ -151,10 +151,10 @@
 - [x] Would it sound .. if I said ..(と言ったら..ですか？)      <!-- Would it sound a little bit weird if I said ... -->
 - [x] Could you say that again?     (もう一度言って？)          <!-- Could you say that more simply, please? -->
 - [x] Is ... the same as ...?       (は ... と同じですか？)
+- [x] Do you have the time?         (今何時？)
 - [ ] Are you ...ing?               (するつもり？)              <!-- Are you going to Tokyo or New York next week? -->
 - [ ] Do you know anyone            (知り合いがいますか？)      <!-- Do you know anyone in New York? -->
 - [ ] (By) When ... ?               (いつまでに？)              <!-- (By) When do I have to finish this? -->
-- [ ] Do you have the time?         (今何時？)
 - [ ] What ...                      (どんな, どこの？)          <!-- What racket do you use? -->
 - [ ] What's better                 (どっちがいい？)
 - [ ] How do you say .. in English? (どう表現する？)
@@ -169,7 +169,6 @@
 - [ ] I can't see                   (見えない)                  <!-- I can't see you/the material/the notes. -->
 - [ ] Could you make ... bigger?    (大きくして)                <!-- Could you make the material/notes bigger? -->
 - [ ] Could you type it in the chat (文字にして)
-- [ ] Hang in there                 (頑張って)
 
 # CLICHE
 
@@ -179,9 +178,10 @@
 - [x] I'm a stranger here           (ここは初めてなんです)
 - [x] bless you                     (お大事に くしゃみに対して)
 - [x] Nothing personal.             (悪く思わないでね)
-- [ ] It's on me.                   (おごりです)
-- [ ] Keep the change               (おつりはいりません)
+- [x] It's on me.                   (おごりです)
+- [x] Keep the change               (おつりはいりません)
+- [x] That's how it is.             (そういうもんです)
 - [ ] There's nothing we can do about it (仕方ない)
 - [ ] Should you have any questions (もしご質問があれば)
 - [ ] Look no further than          (で決まりです)
-- [ ] That's how it is.             (そういうもんです)
+- [ ] Hang in there                 (頑張って)
