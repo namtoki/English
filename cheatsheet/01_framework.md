@@ -8,6 +8,7 @@
 - [x] I would've thought (S) (V)    (だと思っていた)            <!-- I would've thought that he'd hate dancing at a club. -->
 - [x] It's (adj) how (S) (V)        (adj と思う)                <!-- It's interesting how you said that. -->
 - [x] This is the kind of thing ... (こういうのが...なんだ)     <!-- This is the kind of thing that makes me really happy. -->
+- [x] This is something (S) (V)     (これは...なものです)       <!-- This is something a lot of people don't consider. -->
 - [x] (O) doing, that's (adj)       (O が do するの adj だ)     <!-- This ramen shop putting whipped cream in soup, that's gross. -->
 - [x] It's         like ...         (みたいな感じ)              <!-- It's like surfing on land. -->
 - [x] It's kind of like ...         (みたいな感じ)
@@ -18,6 +19,7 @@
 - [x] I feel like (doing)           (したい気分だ)              <!-- I feel like going out somewhere. -->
 - [x] (It) turns out (that) ...     (結局...だとわかった)       <!-- Turns out my five-year-old daughter already knows Santa doesn't exist. -->
 - [x] It could be that (S) (V)      (なのかもしれない)          <!-- It could be that Wayne's just naturally fit, but ,,, -->
+- [x] (S) that I think (C)          (私が C だと思う S)         <!-- A movie that I think is a classic example of a mafia film is The Godfather. -->
 - [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
 - [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
 - [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->

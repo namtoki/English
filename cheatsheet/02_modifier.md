@@ -180,7 +180,7 @@
 - [x] whereas                           (一方で)                        <!-- He likes learning from textbooks, whereas I like learning on the job. -->
 - [ ] and the next thing I knew         (次の瞬間)                      <!-- I felt dizzy, and the next thing I knew I was ... -->
 - [x] in that case                      (だったら)                      <!-- In that case, I’ll have a beer. -->
-- [ ] in which case                     (この場合 文語)
+- [ ] in which case                     (この場合 自分の発言に対して)   <!-- Scott might be on vacation, in which case, just touch base with Aaron. -->
 - [x] except for                        (を除いて)                      <!-- The auditorium was empty except for a single piece of furniture. -->
 - [ ] not including                     (を除いて)                      <!-- I work 8 hours not including lunch (含まずに) -->
 - [ ] apart/aside from                  (以外は)                        <!-- This is good apart from the terrible handwriting. -->
@@ -219,18 +219,24 @@
 
 ## HOW
 
+- [x] in a way that                     (な感じで)                      <!-- Some people explain simple things in a way that makes it sound complicated. -->
 - [x] just out of curiosity             (単なる好奇心なのですが)        <!-- Just out of curiosity, why did you come to Japan? -->
 - [x] out of habit                      (くせで)                        <!-- I got the Namboku line out of habit. -->
+- [x] on impulse                        (衝動的に)                      <!-- I'm apt to buy things on impulse whenever something is on sale. -->
 - [x] somehow                           (なんとかして)                  <!-- Please estimate the losses by Friday at the latest. I'll manage it somehow. -->
 - [x] up-front                          (前もって)                      <!-- This hotel requires a cash deposit up-front. -->
 - [x] at the same time                  (同時に)                        <!-- It's hard being the writer and an actor at the same time (両立) -->
-- [ ] on impulse                        (衝動的に)                      <!-- I'm apt to buy things on impulse whenever something is on sale. -->
-- [ ] on purpose                        (わざと)                        <!-- He made a mistake on purpose. -->
+- [x] in a row                          (連続して)                      <!-- the unemployment rate has risen three quarters in a row. -->
+- [x] on purpose                        (わざと)                        <!-- He made a mistake on purpose. -->
+- [x] for the first time                (初めて)                        <!-- Last Saturday, I came here for the first time. -->
+- [x] just in case                      (念のため)                      <!-- I'll write it down just in case. -->
+- [x] for a rainy day                   (念のため)                      <!-- I decided to put some aside for a rainy day. -->
+- [x] barely                            (かろうじて)                    <!-- The minute particles are barely visible to the naked eye. -->
+- [x] in the long run                   (長い目で見れば)                <!-- Bob believes that honesty pays off in the long run. -->
+- [x] at the expense of                 (を犠牲にして)                  <!-- He got promoted at the expense of his colleague. -->
 - [ ] purposely                         (わざと)                        <!-- He purposely didn't say anything. -->
-- [ ] in a row                          (連続して)                      <!-- the unemployment rate has risen three quarters in a row. -->
 - [ ] time and again                    (何度も)                        <!-- The ecologist has warned us time and again. -->
 - [ ] one-off                           (一度限りの)                    <!-- The expense incurred this year to construct the building is a one-off cost. -->
-- [ ] for the first time                (初めて)                        <!-- Last Saturday, I came here for the first time. -->
 - [ ] in advance                        (前もって)
 - [ ] in a rage                         (激怒して)                      <!-- "Turn the faucet off!" mom yelled in a rage. -->
 - [ ] in earnest                        (真面目に)                      <!-- Japan must undertake sweeping deregulation in earnest. -->
@@ -238,39 +244,42 @@
 - [ ] on behalf of ...                  (の代わりに)                    <!-- I thank you on behalf of my husband. -->
 - [ ] in place of ...                   (の代わりに)                    <!-- I used Knox’s PC in place of mine today. -->
 - [ ] for the (fun | joy) of it         (趣味として)                    <!-- I just cook for the fun of it. -->
-- [ ] just in case                      (念のため)                      <!-- I'll write it down just in case. -->
-- [ ] for a rainy day                   (念のため)                      <!-- I decided to put some aside for a rainy day. -->
 - [ ] to ...'s heart's content          (思う存分)                      <!-- The aristocrats abused their privileges to their hearts' content. -->
 - [ ] door to door                      (家から〇〇まで)                <!-- It takes me about one hour door to door. -->
 - [ ] by heart                          (暗記で)                        <!-- First of all, learn the formula by heart. / know by heart.-->
-- [ ] barely                            (かろうじて)                    <!-- The minute particles are barely visible to the naked eye. -->
 - [ ] at heart                          (本当は)                        <!-- Since Bob is lazy at heart, he frequently neglects his duties. -->
 - [ ] back and forth                    (行ったり来たり)                <!-- Bob was pacing back and forth along the sidewalk. -->
 - [ ] to and fro                        (あちこちに)                    <!-- I have been traveling to and fro between Canada and the U.K. for years. -->
-- [ ] in the long run                   (長い目で見れば)                <!-- Bob believes that honesty pays off in the long run. -->
 - [ ] in accordance with                (に従って)
 - [ ] around the clock                  (休むことなく)                  <!-- They are working around the clock looking into the cause of the crash. -->
-- [ ] at the expense of                 (を犠牲にして)                  <!-- He got promoted at the expense of his colleague. -->
 
-# FEELING
+# SENTENCE MODIFICATION
 
-- [ ] it goes without saying            (言うまでもないが)              <!-- It goes without saying that the aging of society is inevitable. -->
-- [x] this might be just me             (自分だけかもやけど)            <!-- This might be just me, but don't you think this is a bit too expensive? -->
-- [ ] if you ask me                     (私に言わせてみれば)            <!-- It was a little long, if you ask me. -->
-- [ ] as ... anticipated                (予想していた通り)              <!-- As we anticipated, the unemployment rate has risen .... -->
-- [ ] as it is                          (現状では 残念ながら)           <!-- As it is, ordinary people cannot afford to purchase such luxuries. -->
-- [x] anyway                            (いずれにしても)
-- [x] in any case                       (いずれにしても)                <!-- In any case, the union has to compromise to a certain extent. -->
-- [x] at the end of the day,            (結局のところ)                  <!-- At the end of the day, this is not that important. -->
-- [x] if you think about it             (考え方によっては)              <!-- It's crazy how we can communicate like this if you think about it. -->
+- [x] if I had to guess,                (知らんけど敢えて言うなら)
+- [x] if I'm not mistaken,              (確か 間違っていなければ)
+- [x] ,if that makes sense?             (伝わった？)
+- [x] ,if that works for you            (もしそれが都合が良ければ)
 - [x] if you don't mind                 (よろしければ)
+- [x] ,you know what I mean?            (伝わった？)
+- [x] ,or not really?                   (それとも違う？)                <!-- Do you like this kind of music, or not really? -->
+- [x] this might be just me, but        (自分だけかもやけど)            <!-- This might be just me, but don't you think this is a bit too expensive? -->
+- [x] as ... anticipated,               (予想していた通り)              <!-- As we anticipated, the unemployment rate has risen .... -->
+- [x] as it is,                         (現状では 残念ながら)           <!-- As it is, ordinary people cannot afford to purchase such luxuries. -->
+- [x] anyway,                           (いずれにしても)
+- [x] in any case,                      (いずれにしても)                <!-- In any case, the union has to compromise to a certain extent. -->
+- [x] at the end of the day,            (結局のところ)                  <!-- At the end of the day, this is not that important. -->
+- [x] if you think about it,            (考え方によっては)              <!-- It's crazy how we can communicate like this if you think about it. -->
+- [x] at this point                     (ここまで来たら)                <!-- I'm ready to quit at this point. -->
+- [x] I hope you don't mind ...         (失礼ですが)                    <!-- I hope you don't mind if I eat while we talk. -->
+- [ ] ,or what?                         (それとも違う？)                <!-- Are we gonna have fun or what? -->
+- [ ] let's just say                    (とりま...とだけ言っておくよ)   <!-- The environment that let's just say was set up for my ... -->
+- [ ] it goes without saying that,      (言うまでもないが)              <!-- It goes without saying that the aging of society is inevitable. -->
+- [ ] if you ask me                     (私に言わせてみれば)            <!-- It was a little long, if you ask me. -->
 - [ ] The fact is                       (実は)                          <!-- The fact is, I don't have enough money. -->
-- [ ] at this point                     (ここまで来たら)                <!-- I'm ready to quit at this point. -->
 - [ ] You know as well as I do that     (ご存じかと思いますが)
 - [ ] I don't want to bother you.       (お邪魔はしたくないのですが)
 - [ ] I hope I'm not interrupting you   (お邪魔はしたくないのですが)
 - [ ] no longer                         (もはや ... ではない)           <!-- Japanese men no longer wear their hair in topknots. -->
-- [x] I hope you don't mind ...         (失礼ですが)                    <!-- I hope you don't mind if I eat while we talk. -->
 
 # DEGREE
 
@@ -307,14 +316,3 @@
 - [x] almost never                      (5)
 - [ ] hardly ever                       (5)
 - [x] never                             (0)
-
-# TAG
-
-- [x] if I had to guess,                (知らんけど敢えて言うなら)
-- [x] if I'm not mistaken,              (確か 間違っていなければ)
-- [x] ,if that makes sense?             (伝わった？)
-- [x] ,if that works for you            (もしそれが都合が良ければ)
-- [x] ,you know what I mean?            (伝わった？)
-- [x] ,or not really?                   (それとも違う？)                <!-- Do you like this kind of music, or not really? -->
-- [ ] ,or what?                         (それとも違う？)                <!-- Are we gonna have fun or what? -->
-- [ ] let's just say                    (とりま...とだけ言っておくよ)   <!-- The environment that let's just say was set up for my ... -->
