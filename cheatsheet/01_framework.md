@@ -20,6 +20,8 @@
 - [x] (It) turns out (that) ...     (結局...だとわかった)       <!-- Turns out my five-year-old daughter already knows Santa doesn't exist. -->
 - [x] It could be that (S) (V)      (なのかもしれない)          <!-- It could be that Wayne's just naturally fit, but ,,, -->
 - [x] (S) that I think (C)          (私が C だと思う S)         <!-- A movie that I think is a classic example of a mafia film is The Godfather. -->
+- [x] That I (V)                    (それは V する)             <!-- Yes, we need to spend less money. That I agree with. -->
+- [ ] There're times when (S) (V)   (たまに...なときがある)     <!-- There're times when I crave a Starbucks Frappuccino really badly. -->
 - [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
 - [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
 - [ ] It occurs to me that ...      (ふと思った)                <!-- It occurs to me that I've never asked your name. -->
@@ -55,6 +57,8 @@
 - [x] It's just that (S) (V)        (なだけ)
 - [x] It's more like (S) (V)        (どちらかというと)
 - [x] It's more that (S) (V)        (どちらかというと)
+- [x] It's not the fact that        (別に...だからではない)     <!-- It's not the fact that I find him boring. -->
+- [x] It's not just the fact that   (それは...だからだけではない)<!-- It's not just the fact that you called me during a meeting. -->
 - [x] You'd think (that) (S) (V)    (と思うだろうけど、)        <!-- You'd think Japan would be really technologically advanced, but ,,, -->
 - [ ] I didn't mean it.             (そんなつもりじゃなかった)
 - [ ] I was just saying             (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->

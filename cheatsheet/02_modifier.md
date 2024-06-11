@@ -154,6 +154,7 @@
 - [x] for one thing                     (その理由の一つは)              <!-- I can't put you up. For one thing, my dad drops in on me from time to time.-->
 - [x] That's how ...                    (こうすることで)
 - [x] given that                        (を考慮すると)
+- [x] It's the fact that ...            (それは...だからだ)             <!-- But not because it's so big. It's the fact that it's so diverse. -->
 - [ ] since                             (既出の理由)
 - [ ] as                                (補足的理由)
 - [ ] due to                            (悪い理由)
