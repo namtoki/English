@@ -132,6 +132,7 @@
 - [x] kind of ...                       (なんとなく少し)                <!-- I'm kind of hungry. -->
 - [x] more of ...                       (どちらかと言うと)              <!-- I think he is more of an entertainer. -->
 - [x] more like ... (than)              (みたいな感じ)                  <!-- Dogs are more like friends than pets. -->
+- [x] a bit of ...                      (ちょっと... / なんか...)       <!-- It's a bit of a risk in this environment, isn't it? -->
 - [x] low-key ...                       (なんとなく少し)                <!-- I’m low-key in love with my study partner’s new cologne. -->
 - [ ] some kind of ...                  (なにか)                        <!-- born with some kind of special talent. / some kind of sport -->
 - [x] ... like                          (とか)                          <!-- Things like party hats, paper plates and napkins. -->
@@ -207,7 +208,8 @@
 ## EXTENT
 
 - [x] some more                         (もう少し)                      <!-- I'll think about it some more. -->
-- [x] to the point where ...            (くらいまで)                    <!-- I studied English so much to the point where my dream started being in English. -->
+- [x] to the point where ...            (くらいまで)                    <!-- I studied English to the point where my dream started being in English. -->
+- [x] at all                            (少しでも)                      <!-- Are you interested in politics at all? -->
 - [ ] about / around                    (だいたい)
 - [ ] approximately                     (だいたい)
 - [ ] roughly                           (だいたい)
@@ -217,6 +219,7 @@
 - [ ] somewhat                          (ある程度, いくらか)            <!-- Strictly speaking, his view differs somewhat from mine. -->
 - [x] to (a certain | some) extent      (ある程度, いくらか)            <!-- In any case, the union has to compromise to a certain extent. -->
 - [ ] to my shoulders                   (肩まで)                        <!-- I entered the Ghanges river to my shoulders. -->
+- [x] a whole other ...                 (まったく別の...)               <!-- That's a whole other problem. -->
 
 ## HOW
 

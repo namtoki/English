@@ -60,6 +60,7 @@
 - [x] It's not the fact that        (別に...だからではない)     <!-- It's not the fact that I find him boring. -->
 - [x] It's not just the fact that   (それは...だからだけではない)<!-- It's not just the fact that you called me during a meeting. -->
 - [x] You'd think (that) (S) (V)    (と思うだろうけど、)        <!-- You'd think Japan would be really technologically advanced, but ,,, -->
+- [x] That's not to say (that)      (と言っているわけではない)  <!-- That's not to say that it'll be impossible without it, but,,, -->
 - [ ] I didn't mean it.             (そんなつもりじゃなかった)
 - [ ] I was just saying             (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
 - [ ] I'm just trying to            (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
