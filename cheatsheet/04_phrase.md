@@ -12,6 +12,8 @@
 - [x] I know!                       (そうだ！)                  <!-- I know! Let's go bowling. -->
 - [x] It's been a while.            (久しぶり)
 - [x] Did you hear                  (聞いた？)                  <!-- Did you hear about Kim? She got promoted. -->
+- [x] You know how ... ?            (... じゃん？)              <!-- You know how I've been looking for a new TV for a while? -->
+- [x] You know (O) ... ?            (... あるじゃん？)          <!-- You know those Nike sneakers I was talking about on Friday? -->
 - [x] Do you remember that .. ?     (覚えてる？)                <!-- Do you remember that bike at ABC Departmment Store? -->
 - [x] I told you ..., right?        (と言ったと思うんだけど)    <!-- I told you about my dad, right? -->
 - [x] I remember you ...            (と記憶しているんだけど)    <!-- I remember you went there last year. -->
@@ -105,7 +107,6 @@
 - [ ] Never mind.                   (気にしないで)
 - [ ] It's OK.                      (大丈夫だよ)
 - [ ] Might as well                 (まぁいいよ)
-- [ ] Let me check and I'll get back to you.
 
 # DIVE
 
@@ -121,13 +122,14 @@
 
 # ENDING
 
-- [x] leave it there.               (ここまでにしましょう)
+- [x] Let me check and I'll get back to you.
 - [x] My pleasure                   (どういたしまして)
 - [x] Anytime                       (どういたしまして)
 - [x] That's (about) it.            (以上です)
-- [ ] I'll tell you later.          (また後で連絡する)
-- [ ] I'll let you know.            (わかったら連絡する)
-- [ ] So much for                   (ここまでにしましょう)      <!-- So much for the small talk. Let's get down to business -->
+- [x] I'll tell you later.          (また後で連絡する)
+- [x] I'll let you know.            (わかったら連絡する)
+- [x] So much for                   (ここまでにしましょう)      <!-- So much for the small talk. Let's get down to business -->
+- [x] leave it there.               (ここまでにしましょう)
 - [ ] There you go.                 (その通り)
 - [ ] You bet                       (どういたしまして)
 - [ ] Don't mention it              (どういたしまして)
@@ -174,14 +176,15 @@
 
 - [x] I'll take it.                 (これください)
 - [x] I'll have                     (飲食店 ください)           <!-- I'll have the same as her. -->
-- [x] I can't help it.              (仕方ない)
 - [x] I'm a stranger here           (ここは初めてなんです)
 - [x] bless you                     (お大事に くしゃみに対して)
 - [x] Nothing personal.             (悪く思わないでね)
 - [x] It's on me.                   (おごりです)
 - [x] Keep the change               (おつりはいりません)
 - [x] That's how it is.             (そういうもんです)
-- [ ] There's nothing we can do about it (仕方ない)
+- [x] Thank God ...                 (... で助かった)            <!-- Thank God I brought my charger. -->
+- [x] I can't help it.              (仕方ない)
+- [x] There's nothing we can do about it (仕方ない)
 - [ ] Should you have any questions (もしご質問があれば)
 - [ ] Look no further than          (で決まりです)
 - [ ] Hang in there                 (頑張って)
