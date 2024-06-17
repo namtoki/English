@@ -38,6 +38,7 @@
 - [x] all kinds of ...                  (すべての)                      <!-- I've been eating all kinds of things. -->
 - [x] in every way                      (すべてにおいて)                <!-- That movie was perfect in every way. -->
 - [x] in itself                         (それ自体は)                    <!-- The revolution in itself, bore no fruit, after all. -->
+- [x] A out of B                        (B 中 A)                        <!-- We have watched 4 out of 5 seasons. -->
 - [ ] as a whole                        (100% すべて)                   <!-- The train system in Tokyo is much better than for the country as a whole. -->
 - [ ] on the whole                      (全体的に)                      <!-- On the whole, it was a great trip. -->
 - [ ] all things considered             (全体的にみると)                <!-- All things considered, that was a successful event. -->
@@ -256,6 +257,7 @@
 - [ ] to and fro                        (あちこちに)                    <!-- I have been traveling to and fro between Canada and the U.K. for years. -->
 - [ ] in accordance with                (に従って)
 - [ ] around the clock                  (休むことなく)                  <!-- They are working around the clock looking into the cause of the crash. -->
+- [ ] firm                              (堅い 固定した 確固たる)<!-- a firm decision -->
 
 # SENTENCE MODIFICATION
 

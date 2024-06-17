@@ -75,6 +75,7 @@
 
 - [x] slipped my mind               (ド忘れした)                <!-- Your birthday party completely slipped my mind. -->
 - [x] be a blur                     (覚えていない)              <!-- Last weekend was a blur. -->
+- [x] it's up in the air whether .. (決まっていない)            <!-- It's up in the air whether the game will be called off or not. -->
 - [ ] I can't remember ...          (覚えていない)
 - [ ] I won't know until ...        (までわからない)            <!-- I won't know until Friday. -->
 - [ ] I have to say ...             (と言わざるを得ない)        <!-- I have to say your place is adorable! -->

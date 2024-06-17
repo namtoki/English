@@ -94,6 +94,7 @@
 - [x] I'll take care of it.         (引き受けた)
 - [x] It's up to you.               (好きなほうでいいですよ)
 - [x] That's OK.                    (なんでもないです)
+- [ ] You can ask me ...            (聞いてくれ)                <!-- You can ask me for help anytime. -->
 - [ ] Let me see...                 (ええと, なんだっけ)
 - [ ] what-cha-ma-call-it.          (ええと, なんだっけ)
 - [ ] I don't mind.                 (気にしないよ)
