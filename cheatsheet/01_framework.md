@@ -199,6 +199,7 @@
 ## FACT
 
 - [x] It takes ... N (time)s        (かかる)                    <!-- It takes her 25 minutes to walk to work. -->
+- [x] It takes (V-ing)              (Vすることが必要になる)     <!-- It takes working here for years to know everything inside out like he does. -->
 - [x] (O) gets (S) doing            (O で S は do しちゃう)     <!-- This song always gets me feeling some type of way. -->
 - [ ] be supposed to ...            (するものだ)                <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->
 - [ ] be supposed to ...            (らしい)                    <!-- Dolphins are supposed to be intelligent. -->

@@ -1,11 +1,11 @@
 # VOCABRALY
 
-## BASIC VERB
+## PHRASAL VERB
 
-- [x] break apart into                  (まで分解する)
-- [x] come across                       (遭遇する)              <!-- I came across this information on the internet. -->
+- [x] break apart (into)                (まで分解する)          <!-- They even showed a tendency to break apart into A group and B group. -->
+- [ ] come across                       (遭遇する)              <!-- I came across this information on the internet. -->
 - [x] come after                        (文章が続く)            <!-- what comes after that has to be -ing like "My hobby is taking pictures." -->
-- [x] come clean (= confess)            (正直に述べる)          <!-- OK. I'll come clean. -->
+- [ ] come clean                        (正直に述べる confess)  <!-- OK. I'll come clean. -->
 - [x] come close to ... ing             (危うくしそうになる)    <!-- The ambulance went out of control and came close to running over a pedestrian. -->
 - [x] come in handy                     (役に立つ)              <!-- This tool comes in handy, so I always keep it close at hand. -->
 - [x] come up with                      (考え出す)              <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
@@ -27,6 +27,7 @@
 - [x] the only thing                    (唯一良くないもの)      <!-- It was great! The only thing was the food. -->
 - [x] the most commonly accepted way    (一番自然な表現)        <!-- but the most commonly accepted way is the -ing. -->
 - [x] the very first question           (一番最初の質問)        <!-- the very first question is the use of ..." -->
+- [x] the best (S) can do               (ができる最大限のこと)  <!-- That's the best we can say at this point in time. -->
 - [x] A out of B                        (B 中 A)                <!-- We have watched 4 out of 5 seasons. -->
 - [ ] the right thing to do             (正しいこと)            <!-- it's the right thing to do for the environment. -->
 - [ ] the best                          (一番のもの)            <!-- That show is the best! -->

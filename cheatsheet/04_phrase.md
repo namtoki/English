@@ -154,6 +154,7 @@
 - [x] Could you say that again?     (もう一度言って？)          <!-- Could you say that more simply, please? -->
 - [x] Is ... the same as ...?       (は ... と同じですか？)
 - [x] Do you have the time?         (今何時？)
+- [x] What can (S) do that ...      (... のためにSは何ができるだろう)<!-- What can I do that will make me a more well-rounded basketball player? -->
 - [ ] Are you ...ing?               (するつもり？)              <!-- Are you going to Tokyo or New York next week? -->
 - [ ] Do you know anyone            (知り合いがいますか？)      <!-- Do you know anyone in New York? -->
 - [ ] (By) When ... ?               (いつまでに？)              <!-- (By) When do I have to finish this? -->
