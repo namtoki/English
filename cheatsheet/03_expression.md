@@ -178,7 +178,6 @@
 - [ ] clearing up                       (晴れてきた)            <!-- It's clearing up. -->
 - [ ] clothe                            (着せる)                <!-- She clothed her naked baby. -->
 - [ ] clumsy                            (ドジな)                <!-- Dave is fat and clumsy. When he leaped over the shallow stream, he stumbled and twisted his ankle. -->
-- [ ] coal                              (石炭)
 - [ ] cold                              (寒い)
 - [ ] comb                              (くし)
 - [ ] come along                        (うまくいく)            <!-- It's coming along. -->
@@ -203,7 +202,6 @@
 - [ ] correct                           (*    基準に合う)       <!-- The correct answer to the math problem is 25. -->
 - [ ] count on                          (頼る)                  <!-- I'm counting on you. -->
 - [ ] crystal clear                     (明らかな)              <!-- I could make it crystal clear that we have to be at the restaurant for 7pm... -->
-- [ ] culture                           (文化)                  <!-- The company culture is different. -->
 - [ ] cut corners                       (手を抜く)              <!-- You shouldn't cut corners. -->
 - [ ] cut down on                       (減らす)                <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
 - [ ] cut in (on)                       (割り込む)              <!-- Bob cut in on our conversation, saying, "I'm against it!" But everybody ignored him. -->
@@ -212,7 +210,6 @@
 - [ ] cut off                           (遮る)                  <!-- The chairman cut me off, saying, "brabrabra." -->
 - [ ] cut to the chase                  (要点を言う)            <!-- Since we've only got five minutes, I'm going to cut to the chase. -->
 - [ ] decline                           (断る 丁寧に)           <!-- He declined my invitation to dinner -->
-- [ ] deep tissue massage               (整体)
 - [ ] deliberate                        (think 協議)
 - [ ] die                               (電池がなくなる)        <!-- my phone's battery died quickly. -->
 - [ ] die out                           (廃れた)                <!-- The custom of tipping might die out because of digital payments. -->
@@ -307,8 +304,6 @@
 - [ ] have one's hands full             (手が離せない)          <!-- I have my hands full right now. -->
 - [ ] have 人 do                        (人にしてもらう)        <!-- I'll have the nurse bandage your leg for you. -->
 - [ ] have 物 done                      (物をしてもらう)        <!-- I need to have it repaird. / I had my hair cut. -->
-- [ ] hay fever                         (花粉症)                <!-- I have a pollen allergy. -->
-- [ ] health insurance                  (健康保険)
 - [ ] hide / hid / hid                  (隠れる 隠す)           <!-- She hid behind a curtain. -->
 - [ ] hit it out of the park            (達成する)              <!-- We’ve hit it out of the park! -->
 - [ ] hold ... back                     (真実・感情を隠す)      <!-- It occured to me that he was holding something back, because he wouldn't look me in the eye. -->
@@ -316,7 +311,6 @@
 - [ ] hold ... up                       (遅らせる)              <!-- The train was held up because of the railroad accident. -->
 - [ ] honest                            (率直)                  <!-- She is an honest person. -->
 - [ ] humid                             (じめじめしている)      <!-- It is humid in the summer but it is cold and dry in the winter. -->
-- [ ] humidity                          (湿気)
 - [ ] impress                           (感銘を与える)          <!-- He impressed me with his homemade pizza. -->
 - [ ] in a bad mood                     (機嫌が悪い)            <!-- I won't share my opinion if my wife seems as if she is in a bad mood. -->
 - [ ] include                           (含む)                  <!-- The prices displayed include delivery costs and taxes. -->
@@ -354,13 +348,10 @@
 - [ ] make up for 物                    (埋め合わせる)          <!-- Her genius makes up for her lack of firsthand experience. -->
 - [ ] make up to 人                     (埋め合わせる)          <!-- How can I make it up to you? -->
 - [ ] match                             (似合う 色合い)
-- [ ] mortgage                          (住宅ローン)            <!-- I took out my mortgage this year. (= loan for a house/property/condo) -->
 - [ ] move around                       (あちこち動き回る)
 - [ ] move over                         (席を詰める)            <!-- Could you move over a little? -->
 - [ ] nail                              (達成する)              <!-- I think I really nailed it this time. -->
 - [ ] neat and tidy                     (整理された)
-- [ ] nerve                             (神経)
-- [ ] nest                              (巣 群れ 憩いの場)      <!-- leave the nest -->
 - [ ] nod                               (うなずく)              <!-- He nodded, but I ... -->
 - [ ] obedient                          (従順)                  <!-- The new trainee,Bea,is very obedient. -->
 - [ ] objectionable                     (不快な 人の言動が)     <!-- The guest found the noise objectionable. -->
@@ -369,14 +360,12 @@
 - [ ] old-school                        (懐かしい)              <!-- This song is so old-school. -->
 - [ ] omit                              (省略する)              <!-- Can I omit "do you"? -->
 - [ ] over the top                      (度が過ぎている)        <!-- His acting was over the top so it wasn't believable at all. -->
-- [ ] passion                           (趣味)                  <!-- It's my new passion. (最近の趣味) -->
 - [ ] pay off                           (報われる)              <!-- I think the time you are spending on English is paying off. -->
 - [ ] pick nose                         (鼻をほじる)
 - [ ] picturesque                       (絵のように美しい)
 - [ ] ponder                            (think 思案)
 - [ ] praise                            (褒める カジュアル)
 - [ ] precise                           (**** 正確)             <!-- They were unable to find the precise location of the crash. -->
-- [ ] presence                          (存在感)                <!-- Hollywood has a very small presence. -->
 - [ ] prevent A from (doing)            (A を doing から防ぐ)   <!-- It can't prevent you from getting cold. -->
 - [ ] protect A from (noun)             (A を noun から防ぐ)    <!-- A leather jacket can't protect you from the cold. -->
 - [ ] provide for                       (養う)                  <!-- My income is not adequate to provide for my family of four. -->
@@ -404,8 +393,6 @@
 - [ ] sincere                           (誠実)                  <!-- He is a sincere person. -->
 - [ ] sink / sank / sunk                (沈む)                  <!-- His medal sank deeply into the pond. -->
 - [ ] sloppy                            (雑な いい加減な)       <!-- The bridge collapsed soon after completion because of the sloppy construction work. -->
-- [ ] sneezing                          (くしゃみ)              <!-- I can't stop sneezing. -->
-- [ ] social welfare                    (福祉)
 - [ ] spend time ...                    (過ごす)                <!-- I spend time with my wife on my days off. -->
 - [ ] spill                             (こぼす)                <!-- I spilled wine on my shirt -->
 - [ ] split the check                   (割り勘する)
@@ -420,7 +407,6 @@
 - [ ] stuck in one's ways               (固執する)              <!-- My boss is stuck in his ways. -->
 - [ ] sturdy                            (頑丈な)                <!-- The table looks sturdy. -->
 - [ ] suit                              (似合う 服装)           <!-- The hat suits you. -->
-- [ ] sunny                             (晴れ)
 - [ ] take ... into doing               (説得してさせる)        <!-- No one backed me up at first, but eventually I talked everyone into going along with my plan, -->
 - [ ] take ... out of context           (文脈無視)              <!-- It can easily be taken out of context. -->
 - [ ] take a chance / take the plunge   (思い切てやてみる)      <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
@@ -444,7 +430,6 @@
 - [ ] tell A from B                     (区別する)              <!-- Bob was so beside himself that he could scarcely tell fact from fiction. -->
 - [ ] the other way around              (正反対な)              <!-- It's the other way around today. -->
 - [ ] think ... over                    (慎重に考える)          <!-- You ought to think over whether the premise is valid or not. -->
-- [ ] third baseline                    (三塁側)
 - [ ] threaten                          (脅迫する)
 - [ ] thrilled                          (わくわくして 特に)
 - [ ] through the roof                  (突き抜けている)        <!-- My stress was through the roof -->
@@ -454,9 +439,6 @@
 - [ ] to the point                      (要領を得た)
 - [ ] too far                           (やり過ぎな)            <!-- He went too far there. -->
 - [ ] treat                             (おごる)                <!-- You treat me every time we eat out. -->
-- [ ] treat oneself                     (ご褒美)
-- [ ] trepidation                       (不安)
-- [ ] trousers                          (ズボン)
 - [ ] turn ... down                     (断る)                  <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
 - [ ] turn ...'s back on                (背を向ける 無視)       <!-- We cannot turn our backs on desperate people who are at risk. -->
 - [ ] turn a blind eye                  (見て見ぬふりする)      <!-- He saw someone being bullied, but he turned a blind eye. -->
@@ -476,7 +458,6 @@
 - [ ] vague                             (曖昧な ぼやっと)       <!-- He gave me a vague description of the incident. -->
 - [ ] viable                            (成立する)              <!-- a financially viable option -->
 - [ ] violent                           (激しい 自然現象 感情)  <!-- A violent storm tossed the ship around like a toy. -->
-- [ ] voucher                           (引換券 保証人)
 - [ ] was predicted                     (予報では..だった)      <!-- Snow was predicted this morning. -->
 - [ ] weak at the knees                 (立っていられない)      <!-- Mary went weak at the knees when she saw the man. -->
 - [ ] wear and tear                     (摩耗 消耗 衰え)        <!-- wear and tear on a tire. / I feel a little wear and tear on my body these days. -->
@@ -492,7 +473,6 @@
 - [x] call on 人                        (立ち寄る)              <!-- I'll call on you later. -->
 - [x] catch up (with)                   (追いつく)              <!-- Once you fall behind, It's hard to catch up. -->
 - [x] complimentary                     (無料の)                <!-- it is complimentary. -->
-- [x] gut feeling                       (直観)
 - [x] identify A with B                 (A を B と同じと考える) <!-- For the most part, modernization is identified with westernization. -->
 - [x] in fashion                        (流行っている)          <!-- This type of hairdo is in fashion now among young women. -->
 - [x] intense                           (激しい 暑 光 痛 感情)  <!-- Lauren sought shelter from the intense heat of the midday sun. -->

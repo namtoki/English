@@ -117,3 +117,24 @@
 - [ ] Happy wife, happy life
 - [ ] Apples and oranges
 - [ ] Mum's the word
+
+- [ ] coal                              (石炭)
+- [ ] culture                           (文化)                  <!-- The company culture is different. -->
+- [ ] deep tissue massage               (整体)
+- [ ] hay fever                         (花粉症)                <!-- I have a pollen allergy. -->
+- [ ] health insurance                  (健康保険)
+- [ ] humidity                          (湿気)
+- [ ] mortgage                          (住宅ローン)            <!-- I took out my mortgage this year. (= loan for a house/property/condo) -->
+- [ ] nerve                             (神経)
+- [ ] nest                              (巣 群れ 憩いの場)      <!-- leave the nest -->
+- [ ] passion                           (趣味)                  <!-- It's my new passion. (最近の趣味) -->
+- [ ] presence                          (存在感)                <!-- Hollywood has a very small presence. -->
+- [ ] sneezing                          (くしゃみ)              <!-- I can't stop sneezing. -->
+- [ ] social welfare                    (福祉)
+- [ ] sunny                             (晴れ)
+- [ ] third baseline                    (三塁側)
+- [ ] treat oneself                     (ご褒美)
+- [ ] trepidation                       (不安)
+- [ ] trousers                          (ズボン)
+- [ ] voucher                           (引換券 保証人)
+- [x] gut feeling                       (直観)
