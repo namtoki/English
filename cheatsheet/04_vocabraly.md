@@ -1,29 +1,127 @@
 # VOCABRALY
 
+## NATION
+
+- [ ] Vienna                            (ウィーン)
+
+## PERSON
+
+- [x] astronaut                         (宇宙飛行士)
+- [x] barber                            (床屋)
+- [x] deep tissue massage               (整体)
+- [x] passengers                        (乗客)
+- [x] pedestrians                       (歩行者)
+- [x] priest                            (聖職者 司祭)
+- [x] pupil                             (生徒 教え子 弟子)
+- [x] shopkeeper                        (小売店主)
+- [x] vet / veterinarian                (獣医)
+- [x] voucher                           (引換券 保証人)
+
 ## LOOKS
 
-- [ ] beard                             (あごひげ)
-- [ ] moustache                         (くちひげ)
-- [ ] Strong face                       (四角い顔)
-- [ ] Soft face                         (丸い顔)
+- [x] beard                             (あごひげ)
+- [x] moustache                         (くちひげ)
+- [ ] soft face                         (丸い顔)
+- [ ] strong face                       (四角い顔)
 
 ## PARTS
 
-- [ ] cheek                             (頬)
-- [ ] pupil                             (瞳孔)
-- [ ] jaw                               (あご えら)
-- [ ] chin                              (あご 先)
+- [x] cheek                             (頬)
+- [x] pupil                             (瞳孔)
+- [x] jaw                               (あご えら)
+- [x] chin                              (あご 先)
 - [x] dominant hand                     (利き手)                <!-- Which is your dominant hand? -->
-- [ ] muscle                            (筋肉)                  <!-- I don't want to lose muscle. -->
-- [ ] lung                              (肺)
-- [ ] brow                              (まゆ 額)
-- [ ] breast                            (胸 乳房)
-- [ ] chest                             (胸部)
-- [ ] waist                             (胴のくびれ)
-- [ ] lap                               (座ったときの腰から膝部)
-- [ ] knee                              (ひざ)
+- [x] muscle                            (筋肉)                  <!-- I don't want to lose muscle. -->
+- [x] lung                              (肺)
+- [x] brow                              (まゆ 額)
+- [x] breast                            (胸 乳房)
+- [x] chest                             (胸部)
+- [x] waist                             (胴のくびれ)
+- [x] lap                               (座ったときの腰から膝部)
+- [x] knee                              (ひざ)
+- [x] nerve                             (神経)
 
-## WORK
+## PLACE
+
+- [x] chimney                           (煙突)
+- [x] cliff                             (崖)
+- [x] countryside                       (田舎 地方)
+- [x] fancy neighborhood                (高級街)
+- [x] forest / woods                    (森)
+- [x] garage                            (車庫)
+- [x] harbor                            (港 避難所)
+- [x] hilly area                        (丘陵地)
+- [x] mural                             (壁画)
+- [x] palace                            (宮殿 官邸 公邸 大邸宅)
+- [x] scene                             (現場)                  <!-- The police arrived at the scene quickly. -->
+- [x] world heritage                    (世界遺産)
+
+## FOOD
+
+- [x] appliance                         (調理器具 w/ 電源)
+- [x] baked goods                       (総菜パン)
+- [x] cabbage [k@bidg]                  (キャベツ)
+- [x] cocoa [koukou]                    (ココア)
+- [x] go out (for the meal)             (食事に行く)            <!-- my wife typically makes dinner during the week and we go out on weekends. -->
+- [x] lettuce [letis]                   (レタス)
+- [x] parfait                           (パフェ)
+- [x] pastry                            (パン菓子)
+- [x] pea                               (えんどう)
+- [x] pear [pe~r]                       (西洋なし)
+- [x] persimmon                         (柿)
+- [x] pickled ginger                    (紅ショウガ)
+- [x] pickled plum                      (梅)
+- [x] plum [pl^m]                       (西洋すもも)
+- [x] salmon roe                        (いくら)
+- [x] sea urchin                        (うに)
+- [x] seaweed                           (のり)
+- [x] utensil                           (調理器具)
+- [x] wheat                             (小麦)
+
+## ANIMAL / PLANT
+
+- [x] bull                              (雄牛 大柄ながっしりした人)
+- [x] deer                              (しか)
+- [x] feather                           (鳥類)
+- [x] goat                              (ヤギ)
+- [x] lily                              (ユリ)
+- [x] nest                              (巣 群れ 憩いの場)      <!-- leave the nest -->
+- [x] palm                              (ヤシ)
+- [x] violet                            (すみれ)
+- [x] wolf / wolves                     (狼)
+
+## STUFF
+
+- [ ] coal                              (石炭)
+- [ ] trousers                          (ズボン)
+
+## WEATHER
+
+- [ ] humidity                          (湿気)
+- [ ] sunny                             (晴れ)
+
+# SAYING
+
+- [ ] Happy wife, happy life
+- [ ] Apples and oranges
+- [ ] Mum's the word
+
+# NOTION
+
+- [x] culture                           (文化)                  <!-- The company culture is different. -->
+- [x] gut feeling                       (直観)
+- [x] hay fever                         (花粉症)                <!-- I have a pollen allergy. -->
+- [x] health insurance                  (健康保険)
+- [x] mortgage                          (住宅ローン)            <!-- I took out my mortgage this year. (= loan for a house/property/condo) -->
+- [x] passion                           (趣味)                  <!-- It's my new passion. (最近の趣味) -->
+- [x] presence                          (存在感)                <!-- Hollywood has a very small presence. -->
+- [x] sneezing                          (くしゃみ)              <!-- I can't stop sneezing. -->
+- [x] social welfare                    (福祉)
+- [x] third baseline                    (三塁側)
+- [x] treat oneself                     (ご褒美)
+- [x] trepidation                       (不安)
+
+## BUSINESS
 
 - [x] ETA (Estimated Time of Arrival)   (帰る時間)              <!-- I send her a message with my ETA. -->
 - [x] business hours                    (執務時間)
@@ -43,98 +141,8 @@
 - [x] side hustle                       (副業)
 - [x] sales quota                       (売上ノルマ)
 - [x] mid-career                        (中途社員)              <!-- This event is for freshman and not mid-career employees like me. -->
-- [ ] appraisal                         (査定)
-- [ ] assessment                        (評価 改善目的の)
-- [ ] evaluation                        (評価 判断目的の)
-- [ ] credential                        (経歴)
-- [ ] reward                            (報酬)
-
-## PLACE
-
-- [ ] garage                            (車庫)
-- [ ] harbor                            (港 避難所)
-- [ ] palace                            (宮殿 官邸 公邸 大邸宅)
-- [ ] hilly area                        (丘陵地)
-- [ ] fancy neighborhood                (高級街)
-- [ ] forest / woods                    (森)
-- [ ] scene                             (現場)                  <!-- The police arrived at the scene quickly. -->
-- [ ] mural                             (壁画)
-- [ ] chimney                           (煙突)
-- [ ] cliff                             (崖)
-- [ ] countryside                       (田舎 地方)
-- [ ] world heritage                    (世界遺産)
-
-## FOOD
-
-- [x] salmon roe                        (いくら)
-- [x] seaweed                           (のり)
-- [x] pickled plum                      (梅)
-- [x] pickled ginger                    (紅ショウガ)
-- [x] baked goods                       (総菜パン)
-- [x] sea urchin                        (うに)
-- [ ] pastry                            (パン菓子)
-- [ ] utensil                           (調理器具)
-- [ ] appliance                         (調理器具 w/ 電源)
-- [ ] cocoa [koukou]                    (ココア)
-- [ ] pea                               (えんどう)
-- [ ] parfait                           (パフェ)
-- [ ] persimmon                         (柿)
-- [ ] cabbage [k@bidg]                  (キャベツ)
-- [ ] lettuce [letis]                   (レタス)
-- [ ] pear [pe~r]                       (西洋なし)
-- [ ] plum [pl^m]                       (西洋すもも)
-- [ ] wheat                             (小麦)
-- [ ] go out (for the meal)             (食事に行く)            <!-- my wife typically makes dinner during the week and we go out on weekends. -->
-
-## ANIMAL / PLANT
-
-- [ ] deer                              (しか)
-- [ ] wolf / wolves                     (狼)
-- [ ] violet                            (すみれ)
-- [ ] bull                              (雄牛 大柄ながっしりした人)
-- [ ] feather                           (鳥類)
-- [ ] goat                              (ヤギ)
-- [ ] lily                              (ユリ)
-- [ ] palm                              (ヤシ)
-
-## PERSON
-
-- [ ] astronaut                         (宇宙飛行士)
-- [ ] priest                            (聖職者 司祭)
-- [ ] pupil                             (生徒 教え子 弟子)
-- [ ] pedestrians                       (歩行者)
-- [ ] passengers                        (乗客)
-- [ ] shopkeeper                        (小売店主)
-- [ ] barber                            (床屋)
-- [ ] vet / veterinarian                (獣医)
-
-## NATION
-
-- [ ] Vienna                            (ウィーン)
-
-# SAYING
-
-- [ ] Happy wife, happy life
-- [ ] Apples and oranges
-- [ ] Mum's the word
-
-- [ ] coal                              (石炭)
-- [ ] culture                           (文化)                  <!-- The company culture is different. -->
-- [ ] deep tissue massage               (整体)
-- [ ] hay fever                         (花粉症)                <!-- I have a pollen allergy. -->
-- [ ] health insurance                  (健康保険)
-- [ ] humidity                          (湿気)
-- [ ] mortgage                          (住宅ローン)            <!-- I took out my mortgage this year. (= loan for a house/property/condo) -->
-- [ ] nerve                             (神経)
-- [ ] nest                              (巣 群れ 憩いの場)      <!-- leave the nest -->
-- [ ] passion                           (趣味)                  <!-- It's my new passion. (最近の趣味) -->
-- [ ] presence                          (存在感)                <!-- Hollywood has a very small presence. -->
-- [ ] sneezing                          (くしゃみ)              <!-- I can't stop sneezing. -->
-- [ ] social welfare                    (福祉)
-- [ ] sunny                             (晴れ)
-- [ ] third baseline                    (三塁側)
-- [ ] treat oneself                     (ご褒美)
-- [ ] trepidation                       (不安)
-- [ ] trousers                          (ズボン)
-- [ ] voucher                           (引換券 保証人)
-- [x] gut feeling                       (直観)
+- [x] appraisal                         (査定)
+- [x] assessment                        (評価 改善目的の)
+- [x] evaluation                        (評価 判断目的の)
+- [x] credential                        (経歴)
+- [x] reward                            (報酬)
