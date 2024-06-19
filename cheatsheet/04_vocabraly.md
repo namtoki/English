@@ -26,19 +26,21 @@
 
 ## PARTS
 
-- [x] cheek                             (頬)
+- [x] forehead                          (ひたい)
+- [x] brow                              (まゆ 額)
 - [x] pupil                             (瞳孔)
+- [x] temple                            (こめかみ)
+- [x] cheek                             (頬)
 - [x] jaw                               (あご えら)
 - [x] chin                              (あご 先)
-- [x] dominant hand                     (利き手)                <!-- Which is your dominant hand? -->
-- [x] muscle                            (筋肉)                  <!-- I don't want to lose muscle. -->
-- [x] lung                              (肺)
-- [x] brow                              (まゆ 額)
 - [x] breast                            (胸 乳房)
 - [x] chest                             (胸部)
+- [x] dominant hand                     (利き手)                <!-- Which is your dominant hand? -->
 - [x] waist                             (胴のくびれ)
 - [x] lap                               (座ったときの腰から膝部)
 - [x] knee                              (ひざ)
+- [x] muscle                            (筋肉)                  <!-- I don't want to lose muscle. -->
+- [x] lung                              (肺)
 - [x] nerve                             (神経)
 
 ## PLACE
