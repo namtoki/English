@@ -2,13 +2,13 @@
 
 ## PRESENT
 
-- 5: `I'd say` it's usually more art than science.
-- 5: `It's interesting how` you said that.
-- 4: `It's like` surfing on land.
-- 3: `This is the kind of thing that` makes me really happy.
-- 3: `This ramen shop putting whipped cream in soup, that's` gross.
-- 2: `This is something` a lot of people don't consider.
-- 1: I `find it really interesting` to study English. <!-- find O C -->
+- `I'd say` it's usually more art than science.
+- `It's interesting how` you said that.
+  - `It's like` surfing on land.
+    - `This is the kind of thing that` makes me really happy.
+    - `This ramen shop putting whipped cream in soup, that's` gross.
+      - `This is something` a lot of people don't consider.
+        - I `find it really interesting` to study English. <!-- find O C -->
 
 ## PAST
 
