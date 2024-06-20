@@ -5,6 +5,8 @@
 - `I'd say` it's usually more art than science.
 - `It's interesting how` you said that.
   - `It's like` surfing on land.
+  - `It's kind of like` a noodle, but not exactly.
+  - `He’s almost like` a professional baker.
     - `This is the kind of thing that` makes me really happy.
     - `This ramen shop putting whipped cream in soup, that's` gross.
       - `This is something` a lot of people don't consider.
@@ -12,11 +14,9 @@
 
 ## PAST
 
-- 5: When I ate Natto for the first time `I was like` what is this?
-- 3: I `would've thought that` he'd hate dancing at a club.
+- When I ate Natto for the first time `I was like` what is this?
+  - I `would've thought that` he'd hate dancing at a club.
 
-- [x] It's kind of like ...         (みたいな感じ)
-- [x] It's almost  like ...         (ほぼ みたいな感じ)
 - [x] I have a feeling/hunch that   (気がする 確かな)           <!-- I have a hunch that there's more to it. -->
 - [x] It feels like (S) (V)         (気がする 客観的)
 - [x] I feel like (noun)            (の気分だ)                  <!-- I feel like Thai food. I don't feel like it. -->
