@@ -2,29 +2,28 @@
 
 ## PRESENT
 
-- `I'd say` it's usually more art than science.
-- `It's interesting how` you said that.
-  - `It's like` surfing on land.
-  - `It's kind of like` a noodle, but not exactly.
-  - `He’s almost like` a professional baker.
-    - `This is the kind of thing that` makes me really happy.
-    - `This ramen shop putting whipped cream in soup, that's` gross.
-      - `This is something` a lot of people don't consider.
-        - I `find it really interesting` to study English. <!-- find O C -->
+- 5: `It's interesting how` you said that.
+- 5: `I'd say` it's usually more art than science.
+- 5: `I have a feeling(hunch) that` there's more to it.
+- 5: `It could be that` Wayne's just naturally fit, but ,,,
+- 4: `It's like` surfing on land.
+- 4: `It's kind of like` a noodle, but not exactly.
+- 4: `He’s almost like` a professional baker.
+- 4: I remember my first day of high school. `It feels like` yesterday.
+- 4: `I feel like` Thai food. I don't feel like it.
+- 4: `I feel like` going out somewhere.
+- 4: A movie `that I think` is a classic example of a mafia film is The Godfather.
+- 3: Yes, we need to spend less money. `That I` agree with.
+- 3: `This ramen shop putting whipped cream in soup, that's` gross.
+- 3: `This is the kind of thing that` makes me really happy.
+- 2: `This is something` a lot of people don't consider.
+- 1: I `find it really interesting` to study English. <!-- find O C -->
 
 ## PAST
 
-- When I ate Natto for the first time `I was like` what is this?
-  - I `would've thought that` he'd hate dancing at a club.
-
-- [x] I have a feeling/hunch that   (気がする 確かな)           <!-- I have a hunch that there's more to it. -->
-- [x] It feels like (S) (V)         (気がする 客観的)
-- [x] I feel like (noun)            (の気分だ)                  <!-- I feel like Thai food. I don't feel like it. -->
-- [x] I feel like (doing)           (したい気分だ)              <!-- I feel like going out somewhere. -->
-- [x] (It) turns out (that) ...     (結局...だとわかった)       <!-- Turns out my five-year-old daughter already knows Santa doesn't exist. -->
-- [x] It could be that (S) (V)      (なのかもしれない)          <!-- It could be that Wayne's just naturally fit, but ,,, -->
-- [x] (S) that I think (C)          (私が C だと思う S)         <!-- A movie that I think is a classic example of a mafia film is The Godfather. -->
-- [x] That I (V)                    (それは V する)             <!-- Yes, we need to spend less money. That I agree with. -->
+- 5: When I ate Natto for the first time `I was like` what is this?
+- 4: I `would've thought that` he'd hate dancing at a club.
+- 4: `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [ ] There're times when (S) (V)   (たまに...なときがある)     <!-- There're times when I crave a Starbucks Frappuccino really badly. -->
 - [ ] I believe                     (思う)                      <!-- I believe she drives a white truck. -->
 - [ ] I believe in ...              (信じる)                    <!-- I don't believe in ghosts. -->
