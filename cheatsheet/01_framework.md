@@ -2,7 +2,7 @@
 
 ## PRESENT
 
-- 5: **I'd say** it's usually more art than science.
+- 5: `I'd say` it's usually more art than science.
 - 5: **It's interesting how** you said that.
 - 4: **It's like** surfing on land.
 - 3: **This is the kind of thing that** makes me really happy.
