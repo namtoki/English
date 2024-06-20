@@ -1,17 +1,20 @@
 # OPINION
 
-## THINK
+## PRESENT
 
-- xxxxx | When I ate Natto for the first time **I was like** what is this?
-- xxxxx | **I'd say** it's usually more art than science.
-- xxx__ | I **find it really interesting** to study English. <!-- find O C -->
-- [x] I'd say (S) (V)               (なんじゃないかなぁ)        <!-- I'd say it's usually more art than science. -->
-- [x] I would've thought (S) (V)    (だと思っていた)            <!-- I would've thought that he'd hate dancing at a club. -->
-- [x] It's (adj) how (S) (V)        (adj と思う)                <!-- It's interesting how you said that. -->
-- [x] This is the kind of thing ... (こういうのが...なんだ)     <!-- This is the kind of thing that makes me really happy. -->
-- [x] This is something (S) (V)     (これは...なものです)       <!-- This is something a lot of people don't consider. -->
-- [x] (O) doing, that's (adj)       (O が do するの adj だ)     <!-- This ramen shop putting whipped cream in soup, that's gross. -->
-- [x] It's         like ...         (みたいな感じ)              <!-- It's like surfing on land. -->
+- 5: **I'd say** it's usually more art than science.
+- 5: **It's interesting how** you said that.
+- 4: **It's like** surfing on land.
+- 3: **This is the kind of thing that** makes me really happy.
+- 3: **This ramen shop putting whipped cream in soup, that's** gross.
+- 2: **This is something** a lot of people don't consider.
+- 1: I **find it really interesting** to study English. <!-- find O C -->
+
+## PAST
+
+- 5: When I ate Natto for the first time **I was like** what is this?
+- 3: I **would've thought that** he'd hate dancing at a club.
+
 - [x] It's kind of like ...         (みたいな感じ)
 - [x] It's almost  like ...         (ほぼ みたいな感じ)
 - [x] I have a feeling/hunch that   (気がする 確かな)           <!-- I have a hunch that there's more to it. -->
