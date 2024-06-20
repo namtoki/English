@@ -3,17 +3,17 @@
 ## PRESENT
 
 - 5: `I'd say` it's usually more art than science.
-- 5: **It's interesting how** you said that.
-- 4: **It's like** surfing on land.
-- 3: **This is the kind of thing that** makes me really happy.
-- 3: **This ramen shop putting whipped cream in soup, that's** gross.
-- 2: **This is something** a lot of people don't consider.
-- 1: I **find it really interesting** to study English. <!-- find O C -->
+- 5: `It's interesting how` you said that.
+- 4: `It's like` surfing on land.
+- 3: `This is the kind of thing that` makes me really happy.
+- 3: `This ramen shop putting whipped cream in soup, that's` gross.
+- 2: `This is something` a lot of people don't consider.
+- 1: I `find it really interesting` to study English. <!-- find O C -->
 
 ## PAST
 
-- 5: When I ate Natto for the first time **I was like** what is this?
-- 3: I **would've thought that** he'd hate dancing at a club.
+- 5: When I ate Natto for the first time `I was like` what is this?
+- 3: I `would've thought that` he'd hate dancing at a club.
 
 - [x] It's kind of like ...         (みたいな感じ)
 - [x] It's almost  like ...         (ほぼ みたいな感じ)
