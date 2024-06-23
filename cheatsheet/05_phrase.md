@@ -1,5 +1,8 @@
 # BEGINING
 
+- `What's going on?`
+  - A: What's up? B: `What's going on?`
+  - `What's going on` in here? What are you doing?
 - [x] Do you have a minute/second?  (今いい？)
 - [x] Is this a good time?          (今いい？)
 - [x] Do you have time?             (今いい？)
