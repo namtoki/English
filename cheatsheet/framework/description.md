@@ -2,8 +2,10 @@
 
 ## FEELING
 
-- `I was like`:                             When I ate Natto for the first time `I was like` what is this?
-- `I would've thought that (S) (V)`:        I `would've thought that` he'd hate dancing at a club.
+- `I was like`
+  - When I ate Natto for the first time `I was like` what is this?
+- `I would've thought that (S) (V)`
+  - I `would've thought that` he'd hate dancing at a club.
 
 ## FACT
 
