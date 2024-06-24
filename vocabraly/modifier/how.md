@@ -1,5 +1,10 @@
 # HOW
 
+## EMPHASIS
+
+- `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
+- `way better`:                             That's just hype. I know `way better` places.
+
 ## EXTENT
 
 - [x] some more                         (もう少し)                      <!-- I'll think about it some more. -->

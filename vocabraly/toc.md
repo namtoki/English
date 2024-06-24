@@ -11,15 +11,14 @@
   - [Tag](modifier/tag.md)
 - Expression
   - [Common](expression/common.md)
+  - [Question](expression/question.md)
+  - [Cliche](expression/cliche.md)
+  - [Saying](expression/saying.md)
 - Name
   - [Human](name/human.md)
   - [Nature](name/nature.md)
   - [Place](name/place.md)
   - [Social](name/social.md)
-- Phrase
-  - [Question](phrase/question.md)
-  - [Cliche](phrase/cliche.md)
-  - [Saying](phrase/saying.md)
 
 ## POOL
 
