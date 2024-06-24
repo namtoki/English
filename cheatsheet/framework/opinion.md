@@ -14,6 +14,8 @@
 - `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.
 - `This is something (S) (V)`:              `This is something` a lot of people don't consider.
 - `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
+- [x] chances are (that) ...        (たぶん ... だ)             <!-- It's foggy. But chances are it'll clear up later on. -->
+- [x] (O) gets (S) doing            (O で S は do しちゃう)     <!-- This song always gets me feeling some type of way. -->
 
 ## OBJECTIVE
 

@@ -1,47 +1,37 @@
 # DESCRIPTION
 
-## FEELING
-
-- `I was like`
-  - When I ate Natto for the first time `I was like` what is this?
-- `I would've thought that (S) (V)`
-  - I `would've thought that` he'd hate dancing at a club.
-
-## FACT
+## ASSERTIVE
 
 - `Turns out (S) (V)`:                      `Turns out` my five-year-old daughter already knows Santa doesn't exist.
+- `(A) doesn't have as much (B) as (C)`:    He `doesn't have as much experience as` the other candidates.
+- `(A) doesn't have as many (B) as (C)`:    We `don't have as many poeple in our team as` we did last year.
+- `It takes (O) (O) to`:                    `It takes her 25 minutes to` walk to work.
+- `It takes (V-ing) to`:                    `It takes working here for years` to know everything inside out like he does.
+- `(S) be supposed to (V)`:                 On Valentine's Day, in Japan girls `are supposed to` give choco...
+- `(S) be supposed to (V)`:                 Dolphins `are supposed to` be intelligent.
+- `It's a custom to (V)`:                   `It's a custom to` take off your shoes before entering ...
+- `It's traditional to (V)`:                In Japan, `it's traditional to` visit ...
 
-## SEEM
+## PROBABILITY
 
-- [x] It seems as if/though         (ようだ)
-- [x] It seems to be ...            (ようだ 目の前の状況)       <!-- It seems to be broken. -->
-- [x] be      likely to             (しそうだ)                  <!-- It's likely to rain tomorrow. -->
-- [x] be more likely to             (する可能性が高い)          <!-- In engineering, people are more likely to work in their field. -->
-- [x] be less likely to             (あまりしそうにない)        <!-- It's less likely to get broken. -->
-- [x] be a low/little chance of     (する確率は低い)            <!-- There's a low chance of rain tonight. -->
-- [x] chances are (that) ...        (たぶん ... だ)             <!-- It's foggy. But chances are it'll clear up later on. -->
-- [x] (A) doesn't have as much (B) as (C) (A は C ほどは B はない)  <!-- He doesn't have as much experience as the other candidates. -->
-- [x] (A) doesn't have as many (B) as (C) (A は C ほどは B はない)  <!-- We don't have as many poeple in our team as we did last year. -->
-
-## FACT
-
-- xxxxx | My friend **was like** it’s so humid in Japan.
-- [x] It takes ... N (time)s        (かかる)                    <!-- It takes her 25 minutes to walk to work. -->
-- [x] It takes (V-ing)              (Vすることが必要になる)     <!-- It takes working here for years to know everything inside out like he does. -->
-- [x] (O) gets (S) doing            (O で S は do しちゃう)     <!-- This song always gets me feeling some type of way. -->
-- [ ] be supposed to ...            (するものだ)                <!-- On Valentine's Day, in Japan girls are supposed to give choco... -->
-- [ ] be supposed to ...            (らしい)                    <!-- Dolphins are supposed to be intelligent. -->
-- [ ] It's a custom to ...          (する習慣だ)                <!-- It's a custom to take off your shoes before entering ... -->
-- [ ] It's traditional to ...       (する習慣だ)                <!-- In Japan, it's traditional to visit ... -->
+- `It seems to be`                          `It seems to be broken.`
+- `It seems as if/though (S) (V)`:          `It seems as if` he knew everything.
+- `(S) be      likely to (V)`:               `It's likely to` rain tomorrow.
+- `(S) be more likely to (V)`:               In engineering, people `are more likely to` work in their field.
+- `(S) be less likely to (V)`:               `It's less likely to` get broken.
+- `There's a high       chance of (O)`      `There's a high chance of` a domino effect.
+- `There's a low/little chance of (O)`      `There's a low chance of` rain tonight.
 
 ## PAST
 
-- [x] used to                       (かつては ... だった)       <!-- I used to read every day. -->
-- [x] ended up ... ing              (結局 ... した)             <!-- I ended up staying home. -->
-- [x] got to ...                    (ラッキーなことに...できた) <!-- I got to meet Joyce Nelson in person! -->
-- [x] have never ... before         (一度も ... したことない)   <!-- I have never been to Hawaii before, but I would like to go someday -->
-- [ ] I was going to ...            (予定だった)                <!-- I was going to get the burger, but the salad looked so good. -->
-- [ ] I was going to ...            (予定だったのに)            <!-- It looks like a rainstorm is coming in. I was going to go hiking.. -->
+- `(S) was like`:                           When I ate Natto for the first time `I was like` what is this?
+- `(S) would've thought that (S) (V)`:      I `would've thought that` he'd hate dancing at a club.
+- `(S) used to (V)`:                        I `used to` read every day.
+- `(S) ended up (V-ing)`:                   I `ended up staying` home.
+- `(S) got to`:                             I `got to` meet Joyce Nelson in person!
+- `(S) have never ... before         (一度も ... したことない)   <!-- I have never been to Hawaii before, but I would like to go someday -->
+- `(S) was going to ...            (予定だった)                <!-- I was going to get the burger, but the salad looked so good. -->
+- `(S) was going to ...            (予定だったのに)            <!-- It looks like a rainstorm is coming in. I was going to go hiking.. -->
 
 ## FUTURE
 
