@@ -1,6 +1,15 @@
 # OPINION
 
-## SUBJECTIVE
+## UNKNOWN
+
+- [x] slipped my mind               (ド忘れした)                <!-- Your birthday party completely slipped my mind. -->
+- [x] be a blur                     (覚えていない)              <!-- Last weekend was a blur. -->
+- [x] it's up in the air whether .. (決まっていない)            <!-- It's up in the air whether the game will be called off or not. -->
+- [ ] I can't remember ...          (覚えていない)
+- [ ] I won't know until ...        (までわからない)            <!-- I won't know until Friday. -->
+- [ ] I have to say ...             (と言わざるを得ない)        <!-- I have to say your place is adorable! -->
+
+## OPINION (SUBJECTIVE)
 
 - `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
 - `I find (O) (C)`:                         `I find it really interesting` to study English.
@@ -14,10 +23,18 @@
 - `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.
 - `This is something (S) (V)`:              `This is something` a lot of people don't consider.
 - `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
-- [x] chances are (that) ...        (たぶん ... だ)             <!-- It's foggy. But chances are it'll clear up later on. -->
-- [x] (O) gets (S) doing            (O で S は do しちゃう)     <!-- This song always gets me feeling some type of way. -->
+- [x] be sure that (S) (V)          (確信している)              <!-- I am sure that I will enjoy the movie. -->
+- [x] be sure of (noun)             (確信している)              <!-- I am sure of enjoying the movie. -->
+- [x] be sure to (V)                (きっと)                    <!-- You are sure to see many animals there. -->
+- [x] no doubt                      (きっと)                    <!-- His policy will no doubt lead to dismal consequences. -->
+- [x] would                         (そうなったら .. と思う)    <!-- I would be too nervous. / That would be awesome. -->
+- [x] I would                       (私なら ... する)           <!-- I would go, if I were you. -->
+- [x] (O) doing, that'd be (adj)    (O が do したら adj だ)     <!-- A Starbucks opening right next to my apartment, that'd be amazing. -->
+- [ ] was/were supposed to ...      (するべきだった)            <!-- She was supposed to say yes. -->
+- [ ] I wish                        (だったらよかったのに)      <!-- I wish I spoke French. -->
+- [ ] I hope                        (だといいな)                <!-- I hope it doesn't rain. -->
 
-## OBJECTIVE
+## OPINION (OBJECTIVE)
 
 - `It's (A) how (S) (V)`:                   `It's interesting how` you said that.
 - `It's like (O)`:                          `It's like` surfing on land.
@@ -37,17 +54,11 @@
 - `It could be (that)`:                     `It could be that` Wayne's just naturally fit, but ,,,
 - `I feel like (S) (V)`:                    `I feel like` there is a ton of bricks on my lap.
 - `I feel like (O)`:                        `I feel like` an idiot.
+- `Chances are (that) (S) (V)`:             It's foggy. But `chances are` it'll clear up later on.
 
 ## RESPONSE
 
 - `I'd say (that)`:                         `I'd say` it's usually more art than science.
-
-## SURE
-
-- [x] be sure that (S) (V)          (確信している)              <!-- I am sure that I will enjoy the movie. -->
-- [x] be sure of (noun)             (確信している)              <!-- I am sure of enjoying the movie. -->
-- [x] be sure to (V)                (きっと)                    <!-- You are sure to see many animals there. -->
-- [x] no doubt                      (きっと)                    <!-- His policy will no doubt lead to dismal consequences. -->
 
 ## CORRECTION
 
@@ -63,32 +74,9 @@
 - [ ] I didn't mean it.             (そんなつもりじゃなかった)
 - [ ] I was just saying             (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
 - [ ] I'm just trying to            (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
-
-## CASE
-
-- [x] It depends                    (による)                    <!-- It depends. It depends on the traffic. It depends on how I feel. -->
 - [x] just because ... doesn't mean (と言って...ではない)       <!-- Just because he smiles a lot doesn't mean he's kind. -->
-- [x] any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
 
-## UNKNOWN
-
-- [x] slipped my mind               (ド忘れした)                <!-- Your birthday party completely slipped my mind. -->
-- [x] be a blur                     (覚えていない)              <!-- Last weekend was a blur. -->
-- [x] it's up in the air whether .. (決まっていない)            <!-- It's up in the air whether the game will be called off or not. -->
-- [ ] I can't remember ...          (覚えていない)
-- [ ] I won't know until ...        (までわからない)            <!-- I won't know until Friday. -->
-- [ ] I have to say ...             (と言わざるを得ない)        <!-- I have to say your place is adorable! -->
-
-## SUBJUNCTIVE MOOD
-
-- [x] would                         (そうなったら .. と思う)    <!-- I would be too nervous. / That would be awesome. -->
-- [x] I would                       (私なら ... する)           <!-- I would go, if I were you. -->
-- [x] (O) doing, that'd be (adj)    (O が do したら adj だ)     <!-- A Starbucks opening right next to my apartment, that'd be amazing. -->
-- [ ] was/were supposed to ...      (するべきだった)            <!-- She was supposed to say yes. -->
-- [ ] I wish                        (だったらよかったのに)      <!-- I wish I spoke French. -->
-- [ ] I hope                        (だといいな)                <!-- I hope it doesn't rain. -->
-
-## SHOULD
+## SUGGESTION
 
 - [x] I say ...                     (したほうがいい)            <!-- I say it's time you force the issue. -->
 - [x] I'd (V)                       (自分なら V する)           <!-- I'd ask Tom. -->
@@ -110,12 +98,6 @@
 - [ ] the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
 - [ ] You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
 
-## COMPROMISE
-
-- [x] it can wait until             (まででいい)                <!-- Is this job urgent? No, it can wait until tomorrow. -->
-- [ ] you can still                 (でも大丈夫)                <!-- but you can still even with this one say my job ... -->
-- [ ] Take your time with ..        (急がなくてよい)            <!-- Take your time with this project. -->
-
 ## HABIT
 
 - [x] get/be used to ...            (慣れる/ている)             <!-- I'm getting used to working with new coworkers here. -->
@@ -124,8 +106,6 @@
 - [x] tend to ...                   (たいてい ... する)         <!-- I tend not to remember my dreams -->
 - [x] tend to ...                   (ついつい ... する)         <!-- I tend to eat a lot when I'm nervous -->
 - [x] It's been a while since       (ぶりだ)                    <!-- It's been a while since I've swung a tennis racket. -->
-- [x] I remember                    (懐かしい)                  <!-- I remember that trip! -->
-- [x] This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
 - [x] find myself doing             (気付いたらdoしてる)        <!-- I often find myself keeping an eye on the stock market. -->
 - [ ] always                        (普段は ... する)           <!-- In my family, we always eat turkey on ... -->
 - [ ] usually end up ... ing        (普段は ... する)           <!-- I usually end up getting fast food. (ついついしちゃう) -->
@@ -152,3 +132,9 @@
 - [ ] be eating me alive.           (押しつぶされそう)          <!-- Keeping secrets was eating me alive. -->
 - [ ] leave nothing to be desired   (申し分ない)                <!-- Your summary leaves nothing to be desired. -->
 - [ ] I will grant you that ...     (ということは認めよう)
+- [x] (O) gets (S) doing            (O で S は do しちゃう)     <!-- This song always gets me feeling some type of way. -->
+- [x] it can wait until             (まででいい)                <!-- Is this job urgent? No, it can wait until tomorrow. -->
+- [ ] you can still                 (でも大丈夫)                <!-- but you can still even with this one say my job ... -->
+- [ ] Take your time with ..        (急がなくてよい)            <!-- Take your time with this project. -->
+- [x] I remember                    (懐かしい)                  <!-- I remember that trip! -->
+- [x] This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->

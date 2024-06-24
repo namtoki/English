@@ -11,14 +11,16 @@
 - `(S) be supposed to (V)`:                 Dolphins `are supposed to` be intelligent.
 - `It's a custom to (V)`:                   `It's a custom to` take off your shoes before entering ...
 - `It's traditional to (V)`:                In Japan, `it's traditional to` visit ...
+- [x] It depends                    (による)                    <!-- It depends. It depends on the traffic. It depends on how I feel. -->
+- [x] any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
 
 ## PROBABILITY
 
 - `It seems to be`                          `It seems to be broken.`
 - `It seems as if/though (S) (V)`:          `It seems as if` he knew everything.
-- `(S) be      likely to (V)`:               `It's likely to` rain tomorrow.
-- `(S) be more likely to (V)`:               In engineering, people `are more likely to` work in their field.
-- `(S) be less likely to (V)`:               `It's less likely to` get broken.
+- `(S) be      likely to (V)`:              `It's likely to` rain tomorrow.
+- `(S) be more likely to (V)`:              In engineering, people `are more likely to` work in their field.
+- `(S) be less likely to (V)`:              `It's less likely to` get broken.
 - `There's a high       chance of (O)`      `There's a high chance of` a domino effect.
 - `There's a low/little chance of (O)`      `There's a low chance of` rain tonight.
 
@@ -29,14 +31,14 @@
 - `(S) used to (V)`:                        I `used to` read every day.
 - `(S) ended up (V-ing)`:                   I `ended up staying` home.
 - `(S) got to`:                             I `got to` meet Joyce Nelson in person!
-- `(S) have never ... before         (一度も ... したことない)   <!-- I have never been to Hawaii before, but I would like to go someday -->
-- `(S) was going to ...            (予定だった)                <!-- I was going to get the burger, but the salad looked so good. -->
-- `(S) was going to ...            (予定だったのに)            <!-- It looks like a rainstorm is coming in. I was going to go hiking.. -->
+- `(S) have never (V) before`:              I `have never been` to Hawaii `before`, but I would like to go someday.
+- `(S) was going to (V)`:                   I `was going to` get the burger, but the salad looked so good.
+- `(S) was going to (V)`:                   It looks like a rainstorm is coming in. I `was going to` go hiking.
 
 ## FUTURE
 
-- [x] be about to ...               (しようとしているところ)    <!-- I am about to go to sleep. -->
-- [x] be going to ...               (する)                      <!-- What time are we going to be there? -->
-- [x] be supposed to ...            (することになっている 期待) <!-- What time are we supposed to be there? -->
-- [x] be due to ...                 (することになっている)      <!-- She is due to have her baby this week. -->
-- [x] I will never ... again!       (二度と ... しない)         <!-- I will never climb Mt.Fuji again! -->
+- `(S) be about to (V)`:                    I `am about to` go to sleep.
+- `(S) be going to (V)`:                    What time `are we going to` be there?
+- `(S) be supposed to (V)`:                 What time `are we supposed to` be there?
+- `(S) be due to (V)`:                      She `is due to` have her baby this week.
+- `I will never (V) again!`:                `I will never climb` Mt.Fuji `again!`

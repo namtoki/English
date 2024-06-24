@@ -1,34 +1,43 @@
-# CHEATSHEET
+# VOCABRALY
 
-- [Framework](01_framework.md)
-- [Modifier](02_modifier.md)
-- [Expression](03_expression.md)
-- [Vacabraly](04_vocabraly.md)
-- [Phrase](05_phrase.md)
+- Framework
+  - [Opinion](framework/opinion.md)
+  - [Request](framework/request.md)
+  - [Description](framework/description.md)
+- Modifier
+  - [Focus](modifier/focus.md)
+  - [How](modifier/how.md)
+  - [Addition](modifier/addition.md)
+  - [Tag](modifier/tag.md)
+- Expression
+  - [Common](expression/common.md)
+- Name
+  - [Human](name/human.md)
+  - [Nature](name/nature.md)
+  - [Place](name/place.md)
+  - [Social](name/social.md)
+- Phrase
+  - [Question](phrase/question.md)
+  - [Cliche](phrase/cliche.md)
+  - [Saying](phrase/saying.md)
 
-# TODO
+## POOL
 
-fine/sick
-shocked
-shy/outgoing
-cheerful
-hard-working/lazy
-I have been assigned a new long term project.
-For a long span of time, Kyoto was the capital of Japan.
-My father turned 70 years old last week.
-I bought him chopsticks with his name engraved on them.
-We aren't very close with our in-laws.
-I get angry at myself.
-sarcasm
-one-off
-
-## TOEIC 10
-
-stoplight
-bolster
-
-# POOL
-
+- fine/sick
+- shocked
+- shy/outgoing
+- cheerful
+- hard-working/lazy
+- I have been assigned a new long term project.
+- For a long span of time, Kyoto was the capital of Japan.
+- My father turned 70 years old last week.
+- I bought him chopsticks with his name engraved on them.
+- We aren't very close with our in-laws.
+- I get angry at myself.
+- sarcasm
+- one-off
+- stoplight
+- bolster
 - My wife and I went to Izu and stayed at a hotel. We didn't go sightseeing, we just took it easy.
 - India is so polluted.
 - I want to try scuba diving. My friend said it's a lot of fun.

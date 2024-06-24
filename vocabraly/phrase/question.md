@@ -1,0 +1,36 @@
+# QUESTION
+
+- [x] How do you like ... ?         (どう？)                    <!-- How do you like your new shoes? -->
+- [x] How do you feel about ... ?   (どう？どう思う？)          <!-- How do you feel about the service in Japan? -->
+- [x] What do you think about ing   (どう？どう思う？)          <!-- What do you think about moving to Osaka? -->
+- [x] Which do you prefer, A or B?  (どっちがいい？)            <!-- Which do you prefer, going to the movies or watching films at home? -->
+- [x] When was the last time ... ?  (いつぶり？)                <!-- When was the last time you talked to him? -->
+- [x] What if ...                   (したらどうなるだろう？)    <!-- What if I don't meet the deadline? -->
+- [x] Can I ask you a question?     (質問してもいい？)
+- [x] how would you say it?         (どう表現しますか？)        <!-- If you were to state your dream, how would you say it? -->
+- [x] What's the word for it?       (どういう言葉が適切ですか？)
+- [x] How do you pronounce          (どう発音する？)            <!-- How do you pronounce this word? -->
+- [x] How do you spell this word?   (どう書く？)
+- [x] What does ... mean?           (はどういう意味ですか？)
+- [x] Would it sound .. if I said ..(と言ったら..ですか？)      <!-- Would it sound a little bit weird if I said ... -->
+- [x] Could you say that again?     (もう一度言って？)          <!-- Could you say that more simply, please? -->
+- [x] Is ... the same as ...?       (は ... と同じですか？)
+- [x] Do you have the time?         (今何時？)
+- [x] What can (S) do that ...      (... のためにSは何ができるだろう)<!-- What can I do that will make me a more well-rounded basketball player? -->
+- [ ] Are you ...ing?               (するつもり？)              <!-- Are you going to Tokyo or New York next week? -->
+- [ ] Do you know anyone            (知り合いがいますか？)      <!-- Do you know anyone in New York? -->
+- [ ] (By) When ... ?               (いつまでに？)              <!-- (By) When do I have to finish this? -->
+- [ ] What ...                      (どんな, どこの？)          <!-- What racket do you use? -->
+- [ ] What's better                 (どっちがいい？)
+- [ ] How do you say .. in English? (どう表現する？)
+- [ ] What's it called?             (なんと呼ばれていますか？)
+- [ ] Could you write it down?      (書いてもらえますか？)
+- [ ] Can you say ... ?             (と言えますか？)            <!-- Can you say my goal is becoming a write? -->
+- [ ] is that true?                 (これは正しいですか？)
+- [ ] what should I do ...          (どうすればよいか)          <!-- What should I do in a situation like this? -->
+- [ ] Can you see me?               (見えます？)
+- [ ] Can you hear me?              (聞こえます？)
+- [ ] I was on mute.                (ミュートにしてました)
+- [ ] I can't see                   (見えない)                  <!-- I can't see you/the material/the notes. -->
+- [ ] Could you make ... bigger?    (大きくして)                <!-- Could you make the material/notes bigger? -->
+- [ ] Could you type it in the chat (文字にして)
