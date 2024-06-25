@@ -4,6 +4,7 @@
 
 - `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
 - `way better`:                             That's just hype. I know `way better` places.
+- [x] no doubt                      (きっと)                    <!-- His policy will no doubt lead to dismal consequences. -->
 
 ## EXTENT
 

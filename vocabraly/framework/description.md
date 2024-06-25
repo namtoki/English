@@ -11,8 +11,8 @@
 - `(S) be supposed to (V)`:                 Dolphins `are supposed to` be intelligent.
 - `It's a custom to (V)`:                   `It's a custom to` take off your shoes before entering ...
 - `It's traditional to (V)`:                In Japan, `it's traditional to` visit ...
-- [x] It depends                    (による)                    <!-- It depends. It depends on the traffic. It depends on how I feel. -->
-- [x] any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
+- `It depends (O)`:                         `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
+- `it's up in the air whether (S) (V)`:     `It's up in the air whether` the game will be called off or not.
 
 ## PROBABILITY
 

@@ -1,14 +1,5 @@
 # OPINION
 
-## UNKNOWN
-
-- [x] slipped my mind               (ド忘れした)                <!-- Your birthday party completely slipped my mind. -->
-- [x] be a blur                     (覚えていない)              <!-- Last weekend was a blur. -->
-- [x] it's up in the air whether .. (決まっていない)            <!-- It's up in the air whether the game will be called off or not. -->
-- [ ] I can't remember ...          (覚えていない)
-- [ ] I won't know until ...        (までわからない)            <!-- I won't know until Friday. -->
-- [ ] I have to say ...             (と言わざるを得ない)        <!-- I have to say your place is adorable! -->
-
 ## OPINION (SUBJECTIVE)
 
 - `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
@@ -16,23 +7,28 @@
 - `I believe`:                              `I believe` she drives a white truck.
 - `I believe in`:                           `I don't believe in` ghosts.
 - `I feel (A)`:                             `I feel bad` about canceling.
+- `I'm sure that (S) (V)`:                  `I am sure that` I will enjoy the movie.
+- `I'm sure of (N)`:                        `I am sure of` enjoying the movie.
+- `(S) be sure to (V)`:                     You `are sure to` see many animals there.
+- `(S) would (V)`:                          I `would` be too nervous. / That `would` be awesome.
+- `I would (V)`:                            `I would` go, if I were you.
+- `I wish (V)`:                             `I wish` I spoke French.
+- `I hope (V)`:                             `I hope` it doesn't rain.
+- `I can't remember`:
+- `I won't know until (O)`:                 `I won't know until` Friday.
+- `I have to say (S) (V)`:                  `I have to say` your place is adorable!
 - `It occurs to me that (S) (V)`:           `It occurs to me that` I've never asked your name.
+- [x] (O) doing, that'd be (adj)    (O が do したら adj だ)     <!-- A Starbucks opening right next to my apartment, that'd be amazing. -->
+- [x] any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
 - `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
 - `~~~. That I`:                            Yes, we need to spend less money. `That I` agree with.
 - `(S) (V-ing). That is (A)`:               `This ramen shop putting whipped cream in soup, that's` gross.
 - `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.
 - `This is something (S) (V)`:              `This is something` a lot of people don't consider.
 - `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
-- [x] be sure that (S) (V)          (確信している)              <!-- I am sure that I will enjoy the movie. -->
-- [x] be sure of (noun)             (確信している)              <!-- I am sure of enjoying the movie. -->
-- [x] be sure to (V)                (きっと)                    <!-- You are sure to see many animals there. -->
-- [x] no doubt                      (きっと)                    <!-- His policy will no doubt lead to dismal consequences. -->
-- [x] would                         (そうなったら .. と思う)    <!-- I would be too nervous. / That would be awesome. -->
-- [x] I would                       (私なら ... する)           <!-- I would go, if I were you. -->
-- [x] (O) doing, that'd be (adj)    (O が do したら adj だ)     <!-- A Starbucks opening right next to my apartment, that'd be amazing. -->
+- `(O) slipped my mind`:                    Your birthday party completely `slipped my mind`.
+- `(O) be a blur`:                          Last weekend `was a blur`.
 - [ ] was/were supposed to ...      (するべきだった)            <!-- She was supposed to say yes. -->
-- [ ] I wish                        (だったらよかったのに)      <!-- I wish I spoke French. -->
-- [ ] I hope                        (だといいな)                <!-- I hope it doesn't rain. -->
 
 ## OPINION (OBJECTIVE)
 
