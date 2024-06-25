@@ -504,3 +504,6 @@
 - help 人 V
   - Just help me find them.
   - He helps me study English.
+
+- `have come a long way`:                   Yeah. We'`ve really come a long way.`
+- `have a long way`:                        I was, but I still `have a long way` to go.

@@ -6,6 +6,7 @@
 - [x] moustache                         (くちひげ)
 - [ ] soft face                         (丸い顔)
 - [ ] strong face                       (四角い顔)
+- `long face`:                              Why the `long face`?
 
 ## PARTS
 
