@@ -10,25 +10,15 @@
 - `I'm sure that (S) (V)`:                  `I am sure that` I will enjoy the movie.
 - `I'm sure of (N)`:                        `I am sure of` enjoying the movie.
 - `(S) be sure to (V)`:                     You `are sure to` see many animals there.
-- `(S) would (V)`:                          I `would` be too nervous. / That `would` be awesome.
-- `I would (V)`:                            `I would` go, if I were you.
 - `I wish (V)`:                             `I wish` I spoke French.
 - `I hope (V)`:                             `I hope` it doesn't rain.
 - `I can't remember`:
 - `I won't know until (O)`:                 `I won't know until` Friday.
 - `I have to say (S) (V)`:                  `I have to say` your place is adorable!
 - `It occurs to me that (S) (V)`:           `It occurs to me that` I've never asked your name.
-- [x] (O) doing, that'd be (adj)    (O が do したら adj だ)     <!-- A Starbucks opening right next to my apartment, that'd be amazing. -->
-- [x] any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
 - `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
-- `~~~. That I`:                            Yes, we need to spend less money. `That I` agree with.
+- `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
 - `(S) (V-ing). That is (A)`:               `This ramen shop putting whipped cream in soup, that's` gross.
-- `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.
-- `This is something (S) (V)`:              `This is something` a lot of people don't consider.
-- `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
-- `(O) slipped my mind`:                    Your birthday party completely `slipped my mind`.
-- `(O) be a blur`:                          Last weekend `was a blur`.
-- [ ] was/were supposed to ...      (するべきだった)            <!-- She was supposed to say yes. -->
 
 ## OPINION (OBJECTIVE)
 
@@ -37,6 +27,12 @@
 - `It's kind of like (O)`:                  `It's kind of like` a noodle, but not exactly.
 - `It’s almost like (O)`:                   `It’s almost like` Christmas.
 - `It feels like (O)`:                      I remember my first day of high school. `It feels like` yesterday.
+
+## OPINION (SUBJUNCTIVE)
+
+- `(S) would (V)`:                          I `would` be too nervous. / That `would` be awesome.
+- `I would (V)`:                            `I would` go, if I were you.
+- `(O) doing, that'd be (A)`:               A Starbucks opening right next to my apartment, `that'd be` amazing.
 
 ## MOOD
 
@@ -134,3 +130,10 @@
 - [ ] Take your time with ..        (急がなくてよい)            <!-- Take your time with this project. -->
 - [x] I remember                    (懐かしい)                  <!-- I remember that trip! -->
 - [x] This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
+- `any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
+- [ ] was/were supposed to ...      (するべきだった)            <!-- She was supposed to say yes. -->
+- `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.
+- `This is something (S) (V)`:              `This is something` a lot of people don't consider.
+- `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
+- `(O) slipped my mind`:                    Your birthday party completely `slipped my mind`.
+- `(O) be a blur`:                          Last weekend `was a blur`.

@@ -1,17 +1,21 @@
 # TAG
 
-# SENTENCE MODIFICATION
+# HEAD
 
-- [x] if I had to guess,                (知らんけど敢えて言うなら)
-- [x] if I'm not mistaken,              (確か 間違っていなければ)
-- [x] ,if that makes sense?             (伝わった？)
-- [x] ,if that works for you            (もしそれが都合が良ければ)
-- [x] if you don't mind                 (よろしければ)
-- [x] ,you know what I mean?            (伝わった？)
-- [x] ,or not really?                   (それとも違う？)                <!-- Do you like this kind of music, or not really? -->
-- [x] this might be just me, but        (自分だけかもやけど)            <!-- This might be just me, but don't you think this is a bit too expensive? -->
-- [x] as ... anticipated,               (予想していた通り)              <!-- As we anticipated, the unemployment rate has risen .... -->
-- [x] as it is,                         (現状では 残念ながら)           <!-- As it is, ordinary people cannot afford to purchase such luxuries. -->
+- `If I had to guess,`:                     `If I had to guess,` I would say that she is single.
+- `If I'm not mistaken,`:                   `If I'm not mistaken,` it's the tallest building in the world.
+- `This might be just me, but`:             `This might be just me, but` don't you think this is a bit too expensive?
+- `As (S) anticipated,`:                    `As we anticipated,` the unemployment rate has risen ....
+- `As it is,`:                              `As it is,` ordinary people cannot afford to purchase such luxuries.
+
+# TAIL
+
+- `,if that makes sense.`:                  I really enjoyed the song for its lyrics, `if that makes sense.`
+- `,if (O) works for you.`:                 So I’ll see you at 7 `if it works for you.`
+- `,if you don't mind.`:                    I have a suggestion, `if you don't mind.`
+- `,you know what I mean?`:                 All I’m saying is, I’m right and you’re wrong. `You know what I mean?`
+- `,or not really?`:                        Do you like this kind of music, `or not really?`
+
 - [x] anyway,                           (いずれにしても)
 - [x] in any case,                      (いずれにしても)                <!-- In any case, the union has to compromise to a certain extent. -->
 - [x] at the end of the day,            (結局のところ)                  <!-- At the end of the day, this is not that important. -->
