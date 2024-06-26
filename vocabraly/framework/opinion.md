@@ -54,19 +54,19 @@
 
 ## CORRECTION
 
-- [x] It's not  that (S) (V)        (       というわけではなく) <!-- It's not like Joe is a bad guy. He is just shady sometimes. -->
-- [x] It's not  like (S) (V)        (別に...というわけではない)
-- [x] It's just that (S) (V)        (なだけ)
-- [x] It's more like (S) (V)        (どちらかというと)
-- [x] It's more that (S) (V)        (どちらかというと)
-- [x] It's not the fact that        (別に...だからではない)     <!-- It's not the fact that I find him boring. -->
-- [x] It's not just the fact that   (それは...だからだけではない)<!-- It's not just the fact that you called me during a meeting. -->
-- [x] You'd think (that) (S) (V)    (と思うだろうけど、)        <!-- You'd think Japan would be really technologically advanced, but ,,, -->
-- [x] That's not to say (that)      (と言っているわけではない)  <!-- That's not to say that it'll be impossible without it, but,,, -->
-- [ ] I didn't mean it.             (そんなつもりじゃなかった)
-- [ ] I was just saying             (と言いたかっただけ)        <!-- No! I was just saying ... it's a new look for you. -->
-- [ ] I'm just trying to            (しようとしているだけ)      <!-- I'm just trying to explain what happened. -->
-- [x] just because ... doesn't mean (と言って...ではない)       <!-- Just because he smiles a lot doesn't mean he's kind. -->
+- `It's not that (S) (V)`:                  `It's not like` Joe is a bad guy. He is just shady sometimes.
+- `It's not like (S) (V)`:
+- `It's just that (S) (V)`:
+- `It's more like (S) (V)`:
+- `It's more that (S) (V)`:
+- `It's not the fact that (S) (V)`:         `It's not the fact that` I find him boring.
+- `It's not just the fact that (S) (V)`:    `It's not just the fact that` you called me during a meeting.
+- `You'd think (that) (S) (V), but`:        `You'd think` Japan would be really technologically advanced, but ,,,
+- `~~~. That's not to say (that)`:          `That's not to say that` it'll be impossible without it, but,,,
+- `I didn't mean it.`:
+- `I was just saying`:                      No! `I was just saying` ... it's a new look for you.
+- `I'm just trying to (V)`:                 `I'm just trying to` explain what happened.
+- `just because ... doesn't mean`:          `Just because` he smiles a lot `doesn't mean` he's kind.
 
 ## SUGGESTION
 
