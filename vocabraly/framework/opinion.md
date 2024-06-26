@@ -137,3 +137,4 @@
 - `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
 - `(O) slipped my mind`:                    Your birthday party completely `slipped my mind`.
 - `(O) be a blur`:                          Last weekend `was a blur`.
+- `I have a problem with (O)`:              `I have a problem with` his table manners.

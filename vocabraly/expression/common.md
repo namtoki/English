@@ -507,3 +507,6 @@
 
 - `have come a long way`:                   Yeah. We'`ve really come a long way.`
 - `have a long way`:                        I was, but I still `have a long way` to go.
+- `It's the right time to (V)`:             `It's the right time to` take chances.
+- `be in the right place`:                  Am I `in the right place`?
+- `no room for`:                            I have `no room` in my schedule for a new hobby. / There's `no room` for mistakes.

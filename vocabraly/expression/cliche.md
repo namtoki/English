@@ -35,9 +35,13 @@
 - [ ] I'd like to ask you a favor.  (頼みがあるの)
 - [ ] Don't get me wrong.           (誤解しないでね)
 - [ ] You might wonder ...          (と思うかもしれません)      <!-- You might wonder why that is so. -->
+- `You needed a favor?`:
 
 # REACTION
 
+- `That's fanny.`:                  `That's fanny!`(fanny ha-ha) / `That's fanny.` Where are my keys?(fanny weird)
+- `Just give it time.`:             Dating is a nightmare. `Just give it time.`
+- `Let's say (O)`:                  `Let's say` dinner at seven. / `Let's say` Monday at three.
 - [x] (That's) true                 (その通りだね)
 - [x] (That) Sounds like a plan     (それでいこう)
 - [x] (That) makes sense            (なるほど)
