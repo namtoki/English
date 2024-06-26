@@ -28,13 +28,10 @@
 - [x] cope with                         (折り合いをつける)      <!-- I'm trying to cope with loneliness in these new and unfamiliar surroundings. -->
 - [x] deal with                         (対処する)
 - [x] get to                            (通う 着く)             <!-- We live in Kamioka so Yokohama is easy to get to. = access-->
-- `get back to`
-  - I should `get back to` work.
-  - I'll `get back to` sleep now.
-  - I want to `get back to` how it was before.
-  - I'm trying to `get back to` my college weight.
-- `get the hang of it`
-  - but I'm `getting the hang of it`.
+- `get back to`:                            I should `get back to` work. / I'll `get back to` sleep now.
+- `get back to`:                            I want to `get back to` how it was before. / I'm trying to `get back to` my college weight.
+- `get the hang of it`:                     but I'm `getting the hang of it`.
+- `take up`:                                Fold them like this. They `take up` less space.
 - [x] go do                             (do しにいく)           <!-- Do you want to go have lunch? -->
 - [x] have a lot in common              (共通点が多い)          <!-- As a rule, twins have a lot in common. -->
 - [x] have little to do with ...        (とほとんど関係がない)

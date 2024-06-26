@@ -70,25 +70,25 @@
 
 ## SUGGESTION
 
-- [x] I say ...                     (したほうがいい)            <!-- I say it's time you force the issue. -->
-- [x] I'd (V)                       (自分なら V する)           <!-- I'd ask Tom. -->
-- [x] be better off (noun / ing)    (のほうがいい)              <!-- You're better off starting from the beginning than trying ... -->
-- [x] should                        (したほうがいい)            <!-- We should ask first. -->
-- [x] (might) want to               (してみてよ してごらん)     <!-- You want to pull your fingers in like this. -->
-- [x] might as well                 (したほうがよさそうだ)      <!-- You might as well walk home. -->
-- [x] it would be better if         (したほうがいいでしょうね)  <!-- Would it be better if I got wet? -->
-- [x] have to                       (*    しなくちゃ)           <!-- I have to go home. -->
-- [x] gotta                         (*    しなくちゃ)           <!-- I gotta go. -->
-- [x] be gonna have to              (**   しなければ 今後 残念)
-- [x] have (got) to                 (**   しなければ 必要)      <!-- You've got to keep up with it. -->
-- [x] must                          (***  しなければ 義務)
-- [ ] had better                    (**** しなければ 緊迫)
-- [ ] need to                       (*    しなくちゃ)           <!-- I need to get back to the office. -->
-- [ ] need to                       (していただきたい)
-- [ ] be supposed to ...            (であるべき)
-- [ ] it might be good idea to      (したほうがいいでしょうね)  <!-- It might be a good idea to read the reviews before you buy it. -->
-- [ ] the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
-- [ ] You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
+- `I say (S) (V)`:                          `I say` it's time you force the issue.
+- `I'd (V)`:                                `I'd` ask Tom.
+- `be better off (noun / ing)    (のほうがいい)              <!-- You're better off starting from the beginning than trying ... -->
+- `should                        (したほうがいい)            <!-- We should ask first. -->
+- `(might) want to               (してみてよ してごらん)     <!-- You want to pull your fingers in like this. -->
+- `might as well                 (したほうがよさそうだ)      <!-- You might as well walk home. -->
+- `it would be better if         (したほうがいいでしょうね)  <!-- Would it be better if I got wet? -->
+- `have to                       (*    しなくちゃ)           <!-- I have to go home. -->
+- `gotta                         (*    しなくちゃ)           <!-- I gotta go. -->
+- `be gonna have to              (**   しなければ 今後 残念)
+- `have (got) to                 (**   しなければ 必要)      <!-- You've got to keep up with it. -->
+- `must                          (***  しなければ 義務)
+- `had better                    (**** しなければ 緊迫)
+- `need to                       (*    しなくちゃ)           <!-- I need to get back to the office. -->
+- `need to                       (していただきたい)
+- `be supposed to ...            (であるべき)
+- `it might be good idea to      (したほうがいいでしょうね)  <!-- It might be a good idea to read the reviews before you buy it. -->
+- `the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
+- `You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
 
 ## HABIT
 
