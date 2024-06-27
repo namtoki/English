@@ -2,6 +2,7 @@
 
 ## OPINION (SUBJECTIVE)
 
+- `I'd say (that)`:                         `I'd say` it's usually more art than science.
 - `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
 - `I find (O) (C)`:                         `I find it really interesting` to study English.
 - `I believe`:                              `I believe` she drives a white truck.
@@ -48,10 +49,6 @@
 - `I feel like (O)`:                        `I feel like` an idiot.
 - `Chances are (that) (S) (V)`:             It's foggy. But `chances are` it'll clear up later on.
 
-## RESPONSE
-
-- `I'd say (that)`:                         `I'd say` it's usually more art than science.
-
 ## CORRECTION
 
 - `It's not that (S) (V)`:                  `It's not like` Joe is a bad guy. He is just shady sometimes.
@@ -70,66 +67,62 @@
 
 ## SUGGESTION
 
-- `I say (S) (V)`:                          `I say` it's time you force the issue.
 - `I'd (V)`:                                `I'd` ask Tom.
-- `be better off (noun / ing)    (のほうがいい)              <!-- You're better off starting from the beginning than trying ... -->
-- `should                        (したほうがいい)            <!-- We should ask first. -->
-- `(might) want to               (してみてよ してごらん)     <!-- You want to pull your fingers in like this. -->
-- `might as well                 (したほうがよさそうだ)      <!-- You might as well walk home. -->
-- `it would be better if         (したほうがいいでしょうね)  <!-- Would it be better if I got wet? -->
-- `have to                       (*    しなくちゃ)           <!-- I have to go home. -->
-- `gotta                         (*    しなくちゃ)           <!-- I gotta go. -->
-- `be gonna have to              (**   しなければ 今後 残念)
-- `have (got) to                 (**   しなければ 必要)      <!-- You've got to keep up with it. -->
-- `must                          (***  しなければ 義務)
-- `had better                    (**** しなければ 緊迫)
-- `need to                       (*    しなくちゃ)           <!-- I need to get back to the office. -->
-- `need to                       (していただきたい)
-- `be supposed to ...            (であるべき)
-- `it might be good idea to      (したほうがいいでしょうね)  <!-- It might be a good idea to read the reviews before you buy it. -->
-- `the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
-- `You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
+- `I say (S) (V)`:                          `I say` it's time you force the issue.
+- `(S) be better off (N)`:                  You`'re better off` starting from the beginning than trying ...
+- `(S) should (V)`:                         We `should` ask first.
+- `(S) (might) want to (V)`:                You `want to` pull your fingers in like this.
+- `(S) might as well (V)`:                  You `might as well` walk home.
+- `it would be better if (S) (V)`:          `Would it be better if` I got wet?
+- `(S) have to (V)`:                        I `have to` go home.
+- `(S) gotta (V)`:                          I `gotta` go.
+- `(S) be gonna have to (V)`:               今後 残念
+- `(S) have (got) to (V)`:                  必要 / You`'ve got to` keep up with it.
+- `(S) must (V)`:                           義務
+- `(S) had better (V)`:                     緊迫
+- `(S) need to (V)`:                        I `need to` get back to the office.
+- `(S) be supposed to (V)`:                 であるべき
+- `It might be a good idea to (V)`:         `It might be a good idea to` read the reviews before you buy it.
 
 ## HABIT
 
-- [x] get/be used to ...            (慣れる/ている)             <!-- I'm getting used to working with new coworkers here. -->
-- [x] get/be familiar with ...      (慣れる/ている)             <!-- He got familiar with a new laptop. -->
-- [x] tend to ...                   (普段は ... する)           <!-- I tend to prefer non-fiction -->
-- [x] tend to ...                   (たいてい ... する)         <!-- I tend not to remember my dreams -->
-- [x] tend to ...                   (ついつい ... する)         <!-- I tend to eat a lot when I'm nervous -->
-- [x] It's been a while since       (ぶりだ)                    <!-- It's been a while since I've swung a tennis racket. -->
-- [x] find myself doing             (気付いたらdoしてる)        <!-- I often find myself keeping an eye on the stock market. -->
-- [ ] always                        (普段は ... する)           <!-- In my family, we always eat turkey on ... -->
-- [ ] usually end up ... ing        (普段は ... する)           <!-- I usually end up getting fast food. (ついついしちゃう) -->
-- [ ] It's been a long time since   (ぶりだ)
-- [ ] It's been ages since          (ぶりだ)
+- `(S) get/be used to (V-ing)`:             I'm `getting used to` working with new coworkers here.
+- `(S) get/be familiar with (O)`:           He `got familiar with` a new laptop.
+- `(S) always (V)`:                         In my family, we `always` eat turkey on ...
+- `(S) tend to (V)`:                        普段 / I `tend to` prefer non-fiction.
+- `(S) tend to (V)`:                        たいてい / I `tend not to` remember my dreams.
+- `(S) tend to (V)`:                        ついつい / I `tend to` eat a lot when I'm nervous.
+- `(S) usually end up (V-ing)`:             I `usually end up` getting fast food.
+- `(S) find myself (V-ing)`:                I often `find myself` keeping an eye on the stock market.
+- `It's been a while since (S) (V)`:        `It's been a while since` I've swung a tennis racket.
+- `It's been a long time since`:
+- `It's been ages since`:
 
 ## PREFERENCE
 
-- [x] It doesn't matter             (どうでもよい)              <!-- It doesn't matter. I quit. -->
-- [x] It doesn't matter.            (どっちでもよい)            <!-- It doesn't matter. They're both great. -->
-- [x] I'm not particular about it.  (こだわりはない)
-- [x] I might                       (するかも)                  <!-- I might finish early tonight. -->
-- [x] It's pleasant.                (心地よい)                  <!-- My favorite pastime is strolling along the shore. It's pleasant. -->
-- [x] be really into                (like a lot / interested in)<!-- I'm really into ramen. -->
-- [x] be not really into            (dislike / not interested)  <!-- I'm not really into sweets. -->
-- [x] I'm terrible with             (苦手)
-- [x] I don't care for              (苦手)                      <!-- I don't care for spicy food. -->
-- [x] It/Something doesn't add up   (腑に落ちない)              <!-- It doesn't add up at all. -->
-- [x] It's no use ... ing           (しても無駄だ)              <!-- It's no use polishing it. -->
-- [x] how (A) is (O)                (...ってすごく...だよね)    <!-- How funny is it? -->
-- [ ] might as well ...             (してもいい)                <!-- We might as well walk there. -->
-- [ ] I have trouble ... ing        (苦手 難しい 大変 できない)
-- [ ] I can't tell you how much ... (どれだけ...か伝えきれない) <!-- I can't tell you how much I loved it. -->
-- [ ] be eating me alive.           (押しつぶされそう)          <!-- Keeping secrets was eating me alive. -->
-- [ ] leave nothing to be desired   (申し分ない)                <!-- Your summary leaves nothing to be desired. -->
-- [ ] I will grant you that ...     (ということは認めよう)
-- [x] (O) gets (S) doing            (O で S は do しちゃう)     <!-- This song always gets me feeling some type of way. -->
-- [x] it can wait until             (まででいい)                <!-- Is this job urgent? No, it can wait until tomorrow. -->
-- [ ] you can still                 (でも大丈夫)                <!-- but you can still even with this one say my job ... -->
-- [ ] Take your time with ..        (急がなくてよい)            <!-- Take your time with this project. -->
-- [x] I remember                    (懐かしい)                  <!-- I remember that trip! -->
-- [x] This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
+- `(S) be really into (O)`:                 I`'m really into` ramen.
+- `It's pleasant.`:                         My favorite pastime is strolling along the shore. `It's pleasant.`
+- `I might (V)`:                            `I might` finish early tonight.
+- `It doesn't matter.`:                     `It doesn't matter.` I quit. / `It doesn't matter.` They're both great.
+- `I'm not particular about it.`:
+- `(S) be not really into (V)`:             I`'m not really into` sweets.
+- `I'm terrible with (O)`:
+- `I don't care for (O)`:                   `I don't care for` spicy food.
+- `It/Something doesn't add up   (腑に落ちない)              <!-- It doesn't add up at all. -->
+- `It's no use ... ing           (しても無駄だ)              <!-- It's no use polishing it. -->
+- `how (A) is (O)                (...ってすごく...だよね)    <!-- How funny is it? -->
+- `might as well ...             (してもいい)                <!-- We might as well walk there. -->
+- `I have trouble ... ing        (苦手 難しい 大変 できない)
+- `I can't tell you how much ... (どれだけ...か伝えきれない) <!-- I can't tell you how much I loved it. -->
+- `be eating me alive.           (押しつぶされそう)          <!-- Keeping secrets was eating me alive. -->
+- `leave nothing to be desired   (申し分ない)                <!-- Your summary leaves nothing to be desired. -->
+- `I will grant you that ...     (ということは認めよう)
+- `(O) gets (S) doing            (O で S は do しちゃう)     <!-- This song always gets me feeling some type of way. -->
+- `it can wait until             (まででいい)                <!-- Is this job urgent? No, it can wait until tomorrow. -->
+- `you can still                 (でも大丈夫)                <!-- but you can still even with this one say my job ... -->
+- `Take your time with ..        (急がなくてよい)            <!-- Take your time with this project. -->
+- `I remember                    (懐かしい)                  <!-- I remember that trip! -->
+- `This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
 - `any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
 - [ ] was/were supposed to ...      (するべきだった)            <!-- She was supposed to say yes. -->
 - `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.

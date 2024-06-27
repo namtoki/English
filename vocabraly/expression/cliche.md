@@ -45,6 +45,8 @@
 - `Let's say (O)`:                  `Let's say` dinner at seven. / `Let's say` Monday at three.
 - `Here we go again.`:
 - `You never know.`:                I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
+- `the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
+- `You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
 - [x] (That's) true                 (その通りだね)
 - [x] (That) Sounds like a plan     (それでいこう)
 - [x] (That) makes sense            (なるほど)
