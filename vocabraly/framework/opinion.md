@@ -1,6 +1,6 @@
 # OPINION
 
-## OPINION (SUBJECTIVE)
+## OPINION
 
 - `I'd say (that)`:                         `I'd say` it's usually more art than science.
 - `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
@@ -17,23 +17,20 @@
 - `I won't know until (O)`:                 `I won't know until` Friday.
 - `I have to say (S) (V)`:                  `I have to say` your place is adorable!
 - `It occurs to me that (S) (V)`:           `It occurs to me that` I've never asked your name.
-- `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
-- `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
-- `(S) (V-ing). That is (A)`:               `This ramen shop putting whipped cream in soup, that's` gross.
-
-## OPINION (OBJECTIVE)
-
 - `It's (A) how (S) (V)`:                   `It's interesting how` you said that.
 - `It's like (O)`:                          `It's like` surfing on land.
 - `It's kind of like (O)`:                  `It's kind of like` a noodle, but not exactly.
 - `It’s almost like (O)`:                   `It’s almost like` Christmas.
 - `It feels like (O)`:                      I remember my first day of high school. `It feels like` yesterday.
+- `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
+- `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
+- `(S) (V-ing). That is (A)`:               `This ramen shop putting whipped cream in soup, that's` gross.
 
 ## OPINION (SUBJUNCTIVE)
 
 - `(S) would (V)`:                          I `would` be too nervous. / That `would` be awesome.
 - `I would (V)`:                            `I would` go, if I were you.
-- `(O) doing, that'd be (A)`:               A Starbucks opening right next to my apartment, `that'd be` amazing.
+- `(S) (V-ing), that'd be (A)`:               A Starbucks opening right next to my apartment, `that'd be` amazing.
 
 ## MOOD
 
