@@ -98,33 +98,41 @@
 - `It's been a long time since`:
 - `It's been ages since`:
 
-## PREFERENCE
+## PREFERENCE (POSITIVE)
 
 - `(S) be really into (O)`:                 I`'m really into` ramen.
 - `It's pleasant.`:                         My favorite pastime is strolling along the shore. `It's pleasant.`
-- `I might (V)`:                            `I might` finish early tonight.
+- `I remember (O)`:                         `I remember` that trip!
+- `(O) brings back memories`:               This song `brings back memories!`
+
+## PREFERENCE (SO-SO)
+
 - `It doesn't matter.`:                     `It doesn't matter.` I quit. / `It doesn't matter.` They're both great.
 - `I'm not particular about it.`:
+- `(S) might as well (V)`:                  We `might as well` walk there.
+- `It can wait until`:                      Is this job urgent? No, `it can wait until` tomorrow.
+- `You can still (V)`:                      but `you can still` even with this one say my job ...
+- `Take your time with (O)`:                `Take your time with` this project.
+- `any (O) will do as long as (S) (V)`:     `Any apartment will do as long as` the rent is low.
+
+## PREFERENCE (NEGATIVE)
+
 - `(S) be not really into (V)`:             I`'m not really into` sweets.
 - `I'm terrible with (O)`:
 - `I don't care for (O)`:                   `I don't care for` spicy food.
-- `It/Something doesn't add up   (腑に落ちない)              <!-- It doesn't add up at all. -->
-- `It's no use ... ing           (しても無駄だ)              <!-- It's no use polishing it. -->
-- `how (A) is (O)                (...ってすごく...だよね)    <!-- How funny is it? -->
-- `might as well ...             (してもいい)                <!-- We might as well walk there. -->
-- `I have trouble ... ing        (苦手 難しい 大変 できない)
-- `I can't tell you how much ... (どれだけ...か伝えきれない) <!-- I can't tell you how much I loved it. -->
-- `be eating me alive.           (押しつぶされそう)          <!-- Keeping secrets was eating me alive. -->
-- `leave nothing to be desired   (申し分ない)                <!-- Your summary leaves nothing to be desired. -->
-- `I will grant you that ...     (ということは認めよう)
-- `(O) gets (S) doing            (O で S は do しちゃう)     <!-- This song always gets me feeling some type of way. -->
-- `it can wait until             (まででいい)                <!-- Is this job urgent? No, it can wait until tomorrow. -->
-- `you can still                 (でも大丈夫)                <!-- but you can still even with this one say my job ... -->
-- `Take your time with ..        (急がなくてよい)            <!-- Take your time with this project. -->
-- `I remember                    (懐かしい)                  <!-- I remember that trip! -->
-- `This ... brings back memories (懐かしい)                  <!-- This song brings back memories! -->
-- `any ... will do as long as    (である限り大丈夫)          <!-- Any apartment will do as long as the rent is low. -->
-- [ ] was/were supposed to ...      (するべきだった)            <!-- She was supposed to say yes. -->
+- `I have trouble (V-ing)`:                 `I have trouble` getting to sleep. / `I have trouble` making friends.
+- `(S) doesn't add up`:                     It `doesn't add up` at all.
+- `It's no use (V-ing)`:                    `It's no use` polishing it.
+- `(S) be eating me alive.`:                Keeping secrets `was eating me alive.`
+- `(S) was supposed to (V)`:                She `was supposed to` say yes.
+
+## PREFERENCE
+
+- `I might (V)`:                            `I might` finish early tonight.
+- `How (A) is (O)`:                         `How funny is it`?
+- `I can't tell you how much (S) (V)`:      `I can't tell you how much` I loved it.
+- `(S) leave nothing to be desired`:        Your summary `leaves nothing to be desired.`
+- `(O) gets (S) doing`:                     This song always `gets me feeling` some type of way.
 - `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.
 - `This is something (S) (V)`:              `This is something` a lot of people don't consider.
 - `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
