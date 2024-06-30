@@ -17,6 +17,7 @@
 - [ ] on account of                     (困難や問題などの理由)          <!-- Our flight to Vienna was delayed on account of a minor accident. -->
 - [ ] at the thought of ...             (のことを考えると)              <!-- I tremble with fear at the thought of an injection. -->
 - [ ] as a result of ...                (because of)                    <!-- As a result of his ridiculous venture, he is in danger  of going bankrupt. -->
+- `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
 
 ## OBJECTIVE
 
