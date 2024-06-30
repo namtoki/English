@@ -4,7 +4,28 @@
 
 - `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
 - `way better`:                             That's just hype. I know `way better` places.
+- `the first thing about`:                  I don't know `the first thing about` writing movies.
 - [x] no doubt                      (きっと)                    <!-- His policy will no doubt lead to dismal consequences. -->
+- [ ] Such a                            (まさしく)                      <!-- That was such a fun day. / You are such a pro. -->
+- [ ] that                              (そんなに)                      <!-- I guess it wasn't that important. -->
+- [ ] next to ...                       (ほとんど)                      <!-- I know next to nothing about it. -->
+- [ ] anything but ...                  (なんてとんでもない)            <!-- Joe is anything but diligent. That's why he flunked math again. -->
+- [ ] high-key                          (本当に)                        <!-- I high-key cannot stand when my roommate sings in the shower. -->
+- [ ] like ...                          (約)                            <!-- There were only like thirty people there. -->
+- [x] kind of ...                       (なんとなく少し)                <!-- I'm kind of hungry. -->
+- [x] more of ...                       (どちらかと言うと)              <!-- I think he is more of an entertainer. -->
+- [x] more like ... (than)              (みたいな感じ)                  <!-- Dogs are more like friends than pets. -->
+- [x] a bit of ...                      (ちょっと... / なんか...)       <!-- It's a bit of a risk in this environment, isn't it? -->
+- [x] low-key ...                       (なんとなく少し)                <!-- I’m low-key in love with my study partner’s new cologne. -->
+- [ ] some kind of ...                  (なにか)                        <!-- born with some kind of special talent. / some kind of sport -->
+- [x] ... like                          (とか)                          <!-- Things like party hats, paper plates and napkins. -->
+- [x] ... thing/stuff like that         (みたいなもの)                  <!-- I think he's learning Spanish or something like that, if that makes sense. -->
+- [ ] ... and so on                     (など)                          <!-- I'm tired of doing the dished, doing the laundry, and so on! -->
+- [x] ... kind of thing                 (的なもの)                      <!-- This is a flip phone kind of thing but a bit different. -->
+- [x] ... and stuff                     (とかいろいろ)                  <!-- We've got to do editing and stuff. -->
+- [ ] ... or whatever                   (とかいろいろ)                  <!-- I'm just going to read a book or whatever. -->
+- [ ] ... or so                         (とかそのへん)                  <!-- It's 20 dollars or so. -->
+- [x] the least                         (ちっとも ... ない)             <!-- I have the least confidence about this answer. -->
 
 ## EXTENT
 
@@ -24,6 +45,7 @@
 
 ## HOW
 
+- `rightly`:                      `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [x] in a way that                     (な感じで)                      <!-- Some people explain simple things in a way that makes it sound complicated. -->
 - [x] just out of curiosity             (単なる好奇心なのですが)        <!-- Just out of curiosity, why did you come to Japan? -->
 - [x] out of habit                      (くせで)                        <!-- I got the Namboku line out of habit. -->

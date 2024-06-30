@@ -120,6 +120,7 @@
 - `I have trouble (V-ing)`:                 `I have trouble` getting to sleep. / `I have trouble` making friends.
 - `(S) doesn't add up`:                     It `doesn't add up` at all.
 - `It's no use (V-ing)`:                    `It's no use` polishing it.
+- `It doesn't mean anything`:               `It doesn't mean anything` to me anymore.
 - `(S) be eating me alive.`:                Keeping secrets `was eating me alive.`
 - `(S) was supposed to (V)`:                She `was supposed to` say yes.
 
@@ -132,6 +133,7 @@
 - `(O) gets (S) doing`:                     This song always `gets me feeling` some type of way.
 - `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.
 - `This is something (S) (V)`:              `This is something` a lot of people don't consider.
+- `That's the way (S) (V)`:                 `That's the way` I like it. / `That's the way` I prefer it.
 - `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
 - `(O) slipped my mind`:                    Your birthday party completely `slipped my mind`.
 - `(O) be a blur`:                          Last weekend `was a blur`.

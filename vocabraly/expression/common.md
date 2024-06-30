@@ -507,3 +507,4 @@
 - `It's the right time to (V)`:             `It's the right time to` take chances.
 - `be in the right place`:                  Am I `in the right place`?
 - `no room for`:                            I have `no room` in my schedule for a new hobby. / There's `no room` for mistakes.
+- `keep one's chin up`:                     `Keep your chin up.`

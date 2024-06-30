@@ -46,6 +46,11 @@
 - `Let's say (O)`:                  `Let's say` dinner at seven. / `Let's say` Monday at three.
 - `Here we go again.`:
 - `You never know.`:                I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
+- `(I'm) happy to help.`:           Thanks for reading my outline. `Happy to help!`
+- `I'm sorry`:                      `I'm sorry` to hear that. / `I'm sorry` for your lost.
+- `I thought you said (O)`:         What? `I thought you said` seven o'clock. / `I thought you said` you were a vegetarian.
+- `Hey, stranger!`:
+- `I bet.`:                         Being a boss is stressful. `I bet.` / Disneyland was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
 - `the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
 - `You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
 - [x] (That's) true                 (その通りだね)
@@ -162,6 +167,7 @@
 - [x] It's on me.                   (おごりです)
 - [x] Keep the change               (おつりはいりません)
 - [x] That's how it is.             (そういうもんです)
+- `That's just the way it is.`:
 - [x] Thank God ...                 (... で助かった)            <!-- Thank God I brought my charger. -->
 - [x] I can't help it.              (仕方ない)
 - [x] There's nothing we can do about it (仕方ない)
