@@ -84,6 +84,7 @@
 - [ ] dismiss                           (解雇する)
 - [ ] move up                           (予定を繰り上げる)
 - [ ] push back                         (予定を後ろ倒しにする)
+make a living
 
 ## OTHERS
 

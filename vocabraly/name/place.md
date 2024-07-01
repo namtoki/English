@@ -18,6 +18,7 @@
 ## SPOT
 
 - `palace`:
+- `villa`:                                  I'm envious of you residing in such a gorgeous `villa`.
 - `chimney`:                                A `chimney` is an architectural ventilation structure ,,, that isolates hot toxic exhaust gases ,,,
 - `garage /gərάːʒ, ‐rάːdʒ/`:
 - `mural`:                                  A `mural` is any piece of graphic artwork that is painted or applied directly to a wall,,,,
