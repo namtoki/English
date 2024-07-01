@@ -2,19 +2,20 @@
 
 ## PLACE
 
-- [x] chimney                           (煙突)
-- [x] cliff                             (崖)
-- [x] countryside                       (田舎 地方)
-- [x] fancy neighborhood                (高級街)
-- [x] forest / woods                    (森)
-- [x] garage                            (車庫)
-- [x] harbor                            (港 避難所)
-- [x] hilly area                        (丘陵地)
-- [x] mural                             (壁画)
-- [x] palace                            (宮殿 官邸 公邸 大邸宅)
-- [x] scene                             (現場)                  <!-- The police arrived at the scene quickly. -->
-- [x] world heritage                    (世界遺産)
+- `countryside`:                            A rural area or a `countryside` is a geographic area that is located outside towns and cities.
+- `forest`:
+- `fancy neighborhood`:
+- `hilly area`:
+- `harbor`:
+- `cliff`:                                  A `cliff` is an area of rock which has a general angle defined by the vertical, or nearly vertical.
+- `woods`:
+- `world heritage (site)`:                  `World Heritage Sites` are landmarks and areas with legal protection by an international convention,,,
+- `palace`:
+- `chimney`:                                A `chimney` is an architectural ventilation structure ,,, that isolates hot toxic exhaust gases ,,,
+- `garage /gərάːʒ, ‐rάːdʒ/`:
+- `mural`:                                  A `mural` is any piece of graphic artwork that is painted or applied directly to a wall,,,,
+- `scene`:                                  The police arrived at the `scene` quickly.
 
 ## NATION
 
-- [ ] Vienna                            (ウィーン)
+- `Vienna`:                                 `Vienna` is the capital, most populous city, and one of nine federal states of Austria.
