@@ -2,6 +2,7 @@
 
 ## EMPHASIS
 
+- `no longer`:                              Japanese men `no longer` wear their hair in topknots.
 - `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
 - `way better`:                             That's just hype. I know `way better` places.
 - `the first thing about`:                  I don't know `the first thing about` writing movies.

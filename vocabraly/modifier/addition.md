@@ -2,25 +2,25 @@
 
 ## REASON
 
-- [x] because + 文                      (直接的理由)
-- [x] because of + Noun                 (直接的理由)
-- [x] the reason being                  (というのも)                    <!-- I decided to turn down the job offer. The reason being that, I ... -->
-- [x] thanks to                         (良い理由 / 文頭)
-- [x] for one thing                     (その理由の一つは)              <!-- I can't put you up. For one thing, my dad drops in on me from time to time.-->
-- [x] That's how ...                    (こうすることで)
-- [x] given that                        (を考慮すると)
-- [x] It's the fact that ...            (それは...だからだ)             <!-- But not because it's so big. It's the fact that it's so diverse. -->
-- [ ] since                             (既出の理由)
-- [ ] as                                (補足的理由)
-- [ ] due to                            (悪い理由)
-- [ ] owing to                          (形式的な理由 / 文頭)           <!-- Owing to illness, some representatives were absent from ... -->
-- [ ] on account of                     (困難や問題などの理由)          <!-- Our flight to Vienna was delayed on account of a minor accident. -->
-- [ ] at the thought of ...             (のことを考えると)              <!-- I tremble with fear at the thought of an injection. -->
-- [ ] as a result of ...                (because of)                    <!-- As a result of his ridiculous venture, he is in danger  of going bankrupt. -->
+- `because (S) (V)`:
+- `because of (N)`:
+- `the reason being that`:                  I decided to turn down the job offer. `The reason being that,` I didn’t want to relocate.
+- `Thanks to`:
+- `for one thing ,,, for another thing`:    I can't put you up. `For one thing,` my dad drops in on me from time to time.
+- `That's how ...                    (こうすることで)
+- `It's the fact that ...            (それは...だからだ)             <!-- But not because it's so big. It's the fact that it's so diverse. -->
+- `since                             (既出の理由)
+- `as                                (補足的理由)
+- `due to                            (悪い理由)
+- `owing to                          (形式的な理由 / 文頭)           <!-- Owing to illness, some representatives were absent from ... -->
+- `on account of                     (困難や問題などの理由)          <!-- Our flight to Vienna was delayed on account of a minor accident. -->
+- `at the thought of ...             (のことを考えると)              <!-- I tremble with fear at the thought of an injection. -->
+- `as a result of ...                (because of)                    <!-- As a result of his ridiculous venture, he is in danger  of going bankrupt. -->
 - `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
 
 ## OBJECTIVE
 
+- `given that                        (を考慮すると)
 - [x] (in order) to                     (のために 一般)                 <!-- In order to keep up its competitiveness in the world, Japan ... -->
 - [x] so                                (するように)                    <!-- Tighten the lid so the food doesn't go bad. -->
 - [ ] so as to                          (のために 堅い)

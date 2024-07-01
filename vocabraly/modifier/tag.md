@@ -9,27 +9,25 @@
 - `As it is,`:                              `As it is,` ordinary people cannot afford to purchase such luxuries.
 - `I hope you don't mind`:                  `I hope you don't mind if` I eat while we talk.
 - `The fact is (S) (V)`:                    `The fact is,` I don't have enough money.
-- `It goes without saying that (S) (V)`:    `It goes without saying that` the aging of society is inevitable. -->
-- `You know as well as I do that     (ご存じかと思いますが)
-- `I don't want to bother you.       (お邪魔はしたくないのですが)
-- `I hope I'm not interrupting you   (お邪魔はしたくないのですが)
+- `It goes without saying that (S) (V)`:    `It goes without saying that` the aging of society is inevitable.
+- `You know as well as I do that (S) (V)`:  `You know as well as I do that` this is very important.
+- `I hope I'm not interrupting you,`:
 
 # BIND
 
-- [x] anyway,                           (いずれにしても)
-- [x] in any case,                      (いずれにしても)                <!-- In any case, the union has to compromise to a certain extent. -->
-- [x] at the end of the day,            (結局のところ)                  <!-- At the end of the day, this is not that important. -->
-- [ ] let's just say                    (とりま...とだけ言っておくよ)   <!-- The environment that let's just say was set up for my ... -->
+- `anyway`:                                 That’s a funny story. `Anyway,` he is late today, isn’t he?
+- `in any case`:                            `In any case,` the union has to compromise to a certain extent.
+- `at the end of the day,`:                 `At the end of the day,` this is not that important.
+- `let's just say`:                         The environment that `let's just say` was set up for my ...
 
 # TAIL
 
-- `,if that makes sense.`:                  I really enjoyed the song for its lyrics, `if that makes sense.`
-- `,if (O) works for you.`:                 So I’ll see you at 7 `if it works for you.`
-- `,if you don't mind.`:                    I have a suggestion, `if you don't mind.`
-- `,you know what I mean?`:                 All I’m saying is, I’m right and you’re wrong. `You know what I mean?`
-- `,or not really?`:                        Do you like this kind of music, `or not really?`
-- [x] at this point                     (ここまで来たら)                <!-- I'm ready to quit at this point. -->
-- [x] if you think about it,            (考え方によっては)              <!-- It's crazy how we can communicate like this if you think about it. -->
-- [ ] ,or what?                         (それとも違う？)                <!-- Are we gonna have fun or what? -->
-- [ ] if you ask me                     (私に言わせてみれば)            <!-- It was a little long, if you ask me. -->
-- [ ] no longer                         (もはや ... ではない)           <!-- Japanese men no longer wear their hair in topknots. -->
+- `if that makes sense.`:                   I really enjoyed the song for its lyrics, `if that makes sense.`
+- `if (O) works for you.`:                  So I’ll see you at 7 `if it works for you.`
+- `if you don't mind.`:                     I have a suggestion, `if you don't mind.`
+- `you know what I mean?`:                  All I’m saying is, I’m right and you’re wrong. `You know what I mean?`
+- `or not really?`:                         Do you like this kind of music, `or not really?`
+- `at this point`:                          I'm ready to quit `at this point.`
+- `if you think about it`:                  It's crazy how we can communicate like this `if you think about it.`
+- `or what?`:                               Are we gonna have fun `or what?`
+- `if you ask me`:                          It was a little long, `if you ask me.`
