@@ -2,47 +2,53 @@
 
 ## EMPHASIS
 
-- `no longer`:                              Japanese men `no longer` wear their hair in topknots.
-- `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
+- `such a`:                                 That was `such a` fun day. / You are `such a` pro.
+- `high-key`:                               I `high-key` cannot stand when my roommate sings in the shower.
+- `no doubt`:                               His policy will `no doubt` lead to dismal consequences.
+- `that`:                                   I guess it wasn't `that` important.
 - `way better`:                             That's just hype. I know `way better` places.
+
+## EMPHASIS (NEGATIVE)
+
+- `a whole other`:                          That's `a whole other` problem.
+- `next to`:                                I know `next to` nothing about it.
+- `anything but`                            Joe is `anything but` diligent. That's why he flunked math again.
+- `the least`:                              I have `the least` confidence about this answer.
+- `no longer`:                              Japanese men `no longer` wear their hair in topknots.
 - `the first thing about`:                  I don't know `the first thing about` writing movies.
-- [x] no doubt                      (きっと)                    <!-- His policy will no doubt lead to dismal consequences. -->
-- [ ] Such a                            (まさしく)                      <!-- That was such a fun day. / You are such a pro. -->
-- [ ] that                              (そんなに)                      <!-- I guess it wasn't that important. -->
-- [ ] next to ...                       (ほとんど)                      <!-- I know next to nothing about it. -->
-- [ ] anything but ...                  (なんてとんでもない)            <!-- Joe is anything but diligent. That's why he flunked math again. -->
-- [ ] high-key                          (本当に)                        <!-- I high-key cannot stand when my roommate sings in the shower. -->
-- [ ] like ...                          (約)                            <!-- There were only like thirty people there. -->
-- [x] kind of ...                       (なんとなく少し)                <!-- I'm kind of hungry. -->
-- [x] more of ...                       (どちらかと言うと)              <!-- I think he is more of an entertainer. -->
-- [x] more like ... (than)              (みたいな感じ)                  <!-- Dogs are more like friends than pets. -->
-- [x] a bit of ...                      (ちょっと... / なんか...)       <!-- It's a bit of a risk in this environment, isn't it? -->
-- [x] low-key ...                       (なんとなく少し)                <!-- I’m low-key in love with my study partner’s new cologne. -->
-- [ ] some kind of ...                  (なにか)                        <!-- born with some kind of special talent. / some kind of sport -->
-- [x] ... like                          (とか)                          <!-- Things like party hats, paper plates and napkins. -->
-- [x] ... thing/stuff like that         (みたいなもの)                  <!-- I think he's learning Spanish or something like that, if that makes sense. -->
-- [ ] ... and so on                     (など)                          <!-- I'm tired of doing the dished, doing the laundry, and so on! -->
-- [x] ... kind of thing                 (的なもの)                      <!-- This is a flip phone kind of thing but a bit different. -->
-- [x] ... and stuff                     (とかいろいろ)                  <!-- We've got to do editing and stuff. -->
-- [ ] ... or whatever                   (とかいろいろ)                  <!-- I'm just going to read a book or whatever. -->
-- [ ] ... or so                         (とかそのへん)                  <!-- It's 20 dollars or so. -->
-- [x] the least                         (ちっとも ... ない)             <!-- I have the least confidence about this answer. -->
+
+## DE-EMPHASIS
+
+- `like`:                                   There were only `like` thirty people there.
+- `kind of`:                                I'm `kind of` hungry.
+- `low-key`:                                I’m `low-key` in love with my study partner’s new cologne.
+- `a bit of`:                               It's `a bit of` a risk in this environment, isn't it?
+- `about`:
+- `around`:
+- `approximately`:
+- `roughly`:
+- `more or less`:                           Your pronunciation is `more or less` correct.
+- `pretty much`:                            This is `pretty much` done.
+- `more of`:                                I think he is `more of` an entertainer.
+- `more like (O) (than)`:                   Dogs are `more like` friends `than` pets.
+- `some kind of (O)`:                       He was born with `some kind of` special talent. / `some kind of` sport
+- `things/something like that`:             I think he's learning Spanish or `something like that`, if that makes sense.
+- `(O) kind of thing`:                      This is a flip phone `kind of thing` but a bit different.
+- `(O) like`:                               Things `like` party hats, paper plates and napkins.
+- `(O) and so on`:                          I'm tired of doing the dished, doing the laundry, `and so on!`
+- `(O) and stuff`:                          We've got to do editing `and stuff.`
+- `(O) or whatever`:                        I'm just going to read a book `or whatever.`
+- `(O) or so`:                              It's 20 dollars `or so.`
 
 ## EXTENT
 
-- [x] some more                         (もう少し)                      <!-- I'll think about it some more. -->
-- [x] to the point where ...            (くらいまで)                    <!-- I studied English to the point where my dream started being in English. -->
-- [x] at all                            (少しでも)                      <!-- Are you interested in politics at all? -->
-- [ ] about / around                    (だいたい)
-- [ ] approximately                     (だいたい)
-- [ ] roughly                           (だいたい)
-- [x] more or less                      (だいたい)                      <!-- Your pronunciation is more or less correct. -->
-- [ ] pretty much                       (だいたい)                      <!-- This is pretty much done. -->
-- [x] in a (way | sense)                (ある意味)                      <!-- Yep, in a way. -->
-- [ ] somewhat                          (ある程度, いくらか)            <!-- Strictly speaking, his view differs somewhat from mine. -->
-- [x] to (a certain | some) extent      (ある程度, いくらか)            <!-- In any case, the union has to compromise to a certain extent. -->
-- [ ] to my shoulders                   (肩まで)                        <!-- I entered the Ghanges river to my shoulders. -->
-- [x] a whole other ...                 (まったく別の...)               <!-- That's a whole other problem. -->
+- `some more`:                              I'll think about it `some more.`
+- `to (a certain | some) extent`:           In any case, the union has to compromise `to a certain extent.`
+- `to the point where (S) (V)`:             I studied English `to the point where` my dream started being in English.
+- `at all`:                                 Are you interested in politics `at all?`
+- `in a (way | sense)`:                     Yep, `in a way.`
+- `somewhat`:                               Strictly speaking, his view differs `somewhat` from mine.
+- `to my shoulders`:                        I entered the Ghanges river `to my shoulders.`
 
 ## HOW
 
