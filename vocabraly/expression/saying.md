@@ -1,5 +1,5 @@
 # SAYING
 
-- [ ] Happy wife, happy life
-- [ ] Apples and oranges
-- [ ] Mum's the word
+- `Happy wife, happy life`:
+- `Apples and oranges`:
+- `Mum's the word`:
