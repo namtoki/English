@@ -99,6 +99,12 @@
 - `first thing`:                            I'll see you `first thing` in the morning. / Please get it to me `first thing`
 - `last thing`:                             `last thing` at night.
 
+## WHEN
+
+- `at the same time`:                       It's hard being the writer and an actor `at the same time.`
+- `up-front`:                               This hotel requires a cash deposit `up-front.`
+- `in advance                        (前もって)
+
 ## TIME (PAST)
 
 - [x] every time ...                    (するときはいつも)              <!-- Every time you make them, they are perfect. -->

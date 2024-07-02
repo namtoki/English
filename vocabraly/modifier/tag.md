@@ -14,6 +14,7 @@
 - `I hope I'm not interrupting you,`:
 - `That's how`:                             `That's how` we met.
 - `simply put,`:                            `Simply put,` he doesn't like sports.
+- `just out of curiosity`:                  `Just out of curiosity,` why did you come to Japan?
 
 # BIND
 

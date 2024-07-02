@@ -29,6 +29,7 @@
 - `so (that) (S) (V)`:                      Tighten the lid `so` the food doesn't go bad.
 - `with a view to (V-ing)`:                 A fund was set up `with a view to` preserving our endangered planet.
 - `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
+- `in accordance with (O)`:
 
 ## ADDITION
 
@@ -47,3 +48,7 @@
 - `in particular`:                          Urban culture appears to be attractive to many people, `in particular,` to younger people.
 - `among other things`:
 - `followed by`:                            Lightning flashed, `followed by` terribly loud thunder.
+- `at the expense of`:                      He got promoted `at the expense of` his colleague.
+- `on behalf of (O)`:                       `On behalf of` all staff, I'd like to express our sympathy for the victims.
+- `on behalf of (O)`:                       I thank you `on behalf of` my husband.
+- `in place of (O)`:                        I used Knox’s PC `in place of` mine today. -->
