@@ -2,6 +2,7 @@
 
 # BEGINING
 
+- `You know (O)?`:                          `You know` our budget presentation today?
 - `What's going on?`
   - A: What's up? B: `What's going on?`
   - `What's going on` in here? What are you doing?

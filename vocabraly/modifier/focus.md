@@ -2,30 +2,23 @@
 
 ## TOPIC
 
-- `You know (O)?`:                          `You know` our budget presentation today?
-- [x] first/most of all                 (何よりもまず)                  <!-- First of all, learn the formula by heart. -->
-- [x] in doing                          (するときは)                    <!-- In making a decision, I rely not on logic but on instinct. -->
-- [x] regarding                         (に関して言うと)                <!-- Regarding the subject above -->
-- [x] when it comes to                  (となると)                      <!-- When it comes to the weather, there’s nothing I can do. -->
-- [x] speaking of which/(N)             (そういえば)                    <!-- Speaking of summer, where did you go this year? -->
-- [x] personally, in my opinion         (自分の意見としては)
-- [x] like/as I was saying              (さっき言ったように)            <!-- Sorry. As I was saying, the acting was amazing. -->
-- [x] like/as you said                  (あなたが言った通り)
-- [x] off-topic, but                    (話は変わりますが)              <!-- Bit off-topic, but I just finished editing the video. -->
-- [x] going back to                     (に戻ると)                      <!-- Going back to your question, my answer is no. -->
-- [x] in the first place                (そもそも)                      <!-- Why was he at the party in the first place? He wasn't invited, was he? -->
-- [x] off the top of my head            (思いつくままに言うと)          <!-- Off the top of my head, I think it's wrong. -->
-- [ ] about                             (に関して言うと)                <!-- About the food ... it is bad. -->
-- [ ] with/in regard to                 (に関して言うと)                <!-- With regard to the notes below -->
-- [ ] concerning                        (に関して言うと)                <!-- concerning the changes that were recently made -->
-- [ ] as for 人/物                      (に関して言うと)                <!-- As for the cost per person -->
-- [ ] as for me                         (自分の意見としては)            <!-- As for me, I agree with his opinion. -->
-- [ ] as to 物                          (に関して言うと)                <!-- discussion as to which university is the best university. -->
-- [ ] talking of                        (そういえば)                    <!-- Talking of soccer, Did you watch the game yesterday? -->
-- [ ] honestly                          (自分の意見としては)
-- [ ] to begin with                     (そもそも まず第一に)           <!-- To begin with, its theme is obscure. -->
-- [ ] above all                         (何よりもまず)                  <!-- Above all, scientific terms call for precise definitions. -->
-- [ ] at the thought of                 (のことを考えると)              <!-- I tremble with fear at the thought of an injection. -->
+- `in (V-ing)`:                             `In making a decision,` I rely not on logic but on instinct.
+- `regarding (O)`:                          `Regarding` the subject above,,,
+- `when it comes to (O)`:                   `When it comes to` the weather, there’s nothing I can do.
+- `speaking of which/(O)`:                  `Speaking of summer,` where did you go this year?
+- `talking of (O)`:                         `Talking of` soccer, Did you watch the game yesterday?
+- `personally, in my opinion`:
+- `honestly`:
+- `like/as I was saying`:                   Sorry. `As I was saying,` the acting was amazing.
+- `like/as you said`:
+- `off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
+- `going back to (O)`:                      `Going back to` your question, my answer is no.
+- `about`:                                  `About` the food ... it is bad.
+- `with/in regard to (O)`:                  `With regard to` the notes below
+- `concerning (O)`:                         `concerning` the changes that were recently made,,,
+- `as for (O)`:                             `As for` the cost per person
+- `as for me`:                              `As for me,` I agree with his opinion.
+- `as to (O)`:                              discussion `as to` which university is the best university.
 
 ## RANGE
 

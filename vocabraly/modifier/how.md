@@ -78,6 +78,8 @@
 - `for a rainy day`:                        I decided to put some aside `for a rainy day.`
 - `barely`:                                 The minute particles are `barely` visible to the naked eye.
 - `at heart`:                               Since Bob is lazy `at heart`, he frequently neglects his duties.
+- `in the first place`:                     Why was he at the party `in the first place?` He wasn't invited, was he?
+- `off the top of my head`:                 `Off the top of my head,` I think it's wrong.
 
 ## GOODNESS
 
