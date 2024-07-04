@@ -11,7 +11,6 @@
 - `honestly`:
 - `like/as I was saying`:                   Sorry. `As I was saying,` the acting was amazing.
 - `like/as you said`:
-- `off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
 - `going back to (O)`:                      `Going back to` your question, my answer is no.
 - `about`:                                  `About` the food ... it is bad.
 - `with/in regard to (O)`:                  `With regard to` the notes below
@@ -22,28 +21,29 @@
 
 ## RANGE
 
-- [x] from my point of view             (自分の意見としては)
-- [x] from the perspective of           (の観点から)
-- [x] in terms of                       (の点で)
-- [x] most                              (ほとんどの)                    <!-- most people like it. -->
-- [x] almost all                        (ほぼすべての)                  <!-- almost all Japanese -->
-- [x] a bunch of ...                    (たくさんの)                    <!-- A bunch of other companies are imitating our excellent methods. -->
-- [x] some kinds of ...                 (数種の)                        <!-- amplify the effects of some kinds of pollution -->
-- [x] all kinds of ...                  (すべての)                      <!-- I've been eating all kinds of things. -->
-- [x] in every way                      (すべてにおいて)                <!-- That movie was perfect in every way. -->
-- [x] in itself                         (それ自体は)                    <!-- The revolution in itself, bore no fruit, after all. -->
-- [x] A out of B                        (B 中 A)                        <!-- We have watched 4 out of 5 seasons. -->
-- [ ] as a whole                        (100% すべて)                   <!-- The train system in Tokyo is much better than for the country as a whole. -->
-- [ ] on the whole                      (全体的に)                      <!-- On the whole, it was a great trip. -->
-- [ ] all things considered             (全体的にみると)                <!-- All things considered, that was a successful event. -->
-- [ ] for the most part                 (大部分は)                      <!-- For the most part, modernization is identified with westernization. -->
-- [ ] everyone                          (みんな ... してる)             <!-- Everyone does it. -->
-- [ ] everything about ...              (すべての)                      <!-- He knows everything about movies. -->
-- [ ] many different kinds of ..        (数種の)                        <!-- there are many different kinds of stores. -->
-- [ ] the rest of ...                   (残りの)                        <!-- You can have the rest of them. -->
-- [ ] a number of ...                   (たくさんの)                    <!-- There are a number of factors discouraging us from investing in stocks. -->
-- [ ] to go                             (残りの)                        <!-- We have ten minutes to go. -->
-- [ ] each and every one of ...         (ひとつひとつ)                  <!-- each and every one of these questions -->
+- `from (S)'s' point of view`:              Well, `from my point of view,` some of the new policies are really good.
+- `from (S)'s' perspective`:                Also `from the field’s perspective,` I think ,,,
+- `from the perspective of (O)`:            Trends in trade `from the perspective of` production stage.
+- `in terms of                       (の点で)
+- `most                              (ほとんどの)                    <!-- most people like it. -->
+- `almost all                        (ほぼすべての)                  <!-- almost all Japanese -->
+- `a bunch of ...                    (たくさんの)                    <!-- A bunch of other companies are imitating our excellent methods. -->
+- `some kinds of ...                 (数種の)                        <!-- amplify the effects of some kinds of pollution -->
+- `all kinds of ...                  (すべての)                      <!-- I've been eating all kinds of things. -->
+- `in every way                      (すべてにおいて)                <!-- That movie was perfect in every way. -->
+- `in itself                         (それ自体は)                    <!-- The revolution in itself, bore no fruit, after all. -->
+- `A out of B                        (B 中 A)                        <!-- We have watched 4 out of 5 seasons. -->
+- `as a whole                        (100% すべて)                   <!-- The train system in Tokyo is much better than for the country as a whole. -->
+- `on the whole                      (全体的に)                      <!-- On the whole, it was a great trip. -->
+- `all things considered             (全体的にみると)                <!-- All things considered, that was a successful event. -->
+- `for the most part                 (大部分は)                      <!-- For the most part, modernization is identified with westernization. -->
+- `everyone                          (みんな ... してる)             <!-- Everyone does it. -->
+- `everything about ...              (すべての)                      <!-- He knows everything about movies. -->
+- `many different kinds of ..        (数種の)                        <!-- there are many different kinds of stores. -->
+- `the rest of ...                   (残りの)                        <!-- You can have the rest of them. -->
+- `a number of ...                   (たくさんの)                    <!-- There are a number of factors discouraging us from investing in stocks. -->
+- `to go                             (残りの)                        <!-- We have ten minutes to go. -->
+- `each and every one of ...         (ひとつひとつ)                  <!-- each and every one of these questions -->
 
 ## TIME (FUTURE)
 

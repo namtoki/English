@@ -16,38 +16,40 @@
 - `lean`:                                   He has a `lean` figure from years of regular exercise and a healthy diet.
 - `athletic`:
 - `muscular`:
-- `chubby`:
-- `plump`:
-- `obese`:
+- `chubby`:                                 He is `chubby`.
+- `plump`:                                  Early this morning, she gave birth to a healthy, happy, `plump` baby boy.
+- `obese`:                                  I think Tom is `obese`.
 - `overweight`:
 - `be on the (A) side`:                     She was a bit `on the heavy side` when I met her.
 
 ## FACE
 
-- [x] beard                             (あごひげ)
-- [x] moustache                         (くちひげ)
-- [ ] soft face                         (丸い顔)
-- [ ] strong face                       (四角い顔)
-- `long face`:                              Why the `long face`?
 - `rugged`:                                 The doctor at the hospital looked `rugged`.
 - `kind`:                                   He obviously looks `kind`.
+- `soft face`:                              This is Selena Gomez, she has classically `soft facial` features.
+- `strong face`:
+- `beard`:                                  Tom has a long `beard`.
+- `moustache`:                              He looks really different since he's grown a `mustache`.
+- `goatee`:                                 I don’t like men with a `goatee`.
+- `full beard`:                             Santa clauses `full beard` is amazing.
+- `long face`:                              Why the `long face`?
 
 ## PARTS
 
-- [x] forehead                          (ひたい)
-- [x] brow                              (まゆ 額)
-- [x] pupil                             (瞳孔)
-- [x] temple                            (こめかみ)
-- [x] cheek                             (頬)
-- [x] jaw                               (あご えら)
-- [x] chin                              (あご 先)
-- [x] breast                            (胸 乳房)
-- [x] chest                             (胸部)
-- [x] dominant hand                     (利き手)                <!-- Which is your dominant hand? -->
-- [x] belly                             (腹)
-- [x] waist                             (胴のくびれ)
-- [x] lap                               (座ったときの腰から膝部)
-- [x] knee                              (ひざ)
-- [x] muscle                            (筋肉)                  <!-- I don't want to lose muscle. -->
-- [x] lung                              (肺)
-- [x] nerve                             (神経)
+- `forehead`:                               (ひたい)
+- `brow`:                                   (まゆ 額)
+- `pupil`:                                  (瞳孔)
+- `temple`:                                 (こめかみ)
+- `cheek`:                                  (頬)
+- `jaw`:                                    (あご えら)
+- `chin`:                                   (あご 先)
+- `breast`:                                 (胸 乳房)
+- `chest`:                                  (胸部)
+- `dominant hand`:                          (利き手)                <!-- Which is your dominant hand? -->
+- `belly`:                                  (腹)
+- `waist`:                                  (胴のくびれ)
+- `lap`:                                    (座ったときの腰から膝部)
+- `knee`:                                   (ひざ)
+- `muscle`:                                 (筋肉)                  <!-- I don't want to lose muscle. -->
+- `lung`:                                   (肺)
+- `nerve`:                                  (神経)
