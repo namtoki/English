@@ -30,6 +30,7 @@
 - `with a view to (V-ing)`:                 A fund was set up `with a view to` preserving our endangered planet.
 - `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
 - `in accordance with (O)`:
+- `in an effort to (V)`:                    `In an effort to` encourage diversity, they will debate the complicated problem of minority rights.
 
 ## ADDITION
 
