@@ -19,31 +19,34 @@
 - `as for me`:                              `As for me,` I agree with his opinion.
 - `as to (O)`:                              discussion `as to` which university is the best university.
 
-## RANGE
+## VIEWPOINT
 
 - `from (S)'s' point of view`:              Well, `from my point of view,` some of the new policies are really good.
 - `from (S)'s' perspective`:                Also `from the field’s perspective,` I think ,,,
 - `from the perspective of (O)`:            Trends in trade `from the perspective of` production stage.
-- `in terms of                       (の点で)
-- `most                              (ほとんどの)                    <!-- most people like it. -->
-- `almost all                        (ほぼすべての)                  <!-- almost all Japanese -->
-- `a bunch of ...                    (たくさんの)                    <!-- A bunch of other companies are imitating our excellent methods. -->
-- `some kinds of ...                 (数種の)                        <!-- amplify the effects of some kinds of pollution -->
-- `all kinds of ...                  (すべての)                      <!-- I've been eating all kinds of things. -->
-- `in every way                      (すべてにおいて)                <!-- That movie was perfect in every way. -->
-- `in itself                         (それ自体は)                    <!-- The revolution in itself, bore no fruit, after all. -->
-- `A out of B                        (B 中 A)                        <!-- We have watched 4 out of 5 seasons. -->
-- `as a whole                        (100% すべて)                   <!-- The train system in Tokyo is much better than for the country as a whole. -->
-- `on the whole                      (全体的に)                      <!-- On the whole, it was a great trip. -->
-- `all things considered             (全体的にみると)                <!-- All things considered, that was a successful event. -->
-- `for the most part                 (大部分は)                      <!-- For the most part, modernization is identified with westernization. -->
-- `everyone                          (みんな ... してる)             <!-- Everyone does it. -->
-- `everything about ...              (すべての)                      <!-- He knows everything about movies. -->
-- `many different kinds of ..        (数種の)                        <!-- there are many different kinds of stores. -->
-- `the rest of ...                   (残りの)                        <!-- You can have the rest of them. -->
-- `a number of ...                   (たくさんの)                    <!-- There are a number of factors discouraging us from investing in stocks. -->
-- `to go                             (残りの)                        <!-- We have ten minutes to go. -->
-- `each and every one of ...         (ひとつひとつ)                  <!-- each and every one of these questions -->
+- `in terms of (O)`:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- `in every way`:                           That movie was perfect `in every way`.
+- `all things considered`:                  `All things considered`, that was a successful event.
+
+## PARTIALITY
+
+- `as a whole`:                             The train system in Tokyo is much better than for the country `as a whole`.
+- `all kinds of (O)`:                       I've been eating `all kinds of` things.
+- `everyone (V)`:                           `Everyone` does it.
+- `everything about (O)`:                   He knows `everything about` movies.
+- `for the most part`:                      `For the most part,` modernization is identified with westernization.
+- `on the whole`:                           `On the whole`, it was a great trip.
+- `most (S)`:                               `Most` people like it.
+- `almost all (S)`:                         `Almost all` cats have fur.
+- `a bunch of (O)`:                         `A bunch of` other companies are imitating our excellent methods.
+- `a number of (O)`:                        There are `a number of` factors discouraging us from investing in stocks.
+- `some kinds of (O)`:                      amplify the effects of `some kinds of` pollution
+- `many different kinds of`:                There are `many different kinds of` stores.
+- `(O) out of (O)`:                         We have watched `4 out of 5` seasons.
+- `(S) in itself`:                          The revolution `in itself`, bore no fruit, after all.
+- `each and every one of (O)`:              `each and every one of` these questions
+- `the rest of (O)`:                        You can have `the rest of` them.
+- `to go`:                                  We have ten minutes `to go`.
 
 ## TIME (FUTURE)
 
