@@ -50,21 +50,39 @@
 
 ## TIME (FUTURE)
 
-- [x] right away                        (今すぐ)                        <!-- I'll come right away. -->
-- [x] from now on                       (これからは)                    <!-- I have to cut down on my expenses, so from now on, I'm ~~ -->
-- [x] in (just) a little bit            (ちょっとしたら)                <!-- The ambulance will get here in just a little bit. -->
-- [x] at some point                     (そろそろ)                      <!-- We should really clean the fridge at some point. -->
-- [x] before long                       (近いうちに)                    <!-- Before long, they will enter a crucial phase. -->
-- [x] by the time ...                   (するまでには)                  <!-- By the time I got wake up, the snow had stopped falling. -->
-- [x] no later than ...                 (遅くとも .. までには)          <!-- Please hand in your assignment via e-mail no later than 5:00 PM on June 10. -->
-- [x] ... at the latest                 (遅くとも .. までには)          <!-- Please estimate the losses by Friday at the latest. I'll manage it somehow. -->
-- [ ] shortly                           (近いうちに)
-- [ ] soon                              (近いうちに)
-- [ ] for years to come                 (この先数年)                    <!-- the birthrate will continue to decline steadily for years to come. -->
-- [ ] for good                          (これを最後に永久に)            <!-- We're through for good this time. -->
+- `from now on`:                            I have to cut down on my expenses, `so from now on`, I'm ~~
+- `for years to come`:                      the birthrate will continue to decline steadily `for years to come`.
+- `for good`:                               We're through `for good this time`.
+- `right away`:                             I'll come `right away`.
+- `in (just) a little bit`:                 The ambulance will get here `in just a little bit`.
+- `shortly`:
+- `soon`:
+- `before long`:                            `Before long`, they will enter a crucial phase.
+- `at some point`:                          We should really clean the fridge `at some point`.
+- `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
+- `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.
+- `(N) at the latest`:                      Please estimate the losses by Friday `at the latest`. I'll manage it somehow.
+
+## TIME (PAST)
+
+- `just now`:                               I was asleep until `just now`
+- `until just now`:                         I was asleep until `just now`
+- `so far`:                                 `So far` I’m having a blast. The town is wonderful.
+- `(just) the other day`:                   I went there `just the other day`!
+- `for the first time in (N)`:              I'm going to Hawaii `for the first time in` 1 year.
 
 ## TIME (COMMON)
 
+- `after a while                     (しばらくして)                  <!-- He fainted with hunger and fatigue, but came to after a while. -->
+- `toward the end of ...             (の終盤に)                      <!-- He was a samurai who lived towards the end of the Heian period. -->
+- `in the course of                  (の過程で)                      <!-- In the course of its economic development, Japan has ... -->
+- `for the moment                    (とりあえず)                    <!-- I will make it do for the moment. -->
+- `now that                          (今や)                          <!-- Now that things are better, we should talk about the problem. -->
+- `every time (S) (V)`:                     `Every time` you make them, they are perfect.
+- `in the middle of`:                       He fell asleep `in the middle of` the sales meeting.
+- `last Sunday`
+- `this Sunday`
+- `next Sunday`
 - [x] on Sunday                         (曜日に)
 - [x] on the weekend                    (週末に)
 - [x] over the weekend                  (週末の間に)
@@ -94,25 +112,9 @@
 - [ ] the entire week                   (1 週間ずっと)
 - `first thing`:                            I'll see you `first thing` in the morning. / Please get it to me `first thing`
 - `last thing`:                             `last thing` at night.
-
-## WHEN
-
 - `at the same time`:                       It's hard being the writer and an actor `at the same time.`
 - `up-front`:                               This hotel requires a cash deposit `up-front.`
 - `in advance                        (前もって)
-
-## TIME (PAST)
-
-- [x] every time ...                    (するときはいつも)              <!-- Every time you make them, they are perfect. -->
-- [x] in the middle of                  (の真っ最中に)                  <!-- He fell asleep in the middle of the sales meeting. -->
-- [x] (just) the other day              ((つい) こないだ)               <!-- I went there just the other day! -->
-- [x] so far                            (今のところは)                  <!-- So far I’m having a blast. The town is wonderful. -->
-- [x] for the moment                    (とりあえず)                    <!-- I will make it do for the moment. -->
-- [x] now that                          (今や)                          <!-- Now that things are better, we should talk about the problem. -->
-- [x] in the course of                  (の過程で)                      <!-- In the course of its economic development, Japan has ... -->
-- [x] for the first time in             (ぶりに)                        <!-- I'm going to Hawaii for the first time in 1 year. -->
-- [ ] after a while                     (しばらくして)                  <!-- He fainted with hunger and fatigue, but came to after a while. -->
-- [ ] toward the end of ...             (の終盤に)                      <!-- He was a samurai who lived towards the end of the Heian period. -->
 
 ## LOCATION
 
@@ -122,7 +124,7 @@
 
 ## SUBJUNCTIVE MOOD
 
-- [x] with                              (があれば)                      <!-- With a little luck, we can still make it. -->
-- [ ] (Let's) Say                       (とします)                      <!-- Say I invest a hundred dollars now, how much will I ... -->
-- [x] as long as                        (する限り 条件)                 <!-- As long as you are young, you should experience different things. -->
-- [x] as far as / insofar as            (する限り 範囲)                 <!-- As far as I can see, he will fail the exam again this time. -->
+- `with (O)`:                               `With` a little luck, we can still make it.
+- `(Let's) Say (S) (V)`:                    `Say` I invest a hundred dollars now, how much will I ...
+- `as long as (S) (V)`:                     `As long as` you are young, you should experience different things.
+- `as far as / insofar as (S) (V)`:         `As far as` I can see, he will fail the exam again this time.
