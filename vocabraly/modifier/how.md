@@ -65,6 +65,7 @@
 - `to my shoulders`:                        I entered the Ghanges river `to my shoulders.`
 - `to and fro`:                             I have been traveling `to and fro` between Canada and the U.K for years.
 - `around the clock`:                       They are working `around the clock` looking into the cause of the crash.
+- `on and off`:                             It’s been raining `on and off` all day today.
 
 ## FEELING
 
