@@ -57,6 +57,7 @@
 - `for years to come`:                      the birthrate will continue to decline steadily `for years to come`.
 - `for good`:                               We're through `for good this time`.
 - `right away`:                             I'll come `right away`.
+- `by now`:                                 You must be hungry `by now`.
 - `in (just) a little bit`:                 The ambulance will get here `in just a little bit`.
 - `shortly`:
 - `soon`:
@@ -77,15 +78,29 @@
 - `(just) the other day`:                   I went there `just the other day`!
 - `for the first time in (N)`:              I'm going to Hawaii `for the first time in` 1 year.
 
-## TIME (COMMON)
+## TIME (IN DETAIL)
+
+- `for (N)s`:                               I've been working for the company `for 6 months`.
+- `for half a (day | month | year)`:        I'll be living here `for half a year`.
+- `the entire week`:
+- `tens of minutes`:
+- `throughout`:                             We plan to celebrate our victory `throughout` the night.
+- `just before (N)`:                        I will get home sometime `just before` 9pm.
+- `just after (N)`:                         I will go abroad sometime `just after` Golden Week.
+- `after that`:                             Click the folder first, and `after that` drag and drop the pdf file to trash can.
+- `soon after that`:                        I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
+- `(N) after that`:                         an hour `after that` / two weeks `after that` / a few years `after that`
+- `afterwards`:                             We’ll grab dinner and go to karaoke `afterward(s)`.
+
+## TIME (ABOUT)
 
 - `on Sundays`:                             I play tennis `on Sundays`.
 - `on weekends`:                            I often go to the beach `on weekends`.
 - `on (A) days`:                            I don't close this door `on hot days`.
 - `every (N)`:                              The vehicles are inspected for defects `every three months`.
 - `every other (day | month | year)`:       I work out at the health club `every other day`.
-- `for (N)s`:                               I've been working for the company `for 6 months`.
-- `for half a (day | month | year)`:        I'll be living here `for half a year`.
+- `every time (S) (V)`:                     `Every time` you make them, they are perfect.
+- `first thing`:                            I'll see you `first thing` in the morning. / Please get it to me `first thing`
 - `bright and early`:                       You can get your hands on the product `bright and early`.
 - `in the early morning`:
 - `in the morning`:`
@@ -96,25 +111,16 @@
 - `in the evening`:`
 - `at night`:
 - `at dawn`:                                夜明け
-- `tens of minutes                   (数十分)
-- `just before ...                   (のちょっと前に)                <!-- I will get home sometime just before 9pm. -->
-- `just after ...                    (のちょっと後に)                <!-- I will go abroad sometime just after Golden Week. -->
-- `meanwhile                         (それまでの間)                  <!-- We can go out tomorrow, meanwhile I'll teach you how to play bridge. -->
-- `afterwards                        (そのあとに)                    <!-- We’ll grab dinner and go to karaoke afterward(s). -->
-- `by now                            (もう)                          <!-- You must be hungry by now. -->
-- `throughout                        (の間中)                        <!-- We plan to celebrate our victory throughout the night. -->
-- `the entire week                   (1 週間ずっと)
+- `last thing`:                             `last thing` at night.
+- `meanwhile`:                              We can go out tomorrow, `meanwhile` I'll teach you how to play bridge.
 - `after a while`:                          He fainted with hunger and fatigue, but came to `after a while`.
 - `toward the end of (O)`:                  He was a samurai who lived `towards the end of` the Heian period.
 - `for the moment`:                         I will make it do `for the moment`.
 - `now that (S) (V)`:                       `Now that` things are better, we should talk about the problem.
-- `every time (S) (V)`:                     `Every time` you make them, they are perfect.
 - `in the middle of`:                       He fell asleep `in the middle of` the sales meeting.
-- `first thing`:                            I'll see you `first thing` in the morning. / Please get it to me `first thing`
-- `last thing`:                             `last thing` at night.
 - `at the same time`:                       It's hard being the writer and an actor `at the same time.`
 - `up-front`:                               This hotel requires a cash deposit `up-front.`
-- `in advance                        (前もって)
+- `in advance`:
 
 ## LOCATION
 
