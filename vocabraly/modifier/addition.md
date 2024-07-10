@@ -31,6 +31,7 @@
 - `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
 - `in accordance with (O)`:
 - `in an effort to (V)`:                    `In an effort to` encourage diversity, they will debate the complicated problem of minority rights.
+- `in an attempt to (V)`:                   He dived into the river `in a heroic attempt to` save the child.
 
 ## ADDITION
 
