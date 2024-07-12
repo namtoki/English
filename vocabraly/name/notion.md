@@ -1,4 +1,25 @@
-# SOCIAL
+# NOTION
+
+## WEATHER / CLIMATE
+
+- `scorching hot`:                          It's `scorching hot` today. (焼きつくような)
+- `boiling hot`:                            This room is `boiling hot`. (うだるような)
+- `stuffy`:                                 The room was hot and `stuffy` and we were suffocating. (息の詰まるような)
+- `sticky`:                                 This `sticky` weather just makes me uncomfortable. (ねばりつく べたべた)
+- `muggy`:                                  It was a little too `muggy` for spring. (不快)
+- `humid`:                                  Japan is `humid` and hot in summer.
+- `hot`:                                    It’s too `hot` this summer.
+- `warm`:
+- `pleasant`:
+- `comfortable`:
+- `cool`:
+- `dry`:
+- `chilly`:                                 There is a `chill` in the air.
+- `cold`:
+- `nippy`:
+- `freezing`:
+
+- [ ] sunny                             (晴れ)
 
 ## PROFESSION
 

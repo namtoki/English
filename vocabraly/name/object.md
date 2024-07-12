@@ -37,8 +37,3 @@
 - [x] palm                              (ヤシ)
 - [x] violet                            (すみれ)
 - [x] wolf / wolves                     (狼)
-
-## WEATHER
-
-- [ ] humidity                          (湿気)
-- [ ] sunny                             (晴れ)
