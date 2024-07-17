@@ -51,5 +51,6 @@
 - `lap`:                                    (座ったときの腰から膝部)
 - `knee`:                                   (ひざ)
 - `muscle`:                                 (筋肉)                  <!-- I don't want to lose muscle. -->
+- `flesh`:                                  `flesh` and bones
 - `lung`:                                   (肺)
 - `nerve`:                                  (神経)
