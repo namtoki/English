@@ -101,6 +101,7 @@
 - `every other (day | month | year)`:       I work out at the health club `every other day`.
 - `every time (S) (V)`:                     `Every time` you make them, they are perfect.
 - `first thing`:                            I'll see you `first thing` in the morning. / Please get it to me `first thing`
+- `at daybreak`:
 - `bright and early`:                       You can get your hands on the product `bright and early`.
 - `in the early morning`:
 - `in the morning`:`
