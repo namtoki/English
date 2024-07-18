@@ -3,31 +3,32 @@
 - `Can I ask you a question?`:
 - `Could you say that again?`:              `Could you say that` more simply, please?
 
-## OPINION
+## YOUR OPINION
 
 - `What do you think about (O)?`:           `What do you think about` moving to Osaka?
 - `How do you like (O)?`:                   `How do you like` your new shoes?
 - `How do you feel about (O)?`:             `How do you feel about` the service in Japan?
-- `What's the word for it?       (どういう言葉が適切ですか？)
-- `How do you pronounce          (どう発音する？)            <!-- How do you pronounce this word? -->
-- `How do you spell this word?   (どう書く？)
-- `What does ... mean?           (はどういう意味ですか？)
-- `Would it sound .. if I said ..(と言ったら..ですか？)      <!-- Would it sound a little bit weird if I said ... -->
-- `Is ... the same as ...?       (は ... と同じですか？)
-- `What can (S) do that ...      (... のためにSは何ができるだろう)<!-- What can I do that will make me a more well-rounded basketball player? -->
-- `How do you say .. in English? (どう表現する？)
-- `What's it called?             (なんと呼ばれていますか？)
+- `How do you pronounce this word?`:
+- `How do you spell this word?`:
+- `How do you say (O) in English?`:
+- `What's the word for it?`:
+- `What's it called?`:
+- `What does (S) mean?`:                    `What does` “bandwidth” `mean?`
+- `Is (S) the same as (O)?`:                `Is this the same skirt as` in the ad?
+- `What can (S) do that (V)?`               `What can I do that` will make me a more well-rounded basketball player?
 
 ## SUBJUNCTIVE MOOD
 
+- `What if (S) (V)?`:                       `What if I` don't meet the deadline?
+- `Supposing (that) (S) (V)`:               `Supposing that` the fire headed our way, what would we do next?
+- `Would it sound (A) if I said "..."?`:    `Would it sound` a little bit weird `if I said` ...
 - `How would you say it?`:                  If you were to state your dream, `how would you say it?`
-- `What if ...                   (したらどうなるだろう？)    <!-- What if I don't meet the deadline? -->
 
 ## PREFERENCE
 
 - `Which do you prefer?`:                   `Which do you prefer`, going to the movies or watching films at home?
-- `Are you ...ing?               (するつもり？)              <!-- Are you going to Tokyo or New York next week? -->
-- `What's better                 (どっちがいい？)
+- `What's better?`:
+- `Are you (V-ing)?`:                       `Are you going` to Tokyo or New York next week?
 
 ## WHEN
 
