@@ -2,6 +2,7 @@
 
 - `Can I ask you a question?`:
 - `Could you say that again?`:              `Could you say that` more simply, please?
+- `Could you write it down?`:
 
 ## YOUR OPINION
 
@@ -32,18 +33,14 @@
 
 ## WHEN
 
-- `When was the last time ... ?  (いつぶり？)                <!-- When was the last time you talked to him? -->
-- `Do you have the time?         (今何時？)
-- `(By) When ... ?               (いつまでに？)              <!-- (By) When do I have to finish this? -->
+- `When was the last time (S) (V)?`:        `When was the last time` you talked to him?
+- `Do you have the time?`:
+- `(By) When ... ?`:                        `(By) When` do I have to finish this?
 
 ## OTHER
 
-- `Do you know anyone            (知り合いがいますか？)      <!-- Do you know anyone in New York? -->
-- `What ...                      (どんな, どこの？)          <!-- What racket do you use? -->
-- `Could you write it down?      (書いてもらえますか？)
-- `Can you say ... ?             (と言えますか？)            <!-- Can you say my goal is becoming a write? -->
-- `is that true?                 (これは正しいですか？)
-- `what should I do ...          (どうすればよいか)          <!-- What should I do in a situation like this? -->
+- `Do you know anyone`:                     `Do you know anyone` in New York?
+- `what should I do?`:                      `What should I do` in a situation like this?
 
 ## REMOTE
 
