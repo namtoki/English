@@ -3,6 +3,9 @@
 ## BEGINING
 
 - `It's been a while.`:
+- `It's been a month since`:                `It's been a month since` we met the last time.
+- `I haven't seen you in (O)`:              `I haven't seen you in` a month.
+- `long time no see.`:
 - `How's your day going?`:
 - `What are you up to?`:
 - `What's going on?`                        A: What's up? B: `What's going on?` / `What's going on` in here? What are you doing?
@@ -18,18 +21,15 @@
 - `You know (O)?`:                          `You know` those Nike sneakers I was talking about on Friday?
 - `I know!`:                                `I know!` Let's go bowling.
 - `Do you remember that (O)?`:              `Do you remember that` bike at ABC Departmment Store?
-- `I told you ..., right?        (と言ったと思うんだけど)    <!-- I told you about my dad, right? -->
-- `I remember you ...            (と記憶しているんだけど)    <!-- I remember you went there last year. -->
-- `I understand that ...         (と聞いています)            <!-- I understand that you speak a little English. -->
-- `Let me ask you ...            (聞かせて)                  <!-- Let me ask you your honest opinion. -->
-- `You know what?                (そうだ！)                  <!-- You know what? I'm going to get an ice cream cone. -->
-- `long time no see.             (久しぶり)                  <!-- Hey Bob, long time no see. What's new? -->
-- `It's been a month since       (久しぶり)                  <!-- It's been a month since we met the last time. -->
-- `I haven't seen you in         (...ぶり)                   <!-- I haven't seen you in a month. -->
-- `You know what ... ?           (なんだと思う？)
-- `Guess what ... ?              (なんだと思う？)
-- `I'm thinking about ...        (しようと思っているんだけど)<!-- I'm thinking about retiring and going to Thailand this year. -->
-- `I was thinking.               (考えていたんだけど)        <!-- I was thinking. Let's take a short trip. -->
+- `I told you (O), right?`:                 `I told you` about my dad, `right?`
+- `I remember (S) (V)`:                     `I remember` you went there last year.
+- `I understand that (S) (V)`:              `I understand that` you speak a little English.
+- `Let me ask you (O)`:                     `Let me ask you` your honest opinion.
+- `You know what`:                          `You know what,` I'm going to get an ice cream cone.
+- `You know what (...)?`:
+- `Guess what (...)?`:
+- `I'm thinking about (O)`:                 `I'm thinking about` retiring and going to Thailand this year.
+- `I was thinking.`:                        `I was thinking.` Let's take a short trip.
 - `I'd like to ask you a favor.  (頼みがあるの)
 - `Don't get me wrong.           (誤解しないでね)
 - `You might wonder ...          (と思うかもしれません)      <!-- You might wonder why that is so. -->
