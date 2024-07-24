@@ -2,6 +2,7 @@
 
 ## BEGINING
 
+- `You wanted to see me?`:
 - `It's been a while.`:
 - `It's been a month since`:                `It's been a month since` we met the last time.
 - `I haven't seen you in (O)`:              `I haven't seen you in` a month.
@@ -30,25 +31,25 @@
 - `Guess what (...)?`:
 - `I'm thinking about (O)`:                 `I'm thinking about` retiring and going to Thailand this year.
 - `I was thinking.`:                        `I was thinking.` Let's take a short trip.
-- `I'd like to ask you a favor.  (頼みがあるの)
-- `Don't get me wrong.           (誤解しないでね)
-- `You might wonder ...          (と思うかもしれません)      <!-- You might wonder why that is so. -->
+- `I'd like to ask you a favor.`:
+- `Don't get me wrong.`:
+- `You might wonder (O)`:                   `You might wonder` why that is so.
 - `You needed a favor?`:
-- `You wanted to see me?`:
 
 # REACTION
 
-- `I grant you that.`:
-- `That's fanny.`:                  `That's fanny!`(fanny ha-ha) / `That's fanny.` Where are my keys?(fanny weird)
-- `Just give it time.`:             Dating is a nightmare. `Just give it time.`
-- `Let's say (O)`:                  `Let's say` dinner at seven. / `Let's say` Monday at three.
-- `Here we go again.`:
-- `You never know.`:                I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
-- `(I'm) happy to help.`:           Thanks for reading my outline. `Happy to help!`
-- `I'm sorry`:                      `I'm sorry` to hear that. / `I'm sorry` for your lost.
-- `I thought you said (O)`:         What? `I thought you said` seven o'clock. / `I thought you said` you were a vegetarian.
 - `Hey, stranger!`:
-- `I bet.`:                         Being a boss is stressful. `I bet.` / Disneyland was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
+- `That's fanny.`:                          `That's fanny!`(fanny ha-ha) / `That's fanny.` Where are my keys?(fanny weird)
+- `I bet.`:                                 There was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
+- `Here we go.`:                            Where is the building? `Here we go!` That is the building we were looking for!
+- `Here we go again.`:                      `Here we go again!` I told you I am not interested in getting married!
+- `I grant you that.`:                      Yeah, that’s true, `I grant you that.`
+- `You never know.`:                        I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
+- `Just give it time.`:                     Dating is a nightmare. `Just give it time.`
+- `Let's say (O)`:                          `Let's say` dinner at seven. / `Let's say` Monday at three.
+- `(I'm) happy to help.`:                   Thanks for reading my outline. `Happy to help!`
+- `I'm sorry`:                              `I'm sorry` to hear that. / `I'm sorry` for your lost.
+- `I thought you said (O)`:                 What? `I thought you said` seven o'clock. / `I thought you said` you were a vegetarian.
 - `the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
 - `You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
 - [x] (That's) true                 (その通りだね)
