@@ -1,103 +1,17 @@
 # CLICHE
 
-## BEGINING
-
-- `You wanted to see me?`:
-- `It's been a while.`:
-- `It's been a month since`:                `It's been a month since` we met the last time.
-- `I haven't seen you in (O)`:              `I haven't seen you in` a month.
-- `long time no see.`:
-- `How's your day going?`:
-- `What are you up to?`:
-- `What's going on?`                        A: What's up? B: `What's going on?` / `What's going on` in here? What are you doing?
-- `Do you have a minute/second?`:
-- `Do you have time?`:
-- `Is this a good time?`:
-- `Is everything all right?`:
-- `Can I borrow you for a minute/second?`:
-- `Can you give me a hand?`:
-- `Did you hear (O)?`:                      `Did you hear` about Kim? She got promoted.
-- `You know (O)?`:                          `You know` our budget presentation today?
-- `You know how (S) (V)?`:                  `You know how` I've been looking for a new TV for a while?
-- `You know (O)?`:                          `You know` those Nike sneakers I was talking about on Friday?
-- `I know!`:                                `I know!` Let's go bowling.
-- `Do you remember that (O)?`:              `Do you remember that` bike at ABC Departmment Store?
-- `I told you (O), right?`:                 `I told you` about my dad, `right?`
-- `I remember (S) (V)`:                     `I remember` you went there last year.
-- `I understand that (S) (V)`:              `I understand that` you speak a little English.
-- `Let me ask you (O)`:                     `Let me ask you` your honest opinion.
-- `You know what`:                          `You know what,` I'm going to get an ice cream cone.
-- `You know what (...)?`:
-- `Guess what (...)?`:
-- `I'm thinking about (O)`:                 `I'm thinking about` retiring and going to Thailand this year.
-- `I was thinking.`:                        `I was thinking.` Let's take a short trip.
-- `I'd like to ask you a favor.`:
-- `Don't get me wrong.`:
-- `You might wonder (O)`:                   `You might wonder` why that is so.
-- `You needed a favor?`:
-
 # REACTION
 
-- `Hey, stranger!`:
-- `That's fanny.`:                          `That's fanny!`(fanny ha-ha) / `That's fanny.` Where are my keys?(fanny weird)
-- `I bet.`:                                 There was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
-- `Here we go.`:                            Where is the building? `Here we go!` That is the building we were looking for!
-- `Here we go again.`:                      `Here we go again!` I told you I am not interested in getting married!
-- `I grant you that.`:                      Yeah, that’s true, `I grant you that.`
-- `You never know.`:                        I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
-- `Just give it time.`:                     Dating is a nightmare. `Just give it time.`
 - `Let's say (O)`:                          `Let's say` dinner at seven. / `Let's say` Monday at three.
-- `(I'm) happy to help.`:                   Thanks for reading my outline. `Happy to help!`
-- `I'm sorry`:                              `I'm sorry` to hear that. / `I'm sorry` for your lost.
-- `I thought you said (O)`:                 What? `I thought you said` seven o'clock. / `I thought you said` you were a vegetarian.
-- `the only way to               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
-- `You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
-- [x] (That's) true                 (その通りだね)
-- [x] (That) Sounds like a plan     (それでいこう)
-- [x] (That) makes sense            (なるほど)
-- [x] Fair enough                   (理解できる)                <!-- , but と続けば否定的 -->
-- [x] Good to know                  (聞けて良かった)
-- [x] I feel you                    (わかる)
-- [x] I know what you mean.         (私もそう思う)
-- [x] I know, right?                (だよね)
-- [x] I see (what you mean).        (なるほど)
-- [x] I've been there.              (わかる)
-- [x] Lucky you!                    (いいなぁ)
-- [x] Neither do I                  (私もそう)
-- [x] Same here                     (私もそう)
-- [x] So do I                       (私もそう)
-- [x] Sounds good                   (いいね)
-- [x] Tell me about it.             (全くその通りだ)
-- [x] That must have been tough     (それは大変だったでしょう)
-- [x] That sounds like              (それは .. だね)            <!-- That sounds like a lot of work. -->
-- [x] That would be great.          (そうしていただけると嬉しい)
-- [x] You flatter me.               (お世辞でも嬉しいです)
-- [x] that ... ?                    (そんなに ...？)            <!-- Wow! That good? -->
-- [ ] I'm in the middle of something(今手が離せない)
-- [ ] Been there done that          (やったことあるけど、もういい (飽きた))
-- [ ] Do you want me to ... ?       (... させるつもり？)        <!-- Do you want me to lose my job? -->
-- [ ] I believe you                 (わかったよ)
-- [ ] I don't know.                 (そうだなぁ)
-- [ ] I know what you are saying    (理解できる)
-- [ ] I love it!                    (いいね)
-- [ ] I think so too                (私もそう思う)
-- [ ] I told you.                   (ほらね)
-- [ ] I was going to say            (今言おうと思っていた)      <!-- I was going to say we should get the smaller one. -->
-- [ ] I was going to say!           (だよね！)
-- [ ] I would.                      (いいなぁ)                  <!-- You're not going? I would. -->
-- [ ] I'm ... ing ... at the moment (中だから邪魔しないで)      <!-- Hang on. I'm just finishing up an email at the moment -->
-- [ ] I'm trying to ...             (中だから邪魔しないで)      <!-- Hey, Toshi? I'm trying to work, Emily! -->
-- [ ] Me too                        (私もそう)
-- [ ] No doubt about it.            (全くその通りだ)
-- [ ] Not again!                    (またかよ！)
-- [ ] That must have been difficult (それは大変だったでしょう)
-- [ ] That's a fair point           (それは鋭い指摘だ)
-- [ ] That's what I think, too.     (私もそう思う)
-- [ ] You can say that again.       (全くその通りだ)
-- [ ] You have no idea.             (まじでそう)
-- [ ] You name it.                  (なんでもいいよ)
-- [ ] the only way to ...           (やっぱりこれでしょ)        <!-- This is the only way to live. -->
-- [ ] That's really something       (大したもんだ すごいよね)
+- `That sounds like              (それは .. だね)            <!-- That sounds like a lot of work. -->
+- `That would be great.          (そうしていただけると嬉しい)
+- `You flatter me.               (お世辞でも嬉しいです)
+- `that ... ?                    (そんなに ...？)            <!-- Wow! That good? -->
+- `I'm in the middle of something(今手が離せない)
+- `Been there done that          (やったことあるけど、もういい (飽きた))
+- `Do you want me to ... ?       (... させるつもり？)        <!-- Do you want me to lose my job? -->
+- `I'm ... ing ... at the moment (中だから邪魔しないで)      <!-- Hang on. I'm just finishing up an email at the moment -->
+- `I'm trying to ...             (中だから邪魔しないで)      <!-- Hey, Toshi? I'm trying to work, Emily! -->
 
 # ANSWER (NEGATIVE)
 

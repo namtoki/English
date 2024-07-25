@@ -511,3 +511,9 @@ make a living
 - `keep one's chin up`:                     `Keep your chin up.`
 
 urgent emergency pressing
+
+- `Just give it time.`:                     Dating is a nightmare. `Just give it time.`
+- `I'm sorry`:                              `I'm sorry` to hear that. / `I'm sorry` for your lost.
+- `I thought you said (O)`:                 What? `I thought you said` seven o'clock. / `I thought you said` you were a vegetarian.
+- `the only way to`:`               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
+- `You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
