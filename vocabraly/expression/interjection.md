@@ -45,3 +45,15 @@
 - `the only way to ...           (やっぱりこれでしょ)        <!-- This is the only way to live. -->
 - `That's really something       (大したもんだ すごいよね)
 - `I know!`:                                `I know!` Let's go bowling.
+- [x] My pleasure                   (どういたしまして)
+- [x] Anytime                       (どういたしまして)
+- [x] That's (about) it.            (以上です)
+- [x] I'll tell you later.          (また後で連絡する)
+- [x] I'll let you know.            (わかったら連絡する)
+- [x] So much for                   (ここまでにしましょう)      <!-- So much for the small talk. Let's get down to business -->
+- [x] leave it there.               (ここまでにしましょう)
+- [ ] There you go.                 (その通り)
+- [ ] You bet                       (どういたしまして)
+- [ ] Don't mention it              (どういたしまして)
+- [ ] Take your time.               (ごゆっくり)
+- [ ] Good luck with your speech.   (頑張って)

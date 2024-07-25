@@ -57,18 +57,6 @@
 # ENDING
 
 - [x] Let me check and I'll get back to you.
-- [x] My pleasure                   (どういたしまして)
-- [x] Anytime                       (どういたしまして)
-- [x] That's (about) it.            (以上です)
-- [x] I'll tell you later.          (また後で連絡する)
-- [x] I'll let you know.            (わかったら連絡する)
-- [x] So much for                   (ここまでにしましょう)      <!-- So much for the small talk. Let's get down to business -->
-- [x] leave it there.               (ここまでにしましょう)
-- [ ] There you go.                 (その通り)
-- [ ] You bet                       (どういたしまして)
-- [ ] Don't mention it              (どういたしまして)
-- [ ] Take your time.               (ごゆっくり)
-- [ ] Good luck with your speech.   (頑張って)
 
 - `I've got ... questions        (点質問があります)          <!-- So today I've got a couple of questions. -->
 
