@@ -1,23 +1,42 @@
 # INTERJECTION
 
-- `That's fanny.`:                          `That's fanny!`(fanny ha-ha) / `That's fanny.` Where are my keys?(fanny weird)
-- `I bet.`:                                 There was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
+## POSITIVE
+
+- `That's fanny.`:                          `That's fanny!`(fanny ha-ha)
 - `Here we go.`:                            Where is the building? `Here we go!` That is the building we were looking for!
-- `Here we go again.`:                      `Here we go again!` I told you I am not interested in getting married!
 - `You never know.`:                        I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
+- `Good to know.`:
+- `Lucky you!`:
+- `I know!`:                                `I know!` Let's go bowling.
+
+## NEGATIVE
+
+- `That's fanny.`:                          `That's fanny.` Where are my keys?(fanny weird)
+- `Here we go again.`:                      `Here we go again!` I told you I am not interested in getting married!
+
+## YOU'RE WELCOME
+
 - `(I'm) happy to help.`:                   Thanks for reading my outline. `Happy to help!`
+
+## AGREE
+
 - `I grant you that.`:                      Yeah, that’s true, `I grant you that.`
-- `(That's) true`:
-- `(That) Sounds like a plan     (それでいこう)
-- `(That) makes sense            (なるほど)
-- `Fair enough                   (理解できる)                <!-- , but と続けば否定的 -->
-- `Good to know                  (聞けて良かった)
-- `I feel you                    (わかる)
-- `I know what you mean.         (私もそう思う)
-- `I know, right?                (だよね)
-- `I see (what you mean).        (なるほど)
-- `I've been there.              (わかる)
-- `Lucky you!                    (いいなぁ)
+- `(That's) true.`:
+- `(You're) right.`:
+- `I know, right?`:                         The new Star Wars is awesome! `I know, right?`
+- `I feel you.`:                            I’m tired of living in the city. Yeah, `I feel you.` I want to move near the mountains.
+- `I hear you.`:                            I’m not looking forward to the directors’ meeting tomorrow. `I hear you.`
+- `I bet.`:                                 There was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
+- `I know what you mean.`:
+- `I've been there.`:
+- `(That) Sounds like a plan.`:
+
+## UNDERSTAND
+
+- `(That) makes sense.`:
+- `Fair enough.`:
+- `I see (what you mean).`:
+
 - `Neither do I                  (私もそう)
 - `Same here                     (私もそう)
 - `So do I                       (私もそう)
@@ -44,7 +63,6 @@
 - `You name it.                  (なんでもいいよ)
 - `the only way to ...           (やっぱりこれでしょ)        <!-- This is the only way to live. -->
 - `That's really something       (大したもんだ すごいよね)
-- `I know!`:                                `I know!` Let's go bowling.
 - [x] My pleasure                   (どういたしまして)
 - [x] Anytime                       (どういたしまして)
 - [x] That's (about) it.            (以上です)
