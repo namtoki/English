@@ -8,11 +8,13 @@
 - `Good to know.`:
 - `Lucky you!`:
 - `I know!`:                                `I know!` Let's go bowling.
+- `Sounds good`:
 
 ## NEGATIVE
 
 - `That's fanny.`:                          `That's fanny.` Where are my keys?(fanny weird)
 - `Here we go again.`:                      `Here we go again!` I told you I am not interested in getting married!
+- `That must have been tough`:
 
 ## YOU'RE WELCOME
 
@@ -30,6 +32,10 @@
 - `I know what you mean.`:
 - `I've been there.`:
 - `(That) Sounds like a plan.`:
+- `Same here`:
+- `So do I`:
+- `Neither do I`:
+- `Tell me about it.`:
 
 ## UNDERSTAND
 
@@ -37,12 +43,6 @@
 - `Fair enough.`:
 - `I see (what you mean).`:
 
-- `Neither do I                  (私もそう)
-- `Same here                     (私もそう)
-- `So do I                       (私もそう)
-- `Sounds good                   (いいね)
-- `Tell me about it.             (全くその通りだ)
-- `That must have been tough     (それは大変だったでしょう)
 - `I believe you                 (わかったよ)
 - `I don't know.                 (そうだなぁ)
 - `I know what you are saying    (理解できる)
