@@ -388,3 +388,53 @@ yawn*:                              The pregnant woman on the couch yawned and c
 yield:                              After the heavy rains, the harvest yielded only half the usual wheat crops.
 youngster:                          The youngsters scattered on the court when they began to play dodgeball.
 youthful:                           The actor still retains his youthful charm.
+marked:                             There was a marked improvement in the article after the editor rewrote it.
+editor:                             There was a marked improvement in the article after the editor rewrote it.
+rewrite:                            There was a marked improvement in the article after the editor rewrote it.
+scare (frighten):                   The thunders scared the puppy, so she held it to make it feel secure.
+secure:                             The thunders scared the puppy, so she held it to make it feel secure.
+zebra*:                             For the safety of zebras and giraffes, we need to seal both gates.
+giraffe*:                           For the safety of zebras and giraffes, we need to seal both gates.
+seal:                               For the safety of zebras and giraffes, we need to seal both gates.
+shift:                              The maker is shifting the emphasis of its production policy.
+emphasis*:                          The maker is shifting the emphasis of its production policy.
+reception:                          A man at the reception desk stared at us, and it made me uncomfortable.
+stare:                              A man at the reception desk stared at us, and it made me uncomfortable.
+tame:                               Tame fools submit to commands of their masters.
+fool:                               Tame fools submit to commands of their masters.
+submit*(-to, follow, obey):         Tame fools submit to commands of their masters.
+tribe:                              The proud tribe has never surrendered to foreign armies.
+surrender*(-to, give up):           The proud tribe has never surrendered to foreign armies.
+interpreter:                        The interpreter underlined the words on the certificate for which she didn't know the definition.
+underline:                          The interpreter underlined the words on the certificate for which she didn't know the definition.
+certificate:                        The interpreter underlined the words on the certificate for which she didn't know the definition.
+definition:                         The interpreter underlined the words on the certificate for which she didn't know the definition.
+relatively:                         He was relatively young for a head of state, but he united a country that had been divided by civil war.
+unite:                              He was relatively young for a head of state, but he united a country that had been divided by civil war.
+civil:                              He was relatively young for a head of state, but he united a country that had been divided by civil war.
+ache:                               My stomach aches, but the doctor said he couldn't determine the source of the pain.
+source:                             My stomach aches, but the doctor said he couldn't determine the source of the pain.
+charity:                            Tell him our charity appreciates his generous gift.
+appreciate:                         Tell him our charity appreciates his generous gift.
+generous:                           Tell him our charity appreciates his generous gift.
+forum:                              Everyone in the forum assumed the new ecosystem would bring innovation.
+assume:                             Everyone in the forum assumed the new ecosystem would bring innovation.
+ecosystem:                          Everyone in the forum assumed the new ecosystem would bring innovation.
+innovation:                         Everyone in the forum assumed the new ecosystem would bring innovation.
+calculate:                          Specialists calculate that the world's population would definitely grow to 8 billion over the next decade.
+definitely:                         Specialists calculate that the world's population would definitely grow to 8 billion over the next decade.
+billion:                            Specialists calculate that the world's population would definitely grow to 8 billion over the next decade.
+decade:                             Specialists calculate that the world's population would definitely grow to 8 billion over the next decade.
+conclude:                           We concluded that we had made the correct judgement.
+judgement:                          We concluded that we had made the correct judgement.
+homeless:                           The actor's statement on homeless people was criticized as ignorant.
+criticize:                          The actor's statement on homeless people was criticized as ignorant.
+ignorant:                           The actor's statement on homeless people was criticized as ignorant.
+define:                             How do you define "customer satisfaction" in today's market?
+satisfaction:                       How do you define "customer satisfaction" in today's market?
+disagree:                           I disagree with his opinion that the company's holding will lose their value.
+holding*:                           I disagree with his opinion that the company's holding will lose their value.
+basically:                          Basically, I can't distinguish a mouse from a rat.
+distinguish:                        Basically, I can't distinguish a mouse from a rat.
+estimate:                           I was asked by my boss to estimate the cost of the suburb development.
+suburb:                             I was asked by my boss to estimate the cost of the suburb development.
