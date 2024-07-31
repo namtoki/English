@@ -10,6 +10,8 @@ adapt:                              Patients have been adapting to more affordab
 adjust:                             As I adjusted to the new environment, my work became increasingly enjoyable.
 administration:                     The policies of the administration and the Congress conflict on the question of the defence budget.
 administrator:                      She is actively engaging in volunteer work as the organization's administrator.
+advanced:                           It is important to promote the use of more advanced medical practices in developing countries.
+advertisement:                      The boss postponed preparations for the new advertisement campaign until autumn.
 affection:                          My dog occasionally chews our slippers when he needs more affection.
 affordable:                         Patients have been adapting to more affordable treatments under the physician's direction.
 agenda:                             The day's agenda was altered in response to changes in regulations regarding agricultural imports.
@@ -18,14 +20,17 @@ alter:                              The day's agenda was altered in response to 
 amaze:                              Her remarkable talent for the piano amazed me.
 amazing:                            We all believed that her amazing story was real until she winked at the end of it.
 amuse:                              He amused the elderly people in the nursing home with his card tricks.
+amusement:                          We will proceed with the construction of the new amusement park according to plan.
 analyze:                            The professor and his assistants are analyzing the findings of the survey concerning sleep.
 ancient:                            In ancient times when armies invaded other lands, they showed no mercy toward the native people.
 antique:                            He restores antique furniture to make a living.
 apologize:                          We must apologize for keeping you waiting for so long.
 apparently:                         He's apparently discouraging his kids from keeping a chick.
+artistic:                           She wants to quit her job as a sales representative and use her artistic skills in her next job.
 assert*(claim, maintain, insist):   The doctor asserted the importance of the therapy.
 assessment:                         Following the environmental impact assessment, he decided to flee from the dangerous zone.
 associate*:                         Most people associate Edison with the electrical inventions.
+association:                        The association has preserved several of the state's historical buildings.
 assure (ensure, guarantee):         The messenger assured everyone that aid was coming soon.
 athletic:                           Even an athletic person like him can strain a muscle while playing sports.
 attraction:                         Everyone awaited the new attraction at Disneyland.
@@ -61,6 +66,7 @@ chick*:                             He's apparently discouraging his kids from k
 childish:                           He insulted her by saying that her behavior at the party was childish.
 chop*(cut):                         I chopped vegetables for the stew; meanwhile, my daughter was frying the meet.
 clap*:                              The enthusiastic audience clapped their hands several times during the mayor speech.
+classical:                          She is organizing a scholarship program for classical music students.
 clip*(clip off):                    Dogs will be more comfortable in summer if you clip off their excess hair with scissors.
 collapse:                           Many houses collapsed during the earthquake, and hundreds of villagers were killed.
 combine:                            The manual combines good maintenance advice with helpful illustrations.
@@ -69,18 +75,21 @@ comedy:                             The actress generates a lot of laughter when
 command:                            The president commanded the army to delay its departure.
 commission:                         He accomplished many things as chair of the traffic safety commission.
 commit:                             Many young people commit crimes due to poverty and despair.
+companion:                          My brother fell into a shallow pond playing with his companion, and he was rescued by a passing stranger.
 compete:                            The swimmer's strong determination drives her on to compete for a better ranking.
 competitor:                         He whipped his horse toward the end of the race and barely beat his competitor.
 complicated:                        In an effort of encourage diversity, they will debate the complicated problem of minority rights.
 concentrate:                        He couldn't concentrate on the task because he lacked the motivation to build a database.
 concerning:                         The professor and his assistants are analyzing the findings of the survey concerning sleep.
 confess:                            After the accident, the driver confessed that he hadn't stop at the crossing.
+confident (sure, certain):          He is confident that the company will eventually overcome its current problems.
 conflict:                           The policies of the administration and the Congress conflict on the question of the defence budget.
 congress*(parliament,diet,council): The policies of the administration and the Congress conflict on the question of the defence budget.
 conquer*:                           Even Napoleon couldn't conquer Russia during its harsh winter.
 consist:                            This book about the Roman Empire consists of eight chapters.
 constantly:                         The scientist achievement made her so famous that she was constantly bothered by the press.
 construct:                          That tall building was constructed last year, and it completely changed the scenery around here.
+construction:                       We will proceed with the construction of the new amusement park according to plan.
 conventional:                       Our research indicates that the new medicine is more efficient than conventional treatments.
 convince (persuade):                I'm trying to convince my father to see a dentist regularly.
 cooperation*:                       The minister preached about the need for love and cooperation between the races.
@@ -95,6 +104,7 @@ creep*(crawl):                      The insect crept up the outer wall.
 criticism:                          The criticism about this painting obviously varies from person to person.
 crossing:                           After the accident, the driver confessed that he hadn't stop at the crossing.
 cruise:                             My father won an award that included the prize of cruising around the grobe.
+current:                            He is confident that the company will eventually overcome its current problems.
 dash:                               He dashed across the railroad crossing just ahead of the train to show he wasn't coward.
 database:                           He couldn't concentrate on the task because he lacked the motivation to build a database.
 dealer:                             Car dealers should instruct their customers in the proper use of their car.
@@ -114,6 +124,7 @@ despair*(disappointment):           Many young people commit crimes due to pover
 destination:                        We depart from Narita at noon and will hopefully arrive at our destination tomorrow morning.
 detective:                          The detective tried to find the suspect, but he had vanished.
 determination:                      The swimmer's strong determination drives her on to compete for a better ranking.
+developing:                         It is important to promote the use of more advanced medical practices in developing countries.
 differ:                             The tastes of mature audiences differ from those of young people.
 disaster:                           Some people almost starved in the disaster area because aid supplies were delayed.
 discourage*(-from):                 He's apparently discouraging his kids from keeping a chick.
@@ -140,11 +151,13 @@ engage:                             She is actively engaging in volunteer work a
 enjoyable:                          As I adjusted to the new environment, my work became increasingly enjoyable.
 enterprise:                         He declined the timely offer of a job with his uncle's enterprise.
 enthusiastic:                       The enthusiastic audience clapped their hands several times during the mayor speech.
+eventually:                         He is confident that the company will eventually overcome its current problems.
 excess:                             Dogs will be more comfortable in summer if you clip off their excess hair with scissors.
 exhibit:                            The millionaire proudly exhibited his art collection at the city museum.
 existing:                           This new material absorbs sweat significantly more quickly than our existing products.
 expand:                             The company plans to expand its production capacity next year.
 explode:                            The second bomb exploded in a nearby park shortly after the first one.
+explosion:                          The police are investigating the cause of the explosion and the possibility of a link to terror group.
 expose:                             His bike is exposed to the heavy rain in the stormy weather.
 extend:                             The government will extend the welfare program for another three years.
 extraordinary:                      He has demonstrated extraordinary talent as a violinist.
@@ -163,6 +176,7 @@ globe:                              My father won an award that included the pri
 glow*(shine, gleam):                A campfire was glowing in the distant wilderness.
 govern:                             Parliament makes legislation, and the administration govern the country.
 grasp:                              She grasped bloody sword tightly in her hand.
+grocery:                            Luckily, he was able to obtain a truck driver's license and get a job at the grocery store.
 halfway (halfway around the world): After escaping from Japan, he was finally captured halfway around the world in Brazil.
 harsh*(cruel, brutal):              Even Napoleon couldn't conquer Russia during its harsh winter.
 harvest:                            The woman is harvesting the crops.
@@ -170,10 +184,14 @@ heal:                               This is a severe wound that will take severa
 heavily:                            The businessman was bleeding heavily when the ambulance arrived at the accident site.
 heroic:                             He dived into the river in a heroic attempt to save the child.
 hesitate:                           He didn't hesitate to ask his new tutor out on a date after the first lesson.
+historical:                         The association has preserved several of the state's historical buildings.
+hockey:                             The police tried to restrain the angry crowd fans on the street after their team lost the hockey game.
 honesty:                            He cheated on the exam even though he had a reputation for honesty.
 honeymoon:                          The couple encountered a big snake on their honeymoon.
 hop:                                The puppy hopped over the little fence and ran out into the meadow.
 hopefully*(if all goes well):       We depart from Narita at noon and will hopefully arrive at our destination tomorrow morning.
+household:                          This year, people are purchasing more household items such as furniture.
+illegal:                            Some athletes can't resist the temptation to use illegal drugs that will improve their performance.
 illustration:                       The manual combines good maintenance advice with helpful illustrations.
 imitate*(mimic, mock):              If we just imitate other company's products, we will never see any significant growth in our sales.
 impose (-on):                       In terms of economics, the government wants to impose a heavier tax burden on office workers.
@@ -193,8 +211,12 @@ interfere (distract, disturb):      We could've reached the settlement if he had
 interior:                           The interior of this house resembles our old house.
 invade:                             In ancient times when armies invaded other lands, they showed no mercy toward the native people.
 invention:                          Most people associate Edison with the electrical inventions.
+invest:                             Nowadays, major companies are afraid to invest in new business ventures.
+investigate:                        The police are investigating the cause of the explosion and the possibility of a link to terror group.
+investigation:                      The investigation revealed that he was innocent and saved his reputation.
 investment:                         Frankly, I think this investment has weakened the company.
 jewelry:                            He deceived wealthy women and sold them expensive jewelry.
+kidnap:                             The missing teenager was not kidnapped but willingly ran away from home with her boyfriend.
 kneel*:                             All the crew knelt down and prayed for a safe voyage.
 knight:                             The knight and his horse wondered over the meadow in the heavy mist.
 lace:                               She decorated the table in the living room with lace.
@@ -204,7 +226,9 @@ legislation*(law):                  Parliament makes legislation, and the admini
 liar:                               She accused him of being a liar.
 liberal:                            A liberal trend emerged among young people in the last election.
 linen*:                             Fold up the linen when you get out of bed.
+locate:                             He caused a sensation when, against nearly impossible odds, he located the royal tomb.
 lodge:                              He inherited his mother's chain of lodges and inns, so now he is a millionaire.
+luckily:                            Luckily, he was able to obtain a truck driver's license and get a job at the grocery store.
 luxury:                             I deposited half of my bonus in the bank and spent the rest on a luxury trip to Mexico.
 maid:                               The maid blushed when she opened her mailbox to find his name.
 mailbox:                            The maid blushed when she opened her mailbox to find his name.
@@ -215,6 +239,7 @@ mature:                             The tastes of mature audiences differ from t
 mayor:                              The enthusiastic audience clapped their hands several times during the mayor speech.
 meadow:                             The puppy hopped over the little fence and ran out into the meadow.
 meanwhile:                          I chopped vegetables for the stew; meanwhile, my daughter was frying the meet.
+mend*(fix,repair,restore):          A skillful carpenter can mend an old chair like new.
 mercy*:                             In ancient times when armies invaded other lands, they showed no mercy toward the native people.
 messenger:                          The messenger assured everyone that aid was coming soon.
 millionair:                         The millionaire proudly exhibited his art collection at the city museum.
@@ -226,11 +251,18 @@ nap:                                The owner of the inn was napping in his favo
 nearby:                             The second bomb exploded in a nearby park shortly after the first one.
 negotiation:                        We could've reached the settlement if he hadn't interfered in the negotiation.
 nevertheless*:                      They were were whispering, nevertheless, I am sure they were talking about their opposition to the plan.
+nowadays:                           Nowadays, major companies are afraid to invest in new business ventures.
 nursing:                            He amused the elderly people in the nursing home with his card tricks.
+obey*:                              Rebels would never obey them.
+obtain:                             Luckily, he was able to obtain a truck driver's license and get a job at the grocery store.
 obviously:                          The criticism about this painting obviously varies from person to person.
 occasionally:                       My dog occasionally chews our slippers when he needs more affection.
+occupation:                         The army was prolonging its occupation of the southern region of the country.
+odds*:                              He caused a sensation when, against nearly impossible odds, he located the royal tomb.
 opposition:                         They were were whispering, nevertheless, I am sure they were talking about their opposition to the plan.
+organize:                           She is organizing a scholarship program for classical music students.
 outer:                              The insect crept up the outer wall.
+overcome:                           He is confident that the company will eventually overcome its current problems.
 packet:                             She enclosed her recent pictures in the package she sent to her parents.
 parliament*(congress,diet,council): Parliament makes legislation, and the administration govern the country.
 persuade*(convince):                The director persuaded the actress not to bring her bodyguard onto the film set.
@@ -239,46 +271,69 @@ pitch:                              He joined our team at recommendation of the 
 poisonous:                          He blended two poisonous chemicals into the fatal drink.
 popularity:                         The rock group's popularity is beginning to fade.
 poster:                             His design was inspired by the posters of the famous artist.
+postpone (prolong):                 The boss postponed preparations for the new advertisement campaign until autumn.
 poverty:                            Many young people commit crimes due to poverty and despair.
 preach*:                            The minister preached about the need for love and cooperation between the races.
 pregnant:                           The pregnant woman on the couch yawned and closed her sleepy eyes.
+preparation:                        The boss postponed preparations for the new advertisement campaign until autumn.
+preserve:                           The association has preserved several of the state's historical buildings.
+proceed (-with):                    We will proceed with the construction of the new amusement park according to plan.
 profitable:                         In his speech, he emphasized the need to make the company's business more profitable.
+prolong (postpone):                 The army was prolonging its occupation of the southern region of the country.
+promote:                            It is important to promote the use of more advanced medical practices in developing countries.
 pronounce:                          I couldn't pronounce the French word correctly.
 proudly:                            The millionaire proudly exhibited his art collection at the city museum.
 puppy:                              The puppy hopped over the little fence and ran out into the meadow.
+purchase:                           This year, people are purchasing more household items such as furniture.
+pursue:                             He is pursuing the career as a dog trainer.
 pursuit*(tracking):                 After quick pursuit, he seized the thief and held him until the police arrived.
 quantity:                           As part of the campaign, large quantities of free samples were distributed in Tokyo and Osaka.
+quit:                               She wants to quit her job as a sales representative and use her artistic skills in her next job.
 ranking:                            The swimmer's strong determination drives her on to compete for a better ranking.
+rating:                             If you can't repay your loan, you will get a bad credit rating.
+rebel*:                             Rebels would never obey them.
 recommendation:                     He joined our team at recommendation of the elder of the coaches, but he can't even pitch curve balls.
 regargind:                          After ten years on the city council, he has acquired a lot of knowledge regarding city planning.
+region:                             The army was prolonging its occupation of the southern region of the country.
 regularly:                          I'm trying to convince my father to see a dentist regularly.
 remark*(state, mention):            The politician remarked that there should be a ban on rice imports via  Southeast Asia.
 remarkable:                         Her remarkable talent for the piano amazed me.
+repay:                              If you can't repay your loan, you will get a bad credit rating.
 repeatedly:                         The comedian efficiently reused his old jokes to repeatedly entertain audiences.
+representative:                     She wants to quit her job as a sales representative and use her artistic skills in her next job.
 reputation:                         He cheated on the exam even though he had a reputation for honesty.
+rescue:                             My brother fell into a shallow pond playing with his companion, and he was rescued by a passing stranger.
 resemble:                           The interior of this house resembles our old house.
+resist*(endure,bear,stand,tolerate):Some athletes can't resist the temptation to use illegal drugs that will improve their performance.
+resolve:                            We will have to resolve this worrying problem regarding the surf as soon as possible.
 restore (fix, repair):              He restores antique furniture to make a living.
+restrain*(constrain,suppress,confine): The police tried to restrain the angry crowd fans on the street after their team lost the hockey game.
 restroom:                           He leaped from the window of the restroom just before the flames reached him.
 retain*(keep):                      The actor still retains his youthful charm.
 reuse:                              The comedian efficiently reused his old jokes to repeatedly entertain audiences.
+reveal*(unveil, disclose):          The investigation revealed that he was innocent and saved his reputation.
 revenue:                            Feedback from clients can enable us to increase company revenue.
 scarcely:                           I squeezed the tube, but there was scarcely any toothpaste in it.
 scared:                             I was bitten by my neighbor's dog in the past and I'm still scared of the dogs.
 scatter:                            The youngsters scattered on the court when they began to play dodgeball.
 scenery (landscape):                That tall building was constructed last year, and it completely changed the scenery around here.
+scholarship:                        She is organizing a scholarship program for classical music students.
 scold:                              The mother scolded her son for secretly eating his little sister's cake.
 scratch:                            He often scratches his head when he feels uncomfortable or nervous.
 secretly:                           The mother scolded her son for secretly eating his little sister's cake.
 seize*:                             After quick pursuit, he seized the thief and held him until the police arrived.
 seminar:                            I apologized for my unkind comments during the seminar.
+sensation*(cause a-):               He caused a sensation when, against nearly impossible odds, he located the royal tomb.
 settlement*:                        We could've reached the settlement if he hadn't interfered in the negotiation.
 severe:                             This is a severe wound that will take several weeks to heal.
 sew:                                Because of the school's tight budget, the cheerleaders had to sew their own uniforms.
+shallow:                            My brother fell into a shallow pond playing with his companion, and he was rescued by a passing stranger.
 shortage:                           The victims had to endure severe food shortages after the floods.
 shortly:                            The second bomb exploded in a nearby park shortly after the first one.
 sidewalk (pavement):                The children skipped along the sidewalk to school.
 significant:                        If we just imitate other company's products, we will never see any significant growth in our sales.
 significantly:                      This new material absorbs sweat significantly more quickly than our existing products.
+skillful:                           A skillful carpenter can mend an old chair like new.
 skip:                               The children skipped along the sidewalk to school.
 slipper:                            My dog occasionally chews our slippers when he needs more affection.
 smash:                              The block dropped by the crane smashed into pieces.
@@ -293,12 +348,17 @@ stormy:                             His bike is exposed to the heavy rain in the
 strain:                             Even an athletic person like him can strain a muscle while playing sports.
 strip:                              He got awfully drunk and stripped down to his underwear in front of us.
 strongly:                           His wife strongly urged him to go to counseling to stop smoking.
+surf*:                              We will have to resolve this worrying problem regarding the surf as soon as possible.
 survey:                             The professor and his assistants are analyzing the findings of the survey concerning sleep.
 sword:                              She grasped bloody sword tightly in her hand.
 task:                               He couldn't concentrate on the task because he lacked the motivation to build a database.
+temptation*:                        Some athletes can't resist the temptation to use illegal drugs that will improve their performance.
+terror:                             The police are investigating the cause of the explosion and the possibility of a link to terror group.
 therapy:                            The doctor asserted the importance of the therapy.
 timely:                             He declined the timely offer of a job with his uncle's enterprise.
+tomb:                               He caused a sensation when, against nearly impossible odds, he located the royal tomb.
 tractor:                            He cut down the trees and dragged the wood back with a tractor.
+trainer:                            He is pursuing the career as a dog trainer.
 translation:                        He snapped his fingers when he came up with an exact translation of the Spanish word.
 treatment*:                         Patients have been adapting to more affordable treatments under the physician's direction.
 tutor:                              He didn't hesitate to ask his new tutor out on a date after the first lesson.
@@ -308,6 +368,7 @@ urge:                               His wife strongly urged him to go to counsel
 urgent:                             Passengers fastened their seat belts when they heard the urgent announcement.
 vanish:                             The detective tried to find the suspect, but he had vanished.
 vary:                               The criticism about this painting obviously varies from person to person.
+venture:                            Nowadays, major companies are afraid to invest in new business ventures.
 via:                                The politician remarked that there should be a ban on rice imports via  Southeast Asia.
 villager:                           Many houses collapsed during the earthquake, and hundreds of villagers were killed.
 voyage:                             All the crew knelt down and prayed for a safe voyage.
@@ -319,8 +380,10 @@ whip*:                              He whipped his horse toward the end of the r
 whisper:                            They were were whispering, nevertheless, I am sure they were talking about their opposition to the plan.
 wilderness*:                        A campfire was glowing in the distant wilderness.
 wildlife:                           He instituted a fund to protect wildlife in Alaska.
+willingly:                          The missing teenager was not kidnapped but willingly ran away from home with her boyfriend.
 wink:                               We all believed that her amazing story was real until she winked at the end of it.
 workout:                            He briefly stopped his workout, descended the stairs, and continued it in the garden.
+worrying*:                          We will have to resolve this worrying problem regarding the surf as soon as possible.
 yawn*:                              The pregnant woman on the couch yawned and closed her sleepy eyes.
 yield:                              After the heavy rains, the harvest yielded only half the usual wheat crops.
 youngster:                          The youngsters scattered on the court when they began to play dodgeball.
