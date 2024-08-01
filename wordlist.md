@@ -492,3 +492,55 @@ yield:                              After the heavy rains, the harvest yielded o
 youngster:                          The youngsters scattered on the court when they began to play dodgeball.
 youthful:                           The actor still retains his youthful charm.
 zebra*:                             For the safety of zebras and giraffes, we need to seal both gates.
+pronunciation:
+species:
+substance*(material, stuff):        in substance
+wisdom:
+canser:
+fist:
+flesh*:
+limb*:                              on four limb
+ricovery:
+thirst:
+ambition:
+anxiety:
+appetite*:                          have a good appetite
+caution:
+concentration:
+confession:
+conscience*:                        have a conscience
+consciousness*:                     lose consciousness
+consideration:                      The suggestions that have been offered are under consideration by our board members.
+cruelty*(abuse):                    cruelty to animals
+curiosity:                          out of curiosity
+enjoyment:                          with enjoyment
+enthusiasm:
+envy:
+expectation:
+grief*(sad, sorrowful, gloomy):     feel grief at ,,,
+hatred*:                            have a hatred for ,,,
+ignorance:
+impulse:
+instinct:
+intent:
+jealousy:
+madness:
+notion:
+rage:
+resolution:
+restraint*(inhibition,suppression): He showed great restraint in not responding to the provocation.
+sadness:
+scent:
+sorrow*(grief, sadness):            feel sorrow
+spite*(malice):
+tension:
+acting:
+admiration*:                        with admiraion
+edition:
+episode:
+exhibition:                         All of the people taking part in this exhibition have worked long and hard to make it successful.
+fame:
+fiction:
+paragraph*:                         in the first paragraph of ,,,
+portrait*:
+publication:
