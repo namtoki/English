@@ -8,9 +8,9 @@ acquaintance*:                      Perhaps you misunderstood me when I said he 
 acquire:                            After ten years on the city council, he has acquired a lot of knowledge regarding city planning.
 actively:                           She is actively engaging in volunteer work as the organization's administrator.
 actress:                            The actress generates a lot of laughter when she is in comedies.
-adapt:                              Patients have been adapting to more affordable treatments under the physician's direction.
+adapt (accustom):                   Patients have been adapting to more affordable treatments under the physician's direction.
 adjust:                             As I adjusted to the new environment, my work became increasingly enjoyable.
-administration:                     The policies of the administration and the Congress conflict on the question of the defence budget.
+administration (government):        The policies of the administration and the Congress conflict on the question of the defence budget.
 administrator:                      She is actively engaging in volunteer work as the organization's administrator.
 advanced:                           It is important to promote the use of more advanced medical practices in developing countries.
 advertisement:                      The boss postponed preparations for the new advertisement campaign until autumn.
