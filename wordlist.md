@@ -544,3 +544,56 @@ yield:                              After the heavy rains, the harvest yielded o
 youngster:                          The youngsters scattered on the court when they began to play dodgeball.
 youthful:                           The actor still retains his youthful charm.
 zebra*:                             For the safety of zebras and giraffes, we need to seal both gates.
+recording:
+scandal:
+spectacle:
+version:
+apricot*:                           Japanese apricot
+ash:
+atmosphere:                         We hope you enjoy our quiet, relaxed atmosphere hire in this Japanese-style garden.
+bamboo:                             a bamboo shoot
+berry:
+bloom*:                             be in full bloom
+blossom*:                           The cherry blossoms are in full bloom.
+brass*:                             a brass band
+breeze:
+bud*:                               rose bud
+cave:
+celery:
+cosmos:
+crystal:
+echo:
+grain:                              a grain of rice
+gulf:                               the Gulf of Mexico
+layer:
+liquid:
+magnet:
+marble*:                            a block of marble
+oak:
+oxygen:
+pine*:
+pit*:                               the pit of the stomach
+stem:
+sunflower:
+tide*:                              go with the tide
+vanilla:
+web:
+weed*:                              grow like a weed
+anniversary:
+apology*:                           My apologies
+aspect:
+blessing:                           have the blessing of ,,,
+breakdown:
+convenience:
+deed*:                              do a good deed
+engagement:
+eve:
+fate:
+flavor:
+gamble:
+glory:
+goodness:
+guidance:
+hunting:
+interval:
+landscape:
