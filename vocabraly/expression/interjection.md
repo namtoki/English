@@ -3,7 +3,15 @@
 ## POSITIVE
 
 - `That's fanny.`:                          `That's fanny!`(fanny ha-ha)
+- `Here we go.`:                            Have you prepared everything? OK, `here we go`!
+- `Here we go.`:                            Sure! Line up in front of that statue! 3.2.1 `here we go`!
 - `Here we go.`:                            Where is the building? `Here we go!` That is the building we were looking for!
+- `Here we go.`:                            `Here we go`! Your dinner is ready!
+- `Here we are.`:                           `Here we are`! Home sweet home.
+- `Here you go/are.`:                       `Here you go`. This is the doll you wanted.
+- `There we go.`:                           Man, am I out of shape. `There we go`. Hey, Anna! Sven!
+- `There we are.`:                          Well, `there we are`. I've finally finished my homework.
+- `There you go.`:                          I am where I am today because I’ve always followed my heart. I’m going to go for it! / Yeah. `There you go`!
 - `You never know.`:                        I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
 - `Good to know.`:
 - `Lucky you!`:
@@ -74,7 +82,6 @@
 - `I'll tell you later.`:
 - `I'll let you know.`:
 - `So much for (O)`:                        `So much for` the small talk. Let's get down to business.
-- `leave it there.               (ここまでにしましょう)
-- `There you go.                 (その通り)
-- `Take your time.               (ごゆっくり)
-- `Good luck with your speech.   (頑張って)
+- `Leave it there.`:
+- `Take your time.`:
+- `Good luck with your speech.`:
