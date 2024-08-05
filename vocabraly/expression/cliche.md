@@ -1,18 +1,5 @@
 # CLICHE
 
-# REACTION
-
-- `Let's say (O)`:                          `Let's say` dinner at seven. / `Let's say` Monday at three.
-- `That sounds like              (それは .. だね)            <!-- That sounds like a lot of work. -->
-- `That would be great.          (そうしていただけると嬉しい)
-- `You flatter me.               (お世辞でも嬉しいです)
-- `that ... ?                    (そんなに ...？)            <!-- Wow! That good? -->
-- `I'm in the middle of something(今手が離せない)
-- `Been there done that          (やったことあるけど、もういい (飽きた))
-- `Do you want me to ... ?       (... させるつもり？)        <!-- Do you want me to lose my job? -->
-- `I'm ... ing ... at the moment (中だから邪魔しないで)      <!-- Hang on. I'm just finishing up an email at the moment -->
-- `I'm trying to ...             (中だから邪魔しないで)      <!-- Hey, Toshi? I'm trying to work, Emily! -->
-
 # ANSWER (NEGATIVE)
 
 - [x] No. I'm Okay.                 (結構です)
