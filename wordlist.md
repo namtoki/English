@@ -34,6 +34,7 @@
 - amaze:                                Her remarkable talent for the piano amazed me.
 - amazing:                              We all believed that her amazing story was real until she winked at the end of it.
 - ambition:
+- ambitious:
 - amuse:                                He amused the elderly people in the nursing home with his card tricks.
 - amusement:                            We will proceed with the construction of the new amusement park according to plan.
 - analyze:                              The professor and his assistants are analyzing the findings of the survey concerning sleep.
@@ -51,6 +52,7 @@
 - approval:
 - apricot*:                             Japanese apricot
 - aquarium:
+- artificial:
 - artistic:                             She wants to quit her job as a sales representative and use her artistic skills in her next job.
 - ash:
 - aspect:
@@ -79,6 +81,7 @@
 - beaver:                               work like a beaver
 - bedside:
 - behavior:                             He insulted her by saying that her behavior at the party was childish.
+- beloved*(dear):
 - berry:
 - billion:                              Specialists calculate that the world's population would definitely grow to 8 billion over the next decade.
 - bite:                                 I was bitten by my neighbor's dog in the past and I'm still scared of the dogs.
@@ -195,6 +198,7 @@
 - construction:                         We will proceed with the construction of the new amusement park according to plan.
 - container:
 - context:
+- contrary:
 - contrast:
 - contribution:
 - convenience:
@@ -230,6 +234,7 @@
 - cruise:                               My father won an award that included the prize of cruising around the grobe.
 - crystal:
 - curiosity:                            out of curiosity
+- curious:
 - current:                              He is confident that the company will eventually overcome its current problems.
 - curriculum:                           The counselor helps familiarize students with the curriculum and registration programs
 - dam:
@@ -262,9 +267,11 @@
 - destruction:
 - detective:                            The detective tried to find the suspect, but he had vanished.
 - determination:                        The swimmer's strong determination drives her on to compete for a better ranking.
+- determined:
 - developing:                           It is important to promote the use of more advanced medical practices in developing countries.
 - differ:                               The tastes of mature audiences differ from those of young people.
 - digest:
+- digital:
 - dinosaur:
 - disadvantage:
 - disagree:                             I disagree with his opinion that the company's holding will lose their value.
@@ -300,8 +307,10 @@
 - elderly:                              He amused the elderly people in the nursing home with his card tricks.
 - electrical:                           Most people associate Edison with the electrical inventions.
 - electrician:
+- electronic:
 - emerge:                               A liberal trend emerged among young people in the last election.
 - emergency:
+- emotional:
 - emperor:
 - emphasis*:                            The maker is shifting the emphasis of its production policy.
 - emphasize:                            In his speech, he emphasized the need to make the company's business more profitable.
@@ -309,6 +318,7 @@
 - enable:                               Feedback from clients can enable us to increase company revenue.
 - enclose:                              She enclosed her recent pictures in the package she sent to her parents.
 - encounter (come across, run into):    The couple encountered a big snake on their honeymoon.
+- endless:
 - endure*(bear,stand,tolerate,putupw):  The victims had to endure severe food shortages after the floods.
 - engage:                               She is actively engaging in volunteer work as the organization's administrator.
 - engagement:
@@ -340,6 +350,7 @@
 - extend:                               The government will extend the welfare program for another three years.
 - extension:
 - extent:                               to some extent
+- external:
 - extraordinary:                        He has demonstrated extraordinary talent as a violinist.
 - factor:
 - fade:                                 The rock group's popularity is beginning to fade.
@@ -349,6 +360,8 @@
 - fasten:                               Passengers fastened their seat belts when they heard the urgent announcement.
 - fatal:                                He blended two poisonous chemicals into the fatal drink.
 - fate:
+- favorable:
+- fearful*(scared,afraid,frightened):
 - feedback:                             Feedback from clients can enable us to increase company revenue.
 - fiction:
 - filter:
@@ -371,6 +384,7 @@
 - gamble:
 - gangster:
 - gardener:
+- gay:
 - generate:                             The actress generates a lot of laughter when she is in comedies.
 - generous:                             Tell him our charity appreciates his generous gift.
 - genius:
@@ -427,6 +441,7 @@
 - illustration:                         The manual combines good maintenance advice with helpful illustrations.
 - imitate*(mimic, mock):                If we just imitate other company's products, we will never see any significant growth in our sales.
 - impose (-on):                         In terms of economics, the government wants to impose a heavier tax burden on office workers.
+- impressive:
 - impulse:
 - incident:                             The woman abused her son for years, but her husband never realize the incidents.
 - increasingly:                         As I adjusted to the new environment, my work became increasingly enjoyable.
@@ -445,9 +460,11 @@
 - institute*(set up, establish):        He instituted a fund to protect wildlife in Alaska.
 - instruct:                             Car dealers should instruct their customers in the proper use of their car.
 - insult*(throw shade at):              He insulted her by saying that her behavior at the party was childish.
+- intellectual:
 - intent:
 - interfere (distract, disturb):        We could've reached the settlement if he hadn't interfered in the negotiation.
 - interior:                             The interior of this house resembles our old house.
+- internal:
 - interpreter:                          The interpreter underlined the words on the certificate for which she didn't know the definition.
 - interval:
 - invade:                               In ancient times when armies invaded other lands, they showed no mercy toward the native people.
@@ -469,8 +486,10 @@
 - knot*:                                tie a knot
 - lace:                                 She decorated the table in the living room with lace.
 - landscape:
+- latter:
 - laughter:                             The actress generates a lot of laughter when she is in comedies.
 - launch:
+- laundry:
 - layer:
 - leap*:                                He leaped from the window of the restroom just before the flames reached him.
 - learner:
@@ -480,13 +499,18 @@
 - lifetime:                             the chance of a lifetime
 - limb*:                                on four limb
 - linen*:                               Fold up the linen when you get out of bed.
+- lipstick:
 - liquid:
+- literary:
 - lobby:
 - locate:                               He caused a sensation when, against nearly impossible odds, he located the royal tomb.
 - lodge:                                He inherited his mother's chain of lodges and inns, so now he is a millionaire.
+- log:
 - logic:
+- logical:
 - luckily:                              Luckily, he was able to obtain a truck driver's license and get a job at the grocery store.
 - luxury:                               I deposited half of my bonus in the bank and spent the rest on a luxury trip to Mexico.
+- machinery:
 - madness:
 - magician:                             The magician thrilled her audience with some skillful tricks.
 - magnet:
@@ -498,17 +522,21 @@
 - manufacturing:                        The vegetables will not decay for a long time if kept in cartons made with that special manufacturing process.
 - marble*:                              a block of marble
 - marked:                               There was a marked improvement in the article after the editor rewrote it.
+- mast:
 - mature:                               The tastes of mature audiences differ from those of young people.
 - maximum:
 - mayor:                                The enthusiastic audience clapped their hands several times during the mayor speech.
 - meadow:                               The puppy hopped over the little fence and ran out into the meadow.
 - meanwhile:                            I chopped vegetables for the stew; meanwhile, my daughter was frying the meet.
 - measurement:
+- mechanical:
 - mechanism:
+- medium:
 - mend*(fix,repair,restore):            A skillful carpenter can mend an old chair like new.
 - mercy*:                               In ancient times when armies invaded other lands, they showed no mercy toward the native people.
 - mess:
 - messenger:                            The messenger assured everyone that aid was coming soon.
+- mill:
 - millionair:                           The millionaire proudly exhibited his art collection at the city museum.
 - minimum:
 - minority:                             In an effort of encourage diversity, they will debate the complicated problem of minority rights.
@@ -517,8 +545,11 @@
 - mist:                                 The knight and his horse wondered over the meadow in the heavy mist.
 - misunderstand:                        Perhaps you misunderstood me when I said he was an acquaintance, not a friend.
 - mode:
+- monitor:
+- monument:
 - motivation:                           He couldn't concentrate on the task because he lacked the motivation to build a database.
 - multiply:                             The number of cattle with the disease is multiplying at a rapid pace.
+- mutual:
 - nap:                                  The owner of the inn was napping in his favorite chair by the fireplace.
 - nationality*:                         What's your nationality?
 - nearby:                               The second bomb exploded in a nearby park shortly after the first one.
@@ -528,6 +559,7 @@
 - northwest:
 - notion:
 - nowadays:                             Nowadays, major companies are afraid to invest in new business ventures.
+- nuclear:
 - nursing:                              He amused the elderly people in the nursing home with his card tricks.
 - oak:
 - obey*:                                Rebels would never obey them.
@@ -543,15 +575,21 @@
 - outer:                                The insect crept up the outer wall.
 - outline:
 - output:
+- outward*(outside):                    outward appearance
+- overall:
 - overcome:                             He is confident that the company will eventually overcome its current problems.
 - overlook:                             Don't overlook the possibility that personal data could be stolen from your briefcase.
 - owl:                                  a night owl
 - oxygen:
 - packet:                               She enclosed her recent pictures in the package she sent to her parents.
+- panel:
 - panic:
 - paragraph*:                           in the first paragraph of ,,,
+- parallel:
 - parliament*(congress,diet,council):   Parliament makes legislation, and the administration govern the country.
 - parrot*:                              repeat like a parrot
+- partial:
+- passive:
 - pavement:
 - peasant*(farmar):
 - penalty:
@@ -604,9 +642,11 @@
 - ranking:                              The swimmer's strong determination drives her on to compete for a better ranking.
 - rating:                               If you can't repay your loan, you will get a bad credit rating.
 - rattle*(rattled):                     a baby's rattle
+- razor*:                               a electric razor
 - rear:
 - rebel*:                               Rebels would never obey them.
 - recall:                               Do you recall when the delivery of the calligraphy stationery is going to be?
+- receiver:
 - reception:                            A man at the reception desk stared at us, and it made me uncomfortable.
 - recognition*(admission,approval):
 - recommendation:                       He joined our team at recommendation of the elder of the coaches, but he can't even pitch curve balls.
@@ -620,6 +660,7 @@
 - relatively:                           He was relatively young for a head of state, but he united a country that had been divided by civil war.
 - remark*(state, mention):              The politician remarked that there should be a ban on rice imports via  Southeast Asia.
 - remarkable:                           Her remarkable talent for the piano amazed me.
+- remote:
 - repay:                                If you can't repay your loan, you will get a bad credit rating.
 - repeatedly:                           The comedian efficiently reused his old jokes to repeatedly entertain audiences.
 - replacement:
@@ -646,8 +687,10 @@
 - reveal*(unveil, disclose):            The investigation revealed that he was innocent and saved his reputation.
 - revenge:
 - revenue:                              Feedback from clients can enable us to increase company revenue.
+- reverse:
 - rewrite:                              There was a marked improvement in the article after the editor rewrote it.
 - ricovery:
+- rifle:
 - ruling:
 - sacrifice:
 - sadness:
@@ -681,6 +724,7 @@
 - sew:                                  Because of the school's tight budget, the cheerleaders had to sew their own uniforms.
 - shallow:                              My brother fell into a shallow pond playing with his companion, and he was rescued by a passing stranger.
 - shelter:
+- shield:
 - shift:                                The maker is shifting the emphasis of its production policy.
 - shortage:                             The victims had to endure severe food shortages after the floods.
 - shortly:                              The second bomb exploded in a nearby park shortly after the first one.
@@ -691,8 +735,10 @@
 - skier:
 - skillful:                             A skillful carpenter can mend an old chair like new.
 - skip:                                 The children skipped along the sidewalk to school.
+- sleeve:
 - slipper:                              My dog occasionally chews our slippers when he needs more affection.
 - smash:                                The block dropped by the crane smashed into pieces.
+- snack:
 - snap:                                 He snapped his fingers when he came up with an exact translation of the Spanish word.
 - solution:
 - sorrow*(grief, sadness):              feel sorrow
@@ -705,9 +751,11 @@
 - spill*:                               A waiter spilled red wine on her dress, and she complained bitterly to the manager about it.
 - spite*(malice):
 - spokesman:
+- sponge:
 - sponsor:
 - spray:
 - squeeze:                              I squeezed the tube, but there was scarcely any toothpaste in it.
+- stake*:                               have a stake in ...
 - stall*(stand,kiosk):                  Food stalls line the parking lot on festival days. :
 - stare:                                A man at the reception desk stared at us, and it made me uncomfortable.
 - starve:                               Some people almost starved in the disaster area because aid supplies were delayed.
@@ -733,8 +781,10 @@
 - surrounding*(environment,circumstances):
 - survey:                               The professor and his assistants are analyzing the findings of the survey concerning sleep.
 - sword:                                She grasped bloody sword tightly in her hand.
+- tablespoon:
 - tame:                                 Tame fools submit to commands of their masters.
 - task:                                 He couldn't concentrate on the task because he lacked the motivation to build a database.
+- technological:
 - temptation*:                          Some athletes can't resist the temptation to use illegal drugs that will improve their performance.
 - tendency:
 - tension:
@@ -761,6 +811,7 @@
 - uncomfortable:                        He often scratches his head when he feels uncomfortable or nervous.
 - underline:                            The interpreter underlined the words on the certificate for which she didn't know the definition.
 - unite:                                He was relatively young for a head of state, but he united a country that had been divided by civil war.
+- universal:
 - unkind:                               I apologized for my unkind comments during the seminar.
 - urge:                                 His wife strongly urged him to go to counseling to stop smoking.
 - urgent:                               Passengers fastened their seat belts when they heard the urgent announcement.
@@ -771,6 +822,7 @@
 - vary:                                 The criticism about this painting obviously varies from person to person.
 - venture:                              Nowadays, major companies are afraid to invest in new business ventures.
 - version:
+- vessel:
 - via:                                  The politician remarked that there should be a ban on rice imports via  Southeast Asia.
 - vice:
 - viewer:
@@ -799,55 +851,3 @@
 - youngster:                            The youngsters scattered on the court when they began to play dodgeball.
 - youthful:                             The actor still retains his youthful charm.
 - zebra*:                               For the safety of zebras and giraffes, we need to seal both gates.
-- laundry:
-- lipstick:
-- log:
-- machinery:
-- mast:
-- mill:
-- monitor:
-- monument:
-- panel:
-- razor*:                               a electric razor
-- receiver:
-- rifle:
-- shield:
-- sleeve:
-- snack:
-- sponge:
-- stake*:                               have a stake in ...
-- tablespoon:
-- vessel:
-- contrary:
-- endless:
-- external:
-- internal:
-- latter:
-- medium:
-- mutual:
-- outward*(outside):                    outward appearance
-- overall:
-- parallel:
-- partial:
-- passive:
-- remote:
-- reverse:
-- universal:
-- artificial:
-- digital:
-- electronic:
-- literary:
-- logical:
-- mechanical:
-- nuclear:
-- technological:
-- ambitious:
-- beloved*(dear):
-- curious:
-- determined:
-- emotional:
-- favorable:
-- fearful*(scared,afraid,frightened):
-- gay:
-- impressive:
-- intellectual:
