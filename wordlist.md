@@ -799,3 +799,55 @@
 - youngster:                            The youngsters scattered on the court when they began to play dodgeball.
 - youthful:                             The actor still retains his youthful charm.
 - zebra*:                               For the safety of zebras and giraffes, we need to seal both gates.
+- laundry:
+- lipstick:
+- log:
+- machinery:
+- mast:
+- mill:
+- monitor:
+- monument:
+- panel:
+- razor*:                               a electric razor
+- receiver:
+- rifle:
+- shield:
+- sleeve:
+- snack:
+- sponge:
+- stake*:                               have a stake in ...
+- tablespoon:
+- vessel:
+- contrary:
+- endless:
+- external:
+- internal:
+- latter:
+- medium:
+- mutual:
+- outward*(outside):                    outward appearance
+- overall:
+- parallel:
+- partial:
+- passive:
+- remote:
+- reverse:
+- universal:
+- artificial:
+- digital:
+- electronic:
+- literary:
+- logical:
+- mechanical:
+- nuclear:
+- technological:
+- ambitious:
+- beloved*(dear):
+- curious:
+- determined:
+- emotional:
+- favorable:
+- fearful*(scared,afraid,frightened):
+- gay:
+- impressive:
+- intellectual:
