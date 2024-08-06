@@ -1,6 +1,7 @@
 - absorb*:                              This new material absorbs sweat significantly more quickly than our existing products.
 - abuse*:                               The woman abused her son for years, but her husband never realize the incidents.
 - acceptance*:                          gain acceptance
+- accessory:
 - accomplish:                           He accomplished many things as chair of the traffic safety commission.
 - accord:                               in accord with...
 - accuse:                               Did your boss accuse you of making the mistake in the presentation yesterday?
@@ -37,6 +38,7 @@
 - amusement:                            We will proceed with the construction of the new amusement park according to plan.
 - analyze:                              The professor and his assistants are analyzing the findings of the survey concerning sleep.
 - ancestor:
+- anchor:
 - ancient:                              In ancient times when armies invaded other lands, they showed no mercy toward the native people.
 - anniversary:
 - antique:                              He restores antique furniture to make a living.
@@ -65,11 +67,15 @@
 - await*(wait for):                     Everyone awaited the new attraction at Disneyland.
 - award:                                My father won an award that included the prize of cruising around the grobe.
 - awfully*:                             He got awfully drunk and stripped down to his underwear in front of us.
+- ax*:
 - bamboo:                               a bamboo shoot
 - ban:                                  The politician remarked that there should be a ban on rice imports via  Southeast Asia.
 - banking:
 - barely*:                              He whipped his horse toward the end of the race and barely beat his competitor.
+- barrel:
 - basically:                            Basically, I can't distinguish a mouse from a rat.
+- basin*(tub):                          a basin of water
+- beam:
 - beaver:                               work like a beaver
 - bedside:
 - behavior:                             He insulted her by saying that her behavior at the party was childish.
@@ -77,6 +83,7 @@
 - billion:                              Specialists calculate that the world's population would definitely grow to 8 billion over the next decade.
 - bite:                                 I was bitten by my neighbor's dog in the past and I'm still scared of the dogs.
 - bitterly (in an anger):               A waiter spilled red wine on her dress, and she complained bitterly to the manager about it.
+- blade:
 - bleed*:                               The businessman was bleeding heavily when the ambulance arrived at the accident site.
 - blend:                                He blended two poisonous chemicals into the fatal drink.
 - blessing:                             have the blessing of ,,,
@@ -85,10 +92,13 @@
 - blossom*:                             The cherry blossoms are in full bloom.
 - blush*:                               The maid blushed when she opened her mailbox to find his name.
 - bodyguard:                            The director persuaded the actress not to bring her bodyguard onto the film set.
+- bolt*:
 - bond:
 - bonus:                                I deposited half of my bonus in the bank and spent the rest on a luxury trip to Mexico.
+- booklet:
 - bother:                               The scientist achievement made her so famous that she was constantly bothered by the press.
 - boundary
+- brandy*:
 - brass*:                               a brass band
 - breakdown:
 - breeze:
@@ -102,6 +112,7 @@
 - buther:
 - buyer:
 - cabin:
+- cabinet:
 - calculate:                            Specialists calculate that the world's population would definitely grow to 8 billion over the next decade.
 - calligraphy*:                         Do you recall when the delivery of the calligraphy stationery is going to be?
 - camel:
@@ -110,13 +121,17 @@
 - canser:
 - capacity:                             The company plans to expand its production capacity next year.
 - capture*(catch, arrest):              After escaping from Japan, he was finally captured halfway around the world in Brazil.
+- cardigan:
 - carton:                               The vegetables will not decay for a long time if kept in cartons made with that special manufacturing process.
+- catalog:
 - category:
 - cattle:                               The number of cattle with the disease is multiplying at a rapid pace.
 - caution:
 - cave:
 - celery:
+- cement*:
 - certificate:                          The interpreter underlined the words on the certificate for which she didn't know the definition.
+- characteristic:
 - charity:                              Tell him our charity appreciates his generous gift.
 - charm:                                The actor still retains his youthful charm.
 - cheat:                                He cheated on the exam even though he had a reputation for honesty.
@@ -124,6 +139,7 @@
 - chef:
 - chemist:
 - chemistry:
+- chess:
 - chew*:                                My dog occasionally chews our slippers when he needs more affection.
 - chick*:                               He's apparently discouraging his kids from keeping a chick.
 - childish:                             He insulted her by saying that her behavior at the party was childish.
@@ -136,10 +152,12 @@
 - clap*:                                The enthusiastic audience clapped their hands several times during the mayor speech.
 - classical:                            She is organizing a scholarship program for classical music students.
 - clip*(clip off):                      Dogs will be more comfortable in summer if you clip off their excess hair with scissors.
+- closet:
 - cock:
 - code:
 - collapse:                             Many houses collapsed during the earthquake, and hundreds of villagers were killed.
 - colony:
+- column:
 - combine:                              The manual combines good maintenance advice with helpful illustrations.
 - comedian:                             The comedian efficiently reused his old jokes to repeatedly entertain audiences.
 - comedy:                               The actress generates a lot of laughter when she is in comedies.
@@ -148,9 +166,11 @@
 - commission:                           He accomplished many things as chair of the traffic safety commission.
 - commit:                               Many young people commit crimes due to poverty and despair.
 - companion:                            My brother fell into a shallow pond playing with his companion, and he was rescued by a passing stranger.
+- comparison:
 - compete:                              The swimmer's strong determination drives her on to compete for a better ranking.
 - competitor:                           He whipped his horse toward the end of the race and barely beat his competitor.
 - complicated:                          In an effort of encourage diversity, they will debate the complicated problem of minority rights.
+- component:
 - composer*:
 - concentrate:                          He couldn't concentrate on the task because he lacked the motivation to build a database.
 - concentration:
@@ -166,13 +186,16 @@
 - conquer*:                             Even Napoleon couldn't conquer Russia during its harsh winter.
 - conscience*:                          have a conscience
 - consciousness*:                       lose consciousness
+- consequence:
 - consideration:                        The suggestions that have been offered are under consideration by our board members.
 - consist:                              This book about the Roman Empire consists of eight chapters.
 - constantly:                           The scientist achievement made her so famous that she was constantly bothered by the press.
 - constitution*:                        establish a constitution
 - construct:                            That tall building was constructed last year, and it completely changed the scenery around here.
 - construction:                         We will proceed with the construction of the new amusement park according to plan.
+- container:
 - context:
+- contrast:
 - contribution:
 - convenience:
 - convention*(tournament,conference):   annual convention
@@ -180,6 +203,7 @@
 - convince (persuade):                  I'm trying to convince my father to see a dentist regularly.
 - cooperation*:                         The minister preached about the need for love and cooperation between the races.
 - cop:
+- cord*:                                extension cord
 - corporation:
 - correctly:                            I couldn't pronounce the French word correctly.
 - cosmos:
@@ -188,6 +212,7 @@
 - council*(parliament,congress,diet):   After ten years on the city council, he has acquired a lot of knowledge regarding city planning.
 - counseling:                           His wife strongly urged him to go to counseling to stop smoking.
 - counselor*:                           The counselor helps familiarize students with the curriculum and registration programs
+- counter:
 - countryman*(hick):
 - county:
 - coward*:                              He dashed across the railroad crossing just ahead of the train to show he wasn't coward.
@@ -199,6 +224,7 @@
 - criticism:                            The criticism about this painting obviously varies from person to person.
 - criticize:                            The actor's statement on homeless people was criticized as ignorant.
 - crossing:                             After the accident, the driver confessed that he hadn't stop at the crossing.
+- crossword:
 - crow:                                 eat crow
 - cruelty*(abuse):                      cruelty to animals
 - cruise:                               My father won an award that included the prize of cruising around the grobe.
@@ -245,6 +271,7 @@
 - disaster:                             Some people almost starved in the disaster area because aid supplies were delayed.
 - discipline:
 - discourage*(-from):                   He's apparently discouraging his kids from keeping a chick.
+- disk:
 - distinguish:                          Basically, I can't distinguish a mouse from a rat.
 - distribute:                           As part of the campaign, large quantities of free samples were distributed in Tokyo and Osaka.
 - dive:                                 He dived into the river in a heroic attempt to save the child.
@@ -314,6 +341,7 @@
 - extension:
 - extent:                               to some extent
 - extraordinary:                        He has demonstrated extraordinary talent as a violinist.
+- factor:
 - fade:                                 The rock group's popularity is beginning to fade.
 - fame:
 - familiarize:                          The counselor helps familiarize students with the curriculum and registration programs
@@ -323,6 +351,7 @@
 - fate:
 - feedback:                             Feedback from clients can enable us to increase company revenue.
 - fiction:
+- filter:
 - finding:                              The professor and his assistants are analyzing the findings of the survey concerning sleep.
 - fist:
 - flame:                                He leaped from the window of the restroom just before the flames reached him.
@@ -360,9 +389,11 @@
 - grocery:                              Luckily, he was able to obtain a truck driver's license and get a job at the grocery store.
 - guiarantee:
 - guidance:
+- guidebook:
 - guilt:
 - gulf:                                 the Gulf of Mexico
 - halfway (halfway around the world):   After escaping from Japan, he was finally captured halfway around the world in Brazil.
+- handbook:
 - handful:                              a handful of,,,
 - hanging:                              death by hanging
 - harsh*(cruel, brutal):                Even Napoleon couldn't conquer Russia during its harsh winter.
@@ -370,6 +401,8 @@
 - haste:                                in haste
 - hatred*:                              have a hatred for ,,,
 - heal:                                 This is a severe wound that will take several weeks to heal.
+- heater:
+- heating:
 - heavily:                              The businessman was bleeding heavily when the ambulance arrived at the accident site.
 - heroic:                               He dived into the river in a heroic attempt to save the child.
 - hesitate:                             He didn't hesitate to ask his new tutor out on a date after the first lesson.
@@ -380,6 +413,7 @@
 - homeless:                             The actor's statement on homeless people was criticized as ignorant.
 - honesty:                              He cheated on the exam even though he had a reputation for honesty.
 - honeymoon:                            The couple encountered a big snake on their honeymoon.
+- hood:
 - hop:                                  The puppy hopped over the little fence and ran out into the meadow.
 - hopefully*(if all goes well):         We depart from Narita at noon and will hopefully arrive at our destination tomorrow morning.
 - household:                            This year, people are purchasing more household items such as furniture.
@@ -432,6 +466,7 @@
 - kindergarten*:
 - kneel*:                               All the crew knelt down and prayed for a safe voyage.
 - knight:                               The knight and his horse wondered over the meadow in the heavy mist.
+- knot*:                                tie a knot
 - lace:                                 She decorated the table in the living room with lace.
 - landscape:
 - laughter:                             The actress generates a lot of laughter when she is in comedies.
@@ -468,6 +503,7 @@
 - mayor:                                The enthusiastic audience clapped their hands several times during the mayor speech.
 - meadow:                               The puppy hopped over the little fence and ran out into the meadow.
 - meanwhile:                            I chopped vegetables for the stew; meanwhile, my daughter was frying the meet.
+- measurement:
 - mechanism:
 - mend*(fix,repair,restore):            A skillful carpenter can mend an old chair like new.
 - mercy*:                               In ancient times when armies invaded other lands, they showed no mercy toward the native people.
@@ -503,7 +539,9 @@
 - opposition:                           They were were whispering, nevertheless, I am sure they were talking about their opposition to the plan.
 - organize:                             She is organizing a scholarship program for classical music students.
 - origin:
+- outcome:
 - outer:                                The insect crept up the outer wall.
+- outline:
 - output:
 - overcome:                             He is confident that the company will eventually overcome its current problems.
 - overlook:                             Don't overlook the possibility that personal data could be stolen from your briefcase.
@@ -515,14 +553,17 @@
 - parliament*(congress,diet,council):   Parliament makes legislation, and the administration govern the country.
 - parrot*:                              repeat like a parrot
 - pavement:
+- peasant*(farmar):
 - penalty:
 - perceive*(recognized):                Despite the fact that the company has a huge debt, it is generally perceived to be a strong company.
 - persuade*(convince):                  The director persuaded the actress not to bring her bodyguard onto the film set.
 - philosophy:
 - physician:                            Patients have been adapting to more affordable treatments under the physician's direction.
 - pine*:
+- pioneer:
 - pit*:                                 the pit of the stomach
 - pitch:                                He joined our team at recommendation of the elder of the coaches, but he can't even pitch curve balls.
+- planner:
 - plot:
 - poisonous:                            He blended two poisonous chemicals into the fatal drink.
 - popularity:                           The rock group's popularity is beginning to fade.
@@ -547,6 +588,7 @@
 - promotion:
 - pronounce:                            I couldn't pronounce the French word correctly.
 - pronunciation:
+- proportion:
 - prospect:
 - prosperity*(thrive,flourish):         live in prosperity
 - proudly:                              The millionaire proudly exhibited his art collection at the city museum.
@@ -588,6 +630,7 @@
 - rescue:                               My brother fell into a shallow pond playing with his companion, and he was rescued by a passing stranger.
 - resemble:                             The interior of this house resembles our old house.
 - residence:
+- resident:
 - resist*(endure,bear,stand,tolerate):  Some athletes can't resist the temptation to use illegal drugs that will improve their performance.
 - resistance:
 - resolution:
@@ -608,6 +651,7 @@
 - ruling:
 - sacrifice:
 - sadness:
+- saint:
 - salmon:
 - satisfaction:                         How do you define "customer satisfaction" in today's market?
 - scandal:
@@ -618,6 +662,7 @@
 - scenery (landscape):                  That tall building was constructed last year, and it completely changed the scenery around here.
 - scent:
 - scheme:
+- scholar:
 - scholarship:                          She is organizing a scholarship program for classical music students.
 - scold:                                The mother scolded her son for secretly eating his little sister's cake.
 - scout:
@@ -643,6 +688,7 @@
 - significant:                          If we just imitate other company's products, we will never see any significant growth in our sales.
 - significantly:                        This new material absorbs sweat significantly more quickly than our existing products.
 - sin*(crime,offence,vice,guilt):
+- skier:
 - skillful:                             A skillful carpenter can mend an old chair like new.
 - skip:                                 The children skipped along the sidewalk to school.
 - slipper:                              My dog occasionally chews our slippers when he needs more affection.
@@ -658,6 +704,8 @@
 - spectacle:
 - spill*:                               A waiter spilled red wine on her dress, and she complained bitterly to the manager about it.
 - spite*(malice):
+- spokesman:
+- sponsor:
 - spray:
 - squeeze:                              I squeezed the tube, but there was scarcely any toothpaste in it.
 - stall*(stand,kiosk):                  Food stalls line the parking lot on festival days. :
@@ -674,6 +722,7 @@
 - strain:                               Even an athletic person like him can strain a muscle while playing sports.
 - strip:                                He got awfully drunk and stripped down to his underwear in front of us.
 - strongly:                             His wife strongly urged him to go to counseling to stop smoking.
+- stylist:
 - submit*(-to, follow, obey):           Tame fools submit to commands of their masters.
 - substance*(material, stuff):          in substance
 - suburb:                               I was asked by my boss to estimate the cost of the suburb development.
@@ -687,6 +736,7 @@
 - tame:                                 Tame fools submit to commands of their masters.
 - task:                                 He couldn't concentrate on the task because he lacked the motivation to build a database.
 - temptation*:                          Some athletes can't resist the temptation to use illegal drugs that will improve their performance.
+- tendency:
 - tension:
 - territory:
 - terror:                               The police are investigating the cause of the explosion and the possibility of a link to terror group.
@@ -723,6 +773,7 @@
 - version:
 - via:                                  The politician remarked that there should be a ban on rice imports via  Southeast Asia.
 - vice:
+- viewer:
 - villager:                             Many houses collapsed during the earthquake, and hundreds of villagers were killed.
 - virtue:                               virtue and vice
 - voyage:                               All the crew knelt down and prayed for a safe voyage.
