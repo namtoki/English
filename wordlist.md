@@ -1,4 +1,5 @@
 - absorb*:                              This new material absorbs sweat significantly more quickly than our existing products.
+- abstract:
 - abuse*:                               The woman abused her son for years, but her husband never realize the incidents.
 - acceptance*:                          gain acceptance
 - accessory:
@@ -24,6 +25,7 @@
 - advertisement:                        The boss postponed preparations for the new advertisement campaign until autumn.
 - affection:                            My dog occasionally chews our slippers when he needs more affection.
 - affordable:                           Patients have been adapting to more affordable treatments under the physician's direction.
+- aged:
 - agenda:                               The day's agenda was altered in response to changes in regulations regarding agricultural imports.
 - agricultural:                         The day's agenda was altered in response to changes in regulations regarding agricultural imports.
 - agriculture:
@@ -37,11 +39,13 @@
 - ambitious:
 - amuse:                                He amused the elderly people in the nursing home with his card tricks.
 - amusement:                            We will proceed with the construction of the new amusement park according to plan.
+- amusing:
 - analyze:                              The professor and his assistants are analyzing the findings of the survey concerning sleep.
 - ancestor:
 - anchor:
 - ancient:                              In ancient times when armies invaded other lands, they showed no mercy toward the native people.
 - anniversary:
+- annual:
 - antique:                              He restores antique furniture to make a living.
 - anxiety:
 - apologize:                            We must apologize for keeping you waiting for so long.
@@ -51,6 +55,7 @@
 - appreciate:                           Tell him our charity appreciates his generous gift.
 - approval:
 - apricot*:                             Japanese apricot
+- apt:
 - aquarium:
 - artificial:
 - artistic:                             She wants to quit her job as a sales representative and use her artistic skills in her next job.
@@ -122,6 +127,7 @@
 - campaign:                             As part of the campaign, large quantities of free samples were distributed in Tokyo and Osaka.
 - canal*(ditch,river,stream,brook,creek):
 - canser:
+- capable:
 - capacity:                             The company plans to expand its production capacity next year.
 - capture*(catch, arrest):              After escaping from Japan, he was finally captured halfway around the world in Brazil.
 - cardigan:
@@ -175,8 +181,10 @@
 - complicated:                          In an effort of encourage diversity, they will debate the complicated problem of minority rights.
 - component:
 - composer*:
+- compound*:                            a compound substance
 - concentrate:                          He couldn't concentrate on the task because he lacked the motivation to build a database.
 - concentration:
+- concerned:
 - concerning:                           The professor and his assistants are analyzing the findings of the survey concerning sleep.
 - conclude:                             We concluded that we had made the correct judgement.
 - conclusion:
@@ -192,6 +200,7 @@
 - consequence:
 - consideration:                        The suggestions that have been offered are under consideration by our board members.
 - consist:                              This book about the Roman Empire consists of eight chapters.
+- constant:
 - constantly:                           The scientist achievement made her so famous that she was constantly bothered by the press.
 - constitution*:                        establish a constitution
 - construct:                            That tall building was constructed last year, and it completely changed the scenery around here.
@@ -205,6 +214,7 @@
 - convention*(tournament,conference):   annual convention
 - conventional:                         Our research indicates that the new medicine is more efficient than conventional treatments.
 - convince (persuade):                  I'm trying to convince my father to see a dentist regularly.
+- convinced:
 - cooperation*:                         The minister preached about the need for love and cooperation between the races.
 - cop:
 - cord*:                                extension cord
@@ -254,10 +264,12 @@
 - define:                               How do you define "customer satisfaction" in today's market?
 - definitely:                           Specialists calculate that the world's population would definitely grow to 8 billion over the next decade.
 - definition:                           The interpreter underlined the words on the certificate for which she didn't know the definition.
+- delicate:
 - delivery:                             Do you recall when the delivery of the calligraphy stationery is going to be?
 - demonstrate:                          He has demonstrated extraordinary talent as a violinist.
 - depart:                               We depart from Narita at noon and will hopefully arrive at our destination tomorrow morning.
 - departure:                            The president commanded the army to delay its departure.
+- dependent:
 - deposit:                              I deposited half of my bonus in the bank and spent the rest on a luxury trip to Mexico.
 - descend*(go down):                    He briefly stopped his workout, descended the stairs, and continued it in the garden.
 - desirable:                            Doctor say it is desirable for babies to learn to crawl before they start walking.
@@ -292,9 +304,12 @@
 - drag:                                 He cut down the trees and dragged the wood back with a tractor.
 - dragon:                               The people of this town weave beautiful silk cloth with dragon and lion patterns.
 - dressing:
+- dried:
 - drift*:                               I put the bottle in the water and it drifted away.
 - drinker:
 - driving:                              You can't justify drunk driving under any circumstances.
+- dumb*:
+- dusty:
 - echo:
 - economics:                            In terms of economics, the government wants to impose a heavier tax burden on office workers.
 - ecosystem:                            Everyone in the forum assumed the new ecosystem would bring innovation.
@@ -321,6 +336,7 @@
 - endless:
 - endure*(bear,stand,tolerate,putupw):  The victims had to endure severe food shortages after the floods.
 - engage:                               She is actively engaging in volunteer work as the organization's administrator.
+- engaged:
 - engagement:
 - enjoyable:                            As I adjusted to the new environment, my work became increasingly enjoyable.
 - enjoyment:                            with enjoyment
@@ -354,6 +370,9 @@
 - extraordinary:                        He has demonstrated extraordinary talent as a violinist.
 - factor:
 - fade:                                 The rock group's popularity is beginning to fade.
+- faint*(subtle):
+- faithful:
+- fallen:
 - fame:
 - familiarize:                          The counselor helps familiarize students with the curriculum and registration programs
 - farming:
@@ -366,7 +385,9 @@
 - fiction:
 - filter:
 - finding:                              The professor and his assistants are analyzing the findings of the survey concerning sleep.
+- finishing:
 - fist:
+- fitting*(appropriate,suitable,decent):
 - flame:                                He leaped from the window of the restroom just before the flames reached him.
 - flavor:
 - flee (run away,run off,get out of):   Following the environmental impact assessment, he decided to flee from the dangerous zone.
@@ -379,7 +400,10 @@
 - forum:                                Everyone in the forum assumed the new ecosystem would bring innovation.
 - founder:
 - frankly:                              Frankly, I think this investment has weakened the company.
+- frequent:
+- fried:
 - frontier:
+- fundamental:
 - gallery:
 - gamble:
 - gangster:
@@ -399,6 +423,7 @@
 - govern:                               Parliament makes legislation, and the administration govern the country.
 - grain:                                a grain of rice
 - grasp:                                She grasped bloody sword tightly in her hand.
+- greedy*:
 - grief*(sad, sorrowful, gloomy):       feel grief at ,,,
 - grocery:                              Luckily, he was able to obtain a truck driver's license and get a job at the grocery store.
 - guiarantee:
@@ -410,6 +435,7 @@
 - handbook:
 - handful:                              a handful of,,,
 - hanging:                              death by hanging
+- harmful:
 - harsh*(cruel, brutal):                Even Napoleon couldn't conquer Russia during its harsh winter.
 - harvest:                              The woman is harvesting the crops.
 - haste:                                in haste
@@ -420,6 +446,7 @@
 - heavily:                              The businessman was bleeding heavily when the ambulance arrived at the accident site.
 - heroic:                               He dived into the river in a heroic attempt to save the child.
 - hesitate:                             He didn't hesitate to ask his new tutor out on a date after the first lesson.
+- hidden:
 - hillside:
 - historical:                           The association has preserved several of the state's historical buildings.
 - hockey:                               The police tried to restrain the angry crowd fans on the street after their team lost the hockey game.
@@ -435,6 +462,7 @@
 - hunting:
 - hut*(cabin,cottage):
 - identity:
+- idle:
 - ignorance:
 - ignorant:                             The actor's statement on homeless people was criticized as ignorant.
 - illegal:                              Some athletes can't resist the temptation to use illegal drugs that will improve their performance.
@@ -451,6 +479,7 @@
 - ingredient:                           As the cook stirred the stew, she added the essential ingredient - a piece of ginger.
 - inherit:                              He inherited his mother's chain of lodges and inns, so now he is a millionaire.
 - injure:                               The runner was badly injured when he fell on a steep slope and hit a tree.
+- injured:
 - inn:                                  The owner of the inn was napping in his favorite chair by the fireplace.
 - innocent:                             The judge declared the suspect innocent of murder.
 - innovation:                           Everyone in the forum assumed the new ecosystem would bring innovation.
@@ -473,9 +502,11 @@
 - investigate:                          The police are investigating the cause of the explosion and the possibility of a link to terror group.
 - investigation:                        The investigation revealed that he was innocent and saved his reputation.
 - investment:                           Frankly, I think this investment has weakened the company.
+- invisible:
 - jealousy:
 - jewelry:                              He deceived wealthy women and sold them expensive jewelry.
 - journalism:
+- joyful:
 - judgement:                            We concluded that we had made the correct judgement.
 - justify:                              You can't justify drunk driving under any circumstances.
 - keeper:
@@ -496,6 +527,7 @@
 - legislation*(law):                    Parliament makes legislation, and the administration govern the country.
 - liar:                                 She accused him of being a liar.
 - liberal:                              A liberal trend emerged among young people in the last election.
+- lifelong:
 - lifetime:                             the chance of a lifetime
 - limb*:                                on four limb
 - linen*:                               Fold up the linen when you get out of bed.
@@ -545,12 +577,14 @@
 - mist:                                 The knight and his horse wondered over the meadow in the heavy mist.
 - misunderstand:                        Perhaps you misunderstood me when I said he was an acquaintance, not a friend.
 - mode:
+- modest:
 - monitor:
 - monument:
 - motivation:                           He couldn't concentrate on the task because he lacked the motivation to build a database.
 - multiply:                             The number of cattle with the disease is multiplying at a rapid pace.
 - mutual:
 - nap:                                  The owner of the inn was napping in his favorite chair by the fireplace.
+- nasty*(unpleasant):                   That person is so nasty. / a nasty smell
 - nationality*:                         What's your nationality?
 - nearby:                               The second bomb exploded in a nearby park shortly after the first one.
 - negotiation:                          We could've reached the settlement if he hadn't interfered in the negotiation.
@@ -565,6 +599,7 @@
 - obey*:                                Rebels would never obey them.
 - obtain:                               Luckily, he was able to obtain a truck driver's license and get a job at the grocery store.
 - obviously:                            The criticism about this painting obviously varies from person to person.
+- occasional:
 - occasionally:                         My dog occasionally chews our slippers when he needs more affection.
 - occupation:                           The army was prolonging its occupation of the southern region of the country.
 - odds*:                                He caused a sensation when, against nearly impossible odds, he located the royal tomb.
@@ -615,6 +650,7 @@
 - pregnant:                             The pregnant woman on the couch yawned and closed her sleepy eyes.
 - preparation:                          The boss postponed preparations for the new advertisement campaign until autumn.
 - preserve:                             The association has preserved several of the state's historical buildings.
+- primary:
 - priority:
 - privacy:
 - privilege:
@@ -697,6 +733,7 @@
 - saint:
 - salmon:
 - satisfaction:                         How do you define "customer satisfaction" in today's market?
+- satisfied:
 - scandal:
 - scarcely:                             I squeezed the tube, but there was scarcely any toothpaste in it.
 - scare (frighten):                     The thunders scared the puppy, so she held it to make it feel secure.
@@ -712,6 +749,7 @@
 - scratch:                              He often scratches his head when he feels uncomfortable or nervous.
 - seal:                                 For the safety of zebras and giraffes, we need to seal both gates.
 - searching:
+- secondary:
 - secretly:                             The mother scolded her son for secretly eating his little sister's cake.
 - sector:
 - secure:                               The thunders scared the puppy, so she held it to make it feel secure.
@@ -726,6 +764,7 @@
 - shelter:
 - shield:
 - shift:                                The maker is shifting the emphasis of its production policy.
+- shocked:
 - shortage:                             The victims had to endure severe food shortages after the floods.
 - shortly:                              The second bomb exploded in a nearby park shortly after the first one.
 - sidewalk (pavement):                  The children skipped along the sidewalk to school.
@@ -736,6 +775,7 @@
 - skillful:                             A skillful carpenter can mend an old chair like new.
 - skip:                                 The children skipped along the sidewalk to school.
 - sleeve:
+- slim:
 - slipper:                              My dog occasionally chews our slippers when he needs more affection.
 - smash:                                The block dropped by the crane smashed into pieces.
 - snack:
@@ -749,6 +789,7 @@
 - species:
 - spectacle:
 - spill*:                               A waiter spilled red wine on her dress, and she complained bitterly to the manager about it.
+- spiritual:
 - spite*(malice):
 - spokesman:
 - sponge:
@@ -765,6 +806,7 @@
 - steep:                                The runner was badly injured when he fell on a steep slope and hit a tree.
 - stem:
 - stew:                                 I chopped vegetables for the stew; meanwhile, my daughter was frying the meet.
+- sticky:
 - stir:                                 As the cook stirred the stew, she added the essential ingredient - a piece of ginger.
 - stormy:                               His bike is exposed to the heavy rain in the stormy weather.
 - strain:                               Even an athletic person like him can strain a muscle while playing sports.
@@ -781,17 +823,21 @@
 - surrounding*(environment,circumstances):
 - survey:                               The professor and his assistants are analyzing the findings of the survey concerning sleep.
 - sword:                                She grasped bloody sword tightly in her hand.
+- sympathetic:
 - tablespoon:
 - tame:                                 Tame fools submit to commands of their masters.
 - task:                                 He couldn't concentrate on the task because he lacked the motivation to build a database.
 - technological:
 - temptation*:                          Some athletes can't resist the temptation to use illegal drugs that will improve their performance.
 - tendency:
+- tender*(soft, fluffy):
+- tense:
 - tension:
 - territory:
 - terror:                               The police are investigating the cause of the explosion and the possibility of a link to terror group.
 - therapy:                              The doctor asserted the importance of the therapy.
 - thirst:
+- thousandth:
 - thrill:                               The magician thrilled her audience with some skillful tricks.
 - tide*:                                go with the tide
 - timely:                               He declined the timely offer of a job with his uncle's enterprise.
@@ -805,6 +851,7 @@
 - treatment*:                           Patients have been adapting to more affordable treatments under the physician's direction.
 - treaty*(convention,protocol,pact):
 - tribe:                                The proud tribe has never surrendered to foreign armies.
+- triple:
 - triumph:
 - turning:
 - tutor:                                He didn't hesitate to ask his new tutor out on a date after the first lesson.
@@ -813,6 +860,7 @@
 - unite:                                He was relatively young for a head of state, but he united a country that had been divided by civil war.
 - universal:
 - unkind:                               I apologized for my unkind comments during the seminar.
+- upright*:                             upright position
 - urge:                                 His wife strongly urged him to go to counseling to stop smoking.
 - urgent:                               Passengers fastened their seat belts when they heard the urgent announcement.
 - van:
@@ -828,6 +876,7 @@
 - viewer:
 - villager:                             Many houses collapsed during the earthquake, and hundreds of villagers were killed.
 - virtue:                               virtue and vice
+- visible:
 - voyage:                               All the crew knelt down and prayed for a safe voyage.
 - wander:                               The knight and his horse wondered over the meadow in the heavy mist.
 - warmth:
@@ -845,8 +894,10 @@
 - wink:                                 We all believed that her amazing story was real until she winked at the end of it.
 - wisdom:
 - workout:                              He briefly stopped his workout, descended the stairs, and continued it in the garden.
+- worn:
 - worrying*:                            We will have to resolve this worrying problem regarding the surf as soon as possible.
 - yawn*:                                The pregnant woman on the couch yawned and closed her sleepy eyes.
+- yearly:
 - yield:                                After the heavy rains, the harvest yielded only half the usual wheat crops.
 - youngster:                            The youngsters scattered on the court when they began to play dodgeball.
 - youthful:                             The actor still retains his youthful charm.
