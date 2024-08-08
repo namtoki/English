@@ -1,3 +1,5 @@
+- aboard*:                              Welcome aboard!
+- absolutely:
 - absorb*:                              This new material absorbs sweat significantly more quickly than our existing products.
 - abstract:
 - abuse*:                               The woman abused her son for years, but her husband never realize the incidents.
@@ -76,6 +78,7 @@
 - athletic:                             Even an athletic person like him can strain a muscle while playing sports.
 - atmosphere:                           We hope you enjoy our quiet, relaxed atmosphere hire in this Japanese-style garden.
 - attraction:                           Everyone awaited the new attraction at Disneyland.
+- automatically:
 - await*(wait for):                     Everyone awaited the new attraction at Disneyland.
 - award:                                My father won an award that included the prize of cruising around the grobe.
 - awfully*:                             He got awfully drunk and stripped down to his underwear in front of us.
@@ -157,6 +160,7 @@
 - chess:
 - chew*:                                My dog occasionally chews our slippers when he needs more affection.
 - chick*:                               He's apparently discouraging his kids from keeping a chick.
+- chiefly:
 - childish:                             He insulted her by saying that her behavior at the party was childish.
 - chill:
 - chop*(cut):                           I chopped vegetables for the stew; meanwhile, my daughter was frying the meet.
@@ -363,6 +367,7 @@
 - episode:
 - era:
 - essence*(nature):
+- essentially:
 - establishment:
 - estate:
 - estimate:                             I was asked by my boss to estimate the cost of the suburb development.
@@ -414,10 +419,13 @@
 - fool:                                 Tame fools submit to commands of their masters.
 - forecast:
 - formation:
+- formerly*(before):
 - forum:                                Everyone in the forum assumed the new ecosystem would bring innovation.
 - founder:
 - frankly:                              Frankly, I think this investment has weakened the company.
+- freely:
 - frequent:
+- frequently:
 - fried:
 - frontier:
 - fundamental:
@@ -460,6 +468,7 @@
 - haste:                                in haste
 - hatred*:                              have a hatred for ,,,
 - heal:                                 This is a severe wound that will take several weeks to heal.
+- healing:
 - heater:
 - heating:
 - heavily:                              The businessman was bleeding heavily when the ambulance arrived at the accident site.
@@ -471,6 +480,7 @@
 - hockey:                               The police tried to restrain the angry crowd fans on the street after their team lost the hockey game.
 - holding*:                             I disagree with his opinion that the company's holding will lose their value.
 - homeless:                             The actor's statement on homeless people was criticized as ignorant.
+- honestly:
 - honesty:                              He cheated on the exam even though he had a reputation for honesty.
 - honeymoon:                            The couple encountered a big snake on their honeymoon.
 - hood:
@@ -487,6 +497,7 @@
 - illegal:                              Some athletes can't resist the temptation to use illegal drugs that will improve their performance.
 - illustration:                         The manual combines good maintenance advice with helpful illustrations.
 - imitate*(mimic, mock):                If we just imitate other company's products, we will never see any significant growth in our sales.
+- immense:
 - imperial:
 - impose (-on):                         In terms of economics, the government wants to impose a heavier tax burden on office workers.
 - impressive:
@@ -499,6 +510,7 @@
 - infant:
 - ingredient:                           As the cook stirred the stew, she added the essential ingredient - a piece of ginger.
 - inherit:                              He inherited his mother's chain of lodges and inns, so now he is a millionaire.
+- initial:
 - injure:                               The runner was badly injured when he fell on a steep slope and hit a tree.
 - injured:
 - inn:                                  The owner of the inn was napping in his favorite chair by the fireplace.
@@ -511,6 +523,7 @@
 - instruct:                             Car dealers should instruct their customers in the proper use of their car.
 - insult*(throw shade at):              He insulted her by saying that her behavior at the party was childish.
 - intellectual:
+- intense:
 - intent:
 - interfere (distract, disturb):        We could've reached the settlement if he hadn't interfered in the negotiation.
 - interior:                             The interior of this house resembles our old house.
@@ -553,6 +566,7 @@
 - lifelong:
 - lifetime:                             the chance of a lifetime
 - limb*:                                on four limb
+- limited:
 - linen*:                               Fold up the linen when you get out of bed.
 - lipstick:
 - liquid:
@@ -581,6 +595,7 @@
 - marble*:                              a block of marble
 - marine:
 - marked:                               There was a marked improvement in the article after the editor rewrote it.
+- marvelous:
 - mast:
 - mature:                               The tastes of mature audiences differ from those of young people.
 - maximum:
@@ -593,8 +608,10 @@
 - medium:
 - mend*(fix,repair,restore):            A skillful carpenter can mend an old chair like new.
 - mercy*:                               In ancient times when armies invaded other lands, they showed no mercy toward the native people.
+- mere:
 - mess:
 - messenger:                            The messenger assured everyone that aid was coming soon.
+- mighty*:
 - mill:
 - millionair:                           The millionaire proudly exhibited his art collection at the city museum.
 - minimum:
@@ -613,12 +630,16 @@
 - muddy*:                               muddy water
 - multiply:                             The number of cattle with the disease is multiplying at a rapid pace.
 - mutual:
+- namely:
 - nap:                                  The owner of the inn was napping in his favorite chair by the fireplace.
 - nasty*(unpleasant):                   That person is so nasty. / a nasty smell
 - nationality*:                         What's your nationality?
 - nearby:                               The second bomb exploded in a nearby park shortly after the first one.
+- necessarily:
 - negotiation:                          We could've reached the settlement if he hadn't interfered in the negotiation.
 - nevertheless*:                        They were were whispering, nevertheless, I am sure they were talking about their opposition to the plan.
+- newly:
+- normally:
 - northeast:
 - northwest:
 - notion:
@@ -634,17 +655,22 @@
 - occupation:                           The army was prolonging its occupation of the southern region of the country.
 - odds*:                                He caused a sensation when, against nearly impossible odds, he located the royal tomb.
 - oily:
+- openly:
 - opposition:                           They were were whispering, nevertheless, I am sure they were talking about their opposition to the plan.
 - organize:                             She is organizing a scholarship program for classical music students.
 - origin:
+- originally:
 - outcome:
+- outdoors*:                            go outdoors
 - outer:                                The insect crept up the outer wall.
 - outline:
 - output:
+- outstanding:
 - outward*(outside):                    outward appearance
 - overall:
 - overcome:                             He is confident that the company will eventually overcome its current problems.
 - overlook:                             Don't overlook the possibility that personal data could be stolen from your briefcase.
+- overseas:
 - owl:                                  a night owl
 - oxygen:
 - packet:                               She enclosed her recent pictures in the package she sent to her parents.
@@ -661,6 +687,7 @@
 - peculiar:
 - penalty:
 - perceive*(recognized):                Despite the fact that the company has a huge debt, it is generally perceived to be a strong company.
+- personally:
 - persuade*(convince):                  The director persuaded the actress not to bring her bodyguard onto the film set.
 - philosophy:
 - physician:                            Patients have been adapting to more affordable treatments under the physician's direction.
@@ -671,6 +698,7 @@
 - planner:
 - plot:
 - poisonous:                            He blended two poisonous chemicals into the fatal drink.
+- poorly:
 - popularity:                           The rock group's popularity is beginning to fade.
 - portrait*:
 - possession:
@@ -680,9 +708,12 @@
 - potion:
 - poverty:                              Many young people commit crimes due to poverty and despair.
 - preach*:                              The minister preached about the need for love and cooperation between the races.
+- precise:
 - pregnant:                             The pregnant woman on the couch yawned and closed her sleepy eyes.
 - preparation:                          The boss postponed preparations for the new advertisement campaign until autumn.
 - preserve:                             The association has preserved several of the state's historical buildings.
+- pressing:
+- previously:
 - primary:
 - primitive:
 - priority:
@@ -702,8 +733,10 @@
 - proudly:                              The millionaire proudly exhibited his art collection at the city museum.
 - province*:
 - publication:
+- publicly:
 - puppy:                                The puppy hopped over the little fence and ran out into the meadow.
 - purchase:                             This year, people are purchasing more household items such as furniture.
+- purely:
 - pursue:                               He is pursuing the career as a dog trainer.
 - pursuit*(tracking):                   After quick pursuit, he seized the thief and held him until the police arrived.
 - quantity:                             As part of the campaign, large quantities of free samples were distributed in Tokyo and Osaka.
@@ -714,6 +747,7 @@
 - rating:                               If you can't repay your loan, you will get a bad credit rating.
 - rattle*(rattled):                     a baby's rattle
 - razor*:                               a electric razor
+- readily:
 - realistic:
 - rear:
 - rebel*:                               Rebels would never obey them.
@@ -833,6 +867,7 @@
 - spill*:                               A waiter spilled red wine on her dress, and she complained bitterly to the manager about it.
 - spiritual:
 - spite*(malice):
+- splendid*:
 - spokesman:
 - sponge:
 - sponsor:
@@ -853,6 +888,8 @@
 - stir:                                 As the cook stirred the stew, she added the essential ingredient - a piece of ginger.
 - stormy:                               His bike is exposed to the heavy rain in the stormy weather.
 - strain:                               Even an athletic person like him can strain a muscle while playing sports.
+- strangely:
+- strictly:
 - striking:
 - strip:                                He got awfully drunk and stripped down to his underwear in front of us.
 - strongly:                             His wife strongly urged him to go to counseling to stop smoking.
@@ -881,6 +918,8 @@
 - terror:                               The police are investigating the cause of the explosion and the possibility of a link to terror group.
 - therapy:                              The doctor asserted the importance of the therapy.
 - thirst:
+- thorough:
+- thoroughly:
 - thousandth:
 - thrill:                               The magician thrilled her audience with some skillful tricks.
 - tide*:                                go with the tide
@@ -901,13 +940,19 @@
 - tropical:
 - turning:
 - tutor:                                He didn't hesitate to ask his new tutor out on a date after the first lesson.
+- uncertain:
+- unclear:
 - uncomfortable:                        He often scratches his head when he feels uncomfortable or nervous.
 - underline:                            The interpreter underlined the words on the certificate for which she didn't know the definition.
+- undoubtedly:
+- unfortunately:
 - unite:                                He was relatively young for a head of state, but he united a country that had been divided by civil war.
 - universal:
 - unkind:                               I apologized for my unkind comments during the seminar.
 - unlikely:
+- unnecessary:
 - upright*:                             upright position
+- upward:
 - urge:                                 His wife strongly urged him to go to counseling to stop smoking.
 - urgent:                               Passengers fastened their seat belts when they heard the urgent announcement.
 - vain*(empty):                         in vain
@@ -927,6 +972,7 @@
 - visible:
 - voyage:                               All the crew knelt down and prayed for a safe voyage.
 - wander:                               The knight and his horse wondered over the meadow in the heavy mist.
+- warmly:
 - warmth:
 - weaken:                               Frankly, I think this investment has weakened the company.
 - weave:                                The people of this town weave beautiful silk cloth with dragon and lion patterns.
