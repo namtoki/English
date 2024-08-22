@@ -2,32 +2,32 @@
 
 ## TOPIC
 
-- `in (V-ing)`:                             `In making a decision,` I rely not on logic but on instinct.
-- `regarding (O)`:                          `Regarding` the subject above,,,
-- `when it comes to (O)`:                   `When it comes to` the weather, there’s nothing I can do.
-- `speaking of which/(O)`:                  `Speaking of summer,` where did you go this year?
-- `talking of (O)`:                         `Talking of` soccer, Did you watch the game yesterday?
-- `personally, in my opinion`:
-- `honestly`:
-- `like/as I was saying`:                   Sorry. `As I was saying,` the acting was amazing.
-- `like/as you said`:
-- `going back to (O)`:                      `Going back to` your question, my answer is no.
-- `about`:                                  `About` the food ... it is bad.
-- `with/in regard to (O)`:                  `With regard to` the notes below
-- `concerning (O)`:                         `concerning` the changes that were recently made,,,
-- `as for (O)`:                             `As for` the cost per person
-- `as for me`:                              `As for me,` I agree with his opinion.
-- `as to (O)`:                              discussion `as to` which university is the best university.
-- `in the course of`:                       `In the course of` its economic development, Japan has ...
+- [x] `in (V-ing)`:                             `In making a decision,` I rely not on logic but on instinct.
+- [x] `regarding (O)`:                          `Regarding` the subject above,,,
+- [x] `when it comes to (O)`:                   `When it comes to` the weather, there’s nothing I can do.
+- [x] `speaking of which/(O)`:                  `Speaking of summer,` where did you go this year?
+- [ ] `talking of (O)`:                         `Talking of` soccer, Did you watch the game yesterday?
+- [x] `personally, in my opinion`:
+- [ ] `honestly`:
+- [ ] `like/as I was saying`:                   Sorry. `As I was saying,` the acting was amazing.
+- [x] `like/as you said`:
+- [x] `going back to (O)`:                      `Going back to` your question, my answer is no.
+- [ ] `about`:                                  `About` the food ... it is bad.
+- [ ] `with/in regard to (O)`:                  `With regard to` the notes below
+- [ ] `concerning (O)`:                         `concerning` the changes that were recently made,,,
+- [ ] `as for (O)`:                             `As for` the cost per person
+- [ ] `as for me`:                              `As for me,` I agree with his opinion.
+- [ ] `as to (O)`:                              discussion `as to` which university is the best university.
+- [ ] `in the course of`:                       `In the course of` its economic development, Japan has ...
 
 ## VIEWPOINT
 
-- `from (S)'s' point of view`:              Well, `from my point of view,` some of the new policies are really good.
-- `from (S)'s' perspective`:                Also `from the field’s perspective,` I think ,,,
-- `from the perspective of (O)`:            Trends in trade `from the perspective of` production stage.
-- `in terms of (O)`:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
-- `in every way`:                           That movie was perfect `in every way`.
-- `all things considered`:                  `All things considered`, that was a successful event.
+- [x] `from (S)'s' point of view`:              Well, `from my point of view,` some of the new policies are really good.
+- [x] `from (S)'s' perspective`:                Also `from the field’s perspective,` I think ,,,
+- [x] `from the perspective of (O)`:            Trends in trade `from the perspective of` production stage.
+- [x] `in terms of (O)`:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- [x] `in every way`:                           That movie was perfect `in every way`.
+- [ ] `all things considered`:                  `All things considered`, that was a successful event.
 
 ## PARTIALITY
 
