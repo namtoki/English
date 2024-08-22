@@ -44,9 +44,9 @@
 
 ## REMOTE
 
-- `Can you see me?`:
-- `Can you hear me?`:
-- `I was on mute.`:
-- `I can't see (O)`:                        `I can't see` you/the material/the notes.
-- `Could you make (O) bigger?`:             `Could you make` the material/notes bigger?
-- `Could you type it in the chat`:
+- [x] `Can you see me?`:
+- [x] `Can you hear me?`:
+- [x] `I was on mute.`:
+- [x] `I can't see (O)`:                        `I can't see` you/the material/the notes.
+- [x] `Could you make (O) bigger?`:             `Could you make` the material/notes bigger?
+- [x] `Could you type it in the chat`:
