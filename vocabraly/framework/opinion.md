@@ -59,7 +59,7 @@
 - [ ] `You'd think (that) (S) (V), but`:        `You'd think` Japan would be really technologically advanced, but ,,,
 - [ ] `~~~. That's not to say (that)`:          `That's not to say that` it'll be impossible without it, but,,,
 - [x] `I didn't mean it.`:
-- [ ] `I was just saying`:                      No! `I was just saying` ... it's a new look for you.
+- [x] `I was just saying`:                      No! `I was just saying` ... it's a new look for you.
 - [ ] `I'm just trying to (V)`:                 `I'm just trying to` explain what happened.
 - [ ] `just because ... doesn't mean`:          `Just because` he smiles a lot `doesn't mean` he's kind.
 
@@ -131,11 +131,11 @@
 - [ ] `How (A) is (O)`:                         `How funny is it`?
 - [ ] `I can't tell you how much (S) (V)`:      `I can't tell you how much` I loved it.
 - [ ] `(S) leave nothing to be desired`:        Your summary `leaves nothing to be desired.`
-- [ ] `(O) gets (S) doing`:                     This song always `gets me feeling` some type of way.
-- [ ] `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.
+- [x] `(O) gets (S) doing`:                     This song always `gets me feeling` some type of way.
+- [x] `This is the kind of thing that (V)`:     `This is the kind of thing that` makes me really happy.
 - [ ] `This is something (S) (V)`:              `This is something` a lot of people don't consider.
 - [ ] `That's the way (S) (V)`:                 `That's the way` I like it. / `That's the way` I prefer it.
 - [ ] `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
 - [x] `(O) slipped my mind`:                    Your birthday party completely `slipped my mind`.
-- [ ] `(O) be a blur`:                          Last weekend `was a blur`.
-- [ ] `I have a problem with (O)`:              `I have a problem with` his table manners.
+- [x] `(O) be a blur`:                          Last weekend `was a blur`.
+- [x] `I have a problem with (O)`:              `I have a problem with` his table manners.
