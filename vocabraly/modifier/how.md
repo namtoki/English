@@ -42,6 +42,7 @@
 
 ## EXTENT
 
+- [x] `in every way`:                           That movie was perfect `in every way`.
 - [ ] `some more`:                              I'll think about it `some more.`
 - [x] `to (a certain | some) extent`:           In any case, the union has to compromise `to a certain extent.`
 - [x] `to the point where (S) (V)`:             I studied English `to the point where` my dream started being in English.
@@ -49,6 +50,8 @@
 - [x] `at all`:                                 Are you interested in politics `at all?`
 - [x] `in a (way | sense)`:                     Yep, `in a way.`
 - [x] `somewhat`:                               Strictly speaking, his view differs `somewhat` from mine.
+- [ ] `as a whole`:                             The train system in Tokyo is much better than for the country `as a whole`.
+- [ ] `on the whole`:                           `On the whole`, it was a great trip.
 
 ## HOW
 

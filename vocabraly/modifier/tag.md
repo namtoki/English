@@ -18,7 +18,6 @@
 - [x] `first/most of all`:                      `First of all,` learn the formula by heart.
 - [x] `to begin with`:                          `To begin with,` its theme is obscure.
 - [x] `above all`:                              `Above all,` scientific terms call for precise definitions.
-- [x] `off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
 
 # BIND
 

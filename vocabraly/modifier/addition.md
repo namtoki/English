@@ -1,5 +1,85 @@
 # ADDITION
 
+## TIME (FUTURE)
+
+- [ ] `(next | this | on) Sunday`
+- [ ] `(next | this | on the) weekend`
+- [x] `from now on`:                            I have to cut down on my expenses, `so from now on`, I'm ~~
+- [ ] `for years to come`:                      the birthrate will continue to decline steadily `for years to come`.
+- [ ] `for good`:                               We're through `for good this time`.
+- [ ] `right away`:                             I'll come `right away`.
+- [ ] `by now`:                                 You must be hungry `by now`.
+- [ ] `in (just) a little bit`:                 The ambulance will get here `in just a little bit`.
+- [ ] `shortly`:
+- [ ] `soon`:
+- [ ] `before long`:                            `Before long`, they will enter a crucial phase.
+- [x] `at some point`:                          We should really clean the fridge `at some point`.
+- [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
+- [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.
+- [ ] `(N) at the latest`:                      Please estimate the losses by Friday `at the latest`. I'll manage it somehow.
+
+## TIME (PAST)
+
+- [ ] `(last | this | on) Sunday`
+- [ ] `(last | this | on the) weekend`
+- [ ] `over the weekend`:                       I finished reading a book `over the weekend`.
+- [ ] `just now`:                               I was asleep until `just now`
+- [ ] `until just now`:                         I was asleep until `just now`
+- [x] `so far`:                                 `So far` I’m having a blast. The town is wonderful.
+- [ ] `(just) the other day`:                   I went there `just the other day`!
+- [ ] `for the first time in (N)`:              I'm going to Hawaii `for the first time in` 1 year.
+
+## TIME (IN DETAIL)
+
+- [ ] `for (N)s`:                               I've been working for the company `for 6 months`.
+- [ ] `for half a (day | month | year)`:        I'll be living here `for half a year`.
+- [ ] `the entire week`:
+- [ ] `tens of minutes`:
+- [ ] `throughout`:                             We plan to celebrate our victory `throughout` the night.
+- [ ] `just before (N)`:                        I will get home sometime `just before` 9pm.
+- [ ] `just after (N)`:                         I will go abroad sometime `just after` Golden Week.
+- [x] `after that`:                             Click the folder first, and `after that` drag and drop the pdf file to trash can.
+- [x] `soon after that`:                        I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
+- [x] `(N) after that`:                         an hour `after that` / two weeks `after that` / a few years `after that`
+- [x] `afterwards`:                             We’ll grab dinner and go to karaoke `afterward(s)`.
+
+## TIME (ABOUT)
+
+- [ ] `on Sundays`:                             I play tennis `on Sundays`.
+- [ ] `on weekends`:                            I often go to the beach `on weekends`.
+- [ ] `on (A) days`:                            I don't close this door `on hot days`.
+- [ ] `every (N)`:                              The vehicles are inspected for defects `every three months`.
+- [ ] `every other (day | month | year)`:       I work out at the health club `every other day`.
+- [x] `every time (S) (V)`:                     `Every time` you make them, they are perfect.
+- [ ] `first thing`:                            I'll see you `first thing` in the morning. / Please get it to me `first thing`
+- [ ] `at daybreak`:
+- [ ] `bright and early`:                       You can get your hands on the product `bright and early`.
+- [ ] `in the early morning`:
+- [ ] `in the morning`:`
+- [ ] `in the mid-morning`:                     It means about 9:00 or 10:00 in the morning.
+- [ ] `at noon`:                                I'll be back on Monday `at noon`.
+- [ ] `in the afternoon`:
+- [ ] `in the early evening`:                   夕方
+- [ ] `in the evening`:`
+- [ ] `at night`:
+- [ ] `at dawn`:                                夜明け
+- [ ] `last thing`:                             `last thing` at night.
+- [ ] `meanwhile`:                              We can go out tomorrow, `meanwhile` I'll teach you how to play bridge.
+- [ ] `after a while`:                          He fainted with hunger and fatigue, but came to `after a while`.
+- [ ] `toward the end of (O)`:                  He was a samurai who lived `towards the end of` the Heian period.
+- [ ] `for the moment`:                         I will make it do `for the moment`.
+- [x] `now that (S) (V)`:                       `Now that` things are better, we should talk about the problem.
+- [ ] `in the middle of`:                       He fell asleep `in the middle of` the sales meeting.
+- [x] `at the same time`:                       It's hard being the writer and an actor `at the same time.`
+- [x] `up-front`:                               This hotel requires a cash deposit `up-front.`
+- [x] `in advance`:
+
+## LOCATION
+
+- [ ] `up there`:
+- [ ] `down there`:
+- [ ] `over`:                                   I invited some friends and family `over` for lunch. -->
+
 ## REASON
 
 - [ ] `because (S) (V)`:

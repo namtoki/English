@@ -11,8 +11,8 @@
 - [x] `I'm sure that (S) (V)`:                  `I am sure that` I will enjoy the movie.
 - [x] `I'm sure of (N)`:                        `I am sure of` enjoying the movie.
 - [ ] `(S) be sure to (V)`:                     You `are sure to` see many animals there.
-- [ ] `I wish (V)`:                             `I wish` I spoke French.
-- [ ] `I hope (V)`:                             `I hope` it doesn't rain.
+- [ ] `I wish (S) (V)`:                         `I wish` I spoke French.
+- [x] `I hope (S) (V)`:                         `I hope` it doesn't rain.
 - [ ] `I can't remember`:
 - [x] `I won't know until (O)`:                 `I won't know until` Friday.
 - [ ] `I have to say (S) (V)`:                  `I have to say` your place is adorable!
