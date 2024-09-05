@@ -17,11 +17,28 @@ I have around 10 years of experience in various embedded software field.
 
 Such as, drone, SSD, and stuff.
 
-So I hope I can help you in terms of software development.
+So I hope I can help you in software development.
 
 I'll do my best.
 
 I'm super excited to work with you.
+
+---
+
+In terms of software stucks,
+C, C++, Linux, ROS which is used robotics dicipline, Python, and so on.
+
+---
+
+We are reading Qualcomm's QCC documents here and there.
+And starting to read source code of Nura's repositories.
+
+Regarding of our current situation,
+We are gradually understanding these architecutre.
+
+My short-term goal is to get to customise Perl Pro's tiny features and debug these no later than the middle of Octorber.
+
+---
 
 # Question
 
