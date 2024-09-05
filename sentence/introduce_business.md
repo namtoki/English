@@ -1,15 +1,25 @@
 # Introduce myself
 
-Hi, Name's Toshiyuki.
-But I usually go by Toshi.
+Hi, Name's Toshiyuki Tanamura.
+But I usually go by Tana in my personal life.
 
 Pleasure to meet you.
 
-I'm a software developer.
-and supposed to be assigned to this project as the Japan-side technical leader with Kuroishi-san.
+<!-- I'm a software developer. -->
+<!-- and was assigned to this project as the software leader with Kuroishi-san. -->
 
-I have like 10 years of experience in various embedded software field.
-For instance, UAV which is called drone generally, storages such as SSD, and stuff.
+There may be many people who see me for the first time even in the Japan team.
+The reason being that, I joined this company last October.
+So, it hasn't been a year since I started work here.
+
+But, instead of that,
+I have around 10 years of experience in various embedded software field.
+
+Such as, drone, SSD, and stuff.
+
+So I hope I can help you in terms of software development.
+
+I'll do my best.
 
 I'm super excited to work with you.
 
