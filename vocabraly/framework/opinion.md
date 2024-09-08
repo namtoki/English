@@ -25,6 +25,7 @@
 - [x] `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
 - [ ] `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
 - [ ] `(S) (V-ing). That is (A)`:               `This ramen shop putting whipped cream in soup, that's` gross.
+- [x] `The same is the case with (O)`:          `The same is the case with` "hear" and "about".
 
 ## OPINION (SUBJUNCTIVE)
 

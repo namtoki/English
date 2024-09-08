@@ -1,5 +1,23 @@
 # FOCUS
 
+## SENTENSE MODIFIYING
+
+- [x] `If I had to guess,`:                     `If I had to guess,` I would say that she is single.
+- [x] `If I'm not mistaken,`:                   `If I'm not mistaken,` it's the tallest building in the world.
+- [ ] `This might be just me, but`:             `This might be just me, but` don't you think this is a bit too expensive?
+- [x] `As (S) anticipated,`:                    `As we anticipated,` the unemployment rate has risen ....
+- [ ] `As it is,`:                              `As it is,` ordinary people cannot afford to purchase such luxuries.
+- [x] `Simply put,`:                            `Simply put,` he doesn't like sports.
+- [x] `Just out of curiosity,`:                 `Just out of curiosity,` why did you come to Japan?
+- [x] `First/Most of all,`:                     `First of all,` learn the formula by heart.
+- [x] `To begin with,`:                         `To begin with,` its theme is obscure.
+- [x] `Above all,`:                             `Above all,` scientific terms call for precise definitions.
+- [x] `Anyway`:                                 That’s a funny story. `Anyway,` he is late today, isn’t he?
+- [x] `In any case`:                            `In any case,` the union has to compromise to a certain extent.
+- [x] `At the end of the day,`:                 `At the end of the day,` this is not that important.
+- [x] `If anything,`:                           But now, `if anything,` they are making too much of it.
+- [x] `Off the top of my head,`:                `Off the top of my head,` I think it's wrong.
+
 ## TOPIC
 
 - [x] `in (V-ing)`:                             `In making a decision,` I rely not on logic but on instinct.
@@ -19,6 +37,7 @@
 - [ ] `as to (O)`:                              discussion `as to` which university is the best university.
 - [ ] `in the course of`:                       `In the course of` its economic development, Japan has ...
 - [x] `off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
+- [ ] `in which case`:                          Scott might be on vacation, `in which case,` just touch base with Aaron.
 
 ## VIEWPOINT
 
@@ -29,23 +48,6 @@
 - [x] `in terms of (O)`:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
 - [ ] `all things considered`:                  `All things considered`, that was a successful event.
 - [ ] `for the most part`:                      `For the most part,` modernization is identified with westernization.
-
-## GROUP
-
-- [ ] `all kinds of (O)`:                       I've been eating `all kinds of` things.
-- [ ] `everyone (V)`:                           `Everyone` does it.
-- [ ] `everything about (O)`:                   He knows `everything about` movies.
-- [ ] `most (S)`:                               `Most` people like it.
-- [ ] `almost all (S)`:                         `Almost all` cats have fur.
-- [x] `a bunch of (O)`:                         `A bunch of` other companies are imitating our excellent methods.
-- [ ] `a number of (O)`:                        There are `a number of` factors discouraging us from investing in stocks.
-- [ ] `some kinds of (O)`:                      amplify the effects of `some kinds of` pollution
-- [x] `many different kinds of`:                There are `many different kinds of` stores.
-- [ ] `(O) out of (O)`:                         We have watched `4 out of 5` seasons.
-- [x] `(S) in itself`:                          The revolution `in itself`, bore no fruit, after all.
-- [ ] `each and every one of (O)`:              `each and every one of` these questions
-- [ ] `the rest of (O)`:                        You can have `the rest of` them.
-- [ ] `to go`:                                  We have ten minutes `to go`.
 
 ## SUBJUNCTIVE MOOD
 

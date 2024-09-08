@@ -19,6 +19,7 @@
 - [x] `I was wondering if you could (V)?`:      `I was wondering if you could` do me a favor.
 - [ ] `Would it be possible to (V)?`:           `Would it be possible to` have the invoice ready by the 15th?
 - [x] `I'd be grateful if you could (V)?`:      `I would be grateful if you could` give us an ...
+i'd like you to
 
 ## ME (SERVICE)
 

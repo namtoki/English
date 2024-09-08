@@ -16,8 +16,9 @@
 
 ## PROBABILITY
 
-- [x] `It seems to be`:                         `It seems to be broken.`
+- [x] `It seems like (S) (V)`:                  `It seems like` it's a mixture of two languages.
 - [x] `It seems as if/though (S) (V)`:          `It seems as if` he knew everything.
+- [x] `(S) seems to be`:                        `It seems to be broken.`
 - [ ] `(S) be      likely to (V)`:              `It's likely to` rain tomorrow.
 - [x] `(S) be more likely to (V)`:              In engineering, people `are more likely to` work in their field.
 - [x] `(S) be less likely to (V)`:              `It's less likely to` get broken.
