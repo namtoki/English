@@ -17,6 +17,10 @@
 - [x] `At the end of the day,`:                 `At the end of the day,` this is not that important.
 - [x] `If anything,`:                           But now, `if anything,` they are making too much of it.
 - [x] `Off the top of my head,`:                `Off the top of my head,` I think it's wrong.
+- [ ] `as a result of (O)`:                     `As a result of` his ridiculous venture, he is in danger  of going bankrupt.
+- [x] `assuming that (S) (V)`:                  `Assuming that` no voltage is applied from the booster amplifier,,,,
+- [x] `given that (S) (V)`:                     `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
+- [ ] `on the second thought`:
 
 ## TOPIC
 
