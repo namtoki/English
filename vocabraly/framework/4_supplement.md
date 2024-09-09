@@ -12,6 +12,7 @@
 - [ ] `, if you ask me`:                        It was a little long`, if you ask me.`
 - [ ] `, in a nutshell`:                        That's it`, in a nutshell.`
 - [x] `in the first place`:                     Why was he at the party `in the first place?` He wasn't invited, was he?
+- [ ] `on the second thought`:
 
 ## DE-EMPHASIS
 
@@ -50,6 +51,7 @@
 
 ## ADDITION
 
+- [x] `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
 - [x] `except for (O)`:                         The auditorium was empty `except for` a single piece of furniture.
 - [x] `not including (O)`:                      I work 8 hours `not including` lunch.
 - [ ] `without (O)`:                            I work 8 hours `without` lunch.
@@ -201,3 +203,4 @@
 - [ ] `let alone`:                              We can't apply cloning techniques to cattle, `let alone` human beings.
 - [ ] `to make matters worse`:                  `To make matters worse,` he isn't even conscious of annoying us.
 - [x] `whereas`:                                He likes learning from textbooks, `whereas` I like learning on the job.
+- [ ] `In which case`:                          Scott might be on vacation, `in which case,` just touch base with Aaron.

@@ -1,8 +1,10 @@
 # OPINION
 
-## OPINION
+## TOUGHTS
 
 - [x] `I'd say (that)`:                         `I'd say` it's usually more art than science.
+- [ ] `(S) would (V)`:                          I `would` be too nervous. / That `would` be awesome.
+- [ ] `I would (V)`:                            `I would` go, if I were you.
 - [x] `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
 - [ ] `I find (O) (C)`:                         `I find it really interesting` to study English.
 - [ ] `I believe`:                              `I believe` she drives a white truck.
@@ -22,16 +24,10 @@
 - [x] `It's kind of like (O)`:                  `It's kind of like` a noodle, but not exactly.
 - [x] `It’s almost like (O)`:                   `It’s almost like` Christmas.
 - [ ] `It feels like (O)`:                      I remember my first day of high school. `It feels like` yesterday.
-- [x] `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
 - [ ] `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
 - [ ] `(S) (V-ing). That is (A)`:               `This ramen shop putting whipped cream in soup, that's` gross.
-- [x] `The same is the case with (O)`:          `The same is the case with` "hear" and "about".
-
-## OPINION (SUBJUNCTIVE)
-
-- [ ] `(S) would (V)`:                          I `would` be too nervous. / That `would` be awesome.
-- [ ] `I would (V)`:                            `I would` go, if I were you.
 - [x] `(S) (V-ing), that'd be (A)`:             A Starbucks opening right next to my apartment, `that'd be` amazing.
+- [x] `The same is the case with (O)`:          `The same is the case with` "hear" and "about".
 
 ## MOOD
 
@@ -43,9 +39,9 @@
 ## GUESS
 
 - [x] `It could be (that)`:                     `It could be that` Wayne's just naturally fit, but ,,,
+- [x] `Chances are (that) (S) (V)`:             It's foggy. But `chances are` it'll clear up later on.
 - [ ] `I feel like (S) (V)`:                    `I feel like` there is a ton of bricks on my lap.
 - [ ] `I feel like (O)`:                        `I feel like` an idiot.
-- [x] `Chances are (that) (S) (V)`:             It's foggy. But `chances are` it'll clear up later on.
 
 ## CORRECTION
 
