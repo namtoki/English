@@ -48,6 +48,7 @@
 - [ ] `for the first time`:                     Last Saturday, I came here `for the first time.`
 - [ ] `barely`:                                 The minute particles are `barely` visible to the naked eye.
 - [ ] `at heart`:                               Since Bob is lazy `at heart`, he frequently neglects his duties.
+- [ ] `let's just say`:                         The environment that `let's just say` was set up for my ...
 
 ## ADDITION
 
@@ -204,3 +205,4 @@
 - [ ] `to make matters worse`:                  `To make matters worse,` he isn't even conscious of annoying us.
 - [x] `whereas`:                                He likes learning from textbooks, `whereas` I like learning on the job.
 - [ ] `In which case`:                          Scott might be on vacation, `in which case,` just touch base with Aaron.
+- [x] `in that case`:                           `In that case,` I’ll have a beer.

@@ -17,9 +17,6 @@
 - [x] `At the end of the day,`:                 `At the end of the day,` this is not that important.
 - [x] `If anything,`:                           But now, `if anything,` they are making too much of it.
 - [x] `Off the top of my head,`:                `Off the top of my head,` I think it's wrong.
-
-## VIEWPOINT
-
 - [x] `Personally, in my opinion`:
 - [x] `From (S)'s' point of view`:              Well, `from my point of view,` some of the new policies are really good.
 - [x] `From (S)'s' perspective`:                Also `from the field’s perspective,` I think ,,,
@@ -27,7 +24,12 @@
 - [x] `In terms of (O)`:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
 - [ ] `All things considered`:                  `All things considered`, that was a successful event.
 - [ ] `For the most part`:                      `For the most part,` modernization is identified with westernization.
-- [x] `Given that (S) (V)`:                     `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
+- [ ] `That's how`:                             `That's how` we met.
+- [ ] `I hope I'm not interrupting you,`:
+- [ ] `I hope you don't mind`:                  `I hope you don't mind if` I eat while we talk.
+- [ ] `The fact is (S) (V)`:                    `The fact is,` I don't have enough money.
+- [ ] `It goes without saying that (S) (V)`:    `It goes without saying that` the aging of society is inevitable.
+- [ ] `You know as well as I do that (S) (V)`:  `You know as well as I do that` this is very important.
 
 ## TOPIC
 
@@ -49,8 +51,9 @@
 - [ ] `In the course of`:                       `In the course of` its economic development, Japan has ...
 - [x] `Off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
 
-## REASON
+## EVIDENCE
 
+- [x] `Given that (S) (V)`:                     `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
 - [x] `As a result of (O)`:                     `As a result of` his ridiculous venture, he is in danger of going bankrupt.
 
 ## SUBJUNCTIVE MOOD
