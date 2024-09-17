@@ -16,6 +16,8 @@
 - `(By) When ... ?`:                        `(By) When` do I have to finish this?
 - `Do you know anyone`:                     `Do you know anyone` in New York?
 - `what should I do?`:                      `What should I do` in a situation like this?
+- `What do you mean by (O)?`:
+- What's the situation with (S)?:
 
 ## SUBJUNCTIVE MOOD
 

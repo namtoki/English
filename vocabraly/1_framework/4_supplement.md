@@ -49,6 +49,7 @@
 - [ ] `barely`:                                 The minute particles are `barely` visible to the naked eye.
 - [ ] `at heart`:                               Since Bob is lazy `at heart`, he frequently neglects his duties.
 - [ ] `let's just say`:                         The environment that `let's just say` was set up for my ...
+- [ ] In a departure from (O),:
 
 ## ADDITION
 
@@ -70,6 +71,7 @@
 - [ ] `on behalf of (O)`:                       `On behalf of` all staff, I'd like to express our sympathy for the victims.
 - [ ] `on behalf of (O)`:                       I thank you `on behalf of` my husband.
 - [ ] `in place of (O)`:                        I used Knox’s PC `in place of` mine today.
+- [ ] [topic]   in its infancy:
 
 ## WHAT
 
@@ -180,6 +182,10 @@
 - [ ] `in accordance with (O)`:
 - [ ] `in an effort to (V)`:                    `In an effort to` encourage diversity, they will debate the complicated problem of minority rights.
 - [ ] `in an attempt to (V)`:                   He dived into the river `in a heroic attempt to` save the child.
+- [ ] `at the sound of`:
+- [ ] for the purpose of (V-ing):
+- [ ] in the event of/that:
+- [ ] with the intention of (V-ing):
 
 ## EXTENT
 

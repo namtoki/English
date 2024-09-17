@@ -43,6 +43,9 @@
 - [x] `it's up in the air whether (S) (V)`:     `It's up in the air whether` the game will be called off or not.
 - [ ] `everyone (V)`:                           `Everyone` does it.
 - [ ] `next to`:                                I know `next to` nothing about it.
+- [ ] This is exemplified by (O):
+- [ ] I'll admit (S) (V):
+- [ ] `That's how`:                             `That's how` we met.
 
 ## PAST
 
@@ -120,6 +123,7 @@
 - [ ] `(S) need to (V)`:                        I `need to` get back to the office.
 - [ ] `(S) be supposed to (V)`:                 であるべき
 - [ ] `It might be a good idea to (V)`:         `It might be a good idea to` read the reviews before you buy it.
+- [ ] (S) might not hurt to (V):
 
 ## PREFERENCE
 
@@ -164,3 +168,6 @@
 - [ ] `That's the way (S) (V)`:                 `That's the way` I like it. / `That's the way` I prefer it.
 - [ ] `There're times when (S) (V)`:            `There're times when I crave` a Starbucks Frappuccino really badly.
 - [x] `I have a problem with (O)`:              `I have a problem with` his table manners.
+- [ ] `take the plunge and do`:
+- [ ] give it a try/shot:
+- [ ] I'm in the process of (V-ing):
