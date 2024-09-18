@@ -1,59 +1,47 @@
 # SUPPLEMENT
 
-## SENTENSE MODIFIYING
-
-- [x] `, if that makes sense.`:                 I really enjoyed the song for its lyrics`, if that makes sense.`
-- [ ] `, if (O) works for you.`:                So I’ll see you at 7`, if it works for you.`
-- [x] `, if you don't mind.`:                   I have a suggestion`, if you don't mind.`
-- [x] `, if you think about it.`:               It's crazy how we can communicate like this`, if you think about it.`
-- [x] `, you know what I mean?`:                All I’m saying is, I’m right and you’re wrong`, you know what I mean?`
-- [ ] `, or not really?`:                       Do you like this kind of music`, or not really?`
-- [ ] `, or what?`:                             Are we gonna have fun`, or what?`
-- [ ] `, if you ask me`:                        It was a little long`, if you ask me.`
-- [ ] `, in a nutshell`:                        That's it`, in a nutshell.`
-- [x] `in the first place`:                     Why was he at the party `in the first place?` He wasn't invited, was he?
-- [ ] `on the second thought`:
-
-## DE-EMPHASIS
-
-- [x] `things/something like that`:             I think he's learning Spanish or `something like that`, if that makes sense.
-- [x] `(O) kind of thing`:                      This is a flip phone `kind of thing` but a bit different.
-- [x] `(O) like`:                               Things `like` party hats, paper plates and napkins.
-- [x] `(O) and so on`:                          I'm tired of doing the dished, doing the laundry, `and so on!`
-- [ ] `(O) and stuff`:                          We've got to do editing `and stuff.`
-- [ ] `(O) or whatever`:                        I'm just going to read a book `or whatever.`
-- [x] `(O) or so`:                              It's 20 dollars `or so.`
-
-## HOW
-
-- [x] `somehow`:                                Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
-- [x] `in a way that (V)`:                      Some people explain simple things `in a way that` makes it sound complicated.
-- [ ] `in a row`:                               the unemployment rate has risen three quarters `in a row.`
-- [ ] `in a rage`:                              "Turn the faucet off!" mom yelled `in a rage.`
-- [ ] `in earnest`:                             Japan must undertake sweeping deregulation `in earnest.`
-- [ ] `in the long run`:                        Bob believes that honesty pays off `in the long run.`
-- [ ] `by heart`:                               First of all, learn the formula `by heart.`
-- [ ] `time and again`:                         The ecologist has warned us `time and again.`
-- [ ] `one-off`:                                The expense incurred this year to construct the building is a `one-off` cost.
-- [ ] `back and forth`:                         Bob was pacing `back and forth` along the sidewalk.
-- [ ] `to my shoulders`:                        I entered the Ghanges river `to my shoulders.`
-- [ ] `to and fro`:                             I have been traveling `to and fro` between Canada and the U.K for years.
-- [ ] `around the clock`:                       They are working `around the clock` looking into the cause of the crash.
-- [ ] `on and off`:                             It’s been raining `on and off` all day today.
-- [ ] `out of habit`:                           I got the Namboku line `out of habit.`
-- [ ] `on impulse`:                             I'm apt to buy things `on impulse` whenever something is on sale.
-- [ ] `for the (fun | joy) of it`:              I just cook `for the fun of it.`
-- [ ] `on purpose`:                             He made a mistake `on purpose.`
-- [ ] `purposely`:                              He `purposely` didn't say anything.
-- [ ] `for the first time`:                     Last Saturday, I came here `for the first time.`
-- [ ] `barely`:                                 The minute particles are `barely` visible to the naked eye.
-- [ ] `at heart`:                               Since Bob is lazy `at heart`, he frequently neglects his duties.
-- [ ] `let's just say`:                         The environment that `let's just say` was set up for my ...
-- [ ] In a departure from (O),:
+- [x] [opinion]     `, you know what I mean?`:                All I’m saying is, I’m right and you’re wrong`, you know what I mean?`
+- [x] [opinion]     `, if that makes sense.`:                 I really enjoyed the song for its lyrics`, if that makes sense.`
+- [x] [opinion]     `, if you think about it.`:               It's crazy how we can communicate like this`, if you think about it.`
+- [x] [opinion]     `in the first place`:                     Why was he at the party `in the first place?` He wasn't invited, was he?
+- [ ] [opinion]     `, or not really?`:                       Do you like this kind of music`, or not really?`
+- [ ] [opinion]     `, or what?`:                             Are we gonna have fun`, or what?`
+- [ ] [opinion]     `, if you ask me`:                        It was a little long`, if you ask me.`
+- [ ] [opinion]     `, in a nutshell`:                        That's it`, in a nutshell.`
+- [ ] [opinion]     `on the second thought`:
+- [x] [vague]       `things/something like that`:             I think he's learning Spanish or `something like that`, if that makes sense.
+- [x] [vague]       `(sth) kind of thing`:                    This is a flip phone `kind of thing` but a bit different.
+- [x] [vague]       `things like (sth)`:                      `Things like` party hats, paper plates and napkins.
+- [x] [vague]       `(sth) and so on`:                        I'm tired of doing the dished, doing the laundry, `and so on!`
+- [x] [vague]       `(sth) and stuff (like that)`:            We've got to do editing `and stuff.`
+- [x] [vague]       `(sth) or so`:                            It's 20 dollars `or so.`
+- [ ] [vague]       `(sth) or whatever:                      I'm just going to read a book `or whatever.`
+- [ ] [clear]       `for the (fun | joy) of it`:              I just cook `for the fun of it.`
+- [ ] [clear]       `for the first time`:                     Last Saturday, I came here `for the first time.`
+- [x] [clear]       `in a row`:                               the unemployment rate has risen three quarters `in a row.`
+- [ ] [clear]       `in a rage`:                              "Turn the faucet off!" mom yelled `in a rage.`
+- [ ] [clear]       `in earnest`:                             Japan must undertake sweeping deregulation `in earnest.`
+- [ ] [clear]       `back and forth`:                         Bob was pacing `back and forth` along the sidewalk.
+- [ ] [clear]       `to my shoulders`:                        I entered the Ghanges river `to my shoulders.`
+- [ ] [clear]       `to and fro`:                             I have been traveling `to and fro` between Canada and the U.K for years.
+- [ ] [clear]       `on and off`:                             It’s been raining `on and off` all day today.
+- [ ] [clear]       `at heart`:                               Since Bob is lazy `at heart`, he frequently neglects his duties.
+- [x] [how]         `somehow`:                                Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
+- [x] [how]         `in a way that (V)`:                      Some people explain simple things `in a way that` makes it sound complicated.
+- [ ] [how]         `by heart`:                               First of all, learn the formula `by heart.`
+- [ ] [how]         `on purpose`:                             He made a mistake `on purpose.`
+- [ ] [how]         `purposely`:                              He `purposely` didn't say anything.
+- [ ] [when]        `time and again`:                         The ecologist has warned us `time and again.`
+- [ ] [when]        `around the clock`:                       They are working `around the clock` looking into the cause of the crash.
+- [ ] [reason]      `out of habit`:                           I got the Namboku line `out of habit.`
+- [ ] [reason]      `on impulse`:                             I'm apt to buy things `on impulse` whenever something is on sale.
+- [ ] [modest]      `, if (O) works for you.`:                So I’ll see you at 7`, if it works for you.`
+- [x] [modest]      `, if you don't mind.`:                   I have a suggestion`, if you don't mind.`
+- [ ] [assumption]  `in the long run`:                        Bob believes that honesty pays off `in the long run.`
+- [ ] [assumption]  `let's just say`:                         The environment that `let's just say` was set up for my ...
 
 ## ADDITION
 
-- [x] `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
 - [x] `except for (O)`:                         The auditorium was empty `except for` a single piece of furniture.
 - [x] `not including (O)`:                      I work 8 hours `not including` lunch.
 - [ ] `without (O)`:                            I work 8 hours `without` lunch.

@@ -79,3 +79,7 @@
 - [ ] `almost never`:                           5
 - [ ] `hardly ever`:                            5
 - [ ] `never`:                                  0
+
+
+- [ ] `one-off`:                                The expense incurred this year to construct the building is a `one-off` cost.
+- [ ] `barely`:                                 The minute particles are `barely` visible to the naked eye.

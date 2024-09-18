@@ -43,6 +43,7 @@
 - [ ] [topic]       `As for me`:                              `As for me,` I agree with his opinion.
 - [ ] [topic]       `As to (O)`:                              discussion `as to` which university is the best university.
 - [ ] [topic]       `In the course of`:                       `In the course of` its economic development, Japan has ...
+- [ ] [topic]       `In a departure from (O),`:
 - [x] [reason]      `Given that (S) (V)`:                     `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
 - [x] [reason]      `As a result of (O)`:                     `As a result of` his ridiculous venture, he is in danger of going bankrupt.
 - [x] [assumption]  `With (O)`:                               `With` a little luck, we can still make it.
