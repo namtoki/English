@@ -1,41 +1,17 @@
 # FOCUS
 
-- [x] [opinion]     `Personally, in my opinion`:
-- [x] [opinion]     `From the perspective of (sth)`:          Trends in trade `from the perspective of` production stage.
-- [x] [opinion]     `From (sb)'s' point of view`:             Well, `from my point of view,` some of the new policies are really good.
-- [x] [opinion]     `From (sb)'s' perspective`:               Also `from the field’s perspective,` I think ,,,
-- [x] [opinion]     `At the end of the day,`:                 `At the end of the day,` this is not that important.
-- [x] [opinion]     `In terms of (sth)`:                      I liked that movie `in terms of` the acting. I didn’t really like the story though.
-- [x] [opinion]     `Just out of curiosity,`:                 `Just out of curiosity,` why did you come to Japan?
-- [x] [opinion]     `If anything,`:                           But now, `if anything,` they are making too much of it.
-- [ ] [opinion]     `Speaking from experience,`:
-- [ ] [opinion]     `Simply put,`:                            `Simply put,` he doesn't like sports.
-- [ ] [opinion]     `All things considered,`:                 `All things considered`, that was a successful event.
-- [x] [excuse]      `If I had to (do),`:                      `If I had to guess,` I would say that she is single.
-- [x] [excuse]      `In (sb)'s defence`:                      `In my defense,` it was dark and he was a very pretty guy!”
-- [x] [excuse]      `If I'm not mistaken,`:                   `If I'm not mistaken,` it's the tallest building in the world.
-- [x] [excuse]      `This might be just me, but`:             `This might be just me, but` don't you think this is a bit too expensive?
-- [x] [excuse]      `Off the top of my head,`:                `Off the top of my head,` I think it's wrong.
-- [ ] [excuse]      `The fact is,`:                           `The fact is,` I don't have enough money.
-- [x] [change]      `Off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
-- [x] [change]      `In any case`:                            `In any case,` the union has to compromise to a certain extent.
-- [ ] [change]      `Anyway`:                                 That’s a funny story. `Anyway,` he is late today, isn’t he?
-- [ ] [fact]        `As (sb) anticipated,`:                   `As we anticipated,` the unemployment rate has risen ....
-- [ ] [fact]        `As it is,`:                              `As it is,` ordinary people cannot afford to purchase such luxuries.
-- [ ] [fact]        `(More) Broadly speaking,`:
-- [x] [logical]     `To begin with,`:                         `To begin with,` its theme is obscure.
-- [ ] [logical]     `First/Most of all,`:                     `First of all,` learn the formula by heart.
-- [ ] [part]        `Above all,`:                             `Above all,` scientific terms call for precise definitions.
-- [ ] [part]        `For the most part`:                      `For the most part,` modernization is identified with westernization.
 - [x] [topic]       `In (V-ing)`:                             `In making a decision,` I rely not on logic but on instinct.
 - [x] [topic]       `Regarding (O)`:                          `Regarding` the subject above,,,
 - [x] [topic]       `When it comes to (O)`:                   `When it comes to` the weather, there’s nothing I can do.
 - [x] [topic]       `Speaking of which/(O)`:                  `Speaking of summer,` where did you go this year?
-- [ ] [topic]       `Talking of (O)`:                         `Talking of` soccer, Did you watch the game yesterday?
-- [ ] [topic]       `Honestly`:
-- [ ] [topic]       `Like/as I was saying`:                   Sorry. `As I was saying,` the acting was amazing.
 - [x] [topic]       `Like/as you said`:
 - [x] [topic]       `Going back to (O)`:                      `Going back to` your question, my answer is no.
+- [x] [topic]       `Off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
+- [x] [topic]       `Anyway`:                                 That’s a funny story. `Anyway,` he is late today, isn’t he?
+- [x] [topic]       `In any case`:                            `In any case,` the union has to compromise to a certain extent.
+- [ ] [topic]       `Talking of (O)`:                         `Talking of` soccer, Did you watch the game yesterday?
+- [ ] [topic]       `Above all,`:                             `Above all,` scientific terms call for precise definitions.
+- [ ] [topic]       `For the most part`:                      `For the most part,` modernization is identified with westernization.
 - [ ] [topic]       `About`:                                  `About` the food ... it is bad.
 - [ ] [topic]       `With/in regard to (O)`:                  `With regard to` the notes below
 - [ ] [topic]       `Concerning (O)`:                         `concerning` the changes that were recently made,,,
@@ -44,14 +20,38 @@
 - [ ] [topic]       `As to (O)`:                              discussion `as to` which university is the best university.
 - [ ] [topic]       `In the course of`:                       `In the course of` its economic development, Japan has ...
 - [ ] [topic]       `In a departure from (O),`:
-- [x] [reason]      `Given that (S) (V)`:                     `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
-- [x] [reason]      `As a result of (O)`:                     `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-- [x] [assumption]  `With (O)`:                               `With` a little luck, we can still make it.
-- [x] [assumption]  `(Let's) Say (S) (V)`:                    `Say` I invest a hundred dollars now, how much will I ...
-- [ ] [assumption]  `As long as (S) (V)`:                     `As long as` you are young, you should experience different things.
-- [ ] [assumption]  `As far as / insofar as (S) (V)`:         `As far as` I can see, he will fail the exam again this time.
-- [x] [assumption]  `Assuming that (S) (V)`:                  `Assuming that` no voltage is applied from the booster amplifier,,,,
-- [ ] [modest]      `I hope I'm not interrupting you,`:
-- [ ] [modest]      `I hope you don't mind`:                  `I hope you don't mind if` I eat while we talk.
+- [x] [base]        `Given that (S) (V)`:                     `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
+- [x] [base]        `As a result of (O)`:                     `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+- [x] [base]        `With (O)`:                               `With` a little luck, we can still make it.
+- [x] [base]        `(Let's) Say (S) (V)`:                    `Say` I invest a hundred dollars now, how much will I ...
+- [x] [base]        `Assuming that (S) (V)`:                  `Assuming that` no voltage is applied from the booster amplifier,,,,
+- [ ] [base]        `As long as (S) (V)`:                     `As long as` you are young, you should experience different things.
+- [ ] [base]        `As far as / insofar as (S) (V)`:         `As far as` I can see, he will fail the exam again this time.
+- [x] [opinion]     `To be honest`:
+- [x] [opinion]     `Personally, in my opinion`:
+- [x] [opinion]     `From the perspective of (sth)`:          Trends in trade `from the perspective of` production stage.
+- [x] [opinion]     `From (sb)'s' point of view`:             Well, `from my point of view,` some of the new policies are really good.
+- [x] [opinion]     `From (sb)'s' perspective`:               Also `from the field’s perspective,` I think ,,,
+- [x] [opinion]     `At the end of the day,`:                 `At the end of the day,` this is not that important.
+- [x] [opinion]     `In terms of (sth)`:                      I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- [x] [opinion]     `Just out of curiosity,`:                 `Just out of curiosity,` why did you come to Japan?
+- [x] [opinion]     `If anything,`:                           But now, `if anything,` they are making too much of it.
+- [x] [opinion]     `(More) Broadly speaking,`:
+- [x] [opinion]     `To begin with,`:                         `To begin with,` its theme is obscure.
+- [ ] [opinion]     `Like/as I was saying`:                   Sorry. `As I was saying,` the acting was amazing.
+- [ ] [opinion]     `Speaking from experience,`:
+- [ ] [opinion]     `Simply put,`:                            `Simply put,` he doesn't like sports.
+- [ ] [opinion]     `All things considered,`:                 `All things considered`, that was a successful event.
+- [ ] [opinion]     `As (sb) anticipated,`:                   `As we anticipated,` the unemployment rate has risen ....
+- [ ] [opinion]     `As it is,`:                              `As it is,` ordinary people cannot afford to purchase such luxuries.
+- [ ] [opinion]     `First/Most of all,`:                     `First of all,` learn the formula by heart.
+- [x] [excuse]      `If I had to (do),`:                      `If I had to guess,` I would say that she is single.
+- [x] [excuse]      `In (sb)'s defence`:                      `In my defense,` it was dark and he was a very pretty guy!”
+- [x] [excuse]      `If I'm not mistaken,`:                   `If I'm not mistaken,` it's the tallest building in the world.
+- [x] [excuse]      `This might be just me, but`:             `This might be just me, but` don't you think this is a bit too expensive?
+- [x] [excuse]      `Off the top of my head,`:                `Off the top of my head,` I think it's wrong.
+- [ ] [excuse]      `The fact is,`:                           `The fact is,` I don't have enough money.
+- [ ] [excuse]      `I hope I'm not interrupting you,`:
+- [ ] [excuse]      `I hope you don't mind`:                  `I hope you don't mind if` I eat while we talk.
 - [ ] [excessive]   `It goes without saying that (S+V)`:      `It goes without saying that` the aging of society is inevitable.
 - [ ] [excessive]   `You know as well as I do that (S+V)`:    `You know as well as I do that` this is very important.
