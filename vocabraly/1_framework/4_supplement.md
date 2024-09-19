@@ -16,16 +16,34 @@
 - [x] [vague]       `(sth) and stuff (like that)`:            We've got to do editing `and stuff.`
 - [x] [vague]       `(sth) or so`:                            It's 20 dollars `or so.`
 - [ ] [vague]       `(sth) or whatever:                      I'm just going to read a book `or whatever.`
-- [ ] [clear]       `for the (fun | joy) of it`:              I just cook `for the fun of it.`
-- [ ] [clear]       `for the first time`:                     Last Saturday, I came here `for the first time.`
+- [x] [clear]       `for the first time`:                     Last Saturday, I came here `for the first time.`
 - [x] [clear]       `in a row`:                               the unemployment rate has risen three quarters `in a row.`
+- [x] [clear]       `except for (sth)`:                       The auditorium was empty `except for` a single piece of furniture.
+- [x] [clear]       `not including (sth)`:                    I work 8 hours `not including` lunch.
+- [x] [clear]       `without (sth)`:                          I work 8 hours `without` lunch.
+- [x] [clear]       `instead of (doing)`:                     We decided to chill at home `instead of` going out.
+- [x] [clear]       `when compared to (sth) `:                Global emissions could rise 1.1 percent this year `when compared to` 2022.
+- [x] [clear]       `in particular`:                          Urban culture appears to be attractive to many people, `in particular,` to younger people.
 - [ ] [clear]       `in a rage`:                              "Turn the faucet off!" mom yelled `in a rage.`
 - [ ] [clear]       `in earnest`:                             Japan must undertake sweeping deregulation `in earnest.`
+- [ ] [clear]       `for the (fun | joy) of it`:              I just cook `for the fun of it.`
 - [ ] [clear]       `back and forth`:                         Bob was pacing `back and forth` along the sidewalk.
 - [ ] [clear]       `to my shoulders`:                        I entered the Ghanges river `to my shoulders.`
 - [ ] [clear]       `to and fro`:                             I have been traveling `to and fro` between Canada and the U.K for years.
 - [ ] [clear]       `on and off`:                             It’s been raining `on and off` all day today.
 - [ ] [clear]       `at heart`:                               Since Bob is lazy `at heart`, he frequently neglects his duties.
+- [ ] [clear]       `more than (sth)`:                        I like chocolate `more than` vanilla.
+- [ ] [clear]       `rather than (sth)`:
+- [ ] [clear]       `better than (sth)`:                      I like vanilla `better than` chocolate.
+- [ ] [clear]       `in spite of (sth)`:                      `In spite of` our compliments, he frowned and turned away. He was so rude.
+- [ ] [clear]       `despite (sth)`:                          `Despite` the risk, I would like to proceed with the plan.
+- [ ] [clear]       `among other things`:
+- [ ] [clear]       `followed by`:                            Lightning flashed, `followed by` terribly loud thunder.
+- [ ] [clear]       `at the expense of`:                      He got promoted `at the expense of` his colleague.
+- [ ] [clear]       `on behalf of (O)`:                       `On behalf of` all staff, I'd like to express our sympathy for the victims.
+- [ ] [clear]       `on behalf of (O)`:                       I thank you `on behalf of` my husband.
+- [ ] [clear]       `in place of (O)`:                        I used Knox’s PC `in place of` mine today.
+- [ ] [clear]       `in its infancy`:
 - [x] [how]         `somehow`:                                Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
 - [x] [how]         `in a way that (V)`:                      Some people explain simple things `in a way that` makes it sound complicated.
 - [ ] [how]         `by heart`:                               First of all, learn the formula `by heart.`
@@ -40,26 +58,6 @@
 - [ ] [assumption]  `in the long run`:                        Bob believes that honesty pays off `in the long run.`
 - [ ] [assumption]  `let's just say`:                         The environment that `let's just say` was set up for my ...
 
-## ADDITION
-
-- [x] `except for (O)`:                         The auditorium was empty `except for` a single piece of furniture.
-- [x] `not including (O)`:                      I work 8 hours `not including` lunch.
-- [ ] `without (O)`:                            I work 8 hours `without` lunch.
-- [x] `instead of (V-ing)`:                     We decided to chill at home `instead of` going out.
-- [ ] `more than (O)`:                          I like chocolate `more than` vanilla.
-- [ ] `rather than (O)`:
-- [ ] `better than (O)`:                        I like vanilla `better than` chocolate.
-- [ ] `when compared (O)`:                      Global emissions could rise 1.1 percent this year `when compared to` 2022.
-- [ ] `in spite of (O)`:                        `In spite of` our compliments, he frowned and turned away. He was so rude.
-- [ ] `despite (O)`:                            `Despite` the risk, I would like to proceed with the plan.
-- [x] `in particular`:                          Urban culture appears to be attractive to many people, `in particular,` to younger people.
-- [ ] `among other things`:
-- [ ] `followed by`:                            Lightning flashed, `followed by` terribly loud thunder.
-- [ ] `at the expense of`:                      He got promoted `at the expense of` his colleague.
-- [ ] `on behalf of (O)`:                       `On behalf of` all staff, I'd like to express our sympathy for the victims.
-- [ ] `on behalf of (O)`:                       I thank you `on behalf of` my husband.
-- [ ] `in place of (O)`:                        I used Knox’s PC `in place of` mine today.
-- [ ] [topic]   in its infancy:
 
 ## WHAT
 

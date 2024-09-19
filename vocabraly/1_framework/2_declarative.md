@@ -1,51 +1,51 @@
-# OPINION
+# DECLARATIVE
 
-## TOUGHTS
+- [x] [opinion]     `I'd say (that)`:                         `I'd say` it's usually more art than science.
+- [x] [opinion]     `I have a feeling/hunch that`:            `I have a feeling that` there's more to it.
+- [x] [opinion]     `I find (sth) (adj)`:                     `I find it really interesting` to study English.
+- [x] [opinion]     `I'm sure (that)`:                        `I am sure that` I will enjoy the movie.
+- [x] [opinion]     `I'm sure of (sth)`:                      `I am sure of` enjoying the movie.
+- [x] [opinion]     `(sb) be sure to (do)`:                   You `are sure to` see many animals there.
+- [x] [opinion]     `I hope`:                                 `I hope` it doesn't rain.
+- [ ] [opinion]     `I feel (adj)`:                           `I feel bad` about canceling.
+- [ ] [opinion]     `I wish`:                                 `I wish` I spoke French.
 
-- [x] `I'd say (that)`:                         `I'd say` it's usually more art than science.
-- [ ] `(S) would (V)`:                          I `would` be too nervous. / That `would` be awesome.
-- [ ] `I would (V)`:                            `I would` go, if I were you.
-- [x] `I have a feeling/hunch that (S) (V)`:    `I have a feeling that` there's more to it.
-- [ ] `I find (O) (C)`:                         `I find it really interesting` to study English.
-- [ ] `I believe`:                              `I believe` she drives a white truck.
-- [ ] `I believe in`:                           `I don't believe in` ghosts.
-- [ ] `I feel (A)`:                             `I feel bad` about canceling.
-- [x] `I'm sure that (S) (V)`:                  `I am sure that` I will enjoy the movie.
-- [x] `I'm sure of (N)`:                        `I am sure of` enjoying the movie.
-- [ ] `(S) be sure to (V)`:                     You `are sure to` see many animals there.
-- [ ] `I wish (S) (V)`:                         `I wish` I spoke French.
-- [x] `I hope (S) (V)`:                         `I hope` it doesn't rain.
-- [ ] `I can't remember`:
-- [x] `I won't know until (O)`:                 `I won't know until` Friday.
-- [ ] `I have to say (S) (V)`:                  `I have to say` your place is adorable!
-- [x] `It occurs to me that (S) (V)`:           `It occurs to me that` I've never asked your name.
-- [x] `It's (A) how (S) (V)`:                   `It's interesting how` you said that.
-- [x] `It's like (O)`:                          `It's like` surfing on land.
-- [x] `It's kind of like (O)`:                  `It's kind of like` a noodle, but not exactly.
-- [x] `It’s almost like (O)`:                   `It’s almost like` Christmas.
-- [ ] `It feels like (O)`:                      I remember my first day of high school. `It feels like` yesterday.
-- [ ] `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
-- [ ] `(S) (V-ing). That is (A)`:               `This ramen shop putting whipped cream in soup, that's` gross.
-- [x] `(S) (V-ing), that'd be (A)`:             A Starbucks opening right next to my apartment, `that'd be` amazing.
-- [x] `The same is the case with (O)`:          `The same is the case with` "hear" and "about".
-- [x] `(O) slipped my mind`:                    Your birthday party completely `slipped my mind`.
-- [x] `(O) be a blur`:                          Last weekend `was a blur`.
-- [ ] `Turns out (S) (V)`:                      `Turns out` my five-year-old daughter already knows Santa doesn't exist.
-- [ ] `(A) doesn't have as much (B) as (C)`:    He `doesn't have as much experience as` the other candidates.
-- [ ] `(A) doesn't have as many (B) as (C)`:    We `don't have as many poeple in our team as` we did last year.
-- [ ] `It takes (O) (O) to`:                    `It takes her 25 minutes to` walk to work.
-- [ ] `It takes (V-ing) to`:                    `It takes working here for years` to know everything inside out like he does.
-- [ ] `(S) be supposed to (V)`:                 On Valentine's Day, in Japan girls `are supposed to` give choco...
-- [ ] `(S) be supposed to (V)`:                 Dolphins `are supposed to` be intelligent.
-- [ ] `It's a custom to (V)`:                   `It's a custom to` take off your shoes before entering ...
-- [ ] `It's traditional to (V)`:                In Japan, `it's traditional to` visit ...
-- [x] `It depends (O)`:                         `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
-- [x] `it's up in the air whether (S) (V)`:     `It's up in the air whether` the game will be called off or not.
-- [ ] `everyone (V)`:                           `Everyone` does it.
-- [ ] `next to`:                                I know `next to` nothing about it.
-- [ ] This is exemplified by (O):
-- [ ] I'll admit (S) (V):
-- [ ] `That's how`:                             `That's how` we met.
+- [ ] [opinion]     `I can't remember`:
+- [x] [opinion]     `I won't know until (O)`:                 `I won't know until` Friday.
+- [ ] [opinion]     `I have to say (S) (V)`:                  `I have to say` your place is adorable!
+- [x] [opinion]     `It occurs to me that (S) (V)`:           `It occurs to me that` I've never asked your name.
+- [x] [opinion]     `It's (A) how (S) (V)`:                   `It's interesting how` you said that.
+- [x] [opinion]     `It's like (O)`:                          `It's like` surfing on land.
+- [x] [opinion]     `It's kind of like (O)`:                  `It's kind of like` a noodle, but not exactly.
+- [x] [opinion]     `It’s almost like (O)`:                   `It’s almost like` Christmas.
+- [ ] [opinion]     `It feels like (O)`:                      I remember my first day of high school. `It feels like` yesterday.
+- [ ] [opinion]     `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
+- [ ] [opinion]     `(S) (V-ing). That is (A)`:               `This ramen shop putting whipped cream in soup, that's` gross.
+- [x] [opinion]     `(S) (V-ing), that'd be (A)`:             A Starbucks opening right next to my apartment, `that'd be` amazing.
+- [x] [opinion]     `The same is the case with (O)`:          `The same is the case with` "hear" and "about".
+- [x] [opinion]     `(O) slipped my mind`:                    Your birthday party completely `slipped my mind`.
+- [x] [opinion]     `(O) be a blur`:                          Last weekend `was a blur`.
+- [ ] [opinion]     `Turns out (S) (V)`:                      `Turns out` my five-year-old daughter already knows Santa doesn't exist.
+- [ ] [opinion]     `(A) doesn't have as much (B) as (C)`:    He `doesn't have as much experience as` the other candidates.
+- [ ] [opinion]     `(A) doesn't have as many (B) as (C)`:    We `don't have as many poeple in our team as` we did last year.
+- [ ] [opinion]     `It takes (O) (O) to`:                    `It takes her 25 minutes to` walk to work.
+- [ ] [opinion]     `It takes (V-ing) to`:                    `It takes working here for years` to know everything inside out like he does.
+- [ ] [opinion]     `(S) be supposed to (V)`:                 On Valentine's Day, in Japan girls `are supposed to` give choco...
+- [ ] [opinion]     `(S) be supposed to (V)`:                 Dolphins `are supposed to` be intelligent.
+- [ ] [opinion]     `It's a custom to (V)`:                   `It's a custom to` take off your shoes before entering ...
+- [ ] [opinion]     `It's traditional to (V)`:                In Japan, `it's traditional to` visit ...
+- [x] [opinion]     `It depends (O)`:                         `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
+- [x] [opinion]     `it's up in the air whether (S) (V)`:     `It's up in the air whether` the game will be called off or not.
+- [ ] [opinion]     `everyone (V)`:                           `Everyone` does it.
+- [ ] [opinion]     `next to`:                                I know `next to` nothing about it.
+- [ ] [opinion]     This is exemplified by (O):
+- [ ] [opinion]     I'll admit (S) (V):
+- [ ] [opinion]     `That's how`:                             `That's how` we met.
+- [ ] [opinion]     `I believe`:                              `I believe` she drives a white truck.
+- [ ] [opinion]     `I believe in`:                           `I don't believe in` ghosts.
+- [x] [assumption]  `That would do`:                          `That would` be awesome.
+- [ ] [assumption]  `I would (V)`:                            `I would` go, if I were you.
+
 
 ## PAST
 
