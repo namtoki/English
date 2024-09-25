@@ -3,24 +3,25 @@
 - [x] [topic]       `about (sth)`:                            `About` the food ... it is bad.
     - [x]         `in (doing) (sth)`:                       `In making a decision,` I rely not on logic but on instinct.
     - [x]         `regarding (sth)`:                        `Regarding` the subject above,,,
-    - [ ]         `concerning (sth)`:                       `concerning` the changes that were recently made,,,
     - [x]         `in terms of (sth)`:                      I liked that movie `in terms of` the acting. I didn’t really like the story though.
+    - [x]         `(sth)-wise`:                             `Staffing-wise,` I think it’s all right.
+    - [ ]         `with/in regard to (sth)`:                `With regard to` the notes below
+    - [ ]         `concerning (sth)`:                       `concerning` the changes that were recently made,,,
     - [ ]         `as for (sth)`:                           `As for` the cost per person
     - [ ]         `as to (sth)`:                            discussion `as to` which university is the best university.
-- [x] [topic]       `speaking of which/(O)`:                  `Speaking of summer,` where did you go this year?
-    - [ ]         `talking of (sth)`:                       `Talking of` soccer, Did you watch the game yesterday?
-    - [x]         `when it comes to (O)`:                   `When it comes to` the weather, there’s nothing I can do.
+- [x] [topic]       `speaking of which/(sth)`:                `Speaking of summer,` where did you go this year?
+    - [x]         `when it comes to (sth)`:                 `When it comes to` the weather, there’s nothing I can do.
     - [x]         `like/as you said`:
-- [x] [topic]       `going back to (O)`:                      `Going back to` your question, my answer is no.
+    - [ ]         `talking of (sth)`:                       `Talking of` soccer, Did you watch the game yesterday?
+- [x] [topic]       `going back to (sth)`:                    `Going back to` your question, my answer is no.
+- [x] [topic]       `off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
 
     - [ ]         `As for me`:                              `As for me,` I agree with his opinion.
 
-- [x] [topic]       `Off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
 - [x] [topic]       `Anyway`:                                 That’s a funny story. `Anyway,` he is late today, isn’t he?
 - [x] [topic]       `In any case`:                            `In any case,` the union has to compromise to a certain extent.
 - [ ] [topic]       `Above all,`:                             `Above all,` scientific terms call for precise definitions.
 - [ ] [topic]       `For the most part`:                      `For the most part,` modernization is identified with westernization.
-- [ ] [topic]       `With/in regard to (O)`:                  `With regard to` the notes below
 - [ ] [topic]       `In the course of`:                       `In the course of` its economic development, Japan has ...
 - [ ] [topic]       `In a departure from (O),`:
 - [x] [base]        `Given that (S) (V)`:                     `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
