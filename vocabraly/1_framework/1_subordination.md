@@ -15,12 +15,12 @@
     - [ ]         `talking of (sth)`:                       `Talking of` soccer, Did you watch the game yesterday?
 - [x] [topic]       `going back to (sth)`:                    `Going back to` your question, my answer is no.
 - [x] [topic]       `off-topic, but`:                         Bit `off-topic, but` I just finished editing the video.
+- [x] [topic]       `anyway`:                                 That’s a funny story. `Anyway,` he is late today, isn’t he?
+    - [x]         `in any case`:                            `In any case,` the union has to compromise to a certain extent.
+- [ ] [emphasis]    `Above all,`:                             `Above all,` scientific terms call for precise definitions.
+
 
     - [ ]         `As for me`:                              `As for me,` I agree with his opinion.
-
-- [x] [topic]       `Anyway`:                                 That’s a funny story. `Anyway,` he is late today, isn’t he?
-- [x] [topic]       `In any case`:                            `In any case,` the union has to compromise to a certain extent.
-- [ ] [topic]       `Above all,`:                             `Above all,` scientific terms call for precise definitions.
 - [ ] [topic]       `For the most part`:                      `For the most part,` modernization is identified with westernization.
 - [ ] [topic]       `In the course of`:                       `In the course of` its economic development, Japan has ...
 - [ ] [topic]       `In a departure from (O),`:
