@@ -1,35 +1,39 @@
 # DECLARATIVE
 
-- [x] [opinion]     `I'd say (that)`:                         `I'd say` it's usually more art than science.
-- [x] [opinion]     `I have a feeling/hunch that`:            `I have a feeling that` there's more to it.
-- [x] [opinion]     `I find (sth) (adj)`:                     `I find it really interesting` to study English.
-- [x] [opinion]     `It occurs to me that (S) (V)`:           `It occurs to me that` I've never asked your name.
-- [x] [opinion]     `It's (A) how (S) (V)`:                   `It's interesting how` you said that.
-- [x] [opinion]     `It's like (O)`:                          `It's like` surfing on land.
-- [x] [opinion]     `It's kind of like (O)`:                  `It's kind of like` a noodle, but not exactly.
-- [x] [opinion]     `It’s almost like (O)`:                   `It’s almost like` Christmas.
-- [x] [opinion]     `It's not that (S) (V)`:                  `It's not like` Joe is a bad guy. He is just shady sometimes.
-- [x] [opinion]     `It's not like (S) (V)`:
-- [x] [opinion]     `It's just that (S) (V)`:
-- [x] [opinion]     `It's more like (S) (V)`:
-- [x] [opinion]     `It's more that (S) (V)`:
-- [x] [opinion]     `I'm sure (that)`:                        `I am sure that` I will enjoy the movie.
-- [x] [opinion]     `I'm sure of (sth)`:                      `I am sure of` enjoying the movie.
-- [x] [opinion]     `(sb) be sure to (do)`:                   You `are sure to` see many animals there.
-- [x] [opinion]     `I hope`:                                 `I hope` it doesn't rain.
-- [x] [opinion]     `The same is the case with (O)`:          `The same is the case with` "hear" and "about".
-- [x] [opinion]     `(O) slipped my mind`:                    Your birthday party completely `slipped my mind`.
-- [x] [opinion]     `(O) be a blur`:                          Last weekend `was a blur`.
-- [x] [opinion]     `It depends (O)`:                         `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
-- [x] [opinion]     `it's up in the air whether (S) (V)`:     `It's up in the air whether` the game will be called off or not.
-- [x] [opinion]     `Turns out (S) (V)`:                      `Turns out` my five-year-old daughter already knows Santa doesn't exist.
-- [x] [opinion]     `I didn't mean it.`:
-- [x] [opinion]     `I was just saying`:                      No! `I was just saying` ... it's a new look for you.
-- [ ] [opinion]     `It's the fact that (S) (V)`:             But not because it's so big. `It's the fact that` it's so diverse.
-- [ ] [opinion]     `It's not the fact that (S) (V)`:         `It's not the fact that` I find him boring.
-- [ ] [opinion]     `It's not just the fact that (S) (V)`:    `It's not just the fact that` you called me during a meeting.
-- [ ] [opinion]     `You'd think (that) (S) (V), but`:        `You'd think` Japan would be really technologically advanced, but ,,,
-- [ ] [opinion]     `~~~. That's not to say (that)`:          `That's not to say that` it'll be impossible without it, but,,,
+- [x] [opinion]       `I think`:
+  - [x]             `I'd say (that) (sb) (do)`:               `I'd say` it's usually more art than science.
+  - [x]             `I have a feeling/hunch that (sb) (do)`:  `I have a feeling that` there's more to it.
+  - [x]             `I find (sth) (adj)`:                     `I find it really interesting` to study English.
+  - [x]             `It occurs to me that (sb) (do)`:         `It occurs to me that` I've never asked your name.
+  - [x]             `It's (adj) how (sb) (do)`:               `It's interesting how` you said that.
+  - [ ]             `I believe (sb) (do)`:                    `I believe` she drives a white truck.
+  - [ ]             `I believe in (sth)`:                     `I don't believe in` ghosts.
+- [x] [opinion]       `I'm sure (that)`:                        `I am sure that` I will enjoy the movie.
+  - [x]             `I'm sure of (sth)`:                      `I am sure of` enjoying the movie.
+  - [x]             `(sb) be sure to (do)`:                   You `are sure to` see many animals there.
+- [x] [opinion]       `(sth) slipped my mind`:                  Your birthday party completely `slipped my mind`.
+  - [x]             `(sth) be a blur`:                        Last weekend `was a blur`.
+- [x] [opinion]       `I hope (sb) (do)`:                       `I hope` it doesn't rain.
+- [x] [opinion]       `It's like (sth)`:                        `It's like` surfing on land.
+  - [x]             `It's kind of like (sth)`:                `It's kind of like` a noodle, but not exactly.
+  - [x]             `It’s almost like (sth)`:                 `It’s almost like` Christmas.
+- [x] [opinion]       `I didn't mean it.`:
+  - [x]             `It's not that (sb) (do)`:                `It's not like` Joe is a bad guy. He is just shady sometimes.
+  - [x]             `It's not like (sb) (do)`:
+- [x] [opinion]       `It's just that (sb) (do)`:
+  - [x]             `I was just saying`:                      No! `I was just saying` ... it's a new look for you.
+- [x] [opinion]       `It's more like (sb) (do)`:
+  - [x]             `It's more that (sb) (do)`:
+- [x] [opinion]       `It's the fact that (sb) (do)`:           But not because it's so big. `It's the fact that` it's so diverse.
+  - [x]             `It's not the fact that (sb) (do)`:       `It's not the fact that` I find him boring.
+  - [x]             `It's not just the fact that (sb) (do)`:  `It's not just the fact that` you called me during a meeting.
+- [x] [opinion]       `~~. That's not to say (that) (sb) (do)`: `That's not to say that` it'll be impossible without it, but,,,
+- [x] [opinion]       `The same is the case with (sth)`:        `The same is the case with` "hear" and "about".
+- [x] [opinion]       `It depends (sth)`:                       `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
+- [x] [opinion]       `It's up in the air whether (sb) (do)`:   `It's up in the air whether` the game will be called off or not.
+- [x] [opinion]       `Turns out (sb) (do)`:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
+- [x] [opinion]       `You'd think (that) (sb) (do), but`:      `You'd think` Japan would be really technologically advanced, but ,,,
+
 - [ ] [opinion]     `I'm just trying to (V)`:                 `I'm just trying to` explain what happened.
 - [ ] [opinion]     `just because ... doesn't mean`:          `Just because` he smiles a lot `doesn't mean` he's kind.
 - [ ] [opinion]     `I feel (adj)`:                           `I feel bad` about canceling.
@@ -52,8 +56,6 @@
 - [ ] [opinion]     `This is exemplified by (O)`:
 - [ ] [opinion]     `I'll admit (S) (V)`:
 - [ ] [opinion]     `That's how`:                             `That's how` we met.
-- [ ] [opinion]     `I believe`:                              `I believe` she drives a white truck.
-- [ ] [opinion]     `I believe in`:                           `I don't believe in` ghosts.
 - [x] [preference]  `I feel like (O)`:                        `I feel like` Thai food. I don't feel like it.
 - [x] [preference]  `(S) get/be familiar with (O)`:           He `got familiar with` a new laptop.
 - [x] [preference]  `It's been a while since (S) (V)`:        `It's been a while since` I've swung a tennis racket.

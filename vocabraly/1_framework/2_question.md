@@ -1,5 +1,7 @@
 # QUESTION
 
+I wonder if this game is played all over the world.
+
 - [x] [opinion]     `What's your take on?`:
 - [x] [opinion]     `What do you think about (O)?`:           `What do you think about` moving to Osaka?
 - [x] [opinion]     `How do you feel about (O)?`:             `How do you feel about` the service in Japan?
