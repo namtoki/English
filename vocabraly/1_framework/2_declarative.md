@@ -15,6 +15,7 @@
 - [ ] [opinion]       `I can't remember`:
   - [x]             `(sth) slipped my mind`:                  Your birthday party completely `slipped my mind`.
   - [x]             `(sth) be a blur`:                        Last weekend `was a blur`.
+  - [ ]             `I won't know until (time)`  :            `I won't know until` Friday.
 - [x] [opinion]       `I hope (sb) (do)`:                       `I hope` it doesn't rain.
 - [ ] [opinion]       `I wish (sb) (do)`:                       `I wish` I spoke French.
 - [x] [opinion]       `It's like (sth)`:                        `It's like` surfing on land.
@@ -39,7 +40,6 @@
 - [x] [opinion]       `Turns out (sb) (do)`:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [x] [opinion]       `You'd think (that) (sb) (do), but`:      `You'd think` Japan would be really technologically advanced, but ,,,
 
-- [ ] [opinion]     `I won't know until (O)`:                 `I won't know until` Friday.
 - [ ] [opinion]     `I have to say (S) (V)`:                  `I have to say` your place is adorable!
 - [ ] [opinion]     `It feels like (O)`:                      I remember my first day of high school. `It feels like` yesterday.
 - [ ] [opinion]     `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
