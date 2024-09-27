@@ -1,5 +1,7 @@
 # CLAUSE
 
+- [x] [assumption]  `Supposing (that) (S) (V)`:               `Supposing that` the fire headed our way, what would we do next?
+
 - [x] [topic]       `about (sth)`:                            `About` the food ... it is bad.
   - [x]           `in (doing) (sth)`:                       `In making a decision,` I rely not on logic but on instinct.
   - [x]           `regarding (sth)`:                        `Regarding` the subject above,,,

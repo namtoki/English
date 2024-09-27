@@ -1,30 +1,30 @@
 # QUESTION
 
-I wonder if this game is played all over the world.
-
-- [x] [opinion]     `What's your take on?`:
-- [x] [opinion]     `What do you think about (O)?`:           `What do you think about` moving to Osaka?
-- [x] [opinion]     `How do you feel about (O)?`:             `How do you feel about` the service in Japan?
-- [x] [opinion]     `What does (S) mean?`:                    `What does` “bandwidth” `mean?`
-- [x] [opinion]     `Would you like me to (V)`:               `Would you like me to` open the window?
-- [x] [opinion]     `(Do you) want me to (V)`:                `Do you want me to` cook dinner?
-- [x] [opinion]     `Would you like (N)?`:                    `Would you like` some more?
-- [ ] [opinion]     `How do you like (O)?`:                   `How do you like` your new shoes?
-- [ ] [opinion]     `How do you say (O) in English?`:
-- [ ] [opinion]     `Is (S) the same as (O)?`:                `Is this the same skirt as` in the ad?
-- [ ] [opinion]     `What can (S) do that (V)?`               `What can I do that` will make me a more well-rounded basketball player?
-- [ ] [opinion]     `Which do you prefer?`:                   `Which do you prefer`, going to the movies or watching films at home?
-- [ ] [opinion]     `Are you (V-ing)?`:                       `Are you going` to Tokyo or New York next week?
-- [ ] [opinion]     `When was the last time (S) (V)?`:        `When was the last time` you talked to him?
-- [ ] [opinion]     `Do you have the time?`:
-- [ ] [opinion]     `(By) When ... ?`:                        `(By) When` do I have to finish this?
-- [ ] [opinion]     `Do you know anyone`:                     `Do you know anyone` in New York?
-- [ ] [opinion]     `what should I do?`:                      `What should I do` in a situation like this?
-- [ ] [opinion]     `What do you mean by (O)?`:
-- [ ] [opinion]     `What's the situation with (S)?`:
-- [x] [assumption]  `What if (S) (V)?`:                       `What if I` don't meet the deadline?
-- [x] [assumption]  `Supposing (that) (S) (V)`:               `Supposing that` the fire headed our way, what would we do next?
-- [x] [assumption]  `Would it sound (A) if I said "..."?`:    `Would it sound` a little bit weird `if I said` ...
+- [x] [question]    `I wonder if (sb) (do)`:                  `I wonder if` this game is played all over the world.
+  - [x]           `I doubt (that) (sb) (do)`:               `I doubt that` he will win the race.
+  - [x]           `I suspect (that) (sb) (do)`:             `I suspect that` Tom stole the wallet.
+- [x] [question]    `What's your take on?`:
+  - [x]           `What do you think about (sth)?`:         `What do you think about` moving to Osaka?
+  - [x]           `How do you feel about (sth)?`:           `How do you feel about` the service in Japan?
+- [x] [question]    `How do you like (sth)?`:                 `How do you like` your new shoes?
+  - [x]           `Which do you prefer?`:                   `Which do you prefer`, going to the movies or watching films at home?
+- [x] [question]    `What does (sth) mean?`:                  `What does` “bandwidth” `mean?`
+  - [x]           `How do you say (sth) in English?`:
+  - [x]           `What do you mean by that?`:
+- [x] [question]    `what should I do?`:                      `What should I do` in a situation like this?
+  - [x]           `What can (sb) do that (do)?`             `What can I do that` will make me a more well-rounded basketball player?
+- [x] [question]    `(By) When ... ?`:                        `(By) When` do I have to finish this?
+  - [x]           `When was the last time (sb) (do)?`:      `When was the last time` you talked to him?
+- [x] [question]    `Are you (doing)?`:                       `Are you going` to Tokyo or New York next week?
+- [x] [question]    `Is (sth) the same as (sth)?`:            `Is this the same skirt as` in the ad?
+- [x] [question]    `Do you have the time?`:
+- [ ] [question]    `Do you know anyone`:                     `Do you know anyone` in New York?
+- [ ] [question]    `What's the situation with (sth)?`:
+- [x] [suggestion]  `Would you like me to (do)`:              `Would you like me to` open the window?
+  - [x]           `(Do you) want me to (do)`:               `Do you want me to` cook dinner?
+- [x] [suggestion]  `Would you like (sth)?`:                  `Would you like` some more?
+- [x] [assumption]  `What if (sb) (do)?`:                     `What if I` don't meet the deadline?
+- [x] [assumption]  `Would it (do) if (sb) (do)?`:            `Would it sound` a little bit weird `if I said` ...
 - [x] [assumption]  `How would you say it?`:                  If you were to state your dream, `how would you say it?`
 - [x] [suggestion]  `Would you like to (V)`:                  `Would you like to` watch it together?
 - [x] [suggestion]  `(Do you) want to (V)`:                   `Do you want to` get some food first? / `Want to` get dinner?
