@@ -30,6 +30,11 @@
   - upon/on doing:              do してすぐ
   - of X:                       X の中で (of all dishes served at the Little Bird Cafe, the Chef's Special Pizza is the most popular.)
   - likewise:                   同様に
+  - all of (the/a) sudden:      突然
+  - all of a size:              すべて同じサイズで
+  - all of a piece:             すべて同じピースで
+  - all of 数:                  せいぜい
+  - X of all Y:                 Y の中で X こそ
 - 前置詞
   - in light of:                を考慮して
   - at the conclusion of:       の終わりに
