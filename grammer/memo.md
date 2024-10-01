@@ -9,32 +9,46 @@
 ## 省略
 
 - 2 つの節の主語が同じ場合、when の直後の (主語 + be 動詞) を省略可能
-  - when, while, if
+  - when, while, if, though
 - 文頭の分詞 being が省略された分詞構文がある
   - Now a large international company, Horizon Ltd. started as a small business in South Melbourne.
 
-## 語法
+## 比較級/最上級
 
-- 接続詞
-  - provided that:              した場合のみ
-  - providing:                  した場合のみ
-  - in order that:              するために
-- 副詞
-  - otherwise:                  さもなければ
-  - therefore:                  したがって
-  - thereby:                    それによって
-  - 期間 + into X:              X に入って(期間)で Three minutes into the game, Okazaki scored.
-  - on 特定の日の時間帯:        on Sunday morning, on a hot summer afternoon, on a typical Saturday night,
-  - in 時間帯:                  in the afternoon
-  - upon/on X:                  X してすぐ (upon arrival at the company headquarters)
-  - upon/on doing:              do してすぐ
-  - of X:                       X の中で (of all dishes served at the Little Bird Cafe, the Chef's Special Pizza is the most popular.)
-  - likewise:                   同様に
-  - all of (the/a) sudden:      突然
-  - all of a size:              すべて同じサイズで
-  - all of a piece:             すべて同じピースで
-  - all of 数:                  せいぜい
-  - X of all Y:                 Y の中で X こそ
+- (among + the + 最上級 + 複数形) = (one of ...)
+- 比較級を強めることができる形容詞
+  - far, even
+- 比較級を強めることができない形容詞 (原形のみ)
+  - very, too
+- 最上級を強めることができる形容詞
+  - possible
+
+## 代名詞
+
+- 数量形容詞の代名詞
+  - 複数形
+    - few, lots, some, many, several
+  - 単数形
+    - little, much, any, every, each
+      - Much (代名詞):          多くのこと
+  - どちらにも
+    - a lot, none
+
+## 接続詞
+
+- provided that:              した場合のみ
+- providing:                  した場合のみ
+- in order that:              するために
+
+## 副詞
+
+- 期間 + into X:              X に入って(期間)で Three minutes into the game, Okazaki scored.
+- on 特定の日の時間帯:        on Sunday morning, on a hot summer afternoon, on a typical Saturday night,
+- in 時間帯:                  in the afternoon
+- upon/on X:                  X してすぐ (upon arrival at the company headquarters)
+- upon/on doing:              do してすぐ
+- of X:                       X の中で (of all dishes served at the Little Bird Cafe, the Chef's Special Pizza is the most popular.)
+
 - 前置詞
   - in light of:                を考慮して
   - at the conclusion of:       の終わりに
@@ -53,17 +67,11 @@
   - decide against doing:       しないことを決める
   - be instrumental in doing: することに重要な役割を果たす
   - spend 時間/金 on
-  - meet with X:              X という結果反応を得る
-  - expedite:                 急ぎで送る
+  - meet with X:                X という結果反応を得る
+  - expedite:                   急ぎで送る
+  - be commited to (sth):       に熱心に取り組む
 - 形容詞
   - established:                既存の
   - timely は形容詞
-- 分詞構文
-  - only to do:                 結局ただ するだけの結果になる
-- 他
-  - (among + the + 最上級 + 複数形) = (one of ...)
-  - 比較級を強めることができる形容詞
-    - far
-  - 比較級を強めることができない形容詞 (原形のみ)
-    - very, too
-  - Much (代名詞):            多くのこと
+  - so (adj/adv) as to (do):        do するほど adj だ / adv に
+  - costly:                     費用の掛かる
