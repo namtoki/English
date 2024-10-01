@@ -71,7 +71,4 @@
   - expedite:                   急ぎで送る
   - be commited to (sth):       に熱心に取り組む
 - 形容詞
-  - established:                既存の
-  - timely は形容詞
-  - so (adj/adv) as to (do):        do するほど adj だ / adv に
   - costly:                     費用の掛かる
