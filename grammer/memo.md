@@ -4,6 +4,7 @@
 
 - require などの要求を表す動詞に続く that 節では、V 節が原型になる
   - 仮定法現在 <https://blogmae.com/ieltsblog-grammar5/>
+  - prefer, essential
 - help (to) (原形): The brochure helped me find the information
 
 ## 省略
