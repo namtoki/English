@@ -35,12 +35,6 @@
   - どちらにも
     - a lot, none
 
-## 接続詞
-
-- provided that:              した場合のみ
-- providing:                  した場合のみ
-- in order that:              するために
-
 ## 副詞
 
 - 期間 + into X:              X に入って(期間)で Three minutes into the game, Okazaki scored.
@@ -49,27 +43,3 @@
 - upon/on X:                  X してすぐ (upon arrival at the company headquarters)
 - upon/on doing:              do してすぐ
 - of X:                       X の中で (of all dishes served at the Little Bird Cafe, the Chef's Special Pizza is the most popular.)
-
-- 前置詞
-  - in light of:                を考慮して
-  - at the conclusion of:       の終わりに
-  - at the beginning of:        の初めに
-  - at the start of:            の初めに
-  - in support of:              を支持して
-  - for the length of:          の間中ずっと
-  - starting (at/on/in/from):   () は省略可能
-  - beginning (at/on/in/from):  () は省略可能
-  - in the employ of:           に雇われて
-- 動詞
-  - comment on:                 についてコメントする
-  - be poised to:               について準備ができている
-  - report to work:             出勤する
-  - hold X accountable:         X に責任があると考えている
-  - decide against doing:       しないことを決める
-  - be instrumental in doing: することに重要な役割を果たす
-  - spend 時間/金 on
-  - meet with X:                X という結果反応を得る
-  - expedite:                   急ぎで送る
-  - be commited to (sth):       に熱心に取り組む
-- 形容詞
-  - costly:                     費用の掛かる
