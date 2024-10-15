@@ -9,8 +9,6 @@
 
 ## 省略
 
-- 2 つの節の主語が同じ場合、when の直後の (主語 + be 動詞) を省略可能
-  - when, while, if, though
 - 文頭の分詞 being が省略された分詞構文がある
   - Now a large international company, Horizon Ltd. started as a small business in South Melbourne.
 
@@ -43,3 +41,7 @@
 - upon/on X:                  X してすぐ (upon arrival at the company headquarters)
 - upon/on doing:              do してすぐ
 - of X:                       X の中で (of all dishes served at the Little Bird Cafe, the Chef's Special Pizza is the most popular.)
+
+## 動詞
+
+- have A done:                I had my hair cut.
