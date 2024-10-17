@@ -1,4 +1,4 @@
-# DOKKAI
+# STRUCTURE
 
 ## Basic
 
@@ -28,6 +28,15 @@
 
 - 省略1         並行構文では後にくる文の動詞、動詞を含むその他の要素が省略されることがある / He went one way; she ( ) the other ( ).
 - 省略2         2つの節の主語が同じ場合、副詞節中の(主語+be動詞)を省略可能 / when,while,if,though / if any (条件/譲歩), if ever(譲歩), if necessary, if possible
+- 潜在仮定法
+  - 副詞句:     What would you have done in my position?
+  - without:    You couldn't have left the country without passport.
+  - but for:    But for the rain we would have had a nice holiday.
+  - otherwise:  I drove at full speed; otherwise I might have missed the last train for Nagoya.
+  - 不定詞句:   To hear him sing, you would burst out laughing.
+  - 分詞句:     The same thing, happening in a crowded place, would amount to disaster.
+  - 関係詞節:   A machine that broke down every other day would be of little use.
+  - 主語:       A more skillful teacher would have treated that child differently.
 
 ## 倒置
 
@@ -37,25 +46,8 @@
 - So+C+be+S+that                So friendly was his letter that she was deeply moved.
 - Such+be+S+that                Such was his anger that he lost control of himself.
 - So+助動詞/do/be+S             So do I. / and so could the weary adults who had read it to her, over and over.
+- 仮定法                        Had you listened to her, you wouldn't have been in such trouble.
 
-## 時制
+## 挿入
 
-- He is said `to have worked` hard when young.
-
-## 分詞構文
-
-- 形容詞で始まる (Being が省略されている) / Unable to understand what he said, she turned to me for help.
-- 受動態分詞構文 (Being が省略されている) / Used as medicines in small quantities, certain poisons prove beneficial.
-- 独立分詞構文 (主節と主語が違うなら主語を添える) / The last bus having gone, we had to walk home.
-
-## その他語法
-
-- writes `of the distant past` / hear `of A` / know `of A`
-- `some clue`, `some clues`
-- Lend me `what books you can`. = Lend me `all the books you can`.
-- It is `not so much` that democracy is positively good `as` that is makes impossible certain great evils which are apt to exist under other systems.
-- inform `A of B` / inform `A that 節/疑問詞節`
-- 関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
-- `and then` その上/しかも
-- `no more than A` = only A
-- 不定詞の意味上の主語: I have to work hard for my daughter to study abroad.
+- that 節をとる S+V は前後にカンマを置いて挿入表現となる
