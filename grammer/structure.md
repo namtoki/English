@@ -1,34 +1,31 @@
 # STRUCTURE
 
-## Basic
-
-- [vi.] S+V
-- [vi.] S+V+C
-  - be: be
-  - remain: remain, keep, hold, lie, stay
-  - become: become, get, grow, turn, come, go, fall, run, prove
-  - feel: feel, taste, smell, sound, look, appear, seem
-- [vt.] S+V+O     〜を
-- [vt.] S+V+O+O
-  - give: allow, bring, deny, do, hand, lend, offer, owe, pass, pay, promise, read, sell, send, show, take, teach, tell, write
-  - buy: buy, choose, cook, find, get, leave, make, order
-  - other: take, cost, save, spare
-- [vt.] S+V+O+C
-
-## 要素の移動
-
-- S+V+副詞句+O
-- O+S+V
-- C+be+S        C が比較表現や比較の意識のある表現の場合も多い  Bur far more important is what he did. / Equally important is what he did.
-- S+V+C+O       Agriculture made possible an immense increase in the number of the human species in the regions where it could be successfully practised.
-- S+V+A+前+B    accuse A of B, add A to B, adjust A to B, apply A to B, associate A with B,,,
-- S+V+前+B+A
-
-## 省略
-
-- 省略1         並行構文では後にくる文の動詞、動詞を含むその他の要素が省略されることがある / He went one way; she ( ) the other ( ).
-- 省略2         2つの節の主語が同じ場合、副詞節中の(主語+be動詞)を省略可能 / when,while,if,though / if any (条件/譲歩), if ever(譲歩), if necessary, if possible
-- 潜在仮定法
+- [Basic] [vi.] S+V:
+- [Basic] [vi.] S+V+C:        be, remain (keep,hold,lie,stay), become (get,grow,turn,come,go,fall,run,prove), feel (taste,smell,sound,look,appear,seem)
+- [Basic] [vt.] S+V+O:        〜を
+- [Basic] [vt.] S+V+O+O:      give型, buy型, 他
+- [Basic] [vt.] S+V+O+C
+- [要素移動] S+V+副詞句+O:
+- [要素移動] O+S+V:
+- [要素移動] C+V+S:         C が比較表現や比較の意識のある表現の場合も多い
+  - Bur far more important is what he did.
+  - Equally important is what he did.
+  - On the ability of individuals to learn to live in harmony with others depends the future of mankind and the world.
+- [要素移動] S+V+C+O:       Agriculture made possible an immense increase in the number of the human species in the regions where it could ...
+- [要素移動] S+V+A+前+B:    accuse A of B, add A to B, adjust A to B, apply A to B, associate A with B,,,
+- [要素移動] S+V+前+B+A:
+- [要素移動] 比較対象早出し:
+  - They are freer `than they have ever been before` simply to be children.
+  - Japan has become more dependent `than any other country` on global trade and world peace.
+  - I would like you to be as interested `as you have been` in the political problems of Japan.
+- [省略] S+Vの省略1:        並行構文では後にくる文の動詞、動詞を含むその他の要素が省略されることがある / He went one way; she ( ) the other ( ).
+- [省略] S+Vの省略2:        2つの節の主語が同じ場合、副詞節中の(主語+be動詞)を省略可能 / when,while,if,though
+  - if any (条件/譲歩), if ever(譲歩), if necessary, if possible
+- [省略] 関係副詞か先行詞:
+  - I don't know the reason why my daughter went there alone.
+  - I don't know the reason     my daughter went there alone.
+  - I don't know            why my daughter went there alone.
+- [省略] 潜在仮定法
   - 副詞句:     What would you have done in my position?
   - without:    You couldn't have left the country without passport.
   - but for:    But for the rain we would have had a nice holiday.
@@ -37,17 +34,15 @@
   - 分詞句:     The same thing, happening in a crowded place, would amount to disaster.
   - 関係詞節:   A machine that broke down every other day would be of little use.
   - 主語:       A more skillful teacher would have treated that child differently.
-
-## 倒置
-
-- 否定の副詞表現+助動詞+S+V     Never again will the world and everything in it be so excitingly new.
-- 否定の副詞表現+be+S           Not until the next day was she told about it.
-- only の副詞表現+助動詞+S+V    Only afterwards did he explain why he had gone there.
-- So+C+be+S+that                So friendly was his letter that she was deeply moved.
-- Such+be+S+that                Such was his anger that he lost control of himself.
-- So+助動詞/do/be+S             So do I. / and so could the weary adults who had read it to her, over and over.
-- 仮定法                        Had you listened to her, you wouldn't have been in such trouble.
-
-## 挿入
-
-- that 節をとる S+V は前後にカンマを置いて挿入表現となる
+- [省略] 比較表現において、as/than 以下で副詞表現のみが示されている場合は、S+V の英文構造が省略されていると考えれば良い
+  - The sisuation has turned much worse than ( ) before. (it was)
+- [省略] 比較対象自体の省略
+- [倒置] 否定の副詞表現+助動詞+S+V     Never again will the world and everything in it be so excitingly new.
+- [倒置] 否定の副詞表現+be+S           Not until the next day was she told about it.
+- [倒置] only の副詞表現+助動詞+S+V    Only afterwards did he explain why he had gone there.
+- [倒置] So+C+be+S+that                So friendly was his letter that she was deeply moved.
+- [倒置] Such+be+S+that                Such was his anger that he lost control of himself.
+- [倒置] So+助動詞/do/be+S             So do I. / and so could the weary adults who had read it to her, over and over.
+- [倒置] 仮定法の条件文                Had you listened to her, you wouldn't have been in such trouble.
+- [倒置] 原級/比較級比較 as/than 以下  Prehistoric man may well have had as much brain power as `has the man of today`.
+- [倒置] that 節をとる S+V は前後にカンマを置いて挿入表現となる
