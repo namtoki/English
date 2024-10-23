@@ -1,11 +1,7 @@
 # GRAMMER (BASIC)
 
-## 原形動詞のやつ
-
-- require などの要求を表す動詞に続く that 節では、V 節が原型になる
-  - 仮定法現在 <https://blogmae.com/ieltsblog-grammar5/>
-  - prefer, essential
-- help (to) (原形): The brochure helped me find the information
+- [仮定法現在] S+V+that+原形動詞 (提案,要求,希望,勧告): advise, ask, demand, desire, insist, move, propose, recommend, request, require, suggest
+- [仮定法現在] S+V+that+原形動詞 (必要,重要,妥当):      advisable, compulsory, crucial, desirable, essential, fair, imperative, important, necessary, proper, vital
 
 ## 比較級/最上級
 
