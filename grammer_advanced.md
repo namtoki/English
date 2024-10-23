@@ -1,4 +1,4 @@
-# STRUCTURE
+# GRAMMER (ADVANCED)
 
 - [Basic] [vi.] S+V:
 - [Basic] [vi.] S+V+C:                    be, remain (keep,hold,lie,stay), become (get,grow,turn,come,go,fall,run,prove), feel (taste,smell,sound,look,appear,seem)

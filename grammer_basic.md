@@ -1,4 +1,4 @@
-# MEMO
+# GRAMMER (BASIC)
 
 ## 原形動詞のやつ
 
