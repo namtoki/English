@@ -1,14 +1,13 @@
 # USAGE (STRUCTURE)
 
 - [重要] 不定詞の意味上の主語:                  I have to work hard `for my daughter` to study abroad.
-- [客観] (sb) be said to (V):                   He is said `to have worked` hard when young.
+- [客観] S be said to V:                        He is said `to have worked` hard when young.
+- [主観] [推測] I'd say (that) S V:               `I'd say` it's usually more art than science.
+- [主観] [推測] I have a feeling/hunch that S V:  `I have a feeling that` there's more to it.
+- [主観] [断定] I find O C:                       `I find it really interesting` to study English.
 - [訂正] (It is) not that .. but (that) ..:
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 
-- [x] [opinion]     `I think`:
-  - [x]           `I'd say (that) (sb) (do)`:               `I'd say` it's usually more art than science.
-  - [x]           `I have a feeling/hunch that (sb) (do)`:  `I have a feeling that` there's more to it.
-  - [x]           `I find (sth) (adj)`:                     `I find it really interesting` to study English.
   - [x]           `It occurs to me that (sb) (do)`:         `It occurs to me that` I've never asked your name.
   - [x]           `It's (adj) how (sb) (do)`:               `It's interesting how` you said that.
   - [ ]           `I believe (sb) (do)`:                    `I believe` she drives a white truck.
