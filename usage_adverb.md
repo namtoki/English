@@ -6,3 +6,4 @@
 - upon/on X:                  X してすぐ (upon arrival at the company headquarters)
 - upon/on doing:              do してすぐ
 - of X:                       X の中で (of all dishes served at the Little Bird Cafe, the Chef's Special Pizza is the most popular.)
+- `no more than A` = only A
