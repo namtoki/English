@@ -1,10 +1,5 @@
 # GRAMMER (ADVANCED)
 
-- [Basic] [vi.] S+V:
-- [Basic] [vi.] S+V+C:                    be, remain (keep,hold,lie,stay), become (get,grow,turn,come,go,fall,run,prove), feel (taste,smell,sound,look,appear,seem)
-- [Basic] [vt.] S+V+O:                    〜を
-- [Basic] [vt.] S+V+O+O:                  give型, buy型, 他
-- [Basic] [vt.] S+V+O+C
 - [要素移動] S+V+副詞句+O:
 - [要素移動] O+S+V:
 - [要素移動] C+V+S (C=比較の意識):      `Bur far more important` is what he did. / `Equally important` is what he did.
@@ -36,3 +31,4 @@
 - [倒置] 仮定法の条件文:                `Had you listened to her`, you wouldn't have been in such trouble.
 - [倒置] 原級/比較級比較 as/than 以下:  Prehistoric man may well have had as much brain power as `has the man of today`.
 - [挿入] that 節をとる S+V:             前後にカンマを置いて挿入表現となる
+- 関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
