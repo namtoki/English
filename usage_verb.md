@@ -6,3 +6,4 @@
 - [語法] help (to) 原形動詞:            The brochure helped me find the information
 - [語法] inform A of B:
 - [語法] inform A that 節/疑問詞節:
+- [語法] hope for:                      We have been `hoping for` a pay raise.

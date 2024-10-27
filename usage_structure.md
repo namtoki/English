@@ -2,11 +2,11 @@
 
 - [重要] 不定詞の意味上の主語:                  I have to work hard `for my daughter` to study abroad.
 - [客観] [物事] S be said to V:                   He is said `to have worked` hard when young.
-- [主観] [推測] I'd say (that) S V:               `I'd say` it's usually more art than science.
-- [主観] [推測] I have a feeling/hunch that S V:  `I have a feeling that` there's more to it.
-- [主観] [推測] I'm sure (that) S V:              `I am sure that` I will enjoy the movie.
-- [主観] [推測] I'm sure of (sth):                `I am sure of` enjoying the movie.
-- [主観] [推測] S be sure to V:                   You `are sure to` see many animals there.
+- [主観] [多分] I'd say (that) S V:               `I'd say` it's usually more art than science.
+- [主観] [多分] I have a feeling/hunch that S V:  `I have a feeling that` there's more to it.
+- [主観] [多分] I'm sure (that) S V:              `I am sure that` I will enjoy the movie.
+- [主観] [多分] I'm sure of (sth):                `I am sure of` enjoying the movie.
+- [主観] [多分] S be sure to V:                   You `are sure to` see many animals there.
 - [主観] [意見] I find O C:                       `I find it really interesting` to study English.
 - [主観] [意見] It's C how S V:                   `It's interesting how` you said that.
 - [主観] [意見] I believe in O:                   `I don't believe in` ghosts.
@@ -17,10 +17,10 @@
 - [主観] [物事] I believe (that) S V:             `I believe` she drives a white truck.
 - [主観] [即興] It occurs to me that S V:         `It occurs to me that` I've never asked your name.
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
+- [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [訂正] (It is) not that .. but (that) ..:
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 
-- [x] [opinion]     `I hope (sb) (do)`:                       `I hope` it doesn't rain.
 - [ ] [opinion]     `I wish (sb) (do)`:                       `I wish` I spoke French.
 - [x] [opinion]     `It's like (sth)`:                        `It's like` surfing on land.
   - [x]           `It's kind of like (sth)`:                `It's kind of like` a noodle, but not exactly.

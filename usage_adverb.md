@@ -6,3 +6,5 @@
 - [when] upon/on X/doing:               X してすぐ `upon arrival at the company headquarters`
 - [比較] of X:                          X の中で `of all dishes served at the Little Bird Cafe`, the Chef's Special Pizza is the most popular.
 - [強調] no more than A:                = only A
+- [目的] in (the) hope(s) of/that ...:  I didn't phone till four o'clock `in the hope that` you'd be finished.
+- [目的] hoping ...:                    We've postponed the game until Monday hoping that the weather will improve.
