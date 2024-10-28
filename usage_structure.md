@@ -10,33 +10,33 @@
 - [主観] [意見] I find O C:                       `I find it really interesting` to study English.
 - [主観] [意見] It's C how S V:                   `It's interesting how` you said that.
 - [主観] [意見] I believe in O:                   `I don't believe in` ghosts.
+- [主観] [意見] I believe (that) S V:             `I believe` she drives a white truck.
 - [主観] [意見] I can't remember:
 - [主観] [意見] S slipped my mind:                Your birthday party completely `slipped my mind`.
 - [主観] [意見] S be a blur:                      Last weekend `was a blur`.
 - [主観] [意見] I won't know until (time):        `I won't know until` Friday.
-- [主観] [物事] I believe (that) S V:             `I believe` she drives a white truck.
-- [主観] [即興] It occurs to me that S V:         `It occurs to me that` I've never asked your name.
+- [主観] [意見] It occurs to me that S V:         `It occurs to me that` I've never asked your name.
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
+- [主観] [感情] I wish S V:                       `I wish` I spoke French.
+- [補足] It's like O:                           `It's like` surfing on land.
+- [補足] It's kind of like O:                   `It's kind of like` a noodle, but not exactly.
+- [補足] It’s almost like O:                    `It’s almost like` Christmas.
+- [補足] [理由] It's the fact that S V:           But not because it's so big. `It's the fact that` it's so diverse.
+- [補足] [理由] It's not the fact that S V:       `It's not the fact that` I find him boring.
+- [補足] [理由] It's not just the fact that S V:  `It's not just the fact that` you called me during a meeting.
+- [補足] [理由] just because ... doesn't mean:    `Just because` he smiles a lot `doesn't mean` he's kind.
 - [訂正] (It is) not that .. but (that) ..:
+- [訂正] I didn't mean it.:
+- [訂正] It's not that S V:                     `It's not like` Joe is a bad guy. He is just shady sometimes.
+- [訂正] It's not like S V:
+- [訂正] [補足] It's more like S V:
+- [訂正] [補足] It's more that S V:
+- [訂正] It's just that S V:
+- [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
+- [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 
-- [ ] [opinion]     `I wish (sb) (do)`:                       `I wish` I spoke French.
-- [x] [opinion]     `It's like (sth)`:                        `It's like` surfing on land.
-  - [x]           `It's kind of like (sth)`:                `It's kind of like` a noodle, but not exactly.
-  - [x]           `It’s almost like (sth)`:                 `It’s almost like` Christmas.
-- [x] [opinion]     `I didn't mean it.`:
-  - [x]           `It's not that (sb) (do)`:                `It's not like` Joe is a bad guy. He is just shady sometimes.
-  - [x]           `It's not like (sb) (do)`:
-  - [ ]           `I'm just trying to (do)`:                 `I'm just trying to` explain what happened.
-- [x] [opinion]     `It's just that (sb) (do)`:
-  - [x]           `I was just saying`:                      No! `I was just saying` ... it's a new look for you.
-- [x] [opinion]     `It's more like (sb) (do)`:
-  - [x]           `It's more that (sb) (do)`:
-- [x] [opinion]     `It's the fact that (sb) (do)`:           But not because it's so big. `It's the fact that` it's so diverse.
-  - [x]           `It's not the fact that (sb) (do)`:       `It's not the fact that` I find him boring.
-  - [x]           `It's not just the fact that (sb) (do)`:  `It's not just the fact that` you called me during a meeting.
-  - [ ]           `just because ... doesn't mean`:          `Just because` he smiles a lot `doesn't mean` he's kind.
 - [x] [opinion]     `~~. That's not to say (that) (sb) (do)`: `That's not to say that` it'll be impossible without it, but,,,
 - [x] [opinion]     `The same is the case with (sth)`:        `The same is the case with` "hear" and "about".
 - [x] [opinion]     `It depends (sth)`:                       `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
