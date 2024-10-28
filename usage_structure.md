@@ -1,5 +1,7 @@
 # USAGE (STRUCTURE)
 
+## DECLARATIVE
+
 - [重要] 不定詞の意味上の主語:                  I have to work hard `for my daughter` to study abroad.
 - [お題] You know (that) S V:                   `You know that` guy we met at the party last week?
 - [客観] [物事] S be said to V:                   He is said `to have worked` hard when young.
@@ -40,6 +42,11 @@
 - [補足] [理由] It's not just the fact that S V:  `It's not just the fact that` you called me during a meeting.
 - [補足] [理由] just because ... doesn't mean:    `Just because` he smiles a lot `doesn't mean` he's kind.
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
+
+## QUESTION
+
+- [感想] How do you like O?:                    `How do you like` your new shoes?
+- [感想] Which do you prefer?:                  `Which do you prefer`, going to the movies or watching films at home?
 
 - [x] [opinion]     `The same is the case with (sth)`:        `The same is the case with` "hear" and "about".
 - [x] [opinion]     `It depends (sth)`:                       `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
@@ -179,8 +186,6 @@
 - [x] [question]    `What's your take on?`:
   - [x]           `What do you think about (sth)?`:         `What do you think about` moving to Osaka?
   - [x]           `How do you feel about (sth)?`:           `How do you feel about` the service in Japan?
-- [x] [question]    `How do you like (sth)?`:                 `How do you like` your new shoes?
-  - [x]           `Which do you prefer?`:                   `Which do you prefer`, going to the movies or watching films at home?
 - [x] [question]    `What does (sth) mean?`:                  `What does` “bandwidth” `mean?`
   - [x]           `How do you say (sth) in English?`:
   - [x]           `What do you mean by that?`:
