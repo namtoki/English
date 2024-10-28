@@ -7,3 +7,4 @@
 - [語法] inform A of B:
 - [語法] inform A that 節/疑問詞節:
 - [語法] hope for:                      We have been `hoping for` a pay raise.
+- [語法] exit (from/out of):            exit a door / exit from a door / exit out of a door

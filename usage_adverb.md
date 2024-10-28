@@ -1,10 +1,57 @@
 # USAGE (ADVERB)
 
+- [when] [一般] [日] on Sundays:            I play tennis `on Sundays`.
+- [when] [一般] [日] on weekends:           I often go to the beach `on weekends`.
+- [when] [一般] [日] on (A) days:           I don't close this door `on hot days`.
+- [when] [一般] [時] first thing:          I'll see you `first thing` in the morning. / Please get it to me `first thing`
+- [when] [一般] [時] at daybreak:
+- [when] [一般] [時] bright and early:     You can get your hands on the product `bright and early`.
+- [when] [一般] [時] in the early morning:
+- [when] [一般] [時] in the morning:
+- [when] [一般] [時] in the mid-morning:   It means about 9:00 or 10:00 `in the morning`.
+- [when] [一般] [時] at noon:              I'll be back on Monday `at noon`.
+- [when] [一般] [時] in the afternoon:
+- [when] [一般] [時] in the early evening: 夕方
+- [when] [一般] [時] in the evening:
+- [when] [一般] [時] at night:
+- [when] [一般] [時] at dawn:              夜明け
+- [when] [特定] [日] next/this/on Sunday:
+- [when] [特定] [日] next/this/onthe weekend:
+- [when] [特定] [時] on 特定の日の時間帯:  `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
 - [when] 期間 + into X:                 X に入って(期間)で `Three minutes into the game`, Okazaki scored.
-- [when] on 特定の日の時間帯:           `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
 - [when] in 時間帯:                     `in the afternoon`
 - [when] upon/on X/doing:               X してすぐ `upon arrival at the company headquarters`
+- [when] any day now:                   = very soon
+
+- [x] `from now on`:                            I have to cut down on my expenses, `so from now on`, I'm ~~
+- [ ] `for years to come`:                      the birthrate will continue to decline steadily `for years to come`.
+- [ ] `for good`:                               We're through `for good this time`.
+- [ ] `right away`:                             I'll come `right away`.
+- [ ] `by now`:                                 You must be hungry `by now`.
+- [ ] `in (just) a little bit`:                 The ambulance will get here `in just a little bit`.
+- [ ] `shortly`:
+- [ ] `soon`:
+- [ ] `before long`:                            `Before long`, they will enter a crucial phase.
+- [x] `at some point`:                          We should really clean the fridge `at some point`.
+- [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
+- [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.
+- [ ] `(N) at the latest`:                      Please estimate the losses by Friday `at the latest`. I'll manage it somehow.
+- [ ] `every (N)`:                              The vehicles are inspected for defects `every three months`.
+- [ ] `every other (day | month | year)`:       I work out at the health club `every other day`.
+- [x] `every time (S) (V)`:                     `Every time` you make them, they are perfect.
+- [ ] `last thing`:                             `last thing` at night.
+- [ ] `meanwhile`:                              We can go out tomorrow, `meanwhile` I'll teach you how to play bridge.
+- [ ] `after a while`:                          He fainted with hunger and fatigue, but came to `after a while`.
+- [ ] `toward the end of (O)`:                  He was a samurai who lived `towards the end of` the Heian period.
+- [ ] `for the moment`:                         I will make it do `for the moment`.
+- [x] `now that (S) (V)`:                       `Now that` things are better, we should talk about the problem.
+- [ ] `in the middle of`:                       He fell asleep `in the middle of` the sales meeting.
+- [x] `at the same time`:                       It's hard being the writer and an actor `at the same time.`
+- [x] `up-front`:                               This hotel requires a cash deposit `up-front.`
+- [x] `in advance`:
+
 - [比較] of X:                          X の中で `of all dishes served at the Little Bird Cafe`, the Chef's Special Pizza is the most popular.
 - [強調] no more than A:                = only A
 - [目的] in (the) hope(s) of/that ...:  I didn't phone till four o'clock `in the hope that` you'd be finished.
 - [目的] hoping ...:                    We've postponed the game until Monday hoping that the weather will improve.
+- [意見] the way I see it,:             `The way I see it`, it's too simplistic to say that the only way to stop a bad guy with a gun is a good guy with a gun.

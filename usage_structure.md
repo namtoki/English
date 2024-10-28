@@ -1,6 +1,7 @@
 # USAGE (STRUCTURE)
 
 - [重要] 不定詞の意味上の主語:                  I have to work hard `for my daughter` to study abroad.
+- [お題] You know (that) S V:                   `You know that` guy we met at the party last week?
 - [客観] [物事] S be said to V:                   He is said `to have worked` hard when young.
 - [主観] [多分] I'd say (that) S V:               `I'd say` it's usually more art than science.
 - [主観] [多分] I have a feeling/hunch that S V:  `I have a feeling that` there's more to it.
@@ -14,6 +15,8 @@
 - [主観] [意見] I can't remember:
 - [主観] [意見] S slipped my mind:                Your birthday party completely `slipped my mind`.
 - [主観] [意見] S be a blur:                      Last weekend `was a blur`.
+- [主観] [意見] That's not the way I see it:      `That's not the way I see it.`
+- [主観] [意見] I doubt (that):                   `I doubt that` it would be too much of a problem.
 - [主観] [意見] I won't know until (time):        `I won't know until` Friday.
 - [主観] [意見] It occurs to me that S V:         `It occurs to me that` I've never asked your name.
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
@@ -500,24 +503,6 @@
 - [x] `(S) in itself`:                          The revolution `in itself`, bore no fruit, after all.
 - [ ] `to go`:                                  We have ten minutes `to go`.
 
-## TIME (FUTURE)
-
-- [ ] `(next | this | on) Sunday`
-- [ ] `(next | this | on the) weekend`
-- [x] `from now on`:                            I have to cut down on my expenses, `so from now on`, I'm ~~
-- [ ] `for years to come`:                      the birthrate will continue to decline steadily `for years to come`.
-- [ ] `for good`:                               We're through `for good this time`.
-- [ ] `right away`:                             I'll come `right away`.
-- [ ] `by now`:                                 You must be hungry `by now`.
-- [ ] `in (just) a little bit`:                 The ambulance will get here `in just a little bit`.
-- [ ] `shortly`:
-- [ ] `soon`:
-- [ ] `before long`:                            `Before long`, they will enter a crucial phase.
-- [x] `at some point`:                          We should really clean the fridge `at some point`.
-- [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
-- [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.
-- [ ] `(N) at the latest`:                      Please estimate the losses by Friday `at the latest`. I'll manage it somehow.
-
 ## TIME (PAST)
 
 - [ ] `(last | this | on) Sunday`
@@ -542,37 +527,6 @@
 - [x] `soon after that`:                        I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
 - [x] `(N) after that`:                         an hour `after that` / two weeks `after that` / a few years `after that`
 - [x] `afterwards`:                             We’ll grab dinner and go to karaoke `afterward(s)`.
-
-## TIME (ABOUT)
-
-- [ ] `on Sundays`:                             I play tennis `on Sundays`.
-- [ ] `on weekends`:                            I often go to the beach `on weekends`.
-- [ ] `on (A) days`:                            I don't close this door `on hot days`.
-- [ ] `every (N)`:                              The vehicles are inspected for defects `every three months`.
-- [ ] `every other (day | month | year)`:       I work out at the health club `every other day`.
-- [x] `every time (S) (V)`:                     `Every time` you make them, they are perfect.
-- [ ] `first thing`:                            I'll see you `first thing` in the morning. / Please get it to me `first thing`
-- [ ] `at daybreak`:
-- [ ] `bright and early`:                       You can get your hands on the product `bright and early`.
-- [ ] `in the early morning`:
-- [ ] `in the morning`:`
-- [ ] `in the mid-morning`:                     It means about 9:00 or 10:00 in the morning.
-- [ ] `at noon`:                                I'll be back on Monday `at noon`.
-- [ ] `in the afternoon`:
-- [ ] `in the early evening`:                   夕方
-- [ ] `in the evening`:`
-- [ ] `at night`:
-- [ ] `at dawn`:                                夜明け
-- [ ] `last thing`:                             `last thing` at night.
-- [ ] `meanwhile`:                              We can go out tomorrow, `meanwhile` I'll teach you how to play bridge.
-- [ ] `after a while`:                          He fainted with hunger and fatigue, but came to `after a while`.
-- [ ] `toward the end of (O)`:                  He was a samurai who lived `towards the end of` the Heian period.
-- [ ] `for the moment`:                         I will make it do `for the moment`.
-- [x] `now that (S) (V)`:                       `Now that` things are better, we should talk about the problem.
-- [ ] `in the middle of`:                       He fell asleep `in the middle of` the sales meeting.
-- [x] `at the same time`:                       It's hard being the writer and an actor `at the same time.`
-- [x] `up-front`:                               This hotel requires a cash deposit `up-front.`
-- [x] `in advance`:
 
 ## LOCATION
 
