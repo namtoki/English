@@ -8,4 +8,5 @@
 - [語法] hope of:                       する希望 / する見込み / I have no `hope of` getting financial support for the project.
 - [語法] hope for:                      うまく行くことに対する希望 / many people once again have `hope for` genuine changes in the system.
 - [複合] trade exhibition:              展示会
+- [複合] commuter train:                通勤列車
 - [語法] commitment / commitments:      献身 / 約束

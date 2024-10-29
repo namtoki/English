@@ -8,3 +8,5 @@
 - [語法] inform A that 節/疑問詞節:
 - [語法] hope for:                      We have been `hoping for` a pay raise.
 - [語法] exit (from/out of):            exit a door / exit from a door / exit out of a door
+- [O1O2] grant A B:
+- [idiom] give it a though:             I'll `give it a thought` and get back to you.

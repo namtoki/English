@@ -3,25 +3,35 @@
 - [when] [一般] [日] on Sundays:            I play tennis `on Sundays`.
 - [when] [一般] [日] on weekends:           I often go to the beach `on weekends`.
 - [when] [一般] [日] on (A) days:           I don't close this door `on hot days`.
-- [when] [一般] [時] first thing:          I'll see you `first thing` in the morning. / Please get it to me `first thing`
+- [when] [一般] [時] first thing:           I'll see you `first thing` in the morning. / Please get it to me `first thing`
 - [when] [一般] [時] at daybreak:
-- [when] [一般] [時] bright and early:     You can get your hands on the product `bright and early`.
+- [when] [一般] [時] bright and early:      You can get your hands on the product `bright and early`.
 - [when] [一般] [時] in the early morning:
 - [when] [一般] [時] in the morning:
-- [when] [一般] [時] in the mid-morning:   It means about 9:00 or 10:00 `in the morning`.
-- [when] [一般] [時] at noon:              I'll be back on Monday `at noon`.
+- [when] [一般] [時] in the mid-morning:    It means about 9:00 or 10:00 `in the morning`.
+- [when] [一般] [時] at noon:               I'll be back on Monday `at noon`.
 - [when] [一般] [時] in the afternoon:
-- [when] [一般] [時] in the early evening: 夕方
+- [when] [一般] [時] in the early evening:  夕方
 - [when] [一般] [時] in the evening:
 - [when] [一般] [時] at night:
-- [when] [一般] [時] at dawn:              夜明け
+- [when] [一般] [時] at dawn:               夜明け
 - [when] [特定] [日] next/this/on Sunday:
 - [when] [特定] [日] next/this/onthe weekend:
-- [when] [特定] [時] on 特定の日の時間帯:  `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
+- [when] [特定] [時] on 特定の日の時間帯:   `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
 - [when] 期間 + into X:                 X に入って(期間)で `Three minutes into the game`, Okazaki scored.
 - [when] in 時間帯:                     `in the afternoon`
 - [when] upon/on X/doing:               X してすぐ `upon arrival at the company headquarters`
 - [when] any day now:                   = very soon
+- [focus] about O:                      `About` the food ... it is bad.
+- [focus] on O:                         thesis `on` education
+- [focus] in V-ing O:                   `In making a decision,` I rely not on logic but on instinct.
+- [focus] regarding O:                  `Regarding` the subject above,,,
+- [focus] in terms of O:                I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- [focus] O-wise:                       `Staffing-wise,` I think it’s all right.
+- [focus] with/in regard to O:          `With regard to` the notes below
+- [focus] concerning O:                 `concerning` the changes that were recently made,,,
+- [focus] as for O:                     `As for` the cost per person
+- [focus] as to O:                      discussion `as to` which university is the best university.
 
 - [x] `from now on`:                            I have to cut down on my expenses, `so from now on`, I'm ~~
 - [ ] `for years to come`:                      the birthrate will continue to decline steadily `for years to come`.
