@@ -9,4 +9,5 @@
 - [語法] hope for:                      うまく行くことに対する希望 / many people once again have `hope for` genuine changes in the system.
 - [複合] trade exhibition:              展示会
 - [複合] commuter train:                通勤列車
+- [複合] repeat business:               常連
 - [語法] commitment / commitments:      献身 / 約束
