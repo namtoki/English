@@ -7,7 +7,10 @@
 - [idiom] what 名詞 S+V:                Lend me `what books you can`. = Lend me `all the books you can`.
 - [語法] hope of:                       する希望 / する見込み / I have no `hope of` getting financial support for the project.
 - [語法] hope for:                      うまく行くことに対する希望 / many people once again have `hope for` genuine changes in the system.
+- [語法] commitment | commitments:      献身 | 約束
+- [語法] custom | customs:              習慣 | 税関
+- [語法] premise | premises:            前提 | 家屋,建物,構内,敷地内
 - [複合] trade exhibition:              展示会
 - [複合] commuter train:                通勤列車
 - [複合] repeat business:               常連
-- [語法] commitment / commitments:      献身 / 約束
+- [複合] enrollment quota:              入学定員数

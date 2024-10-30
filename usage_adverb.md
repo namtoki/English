@@ -18,10 +18,20 @@
 - [when] [特定] [日] next/this/on Sunday:
 - [when] [特定] [日] next/this/onthe weekend:
 - [when] [特定] [時] on 特定の日の時間帯:   `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
-- [when] 期間 + into X:                 X に入って(期間)で `Three minutes into the game`, Okazaki scored.
-- [when] in 時間帯:                     `in the afternoon`
-- [when] upon/on X/doing:               X してすぐ `upon arrival at the company headquarters`
-- [when] any day now:                   = very soon
+- [when] [特定] [事] once:                  Call me `once` you get home.
+- [when] [特定] [事] upon/on X/doing:       X してすぐ `upon arrival at the company headquarters`
+- [when] [特定] [事] 期間 + into X:            X に入って(期間)で `Three minutes into the game`, Okazaki scored.
+- [when] [現在] from now on:              I have to cut down on my expenses, `so from now on`, I'm ~~
+- [when] [現在] by now:                   You must be hungry `by now`.
+- [when] [未来] right away:               I'll come `right away`.
+- [when] [未来] any day now:              = very soon
+- [when] [未来] soon:
+- [when] [未来] shortly:
+- [when] [未来] before long:              `Before long`, they will enter a crucial phase.
+- [when] [未来] in (just) a little bit:   The ambulance will get here `in just a little bit`.
+- [when] [未来] at some point:            We should really clean the fridge `at some point`.
+- [when] [未来] for years to come:        the birthrate will continue to decline steadily `for years to come`.
+- [when] [未来] for good:                 We're through `for good` this time.
 - [focus] about O:                      `About` the food ... it is bad.
 - [focus] on O:                         thesis `on` education
 - [focus] in V-ing O:                   `In making a decision,` I rely not on logic but on instinct.
@@ -32,17 +42,8 @@
 - [focus] concerning O:                 `concerning` the changes that were recently made,,,
 - [focus] as for O:                     `As for` the cost per person
 - [focus] as to O:                      discussion `as to` which university is the best university.
+- [how] with each passing day/year:     日を追うごとに
 
-- [x] `from now on`:                            I have to cut down on my expenses, `so from now on`, I'm ~~
-- [ ] `for years to come`:                      the birthrate will continue to decline steadily `for years to come`.
-- [ ] `for good`:                               We're through `for good this time`.
-- [ ] `right away`:                             I'll come `right away`.
-- [ ] `by now`:                                 You must be hungry `by now`.
-- [ ] `in (just) a little bit`:                 The ambulance will get here `in just a little bit`.
-- [ ] `shortly`:
-- [ ] `soon`:
-- [ ] `before long`:                            `Before long`, they will enter a crucial phase.
-- [x] `at some point`:                          We should really clean the fridge `at some point`.
 - [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
 - [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.
 - [ ] `(N) at the latest`:                      Please estimate the losses by Friday `at the latest`. I'll manage it somehow.
