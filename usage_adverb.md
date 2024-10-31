@@ -43,6 +43,8 @@
 - [focus] as for O:                     `As for` the cost per person
 - [focus] as to O:                      discussion `as to` which university is the best university.
 - [how] with each passing day/year:     日を追うごとに
+- [why] in case:                        `In case` there's an earthquake, prepare a first-aid kit.
+- [why] just in case:                   I'll write it down `just in case.`
 
 - [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
 - [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.

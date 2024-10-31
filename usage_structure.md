@@ -25,7 +25,7 @@
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.
-- [主観] [感情] S know all too well ...:          We `know all too well` how fast the weather can change here; last year our wedding got rained out. 
+- [主観] [感情] S know all too well ...:          We `know all too well` how fast the weather can change here; last year our wedding got rained out.
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
 - [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
@@ -43,6 +43,10 @@
 - [補足] [理由] It's not the fact that S V:       `It's not the fact that` I find him boring.
 - [補足] [理由] It's not just the fact that S V:  `It's not just the fact that` you called me during a meeting.
 - [補足] [理由] just because ... doesn't mean:    `Just because` he smiles a lot `doesn't mean` he's kind.
+- [補足] [理由] [直接] A is caused by B:            The periodic change `was caused by` a faulty piece of equipment.
+- [補足] [理由] [直接] A result from B:             Tsunamis generally result from earthquakes.
+- [補足] [理由] [間接] A is attributed to B:        The strength of the firm `is attributed to` its unique and future-oriented strategies.
+- [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
 - [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 

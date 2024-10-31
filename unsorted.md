@@ -83,6 +83,7 @@
 - [ ] [tense]       `(S) be going to (V)`:                    What time `are we going to` be there?
 - [ ] [tense]       `(S) be supposed to (V)`:                 What time `are we supposed to` be there?
 - [ ] [tense]       `(S) be due to (V)`:                      She `is due to` have her baby this week.
+- [ ] `due to (O)`:                             I missed school `due to` Covid-19. / She couldn't dance at the party `due to` an injury.
 - [ ] [tense]       `I will never (V) again!`:                `I will never climb` Mt.Fuji `again!`
 - [x] [probability] `It could be (that)`:                     `It could be that` Wayne's just naturally fit, but ,,,
 - [x] [probability] `Chances are (that) (S) (V)`:             It's foggy. But `chances are` it'll clear up later on.
@@ -420,13 +421,11 @@
 - [ ] `down there`:
 - [ ] `over`:                                   I invited some friends and family `over` for lunch. -->
 - [x] `at this point`:                          I'm ready to quit `at this point.`
-- [x] `just in case`:                           I'll write it down `just in case.`
 - [ ] `for a rainy day`:                        I decided to put some aside `for a rainy day.`
 - [ ] `because (S) (V)`:
 - [ ] `because of (N)`:
 - [ ] `since (S) (V)`:                          既出
 - [ ] `as (S) (V)`:                             補足的
-- [ ] `due to (O)`:                             I missed school `due to` Covid-19. / She couldn't dance at the party `due to` an injury.
 - [ ] `thanks to (O)`:
 - [ ] `owing to (O)`:                           形式的 / 文頭 / `Owing to` illness, some representatives were absent from ...
 - [ ] `on account of (O)`:                      困難 / Our flight to Vienna was delayed `on account of` a minor accident.
@@ -575,7 +574,6 @@
 - [x] work in (place/department)        (で働いています)
 - [x] work on                           (改善する 取り組む)     <!-- I need to work on being more punctual. -->
 - [x] work overtime                     (残業する)
-- [x] let A know                        (A に知らせる)          <!-- I must let my wife know when I'll be home. -->
 - [x] be for                            (合う)                  <!-- That job wasn't for me. -->
 - [x] be around                         (近くにいる)            <!-- He pretends to be enthusiastic when his boss is around. -->
 - [ ] I'm getting (adj)                 (adj になってきた)      <!-- I'm getting tired of them. -->
@@ -610,7 +608,6 @@ make a living
 - [ ] ask ... out                       (誘う)                  <!-- He finally asked Alice out! -->
 - [ ] ask for                           (請求する)              <!-- The credit card company asked for the payment. / You are asking for it. -->
 - [ ] aspiring                          (志望の)                <!-- an aspiring writer -->
-- [ ] attribute A to B                  (AはBに起因すると考える)<!-- The strength of the firm is attributed to its unique and future-oriented strategies. -->
 - [ ] avid (noun)                       (熱心な noun)           <!-- avid reader -->
 - [ ] bald                              (禿げた)
 - [ ] based in                          (外資系)                <!-- My company is based in U.S. but 80% of the employees are Japanese. -->

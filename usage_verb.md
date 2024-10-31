@@ -14,10 +14,13 @@
 - [語法] notice | realize:              視覚的に認識する | 思考により (重要性などを) 認識する
 - [語法] cope with | deal with:         耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
 - [語法] 人 need V | 物 need V-ing:     する必要がある | される必要がある
+- [語法] heard | told:                  連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
 - [O1O2] grant A B:
 - [句動詞] put off V-ing:               The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
 - [句動詞] narrow down:                 This question is, how long will it take to `narrow down` the list.
 - [句動詞] wrap up:                     We hope to `wrap up` the negotiations at the next meeting.
 - [句動詞] set forth:                   Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
+- [句動詞] get to:                      I'll `get to it` as soon as I can.
 - [idiom] give it a though:             I'll `give it a thought` and get back to you.
 - [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
+- [idiom] let A know:                   I must `let my wife know` when I'll be home.
