@@ -14,3 +14,6 @@
 - [複合] commuter train:                通勤列車
 - [複合] repeat business:               常連
 - [複合] enrollment quota:              入学定員数
+- [複合] wildlife refuge:               鳥獣保護区
+- [複合] benefits package:              福利厚生
+- [複合] renewal notice:                更新通知
