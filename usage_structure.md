@@ -21,6 +21,7 @@
 - [主観] [意見] I doubt (that):                   `I doubt that` it would be too much of a problem.
 - [主観] [意見] I won't know until (time):        `I won't know until` Friday.
 - [主観] [意見] It occurs to me that S V:         `It occurs to me that` I've never asked your name.
+- [主観] [意見] The same is the case with O:      `The same is the case with` "hear" and "about".
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.

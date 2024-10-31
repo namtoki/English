@@ -1,4 +1,3 @@
-- [x] [opinion]     `The same is the case with (sth)`:        `The same is the case with` "hear" and "about".
 - [x] [opinion]     `It depends (sth)`:                       `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
 - [x] [opinion]     `It's up in the air whether (sb) (do)`:   `It's up in the air whether` the game will be called off or not.
 - [x] [opinion]     `Turns out (sb) (do)`:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
@@ -8,6 +7,7 @@
 - [ ] [opinion]     `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
 - [ ] [opinion]     `(A) doesn't have as much (B) as (C)`:    He `doesn't have as much experience as` the other candidates.
 - [ ] [opinion]     `(A) doesn't have as many (B) as (C)`:    We `don't have as many poeple in our team as` we did last year.
+
 - [ ] [opinion]     `It takes (O) (O) to`:                    `It takes her 25 minutes to` walk to work.
 - [ ] [opinion]     `It takes (V-ing) to`:                    `It takes working here for years` to know everything inside out like he does.
 - [ ] [opinion]     `(S) be supposed to (V)`:                 On Valentine's Day, in Japan girls `are supposed to` give choco...
