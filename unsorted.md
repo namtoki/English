@@ -7,7 +7,6 @@
 - [ ] [opinion]     `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
 - [ ] [opinion]     `(A) doesn't have as much (B) as (C)`:    He `doesn't have as much experience as` the other candidates.
 - [ ] [opinion]     `(A) doesn't have as many (B) as (C)`:    We `don't have as many poeple in our team as` we did last year.
-
 - [ ] [opinion]     `It takes (O) (O) to`:                    `It takes her 25 minutes to` walk to work.
 - [ ] [opinion]     `It takes (V-ing) to`:                    `It takes working here for years` to know everything inside out like he does.
 - [ ] [opinion]     `(S) be supposed to (V)`:                 On Valentine's Day, in Japan girls `are supposed to` give choco...
