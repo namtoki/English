@@ -10,6 +10,7 @@
 - [主観] [多分] I'm sure (that) S V:              `I am sure that` I will enjoy the movie.
 - [主観] [多分] I'm sure of (sth):                `I am sure of` enjoying the movie.
 - [主観] [多分] S be sure to V:                   You `are sure to` see many animals there.
+- [主観] [多分] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
 - [主観] [意見] I find O C:                       `I find it really interesting` to study English.
 - [主観] [意見] It's C how S V:                   `It's interesting how` you said that.
 - [主観] [意見] I believe in O:                   `I don't believe in` ghosts.
@@ -17,11 +18,13 @@
 - [主観] [意見] I can't remember:
 - [主観] [意見] S slipped my mind:                Your birthday party completely `slipped my mind`.
 - [主観] [意見] S be a blur:                      Last weekend `was a blur`.
-- [主観] [意見] That's not the way I see it:      `That's not the way I see it.`
 - [主観] [意見] I doubt (that):                   `I doubt that` it would be too much of a problem.
 - [主観] [意見] I won't know until (time):        `I won't know until` Friday.
 - [主観] [意見] It occurs to me that S V:         `It occurs to me that` I've never asked your name.
 - [主観] [意見] The same is the case with O:      `The same is the case with` "hear" and "about".
+- [主観] [意見] It depends O:                     `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
+- [主観] [意見] It's up in the air whether S V:   `It's up in the air whether` the game will be called off or not.
+- [主観] [意見] Turns out S V:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.
@@ -49,6 +52,7 @@
 - [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
 - [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
+- [謙遜] I have to say S V:                     `I have to say` your place is adorable!
 
 ## QUESTION
 

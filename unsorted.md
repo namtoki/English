@@ -1,8 +1,3 @@
-- [x] [opinion]     `It depends (sth)`:                       `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
-- [x] [opinion]     `It's up in the air whether (sb) (do)`:   `It's up in the air whether` the game will be called off or not.
-- [x] [opinion]     `Turns out (sb) (do)`:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
-- [x] [opinion]     `You'd think (that) (sb) (do), but`:      `You'd think` Japan would be really technologically advanced, but ,,,
-- [ ] [opinion]     `I have to say (S) (V)`:                  `I have to say` your place is adorable!
 - [ ] [opinion]     `It feels like (O)`:                      I remember my first day of high school. `It feels like` yesterday.
 - [ ] [opinion]     `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
 - [ ] [opinion]     `(A) doesn't have as much (B) as (C)`:    He `doesn't have as much experience as` the other candidates.
