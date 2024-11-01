@@ -1,15 +1,3 @@
-- [ ] [opinion]     `It feels like (O)`:                      I remember my first day of high school. `It feels like` yesterday.
-- [ ] [opinion]     `~~~. That I (V)`:                        Yes, we need to spend less money. `That I` agree with.
-- [ ] [opinion]     `(A) doesn't have as much (B) as (C)`:    He `doesn't have as much experience as` the other candidates.
-- [ ] [opinion]     `(A) doesn't have as many (B) as (C)`:    We `don't have as many poeple in our team as` we did last year.
-- [ ] [opinion]     `It takes (O) (O) to`:                    `It takes her 25 minutes to` walk to work.
-- [ ] [opinion]     `It takes (V-ing) to`:                    `It takes working here for years` to know everything inside out like he does.
-- [ ] [opinion]     `(S) be supposed to (V)`:                 On Valentine's Day, in Japan girls `are supposed to` give choco...
-- [ ] [opinion]     `(S) be supposed to (V)`:                 Dolphins `are supposed to` be intelligent.
-- [ ] [opinion]     `It's a custom to (V)`:                   `It's a custom to` take off your shoes before entering ...
-- [ ] [opinion]     `It's traditional to (V)`:                In Japan, `it's traditional to` visit ...
-- [ ] [opinion]     `everyone (V)`:                           `Everyone` does it.
-- [ ] [opinion]     `next to`:                                I know `next to` nothing about it.
 - [ ] [opinion]     `This is exemplified by (O)`:
 - [ ] [opinion]     `I'll admit (S) (V)`:
 - [ ] [opinion]     `That's how`:                             `That's how` we met.
@@ -584,8 +572,6 @@
 - [x] stride                            (大股で歩く またぐ)     <!-- I can't come through, so I'll stride. -->
 - [x] years of experience               (経験がある)            <!-- I have ... years of experience in the ... field. -->
 - [ ] dismiss                           (解雇する)
-- [ ] move up                           (予定を繰り上げる)
-- [ ] push back                         (予定を後ろ倒しにする)
 make a living
 - [ ] accelerate                        (促進する 物理的に)
 - [ ] acceptable, unacceptable          (許される, ない)        <!-- Crossing your legs is unacceptable in business situations in Japan -->

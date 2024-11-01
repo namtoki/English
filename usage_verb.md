@@ -15,12 +15,21 @@
 - [語法] cope with | deal with:         耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
 - [語法] 人 need V | 物 need V-ing:     する必要がある | される必要がある
 - [語法] heard | told:                  連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
+- [語法] take care V-ing:               We hope to `wrap up` the negotiations at the next meeting.
+- [語法] hasten to V:                   They `hastened to` execute the plan.
+- [語法] take O O to:                   It `takes her 25 minutes to` walk to work.
+- [語法] S be supposed to V:            On Valentine's Day, in Japan girls `are supposed to` give choco...
+- [語法] S be supposed to V:            Dolphins `are supposed to` be intelligent.
 - [O1O2] grant A B:
-- [句動詞] put off V-ing:               The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
-- [句動詞] narrow down:                 This question is, how long will it take to `narrow down` the list.
-- [句動詞] wrap up:                     We hope to `wrap up` the negotiations at the next meeting.
-- [句動詞] set forth:                   Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
 - [句動詞] get to:                      I'll `get to it` as soon as I can.
+- [句動詞] move forward with:           Once the contract is signed, we can `move forward with` the process
+- [句動詞] move forward/up:             Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
+- [句動詞] narrow down:                 This question is, how long will it take to `narrow down` the list.
+- [句動詞] push back:                   We can `move up` or `push back` the schedule to accommodate your availability.
+- [句動詞] put off V-ing:               The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
+- [句動詞] set forth:                   Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
+- [句動詞] wrap up:                     We hope to `wrap up` the negotiations at the next meeting.
 - [idiom] give it a though:             I'll `give it a thought` and get back to you.
 - [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
 - [idiom] let A know:                   I must `let my wife know` when I'll be home.
+- [idiom] heard back from:              Have you `heard back from` the company?

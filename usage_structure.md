@@ -5,6 +5,8 @@
 - [重要] 不定詞の意味上の主語:                  I have to work hard `for my daughter` to study abroad.
 - [お題] You know (that) S V:                   `You know that` guy we met at the party last week?
 - [客観] [物事] S be said to V:                   He is said `to have worked` hard when young.
+- [客観] [物事] It's a custom to V:               `It's a custom to` take off your shoes before entering ...
+- [客観] [物事] It's traditional to V:            In Japan, `it's traditional to` visit ...
 - [主観] [多分] I'd say (that) S V:               `I'd say` it's usually more art than science.
 - [主観] [多分] I have a feeling/hunch that S V:  `I have a feeling that` there's more to it.
 - [主観] [多分] I'm sure (that) S V:              `I am sure that` I will enjoy the movie.
@@ -25,10 +27,13 @@
 - [主観] [意見] It depends O:                     `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
 - [主観] [意見] It's up in the air whether S V:   `It's up in the air whether` the game will be called off or not.
 - [主観] [意見] Turns out S V:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
+- [主観] [意見] My concern (for O) is (that) S V: You show a lot of promise … but `my concern is` I don’t know where to book you.
+- [主観] [意見] ~~~. That I V:                    Yes, we need to spend less money. `That I` agree with.
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.
 - [主観] [感情] S know all too well ...:          We `know all too well` how fast the weather can change here; last year our wedding got rained out.
+- [主観] [感覚] It feels like O:                  I remember my first day of high school. `It feels like` yesterday.
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
 - [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
@@ -52,9 +57,13 @@
 - [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
 - [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
+- [比較] A doesn't have as much B as C:         He `doesn't have as much experience as` the other candidates.
+- [比較] A doesn't have as many B as C:         We `don't have as many poeple in our team as` we did last year.
 - [謙遜] I have to say S V:                     `I have to say` your place is adorable!
 
 ## QUESTION
 
 - [感想] How do you like O?:                    `How do you like` your new shoes?
 - [感想] Which do you prefer?:                  `Which do you prefer`, going to the movies or watching films at home?
+- [意見] How long until S V?:                   `How long until` he comes back? (How long is it going to be until S V の省略)
+- [意見] How long since S V?:                   `How long since` you met him? (How long has it been since S V の省略)
