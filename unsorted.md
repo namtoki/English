@@ -76,23 +76,6 @@
 - [ ] [probability] `I feel like (O)`:                        `I feel like` an idiot.
 - [ ] [probability] `There's a high       chance of (O)`:     `There's a high chance of` a domino effect.
 - [ ] [probability] `There's a low/little chance of (O)`:     `There's a low chance of` rain tonight.
-- [x] [suggestion]  `I say (S) (V)`:                          `I say` it's time you force the issue.
-- [x] [suggestion]  `(S) should (V)`:                         We `should` ask first.
-- [x] [suggestion]  `(S) (might) want to (V)`:                You `want to` pull your fingers in like this.
-- [x] [suggestion]  `it would be better if (S) (V)`:          `Would it be better if` I got wet?
-- [x] [suggestion]  `(S) have to (V)`:                        I `have to` go home.
-- [x] [suggestion]  `(S) gotta (V)`:                          I `gotta` go.
-- [ ] [suggestion]  `I'd (V)`:                                `I'd` ask Tom.
-- [ ] [suggestion]  `(S) be better off (N)`:                  You`'re better off` starting from the beginning than trying ...
-- [ ] [suggestion]  `(S) might as well (V)`:                  You `might as well` walk home.
-- [ ] [suggestion]  `(S) be gonna have to (V)`:               今後 残念
-- [ ] [suggestion]  `(S) have (got) to (V)`:                  必要 / You`'ve got to` keep up with it.
-- [ ] [suggestion]  `(S) must (V)`:                           義務
-- [ ] [suggestion]  `(S) had better (V)`:                     緊迫
-- [ ] [suggestion]  `(S) need to (V)`:                        I `need to` get back to the office.
-- [ ] [suggestion]  `(S) be supposed to (V)`:                 であるべき
-- [ ] [suggestion]  `It might be a good idea to (V)`:         `It might be a good idea to` read the reviews before you buy it.
-- [ ] [suggestion]  `(S) might not hurt to (V)`:
 - `How do you pronounce this word?`:
 - `How do you spell this word?`:
 - `What's the word for it?`:
@@ -1028,3 +1011,10 @@ urgent emergency pressing
 - [x] sales quota                       (売上ノルマ)
 - [x] mid-career                        (中途社員)              <!-- This event is for freshman and not mid-career employees like me. -->
 - [x] appraisal                         (査定)
+- [助動詞] [嗜好] be better off O:                  You`'re better off` starting from the beginning than trying ...
+- [x] [suggestion]  `I say (S) (V)`:                          `I say` it's time you force the issue.
+- [ ] [suggestion]  `(S) be gonna have to (V)`:               今後 残念
+- [ ] [suggestion]  `(S) be supposed to (V)`:                 であるべき
+- [ ] [suggestion]  `It might be a good idea to (V)`:         `It might be a good idea to` read the reviews before you buy it.
+- [ ] [suggestion]  `(S) might not hurt to (V)`:
+- [x] [suggestion]  `it would be better if (S) (V)`:          `Would it be better if` I got wet?
