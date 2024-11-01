@@ -20,6 +20,7 @@
 - [語法] take O O to:                   It `takes her 25 minutes to` walk to work.
 - [語法] S be supposed to V:            On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [語法] S be supposed to V:            Dolphins `are supposed to` be intelligent.
+- [語法] S is exemplified by O:         This `is exemplified by` Facebook's Causes application.
 - [O1O2] grant A B:
 - [句動詞] get to:                      I'll `get to it` as soon as I can.
 - [句動詞] move forward with:           Once the contract is signed, we can `move forward with` the process

@@ -15,8 +15,8 @@
 - [when] [一般] [時] in the evening:
 - [when] [一般] [時] at night:
 - [when] [一般] [時] at dawn:               夜明け
-- [when] [特定] [日] next/this/on Sunday:
-- [when] [特定] [日] next/this/onthe weekend:
+- [when] [特定] [日] last/next/this/on Sunday:
+- [when] [特定] [日] last/next/this/onthe weekend:
 - [when] [特定] [時] on 特定の日の時間帯:   `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
 - [when] [特定] [事] once:                  Call me `once` you get home.
 - [when] [特定] [事] upon/on X/doing:       X してすぐ `upon arrival at the company headquarters`

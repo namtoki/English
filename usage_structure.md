@@ -56,6 +56,8 @@
 - [補足] [理由] [間接] A is attributed to B:        The strength of the firm `is attributed to` its unique and future-oriented strategies.
 - [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
 - [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
+- [補足] That's how:                            `That's how` we met.
+- [返事] I'll admit S V:                        `I'll admit`, for a while outside it was a bike,
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 - [比較] A doesn't have as much B as C:         He `doesn't have as much experience as` the other candidates.
 - [比較] A doesn't have as many B as C:         We `don't have as many poeple in our team as` we did last year.
