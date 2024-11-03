@@ -4,6 +4,7 @@
 - [使役動詞] let O V/adj:               Don't `let me down`. / My daughter's upset because I won't `let her get` a tattoo.
 - [使役動詞] make O V/adj:              I'll do anything to `make you happy`. / to `make mayself understood` in English. / He `made the students run` in the snow.
 - [使役動詞] have A done:               I `had my hair cut`.
+- [使役動詞] get S V-ing:               This song always `gets me feeling` some type of way.
 - [語法] help O 原形動詞:               The brochure `helped me find` the information / Just `help me find` them. / He `helps me study` English.
 - [語法] inform A of B:
 - [語法] inform A that 節/疑問詞節:
@@ -22,6 +23,8 @@
 - [語法] S be supposed to V:            Dolphins `are supposed to` be intelligent.
 - [語法] S is exemplified by O:         This `is exemplified by` Facebook's Causes application.
 - [O1O2] grant A B:
+- [句動詞] add up:                      It `doesn't add up` at all.
+- [句動詞] be really into:              I`'m really into` ramen.
 - [句動詞] get to:                      I'll `get to it` as soon as I can.
 - [句動詞] move forward with:           Once the contract is signed, we can `move forward with` the process
 - [句動詞] move forward/up:             Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.

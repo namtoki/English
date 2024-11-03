@@ -34,6 +34,8 @@
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.
 - [主観] [感情] S know all too well ...:          We `know all too well` how fast the weather can change here; last year our wedding got rained out.
 - [主観] [感覚] It feels like O:                  I remember my first day of high school. `It feels like` yesterday.
+- [主観] [気分] I feel like O:                    `I feel like` Thai food. I don't feel like it.
+- [主観] [気分] It's been a while since S V:      `It's been a while since` I've swung a tennis racket.
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
 - [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
@@ -61,6 +63,7 @@
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 - [比較] A doesn't have as much B as C:         He `doesn't have as much experience as` the other candidates.
 - [比較] A doesn't have as many B as C:         We `don't have as many poeple in our team as` we did last year.
+- [強調] This is the kind of thing that V:      `This is the kind of thing that` makes me really happy.
 - [謙遜] I have to say S V:                     `I have to say` your place is adorable!
 
 ## QUESTION
