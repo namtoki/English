@@ -1,28 +1,34 @@
 # USAGE (VERB)
 
 - [前置詞] 動詞 of:                     writes `of the distant past` / hear `of A` / know `of A`
-- [使役動詞] let O V/adj:               Don't `let me down`. / My daughter's upset because I won't `let her get` a tattoo.
-- [使役動詞] make O V/adj:              I'll do anything to `make you happy`. / to `make mayself understood` in English. / He `made the students run` in the snow.
-- [使役動詞] have A done:               I `had my hair cut`.
-- [使役動詞] get S V-ing:               This song always `gets me feeling` some type of way.
+- [使役動詞] make O 原形V:              He `made the students run` in the snow.
+- [使役動詞] have O 原形V:              I `had my brother paint` the wall.
+- [使役動詞] get O to V:                She `got her son to do` the chores.
+- [使役動詞] let O 原形V:               My daughter's upset because I won't `let her get` a tattoo.
+- [SVOC] make O C:                      I'll do anything to `make you happy`. / to `make mayself understood` in English.
+- [SVOC] have O C:                      I `had my hair cut`.
+- [SVOC] get O C:                       This song always `gets me feeling` some type of way.
+- [SVOC] let O C:                       Don't `let me down`. / `Let me in!`
+- [SVOO] grant A B:
 - [語法] help O 原形動詞:               The brochure `helped me find` the information / Just `help me find` them. / He `helps me study` English.
 - [語法] inform A of B:
 - [語法] inform A that 節/疑問詞節:
 - [語法] hope for:                      We have been `hoping for` a pay raise.
 - [語法] exit (from/out of):            exit a door / exit from a door / exit out of a door
-- [語法] decide | decide on:            決心する | 決定する
 - [語法] adjust | arrange | coordinate: 既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
-- [語法] notice | realize:              視覚的に認識する | 思考により (重要性などを) 認識する
 - [語法] cope with | deal with:         耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
-- [語法] 人 need V | 物 need V-ing:     する必要がある | される必要がある
+- [語法] decide | decide on:            決心する | 決定する
 - [語法] heard | told:                  連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
+- [語法] make effort | work hard:       努力しておりますが、実現できていません | 努力しています
+- [語法] notice | realize:              視覚的に認識する | 思考により (重要性などを) 認識する
+- [語法] teach | tell:                  習得した技術等を説明して教える | 相手が知らない情報を与える
+- [語法] 人 need V | 物 need V-ing:     する必要がある | される必要がある
 - [語法] take care V-ing:               We hope to `wrap up` the negotiations at the next meeting.
 - [語法] hasten to V:                   They `hastened to` execute the plan.
 - [語法] take O O to:                   It `takes her 25 minutes to` walk to work.
 - [語法] S be supposed to V:            On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [語法] S be supposed to V:            Dolphins `are supposed to` be intelligent.
 - [語法] S is exemplified by O:         This `is exemplified by` Facebook's Causes application.
-- [O1O2] grant A B:
 - [句動詞] add up:                      It `doesn't add up` at all.
 - [句動詞] be really into:              I`'m really into` ramen.
 - [句動詞] get to:                      I'll `get to it` as soon as I can.
