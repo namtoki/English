@@ -26,3 +26,6 @@
 - [助動詞] [提案] (might) want to:                        You `want to` pull your fingers in like this.
 - [助動詞] [提案] might as well:                          You `might as well` walk home.
 - [助動詞] [提案] would:                                  `I'd` ask Tom. / if you were me が省略された感じ
+- [助動詞] [習慣] tend to:                                普段 / I `tend to` prefer non-fiction.
+- [助動詞] [習慣] tend to:                                たいてい / I `tend not to` remember my dreams.
+- [助動詞] [習慣] tend to:                                ついつい / I `tend to` eat a lot when I'm nervous.

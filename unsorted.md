@@ -1,13 +1,3 @@
-- [x] [preference]  `I have a problem with (O)`:              `I have a problem with` his table manners.
-- [ ] [preference]  `I feel like (V-ing)`:                    `I feel like` going out somewhere.
-- [ ] [preference]  `I'm in the mood for (O)`:                `I'm not in the mood.`
-- [ ] [preference]  `I'm in the mood to (V)`                  `I'm in the mood to` watch a movie.
-- [ ] [preference]  `(S) get/be used to (V-ing)`:             I'm `getting used to` working with new coworkers here.
-- [ ] [preference]  `(S) always (V)`:                         In my family, we `always` eat turkey on ...
-- [ ] [preference]  `(S) tend to (V)`:                        普段 / I `tend to` prefer non-fiction.
-- [ ] [preference]  `(S) tend to (V)`:                        たいてい / I `tend not to` remember my dreams.
-- [ ] [preference]  `(S) tend to (V)`:                        ついつい / I `tend to` eat a lot when I'm nervous.
-- [ ] [preference]  `(S) usually end up (V-ing)`:             I `usually end up` getting fast food.
 - [ ] [preference]  `(S) find myself (V-ing)`:                I often `find myself` keeping an eye on the stock market.
 - [ ] [preference]  `It's been a long time since`:
 - [ ] [preference]  `It's been ages since`:
@@ -66,8 +56,6 @@
 - [ ] [probability] `I feel like (O)`:                        `I feel like` an idiot.
 - [ ] [probability] `There's a high       chance of (O)`:     `There's a high chance of` a domino effect.
 - [ ] [probability] `There's a low/little chance of (O)`:     `There's a low chance of` rain tonight.
-- `How do you pronounce this word?`:
-- `How do you spell this word?`:
 - `What's the word for it?`:
 - `What's it called?`:
 - `What's better?`:
@@ -168,7 +156,6 @@
 - `So do I`:
 - `Neither do I`:
 - `Tell me about it.`:
-- `I think so too.`:
 - `I was going to say.`:
 - `I was going to say!`:
 - `No doubt about it.`:
@@ -179,7 +166,6 @@
 - `Fair enough.`:
 - `I see (what you mean).`:
 - `I know what you are saying`:
-- `I don't know.`:
 - `I told you.`:`
 - `the only way to`:                        This is `the only way to` live.
 - `That's (about) it.`:
@@ -194,7 +180,6 @@
 - `It's been a while.`:
 - `It's been a month since`:                `It's been a month since` we met the last time.
 - `I haven't seen you in (O)`:              `I haven't seen you in` a month.
-- `long time no see.`:
 - `Do you have a minute/second?`:
 - `Do you have time?`:
 - `Is this a good time?`:

@@ -37,3 +37,5 @@
 - [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
 - [idiom] let A know:                   I must `let my wife know` when I'll be home.
 - [idiom] heard back from:              Have you `heard back from` the company?
+- [idiom] have a problem with:          困っている / 苦手だ / `I have a problem with` his table manners.
+- [idiom] usually end up V-ing:         I `usually end up` getting fast food.

@@ -35,6 +35,9 @@
 - [主観] [感情] S know all too well ...:          We `know all too well` how fast the weather can change here; last year our wedding got rained out.
 - [主観] [感覚] It feels like O:                  I remember my first day of high school. `It feels like` yesterday.
 - [主観] [気分] I feel like O:                    `I feel like` Thai food. I don't feel like it.
+- [主観] [気分] I feel like V-ing:                `I feel like` going out somewhere.
+- [主観] [気分] I'm in the mood for O:            `I'm not in the mood.`
+- [主観] [気分] I'm in the mood to V:             `I'm in the mood to` watch a movie.
 - [主観] [気分] It's been a while since S V:      `It's been a while since` I've swung a tennis racket.
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
