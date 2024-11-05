@@ -38,6 +38,7 @@
 - [句動詞] push back:                   We can `move up` or `push back` the schedule to accommodate your availability.
 - [句動詞] put off V-ing:               The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
 - [句動詞] set forth:                   Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
+- [句動詞] set out:                     We `set out` on a hike. / `set out` one's ideas
 - [句動詞] wrap up:                     We hope to `wrap up` the negotiations at the next meeting.
 - [idiom] give it a though:             I'll `give it a thought` and get back to you.
 - [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
@@ -45,3 +46,6 @@
 - [idiom] heard back from:              Have you `heard back from` the company?
 - [idiom] have a problem with:          困っている / 苦手だ / `I have a problem with` his table manners.
 - [idiom] usually end up V-ing:         I `usually end up` getting fast food.
+- [idiom] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
+- [idiom] find oneself V-ing:           I often `find myself keeping` an eye on the stock market.
+- [idiom] bring back memories:          This song `brings back memories!`

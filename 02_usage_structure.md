@@ -7,6 +7,8 @@
 - [客観] [物事] S be said to V:                   He is said `to have worked` hard when young.
 - [客観] [物事] It's a custom to V:               `It's a custom to` take off your shoes before entering ...
 - [客観] [物事] It's traditional to V:            In Japan, `it's traditional to` visit ...
+- [客観] [時間] It's been a long time since:
+- [客観] [時間] It's been ages since:
 - [主観] [多分] I'd say (that) S V:               `I'd say` it's usually more art than science.
 - [主観] [多分] I have a feeling/hunch that S V:  `I have a feeling that` there's more to it.
 - [主観] [多分] I'm sure (that) S V:              `I am sure that` I will enjoy the movie.
@@ -39,6 +41,7 @@
 - [主観] [気分] I'm in the mood for O:            `I'm not in the mood.`
 - [主観] [気分] I'm in the mood to V:             `I'm in the mood to` watch a movie.
 - [主観] [気分] It's been a while since S V:      `It's been a while since` I've swung a tennis racket.
+- [主観] [気分] I'm more than happy to V:         `I’m more than happy to` answer any questions,
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
 - [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.

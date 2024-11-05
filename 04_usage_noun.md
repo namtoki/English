@@ -11,6 +11,7 @@
 - [語法] custom | customs:              習慣 | 税関
 - [語法] premise | premises:            前提 | 家屋,建物,構内,敷地内
 - [語法] assessment | evaluation:       改善目的の評価 | 判断目的の評価
+- [語法] manner | manners:              やり方、方法、立ち振る舞い | 礼儀、マナー
 - [複合] trade exhibition:              展示会
 - [複合] commuter train:                通勤列車
 - [複合] repeat business:               常連
