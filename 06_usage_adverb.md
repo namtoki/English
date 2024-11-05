@@ -20,7 +20,8 @@
 - [when] [特定] [時] on 特定の日の時間帯:   `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
 - [when] [特定] [事] once:                  Call me `once` you get home.
 - [when] [特定] [事] upon/on X/doing:       X してすぐ `upon arrival at the company headquarters`
-- [when] [特定] [事] 期間 + into X:            X に入って(期間)で `Three minutes into the game`, Okazaki scored.
+- [when] [特定] [事] 期間 + into X:         X に入って(期間)で `Three minutes into the game`, Okazaki scored.
+- [when] [過去] quite recently:           ごく最近
 - [when] [現在] from now on:              I have to cut down on my expenses, `so from now on`, I'm ~~
 - [when] [現在] by now:                   You must be hungry `by now`.
 - [when] [未来] right away:               I'll come `right away`.
@@ -68,6 +69,7 @@
 
 - [比較] of X:                          X の中で `of all dishes served at the Little Bird Cafe`, the Chef's Special Pizza is the most popular.
 - [強調] no more than A:                = only A
+- [強調] just:                          Are you tired of traditional learning methods that just don't work?
 - [目的] in (the) hope(s) of/that ...:  I didn't phone till four o'clock `in the hope that` you'd be finished.
 - [目的] hoping ...:                    We've postponed the game until Monday hoping that the weather will improve.
 - [意見] the way I see it,:             `The way I see it`, it's too simplistic to say that the only way to stop a bad guy with a gun is a good guy with a gun.

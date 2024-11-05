@@ -32,6 +32,7 @@
 - [句動詞] add up:                      It `doesn't add up` at all.
 - [句動詞] be really into:              I`'m really into` ramen.
 - [句動詞] get to:                      I'll `get to it` as soon as I can.
+- [句動詞] look into:                   I want to `look into` the murder case more closer because something is strange.
 - [句動詞] move forward with:           Once the contract is signed, we can `move forward with` the process
 - [句動詞] move forward/up:             Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
 - [句動詞] narrow down:                 This question is, how long will it take to `narrow down` the list.
@@ -49,3 +50,6 @@
 - [idiom] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
 - [idiom] find oneself V-ing:           I often `find myself keeping` an eye on the stock market.
 - [idiom] bring back memories:          This song `brings back memories!`
+- [idiom] make a difference:            They are fresh, unique, and have `made a huge difference` for me.
+- [idiom] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
+- [idiom] be out of the question:       Going to the party `is out of the question`!
