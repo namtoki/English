@@ -53,3 +53,4 @@
 - [idiom] make a difference:            They are fresh, unique, and have `made a huge difference` for me.
 - [idiom] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
 - [idiom] be out of the question:       Going to the party `is out of the question`!
+- [idiom] be in a class of ones own:    They `are in a class of their own`.

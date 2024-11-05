@@ -42,6 +42,7 @@
 - [主観] [気分] I'm in the mood to V:             `I'm in the mood to` watch a movie.
 - [主観] [気分] It's been a while since S V:      `It's been a while since` I've swung a tennis racket.
 - [主観] [気分] I'm more than happy to V:         `I’m more than happy to` answer any questions,
+- [主観] [感謝] Special thanks go to O:
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
 - [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
