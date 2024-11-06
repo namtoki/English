@@ -9,4 +9,5 @@
 - [語法] fun | pleasant:                気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
 - [idiom] A of a kind/sort:             ある種の A
 - [idiom] halfway through:              の途中で,半ばを過ぎた / I was halfway through dinner when he appeared.
+- [idiom] last-minute:                  土壇場の
 - [副詞みたい] neighborly:              隣人の 親切な

@@ -42,7 +42,8 @@
 - [主観] [気分] I'm in the mood to V:             `I'm in the mood to` watch a movie.
 - [主観] [気分] It's been a while since S V:      `It's been a while since` I've swung a tennis racket.
 - [主観] [気分] I'm more than happy to V:         `I’m more than happy to` answer any questions,
-- [主観] [感謝] Special thanks go to O:
+- [主観] [嗜好] Special thanks go to O:
+- [主観] [嗜好] I'm terrible with O:
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
 - [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
@@ -79,3 +80,8 @@
 - [感想] Which do you prefer?:                  `Which do you prefer`, going to the movies or watching films at home?
 - [意見] How long until S V?:                   `How long until` he comes back? (How long is it going to be until S V の省略)
 - [意見] How long since S V?:                   `How long since` you met him? (How long has it been since S V の省略)
+- [提案] Would you like to V?:                  `Would you like to` watch it together?
+- [提案] (Would you) care to V?:                `Would you care to` join me for a drink?
+- [提案] (Do you) want to V?:                   `Do you want to` get some food first? / `Want to` get dinner?
+- [提案] How about V-ing?:                      `How about sending` flowers?
+- [提案] Why don't S V?:                        `Why don't` you use this?

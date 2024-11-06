@@ -49,6 +49,7 @@
 - [条件] on average:                    平均すると
 - [付帯状況] with all:                  (のに) `With all` its faults, it's basically a good plan. / (れば) `With all` that money, he can do anything
 - [付帯状況] for all:                   (のに) I don't feel happy `for all` my success.
+- [付帯状況] much to the relief of O:   O が安心したことには、
 
 - [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
 - [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.

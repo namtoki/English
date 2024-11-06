@@ -31,6 +31,7 @@
 - [語法] S is exemplified by O:         This `is exemplified by` Facebook's Causes application.
 - [句動詞] add up:                      It `doesn't add up` at all.
 - [句動詞] be really into:              I`'m really into` ramen.
+- [句動詞] get ahead:                   If you want to `get ahead` in life, you must make some sacrifices.
 - [句動詞] get to:                      I'll `get to it` as soon as I can.
 - [句動詞] look into:                   I want to `look into` the murder case more closer because something is strange.
 - [句動詞] move forward with:           Once the contract is signed, we can `move forward with` the process
@@ -40,6 +41,7 @@
 - [句動詞] put off V-ing:               The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
 - [句動詞] set forth:                   Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
 - [句動詞] set out:                     We `set out` on a hike. / `set out` one's ideas
+- [句動詞] settle for:                  But for now, we'll have to `settle for` this.
 - [句動詞] wrap up:                     We hope to `wrap up` the negotiations at the next meeting.
 - [idiom] give it a though:             I'll `give it a thought` and get back to you.
 - [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
@@ -54,3 +56,4 @@
 - [idiom] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
 - [idiom] be out of the question:       Going to the party `is out of the question`!
 - [idiom] be in a class of ones own:    They `are in a class of their own`.
+- [idiom] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?

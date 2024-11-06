@@ -1,8 +1,4 @@
-- [ ] [preference]  `It can wait until`:                      Is this job urgent? No, `it can wait until` tomorrow.
-- [ ] [preference]  `You can still (V)`:                      but `you can still` even with this one say my job ...
-- [ ] [preference]  `Take your time with (O)`:                `Take your time with` this project.
 - [ ] [preference]  `any (O) will do as long as (S) (V)`:     `Any apartment will do as long as` the rent is low.
-- [ ] [preference]  `I'm terrible with (O)`:
 - [ ] [preference]  `I don't care for (O)`:                   `I don't care for` spicy food.
 - [ ] [preference]  `I have trouble (V-ing)`:                 `I have trouble` getting to sleep. / `I have trouble` making friends.
 - [ ] [preference]  `It's no use (V-ing)`:                    `It's no use` polishing it.
@@ -80,10 +76,6 @@
 - [x] [assumption]  `What if (sb) (do)?`:                     `What if I` don't meet the deadline?
 - [x] [assumption]  `Would it (do) if (sb) (do)?`:            `Would it sound` a little bit weird `if I said` ...
 - [x] [assumption]  `How would you say it?`:                  If you were to state your dream, `how would you say it?`
-- [x] [suggestion]  `Would you like to (V)`:                  `Would you like to` watch it together?
-- [x] [suggestion]  `(Do you) want to (V)`:                   `Do you want to` get some food first? / `Want to` get dinner?
-- [x] [suggestion]  `How about (V-ing)?`:                     `How about sending` flowers?
-- [ ] [suggestion]  `Why don't (S) (V)`:                      `Why don't` you use this?
 - [ ] [suggestion]  `We'll see whether (S) (V)`:              `We'll see whether` the newspapers print the story.
 - [x] [request]     `Could you (V)?`:                         `Could you` say that again?
 - [x] [request]     `Would you (V)?`:                         `Would you` get me that box?

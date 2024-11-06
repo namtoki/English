@@ -19,3 +19,4 @@
 - [複合] wildlife refuge:               鳥獣保護区
 - [複合] benefits package:              福利厚生
 - [複合] renewal notice:                更新通知
+- [複合] advanced degree:               修士号 博士号

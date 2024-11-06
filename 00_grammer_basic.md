@@ -29,3 +29,4 @@
 - [助動詞] [習慣] tend to:                                普段 / I `tend to` prefer non-fiction.
 - [助動詞] [習慣] tend to:                                たいてい / I `tend not to` remember my dreams.
 - [助動詞] [習慣] tend to:                                ついつい / I `tend to` eat a lot when I'm nervous.
+- [助動詞] [義務] be obliged to:                          We `are obliged to` return the favor they gave us.
