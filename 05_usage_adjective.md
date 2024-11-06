@@ -3,6 +3,9 @@
 - [比較] 比較級を強めることができる:    far, `even` ~~very~~, ~~too~~
 - [比較] 最上級を強めることができる:    possible
 - [数量表現] some:                      `some clue`(何らかの), `some clues`
+- [数量表現] a number of:               There are `a number of` factors discouraging us from investing in stocks.
+- [数量表現] a bunch of:                `A bunch of` other companies are imitating our excellent methods.
+- [数量表現] tons of:                   I have `tons of` homework tonight.
 - [数量表現] all | entire | whole:      全ての | 少しも残さず全て | まるごと全て
 - [語法] comparable | comparative:      比較できる,匹敵する,同等である | 比較の,比較による,相対的な
 - [語法] industrial | industorious:     工業の | 勤勉な

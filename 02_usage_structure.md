@@ -31,6 +31,7 @@
 - [主観] [意見] Turns out S V:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [主観] [意見] My concern (for O) is (that) S V: You show a lot of promise … but `my concern is` I don’t know where to book you.
 - [主観] [意見] ~~~. That I V:                    Yes, we need to spend less money. `That I` agree with.
+- [主観] [意見] It's no use V-ing:                `It's no use` polishing it.
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.
@@ -44,6 +45,9 @@
 - [主観] [気分] I'm more than happy to V:         `I’m more than happy to` answer any questions,
 - [主観] [嗜好] Special thanks go to O:
 - [主観] [嗜好] I'm terrible with O:
+- [主観] [嗜好] I don't care for O:               `I don't care for` spicy food.
+- [主観] [嗜好] I have trouble V-ing:             `I have trouble` getting to sleep. / `I have trouble` making friends.
+- [主観] [嗜好] any O will do as long as S V:     `Any apartment will do as long as` the rent is low.
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
 - [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
