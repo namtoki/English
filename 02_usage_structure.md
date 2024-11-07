@@ -2,7 +2,7 @@
 
 ## DECLARATIVE
 
-- [重要] 不定詞の意味上の主語:                  I have to work hard `for my daughter` to study abroad.
+- ~[重要] 不定詞の意味上の主語:                  I have to work hard `for my daughter` to study abroad.~
 - [お題] You know (that) S V:                   `You know that` guy we met at the party last week?
 - [客観] [物事] S be said to V:                   He is said `to have worked` hard when young.
 - [客観] [物事] It's a custom to V:               `It's a custom to` take off your shoes before entering ...
@@ -16,7 +16,7 @@
 - [主観] [多分] I'm sure of (sth):                `I am sure of` enjoying the movie.
 - [主観] [多分] S be sure to V:                   You `are sure to` see many animals there.
 - [主観] [多分] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
-- [主観] [意見] I find O C:                       `I find it really interesting` to study English.
+- ~[主観] [意見] I find O C:                       `I find it really interesting` to study English.~
 - [主観] [意見] It's C how S V:                   `It's interesting how` you said that.
 - [主観] [意見] I believe in O:                   `I don't believe in` ghosts.
 - [主観] [意見] I believe (that) S V:             `I believe` she drives a white truck.
