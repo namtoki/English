@@ -32,3 +32,10 @@
 - [助動詞] [義務] be obliged to:                          We `are obliged to` return the favor they gave us.
 - [助動詞] [推測] was supposed to:                        She `was supposed to` say yes.
 - [助動詞] [仮定] would:                                  `That would` be awesome.
+- [助動詞] [過去] was/were like:                          When I ate Natto for the first time `I was like` what is this?
+- [助動詞] [過去] used to:                                I `used to` read every day.
+- [助動詞] [過去] ended up V-ing:                         I `ended up staying` home.
+- [助動詞] [過去] got to:                                 I `got to` meet Joyce Nelson in person!
+- [助動詞] [過去] was going to:                           I `was going to` get the burger, but the salad looked so good.
+- [助動詞] [未来] be about to:                            I `am about to` go to sleep.
+- [助動詞] [未来] be going to:                            What time `are we going to` be there?

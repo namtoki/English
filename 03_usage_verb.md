@@ -64,3 +64,4 @@
 - [idiom] usually end up V-ing:         I `usually end up` getting fast food.
 - [idiom] leave nothing to be desired:  Your summary `leaves nothing to be desired.`
 - [idiom] take the plunge and V:
+- [idiom] would've thought that S V:    I `would've thought that` he'd hate dancing at a club.
