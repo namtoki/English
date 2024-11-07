@@ -7,6 +7,7 @@
 - [客観] [物事] S be said to V:                   He is said `to have worked` hard when young.
 - [客観] [物事] It's a custom to V:               `It's a custom to` take off your shoes before entering ...
 - [客観] [物事] It's traditional to V:            In Japan, `it's traditional to` visit ...
+- [客観] [物事] There're times when S V:          `There're times when I crave` a Starbucks Frappuccino really badly.
 - [客観] [時間] It's been a long time since:
 - [客観] [時間] It's been ages since:
 - [主観] [多分] I'd say (that) S V:               `I'd say` it's usually more art than science.
@@ -32,6 +33,8 @@
 - [主観] [意見] My concern (for O) is (that) S V: You show a lot of promise … but `my concern is` I don’t know where to book you.
 - [主観] [意見] ~~~. That I V:                    Yes, we need to spend less money. `That I` agree with.
 - [主観] [意見] It's no use V-ing:                `It's no use` polishing it.
+- [主観] [意見] S V-ing. That is C:               `This ramen shop putting whipped cream in soup, that's` gross.
+- [主観] [意見] S V-ing, that'd be C:             A Starbucks opening right next to my apartment, `that'd be` amazing.
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.
@@ -48,6 +51,8 @@
 - [主観] [嗜好] I don't care for O:               `I don't care for` spicy food.
 - [主観] [嗜好] I have trouble V-ing:             `I have trouble` getting to sleep. / `I have trouble` making friends.
 - [主観] [嗜好] any O will do as long as S V:     `Any apartment will do as long as` the rent is low.
+- [主観] [嗜好] It doesn't mean anything:         `It doesn't mean anything` to me anymore.
+- [主観] [嗜好] I can't tell you how much S V:    `I can't tell you how much` I loved it.
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
 - [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
@@ -71,17 +76,20 @@
 - [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
 - [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
 - [補足] That's how:                            `That's how` we met.
+- [補足] That's the way S V:                    `That's the way` I like it. / `That's the way` I prefer it.
 - [返事] I'll admit S V:                        `I'll admit`, for a while outside it was a bike,
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 - [比較] A doesn't have as much B as C:         He `doesn't have as much experience as` the other candidates.
 - [比較] A doesn't have as many B as C:         We `don't have as many poeple in our team as` we did last year.
 - [強調] This is the kind of thing that V:      `This is the kind of thing that` makes me really happy.
+- [強調] This is something S V:                 `This is something` a lot of people don't consider.
 - [謙遜] I have to say S V:                     `I have to say` your place is adorable!
 
 ## QUESTION
 
 - [感想] How do you like O?:                    `How do you like` your new shoes?
 - [感想] Which do you prefer?:                  `Which do you prefer`, going to the movies or watching films at home?
+- [感想] Does that sound C?:                    `Does that sound` good?
 - [意見] How long until S V?:                   `How long until` he comes back? (How long is it going to be until S V の省略)
 - [意見] How long since S V?:                   `How long since` you met him? (How long has it been since S V の省略)
 - [提案] Would you like to V?:                  `Would you like to` watch it together?
@@ -89,3 +97,5 @@
 - [提案] (Do you) want to V?:                   `Do you want to` get some food first? / `Want to` get dinner?
 - [提案] How about V-ing?:                      `How about sending` flowers?
 - [提案] Why don't S V?:                        `Why don't` you use this?
+- [質問] What's the word for it?:
+- [質問] What's it called?:

@@ -30,3 +30,5 @@
 - [助動詞] [習慣] tend to:                                たいてい / I `tend not to` remember my dreams.
 - [助動詞] [習慣] tend to:                                ついつい / I `tend to` eat a lot when I'm nervous.
 - [助動詞] [義務] be obliged to:                          We `are obliged to` return the favor they gave us.
+- [助動詞] [推測] was supposed to:                        She `was supposed to` say yes.
+- [助動詞] [推測] would:                                  `That would` be awesome.

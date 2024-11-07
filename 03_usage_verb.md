@@ -43,17 +43,24 @@
 - [句動詞] set out:                     We `set out` on a hike. / `set out` one's ideas
 - [句動詞] settle for:                  But for now, we'll have to `settle for` this.
 - [句動詞] wrap up:                     We hope to `wrap up` the negotiations at the next meeting.
-- [idiom] give it a though:             I'll `give it a thought` and get back to you.
-- [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
-- [idiom] let A know:                   I must `let my wife know` when I'll be home.
-- [idiom] heard back from:              Have you `heard back from` the company?
-- [idiom] have a problem with:          困っている / 苦手だ / `I have a problem with` his table manners.
-- [idiom] usually end up V-ing:         I `usually end up` getting fast food.
-- [idiom] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
-- [idiom] find oneself V-ing:           I often `find myself keeping` an eye on the stock market.
-- [idiom] bring back memories:          This song `brings back memories!`
-- [idiom] make a difference:            They are fresh, unique, and have `made a huge difference` for me.
 - [idiom] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
-- [idiom] be out of the question:       Going to the party `is out of the question`!
 - [idiom] be in a class of ones own:    They `are in a class of their own`.
+- [idiom] be out of the question:       Going to the party `is out of the question`!
+- [idiom] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
+- [idiom] be eating me alive:           Keeping secrets `was eating me alive.`
+- [idiom] be in the process of V-ing:
+- [idiom] bring back memories:          This song `brings back memories!`
 - [idiom] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
+- [idiom] find oneself V-ing:           I often `find myself keeping` an eye on the stock market.
+- [idiom] give it a though:             I'll `give it a thought` and get back to you.
+- [idiom] have a problem with:          困っている / 苦手だ / `I have a problem with` his table manners.
+- [idiom] have in mind:                 Whom do you `have in mind`?
+- [idiom] heard back from:              Have you `heard back from` the company?
+- [idiom] let A know:                   I must `let my wife know` when I'll be home.
+- [idiom] make a difference:            They are fresh, unique, and have `made a huge difference` for me.
+- [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
+- [idiom] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
+- [idiom] take ~~~ off:                 `take time off` / `take a day off`
+- [idiom] usually end up V-ing:         I `usually end up` getting fast food.
+- [idiom] leave nothing to be desired:  Your summary `leaves nothing to be desired.`
+- [idiom] take the plunge and V:

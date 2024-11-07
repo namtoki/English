@@ -33,6 +33,10 @@
 - [when] [未来] at some point:            We should really clean the fridge `at some point`.
 - [when] [未来] for years to come:        the birthrate will continue to decline steadily `for years to come`.
 - [when] [未来] for good:                 We're through `for good` this time.
+- [where] directly accross from:        の真向かいに
+- [how] with each passing day/year:     日を追うごとに
+- [why] in case:                        `In case` there's an earthquake, prepare a first-aid kit.
+- [why] just in case:                   I'll write it down `just in case.`
 - [focus] about O:                      `About` the food ... it is bad.
 - [focus] on O:                         thesis `on` education
 - [focus] in V-ing O:                   `In making a decision,` I rely not on logic but on instinct.
@@ -43,9 +47,6 @@
 - [focus] concerning O:                 `concerning` the changes that were recently made,,,
 - [focus] as for O:                     `As for` the cost per person
 - [focus] as to O:                      discussion `as to` which university is the best university.
-- [how] with each passing day/year:     日を追うごとに
-- [why] in case:                        `In case` there's an earthquake, prepare a first-aid kit.
-- [why] just in case:                   I'll write it down `just in case.`
 - [条件] on average:                    平均すると
 - [付帯状況] with all:                  (のに) `With all` its faults, it's basically a good plan. / (れば) `With all` that money, he can do anything
 - [付帯状況] for all:                   (のに) I don't feel happy `for all` my success.
