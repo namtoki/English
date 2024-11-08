@@ -51,6 +51,9 @@
 - [付帯状況] with all:                  (のに) `With all` its faults, it's basically a good plan. / (れば) `With all` that money, he can do anything
 - [付帯状況] for all:                   (のに) I don't feel happy `for all` my success.
 - [付帯状況] much to the relief of O:   O が安心したことには、
+- [付帯状況] [前置詞] amid O:             フォーマルな during, in the middle of
+- [付帯状況] [前置詞] aboard O:           (乗り物に) 乗って
+- [reason] due to (O):                  I missed school `due to` Covid-19. / She couldn't dance at the party `due to` an injury.
 
 - [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
 - [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.

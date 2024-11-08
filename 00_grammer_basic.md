@@ -16,26 +16,28 @@
 - [分詞構文] 形容詞で始まる (Being が省略されている):   `Unable` to understand what he said, she turned to me for help.
 - [分詞構文] 受動態分詞構文 (Being が省略されている):   `Used` as medicines in small quantities, certain poisons prove beneficial.
 - [分詞構文] 独立分詞構文 (主節と違う主語なら添える):   `The last bus having gone`, we had to walk home.
-- [助動詞] [可能] could:                                  「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
-- [助動詞] [感嘆] 疑問詞と共に用いる should:              「いったい」「そもそも」という意になる
-- [助動詞] [忠告] should:                                 しなければならない (実際にはしないだろうけど) / We `should` ask first.
-- [助動詞] [忠告] need to:                                しなければならない (ほんまに) / I `need to` get back to the office.
-- [助動詞] [忠告] have to:                                しなければならない (迫ってきている感) / I `have to` go home.
-- [助動詞] [忠告] gotta | have got to:                    しなければならない (迫ってきている感) / I `gotta` go.
-- [助動詞] [忠告] had better:                             しなければならない (身のためだよ)
-- [助動詞] [提案] (might) want to:                        You `want to` pull your fingers in like this.
-- [助動詞] [提案] might as well:                          You `might as well` walk home.
-- [助動詞] [提案] would:                                  `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
-- [助動詞] [習慣] tend to:                                普段 / I `tend to` prefer non-fiction.
-- [助動詞] [習慣] tend to:                                たいてい / I `tend not to` remember my dreams.
-- [助動詞] [習慣] tend to:                                ついつい / I `tend to` eat a lot when I'm nervous.
-- [助動詞] [義務] be obliged to:                          We `are obliged to` return the favor they gave us.
-- [助動詞] [推測] was supposed to:                        She `was supposed to` say yes.
-- [助動詞] [仮定] would:                                  `That would` be awesome.
-- [助動詞] [過去] was/were like:                          When I ate Natto for the first time `I was like` what is this?
-- [助動詞] [過去] used to:                                I `used to` read every day.
-- [助動詞] [過去] ended up V-ing:                         I `ended up staying` home.
-- [助動詞] [過去] got to:                                 I `got to` meet Joyce Nelson in person!
-- [助動詞] [過去] was going to:                           I `was going to` get the burger, but the salad looked so good.
-- [助動詞] [未来] be about to:                            I `am about to` go to sleep.
-- [助動詞] [未来] be going to:                            What time `are we going to` be there?
+- [auxiliary] [可能] could:                               「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
+- [auxiliary] [感嘆] 疑問詞と共に用いる should:           「いったい」「そもそも」という意になる
+- [auxiliary] [忠告] should:                              しなければならない (実際にはしないだろうけど) / We `should` ask first.
+- [auxiliary] [忠告] need to:                             しなければならない (ほんまに) / I `need to` get back to the office.
+- [auxiliary] [忠告] have to:                             しなければならない (迫ってきている感) / I `have to` go home.
+- [auxiliary] [忠告] gotta | have got to:                 しなければならない (迫ってきている感) / I `gotta` go.
+- [auxiliary] [忠告] had better:                          しなければならない (身のためだよ)
+- [auxiliary] [提案] (might) want to:                     You `want to` pull your fingers in like this.
+- [auxiliary] [提案] might as well:                       You `might as well` walk home.
+- [auxiliary] [提案] would:                               `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
+- [auxiliary] [習慣] tend to:                             普段 / I `tend to` prefer non-fiction.
+- [auxiliary] [習慣] tend to:                             たいてい / I `tend not to` remember my dreams.
+- [auxiliary] [習慣] tend to:                             ついつい / I `tend to` eat a lot when I'm nervous.
+- [auxiliary] [義務] be obliged to:                       We `are obliged to` return the favor they gave us.
+- [auxiliary] [推測] was supposed to:                     She `was supposed to` say yes.
+- [auxiliary] [仮定] would:                               `That would` be awesome.
+- [auxiliary] [過去] was/were like:                       When I ate Natto for the first time `I was like` what is this?
+- [auxiliary] [過去] used to:                             I `used to` read every day.
+- [auxiliary] [過去] ended up V-ing:                      I `ended up staying` home.
+- [auxiliary] [過去] got to:                              I `got to` meet Joyce Nelson in person!
+- [auxiliary] [過去] was going to:                        I `was going to` get the burger, but the salad looked so good.
+- [auxiliary] [未来] be about to:                         I `am about to` go to sleep.
+- [auxiliary] [未来] be going to:                         What time `are we going to` be there?
+- [auxiliary] [未来] be supposed to:                      What time `are we supposed to` be there?
+- [auxiliary] [未来] be due to:                           She `is due to` have her baby this week.

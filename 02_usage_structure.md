@@ -4,18 +4,26 @@
 
 - ~[重要] 不定詞の意味上の主語:                  I have to work hard `for my daughter` to study abroad.~
 - [お題] You know (that) S V:                   `You know that` guy we met at the party last week?
-- [客観] [物事] S be said to V:                   He is said `to have worked` hard when young.
-- [客観] [物事] It's a custom to V:               `It's a custom to` take off your shoes before entering ...
-- [客観] [物事] It's traditional to V:            In Japan, `it's traditional to` visit ...
-- [客観] [物事] There're times when S V:          `There're times when I crave` a Starbucks Frappuccino really badly.
-- [客観] [時間] It's been a long time since:
-- [客観] [時間] It's been ages since:
+- [見聞] [物事] S be said to V:                   He is said `to have worked` hard when young.
+- [見聞] [物事] It's a custom to V:               `It's a custom to` take off your shoes before entering ...
+- [見聞] [物事] It's traditional to V:            In Japan, `it's traditional to` visit ...
+- [見聞] [物事] There're times when S V:          `There're times when I crave` a Starbucks Frappuccino really badly.
+- [見聞] [時間] It's been a long time since:
+- [見聞] [時間] It's been ages since:
+- [見聞] [多分] It seems like S V:                `It seems like` it's a mixture of two languages.
+- [見聞] [多分] It seems as if/though S V:        `It seems as if` he knew everything.
+- [見聞] [多分] S seems to be:                    `It seems to be broken.`
+- [主観] [多分] S be      likely to V:            `It's likely to` rain tomorrow.
+- [主観] [多分] S be more likely to V:            In engineering, people `are more likely to` work in their field.
+- [主観] [多分] S be less likely to V:            `It's less likely to` get broken.
 - [主観] [多分] I'd say (that) S V:               `I'd say` it's usually more art than science.
 - [主観] [多分] I have a feeling/hunch that S V:  `I have a feeling that` there's more to it.
 - [主観] [多分] I'm sure (that) S V:              `I am sure that` I will enjoy the movie.
 - [主観] [多分] I'm sure of (sth):                `I am sure of` enjoying the movie.
 - [主観] [多分] S be sure to V:                   You `are sure to` see many animals there.
 - [主観] [多分] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
+- [主観] [多分] It could be (that):               `It could be that` Wayne's just naturally fit, but ,,,
+- [主観] [多分] Chances are (that) S V:           It's foggy. But `chances are` it'll clear up later on.
 - ~[主観] [意見] I find O C:                       `I find it really interesting` to study English.~
 - [主観] [意見] It's C how S V:                   `It's interesting how` you said that.
 - [主観] [意見] I believe in O:                   `I don't believe in` ghosts.
@@ -39,6 +47,7 @@
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.
 - [主観] [感情] S know all too well ...:          We `know all too well` how fast the weather can change here; last year our wedding got rained out.
+- [主観] [感情] I will never V again!:            `I will never climb` Mt.Fuji `again!`
 - [主観] [感覚] It feels like O:                  I remember my first day of high school. `It feels like` yesterday.
 - [主観] [気分] I feel like O:                    `I feel like` Thai food. I don't feel like it.
 - [主観] [気分] I feel like V-ing:                `I feel like` going out somewhere.
