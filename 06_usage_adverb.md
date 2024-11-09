@@ -54,6 +54,7 @@
 - [付帯状況] [前置詞] amid O:             フォーマルな during, in the middle of
 - [付帯状況] [前置詞] aboard O:           (乗り物に) 乗って
 - [reason] due to (O):                  I missed school `due to` Covid-19. / She couldn't dance at the party `due to` an injury.
+- [付帯状況] on short notice:           I’m sorry, I can’t make it `on such short notice`.
 
 - [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
 - [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.

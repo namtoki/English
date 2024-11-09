@@ -1,5 +1,6 @@
 
 # USAGE (VERB)
+
 - [SVOC] get O C:                       This song always `gets me feeling` some type of way.
 - [SVOC] have O C:                      I `had my hair cut`.
 - [SVOC] let O C:                       Don't `let me down`. / `Let me in!`
@@ -11,6 +12,7 @@
 - [SVOV] let O 原形V:                   My daughter's upset because I won't `let her get` a tattoo.
 - [SVOV] make O 原形V:                  He `made the students run` in the snow.
 - [SVOtoV] get O to V:                  She `got her son to do` the chores.
+- [idiom] appreciate in value:          価値が上がる
 - [idiom] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
 - [idiom] be eating me alive:           Keeping secrets `was eating me alive.`
 - [idiom] be exemplified by O:          This `is exemplified by` Facebook's Causes application.
@@ -22,6 +24,7 @@
 - [idiom] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
 - [idiom] bring back memories:          This song `brings back memories!`
 - [idiom] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
+- [idiom] depreciate in value:          価値が下がる
 - [idiom] find oneself V-ing:           I often `find myself keeping` an eye on the stock market.
 - [idiom] give it a though:             I'll `give it a thought` and get back to you.
 - [idiom] hasten to V:                  They `hastened to` execute the plan.
@@ -33,14 +36,14 @@
 - [idiom] let A know:                   I must `let my wife know` when I'll be home.
 - [idiom] make a difference:            They are fresh, unique, and have `made a huge difference` for me.
 - [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
+- [idiom] preside over:                 で司会を務める
 - [idiom] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
 - [idiom] take care V-ing:              We hope to `wrap up` the negotiations at the next meeting.
 - [idiom] take the plunge and V:
 - [idiom] take ~~~ off:                 `take time off` / `take a day off`
 - [idiom] usually end up V-ing:         I `usually end up` getting fast food.
+- [idiom] weigh A versus B:             S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
 - [idiom] would've thought that S V:    I `would've thought that` he'd hate dancing at a club.
-- [idiom] depreciate in value:          価値が下がる
-- [idiom] appreciate in value:          価値が上がる
 - [preposition] choose A `over` B:        A より B を選ぶ
 - [preposition] exit `(from/out of)`:     exit a door / exit from a door / exit out of a door
 - [preposition] inform A `of` B:

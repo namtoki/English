@@ -29,6 +29,7 @@
 - [auxiliary] [習慣] tend to:                             普段 / I `tend to` prefer non-fiction.
 - [auxiliary] [習慣] tend to:                             たいてい / I `tend not to` remember my dreams.
 - [auxiliary] [習慣] tend to:                             ついつい / I `tend to` eat a lot when I'm nervous.
+- [auxiliary] [習慣] be subject to:                       の対象となる, を受けやすい, となることがある
 - [auxiliary] [義務] be obliged to:                       We `are obliged to` return the favor they gave us.
 - [auxiliary] [推測] was supposed to:                     She `was supposed to` say yes.
 - [auxiliary] [仮定] would:                               `That would` be awesome.
