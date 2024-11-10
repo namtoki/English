@@ -24,6 +24,8 @@
 - [主観] [多分] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
 - [主観] [多分] It could be (that):               `It could be that` Wayne's just naturally fit, but ,,,
 - [主観] [多分] Chances are (that) S V:           It's foggy. But `chances are` it'll clear up later on.
+- [主観] [多分] There's a high       chance of O: `There's a high chance of` a domino effect.
+- [主観] [多分] There's a low/little chance of O: `There's a low chance of` rain tonight.
 - ~[主観] [意見] I find O C:                       `I find it really interesting` to study English.~
 - [主観] [意見] It's C how S V:                   `It's interesting how` you said that.
 - [主観] [意見] I believe in O:                   `I don't believe in` ghosts.
@@ -50,7 +52,9 @@
 - [主観] [感情] I will never V again!:            `I will never climb` Mt.Fuji `again!`
 - [主観] [感覚] It feels like O:                  I remember my first day of high school. `It feels like` yesterday.
 - [主観] [気分] I feel like O:                    `I feel like` Thai food. I don't feel like it.
+- [主観] [気分] I feel like C:                    `I feel like` an idiot.
 - [主観] [気分] I feel like V-ing:                `I feel like` going out somewhere.
+- [主観] [気分] I feel like S V:                  `I feel like` there is a ton of bricks on my lap.
 - [主観] [気分] I'm in the mood for O:            `I'm not in the mood.`
 - [主観] [気分] I'm in the mood to V:             `I'm in the mood to` watch a movie.
 - [主観] [気分] It's been a while since S V:      `It's been a while since` I've swung a tennis racket.
@@ -62,6 +66,9 @@
 - [主観] [嗜好] any O will do as long as S V:     `Any apartment will do as long as` the rent is low.
 - [主観] [嗜好] It doesn't mean anything:         `It doesn't mean anything` to me anymore.
 - [主観] [嗜好] I can't tell you how much S V:    `I can't tell you how much` I loved it.
+- [主観] [疑問] I wonder if S V:                  `I wonder if` this game is played all over the world.
+- [主観] [疑問] I doubt (that) S V:               `I doubt that` he will win the race.
+- [主観] [疑問] I suspect (that) S V:             `I suspect that` Tom stole the wallet.
 - [訂正] I didn't mean it.:
 - [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
 - [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
@@ -99,12 +106,25 @@
 - [感想] How do you like O?:                    `How do you like` your new shoes?
 - [感想] Which do you prefer?:                  `Which do you prefer`, going to the movies or watching films at home?
 - [感想] Does that sound C?:                    `Does that sound` good?
+- [意見] What's your take on?:
+- [意見] What do you think about O?:            `What do you think about` moving to Osaka?
+- [意見] How do you feel about O?:              `How do you feel about` the service in Japan?
 - [意見] How long until S V?:                   `How long until` he comes back? (How long is it going to be until S V の省略)
 - [意見] How long since S V?:                   `How long since` you met him? (How long has it been since S V の省略)
-- [提案] Would you like to V?:                  `Would you like to` watch it together?
-- [提案] (Would you) care to V?:                `Would you care to` join me for a drink?
-- [提案] (Do you) want to V?:                   `Do you want to` get some food first? / `Want to` get dinner?
-- [提案] How about V-ing?:                      `How about sending` flowers?
-- [提案] Why don't S V?:                        `Why don't` you use this?
-- [質問] What's the word for it?:
-- [質問] What's it called?:
+- [意見] What's the situation with O?:
+- [suggestion] Would you like O?:               `Would you like` some more?
+- [suggestion] Would you like to V?:            `Would you like to` watch it together?
+- [suggestion] (Would you) care to V?:          `Would you care to` join me for a drink?
+- [suggestion] (Do you) want to V?:             `Do you want to` get some food first? / `Want to` get dinner?
+- [suggestion] How about V-ing?:                `How about sending` flowers?
+- [suggestion] Why don't S V?:                  `Why don't` you use this?
+- [offer] Would you like me to V:               `Would you like me to` open the window?
+- [offer] (Do you) want me to V:                `Do you want me to` cook dinner?
+- [question] What's the word for it?:
+- [question] What's it called?:
+- [question] what should I do?:                 `What should I do` in a situation like this?
+- [question] What can I do that V?:             `What can I do that` will make me a more well-rounded basketball player?
+- [question] (By) When ... ?:                   `(By) When` do I have to finish this?
+- [question] When was the last time S V?:       `When was the last time` you talked to him?
+- [question] Is A the same as B?:               `Is this the same skirt as` in the ad?
+- [question] What if S V?:                      `What if I` don't meet the deadline?

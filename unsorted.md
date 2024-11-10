@@ -1,31 +1,3 @@
-- [ ] [probability] `I feel like (S) (V)`:                    `I feel like` there is a ton of bricks on my lap.
-- [ ] [probability] `I feel like (O)`:                        `I feel like` an idiot.
-- [ ] [probability] `There's a high       chance of (O)`:     `There's a high chance of` a domino effect.
-- [ ] [probability] `There's a low/little chance of (O)`:     `There's a low chance of` rain tonight.
-- [x] [question]    `I wonder if (sb) (do)`:                  `I wonder if` this game is played all over the world.
-  - [x]           `I doubt (that) (sb) (do)`:               `I doubt that` he will win the race.
-  - [x]           `I suspect (that) (sb) (do)`:             `I suspect that` Tom stole the wallet.
-- [x] [question]    `What's your take on?`:
-  - [x]           `What do you think about (sth)?`:         `What do you think about` moving to Osaka?
-  - [x]           `How do you feel about (sth)?`:           `How do you feel about` the service in Japan?
-- [x] [question]    `What does (sth) mean?`:                  `What does` “bandwidth” `mean?`
-  - [x]           `How do you say (sth) in English?`:
-  - [x]           `What do you mean by that?`:
-- [x] [question]    `what should I do?`:                      `What should I do` in a situation like this?
-  - [x]           `What can (sb) do that (do)?`             `What can I do that` will make me a more well-rounded basketball player?
-- [x] [question]    `(By) When ... ?`:                        `(By) When` do I have to finish this?
-  - [x]           `When was the last time (sb) (do)?`:      `When was the last time` you talked to him?
-- [x] [question]    `Are you (doing)?`:                       `Are you going` to Tokyo or New York next week?
-- [x] [question]    `Is (sth) the same as (sth)?`:            `Is this the same skirt as` in the ad?
-- [x] [question]    `Do you have the time?`:
-- [ ] [question]    `Do you know anyone`:                     `Do you know anyone` in New York?
-- [ ] [question]    `What's the situation with (sth)?`:
-- [x] [suggestion]  `Would you like me to (do)`:              `Would you like me to` open the window?
-  - [x]           `(Do you) want me to (do)`:               `Do you want me to` cook dinner?
-- [x] [suggestion]  `Would you like (sth)?`:                  `Would you like` some more?
-- [x] [assumption]  `What if (sb) (do)?`:                     `What if I` don't meet the deadline?
-- [x] [assumption]  `Would it (do) if (sb) (do)?`:            `Would it sound` a little bit weird `if I said` ...
-- [x] [assumption]  `How would you say it?`:                  If you were to state your dream, `how would you say it?`
 - [ ] [suggestion]  `We'll see whether (S) (V)`:              `We'll see whether` the newspapers print the story.
 - [x] [request]     `Could you (V)?`:                         `Could you` say that again?
 - [x] [request]     `Would you (V)?`:                         `Would you` get me that box?
@@ -43,6 +15,13 @@
 - [x] [permission]  `Would you mind (S) (V-ing)?`:            `Would you mind` my opening the window?
 - [x] [permission]  `I was wondering if (S) could (V)`:       `I was wondering if` you `could` do me a favor.
 - [ ] [permission]  `Do you think I could (V)?`:              `Do you think I could` get your number?
+- [助動詞] [嗜好] be better off O:                  You`'re better off` starting from the beginning than trying ...
+- [x] [suggestion]  `I say (S) (V)`:                          `I say` it's time you force the issue.
+- [ ] [suggestion]  `(S) be gonna have to (V)`:               今後 残念
+- [ ] [suggestion]  `(S) be supposed to (V)`:                 であるべき
+- [ ] [suggestion]  `It might be a good idea to (V)`:         `It might be a good idea to` read the reviews before you buy it.
+- [ ] [suggestion]  `(S) might not hurt to (V)`:
+- [x] [suggestion]  `it would be better if (S) (V)`:          `Would it be better if` I got wet?
 - [ ] `That's fanny.`:                          `That's fanny!`(fanny ha-ha)
 - [ ] `Here we go.`:                            Have you prepared everything? OK, `here we go`!
 - [ ] `Here we go.`:                            Sure! Line up in front of that statue! 3.2.1 `here we go`!
@@ -919,10 +898,3 @@ urgent emergency pressing
 - [x] sales quota                       (売上ノルマ)
 - [x] mid-career                        (中途社員)              <!-- This event is for freshman and not mid-career employees like me. -->
 - [x] appraisal                         (査定)
-- [助動詞] [嗜好] be better off O:                  You`'re better off` starting from the beginning than trying ...
-- [x] [suggestion]  `I say (S) (V)`:                          `I say` it's time you force the issue.
-- [ ] [suggestion]  `(S) be gonna have to (V)`:               今後 残念
-- [ ] [suggestion]  `(S) be supposed to (V)`:                 であるべき
-- [ ] [suggestion]  `It might be a good idea to (V)`:         `It might be a good idea to` read the reviews before you buy it.
-- [ ] [suggestion]  `(S) might not hurt to (V)`:
-- [x] [suggestion]  `it would be better if (S) (V)`:          `Would it be better if` I got wet?
