@@ -6,6 +6,7 @@
 - [代名詞] 数量形容詞の代名詞 (両方):   a lot, none
 - [idiom] what 名詞 S+V:                Lend me `what books you can`. = Lend me `all the books you can`.
 - [idiom] nothing out of the ordinary:  普通
+- [idiom] consensus of opinion:         意見の一致
 - [語法] hope of:                       する希望 / する見込み / I have no `hope of` getting financial support for the project.
 - [語法] hope for:                      うまく行くことに対する希望 / many people once again have `hope for` genuine changes in the system.
 - [語法] commitment | commitments:      献身 | 約束
@@ -21,3 +22,5 @@
 - [複合] benefits package:              福利厚生
 - [複合] renewal notice:                更新通知
 - [複合] advanced degree:               修士号 博士号
+- [複合] boarding pass:                 搭乗券
+- [複合] baggage claim:                 荷物受け取り所

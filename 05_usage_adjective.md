@@ -13,4 +13,5 @@
 - [idiom] A of a kind/sort:             ある種の A
 - [idiom] halfway through:              の途中で,半ばを過ぎた / I was halfway through dinner when he appeared.
 - [idiom] last-minute:                  土壇場の
+- [idiom] for hire:                     有料で利用できる、借りられる
 - [副詞みたい] neighborly:              隣人の 親切な

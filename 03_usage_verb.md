@@ -17,12 +17,14 @@
 - [idiom] be eating me alive:           Keeping secrets `was eating me alive.`
 - [idiom] be exemplified by O:          This `is exemplified by` Facebook's Causes application.
 - [idiom] be in a class of ones own:    They `are in a class of their own`.
+- [idiom] be in favor of:               I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
 - [idiom] be in the process of V-ing:
 - [idiom] be out of the question:       Going to the party `is out of the question`!
 - [idiom] be supposed to V:             Dolphins `are supposed to` be intelligent.
 - [idiom] be supposed to V:             On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [idiom] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
 - [idiom] bring back memories:          This song `brings back memories!`
+- [idiom] bring/get A up to speed:      We need to `bring newbies up to speed` on our project as quickly as possible.
 - [idiom] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
 - [idiom] depreciate in value:          価値が下がる
 - [idiom] find oneself V-ing:           I often `find myself keeping` an eye on the stock market.
@@ -38,6 +40,7 @@
 - [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
 - [idiom] preside over:                 で司会を務める
 - [idiom] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
+- [idiom] see to it that:               The professor `saw to it that` all of students understood the nature of the assignment.
 - [idiom] take care V-ing:              We hope to `wrap up` the negotiations at the next meeting.
 - [idiom] take the plunge and V:
 - [idiom] take ~~~ off:                 `take time off` / `take a day off`
