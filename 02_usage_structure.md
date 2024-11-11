@@ -13,6 +13,7 @@
 - [見聞] [多分] It seems like S V:                `It seems like` it's a mixture of two languages.
 - [見聞] [多分] It seems as if/though S V:        `It seems as if` he knew everything.
 - [見聞] [多分] S seems to be:                    `It seems to be broken.`
+- [見聞] [多分] I see you have V:                 `I see you've` finished planting the shrubs.
 - [主観] [多分] S be      likely to V:            `It's likely to` rain tomorrow.
 - [主観] [多分] S be more likely to V:            In engineering, people `are more likely to` work in their field.
 - [主観] [多分] S be less likely to V:            `It's less likely to` get broken.
@@ -45,6 +46,7 @@
 - [主観] [意見] It's no use V-ing:                `It's no use` polishing it.
 - [主観] [意見] S V-ing. That is C:               `This ramen shop putting whipped cream in soup, that's` gross.
 - [主観] [意見] S V-ing, that'd be C:             A Starbucks opening right next to my apartment, `that'd be` amazing.
+- [主観] [意見] I say S V:                        `I say` it's time you force the issue.
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.
@@ -101,8 +103,24 @@
 - [強調] This is something S V:                 `This is something` a lot of people don't consider.
 - [謙遜] I have to say S V:                     `I have to say` your place is adorable!
 
-## QUESTION
+## ASK
 
+- ~[request] Could you V?:                       `Could you` say that again?~
+- ~[request] Would you V?:                       `Would you` get me that box?~
+- ~[request] i'd like you to V:~
+- [request] Would you mind V-ing?:              `Would you mind` doing that?
+- [request] I was wondering if you could V?:    `I was wondering if you could` do me a favor.
+- [request] I'd be grateful if you could V?:    `I would be grateful if you could` give us an ...
+- [request] I need you to V:                    `I need you to` lead the presentation.
+- [request] Do you think you could V?:          `Do you think you could` talk to her?
+- [request] Please do me a favor and V?:        `Please do me a favor and give` me a ride to Times Square.
+- [request] Would it be possible to V?:         `Would it be possible to` have the invoice ready by the 15th?
+- ~[permit] Could I V?:                          `Could I` get a sandwich please?~
+- [permit] Is it OK/alright if S V?:            `Is it OK if` I park here?
+- [permit] Would you mind if S V?:              `Do you mind if` I stop by your house?
+- [permit] Would you mind S V-ing?:             `Would you mind` my opening the window?
+- [permit] I was wondering if S could V:        `I was wondering if` you `could` do me a favor.
+- [permit] Do you think I could V?:             `Do you think I could` get your number?
 - [感想] How do you like O?:                    `How do you like` your new shoes?
 - [感想] Which do you prefer?:                  `Which do you prefer`, going to the movies or watching films at home?
 - [感想] Does that sound C?:                    `Does that sound` good?
@@ -118,8 +136,11 @@
 - [suggestion] (Do you) want to V?:             `Do you want to` get some food first? / `Want to` get dinner?
 - [suggestion] How about V-ing?:                `How about sending` flowers?
 - [suggestion] Why don't S V?:                  `Why don't` you use this?
+- [suggestion] It might be a good idea to V:    `It might be a good idea to` read the reviews before you buy it.
+- [suggestion] it would be better if S V:       `Would it be better if` I got wet?
 - [offer] Would you like me to V:               `Would you like me to` open the window?
 - [offer] (Do you) want me to V:                `Do you want me to` cook dinner?
+- [offer] We'll see whether S V:                `We'll see whether` the newspapers print the story.
 - [question] What's the word for it?:
 - [question] What's it called?:
 - [question] what should I do?:                 `What should I do` in a situation like this?

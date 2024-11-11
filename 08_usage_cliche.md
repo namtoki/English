@@ -1,15 +1,22 @@
 # USAGE (CLICHE)
 
-- [返事] [賛成] I hope so:                      そう願うよ
-- [返事] [賛成] Sure thing                      りょ
-- [返事] [中間] It doesn't matter:              どちらでもいいよ
-- [返事] [中間] I'm not particular about it:    こだわりはないよ
-- [返事] [反対] I hope not:                     そうならないことを願うよ
-- [返事] [驚嘆] why:                            おや
-- [返事] [諦め] It doesn't matter:              どうでもいいよ
-- [返事] [諦め] That's the way it is:           しょうがないよ
-- [返事] [諦め] I hate to admit it, but:        `I hate to admit it, but` I might need your help.
-- [返事] [質問] What do you mean by that?:      それってどういう意味？
+## DECLARATIVE
+
+- [aha] [agree] Sure thing                          りょ
+- [aha] [fun] That's fanny.:                        `That's fanny!`(fanny ha-ha)
+- [aha] [surprise] why:                             おや
+- [reply] [neutral] It doesn't matter:              どちらでもいいよ
+- [reply] [neutral] I'm not particular about it:    こだわりはないよ
+- [reply] [positive] I hope so:                     そう願うよ
+- [reply] [negative] I hope not:                    そうならないことを願うよ
+- [reply] [negative] It doesn't matter:             どうでもいいよ
+- [reply] [negative] That's the way it is:          しょうがないよ
+- [reply] [negative] I hate to admit it, but:       `I hate to admit it, but` I might need your help.
+
+## ASK
+
+- [aha] [質問] What do you mean by that?:      それってどういう意味？
+
 - [仕事] Something came up:                   急用ができた
 - [仕事] That would be great:                 そうしていただけると助かります
 - [仕事] That's not the way I see it:         違う見方をしています

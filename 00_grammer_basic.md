@@ -26,6 +26,7 @@
 - [auxiliary] [提案] (might) want to:                     You `want to` pull your fingers in like this.
 - [auxiliary] [提案] might as well:                       You `might as well` walk home.
 - [auxiliary] [提案] would:                               `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
+- [auxiliary] [提案] (might) not hurt to V:               してみてもいいかも
 - [auxiliary] [習慣] tend to:                             普段 / I `tend to` prefer non-fiction.
 - [auxiliary] [習慣] tend to:                             たいてい / I `tend not to` remember my dreams.
 - [auxiliary] [習慣] tend to:                             ついつい / I `tend to` eat a lot when I'm nervous.

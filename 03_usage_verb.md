@@ -14,6 +14,7 @@
 - [SVOtoV] get O to V:                  She `got her son to do` the chores.
 - [idiom] appreciate in value:          価値が上がる
 - [idiom] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
+- [idiom] be better off O:              You`'re better off` starting from the beginning than trying ...
 - [idiom] be eating me alive:           Keeping secrets `was eating me alive.`
 - [idiom] be exemplified by O:          This `is exemplified by` Facebook's Causes application.
 - [idiom] be in a class of ones own:    They `are in a class of their own`.
@@ -57,6 +58,7 @@
 - [phrasal] expand `on/upon`:             より詳しく説明する
 - [phrasal] get ahead:                  If you want to `get ahead` in life, you must make some sacrifices.
 - [phrasal] get to:                     I'll `get to it` as soon as I can.
+- [phrasal] fold up:                    を折りたたむ
 - [phrasal] hope for:                   We have been `hoping for` a pay raise.
 - [phrasal] look into:                  I want to `look into` the murder case more closer because something is strange.
 - [phrasal] move forward with:          Once the contract is signed, we can `move forward with` the process
@@ -67,6 +69,7 @@
 - [phrasal] set forth:                  Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
 - [phrasal] set out:                    We `set out` on a hike. / `set out` one's ideas
 - [phrasal] settle for:                 But for now, we'll have to `settle for` this.
+- [phrasal] take down:                  解体する / The woman is `taking down` a canopy.
 - [phrasal] wrap up:                    We hope to `wrap up` the negotiations at the next meeting.
 - [類語] adjust | arrange | coordinate: 既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
 - [類語] cope with | deal with:         耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
