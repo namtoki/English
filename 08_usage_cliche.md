@@ -8,6 +8,19 @@
 - [reaction] Sounds good.:
 - [reaction] I know!:                             `I know!` Let's go bowling.
 - [reaction] Lucky you!:
+- [reaction] Not again!:                          まただ！
+- [reaction] Here we go again.:                   まただ！ / `Here we go again!` I told you I am not interested in getting married!
+- [reaction] There you go again.:                 まただ！ / `There you go again.` How many times do I have to tell you?
+- [reaction] Same here:
+- [reaction] So do I:
+- [reaction] (I'm) happy to help.:                どういたしまして / Thanks for reading my outline. `Happy to help!`
+- [reaction] My pleasure.:                        どういたしまして / Formal
+- [reaction] Not at all.:                         どういたしまして / Business / Casual
+- [reaction] Don't mention it.:                   どういたしまして / Business
+- [reaction] Anytime.:                            どういたしまして / Casual
+- [reaction] No problem/worries.:                 どういたしまして / Casual
+- [reaction] You bet.:                            どういたしまして / Casual Slung
+- [reaction] Neither do I:
 - [murmur] why:                                   おや
 - [murmur] Here we go.:                           よし！ / `Here we go`! Your dinner is ready! / `Here we go!` That is the building we were looking for!
 - [murmur] There we go.:                          よし！ / Man, am I out of shape. `There we go`. Hey, Anna! Sven!
@@ -17,6 +30,7 @@
 - [yell] Here we go.:                             Sure! Line up in front of that statue! 3.2.1 `here we go`!
 - [service] Here you go/are.:                     どうぞ / `Here you go`. This is the doll you wanted.
 - [service] There you go.:                        どうぞ / I’m going to go for it! / Yeah. `There you go`!
+- [service] You name it.:                         なんでも (君が決めて) いいよ
 
 ## DECLARATIVE
 
