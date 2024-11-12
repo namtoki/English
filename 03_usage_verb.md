@@ -14,6 +14,7 @@
 - [SVOtoV] get O to V:                  She `got her son to do` the chores.
 - [idiom] appreciate in value:          価値が上がる
 - [idiom] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
+- [idiom] be based out of:              を拠点とする / The position `is based out of` the main office in Seattle.
 - [idiom] be better off O:              You`'re better off` starting from the beginning than trying ...
 - [idiom] be eating me alive:           Keeping secrets `was eating me alive.`
 - [idiom] be exemplified by O:          This `is exemplified by` Facebook's Causes application.
@@ -21,6 +22,8 @@
 - [idiom] be in favor of:               I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
 - [idiom] be in the process of V-ing:
 - [idiom] be out of the question:       Going to the party `is out of the question`!
+- [idiom] be of service:                の手助けになる, に役立つ / I'm glad I could `be of service`.
+- [idiom] be under the impression that: だと思い込んでいる 
 - [idiom] be supposed to V:             Dolphins `are supposed to` be intelligent.
 - [idiom] be supposed to V:             On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [idiom] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
@@ -61,7 +64,7 @@
 - [phrasal] fold up:                    を折りたたむ
 - [phrasal] hope for:                   We have been `hoping for` a pay raise.
 - [phrasal] look into:                  I want to `look into` the murder case more closer because something is strange.
-- [phrasal] move forward with:          Once the contract is signed, we can `move forward with` the process
+- [phrasal] move forward with:          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
 - [phrasal] move forward/up:            Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
 - [phrasal] narrow down:                This question is, how long will it take to `narrow down` the list.
 - [phrasal] push back:                  We can `move up` or `push back` the schedule to accommodate your availability.

@@ -24,6 +24,7 @@
 - [when] [過去] quite recently:           ごく最近
 - [when] [現在] from now on:              I have to cut down on my expenses, `so from now on`, I'm ~~
 - [when] [現在] by now:                   You must be hungry `by now`.
+- [when] [現在] to date:                  これまでに
 - [when] [未来] right away:               I'll come `right away`.
 - [when] [未来] any day now:              = very soon
 - [when] [未来] soon:

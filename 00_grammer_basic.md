@@ -42,4 +42,5 @@
 - [auxiliary] [未来] be about to:                         I `am about to` go to sleep.
 - [auxiliary] [未来] be going to:                         What time `are we going to` be there?
 - [auxiliary] [未来] be supposed to:                      What time `are we supposed to` be there?
+- [auxiliary] [未来] be slated to:                        What time `are we slated to` be there?
 - [auxiliary] [未来] be due to:                           She `is due to` have her baby this week.

@@ -7,6 +7,7 @@
 - [見聞] [物事] S be said to V:                   He is said `to have worked` hard when young.
 - [見聞] [物事] It's a custom to V:               `It's a custom to` take off your shoes before entering ...
 - [見聞] [物事] It's traditional to V:            In Japan, `it's traditional to` visit ...
+- [見聞] [物事] They charge O:                    `They charge` a delivery fee.
 - [見聞] [物事] There're times when S V:          `There're times when I crave` a Starbucks Frappuccino really badly.
 - [見聞] [時間] It's been a long time since:
 - [見聞] [時間] It's been ages since:
@@ -130,6 +131,7 @@
 - [意見] How long until S V?:                   `How long until` he comes back? (How long is it going to be until S V の省略)
 - [意見] How long since S V?:                   `How long since` you met him? (How long has it been since S V の省略)
 - [意見] What's the situation with O?:
+- [意見] What are the chances that S V?:        `What are the chances that` the meeting will finish early?
 - [suggestion] Would you like O?:               `Would you like` some more?
 - [suggestion] Would you like to V?:            `Would you like to` watch it together?
 - [suggestion] (Would you) care to V?:          `Would you care to` join me for a drink?
