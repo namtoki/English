@@ -2,8 +2,8 @@
 
 ## DECLARATIVE
 
-- ~[重要] 不定詞の意味上の主語:                  I have to work hard `for my daughter` to study abroad.~
-- [お題] You know (that) S V:                   `You know that` guy we met at the party last week?
+- [beginning] You might wonder O:               `You might wonder` why that is so.
+- [beginning] Let's say O:                      とりあえず〜としようか / `Let's say` dinner at seven. / `Let's say` Monday at three.
 - [見聞] [物事] S be said to V:                   He is said `to have worked` hard when young.
 - [見聞] [物事] It's a custom to V:               `It's a custom to` take off your shoes before entering ...
 - [見聞] [物事] It's traditional to V:            In Japan, `it's traditional to` visit ...
@@ -48,6 +48,7 @@
 - [主観] [意見] S V-ing. That is C:               `This ramen shop putting whipped cream in soup, that's` gross.
 - [主観] [意見] S V-ing, that'd be C:             A Starbucks opening right next to my apartment, `that'd be` amazing.
 - [主観] [意見] I say S V:                        `I say` it's time you force the issue.
+- [主観] [意見] That sounds like:                 それは .. だね / `That sounds like` a lot of work.
 - [主観] [感情] I feel C:                         `I feel bad` about canceling.
 - [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
 - [主観] [感情] I wish S V:                       `I wish` I spoke French.
@@ -106,6 +107,14 @@
 
 ## ASK
 
+- [beggining] I told you O, right?:             `I told you` about my dad, `right?`
+- [biggining] Did you hear O?:                  `Did you hear` about Kim? She got promoted.
+- [biggining] You know O?:                      `You know` our budget presentation today?
+- [biggining] You know that S V?:               `You know that` guy we met at the party last week?
+- [biggining] You know how S V?:                `You know how` I've been looking for a new TV for a while?
+- [biggining] Do you remember that O?:          `Do you remember that` bike at ABC Departmment Store?
+- [biggining] I remember S V:                   `I remember` you went there last year.
+- [biggining] I understand that S V:            `I understand that` you speak a little English.
 - ~[request] Could you V?:                       `Could you` say that again?~
 - ~[request] Would you V?:                       `Would you` get me that box?~
 - ~[request] i'd like you to V:~
@@ -122,16 +131,17 @@
 - [permit] Would you mind S V-ing?:             `Would you mind` my opening the window?
 - [permit] I was wondering if S could V:        `I was wondering if` you `could` do me a favor.
 - [permit] Do you think I could V?:             `Do you think I could` get your number?
-- [感想] How do you like O?:                    `How do you like` your new shoes?
-- [感想] Which do you prefer?:                  `Which do you prefer`, going to the movies or watching films at home?
-- [感想] Does that sound C?:                    `Does that sound` good?
-- [意見] What's your take on?:
-- [意見] What do you think about O?:            `What do you think about` moving to Osaka?
-- [意見] How do you feel about O?:              `How do you feel about` the service in Japan?
-- [意見] How long until S V?:                   `How long until` he comes back? (How long is it going to be until S V の省略)
-- [意見] How long since S V?:                   `How long since` you met him? (How long has it been since S V の省略)
-- [意見] What's the situation with O?:
-- [意見] What are the chances that S V?:        `What are the chances that` the meeting will finish early?
+- [opinion] How do you like O?:                 `How do you like` your new shoes?
+- [opinion] Which do you prefer?:               `Which do you prefer`, going to the movies or watching films at home?
+- [opinion] Does that sound C?:                 `Does that sound` good?
+- [opinion] What's your take on?:
+- [opinion] What do you think about O?:         `What do you think about` moving to Osaka?
+- [opinion] How do you feel about O?:           `How do you feel about` the service in Japan?
+- [opinion] How long until S V?:                `How long until` he comes back? (How long is it going to be until S V の省略)
+- [opinion] How long since S V?:                `How long since` you met him? (How long has it been since S V の省略)
+- [opinion] What's the situation with O?:
+- [opinion] What are the chances that S V?:     `What are the chances that` the meeting will finish early?
+- [opinion] Let me ask you O:                   `Let me ask you` your honest opinion.
 - [suggestion] Would you like O?:               `Would you like` some more?
 - [suggestion] Would you like to V?:            `Would you like to` watch it together?
 - [suggestion] (Would you) care to V?:          `Would you care to` join me for a drink?

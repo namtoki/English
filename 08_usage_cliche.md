@@ -2,15 +2,20 @@
 
 ## SHORT
 
+- [beggining] You know what:                      あのさ / `You know what,` I'm going to get an ice cream cone.
+- [beggining] I know!:                            あ、そうだ / `I know!` Let's go bowling.
+- [beggining] That's fanny.:                      おかしいなぁ / `That's fanny.` Where are my keys?(fanny weird)
 - [beggining] You wanted to see me?:              お呼びでしょうか
 - [beggining] Hey, stranger!:                     珍しいね
 - [beggining] It's been a while.:                 久しぶり
-- [beggining] It's been a month since:            `It's been a month since` we met the last time.
-- [beggining] I haven't seen you in O:            `I haven't seen you in` a month.
-- [beggining] Do you have a minute/second?:       今いい？
-- [beggining] Do you have time?:                  今いい？
-- [beggining] Is this a good time?:               今いい？
-- [beggining] Can I borrow you for a minute/second?:今いい？
+- [beggining] It's been a month since:            久しぶり / `It's been a month since` we met the last time.
+- [beggining] I haven't seen you in O:            〜ぶり / `I haven't seen you in` a month.
+- [beggining] I was thinking.:                    考えてたんだけど / `I was thinking.` Let's take a short trip.
+- [beggining] why:                                おや
+- [beggining] Here we go.:                        よし！ / `Here we go`! Your dinner is ready! / `Here we go!` That is the building we were looking for!
+- [beggining] There we go.:                       よし！ / Man, am I out of shape. `There we go`. Hey, Anna! Sven!
+- [beggining] Here we are.:                       よし！ / `Here we are`! Home sweet home.
+- [beggining] There we are.:                      よし！ / Well, `there we are`. I've finally finished my homework.
 - [reaction] [agree] Sure thing:                    りょ
 - [reaction] [agree] (That's) true.:                たしかに
 - [reaction] [agree] (You're) right.:               そうね
@@ -61,20 +66,14 @@
 - [reaction] [thanks] No problem/worries.:          どういたしまして / Casual
 - [reaction] [thanks] Not at all.:                  どういたしまして / Business / Casual
 - [reaction] [thanks] You bet.:                     どういたしまして / Casual Slung
-- [murmur] I know!:                               あ、そうだ / `I know!` Let's go bowling.
-- [murmur] why:                                   おや
-- [murmur] Here we go.:                           よし！ / `Here we go`! Your dinner is ready! / `Here we go!` That is the building we were looking for!
-- [murmur] There we go.:                          よし！ / Man, am I out of shape. `There we go`. Hey, Anna! Sven!
-- [murmur] Here we are.:                          よし！ / `Here we are`! Home sweet home.
-- [murmur] There we are.:                         よし！ / Well, `there we are`. I've finally finished my homework.
-- [murmur] That's fanny.:                         おかしいなぁ / `That's fanny.` Where are my keys?(fanny weird)
+- [reaction] [correction] Don't get me wrong.:      誤解しないでください
 - [yell] Here we go:                              Have you prepared everything? OK, `here we go`!
 - [yell] Here we go.:                             Sure! Line up in front of that statue! 3.2.1 `here we go`!
 - [service] Here you go/are.:                     どうぞ / `Here you go`. This is the doll you wanted.
 - [service] There you go.:                        どうぞ / I’m going to go for it! / Yeah. `There you go`!
 - [service] You name it.:                         なんでも (君が決めて) いいよ
 
-## LONG
+## DECLARATIVE
 
 - [offer] I'll tell you later.:
 - [offer] I'll let you know.:
@@ -97,3 +96,17 @@
 - [日常] Do you have the time?:               今何時？
 - [日常] Do you know anyone in A:             A に知り合いはいる？
 - [議論] You (may) have (got) a point (there):`You may have a pint there`, but I still believe the plan is feasible
+
+## ASK
+
+- [beggining] Do you have a minute/second?:       今いい？
+- [beggining] Do you have time?:                  今いい？
+- [beggining] Is this a good time?:               今いい？
+- [beggining] Can I borrow you for a second?:     今いい？
+- [beggining] Is everything all right?:           大丈夫？
+- [beggining] I'd like to ask you a favor.:       お願いしてもいいですか
+- [beggining] You needed a favor?:
+- [request] Can you give me a hand?:              手伝ってくれる？
+- [question] How's your day going?:               調子はどう？
+- [question] What are you up to?:                 何しようとしているの？
+- [question] What's going on?:                    A: What's up? B: `What's going on?` / `What's going on` in here? What are you doing?
