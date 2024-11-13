@@ -2,15 +2,37 @@
 
 ## SHORT
 
+- [beggining] You wanted to see me?:              お呼びでしょうか
+- [beggining] Hey, stranger!:                     珍しいね
+- [beggining] It's been a while.:                 久しぶり
+- [beggining] It's been a month since:            `It's been a month since` we met the last time.
+- [beggining] I haven't seen you in O:            `I haven't seen you in` a month.
+- [beggining] Do you have a minute/second?:       今いい？
+- [beggining] Do you have time?:                  今いい？
+- [beggining] Is this a good time?:               今いい？
+- [beggining] Can I borrow you for a minute/second?:今いい？
 - [reaction] [agree] Sure thing:                    りょ
 - [reaction] [agree] (That's) true.:                たしかに
 - [reaction] [agree] (You're) right.:               そうね
+- [reaction] [agree] I see (what you mean).:        その通りです
 - [reaction] [agree] No doubt about it.:            まったくその通りです
+- [reaction] [agree] You have no idea.:             まじでそうなんだよ
+- [reaction] [agree] (That) makes sense.:           understood
+- [reaction] [agree] Fair enough.:                  okay
+- [reaction] [agree] I hope so:                     そう願うよ
+- [reaction] [agree] I hope not:                    そうならないことを願うよ
 - [reaction] [negative] Here we go again.:          まただ！ / `Here we go again!` I told you I am not interested in getting married!
 - [reaction] [negative] Not again!:                 まただ！
 - [reaction] [negative] That's a fair point, but:   それはもっともですが、
 - [reaction] [negative] I hear you.:                言いたいことはわかります / I’m not looking forward to the directors’ meeting tomorrow. `I hear you.`
 - [reaction] [negative] There you go again.:        まただ！ / `There you go again.` How many times do I have to tell you?
+- [reaction] [negative] I told you.:                だから言ったじゃん
+- [reaction] [negative] It doesn't matter:          どうでもいいよ
+- [reaction] [negative] That's the way it is:       しょうがないよ
+- [reaction] [negative] I hate to admit it, but:    `I hate to admit it, but` I might need your help.
+- [reaction] [negative] That's rather unlikely.:    ほとんど無いと思います。
+- [reaction] [neutral] It doesn't matter:           どちらでもいいよ
+- [reaction] [neutral] I'm not particular about it: こだわりはないよ
 - [reaction] [positive] (That) Sounds like a plan.: よさそう
 - [reaction] [positive] Good to know.:              知れてよかった
 - [reaction] [positive] Lucky you!:                 うらやましい
@@ -25,10 +47,13 @@
 - [reaction] [sympathy] I know, right?:             だよね / The new Star Wars is awesome! `I know, right?`
 - [reaction] [sympathy] I bet.:                     だよね / There was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
 - [reaction] [sympathy] Tell me about it.:          だよね
+- [reaction] [sympathy] You can say that again.:    だよね
 - [reaction] [sympathy] I feel you.:                わかるよ / I’m tired of living in the city. Yeah, `I feel you.` I want to move near the mountains.
 - [reaction] [sympathy] I know what you mean.:      わかるよ
+- [reaction] [sympathy] I know what you are saying: わかるよ
 - [reaction] [sympathy] I've been there.:           わかる
 - [reaction] [sympathy] I was going to say.:        言おうと思っていたよ
+- [reaction] [sympathy] That's what I think, too.:  私も思っていたこと
 - [reaction] [thanks] (I'm) happy to help.:         どういたしまして / Thanks for reading my outline. `Happy to help!`
 - [reaction] [thanks] Anytime.:                     どういたしまして / Casual
 - [reaction] [thanks] Don't mention it.:            どういたしまして / Business
@@ -49,21 +74,14 @@
 - [service] There you go.:                        どうぞ / I’m going to go for it! / Yeah. `There you go`!
 - [service] You name it.:                         なんでも (君が決めて) いいよ
 
-## DECLARATIVE
+## LONG
 
-- [reply] [neutral] It doesn't matter:              どちらでもいいよ
-- [reply] [neutral] I'm not particular about it:    こだわりはないよ
-- [reply] [positive] I hope so:                     そう願うよ
-- [reply] [negative] I hope not:                    そうならないことを願うよ
-- [reply] [negative] It doesn't matter:             どうでもいいよ
-- [reply] [negative] That's the way it is:          しょうがないよ
-- [reply] [negative] I hate to admit it, but:       `I hate to admit it, but` I might need your help.
-- [reply] [negative] That's rather unlikely.:       ほとんど無いと思います。
-
-## ASK
-
+- [offer] I'll tell you later.:
+- [offer] I'll let you know.:
+- [offer] So much for O:                          `So much for` the small talk. Let's get down to business.
+- [offer] Leave it there.:
+- [offer] Take your time.:
 - [aha] [質問] What do you mean by that?:      それってどういう意味？
-
 - [仕事] Something came up:                   急用ができた
 - [仕事] That would be great:                 そうしていただけると助かります
 - [仕事] That's not the way I see it:         違う見方をしています

@@ -26,3 +26,5 @@
 - [複合] advanced degree:               修士号 博士号
 - [複合] boarding pass:                 搭乗券
 - [複合] baggage claim:                 荷物受け取り所
+- [複合] vapor trail:                   飛行機雲
+- [複合] credit voucher:                無料引換券

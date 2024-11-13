@@ -27,6 +27,7 @@
 - [idiom] be supposed to V:             Dolphins `are supposed to` be intelligent.
 - [idiom] be supposed to V:             On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [idiom] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
+- [idiom] be open to any O:             I`'m open to any` suggestions you may have for changes.
 - [idiom] bring back memories:          This song `brings back memories!`
 - [idiom] bring/get A up to speed:      We need to `bring newbies up to speed` on our project as quickly as possible.
 - [idiom] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
@@ -51,6 +52,9 @@
 - [idiom] usually end up V-ing:         I `usually end up` getting fast food.
 - [idiom] weigh A versus B:             S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
 - [idiom] would've thought that S V:    I `would've thought that` he'd hate dancing at a club.
+- [idiom] know one's way around:        の地理に明るい
+- [idiom] shoot footage of:             の場面の撮影をする
+- [idiom] make an appearance:           出席/出演する
 - [preposition] choose A `over` B:        A より B を選ぶ
 - [preposition] exit `(from/out of)`:     exit a door / exit from a door / exit out of a door
 - [preposition] inform A `of` B:
@@ -72,6 +76,7 @@
 - [phrasal] set forth:                  Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
 - [phrasal] set out:                    We `set out` on a hike. / `set out` one's ideas
 - [phrasal] settle for:                 But for now, we'll have to `settle for` this.
+- [phrasal] straighten up:              (物事を正しい位置に戻すように) 整理する
 - [phrasal] take down:                  解体する / The woman is `taking down` a canopy.
 - [phrasal] wrap up:                    We hope to `wrap up` the negotiations at the next meeting.
 - [類語] adjust | arrange | coordinate: 既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
