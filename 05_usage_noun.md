@@ -1,30 +1,30 @@
 # USAGE (NOUN)
 
-- [比較] among the 最上級 複数形:       = one of ...
-- [代名詞] 数量形容詞の代名詞 (複数形): few, lots, some, many, several
-- [代名詞] 数量形容詞の代名詞 (単数形): little, much(多くのこと), any, every, each
-- [代名詞] 数量形容詞の代名詞 (両方):   a lot, none
-- [idiom] what 名詞 S+V:                Lend me `what books you can`. = Lend me `all the books you can`.
+- [comparative] among the 最上級 複数形:= one of ...
+- [compaund] advanced degree:           修士号 博士号
+- [compaund] baggage claim:             荷物受け取り所
+- [compaund] benefits package:          福利厚生
+- [compaund] boarding pass:             搭乗券
+- [compaund] commuter train:            通勤列車
+- [compaund] credit voucher:            無料引換券
+- [compaund] enrollment quota:          入学定員数
+- [compaund] renewal notice:            更新通知
+- [compaund] repeat business:           常連
+- [compaund] trade exhibition:          展示会
+- [compaund] vapor trail:               飛行機雲
+- [compaund] wildlife refuge:           鳥獣保護区
+- [idiom] **consensus of opinion:         意見の一致**
 - [idiom] nothing out of the ordinary:  普通
-- [idiom] consensus of opinion:         意見の一致
 - [idiom] pound sign:                   #
-- [語法] hope of:                       する希望 / する見込み / I have no `hope of` getting financial support for the project.
-- [語法] hope for:                      うまく行くことに対する希望 / many people once again have `hope for` genuine changes in the system.
-- [語法] impact on:                     に対する影響
-- [語法] commitment | commitments:      献身 | 約束
-- [語法] custom | customs:              習慣 | 税関
-- [語法] premise | premises:            前提 | 家屋,建物,構内,敷地内
-- [語法] assessment | evaluation:       改善目的の評価 | 判断目的の評価
-- [語法] manner | manners:              やり方、方法、立ち振る舞い | 礼儀、マナー
-- [複合] trade exhibition:              展示会
-- [複合] commuter train:                通勤列車
-- [複合] repeat business:               常連
-- [複合] enrollment quota:              入学定員数
-- [複合] wildlife refuge:               鳥獣保護区
-- [複合] benefits package:              福利厚生
-- [複合] renewal notice:                更新通知
-- [複合] advanced degree:               修士号 博士号
-- [複合] boarding pass:                 搭乗券
-- [複合] baggage claim:                 荷物受け取り所
-- [複合] vapor trail:                   飛行機雲
-- [複合] credit voucher:                無料引換券
+- [idiom] what 名詞 S+V:                Lend me `what books you can`. = Lend me `all the books you can`.
+- [preposition] hope for:               うまく行くことに対する希望 / many people once again have `hope for` genuine changes in the system.
+- [preposition] hope of:                する希望 / する見込み / I have no `hope of` getting financial support for the project.
+- [preposition] impact on:              に対する影響
+- [pronoun] 数量形容詞の代名詞 (両方):  a lot, none
+- [pronoun] 数量形容詞の代名詞 (単数形):little, much(多くのこと), any, every, each
+- [pronoun] 数量形容詞の代名詞 (複数形):few, lots, some, many, several
+- [similar] assessment | evaluation:    改善目的の評価 | 判断目的の評価
+- [similar] commitment | commitments:   献身 | 約束
+- [similar] custom | customs:           習慣 | 税関
+- [similar] manner | manners:           やり方、方法、立ち振る舞い | 礼儀、マナー
+- [similar] premise | premises:         前提 | 家屋,建物,構内,敷地内

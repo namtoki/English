@@ -21,14 +21,14 @@
 - [idiom] be in a class of ones own:    They `are in a class of their own`.
 - [idiom] be in favor of:               I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
 - [idiom] be in the process of V-ing:
-- [idiom] be out of the question:       Going to the party `is out of the question`!
 - [idiom] be of service:                の手助けになる, に役立つ / I'm glad I could `be of service`.
-- [idiom] be under the impression that: だと思い込んでいる 
+- [idiom] be open to any O:             I`'m open to any` suggestions you may have for changes.
+- [idiom] be out of the question:       Going to the party `is out of the question`!
+- [idiom] be propped up against:        立てかけられている
 - [idiom] be supposed to V:             Dolphins `are supposed to` be intelligent.
 - [idiom] be supposed to V:             On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [idiom] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
-- [idiom] be open to any O:             I`'m open to any` suggestions you may have for changes.
-- [idiom] be propped up against:        立てかけられている
+- [idiom] be under the impression that: だと思い込んでいる 
 - [idiom] bring back memories:          This song `brings back memories!`
 - [idiom] bring/get A up to speed:      We need to `bring newbies up to speed` on our project as quickly as possible.
 - [idiom] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
@@ -40,33 +40,28 @@
 - [idiom] have in mind:                 Whom do you `have in mind`?
 - [idiom] heard back from:              Have you `heard back from` the company?
 - [idiom] inform A that 節/疑問詞節:
+- [idiom] know one's way around:        の地理に明るい
 - [idiom] leave nothing to be desired:  Your summary `leaves nothing to be desired.`
 - [idiom] let A know:                   I must `let my wife know` when I'll be home.
 - [idiom] make a difference:            They are fresh, unique, and have `made a huge difference` for me.
+- [idiom] make an appearance:           出席/出演する
 - [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
 - [idiom] preside over:                 で司会を務める
 - [idiom] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
 - [idiom] see to it that:               The professor `saw to it that` all of students understood the nature of the assignment.
+- [idiom] shoot footage of:             の場面の撮影をする
 - [idiom] take care V-ing:              We hope to `wrap up` the negotiations at the next meeting.
 - [idiom] take the plunge and V:
 - [idiom] take ~~~ off:                 `take time off` / `take a day off`
 - [idiom] usually end up V-ing:         I `usually end up` getting fast food.
 - [idiom] weigh A versus B:             S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
 - [idiom] would've thought that S V:    I `would've thought that` he'd hate dancing at a club.
-- [idiom] know one's way around:        の地理に明るい
-- [idiom] shoot footage of:             の場面の撮影をする
-- [idiom] make an appearance:           出席/出演する
-- [preposition] choose A `over` B:        A より B を選ぶ
-- [preposition] exit `(from/out of)`:     exit a door / exit from a door / exit out of a door
-- [preposition] inform A `of` B:
-- [preposition] present A `with` B:       A に B を提示する
-- [preposition] 動詞 `of`:                writes `of the distant past` / hear `of A` / know `of A`
 - [phrasal] add up:                     It `doesn't add up` at all.
 - [phrasal] be really into:             I`'m really into` ramen.
 - [phrasal] expand `on/upon`:             より詳しく説明する
+- [phrasal] fold up:                    を折りたたむ
 - [phrasal] get ahead:                  If you want to `get ahead` in life, you must make some sacrifices.
 - [phrasal] get to:                     I'll `get to it` as soon as I can.
-- [phrasal] fold up:                    を折りたたむ
 - [phrasal] hope for:                   We have been `hoping for` a pay raise.
 - [phrasal] look into:                  I want to `look into` the murder case more closer because something is strange.
 - [phrasal] move forward with:          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
@@ -80,11 +75,16 @@
 - [phrasal] straighten up:              (物事を正しい位置に戻すように) 整理する
 - [phrasal] take down:                  解体する / The woman is `taking down` a canopy.
 - [phrasal] wrap up:                    We hope to `wrap up` the negotiations at the next meeting.
-- [類語] adjust | arrange | coordinate: 既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
-- [類語] cope with | deal with:         耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
-- [類語] decide | decide on:            決心する | 決定する
-- [類語] heard | told:                  連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
-- [類語] make effort | work hard:       努力しておりますが、実現できていません | 努力しています
-- [類語] notice | realize:              視覚的に認識する | 思考により (重要性などを) 認識する
-- [類語] teach | tell:                  習得した技術等を説明して教える | 相手が知らない情報を与える
-- [類語] 人 need V | 物 need V-ing:     する必要がある | される必要がある
+- [preposition] choose A `over` B:        A より B を選ぶ
+- [preposition] exit `(from/out of)`:     exit a door / exit from a door / exit out of a door
+- [preposition] inform A `of` B:
+- [preposition] present A `with` B:       A に B を提示する
+- [preposition] 動詞 `of`:                writes `of the distant past` / hear `of A` / know `of A`
+- [similar] adjust | arrange | coordinate: 既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
+- [similar] cope with | deal with:      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
+- [similar] decide | decide on:         決心する | 決定する
+- [similar] heard | told:               連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
+- [similar] make effort | work hard:    努力しておりますが、実現できていません | 努力しています
+- [similar] notice | realize:           視覚的に認識する | 思考により (重要性などを) 認識する
+- [similar] teach | tell:               習得した技術等を説明して教える | 相手が知らない情報を与える
+- [similar] 人 need V | 物 need V-ing:  する必要がある | される必要がある

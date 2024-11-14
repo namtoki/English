@@ -1,7 +1,7 @@
 # USAGE (STRUCTURE)
 
-- [同じ] 何と同じ？:                            I'm planning to enroll in `the same` computer course `that` you took at the local college last year.
-- [同じ] 何と同じ？:                            `just as` the passer rating is not a perfect measure of quarteback performance.
+- [same] 何と同じ？:                            [I'm planning to enroll in `the same` computer course `that` you took at the local college last year.]()
+- [same] 何と同じ？:                            [`just as` the passer rating is not a perfect measure of quarteback performance.]()
 
 ## DECLARATIVE
 
