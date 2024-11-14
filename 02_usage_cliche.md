@@ -42,6 +42,7 @@
 - [reaction] [negative] Been there done that:       やったことあるけど、もういい (飽きた)
 - [reaction] [neutral] It doesn't matter:           どちらでもいいよ
 - [reaction] [neutral] I'm not particular about it: こだわりはないよ
+- [reaction] [neutral] Nothing in particular:       特にありません
 - [reaction] [positive] (That) Sounds like a plan.: よさそう
 - [reaction] [positive] Good to know.:              知れてよかった
 - [reaction] [positive] Lucky you!:                 うらやましい
