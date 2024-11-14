@@ -1,5 +1,50 @@
 # USAGE (ADVERB)
 
+## FIELD
+
+- [switch] going back to O:             `Going back to` your question, my answer is no.
+- [switch] by the way:
+- [switch] anyway:                      That’s a funny story. `Anyway,` he is late today, isn’t he?
+- [switch] in any case:                 `In any case,` the union has to compromise to a certain extent.
+- [switch] off-topic, but:              Bit `off-topic, but` I just finished editing the video.
+- [focus] about O:                      `About` the food ... it is bad.
+- [focus] on O:                         thesis `on` education
+- [focus] in V-ing O:                   `In making a decision,` I rely not on logic but on instinct.
+- [focus] regarding O:                  `Regarding` the subject above,,,
+- [focus] in terms of O:                I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- [focus] O-wise:                       `Staffing-wise,` I think it’s all right.
+- [focus] with/in regard to O:          `With regard to` the notes below
+- [focus] concerning O:                 `concerning` the changes that were recently made,,,
+- [focus] as for O:                     `As for` the cost per person
+- [focus] as to O:                      discussion `as to` which university is the best university.
+- [focus] speaking of which/O:          `Speaking of summer,` where did you go this year?
+- [focus] talking of O:                 `Talking of` soccer, Did you watch the game yesterday?
+- [focus] when it comes to O:           `When it comes to` the weather, there’s nothing I can do.
+- [focus] like/as you said:
+- [focus] personally, in my opinion:
+- [focus] To be honest:
+- [focus] as for me:                    `As for me,` I agree with his opinion.
+- [focus] from a one's standpoint:      Single track riding can be quite challenging `from a technical standpoint`.
+- [focus] from the perspective of O:    Trends in trade `from the perspective of` production stage.
+- [focus] from one's perspective:       Also `from the field’s perspective,` I think ,,,
+- [focus] from one's point of view:     Well, `from my point of view,` some of the new policies are really good.
+- [where] directly accross from:        の真向かいに
+- [条件] on average:                    平均すると
+- [条件] at a discount:                 割引料金で
+- [条件] [legal] until such time as S V:  We are unable to review your application `until such time as` we receive your transcripts and test scores.
+- [付帯状況] with all:                  (のに) `With all` its faults, it's basically a good plan. / (れば) `With all` that money, he can do anything
+- [付帯状況] for all:                   (のに) I don't feel happy `for all` my success.
+- [付帯状況] much to the relief of O:   O が安心したことには、
+- [付帯状況] [前置詞] amid O:             フォーマルな during, in the middle of
+- [付帯状況] [前置詞] aboard O:           (乗り物に) 乗って
+- [付帯状況] [前置詞] after having done:  した後に / していたので
+- [付帯状況] [前置詞] in close quarters:  近い距離で / It was odd, to be working `in close quarters` after having my own office.
+- [reason] due to (O):                  I missed school `due to` Covid-19. / She couldn't dance at the party `due to` an injury.
+- [付帯状況] on short notice:           I’m sorry, I can’t make it `on such short notice`.
+- [with] Supposing that S V:            だとすると / `Supposing that` the fire headed our way, what would we do next?
+
+## TIME
+
 - [when] [一般] [日] on Sundays:            I play tennis `on Sundays`.
 - [when] [一般] [日] on weekends:           I often go to the beach `on weekends`.
 - [when] [一般] [日] on (A) days:           I don't close this door `on hot days`.
@@ -35,30 +80,12 @@
 - [when] [未来] for years to come:        the birthrate will continue to decline steadily `for years to come`.
 - [when] [未来] for good:                 We're through `for good` this time.
 - [frequency] on occasion:              ときおり
-- [where] directly accross from:        の真向かいに
+
+## ADDITION
+
 - [how] with each passing day/year:     日を追うごとに
 - [why] in case:                        `In case` there's an earthquake, prepare a first-aid kit.
 - [why] just in case:                   I'll write it down `just in case.`
-- [focus] about O:                      `About` the food ... it is bad.
-- [focus] on O:                         thesis `on` education
-- [focus] in V-ing O:                   `In making a decision,` I rely not on logic but on instinct.
-- [focus] regarding O:                  `Regarding` the subject above,,,
-- [focus] in terms of O:                I liked that movie `in terms of` the acting. I didn’t really like the story though.
-- [focus] O-wise:                       `Staffing-wise,` I think it’s all right.
-- [focus] with/in regard to O:          `With regard to` the notes below
-- [focus] concerning O:                 `concerning` the changes that were recently made,,,
-- [focus] as for O:                     `As for` the cost per person
-- [focus] as to O:                      discussion `as to` which university is the best university.
-- [条件] on average:                    平均すると
-- [条件] at a discount:                 割引料金で
-- [条件] [legal] until such time as S V:  We are unable to review your application `until such time as` we receive your transcripts and test scores.
-- [付帯状況] with all:                  (のに) `With all` its faults, it's basically a good plan. / (れば) `With all` that money, he can do anything
-- [付帯状況] for all:                   (のに) I don't feel happy `for all` my success.
-- [付帯状況] much to the relief of O:   O が安心したことには、
-- [付帯状況] [前置詞] amid O:             フォーマルな during, in the middle of
-- [付帯状況] [前置詞] aboard O:           (乗り物に) 乗って
-- [reason] due to (O):                  I missed school `due to` Covid-19. / She couldn't dance at the party `due to` an injury.
-- [付帯状況] on short notice:           I’m sorry, I can’t make it `on such short notice`.
 
 - [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
 - [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.

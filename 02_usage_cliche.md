@@ -26,6 +26,9 @@
 - [reaction] [agree] Fair enough.:                  okay
 - [reaction] [agree] I hope so:                     そう願うよ
 - [reaction] [agree] I hope not:                    そうならないことを願うよ
+- [reaction] [deny] I'm in the middle of something: 今手が離せない
+- [reaction] [deny] I'm ... ing ... at the moment.: 中だから邪魔しないで / Hang on. I'm just finishing up an email at the moment
+- [reaction] [deny] I'm trying to ...               中だから邪魔しないで / Hey, Toshi? I'm trying to work, Emily!
 - [reaction] [negative] Here we go again.:          まただ！ / `Here we go again!` I told you I am not interested in getting married!
 - [reaction] [negative] Not again!:                 まただ！
 - [reaction] [negative] That's a fair point, but:   それはもっともですが、
@@ -36,6 +39,7 @@
 - [reaction] [negative] That's the way it is:       しょうがないよ
 - [reaction] [negative] I hate to admit it, but:    `I hate to admit it, but` I might need your help.
 - [reaction] [negative] That's rather unlikely.:    ほとんど無いと思います。
+- [reaction] [negative] Been there done that:       やったことあるけど、もういい (飽きた)
 - [reaction] [neutral] It doesn't matter:           どちらでもいいよ
 - [reaction] [neutral] I'm not particular about it: こだわりはないよ
 - [reaction] [positive] (That) Sounds like a plan.: よさそう
@@ -59,6 +63,8 @@
 - [reaction] [sympathy] I've been there.:           わかる
 - [reaction] [sympathy] I was going to say.:        言おうと思っていたよ
 - [reaction] [sympathy] That's what I think, too.:  私も思っていたこと
+- [reaction] [thanks] That would be great.:         そうしていただけると嬉しい
+- [reaction] [thanks] You flatter me.:              お世辞でも嬉しいです
 - [reaction] [thanks] (I'm) happy to help.:         どういたしまして / Thanks for reading my outline. `Happy to help!`
 - [reaction] [thanks] Anytime.:                     どういたしまして / Casual
 - [reaction] [thanks] Don't mention it.:            どういたしまして / Business
@@ -110,3 +116,4 @@
 - [question] How's your day going?:               調子はどう？
 - [question] What are you up to?:                 何しようとしているの？
 - [question] What's going on?:                    A: What's up? B: `What's going on?` / `What's going on` in here? What are you doing?
+- [question] Do you want me to ... ?:             ... させるつもり？ / Do you want me to lose my job?

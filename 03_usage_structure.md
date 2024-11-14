@@ -1,5 +1,8 @@
 # USAGE (STRUCTURE)
 
+- [同じ] 何と同じ？:                            I'm planning to enroll in `the same` computer course `that` you took at the local college last year.
+- [同じ] 何と同じ？:                            `just as` the passer rating is not a perfect measure of quarteback performance.
+
 ## DECLARATIVE
 
 - [beginning] You might wonder O:               `You might wonder` why that is so.
@@ -19,6 +22,7 @@
 - [主観] [多分] S be more likely to V:            In engineering, people `are more likely to` work in their field.
 - [主観] [多分] S be less likely to V:            `It's less likely to` get broken.
 - [主観] [多分] I'd say (that) S V:               `I'd say` it's usually more art than science.
+- [主観] [多分] I suppose (that) S V:             In that case, `I suppose` I'd like to come and take a look at it.
 - [主観] [多分] I have a feeling/hunch that S V:  `I have a feeling that` there's more to it.
 - [主観] [多分] I'm sure (that) S V:              `I am sure that` I will enjoy the movie.
 - [主観] [多分] I'm sure of (sth):                `I am sure of` enjoying the movie.

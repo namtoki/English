@@ -28,6 +28,7 @@
 - [idiom] be supposed to V:             On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [idiom] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
 - [idiom] be open to any O:             I`'m open to any` suggestions you may have for changes.
+- [idiom] be propped up against:        立てかけられている
 - [idiom] bring back memories:          This song `brings back memories!`
 - [idiom] bring/get A up to speed:      We need to `bring newbies up to speed` on our project as quickly as possible.
 - [idiom] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
