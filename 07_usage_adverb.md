@@ -2,11 +2,11 @@
 
 ## FIELD
 
-- [switch] going back to O:             `Going back to` your question, my answer is no.
-- [switch] by the way:
-- [switch] anyway:                      That’s a funny story. `Anyway,` he is late today, isn’t he?
-- [switch] in any case:                 `In any case,` the union has to compromise to a certain extent.
-- [switch] off-topic, but:              Bit `off-topic, but` I just finished editing the video.
+- [~] [switch] going back to O:                 `Going back to` your question, my answer is no.
+- [~] [switch] off-topic, but:                  Bit `off-topic, but` I just finished editing the video.
+- [x] [switch] anyway:                          That’s a funny story. `Anyway,` he is late today, isn’t he?
+- [ ] [switch] in any case:                     `In any case,` the union has to compromise to a certain extent.
+- [ ] [switch] by the way:
 - [focus] about O:                      `About` the food ... it is bad.
 - [focus] on O:                         thesis `on` education
 - [focus] in V-ing O:                   `In making a decision,` I rely not on logic but on instinct.
@@ -28,10 +28,12 @@
 - [focus] from the perspective of O:    Trends in trade `from the perspective of` production stage.
 - [focus] from one's perspective:       Also `from the field’s perspective,` I think ,,,
 - [focus] from one's point of view:     Well, `from my point of view,` some of the new policies are really good.
+- [~] [focus] (more) broadly speaking,:
 - [where] directly accross from:        の真向かいに
 - [条件] on average:                    平均すると
 - [条件] at a discount:                 割引料金で
 - [条件] [legal] until such time as S V:  We are unable to review your application `until such time as` we receive your transcripts and test scores.
+- [x] [assumption]  `assuming that (sb) (do)`:                `Assuming that` no voltage is applied from the booster amplifier,,,,
 - [付帯状況] with all:                  (のに) `With all` its faults, it's basically a good plan. / (れば) `With all` that money, he can do anything
 - [付帯状況] for all:                   (のに) I don't feel happy `for all` my success.
 - [付帯状況] much to the relief of O:   O が安心したことには、
@@ -42,6 +44,30 @@
 - [reason] due to (O):                  I missed school `due to` Covid-19. / She couldn't dance at the party `due to` an injury.
 - [付帯状況] on short notice:           I’m sorry, I can’t make it `on such short notice`.
 - [with] Supposing that S V:            だとすると / `Supposing that` the fire headed our way, what would we do next?
+  - [x]           `(let's) say (sb) (do)`:                  `Say` I invest a hundred dollars now, how much will I ...
+  - [x]           `as long as (sb) (do)`:                   `As long as` you are young, you should experience different things.
+  - [x]           `as far as / insofar as (sb) (do)`:       `As far as` I can see, he will fail the exam again this time.
+- [x] [emphasis]    `especially`:                             `Especially,` I am good at French cooking
+  - [x]           `above all,`:                             `Above all,` scientific terms call for precise definitions.
+- [x] [emphasis]    `if anything,`:                           But now, `if anything,` they are making too much of it.
+- [ ] [range]       `for the most part`:                      `For the most part,` modernization is identified with westernization.
+- [x] [backdrop]    `in the course of`:                       `In the course of` its economic development, Japan has ...
+- [ ] [factor]      `in a departure from (sth),`:
+- [x] [factor]      `as a result of (sth)`:                   `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+  - [ ]           `consequently`:
+- [x] [premise]     `given that (sb) (do)`:                   `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
+- [x] [premise]     `with (sth)`:                             `With` a little luck, we can still make it.
+- [x] [conclusion]  `at the end of the day,`:                 `At the end of the day,` this is not that important.
+- [x] [reason]      `just out of curiosity,`:                 `Just out of curiosity,` why did you come to Japan?
+- [x] [opinion]     `To begin with,`:                         `To begin with,` its theme is obscure.
+- [ ] [opinion]     `Like/as I was saying`:                   Sorry. `As I was saying,` the acting was amazing.
+- [ ] [opinion]     `Speaking from experience,`:
+- [ ] [opinion]     `Simply put,`:                            `Simply put,` he doesn't like sports.
+- [ ] [opinion]     `All things considered,`:                 `All things considered`, that was a successful event.
+- [ ] [opinion]     `As (sb) anticipated,`:                   `As we anticipated,` the unemployment rate has risen ....
+- [ ] [opinion]     `As it is,`:                              `As it is,` ordinary people cannot afford to purchase such luxuries.
+- [ ] [opinion]     `First/Most of all,`:                     `First of all,` learn the formula by heart.
+
 
 ## TIME
 
