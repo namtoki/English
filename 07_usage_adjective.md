@@ -16,3 +16,9 @@
 - [similar] comparable | comparative:   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
 - [similar] fun | pleasant:             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
 - [similar] industrial | industorious   :工業の | 勤勉な
+- [x] [vague]       `things/something like that`:             I think he's learning Spanish or `something like that`, if that makes sense.
+- [x] [vague]       `(sth) kind of thing`:                    This is a flip phone `kind of thing` but a bit different.
+- [x] [vague]       `things like (sth)`:                      `Things like` party hats, paper plates and napkins.
+- [x] [vague]       `(sth) and so on`:                        I'm tired of doing the dished, doing the laundry, `and so on!`
+- [x] [vague]       `(sth) and stuff (like that)`:            We've got to do editing `and stuff.`
+- [x] [vague]       `(sth) or so`:                            It's 20 dollars `or so.`

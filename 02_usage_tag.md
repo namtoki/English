@@ -1,0 +1,21 @@
+# USAGE (CONJUNCTION)
+
+- [~] [and] on top of that:                     その上
+- [ ] [and] and then:                           その上/しかも
+- [ ] [but] this might be just me, but:         自分だけかもしれないけど
+- [ ] [but] I hope I'm not interrupting you,:   ご迷惑でなければいいのですが
+- [ ] [but] I hope you don't mind:              ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
+- [ ] [but] it goes without saying that S V:    言うまでもないが / `It goes without saying that` the aging of society is inevitable.
+- [ ] [but] you know as well as I do that S V:  ご存じかと思いますが / `You know as well as I do that` this is very important.
+- [ ] [reason] against this background:         このような背景のもと、(結果)
+- [~] [condition] if I had to say/guess:        強いて言うなら / `If I had to guess,` I would say that she is single.
+- [~] [condition] if I'm not mistaken:          間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
+- [~] [condition] the fact is,:                 実を言うと / `The fact is,` I don't have enough money.
+- [~] [condition] if you think about it:        考え方によっては / It's crazy how we can communicate like this`, if you think about it.`
+- [ ] [condition] if you ask me:                強いて言うなら / It was a little long`, if you ask me.`
+- [ ] [condition] in one's defence:             言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
+- [ ] [condition] off the top of my head:       思いつくままに言うと / `Off the top of my head,` I think it's wrong.
+- [~] [conclusion] you know what I mean?:       言ってることわかります？
+- [~] [conclusion] if that makes sense.:        言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
+- [~] [conclusion] or not really?:              それとも違う？ / Do you like this kind of music`, or not really?`
+- [ ] [conclusion] or what?:                    それとも違う？ / Are we gonna have fun`, or what?`

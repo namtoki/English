@@ -33,6 +33,9 @@
 - [条件] on average:                    平均すると
 - [条件] at a discount:                 割引料金で
 - [条件] [legal] until such time as S V:  We are unable to review your application `until such time as` we receive your transcripts and test scores.
+- [x] [opinion]     `in the first place`:                     Why was he at the party `in the first place?` He wasn't invited, was he?
+- [ ] [opinion]     `, in a nutshell`:                        That's it`, in a nutshell.`
+- [ ] [opinion]     `on the second thought`:
 - [x] [assumption]  `assuming that (sb) (do)`:                `Assuming that` no voltage is applied from the booster amplifier,,,,
 - [付帯状況] with all:                  (のに) `With all` its faults, it's basically a good plan. / (れば) `With all` that money, he can do anything
 - [付帯状況] for all:                   (のに) I don't feel happy `for all` my success.
