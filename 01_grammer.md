@@ -58,9 +58,12 @@
 - [ ] [suggestion] might as well:                   してもいいかもしれない / You `might as well` walk home.
 - [ ] [suggestion] would:                           自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
 - [ ] [suggestion] (might) not hurt to:             してみてもいいかも
+- [~] [always] make it a rule to:                   するのを常としている / She `makes it a rule to` dispense with evening.
 - [~] [always] tend to:                             ついつい / I `tend to` eat a lot when I'm nervous.
 - [ ] [always] tend to:                             普段 / I `tend to` prefer non-fiction.
 - [ ] [always] tend to:                             たいてい / I `tend not to` remember my dreams.
+- [ ] [always] be supposed to:                      ものだ / Dolphins `are supposed to` be intelligent.
+- [ ] [always] be supposed to:                      ことになっている / On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [~] [past] was/were like:                         という感じだった / When I ate Natto for the first time `I was like` what is this?
 - [~] [past] was supposed to:                       するはずだった (意思) / She `was supposed to` say yes.
 - [~] [past] was going to:                          するつもりだった (約束) / I `was going to` get the burger, but the salad looked so good.
@@ -74,3 +77,5 @@
 - [ ] [future] be due to:                           することになっている / She `is due to` have her baby this week.
 - [ ] be subject to:                              の対象となる, を受けやすい, となることがある
 - [ ] be obliged to:                              余儀なくする / We `are obliged to` return the favor they gave us.
+- [ ] hasten to:                                  急いでした / They `hastened to` execute the plan.
+- [ ] take the plunge and:                        思い切ってした /

@@ -1,10 +1,5 @@
 # USAGE (VERB)
 
-- [ ] [Basic] [vi.] S+V+C:                    be, remain (keep,hold,lie,stay), become (get,grow,turn,come,go,fall,run,prove), feel (taste,smell,sound,look,appear,seem)
-- [ ] [Basic] [vt.] S+V+O+O:                  give型, buy型, 他
-
----
-
 - [~] [SVOC] get O C:                               This song always `gets me feeling` some type of way.
 - [~] [SVOC] have O C:                              I `had my hair cut`.
 - [~] [SVOC] let O C:                               Don't `let me down`. / `Let me in!`
@@ -16,79 +11,73 @@
 - [~] [SVOV] make O 原形V:                          He `made the students run` in the snow.
 - [~] [SVOV] help O 原形動詞:                       The brochure `helped me find` the information / Just `help me find` them. / He `helps me study` English.
 - [~] [SVOtoV] get O to V:                          She `got her son to do` the chores.
-- [~] [phrasal] add up:                             It `doesn't add up` at all.
-- [~] [phrasal] be really into:                     I`'m really into` ramen.
-- [ ] [phrasal] expand `on/upon`:                     より詳しく説明する
+- [~] [phrasal] add up:                             納得がいく / It `doesn't add up` at all.
+- [~] [phrasal] be really into:                     ハマる / I`'m really into` ramen.
+- [ ] [phrasal] expand `on/upon`:                     より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
 - [ ] [phrasal] fold up:                            を折りたたむ
 - [ ] [phrasal] get ahead:                          成功する / If you want to `get ahead` in life, you must make some sacrifices.
 - [~] [phrasal] get to:                             とりかかる / I'll `get to it` as soon as I can.
-- [ ] [phrasal] hope for:                           We have been `hoping for` a pay raise.
-- [ ] [phrasal] look into:                          I want to `look into` the murder case more closer because something is strange.
+- [ ] [phrasal] hope for:                           当てにする / We have been `hoping for` a pay raise.
+- [~] [phrasal] look into:                          調べる / I want to `look into` the murder case more closer because something is strange.
 - [~] [phrasal] move forward with:                  (計画など)を進める / Once the contract is signed, we can `move forward with` the process
 - [~] [phrasal] move forward/up:                    前倒しする / Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
 - [~] [phrasal] push back:                          後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
-- [ ] [phrasal] narrow down:                        This question is, how long will it take to `narrow down` the list.
-- [ ] [phrasal] put off V-ing:                      The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
-- [ ] [phrasal] set forth:                          Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
-- [ ] [phrasal] set out:                            We `set out` on a hike. / `set out` one's ideas
-- [ ] [phrasal] settle for:                         But for now, we'll have to `settle for` this.
+- [~] [phrasal] narrow down:                        絞り込む / This question is, how long will it take to `narrow down` the list.
+- [ ] [phrasal] put off V-ing:                      延期する / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
+- [ ] [phrasal] set forth:                          規定する / Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
+- [ ] [phrasal] set out:                            出発する / We `set out` on a hike. / `set out` one's ideas
+- [~] [phrasal] settle for:                         妥協する / But for now, we'll have to `settle for` this.
 - [ ] [phrasal] straighten up:                      (物事を正しい位置に戻すように) 整理する
 - [ ] [phrasal] take down:                          解体する / The woman is `taking down` a canopy.
-- [ ] [phrasal] wrap up:                            We hope to `wrap up` the negotiations at the next meeting.
-- [ ] [preposition] choose A `over` B:        A より B を選ぶ
-- [ ] [preposition] exit `(from/out of)`:     exit a door / exit from a door / exit out of a door
+- [ ] [phrasal] wrap up:                            切り上げる / We hope to `wrap up` the negotiations at the next meeting.
+- [ ] [preposition] choose A `over` B:                A より B を選ぶ
+- [ ] [preposition] exit `(from/out of)`:             exit a door / exit from a door / exit out of a door
 - [ ] [preposition] inform A `of` B:
-- [ ] [preposition] present A `with` B:       A に B を提示する
-- [ ] [preposition] 動詞 `of`:                writes `of the distant past` / hear `of A` / know `of A`
-- [ ] appreciate in value:          価値が上がる
-- [ ] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
-- [ ] be based out of:              を拠点とする / The position `is based out of` the main office in Seattle.
-- [ ] be better off O:              You`'re better off` starting from the beginning than trying ...
-- [ ] be eating me alive:           Keeping secrets `was eating me alive.`
-- [ ] be exemplified by O:          This `is exemplified by` Facebook's Causes application.
-- [ ] be in a class of ones own:    They `are in a class of their own`.
-- [ ] be in favor of:               I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
+- [ ] [preposition] present A `with` B:               A に B を提示する
+- [ ] [preposition] 動詞 `of`:                        writes `of the distant past` / hear `of A` / know `of A`
+- [ ] adjust | arrange | coordinate:              既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
+- [ ] appreciate in value:                        価値が上がる
+- [ ] depreciate in value:                        価値が下がる
+- [~] be all for:                                 強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
+- [~] be in favor of:                             賛成する / I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
+- [ ] be based out of:                            を拠点とする / The position `is based out of` the main office in Seattle.
+- [ ] be better off O:                            You`'re better off` starting from the beginning than trying ...
+- [ ] be eating me alive:                         Keeping secrets `was eating me alive.`
+- [ ] be exemplified by O:                        This `is exemplified by` Facebook's Causes application.
+- [ ] be in a class of ones own:                  別格である / They `are in a class of their own`.
 - [ ] be in the process of V-ing:
-- [ ] be of service:                の手助けになる, に役立つ / I'm glad I could `be of service`.
-- [ ] be open to any O:             I`'m open to any` suggestions you may have for changes.
-- [ ] be out of the question:       Going to the party `is out of the question`!
-- [ ] be propped up against:        立てかけられている
-- [ ] be supposed to V:             Dolphins `are supposed to` be intelligent.
-- [ ] be supposed to V:             On Valentine's Day, in Japan girls `are supposed to` give choco...
-- [ ] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
-- [ ] be under the impression that: だと思い込んでいる
-- [ ] bring back memories:          This song `brings back memories!`
-- [ ] bring/get A up to speed:      We need to `bring newbies up to speed` on our project as quickly as possible.
-- [ ] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
-- [ ] depreciate in value:          価値が下がる
-- [ ] find oneself V-ing:           I often `find myself keeping` an eye on the stock market.
-- [ ] give it a though:             I'll `give it a thought` and get back to you.
-- [ ] hasten to V:                  They `hastened to` execute the plan.
-- [ ] have a problem with:          困っている / 苦手だ / `I have a problem with` his table manners.
-- [ ] have in mind:                 Whom do you `have in mind`?
-- [ ] heard back from:              Have you `heard back from` the company?
+- [~] be of service:                              の手助けになる, に役立つ / I'm glad I could `be of service`.
+- [~] be open to any O:                           I`'m open to any` suggestions you may have for changes.
+- [ ] be out of the question:                     Going to the party `is out of the question`!
+- [ ] be propped up against:                      立てかけられている
+- [~] be tasked with V-ing:                       する任務を負う / I`'m tasked with helping` people cope with the stressful situations.
+- [ ] bring back memories:                        This song `brings back memories!`
+- [~] bring/get A up to speed:                    最新情報に追いつかせる / We need to `bring newbies up to speed` on our project as quickly as possible.
+- [ ] can wait:                                   Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
+- [ ] cope with | deal with:                      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
+- [~] decide | decide on:                         決心する | 決定する
+- [ ] find oneself V-ing:                         I often `find myself keeping` an eye on the stock market.
+- [ ] give it a though:                           I'll `give it a thought` and get back to you.
+- [ ] have a problem with:                        困っている / 苦手だ / `I have a problem with` his table manners.
+- [ ] have in mind:                               Whom do you `have in mind`?
+- [ ] heard back from:                            Have you `heard back from` the company?
+- [ ] heard | told:                               連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
 - [ ] inform A that 節/疑問詞節:
-- [ ] know one's way around:        の地理に明るい
-- [ ] leave nothing to be desired:  Your summary `leaves nothing to be desired.`
-- [ ] let A know:                   I must `let my wife know` when I'll be home.
-- [ ] make a difference:            They are fresh, unique, and have `made a huge difference` for me.
-- [ ] make an appearance:           出席/出演する
-- [ ] make it a rule to V:          She `makes it a rule to` dispense with evening.
-- [ ] preside over:                 で司会を務める
-- [ ] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
-- [ ] see to it that:               The professor `saw to it that` all of students understood the nature of the assignment.
-- [ ] shoot footage of:             の場面の撮影をする
-- [ ] take care V-ing:              We hope to `wrap up` the negotiations at the next meeting.
-- [ ] take the plunge and V:
-- [ ] take ~~~ off:                 `take time off` / `take a day off`
-- [ ] usually end up V-ing:         I `usually end up` getting fast food.
-- [ ] weigh A versus B:             S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
-- [ ] would've thought that S V:    I `would've thought that` he'd hate dancing at a club.
-- [ ] adjust | arrange | coordinate: 既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
-- [ ] cope with | deal with:      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
-- [ ] decide | decide on:         決心する | 決定する
-- [ ] heard | told:               連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
-- [ ] make effort | work hard:    努力しておりますが、実現できていません | 努力しています
-- [ ] notice | realize:           視覚的に認識する | 思考により (重要性などを) 認識する
-- [ ] teach | tell:               習得した技術等を説明して教える | 相手が知らない情報を与える
-- [ ] 人 need V | 物 need V-ing:  する必要がある | される必要がある
+- [ ] know one's way around:                      の地理に明るい
+- [ ] leave nothing to be desired:                Your summary `leaves nothing to be desired.`
+- [ ] let A know:                                 I must `let my wife know` when I'll be home.
+- [ ] make a difference:                          They are fresh, unique, and have `made a huge difference` for me.
+- [ ] make an appearance:                         出席/出演する
+- [ ] make effort | work hard:                    努力しておりますが、実現できていません | 努力しています
+- [ ] notice | realize:                           視覚的に認識する | 思考により (重要性などを) 認識する
+- [ ] preside over:                               で司会を務める
+- [ ] put O on hold:                              We are going to `put this project on hold`. / Can you `put it on hold`?
+- [ ] see to it that:                             The professor `saw to it that` all of students understood the nature of the assignment.
+- [ ] shoot footage of:                           の場面の撮影をする
+- [ ] take care V-ing:                            We hope to `wrap up` the negotiations at the next meeting.
+- [ ] take ~~~ off:                               `take time off` / `take a day off`
+- [ ] teach | tell:                               習得した技術等を説明して教える | 相手が知らない情報を与える
+- [ ] usually end up V-ing:                       I `usually end up` getting fast food.
+- [ ] weigh A versus B:                           S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
+- [ ] would've thought that S V:                  I `would've thought that` he'd hate dancing at a club.
+- [ ] 人 need V | 物 need V-ing:                  する必要がある | される必要がある

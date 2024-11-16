@@ -108,6 +108,7 @@
 - [強調] This is the kind of thing that V:      `This is the kind of thing that` makes me really happy.
 - [強調] This is something S V:                 `This is something` a lot of people don't consider.
 - [謙遜] I have to say S V:                     `I have to say` your place is adorable!
+- [ ] [stance] be under the impression that:        だと思い込んでいる
 
 ## ASK
 
