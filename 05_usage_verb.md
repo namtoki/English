@@ -28,7 +28,7 @@
 - [idiom] be supposed to V:             Dolphins `are supposed to` be intelligent.
 - [idiom] be supposed to V:             On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [idiom] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
-- [idiom] be under the impression that: だと思い込んでいる 
+- [idiom] be under the impression that: だと思い込んでいる
 - [idiom] bring back memories:          This song `brings back memories!`
 - [idiom] bring/get A up to speed:      We need to `bring newbies up to speed` on our project as quickly as possible.
 - [idiom] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
@@ -88,3 +88,9 @@
 - [similar] notice | realize:           視覚的に認識する | 思考により (重要性などを) 認識する
 - [similar] teach | tell:               習得した技術等を説明して教える | 相手が知らない情報を与える
 - [similar] 人 need V | 物 need V-ing:  する必要がある | される必要がある
+
+- [ ] [Basic] [vi.] S+V:
+- [ ] [Basic] [vi.] S+V+C:                    be, remain (keep,hold,lie,stay), become (get,grow,turn,come,go,fall,run,prove), feel (taste,smell,sound,look,appear,seem)
+- [ ] [Basic] [vt.] S+V+O:                    〜を
+- [ ] [Basic] [vt.] S+V+O+O:                  give型, buy型, 他
+- [ ] [Basic] [vt.] S+V+O+C

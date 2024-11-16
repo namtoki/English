@@ -148,6 +148,7 @@
 - [opinion] Let me ask you O:                   `Let me ask you` your honest opinion.
 - [suggestion] Would you like O?:               `Would you like` some more?
 - [suggestion] Would you like to V?:            `Would you like to` watch it together?
+- [suggestion] Would you rather V?:             `Would you rather` have Mr.Graham or Mr.Dannon assisting you on the project?
 - [suggestion] (Would you) care to V?:          `Would you care to` join me for a drink?
 - [suggestion] (Do you) want to V?:             `Do you want to` get some food first? / `Want to` get dinner?
 - [suggestion] How about V-ing?:                `How about sending` flowers?
