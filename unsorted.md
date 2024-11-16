@@ -64,19 +64,12 @@
 - [ ] `over`:                                   I invited some friends and family `over` for lunch. -->
 - [x] `at this point`:                          I'm ready to quit `at this point.`
 - [ ] `for a rainy day`:                        I decided to put some aside `for a rainy day.`
-- [ ] `because (S) (V)`:
-- [ ] `because of (N)`:
-- [ ] `since (S) (V)`:                          既出
-- [ ] `as (S) (V)`:                             補足的
-- [ ] `thanks to (O)`:
 - [ ] `owing to (O)`:                           形式的 / 文頭 / `Owing to` illness, some representatives were absent from ...
 - [ ] `on account of (O)`:                      困難 / Our flight to Vienna was delayed `on account of` a minor accident.
 - [x] `the reason being that`:                  I decided to turn down the job offer. `The reason being that,` I didn’t want to relocate.
 - [x] `for one thing ,,, for another thing`:    I can't put you up. `For one thing,` my dad drops in on me from time to time.
 - [x] `at the thought of (O)`:                  I tremble with fear `at the thought of` an injection.
-- [ ] `(in order) to (V)`:                      `In order to` keep up its competitiveness in the world, Japan ...
 - [ ] `so as to (V)`:                           She left home early `so as to` avoid traffic congestion.
-- [x] `so (that) (S) (V)`:                      Tighten the lid `so` the food doesn't go bad.
 - [ ] `with a view to (V-ing)`:                 A fund was set up `with a view to` preserving our endangered planet.
 - [x] `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
 - [ ] `in accordance with (O)`:
@@ -99,7 +92,6 @@
 - [ ] `and the next thing I knew`:              I felt dizzy, `and the next thing I knew` I was ...
 - [x] `what's more`:                            I met the man by chance. He's gentle and smart. `What's more,` he's single.
 - [ ] `what's worse`:
-- [x] `besides`:                                I don’t wanna go out. `Besides,` I’m so tired today.
 - [x] `at the same time`:                       Working from home is great. `but at the same time,` it's king of ...
 - [ ] `let alone`:                              We can't apply cloning techniques to cattle, `let alone` human beings.
 - [ ] `to make matters worse`:                  `To make matters worse,` he isn't even conscious of annoying us.
@@ -108,17 +100,13 @@
 - [x] `in that case`:                           `In that case,` I’ll have a beer.
 - [ ] `all kinds of (O)`:                       I've been eating `all kinds of` things.
 - [ ] `everything about (O)`:                   He knows `everything about` movies.
-- [ ] `most (S)`:                               `Most` people like it.
-- [ ] `almost all (S)`:                         `Almost all` cats have fur.
 - [ ] `some kinds of (O)`:                      amplify the effects of `some kinds of` pollution
 - [x] `many different kinds of`:                There are `many different kinds of` stores.
 - [ ] `(O) out of (O)`:                         We have watched `4 out of 5` seasons.
 - [ ] `each and every one of (O)`:              `each and every one of` these questions
 - [ ] `the rest of (O)`:                        You can have `the rest of` them.
-- [x] `such a`:                                 That was `such a` fun day. / You are `such a` pro.
 - [ ] `high-key`:                               I `high-key` cannot stand when my roommate sings in the shower.
 - [ ] `no doubt`:                               His policy will `no doubt` lead to dismal consequences.
-- [x] `that`:                                   I guess it wasn't `that` important.
 - [ ] `way better`:                             That's just hype. I know `way better` places.
 - [x] `a whole other`:                          That's `a whole other` problem.
 - [ ] `anything but`                            Joe is `anything but` diligent. That's why he flunked math again.
@@ -129,32 +117,12 @@
 - [x] `kind of`:                                I'm `kind of` hungry.
 - [ ] `low-key`:                                I’m `low-key` in love with my study partner’s new cologne.
 - [ ] `a bit of`:                               It's `a bit of` a risk in this environment, isn't it?
-- [x] `about`:
-- [x] `around`:
-- [ ] `approximately`:
-- [ ] `roughly`:
 - [x] `more or less`:                           Your pronunciation is `more or less` correct.
 - [ ] `pretty much`:                            This is `pretty much` done.
 - [x] `more of`:                                I think he is `more of` an entertainer.
 - [x] `more like (O) (than)`:                   Dogs are `more like` friends `than` pets.
 - [ ] `some kind of (O)`:                       He was born with `some kind of` special talent. / `some kind of` sport
-- [ ] `great`:                                  100
-- [ ] `very good`:                              90
-- [x] `really good`:                            80
-- [ ] `good`:                                   70
-- [x] `pretty good`:                            60
-- [ ] `fairly good`:                            60
-- [ ] `kind of good`:                           50
-- [ ] `so-so`:                                  40
-- [ ] `not bad`:                                40
-- [x] `always`:                                 100
-- [ ] `nearly`:                                 95
-- [x] `almost always`:                          95
-- [ ] `usually`:                                80
 - [ ] `more often than not`:                    `More often than not`, famine is accompanied by plague.
-- [ ] `often`:                                  65
-- [x] `frequently`:                             55
-- [x] `sometimes`:                              50
 - [x] `at times`:                               `At times` I confuse "curve" with "carve."
 - [ ] `here and there`:                         ときおり
 - [ ] `now and then`:                           I must admit we quarrel `every now and then.`
@@ -162,10 +130,6 @@
 - [x] `from time to time`:                      ときおり
 - [ ] `once in a while`:                        ときおり
 - [ ] `once a blue moon`:                       めったにない
-- [ ] `seldom | rarely`:                        10
-- [ ] `almost never`:                           5
-- [ ] `hardly ever`:                            5
-- [ ] `never`:                                  0
 - [ ] `one-off`:                                The expense incurred this year to construct the building is a `one-off` cost.
 - [ ] `barely`:                                 The minute particles are `barely` visible to the naked eye.
 - [x] `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
@@ -577,15 +541,9 @@ make a living
 - [ ] tell A from B                     (区別する)              <!-- Bob was so beside himself that he could scarcely tell fact from fiction. -->
 - [ ] the other way around              (正反対な)              <!-- It's the other way around today. -->
 - [ ] think ... over                    (慎重に考える)          <!-- You ought to think over whether the premise is valid or not. -->
-- [ ] threaten                          (脅迫する)
-- [ ] thrilled                          (わくわくして 特に)
 - [ ] through the roof                  (突き抜けている)        <!-- My stress was through the roof -->
-- [ ] tidy                              (整理された)
-- [ ] tidy up                           (片づける 整理する)
-- [ ] tired                             (*    疲れている)
 - [ ] to the point                      (要領を得た)
 - [ ] too far                           (やり過ぎな)            <!-- He went too far there. -->
-- [ ] treat                             (おごる)                <!-- You treat me every time we eat out. -->
 - [ ] turn ... down                     (断る)                  <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
 - [ ] turn ...'s back on                (背を向ける 無視)       <!-- We cannot turn our backs on desperate people who are at risk. -->
 - [ ] turn a blind eye                  (見て見ぬふりする)      <!-- He saw someone being bullied, but he turned a blind eye. -->
@@ -598,13 +556,6 @@ make a living
 - [ ] turn up                           (現れる)                <!-- As usual, Mike turned up on time. He's very punctual. -->
 - [ ] turn/hand ... in                  (提出する)              <!-- I want you to look this over before I turn it in. -->
 - [ ] unable to change                  (固執する)
-- [ ] unambiguous                       (明らかな)              <!-- The warnings were unambiguous. -->
-- [ ] unpleasant                        (不快な 自然現象含めて)
-- [ ] unprecedented                     (前例のない)
-- [ ] unwilling                         (固執する)
-- [ ] vague                             (曖昧な ぼやっと)       <!-- He gave me a vague description of the incident. -->
-- [ ] viable                            (成立する)              <!-- a financially viable option -->
-- [ ] violent                           (激しい 自然現象 感情)  <!-- A violent storm tossed the ship around like a toy. -->
 - [ ] was predicted                     (予報では..だった)      <!-- Snow was predicted this morning. -->
 - [ ] weak at the knees                 (立っていられない)      <!-- Mary went weak at the knees when she saw the man. -->
 - [ ] wear and tear                     (摩耗 消耗 衰え)        <!-- wear and tear on a tire. / I feel a little wear and tear on my body these days. -->
@@ -619,16 +570,9 @@ make a living
 - [x] call off                          (中止する)              <!-- cancel よりカジュアル The field trip was called off because of the rain. -->
 - [x] call on 人                        (立ち寄る)              <!-- I'll call on you later. -->
 - [x] catch up (with)                   (追いつく)              <!-- Once you fall behind, It's hard to catch up. -->
-- [x] complimentary                     (無料の)                <!-- it is complimentary. -->
 - [x] identify A with B                 (A を B と同じと考える) <!-- For the most part, modernization is identified with westernization. -->
 - [x] in fashion                        (流行っている)          <!-- This type of hairdo is in fashion now among young women. -->
-- [x] intense                           (激しい 暑 光 痛 感情)  <!-- Lauren sought shelter from the intense heat of the midday sun. -->
-- [x] intolerant                        (不寛容な)              <!-- Some older people are intolerant when it comes to people eating on the train. -->
 - [x] keep up/pace with                 (遅れずに付いてく)      <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
-- [x] moderate                          (中 適度の 節度のある)  <!-- a moderate temperature -->
-- [x] modest                            (小 控えめ 謙虚な)      <!-- a modest increase in price -->
-- [x] popular                           (人気がある)            <!-- His music is popular among young people. -->
-- [x] prevalent                         (広く普及している)      <!-- The terrible disease was prevalent in the town. -->
 - [x] wind ... up                       (終わりにする)          <!-- "Time to wind things up. Let's take a vote." -->
 - `have come a long way`:                   Yeah. We'`ve really come a long way.`
 - `have a long way`:                        I was, but I still `have a long way` to go.
@@ -638,63 +582,43 @@ make a living
 - `keep one's chin up`:                     `Keep your chin up.`
 urgent emergency pressing
 - `Just give it time.`:                     Dating is a nightmare. `Just give it time.`
-- `I'm sorry`:                              `I'm sorry` to hear that. / `I'm sorry` for your lost.
 - `I thought you said (O)`:                 What? `I thought you said` seven o'clock. / `I thought you said` you were a vegetarian.
 - `the only way to`:`               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
 - `You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
 - `scorching hot`:                          It's `scorching hot` today. (焼きつくような)
 - `boiling hot`:                            This room is `boiling hot`. (うだるような)
-- `stuffy`:                                 The room was hot and `stuffy` and we were suffocating. (息の詰まるような)
-- `sticky`:                                 This `sticky` weather just makes me uncomfortable. (ねばりつく べたべた)
-- `muggy`:                                  It was a little too `muggy` for spring. (不快)
-- `humid`:                                  Japan is `humid` and hot in summer.
-- `warm`:
-- `pleasant`:
-- `comfortable`:
-- `chilly`:                                 There is a `chill` in the air.
-- `nippy`:
-- `freezing`:
-- [ ] sunny                             (晴れ)
-- [x] astronaut                         (宇宙飛行士)
-- [x] barber                            (床屋)
 - [x] deep tissue massage               (整体)
+- [x] vet / veterinarian                (獣医)
+- [x] gut feeling                       (直観)
+- [x] hay fever                         (花粉症)                <!-- I have a pollen allergy. -->
+- [x] health insurance                  (健康保険)
+- [x] social welfare                    (福祉)
+- [x] third baseline                    (三塁側)
+- [x] treat oneself                     (ご褒美)
+
+---
+
 - [x] passengers                        (乗客)
 - [x] pedestrians                       (歩行者)
 - [x] priest                            (聖職者 司祭)
 - [x] pupil                             (生徒 教え子 弟子)
 - [x] shopkeeper                        (小売店主)
-- [x] vet / veterinarian                (獣医)
-- [x] voucher                           (引換券 保証人)
-- [ ] coal                              (石炭)
 - [ ] trousers                          (ズボン)
-- [x] culture                           (文化)                  <!-- The company culture is different. -->
-- [x] gut feeling                       (直観)
-- [x] hay fever                         (花粉症)                <!-- I have a pollen allergy. -->
-- [x] health insurance                  (健康保険)
 - [x] mortgage                          (住宅ローン)            <!-- I took out my mortgage this year. (= loan for a house/property/condo) -->
 - [x] passion                           (趣味)                  <!-- It's my new passion. (最近の趣味) -->
 - [x] presence                          (存在感)                <!-- Hollywood has a very small presence. -->
 - [x] sneezing                          (くしゃみ)              <!-- I can't stop sneezing. -->
-- [x] social welfare                    (福祉)
-- [x] third baseline                    (三塁側)
-- [x] treat oneself                     (ご褒美)
 - [x] trepidation                       (不安)
-- [x] ETA (Estimated Time of Arrival)   (帰る時間)              <!-- I send her a message with my ETA. -->
-- [x] business hours                    (執務時間)
-- [ ] working hours                     (執務時間)              <!-- My regular working hours end at 6pm. -->
-- [ ] senior management                 (執行役)                <!-- It is easier to share my opinions when senior management is not present. -->
-- [ ] upper management                  (執行役)
-- [ ] big boss                          (すごく上の上司)
-- [ ] immediate boss                    (直属の上司)
-- [ ] direct boss                       (直属の上司)            <!-- My direct(section) boss is Japanese and my divigional boss is American. -->
-- [x] supervisor                        (監督)
-- [x] superior                          (先輩)
-- [ ] senior coworker                   (先輩)
-- [x] coworker                          (同僚)                  <!-- The coworker next to me is Indian and he doesn't speak Japanese. -->
-- [x] subordinate                       (後輩)
-- [ ] junior coworker                   (後輩)
-- [ ] standard procedure                (決まり)                <!-- This is just a standard procedure. (念のためです) -->
-- [x] side hustle                       (副業)
-- [x] sales quota                       (売上ノルマ)
-- [x] mid-career                        (中途社員)              <!-- This event is for freshman and not mid-career employees like me. -->
-- [x] appraisal                         (査定)
+- [x] moderate                          (中 適度の 節度のある)  <!-- a moderate temperature -->
+- [x] modest                            (小 控えめ 謙虚な)      <!-- a modest increase in price -->
+- [x] prevalent                         (広く普及している)      <!-- The terrible disease was prevalent in the town. -->
+- [ ] unambiguous                       (明らかな)              <!-- The warnings were unambiguous. -->
+- [ ] unpleasant                        (不快な 自然現象含めて)
+- [ ] unprecedented                     (前例のない)
+- [ ] unwilling                         (固執する)
+- [ ] vague                             (曖昧な ぼやっと)       <!-- He gave me a vague description of the incident. -->
+- [ ] viable                            (成立する)              <!-- a financially viable option -->
+- [ ] violent                           (激しい 自然現象 感情)  <!-- A violent storm tossed the ship around like a toy. -->
+- [ ] threaten                          (脅迫する)
+- [ ] thrilled                          (わくわくして 特に)
+- [ ] treat                             (おごる)                <!-- You treat me every time we eat out. -->

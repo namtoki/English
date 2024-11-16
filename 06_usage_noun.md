@@ -12,6 +12,9 @@
 - [ ] [compaund] trade exhibition:                  展示会
 - [ ] [compaund] vapor trail:                       飛行機雲
 - [ ] [compaund] wildlife refuge:                   鳥獣保護区
+- [~] [compaund] ETA (Estimated Time of Arrival):   帰る時間 / I send her a message with my ETA.
+- [~] [compaund] business hours:                    執務時間
+- [~] [compaund] working hours:                     執務時間 / My regular working hours end at 6pm.
 - [ ] [preposition] hope for:                       うまく行くことに対する希望 / many people once again have `hope for` genuine changes in the system.
 - [ ] [preposition] hope of:                        する希望 / する見込み / I have no `hope of` getting financial support for the project.
 - [ ] [preposition] impact on:                      に対する影響

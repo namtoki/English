@@ -8,12 +8,15 @@
 - [~] [stance] the fact is,:                        実を言うと / `The fact is,` I don't have enough money.
 - [~] [stance] if you think about it:               考え方によっては / It's crazy how we can communicate like this`, if you think about it.`
 - [~] [stance] off the top of my head:              思いつくままに言うと / `Off the top of my head,` I think it's wrong.
+- [~] [stance] I hate to admit it, but:             認めたくないけど / `I hate to admit it, but` I might need your help.
+- [~] [stance] That's a fair point, but:            それはもっともですが、
 - [ ] [stance] if you ask me:                       強いて言うなら / It was a little long`, if you ask me.`
 - [ ] [stance] in one's defence:                    言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
 - [ ] [stance] I hope I'm not interrupting you,:    ご迷惑でなければいいのですが
 - [ ] [stance] I hope you don't mind if:            ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
 - [ ] [stance] it goes without saying that:         言うまでもないが / `It goes without saying that` the aging of society is inevitable.
 - [ ] [stance] you know as well as I do that:       ご存じかと思いますが / `You know as well as I do that` this is very important.
+- [ ] [stance] Don't get me wrong, but:             誤解しないでほしいんだけど
 - [ ] [reason] against this background:             このような背景のもと、(結果)
 - [~] [conclusion] you know what I mean?:           言ってることわかります？
 - [~] [conclusion] if that makes sense.:            言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`

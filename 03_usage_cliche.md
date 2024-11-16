@@ -1,6 +1,6 @@
 # USAGE (CLICHE)
 
-## SHORT
+## CONVERSATION
 
 - [~] [beggining] It's been a while.:               久しぶり
 - [~] [beggining] You know what:                    あのさ / `You know what,` I'm going to get an ice cream cone.
@@ -16,88 +16,67 @@
 - [ ] [beggining] There we are.:                    よし！ / Well, `there we are`. I've finally finished my homework.
 - [ ] [beggining] There we go.:                     よし！ / Man, am I out of shape. `There we go`. Hey, Anna! Sven!
 - [ ] [beggining] why:                              おや
-- [~] [reaction] [agree] (That's) true.:              たしかに
-- [~] [reaction] [agree] (That) makes sense.:         understood
-- [ ] [reaction] [agree] (You're) right.:             そうね
-- [ ] [reaction] [agree] Fair enough.:                okay
-- [ ] [reaction] [agree] I hope not:                  そうならないことを願うよ
-- [ ] [reaction] [agree] I hope so:                   そう願うよ
-- [ ] [reaction] [agree] I see (what you mean).:      その通りです
-- [ ] [reaction] [agree] No doubt about it.:          まったくその通りです
-- [ ] [reaction] [agree] Sure thing:                  りょ
-- [ ] [reaction] [agree] You have no idea.:           まじでそうなんだよ
-- [ ] [reaction] [correction] Don't get me wrong.:    誤解しないでください
-- [ ] [reaction] [deny] I'm V-ing ... at the moment.: 中だから邪魔しないで / Hang on. I'm just finishing up an email at the moment
-- [ ] [reaction] [deny] I'm in the middle of something: 今手が離せない
-- [ ] [reaction] [deny] I'm trying to ...             中だから邪魔しないで / Hey, Toshi? I'm trying to work, Emily!
-- [~] [reaction] [negative] I hate to admit it, but:  `I hate to admit it, but` I might need your help.
-- [~] [reaction] [negative] I hear you.:              言いたいことはわかります / I’m not looking forward to the directors’ meeting tomorrow. `I hear you.`
-- [~] [reaction] [negative] That's a fair point, but: それはもっともですが、
-- [~] [reaction] [negative] That's the way it is:     しょうがないよ
-- [ ] [reaction] [negative] Been there done that:     やったことあるけど、もういい (飽きた)
-- [ ] [reaction] [negative] Here we go again.:        まただ！ / `Here we go again!` I told you I am not interested in getting married!
-- [ ] [reaction] [negative] I told you.:              だから言ったじゃん
-- [ ] [reaction] [negative] It doesn't matter:        どうでもいいよ
-- [ ] [reaction] [negative] Not again!:               まただ！
-- [ ] [reaction] [negative] That's rather unlikely.:  ほとんど無いと思います。
-- [ ] [reaction] [negative] There you go again.:      まただ！ / `There you go again.` How many times do I have to tell you?
-- [~] [reaction] [neutral] I'm not particular about it: こだわりはないよ
-- [~] [reaction] [neutral] Nothing in particular:     特にありません
-- [ ] [reaction] [neutral] It doesn't matter:         どちらでもいいよ
-- [~] [reaction] [positive] Good to know.:            知れてよかった
-- [~] [reaction] [positive] Sounds good.:             いいね
-- [~] [reaction] [positive] You (may) have a point:   一理あるね / `You may have a pint there`, but I still believe the plan is feasible
-- [ ] [reaction] [positive] (That) Sounds like a plan.: よさそう
-- [ ] [reaction] [positive] I grant you that.:          それはその通り / Yeah, that’s true, `I grant you that.`
-- [ ] [reaction] [positive] Lucky you!:                 うらやましい
-- [ ] [reaction] [positive] That's fanny.:              `That's fanny!`(fanny ha-ha)
-- [ ] [reaction] [positive] That's really something.:   たいしたもんだ
-- [ ] [reaction] [positive] You never know.:            わからないよ / I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
-- [ ] [reaction] [sympathy] I bet.:                     だよね / There was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
-- [ ] [reaction] [sympathy] I feel you.:                わかるよ / I’m tired of living in the city. Yeah, `I feel you.` I want to move near the mountains.
-- [ ] [reaction] [sympathy] I know what you are saying: わかるよ
-- [ ] [reaction] [sympathy] I know what you mean.:      わかるよ
-- [ ] [reaction] [sympathy] I was going to say.:        言おうと思っていたよ
-- [ ] [reaction] [sympathy] I've been there.:           わかる
-- [ ] [reaction] [sympathy] Neither do I:               わたしもです
-- [ ] [reaction] [sympathy] Same here:                  わたしもです
-- [ ] [reaction] [sympathy] So do I:                    わたしもです
-- [ ] [reaction] [sympathy] Tell me about it.:          だよね
-- [ ] [reaction] [sympathy] That's what I think, too.:  私も思っていたこと
-- [ ] [reaction] [sympathy] You can say that again.:    だよね
-- [ ] [reaction] [sympathy] [I know, right?:           だよね / The new Star Wars is awesome! `I know, right?`]()
-- [ ] [reaction] [thanks] (I'm) happy to help.:         どういたしまして / Thanks for reading my outline. `Happy to help!`
-- [ ] [reaction] [thanks] My pleasure.:                 どういたしまして / Formal
-- [ ] [reaction] [thanks] Not at all.:                  どういたしまして / Business / Casual
-- [ ] [reaction] [thanks] You bet.:                     どういたしまして / Casual Slung
-- [ ] [reaction] [thanks] You flatter me.:              お世辞でも嬉しいです
-- [ ] [reaction] [thanks] [Anytime.:                   どういたしまして / Casual]()
-- [ ] [reaction] [thanks] [Don't mention it.:          どういたしまして / Business]()
-- [ ] [reaction] [thanks] [No problem/worries.:        どういたしまして / Casual]()
-- [ ] [reaction] [thanks] [That would be great.:       そうしていただけると嬉しい]()
-- [ ] [service] Here you go/are.:                     どうぞ / `Here you go`. This is the doll you wanted.
-- [ ] [service] There you go.:                        どうぞ / I’m going to go for it! / Yeah. `There you go`!
-- [ ] [service] You name it.:                         なんでも (君が決めて) いいよ
-- [ ] [yell] Here we go.:                             Sure! Line up in front of that statue! 3.2.1 `here we go`!
-- [ ] [yell] Here we go:                              Have you prepared everything? OK, `here we go`!
-
-## DECLARATIVE
-
-- [ ] [daily] [traffic is backed up:                 渋滞している]()
-- [ ] [offer] I'll tell you later.:
-- [ ] [offer] So much for O:                          `So much for` the small talk. Let's get down to business.
-- [ ] [offer] Take your time.:
-- [ ] [offer] [I'll let you know.:]()
-- [ ] [offer] [Leave it there.:]()
-- [ ] [opinion] I'll leave it up to you:              任せるよ
-- [ ] [opinion] Something came up:                    急用ができた
-- [ ] [opinion] Take your time with O:                `Take your time with` this project.
-- [ ] [opinion] [I'm still working on it:            今やっている最中です / まだ食べている途中です]()
-- [ ] [opinion] [That's not the way I see it:        違う見方をしています]()
-- [ ] [remote] [Could you make O bigger?:            `Could you make` the material/notes bigger?]()
-- [ ] [remote] [Could you type it in the chat:]()
-- [ ] [remote] [I can't see O:                       `I can't see` you/the material/the notes.]()
-- [ ] [remote] [I was on mute.:]()
+- [~] [agree] (That's) true.:                       たしかに
+- [~] [agree] (That) makes sense.:                  understood
+- [ ] [agree] (You're) right.:                      そうね
+- [ ] [agree] Fair enough.:                         okay
+- [ ] [agree] I hope not:                           そうならないことを願うよ
+- [ ] [agree] I hope so:                            そう願うよ
+- [ ] [agree] I see (what you mean).:               その通りです
+- [ ] [agree] No doubt about it.:                   まったくその通りです
+- [ ] [agree] Sure thing:                           りょ
+- [ ] [agree] You have no idea.:                    まじでそうなんだよ
+- [ ] [busy] I'm V-ing ... at the moment.:          中だから邪魔しないで / Hang on. I'm just finishing up an email at the moment
+- [ ] [busy] I'm in the middle of something:        今手が離せない
+- [ ] [busy] I'm trying to ...                      中だから邪魔しないで / Hey, Toshi? I'm trying to work, Emily!
+- [~] [negative] I hear you.:                       言いたいことはわかります / I’m not looking forward to the directors’ meeting tomorrow. `I hear you.`
+- [~] [negative] That's the way it is:              しょうがないよ
+- [ ] [negative] Been there done that:              やったことあるけど、もういい (飽きた)
+- [ ] [negative] Here we go again.:                 まただ！ / `Here we go again!` I told you I am not interested in getting married!
+- [ ] [negative] I told you.:                       だから言ったじゃん
+- [ ] [negative] It doesn't matter:                 どうでもいいよ
+- [ ] [negative] Not again!:                        まただ！
+- [ ] [negative] That's rather unlikely.:           ほとんど無いと思います。
+- [ ] [negative] There you go again.:               まただ！ / `There you go again.` How many times do I have to tell you?
+- [~] [neutral] I'm not particular about it:        こだわりはないよ
+- [~] [neutral] Nothing in particular:              特にありません
+- [ ] [neutral] It doesn't matter:                  どちらでもいいよ
+- [~] [positive] Good to know.:                     知れてよかった
+- [~] [positive] Sounds good.:                      いいね
+- [~] [positive] You (may) have a point:            一理あるね / `You may have a pint there`, but I still believe the plan is feasible
+- [ ] [positive] (That) Sounds like a plan.:        よさそう
+- [ ] [positive] I grant you that.:                 それはその通り / Yeah, that’s true, `I grant you that.`
+- [ ] [positive] Lucky you!:                        うらやましい
+- [ ] [positive] That's fanny.:                     `That's fanny!`(fanny ha-ha)
+- [ ] [positive] That's really something.:          たいしたもんだ
+- [ ] [positive] You never know.:                   わからないよ / I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
+- [~] [sympathy] I know, right?:                    だよね / The new Star Wars is awesome! `I know, right?`
+- [ ] [sympathy] I bet.:                            だよね / There was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
+- [ ] [sympathy] I feel you.:                       わかるよ / I’m tired of living in the city. Yeah, `I feel you.` I want to move near the mountains.
+- [ ] [sympathy] I know what you are saying:        わかるよ
+- [ ] [sympathy] I know what you mean.:             わかるよ
+- [ ] [sympathy] I was going to say.:               言おうと思っていたよ
+- [ ] [sympathy] I've been there.:                  わかる
+- [ ] [sympathy] Neither do I:                      わたしもです
+- [ ] [sympathy] Same here:                         わたしもです
+- [ ] [sympathy] So do I:                           わたしもです
+- [ ] [sympathy] Tell me about it.:                 だよね
+- [ ] [sympathy] That's what I think, too.:         私も思っていたこと
+- [ ] [sympathy] You can say that again.:           だよね
+- [ ] [thanks] (I'm) happy to help.:                どういたしまして / Thanks for reading my outline. `Happy to help!`
+- [ ] [thanks] My pleasure.:                        どういたしまして / Formal
+- [ ] [thanks] Not at all.:                         どういたしまして / Business / Casual
+- [ ] [thanks] You bet.:                            どういたしまして / Casual Slung
+- [ ] [thanks] You flatter me.:                     お世辞でも嬉しいです
+- [~] [thanks] Anytime.:                            どういたしまして / Casual
+- [~] [thanks] Don't mention it.:                   どういたしまして / Business
+- [~] [thanks] No problem/worries.:                 どういたしまして / Casual
+- [~] [thanks] That would be great.:                そうしていただけると嬉しい
+- [ ] [service] Here you go/are.:                   どうぞ / `Here you go`. This is the doll you wanted.
+- [ ] [service] There you go.:                      どうぞ / I’m going to go for it! / Yeah. `There you go`!
+- [ ] [service] You name it.:                       なんでも (君が決めて) いいよ
+- [ ] [yell] Here we go.:                           Sure! Line up in front of that statue! 3.2.1 `here we go`!
+- [ ] [yell] Here we go:                            Have you prepared everything? OK, `here we go`!
 
 ## ASK
 
@@ -117,3 +96,24 @@
 - [ ] [question] [What do you mean by that?:         それってどういう意味？]()
 - [ ] [request] **Can you give me a hand?:              手伝ってくれる？**
 - [ ] [serve] How was everything?:                    お料理はいかがでしたか
+
+## DECLARATIVE
+
+- [ ] [daily] [traffic is backed up:                 渋滞している]()
+- [ ] [offer] I'll tell you later.:
+- [ ] [offer] So much for O:                          `So much for` the small talk. Let's get down to business.
+- [ ] [offer] Take your time.:
+- [ ] [offer] [I'll let you know.:]()
+- [ ] [offer] [Leave it there.:]()
+- [ ] [opinion] I'll leave it up to you:              任せるよ
+- [ ] [opinion] Something came up:                    急用ができた
+- [ ] [opinion] Take your time with O:                `Take your time with` this project.
+- [ ] [opinion] [I'm still working on it:            今やっている最中です / まだ食べている途中です]()
+- [ ] [opinion] [That's not the way I see it:        違う見方をしています]()
+
+## WORK
+
+- [~] [remote] Could you make O bigger?:              `Could you make` the material/notes bigger?
+- [~] [remote] Could you type it in the chat?:
+- [~] [remote] I can't see O:                         `I can't see` you/the material/the notes.
+- [~] [remote] I was on mute.:
