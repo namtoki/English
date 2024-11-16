@@ -1,24 +1,22 @@
 # USAGE (ADJECTIVE)
 
-- [comparative] 最上級を強める:         possible
-- [comparative] 比較級を強める:         far, `even` ~~very~~, ~~too~~
-- [emphasis] that ... ?:                そんなに ...？ / Wow! That good?
-- [idiom] A of a kind/sort:             ある種の A
-- [idiom] for hire:                     有料で利用できる、借りられる
-- [idiom] halfway through:              の途中で,半ばを過ぎた / I was halfway through dinner when he appeared.
-- [idiom] last-minute:                  土壇場の
-- [no adverb] neighborly:               隣人の 親切な
-- [number] **a bunch of:                  `A bunch of` other companies are imitating our excellent methods.**
-- [number] **some:                        `some clue`(何らかの), `some clues`**
-- [number] **tons of:                     I have `tons of` homework tonight.**
-- [number] a number of:                 There are `a number of` factors discouraging us from investing in stocks.
-- [number] all | entire | whole:        全ての | 少しも残さず全て | まるごと全て
-- [similar] comparable | comparative:   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
-- [similar] fun | pleasant:             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
-- [similar] industrial | industorious   :工業の | 勤勉な
-- [x] [vague]       `things/something like that`:             I think he's learning Spanish or `something like that`, if that makes sense.
-- [x] [vague]       `(sth) kind of thing`:                    This is a flip phone `kind of thing` but a bit different.
-- [x] [vague]       `things like (sth)`:                      `Things like` party hats, paper plates and napkins.
-- [x] [vague]       `(sth) and so on`:                        I'm tired of doing the dished, doing the laundry, `and so on!`
-- [x] [vague]       `(sth) and stuff (like that)`:            We've got to do editing `and stuff.`
-- [x] [vague]       `(sth) or so`:                            It's 20 dollars `or so.`
+- [~] [kind] things/something like that:            そのへん / I think he's learning Spanish or `something like that`, if that makes sense.
+- [~] [kind] things like ..:                        `Things like` party hats, paper plates and napkins.
+- [~] [kind] .. of a kind/sort:                     ある種の A
+- [~] [kind] .. kind of thing:                      みたいなもの / This is a flip phone `kind of thing` but a bit different.
+- [~] [kind] .. and so on:                          I'm tired of doing the dished, doing the laundry,`and so on!`
+- [~] [kind] .. and stuff (like that):              We've got to do editing`and stuff.`
+- [~] [kind] .. or so:                              It's 20 dollars`or so.`
+- [~] [number] a bunch of:                          `A bunch of` other companies are imitating our excellent methods.
+- [~] [number] some:                                `some clue`(何らかの), `some clues`
+- [~] [number] tons of:                             I have `tons of` homework tonight.
+- [ ] [number] a number of:                         There are `a number of` factors discouraging us from investing in stocks.
+- [ ] [number] all | entire | whole:                全ての | 少しも残さず全て | まるごと全て
+- [~] [emphasis] that ... ?:                        そんなに ...？ / Wow! That good?
+- [ ] for hire:                                   有料で利用できる、借りられる
+- [ ] halfway through:                            の途中で,半ばを過ぎた / I was `halfway through` dinner when he appeared.
+- [ ] last-minute:                                土壇場の
+- [ ] neighborly:                                 隣人の 親切な
+- [ ] comparable | comparative:                   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
+- [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
+- [ ] industrial | industrious:                   工業の | 勤勉な

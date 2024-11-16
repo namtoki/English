@@ -1,96 +1,94 @@
-
 # USAGE (VERB)
 
-- [SVOC] get O C:                       This song always `gets me feeling` some type of way.
-- [SVOC] have O C:                      I `had my hair cut`.
-- [SVOC] let O C:                       Don't `let me down`. / `Let me in!`
-- [SVOC] make O C:                      I'll do anything to `make you happy`. / to `make mayself understood` in English.
-- [SVOO] grant A B:
-- [SVOO] take O O to:                   It `takes her 25 minutes to` walk to work.
-- [SVOV] have O 原形V:                  I `had my brother paint` the wall.
-- [SVOV] help O 原形動詞:               The brochure `helped me find` the information / Just `help me find` them. / He `helps me study` English.
-- [SVOV] let O 原形V:                   My daughter's upset because I won't `let her get` a tattoo.
-- [SVOV] make O 原形V:                  He `made the students run` in the snow.
-- [SVOtoV] get O to V:                  She `got her son to do` the chores.
-- [idiom] appreciate in value:          価値が上がる
-- [idiom] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
-- [idiom] be based out of:              を拠点とする / The position `is based out of` the main office in Seattle.
-- [idiom] be better off O:              You`'re better off` starting from the beginning than trying ...
-- [idiom] be eating me alive:           Keeping secrets `was eating me alive.`
-- [idiom] be exemplified by O:          This `is exemplified by` Facebook's Causes application.
-- [idiom] be in a class of ones own:    They `are in a class of their own`.
-- [idiom] be in favor of:               I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
-- [idiom] be in the process of V-ing:
-- [idiom] be of service:                の手助けになる, に役立つ / I'm glad I could `be of service`.
-- [idiom] be open to any O:             I`'m open to any` suggestions you may have for changes.
-- [idiom] be out of the question:       Going to the party `is out of the question`!
-- [idiom] be propped up against:        立てかけられている
-- [idiom] be supposed to V:             Dolphins `are supposed to` be intelligent.
-- [idiom] be supposed to V:             On Valentine's Day, in Japan girls `are supposed to` give choco...
-- [idiom] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
-- [idiom] be under the impression that: だと思い込んでいる
-- [idiom] bring back memories:          This song `brings back memories!`
-- [idiom] bring/get A up to speed:      We need to `bring newbies up to speed` on our project as quickly as possible.
-- [idiom] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
-- [idiom] depreciate in value:          価値が下がる
-- [idiom] find oneself V-ing:           I often `find myself keeping` an eye on the stock market.
-- [idiom] give it a though:             I'll `give it a thought` and get back to you.
-- [idiom] hasten to V:                  They `hastened to` execute the plan.
-- [idiom] have a problem with:          困っている / 苦手だ / `I have a problem with` his table manners.
-- [idiom] have in mind:                 Whom do you `have in mind`?
-- [idiom] heard back from:              Have you `heard back from` the company?
-- [idiom] inform A that 節/疑問詞節:
-- [idiom] know one's way around:        の地理に明るい
-- [idiom] leave nothing to be desired:  Your summary `leaves nothing to be desired.`
-- [idiom] let A know:                   I must `let my wife know` when I'll be home.
-- [idiom] make a difference:            They are fresh, unique, and have `made a huge difference` for me.
-- [idiom] make an appearance:           出席/出演する
-- [idiom] make it a rule to V:          She `makes it a rule to` dispense with evening.
-- [idiom] preside over:                 で司会を務める
-- [idiom] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
-- [idiom] see to it that:               The professor `saw to it that` all of students understood the nature of the assignment.
-- [idiom] shoot footage of:             の場面の撮影をする
-- [idiom] take care V-ing:              We hope to `wrap up` the negotiations at the next meeting.
-- [idiom] take the plunge and V:
-- [idiom] take ~~~ off:                 `take time off` / `take a day off`
-- [idiom] usually end up V-ing:         I `usually end up` getting fast food.
-- [idiom] weigh A versus B:             S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
-- [idiom] would've thought that S V:    I `would've thought that` he'd hate dancing at a club.
-- [phrasal] add up:                     It `doesn't add up` at all.
-- [phrasal] be really into:             I`'m really into` ramen.
-- [phrasal] expand `on/upon`:             より詳しく説明する
-- [phrasal] fold up:                    を折りたたむ
-- [phrasal] get ahead:                  If you want to `get ahead` in life, you must make some sacrifices.
-- [phrasal] get to:                     I'll `get to it` as soon as I can.
-- [phrasal] hope for:                   We have been `hoping for` a pay raise.
-- [phrasal] look into:                  I want to `look into` the murder case more closer because something is strange.
-- [phrasal] move forward with:          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
-- [phrasal] move forward/up:            Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
-- [phrasal] narrow down:                This question is, how long will it take to `narrow down` the list.
-- [phrasal] push back:                  We can `move up` or `push back` the schedule to accommodate your availability.
-- [phrasal] put off V-ing:              The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
-- [phrasal] set forth:                  Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
-- [phrasal] set out:                    We `set out` on a hike. / `set out` one's ideas
-- [phrasal] settle for:                 But for now, we'll have to `settle for` this.
-- [phrasal] straighten up:              (物事を正しい位置に戻すように) 整理する
-- [phrasal] take down:                  解体する / The woman is `taking down` a canopy.
-- [phrasal] wrap up:                    We hope to `wrap up` the negotiations at the next meeting.
-- [preposition] choose A `over` B:        A より B を選ぶ
-- [preposition] exit `(from/out of)`:     exit a door / exit from a door / exit out of a door
-- [preposition] inform A `of` B:
-- [preposition] present A `with` B:       A に B を提示する
-- [preposition] 動詞 `of`:                writes `of the distant past` / hear `of A` / know `of A`
-- [similar] adjust | arrange | coordinate: 既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
-- [similar] cope with | deal with:      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
-- [similar] decide | decide on:         決心する | 決定する
-- [similar] heard | told:               連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
-- [similar] make effort | work hard:    努力しておりますが、実現できていません | 努力しています
-- [similar] notice | realize:           視覚的に認識する | 思考により (重要性などを) 認識する
-- [similar] teach | tell:               習得した技術等を説明して教える | 相手が知らない情報を与える
-- [similar] 人 need V | 物 need V-ing:  する必要がある | される必要がある
-
-- [ ] [Basic] [vi.] S+V:
 - [ ] [Basic] [vi.] S+V+C:                    be, remain (keep,hold,lie,stay), become (get,grow,turn,come,go,fall,run,prove), feel (taste,smell,sound,look,appear,seem)
-- [ ] [Basic] [vt.] S+V+O:                    〜を
 - [ ] [Basic] [vt.] S+V+O+O:                  give型, buy型, 他
-- [ ] [Basic] [vt.] S+V+O+C
+
+---
+
+- [~] [SVOC] get O C:                               This song always `gets me feeling` some type of way.
+- [~] [SVOC] have O C:                              I `had my hair cut`.
+- [~] [SVOC] let O C:                               Don't `let me down`. / `Let me in!`
+- [~] [SVOC] make O C:                              I'll do anything to `make you happy`. / to `make mayself understood` in English.
+- [~] [SVOO] take O O:                              It `takes her 25 minutes` to walk to work.
+- [ ] [SVOO] grant A B:
+- [~] [SVOV] have O 原形V:                          I `had my brother paint` the wall.
+- [~] [SVOV] let O 原形V:                           My daughter's upset because I won't `let her get` a tattoo.
+- [~] [SVOV] make O 原形V:                          He `made the students run` in the snow.
+- [~] [SVOV] help O 原形動詞:                       The brochure `helped me find` the information / Just `help me find` them. / He `helps me study` English.
+- [~] [SVOtoV] get O to V:                          She `got her son to do` the chores.
+- [~] [phrasal] add up:                             It `doesn't add up` at all.
+- [~] [phrasal] be really into:                     I`'m really into` ramen.
+- [ ] [phrasal] expand `on/upon`:                     より詳しく説明する
+- [ ] [phrasal] fold up:                            を折りたたむ
+- [ ] [phrasal] get ahead:                          成功する / If you want to `get ahead` in life, you must make some sacrifices.
+- [~] [phrasal] get to:                             とりかかる / I'll `get to it` as soon as I can.
+- [ ] [phrasal] hope for:                           We have been `hoping for` a pay raise.
+- [ ] [phrasal] look into:                          I want to `look into` the murder case more closer because something is strange.
+- [~] [phrasal] move forward with:                  (計画など)を進める / Once the contract is signed, we can `move forward with` the process
+- [~] [phrasal] move forward/up:                    前倒しする / Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
+- [~] [phrasal] push back:                          後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
+- [ ] [phrasal] narrow down:                        This question is, how long will it take to `narrow down` the list.
+- [ ] [phrasal] put off V-ing:                      The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
+- [ ] [phrasal] set forth:                          Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
+- [ ] [phrasal] set out:                            We `set out` on a hike. / `set out` one's ideas
+- [ ] [phrasal] settle for:                         But for now, we'll have to `settle for` this.
+- [ ] [phrasal] straighten up:                      (物事を正しい位置に戻すように) 整理する
+- [ ] [phrasal] take down:                          解体する / The woman is `taking down` a canopy.
+- [ ] [phrasal] wrap up:                            We hope to `wrap up` the negotiations at the next meeting.
+- [ ] [preposition] choose A `over` B:        A より B を選ぶ
+- [ ] [preposition] exit `(from/out of)`:     exit a door / exit from a door / exit out of a door
+- [ ] [preposition] inform A `of` B:
+- [ ] [preposition] present A `with` B:       A に B を提示する
+- [ ] [preposition] 動詞 `of`:                writes `of the distant past` / hear `of A` / know `of A`
+- [ ] appreciate in value:          価値が上がる
+- [ ] be all for:                   `I'm all for` gender equality, but I think the most qualified person should get the job.
+- [ ] be based out of:              を拠点とする / The position `is based out of` the main office in Seattle.
+- [ ] be better off O:              You`'re better off` starting from the beginning than trying ...
+- [ ] be eating me alive:           Keeping secrets `was eating me alive.`
+- [ ] be exemplified by O:          This `is exemplified by` Facebook's Causes application.
+- [ ] be in a class of ones own:    They `are in a class of their own`.
+- [ ] be in favor of:               I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
+- [ ] be in the process of V-ing:
+- [ ] be of service:                の手助けになる, に役立つ / I'm glad I could `be of service`.
+- [ ] be open to any O:             I`'m open to any` suggestions you may have for changes.
+- [ ] be out of the question:       Going to the party `is out of the question`!
+- [ ] be propped up against:        立てかけられている
+- [ ] be supposed to V:             Dolphins `are supposed to` be intelligent.
+- [ ] be supposed to V:             On Valentine's Day, in Japan girls `are supposed to` give choco...
+- [ ] be tasked with V-ing:         I`'m tasked with helping` people cope with the stressful situations.
+- [ ] be under the impression that: だと思い込んでいる
+- [ ] bring back memories:          This song `brings back memories!`
+- [ ] bring/get A up to speed:      We need to `bring newbies up to speed` on our project as quickly as possible.
+- [ ] can wait:                     Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
+- [ ] depreciate in value:          価値が下がる
+- [ ] find oneself V-ing:           I often `find myself keeping` an eye on the stock market.
+- [ ] give it a though:             I'll `give it a thought` and get back to you.
+- [ ] hasten to V:                  They `hastened to` execute the plan.
+- [ ] have a problem with:          困っている / 苦手だ / `I have a problem with` his table manners.
+- [ ] have in mind:                 Whom do you `have in mind`?
+- [ ] heard back from:              Have you `heard back from` the company?
+- [ ] inform A that 節/疑問詞節:
+- [ ] know one's way around:        の地理に明るい
+- [ ] leave nothing to be desired:  Your summary `leaves nothing to be desired.`
+- [ ] let A know:                   I must `let my wife know` when I'll be home.
+- [ ] make a difference:            They are fresh, unique, and have `made a huge difference` for me.
+- [ ] make an appearance:           出席/出演する
+- [ ] make it a rule to V:          She `makes it a rule to` dispense with evening.
+- [ ] preside over:                 で司会を務める
+- [ ] put O on hold:                We are going to `put this project on hold`. / Can you `put it on hold`?
+- [ ] see to it that:               The professor `saw to it that` all of students understood the nature of the assignment.
+- [ ] shoot footage of:             の場面の撮影をする
+- [ ] take care V-ing:              We hope to `wrap up` the negotiations at the next meeting.
+- [ ] take the plunge and V:
+- [ ] take ~~~ off:                 `take time off` / `take a day off`
+- [ ] usually end up V-ing:         I `usually end up` getting fast food.
+- [ ] weigh A versus B:             S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
+- [ ] would've thought that S V:    I `would've thought that` he'd hate dancing at a club.
+- [ ] adjust | arrange | coordinate: 既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
+- [ ] cope with | deal with:      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
+- [ ] decide | decide on:         決心する | 決定する
+- [ ] heard | told:               連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
+- [ ] make effort | work hard:    努力しておりますが、実現できていません | 努力しています
+- [ ] notice | realize:           視覚的に認識する | 思考により (重要性などを) 認識する
+- [ ] teach | tell:               習得した技術等を説明して教える | 相手が知らない情報を与える
+- [ ] 人 need V | 物 need V-ing:  する必要がある | される必要がある

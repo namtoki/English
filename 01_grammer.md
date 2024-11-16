@@ -38,6 +38,12 @@
 - [~] [倒置] 原級/比較級比較 as/than 以下:          Prehistoric man may well have had as much brain power as `has the man of today`.
 - [~] [挿入] that 節をとる S+V:                     前後にカンマを置いて挿入表現となる
 - [~] 関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
+- [~] [comparative] among the 最上級 複数形:        = one of ...
+- [ ] [comparative] 最上級を強める:                 possible
+- [ ] [comparative] 比較級を強める:                 far, `even` ~~very~~, ~~too~~
+- [ ] [pronoun] 数量形容詞の代名詞 (両方):          a lot, none
+- [~] [pronoun] 数量形容詞の代名詞 (単数形):        little, much(多くのこと), any, every, each
+- [ ] [pronoun] 数量形容詞の代名詞 (複数形):        few, lots, some, many, several
 
 ## AUXILIARY
 
