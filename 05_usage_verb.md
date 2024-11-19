@@ -74,6 +74,8 @@
 - [ ] put O on hold:                              We are going to `put this project on hold`. / Can you `put it on hold`?
 - [ ] see to it that:                             The professor `saw to it that` all of students understood the nature of the assignment.
 - [ ] shoot footage of:                           の場面の撮影をする
+- [ ] shoot footage of:                           の場面の撮影をする
+- [~] speak at length about:                      長々と詳細に話す / I `spoke to them at length about` the possibility of extending the deadline.
 - [ ] take care V-ing:                            We hope to `wrap up` the negotiations at the next meeting.
 - [ ] take ~~~ off:                               `take time off` / `take a day off`
 - [ ] teach | tell:                               習得した技術等を説明して教える | 相手が知らない情報を与える

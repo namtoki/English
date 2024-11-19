@@ -4,13 +4,15 @@
 - [~] [kind] things like ..:                        `Things like` party hats, paper plates and napkins.
 - [~] [kind] .. of a kind/sort:                     ある種の A
 - [~] [kind] .. kind of thing:                      みたいなもの / This is a flip phone `kind of thing` but a bit different.
-- [~] [kind] .. and so on:                          I'm tired of doing the dished, doing the laundry,`and so on!`
-- [~] [kind] .. and stuff (like that):              We've got to do editing`and stuff.`
-- [~] [kind] .. or so:                              It's 20 dollars`or so.`
+- [~] [kind] .. and so on:                          I'm tired of doing the dished, doing the laundry, `and so on!`
+- [~] [kind] .. and stuff (like that):              We've got to do editing `and stuff.`
+- [~] [kind] .. or so:                              It's 20 dollars `or so.`
+- [ ] [kind] .. or whatever:                        I'm just going to read a book `or whatever.`
 - [~] [number] a bunch of:                          `A bunch of` other companies are imitating our excellent methods.
 - [~] [number] some:                                `some clue`(何らかの), `some clues`
 - [~] [number] tons of:                             I have `tons of` homework tonight.
 - [ ] [number] a number of:                         There are `a number of` factors discouraging us from investing in stocks.
+- [ ] [number] a wealth of:                         豊富な
 - [ ] [number] all | entire | whole:                全ての | 少しも残さず全て | まるごと全て
 - [~] [emphasis] that ... ?:                        そんなに ...？ / Wow! That good?
 - [ ] for hire:                                   有料で利用できる、借りられる

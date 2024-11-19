@@ -1,34 +1,99 @@
 # USAGE (ADVERB)
 
-## FIELD
+## FOCUS
 
-- [~] [switch] going back to O:                 `Going back to` your question, my answer is no.
-- [~] [switch] off-topic, but:                  Bit `off-topic, but` I just finished editing the video.
-- [x] [switch] anyway:                          That’s a funny story. `Anyway,` he is late today, isn’t he?
-- [ ] [switch] in any case:                     `In any case,` the union has to compromise to a certain extent.
+- [~] [switch] going back to O:                    `Going back to` your question, my answer is no.
+- [~] [switch] off-topic, but:                     Bit `off-topic, but` I just finished editing the video.
+- [ ] [switch] anyway:                             That’s a funny story. `Anyway,` he is late today, isn’t he?
+- [ ] [switch] in any case:                        `In any case,` the union has to compromise to a certain extent.
 - [ ] [switch] by the way:
-- [focus] about O:                      `About` the food ... it is bad.
-- [focus] on O:                         thesis `on` education
-- [focus] in V-ing O:                   `In making a decision,` I rely not on logic but on instinct.
-- [focus] regarding O:                  `Regarding` the subject above,,,
-- [focus] in terms of O:                I liked that movie `in terms of` the acting. I didn’t really like the story though.
-- [focus] O-wise:                       `Staffing-wise,` I think it’s all right.
-- [focus] with/in regard to O:          `With regard to` the notes below
-- [focus] concerning O:                 `concerning` the changes that were recently made,,,
-- [focus] as for O:                     `As for` the cost per person
-- [focus] as to O:                      discussion `as to` which university is the best university.
-- [focus] speaking of which/O:          `Speaking of summer,` where did you go this year?
-- [focus] talking of O:                 `Talking of` soccer, Did you watch the game yesterday?
-- [focus] when it comes to O:           `When it comes to` the weather, there’s nothing I can do.
-- [focus] like/as you said:
-- [focus] personally, in my opinion:
-- [focus] To be honest:
-- [focus] as for me:                    `As for me,` I agree with his opinion.
-- [focus] from a one's standpoint:      Single track riding can be quite challenging `from a technical standpoint`.
-- [focus] from the perspective of O:    Trends in trade `from the perspective of` production stage.
-- [focus] from one's perspective:       Also `from the field’s perspective,` I think ,,,
-- [focus] from one's point of view:     Well, `from my point of view,` some of the new policies are really good.
-- [~] [focus] (more) broadly speaking,:
+- [~] (more) broadly speaking,:
+- [~] O-wise:                                    `Staffing-wise,` I think it’s all right.
+- [~] in V-ing O:                                `In making a decision,` I rely not on logic but on instinct.
+- [~] in terms of O:                             I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- [~] speaking of which/O:                       `Speaking of summer,` where did you go this year?
+- [~] when it comes to O:                        `When it comes to` the weather, there’s nothing I can do.
+- [ ] about O:                                   `About` the food ... it is bad.
+- [ ] on O:                                      thesis `on` education
+- [ ] regarding O:                               `Regarding` the subject above,,,
+- [ ] with/in regard to O:                       `With regard to` the notes below
+- [ ] concerning O:                              `concerning` the changes that were recently made,,,
+- [ ] as for O:                                  `As for` the cost per person
+- [ ] as for me:                                 `As for me,` I agree with his opinion.
+- [ ] as to O:                                   discussion `as to` which university is the best university.
+- [ ] talking of O:                              `Talking of` soccer, Did you watch the game yesterday?
+- [ ] like/as you said:
+- [~] personally, in my opinion:
+- [~] To be honest:
+- [~] from a one's standpoint:                   Single track riding can be quite challenging `from a technical standpoint`.
+- [~] from the perspective of O:                 Trends in trade `from the perspective of` production stage.
+- [~] from one's perspective:                    Also `from the field’s perspective,` I think ,,,
+- [~] from one's point of view:                  Well, `from my point of view,` some of the new policies are really good.
+- [ ] in particular:                             Urban culture appears to be attractive to many people, `in particular,` to younger people.
+- [ ] except for:                                The auditorium was empty `except for` a single piece of furniture.
+- [ ] not including:                             I work 8 hours `not including` lunch.
+- [ ] without:                                   I work 8 hours `without` lunch.
+- [ ] instead of V-ing:                          We decided to chill at home `instead of` going out.
+
+## TIME
+
+- [~] [一般] [日] on Sundays:                        I play tennis `on Sundays`.
+- [~] [一般] [日] on weekends:                       I often go to the beach `on weekends`.
+- [~] [一般] [日] on (A) days:                       I don't close this door `on hot days`.
+- [ ] [一般] [時] first thing:                       I'll see you `first thing` in the morning. / Please get it to me `first thing`
+- [ ] [一般] [時] at daybreak:
+- [ ] [一般] [時] bright and early:                  You can get your hands on the product `bright and early`.
+- [~] [一般] [時] in the early morning:
+- [~] [一般] [時] in the morning:
+- [~] [一般] [時] in the mid-morning:                It means about 9:00 or 10:00 `in the morning`.
+- [~] [一般] [時] at noon:                           I'll be back on Monday `at noon`.
+- [~] [一般] [時] in the afternoon:
+- [~] [一般] [時] in the early evening:              夕方
+- [~] [一般] [時] in the evening:
+- [~] [一般] [時] at night:
+- [~] [一般] [時] at dawn:                           夜明け
+- [~] [特定] [日] last/next/this/on Sunday:
+- [~] [特定] [日] last/next/this/on the weekend:
+- [~] [特定] [時] on 特定の日の時間帯:               `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
+- [~] [特定] [事] once:                              Call me `once` you get home.
+- [~] [特定] [事] upon/on X/doing:                   X してすぐ `upon arrival at the company headquarters`
+- [ ] [特定] [事] 期間 + into X:                     X に入って(期間)で `Three minutes into the game`, Okazaki scored.
+- [ ] [past] quite recently:                       ごく最近
+- [ ] [now] from now on:                           I have to cut down on my expenses, `so from now on`, I'm ~~
+- [~] [now] by now:                                You must be hungry `by now`.
+- [ ] [now] to date:                               これまでに
+- [~] [now] as of:                                 時点で / `as of` January 2014
+- [~] [future] right away:                         I'll come `right away`.
+- [ ] [future] any day now:                        = very soon
+- [ ] [future] soon:
+- [ ] [future] shortly:
+- [~] [future] before long:                        `Before long`, they will enter a crucial phase.
+- [~] [future] in (just) a little bit:             The ambulance will get here `in just a little bit`.
+- [~] [future] at some point:                      We should really clean the fridge `at some point`.
+- [ ] [future] for years to come:                  the birthrate will continue to decline steadily `for years to come`.
+- [ ] [future] for good:                           We're through `for good` this time.
+- [ ] [frequency] on occasion:                     ときおり
+- [ ] [frequency] for the first time`:              Last Saturday, I came here `for the first time.`
+
+## CONDITION
+
+- [x] [clear]       `when compared to (sth)`:                Global emissions could rise 1.1 percent this year `when compared to` 2022.
+- [ ] [clear]       `in a rage`:                              "Turn the faucet off!" mom yelled `in a rage.`
+- [ ] [clear]       `in earnest`:                             Japan must undertake sweeping deregulation `in earnest.`
+- [ ] [clear]       `for the (fun | joy) of it`:              I just cook `for the fun of it.`
+- [ ] [clear]       `back and forth`:                         Bob was pacing `back and forth` along the sidewalk.
+- [ ] [clear]       `to my shoulders`:                        I entered the Ghanges river `to my shoulders.`
+- [ ] [clear]       `to and fro`:                             I have been traveling `to and fro` between Canada and the U.K for years.
+- [ ] [clear]       `on and off`:                             It’s been raining `on and off` all day today.
+- [ ] [clear]       `at heart`:                               Since Bob is lazy `at heart`, he frequently neglects his duties.
+- [ ] [clear]       `more than (sth)`:                        I like chocolate `more than` vanilla.
+- [ ] [clear]       `rather than (sth)`:
+- [ ] [clear]       `better than (sth)`:                      I like vanilla `better than` chocolate.
+- [ ] [clear]       `in spite of (sth)`:                      `In spite of` our compliments, he frowned and turned away. He was so rude.
+- [ ] [clear]       `despite (sth)`:                          `Despite` the risk, I would like to proceed with the plan.
+- [ ] [clear]       `among other things`:
+- [ ] [clear]       `followed by`:                            Lightning flashed, `followed by` terribly loud thunder.
+- [ ] [clear]       `at the expense of`:                      He got promoted `at the expense of` his colleague.
 - [where] directly accross from:        の真向かいに
 - [条件] on average:                    平均すると
 - [条件] at a discount:                 割引料金で
@@ -72,49 +137,12 @@
 - [ ] [opinion]     `First/Most of all,`:                     `First of all,` learn the formula by heart.
 
 
-## TIME
-
-- [when] [一般] [日] on Sundays:            I play tennis `on Sundays`.
-- [when] [一般] [日] on weekends:           I often go to the beach `on weekends`.
-- [when] [一般] [日] on (A) days:           I don't close this door `on hot days`.
-- [when] [一般] [時] first thing:           I'll see you `first thing` in the morning. / Please get it to me `first thing`
-- [when] [一般] [時] at daybreak:
-- [when] [一般] [時] bright and early:      You can get your hands on the product `bright and early`.
-- [when] [一般] [時] in the early morning:
-- [when] [一般] [時] in the morning:
-- [when] [一般] [時] in the mid-morning:    It means about 9:00 or 10:00 `in the morning`.
-- [when] [一般] [時] at noon:               I'll be back on Monday `at noon`.
-- [when] [一般] [時] in the afternoon:
-- [when] [一般] [時] in the early evening:  夕方
-- [when] [一般] [時] in the evening:
-- [when] [一般] [時] at night:
-- [when] [一般] [時] at dawn:               夜明け
-- [when] [特定] [日] last/next/this/on Sunday:
-- [when] [特定] [日] last/next/this/onthe weekend:
-- [when] [特定] [時] on 特定の日の時間帯:   `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
-- [when] [特定] [事] once:                  Call me `once` you get home.
-- [when] [特定] [事] upon/on X/doing:       X してすぐ `upon arrival at the company headquarters`
-- [when] [特定] [事] 期間 + into X:         X に入って(期間)で `Three minutes into the game`, Okazaki scored.
-- [when] [過去] quite recently:           ごく最近
-- [when] [現在] from now on:              I have to cut down on my expenses, `so from now on`, I'm ~~
-- [when] [現在] by now:                   You must be hungry `by now`.
-- [when] [現在] to date:                  これまでに
-- [when] [未来] right away:               I'll come `right away`.
-- [when] [未来] any day now:              = very soon
-- [when] [未来] soon:
-- [when] [未来] shortly:
-- [when] [未来] before long:              `Before long`, they will enter a crucial phase.
-- [when] [未来] in (just) a little bit:   The ambulance will get here `in just a little bit`.
-- [when] [未来] at some point:            We should really clean the fridge `at some point`.
-- [when] [未来] for years to come:        the birthrate will continue to decline steadily `for years to come`.
-- [when] [未来] for good:                 We're through `for good` this time.
-- [frequency] on occasion:              ときおり
-
 ## ADDITION
 
-- [how] with each passing day/year:     日を追うごとに
-- [why] in case:                        `In case` there's an earthquake, prepare a first-aid kit.
-- [why] just in case:                   I'll write it down `just in case.`
+- [ ] [how] in a row:                              the unemployment rate has risen three quarters `in a row.`
+- [ ] [how] with each passing day/year:     日を追うごとに
+- [ ] [why] in case:                        `In case` there's an earthquake, prepare a first-aid kit.
+- [ ] [why] just in case:                   I'll write it down `just in case.`
 
 - [ ] `by the time (S) (V)`:                    `By the time` I got wake up, the snow had stopped falling.
 - [ ] `no later than (N)`:                      Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.
