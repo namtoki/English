@@ -2,6 +2,8 @@
 
 ## CONVERSATION
 
+- [~] Thank you for your continued patronage:     お世話になっております
+- [~] I always appreciate your business:          お世話になっております
 - [~] [beggining] It's been a while.:               久しぶり
 - [~] [beggining] You know what:                    あのさ / `You know what,` I'm going to get an ice cream cone.
 - [~] [beggining] You wanted to see me?:            お呼びでしょうか
