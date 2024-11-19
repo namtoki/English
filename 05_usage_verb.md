@@ -16,6 +16,7 @@
 - [ ] [phrasal] expand `on/upon`:                     より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
 - [ ] [phrasal] fold up:                            を折りたたむ
 - [ ] [phrasal] get ahead:                          成功する / If you want to `get ahead` in life, you must make some sacrifices.
+- [~] [phrasal] get stuck into:                     張り切って取り掛かる / 勢いよく食べ始める / And then you `get stuck into` the dinner.
 - [~] [phrasal] get to:                             とりかかる / I'll `get to it` as soon as I can.
 - [ ] [phrasal] hope for:                           当てにする / We have been `hoping for` a pay raise.
 - [~] [phrasal] look into:                          調べる / I want to `look into` the murder case more closer because something is strange.
