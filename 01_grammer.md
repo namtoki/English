@@ -44,6 +44,7 @@
 - [ ] [pronoun] 数量形容詞の代名詞 (両方):          a lot, none
 - [~] [pronoun] 数量形容詞の代名詞 (単数形):        little, much(多くのこと), any, every, each
 - [ ] [pronoun] 数量形容詞の代名詞 (複数形):        few, lots, some, many, several
+- [ ] [American] just/already/yet 過去形で使える:   Did you buy it already? / He just went out.
 
 ## AUXILIARY
 
