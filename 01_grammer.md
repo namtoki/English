@@ -38,13 +38,6 @@
 - [~] [倒置] 原級/比較級比較 as/than 以下:          Prehistoric man may well have had as much brain power as `has the man of today`.
 - [~] [挿入] that 節をとる S+V:                     前後にカンマを置いて挿入表現となる
 - [~] 関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
-- [~] [comparative] among the 最上級 複数形:        = one of ...
-- [ ] [comparative] 最上級を強める:                 possible, `very`
-- [ ] [comparative] 比較級を強める:                 far, `even` ~~too~~
-- [ ] [pronoun] 数量形容詞の代名詞 (両方):          a lot, none
-- [~] [pronoun] 数量形容詞の代名詞 (単数形):        little, much(多くのこと), any, every, each
-- [ ] [pronoun] 数量形容詞の代名詞 (複数形):        few, lots, some, many, several
-- [ ] [American] just/already/yet 過去形で使える:   Did you buy it already? / He just went out.
 
 ## AUXILIARY
 
@@ -80,3 +73,27 @@
 - [ ] be obliged to:                              余儀なくする / We `are obliged to` return the favor they gave us.
 - [ ] hasten to:                                  急いでした / They `hastened to` execute the plan.
 - [ ] take the plunge and:                        思い切ってした /
+
+## PREPOSITION
+
+- [ ] [at] 位置 `比較的狭い場所を点、目標として`:     We arrived `at` the station in the morning.
+- [ ] [at] 時 `時刻`:                                 The earliest flight departs `at` 8:00 a.m.
+- [~] [at] 状態 `気分や進行中の活動など`:             He was still `at` work when I called him.
+- [~] [at] 感情の原因:                              I was surprised `at` his sudden visit.
+- [ ] [at] 割合 (価格 速度 距離など):               We decided to set the price `at` $10 each.
+- [ ] [at] 方向:                                    I looked `at` the clock just before I left my office.
+- [ ] [by] 位置 `のそばに`:                           I lived `by` the sea for a few years.
+- [ ] [by] 時 `までに`:                               I really need to finish the report `by` Monday.
+- [ ] [by] 差で:                                    He won the election `by` a great majority.
+- [ ] [by] 手段 方法:                               We can solve the problem `by` doing this.
+- [~] [by] 基準 `判断の基準や単位`:                   A tree is known `by` its fruits. / Meat is sold `by` the pound at that store.
+
+## OTHERS
+
+- [~] [comparative] among the 最上級 複数形:        = one of ...
+- [ ] [comparative] 最上級を強める:                 possible, `very`
+- [ ] [comparative] 比較級を強める:                 far, `even` ~~too~~
+- [ ] [pronoun] 数量形容詞の代名詞 (両方):          a lot, none
+- [~] [pronoun] 数量形容詞の代名詞 (単数形):        little, much(多くのこと), any, every, each
+- [ ] [pronoun] 数量形容詞の代名詞 (複数形):        few, lots, some, many, several
+- [ ] [American] just/already/yet 過去形で使える:   Did you buy it already? / He just went out.

@@ -45,6 +45,8 @@
 - [~] at dawn:                                   夜明け
 - [~] at night:
 - [~] at noon:                                   I'll be back on Monday `at noon`.
+- [~] at 9:00 am:                                時に
+- [~] at N years old:                            歳で (のときに)
 - [ ] bright and early:                          You can get your hands on the product `bright and early`.
 - [~] every N:                                   The vehicles are inspected for defects `every three months`.
 - [~] every other (day | month | year):          I work out at the health club `every other day`.
