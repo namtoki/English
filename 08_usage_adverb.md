@@ -34,6 +34,7 @@
 - [ ] not including:                             I work 8 hours `not including` lunch.
 - [ ] without:                                   I work 8 hours `without` lunch.
 - [ ] instead of V-ing:                          We decided to chill at home `instead of` going out.
+- [ ] much to the relief of O:                   O が安心したことには、
 
 ## TIME
 
@@ -79,51 +80,50 @@
 - [ ] [deadline] by the time S V:                  `By the time` I got wake up, the snow had stopped falling.
 - [ ] [deadline] no later than N:                  Please hand in your assignment via e-mail `no later than` 5:00 PM on June 10.
 - [ ] [deadline] N at the latest:                  Please estimate the losses by Friday `at the latest`. I'll manage it somehow.
+- [ ] [deadline] until such time as S V:           We are unable to review it `until such time as` we receive that.
 - [ ] [frequency] on occasion:                     ときおり
 - [ ] [frequency] for the first time`:              Last Saturday, I came here`for the first time.`
 
 ## CONDITION
 
-- [~] when compared to:                          と比べて / (主語術後の省略) Global emissions could rise 1.1 percent this year `when compared to` 2022.
+- [~] in the first place:                        Why was he at the party `in the first place?` He wasn't invited, was he?
+- [~] in a nutshell:                             That's it`, in a nutshell.`
+- [~] on the second thought:
+- [~] when compared to:                          と比べて / Global emissions could rise 1.1 percent this year `when compared to` 2022.
+- [~] assuming that S V:                         `Assuming that` no voltage is applied from the booster amplifier,,,,
+- [~] with all:                                  れば / `With all` that money, he can do anything
+- [~] with all:                                  のに / `With all` its faults, it's basically a good plan.
+- [~] for all:                                   のに / I don't feel happy `for all` my success.
 - [ ] more than O:                               I like chocolate `more than` vanilla.
 - [ ] rather than O:
 - [ ] better than O:                             I like vanilla `better than` chocolate.
 - [ ] in spite of O:                             `In spite of` our compliments, he frowned and turned away. He was so rude.
 - [ ] despite O:                                 `Despite` the risk, I would like to proceed with the plan.
 - [ ] among other things:
+- [ ] on average:                                平均すると
+- [ ] at a discount:                             割引料金で
+- [ ] after having done:                         した後に / していたので
 
 ## OTHERS
 
 - [ ] [how] in a rage:                             "Turn the faucet off!" mom yelled `in a rage.`
 - [ ] [how] in earnest:                            Japan must undertake sweeping deregulation `in earnest.`
 - [ ] [why] for the (fun | joy) of it:             I just cook `for the fun of it.`
+- [ ] [why] due to O:                              I missed school `due to` Covid-19.
 - [ ] [how] back and forth:                        Bob was pacing `back and forth` along the sidewalk.
 - [ ] [how] to my shoulders:                       I entered the Ghanges river `to my shoulders.`
 - [ ] [how] to and fro:                            I have been traveling `to and fro` between Canada and the U.K for years.
 - [ ] [how] on and off:                            It’s been raining `on and off` all day today.
 - [ ] [how] at heart:                              Since Bob is lazy `at heart`, he frequently neglects his duties.
-- [ ] followed by:                               Lightning flashed, `followed by` terribly loud thunder.
-- [ ] at the expense of:                         He got promoted `at the expense of` his colleague.
+- [ ] [where] directly accross from:               の真向かいに
+- [ ] [how] followed by:                           Lightning flashed, `followed by` terribly loud thunder.
+- [ ] [how] at the expense of:                     犠牲にして / He got promoted `at the expense of` his colleague.
+- [ ] [how] amid O:                                フォーマルな during, in the middle of
+- [ ] [how] in close quarters:                     近い距離で / It was odd, to be working `in close quarters` after having ...
+- [ ] [how] on short notice:                       急ですが / I’m sorry, I can’t make it `on such short notice`.
 
 ---
 
-- [where] directly accross from:        の真向かいに
-- [条件] on average:                    平均すると
-- [条件] at a discount:                 割引料金で
-- [条件] [legal] until such time as S V:  We are unable to review your application `until such time as` we receive your transcripts and test scores.
-- [x] [opinion]     `in the first place`:                     Why was he at the party `in the first place?` He wasn't invited, was he?
-- [ ] [opinion]     `, in a nutshell`:                        That's it`, in a nutshell.`
-- [ ] [opinion]     `on the second thought`:
-- [x] [assumption]  `assuming that (sb) (do)`:                `Assuming that` no voltage is applied from the booster amplifier,,,,
-- [付帯状況] with all:                  (のに) `With all` its faults, it's basically a good plan. / (れば) `With all` that money, he can do anything
-- [付帯状況] for all:                   (のに) I don't feel happy `for all` my success.
-- [付帯状況] much to the relief of O:   O が安心したことには、
-- [付帯状況] [前置詞] amid O:             フォーマルな during, in the middle of
-- [付帯状況] [前置詞] aboard O:           (乗り物に) 乗って
-- [付帯状況] [前置詞] after having done:  した後に / していたので
-- [付帯状況] [前置詞] in close quarters:  近い距離で / It was odd, to be working `in close quarters` after having my own office.
-- [reason] due to (O):                  I missed school `due to` Covid-19. / She couldn't dance at the party `due to` an injury.
-- [付帯状況] on short notice:           I’m sorry, I can’t make it `on such short notice`.
 - [with] Supposing that S V:            だとすると / `Supposing that` the fire headed our way, what would we do next?
   - [x]           `(let's) say (sb) (do)`:                  `Say` I invest a hundred dollars now, how much will I ...
   - [x]           `as long as (sb) (do)`:                   `As long as` you are young, you should experience different things.
@@ -188,3 +188,28 @@
 - [x] `so far`:                                 `So far` I’m having a blast. The town is wonderful.
 - [ ] `(just) the other day`:                   I went there `just the other day`!
 - [ ] `for the first time in (N)`:              I'm going to Hawaii `for the first time in` 1 year.
+- [ ] `for (N)s`:                               I've been working for the company `for 6 months`.
+- [ ] `for half a (day | month | year)`:        I'll be living here `for half a year`.
+- [ ] `the entire week`:
+- [ ] `tens of minutes`:
+- [ ] `throughout`:                             We plan to celebrate our victory `throughout` the night.
+- [ ] `just before (N)`:                        I will get home sometime `just before` 9pm.
+- [ ] `just after (N)`:                         I will go abroad sometime `just after` Golden Week.
+- [x] `after that`:                             Click the folder first, and `after that` drag and drop the pdf file to trash can.
+- [x] `soon after that`:                        I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
+- [x] `(N) after that`:                         an hour `after that` / two weeks `after that` / a few years `after that`
+- [x] `afterwards`:                             We’ll grab dinner and go to karaoke `afterward(s)`.
+- [ ] `up there`:
+- [ ] `down there`:
+- [ ] `over`:                                   I invited some friends and family `over` for lunch. -->
+- [x] `at this point`:                          I'm ready to quit `at this point.`
+- [ ] `for a rainy day`:                        I decided to put some aside `for a rainy day.`
+- [ ] `owing to (O)`:                           形式的 / 文頭 / `Owing to` illness, some representatives were absent from ...
+- [ ] `on account of (O)`:                      困難 / Our flight to Vienna was delayed `on account of` a minor accident.
+- [x] `the reason being that`:                  I decided to turn down the job offer. `The reason being that,` I didn’t want to relocate.
+- [x] `for one thing ,,, for another thing`:    I can't put you up. `For one thing,` my dad drops in on me from time to time.
+- [x] `at the thought of (O)`:                  I tremble with fear `at the thought of` an injection.
+- [ ] `so as to (V)`:                           She left home early `so as to` avoid traffic congestion.
+- [ ] `with a view to (V-ing)`:                 A fund was set up `with a view to` preserving our endangered planet.
+- [x] `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
+- [ ] `in accordance with (O)`:
