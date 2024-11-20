@@ -1,3 +1,64 @@
+- [x] `now that (S) (V)`:                       `Now that` things are better, we should talk about the problem.
+- [ ] `in the middle of`:                       He fell asleep `in the middle of` the sales meeting.
+- [x] `at the same time`:                       It's hard being the writer and an actor `at the same time.`
+- [x] `up-front`:                               This hotel requires a cash deposit `up-front.`
+- [x] `in advance`:
+- [比較] of X:                          X の中で `of all dishes served at the Little Bird Cafe`, the Chef's Special Pizza is the most popular.
+- [強調] no more than A:                = only A
+- [強調] just:                          Are you tired of traditional learning methods that just don't work?
+- [目的] in (the) hope(s) of/that ...:  I didn't phone till four o'clock `in the hope that` you'd be finished.
+- [目的] hoping ...:                    We've postponed the game until Monday hoping that the weather will improve.
+- [意見] the way I see it,:             `The way I see it`, it's too simplistic to say that the only way to stop a bad guy with a gun is a good guy with a gun.
+- [ ] [clear]       `on behalf of (O)`:                       `On behalf of` all staff, I'd like to express our sympathy for the victims.
+- [ ] [clear]       `on behalf of (O)`:                       I thank you `on behalf of` my husband.
+- [ ] [clear]       `in place of (O)`:                        I used Knox’s PC `in place of` mine today.
+- [ ] [clear]       `in its infancy`:
+- [x] [how]         `somehow`:                                Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
+- [x] [how]         `in a way that (V)`:                      Some people explain simple things `in a way that` makes it sound complicated.
+- [ ] [how]         `by heart`:                               First of all, learn the formula `by heart.`
+- [ ] [how]         `on purpose`:                             He made a mistake `on purpose.`
+- [ ] [how]         `purposely`:                              He `purposely` didn't say anything.
+- [ ] [when]        `time and again`:                         The ecologist has warned us `time and again.`
+- [ ] [when]        `around the clock`:                       They are working `around the clock` looking into the cause of the crash.
+- [ ] [reason]      `out of habit`:                           I got the Namboku line `out of habit.`
+- [ ] [reason]      `on impulse`:                             I'm apt to buy things `on impulse` whenever something is on sale.
+- [ ] [modest]      `, if (O) works for you.`:                So I’ll see you at 7`, if it works for you.`
+- [x] [modest]      `, if you don't mind.`:                   I have a suggestion`, if you don't mind.`
+- [ ] [assumption]  `in the long run`:                        Bob believes that honesty pays off `in the long run.`
+- [ ] [assumption]  `let's just say`:                         The environment that `let's just say` was set up for my ...
+- [x] `(S) in itself`:                          The revolution `in itself`, bore no fruit, after all.
+- [ ] `to go`:                                  We have ten minutes `to go`.
+- [ ] `over the weekend`:                       I finished reading a book `over the weekend`.
+- [ ] `just now`:                               I was asleep until `just now`
+- [ ] `until just now`:                         I was asleep until `just now`
+- [x] `so far`:                                 `So far` I’m having a blast. The town is wonderful.
+- [ ] `(just) the other day`:                   I went there `just the other day`!
+- [ ] `for the first time in (N)`:              I'm going to Hawaii `for the first time in` 1 year.
+- [ ] `for (N)s`:                               I've been working for the company `for 6 months`.
+- [ ] `for half a (day | month | year)`:        I'll be living here `for half a year`.
+- [ ] `the entire week`:
+- [ ] `tens of minutes`:
+- [ ] `throughout`:                             We plan to celebrate our victory `throughout` the night.
+- [ ] `just before (N)`:                        I will get home sometime `just before` 9pm.
+- [ ] `just after (N)`:                         I will go abroad sometime `just after` Golden Week.
+- [x] `after that`:                             Click the folder first, and `after that` drag and drop the pdf file to trash can.
+- [x] `soon after that`:                        I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
+- [x] `(N) after that`:                         an hour `after that` / two weeks `after that` / a few years `after that`
+- [x] `afterwards`:                             We’ll grab dinner and go to karaoke `afterward(s)`.
+- [ ] `up there`:
+- [ ] `down there`:
+- [ ] `over`:                                   I invited some friends and family `over` for lunch. -->
+- [x] `at this point`:                          I'm ready to quit `at this point.`
+- [ ] `for a rainy day`:                        I decided to put some aside `for a rainy day.`
+- [ ] `owing to (O)`:                           形式的 / 文頭 / `Owing to` illness, some representatives were absent from ...
+- [ ] `on account of (O)`:                      困難 / Our flight to Vienna was delayed `on account of` a minor accident.
+- [x] `the reason being that`:                  I decided to turn down the job offer. `The reason being that,` I didn’t want to relocate.
+- [x] `for one thing ,,, for another thing`:    I can't put you up. `For one thing,` my dad drops in on me from time to time.
+- [x] `at the thought of (O)`:                  I tremble with fear `at the thought of` an injection.
+- [ ] `so as to (V)`:                           She left home early `so as to` avoid traffic congestion.
+- [ ] `with a view to (V-ing)`:                 A fund was set up `with a view to` preserving our endangered planet.
+- [x] `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
+- [ ] `in accordance with (O)`:
 - [ ] `in an effort to (V)`:                    `In an effort to` encourage diversity, they will debate the complicated problem of minority rights.
 - [ ] `in an attempt to (V)`:                   He dived into the river `in a heroic attempt to` save the child.
 - [ ] `at the sound of`:

@@ -7,34 +7,36 @@
 - [ ] [switch] anyway:                             That’s a funny story. `Anyway,` he is late today, isn’t he?
 - [ ] [switch] in any case:                        `In any case,` the union has to compromise to a certain extent.
 - [ ] [switch] by the way:
-- [~] (more) broadly speaking,:
-- [~] O-wise:                                    `Staffing-wise,` I think it’s all right.
-- [~] in V-ing O:                                `In making a decision,` I rely not on logic but on instinct.
-- [~] in terms of O:                             I liked that movie `in terms of` the acting. I didn’t really like the story though.
-- [~] speaking of which/O:                       `Speaking of summer,` where did you go this year?
-- [~] when it comes to O:                        `When it comes to` the weather, there’s nothing I can do.
-- [ ] about O:                                   `About` the food ... it is bad.
-- [ ] on O:                                      thesis `on` education
-- [ ] regarding O:                               `Regarding` the subject above,,,
-- [ ] with/in regard to O:                       `With regard to` the notes below
-- [ ] concerning O:                              `concerning` the changes that were recently made,,,
-- [ ] as for O:                                  `As for` the cost per person
-- [ ] as for me:                                 `As for me,` I agree with his opinion.
-- [ ] as to O:                                   discussion `as to` which university is the best university.
-- [ ] talking of O:                              `Talking of` soccer, Did you watch the game yesterday?
-- [ ] like/as you said:
-- [~] personally, in my opinion:
-- [~] To be honest:
-- [~] from a one's standpoint:                   Single track riding can be quite challenging `from a technical standpoint`.
-- [~] from the perspective of O:                 Trends in trade `from the perspective of` production stage.
-- [~] from one's perspective:                    Also `from the field’s perspective,` I think ,,,
-- [~] from one's point of view:                  Well, `from my point of view,` some of the new policies are really good.
-- [ ] in particular:                             Urban culture appears to be attractive to many people, `in particular,` to younger people.
-- [ ] except for:                                The auditorium was empty `except for` a single piece of furniture.
-- [ ] not including:                             I work 8 hours `not including` lunch.
-- [ ] without:                                   I work 8 hours `without` lunch.
-- [ ] instead of V-ing:                          We decided to chill at home `instead of` going out.
-- [ ] much to the relief of O:                   O が安心したことには、
+- [~] [zoom] (more) broadly speaking,:
+- [~] [zoom] O-wise:                               `Staffing-wise,` I think it’s all right.
+- [~] [zoom] in V-ing O:                           `In making a decision,` I rely not on logic but on instinct.
+- [~] [zoom] in terms of O:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- [~] [zoom] speaking of which/O:                  `Speaking of summer,` where did you go this year?
+- [~] [zoom] when it comes to O:                   `When it comes to` the weather, there’s nothing I can do.
+- [ ] [zoom] about O:                              `About` the food ... it is bad.
+- [ ] [zoom] on O:                                 thesis `on` education
+- [ ] [zoom] regarding O:                          `Regarding` the subject above,,,
+- [ ] [zoom] with/in regard to O:                  `With regard to` the notes below
+- [ ] [zoom] concerning O:                         `concerning` the changes that were recently made,,,
+- [ ] [zoom] as for O:                             `As for` the cost per person
+- [ ] [zoom] as for me:                            `As for me,` I agree with his opinion.
+- [ ] [zoom] as to O:                              discussion `as to` which university is the best university.
+- [ ] [zoom] talking of O:                         `Talking of` soccer, Did you watch the game yesterday?
+- [ ] [zoom] like/as you said:
+- [~] [personal] personally, in my opinion:
+- [~] [personal] To be honest:
+- [~] [personal] from a one's standpoint:          Single track riding can be quite challenging `from a technical standpoint`.
+- [~] [personal] from the perspective of O:        Trends in trade `from the perspective of` production stage.
+- [~] [personal] from one's perspective:           Also `from the field’s perspective,` I think ,,,
+- [~] [personal] from one's point of view:         Well, `from my point of view,` some of the new policies are really good.
+- [ ] [range] for the most part:                   `For the most part,` modernization is identified with westernization.
+- [ ] [range] except for:                          The auditorium was empty `except for` a single piece of furniture.
+- [ ] [range] not including:                       I work 8 hours `not including` lunch.
+- [ ] [range] without:                             I work 8 hours `without` lunch.
+- [ ] [range] instead of V-ing:                    We decided to chill at home `instead of` going out.
+- [ ] [pickup] in particular:                      Urban culture appears to be attractive to many people, `in particular,` to younger people.
+- [ ] [pickup] especially:                         `Especially,` I am good at French cooking
+- [ ] [pickup] above all:                          `Above all,` scientific terms call for precise definitions.
 
 ## TIME
 
@@ -90,7 +92,6 @@
 - [~] in a nutshell:                             That's it`, in a nutshell.`
 - [~] on the second thought:
 - [~] when compared to:                          と比べて / Global emissions could rise 1.1 percent this year `when compared to` 2022.
-- [~] assuming that S V:                         `Assuming that` no voltage is applied from the booster amplifier,,,,
 - [~] with all:                                  れば / `With all` that money, he can do anything
 - [~] with all:                                  のに / `With all` its faults, it's basically a good plan.
 - [~] for all:                                   のに / I don't feel happy `for all` my success.
@@ -103,113 +104,38 @@
 - [ ] on average:                                平均すると
 - [ ] at a discount:                             割引料金で
 - [ ] after having done:                         した後に / していたので
+- [~] [assumption] assuming that S V:              だとすると / `Assuming that` no voltage is applied from the booster amplifier,,,,
+- [~] [assumption] supposing that S V:             だとすると / `Supposing that` the fire headed our way, what would we do next?
+- [~] [assumption] (let's) say S V:                だとすると / `Say` I invest a hundred dollars now, how much will I ...
+- [ ] [assumption] as long as S V:                 `As long as` you are young, you should experience different things.
+- [ ] [assumption] as far as / insofar as S V:     `As far as` I can see, he will fail the exam again this time.
+- [ ] [assumption] given that S V:                 `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
+- [ ] [assumption] with O:                         `With` a little luck, we can still make it.
 
 ## OTHERS
 
-- [ ] [how] in a rage:                             "Turn the faucet off!" mom yelled `in a rage.`
-- [ ] [how] in earnest:                            Japan must undertake sweeping deregulation `in earnest.`
-- [ ] [why] for the (fun | joy) of it:             I just cook `for the fun of it.`
-- [ ] [why] due to O:                              I missed school `due to` Covid-19.
-- [ ] [how] back and forth:                        Bob was pacing `back and forth` along the sidewalk.
-- [ ] [how] to my shoulders:                       I entered the Ghanges river `to my shoulders.`
-- [ ] [how] to and fro:                            I have been traveling `to and fro` between Canada and the U.K for years.
-- [ ] [how] on and off:                            It’s been raining `on and off` all day today.
-- [ ] [how] at heart:                              Since Bob is lazy `at heart`, he frequently neglects his duties.
-- [ ] [where] directly accross from:               の真向かいに
-- [ ] [how] followed by:                           Lightning flashed, `followed by` terribly loud thunder.
-- [ ] [how] at the expense of:                     犠牲にして / He got promoted `at the expense of` his colleague.
+- [ ] [feeling] if anything:                       どちらかというと / But now, `if anything,` they are making too much of it.
+- [ ] [feeling] much to the relief of O:           O が安心したことには、
+- [ ] [feeling] just out of curiosity:             `Just out of curiosity,` why did you come to Japan?
 - [ ] [how] amid O:                                フォーマルな during, in the middle of
+- [ ] [how] at heart:                              Since Bob is lazy `at heart`, he frequently neglects his duties.
+- [ ] [how] at the expense of:                     犠牲にして / He got promoted `at the expense of` his colleague.
+- [ ] [how] back and forth:                        Bob was pacing `back and forth` along the sidewalk.
+- [ ] [how] followed by:                           Lightning flashed, `followed by` terribly loud thunder.
+- [ ] [how] in a departure from O:
+- [ ] [how] in a rage:                             "Turn the faucet off!" mom yelled `in a rage.`
 - [ ] [how] in close quarters:                     近い距離で / It was odd, to be working `in close quarters` after having ...
+- [ ] [how] in earnest:                            Japan must undertake sweeping deregulation `in earnest.`
+- [ ] [how] on and off:                            It’s been raining `on and off` all day today.
 - [ ] [how] on short notice:                       急ですが / I’m sorry, I can’t make it `on such short notice`.
-
----
-
-- [with] Supposing that S V:            だとすると / `Supposing that` the fire headed our way, what would we do next?
-  - [x]           `(let's) say (sb) (do)`:                  `Say` I invest a hundred dollars now, how much will I ...
-  - [x]           `as long as (sb) (do)`:                   `As long as` you are young, you should experience different things.
-  - [x]           `as far as / insofar as (sb) (do)`:       `As far as` I can see, he will fail the exam again this time.
-- [x] [emphasis]    `especially`:                             `Especially,` I am good at French cooking
-  - [x]           `above all,`:                             `Above all,` scientific terms call for precise definitions.
-- [x] [emphasis]    `if anything,`:                           But now, `if anything,` they are making too much of it.
-- [ ] [range]       `for the most part`:                      `For the most part,` modernization is identified with westernization.
-- [x] [backdrop]    `in the course of`:                       `In the course of` its economic development, Japan has ...
-- [ ] [factor]      `in a departure from (sth),`:
-- [x] [factor]      `as a result of (sth)`:                   `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-  - [ ]           `consequently`:
-- [x] [premise]     `given that (sb) (do)`:                   `Given that` many city streets in the U.S. have a 45 mph speed limit, 40 mph could,,,,
-- [x] [premise]     `with (sth)`:                             `With` a little luck, we can still make it.
-- [x] [conclusion]  `at the end of the day,`:                 `At the end of the day,` this is not that important.
-- [x] [reason]      `just out of curiosity,`:                 `Just out of curiosity,` why did you come to Japan?
-- [x] [opinion]     `To begin with,`:                         `To begin with,` its theme is obscure.
-- [ ] [opinion]     `Like/as I was saying`:                   Sorry. `As I was saying,` the acting was amazing.
-- [ ] [opinion]     `Speaking from experience,`:
-- [ ] [opinion]     `Simply put,`:                            `Simply put,` he doesn't like sports.
-- [ ] [opinion]     `All things considered,`:                 `All things considered`, that was a successful event.
-- [ ] [opinion]     `As (sb) anticipated,`:                   `As we anticipated,` the unemployment rate has risen ....
-- [ ] [opinion]     `As it is,`:                              `As it is,` ordinary people cannot afford to purchase such luxuries.
-- [ ] [opinion]     `First/Most of all,`:                     `First of all,` learn the formula by heart.
-- [ ] [how] in a row:                                       the unemployment rate has risen three quarters `in a row.`
-- [ ] [how] with each passing day/year:                     日を追うごとに
-- [ ] [why] in case:                                        に備えて / `In case` there's an earthquake, prepare a first-aid kit.
-- [ ] [why] just in case:                                   念の為 / I'll write it down `just in case.`
-- [x] `now that (S) (V)`:                       `Now that` things are better, we should talk about the problem.
-- [ ] `in the middle of`:                       He fell asleep `in the middle of` the sales meeting.
-- [x] `at the same time`:                       It's hard being the writer and an actor `at the same time.`
-- [x] `up-front`:                               This hotel requires a cash deposit `up-front.`
-- [x] `in advance`:
-- [比較] of X:                          X の中で `of all dishes served at the Little Bird Cafe`, the Chef's Special Pizza is the most popular.
-- [強調] no more than A:                = only A
-- [強調] just:                          Are you tired of traditional learning methods that just don't work?
-- [目的] in (the) hope(s) of/that ...:  I didn't phone till four o'clock `in the hope that` you'd be finished.
-- [目的] hoping ...:                    We've postponed the game until Monday hoping that the weather will improve.
-- [意見] the way I see it,:             `The way I see it`, it's too simplistic to say that the only way to stop a bad guy with a gun is a good guy with a gun.
-- [ ] [clear]       `on behalf of (O)`:                       `On behalf of` all staff, I'd like to express our sympathy for the victims.
-- [ ] [clear]       `on behalf of (O)`:                       I thank you `on behalf of` my husband.
-- [ ] [clear]       `in place of (O)`:                        I used Knox’s PC `in place of` mine today.
-- [ ] [clear]       `in its infancy`:
-- [x] [how]         `somehow`:                                Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
-- [x] [how]         `in a way that (V)`:                      Some people explain simple things `in a way that` makes it sound complicated.
-- [ ] [how]         `by heart`:                               First of all, learn the formula `by heart.`
-- [ ] [how]         `on purpose`:                             He made a mistake `on purpose.`
-- [ ] [how]         `purposely`:                              He `purposely` didn't say anything.
-- [ ] [when]        `time and again`:                         The ecologist has warned us `time and again.`
-- [ ] [when]        `around the clock`:                       They are working `around the clock` looking into the cause of the crash.
-- [ ] [reason]      `out of habit`:                           I got the Namboku line `out of habit.`
-- [ ] [reason]      `on impulse`:                             I'm apt to buy things `on impulse` whenever something is on sale.
-- [ ] [modest]      `, if (O) works for you.`:                So I’ll see you at 7`, if it works for you.`
-- [x] [modest]      `, if you don't mind.`:                   I have a suggestion`, if you don't mind.`
-- [ ] [assumption]  `in the long run`:                        Bob believes that honesty pays off `in the long run.`
-- [ ] [assumption]  `let's just say`:                         The environment that `let's just say` was set up for my ...
-- [x] `(S) in itself`:                          The revolution `in itself`, bore no fruit, after all.
-- [ ] `to go`:                                  We have ten minutes `to go`.
-- [ ] `over the weekend`:                       I finished reading a book `over the weekend`.
-- [ ] `just now`:                               I was asleep until `just now`
-- [ ] `until just now`:                         I was asleep until `just now`
-- [x] `so far`:                                 `So far` I’m having a blast. The town is wonderful.
-- [ ] `(just) the other day`:                   I went there `just the other day`!
-- [ ] `for the first time in (N)`:              I'm going to Hawaii `for the first time in` 1 year.
-- [ ] `for (N)s`:                               I've been working for the company `for 6 months`.
-- [ ] `for half a (day | month | year)`:        I'll be living here `for half a year`.
-- [ ] `the entire week`:
-- [ ] `tens of minutes`:
-- [ ] `throughout`:                             We plan to celebrate our victory `throughout` the night.
-- [ ] `just before (N)`:                        I will get home sometime `just before` 9pm.
-- [ ] `just after (N)`:                         I will go abroad sometime `just after` Golden Week.
-- [x] `after that`:                             Click the folder first, and `after that` drag and drop the pdf file to trash can.
-- [x] `soon after that`:                        I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
-- [x] `(N) after that`:                         an hour `after that` / two weeks `after that` / a few years `after that`
-- [x] `afterwards`:                             We’ll grab dinner and go to karaoke `afterward(s)`.
-- [ ] `up there`:
-- [ ] `down there`:
-- [ ] `over`:                                   I invited some friends and family `over` for lunch. -->
-- [x] `at this point`:                          I'm ready to quit `at this point.`
-- [ ] `for a rainy day`:                        I decided to put some aside `for a rainy day.`
-- [ ] `owing to (O)`:                           形式的 / 文頭 / `Owing to` illness, some representatives were absent from ...
-- [ ] `on account of (O)`:                      困難 / Our flight to Vienna was delayed `on account of` a minor accident.
-- [x] `the reason being that`:                  I decided to turn down the job offer. `The reason being that,` I didn’t want to relocate.
-- [x] `for one thing ,,, for another thing`:    I can't put you up. `For one thing,` my dad drops in on me from time to time.
-- [x] `at the thought of (O)`:                  I tremble with fear `at the thought of` an injection.
-- [ ] `so as to (V)`:                           She left home early `so as to` avoid traffic congestion.
-- [ ] `with a view to (V-ing)`:                 A fund was set up `with a view to` preserving our endangered planet.
-- [x] `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
-- [ ] `in accordance with (O)`:
+- [ ] [how] to and fro:                            I have been traveling `to and fro` between Canada and the U.K for years.
+- [ ] [how] to my shoulders:                       I entered the Ghanges river `to my shoulders.`
+- [ ] [where] directly accross from:               の真向かいに
+- [ ] [where] in the course of:                    `In the course of` its economic development, Japan has ...
+- [ ] [why] due to O:                              I missed school `due to` Covid-19.
+- [ ] [why] for the (fun | joy) of it:             I just cook `for the fun of it.`
+- [ ] [why] as a result of O:                      `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+- [ ] [why] in case:                               に備えて / `In case` there's an earthquake, prepare a first-aid kit.
+- [ ] [why] just in case:                          念の為 / I'll write it down `just in case.`
+- [ ] [how] in a row:                              the unemployment rate has risen three quarters `in a row.`
+- [ ] [how] with each passing day/year:            日を追うごとに

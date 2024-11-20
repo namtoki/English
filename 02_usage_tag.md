@@ -2,6 +2,14 @@
 
 - [~] [and] on top of that:                         その上
 - [ ] [and] and then:                               その上/しかも
+- [~] [and] to begin with:                          まずはじめに / `To begin with,` its theme is obscure.
+- [ ] [and] like/as I was saying:                   Sorry. `As I was saying,` the acting was amazing.
+- [ ] [and] speaking from experience:
+- [ ] [and] simply put:                             `Simply put,` he doesn't like sports.
+- [ ] [and] all things considered:                  `All things considered`, that was a successful event.
+- [ ] [and] as (sb) anticipated:                    `As we anticipated,` the unemployment rate has risen ....
+- [ ] [and] as it is:                               `As it is,` ordinary people cannot afford to purchase such luxuries.
+- [ ] [and] first/Most of all:                      `First of all,` learn the formula by heart.
 - [~] [stance] this might be just me, but:          自分だけかもしれないけど
 - [~] [stance] if I had to say/guess:               強いて言うなら / `If I had to guess,` I would say that she is single.
 - [~] [stance] if I'm not mistaken:                 間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
@@ -10,6 +18,7 @@
 - [~] [stance] off the top of my head:              思いつくままに言うと / `Off the top of my head,` I think it's wrong.
 - [~] [stance] I hate to admit it, but:             認めたくないけど / `I hate to admit it, but` I might need your help.
 - [~] [stance] That's a fair point, but:            それはもっともですが、
+- [~] [stance] at the end of the day:               `At the end of the day,` this is not that important.
 - [ ] [stance] if you ask me:                       強いて言うなら / It was a little long`, if you ask me.`
 - [ ] [stance] in one's defence:                    言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
 - [ ] [stance] I hope I'm not interrupting you,:    ご迷惑でなければいいのですが
