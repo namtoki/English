@@ -82,40 +82,40 @@
 
 ## ASK
 
-- [ ] [beggining] Can I borrow you for a second?:     今いい？
-- [ ] [beggining] Do you have time?:                  今いい？
-- [ ] [beggining] I'd like to ask you a favor.:       お願いしてもいいですか
+- [ ] [beggining] Can I borrow you for a second?:   今いい？
+- [ ] [beggining] Do you have time?:                今いい？
+- [ ] [beggining] I'd like to ask you a favor.:     お願いしてもいいですか
 - [ ] [beggining] You needed a favor?:
-- [ ] [beggining] [Do you have a minute/second?:     今いい？]()
-- [ ] [beggining] [Is everything all right?:         大丈夫？]()
-- [ ] [beggining] [Is this a good time?:             今いい？]()
-- [ ] [question] Do you want me to ... ?:             ... させるつもり？ / Do you want me to lose my job?
-- [ ] [question] Do you have the time?:               今何時？
-- [ ] [question] Do you know anyone in A:             A に知り合いはいる？
-- [ ] [question] How's your day going?:               調子はどう？
-- [ ] [question] What's going on?:                    A: What's up? B: `What's going on?` / `What's going on` in here? What are you doing?
-- [ ] [question] [What are you up to?:               何しようとしているの？]()
-- [ ] [question] [What do you mean by that?:         それってどういう意味？]()
-- [ ] [request] **Can you give me a hand?:              手伝ってくれる？**
-- [ ] [serve] How was everything?:                    お料理はいかがでしたか
+- [~] [beggining] Do you have a minute/second?:     今いい？
+- [~] [beggining] Is everything all right?:         大丈夫？
+- [~] [beggining] Is this a good time?:             今いい？
+- [ ] [question] Do you want me to ... ?:           ... させるつもり？ / Do you want me to lose my job?
+- [ ] [question] Do you have the time?:             今何時？
+- [ ] [question] Do you know anyone in A:           A に知り合いはいる？
+- [ ] [question] How's your day going?:             調子はどう？
+- [ ] [question] What's going on?:                  A: What's up? B: `What's going on?` / `What's going on` in here?
+- [~] [question] What are you up to?:               何しようとしているの？
+- [~] [question] What do you mean by that?:         それってどういう意味？
+- [~] [request] Can you give me a hand?:            手伝ってくれる？
+- [ ] [serve] How was everything?:                  お料理はいかがでしたか
 
 ## DECLARATIVE
 
-- [ ] [daily] [traffic is backed up:                 渋滞している]()
+- [ ] [daily] traffic is backed up:                 渋滞している
 - [ ] [offer] I'll tell you later.:
-- [ ] [offer] So much for O:                          `So much for` the small talk. Let's get down to business.
+- [ ] [offer] So much for O:                        `So much for` the small talk. Let's get down to business.
 - [ ] [offer] Take your time.:
-- [ ] [offer] [I'll let you know.:]()
-- [ ] [offer] [Leave it there.:]()
-- [ ] [opinion] I'll leave it up to you:              任せるよ
-- [ ] [opinion] Something came up:                    急用ができた
-- [ ] [opinion] Take your time with O:                `Take your time with` this project.
-- [ ] [opinion] [I'm still working on it:            今やっている最中です / まだ食べている途中です]()
-- [ ] [opinion] [That's not the way I see it:        違う見方をしています]()
+- [ ] [offer] I'll let you know.:
+- [ ] [offer] Leave it there.:
+- [ ] [opinion] I'll leave it up to you:            任せるよ
+- [ ] [opinion] Something came up:                  急用ができた
+- [ ] [opinion] Take your time with O:              `Take your time with` this project.
+- [ ] [opinion] I'm still working on it:            今やっている最中です / まだ食べている途中です
+- [ ] [opinion] That's not the way I see it:        違う見方をしています
 
 ## WORK
 
-- [~] [remote] Could you make O bigger?:              `Could you make` the material/notes bigger?
+- [~] [remote] Could you make O bigger?:            `Could you make` the material/notes bigger?
 - [~] [remote] Could you type it in the chat?:
-- [~] [remote] I can't see O:                         `I can't see` you/the material/the notes.
+- [~] [remote] I can't see O:                       `I can't see` you/the material/the notes.
 - [~] [remote] I was on mute.:
