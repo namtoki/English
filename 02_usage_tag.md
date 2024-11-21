@@ -13,22 +13,23 @@
 - [ ] [opinion] first/Most of all:                  `First of all,` learn the formula by heart.
 - [ ] [opinion] now that:                           `Now that` things are better, we should talk about the problem.
 - [~] [stance] this might be just me, but:          自分だけかもしれないけど
-- [~] [stance] if I had to say/guess:               強いて言うなら / `If I had to guess,` I would say that she is single.
-- [~] [stance] if I'm not mistaken:                 間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
 - [~] [stance] the fact is,:                        実を言うと / `The fact is,` I don't have enough money.
-- [~] [stance] if you think about it:               考え方によっては / It's crazy how we can communicate like this`, if you think about it.`
 - [~] [stance] off the top of my head:              思いつくままに言うと / `Off the top of my head,` I think it's wrong.
-- [~] [stance] I hate to admit it, but:             認めたくないけど / `I hate to admit it, but` I might need your help.
 - [~] [stance] That's a fair point, but:            それはもっともですが、
 - [~] [stance] at the end of the day:               `At the end of the day,` this is not that important.
+- [~] [stance] if I had to say/guess:               強いて言うなら / `If I had to guess,` I would say that she is single.
+- [~] [stance] if I'm not mistaken:                 間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
+- [~] [stance] if you think about it:               考え方によっては / It's crazy how we can communicate like this`, if you think about it.`
 - [ ] [stance] if you ask me:                       強いて言うなら / It was a little long`, if you ask me.`
+- [ ] [stance] if you don't mind:                   I have a suggestion`, if you don't mind.`
+- [ ] [stance] if (O) works for you.:               So I’ll see you at 7`, if it works for you.`
+- [ ] [stance] it goes without saying that:         言うまでもないが / `It goes without saying that` the aging of society is inevitable.
 - [ ] [stance] in one's defence:                    言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
+- [~] [stance] I hate to admit it, but:             認めたくないけど / `I hate to admit it, but` I might need your help.
 - [ ] [stance] I hope I'm not interrupting you,:    ご迷惑でなければいいのですが
 - [ ] [stance] I hope you don't mind if:            ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
-- [ ] [stance] it goes without saying that:         言うまでもないが / `It goes without saying that` the aging of society is inevitable.
 - [ ] [stance] you know as well as I do that:       ご存じかと思いますが / `You know as well as I do that` this is very important.
 - [ ] [stance] Don't get me wrong, but:             誤解しないでほしいんだけど
-- [ ] [stance] if (O) works for you.:               So I’ll see you at 7`, if it works for you.`
 - [ ] [reason] against this background:             このような背景のもと、(結果)
 - [~] [conclusion] you know what I mean?:           言ってることわかります？
 - [~] [conclusion] if that makes sense.:            言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`

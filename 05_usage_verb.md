@@ -2,28 +2,29 @@
 
 ## PHRASAL VERB
 
-- [~] add up:                                     納得がいく / It `doesn't add up` at all.
-- [~] be really into:                             ハマる / I`'m really into` ramen.
+- [ ] add up:                                     納得がいく / It `doesn't add up` at all.
+- [ ] be really into:                             ハマる / I`'m really into` ramen.
 - [ ] expand `on/upon`:                             より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
 - [ ] fold up:                                    を折りたたむ
 - [ ] get ahead:                                  成功する / If you want to `get ahead` in life, you must make some sacrifices.
-- [~] get stuck into:                             張り切って取り掛かる / 勢いよく食べ始める / And then you `get stuck into` the dinner.
-- [~] get to:                                     とりかかる / I'll `get to it` as soon as I can.
-- [~] go into:                                    投入される / Nearly 1000 hours of work `went into` the project.
+- [ ] get stuck into:                             張り切って取り掛かる / 勢いよく食べ始める / And then you `get stuck into` the dinner.
+- [ ] get to:                                     とりかかる / I'll `get to it` as soon as I can.
+- [ ] go into:                                    投入される / Nearly 1000 hours of work `went into` the project.
 - [ ] go into:                                    詳しく述べる / 通じる / 凝りだす / 投入される
 - [ ] hope for:                                   当てにする / We have been `hoping for` a pay raise.
-- [~] look into:                                  調べる / I want to `look into` the murder case more closer because something is strange.
-- [~] move forward with:                          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
-- [~] move forward/up:                            前倒しする / Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
-- [~] push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
-- [~] narrow down:                                絞り込む / This question is, how long will it take to `narrow down` the list.
+- [ ] look into:                                  調べる / I want to `look into` the murder case more closer because something is strange.
+- [ ] move forward with:                          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
+- [ ] move forward/up:                            前倒しする / Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
+- [ ] push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
+- [ ] narrow down:                                絞り込む / This question is, how long will it take to `narrow down` the list.
 - [ ] put off V-ing:                              延期する / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
 - [ ] set forth:                                  規定する / Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
 - [ ] set out:                                    出発する / We `set out` on a hike. / `set out` one's ideas
-- [~] settle for:                                 妥協する / But for now, we'll have to `settle for` this.
+- [ ] settle for:                                 妥協する / But for now, we'll have to `settle for` this.
 - [ ] straighten up:                              (物事を正しい位置に戻すように) 整理する
 - [ ] take down:                                  解体する / The woman is `taking down` a canopy.
 - [ ] wrap up:                                    切り上げる / We hope to `wrap up` the negotiations at the next meeting.
+- [ ] invite sb over sth:                         sb を sth に招待する / I `invited` some friends and family `over` for lunch.
 
 ## OTHERS
 

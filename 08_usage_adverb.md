@@ -69,11 +69,19 @@
 - [~] upon/on X/doing:                           X してすぐ `upon arrival at the company headquarters`
 - [ ] in the middle of:                          He fell asleep `in the middle of` the sales meeting.
 - [ ] at the same time:                          It's hard being the writer and an actor `at the same time.`
+- [ ] over the weekend:                          I finished reading a book `over the weekend`.
+- [ ] for the first time in (N):                 I'm going to Hawaii `for the first time in` 1 year.
+- [ ] just before N:                             のちょうど前に /  will get home sometime `just before` 9pm.
+- [ ] just after N:                              のちょうど後に /  will go abroad sometime `just after` Golden Week.
+- [ ] soon after that:                           I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
+- [ ] N after that:                              an hour `after that` / two weeks `after that` / a few years `after that`
 - [ ] [past] quite recently:                       ごく最近
+- [ ] [past] (just) the other day:                 I went there `just the other day`!
 - [ ] [now] from now on:                           I have to cut down on my expenses, `so from now on`, I'm ~~
 - [~] [now] by now:                                You must be hungry `by now`.
 - [ ] [now] to date:                               これまでに
 - [~] [now] as of:                                 時点で / `as of` January 2014
+- [ ] [now] so far:                                `So far` I’m having a blast. The town is wonderful.
 - [~] [future] right away:                         I'll come `right away`.
 - [ ] [future] any day now:                        = very soon
 - [ ] [future] soon:
@@ -91,6 +99,11 @@
 - [ ] [frequency] for the first time`:              Last Saturday, I came here`for the first time.`
 - [ ] [frequency] time and again:                  The ecologist has warned us `time and again.`
 - [ ] [frequency] around the clock:                They are working `around the clock` looking into the cause of the crash.
+- [ ] [long] for (N)s:                             I've been working for the company `for 6 months`.
+- [ ] [long] for half a (day | month | year):      I'll be living here `for half a year`.
+- [ ] [long] the entire week:
+- [ ] [long] tens of minutes:                      数十分
+- [ ] [long] throughout:                           中ずっと / We plan to celebrate our victory `throughout` the night.
 
 ## CONDITION
 
@@ -117,6 +130,8 @@
 - [ ] [assumption] as far as / insofar as S V:     `As far as` I can see, he will fail the exam again this time.
 - [ ] [assumption] given that S V:                 `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
 - [ ] [assumption] with O:                         `With` a little luck, we can still make it.
+- [ ] [assumption] in the long run:                Bob believes that honesty pays off `in the long run.`
+- [ ] [assumption] let's just say:                 The environment that `let's just say` was set up for my ...
 
 ## OTHERS
 
@@ -130,6 +145,7 @@
 - [ ] [emphasis] just:                             Are you tired of traditional learning methods that just don't work?
 - [ ] [emphasis] much to the relief of O:          O が安心したことには、
 - [ ] [emphasis] no more than A:                   = only A
+- [ ] [emphasis] in itself`:                        The revolution`in itself`, bore no fruit, after all.
 - [ ] [how] amid O:                                フォーマルな during, in the middle of
 - [ ] [how] at heart:                              Since Bob is lazy `at heart`, he frequently neglects his duties.
 - [ ] [how] at the expense of:                     犠牲にして / He got promoted `at the expense of` his colleague.
@@ -152,6 +168,7 @@
 - [ ] [how] by heart:                              First of all, learn the formula `by heart.`
 - [ ] [how] on purpose:                            He made a mistake `on purpose.`
 - [ ] [how] purposely:                             He `purposely` didn't say anything.
+- [ ] [how] to go:                                 We have ten minutes `to go`.
 - [ ] [objective] in (the) hope(s) of/that S V:    I didn't phone till four o'clock `in the hope that` you'd be finished.
 - [ ] [objective] in case:                         に備えて / `In case` there's an earthquake, prepare a first-aid kit.
 - [ ] [objective] just in case:                    念の為 / I'll write it down `just in case.`
@@ -159,3 +176,5 @@
 - [ ] [reason] due to O:                           I missed school `due to` Covid-19.
 - [ ] [where] directly accross from:               の真向かいに
 - [ ] [where] in the course of:                    `In the course of` its economic development, Japan has ...
+- [ ] [where] up there:
+- [ ] [where] down there:
