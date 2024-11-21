@@ -80,14 +80,14 @@
 - [ ] [at] 時 `時刻`:                                 The earliest flight departs `at` 8:00 a.m.
 - [~] [at] 状態 `気分や進行中の活動など`:             He was still `at` work when I called him.
 - [~] [at] 感情の原因:                              I was surprised `at` his sudden visit.
-- [ ] [at] 割合 (価格 速度 距離など):               We decided to set the price `at` $10 each.
-- [ ] [at] 方向 (明確):                             I looked `at` the clock just before I left my office.
+- [ ] [at] 割合 `価格 速度 距離など`:                 We decided to set the price `at` $10 each.
+- [ ] [at] 方向 `明確`:                               I looked `at` the clock just before I left my office.
 - [ ] [by] 位置 `のそばに`:                           I lived `by` the sea for a few years.
 - [ ] [by] 時 `までに`:                               I really need to finish the report `by` Monday.
 - [ ] [by] 差で:                                    He won the election `by` a great majority.
 - [ ] [by] 手段 方法:                               We can solve the problem `by` doing this.
 - [~] [by] 基準 `判断の基準や単位`:                   A tree is known `by` its fruits. / Meat is sold `by` the pound at that store.
-- [ ] [for] 方向 (ざっくり):                        This train is bound `for` Tokyo.
+- [ ] [for] 方向 `ざっくり`:                          This train is bound `for` Tokyo.
 - [~] [for] 賛成/支持:                              Are you `for` or `against` his proposal?
 - [ ] [for] 目的:                                   This chair is designed `for` babies.
 - [ ] [for] 理由:                                   Eric was fined `for` a parking violation.
@@ -95,7 +95,20 @@
 - [ ] [for] 範囲:                                   Why don't we take a rest and talk `for` a while?
 - [ ] [from] 起点:                                  How far is your office `from` here?
 - [ ] [from] 差異:                                  He is different `from` what he used to be.
+- [ ] [from] 材料 `原料がその形をとどめていない`:     This paper isn't made `from` trees.
+- [ ] [in] 位置 `比較的広い場所、中`:                 We have two factories `in` Europe. / Show me what you have `in` your hand.
+- [ ] [in] 時 `ある程度幅のある期間`:                 Mike said he would visit us `in` the morning.
+- [ ] [in] 時 `後に (未来)`:                          The chicken will be ready to eat `in` five minutes.
+- [ ] [in] 状態:                                    I fell `in` love with Kathy.
+- [ ] [in] 方法 範囲:                               `In` that sense / You can contact us `in` two ways.
+- [ ] [in] 形状:                                    There were many people waiting `in` line.
+- [ ] [in] 着用:                                    The girl over there `in` a red sweater is Mary.
+- [ ] [of] 分離:                                    May I ask a favor `of` you? / They robbed her `of` her purse.
+- [ ] [of] 部分:                                    Thet's just the tip `of` the iceberg.
+- [ ] [of] 材料 `原料がその形をとどめている`:         Those glasses are all made `of` crystal.
+- [ ] [of] 関連 `think/know/hear 等とともに`:         What do you think `of` the new plan?
 - [ ] [of] の中で:                                  `of all dishes served at the Cafe`, the Chef's Special Pizza is the most popular.
+- [ ] [of] その他 `性質 年齢 所有 主格 目的 同格..`:  a story `of` love / a girl `of` ten / the love `of` God / the love `of` nature / the island `of` Honshu
 
 ## OTHERS
 
