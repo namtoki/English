@@ -87,6 +87,7 @@
 - [ ] [by] 差で:                                    He won the election `by` a great majority.
 - [ ] [by] 手段 方法:                               We can solve the problem `by` doing this.
 - [~] [by] 基準 `判断の基準や単位`:                   A tree is known `by` its fruits. / Meat is sold `by` the pound at that store.
+- [ ] [of] の中で:                                  `of all dishes served at the Cafe`, the Chef's Special Pizza is the most popular.
 
 ## OTHERS
 

@@ -1,15 +1,17 @@
 # USAGE (TAG)
 
-- [~] [and] on top of that:                         その上
-- [ ] [and] and then:                               その上/しかも
-- [~] [and] to begin with:                          まずはじめに / `To begin with,` its theme is obscure.
-- [ ] [and] like/as I was saying:                   Sorry. `As I was saying,` the acting was amazing.
-- [ ] [and] speaking from experience:
-- [ ] [and] simply put:                             `Simply put,` he doesn't like sports.
-- [ ] [and] all things considered:                  `All things considered`, that was a successful event.
-- [ ] [and] as (sb) anticipated:                    `As we anticipated,` the unemployment rate has risen ....
-- [ ] [and] as it is:                               `As it is,` ordinary people cannot afford to purchase such luxuries.
-- [ ] [and] first/Most of all:                      `First of all,` learn the formula by heart.
+- [~] [opinion] on top of that:                     その上
+- [ ] [opinion] and then:                           その上/しかも
+- [~] [opinion] to begin with:                      まずはじめに / `To begin with,` its theme is obscure.
+- [~] [opinion] the way I see it,:                  私の見解では / `The way I see it`, it's too simplistic to say that ...
+- [ ] [opinion] like/as I was saying:               Sorry. `As I was saying,` the acting was amazing.
+- [ ] [opinion] speaking from experience:
+- [ ] [opinion] simply put:                         `Simply put,` he doesn't like sports.
+- [ ] [opinion] all things considered:              `All things considered`, that was a successful event.
+- [ ] [opinion] as (sb) anticipated:                `As we anticipated,` the unemployment rate has risen ....
+- [ ] [opinion] as it is:                           `As it is,` ordinary people cannot afford to purchase such luxuries.
+- [ ] [opinion] first/Most of all:                  `First of all,` learn the formula by heart.
+- [ ] [opinion] now that:                           `Now that` things are better, we should talk about the problem.
 - [~] [stance] this might be just me, but:          自分だけかもしれないけど
 - [~] [stance] if I had to say/guess:               強いて言うなら / `If I had to guess,` I would say that she is single.
 - [~] [stance] if I'm not mistaken:                 間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
@@ -26,6 +28,7 @@
 - [ ] [stance] it goes without saying that:         言うまでもないが / `It goes without saying that` the aging of society is inevitable.
 - [ ] [stance] you know as well as I do that:       ご存じかと思いますが / `You know as well as I do that` this is very important.
 - [ ] [stance] Don't get me wrong, but:             誤解しないでほしいんだけど
+- [ ] [stance] if (O) works for you.:               So I’ll see you at 7`, if it works for you.`
 - [ ] [reason] against this background:             このような背景のもと、(結果)
 - [~] [conclusion] you know what I mean?:           言ってることわかります？
 - [~] [conclusion] if that makes sense.:            言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
