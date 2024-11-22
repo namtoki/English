@@ -7,6 +7,7 @@
 - [ ] [preposition] hope for:                       うまく行くことに対する希望 / many people have `hope for` genuine changes in it
 - [ ] [preposition] hope of:                        する希望 / する見込み / I have no `hope of` getting financial support for it
 - [ ] [preposition] impact on:                      に対する影響
+- [ ] [preposition] approach(es) to:                への取り組み
 
 ## CONCRETE
 
@@ -25,6 +26,14 @@
 - [~] [compaund] ETA (Estimated Time of Arrival):   帰る時間 / I send her a message with my ETA.
 - [~] [compaund] business hours:                    執務時間
 - [~] [compaund] working hours:                     執務時間 / My regular working hours end at 6pm.
+- [ ] [compaund] deep tissue massage                整体
+- [ ] [compaund] vet / veterinarian                 獣医
+- [ ] [compaund] gut feeling                        直観
+- [ ] [compaund] hay fever                          花粉症
+- [ ] [compaund] health insurance                   健康保険
+- [ ] [compaund] social welfare                     福祉
+- [ ] [compaund] third baseline                     三塁側
+- [ ] [compaund] treat oneself                      ご褒美
 - [ ] consensus of opinion:                       意見の一致
 - [ ] nothing out of the ordinary:                普通
 - [ ] pound sign:                                 #

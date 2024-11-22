@@ -1,136 +1,53 @@
-- [x] `at this point`:                          I'm ready to quit `at this point.`
-- [ ] `for a rainy day`:                        I decided to put some aside `for a rainy day.`
-- [ ] `owing to (O)`:                           形式的 / 文頭 / `Owing to` illness, some representatives were absent from ...
-- [ ] `on account of (O)`:                      困難 / Our flight to Vienna was delayed `on account of` a minor accident.
-- [x] `the reason being that`:                  I decided to turn down the job offer. `The reason being that,` I didn’t want to relocate.
-- [x] `for one thing ,,, for another thing`:    I can't put you up. `For one thing,` my dad drops in on me from time to time.
-- [x] `at the thought of (O)`:                  I tremble with fear `at the thought of` an injection.
-- [ ] `so as to (V)`:                           She left home early `so as to` avoid traffic congestion.
-- [ ] `with a view to (V-ing)`:                 A fund was set up `with a view to` preserving our endangered planet.
-- [x] `in response to`:                         The day's agenda was altered `in response to` changes in regulations regarding agricultural imports.
-- [ ] `in accordance with (O)`:
-- [ ] `in an effort to (V)`:                    `In an effort to` encourage diversity, they will debate the complicated problem of minority rights.
-- [ ] `in an attempt to (V)`:                   He dived into the river `in a heroic attempt to` save the child.
-- [ ] `at the sound of`:
-- [ ] for the purpose of (V-ing):
-- [ ] in the event of/that:
-- [ ] with the intention of (V-ing):
-- [x] `in every way`:                           That movie was perfect `in every way`.
-- [ ] `some more`:                              I'll think about it `some more.`
-- [x] `to (a certain | some) extent`:           In any case, the union has to compromise `to a certain extent.`
-- [x] `to the point where (S) (V)`:             I studied English `to the point where` my dream started being in English.
-- [ ] `to (S)'s heart's content`:               The aristocrats abused their privileges `to their hearts' content.`
-- [x] `at all`:                                 Are you interested in politics `at all?`
-- [x] `in a (way | sense)`:                     Yep, `in a way.`
-- [x] `somewhat`:                               Strictly speaking, his view differs `somewhat` from mine.
-- [ ] `as a whole`:                             The train system in Tokyo is much better than for the country `as a whole`.
-- [ ] `on the whole`:                           `On the whole`, it was a great trip.
-- [ ] `and the next thing I knew`:              I felt dizzy, `and the next thing I knew` I was ...
-- [x] `what's more`:                            I met the man by chance. He's gentle and smart. `What's more,` he's single.
-- [ ] `what's worse`:
-- [x] `at the same time`:                       Working from home is great. `but at the same time,` it's king of ...
-- [ ] `let alone`:                              We can't apply cloning techniques to cattle, `let alone` human beings.
-- [ ] `to make matters worse`:                  `To make matters worse,` he isn't even conscious of annoying us.
-- [x] `whereas`:                                He likes learning from textbooks, `whereas` I like learning on the job.
-- [ ] `In which case`:                          Scott might be on vacation, `in which case,` just touch base with Aaron.
-- [x] `in that case`:                           `In that case,` I’ll have a beer.
-- [ ] `all kinds of (O)`:                       I've been eating `all kinds of` things.
-- [ ] `everything about (O)`:                   He knows `everything about` movies.
-- [ ] `some kinds of (O)`:                      amplify the effects of `some kinds of` pollution
-- [x] `many different kinds of`:                There are `many different kinds of` stores.
-- [ ] `(O) out of (O)`:                         We have watched `4 out of 5` seasons.
-- [ ] `each and every one of (O)`:              `each and every one of` these questions
-- [ ] `the rest of (O)`:                        You can have `the rest of` them.
-- [ ] `high-key`:                               I `high-key` cannot stand when my roommate sings in the shower.
-- [ ] `no doubt`:                               His policy will `no doubt` lead to dismal consequences.
-- [ ] `way better`:                             That's just hype. I know `way better` places.
-- [x] `a whole other`:                          That's `a whole other` problem.
-- [ ] `anything but`                            Joe is `anything but` diligent. That's why he flunked math again.
-- [ ] `the least`:                              I have `the least` confidence about this answer.
-- [ ] `no longer`:                              Japanese men `no longer` wear their hair in topknots.
-- [x] `the first thing about`:                  I don't know `the first thing about` writing movies.
-- [x] `like`:                                   There were only `like` thirty people there.
-- [x] `kind of`:                                I'm `kind of` hungry.
-- [ ] `low-key`:                                I’m `low-key` in love with my study partner’s new cologne.
-- [ ] `a bit of`:                               It's `a bit of` a risk in this environment, isn't it?
-- [x] `more or less`:                           Your pronunciation is `more or less` correct.
-- [ ] `pretty much`:                            This is `pretty much` done.
-- [x] `more of`:                                I think he is `more of` an entertainer.
-- [x] `more like (O) (than)`:                   Dogs are `more like` friends `than` pets.
-- [ ] `some kind of (O)`:                       He was born with `some kind of` special talent. / `some kind of` sport
-- [ ] `more often than not`:                    `More often than not`, famine is accompanied by plague.
-- [x] `at times`:                               `At times` I confuse "curve" with "carve."
-- [ ] `here and there`:                         ときおり
-- [ ] `now and then`:                           I must admit we quarrel `every now and then.`
-- [ ] `occasionally`:                           30
-- [x] `from time to time`:                      ときおり
-- [ ] `once in a while`:                        ときおり
-- [ ] `once a blue moon`:                       めったにない
-- [ ] `one-off`:                                The expense incurred this year to construct the building is a `one-off` cost.
-- [ ] `barely`:                                 The minute particles are `barely` visible to the naked eye.
-- [x] `(O) that I think (V)`:                   `A movie that I think is a classic example of a mafia film` is The Godfather.
-- [x] (S) (V ing)                       (S が V すること)       <!-- My dog barking like that is a bit weird. -->
-- [x] the thing that (S) (V)            (S が V するもの)       <!-- The thing that you use to see the stars. -->
-- [x] what I meant                      (言いたかったこと)      <!-- What I meant was, you should do it carefully. -->
-- [x] the most commonly accepted way    (一番自然な表現)        <!-- but the most commonly accepted way is the -ing. -->
-- [x] the very first (S)                (一番最初の S)          <!-- the very first question is the use of ..." -->
-- [x] the only thing                    (唯一良くないもの)      <!-- It was great! The only thing was the food. -->
-- [x] such things                       (そのようなもの)        <!-- C++ has plenty of such things! -->
-- [x] something else                    (格別なもの)            <!-- That dinner was something else! -->
-- [x] the best (S) can do               (ができる最大限のこと)  <!-- That's the best we can say at this point in time. -->
-- [ ] the right thing to do             (正しいこと)            <!-- it's the right thing to do for the environment. -->
-- [ ] the best                          (一番のもの)            <!-- That show is the best! -->
-- [ ] some of the things                (いくつかのもの)        <!-- What are some of the things that you can say when you don't understand something? -->
-- [x] break apart (into)                (まで分解する)          <!-- They even showed a tendency to break apart into A group and B group. -->
-- [x] come across                       (遭遇する)              <!-- I came across this information on the internet. -->
-- [x] come after                        (文章が続く)            <!-- what comes after that has to be -ing like "My hobby is taking pictures." -->
-- [x] come clean                        (正直に述べる confess)  <!-- OK. I'll come clean. -->
-- [x] come close to ... ing             (危うくしそうになる)    <!-- The ambulance went out of control and came close to running over a pedestrian. -->
-- [x] come do                           (do しに来る)           <!-- I wish my girlfriend would come see me. -->
-- [x] come in handy                     (役に立つ)              <!-- This tool comes in handy, so I always keep it close at hand. -->
-- [x] come up with                      (考え出す)              <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
-- [x] cope with                         (折り合いをつける)      <!-- I'm trying to cope with loneliness in these new and unfamiliar surroundings. -->
-- [x] deal with                         (対処する)
-- [x] get to                            (通う 着く)             <!-- We live in Kamioka so Yokohama is easy to get to. = access-->
-- `get back to`:                            I should `get back to` work. / I'll `get back to` sleep now.
-- `get back to`:                            I want to `get back to` how it was before. / I'm trying to `get back to` my college weight.
-- `get the hang of it`:                     but I'm `getting the hang of it`.
-- `take up`:                                Fold them like this. They `take up` less space.
-- [x] go do                             (do しにいく)           <!-- Do you want to go have lunch? -->
-- [x] have a lot in common              (共通点が多い)          <!-- As a rule, twins have a lot in common. -->
-- [x] have little to do with ...        (とほとんど関係がない)
-- [x] have much to do with ...          (と大いに関係がある)
-- [x] have nothing to do with ...       (と関係がない)
-- [x] have something to do with ...     (と何らかの関係がある)  <!-- Innovation has something to do with the ability to notice unusual phenomena. -->
-- [x] see to                            (きちんと確認する)      <!-- I'll see to it. -->
-- [x] take on                           (引き受ける)            <!-- Apparently, Nick wasn't willing to take on the task. -->
-- [x] think much of                     (高く評価する)          <!-- Bob likes cartoons, but I don't think much of them. -->
-- [x] think nothing of                  (なんとも思わない)
-- [x] turn out                          (という結果となる)      <!-- Take it easy. I can assure you that everything will turn out fine. -->
-- [x] turn out                          (と判明する)            <!-- It turned out to be true. -->
-- [x] watch out (for)                   (気を付ける)            <!-- You need to watch out for wildlife that may appear unexpectedly. -->
-- [x] work for  (company)               (で勤めている)          <!-- My current company is the fourth company I've worked for. -->
-- [x] work for 人                       (都合がよい)            <!-- That doesn't work for my wife. -->
-- [x] work in (place/department)        (で働いています)
-- [x] work on                           (改善する 取り組む)     <!-- I need to work on being more punctual. -->
-- [x] work overtime                     (残業する)
-- [x] be for                            (合う)                  <!-- That job wasn't for me. -->
-- [x] be around                         (近くにいる)            <!-- He pretends to be enthusiastic when his boss is around. -->
+- [ ] break apart (into)                (まで分解する)          <!-- They even showed a tendency to break apart into A group and B group. -->
+- [ ] come across                       (遭遇する)              <!-- I came across this information on the internet. -->
+- [ ] come after                        (文章が続く)            <!-- what comes after that has to be -ing like "My hobby is taking pictures." -->
+- [ ] come clean                        (正直に述べる confess)  <!-- OK. I'll come clean. -->
+- [ ] come close to ... ing             (危うくしそうになる)    <!-- The ambulance went out of control and came close to running over a pedestrian. -->
+- [ ] come do                           (do しに来る)           <!-- I wish my girlfriend would come see me. -->
+- [ ] come in handy                     (役に立つ)              <!-- This tool comes in handy, so I always keep it close at hand. -->
+- [ ] come up with                      (考え出す)              <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
+- [ ] cope with                         (折り合いをつける)      <!-- I'm trying to cope with loneliness in these new and unfamiliar surroundings. -->
+- [ ] deal with                         (対処する)
+- [ ] get to                            (通う 着く)             <!-- We live in Kamioka so Yokohama is easy to get to. = access-->
+- [ ] get back to:                            I should `get back to` work. / I'll `get back to` sleep now.
+- [ ] get back to:                            I want to `get back to` how it was before. / I'm trying to `get back to` my college weight.
+- [ ] get the hang of it:                     but I'm `getting the hang of it`.
+- [ ] take up:                                Fold them like this. They `take up` less space.
+- [ ] go do                             (do しにいく)           <!-- Do you want to go have lunch? -->
+- [ ] have a lot in common              (共通点が多い)          <!-- As a rule, twins have a lot in common. -->
+- [ ] have little to do with ...        (とほとんど関係がない)
+- [ ] have much to do with ...          (と大いに関係がある)
+- [ ] have nothing to do with ...       (と関係がない)
+- [ ] have something to do with ...     (と何らかの関係がある)  <!-- Innovation has something to do with the ability to notice unusual phenomena. -->
+- [ ] see to                            (きちんと確認する)      <!-- I'll see to it. -->
+- [ ] take on                           (引き受ける)            <!-- Apparently, Nick wasn't willing to take on the task. -->
+- [ ] think much of                     (高く評価する)          <!-- Bob likes cartoons, but I don't think much of them. -->
+- [ ] think nothing of                  (なんとも思わない)
+- [ ] turn out                          (という結果となる)      <!-- Take it easy. I can assure you that everything will turn out fine. -->
+- [ ] turn out                          (と判明する)            <!-- It turned out to be true. -->
+- [ ] watch out (for)                   (気を付ける)            <!-- You need to watch out for wildlife that may appear unexpectedly. -->
+- [ ] work for  (company)               (で勤めている)          <!-- My current company is the fourth company I've worked for. -->
+- [ ] work for 人                       (都合がよい)            <!-- That doesn't work for my wife. -->
+- [ ] work in (place/department)        (で働いています)
+- [ ] work on                           (改善する 取り組む)     <!-- I need to work on being more punctual. -->
+- [ ] work overtime                     (残業する)
+- [ ] be for                            (合う)                  <!-- That job wasn't for me. -->
+- [ ] be around                         (近くにいる)            <!-- He pretends to be enthusiastic when his boss is around. -->
 - [ ] I'm getting (adj)                 (adj になってきた)      <!-- I'm getting tired of them. -->
 - [ ] downer                            (がっかりなもの)        <!-- The news is a bit of a downer. -->
 - [ ] one of those days                 (最悪の日)
 - [ ] pity                              (残念なこと 哀れみ)
-- [x] family of ...                     (人家族)                <!-- I'm from a family of four. -->
+- [ ] family of ...                     (人家族)                <!-- I'm from a family of four. -->
 - [ ] in one's XXs                      (.. 十代)               <!-- Some of her first students are new in their 20s. -->
 - [ ] seniors                           (年配)                  <!-- The people who disagreed are old fashioned seniors. -->
-- [x] an early bird                     (早起き)
-- [x] a night owl                       (夜更かしするほう)
-- [x] tread                             (歩く 踏む 踏み潰す)    <!-- He trod with a cautious stride on the icy and slippery road. -->
-- [x] tread lightly                     (そっと歩く)            <!-- She seems angry, you should tread lightly -->
-- [x] stride                            (大股で歩く またぐ)     <!-- I can't come through, so I'll stride. -->
-- [x] years of experience               (経験がある)            <!-- I have ... years of experience in the ... field. -->
+- [ ] an early bird                     (早起き)
+- [ ] a night owl                       (夜更かしするほう)
+- [ ] tread                             (歩く 踏む 踏み潰す)    <!-- He trod with a cautious stride on the icy and slippery road. -->
+- [ ] tread lightly                     (そっと歩く)            <!-- She seems angry, you should tread lightly -->
+- [ ] stride                            (大股で歩く またぐ)     <!-- I can't come through, so I'll stride. -->
+- [ ] years of experience               (経験がある)            <!-- I have ... years of experience in the ... field. -->
 - [ ] dismiss                           (解雇する)
-make a living
+mak  a living
 - [ ] accelerate                        (促進する 物理的に)
 - [ ] acceptable, unacceptable          (許される, ない)        <!-- Crossing your legs is unacceptable in business situations in Japan -->
 - [ ] account for                       (占める)                <!-- Wheat accounts for approximately two-thirds of agricultural production in the area. -->
@@ -499,35 +416,82 @@ make a living
 - [ ] work late                         (遅くまで仕事する)      <!-- She works late most of the days. -->
 - [ ] work went late                    (仕事遅くまであた)      <!-- Sorry, work went late. -->
 - [ ] worn out                          (**   疲れている)
-- [x] A stands for B                    (A は B の約である)     <!-- AI stands for artificial intelligence. -->
-- [x] all set                           (準備万端)              <!-- I''re all set. -->
-- [x] call at 場所                      (立ち寄る)              <!-- He sometimes calls at his grandmothers' house. -->
-- [x] call for                          (必要とする)            <!-- Above all, scientific terms call for precise definitions. -->
-- [x] call off                          (中止する)              <!-- cancel よりカジュアル The field trip was called off because of the rain. -->
-- [x] call on 人                        (立ち寄る)              <!-- I'll call on you later. -->
-- [x] catch up (with)                   (追いつく)              <!-- Once you fall behind, It's hard to catch up. -->
-- [x] identify A with B                 (A を B と同じと考える) <!-- For the most part, modernization is identified with westernization. -->
-- [x] in fashion                        (流行っている)          <!-- This type of hairdo is in fashion now among young women. -->
-- [x] keep up/pace with                 (遅れずに付いてく)      <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
-- [x] wind ... up                       (終わりにする)          <!-- "Time to wind things up. Let's take a vote." -->
-- `have come a long way`:                   Yeah. We'`ve really come a long way.`
-- `have a long way`:                        I was, but I still `have a long way` to go.
-- `It's the right time to (V)`:             `It's the right time to` take chances.
-- `be in the right place`:                  Am I `in the right place`?
-- `no room for`:                            I have `no room` in my schedule for a new hobby. / There's `no room` for mistakes.
-- `keep one's chin up`:                     `Keep your chin up.`
-urgent emergency pressing
-- `Just give it time.`:                     Dating is a nightmare. `Just give it time.`
-- `I thought you said (O)`:                 What? `I thought you said` seven o'clock. / `I thought you said` you were a vegetarian.
-- `the only way to`:`               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
-- `You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
-- `scorching hot`:                          It's `scorching hot` today. (焼きつくような)
-- `boiling hot`:                            This room is `boiling hot`. (うだるような)
-- [x] deep tissue massage               (整体)
-- [x] vet / veterinarian                (獣医)
-- [x] gut feeling                       (直観)
-- [x] hay fever                         (花粉症)                <!-- I have a pollen allergy. -->
-- [x] health insurance                  (健康保険)
-- [x] social welfare                    (福祉)
-- [x] third baseline                    (三塁側)
-- [x] treat oneself                     (ご褒美)
+- [ ] A stands for B                    (A は B の約である)     <!-- AI stands for artificial intelligence. -->
+- [ ] all set                           (準備万端)              <!-- I''re all set. -->
+- [ ] call at 場所                      (立ち寄る)              <!-- He sometimes calls at his grandmothers' house. -->
+- [ ] call for                          (必要とする)            <!-- Above all, scientific terms call for precise definitions. -->
+- [ ] call off                          (中止する)              <!-- cancel よりカジュアル The field trip was called off because of the rain. -->
+- [ ] call on 人                        (立ち寄る)              <!-- I'll call on you later. -->
+- [ ] catch up (with)                   (追いつく)              <!-- Once you fall behind, It's hard to catch up. -->
+- [ ] identify A with B                 (A を B と同じと考える) <!-- For the most part, modernization is identified with westernization. -->
+- [ ] in fashion                        (流行っている)          <!-- This type of hairdo is in fashion now among young women. -->
+- [ ] keep up/pace with                 (遅れずに付いてく)      <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
+- [ ] wind ... up                       (終わりにする)          <!-- "Time to wind things up. Let's take a vote." -->
+- [ ] have come a long way:                   Yeah. We'`ve really come a long way.`
+- [ ] have a long way:                        I was, but I still `have a long way` to go.
+- [ ] It's the right time to (V):             `It's the right time to` take chances.
+- [ ] be in the right place:                  Am I `in the right place`?
+- [ ] no room for:                            I have `no room` in my schedule for a new hobby. / There's `no room` for mistakes.
+- [ ] keep one's chin up:                     `Keep your chin up.`
+ur[ ] gent emergency pressing
+- [ ] Just give it time.:                     Dating is a nightmare. `Just give it time.`
+- [ ] I thought you said (O):                 What? `I thought you said` seven o'clock. / `I thought you said` you were a vegetarian.
+- [ ] the only way to:               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
+- [ ] You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
+- [ ] scorching hot:                          It's `scorching hot` today. (焼きつくような)
+- [ ] boiling hot:                            This room is `boiling hot`. (うだるような)
+- [ ] as a whole:                             The train system in Tokyo is much better than for the country `as a whole`.
+- [ ] on the whole:                           `On the whole`, it was a great trip.
+- [ ] and the next thing I knew:              I felt dizzy, `and the next thing I knew` I was ...
+- [ ] what's more:                            I met the man by chance. He's gentle and smart. `What's more,` he's single.
+- [ ] what's worse:
+- [ ] at the same time:                       Working from home is great. `but at the same time,` it's king of ...
+- [ ] let alone:                              We can't apply cloning techniques to cattle, `let alone` human beings.
+- [ ] to make matters worse:                  `To make matters worse,` he isn't even conscious of annoying us.
+- [ ] In which case:                          Scott might be on vacation, `in which case,` just touch base with Aaron.
+- [ ] in that case:                           `In that case,` I’ll have a beer.
+- [ ] all kinds of (O):                       I've been eating `all kinds of` things.
+- [ ] everything about (O):                   He knows `everything about` movies.
+- [ ] some kinds of (O):                      amplify the effects of `some kinds of` pollution
+- [ ] many different kinds of:                There are `many different kinds of` stores.
+- [ ] (O) out of (O):                         We have watched `4 out of 5` seasons.
+- [ ] each and every one of (O):              `each and every one of` these questions
+- [ ] the rest of (O):                        You can have `the rest of` them.
+- [ ] no doubt:                               His policy will `no doubt` lead to dismal consequences.
+- [ ] way better:                             That's just hype. I know `way better` places.
+- [ ] a whole other:                          That's `a whole other` problem.
+- [ ] anything but                            Joe is `anything but` diligent. That's why he flunked math again.
+- [ ] the least:                              I have `the least` confidence about this answer.
+- [ ] no longer:                              Japanese men `no longer` wear their hair in topknots.
+- [ ] the first thing about:                  I don't know `the first thing about` writing movies.
+- [ ] like:                                   There were only `like` thirty people there.
+- [ ] kind of:                                I'm `kind of` hungry.
+- [ ] a bit of:                               It's `a bit of` a risk in this environment, isn't it?
+- [ ] more or less:                           Your pronunciation is `more or less` correct.
+- [ ] pretty much:                            This is `pretty much` done.
+- [ ] more of:                                I think he is `more of` an entertainer.
+- [ ] more like (O) (than):                   Dogs are `more like` friends `than` pets.
+- [ ] some kind of (O):                       He was born with `some kind of` special talent. / `some kind of` sport
+- [ ] more often than not:                    `More often than not`, famine is accompanied by plague.
+- [ ] at times:                               `At times` I confuse "curve" with "carve."
+- [ ] here and there:                         ときおり
+- [ ] now and then:                           I must admit we quarrel `every now and then.`
+- [ ] occasionally:                           30
+- [ ] `from time to time:                      ときおり
+- [ ] once in a while:                        ときおり
+- [ ] once a blue moon:                       めったにない
+- [ ] one-off:                                The expense incurred this year to construct the building is a `one-off` cost.
+- [ ] barely:                                 The minute particles are `barely` visible to the naked eye.
+- [ ] (O) that I think (V):                   `A movie that I think is a classic example of a mafia film` is The Godfather.
+- [ ] (S) (V ing)                       (S が V すること)       <!-- My dog barking like that is a bit weird. -->
+- [ ] the thing that (S) (V)            (S が V するもの)       <!-- The thing that you use to see the stars. -->
+- [ ] what I meant                      (言いたかったこと)      <!-- What I meant was, you should do it carefully. -->
+- [ ] the most commonly accepted way    (一番自然な表現)        <!-- but the most commonly accepted way is the -ing. -->
+- [ ] the very first (S)                (一番最初の S)          <!-- the very first question is the use of ..." -->
+- [ ] the only thing                    (唯一良くないもの)      <!-- It was great! The only thing was the food. -->
+- [ ] such things                       (そのようなもの)        <!-- C++ has plenty of such things! -->
+- [ ] something else                    (格別なもの)            <!-- That dinner was something else! -->
+- [ ] the best (S) can do               (ができる最大限のこと)  <!-- That's the best we can say at this point in time. -->
+- [ ] the right thing to do             (正しいこと)            <!-- it's the right thing to do for the environment. -->
+- [ ] the best                          (一番のもの)            <!-- That show is the best! -->
+- [ ] some of the things                (いくつかのもの)        <!-- What are some of the things that you can say when you don't understand something? -->

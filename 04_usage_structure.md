@@ -101,6 +101,7 @@
 - [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
 - [補足] That's how:                            `That's how` we met.
 - [補足] That's the way S V:                    `That's the way` I like it. / `That's the way` I prefer it.
+- [補足] for one thing ,,, for another thing:   I can't put you up. `For one thing,` my dad drops in on me from time to time.
 - [返事] I'll admit S V:                        `I'll admit`, for a while outside it was a bike,
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 - [比較] A doesn't have as much B as C:         He `doesn't have as much experience as` the other candidates.

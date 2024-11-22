@@ -12,6 +12,7 @@
 - [ ] [opinion] as it is:                           `As it is,` ordinary people cannot afford to purchase such luxuries.
 - [ ] [opinion] first/Most of all:                  `First of all,` learn the formula by heart.
 - [ ] [opinion] now that:                           `Now that` things are better, we should talk about the problem.
+- [ ] [opinion] the reason being that:              というのも / `The reason being that,` I didn’t want to relocate.
 - [~] [stance] this might be just me, but:          自分だけかもしれないけど
 - [~] [stance] the fact is,:                        実を言うと / `The fact is,` I don't have enough money.
 - [~] [stance] off the top of my head:              思いつくままに言うと / `Off the top of my head,` I think it's wrong.
