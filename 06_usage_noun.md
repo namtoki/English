@@ -2,8 +2,19 @@
 
 ## ABSTRACT
 
-- [~] equivalent of:                               They are the functional `equivalent of` gods.
+- [ ] O that I think V:                           `A movie that I think is a classic example of a mafia film` is The Godfather.
+- [ ] S V ing:                                    S が V すること / `My dog barking` like that is a bit weird.
+- [ ] some of the things:                         いくつかのもの / What are `some of the things` that you can say when you don't understand something?
+- [ ] something else:                             格別なもの / That dinner was `something else`!
+- [ ] such things:                                そのようなもの / C++ has plenty of `such things`!
+- [ ] the best S can do                           ができる最大限のこと /That's `the best we can say` at this point in time.
+- [ ] the best:                                   一番のもの / That show is `the best`!
+- [ ] the only thing:                             唯一良くないもの / It was great! `The only thing` was the food.
+- [ ] the right thing to do:                      正しいこと / it's `the right thing to do` for the environment.
+- [ ] the thing that S V:                         S が V するもの / `The thing that you use` to see the stars.
+- [ ] what I meant:                               言いたかったこと / `What I meant` was, you should do it carefully.
 - [ ] what 名詞 S+V:                              Lend me `what books you can`. = Lend me `all the books you can`.
+- [~] equivalent of:                              They are the functional `equivalent of` gods.
 - [ ] [preposition] hope for:                       うまく行くことに対する希望 / many people have `hope for` genuine changes in it
 - [ ] [preposition] hope of:                        する希望 / する見込み / I have no `hope of` getting financial support for it
 - [ ] [preposition] impact on:                      に対する影響

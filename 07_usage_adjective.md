@@ -22,3 +22,6 @@
 - [ ] comparable | comparative:                   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
 - [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
 - [ ] industrial | industrious:                   工業の | 勤勉な
+
+- [ ] the most commonly accepted way              一番自然な表現)        <!-- but the most commonly accepted way is the -ing. -->
+- [ ] the very first (S)                          一番最初の S)          <!-- the very first question is the use of ..." -->
