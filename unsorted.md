@@ -357,4 +357,3 @@ ur[ ] gent emergency pressing
 - [ ] `from time to time:                      ときおり
 - [ ] once in a while:                        ときおり
 - [ ] once a blue moon:                       めったにない
-- [ ] one-off:                                The expense incurred this year to construct the building is a `one-off` cost.
