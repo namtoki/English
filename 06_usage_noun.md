@@ -19,6 +19,7 @@
 - [ ] [preposition] hope of:                        する希望 / する見込み / I have no `hope of` getting financial support for it
 - [ ] [preposition] impact on:                      に対する影響
 - [ ] [preposition] approach(es) to:                への取り組み
+- [ ] one of those days:                          最悪の日
 
 ## CONCRETE
 
@@ -45,6 +46,7 @@
 - [ ] [compaund] social welfare                     福祉
 - [ ] [compaund] third baseline                     三塁側
 - [ ] [compaund] treat oneself                      ご褒美
+- [ ] family of N:                                人家族 / I'm from a family of four.
 - [ ] consensus of opinion:                       意見の一致
 - [ ] nothing out of the ordinary:                普通
 - [ ] pound sign:                                 #

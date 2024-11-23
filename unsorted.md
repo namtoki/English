@@ -1,6 +1,3 @@
-- [ ] I'm getting (adj)                 (adj になってきた)      <!-- I'm getting tired of them. -->
-- [ ] one of those days                 (最悪の日)
-- [ ] family of ...                     (人家族)                <!-- I'm from a family of four. -->
 - [ ] in one's XXs                      (.. 十代)               <!-- Some of her first students are new in their 20s. -->
 - [ ] an early bird                     (早起き)
 - [ ] a night owl                       (夜更かしするほう)

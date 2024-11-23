@@ -35,6 +35,7 @@
 - [ ] hasten to:                                  急いでした / They `hastened to` execute the plan.
 - [ ] take the plunge and:                        思い切ってした /
 - [ ] have yet to:                                まだしていない
+- [ ] be getting A:                               adj になってきた / I'm getting tired of them.
 
 ## PHRASAL VERB
 
