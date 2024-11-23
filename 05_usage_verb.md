@@ -39,28 +39,58 @@
 ## PHRASAL VERB
 
 - [ ] add up:                                     納得がいく / It `doesn't add up` at all.
+- [ ] be around:                                  近くにいる / He pretends to be enthusiastic when his boss `is around`.
+- [ ] be for:                                     合う / That job `wasn't for` me.
 - [ ] be really into:                             ハマる / I`'m really into` ramen.
-- [ ] expand `on/upon`:                             より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
+- [ ] break apart (into):                         まで分解する / They even showed a tendency to `break apart into` A group and B group.
+- [ ] come across:                                遭遇する / I `came across` this information on the internet.
+- [ ] come after:                                 文章が続く / what `comes after` that has to be -ing like "My hobby is taking pictures."
+- [ ] come clean:                                 正直に述べる confess / OK. I'll `come clean`.
+- [ ] come close to ... ing:                      危うくしそうになる / The ambulance went out of control and `came close to running` over a pedestrian.
+- [ ] come do:                                    do しに来る / I wish my girlfriend would `come see` me.
+- [ ] come in handy:                              役に立つ / This tool `comes in handy`, so I always keep it close at hand.
+- [ ] come up with:                               考え出す / He `came up with` an ingenious, sensible solution and immediately put it into practice.
+- [ ] cope with:                                  折り合いをつける / I'm trying to `cope with` loneliness in these new and unfamiliar surroundings.
+- [ ] deal with:                                  対処する
+- [ ] expand on/upon:                             より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
 - [ ] fold up:                                    を折りたたむ
 - [ ] get ahead:                                  成功する / If you want to `get ahead` in life, you must make some sacrifices.
+- [ ] get back to:                                戻す / I want to `get back to` how it was before. / I'm trying to `get back to` my college weight.
+- [ ] get back to:                                戻る / I should `get back to` work. / I'll `get back to` sleep now.
 - [ ] get stuck into:                             張り切って取り掛かる / 勢いよく食べ始める / And then you `get stuck into` the dinner.
+- [ ] get the hang of it:                         コツをつかむ / but I'm `getting the hang of it`.
 - [ ] get to:                                     とりかかる / I'll `get to it` as soon as I can.
+- [ ] get to:                                     通う 着く / We live in Kamioka so Yokohama is easy to `get to`. = access
+- [ ] go do:                                      do しにいく / Do you want to go have lunch?
 - [ ] go into:                                    投入される / Nearly 1000 hours of work `went into` the project.
 - [ ] go into:                                    詳しく述べる / 通じる / 凝りだす / 投入される
 - [ ] hope for:                                   当てにする / We have been `hoping for` a pay raise.
+- [ ] invite sb over sth:                         sb を sth に招待する / I `invited` some friends and family `over` for lunch.
 - [ ] look into:                                  調べる / I want to `look into` the murder case more closer because something is strange.
 - [ ] move forward with:                          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
 - [ ] move forward/up:                            前倒しする / Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
-- [ ] push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
 - [ ] narrow down:                                絞り込む / This question is, how long will it take to `narrow down` the list.
+- [ ] push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
 - [ ] put off V-ing:                              延期する / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
+- [ ] see to:                                     きちんと確認する / I'll `see to` it.
 - [ ] set forth:                                  規定する / Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
 - [ ] set out:                                    出発する / We `set out` on a hike. / `set out` one's ideas
 - [ ] settle for:                                 妥協する / But for now, we'll have to `settle for` this.
 - [ ] straighten up:                              (物事を正しい位置に戻すように) 整理する
 - [ ] take down:                                  解体する / The woman is `taking down` a canopy.
+- [ ] take on:                                    引き受ける / Apparently, Nick wasn't willing to `take on` the task.
+- [ ] take up:                                    場所を取る / Fold them like this. They `take up` less space.
+- [ ] think much of:                              高く評価する / Bob likes cartoons, but I don't `think much of` them.
+- [ ] think nothing of:                           なんとも思わない
+- [ ] turn out:                                   という結果となる / Take it easy. I can assure you that everything will `turn out` fine.
+- [ ] turn out:                                   と判明する / It `turned out` to be true.
+- [ ] watch out (for):                            気を付ける / You need to `watch out for` wildlife that may appear unexpectedly.
+- [ ] work for:                                   で勤めている / My current company is the fourth company I've `worked for`.
+- [ ] work for:                                   都合がよい / That doesn't `work for` my wife.
+- [ ] work in:                                    で働いています
+- [ ] work on:                                    改善する 取り組む / I need to `work on` being more punctual.
+- [ ] work overtime:                              残業する
 - [ ] wrap up:                                    切り上げる / We hope to `wrap up` the negotiations at the next meeting.
-- [ ] invite sb over sth:                         sb を sth に招待する / I `invited` some friends and family `over` for lunch.
 
 ## OTHERS
 
@@ -129,3 +159,8 @@
 - [ ] weigh A versus B:                           S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
 - [ ] would've thought that S V:                  I `would've thought that` he'd hate dancing at a club.
 - [ ] 人 need V | 物 need V-ing:                  する必要がある | される必要がある
+- [ ] have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.
+- [ ] have little to do with:                     とほとんど関係がない
+- [ ] have much to do with:                       と大いに関係がある
+- [ ] have nothing to do with:                    と関係がない
+- [ ] have something to do with:                  と何らかの関係がある /  Innovation `has something to do with` the ability to notice unusual phenomena.
