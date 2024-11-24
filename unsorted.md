@@ -1,309 +1,246 @@
-- [ ] in one's XXs                      (.. 十代)               <!-- Some of her first students are new in their 20s. -->
-- [ ] an early bird                     (早起き)
-- [ ] a night owl                       (夜更かしするほう)
-- [ ] tread lightly                     (そっと歩く)            <!-- She seems angry, you should tread lightly -->
-- [ ] years of experience               (経験がある)            <!-- I have ... years of experience in the ... field. -->
-mak  a living
-- [ ] acceptable, unacceptable          (許される, ない)        <!-- Crossing your legs is unacceptable in business situations in Japan -->
-- [ ] account for                       (占める)                <!-- Wheat accounts for approximately two-thirds of agricultural production in the area. -->
-- [ ] act fanny                         (ふざける)              <!-- Why do you always act funny like that? -->
-- [ ] all done                          (全て終わっている)      <!-- It's all done. -->
-- [ ] ask ... out                       (誘う)                  <!-- He finally asked Alice out! -->
-- [ ] ask for                           (請求する)              <!-- The credit card company asked for the payment. / You are asking for it. -->
-- [ ] based in                          (外資系)                <!-- My company is based in U.S. but 80% of the employees are Japanese. -->
-- [ ] be accompanied by                 (が付随して起こる)      <!-- More often than not. famine is accompanied by plague. -->
-- [ ] be anxious to                     (切望する 悪 → 中)      <!-- The slaves were anxious to alter their destinies. -->
-- [ ] be at his disposal                (思い通りにできる)      <!-- He claimed that the enormous property was at his disposal. -->
-- [ ] be aware of                       (気づいている)
-- [ ] be bathed in                      (まみれになる)
-- [ ] be bathed in a golden light       (日光を浴びる)
-- [ ] be bathed in blood                (血まみれ)
-- [ ] be bathed in sweat                (汗だく)
-- [ ] be blessed with                   (恵まれる)              <!-- He is lucky to be blessed with so much talent. -->
-- [ ] be caught up in                   (巻き込まれる)          <!-- I got caught up in the rain on the way home from the station. -->
-- [ ] be composed of                    (で構成されている)      <!-- This substance is mostly composed of hydrogen and oxygen. -->
-- [ ] be conscious of                   (自覚している)          <!-- To make matters worse, he isn't even conscious of annoying us. -->
-- [ ] be eager to                       (切望する 中 → 良)
-- [ ] be fond of                        (が大好きである)
-- [ ] be getting at                     (言おうとする)          <!-- I couldn't make out what you were getting at. / What's the point you're getting at? -->
-- [ ] be looking forward to             (楽しみにしている)      <!-- I'm looking forward to your souvenirs. -->
-- [ ] be made up of                     (で構成されている)      <!-- Our workgroup is made up of people from lots of divisions in our company.  -->
-- [ ] be obsessed                       (が頭から離れない)      <!-- He's obsessed with his new baby. -->
-- [ ] be offended by/with               (気分を害する)          <!-- She was extremely offended by the things you said. -->
-- [ ] be on the brink of ...            (寸前である 重大)       <!-- We are on the brink of war. -->
-- [ ] be on the verge of ...            (寸前である 瀕している) <!-- Many fragile species are on the verge of extinction. -->
-- [ ] be soaked                         (びしょ濡れ)            <!-- I'm soaked with sweat. -->
-- [ ] be under way                      (進行中)                <!-- The negotiations are under way. -->
-- [ ] beside the point                  (的外れの)
-- [ ] best-in-class                     (最高クラスの)
-- [ ] black and white                   (明らかな)              <!-- Things in life are never black and white. -->
-- [ ] bloodshot eyes                    (充血した目)            <!-- I've got bloodshot eyes. -->
-- [ ] blow / blew / blown               (吹き飛ばす)            <!-- The kid blew his nose many times. -->
-- [ ] break                             (中断する)              <!-- Let's break for lunch. -->
-- [ ] break                             (壊れる)                <!-- The machine breaks. / Someone breaks the machine. -->
-- [ ] break                             (悪 打ち明ける)         <!-- I'll break the news to her. -->
-- [ ] break                             (破る)                  <!-- He broke the traffic rules. -->
-- [ ] break                             (骨折する)              <!-- I broke my arms. -->
-- [ ] break away                        (独立する)              <!-- In the 1800s the South tried to break away from the Union. -->
-- [ ] break away                        (逃げる)                <!-- The calf is breaking away from the cowboy. -->
-- [ ] break down                        (動力機械が壊れる)      <!-- The washing machine has broken down again. -->
-- [ ] break in                          (慣らす)                <!-- I have to break in my new shoes. -->
-- [ ] break in(to)                      (会話に入る)            <!-- Can I break in here? -->
-- [ ] break in(to)                      (侵入する)              <!-- A burglar broke into my house over the weekend. -->
-- [ ] break into                        (急にしだす)            <!-- He broke into tears. She broke into laugher. / Sarah saw pandas and broke into a run. -->
-- [ ] break out                         (起こる)                <!-- The fire broke out in the middle of the night. -->
-- [ ] break through                     (突破する)              <!-- The player broke through the defensive line. / The sun began to break through. -->
-- [ ] bring about                       (もたらす)              <!-- Medical breakthroughs have brought about great benefits for humanity as a whole. -->
-- [ ] bring around                      (連れていく)            <!-- We finally brought him around to our point of view . -->
-- [ ] bring back memories               (記憶がよみがえる)      <!-- Those pictures bring back happy memories of my time in the US. -->
-- [ ] bring on                          (引き起こす)            <!-- Fatigue often brings on headaches. -->
-- [ ] bring through                     (難局を切抜させる)      <!-- Her angelic smile brought me through my mental distress . -->
-- [ ] bring up                          (育てる)                <!-- His nephew was brought up to be modest and considerate. -->
-- [ ] bring up                          (話に出す)              <!-- The comment you made is really spot-on. I'm glad you brought that up. -->
-- [ ] burn the midnight oil             (徹夜する)
-- [ ] call on 人 to do                  (するように求める)      <!-- The committee called on all nations to work side by side to curb air pollution. -->
-- [ ] care for                          (好む)                  <!-- 疑か否で使う Would you care for tea? / I don't care for meat. -->
-- [ ] catch                             (つかむ, になる)        <!-- I caught a fish. / I caught a cold. -->
-- [ ] catch                             (キャッチボール)        <!-- Let's play catch. -->
-- [ ] catch                             (理解する)              <!-- I couldn't catch that. -->
-- [ ] catch                             (間に合う)              <!-- I have to catch the last train. -->
-- [ ] catch on                          (意味を理解する)        <!-- You catch on fast. -->
-- [ ] catch on                          (流行る)                <!-- It's catching on form coast to coast. -->
-- [ ] catch out                         (見破る、ボロ出さる)    <!-- My husband was sending messages to another woman but I caught him out. -->
-- [ ] catch up (with)                   (親交を深める)          <!-- I caught up with some old friends yesterday. -->
-- [ ] catch up (with)                   (追いつく)              <!-- He is a really fast runner. I couldn’t catch up. -->
-- [ ] catch up on                       (遅れを取り戻す)        <!-- I have to catch up on my work. -->
-- [ ] characteristic of                 (の特徴である)          <!-- A humid climate is characteristic of the peninsula. -->
-- [ ] check with                        (相談する)              <!-- I need to check with my boss before I can make a decision about when to take my summer vacation. -->
-- [ ] choose ... over ...               (よりも)                <!-- I would choose Interstate Construction over New Look Construction. -->
-- [ ] clear-cut                         (明らかな)              <!-- (usually used for instructions) Patrick's instructions were very clear-cut. -->
-- [ ] clearing up                       (晴れてきた)            <!-- It's clearing up. -->
-- [ ] come along                        (うまくいく)            <!-- It's coming along. -->
-- [ ] come along                        (一緒に来る)            <!-- I would like you to come along. -->
-- [ ] come by                           (努力で手に入れる)      <!-- Cheap airline tickets are usually hard to come by during Christmas season. -->
-- [ ] come forward                      (名乗り出る)            <!-- The police are appealing to anyone with information about the crime to come forward. -->
-- [ ] come into being/existence         (be born originally)    <!-- With restrictions removed, thousands of new enterprises have come into being. -->
-- [ ] come out                          (出版される)            <!-- An up-to-date edition of the encyclopedia will come out next month. -->
-- [ ] come to                           (合計なる)              <!-- I was amazed to see that our utility bills came to so much! -->
-- [ ] come to                           (意識回復)              <!-- He fainted with hunger and farigue, but came to after a while. -->
-- [ ] come/get home (from work/school)  (帰宅する)              <!-- Dave goes home at 8 p.m., so he comes home at 9 p.m. -->
-- [ ] confound                          (困惑させる old)        <!-- That problem confounded me. -->
-- [ ] consist of                        (で構成されている)      <!-- Muscle tissue consists of a vast number of cells. -->
-- [ ] count on                          (頼る)                  <!-- I'm counting on you. -->
-- [ ] crystal clear                     (明らかな)              <!-- I could make it crystal clear that we have to be at the restaurant for 7pm... -->
-- [ ] cut corners                       (手を抜く)              <!-- You shouldn't cut corners. -->
-- [ ] cut down on                       (減らす)                <!-- I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis. -->
-- [ ] cut in (on)                       (割り込む)              <!-- Bob cut in on our conversation, saying, "I'm against it!" But everybody ignored him. -->
-- [ ] cut it out                        (やめて！)              <!-- Cut it out! -->
-- [ ] cut off                           (機械の電源を切る)      <!-- The line was cut off. -->
-- [ ] cut off                           (遮る)                  <!-- The chairman cut me off, saying, "brabrabra." -->
-- [ ] cut to the chase                  (要点を言う)            <!-- Since we've only got five minutes, I'm going to cut to the chase. -->
-- [ ] die out                           (廃れた)                <!-- The custom of tipping might die out because of digital payments. -->
-- [ ] dig up                            (掘り出す)              <!-- Grandpa and I dug up some potatoes. -->
-- [ ] disclose                          (伝える)                <!-- I'm sorry but I can't disclose all the details right now. -->
+- [ ] call on 人 to do                  (するように求める)      The committee called on all nations to work side by side to curb air pollution.
+- [ ] care for                          (好む)                  疑か否で使う Would you care for tea? / I don't care for meat.
+- [ ] catch                             (つかむ, になる)        I caught a fish. / I caught a cold.
+- [ ] catch                             (キャッチボール)        Let's play catch.
+- [ ] catch                             (理解する)              I couldn't catch that.
+- [ ] catch                             (間に合う)              I have to catch the last train.
+- [ ] catch on                          (意味を理解する)        You catch on fast.
+- [ ] catch on                          (流行る)                It's catching on form coast to coast.
+- [ ] catch out                         (見破る、ボロ出さる)    My husband was sending messages to another woman but I caught him out.
+- [ ] catch up (with)                   (親交を深める)          I caught up with some old friends yesterday.
+- [ ] catch up (with)                   (追いつく)              He is a really fast runner. I couldn’t catch up.
+- [ ] catch up on                       (遅れを取り戻す)        I have to catch up on my work.
+- [ ] characteristic of                 (の特徴である)          A humid climate is characteristic of the peninsula.
+- [ ] check with                        (相談する)              I need to check with my boss before I can make a decision about when to take my summer vacation.
+- [ ] choose ... over ...               (よりも)                I would choose Interstate Construction over New Look Construction.
+- [ ] clear-cut                         (明らかな)              (usually used for instructions) Patrick's instructions were very clear-cut.
+- [ ] clearing up                       (晴れてきた)            It's clearing up.
+- [ ] come along                        (うまくいく)            It's coming along.
+- [ ] come along                        (一緒に来る)            I would like you to come along.
+- [ ] come by                           (努力で手に入れる)      Cheap airline tickets are usually hard to come by during Christmas season.
+- [ ] come forward                      (名乗り出る)            The police are appealing to anyone with information about the crime to come forward.
+- [ ] come into being/existence         (be born originally)    With restrictions removed, thousands of new enterprises have come into being.
+- [ ] come out                          (出版される)            An up-to-date edition of the encyclopedia will come out next month.
+- [ ] come to                           (合計なる)              I was amazed to see that our utility bills came to so much!
+- [ ] come to                           (意識回復)              He fainted with hunger and farigue, but came to after a while.
+- [ ] come/get home (from work/school)  (帰宅する)              Dave goes home at 8 p.m., so he comes home at 9 p.m.
+- [ ] confound                          (困惑させる old)        That problem confounded me.
+- [ ] consist of                        (で構成されている)      Muscle tissue consists of a vast number of cells.
+- [ ] count on                          (頼る)                  I'm counting on you.
+- [ ] crystal clear                     (明らかな)              I could make it crystal clear that we have to be at the restaurant for 7pm...
+- [ ] cut corners                       (手を抜く)              You shouldn't cut corners.
+- [ ] cut down on                       (減らす)                I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis.
+- [ ] cut in (on)                       (割り込む)              Bob cut in on our conversation, saying, "I'm against it!" But everybody ignored him.
+- [ ] cut it out                        (やめて！)              Cut it out!
+- [ ] cut off                           (機械の電源を切る)      The line was cut off.
+- [ ] cut off                           (遮る)                  The chairman cut me off, saying, "brabrabra."
+- [ ] cut to the chase                  (要点を言う)            Since we've only got five minutes, I'm going to cut to the chase.
+- [ ] die out                           (廃れた)                The custom of tipping might die out because of digital payments.
+- [ ] dig up                            (掘り出す)              Grandpa and I dug up some potatoes.
+- [ ] disclose                          (伝える)                I'm sorry but I can't disclose all the details right now.
 - [ ] distingish A from B               (見分ける)
-- [ ] do (adj) damage to                (な損害を与える)        <!-- The prolonged drought did severe damage to the crop. -->
-- [ ] do (noun)                         (する)                  <!-- He does the dishes. / I usually do the garden on weekends. / I have to do my hair. -->
-- [ ] do away with                      (廃止する 処分する)     <!-- Japan should do away with all its nuclear power stations. -->
-- [ ] do for                            (役立つ 間に合う)       <!-- I don't think this embankment will do for a big tsunami. -->
-- [ ] do in                             (殺す 超疲れさせる)     <!-- Many innocent people were done in by the terrorist group. -->
-- [ ] do well                           (うまくいく)            <!-- He is doing well at school. / My company is doing very well. -->
-- [ ] drive ... (nuts/insane/mad)       (イライラさせる)        <!-- Can you stop doing that? it drives me nuts. -->
-- [ ] drive ... crazy                   (イライラさせる)        <!-- > annoyed, irritated | I don't know why we're still friends. You often drive me crazy. -->
-- [ ] drive ... crazy                   (夢中にさせる)          <!-- Tom drives me crazy. -->
-- [ ] drive ... up the wall             (イライラさせる)        <!-- All this noise is driving me up the wall! -->
-- [ ] drop A a line                     (A にちょい連絡する)    <!-- Please drop me a line. -->
-- [ ] eager for                         (熱望的な)              <!-- He's eager for his own business. -->
-- [ ] easy on my stomach                (おなかにやさしい)      <!-- Udon noodles are easy on my stomach. -->
-- [ ] eat out                           (外食する)              <!-- Where is your favorite place to eat out? -->
-- [ ] elevate                           (増やす)                <!-- If you want to elevate your performance, you're gonna have to practice. -->
-- [ ] encompass                         (含む)                  <!-- Her new job encompasses a broad range of tasks. -->
-- [ ] engrave                           (掘る)                  <!-- We will buy personalized chopsticks with his name engraved on them. -->
-- [ ] enthusiastic about                (夢中な)                <!-- He's enthusiastic about his own business. -->
+- [ ] do (adj) damage to                (な損害を与える)        The prolonged drought did severe damage to the crop.
+- [ ] do (noun)                         (する)                  He does the dishes. / I usually do the garden on weekends. / I have to do my hair.
+- [ ] do away with                      (廃止する 処分する)     Japan should do away with all its nuclear power stations.
+- [ ] do for                            (役立つ 間に合う)       I don't think this embankment will do for a big tsunami.
+- [ ] do in                             (殺す 超疲れさせる)     Many innocent people were done in by the terrorist group.
+- [ ] do well                           (うまくいく)            He is doing well at school. / My company is doing very well.
+- [ ] drive ... (nuts/insane/mad)       (イライラさせる)        Can you stop doing that? it drives me nuts.
+- [ ] drive ... crazy                   (イライラさせる)        > annoyed, irritated | I don't know why we're still friends. You often drive me crazy.
+- [ ] drive ... crazy                   (夢中にさせる)          Tom drives me crazy.
+- [ ] drive ... up the wall             (イライラさせる)        All this noise is driving me up the wall!
+- [ ] drop A a line                     (A にちょい連絡する)    Please drop me a line.
+- [ ] eager for                         (熱望的な)              He's eager for his own business.
+- [ ] easy on my stomach                (おなかにやさしい)      Udon noodles are easy on my stomach.
+- [ ] eat out                           (外食する)              Where is your favorite place to eat out?
+- [ ] elevate                           (増やす)                If you want to elevate your performance, you're gonna have to practice.
+- [ ] encompass                         (含む)                  Her new job encompasses a broad range of tasks.
+- [ ] engrave                           (掘る)                  We will buy personalized chopsticks with his name engraved on them.
+- [ ] enthusiastic about                (夢中な)                He's enthusiastic about his own business.
 - [ ] expedite                          (促進する 効率的にも)
-- [ ] fall behind                       (遅れをとる)            <!-- Once you fall behind, It's hard to catch up. -->
-- [ ] fashionable                       (流行っている)          <!-- She always tries to be fashionable. -->
-- [ ] feel free to                      (遠慮なくして)          <!-- Please feel free to contact me. -->
-- [ ] fertile                           (肥沃な)                <!-- Fertile soil is indispensable for a good harvest. -->
-- [ ] find out                          (発見する)              <!-- I just found out that I have a big meeting tomorrow and I need to prepare. -->
-- [ ] find out                          (見破る)                <!-- I think what she’s done will be found out sometime soon. -->
+- [ ] fall behind                       (遅れをとる)            Once you fall behind, It's hard to catch up.
+- [ ] fashionable                       (流行っている)          She always tries to be fashionable.
+- [ ] feel free to                      (遠慮なくして)          Please feel free to contact me.
+- [ ] fertile                           (肥沃な)                Fertile soil is indispensable for a good harvest.
+- [ ] find out                          (発見する)              I just found out that I have a big meeting tomorrow and I need to prepare.
+- [ ] find out                          (見破る)                I think what she’s done will be found out sometime soon.
 - [ ] finish work at                    (時に仕事を終える)
 - [ ] first baseline                    (一塁側)
 - [ ] foreign owned                     (外資系)
-- [ ] get                               (こぼす)                <!-- Just don't get sauce on your nice shirt. -->
-- [ ] get along                         (うまくやる)            <!-- My wife did not get along with the principal of her school. -->
-- [ ] get down to                       (取り掛かる)            <!-- So much for the small talk. Let's get down to business -->
-- [ ] get even                          (仕返する 同点する)     <!-- I’ll get even with him one day. -->
-- [ ] get in                            (小型 乗る)             <!-- The man got in the car and drove off. -->
-- [ ] get in touch with                 (連絡を取る)            <!-- In case of an emergency, get in touch with my agent right away. -->
-- [ ] get into                          (ハマる)                <!-- I wanna ask you how you got into whisky. -->
-- [ ] get into                          (習慣化する)            <!-- I've been thinking about getting into yoga. -->
-- [ ] get off                           (大型 降りる)           <!-- I got off the elevator at the wrong floor. -->
-- [ ] get on                            (大型 乗る)             <!-- I got on the train at Shinjuku and got off at Shibuya. -->
-- [ ] get one's head around ...         (理解する)              <!-- I'm going to need a few minutes to get my head around the diagram you just showed me. -->
-- [ ] get one's hopes up                (期待する)              <!-- Don't get your hopes up because you might not actually get promoted. -->
-- [ ] get out                           (小型 降りる)           <!-- I got out of the taxi at Tokyo station. -->
-- [ ] get ready                         (準備する)              <!-- It takes him about an hour to get ready for work. -->
-- [ ] get rid of                        (処分する)              <!-- I'm getting rid of this leather jacket because it's worn out at the elbows. -->
-- [ ] get the ball rolling              (始める)                <!-- I'm gonna get the ball rolling on our wedding planning by booking the venue tomorrow. -->
-- [ ] get to                            (イライラさせる)        <!-- The construction in front of my house is so noisy. It gets to me. -->
-- [ ] get to                            (気に障る)              <!-- Don’t let it get to you. It’s really nothing. -->
-- [ ] get up                            (起きる)                <!-- He gets up at 7 AM. -->
-- [ ] get wet                           (濡れる)                <!-- I got wet on my way to work. -->
-- [ ] get 人 to do                      (人にしてもらう)        <!-- I got one of my classmates to help my sister with her homework. -->
-- [ ] get 人 物                         (人に物を提供する)      <!-- If I get you something else, I'm afraid you'll have to pay for it. -->
-- [ ] give birth to                     (出産する)              <!-- While he was away on business, his wife gave birth to a baby boy. -->
-- [ ] give off                          (発する)                <!-- A woman passed by me giving off a subtle scent of perfume. -->
-- [ ] give way                          (崩れ落ちる)            <!-- Watch out! The ceiling is giving way! -->
-- [ ] go along with                     (賛成する 支持する)     <!-- No one backed me up at first, but eventually I talked everyone into going along with my plan, -->
-- [ ] go home                           (家に向かって出発)      <!-- Dave goes home at 8 p.m., so he comes home at 9 p.m. -->
-- [ ] go over                           (おさらい)              <!-- We should get started. First, I'd like to go over the most recent marketing data. -->
-- [ ] go over                           (検討する)              <!-- We will go over your application and let you know of the results next week. -->
-- [ ] go over                           (説明する)              <!-- Could you go over it again? -->
-- [ ] go to work                        (通う)                  <!-- He goes to work by walk. -->
-- [ ] go with                           (似合う 色合い)         <!-- The blue tie goes with you. -->
-- [ ] go wrong with                     (機械調子が悪くなる)    <!-- Something's gone wrong with this microscope. -->
+- [ ] get                               (こぼす)                Just don't get sauce on your nice shirt.
+- [ ] get along                         (うまくやる)            My wife did not get along with the principal of her school.
+- [ ] get down to                       (取り掛かる)            So much for the small talk. Let's get down to business
+- [ ] get even                          (仕返する 同点する)     I’ll get even with him one day.
+- [ ] get in                            (小型 乗る)             The man got in the car and drove off.
+- [ ] get in touch with                 (連絡を取る)            In case of an emergency, get in touch with my agent right away.
+- [ ] get into                          (ハマる)                I wanna ask you how you got into whisky.
+- [ ] get into                          (習慣化する)            I've been thinking about getting into yoga.
+- [ ] get off                           (大型 降りる)           I got off the elevator at the wrong floor.
+- [ ] get on                            (大型 乗る)             I got on the train at Shinjuku and got off at Shibuya.
+- [ ] get one's head around ...         (理解する)              I'm going to need a few minutes to get my head around the diagram you just showed me.
+- [ ] get one's hopes up                (期待する)              Don't get your hopes up because you might not actually get promoted.
+- [ ] get out                           (小型 降りる)           I got out of the taxi at Tokyo station.
+- [ ] get ready                         (準備する)              It takes him about an hour to get ready for work.
+- [ ] get rid of                        (処分する)              I'm getting rid of this leather jacket because it's worn out at the elbows.
+- [ ] get the ball rolling              (始める)                I'm gonna get the ball rolling on our wedding planning by booking the venue tomorrow.
+- [ ] get to                            (イライラさせる)        The construction in front of my house is so noisy. It gets to me.
+- [ ] get to                            (気に障る)              Don’t let it get to you. It’s really nothing.
+- [ ] get up                            (起きる)                He gets up at 7 AM.
+- [ ] get wet                           (濡れる)                I got wet on my way to work.
+- [ ] get 人 to do                      (人にしてもらう)        I got one of my classmates to help my sister with her homework.
+- [ ] get 人 物                         (人に物を提供する)      If I get you something else, I'm afraid you'll have to pay for it.
+- [ ] give birth to                     (出産する)              While he was away on business, his wife gave birth to a baby boy.
+- [ ] give off                          (発する)                A woman passed by me giving off a subtle scent of perfume.
+- [ ] give way                          (崩れ落ちる)            Watch out! The ceiling is giving way!
+- [ ] go along with                     (賛成する 支持する)     No one backed me up at first, but eventually I talked everyone into going along with my plan,
+- [ ] go home                           (家に向かって出発)      Dave goes home at 8 p.m., so he comes home at 9 p.m.
+- [ ] go over                           (おさらい)              We should get started. First, I'd like to go over the most recent marketing data.
+- [ ] go over                           (検討する)              We will go over your application and let you know of the results next week.
+- [ ] go over                           (説明する)              Could you go over it again?
+- [ ] go to work                        (通う)                  He goes to work by walk.
+- [ ] go with                           (似合う 色合い)         The blue tie goes with you.
+- [ ] go wrong with                     (機械調子が悪くなる)    Something's gone wrong with this microscope.
 - [ ] go/be on a diet                   (ダイエットする/中)
-- [ ] got rid of                        (捨てる)                <!-- I got rid of some equipment. -->
-- [ ] guess ... right                   (言い当てる)            <!-- I guessed the age right. / I couldn't guessed those right. -->
-- [ ] hang on                           (待つ)                  <!-- Hang on a sec. -->
-- [ ] hang up                           (電話を切る)            <!-- Don't hang up! -->
-- [ ] have a habit of doing             (癖がある)              <!-- He has a habit of biting his nails. -->
-- [ ] have fun                          (楽しむ)                <!-- We had fun at the zoo seeing the lions and tigers. -->
-- [ ] have one's hands full             (手が離せない)          <!-- I have my hands full right now. -->
-- [ ] have 人 do                        (人にしてもらう)        <!-- I'll have the nurse bandage your leg for you. -->
-- [ ] have 物 done                      (物をしてもらう)        <!-- I need to have it repaird. / I had my hair cut. -->
-- [ ] hide / hid / hid                  (隠れる 隠す)           <!-- She hid behind a curtain. -->
-- [ ] hit it out of the park            (達成する)              <!-- We’ve hit it out of the park! -->
-- [ ] hold ... back                     (真実・感情を隠す)      <!-- It occured to me that he was holding something back, because he wouldn't look me in the eye. -->
-- [ ] hold ... up                       (時間を取らせる)        <!-- Sorry for holding you up from going home. -->
-- [ ] hold ... up                       (遅らせる)              <!-- The train was held up because of the railroad accident. -->
-- [ ] in a bad mood                     (機嫌が悪い)            <!-- I won't share my opinion if my wife seems as if she is in a bad mood. -->
+- [ ] got rid of                        (捨てる)                I got rid of some equipment.
+- [ ] guess ... right                   (言い当てる)            I guessed the age right. / I couldn't guessed those right.
+- [ ] hang on                           (待つ)                  Hang on a sec.
+- [ ] hang up                           (電話を切る)            Don't hang up!
+- [ ] have a habit of doing             (癖がある)              He has a habit of biting his nails.
+- [ ] have fun                          (楽しむ)                We had fun at the zoo seeing the lions and tigers.
+- [ ] have one's hands full             (手が離せない)          I have my hands full right now.
+- [ ] have 人 do                        (人にしてもらう)        I'll have the nurse bandage your leg for you.
+- [ ] have 物 done                      (物をしてもらう)        I need to have it repaird. / I had my hair cut.
+- [ ] hide / hid / hid                  (隠れる 隠す)           She hid behind a curtain.
+- [ ] hit it out of the park            (達成する)              We’ve hit it out of the park!
+- [ ] hold ... back                     (真実・感情を隠す)      It occured to me that he was holding something back, because he wouldn't look me in the eye.
+- [ ] hold ... up                       (時間を取らせる)        Sorry for holding you up from going home.
+- [ ] hold ... up                       (遅らせる)              The train was held up because of the railroad accident.
+- [ ] in a bad mood                     (機嫌が悪い)            I won't share my opinion if my wife seems as if she is in a bad mood.
 - [ ] interesting                       (興味深い)
-- [ ] intrigue                          (惹きつける)            <!-- I was very intrigued by the range of species found on that island. -->
+- [ ] intrigue                          (惹きつける)            I was very intrigued by the range of species found on that island.
 - [ ] intriguing                        (超興味深い)
-- [ ] just right for                    (ちょうどいい)          <!-- India was just right for us. -->
-- [ ] keen on                           (乗り気な)              <!-- He's keen on his own business. -->
-- [ ] keep an eye on                    (目を離さない)          <!-- Can you keep an eye on my kids for a while? -->
-- [ ] keep on doing                     (し続ける)              <!-- I can't help laughing at him because he keeps on making stupid mistakes. -->
-- [ ] kick out                          (追い出す)              <!-- He was caught having an affair. So, I kicked him out of my house. -->
+- [ ] just right for                    (ちょうどいい)          India was just right for us.
+- [ ] keen on                           (乗り気な)              He's keen on his own business.
+- [ ] keep an eye on                    (目を離さない)          Can you keep an eye on my kids for a while?
+- [ ] keep on doing                     (し続ける)              I can't help laughing at him because he keeps on making stupid mistakes.
+- [ ] kick out                          (追い出す)              He was caught having an affair. So, I kicked him out of my house.
 - [ ] know A from B                     (見分ける)
-- [ ] lean toward                       (考えが傾く)            <!-- I haven't decided yet, but I'm leaning toward B. -->
-- [ ] leave out                         (省略する)              <!-- They left out the scene where he jumps on the car in the TV version of that movie. -->
-- [ ] let go of                         (手を離す)              <!-- Let go of your negative outlook on life. -->
-- [ ] line up                           (整列する)              <!-- All visitors to the US should line up at booths one through 15. -->
-- [ ] live up to                        (応える)                <!-- We expected him to defeat his opponent, but he failed to live up to our expectation. -->
-- [ ] live up to                        (期待に応える)          <!-- He promised ... , but he hasn't lived up to that promise. -->
-- [ ] look ... over                     (ざっと目を通す)        <!-- I want you to look this over before I turn it in. -->
-- [ ] make (full) use of                (活用する)              <!-- make full use of IT -->
-- [ ] make (much|little|nothing) of     (な評価をする)          <!-- For years the press overlooked the problem. But now, if anything, they are making too much of it. -->
-- [ ] make a (decision | choice)        (決心する)              <!-- I got job offers from two companies. I have to make a decision about which offer to accept. -->
-- [ ] make believe                      (ふりをする)            <!-- When the kids made believe they were dinosaurs, they were scolded by their mother. -->
-- [ ] make it                           (やり遂げる)            <!-- We made it! / You can make it! -->
-- [ ] make it                           (都合がつく)            <!-- Can you make it to the meeting on Friday? Sorry, I can't make it because ... -->
-- [ ] make it                           (間に合う)              <!-- You can still make it. -->
+- [ ] lean toward                       (考えが傾く)            I haven't decided yet, but I'm leaning toward B.
+- [ ] leave out                         (省略する)              They left out the scene where he jumps on the car in the TV version of that movie.
+- [ ] let go of                         (手を離す)              Let go of your negative outlook on life.
+- [ ] line up                           (整列する)              All visitors to the US should line up at booths one through 15.
+- [ ] live up to                        (応える)                We expected him to defeat his opponent, but he failed to live up to our expectation.
+- [ ] live up to                        (期待に応える)          He promised ... , but he hasn't lived up to that promise.
+- [ ] look ... over                     (ざっと目を通す)        I want you to look this over before I turn it in.
+- [ ] make (full) use of                (活用する)              make full use of IT
+- [ ] make (much|little|nothing) of     (な評価をする)          For years the press overlooked the problem. But now, if anything, they are making too much of it.
+- [ ] make a (decision | choice)        (決心する)              I got job offers from two companies. I have to make a decision about which offer to accept.
+- [ ] make believe                      (ふりをする)            When the kids made believe they were dinosaurs, they were scolded by their mother.
+- [ ] make it                           (やり遂げる)            We made it! / You can make it!
+- [ ] make it                           (都合がつく)            Can you make it to the meeting on Friday? Sorry, I can't make it because ...
+- [ ] make it                           (間に合う)              You can still make it.
 - [ ] make it a habit to                (を習慣とする)
-- [ ] make out                          (理解する)              <!-- I couldn't make out what you were getting at. -->
-- [ ] make the most/best of it.         (最善を尽くす)          <!-- Let's make the most of it. -->
-- [ ] make up for 物                    (埋め合わせる)          <!-- Her genius makes up for her lack of firsthand experience. -->
-- [ ] make up to 人                     (埋め合わせる)          <!-- How can I make it up to you? -->
+- [ ] make out                          (理解する)              I couldn't make out what you were getting at.
+- [ ] make the most/best of it.         (最善を尽くす)          Let's make the most of it.
+- [ ] make up for 物                    (埋め合わせる)          Her genius makes up for her lack of firsthand experience.
+- [ ] make up to 人                     (埋め合わせる)          How can I make it up to you?
 - [ ] move around                       (あちこち動き回る)
-- [ ] move over                         (席を詰める)            <!-- Could you move over a little? -->
+- [ ] move over                         (席を詰める)            Could you move over a little?
 - [ ] neat and tidy                     (整理された)
-- [ ] objectionable                     (不快な 人の言動が)     <!-- The guest found the noise objectionable. -->
-- [ ] obscure  / vague                         (曖昧な 難解)           <!-- The maening of that poem is obscure. -->
-- [ ] ambiguous                         (曖昧な 様々な解釈)     <!-- Her statement was ambiguous, and it could be interpreted in different ways -->
-- [ ] off the charts                    (半端ない)              <!-- His guitar performance was totally off the charts! -->
-- [ ] old-school                        (懐かしい)              <!-- This song is so old-school. -->
-- [ ] over the top                      (度が過ぎている)        <!-- His acting was over the top so it wasn't believable at all. -->
-- [ ] pay off                           (報われる)              <!-- I think the time you are spending on English is paying off. -->
+- [ ] objectionable                     (不快な 人の言動が)     The guest found the noise objectionable.
+- [ ] obscure  / vague                         (曖昧な 難解)           The maening of that poem is obscure.
+- [ ] ambiguous                         (曖昧な 様々な解釈)     Her statement was ambiguous, and it could be interpreted in different ways
+- [ ] off the charts                    (半端ない)              His guitar performance was totally off the charts!
+- [ ] old-school                        (懐かしい)              This song is so old-school.
+- [ ] over the top                      (度が過ぎている)        His acting was over the top so it wasn't believable at all.
+- [ ] pay off                           (報われる)              I think the time you are spending on English is paying off.
 - [ ] pick nose                         (鼻をほじる)
 - [ ] picturesque                       (絵のように美しい)
 - [ ] praise                            (褒める カジュアル)
-- [ ] prevent A from (doing)            (A を doing から防ぐ)   <!-- It can't prevent you from getting cold. -->
-- [ ] protect A from (noun)             (A を noun から防ぐ)    <!-- A leather jacket can't protect you from the cold. -->
-- [ ] provide for                       (養う)                  <!-- My income is not adequate to provide for my family of four. -->
+- [ ] prevent A from (doing)            (A を doing から防ぐ)   It can't prevent you from getting cold.
+- [ ] protect A from (noun)             (A を noun から防ぐ)    A leather jacket can't protect you from the cold.
+- [ ] provide for                       (養う)                  My income is not adequate to provide for my family of four.
 - [ ] pull an all-nighter               (徹夜する)
 - [ ] pull over                         (路肩に寄せ止める)
-- [ ] put ... aside                     (取っておく)            <!-- ... but on second thought I decided to put some aside for a rainy day. -->
-- [ ] put ... away                      (片づける)              <!-- Put this stuff away! It's in the way. -->
-- [ ] put ... into practice             (実行に移す)            <!-- He came up with an ingenious, sensible solution and immediately put it into practice. -->
-- [ ] put ... up                        (掲示する)              <!-- put .... on the wall. -->
-- [ ] put ... up                        (泊める)                <!-- I can't pu you up. -->
-- [ ] put on                            (着る)                  <!-- It is difficult to put on a Kimono. -->
-- [ ] refuse                            (断る はっきり)         <!-- They wanted me to participate in the meeting, but I refused. -->
-- [ ] reject                            (断る 不適切だ)         <!-- The boss rejected my proposal. -->
-- [ ] decline                           (断る 丁寧に)           <!-- He declined my invitation to dinner -->
-- [ ] ring a bell                       (ピンとくる)            <!-- That doesn't ring a bell at all. -->
-- [ ] run out                           (使い果たす)            <!-- The other day I ran out of gas in the middle of a busy Interstate. -->
-- [ ] set a new record                  (賞をとる)              <!-- Carbon emissions are expected to set a new record in 2023. -->
-- [ ] shine / shone / shone             (輝く 光る)             <!-- Outside the tent, stars were shining in the clear sky. -->
-- [ ] show off                          (見せびらかす)          <!-- Naomi likes to show off her perfect figure. -->
-- [ ] sink / sank / sunk                (沈む)                  <!-- His medal sank deeply into the pond. -->
-- [ ] spend time ...                    (過ごす)                <!-- I spend time with my wife on my days off. -->
+- [ ] put ... aside                     (取っておく)            ... but on second thought I decided to put some aside for a rainy day.
+- [ ] put ... away                      (片づける)              Put this stuff away! It's in the way.
+- [ ] put ... into practice             (実行に移す)            He came up with an ingenious, sensible solution and immediately put it into practice.
+- [ ] put ... up                        (掲示する)              put .... on the wall.
+- [ ] put ... up                        (泊める)                I can't pu you up.
+- [ ] put on                            (着る)                  It is difficult to put on a Kimono.
+- [ ] refuse                            (断る はっきり)         They wanted me to participate in the meeting, but I refused.
+- [ ] reject                            (断る 不適切だ)         The boss rejected my proposal.
+- [ ] decline                           (断る 丁寧に)           He declined my invitation to dinner
+- [ ] ring a bell                       (ピンとくる)            That doesn't ring a bell at all.
+- [ ] run out                           (使い果たす)            The other day I ran out of gas in the middle of a busy Interstate.
+- [ ] set a new record                  (賞をとる)              Carbon emissions are expected to set a new record in 2023.
+- [ ] shine / shone / shone             (輝く 光る)             Outside the tent, stars were shining in the clear sky.
+- [ ] show off                          (見せびらかす)          Naomi likes to show off her perfect figure.
+- [ ] sink / sank / sunk                (沈む)                  His medal sank deeply into the pond.
+- [ ] spend time ...                    (過ごす)                I spend time with my wife on my days off.
 - [ ] split the check                   (割り勘する)
-- [ ] stand on one's own two feet       (自立する)              <!-- Now that I've found that there's no one to turn to, I'll have to stand on my own two feet. -->
+- [ ] stand on one's own two feet       (自立する)              Now that I've found that there's no one to turn to, I'll have to stand on my own two feet.
 - [ ] start work at                     (時に仕事を始める)
-- [ ] stay fit                          (体型を保つ)            <!-- I want to stay fit. -->
-- [ ] stay up (till) late               (夜更かしする)          <!-- I stayed up late last night. -->
+- [ ] stay fit                          (体型を保つ)            I want to stay fit.
+- [ ] stay up (till) late               (夜更かしする)          I stayed up late last night.
 - [ ] stay up all night                 (徹夜する)
-- [ ] stuck in one's ways               (固執する)              <!-- My boss is stuck in his ways. -->
-- [ ] take ... into doing               (説得してさせる)        <!-- No one backed me up at first, but eventually I talked everyone into going along with my plan, -->
-- [ ] take ... out of context           (文脈無視)              <!-- It can easily be taken out of context. -->
-- [ ] take a chance / take the plunge   (思い切てやてみる)      <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
-- [ ] take a vote                       (投票する)              <!-- My team took a vote to decide where we should have lunch. -->
-- [ ] take care                         (気を付ける)            <!-- Take care you don't drink too much. -->
-- [ ] take care of                      (世話をする)            <!-- He has to take care of his sick mother. -->
-- [ ] take care of                      (引き受ける)            <!-- I'll take care of it. -->
-- [ ] take it                           (それにします)          <!-- I'll take it. -->
-- [ ] take off                          (休みを取る)            <!-- I think I can take off two weeks in July. / take the whole day off -->
-- [ ] take on                           (引き受ける)            <!-- Apparently, Nick wasn't willing to take on the task because it would just add to his burdens. -->
+- [ ] stuck in one's ways               (固執する)              My boss is stuck in his ways.
+- [ ] take ... into doing               (説得してさせる)        No one backed me up at first, but eventually I talked everyone into going along with my plan,
+- [ ] take ... out of context           (文脈無視)              It can easily be taken out of context.
+- [ ] take a chance / take the plunge   (思い切てやてみる)      Three months later, I took a chance and proposed to her, but she turned me down.
+- [ ] take a vote                       (投票する)              My team took a vote to decide where we should have lunch.
+- [ ] take care                         (気を付ける)            Take care you don't drink too much.
+- [ ] take care of                      (世話をする)            He has to take care of his sick mother.
+- [ ] take care of                      (引き受ける)            I'll take care of it.
+- [ ] take it                           (それにします)          I'll take it.
+- [ ] take off                          (休みを取る)            I think I can take off two weeks in July. / take the whole day off
+- [ ] take on                           (引き受ける)            Apparently, Nick wasn't willing to take on the task because it would just add to his burdens.
 - [ ] take the top spot                 (優勝する)
-- [ ] take to                           (好きになる)            <!-- I introduced Bob to my folks, and they took to him at once. -->
-- [ ] take to                           (習慣化する)            <!-- He took to his new job quickly. -->
-- [ ] take up                           (占める)                <!-- Your work will take up a large portion of your time. -->
-- [ ] take up                           (始める)                <!-- I decided to take up writing a blog. -->
-- [ ] talk ... into ...ing              (説得してさせる)        <!-- but eventually I talked everyone into going along with my plan. -->
-- [ ] talk ... over                     (よく話し合う)          <!-- I didn't mean to hurt you. Let's talk it over. -->
-- [ ] tap into                          (活用する)              <!-- I think that taps into the subconscious that we all, kind of, share -->
-- [ ] tell ... apart                    (見分ける)              <!-- Dolly resembles her big sister in every way. You can't tell them apart. -->
-- [ ] tell ... off                      (説教する)              <!-- Our neighbor told us off for making a mess in his yard. -->
-- [ ] tell A from B                     (区別する)              <!-- Bob was so beside himself that he could scarcely tell fact from fiction. -->
-- [ ] the other way around              (正反対な)              <!-- It's the other way around today. -->
-- [ ] think ... over                    (慎重に考える)          <!-- You ought to think over whether the premise is valid or not. -->
-- [ ] through the roof                  (突き抜けている)        <!-- My stress was through the roof -->
+- [ ] take to                           (好きになる)            I introduced Bob to my folks, and they took to him at once.
+- [ ] take to                           (習慣化する)            He took to his new job quickly.
+- [ ] take up                           (占める)                Your work will take up a large portion of your time.
+- [ ] take up                           (始める)                I decided to take up writing a blog.
+- [ ] talk ... into ...ing              (説得してさせる)        but eventually I talked everyone into going along with my plan.
+- [ ] talk ... over                     (よく話し合う)          I didn't mean to hurt you. Let's talk it over.
+- [ ] tap into                          (活用する)              I think that taps into the subconscious that we all, kind of, share
+- [ ] tell ... apart                    (見分ける)              Dolly resembles her big sister in every way. You can't tell them apart.
+- [ ] tell ... off                      (説教する)              Our neighbor told us off for making a mess in his yard.
+- [ ] tell A from B                     (区別する)              Bob was so beside himself that he could scarcely tell fact from fiction.
+- [ ] the other way around              (正反対な)              It's the other way around today.
+- [ ] think ... over                    (慎重に考える)          You ought to think over whether the premise is valid or not.
+- [ ] through the roof                  (突き抜けている)        My stress was through the roof
 - [ ] to the point                      (要領を得た)
-- [ ] too far                           (やり過ぎな)            <!-- He went too far there. -->
-- [ ] turn ... down                     (断る)                  <!-- Three months later, I took a chance and proposed to her, but she turned me down. -->
-- [ ] turn ...'s back on                (背を向ける 無視)       <!-- We cannot turn our backs on desperate people who are at risk. -->
-- [ ] turn a blind eye                  (見て見ぬふりする)      <!-- He saw someone being bullied, but he turned a blind eye. -->
+- [ ] too far                           (やり過ぎな)            He went too far there.
+- [ ] turn ... down                     (断る)                  Three months later, I took a chance and proposed to her, but she turned me down.
+- [ ] turn ...'s back on                (背を向ける 無視)       We cannot turn our backs on desperate people who are at risk.
+- [ ] turn a blind eye                  (見て見ぬふりする)      He saw someone being bullied, but he turned a blind eye.
 - [ ] turn a deaf ear                   (聞こえぬふりする)
-- [ ] turn away                         (顔をそむける)          <!-- In spite of our compliments, he frowned and turned away. He was so rude. -->
-- [ ] turn down                         (断る くだけて)         <!-- She turned down his marriage proposal, though he looked like a nice guy. -->
-- [ ] turn out                          (消す)                  <!-- Please turn out the light. -->
-- [ ] turn out                          (集まる)                <!-- I think they will turn out shortly. -->
-- [ ] turn to                           (頼る)                  <!-- Now that I've found that there's no one to turn to. -->
-- [ ] turn up                           (現れる)                <!-- As usual, Mike turned up on time. He's very punctual. -->
-- [ ] turn/hand ... in                  (提出する)              <!-- I want you to look this over before I turn it in. -->
+- [ ] turn away                         (顔をそむける)          In spite of our compliments, he frowned and turned away. He was so rude.
+- [ ] turn down                         (断る くだけて)         She turned down his marriage proposal, though he looked like a nice guy.
+- [ ] turn out                          (消す)                  Please turn out the light.
+- [ ] turn out                          (集まる)                I think they will turn out shortly.
+- [ ] turn to                           (頼る)                  Now that I've found that there's no one to turn to.
+- [ ] turn up                           (現れる)                As usual, Mike turned up on time. He's very punctual.
+- [ ] turn/hand ... in                  (提出する)              I want you to look this over before I turn it in.
 - [ ] unable to change                  (固執する)
-- [ ] was predicted                     (予報では..だった)      <!-- Snow was predicted this morning. -->
-- [ ] weak at the knees                 (立っていられない)      <!-- Mary went weak at the knees when she saw the man. -->
-- [ ] wear and tear                     (摩耗 消耗 衰え)        <!-- wear and tear on a tire. / I feel a little wear and tear on my body these days. -->
-- [ ] work as                           (として働く)            <!-- I work as a software engineer for an audio equipment manufacturer. -->
-- [ ] work late                         (遅くまで仕事する)      <!-- She works late most of the days. -->
-- [ ] work went late                    (仕事遅くまであた)      <!-- Sorry, work went late. -->
+- [ ] was predicted                     (予報では..だった)      Snow was predicted this morning.
+- [ ] weak at the knees                 (立っていられない)      Mary went weak at the knees when she saw the man.
+- [ ] wear and tear                     (摩耗 消耗 衰え)        wear and tear on a tire. / I feel a little wear and tear on my body these days.
+- [ ] work as                           (として働く)            I work as a software engineer for an audio equipment manufacturer.
+- [ ] work late                         (遅くまで仕事する)      She works late most of the days.
+- [ ] work went late                    (仕事遅くまであた)      Sorry, work went late.
 - [ ] worn out                          (**   疲れている)
-- [ ] A stands for B                    (A は B の約である)     <!-- AI stands for artificial intelligence. -->
-- [ ] all set                           (準備万端)              <!-- I''re all set. -->
-- [ ] call at 場所                      (立ち寄る)              <!-- He sometimes calls at his grandmothers' house. -->
-- [ ] call for                          (必要とする)            <!-- Above all, scientific terms call for precise definitions. -->
-- [ ] call off                          (中止する)              <!-- cancel よりカジュアル The field trip was called off because of the rain. -->
-- [ ] call on 人                        (立ち寄る)              <!-- I'll call on you later. -->
-- [ ] catch up (with)                   (追いつく)              <!-- Once you fall behind, It's hard to catch up. -->
-- [ ] identify A with B                 (A を B と同じと考える) <!-- For the most part, modernization is identified with westernization. -->
-- [ ] in fashion                        (流行っている)          <!-- This type of hairdo is in fashion now among young women. -->
-- [ ] keep up/pace with                 (遅れずに付いてく)      <!-- You've got to keep up with it. / It's tough to keep pace with it. -->
-- [ ] wind ... up                       (終わりにする)          <!-- "Time to wind things up. Let's take a vote." -->
+- [ ] A stands for B                    (A は B の約である)     AI stands for artificial intelligence.
+- [ ] all set                           (準備万端)              I''re all set.
+- [ ] call at 場所                      (立ち寄る)              He sometimes calls at his grandmothers' house.
+- [ ] call for                          (必要とする)            Above all, scientific terms call for precise definitions.
+- [ ] call off                          (中止する)              cancel よりカジュアル The field trip was called off because of the rain.
+- [ ] call on 人                        (立ち寄る)              I'll call on you later.
+- [ ] catch up (with)                   (追いつく)              Once you fall behind, It's hard to catch up.
+- [ ] identify A with B                 (A を B と同じと考える) For the most part, modernization is identified with westernization.
+- [ ] in fashion                        (流行っている)          This type of hairdo is in fashion now among young women.
+- [ ] keep up/pace with                 (遅れずに付いてく)      You've got to keep up with it. / It's tough to keep pace with it.
+- [ ] wind ... up                       (終わりにする)          "Time to wind things up. Let's take a vote."
 - [ ] have come a long way:                   Yeah. We'`ve really come a long way.`
 - [ ] have a long way:                        I was, but I still `have a long way` to go.
 - [ ] It's the right time to (V):             `It's the right time to` take chances.
@@ -313,8 +250,8 @@ mak  a living
 ur[ ] gent emergency pressing
 - [ ] Just give it time.:                     Dating is a nightmare. `Just give it time.`
 - [ ] I thought you said (O):                 What? `I thought you said` seven o'clock. / `I thought you said` you were a vegetarian.
-- [ ] the only way to:               (やるしかない)              <!-- The only way to get to karaoke is to keep working. -->
-- [ ] You'll be sorry               (**** 後悔するよ)           <!-- You'll be sorry if you don't finish it today. -->
+- [ ] the only way to:               (やるしかない)              The only way to get to karaoke is to keep working.
+- [ ] You'll be sorry               (**** 後悔するよ)           You'll be sorry if you don't finish it today.
 - [ ] scorching hot:                          It's `scorching hot` today. (焼きつくような)
 - [ ] boiling hot:                            This room is `boiling hot`. (うだるような)
 - [ ] as a whole:                             The train system in Tokyo is much better than for the country `as a whole`.

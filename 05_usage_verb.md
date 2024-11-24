@@ -40,10 +40,28 @@
 ## PHRASAL VERB
 
 - [ ] add up:                                     納得がいく / It `doesn't add up` at all.
+- [ ] ask for:                                    請求する / The credit card company `asked for` the payment. / You are `asking for` it.
+- [ ] ask out:                                    誘う / He finally `asked Alice out`!
 - [ ] be around:                                  近くにいる / He pretends to be enthusiastic when his boss `is around`.
 - [ ] be for:                                     合う / That job `wasn't for` me.
 - [ ] be really into:                             ハマる / I`'m really into` ramen.
 - [ ] break apart (into):                         まで分解する / They even showed a tendency to `break apart into` A group and B group.
+- [ ] break away:                                 独立する / In the 1800s the South tried to break away from the Union.
+- [ ] break away:                                 逃げる / The calf is breaking away from the cowboy.
+- [ ] break down:                                 動力機械が壊れる / The washing machine has broken down again.
+- [ ] break in:                                   慣らす / I have to break in my new shoes.
+- [ ] break into:                                 会話に入る / Can I break in here?
+- [ ] break into:                                 侵入する / A burglar broke into my house over the weekend.
+- [ ] break into:                                 急にしだす / He broke into tears. She broke into laugher. / Sarah saw pandas and broke into a run.
+- [ ] break out:                                  起こる / The fire broke out in the middle of the night.
+- [ ] break through:                              突破する / The player broke through the defensive line. / The sun began to break through.
+- [ ] bring about:                                もたらす / Medical breakthroughs have brought about great benefits for humanity as a whole.
+- [ ] bring around:                               連れていく / We finally brought him around to our point of view .
+- [ ] bring back memories:                        記憶がよみがえる / Those pictures bring back happy memories of my time in the US.
+- [ ] bring on:                                   引き起こす / Fatigue often brings on headaches.
+- [ ] bring through:                              難局を切抜させる / Her angelic smile brought me through my mental distress .
+- [ ] bring up:                                   育てる / His nephew was brought up to be modest and considerate.
+- [ ] bring up:                                   話に出す / The comment you made is really spot-on. I'm glad you brought that up.
 - [ ] come across:                                遭遇する / I `came across` this information on the internet.
 - [ ] come after:                                 文章が続く / what `comes after` that has to be -ing like "My hobby is taking pictures."
 - [ ] come clean:                                 正直に述べる confess / OK. I'll `come clean`.
@@ -165,3 +183,32 @@
 - [ ] have much to do with:                       と大いに関係がある
 - [ ] have nothing to do with:                    と関係がない
 - [ ] have something to do with:                  と何らかの関係がある /  Innovation `has something to do with` the ability to notice unusual phenomena.
+- [ ] have N years of experience:                 年の経験がある / I `have three years of experience` in the ... field.
+- [ ] account for:                                占める /  Wheat accounts for approximately two-thirds of agricultural production in the area.
+- [ ] act fanny:                                  ふざける / Why do you always `act funny` like that?
+- [ ] be based in:                                外資系 / My company `is based in` U.S. but 80% of the employees are Japanese.
+- [ ] burn the midnight oil:                      徹夜する
+- [ ] be accompanied by:                          が付随して起こる / More often than not. famine is accompanied by plague.
+- [ ] be anxious to:                              切望する 悪 → 中 / The slaves were anxious to alter their destinies.
+- [ ] be at his disposal:                         思い通りにできる / He claimed that the enormous property was at his disposal.
+- [ ] be aware of:                                気づいている
+- [ ] be bathed in:                               まみれになる
+- [ ] be bathed in a golden light:                日光を浴びる
+- [ ] be bathed in blood:                         血まみれ
+- [ ] be bathed in sweat:                         汗だく
+- [ ] be blessed with:                            恵まれる / He is lucky to be blessed with so much talent.
+- [ ] be caught up in:                            巻き込まれる / I got caught up in the rain on the way home from the station.
+- [ ] be composed of:                             で構成されている / This substance is mostly composed of hydrogen and oxygen.
+- [ ] be conscious of:                            自覚している / To make matters worse, he isn't even conscious of annoying us.
+- [ ] be eager to:                                切望する 中 → 良
+- [ ] be fond of:                                 が大好きである
+- [ ] be getting at:                              言おうとする / I couldn't make out what you were getting at. / What's the point you're getting at?
+- [ ] be looking forward to:                      楽しみにしている / I'm looking forward to your souvenirs.
+- [ ] be made up of:                              で構成されている / Our workgroup is made up of people from lots of divisions in our company.
+- [ ] be obsessed:                                が頭から離れない / He's obsessed with his new baby.
+- [ ] be offended by/with:                        気分を害する / She was extremely offended by the things you said.
+- [ ] be on the brink of ...:                     寸前である 重大 / We are on the brink of war.
+- [ ] be on the verge of ...:                     寸前である 瀕している / Many fragile species are on the verge of extinction.
+- [ ] be soaked:                                  びしょ濡れ / I'm soaked with sweat.
+- [ ] be under way:                               進行中 / The negotiations are under way.
+- [ ] be black and white:                         明らかな / Things in life are never black and white.

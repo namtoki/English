@@ -25,14 +25,19 @@
 - [ ] one-off:                                    一度きりの / The expense incurred this year to construct the building is a `one-off` cost.
 - [ ] last-minute:                                土壇場の
 - [ ] neighborly:                                 隣人の 親切な
+- [ ] best-in-class:                              最高クラスの
 
 ## DISCRIPTIVE
 
 - [ ] for hire:                                   有料で利用できる、借りられる
 - [ ] halfway through:                            の途中で,半ばを過ぎた / I was `halfway through` dinner when he appeared.
+- [ ] in one's XXs:                               .. 十代 / Some of her first students are new `in their 20s`.
+- [ ] all done:                                   全て終わっている / It's `all done`.
+- [ ] beside the point:                           的外れの / I agree he has had an unfortunate life, but that's `beside the point`.
 
 ## SIMILAR
 
 - [ ] comparable | comparative:                   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
 - [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
 - [ ] industrial | industrious:                   工業の | 勤勉な
+- [ ] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan

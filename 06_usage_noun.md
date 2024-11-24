@@ -55,3 +55,4 @@
 - [ ] custom | customs:                           習慣 | 税関
 - [ ] manner | manners:                           やり方、方法、立ち振る舞い | 礼儀、マナー
 - [~] premise | premises:                         前提 | 家屋,建物,構内,敷地内
+- [ ] bloodshot eyes:                             充血した目 / I've got bloodshot eyes.

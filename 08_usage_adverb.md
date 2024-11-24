@@ -180,6 +180,7 @@
 - [ ] [how] to sb's heart's content:               The aristocrats abused their privileges `to their hearts' content.`
 - [ ] [how] up-front:                              This hotel requires a cash deposit `up-front.`
 - [ ] [how] with each passing day/year:            日を追うごとに
+- [ ] [how] lightly:                               そっと歩く / She seems angry, you should tread `lightly`
 - [ ] [objective] for a rainy day:                 I decided to put some aside `for a rainy day.`
 - [ ] [objective] for the purpose of V-ing:
 - [ ] [objective] in (the) hope(s) of/that S V:    I didn't phone till four o'clock `in the hope that` you'd be finished.
