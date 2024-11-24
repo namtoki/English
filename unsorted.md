@@ -287,6 +287,3 @@ ur[ ] gent emergency pressing
 - [ ] more like (O) (than):                   Dogs are `more like` friends `than` pets.
 - [ ] some kind of (O):                       He was born with `some kind of` special talent. / `some kind of` sport
 - [ ] more often than not:                    `More often than not`, famine is accompanied by plague.
-- [ ] at times:                               `At times` I confuse "curve" with "carve."
-- [ ] here and there:                         ときおり
-- [ ] now and then:                           I must admit we quarrel `every now and then.`

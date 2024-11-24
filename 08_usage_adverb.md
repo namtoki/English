@@ -103,6 +103,9 @@
 - [ ] [frequency] once in a blue moon:             めったにない
 - [ ] [frequency] from time to time:               ときおり
 - [ ] [frequency] once in a while:                 ときおり
+- [ ] [frequency] at times:                        ときどき / `At times` I confuse "curve" with "carve."
+- [ ] [frequency] here and there:                  ときおり
+- [ ] [frequency] now and then:                    ときどき / I must admit we quarrel `every now and then.`
 - [ ] [long] for (N)s:                             I've been working for the company `for 6 months`.
 - [ ] [long] for half a (day | month | year):      I'll be living here `for half a year`.
 - [ ] [long] the entire week:
