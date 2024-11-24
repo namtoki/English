@@ -10,11 +10,8 @@
 - [ ] catch up (with)                   (親交を深める)          I caught up with some old friends yesterday.
 - [ ] catch up (with)                   (追いつく)              He is a really fast runner. I couldn’t catch up.
 - [ ] catch up on                       (遅れを取り戻す)        I have to catch up on my work.
-- [ ] characteristic of                 (の特徴である)          A humid climate is characteristic of the peninsula.
 - [ ] check with                        (相談する)              I need to check with my boss before I can make a decision about when to take my summer vacation.
 - [ ] choose ... over ...               (よりも)                I would choose Interstate Construction over New Look Construction.
-- [ ] clear-cut                         (明らかな)              (usually used for instructions) Patrick's instructions were very clear-cut.
-- [ ] clearing up                       (晴れてきた)            It's clearing up.
 - [ ] come along                        (うまくいく)            It's coming along.
 - [ ] come along                        (一緒に来る)            I would like you to come along.
 - [ ] come by                           (努力で手に入れる)      Cheap airline tickets are usually hard to come by during Christmas season.
@@ -23,51 +20,21 @@
 - [ ] come out                          (出版される)            An up-to-date edition of the encyclopedia will come out next month.
 - [ ] come to                           (合計なる)              I was amazed to see that our utility bills came to so much!
 - [ ] come to                           (意識回復)              He fainted with hunger and farigue, but came to after a while.
-- [ ] come/get home (from work/school)  (帰宅する)              Dave goes home at 8 p.m., so he comes home at 9 p.m.
-- [ ] confound                          (困惑させる old)        That problem confounded me.
-- [ ] consist of                        (で構成されている)      Muscle tissue consists of a vast number of cells.
-- [ ] count on                          (頼る)                  I'm counting on you.
-- [ ] crystal clear                     (明らかな)              I could make it crystal clear that we have to be at the restaurant for 7pm...
-- [ ] cut corners                       (手を抜く)              You shouldn't cut corners.
 - [ ] cut down on                       (減らす)                I have to cut down on my expenses, so from now on, I'm gonna keep track of them on a daily basis.
 - [ ] cut in (on)                       (割り込む)              Bob cut in on our conversation, saying, "I'm against it!" But everybody ignored him.
 - [ ] cut it out                        (やめて！)              Cut it out!
 - [ ] cut off                           (機械の電源を切る)      The line was cut off.
 - [ ] cut off                           (遮る)                  The chairman cut me off, saying, "brabrabra."
-- [ ] cut to the chase                  (要点を言う)            Since we've only got five minutes, I'm going to cut to the chase.
 - [ ] die out                           (廃れた)                The custom of tipping might die out because of digital payments.
 - [ ] dig up                            (掘り出す)              Grandpa and I dug up some potatoes.
-- [ ] disclose                          (伝える)                I'm sorry but I can't disclose all the details right now.
-- [ ] distingish A from B               (見分ける)
-- [ ] do (adj) damage to                (な損害を与える)        The prolonged drought did severe damage to the crop.
-- [ ] do (noun)                         (する)                  He does the dishes. / I usually do the garden on weekends. / I have to do my hair.
 - [ ] do away with                      (廃止する 処分する)     Japan should do away with all its nuclear power stations.
 - [ ] do for                            (役立つ 間に合う)       I don't think this embankment will do for a big tsunami.
 - [ ] do in                             (殺す 超疲れさせる)     Many innocent people were done in by the terrorist group.
-- [ ] do well                           (うまくいく)            He is doing well at school. / My company is doing very well.
-- [ ] drive ... (nuts/insane/mad)       (イライラさせる)        Can you stop doing that? it drives me nuts.
-- [ ] drive ... crazy                   (イライラさせる)        > annoyed, irritated | I don't know why we're still friends. You often drive me crazy.
-- [ ] drive ... crazy                   (夢中にさせる)          Tom drives me crazy.
-- [ ] drive ... up the wall             (イライラさせる)        All this noise is driving me up the wall!
-- [ ] drop A a line                     (A にちょい連絡する)    Please drop me a line.
-- [ ] eager for                         (熱望的な)              He's eager for his own business.
-- [ ] easy on my stomach                (おなかにやさしい)      Udon noodles are easy on my stomach.
 - [ ] eat out                           (外食する)              Where is your favorite place to eat out?
-- [ ] elevate                           (増やす)                If you want to elevate your performance, you're gonna have to practice.
-- [ ] encompass                         (含む)                  Her new job encompasses a broad range of tasks.
-- [ ] engrave                           (掘る)                  We will buy personalized chopsticks with his name engraved on them.
-- [ ] enthusiastic about                (夢中な)                He's enthusiastic about his own business.
-- [ ] expedite                          (促進する 効率的にも)
 - [ ] fall behind                       (遅れをとる)            Once you fall behind, It's hard to catch up.
 - [ ] fashionable                       (流行っている)          She always tries to be fashionable.
-- [ ] feel free to                      (遠慮なくして)          Please feel free to contact me.
-- [ ] fertile                           (肥沃な)                Fertile soil is indispensable for a good harvest.
 - [ ] find out                          (発見する)              I just found out that I have a big meeting tomorrow and I need to prepare.
 - [ ] find out                          (見破る)                I think what she’s done will be found out sometime soon.
-- [ ] finish work at                    (時に仕事を終える)
-- [ ] first baseline                    (一塁側)
-- [ ] foreign owned                     (外資系)
-- [ ] get                               (こぼす)                Just don't get sauce on your nice shirt.
 - [ ] get along                         (うまくやる)            My wife did not get along with the principal of her school.
 - [ ] get down to                       (取り掛かる)            So much for the small talk. Let's get down to business
 - [ ] get even                          (仕返する 同点する)     I’ll get even with him one day.
@@ -77,6 +44,39 @@
 - [ ] get into                          (習慣化する)            I've been thinking about getting into yoga.
 - [ ] get off                           (大型 降りる)           I got off the elevator at the wrong floor.
 - [ ] get on                            (大型 乗る)             I got on the train at Shinjuku and got off at Shibuya.
+- [ ] be characteristic of                 (の特徴である)          A humid climate is characteristic of the peninsula.
+- [ ] be clearing up                       (晴れてきた)            It's clearing up.
+- [ ] confound                          (困惑させる old)        That problem confounded me.
+- [ ] consist of                        (で構成されている)      Muscle tissue consists of a vast number of cells.
+- [ ] count on                          (頼る)                  I'm counting on you.
+- [ ] cut corners                       (手を抜く)              You shouldn't cut corners.
+- [ ] cut to the chase                  (要点を言う)            Since we've only got five minutes, I'm going to cut to the chase.
+- [ ] come/get home (from work/school)  (帰宅する)              Dave goes home at 8 p.m., so he comes home at 9 p.m.
+- [ ] disclose                          (伝える)                I'm sorry but I can't disclose all the details right now.
+- [ ] distingish A from B               (見分ける)
+- [ ] do (adj) damage to                (な損害を与える)        The prolonged drought did severe damage to the crop.
+- [ ] do (noun)                         (する)                  He does the dishes. / I usually do the garden on weekends. / I have to do my hair.
+- [ ] do well                           (うまくいく)            He is doing well at school. / My company is doing very well.
+- [ ] drive ... (nuts/insane/mad)       (イライラさせる)        Can you stop doing that? it drives me nuts.
+- [ ] drive ... crazy                   (イライラさせる)        > annoyed, irritated | I don't know why we're still friends. You often drive me crazy.
+- [ ] drive ... crazy                   (夢中にさせる)          Tom drives me crazy.
+- [ ] drive ... up the wall             (イライラさせる)        All this noise is driving me up the wall!
+- [ ] drop A a line                     (A にちょい連絡する)    Please drop me a line.
+- [ ] be eager for                         (熱望的な)              He's eager for his own business.
+- [ ] be easy on my stomach                (おなかにやさしい)      Udon noodles are easy on my stomach.
+- [ ] elevate                           (増やす)                If you want to elevate your performance, you're gonna have to practice.
+- [ ] encompass                         (含む)                  Her new job encompasses a broad range of tasks.
+- [ ] engrave                           (掘る)                  We will buy personalized chopsticks with his name engraved on them.
+- [ ] be enthusiastic about                (夢中な)                He's enthusiastic about his own business.
+- [ ] expedite                          (促進する 効率的にも)
+- [ ] fertile                           (肥沃な)                Fertile soil is indispensable for a good harvest.
+- [ ] finish work at                    (時に仕事を終える)
+- [ ] get                               (こぼす)                Just don't get sauce on your nice shirt.
+- [ ] clear-cut                         (明らかな)              (usually used for instructions) Patrick's instructions were very clear-cut.
+- [ ] crystal clear                     (明らかな)              I could make it crystal clear that we have to be at the restaurant for 7pm...
+- [ ] feel free to                      (遠慮なくして)          Please feel free to contact me.
+- [ ] first baseline                    (一塁側)
+- [ ] foreign owned                     (外資系)
 - [ ] get one's head around ...         (理解する)              I'm going to need a few minutes to get my head around the diagram you just showed me.
 - [ ] get one's hopes up                (期待する)              Don't get your hopes up because you might not actually get promoted.
 - [ ] get out                           (小型 降りる)           I got out of the taxi at Tokyo station.
@@ -290,7 +290,3 @@ ur[ ] gent emergency pressing
 - [ ] at times:                               `At times` I confuse "curve" with "carve."
 - [ ] here and there:                         ときおり
 - [ ] now and then:                           I must admit we quarrel `every now and then.`
-- [ ] occasionally:                           30
-- [ ] `from time to time:                      ときおり
-- [ ] once in a while:                        ときおり
-- [ ] once a blue moon:                       めったにない

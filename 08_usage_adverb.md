@@ -100,6 +100,9 @@
 - [ ] [frequency] for the first time`:              Last Saturday, I came here`for the first time.`
 - [ ] [frequency] time and again:                  The ecologist has warned us `time and again.`
 - [ ] [frequency] around the clock:                They are working `around the clock` looking into the cause of the crash.
+- [ ] [frequency] once in a blue moon:             めったにない
+- [ ] [frequency] from time to time:               ときおり
+- [ ] [frequency] once in a while:                 ときおり
 - [ ] [long] for (N)s:                             I've been working for the company `for 6 months`.
 - [ ] [long] for half a (day | month | year):      I'll be living here `for half a year`.
 - [ ] [long] the entire week:
