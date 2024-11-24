@@ -4,7 +4,8 @@
 
 - [~] [kind] things/something like that:            そのへん / I think he's learning Spanish or `something like that`, if that makes sense.
 - [~] [kind] things like ..:                        `Things like` party hats, paper plates and napkins.
-- [~] [kind] .. of a kind/sort:                     ある種の A
+- [ ] [kind] some kind of ..:                       ある種の / He was born with `some kind of` special talent. / `some kind of` sport
+- [~] [kind] .. of a kind/sort:                     ある種の
 - [~] [kind] .. kind of thing:                      みたいなもの / This is a flip phone `kind of thing` but a bit different.
 - [~] [kind] .. and so on:                          I'm tired of doing the dished, doing the laundry, `and so on!`
 - [~] [kind] .. and stuff (like that):              We've got to do editing `and stuff.`

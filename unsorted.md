@@ -281,9 +281,3 @@ ur[ ] gent emergency pressing
 - [ ] like:                                   There were only `like` thirty people there.
 - [ ] kind of:                                I'm `kind of` hungry.
 - [ ] a bit of:                               It's `a bit of` a risk in this environment, isn't it?
-- [ ] more or less:                           Your pronunciation is `more or less` correct.
-- [ ] pretty much:                            This is `pretty much` done.
-- [ ] more of:                                I think he is `more of` an entertainer.
-- [ ] more like (O) (than):                   Dogs are `more like` friends `than` pets.
-- [ ] some kind of (O):                       He was born with `some kind of` special talent. / `some kind of` sport
-- [ ] more often than not:                    `More often than not`, famine is accompanied by plague.

@@ -106,6 +106,7 @@
 - [ ] [frequency] at times:                        ときどき / `At times` I confuse "curve" with "carve."
 - [ ] [frequency] here and there:                  ときおり
 - [ ] [frequency] now and then:                    ときどき / I must admit we quarrel `every now and then.`
+- [ ] [frequency] more often than not:             大半の場合 / `More often than not`, famine is accompanied by plague.
 - [ ] [long] for (N)s:                             I've been working for the company `for 6 months`.
 - [ ] [long] for half a (day | month | year):      I'll be living here `for half a year`.
 - [ ] [long] the entire week:
@@ -151,11 +152,13 @@
 - [ ] [as] on impulse:                             I'm apt to buy things `on impulse` whenever something is on sale.
 - [ ] [as] out of habit:                           I got the Namboku line `out of habit.`
 - [ ] [emphasis] if anything:                      どちらかというと / But now, `if anything,` they are making too much of it.
+- [ ] [emphasis] more of:                          どちらかというと / I think he is `more of` an entertainer.
 - [ ] [emphasis] in itself`:                        The revolution`in itself`, bore no fruit, after all.
 - [ ] [emphasis] just out of curiosity:            `Just out of curiosity,` why did you come to Japan?
 - [ ] [emphasis] just:                             Are you tired of traditional learning methods that just don't work?
 - [ ] [emphasis] much to the relief of O:          O が安心したことには、
 - [ ] [emphasis] no more than A:                   = only A
+- [ ] [emphasis] pretty much:                      ほとんど / This is `pretty much` done.
 - [ ] [how] amid O:                                フォーマルな during, in the middle of
 - [ ] [how] at heart:                              Since Bob is lazy `at heart`, he frequently neglects his duties.
 - [ ] [how] at the expense of:                     犠牲にして / He got promoted `at the expense of` his colleague.
