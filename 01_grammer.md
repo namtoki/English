@@ -74,6 +74,21 @@
 - [ ] [of] 関連 `think/know/hear 等とともに`:         What do you think `of` the new plan?
 - [ ] [of] の中で:                                  `of all dishes served at the Cafe`, the Chef's Special Pizza is the most popular.
 - [ ] [of] その他 `性質 年齢 所有 主格 目的 同格..`:  a story `of` love / a girl `of` ten / the love `of` God / the love `of` nature / the island `of` Honshu
+- [ ] [on] 位置 `接触`:                               There are several pens `on` your desk.
+- [ ] [on] 時 `日にち、曜日 (のとある時間帯)`:        The symposium will begin `on` July 15.
+- [ ] [on] 支点,依存:                               Lie `on` your belly.
+- [ ] [on] 支点,依存:                               Lie `on` your belly.
+- [ ] [on] 対象 `に向かって、に対して`:               Someone was tapping `on` the door.
+- [ ] [to] 到達点、範囲:                            Is this the way `to` the station?
+- [ ] [to] 対象 `にとって、に対して`:                 We should try to be kind `to` others.
+- [ ] [to] 結合,一致:                               Please attach the file `to` your e-mail.
+- [ ] [to] 比較:                                    I cannot but feel inferior `to` others in my class.
+- [ ] [with] 同伴:                                  Will you please dance `with` me?
+- [ ] [with] 所有:                                  There was a girl `with` beautiful red hair on the bench.
+- [ ] [with] 携帯:                                  I have almost no money `with` me now.
+- [ ] [with] 付帯状況:                              Don't talk `with` your mouth full.
+- [ ] [with] 道具:                                  I opened the letter `with` a knife.
+- [ ] [with] 原因、理由:                            His eyes were glaring `with` excitement.
 
 ## OTHERS
 
