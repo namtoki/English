@@ -1,7 +1,7 @@
 # English
 
 - [Grammer (Basic)](01_grammer.md)
-- [Usage (Tag)](02_usage_tag.md)
+- [Sentence Modifying](02_sentence_modifying.md)
 - [Usage (Cliche)](03_usage_cliche.md)
 - [Usage (Structure)](04_usage_structure.md)
 - [Usage (Verb)](05_usage_verb.md)

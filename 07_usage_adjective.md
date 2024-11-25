@@ -21,6 +21,7 @@
 - [ ] [number] a number of:                         There are `a number of` factors discouraging us from investing in stocks.
 - [ ] [number] a wealth of:                         豊富な
 - [ ] [number] all | entire | whole:                全ての | 少しも残さず全て | まるごと全て
+- [~] [emphasis] among the 最上級 複数形:           = one of ...
 - [~] [emphasis] that ... ?:                        そんなに ...？ / Wow! That good?
 
 ## LIMITED
