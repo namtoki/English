@@ -213,3 +213,6 @@
 - [ ] be soaked:                                  びしょ濡れ / I'm soaked with sweat.
 - [ ] be under way:                               進行中 / The negotiations are under way.
 - [ ] be black and white:                         明らかな / Things in life are never black and white.
+- [ ] cut corners:                                手を抜く / You shouldn't cut corners.
+- [ ] cut to the chase:                           要点を言う / Since we've only got five minutes, I'm going to cut to the chase.
+- [ ] come/get home (from work/school):           帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.

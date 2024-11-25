@@ -115,6 +115,7 @@
 - [ ] [opinion] I don't know the first thing about: ちっともわからない / I don't know `the first thing about` writing movies.
 - [ ] [opinion] Just give it time.:                 時間が解決してくれる / Dating is a nightmare. `Just give it time.`
 - [ ] [opinion] keep one's chin up:                 元気を出してがんばれ
+- [ ] it's clearing up:                           晴れてきた
 
 ## WORK
 
