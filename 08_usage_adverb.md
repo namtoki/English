@@ -159,6 +159,7 @@
 - [ ] [emphasis] much to the relief of O:          O が安心したことには、
 - [ ] [emphasis] no more than A:                   = only A
 - [ ] [emphasis] pretty much:                      ほとんど / This is `pretty much` done.
+- [ ] [how] kind of:                               なんか / I'm `kind of` hungry.
 - [ ] [how] amid O:                                フォーマルな during, in the middle of
 - [ ] [how] at heart:                              Since Bob is lazy `at heart`, he frequently neglects his duties.
 - [ ] [how] at the expense of:                     犠牲にして / He got promoted `at the expense of` his colleague.
@@ -190,6 +191,7 @@
 - [ ] [how] up-front:                              This hotel requires a cash deposit `up-front.`
 - [ ] [how] with each passing day/year:            日を追うごとに
 - [ ] [how] lightly:                               そっと歩く / She seems angry, you should tread `lightly`
+- [ ] [how] no doubt:                              疑いようもなく / His policy will `no doubt` lead to dismal consequences.
 - [ ] [objective] for a rainy day:                 I decided to put some aside `for a rainy day.`
 - [ ] [objective] for the purpose of V-ing:
 - [ ] [objective] in (the) hope(s) of/that S V:    I didn't phone till four o'clock `in the hope that` you'd be finished.
@@ -210,4 +212,5 @@
 - [ ] [where] directly accross from:               の真向かいに
 - [ ] [where] down there:
 - [ ] [where] in the course of:                    `In the course of` its economic development, Japan has ...
+- [ ] [where] (O) out of (O):                      We have watched `4 out of 5` seasons.
 - [ ] [where] up there:

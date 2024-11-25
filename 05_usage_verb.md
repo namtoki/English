@@ -141,6 +141,7 @@
 - [ ] be in a class of ones own:                  別格である / They `are in a class of their own`.
 - [ ] be in the process of V-ing:
 - [ ] be in effect:                               有効である / a severe weather alert `is in effect` for the region as of six A.M.
+- [ ] be in for:                                  直面しそうだ / Looks like we'll `be in for` some wet weather over the next few days.
 - [~] be of service:                              の手助けになる, に役立つ / I'm glad I could `be of service`.
 - [~] be open to any O:                           I`'m open to any` suggestions you may have for changes.
 - [ ] be out of the question:                     Going to the party `is out of the question`!

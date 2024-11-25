@@ -112,6 +112,9 @@
 - [ ] [opinion] Take your time with O:              `Take your time with` this project.
 - [ ] [opinion] I'm still working on it:            今やっている最中です / まだ食べている途中です
 - [ ] [opinion] That's not the way I see it:        違う見方をしています
+- [ ] [opinion] I don't know the first thing about: ちっともわからない / I don't know `the first thing about` writing movies.
+- [ ] [opinion] Just give it time.:                 時間が解決してくれる / Dating is a nightmare. `Just give it time.`
+- [ ] [opinion] keep one's chin up:                 元気を出してがんばれ
 
 ## WORK
 
@@ -119,3 +122,5 @@
 - [~] [remote] Could you type it in the chat?:
 - [~] [remote] I can't see O:                       `I can't see` you/the material/the notes.
 - [~] [remote] I was on mute.:
+- [ ] S have come a long way:                     すごい進んだ / Yeah. We'`ve really come a long way.`
+- [ ] S have a long way:                          まだ先は長い / I was, but I still `have a long way` to go.

@@ -13,6 +13,8 @@
 - [ ] [opinion] first/Most of all:                  `First of all,` learn the formula by heart.
 - [ ] [opinion] now that:                           `Now that` things are better, we should talk about the problem.
 - [ ] [opinion] the reason being that:              というのも / `The reason being that,` I didn’t want to relocate.
+- [ ] [opinion] in which case:                      Scott might be on vacation, `in which case,` just touch base with Aaron.
+- [ ] [opinion] in that case:                       `In that case,` I’ll have a beer.
 - [~] [stance] this might be just me, but:          自分だけかもしれないけど
 - [~] [stance] the fact is,:                        実を言うと / `The fact is,` I don't have enough money.
 - [~] [stance] off the top of my head:              思いつくままに言うと / `Off the top of my head,` I think it's wrong.
@@ -31,8 +33,12 @@
 - [ ] [stance] I hope you don't mind if:            ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
 - [ ] [stance] you know as well as I do that:       ご存じかと思いますが / `You know as well as I do that` this is very important.
 - [ ] [stance] Don't get me wrong, but:             誤解しないでほしいんだけど
+- [ ] [stance] what's more:                         I met the man by chance. He's gentle and smart. `What's more,` he's single.
+- [ ] [stance] what's worse:
+- [ ] [stance] to make matters worse:               `To make matters worse,` he isn't even conscious of annoying us.
 - [ ] [reason] against this background:             このような背景のもと、(結果)
 - [~] [conclusion] you know what I mean?:           言ってることわかります？
 - [~] [conclusion] if that makes sense.:            言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
 - [~] [conclusion] or not really?:                  それとも違う？ / Do you like this kind of music`, or not really?`
 - [ ] [conclusion] or what?:                        それとも違う？ / Are we gonna have fun`, or what?`
+- [ ] and the next thing I knew:                  I felt dizzy, `and the next thing I knew` I was ...

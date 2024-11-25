@@ -5,6 +5,10 @@
 - [~] [kind] things/something like that:            そのへん / I think he's learning Spanish or `something like that`, if that makes sense.
 - [~] [kind] things like ..:                        `Things like` party hats, paper plates and napkins.
 - [ ] [kind] some kind of ..:                       ある種の / He was born with `some kind of` special talent. / `some kind of` sport
+- [ ] [kind] some kinds of ..:                      あらゆる / amplify the effects of `some kinds of` pollution
+- [ ] [kind] all kinds of ..:                       すべての / I've been eating `all kinds of` things.
+- [ ] [kind] everything about ..:                   すべての / He knows `everything about` movies.
+- [ ] [kind] like ..:                               だいたい / There were only `like` thirty people there.
 - [~] [kind] .. of a kind/sort:                     ある種の
 - [~] [kind] .. kind of thing:                      みたいなもの / This is a flip phone `kind of thing` but a bit different.
 - [~] [kind] .. and so on:                          I'm tired of doing the dished, doing the laundry, `and so on!`
@@ -27,6 +31,11 @@
 - [ ] last-minute:                                土壇場の
 - [ ] neighborly:                                 隣人の 親切な
 - [ ] best-in-class:                              最高クラスの
+- [ ] whole other:                                全然違う / That's a `whole other` problem.
+- [ ] way better:                                 much better / That's just hype. I know `way better` places.
+- [ ] each and every:                             ひとつひとつの / `each and every one of` these questions
+- [ ] scorching:                                  焼きつくような / It's `scorching hot` today.
+- [ ] boiling:                                    うだるような / This room is `boiling hot`.
 
 ## DISCRIPTIVE
 
