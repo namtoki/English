@@ -2,11 +2,6 @@
 
 ## FOCUS
 
-- [~] [switch] going back to O:                    `Going back to` your question, my answer is no.
-- [~] [switch] off-topic, but:                     Bit `off-topic, but` I just finished editing the video.
-- [ ] [switch] anyway:                             That’s a funny story. `Anyway,` he is late today, isn’t he?
-- [ ] [switch] in any case:                        `In any case,` the union has to compromise to a certain extent.
-- [ ] [switch] by the way:
 - [~] [zoom] (more) broadly speaking,:
 - [~] [zoom] O-wise:                               `Staffing-wise,` I think it’s all right.
 - [~] [zoom] in V-ing O:                           `In making a decision,` I rely not on logic but on instinct.
