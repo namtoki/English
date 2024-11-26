@@ -7,7 +7,6 @@
 - [~] [zoom] in V-ing O:                           `In making a decision,` I rely not on logic but on instinct.
 - [~] [zoom] in terms of O:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
 - [~] [zoom] speaking of which/O:                  `Speaking of summer,` where did you go this year?
-- [~] [zoom] when it comes to O:                   `When it comes to` the weather, there’s nothing I can do.
 - [ ] [zoom] about O:                              `About` the food ... it is bad.
 - [ ] [zoom] on O:                                 thesis `on` education
 - [ ] [zoom] regarding O:                          `Regarding` the subject above,,,

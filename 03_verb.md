@@ -83,6 +83,7 @@
 - [ ] go do:                                      do しにいく / Do you want to go have lunch?
 - [ ] go into:                                    投入される / Nearly 1000 hours of work `went into` the project.
 - [ ] go into:                                    詳しく述べる / 通じる / 凝りだす / 投入される
+- [~] go after:                                   追い求める / The more I `went after` what I thought were my goal,
 - [ ] hope for:                                   当てにする / We have been `hoping for` a pay raise.
 - [ ] invite sb over sth:                         sb を sth に招待する / I `invited` some friends and family `over` for lunch.
 - [ ] look into:                                  調べる / I want to `look into` the murder case more closer because something is strange.
@@ -112,6 +113,8 @@
 - [ ] wrap up:                                    切り上げる / We hope to `wrap up` the negotiations at the next meeting.
 
 ## OTHERS
+
+- [~] have come a long way:                       すごい進んだ / Yeah. We'`ve really come a long way.`
 
 - [~] [SVOC] get O C:                               This song always `gets me feeling` some type of way.
 - [~] [SVOC] have O C:                              I `had my hair cut`.

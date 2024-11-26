@@ -123,5 +123,4 @@
 - [~] [remote] Could you type it in the chat?:
 - [~] [remote] I can't see O:                       `I can't see` you/the material/the notes.
 - [~] [remote] I was on mute.:
-- [ ] S have come a long way:                     すごい進んだ / Yeah. We'`ve really come a long way.`
 - [ ] S have a long way:                          まだ先は長い / I was, but I still `have a long way` to go.

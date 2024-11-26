@@ -29,6 +29,7 @@
 - [ ] I hate to admit it, but:                    認めたくないけど / `I hate to admit it, but` I might need your help.
 - [ ] I hope I'm not interrupting you,:           ご迷惑でなければいいのですが
 - [ ] I hope you don't mind if:                   ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
+- [ ] I also feel that:                           私も同じ考えで / `I also feel that` it's a great idea to build a daycare facility next to our building.
 - [~] That's a fair point, but:                   それはもっともですが、
 - [ ] as it is:                                   今のところ / `As it is,` ordinary people cannot afford to purchase such luxuries.
 - [ ] as sb anticipated:                          予測していた通り / `As we anticipated,` the unemployment rate has risen ....
@@ -41,6 +42,7 @@
 - [ ] if you think about it:                      考え方によっては / It's crazy how we can communicate like this`, if you think about it.`
 - [ ] in one's defence:                           言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
 - [ ] it goes without saying that:                言うまでもないが / `It goes without saying that` the aging of society is inevitable.
+- [ ] it may sound like:                          のように聞こえるかもしれないが / `It may sound like` I'm being self-centered here,
 - [ ] now that:                                   いまや / `Now that` things are better, we should talk about the problem.
 - [~] off the top of my head:                     思いつくままに言うと / `Off the top of my head,` I think it's wrong.
 - [ ] speaking from experience:                   私の経験から言うと
@@ -48,6 +50,10 @@
 - [ ] the way I see it:                           私の見解では / `The way I see it`, it's too simplistic to say that ...
 - [ ] this might be just me, but:                 自分だけかもしれないけど
 - [ ] you know as well as I do that:              ご存じかと思いますが / `You know as well as I do that` this is very important.
+
+## CONDITION
+
+- [~] when it comes to O:                         ということになると / `When it comes to` the weather, there’s nothing I can do.
 
 ## CONCLUSION
 
