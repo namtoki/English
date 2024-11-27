@@ -36,6 +36,7 @@
 - [ ] take the plunge and:                        思い切ってした /
 - [ ] have yet to:                                まだしていない
 - [ ] be getting A:                               adj になってきた / I'm getting tired of them.
+- [ ] be something that:                          ということだ / Satisfying customers with innovative and high-quality products `is something that` will remain ...
 
 ## PHRASAL VERB
 
@@ -150,6 +151,7 @@
 - [ ] be out of the question:                     Going to the party `is out of the question`!
 - [ ] be propped up against:                      立てかけられている
 - [~] be tasked with V-ing:                       する任務を負う / I`'m tasked with helping` people cope with the stressful situations.
+- [~] be/stay/remain on hand:                     待機する / She'll `be on hand` to her books and speak with fans until...
 - [ ] bring back memories:                        This song `brings back memories!`
 - [~] bring/get A up to speed:                    最新情報に追いつかせる / We need to `bring newbies up to speed` on our project as quickly as possible.
 - [ ] can wait:                                   Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
@@ -219,3 +221,7 @@
 - [ ] cut corners:                                手を抜く / You shouldn't cut corners.
 - [ ] cut to the chase:                           要点を言う / Since we've only got five minutes, I'm going to cut to the chase.
 - [ ] come/get home (from work/school):           帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
+
+
+- [ ] [vi.] hope for:                               望む / We are `hoping for` some rain.
+- [ ] [vi.] argue against:                          反論する
