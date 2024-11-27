@@ -38,6 +38,10 @@
 - [ ] be getting A:                               adj になってきた / I'm getting tired of them.
 - [ ] be something that:                          ということだ / Satisfying customers with innovative and high-quality products `is something that` will remain ...
 
+## STATIVE
+
+- [ ] be/get a mess:                              混乱している / I `get a mess`.
+
 ## PHRASAL VERB
 
 - [ ] add up:                                     納得がいく / It `doesn't add up` at all.

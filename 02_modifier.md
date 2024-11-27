@@ -13,6 +13,7 @@
 - [x] [addition] in that case:                      その場合は / `In that case,` I’ll have a beer.
 - [ ] [addition] against this background:           このような背景のもと、(結果)
 - [ ] [addition] and the next thing I knew:         次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
+- [~] [addition] (more) broadly speaking:           一般的に言うと
 - [ ] [summary] simply put:                         簡単に言うと / `Simply put,` he doesn't like sports.
 - [ ] [summary] all things considered:              全て考慮に入れると / `All things considered`, that was a successful event.
 - [ ] [summary] in any case:                        いずれにしろ / `In any case,` the union has to compromise to a certain extent.

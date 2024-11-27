@@ -2,7 +2,6 @@
 
 ## FOCUS
 
-- [~] [zoom] (more) broadly speaking,:
 - [~] [zoom] O-wise:                               `Staffing-wise,` I think it’s all right.
 - [~] [zoom] in V-ing O:                           `In making a decision,` I rely not on logic but on instinct.
 - [~] [zoom] in terms of O:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
