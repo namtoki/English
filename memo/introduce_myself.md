@@ -22,7 +22,6 @@ I usually enjoy watching their games.
 I work as a software engineer at an audio equipment manufacturer.
 
 Actually, I changed jobs last October.
-And it's American owned company. So I have to got to use English.
-So I also entered Oneup Eikaiwa.
+And it's American owned company. So I have to get to use English.
 
 Um, that's about it.
