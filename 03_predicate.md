@@ -1,5 +1,79 @@
 # USAGE (VERB)
 
+## IT
+
+- [~] It's C how S V:                             と思う / `It's interesting how` you said that.
+- [ ] It feels like O:                            のように感じる / I remember my first day of high school. `It feels like` yesterday.
+- [ ] It's like O:                                みたいなものだ / `It's like` surfing on land.
+- [ ] It's kind of like O:                        みたいなものだ / `It's kind of like` a noodle, but not exactly.
+- [ ] It’s almost like O:                         ほぼ、みたいなものだ / `It’s almost like` Christmas.
+- [ ] It's not that S V:                          というわけではない / `It's not like` Joe is a bad guy. He is just shady sometimes.
+- [ ] (It's) not that .. but (that) ..:           というわけではなく、だ
+- [ ] It's not like S V:                          というわけではなくて、、 /
+- [ ] It's more like S V:                         なんというかむしろ、だ /
+- [ ] It's more that S V:                         むしろ、だ /
+- [ ] It's just that S V:                         というだけだ
+- [ ] It's the fact that S V:                     だからだ / But not because it's so big. `It's the fact that` it's so diverse.
+- [ ] It's not the fact that S V:                 だからではない / `It's not the fact that` I find him boring.
+- [ ] It's not just the fact that S V:            という理由だからだけではない / `It's not just the fact that` you called me during a meeting.
+- [~] It wouldn't hurt to:                        するに越したことはない / `It wouldn't hurt to` have some English skills, even though they're not strictly required ...
+- [~] It seems like S V:                          のように見える / `It seems like` it's a mixture of two languages.
+- [~] It seems as if/though S V:                  まるでのように見える / `It seems as if` he knew everything.
+- [~] It could be (that):                         かもしれない / `It could be that` Wayne's just naturally fit, but ,,,
+- [~] It occurs to me that S V:                   ふと思ったんだけど / `It occurs to me that` I've never asked your name.
+- [~] It depends O:                               による / `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
+- [~] It's up in the air whether S V:             かどうか決まっていない / `It's up in the air whether` the game will be called off or not.
+- [ ] It's no use V-ing:                          しても無駄 / `It's no use` polishing it.
+- [ ] It doesn't mean anything:                   意味がない / `It doesn't mean anything` to me anymore.
+- [ ] It's a custom to:                           する習慣だ / `It's a custom to` take off your shoes before entering ...
+- [ ] It's traditional to:                        する習慣だ / In Japan, `it's traditional to` visit ...
+- [ ] It's been a while since S V:                久しぶり / `It's been a while since` I've swung a tennis racket.
+- [ ] It's been a long time since S V:            久しぶり
+- [ ] It's been ages since:                       久しぶり
+
+## I
+
+- [ ] I believe (that) S V:                       に違いない / `I believe` she drives a white truck.
+- [ ] I believe in O:                             信じていない / `I don't believe in` ghosts.
+- [~] I don't remember:                           覚えていない
+- [~] I can't remember:                           思い出せない
+- [ ] I can't tell you how much S V:              言い表せないくらいだ / `I can't tell you how much` I loved it.
+- [ ] I didn't mean it:                           そんなつもりはなかった
+- [ ] I don't care for O:                         `I don't care for` spicy food.
+- [ ] I doubt (that) S V:                         `I doubt that` he will win the race.
+- [ ] I doubt (that):                             `I doubt that` it would be too much of a problem.
+- [ ] I feel C:                                   `I feel bad` about canceling.
+- [ ] I feel like C:                              `I feel like` an idiot.
+- [ ] I feel like O:                              `I feel like` Thai food. I don't feel like it.
+- [ ] I feel like S V:                            `I feel like` there is a ton of bricks on my lap.
+- [ ] I feel like V-ing:                          `I feel like` going out somewhere.
+- [ ] I find O C:                                 `I find it really interesting` to study English.~
+- [ ] I have a feeling/hunch that S V:            `I have a feeling that` there's more to it.
+- [ ] I have to say S V:                          `I have to say` your place is adorable!
+- [ ] I have trouble V-ing:                       `I have trouble` getting to sleep. / `I have trouble` making friends.
+- [ ] I hope S V:                                 `I hope` it doesn't rain.
+- [ ] I remember S V:                             `I remember` you went there last year.
+- [ ] I say S V:                                  `I say` it's time you force the issue.
+- [ ] I see you have V:                           `I see you've` finished planting the shrubs.
+- [ ] I suppose (that) S V:                       In that case, `I suppose` I'd like to come and take a look at it.
+- [ ] I suspect (that) S V:                       `I suspect that` Tom stole the wallet.
+- [ ] I told you O, right?:                       `I told you` about my dad, `right?`
+- [ ] I understand that S V:                      `I understand that` you speak a little English.
+- [ ] I was just saying:                          No! `I was just saying` ... it's a new look for you.
+- [ ] I will never V again!:                      `I will never climb` Mt.Fuji `again!`
+- [ ] I wish S V:                                 `I wish` I spoke French.
+- [ ] I won't know until (time):                  `I won't know until` Friday.
+- [ ] I wonder if S V:                            `I wonder if` this game is played all over the world.
+- [ ] I'd say (that) S V:                         `I'd say` it's usually more art than science.
+- [ ] I'll admit S V:                             `I'll admit`, for a while outside it was a bike,
+- [ ] I'm in the mood for O:                      `I'm not in the mood.`
+- [ ] I'm in the mood to V:                       `I'm in the mood to` watch a movie.
+- [ ] I'm just trying to V:                       `I'm just trying to` explain what happened.
+- [ ] I'm more than happy to V:                   `I’m more than happy to` answer any questions,
+- [ ] I'm sure (that) S V:                        `I am sure that` I will enjoy the movie.
+- [ ] I'm sure of (sth):                          `I am sure of` enjoying the movie.
+- [ ] I'm terrible with O:
+
 ## AUXILIARY+V
 
 - [~] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
@@ -40,37 +114,6 @@
 ## AUXILIARY+THAT
 
 - [ ] be of the opinion that:                     と見ている / Many experts `are of the opinion that` its recovery will lead to worldwide economic growth.
-
-## IT
-
-- [~] [opinion] It's C how S V:                     と思う / `It's interesting how` you said that.
-- [ ] [opinion] It feels like O:                    のように感じる / I remember my first day of high school. `It feels like` yesterday.
-- [ ] [opinion] It's like O:                        みたいなものだ / `It's like` surfing on land.
-- [ ] [opinion] It's kind of like O:                みたいなものだ / `It's kind of like` a noodle, but not exactly.
-- [ ] [opinion] It’s almost like O:                 ほぼ、みたいなものだ / `It’s almost like` Christmas.
-- [ ] [opinion] It's not that S V:                  というわけではない / `It's not like` Joe is a bad guy. He is just shady sometimes.
-- [ ] [opinion] (It's) not that .. but (that) ..:   というわけではなく、だ
-- [ ] [opinion] It's not like S V:                  というわけではなくて、、 /
-- [ ] [opinion] It's more like S V:                 なんというかむしろ、だ /
-- [ ] [opinion] It's more that S V:                 むしろ、だ /
-- [ ] [opinion] It's just that S V:
-- [ ] [opinion] It's the fact that S V:           But not because it's so big. `It's the fact that` it's so diverse.
-- [ ] [opinion] It's not the fact that S V:       `It's not the fact that` I find him boring.
-- [ ] [opinion] It's not just the fact that S V:  `It's not just the fact that` you called me during a meeting.
-- [~] [opinion] It wouldn't hurt to:                するに越したことはない / `It wouldn't hurt to` have some English skills, even though they're not strictly required ...
-- [~] [opinion] It seems like S V:                  のように見える / `It seems like` it's a mixture of two languages.
-- [~] [opinion] It seems as if/though S V:          まるでのように見える / `It seems as if` he knew everything.
-- [~] [opinion] It could be (that):                 かもしれない / `It could be that` Wayne's just naturally fit, but ,,,
-- [~] [opinion] It occurs to me that S V:           ふと思ったんだけど / `It occurs to me that` I've never asked your name.
-- [~] [opinion] It depends O:                       による / `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
-- [~] [opinion] It's up in the air whether S V:     かどうか決まっていない / `It's up in the air whether` the game will be called off or not.
-- [ ] [opinion] It's no use V-ing:                  しても無駄 / `It's no use` polishing it.
-- [ ] [opinion] It doesn't mean anything:           意味がない / `It doesn't mean anything` to me anymore.
-- [ ] It's a custom to:                           する習慣だ / `It's a custom to` take off your shoes before entering ...
-- [ ] It's traditional to:                        する習慣だ / In Japan, `it's traditional to` visit ...
-- [ ] It's been a while since S V:                久しぶり / `It's been a while since` I've swung a tennis racket.
-- [ ] It's been a long time since S V:            久しぶり
-- [ ] It's been ages since:                       久しぶり
 
 - [ ] be getting A:                               adj になってきた / I'm getting tired of them.
 
@@ -276,60 +319,26 @@
 - [見聞] [物事] They charge O:                    `They charge` a delivery fee.
 - [見聞] [物事] There're times when S V:          `There're times when I crave` a Starbucks Frappuccino really badly.
 - [見聞] [多分] S seems to be:                    `It seems to be broken.`
-- [見聞] [多分] I see you have V:                 `I see you've` finished planting the shrubs.
 - [主観] [多分] S be      likely to V:            `It's likely to` rain tomorrow.
 - [主観] [多分] S be more likely to V:            In engineering, people `are more likely to` work in their field.
 - [主観] [多分] S be less likely to V:            `It's less likely to` get broken.
-- [主観] [多分] I'd say (that) S V:               `I'd say` it's usually more art than science.
-- [主観] [多分] I suppose (that) S V:             In that case, `I suppose` I'd like to come and take a look at it.
-- [主観] [多分] I have a feeling/hunch that S V:  `I have a feeling that` there's more to it.
-- [主観] [多分] I'm sure (that) S V:              `I am sure that` I will enjoy the movie.
-- [主観] [多分] I'm sure of (sth):                `I am sure of` enjoying the movie.
 - [主観] [多分] S be sure to V:                   You `are sure to` see many animals there.
 - [主観] [多分] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
 - [主観] [多分] Chances are (that) S V:           It's foggy. But `chances are` it'll clear up later on.
 - [主観] [多分] There's a high       chance of O: `There's a high chance of` a domino effect.
 - [主観] [多分] There's a low/little chance of O: `There's a low chance of` rain tonight.
-- ~[主観] [意見] I find O C:                       `I find it really interesting` to study English.~
-- [主観] [意見] I believe in O:                   `I don't believe in` ghosts.
-- [主観] [意見] I believe (that) S V:             `I believe` she drives a white truck.
-- [主観] [意見] I can't remember:
 - [主観] [意見] S slipped my mind:                Your birthday party completely `slipped my mind`.
 - [主観] [意見] S be a blur:                      Last weekend `was a blur`.
-- [主観] [意見] I doubt (that):                   `I doubt that` it would be too much of a problem.
-- [主観] [意見] I won't know until (time):        `I won't know until` Friday.
 - [主観] [意見] The same is the case with O:      `The same is the case with` "hear" and "about".
 - [主観] [意見] Turns out S V:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [主観] [意見] My concern (for O) is (that) S V: You show a lot of promise … but `my concern is` I don’t know where to book you.
 - [主観] [意見] ~~~. That I V:                    Yes, we need to spend less money. `That I` agree with.
 - [主観] [意見] S V-ing. That is C:               `This ramen shop putting whipped cream in soup, that's` gross.
 - [主観] [意見] S V-ing, that'd be C:             A Starbucks opening right next to my apartment, `that'd be` amazing.
-- [主観] [意見] I say S V:                        `I say` it's time you force the issue.
 - [主観] [意見] That sounds like:                 それは .. だね / `That sounds like` a lot of work.
-- [主観] [感情] I feel C:                         `I feel bad` about canceling.
-- [主観] [感情] I hope S V:                       `I hope` it doesn't rain.
-- [主観] [感情] I wish S V:                       `I wish` I spoke French.
 - [主観] [感情] S know all too well ...:          We `know all too well` how fast the weather can change here; last year our wedding got rained out.
-- [主観] [感情] I will never V again!:            `I will never climb` Mt.Fuji `again!`
-- [主観] [気分] I feel like O:                    `I feel like` Thai food. I don't feel like it.
-- [主観] [気分] I feel like C:                    `I feel like` an idiot.
-- [主観] [気分] I feel like V-ing:                `I feel like` going out somewhere.
-- [主観] [気分] I feel like S V:                  `I feel like` there is a ton of bricks on my lap.
-- [主観] [気分] I'm in the mood for O:            `I'm not in the mood.`
-- [主観] [気分] I'm in the mood to V:             `I'm in the mood to` watch a movie.
-- [主観] [気分] I'm more than happy to V:         `I’m more than happy to` answer any questions,
 - [主観] [嗜好] Special thanks go to O:
-- [主観] [嗜好] I'm terrible with O:
-- [主観] [嗜好] I don't care for O:               `I don't care for` spicy food.
-- [主観] [嗜好] I have trouble V-ing:             `I have trouble` getting to sleep. / `I have trouble` making friends.
 - [主観] [嗜好] any O will do as long as S V:     `Any apartment will do as long as` the rent is low.
-- [主観] [嗜好] I can't tell you how much S V:    `I can't tell you how much` I loved it.
-- [主観] [疑問] I wonder if S V:                  `I wonder if` this game is played all over the world.
-- [主観] [疑問] I doubt (that) S V:               `I doubt that` he will win the race.
-- [主観] [疑問] I suspect (that) S V:             `I suspect that` Tom stole the wallet.
-- [訂正] I didn't mean it.:
-- [訂正] I was just saying:                     No! `I was just saying` ... it's a new look for you.
-- [訂正] I'm just trying to V:                  `I'm just trying to` explain what happened.
 - [補足] [訂正] ~~. That's not to say (that) S V: `That's not to say that` it'll be impossible without it, but,,,
 - [補足] [理由] just because ... doesn't mean:    `Just because` he smiles a lot `doesn't mean` he's kind.
 - [補足] [理由] [直接] A is caused by B:            The periodic change `was caused by` a faulty piece of equipment.
@@ -340,25 +349,20 @@
 - [補足] That's how:                            `That's how` we met.
 - [補足] That's the way S V:                    `That's the way` I like it. / `That's the way` I prefer it.
 - [補足] for one thing ,,, for another thing:   I can't put you up. `For one thing,` my dad drops in on me from time to time.
-- [返事] I'll admit S V:                        `I'll admit`, for a while outside it was a bike,
 - [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 - [比較] A doesn't have as much B as C:         He `doesn't have as much experience as` the other candidates.
 - [比較] A doesn't have as many B as C:         We `don't have as many poeple in our team as` we did last year.
 - [強調] This is the kind of thing that V:      `This is the kind of thing that` makes me really happy.
 - [強調] This is something S V:                 `This is something` a lot of people don't consider.
-- [謙遜] I have to say S V:                     `I have to say` your place is adorable!
 - [ ] [stance] be under the impression that:        だと思い込んでいる
 
 ## ASK
 
-- [beggining] I told you O, right?:             `I told you` about my dad, `right?`
 - [biggining] Did you hear O?:                  `Did you hear` about Kim? She got promoted.
 - [biggining] You know O?:                      `You know` our budget presentation today?
 - [biggining] You know that S V?:               `You know that` guy we met at the party last week?
 - [biggining] You know how S V?:                `You know how` I've been looking for a new TV for a while?
 - [biggining] Do you remember that O?:          `Do you remember that` bike at ABC Departmment Store?
-- [biggining] I remember S V:                   `I remember` you went there last year.
-- [biggining] I understand that S V:            `I understand that` you speak a little English.
 - ~[request] Could you V?:                       `Could you` say that again?~
 - ~[request] Would you V?:                       `Would you` get me that box?~
 - ~[request] i'd like you to V:~
