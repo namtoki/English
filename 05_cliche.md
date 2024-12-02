@@ -126,3 +126,58 @@
 - [~] [remote] I can't see O:                       `I can't see` you/the material/the notes.
 - [~] [remote] I was on mute.:
 - [ ] S have a long way:                          まだ先は長い / I was, but I still `have a long way` to go.
+
+## ASK
+
+- [biggining] Did you hear O?:                  `Did you hear` about Kim? She got promoted.
+- [biggining] You know O?:                      `You know` our budget presentation today?
+- [biggining] You know that S V?:               `You know that` guy we met at the party last week?
+- [biggining] You know how S V?:                `You know how` I've been looking for a new TV for a while?
+- [biggining] Do you remember that O?:          `Do you remember that` bike at ABC Departmment Store?
+- ~[request] Could you V?:                       `Could you` say that again?~
+- ~[request] Would you V?:                       `Would you` get me that box?~
+- ~[request] i'd like you to V:~
+- [request] Would you mind V-ing?:              `Would you mind` doing that?
+- [request] I was wondering if you could V?:    `I was wondering if you could` do me a favor.
+- [request] I'd be grateful if you could V?:    `I would be grateful if you could` give us an ...
+- [request] I need you to V:                    `I need you to` lead the presentation.
+- [request] Do you think you could V?:          `Do you think you could` talk to her?
+- [request] Please do me a favor and V?:        `Please do me a favor and give` me a ride to Times Square.
+- [request] Would it be possible to V?:         `Would it be possible to` have the invoice ready by the 15th?
+- ~[permit] Could I V?:                          `Could I` get a sandwich please?~
+- [permit] Is it OK/alright if S V?:            `Is it OK if` I park here?
+- [permit] Would you mind if S V?:              `Do you mind if` I stop by your house?
+- [permit] Would you mind S V-ing?:             `Would you mind` my opening the window?
+- [permit] I was wondering if S could V:        `I was wondering if` you `could` do me a favor.
+- [permit] Do you think I could V?:             `Do you think I could` get your number?
+- [opinion] How do you like O?:                 `How do you like` your new shoes?
+- [opinion] Which do you prefer?:               `Which do you prefer`, going to the movies or watching films at home?
+- [opinion] Does that sound C?:                 `Does that sound` good?
+- [opinion] What's your take on?:
+- [opinion] What do you think about O?:         `What do you think about` moving to Osaka?
+- [opinion] How do you feel about O?:           `How do you feel about` the service in Japan?
+- [opinion] How long until S V?:                `How long until` he comes back? (How long is it going to be until S V の省略)
+- [opinion] How long since S V?:                `How long since` you met him? (How long has it been since S V の省略)
+- [opinion] What's the situation with O?:
+- [opinion] What are the chances that S V?:     `What are the chances that` the meeting will finish early?
+- [opinion] Let me ask you O:                   `Let me ask you` your honest opinion.
+- [suggestion] Would you like O?:               `Would you like` some more?
+- [suggestion] Would you like to V?:            `Would you like to` watch it together?
+- [suggestion] Would you rather V?:             `Would you rather` have Mr.Graham or Mr.Dannon assisting you on the project?
+- [suggestion] (Would you) care to V?:          `Would you care to` join me for a drink?
+- [suggestion] (Do you) want to V?:             `Do you want to` get some food first? / `Want to` get dinner?
+- [suggestion] How about V-ing?:                `How about sending` flowers?
+- [suggestion] Why don't S V?:                  `Why don't` you use this?
+- [suggestion] It might be a good idea to V:    `It might be a good idea to` read the reviews before you buy it.
+- [suggestion] it would be better if S V:       `Would it be better if` I got wet?
+- [offer] Would you like me to V:               `Would you like me to` open the window?
+- [offer] (Do you) want me to V:                `Do you want me to` cook dinner?
+- [offer] We'll see whether S V:                `We'll see whether` the newspapers print the story.
+- [question] What's the word for it?:
+- [question] What's it called?:
+- [question] what should I do?:                 `What should I do` in a situation like this?
+- [question] What can I do that V?:             `What can I do that` will make me a more well-rounded basketball player?
+- [question] (By) When ... ?:                   `(By) When` do I have to finish this?
+- [question] When was the last time S V?:       `When was the last time` you talked to him?
+- [question] Is A the same as B?:               `Is this the same skirt as` in the ad?
+- [question] What if S V?:                      `What if I` don't meet the deadline?
