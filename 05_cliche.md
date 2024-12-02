@@ -28,6 +28,8 @@
 - [ ] [agree] No doubt about it.:                   まったくその通りです
 - [ ] [agree] Sure thing:                           りょ
 - [ ] [agree] You have no idea.:                    まじでそうなんだよ
+- [ ] [agree] I will do that then:                  じゃあそうします
+- [ ] [agree] That's what I'll do:                  じゃあそうします
 - [ ] [busy] I'm V-ing ... at the moment.:          中だから邪魔しないで / Hang on. I'm just finishing up an email at the moment
 - [ ] [busy] I'm in the middle of something:        今手が離せない
 - [ ] [busy] I'm trying to ...                      中だから邪魔しないで / Hey, Toshi? I'm trying to work, Emily!

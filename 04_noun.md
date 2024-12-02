@@ -20,6 +20,7 @@
 - [ ] [preposition] impact on:                      に対する影響
 - [ ] [preposition] approach(es) to:                への取り組み
 - [ ] one of those days:                          最悪の日
+- [ ] all (~~~) but O:                            O を除いて全部 / `All of the members of the board of directors but one` were satisfied with ...
 
 ## CONCRETE
 

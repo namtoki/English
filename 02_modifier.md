@@ -59,6 +59,7 @@
 - [~] [zoom] O-wise:                               `Staffing-wise,` I think it’s all right.
 - [~] [zoom] in V-ing O:                           `In making a decision,` I rely not on logic but on instinct.
 - [~] [zoom] in terms of O:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- [~] [zoom] in light of O:                        を考慮に入れると
 - [~] [zoom] speaking of which/O:                  `Speaking of summer,` where did you go this year?
 - [ ] [zoom] about O:                              `About` the food ... it is bad.
 - [ ] [zoom] on O:                                 thesis `on` education
@@ -239,6 +240,7 @@
 - [ ] [how] with each passing day/year:            日を追うごとに
 - [ ] [how] lightly:                               そっと歩く / She seems angry, you should tread `lightly`
 - [ ] [how] no doubt:                              疑いようもなく / His policy will `no doubt` lead to dismal consequences.
+- [ ] [how] thus:                                  = in this way
 - [ ] [objective] for a rainy day:                 I decided to put some aside `for a rainy day.`
 - [ ] [objective] for the purpose of V-ing:
 - [ ] [objective] in (the) hope(s) of/that S V:    I didn't phone till four o'clock `in the hope that` you'd be finished.
