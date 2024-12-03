@@ -71,12 +71,6 @@
 - [ ] I'm sure of (sth):                          確信するよ / `I am sure of` enjoying the movie.
 - [ ] I'm terrible with O:                        嫌い
 
-## OTHER SUBJECTS
-
-- [~] S seems to V:                               のようだ (目の前の状況) `It seems to be broken.`
-- [~] S has given:                                知らされる / The official dates `haven't been given` to us yet.
-- [ ] S brings back memories:                     思い出させる / This song `brings back memories!`
-
 ## AUXILIARY+V
 
 - [~] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
@@ -116,38 +110,44 @@
 - [ ] hasten to:                                  急いでした / They `hastened to` execute the plan.
 - [ ] take the plunge and:                        思い切ってした /
 - [ ] have yet to:                                まだしていない
-- [ ] be something that:                          ということだ / Satisfying customers with innovative and high-quality products `is something that` will remain ...
+- [ ] be something that:                          ということだ / Satisfying customers with their products `is something that` will remain ...
+- [~] seems to:                                   のようだ (目の前の状況) `It seems to be broken.`
 
 ## AUXILIARY+THAT
 
 - [ ] be of the opinion that:                     と見ている / Many experts `are of the opinion that` its recovery will lead to worldwide economic growth.
-- [ ] be under the impression that:        だと思い込んでいる
+- [ ] be under the impression that:               だと思い込んでいる
 
 ## v.t
 
+- [ ] add up:                                     納得がいく / It `doesn't add up` at all.
+- [ ] be around:                                  近くにいる / He pretends to be enthusiastic when his boss `is around`.
 - [ ] be getting C:                               C になってきた / I`'m getting` tired of them.
 - [ ] be/get a mess:                              混乱している / I `get a mess`.
-- [~] have come a long way:                       すごい進んだ / Yeah. We'`ve really come a long way.`
-
-## v.i
-
-## OTHERS
-
-- [ ] add up:                                     納得がいく / It `doesn't add up` at all.
-- [ ] ask for:                                    請求する / The credit card company `asked for` the payment. / You are `asking for` it.
-- [ ] ask out:                                    誘う / He finally `asked Alice out`!
-- [ ] be around:                                  近くにいる / He pretends to be enthusiastic when his boss `is around`.
-- [ ] be for:                                     合う / That job `wasn't for` me.
-- [ ] be really into:                             ハマる / I`'m really into` ramen.
-- [ ] break apart (into):                         まで分解する / They even showed a tendency to `break apart into` A group and B group.
 - [ ] break away:                                 独立する / In the 1800s the South tried to break away from the Union.
 - [ ] break away:                                 逃げる / The calf is breaking away from the cowboy.
 - [ ] break down:                                 動力機械が壊れる / The washing machine has broken down again.
-- [ ] break in:                                   慣らす / I have to break in my new shoes.
 - [ ] break into:                                 会話に入る / Can I break in here?
+- [ ] break out:                                  起こる / The fire broke out in the middle of the night.
+- [ ] brings back memories:                       思い出させる / This song `brings back memories!`
+- [ ] doesn't have as many A as B:                B ほど A を持っていない / We `don't have as many poeple in our team as` we did last year.
+- [ ] doesn't have as much A as B:                B ほど A を持っていない / He `doesn't have as much experience as` the other candidates.
+- [ ] has given:                                  知らされる / The official dates `haven't been given` to us yet.
+- [ ] have come a long way:                       すごい進んだ / Yeah. We'`ve really come a long way.`
+
+## v.i
+
+- [ ] ask for:                                    請求する / The credit card company `asked for` the payment. / You are `asking for` it.
+- [ ] ask out:                                    誘う / He finally `asked Alice out`!
+- [ ] be for:                                     合う / That job `wasn't for` me.
+- [ ] be really into:                             ハマる / I`'m really into` ramen.
+- [ ] break apart (into):                         まで分解する / They even showed a tendency to `break apart into` A group and B group.
+- [ ] break in:                                   慣らす / I have to break in my new shoes.
 - [ ] break into:                                 侵入する / A burglar broke into my house over the weekend.
 - [ ] break into:                                 急にしだす / He broke into tears. She broke into laugher. / Sarah saw pandas and broke into a run.
-- [ ] break out:                                  起こる / The fire broke out in the middle of the night.
+
+## OTHERS
+
 - [ ] break through:                              突破する / The player broke through the defensive line. / The sun began to break through.
 - [ ] bring about:                                もたらす / Medical breakthroughs have brought about great benefits for humanity as a whole.
 - [ ] bring around:                               連れていく / We finally brought him around to our point of view .
@@ -341,5 +341,3 @@
 - [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
 - [補足] That's how:                            `That's how` we met.
 - [補足] That's the way S V:                    `That's the way` I like it. / `That's the way` I prefer it.
-- [比較] A doesn't have as much B as C:         He `doesn't have as much experience as` the other candidates.
-- [比較] A doesn't have as many B as C:         We `don't have as many poeple in our team as` we did last year.
