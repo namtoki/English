@@ -59,50 +59,58 @@
 - [ ] I told you O, right?:                       と言ったよね / `I told you` about my dad, `right?`
 - [ ] I understand that S V:                      だと理解したんだけど / `I understand that` you speak a little English.
 - [ ] I was just saying:                          と言いたかっただけ / No! `I was just saying` ... it's a new look for you.
-- [ ] I will never V again!:                      `I will never climb` Mt.Fuji `again!`
-- [ ] I wish S V:                                 `I wish` I spoke French.
-- [ ] I won't know until (time):                  `I won't know until` Friday.
-- [ ] I wonder if S V:                            `I wonder if` this game is played all over the world.
-- [ ] I'd say (that) S V:                         `I'd say` it's usually more art than science.
-- [ ] I'll admit S V:                             `I'll admit`, for a while outside it was a bike,
-- [ ] I'm in the mood for O:                      `I'm not in the mood.`
-- [ ] I'm in the mood to V:                       `I'm in the mood to` watch a movie.
-- [ ] I'm just trying to V:                       `I'm just trying to` explain what happened.
-- [ ] I'm more than happy to V:                   `I’m more than happy to` answer any questions,
-- [ ] I'm sure (that) S V:                        `I am sure that` I will enjoy the movie.
-- [ ] I'm sure of (sth):                          `I am sure of` enjoying the movie.
-- [ ] I'm terrible with O:
+- [ ] I will never V again!:                      もうしない / `I will never climb` Mt.Fuji `again!`
+- [ ] I wish S V:                                 だったらなぁ / `I wish` I spoke French.
+- [~] I won't know until (time):                  までわからない / `I won't know until` Friday.
+- [ ] I wonder if S V:                            かなぁ / `I wonder if` this game is played all over the world.
+- [~] I'd say (that) S V:                         と思う / `I'd say` it's usually more art than science.
+- [ ] I'm in the mood for O:                      の気分だ / `I'm not in the mood.`
+- [ ] I'm in the mood to V:                       する気分だ / `I'm in the mood to` watch a movie.
+- [ ] I'm more than happy to V:                   喜んでするよ / `I’m more than happy to` answer any questions,
+- [ ] I'm sure (that) S V:                        確信するよ / `I am sure that` I will enjoy the movie.
+- [ ] I'm sure of (sth):                          確信するよ / `I am sure of` enjoying the movie.
+- [ ] I'm terrible with O:                        嫌い
+
+## OTHER SUBJECTS
+
+- [~] S seems to V:                               のようだ (目の前の状況) `It seems to be broken.`
+- [~] S has given:                                知らされる / The official dates `haven't been given` to us yet.
+- [ ] S brings back memories:                     思い出させる / This song `brings back memories!`
 
 ## AUXILIARY+V
 
 - [~] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
 - [~] 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
-- [~] [suggestion] should:                          しなければならない (実際にはしないだろうけど) / We `should` ask first.
-- [~] [suggestion] need to:                         しなければならない (ほんまに) / I `need to` get back to the office.
-- [~] [suggestion] have to:                         しなければならない (迫ってきている感) / I `have to` go home.
-- [ ] [suggestion] gotta | have got to:             しなければならない (迫ってきている感) / I `gotta` go.
-- [x] [suggestion] had better:                      しなければならない (身のためだよ)
-- [~] [suggestion] (might) want to:                 してもいいかもしれない / You `want to` pull your fingers in like this.
-- [ ] [suggestion] might as well:                   してもいいかもしれない / You `might as well` walk home.
-- [x] [suggestion] would:                           自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
-- [~] [always] make it a rule to:                   するのを常としている / She `makes it a rule to` dispense with evening.
-- [~] [always] tend to:                             ついつい / I `tend to` eat a lot when I'm nervous.
-- [ ] [always] tend to:                             普段 / I `tend to` prefer non-fiction.
-- [ ] [always] tend to:                             たいてい / I `tend not to` remember my dreams.
-- [ ] [always] be supposed to:                      ものだ / Dolphins `are supposed to` be intelligent.
-- [ ] [always] be supposed to:                      ことになっている / On Valentine's Day, in Japan girls `are supposed to` give choco...
-- [~] [past] was/were like:                         という感じだった / When I ate Natto for the first time `I was like` what is this?
-- [~] [past] was supposed to:                       するはずだった (意思) / She `was supposed to` say yes.
-- [~] [past] was going to:                          するつもりだった (約束) / I `was going to` get the burger, but the salad looked so good.
-- [ ] [past] used to:                               していたものだ / I `used to` read every day.
-- [ ] [past] ended up V-ing:                        結局した / I `ended up staying` home.
-- [ ] [past] got to:                                たまたました / I `got to` meet Joyce Nelson in person!
-- [~] [future] be about to:                         しようとしているところ / I `am about to` go to sleep.
-- [~] [future] be going to:                         するつもり / What time `are we going to` be there?
-- [~] [future] be supposed to:                      することになっている / What time `are we supposed to` be there?
-- [ ] [future] be slated to:                        することになっている / What time `are we slated to` be there?
-- [ ] [future] be due to:                           することになっている / She `is due to` have her baby this week.
-- [ ] [opinion] be said to:                         と言われている / He `is said to` have worked hard when young.
+- [~] should:                                     しなければならない (実際にはしないだろうけど) / We `should` ask first.
+- [~] need to:                                    しなければならない (ほんまに) / I `need to` get back to the office.
+- [~] have to:                                    しなければならない (迫ってきている感) / I `have to` go home.
+- [ ] gotta | have got to:                        しなければならない (迫ってきている感) / I `gotta` go.
+- [x] had better:                                 しなければならない (身のためだよ)
+- [~] (might) want to:                            してもいいかもしれない / You `want to` pull your fingers in like this.
+- [ ] might as well:                              してもいいかもしれない / You `might as well` walk home.
+- [x] would:                                      自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
+- [~] make it a rule to:                          するのを常としている / She `makes it a rule to` dispense with evening.
+- [~] tend to:                                    ついつい / I `tend to` eat a lot when I'm nervous.
+- [ ] tend to:                                    普段 / I `tend to` prefer non-fiction.
+- [ ] tend to:                                    たいてい / I `tend not to` remember my dreams.
+- [ ] be supposed to:                             ものだ / Dolphins `are supposed to` be intelligent.
+- [ ] be supposed to:                             ことになっている / On Valentine's Day, in Japan girls `are supposed to` give choco...
+- [~] was/were like:                              という感じだった / When I ate Natto for the first time `I was like` what is this?
+- [~] was supposed to:                            するはずだった (意思) / She `was supposed to` say yes.
+- [~] was going to:                               するつもりだった (約束) / I `was going to` get the burger, but the salad looked so good.
+- [ ] used to:                                    していたものだ / I `used to` read every day.
+- [ ] ended up V-ing:                             結局した / I `ended up staying` home.
+- [ ] got to:                                     たまたました / I `got to` meet Joyce Nelson in person!
+- [~] be about to:                                しようとしているところ / I `am about to` go to sleep.
+- [~] be going to:                                するつもり / What time `are we going to` be there?
+- [~] be supposed to:                             することになっている / What time `are we supposed to` be there?
+- [ ] be slated to:                               することになっている / What time `are we slated to` be there?
+- [ ] be due to:                                  することになっている / She `is due to` have her baby this week.
+- [ ] be said to:                                 と言われている / He `is said to` have worked hard when young.
+- [~] be      likely to:                          しそうだ / `It's likely to` rain tomorrow.
+- [~] be more likely to:                          する確率が高い / In engineering, people `are more likely to` work in their field.
+- [~] be less likely to:                          する確率が低い / `It's less likely to` get broken.
+- [~] be sure to V:                               きっとできるよ / You `are sure to` see many animals there.
 - [ ] be subject to:                              の対象となる, を受けやすい, となることがある
 - [ ] be obliged to:                              余儀なくする / We `are obliged to` return the favor they gave us.
 - [ ] hasten to:                                  急いでした / They `hastened to` execute the plan.
@@ -113,15 +121,17 @@
 ## AUXILIARY+THAT
 
 - [ ] be of the opinion that:                     と見ている / Many experts `are of the opinion that` its recovery will lead to worldwide economic growth.
+- [ ] be under the impression that:        だと思い込んでいる
 
-- [ ] be getting A:                               adj になってきた / I'm getting tired of them.
+## v.t
 
-## i.v
-
+- [ ] be getting C:                               C になってきた / I`'m getting` tired of them.
 - [ ] be/get a mess:                              混乱している / I `get a mess`.
 - [~] have come a long way:                       すごい進んだ / Yeah. We'`ve really come a long way.`
 
-## PHRASAL VERB
+## v.i
+
+## OTHERS
 
 - [ ] add up:                                     納得がいく / It `doesn't add up` at all.
 - [ ] ask for:                                    請求する / The credit card company `asked for` the payment. / You are `asking for` it.
@@ -195,9 +205,6 @@
 - [ ] work on:                                    改善する 取り組む / I need to `work on` being more punctual.
 - [ ] work overtime:                              残業する
 - [ ] wrap up:                                    切り上げる / We hope to `wrap up` the negotiations at the next meeting.
-
-## OTHERS
-
 - [~] [SVOC] get O C:                               This song always `gets me feeling` some type of way.
 - [~] [SVOC] have O C:                              I `had my hair cut`.
 - [~] [SVOC] let O C:                               Don't `let me down`. / `Let me in!`
@@ -233,7 +240,6 @@
 - [ ] be propped up against:                      立てかけられている
 - [~] be tasked with V-ing:                       する任務を負う / I`'m tasked with helping` people cope with the stressful situations.
 - [~] be/stay/remain on hand:                     待機する / She'll `be on hand` to her books and speak with fans until...
-- [ ] bring back memories:                        This song `brings back memories!`
 - [~] bring/get A up to speed:                    最新情報に追いつかせる / We need to `bring newbies up to speed` on our project as quickly as possible.
 - [ ] can wait:                                   Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
 - [ ] cope with | deal with:                      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
@@ -302,26 +308,14 @@
 - [ ] cut corners:                                手を抜く / You shouldn't cut corners.
 - [ ] cut to the chase:                           要点を言う / Since we've only got five minutes, I'm going to cut to the chase.
 - [ ] come/get home (from work/school):           帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
-
 - [ ] [vi.] hope for:                               望む / We are `hoping for` some rain.
 - [ ] [vi.] argue against:                          反論する
-
-# USAGE (STRUCTURE)
-
 - [same] 何と同じ？:                            [I'm planning to enroll in `the same` computer course `that` you took at the local college last year.]()
 - [same] 何と同じ？:                            [`just as` the passer rating is not a perfect measure of quarteback performance.]()
-
-## DECLARATIVE
-
 - [beginning] You might wonder O:               `You might wonder` why that is so.
 - [beginning] Let's say O:                      とりあえず〜としようか / `Let's say` dinner at seven. / `Let's say` Monday at three.
 - [見聞] [物事] They charge O:                    `They charge` a delivery fee.
 - [見聞] [物事] There're times when S V:          `There're times when I crave` a Starbucks Frappuccino really badly.
-- [見聞] [多分] S seems to be:                    `It seems to be broken.`
-- [主観] [多分] S be      likely to V:            `It's likely to` rain tomorrow.
-- [主観] [多分] S be more likely to V:            In engineering, people `are more likely to` work in their field.
-- [主観] [多分] S be less likely to V:            `It's less likely to` get broken.
-- [主観] [多分] S be sure to V:                   You `are sure to` see many animals there.
 - [主観] [多分] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
 - [主観] [多分] Chances are (that) S V:           It's foggy. But `chances are` it'll clear up later on.
 - [主観] [多分] There's a high       chance of O: `There's a high chance of` a domino effect.
@@ -347,10 +341,5 @@
 - [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
 - [補足] That's how:                            `That's how` we met.
 - [補足] That's the way S V:                    `That's the way` I like it. / `That's the way` I prefer it.
-- [補足] for one thing ,,, for another thing:   I can't put you up. `For one thing,` my dad drops in on me from time to time.
-- [比較] not so much A as B:                    It is `not so much` that democracy is positively good `as` that is makes impossible ...
 - [比較] A doesn't have as much B as C:         He `doesn't have as much experience as` the other candidates.
 - [比較] A doesn't have as many B as C:         We `don't have as many poeple in our team as` we did last year.
-- [強調] This is the kind of thing that V:      `This is the kind of thing that` makes me really happy.
-- [強調] This is something S V:                 `This is something` a lot of people don't consider.
-- [ ] [stance] be under the impression that:        だと思い込んでいる

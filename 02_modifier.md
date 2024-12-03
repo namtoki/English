@@ -125,6 +125,7 @@
 - [ ] N after that:                              an hour `after that` / two weeks `after that` / a few years `after that`
 - [ ] [past] quite recently:                       ごく最近
 - [ ] [past] (just) the other day:                 I went there `just the other day`!
+- [ ] [past] a moment ago:                         数分前に / She called `a moment ago` from a taxi.
 - [ ] [now] from now on:                           I have to cut down on my expenses, `so from now on`, I'm ~~
 - [~] [now] by now:                                You must be hungry `by now`.
 - [ ] [now] to date:                               これまでに
@@ -263,3 +264,4 @@
 - [ ] [where] in the course of:                    `In the course of` its economic development, Japan has ...
 - [ ] [where] (O) out of (O):                      We have watched `4 out of 5` seasons.
 - [ ] [where] up there:
+- [補足] for one thing ,,, for another thing:   I can't put you up. `For one thing,` my dad drops in on me from time to time.
