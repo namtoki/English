@@ -16,6 +16,7 @@
 - [ ] the kind of thing that V:                   なもの / `This is the kind of thing that` makes me really happy.
 - [ ] what I meant:                               言いたかったこと / `What I meant` was, you should do it carefully.
 - [ ] what 名詞 S+V:                              Lend me `what books you can`. = Lend me `all the books you can`.
+- [ ] what we should do with O:                   O をどうすべきか / Did Jerry mention `what we should do with` all these leftover party supplies?
 - [~] equivalent of:                              They are the functional `equivalent of` gods.
 - [ ] hope for:                                   うまく行くことに対する希望 / many people have `hope for` genuine changes in it
 - [ ] hope of:                                    する希望 / する見込み / I have no `hope of` getting financial support for it

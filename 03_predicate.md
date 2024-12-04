@@ -71,6 +71,16 @@
 - [ ] I'm sure of (sth):                          確信するよ / `I am sure of` enjoying the movie.
 - [ ] I'm terrible with O:                        嫌い
 
+## THAT
+
+- [ ] That's how:                                 このようにして / `That's how` we met.
+- [ ] That's the way S V:                         このやり方が / `That's the way` I like it. / `That's the way` I prefer it.
+
+## THERE
+
+- [ ] There's a high       chance of O:           の可能性が高い / `There's a high chance of` a domino effect.
+- [ ] There's a low/little chance of O:           の可能性が低い / `There's a low chance of` rain tonight.
+
 ## AUXILIARY+V
 
 - [~] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
@@ -134,6 +144,7 @@
 - [ ] doesn't have as much A as B:                B ほど A を持っていない / He `doesn't have as much experience as` the other candidates.
 - [ ] has given:                                  知らされる / The official dates `haven't been given` to us yet.
 - [ ] have come a long way:                       すごい進んだ / Yeah. We'`ve really come a long way.`
+- [ ] have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.
 
 ## v.i
 
@@ -145,6 +156,17 @@
 - [ ] break in:                                   慣らす / I have to break in my new shoes.
 - [ ] break into:                                 侵入する / A burglar broke into my house over the weekend.
 - [ ] break into:                                 急にしだす / He broke into tears. She broke into laugher. / Sarah saw pandas and broke into a run.
+- [ ] leave A up to B:                            A を B に任せる / I'll `leave it up to you`.
+- [ ] have in mind:                               計画している / What did you `have in mind` for the annual banquet?
+- [ ] have little to do with:                     とほとんど関係がない
+- [ ] have much to do with:                       と大いに関係がある
+- [ ] have nothing to do with:                    と関係がない
+- [ ] have something to do with:                  と何らかの関係がある /  Innovation `has something to do with` the ability to notice unusual phenomena.
+
+## SVOC
+
+- [~] get O C:                                    O を C という状態にする / This song always `gets me feeling` some type of way.
+- [~] get it done:                                終わらせる / push the job and `get id done` this week.
 
 ## OTHERS
 
@@ -205,7 +227,6 @@
 - [ ] work on:                                    改善する 取り組む / I need to `work on` being more punctual.
 - [ ] work overtime:                              残業する
 - [ ] wrap up:                                    切り上げる / We hope to `wrap up` the negotiations at the next meeting.
-- [~] [SVOC] get O C:                               This song always `gets me feeling` some type of way.
 - [~] [SVOC] have O C:                              I `had my hair cut`.
 - [~] [SVOC] let O C:                               Don't `let me down`. / `Let me in!`
 - [~] [SVOC] make O C:                              I'll do anything to `make you happy`. / to `make mayself understood` in English.
@@ -271,11 +292,6 @@
 - [ ] weigh A versus B:                           S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
 - [ ] would've thought that S V:                  I `would've thought that` he'd hate dancing at a club.
 - [ ] 人 need V | 物 need V-ing:                  する必要がある | される必要がある
-- [ ] have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.
-- [ ] have little to do with:                     とほとんど関係がない
-- [ ] have much to do with:                       と大いに関係がある
-- [ ] have nothing to do with:                    と関係がない
-- [ ] have something to do with:                  と何らかの関係がある /  Innovation `has something to do with` the ability to notice unusual phenomena.
 - [ ] have N years of experience:                 年の経験がある / I `have three years of experience` in the ... field.
 - [ ] account for:                                占める /  Wheat accounts for approximately two-thirds of agricultural production in the area.
 - [ ] act fanny:                                  ふざける / Why do you always `act funny` like that?
@@ -318,8 +334,6 @@
 - [見聞] [物事] There're times when S V:          `There're times when I crave` a Starbucks Frappuccino really badly.
 - [主観] [多分] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
 - [主観] [多分] Chances are (that) S V:           It's foggy. But `chances are` it'll clear up later on.
-- [主観] [多分] There's a high       chance of O: `There's a high chance of` a domino effect.
-- [主観] [多分] There's a low/little chance of O: `There's a low chance of` rain tonight.
 - [主観] [意見] S slipped my mind:                Your birthday party completely `slipped my mind`.
 - [主観] [意見] S be a blur:                      Last weekend `was a blur`.
 - [主観] [意見] The same is the case with O:      `The same is the case with` "hear" and "about".
@@ -339,5 +353,3 @@
 - [補足] [理由] [間接] A is attributed to B:        The strength of the firm `is attributed to` its unique and future-oriented strategies.
 - [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
 - [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
-- [補足] That's how:                            `That's how` we met.
-- [補足] That's the way S V:                    `That's the way` I like it. / `That's the way` I prefer it.

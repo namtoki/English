@@ -3,3 +3,8 @@ choreographer
 astronomy
 excerpt
 compartment
+compliance
+respectively
+culinary
+attire
+courteous
