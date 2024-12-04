@@ -71,16 +71,6 @@
 - [ ] I'm sure of (sth):                          確信するよ / `I am sure of` enjoying the movie.
 - [ ] I'm terrible with O:                        嫌い
 
-## THAT
-
-- [ ] That's how:                                 このようにして / `That's how` we met.
-- [ ] That's the way S V:                         このやり方が / `That's the way` I like it. / `That's the way` I prefer it.
-
-## THERE
-
-- [ ] There's a high       chance of O:           の可能性が高い / `There's a high chance of` a domino effect.
-- [ ] There's a low/little chance of O:           の可能性が低い / `There's a low chance of` rain tonight.
-
 ## AUXILIARY+V
 
 - [ ] (might) want to:                            してもいいかもしれない / You `want to` pull your fingers in like this.
@@ -125,7 +115,7 @@
 - [ ] would:                                      自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
 - [ ] 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
 
-## AUXILIARY+THAT
+## AUXILIARY+THAT+S+V
 
 - [ ] be of the opinion that:                     と見ている / Many experts `are of the opinion that` its recovery will lead to worldwide economic growth.
 - [ ] be under the impression that:               だと思い込んでいる
@@ -133,6 +123,9 @@
 
 ## SUBJECT
 
+- [ ] act fanny:                                  ふざける / Why do you always `act funny` like that?
+- [ ] adjust | arrange | coordinate:              既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
+- [ ] argue against:                          反論する
 - [ ] ask for:                                    請求する / The credit card company `asked for` the payment. / You are `asking for` it.
 - [ ] ask out:                                    誘う / He finally `asked Alice out`!
 - [ ] be around:                                  近くにいる / He pretends to be enthusiastic when his boss `is around`.
@@ -175,6 +168,7 @@
 - [ ] have in mind:                               計画している / What did you `have in mind` for the annual banquet?
 - [ ] hope for:                                   当てにする / We have been `hoping for` a pay raise.
 - [ ] invite sb over sth:                         sb を sth に招待する / I `invited` some friends and family `over` for lunch.
+- [ ] know all too well:                          嫌と言うほどわかっている / We `know all too well` how fast the weather can change here; last year our wedding got rained out.
 - [ ] leave A up to B:                            A を B に任せる / I'll `leave it up to you`.
 - [ ] look into:                                  調べる / I want to `look into` the murder case more closer because something is strange.
 - [ ] move forward with:                          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
@@ -200,7 +194,11 @@
 
 ## INANIMATE SUBJECT
 
+- [ ] account for:                                占める /  Wheat accounts for approximately two-thirds of agricultural production in the area.
 - [ ] add up:                                     納得がいく / It `doesn't add up` at all.
+- [ ] appreciate in value:                        価値が上がる
+- [ ] be a blur:                                  (記憶が)ぼんやりしている / Last weekend `was a blur`.
+- [ ] be caused by:                               から生じる / The periodic change `was caused by` a faulty piece of equipment.
 - [ ] be for:                                     合う / That job `wasn't for` me.
 - [ ] break down:                                 動力機械が壊れる / The washing machine has `broken down` again.
 - [ ] break out:                                  起こる / The fire `broke out` in the middle of the night.
@@ -221,35 +219,13 @@
 - [ ] have something to do with:                  と何らかの関係がある /  Innovation `has something to do with` the ability to notice unusual phenomena.
 - [ ] result from:                                から生じる / Tsunamis generally `result from` earthquakes.
 - [ ] set forth:                                  規定する / Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
+- [ ] slipped my mind:                            を完全に忘れてた / Your birthday party completely `slipped my mind`.
 - [ ] turn out:                                   という結果となる / Take it easy. I can assure you that everything will `turn out` fine.
 - [ ] turn out:                                   と判明する / It `turned out` to be true.
 - [ ] work for:                                   都合がよい / That doesn't `work for` my wife.
 
 ## OTHERS
 
-- [ ] A is caused by B:            The periodic change `was caused by` a faulty piece of equipment.
-- [ ] Chances are (that) S V:           It's foggy. But `chances are` it'll clear up later on.
-- [ ] Let's say O:                      とりあえず〜としようか / `Let's say` dinner at seven. / `Let's say` Monday at three.
-- [ ] My concern (for O) is (that) S V: You show a lot of promise … but `my concern is` I don’t know where to book you.
-- [ ] S V-ing, that'd be C:             A Starbucks opening right next to my apartment, `that'd be` amazing.
-- [ ] S V-ing. That is C:               `This ramen shop putting whipped cream in soup, that's` gross.
-- [ ] S be a blur:                      Last weekend `was a blur`.
-- [ ] S know all too well ...:          We `know all too well` how fast the weather can change here; last year our wedding got rained out.
-- [ ] S slipped my mind:                Your birthday party completely `slipped my mind`.
-- [ ] Special thanks go to O:
-- [ ] That sounds like:                 それは .. だね / `That sounds like` a lot of work.
-- [ ] The same is the case with O:      `The same is the case with` "hear" and "about".
-- [ ] There're times when S V:          `There're times when I crave` a Starbucks Frappuccino really badly.
-- [ ] They charge O:                    `They charge` a delivery fee.
-- [ ] Turns out S V:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
-- [ ] You might wonder O:               `You might wonder` why that is so.
-- [ ] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
-- [ ] account for:                                占める /  Wheat accounts for approximately two-thirds of agricultural production in the area.
-- [ ] act fanny:                                  ふざける / Why do you always `act funny` like that?
-- [ ] adjust | arrange | coordinate:              既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
-- [ ] any O will do as long as S V:     `Any apartment will do as long as` the rent is low.
-- [ ] appreciate in value:                        価値が上がる
-- [ ] argue against:                          反論する
 - [ ] be accompanied by:                          が付随して起こる / More often than not. famine is accompanied by plague.
 - [ ] be all for:                                 強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
 - [ ] be anxious to:                              切望する 悪 → 中 / The slaves were anxious to alter their destinies.

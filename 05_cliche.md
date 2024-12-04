@@ -181,3 +181,19 @@
 - [question] When was the last time S V?:       `When was the last time` you talked to him?
 - [question] Is A the same as B?:               `Is this the same skirt as` in the ad?
 - [question] What if S V?:                      `What if I` don't meet the deadline?
+- [ ] Let's say O:                      とりあえず〜としようか / `Let's say` dinner at seven. / `Let's say` Monday at three.
+- [ ] That's how:                                 このようにして / `That's how` we met.
+- [ ] That's the way S V:                         このやり方が / `That's the way` I like it. / `That's the way` I prefer it.
+- [ ] There's a high       chance of O:           の可能性が高い / `There's a high chance of` a domino effect.
+- [ ] There's a low/little chance of O:           の可能性が低い / `There's a low chance of` rain tonight.
+- [ ] Chances are (that) S V:                     の可能性がある / It's foggy. But `chances are` it'll clear up later on.
+- [ ] My concern (for O) is (that) S V: You show a lot of promise … but `my concern is` I don’t know where to book you.
+- [ ] S V-ing, that'd be C:             A Starbucks opening right next to my apartment, `that'd be` amazing.
+- [ ] S V-ing. That is C:               `This ramen shop putting whipped cream in soup, that's` gross.
+- [ ] Special thanks go to O:
+- [ ] That sounds like:                 それは .. だね / `That sounds like` a lot of work.
+- [ ] The same is the case with O:      `The same is the case with` "hear" and "about".
+- [ ] There're times when S V:          `There're times when I crave` a Starbucks Frappuccino really badly.
+- [ ] Turns out S V:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
+- [ ] You might wonder O:               `You might wonder` why that is so.
+- [ ] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
