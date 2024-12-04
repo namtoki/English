@@ -83,70 +83,77 @@
 
 ## AUXILIARY+V
 
-- [~] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
-- [~] 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
-- [~] should:                                     しなければならない (実際にはしないだろうけど) / We `should` ask first.
-- [~] need to:                                    しなければならない (ほんまに) / I `need to` get back to the office.
-- [~] have to:                                    しなければならない (迫ってきている感) / I `have to` go home.
-- [ ] gotta | have got to:                        しなければならない (迫ってきている感) / I `gotta` go.
-- [x] had better:                                 しなければならない (身のためだよ)
-- [~] (might) want to:                            してもいいかもしれない / You `want to` pull your fingers in like this.
-- [ ] might as well:                              してもいいかもしれない / You `might as well` walk home.
-- [x] would:                                      自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
-- [~] make it a rule to:                          するのを常としている / She `makes it a rule to` dispense with evening.
-- [~] tend to:                                    ついつい / I `tend to` eat a lot when I'm nervous.
-- [ ] tend to:                                    普段 / I `tend to` prefer non-fiction.
-- [ ] tend to:                                    たいてい / I `tend not to` remember my dreams.
-- [ ] be supposed to:                             ものだ / Dolphins `are supposed to` be intelligent.
+- [ ] (might) want to:                            してもいいかもしれない / You `want to` pull your fingers in like this.
+- [ ] be about to:                                しようとしているところ / I `am about to` go to sleep.
+- [ ] be attributed to:                           に起因する / The strength of the firm `is attributed to` its unique and future-oriented strategies.
+- [ ] be due to:                                  することになっている / She `is due to` have her baby this week.
+- [ ] be going to:                                するつもり / What time `are we going to` be there?
+- [ ] be less likely to:                          する確率が低い / `It's less likely to` get broken.
+- [ ] be likely to:                               しそうだ / `It's likely to` rain tomorrow.
+- [ ] be more likely to:                          する確率が高い / In engineering, people `are more likely to` work in their field.
+- [ ] be obliged to:                              余儀なくする / We `are obliged to` return the favor they gave us.
+- [ ] be said to:                                 と言われている / He `is said to` have worked hard when young.
+- [ ] be slated to:                               することになっている / What time `are we slated to` be there?
+- [ ] be something that:                          ということだ / Satisfying customers with their products `is something that` will remain ...
+- [ ] be subject to:                              の対象となる, を受けやすい, となることがある
 - [ ] be supposed to:                             ことになっている / On Valentine's Day, in Japan girls `are supposed to` give choco...
-- [~] was/were like:                              という感じだった / When I ate Natto for the first time `I was like` what is this?
-- [~] was supposed to:                            するはずだった (意思) / She `was supposed to` say yes.
-- [~] was going to:                               するつもりだった (約束) / I `was going to` get the burger, but the salad looked so good.
-- [ ] used to:                                    していたものだ / I `used to` read every day.
+- [ ] be supposed to:                             することになっている / What time `are we supposed to` be there?
+- [ ] be supposed to:                             ものだ / Dolphins `are supposed to` be intelligent.
+- [ ] be sure to V:                               きっとできるよ / You `are sure to` see many animals there.
+- [ ] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
 - [ ] ended up V-ing:                             結局した / I `ended up staying` home.
 - [ ] got to:                                     たまたました / I `got to` meet Joyce Nelson in person!
-- [~] be about to:                                しようとしているところ / I `am about to` go to sleep.
-- [~] be going to:                                するつもり / What time `are we going to` be there?
-- [~] be supposed to:                             することになっている / What time `are we supposed to` be there?
-- [ ] be slated to:                               することになっている / What time `are we slated to` be there?
-- [ ] be due to:                                  することになっている / She `is due to` have her baby this week.
-- [ ] be said to:                                 と言われている / He `is said to` have worked hard when young.
-- [~] be      likely to:                          しそうだ / `It's likely to` rain tomorrow.
-- [~] be more likely to:                          する確率が高い / In engineering, people `are more likely to` work in their field.
-- [~] be less likely to:                          する確率が低い / `It's less likely to` get broken.
-- [~] be sure to V:                               きっとできるよ / You `are sure to` see many animals there.
-- [ ] be subject to:                              の対象となる, を受けやすい, となることがある
-- [ ] be obliged to:                              余儀なくする / We `are obliged to` return the favor they gave us.
+- [ ] gotta | have got to:                        しなければならない (迫ってきている感) / I `gotta` go.
+- [ ] had better:                                 しなければならない (身のためだよ)
 - [ ] hasten to:                                  急いでした / They `hastened to` execute the plan.
-- [ ] take the plunge and:                        思い切ってした /
+- [ ] have to:                                    しなければならない (迫ってきている感) / I `have to` go home.
 - [ ] have yet to:                                まだしていない
-- [ ] be something that:                          ということだ / Satisfying customers with their products `is something that` will remain ...
-- [~] seems to:                                   のようだ (目の前の状況) `It seems to be broken.`
+- [ ] make it a rule to:                          するのを常としている / She `makes it a rule to` dispense with evening.
+- [ ] might as well:                              してもいいかもしれない / You `might as well` walk home.
+- [ ] need to:                                    しなければならない (ほんまに) / I `need to` get back to the office.
+- [ ] seems to:                                   のようだ (目の前の状況) `It seems to be broken.`
+- [ ] should:                                     しなければならない (実際にはしないだろうけど) / We `should` ask first.
+- [ ] take the plunge and:                        思い切ってした /
+- [ ] tend to:                                    たいてい / I `tend not to` remember my dreams.
+- [ ] tend to:                                    ついつい / I `tend to` eat a lot when I'm nervous.
+- [ ] tend to:                                    普段 / I `tend to` prefer non-fiction.
+- [ ] used to:                                    していたものだ / I `used to` read every day.
+- [ ] was going to:                               するつもりだった (約束) / I `was going to` get the burger, but the salad looked so good.
+- [ ] was supposed to:                            するはずだった (意思) / She `was supposed to` say yes.
+- [ ] was/were like:                              という感じだった / When I ate Natto for the first time `I was like` what is this?
+- [ ] would:                                      自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
+- [ ] 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
 
 ## AUXILIARY+THAT
 
 - [ ] be of the opinion that:                     と見ている / Many experts `are of the opinion that` its recovery will lead to worldwide economic growth.
 - [ ] be under the impression that:               だと思い込んでいる
+- [ ] be aware that:                              と承知している / please `be aware that` we are no longer responsible for privacy policies of other sites and services.
 
-## v.t
+## SUBJECT
 
-- [ ] add up:                                     納得がいく / It `doesn't add up` at all.
 - [ ] be around:                                  近くにいる / He pretends to be enthusiastic when his boss `is around`.
 - [ ] be getting C:                               C になってきた / I`'m getting` tired of them.
 - [ ] be/get a mess:                              混乱している / I `get a mess`.
 - [ ] break away:                                 独立する / In the 1800s the South tried to break away from the Union.
 - [ ] break away:                                 逃げる / The calf is breaking away from the cowboy.
-- [ ] break down:                                 動力機械が壊れる / The washing machine has broken down again.
 - [ ] break into:                                 会話に入る / Can I break in here?
-- [ ] break out:                                  起こる / The fire broke out in the middle of the night.
-- [ ] brings back memories:                       思い出させる / This song `brings back memories!`
 - [ ] doesn't have as many A as B:                B ほど A を持っていない / We `don't have as many poeple in our team as` we did last year.
 - [ ] doesn't have as much A as B:                B ほど A を持っていない / He `doesn't have as much experience as` the other candidates.
-- [ ] has given:                                  知らされる / The official dates `haven't been given` to us yet.
 - [ ] have come a long way:                       すごい進んだ / Yeah. We'`ve really come a long way.`
-- [ ] have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.
+- [~] get it done:                                終わらせる / push the job and `get id done` this week.
 
-## v.i
+## INANIMATE SUBJECT
+
+- [ ] add up:                                     納得がいく / It `doesn't add up` at all.
+- [ ] break down:                                 動力機械が壊れる / The washing machine has broken down again.
+- [ ] break out:                                  起こる / The fire broke out in the middle of the night.
+- [ ] brings back memories:                       思い出させる / This song `brings back memories!`
+- [ ] has given:                                  知らされる / The official dates `haven't been given` to us yet.
+- [ ] have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.
+- [~] get O C:                                    O を C という状態にする / This song always `gets me feeling` some type of way.
+
+## OTHERS
 
 - [ ] ask for:                                    請求する / The credit card company `asked for` the payment. / You are `asking for` it.
 - [ ] ask out:                                    誘う / He finally `asked Alice out`!
@@ -162,14 +169,7 @@
 - [ ] have much to do with:                       と大いに関係がある
 - [ ] have nothing to do with:                    と関係がない
 - [ ] have something to do with:                  と何らかの関係がある /  Innovation `has something to do with` the ability to notice unusual phenomena.
-
-## SVOC
-
-- [~] get O C:                                    O を C という状態にする / This song always `gets me feeling` some type of way.
-- [~] get it done:                                終わらせる / push the job and `get id done` this week.
-
-## OTHERS
-
+- [ ] result from:                                から生じる / Tsunamis generally result from earthquakes.
 - [ ] break through:                              突破する / The player broke through the defensive line. / The sun began to break through.
 - [ ] bring about:                                もたらす / Medical breakthroughs have brought about great benefits for humanity as a whole.
 - [ ] bring around:                               連れていく / We finally brought him around to our point of view .
@@ -349,7 +349,3 @@
 - [補足] [訂正] ~~. That's not to say (that) S V: `That's not to say that` it'll be impossible without it, but,,,
 - [補足] [理由] just because ... doesn't mean:    `Just because` he smiles a lot `doesn't mean` he's kind.
 - [補足] [理由] [直接] A is caused by B:            The periodic change `was caused by` a faulty piece of equipment.
-- [補足] [理由] [直接] A result from B:             Tsunamis generally result from earthquakes.
-- [補足] [理由] [間接] A is attributed to B:        The strength of the firm `is attributed to` its unique and future-oriented strategies.
-- [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
-- [補足] Be aware that S V:                     please `be aware that` we are no longer responsible for privacy policies of other sites and services.
