@@ -197,3 +197,4 @@
 - [ ] Turns out S V:                    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [ ] You might wonder O:               `You might wonder` why that is so.
 - [ ] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
+- [ ] any O will do as long as S V:     `Any apartment will do as long as` the rent is low.
