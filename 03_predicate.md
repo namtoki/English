@@ -266,6 +266,7 @@
 - [ ] appreciate in value:                        価値が上がる
 - [~] be a blur:                                  (記憶が)ぼんやりしている / Last weekend `was a blur`.
 - [ ] be accompanied by:                          が付随して起こる / More often than not. famine `is accompanied by` plague.
+- [~] be all done:                                全て終わっている / It's `all done`.
 - [~] be attributed to:                           に起因する / The strength of the firm `is attributed to` its unique and future-oriented strategies.
 - [ ] be at his disposal:                         思い通りにできる / He claimed that the enormous property `was at his disposal`.
 - [ ] be based in:                                外資系 / My company `is based in` U.S. but 80% of the employees are Japanese.

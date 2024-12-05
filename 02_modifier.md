@@ -267,3 +267,4 @@
 - [ ] [where] up there:
 - [補足] for one thing ,,, for another thing:   I can't put you up. `For one thing,` my dad drops in on me from time to time.
 - [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
+- [ ] 何と同じ？:                            `just as` the passer rating is not a perfect measure of quarteback performance.
