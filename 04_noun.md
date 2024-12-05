@@ -43,7 +43,7 @@
 - [ ] what we should do with O:                   O をどうすべきか / Did Jerry mention `what we should do with` all these leftover party supplies?
 - [ ] what A S+V:                                 S が V する全ての A / Lend me `what books you can`. = Lend me `all the books you can`.
 
-## LIMITED
+## ADJECTIVE -LIMITED-
 
 - [ ] the most commonly accepted:                 一番自然な / but `the most commonly accepted` way is the -ing.
 - [ ] the very first:                             一番最初の / `the very first` question is the use of ..."
@@ -57,7 +57,7 @@
 - [ ] scorching:                                  焼きつくような / It's `scorching hot` today.
 - [ ] boiling:                                    うだるような / This room is `boiling hot`.
 
-## CONCRETE
+## ADJECTIVE -CONCRETE-
 
 - [ ] ETA (Estimated Time of Arrival):            帰る時間 / I send her a message with my ETA.
 - [ ] advanced degree:                            修士号 博士号
