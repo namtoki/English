@@ -198,3 +198,7 @@
 - [ ] You might wonder O:               `You might wonder` why that is so.
 - [ ] You'd think (that) S V, but:      `You'd think` Japan would be really technologically advanced, but ,,,
 - [ ] any O will do as long as S V:     `Any apartment will do as long as` the rent is low.
+- [ ] ..., each with:                            それぞれがを持っている / Stremto has launched a new line of instant polaroif cameras, `each with` thier own unique shape and design.
+- [ ] just because ... doesn't mean:    `Just because` he smiles a lot `doesn't mean` he's kind.
+- [ ] ~~. That's not to say (that) S V: `That's not to say that` it'll be impossible without it, but,,,
+- [ ] ~~~. That I V:                    Yes, we need to spend less money. `That I` agree with.

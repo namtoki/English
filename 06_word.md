@@ -8,3 +8,5 @@ respectively
 culinary
 attire
 courteous
+medication
+superb

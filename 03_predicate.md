@@ -2,29 +2,29 @@
 
 ## IT
 
-- [~] It's C how S V:                             と思う / `It's interesting how` you said that.
+- [ ] It's C how S V:                             と思う / `It's interesting how` you said that.
 - [ ] It feels like O:                            のように感じる / I remember my first day of high school. `It feels like` yesterday.
-- [ ] It's like O:                                みたいなものだ / `It's like` surfing on land.
-- [ ] It's kind of like O:                        みたいなものだ / `It's kind of like` a noodle, but not exactly.
-- [ ] It’s almost like O:                         ほぼ、みたいなものだ / `It’s almost like` Christmas.
+- [~] It's like O:                                みたいなものだ / `It's like` surfing on land.
+- [~] It's kind of like O:                        みたいなものだ / `It's kind of like` a noodle, but not exactly.
+- [~] It’s almost like O:                         ほぼ、みたいなものだ / `It’s almost like` Christmas.
 - [ ] It's not that S V:                          というわけではない / `It's not like` Joe is a bad guy. He is just shady sometimes.
 - [ ] (It's) not that .. but (that) ..:           というわけではなく、だ
-- [ ] It's not like S V:                          というわけではなくて、、 /
-- [ ] It's more like S V:                         なんというかむしろ、だ /
+- [~] It's not like S V:                          というわけではなくて、、 /
+- [~] It's more like S V:                         なんというかむしろ、だ /
 - [ ] It's more that S V:                         むしろ、だ /
 - [ ] It's just that S V:                         というだけだ
 - [ ] It's the fact that S V:                     だからだ / But not because it's so big. `It's the fact that` it's so diverse.
 - [ ] It's not the fact that S V:                 だからではない / `It's not the fact that` I find him boring.
 - [ ] It's not just the fact that S V:            という理由だからだけではない / `It's not just the fact that` you called me during a meeting.
-- [~] It wouldn't hurt to:                        するに越したことはない / `It wouldn't hurt to` have some English skills, even though they're not strictly required ...
-- [~] It seems like S V:                          のように見える / `It seems like` it's a mixture of two languages.
-- [~] It seems as if/though S V:                  まるでのように見える / `It seems as if` he knew everything.
+- [ ] It wouldn't hurt to:                        するに越したことはない / `It wouldn't hurt to` have some English skills, even though they're not strictly required ...
+- [ ] It seems like S V:                          のように見える / `It seems like` it's a mixture of two languages.
+- [ ] It seems as if/though S V:                  まるでのように見える / `It seems as if` he knew everything.
 - [~] It could be (that):                         かもしれない / `It could be that` Wayne's just naturally fit, but ,,,
 - [~] It occurs to me that S V:                   ふと思ったんだけど / `It occurs to me that` I've never asked your name.
 - [~] It depends O:                               による / `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
 - [~] It's up in the air whether S V:             かどうか決まっていない / `It's up in the air whether` the game will be called off or not.
 - [ ] It's no use V-ing:                          しても無駄 / `It's no use` polishing it.
-- [ ] It doesn't mean anything:                   意味がない / `It doesn't mean anything` to me anymore.
+- [~] It doesn't mean anything:                   意味がない / `It doesn't mean anything` to me anymore.
 - [ ] It's a custom to:                           する習慣だ / `It's a custom to` take off your shoes before entering ...
 - [ ] It's traditional to:                        する習慣だ / In Japan, `it's traditional to` visit ...
 - [ ] It's been a while since S V:                久しぶり / `It's been a while since` I've swung a tennis racket.
@@ -35,30 +35,30 @@
 
 - [ ] I believe (that) S V:                       に違いない / `I believe` she drives a white truck.
 - [ ] I believe in O:                             信じていない / `I don't believe in` ghosts.
-- [~] I can still just about V:                   いまでも十分できる / I can still just about remember my first day as a trainee but as of today
-- [~] I don't remember:                           覚えていない
+- [ ] I can still just about V:                   いまでも十分できる / I can still just about remember my first day as a trainee but as of today
 - [~] I can't remember:                           思い出せない
 - [ ] I can't tell you how much S V:              言い表せないくらいだ / `I can't tell you how much` I loved it.
 - [ ] I didn't mean it:                           そんなつもりはなかった
 - [ ] I don't care for O:                         特に好きではない / `I don't care for` spicy food.
+- [ ] I don't remember:                           覚えていない
 - [~] I doubt (that) S V:                         ではないと思っている / `I doubt that` he will win the race.
 - [ ] I feel C:                                   と思っている / `I feel bad` about canceling.
 - [ ] I feel like C:                              (自分が)みたいだ / `I feel like` an idiot.
 - [ ] I feel like O/V-ing:                        の気分だ / `I feel like` Thai food. I don't feel like it. / `I feel like` going out somewhere.
 - [ ] I feel like S V:                            な気がする / `I feel like` there is a ton of bricks on my lap.
-- [~] I find O C:                                 だと思う / `I find it really interesting` to study English.~
+- [ ] I find O C:                                 だと思う / `I find it really interesting` to study English.~
 - [~] I have a feeling/hunch that S V:            だという気がする / `I have a feeling that` there's more to it.
 - [ ] I have to say S V:                          と言わざるを得ない / `I have to say` your place is adorable!
 - [ ] I have trouble V-ing:                       大変だと思う / `I have trouble` getting to sleep. / `I have trouble` making friends.
-- [ ] I remember S V:                             たしかだったよね / `I remember` you went there last year.
 - [ ] I hope S V:                                 だと願う / `I hope` it doesn't rain.
-- [ ] I say S V:                                  思う / `I say` it's time you force the issue.
+- [ ] I remember S V:                             たしかだったよね / `I remember` you went there last year.
+- [~] I say S V:                                  思う / `I say` it's time you force the issue.
 - [ ] I see you have V:                           したようだね / `I see you've` finished planting the shrubs.
 - [~] I suppose (that) S V:                       思う (20%) / In that case, `I suppose` I'd like to come and take a look at it.
-- [ ] I suspect (that) S V:                       だと疑っている / `I suspect that` Tom stole the wallet.
+- [~] I suspect (that) S V:                       だと疑っている / `I suspect that` Tom stole the wallet.
 - [ ] I told you O, right?:                       と言ったよね / `I told you` about my dad, `right?`
 - [ ] I understand that S V:                      だと理解したんだけど / `I understand that` you speak a little English.
-- [ ] I was just saying:                          と言いたかっただけ / No! `I was just saying` ... it's a new look for you.
+- [~] I was just saying:                          と言いたかっただけ / No! `I was just saying` ... it's a new look for you.
 - [ ] I will never V again!:                      もうしない / `I will never climb` Mt.Fuji `again!`
 - [ ] I wish S V:                                 だったらなぁ / `I wish` I spoke French.
 - [~] I won't know until (time):                  までわからない / `I won't know until` Friday.
@@ -73,14 +73,15 @@
 
 ## AUXILIARY+V
 
-- [ ] (might) want to:                            してもいいかもしれない / You `want to` pull your fingers in like this.
+- [~] (might) want to:                            してもいいかもしれない / You `want to` pull your fingers in like this.
 - [ ] be about to:                                しようとしているところ / I `am about to` go to sleep.
-- [ ] be attributed to:                           に起因する / The strength of the firm `is attributed to` its unique and future-oriented strategies.
 - [ ] be due to:                                  することになっている / She `is due to` have her baby this week.
-- [ ] be going to:                                するつもり / What time `are we going to` be there?
-- [ ] be less likely to:                          する確率が低い / `It's less likely to` get broken.
-- [ ] be likely to:                               しそうだ / `It's likely to` rain tomorrow.
-- [ ] be more likely to:                          する確率が高い / In engineering, people `are more likely to` work in their field.
+- [ ] be eager to:                                切望する 中 → 良
+- [~] be going to:                                するつもり / What time `are we going to` be there?
+- [~] be less likely to:                          する確率が低い / `It's less likely to` get broken.
+- [~] be likely to:                               しそうだ / `It's likely to` rain tomorrow.
+- [~] be looking forward to:                      楽しみにしている / I'm looking forward to your souvenirs.
+- [~] be more likely to:                          する確率が高い / In engineering, people `are more likely to` work in their field.
 - [ ] be obliged to:                              余儀なくする / We `are obliged to` return the favor they gave us.
 - [ ] be said to:                                 と言われている / He `is said to` have worked hard when young.
 - [ ] be slated to:                               することになっている / What time `are we slated to` be there?
@@ -89,20 +90,20 @@
 - [ ] be supposed to:                             ことになっている / On Valentine's Day, in Japan girls `are supposed to` give choco...
 - [ ] be supposed to:                             することになっている / What time `are we supposed to` be there?
 - [ ] be supposed to:                             ものだ / Dolphins `are supposed to` be intelligent.
-- [ ] be sure to V:                               きっとできるよ / You `are sure to` see many animals there.
+- [ ] be sure to:                                 きっとできるよ / You `are sure to` see many animals there.
 - [ ] come close to ... ing:                      危うくしそうになる / The ambulance went out of control and `came close to running` over a pedestrian.
-- [ ] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
+- [~] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
 - [ ] ended up V-ing:                             結局した / I `ended up staying` home.
 - [ ] got to:                                     たまたました / I `got to` meet Joyce Nelson in person!
 - [ ] gotta | have got to:                        しなければならない (迫ってきている感) / I `gotta` go.
 - [ ] had better:                                 しなければならない (身のためだよ)
 - [ ] hasten to:                                  急いでした / They `hastened to` execute the plan.
-- [ ] have to:                                    しなければならない (迫ってきている感) / I `have to` go home.
-- [ ] have yet to:                                まだしていない
+- [~] have to:                                    しなければならない (迫ってきている感) / I `have to` go home.
+- [~] have yet to:                                まだしていない
 - [ ] make it a rule to:                          するのを常としている / She `makes it a rule to` dispense with evening.
 - [ ] might as well:                              してもいいかもしれない / You `might as well` walk home.
 - [ ] need to:                                    しなければならない (ほんまに) / I `need to` get back to the office.
-- [ ] seems to:                                   のようだ (目の前の状況) `It seems to be broken.`
+- [~] seems to:                                   のようだ (目の前の状況) `It seems to be broken.`
 - [ ] should:                                     しなければならない (実際にはしないだろうけど) / We `should` ask first.
 - [ ] take the plunge and:                        思い切ってした /
 - [ ] tend to:                                    たいてい / I `tend not to` remember my dreams.
@@ -114,24 +115,48 @@
 - [ ] was/were like:                              という感じだった / When I ate Natto for the first time `I was like` what is this?
 - [ ] would:                                      自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
 - [ ] 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
+- [ ] 人 need V | 物 need V-ing:                  する必要がある | される必要がある
 
 ## AUXILIARY+THAT+S+V
 
 - [ ] be of the opinion that:                     と見ている / Many experts `are of the opinion that` its recovery will lead to worldwide economic growth.
 - [ ] be under the impression that:               だと思い込んでいる
 - [ ] be aware that:                              と承知している / please `be aware that` we are no longer responsible for privacy policies of other sites and services.
+- [ ] see to it that:                             となるように取り計らう / The professor `saw to it that` all of students understood the nature of the assignment.
 
 ## SUBJECT
 
 - [ ] act fanny:                                  ふざける / Why do you always `act funny` like that?
 - [ ] adjust | arrange | coordinate:              既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
-- [ ] argue against:                          反論する
+- [ ] argue against:                              反論する /  If you `argue against` an opinion, idea, belief, etc., 
 - [ ] ask for:                                    請求する / The credit card company `asked for` the payment. / You are `asking for` it.
 - [ ] ask out:                                    誘う / He finally `asked Alice out`!
+- [~] be all for:                                 強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
+- [ ] be anxious to:                              切望する 悪 → 中 / The slaves `were anxious to` alter their destinies.
 - [ ] be around:                                  近くにいる / He pretends to be enthusiastic when his boss `is around`.
-- [ ] be getting C:                               C になってきた / I`'m getting` tired of them.
+- [ ] be aware of:                                気づいている
+- [ ] be bathed in sweat:                         汗だく
+- [ ] be better off O:                            You`'re better off` starting from the beginning than trying ...
+- [ ] be blessed with:                            恵まれる / He is lucky to `be blessed with` so much talent.
+- [ ] be caught up in:                            巻き込まれる / I `got caught up in` the rain on the way home from the station.
+- [ ] be conscious of:                            自覚している / To make matters worse, he isn't even conscious of annoying us.
+- [ ] be fond of:                                 が大好きである
+- [~] be getting C:                               C になってきた / I`'m getting` tired of them.
+- [~] be getting at:                              言おうとする / I couldn't make out what you were getting at. / What's the point you're getting at?
+- [ ] be in a class of ones own:                  別格である / They `are in a class of their own`.
+- [~] be in favor of:                             賛成する / I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
+- [ ] be in for:                                  直面しそうだ / Looks like we'll `be in for` some wet weather over the next few days.
+- [ ] be in the process of V-ing:
+- [ ] be obsessed:                                が頭から離れない / He's obsessed with his new baby.
+- [ ] be of service:                              の手助けになる, に役立つ / I'm glad I could `be of service`.
+- [ ] be offended by/with:                        気分を害する / She was extremely offended by the things you said.
+- [ ] be on the brink of ...:                     寸前である 重大 / We are on the brink of war.
+- [~] be open to any O:                           いつでも受け付けている / I`'m open to any` suggestions you may have for changes.
 - [ ] be really into:                             ハマる / I`'m really into` ramen.
-- [ ] be/get a mess:                              混乱している / I `get a mess`.
+- [ ] be soaked:                                  びしょ濡れ / I'm soaked with sweat.
+- [ ] be tasked with V-ing:                       する任務を負う / I`'m tasked with helping` people cope with the stressful situations.
+- [~] be/get a mess:                              混乱している / I `get a mess`.
+- [ ] be/stay/remain on hand:                     待機する / She'll `be on hand` to her books and speak with fans until...
 - [ ] break apart (into):                         まで分解する / They even showed a tendency to `break apart into` A group and B group.
 - [ ] break away:                                 独立する / In the 1800s the South tried to `break away` from the Union.
 - [ ] break away:                                 逃げる / The calf is `breaking away` from the cowboy.
@@ -143,63 +168,123 @@
 - [ ] bring around:                               連れていく / We finally `brought him around` to our point of view .
 - [ ] bring up:                                   育てる / His nephew was `brought up` to be modest and considerate.
 - [ ] bring up:                                   話に出す / The comment you made is really spot-on. I'm glad you `brought that up`.
+- [ ] bring/get A up to speed:                    最新情報に追いつかせる / We need to `bring newbies up to speed` on our project as quickly as possible.
+- [ ] burn the midnight oil:                      徹夜する
+- [ ] choose A over B:                            A より B を選ぶ
 - [ ] come across:                                遭遇する / I `came across` this information on the internet.
 - [ ] come clean:                                 正直に述べる confess / OK. I'll `come clean`.
 - [ ] come do:                                    do しに来る / I wish my girlfriend would `come see` me.
 - [ ] come up with:                               考え出す / He `came up with` an ingenious, sensible solution and immediately put it into practice.
+- [ ] come/get home (from work/school):           帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
+- [ ] cope with | deal with:                      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
 - [ ] cope with:                                  折り合いをつける / I'm trying to `cope with` loneliness in these new and unfamiliar surroundings.
+- [ ] cut corners:                                手を抜く / You shouldn't `cut corners`.
+- [ ] cut to the chase:                           要点を言う / Since we've only got five minutes, I'm going to `cut to the chase`.
 - [ ] deal with:                                  対処する
+- [ ] decide | decide on:                         決心する | 決定する
 - [ ] doesn't have as many A as B:                B ほど A を持っていない / We `don't have as many poeple in our team as` we did last year.
 - [ ] doesn't have as much A as B:                B ほど A を持っていない / He `doesn't have as much experience as` the other candidates.
-- [ ] expand on/upon:                             より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
+- [~] expand on/upon:                             より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
+- [ ] find oneself V-ing:                         I often `find myself keeping` an eye on the stock market.
 - [ ] fold up:                                    を折りたたむ
+- [ ] get O C:                                    O を C という状態にする / This song always `gets me feeling` some type of way.
+- [ ] get O to V:                                 She `got her son to do` the chores.
 - [ ] get ahead:                                  成功する / If you want to `get ahead` in life, you must make some sacrifices.
-- [ ] get back to:                                戻す / I want to `get back to` how it was before. / I'm trying to `get back to` my college weight.
-- [ ] get back to:                                戻る / I should `get back to` work. / I'll `get back to` sleep now.
+- [~] get back to:                                戻す / I want to `get back to` how it was before. / I'm trying to `get back to` my college weight.
+- [~] get back to:                                戻る / I should `get back to` work. / I'll `get back to` sleep now.
 - [ ] get it done:                                終わらせる / push the job and `get id done` this week.
 - [ ] get stuck into:                             張り切って取り掛かる / 勢いよく食べ始める / And then you `get stuck into` the dinner.
 - [ ] get the hang of it:                         コツをつかむ / but I'm `getting the hang of it`.
-- [ ] get to:                                     とりかかる / I'll `get to it` as soon as I can.
+- [~] get to:                                     とりかかる / I'll `get to it` as soon as I can.
 - [ ] get to:                                     通う 着く / We live in Kamioka so Yokohama is easy to `get to`. = access
+- [ ] give it a though:                           I'll `give it a thought` and get back to you.
 - [ ] go after:                                   追い求める / The more I `went after` what I thought were my goal,
 - [ ] go do:                                      do しにいく / Do you want to go have lunch?
 - [ ] go into:                                    詳しく述べる / 通じる / 凝りだす / 投入される
+- [ ] grant A B:
+- [ ] have N years of experience:                 年の経験がある / I `have three years of experience` in the ... field.
+- [~] have O C:                                   O を C の状態にしてもらう / I `had my hair cut`.
+- [~] have O 原形V:                               O に V してもらう / I `had my brother paint` the wall.
+- [ ] have a problem with:                        困っている / 苦手だ / `I have a problem with` his table manners.
 - [ ] have come a long way:                       すごい進んだ / Yeah. We'`ve really come a long way.`
-- [ ] have in mind:                               計画している / What did you `have in mind` for the annual banquet?
+- [~] have in mind:                               計画している / What did you `have in mind` for the annual banquet?
+- [ ] heard back from:                            Have you `heard back from` the company?
+- [ ] heard | told:                               連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
 - [ ] hope for:                                   当てにする / We have been `hoping for` a pay raise.
+- [ ] hope for:                                   望む / We are `hoping for` some rain.
+- [ ] inform A `of` B:
+- [ ] inform A that 節/疑問詞節:
 - [ ] invite sb over sth:                         sb を sth に招待する / I `invited` some friends and family `over` for lunch.
 - [ ] know all too well:                          嫌と言うほどわかっている / We `know all too well` how fast the weather can change here; last year our wedding got rained out.
-- [ ] leave A up to B:                            A を B に任せる / I'll `leave it up to you`.
-- [ ] look into:                                  調べる / I want to `look into` the murder case more closer because something is strange.
-- [ ] move forward with:                          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
-- [ ] move forward/up:                            前倒しする / Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
-- [ ] narrow down:                                絞り込む / This question is, how long will it take to `narrow down` the list.
-- [ ] push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
+- [ ] know one's way around:                      の地理に明るい
+- [~] leave A up to B:                            A を B に任せる / I'll `leave it up to you`.
+- [~] let A know:                                 A に知らせる / I must `let my wife know` when I'll be home.
+- [~] let O C:                                    Don't `let me down`. / `Let me in!`
+- [~] let O 原形V:                                O が V するのを許す / My daughter's upset because I won't `let her get` a tattoo.
+- [~] look into:                                  調べる / I want to `look into` the murder case more closer because something is strange.
+- [~] make O C:                                   O を C という状態にさせる / I'll do anything to `make you happy`. / to `make mayself understood` in English.
+- [~] make O 原形V:                               O に V させる / IHe `made the students run` in the snow.
+- [ ] make a difference:                          They are fresh, unique, and have `made a huge difference` for me.
+- [ ] make an appearance:                         出席/出演する
+- [ ] make effort | work hard:                    努力しておりますが、実現できていません | 努力しています
+- [~] move forward with:                          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
+- [~] move forward/up:                            前倒しする / Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
+- [~] narrow down:                                絞り込む / This question is, how long will it take to `narrow down` the list.
+- [~] notice | realize:                           視覚的に認識する | 思考により (重要性などを) 認識する
+- [ ] present A `with` B:                           A に B を提示する
+- [ ] preside over:                               で司会を務める
+- [~] push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
+- [ ] put O on hold:                              We are going to `put this project on hold`. / Can you `put it on hold`?
 - [ ] put off V-ing:                              延期する / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
-- [ ] see to:                                     きちんと確認する / I'll `see to` it.
+- [~] see to:                                     きちんと確認する / I'll `see to` it.
 - [ ] set out:                                    出発する / We `set out` on a hike. / `set out` one's ideas
-- [ ] settle for:                                 妥協する / But for now, we'll have to `settle for` this.
-- [ ] straighten up:                              (物事を正しい位置に戻すように) 整理する
+- [~] settle for:                                 妥協する / But for now, we'll have to `settle for` this.
+- [ ] shoot footage of:                           の場面の撮影をする
+- [ ] speak at length about:                      長々と詳細に話す / I `spoke to them at length about` the possibility of extending the deadline.
+- [~] straighten up:                              (物事を正しい位置に戻すように) 整理する
+- [ ] take care V-ing:                            We hope to `wrap up` the negotiations at the next meeting.
 - [ ] take down:                                  解体する / The woman is `taking down` a canopy.
 - [ ] take on:                                    引き受ける / Apparently, Nick wasn't willing to `take on` the task.
 - [ ] take up:                                    場所を取る / Fold them like this. They `take up` less space.
-- [ ] think much of:                              高く評価する / Bob likes cartoons, but I don't `think much of` them.
-- [ ] think nothing of:                           なんとも思わない
-- [ ] watch out (for):                            気を付ける / You need to `watch out for` wildlife that may appear unexpectedly.
+- [ ] take ~~~ off:                               `take time off` / `take a day off`
+- [ ] teach | tell:                               習得した技術等を説明して教える | 相手が知らない情報を与える
+- [~] think much of:                              高く評価する / Bob likes cartoons, but I don't `think much of` them.
+- [~] think nothing of:                           なんとも思わない
+- [ ] usually end up V-ing:                       I `usually end up` getting fast food.
+- [~] watch out (for):                            気を付ける / You need to `watch out for` wildlife that may appear unexpectedly.
 - [ ] work for:                                   で勤めている / My current company is the fourth company I've `worked for`.
 - [ ] work in:                                    で働いています
 - [ ] work on:                                    改善する 取り組む / I need to `work on` being more punctual.
 - [ ] work overtime:                              残業する
+- [ ] would've thought that S V:                  I `would've thought that` he'd hate dancing at a club.
 - [ ] wrap up:                                    切り上げる / We hope to `wrap up` the negotiations at the next meeting.
 
 ## INANIMATE SUBJECT
 
 - [ ] account for:                                占める /  Wheat accounts for approximately two-thirds of agricultural production in the area.
-- [ ] add up:                                     納得がいく / It `doesn't add up` at all.
+- [~] add up:                                     納得がいく / It `doesn't add up` at all.
 - [ ] appreciate in value:                        価値が上がる
-- [ ] be a blur:                                  (記憶が)ぼんやりしている / Last weekend `was a blur`.
+- [~] be a blur:                                  (記憶が)ぼんやりしている / Last weekend `was a blur`.
+- [ ] be accompanied by:                          が付随して起こる / More often than not. famine `is accompanied by` plague.
+- [~] be attributed to:                           に起因する / The strength of the firm `is attributed to` its unique and future-oriented strategies.
+- [ ] be at his disposal:                         思い通りにできる / He claimed that the enormous property `was at his disposal`.
+- [ ] be based in:                                外資系 / My company `is based in` U.S. but 80% of the employees are Japanese.
+- [ ] be based out of:                            を拠点とする / The position `is based out of` the main office in Seattle.
+- [ ] be bathed in a golden light:                日光を浴びる
+- [ ] be bathed in blood:                         血まみれ
+- [ ] be bathed in:                               まみれになる
+- [~] be black and white:                         明らかな / Things in life are never black and white.
 - [ ] be caused by:                               から生じる / The periodic change `was caused by` a faulty piece of equipment.
+- [~] be composed of:                             で構成されている / This substance is mostly composed of hydrogen and oxygen.
+- [ ] be eating me alive:                         蝕んでいる / Keeping secrets `was eating me alive.`
+- [~] be exemplified by O:                        に例示される / This `is exemplified by` Facebook's Causes application.
 - [ ] be for:                                     合う / That job `wasn't for` me.
+- [~] be in effect:                               有効である / a severe weather alert `is in effect` for the region as of six A.M.
+- [~] be made up of:                              で構成されている / Our workgroup is made up of people from lots of divisions in our company.
+- [ ] be on the verge of ...:                     寸前である 瀕している / Many fragile species are on the verge of extinction.
+- [ ] be out of the question:                     Going to the party `is out of the question`!
+- [ ] be propped up against:                      立てかけられている
+- [~] be under way:                               進行中 / The negotiations are under way.
 - [ ] break down:                                 動力機械が壊れる / The washing machine has `broken down` again.
 - [ ] break out:                                  起こる / The fire `broke out` in the middle of the night.
 - [ ] bring about:                                もたらす / Medical breakthroughs have `brought about` great benefits for humanity as a whole.
@@ -207,121 +292,24 @@
 - [ ] bring on:                                   引き起こす / Fatigue often `brings on` headaches.
 - [ ] bring through:                              難局を切抜させる / Her angelic smile `brought me through` my mental distress .
 - [ ] brings back memories:                       思い出させる / This song `brings back memories!`
+- [~] can wait:                                   まで大丈夫 / Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
 - [ ] come after:                                 文章が続く / what `comes after` that has to be -ing like "My hobby is taking pictures."
 - [ ] come in handy:                              役に立つ / This tool `comes in handy`, so I always keep it close at hand.
-- [ ] get O C:                                    O を C という状態にする / This song always `gets me feeling` some type of way.
+- [ ] depreciate in value:                        価値が下がる
 - [ ] go into:                                    投入される / Nearly 1000 hours of work `went into` the project.
-- [ ] has given:                                  知らされる / The official dates `haven't been given` to us yet.
-- [ ] have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.
-- [ ] have little to do with:                     とほとんど関係がない
-- [ ] have much to do with:                       と大いに関係がある
-- [ ] have nothing to do with:                    と関係がない
-- [ ] have something to do with:                  と何らかの関係がある /  Innovation `has something to do with` the ability to notice unusual phenomena.
+- [~] has given:                                  知らされる / The official dates `haven't been given` to us yet.
+- [~] have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.
+- [~] have little to do with:                     とほとんど関係がない
+- [~] have much to do with:                       と大いに関係がある
+- [~] have nothing to do with:                    と関係がない
+- [~] have something to do with:                  と何らかの関係がある /  Innovation `has something to do with` the ability to notice unusual phenomena.
+- [ ] help O 原形動詞:                            The brochure `helped me find` the information / Just `help me find` them. / He `helps me study` English.
+- [ ] leave nothing to be desired:                Your summary `leaves nothing to be desired.`
 - [ ] result from:                                から生じる / Tsunamis generally `result from` earthquakes.
 - [ ] set forth:                                  規定する / Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
-- [ ] slipped my mind:                            を完全に忘れてた / Your birthday party completely `slipped my mind`.
-- [ ] turn out:                                   という結果となる / Take it easy. I can assure you that everything will `turn out` fine.
-- [ ] turn out:                                   と判明する / It `turned out` to be true.
-- [ ] work for:                                   都合がよい / That doesn't `work for` my wife.
-
-## OTHERS
-
-- [ ] be accompanied by:                          が付随して起こる / More often than not. famine is accompanied by plague.
-- [ ] be all for:                                 強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
-- [ ] be anxious to:                              切望する 悪 → 中 / The slaves were anxious to alter their destinies.
-- [ ] be at his disposal:                         思い通りにできる / He claimed that the enormous property was at his disposal.
-- [ ] be aware of:                                気づいている
-- [ ] be based in:                                外資系 / My company `is based in` U.S. but 80% of the employees are Japanese.
-- [ ] be based out of:                            を拠点とする / The position `is based out of` the main office in Seattle.
-- [ ] be bathed in a golden light:                日光を浴びる
-- [ ] be bathed in blood:                         血まみれ
-- [ ] be bathed in sweat:                         汗だく
-- [ ] be bathed in:                               まみれになる
-- [ ] be better off O:                            You`'re better off` starting from the beginning than trying ...
-- [ ] be black and white:                         明らかな / Things in life are never black and white.
-- [ ] be blessed with:                            恵まれる / He is lucky to be blessed with so much talent.
-- [ ] be caught up in:                            巻き込まれる / I got caught up in the rain on the way home from the station.
-- [ ] be composed of:                             で構成されている / This substance is mostly composed of hydrogen and oxygen.
-- [ ] be conscious of:                            自覚している / To make matters worse, he isn't even conscious of annoying us.
-- [ ] be eager to:                                切望する 中 → 良
-- [ ] be eating me alive:                         Keeping secrets `was eating me alive.`
-- [ ] be exemplified by O:                        This `is exemplified by` Facebook's Causes application.
-- [ ] be fond of:                                 が大好きである
-- [ ] be getting at:                              言おうとする / I couldn't make out what you were getting at. / What's the point you're getting at?
-- [ ] be in a class of ones own:                  別格である / They `are in a class of their own`.
-- [ ] be in effect:                               有効である / a severe weather alert `is in effect` for the region as of six A.M.
-- [ ] be in favor of:                             賛成する / I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
-- [ ] be in for:                                  直面しそうだ / Looks like we'll `be in for` some wet weather over the next few days.
-- [ ] be in the process of V-ing:
-- [ ] be looking forward to:                      楽しみにしている / I'm looking forward to your souvenirs.
-- [ ] be made up of:                              で構成されている / Our workgroup is made up of people from lots of divisions in our company.
-- [ ] be obsessed:                                が頭から離れない / He's obsessed with his new baby.
-- [ ] be of service:                              の手助けになる, に役立つ / I'm glad I could `be of service`.
-- [ ] be offended by/with:                        気分を害する / She was extremely offended by the things you said.
-- [ ] be on the brink of ...:                     寸前である 重大 / We are on the brink of war.
-- [ ] be on the verge of ...:                     寸前である 瀕している / Many fragile species are on the verge of extinction.
-- [ ] be open to any O:                           I`'m open to any` suggestions you may have for changes.
-- [ ] be out of the question:                     Going to the party `is out of the question`!
-- [ ] be propped up against:                      立てかけられている
-- [ ] be soaked:                                  びしょ濡れ / I'm soaked with sweat.
-- [ ] be tasked with V-ing:                       する任務を負う / I`'m tasked with helping` people cope with the stressful situations.
-- [ ] be under way:                               進行中 / The negotiations are under way.
-- [ ] be/stay/remain on hand:                     待機する / She'll `be on hand` to her books and speak with fans until...
-- [ ] bring/get A up to speed:                    最新情報に追いつかせる / We need to `bring newbies up to speed` on our project as quickly as possible.
-- [ ] burn the midnight oil:                      徹夜する
-- [ ] can wait:                                   Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
-- [ ] choose A `over` B:                A より B を選ぶ
-- [ ] come/get home (from work/school):           帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
-- [ ] cope with | deal with:                      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
-- [ ] cut corners:                                手を抜く / You shouldn't cut corners.
-- [ ] cut to the chase:                           要点を言う / Since we've only got five minutes, I'm going to cut to the chase.
-- [ ] decide | decide on:                         決心する | 決定する
-- [ ] depreciate in value:                        価値が下がる
-- [ ] exit `(from/out of)`:             exit a door / exit from a door / exit out of a door
-- [ ] find oneself V-ing:                         I often `find myself keeping` an eye on the stock market.
-- [ ] get O to V:                          She `got her son to do` the chores.
-- [ ] give it a though:                           I'll `give it a thought` and get back to you.
-- [ ] grant A B:
-- [ ] have N years of experience:                 年の経験がある / I `have three years of experience` in the ... field.
-- [ ] have O C:                              I `had my hair cut`.
-- [ ] have O 原形V:                          I `had my brother paint` the wall.
-- [ ] have a problem with:                        困っている / 苦手だ / `I have a problem with` his table manners.
-- [ ] have in mind:                               Whom do you `have in mind`?
-- [ ] heard back from:                            Have you `heard back from` the company?
-- [ ] heard | told:                               連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
-- [ ] help O 原形動詞:                       The brochure `helped me find` the information / Just `help me find` them. / He `helps me study` English.
-- [ ] hope for:                               望む / We are `hoping for` some rain.
-- [ ] inform A `of` B:
-- [ ] inform A that 節/疑問詞節:
-- [ ] just because ... doesn't mean:    `Just because` he smiles a lot `doesn't mean` he's kind.
-- [ ] know one's way around:                      の地理に明るい
-- [ ] leave nothing to be desired:                Your summary `leaves nothing to be desired.`
-- [ ] let A know:                                 I must `let my wife know` when I'll be home.
-- [ ] let O C:                               Don't `let me down`. / `Let me in!`
-- [ ] let O 原形V:                           My daughter's upset because I won't `let her get` a tattoo.
-- [ ] make O C:                              I'll do anything to `make you happy`. / to `make mayself understood` in English.
-- [ ] make O 原形V:                          He `made the students run` in the snow.
-- [ ] make a difference:                          They are fresh, unique, and have `made a huge difference` for me.
-- [ ] make an appearance:                         出席/出演する
-- [ ] make effort | work hard:                    努力しておりますが、実現できていません | 努力しています
-- [ ] notice | realize:                           視覚的に認識する | 思考により (重要性などを) 認識する
-- [ ] present A `with` B:               A に B を提示する
-- [ ] preside over:                               で司会を務める
-- [ ] put O on hold:                              We are going to `put this project on hold`. / Can you `put it on hold`?
-- [ ] see to it that:                             The professor `saw to it that` all of students understood the nature of the assignment.
-- [ ] shoot footage of:                           の場面の撮影をする
-- [ ] shoot footage of:                           の場面の撮影をする
-- [ ] speak at length about:                      長々と詳細に話す / I `spoke to them at length about` the possibility of extending the deadline.
-- [ ] take O O:                              It `takes her 25 minutes` to walk to work.
-- [ ] take care V-ing:                            We hope to `wrap up` the negotiations at the next meeting.
-- [ ] take ~~~ off:                               `take time off` / `take a day off`
-- [ ] teach | tell:                               習得した技術等を説明して教える | 相手が知らない情報を与える
-- [ ] usually end up V-ing:                       I `usually end up` getting fast food.
+- [~] slipped my mind:                            を完全に忘れてた / Your birthday party completely `slipped my mind`.
+- [~] take (O) O:                                 It `takes her 25 minutes` to walk to work.
+- [~] turn out:                                   という結果となる / Take it easy. I can assure you that everything will `turn out` fine.
+- [~] turn out:                                   と判明する / It `turned out` to be true.
 - [ ] weigh A versus B:                           S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
-- [ ] would've thought that S V:                  I `would've thought that` he'd hate dancing at a club.
-- [ ] ~~. That's not to say (that) S V: `That's not to say that` it'll be impossible without it, but,,,
-- [ ] ~~~. That I V:                    Yes, we need to spend less money. `That I` agree with.
-- [ ] 人 need V | 物 need V-ing:                  する必要がある | される必要がある
-- [ ] 何と同じ？:                            [I'm planning to enroll in `the same` computer course `that` you took at the local college last year.]()
-- [ ] 何と同じ？:                            [`just as` the passer rating is not a perfect measure of quarteback performance.]()
-- [ ] 動詞 `of`:                        writes `of the distant past` / hear `of A` / know `of A`
+- [~] work for:                                   都合がよい / That doesn't `work for` my wife.

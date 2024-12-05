@@ -76,7 +76,7 @@
 - [ ] [of] 分離:                                    May I ask a favor `of` you? / They robbed her `of` her purse.
 - [ ] [of] 部分:                                    Thet's just the tip `of` the iceberg.
 - [ ] [of] 材料 `原料がその形をとどめている`:         Those glasses are all made `of` crystal.
-- [ ] [of] 関連 `think/know/hear 等とともに`:         What do you think `of` the new plan?
+- [ ] [of] 関連 `think/know/hear 等とともに`:         What do you think `of` the new plan? / writes `of the distant past` / hear `of A` / know `of A`
 - [ ] [of] の中で:                                  `of all dishes served at the Cafe`, the Chef's Special Pizza is the most popular.
 - [ ] [of] その他 `性質 年齢 所有 主格 目的 同格..`:  a story `of` love / a girl `of` ten / the love `of` God / the love `of` nature / the island `of` Honshu
 - [ ] [on] 位置 `接触`:                               There are several pens `on` your desk.

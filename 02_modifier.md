@@ -19,6 +19,7 @@
 - [ ] [summary] all things considered:              全て考慮に入れると / `All things considered`, that was a successful event.
 - [x] [summary] in any case:                        いずれにしろ / `In any case,` the union has to compromise to a certain extent.
 - [x] [summary] anyway:                             いずれにしろ / That’s a funny story. `Anyway,` he is late today, isn’t he?
+- [x] [summary] regardless:                         いずれにしろ / `Regardless`, please give us ...
 - [ ] [summary] the fact is,:                       実を言うと / `The fact is,` I don't have enough money.
 - [~] [change] going back to O:                     に戻ると / `Going back to` your question, my answer is no.
 - [~] [change] off-topic, but:                      話は逸れますが / Bit `off-topic, but` I just finished editing the video.

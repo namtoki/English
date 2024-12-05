@@ -51,6 +51,7 @@
 - [ ] [compaund] social welfare                     福祉
 - [ ] [compaund] third baseline                     三塁側
 - [ ] [compaund] treat oneself                      ご褒美
+- electricity expenditures
 - [ ] family of N:                                人家族 / I'm from a family of four.
 - [ ] consensus of opinion:                       意見の一致
 - [ ] nothing out of the ordinary:                普通
@@ -114,3 +115,5 @@
 - [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
 - [ ] industrial | industrious:                   工業の | 勤勉な
 - [ ] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
+- [ ] 何と同じ？:                            [I'm planning to enroll in `the same` computer course `that` you took at the local college last year.]()
+- [ ] 何と同じ？:                            [`just as` the passer rating is not a perfect measure of quarteback performance.]()
