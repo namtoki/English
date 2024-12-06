@@ -22,6 +22,7 @@
 - [~] It could be (that):                         かもしれない / `It could be that` Wayne's just naturally fit, but ,,,
 - [~] It occurs to me that S V:                   ふと思ったんだけど / `It occurs to me that` I've never asked your name.
 - [~] It depends O:                               による / `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
+- [~] It might be a good idea to V:               したほうがいいかも / `It might be a good idea to` read the reviews before you buy it.
 - [~] It's up in the air whether S V:             かどうか決まっていない / `It's up in the air whether` the game will be called off or not.
 - [ ] It's no use V-ing:                          しても無駄 / `It's no use` polishing it.
 - [~] It doesn't mean anything:                   意味がない / `It doesn't mean anything` to me anymore.
@@ -205,6 +206,7 @@
 - [ ] have N years of experience:                 年の経験がある / I `have three years of experience` in the ... field.
 - [~] have O C:                                   O を C の状態にしてもらう / I `had my hair cut`.
 - [~] have O 原形V:                               O に V してもらう / I `had my brother paint` the wall.
+- [ ] have a long way:                            まだ先は長い / I was, but I still `have a long way` to go.
 - [ ] have a problem with:                        困っている / 苦手だ / `I have a problem with` his table manners.
 - [ ] have come a long way:                       すごい進んだ / Yeah. We'`ve really come a long way.`
 - [~] have in mind:                               計画している / What did you `have in mind` for the annual banquet?
