@@ -43,21 +43,7 @@
 - [ ] what we should do with O:                   O をどうすべきか / Did Jerry mention `what we should do with` all these leftover party supplies?
 - [ ] what A S+V:                                 S が V する全ての A / Lend me `what books you can`. = Lend me `all the books you can`.
 
-## ADJECTIVE -LIMITED-
-
-- [ ] the most commonly accepted:                 一番自然な / but `the most commonly accepted` way is the -ing.
-- [ ] the very first:                             一番最初の / `the very first` question is the use of ..."
-- [ ] one-off:                                    一度きりの / The expense incurred this year to construct the building is a `one-off` cost.
-- [ ] last-minute:                                土壇場の
-- [ ] neighborly:                                 隣人の 親切な
-- [ ] best-in-class:                              最高クラスの
-- [~] whole other:                                全然違う / That's a `whole other` problem.
-- [ ] way better:                                 much better / That's just hype. I know `way better` places.
-- [ ] each and every:                             ひとつひとつの / `each and every one of` these questions
-- [ ] scorching:                                  焼きつくような / It's `scorching hot` today.
-- [ ] boiling:                                    うだるような / This room is `boiling hot`.
-
-## ADJECTIVE -CONCRETE-
+## CONCRETE
 
 - [ ] ETA (Estimated Time of Arrival):            帰る時間 / I send her a message with my ETA.
 - [ ] advanced degree:                            修士号 博士号
@@ -77,6 +63,7 @@
 - [ ] electricity expenditures
 - [ ] enrollment quota:                           入学定員数
 - [ ] family of N:                                人家族 / I'm from a family of four.
+- [ ] film adaption:                              映画化
 - [~] gut feeling                                 直観
 - [ ] hay fever                                   花粉症
 - [ ] health insurance                            健康保険
@@ -87,6 +74,7 @@
 - [ ] nothing out of the ordinary:                普通
 - [ ] one of those days:                          最悪の日
 - [ ] pound sign:                                 #
+- [ ] population boom:                            人口の急増
 - [ ] premise | premises:                         前提 | 家屋,建物,構内,敷地内
 - [ ] renewal notice:                             更新通知
 - [ ] repeat business:                            常連
@@ -99,7 +87,21 @@
 - [ ] wildlife refuge:                            鳥獣保護区
 - [ ] working hours:                              執務時間 / My regular working hours end at 6pm.
 
-## DISCRIPTIVE
+## ADJECTIVE -LIMITED-
+
+- [ ] the most commonly accepted:                 一番自然な / but `the most commonly accepted` way is the -ing.
+- [ ] the very first:                             一番最初の / `the very first` question is the use of ..."
+- [ ] one-off:                                    一度きりの / The expense incurred this year to construct the building is a `one-off` cost.
+- [ ] last-minute:                                土壇場の
+- [ ] neighborly:                                 隣人の 親切な
+- [ ] best-in-class:                              最高クラスの
+- [~] whole other:                                全然違う / That's a `whole other` problem.
+- [ ] way better:                                 much better / That's just hype. I know `way better` places.
+- [ ] each and every:                             ひとつひとつの / `each and every one of` these questions
+- [ ] scorching:                                  焼きつくような / It's `scorching hot` today.
+- [ ] boiling:                                    うだるような / This room is `boiling hot`.
+
+## ADJECTIVE -DESCRIPTIVE-
 
 - [ ] for hire:                                   有料で利用できる、借りられる
 - [ ] halfway through:                            の途中で,半ばを過ぎた / I was `halfway through` dinner when he appeared.

@@ -129,7 +129,7 @@
 
 - [ ] act fanny:                                  ふざける / Why do you always `act funny` like that?
 - [ ] adjust | arrange | coordinate:              既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
-- [ ] argue against:                              反論する /  If you `argue against` an opinion, idea, belief, etc., 
+- [ ] argue against:                              反論する /  If you `argue against` an opinion, idea, belief, etc.,
 - [ ] ask for:                                    請求する / The credit card company `asked for` the payment. / You are `asking for` it.
 - [ ] ask out:                                    誘う / He finally `asked Alice out`!
 - [~] be all for:                                 強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
@@ -175,6 +175,7 @@
 - [ ] come across:                                遭遇する / I `came across` this information on the internet.
 - [ ] come clean:                                 正直に述べる confess / OK. I'll `come clean`.
 - [ ] come do:                                    do しに来る / I wish my girlfriend would `come see` me.
+- [ ] come to an agreement:                       合意に至る / The organizers have `come to an agreement` regarding the location of the next Starr Trekking Convention.
 - [ ] come up with:                               考え出す / He `came up with` an ingenious, sensible solution and immediately put it into practice.
 - [ ] come/get home (from work/school):           帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
 - [ ] cope with | deal with:                      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
@@ -217,6 +218,7 @@
 - [ ] inform A `of` B:
 - [ ] inform A that 節/疑問詞節:
 - [ ] invite sb over sth:                         sb を sth に招待する / I `invited` some friends and family `over` for lunch.
+- [~] jot down:                                   手早くメモする / It was difficult for me to `jot down` the words he said.
 - [ ] know all too well:                          嫌と言うほどわかっている / We `know all too well` how fast the weather can change here; last year our wedding got rained out.
 - [ ] know one's way around:                      の地理に明るい
 - [~] leave A up to B:                            A を B に任せる / I'll `leave it up to you`.
@@ -252,6 +254,7 @@
 - [ ] teach | tell:                               習得した技術等を説明して教える | 相手が知らない情報を与える
 - [~] think much of:                              高く評価する / Bob likes cartoons, but I don't `think much of` them.
 - [~] think nothing of:                           なんとも思わない
+- [~] turn onto:                                  (道に)入る / Which street do I `turn onto`?
 - [ ] usually end up V-ing:                       I `usually end up` getting fast food.
 - [~] watch out (for):                            気を付ける / You need to `watch out for` wildlife that may appear unexpectedly.
 - [ ] work for:                                   で勤めている / My current company is the fourth company I've `worked for`.
@@ -265,6 +268,7 @@
 
 - [ ] account for:                                占める /  Wheat accounts for approximately two-thirds of agricultural production in the area.
 - [~] add up:                                     納得がいく / It `doesn't add up` at all.
+- [~] allow for:                                  考慮に入れる 見込む / The planning department budget does not `allow for` spending on non-essential items.
 - [ ] appreciate in value:                        価値が上がる
 - [~] be a blur:                                  (記憶が)ぼんやりしている / Last weekend `was a blur`.
 - [ ] be accompanied by:                          が付随して起こる / More often than not. famine `is accompanied by` plague.
