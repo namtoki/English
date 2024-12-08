@@ -43,6 +43,7 @@
 - [ ] [倒置] 原級/比較級比較 as/than 以下:          Prehistoric man may well have had as much brain power as `has the man of today`.
 - [x] [挿入] that 節をとる S+V:                     前後にカンマを置いて挿入表現となる
 - [ ] 関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
+- [ ] 受動態は極力使用しないほうがいいが、動作主が一般の人々の場合、動作主が自明の場合、強調したい場合、被害、感情は例外
 
 ## PREPOSITION
 

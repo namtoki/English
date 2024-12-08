@@ -105,6 +105,7 @@
 - [ ] might as well:                              してもいいかもしれない / You `might as well` walk home.
 - [ ] need to:                                    しなければならない (ほんまに) / I `need to` get back to the office.
 - [~] seems to:                                   のようだ (目の前の状況) `It seems to be broken.`
+- [ ] shall:                                      (規定文書で)するものとする / The report `shall` be signed by both parties.
 - [ ] should:                                     しなければならない (実際にはしないだろうけど) / We `should` ask first.
 - [ ] take the plunge and:                        思い切ってした /
 - [ ] tend to:                                    たいてい / I `tend not to` remember my dreams.
@@ -117,6 +118,8 @@
 - [ ] would:                                      自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
 - [ ] 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
 - [ ] 人 need V | 物 need V-ing:                  する必要がある | される必要がある
+- [ ] 三人称 will V:                              することがある / するものだ / He `will` often take a nap while at work.
+- [ ] 人間以外には通常 be able to は用いられない
 
 ## AUXILIARY+THAT+S+V
 
