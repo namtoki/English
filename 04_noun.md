@@ -54,6 +54,7 @@
 - [ ] bloodshot eyes:                             充血した目 / I've got bloodshot eyes.
 - [ ] boarding pass:                              搭乗券
 - [ ] business hours:                             執務時間
+- [ ] classified advertisement:                   案内広告
 - [ ] commitment | commitments:                   献身 | 約束
 - [ ] commuter train:                             通勤列車
 - [ ] consensus of opinion:                       意見の一致
@@ -73,6 +74,7 @@
 - [ ] manner | manners:                           やり方、方法、立ち振る舞い | 礼儀、マナー
 - [ ] nothing out of the ordinary:                普通
 - [ ] one of those days:                          最悪の日
+- [ ] pedestrian crossing:                        横断歩道 crosswalk, crossway
 - [ ] pound sign:                                 #
 - [ ] population boom:                            人口の急増
 - [ ] premise | premises:                         前提 | 家屋,建物,構内,敷地内

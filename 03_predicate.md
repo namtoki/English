@@ -241,12 +241,13 @@
 - [ ] present A `with` B:                           A に B を提示する
 - [ ] preside over:                               で司会を務める
 - [~] push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
-- [ ] put O on hold:                              We are going to `put this project on hold`. / Can you `put it on hold`?
+- [ ] put O on hold:                              保留する / We are going to `put this project on hold`. / Can you `put it on hold`?
 - [ ] put off V-ing:                              延期する / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
 - [~] see to:                                     きちんと確認する / I'll `see to` it.
 - [ ] set out:                                    出発する / We `set out` on a hike. / `set out` one's ideas
 - [~] settle for:                                 妥協する / But for now, we'll have to `settle for` this.
 - [ ] shoot footage of:                           の場面の撮影をする
+- [ ] single out:                                 選出する / Ms. Kadokawa was `singled out` for praise in the company's monthly newsletter.
 - [ ] speak at length about:                      長々と詳細に話す / I `spoke to them at length about` the possibility of extending the deadline.
 - [~] straighten up:                              (物事を正しい位置に戻すように) 整理する
 - [ ] take care V-ing:                            We hope to `wrap up` the negotiations at the next meeting.
@@ -306,6 +307,7 @@
 - [ ] come after:                                 文章が続く / what `comes after` that has to be -ing like "My hobby is taking pictures."
 - [ ] come in handy:                              役に立つ / This tool `comes in handy`, so I always keep it close at hand.
 - [ ] depreciate in value:                        価値が下がる
+- [~] fall through:                               頓挫する 失敗に終わる / Unfortunately, the plans for the merger between A and B `fell through` at the last minute.
 - [ ] go into:                                    投入される / Nearly 1000 hours of work `went into` the project.
 - [~] has given:                                  知らされる / The official dates `haven't been given` to us yet.
 - [~] have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.

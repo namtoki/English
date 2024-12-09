@@ -2,18 +2,24 @@
 - [ ] astronomy
 - [ ] attire
 - [ ] choreographer
+- [ ] combustible
 - [ ] comparable | comparative:                   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
 - [ ] compartment
 - [ ] compliance
+- [ ] contradiction
 - [ ] correspondence
 - [ ] courteous
 - [ ] culinary
 - [ ] eclectic
 - [ ] excerpt
+- [ ] exorbitant
 - [ ] faithful
 - [ ] file
 - [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
+- [ ] inception
+- [ ] inconsistency
 - [ ] industrial | industrious:                   工業の | 勤勉な
+- [ ] litigation
 - [ ] lumber
 - [ ] medication
 - [ ] mingle
