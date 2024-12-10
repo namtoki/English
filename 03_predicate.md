@@ -295,6 +295,7 @@
 - [ ] be on the verge of ...:                     寸前である 瀕している / Many fragile species are on the verge of extinction.
 - [ ] be out of the question:                     Going to the party `is out of the question`!
 - [ ] be propped up against:                      立てかけられている
+- [ ] be second to none:                          何にも劣らない
 - [~] be under way:                               進行中 / The negotiations are under way.
 - [ ] break down:                                 動力機械が壊れる / The washing machine has `broken down` again.
 - [ ] break out:                                  起こる / The fire `broke out` in the middle of the night.
@@ -309,6 +310,7 @@
 - [ ] depreciate in value:                        価値が下がる
 - [~] fall through:                               頓挫する 失敗に終わる / Unfortunately, the plans for the merger between A and B `fell through` at the last minute.
 - [ ] go into:                                    投入される / Nearly 1000 hours of work `went into` the project.
+- [ ] go into effect:                             実施される / New workplace rules will `go into effect` at the start of the year.
 - [~] has given:                                  知らされる / The official dates `haven't been given` to us yet.
 - [~] have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.
 - [~] have little to do with:                     とほとんど関係がない

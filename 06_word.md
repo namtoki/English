@@ -27,3 +27,7 @@
 - [ ] proponent
 - [ ] respectively
 - [ ] superb
+- [ ] apprentice
+- [ ] tentative
+- [ ] incur
+- [ ] subsidiary
