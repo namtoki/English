@@ -46,6 +46,7 @@
 ## CONCRETE
 
 - [ ] ETA (Estimated Time of Arrival):            帰る時間 / I send her a message with my ETA.
+- [ ] access road:                                連絡道路
 - [ ] advanced degree:                            修士号 博士号
 - [ ] approach(es) to:                            への取り組み
 - [ ] assessment | evaluation:                    改善目的の評価 | 判断目的の評価
