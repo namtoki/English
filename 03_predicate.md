@@ -189,6 +189,8 @@
 - [ ] decide | decide on:                         決心する | 決定する
 - [ ] doesn't have as many A as B:                B ほど A を持っていない / We `don't have as many poeple in our team as` we did last year.
 - [ ] doesn't have as much A as B:                B ほど A を持っていない / He `doesn't have as much experience as` the other candidates.
+- [ ] enter into an agreement with:               と契約を結ぶ / Klimt Development has `entered into` an agreement with Harper Towers Condominium that ...
+- [ ] establish oneself as:                       として確立する / Rob Dunn worked hard at several top restaurants in order to `establish himself as` a chef.
 - [~] expand on/upon:                             より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
 - [ ] find oneself V-ing:                         I often `find myself keeping` an eye on the stock market.
 - [ ] fold up:                                    を折りたたむ
@@ -308,6 +310,7 @@
 - [ ] come after:                                 文章が続く / what `comes after` that has to be -ing like "My hobby is taking pictures."
 - [ ] come in handy:                              役に立つ / This tool `comes in handy`, so I always keep it close at hand.
 - [ ] depreciate in value:                        価値が下がる
+- [ ] ease off:                                   落ち着く / Demand for air conditioners is expected to `ease off` toward the end of summer.
 - [~] fall through:                               頓挫する 失敗に終わる / Unfortunately, the plans for the merger between A and B `fell through` at the last minute.
 - [ ] go into:                                    投入される / Nearly 1000 hours of work `went into` the project.
 - [ ] go into effect:                             実施される / New workplace rules will `go into effect` at the start of the year.
