@@ -1,24 +1,24 @@
-- [ ] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
+- [x] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
 - [ ] anticipatory
 - [ ] apprehensive
 - [ ] apprentice
-- [ ] astronomy
-- [ ] attire
-- [ ] choreographer
+- [x] astronomy
+- [x] attire
+- [x] choreographer
 - [ ] combustible
 - [ ] comparable | comparative:                   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
-- [ ] compartment
-- [ ] compliance
-- [ ] contradiction
-- [ ] correspondence
-- [ ] courteous
+- [x] compartment
+- [x] compliance
+- [x] contradiction
+- [x] correspondence
+- [x] courteous
 - [ ] culinary
 - [ ] eclectic
-- [ ] excerpt
+- [x] excerpt
 - [ ] exorbitant
 - [ ] exquisite
-- [ ] file
-- [ ] fithful
+- [x] file
+- [ ] faithful
 - [ ] fluctuate
 - [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
 - [ ] illustrious
