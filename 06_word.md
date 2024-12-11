@@ -31,8 +31,8 @@
 - [ ] intermission
 - [ ] litigation
 - [ ] lumber
-- [ ] medication
-- [ ] mingle
+- [x] medication
+- [x] mingle
 - [ ] novice
 - [ ] occupant
 - [ ] occupational
@@ -42,9 +42,9 @@
 - [ ] procrastinate
 - [ ] proponent
 - [ ] reap
-- [ ] respectively
+- [x] respectively
 - [ ] solicit
 - [ ] subside
 - [ ] subsidiary
 - [ ] superb
-- [ ] tentative
+- [x] tentative
