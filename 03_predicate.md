@@ -245,6 +245,7 @@
 - [~] push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
 - [ ] put O on hold:                              保留する / We are going to `put this project on hold`. / Can you `put it on hold`?
 - [ ] put off V-ing:                              延期する / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
+- [ ] set foot on:                                足を踏み入れる
 - [~] see to:                                     きちんと確認する / I'll `see to` it.
 - [ ] set out:                                    出発する / We `set out` on a hike. / `set out` one's ideas
 - [~] settle for:                                 妥協する / But for now, we'll have to `settle for` this.
