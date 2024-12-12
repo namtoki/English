@@ -2,33 +2,33 @@
 
 ## HEAD or TAIL
 
-- [~] [addition] to begin with:                     まずはじめに / `To begin with,` its theme is obscure.
-- [x] [addition] first/Most of all:                 まずはじめに / `First of all,` learn the formula by heart.
-- [~] [addition] on top of that:                    その上
-- [~] [addition] what's more:                       その上 / I met the man by chance. He's gentle and smart. `What's more,` he's single.
-- [ ] [addition] what's worse:                      さらに悪いことに
-- [ ] [addition] to make matters worse:             さらに悪いことに / `To make matters worse,` he isn't even conscious of annoying us.
-- [x] [addition] and then:                          それから
-- [x] [addition] in which case:                     この場合は / Scott might be on vacation, `in which case,` just touch base with Aaron.
-- [x] [addition] in that case:                      その場合は / `In that case,` I’ll have a beer.
-- [ ] [addition] against this background:           このような背景のもと、(結果)
-- [ ] [addition] and the next thing I knew:         次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
-- [~] [addition] (more) broadly speaking:           一般的に言うと
-- [~] [summary] at the end of the day:              結局のところ / `At the end of the day,` this is not that important.
+- [ ] (more) broadly speaking:                    一般的に言うと
+- [ ] against this background:                    このような背景のもと、(結果)
+- [ ] and the next thing I knew:                  次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
+- [ ] and then:                                   それから
+- [ ] first/Most of all:                          まずはじめに / `First of all,` learn the formula by heart.
+- [ ] in that case:                               その場合は / `In that case,` I’ll have a beer.
+- [ ] in which case:                              この場合は / Scott might be on vacation, `in which case,` just touch base with Aaron.
+- [ ] on top of that:                             その上
+- [ ] to begin with:                              まずはじめに / `To begin with,` its theme is obscure.
+- [ ] to make matters worse:                      さらに悪いことに / `To make matters worse,` he isn't even conscious of annoying us.
+- [ ] what's more:                                その上 / I met the man by chance. He's gentle and smart. `What's more,` he's single.
+- [ ] what's worse:                               さらに悪いことに
+- [ ] [summary] at the end of the day:              結局のところ / `At the end of the day,` this is not that important.
 - [ ] [summary] simply put:                         簡単に言うと / `Simply put,` he doesn't like sports.
 - [ ] [summary] all things considered:              全て考慮に入れると / `All things considered`, that was a successful event.
-- [x] [summary] in any case:                        いずれにしろ / `In any case,` the union has to compromise to a certain extent.
-- [x] [summary] anyway:                             いずれにしろ / That’s a funny story. `Anyway,` he is late today, isn’t he?
-- [x] [summary] regardless:                         いずれにしろ / `Regardless`, please give us ...
+- [ ] [summary] in any case:                        いずれにしろ / `In any case,` the union has to compromise to a certain extent.
+- [ ] [summary] anyway:                             いずれにしろ / That’s a funny story. `Anyway,` he is late today, isn’t he?
+- [ ] [summary] regardless:                         いずれにしろ / `Regardless`, please give us ...
 - [ ] [summary] the fact is,:                       実を言うと / `The fact is,` I don't have enough money.
-- [~] [change] going back to O:                     に戻ると / `Going back to` your question, my answer is no.
-- [~] [change] off-topic, but:                      話は逸れますが / Bit `off-topic, but` I just finished editing the video.
+- [ ] [change] going back to O:                     に戻ると / `Going back to` your question, my answer is no.
+- [ ] [change] off-topic, but:                      話は逸れますが / Bit `off-topic, but` I just finished editing the video.
 - [ ] [change] like/as I was saying:                さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
 - [ ] [change] by the way:                          ところで /
-- [~] [reason] the reason being that:               というのも / `The reason being that,` I didn’t want to relocate.
+- [ ] [reason] the reason being that:               というのも / `The reason being that,` I didn’t want to relocate.
 - [ ] [but] Don't get me wrong, but:                誤解しないでほしいんだけど
 - [ ] [but] I hate to admit it, but:                認めたくないけど / `I hate to admit it, but` I might need your help.
-- [~] [but] That's a fair point, but:               それはもっともですが、
+- [ ] [but] That's a fair point, but:               それはもっともですが、
 - [ ] [but] it goes without saying that:            言うまでもないが / `It goes without saying that` the aging of society is inevitable.
 - [ ] [but] you know as well as I do that:          ご存じかと思いますが / `You know as well as I do that` this is very important.
 - [ ] [but] it may sound like:                      のように聞こえるかもしれないが / `It may sound like` I'm being self-centered here,
@@ -36,9 +36,9 @@
 - [ ] [excuse] I hope I'm not interrupting you,:    ご迷惑でなければいいのですが
 - [ ] [excuse] I hope you don't mind if:            ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
 - [ ] [excuse] if O works for you.:                 都合が良ければ / So I’ll see you at 7`, if it works for you.`
-- [~] [excuse] if I had to say/guess:               強いて言うなら / `If I had to guess,` I would say that she is single.
-- [~] [excuse] if I'm not mistaken:                 間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
-- [~] [excuse] off the top of my head:              思いつくままに言うと / `Off the top of my head,` I think it's wrong.
+- [ ] [excuse] if I had to say/guess:               強いて言うなら / `If I had to guess,` I would say that she is single.
+- [ ] [excuse] if I'm not mistaken:                 間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
+- [ ] [excuse] off the top of my head:              思いつくままに言うと / `Off the top of my head,` I think it's wrong.
 - [ ] [excuse] if you ask me:                       強いて言うなら / It was a little long`, if you ask me.`
 - [ ] [excuse] if you don't mind:                   もしよろしければ / I have a suggestion`, if you don't mind.`
 - [ ] [excuse] in one's defence:                    言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
@@ -46,13 +46,13 @@
 - [ ] [condition] as sb anticipated:                予測していた通り / `As we anticipated,` the unemployment rate has risen ....
 - [ ] [condition] if you think about it:            考え方によっては / It's crazy how we can communicate like this`, if you think about it.`
 - [ ] [condition] now that:                         いまや / `Now that` things are better, we should talk about the problem.
-- [~] [condition] when it comes to O:               ということになると / `When it comes to` the weather, there’s nothing I can do.
+- [ ] [condition] when it comes to O:               ということになると / `When it comes to` the weather, there’s nothing I can do.
 - [ ] [opinion] speaking from experience:           私の経験から言うと
 - [ ] [opinion] I also feel that:                   私も同じ考えで / `I also feel that` it's a great idea to build a daycare facility next to our building.
-- [~] [opinion] the way I see it:                   私の見解では / `The way I see it`, it's too simplistic to say that ...
-- [~] [end] you know what I mean?:                  言ってることわかります？
-- [~] [end] if that makes sense.:                   言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
-- [~] [end] or not really?:                         それとも違う？ / Do you like this kind of music`, or not really?`
+- [ ] [opinion] the way I see it:                   私の見解では / `The way I see it`, it's too simplistic to say that ...
+- [ ] [end] you know what I mean?:                  言ってることわかります？
+- [ ] [end] if that makes sense.:                   言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
+- [ ] [end] or not really?:                         それとも違う？ / Do you like this kind of music`, or not really?`
 - [ ] [end] or what?:                               それとも違う？ / Are we gonna have fun`, or what?`
 
 ## FOCUS
