@@ -1,5 +1,19 @@
 # MODIFIER
 
+## 理由
+- [接続副詞] as a result:                       He didn't work hard and, `as a result`, he failed in the exam.
+    - [接続副詞] as a consequence:
+    - [接続副詞] consequently:                  He made a mistake, and `consequently` lost an opportunity for being promoted.
+- [群前置詞] because of 名:                     `Because of` the heavy snow, our flight was delayed.
+    - [群前置詞] owing to 名:                   好ましくないこと / 文頭 / `Owing to` illness, some representatives were absent from ...
+    - [群前置詞] thanks to 名:                  好ましいこと / `Thanks to` the strong yen, we can travel abroad without spending much.
+    - [群前置詞] as a result of 名:             因果の間に時間差 / `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+    - [群前置詞] in consequence of 名:          堅苦しい /
+    - [群前置詞] on account of 名:              困難 / 文語 / Our flight to Vienna was delayed `on account of` a minor accident.
+    - [群前置詞] at the sound of:
+    - [群前置詞] due to O:                           I missed school `due to` Covid-19.
+    - [群前置詞] on the recommendation of O:         の推薦で
+
 ## HEAD or TAIL
 
 - [ ] (more) broadly speaking:                    一般的に言うと
@@ -254,12 +268,6 @@
 - [ ] [objective] so as to V:                      She left home early `so as to` avoid traffic congestion.
 - [ ] [objective] with a view to V-ing:            A fund was set up `with a view to` preserving our endangered planet.
 - [ ] [objective] with the intention of V-ing:     しようと思って
-- [ ] [reason] as a result of O:                   `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-- [ ] [reason] at the sound of:
-- [ ] [reason] due to O:                           I missed school `due to` Covid-19.
-- [ ] [reason] on account of O:                    困難 / Our flight to Vienna was delayed `on account of` a minor accident.
-- [ ] [reason] on the recommendation of O:         の推薦で
-- [ ] [reason] owing to O:                         形式的 / 文頭 / `Owing to` illness, some representatives were absent from ...
 - [ ] [where] directly accross from:               の真向かいに
 - [ ] [where] down there:
 - [ ] [where] in the course of:                    `In the course of` its economic development, Japan has ...
