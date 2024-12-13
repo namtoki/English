@@ -144,6 +144,7 @@
 - [ ] be blessed with:                            恵まれる / He is lucky to `be blessed with` so much talent.
 - [ ] be caught up in:                            巻き込まれる / I `got caught up in` the rain on the way home from the station.
 - [ ] be conscious of:                            自覚している / To make matters worse, he isn't even conscious of annoying us.
+- [ ] be content with:                            に満足している
 - [ ] be fond of:                                 が大好きである
 - [~] be getting C:                               C になってきた / I`'m getting` tired of them.
 - [~] be getting at:                              言おうとする / I couldn't make out what you were getting at. / What's the point you're getting at?
@@ -181,6 +182,7 @@
 - [ ] come to an agreement:                       合意に至る / The organizers have `come to an agreement` regarding the location of the next Starr Trekking Convention.
 - [ ] come up with:                               考え出す / He `came up with` an ingenious, sensible solution and immediately put it into practice.
 - [ ] come/get home (from work/school):           帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
+- [ ] conceive a plan:                            計画を思いつく / They `conceived a plan` to surprise the enemy.
 - [ ] cope with | deal with:                      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
 - [ ] cope with:                                  折り合いをつける / I'm trying to `cope with` loneliness in these new and unfamiliar surroundings.
 - [ ] cut corners:                                手を抜く / You shouldn't `cut corners`.
@@ -189,6 +191,7 @@
 - [ ] decide | decide on:                         決心する | 決定する
 - [ ] doesn't have as many A as B:                B ほど A を持っていない / We `don't have as many poeple in our team as` we did last year.
 - [ ] doesn't have as much A as B:                B ほど A を持っていない / He `doesn't have as much experience as` the other candidates.
+- [ ] drum up business:                           顧客を増やす
 - [ ] enter into an agreement with:               と契約を結ぶ / Klimt Development has `entered into` an agreement with Harper Towers Condominium that ...
 - [ ] establish oneself as:                       として確立する / Rob Dunn worked hard at several top restaurants in order to `establish himself as` a chef.
 - [~] expand on/upon:                             より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.

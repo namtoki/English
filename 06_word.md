@@ -1,29 +1,23 @@
-- [x] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
+- [ ] adamant
+- [x] advocate
 - [ ] anticipatory
 - [ ] apprehensive
-- [ ] apprentice
-- [x] astronomy
-- [x] attire
-- [x] choreographer
+- [x] apprentice
 - [ ] combustible
 - [ ] comparable | comparative:                   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
-- [x] compartment
-- [x] compliance
-- [x] contradiction
-- [x] correspondence
-- [x] courteous
+- [ ] concede
 - [ ] culinary
 - [ ] eclectic
-- [x] excerpt
 - [ ] exorbitant
 - [ ] exquisite
-- [x] file
 - [ ] faithful
 - [ ] fluctuate
 - [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
+- [ ] illegible
 - [ ] illustrious
-- [ ] inception
-- [ ] inclement
+- [ ] implausibly
+- [x] inception
+- [x] inclement
 - [ ] inconsistency
 - [ ] incorporate
 - [ ] incur
@@ -31,20 +25,36 @@
 - [ ] intermission
 - [ ] litigation
 - [ ] lumber
-- [x] medication
-- [x] mingle
+- [ ] necessitate
 - [ ] novice
+- [ ] obstruct
 - [ ] occupant
 - [ ] occupational
 - [ ] period / duration
+- [ ] pertinent
 - [ ] postulate
 - [ ] proceeds
 - [ ] procrastinate
 - [ ] proponent
 - [ ] reap
-- [x] respectively
+- [ ] redundant
 - [ ] solicit
 - [ ] subside
 - [ ] subsidiary
 - [ ] superb
+- [x] surplus
+- [x] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
+- [x] astronomy
+- [x] attire
+- [x] choreographer
+- [x] compartment
+- [x] compliance
+- [x] contradiction
+- [x] correspondence
+- [x] courteous
+- [x] excerpt
+- [x] file
+- [x] medication
+- [x] mingle
+- [x] respectively
 - [x] tentative

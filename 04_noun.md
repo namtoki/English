@@ -79,6 +79,7 @@
 - [ ] pound sign:                                 #
 - [ ] population boom:                            人口の急増
 - [ ] premise | premises:                         前提 | 家屋,建物,構内,敷地内
+- [ ] employment reference:                       雇用証明書
 - [ ] renewal notice:                             更新通知
 - [ ] repeat business:                            常連
 - [ ] social welfare                              福祉
