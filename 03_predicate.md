@@ -259,6 +259,7 @@
 - [ ] take care V-ing:                            We hope to `wrap up` the negotiations at the next meeting.
 - [ ] take down:                                  解体する / The woman is `taking down` a canopy.
 - [ ] take on:                                    引き受ける / Apparently, Nick wasn't willing to `take on` the task.
+- [ ] take out an insurance policy:               保険に入る / Many companies are `taking out insurance policies` to protect themselves in the event of a natural disaster.
 - [ ] take up:                                    場所を取る / Fold them like this. They `take up` less space.
 - [ ] take ~~~ off:                               `take time off` / `take a day off`
 - [ ] teach | tell:                               習得した技術等を説明して教える | 相手が知らない情報を与える
@@ -311,6 +312,7 @@
 - [ ] bring through:                              難局を切抜させる / Her angelic smile `brought me through` my mental distress .
 - [ ] brings back memories:                       思い出させる / This song `brings back memories!`
 - [~] can wait:                                   まで大丈夫 / Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
+- [ ] cater to:                                   に応じる / に向けた / There are a number of publications `catering to` gardening enthusiasts.
 - [ ] come after:                                 文章が続く / what `comes after` that has to be -ing like "My hobby is taking pictures."
 - [ ] come in handy:                              役に立つ / This tool `comes in handy`, so I always keep it close at hand.
 - [ ] depreciate in value:                        価値が下がる

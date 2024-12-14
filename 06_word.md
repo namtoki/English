@@ -58,3 +58,17 @@
 - [x] mingle
 - [x] respectively
 - [x] tentative
+- [x] devise
+- [ ] foster / encourage / promote
+- [ ] unanimousuly
+- [ ] prominently
+- [ ] hinder
+- [ ] conceivable
+- [ ] prolific
+- [ ] adjoin
+- [ ] discern
+- [ ] coincide
+- [ ] adhere
+- [ ] appraisal
+- [ ] conform
+- [ ] flatly
