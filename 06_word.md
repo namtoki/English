@@ -1,23 +1,29 @@
 - [ ] adamant
-- [x] advocate
+- [ ] adhere
+- [ ] adjoin
 - [ ] anticipatory
+- [ ] appraisal
 - [ ] apprehensive
-- [x] apprentice
+- [ ] coincide
 - [ ] combustible
 - [ ] comparable | comparative:                   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
 - [ ] concede
+- [ ] conceivable
+- [ ] conform
 - [ ] culinary
+- [ ] discern
 - [ ] eclectic
 - [ ] exorbitant
 - [ ] exquisite
 - [ ] faithful
+- [ ] flatly
 - [ ] fluctuate
+- [ ] foster / encourage / promote
 - [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
+- [ ] hinder
 - [ ] illegible
 - [ ] illustrious
 - [ ] implausibly
-- [x] inception
-- [x] inclement
 - [ ] inconsistency
 - [ ] incorporate
 - [ ] incur
@@ -35,6 +41,8 @@
 - [ ] postulate
 - [ ] proceeds
 - [ ] procrastinate
+- [ ] prolific
+- [ ] prominently
 - [ ] proponent
 - [ ] reap
 - [ ] redundant
@@ -42,8 +50,10 @@
 - [ ] subside
 - [ ] subsidiary
 - [ ] superb
-- [x] surplus
+- [ ] unanimousuly
 - [x] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
+- [x] advocate
+- [x] apprentice
 - [x] astronomy
 - [x] attire
 - [x] choreographer
@@ -52,23 +62,13 @@
 - [x] contradiction
 - [x] correspondence
 - [x] courteous
+- [x] devise
 - [x] excerpt
 - [x] file
+- [x] inception
+- [x] inclement
 - [x] medication
 - [x] mingle
 - [x] respectively
+- [x] surplus
 - [x] tentative
-- [x] devise
-- [ ] foster / encourage / promote
-- [ ] unanimousuly
-- [ ] prominently
-- [ ] hinder
-- [ ] conceivable
-- [ ] prolific
-- [ ] adjoin
-- [ ] discern
-- [ ] coincide
-- [ ] adhere
-- [ ] appraisal
-- [ ] conform
-- [ ] flatly
