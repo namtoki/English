@@ -1,18 +1,31 @@
+- [ ] abridge
+- [ ] acclaim
 - [ ] adamant
 - [ ] adhere
 - [ ] adjoin
 - [ ] anticipatory
 - [ ] appraisal
 - [ ] apprehensive
-- [ ] coincide
+- [ ] bureaucrat
+- [x] carpool
+- [x] coincide
 - [ ] combustible
 - [ ] comparable | comparative:                   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
 - [ ] concede
 - [ ] conceivable
 - [ ] conform
+- [ ] congest
+- [ ] cubicle
 - [ ] culinary
+- [ ] deduct
+- [ ] definitive
+- [ ] demolish
 - [ ] discern
+- [ ] drawing
 - [ ] eclectic
+- [ ] endorse
+- [ ] exceedingly
+- [ ] exempt
 - [ ] exorbitant
 - [ ] exquisite
 - [ ] faithful
@@ -20,15 +33,20 @@
 - [ ] fluctuate
 - [ ] foster / encourage / promote
 - [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
+- [ ] grievance
 - [ ] hinder
 - [ ] illegible
 - [ ] illustrious
 - [ ] implausibly
+- [ ] inaugural
 - [ ] inconsistency
 - [ ] incorporate
 - [ ] incur
 - [ ] industrial | industrious:                   工業の | 勤勉な
 - [ ] intermission
+- [ ] intimate
+- [ ] keenly
+- [ ] linger
 - [ ] litigation
 - [ ] lumber
 - [ ] necessitate
@@ -38,19 +56,29 @@
 - [ ] occupational
 - [ ] period / duration
 - [ ] pertinent
+- [ ] plaque
+- [ ] plaster
 - [ ] postulate
 - [ ] proceeds
 - [ ] procrastinate
+- [ ] project
 - [ ] prolific
 - [ ] prominently
 - [ ] proponent
 - [ ] reap
+- [ ] recur
 - [ ] redundant
+- [ ] refurbish
+- [ ] sensitive
+- [ ] service
+- [ ] shabby
 - [ ] solicit
 - [ ] subside
 - [ ] subsidiary
 - [ ] superb
 - [ ] unanimousuly
+- [ ] vicinity
+- [ ] withdraw
 - [x] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
 - [x] advocate
 - [x] apprentice
@@ -69,6 +97,7 @@
 - [x] inclement
 - [x] medication
 - [x] mingle
+- [x] outgoing
 - [x] respectively
 - [x] surplus
 - [x] tentative

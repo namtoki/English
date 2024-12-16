@@ -256,6 +256,7 @@
 - [ ] single out:                                 選出する / Ms. Kadokawa was `singled out` for praise in the company's monthly newsletter.
 - [ ] speak at length about:                      長々と詳細に話す / I `spoke to them at length about` the possibility of extending the deadline.
 - [~] straighten up:                              (物事を正しい位置に戻すように) 整理する
+- [ ] step down as:                               を辞任する / Ms. Takimoto `stepped down as` CEO to pursue her dream of becoming a professional accordionist.
 - [ ] take care V-ing:                            We hope to `wrap up` the negotiations at the next meeting.
 - [ ] take down:                                  解体する / The woman is `taking down` a canopy.
 - [ ] take on:                                    引き受ける / Apparently, Nick wasn't willing to `take on` the task.
