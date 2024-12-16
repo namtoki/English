@@ -1,29 +1,33 @@
 # MODIFIER
 
 ## 接続副詞
+
 - S+V. `As a result,` S+V:                      その結果 / He didn't work hard and, `as a result`, he failed in the exam.
-    - S+V. `as a consequence,` S+V:             その結果
-    - S+V. `consequently,` S+V:                 その結果 / He made a mistake, and `consequently` lost an opportunity for being promoted.
+  - S+V. `as a consequence,` S+V:             その結果
+  - S+V. `consequently,` S+V:                 その結果 / He made a mistake, and `consequently` lost an opportunity for being promoted.
 - [and] then:                                   そうすれば
-- [top] in conclusion:                          結論として / 
+- [top] in conclusion:                          結論として /
 - [objective] because of this:                  このため /
-    - [objective] for that reason:              このため /
-    - [objective] this is why:                  このため /
+  - [objective] for that reason:              このため /
+  - [objective] this is why:                  このため /
 - [reason] this is because:                     というのも /
 
 ## 群前置詞
+
 - [reason] because of 名:                       が理由で / `Because of` the heavy snow, our flight was delayed.
-    - [reason] owing to 名:                     好ましくないこと / 文頭 / `Owing to` illness, some representatives were absent from ...
-    - [reason] thanks to 名:                    好ましいこと / `Thanks to` the strong yen, we can travel abroad without spending much.
-    - [reason] as a result of 名:               因果の間に時間差 / `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-    - [reason] in consequence of 名:            堅苦しい /
-    - [reason] on account of 名:                困難 / 文語 / Our flight to Vienna was delayed `on account of` a minor accident.
-    - [reason] on the grounds of 名:            という根拠に基づいて / There  are many people in the world who are discriminated against `on the grounds of` race, sex, religion.
-    - [reason] due to 名:                       補語になるか名詞を修飾 / I missed school `due to` Covid-19.
-    - [reason] at the sound of:                 を聞いて
-    - [reason] on the recommendation of 名:     の推薦で
+  - [reason] owing to 名:                     好ましくないこと / 文頭 / `Owing to` illness, some representatives were absent from ...
+  - [reason] thanks to 名:                    好ましいこと / `Thanks to` the strong yen, we can travel abroad without spending much.
+  - [reason] as a result of 名:               因果の間に時間差 / `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+  - [reason] in consequence of 名:            堅苦しい /
+  - [reason] on account of 名:                困難 / 文語 / Our flight to Vienna was delayed `on account of` a minor accident.
+  - [reason] on the grounds of 名:            という根拠に基づいて / There  are many people in the world who are discriminated against `on the grounds of` race, sex, religion.
+  - [reason] due to 名:                       補語になるか名詞を修飾 / I missed school `due to` Covid-19.
+  - [reason] at the sound of:                 を聞いて
+  - [reason] on the recommendation of 名:     の推薦で
+- with the exception of:                    を除いて /
 
 ## 目的
+
 - [prep] for the purpose of 名:                 する目的のために
 
 ## HEAD or TAIL
