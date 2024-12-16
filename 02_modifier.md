@@ -1,9 +1,9 @@
 # MODIFIER
 
 ## 接続副詞
-- [and] as a result:                            その結果 / He didn't work hard and, `as a result`, he failed in the exam.
-    - [and] as a consequence:                   その結果
-    - [and] consequently:                       その結果 / He made a mistake, and `consequently` lost an opportunity for being promoted.
+- S+V. `As a result,` S+V:                      その結果 / He didn't work hard and, `as a result`, he failed in the exam.
+    - S+V. `as a consequence,` S+V:             その結果
+    - S+V. `consequently,` S+V:                 その結果 / He made a mistake, and `consequently` lost an opportunity for being promoted.
 - [and] then:                                   そうすれば
 - [top] in conclusion:                          結論として / 
 - [objective] because of this:                  このため /
