@@ -1,6 +1,6 @@
 # MODIFIER
 
-## 接続副詞 (S+V. `___`, S+V. / S+V+`___`.)
+## 文修飾 (接続副詞 / 群前置詞) (S+V. `___`, S+V. / S+V+`___`.)
 
 - その結果:
   - [ ] `Against this background`:              このような背景のもと
@@ -74,8 +74,6 @@
   - [~] `or not really?`:                       それとも違う？ / Do you like this kind of music`, or not really?`
   - [ ] `or what?`:                             それとも違う？ / Are we gonna have fun`, or what?`
   - [~] `you know what I mean?`:                言ってることわかります？
-
-## 群前置詞
 
 - [reason] because of 名:                       が理由で / `Because of` the heavy snow, our flight was delayed.
   - [reason] owing to 名:                     好ましくないこと / 文頭 / `Owing to` illness, some representatives were absent from ...
