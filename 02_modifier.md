@@ -19,6 +19,7 @@
   - [~] `All things considered`:                `All things considered`, that was a successful event.
   - [~] `In any case`:                          `In any case,` the union has to compromise to a certain extent.
   - [ ] `Anyway`:                               That’s a funny story. `Anyway,` he is late today, isn’t he?
+  - [ ] `Regardless`:                           いずれにしろ / `Regardless`, please give us ...
 - そのため:
   - [~] `Because of this`:                      I've never been to that place. `Because of this`, I know little about it.
   - [ ] `For that reason`:
@@ -28,6 +29,13 @@
   - [~] `The reason being that`:                `The reason being that,` I didn’t want to relocate.
 - 〜的に言うと:
   - [ ] `(more) broadly speaking`:
+  - [ ] `The fact is`:                          実を言うと / `The fact is,` I don't have enough money.
+  - [ ] `Like/as I was saying`:                 さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
+  - [ ] `Don't get me wrong, but`:              誤解しないでほしいんだけど
+- 話の転換:
+  - [~] `Going back to ~`:                      に戻ると / `Going back to` your question, my answer is no.
+  - [~] `Off-topic, but`:                       話は逸れますが / Bit `off-topic, but` I just finished editing the video.
+  - [ ] `By the way`:                           ところで /
 - そして:
   - [ ] `And the next thing I knew`:            次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
   - [ ] `And then`:                             それから
@@ -35,9 +43,11 @@
   - [ ] `To make matters worse`:                `To make matters worse,` he isn't even conscious of annoying us.
   - [ ] `What's more`:                          I met the man by chance. He's gentle and smart. `What's more,` he's single.
   - [ ] `What's worse`:
-- はじめに:
+- 順序立てて:
   - [ ] `First/Most of all`:                    `First of all,` learn the formula by heart.
   - [~] `To begin with`:                        `To begin with,` its theme is obscure.
+- 例示:
+  - [~] `For one thing ,,, for another thing`:  I can't put you up. `For one thing,` my dad drops in on me from time to time.
 
 ## 群前置詞
 
@@ -59,13 +69,6 @@
 
 ## HEAD or TAIL
 
-- [ ] [summary] regardless:                         いずれにしろ / `Regardless`, please give us ...
-- [ ] [summary] the fact is,:                       実を言うと / `The fact is,` I don't have enough money.
-- [ ] [change] going back to O:                     に戻ると / `Going back to` your question, my answer is no.
-- [ ] [change] off-topic, but:                      話は逸れますが / Bit `off-topic, but` I just finished editing the video.
-- [ ] [change] like/as I was saying:                さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
-- [ ] [change] by the way:                          ところで /
-- [ ] [but] Don't get me wrong, but:                誤解しないでほしいんだけど
 - [ ] [but] I hate to admit it, but:                認めたくないけど / `I hate to admit it, but` I might need your help.
 - [ ] [but] That's a fair point, but:               それはもっともですが、
 - [ ] [but] it goes without saying that:            言うまでもないが / `It goes without saying that` the aging of society is inevitable.
@@ -297,7 +300,6 @@
 - [ ] [where] in the course of:                    `In the course of` its economic development, Japan has ...
 - [ ] [where] (O) out of (O):                      We have watched `4 out of 5` seasons.
 - [ ] [where] up there:
-- [補足] for one thing ,,, for another thing:   I can't put you up. `For one thing,` my dad drops in on me from time to time.
 - [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
 - [ ] 何と同じ？:                            `just as` the passer rating is not a perfect measure of quarteback performance.
 - [ ] ..., each with:                             それぞれがを持っている / Stremto has launched a new line of instant polaroif cameras, `each with` thier own unique shape and design.
