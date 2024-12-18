@@ -3,39 +3,38 @@
 ## 接続副詞 (S+V. `___`, S+V. / S+V+`___`.)
 
 - その結果:
-  - [~] `As a result`:                          He didn't work hard and, `as a result`, he failed in the exam.
-  - [ ] `As a consequence`:
-  - [ ] `Consequently`:                         He made a mistake, and `consequently` lost an opportunity for being promoted.
   - [ ] `Against this background`:              このような背景のもと
+  - [ ] `As a consequence`:
+  - [~] `As a result`:                          He didn't work hard and, `as a result`, he failed in the exam.
+  - [ ] `Consequently`:                         He made a mistake, and `consequently` lost an opportunity for being promoted.
 - そうすれば:
-  - [ ] `Then`:                                 Do whatever I say. `Then` you will be successful.
   - [~] `By doing this`:
   - [ ] `In that case`:                         その場合は / `In that case,` I’ll have a beer.
   - [ ] `In which case`:                        この場合は / Scott might be on vacation, `in which case,` just touch base with Aaron.
+  - [ ] `Then`:                                 Do whatever I say. `Then` you will be successful.
 - 結論として:
-  - [ ] `In conclusion`:
-  - [~] `At the end of the day`:                `At the end of the day,` this is not that important.
-  - [ ] `Simply put`:                           `Simply put,` he doesn't like sports.
   - [~] `All things considered`:                `All things considered`, that was a successful event.
-  - [~] `In any case`:                          `In any case,` the union has to compromise to a certain extent.
   - [ ] `Anyway`:                               That’s a funny story. `Anyway,` he is late today, isn’t he?
+  - [~] `At the end of the day`:                `At the end of the day,` this is not that important.
+  - [~] `In any case`:                          `In any case,` the union has to compromise to a certain extent.
+  - [ ] `In conclusion`:
   - [ ] `Regardless`:                           いずれにしろ / `Regardless`, please give us ...
+  - [ ] `Simply put`:                           `Simply put,` he doesn't like sports.
 - そのため:
   - [~] `Because of this`:                      I've never been to that place. `Because of this`, I know little about it.
   - [ ] `For that reason`:
   - [ ] `This is why`:                          I came down with the flu. `This is why` I haven't finished my homework.
 - とうのも:
-  - [ ] `This is because`:                      I haven't finished my homework. `That is because` I came down with the flu.
+  - [~] `For one thing ,,, for another thing`:  I can't put you up. `For one thing,` my dad drops in on me from time to time.
   - [~] `The reason being that`:                `The reason being that,` I didn’t want to relocate.
-- 〜的に言うと:
-  - [ ] `(more) broadly speaking`:
-  - [ ] `The fact is`:                          実を言うと / `The fact is,` I don't have enough money.
-  - [ ] `Like/as I was saying`:                 さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
-  - [ ] `Don't get me wrong, but`:              誤解しないでほしいんだけど
+  - [ ] `This is because`:                      I haven't finished my homework. `That is because` I came down with the flu.
 - 話の転換:
+  - [ ] `By the way`:                           ところで /
   - [~] `Going back to ~`:                      に戻ると / `Going back to` your question, my answer is no.
   - [~] `Off-topic, but`:                       話は逸れますが / Bit `off-topic, but` I just finished editing the video.
-  - [ ] `By the way`:                           ところで /
+- 順序立てて:
+  - [ ] `First/Most of all`:                    `First of all,` learn the formula by heart.
+  - [~] `To begin with`:                        `To begin with,` its theme is obscure.
 - そして:
   - [ ] `And the next thing I knew`:            次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
   - [ ] `And then`:                             それから
@@ -43,11 +42,38 @@
   - [ ] `To make matters worse`:                `To make matters worse,` he isn't even conscious of annoying us.
   - [ ] `What's more`:                          I met the man by chance. He's gentle and smart. `What's more,` he's single.
   - [ ] `What's worse`:
-- 順序立てて:
-  - [ ] `First/Most of all`:                    `First of all,` learn the formula by heart.
-  - [~] `To begin with`:                        `To begin with,` its theme is obscure.
-- 例示:
-  - [~] `For one thing ,,, for another thing`:  I can't put you up. `For one thing,` my dad drops in on me from time to time.
+- 〜的に言うと:
+  - [ ] `As it is`:                             今のところ / `As it is,` ordinary people cannot afford to purchase such luxuries.
+  - [ ] `As sb anticipated`:                    予測していた通り / `As we anticipated,` the unemployment rate has risen ....
+  - [ ] `Don't get me wrong, but`:              誤解しないでほしいんだけど
+  - [ ] `I also feel that`:                     私も同じ考えで / `I also feel that` it's a great idea to build a daycare facility next to our building.
+  - [~] `If I had to say/guess`:                強いて言うなら / `If I had to guess,` I would say that she is single.
+  - [~] `If I'm not mistaken`:                  間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
+  - [~] `If it works for you`:                  都合が良ければ / So I’ll see you at 7`, if it works for you.`
+  - [ ] `If you ask me`:                        強いて言うなら / It was a little long`, if you ask me.`
+  - [~] `If you don't mind`:                    もしよろしければ / I have a suggestion`, if you don't mind.`
+  - [~] `If you think about it`:                考え方によっては / It's crazy how we can communicate like this`, if you think about it.`
+  - [ ] `I hate to admit it, but`:              認めたくないけど / `I hate to admit it, but` I might need your help.
+  - [ ] `I hope I'm not interrupting you`:      ご迷惑でなければいいのですが
+  - [ ] `I hope you don't mind if`:             ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
+  - [~] `In one's defence`:                     言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
+  - [ ] `It goes without saying that`:          言うまでもないが / `It goes without saying that` the aging of society is inevitable.
+  - [ ] `Like/as I was saying`:                 さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
+  - [ ] `(more) broadly speaking`:
+  - [ ] `Now that`:                             いまや / `Now that` things are better, we should talk about the problem.
+  - [~] `Off the top of my head`:               思いつくままに言うと / `Off the top of my head,` I think it's wrong.
+  - [~] `Speaking from experience`:             私の経験から言うと
+  - [~] `That's a fair point, but`:             それはもっともですが、
+  - [ ] `The fact is`:                          実を言うと / `The fact is,` I don't have enough money.
+  - [~] `The way I see it`:                     私の見解では / `The way I see it`, it's too simplistic to say that ...
+  - [ ] `This might be just me, but`:           自分だけかもしれないけど
+  - [~] `When it comes to O`:                   ということになると / `When it comes to` the weather, there’s nothing I can do.
+  - [ ] `You know as well as I do that`:        ご存じかと思いますが / `You know as well as I do that` this is very important.
+- 付け加え:
+  - [~] `if that makes sense.`:                 言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
+  - [~] `or not really?`:                       それとも違う？ / Do you like this kind of music`, or not really?`
+  - [ ] `or what?`:                             それとも違う？ / Are we gonna have fun`, or what?`
+  - [~] `you know what I mean?`:                言ってることわかります？
 
 ## 群前置詞
 
@@ -66,36 +92,6 @@
 ## 目的
 
 - [prep] for the purpose of 名:                 する目的のために
-
-## HEAD or TAIL
-
-- [ ] [but] I hate to admit it, but:                認めたくないけど / `I hate to admit it, but` I might need your help.
-- [ ] [but] That's a fair point, but:               それはもっともですが、
-- [ ] [but] it goes without saying that:            言うまでもないが / `It goes without saying that` the aging of society is inevitable.
-- [ ] [but] you know as well as I do that:          ご存じかと思いますが / `You know as well as I do that` this is very important.
-- [ ] [but] it may sound like:                      のように聞こえるかもしれないが / `It may sound like` I'm being self-centered here,
-- [ ] [but] this might be just me, but:             自分だけかもしれないけど
-- [ ] [excuse] I hope I'm not interrupting you,:    ご迷惑でなければいいのですが
-- [ ] [excuse] I hope you don't mind if:            ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
-- [ ] [excuse] if O works for you.:                 都合が良ければ / So I’ll see you at 7`, if it works for you.`
-- [ ] [excuse] if I had to say/guess:               強いて言うなら / `If I had to guess,` I would say that she is single.
-- [ ] [excuse] if I'm not mistaken:                 間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
-- [ ] [excuse] off the top of my head:              思いつくままに言うと / `Off the top of my head,` I think it's wrong.
-- [ ] [excuse] if you ask me:                       強いて言うなら / It was a little long`, if you ask me.`
-- [ ] [excuse] if you don't mind:                   もしよろしければ / I have a suggestion`, if you don't mind.`
-- [ ] [excuse] in one's defence:                    言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
-- [ ] [condition] as it is:                         今のところ / `As it is,` ordinary people cannot afford to purchase such luxuries.
-- [ ] [condition] as sb anticipated:                予測していた通り / `As we anticipated,` the unemployment rate has risen ....
-- [ ] [condition] if you think about it:            考え方によっては / It's crazy how we can communicate like this`, if you think about it.`
-- [ ] [condition] now that:                         いまや / `Now that` things are better, we should talk about the problem.
-- [ ] [condition] when it comes to O:               ということになると / `When it comes to` the weather, there’s nothing I can do.
-- [ ] [opinion] speaking from experience:           私の経験から言うと
-- [ ] [opinion] I also feel that:                   私も同じ考えで / `I also feel that` it's a great idea to build a daycare facility next to our building.
-- [ ] [opinion] the way I see it:                   私の見解では / `The way I see it`, it's too simplistic to say that ...
-- [ ] [end] you know what I mean?:                  言ってることわかります？
-- [ ] [end] if that makes sense.:                   言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
-- [ ] [end] or not really?:                         それとも違う？ / Do you like this kind of music`, or not really?`
-- [ ] [end] or what?:                               それとも違う？ / Are we gonna have fun`, or what?`
 
 ## FOCUS
 

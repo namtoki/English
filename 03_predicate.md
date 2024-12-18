@@ -337,3 +337,4 @@
 - [~] turn out:                                   と判明する / It `turned out` to be true.
 - [ ] weigh A versus B:                           S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
 - [~] work for:                                   都合がよい / That doesn't `work for` my wife.
+  - [ ] `It may sound like`:                    のように聞こえるかもしれないが / `It may sound like` I'm being self-centered here,
