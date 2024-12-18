@@ -1,16 +1,43 @@
 # MODIFIER
 
-## 接続副詞 (と実質そう考えていいもの)
+## 接続副詞 (S+V. `___`, S+V. / S+V+`___`.)
 
-- S+V. `As a result,` S+V:                      その結果 / He didn't work hard and, `as a result`, he failed in the exam.
-  - S+V. `As a consequence,` S+V:               その結果
-  - S+V. `Consequently,` S+V:                   その結果 / He made a mistake, and `consequently` lost an opportunity for being promoted.
-- S+V. `Then` S+V:                              そうすれば / Do whatever I say. `Then` you will be successful.
-- S+V. `In conclusion` S+V:                     結論として /
-- S+V. `Because of this`, S+V:                  このため / I've never been to that place. `Because of this`, I know little about it.
-  - S+V. `For that reason`, S+V:                このため /
-  - S+V. `This is why` S+V:                     こういうわけで / I came down with the flu. `This is why` I haven't finished my homework.
-- S+V. `This is because` S+V:                   というのも / I haven't finished my homework. `That is because` I came down with the flu.
+- その結果:
+  - [~] `As a result`:                          He didn't work hard and, `as a result`, he failed in the exam.
+  - [ ] `As a consequence`:
+  - [ ] `Consequently`:                         He made a mistake, and `consequently` lost an opportunity for being promoted.
+  - [ ] `Against this background`:              このような背景のもと
+- そうすれば:
+  - [ ] `Then`:                                 Do whatever I say. `Then` you will be successful.
+  - [~] `By doing this`:
+  - [ ] `In that case`:                         その場合は / `In that case,` I’ll have a beer.
+  - [ ] `In which case`:                        この場合は / Scott might be on vacation, `in which case,` just touch base with Aaron.
+- 結論として:
+  - [ ] `In conclusion`:
+  - [~] `At the end of the day`:                `At the end of the day,` this is not that important.
+  - [ ] `Simply put`:                           `Simply put,` he doesn't like sports.
+  - [~] `All things considered`:                `All things considered`, that was a successful event.
+  - [~] `In any case`:                          `In any case,` the union has to compromise to a certain extent.
+  - [ ] `Anyway`:                               That’s a funny story. `Anyway,` he is late today, isn’t he?
+- そのため:
+  - [~] `Because of this`:                      I've never been to that place. `Because of this`, I know little about it.
+  - [ ] `For that reason`:
+  - [ ] `This is why`:                          I came down with the flu. `This is why` I haven't finished my homework.
+- とうのも:
+  - [ ] `This is because`:                      I haven't finished my homework. `That is because` I came down with the flu.
+  - [~] `The reason being that`:                `The reason being that,` I didn’t want to relocate.
+- 〜的に言うと:
+  - [ ] `(more) broadly speaking`:
+- そして:
+  - [ ] `And the next thing I knew`:            次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
+  - [ ] `And then`:                             それから
+  - [~] `On top of that`:
+  - [ ] `To make matters worse`:                `To make matters worse,` he isn't even conscious of annoying us.
+  - [ ] `What's more`:                          I met the man by chance. He's gentle and smart. `What's more,` he's single.
+  - [ ] `What's worse`:
+- はじめに:
+  - [ ] `First/Most of all`:                    `First of all,` learn the formula by heart.
+  - [~] `To begin with`:                        `To begin with,` its theme is obscure.
 
 ## 群前置詞
 
@@ -32,30 +59,12 @@
 
 ## HEAD or TAIL
 
-- [ ] (more) broadly speaking:                    一般的に言うと
-- [ ] against this background:                    このような背景のもと、(結果)
-- [ ] and the next thing I knew:                  次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
-- [ ] and then:                                   それから
-- [ ] first/Most of all:                          まずはじめに / `First of all,` learn the formula by heart.
-- [ ] in that case:                               その場合は / `In that case,` I’ll have a beer.
-- [ ] in which case:                              この場合は / Scott might be on vacation, `in which case,` just touch base with Aaron.
-- [ ] on top of that:                             その上
-- [ ] to begin with:                              まずはじめに / `To begin with,` its theme is obscure.
-- [ ] to make matters worse:                      さらに悪いことに / `To make matters worse,` he isn't even conscious of annoying us.
-- [ ] what's more:                                その上 / I met the man by chance. He's gentle and smart. `What's more,` he's single.
-- [ ] what's worse:                               さらに悪いことに
-- [ ] [summary] at the end of the day:              結局のところ / `At the end of the day,` this is not that important.
-- [ ] [summary] simply put:                         簡単に言うと / `Simply put,` he doesn't like sports.
-- [ ] [summary] all things considered:              全て考慮に入れると / `All things considered`, that was a successful event.
-- [ ] [summary] in any case:                        いずれにしろ / `In any case,` the union has to compromise to a certain extent.
-- [ ] [summary] anyway:                             いずれにしろ / That’s a funny story. `Anyway,` he is late today, isn’t he?
 - [ ] [summary] regardless:                         いずれにしろ / `Regardless`, please give us ...
 - [ ] [summary] the fact is,:                       実を言うと / `The fact is,` I don't have enough money.
 - [ ] [change] going back to O:                     に戻ると / `Going back to` your question, my answer is no.
 - [ ] [change] off-topic, but:                      話は逸れますが / Bit `off-topic, but` I just finished editing the video.
 - [ ] [change] like/as I was saying:                さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
 - [ ] [change] by the way:                          ところで /
-- [ ] [reason] the reason being that:               というのも / `The reason being that,` I didn’t want to relocate.
 - [ ] [but] Don't get me wrong, but:                誤解しないでほしいんだけど
 - [ ] [but] I hate to admit it, but:                認めたくないけど / `I hate to admit it, but` I might need your help.
 - [ ] [but] That's a fair point, but:               それはもっともですが、
