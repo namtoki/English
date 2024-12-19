@@ -130,16 +130,20 @@
 
 ## SUBJECT
 
-- [ ] act fanny:                                  ふざける / Why do you always `act funny` like that?
-- [ ] adjust | arrange | coordinate:              既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
-- [ ] argue against:                              反論する /  If you `argue against` an opinion, idea, belief, etc.,
-- [ ] ask for:                                    請求する / The credit card company `asked for` the payment. / You are `asking for` it.
-- [ ] ask out:                                    誘う / He finally `asked Alice out`!
-- [~] be all for:                                 強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
-- [ ] be anxious to:                              切望する 悪 → 中 / The slaves `were anxious to` alter their destinies.
-- [ ] be around:                                  近くにいる / He pretends to be enthusiastic when his boss `is around`.
-- [ ] be aware of:                                気づいている
-- [ ] be bathed in sweat:                         汗だく
+- 動作
+  - [ ] `act fanny`:                            ふざける / Why do you always `act funny` like that?
+- 非動作
+  - [ ] `argue against`:                        反論する /  If you `argue against` an opinion, idea, belief, etc.,
+  - [ ] `ask out`:                              誘う / He finally `asked Alice out`!
+  - [~] `be all for`:                           強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
+  - [ ] `be anxious to`:                        切望する 悪 → 中 / The slaves `were anxious to` alter their destinies.
+- 状態
+  - [ ] `be around`:                            近くにいる / He pretends to be enthusiastic when his boss `is around`.
+  - [ ] `be aware of`:                          気づいている
+  - [ ] `be bathed in sweat`:                   汗だく
+- 作業
+  - [ ] `adjust | arrange | coordinate`:        既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
+  - [ ] `ask for`:                              請求する / The credit card company `asked for` the payment. / You are `asking for` it.
 - [ ] be better off O:                            You`'re better off` starting from the beginning than trying ...
 - [ ] be blessed with:                            恵まれる / He is lucky to `be blessed with` so much talent.
 - [ ] be caught up in:                            巻き込まれる / I `got caught up in` the rain on the way home from the station.
