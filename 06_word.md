@@ -79,6 +79,13 @@
 - [ ] unanimousuly
 - [ ] vicinity
 - [ ] withdraw
+- [ ] drawing
+- [ ] plaster
+- [ ] refurbish
+- [ ] exceedingly
+- [ ] congest
+- [ ] deduct
+- [x] outgoing
 - [x] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
 - [x] advocate
 - [x] apprentice

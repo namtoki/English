@@ -90,6 +90,7 @@
 - [ ] vet / veterinarian                          獣医
 - [ ] wildlife refuge:                            鳥獣保護区
 - [ ] working hours:                              執務時間 / My regular working hours end at 6pm.
+- [ ] a course of action:                         行動指針
 
 ## ADJECTIVE -LIMITED-
 

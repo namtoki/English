@@ -75,6 +75,18 @@
   - [ ] `or what?`:                             それとも違う？ / Are we gonna have fun`, or what?`
   - [~] `you know what I mean?`:                言ってることわかります？
 
+## 接続副詞
+
+- S+V. `As a result,` S+V:                      その結果 / He didn't work hard and, `as a result`, he failed in the exam.
+  - S+V. `as a consequence,` S+V:             その結果
+  - S+V. `consequently,` S+V:                 その結果 / He made a mistake, and `consequently` lost an opportunity for being promoted.
+- [and] then:                                   そうすれば
+- [top] in conclusion:                          結論として /
+- [objective] because of this:                  このため /
+  - [objective] for that reason:              このため /
+  - [objective] this is why:                  このため /
+- [reason] this is because:                     というのも /
+
 - [reason] because of 名:                       が理由で / `Because of` the heavy snow, our flight was delayed.
   - [reason] owing to 名:                     好ましくないこと / 文頭 / `Owing to` illness, some representatives were absent from ...
   - [reason] thanks to 名:                    好ましいこと / `Thanks to` the strong yen, we can travel abroad without spending much.
