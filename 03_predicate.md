@@ -93,6 +93,7 @@
 - [ ] be supposed to:                             ものだ / Dolphins `are supposed to` be intelligent.
 - [ ] be sure to:                                 きっとできるよ / You `are sure to` see many animals there.
 - [ ] come close to ... ing:                      危うくしそうになる / The ambulance went out of control and `came close to running` over a pedestrian.
+  - [ ] be better off O:                            You`'re better off` starting from the beginning than trying ...
 - [~] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
 - [ ] ended up V-ing:                             結局した / I `ended up staying` home.
 - [ ] got to:                                     たまたました / I `got to` meet Joyce Nelson in person!
@@ -132,30 +133,29 @@
 
 - 動作
   - [ ] `act fanny`:                            ふざける / Why do you always `act funny` like that?
-- 非動作
+  - [~] `be getting at`:                        言おうとする / I couldn't make out what you were getting at. / What's the point you're getting at?
+- 嗜好
   - [ ] `argue against`:                        反論する /  If you `argue against` an opinion, idea, belief, etc.,
   - [ ] `ask out`:                              誘う / He finally `asked Alice out`!
+  - [~] `be in favor of`:                       賛成する / I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
   - [~] `be all for`:                           強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
   - [ ] `be anxious to`:                        切望する 悪 → 中 / The slaves `were anxious to` alter their destinies.
+  - [ ] `be fond of`:                           が大好きである
 - 状態
   - [ ] `be around`:                            近くにいる / He pretends to be enthusiastic when his boss `is around`.
-  - [ ] `be aware of`:                          気づいている
+  - [~] `be aware of`:                          気づいている
   - [ ] `be bathed in sweat`:                   汗だく
+  - [ ] `be blessed with`:                      恵まれる / He is lucky to `be blessed with` so much talent.
+  - [ ] `be caught up in`:                      巻き込まれる / I `got caught up in` the rain on the way home from the station.
+  - [ ] `be conscious of`:                      自覚している / To make matters worse, he isn't even conscious of annoying us.
+  - [~] `be content with`:                      に満足している
+  - [~] `be getting C`:                         C になってきた / I`'m getting` tired of them.
+  - [ ] `be in a class of ones own`:            別格である / They `are in a class of their own`.
+  - [~] `be in for`:                            直面しそうだ / Looks like we'll `be in for` some wet weather over the next few days.
+  - [ ] `be in the process of V-ing`:
 - 作業
   - [ ] `adjust | arrange | coordinate`:        既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
   - [ ] `ask for`:                              請求する / The credit card company `asked for` the payment. / You are `asking for` it.
-- [ ] be better off O:                            You`'re better off` starting from the beginning than trying ...
-- [ ] be blessed with:                            恵まれる / He is lucky to `be blessed with` so much talent.
-- [ ] be caught up in:                            巻き込まれる / I `got caught up in` the rain on the way home from the station.
-- [ ] be conscious of:                            自覚している / To make matters worse, he isn't even conscious of annoying us.
-- [ ] be content with:                            に満足している
-- [ ] be fond of:                                 が大好きである
-- [~] be getting C:                               C になってきた / I`'m getting` tired of them.
-- [~] be getting at:                              言おうとする / I couldn't make out what you were getting at. / What's the point you're getting at?
-- [ ] be in a class of ones own:                  別格である / They `are in a class of their own`.
-- [~] be in favor of:                             賛成する / I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
-- [ ] be in for:                                  直面しそうだ / Looks like we'll `be in for` some wet weather over the next few days.
-- [ ] be in the process of V-ing:
 - [ ] be obsessed:                                が頭から離れない / He's obsessed with his new baby.
 - [ ] be of service:                              の手助けになる, に役立つ / I'm glad I could `be of service`.
 - [ ] be offended by/with:                        気分を害する / She was extremely offended by the things you said.
