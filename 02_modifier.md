@@ -1,18 +1,60 @@
 # MODIFIER
 
-## 文修飾 (接続副詞 / 群前置詞) (S+V. `___`, S+V. / S+V+`___`.)
+## 文修飾 (接続副詞 / 群前置詞) (`___`, S+V. / S+V+`___`.)
 
-- その結果:
-  - [ ] `Against this background`:              このような背景のもと
-  - [ ] `As a consequence`:
-  - [~] `As a result`:                          He didn't work hard and, `as a result`, he failed in the exam.
-  - [ ] `Consequently`:                         He made a mistake, and `consequently` lost an opportunity for being promoted.
-- そうすれば:
+- お題:
+  - [~] `O-wise`:                               `Staffing-wise,` I think it’s all right.
+  - [~] `In V-ing O`:                           `In making a decision,` I rely not on logic but on instinct.
+  - [~] `In terms of O`:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
+  - [~] `Speaking of which/O`:                  `Speaking of summer,` where did you go this year?
+  - [ ] `About O`:                              `About` the food ... it is bad.
+  - [ ] `On O`:                                 thesis `on` education
+  - [ ] `Regarding O`:                          `Regarding` the subject above,,,
+  - [ ] `With/in regard to O`:                  `With regard to` the notes below
+  - [ ] `Concerning O`:                         `concerning` the changes that were recently made,,,
+  - [ ] `As for O`:                             `As for` the cost per person
+  - [ ] `As for me`:                            `As for me,` I agree with his opinion.
+  - [ ] `As to O`:                              discussion `as to` which university is the best university.
+  - [ ] `Talking of O`:                         `Talking of` soccer, Did you watch the game yesterday?
+- 仮定:
   - [~] `By doing this`:
   - [ ] `In that case`:                         その場合は / `In that case,` I’ll have a beer.
   - [ ] `In which case`:                        この場合は / Scott might be on vacation, `in which case,` just touch base with Aaron.
   - [ ] `Then`:                                 Do whatever I say. `Then` you will be successful.
-- 結論として:
+  - [~] `In light of O`:                        を考慮に入れると
+- 何故:
+  - [~] `As a result`:                          He didn't work hard and, `as a result`, he failed in the exam.
+  - [~] `Because of this`:                      I've never been to that place. `Because of this`, I know little about it.
+  - [ ] `This is why`:                          I came down with the flu. `This is why` I haven't finished my homework.
+  - [ ] `Thanks to~`:                           好ましいこと / `Thanks to` the strong yen, we can travel abroad without spending much.
+  - [ ] `Owing to~`:                            好ましくないこと / 文頭 / `Owing to` illness, some representatives were absent from ...
+  - [ ] `On the recommendation of~`:            の推薦で
+  - [ ] `On the grounds of~`:                   という根拠に基づいて / There  are many people in the world who are discriminated against `on the grounds of` race, sex, religion.
+  - [ ] `On account of~`:                       困難 / 文語 / Our flight to Vienna was delayed `on account of` a minor accident.
+  - [ ] `In consequence of~`:                   堅苦しい /
+  - [ ] `For that reason`:
+  - [ ] `Due to~`:                              補語になるか名詞を修飾 / I missed school `due to` Covid-19.
+  - [ ] `Consequently`:                         He made a mistake, and `consequently` lost an opportunity for being promoted.
+  - [ ] `Because of~`:                          `Because of` the heavy snow, our flight was delayed.
+  - [ ] `At the sound of~`:                     を聞いて
+  - [ ] `As a result of~`:                      因果の間に時間差 / `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+  - [ ] `As a consequence`:
+  - [ ] `Against this background`:              このような背景のもと
+- とうのも:
+  - [~] `For one thing ,,, for another thing`:  I can't put you up. `For one thing,` my dad drops in on me from time to time.
+  - [~] `The reason being that`:                `The reason being that,` I didn’t want to relocate.
+  - [ ] `This is because`:                      I haven't finished my homework. `That is because` I came down with the flu.
+  - [ ] `For the purpose of~`:                  する目的のために
+- 並列:
+  - [ ] `First/Most of all`:                    `First of all,` learn the formula by heart.
+  - [~] `To begin with`:                        `To begin with,` its theme is obscure.
+  - [ ] `And the next thing I knew`:            次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
+  - [ ] `And then`:                             それから
+  - [~] `On top of that`:
+  - [ ] `To make matters worse`:                `To make matters worse,` he isn't even conscious of annoying us.
+  - [ ] `What's more`:                          I met the man by chance. He's gentle and smart. `What's more,` he's single.
+  - [ ] `What's worse`:
+- 結論:
   - [~] `All things considered`:                `All things considered`, that was a successful event.
   - [ ] `Anyway`:                               That’s a funny story. `Anyway,` he is late today, isn’t he?
   - [~] `At the end of the day`:                `At the end of the day,` this is not that important.
@@ -20,28 +62,6 @@
   - [ ] `In conclusion`:
   - [ ] `Regardless`:                           いずれにしろ / `Regardless`, please give us ...
   - [ ] `Simply put`:                           `Simply put,` he doesn't like sports.
-- そのため:
-  - [~] `Because of this`:                      I've never been to that place. `Because of this`, I know little about it.
-  - [ ] `For that reason`:
-  - [ ] `This is why`:                          I came down with the flu. `This is why` I haven't finished my homework.
-- とうのも:
-  - [~] `For one thing ,,, for another thing`:  I can't put you up. `For one thing,` my dad drops in on me from time to time.
-  - [~] `The reason being that`:                `The reason being that,` I didn’t want to relocate.
-  - [ ] `This is because`:                      I haven't finished my homework. `That is because` I came down with the flu.
-- 話の転換:
-  - [ ] `By the way`:                           ところで /
-  - [~] `Going back to ~`:                      に戻ると / `Going back to` your question, my answer is no.
-  - [~] `Off-topic, but`:                       話は逸れますが / Bit `off-topic, but` I just finished editing the video.
-- 順序立てて:
-  - [ ] `First/Most of all`:                    `First of all,` learn the formula by heart.
-  - [~] `To begin with`:                        `To begin with,` its theme is obscure.
-- そして:
-  - [ ] `And the next thing I knew`:            次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
-  - [ ] `And then`:                             それから
-  - [~] `On top of that`:
-  - [ ] `To make matters worse`:                `To make matters worse,` he isn't even conscious of annoying us.
-  - [ ] `What's more`:                          I met the man by chance. He's gentle and smart. `What's more,` he's single.
-  - [ ] `What's worse`:
 - 〜的に言うと:
   - [ ] `As it is`:                             今のところ / `As it is,` ordinary people cannot afford to purchase such luxuries.
   - [ ] `As sb anticipated`:                    予測していた通り / `As we anticipated,` the unemployment rate has risen ....
@@ -59,6 +79,7 @@
   - [~] `In one's defence`:                     言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
   - [ ] `It goes without saying that`:          言うまでもないが / `It goes without saying that` the aging of society is inevitable.
   - [ ] `Like/as I was saying`:                 さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
+  - [ ] `Like/as you said`:
   - [ ] `(more) broadly speaking`:
   - [ ] `Now that`:                             いまや / `Now that` things are better, we should talk about the problem.
   - [~] `Off the top of my head`:               思いつくままに言うと / `Off the top of my head,` I think it's wrong.
@@ -69,63 +90,23 @@
   - [ ] `This might be just me, but`:           自分だけかもしれないけど
   - [~] `When it comes to O`:                   ということになると / `When it comes to` the weather, there’s nothing I can do.
   - [ ] `You know as well as I do that`:        ご存じかと思いますが / `You know as well as I do that` this is very important.
+  - [ ] `With the exception of~`:               を除いて /
+  - [~] `Personally, in my opinion`:
+  - [~] `To be honest`:
+  - [~] `From a one's standpoint`:              Single track riding can be quite challenging `from a technical standpoint`.
+  - [~] `From the perspective of O`:            Trends in trade `from the perspective of` production stage.
+  - [~] `From one's perspective`:               Also `from the field’s perspective,` I think ,,,
+  - [~] `From one's point of view`:             Well, `from my point of view,` some of the new policies are really good.
 - 付け加え:
   - [~] `if that makes sense.`:                 言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
   - [~] `or not really?`:                       それとも違う？ / Do you like this kind of music`, or not really?`
   - [ ] `or what?`:                             それとも違う？ / Are we gonna have fun`, or what?`
   - [~] `you know what I mean?`:                言ってることわかります？
+- 話の転換:
+  - [ ] `By the way`:                           ところで /
+  - [~] `Going back to ~`:                      に戻ると / `Going back to` your question, my answer is no.
+  - [~] `Off-topic, but`:                       話は逸れますが / Bit `off-topic, but` I just finished editing the video.
 
-## 接続副詞
-
-- S+V. `As a result,` S+V:                      その結果 / He didn't work hard and, `as a result`, he failed in the exam.
-  - S+V. `as a consequence,` S+V:             その結果
-  - S+V. `consequently,` S+V:                 その結果 / He made a mistake, and `consequently` lost an opportunity for being promoted.
-- [and] then:                                   そうすれば
-- [top] in conclusion:                          結論として /
-- [objective] because of this:                  このため /
-  - [objective] for that reason:              このため /
-  - [objective] this is why:                  このため /
-- [reason] this is because:                     というのも /
-
-- [reason] because of 名:                       が理由で / `Because of` the heavy snow, our flight was delayed.
-  - [reason] owing to 名:                     好ましくないこと / 文頭 / `Owing to` illness, some representatives were absent from ...
-  - [reason] thanks to 名:                    好ましいこと / `Thanks to` the strong yen, we can travel abroad without spending much.
-  - [reason] as a result of 名:               因果の間に時間差 / `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-  - [reason] in consequence of 名:            堅苦しい /
-  - [reason] on account of 名:                困難 / 文語 / Our flight to Vienna was delayed `on account of` a minor accident.
-  - [reason] on the grounds of 名:            という根拠に基づいて / There  are many people in the world who are discriminated against `on the grounds of` race, sex, religion.
-  - [reason] due to 名:                       補語になるか名詞を修飾 / I missed school `due to` Covid-19.
-  - [reason] at the sound of:                 を聞いて
-  - [reason] on the recommendation of 名:     の推薦で
-- with the exception of:                    を除いて /
-
-## 目的
-
-- [prep] for the purpose of 名:                 する目的のために
-
-## FOCUS
-
-- [~] [zoom] O-wise:                               `Staffing-wise,` I think it’s all right.
-- [~] [zoom] in V-ing O:                           `In making a decision,` I rely not on logic but on instinct.
-- [~] [zoom] in terms of O:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
-- [~] [zoom] in light of O:                        を考慮に入れると
-- [~] [zoom] speaking of which/O:                  `Speaking of summer,` where did you go this year?
-- [ ] [zoom] about O:                              `About` the food ... it is bad.
-- [ ] [zoom] on O:                                 thesis `on` education
-- [ ] [zoom] regarding O:                          `Regarding` the subject above,,,
-- [ ] [zoom] with/in regard to O:                  `With regard to` the notes below
-- [ ] [zoom] concerning O:                         `concerning` the changes that were recently made,,,
-- [ ] [zoom] as for O:                             `As for` the cost per person
-- [ ] [zoom] as for me:                            `As for me,` I agree with his opinion.
-- [ ] [zoom] as to O:                              discussion `as to` which university is the best university.
-- [ ] [zoom] talking of O:                         `Talking of` soccer, Did you watch the game yesterday?
-- [ ] [zoom] like/as you said:
-- [~] [personal] personally, in my opinion:
-- [~] [personal] To be honest:
-- [~] [personal] from a one's standpoint:          Single track riding can be quite challenging `from a technical standpoint`.
-- [~] [personal] from the perspective of O:        Trends in trade `from the perspective of` production stage.
-- [~] [personal] from one's perspective:           Also `from the field’s perspective,` I think ,,,
-- [~] [personal] from one's point of view:         Well, `from my point of view,` some of the new policies are really good.
 - [ ] [range] for the most part:                   `For the most part,` modernization is identified with westernization.
 - [ ] [range] except for:                          The auditorium was empty `except for` a single piece of furniture.
 - [ ] [range] not including:                       I work 8 hours `not including` lunch.
@@ -135,7 +116,7 @@
 - [ ] [pickup] especially:                         `Especially,` I am good at French cooking
 - [ ] [pickup] above all:                          `Above all,` scientific terms call for precise definitions.
 
-## TIME
+## 時修飾
 
 - [ ] 期間 + into X:                             X に入って(期間)で `Three minutes into the game`, Okazaki scored.
 - [ ] at daybreak:
@@ -305,7 +286,5 @@
 - [ ] [where] down there:
 - [ ] [where] in the course of:                    `In the course of` its economic development, Japan has ...
 - [ ] [where] (O) out of (O):                      We have watched `4 out of 5` seasons.
-- [ ] [where] up there:
-- [補足] [理由] [悪い] A is due to:                 There are many premature deaths `due to` smoking.
 - [ ] 何と同じ？:                            `just as` the passer rating is not a perfect measure of quarteback performance.
 - [ ] ..., each with:                             それぞれがを持っている / Stremto has launched a new line of instant polaroif cameras, `each with` thier own unique shape and design.
