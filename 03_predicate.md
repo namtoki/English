@@ -134,39 +134,41 @@
 - 動作
   - [ ] `act fanny`:                            ふざける / Why do you always `act funny` like that?
   - [~] `be getting at`:                        言おうとする / I couldn't make out what you were getting at. / What's the point you're getting at?
-- 嗜好
-  - [ ] `argue against`:                        反論する /  If you `argue against` an opinion, idea, belief, etc.,
+- 会話
   - [ ] `ask out`:                              誘う / He finally `asked Alice out`!
+  - [~] `argue against`:                        反論する /  If you `argue against` an opinion, idea, belief, etc.,
   - [~] `be in favor of`:                       賛成する / I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
   - [~] `be all for`:                           強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
   - [ ] `be anxious to`:                        切望する 悪 → 中 / The slaves `were anxious to` alter their destinies.
-  - [ ] `be fond of`:                           が大好きである
-- 状態
+- 物理的な状態
   - [ ] `be around`:                            近くにいる / He pretends to be enthusiastic when his boss `is around`.
-  - [~] `be aware of`:                          気づいている
   - [ ] `be bathed in sweat`:                   汗だく
+  - [ ] `be soaked`:                            びしょ濡れ / I'm soaked with sweat.
   - [ ] `be blessed with`:                      恵まれる / He is lucky to `be blessed with` so much talent.
   - [ ] `be caught up in`:                      巻き込まれる / I `got caught up in` the rain on the way home from the station.
+  - [ ] `be/stay/remain on hand`:               待機する / She'll `be on hand` to her books and speak with fans until...
+- 精神的な状態
+  - [~] `be aware of`:                          気づいている
   - [ ] `be conscious of`:                      自覚している / To make matters worse, he isn't even conscious of annoying us.
   - [~] `be content with`:                      に満足している
+  - [ ] `be fond of`:                           が大好きである
   - [~] `be getting C`:                         C になってきた / I`'m getting` tired of them.
-  - [ ] `be in a class of ones own`:            別格である / They `are in a class of their own`.
   - [~] `be in for`:                            直面しそうだ / Looks like we'll `be in for` some wet weather over the next few days.
-  - [ ] `be in the process of V-ing`:
+  - [ ] `be obsessed`:                          が頭から離れない / He's obsessed with his new baby.
+  - [ ] `be offended by/with`:                  気分を害する / She was extremely offended by the things you said.
+  - [~] `be open to any O`:                     いつでも受け付けている / I`'m open to any` suggestions you may have for changes.
+  - [~] `be really into`:                       ハマる / I`'m really into` ramen.
+  - [~] `be/get a mess`:                        混乱している / I `get a mess`.
+- 客観的な状態
+  - [ ] `be in a class of ones own`:            別格である / They `are in a class of their own`.
+  - [ ] `be of service`:                        の手助けになる, に役立つ / I'm glad I could `be of service`.
+  - [ ] `be in the process of V-ing`:           している最中だ / we're actually in the process of doing actual development ourselves.
+  - [ ] `be on the brink of`:                   寸前である 重大 / We are on the brink of war.
+  - [ ] `be tasked with V-ing`:                 する任務を負う / I`'m tasked with helping` people cope with the stressful situations.
 - 作業
   - [ ] `adjust | arrange | coordinate`:        既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
   - [ ] `ask for`:                              請求する / The credit card company `asked for` the payment. / You are `asking for` it.
-- [ ] be obsessed:                                が頭から離れない / He's obsessed with his new baby.
-- [ ] be of service:                              の手助けになる, に役立つ / I'm glad I could `be of service`.
-- [ ] be offended by/with:                        気分を害する / She was extremely offended by the things you said.
-- [ ] be on the brink of ...:                     寸前である 重大 / We are on the brink of war.
-- [~] be open to any O:                           いつでも受け付けている / I`'m open to any` suggestions you may have for changes.
-- [ ] be really into:                             ハマる / I`'m really into` ramen.
-- [ ] be soaked:                                  びしょ濡れ / I'm soaked with sweat.
-- [ ] be tasked with V-ing:                       する任務を負う / I`'m tasked with helping` people cope with the stressful situations.
-- [~] be/get a mess:                              混乱している / I `get a mess`.
-- [ ] be/stay/remain on hand:                     待機する / She'll `be on hand` to her books and speak with fans until...
-- [ ] break apart (into):                         まで分解する / They even showed a tendency to `break apart into` A group and B group.
+  - [~] `break apart (into)`:                   まで分解する / They even showed a tendency to `break apart into` A group and B group.
 - [ ] break away:                                 独立する / In the 1800s the South tried to `break away` from the Union.
 - [ ] break away:                                 逃げる / The calf is `breaking away` from the cowboy.
 - [ ] break in:                                   慣らす / I have to `break in` my new shoes.
