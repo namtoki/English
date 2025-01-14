@@ -131,15 +131,45 @@
 
 ## SUBJECT
 
-- 動作
+- 物理的動作
   - [ ] `act fanny`:                            ふざける / Why do you always `act funny` like that?
   - [~] `be getting at`:                        言おうとする / I couldn't make out what you were getting at. / What's the point you're getting at?
-- 会話
+  - [ ] `break away`:                           逃げる / The calf is `breaking away` from the cowboy.
+  - [~] `break into`:                           会話に入る / Can I `break in` here?
+  - [ ] `break into`:                           侵入する / A burglar `broke into` my house over the weekend.
+  - [ ] `break into`:                           急にしだす / He `broke into` tears. She `broke into` laugher. / Sarah saw pandas and `broke into` a run.
+  - [ ] `break through`:                        突破する / The player `broke through` the defensive line. / The sun began to `break through`.
+  - [ ] `bring around`:                         連れていく / We finally `brought him around` to our point of view .
+  - [ ] `burn the midnight oil`:                徹夜する
+  - [ ] `come across`:                          遭遇する / I `came across` this information on the internet.
+  - [ ] `come do`:                              do しに来る / I wish my girlfriend would `come see` me.
+  - [ ] `come/get home (from work/school)`:     帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
+- 精神的動作
+  - [ ] `adjust | arrange | coordinate`:        既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
+  - [ ] `ask for`:                              請求する / The credit card company `asked for` the payment. / You are `asking for` it.
+  - [~] `break apart (into)`:                   まで分解する / They even showed a tendency to `break apart into` A group and B group.
+  - [ ] `break in`:                             慣らす / I have to `break in` my new shoes.
+  - [ ] `choose A over B`:                      A より B を選ぶ
+  - [ ] `come clean`:                           正直に述べる confess / OK. I'll `come clean`.
+  - [~] `come up with`:                         考え出す / He `came up with` an ingenious, sensible solution and immediately put it into practice.
   - [ ] `ask out`:                              誘う / He finally `asked Alice out`!
   - [~] `argue against`:                        反論する /  If you `argue against` an opinion, idea, belief, etc.,
   - [~] `be in favor of`:                       賛成する / I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
   - [~] `be all for`:                           強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
   - [ ] `be anxious to`:                        切望する 悪 → 中 / The slaves `were anxious to` alter their destinies.
+  - [ ] `bring up`:                             育てる / His nephew was `brought up` to be modest and considerate.
+  - [ ] `bring up`:                             話に出す / The comment you made is really spot-on. I'm glad you `brought that up`.
+  - [ ] `bring/get A up to speed`:              最新情報に追いつかせる / We need to `bring newbies up to speed` on our project as quickly as possible.
+  - [ ] `conceive a plan`:                      計画を思いつく / They `conceived a plan` to surprise the enemy.
+  - [ ] `cope with | deal with`:                耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
+  - [ ] `cope with`:                            折り合いをつける / I'm trying to `cope with` loneliness in these new and unfamiliar surroundings.
+  - [~] `cut corners`:                          手を抜く / You shouldn't `cut corners`.
+  - [~] `cut to the chase`:                     要点を言う / Since we've only got five minutes, I'm going to `cut to the chase`.
+  - [ ] `decide | decide on`:                   決心する | 決定する
+  - [ ] `drum up business`:                     顧客を増やす
+  - [ ] `enter into an agreement with`:         と契約を結ぶ / Klimt Development has `entered into` an agreement with Harper Towers Condominium that ...
+  - [ ] `establish oneself as`:                 として確立する / Rob Dunn worked hard at several top restaurants in order to `establish himself as` a chef.
+  - [~] `expand on/upon`:                       より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
 - 物理的な状態
   - [ ] `be around`:                            近くにいる / He pretends to be enthusiastic when his boss `is around`.
   - [ ] `be bathed in sweat`:                   汗だく
@@ -165,42 +195,8 @@
   - [ ] `be in the process of V-ing`:           している最中だ / we're actually in the process of doing actual development ourselves.
   - [ ] `be on the brink of`:                   寸前である 重大 / We are on the brink of war.
   - [ ] `be tasked with V-ing`:                 する任務を負う / I`'m tasked with helping` people cope with the stressful situations.
-- 作業
-  - [ ] `adjust | arrange | coordinate`:        既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
-  - [ ] `ask for`:                              請求する / The credit card company `asked for` the payment. / You are `asking for` it.
-  - [~] `break apart (into)`:                   まで分解する / They even showed a tendency to `break apart into` A group and B group.
-- [ ] break away:                                 独立する / In the 1800s the South tried to `break away` from the Union.
-- [ ] break away:                                 逃げる / The calf is `breaking away` from the cowboy.
-- [ ] break in:                                   慣らす / I have to `break in` my new shoes.
-- [ ] break into:                                 会話に入る / Can I `break in` here?
-- [ ] break into:                                 侵入する / A burglar `broke into` my house over the weekend.
-- [ ] break into:                                 急にしだす / He `broke into` tears. She `broke into` laugher. / Sarah saw pandas and `broke into` a run.
-- [ ] break through:                              突破する / The player `broke through` the defensive line. / The sun began to `break through`.
-- [ ] bring around:                               連れていく / We finally `brought him around` to our point of view .
-- [ ] bring up:                                   育てる / His nephew was `brought up` to be modest and considerate.
-- [ ] bring up:                                   話に出す / The comment you made is really spot-on. I'm glad you `brought that up`.
-- [ ] bring/get A up to speed:                    最新情報に追いつかせる / We need to `bring newbies up to speed` on our project as quickly as possible.
-- [ ] burn the midnight oil:                      徹夜する
-- [ ] choose A over B:                            A より B を選ぶ
-- [ ] come across:                                遭遇する / I `came across` this information on the internet.
-- [ ] come clean:                                 正直に述べる confess / OK. I'll `come clean`.
-- [ ] come do:                                    do しに来る / I wish my girlfriend would `come see` me.
-- [ ] come to an agreement:                       合意に至る / The organizers have `come to an agreement` regarding the location of the next Starr Trekking Convention.
-- [ ] come up with:                               考え出す / He `came up with` an ingenious, sensible solution and immediately put it into practice.
-- [ ] come/get home (from work/school):           帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
-- [ ] conceive a plan:                            計画を思いつく / They `conceived a plan` to surprise the enemy.
-- [ ] cope with | deal with:                      耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
-- [ ] cope with:                                  折り合いをつける / I'm trying to `cope with` loneliness in these new and unfamiliar surroundings.
-- [ ] cut corners:                                手を抜く / You shouldn't `cut corners`.
-- [ ] cut to the chase:                           要点を言う / Since we've only got five minutes, I'm going to `cut to the chase`.
-- [ ] deal with:                                  対処する
-- [ ] decide | decide on:                         決心する | 決定する
-- [ ] doesn't have as many A as B:                B ほど A を持っていない / We `don't have as many poeple in our team as` we did last year.
-- [ ] doesn't have as much A as B:                B ほど A を持っていない / He `doesn't have as much experience as` the other candidates.
-- [ ] drum up business:                           顧客を増やす
-- [ ] enter into an agreement with:               と契約を結ぶ / Klimt Development has `entered into` an agreement with Harper Towers Condominium that ...
-- [ ] establish oneself as:                       として確立する / Rob Dunn worked hard at several top restaurants in order to `establish himself as` a chef.
-- [~] expand on/upon:                             より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
+  - [~] `doesn't have as many A as B`:          B ほど A を持っていない / We `don't have as many poeple in our team as` we did last year.
+  - [~] `doesn't have as much A as B`:          B ほど A を持っていない / He `doesn't have as much experience as` the other candidates.
 - [ ] find oneself V-ing:                         I often `find myself keeping` an eye on the stock market.
 - [ ] fold up:                                    を折りたたむ
 - [ ] get O C:                                    O を C という状態にする / This song always `gets me feeling` some type of way.
@@ -300,6 +296,7 @@
 - [ ] be bathed in:                               まみれになる
 - [~] be black and white:                         明らかな / Things in life are never black and white.
 - [ ] be caused by:                               から生じる / The periodic change `was caused by` a faulty piece of equipment.
+- [ ] break away:                                 独立する / In the 1800s the South tried to `break away` from the Union.
 - [~] be composed of:                             で構成されている / This substance is mostly composed of hydrogen and oxygen.
 - [ ] be eating me alive:                         蝕んでいる / Keeping secrets `was eating me alive.`
 - [~] be exemplified by O:                        に例示される / This `is exemplified by` Facebook's Causes application.
@@ -316,6 +313,7 @@
 - [ ] bring about:                                もたらす / Medical breakthroughs have `brought about` great benefits for humanity as a whole.
 - [ ] bring back memories:                        記憶がよみがえる / Those pictures `bring back happy memories` of my time in the US.
 - [ ] bring on:                                   引き起こす / Fatigue often `brings on` headaches.
+- [ ] come to an agreement:                       合意に至る / The organizers have `come to an agreement` regarding the location of the next Starr Trekking Convention.
 - [ ] bring through:                              難局を切抜させる / Her angelic smile `brought me through` my mental distress .
 - [ ] brings back memories:                       思い出させる / This song `brings back memories!`
 - [~] can wait:                                   まで大丈夫 / Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
