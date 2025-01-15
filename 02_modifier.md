@@ -106,8 +106,12 @@
 
 ## 強調
 
-### 主張
+### 前置き
+- [~] `in one's defence`:                       言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
 - [ ] `as sb anticipated`:                      予測していた通り / `As we anticipated,` the unemployment rate has risen ....
+- [ ] `Like/as I was saying`:                   さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
+- [ ] `Like/as you said`:
+- [ ] `(more) broadly speaking`:
 
 ### 対比
 - [~] `in the first place`:                     そもそも / Why was he at the party `in the first place?` He wasn't invited, was he?
@@ -128,14 +132,6 @@
 - [ ] `or what?`:                               それとも違う？ / Are we gonna have fun`, or what?`
 - [~] `you know what I mean?`:                  言ってることわかります？
 
-  - [ ] `I hate to admit it, but`:              認めたくないけど / `I hate to admit it, but` I might need your help.
-  - [ ] `I hope I'm not interrupting you`:      ご迷惑でなければいいのですが
-  - [ ] `I hope you don't mind if`:             ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
-  - [~] `In one's defence`:                     言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
-  - [ ] `It goes without saying that`:          言うまでもないが / `It goes without saying that` the aging of society is inevitable.
-  - [ ] `Like/as I was saying`:                 さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
-  - [ ] `Like/as you said`:
-  - [ ] `(more) broadly speaking`:
   - [ ] `Now that`:                             いまや / `Now that` things are better, we should talk about the problem.
   - [~] `Off the top of my head`:               思いつくままに言うと / `Off the top of my head,` I think it's wrong.
   - [~] `Speaking from experience`:             私の経験から言うと

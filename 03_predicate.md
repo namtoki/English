@@ -31,6 +31,7 @@
 - [ ] It's been a while since S V:                久しぶり / `It's been a while since` I've swung a tennis racket.
 - [ ] It's been a long time since S V:            久しぶり
 - [ ] It's been ages since:                       久しぶり
+  - [ ] `It goes without saying that`:          言うまでもないが / `It goes without saying that` the aging of society is inevitable.
 
 ## I
 
@@ -72,6 +73,9 @@
 - [ ] I'm sure (that) S V:                        確信するよ / `I am sure that` I will enjoy the movie.
 - [ ] I'm sure of (sth):                          確信するよ / `I am sure of` enjoying the movie.
 - [ ] I'm terrible with O:                        嫌い
+  - [ ] `I hate to admit it, but`:              認めたくないけど / `I hate to admit it, but` I might need your help.
+  - [ ] `I hope I'm not interrupting you`:      ご迷惑でなければいいのですが
+  - [ ] `I hope you don't mind if`:             ご迷惑でなければいいのですが / `I hope you don't mind if` I eat while we talk.
 
 ## AUXILIARY+V
 
