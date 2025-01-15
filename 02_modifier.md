@@ -1,27 +1,41 @@
 # MODIFIER
 
-## 文修飾 (接続副詞 / 群前置詞) (`___`, S+V. / S+V+`___`.)
+## 副詞 (接続副詞 / 群前置詞) (`___`, S+V. / S+V+`___`.)
 
-- お題:
-  - [~] `O-wise`:                               `Staffing-wise,` I think it’s all right.
-  - [~] `In V-ing O`:                           `In making a decision,` I rely not on logic but on instinct.
-  - [~] `In terms of O`:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
-  - [~] `Speaking of which/O`:                  `Speaking of summer,` where did you go this year?
-  - [ ] `About O`:                              `About` the food ... it is bad.
-  - [ ] `On O`:                                 thesis `on` education
-  - [ ] `Regarding O`:                          `Regarding` the subject above,,,
-  - [ ] `With/in regard to O`:                  `With regard to` the notes below
-  - [ ] `Concerning O`:                         `concerning` the changes that were recently made,,,
-  - [ ] `As for O`:                             `As for` the cost per person
-  - [ ] `As for me`:                            `As for me,` I agree with his opinion.
-  - [ ] `As to O`:                              discussion `as to` which university is the best university.
-  - [ ] `Talking of O`:                         `Talking of` soccer, Did you watch the game yesterday?
+- スコープ:
+  - [~] `in V-ing O`:                           `In making a decision,` I rely not on logic but on instinct.
+  - [~] `in terms of O`:                        I liked that movie `in terms of` the acting. I didn’t really like the story though.
+  - [~] `speaking of which/O`:                  `Speaking of summer,` where did you go this year?
+  - [~] `when it comes to O`:                   ということになると / `When it comes to` the weather, there’s nothing I can do.
+  - [ ] `o-wise`:                               `Staffing-wise,` I think it’s all right.
+  - [ ] `about O`:                              `About` the food ... it is bad.
+  - [ ] `on O`:                                 thesis `on` education
+  - [ ] `regarding O`:                          `Regarding` the subject above,,,
+  - [ ] `with/in regard to O`:                  `With regard to` the notes below
+  - [ ] `concerning O`:                         `concerning` the changes that were recently made,,,
+  - [ ] `as for O`:                             `As for` the cost per person
+  - [ ] `as for me`:                            `As for me,` I agree with his opinion.
+  - [ ] `as to O`:                              discussion `as to` which university is the best university.
+  - [ ] `talking of O`:                         `Talking of` soccer, Did you watch the game yesterday?
 - 仮定:
-  - [~] `By doing this`:
-  - [ ] `In that case`:                         その場合は / `In that case,` I’ll have a beer.
-  - [ ] `In which case`:                        この場合は / Scott might be on vacation, `in which case,` just touch base with Aaron.
-  - [ ] `Then`:                                 Do whatever I say. `Then` you will be successful.
-  - [~] `In light of O`:                        を考慮に入れると
+  - [~] `by doing this`:
+  - [~] `given that S V`:                       を考慮に入れると / `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
+  - [~] `considering that S V`:                 を考慮に入れると /
+  - [~] `assuming that S V`:                    だとすると / `Assuming that` no voltage is applied from the booster amplifier,,,,
+  - [~] `supposing that S V`:                   だとすると / `Supposing that` the fire headed our way, what would we do next?
+  - [~] `(let's) say S V`:                      だとすると / `Say` I invest a hundred dollars now, how much will I ...
+  - [~] `as long as S V`:                       する限り / `As long as` you are young, you should experience different things.
+  - [~] `as far as / insofar as S V`:           する範囲では / `As far as` I can see, he will fail the exam again this time.
+  - [ ] `in that case`:                         その場合は / `In that case,` I’ll have a beer.
+  - [ ] `in which case`:                        この場合は / Scott might be on vacation, `in which case,` just touch base with Aaron.
+  - [ ] `then`:                                 そうすれば / Do whatever I say. `Then` you will be successful.
+  - [ ] `in light of O`:                        を考慮に入れると
+  - [ ] `with O`:                               があれば / `With` a little luck, we can still make it.
+  - [ ] `in the long run`:                      Bob believes that honesty pays off `in the long run.`
+  - [ ] `let's just say`:                       The environment that `let's just say` was set up for my ...
+  - [ ] `in the event that`:                    の場合は
+  - [ ] `however much S V`:                     どれだけしても
+  - [ ] `at the thought of O`:                  I tremble with fear `at the thought of` an injection.
 - 何故:
   - [~] `As a result`:                          He didn't work hard and, `as a result`, he failed in the exam.
   - [~] `Because of this`:                      I've never been to that place. `Because of this`, I know little about it.
@@ -88,7 +102,6 @@
   - [ ] `The fact is`:                          実を言うと / `The fact is,` I don't have enough money.
   - [~] `The way I see it`:                     私の見解では / `The way I see it`, it's too simplistic to say that ...
   - [ ] `This might be just me, but`:           自分だけかもしれないけど
-  - [~] `When it comes to O`:                   ということになると / `When it comes to` the weather, there’s nothing I can do.
   - [ ] `You know as well as I do that`:        ご存じかと思いますが / `You know as well as I do that` this is very important.
   - [ ] `With the exception of~`:               を除いて /
   - [~] `Personally, in my opinion`:
@@ -210,18 +223,6 @@
 - [ ] on average:                                平均すると
 - [ ] at a discount:                             割引料金で
 - [ ] after having done:                         した後に / していたので
-- [~] [assumption] assuming that S V:              だとすると / `Assuming that` no voltage is applied from the booster amplifier,,,,
-- [~] [assumption] supposing that S V:             だとすると / `Supposing that` the fire headed our way, what would we do next?
-- [~] [assumption] (let's) say S V:                だとすると / `Say` I invest a hundred dollars now, how much will I ...
-- [ ] [assumption] as long as S V:                 `As long as` you are young, you should experience different things.
-- [ ] [assumption] as far as / insofar as S V:     `As far as` I can see, he will fail the exam again this time.
-- [ ] [assumption] given that S V:                 `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
-- [ ] [assumption] with O:                         `With` a little luck, we can still make it.
-- [ ] [assumption] in the long run:                Bob believes that honesty pays off `in the long run.`
-- [ ] [assumption] let's just say:                 The environment that `let's just say` was set up for my ...
-- [ ] [assumption] in the event that:              の場合は
-- [ ] [assumption] however much S V:               どれだけしても
-- [ ] [assumption] at the thought of O:            I tremble with fear `at the thought of` an injection.
 
 ## OTHERS
 
