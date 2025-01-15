@@ -188,3 +188,4 @@
 - [ ] You wanted to see me?:                      お呼びでしょうか
 - [ ] is that right?:
 - [ ] what should I do?:                          `What should I do` in a situation like this?
+  - [ ] `Don't get me wrong, but`:              誤解しないでほしいんだけど

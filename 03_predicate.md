@@ -46,6 +46,7 @@
 - [ ] I feel C:                                   と思っている / `I feel bad` about canceling.
 - [ ] I feel like C:                              (自分が)みたいだ / `I feel like` an idiot.
 - [ ] I feel like O/V-ing:                        の気分だ / `I feel like` Thai food. I don't feel like it. / `I feel like` going out somewhere.
+  - [ ] `I also feel that`:                     私も同じ考えで / `I also feel that` it's a great idea to build a daycare facility next to our building.
 - [ ] I feel like S V:                            な気がする / `I feel like` there is a ton of bricks on my lap.
 - [ ] I find O C:                                 だと思う / `I find it really interesting` to study English.~
 - [~] I have a feeling/hunch that S V:            だという気がする / `I have a feeling that` there's more to it.
