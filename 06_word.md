@@ -1,3 +1,7 @@
+# WORD
+
+- [ ] `grumpy`                      無愛想な人、不機嫌な        `If I had to guess,` I would say that she is single.
+
 - [ ] abridge
 - [ ] acclaim
 - [ ] adamant

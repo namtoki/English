@@ -149,6 +149,7 @@
   - [ ] `come across`:                          遭遇する / I `came across` this information on the internet.
   - [ ] `come do`:                              do しに来る / I wish my girlfriend would `come see` me.
   - [ ] `come/get home (from work/school)`:     帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
+- [ ] `hang out`                    ぶらぶらする                Would you like to `hang out` next Sunday?
 - 精神的動作
   - [ ] `adjust | arrange | coordinate`:        既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
   - [ ] `ask for`:                              請求する / The credit card company `asked for` the payment. / You are `asking for` it.
@@ -175,6 +176,7 @@
   - [ ] `enter into an agreement with`:         と契約を結ぶ / Klimt Development has `entered into` an agreement with Harper Towers Condominium that ...
   - [ ] `establish oneself as`:                 として確立する / Rob Dunn worked hard at several top restaurants in order to `establish himself as` a chef.
   - [~] `expand on/upon`:                       より詳しく説明する / The teacher wanted Julie to `expand on` her one-word answers.
+- [ ] `hold sb accountable`         責任を取らせる              If we want to accomplish this goal, we need to `hold each other accountable`.
 - 物理的な状態
   - [ ] `be around`:                            近くにいる / He pretends to be enthusiastic when his boss `is around`.
   - [ ] `be bathed in sweat`:                   汗だく

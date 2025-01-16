@@ -1,6 +1,7 @@
 # MODIFIER
 
 ### 照準を定める
+
 - [~] `in V-ing O`:                 するときは                  `In making a decision,` I rely not on logic but on instinct.
 - [~] `speaking of which/O`         について言うと              `Speaking of summer,` where did you go this year?
 - [~] `when it comes to O`          ということになると          `When it comes to` the weather, there’s nothing I can do.
@@ -18,6 +19,7 @@
 - [ ] `talking of O`                について言うと              `Talking of` soccer, Did you watch the game yesterday?
 
 ### 視点を与える
+
 - [~] `in terms of O`               の点で                      I liked that movie `in terms of` the acting. I didn’t really like the story though.
 - [~] `personally, in my opinion`   個人的には
 - [~] `from a one's standpoint`     の観点から                  Single track riding can be quite challenging `from a technical standpoint`.
@@ -27,6 +29,7 @@
 - [ ] `as for me`                   私にとっては                `As for me,` I agree with his opinion.
 
 ### 条件を与える
+
 - [~] `by doing this`               そうすることによって
 - [~] `given that S V`              を考慮に入れると            `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
 - [~] `considering that S V`        を考慮に入れると
@@ -38,9 +41,11 @@
 - [~] `if I had to say/guess`       強いて言うなら              `If I had to guess,` I would say that she is single.
 
 ### 理由
+
 - [ ] `with all`                    があるので                  `With all` that money, he can do anything
 
 ### 条件 / 仮定
+
 - [~] `if I'm not mistaken`:                    間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
 - [~] `if it works for you`:                    都合が良ければ / So I’ll see you at 7`, if it works for you.`
 - [ ] `if you ask me`:                          強いて言うなら / It was a little long`, if you ask me.`
@@ -61,11 +66,14 @@
 ## 説明
 
 - [~] `To be honest`:
+
 ### 最初に
+
 - [~] `to begin with`:                          `To begin with,` its theme is obscure.
 - [ ] `first/Most of all`:                      `First of all,` learn the formula by heart.
 
 ### それから / さらに
+
 - [~] `on top of that`:
 - [ ] `and the next thing I knew`:              次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
 - [ ] `and then`:                               それから
@@ -74,6 +82,7 @@
 - [ ] `what's worse`:
 
 ### が原因で/というのも
+
 - [~] `for one thing ,,, for another thing`:    I can't put you up. `For one thing,` my dad drops in on me from time to time.
 - [~] `the reason being that`:                  `The reason being that,` I didn’t want to relocate.
 - [ ] `thanks to~`:                             好ましいこと / `Thanks to` the strong yen, we can travel abroad without spending much.
@@ -93,15 +102,19 @@
 - [ ] `this is because`:                        I haven't finished my homework. `That is because` I came down with the flu.
 
 ### 目的
+
 - [ ] `for the purpose of~`:                    する目的のために
+in order that
 
 ### その結果
+
 - [~] `as a result`:                            その結果 / He didn't work hard and, `as a result`, he failed in the exam.
 - [~] `because of this`:                        その結果 / I've never been to that place. `Because of this`, I know little about it.
 - [~] `this is why`:                            そういうわけで / I came down with the flu. `This is why` I haven't finished my homework.
 - [ ] `consequently`:                           He made a mistake, and `consequently` lost an opportunity for being promoted.
 
 ### 結論
+
 - [~] `all things considered`:                  `All things considered`, that was a successful event.
 - [~] `at the end of the day`:                  `At the end of the day,` this is not that important.
 - [~] `in any case`:                            `In any case,` the union has to compromise to a certain extent.
@@ -113,6 +126,7 @@
 ## 強調
 
 ### 前置き
+
 - [~] `in one's defence`:                       言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
 - [ ] `as sb anticipated`:                      予測していた通り / `As we anticipated,` the unemployment rate has risen ....
 - [ ] `Like/as I was saying`:                   さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
@@ -125,6 +139,7 @@
 - [ ] `Now that`:                               いまや / `Now that` things are better, we should talk about the problem.
 
 ### 対比
+
 - [~] `in the first place`:                     そもそも / Why was he at the party `in the first place?` He wasn't invited, was he?
 - [~] `when compared to`:                       と比べて / Global emissions could rise 1.1 percent this year `when compared to` 2022.
 - [~] `for all`:                                のに / I don't feel happy `for all` my success.
@@ -136,7 +151,6 @@
 - [ ] `in spite of O`:                          `In spite of` our compliments, he frowned and turned away. He was so rude.
 - [ ] `despite O`:                              `Despite` the risk, I would like to proceed with the plan.
 - [ ] `among other things`:
-
 
 - [ ] `With the exception of~`:                 を除いて /
 
@@ -225,7 +239,6 @@
 - [ ] [long] tens of minutes:                      数十分
 - [ ] [long] throughout:                           中ずっと / We plan to celebrate our victory `throughout` the night.
 
-
 ## OTHERS
 
 - [ ] [as] for the (fun | joy) of it:              I just cook `for the fun of it.`
@@ -291,3 +304,5 @@
 - [ ] [where] (O) out of (O):                      We have watched `4 out of 5` seasons.
 - [ ] 何と同じ？:                            `just as` the passer rating is not a perfect measure of quarteback performance.
 - [ ] ..., each with:                             それぞれがを持っている / Stremto has launched a new line of instant polaroif cameras, `each with` thier own unique shape and design.
+
+- [~] `in support of O`:            を支持して                  The newspaper published an editorial `in support of` the new tax plan.
