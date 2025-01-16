@@ -189,3 +189,12 @@
 - [ ] is that right?:
 - [ ] what should I do?:                          `What should I do` in a situation like this?
   - [ ] `Don't get me wrong, but`:              誤解しないでほしいんだけど
+  - [~] `That's a fair point, but`:             それはもっともですが、
+  - [ ] `The fact is`:                          実を言うと / `The fact is,` I don't have enough money.
+  - [~] `The way I see it`:                     私の見解では / `The way I see it`, it's too simplistic to say that ...
+  - [ ] `This might be just me, but`:           自分だけかもしれないけど
+  - [ ] `You know as well as I do that`:        ご存じかと思いますが / `You know as well as I do that` this is very important.
+- [~] `if that makes sense.`:                   言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
+- [~] `or not really?`:                         それとも違う？ / Do you like this kind of music`, or not really?`
+- [ ] `or what?`:                               それとも違う？ / Are we gonna have fun`, or what?`
+- [~] `you know what I mean?`:                  言ってることわかります？

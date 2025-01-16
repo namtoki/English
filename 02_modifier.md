@@ -1,40 +1,45 @@
 # MODIFIER
 
-## スコープ
+### 照準を定める
+- [~] `in V-ing O`:                 するときは                  `In making a decision,` I rely not on logic but on instinct.
+- [~] `speaking of which/O`         について言うと              `Speaking of summer,` where did you go this year?
+- [~] `when it comes to O`          ということになると          `When it comes to` the weather, there’s nothing I can do.
+- [~] `going back to O`             に戻ると                    `Going back to` your question, my answer is no.
+- [~] `off-topic, but`              話は逸れますが              Bit `off-topic, but` I just finished editing the video.
+- [~] `by the way`                  ところで
+- [~] `O-wise`                      的に言うと                  `Staffing-wise,` I think it’s all right.
+- [~] `about O`                     について                    `About` the food ... it is bad.
+- [~] `on O`                        についての(専門的)          thesis `on` education
+- [~] `as for O`                    (さっき言った)に関して      `As for` the cost per person
+- [ ] `regarding O`                 に関しては                  `Regarding` the subject above,,,
+- [ ] `with/in regard to O`         に関しては                  `With regard to` the notes below
+- [ ] `concerning O`                に関しては                  `concerning` the changes that were recently made,,,
+- [ ] `as to O`                     について                    discussion `as to` which university is the best university.
+- [ ] `talking of O`                について言うと              `Talking of` soccer, Did you watch the game yesterday?
 
-### 話の転換
-- [~] `going back to ~`:                        に戻ると / `Going back to` your question, my answer is no.
-- [~] `off-topic, but`:                         話は逸れますが / Bit `off-topic, but` I just finished editing the video.
-- [ ] `by the way`:                             ところで /
+### 視点を与える
+- [~] `in terms of O`               の点で                      I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- [~] `personally, in my opinion`   個人的には
+- [~] `from a one's standpoint`     の観点から                  Single track riding can be quite challenging `from a technical standpoint`.
+- [~] `from one's point of view`    の観点から                  Well, `from my point of view,` some of the new policies are really good.
+- [ ] `from one's perspective`      の観点から                  Also `from the field’s perspective,` I think ,,,
+- [ ] `from the perspective of O`   の観点から                  Trends in trade `from the perspective of` production stage.
+- [ ] `as for me`                   私にとっては                `As for me,` I agree with his opinion.
 
-### お題
-- [~] `in V-ing O`:                             `In making a decision,` I rely not on logic but on instinct.
-- [~] `in terms of O`:                          I liked that movie `in terms of` the acting. I didn’t really like the story though.
-- [~] `speaking of which/O`:                    `Speaking of summer,` where did you go this year?
-- [~] `when it comes to O`:                     ということになると / `When it comes to` the weather, there’s nothing I can do.
-- [ ] `o-wise`:                                 `Staffing-wise,` I think it’s all right.
-- [ ] `about O`:                                `About` the food ... it is bad.
-- [ ] `on O`:                                   thesis `on` education
-- [ ] `regarding O`:                            `Regarding` the subject above,,,
-- [ ] `with/in regard to O`:                    `With regard to` the notes below
-- [ ] `concerning O`:                           `concerning` the changes that were recently made,,,
-- [ ] `as for O`:                               `As for` the cost per person
-- [ ] `as for me`:                              `As for me,` I agree with his opinion.
-- [ ] `as to O`:                                discussion `as to` which university is the best university.
-- [ ] `talking of O`:                           `Talking of` soccer, Did you watch the game yesterday?
+### 条件を与える
+- [~] `by doing this`               そうすることによって
+- [~] `given that S V`              を考慮に入れると            `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
+- [~] `considering that S V`        を考慮に入れると
+- [~] `assuming that S V`           が事実だとすると            `Assuming that` no voltage is applied from the booster amplifier,,,,
+- [~] `supposing that S V`          だと仮定すると              `Supposing that` the fire headed our way, what would we do next?
+- [~] `(let's) say S V`             だと仮定すると              `Say` I invest a hundred dollars now, how much will I ...
+- [~] `as long as S V`              する限り                    `As long as` you are young, you should experience different things.
+- [~] `as far as / insofar as S V`  する範囲では                `As far as` I can see, he will fail the exam again this time.
+
+### 理由
+- [ ] `with all`                    があるので                  `With all` that money, he can do anything
 
 ### 条件 / 仮定
-- [~] `in a nutshell`:                          一言で言えば / That's it`, in a nutshell.`
-- [~] `by doing this`:
-- [~] `given that S V`:                         を考慮に入れると / `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
-- [~] `considering that S V`:                   を考慮に入れると /
-- [~] `assuming that S V`:                      だとすると / `Assuming that` no voltage is applied from the booster amplifier,,,,
-- [~] `supposing that S V`:                     だとすると / `Supposing that` the fire headed our way, what would we do next?
-- [~] `(let's) say S V`:                        だとすると / `Say` I invest a hundred dollars now, how much will I ...
-- [~] `as long as S V`:                         する限り / `As long as` you are young, you should experience different things.
-- [~] `as far as / insofar as S V`:             する範囲では / `As far as` I can see, he will fail the exam again this time.
-- [~] `on the second thought`:                  考え直すと /
-- [~] `with all`:                               れば / `With all` that money, he can do anything
 - [~] `if I had to say/guess`:                  強いて言うなら / `If I had to guess,` I would say that she is single.
 - [~] `if I'm not mistaken`:                    間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
 - [~] `if it works for you`:                    都合が良ければ / So I’ll see you at 7`, if it works for you.`
@@ -55,6 +60,7 @@
 
 ## 説明
 
+- [~] `To be honest`:
 ### 最初に
 - [~] `to begin with`:                          `To begin with,` its theme is obscure.
 - [ ] `first/Most of all`:                      `First of all,` learn the formula by heart.
@@ -112,6 +118,11 @@
 - [ ] `Like/as I was saying`:                   さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
 - [ ] `Like/as you said`:
 - [ ] `(more) broadly speaking`:
+- [~] `Speaking from experience`:               私の経験から言うと
+- [~] `on the second thought`:                  考え直すと /
+- [~] `in a nutshell`:                          一言で言えば / That's it`, in a nutshell.`
+- [~] `Off the top of my head`:                 思いつくままに言うと / `Off the top of my head,` I think it's wrong.
+- [ ] `Now that`:                               いまや / `Now that` things are better, we should talk about the problem.
 
 ### 対比
 - [~] `in the first place`:                     そもそも / Why was he at the party `in the first place?` He wasn't invited, was he?
@@ -126,27 +137,9 @@
 - [ ] `despite O`:                              `Despite` the risk, I would like to proceed with the plan.
 - [ ] `among other things`:
 
-### 確認
-- [~] `if that makes sense.`:                   言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
-- [~] `or not really?`:                         それとも違う？ / Do you like this kind of music`, or not really?`
-- [ ] `or what?`:                               それとも違う？ / Are we gonna have fun`, or what?`
-- [~] `you know what I mean?`:                  言ってることわかります？
 
-  - [ ] `Now that`:                             いまや / `Now that` things are better, we should talk about the problem.
-  - [~] `Off the top of my head`:               思いつくままに言うと / `Off the top of my head,` I think it's wrong.
-  - [~] `Speaking from experience`:             私の経験から言うと
-  - [~] `That's a fair point, but`:             それはもっともですが、
-  - [ ] `The fact is`:                          実を言うと / `The fact is,` I don't have enough money.
-  - [~] `The way I see it`:                     私の見解では / `The way I see it`, it's too simplistic to say that ...
-  - [ ] `This might be just me, but`:           自分だけかもしれないけど
-  - [ ] `You know as well as I do that`:        ご存じかと思いますが / `You know as well as I do that` this is very important.
-  - [ ] `With the exception of~`:               を除いて /
-  - [~] `Personally, in my opinion`:
-  - [~] `To be honest`:
-  - [~] `From a one's standpoint`:              Single track riding can be quite challenging `from a technical standpoint`.
-  - [~] `From the perspective of O`:            Trends in trade `from the perspective of` production stage.
-  - [~] `From one's perspective`:               Also `from the field’s perspective,` I think ,,,
-  - [~] `From one's point of view`:             Well, `from my point of view,` some of the new policies are really good.
+- [ ] `With the exception of~`:                 を除いて /
+
 - [ ] [range] for the most part:                   `For the most part,` modernization is identified with westernization.
 - [ ] [range] except for:                          The auditorium was empty `except for` a single piece of furniture.
 - [ ] [range] not including:                       I work 8 hours `not including` lunch.
