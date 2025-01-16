@@ -198,3 +198,4 @@
 - [~] `or not really?`:                         それとも違う？ / Do you like this kind of music`, or not really?`
 - [ ] `or what?`:                               それとも違う？ / Are we gonna have fun`, or what?`
 - [~] `you know what I mean?`:                  言ってることわかります？
+  - [ ] `Could you go over it again?`:              もう一度言ってもらえませんか？
