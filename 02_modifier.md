@@ -35,12 +35,12 @@
 - [~] `(let's) say S V`             だと仮定すると              `Say` I invest a hundred dollars now, how much will I ...
 - [~] `as long as S V`              する限り                    `As long as` you are young, you should experience different things.
 - [~] `as far as / insofar as S V`  する範囲では                `As far as` I can see, he will fail the exam again this time.
+- [~] `if I had to say/guess`       強いて言うなら              `If I had to guess,` I would say that she is single.
 
 ### 理由
 - [ ] `with all`                    があるので                  `With all` that money, he can do anything
 
 ### 条件 / 仮定
-- [~] `if I had to say/guess`:                  強いて言うなら / `If I had to guess,` I would say that she is single.
 - [~] `if I'm not mistaken`:                    間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
 - [~] `if it works for you`:                    都合が良ければ / So I’ll see you at 7`, if it works for you.`
 - [ ] `if you ask me`:                          強いて言うなら / It was a little long`, if you ask me.`
