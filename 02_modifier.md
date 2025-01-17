@@ -18,9 +18,9 @@
 - [ ] `as to O`                     について                    discussion `as to` which university is the best university.
 - [ ] `talking of O`                について言うと              `Talking of` soccer, Did you watch the game yesterday?
 
-### 視点を与える
+### 視点
 
-- [~] `in terms of O`               の点で                      I liked that movie `in terms of` the acting. I didn’t really like the story though.
+- [~] `in terms of O`               の点で                      I liked that movie `in terms of` the acting.
 - [~] `personally, in my opinion`   個人的には
 - [~] `from a one's standpoint`     の観点から                  Single track riding can be quite challenging `from a technical standpoint`.
 - [~] `from one's point of view`    の観点から                  Well, `from my point of view,` some of the new policies are really good.
@@ -28,7 +28,7 @@
 - [ ] `from the perspective of O`   の観点から                  Trends in trade `from the perspective of` production stage.
 - [ ] `as for me`                   私にとっては                `As for me,` I agree with his opinion.
 
-### 条件を与える
+### 条件
 
 - [~] `by doing this`               そうすることによって
 - [~] `given that S V`              を考慮に入れると            `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
@@ -39,79 +39,75 @@
 - [~] `as long as S V`              する限り                    `As long as` you are young, you should experience different things.
 - [~] `as far as / insofar as S V`  する範囲では                `As far as` I can see, he will fail the exam again this time.
 - [~] `if I had to say/guess`       強いて言うなら              `If I had to guess,` I would say that she is single.
+- [~] `against this background`     このような背景のもと
+- [ ] `at the sound of~`            を聞いて
+- [ ] `at the thought of O`         を考えると                  I tremble with fear `at the thought of` an injection.
+- [ ] `as it is`                    今のところ                  `As it is,` ordinary people cannot afford to purchase such luxuries.
+- [ ] `in that case`                その場合は                  `In that case,` I’ll have a beer.
+- [ ] `in which case`               この場合は                  Scott might be on vacation, `in which case,` just touch base with Aaron.
+- [ ] `then`                        そうすれば                  Do whatever I say. `Then` you will be successful.
+- [ ] `in light of O`               を考慮に入れると
+- [ ] `with O`                      があれば                    `With` a little luck, we can still make it.
+- [ ] `in the long run`             長い目で見れば              Bob believes that honesty pays off `in the long run.`
+- [ ] `in the event that`           の場合は                    `In the event that` Y fails to perform its obligations under this Agreement,
 
-### 理由
+### 順序
 
-- [ ] `with all`                    があるので                  `With all` that money, he can do anything
-
-### 条件 / 仮定
-
-- [~] `if I'm not mistaken`:                    間違ってなければ / `If I'm not mistaken,` it's the tallest building in the world.
-- [~] `if it works for you`:                    都合が良ければ / So I’ll see you at 7`, if it works for you.`
-- [ ] `if you ask me`:                          強いて言うなら / It was a little long`, if you ask me.`
-- [~] `if you don't mind`:                      もしよろしければ / I have a suggestion`, if you don't mind.`
-- [~] `if you think about it`:                  考え方によっては / It's crazy how we can communicate like this`, if you think about it.`
-- [ ] `as it is`:                               今のところ / `As it is,` ordinary people cannot afford to purchase such luxuries.
-- [ ] `in that case`:                           その場合は / `In that case,` I’ll have a beer.
-- [ ] `in which case`:                          この場合は / Scott might be on vacation, `in which case,` just touch base with Aaron.
-- [ ] `then`:                                   そうすれば / Do whatever I say. `Then` you will be successful.
-- [ ] `in light of O`:                          を考慮に入れると
-- [ ] `with O`:                                 があれば / `With` a little luck, we can still make it.
-- [ ] `in the long run`:                        Bob believes that honesty pays off `in the long run.`
-- [ ] `let's just say`:                         The environment that `let's just say` was set up for my ...
-- [ ] `in the event that`:                      の場合は
-- [ ] `on average`:                             平均すると
-- [ ] `at a discount`:                          割引料金で
-
-## 説明
-
-- [~] `To be honest`:
-
-### 最初に
-
-- [~] `to begin with`:                          `To begin with,` its theme is obscure.
-- [ ] `first/Most of all`:                      `First of all,` learn the formula by heart.
-
-### それから / さらに
-
-- [~] `on top of that`:
-- [ ] `and the next thing I knew`:              次の瞬間 / I felt dizzy, `and the next thing I knew` I was ...
-- [ ] `and then`:                               それから
-- [ ] `to make matters worse`:                  `To make matters worse,` he isn't even conscious of annoying us.
-- [ ] `what's more`:                            I met the man by chance. He's gentle and smart. `What's more,` he's single.
-- [ ] `what's worse`:
-
-### が原因で/というのも
-
-- [~] `for one thing ,,, for another thing`:    I can't put you up. `For one thing,` my dad drops in on me from time to time.
-- [~] `the reason being that`:                  `The reason being that,` I didn’t want to relocate.
-- [ ] `thanks to~`:                             好ましいこと / `Thanks to` the strong yen, we can travel abroad without spending much.
-- [ ] `owing to~`:                              好ましくないこと / 文頭 / `Owing to` illness, some representatives were absent from ...
-- [ ] `on the recommendation of~`:              の推薦で
-- [ ] `on the grounds of~`:                     という根拠に基づいて / There  are many people in the world who are discriminated against `on the grounds of` race, sex, religion.
-- [ ] `on account of~`:                         困難 / 文語 / Our flight to Vienna was delayed `on account of` a minor accident.
-- [ ] `in consequence of~`:                     堅苦しい /
-- [ ] `for that reason`:
-- [ ] `due to~`:                                補語になるか名詞を修飾 / I missed school `due to` Covid-19.
-- [ ] `because of~`:                            `Because of` the heavy snow, our flight was delayed.
-- [ ] `at the sound of~`:                       を聞いて
-- [ ] `at the thought of O`:                    を考えると / I tremble with fear `at the thought of` an injection.
-- [ ] `as a result of~`:                        因果の間に時間差 / `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-- [ ] `as a consequence`:
-- [ ] `against this background`:                このような背景のもと
-- [ ] `this is because`:                        I haven't finished my homework. `That is because` I came down with the flu.
+- [~] `on top of that`              さらに
+- [~] `to begin with`               はじめに                    `To begin with,` its theme is obscure.
+- [ ] `first/Most of all`           はじめに                    `First of all,` learn the formula by heart.
+- [ ] `and the next thing I knew`   次の瞬間                    I felt dizzy, `and the next thing I knew` I was ...
+- [ ] `and then`                    それから
+- [ ] `to make matters worse`       さらに悪いことに            `To make matters worse,` he isn't even conscious of annoying us.
+- [ ] `what's more`                 さらに良いことに            I met the man by chance. He's gentle and smart. `What's more,` he's single.
+- [ ] `what's worse`                さらに悪いことに
 
 ### 目的
 
-- [ ] `for the purpose of~`:                    する目的のために
-in order that
+- [ ] `in order that`
+- [ ] `for the purpose of~`         する目的のために
+
+### 理由
+
+- [ ] `because of~`:                が理由で                    `Because of` the heavy snow, our flight was delayed.
+- [ ] `with all`                    があるので                  `With all` that money, he can do anything
+- [ ] `thanks to~`                  のおかげで                  `Thanks to` the strong yen, we can travel abroad without spending much.
+- [ ] `owing to~`                   のせいで (文頭)             `Owing to` illness, some representatives were absent from ...
+- [ ] `on account of~`:             のせいで (困難 / 文語)      Our flight to Vienna was delayed `on account of` a minor accident.
+- [ ] `due to~`:                    のせいで (補語 / 名詞修飾)  I missed school `due to` Covid-19.
+- [ ] `in consequence of~`          がもとで (堅苦しい)
+- [ ] `as a consequence`            がもとで (堅苦しい)
+- [ ] `as a result of~`             の結果 (因果の間に時間差)   `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+- [ ] `for that reason`             そんなわけで
+
+### 理由 (後だし)
+
+- [ ] `this is because`             というのも                  I haven't finished my homework. `That is because` I came down with the flu.
+- [~] `the reason being that`       というのも                  `The reason being that,` I didn’t want to relocate.
+- [ ] `for one/another thing`       というのも                  I can't put you up. `For one thing,` my dad drops in on me from time to time.
 
 ### その結果
 
-- [~] `as a result`:                            その結果 / He didn't work hard and, `as a result`, he failed in the exam.
-- [~] `because of this`:                        その結果 / I've never been to that place. `Because of this`, I know little about it.
-- [~] `this is why`:                            そういうわけで / I came down with the flu. `This is why` I haven't finished my homework.
-- [ ] `consequently`:                           He made a mistake, and `consequently` lost an opportunity for being promoted.
+- [~] `as a result`                 その結果                    He didn't work hard and, `as a result`, he failed in the exam.
+- [~] `because of this`             その結果                    I've never been to that place. `Because of this`, I know little about it.
+- [~] `this is why`                 そういうわけで              I came down with the flu. `This is why` I haven't finished my homework.
+- [ ] `consequently`                結果的に                    He made a mistake, and `consequently` lost an opportunity for being promoted.
+
+### 気持ち
+
+- [~] `if I'm not mistaken`         間違ってなければ            `If I'm not mistaken,` it's the tallest building in the world.
+- [~] `if it works for you`         都合が良ければ              So I’ll see you at 7`, if it works for you.`
+- [~] `if you don't mind`           もしよろしければ            I have a suggestion`, if you don't mind.`
+- [~] `if you think about it`       考え方によっては            It's crazy how we can communicate like this`, if you think about it.`
+- [~] `to be honest`                正直
+- [ ] `if you ask me`               強いて言うなら              It was a little long`, if you ask me.`
+
+### 他
+
+- [ ] `on average`                  平均すると
+- [ ] `at a discount`               割引料金で
+- [ ] `on the recommendation of~`   の推薦で
+- [ ] `on the grounds of~`          という根拠に基づいて        people who are discriminated against `on the grounds of` race, sex, religion.
 
 ### 結論
 
