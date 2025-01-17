@@ -113,3 +113,5 @@
 - [ ] halfway through:                            の途中で,半ばを過ぎた / I was `halfway through` dinner when he appeared.
 - [ ] in one's XXs:                               .. 十代 / Some of her first students are new `in their 20s`.
 - [ ] beside the point:                           的外れの / I agree he has had an unfortunate life, but that's `beside the point`.
+
+- [ ] [where] (O) out of (O)                      We have watched `4 out of 5` seasons.

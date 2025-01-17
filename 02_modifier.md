@@ -13,6 +13,9 @@
 - [~] `on O`                        についての(専門的)          thesis `on` education
 - [~] `as for O`                    (さっき言った)に関して      `As for` the cost per person
 - [~] `to begin with`               はじめに                    `To begin with,` its theme is obscure.
+- [~] `in any case`                 いずれにしても              `In any case,` the union has to compromise to a certain extent.
+- [ ] `anyway`                      いずれにしても              That’s a funny story. `Anyway,` he is late today, isn’t he?
+- [ ] `regardless`                  いずれにしろ                `Regardless`, please give us ...
 - [ ] `and then`                    それから
 - [ ] `regarding O`                 に関しては                  `Regarding` the subject above,,,
 - [ ] `with/in regard to O`         に関しては                  `With regard to` the notes below
@@ -37,6 +40,7 @@
 - [~] `by doing this`               そうすることによって
 - [~] `given that S V`              を考慮に入れると            `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
 - [~] `considering that S V`        を考慮に入れると
+- [~] `all things considered`       全て考慮に入れると          `All things considered`, that was a successful event.
 - [~] `assuming that S V`           が事実だとすると            `Assuming that` no voltage is applied from the booster amplifier,,,,
 - [~] `supposing that S V`          だと仮定すると              `Supposing that` the fire headed our way, what would we do next?
 - [~] `(let's) say S V`             だと仮定すると              `Say` I invest a hundred dollars now, how much will I ...
@@ -67,15 +71,15 @@
 - [ ] `for a rainy day`             念のため                    I decided to put some aside `for a rainy day.`
 - [ ] `in (the) hope(s) that S V`   を望んで                    I didn't phone till four o'clock `in the hope that` you'd be finished.
 - [ ] `with a view to V-ing`        を目的として                A fund was set up `with a view to` preserving our endangered planet.
+- [ ] `with the intention of V-ing` しようと思って              He flattered `with the intention of getting` something.
+- [ ] `in an attempt to V`          しようとして                He dived into the river `in a heroic attempt to` save the child.
+- [ ] `in an effort to V`           しようとして                `In an effort to` encourage diversity, they will debate ...
+- [ ] `in response to`              に応えて                    The day's agenda was altered `in response to` changes in regulations ...
 
 ### 理由
 
-- [ ] `because of~`                 が理由で                    `Because of` the heavy snow, our flight was delayed.
-- [ ] `thanks to~`                  のおかげで                  `Thanks to` the strong yen, we can travel abroad without spending much.
-- [ ] `with the intention of V-ing     しようと思って
-- [ ] `in an attempt to V              He dived into the river`in a heroic attempt to` save the child.
-- [ ] `in an effort to V`In an effort to` encourage diversity, they will debate ...
-- [ ] `in response to                  The day's agenda was altered`in response to` changes in regulations ...
+- [~] `because of~`                 が理由で                    `Because of` the heavy snow, our flight was delayed.
+- [~] `thanks to~`                  のおかげで                  `Thanks to` the strong yen, we can travel abroad without spending much.
 - [ ] `with all`                    があるので                  `With all` that money, he can do anything
 - [ ] `owing to~`                   のせいで (文頭)             `Owing to` illness, some representatives were absent from ...
 - [ ] `on account of~`              のせいで (困難 / 文語)      Our flight to Vienna was delayed `on account of` a minor accident.
@@ -100,34 +104,35 @@
 
 ### 気持ち
 
+- [~] `at the end of the day`       結局は                      `At the end of the day,` this is not that important.
 - [~] `if I'm not mistaken`         間違ってなければ            `If I'm not mistaken,` it's the tallest building in the world.
 - [~] `if it works for you`         都合が良ければ              So I’ll see you at 7`, if it works for you.`
 - [~] `if you don't mind`           もしよろしければ            I have a suggestion`, if you don't mind.`
 - [~] `if you think about it`       考え方によっては            It's crazy how we can communicate like this`, if you think about it.`
 - [~] `to be honest`                正直
 - [~] `on top of that`              さらに
+- [ ] `simply put`                  簡単に言うと                `Simply put,` he doesn't like sports.
+- [ ] `in conclusion`               要するに
 - [ ] `to make matters worse`       さらに悪いことに            `To make matters worse,` he isn't even conscious of annoying us.
 - [ ] `what's more`                 さらに良いことに            I met the man by chance. He's gentle and smart. `What's more,` he's single.
 - [ ] `what's worse`                さらに悪いことに
 - [ ] `if you ask me`               強いて言うなら              It was a little long`, if you ask me.`
 
+### 補足
+
+- [ ] `, each with O`               それぞれが O を持っている   instant cameras, `each with` their own unique shape and design.
+- [ ] `just as`                     ちょうど同じように          `Just as` in the case of Carpenter's Square, the following relation holds.
+
 ### 他
 
 - [ ] `in support of O`             を支持して                  The newspaper published an editorial `in support of` the new tax plan.
+- [ ] `in the course of`            の過程で                    `In the course of` its economic development, Japan has ...
 - [ ] `on average`                  平均すると
 - [ ] `at a discount`               割引料金で
 - [ ] `on the recommendation of~`   の推薦で
 - [ ] `on the grounds of~`          という根拠に基づいて        people who are discriminated against `on the grounds of` race, sex, religion.
-
-### 結論
-
-- [~] `all things considered`                  `All things considered`, that was a successful event.
-- [~] `at the end of the day`                  `At the end of the day,` this is not that important.
-- [~] `in any case`                            `In any case,` the union has to compromise to a certain extent.
-- [ ] `anyway`                                 That’s a funny story. `Anyway,` he is late today, isn’t he?
-- [ ] `in conclusion`
-- [ ] `regardless`                             いずれにしろ / `Regardless`, please give us ...
-- [ ] `simply put`                             `Simply put,` he doesn't like sports.
+- [ ] `directly accross from`       の真向かいに
+- [ ] `down there`
 
 ## 強調
 
@@ -294,9 +299,3 @@
 - [ ] [how] lightly                               そっと歩く / She seems angry, you should tread `lightly`
 - [ ] [how] no doubt                              疑いようもなく / His policy will `no doubt` lead to dismal consequences.
 - [ ] [how] thus                                  = in this way
-- [ ] [where] directly accross from               の真向かいに
-- [ ] [where] down there
-- [ ] [where] in the course of                    `In the course of` its economic development, Japan has ...
-- [ ] [where] (O) out of (O)                      We have watched `4 out of 5` seasons.
-- [ ] 何と同じ？                            `just as` the passer rating is not a perfect measure of quarteback performance.
-- [ ] ..., each with                             それぞれがを持っている / Stremto has launched a new line of instant polaroif cameras, `each with` thier own unique shape and design.
