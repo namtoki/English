@@ -1,6 +1,16 @@
 # WORD
 
-- [ ] `grumpy`                      無愛想な人、不機嫌な        `If I had to guess,` I would say that she is single.
+- [ ] `grumpy`                      無愛想な人 不機嫌な         Why does he look `grumpy`?
+- [ ] `ingrained`                   根深い 生得の こびりついた  `ingrained` habits of a lifetime
+- [ ] `jaywalk`                     道路横断歩行する
+- [ ] `junior coworker`             後輩
+- [ ] `lumpy`                       塊の多い でこぼこの
+- [ ] `mid-career`                  中途採用
+- [ ] `mischief`                    いたずら ちゃめっ気 被害    The `mischief` is that,,,
+- [ ] `muggy`                       蒸し暑い ムッとする
+- [ ] `nippy`                       身を切るような すばやい かむ癖のある `nippy` weather
+- [ ] `opening remarks`             開会の挨拶
+- [ ] `outrunning`                  上回っている
 
 - [ ] abridge
 - [ ] acclaim

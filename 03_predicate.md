@@ -349,3 +349,15 @@
 - [ ] weigh A versus B:                           S are weighing the advantages of merging with its subsidiary versus the benefits of remaining a separate entity.
 - [~] work for:                                   都合がよい / That doesn't `work for` my wife.
   - [ ] `It may sound like`:                    のように聞こえるかもしれないが / `It may sound like` I'm being self-centered here,
+  it's in the way
+  keep in mind
+  keep on doing
+  live up to    〔期待など〕に沿う［かなう・応える・応えて生活する］ If newlyweds have unrealistic expectations, they will probably end up divorced because neither could live up to them.
+  make an address 演説する
+  make good on ～を遂行する」「～を履行する」「～を守る」という意味です。make good on one's campaign promise / make good on one's goal / make good on one's pledge
+  make little of    軽視する
+  make much of    重要視する 甘やかす
+  make nothing of 何とも思わない
+  mop up  〈こぼれた水などを〉ぬぐい取る 〈仕事などを〉し終える, 片づける. 【陸海軍, 軍事】〈残敵を〉掃討する.It's our job to mop up the rest.
+  on the ~ side ～気味で My boss is a bit on the stubborn side.
+  open oneself up to  心を開く

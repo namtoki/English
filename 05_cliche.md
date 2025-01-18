@@ -202,3 +202,4 @@
 
 - [ ] `I've got my hands full.`     手が離せない                Sorry. `I've got my hands full` right now.
 - [ ] `I'll take it.`               これにします
+- [ ] `mum's the word`               他言無用 今のことは黙っていてね

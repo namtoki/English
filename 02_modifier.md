@@ -131,8 +131,11 @@
 - [ ] `at a discount`               割引料金で
 - [ ] `on the recommendation of~`   の推薦で
 - [ ] `on the grounds of~`          という根拠に基づいて        people who are discriminated against `on the grounds of` race, sex, religion.
+
+### 場所
+
 - [ ] `directly accross from`       の真向かいに
-- [ ] `down there`
+- [ ] `down there`                  あちらの下の方に
 
 ## 強調
 
@@ -162,6 +165,7 @@
 - [ ] `in spite of O`                          `In spite of` our compliments, he frowned and turned away. He was so rude.
 - [ ] `despite O`                              `Despite` the risk, I would like to proceed with the plan.
 - [ ] `among other things`
+- [ ] `of all O`                    数ある中で よりによって Of all days, he fell ill on his birthday. / She wants to travel to Antarctic, of all places.
 
 - [ ] `With the exception of~`                 を除いて /
 
