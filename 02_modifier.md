@@ -97,14 +97,14 @@
 - [ ] `in the middle of`            の最中に                    He fell asleep `in the middle of` the sales meeting.
 - [ ] `at the same time`            同時に                      It's hard being the writer and an actor `at the same time.`
 - [ ] `for the first time in (N)`   間で初めて                  I'm going to Hawaii `for the first time in` 1 year.
+- [ ] `just before N`               のちょうど前に              will get home sometime `just before` 9pm.
+- [ ] `just after N`                のちょうど後に              will go abroad sometime `just after` Golden Week.
+- [ ] `soon after that`             のすぐ後に                  I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
+- [ ] `N after that`                N 経過後に                  an hour `after that` / two weeks `after that` / a few years `after that`
+- [ ] `quite recently`              ごく最近
+- [ ] `(just) the other day`        つい先日                    I went there `just the other day`!
+- [ ] `a moment ago`                数分前に                    She called `a moment ago` from a taxi.
 
-- [ ] just before N                             のちょうど前に /  will get home sometime `just before` 9pm.
-- [ ] just after N                              のちょうど後に /  will go abroad sometime `just after` Golden Week.
-- [ ] soon after that                           I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
-- [ ] N after that                              an hour `after that` / two weeks `after that` / a few years `after that`
-- [ ] [past] quite recently                       ごく最近
-- [ ] [past] (just) the other day                 I went there `just the other day`!
-- [ ] [past] a moment ago                         数分前に / She called `a moment ago` from a taxi.
 - [ ] [now] from now on                           I have to cut down on my expenses, `so from now on`, I'm ~~
 - [~] [now] by now                                You must be hungry `by now`.
 - [ ] [now] to date                               これまでに
