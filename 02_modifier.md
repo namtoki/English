@@ -67,38 +67,37 @@
 
 ### WHEN
 
-- [~] `at 9:00 am`                  時に
-- [~] `at dawn`                     夜明けに
+- [ ] `at 9:00 am`                  時に
+- [ ] `at dawn`                     夜明けに
 - [ ] `at daybreak`                 夜明けに
 - [ ] `first thing`                 一番に                      I'll see you `first thing` in the morning. / Please get it to me `first thing`
-- [~] `in the early morning`        早朝に
+- [ ] `in the early morning`        早朝に
+- [ ] `in the morning`              午前中に
 - [ ] `bright and early`            朝早くに                    You can get your hands on the product `bright and early`.
-- [~] `at noon`                     正午に                      I'll be back on Monday `at noon`.
-- [~] `in the afternoon`            午後に
-- [~] `in the early evening`        夕方に
-- [~] `at night`                    夜に
-- [~] `every (期間)`                (期間)毎に                  The vehicles are inspected for defects `every three months`.
-- [~] `every other (期間)`          隔(期間)毎に                I work out at the health club `every other day`.
-- [~] `every time S V`              するときはいつも            `Every time` you make them, they are perfect.
-- [~] `when sb was N`               歳で (のときに)
+- [ ] `at noon`                     正午に                      I'll be back on Monday `at noon`.
+- [ ] `in the afternoon`            午後に
+- [ ] `in the early evening`        夕方に
+- [ ] `in the evening`              夜に (夕方から夜)
+- [ ] `at night`                    夜に (夜から夜中)
+- [ ] `on (A) days`                 な日に                      I don't close this door `on hot days`.
+- [ ] `on (曜日) (時間帯)`          曜日 (の〜頃)に             I play tennis `on Sundays`. / `on Sunday morning` / `on a hot summer afternoon`
+- [ ] `on weekends`                 週末に                      I often go to the beach `on weekends`.
+- [ ] `over the weekend`            週末に                      I finished reading a book `over the weekend`.
+- [ ] `last/next/this/on Sunday`    の曜日に
+- [ ] `last/next/this/on the weekend`
+- [ ] `last thing at night`         寝る直前に
+- [ ] `every (期間)`                (期間)毎に                  The vehicles are inspected for defects `every three months`.
+- [ ] `every other (期間)`          隔(期間)毎に                I work out at the health club `every other day`.
+- [ ] `every time S V`              するときはいつも            `Every time` you make them, they are perfect.
+- [ ] `when sb was N`               歳で (のときに)
 - [ ] `at N years old`              歳で (のときに)
 - [ ] `at the age of N`             歳で (のときに)
-- [~] in the evening
-- [~] in the mid-morning                        It means about 900 or 1000 `in the morning`.
-- [~] in the morning
-- [ ] last thing                                `last thing` at night.
-- [~] last/next/this/on Sunday
-- [~] last/next/this/on the weekend
-- [~] on (A) days                               I don't close this door `on hot days`.
-- [~] on Sundays                                I play tennis `on Sundays`.
-- [~] on weekends                               I often go to the beach `on weekends`.
-- [~] on 特定の日の時間帯                       `on Sunday morning`, `on a hot summer afternoon`, `on a typical Saturday night`,
-- [~] once                                      Call me `once` you get home.
-- [~] upon/on X/doing                           X してすぐ `upon arrival at the company headquarters`
-- [ ] in the middle of                          He fell asleep `in the middle of` the sales meeting.
-- [ ] at the same time                          It's hard being the writer and an actor `at the same time.`
-- [ ] over the weekend                          I finished reading a book `over the weekend`.
-- [ ] for the first time in (N)                 I'm going to Hawaii `for the first time in` 1 year.
+- [ ] `once`                        したらすぐに                Call me `once` you get home.
+- [ ] `upon/on X/doing`             X してすぐ                  `upon arrival at the company headquarters`
+- [ ] `in the middle of`            の最中に                    He fell asleep `in the middle of` the sales meeting.
+- [ ] `at the same time`            同時に                      It's hard being the writer and an actor `at the same time.`
+- [ ] `for the first time in (N)`   間で初めて                  I'm going to Hawaii `for the first time in` 1 year.
+
 - [ ] just before N                             のちょうど前に /  will get home sometime `just before` 9pm.
 - [ ] just after N                              のちょうど後に /  will go abroad sometime `just after` Golden Week.
 - [ ] soon after that                           I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
