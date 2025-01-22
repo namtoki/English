@@ -104,42 +104,40 @@
 - [ ] `quite recently`              ごく最近
 - [ ] `(just) the other day`        つい先日                    I went there `just the other day`!
 - [ ] `a moment ago`                数分前に                    She called `a moment ago` from a taxi.
-
-- [ ] [now] from now on                           I have to cut down on my expenses, `so from now on`, I'm ~~
-- [~] [now] by now                                You must be hungry `by now`.
-- [ ] [now] to date                               これまでに
-- [~] [now] as of                                 時点で / `as of` January 2014
-- [ ] [now] so far                                `So far` I’m having a blast. The town is wonderful.
-- [ ] [now] at this point                         ここまできたら / I'm ready to quit `at this point.`
-- [~] [future] right away                         I'll come `right away`.
-- [ ] [future] any day now                        = very soon
-- [ ] [future] soon
-- [ ] [future] shortly
-- [~] [future] before long                        `Before long`, they will enter a crucial phase.
-- [~] [future] in (just) a little bit             The ambulance will get here `in just a little bit`.
-- [~] [future] at some point                      We should really clean the fridge `at some point`.
-- [ ] [future] for years to come                  the birthrate will continue to decline steadily `for years to come`.
-- [ ] [future] for good                           We're through `for good` this time.
-- [ ] [deadline] by the time S V                  `By the time` I got wake up, the snow had stopped falling.
-- [ ] [deadline] no later than N                  Please hand in your assignment via e-mail `no later than` 500 PM on June 10.
-- [ ] [deadline] N at the latest                  Please estimate the losses by Friday `at the latest`. I'll manage it somehow.
-- [ ] [deadline] until such time as S V           We are unable to review it `until such time as` we receive that.
-- [ ] [frequency] on occasion                     ときおり
-- [ ] [frequency] for the first time`Last Saturday, I came here`for the first time.`
-- [ ] [frequency] time and again                  The ecologist has warned us `time and again.`
-- [ ] [frequency] around the clock                They are working `around the clock` looking into the cause of the crash.
-- [ ] [frequency] once in a blue moon             めったにない
-- [ ] [frequency] from time to time               ときおり
-- [ ] [frequency] once in a while                 ときおり
-- [ ] [frequency] at times                        ときどき / `At times` I confuse "curve" with "carve."
-- [ ] [frequency] here and there                  ときおり
-- [ ] [frequency] now and then                    ときどき / I must admit we quarrel `every now and then.`
-- [ ] [frequency] more often than not             大半の場合 / `More often than not`, famine is accompanied by plague.
-- [ ] [long] for (N)s                             I've been working for the company `for 6 months`.
-- [ ] [long] for half a (day | month | year)      I'll be living here `for half a year`.
-- [ ] [long] the entire week
-- [ ] [long] tens of minutes                      数十分
-- [ ] [long] throughout                           中ずっと / We plan to celebrate our victory `throughout` the night.
+- [ ] `so far`                      これまでのところ            `So far` I’m having a blast. The town is wonderful.
+- [ ] `to date`                     これまでのところ            `To date`, the Foos have never won a game.
+- [ ] `until now`                   これまでは (今は逆)         `Until now`, the Foos have never won a game.
+- [ ] `from now on`                 これからは                  I have to cut down on my expenses, `so from now on`, I'm ~~
+- [ ] `by now`                      今頃は                      You must be hungry `by now`.
+- [ ] `as of`                       時点で                      `as of` January 2014
+- [ ] `at this point`               ここまできたら              I'm ready to quit `at this point.`
+- [ ] `right away`                  すぐに                      I'll come `right away`.
+- [ ] `any day now`                 今すぐにでも                If possible, I want to go to your side `any day now`, but it's impossible.
+- [ ] `before long`                 もうすぐ                    `Before long`, they will enter a crucial phase.
+- [ ] `in (just) a little bit`      ちょっとしたら              The ambulance will get here `in just a little bit`.
+- [ ] `at some point`               いつか                      We should really clean the fridge `at some point`.
+- [ ] `for years to come`           これから数年                the birthrate will continue to decline steadily `for years to come`.
+- [ ] `for good`                    永久にずっと                We're through `for good` this time.
+- [ ] `by the time S V`             するときまでに              `By the time` I got wake up, the snow had stopped falling.
+- [ ] `no later than N`             までには                    Please hand in your assignment via e-mail `no later than` 500 PM on June 10.
+- [ ] `by N at the latest`          遅くとも                    Please estimate the losses `by Friday at the latest`. I'll manage it somehow.
+- [ ] `until such time as S V`           We are unable to review it `until such time as` we receive that.
+- [ ] `on occasion`                     ときおり
+- [ ] `for the first time`  Last Saturday, I came here`for the first time.`
+- [ ] `time and again`                  The ecologist has warned us `time and again.`
+- [ ] `around the clock`                They are working `around the clock` looking into the cause of the crash.
+- [ ] `once in a blue moon`             めったにない
+- [ ] `from time to time`               ときおり
+- [ ] `once in a while`                 ときおり
+- [ ] `at times`                        ときどき / `At times` I confuse "curve" with "carve."
+- [ ] `here and there`                  ときおり
+- [ ] `now and then`                    ときどき / I must admit we quarrel `every now and then.`
+- [ ] `more often than not`             大半の場合 / `More often than not`, famine is accompanied by plague.
+- [ ] `for (N)s`                             I've been working for the company `for 6 months`.
+- [ ] `for half a (day | month | year)`      I'll be living here `for half a year`.
+- [ ] `the entire week`
+- [ ] `tens of minutes`                      数十分
+- [ ] `throughout`                           中ずっと / We plan to celebrate our victory `throughout` the night.
 - [ ] `期間 + into X`               X に入って(期間)で          `Three minutes into the game`, Okazaki scored.
 
 ### 場所
