@@ -65,6 +65,48 @@
 
 ## SUPPLEMENT
 
+### OBJECTIVE
+
+- [x] `so that S V`                 するために                  Mary spoke loudly `so that` everyone could hear her.
+- [ ] `so as (not) to V`            するために                  She left home early`so as to` avoid traffic congestion.
+- [ ] `in order (not) to V`         するために                  I went to the train station `in order to` buy a ticket.
+- [ ] `in order that S V`           するために                  Mary spoke loudly `in order that` everyone could hear her.
+- [ ] `for the purpose of O`        する目的のために            I rented a P.O. box `for the purpose of` importing clothes.
+- [x] `in case S V`                 に備えて                    `In case` there's an earthquake, prepare a first-aid kit.
+- [x] `just in case`                念のため                    I'll write it down `just in case.`
+- [ ] `for a rainy day`             念のため                    I decided to put some aside `for a rainy day.`
+- [ ] `in (the) hope(s) that S V`   を望んで                    I didn't phone till four o'clock `in the hope that` you'd be finished.
+- [ ] `with a view to V-ing`        を目的として                A fund was set up `with a view to` preserving our endangered planet.
+- [ ] `with the intention of V-ing` しようと思って              He flattered `with the intention of getting` something.
+- [ ] `in an attempt to V`          しようとして                He dived into the river `in a heroic attempt to` save the child.
+- [ ] `in an effort to V`           しようとして                `In an effort to` encourage diversity, they will debate ...
+- [ ] `in response to`              に応えて                    The day's agenda was altered `in response to` changes in regulations ...
+
+### REASON
+
+- [x] `because of~`                 が理由で                    `Because of` the heavy snow, our flight was delayed.
+- [x] `thanks to~`                  のおかげで                  `Thanks to` the strong yen, we can travel abroad without spending much.
+- [ ] `with all`                    があるので                  `With all` that money, he can do anything
+- [ ] `owing tox`                   のせいで (文頭)             `Owing to` illness, some representatives were absent from ...
+- [ ] `on account ofx`              のせいで (困難 / 文語)      Our flight to Vienna was delayed `on account of` a minor accident.
+- [ ] `due tox`                     のせいで (補語 / 名詞修飾)  I missed school `due to` Covid-19.
+- [ ] `in consequence ofx`          がもとで (堅苦しい)
+- [ ] `as a consequence`            がもとで (堅苦しい)
+- [ ] `as a result ofx`             の結果 (因果の間に時間差)   `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+- [ ] `at the sound ofx`            を聞いて
+- [x] `at the thought of O`         を考えると                  I tremble with fear `at the thought of` an injection.
+- [x] `this is because`             というのも                  I haven't finished my homework. `That is because` I came down with the flu.
+- [x] `the reason being that`       というのも                  `The reason being that,` I didn’t want to relocate.
+- [ ] `for one/another thing`       というのも                  I can't put you up. `For one thing,` my dad drops in on me from time to time.
+
+### CONSEQUENCE
+
+- [x] `as a result`                 その結果                    He didn't work hard and, `as a result`, he failed in the exam.
+- [x] `because of this`             その結果                    I've never been to that place. `Because of this`, I know little about it.
+- [x] `this is why`                 そういうわけで              I came down with the flu. `This is why` I haven't finished my homework.
+- [ ] `consequently`                結果的に                    He made a mistake, and `consequently` lost an opportunity for being promoted.
+- [ ] `for that reason`             そんなわけで
+
 ### WHEN
 
 - [ ] `at 9:00 am`                  時に
@@ -144,48 +186,6 @@
 - [ ] `directly accross from`       の真向かいに
 - [ ] `down there`                  あちらの下の方に
 
-### OBJECTIVE
-
-- [x] `so that S V`                 するために                  Mary spoke loudly `so that` everyone could hear her.
-- [ ] `so as (not) to V`            するために                  She left home early`so as to` avoid traffic congestion.
-- [ ] `in order (not) to V`         するために                  I went to the train station `in order to` buy a ticket.
-- [ ] `in order that S V`           するために                  Mary spoke loudly `in order that` everyone could hear her.
-- [ ] `for the purpose of O`        する目的のために            I rented a P.O. box `for the purpose of` importing clothes.
-- [x] `in case S V`                 に備えて                    `In case` there's an earthquake, prepare a first-aid kit.
-- [x] `just in case`                念のため                    I'll write it down `just in case.`
-- [ ] `for a rainy day`             念のため                    I decided to put some aside `for a rainy day.`
-- [ ] `in (the) hope(s) that S V`   を望んで                    I didn't phone till four o'clock `in the hope that` you'd be finished.
-- [ ] `with a view to V-ing`        を目的として                A fund was set up `with a view to` preserving our endangered planet.
-- [ ] `with the intention of V-ing` しようと思って              He flattered `with the intention of getting` something.
-- [ ] `in an attempt to V`          しようとして                He dived into the river `in a heroic attempt to` save the child.
-- [ ] `in an effort to V`           しようとして                `In an effort to` encourage diversity, they will debate ...
-- [ ] `in response to`              に応えて                    The day's agenda was altered `in response to` changes in regulations ...
-
-### REASON
-
-- [x] `because of~`                 が理由で                    `Because of` the heavy snow, our flight was delayed.
-- [x] `thanks to~`                  のおかげで                  `Thanks to` the strong yen, we can travel abroad without spending much.
-- [ ] `with all`                    があるので                  `With all` that money, he can do anything
-- [ ] `owing tox`                   のせいで (文頭)             `Owing to` illness, some representatives were absent from ...
-- [ ] `on account ofx`              のせいで (困難 / 文語)      Our flight to Vienna was delayed `on account of` a minor accident.
-- [ ] `due tox`                     のせいで (補語 / 名詞修飾)  I missed school `due to` Covid-19.
-- [ ] `in consequence ofx`          がもとで (堅苦しい)
-- [ ] `as a consequence`            がもとで (堅苦しい)
-- [ ] `as a result ofx`             の結果 (因果の間に時間差)   `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-- [ ] `at the sound ofx`            を聞いて
-- [x] `at the thought of O`         を考えると                  I tremble with fear `at the thought of` an injection.
-- [x] `this is because`             というのも                  I haven't finished my homework. `That is because` I came down with the flu.
-- [x] `the reason being that`       というのも                  `The reason being that,` I didn’t want to relocate.
-- [ ] `for one/another thing`       というのも                  I can't put you up. `For one thing,` my dad drops in on me from time to time.
-
-### CONSEQUENCE
-
-- [x] `as a result`                 その結果                    He didn't work hard and, `as a result`, he failed in the exam.
-- [x] `because of this`             その結果                    I've never been to that place. `Because of this`, I know little about it.
-- [x] `this is why`                 そういうわけで              I came down with the flu. `This is why` I haven't finished my homework.
-- [ ] `consequently`                結果的に                    He made a mistake, and `consequently` lost an opportunity for being promoted.
-- [ ] `for that reason`             そんなわけで
-
 ---
 
 ## EMPHASIS
@@ -205,20 +205,17 @@
 - [ ] `what's more`                 さらに良いことに            I met the man by chance. He's gentle and smart. `What's more,` he's single.
 - [ ] `what's worse`                さらに悪いことに
 - [ ] `if you ask me`               強いて言うなら              It was a little long`, if you ask me.`
-- [x] `in one's defence`                       言い訳すると / `In my defense,` it was dark and he was a very pretty guy!”
-- [ ] `as sb anticipated`                      予測していた通り / `As we anticipated,` the unemployment rate has risen ....
-- [ ] `Like/as I was saying`                   さっき言った通り / Sorry. `As I was saying,` the acting was amazing.
-- [ ] `Like/as you said`
-- [ ] `(more) broadly speaking`
-- [x] `Speaking from experience`               私の経験から言うと
-- [x] `on the second thought`                  考え直すと /
-- [x] `in a nutshell`                          一言で言えば / That's it`, in a nutshell.`
-- [x] `Off the top of my head`                 思いつくままに言うと / `Off the top of my head,` I think it's wrong.
-- [ ] `Now that`                               いまや / `Now that` things are better, we should talk about the problem.
-
-### 強調
-
-- [x] `in the first place`                     そもそも / Why was he at the party `in the first place?` He wasn't invited, was he?
+- [x] `in one's defence`            言い訳すると                `In my defense,` it was dark and he was a very pretty guy!”
+- [ ] `as sb anticipated`           予測していた通り            `As we anticipated,` the unemployment rate has risen ....
+- [ ] `Like/as I was saying`        さっき言った通り            Sorry. `As I was saying,` the acting was amazing.
+- [ ] `Like/as you said`            あなたが言ったように
+- [ ] `(more) broadly speaking`     一般的に言うと
+- [x] `Speaking from experience`    私の経験から言うと
+- [x] `on the second thought`       考え直すと
+- [x] `in a nutshell`               一言で言えば                That's it`, in a nutshell.`
+- [x] `Off the top of my head`      思いつくままに言うと        `Off the top of my head,` I think it's wrong.
+- [ ] `Now that`                    いまや                      `Now that` things are better, we should talk about the problem.
+- [x] `in the first place`          そもそも                    Why was he at the party `in the first place?` He wasn't invited, was he?
 - [x] `when compared to`                       と比べて / Global emissions could rise 1.1 percent this year `when compared to` 2022.
 - [x] `for all`                                のに / I don't feel happy `for all` my success.
 - [x] `with all`                               のに / `With all` its faults, it's basically a good plan.
