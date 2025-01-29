@@ -39,6 +39,7 @@
 - [ ] `from the perspective of O`   の観点から                  Trends in trade `from the perspective of` production stage.
 - [ ] `as for me`                   私にとっては                `As for me,` I agree with his opinion.
 - [ ] `in every way`                すべてにおいて              That movie was perfect `in every way`.
+- [ ] `in a (way | sense)`          ある意味                    Yep, `in a way.`
 
 ### CONCLUSION
 
@@ -95,6 +96,7 @@
 - [ ] `in an attempt to V`          しようとして                He dived into the river `in a heroic attempt to` save the child.
 - [ ] `in an effort to V`           しようとして                `In an effort to` encourage diversity, they will debate ...
 - [ ] `in response to`              に応えて                    The day's agenda was altered `in response to` changes in regulations ...
+- [ ] `in accordance with O`        に従って                    `In accordance with` Article 7 hereof, the parties waive ...
 
 ### REASON
 
@@ -120,6 +122,7 @@
 - [x] `this is why`                 そういうわけで              I came down with the flu. `This is why` I haven't finished my homework.
 - [ ] `consequently`                結果的に                    He made a mistake, and `consequently` lost an opportunity for being promoted.
 - [ ] `for that reason`             そんなわけで
+- [ ] `followed by`                 その後                      Lightning flashed, `followed by` terribly loud thunder.
 
 ### WHEN
 
@@ -210,9 +213,13 @@
 - [ ] `thus`                        このようにして              Mix the ingredients together, `thus` creating a smooth paste.
 - [ ] `lightly`                     そっと                      She seems angry, you should tread `lightly`
 - [ ] `with each passing day/year`  日を追うごとに
+- [x] `back and forth`              行ったり来たり              Bob was pacing `back and forth` along the sidewalk.
 - [ ] `to and fro`                  行ったり来たり              I have been traveling `to and fro` between Canada and the U.K for years.
 - [ ] `somehow`                     どうにかして                Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
 - [ ] `on and off`                  断続的に                    It’s been raining `on and off` all day today.
+- [ ] `in a way that V`             という方法で                Some people explain simple things `in a way that` makes it sound complicated.
+- [ ] `in a row`                    連続で                      the unemployment rate has risen three quarters `in a row.`
+- [ ] `by heart`                    暗記で                      First of all, learn the formula `by heart.`
 
 ### AMOUNT
 
@@ -232,6 +239,11 @@
 - [ ] `purposely`                   わざと                      He `purposely` didn't say anything.
 - [ ] `on purpose`                  わざと                      He made a mistake `on purpose.`
 - [ ] `in earnest`                  本格的に                    Japan must undertake sweeping deregulation `in earnest.`
+- [ ] `in a rage`                   怒って                      "Turn the faucet off!" mom yelled `in a rage.`
+
+### CONTRAST
+
+- [ ] `in a departure from O`       から一転して                `In a departure from` his usual manic storytelling pace, director ...
 
 - [x] `on top of that`              さらに
 - [x] `Speaking from experience`    私の経験から言うと
@@ -298,12 +310,3 @@
 - [ ] `amid O`                                フォーマルな during, in the middle of
 - [ ] `at heart`                              Since Bob is lazy `at heart`, he frequently neglects his duties.
 - [ ] `at the expense of`                     犠牲にして / He got promoted `at the expense of` his colleague.
-- [ ] `back and forth`                        Bob was pacing `back and forth` along the sidewalk.
-- [ ] `by heart`                              First of all, learn the formula `by heart.`
-- [ ] `followed by`                           Lightning flashed, `followed by` terribly loud thunder.
-- [ ] `in a (way | sense)`                    Yep, `in a way.`
-- [ ] `in a departure from O`
-- [ ] `in a rage`                             "Turn the faucet off!" mom yelled `in a rage.`
-- [ ] `in a row`                              the unemployment rate has risen three quarters `in a row.`
-- [ ] `in a way that V`                       Some people explain simple things `in a way that` makes it sound complicated.
-- [ ] `in accordance with O`
