@@ -1,15 +1,13 @@
 # USAGE (CLICHE)
 
-## PHRASE
-
 - [ ] (I'm) happy to help.:                       どういたしまして / Thanks for reading my outline. `Happy to help!`
-- [~] (That's) true.:                             たしかに
+- [ ] (That's) true.:                             たしかに
 - [ ] (That) Sounds like a plan.:                 よさそう
-- [~] (That) makes sense.:                        理解しました
-- [~] (You're) right.:                            そうね
-- [~] Anytime.:                                   どういたしまして / Casual
+- [ ] (That) makes sense.:                        理解しました
+- [ ] (You're) right.:                            そうね
+- [ ] Anytime.:                                   どういたしまして / Casual
 - [ ] Been there done that:                       やったことあるけど、もういい (飽きた)
-- [~] Chances are (that) S V:                     の可能性がある / It's foggy. But `chances are` it'll clear up later on.
+- [ ] Chances are (that) S V:                     の可能性がある / It's foggy. But `chances are` it'll clear up later on.
 - [ ] Don't mention it.:                          どういたしまして / Business
 - [ ] Fair enough.:                               okay
 - [ ] Good to know.:                              知れてよかった
@@ -20,12 +18,12 @@
 - [ ] Here we go:                                 Have you prepared everything? OK, `here we go`!
 - [ ] Here you go/are.:                           どうぞ / `Here you go`. This is the doll you wanted.
 - [ ] Hey, stranger!:                             珍しいね
-- [~] I always appreciate your business:          お世話になっております
+- [ ] I always appreciate your business:          お世話になっております
 - [ ] I bet.:                                     だよね / There was so crowded and I couldn’t ride on anything! `I bet.` Its because it’s summer time.
 - [ ] I can't see O:                              `I can't see` you/the material/the notes.
 - [ ] I don't know the first thing about:         ちっともわからない / I don't know `the first thing about` writing movies.
 - [ ] I feel you.:                                わかるよ / I’m tired of living in the city. Yeah, `I feel you.` I want to move near the mountains.
-- [~] I grant you that.:                          それはその通り / Yeah, that’s true, `I grant you that.`
+- [ ] I grant you that.:                          それはその通り / Yeah, that’s true, `I grant you that.`
 - [ ] I haven't seen you in O:                    〜ぶり / `I haven't seen you in` a month.
 - [ ] I hear you.:                                言いたいことはわかります / I’m not looking forward to the directors’ meeting tomorrow. `I hear you.`
 - [ ] I hope not:                                 そうならないことを願うよ
@@ -33,20 +31,20 @@
 - [ ] I know what you are saying:                 わかるよ
 - [ ] I know what you mean.:                      わかるよ
 - [ ] I know!:                                    あ、そうだ / `I know!` Let's go bowling.
-- [~] I know, right?:                             だよね / The new Star Wars is awesome! `I know, right?`
+- [ ] I know, right?:                             だよね / The new Star Wars is awesome! `I know, right?`
 - [ ] I need you to V:                            `I need you to` lead the presentation.
 - [ ] I see (what you mean).:                     その通りです
 - [ ] I told you.:                                だから言ったじゃん
 - [ ] I was going to say.:                        言おうと思っていたよ
 - [ ] I was on mute.:
 - [ ] I was thinking.:                            考えてたんだけど / `I was thinking.` Let's take a short trip.
-- [~] I will do that then:                        じゃあそうします
-- [~] I'll leave it up to you:                    任せるよ
-- [~] I'll let you know.:
-- [~] I'll tell you later.:
+- [ ] I will do that then:                        じゃあそうします
+- [ ] I'll leave it up to you:                    任せるよ
+- [ ] I'll let you know.:
+- [ ] I'll tell you later.:
 - [ ] I'm V-ing ... at the moment.:               中だから邪魔しないで / Hang on. I'm just finishing up an email at the moment
 - [ ] I'm in the middle of something:             今手が離せない
-- [~] I'm not particular about it:                こだわりはないよ
+- [ ] I'm not particular about it:                こだわりはないよ
 - [ ] I'm still working on it:                    今やっている最中です / まだ食べている途中です
 - [ ] I'm trying to ...                           中だから邪魔しないで / Hey, Toshi? I'm trying to work, Emily!
 - [ ] I've been there.:                           わかる
@@ -55,52 +53,52 @@
 - [ ] It's been a while.:                         久しぶり
 - [ ] Just give it time.:                         時間が解決してくれる / Dating is a nightmare. `Just give it time.`
 - [ ] Leave it there.:
-- [~] Let's say O:                                とりあえず〜としようか / `Let's say` dinner at seven. / `Let's say` Monday at three.
+- [ ] Let's say O:                                とりあえず〜としようか / `Let's say` dinner at seven. / `Let's say` Monday at three.
 - [ ] Lucky you!:                                 うらやましい
-- [~] My concern (for O) is (that) S V:           You show a lot of promise … but `my concern is` I don’t know where to book you.
+- [ ] My concern (for O) is (that) S V:           You show a lot of promise … but `my concern is` I don’t know where to book you.
 - [ ] My pleasure.:                               どういたしまして / Formal
 - [ ] Neither do I:                               わたしもです
 - [ ] No doubt about it.:                         まったくその通りです
 - [ ] No problem/worries.:                        どういたしまして / Casual
 - [ ] Not again!:                                 まただ！
 - [ ] Not at all.:                                どういたしまして / Business / Casual
-- [~] Nothing in particular:                      特にありません
-- [~] S V-ing, that'd be C:                       A Starbucks opening right next to my apartment, `that'd be` amazing.
-- [~] S V-ing. That is C:                         `This ramen shop putting whipped cream in soup, that's` gross.
+- [ ] Nothing in particular:                      特にありません
+- [ ] S V-ing, that'd be C:                       A Starbucks opening right next to my apartment, `that'd be` amazing.
+- [ ] S V-ing. That is C:                         `This ramen shop putting whipped cream in soup, that's` gross.
 - [ ] Same here:                                  わたしもです
 - [ ] So do I:                                    わたしもです
 - [ ] So much for O:                              `So much for` the small talk. Let's get down to business.
-- [~] Something came up:                          急用ができた
+- [ ] Something came up:                          急用ができた
 - [ ] Sounds good.:                               いいね
 - [ ] Special thanks go to O:
 - [ ] Sure thing:                                 りょ
 - [ ] Take your time with O:                      `Take your time with` this project.
 - [ ] Take your time.:
 - [ ] Tell me about it.:                          だよね
-- [~] Thank you for your continued patronage:     お世話になっております
+- [ ] Thank you for your continued patronage:     お世話になっております
 - [ ] That sounds like:                           それは .. だね / `That sounds like` a lot of work.
-- [~] That would be great.:                       そうしていただけると嬉しい
+- [ ] That would be great.:                       そうしていただけると嬉しい
 - [ ] That's fanny.:                              `That's fanny!`(fanny ha-ha)
 - [ ] That's fanny.:                              おかしいなぁ / `That's fanny.` Where are my keys?(fanny weird)
 - [ ] That's how:                                 このようにして / `That's how` we met.
-- [~] That's not the way I see it:                違う見方をしています
+- [ ] That's not the way I see it:                違う見方をしています
 - [ ] That's rather unlikely.:                    ほとんど無いと思います。
 - [ ] That's really something.:                   たいしたもんだ
 - [ ] That's the way S V:                         このやり方が / `That's the way` I like it. / `That's the way` I prefer it.
-- [~] That's the way it is:                       しょうがないよ
+- [ ] That's the way it is:                       しょうがないよ
 - [ ] That's what I think, too.:                  私も思っていたこと
 - [ ] That's what I'll do:                        じゃあそうします
-- [~] The same is the case with O:                `The same is the case with` "hear" and "about".
+- [ ] The same is the case with O:                `The same is the case with` "hear" and "about".
 - [ ] There we are.:                              よし！ / Well, `there we are`. I've finally finished my homework.
 - [ ] There we go.:                               よし！ / Man, am I out of shape. `There we go`. Hey, Anna! Sven!
 - [ ] There you go again.:                        まただ！ / `There you go again.` How many times do I have to tell you?
 - [ ] There you go.:                              どうぞ / I’m going to go for it! / Yeah. `There you go`!
 - [ ] There're times when S V:                    `There're times when I crave` a Starbucks Frappuccino really badly.
-- [~] There's a high       chance of O:           の可能性が高い / `There's a high chance of` a domino effect.
-- [~] There's a low/little chance of O:           の可能性が低い / `There's a low chance of` rain tonight.
-- [~] Turns out S V:                              `Turns out` my five-year-old daughter already knows Santa doesn't exist.
+- [ ] There's a high       chance of O:           の可能性が高い / `There's a high chance of` a domino effect.
+- [ ] There's a low/little chance of O:           の可能性が低い / `There's a low chance of` rain tonight.
+- [ ] Turns out S V:                              `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [ ] We'll see whether S V:                      `We'll see whether` the newspapers print the story.
-- [~] You (may) have a point:                     一理あるね / `You may have a pint there`, but I still believe the plan is feasible
+- [ ] You (may) have a point:                     一理あるね / `You may have a pint there`, but I still believe the plan is feasible
 - [ ] You bet.:                                   どういたしまして / Casual Slung
 - [ ] You can say that again.:                    だよね
 - [ ] You flatter me.:                            お世辞でも嬉しいです
@@ -119,11 +117,8 @@
 - [ ] why:                                        おや
 - [ ] ~~. That's not to say (that) S V:           `That's not to say that` it'll be impossible without it, but,,,
 - [ ] ~~~. That I V:                              Yes, we need to spend less money. `That I` agree with.
-
-## PHRASE -Ask-
-
 - [ ] (By) When ... ?:                            いつまでですか？ / `(By) When` do I have to finish this?
-- [~] (Do you) want me to V:                      しましょうか？ / `Do you want me to` cook dinner?
+- [ ] (Do you) want me to V:                      しましょうか？ / `Do you want me to` cook dinner?
 - [ ] (Do you) want to V?:                        一緒にしませんか？ / `Do you want to` get some food first? / `Want to` get dinner?
 - [ ] (Would you) care to V?:                     ご一緒にしませんか？ / `Would you care to` join me for a drink?
 - [ ] Can I borrow you for a second?:             今いい？
@@ -133,9 +128,9 @@
 - [ ] Could you make O bigger?:                   大きくしてもらっていいですか？ / `Could you make the material/notes bigger`?
 - [ ] Could you type it in the chat?:             チャットに書いてもらってもいいですか？
 - [ ] Did you hear O?:                            聞きました？ / `Did you hear` about Kim? She got promoted.
-- [~] Do you have a minute/second?:               今いい？
-- [~] Do you have the time?:                      今何時？
-- [~] Do you have time?:                          今いい？
+- [ ] Do you have a minute/second?:               今いい？
+- [ ] Do you have the time?:                      今何時？
+- [ ] Do you have time?:                          今いい？
 - [ ] Do you know anyone in A:                    A に知り合いはいる？
 - [ ] Do you remember that O?:                    覚えている？ / `Do you remember that` bike at ABC Departmment Store?
 - [ ] Do you think I could V?:                    してももいいですか？ / `Do you think I could` get your number?
@@ -151,10 +146,10 @@
 - [ ] I was wondering if you could V?:            `I was wondering if you could` do me a favor.
 - [ ] I'd be grateful if you could V?:            `I would be grateful if you could` give us an ...
 - [ ] I'd like to ask you a favor.:               お願いしてもいいですか
-- [~] Is A the same as B?:                        `Is this the same skirt as` in the ad?
-- [~] Is everything all right?:                   大丈夫？
-- [~] Is it OK/alright if S V?:                   `Is it OK if` I park here?
-- [~] Is this a good time?:                       今いい？
+- [ ] Is A the same as B?:                        `Is this the same skirt as` in the ad?
+- [ ] Is everything all right?:                   大丈夫？
+- [ ] Is it OK/alright if S V?:                   `Is it OK if` I park here?
+- [ ] Is this a good time?:                       今いい？
 - [ ] Let me ask you O:                           `Let me ask you` your honest opinion.
 - [ ] Please do me a favor and V?:                `Please do me a favor and give` me a ride to Times Square.
 - [ ] What are the chances that S V?:             `What are the chances that` the meeting will finish early?
@@ -188,18 +183,17 @@
 - [ ] You wanted to see me?:                      お呼びでしょうか
 - [ ] is that right?:
 - [ ] what should I do?:                          `What should I do` in a situation like this?
-  - [ ] `Don't get me wrong, but`:              誤解しないでほしいんだけど
-  - [~] `That's a fair point, but`:             それはもっともですが、
-  - [ ] `The fact is`:                          実を言うと / `The fact is,` I don't have enough money.
-  - [~] `The way I see it`:                     私の見解では / `The way I see it`, it's too simplistic to say that ...
-  - [ ] `This might be just me, but`:           自分だけかもしれないけど
-  - [ ] `You know as well as I do that`:        ご存じかと思いますが / `You know as well as I do that` this is very important.
-- [~] `if that makes sense.`:                   言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
-- [~] `or not really?`:                         それとも違う？ / Do you like this kind of music`, or not really?`
+- [ ] `Don't get me wrong, but`:              誤解しないでほしいんだけど
+- [ ] `That's a fair point, but`:             それはもっともですが、
+- [ ] `The fact is`:                          実を言うと / `The fact is,` I don't have enough money.
+- [ ] `The way I see it`:                     私の見解では / `The way I see it`, it's too simplistic to say that ...
+- [ ] `This might be just me, but`:           自分だけかもしれないけど
+- [ ] `You know as well as I do that`:        ご存じかと思いますが / `You know as well as I do that` this is very important.
+- [ ] `if that makes sense.`:                   言ってることわかります？ / I really enjoyed the song for its lyrics`, if that makes sense.`
+- [ ] `or not really?`:                         それとも違う？ / Do you like this kind of music`, or not really?`
 - [ ] `or what?`:                               それとも違う？ / Are we gonna have fun`, or what?`
-- [~] `you know what I mean?`:                  言ってることわかります？
-  - [ ] `Could you go over it again?`:              もう一度言ってもらえませんか？
-
+- [ ] `you know what I mean?`:                  言ってることわかります？
+- [ ] `Could you go over it again?`:              もう一度言ってもらえませんか？
 - [ ] `I've got my hands full.`     手が離せない                Sorry. `I've got my hands full` right now.
 - [ ] `I'll take it.`               これにします
 - [ ] `mum's the word`               他言無用 今のことは黙っていてね
