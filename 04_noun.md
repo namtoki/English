@@ -116,3 +116,4 @@
 
 - [ ] [where] (O) out of (O)                      We have watched `4 out of 5` seasons.
 - [ ] `to go`                                 We have ten minutes `to go`.
+- [ ] `no more than A`                   = only A

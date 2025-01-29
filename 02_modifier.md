@@ -4,6 +4,27 @@
 
 ## SCOPE
 
+### STANCE
+
+- [x] `if I had to say/guess`       強いて言うなら              `If I had to guess,` I would say that she is single.
+- [x] `if I'm not mistaken`         間違ってなければ            `If I'm not mistaken,` it's the tallest building in the world.
+- [x] `if it works for you`         都合が良ければ              So I’ll see you at 7`, if it works for you.`
+- [x] `if you don't mind`           もしよろしければ            I have a suggestion`, if you don't mind.`
+- [x] `if you think about it`       考え方によっては            It's crazy how we can communicate like this`, if you think about it.`
+- [x] `in one's defence`            言い訳すると                `In my defense,` it was dark and he was a very pretty guy!”
+- [ ] `more of`                     どちらかというと            I think he is `more of` an entertainer.
+- [ ] `if anything`                 どちらかというと            But now, `if anything,` they are making too much of it.
+- [ ] `on behalf of O`              を代表して                  `On behalf of` all staff, I'd like to express our sympathy for the victims.
+- [ ] `just out of curiosity`       単に興味からなのですが      `Just out of curiosity,` why did you come to Japan?
+- [x] `Speaking from experience`    私の経験から言うと
+- [x] `on the second thought`       考え直すと
+- [x] `Off the top of my head`      思いつくままに言うと        `Off the top of my head,` I think it's wrong.
+- [ ] `if you ask me`               強いて言うなら              It was a little long`, if you ask me.`
+- [ ] `as sb anticipated`           予測していた通り            `As we anticipated,` the unemployment rate has risen ....
+- [ ] `Like/as I was saying`        さっき言った通り            Sorry. `As I was saying,` the acting was amazing.
+- [ ] `Like/as you said`            あなたが言ったように
+- [ ] `(more) broadly speaking`     一般的に言うと
+
 ### ZOOM
 
 - [x] `in V-ing O`                  するときは                  `In making a decision,` I rely not on logic but on instinct.
@@ -38,13 +59,16 @@
 - [ ] `from one's perspective`      の観点から                  Also `from the field’s perspective,` I think ,,,
 - [ ] `from the perspective of O`   の観点から                  Trends in trade `from the perspective of` production stage.
 - [ ] `as for me`                   私にとっては                `As for me,` I agree with his opinion.
-- [ ] `in every way`                すべてにおいて              That movie was perfect `in every way`.
 - [ ] `in a (way | sense)`          ある意味                    Yep, `in a way.`
+- [ ] `in every way`                すべてにおいて              That movie was perfect `in every way`.
+- [ ] `for the most part`           すべてにおいて              `For the most part,` modernization is identified with westernization.
 
 ### CONCLUSION
 
 - [x] `at the end of the day`       結局は                      `At the end of the day,` this is not that important.
 - [ ] `in conclusion`               要するに
+- [x] `in a nutshell`               一言で言えば                That's it`, in a nutshell.`
+- [ ] `simply put`                  簡単に言うと                `Simply put,` he doesn't like sports.
 
 ### CONDITION
 
@@ -66,15 +90,9 @@
 - [ ] `as it is`                    今のところ                  `As it is,` ordinary people cannot afford to purchase such luxuries.
 - [ ] `with O`                      があれば                    `With` a little luck, we can still make it.
 - [ ] `in the long run`             長い目で見れば              Bob believes that honesty pays off `in the long run.`
-
-### HUMBLE
-
-- [x] `if I had to say/guess`       強いて言うなら              `If I had to guess,` I would say that she is single.
-- [x] `if I'm not mistaken`         間違ってなければ            `If I'm not mistaken,` it's the tallest building in the world.
-- [x] `if it works for you`         都合が良ければ              So I’ll see you at 7`, if it works for you.`
-- [x] `if you don't mind`           もしよろしければ            I have a suggestion`, if you don't mind.`
-- [x] `if you think about it`       考え方によっては            It's crazy how we can communicate like this`, if you think about it.`
-- [x] `in one's defence`            言い訳すると                `In my defense,` it was dark and he was a very pretty guy!”
+- [ ] `except for`                  を除いて                    The auditorium was empty `except for` a single piece of furniture.
+- [ ] `not including`               を含めずに                  I work 8 hours `not including` lunch.
+- [ ] `without`                     なしに                      I work 8 hours `without` lunch.
 
 ---
 
@@ -97,6 +115,7 @@
 - [ ] `in an effort to V`           しようとして                `In an effort to` encourage diversity, they will debate ...
 - [ ] `in response to`              に応えて                    The day's agenda was altered `in response to` changes in regulations ...
 - [ ] `in accordance with O`        に従って                    `In accordance with` Article 7 hereof, the parties waive ...
+- [ ] `out of habit`                趣味として                  I got the Namboku line `out of habit.`
 
 ### REASON
 
@@ -220,6 +239,8 @@
 - [ ] `in a way that V`             という方法で                Some people explain simple things `in a way that` makes it sound complicated.
 - [ ] `in a row`                    連続で                      the unemployment rate has risen three quarters `in a row.`
 - [ ] `by heart`                    暗記で                      First of all, learn the formula `by heart.`
+- [ ] `at the expense of`           犠牲にして                  He got promoted `at the expense of` his colleague.
+- [ ] `amid O`                      フォーマルな during
 
 ### AMOUNT
 
@@ -227,10 +248,22 @@
 - [ ] `to (a certain|some) extent`  ある程度まで                In any case, the union has to compromise `to a certain extent.`
 - [ ] `somewhat`                    いくらか                    Strictly speaking, his view differs `somewhat` from mine.
 - [ ] `some more`                   もう少し                    I'll think about it `some more.`
+- [ ] `pretty much`                 ほとんど                    This is `pretty much` done.
 
 ---
 
 ## EMPHASIS
+
+### SPECIAL
+
+- [ ] `in particular`               特に                        it appears to be attractive to many people, `in particular,` to younger people.
+- [ ] `especially`                  特に                        `Especially,` I am good at French cooking
+- [ ] `above all`                   とりわけ                    `Above all,` scientific terms call for precise definitions.
+- [x] `on top of that`              さらに
+- [ ] `to make matters worse`       さらに悪いことに            `To make matters worse,` he isn't even conscious of annoying us.
+- [ ] `what's more`                 さらに良いことに            I met the man by chance. He's gentle and smart. `What's more,` he's single.
+- [ ] `what's worse`                さらに悪いことに
+- [ ] `among other things`          とりわけ                    I noticed, `among other things`, that he was drunk.
 
 ### FEELING
 
@@ -240,73 +273,42 @@
 - [ ] `on purpose`                  わざと                      He made a mistake `on purpose.`
 - [ ] `in earnest`                  本格的に                    Japan must undertake sweeping deregulation `in earnest.`
 - [ ] `in a rage`                   怒って                      "Turn the faucet off!" mom yelled `in a rage.`
+- [ ] `at heart`                    心底                        Since Bob is lazy `at heart`, he frequently neglects his duties.
+- [ ] `kind of`                     なんか                      I'm `kind of` hungry.
+- [ ] `much to the relief of O`     O が安心したことには、
+- [ ] `on impulse`                  衝動的に                    I'm apt to buy things `on impulse` whenever something is on sale.
+- [x] `in the first place`          そもそも                    Why was he at the party `in the first place?` He wasn't invited, was he?
 
 ### CONTRAST
 
 - [ ] `in a departure from O`       から一転して                `In a departure from` his usual manic storytelling pace, director ...
-
-- [x] `on top of that`              さらに
-- [x] `Speaking from experience`    私の経験から言うと
-- [x] `on the second thought`       考え直すと
-- [x] `in a nutshell`               一言で言えば                That's it`, in a nutshell.`
-- [x] `Off the top of my head`      思いつくままに言うと        `Off the top of my head,` I think it's wrong.
-- [x] `in the first place`          そもそも                    Why was he at the party `in the first place?` He wasn't invited, was he?
+- [ ] `instead of V-ing`            V する代わりに              We decided to chill at home `instead of` going out.
 - [x] `when compared to`            と比べて                    Global emissions could rise 1.1 percent this year `when compared to` 2022.
 - [x] `for all`                     のに                        I don't feel happy `for all` my success.
 - [x] `with all`                    のに                        `With all` its faults, it's basically a good plan.
 - [x] `no matter how much S V`      どれだけしても              `No matter how much` I study, I can't improve my English.
 - [ ] `however much S V`            どれだけしても              `However much` you study, there's always more to learn.
-- [ ] `simply put`                  簡単に言うと                `Simply put,` he doesn't like sports.
-- [ ] `to make matters worse`       さらに悪いことに            `To make matters worse,` he isn't even conscious of annoying us.
-- [ ] `what's more`                 さらに良いことに            I met the man by chance. He's gentle and smart. `What's more,` he's single.
-- [ ] `what's worse`                さらに悪いことに
-- [ ] `if you ask me`               強いて言うなら              It was a little long`, if you ask me.`
-- [ ] `as sb anticipated`           予測していた通り            `As we anticipated,` the unemployment rate has risen ....
-- [ ] `Like/as I was saying`        さっき言った通り            Sorry. `As I was saying,` the acting was amazing.
-- [ ] `Like/as you said`            あなたが言ったように
-- [ ] `(more) broadly speaking`     一般的に言うと
-- [ ] `Now that`                    いまや                      `Now that` things are better, we should talk about the problem.
+- [ ] `in spite of O`               に反して                    `In spite of` our compliments, he frowned and turned away. He was so rude.
+- [ ] `despite O`                   に反して                    `Despite` the risk, I would like to proceed with the plan.
 - [ ] `more than O`                 よりももっと                I like chocolate `more than` vanilla.
 - [ ] `rather than O`               よりかは                    I like her `rather than` him
 - [ ] `better than O`               よりもより                  I like vanilla `better than` chocolate.
-- [ ] `in spite of O`               に反して                    `In spite of` our compliments, he frowned and turned away. He was so rude.
-- [ ] `despite O`                   に反して                    `Despite` the risk, I would like to proceed with the plan.
-- [ ] `among other things`          とりわけ                    I noticed, `among other things`, that he was drunk.
-- [ ] `of all O`                    数ある中で よりによって     `Of all days`, he fell ill on his birthday. / She wants to travel to Antarctic, of all places.
-- [ ] `, each with O`               それぞれが O を持っている   instant cameras, `each with` their own unique shape and design.
-- [ ] `just as`                     ちょうど同じように          `Just as` in the case of Carpenter's Square, the following relation holds.
-- [ ] `With the exception of`       を除いて
 
-### 他
+---
 
-- [ ] `for the most part`                   `For the most part,` modernization is identified with westernization.
-- [ ] `except for`                          The auditorium was empty `except for` a single piece of furniture.
-- [ ] `not including`                       I work 8 hours `not including` lunch.
-- [ ] `without`                             I work 8 hours `without` lunch.
-- [ ] `instead of V-ing`                    We decided to chill at home `instead of` going out.
-- [ ] `in particular`                      it appears to be attractive to many people, `in particular,` to younger people.
-- [ ] `especially`                         `Especially,` I am good at French cooking
-- [ ] `above all`                          `Above all,` scientific terms call for precise definitions.
+## UNCATEGORIZED
+
+- [ ] `in place of O`               の代わりに                  I used Knox’s PC `in place of` mine today.
+- [ ] `for the (fun | joy) of it`   趣味として                  I just cook `for the fun of it.`
+- [ ] `in itself`                   それ自体は                  The revolution`in itself`, bore no fruit, after all.
 - [ ] `in support of O`             を支持して                  The newspaper published an editorial `in support of` the new tax plan.
 - [ ] `in the course of`            の過程で                    `In the course of` its economic development, Japan has ...
 - [ ] `on average`                  平均すると
 - [ ] `at a discount`               割引料金で
 - [ ] `on the recommendation ofx`   の推薦で
 - [ ] `on the grounds ofx`          という根拠に基づいて        people who are discriminated against `on the grounds of` race, sex, religion.
-- [ ] `for the (fun | joy) of it`              I just cook `for the fun of it.`
-- [ ] `in place of O`                          I used Knox’s PC `in place of` mine today.
-- [ ] `on behalf of O`                         `On behalf of` all staff, I'd like to express our sympathy for the victims.
-- [ ] `on impulse`                             I'm apt to buy things `on impulse` whenever something is on sale.
-- [ ] `out of habit`                           I got the Namboku line `out of habit.`
-- [ ] `if anything`                      どちらかというと / But now, `if anything,` they are making too much of it.
-- [ ] `more of`                          どちらかというと / I think he is `more of` an entertainer.
-- [ ] `in itself`                   The revolution`in itself`, bore no fruit, after all.
-- [ ] `just out of curiosity`            `Just out of curiosity,` why did you come to Japan?
-- [ ] `just`                             Are you tired of traditional learning methods that just don't work?
-- [ ] `much to the relief of O`          O が安心したことには、
-- [ ] `no more than A`                   = only A
-- [ ] `pretty much`                      ほとんど / This is `pretty much` done.
-- [ ] `kind of`                               なんか / I'm `kind of` hungry.
-- [ ] `amid O`                                フォーマルな during, in the middle of
-- [ ] `at heart`                              Since Bob is lazy `at heart`, he frequently neglects his duties.
-- [ ] `at the expense of`                     犠牲にして / He got promoted `at the expense of` his colleague.
+- [ ] `Now that`                    いまや                      `Now that` things are better, we should talk about the problem.
+- [ ] `of all O`                    数ある中で よりによって     `Of all days`, he fell ill on his birthday. / She wants to travel to Antarctic, of all places.
+- [ ] `, each with O`               それぞれが O を持っている   instant cameras, `each with` their own unique shape and design.
+- [ ] `just as`                     ちょうど同じように          `Just as` in the case of Carpenter's Square, the following relation holds.
+- [ ] `With the exception of`       を除いて
