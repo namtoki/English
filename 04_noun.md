@@ -1,47 +1,49 @@
-# USAGE (NOUN)
+# NOUN
 
-## ABSTRACT
+## NOUN
 
-- [~] A V-ing:                                    A が V すること / `My dog barking` like that is a bit weird.
-- [ ] A and so on:                                A とか / I'm tired of doing the dished, doing the laundry, `and so on!`
-- [~] A and stuff (like that):                    A とか / We've got to do editing `and stuff.`
-- [~] A kind of thing:                            A みたいなもの / This is a flip phone `kind of thing` but a bit different.
-- [~] A of a kind/sort:                           ある種の A
-- [~] A or so:                                    A とかそのへん / It's 20 dollars `or so.`
-- [ ] A or whatever:                              A だったけか / I'm just going to read a book `or whatever.`
-- [~] A that I think V:                           私が V と思う A / `A movie that I think is a classic example of a mafia film` is The Godfather.
-- [~] a bunch of A:                               たくさんの A / `A bunch of` other companies are imitating our excellent methods.
-- [ ] a number of A:                              たくさんの A / There are `a number of` factors discouraging us from investing in stocks.
-- [ ] a wealth of A:                              豊富な A
-- [ ] all A but B:                                B を除いた全ての A / `All of the members of the board of directors but one` were satisfied with ...
-- [~] all kinds of A:                             すべての A / I've been eating `all kinds of` things.
-- [ ] all | entire | whole:                       全ての | 少しも残さず全て | まるごと全て
-- [ ] among the 最上級 複数形:                    = one of ...
-- [~] equivalent of:                              They are the functional `equivalent of` gods.
-- [ ] everything about A:                         すべての A / He knows `everything about` movies.
-- [ ] like A:                                     だいたい A / There were only `like` thirty people there.
-- [ ] not so much A as B:                         A というより B / It took me a moment to process that I was `not so much angry as sad` that she cheated.
-- [ ] some kind of A:                             ある種の A / He was born with `some kind of` special talent. / `some kind of` sport
-- [ ] some kinds of A:                            あらゆる A / amplify the effects of `some kinds of` pollution
-- [ ] some of the things:                         いくつかのもの / What are `some of the things` that you can say when you don't understand something?
-- [ ] some:                                       `some clue`(何らかの), `some clues`
-- [~] something S V:                              なもの / `This is something` a lot of people don't consider.
-- [ ] something else:                             格別なもの / That dinner was `something else`!
-- [ ] such things:                                そのようなもの / C++ has plenty of `such things`!
-- [ ] that A?:                                    そんなに A? / Wow! That good?
-- [ ] the best S can do                           ができる最大限のこと /That's `the best we can say` at this point in time.
-- [ ] the best:                                   一番のもの / That show is `the best`!
-- [~] the kind of thing that V:                   なもの / `This is the kind of thing that` makes me really happy.
-- [ ] the only thing:                             唯一良くないもの / It was great! `The only thing` was the food.
-- [ ] the right thing to do:                      正しいこと / it's `the right thing to do` for the environment.
-- [~] the same A that:                            と同じ A / I'm planning to enroll in `the same` computer course `that` you took at the local college last year.
-- [~] the thing that S V:                         S が V するもの / `The thing that you use` to see the stars.
-- [ ] things like A:                              A みたいなもの / `Things like` party hats, paper plates and napkins.
-- [~] things/something like that:                 そのへん / I think he's learning Spanish or `something like that`, if that makes sense.
-- [~] tons of A:                                  たくさんの A / I have `tons of` homework tonight.
-- [ ] what I meant:                               言いたかったこと / `What I meant` was, you should do it carefully.
-- [ ] what we should do with O:                   O をどうすべきか / Did Jerry mention `what we should do with` all these leftover party supplies?
-- [ ] what A S+V:                                 S が V する全ての A / Lend me `what books you can`. = Lend me `all the books you can`.
+### ABSTRACT
+
+- [x] `O and things like that`      O とか (同じカテゴリー)     I think he's learning Spanish or `something like that`, if that makes sense.
+- [x] `O and stuff like that`       O とか (同じカテゴリー)     We've got to do editing `and stuff.`
+- [ ] `O or whatever`               O とかそんな感じ            I'm just going to read a book `or whatever.`
+- [ ] `O and so on`                 O とか (同じカテゴリー)     I'm tired of doing the dished, doing the laundry, `and so on!`
+- [ ] `O or so`                     O とか (数字)               It's 20 dollars `or so.`
+- [ ] `O kind of thing`             O みたいなもの              This is a flip phone `kind of thing` but a bit different.
+- [ ] `O of a kind/sort`            O ある種の
+- [ ] `O V-ing`                     O が V すること             `My dog barking` like that is a bit weird.
+- [ ] `A that I think V                           私が V と思う A /`A movie that I think is a classic example of a mafia film` is The Godfather.
+- [ ] `a bunch of A                               たくさんの A /`A bunch of` other companies are imitating our excellent methods.
+- [ ] `a number of A                              たくさんの A / There are`a number of` factors discouraging us from investing in stocks.
+- [ ] `a wealth of A                              豊富な A
+- [ ] `all A but B                                B を除いた全ての A /`All of the members of the board of directors but one` were satisfied with ...
+- [ ] `all kinds of A                             すべての A / I've been eating`all kinds of` things.
+- [ ] `all | entire | whole                       全ての | 少しも残さず全て | まるごと全て
+- [ ] `among the 最上級 複数形                    = one of ...
+- [ ] `equivalent of                              They are the functional`equivalent of` gods.
+- [ ] `everything about A                         すべての A / He knows`everything about` movies.
+- [ ] `like A                                     だいたい A / There were only`like` thirty people there.
+- [ ] `not so much A as B                         A というより B / It took me a moment to process that I was`not so much angry as sad` that she cheated.
+- [ ] `some kind of A                             ある種の A / He was born with`some kind of` special talent. / `some kind of` sport
+- [ ] `some kinds of A                            あらゆる A / amplify the effects of`some kinds of` pollution
+- [ ] `some of the things                         いくつかのもの / What are`some of the things` that you can say when you don't understand something?
+- [ ] `some`some clue`(何らかの),`some clues`
+- [ ] `something S V                              なもの /`This is something` a lot of people don't consider.
+- [ ] `something else                             格別なもの / That dinner was`something else`!
+- [ ] `such things                                そのようなもの / C++ has plenty of`such things`!
+- [ ] `that A?                                    そんなに A? / Wow! That good?
+- [ ] `the best S can do                           ができる最大限のこと /That's`the best we can say` at this point in time.
+- [ ] `the best                                   一番のもの / That show is`the best`!
+- [ ] `the kind of thing that V                   なもの /`This is the kind of thing that` makes me really happy.
+- [ ] `the only thing                             唯一良くないもの / It was great!`The only thing` was the food.
+- [ ] `the right thing to do                      正しいこと / it's`the right thing to do` for the environment.
+- [ ] `the same A that                            と同じ A / I'm planning to enroll in`the same` computer course `that` you took at the local college last year.
+- [ ] `the thing that S V                         S が V するもの /`The thing that you use` to see the stars.
+- [ ] `things like A                              A みたいなもの /`Things like` party hats, paper plates and napkins.
+- [ ] `tons of A                                  たくさんの A / I have`tons of` homework tonight.
+- [ ] `what I meant                               言いたかったこと /`What I meant` was, you should do it carefully.
+- [ ] `what we should do with O                   O をどうすべきか / Did Jerry mention`what we should do with` all these leftover party supplies?
+- [ ] `what A S+V                                 S が V する全ての A / Lend me`what books you can`. = Lend me`all the books you can`.
 
 ## CONCRETE
 
