@@ -4,47 +4,41 @@
 
 ### ABSTRACT
 
-- [ ] `O that I think V`            O 私が V と思う             `A movie that I think is a classic example of a mafia film` is The Godfather.
+- [x] `what I meant`                言いたかったこと            `What I meant` was, you should do it carefully.
+- [x] `the thing that S V`          S が V するもの             `The thing that you use` to see the stars.
+- [x] `something S V`               S が V するようなもの       This is `something a lot of people don't consider`.
+- [x] `S V-ing`                     S が V すること             `My dog barking` like that is a bit weird.
+- [x] `O that S think V`            S が V と思う O             `A movie that I think is a classic example of a mafia film` is The Godfather.
+- [ ] `the best S can V`            S が V できる最大限のこと   That's `the best we can say` at this point in time.
+- [ ] `the kind of thing that V`    V するようなもの            This is `the kind of thing that makes me really happy`.
+- [x] `equivalent of O`             O 同等のもの                They are the functional `equivalent of` gods.
+- [x] `things like O`               O みたいなもの              `Things like` party hats, paper plates and napkins.
 - [ ] `O kind of thing`             O みたいなもの              This is a flip phone `kind of thing` but a bit different.
 - [ ] `O of a kind/sort`            O ある種の
-- [ ] `equivalent of O`             O 同等のもの                They are the functional`equivalent of` gods.
-- [ ] `O V-ing`                     O が V すること             `My dog barking` like that is a bit weird.
+- [ ] `some kind of O`              O ある種の                  He was born with `some kind of` special talent. / `some kind of` sport
+- [ ] `some kinds of O`             O あらゆる                  amplify the effects of `some kinds of` pollution
 - [x] `O and things like that`      O とか (同じカテゴリー)     I think he's learning Spanish or `something like that`, if that makes sense.
 - [x] `O and stuff like that`       O とか (同じカテゴリー)     We've got to do editing `and stuff.`
 - [ ] `O or whatever`               O とかそんな感じ            I'm just going to read a book `or whatever.`
 - [ ] `O and so on`                 O とか (同じカテゴリー)     I'm tired of doing the dished, doing the laundry, `and so on!`
-- [ ] `O or so`                     O とか (数字)               It's 20 dollars `or so.`
-- [ ] `everything about O`          すべての O                  He knows`everything about` movies.
-- [ ] `all kinds of O`              すべての O                  I've been eating`all kinds of` things.
+- [x] `O or so`                     O とか (数字)               It's 20 dollars `or so`.
+- [x] `like O`                      O だいたい (数字)           There were only `like` thirty people there.
+- [ ] `everything about O`          すべての O                  He knows `everything about` movies.
+- [ ] `all kinds of O`              すべての O                  I've been eating `all kinds of` things.
 - [x] `all A but B`                 B を除いた全ての A          `All of the members of the board of directors but one` were satisfied with ...
 - [x] `a bunch of O`                たくさんの O                `A bunch of` other companies are imitating our excellent methods.
+- [x] `tons of O`                   たくさんの O                I have `tons of` homework tonight.
 - [ ] `a number of O`               たくさんの O                There are `a number of` factors discouraging us from investing in stocks.
 - [ ] `a wealth of O`               豊富な O
 - [ ] `among the 最上級 複数形`     = one of ...
-- [ ] `like A                                     だいたい A / There were only`like` thirty people there.
-- [ ] `not so much A as B                         A というより B / It took me a moment to process that I was`not so much angry as sad` that she cheated.
-- [ ] `some kind of A                             ある種の A / He was born with`some kind of` special talent. / `some kind of` sport
-- [ ] `some kinds of A                            あらゆる A / amplify the effects of`some kinds of` pollution
-- [ ] `some of the things                         いくつかのもの / What are`some of the things` that you can say when you don't understand something?
-- [ ] `some`some clue`(何らかの),`some clues`
-- [ ] `something S V                              なもの /`This is something` a lot of people don't consider.
-- [ ] `something else                             格別なもの / That dinner was`something else`!
-- [ ] `such things                                そのようなもの / C++ has plenty of`such things`!
-- [ ] `that A?                                    そんなに A? / Wow! That good?
-- [ ] `the best S can do                           ができる最大限のこと /That's`the best we can say` at this point in time.
-- [ ] `the best                                   一番のもの / That show is`the best`!
-- [ ] `the kind of thing that V                   なもの /`This is the kind of thing that` makes me really happy.
-- [ ] `the only thing                             唯一良くないもの / It was great!`The only thing` was the food.
-- [ ] `the right thing to do                      正しいこと / it's`the right thing to do` for the environment.
-- [ ] `the same A that                            と同じ A / I'm planning to enroll in`the same` computer course `that` you took at the local college last year.
-- [ ] `the thing that S V                         S が V するもの /`The thing that you use` to see the stars.
-- [ ] `things like A                              A みたいなもの /`Things like` party hats, paper plates and napkins.
-- [ ] `tons of A                                  たくさんの A / I have`tons of` homework tonight.
-- [ ] `what I meant                               言いたかったこと /`What I meant` was, you should do it carefully.
-- [ ] `what we should do with O                   O をどうすべきか / Did Jerry mention`what we should do with` all these leftover party supplies?
-- [ ] `what A S+V                                 S が V する全ての A / Lend me`what books you can`. = Lend me`all the books you can`.
+- [ ] `not so much A as B`          A というより B              It took me a moment to process that I was `not so much angry as sad` that she cheated.
+- [ ] `some of the things`          いくつかのもの              What are `some of the things` that you can say when you don't understand something?
+- [ ] `something else`              格別なもの                  That dinner was `something else`!
+- [ ] `such things`                 そのようなもの              C++ has plenty of`such things`!
+- [ ] `that O?`                     そんなに O?                 Wow! `That` good?
+- [ ] `the only thing`              唯一良くないもの            It was great!`The only thing` was the food.
 
-## CONCRETE
+### CONCRETE
 
 - [ ] ETA (Estimated Time of Arrival):            帰る時間 / I send her a message with my ETA.
 - [ ] access road:                                連絡道路
