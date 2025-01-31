@@ -4,24 +4,23 @@
 
 ### ABSTRACT
 
+- [ ] `O that I think V`            O 私が V と思う             `A movie that I think is a classic example of a mafia film` is The Godfather.
+- [ ] `O kind of thing`             O みたいなもの              This is a flip phone `kind of thing` but a bit different.
+- [ ] `O of a kind/sort`            O ある種の
+- [ ] `equivalent of O`             O 同等のもの                They are the functional`equivalent of` gods.
+- [ ] `O V-ing`                     O が V すること             `My dog barking` like that is a bit weird.
 - [x] `O and things like that`      O とか (同じカテゴリー)     I think he's learning Spanish or `something like that`, if that makes sense.
 - [x] `O and stuff like that`       O とか (同じカテゴリー)     We've got to do editing `and stuff.`
 - [ ] `O or whatever`               O とかそんな感じ            I'm just going to read a book `or whatever.`
 - [ ] `O and so on`                 O とか (同じカテゴリー)     I'm tired of doing the dished, doing the laundry, `and so on!`
 - [ ] `O or so`                     O とか (数字)               It's 20 dollars `or so.`
-- [ ] `O kind of thing`             O みたいなもの              This is a flip phone `kind of thing` but a bit different.
-- [ ] `O of a kind/sort`            O ある種の
-- [ ] `O V-ing`                     O が V すること             `My dog barking` like that is a bit weird.
-- [ ] `A that I think V                           私が V と思う A /`A movie that I think is a classic example of a mafia film` is The Godfather.
-- [ ] `a bunch of A                               たくさんの A /`A bunch of` other companies are imitating our excellent methods.
-- [ ] `a number of A                              たくさんの A / There are`a number of` factors discouraging us from investing in stocks.
-- [ ] `a wealth of A                              豊富な A
-- [ ] `all A but B                                B を除いた全ての A /`All of the members of the board of directors but one` were satisfied with ...
-- [ ] `all kinds of A                             すべての A / I've been eating`all kinds of` things.
-- [ ] `all | entire | whole                       全ての | 少しも残さず全て | まるごと全て
-- [ ] `among the 最上級 複数形                    = one of ...
-- [ ] `equivalent of                              They are the functional`equivalent of` gods.
-- [ ] `everything about A                         すべての A / He knows`everything about` movies.
+- [ ] `everything about O`          すべての O                  He knows`everything about` movies.
+- [ ] `all kinds of O`              すべての O                  I've been eating`all kinds of` things.
+- [x] `all A but B`                 B を除いた全ての A          `All of the members of the board of directors but one` were satisfied with ...
+- [x] `a bunch of O`                たくさんの O                `A bunch of` other companies are imitating our excellent methods.
+- [ ] `a number of O`               たくさんの O                There are `a number of` factors discouraging us from investing in stocks.
+- [ ] `a wealth of O`               豊富な O
+- [ ] `among the 最上級 複数形`     = one of ...
 - [ ] `like A                                     だいたい A / There were only`like` thirty people there.
 - [ ] `not so much A as B                         A というより B / It took me a moment to process that I was`not so much angry as sad` that she cheated.
 - [ ] `some kind of A                             ある種の A / He was born with`some kind of` special talent. / `some kind of` sport
