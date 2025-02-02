@@ -40,75 +40,75 @@
 
 ### CONCRETE
 
-- [ ] ETA (Estimated Time of Arrival):            帰る時間 / I send her a message with my ETA.
-- [ ] access road:                                連絡道路
-- [ ] advanced degree:                            修士号 博士号
-- [ ] approach(es) to:                            への取り組み
-- [ ] assessment | evaluation:                    改善目的の評価 | 判断目的の評価
-- [ ] baggage claim:                              荷物受け取り所
-- [ ] benefits package:                           福利厚生
-- [ ] bloodshot eyes:                             充血した目 / I've got bloodshot eyes.
-- [ ] boarding pass:                              搭乗券
-- [ ] business hours:                             執務時間
-- [ ] classified advertisement:                   案内広告
-- [ ] commitment | commitments:                   献身 | 約束
-- [ ] commuter train:                             通勤列車
-- [ ] consensus of opinion:                       意見の一致
-- [ ] credit voucher:                             無料引換券
-- [ ] custom | customs:                           習慣 | 税関
-- [ ] deep tissue massage                         整体
-- [ ] electricity expenditures
-- [ ] enrollment quota:                           入学定員数
-- [ ] family of N:                                人家族 / I'm from a family of four.
-- [ ] film adaption:                              映画化
-- [~] gut feeling                                 直観
-- [ ] hay fever                                   花粉症
-- [ ] health insurance                            健康保険
-- [ ] hope for:                                   うまく行くことに対する希望 / many people have `hope for` genuine changes in it
-- [ ] hope of:                                    する希望 / する見込み / I have no `hope of` getting financial support for it
-- [ ] impact on:                                  に対する影響
-- [ ] manner | manners:                           やり方、方法、立ち振る舞い | 礼儀、マナー
-- [ ] nothing out of the ordinary:                普通
-- [ ] one of those days:                          最悪の日
-- [ ] pedestrian crossing:                        横断歩道 crosswalk, crossway
-- [ ] pound sign:                                 #
-- [ ] population boom:                            人口の急増
-- [ ] premise | premises:                         前提 | 家屋,建物,構内,敷地内
-- [ ] employment reference:                       雇用証明書
-- [ ] renewal notice:                             更新通知
-- [ ] repeat business:                            常連
-- [ ] social welfare                              福祉
-- [ ] third baseline                              三塁側
-- [ ] trade exhibition:                           展示会
-- [ ] treat oneself                               ご褒美
-- [ ] vapor trail:                                飛行機雲
-- [ ] vet / veterinarian                          獣医
-- [ ] wildlife refuge:                            鳥獣保護区
-- [ ] working hours:                              執務時間 / My regular working hours end at 6pm.
-- [ ] a course of action:                         行動指針
-- [ ] trade journal:                              業界紙
+- [ ] `ETA`                         帰る時間                    I send her a message with my ETA. (Estimated Time of Arrival)
+- [ ] `a course of action`          行動指針
+- [ ] `access road`                 連絡道路
+- [ ] `advanced degree`             修士号 博士号
+- [ ] `approach(es) to`             への取り組み
+- [ ] `assessment | evaluation`     改善目的の評価 | 判断目的の評価
+- [ ] `baggage claim`               荷物受け取り所
+- [ ] `benefits package`            福利厚生
+- [ ] `bloodshot eyes`              充血した目                  I've got `bloodshot eyes`.
+- [ ] `boarding pass`               搭乗券
+- [ ] `business hours`              執務時間
+- [ ] `classified advertisement`    案内広告
+- [ ] `commitment | commitments`    献身 | 約束
+- [ ] `commuter train`              通勤列車
+- [ ] `consensus of opinion`        意見の一致
+- [ ] `credit voucher`              無料引換券
+- [ ] `custom | customs`            習慣 | 税関
+- [ ] `deep tissue massage`         整体
+- [ ] `electricity expenditures`    消費電力
+- [ ] `employment reference`        雇用証明書
+- [ ] `enrollment quota`            入学定員数
+- [ ] `family of N`                 人家族                      I'm from a `family of four`.
+- [ ] `film adaption`               映画化
+- [ ] `gut feeling`                 直観
+- [ ] `hay fever`                   花粉症
+- [ ] `health insurance`            健康保険
+- [ ] `hope for`                    うまく行くことに対する希望  many people have `hope for` genuine changes in it
+- [ ] `hope of`                     する希望 / する見込み       I have no `hope of` getting financial support for it
+- [ ] `impact on`                   に対する影響
+- [ ] `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
+- [ ] `nothing out of the ordinary` 普通
+- [ ] `one of those days`           最悪の日
+- [ ] `pedestrian crossing`         横断歩道 crosswalk, crossway
+- [ ] `population boom`             人口の急増
+- [ ] `pound sign`                  #
+- [ ] `premise | premises`          前提 | 家屋,建物,構内,敷地内
+- [ ] `renewal notice`              更新通知
+- [ ] `repeat business`             常連
+- [ ] `social welfare`              福祉
+- [ ] `third baseline`              三塁側
+- [ ] `trade exhibition`            展示会
+- [ ] `trade journal`               業界紙
+- [ ] `treat oneself`               ご褒美
+- [ ] `vapor trail`                 飛行機雲
+- [ ] `vet / veterinarian`          獣医
+- [ ] `wildlife refuge`             鳥獣保護区
+- [ ] `working hours`               執務時間                    My regular working hours end at 6pm.
 
-## ADJECTIVE -LIMITED-
+## ADJECTIVE
 
-- [ ] the most commonly accepted:                 一番自然な / but `the most commonly accepted` way is the -ing.
-- [ ] the very first:                             一番最初の / `the very first` question is the use of ..."
-- [ ] one-off:                                    一度きりの / The expense incurred this year to construct the building is a `one-off` cost.
-- [ ] last-minute:                                土壇場の
-- [ ] neighborly:                                 隣人の 親切な
-- [ ] best-in-class:                              最高クラスの
-- [~] whole other:                                全然違う / That's a `whole other` problem.
-- [ ] way better:                                 much better / That's just hype. I know `way better` places.
-- [ ] each and every:                             ひとつひとつの / `each and every one of` these questions
-- [ ] scorching:                                  焼きつくような / It's `scorching hot` today.
-- [ ] boiling:                                    うだるような / This room is `boiling hot`.
+### LIMITING
 
-## ADJECTIVE -DESCRIPTIVE-
+- [x] `the most commonly accepted`  一番自然な                  but `the most commonly accepted` way is the -ing.
+- [x] `the very first`              一番最初の                  `the very first` question is the use of ..."
+- [ ] `one-off`                     一度きりの                  The expense incurred this year to construct the building is a `one-off` cost.
+- [ ] `last-minute`                 土壇場の
+- [ ] `neighborly`                  隣人の 親切な
+- [ ] `best-in-class`               最高クラスの
+- [x] `whole other`                 全然違う                    That's a `whole other` problem.
+- [ ] `way better`                  much better                 That's just hype. I know `way better` places.
+- [x] `each and every`              ひとつひとつの              `each and every one of` these questions
+- [ ] `scorching`                   焼きつくような              It's `scorching hot` today.
+- [ ] `boiling`                     うだるような                This room is `boiling hot`.
+- [ ] `no more than`                = only
 
-- [ ] for hire:                                   有料で利用できる、借りられる
-- [ ] halfway through:                            の途中で,半ばを過ぎた / I was `halfway through` dinner when he appeared.
-- [ ] in one's XXs:                               .. 十代 / Some of her first students are new `in their 20s`.
-- [ ] beside the point:                           的外れの / I agree he has had an unfortunate life, but that's `beside the point`.
+### DESCRIPTIVE
 
-- [ ] [where] (O) out of (O)                      We have watched `4 out of 5` seasons.
-- [ ] `to go`                                 We have ten minutes `to go`.
-- [ ] `no more than A`                   = only A
+- [ ] `for hire`                    有料で利用できる、借りられる
+- [ ] `halfway through`             の途中で,半ばを過ぎた       I was `halfway through` dinner when he appeared.
+- [ ] `in one's XXs`                .. 十代                     Some of her first students are new `in their 20s`.
+- [ ] `to go`                       残りの                      We have ten minutes `to go`.
+- [ ] `out of O`                    O ある中の                  We have watched `4 out of 5` seasons.

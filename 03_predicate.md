@@ -361,3 +361,5 @@
   mop up  〈こぼれた水などを〉ぬぐい取る 〈仕事などを〉し終える, 片づける. 【陸海軍, 軍事】〈残敵を〉掃討する.It's our job to mop up the rest.
   on the ~ side ～気味で My boss is a bit on the stubborn side.
   open oneself up to  心を開く
+- [ ] `beside the point`            的外れの / I agree he has had an unfortunate life, but that's `beside the point`.
+- [ ] `Chances are (that) S V:                     の可能性がある / It's foggy. But`chances are` it'll clear up later on.

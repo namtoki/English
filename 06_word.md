@@ -6,121 +6,87 @@
 - [ ] `junior coworker`             後輩
 - [ ] `lumpy`                       塊の多い でこぼこの
 - [ ] `mid-career`                  中途採用
-- [ ] `mischief`                    いたずら ちゃめっ気 被害    The `mischief` is that,,,
 - [ ] `muggy`                       蒸し暑い ムッとする
 - [ ] `nippy`                       身を切るような すばやい かむ癖のある `nippy` weather
-- [ ] `opening remarks`             開会の挨拶
-- [ ] `outrunning`                  上回っている
-
 - [ ] abridge
+- [ ] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
 - [ ] acclaim
 - [ ] adamant
 - [ ] adhere
 - [ ] adjoin
+- [ ] advocate
 - [ ] anticipatory
 - [ ] appraisal
 - [ ] apprehensive
-- [ ] bureaucrat
-- [x] carpool
-- [x] coincide
+- [ ] apprentice
+- [ ] attire
 - [ ] combustible
 - [ ] comparable | comparative:                   比較できる,匹敵する,同等である | 比較の,比較による,相対的な
-- [ ] concede
+- [ ] compartment
+- [ ] compliance
 - [ ] conceivable
-- [ ] conform
 - [ ] congest
+- [ ] consolidate
+- [ ] correspondence
+- [ ] courteous
 - [ ] cubicle
 - [ ] culinary
 - [ ] deduct
 - [ ] definitive
 - [ ] demolish
+- [ ] devise
 - [ ] discern
 - [ ] drawing
 - [ ] eclectic
 - [ ] endorse
 - [ ] exceedingly
+- [ ] excerpt
 - [ ] exempt
 - [ ] exorbitant
 - [ ] exquisite
-- [ ] faithful
+- [ ] file
 - [ ] flatly
 - [ ] fluctuate
 - [ ] foster / encourage / promote
 - [ ] fun | pleasant:                             気軽な娯楽等に対する楽しい | 穏やかで心地よい経験に対する楽しい
 - [ ] grievance
-- [ ] hinder
 - [ ] illegible
 - [ ] illustrious
 - [ ] implausibly
-- [ ] inaugural
+- [ ] inception
+- [ ] inclement
 - [ ] inconsistency
 - [ ] incorporate
 - [ ] incur
 - [ ] industrial | industrious:                   工業の | 勤勉な
 - [ ] intermission
 - [ ] intimate
-- [ ] keenly
-- [ ] linger
 - [ ] litigation
 - [ ] lumber
+- [ ] medication
+- [ ] mingle
 - [ ] necessitate
 - [ ] novice
 - [ ] obstruct
 - [ ] occupant
 - [ ] occupational
+- [ ] outgoing
 - [ ] period / duration
 - [ ] pertinent
 - [ ] plaque
-- [ ] plaster
 - [ ] postulate
 - [ ] proceeds
 - [ ] procrastinate
-- [ ] project
 - [ ] prolific
 - [ ] prominently
 - [ ] proponent
-- [ ] reap
 - [ ] recur
 - [ ] redundant
 - [ ] refurbish
 - [ ] sensitive
 - [ ] service
-- [ ] shabby
 - [ ] solicit
 - [ ] subside
-- [ ] subsidiary
-- [ ] superb
+- [ ] surplus
 - [ ] unanimousuly
 - [ ] vicinity
-- [ ] consolidate
-- [ ] fraud
-- [ ] withdraw
-- [ ] drawing
-- [ ] plaster
-- [ ] refurbish
-- [ ] exceedingly
-- [ ] congest
-- [ ] deduct
-- [x] outgoing
-- [x] acceptable | unacceptable:                  許される, ない / Crossing your legs is unacceptable in business situations in Japan
-- [x] advocate
-- [x] apprentice
-- [x] astronomy
-- [x] attire
-- [x] choreographer
-- [x] compartment
-- [x] compliance
-- [x] contradiction
-- [x] correspondence
-- [x] courteous
-- [x] devise
-- [x] excerpt
-- [x] file
-- [x] inception
-- [x] inclement
-- [x] medication
-- [x] mingle
-- [x] outgoing
-- [x] respectively
-- [x] surplus
-- [x] tentative
