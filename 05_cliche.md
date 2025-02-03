@@ -1,42 +1,53 @@
 # CLICHE
 
-- [ ] `Happy to help`               どういたしまして            Thanks for reading my outline. `Happy to help!`
-- [ ] `Anytime`                     どういたしまして (Casual)
-- [ ] `Don't mention it`            どういたしまして (Business)
-- [ ] `(You're) Right`              そうね
-- [ ] `(That's) True`               たしかに
-- [ ] `Fair enough`                 okay
-- [ ] `Makes sense`                 理解しました
-- [ ] `Sounds like a plan`          よさそう
-- [ ] `Good to know`                知れてよかった
-- [ ] `Been there done that`        やったことある、もういい
-- [ ] `Here we are`                 よし！                      `Here we are`! Home sweet home.
-- [ ] `Here we go again`            まただ！                    `Here we go again!` I told you I am not interested in getting married!
-- [ ] `Here we go.:                                Sure! Line up in front of that statue! 3.2.1`here we go`!
-- [ ] `Here we go.:                                よし！ /`Here we go`! Your dinner is ready! /`Here we go!` That is the building we were looking for!
-- [ ] `Here we go:                                 Have you prepared everything? OK,`here we go`!
-- [ ] `Here you go/are.:                           どうぞ /`Here you go`. This is the doll you wanted.
-- [ ] `Hey, stranger!:                             珍しいね
-- [ ] `I always appreciate your business:          お世話になっております
-- [ ] `I bet.:                                     だよね / There was so crowded and I couldn’t ride on anything!`I bet.` Its because it’s summer time.
-- [ ] `I can't see O:`I can't see` you/the material/the notes.
-- [ ] `I don't know the first thing about:         ちっともわからない / I don't know`the first thing about` writing movies.
-- [ ] `I feel you.:                                わかるよ / I’m tired of living in the city. Yeah,`I feel you.` I want to move near the mountains.
-- [ ] `I grant you that.:                          それはその通り / Yeah, that’s true,`I grant you that.`
-- [ ] `I haven't seen you in O:                    〜ぶり /`I haven't seen you in` a month.
-- [ ] `I hear you.:                                言いたいことはわかります / I’m not looking forward to the directors’ meeting tomorrow.`I hear you.`
-- [ ] `I hope not:                                 そうならないことを願うよ
-- [ ] `I hope so:                                  そう願うよ
-- [ ] `I know what you are saying:                 わかるよ
-- [ ] `I know what you mean.:                      わかるよ
-- [ ] `I know!:                                    あ、そうだ /`I know!` Let's go bowling.
-- [ ] `I know, right?:                             だよね / The new Star Wars is awesome!`I know, right?`
-- [ ] `I need you to V:`I need you to` lead the presentation.
-- [ ] `I see (what you mean).:                     その通りです
-- [ ] `I told you.:                                だから言ったじゃん
-- [ ] `I was going to say.:                        言おうと思っていたよ
-- [ ] `I was on mute.:
-- [ ] `I was thinking.:                            考えてたんだけど /`I was thinking.` Let's take a short trip.
+## BUSINESS
+
+- [ ] `I always appreciate your business`   お世話になっております
+- [ ] `I can't see`                         見えません (リモート)       `I can't see` you/the material/the notes.
+- [ ] `I was on mute`                       ミュートでした (リモート)
+
+## CONVERSATION
+
+- [ ] `(You're) Right`                      そうね
+- [ ] `I bet`                               だよね                      There was so crowded and I couldn’t ride on anything! `I bet.` it’s summer time.
+- [ ] `I know, right?`                      だよね                      The new Star Wars is awesome! `I know, right?`
+- [ ] `I see (what you mean)`               その通りです
+- [ ] `I grant you that`                    それはその通り              Yeah, that’s true, `I grant you that.`
+- [ ] `I feel you`                          わかるよ                    I’m tired of living in the city. Yeah, `I feel you.` I want to move near the mountains.
+- [ ] `I know what you are saying`          わかるよ
+- [ ] `I know what you mean`                わかるよ
+- [ ] `I hear you`                          言いたいことはわかります    I’m not looking forward to the directors’ meeting tomorrow. `I hear you.`
+- [ ] `(That's) True`                       たしかに
+- [ ] `Fair enough`                         okay
+- [ ] `Makes sense`                         理解しました
+- [ ] `Sounds like a plan`                  よさそう
+- [ ] `I hope not`                          そうならないことを願うよ
+- [ ] `I hope so`                           そう願うよ
+- [ ] `Good to know`                        知れてよかった
+- [ ] `Been there done that`                やったことある、もういい
+- [ ] `I told you`                          だから言ったじゃん
+- [ ] `I was going to say`                  言おうと思っていたよ
+- [ ] `Happy to help`                       どういたしまして            Thanks for reading my outline. `Happy to help!`
+- [ ] `Anytime`                             どういたしまして (Casual)
+- [ ] `Don't mention it`                    どういたしまして (Business)
+
+## KAKEGOE
+
+- [ ] `I know!`                             あ、そうだ                  `I know!` Let's go bowling.
+- [ ] `Here we go`                          さぁ！                      `Here we go`! Your dinner is ready! / `Here we go!` That is the building we~
+- [ ] `Here we go again`                    まただ！                    `Here we go again!` I told you I am not interested in getting married!
+- [ ] `Here we go`                          ハイチーズ                  Sure! Line up in front of that statue! 3.2.1 `here we go`!
+- [ ] `Here we go`                          はじめましょう              Have you prepared everything? OK, `here we go`!
+- [ ] `Here we are`                         着いた！                    `Here we are`! Home sweet home.
+- [ ] `Here you go/are`                     どうぞ                      `Here you go`. This is the doll you wanted.
+- [ ] `Hey, stranger!`                      珍しいね
+- [ ] `I was thinking`                      考えてたんだけど            `I was thinking.` Let's take a short trip.
+
+## OTHERS
+
+- [ ] `I don't know the first thing about`  ちっともわからない          I don't know`the first thing about` writing movies.
+- [ ] `I haven't seen you in O`             〜ぶり                      `I haven't seen you in` a month.
+
 - [ ] `I will do that then:                        じゃあそうします
 - [ ] `I'll leave it up to you:                    任せるよ
 - [ ] `I'll let you know.:
