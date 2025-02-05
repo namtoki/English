@@ -5,8 +5,15 @@
 - [ ] `I always appreciate your business`   お世話になっております
 - [ ] `I can't see`                         見えません (リモート)       `I can't see` you/the material/the notes.
 - [ ] `I was on mute`                       ミュートでした (リモート)
+- [ ] `I'll let you know`                   お知らせします
+- [ ] `I'll tell you later`                 後でお知らせします
+- [ ] `Leave it there`                      ここまでにしましょう
 
-## CONVERSATION
+## GREETING
+
+- [ ] `It's been a while`                   久しぶり
+
+## REPLY
 
 - [ ] `(You're) Right`                      そうね
 - [ ] `I bet`                               だよね                      There was so crowded and I couldn’t ride on anything! `I bet.` it’s summer time.
@@ -16,11 +23,16 @@
 - [ ] `I feel you`                          わかるよ                    I’m tired of living in the city. Yeah, `I feel you.` I want to move near the mountains.
 - [ ] `I know what you are saying`          わかるよ
 - [ ] `I know what you mean`                わかるよ
+- [ ] `I've been there`                     わかる
 - [ ] `I hear you`                          言いたいことはわかります    I’m not looking forward to the directors’ meeting tomorrow. `I hear you.`
 - [ ] `(That's) True`                       たしかに
 - [ ] `Fair enough`                         okay
 - [ ] `Makes sense`                         理解しました
 - [ ] `Sounds like a plan`                  よさそう
+- [ ] `I will do that then`                 じゃあそうします
+- [ ] `I'll leave it up to you`             任せるよ
+- [ ] `I'm not particular about it`         こだわりはないよ
+- [ ] `It doesn't matter`                   どうでもいいよ / どちらでもいいよ
 - [ ] `I hope not`                          そうならないことを願うよ
 - [ ] `I hope so`                           そう願うよ
 - [ ] `Good to know`                        知れてよかった
@@ -31,7 +43,7 @@
 - [ ] `Anytime`                             どういたしまして (Casual)
 - [ ] `Don't mention it`                    どういたしまして (Business)
 
-## KAKEGOE
+## INTERJECTION
 
 - [ ] `I know!`                             あ、そうだ                  `I know!` Let's go bowling.
 - [ ] `Here we go`                          さぁ！                      `Here we go`! Your dinner is ready! / `Here we go!` That is the building we~
@@ -43,26 +55,15 @@
 - [ ] `Hey, stranger!`                      珍しいね
 - [ ] `I was thinking`                      考えてたんだけど            `I was thinking.` Let's take a short trip.
 
+## SITUATION EXPLANATION
+
+- [ ] `I'm in the middle of something`      今手が離せない
+- [ ] `I'm still working on it`             今やっている最中です / まだ食べている途中です
+
 ## OTHERS
 
-- [ ] `I don't know the first thing about`  ちっともわからない          I don't know`the first thing about` writing movies.
-- [ ] `I haven't seen you in O`             〜ぶり                      `I haven't seen you in` a month.
+- [ ] `Just give it time`                   時間が解決してくれる        Dating is a nightmare.`Just give it time.`
 
-- [ ] `I will do that then:                        じゃあそうします
-- [ ] `I'll leave it up to you:                    任せるよ
-- [ ] `I'll let you know.:
-- [ ] `I'll tell you later.:
-- [ ] `I'm V-ing ... at the moment.:               中だから邪魔しないで / Hang on. I'm just finishing up an email at the moment
-- [ ] `I'm in the middle of something:             今手が離せない
-- [ ] `I'm not particular about it:                こだわりはないよ
-- [ ] `I'm still working on it:                    今やっている最中です / まだ食べている途中です
-- [ ] `I'm trying to ...                           中だから邪魔しないで / Hey, Toshi? I'm trying to work, Emily!
-- [ ] `I've been there.:                           わかる
-- [ ] `It doesn't matter:                          どうでもいいよ / どちらでもいいよ
-- [ ] `It's been a month since:                    久しぶり /`It's been a month since` we met the last time.
-- [ ] `It's been a while.:                         久しぶり
-- [ ] `Just give it time.:                         時間が解決してくれる / Dating is a nightmare.`Just give it time.`
-- [ ] `Leave it there.:
 - [ ] `Let's say O:                                とりあえず〜としようか /`Let's say` dinner at seven. / `Let's say` Monday at three.
 - [ ] `Lucky you!:                                 うらやましい
 - [ ] `My concern (for O) is (that) S V:           You show a lot of promise … but`my concern is` I don’t know where to book you.

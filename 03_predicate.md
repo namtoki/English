@@ -363,3 +363,8 @@
   open oneself up to  心を開く
 - [ ] `beside the point`            的外れの / I agree he has had an unfortunate life, but that's `beside the point`.
 - [ ] `Chances are (that) S V:                     の可能性がある / It's foggy. But`chances are` it'll clear up later on.
+- [ ] `I don't know the first thing about`  ちっともわからない          I don't know`the first thing about` writing movies.
+- [ ] `I haven't seen you in O`             〜ぶり                      `I haven't seen you in` a month.
+- [ ] `I'm V-ing ... at the moment.:               中だから邪魔しないで / Hang on. I'm just finishing up an email at the moment
+- [ ] `I'm trying to ...                           中だから邪魔しないで / Hey, Toshi? I'm trying to work, Emily!
+- [ ] `It's been a month since:                    久しぶり /`It's been a month since` we met the last time.
