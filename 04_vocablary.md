@@ -1,4 +1,4 @@
-# NOUN
+# VOCABLARY
 
 ## NOUN
 
