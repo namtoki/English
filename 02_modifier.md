@@ -60,6 +60,7 @@
 - [ ] `in every way`                すべてにおいて              That movie was perfect `in every way`.
 - [x] `in terms of O`               の点で                      I liked that movie `in terms of` the acting.
 - [x] `personally, in my opinion`   個人的には
+- [ ] `the way I see it`            私の見解では                `The way I see it`, it's too simplistic to say that ...
 
 ### CONCLUSION
 
@@ -88,6 +89,7 @@
 - [ ] `as it is`                    今のところ                  `As it is,` ordinary people cannot afford to purchase such luxuries.
 - [ ] `with O`                      があれば                    `With` a little luck, we can still make it.
 - [ ] `in the long run`             長い目で見れば              Bob believes that honesty pays off `in the long run.`
+- [ ] `Let's say O`                 とりあえず〜としようか      `Let's say` dinner at seven. / `Let's say` Monday at three.
 
 ---
 
@@ -133,7 +135,9 @@
 
 - [x] `as a result`                 その結果                    He didn't work hard and, `as a result`, he failed in the exam.
 - [x] `because of this`             その結果                    I've never been to that place. `Because of this`, I know little about it.
+- [ ] `that's how`                  このようにして              `That's how` we met.
 - [x] `this is why`                 そういうわけで              I came down with the flu. `This is why` I haven't finished my homework.
+- [ ] `That's the way S V`          このやり方が                `That's the way` I like it. / `That's the way` I prefer it.
 - [ ] `consequently`                結果的に                    He made a mistake, and `consequently` lost an opportunity for being promoted.
 - [ ] `for that reason`             そんなわけで
 - [ ] `followed by`                 その後                      Lightning flashed, `followed by` terribly loud thunder.
@@ -273,6 +277,7 @@
 - [ ] `purposely`                   わざと                      He `purposely` didn't say anything.
 - [x] `in the first place`          そもそも                    Why was he at the party `in the first place?` He wasn't invited, was he?
 - [x] `to be honest`                正直
+- [ ] `The fact is`                 実を言うと                  `The fact is,` I don't have enough money.
 
 ### CONTRAST
 
