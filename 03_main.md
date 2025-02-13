@@ -40,9 +40,6 @@
     - `What's your take on O?`                  (どう思う？) `What's your take on` the new iPhone?
     - `Any thoughts on O?`                      (何か意見ある？)
     - `What are the chances that S V?`          (S V の可能性はどれくらい？) `What are the chances that` the meeting will finish early?
-    - `What do you mean by that?`               (それってどういう意味？)
-    - `What's it called?`                       (それは何と呼ばれていますか)
-    - `What if S V?`                            (S V しなかったらどうなる?) `What if I don't meet` the deadline?
 - 要望を聞く
     - `Would you rather V or V?`                (どちらをしたいですか？) `Would you rather stay home or go out tonight?`
     - `Would you prefer to V or V?`             (どちらをしたいですか？) `Would you prefer to stay home or go out?`
@@ -68,6 +65,7 @@
     - `(Would you) care to V?`                  (V しませんか？) `Would you care to` join me for a drink?
     - `Would you like me to V?`                 (V しましょうか？) `Would you like me to` open the window?
     - `(Do you) want me to V?`                  (V しましょうか？) `Do you want me to` cook dinner?
+    - `How about V-ing?`                        (V するのはどう？) `How about sending` flowers?
 - 話しかける
     - `Is this a good time?`                    (今いい？)
     - `Can I borrow you for a second?`          (今いい？)
@@ -76,17 +74,20 @@
     - `Is everything all right?`                (大丈夫？)
     - `Can you give me a hand?`                 (手伝ってくれる？)
     - `What are you up to?`                     (何しようとしているの？)
-- [ ] `Is A the same as B?`                 A は B と同じ？             `Is this the same skirt as` in the ad?
-- [ ] `(By) When ... ?`                     いつまでですか？            `(By) When` do I have to finish this?
-- [ ] `Do you have the time?`               今何時？
-- [ ] `Do you know anyone in A`             A に知り合いはいる？
-- [ ] `Does that sound C?`                  C のように聞こえる？        `Does that sound` good?
-- [ ] `How about V-ing?`                    V するのはどう？            `How about sending` flowers?
-- [ ] `How do you like O?`                  O は好きですか？            `How do you like` your new shoes?
-- [ ] `How long since S V?`                 S V してからどれくらい？    `How long since` you met him? (How long has it been since S V の省略)
-- [ ] `How long until S V?`                 S V するまでどれくらい？    `How long until` he comes back? (How long is it going to be until S V の省略)
-- [ ] `How was everything?`                 お料理はいかがでしたか
-- [ ] `How's your day going?`               調子はどう？
+- シンプルに質問
+    - `Is A the same as B?`                     (A は B と同じ？) `Is this the same skirt as` in the ad?
+    - `What do you mean by that?`               (それってどういう意味？)
+    - `What's it called?`                       (それは何と呼ばれていますか)
+    - `What if S V?`                            (S V しなかったらどうなる?) `What if I don't meet` the deadline?
+    - `(By) When ... ?`                         (いつまでですか？) `(By) When` do I have to finish this?
+    - `Do you have the time?`                   (今何時？)
+    - `Do you know anyone in A`                 (A に知り合いはいる？)
+    - `Does that sound C?`                      (C のように聞こえる？) `Does that sound` good?
+    - `How do you like O?`                      (O は好きですか？) `How do you like` your new shoes?
+    - `How long since S V?`                     (S V してからどれくらい？) `How long since` you met him? (How long has it been since S V の省略)
+    - `How long until S V?`                     (S V するまでどれくらい？) `How long until` he comes back? (How long is it going to be until S V の省略)
+    - `How was everything?`                     (お料理はいかがでしたか)
+    - `How's your day going?`                   (調子はどう？)
 
 ### OPINION (HEAD)
 
