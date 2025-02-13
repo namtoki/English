@@ -1,5 +1,8 @@
 # GRAMMER
 
+確定した公的な未来 現在形 The train arrives at eight.
+進行している私的な未来 進行形 The couple are marrying next month.
+
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
 - [x] [pronoun] 数量形容詞の代名詞 (両方):          all ~, a lot, none
