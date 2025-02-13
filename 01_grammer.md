@@ -3,6 +3,15 @@
 確定した公的な未来 現在形 The train arrives at eight.
 進行している私的な未来 進行形 The couple are marrying next month.
 
+等位接続詞
+    SV, and SV / SV, but SV / SV, for SV    before
+    (and) so / (and) yet
+従属接続詞
+    時、条件、対比、譲歩、理由
+同格の that, 関係代名詞の that どっちを使う？
+    同格の that: 事実、認識、可能性系統の名詞
+something to the effect that のようなこと
+
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
 - [x] [pronoun] 数量形容詞の代名詞 (両方):          all ~, a lot, none
