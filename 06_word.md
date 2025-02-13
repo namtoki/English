@@ -4,7 +4,6 @@
 - [ ] `ingrained`                   根深い 生得の こびりついた  `ingrained` habits of a lifetime
 - [ ] `jaywalk`                     道路横断歩行する
 - [ ] `junior coworker`             後輩
-- [ ] `lumpy`                       塊の多い でこぼこの
 - [ ] `mid-career`                  中途採用
 - [ ] `muggy`                       蒸し暑い ムッとする
 - [ ] `nippy`                       身を切るような すばやい かむ癖のある `nippy` weather
@@ -81,5 +80,3 @@
 - [ ] refurbish
 - [ ] subside
 - [ ] surplus
-- [ ] unanimousuly
-- [ ] vicinity

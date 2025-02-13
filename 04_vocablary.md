@@ -398,3 +398,5 @@
   on the ~ side ～気味で My boss is a bit on the stubborn side.
   open oneself up to  心を開く
 - [ ] `beside the point`            的外れの / I agree he has had an unfortunate life, but that's `beside the point`.
+- [ ] `traffic is backed up`                       渋滞している
+- [ ] `it's clearing up`                           晴れてきた
