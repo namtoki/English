@@ -2,12 +2,25 @@
 
 ### BUSINESS
 
-- [ ] `I always appreciate your business`   お世話になっております
-- [ ] `Thank you for your continued patronage`  お世話になっております
-- [ ] `You wanted to see me?`               お呼びでしょうか
-- [ ] `I can't see`                         見えません (リモート)       `I can't see` you/the material/the notes.
-- [ ] `I was on mute`                       ミュートでした (リモート)
-- [ ] `Take your time with O`               ゆっくり取り組んでいいよ    Take your time with` this project.
+- お世話になっております
+    - `I hope you are doing well.`（相手の健康や状況を気遣う一般的な表現）
+    - `Thank you for your continued support.`（継続的なサポートに感謝を示す場合）
+    - `I appreciate your help as always.`
+    - `I always appreciate your business.`
+- お呼びでしょうか
+    - `(Did) You wanted to see me?`
+- リモート会議表現
+    - `I can't see O.` (O が見えません)
+        - `I can't see` you
+        - `I can't see` the material.
+    - `I was on mute` (ミュートでした)
+- 急ぎではないことを伝える
+    - `Take your time with O` (ゆっくり取り組んでいいよ)
+        - `Take your time with` this project.
+    - `No rush.`（急がなくて大丈夫です。）
+    - `It’s not urgent.`（急ぎではありません。）
+    - `There is no particular urgency.`（特に急ぎではありません。）
+    - `Please handle it at your convenience.`（ご都合の良いときに対応してください。）
 
 ### QUESTION
 
