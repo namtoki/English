@@ -12,6 +12,11 @@
     同格の that: 事実、認識、可能性系統の名詞
 something to the effect that のようなこと
 
+副詞節の that
+    その結果,,, / ,,,なくらい / 根拠としては,,,
+
+The question wether
+
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
 - [x] [pronoun] 数量形容詞の代名詞 (両方):          all ~, a lot, none
