@@ -18,39 +18,52 @@ something to the effect that のようなこと
 The question wether
 
 - ADJECTIVE
-    - 限定用法
-        - 前置修飾
-            - 永久的・一般的 (a responsible man 責任感のある人)                     --- [Noun]
-            - 冠詞の前にでしゃばり
-                - all,both,half,twice,double,such,quite,what,,, twice the number of --- [Noun] 範囲や程度を修飾したい
-            - 〜する人が多いパターン (英語では数量表現を主語で表す傾向がある)       --- [Structure]
-                - Many people + V...
-                - Some people + V...
-                - Few people + V...
-                - More and more people + V...
-                - Fewer and fewer people + V...
-        - 後置修飾
-            - 一時的・具体的 (the man responsible 責任を負うべき人)                 --- [Noun]
-                - お決まりパターンは以下
-                    - な人々: those+adj (those involved,,,)                         --- [Noun]
-                    - なもの: some...+adj (something hot to drink,,,)               --- [Noun]
-        - 名詞化
-            - the+adj (the old, the young, the rich,,,)                             --- [Noun] 特定のグループ
-        - 専門
-            - 限定・強調: only,sole,mere,lone,very,main,chief,,,
-            - 比較関係: elder,former,latter,upper,,,
-            - 内外: indoor,outdoor,inner,outer,urban,rural,,,
-            - 現状・時間: live,daily,weekly,monthly,yearly,,,
-        - and は任意
-    - 叙述用法
-        - 専門
-            - a...: alike,alive,alone,asleep,awake,afraid,,,
-            - 感情・体調: content,glad,,,
-        - and は必須
-    - some: ハッキリとはわからなくても、あるものが少し存在することは断定できる      --- [Noun]
-    - any: 非断定、不特定、開いている感じ                                           --- [Noun]
+  - 限定用法
+    - 前置修飾
+      - 永久的・一般的 (a responsible man 責任感のある人)                   --- [Noun]
+      - 冠詞の前にでしゃばり
+        - all,both,half,twice,double,such,quite,what,,, twice the number of --- [Noun] 範囲や程度を修飾したい
+      - 〜する人が多いパターン (英語では数量表現を主語で表す傾向がある)     --- [Structure]
+        - Many people + V...
+        - Some people + V...
+        - Few people + V...
+        - More and more people + V...
+        - Fewer and fewer people + V...
+    - 後置修飾
+      - 一時的・具体的 (the man responsible 責任を負うべき人)               --- [Noun]
+        - お決まりパターンは以下
+          - な人々: those+adj (those involved,,,)                           --- [Noun]
+          - なもの: some...+adj (something hot to drink,,,)                 --- [Noun]
+    - 名詞化
+      - the+adj (the old, the young, the rich,,,)                           --- [Noun] 特定のグループ
+    - 専門
+      - 限定・強調: only,sole,mere,lone,very,main,chief,,,
+      - 比較関係: elder,former,latter,upper,,,
+      - 内外: indoor,outdoor,inner,outer,urban,rural,,,
+      - 現状・時間: live,daily,weekly,monthly,yearly,,,
+    - and は任意
+  - 叙述用法
+    - 専門
+      - a...: alike,alive,alone,asleep,awake,afraid,,,
+      - 感情・体調: content,glad,,,
+    - and は必須
+  - some: ハッキリとはわからなくても、あるものが少し存在することは断定できる--- [Noun]
+  - any: 非断定、不特定、開いている感じ                                     --- [Noun]
 - ADVERB
-    - a lot (随分と)
+  - 接続副詞                                                                --- [Structure]
+    - 接続詞のような文を繋ぐ役割は無い / SV. However, SV.
+    - 反論系: however,yet,still,all the same,nevertheless,in contrast,,,
+    - 並列系: also,besides,moreover,furthermore,what is more,in addition,,,
+    - 具体例: for example,for instance,specifically,in other words,,,
+  - 副詞の位置
+    - 基本的には自由だが、以下例外
+      - enough: She was kind enough to tell me the way to the library.      --- [Structure]
+      - 頻度系: always,usually,often,,, は not と同じ位置                   --- [Structure]
+      - つよ系: so,as,too,how,however は so adj a noun の順番               --- [Structure]
+        - I have never seen as beautiful a rose as this one.
+  - recently,lately は現在完了形で、these days,nowadays は現在形
+  - 強調用法
+  - a lot (随分と)
 
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
