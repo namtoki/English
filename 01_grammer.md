@@ -62,8 +62,17 @@ The question wether
       - つよ系: so,as,too,how,however は so adj a noun の順番               --- [Structure]
         - I have never seen as beautiful a rose as this one.
   - recently,lately は現在完了形で、these days,nowadays は現在形
-  - 強調用法
+  - 強調用法: right,well,way (well in advance, way behind schedule)
+  - 限定用法: (seven years after the war, two months before,,,)
+  - 同格用法: (here at Shin-Osaka, the number here in London,,,)
   - a lot (随分と)
+- 文型
+  - SVOC: S は理由、つまり「S によって」と考えると良い
+    - The medicine will make you feel better.
+    - The doctor will make you feel better.
+- 不定詞
+  - 主語に名詞的用法を使うとことわざっぽいので、仮主語it か動名詞を使う     --- [Structure]
+    - It is rude to send text messages from your phone when someone is making a presentation.
 
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
