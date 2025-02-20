@@ -71,8 +71,26 @@ The question wether
     - The medicine will make you feel better.
     - The doctor will make you feel better.
 - 不定詞
-  - 主語に名詞的用法を使うとことわざっぽいので、仮主語it か動名詞を使う     --- [Structure]
-    - It is rude to send text messages from your phone when someone is making a presentation.
+  - 不定詞の主語
+    - for 人 to V の形で使える
+  - 名詞的用法
+    - 主語に名詞的用法を使うとことわざっぽいので、仮主語it か動名詞を使う   --- [Structure]
+      - It is rude to send text messages from your phone when someone is making a presentation.
+  - 形容詞的用法
+    - S to V: I have no friends to help me.
+    - O to V: I have no friends to help.
+    - 同格:   He has the ability to do the work. (抽象名詞が多め)
+  - 副詞的用法 (not もつけられるよ)
+    - 目的:         That guy wants to go there to be popular with girls.    --- [Structure]
+      - for は用途: a tool for cutting wood
+    - 結果:         Shibusawa Eiichi lived to be ninety-one years old.      --- [Structure]
+      - SV only to: I hurried to the station only to find that the train had already left.
+      - SV never to:
+    - 感情の原因:   I was surprised to learn that he is a comedian.         --- [Structure]
+    - 判断の根拠:   You must be mad to send him 30 emails a day.            --- [Structure]
+    - 限定 (範囲):  It may be too late to change our departure date.        --- [Structure]
+    - 限定 (点):    This dictionary is difficult for me to read wo glasses. --- [Structure]
+    - 仮定法の条件:
 
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
