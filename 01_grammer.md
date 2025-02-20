@@ -17,80 +17,102 @@ something to the effect that のようなこと
 
 The question wether
 
-- ADJECTIVE
-  - 限定用法
-    - 前置修飾
-      - 永久的・一般的 (a responsible man 責任感のある人)                   --- [Noun]
-      - 冠詞の前にでしゃばり
-        - all,both,half,twice,double,such,quite,what,,, twice the number of --- [Noun] 範囲や程度を修飾したい
-      - 〜する人が多いパターン (英語では数量表現を主語で表す傾向がある)     --- [Structure]
-        - Many people + V...
-        - Some people + V...
-        - Few people + V...
-        - More and more people + V...
-        - Fewer and fewer people + V...
-    - 後置修飾
-      - 一時的・具体的 (the man responsible 責任を負うべき人)               --- [Noun]
-        - お決まりパターンは以下
-          - な人々: those+adj (those involved,,,)                           --- [Noun]
-          - なもの: some...+adj (something hot to drink,,,)                 --- [Noun]
-    - 名詞化
-      - the+adj (the old, the young, the rich,,,)                           --- [Noun] 特定のグループ
-    - 専門
-      - 限定・強調: only,sole,mere,lone,very,main,chief,,,
-      - 比較関係: elder,former,latter,upper,,,
-      - 内外: indoor,outdoor,inner,outer,urban,rural,,,
-      - 現状・時間: live,daily,weekly,monthly,yearly,,,
-    - and は任意
-  - 叙述用法
-    - 専門
-      - a...: alike,alive,alone,asleep,awake,afraid,,,
-      - 感情・体調: content,glad,,,
-    - and は必須
-  - some: ハッキリとはわからなくても、あるものが少し存在することは断定できる--- [Noun]
-  - any: 非断定、不特定、開いている感じ                                     --- [Noun]
-- ADVERB
-  - 接続副詞                                                                --- [Structure]
-    - 接続詞のような文を繋ぐ役割は無い / SV. However, SV.
-    - 反論系: however,yet,still,all the same,nevertheless,in contrast,,,
-    - 並列系: also,besides,moreover,furthermore,what is more,in addition,,,
-    - 具体例: for example,for instance,specifically,in other words,,,
-  - 副詞の位置
-    - 基本的には自由だが、以下例外
-      - enough: She was kind enough to tell me the way to the library.      --- [Structure]
-      - 頻度系: always,usually,often,,, は not と同じ位置                   --- [Structure]
-      - つよ系: so,as,too,how,however は so adj a noun の順番               --- [Structure]
-        - I have never seen as beautiful a rose as this one.
-  - recently,lately は現在完了形で、these days,nowadays は現在形
-  - 強調用法: right,well,way (well in advance, way behind schedule)
-  - 限定用法: (seven years after the war, two months before,,,)
-  - 同格用法: (here at Shin-Osaka, the number here in London,,,)
-  - a lot (随分と)
-- 文型
-  - SVOC: S は理由、つまり「S によって」と考えると良い
-    - The medicine will make you feel better.
-    - The doctor will make you feel better.
-- 不定詞
-  - 不定詞の主語
-    - for 人 to V の形で使える
-  - 名詞的用法
-    - 主語に名詞的用法を使うとことわざっぽいので、仮主語it か動名詞を使う   --- [Structure]
-      - It is rude to send text messages from your phone when someone is making a presentation.
-  - 形容詞的用法
-    - S to V: I have no friends to help me.
-    - O to V: I have no friends to help.
-    - 同格:   He has the ability to do the work. (抽象名詞が多め)
-  - 副詞的用法 (not もつけられるよ)
-    - 目的:         That guy wants to go there to be popular with girls.    --- [Structure]
-      - for は用途: a tool for cutting wood
-    - 結果:         Shibusawa Eiichi lived to be ninety-one years old.      --- [Structure]
-      - SV only to: I hurried to the station only to find that the train had already left.
-      - SV never to:
-    - 感情の原因:   I was surprised to learn that he is a comedian.         --- [Structure]
-    - 判断の根拠:   You must be mad to send him 30 emails a day.            --- [Structure]
-    - 限定 (範囲):  It may be too late to change our departure date.        --- [Structure]
-    - 限定 (点):    This dictionary is difficult for me to read wo glasses. --- [Structure]
-    - 仮定法の条件:
+## ADJECTIVE
+- 限定用法
+  - 前置修飾
+    - 永久的・一般的 (a responsible man 責任感のある人)                   --- [Noun]
+    - 冠詞の前にでしゃばり
+      - all,both,half,twice,double,such,quite,what,,, twice the number of --- [Noun] 範囲や程度を修飾したい
+    - 〜する人が多いパターン (英語では数量表現を主語で表す傾向がある)     --- [Structure]
+      - Many people + V...
+      - Some people + V...
+      - Few people + V...
+      - More and more people + V...
+      - Fewer and fewer people + V...
+  - 後置修飾
+    - 一時的・具体的 (the man responsible 責任を負うべき人)               --- [Noun]
+      - お決まりパターンは以下
+        - な人々: those+adj (those involved,,,)                           --- [Noun]
+        - なもの: some...+adj (something hot to drink,,,)                 --- [Noun]
+  - 名詞化
+    - the+adj (the old, the young, the rich,,,)                           --- [Noun] 特定のグループ
+  - 専門
+    - 限定・強調: only,sole,mere,lone,very,main,chief,,,
+    - 比較関係: elder,former,latter,upper,,,
+    - 内外: indoor,outdoor,inner,outer,urban,rural,,,
+    - 現状・時間: live,daily,weekly,monthly,yearly,,,
+  - and は任意
+- 叙述用法
+  - 専門
+    - a...: alike,alive,alone,asleep,awake,afraid,,,
+    - 感情・体調: content,glad,,,
+  - and は必須
+- some: ハッキリとはわからなくても、あるものが少し存在することは断定できる--- [Noun]
+- any: 非断定、不特定、開いている感じ                                     --- [Noun]
+
+## ADVERB
+
+- 接続副詞                                                                --- [Structure]
+  - 接続詞のような文を繋ぐ役割は無い / SV. However, SV.
+  - 反論系: however,yet,still,all the same,nevertheless,in contrast,,,
+  - 並列系: also,besides,moreover,furthermore,what is more,in addition,,,
+  - 具体例: for example,for instance,specifically,in other words,,,
+- 副詞の位置
+  - 基本的には自由だが、以下例外
+    - enough: She was kind enough to tell me the way to the library.      --- [Structure]
+    - 頻度系: always,usually,often,,, は not と同じ位置                   --- [Structure]
+    - つよ系: so,as,too,how,however は so adj a noun の順番               --- [Structure]
+      - I have never seen as beautiful a rose as this one.
+- recently,lately は現在完了形で、these days,nowadays は現在形
+- 強調用法: right,well,way (well in advance, way behind schedule)
+- 限定用法: (seven years after the war, two months before,,,)
+- 同格用法: (here at Shin-Osaka, the number here in London,,,)
+- a lot (随分と)
+
+## 文型
+
+- SVOC: S は理由、つまり「S によって」と考えると良い
+  - The medicine will make you feel better.
+  - The doctor will make you feel better.
+
+## 不定詞 (未来)
+
+- 不定詞の主語
+  - for 人 to V の形で使える
+- 名詞的用法
+  - 主語に名詞的用法を使うとことわざっぽいので、仮主語it か動名詞を使う   --- [Structure]
+    - It is rude to send text messages from your phone when someone is making a presentation.
+- 形容詞的用法
+  - S to V: I have no friends to help me.
+  - O to V: I have no friends to help.
+  - 同格:   He has the ability to do the work. (抽象名詞が多め)
+- 副詞的用法 (not to, to adv V もあり)
+  - 目的:         That guy wants to go there to be popular with girls.    --- [Structure]
+    - for は用途: a tool for cutting wood
+    - not to は注意を呼びかける時しか使えない (be careful not to,,,)
+    - 明確にするために in order to や so as to にすることもある
+  - 結果:         Shibusawa Eiichi lived to be ninety-one years old.      --- [Structure]
+    - SV only to: I hurried to the station only to find that the train had already left.
+    - SV never to:
+  - 感情の原因:   I was surprised to learn that he is a comedian.         --- [Structure]
+  - 判断の根拠:   You must be mad to send him 30 emails a day.            --- [Structure]
+  - 限定 (範囲):  It may be too late to change our departure date.        --- [Structure]
+  - 限定 (点):    This dictionary is difficult for me to read wo glasses. --- [Structure]
+  - 仮定法の条件:
+- 前置詞の後に持って来れないが、but to と except to は OK
+
+## 動名詞 (反復)
+
+- 意味上の主語を直前に付けられる (所有格か目的格)
+  - 例
+    - She insisted on paying.
+    - She insisted on his/him paying.
+  - 意味上の主語が代名詞ではない場合は、目的格が好まれる
+    - Eliot doesn't like his girlfriend telling him how to dress.
+  - 動名詞が主語の場合は所有格
+    - His moving to Dubai was a surprise to all of us.
+  - There is 構文も
+    - My sister complained about there being little furniture in her room.
 
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
