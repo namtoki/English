@@ -119,16 +119,26 @@ The question wether
 
 ## 分詞構文 -> 副詞 (接続詞からの解放)
 
-- (分詞構文, SV.) か (S, 分詞構文, V) の場合
-  - 「て」「で」
-    - 時 (するとき、して): Looking around the room, can you see what changed?
-    - 理由 (なので):       Recently discovered, the fossils are being examined by; a team of researchers.
-    - 主語の説明:          Neil Armstrong, being the 1st person to walk on the moon, is one of ~~.
-    - 条件 (すれば):
-    - 譲歩 (だけど):
-- (SV, 分詞構文) の場合
-  - 「そして」             The boy stood on the top of the mountain, looking at the valley below.
-  - 「しながら」           The bee flew from one flower to another collecting pollen.
+- 基本
+  - (分詞構文, SV.) か (S, 分詞構文, V) の場合
+    - 「て」「で」
+      - 時 (するとき、して): Looking around the room, can you see what changed?
+      - 理由 (なので):       Recently discovered, the fossils are being examined by; a team of researchers.
+      - 主語の説明:          Neil Armstrong, being the 1st person to walk on the moon, is one of ~~.
+  - (SV, 分詞構文) の場合
+    - 「そして」             The boy stood on the top of the mountain, looking at the valley below.
+    - 「しながら」           The bee flew from one flower to another collecting pollen.
+- 意味上の主語 (主節の主語と違うときに付与されるが、あえて置かないこともある)
+  - The rain beginning to fall, Haruto entered the cafe.
+  - The car washed, Ren went to the airport.
+  - There being no objection, they ended the meeting early.
+- 応用
+  - 条件 (すれば), 譲歩 (だけど) は超稀
+    - 稀すぎて頭に接続詞をつける形になることもある
+      - `If` attending the meeting for the first time, be prepared to give a shot self-introduction.
+  - being が省略されることがあるため、いきなり形容詞や名詞で始まる分子構文もある
+    - `Confident` that he was the most qualified of all the candidates, ABC Daily Voice hired him as the new chief editor.
+    - `The father of two young girls`, he hopes for more gender equality in the future.
 
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
