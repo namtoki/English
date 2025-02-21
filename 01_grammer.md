@@ -18,6 +18,7 @@ something to the effect that のようなこと
 The question wether
 
 ## ADJECTIVE
+
 - 限定用法
   - 前置修飾
     - 永久的・一般的 (a responsible man 責任感のある人)                   --- [Noun]
@@ -113,6 +114,21 @@ The question wether
     - His moving to Dubai was a surprise to all of us.
   - There is 構文も
     - My sister complained about there being little furniture in her room.
+
+## 分詞 -> 形容詞
+
+## 分詞構文 -> 副詞 (接続詞からの解放)
+
+- (分詞構文, SV.) か (S, 分詞構文, V) の場合
+  - 「て」「で」
+    - 時 (するとき、して): Looking around the room, can you see what changed?
+    - 理由 (なので):       Recently discovered, the fossils are being examined by; a team of researchers.
+    - 主語の説明:          Neil Armstrong, being the 1st person to walk on the moon, is one of ~~.
+    - 条件 (すれば):
+    - 譲歩 (だけど):
+- (SV, 分詞構文) の場合
+  - 「そして」             The boy stood on the top of the mountain, looking at the valley below.
+  - 「しながら」           The bee flew from one flower to another collecting pollen.
 
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
