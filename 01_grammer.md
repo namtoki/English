@@ -146,6 +146,14 @@ The question wether
   - 新 (が): There is a book on the table. / There is something mysterious about her.
   - 旧 (は): My book is on the table.
 
+## 否定
+
+- not + 部分 = 全体否定 (either, any, ever)
+- not + 全体 = 部分否定 (all, both, always)
+- 決して〜ではない: far from, anything but
+- できるだけ前に出す: I don't think that he is right.
+
+
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
 - [x] [pronoun] 数量形容詞の代名詞 (両方):          all ~, a lot, none
