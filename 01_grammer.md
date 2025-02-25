@@ -140,6 +140,12 @@ The question wether
     - `Confident` that he was the most qualified of all the candidates, ABC Daily Voice hired him as the new chief editor.
     - `The father of two young girls`, he hopes for more gender equality in the future.
 
+## There 構文
+
+- 新情報をこれから出す合図
+  - 新 (が): There is a book on the table. / There is something mysterious about her.
+  - 旧 (は): My book is on the table.
+
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
 - [x] [pronoun] 数量形容詞の代名詞 (両方):          all ~, a lot, none
