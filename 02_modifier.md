@@ -132,26 +132,28 @@
   - `because of~`                               (が理由で) `Because of` the heavy snow, our flight was delayed.
   - `thanks to~`                                (のおかげで) `Thanks to` the strong yen, we can travel abroad without spending much.
   - `with all`                                  (があるので) `With all` that money, he can do anything
-  - `owing tox`                   のせいで (文頭)             `Owing to` illness, some representatives were absent from ...
-  - `on account ofx`              のせいで (困難 / 文語)      Our flight to Vienna was delayed `on account of` a minor accident.
-  - `due tox`                     のせいで (補語 / 名詞修飾)  I missed school `due to` Covid-19.
-  - `in consequence ofx`          がもとで (堅苦しい)
-  - `as a consequence`            がもとで (堅苦しい)
-- [x] `this is because`             というのも                  I haven't finished my homework. `That is because` I came down with the flu.
-- [x] `the reason being that`       というのも                  `The reason being that,` I didn’t want to relocate.
-- [ ] `for one/another thing`       というのも                  I can't put you up. `For one thing,` my dad drops in on me from time to time.
+  - `owing to`                                  (のせいで (文頭)) `Owing to` illness, some representatives were absent from ...
+  - `on account of`                             (のせいで (困難 / 文語)) Our flight to Vienna was delayed `on account of` a minor accident.
+  - `due to`                                    (のせいで (補語 / 名詞修飾)) I missed school `due to` Covid-19.
+  - `in consequence of`                         (がもとで (堅苦しい))
+  - `as a consequence`                          (がもとで (堅苦しい))
+  - `this is because`                           (というのも) I haven't finished my homework. `That is because` I came down with the flu.
+  - `the reason being that`                     (というのも) `The reason being that,` I didn’t want to relocate.
+  - `for one/another thing`                     (というのも) I can't put you up. `For one thing,` my dad drops in on me from time to time.
 
 ### CONSEQUENCE
 
-- `as a result of`                           (の結果 (因果の間に時間差)) `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-- [x] `as a result`                 その結果                    He didn't work hard and, `as a result`, he failed in the exam.
-- [x] `because of this`             その結果                    I've never been to that place. `Because of this`, I know little about it.
-- [ ] `that's how`                  このようにして              `That's how` we met.
-- [x] `this is why`                 そういうわけで              I came down with the flu. `This is why` I haven't finished my homework.
-- [ ] `That's the way S V`          このやり方が                `That's the way` I like it. / `That's the way` I prefer it.
-- [ ] `consequently`                結果的に                    He made a mistake, and `consequently` lost an opportunity for being promoted.
-- [ ] `for that reason`             そんなわけで
-- [ ] `followed by`                 その後                      Lightning flashed, `followed by` terribly loud thunder.
+- の結果
+  - `because of this`                           (その結果) I've never been to that place. `Because of this`, I know little about it.
+  - `as a result`                               (その結果) He didn't work hard and, `as a result`, he failed in the exam.
+  - `as a result of`                            (因果の間に時間差) `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+  - `consequently`                              (結果的に) He made a mistake, and `consequently` lost an opportunity for being promoted.
+  - `followed by`                               (その後) Lightning flashed, `followed by` terribly loud thunder.
+- 前の文で...だ
+  - `that's how`                                (このようにして) `That's how` we met.
+  - `this is why`                               (そういうわけで) I came down with the flu. `This is why` I haven't finished my homework.
+  - `That's the way S V`                        (このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
+  - `for that reason`                           (そんなわけで)
 
 ### WHEN
 
