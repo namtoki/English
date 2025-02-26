@@ -85,9 +85,21 @@
   - `with O`                                    (があれば) `With` a little luck, we can still make it.
   - `in the long run`                           (長い目で見れば) Bob believes that honesty pays off `in the long run.`
 
-### CONCLUSION
+### CONSEQUENCE
 
-- 前の文を受けて
+- の結果
+  - `because of this`                           (その結果) I've never been to that place. `Because of this`, I know little about it.
+  - `as a result`                               (その結果) He didn't work hard and, `as a result`, he failed in the exam.
+  - `as a result of`                            (因果の間に時間差) `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+  - `consequently`                              (結果的に) He made a mistake, and `consequently` lost an opportunity for being promoted.
+  - `followed by`                               (その後) Lightning flashed, `followed by` terribly loud thunder.
+- 前の文で...だ
+  - `that's how`                                (このようにして) `That's how` we met.
+  - `in this way`                               (このようにして) We should organize the tasks `in this way` to save time.
+  - `thus`                                      (このようにして) Mix the ingredients together, `thus` creating a smooth paste.
+  - `this is why`                               (そういうわけで) I came down with the flu. `This is why` I haven't finished my homework.
+  - `That's the way S V`                        (このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
+  - `for that reason`                           (そんなわけで)
   - `by doing this`                             (そうすることによって)
   - `then`                                      (そうすれば) Do whatever I say. `Then` you will be successful.
   - `in that case`                              (その場合は) `In that case,` I’ll have a beer.
@@ -141,188 +153,178 @@
   - `the reason being that`                     (というのも) `The reason being that,` I didn’t want to relocate.
   - `for one/another thing`                     (というのも) I can't put you up. `For one thing,` my dad drops in on me from time to time.
 
-### CONSEQUENCE
-
-- の結果
-  - `because of this`                           (その結果) I've never been to that place. `Because of this`, I know little about it.
-  - `as a result`                               (その結果) He didn't work hard and, `as a result`, he failed in the exam.
-  - `as a result of`                            (因果の間に時間差) `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-  - `consequently`                              (結果的に) He made a mistake, and `consequently` lost an opportunity for being promoted.
-  - `followed by`                               (その後) Lightning flashed, `followed by` terribly loud thunder.
-- 前の文で...だ
-  - `that's how`                                (このようにして) `That's how` we met.
-  - `this is why`                               (そういうわけで) I came down with the flu. `This is why` I haven't finished my homework.
-  - `That's the way S V`                        (このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
-  - `for that reason`                           (そんなわけで)
-
-### WHEN
-
-- [ ] `at 9:00 am`                  時に
-- [ ] `at dawn`                     夜明けに
-- [ ] `at daybreak`                 夜明けに
-- [ ] `first thing`                 一番に                      I'll see you `first thing` in the morning. / Please get it to me `first thing`
-- [ ] `in the early morning`        早朝に
-- [ ] `in the morning`              午前中に
-- [ ] `bright and early`            朝早くに                    You can get your hands on the product `bright and early`.
-- [ ] `at noon`                     正午に                      I'll be back on Monday `at noon`.
-- [ ] `in the afternoon`            午後に
-- [ ] `in the early evening`        夕方に
-- [ ] `in the evening`              夜に (夕方から夜)
-- [ ] `at night`                    夜に (夜から夜中)
-- [ ] `on (A) days`                 な日に                      I don't close this door `on hot days`.
-- [ ] `on (曜日) (時間帯)`          曜日 (の〜頃)に             I play tennis `on Sundays`. / `on Sunday morning` / `on a hot summer afternoon`
-- [ ] `on weekends`                 週末に                      I often go to the beach `on weekends`.
-- [ ] `over the weekend`            週末に                      I finished reading a book `over the weekend`.
-- [ ] `last/next/this/on Sunday`    の曜日に
-- [ ] `last/next/this/on the weekend`
-- [ ] `last thing at night`         寝る直前に
-- [ ] `every (期間)`                (期間)毎に                  The vehicles are inspected for defects `every three months`.
-- [ ] `every other (期間)`          隔(期間)毎に                I work out at the health club `every other day`.
-- [ ] `every time S V`              するときはいつも            `Every time` you make them, they are perfect.
-- [ ] `when sb was N`               歳で (のときに)
-- [ ] `at N years old`              歳で (のときに)
-- [ ] `at the age of N`             歳で (のときに)
-- [ ] `once`                        したらすぐに                Call me `once` you get home.
-- [ ] `upon/on X/doing`             X してすぐ                  `upon arrival at the company headquarters`
-- [ ] `in the middle of`            の最中に                    He fell asleep `in the middle of` the sales meeting.
-- [ ] `at the same time`            同時に                      It's hard being the writer and an actor `at the same time.`
-- [ ] `for the first time in (N)`   間で初めて                  I'm going to Hawaii `for the first time in` 1 year.
-- [ ] `just before N`               のちょうど前に              will get home sometime `just before` 9pm.
-- [ ] `just after N`                のちょうど後に              will go abroad sometime `just after` Golden Week.
-- [ ] `soon after that`             のすぐ後に                  I found the root cause finally. `Soon after that,` we took countermeasure against that issue.
-- [ ] `N after that`                N 経過後に                  an hour `after that` / two weeks `after that` / a few years `after that`
-- [ ] `quite recently`              ごく最近
-- [ ] `(just) the other day`        つい先日                    I went there `just the other day`!
-- [ ] `a moment ago`                数分前に                    She called `a moment ago` from a taxi.
-- [ ] `so far`                      これまでのところ            `So far` I’m having a blast. The town is wonderful.
-- [ ] `to date`                     これまでのところ            `To date`, the Foos have never won a game.
-- [ ] `until now`                   これまでは (今は逆)         `Until now`, the Foos have never won a game.
-- [ ] `from now on`                 これからは                  I have to cut down on my expenses, `so from now on`, I'm x~
-- [ ] `by now`                      今頃は                      You must be hungry `by now`.
-- [ ] `as of`                       時点で                      `as of` January 2014
-- [ ] `at this point`               ここまできたら              I'm ready to quit `at this point.`
-- [ ] `right away`                  すぐに                      I'll come `right away`.
-- [ ] `any day now`                 今すぐにでも                If possible, I want to go to your side `any day now`, but it's impossible.
-- [ ] `before long`                 もうすぐ                    `Before long`, they will enter a crucial phase.
-- [ ] `in (just) a little bit`      ちょっとしたら              The ambulance will get here `in just a little bit`.
-- [ ] `at some point`               いつか                      We should really clean the fridge `at some point`.
-- [ ] `for years to come`           これから数年                the birthrate will continue to decline steadily `for years to come`.
-- [ ] `for good`                    永久にずっと                We're through `for good` this time.
-- [ ] `by the time S V`             するときまでに              `By the time` I got wake up, the snow had stopped falling.
-- [ ] `no later than N`             までには                    Please hand in your assignment via e-mail `no later than` 500 PM on June 10.
-- [ ] `by N at the latest`          遅くとも                    Please estimate the losses `by Friday at the latest`. I'll manage it somehow.
-- [ ] `until such time as S V`      までの間は                  We are unable to review it `until such time as` we receive that.
-- [ ] `on occasion`                 ときおり
-- [ ] `for the first time`          はじめて                    Last Saturday, I came here `for the first time.`
-- [ ] `time and again`              何度も                      The ecologist has warned us `time and again.`
-- [ ] `around the clock`            四六時中                    They are working `around the clock` looking into the cause of the crash.
-- [ ] `once in a blue moon`         めったにない
-- [ ] `from time to time`           ときおり
-- [ ] `once in a while`             ときおり
-- [ ] `at times`                    ときどき                    `At times` I confuse "curve" with "carve."
-- [ ] `here and there`              ときおり
-- [ ] `now and then`                ときどき                    I must admit we quarrel `every now and then.`
-- [ ] `more often than not`         大半の場合                  `More often than not`, famine is accompanied by plague.
-- [ ] `for (N)s`                    N 間                        I've been working for the company `for 6 months`.
-- [ ] `the entire week`             丸一週間
-- [ ] `tens of minutes`             数十分
-- [ ] `throughout`                  中ずっと                    We plan to celebrate our victory `throughout` the night.
-- [ ] `期間 + into X`               X に入って(期間)で          `Three minutes into the game`, Okazaki scored.
-- [ ] `up-front`                    あらかじめ                  This hotel requires a cash deposit `up-front.`
-- [ ] `in advance`                  あらかじめ
-- [ ] `on short notice`             急に                        I’m sorry, I can’t make it `on such short notice`.
-
-### WHERE
-
-- [ ] `directly accross from`       の真向かいに
-- [ ] `down there`                  あちらの下の方に
-- [ ] `in close quarters`           近い距離で                  It was odd, to be working `in close quarters` after having ...
-
 ### HOW
 
-- [x] `in this way`                 このようにして              We should organize the tasks `in this way` to save time.
-- [ ] `thus`                        このようにして              Mix the ingredients together, `thus` creating a smooth paste.
-- [ ] `lightly`                     そっと                      She seems angry, you should tread `lightly`
-- [ ] `with each passing day/year`  日を追うごとに
-- [x] `back and forth`              行ったり来たり              Bob was pacing `back and forth` along the sidewalk.
-- [ ] `to and fro`                  行ったり来たり              I have been traveling `to and fro` between Canada and the U.K for years.
-- [ ] `somehow`                     どうにかして                Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
-- [ ] `on and off`                  断続的に                    It’s been raining `on and off` all day today.
-- [x] `in a way that V`             という方法で                Some people explain simple things `in a way that` makes it sound complicated.
-- [ ] `in a row`                    連続で                      the unemployment rate has risen three quarters `in a row.`
-- [ ] `by heart`                    暗記で                      First of all, learn the formula `by heart.`
-- [ ] `at the expense of`           犠牲にして                  He got promoted `at the expense of` his colleague.
-- [ ] `amid O`                      フォーマルな during
-
-### AMOUNT
-
-- [ ] `to sb's heart's content`     の気のすむまで              The aristocrats abused their privileges `to their hearts' content.`
-- [x] `to (a certain|some) extent`  ある程度まで                In any case, the union has to compromise `to a certain extent.`
-- [x] `somewhat`                    いくらか                    Strictly speaking, his view differs `somewhat` from mine.
-- [x] `some more`                   もう少し                    I'll think about it `some more.`
-- [ ] `pretty much`                 ほとんど                    This is `pretty much` done.
-
-## EMPHASIS
-
-### SPECIAL
-
-- [ ] `in particular`               特に                        it appears to be attractive to many people, `in particular,` to younger people.
-- [ ] `especially`                  特に                        `Especially,` I am good at French cooking
-- [ ] `above all`                   とりわけ                    `Above all,` scientific terms call for precise definitions.
-- [ ] `among other things`          とりわけ                    I noticed, `among other things`, that he was drunk.
-- [x] `on top of that`              さらに
-- [ ] `to make matters worse`       さらに悪いことに            `To make matters worse,` he isn't even conscious of annoying us.
-- [ ] `what's more`                 さらに良いことに            I met the man by chance. He's gentle and smart. `What's more,` he's single.
-- [ ] `what's worse`                さらに悪いことに
-
-### FEELING
-
-- [ ] `at heart`                    心底                        Since Bob is lazy `at heart`, he frequently neglects his duties.
-- [ ] `in a rage`                   怒って                      "Turn the faucet off!" mom yelled `in a rage.`
-- [ ] `in earnest`                  本格的に                    Japan must undertake sweeping deregulation `in earnest.`
-- [x] `kind of`                     なんか                      I'm `kind of` hungry.
-- [ ] `much to the relief of O`     O が安心したことには、
-- [ ] `no doubt`                    疑いようもなく              His policy will `no doubt` lead to dismal consequences.
-- [ ] `on impulse`                  衝動的に                    I'm apt to buy things `on impulse` whenever something is on sale.
-- [ ] `on purpose`                  わざと                      He made a mistake `on purpose.`
-- [ ] `purposely`                   わざと                      He `purposely` didn't say anything.
-- [x] `in the first place`          そもそも                    Why was he at the party `in the first place?` He wasn't invited, was he?
-- [x] `to be honest`                正直
-- [ ] `The fact is`                 実を言うと                  `The fact is,` I don't have enough money.
+- どれだけ
+  - `to (a certain|some) extent`                (ある程度まで) In any case, the union has to compromise `to a certain extent.`
+  - `to sb's heart's content`                   (の気のすむまで) The aristocrats abused their privileges `to their hearts' content.`
+  - `somewhat`                                  (いくらか) Strictly speaking, his view differs `somewhat` from mine.
+  - `some more`                                 (もう少し) I'll think about it `some more.`
+  - `pretty much`                               (ほとんど) This is `pretty much` done.
+- 手段
+  - `in a way that V`                           (という方法で) Some people explain simple things `in a way that` makes it sound complicated.
+  - `somehow`                                   (どうにかして) Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
+  - `at the expense of`                         (犠牲にして) He got promoted `at the expense of` his colleague.
+  - `by heart`                                  (暗記で) First of all, learn the formula `by heart.`
+- 所作
+  - `lightly`                                   (そっと) She seems angry, you should tread `lightly`
+  - `back and forth`                            (行ったり来たり) Bob was pacing `back and forth` along the sidewalk.
+  - `to and fro`                                (行ったり来たり) I have been traveling `to and fro` between Canada and the U.K for years.
+- 気持ち
+  - `at heart`                                  (心底) Since Bob is lazy `at heart`, he frequently neglects his duties.
+  - `in a rage`                                 (怒って) "Turn the faucet off!" mom yelled `in a rage.`
+  - `in earnest`                                (本格的に) Japan must undertake sweeping deregulation `in earnest.`
+  - `kind of`                                   (なんか) I'm `kind of` hungry.
+  - `much to the relief of O`                   (O が安心したことには、)
+  - `no doubt`                                  (疑いようもなく) His policy will `no doubt` lead to dismal consequences.
+  - `on impulse`                                (衝動的に) I'm apt to buy things `on impulse` whenever something is on sale.
+  - `on purpose`                                (わざと) He made a mistake `on purpose.`
+  - `purposely`                                 (わざと) He `purposely` didn't say anything.
+  - `in the first place`                        (そもそも) Why was he at the party `in the first place?` He wasn't invited, was he?
+  - `to be honest`                              (正直)
+  - `The fact is`                               (実を言うと) `The fact is,` I don't have enough money.
+- 時間関連
+  - `on and off`                                (断続的に) It’s been raining `on and off` all day today.
+  - `in a row`                                  (連続で) the unemployment rate has risen three quarters `in a row.`
+  - `with each passing day/year`                (日を追うごとに)
 
 ### CONTRAST
 
-- [ ] `better than O`               よりもより                  I like vanilla `better than` chocolate.
-- [ ] `more than O`                 よりももっと                I like chocolate `more than` vanilla.
-- [ ] `rather than O`               よりかは                    I like her `rather than` him
-- [ ] `despite O`                   に反して                    `Despite` the risk, I would like to proceed with the plan.
-- [ ] `in spite of O`               に反して                    `In spite of` our compliments, he frowned and turned away. He was so rude.
-- [ ] `for all`                     のに                        I don't feel happy `for all` my success.
-- [ ] `with all`                    のに                        `With all` its faults, it's basically a good plan.
-- [ ] `however much S V`            どれだけしても              `However much` you study, there's always more to learn.
-- [x] `no matter how much S V`      どれだけしても              `No matter how much` I study, I can't improve my English.
-- [ ] `in a departure from O`       から一転して                `In a departure from` his usual manic storytelling pace, director ...
-- [ ] `instead of V-ing`            V する代わりに              We decided to chill at home `instead of` going out.
-- [ ] `when compared to`            と比べて                    Global emissions could rise 1.1 percent this year `when compared to` 2022.
+- `better than O`                               (よりもより) I like vanilla `better than` chocolate.
+- `more than O`                                 (よりももっと) I like chocolate `more than` vanilla.
+- `rather than O`                               (よりかは) I like her `rather than` him
+- `despite O`                                   (に反して) `Despite` the risk, I would like to proceed with the plan.
+- `in spite of O`                               (に反して) `In spite of` our compliments, he frowned and turned away. He was so rude.
+- `for all`                                     (のに) I don't feel happy `for all` my success.
+- `with all`                                    (のに) `With all` its faults, it's basically a good plan.
+- `however much S V`                            (どれだけしても) `However much` you study, there's always more to learn.
+- `no matter how much S V`                      (どれだけしても) `No matter how much` I study, I can't improve my English.
+- `in a departure from O`                       (から一転して) `In a departure from` his usual manic storytelling pace, director ...
+- `instead of V-ing`                            (V する代わりに) We decided to chill at home `instead of` going out.
+- `when compared to`                            (と比べて) Global emissions could rise 1.1 percent this year `when compared to` 2022.
+
+### WHEN
+
+- 時間帯
+  - `at 9:00 am`                                (時に)
+  - `at dawn`                                   (夜明けに)
+  - `at daybreak`                               (夜明けに)
+  - `first thing`                               (一番に) I'll see you `first thing` in the morning. / Please get it to me `first thing`
+  - `in the early morning`                      (早朝に)
+  - `in the morning`                            (午前中に)
+  - `bright and early`                          (朝早くに) You can get your hands on the product `bright and early`.
+  - `at noon`                                   (正午に) I'll be back on Monday `at noon`.
+  - `in the afternoon`                          (午後に)
+  - `in the early evening`                      (夕方に)
+  - `in the evening`                            (夜に (夕方から夜))
+  - `at night`                                  (夜に (夜から夜中))
+  - `last thing at night`                       (寝る直前に)
+- どの日に
+  - `on (A) days`                               (な日に) I don't close this door `on hot days`.
+  - `on (曜日) (時間帯)`                        (曜日 (の〜頃)に) I play tennis `on Sundays`. / `on Sunday morning` / `on a hot summer afternoon`
+  - `on weekends`                               (週末に) I often go to the beach `on weekends`.
+  - `over the weekend`                          (週末に) I finished reading a book `over the weekend`.
+  - `last/next/this/on Sunday`                  (の曜日に)
+  - `last/next/this/on the weekend`             (の週末に)
+- 期間
+  - `for (N)s`                                  (N 間) I've been working for the company `for 6 months`.
+  - `tens of minutes`                           (数十分)
+  - `the entire week`                           (丸一週間)
+  - `throughout`                                (中ずっと) We plan to celebrate our victory `throughout` the night.
+  - `around the clock`                          (四六時中) They are working `around the clock` looking into the cause of the crash.
+  - `期間 + into X`                             (X に入って~~で) `Three minutes into the game`, Okazaki scored.
+  - `on short notice`                           (急に) I’m sorry, I can’t make it `on such short notice`.
+  - `amid O`                                    (フォーマルな during)
+- 過去のいつ頃
+  - `by now`                                    (今頃は) You must be hungry `by now`.
+  - `a moment ago`                              (数分前に) She called `a moment ago` from a taxi.
+  - `(just) the other day`                      (つい先日) I went there `just the other day`!
+  - `quite recently`                            (ごく最近)
+  - `as of`                                     (時点で) `as of` January 2014
+  - `when sb was N`                             (歳で/のときに)
+  - `at N years old`                            (歳で/のときに)
+  - `at the age of N`                           (歳で/のときに)
+  - `up-front`                                  (あらかじめ) This hotel requires a cash deposit `up-front.`
+  - `in advance`                                (あらかじめ)
+- どんなイベントのとき
+  - `once`                                      (したらすぐに) Call me `once` you get home.
+  - `upon/on X/doing`                           (X してすぐ) `upon arrival at the company headquarters`
+  - `in the middle of`                          (の最中に) He fell asleep `in the middle of` the sales meeting.
+  - `at the same time`                          (同時に) It's hard being the writer and an actor `at the same time.`
+  - `just before N`                             (のちょうど前に) will get home sometime `just before` 9pm.
+  - `just after N`                              (のちょうど後に) will go abroad sometime `just after` Golden Week.
+  - `soon after that`                           (のすぐ後に) I found the root cause finally. `Soon after that,` we took ~~~.
+  - `N after that`                              (N 経過後に) an hour `after that` / two weeks `after that` / a few years `after that`
+- 頻度
+  - `every (期間)`                              (~~毎に) The vehicles are inspected for defects `every three months`.
+  - `every other (期間)`                        (隔~~毎に) I work out at the health club `every other day`.
+  - `every time S V`                            (するときはいつも) `Every time` you make them, they are perfect.
+  - `for the first time`                        (はじめて) Last Saturday, I came here `for the first time.`
+  - `for the first time in (N)`                 (間で初めて) I'm going to Hawaii `for the first time in` 1 year.
+  - `on occasion`                               (ときおり)
+  - `from time to time`                         (ときおり)
+  - `once in a while`                           (ときおり)
+  - `at times`                                  (ときどき) `At times` I confuse "curve" with "carve."
+  - `here and there`                            (ときおり)
+  - `now and then`                              (ときどき) I must admit we quarrel `every now and then.`
+  - `more often than not`                       (大半の場合) `More often than not`, famine is accompanied by plague.
+  - `time and again`                            (何度も) The ecologist has warned us `time and again.`
+  - `once in a blue moon`                       (めったにない)
+- 未来に関わる
+  - `at this point`                             (ここまできたら) I'm ready to quit `at this point.`
+  - `so far`                                    (これまでのところ) `So far` I’m having a blast. The town is wonderful.
+  - `to date`                                   (これまでのところ) `To date`, the Foos have never won a game.
+  - `until now`                                 (これまでは/今は逆) `Until now`, the Foos have never won a game.
+  - `from now on`                               (これからは) I have to cut down on my expenses, `so from now on`, I'm x~
+  - `right away`                                (すぐに) I'll come `right away`.
+  - `any day now`                               (今すぐにでも) If possible, I want to go to your side `any day now`, but it's impossible.
+  - `before long`                               (もうすぐ) `Before long`, they will enter a crucial phase.
+  - `in (just) a little bit`                    (ちょっとしたら) The ambulance will get here `in just a little bit`.
+  - `at some point`                             (いつか) We should really clean the fridge `at some point`.
+  - `for years to come`                         (これから数年) the birthrate will continue to decline steadily `for years to come`.
+  - `for good`                                  (永久にずっと) We're through `for good` this time.
+  - `by the time S V`                           (するときまでに) `By the time` I got wake up, the snow had stopped falling.
+  - `no later than N`                           (までには) Please hand in your assignment via e-mail `no later than` 500 PM on June 10.
+  - `by N at the latest`                        (遅くとも) Please estimate the losses `by Friday at the latest`. I'll manage it somehow.
+  - `until such time as S V`                    (までの間は) We are unable to review it `until such time as` we receive that.
+
+### WHERE
+
+- どこに
+  - `directly accross from`                     (の真向かいに)
+  - `down there`                                (あちらの下の方に)
+- 距離感
+  - `in close quarters`                         (近い距離で) It was odd, to be working `in close quarters` after having ...
+
+### 並列
+
+- `in particular`                               (特に) it appears to be attractive to many people, `in particular,` to younger people.
+- `especially`                                  (特に) `Especially,` I am good at French cooking
+- `above all`                                   (とりわけ) `Above all,` scientific terms call for precise definitions.
+- `among other things`                          (とりわけ) I noticed, `among other things`, that he was drunk.
+- `on top of that`                              (さらに)
+- `to make matters worse`                       (さらに悪いことに) `To make matters worse,` he isn't even conscious of annoying us.
+- `what's more`                                 (さらに良いことに) I met the man by chance. He's gentle and smart. `What's more,` he's single.
+- `what's worse`                                (さらに悪いことに)
 
 ## UNCATEGORIZED
 
-- [x] `, each with O`               それぞれが O を持っている   instant cameras, `each with` their own unique shape and design.
-- [ ] `Now that`                    いまや                      `Now that` things are better, we should talk about the problem.
-- [ ] `With the exception of`       を除いて
-- [ ] `and the next thing I knew`   次の瞬間                    I felt dizzy, `and the next thing I knew` I was ...
-- [ ] `and then`                    それから
-- [ ] `at a discount`               割引料金で
-- [ ] `except for`                  を除いて                    The auditorium was empty `except for` a single piece of furniture.
-- [ ] `for the (fun | joy) of it`   趣味として                  I just cook `for the fun of it.`
-- [ ] `in itself`                   それ自体は                  The revolution`in itself`, bore no fruit, after all.
-- [ ] `in place of O`               の代わりに                  I used Knox’s PC `in place of` mine today.
-- [ ] `in support of O`             を支持して                  The newspaper published an editorial `in support of` the new tax plan.
-- [ ] `in the course of`            の過程で                    `In the course of` its economic development, Japan has ...
-- [x] `just as`                     ちょうど同じように          `Just as` in the case of Carpenter's Square, the following relation holds.
-- [ ] `not including`               を含めずに                  I work 8 hours `not including` lunch.
-- [ ] `of all O`                    数ある中で よりによって     `Of all days`, he fell ill on his birthday. / She wants to travel to Antarctic, of all places.
-- [ ] `on average`                  平均すると
-- [ ] `on the grounds of`           という根拠に基づいて        people who are discriminated against `on the grounds of` race, sex, religion.
-- [ ] `on the recommendation of`    の推薦で
-- [ ] `without`                     なしに                      I work 8 hours `without` lunch.
+- `, each with O`                               (それぞれが O を持っている) instant cameras, `each with` their own unique shape and design.
+- `Now that`                                    (いまや) `Now that` things are better, we should talk about the problem.
+- `With the exception of`                       (を除いて)
+- `and the next thing I knew`                   (次の瞬間) I felt dizzy, `and the next thing I knew` I was ...
+- `and then`                                    (それから)
+- `at a discount`                               (割引料金で)
+- `except for`                                  (を除いて) The auditorium was empty `except for` a single piece of furniture.
+- `for the (fun | joy) of it`                   (趣味として) I just cook `for the fun of it.`
+- `in itself`                                   (それ自体は) The revolution`in itself`, bore no fruit, after all.
+- `in place of O`                               (の代わりに) I used Knox’s PC `in place of` mine today.
+- `in support of O`                             (を支持して) The newspaper published an editorial `in support of` the new tax plan.
+- `in the course of`                            (の過程で) `In the course of` its economic development, Japan has ...
+- `just as`                                     (ちょうど同じように) `Just as` in the case of Carpenter's Square, the following relation holds.
+- `not including`                               (を含めずに) I work 8 hours `not including` lunch.
+- `of all O`                                    (数ある中で よりによって) `Of all days`, he fell ill on his birthday. / She wants to travel to Antarctic, of all places.
+- `on average`                                  (平均すると)
+- `on the grounds of`                           (という根拠に基づいて) people who are discriminated against `on the grounds of` race, sex, religion.
+- `on the recommendation of`                    (の推薦で)
+- `without`                                     (なしに) I work 8 hours `without` lunch.
