@@ -153,6 +153,73 @@ The question wether
 - 決して〜ではない: far from, anything but
 - できるだけ前に出す: I don't think that he is right.
 
+## 前置詞
+
+- at (一点)
+  - 位置 `比較的狭い場所を点、目標として`:     We arrived `at` the station in the morning.
+  - 時 `時刻`:                                 The earliest flight departs `at` 8:00 a.m.
+  - 状態 `気分や進行中の活動など`:             He was still `at` work when I called him.
+  - 強い感情の矛先:                          I was surprised `at` his sudden visit.
+  - 割合 `価格 速度 距離など`:                 We decided to set the price `at` $10 each.
+  - 方向 `明確`:                               I looked `at` the clock just before I left my office.
+- by (近くに)
+  - 位置 `のそばに`:                           I lived `by` the sea for a few years.
+  - 経由:                                    Santa comes in `by` the chimney.
+  - 行為者:                                  This was invented `by` Edison.
+  - 手段 方法 `抽象名詞`:                      We can solve the problem `by` doing this.
+  - 基準 `判断の基準や単位`:                   A tree is known `by` its fruits. / Meat is sold `by` the pound at that store.
+  - 時 `までには`:                             I really need to finish the report `by` Monday.
+  - 差で:                                    He won the election `by` a great majority.
+- for (向かって)
+  - 方向 `ざっくり`:                           This train is bound `for` Tokyo.
+  - 賛成/支持:                               Are you `for` or `against` his proposal?
+  - 目的:                                    This chair is designed `for` babies.
+  - 代用:                                    I'll give you my computer `for` your desk.
+  - 理由:                                    Eric was fined `for` a parking violation.
+  - 範囲:                                    Why don't we take a rest and talk `for` a while?
+- from (ある起点からスタートする)
+  - 起点:                                    How far is your office `from` here?
+  - 材料 `分離 原料がその形をとどめていない`:  This paper isn't made `from` trees.
+  - 原因:                                    The delay in deciding which advertising agency to use resulted `from` poor communication between ~~.
+  - 分離 `しない`:                             My poor vision kept me `from` becoming a pilot.
+  - 区別:                                    He is different `from` what he used to be.
+- in (中に)
+  - 位置 `比較的広い場所、中`:                 We have two factories `in` Europe. / Show me what you have `in` your hand.
+  - 着用:                                    The girl over there `in` a red sweater is Mary.
+  - 方角・方位:                              The sun rises `in` the east and sets `in` the west.
+  - 形式:                                    Some shops in Hawaii accept payment `in` yen.
+  - 分野・範囲:                              Australia is rich `in` natural resources, such as iron, coal, and lithium.
+  - 時 `ある程度幅のある期間`:                 Mike said he would visit us `in` the morning.
+  - 時 `後に (未来) / ago の反対`:             The chicken will be ready to eat `in` five minutes.
+  - 状態:                                    I fell `in` love with Kathy.
+  - 方法 範囲:                               `In` that sense / You can contact us `in` two ways.
+  - 形状:                                    There were many people waiting `in` line.
+- of (分離・結合・所有)
+  - 分離:                                    They robbed her `of` her purse.
+  - 結合 `を起源にして, を原因として`:         May I ask a favor `of` you? / We stayed at a hotel within walking distance `of` the beach.
+  - 材料 `原料がその形をとどめている`:         Those glasses are all made `of` crystal.
+  - 部分:                                    Thet's just the tip `of` the iceberg.
+  - の中で:                                  `of all dishes served at the Cafe`, the Chef's Special Pizza is the most popular.
+  - 関連 `think/know/hear 等とともに`:         What do you think `of` the new plan? / writes `of the distant past` / hear `of A` / know `of A`
+  - その他 `性質 年齢 所有 主格 目的 同格..`:  a story `of` love / a girl `of` ten / the love `of` God / the love `of` nature / the island `of` Honshu
+  - 格 `動詞の名詞形 of -> が を`:             The spectators at the side of the road eagerly awaited the approach `of` the ekiden runners.
+  - 格 `抽象名詞 of -> という`:                The idea `of` everyone carrying around their own cup in order to avoid wasting paper cups is gaining popularity.
+- [on] 位置 `接触`:                               There are several pens `on` your desk.
+- [on] 時 `日にち、曜日 (のとある時間帯)`:        The symposium will begin `on` July 15.
+- [on] 支点,依存:                               Lie `on` your belly.
+- [on] 支点,依存:                               Lie `on` your belly.
+- [on] 対象 `に向かって、に対して`:               Someone was tapping `on` the door.
+- [to] 到達点、範囲:                            Is this the way `to` the station?
+- [to] 対象 `にとって、に対して`:                 We should try to be kind `to` others.
+- [to] 結合,一致:                               Please attach the file `to` your e-mail.
+- [to] 比較:                                    I cannot but feel inferior `to` others in my class.
+- [with] 同伴:                                  Will you please dance `with` me?
+- [with] 所有:                                  There was a girl `with` beautiful red hair on the bench.
+- [with] 携帯:                                  I have almost no money `with` me now.
+- [with] 付帯状況:                              Don't talk `with` your mouth full.
+- [with] 道具:                                  I opened the letter `with` a knife.
+- [with] 原因、理由:                            His eyes were glaring `with` excitement.
+
 
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [x] [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~
@@ -198,54 +265,3 @@ The question wether
 - [x] [挿入] that 節をとる S+V:                     前後にカンマを置いて挿入表現となる
 - [ ] 関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
 - [ ] 受動態は極力使用しないほうがいいが、動作主が一般の人々の場合、動作主が自明の場合、強調したい場合、被害、感情は例外
-
-## PREPOSITION
-
-- [x] [at] 位置 `比較的狭い場所を点、目標として`:     We arrived `at` the station in the morning.
-- [x] [at] 時 `時刻`:                                 The earliest flight departs `at` 8:00 a.m.
-- [~] [at] 状態 `気分や進行中の活動など`:             He was still `at` work when I called him.
-- [~] [at] 感情の原因:                              I was surprised `at` his sudden visit.
-- [ ] [at] 割合 `価格 速度 距離など`:                 We decided to set the price `at` $10 each.
-- [ ] [at] 方向 `明確`:                               I looked `at` the clock just before I left my office.
-- [ ] [by] 位置 `のそばに`:                           I lived `by` the sea for a few years.
-- [ ] [by] 時 `までに`:                               I really need to finish the report `by` Monday.
-- [ ] [by] 差で:                                    He won the election `by` a great majority.
-- [ ] [by] 手段 方法:                               We can solve the problem `by` doing this.
-- [~] [by] 基準 `判断の基準や単位`:                   A tree is known `by` its fruits. / Meat is sold `by` the pound at that store.
-- [ ] [for] 方向 `ざっくり`:                          This train is bound `for` Tokyo.
-- [~] [for] 賛成/支持:                              Are you `for` or `against` his proposal?
-- [ ] [for] 目的:                                   This chair is designed `for` babies.
-- [ ] [for] 理由:                                   Eric was fined `for` a parking violation.
-- [ ] [for] 代用:                                   I'll give you my computer `for` your desk.
-- [ ] [for] 範囲:                                   Why don't we take a rest and talk `for` a while?
-- [ ] [from] 起点:                                  How far is your office `from` here?
-- [ ] [from] 差異:                                  He is different `from` what he used to be.
-- [ ] [from] 材料 `原料がその形をとどめていない`:     This paper isn't made `from` trees.
-- [ ] [in] 位置 `比較的広い場所、中`:                 We have two factories `in` Europe. / Show me what you have `in` your hand.
-- [ ] [in] 時 `ある程度幅のある期間`:                 Mike said he would visit us `in` the morning.
-- [ ] [in] 時 `後に (未来)`:                          The chicken will be ready to eat `in` five minutes.
-- [ ] [in] 状態:                                    I fell `in` love with Kathy.
-- [ ] [in] 方法 範囲:                               `In` that sense / You can contact us `in` two ways.
-- [ ] [in] 形状:                                    There were many people waiting `in` line.
-- [ ] [in] 着用:                                    The girl over there `in` a red sweater is Mary.
-- [ ] [of] 分離:                                    May I ask a favor `of` you? / They robbed her `of` her purse.
-- [ ] [of] 部分:                                    Thet's just the tip `of` the iceberg.
-- [ ] [of] 材料 `原料がその形をとどめている`:         Those glasses are all made `of` crystal.
-- [ ] [of] 関連 `think/know/hear 等とともに`:         What do you think `of` the new plan? / writes `of the distant past` / hear `of A` / know `of A`
-- [ ] [of] の中で:                                  `of all dishes served at the Cafe`, the Chef's Special Pizza is the most popular.
-- [ ] [of] その他 `性質 年齢 所有 主格 目的 同格..`:  a story `of` love / a girl `of` ten / the love `of` God / the love `of` nature / the island `of` Honshu
-- [ ] [on] 位置 `接触`:                               There are several pens `on` your desk.
-- [ ] [on] 時 `日にち、曜日 (のとある時間帯)`:        The symposium will begin `on` July 15.
-- [ ] [on] 支点,依存:                               Lie `on` your belly.
-- [ ] [on] 支点,依存:                               Lie `on` your belly.
-- [ ] [on] 対象 `に向かって、に対して`:               Someone was tapping `on` the door.
-- [ ] [to] 到達点、範囲:                            Is this the way `to` the station?
-- [ ] [to] 対象 `にとって、に対して`:                 We should try to be kind `to` others.
-- [ ] [to] 結合,一致:                               Please attach the file `to` your e-mail.
-- [ ] [to] 比較:                                    I cannot but feel inferior `to` others in my class.
-- [ ] [with] 同伴:                                  Will you please dance `with` me?
-- [ ] [with] 所有:                                  There was a girl `with` beautiful red hair on the bench.
-- [ ] [with] 携帯:                                  I have almost no money `with` me now.
-- [ ] [with] 付帯状況:                              Don't talk `with` your mouth full.
-- [ ] [with] 道具:                                  I opened the letter `with` a knife.
-- [ ] [with] 原因、理由:                            His eyes were glaring `with` excitement.

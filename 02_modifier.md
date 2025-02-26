@@ -15,6 +15,9 @@
   - ★ `regarding O`                             (フォーマル) `Regarding` the subject above,,,
   - `with/in regard to O`                       (フォーマル) `With regard to` the notes below
   - `as to O`                                   (フォーマル) discussion `as to` which university is the best university.
+  - ★ `(going) back to O`                       (に戻ると) `Going back to` your question, my answer is no.
+  - `by the way`                                (ところで)
+  - ★ `off-topic, but`                          (話は逸れますが) Bit `off-topic, but` I just finished editing the video.
 - 観点
   - ★ `in terms of O`                           (カジュアル/評価基準) I liked that movie `in terms of` the acting.
   - ★ `from one's point of view`                (カジュアル/主観的) Well, `from my point of view,` some of the new policies are really good.
@@ -24,21 +27,13 @@
   - ★ `from a one's standpoint`                 (フォーマル/実務的) Single track riding can be quite challenging `from a technical standpoint`.
   - `from the perspective of O`                 (フォーマル/客観的) Trends in trade `from the perspective of` production stage.
   - `from one's perspective`                    (フォーマル) Also `from the field’s perspective,` I think ,,,
-- という意味では
-  - `in a (way | sense)`                        (ある意味) Yep, `in a way.`
-  - `in every way`                              (すべてにおいて) That movie was perfect `in every way`.
-- 有効範囲
-  - `O-wise`                                    (カジュアル/文頭はNG) This product is great `cost-wise`.
-  - `for the most part`                         (すべてにおいて) `For the most part,` modernization is identified with westernization.
-  - `as long as S V`                            (する限り) `As long as` you are young, you should experience different things.
-  - `as far as / insofar as S V`                (する範囲では) `As far as` I can see, he will fail the exam again this time.
 - 順序だてる
-  - `to begin with`                             (はじめに) `To begin with,` its theme is obscure.
-  - `first/Most of all`                         (はじめに) `First of all,` learn the formula by heart.
-- ジャンプ
-  - `going back to O`                           (に戻ると) `Going back to` your question, my answer is no.
-  - `by the way`                                (ところで)
-  - `off-topic, but`                            (話は逸れますが) Bit `off-topic, but` I just finished editing the video.
+  - ★ `to begin with`                           (カジュアル/はじめに) `To begin with,` its theme is obscure.
+  - `first/Most of all`                         (フォーマル/はじめに) `First of all,` learn the formula by heart.
+  - ★ `next,`                                   (カジュアル/次に) `Next,` let’s discuss our budget.
+  - ★ `moving on,`                              (カジュアル/次の話題に移ると) `Moving on,` let’s talk about sales.
+  - ★ `let’s move on to`                        (カジュアル/次の話題に移ると) `Let’s move on to` the next question.
+  - `proceeding to`                             (フォーマル/次の話題に移ると) `Proceeding to` the final step, we need to check the results.
 
 ### STANCE
 
@@ -67,6 +62,11 @@
 
 ### CONDITION
 
+- という意味では
+  - `in a (way | sense)`                        (ある意味) Yep, `in a way.`
+  - `in every way`                              (すべてにおいて) That movie was perfect `in every way`.
+  - `for the most part`                         (すべてにおいて) `For the most part,` modernization is identified with westernization.
+  - `O-wise`                                    (カジュアル/文頭はNG) This product is great `cost-wise`.
 - 考慮すると
   - `given that S V`                            (を考慮に入れると) `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
   - `considering that S V`                      (を考慮に入れると)
@@ -84,6 +84,8 @@
   - `with O`                                    (があれば) `With` a little luck, we can still make it.
   - `in the long run`                           (長い目で見れば) Bob believes that honesty pays off `in the long run.`
   - ★ `in V-ing O`                              (V するプロセスの中で) `In making a decision,` I rely not on logic but on instinct.
+  - `as long as S V`                            (する限り) `As long as` you are young, you should experience different things.
+  - `as far as / insofar as S V`                (する範囲では) `As far as` I can see, he will fail the exam again this time.
 
 ### CONSEQUENCE
 
