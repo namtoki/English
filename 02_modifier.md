@@ -5,22 +5,31 @@
 ### TOPIC
 
 - O について
-  - `about O`                                   `About` the food ... it is bad.
-  - `on O`                                      (専門的) thesis `on` education
-  - `speaking of which/O`                       (について言うと) `Speaking of summer,` where did you go this year?
-  - `talking of O`                              (について言うと) `Talking of` soccer, Did you watch the game yesterday?
-  - `as for O`                                  (さっき言った O に関して) `As for` the cost per person
-  - `as to O`                                   (に関して) discussion `as to` which university is the best university.
-  - `concerning O`                              (に関しては) `concerning` the changes that were recently made,,,
-  - `regarding O`                               (に関しては) `Regarding` the subject above,,,
-  - `with/in regard to O`                       (に関しては) `With regard to` the notes below
-  - `when it comes to O`                        (ということになると) `When it comes to` the weather, there’s nothing I can do.
-  - `in V-ing O`                                (するときは) `In making a decision,` I rely not on logic but on instinct.
-- 有効範囲
-  - `for the most part`                         (すべてにおいて) `For the most part,` modernization is identified with westernization.
+  - `speaking of which/O`                       (口語的) `Speaking of summer,` where did you go this year?
+  - `talking of O`                              (口語的) `Talking of` soccer, Did you watch the game yesterday?
+  - ★ `as for O`                                (口語的/話題の切り替え) `As for` the cost per person / `As for me,` I agree with his opinion.
+  - ★ `when it comes to O`                      (口語的) `When it comes to` the weather, there’s nothing I can do.
+  - `about O`                                   (カジュアル/文頭はNG) `About` the food ... it is bad.
+  - `on O`                                      (カジュアル/専門的) thesis `on` education
+  - `concerning O`                              (フォーマル/文頭はNG) There are some concerns `concerning` the new policy
+  - ★ `regarding O`                             (フォーマル) `Regarding` the subject above,,,
+  - `with/in regard to O`                       (フォーマル) `With regard to` the notes below
+  - `as to O`                                   (フォーマル) discussion `as to` which university is the best university.
+- 観点
+  - ★ `in terms of O`                           (カジュアル/評価基準) I liked that movie `in terms of` the acting.
+  - ★ `from one's point of view`                (カジュアル/主観的) Well, `from my point of view,` some of the new policies are really good.
+  - ★ `the way I see it`                        (カジュアル/論理的) `The way I see it`, it's too simplistic to say that ...
+  - `if you ask me`                             (カジュアル/主観的) It was a little long`, if you ask me.`
+  - ★ `personally, in my opinion`               (フォーマル/主観的)
+  - ★ `from a one's standpoint`                 (フォーマル/実務的) Single track riding can be quite challenging `from a technical standpoint`.
+  - `from the perspective of O`                 (フォーマル/客観的) Trends in trade `from the perspective of` production stage.
+  - `from one's perspective`                    (フォーマル) Also `from the field’s perspective,` I think ,,,
+- という意味では
   - `in a (way | sense)`                        (ある意味) Yep, `in a way.`
   - `in every way`                              (すべてにおいて) That movie was perfect `in every way`.
-  - `in terms of O`                             (の点で) I liked that movie `in terms of` the acting.
+- 有効範囲
+  - `O-wise`                                    (カジュアル/文頭はNG) This product is great `cost-wise`.
+  - `for the most part`                         (すべてにおいて) `For the most part,` modernization is identified with westernization.
   - `as long as S V`                            (する限り) `As long as` you are young, you should experience different things.
   - `as far as / insofar as S V`                (する範囲では) `As far as` I can see, he will fail the exam again this time.
 - 順序だてる
@@ -55,16 +64,6 @@
 - どういう文脈で話そうとしているか
   - `in one's defence`                          (言い訳すると) `In my defense,` it was dark and he was a very pretty guy!”
   - `just out of curiosity`                     (単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
-- どういう観点なのか
-  - `O-wise`                                    (的に言うと) `Schedule-wise` it’s getting more difficult.
-  - `as for me`                                 (私にとっては) `As for me,` I agree with his opinion.
-  - `from a one's standpoint`                   (の観点から) Single track riding can be quite challenging `from a technical standpoint`.
-  - `from one's perspective`                    (の観点から) Also `from the field’s perspective,` I think ,,,
-  - `from one's point of view`                  (の観点から) Well, `from my point of view,` some of the new policies are really good.
-  - `from the perspective of O`                 (の観点から) Trends in trade `from the perspective of` production stage.
-  - `if you ask me`                             (私に言わせてみれば) It was a little long`, if you ask me.`
-  - `personally, in my opinion`                 (個人的には)
-  - `the way I see it`                          (私の見解では) `The way I see it`, it's too simplistic to say that ...
 
 ### CONDITION
 
@@ -84,6 +83,7 @@
   - `as it is`                                  (今のところ) `As it is,` ordinary people cannot afford to purchase such luxuries.
   - `with O`                                    (があれば) `With` a little luck, we can still make it.
   - `in the long run`                           (長い目で見れば) Bob believes that honesty pays off `in the long run.`
+  - ★ `in V-ing O`                              (V するプロセスの中で) `In making a decision,` I rely not on logic but on instinct.
 
 ### CONSEQUENCE
 
