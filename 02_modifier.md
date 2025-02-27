@@ -7,6 +7,7 @@
 - どういう文脈で話そうとしているか
   - ★ `if I had to say/guess`                   (強いて言うなら) `If I had to guess,` I would say that she is single.
   - ★ `if I'm not mistaken`                     (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
+  - ★ `if anything`                             (どちらかというと) But now, `if anything,` they are making too much of it.
   - `just out of curiosity`                     (単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
   - `in one's defence`                          (言い訳すると) `In my defense,` it was dark and he was a very pretty guy!”
   - ★ `as/like I was saying`                    (さっき言った通り) Sorry. `As I was saying,` the acting was amazing.
@@ -128,9 +129,9 @@
 ### WHY
 
 - できるように (未来)
-  - `so that S V`                               (するために) Mary spoke loudly `so that` everyone could hear her.
-  - `in order (not) to V`                       (するために) I went to the train station `in order to` buy a ticket.
-  - `in order that S V`                         (するために) Mary spoke loudly `in order that` everyone could hear her.
+  - ★ `so that S V`                             (するために) Mary spoke loudly `so that` everyone could hear her.
+  - ★ `in order (not) to V`                     (するために) I went to the train station `in order to` buy a ticket.
+  - ★ `in order that S V`                       (するために) Mary spoke loudly `in order that` everyone could hear her.
   - `so as (not) to V`                          (堅い表現) She left home early `so as to` avoid traffic congestion.
 - しないように (未来)
   - `in case S V`                               (に備えて) `In case` there's an earthquake, prepare a first-aid kit.
@@ -198,7 +199,6 @@
 
 ### CONTRAST
 
-- `if anything`                               (どちらかというと) But now, `if anything,` they are making too much of it.
 - `better than O`                               (よりもより) I like vanilla `better than` chocolate.
 - `more than O`                                 (よりももっと) I like chocolate `more than` vanilla.
 - `rather than O`                               (よりかは) I like her `rather than` him
