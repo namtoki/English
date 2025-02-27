@@ -189,8 +189,8 @@
   - `on impulse`                                (衝動的に) I'm apt to buy things `on impulse` whenever something is on sale.
   - `on purpose`                                (わざと) He made a mistake `on purpose.`
   - `purposely`                                 (わざと) He `purposely` didn't say anything.
-  - `in the first place`                        (そもそも) Why was he at the party `in the first place?` He wasn't invited, was he?
-  - `to be honest`                              (正直)
+  - ★ `in the first place`                      (そもそも) Why was he at the party `in the first place?` He wasn't invited, was he?
+  - ★ `to be honest`                            (正直)
   - `The fact is`                               (実を言うと) `The fact is,` I don't have enough money.
 - 時間関連
   - `on and off`                                (断続的に) It’s been raining `on and off` all day today.
