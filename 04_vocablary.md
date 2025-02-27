@@ -2,6 +2,8 @@
 
 ## NOUN
 
+- `more of`                                   (どちらかというと) I think he is `more of` an entertainer.
+
 ### ABSTRACT
 
 - [x] `what I meant`                言いたかったこと            `What I meant` was, you should do it carefully.
