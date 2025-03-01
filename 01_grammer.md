@@ -204,21 +204,26 @@ The question wether
   - その他 `性質 年齢 所有 主格 目的 同格..`:  a story `of` love / a girl `of` ten / the love `of` God / the love `of` nature / the island `of` Honshu
   - 格 `動詞の名詞形 of -> が を`:             The spectators at the side of the road eagerly awaited the approach `of` the ekiden runners.
   - 格 `抽象名詞 of -> という`:                The idea `of` everyone carrying around their own cup in order to avoid wasting paper cups is gaining popularity.
-- [on] 位置 `接触`:                               There are several pens `on` your desk.
-- [on] 時 `日にち、曜日 (のとある時間帯)`:        The symposium will begin `on` July 15.
-- [on] 支点,依存:                               Lie `on` your belly.
-- [on] 支点,依存:                               Lie `on` your belly.
-- [on] 対象 `に向かって、に対して`:               Someone was tapping `on` the door.
-- [to] 到達点、範囲:                            Is this the way `to` the station?
-- [to] 対象 `にとって、に対して`:                 We should try to be kind `to` others.
-- [to] 結合,一致:                               Please attach the file `to` your e-mail.
-- [to] 比較:                                    I cannot but feel inferior `to` others in my class.
-- [with] 同伴:                                  Will you please dance `with` me?
-- [with] 所有:                                  There was a girl `with` beautiful red hair on the bench.
-- [with] 携帯:                                  I have almost no money `with` me now.
-- [with] 付帯状況:                              Don't talk `with` your mouth full.
-- [with] 道具:                                  I opened the letter `with` a knife.
-- [with] 原因、理由:                            His eyes were glaring `with` excitement.
+- on (くっついて)
+  - 位置 `接触`:                               There are several pens `on` your desk.
+  - 進行中:                                  Melissa is `on` maternity leave.
+  - について:                                I am writing an article `on` the growth of the vitamin and dietary supplement industry.
+  - 支点,依存:                               Lie `on` your belly.
+  - 時 `日にち、曜日 (のとある時間帯)`:        The symposium will begin `on` July 15.
+  - 対象 `に向かって、に対して`:               Someone was tapping `on` the door.
+- to (に向かって行き着く)
+  - 到達点、範囲:                            Is this the way `to` the station?
+  - したことには:                            `To` her surprise, Haruka received a credit card bill for more than two thousand dollars.
+  - 結合,一致:                               Please attach the file `to` your e-mail.
+  - 対象 `にとって、に対して`:                 We should try to be kind `to` others.
+  - 比較:                                    I cannot but feel inferior `to` others in my class.
+- with (一緒に、を持って)
+  - 道具:                                    I opened the letter `with` a knife.
+  - 同伴:                                    Will you please dance `with` me?
+  - 所有:                                    There was a girl `with` beautiful red hair on the bench.
+  - 携帯:                                    I have almost no money `with` me now.
+  - 付帯状況:                                Don't talk `with` your mouth full.
+  - 原因、理由:                              His eyes were glaring `with` excitement.
 
 
 - [x] [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
