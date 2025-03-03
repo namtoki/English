@@ -89,23 +89,6 @@
   - `How was everything?`                       (お料理はいかがでしたか)
   - `How's your day going?`                     (調子はどう？)
 
-### OPINION (HEAD)
-
-- トピック
-  - `You know how S V?`                         (じゃん？) `You know how` I've been looking for a new TV for a while?
-- 予防線を張る
-  - `This might be just me, but`                (自分だけかもしれないけど)
-  - `Don't get me wrong, but`                   (誤解しないでほしいんだけど)
-  - `It may sound like O, but`                  (O と聞こえるかもだが) `It may sound like` I'm being self-centered here,
-  - `You'd think (that) S V, but`               (S V 思うかもしれないですが) `You'd think` Japan would be really technologically advanced, but ,,,
-  - `I hate to admit it, but`                   (認めたくないけど) `I hate to admit it, but` I might need your help.
-- 反論
-  - ★ `That's a fair point, but`                (それはもっともですが、)
-- お願い
-  - `I hope I'm not interrupting you`           (迷惑でなければいいのですが)
-  - `I hope you don't mind if`                  (迷惑でなければいいのですが) `I hope you don't mind if` I eat while we talk.
-  - `I'd like to ask you a favor.`              (お願いしてもいいですか)
-
 ### OPINION
 
 - [x] `It's C how S V`                      S V は C と思う             `It's interesting how` you said that.

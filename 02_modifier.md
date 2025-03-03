@@ -4,15 +4,30 @@
 
 ### HEAD
 
-- どういう文脈で話そうとしているか
+- 強いこだわりが無いとき
   - ★ `if I had to say/guess`                   (強いて言うなら) `If I had to guess,` I would say that she is single.
-  - ★ `if I'm not mistaken`                     (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
   - ★ `if anything`                             (どちらかというと) But now, `if anything,` they are making too much of it.
-  - `just out of curiosity`                     (単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
-  - `in one's defence`                          (言い訳すると) `In my defense,` it was dark and he was a very pretty guy!”
+  - ★ `just out of curiosity`                   (単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
+- どういう文脈で話そうとしているか
   - ★ `as/like I was saying`                    (さっき言った通り) Sorry. `As I was saying,` the acting was amazing.
   - ★ `as/like you said`                        (あなたが言ったように)
   - `as sb anticipated`                         (予測していた通り) `As we anticipated,` the unemployment rate has risen ....
+- トピック
+  - `You know how S V?`                         (じゃん？) `You know how` I've been looking for a new TV for a while?
+- 予防線を張る
+  - ★ `if I'm not mistaken`                     (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
+  - `in one's defence`                          (言い訳すると) `In my defense,` it was dark and he was a very pretty guy!”
+  - `This might be just me, but`                (自分だけかもしれないけど)
+  - `Don't get me wrong, but`                   (誤解しないでほしいんだけど)
+  - `It may sound like O, but`                  (O と聞こえるかもだが) `It may sound like` I'm being self-centered here,
+  - `You'd think (that) S V, but`               (S V 思うかもしれないですが) `You'd think` Japan would be really technologically advanced, but ,,,
+  - `I hate to admit it, but`                   (認めたくないけど) `I hate to admit it, but` I might need your help.
+- 反論
+  - ★ `That's a fair point, but`                (それはもっともですが、)
+- お願い
+  - `I hope I'm not interrupting you`           (迷惑でなければいいのですが)
+  - `I hope you don't mind if`                  (迷惑でなければいいのですが) `I hope you don't mind if` I eat while we talk.
+  - `I'd like to ask you a favor.`              (お願いしてもいいですか)
 
 ### TOPIC
 
