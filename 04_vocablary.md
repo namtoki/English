@@ -2,22 +2,25 @@
 
 ## NOUN
 
-- `more of`                                   (どちらかというと) I think he is `more of` an entertainer.
-
 ### ABSTRACT
 
 - なもの
-  - `a feature where S V`                       (S V のような機能) This app has `a feature where` you can edit photos easily.
-- [x] `what I meant`                言いたかったこと            `What I meant` was, you should do it carefully.
-- [x] `the thing that S V`          S が V するもの             `The thing that you use` to see the stars.
-- [x] `something S V`               S が V するようなもの       This is `something a lot of people don't consider`.
-- [x] `S V-ing`                     S が V すること             `My dog barking` like that is a bit weird.
-- [x] `O that S think V`            S が V と思う O             `A movie that I think is a classic example of a mafia film` is The Godfather.
-- [ ] `the best S can V`            S が V できる最大限のこと   That's `the best we can say` at this point in time.
-- [ ] `the kind of thing that V`    V するようなもの            This is `the kind of thing that makes me really happy`.
-- [x] `equivalent of O`             O 同等のもの                They are the functional `equivalent of` gods.
-- [x] `things like O`               O みたいなもの              `Things like` party hats, paper plates and napkins.
-- [ ] `O kind of thing`             O みたいなもの              This is a flip phone `kind of thing` but a bit different.
+  - FAVORITE
+    - ★ `S V-ing`                               (S が V すること) `My dog barking` like that is a bit weird.
+    - ★ `a feature where S V`                   (S V のような機能) This app has `a feature where` you can edit photos easily.
+    - ★ `O that S think V`                      (S が V と思う O) `A movie that I think is a classic example of a mafia film` is The Godfather.
+  - WHAT
+    - `what I meant`                            (言いたかったこと) `What I meant` was, you should do it carefully.
+  - THING (特定のもの)
+    - `(some)thing(s) that (S) V`               (S が V するもの) `The thing that you use` to see the stars.
+    - `(some)thing(s) like O`                   (O みたいなもの) `Things like` party hats, paper plates and napkins. / This is `something a lot of people don't consider`.
+  - THING (類のもの )
+    - `the kind of thing that (S) V`            (S が V するような類のもの) This is `the kind of thing that makes me really happy`.
+    - `the kind of thing like O`                (O みたいな類のもの)
+    - `O kind of thing`                         (O みたいなもの) This is a flip phone `kind of thing` but a bit different.
+  - `the best S can V`                          (S が V できる最大限のこと) That's `the best we can say` at this point in time.
+  - `equivalent of O`                           (O 同等のもの) They are the functional `equivalent of` gods.
+
 - [ ] `O of a kind/sort`            O ある種の
 - [ ] `some kind of O`              O ある種の                  He was born with `some kind of` special talent. / `some kind of` sport
 - [ ] `some kinds of O`             O あらゆる                  amplify the effects of `some kinds of` pollution
@@ -108,6 +111,8 @@
 - [ ] `scorching`                   焼きつくような              It's `scorching hot` today.
 - [ ] `boiling`                     うだるような                This room is `boiling hot`.
 - [ ] `no more than`                = only
+- `more of`                                   (どちらかというと) I think he is `more of` an entertainer.
+
 
 ### DESCRIPTIVE
 
