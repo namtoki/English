@@ -40,6 +40,7 @@
   - `What's your take on O?`                    (どう思う？) `What's your take on` the new iPhone?
   - `Any thoughts on O?`                        (何か意見ある？)
   - `What are the chances that S V?`            (S V の可能性はどれくらい？) `What are the chances that` the meeting will finish early?
+  - `Should the focus be on A or B?`            (A, B どちらに重点を置きますか？) `Should the focus be on` product quality `or on` cost reduction?
 - 要望を聞く
   - `Would you rather V or V?`                  (どちらをしたいですか？) `Would you rather stay home or go out tonight?`
   - `Would you prefer to V or V?`               (どちらをしたいですか？) `Would you prefer to stay home or go out?`
@@ -90,6 +91,12 @@
   - `How's your day going?`                     (調子はどう？)
 
 ### OPINION
+
+- 前提
+  - `I can't say for sure until S V`            (S V するまで正確なことは言えない) `I can't say for sure until` I check the details.
+  - `Of course, I'm sure S V`                   (もちろん S V ということは承知している) `Of course, I’m sure` there are some app-side limitations too.
+- おけ
+  - `I'm fine with O`                           (O で構わない) Personally, `I’m fine with` keeping it as 'Immersion' or redefining it as one of the bands in the existing ProEQ.
 
 - [x] `It's C how S V`                      S V は C と思う             `It's interesting how` you said that.
 - [ ] `It feels like O`                     O のように感じる            I remember my first day of high school. `It feels like` yesterday.

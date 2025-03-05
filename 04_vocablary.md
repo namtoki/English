@@ -6,6 +6,8 @@
 
 ### ABSTRACT
 
+- なもの
+  - `a feature where S V`                       (S V のような機能) This app has `a feature where` you can edit photos easily.
 - [x] `what I meant`                言いたかったこと            `What I meant` was, you should do it carefully.
 - [x] `the thing that S V`          S が V するもの             `The thing that you use` to see the stars.
 - [x] `something S V`               S が V するようなもの       This is `something a lot of people don't consider`.
@@ -402,3 +404,6 @@
 - [ ] `beside the point`            的外れの / I agree he has had an unfortunate life, but that's `beside the point`.
 - [ ] `traffic is backed up`                       渋滞している
 - [ ] `it's clearing up`                           晴れてきた
+
+- に寄与する                                    If I'm not mistaken, limiting the number of characters `helps with` power saving.
+                                                That’s because when a device advertises itself, more characters mean more data to transmit.
