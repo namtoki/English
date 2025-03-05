@@ -71,3 +71,38 @@ Uma
 >
 > What about yours?
 > What's your personal connection to food?
+
+Jonkung
+> My personal connection to food, (as you said,) it is an expression of my creativity,  `名詞, M, it V`
+> but
+> it is also a way that we express our culture
+>            and
+>            a way that we `pass down` our culture.
+>
+> So
+> (growing up in Hong Kong as well as Toronto,)
+> food was very much a way that I `was attached to` the things that my parents loved as well as my grandparents.
+>
+> Um,
+> My own `grasp on` Cantonese language is very, very, weak.
+> (because of all the traveling that we did when I was younger
+>
+> So
+> I felt like relearning cultural dishes was a way that I would easily `get in contact with` my roots.
+> (`without having to` learn a language)
+
+Uma
+> What did food mean to you when you were growing up in Hong Kong?
+
+Jonkung
+> (I mean,) (food,) I was very, very blessed.                                       `ええと I mean` `名詞のみで話題を示す`
+> Hong Kong, as is India, has a very rich culinary history.
+>                         and
+>                         actually shares a little similar ones in terms of,
+>                         (I would guess)
+
+Uma
+> Is it the spices?                                                                     `Is it O?`
+
+Jonkung
+> Well, `imperialism`.
