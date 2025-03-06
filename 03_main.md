@@ -36,6 +36,7 @@
 ### INTERJECTIONS
 
 - 感嘆
+  - `How can I put this?`                       (なんて言えばいいかな)
 - [ ] `why`                                 おや
 - [ ] `You know what`                       あのさ                      `You know what,` I'm going to get an ice cream cone.
 - [ ] `I know!`                             あ、そうだ                  `I know!` Let's go bowling.
@@ -195,11 +196,16 @@
 - 前提
   - ★ `I can't say for sure until S V`          (S V するまで正確なことは言えない) `I can't say for sure until` I check the details.
   - ★ `Of course, I'm sure S V`                 (もちろん S V ということは承知している) `Of course, I’m sure` there are some app-side limitations too.
+  - ★ `I see your point, but`                   (仰ることは分かります) `I see your point, but` I have a slightly different view.
+  - ★ `I’m not sure I follow`                   (理解が追いついていません) `I’m not sure I follow.` Could you elaborate?
+  - `You might wonder O`                        (気になるかもしれないね) `You might wonder` why that is so.
 - 可能性
   - ★ `It could be (that) S V`                  (S V かもしれない) `It could be that` Wayne's just naturally fit, but ,,,
   - `Chances are (that) S V`                    (S V の可能性がある) It's foggy. But `chances are` it'll clear up later on.
 - 賛成/反対
+  - ★ `I agree with you`                        (同意します) `I totally agree with you` on that.
   - ★ `I'm fine with O`                         (O で構わない) Personally, `I’m fine with` keeping it as 'Immersion' or redefining it as one of the bands in the existing ProEQ.
+  - ★ `any O will do as long as S V`            (S V 限り O で良い) `Any apartment will do as long as` the rent is low.
   - `It depends O`                              (O による) `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
 - と考える
   - ★ `It's C how S V`                          (S V は C と思う) `It's interesting how` you said that.
@@ -216,7 +222,11 @@
   - `It feels like O`                           (O のように感じる) I remember my first day of high school. `It feels like` yesterday.
   - `It seems like S V`                         (S V のように見える) `It seems like` it's a mixture of two languages.
   - `It seems as if/though S V`                 (まるで S V のように見える) `It seems as if` he knew everything.
+  - `I can still just about V`                  (いまでも十分 V できる) `I can still just about` remember my first day as a trainee but as of today
+  - `I can't tell you how much S V`             (言い表せないくらい S V だ) `I can't tell you how much` I loved it.
 - 補足
+  - `I didn't mean it`                          (そんなつもりはなかった)
+  - `~~. That's not to say (that) S V`          (S V というわけではない) `That's not to say that` it'll be impossible without it, but,,,
   - `It's like O`                               (O みたいなものだ) `It's like` surfing on land.
   - `It's kind of like O`                       (O みたいなものだ) `It's kind of like` a noodle, but not exactly.
   - `It’s almost like O`                        (ほぼ O みたいなものだ) `It’s almost like` Christmas.
@@ -243,10 +253,7 @@
   - `It's traditional to V`                     (V する習慣だ) In Japan, `it's traditional to` visit ...
 
 
-- [ ] `I can still just about V`            いまでも十分 V できる       `I can still just about` remember my first day as a trainee but as of today
-- [x] `I can't remember`                    思い出せない
-- [ ] `I can't tell you how much S V`       言い表せないくらい S V だ   `I can't tell you how much` I loved it.
-- [ ] `I didn't mean it`                    そんなつもりはなかった
+
 - [ ] `I don't care for O`                  特に好きではない            `I don't care for` spicy food.
 - [ ] `I don't remember`                    覚えていない
 - [x] `I doubt (that) S V`                  S V ではないと思っている    `I doubt that` he will win the race.
@@ -301,8 +308,3 @@
 - [ ] `There's a low/little chance of O`    の可能性が低い              `There's a low chance of` rain tonight.
 - [ ] `Turns out S V`                       S V ということがわかった    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [ ] `We'll see whether S V`               S V か確かめよう            `We'll see whether` the newspapers print the story.
-- [ ] `You might wonder O`                  気になるかもしれないね      `You might wonder` why that is so.
-- [ ] `any O will do as long as S V`        S V 限り O で良い           `Any apartment will do as long as` the rent is low.
-- [ ] `keep one's chin up`                  元気を出してがんばれ
-- [ ] `~~. That's not to say (that) S V`    S V というわけではない      `That's not to say that` it'll be impossible without it, but,,,
-- `That's the way S V`                        (このやり方が) `That's the way` I like it. / `That's the way` I prefer it.

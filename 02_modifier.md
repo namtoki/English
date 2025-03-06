@@ -118,6 +118,7 @@ except that
   - ★ `that way`                                (カジュアル/ゆえに) Leave early. `That way`, you won’t be late.
   - `thus`                                      (フォーマル/そうすれば) Mix the ingredients together, `thus` creating a smooth paste.
   - `then`                                      (そうすれば) Do whatever I say. `Then` you will be successful.
+  - `That's the way S V`                        (このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
 - なので
   - ★ `so`                                      (カジュアル/だから) He didn’t study, `so` he failed the exam.
   - ★ `that's why`                              (カジュアル/だから) He didn’t study. `That’s why` he failed the exam.

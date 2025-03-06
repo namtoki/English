@@ -412,3 +412,4 @@
 
 - に寄与する                                    If I'm not mistaken, limiting the number of characters `helps with` power saving.
                                                 That’s because when a device advertises itself, more characters mean more data to transmit.
+- [ ] `keep one's chin up`                  元気を出してがんばれ
