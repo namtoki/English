@@ -5,28 +5,31 @@
 ### Transparency
 
 Me
-> I'll (just) be giving a `straightforward` status update from my side.
->
+> (As I shared last week,)
+> it’s just that I'll continue digging into its feasibility by the end of MS3.
+
+Me
+> Do you want me to explain it again?
+> Sure.
+
+Me
 > (In the last meeting,)
 > I reported that
 >   Airoha doesn’t support transitioning to Transparency Mode via Voice Trigger for now.
 >
-> So,
-> I’ve updated the task status for Quick Transparency Mode from "doing" to "later."
+> So
+> I’ll also ask ODM vendors if they can implement it and how to implement it.
 >
-> And
-> I’ll keep checking with Airoha on when they might support this,
 > and
-> I’ll also ask various ODM vendors if they can implement it.
-> 
-> (That said,)
 > Eastech has already confirmed they can,
 > and
 > (given Airoha’s chip architecture includes a hardware accelerator for voice detection,)
 > it should be possible (at the end of the day).
->
-> So
-> I'm also working on getting confirmation from Fujikon regarding feasibility.
+> 
+> And
+> I’ll keep checking with Airoha on when they might support this,
+> Also
+> I'm working on getting confirmation from ODM vendors regarding feasibility of it.
 
 ## 20250303
 

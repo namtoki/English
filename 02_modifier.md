@@ -46,6 +46,9 @@
   - `by the way`                                (ところで)
   - ★ `off-topic, but`                          (話は逸れますが) Bit `off-topic, but` I just finished editing the video.
 - 観点
+in that
+except that
+副詞節の that は結果程度理由
   - ★ `in terms of O`                           (カジュアル/評価基準) I liked that movie `in terms of` the acting.
   - ★ `from one's point of view`                (カジュアル/主観的) Well, `from my point of view,` some of the new policies are really good.
   - ★ `the way I see it`                        (カジュアル/論理的) `The way I see it`, it's too simplistic to say that ...
@@ -138,6 +141,13 @@
 - いいよね？
   - ★ `if it works for you`                     (都合が良ければ) So I’ll see you at 7, `if it works for you.`
   - ★ `if you don't mind`                       (もしよろしければ) I have a suggestion`, if you don't mind.`
+- [ ] `you know what I mean?`               言ってることわかります？
+- [ ] `if that makes sense.`                言ってることわかります？    I really enjoyed the song for its lyrics`, if that makes sense.`
+- [ ] `or what?`                            それとも違う？              Are we gonna have fun`, or what?`
+- [ ] `or not really?`                      それとも違う？              Do you like this kind of music`, or not really?`
+- [ ] `is that right?`                      合ってます？
+- [ ] `What's the word for it?`             何ていうんだっけ            I need something to mix the soup... `What's the word for it?` Ah, a ladle!
+
 
 ## SUPPLEMENT
 

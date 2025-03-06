@@ -15,7 +15,7 @@
   - `I can't see O.`                            (O が見えません) `I can't see` you / `I can't see` the material.
   - `I was on mute`                             (ミュートでした)
   - ★ `Could you go over it again?`             (もう一度言ってもらえませんか？)
-  - ★ `Could you make O bigger?`                (大きくしてもらっていいですか？) `Could you make the material/notes bigger`?
+  - `Could you make O bigger?`                  (大きくしてもらっていいですか？) `Could you make the material/notes bigger`?
   - `Could you type it in the chat?`            (チャットに書いてもらってもいいですか？)
 - 急ぎではないことを伝える
   - `Take your time with O`                     (ゆっくり取り組んでいいよ) `Take your time with` this project.
@@ -100,10 +100,10 @@
 - どういたしまして
   - `Happy to help`                             (Casual) Thanks for reading my outline. `Happy to help!`
   - `You bet.`                                  (Casual Slung)
-  - `Anytime`                                   (Casual)
-  - `No problem/worries`                        (Casual)
+  - ★ `Anytime`                                 (Casual)
+  - ★ `No problem/worries`                      (Casual)
   - `Not at all`                                (Business / Casual)
-  - `Don't mention it`                          (Business)
+  - ★ `Don't mention it`                        (Business)
   - `My pleasure`                               (Formal)
 - 軽い返答
   - `You flatter me.`                           (お世辞でも嬉しいです)
@@ -131,7 +131,7 @@
   - `Do/Would you happen to know O?`            (ご存知ですか？) `Do you happen to know` when the report is due?
   - `You know O?`                               (知っていますか？) `You know` our budget presentation today? / `You know` that guy we met ...?
   - `Did you hear O?`                           (聞きました？) `Did you hear` about Kim? She got promoted.
-  - `Do you remember that O?`                   (覚えている？) `Do you remember that` bike at ABC Departmment Store?
+  - `Do you remember that O?`                   (覚えている？) `Do you remember that` bike at ABC Department Store?
 - 意見を聞く
   - `What do you think about O?`                (どう思いますか) `What do you think about` moving to Osaka?
   - `How do you feel about O?`                  (どう思いますか) `How do you feel about` the service in Japan?
@@ -196,7 +196,8 @@
   - ★ `I can't say for sure until S V`          (S V するまで正確なことは言えない) `I can't say for sure until` I check the details.
   - ★ `Of course, I'm sure S V`                 (もちろん S V ということは承知している) `Of course, I’m sure` there are some app-side limitations too.
 - 可能性
-  - `It could be (that) S V`                    (S V かもしれない) `It could be that` Wayne's just naturally fit, but ,,,
+  - ★ `It could be (that) S V`                  (S V かもしれない) `It could be that` Wayne's just naturally fit, but ,,,
+  - `Chances are (that) S V`                    (S V の可能性がある) It's foggy. But `chances are` it'll clear up later on.
 - 賛成/反対
   - ★ `I'm fine with O`                         (O で構わない) Personally, `I’m fine with` keeping it as 'Immersion' or redefining it as one of the bands in the existing ProEQ.
   - `It depends O`                              (O による) `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
@@ -293,7 +294,6 @@
 - [ ] `S V-ing, that'd be C`                S が V するとすれば C だね  `A Starbucks opening right next to my apartment, that'd be` amazing.
 - [ ] `S V. That I V`                       S V これには V だね         Yes, we need to spend less money.`That I` agree with.
 - [ ] `You know as well as I do that S V`   ご存じかと思いますが S V    `You know as well as I do that` this is very important.
-- [ ] `Chances are (that) S V`              S V の可能性がある          It's foggy. But `chances are` it'll clear up later on.
 - [ ] `I don't know the first thing about O`O ついてちっともわからない  I don't know`the first thing about` writing movies.
 - [ ] `The same is the case with O`         同じことが O にも言える     `The same is the case with` "hear" and "about".
 - [ ] `There're times when S V`             S V なことがある            `There're times when I crave` a Starbucks Frappuccino really badly.
@@ -306,13 +306,3 @@
 - [ ] `keep one's chin up`                  元気を出してがんばれ
 - [ ] `~~. That's not to say (that) S V`    S V というわけではない      `That's not to say that` it'll be impossible without it, but,,,
 - `That's the way S V`                        (このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
-
-### OPINION (TAIL)
-
-- [ ] `you know what I mean?`               言ってることわかります？
-- [ ] `if that makes sense.`                言ってることわかります？    I really enjoyed the song for its lyrics`, if that makes sense.`
-- [ ] `or what?`                            それとも違う？              Are we gonna have fun`, or what?`
-- [ ] `or not really?`                      それとも違う？              Do you like this kind of music`, or not really?`
-- [ ] `is that right?`                      合ってます？
-- [ ] `What's the word for it?`             何ていうんだっけ            I need something to mix the soup... `What's the word for it?` Ah, a ladle!
-
