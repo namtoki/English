@@ -1,5 +1,32 @@
 # Meeting
 
+## 20250310
+
+Small Talk
+> Hey, can you hear me?
+> Good.
+> Did you have a good weekend?
+
+Start
+> Okay, I think we’ve got everyone here. Let’s get started.
+
+Preface
+> The main purpose of today’s meeting is to `address` each other’s questions,
+> but
+> I also see this as an opportunity for us to get to know each other for future collaboration.
+>
+> (Of course,)
+> we’ll `go over` the Excel file you answered the other day,
+> but
+> we also want to clarify as much as possible any unanswered parts from this Q&A list.
+>
+> Any questions?
+
+And feel free to discuss anything else as well!
+
+Introduction
+> 
+
 ## 20250306
 
 ### Transparency
