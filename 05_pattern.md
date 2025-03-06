@@ -126,3 +126,39 @@ Jonkung
 >
 > And (by that,)
 > I taught myself how to cook.
+
+Uma
+> So
+> was that experience one of those formative ones that made you say, "I want to cook in America"?
+
+Jonkung
+> Yeah
+> The biggest reason was (because)  `because は文法的には不要だが、口語ではよく挿入される`
+>   where I was living,
+>   where I do live now,
+>   Detroit,
+>     (at the time)                 `S (M) V が口語で多用されることがわかる`
+>     didn't have a lot of options for traditional Cantonese food that I missed.
+> 
+> So
+> out of necessity, which,
+> (as I think like,)
+>   is a very common thread among a lot of students from Asia,
+>   is like they teach themselves how to cook
+>     because
+>       where they end up for school doesn't offer the food that they miss from home.
+
+
+✅ "For me, which is surprising, the test was actually easy."
+（私にとっては、驚くことに、そのテストは実際簡単だった。）
+
+→ "For me"（私にとっては）を "which" で受けて説明している。
+例②（話し言葉）
+
+✅ "With all the stress, which I know is a lot, she still manages to smile."
+（あれだけのストレスがあるのに、それでも彼女は笑顔を保っている。）
+
+→ "With all the stress"（あれだけのストレス）を "which" で受けて補足説明。
+例③（カジュアルな会話）
+
+✅ "After the long trip, which was exhausting, we finally arrived at the hotel."
