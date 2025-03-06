@@ -106,3 +106,23 @@ Uma
 
 Jonkung
 > Well, `imperialism`.
+>
+> Yes. Yeah but
+> our appreciation for spices and flavors.
+> there's an internationality that was brought into there.
+>
+> So
+> I `was very spoiled for choice` (in terms of what good food is).
+>
+> and
+> I used that memory to, (kind of like,) craft my entire skill set
+> because
+>   I'm `self-taught`,
+>   and
+>   I had nothing to `go off of` except my earlier experiences with food.
+>
+> So (luckily, like)
+> Hong Kong taught me how to eat.
+>
+> And (by that,)
+> I taught myself how to cook.
