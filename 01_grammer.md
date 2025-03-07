@@ -13,7 +13,8 @@
 something to the effect that のようなこと
 
 副詞節の that
-    その結果,,, / ,,,なくらい / 根拠としては,,,
+    so ~ that: その結果,,, / ,,,なくらい / 根拠としては,,,
+    それ以外:  根拠としては,,,
 
 The question wether
 

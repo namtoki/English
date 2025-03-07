@@ -8,7 +8,8 @@ Small Talk
 > Did you have a good weekend?
 
 Start
-> Okay, I think we’ve got everyone here. Let’s get started.
+> (Okay,)
+> I think we’ve `got everyone here`. Let’s get started.
 
 Preface
 > The main purpose of today’s meeting is to `address` each other’s questions,
@@ -20,12 +21,92 @@ Preface
 > but
 > we also want to clarify as much as possible any unanswered parts from this Q&A list.
 >
+> And `feel free to` discuss anything else as well!
+>
 > Any questions?
 
-And feel free to discuss anything else as well!
-
 Introduction
+> (Alright,)
+> (first,)
+> let us introduce ourselves from the Masimo side.
+>
+> (That said,)
+> it’ll just be a quick intro where we show our faces, mention our names, and briefly share our background related to TWS.
+>
+> ...
+>
+> (So,)
+> (as for our background in TWS development,)
+> Kuroishi-san and I have some experience with Qualcomm, though we can’t share specific product details.
+>
+> (As for Airoha,)
+> we’re just getting started with it.
+> We’ve been `going through` the documentation and SDK, (and recently,) we’ve been trying to get the EVK up and running.
+>
+> (That said,)
+> everyone here has experience working on our AV receivers and HiFi products, of course.
+>
+> (`And with that,`)
+> could you guys from the Eastech side introduce yourselves?
+> Just your names and faces `are totally fine`!
+
+Dive
+> Okay, let’s `jump into` the main topic.
+
+Q&A Overview
+> (First off,)
+> I just realized that
+>   there were some questions in the Q&A sheet that we hadn’t responded to.
+> My apologies for that.
+>
+> I'll answer them now.
+>
+> ...
+
+Move on to Core questions
+> So let's move on to "Core Questions"
+
+Bluetooth
+> And
+> about the Bluetooth versions,
+> thanks for the answers.
+>
+> Kato-san, do you have any thoughts on this?
+> We don’t actually need LC3-SuperWideBand to work `over` Classic, right?
+> And there's no specific need to support PXP either, correct?
+>
+> 加藤さんのターン
+>
+> Got it.
+>
+> 〇〇san,
+> I asked those questions,
+> (but just to clarify,)
+> there's no actual requirement to support LC3-SWB on Classic,
+> and
+> PXP isn't something we need to handle at this point.
+> My bad for bringing it up.
 > 
+> (By the way,)
+> is there a way to check a list of supported profiles somewhere?
+> Would it be in the **SDK documentation** or something?
+>
+> (Yeah, as far as I know,)
+> there aren't really any earbuds or headphones that officially support **AAC-ELD**, right?
+> I think it's safe to say it's **not supported**, and that shouldn't be an issue.
+> What do you think, Kato-san?
+>
+> Alright,
+> this is my last question about Bluetooth.
+> Regarding **line 16**,
+>
+> let me clarify the question.
+> **If a user buys the product and later loses one of the buds,
+> can we send the user a replacement bud and have them pair it with the remaining one by themselves?**
+>
+> From what I understand,
+> this would be difficult due to **LE Audio-related keys** or something like that.
+> Does that sound right? What do you think?
 
 ## 20250306
 
