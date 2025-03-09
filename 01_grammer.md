@@ -1,22 +1,82 @@
 # GRAMMER
 
-確定した公的な未来 現在形 The train arrives at eight.
-進行している私的な未来 進行形 The couple are marrying next month.
+## 動詞の時制
 
-等位接続詞
-    SV, and SV / SV, but SV / SV, for SV    before
-    (and) so / (and) yet
-従属接続詞
-    時、条件、対比、譲歩、理由
-同格の that, 関係代名詞の that どっちを使う？
-    同格の that: 事実、認識、可能性系統の名詞
-something to the effect that のようなこと
+-    The train arrives at eight.                          `[現在形] 確定した公的な未来 `
+-    The couple are marrying next month.                  `[進行形] 進行している私的な未来`
 
-副詞節の that
-    so ~ that: その結果,,, / ,,,なくらい / 根拠としては,,,
-    それ以外:  根拠としては,,,
+## 名詞の修飾
 
-The question wether
+-    同格の that, 関係代名詞の that どっちを使う？
+  -  同格の that: 事実、認識、可能性系統の名詞
+
+## 文の繋げ方
+
+### 並列
+
+- ★  She bought apples `and` oranges.                       `[等位接続詞] 追加（～と～）`
+-    He doesn’t like coffee, `nor` does he like tea.        `[等位接続詞] 否定の追加（～も～ない）`
+- ★  You can have tea `or` coffee.                          `[等位接続詞] 選択（または）`
+- ★  She was tired, `so` she went to bed early.             `[等位接続詞] 結果（だから）`
+
+### 結果
+
+- ★  It was `so cold that` we stayed inside.                `[副詞節の that] その結果,,, / ,,,なくらい / 根拠としては,,,`
+
+### 逆接 / 譲歩 / 対比
+
+- ★  I wanted to go, `but` I was too busy.                  `[等位接続詞] しかし (対比)`
+-    It was cold, `yet` she didn’t wear a coat.             `[等位接続詞] しかし (フォーマル / 強調 / 対照)`
+- ★  `Although` it was cold, she didn’t wear a jacket.      `[従属接続詞] ～だけれども`
+- ★  `Even though` he was tired, he kept working.           `[従属接続詞] ～だけれども（強調）`
+- ★  `While` he enjoys sports, she prefers reading.         `[従属接続詞] ～だけれども（対比）`
+-    He likes coffee, `whereas` she prefers tea.            `[従属接続詞] ～である一方で（フォーマル）`
+
+### 理由
+
+- ★  I'm glad `that` you enjoyed the party.                 `[副詞節の that] 根拠としては,,,`
+- ★  I stayed home `because` I was sick.                    `[従属接続詞] ～だから（理由を強調する）`
+- ★  `Since` it was raining, we canceled the trip.          `[従属接続詞] ～だから（理由を補足的に伝える）`
+- ★  `Seeing that` he’s tired, let’s finish early.          `[従属接続詞] ～なので（話し言葉で状況を考慮）`
+-    `As` she was busy, she couldn't join us.               `[従属接続詞] ～だから（フォーマル / 書き言葉向き）`
+- ★  `Now that` we have finished, we can relax.             `[従属接続詞] 今や～なので（状況が変わった理由）`
+-    I stayed home, `for` it was raining.                   `[等位接続詞] ～だから（文語 / フォーマル / 理由）`
+
+### 目的
+
+- ★  I spoke slowly `so that` he could understand.          `[従属接続詞] ～するために`
+
+### 条件
+
+- ★  `If` it rains, we’ll stay inside.                      `[従属接続詞] もし～なら`
+- ★  You won’t pass `unless` you study.                     `[従属接続詞] ～でない限り`
+- ★  You can go out `as long as` you finish your work.      `[従属接続詞] ～する限り（条件付き）`
+
+### 挿入
+
+- ★  The project`, I believe,` will be completed on time.   `[that 節をとる S+V] 前後にカンマを置いて挿入表現となる`
+
+### 時間
+
+- ★  Call me `when` you arrive.                             `[従属接続詞] ～するとき`
+- ★  I listened to music `while` studying.                  `[従属接続詞] ～している間`
+- ★  Call me `as soon as` you get home.                     `[従属接続詞] ～するとすぐに`
+-    `Once` I get home, I'll call you.                      `[従属接続詞] ～したらすぐに（ややフォーマル / 文語）`
+- ★  I'll call you `the moment` I arrive.                   `[従属接続詞] ～した瞬間に`
+-    She left `the minute` she finished work.               `[従属接続詞] ～した瞬間に（よりカジュアル）`
+-    Call me `the second` you hear the news.                `[従属接続詞] ～した瞬間に（カジュアル）`
+- ★  Call me `the second` you hear the news.                `[従属接続詞] ～した瞬間に（カジュアル）`
+-    `On arriving` at the airport, she called her parents.  `[前置詞] On V-ing で 〜するとすぐに(フォーマル)`
+
+## GUIDELINE
+
+- ★  There 構文は、新情報をこれから出す合図
+  -  新 (が): There is a book on the table. / There is something mysterious about her.
+  -  旧 (は): My book is on the table.
+-    受動態は極力使用しないほうがいいが、動作主が一般の人々の場合、動作主が自明の場合、強調したい場合、被害、感情は例外
+-    関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
+
+---
 
 ## ADJECTIVE
 
@@ -141,12 +201,6 @@ The question wether
     - `Confident` that he was the most qualified of all the candidates, ABC Daily Voice hired him as the new chief editor.
     - `The father of two young girls`, he hopes for more gender equality in the future.
 
-## There 構文
-
-- 新情報をこれから出す合図
-  - 新 (が): There is a book on the table. / There is something mysterious about her.
-  - 旧 (は): My book is on the table.
-
 ## 否定
 
 - not + 部分 = 全体否定 (either, any, ever)
@@ -268,6 +322,3 @@ The question wether
 - [ ] [倒置] So+助動詞/do/be+S:                     `So` do I. / and `so` could the weary adults who had read it to her, over and over.
 - [ ] [倒置] 仮定法の条件文:                        `Had you listened to her`, you wouldn't have been in such trouble.
 - [ ] [倒置] 原級/比較級比較 as/than 以下:          Prehistoric man may well have had as much brain power as `has the man of today`.
-- [x] [挿入] that 節をとる S+V:                     前後にカンマを置いて挿入表現となる
-- [ ] 関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
-- [ ] 受動態は極力使用しないほうがいいが、動作主が一般の人々の場合、動作主が自明の場合、強調したい場合、被害、感情は例外

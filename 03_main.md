@@ -308,3 +308,4 @@
 - [ ] `There's a low/little chance of O`    の可能性が低い              `There's a low chance of` rain tonight.
 - [ ] `Turns out S V`                       S V ということがわかった    `Turns out` my five-year-old daughter already knows Santa doesn't exist.
 - [ ] `We'll see whether S V`               S V か確かめよう            `We'll see whether` the newspapers print the story.
+- [ ] `What's the word for it?`             何ていうんだっけ            I need something to mix the soup... `What's the word for it?` Ah, a ladle!

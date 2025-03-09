@@ -4,6 +4,7 @@
 
 ### ABSTRACT
 
+something to the effect that のようなこと
 - なもの (FAVORITE)
   - ★ `S V-ing`                                 (S が V すること) `My dog barking` like that is a bit weird.
   - ★ `a feature where S V`                     (S V のような機能) This app has `a feature where` you can edit photos easily.
