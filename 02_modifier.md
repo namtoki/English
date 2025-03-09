@@ -14,6 +14,7 @@
   - `as sb anticipated`                         (予測していた通り) `As we anticipated,` the unemployment rate has risen ....
 - トピック
   - `You know how S V?`                         (じゃん？) `You know how` I've been looking for a new TV for a while?
+  - `I told you O, right?`                      (O と言ったよね) `I told you` about my dad, `right?`
 - 予防線を張る
   - `if I'm not mistaken`                       (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
   - `in one's defence`                          (言い訳すると) `In my defense,` it was dark and he was a very pretty guy!”
@@ -22,12 +23,17 @@
   - `It may sound like O, but`                  (O と聞こえるかもだが) `It may sound like` I'm being self-centered here,
   - `You'd think (that) S V, but`               (S V 思うかもしれないですが) `You'd think` Japan would be really technologically advanced, but ,,,
   - `I hate to admit it, but`                   (認めたくないけど) `I hate to admit it, but` I might need your help.
+  - `You know as well as I do that S V`         (ご存じかと思いますが S V) `You know as well as I do that` this is very important.
 - 反論
   - `That's a fair point, but`                  (それはもっともですが、)
+  - `You (may) have a point`                    (一理あるね) `You may have a point there`, but I still believe the plan is feasible
+  - `I see your point, but`                     (仰ることは分かります) `I see your point, but` I have a slightly different view.
+  - `That's not the way I see it`               (違う見方をしています)
 - お願い
   - `I hope I'm not interrupting you`           (迷惑でなければいいのですが)
   - `I hope you don't mind if`                  (迷惑でなければいいのですが) `I hope you don't mind if` I eat while we talk.
   - `I'd like to ask you a favor.`              (お願いしてもいいですか)
+  - `I was thinking`                            (考えてたんだけど) `I was thinking.` Let's take a short trip.
 
 ### TOPIC
 
