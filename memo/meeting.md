@@ -154,8 +154,12 @@ ANC
 > I don’t have any more questions, but does anyone have any comments?
 
 Call Quality
-> So
 > `Let's move on to the next topic`, Call Quality.
+>
+> So
+> (for call quality,)
+> `it just comes down to` microphones placement design and parameter tuning in the config tool, right?
+> Got it.
 
 Talk Through
 > So
@@ -183,6 +187,106 @@ Talk Through
 >   (allowing the user to switch between them via the smartphone app?)
 > (And of course,)
 > in the case of static passthrough, the gain should still be adjustable.
+>
+> So
+> (about the second question,)
+> Airoha's team said
+>   that they haven’t implemented this feature yet
+>   and
+>   that it's still in development.
+> But
+> you guys mentioned that it’s possible to implement using the VAD module.
+>
+> this is great.
+> 
+> Have you actually done this before, or is it just theoretically possible?
+> Have you modified the SDK and worked on controlling the VAD module, or is this `more of` a conceptual idea?
+
+Spatial Audio
+> Next, Spatial Audio
+> So
+> `just to confirm, does this mean that`
+>   you’ve tried implementing Savitech’s Spatial Audio library,
+>   but
+>   you haven’t actually released any products with Spatial Audio yet?
+>
+> And
+> The proposal mentioned using either Dirac or Dolby.
+> `would this be` your first time working on something like this?
+> `Would it be` a challenging project for you?
+> Or,
+> (since you already know that a TDK G-sensor is required,)
+> does that mean you've actually implemented both Dolby and Dirac for some test?
+
+EQ
+> So
+> `Let's move on to the next topic`, EQ.
+>
+> 28 slots is a lot more than I expected!
+> (`Just out of curiosity,`)
+> have there actually been cases where all 28 slots were used?
+
+Ear fitting
+> So
+> `Let's move on to the next topic`, Ear fitting.
+>
+> (`First off,`)
+> I want to apologize for the mistake.
+> I wrote 'IMU,' but I actually meant 'IR sensor.'
+> (Basically,)
+> `what I was asking` is whether IR sensors or capacitive sensors are typically used for proximity detection
+>   to check if the buds are in the ear, right?
+> (Regarding this,)
+> I saw that HX3009 was proposed in the proposal, so I think we were on the right track.
+>
+> But
+> You wrote 'Airoha provides a similar method by Mic,'
+> and
+> `that got me wondering.`
+> does this mean the microphone is used
+>   not just to check if the buds are in the ear,
+>   but to confirm they’re properly fitted for ANC and other features to work correctly?
+> I think the document that covers this is probably Fit_Detection_Feature.pptx,
+> (but right now,)
+> it doesn’t seem to be accessible to us on MediaTek Online.
+
+Touch
+> And
+> `Let's move on to the next topic`, Touch and Swipe button
+>
+> Kuroishi-san, do you have any other inputs?
+>
+> (Regarding the two middle questions,)
+> (to be precise,)
+> we’re asking
+>   whether functions like play, pause, next track, and previous track can be mapped to any tap or swipe gestures.
+> `To break it down,`
+>   the first question is whether users can customize these mappings via the smartphone app.
+>   The second question is whether actions can be assigned specifically to the left or right bud.
+>     For example, tapping the left bud once to play/pause music and tapping the right bud once to toggle ANC.
+
+Motion Capture
+> And Motion Capture
+>
+> Kuroishi-san, do you have any other inputs?
+
+Case Communication
+> Kuroishi-san, do you have any other inputs?
+>
+> (By the way,)
+> I assume that the Case protocol is basically defined by Airoha,
+>      and that the available commands are also predefined, right?
+> But
+> is it possible to create custom commands and define your own communication if needed?
+
+Conclusion
+> I think we've covered everything on the agenda.
+> but
+> Before we wrap up, does anyone have any final questions or comments?
+> If not, we'll call it a day here.
+>
+> Alright, thanks again, everyone, for your time and participation!
+> and see you next time!
 
 ## 20250306
 
