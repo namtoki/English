@@ -147,18 +147,41 @@ Jonkung
 >   is like they teach themselves how to cook
 >     because
 >       where they end up for school doesn't offer the food that they miss from home.
+>
+> And yeah,
+> that was (pretty much) the basis of it.
+>
+> `It just so happened that` it turned into my career `as opposed to` just a hobby.
+>
+> What made you want to be a cardiologist, then?
 
+Uma
+> (Look,)
+> I grew up watching my grandfather, who had been taking care of patients all his life,
 
-✅ "For me, which is surprising, the test was actually easy."
-（私にとっては、驚くことに、そのテストは実際簡単だった。）
+Jonkung
+> So
+> he was a doctor as well?
 
-→ "For me"（私にとっては）を "which" で受けて説明している。
-例②（話し言葉）
-
-✅ "With all the stress, which I know is a lot, she still manages to smile."
-（あれだけのストレスがあるのに、それでも彼女は笑顔を保っている。）
-
-→ "With all the stress"（あれだけのストレス）を "which" で受けて補足説明。
-例③（カジュアルな会話）
-
-✅ "After the long trip, which was exhausting, we finally arrived at the hotel."
+Uma
+> He was a physician.
+>
+> And uh
+> I loved it when he would take care of people,     `V1 it when S V2 で S が V2 するのが V1 だ`
+> and
+> there would be this expression of, I think, gratitude.
+>
+> And
+> my grandfather would not expect anything in return.
+> He never charged a dollar for anyone.
+> He was in the Gandhian movement and freedom movement for India.
+>
+> And
+> I just grew up adoring him.
+> I'm like "Ah, that would be cool."
+>
+> And then
+> (as I started learning more about medicine,)
+> I went to one of the medical schools in India,
+>   and
+>   realized very quickly that cardiology is one thing where you would `get to` save patients' lives,
