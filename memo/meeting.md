@@ -14,24 +14,22 @@ Start
 Preface
 > The main purpose of today’s meeting is to `address` each other’s questions,
 > but
-> I also see this as an opportunity for us to get to know each other for future collaboration.
+> I also see this as an opportunity for us to `get to know` each other for future collaboration.
 >
 > (Of course,)
 > we’ll `go over` the Excel file you answered the other day,
 > but
-> we also want to clarify as much as possible any unanswered parts from this Q&A list.
+> we also want to clarify (as much as possible) any unanswered parts from this Q&A list.
 >
 > And `feel free to` discuss anything else as well!
->
-> Any questions?
 
 Introduction
 > (Alright,)
 > (first,)
 > let us introduce ourselves from the Masimo side.
 >
-> (That said,)
-> it’ll just be a quick intro where we show our faces, mention our names, and briefly share our background related to TWS.
+> (`That said,`)
+> it’ll just be a quick intro `where` we show our faces, mention our names, and briefly share our background related to TWS.
 >
 > ...
 >
@@ -43,7 +41,7 @@ Introduction
 > we’re just getting started with it.
 > We’ve been `going through` the documentation and SDK, (and recently,) we’ve been trying to get the EVK up and running.
 >
-> (That said,)
+> (`That said,`)
 > everyone here has experience working on our AV receivers and HiFi products, of course.
 >
 > (`And with that,`)
@@ -68,7 +66,7 @@ Dive
 ```
 
 Q&A Overview
-> (First off,)
+> (`First off,`)
 > I just realized that
 >   there were some questions in the Q&A sheet that we hadn’t responded to.
 > My apologies for that.
