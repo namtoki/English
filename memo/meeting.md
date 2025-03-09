@@ -53,6 +53,20 @@ Introduction
 Dive
 > Okay, let’s `jump into` the main topic.
 
+```
+💬 「では、この点についてもう少し詳しく説明していただけますか？」
+👉 "Could you elaborate on this point?"
+
+💬 「この回答の背景を少し補足していただけますか？」
+👉 "Could you provide some additional context for this answer?"
+
+💬 「この点について、何か補足や修正すべきことはありますか？」
+👉 "Is there anything to add or revise regarding this point?"
+
+💬 「この回答について、ご意見や追加の質問はありますか？」
+👉 "Does anyone have any comments or follow-up questions on this?"
+```
+
 Q&A Overview
 > (First off,)
 > I just realized that
@@ -68,11 +82,20 @@ Move on to Core questions
 
 Bluetooth
 > And
-> about the Bluetooth versions,
-> thanks for the answers.
+> `Let's start with the first question`, the Bluetooth versions,
+> `The response to this question was` 6.0.
 >
-> Kato-san, do you have any thoughts on this?
-> We don’t actually need LC3-SuperWideBand to work `over` Classic, right?
+> So
+> (from this answer,)
+> it sounds like the SDK version is based on 5.5. Is that right?
+>
+> Good.
+>
+> And
+> the following questions are mostly about the Profile and Codecs.
+>
+> Kato-san, do you have any thoughts on these?
+> We don’t actually need LC3-SuperWideBand to work `over` Classic in the first place, right?
 > And there's no specific need to support PXP either, correct?
 >
 > 加藤さんのターン
@@ -80,33 +103,86 @@ Bluetooth
 > Got it.
 >
 > 〇〇san,
-> I asked those questions,
-> (but just to clarify,)
-> there's no actual requirement to support LC3-SWB on Classic,
+> We asked this question,
+> but
+> it's not that
+>   we specifically want LC3-SWB to be supported on Bluetooth Classic.
+> `As long as` it works with BLE, that's fine.
+> We `just wanted to` check if Classic could support it too by verifying the HFP version, just to be sure.
+> 
 > and
 > PXP isn't something we need to handle at this point.
+>
 > My bad for bringing it up.
-> 
+>
 > (By the way,)
 > is there a way to check a list of supported profiles somewhere?
 > Would it be in the **SDK documentation** or something?
 >
+> And
+> the next few questions seem pretty clear-cut.
+> Kato-san, do you want to add anything?
+> 
 > (Yeah, as far as I know,)
 > there aren't really any earbuds or headphones that officially support **AAC-ELD**, right?
 > I think it's safe to say it's **not supported**, and that shouldn't be an issue.
 > What do you think, Kato-san?
 >
 > Alright,
-> this is my last question about Bluetooth.
+> This is an area I was also curious about.
 > Regarding **line 16**,
 >
 > let me clarify the question.
+> This means that,
 > **If a user buys the product and later loses one of the buds,
 > can we send the user a replacement bud and have them pair it with the remaining one by themselves?**
 >
-> From what I understand,
+> (`From what I understand`,)
 > this would be difficult due to **LE Audio-related keys** or something like that.
-> Does that sound right? What do you think?
+> Does that sound right?
+> What do you think?
+
+ANC
+> And
+> `Let's move on to the next topic`, ANC.
+> `The response to this question was` "4 modes".
+>
+> I checked the Android SDK `on my end`,
+> and yeah,
+> it does seem like the implementation assumes four ANC modes.
+>
+> I don’t have any more questions, but does anyone have any comments?
+
+Call Quality
+> So
+> `Let's move on to the next topic`, Call Quality.
+
+Talk Through
+> So
+> `Let's move on to the next topic`, Transparency.
+>
+> (Regarding the first question,)
+> I realize our `terminology` we used might have been a bit unclear,
+> so
+> let me clarify.
+>
+> `When we say 'effectiveness,' we mean that`
+>   if you lower it, external sound gets blocked more and Talk Through gradually turns off.
+>   (On the other hand,)
+>   if you increase it, more external sound comes through, essentially reaching a 100% Talk Through state.
+> `This is the same as what` you refer to as 'gain,' right?
+>
+> So
+> `when we said 'dynamically adjust' here, we meant that`
+>   the gain automatically changes based on the external environment.
+> (From what you told us,)
+> this corresponds to the 'vivid passthrough' feature, right?
+>
+> (If that’s the case,)
+> would it be possible to support both static passthrough and dynamic passthrough,
+>   (allowing the user to switch between them via the smartphone app?)
+> (And of course,)
+> in the case of static passthrough, the gain should still be adjustable.
 
 ## 20250306
 
