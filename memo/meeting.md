@@ -361,11 +361,36 @@ Power
 > Kuroishi-san, do you have any other inputs?
 
 Voice Prompt
+> Let's move on to Voice Prompt
 >
-容量の換算方法、
+> I think we’ve already asked about this in the Q&A list as well.
+> Kuroishi-san, would it be okay if I leave this to you to handle?
+> 
+> 容量の換算方法、
+> (Right now,)
+> we're planning to support multiple languages.
+> The idea is that
+>   (when the language setting is changed in the smartphone app,)
+>   the audio files will be downloaded from the server to the phone, and then from the phone to the buds.
+>
+> First,
+> I’d like to know if this is even possible.  
+>
+> Also,
+> based on your experience, do you have a rough idea of how many bytes of audio data can be stored on the buds at this stage?
+> Just an estimate is fine.
 
 App
-> 
+> `What we’re mainly concerned about` is that
+>   things might get complicated when the app is connected in single mode.
+>
+> For example,
+> let’s say one bud has **ANC Gain set to Level 4**, and then the other bud gets used later—
+>   **which setting will take priority?**
+>
+> Also,
+> I assume there will be some kind of **sync communication** between the two buds when this happens.
+> Would that work smoothly without any issues?
 
 Conclusion
 > I think we've covered everything on the agenda.
