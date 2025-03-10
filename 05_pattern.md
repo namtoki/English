@@ -184,4 +184,40 @@ Uma
 > (as I started learning more about medicine,)
 > I went to one of the medical schools in India,
 >   and
->   realized very quickly that cardiology is one thing where you would `get to` save patients' lives,
+>   realized very quickly that cardiology is one thing `where` you would `get to` save patients' lives,
+>     literally resuscitate patients who were dead in the field,
+>     resuscitate them and bring them back to life.
+> And
+> I found nothing more gratifying than being able to save someone's life.
+>
+> And then
+> that relationship continues afterwards,
+> (because)
+> then there's a bond between you and the patient
+>                                     who
+>                                     now is not a patient anymore,
+>                                            back to living his own life or her own life.
+>
+> And then
+> this bond with that person and their family (kind of) continues on.
+>
+> So
+> I was really like, this is what I really want to be in my life.
+
+Jonkung
+> `Would you say (like) that`
+>                      intersectionality of (like) being able to tend and care for people
+>                      is
+>                      (like,) what `crossed you over` into this food space then?
+
+Uma
+> (You know,)
+> I didn't know back in 2015, 2016, when I was thinking of quitting cardiology and starting off on this crazy journey that I'm on right now,
+> (but looking back and reflecting on it,)
+> there is a lot of common threads
+>                   (where)
+>                   both are bound by a deep sense of purpose and deep sense of building relationships
+>                   and
+>                   defying some of the things
+>                           (where)
+>                           people keep telling you it's impossible to do this.
