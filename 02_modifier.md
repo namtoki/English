@@ -5,7 +5,7 @@
 ### HEAD
 
 - 強いこだわりが無いとき
-  - `if I had to say/guess`                     (強いて言うなら) `If I had to guess,` I would say that she is single.
+  - 👉 `if I had to say/guess`                  (強いて言うなら) `If I had to guess,` I would say that she is single.
   - `if anything`                               (どちらかというと) But now, `if anything,` they are making too much of it.
   - `just out of curiosity`                     (単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
 - どういう文脈で話そうとしているか

@@ -29,7 +29,7 @@ Introduction
 > let us introduce ourselves from the Masimo side.
 >
 > (`That said,`)
-> it’ll just be a quick intro `where` we show our faces, mention our names, and briefly share our background related to TWS.
+> `it’ll just be` a quick introduction `where` we show our faces, mention our names, and briefly share our background related to TWS.
 >
 > ...
 >
@@ -38,7 +38,7 @@ Introduction
 > Kuroishi-san and I have some experience with Qualcomm, though we can’t share specific product details.
 >
 > (As for Airoha,)
-> we’re just getting started with it.
+> we’re just `getting started with` it.
 > We’ve been `going through` the documentation and SDK, (and recently,) we’ve been trying to get the EVK up and running.
 >
 > (`That said,`)
@@ -73,7 +73,43 @@ Q&A Overview
 >
 > I'll answer them now.
 >
-> ...
+> For this first question about "First time,"
+> it specifically `refers to` when the buds are in a factory-default state and have never been paired before.
+> `This means that`
+>   when you open the case lid for the first time after unboxing,
+>     that’s considered the "First time."
+>   Once they’ve been paired,
+>     they won’t go back to the "First time" state unless you perform a factory reset.
+>
+> And
+>   Even if you delete all paired devices from the list, the buds will still go into the 3-minute pairing mode mentioned here.
+> 
+> As for the next question,
+> our wording wasn’t quite right.
+> `What we actually mean is that`
+>   when the Buds are in the case, we want to optimize for faster recharging (while making sure they don’t actively engage in pairing behavior).
+>   In other words, they shouldn’t respond to things like Bluetooth Classic **inquiry** requests.
+>
+> Let's moving on,
+> As it's written here,
+> We're still discussing this with the spec owner, but there's a chance it may not be included in the specifications.
+>
+> And
+> the most important thing is that it's more likely that it won't be.
+> but
+> If we end up deciding to include it after all, we'll let you know again.
+>
+> And
+> (for the remaining questions about the buttons and LED,)
+> (as you can see,)
+> we want to have two buttons on the case.
+> The **Amber LED** mentioned for updates refers to the **case LED**.
+>
+> **Button 1** `is mainly for` pairing,
+> while
+> **Button 2** is designed to be harder to press,
+> if you want to press it, you’d need something like a pen tip
+> and `is primarily for` factory resets.
 
 Move on to Core questions
 > So let's move on to "Core Questions"
@@ -107,7 +143,6 @@ Bluetooth
 >   we specifically want LC3-SWB to be supported on Bluetooth Classic.
 > `As long as` it works with BLE, that's fine.
 > We `just wanted to` check if Classic could support it too by verifying the HFP version, just to be sure.
-> 
 > and
 > PXP isn't something we need to handle at this point.
 >
@@ -117,16 +152,20 @@ Bluetooth
 > is there a way to check a list of supported profiles somewhere?
 > Would it be in the **SDK documentation** or something?
 >
+> Oh, I see! That makes sense. Got it!
+>
 > And
-> the next few questions seem pretty clear-cut.
+> the next few questions also seem pretty clear-cut.
 > Kato-san, do you want to add anything?
 > 
 > (Yeah, as far as I know,)
 > there aren't really any earbuds or headphones that officially support **AAC-ELD**, right?
 > I think it's safe to say it's **not supported**, and that shouldn't be an issue.
-> What do you think, Kato-san?
+> Kato-san, Is there anything to add or revise regarding this point?"
 >
 > Alright,
+>
+> but
 > This is an area I was also curious about.
 > Regarding **line 16**,
 >
@@ -145,15 +184,31 @@ ANC
 > `Let's move on to the next topic`, ANC.
 > `The response to this question was` "4 modes".
 >
+> and
 > I checked the Android SDK `on my end`,
 > and yeah,
 > it does seem like the implementation assumes four ANC modes.
+>
+> So, when you say "4 modes,"
+> I guess it's coming from something like this, right?
+>
+> And
+> (while we're at it,)
+> (if you happen to know,)
+> there seem to be three modes for each: Passthrough, Hybrid Passthrough, and Vivid Passthrough.
+> Does that mean each of them can have up to three modes?
+>
+> Also,
+> (sorry if this is a basic question,)
+> but
+> what's the difference between Hybrid Passthrough and regular Passthrough? And which one would be better to use?
 >
 > I don’t have any more questions, but does anyone have any comments?
 
 Call Quality
 > `Let's move on to the next topic`, Call Quality.
 >
+> Your answer is clear-cut.
 > So
 > (for call quality,)
 > `it just comes down to` microphones placement design and parameter tuning in the config tool, right?
@@ -184,7 +239,7 @@ Talk Through
 > would it be possible to support both static passthrough and dynamic passthrough,
 >   (allowing the user to switch between them via the smartphone app?)
 > (And of course,)
-> in the case of static passthrough, the gain should still be adjustable.
+> in the case of static passthrough, the gain should be adjustable.
 >
 > So
 > (about the second question,)
@@ -221,6 +276,9 @@ EQ
 > `Let's move on to the next topic`, EQ.
 >
 > 28 slots is a lot more than I expected!
+>
+> Good. Here I have no additional question.
+>
 > (`Just out of curiosity,`)
 > have there actually been cases where all 28 slots were used?
 
@@ -244,15 +302,18 @@ Ear fitting
 > does this mean the microphone is used
 >   not just to check if the buds are in the ear,
 >   but to confirm they’re properly fitted for ANC and other features to work correctly?
-> I think the document that covers this is probably Fit_Detection_Feature.pptx,
+> I think the document that covers this is probably Fit_Detection_Feature.pptx you referred to,
 > (but right now,)
 > it doesn’t seem to be accessible to us on MediaTek Online.
+>
+> So
+> `Looks like` I should ask Airoha to make this document available for download.
 
 Touch
 > And
 > `Let's move on to the next topic`, Touch and Swipe button
 >
-> Kuroishi-san, do you have any other inputs?
+> I don't have any particular comments on this topic since it's pretty `straightforward`.
 >
 > (Regarding the two middle questions,)
 > (to be precise,)
@@ -262,6 +323,8 @@ Touch
 >   the first question is whether users can customize these mappings via the smartphone app.
 >   The second question is whether actions can be assigned specifically to the left or right bud.
 >     For example, tapping the left bud once to play/pause music and tapping the right bud once to toggle ANC.
+>
+> Kuroishi-san, do you have any other inputs?
 
 Motion Capture
 > And Motion Capture
@@ -276,6 +339,33 @@ Case Communication
 >      and that the available commands are also predefined, right?
 > But
 > is it possible to create custom commands and define your own communication if needed?
+
+Sound Dose
+> Actually,
+> the **Sound Dose** feature hasn’t been officially confirmed yet, and it’s probably not going to be included.
+>
+> But
+> I’m asking about it here just in case.  
+>
+> So,
+> the exact specs for **Sound Dose** haven’t been decided yet,
+> but
+> if they do get finalized, I think the main question will be whether it’s possible to implement it or not.
+>
+> So
+> Kuroishi-san, do you have any other inputs?
+
+Power
+> Let's move on to Power
+>
+> Kuroishi-san, do you have any other inputs?
+
+Voice Prompt
+>
+容量の換算方法、
+
+App
+> 
 
 Conclusion
 > I think we've covered everything on the agenda.
