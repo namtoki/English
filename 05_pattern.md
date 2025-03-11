@@ -205,19 +205,68 @@ Uma
 > I was really like, this is what I really want to be in my life.
 
 Jonkung
-> `Would you say (like) that`
+> `Would you say (like) that`   `という感じですかね？`
 >                      intersectionality of (like) being able to tend and care for people
 >                      is
 >                      (like,) what `crossed you over` into this food space then?
 
 Uma
 > (You know,)
-> I didn't know back in 2015, 2016, when I was thinking of quitting cardiology and starting off on this crazy journey that I'm on right now,
-> (but looking back and reflecting on it,)
+> I didn't know back in 2015, 2016,
+>                       when I was thinking of quitting cardiology
+                                   and
+                                   starting off on this crazy journey that I'm on right now,
+> (but `looking back` and `reflecting on it`,)
 > there is a lot of common threads
 >                   (where)
 >                   both are bound by a deep sense of purpose and deep sense of building relationships
 >                   and
->                   defying some of the things
+>                   `defy`ing some of the things
 >                           (where)
 >                           people keep telling you it's impossible to do this.
+>
+> It's impossible to save someone's life.
+>
+> They're already dead in the field.
+>
+> You can't `resuscitate` them back.
+>
+> And here,
+> we are looking at a impending food crisis, climate crisis (`of such large proportions`).
+>
+> And
+> people keep saying it's impossible to do this.
+>
+> We cannot do this, we will not do this, people will not change, countries won't change.
+>
+> And
+> I think this is a much bigger fight than saving an individual patient's life.
+>
+> But
+> I think
+>   those common threads
+>   of saying,
+>   yes, these are possible by putting one foot in front of the other
+>                              and
+>                              starting to slowly `make these things go away`, `こなす`
+> and
+> you climb one mountain, celebrate the victory for a moment, and then the next mountain is in front of you.
+
+Jonkung
+> So
+> that was your(, kind of) inspiration to start Upside?
+
+Uma
+> Yes, yeah, yeah,
+> Upside Foods is a company that I started in late 2015.
+>
+> And
+> the idea is(, you know,) the most delicious product in the world that we've known as humans is meat.
+
+Jonkung
+> Yeah, I will agree with you.
+
+Uma
+> No disrespect to salads or greens or beans,
+> but
+> meat is the center of plate for almost every tradition in the world.
