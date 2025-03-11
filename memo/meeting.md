@@ -9,24 +9,30 @@ Small Talk
 
 Start
 > (Okay,)
-> Is everyone from your side here?" 
+> `Is everyone` from your side `here`?
 > 
-> I think we’ve `got everyone here`. Let’s get started.
-> Thank you all for being here.
+> `I think we’ve got everyone here`.
+> Let’s get started.
 
 Preface
+> So,
+> Thank you all `for being here`.
+>
 > The main purpose of today’s meeting is to `address` each other’s questions,
 > but
 > I also see this as an opportunity for us to `get to know` each other for future collaboration.
 >
 > (Of course,)
-> we’ll `go over` the Excel file you answered the other day,
+> we’ll `go over` the Software Core Questions you've answered the other day, thank you.
+>
+> but
+> I would like to `proceed while` occasionally referring to the Feasibility Study materials you have submitted.
 >
 > And `feel free to` discuss anything else as well!
 
 Introduction
 > (Alright,)
-> (first,)
+> (so,)
 > let us introduce ourselves from the Masimo side.
 >
 > (`That said,`)
@@ -34,13 +40,15 @@ Introduction
 >
 > ...
 >
-> (So,)
+> (And,)
 > (as for our background in TWS development,)
 > Kuroishi-san and I have some experience with Qualcomm, though we can’t share specific product details.
 >
 > (As for Airoha,)
 > we’re just `getting started with` it.
-> We’ve been `going through` the documentation and SDK, (and recently,) we’ve been trying to get the EVK up and running.
+>
+> in order for us to gain a deeper technical understanding,
+> We’ve been `going through` the documents and SDK source code, (and recently,) we’ve been trying to `get` the EVK `up and running`.
 >
 > (`That said,`)
 > everyone here has experience developing our audio equipments, like AV receivers and HiFi products, of course.
@@ -53,16 +61,12 @@ Dive
 > Okay, let’s `jump into` the main topic.
 
 ```
-💬 「では、この点についてもう少し詳しく説明していただけますか？」
 👉 "Could you elaborate on this point?"
 
-💬 「この回答の背景を少し補足していただけますか？」
 👉 "Could you provide some additional context for this answer?"
 
-💬 「この点について、何か補足や修正すべきことはありますか？」
 👉 "Is there anything to add or revise regarding this point?"
 
-💬 「この回答について、ご意見や追加の質問はありますか？」
 👉 "Does anyone have any comments or follow-up questions on this?"
 ```
 
@@ -71,13 +75,17 @@ Bluetooth
 > `Let's start with the first question`, the Bluetooth versions,
 > `The response to this question was` 6.0.
 >
-> Good to know the SDK version.
+> and it was really helpful that you also wrote the SDK version.
 >
 > And
-> the following questions are mostly about the Profile and Codecs.
+> the following questions are mostly about the Profile and Codecs
+> and
+> answers are clear-cut.
 >
 > But
-> We don’t actually need LC3-SuperWideBand to work `over` Classic in the first place.
+> (`just to add one more thing,`)
+> You don't have to support LC3-SuperWideBand `over` Bluetooth Classic in the first place.
+> Supporting LC3-SuperWideBand over BLE is fine.
 > And there's no specific need to support PXP either.
 >
 > Kato-san, do you have any thoughts on these?
@@ -86,26 +94,14 @@ Bluetooth
 >
 > Got it.
 >
-> 〇〇san,
-> We asked this question,
-> but
-> it's not that
->   we specifically want LC3-SWB to be supported on Bluetooth Classic.
-> `As long as` it works with BLE, that's fine.
-> We `just wanted to` check if Classic could support it as well by verifying the HFP version, just to be sure.
-> and
-> PXP isn't something we need to handle at this point.
->
-> My bad for bringing it up.
->
 > (By the way,)
 > is there a way to check a list of supported profiles somewhere?
-> Would it be in the **SDK documentation** or something?
+> Would it be in the **SDK source code**, **documents available from MediaTek Online** or something?
 >
 > Oh, I see! That makes sense. Got it!
 >
 > And
-> the next few questions also seem pretty clear-cut.
+> the next few questions also seem clear-cut.
 > Kato-san, do you want to add anything?
 > 
 > (Yeah, as far as I know,)
@@ -125,7 +121,7 @@ Bluetooth
 > can we send the user a replacement bud and have them pair this with the remaining one by themselves?**
 >
 > (`From what I understand`,)
-> this would be difficult due to **LE Audio-related keys**, SIRK, or thing like that.
+> this would be difficult due to **LE Audio-related keys**, SIRK, or things like that.
 > Does that sound right?
 > What do you think?
 
@@ -143,7 +139,7 @@ ANC
 > I guess it's coming from something like this, right?
 >
 > And
-> (while we're at it,)
+> (`while we're at it,`)
 > (if you happen to know,)
 > there seem to be three modes for each: Passthrough, Hybrid Passthrough, and Vivid Passthrough.
 > Does that mean each of them can have up to three modes?
@@ -169,74 +165,76 @@ Call Quality
 > `it just comes down to` designing microphones placement and tuning parameter in the config tool, right?
 >
 > Got it.
+>
+> And the next question.
+>
+> You guys recommend using analog microphones in terms of size and performance.
+> (From my experience,)
+> (though it's limited,)
+> I found it quite unique to have all the microphones are analog.
+>
+> and
+> This is mentioned on page 44 of this document.
+>
+> so
+> (From an acoustic perspective,)
+> are there any downsides to this?
+> for example, power consumption, or something like that.
 
 Talk Through
 > So
 > `Let's move on to the next topic`, Transparency.
 >
-> (Regarding the first question,)
-> I realize our `terminology` we used might have been a bit unclear,
-> so
-> let me clarify.
->
-> `When we say 'effectiveness,' we mean that`
->   if you lower it, external sound gets blocked more and Talk Through gradually turns off.
->   (On the other hand,)
->   if you increase it, more external sound comes through, essentially reaching a 100% Talk Through state.
-> `This is the same as what` you refer to as 'gain,' right?
->
-> So
-> `when we said 'dynamically adjust' here, we meant that`
+> and
+> `when we said 'dynamically adjust' here, we mean that`
 >   the gain automatically changes based on the external environment.
-> (From what you told us,)
-> this corresponds to the 'vivid passthrough' feature, right?
 >
-> (If that’s the case,)
-> would it be possible to support both static passthrough and dynamic passthrough,
->   (allowing the user to switch between them via the smartphone app?)
-> (And of course,)
+> you said "It cannot be dynamically adjusted."
+> but
+> this(, If I'm not mistaken,) corresponds to the 'vivid passthrough' feature, right?
+> Do you have the experience of using vivid passthrough?
+>
+> and the next answer is ~~~~. Yeah,
 > in the case of static passthrough, the gain should be adjustable.
 >
-> So
-> (about the second question,)
-> Airoha's team said
+> And
+> (as for this question,) (you said checking with SoC vendor)
+> Airoha team said
 >   that they haven’t implemented this feature yet
 >   and
 >   that it's still in development.
 > But
-> you guys mentioned that it’s possible to implement using the VAD module.
+> I think it’s possible to implement using the VAD module.
+> VAD module is mentioned in datasheet, like here.
+> Do you think about this?
+> Is it possible to implement some voice trigger feature?
 >
 > this is great.
 > 
-> Have you actually done this before, or is it just theoretically possible?
-> Have you modified the SDK and worked on controlling the VAD module, or is this `more of` a conceptual idea?
+> > Have you actually done this before, or is it just theoretically possible?
+> > Have you modified the SDK and worked on controlling the VAD module, or is this `more of` a conceptual idea?
 
 Spatial Audio
 > Next, Spatial Audio
+> 2 つのクエスチョンを一気に読み上げる
 > So
-> `just to confirm, does this mean that`
->   you’ve tried implementing Savitech’s Spatial Audio library,
->   but
->   you haven’t actually released any products with Spatial Audio yet?
->
-> And
-> The proposal mentioned using either Dirac or Dolby.
-> `would this be` your first time working on something like this?
-> `Would it be` a challenging project for you?
-> Or,
-> (since you already know that a TDK G-sensor is required,)
-> does that mean you've actually implemented both Dolby and Dirac for some test?
+> This was also mentioned in the table of the Feasibility Study document, right?
+> 資料見せる
+> Just to confirm,
+> does this mean that you have a experience integrating this THX 3rd party into an Airoha BT chip before?
+> Or
+> is it `just saying that,` while there’s no actual experience, it’s theoretically possible to implement?
 
 EQ
 > So
 > `Let's move on to the next topic`, EQ.
 >
-> 28 slots is a lot more than I expected!
+> 4 slots is fewer than I expected.
+>
+> Is this the number of subsets?
+> So there are only 4 subsets, but there are actually more PEQ patterns that can be assigned to those 4, right?
 >
 > Good. Here I have no additional question.
->
-> (`Just out of curiosity,`)
-> have there actually been cases where all 28 slots were used?
 
 Ear fitting
 > So
@@ -244,26 +242,20 @@ Ear fitting
 >
 > (`First off,`)
 > I want to apologize for the mistake.
-> I wrote 'IMU,' but I actually meant 'IR sensor.'
-> (Basically,)
+> I wrote 'IMU,' but I actually mean 'IR sensor.'
+> (and Basically,)
 > `what I was asking` is whether IR sensors or capacitive sensors are typically used for proximity detection
->   to check if the buds are in the ear, right?
-> (Regarding this,)
-> I saw that HX3009 was proposed in the proposal, so I think we were on the right track.
+>   to check if the buds are in the ear.
+> (And)
+> I saw that an IR sensor was proposed in your proposal, so I think we were on the right track.
 >
-> But
-> You wrote 'Airoha provides a similar method by Mic,'
-> and
-> `that got me wondering.`
-> does this mean the microphone is used
->   not just to check if the buds are in the ear,
->   but to confirm they’re properly fitted for ANC and other features to work correctly?
-> I think the document that covers this is probably Fit_Detection_Feature.pptx you referred to,
-> (but right now,)
-> it doesn’t seem to be accessible to us on MediaTek Online.
+> And
+> Good to know that Airoha 1592 (Perl Pro 2) could do it with FB mic. It checks air leakage to assess the fitting.
+> but
+> Just to double-check,
+> are you saying that this can't be done with the 1577?
 >
-> So
-> `Looks like` I should ask Airoha to make this document available for download.
+> Is that mentioned in any document?"
 
 Touch
 > And
@@ -301,15 +293,25 @@ Sound Dose
 > the **Sound Dose** feature hasn’t been officially confirmed yet, and it’s probably not going to be included.
 >
 > But
-> I’m asking about it here just in case.  
+> I’m asking about it here just in case.
+> and
+> this is an interesting answer.
+> to be honest,
+> it depends on what exactly this feature involves,
+> but either way,
+> I think a 3rd party would be needed.
 >
-> So,
-> the exact specs for **Sound Dose** haven’t been decided yet,
+> and
+> You guys said 'Yes,'
 > but
-> if they do get finalized, I think the main question will be whether it’s possible to implement it or not.
+> does that mean it can be achieved using a 3rd party solution,
+> or
+> are you saying it can be done through an in-house implementation?  
 >
-> So
-> Kuroishi-san, do you have any other inputs?
+> And
+> is this something that's theoretically possible,
+> or
+> do you have some experience of implementing it before?
 
 Power
 > Let's move on to Power
@@ -338,11 +340,13 @@ App
 >   things might get complicated when the app is connected in single mode.
 >
 > For example,
-> let’s say one bud has **ANC Gain set to Level 4**, and then the other bud gets used later—
->   **which setting will take priority?**
->
-> Also,
-> I assume there will be some kind of **sync communication** between the two buds when this happens.
+> let’s say you are using one bud whose ANC Gain is set to like Level 4 out of 10, and then the other bud gets used later
+> in this case,
+> I think this Gain Level 4 setting needs to be synced with the other bud.
+> but
+> Considering the timing of this synchronization, it seems like the design and implementation could get quite complicated.
+> What do you think?"
+> 
 > Would that work smoothly without any issues?
 
 Conclusion
