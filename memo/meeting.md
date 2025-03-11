@@ -14,6 +14,7 @@ Start
 > 
 > (Okay,)
 > `I think we’ve got everyone here`.
+> > but Our product lead, Saito, will be joining us late."
 > Let’s get started.
 
 Preface
@@ -25,7 +26,7 @@ Preface
 > I also see this as an opportunity for us to `get to know` each other for future collaboration.
 >
 > (Of course,)
-> we’ll `go over` the Software Core Questions you've answered the other day, thank you.
+> we’ll `go over` the Software Core Questions you've answered the other day.
 >
 > but
 > I would like to `proceed while` (occasionally) referring to the Feasibility Study materials you have submitted.
