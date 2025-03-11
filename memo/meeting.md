@@ -3,14 +3,16 @@
 ## 20250311
 
 Small Talk
-> Hey, can you hear me?
+> Hey, can everyone hear me?
 > Good.
-> Did you have a good weekend?
+> How's it going?
+>
+> I think everyone will be here soon, so please wait a moment.
 
 Start
-> (Okay,)
 > `Is everyone` from your side `here`?
 > 
+> (Okay,)
 > `I think we’ve got everyone here`.
 > Let’s get started.
 
@@ -26,7 +28,7 @@ Preface
 > we’ll `go over` the Software Core Questions you've answered the other day, thank you.
 >
 > but
-> I would like to `proceed while` occasionally referring to the Feasibility Study materials you have submitted.
+> I would like to `proceed while` (occasionally) referring to the Feasibility Study materials you have submitted.
 >
 > And `feel free to` discuss anything else as well!
 
@@ -47,11 +49,12 @@ Introduction
 > (As for Airoha,)
 > we’re just `getting started with` it.
 >
+> and
 > in order for us to gain a deeper technical understanding,
 > We’ve been `going through` the documents and SDK source code, (and recently,) we’ve been trying to `get` the EVK `up and running`.
 >
 > (`That said,`)
-> everyone here has experience developing our audio equipments, like AV receivers and HiFi products, of course.
+> everyone here has experience developing some audio equipments, like AV receivers and HiFi products, of course.
 >
 > (`And with that,`)
 > could you guys from the Fujikon side introduce yourselves?
@@ -84,15 +87,12 @@ Bluetooth
 >
 > But
 > (`just to add one more thing,`)
-> You don't have to support LC3-SuperWideBand `over` Bluetooth Classic in the first place.
-> Supporting LC3-SuperWideBand over BLE is fine.
+> > You don't have to support LC3-SuperWideBand `over` Bluetooth Classic in the first place.
+> > Supporting LC3-SuperWideBand over BLE is fine.
 > And there's no specific need to support PXP either.
 >
-> Kato-san, do you have any thoughts on these?
->
-> 加藤さんのターン
->
-> Got it.
+> So
+> My apologies for bringing it up.
 >
 > (By the way,)
 > is there a way to check a list of supported profiles somewhere?
@@ -102,16 +102,25 @@ Bluetooth
 >
 > And
 > the next few questions also seem clear-cut.
-> Kato-san, do you want to add anything?
+> I'll skip these items since there are quite a few questions.
 > 
-> (Yeah, as far as I know,)
-> there aren't really any earbuds or headphones that officially support **AAC-ELD**, right?
-> I think it's safe to say it's **not supported**, and that shouldn't be an issue.
-> Kato-san, Is there anything to add or revise regarding this point?"
+> > (Yeah, as far as I know,)
+> > there aren't really any earbuds or headphones that officially support **AAC-ELD**, right?
+> > I think it's safe to say it's **not supported**, and that shouldn't be an issue.
+> > Kato-san, Is there anything to add or revise regarding this point?"
 >
-> Alright,
+> > Alright,
 >
 > but
+> Regarding **line 11**,
+> You said the default is 2, but can it go up to like 4 or 5?
+> I saw 4 mentioned in the datasheet.
+>
+> If there are more than three devices,
+> does it get unstable or something?
+> Are there any restrictions or anything like that?
+>
+> and
 > Regarding **line 16**,
 > This is an area I was also curious about.
 >
