@@ -4,26 +4,28 @@
 
 Tim Urban
 > So in college,
->   __I was a [government major],__
+>   I was a `government major`,
 >     which means
->     __I had to write a lot of papers.__
+>     I had to write a lot of papers.
 >
-> Now, when a normal student writes a paper, __they might spread the work out__ a little like this. `スチューンン`
+> Now,
+> when a normal student writes a paper,
+> they might spread the work out a little like this. `スチューンン`
 >
 > So you know,
->   __you get started__ maybe a little slowly,
+>   you get started maybe a little slowly,
 >   but
->   __you [get enough done]__ in the first week,
->   [that],
+>   you `get enough done` in the first week,
+>   `that`,
 >     with some heavier days later on,  `ウィスム`
->     __everything gets done__, __[things stay civil].__
+>     everything gets done, `things stay civil`.
 >
 > And
-> __I would want to do that__ like that.
->   __That would be the plan.__
->     __I would have it [all ready to go],__
+> I would want to do that like that.
+>   That would be the plan.
+>     I would have it `all ready to go`,
 >     but then,
 >     actually,
->     __the paper would come along,__
+>     the paper would come along,
 >     and then
->     __I would kind of do this.__
+>     I would kind of do this.
