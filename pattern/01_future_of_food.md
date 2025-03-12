@@ -1,6 +1,6 @@
-# PATTERN
+# What's the Future of Food?
 
-## <https://youtu.be/CeUoS2T2hhc?si=izbrlay7dtrBMVrj>
+<https://youtu.be/CeUoS2T2hhc?si=izbrlay7dtrBMVrj>
 
 Uma
 > I'm an optimist
@@ -30,7 +30,7 @@ Uma
 > trying to cook everything she did.                                                `その理由を述べたいので分詞構文`
 >
 > I used to watch her, tried to help her chop vegetables,
->                            or go to the market and bring back meat and slice meat,
+>                            or go to the Sunday market with my dad and bring back meat and slice meat,
 > and
 > (kind of) wanted to cook from day one.                                            `and の後で並列の主語を省略`
 > 
@@ -52,7 +52,7 @@ Uma
 > the way he chopped onions, (just,) I was `hooked onto it`.                          `名詞, I V it` `もうほんとに just`
 > because
 > he would slice them up,
-> (like,) he'll take an onion, and 10 seconds, the whole thing will be sliced and diced like, finely.
+> (like,) he'll take an onion, and in 10 seconds, the whole thing will be sliced and diced like, finely.
 > I'm like, I'm going to master that.
 >
 > So
@@ -67,7 +67,11 @@ Uma
 > and
 > it's just became part of my life.
 >
-> And ...
+> And
+> I feel like it's also a way to fiercely express your creativity or independence and what you want that creation to be.
+>
+> So yeah,
+> it's just deeply, deeply connected to food.
 >
 > What about yours?
 > What's your personal connection to food?
@@ -119,7 +123,7 @@ Jonkung
 > because
 >   I'm `self-taught`,
 >   and
->   I had nothing to `go off of` except my earlier experiences with food.
+>   I had nothing to `go off of` except my earlier experiences with food. `頼る`
 >
 > So (luckily, like)
 > Hong Kong taught me how to eat.

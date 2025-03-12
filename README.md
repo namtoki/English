@@ -4,4 +4,4 @@
 - [Modifier](02_modifier.md)
 - [Main](03_main.md)
 - [Vocablary](04_vocablary.md)
-- [Pattern](05_pattern.md)
+- [Pattern](pattern/README.md)
