@@ -29,3 +29,6 @@ Tim Urban
 >     the paper would come along,
 >     and then
 >     I would kind of do this.
+>
+> And
+> that would happen every single paper. `アンナット`
