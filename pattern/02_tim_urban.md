@@ -3,9 +3,9 @@
 <https://youtu.be/arj7oStGLkU?si=UufIHWw8fMvlYOv5>
 
 Tim Urban
-> So __in college,__
->   I was a `government major`,
->     __which means__ I had to write a lot of papers.
+> So in college,
+>   __I was a `government major`,__
+>     which means __I had to write a lot of papers.__
 >
 > Now,
 > when a normal student write a paper,
