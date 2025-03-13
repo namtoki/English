@@ -1,5 +1,40 @@
 # Meeting
 
+## 20250313
+
+Conduct RFI
+> First and foremost,
+> they have more experience with Airoha chip development than us,
+> so
+> we mainly evaluated them based on how easy it is to communicate with them
+>                                   and
+>                                   whether they have a lot of information that isn’t covered in Airoha’s official documentation.
+>
+> And
+> if we still need to assess which one is technically better,
+> I think we need to build our own technical knowledge of Airoha by working with like the evaluation kit ourselves,
+> and then `use that foundation to` have deeper technical discussions with them.
+
+SoC selection
+> To add to that,
+> both SoCs basically have the features we need,
+>
+> so
+> the deciding factor will mostly `come down to` cost.
+> but
+>
+> That said,
+> there are some differences, like the version of ANC they use, but whether those differences are significant is something we can only determine through actual testing.
+> We still need to figure out how to handle these smaller differences and summarize our approach moving forward.
+> 
+> and
+> Right now,
+> all that information is a bit `all over the place`,
+> so I’d appreciate some time to tidy up and put everything together.
+>
+> We're particularly concerned about the Flash size, since features like voice trigger and voice prompt support could take up a lot of space.
+> That said, we don’t have all the details organized yet, so I’d like to discuss this in more detail next time.
+
 ## 20250311
 
 Small Talk
