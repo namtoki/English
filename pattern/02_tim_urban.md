@@ -31,4 +31,4 @@ Tim Urban
 >     I would kind of do this.
 >
 > And
-> that would happen every single paper. `アンナット`
+> that would happen every single paper. `アンナッウ`
