@@ -274,3 +274,12 @@ Uma
 > No disrespect to salads or greens or beans,
 > but
 > meat is the center of plate for almost every tradition in the world.
+>
+> [           S             ] [          S<-M            ]  [          V O           ]
+> And a lot of our memories
+>                           growing up
+>                           and
+>                           also with our families now
+>                                                       are tied to cooking meat.
+>
+> And while
