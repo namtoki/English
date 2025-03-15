@@ -3,10 +3,11 @@
 <https://youtu.be/CeUoS2T2hhc?si=izbrlay7dtrBMVrj>
 
 Uma
-> I'm an optimist
-> and
-> (I think,)                                                                        `I think の挿入`
-> (in order for us to be able to solve these immense challenges ahead of us,)       `目的を先に述べるパターン`
+> I'm an optimist.
+>
+> And
+> [  挿入 ]  [                          M (in order for 人 to V)                       ]
+> I think, in order for us to be able to solve these immense challenges ahead of us,
 > it's going to require
 >   the worldview of optimism, but a very pragmatic view of solutions.
 >   and
@@ -41,7 +42,7 @@ Uma
 > I went to school in India,
 >
 > And
-> there was this hawker who was right outside our school
+> there was this `hawker` who was right outside our school
 >
 > And
 > I was fascinated with his work
@@ -275,11 +276,28 @@ Uma
 > but
 > meat is the center of plate for almost every tradition in the world.
 >
-> [           S             ] [          S<-M            ]  [          V O           ]
-> And a lot of our memories
->                           growing up
->                           and
->                           also with our families now
->                                                       are tied to cooking meat.
+> And
+> [         S           ] [          S<-M            ]  [          V O           ]
+> a lot of our memories
+>                       growing up
+>                       and
+>                       also with our families now
+>                                                   are tied to cooking meat.
+> 
+> And
+> [         M (while S V)          ]  [         S V O (there is O)           ] [           M (where S V)            ]
+> while it's the most beloved food, there's also this incredible challenge
+>                                                                          where
+>                                                                          we ignore how it comes to the plate.
 >
-> And while
+> And
+> we all know there's a troubling story of how meat comes to the plate.
+>
+> But
+> we love it so much. We love the product so much, not the process so much.
+>
+> And
+> there hasn't been a real solution for it until now.
+>
+> So
+> we've continued our journey as being conflicted carnivores, let's say.
