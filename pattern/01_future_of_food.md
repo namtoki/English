@@ -276,16 +276,18 @@ Uma
 > but
 > meat is the center of plate for almost every tradition in the world.
 >
-> And
 > [         S           ] [          S<-M            ]  [          V O           ]
+>
+> And
 > a lot of our memories
 >                       growing up
 >                       and
 >                       also with our families now
 >                                                   are tied to cooking meat.
-> 
-> And
+>
 > [         M (while S V)          ]  [         S V O (there is O)           ] [           M (where S V)            ]
+>
+> And
 > while it's the most beloved food, there's also this incredible challenge
 >                                                                          where
 >                                                                          we ignore how it comes to the plate.
@@ -301,3 +303,34 @@ Uma
 >
 > So
 > we've continued our journey as being conflicted carnivores, let's say.
+>
+> And
+> I thought
+>   it would be really cool
+>     if we can actually try to work on a solution
+>       where we can bring meat grown from animal cells directly to the plate.
+>
+> So
+> `we're not asking` people
+>   to give up animal-based products,
+> but
+> incorporate that in the future.
+> So the traditions can continue, the culture can continue.
+>
+> It's a `big-tent` solution
+>   `where` nearly people from `all stripes` can come together.
+>
+> And
+> I've thought it will be a win-win,
+> but
+> this was at the time of an idea stage.
+>
+> It is really really hard to do it.
+
+Jonkung
+> `To put it to practice,`
+>   What's been the biggest challenge so far
+>     `in` gett`ing` people to, like, accept this kind of like new way of -
+>       it's even like a product in a way,
+>       but
+>       it's like a new way of accepting what meat is and what meat could be.
