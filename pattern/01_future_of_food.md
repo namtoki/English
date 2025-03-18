@@ -334,3 +334,31 @@ Jonkung
 >       it's even like a product in a way,
 >       but
 >       it's like a new way of accepting what meat is and what meat could be.
+
+Uma
+> Yeah,
+> there have been challenges along the way,
+> but
+> this is `unfolding` in multiple chapters.
+>
+> So
+> the challenges in the first chapter were, people loved the idea
+>                                                  but
+>                                                  did not believe that the science would work.
+>
+> So
+> the first chapter was all about proof of science (showing that the science can work
+>                                                           and
+>                                                           that we can take cells from an egg or a chicken or a cow
+>                                                                       and
+>                                                                       grow meat directly from those cells).
+>
+> And
+> (once we started doing it,) we started showing these products
+>                                        and
+>                                        cooking it in front of people
+>                                        and
+>                                        having hardcore meat eaters and chefs come and cook it.
+>
+> And
+> it just melts, the disbelief melts into like, "Wow, this is possible."
