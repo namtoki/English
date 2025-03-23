@@ -362,3 +362,38 @@ Uma
 >
 > And
 > it just melts, the disbelief melts into like, "Wow, this is possible."
+>
+> And then
+> (when they taste it,) it just `demystifies` a lot of things
+> because
+> all the neurons that have been programmed to kind of recognize as meat will start firing in your brain.
+
+Jonkung
+> Which (I think)
+>   is
+>     so interesting
+> because (like,)
+>   a lot of people that would probably be (like,) your greatest `detractors`
+>     are (like,)
+>       the same type of person that would be uncomfortable eating chicken wings with bones in it still.
+>
+> Our perceptions `of (like,)` from animal to meat
+>   have been so `far removed from`
+>     what it actually is or where it actually comes from,
+> that
+>   this
+>     does not seem (like)
+>       that much of a leap,
+>         `considering` how much we process the meat that we eat already.
+>
+> Like,
+> it
+>   is
+>     unrecognizable
+>       once it comes to your grocery store anyway,
+>         compared to what it was when it was on the farm.
+>
+> So like,
+> what's the difference here?
+> Or like,
+> why is this such a `stretch`?
