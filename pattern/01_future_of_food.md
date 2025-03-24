@@ -5,23 +5,26 @@
 Uma
 > I'm an optimist.
 >
-> And
-> [  挿入 ]  [                          M (in order for 人 to V)                       ]
-> I think, in order for us to be able to solve these immense challenges ahead of us,
-> it's going to require
->   the worldview of optimism, but a very pragmatic view of solutions.
->   and
->   `going at it` over and over again.
-> 
-> Because
-> what might not have worked                                                        `what V で「V なもの」`
-> (a month ago or a week or even a year ago or a decade ago,)
-> would work now.                                                                   `what not V なものが、今は V するようになるだろう`
+> `And` I think, `in order for us to` be able to solve these immense challenges ahead of us,
+>   it's going to require
+>     the worldview of optimism, `but` a very `pragmatic` view of solutions.
+>     `and`
+>     `going at it` over and over again.
+> `Because` what might not have worked
+>   a month ago or a week or even a year ago or a decade ago,
+>     would work now.
+>
+> > I think の後に in order for to を持ってきてまず目的を挿入し、it's going to require 名詞 and 名詞 としている
+> > what V で「V なもの」
 
 Jonkung
-> A focus on the optimism is, (I think,) what we need for (like) younger generation `無生物主語` `I think の挿入` `繋ぎ言葉 like`
-> and
-> I do think, your work is one of those examples of good things.
+> A focus on the optimism is, I think, what we need for like younger generation
+> `and` I do think, your work is one of `those` examples of good things.
+>
+> > 無生物主語, I think の挿入, what S V
+> > 繋ぎ言葉 like
+> > 「those」は必ずしも必要ではありませんが、文の意味やニュアンスを強調したい場合に使われます。
+> > 省略しても意味は通じますが、少し具体的で特定の「良い例」を指しているという印象を与えるため、「those」を使うことが一般的です。
 
 Uma
 > The connection with food itself, it always goes back to childhood for me.         `名詞, it V`
@@ -397,3 +400,29 @@ Jonkung
 > what's the difference here?
 > Or like,
 > why is this such a `stretch`?
+
+Uma
+> Well, yeah, I mean,
+> I think, I'd say this.
+>
+> I think
+>   nearly all major or `transformative` innovations that have happened in the world,
+>       eventually `triumphed` despite `formidable` opposition.
+>
+> And
+> the opposition here is,
+> I think the fear of the unknown is actually higher than all the risks we are taking right now
+>   with the amount of animals we are `raising` in intense, confined places
+>     `that` can increase the risk of pandemics or `zoonotics` or things just like food poisoning.
+>
+> Or draining ecosystems to feed the crops to the animals
+> Or even simply just like, what about animal welfare?
+> Things of that nature.
+>
+> So that's the part that has been really interesting for us to learn
+>   that the fear of the unknown is more than the fear of what we are actually living with every second in our lives.
+>
+> `And` part of this is communicating better, `demystifying` it.
+> `And` I think demystification should be very simple.
+> Tasting the product, magical experience.
+> Touring the place where it's made in clean production facilities, where you can just go around and walk around and say, "Hey, here's animal cell growing."
