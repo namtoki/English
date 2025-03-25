@@ -11,71 +11,53 @@ Uma
 >     `and`
 >     `going at it` over and over again.
 > `Because` what might not have worked
->   a month ago or a week or even a year ago or a decade ago,
->     would work now.
->
+>           a month ago or a week or even a year ago or a decade ago,
+>         would work now.
 > > I think の後に in order for to を持ってきてまず目的を挿入し、it's going to require 名詞 and 名詞 としている
 > > what V で「V なもの」
 
 Jonkung
 > A focus on the optimism is, I think, what we need for like younger generation
 > `and` I do think, your work is one of `those` examples of good things.
->
 > > 無生物主語, I think の挿入, what S V
 > > 繋ぎ言葉 like
 > > 「those」は必ずしも必要ではありませんが、文の意味やニュアンスを強調したい場合に使われます。
 > > 省略しても意味は通じますが、少し具体的で特定の「良い例」を指しているという印象を与えるため、「those」を使うことが一般的です。
 
 Uma
-> The connection with food itself, it always goes back to childhood for me.         `名詞, it V`
+> The connection with food itself, it always `goes back to` childhood for me.
+> > 名詞, it V`
 >
-> And
-> I grew up in the kitchen, (so to speak,) with my mom,
-> trying to cook everything she did.                                                `その理由を述べたいので分詞構文`
+> `And` I grew up in the kitchen, `so to speak,` with my mom, trying to cook everything she did.                                                
+> > その理由を述べたいので分詞構文
 >
-> I used to watch her, tried to help her chop vegetables,
->                            or go to the Sunday market with my dad and bring back meat and slice meat,
-> and
-> (kind of) wanted to cook from day one.                                            `and の後で並列の主語を省略`
-> 
-> but
+> I used to watch her,
+>   tried to help her chop vegetables,
+>            `or`
+>            go to the Sunday market with my dad
+>            `and`
+>            bring back meat and slice meat.
+> `And` `kind of` wanted to cook from day one,
+> `but`
 > I realized some of my skills weren't great.
+> > and の後で並列の主語を省略
 > 
-> So
-> I went to school in India,
+> `So` I went to school in India, `and` there was this `hawker` who was right outside our school.
+> `And` I was fascinated with his work `because` he used to sell the fast foods of India called dhaji `and things like that`.
 >
-> And
-> there was this `hawker` who was right outside our school
+> `But` the way he chopped onions, (just,) I was `hooked onto it`.
+> > `名詞, I V it` `もうほんとに just`
 >
-> And
-> I was fascinated with his work
-> because
-> he used to sell the fast foods of India called dhaji (and things like that)       `とかとか`
->
-> But
-> the way he chopped onions, (just,) I was `hooked onto it`.                          `名詞, I V it` `もうほんとに just`
-> because
-> he would slice them up,
-> (like,) he'll take an onion, and in 10 seconds, the whole thing will be sliced and diced like, finely.
+> `because` he would slice them up`, like,` he'll take an onion`, and in 10 seconds,` the whole thing will be sliced and diced `like,` finely.
 > I'm like, I'm going to master that.
 >
-> So
-> I became the master slicer-dicer of onions in my house.
+> `So` I became the master slicer-dicer of onions in my house.
+> `And` later on in food, obviously, look, it's the most creative expression of anything you can do in a daily life.
+> > ほら、ねぇ look
 >
-> And
-> (later on in food,) (obviously,) (look,)                                          `ほら、ねぇ look`
-> it's the most creative expression of anything you can do in a daily life.
->
-> And
-> I love to cook with my wife and kids,
-> and
-> it's just became part of my life.
->
-> And
-> I feel like it's also a way to fiercely express your creativity or independence and what you want that creation to be.
->
-> So yeah,
-> it's just deeply, deeply connected to food.
+> `And` I love to cook with my wife and kids, `and` it's just became part of my life.
+> `And` I feel like it's also a way to fiercely express your creativity or independence and what you want that creation to be.
+> `So` yeah, it's just deeply, deeply connected to food.
 >
 > What about yours?
 > What's your personal connection to food?
