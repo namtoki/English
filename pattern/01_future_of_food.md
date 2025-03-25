@@ -2,6 +2,10 @@
 
 <https://youtu.be/CeUoS2T2hhc?si=izbrlay7dtrBMVrj>
 
+- 挿入の I think が思ったより多い
+- And の多用が思ったより多い
+- 名詞を先に置いて、直後の文でそれを it で指し示す用法が多い
+
 Uma
 > I'm an optimist.
 >
@@ -28,7 +32,7 @@ Uma
 > The connection with food itself, it always `goes back to` childhood for me.
 > > 名詞, it V`
 >
-> `And` I grew up in the kitchen, `so to speak,` with my mom, trying to cook everything she did.                                                
+> `And` I grew up in the kitchen, `so to speak,` with my mom, trying to cook everything she did.
 > > その理由を述べたいので分詞構文
 >
 > I used to watch her,
@@ -46,7 +50,8 @@ Uma
 > `And` I was fascinated with his work `because` he used to sell the fast foods of India called dhaji `and things like that`.
 >
 > `But` the way he chopped onions, (just,) I was `hooked onto it`.
-> > `名詞, I V it` `もうほんとに just`
+> > 名詞, I V it
+> > もうほんとに just
 >
 > `because` he would slice them up`, like,` he'll take an onion`, and in 10 seconds,` the whole thing will be sliced and diced `like,` finely.
 > I'm like, I'm going to master that.
@@ -63,11 +68,12 @@ Uma
 > What's your personal connection to food?
 
 Jonkung
-> My personal connection to food, (as you said,) it is an expression of my creativity,  `名詞, M, it V`
-> but
-> it is also a way that we express our culture
->            and
->            a way that we `pass down` our culture.
+> My personal connection to food, `as you said,` it is an expression of my creativity,
+>                                              `but`
+>                                              it is also a way that we express our culture
+>                                                         `and`
+>                                                         a way that we `pass down` our cultures.
+> > 名詞, M, it V
 >
 > So
 > (growing up in Hong Kong as well as Toronto,)
