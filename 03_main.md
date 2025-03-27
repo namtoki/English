@@ -103,7 +103,7 @@
 - どういたしまして
   - `Happy to help`                             (Casual) Thanks for reading my outline. `Happy to help!`
   - `You bet.`                                  (Casual Slung)
-  - `Anytime`                                   (Casual)
+  - 👉 `Anytime`                                (Casual)
   - `No problem/worries`                        (Casual)
   - `Not at all`                                (Business / Casual)
   - `Don't mention it`                          (Business)
@@ -131,12 +131,10 @@
   - `I appreciate your help as always.`
   - `I always appreciate your business.`
 
-## FRAMEWORK
-
 ### QUESTION
 
 - 認識しているか聞く
-  - `Do/Would you happen to know O?`            (ご存知ですか？) `Do you happen to know` when the report is due?
+  - 👉 `Do/Would you happen to know O?`         (ご存知ですか？) `Do you happen to know` when the report is due?
   - `You know O?`                               (知っていますか？) `You know` our budget presentation today? / `You know` that guy we met ...?
   - `Did you hear O?`                           (聞きました？) `Did you hear` about Kim? She got promoted.
   - `Do you remember that O?`                   (覚えている？) `Do you remember that` bike at ABC Department Store?
@@ -145,13 +143,13 @@
   - `How do you feel about O?`                  (どう思いますか) `How do you feel about` the service in Japan?
   - `What are your thoughts on O?`              (ご意見をお聞かせください。)
   - `I’d like to hear your opinion on O`        (ご意見を伺いたいです。)
-  - `What's your take on O?`                    (どう思う？) `What's your take on` the new iPhone?
-  - `Any thoughts on O?`                        (何か意見ある？)
-  - `What are the chances that S V?`            (S V の可能性はどれくらい？) `What are the chances that` the meeting will finish early?
-  - `Should the focus be on A or B?`            (A, B どちらに重点を置きますか？) `Should the focus be on` product quality `or on` cost reduction?
+  - 👉 `What's your take on O?`                 (どう思う？) `What's your take on` the new iPhone?
+  - 👉 `Any thoughts on O?`                     (何か意見ある？)
+  - 👉 `What are the chances that S V?`         (S V の可能性はどれくらい？) `What are the chances that` the meeting will finish early?
+  - 👉 `Should the focus be on A or B?`         (A, B どちらに重点を置きますか？) `Should the focus be on` product quality `or on` cost reduction?
 - 要望を聞く
-  - `Would you rather V or V?`                  (どちらをしたいですか？) `Would you rather stay home or go out tonight?`
-  - `Would you prefer to V or V?`               (どちらをしたいですか？) `Would you prefer to stay home or go out?`
+  - 👉 `Would you rather V or V?`               (どちらをしたいですか？) `Would you rather stay home or go out tonight?`
+  - 👉 `Would you prefer to V or V?`            (どちらをしたいですか？) `Would you prefer to stay home or go out?`
   - `Would you be more inclined to V or V?`     (どちらをしたいですか？) `Would you be more inclined to invest in stocks or real estate?`
   - `Would you like O?`                         (O が欲しいですか？) `Would you like` some more?
   - `What should I do?`                         (どうすればいいですか？) `What should I do` in a situation like this?
@@ -164,10 +162,10 @@
   - `Could you V?`                              (してもらってもいいですか？) `Could you` say that again?
   - `Do you think you could V?`                 (してもらってもいいですか？) `Do you think you could` talk to her?
   - `Would you mind V-ing?`                     (V してもらえませんか？) `Would you mind` doing that?
-  - `Would it be possible to V?`                (V してもらえませんか？) `Would it be possible to` have the invoice ready by the 15th?
+  - 👉 `Would it be possible to V?`             (V してもらえませんか？) `Would it be possible to` have the invoice ready by the 15th?
   - `Please do me a favor and V?`               (V してもらえませんか？) `Please do me a favor and give` me a ride to Times Square.
   - `I was wondering if you could V?`           (V してもらえませんか？) `I was wondering if you could` do me a favor.
-  - `I'd be grateful if you could V?`           (V してもらえませんか？) `I would be grateful if you could` give us an ...
+  - 👉 `I'd be grateful if you could V?`        (V してもらえませんか？) `I would be grateful if you could` give us an ...
 - 提案を出す
   - `Would you like to V?`                      (V しませんか？) `Would you like to` watch it together?
   - `(Do you) want to V?`                       (V しませんか？) `Do you want to` get some food first? / `Want to` get dinner?
@@ -180,14 +178,14 @@
   - `Can I borrow you for a second?`            (今いい？)
   - `Do you have a minute/second?`              (今いい？)
   - `Do you have time?`                         (今いい？)
-  - `Is everything all right?`                  (大丈夫？)
+  - 👉 `Is everything all right?`               (大丈夫？)
   - `Can you give me a hand?`                   (手伝ってくれる？)
   - `What are you up to?`                       (何しようとしているの？)
 - シンプルに質問
   - `Is A the same as B?`                       (A は B と同じ？) `Is this the same skirt as` in the ad?
   - `What do you mean by that?`                 (それってどういう意味？)
   - `What's it called?`                         (それは何と呼ばれていますか)
-  - `What if S V?`                              (S V しなかったらどうなる?) `What if I don't meet` the deadline?
+  - 👉 `What if S V?`                           (S V しなかったらどうなる?) `What if I don't meet` the deadline?
   - `(By) When ... ?`                           (いつまでですか？) `(By) When` do I have to finish this?
   - `Do you have the time?`                     (今何時？)
   - `Do you know anyone in A`                   (A に知り合いはいる？)
@@ -201,18 +199,18 @@
 ### OPINION
 
 - 前提
-  - `I can't say for sure until S V`            (S V するまで正確なことは言えない) `I can't say for sure until` I check the details.
+  - 👉 `I can't say for sure until S V`         (S V するまで正確なことは言えない) `I can't say for sure until` I check the details.
   - `I won't know until (time)`                 (までわからない) `I won't know until` Friday.
   - `Of course, I'm sure S V`                   (もちろん S V ということは承知している) `Of course, I’m sure` there are some app-side limitations too.
   - `You might wonder O`                        (気になるかもしれないね) `You might wonder` why that is so.
 - 可能性
-  - `It could be (that) S V`                    (S V かもしれない) `It could be that` Wayne's just naturally fit, but ,,,
-  - `Chances are (that) S V`                    (S V の可能性がある) It's foggy. But `chances are` it'll clear up later on.
-  - `There's a high       chance of O`          (の可能性が高い) `There's a high chance of` a domino effect.
-  - `There's a low/little chance of O`          (の可能性が低い) `There's a low chance of` rain tonight.
+  - 👉 `It could be (that) S V`                 (S V かもしれない) `It could be that` Wayne's just naturally fit, but ,,,
+  - 👉 `Chances are (that) S V`                 (S V の可能性がある) It's foggy. But `chances are` it'll clear up later on.
+  - 👉 `There's a high       chance of O`       (の可能性が高い) `There's a high chance of` a domino effect.
+  - 👉 `There's a low/little chance of O`       (の可能性が低い) `There's a low chance of` rain tonight.
 - 賛成/反対
-  - `I agree with you`                          (同意します) `I totally agree with you` on that.
-  - `I'm fine with O`                           (O で構わない) Personally, `I’m fine with` keeping it as 'Immersion' or redefining it as one of ~~
+  - 👉 `I agree with you`                       (同意します) `I totally agree with you` on that.
+  - 👉 `I'm fine with O`                        (O で構わない) Personally, `I’m fine with` keeping it as 'Immersion' or redefining it as one of ~~
   - `any O will do as long as S V`              (S V 限り O で良い) `Any apartment will do as long as` the rent is low.
   - `It depends O`                              (O による) `It depends.` / `It depends on` the traffic. \ `It depends on` how I feel.
   - `I'm more than happy to V`                  (喜んで V するよ) `I’m more than happy to` answer any questions,
@@ -232,30 +230,28 @@
   - `I also feel that S V`                      (私も同じ考えで S V と思う) `I also feel that` it's a great idea to build a daycare facility next to our building.
   - `I feel like S V`                           (S V な気がする) `I feel like` there is a ton of bricks on my lap.
   - `I find O C`                                (O は C だと思う) `I find it really interesting` to study English.~
-  - `I have a feeling/hunch that S V`           (S V だという気がする) `I have a feeling that` there's more to it.
+  - 👉 `I have a feeling/hunch that S V`        (S V だという気がする) `I have a feeling that` there's more to it.
   - `I have to say S V`                         (S V と言わざるを得ない) `I have to say` your place is adorable!
   - `I hope S V`                                (S V だと願う) `I hope` it doesn't rain.
   - `I remember S V`                            (たしか S V だったよね) `I remember` you went there last year.
-  - `I say S V`                                 (S V と思う) `I say` it's time you force the issue.
+  - 👉 `I say S V`                              (S V と思う) `I say` it's time you force the issue.
   - `I see you have V`                          (S V したようだね) `I see you've` finished planting the shrubs.
   - `I suppose (that) S V`                      (S V と思う (20%)) In that case, `I suppose` I'd like to come and take a look at it.
   - `I suspect (that) S V`                      (S V だと疑っている) `I suspect that` Tom stole the wallet.
   - `I understand that S V`                     (S V だと理解した) `I understand that` you speak a little English.
   - `I wonder if S V`                           (S V かなぁ) `I wonder if` this game is played all over the world.
-  - `I'd say (that) S V`                        (S V と思う) `I'd say` it's usually more art than science.
+  - 👉 `I'd say (that) S V`                     (S V と思う) `I'd say` it's usually more art than science.
   - `I'm sure (that) S V`                       (S V と確信している) `I am sure that` I will enjoy the movie.
   - `I'm sure of O`                             (O だと確信している) `I am sure of` enjoying the movie.
   - `That's rather unlikely`                    (ほとんど無いと思います)
   - `That's really something`                   (たいしたもんだ)
-  - `That's the way it is`                      (しょうがないよ)
-  - `My concern (for O) is (that) S V`          (私が気にしているのは) You show a lot of promise … but `my concern is` I don’t know where to book you.
-  - `S V-ing. That is C`                        (S が V する、これは C だね) `This ramen shop putting whipped cream in soup, that's` gross.
-  - `S V-ing, that'd be C`                      (S が V するとすれば C だね) `A Starbucks opening right next to my apartment, that'd be` amazing.
+  - 👉 `That's the way it is`                   (しょうがないよ)
+  - 👉 `My concern (for O) is (that) S V`       (私が気にしているのは) You show a lot of promise … but `my concern is` I don’t know where to book you.
+  - 👉 `S V-ing. That is C`                     (S が V する、これは C だね) `This ramen shop putting whipped cream in soup, that's` gross.
+  - 👉 `S V-ing, that'd be C`                   (S が V するとすれば C だね) `A Starbucks opening right next to my apartment, that'd be` amazing.
   - `S V. That I V`                             (S V これには V だね) Yes, we need to spend less money.`That I` agree with.
-  - `The same is the case with O`               (同じことが O にも言える) `The same is the case with` "hear" and "about".
+  - 👉 `The same is the case with O`            (同じことが O にも言える) `The same is the case with` "hear" and "about".
   - `I don't know the first thing about O`      (O ついてちっともわからない) I don't know`the first thing about` writing movies.
-- 提案
-  - `We'll see whether S V`                     (S V か確かめよう) `We'll see whether` the newspapers print the story.
 - 好み
   - `I don't care for O`                        (特に好きではない) `I don't care for` spicy food.
   - `I have trouble V-ing`                      (V するのは大変だ) `I have trouble` getting to sleep. / `I have trouble` making friends.
@@ -276,31 +272,27 @@
   - `I didn't mean it`                          (そんなつもりはなかった)
   - `~~. That's not to say (that) S V`          (S V というわけではない) `That's not to say that` it'll be impossible without it, but,,,
   - `It's like O`                               (O みたいなものだ) `It's like` surfing on land.
-  - `It's kind of like O`                       (O みたいなものだ) `It's kind of like` a noodle, but not exactly.
-  - `It’s almost like O`                        (ほぼ O みたいなものだ) `It’s almost like` Christmas.
+  - 👉 `It's kind of like O`                    (O みたいなものだ) `It's kind of like` a noodle, but not exactly.
+  - 👉 `It’s almost like O`                     (ほぼ O みたいなものだ) `It’s almost like` Christmas.
   - `It's not that S V`                         (S V というわけではない) `It's not like` Joe is a bad guy. He is just shady sometimes.
   - `It's not that A but (that) B`              (A というわけではなく B だ)
-  - `It's not like S V`                         (S V というわけではなくて)
-  - `It's more like S V`                        (なんというかむしろ S V だ)
-  - `It's more that S V`                        (むしろ S V だ)
-  - `It's just that S V`                        (S V というだけだ)
-  - `It's the fact that S V`                    (S V だからだ) But not because it's so big. `It's the fact that` it's so diverse.
-  - `It's not the fact that S V`                (S V だからではない) `It's not the fact that` I find him boring.
-  - `It's not just the fact that S V`           (S V だからだけではない) `It's not just the fact that` you called me during a meeting.
-  - `just because A doesn't mean B`             (A だからと言って B ではない) `Just because` he smiles a lot `doesn't mean` he's kind.
+  - 👉 `It's not like S V`                      (S V というわけではなくて)
+  - 👉 `It's more like S V`                     (なんというかむしろ S V だ)
+  - 👉 `It's more that S V`                     (むしろ S V だ)
+  - 👉 `It's just that S V`                     (S V というだけだ)
+  - 👉 `It's the fact that S V`                 (S V だからだ) But not because it's so big. `It's the fact that` it's so diverse.
+  - 👉 `It's not the fact that S V`             (S V だからではない) `It's not the fact that` I find him boring.
+  - 👉 `It's not just the fact that S V`        (S V だからだけではない) `It's not just the fact that` you called me during a meeting.
+  - 👉 `just because A doesn't mean B`          (A だからと言って B ではない) `Just because` he smiles a lot `doesn't mean` he's kind.
   - `I was just saying`                         (と言いたかっただけ) No! `I was just saying` ... it's a new look for you.
-- アドバイス
+- 提案/アドバイス
   - `It wouldn't hurt to V`                     (V するに越したことはない) `It wouldn't hurt to` have some English skills.
   - `It might be a good idea to V`              (V したほうがいいかも) `It might be a good idea to` read the reviews before you buy it.
-
-### FACT
-
-- 未来
-  - `It's up in the air whether S V`            (S V かどうか決まっていない) `It's up in the air whether` the game will be called off or not.
-- 一般
+  - `We'll see whether S V`                     (S V か確かめよう) `We'll see whether` the newspapers print the story.
+- 客観的
+  - 👉 `It's up in the air whether S V`         (S V かどうか決まっていない) `It's up in the air whether` the game will be called off or not.
   - `It's a custom to V`                        (V する習慣だ) `It's a custom to` take off your shoes before entering ...
   - `It's traditional to V`                     (V する習慣だ) In Japan, `it's traditional to` visit ...
   - `Something came up`                         (急用ができた)
-- 過去
-  - `Turns out S V`                             (S V ということがわかった) `Turns out` my five-year-old daughter already knows Santa doesn't exist.
-  - `There're times when S V`                   (S V なことがある) `There're times when I crave` a Starbucks Frappuccino really badly.
+  - 👉 `Turns out S V`                          (S V ということがわかった) `Turns out` my five-year-old daughter already knows Santa doesn't exist.
+  - 👉 `There're times when S V`                (S V なことがある) `There're times when I crave` a Starbucks Frappuccino really badly.
