@@ -2,53 +2,30 @@
 
 ## PHRASE
 
-### BUSINESS
+### COMMON
 
-- お世話になっております
-  - `I hope you are doing well.`                (相手の健康や状況を気遣う一般的な表現)
-  - `Thank you for your continued support.`     (継続的なサポートに感謝を示す場合)
-  - `I appreciate your help as always.`
-  - `I always appreciate your business.`
-- お呼びでしょうか
-  - `(Did) You wanted to see me?`
-- リモート会議表現
-  - `I can't see O.`                            (O が見えません) `I can't see` you / `I can't see` the material.
-  - `I was on mute`                             (ミュートでした)
-  - `Could you go over it again?`               (もう一度言ってもらえませんか？)
-  - `Could you make O bigger?`                  (大きくしてもらっていいですか？) `Could you make the material/notes bigger`?
-  - `Could you type it in the chat?`            (チャットに書いてもらってもいいですか？)
+- 議論に使える
+  - 👉 `What's going on with O?`                (O の進捗はいかがですか？) `What's going on with` our project?
+  - 👉 `What's the situation with O?`           (O の進捗はいかがですか？) `What's the situation with` our project?
+  - 👉 `I'll get back to you`                   (後で連絡するね)
+  - 👉 `I'll let you know`                      (お知らせします)
+  - 👉 `I'll tell you later`                    (後でお知らせします)
+  - 👉 `So much for O`                          (O はここまでにしましょう) `So much for` the small talk. Let's get down to business.
+  - `Leave it there`                            (ここまでにしましょう)
 - 急ぎではないことを伝える
   - `Take your time with O`                     (ゆっくり取り組んでいいよ) `Take your time with` this project.
   - `No rush.`                                  (急がなくて大丈夫です。)
-  - `It’s not urgent.`                          (急ぎではありません。)
+  - 👉 `It’s not urgent.`                       (急ぎではありません。)
   - `There is no particular urgency.`           (特に急ぎではありません。)
-  - `Please handle it at your convenience.`     (ご都合の良いときに対応してください。)
-- 状況を聞く
-  - `What's going on with O?`                   (O の進捗はいかがですか？) `What's going on with` our project?
-  - `What's the situation with O?`              (O の進捗はいかがですか？) `What's the situation with` our project?
+  - 👉 `Please handle it at your convenience.`  (ご都合の良いときに対応してください。)
 - 断る
   - `I'm still working on it`                   (今やっている最中です / まだ食べている途中です)
   - `I'm V-ing ... at the moment.`              (V 中だから邪魔しないで) Hang on. `I'm just finishing up an email at the moment`
   - `I'm trying to V`                           (V 中だから邪魔しないで) Hey, Toshi? `I'm trying to work`, Emily!
   - `I'm in the middle of something`            (今手が離せない)
   - `I've got my hands full.`                   (手が離せない) Sorry. `I've got my hands full` right now.
-- あとで
-  - `I'll let you know`                         (お知らせします)
-  - `I'll tell you later`                       (後でお知らせします)
-- ここまで
-  - `Leave it there`                            (ここまでにしましょう)
-  - `So much for O`                             (O はここまでにしましょう) `So much for` the small talk. Let's get down to business.
-
-### COMMON
-
-- 説明したい
-  - `How can I put this?`                       (なんて言えばいいかな)
-  - `What's the word for it?`                   (何ていうんだっけ) I need something to mix the soup... `What's the word for it?` Ah, a ladle!
-  - `I’m not sure I follow`                     (理解が追いついていません) `I’m not sure I follow.` Could you elaborate?
 - 許諾
   - `You name it.`                              (なんでも (君が決めて) いいよ)
-- 買い物
-  - `I'll take it.`                             (これにします)
 - 他
   - `it's in the way`                           (邪魔です)
   - `Special thanks go to O`                    (O に多大な感謝を)
@@ -56,34 +33,37 @@
   - `Just give it time`                         (時間が解決してくれる) Dating is a nightmare. `Just give it time.`
   - `mum's the word`                            (他言無用 今のことは黙っていてね)
 
-### INTERJECTIONS
+### CONVERSATION
 
+- ビジネス
+  - `(Did) You wanted to see me?`
+- リモート会議
+  - `I can't see O.`                            (O が見えません) `I can't see` you / `I can't see` the material.
+  - `I was on mute`                             (ミュートでした)
+  - 👉 `Could you make O bigger?`               (大きくしてもらっていいですか？) `Could you make the material/notes bigger`?
+  - `Could you type it in the chat?`            (チャットに書いてもらってもいいですか？)
+- 買い物
+  - `I'll take it.`                             (これにします)
+- わかっていない
+  - 👉 `I’m not sure I follow`                  (理解が追いついていません) `I’m not sure I follow.` Could you elaborate?
+  - 👉 `Could you go over it again?`            (もう一度言ってもらえませんか？)
 - 独り言
+  - 👉 `How can I put this?`                    (なんて言えばいいかな)
+  - 👉 `What's the word for it?`                (何ていうんだっけ) I need something to mix the soup... `What's the word for it?` Ah, a ladle!
   - `why`                                       (おや)
   - `I know!`                                   (あ、そうだ) `I know!` Let's go bowling.
   - `Here we go again`                          (まただ！) `Here we go again!` I told you I am not interested in getting married!
   - `There you go again.`                       (まただ！) `There you go again.` How many times do I have to tell you?
   - `Not again!`                                (まただ！)
-  - `That's fanny`                              (おもろ！) `That's fanny!`(fanny ha-ha)
-  - `That's fanny`                              (おかしいなぁ) `That's fanny.` Where are my keys?(fanny weird)
-- 話しかける
-  - `You know what`                             (あのさ) `You know what,` I'm going to get an ice cream cone.
-  - `Here we go`                                (さぁ！) `Here we go`! Your dinner is ready! / `Here we go!` That is the building we~
-  - `Here we go`                                (ハイチーズ) Sure! Line up in front of that statue! 3.2.1 `here we go`!
-  - `Here we go`                                (はじめましょう) Have you prepared everything? OK, `here we go`!
-  - `Here we are`                               (着いた！) `Here we are`! Home sweet home.
-  - `There we go.`                              (よし！) Man, am I out of shape.`There we go`. Hey, Anna! Sven!
-  - `There we are.`                             (よし！) Well,`there we are`. I've finally finished my homework.
-  - `Here you go/are`                           (どうぞ) `Here you go`. This is the doll you wanted.
-  - `There you go.`                             (どうぞ) I’m going to go for it! / Yeah.`There you go`!
-  - `Hey, stranger!`                            (珍しいね)
-  - `It's been a while`                         (久しぶり)
-  - `It's been a month since S V`               (S V ぶり) `It's been a month since` we met the last time.
-  - `I haven't seen you in O`                   (O ぶり) `I haven't seen you in` a month.
-- 相槌
-  - `(You're) Right`                            (そうね)
+  - 👉 `That's fanny`                           (おもろ！) `That's fanny!`(fanny ha-ha)
+  - 👉 `That's fanny`                           (おかしいなぁ) `That's fanny.` Where are my keys?(fanny weird)
+- 返事
+  - 👉 `(You're) Right`                         (そうね)
+  - 👉 `I know, right?`                         (だよね) The new Star Wars is awesome! `I know, right?`
+  - 👉 `Makes sense`                            (論理的な説明に対する納得・理解のリアクション)
+  - 👉 `Fair enough`                            (少し距離を取りつつも、受け入れている感じ)
+  - 👉 `I hear you`                             (同意ではなく「理解」の表明) I’m not looking forward to the directors’ meeting tomorrow. `I hear you.`
   - `I bet`                                     (だよね) There was so crowded and I couldn’t ride on anything! `I bet.` it’s summer time.
-  - `I know, right?`                            (だよね) The new Star Wars is awesome! `I know, right?`
   - `Tell me about it`                          (だよね)
   - `You can say that again.`                   (だよね)
   - `I see (what you mean)`                     (その通りです)
@@ -95,25 +75,23 @@
   - `I know what you mean`                      (わかるよ)
   - `I've been there`                           (わかる)
   - `You never know.`                           (わからないよ) I'm totally out of ideas.`You never know.` Inspiration can strike anytime.
-  - `I hear you`                                (言いたいことはわかります) I’m not looking forward to the directors’ meeting tomorrow. `I hear you.`
   - `(That's) True`                             (たしかに)
   - `Same here`                                 (わたしもです)
   - `So do I`                                   (わたしもです)
   - `Neither do I`                              (わたしもです)
   - `That's what I think, too`                  (私も思っていたこと)
-  - `Fair enough`                               (okay)
-  - `Makes sense`                               (理解しました)
-- 感想
-  - `Sounds like a plan`                        (よさそう)
-  - `Sounds good`                               (いいね)
+  - 👉 `Sounds like a plan`                     (よさそう)
+  - 👉 `Sounds good`                            (いいね)
   - `That sounds like  O`                       (それは O だね) `That sounds like` a lot of work.
-  - `I hope not`                                (そうならないことを願うよ)
-  - `I hope so`                                 (そう願うよ)
-  - `Good to know`                              (知れてよかった)
+  - 👉 `I hope not`                             (そうならないことを願うよ)
+  - 👉 `I hope so`                              (そう願うよ)
+  - 👉 `Good to know`                           (知れてよかった)
   - `I told you`                                (だから言ったじゃん)
   - `Been there done that`                      (やったことある、もういい)
   - `I was going to say`                        (言おうと思っていたよ)
-  - `That would be great`                       (そうしていただけると嬉しい)
+  - 👉 `That would be great`                    (そうしていただけると嬉しい)
+  - `You flatter me.`                           (お世辞でも嬉しいです)
+  - `Lucky you!`                                (うらやましい)
 - 回答
   - `I will do that then`                       (じゃあそうします)
   - `That's what I'll do`                       (じゃあそうします)
@@ -130,9 +108,28 @@
   - `Not at all`                                (Business / Casual)
   - `Don't mention it`                          (Business)
   - `My pleasure`                               (Formal)
-- 軽い返答
-  - `You flatter me.`                           (お世辞でも嬉しいです)
-  - `Lucky you!`                                (うらやましい)
+- 話しかける
+  - `You know what`                             (あのさ) `You know what,` I'm going to get an ice cream cone.
+  - `Here we go`                                (さぁ！) `Here we go`! Your dinner is ready! / `Here we go!` That is the building we~
+  - `Here we go`                                (ハイチーズ) Sure! Line up in front of that statue! 3.2.1 `here we go`!
+  - `Here we go`                                (はじめましょう) Have you prepared everything? OK, `here we go`!
+  - `Here we are`                               (着いた！) `Here we are`! Home sweet home.
+  - `There we go.`                              (よし！) Man, am I out of shape.`There we go`. Hey, Anna! Sven!
+  - `There we are.`                             (よし！) Well,`there we are`. I've finally finished my homework.
+  - `Here you go/are`                           (どうぞ) `Here you go`. This is the doll you wanted.
+  - `There you go.`                             (どうぞ) I’m going to go for it! / Yeah.`There you go`!
+  - `Hey, stranger!`                            (珍しいね)
+  - `It's been a while`                         (久しぶり)
+  - `It's been a month since S V`               (S V ぶり) `It's been a month since` we met the last time.
+  - `I haven't seen you in O`                   (O ぶり) `I haven't seen you in` a month.
+
+### TEXT
+
+- メール表現
+  - 👉 `I hope you are doing well.`             (相手の健康や状況を気遣う一般的な表現)
+  - `Thank you for your continued support.`     (継続的なサポートに感謝を示す場合)
+  - `I appreciate your help as always.`
+  - `I always appreciate your business.`
 
 ## FRAMEWORK
 
