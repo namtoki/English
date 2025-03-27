@@ -16,9 +16,14 @@
 
 今日の議題
 > Today’s agenda has three items — all just progress updates.
-> They’ve all moved from TODO to IN PROGRESS.
 >
 > `And` the first two are related to the Fit test for Use Case Study 1, and the last one is about Re-married Mode for Use Case Study 9.
+>
+> They’ve all moved from TODO to IN PROGRESS.
+
+説明が必要か？
+> Each of these issues has some `progress summarized`    like this
+> would it be helpful if I gave a `quick rundown` here?
 
 Fit test アルゴリズム
 > So, first off, "Clarify fit test algorithm with Airoha Bluetooth chips"
@@ -35,8 +40,8 @@ Fit test アルゴリズム
 > > 図を大きくしてから
 > `the way it works is`: sound is played from the speaker, `and` picked up by the feedback mic, `and then` it runs its own air leakage detection algorithm.
 >
-> `That said,` there’s a chance the Personalization libraries might have their own built-in Fit test features,
-> `and` they might recommend to use those instead. `So` I’m planning to `keep checking in with` companies like Mimi and Audiodo to see what they say about that.
+> `That said,` there’s a chance the Personalization libraries might have their own built-in Fit test features, and I know Audiodo & Audiara have the feature.
+> `So` I’m planning to `keep checking in with` companies like Audiara and Audiodo to see what they say about that.
 >
 > > レコメンド機能について聞かれたら
 > > Ah yeah, I’ll cover that in the next issue — gonna talk about it right after this.
@@ -46,7 +51,7 @@ Fit test レコメンド
 >
 > This task is about ear tip recommendation.
 >
-> `And` the Airoha's Fit test, as I said, doesn’t include any kind of recommendation feature.
+> `And` the Airoha's Fit test, as I said, actually, doesn’t include any kind of recommendation feature.
 > `Basically,` when you think of it as an API, it only returns two values — either 'Good' or 'Not Good'.
 >
 > That said, I want to look into whether it’s really impossible or if there’s some way to `tweak` it.
@@ -55,7 +60,7 @@ Fit test レコメンド
 Re-married
 > And the last one is here.
 >
-> This task mainly focuses on whether the user can remarry by themselves.
+> This task mainly focuses on whether the users can remarry by themselves.
 >
 > so far,
 > this looks feasible, but it’s a bit of a challenge.
@@ -65,13 +70,19 @@ Re-married
 > The key thing here is something called SIRK — both buds need to have the same key to pair up.
 > This comes from how BLE is designed to treat two devices as one, unlike BR/EDR, which doesn’t have this kind of mechanism.
 >
-> `And` There is an API to sync the SIRK between the left and right buds — and we’re probably going to need to call that either from the charging case or from the smartphone app.
+> `And` There is an API to sync the SIRK between the left and right buds — and we’re probably going to need to call that API either from the charging case or from the smartphone app.
 >
-> I think the UX team is currently working through this part of the story, so thanks in advance for continuing to explore that.
+> `And` I think the UX team is currently working through this part of the story, so thanks in advance for continuing to explore that.
 > but at the same time, from the software side, we’ll stay ready to support whichever direction the spec ends up going.
 >
 > Just a heads-up — there's still a chance that, after digging a bit deeper, we might find out it's actually not feasible.
 > `So` just keep that in mind.
+>
+> > 何か聞かれたら
+> > To be honest, I'm not super familiar with it yet
+> > I'm still getting up to speed.
+> > But I’m working on it and aiming to get a full grasp of everything soon.
+> > After that I'll get back to you.
 
 ## 20250313
 
