@@ -6,7 +6,7 @@
 
 - 強いこだわりが無いとき
   - 👉 `if I had to say/guess`                  (強いて言うなら) `If I had to guess,` I would say that she is single.
-  - `if anything`                               (どちらかというと) But now, `if anything,` they are making too much of it.
+  - 👉 `if anything`                            (どちらかというと) But now, `if anything,` they are making too much of it.
   - `just out of curiosity`                     (単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
 - どういう文脈で話そうとしているか
   - `as/like I was saying`                      (さっき言った通り) Sorry. `As I was saying,` the acting was amazing.
@@ -16,7 +16,7 @@
   - `You know how S V?`                         (じゃん？) `You know how` I've been looking for a new TV for a while?
   - `I told you O, right?`                      (O と言ったよね) `I told you` about my dad, `right?`
 - 予防線を張る
-  - `if I'm not mistaken`                       (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
+  - 👉 `if I'm not mistaken`                    (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
   - `in one's defence`                          (言い訳すると) `In my defense,` it was dark and he was a very pretty guy!”
   - `This might be just me, but`                (自分だけかもしれないけど)
   - `Don't get me wrong, but`                   (誤解しないでほしいんだけど)
@@ -25,10 +25,10 @@
   - `I hate to admit it, but`                   (認めたくないけど) `I hate to admit it, but` I might need your help.
   - `You know as well as I do that S V`         (ご存じかと思いますが S V) `You know as well as I do that` this is very important.
 - 反論
-  - `That's a fair point, but`                  (それはもっともですが、)
+  - 👉 `That's a fair point, but`               (それはもっともですが、)
   - `You (may) have a point`                    (一理あるね) `You may have a point there`, but I still believe the plan is feasible
-  - `I see your point, but`                     (仰ることは分かります) `I see your point, but` I have a slightly different view.
-  - `That's not the way I see it`               (違う見方をしています)
+  - 👉 `I see your point, but`                  (仰ることは分かります) `I see your point, but` I have a slightly different view.
+  - 👉 `That's not the way I see it`            (違う見方をしています)
 - お願い
   - `I hope I'm not interrupting you`           (迷惑でなければいいのですが)
   - `I hope you don't mind if`                  (迷惑でなければいいのですが) `I hope you don't mind if` I eat while we talk.

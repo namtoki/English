@@ -4,7 +4,7 @@
 
 導入
 > I `figured` we have a bunch of assignments out of Use Case Study,
-> `so` I added a row to track our progress.
+> `so` I added this row to track our progress.
 >
 > We're `keeping track of` those assignments as child issues under this Jira issue,
 > `and` this is about how much we've had so far.
@@ -24,6 +24,7 @@
 説明が必要か？
 > Each of these issues has some `progress summarized`    like this
 > would it be helpful if I gave a `quick rundown` here?
+> Or is it sufficient for everyone to see each issue at your convinient time?
 
 Fit test アルゴリズム
 > So, first off, "Clarify fit test algorithm with Airoha Bluetooth chips"
