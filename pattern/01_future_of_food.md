@@ -75,77 +75,62 @@ Jonkung
 >                                                         a way that we `pass down` our cultures.
 > > 名詞, M, it V
 >
-> So
-> (growing up in Hong Kong as well as Toronto,)
+> `So` growing up in Hong Kong as well as Toronto,
 > food was very much a way that I `was attached to` the things that my parents loved as well as my grandparents.
 >
 > Um,
-> My own `grasp on` Cantonese language is very, very, weak.
-> (because of all the traveling that we did when I was younger
+> My own `grasp on` Cantonese language, it is very, very, weak.
+> `because` of all the traveling that we did when I was younger
+> > 名詞, it V
 >
-> So
-> I felt like relearning cultural dishes was a way that I would easily `get in contact with` my roots.
-> (`without having to` learn a language)
+> `So` I felt like relearning cultural dishes was a way that I would easily `get in contact with` my roots.
+>
+> `without having to` learn a language.
 
 Uma
 > What did food mean to you when you were growing up in Hong Kong?
 
 Jonkung
-> (I mean,) (food,) I was very, very blessed.                                       `ええと I mean` `名詞のみで話題を示す`
+> I mean, food, I was very, very blessed.
+> > ええと I mean 名詞のみで話題を示す
+>
 > Hong Kong, as is India, has a very rich culinary history.
 >                         and
->                         actually shares a little similar ones in terms of,
->                         (I would guess)
+>                         actually shares a little similar ones in terms of, I would guess, Well, `imperialism`.
 
 Uma
-> Is it the spices?                                                                     `Is it O?`
+> Is it the spices?
 
 Jonkung
-> Well, `imperialism`.
+> Yes. Yeah
+> `but` our appreciation for spices and flavors. There's an internationality that was brought into there.
 >
-> Yes. Yeah but
-> our appreciation for spices and flavors.
-> there's an internationality that was brought into there.
+> `So` I `was very spoiled for choice` in terms of what good food is.
+> `and`
+> I used that memory to, `kind of like,` craft my entire skill set
+> `because` I'm `self-taught`, `and` I had nothing to `go off of (頼る)` except my earlier experiences with food.
 >
-> So
-> I `was very spoiled for choice` (in terms of what good food is).
->
-> and
-> I used that memory to, (kind of like,) craft my entire skill set
-> because
->   I'm `self-taught`,
->   and
->   I had nothing to `go off of` except my earlier experiences with food. `頼る`
->
-> So (luckily, like)
-> Hong Kong taught me how to eat.
->
-> And (by that,)
-> I taught myself how to cook.
+> `So` `luckily, like` Hong Kong taught me how to eat.
+> `And` `by that,` I taught myself how to cook.
 
 Uma
-> So
-> was that experience one of those formative ones that made you say, "I want to cook in America"?
+> `So` was that experience one of those formative `ones that made you say`, "I want to cook in America"?
+> > Was that 〇〇 one of 〇〇 that 〇〇?
 
 Jonkung
 > Yeah
-> The biggest reason was (because)  `because は文法的には不要だが、口語ではよく挿入される`
->   where I was living,
->   where I do live now,
->   Detroit,
->     (at the time)                 `S (M) V が口語で多用されることがわかる`
->     didn't have a lot of options for traditional Cantonese food that I missed.
+> The biggest reason was `because` where I was living,
+>                                where I do live now,
+>                                Detroit,             `at the time` didn't have a lot of options for traditional Cantonese food that I missed.
+> > because は文法的には不要だが、口語ではよく挿入される
+> > S (M) V が口語で多用されることがわかる
 > 
-> So
-> out of necessity, which,
-> (as I think like,)
->   is a very common thread among a lot of students from Asia,
->   is like they teach themselves how to cook
->     because
->       where they end up for school doesn't offer the food that they miss from home.
+> `So` `out of necessity`, which, `as I think like,` is a very common thread among a lot of students from Asia,
+>                                              is like they teach themselves how to cook
+>                      `because` where they end up for school doesn't offer the food that they miss from home.
 >
-> And yeah,
-> that was (pretty much) the basis of it.
+> `And` yeah,
+> that was pretty much the basis of it.
 >
 > `It just so happened that` it turned into my career `as opposed to` just a hobby.
 >
