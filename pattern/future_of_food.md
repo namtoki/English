@@ -5,6 +5,7 @@
 - 挿入の I think が思ったより多い
 - And の多用が思ったより多い
 - 名詞を先に置いて、直後の文でそれを it で指し示す用法が多い
+- `I loved it when S V` で、S が V するのが好きだ
 
 Uma
 > I'm an optimist.
@@ -147,104 +148,92 @@ Jonkung
 Uma
 > He was a physician.
 >
-> And uh
-> I loved it when he would take care of people,     `V1 it when S V2 で S が V2 するのが V1 だ`
-> and
-> there would be this expression of, I think, gratitude.
+> `And` uh I loved it when he would take care of people,
+> > V1 it when S V2 で S が V2 するのが V1 だ
 >
-> And
-> my grandfather would not expect anything in return.
+> `and` there would be this expression of, I think, gratitude.
+>
+> `And` my grandfather would not expect anything in return.
 > He never charged a dollar for anyone.
-> He was in the Gandhian movement and freedom movement for India.
+> He was in the Gandhian movement `and` freedom movement for India.
 >
-> And
-> I just grew up adoring him.
+> `And` I just grew up adoring him.
 > I'm like "Ah, that would be cool."
 >
-> And then
-> (as I started learning more about medicine,)
+> `And then` as I started learning more about medicine,
 > I went to one of the medical schools in India,
->   and
+>   `and`
 >   realized very quickly that cardiology is one thing `where` you would `get to` save patients' lives,
->     literally resuscitate patients who were dead in the field,
->     resuscitate them and bring them back to life.
-> And
-> I found nothing more gratifying than being able to save someone's life.
+>   literally resuscitate patients who were dead in the field,
+>   resuscitate them and bring them back to life.
+> `And` I found nothing more gratifying than being able to save someone's life.
 >
-> And then
-> that relationship continues afterwards,
-> (because)
-> then there's a bond between you and the patient
->                                     who
->                                     now is not a patient anymore,
->                                            back to living his own life or her own life.
+> `And then` that relationship continues afterwards,
+> `because` then there's a bond between you and the patient `who` now is not a patient anymore,
+>                                                                    back to living his own life or her own life.
 >
-> And then
-> this bond with that person and their family (kind of) continues on.
+> `And then`
+> this bond with that person and their family `kind of` continues on.
 >
 > So
 > I was really like, this is what I really want to be in my life.
 
 Jonkung
-> `Would you say (like) that`   `という感じですかね？`
->                      intersectionality of (like) being able to tend and care for people
->                      is
->                      (like,) what `crossed you over` into this food space then?
+> `Would you say (like) that` intersectionality of `like` being able to tend and care for people
+>                           is `like,`
+>                           what `crossed you over` into this food space then?
+> > という感じですかね？
 
-Uma
-> (You know,)
-> I didn't know back in 2015, 2016,
->                       when I was thinking of quitting cardiology
-                                   and
-                                   starting off on this crazy journey that I'm on right now,
-> (but `looking back` and `reflecting on it`,)
-> there is a lot of common threads
->                   (where)
->                   both are bound by a deep sense of purpose and deep sense of building relationships
->                   and
->                   `defy`ing some of the things
->                           (where)
->                           people keep telling you it's impossible to do this.
->
+
+## Uma
+
+> `You know,` I didn't know back in 2015, 2016,
+>                                 when I was thinking of quitting cardiology
+>                                            `and`
+>                                            starting off on this crazy journey that I'm on right now,
+
+👉 分子構文で「〜〜してみると」
+> but `looking back` and `reflecting on it`,
+
+👉 「名詞 where S V」で「S V のような名詞」
+> there is a lot of common `threads`
+>                          `where`
+>                          both `are bound by` a deep sense of purpose
+>                                              `and`
+>                                              deep sense of building relationships
+>                                   `and`
+>                                   `defy`ing some of the things
+>                                                       `where`
+>                                                       people keep telling you it's impossible to do this.
+
 > It's impossible to save someone's life.
->
 > They're already dead in the field.
->
 > You can't `resuscitate` them back.
->
-> And here,
-> we are looking at a impending food crisis, climate crisis (`of such large proportions`).
->
-> And
-> people keep saying it's impossible to do this.
->
+> `And` here, we are looking at a impending food crisis, climate crisis `of such large proportions`.
+> `And` people keep saying it's impossible to do this.
 > We cannot do this, we will not do this, people will not change, countries won't change.
 >
-> And
-> I think this is a much bigger fight than saving an individual patient's life.
+> `And` I think this is a much bigger fight than saving an individual patient's life.
 >
-> But
-> I think
->   those common threads
->   of saying,
->   yes, these are possible by putting one foot in front of the other
->                              and
->                              starting to slowly `make these things go away`, `こなす`
+> `But` I think those common threads of saying, yes,
+>                                     these are possible by `putting one foot in front of the other`
+>                                                           `and`
+>                                                           starting to slowly `make these things go away`,
 > and
 > you climb one mountain, celebrate the victory for a moment, and then the next mountain is in front of you.
 
-Jonkung
-> So
-> that was your(, kind of) inspiration to start Upside?
+## Jonkung
 
-Uma
-> Yes, yeah, yeah,
-> Upside Foods is a company that I started in late 2015.
->
-> And
-> the idea is(, you know,) the most delicious product in the world that we've known as humans is meat.
+> `So` that was your, `kind of` inspiration to start Upside?
 
-Jonkung
+## Uma
+
+> Yes, yeah, yeah, Upside Foods is a company that I started in late 2015.
+> `And` the idea is, `you know,` the most delicious product in the world that we've known as humans is meat.
+
+## Jonkung
+
+👉 will があることによって、賛成するようにするよ、という感じを出している
 > Yeah, I will agree with you.
 
 Uma
