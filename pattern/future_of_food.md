@@ -236,63 +236,41 @@ Jonkung
 👉 will があることによって、賛成するようにするよ、という感じを出している
 > Yeah, I will agree with you.
 
-Uma
+## Uma
+
 > No disrespect to salads or greens or beans,
-> but
+> `but`
 > meat is the center of plate for almost every tradition in the world.
->
-> [         S           ] [          S<-M            ]  [          V O           ]
->
-> And
-> a lot of our memories
->                       growing up
->                       and
->                       also with our families now
->                                                   are tied to cooking meat.
->
-> [         M (while S V)          ]  [         S V O (there is O)           ] [           M (where S V)            ]
->
-> And
-> while it's the most beloved food, there's also this incredible challenge
->                                                                          where
->                                                                          we ignore how it comes to the plate.
->
-> And
-> we all know there's a troubling story of how meat comes to the plate.
->
-> But
-> we love it so much. We love the product so much, not the process so much.
->
-> And
-> there hasn't been a real solution for it until now.
->
-> So
-> we've continued our journey as being conflicted carnivores, let's say.
->
-> And
-> I thought
->   it would be really cool
->     if we can actually try to work on a solution
->       where we can bring meat grown from animal cells directly to the plate.
->
-> So
-> `we're not asking` people
->   to give up animal-based products,
-> but
-> incorporate that in the future.
-> So the traditions can continue, the culture can continue.
->
-> It's a `big-tent` solution
->   `where` nearly people from `all stripes` can come together.
->
-> And
-> I've thought it will be a win-win,
-> but
-> this was at the time of an idea stage.
->
+
+👉 be tied to
+> [And] a lot of our memories growing up
+>                           and
+>                           also with our families now
+>     `are tied to` cooking meat.
+
+> [And] while it's the most beloved food, there's also this incredible challenge [where] we ignore how it comes to the plate.
+> [And] we all know there's a troubling story of how meat comes to the plate.
+> [But] we love it so much. We love the product so much, not the process so much.
+> [And] there hasn't been a real solution for it until now.
+
+👉 最後に let's say を付けて、「言わば」的な感じを出す
+> [So] we've continued our journey as being conflicted `carnivores`, let's say.
+
+👉 it would be C if S V
+> [And] I thought it would be really cool
+>               if we can actually try to work on a solution
+>                                                   [where] we can bring meat grown from animal cells directly to the plate.
+
+> [So] we're not asking people to give up animal-based products,
+>      [but]
+>      incorporate that in the future.
+> [So] the traditions can continue, the culture can continue.
+> It's a `big-tent` solution [where] nearly people from `all stripes` can come together.
+> [And] I've thought it will be a win-win, [but] this was at the time of an idea stage.
 > It is really really hard to do it.
 
-Jonkung
+## Jonkung
+
 > `To put it to practice,`
 >   What's been the biggest challenge so far
 >     `in` gett`ing` people to, like, accept this kind of like new way of -
