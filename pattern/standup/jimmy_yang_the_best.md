@@ -1,4 +1,4 @@
-# The Best of: Jimmy O. Yang
+# The Best of Jimmy O Yang
 
 ## Jimmy
 
@@ -18,4 +18,6 @@
 
 > [But] coming back was a totally different story.
 > Coming back from Mexico to the U.S.
-> There
+> There's no more revolving doors.
+> now it's a concrete windowless tunnel with guards with m16 machine guns.
+> [and] I was super nervous being an immigrant

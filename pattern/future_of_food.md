@@ -7,29 +7,29 @@
 - 名詞を先に置いて、直後の文でそれを it で指し示す用法が多い
 - `I loved it when S V` で、S が V するのが好きだ
 
-Uma
+## Uma
+
 > I'm an optimist.
->
-> `And` I think, `in order for us to` be able to solve these immense challenges ahead of us,
+
+👉 in order for to を持ってきてまず目的を挿入
+> [And] I think, `in order for us to` be able to solve these immense challenges ahead of us,
 >   it's going to require
->     the worldview of optimism, `but` a very `pragmatic` view of solutions.
->     `and`
+>     the worldview of optimism, [but] a very `pragmatic` view of solutions.
+>     [and]
 >     `going at it` over and over again.
-> `Because` what might not have worked
->           a month ago or a week or even a year ago or a decade ago,
->         would work now.
-> > I think の後に in order for to を持ってきてまず目的を挿入し、it's going to require 名詞 and 名詞 としている
-> > what V で「V なもの」
 
-Jonkung
+👉 what V で「V なもの」
+> [Because] what might not have worked a month ago or a week or even a year ago or a decade ago, would work now.
+
+## Jonkung
+
+👉 「those」は必ずしも必要ではないが、文の意味やニュアンスを強調したい場合に使われる
+省略しても意味は通じますが、少し具体的で特定の「良い例」を指しているという印象を与えるため、「those」を使うことが一般的です。
 > A focus on the optimism is, I think, what we need for like younger generation
-> `and` I do think, your work is one of `those` examples of good things.
-> > 無生物主語, I think の挿入, what S V
-> > 繋ぎ言葉 like
-> > 「those」は必ずしも必要ではありませんが、文の意味やニュアンスを強調したい場合に使われます。
-> > 省略しても意味は通じますが、少し具体的で特定の「良い例」を指しているという印象を与えるため、「those」を使うことが一般的です。
+> [and] I do think, your work is one of `those` examples of good things.
 
-Uma
+## Uma
+
 > The connection with food itself, it always `goes back to` childhood for me.
 > > 名詞, it V`
 >
@@ -366,3 +366,15 @@ Uma
 > `And` I think demystification should be very simple.
 > Tasting the product, magical experience.
 > Touring the place where it's made in clean production facilities, where you can just go around and walk around and say, "Hey, here's animal cell growing."
+
+
+
+
+
+
+
+---
+
+## Jonkung
+
+> So when it comes, like, third-culture cooking or being a person of third culture is, actually you have the exact lived experience, is having growing up with a predominant culture in your household, but your household just happens to be in a completely different culture altogether.
