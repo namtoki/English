@@ -30,91 +30,89 @@
 
 ## Uma
 
+👉 名詞, it V`
 > The connection with food itself, it always `goes back to` childhood for me.
-> > 名詞, it V`
->
-> `And` I grew up in the kitchen, `so to speak,` with my mom, trying to cook everything she did.
-> > その理由を述べたいので分詞構文
->
-> I used to watch her,
->   tried to help her chop vegetables,
->            `or`
->            go to the Sunday market with my dad
->            `and`
->            bring back meat and slice meat.
-> `And` `kind of` wanted to cook from day one,
-> `but`
-> I realized some of my skills weren't great.
-> > and の後で並列の主語を省略
+
+👉 その理由を述べたいので分詞構文
+> [And] I grew up in the kitchen, `so to speak,` with my mom, trying to cook everything she did.
+
+> I used to watch her, tried to help her chop vegetables,
+>   [or] go to the Sunday market with my dad [and] bring back meat and slice meat.
+>   [and] [kind of] wanted to cook from day one,
+> [but] I realized some of my skills weren't great.
 > 
-> `So` I went to school in India, `and` there was this `hawker` who was right outside our school.
-> `And` I was fascinated with his work `because` he used to sell the fast foods of India called dhaji `and things like that`.
->
-> `But` the way he chopped onions, (just,) I was `hooked onto it`.
-> > 名詞, I V it
-> > もうほんとに just
->
-> `because` he would slice them up`, like,` he'll take an onion`, and in 10 seconds,` the whole thing will be sliced and diced `like,` finely.
+> [So] I went to school in India, [and] there was this `hawker` who was right outside our school.
+> [And] I was fascinated with his work [because] he used to sell the fast foods of India called dhaji `and things like that`.
+
+👉 名詞, I V it / もうほんとに just
+> [But] the way he chopped onions, [just], I was `hooked onto it`.
+
+> [because] he would slice them up, [like], he'll take an onion,
+> `and in 10 seconds`, the whole thing will be sliced and diced `like,` finely.
 > I'm like, I'm going to master that.
 >
-> `So` I became the master slicer-dicer of onions in my house.
-> `And` later on in food, obviously, look, it's the most creative expression of anything you can do in a daily life.
-> > ほら、ねぇ look
+> [So] I became the master slicer-dicer of onions in my house.
+> [And] later on in food, obviously, [look], it's the most creative expression of anything you can do in a daily life.
 >
-> `And` I love to cook with my wife and kids, `and` it's just became part of my life.
-> `And` I feel like it's also a way to fiercely express your creativity or independence and what you want that creation to be.
-> `So` yeah, it's just deeply, deeply connected to food.
+> [And] I love to cook with my wife and kids, [and] it's just became part of my life.
+> [And] I feel like it's also a way to fiercely express your creativity or independence and what you want that creation to be.
+> [So] yeah, it's just deeply, deeply connected to food.
 >
 > What about yours?
 > What's your personal connection to food?
 
-Jonkung
-> My personal connection to food, `as you said,` it is an expression of my creativity,
->                                              `but`
+## Jonkung
+
+👉 名詞, M, it V
+> My personal connection to food, [as you said], it is an expression of my creativity,
+>                                              [but]
 >                                              it is also a way that we express our culture
->                                                         `and`
+>                                                         [and]
 >                                                         a way that we `pass down` our cultures.
-> > 名詞, M, it V
->
-> `So` growing up in Hong Kong as well as Toronto,
+
+👉 「する中で」という時の分詞構文を先頭に
+> [So] growing up in Hong Kong as well as Toronto,
 > food was very much a way that I `was attached to` the things that my parents loved as well as my grandparents.
->
-> Um,
-> My own `grasp on` Cantonese language, it is very, very, weak.
-> `because` of all the traveling that we did when I was younger
-> > 名詞, it V
->
-> `So` I felt like relearning cultural dishes was a way that I would easily `get in contact with` my roots.
->
+
+👉 名詞, it V
+> Um, My own `grasp on` Cantonese language, it is very, very, weak.
+> [because] of all the traveling that we did when I was younger.
+
+> [So] I felt like relearning cultural dishes was a way that I would easily `get in contact with` my roots.
 > `without having to` learn a language.
 
-Uma
+## Uma
+
 > What did food mean to you when you were growing up in Hong Kong?
 
-Jonkung
-> I mean, food, I was very, very blessed.
-> > ええと I mean 名詞のみで話題を示す
->
-> Hong Kong, as is India, has a very rich culinary history.
->                         and
->                         actually shares a little similar ones in terms of, I would guess, Well, `imperialism`.
+## Jonkung
 
-Uma
+👉 ええと I mean / 名詞のみで話題を示す
+> I mean, food, I was very, very blessed.
+
+> Hong Kong, `as is India`, has a very rich culinary history
+> [and] actually shares a little similar ones in terms of, I would guess, Well, `imperialism`.
+
+## Uma
+
 > Is it the spices?
 
-Jonkung
-> Yes. Yeah
-> `but` our appreciation for spices and flavors. There's an internationality that was brought into there.
->
-> `So` I `was very spoiled for choice` in terms of what good food is.
-> `and`
-> I used that memory to, `kind of like,` craft my entire skill set
-> `because` I'm `self-taught`, `and` I had nothing to `go off of (頼る)` except my earlier experiences with food.
->
-> `So` `luckily, like` Hong Kong taught me how to eat.
-> `And` `by that,` I taught myself how to cook.
+## Jonkung
 
-Uma
+> Yes. Yeah
+> [but] our appreciation for spices and flavors. There's an internationality that was `brought into` there.
+>
+> [So] I `was very spoiled for choice` [in terms of] what good food is.
+> [and] I used that memory to, [kind of like], craft my entire skill set
+> [because] I'm `self-taught`, [and] I had nothing to `go off of (頼る)` except my earlier experiences with food.
+>
+> [So] `luckily`, [like] Hong Kong taught me how to eat.
+
+👉 そして、それによって
+> [And] `by that,` I taught myself how to cook.
+
+## Uma
+
 > `So` was that experience one of those formative `ones that made you say`, "I want to cook in America"?
 > > Was that 〇〇 one of 〇〇 that 〇〇?
 
