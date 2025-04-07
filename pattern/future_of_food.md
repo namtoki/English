@@ -116,78 +116,63 @@
 > `So` was that experience one of those formative `ones that made you say`, "I want to cook in America"?
 > > Was that 〇〇 one of 〇〇 that 〇〇?
 
-Jonkung
-> Yeah
-> The biggest reason was `because` where I was living,
->                                where I do live now,
->                                Detroit,             `at the time` didn't have a lot of options for traditional Cantonese food that I missed.
-> > because は文法的には不要だが、口語ではよく挿入される
-> > S (M) V が口語で多用されることがわかる
-> 
-> `So` `out of necessity`, which, `as I think like,` is a very common thread among a lot of students from Asia,
+## Jonkung
+
+👉 because は文法的には不要だが、口語ではよく挿入される
+> Yeah, the biggest reason was [because] [where] I was living,
+>                                      [where] I do live now,
+>                                      Detroit,
+> `at the time` didn't have a lot of options for traditional Cantonese food that I missed.
+
+> [So] `out of necessity`, which, [as I think like], is a very common thread among a lot of students from Asia,
 >                                              is like they teach themselves how to cook
->                      `because` where they end up for school doesn't offer the food that they miss from home.
->
-> `And` yeah,
-> that was pretty much the basis of it.
->
+>                      [because] where they end up for school doesn't offer the food that they miss from home.
+
+> [And] yeah, that was pretty much the basis of it.
 > `It just so happened that` it turned into my career `as opposed to` just a hobby.
->
 > What made you want to be a cardiologist, then?
 
-Uma
-> (Look,)
-> I grew up watching my grandfather, who had been taking care of patients all his life,
+## Uma
 
-Jonkung
-> So
-> he was a doctor as well?
-
-Uma
+> [Look], I grew up watching my grandfather, who had been taking care of patients all his life,
 > He was a physician.
->
-> `And` uh I loved it when he would take care of people,
-> > V1 it when S V2 で S が V2 するのが V1 だ
->
-> `and` there would be this expression of, I think, gratitude.
->
-> `And` my grandfather would not expect anything in return.
+
+👉 V1 it when S V2 で S が V2 するのが V1 だ
+> [And] uh I loved it when he would take care of people,
+
+> [and] there would be this expression of, I think, gratitude.
+> [And] my grandfather would not expect anything in return.
 > He never charged a dollar for anyone.
-> He was in the Gandhian movement `and` freedom movement for India.
->
-> `And` I just grew up adoring him.
+> He was in the Gandhian movement [and] freedom movement for India.
+> [And] I just grew up adoring him.
 > I'm like "Ah, that would be cool."
 >
-> `And then` as I started learning more about medicine,
+> [And then] as I started learning more about medicine,
 > I went to one of the medical schools in India,
->   `and`
->   realized very quickly that cardiology is one thing `where` you would `get to` save patients' lives,
->   literally resuscitate patients who were dead in the field,
+>   [and]
+>   realized very quickly that cardiology is one thing [where] you would `get to` save patients' lives,
+>   literally `resuscitate` patients who were dead in the field,
 >   resuscitate them and bring them back to life.
-> `And` I found nothing more gratifying than being able to save someone's life.
->
-> `And then` that relationship continues afterwards,
-> `because` then there's a bond between you and the patient `who` now is not a patient anymore,
+> [And] I found nothing more gratifying than being able to save someone's life.
+> [And then] that relationship continues afterwards,
+> [because] then there's a bond between you and the patient [who] now is not a patient anymore,
 >                                                                    back to living his own life or her own life.
->
-> `And then`
-> this bond with that person and their family `kind of` continues on.
->
-> So
-> I was really like, this is what I really want to be in my life.
+> [And then] this bond with that person and their family [kind of] continues on.
+> [So] I was really like, this is what I really want to be in my life.
 
-Jonkung
-> `Would you say (like) that` intersectionality of `like` being able to tend and care for people
->                           is `like,`
->                           what `crossed you over` into this food space then?
-> > という感じですかね？
+## Jonkung
+
+👉 という感じですかね？
+> `Would you say like that` intersectionality of [like] being able to tend and care for people
+>                         is [like],
+>                         what `crossed you over` into this food space then?
 
 
 ## Uma
 
-> `You know,` I didn't know back in 2015, 2016,
+> [You know], I didn't know back in 2015, 2016,
 >                                 when I was thinking of quitting cardiology
->                                            `and`
+>                                            [and]
 >                                            starting off on this crazy journey that I'm on right now,
 
 👉 分子構文で「〜〜してみると」
@@ -195,25 +180,23 @@ Jonkung
 
 👉 「名詞 where S V」で「S V のような名詞」
 > there is a lot of common `threads`
->                          `where`
+>                          [where]
 >                          both `are bound by` a deep sense of purpose
->                                              `and`
+>                                              [and]
 >                                              deep sense of building relationships
->                                   `and`
+>                                   [and]
 >                                   `defy`ing some of the things
 >                                                       `where`
 >                                                       people keep telling you it's impossible to do this.
-
-> It's impossible to save someone's life.
-> They're already dead in the field.
-> You can't `resuscitate` them back.
-> `And` here, we are looking at a impending food crisis, climate crisis `of such large proportions`.
-> `And` people keep saying it's impossible to do this.
+>                                                       It's impossible to save someone's life.
+>                                                       They're already dead in the field.
+>                                                       You can't `resuscitate` them back.
+> [And] here, we are looking at a impending food crisis, climate crisis `of such large proportions`.
+> [And] people keep saying it's impossible to do this.
 > We cannot do this, we will not do this, people will not change, countries won't change.
->
-> `And` I think this is a much bigger fight than saving an individual patient's life.
->
-> `But` I think those common threads of saying, yes,
+
+> [And] I think this is a much bigger fight than saving an individual patient's life.
+> [But] I think those common threads of saying, yes,
 >                                     these are possible by `putting one foot in front of the other`
 >                                                           `and`
 >                                                           starting to slowly `make these things go away`,
@@ -222,12 +205,12 @@ Jonkung
 
 ## Jonkung
 
-> `So` that was your, `kind of` inspiration to start Upside?
+> [So] that was your, [kind of] inspiration to start Upside?
 
 ## Uma
 
 > Yes, yeah, yeah, Upside Foods is a company that I started in late 2015.
-> `And` the idea is, `you know,` the most delicious product in the world that we've known as humans is meat.
+> [And] the idea is, [you know], the most delicious product in the world that we've known as humans is meat.
 
 ## Jonkung
 
@@ -237,7 +220,7 @@ Jonkung
 ## Uma
 
 > No disrespect to salads or greens or beans,
-> `but`
+> [but]
 > meat is the center of plate for almost every tradition in the world.
 
 👉 be tied to
@@ -272,18 +255,15 @@ Jonkung
 > `To put it to practice,`
 >   What's been the biggest challenge so far
 >     `in` gett`ing` people to, like, accept this kind of like new way of -
->       it's even like a product in a way,
->       but
+>       it's not even like a product in a way,
+>       [but]
 >       it's like a new way of accepting what meat is and what meat could be.
 
-Uma
-> Yeah,
-> there have been challenges along the way,
-> but
-> this is `unfolding` in multiple chapters.
->
-> So
-> the challenges in the first chapter were, people loved the idea
+## Uma
+
+> Yeah, there have been challenges along the way,
+> [but] this is `unfolding` in multiple chapters.
+> [So] the challenges in the first chapter were, people loved the idea
 >                                                  but
 >                                                  did not believe that the science would work.
 >

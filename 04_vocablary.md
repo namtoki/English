@@ -7758,7 +7758,7 @@
 - [ ] pepper
 - [ ] peppery
 - [ ] per
-- [ ] perceive
+- [x] perceive
 - [ ] percent
 - [ ] percentage
 - [ ] perception
@@ -8149,7 +8149,7 @@
 - [ ] preacher
 - [ ] precarious
 - [ ] precaution
-- [ ] precede
+- [x] precede
 - [ ] precedence
 - [ ] precedent
 - [ ] precept
