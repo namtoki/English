@@ -24,6 +24,11 @@
   - `I'm trying to V`                           (V 中だから邪魔しないで) Hey, Toshi? `I'm trying to work`, Emily!
   - `I'm in the middle of something`            (今手が離せない)
   - `I've got my hands full.`                   (手が離せない) Sorry. `I've got my hands full` right now.
+- お願い
+  - `I hope I'm not interrupting you`           (迷惑でなければいいのですが)
+  - `I hope you don't mind if`                  (迷惑でなければいいのですが) `I hope you don't mind if` I eat while we talk.
+  - `I'd like to ask you a favor.`              (お願いしてもいいですか)
+  - `I was thinking`                            (考えてたんだけど) `I was thinking.` Let's take a short trip.
 - 許諾
   - `You name it.`                              (なんでも (君が決めて) いいよ)
 - 他

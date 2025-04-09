@@ -1,175 +1,97 @@
 # MODIFIER
 
-## SCOPE
+## Header
 
-### HEAD
+- `You know how S V?`                           (じゃん？) `You know how` I've been looking for a new TV for a while?
+- `I told you O, right?`                        (O と言ったよね) `I told you` about my dad, `right?`
+- 👉 `in one's defence`                         (言い訳すると) `In my defense,` it was dark and he was a very pretty guy!”
+- 👉 `This might be just me, but`               (自分だけかもしれないけど)
+- `Don't get me wrong, but`                     (誤解しないでほしいんだけど)
+- 👉 `It may sound like O, but`                 (O と聞こえるかもだが) `It may sound like` I'm being self-centered here,
+- 👉 `You'd think (that) S V, but`              (S V 思うかもしれないですが) `You'd think` Japan would be really technologically advanced, but ,,,
+- `I hate to admit it, but`                     (認めたくないけど) `I hate to admit it, but` I might need your help.
+- `You know as well as I do that S V`           (ご存じかと思いますが S V) `You know as well as I do that` this is very important.
+- 👉 `That's a fair point, but`                 (それはもっともですが、)
+- `You (may) have a point, but`                 (一理あるね) `You may have a point there`, but I still believe the plan is feasible
+- 👉 `I see your point, but`                    (仰ることは分かります) `I see your point, but` I have a slightly different view.
+- 👉 `That's not the way I see it`              (違う見方をしています)
+- 👉 `Off the top of my head`                   (フォーマル/思いつくままに言うと) `Off the top of my head,` I think it's wrong.
+- 👉 `Without thinking too much`                (カジュアル/あまり考えずに言うと) `Without thinking too much`, I’d say we need more time.
+- 👉 `just out of curiosity`                    (単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
+- `The fact is`                                 (実を言うと) `The fact is,` I don't have enough money.
+- `Now that`                                    (いまや) `Now that` things are better, we should talk about the problem.
 
-- 強いこだわりが無いとき
-  - 👉 `if I had to say/guess`                  (強いて言うなら) `If I had to guess,` I would say that she is single.
-  - 👉 `if anything`                            (どちらかというと) But now, `if anything,` they are making too much of it.
-  - `just out of curiosity`                     (単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
-- どういう文脈で話そうとしているか
+## Tail
+
+- `if it works for you`                         (都合が良ければ) So I’ll see you at 7, `if it works for you.`
+- `if you don't mind`                           (もしよろしければ) I have a suggestion`, if you don't mind.`
+- `you know what I mean?`                       (言ってることわかります？)
+- `if that makes sense.`                        (言ってることわかります？) I really enjoyed the song for its lyrics`, if that makes sense.`
+- `or what?`                                    (それとも違う？) Are we gonna have fun`, or what?`
+- `or not really?`                              (それとも違う？) Do you like this kind of music`, or not really?`
+- `is that right?`                              (合ってます？)
+
+## Auxiliary
+
+- Direction
   - `as/like I was saying`                      (さっき言った通り) Sorry. `As I was saying,` the acting was amazing.
   - `as/like you said`                          (あなたが言ったように)
   - `as sb anticipated`                         (予測していた通り) `As we anticipated,` the unemployment rate has risen ....
-- トピック
-  - `You know how S V?`                         (じゃん？) `You know how` I've been looking for a new TV for a while?
-  - `I told you O, right?`                      (O と言ったよね) `I told you` about my dad, `right?`
-- 予防線を張る
-  - 👉 `if I'm not mistaken`                    (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
-  - `in one's defence`                          (言い訳すると) `In my defense,` it was dark and he was a very pretty guy!”
-  - `This might be just me, but`                (自分だけかもしれないけど)
-  - `Don't get me wrong, but`                   (誤解しないでほしいんだけど)
-  - `It may sound like O, but`                  (O と聞こえるかもだが) `It may sound like` I'm being self-centered here,
-  - `You'd think (that) S V, but`               (S V 思うかもしれないですが) `You'd think` Japan would be really technologically advanced, but ,,,
-  - `I hate to admit it, but`                   (認めたくないけど) `I hate to admit it, but` I might need your help.
-  - `You know as well as I do that S V`         (ご存じかと思いますが S V) `You know as well as I do that` this is very important.
-- 反論
-  - 👉 `That's a fair point, but`               (それはもっともですが、)
-  - `You (may) have a point`                    (一理あるね) `You may have a point there`, but I still believe the plan is feasible
-  - 👉 `I see your point, but`                  (仰ることは分かります) `I see your point, but` I have a slightly different view.
-  - 👉 `That's not the way I see it`            (違う見方をしています)
-- お願い
-  - `I hope I'm not interrupting you`           (迷惑でなければいいのですが)
-  - `I hope you don't mind if`                  (迷惑でなければいいのですが) `I hope you don't mind if` I eat while we talk.
-  - `I'd like to ask you a favor.`              (お願いしてもいいですか)
-  - `I was thinking`                            (考えてたんだけど) `I was thinking.` Let's take a short trip.
-
-### TOPIC
-
-- O について
+- Topic
   - `speaking of which/O`                       (口語的) `Speaking of summer,` where did you go this year?
   - `talking of O`                              (口語的) `Talking of` soccer, Did you watch the game yesterday?
-  - `as for O`                                  (口語的/話題の切り替え) `As for` the cost per person / `As for me,` I agree with his opinion.
-  - `when it comes to O`                        (口語的) `When it comes to` the weather, there’s nothing I can do.
+  - 👉 `as for O`                               (口語的/話題の切り替え) `As for` the cost per person / `As for me,` I agree with his opinion.
+  - 👉 `when it comes to O`                     (口語的) `When it comes to` the weather, there’s nothing I can do.
   - `about O`                                   (カジュアル/文頭はNG) `About` the food ... it is bad.
   - `on O`                                      (カジュアル/専門的) thesis `on` education
   - `concerning O`                              (フォーマル/文頭はNG) There are some concerns `concerning` the new policy
   - `regarding O`                               (フォーマル) `Regarding` the subject above,,,
   - `with/in regard to O`                       (フォーマル) `With regard to` the notes below
   - `as to O`                                   (フォーマル) discussion `as to` which university is the best university.
-  - `(going) back to O`                         (に戻ると) `Going back to` your question, my answer is no.
+  - 👉 `(going) back to O`                      (に戻ると) `Going back to` your question, my answer is no.
   - `by the way`                                (ところで)
-  - `off-topic, but`                            (話は逸れますが) Bit `off-topic, but` I just finished editing the video.
-- 観点
-  - `in that`                                   (理由を説明する) This method is better `in that` it saves time.
-  - `in terms of O`                             (カジュアル/評価基準) I liked that movie `in terms of` the acting.
-  - `from one's point of view`                  (カジュアル/主観的) Well, `from my point of view,` some of the new policies are really good.
-  - `the way I see it`                          (カジュアル/論理的) `The way I see it`, it's too simplistic to say that ...
-  - `if you ask me`                             (カジュアル/主観的) It was a little long`, if you ask me.`
-  - `personally, in my opinion`                 (フォーマル/主観的)
-  - `from a one's standpoint`                   (フォーマル/実務的) Single track riding can be quite challenging `from a technical standpoint`.
-  - `from the perspective of O`                 (フォーマル/客観的) Trends in trade `from the perspective of` production stage.
-  - `from one's perspective`                    (フォーマル) Also `from the field’s perspective,` I think ,,,
-  - `except that`                               (という点を除いて) The trip was perfect, except that it rained the whole time.
-- 順序だてる
-  - `first off`                                 (カジュアル/はじめに) `First off`, I want to thank everyone for coming today.
-  - `to begin with`                             (カジュアル/はじめに) `To begin with,` its theme is obscure.
+  - 👉 `off-topic, but`                         (話は逸れますが) Bit `off-topic, but` I just finished editing the video.
+  - 👉 `first off`                              (カジュアル/はじめに) `First off`, I want to thank everyone for coming today.
+  - 👉 `to begin with`                          (カジュアル/はじめに) `To begin with,` its theme is obscure.
   - `first/Most of all`                         (フォーマル/はじめに) `First of all,` learn the formula by heart.
   - `next,`                                     (カジュアル/次に) `Next,` let’s discuss our budget.
-  - `moving on,`                                (カジュアル/次の話題に移ると) `Moving on,` let’s talk about sales.
+  - 👉 `moving on,`                             (カジュアル/次の話題に移ると) `Moving on,` let’s talk about sales.
   - `let’s move on to`                          (カジュアル/次の話題に移ると) `Let’s move on to` the next question.
   - `proceeding to`                             (フォーマル/次の話題に移ると) `Proceeding to` the final step, we need to check the results.
-
-### CONDITION
-
-- テキトー
-  - `Off the top of my head`                    (フォーマル/思いつくままに言うと) `Off the top of my head,` I think it's wrong.
-  - `Without thinking too much`                 (カジュアル/あまり考えずに言うと) `Without thinking too much`, I’d say we need more time.
-- 考えてみると
+- Condition
   - `Depending on how you look at it`           (フォーマル/考え方によっては) `Depending on how you look at it`, this law is either beneficial or harmful.
-  - `if you think about it`                     (カジュアル/考えてみると) It's crazy how we can communicate like this`, if you think about it.`
-  - `Now that I think about it`                 (カジュアル/よく考えたら) `Now that I think about it`, I should text instead.
+  - 👉 `if you think about it`                  (カジュアル/考えてみると) It's crazy how we can communicate like this`, if you think about it.`
+  - 👉 `Now that I think about it`              (カジュアル/よく考えたら) `Now that I think about it`, I should text instead.
   - `on the second thought`                     (カジュアル/考え直すと) I’ll have a coffee. `On second thought`, I’ll take a tea instead.
   - `all things considered`                     (フォーマル/全体的に考えると) `All things considered`, that was a successful event.
-  - `given that S V`                            (カジュアル/を考慮に入れると) `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
+  - 👉 `given that S V`                         (カジュアル/を考慮に入れると) `Given that` many city streets in the U.S. have a 45 mph speed limit,,,
+  - 👉 `assuming that S V`                      (が事実だとすると) `Assuming that` no voltage is applied from the booster amplifier,,,,
   - `considering that S V`                      (カジュアル/を考慮に入れると)
   - `in light of O`                             (フォーマル/新事実/を考慮に入れると) `In light of` recent events, we have decided to postpone the meeting.
-- 的には
-  - `in a (way | sense)`                        (ある意味) Yep, `in a way.`
-  - `in every way`                              (すべてにおいて) That movie was perfect `in every way`.
-  - `for the most part`                         (すべてにおいて) `For the most part,` modernization is identified with westernization.
-  - `O-wise`                                    (カジュアル/文頭はNG) This product is great `cost-wise`.
-  - `Speaking from experience`                  (私の経験から言うと)
-  - `(more) broadly speaking`                   (一般的に言うと)
-  - `on behalf of O`                            (を代表して) `On behalf of` all staff, I'd like to express our sympathy for the victims.
-- 条件 (事実)
   - `against this background`                   (このような背景のもと)
-  - `in V-ing O`                                (V するプロセスの中で) `In making a decision,` I rely not on logic but on instinct.
-  - `assuming that S V`                         (が事実だとすると) `Assuming that` no voltage is applied from the booster amplifier,,,,
+  - 👉 `in V-ing O`                             (V するプロセスの中で) `In making a decision,` I rely not on logic but on instinct.
   - `as it is`                                  (今のところ) `As it is,` ordinary people cannot afford to purchase such luxuries.
-- 条件 (仮定)
-  - `as long as S V`                            (する限り) `As long as` you are young, you should experience different things.
-  - `as far as / insofar as S V`                (する範囲では) `As far as` I can see, he will fail the exam again this time.
-  - `supposing that S V`                        (だと仮定すると) `Supposing that` the fire headed our way, what would we do next?
-  - `(let's) say S V`                           (だと仮定すると) `Say` I invest a hundred dollars now, how much will I ...
-  - `Let's say O`                               (とりあえず〜としようか) `Let's say` dinner at seven. / `Let's say` Monday at three.
   - `in the long run`                           (長い目で見れば) Bob believes that honesty pays off `in the long run.`
+  - `at the thought of O`                       (を考えると) I tremble with fear `at the thought of` an injection.
+  - `at the sound of O`                         (を聞いて)
+  - `in the course of`                          (の過程で) `In the course of` its economic development, Japan has ...
 - If
   - `in the event that`                         (フォーマル/の場合は) `In the event that` Y fails to perform its obligations under this Agreement,
   - `with O`                                    (があれば) `With` a little luck, we can still make it.
-
-### CONSEQUENCE
-
-- の結果
-  - `because of this`                           (その結果) I've never been to that place. `Because of this`, I know little about it.
-  - `as a result`                               (その結果) He didn't work hard and, `as a result`, he failed in the exam.
-  - `as a result of`                            (因果の間に時間差) `As a result of` his ridiculous venture, he is in danger of going bankrupt.
-  - `consequently`                              (結果的に) He made a mistake, and `consequently` lost an opportunity for being promoted.
-  - `followed by`                               (その後) Lightning flashed, `followed by` terribly loud thunder.
-- このようにして/すれば
-  - `that's how`                                (カジュアル/このようにして) `That's how` we met.
-  - `in this way`                               (フォーマル/このようにして) We should organize the tasks `in this way` to save time.
-  - `by doing this`                             (カジュアル/そうすることによって)
-  - `that way`                                  (カジュアル/ゆえに) Leave early. `That way`, you won’t be late.
-  - `thus`                                      (フォーマル/そうすれば) Mix the ingredients together, `thus` creating a smooth paste.
-  - `then`                                      (そうすれば) Do whatever I say. `Then` you will be successful.
-  - `That's the way S V`                        (このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
-- なので
-  - `so`                                        (カジュアル/だから) He didn’t study, `so` he failed the exam.
-  - `that's why`                                (カジュアル/だから) He didn’t study. `That’s why` he failed the exam.
-  - `this is why`                               (フォーマル/このようなわけで) I came down with the flu. `This is why` I haven't finished my homework.
-  - `for that reason`                           (カジュアル/そんなわけで)
-- の場合は
-  - `in that case`                              (その場合は) `In that case,` I’ll have a beer.
-  - `in which case`                             (この場合は) Scott might be on vacation, `in which case,` just touch base with Aaron.
-- 一言でまとめる
-  - `in conclusion`                             (要するに)
-  - `at the end of the day`                     (結局は) `At the end of the day,` this is not that important.
-  - `in a nutshell`                             (一言で言えば) That's it`, in a nutshell.`
-  - `simply put`                                (簡単に言うと) `Simply put,` he doesn't like sports.
-- 無理やりまとめにかかる
-  - `anyway`                                    (いずれにしても) That’s a funny story. `Anyway,` he is late today, isn’t he?
-  - `in any case`                               (いずれにしても) `In any case,` the union has to compromise to a certain extent.
-  - `regardless`                                (いずれにしろ) `Regardless`, please give us ...
-
-### TAIL
-
-- いいよね？
-  - `if it works for you`                       (都合が良ければ) So I’ll see you at 7, `if it works for you.`
-  - `if you don't mind`                         (もしよろしければ) I have a suggestion`, if you don't mind.`
-- だよね？
-  - `you know what I mean?`                     (言ってることわかります？)
-  - `if that makes sense.`                      (言ってることわかります？) I really enjoyed the song for its lyrics`, if that makes sense.`
-  - `or what?`                                  (それとも違う？) Are we gonna have fun`, or what?`
-  - `or not really?`                            (それとも違う？) Do you like this kind of music`, or not really?`
-  - `is that right?`                            (合ってます？)
-
-## SUPPLEMENT
-
-### WHY
-
-- できるように (未来)
-  - `so that S V`                               (するために) Mary spoke loudly `so that` everyone could hear her.
-  - `in order (not) to V`                       (するために) I went to the train station `in order to` buy a ticket.
+  - 👉 `supposing that S V`                     (だと仮定すると) `Supposing that` the fire headed our way, what would we do next?
+  - 👉 `(let's) say S V`                        (だと仮定すると) `Say` I invest a hundred dollars now, how much will I ...
+  - 👉 `Let's say O`                            (とりあえず〜としようか) `Let's say` dinner at seven. / `Let's say` Monday at three.
+  - `as long as S V`                            (する限り) `As long as` you are young, you should experience different things.
+  - `as far as / insofar as S V`                (する範囲では) `As far as` I can see, he will fail the exam again this time.
+- Objective
+  - 👉 `so that S V`                            (するために) Mary spoke loudly `so that` everyone could hear her.
+  - 👉 `in order (not) to V`                    (するために) I went to the train station `in order to` buy a ticket.
   - `in order that S V`                         (するために) Mary spoke loudly `in order that` everyone could hear her.
   - `so as (not) to V`                          (堅い表現) She left home early `so as to` avoid traffic congestion.
-- しないように (未来)
-  - `in case S V`                               (に備えて) `In case` there's an earthquake, prepare a first-aid kit.
-  - `just in case`                              (念のため) I'll write it down `just in case.`
+  - 👉 `in case S V`                            (に備えて) `In case` there's an earthquake, prepare a first-aid kit.
+  - 👉 `just in case`                           (念のため) I'll write it down `just in case.`
   - `for a rainy day`                           (念のため) I decided to put some aside `for a rainy day.`
-- 動機
-  - `for the purpose of O`                      (する目的のために) I rented a P.O. box `for the purpose of` importing clothes.
+  - 👉 `for the purpose of O`                   (する目的のために) I rented a P.O. box `for the purpose of` importing clothes.
   - `in (the) hope(s) that S V`                 (を望んで) I didn't phone till four o'clock `in the hope that` you'd be finished.
   - `with a view to V-ing`                      (を目的として) A fund was set up `with a view to` preserving our endangered planet.
   - `with the intention of V-ing`               (しようと思って) He flattered `with the intention of getting` something.
@@ -178,9 +100,7 @@
   - `out of habit`                              (趣味として) I got the Namboku line `out of habit.`
   - `in response to`                            (に応えて) The day's agenda was altered `in response to` changes in regulations ...
   - `in accordance with O`                      (に従って) `In accordance with` Article 7 hereof, the parties waive ...
-  - `at the sound of O`                         (を聞いて)
-  - `at the thought of O`                       (を考えると) I tremble with fear `at the thought of` an injection.
-- 理由
+- Reason
   - `because of~`                               (が理由で) `Because of` the heavy snow, our flight was delayed.
   - `thanks to~`                                (のおかげで) `Thanks to` the strong yen, we can travel abroad without spending much.
   - `with all`                                  (があるので) `With all` that money, he can do anything
@@ -189,29 +109,105 @@
   - `due to`                                    (のせいで (補語 / 名詞修飾)) I missed school `due to` Covid-19.
   - `in consequence of`                         (がもとで (堅苦しい))
   - `as a consequence`                          (がもとで (堅苦しい))
+- How
+  - 👉 `in a way that V`                        (という方法で) Some people explain simple things `in a way that` makes it sound complicated.
+  - `somehow`                                   (どうにかして) Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
+  - `at the expense of`                         (犠牲にして) He got promoted `at the expense of` his colleague.
+  - `by heart`                                  (暗記で) First of all, learn the formula `by heart.`
+  - `lightly`                                   (そっと) She seems angry, you should tread `lightly`
+  - `back and forth`                            (行ったり来たり) Bob was pacing `back and forth` along the sidewalk.
+  - `to and fro`                                (行ったり来たり) I have been traveling `to and fro` between Canada and the U.K for years.
+  - `on and off`                                (断続的に) It’s been raining `on and off` all day today.
+  - `in a row`                                  (連続で) the unemployment rate has risen three quarters `in a row.`
+  - `with each passing day/year`                (日を追うごとに)
+- Comparison
+  - `better than O`                             (よりもより) I like vanilla `better than` chocolate.
+  - `more than O`                               (よりももっと) I like chocolate `more than` vanilla.
+  - `rather than O`                             (よりかは) I like her `rather than` him
+  - `despite O`                                 (に反して) `Despite` the risk, I would like to proceed with the plan.
+  - `in spite of O`                             (に反して) `In spite of` our compliments, he frowned and turned away. He was so rude.
+  - `for all`                                   (のに) I don't feel happy `for all` my success.
+  - `with all`                                  (のに) `With all` its faults, it's basically a good plan.
+  - `however much S V`                          (どれだけしても) `However much` you study, there's always more to learn.
+  - `no matter how much S V`                    (どれだけしても) `No matter how much` I study, I can't improve my English.
+  - `in a departure from O`                     (から一転して) `In a departure from` his usual manic storytelling pace, director ...
+  - `instead of V-ing`                          (V する代わりに) We decided to chill at home `instead of` going out.
+  - `when compared to`                          (と比べて) Global emissions could rise 1.1 percent this year `when compared to` 2022.
+- Complement
+  - `, each with O`                             (それぞれが O を持っている) instant cameras, `each with` their own unique shape and design.
+
+## Bindings
+
+- And Then
+  - `and then`                                  (それから)
+  - `because of this`                           (その結果) I've never been to that place. `Because of this`, I know little about it.
+  - 👉 `as a result`                            (その結果) He didn't work hard and, `as a result`, he failed in the exam.
+  - `as a result of`                            (因果の間に時間差) `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+  - `consequently`                              (結果的に) He made a mistake, and `consequently` lost an opportunity for being promoted.
+  - `followed by`                               (その後) Lightning flashed, `followed by` terribly loud thunder.
+  - 👉 `that's how`                             (カジュアル/このようにして) `That's how` we met.
+  - 👉 `in this way`                            (フォーマル/このようにして) We should organize the tasks `in this way` to save time.
+  - 👉 `by doing this`                          (カジュアル/そうすることによって)
+  - 👉 `that way`                               (カジュアル/ゆえに) Leave early. `That way`, you won’t be late.
+  - `thus`                                      (フォーマル/そうすれば) Mix the ingredients together, `thus` creating a smooth paste.
+  - `then`                                      (そうすれば) Do whatever I say. `Then` you will be successful.
+  - `That's the way S V`                        (このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
+  - `and the next thing I knew`                 (次の瞬間) I felt dizzy, `and the next thing I knew` I was ...
+- So
+  - `so`                                        (カジュアル/だから) He didn’t study, `so` he failed the exam.
+  - 👉 `that's why`                             (カジュアル/だから) He didn’t study. `That’s why` he failed the exam.
+  - `this is why`                               (フォーマル/このようなわけで) I came down with the flu. `This is why` I haven't finished my homework.
+  - `for that reason`                           (カジュアル/そんなわけで)
+- Because
   - `this is because`                           (というのも) I haven't finished my homework. `That is because` I came down with the flu.
-  - `the reason being that`                     (というのも) `The reason being that,` I didn’t want to relocate.
+  - 👉 `the reason being that`                  (というのも) `The reason being that,` I didn’t want to relocate.
   - `for one/another thing`                     (というのも) I can't put you up. `For one thing,` my dad drops in on me from time to time.
+- Case
+  - `in that case`                              (その場合は) `In that case,` I’ll have a beer.
+  - `in which case`                             (この場合は) Scott might be on vacation, `in which case,` just touch base with Aaron.
+- Conclusion
+  - `in conclusion`                             (要するに)
+  - 👉 `at the end of the day`                  (結局は) `At the end of the day,` this is not that important.
+  - `in a nutshell`                             (一言で言えば) That's it`, in a nutshell.`
+  - `simply put`                                (簡単に言うと) `Simply put,` he doesn't like sports.
+  - `anyway`                                    (いずれにしても) That’s a funny story. `Anyway,` he is late today, isn’t he?
+  - `in any case`                               (いずれにしても) `In any case,` the union has to compromise to a certain extent.
+  - `regardless`                                (いずれにしろ) `Regardless`, please give us ...
 
-### HOW
+## Feeling
 
-- どれだけ
+- Perspective
+  - `in that`                                   (フォーマル/理由を説明する) This method is better `in that` it saves time.
+  - 👉 `in terms of O`                          (カジュアル/評価基準) I liked that movie `in terms of` the acting.
+  - 👉 `from one's point of view`               (カジュアル/主観的) Well, `from my point of view,` some of the new policies are really good.
+  - 👉 `the way I see it`                       (カジュアル/論理的) `The way I see it`, it's too simplistic to say that ...
+  - `if you ask me`                             (カジュアル/主観的) It was a little long`, if you ask me.`
+  - `personally, in my opinion`                 (フォーマル/主観的)
+  - 👉 `from a one's standpoint`                (フォーマル/実務的) Single track riding can be quite challenging `from a technical standpoint`.
+  - `from the perspective of O`                 (フォーマル/客観的) Trends in trade `from the perspective of` production stage.
+  - `from one's perspective`                    (フォーマル) Also `from the field’s perspective,` I think ,,,
+  - `except that`                               (という点を除いて) The trip was perfect, `except that` it rained the whole time.
+  - `except for`                                (を除いて) The auditorium was empty `except for` a single piece of furniture.
+  - `With the exception of`                     (を除いて)
+  - 👉 `if I had to say/guess`                  (強いて言うなら) `If I had to guess,` I would say that she is single.
+  - 👉 `if anything`                            (どちらかというと) But now, `if anything,` they are making too much of it.
+  - 👉 `if I'm not mistaken`                    (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
+- Wise
+  - 👉 `in a (way | sense)`                     (ある意味) Yep, `in a way.`
+  - 👉 `in every way`                           (すべてにおいて) That movie was perfect `in every way`.
+  - `for the most part`                         (すべてにおいて) `For the most part,` modernization is identified with westernization.
+  - `O-wise`                                    (カジュアル) This product is great `cost-wise`.
+  - `Speaking from experience`                  (私の経験から言うと)
+  - `(more) broadly speaking`                   (一般的に言うと)
+  - `on behalf of O`                            (を代表して) `On behalf of` all staff, I'd like to express our sympathy for the victims.
+- Amount
   - `to (a certain|some) extent`                (ある程度まで) In any case, the union has to compromise `to a certain extent.`
   - `to sb's heart's content`                   (の気のすむまで) The aristocrats abused their privileges `to their hearts' content.`
   - `somewhat`                                  (いくらか) Strictly speaking, his view differs `somewhat` from mine.
   - `some more`                                 (もう少し) I'll think about it `some more.`
   - `pretty much`                               (ほとんど) This is `pretty much` done.
-- 手段
-  - `in a way that V`                           (という方法で) Some people explain simple things `in a way that` makes it sound complicated.
-  - `somehow`                                   (どうにかして) Please estimate the losses by Friday at the latest. I'll manage it `somehow.`
-  - `at the expense of`                         (犠牲にして) He got promoted `at the expense of` his colleague.
-  - `by heart`                                  (暗記で) First of all, learn the formula `by heart.`
-- 所作
-  - `lightly`                                   (そっと) She seems angry, you should tread `lightly`
-  - `back and forth`                            (行ったり来たり) Bob was pacing `back and forth` along the sidewalk.
-  - `to and fro`                                (行ったり来たり) I have been traveling `to and fro` between Canada and the U.K for years.
-- 気持ち
   - `at heart`                                  (心底) Since Bob is lazy `at heart`, he frequently neglects his duties.
+- How
   - `in a rage`                                 (怒って) "Turn the faucet off!" mom yelled `in a rage.`
   - `in earnest`                                (本格的に) Japan must undertake sweeping deregulation `in earnest.`
   - `kind of`                                   (なんか) I'm `kind of` hungry.
@@ -222,28 +218,17 @@
   - `purposely`                                 (わざと) He `purposely` didn't say anything.
   - `in the first place`                        (そもそも) Why was he at the party `in the first place?` He wasn't invited, was he?
   - `to be honest`                              (正直)
-  - `The fact is`                               (実を言うと) `The fact is,` I don't have enough money.
-- 時間関連
-  - `on and off`                                (断続的に) It’s been raining `on and off` all day today.
-  - `in a row`                                  (連続で) the unemployment rate has risen three quarters `in a row.`
-  - `with each passing day/year`                (日を追うごとに)
+- Strengthen
+  - `in particular`                             (特に) it appears to be attractive to many people, `in particular,` to younger people.
+  - `especially`                                (特に) `Especially,` I am good at French cooking
+  - `above all`                                 (とりわけ) `Above all,` scientific terms call for precise definitions.
+  - `among other things`                        (とりわけ) I noticed, `among other things`, that he was drunk.
+  - `on top of that`                            (さらに)
+  - `to make matters worse`                     (さらに悪いことに) `To make matters worse,` he isn't even conscious of annoying us.
+  - `what's more`                               (さらに良いことに) I met the man by chance. He's gentle and smart. `What's more,` he's single.
+  - `what's worse`                              (さらに悪いことに)
 
-### CONTRAST
-
-- `better than O`                               (よりもより) I like vanilla `better than` chocolate.
-- `more than O`                                 (よりももっと) I like chocolate `more than` vanilla.
-- `rather than O`                               (よりかは) I like her `rather than` him
-- `despite O`                                   (に反して) `Despite` the risk, I would like to proceed with the plan.
-- `in spite of O`                               (に反して) `In spite of` our compliments, he frowned and turned away. He was so rude.
-- `for all`                                     (のに) I don't feel happy `for all` my success.
-- `with all`                                    (のに) `With all` its faults, it's basically a good plan.
-- `however much S V`                            (どれだけしても) `However much` you study, there's always more to learn.
-- `no matter how much S V`                      (どれだけしても) `No matter how much` I study, I can't improve my English.
-- `in a departure from O`                       (から一転して) `In a departure from` his usual manic storytelling pace, director ...
-- `instead of V-ing`                            (V する代わりに) We decided to chill at home `instead of` going out.
-- `when compared to`                            (と比べて) Global emissions could rise 1.1 percent this year `when compared to` 2022.
-
-### WHEN
+## WHEN
 
 - 時間帯
   - `at 9:00 am`                                (時に)
@@ -328,7 +313,7 @@
   - `by N at the latest`                        (遅くとも) Please estimate the losses `by Friday at the latest`. I'll manage it somehow.
   - `until such time as S V`                    (までの間は) We are unable to review it `until such time as` we receive that.
 
-### WHERE
+## WHERE
 
 - どこに
   - `directly accross from`                     (の真向かいに)
@@ -336,31 +321,13 @@
 - 距離感
   - `in close quarters`                         (近い距離で) It was odd, to be working `in close quarters` after having ...
 
-### 並列
-
-- `in particular`                               (特に) it appears to be attractive to many people, `in particular,` to younger people.
-- `especially`                                  (特に) `Especially,` I am good at French cooking
-- `above all`                                   (とりわけ) `Above all,` scientific terms call for precise definitions.
-- `among other things`                          (とりわけ) I noticed, `among other things`, that he was drunk.
-- `on top of that`                              (さらに)
-- `to make matters worse`                       (さらに悪いことに) `To make matters worse,` he isn't even conscious of annoying us.
-- `what's more`                                 (さらに良いことに) I met the man by chance. He's gentle and smart. `What's more,` he's single.
-- `what's worse`                                (さらに悪いことに)
-
 ## UNCATEGORIZED
 
-- `, each with O`                               (それぞれが O を持っている) instant cameras, `each with` their own unique shape and design.
-- `Now that`                                    (いまや) `Now that` things are better, we should talk about the problem.
-- `With the exception of`                       (を除いて)
-- `and the next thing I knew`                   (次の瞬間) I felt dizzy, `and the next thing I knew` I was ...
-- `and then`                                    (それから)
 - `at a discount`                               (割引料金で)
-- `except for`                                  (を除いて) The auditorium was empty `except for` a single piece of furniture.
 - `for the (fun | joy) of it`                   (趣味として) I just cook `for the fun of it.`
 - `in itself`                                   (それ自体は) The revolution`in itself`, bore no fruit, after all.
 - `in place of O`                               (の代わりに) I used Knox’s PC `in place of` mine today.
 - `in support of O`                             (を支持して) The newspaper published an editorial `in support of` the new tax plan.
-- `in the course of`                            (の過程で) `In the course of` its economic development, Japan has ...
 - `just as`                                     (ちょうど同じように) `Just as` in the case of Carpenter's Square, the following relation holds.
 - `not including`                               (を含めずに) I work 8 hours `not including` lunch.
 - `of all O`                                    (数ある中で よりによって) `Of all days`, he fell ill on his birthday. / She wants to travel to Antarctic, of all places.
