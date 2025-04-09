@@ -1,7 +1,7 @@
-- [ ] a
-- [ ] abandon
-- [ ] abandoned
-- [ ] abandonment
+- [x] a
+- [x] abandon
+- [x] abandoned
+- [x] abandonment
 - [ ] abate
 - [ ] abbey
 - [ ] abbreviate
@@ -17,40 +17,40 @@
 - [ ] abhorrent
 - [ ] abide
 - [ ] abiding
-- [ ] ability
+- [x] ability
 - [ ] abject
 - [ ] ablaze
-- [ ] able
-- [ ] abnormal
-- [ ] abnormality
-- [ ] aboard
-- [ ] abolish
-- [ ] abolition
+- [x] able
+- [x] abnormal
+- [x] abnormality
+- [x] aboard
+- [x] abolish
+- [x] abolition
 - [ ] abominable
 - [ ] aboriginal
-- [ ] abort
-- [ ] abortion
-- [ ] abortive
+- [x] abort
+- [x] abortion
+- [x] abortive
 - [ ] abound
-- [ ] about
-- [ ] above
+- [x] about
+- [x] above
 - [ ] abrasive
 - [ ] abreast
-- [ ] abroad
+- [x] abroad
 - [ ] abrupt
-- [ ] absence
-- [ ] absent
-- [ ] absolute
-- [ ] absolutely
-- [ ] absorb
+- [x] absence
+- [x] absent
+- [x] absolute
+- [x] absolutely
+- [x] absorb
 - [ ] absorption
-- [ ] abstain
+- [x] abstain
 - [ ] abstinence
-- [ ] abstract
-- [ ] abstraction
-- [ ] absurd
+- [x] abstract
+- [x] abstraction
+- [x] absurd
 - [ ] absurdity
-- [ ] abundance
+- [x] abundance
 - [ ] abundant
 - [ ] abuse
 - [ ] abusive
