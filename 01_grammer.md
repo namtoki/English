@@ -249,16 +249,19 @@
   - 状態:                                    I fell `in` love with Kathy.
   - 方法 範囲:                               `In` that sense / You can contact us `in` two ways.
   - 形状:                                    There were many people waiting `in` line.
-- of (分離・結合・所有)
-  - 分離:                                    They robbed her `of` her purse.
-  - 結合 `を起源にして, を原因として`:         May I ask a favor `of` you? / We stayed at a hotel within walking distance `of` the beach.
-  - 材料 `原料がその形をとどめている`:         Those glasses are all made `of` crystal.
-  - 部分:                                    Thet's just the tip `of` the iceberg.
-  - の中で:                                  `of all dishes served at the Cafe`, the Chef's Special Pizza is the most popular.
-  - 関連 `think/know/hear 等とともに`:         What do you think `of` the new plan? / writes `of the distant past` / hear `of A` / know `of A`
-  - その他 `性質 年齢 所有 主格 目的 同格..`:  a story `of` love / a girl `of` ten / the love `of` God / the love `of` nature / the island `of` Honshu
-  - 格 `動詞の名詞形 of -> が を`:             The spectators at the side of the road eagerly awaited the approach `of` the ekiden runners.
-  - 格 `抽象名詞 of -> という`:                The idea `of` everyone carrying around their own cup in order to avoid wasting paper cups is gaining popularity.
+- [of] 分離:                                    They robbed her `of` her purse.
+- [of] 結合 `を起源にして, を原因として`:         May I ask a favor `of` you? / We stayed at a hotel within walking distance `of` the beach.
+- [of] 材料 `原料がその形をとどめている`:         Those glasses are all made `of` crystal.
+- [of] 部分:                                    Thet's just the tip `of` the iceberg.
+- [of] の中で:                                  `of all dishes served at the Cafe`, the Chef's Special Pizza is the most popular.
+- [of] 関連 `think/know/hear 等とともに`:         What do you think `of` the new plan? / writes `of the distant past` / hear `of A` / know `of A`
+- [of] 成り立ち:                                a staff `of` 3 men and 4 women
+- [of] 位置:                                    north `of` the city
+- [of] 同格:                                    the continent `of` Asia
+- [of] 性質,年齢:                               a girl `of` extraordinary charm / a story `of` love / a girl `of` ten
+- [of] その他 `所有 主格 目的 ..`:                the love `of` God / the love `of` nature / the island `of` Honshu
+- [of] 格 `動詞の名詞形 of -> が を`:             The spectators at the side of the road eagerly awaited the approach `of` the ekiden runners.
+- 👉 [of] 格 `抽象名詞 of -> という`:             The idea `of` everyone carrying around their own cup in order to avoid wasting paper cups is gaining popularity.
 - on (くっついて)
   - 位置 `接触`:                               There are several pens `on` your desk.
   - 進行中:                                  Melissa is `on` maternity leave.

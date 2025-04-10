@@ -252,6 +252,7 @@
 
 ## Jonkung
 
+👉 in-ing で、「に関して」
 > `To put it to practice,`
 >   What's been the biggest challenge so far
 >     `in` gett`ing` people to, like, accept this kind of like new way of -
@@ -264,18 +265,14 @@
 > Yeah, there have been challenges along the way,
 > [but] this is `unfolding` in multiple chapters.
 > [So] the challenges in the first chapter were, people loved the idea
->                                                  but
->                                                  did not believe that the science would work.
->
-> So
-> the first chapter was all about proof of science (showing that the science can work
->                                                           and
->                                                           that we can take cells from an egg or a chicken or a cow
->                                                                       and
->                                                                       grow meat directly from those cells).
->
-> And
-> (once we started doing it,) we started showing these products
+>                                                     [but]
+>                                                     did not believe that the science would work.
+> [So] the first chapter was all about proof of science, showing that the science can work
+>                                                              [and]
+>                                                              that we can take cells from an egg or a chicken or a cow
+>                                                                          [and]
+>                                                                          grow meat directly from those cells.
+> [And] [once] we started doing it, we started showing these products
 >                                        and
 >                                        cooking it in front of people
 >                                        and

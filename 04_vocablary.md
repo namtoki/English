@@ -1298,7 +1298,7 @@
 - [ ] bread
 - [ ] breadth
 - [ ] breadwinner
-- [ ] break
+- [x] break                 [break] in shoes (履き慣らす) / [break] off the engagement (婚約を破棄する) / [break] up with my girlfriend (別れる)
 - [ ] breakdown
 - [ ] breakfast
 - [ ] breakthrough
@@ -1972,7 +1972,7 @@
 - [ ] colitis
 - [ ] collaborate
 - [ ] collaboration
-- [x] collapse              break down は機械や車が故障する / 両方とも、交渉が決裂する
+- [x] collapse              [break] down は機械や車が故障する / 両方とも、交渉が決裂する
 - [ ] collar
 - [ ] collateral
 - [ ] colleague
@@ -2595,7 +2595,7 @@
 - [ ] crust
 - [ ] crutch
 - [ ] crux
-- [x] cry                   break down in tears (泣き崩れる) / weep / sob
+- [x] cry                   [break] down in tears (泣き崩れる) / weep / sob
 - [ ] crypt
 - [ ] cryptic
 - [ ] crystal
@@ -3771,7 +3771,7 @@
 - [ ] erratic
 - [ ] erroneous
 - [ ] error
-- [ ] erupt
+- [x] erupt                 [break] out
 - [ ] eruption
 - [ ] escalate
 - [ ] escalator
@@ -5807,11 +5807,11 @@
 - [ ] interpreter
 - [ ] interrogate
 - [ ] interrogation
-- [ ] interrupt
+- [x] interrupt             [break] in / butt in / cut in
 - [ ] interruption
 - [ ] intersection
 - [ ] interval
-- [ ] intervene
+- [x] intervene             [break] up a fight
 - [ ] intervention
 - [ ] interview
 - [ ] interviewee
@@ -5839,7 +5839,7 @@
 - [ ] introductory
 - [ ] introspection
 - [ ] introspective
-- [ ] intrude
+- [ ] intrude               [break] in / [break] into
 - [ ] intruder
 - [ ] intrusion
 - [ ] intuition
@@ -7686,7 +7686,7 @@
 - [ ] patronize
 - [ ] patter
 - [ ] pattern
-- [ ] pause
+- [x] pause                 [break] off
 - [ ] pave
 - [ ] pavement
 - [ ] pavilion
@@ -8617,7 +8617,7 @@
 - [ ] rarely
 - [ ] rarity
 - [ ] rascal
-- [ ] rash
+- [x] rash                  [break] out in a rash
 - [ ] rasp
 - [ ] raspberry
 - [ ] rat
@@ -10185,7 +10185,7 @@
 - [ ] stare
 - [ ] stark
 - [ ] starlight
-- [ ] start
+- [x] start                 [break] into laughter (突然笑い出す)
 - [ ] starter
 - [ ] startle
 - [ ] startling
