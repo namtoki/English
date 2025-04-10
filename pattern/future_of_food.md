@@ -2,10 +2,13 @@
 
 <https://youtu.be/CeUoS2T2hhc?si=izbrlay7dtrBMVrj>
 
-- 挿入の I think が思ったより多い
+- 挿入
+  - 挿入の I think が思ったより多い
 - And の多用が思ったより多い
 - 名詞を先に置いて、直後の文でそれを it で指し示す用法が多い
-- `I loved it when S V` で、S が V するのが好きだ
+- It を使いこなす
+  - `I loved it when S V` で、S が V するのが好きだ
+  - `It is C when/if S V` という構文も便利そう
 
 ## Uma
 
@@ -114,7 +117,6 @@
 ## Uma
 
 > `So` was that experience one of those formative `ones that made you say`, "I want to cook in America"?
-> > Was that 〇〇 one of 〇〇 that 〇〇?
 
 ## Jonkung
 

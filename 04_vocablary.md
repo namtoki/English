@@ -1338,7 +1338,7 @@
 - [ ] brilliance
 - [ ] brilliant
 - [ ] brim
-- [ ] bring
+- [x] bring                 bring about changes
 - [ ] brink
 - [ ] brisk
 - [ ] briskly
@@ -1972,7 +1972,7 @@
 - [ ] colitis
 - [ ] collaborate
 - [ ] collaboration
-- [x] collapse              [break] down は機械や車が故障する / 両方とも、交渉が決裂する
+- [x] collapse              break down (機械や車が故障する) / break down (交渉が決裂する) / bring down (落ちる)
 - [ ] collar
 - [ ] collateral
 - [ ] colleague
@@ -6396,7 +6396,7 @@
 - [ ] lovely
 - [ ] lover
 - [ ] low
-- [ ] lower
+- [x] lower                 bring down (値引き)
 - [ ] loyal
 - [ ] loyalist
 - [ ] loyalty
@@ -8685,7 +8685,7 @@
 - [ ] rebuke
 - [ ] rebuttal
 - [ ] recalcitrant
-- [ ] recall
+- [x] recall                bring back memories / bring 人 back (呼び戻す)
 - [ ] recapture
 - [ ] recede
 - [ ] receipt
@@ -9037,7 +9037,7 @@
 - [ ] resumption
 - [ ] resurrect
 - [ ] resurrection
-- [ ] resuscitate
+- [x] resuscitate           bring back 人 to life
 - [ ] retail
 - [ ] retailer
 - [ ] retain
@@ -9061,7 +9061,7 @@
 - [ ] retrieve
 - [ ] retrospect
 - [ ] retrospective
-- [ ] return
+- [x] return                bring back
 - [ ] reunion
 - [ ] reunite
 - [ ] reuse
@@ -10981,7 +10981,7 @@
 - [ ] topical
 - [ ] topography
 - [ ] topping
-- [ ] topple
+- [x] topple                bring down /
 - [ ] torch
 - [ ] torment
 - [ ] tornado
