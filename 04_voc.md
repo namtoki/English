@@ -21,177 +21,169 @@ something to the effect that のようなこと
   - ★ `the kind of thing that (S) V`            (S が V するような類のもの) This is `the kind of thing that makes me really happy`.
   - `the kind of thing like O`                  (O みたいな類のもの)
 
-- [ ] `O of a kind/sort`            O ある種の
-- [ ] `some kind of O`              O ある種の                  He was born with `some kind of` special talent. / `some kind of` sport
-- [ ] `some kinds of O`             O あらゆる                  amplify the effects of `some kinds of` pollution
-- [x] `O and things like that`      O とか (同じカテゴリー)     I think he's learning Spanish or `something like that`, if that makes sense.
-- [x] `O and stuff like that`       O とか (同じカテゴリー)     We've got to do editing `and stuff.`
-- [ ] `O or whatever`               O とかそんな感じ            I'm just going to read a book `or whatever.`
-- [ ] `O and so on`                 O とか (同じカテゴリー)     I'm tired of doing the dished, doing the laundry, `and so on!`
-- [x] `O or so`                     O とか (数字)               It's 20 dollars `or so`.
-- [x] `like O`                      O だいたい (数字)           There were only `like` thirty people there.
-- [ ] `everything about O`          すべての O                  He knows `everything about` movies.
-- [ ] `all kinds of O`              すべての O                  I've been eating `all kinds of` things.
-- [x] `all A but B`                 B を除いた全ての A          `All of the members of the board of directors but one` were satisfied with ...
-- [x] `a bunch of O`                たくさんの O                `A bunch of` other companies are imitating our excellent methods.
-- [x] `tons of O`                   たくさんの O                I have `tons of` homework tonight.
-- [ ] `a number of O`               たくさんの O                There are `a number of` factors discouraging us from investing in stocks.
-- [ ] `a wealth of O`               豊富な O
-- [ ] `among the 最上級 複数形`     = one of ...
-- [ ] `not so much A as B`          A というより B              It took me a moment to process that I was `not so much angry as sad` that she cheated.
-- [ ] `some of the things`          いくつかのもの              What are `some of the things` that you can say when you don't understand something?
-- [ ] `something else`              格別なもの                  That dinner was `something else`!
-- [ ] `such things`                 そのようなもの              C++ has plenty of`such things`!
-- [ ] `that O?`                     そんなに O?                 Wow! `That` good?
-- [ ] `the only thing`              唯一良くないもの            It was great!`The only thing` was the food.
+- `O of a kind/sort`            O ある種の
+- `some kind of O`              O ある種の                  He was born with `some kind of` special talent. / `some kind of` sport
+- `some kinds of O`             O あらゆる                  amplify the effects of `some kinds of` pollution
+- `O and things like that`      O とか (同じカテゴリー)     I think he's learning Spanish or `something like that`, if that makes sense.
+- `O and stuff like that`       O とか (同じカテゴリー)     We've got to do editing `and stuff.`
+- `O or whatever`               O とかそんな感じ            I'm just going to read a book `or whatever.`
+- `O and so on`                 O とか (同じカテゴリー)     I'm tired of doing the dished, doing the laundry, `and so on!`
+- `O or so`                     O とか (数字)               It's 20 dollars `or so`.
+- `like O`                      O だいたい (数字)           There were only `like` thirty people there.
+- `everything about O`          すべての O                  He knows `everything about` movies.
+- `all kinds of O`              すべての O                  I've been eating `all kinds of` things.
+- `all A but B`                 B を除いた全ての A          `All of the members of the board of directors but one` were satisfied with ...
+- `a bunch of O`                たくさんの O                `A bunch of` other companies are imitating our excellent methods.
+- `tons of O`                   たくさんの O                I have `tons of` homework tonight.
+- `a number of O`               たくさんの O                There are `a number of` factors discouraging us from investing in stocks.
+- `a wealth of O`               豊富な O
+- `among the 最上級 複数形`     = one of ...
+- `not so much A as B`          A というより B              It took me a moment to process that I was `not so much angry as sad` that she cheated.
+- `some of the things`          いくつかのもの              What are `some of the things` that you can say when you don't understand something?
+- `something else`              格別なもの                  That dinner was `something else`!
+- `such things`                 そのようなもの              C++ has plenty of`such things`!
+- `that O?`                     そんなに O?                 Wow! `That` good?
+- `the only thing`              唯一良くないもの            It was great!`The only thing` was the food.
 
 ### CONCRETE
 
-- [ ] `ETA`                         帰る時間                    I send her a message with my ETA. (Estimated Time of Arrival)
-- [ ] `a course of action`          行動指針
-- [ ] `access road`                 連絡道路
-- [ ] `advanced degree`             修士号 博士号
-- [ ] `approach(es) to`             への取り組み
-- [ ] `assessment | evaluation`     改善目的の評価 | 判断目的の評価
-- [ ] `baggage claim`               荷物受け取り所
-- [ ] `benefits package`            福利厚生
-- [ ] `bloodshot eyes`              充血した目                  I've got `bloodshot eyes`.
-- [ ] `boarding pass`               搭乗券
-- [ ] `business hours`              執務時間
-- [ ] `classified advertisement`    案内広告
-- [ ] `commitment | commitments`    献身 | 約束
-- [ ] `commuter train`              通勤列車
-- [ ] `consensus of opinion`        意見の一致
-- [ ] `credit voucher`              無料引換券
-- [ ] `custom | customs`            習慣 | 税関
-- [ ] `deep tissue massage`         整体
-- [ ] `electricity expenditures`    消費電力
-- [ ] `employment reference`        雇用証明書
-- [ ] `enrollment quota`            入学定員数
-- [ ] `family of N`                 人家族                      I'm from a `family of four`.
-- [ ] `film adaption`               映画化
-- [ ] `gut feeling`                 直観
-- [ ] `hay fever`                   花粉症
-- [ ] `health insurance`            健康保険
-- [ ] `hope for`                    うまく行くことに対する希望  many people have `hope for` genuine changes in it
-- [ ] `hope of`                     する希望 / する見込み       I have no `hope of` getting financial support for it
-- [ ] `impact on`                   に対する影響
-- [ ] `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
-- [ ] `nothing out of the ordinary` 普通
-- [ ] `one of those days`           最悪の日
-- [ ] `pedestrian crossing`         横断歩道 crosswalk, crossway
-- [ ] `population boom`             人口の急増
-- [ ] `pound sign`                  #
-- [ ] `premise | premises`          前提 | 家屋,建物,構内,敷地内
-- [ ] `renewal notice`              更新通知
-- [ ] `repeat business`             常連
-- [ ] `social welfare`              福祉
-- [ ] `third baseline`              三塁側
-- [ ] `trade exhibition`            展示会
-- [ ] `trade journal`               業界紙
-- [ ] `treat oneself`               ご褒美
-- [ ] `vapor trail`                 飛行機雲
-- [ ] `vet / veterinarian`          獣医
-- [ ] `wildlife refuge`             鳥獣保護区
-- [ ] `working hours`               執務時間                    My regular working hours end at 6pm.
+- `ETA`                         帰る時間                    I send her a message with my ETA. (Estimated Time of Arrival)
+- `a course of action`          行動指針
+- `access road`                 連絡道路
+- `advanced degree`             修士号 博士号
+- `approach(es) to`             への取り組み
+- `assessment | evaluation`     改善目的の評価 | 判断目的の評価
+- `baggage claim`               荷物受け取り所
+- `benefits package`            福利厚生
+- `bloodshot eyes`              充血した目                  I've got `bloodshot eyes`.
+- `boarding pass`               搭乗券
+- `business hours`              執務時間
+- `classified advertisement`    案内広告
+- `commitment | commitments`    献身 | 約束
+- `commuter train`              通勤列車
+- `consensus of opinion`        意見の一致
+- `credit voucher`              無料引換券
+- `custom | customs`            習慣 | 税関
+- `deep tissue massage`         整体
+- `electricity expenditures`    消費電力
+- `employment reference`        雇用証明書
+- `enrollment quota`            入学定員数
+- `family of N`                 人家族                      I'm from a `family of four`.
+- `film adaption`               映画化
+- `gut feeling`                 直観
+- `hay fever`                   花粉症
+- `health insurance`            健康保険
+- `hope for`                    うまく行くことに対する希望  many people have `hope for` genuine changes in it
+- `hope of`                     する希望 / する見込み       I have no `hope of` getting financial support for it
+- `impact on`                   に対する影響
+- `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
+- `nothing out of the ordinary` 普通
+- `one of those days`           最悪の日
+- `pedestrian crossing`         横断歩道 crosswalk, crossway
+- `population boom`             人口の急増
+- `pound sign`                  #
+- `premise | premises`          前提 | 家屋,建物,構内,敷地内
+- `renewal notice`              更新通知
+- `repeat business`             常連
+- `social welfare`              福祉
+- `third baseline`              三塁側
+- `trade exhibition`            展示会
+- `trade journal`               業界紙
+- `treat oneself`               ご褒美
+- `vapor trail`                 飛行機雲
+- `vet / veterinarian`          獣医
+- `wildlife refuge`             鳥獣保護区
+- `working hours`               執務時間                    My regular working hours end at 6pm.
 
 ## ADJECTIVE
 
 ### LIMITING
 
-- [x] `the most commonly accepted`  一番自然な                  but `the most commonly accepted` way is the -ing.
-- [x] `the very first`              一番最初の                  `the very first` question is the use of ..."
-- [ ] `one-off`                     一度きりの                  The expense incurred this year to construct the building is a `one-off` cost.
-- [ ] `last-minute`                 土壇場の
-- [ ] `neighborly`                  隣人の 親切な
-- [ ] `best-in-class`               最高クラスの
-- [x] `whole other`                 全然違う                    That's a `whole other` problem.
-- [ ] `way better`                  much better                 That's just hype. I know `way better` places.
-- [x] `each and every`              ひとつひとつの              `each and every one of` these questions
-- [ ] `scorching`                   焼きつくような              It's `scorching hot` today.
-- [ ] `boiling`                     うだるような                This room is `boiling hot`.
-- [ ] `no more than`                = only
+- `the most commonly accepted`  一番自然な                  but `the most commonly accepted` way is the -ing.
+- `the very first`              一番最初の                  `the very first` question is the use of ..."
+- `one-off`                     一度きりの                  The expense incurred this year to construct the building is a `one-off` cost.
+- `last-minute`                 土壇場の
+- `neighborly`                  隣人の 親切な
+- `best-in-class`               最高クラスの
+- `whole other`                 全然違う                    That's a `whole other` problem.
+- `way better`                  much better                 That's just hype. I know `way better` places.
+- `each and every`              ひとつひとつの              `each and every one of` these questions
+- `scorching`                   焼きつくような              It's `scorching hot` today.
+- `boiling`                     うだるような                This room is `boiling hot`.
+- `no more than`                = only
 - `more of`                                   (どちらかというと) I think he is `more of` an entertainer.
 
 
 ### DESCRIPTIVE
 
-- [ ] `for hire`                    有料で利用できる、借りられる
-- [ ] `halfway through`             の途中で,半ばを過ぎた       I was `halfway through` dinner when he appeared.
-- [ ] `in one's XXs`                .. 十代                     Some of her first students are new `in their 20s`.
-- [ ] `to go`                       残りの                      We have ten minutes `to go`.
-- [ ] `out of O`                    O ある中の                  We have watched `4 out of 5` seasons.
+- `for hire`                    有料で利用できる、借りられる
+- `halfway through`             の途中で,半ばを過ぎた       I was `halfway through` dinner when he appeared.
+- `in one's XXs`                .. 十代                     Some of her first students are new `in their 20s`.
+- `to go`                       残りの                      We have ten minutes `to go`.
+- `out of O`                    O ある中の                  We have watched `4 out of 5` seasons.
 
 ---
 
 ## AUXILIARY+V
 
-- [~] (might) want to:                            してもいいかもしれない / You `want to` pull your fingers in like this.
-- [ ] be about to:                                しようとしているところ / I `am about to` go to sleep.
-- [ ] be due to:                                  することになっている / She `is due to` have her baby this week.
-- [ ] be eager to:                                切望する 中 → 良
-- [~] be going to:                                するつもり / What time `are we going to` be there?
-- [~] be less likely to:                          する確率が低い / `It's less likely to` get broken.
-- [~] be likely to:                               しそうだ / `It's likely to` rain tomorrow.
-- [~] be looking forward to:                      楽しみにしている / I'm looking forward to your souvenirs.
-- [~] be more likely to:                          する確率が高い / In engineering, people `are more likely to` work in their field.
-- [ ] be obliged to:                              余儀なくする / We `are obliged to` return the favor they gave us.
-- [ ] be said to:                                 と言われている / He `is said to` have worked hard when young.
-- [ ] be slated to:                               することになっている / What time `are we slated to` be there?
-- [ ] be something that:                          ということだ / Satisfying customers with their products `is something that` will remain ...
-- [ ] be subject to:                              の対象となる, を受けやすい, となることがある
-- [ ] be supposed to:                             ことになっている / On Valentine's Day, in Japan girls `are supposed to` give choco...
-- [ ] be supposed to:                             することになっている / What time `are we supposed to` be there?
-- [ ] be supposed to:                             ものだ / Dolphins `are supposed to` be intelligent.
-- [ ] be sure to:                                 きっとできるよ / You `are sure to` see many animals there.
-- [ ] come close to ... ing:                      危うくしそうになる / The ambulance went out of control and `came close to running` over a pedestrian.
-  - [ ] be better off O:                            You`'re better off` starting from the beginning than trying ...
-- [~] could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
-- [ ] ended up V-ing:                             結局した / I `ended up staying` home.
-- [ ] got to:                                     たまたました / I `got to` meet Joyce Nelson in person!
-- [ ] gotta | have got to:                        しなければならない (迫ってきている感) / I `gotta` go.
-- [ ] had better:                                 しなければならない (身のためだよ)
-- [ ] hasten to:                                  急いでした / They `hastened to` execute the plan.
-- [~] have to:                                    しなければならない (迫ってきている感) / I `have to` go home.
-- [~] have yet to:                                まだしていない
-- [ ] make it a rule to:                          するのを常としている / She `makes it a rule to` dispense with evening.
-- [ ] might as well:                              してもいいかもしれない / You `might as well` walk home.
-- [ ] need to:                                    しなければならない (ほんまに) / I `need to` get back to the office.
-- [~] seems to:                                   のようだ (目の前の状況) `It seems to be broken.`
-- [ ] shall:                                      (規定文書で)するものとする / The report `shall` be signed by both parties.
-- [ ] should:                                     しなければならない (実際にはしないだろうけど) / We `should` ask first.
-- [ ] take the plunge and:                        思い切ってした /
-- [ ] tend to:                                    たいてい / I `tend not to` remember my dreams.
-- [ ] tend to:                                    ついつい / I `tend to` eat a lot when I'm nervous.
-- [ ] tend to:                                    普段 / I `tend to` prefer non-fiction.
-- [ ] used to:                                    していたものだ / I `used to` read every day.
-- [ ] was going to:                               するつもりだった (約束) / I `was going to` get the burger, but the salad looked so good.
-- [ ] was supposed to:                            するはずだった (意思) / She `was supposed to` say yes.
-- [ ] was/were like:                              という感じだった / When I ate Natto for the first time `I was like` what is this?
-- [ ] would:                                      自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
-- [ ] 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
-- [ ] 人 need V | 物 need V-ing:                  する必要がある | される必要がある
-- [ ] 三人称 will V:                              することがある / するものだ / He `will` often take a nap while at work.
-- [ ] 人間以外には通常 be able to は用いられない
+- (might) want to:                            してもいいかもしれない / You `want to` pull your fingers in like this.
+- be about to:                                しようとしているところ / I `am about to` go to sleep.
+- be due to:                                  することになっている / She `is due to` have her baby this week.
+- be eager to:                                切望する 中 → 良
+- be going to:                                するつもり / What time `are we going to` be there?
+- be less likely to:                          する確率が低い / `It's less likely to` get broken.
+- be likely to:                               しそうだ / `It's likely to` rain tomorrow.
+- be looking forward to:                      楽しみにしている / I'm looking forward to your souvenirs.
+- be more likely to:                          する確率が高い / In engineering, people `are more likely to` work in their field.
+- be obliged to:                              余儀なくする / We `are obliged to` return the favor they gave us.
+- be said to:                                 と言われている / He `is said to` have worked hard when young.
+- be slated to:                               することになっている / What time `are we slated to` be there?
+- be something that:                          ということだ / Satisfying customers with their products `is something that` will remain ...
+- be subject to:                              の対象となる, を受けやすい, となることがある
+- be supposed to:                             ことになっている / On Valentine's Day, in Japan girls `are supposed to` give choco...
+- be supposed to:                             することになっている / What time `are we supposed to` be there?
+- be supposed to:                             ものだ / Dolphins `are supposed to` be intelligent.
+- be sure to:                                 きっとできるよ / You `are sure to` see many animals there.
+- come close to ... ing:                      危うくしそうになる / The ambulance went out of control and `came close to running` over a pedestrian.
+  - be better off O:                            You`'re better off` starting from the beginning than trying ...
+- could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
+- ended up V-ing:                             結局した / I `ended up staying` home.
+- got to:                                     たまたました / I `got to` meet Joyce Nelson in person!
+- gotta | have got to:                        しなければならない (迫ってきている感) / I `gotta` go.
+- had better:                                 しなければならない (身のためだよ)
+- hasten to:                                  急いでした / They `hastened to` execute the plan.
+- have to:                                    しなければならない (迫ってきている感) / I `have to` go home.
+- have yet to:                                まだしていない
+- make it a rule to:                          するのを常としている / She `makes it a rule to` dispense with evening.
+- might as well:                              してもいいかもしれない / You `might as well` walk home.
+- need to:                                    しなければならない (ほんまに) / I `need to` get back to the office.
+- seems to:                                   のようだ (目の前の状況) `It seems to be broken.`
+- shall:                                      (規定文書で)するものとする / The report `shall` be signed by both parties.
+- should:                                     しなければならない (実際にはしないだろうけど) / We `should` ask first.
+- take the plunge and:                        思い切ってした /
+- tend to:                                    たいてい / I `tend not to` remember my dreams.
+- tend to:                                    ついつい / I `tend to` eat a lot when I'm nervous.
+- tend to:                                    普段 / I `tend to` prefer non-fiction.
+- used to:                                    していたものだ / I `used to` read every day.
+- was going to:                               するつもりだった (約束) / I `was going to` get the burger, but the salad looked so good.
+- was supposed to:                            するはずだった (意思) / She `was supposed to` say yes.
+- was/were like:                              という感じだった / When I ate Natto for the first time `I was like` what is this?
+- would:                                      自分ならする / `I'd` ask Tom. (if you were me が省略された感じ) / I `would` go, if I were you.
+- 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
+- 人 need V | 物 need V-ing:                  する必要がある | される必要がある
+- 三人称 will V:                              することがある / するものだ / He `will` often take a nap while at work.
+- 人間以外には通常 be able to は用いられない
 
 ## AUXILIARY+THAT+S+V
 
-- [ ] be of the opinion that:                     と見ている / Many experts `are of the opinion that` its recovery will lead to worldwide economic growth.
-- [ ] be under the impression that:               だと思い込んでいる
-- [ ] be aware that:                              と承知している / please `be aware that` we are no longer responsible for privacy policies of other sites and services.
-- [ ] see to it that:                             となるように取り計らう / The professor `saw to it that` all of students understood the nature of the assignment.
+- be of the opinion that:                     と見ている / Many experts `are of the opinion that` its recovery will lead to worldwide economic growth.
+- be under the impression that:               だと思い込んでいる
+- be aware that:                              と承知している / please `be aware that` we are no longer responsible for privacy policies of other sites and services.
+- see to it that:                             となるように取り計らう / The professor `saw to it that` all of students understood the nature of the assignment.
 
 ## SUBJECT
 
 - 物理的動作
-  - [ ] `act fanny`:                            ふざける / Why do you always `act funny` like that?
-  - [~] `be getting at`:                        言おうとする / I couldn't make out what you were getting at. / What's the point you're getting at?
-  - [ ] `break away`:                           逃げる / The calf is `breaking away` from the cowboy.
-  - [~] `break into`:                           会話に入る / Can I `break in` here?
-  - [ ] `break into`:                           侵入する / A burglar `broke into` my house over the weekend.
-  - [ ] `break into`:                           急にしだす / He `broke into` tears. She `broke into` laugher. / Sarah saw pandas and `broke into` a run.
-  - [ ] `break through`:                        突破する / The player `broke through` the defensive line. / The sun began to `break through`.
-  - [ ] `bring around`:                         連れていく / We finally `brought him around` to our point of view .
   - [ ] `burn the midnight oil`:                徹夜する
   - [ ] `come across`:                          遭遇する / I `came across` this information on the internet.
   - [ ] `come do`:                              do しに来る / I wish my girlfriend would `come see` me.
@@ -200,8 +192,6 @@ something to the effect that のようなこと
 - 精神的動作
   - [ ] `adjust | arrange | coordinate`:        既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
   - [ ] `ask for`:                              請求する / The credit card company `asked for` the payment. / You are `asking for` it.
-  - [~] `break apart (into)`:                   まで分解する / They even showed a tendency to `break apart into` A group and B group.
-  - [ ] `break in`:                             慣らす / I have to `break in` my new shoes.
   - [ ] `choose A over B`:                      A より B を選ぶ
   - [ ] `come clean`:                           正直に述べる confess / OK. I'll `come clean`.
   - [~] `come up with`:                         考え出す / He `came up with` an ingenious, sensible solution and immediately put it into practice.
@@ -210,9 +200,6 @@ something to the effect that のようなこと
   - [~] `be in favor of`:                       賛成する / I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`
   - [~] `be all for`:                           強く賛成する / `I'm all for` gender equality, but I think the most qualified person should get the job.
   - [ ] `be anxious to`:                        切望する 悪 → 中 / The slaves `were anxious to` alter their destinies.
-  - [ ] `bring up`:                             育てる / His nephew was `brought up` to be modest and considerate.
-  - [ ] `bring up`:                             話に出す / The comment you made is really spot-on. I'm glad you `brought that up`.
-  - [ ] `bring/get A up to speed`:              最新情報に追いつかせる / We need to `bring newbies up to speed` on our project as quickly as possible.
   - [ ] `conceive a plan`:                      計画を思いつく / They `conceived a plan` to surprise the enemy.
   - [ ] `cope with | deal with`:                耐え忍ぶ (否定文で耐えられない) | 状況を改善すべく問題に対処する
   - [ ] `cope with`:                            折り合いをつける / I'm trying to `cope with` loneliness in these new and unfamiliar surroundings.
@@ -350,7 +337,6 @@ something to the effect that のようなこと
 - [ ] be bathed in:                               まみれになる
 - [~] be black and white:                         明らかな / Things in life are never black and white.
 - [ ] be caused by:                               から生じる / The periodic change `was caused by` a faulty piece of equipment.
-- [ ] break away:                                 独立する / In the 1800s the South tried to `break away` from the Union.
 - [~] be composed of:                             で構成されている / This substance is mostly composed of hydrogen and oxygen.
 - [ ] be eating me alive:                         蝕んでいる / Keeping secrets `was eating me alive.`
 - [~] be exemplified by O:                        に例示される / This `is exemplified by` Facebook's Causes application.
@@ -362,13 +348,7 @@ something to the effect that のようなこと
 - [ ] be propped up against:                      立てかけられている
 - [ ] be second to none:                          何にも劣らない
 - [~] be under way:                               進行中 / The negotiations are under way.
-- [ ] break out:                                  起こる / The fire `broke out` in the middle of the night.
-- [ ] bring about:                                もたらす / Medical breakthroughs have `brought about` great benefits for humanity as a whole.
-- [ ] bring back memories:                        記憶がよみがえる / Those pictures `bring back happy memories` of my time in the US.
-- [ ] bring on:                                   引き起こす / Fatigue often `brings on` headaches.
 - [ ] come to an agreement:                       合意に至る / The organizers have `come to an agreement` regarding the location of the next Starr Trekking Convention.
-- [ ] bring through:                              難局を切抜させる / Her angelic smile `brought me through` my mental distress .
-- [ ] brings back memories:                       思い出させる / This song `brings back memories!`
 - [~] can wait:                                   まで大丈夫 / Is this job urgent? No, `it can wait until` tomorrow. / `Can it wait`?
 - [ ] cater to:                                   に応じる / に向けた / There are a number of publications `catering to` gardening enthusiasts.
 - [ ] come after:                                 文章が続く / what `comes after` that has to be -ing like "My hobby is taking pictures."

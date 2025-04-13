@@ -51,43 +51,43 @@
 - [x] absurd
 - [ ] absurdity
 - [x] abundance
-- [ ] abundant
-- [ ] abuse
+- [x] abundant
+- [x] abuse
 - [ ] abusive
 - [ ] abyss
-- [ ] academic
-- [ ] academy
+- [x] academic
+- [x] academy
 - [ ] accede
-- [ ] accelerate
-- [ ] acceleration
-- [ ] accelerator
-- [ ] accent
-- [ ] accept
-- [ ] acceptable
-- [ ] acceptance
-- [ ] access
-- [ ] accessible
+- [x] accelerate
+- [x] acceleration
+- [x] accelerator
+- [x] accent
+- [x] accept
+- [x] acceptable
+- [x] acceptance
+- [x] access
+- [x] accessible
 - [ ] accession
-- [ ] accessory
-- [ ] accident
-- [ ] accidental
-- [ ] accidentally
-- [ ] acclaim
+- [x] accessory
+- [x] accident
+- [x] accidental
+- [x] accidentally
+- [x] acclaim
 - [ ] acclamation
 - [ ] accolade
-- [ ] accommodate
-- [ ] accommodating
-- [ ] accommodation
-- [ ] accompaniment
-- [ ] accompany
+- [x] accommodate
+- [x] accommodating
+- [x] accommodation
+- [x] accompaniment
+- [x] accompany
 - [ ] accomplice
-- [ ] accomplish
-- [ ] accomplished
-- [ ] accomplishment
-- [ ] accord
-- [ ] accordance
-- [ ] according
-- [ ] accordingly
+- [x] accomplish
+- [x] accomplished
+- [x] accomplishment
+- [x] accord
+- [x] accordance
+- [x] according
+- [x] accordingly
 - [ ] account
 - [ ] accountability
 - [ ] accountable
@@ -125,7 +125,7 @@
 - [ ] acrid
 - [ ] acronym
 - [ ] across
-- [ ] act
+- [x] act
 - [ ] acting
 - [ ] action
 - [ ] activate
@@ -941,7 +941,7 @@
 - [ ] barrier
 - [ ] barrow
 - [ ] barter
-- [ ] base
+- [x] base                  PV: build on (を基に事を進める/の上に築かれる)
 - [ ] baseball
 - [ ] basement
 - [ ] bash
@@ -1298,7 +1298,7 @@
 - [ ] bread
 - [ ] breadth
 - [ ] breadwinner
-- [x] break                 [break] in shoes (履き慣らす) / [break] off the engagement (婚約を破棄する) / [break] up with my girlfriend (別れる)
+- [x] break                 PV: break in shoes (履き慣らす) / PV: break off the engagement (婚約を破棄する) / PV: break up with my girlfriend (別れる)
 - [ ] breakdown
 - [ ] breakfast
 - [ ] breakthrough
@@ -1338,7 +1338,7 @@
 - [ ] brilliance
 - [ ] brilliant
 - [ ] brim
-- [x] bring                 bring about changes
+- [x] bring
 - [ ] brink
 - [ ] brisk
 - [ ] briskly
@@ -1608,7 +1608,7 @@
 - [ ] cataract
 - [ ] catastrophe
 - [ ] catastrophic
-- [ ] catch
+- [x] catch                 PV: bring someone up to speed
 - [ ] catcher
 - [ ] categorical
 - [ ] categorize
@@ -1621,7 +1621,7 @@
 - [ ] caucus
 - [ ] cauliflower
 - [ ] causal
-- [ ] cause
+- [x] cause                 PV: bring about changes / PV: bring on
 - [ ] caustic
 - [ ] caution
 - [ ] cautious
@@ -1972,7 +1972,7 @@
 - [ ] colitis
 - [ ] collaborate
 - [ ] collaboration
-- [x] collapse              break down (機械や車が故障する) / break down (交渉が決裂する) / bring down (落ちる)
+- [x] collapse              PV: break down (機械や車が故障する) / PV: break down (交渉が決裂する) / PV: bring down (落ちる)
 - [ ] collar
 - [ ] collateral
 - [ ] colleague
@@ -2595,7 +2595,7 @@
 - [ ] crust
 - [ ] crutch
 - [ ] crux
-- [x] cry                   [break] down in tears (泣き崩れる) / weep / sob
+- [x] cry                   PV: break down in tears (泣き崩れる) / weep / sob
 - [ ] crypt
 - [ ] cryptic
 - [ ] crystal
@@ -3445,7 +3445,7 @@
 - [ ] eagle
 - [ ] ear
 - [ ] early
-- [ ] earn
+- [x] earn                  PV: bring in (利益をもたらす)
 - [ ] earnest
 - [ ] earnestly
 - [ ] earnings
@@ -3673,7 +3673,7 @@
 - [ ] engineering
 - [ ] engrave
 - [ ] engulf
-- [ ] enhance
+- [x] enhance               PV: bring out
 - [ ] enigma
 - [ ] enigmatic
 - [ ] enjoin
@@ -3771,12 +3771,12 @@
 - [ ] erratic
 - [ ] erroneous
 - [ ] error
-- [x] erupt                 [break] out
+- [x] erupt                 PV: break out
 - [ ] eruption
 - [ ] escalate
 - [ ] escalator
 - [ ] escapade
-- [ ] escape
+- [x] escape                PV: break away (集団から抜け出す)
 - [ ] eschew
 - [ ] escort
 - [ ] esophagus
@@ -5428,7 +5428,7 @@
 - [ ] impinge
 - [ ] implacable
 - [ ] implant
-- [ ] implement
+- [x] implement             PV: bring in
 - [ ] implementation
 - [ ] implicate
 - [ ] implication
@@ -5499,7 +5499,7 @@
 - [ ] inclination
 - [ ] incline
 - [ ] inclined
-- [ ] include
+- [x] include               PV: build into the budget
 - [ ] including
 - [ ] inclusion
 - [ ] inclusive
@@ -5756,7 +5756,7 @@
 - [ ] intake
 - [ ] intangible
 - [ ] integral
-- [ ] integrate
+- [x] integrate             PV: build in (取り付ける/組み込む)
 - [ ] integrated
 - [ ] integration
 - [ ] integrity
@@ -5807,11 +5807,11 @@
 - [ ] interpreter
 - [ ] interrogate
 - [ ] interrogation
-- [x] interrupt             [break] in / butt in / cut in
+- [x] interrupt             PV: break in / butt in / cut in
 - [ ] interruption
 - [ ] intersection
 - [ ] interval
-- [x] intervene             [break] up a fight
+- [x] intervene             PV: break up a fight
 - [ ] intervention
 - [ ] interview
 - [ ] interviewee
@@ -5839,7 +5839,7 @@
 - [ ] introductory
 - [ ] introspection
 - [ ] introspective
-- [ ] intrude               [break] in / [break] into
+- [x] intrude               PV: break in / break into
 - [ ] intruder
 - [ ] intrusion
 - [ ] intuition
@@ -5870,7 +5870,7 @@
 - [ ] invincible
 - [ ] invisible
 - [ ] invitation
-- [ ] invite
+- [x] invite                PV: bring in (experts)
 - [ ] invoice
 - [ ] invoke
 - [ ] involuntary
@@ -6396,7 +6396,7 @@
 - [ ] lovely
 - [ ] lover
 - [ ] low
-- [x] lower                 bring down (値引き)
+- [x] lower                 PV: bring down (値引き)
 - [ ] loyal
 - [ ] loyalist
 - [ ] loyalty
@@ -7480,7 +7480,7 @@
 - [ ] overbearing
 - [ ] overblown
 - [ ] overbook
-- [ ] overcome
+- [x] overcome              PV: break through (突破する)
 - [ ] overcrowd
 - [ ] overdo
 - [ ] overdose
@@ -7686,7 +7686,7 @@
 - [ ] patronize
 - [ ] patter
 - [ ] pattern
-- [x] pause                 [break] off
+- [x] pause                 PV: break off
 - [ ] pave
 - [ ] pavement
 - [ ] pavilion
@@ -7816,7 +7816,7 @@
 - [ ] personnel
 - [ ] perspective
 - [ ] perspiration
-- [ ] persuade
+- [x] persuade              PV: bring around
 - [ ] persuasion
 - [ ] persuasive
 - [ ] pert
@@ -8583,7 +8583,7 @@
 - [ ] rainfall
 - [ ] rainforest
 - [ ] rainy
-- [ ] raise
+- [x] raise                 PV: bring up (育てる,話題に出す) /
 - [ ] raised
 - [ ] raisin
 - [ ] rake
@@ -8617,7 +8617,7 @@
 - [ ] rarely
 - [ ] rarity
 - [ ] rascal
-- [x] rash                  [break] out in a rash
+- [x] rash                  PV: break out in a rash
 - [ ] rasp
 - [ ] raspberry
 - [ ] rat
@@ -8685,7 +8685,7 @@
 - [ ] rebuke
 - [ ] rebuttal
 - [ ] recalcitrant
-- [x] recall                bring back memories / bring 人 back (呼び戻す)
+- [x] recall                PV: bring back memories / PV: bring someone back (呼び戻す)
 - [ ] recapture
 - [ ] recede
 - [ ] receipt
@@ -8732,7 +8732,7 @@
 - [ ] recount
 - [ ] recoup
 - [ ] recourse
-- [ ] recover
+- [x] recover               PV: bring someone through
 - [ ] recovery
 - [ ] recreate
 - [ ] recreation
@@ -8848,7 +8848,7 @@
 - [ ] relaxed
 - [ ] relaxing
 - [ ] relay
-- [ ] release
+- [x] release               PV: bring out
 - [ ] relegate
 - [ ] relent
 - [ ] relentless
@@ -9037,7 +9037,7 @@
 - [ ] resumption
 - [ ] resurrect
 - [ ] resurrection
-- [x] resuscitate           bring back 人 to life
+- [x] resuscitate           PV: bring back 人 to life
 - [ ] retail
 - [ ] retailer
 - [ ] retain
@@ -9061,12 +9061,12 @@
 - [ ] retrieve
 - [ ] retrospect
 - [ ] retrospective
-- [x] return                bring back
+- [x] return                PV: bring back
 - [ ] reunion
 - [ ] reunite
 - [ ] reuse
 - [ ] revamp
-- [ ] reveal
+- [x] reveal                PV: bring out
 - [ ] revel
 - [ ] revelation
 - [ ] revenge
@@ -9595,7 +9595,7 @@
 - [ ] sharpen
 - [ ] sharply
 - [ ] sharpness
-- [ ] shatter
+- [x] shatter               PV: break apart (into)
 - [ ] shave
 - [ ] shawl
 - [ ] she
@@ -10185,9 +10185,9 @@
 - [ ] stare
 - [ ] stark
 - [ ] starlight
-- [x] start                 [break] into laughter (突然笑い出す)
+- [x] start                 PV: break into laughter (突然笑い出す)
 - [ ] starter
-- [ ] startle
+- [x] startle               PV: bring someone up short
 - [ ] startling
 - [ ] starvation
 - [ ] starve
@@ -10314,7 +10314,7 @@
 - [ ] street
 - [ ] streetcar
 - [ ] strength
-- [ ] strengthen
+- [x] strengthen            PV: build up confidence
 - [ ] strenuous
 - [ ] stress
 - [ ] stressful
@@ -10525,7 +10525,7 @@
 - [ ] surgical
 - [ ] surly
 - [ ] surmise
-- [ ] surmount
+- [x] surmount
 - [ ] surname
 - [ ] surpass
 - [ ] surplus
@@ -10981,7 +10981,7 @@
 - [ ] topical
 - [ ] topography
 - [ ] topping
-- [x] topple                bring down /
+- [x] topple                PV: bring down /
 - [ ] torch
 - [ ] torment
 - [ ] tornado
@@ -11025,7 +11025,7 @@
 - [ ] trading
 - [ ] tradition
 - [ ] traditional
-- [ ] traffic
+- [x] traffic               PV: build up
 - [ ] tragedy
 - [ ] tragic
 - [ ] trail
@@ -11633,7 +11633,7 @@
 - [ ] voluntary
 - [ ] volunteer
 - [ ] voluptuous
-- [ ] vomit
+- [ ] vomit                 PV: bring up
 - [ ] vote
 - [ ] voter
 - [ ] vouch
@@ -11756,7 +11756,7 @@
 - [ ] weight
 - [ ] weightlifting
 - [ ] weighty
-- [ ] weird
+- [x] weird                 act funny
 - [ ] welcome
 - [ ] weld
 - [ ] welfare
