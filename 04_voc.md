@@ -185,16 +185,11 @@ something to the effect that のようなこと
 
 - 物理的動作
   - [ ] `burn the midnight oil`:                徹夜する
-  - [ ] `come across`:                          遭遇する / I `came across` this information on the internet.
-  - [ ] `come do`:                              do しに来る / I wish my girlfriend would `come see` me.
-  - [ ] `come/get home (from work/school)`:     帰宅する / Dave goes home at 8 p.m., so he comes home at 9 p.m.
 - [ ] `hang out`                    ぶらぶらする                Would you like to `hang out` next Sunday?
 - 精神的動作
   - [ ] `adjust | arrange | coordinate`:        既成の sched を変更する | 新規の sched を立てる | 他の人と sched を調整する
   - [ ] `ask for`:                              請求する / The credit card company `asked for` the payment. / You are `asking for` it.
   - [ ] `choose A over B`:                      A より B を選ぶ
-  - [ ] `come clean`:                           正直に述べる confess / OK. I'll `come clean`.
-  - [~] `come up with`:                         考え出す / He `came up with` an ingenious, sensible solution and immediately put it into practice.
   - [ ] `ask out`:                              誘う / He finally `asked Alice out`!
   - [~] `argue against`:                        反論する /  If you `argue against` an opinion, idea, belief, etc.,
   - [~] `be in favor of`:                       賛成する / I`'m in favor of` Tom's plan. I think it's the most realistic. / 反対は `be against`

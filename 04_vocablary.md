@@ -1485,7 +1485,7 @@
 - [ ] calendar
 - [ ] calf
 - [ ] caliber
-- [ ] call
+- [x] call                  PV: call in sick (病欠の連絡を入れる)
 - [ ] caller
 - [ ] calligraphy
 - [ ] calling
@@ -2008,7 +2008,7 @@
 - [ ] combined
 - [ ] combo
 - [ ] combustion
-- [ ] come
+- [x] come                  come do (do しに来る) / come home (from work/school) (帰宅する)
 - [ ] comeback
 - [ ] comedian
 - [ ] comedy
@@ -2138,7 +2138,7 @@
 - [ ] conceit
 - [ ] conceited
 - [ ] conceivable
-- [ ] conceive
+- [x] conceive              PV: come up with (思いつく)
 - [ ] concentrate
 - [ ] concentrated
 - [ ] concentration
@@ -2184,7 +2184,7 @@
 - [ ] confederation
 - [ ] confer
 - [ ] conference
-- [ ] confess
+- [x] confess               come clean
 - [ ] confession
 - [ ] confetti
 - [ ] confide
@@ -2848,7 +2848,7 @@
 - [ ] delude
 - [ ] deluge
 - [ ] delve
-- [ ] demand
+- [x] demand                PV: call for (要求する)
 - [ ] demarcation
 - [ ] demeanor
 - [ ] dementia
@@ -3637,7 +3637,7 @@
 - [ ] enclosure
 - [ ] encompass
 - [ ] encore
-- [ ] encounter
+- [x] encounter             PV: come accross (偶然出会う)
 - [ ] encourage
 - [ ] encouragement
 - [ ] encouraging
@@ -4661,7 +4661,7 @@
 - [ ] germ
 - [ ] germinate
 - [ ] gesture
-- [ ] get
+- [x] get                   get home (from work/school) (帰宅する)
 - [ ] ghastly
 - [ ] ghetto
 - [ ] ghost
@@ -4966,7 +4966,7 @@
 - [ ] hangover
 - [ ] haphazard
 - [ ] hapless
-- [ ] happen
+- [x] happen                PV: come about (偶然起こる)
 - [ ] happening
 - [ ] happily
 - [ ] happiness
@@ -5450,7 +5450,7 @@
 - [ ] impoverished
 - [ ] impractical
 - [ ] impress
-- [ ] impression
+- [x] impression            PV: come across well (好印象)
 - [ ] impressive
 - [ ] imprint
 - [ ] imprison
@@ -5859,7 +5859,7 @@
 - [ ] inventor
 - [ ] inventory
 - [ ] invert
-- [ ] invest
+- [x] invest
 - [ ] investigate
 - [ ] investigation
 - [ ] investigative
@@ -9659,7 +9659,7 @@
 - [ ] shot
 - [ ] should
 - [ ] shoulder
-- [ ] shout
+- [x] shout                 PV: call out (声を上げる)
 - [ ] shove
 - [ ] shovel
 - [ ] show
@@ -10443,7 +10443,7 @@
 - [ ] suggestive
 - [ ] suicidal
 - [ ] suicide
-- [x] suit                  PV: work for (都合がよい) / That doesn't work for my wife.
+- [x] suit                  PV: work for (都合がよい) / That doesn't work for my wife. / PV: call for (ふさわしい)
 - [ ] suitable
 - [ ] suitcase
 - [ ] suite
@@ -10459,7 +10459,7 @@
 - [ ] summer
 - [ ] summertime
 - [ ] summit
-- [ ] summon
+- [x] summon                PV: call in (呼び入れる)
 - [ ] sumptuous
 - [ ] sun
 - [ ] sunbeam
@@ -11603,7 +11603,7 @@
 - [ ] visible
 - [ ] vision
 - [ ] visionary
-- [ ] visit
+- [x] visit                 PV: call on (訪問する)
 - [ ] visitor
 - [ ] vista
 - [ ] visual

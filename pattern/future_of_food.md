@@ -245,8 +245,8 @@
 >                                                   [where] we can bring meat grown from animal cells directly to the plate.
 
 > [So] we're not asking people to give up animal-based products,
->      [but]
->      incorporate that in the future.
+>       [but]
+>       incorporate that in the future.
 > [So] the traditions can continue, the culture can continue.
 > It's a `big-tent` solution [where] nearly people from `all stripes` can come together.
 > [And] I've thought it will be a win-win, [but] this was at the time of an idea stage.
@@ -275,80 +275,58 @@
 >                                                                          [and]
 >                                                                          grow meat directly from those cells.
 > [And] [once] we started doing it, we started showing these products
->                                        and
->                                        cooking it in front of people
->                                        and
->                                        having hardcore meat eaters and chefs come and cook it.
+>                                          [and]
+>                                          cooking it in front of people
+>                                          [and]
+>                                          having hardcore meat eaters and chefs come and cook it.
 >
-> And
-> it just melts, the disbelief melts into like, "Wow, this is possible."
+> [And] it just melts, the disbelief melts into like, "Wow, this is possible."
 >
-> And then
-> (when they taste it,) it just `demystifies` a lot of things
-> because
-> all the neurons that have been programmed to kind of recognize as meat will start firing in your brain.
+> [And then] when they taste it, it just `demystifies` a lot of things
+> [because] all the neurons that have been programmed to kind of recognize as meat will start firing in your brain.
 
-Jonkung
-> Which (I think)
->   is
->     so interesting
-> because (like,)
->   a lot of people that would probably be (like,) your greatest `detractors`
->     are (like,)
->       the same type of person that would be uncomfortable eating chicken wings with bones in it still.
->
-> Our perceptions `of (like,)` from animal to meat
->   have been so `far removed from`
->     what it actually is or where it actually comes from,
-> that
->   this
->     does not seem (like)
->       that much of a leap,
->         `considering` how much we process the meat that we eat already.
->
-> Like,
-> it
->   is
->     unrecognizable
->       once it comes to your grocery store anyway,
->         compared to what it was when it was on the farm.
->
-> So like,
-> what's the difference here?
-> Or like,
-> why is this such a `stretch`?
+## Jonkung
 
-Uma
+> Which [I think] is so interesting
+> [because] [like], a lot of people that would probably be [like], your greatest `detractors`
+>               are [like],
+>               the same type of person that would be uncomfortable eating chicken wings with bones in it still.
+>
+> Our perceptions of [like], from animal to meat have been so `far removed from` what it actually is or where it actually comes from,
+> that this does not seem [like] that much of a leap, `considering` how much we process the meat that we eat already.
+>
+> [Like], it is unrecognizable once it comes to your grocery store anyway, compared to what it was when it was on the farm.
+>
+> [So like], what's the difference here?
+> [Or like], why is this such a `stretch`?
+
+## Uma
+
 > Well, yeah, I mean,
 > I think, I'd say this.
 >
-> I think
->   nearly all major or `transformative` innovations that have happened in the world,
->       eventually `triumphed` despite `formidable` opposition.
->
-> And
-> the opposition here is,
+> I think nearly all major or `transformative` innovations that have happened in the world,
+>   eventually `triumphed` despite `formidable` opposition.
+
+👉 ここで言っている〜〜は
+> [And] the opposition here is,
+
+👉 with O で付帯状況。ここでは例示に近くなる
 > I think the fear of the unknown is actually higher than all the risks we are taking right now
 >   with the amount of animals we are `raising` in intense, confined places
->     `that` can increase the risk of pandemics or `zoonotics` or things just like food poisoning.
+>     that can increase the risk of pandemics or `zoonotics` or things just like food poisoning.
 >
 > Or draining ecosystems to feed the crops to the animals
 > Or even simply just like, what about animal welfare?
 > Things of that nature.
->
-> So that's the part that has been really interesting for us to learn
+
+> [So] that's the part that has been really interesting for us to learn
 >   that the fear of the unknown is more than the fear of what we are actually living with every second in our lives.
 >
-> `And` part of this is communicating better, `demystifying` it.
-> `And` I think demystification should be very simple.
+> [And] part of this is communicating better, `demystifying` it.
+> [And] I think demystification should be very simple.
 > Tasting the product, magical experience.
 > Touring the place where it's made in clean production facilities, where you can just go around and walk around and say, "Hey, here's animal cell growing."
-
-
-
-
-
-
 
 ---
 
