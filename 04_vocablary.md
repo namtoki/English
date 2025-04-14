@@ -11981,20 +11981,20 @@
 - [ ] youth
 - [ ] youthful
 - [ ] yummy
-- [ ] zeal
+- [x] zeal
 - [ ] zealot
-- [ ] zealous
-- [ ] zebra
+- [x] zealous
+- [x] zebra
 - [ ] zenith
-- [ ] zero
+- [x] zero
 - [ ] zest
-- [ ] zigzag
+- [x] zigzag
 - [ ] zinc
-- [ ] zip
-- [ ] zipper
+- [x] zip
+- [x] zipper
 - [ ] zodiac
-- [ ] zone
-- [ ] zoo
-- [ ] zookeeper
+- [x] zone
+- [x] zoo
+- [x] zookeeper
 - [ ] zoological
-- [ ] zoom
+- [x] zoom
