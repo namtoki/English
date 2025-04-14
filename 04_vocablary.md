@@ -155,7 +155,7 @@
 - [ ] addition
 - [ ] additional
 - [ ] additive
-- [ ] address
+- [x] address               make an address (演説する)
 - [ ] adept
 - [ ] adequacy
 - [ ] adequate
@@ -1730,7 +1730,7 @@
 - [ ] checkup
 - [ ] cheek
 - [ ] cheeky
-- [ ] cheer
+- [x] cheer                 keep one's chin up
 - [ ] cheerful
 - [ ] cheering
 - [ ] cheerleader
@@ -2063,7 +2063,7 @@
 - [ ] comparable
 - [ ] comparative
 - [ ] comparatively
-- [ ] compare
+- [x] compare               PV: weigh A versus B (慎重に比較評価する) / We need to weigh the benefits versus the costs.
 - [ ] comparison
 - [ ] compartment
 - [ ] compass
@@ -2212,7 +2212,7 @@
 - [ ] confusing
 - [ ] confusion
 - [ ] congenial
-- [ ] congestion
+- [x] congestion            traffic is backed up (渋滞している)
 - [ ] conglomerate
 - [ ] congratulate
 - [ ] congratulation
@@ -4213,7 +4213,7 @@
 - [ ] fingernail
 - [ ] fingerprint
 - [ ] fingertip
-- [ ] finish
+- [x] finish                PV: wrap up (切り上げる) / We hope to wrap up the negotiations at the next meeting.
 - [ ] finished
 - [ ] finishing
 - [ ] finite
@@ -5458,7 +5458,7 @@
 - [ ] improbable
 - [ ] impromptu
 - [ ] improper
-- [ ] improve
+- [x] improve               PV: work on (改善する,取り組む) / I need to work on being more punctual.
 - [ ] improvement
 - [ ] improvise
 - [ ] imprudent
@@ -5889,7 +5889,7 @@
 - [ ] irredeemable
 - [ ] irregular
 - [ ] irrelevance
-- [ ] irrelevant
+- [x] irrelevant            off the mark (的外れ) / beside the point (論点がズレている)
 - [ ] irresistible
 - [ ] irresponsible
 - [ ] irrevocable
@@ -6471,7 +6471,7 @@
 - [ ] majesty
 - [ ] major
 - [ ] majority
-- [ ] make
+- [x] make                  make little of (軽視) / make much of (重要視,甘やか) / make nothing of (何とも)
 - [ ] maker
 - [ ] makeshift
 - [ ] makeup
@@ -6634,7 +6634,7 @@
 - [ ] meditation
 - [ ] medium
 - [ ] meek
-- [ ] meet
+- [x] meet                  PV: live up to (期待など 沿う,応える) / I hope I can live up to your expectations.
 - [ ] meeting
 - [ ] melancholy
 - [ ] mellow
@@ -7345,7 +7345,7 @@
 - [ ] onward
 - [ ] ooze
 - [ ] opaque
-- [ ] open
+- [x] open                  open oneself up to (心を開く)
 - [ ] opener
 - [ ] opening
 - [ ] openly
@@ -8342,7 +8342,7 @@
 - [ ] prominence
 - [ ] prominent
 - [ ] promiscuous
-- [ ] promise
+- [x] promise               make good on (遂行,履行,守る) / make good on one's campaign promise / make good on one's goal / make good on one's pledge
 - [ ] promising
 - [ ] promontory
 - [ ] promote
@@ -9691,7 +9691,7 @@
 - [ ] sickle
 - [ ] sickly
 - [ ] sickness
-- [ ] side
+- [x] side                  on the ~ side (～気味で) / My boss is a bit on the stubborn side.
 - [ ] sideboard
 - [ ] sideline
 - [ ] sidewalk
@@ -9954,7 +9954,7 @@
 - [ ] soloist
 - [ ] solstice
 - [ ] solution
-- [ ] solve
+- [x] solve                 PV: work out (うまくいく)
 - [ ] solvent
 - [ ] somber
 - [ ] some
@@ -10443,7 +10443,7 @@
 - [ ] suggestive
 - [ ] suicidal
 - [ ] suicide
-- [ ] suit
+- [x] suit                  PV: work for (都合がよい) / That doesn't work for my wife.
 - [ ] suitable
 - [ ] suitcase
 - [ ] suite
@@ -11892,7 +11892,7 @@
 - [ ] woolen
 - [ ] word
 - [ ] wording
-- [ ] work
+- [x] work                  PV: work for (で勤めている) / work overtime (残業する)
 - [ ] workable
 - [ ] workaholic
 - [ ] worker
@@ -11920,7 +11920,7 @@
 - [ ] would
 - [ ] wound
 - [ ] wrangle
-- [ ] wrap
+- [x] wrap                  mop up (仕事などをし終える, 片づける) / It's our job to mop up the rest.
 - [ ] wrapper
 - [ ] wrath
 - [ ] wreath

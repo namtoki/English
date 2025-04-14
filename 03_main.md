@@ -31,6 +31,8 @@
   - `I was thinking`                            (考えてたんだけど) `I was thinking.` Let's take a short trip.
 - 許諾
   - `You name it.`                              (なんでも (君が決めて) いいよ)
+- 天気
+  - `it's clearing up`                          (晴れてきた)
 - 他
   - `it's in the way`                           (邪魔です)
   - `Special thanks go to O`                    (O に多大な感謝を)
