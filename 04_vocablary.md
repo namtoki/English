@@ -62,7 +62,7 @@
 - [x] acceleration
 - [x] accelerator
 - [x] accent
-- [x] accept
+- [x] accept                PV: take on (引き受ける) / Apparently, Nick wasn't willing to take on the task.
 - [x] acceptable
 - [x] acceptance
 - [x] access
@@ -1561,7 +1561,7 @@
 - [ ] care
 - [ ] career
 - [ ] carefree
-- [ ] careful
+- [x] careful               PV: watch out (気を付ける)
 - [ ] carefully
 - [ ] careless
 - [ ] carelessly
@@ -2861,7 +2861,7 @@
 - [ ] demographic
 - [ ] demographics
 - [ ] demography
-- [ ] demolish
+- [x] demolish              PV: take down (解体する) / The woman is taking down a canopy.
 - [ ] demolition
 - [ ] demon
 - [ ] demonstrate
@@ -3643,7 +3643,7 @@
 - [ ] encouraging
 - [ ] encroach
 - [ ] encyclopedia
-- [ ] end
+- [x] end                   usually end up V-ing / I usually end up getting fast food.
 - [ ] endanger
 - [ ] endangered
 - [ ] endear
@@ -3700,7 +3700,7 @@
 - [ ] ensure
 - [ ] entail
 - [ ] entangle
-- [ ] enter
+- [x] enter                 PV: turn onto (道に入る) / Which street do I turn onto?
 - [ ] enterprise
 - [ ] entertain
 - [ ] entertainer
@@ -5746,7 +5746,7 @@
 - [ ] insulation
 - [ ] insult
 - [ ] insulting
-- [ ] insurance
+- [x] insurance             PV: take out an insurance policy (保険に入る) / Many companies are taking out insurance policies.
 - [ ] insure
 - [ ] insurer
 - [ ] insurgent
@@ -7282,7 +7282,7 @@
 - [ ] occupant
 - [ ] occupation
 - [ ] occupational
-- [ ] occupy
+- [x] occupy                PV: take up (場所を取る) / Fold them like this. They take up less space.
 - [ ] occur
 - [ ] occurrence
 - [ ] ocean
@@ -8407,7 +8407,7 @@
 - [ ] protrude
 - [ ] proud
 - [ ] proudly
-- [ ] prove
+- [x] prove                 PV: turn out (という結果となる, と判明する)
 - [ ] proven
 - [ ] proverb
 - [ ] proverbial
@@ -8869,7 +8869,7 @@
 - [ ] reluctance
 - [ ] reluctant
 - [ ] reluctantly
-- [ ] rely
+- [x] rely                  PV: turn to
 - [ ] remain
 - [ ] remainder
 - [ ] remark
@@ -8993,7 +8993,7 @@
 - [ ] resistant
 - [ ] resolute
 - [ ] resolution
-- [ ] resolve
+- [x] resolve               PV: straighten out (問題・誤解を解決する)
 - [ ] resonance
 - [ ] resonant
 - [ ] resonate
@@ -10843,7 +10843,7 @@
 - [ ] thimble
 - [ ] thin
 - [ ] thing
-- [ ] think
+- [x] think                 think much of (評価する) / think nothing of (なんとも思わない)
 - [ ] thinker
 - [ ] thinly
 - [ ] third
@@ -10907,7 +10907,7 @@
 - [ ] tickle
 - [ ] tidal
 - [ ] tide
-- [ ] tidy
+- [x] tidy                  PV: straighten up (片付ける)
 - [ ] tie
 - [ ] tier
 - [ ] tiger

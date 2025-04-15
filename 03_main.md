@@ -259,6 +259,7 @@
   - `S V. That I V`                             (S V これには V だね) Yes, we need to spend less money.`That I` agree with.
   - 👉 `The same is the case with O`            (同じことが O にも言える) `The same is the case with` "hear" and "about".
   - `I don't know the first thing about O`      (O ついてちっともわからない) I don't know`the first thing about` writing movies.
+  - `I would've thought that S V`               (S V と思ったけど 驚き、指摘) `I would've thought that` he'd hate dancing at a club.
 - 好み
   - `I don't care for O`                        (特に好きではない) `I don't care for` spicy food.
   - `I have trouble V-ing`                      (V するのは大変だ) `I have trouble` getting to sleep. / `I have trouble` making friends.
