@@ -339,6 +339,3 @@ something to the effect that のようなこと
 - settle for:                                 妥協する / But for now, we'll have to `settle for` this.
 - shoot footage of:                           の場面の撮影をする
 - single out:                                 選出する / Ms. Kadokawa was `singled out` for praise in the company's monthly newsletter.
-- slipped my mind:                            を完全に忘れてた / Your birthday party completely `slipped my mind`.
-- speak at length about:                      長々と詳細に話す / I `spoke to them at length about` the possibility of extending the deadline.
-- step down as:                               を辞任する / Ms. Takimoto `stepped down as` CEO to pursue her dream of becoming a professional accordionist.

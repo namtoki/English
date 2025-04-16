@@ -300,6 +300,8 @@
 > [So like], what's the difference here?
 > [Or like], why is this such a `stretch`?
 
+10:50
+
 ## Uma
 
 > Well, yeah, I mean,

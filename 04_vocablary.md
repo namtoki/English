@@ -37,7 +37,7 @@
 - [ ] abrasive
 - [ ] abreast
 - [x] abroad
-- [ ] abrupt
+- [x] abrupt
 - [x] absence
 - [x] absent
 - [x] absolute
@@ -49,7 +49,7 @@
 - [x] abstract
 - [x] abstraction
 - [x] absurd
-- [ ] absurdity
+- [x] absurdity
 - [x] abundance
 - [x] abundant
 - [x] abuse
@@ -88,29 +88,29 @@
 - [x] accordance
 - [x] according
 - [x] accordingly
-- [ ] account
-- [ ] accountability
-- [ ] accountable
-- [ ] accountant
-- [ ] accounting
+- [x] account
+- [x] accountability
+- [x] accountable
+- [x] accountant
+- [x] accounting
 - [ ] accrue
-- [ ] accumulate
-- [ ] accumulation
-- [ ] accuracy
-- [ ] accurate
-- [ ] accurately
-- [ ] accusation
-- [ ] accuse
-- [ ] accused
-- [ ] accustom
-- [ ] accustomed
-- [ ] ace
-- [ ] ache
-- [ ] achieve
-- [ ] achievement
-- [ ] acid
-- [ ] acknowledge
-- [ ] acknowledgment
+- [x] accumulate
+- [x] accumulation
+- [x] accuracy
+- [x] accurate
+- [x] accurately
+- [x] accusation
+- [x] accuse
+- [x] accused
+- [x] accustom
+- [x] accustomed
+- [x] ace
+- [x] ache
+- [x] achieve
+- [x] achievement
+- [x] acid
+- [x] acknowledge
+- [x] acknowledgment
 - [ ] acorn
 - [ ] acoustic
 - [ ] acquaint
@@ -4393,7 +4393,7 @@
 - [ ] forfeit
 - [ ] forge
 - [ ] forgery
-- [ ] forget
+- [x] forget                slipped my mind (を完全に忘れてた)
 - [ ] forgetful
 - [ ] forgive
 - [ ] forgiveness
@@ -8984,7 +8984,7 @@
 - [ ] residential
 - [ ] residual
 - [ ] residue
-- [ ] resign
+- [x] resign                PV: step down as (を辞任する) / Ms. Takimoto stepped down as CEO
 - [ ] resignation
 - [ ] resilient
 - [ ] resin
@@ -10023,7 +10023,7 @@
 - [ ] spate
 - [ ] spatial
 - [ ] spawn
-- [ ] speak
+- [x] speak                 speak at length about (長々と詳細に話す)
 - [ ] speaker
 - [ ] speaking
 - [ ] spear

@@ -36,6 +36,8 @@
 - 他
   - `it's in the way`                           (邪魔です)
   - `Special thanks go to O`                    (O に多大な感謝を)
+- カジュアル
+  - `It's a thing now`                          (今じゃ普通にあること)
 - イディオム
   - `Just give it time`                         (時間が解決してくれる) Dating is a nightmare. `Just give it time.`
   - `mum's the word`                            (他言無用 今のことは黙っていてね)
