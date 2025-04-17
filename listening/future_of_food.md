@@ -300,8 +300,6 @@
 > [So like], what's the difference here?
 > [Or like], why is this such a `stretch`?
 
-10:50
-
 ## Uma
 
 > Well, yeah, I mean,
@@ -315,22 +313,32 @@
 
 👉 with O で付帯状況。ここでは例示に近くなる
 > I think the fear of the unknown is actually higher than all the risks we are taking right now
->   with the amount of animals we are `raising` in intense, confined places
->     that can increase the risk of pandemics or `zoonotics` or things just like food poisoning.
->
-> Or draining ecosystems to feed the crops to the animals
-> Or even simply just like, what about animal welfare?
-> Things of that nature.
+>   with
+>     the amount of animals we are `raising` in intense, confined places
+>       that can increase the risk of pandemics or `zoonotics` or things just like food poisoning.
+>     Or draining ecosystems to feed the crops to the animals
+>     Or even simply just like, what about animal welfare?
+>     Things of that nature.
 
+👉 2 つ目の that は名詞節を導く接続詞
 > [So] that's the part that has been really interesting for us to learn
->   that the fear of the unknown is more than the fear of what we are actually living with every second in our lives.
->
+>   that the fear of the unknown is more than the fear of what we are actually living `with every second` in our lives.
+
 > [And] part of this is communicating better, `demystifying` it.
 > [And] I think demystification should be very simple.
-> Tasting the product, magical experience.
-> Touring the place where it's made in clean production facilities, where you can just go around and walk around and say, "Hey, here's animal cell growing."
 
----
+👉 名詞節の羅列
+> Tasting the product,
+> magical experience.
+> Touring the place where it's made in clean production facilities,
+>   where you can just go around and walk around and say, "Hey, here's animal cell growing."
+
+> [And then] the last thing is just meeting the people that are making it.
+> You know, they're just like people in your neighborhood working, farming, the poeple that are working behind it.
+> Like, there's Gen Z's and millennials and people of all generations that are part of our team.
+> Just talking to them, like, these are real people working on making real products and solutions.
+
+12:25
 
 ## Jonkung
 

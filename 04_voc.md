@@ -337,5 +337,3 @@ something to the effect that のようなこと
 - set forth:                                  規定する / Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
 - set out:                                    出発する / We `set out` on a hike. / `set out` one's ideas
 - settle for:                                 妥協する / But for now, we'll have to `settle for` this.
-- shoot footage of:                           の場面の撮影をする
-- single out:                                 選出する / Ms. Kadokawa was `singled out` for praise in the company's monthly newsletter.

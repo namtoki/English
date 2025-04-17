@@ -8726,7 +8726,7 @@
 - [ ] reconsider
 - [ ] reconstruct
 - [ ] reconstruction
-- [ ] record
+- [x] record                shoot footage of (の場面の撮影をする)
 - [ ] recorder
 - [ ] recording
 - [ ] recount
@@ -9474,7 +9474,7 @@
 - [ ] seize
 - [ ] seizure
 - [ ] seldom
-- [ ] select
+- [x] select                PV single out (選出する) / Ms. Kadokawa was singled out for praise in the company's monthly newsletter.
 - [ ] selection
 - [ ] selective
 - [ ] selector
