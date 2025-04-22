@@ -2721,7 +2721,7 @@
 - [ ] deadly
 - [ ] deaf
 - [ ] deafening
-- [ ] deal
+- [x] deal                  👉 PV: see to (引き受ける、処理する)
 - [ ] dealer
 - [ ] dealing
 - [ ] dean
@@ -5182,7 +5182,7 @@
 - [ ] holocaust
 - [ ] holy
 - [ ] homage
-- [ ] home
+- [x] home                      ETA (帰る時間) / I send her a message with my ETA. (Estimated Time of Arrival)
 - [ ] homecoming
 - [ ] homeland
 - [ ] homeless
@@ -5960,7 +5960,7 @@
 - [ ] jolly
 - [ ] jolt
 - [ ] jostle
-- [ ] jot
+- [x] jot                       PV: jot down (手早くメモする)
 - [ ] journal
 - [ ] journalism
 - [ ] journalist
@@ -7018,7 +7018,7 @@
 - [ ] narration
 - [ ] narrative
 - [ ] narrator
-- [ ] narrow
+- [x] narrow                PV: narrow down
 - [ ] narrowly
 - [ ] nasal
 - [ ] nasty

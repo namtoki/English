@@ -47,7 +47,6 @@ something to the effect that のようなこと
 
 ### CONCRETE
 
-- `ETA`                         帰る時間                    I send her a message with my ETA. (Estimated Time of Arrival)
 - `a course of action`          行動指針
 - `access road`                 連絡道路
 - `advanced degree`             修士号 博士号
@@ -233,7 +232,6 @@ something to the effect that のようなこと
   - [ ] `be tasked with V-ing`:                 する任務を負う / I`'m tasked with helping` people cope with the stressful situations.
   - [~] `doesn't have as many A as B`:          B ほど A を持っていない / We `don't have as many poeple in our team as` we did last year.
   - [~] `doesn't have as much A as B`:          B ほど A を持っていない / He `doesn't have as much experience as` the other candidates.
-- account for:                                占める /  Wheat accounts for approximately two-thirds of agricultural production in the area.
 - add up:                                     納得がいく / It `doesn't add up` at all.
 - allow for:                                  考慮に入れる 見込む / The planning department budget does not `allow for` spending on non-essential items.
 - appreciate in value:                        価値が上がる
@@ -300,14 +298,12 @@ something to the effect that のようなこと
 - have nothing to do with:                    と関係がない
 - have something to do with:                  と何らかの関係がある /  Innovation `has something to do with` the ability to notice unusual phenomena.
 - heard back from:                            Have you `heard back from` the company?
-- heard | told:                               連絡がある I `heard` from Evan the other day. | 聞いた I `was told` about it yesterday.
 - help O 原形動詞:                            The brochure `helped me find` the information / Just `help me find` them. / He `helps me study` English.
 - hope for:                                   当てにする / We have been `hoping for` a pay raise.
 - hope for:                                   望む / We are `hoping for` some rain.
 - inform A `of` B:
 - inform A that 節/疑問詞節:
 - invite sb over sth:                         sb を sth に招待する / I `invited` some friends and family `over` for lunch.
-- jot down:                                   手早くメモする / It was difficult for me to `jot down` the words he said.
 - know all too well:                          嫌と言うほどわかっている / We `know all too well` how fast the weather can change here; last year our wedding got rained out.
 - know one's way around:                      の地理に明るい
 - leave A up to B:                            A を B に任せる / I'll `leave it up to you`.
@@ -323,12 +319,8 @@ something to the effect that のようなこと
 - make effort | work hard:                    努力しておりますが、実現できていません | 努力しています
 - move forward with:                          (計画など)を進める / Once the contract is signed, we can `move forward with` the process
 - move forward/up:                            前倒しする / Let’s `move` the Friday meeting `forward` to Thursday. / Let’s `move` the deadline `up` by three days.
-- narrow down:                                絞り込む / This question is, how long will it take to `narrow down` the list.
-- notice | realize:                           視覚的に認識する | 思考により (重要性などを) 認識する
 - present A `with` B:                           A に B を提示する
 - preside over:                               で司会を務める
 - push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
 - put O on hold:                              保留する / We are going to `put this project on hold`. / Can you `put it on hold`?
 - put off V-ing:                              延期する / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
-- result from:                                から生じる / Tsunamis generally `result from` earthquakes.
-- see to:                                     きちんと確認する / I'll `see to` it.
