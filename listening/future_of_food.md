@@ -338,8 +338,21 @@
 > Like, there's Gen Z's and millennials and people of all generations that are part of our team.
 > Just talking to them, like, these are real people working on making real products and solutions.
 
-12:25
-
 ## Jonkung
 
+> I feel like if you demystified the traditional way of processing meat,
+>   they would all come `flocking` to this as well.
+
+> I think so much of poeple's acceptance of traditional meat is like rooted in what they don't know about the process of like,
+>   not just the cost of cruelty to animals or the environmental costs, but like the human cost of it as well.
+
+> Like, those processing facilities are extremely harsh on like the body.
+> [And] I guess the wages are probably not very good as well.
+
+~
+
 > So when it comes, like, third-culture cooking or being a person of third culture is, actually you have the exact lived experience, is having growing up with a predominant culture in your household, but your household just happens to be in a completely different culture altogether.
+
+~
+
+15:00

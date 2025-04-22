@@ -2120,7 +2120,7 @@
 - [ ] compress
 - [ ] compression
 - [ ] comprise
-- [ ] compromise
+- [ ] compromise            PV: settle for (妥協する) / But for now, we'll have to settle for this.
 - [ ] comptroller
 - [ ] compulsion
 - [ ] compulsive
@@ -2884,7 +2884,7 @@
 - [ ] denunciation
 - [ ] deny
 - [ ] deodorant
-- [ ] depart
+- [x] depart                PV: set out (出発する)
 - [ ] department
 - [ ] departure
 - [ ] depend
@@ -3949,7 +3949,7 @@
 - [ ] expertise
 - [ ] expiration
 - [ ] expire
-- [ ] explain
+- [x] explain               PV: set out/forth (明確に述べる) / She set out her plan in simple terms.
 - [ ] explanation
 - [ ] explanatory
 - [ ] explicit
@@ -8324,7 +8324,7 @@
 - [ ] program
 - [ ] programmer
 - [ ] programming
-- [ ] progress
+- [x] progress              come a long way (大きな進歩を遂げる)
 - [ ] progression
 - [ ] progressive
 - [ ] prohibit
@@ -8843,7 +8843,7 @@
 - [ ] relative
 - [ ] relatively
 - [ ] relativity
-- [ ] relax
+- [x] relax                 PV: settle down (落ち着いて腰をすえる)
 - [ ] relaxation
 - [ ] relaxed
 - [ ] relaxing
@@ -9479,7 +9479,7 @@
 - [ ] selective
 - [ ] selector
 - [ ] self
-- [ ] selfish
+- [x] selfish               self-centered
 - [ ] sell
 - [ ] seller
 - [ ] semantic

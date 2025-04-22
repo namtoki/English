@@ -294,7 +294,6 @@ something to the effect that のようなこと
 - have a long way:                            まだ先は長い / I was, but I still `have a long way` to go.
 - have a lot in common:                       共通点が多い / As a rule, twins `have a lot in common`.
 - have a problem with:                        困っている / 苦手だ / `I have a problem with` his table manners.
-- have come a long way:                       すごい進んだ / Yeah. We'`ve really come a long way.`
 - have in mind:                               計画している / What did you `have in mind` for the annual banquet?
 - have little to do with:                     とほとんど関係がない
 - have much to do with:                       と大いに関係がある
@@ -333,7 +332,3 @@ something to the effect that のようなこと
 - put off V-ing:                              延期する / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
 - result from:                                から生じる / Tsunamis generally `result from` earthquakes.
 - see to:                                     きちんと確認する / I'll `see to` it.
-- set foot on:                                足を踏み入れる
-- set forth:                                  規定する / Articles 9 and 10 will survive the termination of this Agreement for the period of time `set forth` therein.
-- set out:                                    出発する / We `set out` on a hike. / `set out` one's ideas
-- settle for:                                 妥協する / But for now, we'll have to `settle for` this.

@@ -12,6 +12,7 @@
 - `I hate to admit it, but`                     (認めたくないけど) `I hate to admit it, but` I might need your help.
 - `You know as well as I do that S V`           (ご存じかと思いますが S V) `You know as well as I do that` this is very important.
 - 👉 `That's a fair point, but`                 (それはもっともですが、)
+- 👉 `That may be true, but`                    (それはもっともですが、)
 - `You (may) have a point, but`                 (一理あるね) `You may have a point there`, but I still believe the plan is feasible
 - 👉 `I see your point, but`                    (仰ることは分かります) `I see your point, but` I have a slightly different view.
 - 👉 `That's not the way I see it`              (違う見方をしています)
