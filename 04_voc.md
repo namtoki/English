@@ -2,12 +2,8 @@
 
 ## NOUN
 
-  - `among the 最上級 複数形`                   (one of ...)
-
 ### CONCRETE
 
-- `a course of action`          行動指針
-- `access road`                 連絡道路
 - `advanced degree`             修士号 博士号
 - `approach(es) to`             への取り組み
 - `assessment | evaluation`     改善目的の評価 | 判断目的の評価

@@ -422,7 +422,7 @@
 - [ ] ammonia
 - [ ] ammunition
 - [ ] amnesty
-- [ ] among
+- [x] among                 among the 最上級 複数形 (one of ...)
 - [ ] amount
 - [ ] amphibian
 - [ ] amphitheater
@@ -2475,7 +2475,7 @@
 - [ ] courage
 - [ ] courageous
 - [ ] courier
-- [ ] course
+- [x] course                a course of action (行動指針)
 - [ ] court
 - [ ] courteous
 - [ ] courtesy
@@ -9145,7 +9145,7 @@
 - [ ] riverside
 - [ ] rivet
 - [ ] roach
-- [ ] road
+- [x] road                  access road (連絡道路)
 - [ ] roadside
 - [ ] roam
 - [ ] roar

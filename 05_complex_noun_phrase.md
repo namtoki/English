@@ -1,13 +1,13 @@
 # COMPLEX NOUN PHRASE
 
 - 〇〇な O (O は、something でも thing でも具体的な名詞でも良い)
-  - 👉 `O to the effect that S V`               (S V というような趣旨/意味の O) / He said `something to the effect that` he wasn’t interested.
-  - 👉 `O where S V`                            (S V のような O) / This app has `a feature where` you can edit photos easily.
-  - 👉 `O that S V`                             (S が V する O) / `The thing that you use` to see the stars.
-    - `the kind of thing that S V`              (S が V するような類のもの) / This is `the kind of thing that makes me really happy`.
-    - `the best S can V`                        (S が V できる最大限のこと) / That's `the best we can say` at this point in time.
+  - 👉 `O like S V`                             ([カジュアル] S V みたいな O) / He said `something like` the project might be delayed.
+  - 👉 `O where S V`                            ([カジュアル] S V のような O) / This app has `a feature where` you can edit photos easily.
+  - 👉 `O that S V`                             ([汎用] S が V する O) / `The thing that you use` to see the stars.
+    - 👉 `the kind of thing that S V`           ([汎用] S が V するような類のもの) / This is `the kind of thing that makes me really happy`.
+    - `the best S can V`                        ([汎用] S が V できる最大限のこと) / That's `the best we can say` at this point in time.
+  - `O to the effect that S V`                  ([フォーマル] S V というような趣旨/意味の O) / He said `something to the effect that` he wasn’t interested.
   - 👉 `O that S think V`                       (S が V と思う O) / `A movie that I think is a classic example of a mafia film` is The Godfather.
-  - 👉 `O1 like O2`                             (O2 みたいな O1) / `Things like` party hats, paper plates and napkins. / This is `something a lot of people don't consider`.
     - `the kind of thing like O`                (O みたいな類のもの)
   - `S V-ing`                                   (S が V すること) / `My dog barking` like that is a bit weird.
   - `equivalent of O`                           (O 同等のもの) / They are the functional `equivalent of` gods.
