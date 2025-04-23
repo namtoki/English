@@ -2,48 +2,7 @@
 
 ## NOUN
 
-### ABSTRACT
-
-something to the effect that のようなこと
-- なもの (FAVORITE)
-  - ★ `S V-ing`                                 (S が V すること) `My dog barking` like that is a bit weird.
-  - ★ `a feature where S V`                     (S V のような機能) This app has `a feature where` you can edit photos easily.
-  - ★ `O that S think V`                        (S が V と思う O) `A movie that I think is a classic example of a mafia film` is The Godfather.
-  - `the best S can V`                          (S が V できる最大限のこと) That's `the best we can say` at this point in time.
-  - `equivalent of O`                           (O 同等のもの) They are the functional `equivalent of` gods.
-- なもの (WHAT)
-  - `what I meant`                              (言いたかったこと) `What I meant` was, you should do it carefully.
-- なもの (THING 特定のもの)
-  - ★ `(some)thing(s) that (S) V`               (S が V するもの) `The thing that you use` to see the stars.
-  - ★ `(some)thing(s) like O`                   (O みたいなもの) `Things like` party hats, paper plates and napkins. / This is `something a lot of people don't consider`.
-- なもの (THING 類のもの)
-  - ★ `O kind of thing`                         (O みたいなもの) This is a flip phone `kind of thing` but a bit different.
-  - ★ `the kind of thing that (S) V`            (S が V するような類のもの) This is `the kind of thing that makes me really happy`.
-  - `the kind of thing like O`                  (O みたいな類のもの)
-
-- `O of a kind/sort`            O ある種の
-- `some kind of O`              O ある種の                  He was born with `some kind of` special talent. / `some kind of` sport
-- `some kinds of O`             O あらゆる                  amplify the effects of `some kinds of` pollution
-- `O and things like that`      O とか (同じカテゴリー)     I think he's learning Spanish or `something like that`, if that makes sense.
-- `O and stuff like that`       O とか (同じカテゴリー)     We've got to do editing `and stuff.`
-- `O or whatever`               O とかそんな感じ            I'm just going to read a book `or whatever.`
-- `O and so on`                 O とか (同じカテゴリー)     I'm tired of doing the dished, doing the laundry, `and so on!`
-- `O or so`                     O とか (数字)               It's 20 dollars `or so`.
-- `like O`                      O だいたい (数字)           There were only `like` thirty people there.
-- `everything about O`          すべての O                  He knows `everything about` movies.
-- `all kinds of O`              すべての O                  I've been eating `all kinds of` things.
-- `all A but B`                 B を除いた全ての A          `All of the members of the board of directors but one` were satisfied with ...
-- `a bunch of O`                たくさんの O                `A bunch of` other companies are imitating our excellent methods.
-- `tons of O`                   たくさんの O                I have `tons of` homework tonight.
-- `a number of O`               たくさんの O                There are `a number of` factors discouraging us from investing in stocks.
-- `a wealth of O`               豊富な O
-- `among the 最上級 複数形`     = one of ...
-- `not so much A as B`          A というより B              It took me a moment to process that I was `not so much angry as sad` that she cheated.
-- `some of the things`          いくつかのもの              What are `some of the things` that you can say when you don't understand something?
-- `something else`              格別なもの                  That dinner was `something else`!
-- `such things`                 そのようなもの              C++ has plenty of`such things`!
-- `that O?`                     そんなに O?                 Wow! `That` good?
-- `the only thing`              唯一良くないもの            It was great!`The only thing` was the food.
+  - `among the 最上級 複数形`                   (one of ...)
 
 ### CONCRETE
 

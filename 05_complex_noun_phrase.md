@@ -1,0 +1,44 @@
+# COMPLEX NOUN PHRASE
+
+- 〇〇な O (O は、something でも thing でも具体的な名詞でも良い)
+  - 👉 `O to the effect that S V`               (S V というような趣旨/意味の O) / He said `something to the effect that` he wasn’t interested.
+  - 👉 `O where S V`                            (S V のような O) / This app has `a feature where` you can edit photos easily.
+  - 👉 `O that S V`                             (S が V する O) / `The thing that you use` to see the stars.
+    - `the kind of thing that S V`              (S が V するような類のもの) / This is `the kind of thing that makes me really happy`.
+    - `the best S can V`                        (S が V できる最大限のこと) / That's `the best we can say` at this point in time.
+  - 👉 `O that S think V`                       (S が V と思う O) / `A movie that I think is a classic example of a mafia film` is The Godfather.
+  - 👉 `O1 like O2`                             (O2 みたいな O1) / `Things like` party hats, paper plates and napkins. / This is `something a lot of people don't consider`.
+    - `the kind of thing like O`                (O みたいな類のもの)
+  - `S V-ing`                                   (S が V すること) / `My dog barking` like that is a bit weird.
+  - `equivalent of O`                           (O 同等のもの) / They are the functional `equivalent of` gods.
+  - `what I meant`                              (言いたかったこと) / `What I meant` was, you should do it carefully.
+  - 👉 `O kind of thing`                        (O みたいなもの) This is a flip phone `kind of thing` but a bit different.
+  - `something else`                            (格別なもの) / That dinner was `something else`!
+  - `such things`                               (そのようなもの) / C++ has plenty of `such things`!
+  - `the only thing`                            (唯一良くないもの) / It was great!`The only thing` was the food.
+- ある種の O
+  - 👉 `some kind of O`                         (カジュアル | 情報不確定 | O ある種の) / He was born with `some kind of` special talent. / `some kind of` sport
+  - `O of a kind`                               (フォーマル | 限定的 | 一応の | ある種の O) / He’s a genius `of a kind`.
+  - `O of a sort`                               (カジュアル | O ぽい ちょい違うけど) / He’s a leader `of a sort`. / I had dinner, `of a sort`.
+- とかとか
+  - 👉 `O and things like that`                 (フォーマル | O とか) / I think he's learning Spanish or `something like that`, if that makes sense.
+  - 👉 `O and stuff like that`                  (カジュアル | O とか) / We've got to do editing `and stuff.`
+  - `O and so on`                               (フォーマル | O とか) / I'm tired of doing the dished, doing the laundry, `and so on!`
+  - `O or so`                                   (数字 | O とか) / It's 20 dollars `or so`.
+  - `like O`                                    (数字 | だいたい O) / There were only `like` thirty people there.
+  - `O or whatever`                             (O とかそんな感じ) / I'm just going to read a book `or whatever.`
+- たくさん
+  - `some of O`                                 (汎用 | いくつかのもの) / What are `some of the things` that you can say when you don't understand something?
+  - `some kinds of O`                           (カジュアル | いくつかの O) / amplify the effects of `some kinds of` pollution.
+  - `all  kinds of O`                           (カジュアル | あらゆる O) / I've been eating `all kinds of` things.
+  - `all  sorts of O`                           (カジュアル | あらゆる O)
+  - `everything about O`                        (すべての O) / He knows `everything about` movies.
+  - 👉 `all A except B`                         (カジュアル | B を除いた全ての A) / `All students except John` passed the test.
+  - 👉 `all A aside from B`                     (カジュアル | B を除いた全ての A) / I like `all fruits aside from` bananas.
+  - `all A but B`                               (文語 | B を除いた全ての A) / `All of the members of the board of directors but one` were satisfied with ...
+  - 👉 `a bunch of O`                           (カジュアル | たくさんの O) / `A bunch of` other companies are imitating our excellent methods.
+  - 👉 `tons of O`                              (カジュアル | 超たくさんの O) / I have `tons of` homework tonight.
+  - `a number of O`                             (フォーマル | たくさんの O) / There are `a number of` factors discouraging us from investing in stocks.
+  - `a wealth of O`                             (豊富な O)
+- A ではなく B
+  - `not so much A as B`                        (A というより B) / It took me a moment to process that I was `not so much angry as sad` that she cheated.
