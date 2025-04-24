@@ -112,42 +112,42 @@
 - [x] acknowledge
 - [x] acknowledgment
 - [ ] acorn
-- [ ] acoustic
-- [ ] acquaint
-- [ ] acquaintance
+- [x] acoustic
+- [x] acquaint
+- [x] acquaintance
 - [ ] acquiescence
-- [ ] acquire
-- [ ] acquisition
+- [x] acquire
+- [x] acquisition
 - [ ] acquit
 - [ ] acquittal
-- [ ] acre
+- [x] acre
 - [ ] acreage
 - [ ] acrid
 - [ ] acronym
-- [ ] across
+- [x] across
 - [x] act
-- [ ] acting
-- [ ] action
-- [ ] activate
-- [ ] active
-- [ ] actively
-- [ ] activist
-- [ ] activity
-- [ ] actor
-- [ ] actress
-- [ ] actual
-- [ ] actuality
-- [ ] actually
+- [x] acting
+- [x] action
+- [x] activate
+- [x] active
+- [x] actively
+- [x] activist
+- [x] activity
+- [x] actor
+- [x] actress
+- [x] actual
+- [x] actuality
+- [x] actually
 - [ ] acumen
-- [ ] acute
-- [ ] acutely
+- [x] acute
+- [x] acutely
 - [ ] adage
 - [ ] adamant
-- [ ] adapt
-- [ ] adaptable
-- [ ] adaptation
+- [x] adapt
+- [x] adaptable
+- [x] adaptation            film adaption (映画化)
 - [ ] adapter
-- [ ] add
+- [x] add
 - [ ] addict
 - [ ] addicted
 - [ ] addiction
@@ -156,7 +156,7 @@
 - [ ] additional
 - [ ] additive
 - [x] address               make an address (演説する)
-- [ ] adept
+- [x] adept
 - [ ] adequacy
 - [ ] adequate
 - [ ] adhere
@@ -4035,7 +4035,7 @@
 - [ ] faculty
 - [ ] fad
 - [ ] fade
-- [ ] fahrenheit
+- [x] fahrenheit
 - [ ] fail
 - [ ] failure
 - [ ] faint
@@ -4905,7 +4905,7 @@
 - [ ] gush
 - [ ] gust
 - [ ] gusto
-- [ ] gut
+- [x] gut               gut feeling (直観)
 - [ ] gutter
 - [ ] guy
 - [ ] gym
@@ -5013,37 +5013,37 @@
 - [ ] haul
 - [ ] haunt
 - [ ] haunted
-- [ ] have
+- [x] have
 - [ ] haven
-- [ ] havoc
-- [ ] hawk
-- [ ] hay
-- [ ] hazard
-- [ ] hazardous
+- [x] havoc
+- [x] hawk
+- [x] hay                   hay fever (花粉症)
+- [x] hazard
+- [x] hazardous
 - [ ] haze
 - [ ] hazelnut
 - [ ] hazy
-- [ ] he
-- [ ] head
-- [ ] headache
+- [x] he
+- [x] head
+- [x] headache
 - [ ] headdress
 - [ ] heading
 - [ ] headlight
-- [ ] headline
+- [x] headline
 - [ ] headlong
 - [ ] headmaster
-- [ ] headphone
-- [ ] headquarters
-- [ ] headteacher
+- [x] headphone
+- [x] headquarters
+- [x] headteacher
 - [ ] heady
-- [ ] heal
-- [ ] healing
-- [ ] health
-- [ ] healthcare
-- [ ] healthy
-- [ ] heap
-- [ ] hear
-- [ ] hearing
+- [x] heal
+- [x] healing
+- [x] health
+- [x] healthcare
+- [x] healthy
+- [x] heap
+- [x] hear
+- [x] hearing
 - [ ] hearsay
 - [ ] heart
 - [ ] heartache
@@ -5729,31 +5729,31 @@
 - [ ] instead
 - [ ] instigate
 - [ ] instill
-- [ ] instinct
-- [ ] instinctive
-- [ ] institute
+- [x] instinct
+- [x] instinctive
+- [x] institute
 - [ ] institution
 - [ ] institutional
-- [ ] instruct
-- [ ] instruction
+- [x] instruct
+- [x] instruction
 - [ ] instructive
 - [ ] instructor
 - [ ] instrument
 - [ ] instrumental
-- [ ] insufficient
+- [x] insufficient
 - [ ] insular
-- [ ] insulate
-- [ ] insulation
-- [ ] insult
-- [ ] insulting
-- [x] insurance             PV: take out an insurance policy (保険に入る) / Many companies are taking out insurance policies.
-- [ ] insure
+- [x] insulate
+- [x] insulation
+- [x] insult
+- [x] insulting
+- [x] insurance             PV: take out an insurance policy (保険に入る) / health insurance (健康保険)
+- [x] insure
 - [ ] insurer
 - [ ] insurgent
 - [ ] insurmountable
 - [ ] insurrection
 - [ ] intact
-- [ ] intake
+- [x] intake
 - [ ] intangible
 - [ ] integral
 - [x] integrate             PV: build in (取り付ける/組み込む)

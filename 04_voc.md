@@ -4,13 +4,8 @@
 
 ### CONCRETE
 
-- `film adaption`               映画化
-- `gut feeling`                 直観
-- `hay fever`                   花粉症
-- `health insurance`            健康保険
 - `hope for`                    うまく行くことに対する希望  many people have `hope for` genuine changes in it
 - `hope of`                     する希望 / する見込み       I have no `hope of` getting financial support for it
-- `impact on`                   に対する影響
 - `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
 - `nothing out of the ordinary` 普通
 - `one of those days`           最悪の日
