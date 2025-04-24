@@ -4,18 +4,6 @@
 
 ### CONCRETE
 
-- `advanced degree`             修士号 博士号
-- `approach(es) to`             への取り組み
-- `assessment | evaluation`     改善目的の評価 | 判断目的の評価
-- `baggage claim`               荷物受け取り所
-- `benefits package`            福利厚生
-- `bloodshot eyes`              充血した目                  I've got `bloodshot eyes`.
-- `boarding pass`               搭乗券
-- `business hours`              執務時間
-- `classified advertisement`    案内広告
-- `commitment | commitments`    献身 | 約束
-- `commuter train`              通勤列車
-- `consensus of opinion`        意見の一致
 - `credit voucher`              無料引換券
 - `custom | customs`            習慣 | 税関
 - `deep tissue massage`         整体

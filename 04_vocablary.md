@@ -198,7 +198,7 @@
 - [ ] adult
 - [ ] adultery
 - [ ] advance
-- [ ] advanced
+- [x] advanced              advanced degree (修士号 博士号)
 - [ ] advancement
 - [ ] advantage
 - [ ] advantageous
@@ -701,7 +701,7 @@
 - [ ] assertion
 - [ ] assertive
 - [ ] assess
-- [ ] assessment
+- [ ] assessment            (改善目的の評価)
 - [ ] assessor
 - [ ] asset
 - [ ] assign
@@ -872,7 +872,7 @@
 - [ ] badminton
 - [ ] baffle
 - [ ] bag
-- [ ] baggage
+- [x] baggage               baggage claim (荷物受け取り所)
 - [ ] baggy
 - [ ] bail
 - [ ] bait
@@ -1044,7 +1044,7 @@
 - [ ] benefactor
 - [ ] beneficial
 - [ ] beneficiary
-- [ ] benefit
+- [x] benefit               benefits package (福利厚生)
 - [ ] benevolence
 - [ ] benevolent
 - [ ] benign
@@ -1181,7 +1181,7 @@
 - [ ] blush
 - [ ] board
 - [ ] boarder
-- [ ] boarding
+- [x] boarding              boarding pass (搭乗券)
 - [ ] boardroom
 - [ ] boast
 - [ ] boastful
@@ -1437,7 +1437,7 @@
 - [ ] bury
 - [ ] bus
 - [ ] bush
-- [ ] business
+- [x] business              business hours (執務時間)
 - [ ] businesslike
 - [ ] businessman
 - [ ] businessperson
@@ -1849,7 +1849,7 @@
 - [ ] classic
 - [ ] classical
 - [ ] classification
-- [ ] classified
+- [x] classified            classified ads (案内広告)
 - [ ] classify
 - [ ] classmate
 - [ ] classroom
@@ -2036,7 +2036,7 @@
 - [ ] commission
 - [ ] commissioner
 - [ ] commit
-- [ ] commitment
+- [x] commitment            commitment (献身) / commitments (約束)
 - [ ] committee
 - [ ] commodity
 - [ ] common
@@ -2056,7 +2056,7 @@
 - [ ] communist
 - [ ] community
 - [ ] commute
-- [ ] commuter
+- [x] commuter              commuter train (通勤列車)
 - [ ] compact
 - [ ] companion
 - [ ] company
@@ -2224,46 +2224,46 @@
 - [ ] conjecture
 - [ ] conjunction
 - [ ] conjure
-- [ ] connect
-- [ ] connected
-- [ ] connection
-- [ ] connector
+- [x] connect
+- [x] connected
+- [x] connection
+- [x] connector
 - [ ] connoisseur
 - [ ] connotation
-- [ ] conquer
-- [ ] conqueror
-- [ ] conquest
-- [ ] conscience
-- [ ] conscientious
-- [ ] conscious
-- [ ] consciousness
+- [x] conquer
+- [x] conqueror
+- [x] conquest
+- [x] conscience
+- [x] conscientious
+- [x] conscious
+- [x] consciousness
 - [ ] consecrate
 - [ ] consecutive
-- [ ] consensus
-- [ ] consent
-- [ ] consequence
-- [ ] consequent
-- [ ] consequently
-- [ ] conservation
-- [ ] conservationist
-- [ ] conservative
+- [x] consensus             consensus of opinion (意見の一致)
+- [x] consent
+- [x] consequence
+- [x] consequent
+- [x] consequently
+- [x] conservation
+- [x] conservationist
+- [x] conservative
 - [ ] conservatory
 - [ ] conserve
-- [ ] consider
-- [ ] considerable
-- [ ] considerably
+- [x] consider
+- [x] considerable
+- [x] considerably
 - [ ] considerate
 - [ ] consideration
 - [ ] considering
 - [ ] consign
 - [ ] consignment
-- [ ] consist
-- [ ] consistency
-- [ ] consistent
+- [x] consist
+- [x] consistency
+- [x] consistent
 - [ ] consolation
-- [ ] console
-- [ ] consolidate
-- [ ] consolidation
+- [x] console
+- [x] consolidate
+- [x] consolidation
 - [ ] consonant
 - [ ] consortium
 - [ ] conspicuous
@@ -3814,7 +3814,7 @@
 - [ ] evacuation
 - [ ] evade
 - [ ] evaluate
-- [ ] evaluation
+- [x] evaluation            (判断目的の評価)
 - [ ] evangelical
 - [ ] evangelist
 - [ ] evaporate
@@ -4005,7 +4005,7 @@
 - [ ] exuberant
 - [ ] exude
 - [ ] exult
-- [ ] eye
+- [x] eye                   bloodshot eyes (充血した目)
 - [ ] eyeball
 - [ ] eyebrow
 - [ ] eyelash
