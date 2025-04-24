@@ -4,13 +4,6 @@
 
 ### CONCRETE
 
-- `credit voucher`              無料引換券
-- `custom | customs`            習慣 | 税関
-- `deep tissue massage`         整体
-- `electricity expenditures`    消費電力
-- `employment reference`        雇用証明書
-- `enrollment quota`            入学定員数
-- `family of N`                 人家族                      I'm from a `family of four`.
 - `film adaption`               映画化
 - `gut feeling`                 直観
 - `hay fever`                   花粉症

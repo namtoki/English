@@ -2646,27 +2646,27 @@
 - [ ] cursory
 - [ ] curt
 - [ ] curtail
-- [ ] curtain
-- [ ] curve
-- [ ] curved
-- [ ] cushion
+- [x] curtain
+- [x] curve
+- [x] curved
+- [x] cushion
 - [ ] custard
 - [ ] custodian
 - [ ] custody
-- [ ] custom
+- [x] custom                custom (習慣) / customs (税関)
 - [ ] customary
-- [ ] customer
-- [ ] customize
-- [ ] cut
+- [x] customer
+- [x] customize
+- [x] cut
 - [ ] cutback
-- [ ] cute
-- [ ] cutlery
+- [x] cute
+- [x] cutlery
 - [ ] cutter
-- [ ] cycle
-- [ ] cyclical
-- [ ] cycling
-- [ ] cyclist
-- [ ] cylinder
+- [x] cycle
+- [x] cyclical
+- [x] cycling
+- [x] cyclist
+- [x] cylinder
 - [ ] cynic
 - [ ] cynical
 - [ ] cynicism
@@ -3614,35 +3614,35 @@
 - [ ] emotionally
 - [ ] empathy
 - [ ] emperor
-- [ ] emphasis
-- [ ] emphasize
+- [x] emphasis
+- [x] emphasize
 - [ ] emphatic
 - [ ] emphatically
-- [ ] empire
-- [ ] empirical
-- [ ] employ
-- [ ] employee
-- [ ] employer
-- [ ] employment
+- [x] empire
+- [x] empirical
+- [x] employ
+- [x] employee
+- [x] employer
+- [x] employment            employment reference (雇用証明書)
 - [ ] empower
 - [ ] empress
-- [ ] empty
-- [ ] emulate
-- [ ] enable
-- [ ] enact
-- [ ] enactment
+- [x] empty
+- [x] emulate
+- [x] enable
+- [x] enact
+- [x] enactment
 - [ ] encircle
 - [ ] enclave
 - [ ] enclose
 - [ ] enclosure
-- [ ] encompass
+- [x] encompass
 - [ ] encore
 - [x] encounter             PV: come accross (偶然出会う)
-- [ ] encourage
-- [ ] encouragement
-- [ ] encouraging
+- [x] encourage
+- [x] encouragement
+- [x] encouraging
 - [ ] encroach
-- [ ] encyclopedia
+- [x] encyclopedia
 - [x] end                   usually end up V-ing / I usually end up getting fast food.
 - [ ] endanger
 - [ ] endangered
@@ -3677,28 +3677,28 @@
 - [ ] enigma
 - [ ] enigmatic
 - [ ] enjoin
-- [ ] enjoy
-- [ ] enjoyable
-- [ ] enjoyment
-- [ ] enlarge
-- [ ] enlargement
+- [x] enjoy
+- [x] enjoyable
+- [x] enjoyment
+- [x] enlarge
+- [x] enlargement
 - [ ] enlighten
 - [ ] enlightenment
 - [ ] enlist
 - [ ] enmity
-- [ ] enormous
-- [ ] enormously
-- [ ] enough
+- [x] enormous
+- [x] enormously
+- [x] enough
 - [ ] enrage
-- [ ] enrich
-- [ ] enrichment
-- [ ] enroll
-- [ ] enrollment
+- [x] enrich
+- [x] enrichment
+- [x] enroll
+- [x] enrollment            enrollment quota (入学定員数)
 - [ ] ensemble
 - [ ] enshrine
-- [ ] ensue
+- [x] ensue
 - [ ] ensure
-- [ ] entail
+- [x] entail
 - [ ] entangle
 - [x] enter                 PV: turn onto (道に入る) / Which street do I turn onto?
 - [ ] enterprise
@@ -3937,18 +3937,18 @@
 - [ ] expedite
 - [ ] expedition
 - [ ] expel
-- [ ] expend
-- [ ] expenditure
-- [ ] expense
-- [ ] expensive
-- [ ] experience
-- [ ] experienced
-- [ ] experiment
-- [ ] experimental
-- [ ] expert
-- [ ] expertise
-- [ ] expiration
-- [ ] expire
+- [x] expend
+- [x] expenditure           electricity expenditures (消費電力)
+- [x] expense
+- [x] expensive
+- [x] experience
+- [x] experienced
+- [x] experiment
+- [x] experimental
+- [x] expert
+- [x] expertise
+- [x] expiration
+- [x] expire
 - [x] explain               PV: set out/forth (明確に述べる) / She set out her plan in simple terms.
 - [ ] explanation
 - [ ] explanatory
@@ -4055,23 +4055,23 @@
 - [ ] fallen
 - [ ] falsehood
 - [ ] falter
-- [ ] fame
-- [ ] familiar
-- [ ] familiarity
-- [ ] familiarize
-- [ ] family
+- [x] fame
+- [x] familiar
+- [x] familiarity
+- [x] familiarize
+- [x] family                family of N (人家族) / I'm from a family of four.
 - [ ] famine
-- [ ] famous
-- [ ] fan
-- [ ] fanatic
+- [x] famous
+- [x] fan
+- [x] fanatic
 - [ ] fanciful
-- [ ] fancy
-- [ ] fantastic
-- [ ] fantasy
-- [ ] far
-- [ ] faraway
+- [x] fancy
+- [x] fantastic
+- [x] fantasy
+- [x] far
+- [x] faraway
 - [ ] farce
-- [ ] fare
+- [x] fare
 - [ ] farewell
 - [ ] farm
 - [ ] farmer
@@ -10939,7 +10939,7 @@
 - [ ] tireless
 - [ ] tiresome
 - [ ] tiring
-- [ ] tissue
+- [x] tissue                deep tissue massage (整体)
 - [ ] tithe
 - [ ] title
 - [ ] to
@@ -11634,46 +11634,46 @@
 - [ ] volunteer
 - [ ] voluptuous
 - [ ] vomit                 PV: bring up
-- [ ] vote
-- [ ] voter
+- [x] vote
+- [x] voter
 - [ ] vouch
-- [ ] voucher
-- [ ] vow
+- [x] voucher               credit voucher (無料引換券)
+- [x] vow
 - [ ] vowel
-- [ ] voyage
+- [x] voyage
 - [ ] vulgar
 - [ ] vulgarity
 - [ ] vulnerable
 - [ ] vulture
-- [ ] wade
+- [x] wade
 - [ ] waft
 - [ ] wag
-- [ ] wage
+- [x] wage
 - [ ] wager
 - [ ] wagon
 - [ ] wail
-- [ ] waist
+- [x] waist
 - [ ] waistcoat
-- [ ] wait
-- [ ] waiter
-- [ ] waiting
-- [ ] waitress
+- [x] wait
+- [x] waiter
+- [x] waiting
+- [x] waitress
 - [ ] waive
 - [ ] waiver
-- [ ] wake
-- [ ] walk
-- [ ] walking
-- [ ] wall
-- [ ] wallet
-- [ ] wallpaper
-- [ ] walnut
-- [ ] waltz
+- [x] wake
+- [x] walk
+- [x] walking
+- [x] wall
+- [x] wallet
+- [x] wallpaper
+- [x] walnut
+- [x] waltz
 - [ ] wand
-- [ ] wander
-- [ ] wanderer
+- [x] wander
+- [x] wanderer
 - [ ] wane
-- [ ] want
-- [ ] wanting
+- [x] want
+- [x] wanting
 - [ ] wanton
 - [ ] war
 - [ ] warble
