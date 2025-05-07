@@ -5,7 +5,7 @@
 - もの
   - 👉 `stuff ~~`                               ([カジュアル] モノ, コト) / I hate `the stuff` that he always talks about.
   - 👉 `thing ~~`                               ([汎用] もの, こと) / I don’t like `things` like what he says when he’s angry.
-  - 👉 `something ~~`                              ([汎用] もの, こと) / I want to eat `something` sweet.
+  - 👉 `something ~~`                           ([汎用] もの, こと) / I want to eat `something` sweet.
   - 👉 `the kind of things ~~`                  ([フォーマル] 類のもの) / This is `the kind of thing` that makes me really happy.
   - `equivalent to what`                        ([汎用] O 同等のもの) / They are the functional `equivalent of` gods.
 - 〇〇な
