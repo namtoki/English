@@ -4166,7 +4166,7 @@
 - [ ] fiber
 - [ ] fickle
 - [ ] fiction
-- [ ] fictional
+- [ ] fictional             fictitious
 - [ ] fiddle
 - [ ] fidelity
 - [ ] fiduciary
@@ -7336,7 +7336,7 @@
 - [ ] ongoing
 - [ ] onion
 - [ ] online
-- [ ] onlooker
+- [ ] onlooker              bystander (事件,事故)
 - [ ] only
 - [ ] onset
 - [ ] onslaught
