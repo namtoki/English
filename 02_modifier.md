@@ -2,8 +2,6 @@
 
 ## Header
 
-- `You know how S V?`                           (じゃん？) `You know how` I've been looking for a new TV for a while?
-- `I told you O, right?`                        (O と言ったよね) `I told you` about my dad, `right?`
 - 👉 `in one's defence`                         (言い訳すると) `In my defense,` it was dark and he was a very pretty guy!”
 - 👉 `This might be just me, but`               (自分だけかもしれないけど)
 - `Don't get me wrong, but`                     (誤解しないでほしいんだけど)
@@ -12,12 +10,12 @@
 - `I hate to admit it, but`                     (認めたくないけど) `I hate to admit it, but` I might need your help.
 - `You know as well as I do that S V`           (ご存じかと思いますが S V) `You know as well as I do that` this is very important.
 - 👉 `That's a fair point, but`                 (それはもっともですが、)
-- 👉 `That may be true, but`                    (それはもっともですが、)
+- `That may be true, but`                       (それはもっともですが、)
 - `You (may) have a point, but`                 (一理あるね) `You may have a point there`, but I still believe the plan is feasible
 - 👉 `I see your point, but`                    (仰ることは分かります) `I see your point, but` I have a slightly different view.
 - 👉 `That's not the way I see it`              (違う見方をしています)
 - 👉 `Off the top of my head`                   (フォーマル/思いつくままに言うと) `Off the top of my head,` I think it's wrong.
-- 👉 `Without thinking too much`                (カジュアル/あまり考えずに言うと) `Without thinking too much`, I’d say we need more time.
+- `Without thinking too much`                   (カジュアル/あまり考えずに言うと) `Without thinking too much`, I’d say we need more time.
 - 👉 `just out of curiosity`                    (単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
 - `The fact is`                                 (実を言うと) `The fact is,` I don't have enough money.
 - `Now that`                                    (いまや) `Now that` things are better, we should talk about the problem.
@@ -32,23 +30,25 @@
 - `or not really?`                              (それとも違う？) Do you like this kind of music`, or not really?`
 - `is that right?`                              (合ってます？)
 
-## Auxiliary
+## Topic
 
-- Direction
-  - `as/like I was saying`                      (さっき言った通り) Sorry. `As I was saying,` the acting was amazing.
-  - `as/like you said`                          (あなたが言ったように)
-  - `as sb anticipated`                         (予測していた通り) `As we anticipated,` the unemployment rate has risen ....
-- Topic
-  - `speaking of which/O`                       (口語的) `Speaking of summer,` where did you go this year?
-  - `talking of O`                              (口語的) `Talking of` soccer, Did you watch the game yesterday?
-  - 👉 `as for O`                               (口語的/話題の切り替え) `As for` the cost per person / `As for me,` I agree with his opinion.
-  - 👉 `when it comes to O`                     (口語的) `When it comes to` the weather, there’s nothing I can do.
-  - `about O`                                   (カジュアル/文頭はNG) `About` the food ... it is bad.
-  - `on O`                                      (カジュアル/専門的) thesis `on` education
-  - `concerning O`                              (フォーマル/文頭はNG) There are some concerns `concerning` the new policy
-  - `regarding O`                               (フォーマル) `Regarding` the subject above,,,
-  - `with/in regard to O`                       (フォーマル) `With regard to` the notes below
-  - `as to O`                                   (フォーマル) discussion `as to` which university is the best university.
+- `You know how S V?`                           (CASUAL  | じゃん？) `You know how` I've been looking for a new TV for a while?
+- `I told you O, right?`                        (CASUAL  | O と言ったよね) `I told you` about my dad, `right?`
+- 👉 `Remember when S V?`                       (GENERAL | 〜だったとき覚えてる？) `Remember when` we had that issue with the login page?
+- `As I mentioned earlier/before,`              (GENERAL | 先ほど／以前に言った通り〜) `As I mentioned earlier`, we’ll need to finalize the specs.
+- `as/like I was saying`                        (GENERAL | さっき言った通り) Sorry. `As I was saying,` the acting was amazing.
+- 👉 `as/like you said`                         (GENERAL | あなたが言ったように)
+- `Just to circle back to what I said earlier`  (FORMAL  | さっきの話に戻るけど〜)
+- 👉 `speaking of which/O`                      (CASUAL  | といえば) `Speaking of summer,` where did you go this year?
+- `talking of O`                                (CASUAL  | といえば) `Talking of` soccer, Did you watch the game yesterday?
+- 👉 `as for O`                                 (GENERAL | について言えば) `As for` the cost per person / `As for me,` I agree with his opinion.
+- 👉 `when it comes to O`                       (GENERAL | となると) `When it comes to` the weather, there’s nothing I can do.
+- `about O`                                     (GENERAL | について) `About` the food ... it is bad.
+- `regarding O`                                 (FORMAL  | に関して) `Regarding` the subject above,,,
+- `concerning O`                                (FORMAL  | に関して/文頭はNG) There are some concerns `concerning` the new policy
+- `with/in regard to O`                         (FORMAL  | に関して) `With regard to` the notes below
+- `on O`                                        (FORMAL  | について/専門的) thesis `on` education
+- `as to O`                                     (FORMAL  | に関して) discussion `as to` which university is the best university.
   - 👉 `(going) back to O`                      (に戻ると) `Going back to` your question, my answer is no.
   - `by the way`                                (ところで)
   - 👉 `off-topic, but`                         (話は逸れますが) Bit `off-topic, but` I just finished editing the video.
@@ -59,6 +59,9 @@
   - 👉 `moving on,`                             (カジュアル/次の話題に移ると) `Moving on,` let’s talk about sales.
   - `let’s move on to`                          (カジュアル/次の話題に移ると) `Let’s move on to` the next question.
   - `proceeding to`                             (フォーマル/次の話題に移ると) `Proceeding to` the final step, we need to check the results.
+
+## Auxiliary
+
 - Condition
   - `Depending on how you look at it`           (フォーマル/考え方によっては) `Depending on how you look at it`, this law is either beneficial or harmful.
   - 👉 `if you think about it`                  (カジュアル/考えてみると) It's crazy how we can communicate like this`, if you think about it.`
@@ -136,6 +139,7 @@
   - `when compared to`                          (と比べて) Global emissions could rise 1.1 percent this year `when compared to` 2022.
 - Complement
   - `, each with O`                             (それぞれが O を持っている) instant cameras, `each with` their own unique shape and design.
+- `as sb anticipated`                           (予測していた通り) `As we anticipated,` the unemployment rate has risen ....
 
 ## Bindings
 
