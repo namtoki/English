@@ -21,3 +21,8 @@
 - 設定した
   - o `define` the goal as ~~~
   - x set the goal as ~~~
+- 進めている
+  - `work on`       作業・改善・対応中 (修正・構築・開発などハンズオンな作業)
+  - `proceed with`  手続きを進める、段階を踏んで進行 (会議後の実行、承認後のステップなど)
+- 〇〇するのがいい？
+  - Is 〇〇 the way/path forward?
