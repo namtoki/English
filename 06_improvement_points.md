@@ -1,20 +1,23 @@
 # IMPROVEMENT POINTS
 
 - どのような会議だったか
-  - ⭕️ meeting `where` S V
-  - ❌ meeting that S V
+  - o meeting `where` S V
+  - x meeting that S V
 - 集まって
-  - ⭕️ , `with` several team members gathered.
-  - ❌ gathering some team members.
+  - o , `with` several team members gathered.
+  - x gathering some team members.
 - 瞬間は、タイミングじゃなくてモーメント
-  - ⭕️ many `moments`
-  - ❌ many timing
+  - o many `moments`
+  - x many timing
 - きつかった
-  - ⭕️ `tough`
-  - ❌ hard
+  - o `tough`
+  - x hard
 - 休憩なしで続けて
-  - ⭕️ `back-to-back`
-  - ❌ in a row ... 回数や順序
+  - o `back-to-back`
+  - x in a row ... 回数や順序
 - ちゃんと伝わるように伝える
-  - ⭕️ `get` my thoughts `across to` the UK members
-  - ❌ convey my thoughts to UK members
+  - o `get` my thoughts `across to` the UK members
+  - x convey my thoughts to UK members
+- 設定した
+  - o `define` the goal as ~~~
+  - x set the goal as ~~~
