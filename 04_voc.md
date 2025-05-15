@@ -254,4 +254,3 @@
 - preside over:                               で司会を務める
 - push back:                                  後倒しする / We can `move up` or `push back` the schedule to accommodate your availability.
 - put O on hold:                              保留する / We are going to `put this project on hold`. / Can you `put it on hold`?
-- put off V-ing:                              延期する / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.

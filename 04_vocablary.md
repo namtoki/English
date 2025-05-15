@@ -8106,7 +8106,7 @@
 - [ ] postgraduate
 - [ ] posthumous
 - [ ] postman
-- [ ] postpone
+- [x] postpone              PV: put off V-ing (延期する) / The factory workers are told to `put off sanitizing` the food packaging machine until the end of their shift.
 - [ ] postulate
 - [ ] posture
 - [ ] postwar
