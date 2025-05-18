@@ -1,4 +1,4 @@
-# WHERE
+# PLACE
 
 - どこに
   - `directly accross from`                     (の真向かいに)
