@@ -25,7 +25,8 @@
 
 ## 認識
 
-- [ ] `I understand that S V`              ([Neutral] ～ということがわかる) `I understand that the deadline has been extended.`
+- [ ] `It's more like S V`                  ([Casual] どちらかと言えば～だ) `It's more like a suggestion than an order.`
+- [ ] `I understand that S V`               ([Neutral] ～ということがわかる) `I understand that the deadline has been extended.`
 - [ ] `I remember S V`                      ([Neutral] ～を覚えている) `I remember when we first met.`
 - [ ] `I see you have V`                    ([Neutral] ～したようだね) `I see you have finished the report early.`
 

@@ -1,5 +1,3 @@
-- `I'm sure (that) S V`                       (S V と確信している) `I am sure that` I will enjoy the movie.
-- `I'm sure of O`                             (O だと確信している) `I am sure of` enjoying the movie.
 - `It goes without saying that S V`           (言うまでもないが S V だ) `It goes without saying that` the aging of society is inevitable.
 - `Of course, I'm sure S V`                   (もちろん S V ということは承知している) `Of course, I’m sure` there are some app-side limitations too.
 - `I'm more than happy to V`                  (喜んで V するよ) `I’m more than happy to` answer any questions,
@@ -31,7 +29,6 @@
 - `It's not that S V`                         (S V というわけではない) `It's not like` Joe is a bad guy. He is just shady sometimes.
 - `It's not that A but (that) B`              (A というわけではなく B だ)
 - `It's not like S V`                      (S V というわけではなくて)
-- `It's more like S V`                     (なんというかむしろ S V だ)
 - `It's more that S V`                     (むしろ S V だ)
 - `It's just that S V`                     (S V というだけだ)
 - `It's the fact that S V`                 (S V だからだ) But not because it's so big. `It's the fact that` it's so diverse.
@@ -59,7 +56,6 @@
 - `except for`                                (を除いて) The auditorium was empty `except for` a single piece of furniture.
 - `With the exception of`                     (を除いて)
 - `if I had to say/guess`                  (強いて言うなら) `If I had to guess,` I would say that she is single.
-- `if anything`                            (どちらかというと) But now, `if anything,` they are making too much of it.
 - `if I'm not mistaken`                    (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
 - `in a (way | sense)`                     (ある意味) Yep, `in a way.`
 - `in every way`                           (すべてにおいて) That movie was perfect `in every way`.
