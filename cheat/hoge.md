@@ -1,25 +1,3 @@
-- `It goes without saying that S V`           (言うまでもないが S V だ) `It goes without saying that` the aging of society is inevitable.
-- `Of course, I'm sure S V`                   (もちろん S V ということは承知している) `Of course, I’m sure` there are some app-side limitations too.
-- `I'm more than happy to V`                  (喜んで V するよ) `I’m more than happy to` answer any questions,
-- `S V-ing. That is C`                     (S が V する、これは C だね) `This ramen shop putting whipped cream in soup, that's` gross.
-- `S V-ing, that'd be C`                   (S が V するとすれば C だね) `A Starbucks opening right next to my apartment, that'd be` amazing.
-- `S V. That I V`                             (S V これには V だね) Yes, we need to spend less money.`That I` agree with.
-- `The same is the case with O`            (同じことが O にも言える) `The same is the case with` "hear" and "about".
-- `I don't know the first thing about O`      (O ついてちっともわからない) I don't know`the first thing about` writing movies.
-- `I would've thought that S V`               (S V と思ったけど 驚き、指摘) `I would've thought that` he'd hate dancing at a club.
-- `I don't care for O`                        (特に好きではない) `I don't care for` spicy food.
-- `I have trouble V-ing`                      (V するのは大変だ) `I have trouble` getting to sleep. / `I have trouble` making friends.
-- `I will never V again!`                     (もう V しない) `I will never climb` Mt.Fuji `again!`
-- `I wish S V`                                (S V だったらなぁ) `I wish` I spoke French.
-- `I'm terrible with O`                       (O が嫌い)
-- `It feels like O`                           (O のように感じる) I remember my first day of high school. `It feels like` yesterday.
-- `It seems like S V`                         (S V のように見える) `It seems like` it's a mixture of two languages.
-- `It seems as if/though S V`                 (まるで S V のように見える) `It seems as if` he knew everything.
-- `I can still just about V`                  (いまでも十分 V できる) `I can still just about` remember my first day as a trainee but as of today
-- `I can't tell you how much S V`             (言い表せないくらい S V だ) `I can't tell you how much` I loved it.
-- `I feel like C`                             ((自分が) C みたいだ) `I feel like` an idiot.
-- `I feel like O/V-ing`                       (O の気分だ) `I feel like` Thai food. I don't feel like it. / `I feel like` going out somewhere.
-- `I'm in the mood for O`                     (O の気分だ) `I'm not in the mood.`
 - `I'm in the mood to V`                      (V する気分だ) `I'm in the mood to` watch a movie.
 - `I didn't mean it`                          (そんなつもりはなかった)
 - `~~. That's not to say (that) S V`          (S V というわけではない) `That's not to say that` it'll be impossible without it, but,,,
@@ -30,7 +8,6 @@
 - `It's not that A but (that) B`              (A というわけではなく B だ)
 - `It's not like S V`                      (S V というわけではなくて)
 - `It's more that S V`                     (むしろ S V だ)
-- `It's just that S V`                     (S V というだけだ)
 - `It's the fact that S V`                 (S V だからだ) But not because it's so big. `It's the fact that` it's so diverse.
 - `It's not the fact that S V`             (S V だからではない) `It's not the fact that` I find him boring.
 - `It's not just the fact that S V`        (S V だからだけではない) `It's not just the fact that` you called me during a meeting.
@@ -58,7 +35,6 @@
 - `if I had to say/guess`                  (強いて言うなら) `If I had to guess,` I would say that she is single.
 - `if I'm not mistaken`                    (間違ってなければ) `If I'm not mistaken,` it's the tallest building in the world.
 - `in a (way | sense)`                     (ある意味) Yep, `in a way.`
-- `in every way`                           (すべてにおいて) That movie was perfect `in every way`.
 - `for the most part`                         (すべてにおいて) `For the most part,` modernization is identified with westernization.
 - `O-wise`                                    (カジュアル) This product is great `cost-wise`.
 - `Speaking from experience`                  (私の経験から言うと)
@@ -86,7 +62,6 @@
 - `among other things`                        (とりわけ) I noticed, `among other things`, that he was drunk.
 - `on top of that`                            (さらに)
 - `to make matters worse`                     (さらに悪いことに) `To make matters worse,` he isn't even conscious of annoying us.
-- `what's more`                               (さらに良いことに) I met the man by chance. He's gentle and smart. `What's more,` he's single.
 - `what's worse`                              (さらに悪いことに)
 - `at a discount`                               (割引料金で)
 - `for the (fun | joy) of it`                   (趣味として) I just cook `for the fun of it.`
@@ -113,7 +88,6 @@
 - `Please handle it at your convenience.`  (ご都合の良いときに対応してください。)
 - `I'm still working on it`                   (今やっている最中です / まだ食べている途中です)
 - `I'm V-ing ... at the moment.`              (V 中だから邪魔しないで) Hang on. `I'm just finishing up an email at the moment`
-- `I'm trying to V`                           (V 中だから邪魔しないで) Hey, Toshi? `I'm trying to work`, Emily!
 - `I'm in the middle of something`            (今手が離せない)
 - `I've got my hands full.`                   (手が離せない) Sorry. `I've got my hands full` right now.
 - `I hope I'm not interrupting you`           (迷惑でなければいいのですが)
@@ -141,7 +115,6 @@
 - `I know!`                                   (あ、そうだ) `I know!` Let's go bowling.
 - `Here we go again`                          (まただ！) `Here we go again!` I told you I am not interested in getting married!
 - `There you go again.`                       (まただ！) `There you go again.` How many times do I have to tell you?
-- `Not again!`                                (まただ！)
 - `That's fanny`                           (おもろ！) `That's fanny!`(fanny ha-ha)
 - `That's fanny`                           (おかしいなぁ) `That's fanny.` Where are my keys?(fanny weird)
 - `(You're) Right`                         (そうね)
@@ -169,7 +142,6 @@
 - `Sounds like a plan`                     (よさそう)
 - `Sounds good`                            (いいね)
 - `That sounds like  O`                       (それは O だね) `That sounds like` a lot of work.
-- `I hope not`                             (そうならないことを願うよ)
 - `I hope so`                              (そう願うよ)
 - `Good to know`                           (知れてよかった)
 - `I told you`                                (だから言ったじゃん)
@@ -197,7 +169,6 @@
 - `Here we go`                                (ハイチーズ) Sure! Line up in front of that statue! 3.2.1 `here we go`!
 - `Here we go`                                (はじめましょう) Have you prepared everything? OK, `here we go`!
 - `Here we are`                               (着いた！) `Here we are`! Home sweet home.
-- `There we go.`                              (よし！) Man, am I out of shape.`There we go`. Hey, Anna! Sven!
 - `There we are.`                             (よし！) Well,`there we are`. I've finally finished my homework.
 - `Here you go/are`                           (どうぞ) `Here you go`. This is the doll you wanted.
 - `There you go.`                             (どうぞ) I’m going to go for it! / Yeah.`There you go`!
@@ -225,7 +196,6 @@
 - `some kind of (具体的なもの)`            ([カジュアル] 情報不確定 | ある種の O) / He was born with `some kind of` special talent. / `some kind of` sport
 - `(具体的なもの) of a sort`                  ([カジュアル] O ぽい ちょい違うけど) / He’s a leader `of a sort`. / I had dinner, `of a sort`.
 - `(具体的なもの) of a kind`                  ([フォーマル] 限定的 | 一応の | ある種の O) / He’s a genius `of a kind`.
-- `O and stuff like that`                  ([カジュアル] O とか) / We've got to do editing `and stuff.`
 - `O and things like that`                 ([フォーマル] O とか) / I think he's learning Spanish or `something like that`, if that makes sense.
 - `O and so on`                               ([フォーマル] O とか) / I'm tired of doing the dished, doing the laundry, `and so on!`
 - `O or so`                                   ([数字] O とか) / It's 20 dollars `or so`.
@@ -253,7 +223,6 @@
 - `hope of`                     する希望 / する見込み       I have no `hope of` getting financial support for it
 - `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
 - `nothing out of the ordinary` 普通
-- `one of those days`           最悪の日
 - `pedestrian crossing`         横断歩道 crosswalk, crossway
 - `population boom`             人口の急増
 - `pound sign`                  #
@@ -281,7 +250,6 @@
 - `scorching`                   焼きつくような              It's `scorching hot` today.
 - `boiling`                     うだるような                This room is `boiling hot`.
 - `no more than`                = only
-- `more of`                                   (どちらかというと) I think he is `more of` an entertainer.
 - `for hire`                    有料で利用できる、借りられる
 - `halfway through`             の途中で,半ばを過ぎた       I was `halfway through` dinner when he appeared.
 - `in one's XXs`                .. 十代                     Some of her first students are new `in their 20s`.
@@ -309,7 +277,6 @@
   - be better off O:                            You`'re better off` starting from the beginning than trying ...
 - could:                                      「できた」で使えるのは、過去の期間を表す語句か状態動詞 (hear/see/understand など) を伴う場合
 - ended up V-ing:                             結局した / I `ended up staying` home.
-- got to:                                     たまたました / I `got to` meet Joyce Nelson in person!
 - gotta | have got to:                        しなければならない (迫ってきている感) / I `gotta` go.
 - had better:                                 しなければならない (身のためだよ)
 - hasten to:                                  急いでした / They `hastened to` execute the plan.
@@ -336,7 +303,6 @@
 - 人間以外には通常 be able to は用いられない
 - be of the opinion that:                     と見ている / Many experts `are of the opinion that` its recovery will lead to worldwide economic growth.
 - be under the impression that:               だと思い込んでいる
-- be aware that:                              と承知している / please `be aware that` we are no longer responsible for privacy policies of other sites and services.
 - see to it that:                             となるように取り計らう / The professor `saw to it that` all of students understood the nature of the assignment.
 - [ ] `burn the midnight oil`:                徹夜する
 - [ ] `hang out`                    ぶらぶらする                Would you like to `hang out` next Sunday?
@@ -364,7 +330,6 @@
 - [ ] `be soaked`:                            びしょ濡れ / I'm soaked with sweat.
 - [ ] `be blessed with`:                      恵まれる / He is lucky to `be blessed with` so much talent.
 - [ ] `be caught up in`:                      巻き込まれる / I `got caught up in` the rain on the way home from the station.
-- [ ] `be/stay/remain on hand`:               待機する / She'll `be on hand` to her books and speak with fans until...
 - [~] `be aware of`:                          気づいている
 - [ ] `be conscious of`:                      自覚している / To make matters worse, he isn't even conscious of annoying us.
 - [~] `be content with`:                      に満足している
@@ -616,7 +581,6 @@
 - `(Do you) want me to V?`                    (V しましょうか？) `Do you want me to` cook dinner?
 - `How about V-ing?`                          (V するのはどう？) `How about sending` flowers?
 - `Is this a good time?`                      (今いい？)
-- `Can I borrow you for a second?`            (今いい？)
 - `Do you have a minute/second?`              (今いい？)
 - `Do you have time?`                         (今いい？)
 - 👉 `Is everything all right?`               (大丈夫？)
@@ -634,4 +598,3 @@
 - `How long since S V?`                       (S V してからどれくらい？) `How long since` you met him? (How long has it been since S V の省略)
 - `How long until S V?`                       (S V するまでどれくらい？) `How long until` he comes back? (How long is it going to be until S V の省略)
 - `How was everything?`                       (お料理はいかがでしたか)
-- `How's your day going?`                     (調子はどう？)

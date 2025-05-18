@@ -1,5 +1,6 @@
 # RESPONSE CUES
 
+- [ ] `There we go.`                        ([Casual] ほらね／できたよ) `There we go.` The printer is working again.
 - [ ] `Tell me about it`                    ([Casual] まったくその通り／わかるよ) `Tell me about it!` I've been so busy lately.
 - [ ] `That's really something`             ([Casual] 大したもんだね) Wow, you finished the project early? `That's really something!`
 - [ ] `That's the way it is`                ([Neutral] そういうものだ) Sometimes things don’t go as planned, but `that's the way it is.`
