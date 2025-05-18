@@ -1,10 +1,9 @@
 # CAUSE
 
-- [x] `because of O`                        ([Neutral]   が理由で) `Because of` the heavy snow, our flight was delayed.
-- [x] `thanks to O`                         ([Neutral]   が理由で) `Thanks to` the strong yen, we can travel abroad without spending much.
-- `with all`                                  (があるので) `With all` that money, he can do anything
-- `owing to`                                  (のせいで (文頭)) `Owing to` illness, some representatives were absent from ...
-- `on account of`                             (のせいで (困難 / 文語)) Our flight to Vienna was delayed `on account of` a minor accident.
-- `due to`                                    (のせいで (補語 / 名詞修飾)) I missed school `due to` Covid-19.
-- `in consequence of`                         (がもとで (堅苦しい))
-- `as a consequence`                          (がもとで (堅苦しい))
+- [ ] `because of O`                        ([Neutral] Oのせいで／Oのおかげで) The flight was delayed `because of the weather`.
+- [ ] `thanks to O`                         ([Neutral] Oのおかげで) We finished the project early `thanks to your help`.
+- [ ] `due to`                              ([Neutral] Oが原因で) The train was delayed `due to an accident on the line`.
+- [ ] `owing to`                            ([Formal] Oのために／Oが原因で) The event was canceled `owing to the heavy rain`.
+- [ ] `on account of`                       ([Formal] Oの理由で) The match was postponed `on account of the storm`.
+- [ ] `in consequence of`                   ([Formal] Oの結果として) Several flights were canceled `in consequence of the strike`.
+- [ ] `as a consequence`                    ([Formal] その結果として) The team didn’t practice enough, and `as a consequence,` they lost the game.

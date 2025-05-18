@@ -1,8 +1,16 @@
 # UNCERTAINTY
 
-- `It could be (that) S V`                 (S V かもしれない) `It could be that` Wayne's just naturally fit, but ,,,
-- `Chances are (that) S V`                 (S V の可能性がある) It's foggy. But `chances are` it'll clear up later on.
-- `There's a high       chance of O`       (の可能性が高い) `There's a high chance of` a domino effect.
-- `It might be a good idea to V`              (V したほうがいいかも) `It might be a good idea to` read the reviews before you buy it.
-- `There's a low/little chance of O`       (の可能性が低い) `There's a low chance of` rain tonight.
-- `It's up in the air whether S V`         (S V かどうか決まっていない) `It's up in the air whether` the game will be called off or not.
+## たぶん
+
+- [ ] `Chances are (that) S V`              ([Casual] たぶん〜だろう) `Chances are she forgot about the meeting.`
+- [ ] `There's a high       chance of O`    ([Neutral] Oの可能性が高い) `There’s a high chance of rain` this evening, so bring an umbrella.
+- [ ] `There's a low/little chance of O`    ([Neutral] Oの可能性は低い) `There’s a little chance of delay,` but we’re prepared just in case.
+- [x] `It could be (that) S V`              ([Neutral] ～という可能性もある) `It could be that she misunderstood the instructions.`
+- [ ] `It might be a good idea to V`        ([Neutral] ～した方がいいかもしれない) `It might be a good idea to double-check the numbers.`
+- [ ] `You might wonder O`                  ([Neutral] Oと思うかもしれない) `You might wonder why we made that decision.`
+
+## わからない
+
+- [ ] `It's up in the air whether S V`      ([Casual] ～かどうかはまだ未定だ) `It's up in the air whether we'll have the meeting tomorrow.`
+- [ ] `I can't say for sure until S V`      ([Neutral] ～までははっきり言えない) `I can't say for sure until we get the test results.`
+- [ ] `I won't know until (time)`           ([Neutral] ～まではわからない) `I won't know until next week` if I can attend the event.

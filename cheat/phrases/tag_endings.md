@@ -2,23 +2,21 @@
 
 ## 確認
 
-- [ ] `know what I’m saying?`               ([Slang]   わかる？) We gotta stay focused and not get distracted, `know what I’m saying?`
-- [ ] `or not really?`                      ([Casual]  そうでもない？) Do you like this kind of music`, or not really?`
-- [x] `right?`                              ([Casual]  でしょ？) It’s supposed to start at 7, `right?`
-- [ ] `you know?`                           ([Casual]  でしょ？) I just felt like it wasn’t fair, `you know?`
-- [ ] `you get me?`                         ([Casual]  わかる？) I’m not saying he’s wrong, just that he could’ve said it better, `you get me?`
-- [ ] `am I right?`                         ([Casual]  合ってるよね？) She’s always late, like every single time — `am I right?`
-- [x] `you know what I mean?`               ([Casual]  わかるでしょ？) It’s not about the money, it’s about the principle, `you know what I mean?`
-- [x] `Does that make sense?`               ([Neutral] わかる？) We split the cost evenly and then settle later. `Does that make sense?`
-- [ ] `isn’t it?`                           ([Neutral] そうでしょ？) That was a great performance, `isn’t it?`
-- [ ] `you see?`                            ([Neutral] わかるでしょ？) I didn’t cancel because I was lazy — I was really sick, `you see?`
-- [x] `if that makes sense.`                ([Neutral] 説明できたかわからないけど) I think we should delay the launch until we fix that, `if that makes sense.`
+- [ ] `, know what I’m saying?`             ([Slang] わかるっしょ？) We gotta stick together out there, `know what I’m saying?`
+- [ ] `, you get me?`                       ([Slang] わかる？／伝わる？) I’m not trying to be rude, `you get me?`
+- [ ] `, does that make sense?`             ([Neutral] 意味わかる？) We’ll split the tasks like this, `does that make sense?`
+- [ ] `, isn’t it?`                         ([Neutral] 〜でしょ？) It’s a beautiful day, `isn’t it?`
+- [x] `, if that makes sense`               ([Neutral] 伝わればいいんだけど) It’s more of a vibe than a strict rule, `if that makes sense.`
+- [ ] `, you know?`                         ([Casual] 〜じゃん？／〜でしょ？) It’s just been really hectic lately, `you know?`
+- [ ] `, you see?`                          ([Casual] わかるでしょ？) It’s not just about money, `you see?` It’s about respect.
+- [x] `, you know what I mean?`             ([Casual] わかるでしょ？) It’s just not worth the trouble, `you know what I mean?`
+- [x] `, right?`                            ([Casual] ～だよね？) You're coming to the party tonight, `right?`
+- [ ] `, am I right?`                       ([Casual] 〜でしょ？／合ってるよね？) This whole thing is just a mess, `am I right?`
 
 ## 強調
 
-- [ ] `or what?`                            ([Casual]  それとも何なの？) Are we gonna have fun`, or what?`
+- [ ] `or what?`                            ([Slang] 〜ってこと？／それとも違う？) So are we leaving now `or what?`
+- [ ] `, or not really?`                    ([Casual] それともそうでもない？) You’re into horror movies, `or not really?`
 
 ## 謙遜
 
-- [ ] `if it works for you`                 ([Neutral] 都合が良ければ) So I’ll see you at 7, `if it works for you.`
-- [ ] `if you don't mind`                   ([Formal]  もしよろしければ) I have a suggestion`, if you don't mind.`
