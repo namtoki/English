@@ -1,4 +1,35 @@
 
+# FRAMING
+
+- `You know how S V?`                           (CASUAL  | じゃん？) `You know how` I've been looking for a new TV for a while?
+- `I told you O, right?`                        (CASUAL  | O と言ったよね) `I told you` about my dad, `right?`
+- 👉 `Remember when S V?`                       (GENERAL | 〜だったとき覚えてる？) `Remember when` we had that issue with the login page?
+- `As I mentioned earlier/before,`              (GENERAL | 先ほど／以前に言った通り〜) `As I mentioned earlier`, we’ll need to finalize the specs.
+- `as/like I was saying`                        (GENERAL | さっき言った通り) Sorry. `As I was saying,` the acting was amazing.
+- 👉 `as/like you said`                         (GENERAL | あなたが言ったように)
+- `Just to circle back to what I said earlier`  (FORMAL  | さっきの話に戻るけど〜)
+- 👉 `speaking of which/O`                      (CASUAL  | といえば) `Speaking of summer,` where did you go this year?
+- `talking of O`                                (CASUAL  | といえば) `Talking of` soccer, Did you watch the game yesterday?
+- 👉 `as for O`                                 (GENERAL | について言えば) `As for` the cost per person / `As for me,` I agree with his opinion.
+- 👉 `when it comes to O`                       (GENERAL | となると) `When it comes to` the weather, there’s nothing I can do.
+- `about O`                                     (GENERAL | について) `About` the food ... it is bad.
+- `regarding O`                                 (FORMAL  | に関して) `Regarding` the subject above,,,
+- `concerning O`                                (FORMAL  | に関して/文頭はNG) There are some concerns `concerning` the new policy
+- `with/in regard to O`                         (FORMAL  | に関して) `With regard to` the notes below
+- `on O`                                        (FORMAL  | について/専門的) thesis `on` education
+- `as to O`                                     (FORMAL  | に関して) discussion `as to` which university is the best university.
+  - 👉 `(going) back to O`                      (に戻ると) `Going back to` your question, my answer is no.
+  - `by the way`                                (ところで)
+  - 👉 `off-topic, but`                         (話は逸れますが) Bit `off-topic, but` I just finished editing the video.
+  - 👉 `first off`                              (カジュアル/はじめに) `First off`, I want to thank everyone for coming today.
+  - 👉 `to begin with`                          (カジュアル/はじめに) `To begin with,` its theme is obscure.
+  - `first/Most of all`                         (フォーマル/はじめに) `First of all,` learn the formula by heart.
+  - `next,`                                     (カジュアル/次に) `Next,` let’s discuss our budget.
+  - 👉 `moving on,`                             (カジュアル/次の話題に移ると) `Moving on,` let’s talk about sales.
+  - `let’s move on to`                          (カジュアル/次の話題に移ると) `Let’s move on to` the next question.
+  - `proceeding to`                             (フォーマル/次の話題に移ると) `Proceeding to` the final step, we need to check the results.
+
+
 - `I can't say for sure until S V`         (S V するまで正確なことは言えない) `I can't say for sure until` I check the details.
 - `I won't know until (time)`                 (までわからない) `I won't know until` Friday.
 - `You might wonder O`                        (気になるかもしれないね) `You might wonder` why that is so.
