@@ -8,6 +8,10 @@
 - [x] `It could be (that) S V`              ([Neutral] ～という可能性もある) `It could be that she misunderstood the instructions.`
 - [ ] `It might be a good idea to V`        ([Neutral] ～した方がいいかもしれない) `It might be a good idea to double-check the numbers.`
 - [ ] `You might wonder O`                  ([Neutral] Oと思うかもしれない) `You might wonder why we made that decision.`
+- [ ] `That's rather unlikely`              ([Neutral] それはあまりなさそうだ) `That's rather unlikely,` given the current circumstances.
+- [ ] `I suppose (that) S V`                ([Neutral] ～だと思う／～かもしれない) `I suppose that could work,` but we need a backup plan.
+- [ ] `I suspect (that) S V`                ([Neutral] ～ではないかと思う／〜の疑いがある) `I suspect that he knew more than he let on.`
+- [ ] `I doubt (that) S V`                  ([Neutral] ～とは思えない／〜は疑わしい) `I doubt that this plan will work without more resources.`
 
 ## わからない
 
