@@ -6,7 +6,7 @@
 - [ ] `as/like I was saying`                ([Casual] さっき言ってたように) `Like I was saying,` we really need to revise the schedule.
 - [ ] `as/like you said`                    ([Casual] 君が言ってたように) `As you said,` we should focus on quality over speed.
 
-## と言えば
+## トピック
 
 - [ ] `speaking of which/O`                 ([Casual] そういえば／それで思い出したけど) `Speaking of which,` did you hear back from Sarah yet?
 - [ ] `talking of O`                        ([Casual] Oと言えば) `Talking of movies,` have you seen the new Miyazaki film?
@@ -28,3 +28,8 @@
 
 - [ ] `by the way`                          ([Casual] ところで) `By the way,` did you finish the report I asked for?
 - [ ] `off-topic, but`                      ([Casual] 話が逸れるけど) `Off-topic, but` have you seen the new office layout?
+
+## 観点
+
+- [ ] `from one's perspective`               ([Neutral] ～の視点からすると) `From my perspective,` the plan needs some adjustments.
+

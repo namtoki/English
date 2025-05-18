@@ -7,3 +7,4 @@
 - [x] `moving on,`                          ([Neutral] 次に移りますが) `Moving on,` let's discuss the budget for next quarter.
 - [ ] `let’s move on to`                    ([Neutral] ～に話を進めましょう) `Let’s move on to` the next item on the agenda.
 - [ ] `proceeding to`                       ([Formal] ～に進みますと) `Proceeding to` the final section, we’ll review our conclusions.
+- [ ] `in conclusion`                       ([Formal] 結論として) `In conclusion,` the data supports our hypothesis.
