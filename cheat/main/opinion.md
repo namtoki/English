@@ -4,10 +4,12 @@
 
 - [x] `I say S V`                           ([Casual] ～って思う／～しようよ) `I say we take a break and grab some coffee.`
 - [x] `I'd say (that) S V`                  ([Casual] ～だと思うな／～かな) `I'd say this is our best option so far.`
-- [ ] `I'm fine with O`                     ([Casual] Oで大丈夫／Oで構わない) `I'm fine with either option,` so go ahead and choose.
+- [ ] `My concern (for O) is (that) S V`    ([Neutral] （Oに対する）私の懸念は～だ) My `concern` is that the deadline might be too tight.
+- [ ] `I believe in O`                      ([Neutral] Oを信じている) `I believe in the power of teamwork.`
 - [ ] `I believe (that) S V`                ([Neutral] ～だと信じている) `I believe that everyone deserves a second chance.`
 - [ ] `I have to say S V`                   ([Neutral] 正直に言うと～だ) `I have to say this turned out better than I expected.`
 - [ ] `It occurs to me that S V`            ([Neutral] ～という考えがふと浮かんだ) `It occurs to me that we haven’t considered the budget yet.`
+- [ ] `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
 
 ## 直感
 
@@ -18,5 +20,16 @@
 
 ## 評価
 
+- [ ] `I find O C`                          ([Neutral] OがCだと感じる) `I find this book fascinating.`
 - [x] `It's C how S V`                      ([Neutral] S V の仕方が C だ) `It's strange how quickly things changed.`
 
+## 認識
+
+- [ ] `I understand that S V`              ([Neutral] ～ということがわかる) `I understand that the deadline has been extended.`
+- [ ] `I remember S V`                      ([Neutral] ～を覚えている) `I remember when we first met.`
+- [ ] `I see you have V`                    ([Neutral] ～したようだね) `I see you have finished the report early.`
+
+## 願望/希望
+
+- [ ] `I'm fine with O`                     ([Casual] Oで大丈夫／Oで構わない) `I'm fine with either option,` so go ahead and choose.
+- [ ] `I hope S V`                          ([Neutral] ～であってほしい) `I hope everything goes smoothly tomorrow.`

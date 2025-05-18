@@ -3,6 +3,7 @@
 ## たぶん
 
 - [ ] `Chances are (that) S V`              ([Casual] たぶん〜だろう) `Chances are she forgot about the meeting.`
+- [ ] `I wonder if S V`                     ([Neutral] ～かなと思う／～かどうか気になる) `I wonder if they’ll arrive on time.`
 - [ ] `There's a high       chance of O`    ([Neutral] Oの可能性が高い) `There’s a high chance of rain` this evening, so bring an umbrella.
 - [ ] `There's a low/little chance of O`    ([Neutral] Oの可能性は低い) `There’s a little chance of delay,` but we’re prepared just in case.
 - [x] `It could be (that) S V`              ([Neutral] ～という可能性もある) `It could be that she misunderstood the instructions.`

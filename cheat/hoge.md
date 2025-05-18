@@ -1,13 +1,8 @@
-- `I believe in O`                            (O を信じている) `I don't believe in` ghosts.
-- `I find O C`                                (O は C だと思う) `I find it really interesting` to study English.~
-- `I hope S V`                                (S V だと願う) `I hope` it doesn't rain.
-- `I remember S V`                            (たしか S V だったよね) `I remember` you went there last year.
-- `I see you have V`                          (S V したようだね) `I see you've` finished planting the shrubs.
-- `I understand that S V`                     (S V だと理解した) `I understand that` you speak a little English.
-- `I wonder if S V`                           (S V かなぁ) `I wonder if` this game is played all over the world.
-- `That's really something`                   (たいしたもんだ)
-- `That's the way it is`                   (しょうがないよ)
-- `My concern (for O) is (that) S V`       (私が気にしているのは) You show a lot of promise … but `my concern is` I don’t know where to book you.
+- `I'm sure (that) S V`                       (S V と確信している) `I am sure that` I will enjoy the movie.
+- `I'm sure of O`                             (O だと確信している) `I am sure of` enjoying the movie.
+- `It goes without saying that S V`           (言うまでもないが S V だ) `It goes without saying that` the aging of society is inevitable.
+- `Of course, I'm sure S V`                   (もちろん S V ということは承知している) `Of course, I’m sure` there are some app-side limitations too.
+- `I'm more than happy to V`                  (喜んで V するよ) `I’m more than happy to` answer any questions,
 - `S V-ing. That is C`                     (S が V する、これは C だね) `This ramen shop putting whipped cream in soup, that's` gross.
 - `S V-ing, that'd be C`                   (S が V するとすれば C だね) `A Starbucks opening right next to my apartment, that'd be` amazing.
 - `S V. That I V`                             (S V これには V だね) Yes, we need to spend less money.`That I` agree with.
