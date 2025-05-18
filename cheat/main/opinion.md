@@ -20,8 +20,20 @@
 - [ ] `I feel like C`                       ([Casual] Cな気がする) `I feel like something’s not right here.`
 - [ ] `I feel like O/V-ing`                 ([Casual] Oしたい気がする／～な気がする) `I feel like going for a walk.`
 - [ ] `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
+- [ ] `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
 - [ ] `I feel C`                            ([Neutral] ～だと感じる) `I feel confident` about the upcoming presentation.
 - [ ] `I also feel that S V`                ([Neutral] 私も〜だと感じる) `I also feel that we should reconsider the schedule.`
+
+## 説明
+
+- [ ] `It's like O`                         ([Casual] まるでOのようだ) `It's like a dream come true.`
+- [ ] `It's more like S V`                  ([Casual] どちらかと言えば～だ) `It's more like` a suggestion than an order.
+- [ ] `It's just that S V`                  ([Casual] ただ～なだけなんだ) `It's just that` I was busy, so I couldn't reply.
+- [ ] `It's kind of like O`                 ([Casual] ちょっとOみたいな感じ) `It's kind of like` a puzzle you have to solve.
+- [ ] `It’s almost like O`                  ([Casual] ほとんどOのようだ) `It’s almost like` we’re starting from scratch.
+- [ ] `It's not that S V`                   ([Neutral] ～というわけではない) `It's not that` I don't want to help, but I'm really busy.
+- [ ] `more of`                             ([Neutral] どちらかと言えば〜) `It’s more of` a suggestion than a rule.
+- [ ] `The same is the case with O`         ([Neutral] Oも同様だ) `The same is the case with remote workers.`
 
 ## 評価
 
@@ -32,6 +44,7 @@
 - [ ] `I find O C`                          ([Neutral] OがCだと感じる) `I find this book fascinating.`
 - [x] `It's C how S V`                      ([Neutral] S V の仕方が C だ) `It's strange how` quickly things changed.
 - [ ] `S V. That I V`                       ([Neutral] S Vだ。それは私がVだ) `It’s raining. That I don’t mind at all.`
+- [ ] `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
 
 ## 認識
 
