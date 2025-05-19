@@ -12,4 +12,5 @@
 
 ## WAY
 
-- [ ] `at a discount`                       ([Neutral] 割引価格で) `The shoes are available at a discount this weekend.`
+- [ ] `at a discount`                       ([Neutral] 割引価格で) The shoes are available `at a discount` this weekend.
+- [ ] `in place of O`                       ([Neutral] Oの代わりに) She took notes `in place of` the absent student.

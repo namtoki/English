@@ -2,6 +2,7 @@
 
 ## 範囲を調整
 
+- [ ] `in itself`                           ([Neutral] それ自体は) The idea, `in itself,` isn’t bad.
 - [ ] `in every way`                        ([Neutral] あらゆる面で) She supports the team `in every way possible.`
 - [ ] `in a way/sense`                      ([Neutral] ある意味では) `In a way,` this project changed how we work.
 - [ ] `to (a certain|some) extent`          ([Neutral] ある程度は) `To some extent,` we can agree with that proposal.

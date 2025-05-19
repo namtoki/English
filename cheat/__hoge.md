@@ -1,7 +1,3 @@
-- `for the (fun | joy) of it`                   (趣味として) I just cook `for the fun of it.`
-- `in itself`                                   (それ自体は) The revolution`in itself`, bore no fruit, after all.
-- `in place of O`                               (の代わりに) I used Knox’s PC `in place of` mine today.
-- `in support of O`                             (を支持して) The newspaper published an editorial `in support of` the new tax plan.
 - `just as`                                     (ちょうど同じように) `Just as` in the case of Carpenter's Square, the following relation holds.
 - `not including`                               (を含めずに) I work 8 hours `not including` lunch.
 - `of all O`                                    (数ある中で よりによって) `Of all days`, he fell ill on his birthday. / She wants to travel to Antarctic, of all places.
