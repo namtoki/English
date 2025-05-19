@@ -1,5 +1,11 @@
 # OPINION
 
+## 接頭表現
+
+- [ ] `the way I see it`                    ([Casual] 私の考えでは) `The way I see it,` we should focus on quality over quantity.
+- [ ] `Speaking from O`                     ([Neutral] Oから話すと) `Speaking from experience,` I recommend taking it slow.
+- [ ] `personally, in my opinion`           ([Neutral] 個人的には) `Personally, in my opinion, this approach is best.`
+
 ## 意見
 
 - [x] `I say S V`                           ([Casual] ～って思う／～しようよ) `I say we take a break and grab some coffee.`
@@ -23,17 +29,6 @@
 - [ ] `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
 - [ ] `I feel C`                            ([Neutral] ～だと感じる) `I feel confident` about the upcoming presentation.
 - [ ] `I also feel that S V`                ([Neutral] 私も〜だと感じる) `I also feel that we should reconsider the schedule.`
-
-## 説明
-
-- [ ] `It's like O`                         ([Casual] まるでOのようだ) `It's like a dream come true.`
-- [ ] `It's more like S V`                  ([Casual] どちらかと言えば～だ) `It's more like` a suggestion than an order.
-- [ ] `It's just that S V`                  ([Casual] ただ～なだけなんだ) `It's just that` I was busy, so I couldn't reply.
-- [ ] `It's kind of like O`                 ([Casual] ちょっとOみたいな感じ) `It's kind of like` a puzzle you have to solve.
-- [ ] `It’s almost like O`                  ([Casual] ほとんどOのようだ) `It’s almost like` we’re starting from scratch.
-- [ ] `It's not that S V`                   ([Neutral] ～というわけではない) `It's not that` I don't want to help, but I'm really busy.
-- [ ] `more of`                             ([Neutral] どちらかと言えば〜) `It’s more of` a suggestion than a rule.
-- [ ] `The same is the case with O`         ([Neutral] Oも同様だ) `The same is the case with remote workers.`
 
 ## 評価
 

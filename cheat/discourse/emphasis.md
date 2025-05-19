@@ -12,3 +12,4 @@
 
 - [ ] `Not again!`                          ([Casual] またかよ！) `Not again!` I can't believe the internet is down.
 - [ ] `I will never V again!`               ([Casual] 二度と～しない！) `I will never eat that restaurant's food again!`
+- [ ] `if you ask me`                       ([Casual] 私に言わせれば) `If you ask me, we should start the project sooner.`

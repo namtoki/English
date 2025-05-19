@@ -23,3 +23,8 @@
 - [ ] `I would've thought that S V`         ([Casual] ～だと思っていたよ) `I would've thought that she’d arrive earlier.`
 - [ ] `I can't say for sure until S V`      ([Neutral] ～までははっきり言えない) `I can't say for sure until we get the test results.`
 - [ ] `I won't know until (time)`           ([Neutral] ～まではわからない) `I won't know until next week` if I can attend the event.
+
+## わからないけど提案
+
+- [ ] `It wouldn't hurt to V`               ([Neutral] ～しても損はない) `It wouldn't hurt to` ask for help if you're stuck.
+- [ ] `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`

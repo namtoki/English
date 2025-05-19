@@ -10,6 +10,7 @@
 
 - [ ] `speaking of which/O`                 ([Casual] そういえば／それで思い出したけど) `Speaking of which,` did you hear back from Sarah yet?
 - [ ] `talking of O`                        ([Casual] Oと言えば) `Talking of movies,` have you seen the new Miyazaki film?
+- [ ] `O-wise`                              ([Casual] Oに関しては) `Time-wise,` we’re on schedule.
 - [ ] `as for O`                            ([Neutral] Oについて言えば) `As for the budget,` we’ll need to make some adjustments.
 - [ ] `when it comes to O`                  ([Neutral] Oのこととなると) `When it comes to teamwork,` communication is everything.
 - [ ] `about O`                             ([Neutral] Oについてなんだけど) `About the meeting tomorrow,` can we reschedule it?
@@ -31,5 +32,10 @@
 
 ## 観点
 
-- [ ] `from one's perspective`               ([Neutral] ～の視点からすると) `From my perspective,` the plan needs some adjustments.
-
+- [ ] `from a one's standpoint`             ([Neutral] ～の立場からすると) `From a manager’s standpoint,` this is a good move.
+- [ ] `from one's perspective`              ([Neutral] ～の視点からすると) `From my perspective,` the plan needs some adjustments.
+- [ ] `from one's point of view`            ([Neutral] ～の視点から見れば) `From my point of view,` the decision makes sense.
+- [ ] `from the perspective of O`           ([Neutral] Oの観点から見ると) `From the perspective of` the customer, this service is excellent.
+- [ ] `in terms of O`                       ([Neutral] Oの点で／Oに関して言えば) `In terms of sales,` we did better than last year.
+- [ ] `(More) broadly speaking`             ([Neutral] 広く言えば) `(More) broadly speaking,` this applies to many industries.
+- [ ] `on behalf of O`                      ([Formal] Oを代表して) `On behalf of the team,` I’d like to thank you for your support.

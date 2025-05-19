@@ -3,6 +3,8 @@
 - [ ] `at the end of the day`               ([Casual] 結局のところ) `At the end of the day,` what matters is that we tried our best.
 - [ ] `O and stuff like that`               ([Casual] Oとかそういうの) We talked about `budgets, deadlines, and stuff like that.`
 - [ ] `one of those days`                   ([Casual] ついてない日／そういう日) I just spilled coffee and missed my bus—`one of those days.`
+- [ ] `Something came up`                   ([Casual] 急な用事ができた) Sorry, I can't make it tonight. `Something came up.`
+- [ ] `to sb's heart's content`             ([Casual] 思う存分～する) You can eat `to your heart's content` at the buffet.
 
 ## VERB
 
