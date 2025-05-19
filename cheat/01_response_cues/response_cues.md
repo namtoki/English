@@ -11,3 +11,4 @@
 ## ネガティブ
 
 - [ ] `Not again!`                          ([Casual] またかよ！) `Not again!` I can't believe the internet is down.
+- [ ] `I didn't mean it`                    ([Casual] そういうつもりじゃなかった) `I didn't mean it`; I was just joking.
