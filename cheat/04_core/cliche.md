@@ -8,6 +8,11 @@
 
 ## 意見
 
+- [ ] `I agree with you`                    ([Neutral] 君に同意するよ) `I agree with you` on that point — it makes total sense.
 - [ ] `I would've thought that S V`         ([Casual] ～だと思っていたよ) `I would've thought that` she’d arrive earlier.
 - [ ] `any O will do as long as S V`        ([Neutral] S V ならどんなOでもいい) `Any location will do as long as we have Wi-Fi.`
 - [ ] `I won't know until (time)`           ([Neutral] ～まではわからない) `I won't know until next week` if I can attend the event.
+
+## 他
+
+- [ ] `Something came up`                   ([Casual] 急な用事ができた) `Sorry, I can't make it tonight. Something came up.`

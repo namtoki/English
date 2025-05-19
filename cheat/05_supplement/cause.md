@@ -8,3 +8,4 @@
 - [ ] `on account of`                       ([Formal] Oの理由で) The match was postponed `on account of the storm`.
 - [ ] `in consequence of`                   ([Formal] Oの結果として) Several flights were canceled `in consequence of the strike`.
 - [ ] `as a consequence`                    ([Formal] その結果として) The team didn’t practice enough, and `as a consequence,` they lost the game.
+- [ ] `for that reason`                     ([Neutral] その理由で) `For that reason,` we decided to postpone the meeting.

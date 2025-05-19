@@ -11,6 +11,7 @@
 - [ ] `Speaking from O`                     ([Neutral] Oから話すと) `Speaking from experience,` I recommend taking it slow.
 - [ ] `personally, in my opinion`           ([Neutral] 個人的には) `Personally, in my opinion, this approach is best.`
 - [ ] `at the end of the day`               ([Casual] 結局のところ) `At the end of the day,` what matters is that we tried our best.
+- [ ] `much to the relief of O`             ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
 
 ## 意見
 
@@ -23,6 +24,10 @@
 - [ ] `It occurs to me that S V`            ([Neutral] ～という考えがふと浮かんだ) `It occurs to me that we haven’t considered the budget yet.`
 - [ ] `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
 - [ ] `be aware that`                       ([Neutral] ～に注意してください) `Be aware that` the deadline is next Friday.
+- [ ] `It's no use V-ing`                   ([Neutral] Vしても無駄だ) `It's no use arguing with someone who won’t listen.`
+- [ ] `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn’t change.`
+- [ ] `the reason being that`               ([Neutral] 理由は～だからだ) She declined the offer, `the reason being that` she was too busy.
+- [ ] `this is because`                     ([Neutral] これは～だからだ) The event was canceled. `This is because` of the severe weather.
 
 ## 直感
 

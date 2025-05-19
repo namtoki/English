@@ -1,15 +1,3 @@
-- [ ] `O and stuff like that`               ([Casual] Oとかそういうの) We talked about `budgets, deadlines, and stuff like that.`
-- [ ] `one of those days`                   ([Casual] ついてない日／そういう日) I just spilled coffee and missed my bus—`one of those days.`
-- [ ] `Something came up`                   ([Casual] 急な用事ができた) Sorry, I can't make it tonight. `Something came up.`
-- [ ] `to sb's heart's content`             ([Casual] 思う存分～する) You can eat `to your heart's content` at the buffet.
-- [ ] `be/stay/remain on hand`              ([Neutral] 手元にある／利用可能である) We need to `stay on hand` during the event in case of emergencies.
-- [ ] `It's no use V-ing`                   ([Neutral] Vしても無駄だ) `It's no use arguing` with someone who won’t listen.
-- [ ] `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn’t change.`
-- [ ] `simply put`                           ([Neutral] 簡単に言えば) `Simply put,` we need to improve communication.
-- [ ] `in a nutshell`                        ([Neutral] 手短に言えば) `In a nutshell,` the project was a success.
-- [ ] `much to the relief of O`              ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
-- `at a discount`                               (割引料金で)
-- [ ] `I agree with you`                    ([Neutral] 君に同意するよ) `I agree with you` on that point — it makes total sense.
 - `for the (fun | joy) of it`                   (趣味として) I just cook `for the fun of it.`
 - `in itself`                                   (それ自体は) The revolution`in itself`, bore no fruit, after all.
 - `in place of O`                               (の代わりに) I used Knox’s PC `in place of` mine today.
@@ -264,16 +252,6 @@
 - `thus`                                      (フォーマル/そうすれば) Mix the ingredients together, `thus` creating a smooth paste.
 - `then`                                      (そうすれば) Do whatever I say. `Then` you will be successful.
 - `That's the way S V`                        (このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
-- `and the next thing I knew`                 (次の瞬間) I felt dizzy, `and the next thing I knew` I was ...
-- `so`                                        (カジュアル/だから) He didn’t study, `so` he failed the exam.
-- `that's why`                             (カジュアル/だから) He didn’t study. `That’s why` he failed the exam.
-- `this is why`                               (フォーマル/このようなわけで) I came down with the flu. `This is why` I haven't finished my homework.
-- `for that reason`                           (カジュアル/そんなわけで)
-- `this is because`                           (というのも) I haven't finished my homework. `That is because` I came down with the flu.
-- `the reason being that`                  (というのも) `The reason being that,` I didn’t want to relocate.
-- `for one/another thing`                     (というのも) I can't put you up. `For one thing,` my dad drops in on me from time to time.
-- `in that case`                              (その場合は) `In that case,` I’ll have a beer.
-- `in which case`                             (この場合は) Scott might be on vacation, `in which case,` just touch base with Aaron.
 
 ## 疑問文
 
