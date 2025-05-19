@@ -32,6 +32,7 @@
 
 ## 観点
 
+- [ ] `if you ask me`                       ([Casual] 私に言わせれば) `If you ask me, we should start the project sooner.`
 - [ ] `from a one's standpoint`             ([Neutral] ～の立場からすると) `From a manager’s standpoint,` this is a good move.
 - [ ] `from one's perspective`              ([Neutral] ～の視点からすると) `From my perspective,` the plan needs some adjustments.
 - [ ] `from one's point of view`            ([Neutral] ～の視点から見れば) `From my point of view,` the decision makes sense.

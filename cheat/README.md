@@ -1,8 +1,5 @@
 # README
 
-(response_cues)
-(discourse)-(stance)-(core)-(supplement)-(tag_endings)
-
 ```
 cheatsheet/
 │
@@ -19,17 +16,36 @@ cheatsheet/
 │   ├── time.md                 # when, after, since など
 │   ├── place.md                # where など
 │   ├── cause.md                # 何故
-│   ├── concession.md           # 制限など
 │   ├── how.md                  # どのように
-│   ├── hedging.md              # maybe, kind of, this might be just me
 │   └── purpose.md              # 何のために
 │
 ├── discourse/                  # 話の流れ・文脈制御に関わる表現群
 │   ├── condition.md            # どういう条件下か
+│   ├── concession.md           # どういう制限下か
 │   ├── framing.md              # 話題の設定
-│   ├── structuring.md          # 順序
+│   ├── structuring.md          # 順序立てする修飾句
 │   └── emphasis.md             # actually, really, absolutely
 │
 ├── tag_endings.md              # if that makes sense, you know, right? など
 └── response_cues.md            # あいづち
 ```
+
+組み立て方のイメージは以下。
+
+```
+    <-- response_cues -->
+
+                          <-- stance --><-- core -->
+    <-- discourse --> <---------- supplement ----------> <-- discourse --> <-- tag_endings -->
+```
+
+- 大方針
+  - 既に会話が始まっている場合は、都度 `response_cues` を使う
+  - 何か言いたいときは `core` にて本質的な内容を伝える
+  - `core` だけでも十分
+- 表現を豊かにする場合
+  - まず `discourse` にて話したい内容の方向性を示す
+  - `core` にニュアンスを加えたい場合は、前に `stance` を付ける
+  - `stance` ないし `core` に補足情報を肉付けする場合は、任意の場所に `supplement` を付ける
+  - 後で `discourse` を付け足しても OK
+  - 最後に `tag_endings` で終えると長い発言の良い切れ目となる
