@@ -2,7 +2,8 @@
 
 ## HOW
 
-- [ ] `purposely`                           ([Neutral] 故意に) `She purposely ignored the warning signs.`
+- [ ] `just as`                             ([Neutral] まさに～のように) `Just as I expected,` the event was a success.
+- [ ] `purposely`                           ([Neutral] 故意に) She `purposely` ignored the warning signs.
 - [ ] `on impulse`                          ([Casual] 衝動的に) I bought the shoes `on impulse.`
 - [ ] `on purpose`                          ([Neutral] わざと) He spilled the drink `on purpose.`
 - [ ] `at heart`                            ([Neutral] 本質的には／心の中では) He’s a kind person `at heart.`
@@ -13,4 +14,4 @@
 ## WAY
 
 - [ ] `at a discount`                       ([Neutral] 割引価格で) The shoes are available `at a discount` this weekend.
-- [ ] `in place of O`                       ([Neutral] Oの代わりに) She took notes `in place of` the absent student.
+- [ ] `on average`                          ([Neutral] 平均して) `On average,` people sleep about eight hours a night.

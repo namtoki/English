@@ -10,12 +10,15 @@
 - [ ] `somewhat`                            ([Neutral] いくぶん／多少) The results were `somewhat` better than expected.
 - [ ] `except that`                         ([Neutral] ～を除いては) Everything was perfect, `except that` it started raining.
 - [ ] `except for`                          ([Neutral] ～を除いては) `Except for` a few minor mistakes, the report is excellent.
+- [ ] `not including`                       ([Neutral] ～を含まずに) The total cost is $100, `not including` taxes.
+- [ ] `without`                             ([Neutral] ～なしで) She left the house `without` her keys.
 - [ ] `With the exception of`               ([Formal] ～を除いては) `With the exception of` one delay, the project went smoothly.
 
 ## かかわらず
 
 - [ ] `with all`                            ([Neutral] Oにもかかわらず／Oがあっても) `With all his experience,` he still made a rookie mistake.
 - [ ] `regardless`                          ([Neutral] それにかかわらず) He went ahead with the plan, `regardless of the risks.`
+- [ ] `of all O`                            ([Neutral] 全てのOの中で) `Of all` the candidates, she was the most qualified.
 
 ## いずれにせよ
 

@@ -9,3 +9,6 @@
 - [ ] `in consequence of`                   ([Formal] Oの結果として) Several flights were canceled `in consequence of the strike`.
 - [ ] `as a consequence`                    ([Formal] その結果として) The team didn’t practice enough, and `as a consequence,` they lost the game.
 - [ ] `for that reason`                     ([Neutral] その理由で) `For that reason,` we decided to postpone the meeting.
+- [ ] `on the grounds of`                   ([Formal] ～を理由に) He was dismissed `on the grounds of` misconduct.
+- [ ] `on the recommendation of`            ([Formal] ～の推薦で) She was hired `on the recommendation of` her former boss.
+- [ ] `in place of O`                       ([Neutral] Oの代わりに) She took notes `in place of` the absent student.

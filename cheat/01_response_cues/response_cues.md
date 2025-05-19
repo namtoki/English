@@ -3,6 +3,7 @@
 ## 掛け声
 
 - [ ] `There we go.`                        ([Casual] ほらね／できたよ) `There we go.` The printer is working again.
+- [ ] `I know!`                             ([Casual] そうだ！) `I know!` Let’s try that new restaurant tonight.
 
 ## ポジティブ
 

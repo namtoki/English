@@ -12,6 +12,8 @@
 - [ ] `personally, in my opinion`           ([Neutral] 個人的には) `Personally, in my opinion, this approach is best.`
 - [ ] `at the end of the day`               ([Casual] 結局のところ) `At the end of the day,` what matters is that we tried our best.
 - [ ] `much to the relief of O`             ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
+- [ ] `I hope I'm not interrupting you, but`([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
+- [ ] `I was thinking`                      ([Casual] ちょっと考えてたんだけど) `I was thinking` we could try a different approach.
 
 ## 意見
 
