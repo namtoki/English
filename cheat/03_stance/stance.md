@@ -33,6 +33,7 @@
 
 ## 直感
 
+- [ ] `That sounds like O`                  ([Casual] それはOだね) `That sounds like` a lot of work.
 - [x] `I have a feeling/hunch that S V`     ([Casual] ～な気がする／～という予感がする) `I have a hunch that something big is about to happen.`
 - [ ] `It feels like O`                     ([Casual] Oのように感じる) `It feels like` everyone is busy these days.
 - [ ] `I feel like S V`                     ([Casual] ～な気がする) `I feel like` this project is going to take longer than expected.
