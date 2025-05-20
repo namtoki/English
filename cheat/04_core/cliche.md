@@ -1,17 +1,27 @@
 # CLICHE
 
+## ビジネス
+- [ ] `I hope you are doing well.`          ([Formal] 相手の健康や状況を気遣う表現) `I hope you are doing well.`
+- [ ] `Thank you for your continued support.` ([Formal] 継続的なサポートに感謝) `Thank you for your continued support.`
+- [ ] `I appreciate your help as always.`   ([Formal] いつも助けてくれて感謝) `I appreciate your help as always.`
+- [ ] `I always appreciate your business.`  ([Formal] いつもお引き立ていただきありがとうございます) `I always appreciate your business.`
+
 ## 感想
 
 - [ ] `That's really something`             ([Casual] 大したもんだね) Wow, you finished the project early? `That's really something!`
 - [ ] `That's the way it is`                ([Neutral] そういうものだ) Sometimes things don’t go as planned, but `that's the way it is.`
 - [ ] `I will never V again!`               ([Casual] 二度と～しない！) `I will never eat that restaurant's food again!`
-
-## 意見
-
-- [ ] `I agree with you`                    ([Neutral] 君に同意するよ) `I agree with you` on that point — it makes total sense.
-- [ ] `I would've thought that S V`         ([Casual] ～だと思っていたよ) `I would've thought that` she’d arrive earlier.
-- [ ] `any O will do as long as S V`        ([Neutral] S V ならどんなOでもいい) `Any location will do as long as we have Wi-Fi.`
 - [ ] `I won't know until (time)`           ([Neutral] ～まではわからない) `I won't know until next week` if I can attend the event.
+
+## 意見 (同意)
+- [ ] `I agree with you`                    ([Neutral] 君に同意するよ) `I agree with you` on that point — it makes total sense.
+- [ ] `Happy to help`                       ([Casual] 喜んで手伝いますよ) Thanks for reading my outline. `Happy to help!`
+
+## 意見 (中立)
+- [ ] `I'll leave it up to you`             ([Casual] 任せるよ) I’m not sure which option is best. `I'll leave it up to you.`
+- [ ] `I'm not particular about it`         ([Casual] こだわりはないよ) `I'm not particular about it`, so whatever works for you is fine.
+- [ ] `Nothing in particular`               ([Casual] 特にありません) `Do you have any preferences?` `Nothing in particular.`
+- [ ] `It doesn't matter`                   ([Casual] どうでもいいよ／どちらでもいいよ) `Do you want coffee or tea?` `It doesn't matter.`
 
 ## 他
 

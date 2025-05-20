@@ -30,6 +30,8 @@
 - [ ] `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn’t change.`
 - [ ] `the reason being that`               ([Neutral] 理由は～だからだ) She declined the offer, `the reason being that` she was too busy.
 - [ ] `this is because`                     ([Neutral] これは～だからだ) The event was canceled. `This is because` of the severe weather.
+- [ ] `I would've thought that S V`         ([Casual] ～だと思っていたよ) `I would've thought that` she’d arrive earlier.
+- [ ] `any O will do as long as S V`        ([Neutral] S V ならどんなOでもいい) `Any location will do as long as we have Wi-Fi.`
 
 ## 直感
 
