@@ -23,6 +23,9 @@
 - [ ] `Nothing in particular`               ([Casual] 特にありません) `Do you have any preferences?` `Nothing in particular.`
 - [ ] `It doesn't matter`                   ([Casual] どうでもいいよ／どちらでもいいよ) `Do you want coffee or tea?` `It doesn't matter.`
 
+## 意見 (反対)
+- [ ] `That's not the way I see it`         ([Neutral] 違う見方をしています) `That's not the way I see it.`
+
 ## 他
 
 - [ ] `Something came up`                   ([Casual] 急な用事ができた) Sorry, I can't make it tonight. `Something came up.`

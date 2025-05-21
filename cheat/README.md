@@ -3,6 +3,13 @@
 ```
 cheatsheet/
 │
+├── discourse/                  # 話の流れ・文脈制御に関わる表現群
+│   ├── framing.md              # 話題の設定 (framing, condition)
+│   ├── structuring.md          # 順序立てする修飾句
+│   └── emphasis.md             # 対比や気持ちなど、以降の構文を引き立たせる表現 (emphasis, concession)
+│
+├── stance.md                   # core を内包する表現
+│
 ├── core/                       # 最小単位の SV(O/C) または、O
 │   ├── cliche.md               # 定型表現
 │   ├── verb.md                 # 動詞表現
@@ -10,20 +17,12 @@ cheatsheet/
 │   ├── modifier.md             # 修飾
 │   └── question.md             # 疑問形
 │
-├── stance.md                   # core を内包する表現
-│
 ├── supplement/                 # 補足的な修飾句
 │   ├── time.md                 # when, after, since など
 │   ├── place.md                # where など
 │   ├── cause.md                # 何故
 │   ├── how.md                  # どのように
 │   └── purpose.md              # 何のために
-│
-├── discourse/                  # 話の流れ・文脈制御に関わる表現群
-│   ├── condition.md            # どういう条件下か
-│   ├── framing.md              # 話題の設定
-│   ├── structuring.md          # 順序立てする修飾句
-│   └── emphasis.md             # 対比や気持ちなど、以降の構文を引き立たせる表現
 │
 ├── tag_endings.md              # if that makes sense, you know, right? など
 └── response_cues.md            # あいづち

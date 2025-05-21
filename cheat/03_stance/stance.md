@@ -66,6 +66,7 @@
 - [ ] `Of course, I'm sure S V`             ([Neutral] もちろん、～に確信している) `Of course, I'm sure everything will be fine.`
 - [ ] `no doubt`                            ([Neutral] 疑いなく) `No doubt,` she is the best candidate for the job.
 - [ ] `It goes without saying that S V`     ([Formal] ～は言うまでもなく) `It goes without saying that` safety is our top priority.
+- [ ] `The fact is`                         ([Neutral] 実を言うと) `The fact is,` I don't have enough money.
 
 ## 認識
 
@@ -138,3 +139,4 @@
 ## 感情を乗せる
 
 - [ ] `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
+- [ ] `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
