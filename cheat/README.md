@@ -7,7 +7,7 @@ cheatsheet/
 │   ├── cliche.md               # 定型表現
 │   ├── verb.md                 # 動詞表現
 │   ├── noun.md                 # 名詞表現
-│   ├── pre-noun-adj.md         # 名詞の前の限定修飾形容詞
+│   ├── modifier.md             # 修飾
 │   └── question.md             # 疑問形
 │
 ├── stance.md                   # core を内包する表現
@@ -21,10 +21,9 @@ cheatsheet/
 │
 ├── discourse/                  # 話の流れ・文脈制御に関わる表現群
 │   ├── condition.md            # どういう条件下か
-│   ├── concession.md           # どういう制限下か
 │   ├── framing.md              # 話題の設定
 │   ├── structuring.md          # 順序立てする修飾句
-│   └── emphasis.md             # actually, really, absolutely
+│   └── emphasis.md             # 対比や気持ちなど、以降の構文を引き立たせる表現
 │
 ├── tag_endings.md              # if that makes sense, you know, right? など
 └── response_cues.md            # あいづち

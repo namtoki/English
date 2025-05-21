@@ -9,12 +9,12 @@ coming soon,,,
 # Personalization overview
 
 大きく取り上げるべき機能として、Personalization 機能があります。
-> `A key feature` we want to highlight is the Personalization functionality.
+> `A key feature` we want to `highlight` is the Personalization functionality.
 
 Personalization 機能とは、ユーザー一人ひとりの聴力や好みに合わせて、音を最適化する機能のことです。
 たとえば聴力の測定結果に基づいて、音のバランスや出力を自動的に調整することで、その人にとって聞きやすい音に仕上げてくれます。
-> `Personalization refers to optimizing the audio output based on each user’s hearing ability and personal preferences`.
-> For example, the system can automatically adjust the audio balance and output level based on the results of a hearing test, providing sound that is easier for the individual to hear.
+> Personalization `refers to` optimizing the audio output `based on` `each user’s hearing ability` and `personal preferences`.
+> For example, the system can `automatically adjust` the `audio balance` and `output level` based on the results of a hearing test, providing sound that is easier for the individual to hear.
 
 様々な Personalization 機能のソリューションベンダが存在しますが、検討の結果、我々は Mimi という企業のソリューションを採用します。
 ご存じかと思いますが、PerL1 では Nura のソリューションを用いていましたが、Mimi のソリューションに変わる、ということは大きな変化となります。

@@ -1,8 +1,5 @@
 # NOUN
 
-## どれくらいの
-- [ ] `some of O`                           ([Neutral] いくつかのもの) What are `some of` the things that you can say when you don't understand something?
-
 ## 抽象 (なもの)
 - [ ] `stuff ~~`                            ([Casual] モノ、コト) I hate the `stuff` that he always talks about.
 - [ ] `thing ~~`                            ([Neutral] モノ、コト) I don’t like `things` like what he says when he’s angry.
@@ -18,6 +15,9 @@
 - [ ] `~~ which S V`                        ([Formal] 事実：SがVするO) The thing `which` you use to see the stars.
 - [ ] `~~ that/which S think V`             ([Neutral] SがVと思うO) A movie `that I think is a classic example of a mafia film` is The Godfather.
 - [ ] `~~ to the effect that S V`           ([Formal] S V という趣旨のO) He said something `to the effect that` he wasn’t interested.
+
+## 抽象 (行動)
+- [ ] `S V-ing`                             ([Casual] SがVすること) `My dog barking like that` is a bit weird.
 
 ## 具体的なものを曖昧にする
 - [ ] `(具体的なもの) of a sort`            ([Casual] Oっぽい／ちょい違うけど) He’s a leader `of a sort.` / I had dinner, `of a sort.`
@@ -35,3 +35,5 @@
 
 ## 具体的なもの
 - [ ] `one of those days`                   ([Casual] ついてない日／そういう日) I just spilled coffee and missed my bus—`one of those days.`
+- [ ] `O in one's XXs`                      ([Neutral] 〜代) Some of her first students are `new in their 20s.`
+- [ ] `O to go`                             ([Neutral] 残りの O) `We have ten minutes to go.`

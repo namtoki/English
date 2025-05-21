@@ -14,6 +14,7 @@
 - [ ] `much to the relief of O`             ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
 - [ ] `I hope I'm not interrupting you, but`([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
 - [ ] `I was thinking`                      ([Casual] ちょっと考えてたんだけど) `I was thinking` we could try a different approach.
+- [ ] `I mean,`                             ([Casual] だってさ) `I mean,` it was dark and he was a very pretty guy!
 
 ## 意見
 
