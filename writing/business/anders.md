@@ -9,28 +9,31 @@ coming soon,,,
 # Personalization overview
 
 大きく取り上げるべき機能として、Personalization 機能があります。
-> `A key feature` we want to `highlight` is the Personalization functionality.
+> A key `feature` we want to `highlight` is the Personalization functionality.
 
 Personalization 機能とは、ユーザー一人ひとりの聴力や好みに合わせて、音を最適化する機能のことです。
 たとえば聴力の測定結果に基づいて、音のバランスや出力を自動的に調整することで、その人にとって聞きやすい音に仕上げてくれます。
-> Personalization `refers to` optimizing the audio output `based on` `each user’s hearing ability` and `personal preferences`.
-> For example, the system can `automatically adjust` the `audio balance` and `output level` based on the results of a hearing test, providing sound that is easier for the individual to hear.
+> Personalization refers to optimizing the audio output based on `each user’s hearing ability and personal preferences`.
+> For example, the system can automatically adjust `the audio balance and output level` based on the results of a hearing test, providing sound that is easier for the individual to hear.
 
 様々な Personalization 機能のソリューションベンダが存在しますが、検討の結果、我々は Mimi という企業のソリューションを採用します。
 ご存じかと思いますが、PerL1 では Nura のソリューションを用いていましたが、Mimi のソリューションに変わる、ということは大きな変化となります。
-> There are various `solution providers` offering Personalization functionality, `and after careful consideration,`
+> There are various solution providers offering Personalization functionality, and after careful `consideration,`
 > we have decided to `adopt` the solution provided by a company called Mimi.
-> As you may know, the PerL1 previously used a solution from Nura, so switching to Mimi `marks a significant change`.
+> As you may know, the PerL1 previously used a solution from Nura, so `switching to` Mimi `marks a significant change`.
 
 Mimi がどのようなソリューションなのか、基本的には一般的な Personalization 機能を想像していただければいいかと思います。
 より具体的な内容に関しては、ここに添付している各種リンクでご確認いただけます。
 > To understand `what Mimi’s solution entails,` `you can generally think of it as a standard personalization feature`.
 > For more specific information, please refer to the various links attached here.
 
-次に、App Server Earbuds の関係性がどのように構成されるかについて説明したいと思います。
-はじめに、Mimi を採用した Creative のとある製品を引き合いに、App 上の Mimi がどのように動作するのか見ていきたいと思います。
-> Next, I would like to explain the relationship between the App, Server, and Earbuds, and how they are structured.
-> To begin, let’s `look at` a product from Creative that has adopted Mimi, to understand how Mimi functions within the app.
+本日大事なのは、Mimi のソリューションの構成で、Earbuds 側の SDK, App 側の SDK, Mimi Server で構成されています。
+> What really matters today is the structure of Mimi’s solution — it’s made up of the SDK on the earbuds side, the SDK on the app side, and the Mimi server.
+
+これらの要素で、具体的にどういったソリューションになるのか。
+Mimi を採用した Creative のとある製品を引き合いに、App 上の Mimi がどのように動作するのか見ていきたいと思います。
+> So with these components, what kind of solution does it actually turn into?
+> Let’s take a look at how Mimi works on the app side, using a product from Creative that uses Mimi as an example.
 
 (ここで、CREATIVE のページに移動し、Flow chart を表示する)
 
