@@ -14,3 +14,4 @@
 - [ ] `in place of O`                       ([Neutral] Oの代わりに) She took notes `in place of` the absent student.
 - [ ] `at the thought of O`                 ([Neutral] を考えると) I tremble with fear `at the thought of an injection.`
 - [ ] `at the sound of O`                   ([Neutral] を聞いて) `At the sound of` the alarm, everyone evacuated.
+- [ ] `as a result of`                      ([Neutral] 因果の間に時間差) `As a result of` his ridiculous venture, he is in danger of going bankrupt.

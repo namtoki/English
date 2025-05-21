@@ -37,3 +37,40 @@
 - [ ] `one of those days`                   ([Casual] ついてない日／そういう日) I just spilled coffee and missed my bus—`one of those days.`
 - [ ] `O in one's XXs`                      ([Neutral] 〜代) Some of her first students are `new in their 20s.`
 - [ ] `O to go`                             ([Neutral] 残りの O) `We have ten minutes to go.`
+
+
+
+- `what I meant`                                (言いたかったこと) / `What I meant` was, you should do it carefully.
+- `something else`                              (格別なもの) / That dinner was `something else`!
+- `such things`                                 (そのようなもの) / C++ has plenty of `such things`!
+- `the only thing`                              (唯一良くないもの) / It was great!`The only thing` was the food.
+- `hope for`                    うまく行くことに対する希望  many people have `hope for` genuine changes in it
+- `hope of`                     する希望 / する見込み       I have no `hope of` getting financial support for it
+- `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
+- `nothing out of the ordinary` 普通
+- `pedestrian crossing`         横断歩道 crosswalk, crossway
+- `population boom`             人口の急増
+- `pound sign`                  #
+- `premise | premises`          前提 | 家屋,建物,構内,敷地内
+- `renewal notice`              更新通知
+- `repeat business`             常連
+- `social welfare`              福祉
+- `third baseline`              三塁側
+- `trade exhibition`            展示会
+- `trade journal`               業界紙
+- `treat oneself`               ご褒美
+- `vapor trail`                 飛行機雲
+- `vet / veterinarian`          獣医
+- `wildlife refuge`             鳥獣保護区
+- `working hours`               執務時間                    My regular working hours end at 6pm.
+- `the most commonly accepted`  一番自然な                  but `the most commonly accepted` way is the -ing.
+- `the very first`              一番最初の                  `the very first` question is the use of ..."
+- `one-off`                     一度きりの                  The expense incurred this year to construct the building is a `one-off` cost.
+- `last-minute`                 土壇場の
+- `neighborly`                  隣人の 親切な
+- `best-in-class`               最高クラスの
+- `whole other`                 全然違う                    That's a `whole other` problem.
+- `way better`                  much better                 That's just hype. I know `way better` places.
+- `each and every`              ひとつひとつの              `each and every one of` these questions
+- `scorching`                   焼きつくような              It's `scorching hot` today.
+- `boiling`                     うだるような                This room is `boiling hot`.

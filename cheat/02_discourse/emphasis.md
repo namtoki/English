@@ -43,20 +43,21 @@
 - [ ] `On second thought`                   ([Casual] 考え直すと) I’ll have a coffee. `On second thought,` I’ll take a tea instead.
 
 ## 条件づけ
-- [ ] `Given that S V`                      ([Casual] を考慮に入れると) `Given that` many city streets in the U.S. have a 45 mph speed limit, ...
-- [ ] `Assuming that S V`                   ([Neutral] が事実だとすると) `Assuming that` no voltage is applied from the booster amplifier, ...
-- [ ] `Considering that S V`                ([Casual] を考慮に入れると) `Considering that` it’s raining, we should take an umbrella.
-- [ ] `In light of O`                       ([Formal] 新事実を考慮に入れると) `In light of` recent events, we have decided to postpone the meeting.
-- [ ] `Against this background`             ([Formal] このような背景のもと) `Against this background,` the policy was revised.
-- [ ] `In the event that`                   ([Formal] 場合は) `In the event that` Y fails to perform its obligations under this Agreement, ...
-- [ ] `As it is`                            ([Neutral] 今のところ) `As it is,` ordinary people cannot afford to purchase such luxuries.
-- [ ] `In the long run`                     ([Neutral] 長い目で見れば) Bob believes that honesty pays off `in the long run.`
-- [ ] `With O`                              ([Neutral] があれば) `With a little luck,` we can still make it.
-- [ ] `Supposing that S V`                  ([Neutral] だと仮定すると) `Supposing that` the fire headed our way, what would we do next?
-- [ ] `(Let's) say S V`                     ([Neutral] だと仮定すると) `Say` I invest a hundred dollars now, how much will I ...
-- [ ] `Let's say O`                         ([Neutral] とりあえず〜としようか) `Let's say dinner at seven. / Let's say Monday at three.`
-- [ ] `As long as S V`                      ([Neutral] する限り) `As long as you are young,` you should experience different things.
-- [ ] `As far as / insofar as S V`          ([Neutral] する範囲では) `As far as I can see,` he will fail the exam again this time.
+- [ ] `given that S V`                      ([Casual] を考慮に入れると) `Given that` many city streets in the U.S. have a 45 mph speed limit, ...
+- [ ] `assuming that S V`                   ([Neutral] が事実だとすると) `Assuming that` no voltage is applied from the booster amplifier, ...
+- [ ] `considering that S V`                ([Casual] を考慮に入れると) `Considering that` it’s raining, we should take an umbrella.
+- [ ] `in light of O`                       ([Formal] 新事実を考慮に入れると) `In light of` recent events, we have decided to postpone the meeting.
+- [ ] `against this background`             ([Formal] このような背景のもと) `Against this background,` the policy was revised.
+- [ ] `in the event that`                   ([Formal] 場合は) `In the event that` Y fails to perform its obligations under this Agreement, ...
+- [ ] `as it is`                            ([Neutral] 今のところ) `As it is,` ordinary people cannot afford to purchase such luxuries.
+- [ ] `in the long run`                     ([Neutral] 長い目で見れば) Bob believes that honesty pays off `in the long run.`
+- [ ] `with O`                              ([Neutral] があれば) `With a little luck,` we can still make it.
+- [ ] `supposing that S V`                  ([Neutral] だと仮定すると) `Supposing that` the fire headed our way, what would we do next?
+- [ ] `(let's) say S V`                     ([Neutral] だと仮定すると) `Say` I invest a hundred dollars now, how much will I ...
+- [ ] `let's say O`                         ([Neutral] とりあえず〜としようか) `Let's say dinner at seven. / Let's say Monday at three.`
+- [ ] `as long as S V`                      ([Neutral] する限り) `As long as you are young,` you should experience different things.
+- [ ] `as far as / insofar as S V`          ([Neutral] する範囲では) `As far as I can see,` he will fail the exam again this time.
+- [ ] `when compared to`                    ([Neutral] と比べて) Global emissions could rise 1.1 percent this year `when compared to 2022.`
 
 ## 言い訳
 - [ ] `In my defense,`                      ([Neutral] 言い訳すると) `In my defense,` it was dark and he was a very pretty guy!

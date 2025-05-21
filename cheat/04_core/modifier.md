@@ -34,3 +34,6 @@
 
 ## 対比
 - [ ] `not so much A as B`                  ([Neutral] AというよりB) It took me a moment to process that I was `not so much angry as sad` that she cheated.
+
+## 付け足し
+- [ ] `, each with O`                       ([Neutral] それぞれがOを持っている) Instant cameras, `each with` their own unique shape and design.
