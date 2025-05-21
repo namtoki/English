@@ -5,8 +5,6 @@
 - [ ] `thing ~~`                            ([Neutral] モノ、コト) I don’t like `things` like what he says when he’s angry.
 - [ ] `something ~~`                        ([Neutral] モノ、コト) I want to eat `something` sweet.
 - [ ] `the kind of things ~~`               ([Formal] 類のもの) This is `the kind of thing` that makes me really happy.
-- [ ] `equivalent to ~~`                    ([Neutral] 同等のもの) They are the functional `equivalent of` gods.
-- [ ] `the best S can V`                    ([Neutral] SがVできる最大限のこと) `That's the best we can say at this point in time.`
 
 ## 抽象 (どんな？)
 - [ ] `~~ like (what) S V`                  ([Casual] 例示：S V みたいなO) He said something `like what` the project might be delayed.
@@ -34,6 +32,8 @@
 - [ ] `O or whatever`                       ([Casual] Oとかそんな感じ) I'm just going to read a book `or whatever.`
 
 ## 具体的なもの
+- [ ] `equivalent to ~~`                    ([Neutral] 同等のもの) They are the functional `equivalent of` gods.
+- [ ] `the best S can V`                    ([Neutral] SがVできる最大限のこと) `That's the best we can say at this point in time.`
 - [ ] `one of those days`                   ([Casual] ついてない日／そういう日) I just spilled coffee and missed my bus—`one of those days.`
 - [ ] `O in one's XXs`                      ([Neutral] 〜代) Some of her first students are `new in their 20s.`
 - [ ] `O to go`                             ([Neutral] 残りの O) `We have ten minutes to go.`

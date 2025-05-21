@@ -33,7 +33,7 @@ Mimi がどのようなソリューションなのか、基本的には一般的
 これらの要素で、具体的にどういったソリューションになるのか。
 Mimi を採用した Creative のとある製品を引き合いに、App 上の Mimi がどのように動作するのか見ていきたいと思います。
 > So with these components, what kind of solution does it actually turn into?
-> Let’s take a look at how Mimi works on the app side, using a product from Creative that uses Mimi as an example.
+> Let’s take a look at `how Mimi works on the app side,` using a product from Creative that uses Mimi as an example.
 
 (ここで、CREATIVE のページに移動し、Flow chart を表示する)
 
@@ -46,9 +46,8 @@ Mimi を採用した Creative のとある製品を引き合いに、App 上の 
 
 (右の画像に移動)
 
-また、Mimi のソリューションでは、Mimi アカウントが必要です。Denon Headphone App へのサインイン時に、こちらのアカウントへのサインインも行われることを期待しています。
+また、Mimi のソリューションでは、Mimi アカウントが必要です。
 > With Mimi’s solution, `a Mimi account is required`.
-> `We expect that when the user signs into the Denon Headphone App, they will also sign into their Mimi account`.
 
 (右下の赤枠の画像に移動)
 
@@ -67,18 +66,26 @@ Mimi を採用した Creative のとある製品を引き合いに、App 上の 
 (一番右の画像に移動)
 
 測定した結果は、このような周波数特性のようなグラフで確認できます。
+こうしたステップを経ることで、イヤホンからの音がパーソナライズされます。
 > The result of the measurement is displayed in a graph resembling a frequency response curve.
+> That’s how the sound from your earphones gets personalized for you.
 
 (アジェンダのページに戻り、Architecture の章に移る)
 
-今説明した流れの通り、Mimi のソリューションは Earbuds, App, Mimi Server で構成されます。
-この図で言うと、Processing Module が Earbuds, Configuration Module が App, Fitting Module が Mimi Server です。
+ここで重要なことは、Mimi のサーバが登場したことです。
 特筆すべきは、Mimi サーバにサインインする必要があるのと、計測データは Mimi Server に渡して Mimi Server 内で計算して Hearing ID という名前の Personalization Data になるということです。
 この Mimi Server は、我々の管理するクラウドにホスティングすることはできないです。
-> As explained, Mimi’s solution consists of Earbuds, an App, and the Mimi Server.
-> In the diagram, the Processing Module corresponds to the earbuds, the Configuration Module to the app, and the Fitting Module to the Mimi server.
-> Notably, users must sign in to the Mimi server, and the measurement data is sent to the server, where it is processed and converted into Personalization Data called the Hearing ID.
-> This Mimi server cannot be hosted in our own cloud environment.
+その制限の中で、Denon Headphone App へのサインイン時に、こちらのアカウントへのサインインも自動で行われることを期待しています。
+イメージ的には、HEOS アカウントと同じです。Denon Headphone App のアカウント情報と Mimi Service のアカウント情報を紐付けるサーバが必須です。
+> What’s important here is that the Mimi server comes into play.
+> The key thing is, you need to sign into the Mimi server, and the measurement data gets sent there
+> — then it’s processed on their side and turned into what they call 'Hearing ID', which is basically your personalization data.
+>
+> One thing to note:
+> we can’t host the Mimi server on our own cloud.
+> So within that limitation, we’re hoping that when users sign into the Denon Headphone App, they’ll be automatically signed into the Mimi service too.
+>
+> Think of it like the HEOS account — we’ll need a server that links the Denon Headphone App account info with the Mimi service account.
 
 (Integration Process の章の 1 枚目の画像に移る)
 
