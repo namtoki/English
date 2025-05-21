@@ -1,5 +1,8 @@
 # NOUN
 
+## どれくらいの
+- [ ] `some of O`                           ([Neutral] いくつかのもの) What are `some of` the things that you can say when you don't understand something?
+
 ## 抽象 (なもの)
 - [ ] `stuff ~~`                            ([Casual] モノ、コト) I hate the `stuff` that he always talks about.
 - [ ] `thing ~~`                            ([Neutral] モノ、コト) I don’t like `things` like what he says when he’s angry.
