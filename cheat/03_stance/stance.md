@@ -140,3 +140,4 @@
 
 - [ ] `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
 - [ ] `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
+- [ ] `Now that`                            ([Neutral] いまや) `Now that` things are better, we should talk about the problem.

@@ -12,3 +12,5 @@
 - [ ] `on the grounds of`                   ([Formal] ～を理由に) He was dismissed `on the grounds of` misconduct.
 - [ ] `on the recommendation of`            ([Formal] ～の推薦で) She was hired `on the recommendation of` her former boss.
 - [ ] `in place of O`                       ([Neutral] Oの代わりに) She took notes `in place of` the absent student.
+- [ ] `at the thought of O`                 ([Neutral] を考えると) I tremble with fear `at the thought of an injection.`
+- [ ] `at the sound of O`                   ([Neutral] を聞いて) `At the sound of` the alarm, everyone evacuated.

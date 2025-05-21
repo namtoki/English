@@ -18,18 +18,19 @@ Personalization 機能とは、ユーザー一人ひとりの聴力や好みに�
 
 様々な Personalization 機能のソリューションベンダが存在しますが、検討の結果、我々は Mimi という企業のソリューションを採用します。
 ご存じかと思いますが、PerL1 では Nura のソリューションを用いていましたが、Mimi のソリューションに変わる、ということは大きな変化となります。
-> There are various solution providers offering Personalization functionality, and after careful consideration, we have decided to adopt the solution provided by a company called Mimi.
-> As you may know, the PerL1 previously used a solution from Nura, so `switching to Mimi marks a significant change`.
+> There are various `solution providers` offering Personalization functionality, `and after careful consideration,`
+> we have decided to `adopt` the solution provided by a company called Mimi.
+> As you may know, the PerL1 previously used a solution from Nura, so switching to Mimi `marks a significant change`.
 
 Mimi がどのようなソリューションなのか、基本的には一般的な Personalization 機能を想像していただければいいかと思います。
 より具体的な内容に関しては、ここに添付している各種リンクでご確認いただけます。
-> To understand what Mimi’s solution entails, `you can generally think of it as a standard personalization feature`.
+> To understand `what Mimi’s solution entails,` `you can generally think of it as a standard personalization feature`.
 > For more specific information, please refer to the various links attached here.
 
 次に、App Server Earbuds の関係性がどのように構成されるかについて説明したいと思います。
 はじめに、Mimi を採用した Creative のとある製品を引き合いに、App 上の Mimi がどのように動作するのか見ていきたいと思います。
 > Next, I would like to explain the relationship between the App, Server, and Earbuds, and how they are structured.
-> To begin, let’s look at a product from Creative that has adopted Mimi, to understand how Mimi functions within the app.
+> To begin, let’s `look at` a product from Creative that has adopted Mimi, to understand how Mimi functions within the app.
 
 (ここで、CREATIVE のページに移動し、Flow chart を表示する)
 
@@ -38,7 +39,7 @@ Mimi がどのようなソリューションなのか、基本的には一般的
 まず、大事な概念として、Personalization 機能には Measurement というステップが必ず必要です。
 簡単な Hearing Test を行うことで、個々人の Personalization データを生成するのです。
 > One important concept to understand is that any personalization feature requires a Measurement step.
-> A simple hearing test is conducted to generate personalization data for each individual.
+> A simple hearing test `is conducted to` generate personalization data for each individual.
 
 (右の画像に移動)
 
@@ -49,7 +50,7 @@ Mimi がどのようなソリューションなのか、基本的には一般的
 (右下の赤枠の画像に移動)
 
 サインインすると、Measurement がはじまります。方法は 2 通りあって、測定を行うものと、年齢を選択するだけで簡単に設定できるものがあります。
-> After signing in, the measurement process begins.
+> After signing in, the measurement process `begins`.
 > There are two methods: a proper hearing test, and a simplified version where the user just selects their age.
 
 (右の画像に徐々に移動していく)

@@ -24,6 +24,8 @@
 - [ ] `with/in regard to O`                 ([Formal] Oに関しては) `With regard to your request,` we’ll consider it carefully.
 - [ ] `on O`                                ([Formal] Oに関して) `On the issue of remote work,` we’re still gathering feedback.
 - [ ] `as to O`                             ([Formal] Oについて言えば) `As to the timeline,` we’re aiming for completion by August.
+- [ ] `In V-ing O`                          ([Neutral] Vするプロセスの中で) `In making a decision,` I rely not on logic but on instinct.
+- [ ] `In the course of`                    ([Neutral] の過程で) `In the course of` its economic development, Japan has ...
 
 ## 戻す
 - [ ] `(going) back to O`                   ([Casual] Oに話を戻すと) `Going back to the main topic,` we still need to finalize the budget.
