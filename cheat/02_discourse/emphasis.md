@@ -3,20 +3,20 @@
 ## 追加
 - [ ] `what's more`                         ([Casual] その上／さらに) `What's more,` we managed to finish ahead of schedule.
 - [ ] `what's worse`                        ([Casual] さらに悪いことに) He forgot his keys, and `what's worse,` his phone died.
-- [ ] `on top of that`                      ([Casual] その上に) `On top of that,` we have to finish early.
+- [x] `on top of that`                      ([Casual] その上に) `On top of that,` we have to finish early.
 - [ ] `to make matters worse`               ([Casual] さらに悪いことに) `To make matters worse,` it started raining during the event.
 - [ ] `above all`                           ([Neutral] 何よりも) `Above all,` safety must come first.
-- [ ] `in particular`                       ([Neutral] 特に) I like Italian food, `in particular,` pasta dishes.
-- [ ] `especially`                          ([Neutral] 特に) I love all kinds of music, `especially` jazz.
+- [x] `in particular`                       ([Neutral] 特に) I like Italian food, `in particular,` pasta dishes.
+- [x] `especially`                          ([Neutral] 特に) I love all kinds of music, `especially` jazz.
 - [ ] `among other things`                  ([Neutral] とりわけ) I noticed, `among other things`, that he was drunk.
 
 ## かかわらず
 - [ ] `with all`                            ([Neutral] Oにもかかわらず／Oがあっても) `With all his experience,` he still made a rookie mistake.
-- [ ] `regardless`                          ([Neutral] それにかかわらず) He went ahead with the plan, `regardless of the risks.`
+- [ ] `for all`                             ([Neutral] のに) I don't feel happy `for all my success.`
 - [ ] `of all O`                            ([Neutral] 全てのOの中で) `Of all` the candidates, she was the most qualified.
+- [ ] `regardless`                          ([Neutral] それにかかわらず) He went ahead with the plan, `regardless of the risks.`
 - [ ] `despite O`                           ([Neutral] に反して) `Despite` the risk, I would like to proceed with the plan.
 - [ ] `in spite of O`                       ([Neutral] に反して) `In spite of` our compliments, he frowned and turned away. He was so rude.
-- [ ] `for all`                             ([Neutral] のに) I don't feel happy `for all my success.`
 - [ ] `however much S V`                    ([Neutral] どれだけしても) `However much` you study, there's always more to learn.
 - [ ] `no matter how much S V`              ([Neutral] どれだけしても) `No matter how much` I study, I can't improve my English.
 - [ ] `in a departure from O`               ([Neutral] から一転して) `In a departure from` his usual manic storytelling pace, director ...

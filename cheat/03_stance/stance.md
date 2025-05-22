@@ -1,7 +1,6 @@
 # STANCE
 
 ## 副詞構文でスタンスを調整
-
 - [ ] `if anything`                         ([Casual] どちらかと言えば／むしろ) `If anything,` this situation calls for more caution.
 - [ ] `if I had to say/guess`               ([Casual] しいて言うなら／あえて推測するなら) `If I had to guess,` they’ll arrive late.
 - [ ] `if I'm not mistaken`                 ([Neutral] 間違っていなければ) `If I'm not mistaken,` the meeting is at 3 p.m.
@@ -10,14 +9,13 @@
 - [ ] `the way I see it`                    ([Casual] 私の考えでは) `The way I see it,` we should focus on quality over quantity.
 - [ ] `Speaking from O`                     ([Neutral] Oから話すと) `Speaking from experience,` I recommend taking it slow.
 - [ ] `personally, in my opinion`           ([Neutral] 個人的には) `Personally, in my opinion, this approach is best.`
-- [ ] `at the end of the day`               ([Casual] 結局のところ) `At the end of the day,` what matters is that we tried our best.
+- [x] `at the end of the day`               ([Casual] 結局のところ) `At the end of the day,` what matters is that we tried our best.
 - [ ] `much to the relief of O`             ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
 - [ ] `I hope I'm not interrupting you, but`([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
 - [ ] `I was thinking`                      ([Casual] ちょっと考えてたんだけど) `I was thinking` we could try a different approach.
 - [ ] `I mean,`                             ([Casual] だってさ) `I mean,` it was dark and he was a very pretty guy!
 
 ## 意見
-
 - [x] `I say S V`                           ([Casual] ～って思う／～しようよ) `I say we take a break and grab some coffee.`
 - [x] `I'd say (that) S V`                  ([Casual] ～だと思うな／～かな) `I'd say this is our best option so far.`
 - [ ] `My concern (for O) is (that) S V`    ([Neutral] （Oに対する）私の懸念は～だ) My `concern` is that the deadline might be too tight.
@@ -35,7 +33,6 @@
 - [ ] `any O will do as long as S V`        ([Neutral] S V ならどんなOでもいい) `Any location will do as long as we have Wi-Fi.`
 
 ## 直感
-
 - [ ] `That sounds like O`                  ([Casual] それはOだね) `That sounds like` a lot of work.
 - [x] `I have a feeling/hunch that S V`     ([Casual] ～な気がする／～という予感がする) `I have a hunch that something big is about to happen.`
 - [ ] `It feels like O`                     ([Casual] Oのように感じる) `It feels like` everyone is busy these days.
@@ -48,7 +45,6 @@
 - [ ] `I also feel that S V`                ([Neutral] 私も〜だと感じる) `I also feel that we should reconsider the schedule.`
 
 ## 評価
-
 - [ ] `I don't care for O`                  ([Casual] Oは好きじゃない) `I don't care for` spicy food.
 - [ ] `I'm terrible with O`                 ([Casual] Oがとても苦手だ) `I'm terrible with` directions.
 - [ ] `I can still just about V`            ([Casual] なんとかギリギリ～できる) `I can still just about` make it to the meeting on time.
@@ -59,7 +55,6 @@
 - [ ] `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
 
 ## 確信
-
 - [ ] `Turns out S V`                       ([Casual] ～ということがわかった) `Turns out she was right all along.`
 - [ ] `I'm sure (that) S V`                 ([Neutral] ～に確信している) `I'm sure that` everything will work out fine.
 - [ ] `I'm sure of O`                       ([Neutral] Oに確信がある) `I'm sure of` his abilities to handle the task.
@@ -69,7 +64,6 @@
 - [ ] `The fact is`                         ([Neutral] 実を言うと) `The fact is,` I don't have enough money.
 
 ## 認識
-
 - [ ] `It's like O`                         ([Casual] まるでOのようだ) `It's like a dream come true.`
 - [ ] `It's more like S V`                  ([Casual] どちらかと言えば～だ) `It's more like` a suggestion than an order.
 - [ ] `It's just that S V`                  ([Casual] ただ～なだけなんだ) `It's just that` I was busy, so I couldn't reply.
@@ -95,7 +89,6 @@
 - [ ] `I see you have V`                    ([Neutral] ～したようだね) `I see you have` finished the report early.
 
 ## 願望/希望
-
 - [ ] `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
 - [ ] `I'm fine with O`                     ([Casual] Oで大丈夫／Oで構わない) `I'm fine with either option,` so go ahead and choose.
 - [ ] `I'm more than happy to V`            ([Casual] 喜んで～する) `I'm more than happy to` help you with the project.
@@ -105,7 +98,6 @@
 - [ ] `I'm trying to V`                     ([Neutral] ～してるから邪魔しないで) `I'm trying to` finish the report by tomorrow.
 
 ## たぶん
-
 - [ ] `Chances are (that) S V`              ([Casual] たぶん〜だろう) `Chances are` she forgot about the meeting.
 - [ ] `It seems like S V`                   ([Neutral] ～のように見える) `It seems like` it’s going to rain soon.
 - [ ] `It seems as if/though S V`           ([Neutral] ～のように見える) `It seems as if` he’s not interested in the proposal.
@@ -121,23 +113,19 @@
 - [ ] `I doubt (that) S V`                  ([Neutral] ～とは思えない／〜は疑わしい) `I doubt that` this plan will work without more resources.
 
 ## わからない
-
 - [ ] `It's up in the air whether S V`      ([Casual] ～かどうかはまだ未定だ) `It's up in the air whether` we'll have the meeting tomorrow.
 - [ ] `I don't know the first thing about O`([Casual] Oについて全く知らない) `I don't know the first thing about` coding.
 - [ ] `I can't say for sure until S V`      ([Neutral] ～までははっきり言えない) `I can't say for sure until we get the test results.`
 
 ## わからないけど提案
-
 - [ ] `It wouldn't hurt to V`               ([Neutral] ～しても損はない) `It wouldn't hurt to` ask for help if you're stuck.
 - [ ] `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
 
 ## 訂正
-
 - [ ] `I was just saying`                   ([Casual] ただ言ってただけだよ) `I was just saying,` maybe we should try a different approach.
 - [ ] `That's not to say (that) S V`        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.
 
 ## 感情を乗せる
-
 - [ ] `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
 - [ ] `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
 - [ ] `Now that`                            ([Neutral] いまや) `Now that` things are better, we should talk about the problem.

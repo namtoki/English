@@ -2,7 +2,7 @@
 
 ## 久しぶり
 - [ ] `Hey, stranger!`                      ([Casual] 珍しいね) `Hey, stranger!` Long time no see.
-- [ ] `It's been a while`                   ([Casual] 久しぶり) `It's been a while.` How have you been?
+- [x] `It's been a while`                   ([Casual] 久しぶり) `It's been a while.` How have you been?
 - [ ] `It's been a month since S V`         ([Neutral] S V ぶり) `It's been a month since` we met the last time.
 - [ ] `I haven't seen you in O`             ([Neutral] Oぶり) `I haven't seen you in` a month.
 
@@ -31,7 +31,7 @@
 ## 理解した
 - [ ] `Sure thing`                          ([Casual] りょ／了解) Can you send me the report? `Sure thing.`
 - [ ] `Fair enough`                         ([Casual] まあ、それもありだね／納得したよ） `Fair enough`, I see your point.
-- [ ] `Makes sense`                         ([Casual] なるほどね／わかるよ) `That explanation makes sense.`
+- [x] `Makes sense`                         ([Casual] なるほどね／わかるよ) `That explanation makes sense.`
 - [ ] `I will do that then`                 ([Casual] じゃあそうします) If you recommend that, `I will do that then.`
 - [ ] `That's what I'll do`                 ([Casual] じゃあそうします) I'll follow your advice. `That's what I'll do.`
 
@@ -57,20 +57,20 @@
 - [ ] `Anytime`                             ([Casual] いつでもどうぞ) Thanks for your help. `Anytime!`
 - [ ] `No problem/worries`                  ([Casual] 問題ないよ／気にしないで) Thanks for covering my shift. `No problem.`
 - [ ] `Not at all`                          ([Business / Casual] どういたしまして／とんでもない) Thank you for your help. `Not at all.`
-- [ ] `Don't mention it`                    ([Business] どういたしまして) Thank you for your assistance. `Don't mention it.`
+- [x] `Don't mention it`                    ([Business] どういたしまして) Thank you for your assistance. `Don't mention it.`
 - [ ] `My pleasure`                         ([Formal] どういたしまして) Thank you for your help. `My pleasure.`
 
 ## ポジティブ
-- [ ] `That would be great`                 ([Casual] そうしていただけると嬉しい) If you could send me the files, `that would be great.`
-- [ ] `Good to know`                        ([Casual] 知れてよかった) Thanks for the update. `Good to know.`
+- [x] `That would be great`                 ([Casual] そうしていただけると嬉しい) If you could send me the files, `that would be great.`
+- [x] `Good to know`                        ([Casual] 知れてよかった) Thanks for the update. `Good to know.`
 - [ ] `That's funny`                        ([Casual] おもしろい) `That's funny`, I didn't expect that twist.
 - [ ] `You never know.`                     ([Casual] わからないよ) I'm totally out of ideas. `You never know.` Inspiration can strike anytime.
 - [ ] `Lucky you!`                          ([Casual] うらやましい) You got tickets to the concert? `Lucky you!`
-- [ ] `You flatter me.`                     ([Formal] お世辞でも嬉しいです) `You flatter me`. I’m just doing my job.
+- [x] `You flatter me.`                     ([Formal] お世辞でも嬉しいです) `You flatter me`. I’m just doing my job.
 
 ## ネガティブ
 - [ ] `Not again!`                          ([Casual] またかよ！) `Not again!` I can't believe the internet is down.
-- [ ] `I didn't mean it`                    ([Casual] そういうつもりじゃなかった) `I didn't mean it`; I was just joking.
+- [x] `I didn't mean it`                    ([Casual] そういうつもりじゃなかった) `I didn't mean it`; I was just joking.
 - [ ] `Here we go again`                    ([Casual] また始まったよ) `Here we go again,` another delay in the project.
 - [ ] `There you go again`                  ([Casual] またそれ言ってる／やってるね) `There you go again,` always teasing me.
 - [ ] `That's funny`                        ([Casual] おかしいなぁ) `That's funny,` I thought the meeting was at 3, not 2.

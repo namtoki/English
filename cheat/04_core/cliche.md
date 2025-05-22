@@ -7,7 +7,6 @@
 - [ ] `I always appreciate your business.`  ([Formal] いつもお引き立ていただきありがとうございます) `I always appreciate your business.`
 
 ## 感想
-
 - [ ] `That's really something`             ([Casual] 大したもんだね) Wow, you finished the project early? `That's really something!`
 - [ ] `That's the way it is`                ([Neutral] そういうものだ) Sometimes things don’t go as planned, but `that's the way it is.`
 - [ ] `I will never V again!`               ([Casual] 二度と～しない！) `I will never eat that restaurant's food again!`
@@ -27,7 +26,6 @@
 - [ ] `That's not the way I see it`         ([Neutral] 違う見方をしています) `That's not the way I see it.`
 
 ## 他
-
 - [ ] `Something came up`                   ([Casual] 急な用事ができた) Sorry, I can't make it tonight. `Something came up.`
 - [ ] `I'll get back to you`                ([Casual] 後で連絡するよ) `I'll get back to you` once I have more information.
 - [ ] `I'll let you know`                   ([Casual] 教えるよ／知らせるよ) `I'll let you know` as soon as I find out.
