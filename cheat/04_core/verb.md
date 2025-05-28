@@ -1,14 +1,19 @@
 # VERB
 
+## Favorite
+
+- [ ] `ready to`                            ([Neutral] 準備ができて～する) I'`m ready to` start the meeting.
+- [ ] `be about to`                         ([Neutral] しようとしているところ) I `am about to` go to sleep.
+- [ ] `on the verge of`                     ([Neutral] まさに～しようとしている) I `am on the verge of` going to sleep.
+
+## Others
+
 - [ ] `be clearing up`                      ([Neutral] （天気などが）良くなってきている) The sky seems to `be clearing up` after the rain.
 - [ ] `be/stay/remain on hand`              ([Neutral] 手元にある／利用可能である) We need to `stay on hand` during the event in case of emergencies.
 - [ ] `be in the way`                       ([Neutral] 邪魔になる) Please move your bag; it`’s in the way.`
 - [ ] `be available for hire`               ([Neutral] 有料で利用できる／借りられる) The photographer `is available for hire` this weekend.
 - [ ] `be halfway through`                  ([Neutral] の途中で／半ばを過ぎた) I `was halfway through` dinner when he appeared.
 
-
-- be about to:                                しようとしているところ / I `am about to` go to sleep.
-- be due to:                                  することになっている / She `is due to` have her baby this week.
 - be eager to:                                切望する 中 → 良
 - be going to:                                するつもり / What time `are we going to` be there?
 - be less likely to:                          する確率が低い / `It's less likely to` get broken.
@@ -120,7 +125,6 @@
 - be for:                                     合う / That job `wasn't for` me.
 - be in effect:                               有効である / a severe weather alert `is in effect` for the region as of six A.M.
 - be made up of:                              で構成されている / Our workgroup is made up of people from lots of divisions in our company.
-- be on the verge of ...:                     寸前である 瀕している / Many fragile species are on the verge of extinction.
 - be out of the question:                     Going to the party `is out of the question`!
 - be propped up against:                      立てかけられている
 - be second to none:                          何にも劣らない

@@ -1,0 +1,32 @@
+# POINTS
+
+- どのような？                                  meeting `where` S V
+- 集まって                                      , `with` several team members `gathered`.
+- 瞬間は、タイミングじゃなくてモーメント        many `moments`
+- きつい、は hard じゃない                      `tough`
+- 休憩なしで続けて                              `back-to-back`  (x in a row ... 回数や順序)
+- ちゃんと伝わるように伝える                    `get` my thoughts `across to` the UK members
+- フォーカス                                    This method seems to `be focused just on` detecting if the ear tip is too small.
+- といいつつ                                    `But on the flip side,` it probably can’t detect if the ear tip is too large.
+- 可能性の話しだけどね                          There may be other approaches as well — `this is just one possibility`.
+- 9 割方                                        but if I had to say something, `I’d say with about 90% confidence that` there are no obstacles to
+- たいていできるよ                              `You can generally` understand the objective of each item from its summary.
+- 自分の議題に入りそう                          `I’ll take this one. Let me walk you through it.`
+- できれば、、                                  `I'd prefer to` leave that to the person in charge of defining the specifications.
+- それを念頭に置いて                            `With that in mind,` `I started by` check`ing` the Denon app
+- に関すること                                  And regarding the server-`related matters`,
+
+- 設定した
+  - o `define` the goal as ~~~
+  - x set the goal as ~~~
+- 進めている
+  - `work on`       作業・改善・対応中 (修正・構築・開発などハンズオンな作業)
+  - `proceed with`  手続きを進める、段階を踏んで進行 (会議後の実行、承認後のステップなど)
+- 〇〇するのがいい？
+  - Is 〇〇 the way/path forward?
+- 最近 V してるんだけど、その中で
+  - `I've been V-ing lately, and ,,,`
+    - I've been working on device integration lately, and I happened to notice some unexpected behavior.
+- V するための〇〇、と言いたいとき
+  - `〇〇 that allows you to V` か
+  - `〇〇 lets you V`
