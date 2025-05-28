@@ -30,7 +30,7 @@
 
 ## 理解した
 - [ ] `Sure thing`                          ([Casual] りょ／了解) Can you send me the report? `Sure thing.`
-- [ ] `Fair enough`                         ([Casual] まあ、それもありだね／納得したよ） `Fair enough`, I see your point.
+- [x] `Fair enough`                         ([Casual] まあ、それもありだね／納得したよ） `Fair enough`, I see your point.
 - [x] `Makes sense`                         ([Casual] なるほどね／わかるよ) `That explanation makes sense.`
 - [ ] `I will do that then`                 ([Casual] じゃあそうします) If you recommend that, `I will do that then.`
 - [ ] `That's what I'll do`                 ([Casual] じゃあそうします) I'll follow your advice. `That's what I'll do.`

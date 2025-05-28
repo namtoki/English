@@ -5,6 +5,8 @@
 - [ ] `ready to`                            ([Neutral] 準備ができて～する) I'`m ready to` start the meeting.
 - [ ] `be about to`                         ([Neutral] しようとしているところ) I `am about to` go to sleep.
 - [ ] `on the verge of`                     ([Neutral] まさに～しようとしている) I `am on the verge of` going to sleep.
+- [ ] `be due to`                           ([Neutral] することになっている) She `is due to` have her baby this week.
+- [ ] `be scheduled to`                     ([Neutral] 予定されている) She `is scheduled to` have her baby this week.
 
 ## Others
 
