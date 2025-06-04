@@ -1,30 +1,64 @@
 # EMPHASIS
 
-## 追加
+---
+
+## AND
+
+### ちょい強い文を後に足す
 - [x] `on top of that`                      ([Casual] その上に) `On top of that,` we have to finish early.
-- [ ] `what's more`                         ([Casual] その上／さらに) `What's more,` we managed to finish ahead of schedule.
-- [ ] `what's worse`                        ([Casual] さらに悪いことに) He forgot his keys, and `what's worse,` his phone died.
-- [ ] `to make matters worse`               ([Casual] さらに悪いことに) `To make matters worse,` it started raining during the event.
+- [ ] `what's more`                         ([Neutral] その上／さらに) `What's more,` we managed to finish ahead of schedule.
+- [ ] `what's worse`                        ([Neutral] さらに悪いことに) He forgot his keys, and `what's worse,` his phone died.
+- [ ] `in addition to that`                 ([Formal] それに加えて) `In addition to that,` we’ll need to allocate more resources.
+- [ ] `to make matters worse`               ([Neutral] さらに悪いことに) `To make matters worse,` it started raining during the event.
+
+### 強い文を後に足す
+- [x] `More than anything`                  ([Casual] 何よりも) `More than anything,` I just want things to go back to normal.
 - [ ] `above all`                           ([Neutral] 何よりも) `Above all,` safety must come first.
-- [x] `in particular`                       ([Neutral] 特に) I like Italian food, `in particular,` pasta dishes.
-- [x] `especially`                          ([Neutral] 特に) I love all kinds of music, `especially` jazz.
+- [ ] `Especially when it comes to`         ([Neutral] 特に〜に関しては) `Especially when it comes to` security, we can’t afford any mistakes.
 - [ ] `among other things`                  ([Neutral] とりわけ) I noticed, `among other things`, that he was drunk.
 
+### 強い名詞を後に足す
+- [x] `in particular`                       ([Neutral] 特に) I like Italian food, `in particular,` pasta dishes.
+- [x] `especially`                          ([Neutral] 特に) I love all kinds of music, `especially` jazz.
+
+---
+
+## ALTHOUGH
+
 ## かかわらず
-- [ ] `with all`                            ([Neutral] Oにもかかわらず／Oがあっても) `With all his experience,` he still made a rookie mistake.
-- [ ] `for all`                             ([Neutral] のに) I don't feel happy `for all my success.`
-- [ ] `of all O`                            ([Neutral] 全てのOの中で) `Of all` the candidates, she was the most qualified.
-- [ ] `regardless`                          ([Neutral] それにかかわらず) He went ahead with the plan, `regardless of the risks.`
-- [ ] `despite O`                           ([Neutral] に反して) `Despite` the risk, I would like to proceed with the plan.
-- [ ] `in spite of O`                       ([Neutral] に反して) `In spite of` our compliments, he frowned and turned away. He was so rude.
-- [ ] `however much S V`                    ([Neutral] どれだけしても) `However much` you study, there's always more to learn.
-- [ ] `no matter how much S V`              ([Neutral] どれだけしても) `No matter how much` I study, I can't improve my English.
-- [ ] `in a departure from O`               ([Neutral] から一転して) `In a departure from` his usual manic storytelling pace, director ...
-- [ ] `instead of V-ing`                    ([Neutral] Vする代わりに) We decided to chill at home `instead of` going out.
+- [x] `even though`                         ([Neutral] 〜にも関わらず) `Even though` he’s new to the team, he’s already made a big impact.
+- [x] `in spite of O`                       ([Neutral] に反して) `In spite of` our compliments, he frowned and turned away. He was so rude.
+- [ ] `despite`                             ([Formal] [文語] 〜にもかかわらず) `Despite` the weather, the event went on as planned.
+- [ ] `for all`                             ([Formal] [皮肉] ～にもかかわらず) `For all` her experience, she still struggles with public speaking.
+- [ ] `with all`                            ([Neutral] [文語] Oにもかかわらず／Oがあっても) `With all his experience,` he still made a rookie mistake.
+
+---
+
+## EVEN IF
 
 ## いずれにせよ
+- [ ] `however much S V`                    ([Neutral] どれだけしても) `However much` you study, there's always more to learn.
+- [ ] `regardless`                          ([Neutral] それにかかわらず) He went ahead with the plan, `regardless of the risks.`
+- [ ] `no matter how much S V`              ([Neutral] どれだけしても) `No matter how much` I study, I can't improve my English.
 - [ ] `anyway`                              ([Casual] とにかく／さて) `Anyway,` let’s get back to the main topic.
 - [ ] `in any case`                         ([Neutral] とにかく／いずれにせよ) `In any case,` we should be prepared for any outcome.
+
+---
+
+## UNLIKE
+
+### とは異なり
+- [x] `unlike O`                            ([Neutral] ～とは異なり) `Unlike` his earlier works, this novel is far more political in tone.
+- [ ] `in a departure from O`               ([Neutral] [文語] から一転して) `In a departure from` his usual manic storytelling pace, director ...
+- [ ] `in contrast to O`                    ([Formal] ～とは対照的に) `In contrast to` last year’s conservative strategy, the new plan is far more aggressive.
+- [ ] `breaking from O`                     ([Formal] ～から脱して／逸脱して) `Breaking from` tradition, the company announced a fully remote policy.
+
+### 代わりに
+- [ ] `instead of V-ing`                    ([Neutral] Vする代わりに) We decided to chill at home `instead of` going out.
+- [ ] `rather than V-ing`                   ([Neutral] 〜するよりも) `Rather than` spending money on ads, we focused on word-of-mouth marketing.
+- [ ] `in place of V-ing`                   ([Formal] 〜の代替として) `In place of` hiring more staff, we automated the workflow.
+
+---
 
 ## 謙遜
 - [ ] `if it works for you`                 ([Neutral] それで都合がよければ) We can meet at 3 p.m. tomorrow `if it works for you`.
@@ -58,6 +92,7 @@
 - [x] `as long as S V`                      ([Neutral] する限り) `As long as you are young,` you should experience different things.
 - [ ] `as far as / insofar as S V`          ([Neutral] する範囲では) `As far as I can see,` he will fail the exam again this time.
 - [ ] `when compared to`                    ([Neutral] と比べて) Global emissions could rise 1.1 percent this year `when compared to 2022.`
+- [ ] `of all O`                            ([Neutral] 全てのOの中で) `Of all` the candidates, she was the most qualified.
 
 ## ソフトにする
 - [x] `In my defense,`                      ([Neutral] 言い訳すると) `In my defense,` it was dark and he was a very pretty guy!

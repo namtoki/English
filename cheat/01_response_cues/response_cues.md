@@ -1,13 +1,14 @@
 # RESPONSE CUES
 
 ## 久しぶり
-- [ ] `Hey, stranger!`                      ([Casual] 珍しいね) `Hey, stranger!` Long time no see.
+- [x] `Hey, stranger!`                      ([Casual] 珍しいね) `Hey, stranger!` Long time no see.
 - [x] `It's been a while`                   ([Casual] 久しぶり) `It's been a while.` How have you been?
-- [ ] `It's been a month since S V`         ([Neutral] S V ぶり) `It's been a month since` we met the last time.
-- [ ] `I haven't seen you in O`             ([Neutral] Oぶり) `I haven't seen you in` a month.
+- [x] `It's been a month since S V`         ([Neutral] S V ぶり) `It's been a month since` we met the last time.
+- [x] `I haven't seen you in O`             ([Neutral] Oぶり) `I haven't seen you in` a month.
 
 ## 掛け声
-- [ ] `I know!`                             ([Casual] そうだ！) `I know!` Let’s try that new restaurant tonight.
+- [ ] `I've got it!`                        ([Casual] そうだ！) Wait — `I've got it!` What if we try a rotating schedule?"
+- [ ] `I have an idea!`                     ([Neutral] いい案があるよ！) `I have an idea!` Why don’t we bring in a third-party consultant?
 - [ ] `You know what`                       ([Casual] あのさ) `You know what,` I'm going to get an ice cream cone.
 - [ ] `Here we go`                          ([Casual] さぁ！) `Here we go!` Your dinner is ready! / `Here we go!` That is the building we were talking about.
 - [ ] `Here we go`                          ([Casual] ハイチーズ) Sure! Line up in front of that statue! 3, 2, 1, `here we go`!
@@ -18,22 +19,32 @@
 - [ ] `There we are.`                       ([Casual] よし！) Well, `there we are`. I've finally finished my homework.
 - [ ] `There you go.`                       ([Casual] どうぞ／その調子) I’m going to go for it! / Yeah, `There you go`!
 
-## わかるよ
-- [ ] `I hear you`                          ([Casual] 君の言いたいことはわかるよ) `I hear you`, but we still need to consider the budget.
+## わかるよ (共感)
 - [ ] `I feel you`                          ([Casual] わかるよ) I’m tired of living in the city. Yeah, `I feel you.` I want to move near the mountains.
+- [x] `I get it`                            ([Casual] わかるよ) `I get it.` It's really frustrating when things don’t go your way.
+- [ ] `That must be tough.`                 ([Neutral] それは大変だったね) `That must be tough.` Let me know if there’s anything I can do.
 - [ ] `I see (what you mean)`               ([Casual] その通りです／わかるよ) `I see what you mean about the deadline pressure.`
-- [ ] `I know what you are saying`          ([Casual] わかるよ) `I know what you are saying,` but we need to consider the budget.
 - [ ] `I've been there`                     ([Casual] わかるよ／経験あるよ) `I've been there`; it's not easy to deal with.
 - [ ] `Same here`                           ([Casual] 私もです) I’m tired today. `Same here.`
 - [ ] `So do I`                             ([Casual] 私もです) I love hiking. `So do I.`
 - [ ] `Neither do I`                        ([Casual] 私もです（否定文に対して）) I don't like spicy food. `Neither do I.`
 
-## 理解した
-- [ ] `Sure thing`                          ([Casual] りょ／了解) Can you send me the report? `Sure thing.`
+## わかるけど (反対)
+- [x] `I know what you are saying, but`     ([Casual] わかるよ) `I know what you are saying, but` we need to consider the budget.
+- [ ] `I hear you, but`                     ([Casual] 君の言いたいことはわかるよ) `I hear you, but` we still need to consider the budget.
 - [x] `Fair enough`                         ([Casual] まあ、それもありだね／納得したよ） `Fair enough`, I see your point.
 - [x] `Makes sense`                         ([Casual] なるほどね／わかるよ) `That explanation makes sense.`
+
+## 了解
+- [ ] `You got it.`                         ([Casual] 了解！任せて) `You got it.` I’ll get it done this afternoon.
+- [ ] `Got it.`                             ([Casual] わかったよ) `Got it.` I’ll let them know.
+- [ ] `Sure thing`                          ([Casual] りょ／了解) Can you send me the report? `Sure thing.`
+- [ ] `No problem!`                         ([Casual] 問題ないよ！) `No problem!` I’ll send it over this afternoon.
+- [ ] `Will do.`                            ([Neutral] 了解！やっとくね) `Will do.` I’ll update the report before lunch.
+- [ ] `Absolutely.`                         ([Neutral] もちろん！) `Absolutely.` I’ll take care of it right away.
 - [ ] `I will do that then`                 ([Casual] じゃあそうします) If you recommend that, `I will do that then.`
 - [ ] `That's what I'll do`                 ([Casual] じゃあそうします) I'll follow your advice. `That's what I'll do.`
+- [ ] `You bet.`                            ([Slang] もちろんだよ) Are you coming to the party? `You bet.`
 
 ## 同意
 - [x] `(That's) True`                       ([Casual] たしかに) `(That's) True`, we need to rethink the plan.
@@ -49,9 +60,6 @@
 - [x] `No doubt about it`                   ([Neutral] まったくその通りです) `No doubt about it,` this is the best solution.
 - [ ] `I grant you that`                    ([Formal] それはその通りです) Yeah, that’s true, `I grant you that.`
 - [ ] `I was going to say`                  ([Casual] 言おうと思っていたよ) `I was going to say,` we should check the schedule again.
-
-## うん
-- [ ] `You bet.`                            ([Slang] もちろんだよ) Are you coming to the party? `You bet.`
 
 ## どういたしまして
 - [ ] `Anytime`                             ([Casual] いつでもどうぞ) Thanks for your help. `Anytime!`
