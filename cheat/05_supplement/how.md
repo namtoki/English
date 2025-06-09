@@ -33,3 +33,5 @@
 ## WAY
 - [ ] `at a discount`                       ([Neutral] 割引価格で) The shoes are available `at a discount` this weekend.
 - [ ] `on average`                          ([Neutral] 平均して) `On average,` people sleep about eight hours a night.
+
+- [ ] `followed by`                         ([Neutral] その後) Lightning flashed, `followed by` terribly loud thunder.

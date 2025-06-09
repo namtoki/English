@@ -86,3 +86,4 @@
 - [ ] `Just give it time`                   ([Casual] 時間が解決してくれる) `Just give it time`; things will improve.
 - [ ] `mum's the word`                      ([Casual] 内緒にしてね) `Mum's the word` about the surprise party.
 - [ ] `why`                                 ([Casual] おや／あら) `Why,` I didn’t expect to see you here!
+- [ ] `that's the way S V`                  ([Neutral] このやり方が) `That's the way` I like it. / `That's the way` I prefer it.

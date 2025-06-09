@@ -1,17 +1,5 @@
 # EMPHASIS
 
----
-
-## AND
-
-### ちょい強い文を後に足す
-- [x] `on top of that`                      ([Casual] その上に) `On top of that,` we have to finish early.
-- [ ] `what's more`                         ([Neutral] その上／さらに) `What's more,` we managed to finish ahead of schedule.
-- [ ] `what's worse`                        ([Neutral] さらに悪いことに) He forgot his keys, and `what's worse,` his phone died.
-- [ ] `in addition to that`                 ([Formal] それに加えて) `In addition to that,` we’ll need to allocate more resources.
-- [ ] `to make matters worse`               ([Neutral] さらに悪いことに) `To make matters worse,` it started raining during the event.
-
-### 強い文を後に足す
 - [x] `More than anything`                  ([Casual] 何よりも) `More than anything,` I just want things to go back to normal.
 - [ ] `above all`                           ([Neutral] 何よりも) `Above all,` safety must come first.
 - [ ] `Especially when it comes to`         ([Neutral] 特に〜に関しては) `Especially when it comes to` security, we can’t afford any mistakes.
@@ -93,6 +81,15 @@
 - [ ] `as far as / insofar as S V`          ([Neutral] する範囲では) `As far as I can see,` he will fail the exam again this time.
 - [ ] `when compared to`                    ([Neutral] と比べて) Global emissions could rise 1.1 percent this year `when compared to 2022.`
 - [ ] `of all O`                            ([Neutral] 全てのOの中で) `Of all` the candidates, she was the most qualified.
+- [ ] `in consequence of`                   ([Formal] Oの結果として) Several flights were canceled `in consequence of the strike`.
+- [ ] `as a consequence`                    ([Formal] その結果として) The team didn’t practice enough, and `as a consequence,` they lost the game.
+- [ ] `on the recommendation of`            ([Formal] ～の推薦で) She was hired `on the recommendation of` her former boss.
+- [ ] `in place of O`                       ([Neutral] Oの代わりに) She took notes `in place of` the absent student.
+- [ ] `at the thought of O`                 ([Neutral] を考えると) I tremble with fear `at the thought of an injection.`
+- [ ] `at the sound of O`                   ([Neutral] を聞いて) `At the sound of` the alarm, everyone evacuated.
+- [ ] `as a result of`                      ([Neutral] 因果の間に時間差) `As a result of` his ridiculous venture, he is in danger of going bankrupt.
+- [ ] `in response to`                      ([Neutral] に応えて) The day's agenda was altered `in response to` changes in regulations.
+- [ ] `In accordance with O`                ([Formal] に従って) `In accordance with` Article 7 hereof, the parties waive ...
 
 ## ソフトにする
 - [x] `In my defense,`                      ([Neutral] 言い訳すると) `In my defense,` it was dark and he was a very pretty guy!
