@@ -20,6 +20,7 @@
 ### 主張
 - [ ] `It makes sense for A to B, and...`   ([Neutral] A が B するのが理にかなっている) [Link](../../output/business/20250605.md)
 - [ ] `It's only natural that A B, and...`  ([Neutral] A が B するのが自然でしょうね) `It’s only natural that` the product owner defines the requirements, and the development team implements them.
+- [ ] `feel`                                ([Neutral] 感じられる) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#FEEL)
 
 ### 妥協
 - [ ] `That's the way it is`                ([Neutral] そういうものだ) Sometimes things don’t go as planned, but `that's the way it is.`
@@ -44,6 +45,7 @@
 ## 状況説明
 
 - [ ] `Something came up`                   ([Casual] 急な用事ができた) Sorry, I can't make it tonight. `Something came up.`
+- [ ] `pop up`                              ([Casual] 突然現れる) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#POPUP)
 
 ---
 

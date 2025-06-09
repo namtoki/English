@@ -38,6 +38,9 @@
 - [ ] `O in one's XXs`                      ([Neutral] 〜代) Some of her first students are `new in their 20s.`
 - [ ] `O to go`                             ([Neutral] 残りの O) `We have ten minutes to go.`
 
+---
+
+- [ ] `strongest example of O`              ([Neutral] O の最たる例) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#STRONGESTEXAMPLE)
 
 
 - `what I meant`                                (言いたかったこと) / `What I meant` was, you should do it carefully.
