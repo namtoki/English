@@ -41,13 +41,18 @@ And the number of coding boot camp grads went from 18K in 2016 to 60K in 2023.
 
 For a really long time, we as software engineers enjoyed the power that we had in the job market.
 
-An ex meta employee `captures` what some of us started to feel at that time. You felt untouchable.
+An ex meta employee `captures` what some of us started to feel at that time.
 
-And maybe it's because of this `pampering` and `talk of` being a family that I started to subconsciously believe that
-I was more than just an employee. 
+You felt untouchable.
 
-I thought that the fun, laid-back environment and wellness benefits meant that
-they `cared about` us as people and not just hit counts on a spreadsheet.
+And maybe it's because of this `pampering` and `talk of` being a family
+that I started to subconsciously believe that I was more than just an employee.
+
+## LAID-BACK
+## MEANT-THAT
+I thought that the fun, `laid-back` environment and wellness benefits `meant that`
+## AND-NOT-JUST
+they `cared about` us as people `and not just` hit counts on a spreadsheet.
 
 I really `internalized` the company's `grandiose` mission statements
 and the idea that I was part of something that would change the world.
@@ -65,25 +70,21 @@ The 2021 post-pandemic period marked the start of the latest tech jobs bubble, a
 ## STRONGESTEXAMPLE
 What I've noticed is that tech companies are `some of the strongest examples of` herd mentality.
 
-When Google does something
-like hire a ton of people, other tech
-companies tend to follow suit, driving
-the demand further. It's like this
-reinforcing cycle where behavior is
-contagious. Like tech tech executives
-will make decisions based on nothing
-more than the fact that Google's doing
-it and you know Google must know what
-they're doing so we should do it too.
-And the hiring frenzy became so intense
-that Meta hired a bunch of people to do
-absolutely nothing because they wanted
-to hoard the talent for themselves. It's
-like when there's a ton of hype
-surrounding a certain product that you
-don't even necessarily want, but you buy
-anyways because you see everyone else
-doing it. There wasn't a lot of rhyme or
+When Google does something like hire a ton of people, other tech companies tend to `follow suit`, driving the demand further.
+
+It's like this reinforcing cycle where behavior is contagious.
+
+## NOTHING-MORE-THAN-THE-FACT-THAT
+Like tech tech executives will make decisions based on nothing more than the fact that Google's doing it
+and you know Google must know what they're doing so we should do it too.
+
+And the hiring `frenzy` became so intense that Meta hired a bunch of people to do absolutely nothing
+because they wanted to hoard the talent for themselves.
+
+It's like when there's a ton of hype surrounding a certain product that you don't even necessarily want,
+but you buy anyways because you see everyone else doing it.
+
+There wasn't a lot of rhyme or
 reason for these decisions and it was
 only a matter of time before employees
 would have to pay for mistakes that they

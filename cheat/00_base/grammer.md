@@ -1,75 +1,76 @@
 # GRAMMER
 
-## 動詞の時制
+---
 
--    The train arrives at eight.                          `[現在形] 確定した公的な未来 `
--    The couple are marrying next month.                  `[進行形] 進行している私的な未来`
+## VERB
 
-## 名詞の修飾
+### 動詞の時制
+- [ ] The train `arrives` at eight.                         `[現在形] 確定した公的な未来 `
+- [ ] The couple `are marrying` next month.                 `[進行形] 進行している私的な未来`
 
--    同格の that, 関係代名詞の that どっちを使う？
-  -  同格の that: 事実、認識、可能性系統の名詞
+---
+
+## NOUN
+
+### 名詞の修飾
+- [ ] I heard the news `that` he got married.               `[同格の that] 事実、認識、可能性系統の名詞`
+- [ ] The book `that` I read was interesting.               `[関係代名詞の that] 文の一部が省略される`
+
+---
 
 ## 文の繋げ方
 
 ### 並列
-
-- ★  She bought apples `and` oranges.                       `[等位接続詞] 追加（～と～）`
--    He doesn’t like coffee, `nor` does he like tea.        `[等位接続詞] 否定の追加（～も～ない）`
-- ★  You can have tea `or` coffee.                          `[等位接続詞] 選択（または）`
-- ★  She was tired, `so` she went to bed early.             `[等位接続詞] 結果（だから）`
-
-### 結果
-
-- ★  It was `so cold that` we stayed inside.                `[副詞節の that] その結果,,, / ,,,なくらい / 根拠としては,,,`
+- [ ] She bought apples `and` oranges.                      `[等位接続詞] 追加（～と～）`
+- [ ] He doesn’t like coffee, `nor` does he like tea.       `[等位接続詞] 否定の追加（～も～ない）`
+- [ ] You can have tea `or` coffee.                         `[等位接続詞] 選択（または）`
+- [ ] She was tired, `so` she went to bed early.            `[等位接続詞] 結果（だから）`
 
 ### 逆接 / 譲歩 / 対比
+- [ ] I wanted to go, `but` I was too busy.                 `[等位接続詞] しかし (対比)`
+- [ ] It was cold, `yet` she didn’t wear a coat.            `[等位接続詞] しかし (フォーマル / 強調 / 対照)`
+- [ ] `Although` it was cold, she didn’t wear a jacket.     `[従属接続詞] ～だけれども`
+- [ ] `Even though` he was tired, he kept working.          `[従属接続詞] ～だけれども（強調）`
+- [ ] `While` he enjoys sports, she prefers reading.        `[従属接続詞] ～だけれども（対比）`
+- [ ] He likes coffee, `whereas` she prefers tea.           `[従属接続詞] ～である一方で（フォーマル）`
 
-- ★  I wanted to go, `but` I was too busy.                  `[等位接続詞] しかし (対比)`
--    It was cold, `yet` she didn’t wear a coat.             `[等位接続詞] しかし (フォーマル / 強調 / 対照)`
-- ★  `Although` it was cold, she didn’t wear a jacket.      `[従属接続詞] ～だけれども`
-- ★  `Even though` he was tired, he kept working.           `[従属接続詞] ～だけれども（強調）`
-- ★  `While` he enjoys sports, she prefers reading.         `[従属接続詞] ～だけれども（対比）`
--    He likes coffee, `whereas` she prefers tea.            `[従属接続詞] ～である一方で（フォーマル）`
+### 結果
+- [ ] It was `so cold that` we stayed inside.               `[副詞節の that] その結果,,, / ,,,なくらい / 根拠としては,,,`
 
 ### 理由
-
-- ★  I'm glad `that` you enjoyed the party.                 `[副詞節の that] 根拠としては,,,`
-- ★  I stayed home `because` I was sick.                    `[従属接続詞] ～だから（理由を強調する）`
-- ★  `Since` it was raining, we canceled the trip.          `[従属接続詞] ～だから（理由を補足的に伝える）`
-- ★  `Seeing that` he’s tired, let’s finish early.          `[従属接続詞] ～なので（話し言葉で状況を考慮）`
--    `As` she was busy, she couldn't join us.               `[従属接続詞] ～だから（フォーマル / 書き言葉向き）`
-- ★  `Now that` we have finished, we can relax.             `[従属接続詞] 今や～なので（状況が変わった理由）`
--    I stayed home, `for` it was raining.                   `[等位接続詞] ～だから（文語 / フォーマル / 理由）`
+- [ ] I'm glad `that` you enjoyed the party.                `[副詞節の that] 感情や評価の形容詞 (根拠としては,,,)`
+- [ ] I stayed home `because` I was sick.                   `[従属接続詞] ～だから（理由を強調する）`
+- [ ] `Since` it was raining, we canceled the trip.         `[従属接続詞] ～だから（理由を補足的に伝える）`
+- [ ] `Seeing that` he’s tired, let’s finish early.         `[従属接続詞] ～なので（話し言葉で状況を考慮）`
+- [ ] `As` she was busy, she couldn't join us.              `[従属接続詞] ～だから（フォーマル / 書き言葉向き）`
+- [ ] `Now that` we have finished, we can relax.            `[従属接続詞] 今や～なので（状況が変わった理由）`
+- [ ] I stayed home, `for` it was raining.                  `[等位接続詞] ～だから（文語 / フォーマル / 理由）`
 
 ### 目的
-
-- ★  I spoke slowly `so that` he could understand.          `[従属接続詞] ～するために`
+- [ ] I spoke slowly `so that` he could understand.         `[従属接続詞] ～するために`
 
 ### 条件
-
-- ★  `If` it rains, we’ll stay inside.                      `[従属接続詞] もし～なら`
-- ★  You won’t pass `unless` you study.                     `[従属接続詞] ～でない限り`
-- ★  You can go out `as long as` you finish your work.      `[従属接続詞] ～する限り（条件付き）`
+- [ ] `If` it rains, we’ll stay inside.                     `[従属接続詞] もし～なら`
+- [ ] You won’t pass `unless` you study.                    `[従属接続詞] ～でない限り`
+- [ ] You can go out `as long as` you finish your work.     `[従属接続詞] ～する限り（条件付き）`
 
 ### 挿入
-
-- ★  The project`, I believe,` will be completed on time.   `[that 節をとる S+V] 前後にカンマを置いて挿入表現となる`
+- [ ] The project`, I believe,` will be completed on time.  `[that 節をとる S+V] 前後にカンマを置いて挿入表現となる`
 
 ### 時間
+- [ ] Call me `when` you arrive.                            `[従属接続詞] ～するとき`
+- [ ] I listened to music `while` studying.                 `[従属接続詞] ～している間`
+- [ ] Call me `as soon as` you get home.                    `[従属接続詞] ～するとすぐに`
+- [ ] `Once` I get home, I'll call you.                     `[従属接続詞] ～したらすぐに（ややフォーマル / 文語）`
+- [ ] I'll call you `the moment` I arrive.                  `[従属接続詞] ～した瞬間に`
+- [ ] She left `the minute` she finished work.              `[従属接続詞] ～した瞬間に（よりカジュアル）`
+- [ ] Call me `the second` you hear the news.               `[従属接続詞] ～した瞬間に（カジュアル）`
+- [ ] Call me `the second` you hear the news.               `[従属接続詞] ～した瞬間に（カジュアル）`
+- [ ] `On arriving` at the airport, she called her parents. `[前置詞] On V-ing で 〜するとすぐに(フォーマル)`
 
-- ★  Call me `when` you arrive.                             `[従属接続詞] ～するとき`
-- ★  I listened to music `while` studying.                  `[従属接続詞] ～している間`
-- ★  Call me `as soon as` you get home.                     `[従属接続詞] ～するとすぐに`
--    `Once` I get home, I'll call you.                      `[従属接続詞] ～したらすぐに（ややフォーマル / 文語）`
-- ★  I'll call you `the moment` I arrive.                   `[従属接続詞] ～した瞬間に`
--    She left `the minute` she finished work.               `[従属接続詞] ～した瞬間に（よりカジュアル）`
--    Call me `the second` you hear the news.                `[従属接続詞] ～した瞬間に（カジュアル）`
-- ★  Call me `the second` you hear the news.                `[従属接続詞] ～した瞬間に（カジュアル）`
--    `On arriving` at the airport, she called her parents.  `[前置詞] On V-ing で 〜するとすぐに(フォーマル)`
+---
 
 ## GUIDELINE
-
 - ★  There 構文は、新情報をこれから出す合図
   -  新 (が): There is a book on the table. / There is something mysterious about her.
   -  旧 (は): My book is on the table.
@@ -79,7 +80,6 @@
 ---
 
 ## ADJECTIVE
-
 - 限定用法
   - 前置修飾
     - 永久的・一般的 (a responsible man 責任感のある人)                   --- [Noun]
@@ -113,7 +113,6 @@
 - any: 非断定、不特定、開いている感じ                                     --- [Noun]
 
 ## ADVERB
-
 - 接続副詞                                                                --- [Structure]
   - 接続詞のような文を繋ぐ役割は無い / SV. However, SV.
   - 反論系: however,yet,still,all the same,nevertheless,in contrast,,,
@@ -132,13 +131,11 @@
 - a lot (随分と)
 
 ## 文型
-
 - SVOC: S は理由、つまり「S によって」と考えると良い
   - The medicine will make you feel better.
   - The doctor will make you feel better.
 
 ## 不定詞 (未来)
-
 - 不定詞の主語
   - for 人 to V の形で使える
 - 名詞的用法
@@ -164,7 +161,6 @@
 - 前置詞の後に持って来れないが、but to と except to は OK
 
 ## 動名詞 (反復)
-
 - 意味上の主語を直前に付けられる (所有格か目的格)
   - 例
     - She insisted on paying.
@@ -179,7 +175,6 @@
 ## 分詞 -> 形容詞
 
 ## 分詞構文 -> 副詞 (接続詞からの解放)
-
 - 基本
   - (分詞構文, SV.) か (S, 分詞構文, V) の場合
     - 「て」「で」
@@ -202,14 +197,12 @@
     - `The father of two young girls`, he hopes for more gender equality in the future.
 
 ## 否定
-
 - not + 部分 = 全体否定 (either, any, ever)
 - not + 全体 = 部分否定 (all, both, always)
 - 決して〜ではない: far from, anything but
 - できるだけ前に出す: I don't think that he is right.
 
 ## 前置詞
-
 - at (一点)
   - 位置 `比較的狭い場所を点、目標として`:     We arrived `at` the station in the morning.
   - 時 `時刻`:                                 The earliest flight departs `at` 8:00 a.m.
@@ -282,7 +275,6 @@
   - 携帯:                                    I have almost no money `with` me now.
   - 付帯状況:                                Don't talk `with` your mouth full.
   - 原因、理由:                              His eyes were glaring `with` excitement.
-
 
 - [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~

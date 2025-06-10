@@ -38,9 +38,15 @@
 - [ ] `O in one's XXs`                      ([Neutral] 〜代) Some of her first students are `new in their 20s.`
 - [ ] `O to go`                             ([Neutral] 残りの O) `We have ten minutes to go.`
 
+## だけじゃなくて
+- [ ] `not only A but also B`               ([Formal] AだけでなくBも) He is `not only` smart `but also` kind.
+- [ ] `not just A but also B`               ([Neutral] AだけじゃなくBも) She speaks `not just` English `but also` Spanish.
+- [x] `and not just A`                      ([Casual] 単にAというだけじゃなく) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#AND-NOT-JUST) They cared about us as people and not just numbers on a spreadsheet.
+
 ---
 
 - [ ] `strongest example of O`              ([Neutral] O の最たる例) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#STRONGESTEXAMPLE)
+- [ ] `nothing more than the fact that S V` ([Neutral] S V というだけの理由) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#NOTHING-MORE-THAN-THE-FACT-THAT)
 
 
 - `what I meant`                                (言いたかったこと) / `What I meant` was, you should do it carefully.

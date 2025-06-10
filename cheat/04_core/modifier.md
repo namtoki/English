@@ -38,3 +38,8 @@
 ## 付け足し
 - [ ] `, each with O`                       ([Neutral] それぞれがOを持っている) Instant cameras, `each with` their own unique shape and design.
 - [ ] `, not just O`                        ([Neutral] O だけじゃなくて) [Link](../../output/business/20250605.md)
+
+---
+
+## どんな？
+- [ ] `laid-back`                           ([Casual] 肩の力が抜けた、リラックスした) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#LAID-BACK)

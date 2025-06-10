@@ -3,6 +3,7 @@
 ---
 
 ## BECAUSE
+- [x] `(adj) that S V`                      ([Neutral] S V なので adj) `I'm glad that` you came.
 - [x] `because S V`                         ([Neutral] S V なので)
 - [x] `because of O`                        ([Neutral] Oのせいで／Oのおかげで) The flight was delayed `because of the weather`.
 - [ ] `since S V`                           ([Neutral] S V なので)
@@ -19,6 +20,8 @@
 - [x] `so`                                  ([Casual] だから) It was raining, `so` we stayed indoors.
 - [x] `that's why`                          ([Neutral] だから) `That's why` I suggested starting earlier.
 - [x] `as a result`                         ([Neutral] [客観] その結果) He didn't work hard and, `as a result,` he failed in the exam.
+- [x] `meant that`                          ([Casual] だから) Their support `meant that` we could continue the project.
+- [ ] `, V-ing (動名詞)`                    ([Neutral] その結果) The boy stood on the top of the mountain, `looking` at the valley below.
 - [ ] `because of this`                     ([Formal] その結果) I've never been to that place. `Because of this,` I know little about it.
 - [ ] `this is why`                         ([Formal] そう言うわけで) We missed the deadline. `This is why` we need better planning.
 - [ ] `for that reason`                     ([Formal] [文語] その理由で) `For that reason,` we decided to postpone the meeting.

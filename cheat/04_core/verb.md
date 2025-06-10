@@ -1,5 +1,7 @@
 # VERB
 
+- [ ] `follow suit`                         ([Neutral] 他の人の行動に従う) When one airline lowers its prices, the others usually `follow suit`.
+
 ## Favorite
 
 - [ ] `ready to`                            ([Neutral] 準備ができて～する) I'`m ready to` start the meeting.
