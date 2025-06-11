@@ -2,6 +2,18 @@
 
 ---
 
+## STRUCTURE
+- ★  There 構文は、新情報をこれから出す合図
+  -  新 (が): There is a book on the table. / There is something mysterious about her.
+  -  旧 (は): My book is on the table.
+-    受動態は極力使用しないほうがいいが、動作主が一般の人々の場合、動作主が自明の場合、強調したい場合、被害、感情は例外
+-    関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
+- SVOC: S は理由、つまり「S によって」と考えると良い
+  - The medicine will make you feel better.
+  - The doctor will make you feel better.
+
+---
+
 ## VERB
 
 ### 動詞の時制
@@ -18,7 +30,81 @@
 
 ---
 
-## 文の繋げ方
+## ADJECTIVE
+- [ ] `限定用法`/                                           `羅列する際、and は任意`
+- [ ] 限定用法/`前置修飾`                                   `永久的・一般的` (a responsible man 責任感のある人)
+- [ ] 限定用法/前置修飾/`範囲や程度`                        `冠詞の前にでしゃばりる。` all,both,half,twice,such,quite,,,
+- [ ] 限定用法/前置修飾/`数量表現`                          `〜する人がいる。英語では数量表現を主語で表す傾向あり。` Many, Some, Few,,,
+- [ ] 限定用法/前置修飾/`some`                              `ハッキリとはわからなくても、あるものが少し存在することは断定できる`
+- [ ] 限定用法/前置修飾/`any`                               `非断定、不特定、開いている感じ`
+- [ ] 限定用法/`後置修飾`                                   `一時的・具体的` (the man responsible 責任を負うべき人)
+- [ ] 限定用法/後置修飾/`those+adj`                         `お決まりパターン1` those involved,,,
+- [ ] 限定用法/後置修飾/`some...+adj`                       `お決まりパターン2` something hot to drink,,,
+- [ ] `叙述用法`/                                           `羅列する際、and は必須`
+- [ ] `名詞化/the+adj`                                      `特定のグループ` (the old, the young, the rich,,,)
+
+---
+
+## 不定詞 (未来)
+- [ ] `不定詞`/
+- [ ] 不定詞/`主語`                                         `for 人 to V`
+- [ ] 不定詞/`名詞的用法`                                   `主語に使うと諺っぽいので、仮主語it か動名詞を使う` It is rude to send text messages...
+- [ ] 不定詞/`形容詞的用法`/
+- [ ] 不定詞/形容詞的用法/`to の前を主語とする`             `S to V` I have no friends to help me.
+- [ ] 不定詞/形容詞的用法/`to の前を目的語とする`           `O to V` I have no friends to help.
+- [ ] 不定詞/形容詞的用法/`to の前を同格とする`             `抽象名詞が多め` He has the ability to do the work.
+- [ ] 不定詞/`副詞的用法`/                                  `not to, to adv V もあり`
+- [ ] 不定詞/副詞的用法/`目的`                              That guy wants to go there to be popular with girls. / for は用途: a tool for cutting wood
+- [ ] 不定詞/副詞的用法/`目的`                              `not to は注意を呼びかける時しか使えない` (be careful not to,,,)
+- [ ] 不定詞/副詞的用法/`目的`                              `明確にするために in order to や so as to にすることもある`
+- [ ] 不定詞/副詞的用法/`結果`                              `live, grow up, wake up,,,` Shibusawa Eiichi lived to be ninety-one years old.
+- [ ] 不定詞/副詞的用法/`結果`                              `only to` I hurried to the station only to find that the train had already left.
+  - 感情の原因:   I was surprised to learn that he is a comedian.         --- [Structure]
+  - 判断の根拠:   You must be mad to send him 30 emails a day.            --- [Structure]
+  - 限定 (範囲):  It may be too late to change our departure date.        --- [Structure]
+  - 限定 (点):    This dictionary is difficult for me to read wo glasses. --- [Structure]
+  - 仮定法の条件:
+- 前置詞の後に持って来れないが、but to と except to は OK
+
+## 動名詞 (反復)
+- 意味上の主語を直前に付けられる (所有格か目的格)
+  - 例
+    - She insisted on paying.
+    - She insisted on his/him paying.
+  - 意味上の主語が代名詞ではない場合は、目的格が好まれる
+    - Eliot doesn't like his girlfriend telling him how to dress.
+  - 動名詞が主語の場合は所有格
+    - His moving to Dubai was a surprise to all of us.
+  - There is 構文も
+    - My sister complained about there being little furniture in her room.
+
+## 分詞 -> 形容詞
+
+## 分詞構文 -> 副詞 (接続詞からの解放)
+- 基本
+  - (分詞構文, SV.) か (S, 分詞構文, V) の場合
+    - 「て」「で」
+      - 時 (するとき、して): Looking around the room, can you see what changed?
+      - 理由 (なので):       Recently discovered, the fossils are being examined by; a team of researchers.
+      - 主語の説明:          Neil Armstrong, being the 1st person to walk on the moon, is one of ~~.
+  - (SV, 分詞構文) の場合
+    - 「そして」             The boy stood on the top of the mountain, looking at the valley below.
+    - 「しながら」           The bee flew from one flower to another collecting pollen.
+- 意味上の主語 (主節の主語と違うときに付与されるが、あえて置かないこともある)
+  - The rain beginning to fall, Haruto entered the cafe.
+  - The car washed, Ren went to the airport.
+  - There being no objection, they ended the meeting early.
+- 応用
+  - 条件 (すれば), 譲歩 (だけど) は超稀
+    - 稀すぎて頭に接続詞をつける形になることもある
+      - `If` attending the meeting for the first time, be prepared to give a shot self-introduction.
+  - being が省略されることがあるため、いきなり形容詞や名詞で始まる分子構文もある
+    - `Confident` that he was the most qualified of all the candidates, ABC Daily Voice hired him as the new chief editor.
+    - `The father of two young girls`, he hopes for more gender equality in the future.
+
+---
+
+## CONJUNCTION
 
 ### 並列
 - [ ] She bought apples `and` oranges.                      `[等位接続詞] 追加（～と～）`
@@ -70,48 +156,6 @@
 
 ---
 
-## GUIDELINE
-- ★  There 構文は、新情報をこれから出す合図
-  -  新 (が): There is a book on the table. / There is something mysterious about her.
-  -  旧 (は): My book is on the table.
--    受動態は極力使用しないほうがいいが、動作主が一般の人々の場合、動作主が自明の場合、強調したい場合、被害、感情は例外
--    関係代名詞の先行詞がはっきりしないとか複雑になっている場合、先行詞を明確にするために、the の変わりに that や those が使われることがある
-
----
-
-## ADJECTIVE
-- 限定用法
-  - 前置修飾
-    - 永久的・一般的 (a responsible man 責任感のある人)                   --- [Noun]
-    - 冠詞の前にでしゃばり
-      - all,both,half,twice,double,such,quite,what,,, twice the number of --- [Noun] 範囲や程度を修飾したい
-    - 〜する人が多いパターン (英語では数量表現を主語で表す傾向がある)     --- [Structure]
-      - Many people + V...
-      - Some people + V...
-      - Few people + V...
-      - More and more people + V...
-      - Fewer and fewer people + V...
-  - 後置修飾
-    - 一時的・具体的 (the man responsible 責任を負うべき人)               --- [Noun]
-      - お決まりパターンは以下
-        - な人々: those+adj (those involved,,,)                           --- [Noun]
-        - なもの: some...+adj (something hot to drink,,,)                 --- [Noun]
-  - 名詞化
-    - the+adj (the old, the young, the rich,,,)                           --- [Noun] 特定のグループ
-  - 専門
-    - 限定・強調: only,sole,mere,lone,very,main,chief,,,
-    - 比較関係: elder,former,latter,upper,,,
-    - 内外: indoor,outdoor,inner,outer,urban,rural,,,
-    - 現状・時間: live,daily,weekly,monthly,yearly,,,
-  - and は任意
-- 叙述用法
-  - 専門
-    - a...: alike,alive,alone,asleep,awake,afraid,,,
-    - 感情・体調: content,glad,,,
-  - and は必須
-- some: ハッキリとはわからなくても、あるものが少し存在することは断定できる--- [Noun]
-- any: 非断定、不特定、開いている感じ                                     --- [Noun]
-
 ## ADVERB
 - 接続副詞                                                                --- [Structure]
   - 接続詞のような文を繋ぐ役割は無い / SV. However, SV.
@@ -130,77 +174,13 @@
 - 同格用法: (here at Shin-Osaka, the number here in London,,,)
 - a lot (随分と)
 
-## 文型
-- SVOC: S は理由、つまり「S によって」と考えると良い
-  - The medicine will make you feel better.
-  - The doctor will make you feel better.
-
-## 不定詞 (未来)
-- 不定詞の主語
-  - for 人 to V の形で使える
-- 名詞的用法
-  - 主語に名詞的用法を使うとことわざっぽいので、仮主語it か動名詞を使う   --- [Structure]
-    - It is rude to send text messages from your phone when someone is making a presentation.
-- 形容詞的用法
-  - S to V: I have no friends to help me.
-  - O to V: I have no friends to help.
-  - 同格:   He has the ability to do the work. (抽象名詞が多め)
-- 副詞的用法 (not to, to adv V もあり)
-  - 目的:         That guy wants to go there to be popular with girls.    --- [Structure]
-    - for は用途: a tool for cutting wood
-    - not to は注意を呼びかける時しか使えない (be careful not to,,,)
-    - 明確にするために in order to や so as to にすることもある
-  - 結果:         Shibusawa Eiichi lived to be ninety-one years old.      --- [Structure]
-    - SV only to: I hurried to the station only to find that the train had already left.
-    - SV never to:
-  - 感情の原因:   I was surprised to learn that he is a comedian.         --- [Structure]
-  - 判断の根拠:   You must be mad to send him 30 emails a day.            --- [Structure]
-  - 限定 (範囲):  It may be too late to change our departure date.        --- [Structure]
-  - 限定 (点):    This dictionary is difficult for me to read wo glasses. --- [Structure]
-  - 仮定法の条件:
-- 前置詞の後に持って来れないが、but to と except to は OK
-
-## 動名詞 (反復)
-- 意味上の主語を直前に付けられる (所有格か目的格)
-  - 例
-    - She insisted on paying.
-    - She insisted on his/him paying.
-  - 意味上の主語が代名詞ではない場合は、目的格が好まれる
-    - Eliot doesn't like his girlfriend telling him how to dress.
-  - 動名詞が主語の場合は所有格
-    - His moving to Dubai was a surprise to all of us.
-  - There is 構文も
-    - My sister complained about there being little furniture in her room.
-
-## 分詞 -> 形容詞
-
-## 分詞構文 -> 副詞 (接続詞からの解放)
-- 基本
-  - (分詞構文, SV.) か (S, 分詞構文, V) の場合
-    - 「て」「で」
-      - 時 (するとき、して): Looking around the room, can you see what changed?
-      - 理由 (なので):       Recently discovered, the fossils are being examined by; a team of researchers.
-      - 主語の説明:          Neil Armstrong, being the 1st person to walk on the moon, is one of ~~.
-  - (SV, 分詞構文) の場合
-    - 「そして」             The boy stood on the top of the mountain, looking at the valley below.
-    - 「しながら」           The bee flew from one flower to another collecting pollen.
-- 意味上の主語 (主節の主語と違うときに付与されるが、あえて置かないこともある)
-  - The rain beginning to fall, Haruto entered the cafe.
-  - The car washed, Ren went to the airport.
-  - There being no objection, they ended the meeting early.
-- 応用
-  - 条件 (すれば), 譲歩 (だけど) は超稀
-    - 稀すぎて頭に接続詞をつける形になることもある
-      - `If` attending the meeting for the first time, be prepared to give a shot self-introduction.
-  - being が省略されることがあるため、いきなり形容詞や名詞で始まる分子構文もある
-    - `Confident` that he was the most qualified of all the candidates, ABC Daily Voice hired him as the new chief editor.
-    - `The father of two young girls`, he hopes for more gender equality in the future.
-
 ## 否定
 - not + 部分 = 全体否定 (either, any, ever)
 - not + 全体 = 部分否定 (all, both, always)
 - 決して〜ではない: far from, anything but
 - できるだけ前に出す: I don't think that he is right.
+
+---
 
 ## 前置詞
 - at (一点)
@@ -275,6 +255,8 @@
   - 携帯:                                    I have almost no money `with` me now.
   - 付帯状況:                                Don't talk `with` your mouth full.
   - 原因、理由:                              His eyes were glaring `with` excitement.
+
+---
 
 - [comparative] 最上級を強める:                 前から (`very`, much, `by far`, far and away), 後ろから (`possible`)
 - [comparative] 比較級を強める:                 much, by far, far, `even`, still, a lot, somewhat, a (little) bit, ~~too~~

@@ -15,6 +15,7 @@
 - [x] `O-wise`                              ([Casual] Oに関しては) `Time-wise,` we’re on schedule.
 - [x] `as for O`                            ([Neutral] Oについて言えば) `As for the budget,` we’ll need to make some adjustments.
 - [x] `when it comes to O`                  ([Neutral] Oのこととなると) `When it comes to teamwork,` communication is everything.
+- [ ] `Especially when it comes to`         ([Neutral] 特に〜に関しては) `Especially when it comes to` security, we can’t afford any mistakes.
 - [ ] `about O`                             ([Neutral] Oについてなんだけど) `About the meeting tomorrow,` can we reschedule it?
 - [x] `regarding O`                         ([Formal] Oに関して) `Regarding your proposal,` we’ll get back to you by Friday.
 - [ ] `concerning O`                        ([Formal] Oに関して) `Concerning the recent update,` there are a few issues to address.

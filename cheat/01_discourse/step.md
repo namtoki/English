@@ -42,6 +42,9 @@
 - [ ] `to make matters worse`               ([Casual] さらに悪いことに) `To make matters worse,` it started raining during the event.
 - [x] `on top of that`                      ([Neutral] その上に) `On top of that,` we have to finish early.
 - [ ] `in addition to that`                 ([Formal] それに加えて) `In addition to that,` we’ll need to allocate more resources.
+- [x] `More than anything`                  ([Casual] 何よりも) `More than anything,` I just want things to go back to normal.
+- [ ] `above all`                           ([Neutral] 何よりも) `Above all,` safety must come first.
+- [ ] `among other things`                  ([Neutral] とりわけ) I noticed, `among other things`, that he was drunk.
 
 ---
 

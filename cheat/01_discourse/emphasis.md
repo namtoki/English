@@ -1,30 +1,18 @@
 # EMPHASIS
 
-- [x] `More than anything`                  ([Casual] 何よりも) `More than anything,` I just want things to go back to normal.
-- [ ] `above all`                           ([Neutral] 何よりも) `Above all,` safety must come first.
-- [ ] `Especially when it comes to`         ([Neutral] 特に〜に関しては) `Especially when it comes to` security, we can’t afford any mistakes.
-- [ ] `among other things`                  ([Neutral] とりわけ) I noticed, `among other things`, that he was drunk.
-
-### 強い名詞を後に足す
-- [x] `in particular`                       ([Neutral] 特に) I like Italian food, `in particular,` pasta dishes.
-- [x] `especially`                          ([Neutral] 特に) I love all kinds of music, `especially` jazz.
-
 ---
 
-## ALTHOUGH
-
-## かかわらず
+## 逆接
+- [ ] `although`                            ([Neutral] 〜にも関わらず)
 - [x] `even though`                         ([Neutral] 〜にも関わらず) `Even though` he’s new to the team, he’s already made a big impact.
-- [x] `in spite of O`                       ([Neutral] に反して) `In spite of` our compliments, he frowned and turned away. He was so rude.
+- [ ] `in spite of O`                       ([Formal] に反して) `In spite of` our compliments, he frowned and turned away. He was so rude.
 - [ ] `despite`                             ([Formal] [文語] 〜にもかかわらず) `Despite` the weather, the event went on as planned.
 - [ ] `for all`                             ([Formal] [皮肉] ～にもかかわらず) `For all` her experience, she still struggles with public speaking.
-- [ ] `with all`                            ([Neutral] [文語] Oにもかかわらず／Oがあっても) `With all his experience,` he still made a rookie mistake.
+- [ ] `with all`                            ([Formal] [文語] Oにもかかわらず／Oがあっても) `With all his experience,` he still made a rookie mistake.
 
 ---
 
 ## EVEN IF
-
-## いずれにせよ
 - [ ] `however much S V`                    ([Neutral] どれだけしても) `However much` you study, there's always more to learn.
 - [ ] `regardless`                          ([Neutral] それにかかわらず) He went ahead with the plan, `regardless of the risks.`
 - [ ] `no matter how much S V`              ([Neutral] どれだけしても) `No matter how much` I study, I can't improve my English.
@@ -33,13 +21,13 @@
 
 ---
 
-## UNLIKE
-
 ### とは異なり
 - [x] `unlike O`                            ([Neutral] ～とは異なり) `Unlike` his earlier works, this novel is far more political in tone.
 - [ ] `in a departure from O`               ([Neutral] [文語] から一転して) `In a departure from` his usual manic storytelling pace, director ...
 - [ ] `in contrast to O`                    ([Formal] ～とは対照的に) `In contrast to` last year’s conservative strategy, the new plan is far more aggressive.
 - [ ] `breaking from O`                     ([Formal] ～から脱して／逸脱して) `Breaking from` tradition, the company announced a fully remote policy.
+
+---
 
 ### 代わりに
 - [ ] `instead of V-ing`                    ([Neutral] Vする代わりに) We decided to chill at home `instead of` going out.

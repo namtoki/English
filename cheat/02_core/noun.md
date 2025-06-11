@@ -83,3 +83,7 @@
 - `each and every`              ひとつひとつの              `each and every one of` these questions
 - `scorching`                   焼きつくような              It's `scorching hot` today.
 - `boiling`                     うだるような                This room is `boiling hot`.
+### 強い名詞を後に足す
+- [x] `in particular`                       ([Neutral] 特に) I like Italian food, `in particular,` pasta dishes.
+- [x] `especially`                          ([Neutral] 特に) I love all kinds of music, `especially` jazz.
+

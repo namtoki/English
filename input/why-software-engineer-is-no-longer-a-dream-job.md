@@ -84,74 +84,54 @@ because they wanted to hoard the talent for themselves.
 It's like when there's a ton of hype surrounding a certain product that you don't even necessarily want,
 but you buy anyways because you see everyone else doing it.
 
-There wasn't a lot of rhyme or
-reason for these decisions and it was
-only a matter of time before employees
-would have to pay for mistakes that they
-didn't make. I was teaching at a coding
-boot camp during this time and I
-personally witnessed nearly every
-student in the co cohort land a job
-right before or right after graduating
-from a 12-week boot camp. Everyone was
-saying learn to code because at that
-time it was genuinely good advice.
-People were literally doubling their
-salaries after a 3-month boot camp. And
-you don't get that kind of ROI anywhere
-else. myself and everyone I knew in my
-network were getting recruiter calls and
-emails on a daily basis and everyone was
-leaving their current role for a massive
-salary bump. But little did we know that
-this bubble was about to
-burst. 2023 was the worst year for
-Silicon Valley since the dotcom crash
-with over
-260,000 jobs disappearing seemingly
-overnight. As pandemic era restrictions
-started to lift and people rushed to go
-outside again, tech execs suddenly
-realized that they had massively
-overhired. Pelaton's stock dropped
-faster than most people ditched their
-New Year's resolutions. Amazon hired at
-really elevated levels during the
-pandemic era, and they're still learning
-that they're having to unwind that level
-of hiring because the economy they find
-themselves in now has changed. Because
-of the high interest rates, companies
-and investors were no longer interested
-in putting money into moonshot ideas.
-They wanted a return on investment and
-they wanted it fast. In the division I
-worked for, we stopped working on
-experimental projects that cost money in
-the short term but had the potential to
-grow into something big in the future.
-We went back to maintaining the legacy
-systems, which was boring, but at least
-it was a safe revenue generator. And
-because the cost of borrowing was so
-high, investors wanted a short-term,
-surefire return on their investment. And
-what's one of the fastest ways to do
-that? Mass layoffs. They started in
-2023, and as we all know, they're still
-happening today. Each layoff made it
-easier for the next company to do
-layoffs because, hey, everyone else was
-doing it. And like I mentioned before,
-there is that herd mentality that comes
-into play. And while it sucks for the
-affected employees, Wall Street
-continues to reward them for doing this.
-In 2023, Meta stock price shot up
-194%, making them the fifth largest tech
-company at the same time that they laid
-off 21,000
-people. It's 2025 and the vibe has
+There wasn't a lot of rhyme or reason for these decisions and
+it was only a matter of time before employees would have to pay for mistakes that they didn't make.
+
+I was teaching at a coding boot camp during this time and
+I personally witnessed nearly every student in the cohort `land a job` right before or right after graduating from a 12-week boot camp.
+
+Everyone was saying learn to code because at that time it was genuinely good advice.
+
+People were literally doubling their salaries after a 3-month boot camp. And you don't get that kind of ROI anywhere else.
+
+myself and everyone I knew in my network were getting recruiter calls and emails on a daily basis and
+everyone was leaving their current role for a massive salary bump.
+
+But little did we know that this bubble was about to burst.
+
+2023 was the worst year for Silicon Valley since the dotcom crash with over 260,000 jobs disappearing seemingly overnight.
+
+As pandemic era restrictions started to lift and people rushed to go outside again, tech execs suddenly realized that they had massively overhired.
+
+Pelaton's stock dropped faster than most people ditched their New Year's resolutions.
+
+Amazon hired at really elevated levels during the pandemic era, and they're still learning that they're having to `unwind` that level of hiring
+because the economy they find themselves in now has changed.
+
+Because of the high interest rates, companies and investors were no longer interested in putting money into moonshot ideas.
+They wanted a return on investment and they wanted it fast.
+
+In the division I worked for,
+we stopped working on experimental projects that cost money in the short term but had the potential to grow into something big in the future.
+
+We went back to maintaining the legacy systems, which was boring, but at least it was a safe revenue generator.
+
+And because the cost of borrowing was so high, investors wanted a short-term, `surefire` return on their investment.
+
+And what's one of the fastest ways to do that? Mass layoffs.
+
+They started in 2023, and as we all know, they're still happening today.
+
+Each layoff made it easier for the next company to do layoffs because, hey, everyone else was doing it.
+
+And like I mentioned before, there is that herd mentality that `comes into play`.
+
+And while it sucks for the affected employees, Wall Street continues to reward them for doing this.
+
+In 2023, Meta stock price shot up 194%, making them the fifth largest tech company at the same time that they laid off 21,000 people.
+
+
+It's 2025 and the vibe has
 completely shifted. Gone are the days of
 extravagant off-site retreats, free
 laundry, and flexible work from home
