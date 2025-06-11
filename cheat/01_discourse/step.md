@@ -27,6 +27,8 @@
 ## 戻す
 - [x] `(going) back to O`                   ([Casual] Oに話を戻すと) `Going back to the main topic,` we still need to finalize the budget.
 - [ ] `Just to circle back to what I said earlier` ([Neutral] 先ほどの話に戻ると) `Just to circle back to what I said earlier,` we still need a clear deadline.
+- [x] `anyway`                              ([Casual] とにかく／さて) `Anyway,` let’s get back to the main topic.
+- [ ] `in any case`                         ([Neutral] とにかく／いずれにせよ) `In any case,` we should be prepared for any outcome.
 
 ---
 

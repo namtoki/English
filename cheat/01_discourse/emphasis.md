@@ -12,12 +12,11 @@
 
 ---
 
-## EVEN IF
+## たとえしても
+- [x] `even if`                             ([Neutral] たとえしても)
 - [ ] `however much S V`                    ([Neutral] どれだけしても) `However much` you study, there's always more to learn.
-- [ ] `regardless`                          ([Neutral] それにかかわらず) He went ahead with the plan, `regardless of the risks.`
 - [ ] `no matter how much S V`              ([Neutral] どれだけしても) `No matter how much` I study, I can't improve my English.
-- [ ] `anyway`                              ([Casual] とにかく／さて) `Anyway,` let’s get back to the main topic.
-- [ ] `in any case`                         ([Neutral] とにかく／いずれにせよ) `In any case,` we should be prepared for any outcome.
+- [ ] `regardless`                          ([Neutral] それにかかわらず) He went ahead with the plan, `regardless of the risks.`
 
 ---
 
@@ -30,7 +29,7 @@
 ---
 
 ### 代わりに
-- [ ] `instead of V-ing`                    ([Neutral] Vする代わりに) We decided to chill at home `instead of` going out.
+- [x] `instead of V-ing`                    ([Neutral] Vする代わりに) We decided to chill at home `instead of` going out.
 - [ ] `rather than V-ing`                   ([Neutral] 〜するよりも) `Rather than` spending money on ads, we focused on word-of-mouth marketing.
 - [ ] `in place of V-ing`                   ([Formal] 〜の代替として) `In place of` hiring more staff, we automated the workflow.
 
@@ -39,6 +38,8 @@
 ## 謙遜
 - [ ] `if it works for you`                 ([Neutral] それで都合がよければ) We can meet at 3 p.m. tomorrow `if it works for you`.
 - [ ] `if you don't mind`                   ([Neutral] よろしければ／差し支えなければ) `If you don't mind,` could I ask you a few questions?
+
+---
 
 ## 的に言うと
 - [ ] `simply put`                          ([Neutral] 簡単に言えば) `Simply put,` we need to improve communication.
@@ -52,9 +53,11 @@
 - [ ] `Now that I think about it`           ([Casual] よく考えたら) `Now that I think about it,` I should text instead.
 - [x] `On second thought`                   ([Casual] 考え直すと) I’ll have a coffee. `On second thought,` I’ll take a tea instead.
 
+---
+
 ## 条件づけ
 - [x] `given that S V`                      ([Casual] を考慮に入れると) `Given that` many city streets in the U.S. have a 45 mph speed limit, ...
-- [ ] `assuming that S V`                   ([Neutral] が事実だとすると) `Assuming that` no voltage is applied from the booster amplifier, ...
+- [x] `assuming that S V`                   ([Neutral] が事実だとすると) `Assuming that` no voltage is applied from the booster amplifier, ...
 - [ ] `considering that S V`                ([Casual] を考慮に入れると) `Considering that` it’s raining, we should take an umbrella.
 - [ ] `in light of O`                       ([Formal] 新事実を考慮に入れると) `In light of` recent events, we have decided to postpone the meeting.
 - [ ] `against this background`             ([Formal] このような背景のもと) `Against this background,` the policy was revised.
@@ -66,7 +69,7 @@
 - [ ] `(let's) say S V`                     ([Neutral] だと仮定すると) `Say` I invest a hundred dollars now, how much will I ...
 - [ ] `let's say O`                         ([Neutral] とりあえず〜としようか) `Let's say dinner at seven. / Let's say Monday at three.`
 - [x] `as long as S V`                      ([Neutral] する限り) `As long as you are young,` you should experience different things.
-- [ ] `as far as / insofar as S V`          ([Neutral] する範囲では) `As far as I can see,` he will fail the exam again this time.
+- [x] `as far as / insofar as S V`          ([Neutral] する範囲では) `As far as I can see,` he will fail the exam again this time.
 - [ ] `when compared to`                    ([Neutral] と比べて) Global emissions could rise 1.1 percent this year `when compared to 2022.`
 - [ ] `of all O`                            ([Neutral] 全てのOの中で) `Of all` the candidates, she was the most qualified.
 - [ ] `in consequence of`                   ([Formal] Oの結果として) Several flights were canceled `in consequence of the strike`.
@@ -78,6 +81,8 @@
 - [ ] `as a result of`                      ([Neutral] 因果の間に時間差) `As a result of` his ridiculous venture, he is in danger of going bankrupt.
 - [ ] `in response to`                      ([Neutral] に応えて) The day's agenda was altered `in response to` changes in regulations.
 - [ ] `In accordance with O`                ([Formal] に従って) `In accordance with` Article 7 hereof, the parties waive ...
+
+---
 
 ## ソフトにする
 - [x] `In my defense,`                      ([Neutral] 言い訳すると) `In my defense,` it was dark and he was a very pretty guy!
