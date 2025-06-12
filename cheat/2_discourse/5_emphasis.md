@@ -35,13 +35,19 @@
 
 ---
 
-## 謙遜
+## 的に言うと
+- [ ] `if anything`                         ([Casual] どちらかと言えば／むしろ) `If anything,` this situation calls for more caution.
+- [ ] `if I had to say/guess`               ([Casual] しいて言うなら／あえて推測するなら) `If I had to guess,` they’ll arrive late.
 - [ ] `if it works for you`                 ([Neutral] それで都合がよければ) We can meet at 3 p.m. tomorrow `if it works for you`.
 - [ ] `if you don't mind`                   ([Neutral] よろしければ／差し支えなければ) `If you don't mind,` could I ask you a few questions?
-
----
-
-## 的に言うと
+- [ ] `if I'm not mistaken`                 ([Neutral] 間違っていなければ) `If I'm not mistaken,` the meeting is at 3 p.m.
+- [ ] `in the first place`                  ([Neutral] そもそも／初めから) I shouldn’t have trusted him `in the first place.`
+- [ ] `to be honest`                        ([Casual] 正直に言うと) `To be honest, I didn’t like the movie.`
+- [ ] `the way I see it`                    ([Casual] 私の考えでは) `The way I see it,` we should focus on quality over quantity.
+- [ ] `Speaking from O`                     ([Neutral] Oから話すと) `Speaking from experience,` I recommend taking it slow.
+- [ ] `personally, in my opinion`           ([Neutral] 個人的には) `Personally, in my opinion, this approach is best.`
+- [x] `at the end of the day`               ([Casual] 結局のところ) `At the end of the day,` what matters is that we tried our best.
+- [ ] `much to the relief of O`             ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
 - [ ] `simply put`                          ([Neutral] 簡単に言えば) `Simply put,` we need to improve communication.
 - [ ] `in a nutshell`                       ([Neutral] 手短に言えば) `In a nutshell,` the project was a success.
 - [x] `Off the top of my head`              ([Formal] 思いつくままに言うと) `Off the top of my head,` I think it's wrong.

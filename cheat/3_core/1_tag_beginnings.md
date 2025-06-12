@@ -1,32 +1,15 @@
-# STANCE
+# TAG BEGINNINGS
 
-## 副詞構文でスタンスを調整
-- [ ] `if anything`                         ([Casual] どちらかと言えば／むしろ) `If anything,` this situation calls for more caution.
-- [ ] `if I had to say/guess`               ([Casual] しいて言うなら／あえて推測するなら) `If I had to guess,` they’ll arrive late.
-- [ ] `if I'm not mistaken`                 ([Neutral] 間違っていなければ) `If I'm not mistaken,` the meeting is at 3 p.m.
-- [ ] `in the first place`                  ([Neutral] そもそも／初めから) I shouldn’t have trusted him `in the first place.`
-- [ ] `to be honest`                        ([Casual] 正直に言うと) `To be honest, I didn’t like the movie.`
-- [ ] `the way I see it`                    ([Casual] 私の考えでは) `The way I see it,` we should focus on quality over quantity.
-- [ ] `Speaking from O`                     ([Neutral] Oから話すと) `Speaking from experience,` I recommend taking it slow.
-- [ ] `personally, in my opinion`           ([Neutral] 個人的には) `Personally, in my opinion, this approach is best.`
-- [x] `at the end of the day`               ([Casual] 結局のところ) `At the end of the day,` what matters is that we tried our best.
-- [ ] `much to the relief of O`             ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
-- [ ] `I hope I'm not interrupting you, but`([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
-- [ ] `I was thinking`                      ([Casual] ちょっと考えてたんだけど) `I was thinking` we could try a different approach.
-- [ ] `I mean,`                             ([Casual] だってさ) `I mean,` it was dark and he was a very pretty guy!
+---
 
-## 意見
+## OPINION
 - [x] `I say S V`                           ([Casual] ～って思う／～しようよ) `I say we take a break and grab some coffee.`
 - [x] `I'd say (that) S V`                  ([Casual] ～だと思うな／～かな) `I'd say this is our best option so far.`
-- [ ] `My concern (for O) is (that) S V`    ([Neutral] （Oに対する）私の懸念は～だ) My `concern` is that the deadline might be too tight.
-- [ ] `I believe in O`                      ([Neutral] Oを信じている) `I believe in the power of teamwork.`
-- [ ] `I believe (that) S V`                ([Neutral] ～だと信じている) `I believe that everyone deserves a second chance.`
+- [ ] `I was thinking`                      ([Casual] ちょっと考えてたんだけど) `I was thinking` we could try a different approach.
+- [ ] `I mean,`                             ([Casual] だってさ) `I mean,` it was dark and he was a very pretty guy!
 - [ ] `I have to say S V`                   ([Neutral] 正直に言うと～だ) `I have to say this turned out better than I expected.`
-- [ ] `It occurs to me that S V`            ([Neutral] ～という考えがふと浮かんだ) `It occurs to me that we haven’t considered the budget yet.`
-- [ ] `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
-- [ ] `be aware that`                       ([Neutral] ～に注意してください) `Be aware that` the deadline is next Friday.
-- [ ] `It's no use V-ing`                   ([Neutral] Vしても無駄だ) `It's no use arguing with someone who won’t listen.`
-- [ ] `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn’t change.`
+- [ ] `It occurs to me that S V`            ([Neutral] ～という考えがふと浮かんだ) `It occurs to me that` we haven’t considered the budget yet.
+
 - [ ] `the reason being that`               ([Neutral] 理由は～だからだ) She declined the offer, `the reason being that` she was too busy.
 - [ ] `this is because`                     ([Neutral] これは～だからだ) The event was canceled. `This is because` of the severe weather.
 - [ ] `I would've thought that S V`         ([Casual] ～だと思っていたよ) `I would've thought that` she’d arrive earlier.
