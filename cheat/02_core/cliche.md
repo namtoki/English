@@ -1,5 +1,9 @@
 # CLICHE
 
+- [ ] `It's been ages since S V`           ([Casual] ～してからずいぶん経つ) `It's been ages since we last hung out.`
+- [ ] `It's been a while since S V`        ([Neutral] ～してからしばらく経つ) `It's been a while since we last met.`
+- [ ] `It's been a long time since S V`    ([Neutral] ～してからかなり経つ) `It's been a long time since we visited that place.`
+
 ---
 
 ## 英会話に便利
