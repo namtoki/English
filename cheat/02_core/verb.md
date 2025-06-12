@@ -9,6 +9,7 @@
 - [ ] `on the verge of`                     ([Neutral] まさに～しようとしている) I `am on the verge of` going to sleep.
 - [ ] `be due to`                           ([Neutral] することになっている) She `is due to` have her baby this week.
 - [ ] `be scheduled to`                     ([Neutral] 予定されている) She `is scheduled to` have her baby this week.
+- [ ] `instead V`                           ([Neutral] 代わりに V する) They're `instead` replaced by the threat of ongoing layoffs and mounting responsibilities.
 
 ## Others
 

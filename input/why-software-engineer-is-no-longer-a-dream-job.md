@@ -1,20 +1,14 @@
 # Why Software Engineer is No Longer A Dream Job
 
 `Remember when` working as a software engineer felt like striking gold?
-
 Free meals, extravagant offsites, crazy stock grants, a $2,000 `vacation stipend`.
-
 This is just a small portion of the `perks` offered by some of the biggest tech companies.
-
 In a few short years, a software engineer went from being the rock stars of the job market
 to being seen as next on the chopping block about to be replaced by artificial intelligence or cheaper overseas labor.
-
 `Despite` record profits, the layoffs `continue to this day`.
-
 Block based in Oakland laying off 240 remote California employees.
 Meta will begin layoffs this week. 5% of its global workforce.
 The tech giant has announced it will cut nearly 3% of its workforce.
-
 How did this happen? And where do we go from here?
 
 ## FEEL
@@ -24,30 +18,21 @@ tech was took the place of where you could actually earn a great salary while ma
 
 Like many of you, I also watched the movie The Social Network and was inspired by the `idea` that
 a couple of dropouts who could code created a billion dollar startup without anyone's permission.
-
 A billion dollar valuation.
-
 Back then, it seemed like there was a never-ending demand for engineers,
 and everyone and their grandma was told to just learn to code.
-
 Don't just play on your phone, program it.
 
 The education system decided to `sell shovels during this gold rush`.
 And from 20 2015 to 2022, CompsAI graduates doubled.
-
 ## POPUP
 Coding boot camps started `popping up` in every major city.
 And the number of coding boot camp grads went from 18K in 2016 to 60K in 2023.
-
 For a really long time, we as software engineers enjoyed the power that we had in the job market.
-
 An ex meta employee `captures` what some of us started to feel at that time.
-
 You felt untouchable.
-
 And maybe it's because of this `pampering` and `talk of` being a family
 that I started to subconsciously believe that I was more than just an employee.
-
 ## LAID-BACK
 ## MEANT-THAT
 I thought that the fun, `laid-back` environment and wellness benefits `meant that`
@@ -56,17 +41,13 @@ they `cared about` us as people `and not just` hit counts on a spreadsheet.
 
 I really `internalized` the company's `grandiose` mission statements
 and the idea that I was part of something that would change the world.
-
 I wasn't just building a messaging app.
 I was changing the way the world communicates.
-
 When you see your other youthful co-workers as friends and you guys are part of this team working towards this amazing mission,
 you don't question working longer hours for lower pay.
-
 And as I'll learn later, this becomes a recipe for exploitation.
 
 The 2021 post-pandemic period marked the start of the latest tech jobs bubble, and it wasn't like anything I've ever seen before.
-
 ## STRONGESTEXAMPLE
 What I've noticed is that tech companies are `some of the strongest examples of` herd mentality.
 
@@ -89,98 +70,52 @@ it was only a matter of time before employees would have to pay for mistakes tha
 
 I was teaching at a coding boot camp during this time and
 I personally witnessed nearly every student in the cohort `land a job` right before or right after graduating from a 12-week boot camp.
-
 Everyone was saying learn to code because at that time it was genuinely good advice.
-
 People were literally doubling their salaries after a 3-month boot camp. And you don't get that kind of ROI anywhere else.
-
 myself and everyone I knew in my network were getting recruiter calls and emails on a daily basis and
 everyone was leaving their current role for a massive salary bump.
-
 But little did we know that this bubble was about to burst.
-
 2023 was the worst year for Silicon Valley since the dotcom crash with over 260,000 jobs disappearing seemingly overnight.
-
 As pandemic era restrictions started to lift and people rushed to go outside again, tech execs suddenly realized that they had massively overhired.
-
 Pelaton's stock dropped faster than most people ditched their New Year's resolutions.
-
 Amazon hired at really elevated levels during the pandemic era, and they're still learning that they're having to `unwind` that level of hiring
 because the economy they find themselves in now has changed.
-
 Because of the high interest rates, companies and investors were no longer interested in putting money into moonshot ideas.
 They wanted a return on investment and they wanted it fast.
-
 In the division I worked for,
 we stopped working on experimental projects that cost money in the short term but had the potential to grow into something big in the future.
-
 We went back to maintaining the legacy systems, which was boring, but at least it was a safe revenue generator.
-
 And because the cost of borrowing was so high, investors wanted a short-term, `surefire` return on their investment.
-
 And what's one of the fastest ways to do that? Mass layoffs.
-
 They started in 2023, and as we all know, they're still happening today.
-
 Each layoff made it easier for the next company to do layoffs because, hey, everyone else was doing it.
-
 And like I mentioned before, there is that herd mentality that `comes into play`.
-
 And while it sucks for the affected employees, Wall Street continues to reward them for doing this.
-
 In 2023, Meta stock price shot up 194%, making them the fifth largest tech company at the same time that they laid off 21,000 people.
+It's 2025 and the vibe has completely shifted.
+Gone are the days of extravagant off-site retreats, free laundry, and flexible work from home arrangements.
+They're `instead` replaced by the threat of ongoing layoffs, return to work mandates, and mounting responsibilities.
+Among the tech giants, Apple, Meta, Tik Tok, and Google have mandated a 3-day return to work policy.
+And Amazon has even required their employees to return to the office full-time.
+Netflix and Google are even `cutting back on` free company `swag`, which kind of surprised me because I didn't even realize people wanted those things.
+But I guess if you're in Silicon Valley, you have got to fit in somehow.
+Meta also cut 5% of its staff earlier this year and publicly called it a performance-based layoff `in a move that` displayed a shocking lack of empathy.
+Not to mention, a lot of the people that they let go apparently received glowing performance reviews.
+Meta not only took away people's jobs, but also destroyed their ability to find another one just so that they could put the blame on someone else.
+Google, who you know understandably is feeling the heat of the competition from generative AI,
+is also putting pressure on their employees to get back into the office.
+Sergey Brin, its founder, even mentioned that a 60-hour week is the sweet spot for productivity in an internal memo.
 
+On top of all of this, AI is also being shoved down our throats from executives who assume they know how to do your job better than you do.
 
-It's 2025 and the vibe has
-completely shifted. Gone are the days of
-extravagant off-site retreats, free
-laundry, and flexible work from home
-arrangements. They're instead replaced
-by the threat of ongoing layoffs, return
-to work mandates, and mounting
-responsibilities. Among the tech giants,
-Apple, Meta, Tik Tok, and Google have
-mandated a 3-day return to work policy.
-And Amazon has even required their
-employees to return to the office
-full-time. Netflix and Google are even
-cutting back on free company swag, which
-kind of surprised me because I didn't
-even realize people wanted those things.
-But I guess if you're in Silicon Valley,
-you have got to fit in somehow. Meta
-also cut 5% of its staff earlier this
-year and publicly called it a
-performance-based layoff in a move that
-displayed a shocking lack of empathy.
-Not to mention, a lot of the people that
-they let go apparently received glowing
-performance reviews. Meta not only took
-away people's jobs, but also destroyed
-their ability to find another one just
-so that they could put the blame on
-someone else. Google, who you know
-understandably is feeling the heat of
-the competition from generative AI, is
-also putting pressure on their employees
-to get back into the office. Sergey
-Brin, its founder, even mentioned that a
-60-hour week is the sweet spot for
-productivity in an internal memo. On top
-of all of this, AI is also being shoved
-down our throats from executives who
-assume they know how to do your job
-better than you do. Shopify's CEO, for
-example, recently released an internal
-memo saying that employees are now
-required to use AI as part of their jobs
-and their AI use will even be a factor
-in their performance reviews. AI tools
-are incredible, and I've advocated for
-their use in countless times in prior
-videos. But I think that making this a
-job requirement to me feels like
-overreach. It signals that you don't
+Shopify's CEO, for example, recently released an internal memo saying that employees are now required to use AI as part of their jobs
+and their AI use will even be a factor in their performance reviews.
+
+AI tools are incredible, and I've advocated for their use in countless times in prior videos.
+
+But I think that making this a job requirement to me feels like overreach.
+
+It signals that you don't
 trust your employees to use their own
 judgment and discern when it's
 appropriate to use AI and when it's not.
