@@ -5,7 +5,7 @@
 ## 過去のいつ頃
 - [ ] `by now`                              (今頃は) You must be hungry `by now`.
 - [ ] `a moment ago`                        (数分前に) She called `a moment ago` from a taxi.
-- [ ] `(just) the other day`                (つい先日) I went there `just the other day`!
+- [x] `(just) the other day`                (つい先日) I went there `just the other day`!
 - [ ] `quite recently`                      (ごく最近)
 - [x] `as of`                               (時点で) `as of` January 2014
 - [ ] `when sb was N`                       (歳で/のときに)
@@ -17,14 +17,14 @@
 ---
 
 ## どんなイベントのとき
+- [x] `N after that`                        (N 経過後に) an hour `after that` / two weeks `after that` / a few years `after that` / Soon `after that,`
+- [x] `as soon as`                          (したらすぐに) `As soon as` I get home, I'll call you.
 - [ ] `once`                                (したらすぐに) Call me `once` you get home.
 - [ ] `upon/on X/doing`                     (X してすぐ) `upon arrival at the company headquarters`
 - [ ] `in the middle of`                    (の最中に) He fell asleep `in the middle of` the sales meeting.
 - [x] `at the same time`                    (同時に) It's hard being the writer and an actor `at the same time.`
 - [ ] `just before N`                       (のちょうど前に) will get home sometime `just before` 9pm.
 - [ ] `just after N`                        (のちょうど後に) will go abroad sometime `just after` Golden Week.
-- [ ] `soon after that`                     (のすぐ後に) I found the root cause finally. `Soon after that,` we took ~~~.
-- [ ] `N after that`                        (N 経過後に) an hour `after that` / two weeks `after that` / a few years `after that`
 
 ---
 

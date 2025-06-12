@@ -6,6 +6,7 @@
 - [x] `as/like S said`                      ([Casual] さっき言ったように) `Like I said,` we’ll have to reschedule the meeting. / `As you said,` ~~
 - [x] `as I mentioned earlier/before,`      ([Formal] 前に申し上げたように) `As I mentioned earlier,` this policy will take effect next month.
 - [ ] `as S anticipated`                    ([Neutral] 予測していた通り) `As we anticipated,` the unemployment rate has risen.
+- [ ] `just as`                             ([Neutral] まさに～のように) `Just as I expected,` the event was a success.
 
 ---
 
