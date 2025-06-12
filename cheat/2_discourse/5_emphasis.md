@@ -36,16 +36,16 @@
 ---
 
 ## 的に言うと
-- [ ] `if anything`                         ([Casual] どちらかと言えば／むしろ) `If anything,` this situation calls for more caution.
-- [ ] `if I had to say/guess`               ([Casual] しいて言うなら／あえて推測するなら) `If I had to guess,` they’ll arrive late.
-- [ ] `if it works for you`                 ([Neutral] それで都合がよければ) We can meet at 3 p.m. tomorrow `if it works for you`.
-- [ ] `if you don't mind`                   ([Neutral] よろしければ／差し支えなければ) `If you don't mind,` could I ask you a few questions?
-- [ ] `if I'm not mistaken`                 ([Neutral] 間違っていなければ) `If I'm not mistaken,` the meeting is at 3 p.m.
-- [ ] `in the first place`                  ([Neutral] そもそも／初めから) I shouldn’t have trusted him `in the first place.`
-- [ ] `to be honest`                        ([Casual] 正直に言うと) `To be honest, I didn’t like the movie.`
-- [ ] `the way I see it`                    ([Casual] 私の考えでは) `The way I see it,` we should focus on quality over quantity.
+- [x] `if anything`                         ([Casual] どちらかと言えば／むしろ) `If anything,` this situation calls for more caution.
+- [x] `if I had to say/guess`               ([Casual] しいて言うなら／あえて推測するなら) `If I had to guess,` they’ll arrive late.
+- [x] `if it works for you`                 ([Neutral] それで都合がよければ) We can meet at 3 p.m. tomorrow `if it works for you`.
+- [x] `if you don't mind`                   ([Neutral] よろしければ／差し支えなければ) `If you don't mind,` could I ask you a few questions?
+- [x] `if I'm not mistaken`                 ([Neutral] 間違っていなければ) `If I'm not mistaken,` the meeting is at 3 p.m.
+- [x] `in the first place`                  ([Neutral] そもそも／初めから) I shouldn’t have trusted him `in the first place.`
+- [x] `to be honest`                        ([Casual] 正直に言うと) `To be honest, I didn’t like the movie.`
+- [x] `the way I see it`                    ([Casual] 私の考えでは) `The way I see it,` we should focus on quality over quantity.
 - [ ] `Speaking from O`                     ([Neutral] Oから話すと) `Speaking from experience,` I recommend taking it slow.
-- [ ] `personally, in my opinion`           ([Neutral] 個人的には) `Personally, in my opinion, this approach is best.`
+- [x] `personally, in my opinion`           ([Neutral] 個人的には) `Personally, in my opinion, this approach is best.`
 - [x] `at the end of the day`               ([Casual] 結局のところ) `At the end of the day,` what matters is that we tried our best.
 - [ ] `much to the relief of O`             ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
 - [ ] `simply put`                          ([Neutral] 簡単に言えば) `Simply put,` we need to improve communication.
@@ -58,6 +58,7 @@
 - [ ] `if you think about it`               ([Casual] 考えてみると) It's crazy how we can communicate like this, `if you think about it.`
 - [ ] `Now that I think about it`           ([Casual] よく考えたら) `Now that I think about it,` I should text instead.
 - [x] `On second thought`                   ([Casual] 考え直すと) I’ll have a coffee. `On second thought,` I’ll take a tea instead.
+- [ ] `no doubt`                            ([Neutral] 疑いなく) `No doubt,` she is the best candidate for the job.
 
 ---
 
@@ -87,6 +88,7 @@
 - [ ] `as a result of`                      ([Neutral] 因果の間に時間差) `As a result of` his ridiculous venture, he is in danger of going bankrupt.
 - [ ] `in response to`                      ([Neutral] に応えて) The day's agenda was altered `in response to` changes in regulations.
 - [ ] `In accordance with O`                ([Formal] に従って) `In accordance with` Article 7 hereof, the parties waive ...
+- [ ] `Now that`                            ([Neutral] いまや) `Now that` things are better, we should talk about the problem.
 
 ---
 

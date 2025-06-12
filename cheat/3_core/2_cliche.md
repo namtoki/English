@@ -1,5 +1,76 @@
 # CLICHE
 
+---
+
+## OPINION
+- [x] `There's a high       chance of O`    ([Neutral] Oの可能性が高い) `There’s a high chance of` rain this evening, so bring an umbrella.
+- [x] `There's a low/little chance of O`    ([Neutral] Oの可能性は低い) `There’s a little chance of` delay, but we’re prepared just in case.
+- [ ] `It might be a good idea to V`        ([Neutral] ～した方がいいかもしれない) `It might be a good idea to` double-check the numbers.
+- [ ] `It wouldn't hurt to V`               ([Neutral] ～しても損はない) `It wouldn't hurt to` ask for help if you're stuck.
+- [ ] `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
+- [ ] `That's not to say (that) S V`        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.
+
+---
+
+## FEELING
+- [ ] `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
+- [ ] `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
+- [ ] `It's up in the air whether S V`      ([Casual] ～かどうかはまだ未定だ) `It's up in the air whether` we'll have the meeting tomorrow.
+- [ ] `I don't know the first thing about O`([Casual] Oについて全く知らない) `I don't know the first thing about` coding.
+- [ ] `I can't say for sure until S V`      ([Neutral] ～までははっきり言えない) `I can't say for sure until we get the test results.`
+
+---
+
+- [ ] `You might wonder O`                  ([Neutral] Oと思うかもしれない) `You might wonder` why we made that decision.
+- [ ] `That's rather unlikely`              ([Neutral] それはあまりなさそうだ) `That's rather unlikely,` given the current circumstances.
+## 願望/希望
+- [ ] `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
+- [ ] `I'm fine with O`                     ([Casual] Oで大丈夫／Oで構わない) `I'm fine with either option,` so go ahead and choose.
+- [ ] `I'm more than happy to V`            ([Casual] 喜んで～する) `I'm more than happy to` help you with the project.
+- [ ] `S V-ing, that'd be C`                ([Casual] Sしてたら、それはCだね) `Working late again, that'd be tiring.`
+- [ ] `I'm trying to V`                     ([Neutral] ～してるから邪魔しないで) `I'm trying to` finish the report by tomorrow.
+
+- [ ] `just because A doesn't mean B`       ([Neutral] AだからといってBとは限らない) `Just because it's raining doesn't mean the event will be canceled.`
+- [ ] `more of`                             ([Neutral] どちらかと言えば〜) `It’s more of` a suggestion than a rule.
+- [ ] `The same is the case with O`         ([Neutral] Oも同様だ) `The same is the case with remote workers.`
+- [ ] `It's a custom to V`                  ([Neutral] ～する習慣がある) `It's a custom to` give gifts during the holidays.
+- [ ] `It's traditional to V`               ([Neutral] ～するのが伝統だ) `It's traditional to` celebrate New Year's with family.
+- [ ] `It depends O`                        ([Neutral] O次第だ／Oによる) `It depends on the weather` whether we go hiking or not.
+- [ ] `There're times when S V`             ([Neutral] ～する時もある) `There're times when` I feel overwhelmed with work.
+- [ ] `got to`                              ([Casual] ～しなきゃ／～しないと) `I’ve got to` finish this by tonight.
+- [ ] `I understand that S V`               ([Neutral] ～ということがわかる) `I understand that` the deadline has been extended.
+- [ ] `I remember S V`                      ([Neutral] ～を覚えている) `I remember` when we first met.
+- [ ] `I see you have V`                    ([Neutral] ～したようだね) `I see you have` finished the report early.
+- [ ] `I'm sure of O`                       ([Neutral] Oに確信がある) `I'm sure of` his abilities to handle the task.
+- [ ] `Of course, I'm sure S V`             ([Neutral] もちろん、～に確信している) `Of course, I'm sure everything will be fine.`
+- [ ] `It goes without saying that S V`     ([Formal] ～は言うまでもなく) `It goes without saying that` safety is our top priority.
+- [ ] `The fact is`                         ([Neutral] 実を言うと) `The fact is,` I don't have enough money.
+
+## 評価
+- [ ] `I don't care for O`                  ([Casual] Oは好きじゃない) `I don't care for` spicy food.
+- [ ] `I'm terrible with O`                 ([Casual] Oがとても苦手だ) `I'm terrible with` directions.
+- [ ] `I can still just about V`            ([Casual] なんとかギリギリ～できる) `I can still just about` make it to the meeting on time.
+- [ ] `I have trouble V-ing`                ([Neutral] ～するのに苦労している) `I have trouble understanding technical documents.`
+- [ ] `I find O C`                          ([Neutral] OがCだと感じる) `I find this book fascinating.`
+- [x] `It's C how S V`                      ([Neutral] S V の仕方が C だ) `It's strange how` quickly things changed.
+- [ ] `S V. That I V`                       ([Neutral] S Vだ。それは私がVだ) `It’s raining. That I don’t mind at all.`
+- [ ] `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
+
+## 確信
+- [ ] `Turns out S V`                       ([Casual] ～ということがわかった) `Turns out she was right all along.`
+
+## 直感
+- [ ] `That sounds like O`                  ([Casual] それはOだね) `That sounds like` a lot of work.
+- [ ] `It feels like O`                     ([Casual] Oのように感じる) `It feels like` everyone is busy these days.
+- [ ] `I feel like C`                       ([Casual] Cな気がする) `I feel like something’s not right here.`
+- [ ] `I feel like O/V-ing`                 ([Casual] Oしたい気がする／～な気がする) `I feel like going for a walk.`
+- [ ] `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
+- [ ] `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
+- [ ] `I feel C`                            ([Neutral] ～だと感じる) `I feel confident` about the upcoming presentation.
+
+- [ ] `any O will do as long as S V`        ([Neutral] S V ならどんなOでもいい) `Any location will do as long as we have Wi-Fi.`
+- [ ] `this is because`                     ([Neutral] これは～だからだ) The event was canceled. `This is because` of the severe weather.
+- [ ] `the reason being that`               ([Neutral] 理由は～だからだ) She declined the offer, `the reason being that` she was too busy.
 - [ ] `It's no use V-ing`                   ([Neutral] Vしても無駄だ) `It's no use arguing with someone who won’t listen.`
 - [ ] `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn’t change.`
 - [ ] `be aware that`                       ([Neutral] ～に注意してください) `Be aware that` the deadline is next Friday.
