@@ -1,5 +1,7 @@
 # VERB
 
+- [ ] `got to`                              ([Casual] ～しなきゃ／～しないと) `I’ve got to` finish this by tonight.
+- [ ] `pop up`                              ([Casual] 突然現れる) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#POPUP)
 - [ ] `follow suit`                         ([Neutral] 他の人の行動に従う) When one airline lowers its prices, the others usually `follow suit`.
 
 ## Favorite

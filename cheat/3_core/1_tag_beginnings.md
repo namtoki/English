@@ -47,3 +47,20 @@
 - [ ] `I doubt (that) S V`                  ([Neutral] ～とは思えない／〜は疑わしい) `I doubt that` this plan will work without more resources.
 
 ---
+
+## ソフトにする
+- [x] `In my defense,`                      ([Neutral] 言い訳すると) `In my defense,` it was dark and he was a very pretty guy!
+- [ ] `If I may explain myself,`            ([Formal] 言い訳しますと) `If I may explain myself,` my comment was not meant to be offensive.
+- [ ] `This might be just me, but`          ([Casual] 自分だけかもしれないけど) `This might be just me, but` I thought the movie was kind of boring.
+- [ ] `Just to be clear,`                   ([Neutral] 誤解のないよう言っておくと) `Just to be clear,` I’m not blaming anyone here.
+- [x] `It may sound like`                   ([Neutral] Oと聞こえるかもだが) `It may sound like I'm being self-centered here, but...`
+- [ ] `You'd think (that) S V, but`         ([Neutral] S V と思うかもしれないですが) `You'd think Japan would be really technologically advanced, but...`
+- [ ] `I hate to admit it, but`             ([Neutral] 認めたくないけど) `I hate to admit it, but` I might need your help.
+- [ ] `Don’t get me wrong, but`             ([Casual] 誤解しないでほしいんだけど) `Don’t get me wrong, but` I think we should try a different approach.
+- [x] `That's a fair point, but`            ([Neutral] それはもっともですが) `That's a fair point, but` we need to consider other factors.
+- [x] `That may be true, but`               ([Neutral] それはもっともですが) `That may be true, but` I have some concerns.
+- [x] `You (may) have a point, but`         ([Neutral] 一理あるね) `You may have a point there, but` I still believe the plan is feasible.
+- [x] `I see your point, but`               ([Neutral] 仰ることは分かります) `I see your point, but` I have a slightly different view.
+- [ ] `With all due respect,`               ([Formal] 失礼を承知の上で言いますが) `With all due respect,` I believe your estimate is overly optimistic.
+
+---
