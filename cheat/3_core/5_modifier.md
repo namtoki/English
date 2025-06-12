@@ -1,5 +1,13 @@
 # MODIFIER
 
+---
+
+## FAVORITE
+- [ ] `, each with O`                       ([Neutral] それぞれがOを持っている) Instant cameras, `each with` their own unique shape and design.
+- [ ] `, not just O`                        ([Neutral] O だけじゃなくて) [Link](../../output/business/20250605.md)
+
+---
+
 ## どれくらいの
 - [ ] `some of O`                           ([Neutral] いくつかのもの) What are `some of` the things that you can say when you don't understand something?
 - [ ] `some kinds of O`                     ([Casual] いくつかのO) Amplify the effects of `some kinds of` pollution.
@@ -27,19 +35,21 @@
 - [ ] `without`                             ([Neutral] ～なしで) She left the house `without` her keys.
 - [ ] `With the exception of`               ([Formal] ～を除いては) `With the exception of` one delay, the project went smoothly.
 
+---
+
 ## 程度を調整
 - [ ] `kind of`                             ([Casual] ちょっと／なんとなく) I’m `kind of` tired today.
 - [ ] `pretty much`                         ([Casual] ほとんど／だいたい) I `pretty much` finished the report.
 - [ ] `somewhat`                            ([Neutral] いくぶん／多少) The results were `somewhat` better than expected.
 
+---
+
 ## 対比
 - [ ] `not so much A as B`                  ([Neutral] AというよりB) It took me a moment to process that I was `not so much angry as sad` that she cheated.
 
-## 付け足し
-- [ ] `, each with O`                       ([Neutral] それぞれがOを持っている) Instant cameras, `each with` their own unique shape and design.
-- [ ] `, not just O`                        ([Neutral] O だけじゃなくて) [Link](../../output/business/20250605.md)
-
 ---
 
-## どんな？
+## 複合形容詞
 - [ ] `laid-back`                           ([Casual] 肩の力が抜けた、リラックスした) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#LAID-BACK)
+
+---
