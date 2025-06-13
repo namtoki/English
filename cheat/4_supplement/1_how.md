@@ -8,8 +8,6 @@
 - [ ] `at the expense of`                   ([Neutral] 犠牲にして) He got promoted `at the expense of` his colleague.
 - [ ] `by heart`                            ([Neutral] 暗記で) First of all, learn the formula `by heart.`
 
----
-
 ## MOTIVATION
 - [ ] `purposely`                           ([Neutral] 故意に) She `purposely` ignored the warning signs.
 - [ ] `on purpose`                          ([Neutral] わざと) He spilled the drink `on purpose.`
@@ -18,14 +16,10 @@
 - [ ] `out of habit`                        ([Casual] 習慣として) I got the Namboku line `out of habit.`
 - [ ] `in support of O`                     ([Neutral] Oを支持して) They organized a rally `in support of` the new policy.
 
----
-
 ## MOVEMENT
 - [ ] `lightly`                             ([Neutral] そっと) She seems angry, you should tread `lightly.`
 - [ ] `back and forth`                      ([Neutral] 行ったり来たり) Bob was pacing `back and forth` along the sidewalk.
 - [ ] `to and fro`                          ([Neutral] 行ったり来たり) I have been traveling `to and fro` between Canada and the U.K for years.
-
----
 
 ## COMPLIMENT
 - [ ] `on and off`                          ([Neutral] 断続的に) It’s been raining `on and off` all day today.
@@ -38,8 +32,6 @@
 - [ ] `at a discount`                       ([Neutral] 割引価格で) The shoes are available `at a discount` this weekend.
 - [ ] `on average`                          ([Neutral] 平均して) `On average,` people sleep about eight hours a night.
 - [ ] `followed by`                         ([Neutral] その後) Lightning flashed, `followed by` terribly loud thunder.
-
----
 
 ## COMPARISON
 - [ ] `better than O`                        ([Neutral] よりもより) I like vanilla `better than chocolate.`

@@ -8,8 +8,6 @@
 - [ ] `as S anticipated`                    ([Neutral] 予測していた通り) `As we anticipated,` the unemployment rate has risen.
 - [ ] `just as`                             ([Neutral] まさに～のように) `Just as I expected,` the event was a success.
 
----
-
 ## トピック
 - [x] `speaking of which/O`                 ([Casual] そういえば／それで思い出したけど) `Speaking of which,` did you hear back from Sarah yet?
 - [ ] `talking of O`                        ([Casual] Oと言えば) `Talking of movies,` have you seen the new Miyazaki film?
@@ -26,8 +24,6 @@
 - [ ] `In V-ing O`                          ([Neutral] Vするプロセスの中で) `In making a decision,` I rely not on logic but on instinct.
 - [ ] `In the course of`                    ([Neutral] の過程で) `In the course of` its economic development, Japan has ...
 
----
-
 ## 観点
 - [ ] `if you ask me`                       ([Casual] 私に言わせれば) `If you ask me, we should start the project sooner.`
 - [x] `from a one's standpoint`             ([Neutral] ～の立場からすると) `From a manager’s standpoint,` this is a good move.
@@ -38,8 +34,6 @@
 - [x] `in that`                             ([Formal] ～という点で) The plan is effective `in that` it reduces costs.
 - [ ] `(More) broadly speaking`             ([Neutral] 広く言えば) `(More) broadly speaking,` this applies to many industries.
 - [ ] `on behalf of O`                      ([Formal] Oを代表して) `On behalf of the team,` I’d like to thank you for your support.
-
----
 
 ## 前の文を条件として
 - [x] `that's how`                          ([Casual] このようにして) `That's how` we met.

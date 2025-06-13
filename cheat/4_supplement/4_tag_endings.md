@@ -14,8 +14,6 @@
 - [x] `, right?`                            ([Casual] ～だよね？) You're coming to the party tonight, `right?`
 - [ ] `, am I right?`                       ([Casual] 〜でしょ？／合ってるよね？) This whole thing is just a mess, `am I right?`
 
----
-
 ## 強調
 - [ ] `or what?`                            ([Slang] 〜ってこと？／それとも違う？) So are we leaving now `or what?`
 - [ ] `, or not really?`                    ([Casual] それともそうでもない？) You’re into horror movies, `or not really?`

@@ -6,15 +6,11 @@
 - [ ] `what I meant`                        (言いたかったこと) / `What I meant` was, you should do it carefully.
 - [ ] `strongest example of O`              ([Neutral] O の最たる例) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#STRONGESTEXAMPLE)
 - [ ] `nothing more than the fact that S V` ([Neutral] S V というだけの理由) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#NOTHING-MORE-THAN-THE-FACT-THAT)
----
-
 ## 抽象 (なもの)
 - [ ] `stuff ~~`                            ([Casual] モノ、コト) I hate the `stuff` that he always talks about.
 - [ ] `thing ~~`                            ([Neutral] モノ、コト) I don’t like `things` like what he says when he’s angry.
 - [ ] `something ~~`                        ([Neutral] モノ、コト) I want to eat `something` sweet.
 - [ ] `the kind of things ~~`               ([Formal] 類のもの) This is `the kind of thing` that makes me really happy.
-
----
 
 ## 抽象 (どんな？)
 - [ ] `~~ like (what) S V`                  ([Casual] 例示：S V みたいなO) He said something `like what` the project might be delayed.
@@ -24,12 +20,8 @@
 - [ ] `~~ that/which S think V`             ([Neutral] SがVと思うO) A movie `that I think is a classic example of a mafia film` is The Godfather.
 - [ ] `~~ to the effect that S V`           ([Formal] S V という趣旨のO) He said something `to the effect that` he wasn’t interested.
 
----
-
 ## 抽象 (行動)
 - [ ] `S V-ing`                             ([Casual] SがVすること) `My dog barking like that` is a bit weird.
-
----
 
 ## 具体的なものを曖昧にする
 - [ ] `(具体的なもの) of a sort`            ([Casual] Oっぽい／ちょい違うけど) He’s a leader `of a sort.` / I had dinner, `of a sort.`
@@ -39,15 +31,11 @@
 - [ ] `(数字) or so`                        ([Neutral] Oとか) It's 20 dollars `or so.`
 - [ ] `like (数字)`                         ([Casual] だいたいO) There were only `like` thirty people there.
 
----
-
 ## とかとか
 - [ ] `O and stuff like that`               ([Casual] Oとかそういうの) We talked about budgets, deadlines, `and stuff like that.`
 - [x] `O and things like that`              ([Formal] Oとか) I think he's learning Spanish or `something like that`, if that makes sense.
 - [ ] `O and so on`                         ([Formal] Oとか) I'm tired of doing the dishes, doing the laundry, `and so on!`
 - [ ] `O or whatever`                       ([Casual] Oとかそんな感じ) I'm just going to read a book `or whatever.`
-
----
 
 ## 具体的なもの
 - [ ] `equivalent to ~~`                    ([Neutral] 同等のもの) They are the functional `equivalent of` gods.
@@ -56,16 +44,12 @@
 - [ ] `O in one's XXs`                      ([Neutral] 〜代) Some of her first students are `new in their 20s.`
 - [ ] `O to go`                             ([Neutral] 残りの O) `We have ten minutes to go.`
 
----
-
 ## だけじゃなくて
 - [ ] `not only A but also B`               ([Formal] AだけでなくBも) He is `not only` smart `but also` kind.
 - [ ] `not just A but also B`               ([Neutral] AだけじゃなくBも) She speaks `not just` English `but also` Spanish.
 - [x] `and not just A`                      ([Casual] 単にAというだけじゃなく) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#AND-NOT-JUST) They cared about us as people and not just numbers on a spreadsheet.
 - [x] `in particular O`                     ([Neutral] 特に) I like Italian food, `in particular,` pasta dishes.
 - [x] `especially O`                        ([Neutral] 特に) I love all kinds of music, `especially` jazz.
-
----
 
 ## 複合名詞
 - `something else`                              (格別なもの) / That dinner was `something else`!

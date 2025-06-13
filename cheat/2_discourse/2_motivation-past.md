@@ -14,8 +14,6 @@
 - [ ] `on account of`                       ([Formal] [文語] Oの理由で) The match was postponed `on account of the storm`.
 - [ ] `on the grounds of`                   ([Formal] [文語] ～を理由に) He was dismissed `on the grounds of` misconduct.
 
----
-
 ## 前の文を理由として
 - [x] `so`                                  ([Casual] だから) It was raining, `so` we stayed indoors.
 - [x] `that's why`                          ([Neutral] だから) `That's why` I suggested starting earlier.
@@ -26,8 +24,6 @@
 - [ ] `this is why`                         ([Formal] そう言うわけで) We missed the deadline. `This is why` we need better planning.
 - [ ] `for that reason`                     ([Formal] [文語] その理由で) `For that reason,` we decided to postpone the meeting.
 - [ ] `consequently`                        ([Formal] [文語] 結果的に) He made a mistake, `and consequently` lost an opportunity for being promoted.
-
----
 
 ## 目的＋努力や試み（try）
 - [ ] `with the intention of V-ing`         ([Neutral] しようとして) He flattered `with the intention of` getting something.

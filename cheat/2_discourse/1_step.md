@@ -7,8 +7,6 @@
 - [ ] `to begin with`                       ([Neutral] まず第一に) `To begin with,` we need to define our main objectives.
 - [ ] `first/Most of all`                   ([Neutral] まず／何よりも) `First of all,` I’d like to thank everyone. `Most of all,` I appreciate your honesty.
 
----
-
 ## 次に
 - [x] `moving on,`                          ([Neutral] 次に移りますが) `Moving on,` let's discuss the budget for next quarter.
 - [ ] `let’s move on to`                    ([Neutral] ～に話を進めましょう) `Let’s move on to` the next item on the agenda.
@@ -16,13 +14,9 @@
 - [ ] `proceeding to`                       ([Formal] ～に進みますと) `Proceeding to` the final section, we’ll review our conclusions.
 - [ ] `and the next thing I knew`           ([Casual] 気がついたら) `And the next thing I knew,` the meeting was over.
 
----
-
 ## 脱線
 - [x] `off-topic, but`                      ([Casual] 話が逸れるけど) `Off-topic, but` have you seen the new office layout?
 - [ ] `by the way`                          ([Casual] ところで) `By the way,` did you finish the report I asked for?
-
----
 
 ## 戻す
 - [x] `(going) back to O`                   ([Casual] Oに話を戻すと) `Going back to the main topic,` we still need to finalize the budget.
@@ -30,12 +24,8 @@
 - [x] `anyway`                              ([Casual] とにかく／さて) `Anyway,` let’s get back to the main topic.
 - [ ] `in any case`                         ([Neutral] とにかく／いずれにせよ) `In any case,` we should be prepared for any outcome.
 
----
-
 ## と言うのも
 - [x] `for one/another thing`               ([Casual] ひとつには／それから) `For one thing,` it's too expensive. `For another thing,` it's not reliable.
-
----
 
 ## 強い文を後に足す
 - [x] `besides`                             ([Casual] その上に) I can't afford a new phone. `Besides,` my old one still works fine.
@@ -47,8 +37,6 @@
 - [x] `More than anything`                  ([Casual] 何よりも) `More than anything,` I just want things to go back to normal.
 - [ ] `above all`                           ([Neutral] 何よりも) `Above all,` safety must come first.
 - [ ] `among other things`                  ([Neutral] とりわけ) I noticed, `among other things`, that he was drunk.
-
----
 
 ## 最後に
 - [x] `in conclusion`                       ([Formal] 結論として) `In conclusion,` the data supports our hypothesis.

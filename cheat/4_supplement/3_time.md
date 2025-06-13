@@ -14,8 +14,6 @@
 - [ ] `up-front`                            (あらかじめ) This hotel requires a cash deposit `up-front.`
 - [ ] `in advance`                          (あらかじめ)
 
----
-
 ## どんなイベントのとき
 - [x] `N after that`                        (N 経過後に) an hour `after that` / two weeks `after that` / a few years `after that` / Soon `after that,`
 - [x] `as soon as`                          (したらすぐに) `As soon as` I get home, I'll call you.
@@ -25,8 +23,6 @@
 - [x] `at the same time`                    (同時に) It's hard being the writer and an actor `at the same time.`
 - [ ] `just before N`                       (のちょうど前に) will get home sometime `just before` 9pm.
 - [ ] `just after N`                        (のちょうど後に) will go abroad sometime `just after` Golden Week.
-
----
 
 ## 頻度
 - [x] `every (期間)`                        (~~毎に) The vehicles are inspected for defects `every three months`.
@@ -44,9 +40,7 @@
 - [ ] `time and again`                      (何度も) The ecologist has warned us `time and again.`
 - [ ] `once in a blue moon`                 (めったにない)
 
----
-
-- 未来に関わる
+## 未来に関わる
 - [x] `at this point`                       (ここまできたら) I'm ready to quit `at this point.`
 - [x] `so far`                              (これまでのところ) `So far` I’m having a blast. The town is wonderful.
 - [ ] `to date`                             (これまでのところ) `To date`, the Foos have never won a game.
@@ -64,8 +58,6 @@
 - [ ] `by N at the latest`                  (遅くとも) Please estimate the losses `by Friday at the latest`. I'll manage it somehow.
 - [ ] `until such time as S V`              (までの間は) We are unable to review it `until such time as` we receive that.
 
----
-
 ## 時間帯
 - [ ] `at 9:00 am`                          (時に)
 - [ ] `at dawn`                             (夜明けに)
@@ -81,8 +73,6 @@
 - [ ] `at night`                            (夜に (夜から夜中))
 - [ ] `last thing at night`                 (寝る直前に)
 
----
-
 ## どの日に
 - [ ] `on (A) days`                         (な日に) I don't close this door `on hot days`.
 - [ ] `on (曜日) (時間帯)`                  (曜日 (の〜頃)に) I play tennis `on Sundays`. / `on Sunday morning` / `on a hot summer afternoon`
@@ -90,8 +80,6 @@
 - [ ] `over the weekend`                    (週末に) I finished reading a book `over the weekend`.
 - [ ] `last/next/this/on Sunday`            (の曜日に)
 - [ ] `last/next/this/on the weekend`       (の週末に)
-
----
 
 ## 期間
 - [ ] `for (N)s`                            (N 間) I've been working for the company `for 6 months`.
