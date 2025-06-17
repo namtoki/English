@@ -1,23 +1,33 @@
-- [ ] a
-- [ ] abandon
-- [ ] abandoned
-- [ ] abandonment
-- [ ] abbreviate
-- [ ] abbreviation
-- [ ] ability
-- [ ] able
-- [ ] abnormal
-- [ ] abnormality
-- [ ] aboard
-- [ ] abolish
-- [ ] abolition
-- [ ] aboriginal
-- [ ] abort
-- [ ] abortion
-- [ ] abound
-- [ ] about
-- [ ] above
-- [ ] abroad
+# WORD
+
+## BASIC
+- [x] a
+- [x] ability
+- [x] able
+- [x] abnormal
+- [x] abnormality
+- [x] aboard
+- [x] about
+- [x] above
+- [x] abroad
+
+## 引き算系
+- [x] abandon
+    - [x] abandoned
+    - [x] abandonment
+- [x] abbreviate
+    - [x] abbreviation
+- [x] abolish
+    - [x] abolition
+- [x] abort
+    - [x] abortion
+
+## 名詞
+- [x] aboriginal
+
+## 広がる系
+- [x] abound
+
 - [ ] abrupt
 - [ ] absence
 - [ ] absent
