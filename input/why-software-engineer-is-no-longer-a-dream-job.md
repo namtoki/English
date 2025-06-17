@@ -1,5 +1,7 @@
 # Why Software Engineer is No Longer A Dream Job
 
+https://www.youtube.com/watch?v=rEZF2m542II
+
 `Remember when` working as a software engineer felt like striking gold?
 Free meals, extravagant offsites, crazy stock grants, a $2,000 `vacation stipend`.
 This is just a small portion of the `perks` offered by some of the biggest tech companies.
@@ -115,23 +117,16 @@ AI tools are incredible, and I've advocated for their use in countless times in 
 
 But I think that making this a job requirement to me feels like overreach.
 
-It signals that you don't
-trust your employees to use their own
-judgment and discern when it's
-appropriate to use AI and when it's not.
-A blanket requirement like this is very
-big brother to me. But I'm curious what
-you guys think. So, let me know in the
-comments down below. If you're being
-asked to learn AI skills for your
-current role or you're a beginner who's
-just curious about what neural networks
-are, you should take a look at
-Brilliant. I've personally gone through
-their course on how LLMs work and
-introduction to neural networks when I
-wanted to learn AI fundamentals. At
-first, I was intimidated by these
+It signals that you don't trust your employees to use their own judgment and discern when it's appropriate to use AI and when it's not.
+
+A blanket requirement like this is very big brother to me. But I'm curious what you guys think. So, let me know in the comments down below.
+
+If you're being asked to learn AI skills for your current role or you're a beginner who's just curious about what neural networks are,
+you should take a look at Brilliant.
+
+I've personally gone through their course on how LLMs work and introduction to neural networks when I wanted to learn AI fundamentals.
+
+At first, I was intimidated by these
 seemingly complex topics, but Brilliant
 made them easy to understand and
 approachable even for beginners. And if
