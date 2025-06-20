@@ -21,6 +21,10 @@
 | BUSINESS |  | discover | discovery / discoverer |  |  |  |
 | BUSINESS |  | `spot` |  | spotted |  |  |
 | BUSINESS |  | detect | detection |  |  |  |
+| BUSINESS | 受入 | `adopt` | adoption |  |  |  |
+| BUSINESS |  | accept | acceptance | acceptable |  |  |
+| BUSINESS |  | receive | receipt / receiver | receivable |  |  |
+| BUSINESS |  | embrace |  |  |  |  |
 | BUSINESS | 改善 | `improve` | `improvement` |  |  | I'm `working on` my pronunciation. |
 | BUSINESS |  | refine | refinement |  |  |  |
 | BUSINESS |  | enhance |  |  |  |  |
@@ -41,9 +45,25 @@
 | BUSINESS |  | `delay` |  |  |  | The train was `held up` because of the railroad accident. |
 | BUSINESS |  | detain |  |  |  |  |
 | BUSINESS |  | hinder | hindrance |  |  |  |
+| BUSINESS | 引合 | raise |  | raised |  | I'm grad you `brought` that `up` |
+| BUSINESS |  | mention |  |  |  |  |
+| BUSINESS | 削減 | `abandon` | abandonment | abandoned |  | Don’t just `walk away from` your team when things get hard. |
+| BUSINESS |  | shorten | shortage | short | shortly | Fast charging can `cut down` on charging time significantly. |
+| BUSINESS |  | abbreviate | abbreviation |  |  |  |
+| BUSINESS |  | contract | contraction |  |  |  |
+| BUSINESS |  | reduce | reduction | reduced |  |  |
+| BUSINESS |  | abolish | abolition |  |  | They decided to `do away with` the outdated system |
+| BUSINESS |  | eliminate | elimination |  |  |  |
+| BUSINESS |  | abort | abortion |  |  |  |
 | GOOD | 良い |  | goodness | `good` |  |  |
 | GOOD |  |  | greatness | great |  |  |
 | GOOD |  |  |  | well |  | We’`re better off` than we were five years ago. |
+| GOOD | 好き | adore |  | adorable |  |  |
+| GOOD |  | love |  | lovely |  |  |
+| GOOD |  | cherish |  |  |  |  |
+| GOOD | 感謝 | `appreciate` | appreciation | appreciative |  |  |
+| GOOD |  | thank |  | thankful / thanksgiving | thankfully |  |
+| GOOD | 許可 | `admit` | admission / admittance |  | admittedly |  |
 | GOOD | 興奮 | excite | excitement | excited / exciting |  | `hyped` |
 | GOOD |  | thrill | thriller | thrilling |  |  |
 | GOOD | ハマ | `obsess` | obsession |  |  | `get into`, `be really into` |
@@ -84,14 +104,17 @@
 | BAD | 追出 | expel |  |  |  | He was `kicked out` of the bar for starting a fight. |
 | BAD |  | banish |  |  |  |  |
 | BAD |  | dismiss | dismissal |  |  |  |
-| NEUTRAL | 謙虚 |  | modesty | `modest` | modestly | `low-key` |
-| NEUTRAL |  |  | `humility` |  |  |  |
-| NEUTRAL |  | neglect | negligence | negligent / negligible |  |  |
-| NEUTRAL | 古い |  |  | `old` |  |  |
-| NEUTRAL |  |  |  | ancient |  |  |
-| NEUTRAL |  |  |  | elder / elderly |  |  |
-| NEUTRAL |  |  | age | aged |  |  |
-| DAILY | 買う | `buy` |  |  |  | `grab` |
+| ATTACK | 非難 | accuse | accusation | accused |  |  |
+| NOTION | 謙虚 |  | modesty | `modest` | modestly | `low-key` |
+| NOTION |  |  | `humility` |  |  |  |
+| NOTION |  | neglect | negligence | negligent / negligible |  |  |
+| NOTION | 古い |  |  | `old` |  |  |
+| NOTION |  |  |  | ancient |  |  |
+| NOTION |  |  |  | elder / elderly |  |  |
+| NOTION |  |  | age | aged |  |  |
+| NOTION | 反対 |  | adversity | adverse |  |  |
+| DAILY | 買物 | `buy` |  |  |  | `grab` |
+| DAILY |  |  | expense | expensive |  | `pricey` |
 | DAILY | 取る | `get` |  |  |  |  |
 | DAILY |  | obtain |  |  |  |  |
 | DAILY |  | gain |  |  |  |  |
@@ -101,25 +124,30 @@
 | DAILY |  | encounter |  |  |  |  |
 | DAILY |  | bump |  |  |  |  |
 | MODIFIER | ほぼ |  |  |  | `almost` | `pretty much` |
-| WHO |  |  | aboriginal |  |  |  |
-| WHO |  |  | contractor |  |  |  |
-| WHO |  |  | accountant |  |  |  |
-| WHO |  |  | activist |  |  |  |
-| WHO |  |  | actor |  |  |  |
-| WHO |  |  | actress |  |  |  |
-| WHO |  |  | addict |  |  |  |
-| WHO |  |  | dealer |  |  |  |
-| WHO |  |  | secretary |  |  |  |
-| WHO |  |  | developer |  |  |  |
-| WHO |  |  | administrator |  |  |  |
-| WHO |  |  | admiral |  |  |  |
-| WHO |  |  | admirer |  |  |  |
-| WHO |  |  | lover |  |  |  |
-| WHO |  |  | adventurer |  |  |  |
-| WHO |  |  | advertiser |  |  |  |
-| WHO |  |  | adviser |  |  |  |
-| WHO |  |  | counselor |  |  |  |
-| WHO |  |  | buyer |  |  |  |
-| WHO |  |  | beginner |  |  |  |
-| WHO |  |  | detective |  |  |  |
+| - |  |  |  | aerobic |  |  |
+| - |  |  |  | aerial |  |  |
+| - |  |  | aboriginal |  |  |  |
+| - |  |  | contractor |  |  |  |
+| - |  |  | accountant |  |  |  |
+| - |  |  | activist |  |  |  |
+| - |  |  | actor |  |  |  |
+| - |  |  | actress |  |  |  |
+| - |  |  | addict |  |  |  |
+| - |  |  | dealer |  |  |  |
+| - |  |  | secretary |  |  |  |
+| - |  |  | developer |  |  |  |
+| - |  |  | administrator |  |  |  |
+| - |  |  | admiral |  |  |  |
+| - |  |  | admirer |  |  |  |
+| - |  |  | lover |  |  |  |
+| - |  |  | adventurer |  |  |  |
+| - |  |  | advertiser |  |  |  |
+| - |  |  | adviser |  |  |  |
+| - |  |  | counselor |  |  |  |
+| - |  |  | buyer |  |  |  |
+| - |  |  | beginner |  |  |  |
+| - |  |  | detective |  |  |  |
+| - |  |  | aerospace |  |  |  |
+| - |  |  | aerospace |  |  |  |
+| - |  |  |  | aesthetic |  |  |
 
