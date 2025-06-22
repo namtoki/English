@@ -1,6 +1,5 @@
 # WORD
 
-
 | Category | Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
 |-|-|-|-|-|-|-|
 | BUSINESS | 取組 | `tackle` |  |  |  | What are you `working on`? |
@@ -29,11 +28,15 @@
 | BUSINESS |  | refine | refinement |  |  |  |
 | BUSINESS |  | enhance |  |  |  |  |
 | BUSINESS |  | develop | development / developing | developmental / developed |  |  |
+| BUSINESS | 影響 | affect |  | affected |  | The delay `had a big effect on` the project. |
+| BUSINESS |  | influence |  | influential |  |  |
+| BUSINESS |  | impact |  |  |  |  |
 | BUSINESS | 説明 | `explain` | explanation | explanatory |  | Can you `spell it out` for me? |
 | BUSINESS |  | clarify | clarity |  |  |  |
 | BUSINESS |  | describe | description | descriptive |  |  |
 | BUSINESS |  | depict |  |  |  |  |
 | BUSINESS |  | illustrate | illustration | illustrated |  |  |
+| BUSINESS |  | affirm | affirmation | affirmative |  |  |
 | BUSINESS | 注意 | `beware` |  |  |  | `Watch out for` cars when you cross the street. |
 | BUSINESS |  |  |  | careful | carefully |  |
 | BUSINESS | 理解 | `understand` | understanding | understandable |  | I finally `figured out` how to use the new software. |
@@ -87,11 +90,13 @@
 | GOOD | 自由 |  | freedom | free | freely |  |
 | GOOD |  |  | downtime |  |  |  |
 | GOOD |  | relax | relaxation | relaxed / relaxing |  |  |
+| GOOD | 豊富 |  |  | affluent |  |  |
 | BAD | 曖昧 |  | ambiguity | `ambiguous` |  | `gray area` |
 | BAD |  |  |  | `vague` | vaguely |  |
 | BAD |  |  |  | unclear |  |  |
 | BAD | 過剰 |  | excess | `excessive` |  | That movie was a bit `over the top`, but still fun. |
 | BAD |  | exaggerate | exaggeration |  |  |  |
+| BAD |  |  | addiction | addicted/addictive |  |  |
 | BAD | 雑 |  |  | `sloppy` |  |  |
 | BAD |  |  |  | careless | carelessly |  |
 | BAD | 怠け |  |  | slack |  | He's been `slacking off` at work lately. `cut corners` |
@@ -105,6 +110,8 @@
 | BAD |  | banish |  |  |  |  |
 | BAD |  | dismiss | dismissal |  |  |  |
 | ATTACK | 非難 | accuse | accusation | accused |  |  |
+| ATTACK |  |  | absurdity | absurd |  |  |
+| ATTACK | 虐待 | abuse |  | abusive |  |  |
 | NOTION | 謙虚 |  | modesty | `modest` | modestly | `low-key` |
 | NOTION |  |  | `humility` |  |  |  |
 | NOTION |  | neglect | negligence | negligent / negligible |  |  |
@@ -113,6 +120,7 @@
 | NOTION |  |  |  | elder / elderly |  |  |
 | NOTION |  |  | age | aged |  |  |
 | NOTION | 反対 |  | adversity | adverse |  |  |
+| NOTION | 秘密 |  | secret |  | secretly |  |
 | DAILY | 買物 | `buy` |  |  |  | `grab` |
 | DAILY |  |  | expense | expensive |  | `pricey` |
 | DAILY | 取る | `get` |  |  |  |  |
@@ -123,31 +131,49 @@
 | DAILY | 会う | meet | meeting |  |  | I really wanna `catch up` with you. |
 | DAILY |  | encounter |  |  |  |  |
 | DAILY |  | bump |  |  |  |  |
+| DAILY | 多少 | abound |  |  |  | The room `was full of` energy and excitement. |
+| DAILY |  | overflow |  |  |  |  |
+| DAILY |  |  | abundance | abundant |  |  |
+| DAILY |  |  | adequacy | adequate |  | His work hasn’t been `up to snuff` lately. |
+| DAILY |  | satisfy | satisfaction | satisfactory / satisfying  / satisfied|  | His work hasn’t been `up to snuff` lately. |
 | MODIFIER | ほぼ |  |  |  | `almost` | `pretty much` |
-| - |  |  |  | aerobic |  |  |
+| MODIFIER | 各々 |  |  |  | respectively` |  |
+| PREPOSI |  |  |  |  |  |  |
+| - |  |  |  |  | about |  |
+| - |  |  |  |  | abroad |  |
+| - |  |  |  |  | across |  |
+| - |  |  |  | abrupt |  |  |
+| - |  |  |  | absolute | absolutely |  |
 | - |  |  |  | aerial |  |  |
+| - |  |  |  | aerobic |  |  |
+| - |  |  |  | aesthetic |  |  |
+| - |  |  | affection | affectionate | affectionately |  |
+| - |  |  | a |  |  |  |
 | - |  |  | aboriginal |  |  |  |
-| - |  |  | contractor |  |  |  |
+| - |  |  | absence | absent |  |  |
+| - |  |  | abstraction | abstract |  |  |
+| - |  |  | academy | academic |  |  |
 | - |  |  | accountant |  |  |  |
 | - |  |  | activist |  |  |  |
 | - |  |  | actor |  |  |  |
 | - |  |  | actress |  |  |  |
 | - |  |  | addict |  |  |  |
-| - |  |  | dealer |  |  |  |
-| - |  |  | secretary |  |  |  |
-| - |  |  | developer |  |  |  |
 | - |  |  | administrator |  |  |  |
 | - |  |  | admiral |  |  |  |
 | - |  |  | admirer |  |  |  |
-| - |  |  | lover |  |  |  |
 | - |  |  | adventurer |  |  |  |
+| - |  |  | adverb |  |  |  |
 | - |  |  | advertiser |  |  |  |
 | - |  |  | adviser |  |  |  |
-| - |  |  | counselor |  |  |  |
-| - |  |  | buyer |  |  |  |
+| - |  |  | aerospace |  |  |  |
+| - |  |  | aerospace |  |  |  |
+| - |  |  | affair |  |  |  |
 | - |  |  | beginner |  |  |  |
+| - |  |  | buyer |  |  |  |
+| - |  |  | contractor |  |  |  |
+| - |  |  | counselor |  |  |  |
+| - |  |  | dealer |  |  |  |
 | - |  |  | detective |  |  |  |
-| - |  |  | aerospace |  |  |  |
-| - |  |  | aerospace |  |  |  |
-| - |  |  |  | aesthetic |  |  |
-
+| - |  |  | developer |  |  |  |
+| - |  |  | lover |  |  |  |
+| - |  |  | secretary |  |  |  |

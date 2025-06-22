@@ -1,16 +1,9 @@
 - [ ] afar
-- [ ] affair
-- [ ] affect
-- [ ] affected
-- [ ] affection
-- [ ] affectionate
-- [ ] affectionately
-- [ ] affirm
-- [ ] affirmation
-- [ ] affirmative
 - [ ] affix
 - [ ] afflict
-- [ ] affluent
+
+---
+
 - [ ] afford
 - [ ] affordable
 - [ ] afraid
@@ -3671,7 +3664,6 @@
 - [ ] immortality
 - [ ] immune
 - [ ] immunity
-- [ ] impact
 - [ ] impair
 - [ ] impairment
 - [ ] impatience
@@ -3808,8 +3800,6 @@
 - [ ] inflation
 - [ ] inflexible
 - [ ] inflict
-- [ ] influence
-- [ ] influential
 - [ ] influenza
 - [ ] infrastructure
 - [ ] infrequent
@@ -8560,28 +8550,6 @@
 - [ ] zookeeper
 - [ ] zoom
 
-- [x] abound                                                            The room `was full of` energy and excitement.
-- [x] overflow
-- [x]               abundance       abundant
-- [ ]               adequacy        adequate                            His work hasn’t been `up to snuff` lately.
-- [ ] satisfy       satisfaction    satisfactory
-- [ ]                               satisfying
-- [ ]                               satisfied
-- [ ]                                               respectively
-- [ ]               secret                          secretly
-- [x]               absurdity       absurd
-- [ ]               addiction       addicted/addictive
-- [x] abuse                         abusive
-- [x] a
-- [x]                               about
-- [x]                               abroad
-- [x]                                               above
-- [ ]                                               across
-- [x]               absence         absent
-- [x]                               abrupt
-- [x]                               absolute        absolutely
-- [x]               abstraction     abstract
-- [x]               academy         academic
 - [x] accelerate    acceleration                                        We need to `speed up` the approval process.
 - [x] hasten        hasty           haste           hastily
 - [x] advance       advancement     advanced
@@ -8614,5 +8582,4 @@
 - [ ] adult
 - [ ] advantage                     advantageous
 - [ ]               adventure       adventurous
-- [ ] adverb
 - [ ] determine     determination   determined
