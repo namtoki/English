@@ -33,20 +33,26 @@
 |  | accept | acceptance | acceptable |  |  |
 |  | receive | receipt / receiver | receivable |  |  |
 |  | embrace |  |  |  |  |
+|  | allow | allowance |  |  |  |
 | 決定 | determine | determination | determined |  |  |
-| 改善 | `improve` | improvement |  |  | I'm `working on` my pronunciation. |
+| 調整 | `improve` | improvement |  |  | I'm `working on` my pronunciation. |
 |  | refine | refinement |  |  |  |
 |  | enhance |  |  |  |  |
 |  | develop | development / developing | developmental / developed |  |  |
+|  | align | alignment |  |  |  |
+|  | adjust | adjustment |  |  |  |
+|  | coordinate | coordination |  |  |  |
+|  | organize | organization / organizer | organizational / organized |  |  |
 | 影響 | affect |  | affected |  | The delay `had a big effect on` the project. |
 |  | influence |  | influential |  |  |
 |  | impact |  |  |  |  |
-| 説明 | `explain` | explanation | explanatory |  | Can you `spell it out` for me? |
+| 発言 | `explain` | explanation | explanatory |  | Can you `spell it out` for me? |
 |  | clarify | clarity |  |  |  |
 |  | describe | description | descriptive |  |  |
 |  | depict |  |  |  |  |
 |  | illustrate | illustration | illustrated |  |  |
 |  | affirm | affirmation | affirmative |  |  |
+|  | allege | allegation | alleged | allegedly |  |
 | 注意 | `beware` |  |  |  | `Watch out for` cars when you cross the street. |
 |  |  |  | careful | carefully |  |
 | 理解 | `understand` | understanding | understandable |  | I finally `figured out` how to use the new software. |
@@ -68,6 +74,10 @@
 |  | abolish | abolition |  |  | They decided to `do away with` the outdated system |
 |  | eliminate | elimination |  |  |  |
 |  | abort | abortion |  |  |  |
+| 割当 | allocate | allocation |  |  |  |
+|  | allot |  |  |  |  |
+|  | assign | assignment |  |  |  |
+|  | distribute | distribution / distributor |  |  |  |
 | 賛成 | agree | agreement | agreeable |  |  |
 | 反対 |  | adversity | adverse |  |  |
 |  |  |  |  | against |  |
@@ -122,7 +132,12 @@
 | 追出 | expel |  |  |  | He was `kicked out` of the bar for starting a fight. |
 |  | banish |  |  |  |  |
 |  | dismiss | dismissal |  |  |  |
+|  | alienate | alien | alienation |  |  |
 | 困難 | agonize | agony |  |  |  |
+| 驚愕 | alarm |  | alarming |  |  |
+|  |  | fear | fearful / fearless |  |  |
+|  |  | panic |  |  |  |
+|  | alert |  |  |  |  |
 | 非難 | accuse | accusation | accused |  |  |
 |  |  | absurdity | absurd |  |  |
 | 攻撃 | abuse |  | abusive |  |  |
@@ -151,7 +166,6 @@
 |  |  | adequacy | adequate |  | His work hasn’t been `up to snuff` lately. |
 |  | satisfy | satisfaction | satisfactory / satisfying  / satisfied|  | His work hasn’t been `up to snuff` lately. |
 | ほぼ |  |  |  | `almost` | `pretty much` |
-| 各々 |  |  |  | respectively |  |
 | - |  |  |  | aboard |  |
 | - |  |  |  | about |  |
 | - |  |  |  | abroad |  |
@@ -161,6 +175,8 @@
 | - |  |  |  | again |  |
 | - |  |  |  | ago |  |
 | - |  |  |  | ahead |  |
+| - |  |  |  | alike |  |
+| - |  |  |  | respectively |  |
 | - |  |  | abrupt |  |  |
 | - |  |  | absolute | absolutely |  |
 | - |  |  | acid |  |  |
@@ -171,6 +187,8 @@
 | - |  |  | aerobic |  |  |
 | - |  |  | aesthetic |  |  |
 | - |  |  | afraid |  |  |
+| - |  |  | alive |  |  |
+| - |  |  | all |  |  |
 | - |  |  | informal |  |  |
 | - |  | a |  |  |  |
 | - |  | abnormality | abnormal |  |  |
@@ -220,6 +238,13 @@
 | - |  | airliner |  |  |  |
 | - |  | airplane |  |  |  |
 | - |  | airport |  |  |  |
+| - |  | airway |  |  |  |
+| - |  | aisle |  |  |  |
+| - |  | album |  |  |  |
+| - |  | alcohol / alcoholism | alcoholic |  |  |
+| - |  | algebra |  |  |  |
+| - |  | allergy | allergic |  |  |
+| - |  | alley |  |  |  |
 | - |  | beginner |  |  |  |
 | - |  | buyer |  |  |  |
 | - |  | contractor |  |  |  |
@@ -234,3 +259,5 @@
 | - | activate | activity | active | actively |  |
 | - | administer | administration | administrative |  |  |
 | - | adorn | adornment |  |  |  |
+| - | ally | alliance | allied |  |  |
+| - |  | alligator |  |  |  |
