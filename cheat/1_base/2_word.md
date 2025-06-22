@@ -1,179 +1,236 @@
 # WORD
 
-| Category | Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
-|-|-|-|-|-|-|-|
-| BUSINESS | 取組 | `tackle` |  |  |  | What are you `working on`? |
-| BUSINESS |  | address |  |  |  | We have to `deal with` this issue before it gets worse. |
-| BUSINESS |  | deal | dealing |  |  |  |
-| BUSINESS |  | cope |  |  |  |  |
-| BUSINESS |  | handle | handling |  |  |  |
-| BUSINESS | 試行 | `try` | trial |  |  | I'm going to `check out` the new bar on Saturday. |
-| BUSINESS |  | attempt |  | attempted |  |  |
-| BUSINESS |  | test |  | testing |  |  |
-| BUSINESS |  | strive |  |  |  |  |
-| BUSINESS | 開始 | `begin` | beginning |  |  | I'm gonna `get the ball rolling` on our wedding planning by... |
-| BUSINESS |  | start | starter |  |  |  |
-| BUSINESS |  | commence |  |  |  |  |
-| BUSINESS |  | launch |  |  |  |  |
-| BUSINESS |  | initiate | initiation / initiative |  |  |  |
-| BUSINESS | 発見 | `find` | finding |  |  |  |
-| BUSINESS |  | discover | discovery / discoverer |  |  |  |
-| BUSINESS |  | `spot` |  | spotted |  |  |
-| BUSINESS |  | detect | detection |  |  |  |
-| BUSINESS | 受入 | `adopt` | adoption |  |  |  |
-| BUSINESS |  | accept | acceptance | acceptable |  |  |
-| BUSINESS |  | receive | receipt / receiver | receivable |  |  |
-| BUSINESS |  | embrace |  |  |  |  |
-| BUSINESS | 改善 | `improve` | `improvement` |  |  | I'm `working on` my pronunciation. |
-| BUSINESS |  | refine | refinement |  |  |  |
-| BUSINESS |  | enhance |  |  |  |  |
-| BUSINESS |  | develop | development / developing | developmental / developed |  |  |
-| BUSINESS | 影響 | affect |  | affected |  | The delay `had a big effect on` the project. |
-| BUSINESS |  | influence |  | influential |  |  |
-| BUSINESS |  | impact |  |  |  |  |
-| BUSINESS | 説明 | `explain` | explanation | explanatory |  | Can you `spell it out` for me? |
-| BUSINESS |  | clarify | clarity |  |  |  |
-| BUSINESS |  | describe | description | descriptive |  |  |
-| BUSINESS |  | depict |  |  |  |  |
-| BUSINESS |  | illustrate | illustration | illustrated |  |  |
-| BUSINESS |  | affirm | affirmation | affirmative |  |  |
-| BUSINESS | 注意 | `beware` |  |  |  | `Watch out for` cars when you cross the street. |
-| BUSINESS |  |  |  | careful | carefully |  |
-| BUSINESS | 理解 | `understand` | understanding | understandable |  | I finally `figured out` how to use the new software. |
-| BUSINESS |  | solve | solution |  |  |  |
-| BUSINESS |  | grasp |  |  |  | I `get it`. |
-| BUSINESS |  | `misunderstand` | misunderstanding |  |  | it can easily `be taken out of context`. |
-| BUSINESS | 邪魔 | `interrupt` | interruption |  |  | Sorry to `cut you off`, |
-| BUSINESS |  | disrupt | disruption | disruptive |  |  |
-| BUSINESS |  | `delay` |  |  |  | The train was `held up` because of the railroad accident. |
-| BUSINESS |  | detain |  |  |  |  |
-| BUSINESS |  | hinder | hindrance |  |  |  |
-| BUSINESS | 引合 | raise |  | raised |  | I'm grad you `brought` that `up` |
-| BUSINESS |  | mention |  |  |  |  |
-| BUSINESS | 削減 | `abandon` | abandonment | abandoned |  | Don’t just `walk away from` your team when things get hard. |
-| BUSINESS |  | shorten | shortage | short | shortly | Fast charging can `cut down` on charging time significantly. |
-| BUSINESS |  | abbreviate | abbreviation |  |  |  |
-| BUSINESS |  | contract | contraction |  |  |  |
-| BUSINESS |  | reduce | reduction | reduced |  |  |
-| BUSINESS |  | abolish | abolition |  |  | They decided to `do away with` the outdated system |
-| BUSINESS |  | eliminate | elimination |  |  |  |
-| BUSINESS |  | abort | abortion |  |  |  |
-| GOOD | 良い |  | goodness | `good` |  |  |
-| GOOD |  |  | greatness | great |  |  |
-| GOOD |  |  |  | well |  | We’`re better off` than we were five years ago. |
-| GOOD | 好き | adore |  | adorable |  |  |
-| GOOD |  | love |  | lovely |  |  |
-| GOOD |  | cherish |  |  |  |  |
-| GOOD | 感謝 | `appreciate` | appreciation | appreciative |  |  |
-| GOOD |  | thank |  | thankful / thanksgiving | thankfully |  |
-| GOOD | 許可 | `admit` | admission / admittance |  | admittedly |  |
-| GOOD | 興奮 | excite | excitement | excited / exciting |  | `hyped` |
-| GOOD |  | thrill | thriller | thrilling |  |  |
-| GOOD | ハマ | `obsess` | obsession |  |  | `get into`, `be really into` |
-| GOOD |  | hook |  |  |  |  |
-| GOOD | 正確 |  |  | `exact` | exactly | trains leave `on the dot` |
-| GOOD |  |  | accuracy | accurate | accurately |  |
-| GOOD |  |  | precision | precise | precisely |  |
-| GOOD | 賞賛 |  | `praise` |  |  |  |
-| GOOD |  |  | admire | admiration | admirable |  |
-| GOOD |  |  | commend |  |  |  |
-| GOOD | 尊敬 | respect | respective | respectable / respectful | respectfully |  |
-| GOOD |  |  | worship |  |  |  |
-| GOOD | 適切 |  |  | `proper` | properly | `legit` |
-| GOOD |  |  |  | appropriate |  |  |
-| GOOD |  |  | correction | correct | correctly |  |
-| GOOD |  |  |  | decent |  |  |
-| GOOD |  | suit |  | suitable |  |  |
-| GOOD | 明確 |  |  | `straightforward` |  | I like it when things are `black and white` |
-| GOOD |  | simplify | simplicity | simple | simply | His instructions were very `clear-cut`, `crystal-clear` |
-| GOOD | 無料 |  |  | `complimentary` | for free | `freebie` |
-| GOOD | 自由 |  | freedom | free | freely |  |
-| GOOD |  |  | downtime |  |  |  |
-| GOOD |  | relax | relaxation | relaxed / relaxing |  |  |
-| GOOD | 豊富 |  |  | affluent |  |  |
-| BAD | 曖昧 |  | ambiguity | `ambiguous` |  | `gray area` |
-| BAD |  |  |  | `vague` | vaguely |  |
-| BAD |  |  |  | unclear |  |  |
-| BAD | 過剰 |  | excess | `excessive` |  | That movie was a bit `over the top`, but still fun. |
-| BAD |  | exaggerate | exaggeration |  |  |  |
-| BAD |  |  | addiction | addicted/addictive |  |  |
-| BAD | 雑 |  |  | `sloppy` |  |  |
-| BAD |  |  |  | careless | carelessly |  |
-| BAD | 怠け |  |  | slack |  | He's been `slacking off` at work lately. `cut corners` |
-| BAD | 面倒 |  | trick | `tricky` |  | `fiddly` |
-| BAD |  |  |  | tedious |  |  |
-| BAD | 辱め | humiliate | humiliation |  |  |  |
-| BAD | イラ | `annoy` | annoyance | annoyed / annoying |  | His constant humming `drives me up the wall`! |
-| BAD |  | irritate | irritation | irritating |  |  |
-| BAD |  | infuriate |  |  |  |  |
-| BAD | 追出 | expel |  |  |  | He was `kicked out` of the bar for starting a fight. |
-| BAD |  | banish |  |  |  |  |
-| BAD |  | dismiss | dismissal |  |  |  |
-| ATTACK | 非難 | accuse | accusation | accused |  |  |
-| ATTACK |  |  | absurdity | absurd |  |  |
-| ATTACK | 虐待 | abuse |  | abusive |  |  |
-| NOTION | 謙虚 |  | modesty | `modest` | modestly | `low-key` |
-| NOTION |  |  | `humility` |  |  |  |
-| NOTION |  | neglect | negligence | negligent / negligible |  |  |
-| NOTION | 古い |  |  | `old` |  |  |
-| NOTION |  |  |  | ancient |  |  |
-| NOTION |  |  |  | elder / elderly |  |  |
-| NOTION |  |  | age | aged |  |  |
-| NOTION | 反対 |  | adversity | adverse |  |  |
-| NOTION | 秘密 |  | secret |  | secretly |  |
-| DAILY | 買物 | `buy` |  |  |  | `grab` |
-| DAILY |  |  | expense | expensive |  | `pricey` |
-| DAILY | 取る | `get` |  |  |  |  |
-| DAILY |  | obtain |  |  |  |  |
-| DAILY |  | gain |  |  |  |  |
-| DAILY |  | acquire | acquisition |  |  | He `picked up` some Japanese during his trip. |
-| DAILY |  | `grab` |  |  |  |  |
-| DAILY | 会う | meet | meeting |  |  | I really wanna `catch up` with you. |
-| DAILY |  | encounter |  |  |  |  |
-| DAILY |  | bump |  |  |  |  |
-| DAILY | 多少 | abound |  |  |  | The room `was full of` energy and excitement. |
-| DAILY |  | overflow |  |  |  |  |
-| DAILY |  |  | abundance | abundant |  |  |
-| DAILY |  |  | adequacy | adequate |  | His work hasn’t been `up to snuff` lately. |
-| DAILY |  | satisfy | satisfaction | satisfactory / satisfying  / satisfied|  | His work hasn’t been `up to snuff` lately. |
-| MODIFIER | ほぼ |  |  |  | `almost` | `pretty much` |
-| MODIFIER | 各々 |  |  |  | respectively` |  |
-| PREPOSI |  |  |  |  |  |  |
-| - |  |  |  |  | about |  |
-| - |  |  |  |  | abroad |  |
-| - |  |  |  |  | across |  |
-| - |  |  |  | abrupt |  |  |
-| - |  |  |  | absolute | absolutely |  |
-| - |  |  |  | aerial |  |  |
-| - |  |  |  | aerobic |  |  |
-| - |  |  |  | aesthetic |  |  |
-| - |  |  | affection | affectionate | affectionately |  |
-| - |  |  | a |  |  |  |
-| - |  |  | aboriginal |  |  |  |
-| - |  |  | absence | absent |  |  |
-| - |  |  | abstraction | abstract |  |  |
-| - |  |  | academy | academic |  |  |
-| - |  |  | accountant |  |  |  |
-| - |  |  | activist |  |  |  |
-| - |  |  | actor |  |  |  |
-| - |  |  | actress |  |  |  |
-| - |  |  | addict |  |  |  |
-| - |  |  | administrator |  |  |  |
-| - |  |  | admiral |  |  |  |
-| - |  |  | admirer |  |  |  |
-| - |  |  | adventurer |  |  |  |
-| - |  |  | adverb |  |  |  |
-| - |  |  | advertiser |  |  |  |
-| - |  |  | adviser |  |  |  |
-| - |  |  | aerospace |  |  |  |
-| - |  |  | aerospace |  |  |  |
-| - |  |  | affair |  |  |  |
-| - |  |  | beginner |  |  |  |
-| - |  |  | buyer |  |  |  |
-| - |  |  | contractor |  |  |  |
-| - |  |  | counselor |  |  |  |
-| - |  |  | dealer |  |  |  |
-| - |  |  | detective |  |  |  |
-| - |  |  | developer |  |  |  |
-| - |  |  | lover |  |  |  |
-| - |  |  | secretary |  |  |  |
+| Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
+|-|-|-|-|-|-|
+| 取組 | `tackle` |  |  |  | What are you `working on`? |
+|  | address |  |  |  | We have to `deal with` this issue before it gets worse. |
+|  | deal | dealing |  |  |  |
+|  | cope |  |  |  |  |
+|  | handle | handling |  |  |  |
+| 試行 | `try` | trial |  |  | I'm going to `check out` the new bar on Saturday. |
+|  | attempt |  | attempted |  |  |
+|  | test |  | testing |  |  |
+|  | strive |  |  |  |  |
+| 開始 | `begin` | beginning |  |  | I'm gonna `get the ball rolling` on our wedding planning by... |
+|  | `start` | starter |  |  |  |
+|  | commence |  |  |  |  |
+|  | launch |  |  |  |  |
+|  | initiate | initiation / initiative |  |  |  |
+| 能力 | afford |  | affordable |  |  |
+|  |  | capability | `capable` |  |  |
+|  |  | ability | `able` |  |  |
+|  |  | competence | competent |  |  |
+|  | qualify | quality / qualification | qualified |  |  |
+|  |  | skill | skilled / skillful |  |  |
+| 促進 | accelerate | acceleration |  |  | We need to `speed up` the approval process. |
+|  | hasten | hasty | haste | hastily |  |
+|  | advance | advancement | advanced |  |  |
+| 発見 | `find` | finding |  |  |  |
+|  | discover | discovery / discoverer |  |  |  |
+|  | `spot` |  | spotted |  |  |
+|  | detect | detection |  |  |  |
+| 受信 | `adopt` | adoption |  |  |  |
+|  | accept | acceptance | acceptable |  |  |
+|  | receive | receipt / receiver | receivable |  |  |
+|  | embrace |  |  |  |  |
+| 決定 | determine | determination | determined |  |  |
+| 改善 | `improve` | improvement |  |  | I'm `working on` my pronunciation. |
+|  | refine | refinement |  |  |  |
+|  | enhance |  |  |  |  |
+|  | develop | development / developing | developmental / developed |  |  |
+| 影響 | affect |  | affected |  | The delay `had a big effect on` the project. |
+|  | influence |  | influential |  |  |
+|  | impact |  |  |  |  |
+| 説明 | `explain` | explanation | explanatory |  | Can you `spell it out` for me? |
+|  | clarify | clarity |  |  |  |
+|  | describe | description | descriptive |  |  |
+|  | depict |  |  |  |  |
+|  | illustrate | illustration | illustrated |  |  |
+|  | affirm | affirmation | affirmative |  |  |
+| 注意 | `beware` |  |  |  | `Watch out for` cars when you cross the street. |
+|  |  |  | careful | carefully |  |
+| 理解 | `understand` | understanding | understandable |  | I finally `figured out` how to use the new software. |
+|  | solve | solution |  |  |  |
+|  | grasp |  |  |  | I `get it`. |
+|  | `misunderstand` | misunderstanding |  |  | it can easily `be taken out of context`. |
+| 邪魔 | `interrupt` | interruption |  |  | Sorry to `cut you off`, |
+|  | disrupt | disruption | disruptive |  |  |
+|  | `delay` |  |  |  | The train was `held up` because of the railroad accident. |
+|  | detain |  |  |  |  |
+|  | hinder | hindrance |  |  |  |
+| 引合 | raise |  | raised |  | I'm grad you `brought` that `up` |
+|  | mention |  |  |  |  |
+| 削減 | `abandon` | abandonment | abandoned |  | Don’t just `walk away from` your team when things get hard. |
+|  | shorten | shortage | short | shortly | Fast charging can `cut down` on charging time significantly. |
+|  | abbreviate | abbreviation |  |  |  |
+|  | contract | contraction |  |  |  |
+|  | reduce | reduction | reduced |  |  |
+|  | abolish | abolition |  |  | They decided to `do away with` the outdated system |
+|  | eliminate | elimination |  |  |  |
+|  | abort | abortion |  |  |  |
+| 賛成 | agree | agreement | agreeable |  |  |
+| 反対 |  | adversity | adverse |  |  |
+|  |  |  |  | against |  |
+| 良い |  | goodness | `good` |  |  |
+|  |  | greatness | great |  |  |
+|  |  |  | well |  | We’`re better off` than we were five years ago. |
+| 好き | adore |  | adorable |  |  |
+|  | love |  | lovely |  |  |
+|  | cherish |  |  |  |  |
+| 感謝 | `appreciate` | appreciation | appreciative |  |  |
+|  | thank |  | thankful / thanksgiving | thankfully |  |
+| 許可 | `admit` | admission / admittance |  | admittedly |  |
+| 興奮 | excite | excitement | excited / exciting |  | `hyped` |
+|  | thrill | thriller | thrilling |  |  |
+| ハマ | `obsess` | obsession |  |  | `get into`, `be really into` |
+|  | hook |  |  |  |  |
+| 正確 |  |  | `exact` | exactly | trains leave `on the dot` |
+|  |  | accuracy | accurate | accurately |  |
+|  |  | precision | precise | precisely |  |
+| 賞賛 |  | `praise` |  |  |  |
+|  |  | admire | admiration | admirable |  |
+|  |  | commend |  |  |  |
+| 尊敬 | respect | respective | respectable / respectful | respectfully |  |
+|  |  | worship |  |  |  |
+| 適切 |  |  | `proper` | properly | `legit` |
+|  |  |  | appropriate |  |  |
+|  |  | correction | correct | correctly |  |
+|  |  |  | decent |  |  |
+|  | suit |  | suitable |  |  |
+| 明確 |  |  | `straightforward` |  | I like it when things are `black and white` |
+|  | simplify | simplicity | simple | simply | His instructions were very `clear-cut`, `crystal-clear` |
+| 無料 |  |  | `complimentary` | for free | `freebie` |
+| 自由 |  | freedom | free | freely |  |
+|  |  | downtime |  |  |  |
+|  | relax | relaxation | relaxed / relaxing |  |  |
+| 豊富 |  |  | affluent |  |  |
+| 曖昧 |  | ambiguity | `ambiguous` |  | `gray area` |
+|  |  |  | `vague` | vaguely |  |
+|  |  |  | unclear |  |  |
+| 過剰 |  | excess | `excessive` |  | That movie was a bit `over the top`, but still fun. |
+|  | exaggerate | exaggeration |  |  |  |
+|  |  | addiction | addicted/addictive |  |  |
+| 雑 |  |  | `sloppy` |  |  |
+|  |  |  | careless | carelessly |  |
+| 怠け |  |  | slack |  | He's been `slacking off` at work lately. `cut corners` |
+| 面倒 |  | trick | `tricky` |  | `fiddly` |
+|  |  |  | tedious |  |  |
+| 辱め | humiliate | humiliation |  |  |  |
+| イラ | `annoy` | annoyance | annoyed / annoying |  | His constant humming `drives me up the wall`! |
+|  | irritate | irritation | irritating |  |  |
+|  | infuriate |  |  |  |  |
+| 追出 | expel |  |  |  | He was `kicked out` of the bar for starting a fight. |
+|  | banish |  |  |  |  |
+|  | dismiss | dismissal |  |  |  |
+| 困難 | agonize | agony |  |  |  |
+| 非難 | accuse | accusation | accused |  |  |
+|  |  | absurdity | absurd |  |  |
+| 攻撃 | abuse |  | abusive |  |  |
+|  |  | aggression / aggressor | aggressive |  |  |
+| 謙虚 |  | modesty | `modest` | modestly | `low-key` |
+|  |  | `humility` |  |  |  |
+|  | neglect | negligence | negligent / negligible |  |  |
+| 古い |  |  | `old` |  |  |
+|  |  |  | ancient |  |  |
+|  |  |  | elder / elderly |  |  |
+|  |  | age / aging | aged |  |  |
+| 秘密 |  | secret |  | secretly |  |
+| 買物 | `buy` |  |  |  | `grab` |
+|  |  | expense | expensive |  | `pricey` |
+| 取る | `get` |  |  |  |  |
+|  | obtain |  |  |  |  |
+|  | gain |  |  |  |  |
+|  | acquire | acquisition |  |  | He `picked up` some Japanese during his trip. |
+|  | `grab` |  |  |  |  |
+| 会う | meet | meeting |  |  | I really wanna `catch up` with you. |
+|  | encounter |  |  |  |  |
+|  | bump |  |  |  |  |
+| 多少 | abound |  |  |  | The room `was full of` energy and excitement. |
+|  | overflow |  |  |  |  |
+|  |  | abundance | abundant |  |  |
+|  |  | adequacy | adequate |  | His work hasn’t been `up to snuff` lately. |
+|  | satisfy | satisfaction | satisfactory / satisfying  / satisfied|  | His work hasn’t been `up to snuff` lately. |
+| ほぼ |  |  |  | `almost` | `pretty much` |
+| 各々 |  |  |  | respectively |  |
+| - |  |  |  | aboard |  |
+| - |  |  |  | about |  |
+| - |  |  |  | abroad |  |
+| - |  |  |  | across |  |
+| - |  |  |  | after |  |
+| - |  |  |  | afterward |  |
+| - |  |  |  | again |  |
+| - |  |  |  | ago |  |
+| - |  |  |  | ahead |  |
+| - |  |  | abrupt |  |  |
+| - |  |  | absolute | absolutely |  |
+| - |  |  | acid |  |  |
+| - |  |  | acoustic |  |  |
+| - |  |  | acute | acutely |  |
+| - |  |  | adjacent |  |  |
+| - |  |  | aerial |  |  |
+| - |  |  | aerobic |  |  |
+| - |  |  | aesthetic |  |  |
+| - |  |  | afraid |  |  |
+| - |  |  | informal |  |  |
+| - |  | a |  |  |  |
+| - |  | abnormality | abnormal |  |  |
+| - |  | aboriginal |  |  |  |
+| - |  | absence | absent |  |  |
+| - |  | abstraction | abstract |  |  |
+| - |  | academy | academic |  |  |
+| - |  | accent |  |  |  |
+| - |  | access | accessible |  |  |
+| - |  | accessory |  |  |  |
+| - |  | accident | accidental | accidentally |  |
+| - |  | accord / accordance |  | according / accordingly |  |
+| - |  | account / accounting |  |  |  |
+| - |  | accountant |  |  |  |
+| - |  | acre |  |  |  |
+| - |  | activist |  |  |  |
+| - |  | actor |  |  |  |
+| - |  | actress |  |  |  |
+| - |  | actuality | actual | actually |  |
+| - |  | addict |  |  |  |
+| - |  | administrator |  |  |  |
+| - |  | admiral |  |  |  |
+| - |  | admirer |  |  |  |
+| - |  | adolescence | adolescent |  |  |
+| - |  | adult |  |  |  |
+| - |  | advantage | advantageous |  |  |
+| - |  | adventure | adventurous |  |  |
+| - |  | adventurer |  |  |  |
+| - |  | adverb |  |  |  |
+| - |  | advertiser |  |  |  |
+| - |  | adviser |  |  |  |
+| - |  | aerospace |  |  |  |
+| - |  | aerospace |  |  |  |
+| - |  | affair |  |  |  |
+| - |  | affection | affectionate | affectionately |  |
+| - |  | afternoon |  |  |  |
+| - |  | agency |  |  |  |
+| - |  | agenda |  |  |  |
+| - |  | ah / aha |  |  |  |
+| - |  | aid |  |  |  |
+| - |  | aide |  |  |  |
+| - |  | aim | aimless |  |  |
+| - |  | air |  |  |  |
+| - |  | aircraft |  |  |  |
+| - |  | airfare |  |  |  |
+| - |  | airline |  |  |  |
+| - |  | airliner |  |  |  |
+| - |  | airplane |  |  |  |
+| - |  | airport |  |  |  |
+| - |  | beginner |  |  |  |
+| - |  | buyer |  |  |  |
+| - |  | contractor |  |  |  |
+| - |  | counselor |  |  |  |
+| - |  | dealer |  |  |  |
+| - |  | detective |  |  |  |
+| - |  | developer |  |  |  |
+| - |  | lover |  |  |  |
+| - |  | secretary |  |  |  |
+| - | ache |  |  |  |  |
+| - | act | action / acting |  |  |  |
+| - | activate | activity | active | actively |  |
+| - | administer | administration | administrative |  |  |
+| - | adorn | adornment |  |  |  |
