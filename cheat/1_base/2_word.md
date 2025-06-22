@@ -1,5 +1,6 @@
 # WORD
 
+## ACTION
 | Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
 |-|-|-|-|-|-|
 | 取組 | `tackle` |  |  |  | What are you `working on`? |
@@ -16,12 +17,6 @@
 |  | commence |  |  |  |  |
 |  | launch |  |  |  |  |
 |  | initiate | initiation / initiative |  |  |  |
-| 能力 | afford |  | affordable |  |  |
-|  |  | capability | `capable` |  |  |
-|  |  | ability | `able` |  |  |
-|  |  | competence | competent |  |  |
-|  | qualify | quality / qualification | qualified |  |  |
-|  |  | skill | skilled / skillful |  |  |
 | 促進 | accelerate | acceleration |  |  | We need to `speed up` the approval process. |
 |  | hasten | hasty | haste | hastily |  |
 |  | advance | advancement | advanced |  |  |
@@ -34,7 +29,10 @@
 |  | receive | receipt / receiver | receivable |  |  |
 |  | embrace |  |  |  |  |
 |  | allow | allowance |  |  |  |
-| 決定 | determine | determination | determined |  |  |
+| 決定 | `decide` | decision | decisive | decidedly |  |
+|  | determine | determination | determined |  |  |
+|  | resolve |  |  |  |  |
+|  | conclude | conclusion | conclusive |  |  |
 | 調整 | `improve` | improvement |  |  | I'm `working on` my pronunciation. |
 |  | refine | refinement |  |  |  |
 |  | enhance |  |  |  |  |
@@ -43,9 +41,11 @@
 |  | adjust | adjustment |  |  |  |
 |  | coordinate | coordination |  |  |  |
 |  | organize | organization / organizer | organizational / organized |  |  |
-| 影響 | affect |  | affected |  | The delay `had a big effect on` the project. |
-|  | influence |  | influential |  |  |
-|  | impact |  |  |  |  |
+|  | alter | alteration |  |  |  |
+|  | change |  | changeable |  |  |
+|  | modify | modification |  |  |  |
+|  | alternate | alternative | alternately | alternatively |  |
+|  | amend | amendment |  |  |  |
 | 発言 | `explain` | explanation | explanatory |  | Can you `spell it out` for me? |
 |  | clarify | clarity |  |  |  |
 |  | describe | description | descriptive |  |  |
@@ -59,7 +59,7 @@
 |  | solve | solution |  |  |  |
 |  | grasp |  |  |  | I `get it`. |
 |  | `misunderstand` | misunderstanding |  |  | it can easily `be taken out of context`. |
-| 邪魔 | `interrupt` | interruption |  |  | Sorry to `cut you off`, |
+| 妨げ | `interrupt` | interruption |  |  | Sorry to `cut you off`, |
 |  | disrupt | disruption | disruptive |  |  |
 |  | `delay` |  |  |  | The train was `held up` because of the railroad accident. |
 |  | detain |  |  |  |  |
@@ -81,6 +81,19 @@
 | 賛成 | agree | agreement | agreeable |  |  |
 | 反対 |  | adversity | adverse |  |  |
 |  |  |  |  | against |  |
+
+## FACT
+| Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
+|-|-|-|-|-|-|
+| 能力 | afford |  | affordable |  |  |
+|  |  | capability | `capable` |  |  |
+|  |  | ability | `able` |  |  |
+|  |  | competence | competent |  |  |
+|  | qualify | quality / qualification | qualified |  |  |
+|  |  | skill | skilled / skillful |  |  |
+| 影響 | affect |  | affected |  | The delay `had a big effect on` the project. |
+|  | influence |  | influential |  |  |
+|  | impact |  |  |  |  |
 | 良い |  | goodness | `good` |  |  |
 |  |  | greatness | great |  |  |
 |  |  |  | well |  | We’`re better off` than we were five years ago. |
@@ -138,6 +151,7 @@
 |  |  | fear | fearful / fearless |  |  |
 |  |  | panic |  |  |  |
 |  | alert |  |  |  |  |
+|  | amaze | amazement | amazing / amazed |  |  |
 | 非難 | accuse | accusation | accused |  |  |
 |  |  | absurdity | absurd |  |  |
 | 攻撃 | abuse |  | abusive |  |  |
@@ -166,6 +180,10 @@
 |  |  | adequacy | adequate |  | His work hasn’t been `up to snuff` lately. |
 |  | satisfy | satisfaction | satisfactory / satisfying  / satisfied|  | His work hasn’t been `up to snuff` lately. |
 | ほぼ |  |  |  | `almost` | `pretty much` |
+
+## OTHERS
+| Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
+|-|-|-|-|-|-|
 | - |  |  |  | aboard |  |
 | - |  |  |  | about |  |
 | - |  |  |  | abroad |  |
@@ -176,6 +194,15 @@
 | - |  |  |  | ago |  |
 | - |  |  |  | ahead |  |
 | - |  |  |  | alike |  |
+| - |  |  |  | alone |  |
+| - |  |  |  | along |  |
+| - |  |  |  | alongside |  |
+| - |  |  |  | already |  |
+| - |  |  |  | also |  |
+| - |  |  |  | although |  |
+| - |  |  |  | altogether |  |
+| - |  |  |  | always |  |
+| - |  |  |  | among |  |
 | - |  |  |  | respectively |  |
 | - |  |  | abrupt |  |  |
 | - |  |  | absolute | absolutely |  |
@@ -189,6 +216,8 @@
 | - |  |  | afraid |  |  |
 | - |  |  | alive |  |  |
 | - |  |  | all |  |  |
+| - |  |  | aloud |  |  |
+| - |  |  | alright |  |  |
 | - |  |  | informal |  |  |
 | - |  | a |  |  |  |
 | - |  | abnormality | abnormal |  |  |
@@ -245,6 +274,19 @@
 | - |  | algebra |  |  |  |
 | - |  | allergy | allergic |  |  |
 | - |  | alley |  |  |  |
+| - |  | alligator |  |  |  |
+| - |  | almighty |  |  |  |
+| - |  | almond |  |  |  |
+| - |  | alpha |  |  |  |
+| - |  | alphabet | alphabetical |  |  |
+| - |  | altitude |  |  |  |
+| - |  | aluminum |  |  |  |
+| - |  | amateur |  |  |  |
+| - |  | ambassador |  |  |  |
+| - |  | ambition | ambitious |  |  |
+| - |  | ambulance |  |  |  |
+| - |  | amen |  |  |  |
+| - |  | amenity |  |  |  |
 | - |  | beginner |  |  |  |
 | - |  | buyer |  |  |  |
 | - |  | contractor |  |  |  |
@@ -260,4 +302,4 @@
 | - | administer | administration | administrative |  |  |
 | - | adorn | adornment |  |  |  |
 | - | ally | alliance | allied |  |  |
-| - |  | alligator |  |  |  |
+| - | am |  |  |  |  |
