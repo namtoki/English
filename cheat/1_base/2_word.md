@@ -20,6 +20,9 @@
 | 促進 | accelerate | acceleration |  |  | We need to `speed up` the approval process. |
 |  | hasten | hasty | haste | hastily |  |
 |  | advance | advancement | advanced |  |  |
+| 調査 | `examine` | examination / examiner |  |  | Let’s `break down` the problem step by step. |
+|  | analyze | analysis / analyst | analytic / analytical |  |  |
+|  | assess | assessment |  |  |  |
 | 発見 | `find` | finding |  |  |  |
 |  | discover | discovery / discoverer |  |  |  |
 |  | `spot` |  | spotted |  |  |
@@ -53,6 +56,8 @@
 |  | illustrate | illustration | illustrated |  |  |
 |  | affirm | affirmation | affirmative |  |  |
 |  | allege | allegation | alleged | allegedly |  |
+|  | raise |  | raised |  | I'm grad you `brought` that `up` |
+|  | mention |  |  |  |  |
 | 注意 | `beware` |  |  |  | `Watch out for` cars when you cross the street. |
 |  |  |  | careful | carefully |  |
 | 理解 | `understand` | understanding | understandable |  | I finally `figured out` how to use the new software. |
@@ -64,8 +69,6 @@
 |  | `delay` |  |  |  | The train was `held up` because of the railroad accident. |
 |  | detain |  |  |  |  |
 |  | hinder | hindrance |  |  |  |
-| 引合 | raise |  | raised |  | I'm grad you `brought` that `up` |
-|  | mention |  |  |  |  |
 | 削減 | `abandon` | abandonment | abandoned |  | Don’t just `walk away from` your team when things get hard. |
 |  | shorten | shortage | short | shortly | Fast charging can `cut down` on charging time significantly. |
 |  | abbreviate | abbreviation |  |  |  |
@@ -79,8 +82,8 @@
 |  | assign | assignment |  |  |  |
 |  | distribute | distribution / distributor |  |  |  |
 | 賛成 | agree | agreement | agreeable |  |  |
-| 反対 |  | adversity | adverse |  |  |
-|  |  |  |  | against |  |
+| 反対 |  |  |  | against |  |
+|  |  | adversity | adverse |  |  |
 
 ## FACT
 | Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
@@ -102,6 +105,10 @@
 |  | cherish |  |  |  |  |
 | 感謝 | `appreciate` | appreciation | appreciative |  |  |
 |  | thank |  | thankful / thanksgiving | thankfully |  |
+| 楽し | amuse | amusement | amused / amusing |  |  |
+|  | entertain | entertainer / entertainment | entertaining |  |  |
+|  | delight |  | delighted / delightful |  |  |
+|  | cheer |  | cheerful / cheering / cheery |  |  |
 | 許可 | `admit` | admission / admittance |  | admittedly |  |
 | 興奮 | excite | excitement | excited / exciting |  | `hyped` |
 |  | thrill | thriller | thrilling |  |  |
@@ -142,11 +149,13 @@
 | イラ | `annoy` | annoyance | annoyed / annoying |  | His constant humming `drives me up the wall`! |
 |  | irritate | irritation | irritating |  |  |
 |  | infuriate |  |  |  |  |
+| 怒り |  | anger | angry |  |  |
 | 追出 | expel |  |  |  | He was `kicked out` of the bar for starting a fight. |
 |  | banish |  |  |  |  |
 |  | dismiss | dismissal |  |  |  |
 |  | alienate | alien | alienation |  |  |
-| 困難 | agonize | agony |  |  |  |
+| 苦し | agonize | agony |  |  |  |
+|  |  | anguish |  |  |  |
 | 驚愕 | alarm |  | alarming |  |  |
 |  |  | fear | fearful / fearless |  |  |
 |  |  | panic |  |  |  |
@@ -161,6 +170,7 @@
 |  | neglect | negligence | negligent / negligible |  |  |
 | 古い |  |  | `old` |  |  |
 |  |  |  | ancient |  |  |
+|  |  | ancestor / ancestry | ancestral |  |  |
 |  |  |  | elder / elderly |  |  |
 |  |  | age / aging | aged |  |  |
 | 秘密 |  | secret |  | secretly |  |
@@ -174,11 +184,15 @@
 | 会う | meet | meeting |  |  | I really wanna `catch up` with you. |
 |  | encounter |  |  |  |  |
 |  | bump |  |  |  |  |
-| 多少 | abound |  |  |  | The room `was full of` energy and excitement. |
+| 量 | abound |  |  |  | The room `was full of` energy and excitement. |
 |  | overflow |  |  |  |  |
-|  |  | abundance | abundant |  |  |
 |  |  | adequacy | adequate |  | His work hasn’t been `up to snuff` lately. |
-|  | satisfy | satisfaction | satisfactory / satisfying  / satisfied|  | His work hasn’t been `up to snuff` lately. |
+|  | satisfy | satisfaction | satisfactory / satisfying  / satisfied|  |  |
+|  | amplify |  | ample |  |  |
+|  |  | abundance | abundant |  |  |
+|  |  | plenty | plentiful |  |  |
+|  | suffice | sufficiency | sufficient | sufficiently |  |
+|  |  |  | enough |  |  |
 | ほぼ |  |  |  | `almost` | `pretty much` |
 
 ## OTHERS
@@ -203,6 +217,7 @@
 | - |  |  |  | altogether |  |
 | - |  |  |  | always |  |
 | - |  |  |  | among |  |
+| - |  |  |  | and |  |
 | - |  |  |  | respectively |  |
 | - |  |  | abrupt |  |  |
 | - |  |  | absolute | absolutely |  |
@@ -287,6 +302,16 @@
 | - |  | ambulance |  |  |  |
 | - |  | amen |  |  |  |
 | - |  | amenity |  |  |  |
+| - |  | amount |  |  |  |
+| - |  | analog |  |  |  |
+| - |  | analogy | analogous |  |  |
+| - |  | anarchist | anarchy |  |  |
+| - |  | anatomy |  |  |  |
+| - |  | anchor |  |  |  |
+| - |  | anecdote |  |  |  |
+| - |  | angel | angelic |  |  |
+| - |  | angle |  |  |  |
+| - |  | animal |  |  |  |
 | - |  | beginner |  |  |  |
 | - |  | buyer |  |  |  |
 | - |  | contractor |  |  |  |

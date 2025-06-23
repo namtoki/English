@@ -1,6 +1,10 @@
 # VERB
 
 ## Favorite
+- [ ] `give 人 an idea`:                    ([Neutral] 外的要因により浮かぶ) That video `gave me an idea` for my presentation.
+- [ ] `come up with`:                       ([Neutral] 捻り出す) I `came up with` a new way to solve the problem.
+- [ ] `think of`:                           ([Neutral] 思いつく) I just `thought of` a funny joke.
+- [ ] `find a ~ form of ~`:                 ([Neutral] 〜の〜な形を見つける) We need to `find a new form of` leadership that suits this generation.
 - [ ] `be supposed to`                      ([Neutral] ことになっている) On Valentine's Day, in Japan girls `are supposed to` give chocolates.
 - [ ] `be supposed to`                      ([Neutral] することになっている) What time `are we supposed to` be there?
 - [ ] `be supposed to`                      ([Neutral] ものだ) Dolphins `are supposed to` be intelligent.
