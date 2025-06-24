@@ -49,7 +49,17 @@
 |  | modify | modification |  |  |  |
 |  | alternate | alternative | alternately | alternatively |  |
 |  | amend | amendment |  |  |  |
-| 発言 | `explain` | explanation | explanatory |  | Can you `spell it out` for me? |
+| 言う | `talk` to/with |  | talkative |  | Mr.Oya `talked` me `into` buying his car. / `talk` 人 `out of` V-ing |
+|  | speak to/with | speaker / speaking |  |  |  |
+|  | say | saying |  |  |  |
+|  | tell | teller | telling |  |  |
+|  | persuade 人 to do | persuasion | persuasive |  | She persuaded me `into` going to the party. |
+|  | convince 人 to do |  | convincing / convinced |  |  |
+|  | warn 人 to do | warning |  |  |  |
+|  | invite 人 to do | invitation |  |  |  |
+|  | advise 人 to do | advice |  |  |  |
+|  | tempt 人 to do | temptation | tempting |  |  |
+|  | `explain` | explanation | explanatory |  | Can you `spell it out` for me? |
 |  | clarify | clarity |  |  |  |
 |  | describe | description | descriptive |  |  |
 |  | depict |  |  |  |  |
@@ -58,8 +68,10 @@
 |  | allege | allegation | alleged | allegedly |  |
 |  | raise |  | raised |  | I'm grad you `brought` that `up` |
 |  | mention |  |  |  |  |
-| 注意 | `beware` |  |  |  | `Watch out for` cars when you cross the street. |
+| 意識 | `beware` |  |  |  | `Watch out for` cars when you cross the street. |
 |  |  |  | careful | carefully |  |
+|  | follow | follower | following |  |  |
+|  | obey |  |  |  |  |
 | 理解 | `understand` | understanding | understandable |  | I finally `figured out` how to use the new software. |
 |  | solve | solution |  |  |  |
 |  | grasp |  |  |  | I `get it`. |
@@ -127,6 +139,7 @@
 |  |  | correction | correct | correctly |  |
 |  |  |  | decent |  |  |
 |  | suit |  | suitable |  |  |
+|  | `match` |  | matching |  | I think this tie `goes with` your shirt. |
 | 明確 |  |  | `straightforward` |  | I like it when things are `black and white` |
 |  | simplify | simplicity | simple | simply | His instructions were very `clear-cut`, `crystal-clear` |
 | 無料 |  |  | `complimentary` | for free | `freebie` |
@@ -328,3 +341,4 @@
 | - | adorn | adornment |  |  |  |
 | - | ally | alliance | allied |  |  |
 | - | am |  |  |  |  |
+| - | survive | survival / survivor |  |  |  |
