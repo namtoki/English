@@ -2,6 +2,22 @@
 
 ---
 
+## INTRO
+- [x] `You know how S V?`                   ([Casual] ～ってわかるでしょ？) `You know how people always say time flies?` Well, it really does.
+- [x] `Remember when S V?`                  ([Casual] 覚えてる？〜したときのこと) `Remember when we got lost in Tokyo?` That was wild.
+- [ ] `I told you O, right?`                ([Casual] 〜って言ったよね？) `I told you it was going to rain, right?` Now look at the sky!
+- [ ] `I'd like to ask you a favor.`        ([Casual] お願いがあるんだけど) `I'd like to ask you a favor` regarding the report.
+- [ ] `(Did) You wanted to see me?`         ([Casual] お呼びですか？) `(Did) You wanted to see me?` I’m here now.
+- [x] `Can I borrow you for a second?`      ([Casual] ちょっといい？) `Can I borrow you for a second?` I need your advice.
+
+---
+
+## REQUEST
+- [ ] `Could you make O bigger?`            ([Neutral] Oをもっと大きくしてもらえますか？) `Could you make the font bigger?`
+- [ ] `Could you go over it again?`         ([Neutral] もう一度説明してもらえますか？) `Could you go over it again?` I missed that part.
+
+---
+
 ## FAVORITE
 - [ ] `I'll leave it up to you`             ([Casual] 任せるよ) I’m not sure which option is best. `I'll leave it up to you.`
 - [ ] `I'm not particular about it`         ([Casual] こだわりはないよ) `I'm not particular about it`, so whatever works for you is fine.

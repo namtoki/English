@@ -2,15 +2,15 @@
 
 ---
 
-## 逆接
-- [ ] `although`                            ([Neutral] 〜にも関わらず)
+## でも (事実)
 - [x] `even though`                         ([Neutral] 〜にも関わらず) `Even though` he’s new to the team, he’s already made a big impact.
+- [ ] `although`                            ([Neutral] 〜にも関わらず)
 - [ ] `in spite of O`                       ([Formal] に反して) `In spite of` our compliments, he frowned and turned away. He was so rude.
 - [ ] `despite`                             ([Formal] [文語] 〜にもかかわらず) `Despite` the weather, the event went on as planned.
 - [ ] `for all`                             ([Formal] [皮肉] ～にもかかわらず) `For all` her experience, she still struggles with public speaking.
 - [ ] `with all`                            ([Formal] [文語] Oにもかかわらず／Oがあっても) `With all his experience,` he still made a rookie mistake.
 
-## たとえしても
+## でも (仮定)
 - [x] `even if`                             ([Neutral] たとえしても)
 - [ ] `however much S V`                    ([Neutral] どれだけしても) `However much` you study, there's always more to learn.
 - [ ] `no matter how much S V`              ([Neutral] どれだけしても) `No matter how much` I study, I can't improve my English.
@@ -63,9 +63,6 @@
 - [x] `if I'm not mistaken`                 ([Neutral] 間違っていなければ) `If I'm not mistaken,` the meeting is at 3 p.m.
 - [x] `in the first place`                  ([Neutral] そもそも／初めから) I shouldn’t have trusted him `in the first place.`
 - [x] `to be honest`                        ([Casual] 正直に言うと) `To be honest, I didn’t like the movie.`
-- [x] `the way I see it`                    ([Casual] 私の考えでは) `The way I see it,` we should focus on quality over quantity.
-- [ ] `Speaking from O`                     ([Neutral] Oから話すと) `Speaking from experience,` I recommend taking it slow.
-- [x] `personally, in my opinion`           ([Neutral] 個人的には) `Personally, in my opinion, this approach is best.`
 - [x] `at the end of the day`               ([Casual] 結局のところ) `At the end of the day,` what matters is that we tried our best.
 - [ ] `much to the relief of O`             ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
 - [ ] `simply put`                          ([Neutral] 簡単に言えば) `Simply put,` we need to improve communication.

@@ -4,7 +4,6 @@
 
 ## OPINION / THOUGHT EXPRESSIONS（確信度の高い順）
 - [ ] `I'm sure (that)` S V                 ([Neutral] ～を確信している) `I'm sure that` everything will work out fine.  
-- [x] `I say` S V                           ([Casual] ～って思う／～しようよ) `I say` we take a break and grab some coffee.  
 - [ ] `I have to say S V`                   ([Neutral] 正直に言うと～だ) `I have to say` this turned out better than I expected.  
 - [ ] `I suspect (that)` S V                ([Neutral] ～ではないかと思う／〜の疑いがある) `I suspect that` he knew more than he let on.  
 - [ ] `I doubt (that)` S V                  ([Neutral] ～とは思えない／〜は疑わしい) `I doubt that` this plan will work without more resources.  
@@ -16,6 +15,11 @@
 - [ ] `I have a feeling / hunch that` S V   ([Casual] ～な予感がする／直感で〜と思う) `I have a hunch that` something big is about to happen.  
 - [ ] `I hope` S V                          ([Neutral] ～であってほしい）`I hope` everything goes smoothly tomorrow.  
 - [ ] `I wish` S V                          ([Neutral] ～であればよかったのに／〜であればいいのに）`I wish` I had more time to relax.  
+
+---
+
+## REQUEST
+- [x] `I say` S V                           ([Casual] ～って思う／～しようよ) `I say` we take a break and grab some coffee.  
 
 ---
 
