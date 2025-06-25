@@ -12,6 +12,10 @@
 |  | attempt |  | attempted |  |  |
 |  | test |  | testing |  |  |
 |  | strive |  |  |  |  |
+| 確認 | `review` |  |  |  | Let’s `go over` the schedule before the meeting. |
+|  | verify |  |  |  |  |
+|  | check |  |  |  |  |
+|  | `confirm` | confirmation | confirmed |  |  |
 | 開始 | `begin` | beginning |  |  | I'm gonna `get the ball rolling` on our wedding planning by... |
 |  | `start` | starter |  |  |  |
 |  | commence |  |  |  |  |
