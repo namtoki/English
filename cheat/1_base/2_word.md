@@ -24,6 +24,14 @@
 | 促進 | accelerate | acceleration |  |  | We need to `speed up` the approval process. |
 |  | hasten | hasty | haste | hastily |  |
 |  | advance | advancement | advanced |  |  |
+|  | animate | animation | animated |  |  |
+| 妨げ | `interrupt` | interruption |  |  | Sorry to `cut you off`, |
+|  | disrupt | disruption | disruptive |  |  |
+|  | `delay` |  |  |  | The train was `held up` because of the railroad accident. |
+|  | detain |  |  |  |  |
+|  | hinder | hindrance |  |  |  |
+|  | stall |  |  |  |  |
+|  | postpone |  |  |  |  |
 | 調査 | `examine` | examination / examiner |  |  | Let’s `break down` the problem step by step. |
 |  | analyze | analysis / analyst | analytic / analytical |  |  |
 |  | assess | assessment |  |  |  |
@@ -72,6 +80,14 @@
 |  | allege | allegation | alleged | allegedly |  |
 |  | raise |  | raised |  | I'm grad you `brought` that `up` |
 |  | mention |  |  |  |  |
+|  | announce | announcement / announcer |  |  |  |
+| 予想 | anticipate | anticipation |  |  |  |
+|  | expect | expectation |  |  |  |
+|  | predict | prediction | predictable |  |  |
+|  | forecast |  |  |  |  |
+|  | assume | assumption | assuming |  |  |
+|  | speculate | speculation | speculative |  |  |
+|  | guess |  |  |  |  |
 | 意識 | `beware` |  |  |  | `Watch out for` cars when you cross the street. |
 |  |  |  | careful | carefully |  |
 |  | follow | follower | following |  |  |
@@ -80,11 +96,6 @@
 |  | solve | solution |  |  |  |
 |  | grasp |  |  |  | I `get it`. |
 |  | `misunderstand` | misunderstanding |  |  | it can easily `be taken out of context`. |
-| 妨げ | `interrupt` | interruption |  |  | Sorry to `cut you off`, |
-|  | disrupt | disruption | disruptive |  |  |
-|  | `delay` |  |  |  | The train was `held up` because of the railroad accident. |
-|  | detain |  |  |  |  |
-|  | hinder | hindrance |  |  |  |
 | 削減 | `abandon` | abandonment | abandoned |  | Don’t just `walk away from` your team when things get hard. |
 |  | shorten | shortage | short | shortly | Fast charging can `cut down` on charging time significantly. |
 |  | abbreviate | abbreviation |  |  |  |
@@ -173,6 +184,7 @@
 |  | alienate | alien | alienation |  |  |
 | 苦し | agonize | agony |  |  |  |
 |  |  | anguish |  |  |  |
+| 心配 |  | anxiety | anxious |  |  |
 | 驚愕 | alarm |  | alarming |  |  |
 |  |  | fear | fearful / fearless |  |  |
 |  |  | panic |  |  |  |
@@ -190,6 +202,7 @@
 |  |  | ancestor / ancestry | ancestral |  |  |
 |  |  |  | elder / elderly |  |  |
 |  |  | age / aging | aged |  |  |
+|  |  | antiquity | antique |  |  |
 | 秘密 |  | secret |  | secretly |  |
 | 買物 | `buy` |  |  |  | `grab` |
 |  |  | expense | expensive |  | `pricey` |
@@ -250,6 +263,11 @@
 | - |  |  | all |  |  |
 | - |  |  | aloud |  |  |
 | - |  |  | alright |  |  |
+| - |  |  | annual | annually |  |
+| - |  |  | anonymous |  |  |
+| - |  |  | another |  |  |
+| - |  |  | anti |  |  |
+| - |  |  | antarctic |  |  |
 | - |  |  | informal |  |  |
 | - |  | a |  |  |  |
 | - |  | abnormality | abnormal |  |  |
@@ -329,6 +347,13 @@
 | - |  | angel | angelic |  |  |
 | - |  | angle |  |  |  |
 | - |  | animal |  |  |  |
+| - |  | ankle |  |  |  |
+| - |  | anniversary |  |  |  |
+| - |  | answer |  |  |  |
+| - |  | ant |  |  |  |
+| - |  | antenna |  |  |  |
+| - |  | anthropology |  |  |  |
+| - |  | antibody |  |  |  |
 | - |  | beginner |  |  |  |
 | - |  | buyer |  |  |  |
 | - |  | contractor |  |  |  |
