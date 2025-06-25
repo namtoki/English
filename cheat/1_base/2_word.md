@@ -7,7 +7,7 @@
 |  | address |  |  |  | We have to `deal with` this issue before it gets worse. |
 |  | deal | dealing |  |  |  |
 |  | cope |  |  |  |  |
-|  | handle | handling |  |  |  |
+|  | handle | handling |  |  | We `do a lot with` mobility, travel and healthcare. |
 | 試行 | `try` | trial |  |  | I'm going to `check out` the new bar on Saturday. |
 |  | attempt |  | attempted |  |  |
 |  | test |  | testing |  |  |
