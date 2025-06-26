@@ -16,12 +16,8 @@
 - [ ] `I hope` S V                          ([Neutral] ～であってほしい）`I hope` everything goes smoothly tomorrow.  
 - [ ] `I wish` S V                          ([Neutral] ～であればよかったのに／〜であればいいのに）`I wish` I had more time to relax.  
 
----
-
 ## REQUEST
 - [x] `I say` S V                           ([Casual] ～って思う／～しようよ) `I say` we take a break and grab some coffee.  
-
----
 
 ## EXPLAIN
 - [ ] `It's almost like` O                  ([Casual] ほとんどOみたいだ）`It’s almost like` we’re starting from scratch.  
@@ -37,8 +33,6 @@
 - [ ] `It's not the fact that` S V          ([Neutral] 〜という事実が問題なのではない）`It's not the fact that` I find him boring.  
 - [ ] `It's the fact that` S V              ([Neutral] 〜という事実が問題なんだ）`It's the fact that` it's so diverse.  
 
----
-
 ## ASSUMPTION
 - [x] `Chances are (that)` S V              ([Casual] 80–90%：たぶん〜だろう) `Chances are` she forgot about the meeting.
 - [x] `I'd say (that)` S V                  ([Casual] 70–80%：〜だと思うな／〜じゃないかな) `I'd say` this is our best option so far.
@@ -50,3 +44,5 @@
 - [x] `It could be (that)` S V              ([Neutral] 40–60%：〜である可能性がある) `It could be that` she misunderstood the instructions.
 - [x] `I guess (that)` S V                  ([Casual] 40–60%：〜かな／〜かもしれない) `I guess` he’s not coming.
 - [x] `It might be (that)` S V              ([Neutral] 30–50%：〜かもしれない（可能性はやや低め）) `It might be that` she forgot.
+
+---

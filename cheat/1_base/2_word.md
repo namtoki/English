@@ -8,16 +8,17 @@
 |  | deal | dealing |  |  |  |
 |  | cope |  |  |  |  |
 |  | handle | handling |  |  | We `do a lot with` mobility, travel and healthcare. |
+|  | approach |  |  |  |  |
 | 試行 | `try` | trial |  |  | I'm going to `check out` the new bar on Saturday. |
 |  | attempt |  | attempted |  |  |
 |  | test |  | testing |  |  |
 |  | strive |  |  |  |  |
-| 確認 | `review` |  |  |  | Let’s `go over` the schedule before the meeting. |
+| 確認 | review |  |  |  | Let’s `go over` the schedule before the meeting. |
 |  | verify |  |  |  |  |
 |  | check |  |  |  |  |
 |  | `confirm` | confirmation | confirmed |  |  |
 | 開始 | `begin` | beginning |  |  | I'm gonna `get the ball rolling` on our wedding planning by... |
-|  | `start` | starter |  |  |  |
+|  | `start` | starter |  |  | Maybe I would `take up` walking or something. |
 |  | commence |  |  |  |  |
 |  | launch |  |  |  |  |
 |  | initiate | initiation / initiative |  |  |  |
@@ -34,7 +35,9 @@
 |  | postpone |  |  |  |  |
 | 調査 | `examine` | examination / examiner |  |  | Let’s `break down` the problem step by step. |
 |  | analyze | analysis / analyst | analytic / analytical |  |  |
+| 評価 | `evaluate` | evaluation |  |  |  |
 |  | assess | assessment |  |  |  |
+|  |  | appraisal |  |  |  |
 | 発見 | `find` | finding |  |  |  |
 |  | discover | discovery / discoverer |  |  |  |
 |  | `spot` |  | spotted |  |  |
@@ -112,6 +115,7 @@
 |  | distribute | distribution / distributor |  |  |  |
 |  | appoint | appointment |  |  |  |
 | 賛成 | agree | agreement | agreeable |  |  |
+|  | approve | approval |  |  |  |
 | 反対 |  |  |  | against |  |
 |  |  | adversity | adverse |  |  |
 
@@ -154,6 +158,7 @@
 | 尊敬 | respect | respective | respectable / respectful | respectfully |  |
 |  |  | worship |  |  |  |
 | 適切 |  |  | `proper` | properly | `legit` |
+|  |  | aptitude | apt |  |  |
 |  |  |  | appropriate |  |  |
 |  |  | correction | correct | correctly |  |
 |  |  |  | decent |  |  |
@@ -175,11 +180,13 @@
 | 曖昧 |  | ambiguity | `ambiguous` |  | `gray area` |
 |  |  |  | `vague` | vaguely |  |
 |  |  |  | unclear |  |  |
+|  |  | approximate | approximately |  |  |
 | 過剰 |  | excess | `excessive` |  | That movie was a bit `over the top`, but still fun. |
 |  | exaggerate | exaggeration |  |  |  |
 |  |  | addiction | addicted/addictive |  |  |
 | 雑 |  |  | `sloppy` |  |  |
 |  |  |  | careless | carelessly |  |
+|  |  |  | arbitrary |  |  |
 | 怠け |  |  | slack |  | He's been `slacking off` at work lately. `cut corners` |
 | 面倒 |  | trick | `tricky` |  | `fiddly` |
 |  |  |  | tedious |  |  |
@@ -213,6 +220,7 @@
 |  |  |  | elder / elderly |  |  |
 |  |  | age / aging | aged |  |  |
 |  |  | antiquity | antique |  |  |
+|  |  | archaeology | archaic |  |  |
 | 秘密 |  | secret |  | secretly |  |
 | 買物 | `buy` |  |  |  | `grab` |
 |  |  | expense | expensive |  | `pricey` |
@@ -284,7 +292,7 @@
 | - |  |  | anonymous |  |  |
 | - |  |  | another |  |  |
 | - |  |  | anti |  |  |
-| - |  |  | antarctic |  |  |
+| 極 |  |  | arctic / antarctic |  |  |
 | - |  |  | any |  |  |
 | - |  |  | informal |  |  |
 | - |  | a |  |  |  |
@@ -384,6 +392,15 @@
 | - |  | appetite / appetizer | appetizing |  |  |
 | - |  | apple |  |  |  |
 | - |  | appliance |  |  |  |
+| 見習い |  | apprentice / apprenticeship |  |  |  |
+| 杏 |  | apricot |  |  |  |
+| 4月 |  | April |  |  |  |
+| エプロン |  | apron |  |  |  |
+| 水族館 |  | aquarium | aquatic |  |  |
+| 円弧 |  | arc / arcade / arch |  |  |  |
+| 弧形 |  | archery | arched |  |  |
+| 構造 |  | architect / architecture | architectural |  |  |
+| 書庫 |  | archive |  |  |  |
 | - |  | beginner |  |  |  |
 | - |  | buyer |  |  |  |
 | - |  | contractor |  |  |  |
@@ -399,6 +416,7 @@
 | - | administer | administration | administrative |  |  |
 | - | adorn | adornment |  |  |  |
 | - | ally | alliance | allied |  |  |
-| - | am |  |  |  |  |
+| - | am / are |  |  |  |  |
 | - | apologize | apology |  |  |  |
+| 逮捕 | apprehend | apprehension |  |  |  |
 | - | survive | survival / survivor |  |  |  |
