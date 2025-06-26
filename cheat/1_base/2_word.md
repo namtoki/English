@@ -61,6 +61,7 @@
 |  | modify | modification |  |  |  |
 |  | alternate | alternative | alternately | alternatively |  |
 |  | amend | amendment |  |  |  |
+|  | apply | applicant / application | applied / applicable |  |  |
 | 言う | `talk` to/with |  | talkative |  | Mr.Oya `talked` me `into` buying his car. / `talk` 人 `out of` V-ing |
 |  | speak to/with | speaker / speaking |  |  |  |
 |  | say | saying |  |  |  |
@@ -81,6 +82,7 @@
 |  | raise |  | raised |  | I'm grad you `brought` that `up` |
 |  | mention |  |  |  |  |
 |  | announce | announcement / announcer |  |  |  |
+|  | appeal |  |  |  |  |
 | 予想 | anticipate | anticipation |  |  |  |
 |  | expect | expectation |  |  |  |
 |  | predict | prediction | predictable |  |  |
@@ -90,8 +92,8 @@
 |  | guess |  |  |  |  |
 | 意識 | `beware` |  |  |  | `Watch out for` cars when you cross the street. |
 |  |  |  | careful | carefully |  |
-|  | follow | follower | following |  |  |
-|  | obey |  |  |  |  |
+|  | follow | follower | following |  | When one airline lowers its prices, the others usually `follow suit`. |
+|  | obey |  |  |  | I didn’t really agree, but I `went along with` it. |
 | 理解 | `understand` | understanding | understandable |  | I finally `figured out` how to use the new software. |
 |  | solve | solution |  |  |  |
 |  | grasp |  |  |  | I `get it`. |
@@ -108,6 +110,7 @@
 |  | allot |  |  |  |  |
 |  | assign | assignment |  |  |  |
 |  | distribute | distribution / distributor |  |  |  |
+|  | appoint | appointment |  |  |  |
 | 賛成 | agree | agreement | agreeable |  |  |
 | 反対 |  |  |  | against |  |
 |  |  | adversity | adverse |  |  |
@@ -144,9 +147,10 @@
 | 正確 |  |  | `exact` | exactly | trains leave `on the dot` |
 |  |  | accuracy | accurate | accurately |  |
 |  |  | precision | precise | precisely |  |
-| 賞賛 |  | `praise` |  |  |  |
-|  |  | admire | admiration | admirable |  |
-|  |  | commend |  |  |  |
+| 賞賛 | `praise` |  |  |  |  |
+|  | admire | admiration | admirable |  |  |
+|  | commend |  |  |  |  |
+|  | applaud | applause |  |  |  |
 | 尊敬 | respect | respective | respectable / respectful | respectfully |  |
 |  |  | worship |  |  |  |
 | 適切 |  |  | `proper` | properly | `legit` |
@@ -157,6 +161,12 @@
 |  | `match` |  | matching |  | I think this tie `goes with` your shirt. |
 | 明確 |  |  | `straightforward` |  | I like it when things are `black and white` |
 |  | simplify | simplicity | simple | simply | His instructions were very `clear-cut`, `crystal-clear` |
+|  |  |  | apparent | apparently |  |
+|  | appear | appearance |  |  |  |
+|  | seem |  | seeming | seemingly |  |
+|  |  |  | obvious | obviously |  |
+|  |  | evidence | evident | evidently |  |
+|  |  | clearance / clearing / clearness | clear | clearly |  |
 | 無料 |  |  | `complimentary` | for free | `freebie` |
 | 自由 |  | freedom | free | freely |  |
 |  |  | downtime |  |  |  |
@@ -214,7 +224,7 @@
 | 会う | meet | meeting |  |  | I really wanna `catch up` with you. |
 |  | encounter |  |  |  |  |
 |  | bump |  |  |  |  |
-| 量 | abound |  |  |  | The room `was full of` energy and excitement. |
+| 存在 | abound |  |  |  | The room `was full of` energy and excitement. |
 |  | overflow |  |  |  |  |
 |  |  | adequacy | adequate |  | His work hasn’t been `up to snuff` lately. |
 |  | satisfy | satisfaction | satisfactory / satisfying  / satisfied|  |  |
@@ -223,6 +233,7 @@
 |  |  | plenty | plentiful |  |  |
 |  | suffice | sufficiency | sufficient | sufficiently |  |
 |  |  |  | enough |  |  |
+| 動作 | swirl |  |  |  | Rumors were `swirling around` the office. |
 | ほぼ |  |  |  | `almost` | `pretty much` |
 
 ## OTHERS
@@ -248,6 +259,12 @@
 | - |  |  |  | always |  |
 | - |  |  |  | among |  |
 | - |  |  |  | and |  |
+| - |  |  |  | anyhow |  |
+| - |  |  |  | anyhow |  |
+| - |  |  |  | anymore |  |
+| - |  |  |  | anytime |  |
+| - |  |  |  | anyway |  |
+| - |  |  |  | anywhere |  |
 | - |  |  |  | respectively |  |
 | - |  |  | abrupt |  |  |
 | - |  |  | absolute | absolutely |  |
@@ -268,6 +285,7 @@
 | - |  |  | another |  |  |
 | - |  |  | anti |  |  |
 | - |  |  | antarctic |  |  |
+| - |  |  | any |  |  |
 | - |  |  | informal |  |  |
 | - |  | a |  |  |  |
 | - |  | abnormality | abnormal |  |  |
@@ -354,6 +372,18 @@
 | - |  | antenna |  |  |  |
 | - |  | anthropology |  |  |  |
 | - |  | antibody |  |  |  |
+| - |  | anybody |  |  |  |
+| - |  | anyone |  |  |  |
+| - |  | anything |  |  |  |
+| - |  | apathy |  |  |  |
+| - |  | apartment |  | apart |  |
+| - |  | ape |  |  |  |
+| - |  | apparatus |  |  |  |
+| - |  | apparel |  |  |  |
+| - |  | appendix |  |  |  |
+| - |  | appetite / appetizer | appetizing |  |  |
+| - |  | apple |  |  |  |
+| - |  | appliance |  |  |  |
 | - |  | beginner |  |  |  |
 | - |  | buyer |  |  |  |
 | - |  | contractor |  |  |  |
@@ -370,4 +400,5 @@
 | - | adorn | adornment |  |  |  |
 | - | ally | alliance | allied |  |  |
 | - | am |  |  |  |  |
+| - | apologize | apology |  |  |  |
 | - | survive | survival / survivor |  |  |  |

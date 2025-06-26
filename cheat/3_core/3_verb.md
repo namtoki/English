@@ -1,5 +1,11 @@
 # VERB
 
+---
+
+## Auxiliary Verb
+- [ ] `gotta`                               ([Casual] ～しなきゃ／～しないと) `I gotta` finish this by tonight.
+- [ ] `have got to`                         ([Casual] ～しなきゃ／～しないと) `I’ve got to` finish this by tonight.
+
 ## Favorite
 - [ ] `give 人 an idea`:                    ([Neutral] 外的要因により浮かぶ) That video `gave me an idea` for my presentation.
 - [ ] `come up with`:                       ([Neutral] 捻り出す) I `came up with` a new way to solve the problem.
@@ -9,10 +15,14 @@
 - [ ] `be supposed to`                      ([Neutral] することになっている) What time `are we supposed to` be there?
 - [ ] `be supposed to`                      ([Neutral] ものだ) Dolphins `are supposed to` be intelligent.
 
-## Others
-- [ ] `got to`                              ([Casual] ～しなきゃ／～しないと) `I’ve got to` finish this by tonight.
+## 人の行動
+
+
+## 無生物主語
+
 - [ ] `pop up`                              ([Casual] 突然現れる) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#POPUP)
-- [ ] `follow suit`                         ([Neutral] 他の人の行動に従う) When one airline lowers its prices, the others usually `follow suit`.
+
+## Others
 - [ ] `ready to`                            ([Neutral] 準備ができて～する) I'`m ready to` start the meeting.
 - [ ] `be about to`                         ([Neutral] しようとしているところ) I `am about to` go to sleep.
 - [ ] `on the verge of`                     ([Neutral] まさに～しようとしている) I `am on the verge of` going to sleep.

@@ -196,6 +196,7 @@
 - [ ] `It's a custom to V`                  ([Neutral] ～する習慣がある) `It's a custom to` give gifts during the holidays.
 - [ ] `It's traditional to V`               ([Neutral] ～するのが伝統だ) `It's traditional to` celebrate New Year's with family.
 - [ ] `There're times when S V`             ([Neutral] ～する時もある) `There're times when` I feel overwhelmed with work.
+- [ ] `There's a side to A that S V`        ([Neutral] 一面がある) `There’s a side to her` that most people never see.
 
 ---
 
