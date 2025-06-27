@@ -17,6 +17,7 @@
 |  | verify |  |  |  |  |
 |  | check |  |  |  |  |
 |  | `confirm` | confirmation | confirmed |  |  |
+|  | ascertain |  |  |  |  |
 | 開始 | `begin` | beginning |  |  | I'm gonna `get the ball rolling` on our wedding planning by... |
 |  | `start` | starter |  |  | Maybe I would `take up` walking or something. |
 |  | commence |  |  |  |  |
@@ -26,6 +27,7 @@
 |  | hasten | hasty | haste | hastily |  |
 |  | advance | advancement | advanced |  |  |
 |  | animate | animation | animated |  |  |
+|  | arouse |  |  |  |  |
 | 妨げ | `interrupt` | interruption |  |  | Sorry to `cut you off`, |
 |  | disrupt | disruption | disruptive |  |  |
 |  | `delay` |  |  |  | The train was `held up` because of the railroad accident. |
@@ -65,6 +67,7 @@
 |  | alternate | alternative | alternately | alternatively |  |
 |  | amend | amendment |  |  |  |
 |  | apply | applicant / application | applied / applicable |  |  |
+|  | arrange | arrangement |  |  |  |
 | 言う | `talk` to/with |  | talkative |  | Mr.Oya `talked` me `into` buying his car. / `talk` 人 `out of` V-ing |
 |  | speak to/with | speaker / speaking |  |  |  |
 |  | say | saying |  |  |  |
@@ -86,6 +89,8 @@
 |  | mention |  |  |  |  |
 |  | announce | announcement / announcer |  |  |  |
 |  | appeal |  |  |  |  |
+|  | argue | argument |  |  |  |
+|  | ask |  |  |  |  |
 | 予想 | anticipate | anticipation |  |  |  |
 |  | expect | expectation |  |  |  |
 |  | predict | prediction | predictable |  |  |
@@ -114,10 +119,15 @@
 |  | assign | assignment |  |  |  |
 |  | distribute | distribution / distributor |  |  |  |
 |  | appoint | appointment |  |  |  |
+|  | ascribe |  |  |  |  |
 | 賛成 | agree | agreement | agreeable |  |  |
 |  | approve | approval |  |  |  |
 | 反対 |  |  |  | against |  |
 |  |  | adversity | adverse |  |  |
+| 面 |  | part | partial | partially |  |
+|  |  | aspect |  |  |  |
+|  |  | perspective |  |  |  |
+|  |  | side / sideboard / sidewalk |  |  |  |
 
 ## FACT
 | Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
@@ -137,6 +147,7 @@
 | 好き | adore |  | adorable |  |  |
 |  | love |  | lovely |  |  |
 |  | cherish |  |  |  |  |
+|  | aspire | aspiration |  |  |  |
 | 感謝 | `appreciate` | appreciation | appreciative |  |  |
 |  | thank |  | thankful / thanksgiving | thankfully |  |
 | 楽し | amuse | amusement | amused / amusing |  |  |
@@ -184,13 +195,17 @@
 | 過剰 |  | excess | `excessive` |  | That movie was a bit `over the top`, but still fun. |
 |  | exaggerate | exaggeration |  |  |  |
 |  |  | addiction | addicted/addictive |  |  |
+|  |  | arrogance | arrogant |  |  |
 | 雑 |  |  | `sloppy` |  |  |
 |  |  |  | careless | carelessly |  |
 |  |  |  | arbitrary |  |  |
 | 怠け |  |  | slack |  | He's been `slacking off` at work lately. `cut corners` |
 | 面倒 |  | trick | `tricky` |  | `fiddly` |
 |  |  |  | tedious |  |  |
-| 辱め | humiliate | humiliation |  |  |  |
+| 辱め |  |  | ashamed |  |  |
+|  | embarrass | embarrassment | embarrassed / embarrassing |  |  |
+|  | humiliate | humiliation |  |  |  |
+|  |  |  | ashamed |  |  |
 | イラ | `annoy` | annoyance | annoyed / annoying |  | His constant humming `drives me up the wall`! |
 |  | irritate | irritation | irritating |  |  |
 |  | infuriate |  |  |  |  |
@@ -211,6 +226,10 @@
 |  |  | absurdity | absurd |  |  |
 | 攻撃 | abuse |  | abusive |  |  |
 |  |  | aggression / aggressor | aggressive |  |  |
+|  | arm | army | armed |  |  |
+|  |  | armor | armored |  |  |
+|  | assassinate | assassination / assassin |  |  |  |
+|  | assault |  |  |  |  |
 | 謙虚 |  | modesty | `modest` | modestly | `low-key` |
 |  |  | `humility` |  |  |  |
 |  | neglect | negligence | negligent / negligible |  |  |
@@ -229,10 +248,12 @@
 |  | gain |  |  |  |  |
 |  | acquire | acquisition |  |  | He `picked up` some Japanese during his trip. |
 |  | `grab` |  |  |  |  |
-| 会う | meet | meeting |  |  | I really wanna `catch up` with you. |
-|  | encounter |  |  |  |  |
+| 出現 | meet | meeting |  |  | I really wanna `catch up` with you. |
+|  | encounter |  |  |  | `hit a snag` |
 |  | bump |  |  |  |  |
-| 存在 | abound |  |  |  | The room `was full of` energy and excitement. |
+|  | arise |  |  |  |  |
+|  | arrive | arrival |  |  |  |
+| 量 | abound |  |  |  | The room `was full of` energy and excitement. |
 |  | overflow |  |  |  |  |
 |  |  | adequacy | adequate |  | His work hasn’t been `up to snuff` lately. |
 |  | satisfy | satisfaction | satisfactory / satisfying  / satisfied|  |  |
@@ -241,7 +262,11 @@
 |  |  | plenty | plentiful |  |  |
 |  | suffice | sufficiency | sufficient | sufficiently |  |
 |  |  |  | enough |  |  |
+|  |  |  | armful |  |  |
 | 動作 | swirl |  |  |  | Rumors were `swirling around` the office. |
+| 移動 | rise |  |  |  |  |
+|  | climb | climbing |  |  |  |
+|  | ascend | ascent |  |  |  |
 | ほぼ |  |  |  | `almost` | `pretty much` |
 
 ## OTHERS
@@ -273,7 +298,12 @@
 | - |  |  |  | anytime |  |
 | - |  |  |  | anyway |  |
 | - |  |  |  | anywhere |  |
-| - |  |  |  | respectively |  |
+| - |  |  |  | around |  |
+| 岸に |  |  |  | ashore |  |
+| 脇に |  |  |  | aside |  |
+| 眠って |  |  |  | asleep |  |
+| 横向きに |  |  |  | sideways |  |
+| - |  |  |  | respectivey |  |
 | - |  |  | abrupt |  |  |
 | - |  |  | absolute | absolutely |  |
 | - |  |  | acid |  |  |
@@ -294,6 +324,7 @@
 | - |  |  | anti |  |  |
 | 極 |  |  | arctic / antarctic |  |  |
 | - |  |  | any |  |  |
+| 人工的 |  |  | artificial |  |  |
 | - |  |  | informal |  |  |
 | - |  | a |  |  |  |
 | - |  | abnormality | abnormal |  |  |
@@ -401,6 +432,19 @@
 | 弧形 |  | archery | arched |  |  |
 | 構造 |  | architect / architecture | architectural |  |  |
 | 書庫 |  | archive |  |  |  |
+| 領域 |  | area |  |  |  |
+| 土俵 |  | arena |  |  |  |
+| 貴族 |  | aristocracy / aristocrat | aristocratic |  |  |
+| 肘椅子 |  | armchair |  |  |  |
+| 配列 |  | array |  |  |  |
+| 矢印 |  | arrow |  |  |  |
+| 芸巧み |  | art / artist / artwork | artful / artistic |  |  |
+| 技巧師 |  | artisan |  |  |  |
+| 記事 |  | article |  |  |  |
+| 灰 |  | ash / ashtray |  |  |  |
+| 野菜 |  | asparagus |  |  |  |
+| 薬 |  | aspirin |  |  |  |
+| 体 |  | ass |  |  |  |
 | - |  | beginner |  |  |  |
 | - |  | buyer |  |  |  |
 | - |  | contractor |  |  |  |
@@ -419,4 +463,5 @@
 | - | am / are |  |  |  |  |
 | - | apologize | apology |  |  |  |
 | 逮捕 | apprehend | apprehension |  |  |  |
+|  | arrest |  |  |  |  |
 | - | survive | survival / survivor |  |  |  |
