@@ -28,6 +28,10 @@
 |  | advance | advancement | advanced |  |  |
 |  | animate | animation | animated |  |  |
 |  | arouse |  |  |  |  |
+|  | assist | assistance / assistant |  |  |  |
+|  | help |  | helpful / helpless |  |  |
+|  | support | supporter | supportive |  |  |
+|  | aid | aide |  |  |  |
 | 妨げ | `interrupt` | interruption |  |  | Sorry to `cut you off`, |
 |  | disrupt | disruption | disruptive |  |  |
 |  | `delay` |  |  |  | The train was `held up` because of the railroad accident. |
@@ -91,6 +95,9 @@
 |  | appeal |  |  |  |  |
 |  | argue | argument |  |  |  |
 |  | ask |  |  |  |  |
+|  | assert | assertion | assertive |  |  |
+|  | claim |  |  |  |  |
+|  | declare | declaration |  |  |  |
 | 予想 | anticipate | anticipation |  |  |  |
 |  | expect | expectation |  |  |  |
 |  | predict | prediction | predictable |  |  |
@@ -268,6 +275,8 @@
 |  | climb | climbing |  |  |  |
 |  | ascend | ascent |  |  |  |
 | ほぼ |  |  |  | `almost` | `pretty much` |
+| 集合 | assemble | assembly |  |  |  |
+|  | build | builder / building |  |  |  |
 
 ## OTHERS
 | Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
@@ -364,8 +373,6 @@
 | - |  | agency |  |  |  |
 | - |  | agenda |  |  |  |
 | - |  | ah / aha |  |  |  |
-| - |  | aid |  |  |  |
-| - |  | aide |  |  |  |
 | - |  | aim | aimless |  |  |
 | - |  | air |  |  |  |
 | - |  | aircraft |  |  |  |
@@ -445,6 +452,7 @@
 | 野菜 |  | asparagus |  |  |  |
 | 薬 |  | aspirin |  |  |  |
 | 体 |  | ass |  |  |  |
+| 資産 |  | asset |  |  |  |
 | - |  | beginner |  |  |  |
 | - |  | buyer |  |  |  |
 | - |  | contractor |  |  |  |
