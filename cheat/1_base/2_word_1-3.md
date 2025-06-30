@@ -15,20 +15,7 @@
 - [x] archbishop
 - [x] arithmetic
 - [x] assimilate
-- [ ] associate
-- [ ] association
-- [ ] assorted
-- [ ] assurance
-- [ ] assure
-- [ ] astonish
-- [ ] astonishing
-- [ ] astonishment
-- [ ] astray
-- [ ] astronaut
-- [ ] astronomer
-- [ ] astronomical
-- [ ] astronomy
-- [ ] at
+- [x] astray
 - [ ] athlete
 - [ ] athletic
 - [ ] athletics
@@ -2882,7 +2869,6 @@
 - [ ] grown
 - [ ] growth
 - [ ] grumble
-- [ ] guarantee
 - [ ] guard
 - [ ] guardian
 - [ ] guerrilla
@@ -5414,8 +5400,6 @@
 - [ ] prolong
 - [ ] prominence
 - [ ] prominent
-- [ ] promise
-- [ ] promising
 - [ ] promote
 - [ ] promoter
 - [ ] promotion
@@ -5649,7 +5633,6 @@
 - [ ] reasonable
 - [ ] reasonably
 - [ ] reasoning
-- [ ] reassure
 - [ ] rebel
 - [ ] rebellion
 - [ ] rebellious

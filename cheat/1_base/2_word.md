@@ -44,6 +44,10 @@
 | 評価 | `evaluate` | evaluation |  |  |  |
 |  | assess | assessment |  |  |  |
 |  |  | appraisal |  |  |  |
+| 保証 | `assure` | assurance |  |  |  |
+|  | guarantee |  |  |  |  |
+|  | promise |  | promising |  |  |
+|  | reassure |  |  |  |  |
 | 発見 | `find` | finding |  |  |  |
 |  | discover | discovery / discoverer |  |  |  |
 |  | `spot` |  | spotted |  |  |
@@ -127,6 +131,7 @@
 |  | distribute | distribution / distributor |  |  |  |
 |  | appoint | appointment |  |  |  |
 |  | ascribe |  |  |  |  |
+|  | associate | association |  |  |  |
 | 賛成 | agree | agreement | agreeable |  |  |
 |  | approve | approval |  |  |  |
 | 反対 |  |  |  | against |  |
@@ -148,7 +153,7 @@
 | 影響 | affect |  | affected |  | The delay `had a big effect on` the project. |
 |  | influence |  | influential |  |  |
 |  | impact |  |  |  |  |
-| 良い |  | goodness | `good` |  |  |
+| 良い |  | goodness | `good` |  | The sky seems to `be clearing up` after the rain. |
 |  |  | greatness | great |  |  |
 |  |  |  | well |  | We’`re better off` than we were five years ago. |
 | 好き | adore |  | adorable |  |  |
@@ -229,6 +234,7 @@
 |  |  | panic |  |  |  |
 |  | alert |  |  |  |  |
 |  | amaze | amazement | amazing / amazed |  |  |
+|  | astonish | astonishment | astonishing |  |  |
 | 非難 | accuse | accusation | accused |  |  |
 |  |  | absurdity | absurd |  |  |
 | 攻撃 | abuse |  | abusive |  |  |
@@ -311,6 +317,7 @@
 | 岸に |  |  |  | ashore |  |
 | 脇に |  |  |  | aside |  |
 | 眠って |  |  |  | asleep |  |
+| - |  |  |  | at |  |
 | 横向きに |  |  |  | sideways |  |
 | - |  |  |  | respectivey |  |
 | - |  |  | abrupt |  |  |
@@ -334,6 +341,7 @@
 | 極 |  |  | arctic / antarctic |  |  |
 | - |  |  | any |  |  |
 | 人工的 |  |  | artificial |  |  |
+| 盛合せ |  |  | assorted |  |  |
 | - |  |  | informal |  |  |
 | - |  | a |  |  |  |
 | - |  | abnormality | abnormal |  |  |
@@ -473,3 +481,4 @@
 | 逮捕 | apprehend | apprehension |  |  |  |
 |  | arrest |  |  |  |  |
 | - | survive | survival / survivor |  |  |  |
+| 天文 |  | astronaut / astronomer / astronomy | astronomical |  |  |

@@ -2,37 +2,36 @@
 
 ---
 
-## Auxiliary Verb
-- [ ] `gotta`                               ([Casual] ～しなきゃ／～しないと) `I gotta` finish this by tonight.
+## Auxiliary Verb (Future)
+- [x] `gotta`                               ([Casual] ～しなきゃ／～しないと) `I gotta` finish this by tonight.
 - [ ] `have got to`                         ([Casual] ～しなきゃ／～しないと) `I’ve got to` finish this by tonight.
+- [x] `be about to`                         ([Casual] しようとしているところ) I `am about to` go to sleep.
+- [ ] `on the verge of`                     ([Neutral] まさに～しようとしている) I `am on the verge of` going to sleep.
+- [ ] `be due to`                           ([Neutral] [客観的] することになっている) She `is due to` have her baby this week.
+- [ ] `be supposed to`                      ([Neutral] [社会的習慣] ことになっている) On Valentine's Day, in Japan girls `are supposed to` give chocolates.
+- [ ] `be supposed to`                      ([Neutral] [義務感] することになっている) What time `are we supposed to` be there?
+- [ ] `be supposed to`                      ([Neutral] ものだ) Dolphins `are supposed to` be intelligent.
+- [ ] `be scheduled to`                     ([Neutral] 予定されている) She `is scheduled to` have her baby this week.
 
-## Favorite
+## 考え系
 - [ ] `give 人 an idea`:                    ([Neutral] 外的要因により浮かぶ) That video `gave me an idea` for my presentation.
 - [ ] `come up with`:                       ([Neutral] 捻り出す) I `came up with` a new way to solve the problem.
 - [ ] `think of`:                           ([Neutral] 思いつく) I just `thought of` a funny joke.
 - [ ] `find a ~ form of ~`:                 ([Neutral] 〜の〜な形を見つける) We need to `find a new form of` leadership that suits this generation.
-- [ ] `be supposed to`                      ([Neutral] ことになっている) On Valentine's Day, in Japan girls `are supposed to` give chocolates.
-- [ ] `be supposed to`                      ([Neutral] することになっている) What time `are we supposed to` be there?
-- [ ] `be supposed to`                      ([Neutral] ものだ) Dolphins `are supposed to` be intelligent.
+
+## 人の状況
+- [ ] `ready to`                            ([Neutral] 準備ができて～する) I'`m ready to` start the meeting.
+- [ ] `be/stay/remain on hand`              ([Neutral] 手元にある／利用可能である) We need to `stay on hand` during the event in case of emergencies.
 
 ## 人の行動
 
 
 ## 無生物主語
-
 - [ ] `pop up`                              ([Casual] 突然現れる) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#POPUP)
-
-## Others
-- [ ] `ready to`                            ([Neutral] 準備ができて～する) I'`m ready to` start the meeting.
-- [ ] `be about to`                         ([Neutral] しようとしているところ) I `am about to` go to sleep.
-- [ ] `on the verge of`                     ([Neutral] まさに～しようとしている) I `am on the verge of` going to sleep.
-- [ ] `be due to`                           ([Neutral] することになっている) She `is due to` have her baby this week.
-- [ ] `be scheduled to`                     ([Neutral] 予定されている) She `is scheduled to` have her baby this week.
-- [ ] `instead V`                           ([Neutral] 代わりに V する) They're `instead` replaced by the threat of ongoing layoffs and mounting responsibilities.
-- [ ] `be clearing up`                      ([Neutral] （天気などが）良くなってきている) The sky seems to `be clearing up` after the rain.
-- [ ] `be/stay/remain on hand`              ([Neutral] 手元にある／利用可能である) We need to `stay on hand` during the event in case of emergencies.
 - [ ] `be in the way`                       ([Neutral] 邪魔になる) Please move your bag; it`’s in the way.`
 - [ ] `be available for hire`               ([Neutral] 有料で利用できる／借りられる) The photographer `is available for hire` this weekend.
+
+## Others
 - [ ] `be halfway through`                  ([Neutral] の途中で／半ばを過ぎた) I `was halfway through` dinner when he appeared.
 - [ ] `be eager to`                         ([Neutral] 切望する) She’s `eager to` start her new job.
 - [ ] `be going to`                         ([Neutral] ～するつもり) What time `are we going to` be there?
