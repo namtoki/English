@@ -48,6 +48,7 @@
 |  | guarantee |  |  |  |  |
 |  | promise |  | promising |  |  |
 |  | reassure |  |  |  |  |
+| 学習 | `learn` | learner | learned |  | I `picked up` some French when I was in Paris. |
 | 発見 | `find` | finding |  |  |  |
 |  | discover | discovery / discoverer |  |  |  |
 |  | `spot` |  | spotted |  |  |
@@ -76,6 +77,7 @@
 |  | amend | amendment |  |  |  |
 |  | apply | applicant / application | applied / applicable |  |  |
 |  | arrange | arrangement |  |  |  |
+|  | attach | attachment |  |  |  |
 | 言う | `talk` to/with |  | talkative |  | Mr.Oya `talked` me `into` buying his car. / `talk` 人 `out of` V-ing |
 |  | speak to/with | speaker / speaking |  |  |  |
 |  | say | saying |  |  |  |
@@ -237,7 +239,8 @@
 |  | astonish | astonishment | astonishing |  |  |
 | 非難 | accuse | accusation | accused |  |  |
 |  |  | absurdity | absurd |  |  |
-| 攻撃 | abuse |  | abusive |  |  |
+| 攻撃 | attack |  |  |  |  |
+|  | abuse |  | abusive |  |  |
 |  |  | aggression / aggressor | aggressive |  |  |
 |  | arm | army | armed |  |  |
 |  |  | armor | armored |  |  |
@@ -277,6 +280,7 @@
 |  |  |  | enough |  |  |
 |  |  |  | armful |  |  |
 | 動作 | swirl |  |  |  | Rumors were `swirling around` the office. |
+|  | walk | walking |  |  | the man was `taking a walk` around town. |
 | 移動 | rise |  |  |  |  |
 |  | climb | climbing |  |  |  |
 |  | ascend | ascent |  |  |  |
@@ -461,6 +465,10 @@
 | 薬 |  | aspirin |  |  |  |
 | 体 |  | ass |  |  |  |
 | 資産 |  | asset |  |  |  |
+| 競技 |  | athlete / athletics | athletic |  |  |
+| 地図帳 |  | atlas |  |  |  |
+| 空気 |  | atmosphere | atmospheric |  |  |
+| 原子 |  | atom | atomic |  |  |
 | - |  | beginner |  |  |  |
 | - |  | buyer |  |  |  |
 | - |  | contractor |  |  |  |

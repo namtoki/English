@@ -12,6 +12,7 @@
 - [ ] `be supposed to`                      ([Neutral] [義務感] することになっている) What time `are we supposed to` be there?
 - [ ] `be supposed to`                      ([Neutral] ものだ) Dolphins `are supposed to` be intelligent.
 - [ ] `be scheduled to`                     ([Neutral] 予定されている) She `is scheduled to` have her baby this week.
+- [ ] `go out of one's way to`              ([Neutral] わざわざする) He always `goes out of his way to` help his colleagues.
 
 ## 考え系
 - [ ] `give 人 an idea`:                    ([Neutral] 外的要因により浮かぶ) That video `gave me an idea` for my presentation.
