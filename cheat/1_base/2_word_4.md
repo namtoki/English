@@ -37,7 +37,6 @@ allude
 allure
 aloft
 alto
-amass
 amber
 ambush
 ammonia
@@ -452,7 +451,6 @@ helm
 herbal
 hideous
 hierarchical
-hoard
 hog
 holistic
 homely
@@ -1998,7 +1996,7 @@ wrath
 writ
 zealot
 zinc
-abate
+abate / let up
 abdicate
 abdominal
 abhor

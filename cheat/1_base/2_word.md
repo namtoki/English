@@ -1,5 +1,44 @@
 # WORD
 
+## 理解
+- `understand` / understanding / understandable
+- `figure out` / `work out` / figure / solve / solution                           (考えて理解する) I finally `figured out` how to use the new software.
+- `make out` / discern                                                          (やっと理解する) I couldn’t `make out` what he said.
+- `catch on` / comprehend / comprehensible / comprehension / comprehensive      (徐々に理解する) It took me a while to `catch on` to the new system.
+- `take in` / absorb                                                            (受け入れる) We were told our son died in an accident, but we still can't `take it in`.
+- `get it` / grasp                                                              (わかる) I `get it`.
+- interpret / interpretation / interpreter
+- `catch` / catcher                                                             (聴覚的にわかる)
+
+## 認知
+- `notice` / noticeable                                                         (視覚・聴覚で気づく)
+- `realize` / realization                                                       (はっきり理解する、悟る)
+- `pick up on`                                                                  (微妙なサインに気づく) She quickly picked up on my hesitation.
+- `sense out` / sense / senseless                                               (漠然と感じる、察する)
+- perceive / perception
+- observe / observance / observation / observer
+
+## 見つける
+- `find` / finding                                                              I just `found out` she moved to Tokyo!
+- `look up`                                                                     (調べて見つける)
+- `come across`                                                                 (偶然出会う) I `came across` an old photo in my drawer.
+- `track down`                                                                  (突き止める) We finally `tracked down` the source of the problem.
+- discover / discovery / discoverer
+- `spot` / spotted
+- detect / detection
+- uncover / reveal / revelation
+- identify / identifiable / identification
+
+## ためる
+- `collect`                                                                     (趣味的収集)
+- `pile up` / amass                                                             (山積み)
+- `build up`                                                                    (徐々に増強)
+- accumulate                                                                  (計画的に蓄積)
+- `run up`                                                                      (ネガティブ積算)
+- `stock up` / hoard                                                            (買いだめ)
+- save / saving
+- store / storage
+
 ## ACTION
 | Key | Verb | Noun | Adjective | Adverb/Preposition | Casual |
 |-|-|-|-|-|-|
@@ -49,10 +88,6 @@
 |  | promise |  | promising |  |  |
 |  | reassure |  |  |  |  |
 | 学習 | `learn` | learner | learned |  | I `picked up` some French when I was in Paris. |
-| 発見 | `find` | finding |  |  |  |
-|  | discover | discovery / discoverer |  |  |  |
-|  | `spot` |  | spotted |  |  |
-|  | detect | detection |  |  |  |
 | 受信 | `adopt` | adoption |  |  |  |
 |  | accept | acceptance | acceptable |  |  |
 |  | receive | receipt / receiver | receivable |  |  |
@@ -115,10 +150,6 @@
 |  |  |  | careful | carefully |  |
 |  | follow | follower | following |  | When one airline lowers its prices, the others usually `follow suit`. |
 |  | obey |  |  |  | I didn’t really agree, but I `went along with` it. |
-| 理解 | `understand` | understanding | understandable |  | I finally `figured out` how to use the new software. |
-|  | solve | solution |  |  |  |
-|  | grasp |  |  |  | I `get it`. |
-|  | `misunderstand` | misunderstanding |  |  | it can easily `be taken out of context`. |
 | 削減 | `abandon` | abandonment | abandoned |  | Don’t just `walk away from` your team when things get hard. |
 |  | shorten | shortage | short | shortly | Fast charging can `cut down` on charging time significantly. |
 |  | abbreviate | abbreviation |  |  |  |
@@ -465,6 +496,7 @@
 | 薬 |  | aspirin |  |  |  |
 | 体 |  | ass |  |  |  |
 | 資産 |  | asset |  |  |  |
+| 天文 |  | astronaut / astronomer / astronomy | astronomical |  |  |
 | 競技 |  | athlete / athletics | athletic |  |  |
 | 地図帳 |  | atlas |  |  |  |
 | 空気 |  | atmosphere | atmospheric |  |  |
@@ -489,4 +521,4 @@
 | 逮捕 | apprehend | apprehension |  |  |  |
 |  | arrest |  |  |  |  |
 | - | survive | survival / survivor |  |  |  |
-| 天文 |  | astronaut / astronomer / astronomy | astronomical |  |  |
+| 出席 | attend | attendance / attendant / attendee |  |  |  |
