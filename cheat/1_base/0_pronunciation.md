@@ -8,6 +8,8 @@
     - 滑らかな波を描く (声のトーンを落とす -> 声が放ったボールのように下に落ち、最後は息を逃すことで音を締めくくる)
         - 音が繋がる
         - ボトムライン
+            - ゆるんだ英語声(ゆるんだ地声)でスタートする癖もつけましょう
+                - /uh/ I like it, I need it, I have to go, I trust it
     - ストレス音とアンストレス音
         - 英単語には必ずストレス拍の箇所がある
 
@@ -66,6 +68,55 @@
 ---
 
 ## トレーニング
+
+- シラブル
+    - Itʼs sti~ll an ho~ur ahe~ad.
+      [/its sti~ luhn na~ur uh he~d/]
+    - Itʼs about an hour ago.
+      [/i tsuh ba~u duh na~ur ruh go~u/]
+    - Itʼs impossible to afford the rent.
+      [/i~tsim~pah~suh~bo~du~wuh for()~thuh~ren()/]
+    - I left an abandone() town.
+      [/uhi le~f tuhn nuh ba~n duhn ta~un/]
+    - We have an abundant life.
+         [ha vuh nuh ba~n]
+    - Iʼm good at communicating with others
+     [/uhm gu duh kuh myu ni kei ding wi thuh therz/ 脱力ダラダラ読み]
+    - I teach children and adults.
+             [/chiojruh nuh nuh duhots/]
+- 「子音+曖昧母音or弱母音+/m/」パターン
+    - communicate
+     [/km/]
+    - Welcome
+        [/km/]
+    - I like him
+          [/km/]
+    - She went to school with him
+                          [/thm/]
+    - commitment, system, symposium, ceremony, problem, Bottom, Random, Item, Seldom, Album, Victim, Custom, Autumn, Blossom, Platinum, Rhythm
+- 「子音+曖昧母音or弱母音+/n/」 パターン
+    - action
+    - information
+      [/sh/ +/uh/ + /n/]
+    - vision
+      [/zh/ + /uh/+/n/]
+    - concern
+      [/k/ +/uh/+ /n/]
+    - human
+    - lemon
+      [/m/ + /uh/+ /n/]
+    - husband
+      [/b/ +/uh/+ /n/]
+    - ambulance
+      [/l/ +/uh/+ /n/]
+    - elephants
+      [/f/ + /uh/+/n/]
+/s/ +/uh/+  /n/
+/z/ + /uh/+/n/
+/n/ + /uh/+  /n/ x10 
+
+
+
 
 The chef freezes vegetables and uses them in his recipes.
                               /yoo⤴︎ zees the mi niz⤵︎ re si piz/
