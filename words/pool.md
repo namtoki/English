@@ -1024,7 +1024,6 @@ ahead	2	【副】前方に、これから先に、有利な立場に
 aim	2	【名】目標 【動】ねらう		
 airline	2	【名】航空会社		
 alive	2	【形】生きて、活動的な		
-allow	2	【動】許す、与える、認める		
 almond	2	【名】アーモンド		
 alphabet	2	【名】アルファベット、初歩		
 amount	2	【名】量、総計 【動】結果的になる、合計で～となる		
@@ -1630,7 +1629,6 @@ pepper	2	【名】こしょう、とうがらし 【動】一面に振りかけ�
 perfect	2	【形】完璧な、ぴったりの 【名】完了時制		
 perform	2	【動】演じる、演奏する		
 period	2	【名】期間、時間、時代		
-permit	2	【動】許可する、可能にする 【名】許可証		
 persimmon	2	【名】柿		
 personal	2	【形】個人の		
 photographer	2	【名】写真を撮る人		
@@ -1868,7 +1866,6 @@ successful	2	【形】成功した
 successfully	2	【副】首尾よく、まんまと		
 sudden	2	【形】突然の		
 suffer	2	【動】苦しむ、病気をする、傷つく、経験する		
-suggest	2	【動】提案する、それとなく示す		
 suitcase	2	【名】スーツケース		
 sundae	2	【名】チョコレートやシロップをかけたアイスクリーム		
 sunlight	2	【名】太陽の光、日の当たる所		
@@ -2032,7 +2029,6 @@ appeal	3	【名】懇願、上訴 【動】求める、訴える
 application	3	【名】志願すること、適用、アプリケーション（ソフト）		
 appoint	3	【動】任命する、指定する		
 appointment	3	【名】約束、任命		
-approve	3	【動】是認する、よしとする		
 arch	3	【名】アーチ 【動】アーチ状になる		
 argue	3	【動】議論する		
 argument	3	【名】議論、論拠		
@@ -2052,8 +2048,6 @@ attitude	3	【名】態度、姿勢
 attract	3	【動】引きつける		
 attractive	3	【形】魅力的な		
 audio	3	【名】音声、オーディオ		
-author	3	【名】作者 【動】著す		
-authority	3	【名】権威、権限、当局		
 automatic	3	【形】自動の 【名】自動機械		
 available	3	【形】利用できる、応じられる		
 avenue	3	【名】大通り、手段		
@@ -2367,7 +2361,6 @@ graduate	3	【動】卒業する 【名】卒業生
 gram	3	【名】グラム		
 grandchild	3	【名】孫		
 grandparent	3	【名】祖父、祖母		
-grant	3	【動】与える 【名】授与されたもの		
 graph	3	【名】グラフ、図式 【動】グラフにする、図示する		
 grave	3	【名】墓 【形】厳粛な、重大な		
 greet	3	【動】あいさつする、迎える		
@@ -2390,7 +2383,6 @@ helpless	3	【形】助けを得られない、体が不自由な
 hen	3	【名】メンドリ		
 heritage	3	【名】遺産、継承物		
 highway	3	【名】幹線道路、交通網		
-hint	3	【名】ヒント、気配 【動】暗示する		
 hip	3	【名】ヒップ、腰		
 homemade	3	【形】自家製の、国産の		
 hometown	3	【名】故郷、現在住んでいる町 【形】故郷の町の		
@@ -2617,7 +2609,6 @@ percentage	3	【名】百分率、割合
 perfectly	3	【副】完全に		
 performance	3	【名】演奏、遂行		
 permanent	3	【形】永続する、常設の		
-permission	3	【名】許可、許諾		
 personality	3	【名】性格、人		
 photography	3	【名】写真撮影		
 phrase	3	【名】語句 【動】述べる		
@@ -2845,7 +2836,6 @@ studio	3	【名】仕事場、練習場、ワンルームマンション
 suck	3	【動】口で吸う 【名】吸うこと		
 suffering	3	【名】苦しむこと、苦しみ		
 sufficient	3	【形】十分な		
-suggestion	3	【名】提案		
 suitable	3	【形】適している		
 sum	3	【名】合計 【動】合計する、合計して～になる、要約する		
 summary	3	【名】要約 【形】要約した、即座の		
@@ -3051,7 +3041,6 @@ apparently	4	【副】どうやら（～らしい）、外見上
 appetite	4	【名】食欲、欲求		
 appreciate	4	【動】感謝する、正当に評価する		
 appropriate	4	【形】（～に）適した 【動】（特定の目的に）充てる		
-approval	4	【名】承認、正式の認可		
 apricot	4	【名】アンズ		
 apt	4	【形】～しがちである、～しそうだ		
 aquarium	4	【名】水族館、水槽		
@@ -3495,7 +3484,6 @@ impulse	4	【名】衝動、衝撃
 incident	4	【名】出来事、事件		
 increasingly	4	【副】ますます		
 independence	4	【名】独立、自活		
-indicate	4	【動】表す、さし示す		
 inevitable	4	【形】避けられない、当然の		
 infant	4	【名】幼児 【形】幼児の		
 ingredient	4	【名】材料、要素、原料		
@@ -4021,7 +4009,6 @@ allergic	5	【形】アレルギー体質をもった、アレルギーの
 allergy	5	【名】アレルギー、反感		
 alliance	5	【名】（国家間の）同盟、協力		
 alligator	5	【名】アリゲーター、ワニ		
-allowance	5	【名】小遣い、支給量、許可		
 alright	5	【副】｟all rightの短縮形｠まあまあの、元気で、無事で、よろしい、問題ない		
 ambassador	5	【名】大使、使節		
 animation	5	【名】アニメーション、活気、生気		
@@ -4452,7 +4439,6 @@ immigrant	5	【名】移民 【形】移民に関する
 impatient	5	【形】我慢できない、耐えられない、せっかちな		
 imperfect	5	【形】不完全な、不十分な		
 implement	5	【動】実行する、提供する 【名】道具、備品		
-imply	5	【動】暗示する、含む、ほのめかす		
 incline	5	【名】斜面 【動】心が傾く、傾向がある		
 inclined	5	【形】傾いた		
 incredible	5	【形】驚くべき、信じられない		
@@ -5036,7 +5022,6 @@ astronomy	6	【名】天文学
 athletics	6	【名】運動競技、体育		
 attendance	6	【名】出席		
 attribute	6	【動】起因すると考えられる、結果であると考える 【名】特質		
-authorize	6	【動】許可する、権限を与える		
 availability	6	【名】有用性、利用できる人		
 babe	6	【名】世間知らず、赤ちゃん		
 babysitter	6	【名】ベビーシッター		
@@ -5247,8 +5232,6 @@ diplomat	6	【名】外交官、外交家
 disability	6	【名】能力を欠くこと、無力、身体障害		
 disagreement	6	【名】意見の相違、不一致、不調和		
 disappointing	6	【形】失望させるような、つまらない		
-disapproval	6	【名】不同意		
-disapprove	6	【動】不賛成を唱える、よくないと思う、非難する		
 disclose	6	【動】暴露する、もらす		
 discrimination	6	【名】差別、区別		
 dishonest	6	【形】不正直な		
@@ -5427,7 +5410,6 @@ inadequate	6	【形】不十分な、不適切な
 incapable	6	【形】能力がない、役に立たない		
 inclination	6	【名】傾向、好み		
 incorrect	6	【形】間違いの、事実に反する		
-indication	6	【名】指示、兆候、目安、暗示するもの		
 indifference	6	【名】無関心、むとんちゃく		
 indifferent	6	【形】無関心な、むとんちゃくな、平凡な		
 individually	6	【副】ひとつひとつ、個人的には		
@@ -6045,7 +6027,6 @@ attendee	7	【名】出席者
 attorney	7	【名】弁護士、代理人		
 audition	7	【名】オーディション 【動】オーディションを受ける		
 auditorium	7	【名】講堂、観衆席		
-authorization	7	【名】許可、承認、権威付け		
 autobiography	7	【名】自伝		
 avoidance	7	【名】回避、避けること		
 axis	7	【名】軸		
@@ -6442,7 +6423,6 @@ inclusive	7	【形】含めて、すべてを含んだ、包括的な
 inconvenience	7	【名】不便、不自由、迷惑 【動】～に迷惑をかける		
 inconvenient	7	【形】不便な、不自由な、都合の悪い		
 incorporate	7	【動】組み入れる、合体する、法人組織にする		
-indicator	7	【名】表示器、指し示す人・もの		
 indispensable	7	【形】必須の、無視できない		
 induce	7	【動】誘発する、説いて～させる、帰納する		
 indulge	7	【動】ふける、身を任せる、満足させる、甘やかす		
@@ -7054,7 +7034,6 @@ attentive	8	【形】注意深い、親切な
 attic	8	【名】屋根裏部屋		
 audit	8	【名】会計監査、監査報告書 【動】検査する、聴講する		
 authentic	8	【形】本物の、心からの、信頼のおける		
-authoritative	8	【形】権威ある、信頼できる、有無を言わせぬ調子の		
 autonomy	8	【名】自治（権）、自立、自治国家、自律		
 aviation	8	【名】飛行、航空機（産業）、軍用機		
 avocado	8	【名】アボカド		
@@ -7438,8 +7417,6 @@ immoral	8	【形】不道徳な、ふしだらな
 immortality	8	【名】不死、不朽（の名声）		
 impeachment	8	【名】弾劾、非難		
 impersonal	8	【形】人間味のない、人格をもたない、個人に関係ない		
-implication	8	【名】含み、言外の意味、密接な関係、影響		
-implicit	8	【形】暗黙の、潜在する、絶対の		
 implied	8	【形】暗黙の、言外の		
 impractical	8	【形】実用的でない、実践力のない、実行不可能な		
 imprint	8	【名】印、跡、印象 【動】刻みこむ、押す		
@@ -8045,7 +8022,6 @@ astray	9	【副】道に迷って、道を踏みはずして 【形】道に迷�
 astronomical	9	【形】けたはずれに大きい、天文学の		
 attest	9	【動】証言する、証明する、証拠となる		
 auditor	9	【名】監査役、会計検査官、聴講生		
-authoritarian	9	【名】権威主義者、独裁主義者 【形】独裁政治の、権威主義的な		
 automate	9	【動】オートメーション化する		
 automotive	9	【形】自動車の、自動の		
 avail	9	【名】利益 【動】役立つ		
@@ -8853,7 +8829,6 @@ submissive	9	【形】服従的な
 subscribe	9	【動】（新聞・雑誌などを）予約購読する		
 subscriber	9	【名】購読者、加入者		
 subtlety	9	【名】巧妙さ、希薄（であること）、繊細さ		
-suggestive	9	【形】連想させる、示唆に富む、挑発的な		
 suicidal	9	【形】自殺の、自暴自棄な		
 suite	9	【名】ひと揃い、特別室、組曲		
 sunken	9	【形】沈んだ、水中の、下がった		
@@ -9014,7 +8989,6 @@ alight	10	【動】降りて止まる、着水する
 allegiance	10	【名】忠誠		
 allotment	10	【名】割り当て		
 alloy	10	【名】合金、混ざりもの 【動】混ぜる		
-allude	10	【動】それとなく言う		
 allure	10	【動】魅惑する 【名】魅力		
 aloft	10	【副】高い所に		
 alto	10	【名】アルト		
@@ -9913,7 +9887,6 @@ ulcer	10	【名】潰瘍（かいよう）、腐敗、病根
 ultraviolet	10	【形】紫外線を用いた 【名】紫外線		
 unaccountable	10	【形】説明できない、奇妙な、責任がない		
 unambiguous	10	【形】あいまいでない、明白な		
-unauthorized	10	【形】権限のない、未許可の		
 unbeaten	10	【形】敗れたことのない、踏まれていない		
 uncompromising	10	【形】妥協しない、徹底的な、頑固な		
 uncontrolled	10	【形】抑制されてない、野放しの		
@@ -10006,7 +9979,6 @@ airborne	11	【形】空気で運ばれる、飛行中の
 alias	11	【名】偽名、エイリアス 【副】別名は		
 alleviate	11	【動】軽減する、和らげる		
 alluring	11	【形】魅惑的な		
-allusion	11	【名】さりげない言及、ほのめかし		
 altruism	11	【名】利他的行為、愛他主義		
 alumnus	11	【名】男子の卒業生、同窓生（複 alumni）		
 ambivalent	11	【形】相反する感情の、心が不安定な		
@@ -10501,7 +10473,6 @@ innocuous	11	【形】当たり障りのない、無害の、無毒の
 inoculation	11	【名】予防接種、感化		
 insatiable	11	【形】飽くことを知らない、強欲な		
 insidious	11	【形】こっそり企まれた、知らない間に作用する、油断のならない		
-insinuate	11	【動】思想を徐々に注入する、遠回しに言う		
 insolvent	11	【形】一文無しの、支払い不能の 【名】破産者		
 instill	11	【動】主義・感情を徐々に教え込む、点滴する		
 insurgent	11	【名】暴徒、反乱者 【形】反乱を起こした		
