@@ -1,0 +1,17 @@
+arduous
+strenuous
+caustic
+insinuate
+lucrative
+squander
+splurge
+fritter
+flimsy
+pinnacle
+offshoot
+outgrowth
+faction
+incision
+lethargic
+allay
+placate
