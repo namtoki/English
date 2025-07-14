@@ -100,6 +100,27 @@
   - `density` /ˈdensəti/            ([Formal] 密度)                 The population density is very high here.
 - `pinnacle` /ˈpɪnəkəl/             ([Writing] 絶頂、頂点)          He reached the pinnacle of his career.
 
+## 概念
+- `offshoot` /ˈɒfʃuːt/              ([Neutral] 分派、派生物)        The company is an offshoot of a larger corporation.
+- `branch` /brɑːntʃ/                ([Neutral] 枝、支店、部門)      They opened a new branch in Tokyo.
+  - `branching` /ˈbrɑːntʃɪŋ/        ([Neutral] 分岐、枝分かれ)      The branching of the company was successful.
+- `derivative` /dɪˈrɪvətɪv/         ([Formal] 派生物、派生的な)     This product is a derivative of their original design.
+  - `derive` /dɪˈraɪv/              ([Formal] 由来する、派生する)   The word derives from Latin.
+  - `derivation` /ˌderɪˈveɪʃən/     ([Formal] 由来、派生)           The derivation of this theory is complex.
+- `spinoff` /ˈspɪnɒf/               ([Neutral] 派生物、副産物)      The TV show is a spinoff of the movie.
+- `offspring` /ˈɒfsprɪŋ/            ([Neutral] 子孫、結果)          These ideas are the offspring of years of research.
+- `byproduct` /ˈbaɪprɒdʌkt/         ([Neutral] 副産物)              Pollution is a byproduct of industrialization.
+- `outgrowth` /ˈaʊtɡrəʊθ/           ([Formal] 結果、派生物)         This policy is an outgrowth of earlier reforms.
+- `extension` /ɪkˈstenʃən/          ([Neutral] 延長、拡張)          The new wing is an extension of the hospital.
+  - `extend` /ɪkˈstend/             ([Neutral] 延ばす、拡張する)    They extended the deadline by a week.
+  - `extensive` /ɪkˈstensɪv/        ([Neutral] 広範囲の)            The damage was extensive.
+  - `extended` /ɪkˈstendɪd/         ([Neutral] 延長された、拡張した) We had an extended discussion about the project.
+- `subdivision` /ˌsʌbdɪˈvɪʒən/      ([Formal] 細分、分割)           Each subdivision has its own manager.
+  - `subdivide` /ˌsʌbdɪˈvaɪd/       ([Formal] 細分する)             They subdivided the land into smaller plots.
+- `faction` /ˈfækʃən/               ([Neutral] 派閥、分派)          The party split into several factions.
+  - `factional` /ˈfækʃənəl/         ([Neutral] 派閥の)              Factional disputes weakened the organization.
+- `sect` /sekt/                     ([Neutral] 宗派、教派)          The sect has followers worldwide.
+
 ## 医療用語
 - `incision` /ɪnˈsɪʒən/             ([Medical] 切開)                The surgeon made a small incision.
 - `diagnosis` /ˌdaɪəɡˈnəʊsɪs/       ([Medical] 診断)                The diagnosis was confirmed by tests.
@@ -133,6 +154,44 @@
   - `easily` /ˈiːzəli/              ([Neutral] 簡単に)              He easily solved the problem.
 - `reconcile` /ˈrekənsaɪl/          ([Writing] 和解させる)          They reconciled after their argument.
   - `reconciliation` /ˌrekənsɪliˈeɪʃən/ ([Writing] 和解、調停)       The reconciliation process took months.
+- `placate` /pləˈkeɪt/              ([Formal] なだめる、懐柔する)   She tried to placate the angry customer.
+- `appease` /əˈpiːz/                ([Formal] なだめる、鎮める)     They tried to appease the protesters.
+  - `appeasement` /əˈpiːzmənt/       ([Formal] 宥和、懐柔)           The policy of appeasement failed.
+- `pacify` /ˈpæsɪfaɪ/               ([Neutral] 鎮める、平定する)    The mother pacified her crying baby.
+  - `pacification` /ˌpæsɪfɪˈkeɪʃən/ ([Writing] 平定、鎮静化)        The pacification of the region took years.
+- `mollify` /ˈmɒlɪfaɪ/              ([Writing] 和らげる、なだめる)  His apology mollified her anger.
+- `soothe` /suːð/                   ([Neutral] なだめる、和らげる)  The music soothed his nerves.
+  - `soothing` /ˈsuːðɪŋ/            ([Neutral] 心を落ち着かせる)    Her voice had a soothing effect.
+- `calm` /kɑːm/                     ([Neutral] 落ち着かせる)        Try to calm down before speaking.
+  - `calming` /ˈkɑːmɪŋ/             ([Neutral] 落ち着かせる)        The tea has a calming effect.
+- `assuage` /əˈsweɪdʒ/              ([Writing] 和らげる、軽減する)  Nothing could assuage his guilt.
+- `conciliate` /kənˈsɪlieɪt/        ([Writing] 懐柔する、調停する)  He tried to conciliate the warring factions.
+  - `conciliation` /kənˌsɪliˈeɪʃən/ ([Writing] 調停、懐柔)          The conciliation talks were successful.
+  - `conciliatory` /kənˈsɪliətɔːri/ ([Writing] 懐柔的な、融和的な)  She adopted a conciliatory tone.
+- `gull` /ɡʌl/                      ([Neutral] だます、欺く)           He was gulled into buying fake tickets.
+  - `gullible` /ˈɡʌlɪbəl/           ([Neutral] だまされやすい)      Don't be so gullible; verify the facts first.
+  - `gullibility` /ˌɡʌlɪˈbɪləti/    ([Neutral] だまされやすさ)      His gullibility made him an easy target.
+- `deceive` /dɪˈsiːv/               ([Neutral] 欺く、だます)        Don't try to deceive me.
+  - `deception` /dɪˈsepʃən/         ([Neutral] 欺瞞、詐欺)          The deception was discovered.
+  - `deceptive` /dɪˈseptɪv/         ([Neutral] 人を欺く)            His appearance was deceptive.
+  - `deceit` /dɪˈsiːt/              ([Formal] 欺瞞、虚偽)           She was hurt by his deceit.
+  - `deceitful` /dɪˈsiːtfəl/        ([Formal] 不誠実な、詐欺的な)   His deceitful behavior ruined their friendship.
+- `dupe` /djuːp/                    ([Neutral] だます、カモ)        They duped him into signing the contract.
+- `fool` /fuːl/                     ([Casual] だます、ばか者)       You can't fool me twice.
+  - `foolish` /ˈfuːlɪʃ/             ([Neutral] 愚かな)              It was foolish to trust him.
+  - `foolproof` /ˈfuːlpruːf/         ([Neutral] 絶対確実な)          This plan is foolproof.
+  - `foolhardy` /ˈfuːlhɑːdi/         ([Neutral] 向こう見ずな)        It was foolhardy to go alone.
+- `trick` /trɪk/                    ([Neutral] だます、トリック)    He tricked me into paying more.
+  - `trickery` /ˈtrɪkəri/           ([Neutral] ペテン、策略)        They won through trickery.
+  - `tricky` /ˈtrɪki/               ([Casual] ずるい、扱いにくい)   That's a tricky question.
+- `mislead` /ˌmɪsˈliːd/             ([Neutral] 誤解させる)          The advertisement misled consumers.
+  - `misleading` /ˌmɪsˈliːdɪŋ/      ([Neutral] 誤解を招く)          The information was misleading.
+- `hoodwink` /ˈhʊdwɪŋk/             ([Writing] だます、欺く)        They hoodwinked investors out of millions.
+- `bamboozle` /bæmˈbuːzəl/          ([Casual] だます、煙に巻く)     Don't let them bamboozle you.
+- `swindle` /ˈswɪndəl/              ([Neutral] 詐取する)            He swindled her out of her savings.
+  - `swindler` /ˈswɪndlər/          ([Neutral] 詐欺師)              The swindler was finally caught.
+- `con` /kɒn/                       ([Casual] だます、詐欺)         He conned them out of their money.
+  - `con artist` /kɒn ˈɑːtɪst/      ([Casual] 詐欺師)               The con artist targeted elderly people.
 
 ## 探求
 - `ransack` /ˈrænsæk/               ([Writing] あさり回る)          The thieves ransacked the house.
@@ -148,6 +207,24 @@
   - `exploration` /ˌekspləˈreɪʃən/  ([Neutral] 探検、探査)          Space exploration is advancing rapidly.
   - `explorer` /ɪkˈsplɔːrə/         ([Neutral] 探検家)              The explorer discovered a new species.
 
+## ポジティブな評価
+- `pristine` /prɪˈstiːn/            ([Writing] 手つかずの、新品同様) The beach was pristine and untouched.
+- `immaculate` /ɪˈmækjələt/         ([Formal] 完璧な、汚れのない)   Her house is always immaculate.
+- `spotless` /ˈspɒtləs/             ([Neutral] 汚れ一つない)        The kitchen was spotless after cleaning.
+- `impeccable` /ɪmˈpekəbl/          ([Formal] 非の打ち所がない)     His manners are impeccable.
+- `flawless` /ˈflɔːləs/             ([Neutral] 欠点のない、完璧な)  Her performance was flawless.
+  - `flaw` /flɔː/                   ([Neutral] 欠点、欠陥)          There's a flaw in the design.
+  - `flawed` /flɔːd/                ([Neutral] 欠陥のある)          The plan was fundamentally flawed.
+- `unblemished` /ʌnˈblemɪʃt/        ([Writing] 傷のない、汚れのない) His unblemished record speaks for itself.
+  - `blemish` /ˈblemɪʃ/             ([Neutral] 傷、汚点)            The scandal was a blemish on her career.
+- `untarnished` /ʌnˈtɑːnɪʃt/        ([Writing] 汚されていない)      His reputation remains untarnished.
+  - `tarnish` /ˈtɑːnɪʃ/             ([Neutral] 汚す、変色する)      Silver tarnishes over time.
+- `unspoiled` /ʌnˈspɔɪld/           ([Neutral] 損なわれていない)    The island remains unspoiled by tourism.
+  - `spoil` /spɔɪl/                 ([Neutral] 台無しにする)        Don't spoil the surprise.
+- `pure` /pjʊə/                     ([Neutral] 純粋な、清らかな)    The mountain air is pure and fresh.
+  - `purity` /ˈpjʊərəti/            ([Neutral] 純粋さ、純度)        The purity of the water is tested daily.
+  - `purify` /ˈpjʊərɪfaɪ/           ([Neutral] 浄化する)            This filter purifies the water.
+
 ## ネガティブな評価
 - `frivolous` /ˈfrɪvələs/           ([Writing] つまらない、軽薄な)  The court dismissed the frivolous lawsuit.
   - `frivolity` /frɪˈvɒləti/        ([Writing] 軽薄さ、つまらなさ)  His frivolity annoyed his colleagues.
@@ -156,6 +233,26 @@
 - `petty` /ˈpeti/                   ([Casual] 些細な、けちな)       Stop being so petty about small things.
 - `insignificant` /ˌɪnsɪɡˈnɪfɪkənt/ ([Formal] 取るに足らない)       The difference is insignificant.
   - `insignificance` /ˌɪnsɪɡˈnɪfɪkəns/ ([Formal] 重要でないこと)    The insignificance of the error was obvious.
+
+## 明らかに
+- `blatant` /ˈbleɪtənt/             ([Neutral] 露骨な、見え透いた)  That was a blatant lie.
+  - `blatantly` /ˈbleɪtəntli/       ([Neutral] 露骨に、あからさまに) He blatantly ignored the rules.
+- `flagrant` /ˈfleɪɡrənt/           ([Formal] 目に余る、露骨な)     It was a flagrant violation of the law.
+  - `flagrantly` /ˈfleɪɡrəntli/     ([Formal] 目に余るほど)         She flagrantly disregarded safety protocols.
+- `obvious` /ˈɒbviəs/               ([Neutral] 明らかな、明白な)    The answer is obvious.
+  - `obviously` /ˈɒbviəsli/         ([Neutral] 明らかに)            Obviously, we need to change our approach.
+- `conspicuous` /kənˈspɪkjuəs/      ([Formal] 目立つ、顕著な)       His absence was conspicuous.
+  - `conspicuously` /kənˈspɪkjuəsli/ ([Formal] 目立って)            She was conspicuously silent during the meeting.
+  - `inconspicuous` /ˌɪnkənˈspɪkjuəs/ ([Neutral] 目立たない)        She tried to remain inconspicuous.
+- `glaring` /ˈɡleərɪŋ/              ([Neutral] 明白な、目立つ)      There's a glaring error in the report.
+  - `glare` /ɡleər/                 ([Neutral] にらみつける)        She glared at him angrily.
+  - `glaringly` /ˈɡleərɪŋli/        ([Neutral] 明白に)              The mistake was glaringly obvious.
+- `overt` /əʊˈvɜːt/                 ([Formal] あからさまな、公然の)  There was no overt hostility.
+  - `overtly` /əʊˈvɜːtli/           ([Formal] 公然と)               He overtly criticized the decision.
+- `brazen` /ˈbreɪzən/               ([Writing] 厚かましい、露骨な)  It was a brazen attempt to cheat.
+  - `brazenly` /ˈbreɪzənli/         ([Writing] 厚かましく)          She brazenly lied to everyone.
+- `patent` /ˈpeɪtənt/               ([Writing] 明白な、明らかな)    That's a patent lie.
+  - `patently` /ˈpeɪtəntli/         ([Writing] 明白に)              The claim is patently false.
 
 ## 自由
 - `latitude` /ˈlætɪtjuːd/           ([Writing] 自由度、緯度)        The manager gave me latitude to make decisions.
@@ -173,6 +270,15 @@
   - `independently` /ˌɪndɪˈpendəntli/ ([Neutral] 独立して)          They work independently of each other.
 - `discretion` /dɪˈskreʃən/         ([Writing] 自由裁量、分別)      Use your discretion when making decisions.
   - `discretionary` /dɪˈskreʃənəri/ ([Writing] 任意の、裁量の)      Bonuses are discretionary this year.
+- `asylum` /əˈsaɪləm/               ([Neutral] 保護施設、亡命)      They sought asylum in the embassy.
+- `refuge` /ˈrefjuːdʒ/              ([Neutral] 避難所、逃げ場)      The cabin was our refuge from the storm.
+  - `refugee` /ˌrefjuˈdʒiː/         ([Neutral] 難民)                Many refugees fled the war.
+- `sanctuary` /ˈsæŋktʃueri/         ([Formal] 聖域、保護区)         The church offered sanctuary to the fugitives.
+- `shelter` /ˈʃeltər/               ([Neutral] 避難所、保護)        We found shelter from the rain.
+  - `sheltered` /ˈʃeltərd/          ([Neutral] 保護された)          She lived a sheltered life.
+- `haven` /ˈheɪvən/                 ([Writing] 安息地、避難所)      The library was his haven from the busy world.
+- `harbor` /ˈhɑːrbər/               ([Neutral] 港、かくまう)        The country harbored political dissidents.
+  - `harborage` /ˈhɑːrbərɪdʒ/       ([Writing] 避難所、隠れ場)      The cave provided harborage from the storm.
 
 ## 人の特徴
 - `adept` /əˈdept/                  ([Writing] 熟練した)            She's adept at solving complex problems.
@@ -199,3 +305,26 @@
   - `devote` /dɪˈvəʊt/              ([Neutral] ささげる、充てる)    He devotes his time to charity work.
   - `devotee` /ˌdevəˈtiː/           ([Writing] 心酔者、献身する人)  She's a devotee of classical music.
 - `ardent` /ˈɑːdənt/                ([Writing] 熱烈な、情熱的な)    He's an ardent supporter of the team.
+
+## 生活用品
+- `attire` /əˈtaɪər/                ([Formal] 服装、衣装)           Formal attire is required for the event.
+- `apparel` /əˈpærəl/               ([Formal] 衣服、衣料品)         The store sells women's apparel.
+- `garment` /ˈɡɑːmənt/              ([Neutral] 衣服、衣類)          She carefully folded each garment.
+  - `garments` /ˈɡɑːmənts/          ([Neutral] 衣類)                The garments were made of silk.
+- `outfit` /ˈaʊtfɪt/                ([Casual] 服装一式、衣装)       I love your outfit today!
+- `ensemble` /ɒnˈsɒmbl/             ([Formal] 一揃いの服装)         Her ensemble was perfectly coordinated.
+- `wardrobe` /ˈwɔːdrəʊb/            ([Neutral] 衣装棚、持ち服)      She has an extensive wardrobe.
+- `clothing` /ˈkləʊðɪŋ/             ([Neutral] 衣類、衣服)          The charity collects used clothing.
+  - `clothe` /kləʊð/                ([Formal] 服を着せる)           They clothed the children warmly.
+  - `clothes` /kləʊðz/              ([Neutral] 服、衣服)            I need to wash my clothes.
+  - `cloth` /klɒθ/                  ([Neutral] 布、生地)            The table was covered with a white cloth.
+  - `clothesline` /ˈkləʊðzlaɪn/     ([Neutral] 物干しロープ)        Hang the laundry on the clothesline.
+  - `clothespin` /ˈkləʊðzpɪn/       ([Neutral] 洗濯ばさみ)          Use clothespins to secure the sheets.
+- `dress` /dres/                    ([Neutral] 服装、ドレス)        The dress code is business casual.
+  - `dressed` /drest/               ([Neutral] 服を着た)            She was dressed in black.
+  - `dresser` /ˈdresər/             ([Neutral] 化粧台、整理だんす)  She keeps her jewelry on the dresser.
+  - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
+  - `dressing` /ˈdresɪŋ/            ([Neutral] ドレッシング、包帯)  She put dressing on the salad.
+- `gear` /ɡɪər/                     ([Casual] 装備、服装)           Don't forget your hiking gear.
+- `threads` /θredz/                 ([Casual] 服、衣服)             Nice threads! Where did you get them?
+- `costume` /ˈkɒstjuːm/             ([Neutral] 衣装、仮装)          She wore a traditional costume.		
