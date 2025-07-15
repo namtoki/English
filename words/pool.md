@@ -1162,7 +1162,6 @@ complain	2	【動】不平を言う、訴える
 complete	2	【動】完了する、全部そろえる 【形】全部そろった、完成した		
 completely	2	【副】完全に、十分に		
 concert	2	【名】音楽会 【動】協定する		
-condition	2	【名】状態、事情、条件 【動】調節する		
 contain	2	【動】含む、入っている		
 content	2	【名】内容、目次、容量 【形】満足している		
 contest	2	【名】競技会、争い 【動】争う		
@@ -1189,7 +1188,6 @@ crew	2	【名】乗組員、一団
 cross	2	【動】渡る、交差する 【名】十字架		
 crowd	2	【名】群衆 【動】群がる		
 crowded	2	【形】混雑した、いっぱいの		
-crown	2	【名】王冠、（物事の）絶頂		
 culture	2	【名】文化、教養、栽培		
 curtain	2	【名】カーテン		
 curve	2	【名】曲線、曲がったもの 【動】曲がる、曲げる		
@@ -1208,8 +1206,6 @@ deaf	2	【形】聴覚障害の、耳を傾けない
 deal	2	【動】取り扱う、取引する、分配する 【名】取引		
 decision	2	【名】解決、決定、判決		
 deeply	2	【副】深く		
-defend	2	【動】守る、擁護する		
-defense	2	【名】防御、防御物、弁護		
 degree	2	【名】程度、度、学位		
 deliver	2	【動】配達する、届ける、述べる		
 demand	2	【動】要求する 【名】要求、需要		
@@ -1268,7 +1264,6 @@ eightieth	2	【形】第80の、80分（の1）の 【名】80分の1、第80
 elbow	2	【名】ひじ 【動】ひじで押す		
 electric	2	【形】電気の		
 electricity	2	【名】電気、電力		
-elevator	2	【名】エレベーター		
 eleventh	2	【形】第11の、11分（の1）の 【名】11分の1、第11		
 empty	2	【形】空の、空いている 【動】（中身を）出す 【名】空車		
 ending	2	【名】終わり		
@@ -1286,8 +1281,6 @@ event	2	【名】出来事、成り行き
 everyday	2	【形】日常の（｢毎日｣という意味ではevery dayとして用いる）		
 exact	2	【形】正確な		
 exactly	2	【副】正確に、そのとおり		
-examination	2	【名】試験｟短縮形：exam｠、検査		
-examine	2	【動】診察する、検査する		
 example	2	【名】例、手本		
 excellent	2	【形】素晴らしい		
 except	2	【前】～以外は、除いて、ただし、例外として		
@@ -1400,7 +1393,6 @@ headache	2	【名】頭痛、困ったこと
 health	2	【名】健康、健全、保健、衛生		
 heat	2	【名】熱、暑さ、温度 【動】熱する、熱くなる		
 heaven	2	【名】天国、神		
-height	2	【名】高さ、高地		
 helicopter	2	【名】ヘリコプター 【動】ヘリコプターで飛ぶ		
 hell	2	【名】地獄、ひどい体験 【間】いまいましい		
 helpful	2	【形】役立つ、助けになる、有益な		
@@ -1506,7 +1498,6 @@ mayonnaise	2	【名】マヨネーズ
 meaning	2	【名】意味、目的		
 measure	2	【動】測る 【名】大きさ、量、度量器、基準		
 medal	2	【名】メダル、勲章		
-medical	2	【形】医学の、内科の		
 medicine	2	【名】薬、医術		
 melon	2	【名】メロン		
 melt	2	【動】溶ける、溶かす 【名】溶解		
@@ -1603,7 +1594,6 @@ pea	2	【名】エンドウ
 peace	2	【名】平和、安らぎ		
 peaceful	2	【形】平和な、平和を好む		
 peach	2	【名】モモ、桃色 【形】桃色の		
-peak	2	【名】頂点、山頂 【形】最高の 【動】頂点に達する		
 peanut	2	【名】ピーナツ、ラッカセイ		
 pearl	2	【名】真珠		
 pepper	2	【名】こしょう、とうがらし 【動】一面に振りかける		
@@ -1709,7 +1699,6 @@ reason	2	【名】理由、道理、理性 【動】判断する
 reasonable	2	【形】理にかなっている、法外でない		
 recently	2	【副】近ごろ		
 record	2	【名】記録、レコード 【動】記録する		
-recover	2	【動】回復する、取り戻す		
 regard	2	【動】みなす、見る 【名】敬意		
 regular	2	【形】規則正しい、正規の 【名】常連		
 remain	2	【動】～のままである、とどまる 【名】残りもの、遺骸		
@@ -1974,7 +1963,6 @@ accent	3	【名】なまり、アクセント
 access	3	【名】行く方法、入る権利 【動】入手する		
 accompany	3	【動】同行する、伴奏する		
 according	3	【前】〈according toの形で〉～によれば		
-achieve	3	【動】達成する、勝ち取る、成果をあげる		
 addition	3	【名】付加、加法、追加物		
 additional	3	【形】付加された、特別な		
 admit	3	【動】認める、入ることを許す、余地がある		
@@ -1994,7 +1982,6 @@ alike	3	【形】似ている 【副】一様に 【名】似ているもの
 aloud	3	【副】声を出して、大声で		
 although	3	【接】たとえ～でも		
 ambulance	3	【名】救急車		
-analysis	3	【名】分析、分析結果		
 angle	3	【名】角度 【動】（ある角度に）曲げる		
 ankle	3	【名】足首		
 announcement	3	【名】発表、声明、アナウンス、コマーシャル		
@@ -2242,7 +2229,6 @@ environment	3	【名】環境
 environmental	3	【形】環境の、周囲の		
 equally	3	【副】平等に		
 equipment	3	【名】備品、機材		
-escalator	3	【名】エスカレーター		
 essay	3	【名】小論、随筆		
 essential	3	【形】絶対必要な 【名】必需品		
 establish	3	【動】確立する、樹立する		
@@ -2273,7 +2259,6 @@ fashionable	3	【形】流行の
 feather	3	【名】羽		
 feature	3	【名】特徴 【動】特徴づける、（事件などを）大きく扱う、特集する		
 fee	3	【名】手数料、料金、祝儀 【動】料金を払う		
-fever	3	【名】発熱、熱病 【動】発熱する		
 fighting	3	【名】戦闘 【形】好戦的な、戦闘（用）の、交戦中の		
 file	3	【名】ファイル、やすり 【動】整理して保存する、やすりで磨く		
 finance	3	【名】財務、財源 【動】資金を供給する		
@@ -2531,7 +2516,6 @@ occur	3	【動】起こる、心に浮かぶ
 octopus	3	【名】タコ		
 odd	3	【形】普通でない、奇妙な、奇数の 【名】はんぱ物		
 offend	3	【動】感情を害する、罪を犯す		
-offense	3	【名】気分を害するもの、違反		
 olive	3	【名】オリーブ 【形】オリーブの		
 omelette	3	【名】オムレツ		
 online	3	【名】オンライン、ネットワークにつながっていること 【形】オンラインの		
@@ -2942,12 +2926,10 @@ abuse	4	【名】乱用、虐待 【動】乱用する
 acceptable	4	【形】受け入れることのできる、まあまあの		
 acceptance	4	【名】受け入れること、承認		
 accessory	4	【名】アクセサリー、付属物		
-accomplish	4	【動】遂行する、経過する、仕上げる		
 accord	4	【動】一致する 【名】調和、（国際間の）協定		
 accurate	4	【形】正確な		
 accuse	4	【動】非難する、告発する		
 ache	4	【動】痛む、（～したくて）たまらない 【名】痛み		
-achievement	4	【名】達成したこと、業績		
 acid	4	【名】酸 【形】酸性の、辛辣な		
 acquaintance	4	【名】知人、面識、知識		
 acquire	4	【動】取得する		
@@ -2981,7 +2963,6 @@ ambitious	4	【形】大望のある、熱望して
 amuse	4	【動】おもしろがらせる		
 amusement	4	【名】楽しんでいる状態、楽しみごと		
 amusing	4	【形】おもしろがらせるような		
-analyze	4	【動】分析する		
 ancestor	4	【名】先祖		
 anchor	4	【名】錨 【動】錨で固定する、錨を降ろす		
 ancient	4	【形】古代の、古くからの 【名】古代人		
@@ -3005,7 +2986,6 @@ ash	4	【名】灰、灰色
 aspect	4	【名】見方、局面、顔つき		
 ass	4	【名】尻、ばか、ロバ		
 assert	4	【動】断言する、強く主張する		
-assessment	4	【名】評価、査定		
 associate	4	【動】（AとBを）結びつけて考える、提携する 【名】共同経営者		
 association	4	【名】団体、交際、組合、協会		
 assume	4	【動】推測する、仮定する、引き受ける		
@@ -3138,7 +3118,6 @@ confession	4	【名】白状、自白（書）
 confident	4	【形】自信のある、大胆な、確信して		
 conflict	4	【動】対立する、矛盾する 【名】争い、不一致		
 congress	4	【名】議会、連邦議会、国会、会議、大会		
-conquer	4	【動】征服する、獲得する		
 conscience	4	【名】良心、善悪の判断力、自制心		
 consciousness	4	【名】意識、正気、自覚		
 consequence	4	【名】結果、成り行き		
@@ -3453,7 +3432,6 @@ interior	4	【名】内部、インテリア 【形】内側の、海岸から�
 internal	4	【形】内部にある		
 interpreter	4	【名】通訳者、解釈者		
 interval	4	【名】間隔、空間、休けい		
-invade	4	【動】侵略する、侵入する		
 invention	4	【名】発明（品）		
 invest	4	【動】投資する、運用する		
 investment	4	【名】投資、投下資本		
@@ -3639,7 +3617,6 @@ primitive	4	【形】原始の、原始的な
 priority	4	【名】優先すること、（時間・順序が）前であること		
 privacy	4	【名】プライバシー、私生活		
 privilege	4	【名】特権、名誉		
-procedure	4	【名】手順、手続き		
 proceed	4	【動】続ける、発する		
 prolong	4	【動】延長する、長引かせる		
 promote	4	【動】促進する、助長する、昇進させる		
@@ -3675,7 +3652,6 @@ reception	4	【名】受付、受け取ること、受理、歓迎会
 recognition	4	【名】承認、評価		
 recommendation	4	【名】推薦（状）、忠告		
 recording	4	【名】記録、記載、レコード		
-recovery	4	【名】回復、回収		
 reduction	4	【名】減少、割引		
 reference	4	【名】参照、言及、参考文献 【動】参照をつける		
 regarding	4	【前】～に関して、～について		
@@ -3810,10 +3786,8 @@ stylist	4	【名】スタイリスト
 submit	4	【動】提出する、服従させる		
 substance	4	【名】物質、薬物、個体、材料、実体		
 suburb	4	【名】郊外、都市に隣接する住宅地		
-summit	4	【名】頂上、最高点 【動】登頂する		
 sunflower	4	【名】ヒマワリ		
 surf	4	【名】打ち寄せる波 【動】波乗りをする		
-surrender	4	【動】降伏する、引き渡す、身を委ねる		
 surrounding	4	【名】包囲、環境（～s）、周囲の状況 【形】取り囲んでいる、周囲の		
 survey	4	【名】調査 【動】見渡す、見回す		
 sword	4	【名】剣		
@@ -3829,7 +3803,6 @@ tense	4	【形】緊張した、強く張った 【動】緊張させる
 tension	4	【名】緊張、ピンと張ること		
 territory	4	【名】領土、領地		
 terror	4	【名】非常な恐ろしさ		
-therapy	4	【名】治療、治療効果		
 thirst	4	【名】渇き		
 thorough	4	【形】徹底的な、完璧な		
 thoroughly	4	【副】完全に、すっかり、徹底的に		
@@ -3848,7 +3821,6 @@ transportation	4	【名】輸送、運送
 treaty	4	【名】条約、協定		
 tribe	4	【名】部族		
 triple	4	【形】3倍の 【名】3倍の数 【動】3倍にする		
-triumph	4	【名】勝利、大成功 【動】勝利を収める		
 tropical	4	【形】熱帯（地方）の		
 turning	4	【名】回転、逆転、分岐点		
 tutor	4	【名】家庭教師 【動】家庭教師をする		
@@ -3920,8 +3892,6 @@ academy	5	【名】学会、学園
 accelerate	5	【動】速度を上げる、促進する、時期を早める		
 accidental	5	【形】偶然の、非本質的な		
 accommodation	5	【名】宿泊設備、適応、和解		
-accomplished	5	【形】熟逹した、成就した		
-accomplishment	5	【名】業績、教養、才能		
 accordingly	5	【副】それに沿って、だから		
 accurately	5	【副】正確に		
 accused	5	【形】告発された、責任を問われる 【名】被告人、容疑者		
@@ -3930,7 +3900,6 @@ accustomed	5	【形】～に慣れている
 acquaint	5	【動】知らせる、紹介する		
 acquisition	5	【名】取得、買収		
 activate	5	【動】作動させる、活動的にする		
-acute	5	【形】鋭い、激しい、急性の		
 adventurer	5	【名】冒険家、野心家		
 adventurous	5	【形】冒険心のある、大胆な		
 advertise	5	【動】広告する、公表する		
@@ -4049,7 +4018,6 @@ civilian	5	【形】民間の、一般人の 【名】一般市民
 civilization	5	【名】文明、洗練		
 clarify	5	【動】明らかにする、はっきりする		
 clay	5	【名】粘土、土、泥		
-climax	5	【名】クライマックス、最高潮		
 clover	5	【名】クローバー		
 clue	5	【名】手がかり、きっかけ		
 coconut	5	【名】ココナツ		
@@ -4080,7 +4048,6 @@ confused	5	【形】困惑した、混乱した
 confusing	5	【形】まぎらわしい、頭が混乱するような		
 confusion	5	【名】混乱状態、混乱させること、あいまい		
 congratulation	5	【名】祝辞、祝うこと		
-conquest	5	【名】征服、克服		
 consensus	5	【名】意見の一致、大多数の意見、世論		
 consent	5	【動】同意する、承諾する 【名】承諾、承認、同意		
 consequently	5	【副】その結果として、したがって		
@@ -4090,7 +4057,6 @@ considering	5	【前】～を考慮すれば 【接】～であることを考�
 consistent	5	【形】一致する、不変の、首尾一貫した		
 constitute	5	【動】構成する、任命する		
 consult	5	【動】相談する、助言を求める		
-consultant	5	【名】顧問、コンサルタント		
 consume	5	【動】消費する、使い果たす		
 consumer	5	【名】消費者		
 consumption	5	【名】消費、消費高		
@@ -4366,7 +4332,6 @@ inclined	5	【形】傾いた
 incredible	5	【形】驚くべき、信じられない		
 indirect	5	【形】間接的な、遠回しの		
 industrious	5	【形】勤勉な、熱心な		
-infection	5	【名】感染、伝染病		
 inferior	5	【形】劣った、（～より）下の		
 inflation	5	【名】インフレーション、膨張		
 influential	5	【形】大きな影響を与える、動機となる		
@@ -4387,7 +4352,6 @@ insure	5	【動】保証する、保険をかける
 interaction	5	【名】相互作用、交流		
 interpret	5	【動】通訳する、解釈する		
 interviewer	5	【名】訪問記者、インタビュアー、面接担当者		
-invasion	5	【名】侵略、侵害		
 inventor	5	【名】発明家、考案者		
 investor	5	【名】投資家、授与者		
 inward	5	【副】内側に向けて、中心へ		
@@ -4493,7 +4457,6 @@ objective	5	【名】目標 【形】客観的な、目的の
 obligation	5	【名】義務、拘束、責任、恩義		
 oblige	5	【動】強いる、感謝している		
 observer	5	【名】観察者、監視者		
-offensive	5	【形】侮辱的な、イライラさせる、不快感を与える 【名】攻撃態勢		
 offering	5	【名】提供、ささげもの		
 officially	5	【副】公式に、職務上、本格的に		
 omit	5	【動】除く、～し落とす		
@@ -4651,8 +4614,6 @@ respectable	5	【形】りっぱな、まともな、まずまずの
 restrict	5	【動】制限する、限定する		
 restriction	5	【名】制限、限定、制約		
 resume	5	【動】再開する		
-retirement	5	【名】退職、退去 【形】退去の		
-retreat	5	【動】後退する、撤退する 【名】後退、撤退、隠遁所		
 revival	5	【名】復活、回復、再生		
 revive	5	【動】生き返らせる、回復させる、意識を回復する		
 revolutionary	5	【形】革命的な、革命の		
@@ -4913,7 +4874,6 @@ alongside	6	【副】横に 【前】～と一緒に
 alphabetical	6	【形】アルファベット順の		
 aluminum	6	【名】アルミニウム 【形】アルミニウムの		
 ample	6	【形】十分な、豊富な		
-analyst	6	【名】分析家、解説者		
 annoying	6	【形】気に障る、人を悩ます		
 anticipation	6	【名】予想、期待		
 ape	6	【名】類人猿 【動】まねる		
@@ -4926,7 +4886,6 @@ archive	6	【名】公文書、記録保管所
 armchair	6	【名】ひじかけいす		
 ascent	6	【名】上がること、昇進、上り坂		
 ashtray	6	【名】灰皿		
-assess	6	【動】評価する、価値を判断する		
 asset	6	【名】財産、価値あるもの		
 astronomer	6	【名】天文学者		
 astronomy	6	【名】天文学		
@@ -5054,13 +5013,11 @@ composed	6	【形】落ち着いた、平穏な
 comprehend	6	【動】よく理解する		
 compulsory	6	【形】強制された、義務的な		
 conception	6	【名】心に抱くこと、考案されたもの、計画、考え		
-conditional	6	【形】条件つきの、条件として		
 condom	6	【名】コンドーム 【動】コンドームをつける		
 congratulate	6	【動】お祝いを言う		
 congressman	6	【名】下院議員		
 considerably	6	【副】かなり、相当に		
 constructive	6	【形】建設的な、発展的な、解釈上の		
-consultation	6	【名】相談、参照		
 contentment	6	【名】満足、安ど		
 continental	6	【形】大陸の		
 continual	6	【形】絶え間のない		
@@ -5110,8 +5067,6 @@ dedicate	6	【動】ささげる、献身する
 dedicated	6	【形】献身的な、打ち込んでいる、熱心な		
 deepen	6	【動】深くする、濃くする		
 defendant	6	【名】被告人		
-defender	6	【名】防御者、選手権保持者、擁護者		
-defensive	6	【形】受け身の、防衛的な、守備の		
 deficit	6	【名】赤字、不足額		
 defy	6	【動】挑む、無視する、ものともしない		
 deliberate	6	【形】故意の、よく考えた 【動】熟考する		
@@ -5191,7 +5146,6 @@ ethics	6	【名】倫理、倫理学、道徳
 everlasting	6	【形】永遠の、不朽の 【名】永続		
 evolve	6	【動】進化する、徐々に発展させる		
 exaggeration	6	【名】誇張		
-examiner	6	【名】試験官、試験する人		
 exceedingly	6	【副】非常に		
 excellence	6	【名】優秀、優越		
 exceptional	6	【形】例外的な、普通でない、優秀な		
@@ -5210,7 +5164,6 @@ familiarity	6	【名】よく知っていること、よく知られているこ
 faraway	6	【形】遠い、夢見るような		
 farmland	6	【名】農地、耕地		
 fascinate	6	【動】魅惑する		
-fatigue	6	【名】疲労、労働 【動】疲れさせる		
 fearless	6	【形】勇敢な、大胆不敵な		
 federation	6	【名】同盟、連合、連邦化		
 feeble	6	【形】体力の弱った、頭の弱い、かすかな		
@@ -5321,8 +5274,6 @@ indifferent	6	【形】無関心な、むとんちゃくな、平凡な
 individually	6	【副】ひとつひとつ、個人的には		
 inevitably	6	【副】必然的に、必ず		
 inexpensive	6	【形】安価な、費用のかからない		
-infect	6	【動】感染させる、（病気を）うつす		
-infectious	6	【形】伝染性の、伝染病の		
 infinite	6	【形】果てしない、莫大な、無限の		
 inflict	6	【動】負わせる、加える		
 informed	6	【形】見聞の広い、情報に通じた		
@@ -5888,7 +5839,6 @@ allied	7	【形】同盟している、協同の、結びついた
 altar	7	【名】祭壇		
 alteration	7	【名】変更、改変、修正、寸法直し		
 alternate	7	【形】代わりの 【名】補欠 【動】交互に起こる		
-altitude	7	【名】高度、高さ		
 amazed	7	【形】驚いた、びっくりした		
 amazement	7	【名】驚き、仰天		
 amen	7	【間】アーメン（キリスト教で祈りの最後に唱えることば）		
@@ -5996,7 +5946,6 @@ chestnut	7	【名】クリ、クリの木
 chime	7	【名】チャイム、調和のとれた音 【動】音を出す、調子を合わせて鳴る		
 choir	7	【名】聖歌隊、合唱団		
 chore	7	【名】家事、雑用		
-chronic	7	【形】慢性の、年来の		
 chuckle	7	【動】くすくすと笑う、声を出さずに笑う		
 churchyard	7	【名】教会付属の墓地、教会堂に隣接する庭		
 cigar	7	【名】葉巻		
@@ -6145,7 +6094,6 @@ doctrine	7	【名】教義、信条、政策
 domain	7	【名】分野、領域		
 doom	7	【動】運命づける、〈受身で〉消える運命にある 【名】運命		
 dormitory	7	【名】寄宿舎		
-dose	7	【名】（1回分の）服用量、薬になるもの		
 drastic	7	【形】思いきった、強烈な		
 dreamy	7	【形】夢のような、夢を見る、すばらしい		
 dribble	7	【動】したたる、ドリブルする		
@@ -6158,7 +6106,6 @@ ecology	7	【名】生態学、エコロジー
 edible	7	【形】食用の、魅力的な 【名】食料品		
 editorial	7	【名】社説、論説 【形】編集の		
 elastic	7	【形】ゴムの、しなやかな、はずむ 【名】ゴムひも		
-elevate	7	【動】上げる		
 eloquent	7	【形】雄弁な、よく表している		
 embark	7	【動】乗船させる、積み込む、乗り込む、着手する		
 embrace	7	【動】抱く、快諾する 【名】抱擁		
@@ -6202,7 +6149,6 @@ fascination	7	【名】魅力、魅了された状態
 fasting	7	【名】断食、絶食		
 feeder	7	【名】飼育者、えさ入れ、食い手、供給装置		
 feminine	7	【形】女らしい、やさしい 【名】女性		
-feverish	7	【形】興奮した、大急ぎの		
 fiery	7	【形】火の、激しい		
 fig	7	【名】イチジク、ささいな量		
 fin	7	【名】ヒレ、魚類		
@@ -6220,7 +6166,6 @@ forceful	7	【形】力にあふれた、強力な、有力な
 foresee	7	【動】見越す、予感する		
 formidable	7	【形】恐るべき、強力な		
 formulate	7	【動】明確に表す、公式化する、考案する		
-fort	7	【名】とりで		
 forthcoming	7	【形】来たるべき、用意された		
 fraud	7	【名】詐欺（師）、裏切り		
 freight	7	【名】貨物 【動】負わせる、積む		
@@ -6271,7 +6216,6 @@ hearth	7	【名】暖炉、いろり、炉辺
 heartily	7	【副】心から、誠実に、思う存分		
 hearty	7	【形】心からの、心の温かい、豊富な		
 heed	7	【動】気をつける、注意する		
-heighten	7	【動】高める、高まる		
 hijack	7	【動】乗っ取る、ハイジャックする 【名】乗っ取り、ハイジャック		
 hind	7	【形】後ろの		
 hinder	7	【動】妨げる、遅らせる、邪魔になる 【形】後方の		
@@ -6468,7 +6412,6 @@ overview	7	【名】概観
 pail	7	【名】バケツ		
 panorama	7	【名】全景、回転画、パノラマ		
 papal	7	【形】ローマ法王の、ローマカトリック教会の		
-paralyze	7	【動】麻痺させる、無力にする		
 parasol	7	【名】日傘		
 parsley	7	【名】パセリ		
 partake	7	【動】参加する、食べる、（性質を）いくぶん帯びる		
@@ -6516,7 +6459,6 @@ preface	7	【名】序文、きっかけ 【動】序文をつける、始める
 preferable	7	【形】望ましい、選ぶに値する		
 premier	7	【形】第1位の、最初の 【名】総理大臣、首相		
 preoccupied	7	【形】夢中になった、先取りされた		
-prescribe	7	【動】処方する、定める、命じる		
 preside	7	【動】取りしきる、主宰する、中心的な位置を占める		
 prestige	7	【名】名声、威信 【形】評判の高い		
 presumably	7	【副】おそらく、推定上		
@@ -6541,7 +6483,6 @@ queer	7	【形】奇妙な、同性愛の 【名】同性愛者、変人
 quicken	7	【動】速くする、活気づける、速くなる、活発になる		
 quotation	7	【名】引用、見積もり、相場づけ		
 racist	7	【名】人種差別主義者 【形】人種差別主義者の		
-raid	7	【動】手入れする、急襲する 【名】襲撃、不法侵入		
 rake	7	【動】くま手で集める、除く 【名】くま手		
 ranch	7	【名】大牧場、農場		
 rash	7	【名】発疹 【形】向こう見ずな、無分別な		
@@ -6846,7 +6787,6 @@ abound	8	【動】たくさんある
 absorption	8	【名】吸収（作用）、統合、没頭		
 accumulation	8	【名】蓄積		
 acknowledgment	8	【名】承認、認識、感謝、受領確認		
-acutely	8	【副】強く、激しく、ひどく、敏感に		
 adaptable	8	【形】順応できる、順応性のある、融通のきく、柔軟な		
 adapter	8	【名】アダプター、補助器具		
 addict	8	【名】依存症の人、中毒者 【動】（悪癖などに）ふけらせる		
@@ -6881,8 +6821,6 @@ amid	8	【前】真っ最中に、～に囲まれて
 amused	8	【形】おもしろがっている、愉快になった、おもしろそうな		
 analog	8	【形】アナログの		
 analogy	8	【名】類似、一致、共通点、類推		
-analytic	8	【形】分析的な、分析にもとづく		
-analytical	8	【形】分析的な、分析にもとづく、分析癖のある		
 anatomy	8	【名】解剖（学）、構造		
 ancestral	8	【形】先祖の、先祖代々の、先駆をなす		
 anguish	8	【名】激しい苦痛、苦悩 【動】苦しめる		
@@ -6903,7 +6841,6 @@ ascribe	8	【動】～に帰する、考えを抱く
 aspiration	8	【名】強い願望、呼吸		
 aspire	8	【動】熱望する		
 assassinate	8	【動】暗殺する、傷つける		
-assault	8	【名】猛攻撃、非難、暴行 【動】猛烈に攻撃する		
 assorted	8	【形】種種雑多の、（～な）組み合わせの		
 assuming	8	【接】～と仮定すれば 【形】出しゃばった、生意気な		
 astonishment	8	【名】驚き、驚くようなこと		
@@ -7021,7 +6958,6 @@ confinement	8	【名】幽閉、監禁、出産
 confirmed	8	【形】確認された、立証された、承認された		
 congregation	8	【名】集まり、集会、集まった人々、信徒団		
 congressional	8	【形】会議の、集会の、アメリカ議会の		
-conqueror	8	【名】征服者、勝利者		
 conscientious	8	【形】良心的な、実直な		
 conserve	8	【動】保存する、節約する		
 considerate	8	【形】思いやりのある、理解のある、察しのよい		
@@ -7164,7 +7100,6 @@ epidemic	8	【名】流行 【形】流行性の、広まっている
 equilibrium	8	【名】つり合い、平静、落ち着き		
 equity	8	【名】公平さ、公明正大、無私無欲		
 eruption	8	【名】発生、爆発、発疹		
-escalate	8	【動】段階的に拡大する、エスカレートさせる、増減させる		
 estimated	8	【形】推測の、見積もりの、だいたいの		
 estimation	8	【名】判断、見方、見積もり、尊重		
 eternity	8	【名】永遠、無限		
@@ -7340,7 +7275,6 @@ introductory	8	【形】紹介の、前置きの、序文の
 intruder	8	【名】侵入者、乱入者、強盗		
 intrusion	8	【名】侵入、不法占有、押しつけ、割り込み		
 intuition	8	【名】直感、直覚、直観的真実		
-invader	8	【名】侵入者、侵略国、移住者		
 invaluable	8	【形】計り知れないほど貴重な		
 inventive	8	【形】発明の才のある、創意に富んだ		
 invoice	8	【名】請求明細書、送り状、仕入れ書		
@@ -7409,7 +7343,6 @@ meaningful	8	【形】意味のある、意味深長な、重要な
 meaningless	8	【形】意味のない、無益な、価値のない		
 meddle	8	【動】よけいな世話を焼く、干渉する、いじくりまわす		
 mediate	8	【動】成立させる、調停する、取り次ぐ 【形】仲介の、間接の		
-medication	8	【名】投薬、薬物		
 mellow	8	【形】柔らかくて豊かな、円熟した 【動】熟させる、落ち着く		
 melodrama	8	【名】メロドラマ、通俗劇		
 memorable	8	【形】記憶すべき、印象的な、素晴らしい、記憶しやすい		
@@ -7732,7 +7665,6 @@ terrorism	8	【名】テロリズム、テロ行為、恐怖状態
 testament	8	【名】証拠、遺言、契約、聖書		
 testimony	8	【名】宣誓証言、証拠、公然とした表明		
 theorist	8	【名】理論家		
-therapist	8	【名】治療専門家、セラピスト		
 thrift	8	【名】倹約、繁茂		
 tickle	8	【動】くすぐる、おもしろがらせる		
 tilt	8	【動】傾ける、上下に動かす、ひっくり返す		
@@ -7752,7 +7684,6 @@ trench	8	【名】深い溝、塹壕（ざんごう） 【動】堀で囲む、�
 tribal	8	【形】部族の		
 trigger	8	【名】引き金、起爆装置、誘因		
 trio	8	【名】三重唱、三人組		
-triumphant	8	【形】勝利を収めた、成功した、勝ち誇った、意気揚々の		
 trot	8	【動】速足で駆ける、急ぐ		
 trout	8	【名】マス		
 tug	8	【動】強く引く 【名】強く引くこと、努力、引き綱		
@@ -7761,7 +7692,6 @@ turnip	8	【名】カブ
 ubiquitous	8	【形】あちこちに現れる、遍在する		
 unborn	8	【形】まだ生まれていない、これから現れる、未来の、後世の		
 unbroken	8	【形】壊れていない、完全な、連続した、慣らされていない		
-unconditional	8	【形】無条件の、無制限の、絶対的な		
 uncontrollable	8	【形】抑制できない、手に負えない、取り扱いにくい		
 underestimate	8	【動】過小評価する、軽んじる 【名】過小評価		
 underlie	8	【動】基礎にある、根拠をなす		
@@ -7980,8 +7910,6 @@ compulsive	9	【形】何かにとりつかれたような、人の心をとら�
 computing	9	【名】コンピューターの使用 【形】コンピューター関係の		
 conceited	9	【形】うぬぼれた		
 condemnation	9	【名】激しい非難、有罪宣告		
-conditioner	9	【名】髪のコンディショナー、薬剤、調節器		
-conditioning	9	【名】条件付け、調節、空調		
 conformity	9	【名】服従、順応、画一、類似		
 confound	9	【動】まごつかせる、困惑させる		
 congenial	9	【形】適した、性分に合った、気心の合った		
@@ -8008,7 +7936,6 @@ cowardice	9	【名】憶病、小胆
 crave	9	【動】切望する、要求する		
 credibility	9	【名】信頼性		
 crescent	9	【名】三日月、新月		
-crest	9	【名】頂上、尾根、とさか、たてがみ		
 crimson	9	【形】深紅色の、紅潮した、血なまぐさい		
 crumble	9	【動】砕く、粉々に崩れる		
 crunch	9	【動】ボリボリかむ、バリバリ砕ける		
@@ -8029,7 +7956,6 @@ deceptive	9	【形】人をだます、当てにならない
 decree	9	【動】命じる 【名】法令、布告		
 deduct	9	【動】差し引く、推論する、演繹する		
 deduction	9	【名】差し引き、控除、推論、演繹		
-defenseless	9	【形】無防備の		
 deform	9	【動】変形させる、奇形にする		
 degrade	9	【動】体面を傷つける、評判を落とす		
 denote	9	【動】意味する、示す、名称である		
@@ -8100,7 +8026,6 @@ embody	9	【動】具象化する
 emigrant	9	【名】移民、出稼ぎ人		
 empower	9	【動】権利を与える、地位を向上させる、～できるようにする		
 empress	9	【名】女帝、皇后		
-encircle	9	【動】取り巻く、周りを回る		
 endorsement	9	【名】支持、裏書、保証、承認		
 enlargement	9	【名】写真の引きのばし、増大、拡大		
 enlighten	9	【動】啓発する、教え導く、知らせる		
@@ -8248,7 +8173,6 @@ inescapable	9	【形】免れ得ない、回避できない
 inexplicable	9	【形】不可解な、説明がつかない		
 infer	9	【動】推論する、結論する		
 inference	9	【名】推論、推測		
-inflammation	9	【名】炎症、点火、高揚		
 infrastructure	9	【名】基盤、基幹施設、下部構造		
 infrequent	9	【形】めったに起こらない、珍しい、不定期の		
 infuriate	9	【動】激怒させる		
@@ -8325,7 +8249,6 @@ lyrical	9	【形】詩的な、叙情的な
 madden	9	【動】かんかんに怒らせる、気を変にする		
 malfunction	9	【名】故障、機能不全		
 malicious	9	【形】意地の悪い、悪意のある		
-maneuver	9	【動】動かす、さばく 【名】作戦行動、大演習		
 manifesto	9	【名】宣言、声明		
 manipulate	9	【動】巧みに扱う、処理する、操る		
 manipulation	9	【名】上手な扱い、巧みな操作		
@@ -8613,7 +8536,6 @@ showy	9	【形】はでな、人目を引く
 shun	9	【動】避ける		
 sibling	9	【名】兄弟・姉妹		
 sickly	9	【形】病気がちの 【副】病的に 【動】青白くさせる		
-siege	9	【名】包囲攻撃 【動】包囲攻撃する		
 sift	9	【動】ふるいにかける、調べる		
 signing	9	【名】調印、署名、契約		
 signpost	9	【名】道標、手がかり、指針		
@@ -8844,7 +8766,6 @@ aloft	10	【副】高い所に
 alto	10	【名】アルト		
 amass	10	【動】蓄積する		
 amber	10	【名】こはく、黄色		
-ambush	10	【動】待ち伏せする 【名】待ち伏せ		
 ammonia	10	【名】アンモニア		
 ammunition	10	【名】弾薬		
 amnesty	10	【名】恩赦		
@@ -8897,7 +8818,6 @@ beneficiary	10	【名】利益を受ける人
 benevolent	10	【形】慈悲の心に富んだ		
 benign	10	【形】良性の、親切な		
 beset	10	【動】悩ませる、包囲攻撃する、襲撃する		
-besiege	10	【動】包囲する、質問を浴びせる		
 bibliography	10	【名】図書目録、参考文献一覧表		
 billboard	10	【名】掲示板、広告板		
 bingo	10	【名】ビンゴ 【間】そのとおり		
@@ -9024,7 +8944,6 @@ creepy	10	【形】むずむずする、身の毛のよだつような、はう
 crib	10	【名】幼児用寝台、かいば桶、盗用 【動】カンニングする		
 crossed	10	【形】交差した、混線した、十字を引いてある		
 crucify	10	【動】十字架にはりつけにする、虐待する		
-culminate	10	【動】最高点に達する、全盛を極める		
 culprit	10	【名】刑事被告人、犯人		
 cumulative	10	【形】累積する、漸増する		
 custodian	10	【名】管理人、用務員		
@@ -9097,7 +9016,6 @@ egocentric	10	【形】自己中心的な 【名】自分本位な人
 egotistic	10	【形】利己的な、わがままな		
 eject	10	【動】取り出す、追い出す、噴出する、脱出する		
 electorate	10	【名】選挙民		
-elevated	10	【形】高尚な、意気盛んな		
 elicit	10	【動】引き出す、聞き出す		
 eligible	10	【形】選ばれるのにふさわしい		
 elude	10	【動】うまく避ける、理解できない		
@@ -9160,7 +9078,6 @@ fidelity	10	【名】厳守、忠誠、貞節
 figurative	10	【形】比ゆ的な、文字どおりでない		
 firing	10	【名】発砲、点火		
 fixing	10	【名】添えもの、固定、修理		
-flank	10	【動】側面に位置する 【名】横腹、側面		
 flare	10	【動】ゆらゆらと燃える 【名】照明装置		
 flattering	10	【形】お世辞の、うれしがらせる、引き立てる		
 flick	10	【名】軽く打つこと、ビシッという音 【動】はじく		
@@ -9179,8 +9096,6 @@ forefather	10	【名】先祖
 foremost	10	【形】最も重要な 【副】第一に		
 foresight	10	【名】洞察力、将来への配慮、展望		
 forge	10	【名】炉、かじ屋 【動】鍛えて金属製品にする、でっち上げる		
-fortify	10	【動】強化する、元気づける		
-fortress	10	【名】要塞		
 fracture	10	【名】骨折、割れ目 【動】壊す		
 fragmentary	10	【形】断片からなる		
 franchise	10	【名】フランチャイズ 【動】特権を与える		
@@ -9290,7 +9205,6 @@ inertia	10	【名】慣性、不活発
 infamous	10	【形】悪名の高い、恥ずべき		
 infantry	10	【名】歩兵（隊）		
 infinity	10	【名】無限性、無数		
-inflammatory	10	【形】怒りをかきたてる、刺激的な、炎症性の		
 inflate	10	【動】膨らませる、インフレをもたらす		
 influx	10	【名】流入		
 ingratitude	10	【名】恩知らず		
@@ -9452,7 +9366,6 @@ padding	10	【名】詰め物、不必要な挿入語句、水増し
 pageant	10	【名】野外劇、コンテスト、仮装行列		
 pandemic	10	【形】全地域にわたる、全国的（世界的）流行の		
 paradigm	10	【名】パラダイム、理論的枠組、模範		
-paralysis	10	【名】麻痺症、（活動・機能などの）停滞		
 parameter	10	【名】媒介変数、パラメーター		
 paramount	10	【形】最高の、優先する 【名】最高権力、最重要		
 parched	10	【形】乾いた、干からびた		
@@ -9697,7 +9610,6 @@ terminus	10	【名】終点、末端、限界
 thee	10	【代】なんじを		
 theology	10	【名】神学		
 theoretically	10	【副】理論上は、名目上は		
-therapeutic	10	【形】治療法の		
 throb	10	【動】脈打つ、感動する 【名】動悸、興奮		
 timidity	10	【名】憶病、小心		
 tingle	10	【動】うずく、ぞくぞくする、ひりひりさせる		
@@ -10018,7 +9930,6 @@ cub	11	【名】肉食哺乳動物の子、青二才、見習い、新米
 cuff	11	【名】そで口、ズボンのすその折り返し、手錠（～s）		
 culinary	11	【形】料理の、台所の		
 cull	11	【動】間引く、選び取る 【名】選択、間引き		
-culmination	11	【名】成就、頂点、最高潮		
 cumbersome	11	【形】扱いにくい、重荷となる		
 curator	11	【名】学芸員、園長、支配人		
 curt	11	【形】ぶっきらぼうな、ことばが短い		
@@ -10247,7 +10158,6 @@ heterosexual	11	【名】異性愛の人 【形】異性愛の、異性の
 heyday	11	【名】全盛期、絶頂		
 hiatus	11	【名】中断、記事の脱落部分		
 hilarious	11	【形】とてもおかしい、陽気な		
-hindsight	11	【名】あとになっての判断		
 hoax	11	【名】悪ふざけ、人をかつぐこと 【動】だます		
 homage	11	【名】敬意、主従関係		
 hone	11	【動】技能を磨く、砥石でとぐ 【名】かみそり用の砥石		
@@ -10387,7 +10297,6 @@ mutant	11	【形】突然変異による 【名】突然変異体
 nag	11	【動】口うるさく言う、絶えず悩ます 【名】口うるさい人		
 narrate	11	【動】順序だてて述べる、ナレーションをする		
 nasal	11	【形】鼻の、鼻にかかった 【名】鼻音		
-nausea	11	【名】吐き気、嫌悪		
 nestle	11	【動】心地よく落ち着かせる、気持ちよく横たわる		
 neural	11	【形】神経の		
 neuron	11	【名】ニューロン、神経単位		
@@ -10510,7 +10419,6 @@ quintessential	11	【形】典型的な、真髄の
 quip	11	【動】皮肉を言う 【名】皮肉、言い逃れ		
 quirk	11	【名】気まぐれ、言い逃れ、奇抜さ		
 rabid	11	【形】過激な、凶暴な、狂犬病にかかった		
-raider	11	【名】会社を乗っ取る人、侵略者、手入れの警官		
 rampant	11	【形】（病気や犯罪が）はびこっている、凶暴な		
 rampart	11	【名】防御物、城壁 【動】城壁で囲む		
 rancor	11	【名】憎しみ、怨恨		
@@ -10532,7 +10440,6 @@ regal	11	【形】豪奢な、王の
 regimen	11	【名】（食事などの規制による）療法、養生法		
 registry	11	【名】登記所、登録、記録簿		
 reinstate	11	【動】回復させる、元の地位に戻す		
-relapse	11	【名】ぶり返し 【動】逆戻りする、悪い状態に戻る		
 relinquish	11	【動】放棄する、手放す、あきらめる		
 remorse	11	【名】自責の念、深い後悔		
 rendezvous	11	【動】集合する 【名】待ち合わせ、集合場所、ランデブー		
@@ -10610,7 +10517,6 @@ sierra	11	【名】ノコギリ状の山脈、サワラ
 sire	11	【動】（馬などが）子を産む、雄親となる 【名】動物の雄親、種馬		
 sizable	11	【形】かなり大きな		
 skinner	11	【名】詐欺師、皮加工人		
-skirmish	11	【名】小衝突、小競り合い 【動】小競り合いをする		
 sleazy	11	【形】安っぽい、けちな、取るに足らない		
 sleek	11	【形】つやつやした、栄養がよい 【動】なめらかにする		
 sliver	11	【名】破片、細長い小片		
@@ -10713,7 +10619,6 @@ tremor	11	【名】揺れ、身震い
 tribune	11	【名】人権の擁護者、軍団司令官		
 trooper	11	【名】州警察官、騎馬警官、騎兵		
 troupe	11	【名】一座、一行 【動】巡業する		
-truce	11	【名】停戦協定、休戦、一時的休止		
 trudge	11	【動】重い足どりで歩く 【名】重い足どり		
 tuberculosis	11	【名】結核		
 tumultuous	11	【形】騒然とした、動乱の、無秩序の		
@@ -10825,13 +10730,11 @@ antiseptic	12	【形】殺菌の、清潔な 【名】消毒剤
 antithesis	12	【名】正反対、対照		
 anvil	12	【名】金敷き、物を打つ台		
 aperture	12	【名】カメラの絞り、すき間		
-apex	12	【名】頂点、先端		
 apparition	12	【名】幽霊、幻影、出現		
 appraise	12	【動】鑑定する、評価する、見積もる		
 approximation	12	【名】近付くこと、接近、近似、近似値		
 arable	12	【形】耕作に適した 【名】耕作地		
 arbitration	12	【名】仲裁、調停		
-armistice	12	【名】休戦		
 armpit	12	【名】わきの下、むさ苦しい場所		
 arousal	12	【名】喚起、覚醒、性的興奮		
 arsenic	12	【名】ヒ素 【形】ヒ素の		
@@ -10839,7 +10742,6 @@ articulation	12	【名】明瞭な発音、明確な表現
 artifice	12	【名】巧みな策略、巧妙さ、ごまかし		
 assail	12	【動】攻撃する、執拗に攻める、悩ませる		
 assay	12	【動】分析する、調べる、試す		
-assessor	12	【名】課税額査定者、評価者		
 assimilation	12	【名】同化、吸収		
 astern	12	【副】後方に		
 asunder	12	【副】バラバラに、離れ離れに 【形】バラバラの		
@@ -11465,7 +11367,6 @@ procrastinate	12	【動】ぐずぐずと引き延ばす
 procrastination	12	【名】優柔不断		
 prodigal	12	【形】金遣いの荒い、物惜しみしない 【名】浪費家		
 profusion	12	【名】多量、豊富さ、ぜいたく		
-prognosis	12	【名】予後、予想		
 projectile	12	【名】発射体 【形】発射される、推進する		
 promiscuous	12	【形】見境なく性的関係をもつ、ごたまぜの		
 promontory	12	【名】岬、高台		
@@ -11504,7 +11405,6 @@ reiterate	12	【動】繰り返して言う、何度も行う
 rejoinder	12	【名】言い返し、返答、口答え		
 rejuvenate	12	【動】活力を取り戻させる、若返らせる		
 reminisce	12	【動】思い出を語る、楽しく思い出す		
-remission	12	【名】鎮静、許すこと、緩和		
 reparation	12	【名】賠償金（～s）、償い		
 repatriate	12	【動】本国に送還する 【名】送還者		
 repellent	12	【形】不快な、はねつける 【名】寄せつけないもの、防虫剤		
@@ -11750,6 +11650,5 @@ wrest	12	【動】苦心して手に入れる、もぎ取る、ねじる
 wriggle	12	【動】うまく切り抜ける、くねくね進む		
 writhe	12	【動】身をよじる、ひん曲げる		
 xenophobia	12	【名】外国人嫌い、外来者恐怖症		
-zenith	12	【名】天頂、頂点		
 zest	12	【名】熱意、心地よい刺激、活力		
 zodiac	12	【名】十二宮図、黄道帯		

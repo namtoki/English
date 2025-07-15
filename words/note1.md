@@ -21,6 +21,41 @@
 - `strenuous` /ˈstrenjuəs/          ([Writing] 肉体的に激しい)      Avoid strenuous exercise for a few weeks.
 - `feat` /fiːt/                     ([Neutral] 偉業、功績)          Climbing Everest is an incredible feat.
 
+## 争いごと関連
+- `ambush` /ˈæmbʊʃ/                 ([Neutral] 待ち伏せ、奇襲)      The soldiers set up an ambush.
+- `siege` /siːdʒ/                   ([Formal] 包囲、包囲戦)         The siege lasted for months.
+- `besiege` /bɪˈsiːdʒ/              ([Writing] 包囲する)            The castle was besieged for weeks.
+- `raid` /reɪd/                     ([Neutral] 急襲、襲撃)          The enemy launched a raid at dawn.
+  - `raider` /ˈreɪdə/               ([Neutral] 襲撃者、侵略者)      The raiders attacked at night.
+- `assault` /əˈsɔːlt/               ([Formal] 襲撃、暴行)           The assault on the fortress failed.
+- `retreat` /rɪˈtriːt/              ([Neutral] 退却、後退)          The army was forced to retreat.
+  - `retirement` /rɪˈtaɪəmənt/      ([Neutral] 退職、退去)          His retirement was well-deserved.
+- `surrender` /səˈrendə/            ([Neutral] 降伏、降参)          The enemy decided to surrender.
+- `skirmish` /ˈskɜːmɪʃ/             ([Formal] 小競り合い)           A skirmish broke out at the border.
+- `offensive` /əˈfensɪv/            ([Formal] 攻撃、攻勢)           They launched a major offensive.
+  - `offense` /əˈfens/              ([Neutral] 攻撃、違反)          The offense was too strong to stop.
+- `defensive` /dɪˈfensɪv/           ([Neutral] 守備の、防御の)      The team took a defensive position.
+  - `defend` /dɪˈfend/              ([Neutral] 守る、擁護する)      They defended their territory.
+  - `defense` /dɪˈfens/             ([Neutral] 防御、防衛)          The city's defense was strong.
+  - `defenseless` /dɪˈfensləs/      ([Neutral] 無防備の)            The village was left defenseless.
+  - `defender` /dɪˈfendə/           ([Neutral] 防御者、守備者)      The defender blocked the attack.
+- `invasion` /ɪnˈveɪʒən/            ([Formal] 侵攻、侵略)           The invasion was repelled.
+  - `invade` /ɪnˈveɪd/              ([Formal] 侵略する、侵入)       The army invaded the neighboring country.
+  - `invader` /ɪnˈveɪdə/            ([Formal] 侵略者、侵入者)       The invaders were repelled.
+- `conquest` /ˈkɒŋkwest/            ([Writing] 征服、攻略)          The conquest took several years.
+  - `conquer` /ˈkɒŋkə/              ([Writing] 征服する、克服)      They conquered the mountain peak.
+  - `conqueror` /ˈkɒŋkərə/          ([Writing] 征服者、勝利者)      The conqueror ruled the land.
+- `maneuver` /məˈnuːvə/             ([Formal] 戦術、作戦行動)       The general planned a clever maneuver.
+- `flank` /flæŋk/                   ([Military] 側面、側面攻撃)     They attacked from the left flank.
+- `encircle` /ɪnˈsɜːkəl/            ([Formal] 包囲する)             The troops encircled the enemy.
+- `fortify` /ˈfɔːtɪfaɪ/             ([Formal] 要塞化する、強化)     They fortified the city walls.
+  - `fort` /fɔːt/                   ([Neutral] 砦、要塞)            The old fort protected the harbor.
+  - `fortress` /ˈfɔːtrəs/           ([Neutral] 要塞、砦)            The fortress stood on the hill.
+- `escalate` /ˈeskəleɪt/            ([Neutral] 拡大する、激化)      The conflict began to escalate.
+- `ceasefire` /ˈsiːsfaɪə/           ([Formal] 停戦)                 Both sides agreed to a ceasefire.
+- `truce` /truːs/                   ([Neutral] 休戦、停戦)          They called a temporary truce.
+- `armistice` /ˈɑːmɪstɪs/           ([Writing] 休戦協定)            The armistice ended the war.
+
 ## 厳しい
 - `caustic` /ˈkɔːstɪk/              ([Writing] 辛辣な、腐食性の)    His caustic remarks hurt everyone.
 - `harsh` /hɑːʃ/                    ([Neutral] 厳しい、過酷な)      The teacher gave harsh criticism.
@@ -98,7 +133,35 @@
   - `solidly` /ˈsɒlɪdli/            ([Neutral] 強固に、確実に)      The foundation was solidly built.
 - `dense` /dens/                    ([Formal] 密度の高い)           The fog was so dense I couldn't see.
   - `density` /ˈdensəti/            ([Formal] 密度)                 The population density is very high here.
+
+## 位置表現
 - `pinnacle` /ˈpɪnəkəl/             ([Writing] 絶頂、頂点)          He reached the pinnacle of his career.
+  - `zenith` /ˈziːnɪθ/              ([Writing] 天頂、絶頂期)        His career reached its zenith.
+- `summit` /ˈsʌmɪt/                 ([Neutral] 頂上、首脳会談)      They reached the summit at dawn.
+- `apex` /ˈeɪpeks/                  ([Writing] 頂点、最高点)        The triangle's apex points upward.
+- `peak` /piːk/                     ([Neutral] 頂上、最高点)        The mountain peak was covered in snow.
+- `crest` /krest/                   ([Neutral] 頂上、山頂)          The eagle soared above the crest.
+- `crown` /kraʊn/                   ([Neutral] 頂上、王冠)          The tower's crown gleamed in sunlight.
+- `acme` /ˈækmi/                    ([Writing] 頂点、絶頂)          This represents the acme of excellence.
+- `climax` /ˈklaɪmæks/              ([Neutral] 頂点、クライマックス)The story reached its climax.
+  - `climactic` /klaɪˈmæktɪk/       ([Writing] 頂点の、最高潮の)    The climactic scene was thrilling.
+- `culmination` /ˌkʌlmɪˈneɪʃən/     ([Writing] 頂点、完成)          This is the culmination of years of work.
+  - `culminate` /ˈkʌlmɪneɪt/        ([Writing] 頂点に達する)        The project culminated in success.
+- `nadir` /ˈneɪdɪə/                 ([Writing] 最下点、どん底)      His career hit its nadir.
+- `altitude` /ˈæltɪtjuːd/           ([Formal] 高度、標高)           The plane flew at high altitude.
+- `elevation` /ˌelɪˈveɪʃən/         ([Formal] 標高、高さ)           The city's elevation is 1000 meters.
+  - `elevate` /ˈelɪveɪt/            ([Formal] 高める、昇格させる)   They elevated him to manager.
+  - `elevator` /ˈelɪveɪtə/          ([Neutral] エレベーター)        The elevator reached the top floor.
+  - `elevated` /ˈelɪveɪtɪd/         ([Formal] 高い位置の、高尚な)   The elevated platform offered great views.
+- `height` /haɪt/                   ([Neutral] 高さ、身長)          What's the height of that building?
+  - `heighten` /ˈhaɪtən/            ([Neutral] 高める、強める)      The drama heightened the tension.
+- `achievement` /əˈtʃiːvmənt/       ([Neutral] 達成、業績)          Winning was a great achievement.
+  - `achieve` /əˈtʃiːv/             ([Neutral] 達成する、成し遂げる)She achieved her goals.
+- `accomplishment` /əˈkʌmplɪʃmənt/  ([Neutral] 達成、成果)          His accomplishments are impressive.
+  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 成し遂げる、達成)    They accomplished the mission.
+  - `accomplished` /əˈkʌmplɪʃt/     ([Neutral] 熟練した、成就した)  She is an accomplished pianist.
+- `triumph` /ˈtraɪʌmf/              ([Neutral] 勝利、大成功)        The team's triumph was celebrated.
+  - `triumphant` /traɪˈʌmfənt/      ([Neutral] 勝利した、勝ち誇った)The triumphant team celebrated loudly.
 
 ## 概念
 - `offshoot` /ˈɒfʃuːt/              ([Neutral] 分派、派生物)        The company is an offshoot of a larger corporation.
@@ -125,12 +188,59 @@
 - `incision` /ɪnˈsɪʒən/             ([Medical] 切開)                The surgeon made a small incision.
 - `diagnosis` /ˌdaɪəɡˈnəʊsɪs/       ([Medical] 診断)                The diagnosis was confirmed by tests.
   - `diagnose` /ˈdaɪəɡnəʊz/         ([Medical] 診断する)            The doctor diagnosed pneumonia.
+- `analysis` /əˈnæləsɪs/            ([Medical] 分析、検査)          The blood analysis showed normal results.
+  - `analyze` /ˈænəlaɪz/            ([Medical] 分析する)            They analyzed the test results.
+  - `analytic` /ˌænəˈlɪtɪk/        ([Medical] 分析的な)              The analytic approach was thorough.
+  - `analyst` /ˈænəlɪst/           ([Medical] 分析家、解説者)      The data analyst reviewed the results.
+  - `analytical` /ˌænəˈlɪtɪkəl/     ([Medical] 分析的な)              She has an analytical mind.
+- `paralysis` /pəˈræləsɪs/          ([Medical] 麻痺、まひ)          The accident caused temporary paralysis.
+  - `paralyze` /ˈpærəlaɪz/          ([Medical] 麻痺させる)            The injury paralyzed his leg.
 - `treatment` /ˈtriːtmənt/          ([Medical] 治療)                The treatment was successful.
   - `treat` /triːt/                 ([Neutral] 治療する)            They treated his broken arm.
+- `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
+  - `therapist` /ˈθerəpɪst/         ([Medical] 療法士、治療士)      The therapist guided his exercises.
+  - `therapeutic` /ˌθerəˈpjuːtɪk/   ([Medical] 治療的な)              The therapeutic effect was significant.
+- `medication` /ˌmedɪˈkeɪʃən/       ([Medical] 薬物、投薬)          The medication reduced her pain.
+  - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を与える)          They medicated the patient for pain.
+  - `medical` /ˈmedɪkəl/             ([Medical] 医学の、医療の)      He needs medical attention.
 - `surgery` /ˈsɜːdʒəri/             ([Medical] 手術)                He needs surgery on his knee.
   - `surgeon` /ˈsɜːdʒən/            ([Medical] 外科医)              The surgeon explained the procedure.
+- `procedure` /prəˈsiːdʒə/          ([Medical] 手術、処置)          The procedure took two hours.
 - `symptom` /ˈsɪmptəm/              ([Medical] 症状)                Fever is a common symptom.
+- `condition` /kənˈdɪʃən/           ([Medical] 状態、病状)          His medical condition is stable.
+  - `unconditional` /ˌʌnkənˈdɪʃənəl/ ([Medical] 無条件の)              The unconditional support helped recovery.
+  - `conditional` /kənˈdɪʃənəl/     ([Medical] 条件付きの)            The recovery was conditional on rest.
+  - `conditioning` /kənˈdɪʃənɪŋ/   ([Medical] 条件付け、調節)      Physical conditioning improved his health.
+  - `conditioner` /kənˈdɪʃənə/     ([Medical] 調節器、改善剤)      The air conditioner helped the patient.
+- `chronic` /ˈkrɒnɪk/               ([Medical] 慢性の)              She has chronic back pain.
+- `acute` /əˈkjuːt/                 ([Medical] 急性の、激しい)      He suffered an acute heart attack.
+  - `acutely` /əˈkjuːtli/            ([Medical] 激しく、急性に)      He was acutely aware of the pain.
+- `infection` /ɪnˈfekʃən/           ([Medical] 感染、感染症)        The wound developed an infection.
+  - `infect` /ɪnˈfekt/              ([Medical] 感染させる)          The virus infected many patients.
+  - `infectious` /ɪnˈfekʃəs/        ([Medical] 伝染性の)              The disease is highly infectious.
+- `inflammation` /ˌɪnfləˈmeɪʃən/    ([Medical] 炎症)                The inflammation caused swelling.
+  - `inflammatory` /ɪnˈflæmətɔːri/   ([Medical] 炎症性の)              The inflammatory response was severe.
+- `fever` /ˈfiːvə/                  ([Medical] 発熱、熱)            The child had a high fever.
+  - `feverish` /ˈfiːvərɪʃ/          ([Medical] 熱がある、熄熱的)    The patient felt feverish and weak.
+- `nausea` /ˈnɔːziə/                ([Medical] 吐き気)              The medication caused nausea.
+- `fatigue` /fəˈtiːɡ/               ([Medical] 疲労、倦怠感)        Chronic fatigue affected her daily life.
+- `recovery` /rɪˈkʌvəri/            ([Medical] 回復、快復)          His recovery was faster than expected.
+  - `recover` /rɪˈkʌvə/             ([Medical] 回復する)            She recovered from the illness.
+- `relapse` /rɪˈlæps/               ([Medical] 再発、逆戻り)        The patient had a relapse.
+- `remission` /rɪˈmɪʃən/            ([Medical] 寛解、軽快)          The cancer is in remission.
+- `examination` /ɪɡˌzæmɪˈneɪʃən/    ([Medical] 診察、検査)          The examination revealed no problems.
+  - `examine` /ɪɡˈzæmɪn/            ([Medical] 診察する、検査)      The doctor examined the patient.
+  - `examiner` /ɪɡˈzæmɪnə/         ([Medical] 診察医、検査者)      The medical examiner completed the review.
+- `consultation` /ˌkɒnsəlˈteɪʃən/   ([Medical] 診察、相談)          He scheduled a consultation.
+  - `consultant` /kənˈsʌltənt/       ([Medical] 専門医、コンサル)    The consultant reviewed the case.
+- `assessment` /əˈsesmənt/          ([Medical] 評価、査定)          The medical assessment was thorough.
+  - `assess` /əˈses/                ([Medical] 評価する、査定)      They assessed his condition.
+  - `assessor` /əˈsesə/              ([Medical] 評価者、査定者)      The medical assessor evaluated the claim.
 - `prescription` /prɪˈskrɪpʃən/     ([Medical] 処方箋)              Take this prescription to the pharmacy.
+  - `prescribe` /prɪˈskraɪb/        ([Medical] 処方する)            The doctor prescribed antibiotics.
+- `dosage` /ˈdəʊsɪdʒ/               ([Medical] 投与量、服用量)      Follow the recommended dosage.
+  - `dose` /dəʊs/                   ([Medical] 服用量、一回量)      Take one dose three times daily.
+- `prognosis` /prɒɡˈnəʊsɪs/        ([Medical] 予後、見通し)        The patient's prognosis is good.
 
 ## 気持ち
 - `lethargic` /ləˈθɑːdʒɪk/          ([Writing] 無気力な)            I feel lethargic after eating too much.
@@ -328,3 +438,6 @@
 - `gear` /ɡɪər/                     ([Casual] 装備、服装)           Don't forget your hiking gear.
 - `threads` /θredz/                 ([Casual] 服、衣服)             Nice threads! Where did you get them?
 - `costume` /ˈkɒstjuːm/             ([Neutral] 衣装、仮装)          She wore a traditional costume.		
+
+## 副詞
+- `in hindsight` /ɪn ˈhaɪndsaɪt/    ([Neutral] 振り返ってみると)    In hindsight, I should have studied harder.
