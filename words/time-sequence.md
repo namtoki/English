@@ -4,4 +4,8 @@ This category contains words related to time, timing, duration, and chronologica
 
 ## Words
 
+## Time Perspective
+
+- `in hindsight` /ɪn ˈhaɪndsaɪt/    ([Neutral] 振り返ってみると)    In hindsight, I should have studied harder.
+
 <!-- Add vocabulary entries here using the format from format.md -->
