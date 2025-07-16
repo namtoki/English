@@ -28,7 +28,6 @@
 - [ ] `in place of V-ing`                   ([Formal] 〜の代替として) `In place of` hiring more staff, we automated the workflow.
 
 ## 条件づけ
-- [x] `given that S V`                      ([Casual] を考慮に入れると) `Given that` many city streets in the U.S. have a 45 mph speed limit, ...
 - [x] `assuming that S V`                   ([Neutral] が事実だとすると) `Assuming that` no voltage is applied from the booster amplifier, ...
 - [ ] `considering that S V`                ([Casual] を考慮に入れると) `Considering that` it’s raining, we should take an umbrella.
 - [ ] `in light of O`                       ([Formal] 新事実を考慮に入れると) `In light of` recent events, we have decided to postpone the meeting.

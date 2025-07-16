@@ -3,12 +3,9 @@
 ---
 
 ## 最初に
-- [x] `first off`                           ([Casual] まず最初に) `First off,` let me thank you all for being here today.
-- [ ] `to begin with`                       ([Neutral] まず第一に) `To begin with,` we need to define our main objectives.
 - [ ] `first/Most of all`                   ([Neutral] まず／何よりも) `First of all,` I’d like to thank everyone. `Most of all,` I appreciate your honesty.
 
 ## 次に
-- [x] `moving on,`                          ([Neutral] 次に移りますが) `Moving on,` let's discuss the budget for next quarter.
 - [ ] `let’s move on to`                    ([Neutral] ～に話を進めましょう) `Let’s move on to` the next item on the agenda.
 - [ ] `next,`                               ([Neutral] 次に) `Next,` let’s look at the second point on the agenda.
 - [ ] `proceeding to`                       ([Formal] ～に進みますと) `Proceeding to` the final section, we’ll review our conclusions.
@@ -32,7 +29,6 @@
 - [ ] `what's more`                         ([Casual] その上／さらに) `What's more,` we managed to finish ahead of schedule.
 - [ ] `what's worse`                        ([Casual] さらに悪いことに) He forgot his keys, and `what's worse,` his phone died.
 - [ ] `to make matters worse`               ([Casual] さらに悪いことに) `To make matters worse,` it started raining during the event.
-- [x] `on top of that`                      ([Neutral] その上に) `On top of that,` we have to finish early.
 - [ ] `in addition to that`                 ([Formal] それに加えて) `In addition to that,` we’ll need to allocate more resources.
 - [x] `More than anything`                  ([Casual] 何よりも) `More than anything,` I just want things to go back to normal.
 - [ ] `above all`                           ([Neutral] 何よりも) `Above all,` safety must come first.

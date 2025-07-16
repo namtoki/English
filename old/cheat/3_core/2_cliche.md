@@ -75,7 +75,6 @@
 - [x] `Could you V?`                        ([Polite] してもらってもいいですか？) `Could you` say that again?
 - [ ] `Do you think you could V?`           ([Polite] してもらってもいいですか？) `Do you think you could` talk to her?
 - [ ] `Would you mind V-ing?`               ([Polite] V してもらえませんか？) `Would you mind` doing that?
-- [x] `Would it be possible to V?`          ([Formal] V してもらえませんか？) `Would it be possible to` have the invoice ready by the 15th?
 - [ ] `Please do me a favor and V?`         ([Casual] V してもらえませんか？) `Please do me a favor and give` me a ride to Times Square.
 - [ ] `I was wondering if you could V?`     ([Polite] V してもらえませんか？) `I was wondering if you could` do me a favor.
 - [ ] `I'd be grateful if you could V?`     ([Formal] V してもらえませんか？) `I would be grateful if you could` give us an ...
@@ -107,7 +106,6 @@
 - [ ] `What's your take on O?`              ([Casual] どう思う？) `What's your take on` the new iPhone?
 - [ ] `What do you think about O?`          ([Neutral] どう思いますか？) `What do you think about` moving to Osaka?
 - [ ] `How do you feel about O?`            ([Neutral] どう思いますか？) `How do you feel about` the service in Japan?
-- [ ] `What are your thoughts on O?`        ([Polite] ご意見をお聞かせください。)
 - [ ] `I’d like to hear your opinion on O`  ([Polite] ご意見を伺いたいです。)
 - [ ] `Would you like O?`                   ([Neutral] O が欲しいですか？) `Would you like` some more?
 - [ ] `What's the situation with O?`        ([Neutral] Oの状況はどうなっている？) `What's the situation with the project deadline?`
@@ -124,7 +122,6 @@
 - [ ] `Does that sound C?`                  ([Casual] C のように聞こえる？) `Does that sound` good?
 - [ ] `How do you like O?`                  ([Neutral] O は好きですか？) `How do you like` your new shoes?
 - [x] `How long since S V?`                 ([Neutral] S V してからどれくらい？) `How long since` you met him?
-- [x] `How long until S V?`                 ([Neutral] S V するまでどれくらい？) `How long until` he comes back?
 - [ ] `How was everything?`                 ([Polite] お料理はいかがでしたか？)
 
 ---
@@ -282,9 +279,7 @@
 
 ## わかるけど (反対)
 - [x] `I know what you are saying, but`     ([Casual] わかるよ) `I know what you are saying, but` we need to consider the budget.
-- [ ] `I hear you, but`                     ([Casual] 君の言いたいことはわかるよ) `I hear you, but` we still need to consider the budget.
 - [x] `Fair enough`                         ([Casual] まあ、それもありだね／納得したよ） `Fair enough`, I see your point.
-- [x] `Makes sense`                         ([Casual] なるほどね／わかるよ) `That explanation makes sense.`
 
 ---
 
@@ -310,7 +305,6 @@
 - [ ] `Tell me about it`                    ([Casual] まったくその通り／わかるよ) `Tell me about it!` I've been so busy lately.
 - [ ] `You have no idea.`                   ([Casual] まじでそうなんだよ) `You have no idea` how tired I am after that trip.
 - [x] `That's what I think, too`            ([Casual] 私もそう思う) `That's what I think, too.` We need to act quickly.
-- [x] `Sounds good`                         ([Casual] いいね) Let’s start the meeting. `Sounds good.`
 - [ ] `Sounds like a plan`                  ([Casual] いいね／それで行こう) We’ll meet at noon. `Sounds like a plan.`
 - [x] `No doubt about it`                   ([Neutral] まったくその通りです) `No doubt about it,` this is the best solution.
 - [ ] `I grant you that`                    ([Formal] それはその通りです) Yeah, that’s true, `I grant you that.`

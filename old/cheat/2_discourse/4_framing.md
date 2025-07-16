@@ -10,7 +10,6 @@
 
 ## トピック
 - [x] `regarding O`                         ([Formal] Oに関して) `Regarding your proposal,` we’ll get back to you by Friday.
-- [x] `in terms of O`                       ([Neutral] Oの点で／Oに関して言えば) `In terms of sales,` we did better than last year.
 - [x] `as for O`                            ([Neutral] Oについて言えば) `As for the budget,` we’ll need to make some adjustments.
 - [x] `speaking of which/O`                 ([Casual] そういえば／それで思い出したけど) `Speaking of which,` did you hear back from Sarah yet?
 - [ ] `talking of O`                        ([Casual] Oと言えば) `Talking of movies,` have you seen the new Miyazaki film?
@@ -28,7 +27,6 @@
 ## 観点
 - [ ] `if you ask me`                       ([Casual] 私に言わせれば) `If you ask me, we should start the project sooner.`
 - [x] `from a one's standpoint`             ([Neutral] ～の立場からすると) `From a manager’s standpoint,` this is a good move.
-- [x] `from one's perspective`              ([Neutral] ～の視点からすると) `From my perspective,` the plan needs some adjustments.
 - [x] `from one's point of view`            ([Neutral] ～の視点から見れば) `From my point of view,` the decision makes sense.
 - [x] `from the perspective of O`           ([Neutral] Oの観点から見ると) `From the perspective of` the customer, this service is excellent.
 - [ ] `(More) broadly speaking`             ([Neutral] 広く言えば) `(More) broadly speaking,` this applies to many industries.
