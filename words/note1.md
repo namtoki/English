@@ -56,19 +56,6 @@
 - `truce` /truːs/                   ([Neutral] 休戦、停戦)          They called a temporary truce.
 - `armistice` /ˈɑːmɪstɪs/           ([Writing] 休戦協定)            The armistice ended the war.
 
-## 厳しい
-- `caustic` /ˈkɔːstɪk/              ([Writing] 辛辣な、腐食性の)    His caustic remarks hurt everyone.
-- `harsh` /hɑːʃ/                    ([Neutral] 厳しい、過酷な)      The teacher gave harsh criticism.
-  - `harshly` /ˈhɑːʃli/             ([Neutral] 厳しく)              He spoke harshly to the students.
-  - `harshness` /ˈhɑːʃnəs/          ([Neutral] 厳しさ、過酷さ)      The harshness of winter was unbearable.
-- `severe` /sɪˈvɪə/                 ([Formal] 深刻な、厳格な)       The patient has severe symptoms.
-  - `severity` /sɪˈverəti/          ([Formal] 深刻さ、厳しさ)       The severity of the storm surprised us.
-  - `severely` /sɪˈvɪəli/           ([Formal] 厳しく、激しく)       He was severely injured in the accident.
-- `strict` /strɪkt/                 ([Neutral] 厳格な)              My parents are very strict.
-  - `strictly` /ˈstrɪktli/          ([Neutral] 厳格に)              Smoking is strictly prohibited.
-  - `stricture` /ˈstrɪktʃə/         ([Writing] 制限、批判)          The new strictures on travel are unpopular.
-- `stern` /stɜːn/                   ([Neutral] 厳格な、厳しい)      She gave him a stern warning.
-
 ## 合計
 - `altogether` /ˌɔːltəˈɡeðə/        ([Neutral] 完全に、合計で)      Altogether, it was a successful event.
 - `total` /ˈtəʊtəl/                 ([Neutral] 合計、全体の)        The total cost was $50.
@@ -254,6 +241,17 @@
 - `enthusiastic` /ɪnˌθjuːziˈæstɪk/  ([Neutral] 熱狂的な)            He's enthusiastic about the project.
   - `enthusiasm` /ɪnˈθjuːziæzəm/    ([Neutral] 熱意)                Her enthusiasm is contagious.
   - `enthusiast` /ɪnˈθjuːziæst/     ([Neutral] 熱心な人)            He's a photography enthusiast.
+- `meticulous` /məˈtɪkjələs/        ([Writing] 細部にこだわる)      She's meticulous about her work.
+  - `meticulously` /məˈtɪkjələsli/  ([Writing] 細心に)              He meticulously checked every detail.
+  - `meticulousness` /məˈtɪkjələsnəs/ ([Writing] 細心さ)            Her meticulousness ensures quality.
+- `scrupulous` /ˈskruːpjələs/       ([Writing] 綿密な)              She's scrupulous about following rules.
+  - `scrupulously` /ˈskruːpjələsli/ ([Writing] 綿密に)              He scrupulously avoided any conflicts.
+  - `unscrupulous` /ʌnˈskruːpjələs/ ([Writing] 無節操な)            He's an unscrupulous businessman.
+- `conscientious` /ˌkɒnʃiˈenʃəs/    ([Formal] 良心的な)             She's a conscientious worker.
+  - `conscientiously` /ˌkɒnʃiˈenʃəsli/ ([Formal] 良心的に)          He conscientiously completed his duties.
+  - `conscience` /ˈkɒnʃəns/         ([Neutral] 良心)                His conscience bothered him.
+- `painstaking` /ˈpeɪnzˌteɪkɪŋ/     ([Writing] 骨の折れる)          The restoration was painstaking work.
+  - `painstakingly` /ˈpeɪnzˌteɪkɪŋli/ ([Writing] 骨を折って)        She painstakingly rebuilt the model.
 
 ## 変化を与える
 - `allay` /əˈleɪ/                   ([Writing] 和らげる、静める)    The medicine helped allay his pain.
@@ -302,6 +300,15 @@
   - `swindler` /ˈswɪndlər/          ([Neutral] 詐欺師)              The swindler was finally caught.
 - `con` /kɒn/                       ([Casual] だます、詐欺)         He conned them out of their money.
   - `con artist` /kɒn ˈɑːtɪst/      ([Casual] 詐欺師)               The con artist targeted elderly people.
+- `exonerate` /ɪɡˈzɒnəreɪt/         ([Writing] 無罪とする)          The new evidence exonerated him.
+  - `exoneration` /ɪɡˌzɒnəˈreɪʃən/  ([Writing] 無罪放免)            His exoneration came after 10 years.
+- `acquit` /əˈkwɪt/                 ([Writing] 無罪とする)          The jury acquitted the defendant.
+  - `acquittal` /əˈkwɪtəl/          ([Writing] 無罪判決)            The acquittal surprised everyone.
+- `vindicate` /ˈvɪndɪkeɪt/          ([Writing] 汚名を晴らす)        The investigation vindicated his claims.
+  - `vindication` /ˌvɪndɪˈkeɪʃən/   ([Writing] 汚名返上)            She felt vindication after the truth came out.
+- `pardon` /ˈpɑːdən/                ([Formal] 恩赦する)             The president pardoned the prisoner.
+- `absolve` /əbˈzɒlv/               ([Writing] 免罪する)            The priest absolved him of his sins.
+  - `absolution` /ˌæbsəˈluːʃən/     ([Writing] 免罪)                He sought absolution for his mistakes.
 
 ## 探求
 - `ransack` /ˈrænsæk/               ([Writing] あさり回る)          The thieves ransacked the house.
@@ -334,6 +341,18 @@
 - `pure` /pjʊə/                     ([Neutral] 純粋な、清らかな)    The mountain air is pure and fresh.
   - `purity` /ˈpjʊərəti/            ([Neutral] 純粋さ、純度)        The purity of the water is tested daily.
   - `purify` /ˈpjʊərɪfaɪ/           ([Neutral] 浄化する)            This filter purifies the water.
+- `entice` /ɪnˈtaɪs/                ([Neutral] 誘惑する)            The advertisement enticed customers to buy.
+  - `enticement` /ɪnˈtaɪsmənt/      ([Neutral] 誘惑、魅力)          The job offer had many enticements.
+  - `enticing` /ɪnˈtaɪsɪŋ/          ([Neutral] 魅力的な)            The cake looked very enticing.
+- `lure` /lʊə/                      ([Neutral] 誘惑する)            The bright colors lure insects to the flower.
+  - `luring` /ˈlʊərɪŋ/              ([Neutral] 誘惑する)            She was luring him into a trap.
+  - `allure` /əˈlʊə/                ([Writing] 魅惑する)            The city's allure drew many visitors.
+- `tempt` /tempt/                   ([Neutral] 誘惑する)            The dessert menu tempted her to order cake.
+  - `tempting` /ˈtemptɪŋ/           ([Neutral] 魅力的な)            That's a very tempting offer.
+  - `temptation` /tempˈteɪʃən/      ([Neutral] 誘惑)                He resisted the temptation to quit.
+  - `alluring` /əˈlʊərɪŋ/           ([Writing] 魅惑的な)            She had an alluring smile.
+- `seduce` /sɪˈdjuːs/               ([Formal] 誘惑する)             He tried to seduce her with expensive gifts.
+  - `seductive` /sɪˈdʌktɪv/         ([Formal] 誘惑的な)             Her voice was soft and seductive.
 
 ## ネガティブな評価
 - `frivolous` /ˈfrɪvələs/           ([Writing] つまらない、軽薄な)  The court dismissed the frivolous lawsuit.
@@ -343,6 +362,50 @@
 - `petty` /ˈpeti/                   ([Casual] 些細な、けちな)       Stop being so petty about small things.
 - `insignificant` /ˌɪnsɪɡˈnɪfɪkənt/ ([Formal] 取るに足らない)       The difference is insignificant.
   - `insignificance` /ˌɪnsɪɡˈnɪfɪkəns/ ([Formal] 重要でないこと)    The insignificance of the error was obvious.
+- `acrimony` /ˈækrɪməni/            ([Writing] 辛辣さ、激しさ)      The debate was full of acrimony.
+  - `acrimonious` /ˌækrɪˈməʊniəs/   ([Writing] 辛辣な、激しい)      Their acrimonious divorce lasted years.
+- `caustic` /ˈkɔːstɪk/              ([Writing] 辛辣な)              Her caustic remarks hurt everyone.
+  - `caustically` /ˈkɔːstɪkli/      ([Writing] 辛辣に)              He caustically criticized the proposal.
+- `scathing` /ˈskeɪðɪŋ/             ([Writing] 容赦のない)          The review was absolutely scathing.
+  - `scathingly` /ˈskeɪðɪŋli/       ([Writing] 容赦なく)            She scathingly dismissed his ideas.
+  - `unscathed` /ʌnˈskeɪðd/         ([Writing] 無傷の)              She emerged unscathed from the accident.
+- `animosity` /ˌænɪˈmɒsəti/         ([Formal] 敵意、悪意)           There's real animosity between them.
+- `rancor` /ˈræŋkər/                ([Writing] 憎しみ、怨恨)        He spoke without rancor or bitterness.
+  - `rancorous` /ˈræŋkərəs/         ([Writing] 怨恨に満ちた)        Their rancorous feud lasted decades.
+- `harsh` /hɑːʃ/                    ([Neutral] 厳しい、過酷な)      The teacher gave harsh criticism.
+  - `harshly` /ˈhɑːʃli/             ([Neutral] 厳しく)              He spoke harshly to the students.
+  - `harshness` /ˈhɑːʃnəs/          ([Neutral] 厳しさ、過酷さ)      The harshness of winter was unbearable.
+- `severe` /sɪˈvɪə/                 ([Formal] 深刻な、厳格な)       The patient has severe symptoms.
+  - `severity` /sɪˈverəti/          ([Formal] 深刻さ、厳しさ)       The severity of the storm surprised us.
+  - `severely` /sɪˈvɪəli/           ([Formal] 厳しく、激しく)       He was severely injured in the accident.
+- `strict` /strɪkt/                 ([Neutral] 厳格な)              My parents are very strict.
+  - `strictly` /ˈstrɪktli/          ([Neutral] 厳格に)              Smoking is strictly prohibited.
+  - `stricture` /ˈstrɪktʃə/         ([Writing] 制限、批判)          The new strictures on travel are unpopular.
+- `stern` /stɜːn/                   ([Neutral] 厳格な、厳しい)      She gave him a stern warning.
+- `propensity` /prəˈpensəti/         ([Writing] 性癖、傾向)          He has a propensity for risk-taking.
+- `tendency` /ˈtendənsi/             ([Neutral] 傾向、性向)          She has a tendency to worry too much.
+  - `tend` /tend/                    ([Neutral] しがちである)          She tends to worry about everything.
+- `inclination` /ˌɪnklɪˈneɪʃən/     ([Formal] 傾向、好み)           He shows no inclination to change.
+  - `inclined` /ɪnˈklaɪnd/           ([Neutral] 傾いた、〜しがち)    I'm inclined to agree with you.
+  - `incline` /ɪnˈklaɪn/             ([Neutral] 心が傾く)            The path inclines steeply upward.
+- `disposition` /ˌdɪspəˈzɪʃən/      ([Formal] 気質、傾向)           She has a cheerful disposition.
+  - `disposed` /dɪˈspəʊzd/           ([Formal] 〜する気がある)       He's well disposed toward the plan.
+- `predisposition` /ˌpriːdɪspəˈzɪʃən/ ([Writing] 傾向、素因)        He has a genetic predisposition to diabetes.
+- `penchant` /ˈpɒnʃɒn/              ([Writing] 強い好み)            She has a penchant for vintage clothes.
+- `alienate` /ˈeɪliəneɪt/           ([Formal] 疎外する、離反させる)  His rude behavior alienated his friends.
+  - `alienation` /ˌeɪliəˈneɪʃən/    ([Formal] 疎外、離反)            She felt a sense of alienation at work.
+- `isolate` /ˈaɪsəleɪt/             ([Neutral] 孤立させる)          The storm isolated the village from help.
+  - `isolated` /ˈaɪsəleɪtɪd/         ([Neutral] 孤立した)            He lived in an isolated cabin.
+  - `isolation` /ˌaɪsəˈleɪʃən/       ([Neutral] 孤立、分離)          The patient was kept in isolation.
+- `exclude` /ɪkˈskluːd/             ([Neutral] 排除する)            They excluded him from the meeting.
+  - `exclusion` /ɪkˈskluːʒən/        ([Formal] 排除、除外)           His exclusion from the team was unfair.
+  - `exclusive` /ɪkˈskluːsɪv/        ([Neutral] 排他的な)            This is an exclusive club.
+  - `exclusively` /ɪkˈskluːsɪvli/    ([Neutral] 排他的に)            This club is exclusively for members.
+- `reject` /rɪˈdʒekt/               ([Neutral] 拒絶する)            The committee rejected his proposal.
+  - `rejection` /rɪˈdʒekʃən/         ([Neutral] 拒絶)                She couldn't handle the rejection.
+- `shun` /ʃʌn/                      ([Formal] 避ける)               The community shunned the scandal.
+- `ostracize` /ˈɒstrəsaɪz/          ([Writing] 村八分にする)        He was ostracized by his colleagues.
+  - `ostracism` /ˈɒstrəsɪzəm/       ([Writing] 排斥、追放)          He suffered years of social ostracism.
 
 ## 明らかに
 - `blatant` /ˈbleɪtənt/             ([Neutral] 露骨な、見え透いた)  That was a blatant lie.
