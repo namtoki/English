@@ -18,3 +18,12 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `allusion` /əˈluːʒən/           ([Writing] ほのめかし)          The book contains many literary allusions.
 - `insinuate` /ɪnˈsɪnjueɪt/         ([Formal] ほのめかす)           What are you trying to insinuate?
   - `insinuation` /ɪnˌsɪnjuˈeɪʃən/  ([Formal] ほのめかし)           I don't appreciate your insinuations.
+- `clamor` /ˈklæmər/                ([Neutral] 騒音、喧騒)          The clamor of the crowd was deafening.
+  - `clamorous` /ˈklæmərəs/         ([Writing] 騒々しい)            The clamorous protest filled the streets.
+- `uproar` /ˈʌprɔːr/                ([Neutral] 大騒ぎ、騒動)        The announcement caused an uproar.
+  - `uproarious` /ʌpˈrɔːriəs/       ([Writing] 大騒ぎの、爆笑の)    The comedy show was uproarious.
+- `din` /dɪn/                       ([Neutral] 騒音、喧騒)          I couldn't hear over the din of traffic.
+- `commotion` /kəˈmoʊʃən/           ([Neutral] 騒動、混乱)          What's all this commotion about?
+- `tumult` /ˈtuːmʌlt/               ([Writing] 騒動、動乱)          The city was in tumult after the news.
+  - `tumultuous` /tuːˈmʌltʃuəs/     ([Writing] 騒々しい、激動の)    They had a tumultuous relationship.
+- `hubbub` /ˈhʌbʌb/                 ([Casual] 騒音、ざわめき)       The hubbub in the restaurant was overwhelming.

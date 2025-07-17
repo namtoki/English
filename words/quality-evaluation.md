@@ -6,8 +6,38 @@ This category contains words for judging quality, making assessments, and expres
 
 ## Positive Evaluation
 - `pristine` /prɪˈstiːn/            ([Writing] 手つかずの、新品同様) The beach was pristine and untouched.
+- `extol` /ɪkˈstoʊl/                ([Writing] 賞賛する、讃える)      Critics extol the director's latest film.
+  - `extolment` /ɪkˈstoʊlmənt/      ([Writing] 賞賛、讃美)           His extolment of the team was well-deserved.
+- `praise` /preɪz/                  ([Neutral] 称賛する、褒める)      She praised him for his hard work.
+  - `praiseworthy` /ˈpreɪzˌwɜːði/   ([Writing] 称賛に値する)          His praiseworthy efforts saved the company.
+- `commend` /kəˈmend/               ([Formal] 称賛する、推薦する)     The teacher commended her excellent performance.
+  - `commendable` /kəˈmendəbəl/     ([Writing] 称賛すべき)            Your commendable dedication is inspiring.
+  - `commendation` /ˌkɑːmənˈdeɪʃən/ ([Formal] 表彰、称賛)            He received a commendation for bravery.
+- `laud` /lɔːd/                     ([Writing] 賞賛する、称える)      Critics lauded the novel's innovative style.
+  - `laudable` /ˈlɔːdəbəl/          ([Writing] 称賛すべき)            Her laudable commitment impressed everyone.
+- `acclaim` /əˈkleɪm/               ([Writing] 絶賛する、称賛する)    The film received widespread critical acclaim.
+- `exalt` /ɪɡˈzɔːlt/               ([Writing] 称賛する、高める)      The poem exalts the beauty of nature.
+  - `exaltation` /ˌeɡzɔːlˈteɪʃən/  ([Writing] 称賛、高揚)            He felt a sense of exaltation after winning.
 - `immaculate` /ɪˈmækjələt/         ([Formal] 完璧な、汚れのない)   Her house is always immaculate.
 - `spotless` /ˈspɒtləs/             ([Neutral] 汚れ一つない)        The kitchen was spotless after cleaning.
+- `tenacious` /tɪˈneɪʃəs/           ([Formal] 粘り強い、執拗な)     She is tenacious in pursuing her goals.
+  - `tenacity` /tɪˈnæsəti/          ([Formal] 粘り強さ、執拗さ)     His tenacity helped him succeed.
+  - `tenaciously` /tɪˈneɪʃəsli/     ([Formal] 粘り強く、執拗に)     She worked tenaciously on the project.
+- `persistent` /pəˈsɪstənt/         ([Formal] 持続的な、粘り強い)   He was persistent in his efforts.
+  - `persist` /pəˈsɪst/             ([Formal] 持続する、固執する)   The problem will persist without action.
+  - `persistence` /pəˈsɪstəns/      ([Formal] 持続、粘り強さ)       Her persistence paid off eventually.
+- `determined` /dɪˈtɜːmɪnd/         ([Neutral] 決意した、断固とした) She is determined to succeed.
+  - `determine` /dɪˈtɜːmɪn/         ([Neutral] 決定する、決心する)   We need to determine the cause.
+  - `determination` /dɪˌtɜːmɪˈneɪʃən/ ([Neutral] 決意、決断力)     His determination was inspiring.
+- `relentless` /rɪˈlentləs/         ([Writing] 容赦ない、執拗な)    The rain was relentless all day.
+  - `relentlessly` /rɪˈlentləsli/   ([Writing] 容赦なく、執拗に)    He pursued his goal relentlessly.
+  - `relent` /rɪˈlent/               ([Writing] 弱まる、情けをかける)    The storm finally began to relent.
+- `steadfast` /ˈstedfəst/           ([Writing] 確固とした、忠実な)  She remained steadfast in her beliefs.
+  - `steadfastly` /ˈstedfəstli/     ([Writing] 確固として、忠実に)  He steadfastly refused to give up.
+  - `steadfastness` /ˈstedfəstnəs/  ([Writing] 確固とした態度)      Her steadfastness was admirable.
+- `resolute` /ˈrezəluːt/            ([Formal] 断固とした、毅然とした) The leader was resolute in his decision.
+  - `resolutely` /ˈrezəluːtli/      ([Formal] 断固として、毅然と)   She resolutely faced the challenge.
+  - `resolution` /ˌrezəˈluːʃən/     ([Formal] 決意、解決)           His resolution never wavered.
 - `impeccable` /ɪmˈpekəbl/          ([Formal] 非の打ち所がない)     His manners are impeccable.
 - `flawless` /ˈflɔːləs/             ([Neutral] 欠点のない、完璧な)  Her performance was flawless.
   - `flaw` /flɔː/                   ([Neutral] 欠点、欠陥)          There's a flaw in the design.
