@@ -35,8 +35,6 @@
 
 ## ASSUMPTION
 - [x] `Chances are (that)` S V              ([Casual] 80–90%：たぶん〜だろう) `Chances are` she forgot about the meeting.
-- [x] `It seems like` S V                   ([Neutral] 60–80%：見た感じ〜のようだ) `It seems like` it’s going to rain soon.
-- [x] `It looks like` S V                   ([Neutral] 60–80%：見た目や状況からすると〜のようだ) `It looks like` it’s going to rain.
 - [x] `I suppose (that)` S V                ([Neutral] 50–70%：〜だと思う／〜かもしれない) `I suppose that` could work, but we need a backup plan.
 - [x] `I feel like` S V                     ([Casual] 主観的推定：〜な気がする) `I feel like` this project is going to take longer than expected.
 - [x] `It seems as if/though` S V           ([Neutral] 印象的に〜のように見える) `It seems as if` he’s not interested in the proposal.
