@@ -1,12 +1,3 @@
-
-
-The current button maps to position 30 on the bottom bar, while the adjacent button maps to position 60.
-When the 30 button is active and we manually change the bar value from 30 to 60,
-shouldn't the UI update to reflect this by showing the 60 button in the selected gray state?
-
-
----
-
 # TODAY
 
 ## 実績 (Track record)
@@ -19,12 +10,12 @@ shouldn't the UI update to reflect this by showing the 60 button in the selected
 
 >   However, I'm feeling a bit uncertain about whether Voice Clarity is actually feasible,
 
-> so I'm thinking we should start following up on this.
+> so I've just started following up on this.
 
-## 段取りする (set up to do)
+## 段取りする (set things up)
 > Specifically,
-> We're `set`ting things `up to` pass along some Airoha documentation to Mimi
-> so they can check whether they have all the necessary technical components and report back to us.
+> We're `setting things up` to pass along some Airoha documentation to Mimi
+> so they can check whether Airoha SDK has all the necessary technical components and report back to us.
 
 >   At the same time,
 >   we're going to deepen our understanding of Airoha's Audio Processing flow and source code architecture on our end,
@@ -75,3 +66,7 @@ shouldn't the UI update to reflect this by showing the 60 button in the selected
 > but software-wise, I think we need to actually play around with the real hardware
 > and observe how each variable changes during sealing checks when we attach various sized tips.
 > `At this point in our understanding,` we'll be assessing feasibility in the development phases after BCR.
+
+The current button maps to position 30 on the bottom bar, while the adjacent button maps to position 60.
+When the 30 button is active and we manually change the bar value from 30 to 60,
+shouldn't the UI update to reflect this by showing the 60 button in the selected gray state?
