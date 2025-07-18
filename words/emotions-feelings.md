@@ -26,3 +26,44 @@ This category contains words expressing emotional states, moods, and psychologic
   - `conscience` /ˈkɒnʃəns/         ([Neutral] 良心)                His conscience bothered him.
 - `painstaking` /ˈpeɪnzˌteɪkɪŋ/     ([Writing] 骨の折れる)          The restoration was painstaking work.
   - `painstakingly` /ˈpeɪnzˌteɪkɪŋli/ ([Writing] 骨を折って)        She painstakingly rebuilt the model.
+- `aversion` /əˈvɜːrʒən/            ([Formal] 嫌悪、反感)           She has an aversion to spiders.
+  - `averse` /əˈvɜːrs/              ([Formal] 嫌がる、反対で)       I'm not averse to trying new things.
+  - `aversive` /əˈvɜːrsɪv/          ([Writing] 嫌悪を起こす)        The aversive stimulus made him flinch.
+- `repulsion` /rɪˈpʌlʃən/           ([Formal] 嫌悪、反発)           He felt repulsion at the sight.
+  - `repulsive` /rɪˈpʌlsɪv/         ([Neutral] 不快な、嫌な)        The smell was repulsive.
+  - `repulse` /rɪˈpʌls/             ([Formal] 撃退する、嫌悪させる) The army repulsed the attack.
+  - `repulsed` /rɪˈpʌlst/           ([Neutral] 嫌悪感を抱いた)      She was repulsed by his behavior.
+- `disgust` /dɪsˈɡʌst/              ([Neutral] 嫌悪、むかつき)      He looked at it with disgust.
+  - `disgusting` /dɪsˈɡʌstɪŋ/       ([Casual] 気持ち悪い)           That's disgusting!
+  - `disgusted` /dɪsˈɡʌstɪd/        ([Neutral] うんざりした)        I'm disgusted with this situation.
+- `loathe` /loʊð/                   ([Formal] ひどく嫌う)           I loathe doing paperwork.
+  - `loathing` /ˈloʊðɪŋ/            ([Formal] 嫌悪、憎悪)           She felt loathing for her enemy.
+  - `loathsome` /ˈloʊðsəm/          ([Writing] 忌まわしい)          His loathsome behavior shocked everyone.
+- `abhor` /əbˈhɔːr/                 ([Writing] 忌み嫌う)            I abhor violence in any form.
+  - `abhorrent` /əbˈhɔːrənt/        ([Writing] 忌まわしい)          Such behavior is abhorrent to me.
+  - `abhorrence` /əbˈhɔːrəns/       ([Writing] 嫌悪、憎悪)          She has an abhorrence of lies.
+- `detest` /dɪˈtest/                ([Formal] ひどく嫌う)           I detest being late.
+  - `detestable` /dɪˈtestəbl/       ([Writing] 憎むべき)            His detestable actions hurt many.
+  - `detestation` /ˌdiːteˈsteɪʃən/  ([Writing] 憎悪、嫌悪)          He held them in detestation.
+- `petrify` /ˈpetrɪfaɪ/             ([Neutral] 石化する、恐怖で固まる)     The scary movie petrified the children.
+  - `petrified` /ˈpetrɪfaɪd/        ([Neutral] 石化した、恐怖で固まった)   I was petrified when I saw the snake.
+  - `petrification` /ˌpetrɪfɪˈkeɪʃən/ ([Writing] 石化、化石化)           The petrification process takes millions of years.
+  - `petrifying` /ˈpetrɪfaɪɪŋ/      ([Neutral] 恐ろしい、ぞっとする)      It was a petrifying experience.
+- `terrify` /ˈterɪfaɪ/              ([Neutral] 恐怖に陥れる)              The loud thunder terrified the dog.
+  - `terrified` /ˈterɪfaɪd/         ([Neutral] 恐怖に陥った)              She was terrified of spiders.
+  - `terrifying` /ˈterɪfaɪɪŋ/       ([Neutral] 恐ろしい)                  That was a terrifying nightmare.
+  - `terror` /ˈterər/                ([Neutral] 恐怖、テロ)                They fled in terror.
+  - `terrific` /təˈrɪfɪk/           ([Casual] 素晴らしい)                That's a terrific idea!
+  - `terrorism` /ˈterərɪzəm/        ([Neutral] テロリズム)               Terrorism threatens global security.
+  - `terrorist` /ˈterərɪst/          ([Neutral] テロリスト)               The terrorist was arrested.
+- `horrify` /ˈhɔːrɪfaɪ/              ([Neutral] ぞっとさせる)              The accident horrified everyone.
+  - `horrified` /ˈhɔːrɪfaɪd/        ([Neutral] ぞっとした)                I was horrified by the news.
+  - `horrifying` /ˈhɔːrɪfaɪɪŋ/      ([Neutral] 身の毛もよだつ)            The crime scene was horrifying.
+  - `horror` /ˈhɔːrər/               ([Neutral] 恐怖、ホラー)              She screamed in horror.
+  - `horrendous` /hɔːˈrendəs/       ([Formal] ひどく恐ろしい)            The accident was horrendous.
+  - `horrid` /ˈhɔːrɪd/              ([Casual] ひどく不快な)              What a horrid smell!
+  - `horrible` /ˈhɔːrəbl/           ([Neutral] 恐ろしい、ひどい)         That was a horrible mistake.
+- `freeze` /friːz/                    ([Neutral] 凍る、固まる)              I froze when I heard the noise.
+  - `frozen` /ˈfroʊzən/             ([Neutral] 凍った、固まった)          He stood frozen with fear.
+  - `freezing` /ˈfriːzɪŋ/           ([Neutral] 凍るような)                It's freezing outside today.
+  - `freezer` /ˈfriːzər/             ([Neutral] 冷凍庫)                    Put the ice cream in the freezer.

@@ -107,3 +107,22 @@ This category contains words for judging quality, making assessments, and expres
   - `brazenly` /ˈbreɪzənli/         ([Writing] 厚かましく)          She brazenly lied to everyone.
 - `patent` /ˈpeɪtənt/               ([Writing] 明白な、明らかな)    That's a patent lie.
   - `patently` /ˈpeɪtəntli/         ([Writing] 明白に)              The claim is patently false.
+- `salient` /ˈseɪliənt/             ([Writing] 顕著な、目立つ)      The salient features were highlighted.
+  - `salience` /ˈseɪliəns/          ([Writing] 顕著性、重要性)      The salience of the issue is clear.
+  - `saliently` /ˈseɪliəntli/       ([Writing] 顕著に)              The point was saliently made.
+- `prominent` /ˈprɑːmɪnənt/         ([Neutral] 卓越した、著名な)    She's a prominent scientist.
+  - `prominence` /ˈprɑːmɪnəns/      ([Neutral] 卓越、名声)          He rose to prominence quickly.
+  - `prominently` /ˈprɑːmɪnəntli/   ([Neutral] 目立って)            The sign was prominently displayed.
+- `notable` /ˈnoʊtəbl/              ([Neutral] 注目すべき)          There was a notable improvement.
+  - `notably` /ˈnoʊtəbli/           ([Neutral] 特に、著しく)        She was notably absent from the meeting.
+  - `notability` /ˌnoʊtəˈbɪləti/    ([Writing] 著名、注目度)        His notability grew after the discovery.
+- `remarkable` /rɪˈmɑːrkəbl/        ([Neutral] 注目すべき、顕著な)  She made remarkable progress.
+  - `remarkably` /rɪˈmɑːrkəbli/     ([Neutral] 著しく)              He was remarkably calm during the crisis.
+  - `unremarkable` /ˌʌnrɪˈmɑːrkəbl/ ([Neutral] 平凡な)              The results were unremarkable.
+- `striking` /ˈstraɪkɪŋ/            ([Neutral] 印象的な、顕著な)    The resemblance is striking.
+  - `strikingly` /ˈstraɪkɪŋli/      ([Neutral] 印象的に)            She's strikingly beautiful.
+  - `strike` /straɪk/                ([Neutral] 打つ、印象づける)    Her words struck me deeply.
+  - `striker` /ˈstraɪkər/            ([Neutral] ストライカー)        The striker scored two goals.
+- `pronounced` /prəˈnaʊnst/         ([Formal] 顕著な、明確な)       There's a pronounced difference.
+  - `pronouncedly` /prəˈnaʊnsɪdli/  ([Formal] 顕著に)               The effect was pronouncedly visible.
+  - `pronounce` /prəˈnaʊns/          ([Neutral] 発音する、宣言する)  How do you pronounce this word?

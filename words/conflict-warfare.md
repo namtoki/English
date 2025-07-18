@@ -37,3 +37,22 @@ This category contains military terms, conflict situations, and combat-related v
 - `ceasefire` /ˈsiːsfaɪə/           ([Formal] 停戦)                 Both sides agreed to a ceasefire.
 - `truce` /truːs/                   ([Neutral] 休戦、停戦)          They called a temporary truce.
 - `armistice` /ˈɑːmɪstɪs/           ([Writing] 休戦協定)            The armistice ended the war.
+- `mayhem` /ˈmeɪhem/                ([Neutral] 大混乱、騒乱)        The storm caused mayhem in the city.
+- `chaos` /ˈkeɪɒs/                  ([Neutral] 混沌、大混乱)        The announcement caused chaos.
+  - `chaotic` /keɪˈɒtɪk/            ([Neutral] 混沌とした)          The situation was chaotic.
+  - `chaotically` /keɪˈɒtɪkli/      ([Neutral] 混乱して)            People ran chaotically in all directions.
+- `turmoil` /ˈtɜːrmɔɪl/             ([Formal] 混乱、騒動)           The country is in political turmoil.
+- `pandemonium` /ˌpændɪˈmoʊniəm/    ([Writing] 大混乱、修羅場)      Pandemonium broke out in the stadium.
+- `pandemic` /pænˈdemɪk/            ([Neutral] 世界的流行病)        The pandemic affected millions worldwide.
+  - `pandemia` /pænˈdiːmiə/         ([Writing] 大流行、汎流行)      The pandemia spread rapidly.
+- `havoc` /ˈhævək/                  ([Neutral] 大混乱、破壊)        The hurricane wreaked havoc on the coast.
+- `disorder` /dɪsˈɔːrdər/           ([Neutral] 無秩序、混乱)        The protest descended into disorder.
+  - `disordered` /dɪsˈɔːrdərd/      ([Neutral] 乱れた、混乱した)    His thoughts were disordered.
+  - `disorderly` /dɪsˈɔːrdərli/     ([Formal] 無秩序な、乱暴な)     They were arrested for disorderly conduct.
+- `tumult` /ˈtuːmʌlt/               ([Writing] 騒動、動乱)          The speech caused a tumult.
+  - `tumultuous` /tuːˈmʌltʃuəs/     ([Writing] 騒々しい、激動の)    They received a tumultuous welcome.
+- `commotion` /kəˈmoʊʃən/           ([Neutral] 騒動、騒ぎ)          There was a commotion outside.
+- `bedlam` /ˈbedləm/                ([Casual] 大混乱、騒乱)         The classroom was absolute bedlam.
+- `anarchy` /ˈænərki/               ([Formal] 無政府状態、無秩序)   The country descended into anarchy.
+  - `anarchic` /əˈnɑːrkɪk/          ([Formal] 無政府主義的な)       The situation became anarchic.
+  - `anarchist` /ˈænərkɪst/         ([Formal] 無政府主義者)         The anarchist was arrested.

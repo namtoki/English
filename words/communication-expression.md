@@ -27,3 +27,20 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - `tumult` /ˈtuːmʌlt/               ([Writing] 騒動、動乱)          The city was in tumult after the news.
   - `tumultuous` /tuːˈmʌltʃuəs/     ([Writing] 騒々しい、激動の)    They had a tumultuous relationship.
 - `hubbub` /ˈhʌbʌb/                 ([Casual] 騒音、ざわめき)       The hubbub in the restaurant was overwhelming.
+- `invoke` /ɪnˈvoʊk/                ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
+  - `invocation` /ˌɪnvəˈkeɪʃən/     ([Writing] 発動、呼び出し)      The invocation of emergency powers was controversial.
+  - `invocative` /ɪnˈvoʊkətɪv/      ([Writing] 呼び起こす)          The poem has an invocative quality.
+- `summon` /ˈsʌmən/                 ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
+  - `summons` /ˈsʌmənz/             ([Writing] 召喚状、呼び出し)    He received a summons to appear in court.
+- `evoke` /ɪˈvoʊk/                  ([Writing] 呼び起こす、想起させる) The music evoked memories of childhood.
+  - `evocation` /ˌevəˈkeɪʃən/       ([Writing] 想起、呼び起こし)    The evocation of past times was moving.
+  - `evocative` /ɪˈvoʊkətɪv/        ([Writing] 想起させる)          The photo is evocative of old times.
+- `conjure` /ˈkʌndʒər/              ([Writing] 呼び起こす、想像する)He conjured images of ancient times.
+  - `conjuration` /ˌkʌndʒəˈreɪʃən/  ([Writing] 呪文、魔術)          The magician's conjuration amazed everyone.
+- `appeal` /əˈpiːl/                 ([Neutral] 訴える、懇願する)    They appealed for help.
+  - `appealing` /əˈpiːlɪŋ/          ([Neutral] 魅力的な、訴える)    The idea sounds appealing.
+- `petition` /pəˈtɪʃən/             ([Formal] 請願する、嘆願する)   Citizens petitioned the government.
+  - `petitioner` /pəˈtɪʃənər/       ([Writing] 請願者、申立人)      The petitioner presented their case.
+- `solicit` /səˈlɪsɪt/              ([Formal] 求める、勧誘する)     He solicited donations for charity.
+  - `solicitation` /səˌlɪsɪˈteɪʃən/ ([Writing] 勧誘、懇願)          The solicitation of funds was successful.
+  - `solicitor` /səˈlɪsɪtər/        ([Formal] 事務弁護士、勧誘者)   The solicitor handled the legal matter.

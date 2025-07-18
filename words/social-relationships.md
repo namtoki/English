@@ -124,5 +124,47 @@ This category contains words about family, friends, social interactions, and hum
   - `devote` /dɪˈvəʊt/              ([Neutral] ささげる、充てる)    He devotes his time to charity work.
   - `devotee` /ˌdevəˈtiː/           ([Writing] 心酔者、献身する人)  She's a devotee of classical music.
 - `ardent` /ˈɑːdənt/                ([Writing] 熱烈な、情熱的な)    He's an ardent supporter of the team.
+- `gregarious` /ɡrɪˈɡeəriəs/        ([Formal] 社交的な)             She's very gregarious and loves parties.
+  - `gregariously` /ɡrɪˈɡeəriəsli/  ([Formal] 社交的に)             He gregariously mingled with everyone.
+  - `gregariousness` /ɡrɪˈɡeəriəsnəs/ ([Formal] 社交性)             Her gregariousness makes her popular.
+- `sociable` /ˈsoʊʃəbl/             ([Neutral] 社交的な)            He's sociable and makes friends easily.
+  - `sociability` /ˌsoʊʃəˈbɪləti/   ([Neutral] 社交性)              Her sociability helps in networking.
+  - `sociably` /ˈsoʊʃəbli/          ([Neutral] 社交的に)            They chatted sociably over coffee.
+  - `social` /ˈsoʊʃəl/               ([Neutral] 社会的な)            We need better social policies.
+  - `socialize` /ˈsoʊʃəlaɪz/        ([Neutral] 交際する)            I like to socialize with colleagues.
+- `outgoing` /ˈaʊtɡoʊɪŋ/            ([Neutral] 外向的な)            She's outgoing and loves meeting people.
+- `extroverted` /ˈekstrəvɜːrtɪd/    ([Neutral] 外向的な)            He's very extroverted and energetic.
+  - `extrovert` /ˈekstrəvɜːrt/       ([Neutral] 外向的な人)          She's a natural extrovert.
+  - `extroversion` /ˌekstrəˈvɜːrʒən/ ([Formal] 外向性)               His extroversion helps in sales.
+- `convivial` /kənˈvɪviəl/          ([Writing] 陽気な、社交的な)    The convivial atmosphere made everyone relax.
+  - `conviviality` /kənˌvɪviˈæləti/ ([Writing] 陽気さ、歓楽)        The party had an air of conviviality.
+- `affable` /ˈæfəbl/                ([Formal] 愛想の良い)           The affable host welcomed everyone warmly.
+  - `affability` /ˌæfəˈbɪləti/      ([Formal] 愛想の良さ)           His affability won him many friends.
+  - `affably` /ˈæfəbli/             ([Formal] 愛想よく)             She greeted us affably at the door.
+- `amiable` /ˈeɪmiəbl/              ([Formal] 親しみやすい)         She has an amiable personality.
+  - `amiability` /ˌeɪmiəˈbɪləti/    ([Formal] 親しみやすさ)         His amiability made him popular.
+  - `amiably` /ˈeɪmiəbli/           ([Formal] 親しみやすく)         They chatted amiably for hours.
+- `uncouth` /ʌnˈkuːθ/               ([Formal] 無作法な、粗野な)     His uncouth behavior shocked everyone.
+  - `uncouthly` /ʌnˈkuːθli/         ([Formal] 無作法に)             He uncouthly interrupted the speech.
+  - `uncouthness` /ʌnˈkuːθnəs/      ([Formal] 無作法、粗野)         His uncouthness made him unpopular.
+- `crude` /kruːd/                   ([Neutral] 粗野な、下品な)      His crude jokes offended everyone.
+  - `crudely` /ˈkruːdli/            ([Neutral] 粗野に)              He crudely expressed his opinion.
+  - `crudeness` /ˈkruːdnəs/         ([Neutral] 粗野、下品)          The crudeness of his language was shocking.
+  - `crudity` /ˈkruːdəti/           ([Writing] 粗野、未熟)          The crudity of the design was obvious.
+- `vulgar` /ˈvʌlɡər/                ([Formal] 下品な、俗悪な)       His vulgar language was inappropriate.
+  - `vulgarity` /vʌlˈɡærəti/        ([Formal] 下品、俗悪)           Such vulgarity has no place here.
+  - `vulgarize` /ˈvʌlɡəraɪz/        ([Writing] 俗化する)            Don't vulgarize the conversation.
+  - `vulgarly` /ˈvʌlɡərli/          ([Formal] 下品に)               He spoke vulgarly at the dinner.
+- `coarse` /kɔːrs/                  ([Neutral] 粗野な、粗い)        His coarse manners upset the guests.
+  - `coarsely` /ˈkɔːrsli/           ([Neutral] 粗野に)              She laughed coarsely at the joke.
+  - `coarseness` /ˈkɔːrsnəs/        ([Neutral] 粗野、粗さ)          His coarseness was evident.
+  - `coarsen` /ˈkɔːrsən/            ([Neutral] 粗野にする)          Years of hardship coarsened him.
+- `boorish` /ˈbʊrɪʃ/                ([Writing] 無骨な、田舎者の)    His boorish behavior embarrassed us.
+  - `boor` /bʊr/                    ([Writing] 無骨者、田舎者)      He's such a boor at parties.
+  - `boorishly` /ˈbʊrɪʃli/          ([Writing] 無骨に)              He boorishly ignored social cues.
+  - `boorishness` /ˈbʊrɪʃnəs/       ([Writing] 無骨、粗野)          His boorishness alienated everyone.
+- `crass` /kræs/                    ([Formal] 無神経な、粗野な)     That was a crass thing to say.
+  - `crassly` /ˈkræsli/             ([Formal] 無神経に)             He crassly mentioned her weight.
+  - `crassness` /ˈkræsnəs/          ([Formal] 無神経、粗野)         The crassness of his comment hurt her.
 
 <!-- Add vocabulary entries here using the format from format.md -->
