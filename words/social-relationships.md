@@ -7,8 +7,6 @@ This category contains words about family, friends, social interactions, and hum
 ## Comfort and Reconciliation
 
 - `allay` /əˈleɪ/                   ([Writing] 和らげる、静める)    The medicine helped allay his pain.
-- `comfort` /ˈkʌmfət/               ([Neutral] 慰める、慰め)        She tried to comfort the crying child.
-  - `comfortable` /ˈkʌmftəbəl/      ([Neutral] 快適な)              This chair is very comfortable.
 - `ease` /iːz/                      ([Neutral] 和らげる、楽にする)  The medicine will ease the pain.
   - `easy` /ˈiːzi/                  ([Neutral] 簡単な)              This test is easy for me.
   - `easily` /ˈiːzəli/              ([Neutral] 簡単に)              He easily solved the problem.
@@ -89,12 +87,8 @@ This category contains words about family, friends, social interactions, and hum
 ## Sanctuary and Refuge
 
 - `asylum` /əˈsaɪləm/               ([Neutral] 保護施設、亡命)      They sought asylum in the embassy.
-- `refuge` /ˈrefjuːdʒ/              ([Neutral] 避難所、逃げ場)      The cabin was our refuge from the storm.
-  - `refugee` /ˌrefjuˈdʒiː/         ([Neutral] 難民)                Many refugees fled the war.
-- `sanctuary` /ˈsæŋktʃueri/         ([Formal] 聖域、保護区)         The church offered sanctuary to the fugitives.
 - `shelter` /ˈʃeltər/               ([Neutral] 避難所、保護)        We found shelter from the rain.
   - `sheltered` /ˈʃeltərd/          ([Neutral] 保護された)          She lived a sheltered life.
-- `haven` /ˈheɪvən/                 ([Writing] 安息地、避難所)      The library was his haven from the busy world.
 - `harbor` /ˈhɑːrbər/               ([Neutral] 港、かくまう)        The country harbored political dissidents.
   - `harborage` /ˈhɑːrbərɪdʒ/       ([Writing] 避難所、隠れ場)      The cave provided harborage from the storm.
 

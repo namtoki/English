@@ -9,9 +9,7 @@ This category contains words related to granting permission, authorization, and 
   - `allowance` /əˈlaʊəns/          ([Neutral] 小遣い、手当)        My parents give me a weekly allowance.
 - `permit` /pəˈmɪt/                 ([Formal] 許可する)             Smoking is not permitted here.
   - `permission` /pəˈmɪʃən/         ([Neutral] 許可)                You need permission to enter this building.
-- `approve` /əˈpruːv/               ([Formal] 承認する)             The manager approved my vacation plan.
-  - `approval` /əˈpruːvəl/          ([Formal] 承認)                 The plan has been given official approval.
-  - `disapprove` /ˌdɪsəˈpruːv/      ([Formal] 不承認する)           I disapprove of your decision.
+- `disapprove` /ˌdɪsəˈpruːv/      ([Formal] 不承認する)           I disapprove of your decision.
   - `disapproval` /ˌdɪsəˈpruːvəl/   ([Formal] 不承認)               She showed her disapproval by shaking her head.
 - `authorize` /ˈɔːθəraɪz/           ([Formal] 権限を与える)         Only authorized personnel can enter this area.
   - `author` /ˈɔːθə/                ([Neutral] 著者)                He is the author of this book.

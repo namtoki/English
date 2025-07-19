@@ -49,9 +49,6 @@ This category contains military terms, conflict situations, and combat-related v
 - `disorder` /dɪsˈɔːrdər/           ([Neutral] 無秩序、混乱)        The protest descended into disorder.
   - `disordered` /dɪsˈɔːrdərd/      ([Neutral] 乱れた、混乱した)    His thoughts were disordered.
   - `disorderly` /dɪsˈɔːrdərli/     ([Formal] 無秩序な、乱暴な)     They were arrested for disorderly conduct.
-- `tumult` /ˈtuːmʌlt/               ([Writing] 騒動、動乱)          The speech caused a tumult.
-  - `tumultuous` /tuːˈmʌltʃuəs/     ([Writing] 騒々しい、激動の)    They received a tumultuous welcome.
-- `commotion` /kəˈmoʊʃən/           ([Neutral] 騒動、騒ぎ)          There was a commotion outside.
 - `bedlam` /ˈbedləm/                ([Casual] 大混乱、騒乱)         The classroom was absolute bedlam.
 - `anarchy` /ˈænərki/               ([Formal] 無政府状態、無秩序)   The country descended into anarchy.
   - `anarchic` /əˈnɑːrkɪk/          ([Formal] 無政府主義的な)       The situation became anarchic.

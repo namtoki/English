@@ -6,16 +6,6 @@ This category contains words for judging quality, making assessments, and expres
 
 ## Positive Evaluation
 - `pristine` /prɪˈstiːn/            ([Writing] 手つかずの、新品同様) The beach was pristine and untouched.
-- `extol` /ɪkˈstoʊl/                ([Writing] 賞賛する、讃える)      Critics extol the director's latest film.
-  - `extolment` /ɪkˈstoʊlmənt/      ([Writing] 賞賛、讃美)           His extolment of the team was well-deserved.
-- `praise` /preɪz/                  ([Neutral] 称賛する、褒める)      She praised him for his hard work.
-  - `praiseworthy` /ˈpreɪzˌwɜːði/   ([Writing] 称賛に値する)          His praiseworthy efforts saved the company.
-- `commend` /kəˈmend/               ([Formal] 称賛する、推薦する)     The teacher commended her excellent performance.
-  - `commendable` /kəˈmendəbəl/     ([Writing] 称賛すべき)            Your commendable dedication is inspiring.
-  - `commendation` /ˌkɑːmənˈdeɪʃən/ ([Formal] 表彰、称賛)            He received a commendation for bravery.
-- `laud` /lɔːd/                     ([Writing] 賞賛する、称える)      Critics lauded the novel's innovative style.
-  - `laudable` /ˈlɔːdəbəl/          ([Writing] 称賛すべき)            Her laudable commitment impressed everyone.
-- `acclaim` /əˈkleɪm/               ([Writing] 絶賛する、称賛する)    The film received widespread critical acclaim.
 - `exalt` /ɪɡˈzɔːlt/               ([Writing] 称賛する、高める)      The poem exalts the beauty of nature.
   - `exaltation` /ˌeɡzɔːlˈteɪʃən/  ([Writing] 称賛、高揚)            He felt a sense of exaltation after winning.
 - `immaculate` /ɪˈmækjələt/         ([Formal] 完璧な、汚れのない)   Her house is always immaculate.
