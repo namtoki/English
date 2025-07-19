@@ -1,4 +1,8 @@
 crass
+ardor
+vehement
+instigate
+precipitant
 frivolous
 uproar
 immaculate
