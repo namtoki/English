@@ -19,12 +19,26 @@ This category contains words about clothes, fashion, and physical appearance.
   - `ensemble` /ɒnˈsɒmbl/           ([Formal] 一揃いの服装)         Her ensemble was perfectly coordinated.
   - `gear` /ɡɪər/                   ([Casual] [スポーツ] 装備、服装)  Don't forget your hiking gear.
   - `costume` /ˈkɒstjuːm/           ([Neutral] [特定用途] 衣装、仮装) She wore a traditional costume.
+- `wear` /weər/                     ([Neutral] 着用、磨耗)          The shoes show signs of wear.
+- `wearer` /ˈweərər/                ([Neutral] 着用者)              The wearer of this hat is stylish.
 
 #### Verb
+- ✅ `put on` /pʊt ɒn/              ([Neutral] 着る、身に着ける)    Please put on your jacket.
+  - `wear` /weər/                   ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
+  - `slip on` /slɪp ɒn/             ([Casual] さっと着る)           I'll just slip on a sweater.
+  - `dress up` /dres ʌp/            ([Casual] おしゃれする)         She loves to dress up for parties.
+  - `throw on` /θrəʊ ɒn/            ([Casual] 急いで着る)           I threw on my jacket and left.
 - `clothe` /kləʊð/                  ([Formal] 服を着せる)           They clothed the children warmly.
-- `undress` /ʌnˈdres/               ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
+- `try on` /traɪ ɒn/                ([Neutral] 試着する)            I want to try on this shirt.
+- `take off` /teɪk ɒf/              ([Neutral] 脱ぐ)                Take off your shoes at the door.
+  - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
+- `have on` /hæv ɒn/                ([Neutral] 着ている)            What do you have on today?
+  - `don` /dɒn/                     ([Formal] 身に着ける)           He donned his formal attire.
+  - `sport` /spɔːt/                 ([Casual] 身に着けて見せる)     She was sporting a new haircut.
 
 #### Adjective
 - `dressed` /drest/                 ([Neutral] 服を着た)            She was dressed in black.
+- `wearable` /ˈweərəbl/             ([Neutral] 着用可能な)          This fabric is soft and wearable.
+- `worn` /wɔːn/                     ([Neutral] 着古した、使い古した) His jeans looked worn and faded.
 
 ### Appearance

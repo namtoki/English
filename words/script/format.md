@@ -28,14 +28,6 @@
   - format: 口語でよく用いられる際の例文を一つ書いてください。casualty が Writing の場合は文章でよく用いられる例文で良いです。
   - position: 行左端から数えて 60 文字目にしてください。) から例文までの間はスペースで埋めてください。
 
-## 補足 2
-
-`word` の他の品詞 (例えば、difficult なら difficulty など) があれば、一段インデントしてから同じフォーマットで自動でリストするようにしてください。
-
 ## 例
 
 - `hard` /hɑːd/                     ([Neutral] 努力を要する難しさ)  The test was hard.
-  - `harden` /`hɑːdən/              ([Neutral] 硬くなる、硬くする)  The clay will harden in the sun.
-  - `hardship` /`hɑːdʃɪp/           ([Writing] 苦難、困難)          They faced many hardships during the war.
-  - `hardworking` /`hɑːdˌwɜːkɪŋ/    ([Neutral] 勤勉な)              He is a hardworking student.
-  - `hardy` /`hɑːdi/                ([Writing] 頑丈な、耐寒性の)    This is a very hardy plant.
