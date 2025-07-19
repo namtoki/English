@@ -103,3 +103,6 @@ This category contains words expressing emotional states, moods, and psychologic
   - `tenderly` /ˈtendərli/           ([Neutral] 優しく、親切に)           She tenderly cared for the injured bird.
   - `tenderness` /ˈtendərnəs/        ([Neutral] 優しさ、愛情)             His eyes showed great tenderness.
 - `balm` /bɑːm/                      ([Writing] 香油、慰め)               Her words were a balm to his soul.
+
+
+- `rewarding` /rɪˈwɔːdɪŋ/           ([Neutral] やりがいのある)      Teaching can be very rewarding.

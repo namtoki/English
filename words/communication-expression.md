@@ -112,8 +112,6 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `admire` /ədˈmaɪər/              ([Neutral] 賞賛する、感嘆)   I admire your dedication to the cause.
   - `admirable` /ˈædmərəbəl/         ([Neutral] 賞賛すべき)       Her admirable patience impressed everyone.
   - `admirer` /ədˈmaɪərər/            ([Neutral] 崇拝者、ファン)   She has many admirers of her work.
-- `approval` /əˈpruːvəl/             ([Formal] 承認、賛成)        The plan received unanimous approval.
-  - `approve` /əˈpruːv/              ([Neutral] 承認する、賛成)   The committee approved the new policy.
 - `endorsement` /ɪnˈdɔːrsmənt/       ([Formal] 支持、裏書)        The celebrity's endorsement boosted sales.
   - `endorse` /ɪnˈdɔːrs/             ([Formal] 支持する、裏書)    The senator endorsed the legislation.
 - `award` /əˈwɔːrd/                  ([Neutral] 賞、賞品)         She won the award for best actress.

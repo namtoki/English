@@ -4,10 +4,13 @@ This category contains words describing physical qualities, materials, and struc
 
 ## Words
 
-- `flimsy` /ˈflɪmzi/                ([Neutral] 薄っぺらな)          The excuse was flimsy and unconvincing.
+### Quality
 - `sturdy` /ˈstɜːdi/                ([Neutral] 頑丈な)              This is a sturdy wooden table.
+- `flimsy` /ˈflɪmzi/                ([Neutral] 薄っぺらな)          The excuse was flimsy and unconvincing.
 - `fragile` /ˈfrædʒaɪl/             ([Neutral] 壊れやすい)          Handle the package carefully, it's fragile.
   - `fragility` /frəˈdʒɪləti/       ([Writing] 脆弱性)              The fragility of the ecosystem is concerning.
+
+### Structural Features
 - `solid` /ˈsɒlɪd/                  ([Neutral] 固体の、しっかりした)This desk is made of solid wood.
   - `solidarity` /ˌsɒlɪˈdærəti/     ([Writing] 団結、連帯)          The workers showed solidarity during the strike.
   - `solidly` /ˈsɒlɪdli/            ([Neutral] 強固に、確実に)      The foundation was solidly built.

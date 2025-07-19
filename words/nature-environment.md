@@ -4,4 +4,5 @@ This category contains words about the natural world, weather, animals, and envi
 
 ## Words
 
+
 <!-- Add vocabulary entries here using the format from format.md -->

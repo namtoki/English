@@ -4,4 +4,5 @@ This category contains food items, cooking, eating, and dining-related vocabular
 
 ## Words
 
+
 <!-- Add vocabulary entries here using the format from format.md -->
