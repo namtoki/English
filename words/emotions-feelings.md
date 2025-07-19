@@ -4,6 +4,47 @@ This category contains words expressing emotional states, moods, and psychologic
 
 ## Words
 
+- `apathetic` /ˌæpəˈθetɪk/          ([Formal] 無関心な、無感動な)   He seemed apathetic about the results.
+  - `apathetically` /ˌæpəˈθetɪkli/  ([Formal] 無関心に)             She responded apathetically to the news.
+  - `apathy` /ˈæpəθi/               ([Formal] 無関心、無感動)       Public apathy toward politics is concerning.
+- `indifferent` /ɪnˈdɪfərənt/       ([Formal] 無関心な、冷淡な)     She was indifferent to his pleas.
+  - `indifferently` /ɪnˈdɪfərəntli/ ([Formal] 無関心に)             He shrugged indifferently.
+  - `indifference` /ɪnˈdɪfərəns/    ([Formal] 無関心、冷淡)         His indifference hurt her feelings.
+- `detached` /dɪˈtætʃt/             ([Formal] 冷静な、無関心な)     He remained detached from the argument.
+  - `detachment` /dɪˈtætʃmənt/      ([Formal] 冷静さ、分離)         She observed with clinical detachment.
+- `dispassionate` /dɪsˈpæʃənət/     ([Formal] 冷静な、感情的でない) He gave a dispassionate analysis.
+  - `dispassionately` /dɪsˈpæʃənətli/ ([Formal] 冷静に)             She spoke dispassionately about the facts.
+- `emotionless` /ɪˈmoʊʃənləs/       ([Neutral] 感情のない)          His face remained emotionless.
+- `uninterested` /ʌnˈɪntrəstəd/     ([Neutral] 興味のない)          She seemed uninterested in the topic.
+- `unmoved` /ʌnˈmuvd/               ([Neutral] 動じない、感動しない) He was unmoved by her tears.
+- `stoic` /ˈstoʊɪk/                 ([Formal] 禁欲的な、感情を表さない) She remained stoic during the crisis.
+  - `stoically` /ˈstoʊɪkli/         ([Formal] 禁欲的に)             He endured the pain stoically.
+  - `stoicism` /ˈstoʊɪsɪzəm/        ([Formal] 禁欲主義、無感動)     His stoicism impressed everyone.
+- `numb` /nʌm/                      ([Neutral] 感覚のない、無感覚な) I felt numb after the shocking news.
+- `fervent` /ˈfɜːrvənt/             ([Formal] 熱烈な、熱心な)       She was a fervent supporter of the cause.
+  - `fervently` /ˈfɜːrvəntli/       ([Formal] 熱烈に、熱心に)       He fervently hoped for success.
+  - `fervor` /ˈfɜːrvər/             ([Formal] 熱意、情熱)           She spoke with great fervor.
+- `passionate` /ˈpæʃənət/           ([Neutral] 情熱的な)            He's passionate about music.
+  - `passionately` /ˈpæʃənətli/     ([Neutral] 情熱的に)            She argued passionately for justice.
+  - `passion` /ˈpæʃən/              ([Neutral] 情熱、熱情)          His passion for art is evident.
+- `ardent` /ˈɑːrdənt/               ([Formal] 熱心な、熱烈な)       She's an ardent advocate for peace.
+  - `ardently` /ˈɑːrdəntli/         ([Formal] 熱心に)               He ardently pursued his dreams.
+  - `ardor` /ˈɑːrdər/               ([Formal] 熱意、情熱)           His ardor for learning impressed teachers.
+- `zealous` /ˈzeləs/                ([Formal] 熱心な、熱狂的な)     He's zealous about his work.
+  - `zealously` /ˈzeləsli/          ([Formal] 熱心に)               She zealously protected her rights.
+  - `zeal` /ziːl/                   ([Formal] 熱心さ、熱意)         His zeal for reform was admirable.
+  - `zealot` /ˈzeləs/               ([Formal] 狂信者、熱中する人)   The zealot preached on the street.
+- `intense` /ɪnˈtens/               ([Neutral] 激しい、強烈な)      She felt intense emotions.
+  - `intensely` /ɪnˈtensli/         ([Neutral] 激しく、強く)        He stared intensely at the painting.
+  - `intensity` /ɪnˈtensəti/        ([Neutral] 強さ、激しさ)        The intensity of his gaze surprised her.
+  - `intensive` /ɪnˈtensɪv/         ([Formal] 集中的な、激しい)     He attended an intensive language course.
+  - `intensify` /ɪnˈtensɪfaɪ/       ([Neutral] 激しくする、強める)  The storm will intensify tonight.
+- `vehement` /ˈviːəmənt/            ([Formal] 激烈な、猛烈な)       She made a vehement protest.
+  - `vehemently` /ˈviːəməntli/      ([Formal] 激しく、猛烈に)       He vehemently denied the charges.
+  - `vehemence` /ˈviːəməns/         ([Formal] 激しさ、猛烈さ)       The vehemence of his reaction shocked us.
+- `earnest` /ˈɜːrnəst/              ([Formal] まじめな、真剣な)     She made an earnest plea for help.
+  - `earnestly` /ˈɜːrnəstli/        ([Formal] まじめに、真剣に)     He earnestly studied for the exam.
+  - `earnestness` /ˈɜːrnəstnəs/     ([Formal] まじめさ、真剣さ)     His earnestness impressed the judges.
 - `lethargic` /ləˈθɑːdʒɪk/          ([Writing] 無気力な)            I feel lethargic after eating too much.
   - `lethargy` /ˈleθədʒi/           ([Writing] 無気力、倦怠感)      The heat induced a sense of lethargy.
 - `exhausted` /ɪɡˈzɔːstɪd/          ([Neutral] 疲れ果てた)          I'm exhausted after the long day.

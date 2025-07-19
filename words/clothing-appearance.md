@@ -9,7 +9,7 @@ This category contains words about clothes, fashion, and physical appearance.
 #### Noun
 - ✅ `outfit` /ˈaʊtfɪt/             ([Casual] 服装一式、衣装)       I love your outfit today!
 - ✅ `clothes` /kləʊðz/             ([Neutral] 服、衣服)            I need to wash my clothes.
-- `threads` /θredz/                 ([Casual] [若者] 服、衣服)        Nice threads! Where did you get them?
+- ✅ `threads` /θredz/              ([Casual] [若者] 服、衣服)        Nice threads! Where did you get them?
   - `clothing` /ˈkləʊðɪŋ/           ([Neutral] 衣類、衣服)          The charity collects used clothing.
   - `dress` /dres/                  ([Neutral] 服装、ドレス)        The dress code is business casual.
   - `wardrobe` /ˈwɔːdrəʊb/          ([Neutral] 衣装棚、持ち服)      She has an extensive wardrobe.
@@ -28,13 +28,13 @@ This category contains words about clothes, fashion, and physical appearance.
   - `slip on` /slɪp ɒn/             ([Casual] さっと着る)           I'll just slip on a sweater.
   - `dress up` /dres ʌp/            ([Casual] おしゃれする)         She loves to dress up for parties.
   - `throw on` /θrəʊ ɒn/            ([Casual] 急いで着る)           I threw on my jacket and left.
-- `clothe` /kləʊð/                  ([Formal] 服を着せる)           They clothed the children warmly.
-- `try on` /traɪ ɒn/                ([Neutral] 試着する)            I want to try on this shirt.
-- `take off` /teɪk ɒf/              ([Neutral] 脱ぐ)                Take off your shoes at the door.
-  - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
-- `have on` /hæv ɒn/                ([Neutral] 着ている)            What do you have on today?
+  - `have on` /hæv ɒn/              ([Neutral] 着ている)            What do you have on today?
   - `don` /dɒn/                     ([Formal] 身に着ける)           He donned his formal attire.
   - `sport` /spɔːt/                 ([Casual] 身に着けて見せる)     She was sporting a new haircut.
+- `clothe` /kləʊð/                  ([Formal] 服を着せる)           They clothed the children warmly.
+- `try on` /traɪ ɒn/                ([Neutral] 試着する)            I want to try on this shirt.
+- ✅ `take off` /teɪk ɒf/           ([Neutral] 脱ぐ)                Take off your shoes at the door.
+  - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
 
 #### Adjective
 - `dressed` /drest/                 ([Neutral] 服を着た)            She was dressed in black.
