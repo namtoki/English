@@ -43,6 +43,18 @@ This category contains words for judging quality, making assessments, and expres
   - `purify` /ˈpjʊərɪfaɪ/           ([Neutral] 浄化する)            This filter purifies the water.
 
 ## Negative Evaluation
+- `wane` /weɪn/                     ([Neutral] 衰える)             Her enthusiasm waned rapidly.
+  - `waning` /ˈweɪnɪŋ/              ([Neutral] 衰えている)         His waning strength worried us.
+- `diminish` /dɪˈmɪnɪʃ/             ([Neutral] 減少する)           The threat has diminished.
+- `dwindle` /ˈdwɪndəl/              ([Neutral] 減少する)           Their savings dwindled to nothing.
+- `decline` /dɪˈklaɪn/              ([Neutral] 衰える)             Her health has been declining.
+- `fade` /feɪd/                     ([Neutral] 薄れる)             The light faded gradually.
+- `ebb` /eb/                        ([Writing] 引く、衰える)       His life is gradually ebbing.
+- `subside` /səbˈsaɪd/              ([Formal] 和らぐ)              The pain gradually subsided.
+- `abate` /əˈbeɪt/                  ([Formal] 和らぐ)              We waited for the wind to abate.
+- `recede` /rɪˈsiːd/                ([Formal] 後退する)            The prospect of bankruptcy receded.
+- `weaken` /ˈwiːkən/                ([Neutral] 弱くする)           The illness weakened him.
+- `lessen` /ˈlesən/                 ([Neutral] 減らす)             This should lessen the pain.
 - `frivolous` /ˈfrɪvələs/           ([Writing] つまらない、軽薄な)  The court dismissed the frivolous lawsuit.
   - `frivolity` /frɪˈvɒləti/        ([Writing] 軽薄さ、つまらなさ)  His frivolity annoyed his colleagues.
 - `trivial` /ˈtrɪviəl/              ([Neutral] 些細な、つまらない)  Don't worry about such trivial matters.

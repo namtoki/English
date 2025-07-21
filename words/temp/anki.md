@@ -3,6 +3,10 @@ ardor
 vehement
 instigate
 precipitant
+wane
+ebb
+subside
+abate
 frivolous
 uproar
 immaculate
