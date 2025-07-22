@@ -57,4 +57,12 @@ This category contains words related to thinking, learning, understanding, and m
   - `exploration` /ˌekspləˈreɪʃən/  ([Neutral] 探検、探査)          Space exploration is advancing rapidly.
   - `explorer` /ɪkˈsplɔːrə/         ([Neutral] 探検家)              The explorer discovered a new species.
 
+
+### イメージする
+- `evoke` /ɪˈvoʊk/                  ([Writing] 呼び起こす、想起させる) The music evoked memories of childhood.
+  - `evocation` /ˌevəˈkeɪʃən/       ([Writing] 想起、呼び起こし)    The evocation of past times was moving.
+  - `evocative` /ɪˈvoʊkətɪv/        ([Writing] 想起させる)          The photo is evocative of old times.
+- `conjure` /ˈkʌndʒər/              ([Writing] 呼び起こす、想像する)He conjured images of ancient times.
+  - `conjuration` /ˌkʌndʒəˈreɪʃən/  ([Writing] 呪文、魔術)          The magician's conjuration amazed everyone.
+
 <!-- Add vocabulary entries here using the format from format.md -->

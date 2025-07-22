@@ -1,12 +1,10 @@
-# Clothing and Appearance
+# Appearance
 
 This category contains words about clothes, fashion, and physical appearance.
 
 ## Words
 
-### Clothing
-
-#### Noun
+### 服
 - ✅ `outfit` /ˈaʊtfɪt/             ([Casual] 服装一式、衣装)       I love your outfit today!
 - ✅ `clothes` /kləʊðz/             ([Neutral] 服、衣服)            I need to wash my clothes.
 - ✅ `threads` /θredz/              ([Casual] [若者] 服、衣服)        Nice threads! Where did you get them?
@@ -22,7 +20,7 @@ This category contains words about clothes, fashion, and physical appearance.
 - `wear` /weər/                     ([Neutral] 着用、磨耗)          The shoes show signs of wear.
 - `wearer` /ˈweərər/                ([Neutral] 着用者)              The wearer of this hat is stylish.
 
-#### Verb
+### 着る/脱ぐ
 - ✅ `put on` /pʊt ɒn/              ([Neutral] 着る、身に着ける)    Please put on your jacket.
   - `wear` /weər/                   ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
   - `slip on` /slɪp ɒn/             ([Casual] さっと着る)           I'll just slip on a sweater.
@@ -36,9 +34,7 @@ This category contains words about clothes, fashion, and physical appearance.
 - ✅ `take off` /teɪk ɒf/           ([Neutral] 脱ぐ)                Take off your shoes at the door.
   - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
 
-#### Adjective
+### 形容詞
 - `dressed` /drest/                 ([Neutral] 服を着た)            She was dressed in black.
 - `wearable` /ˈweərəbl/             ([Neutral] 着用可能な)          This fabric is soft and wearable.
 - `worn` /wɔːn/                     ([Neutral] 着古した、使い古した) His jeans looked worn and faded.
-
-### Appearance

@@ -38,7 +38,7 @@
   13. time-sequence.md - 時間・順序
   before, after, early, late, yesterday, today, first, last, beginning
 
-  14. clothing-appearance.md - 服装・外見
+  14. appearance.md - 服装・外見
   clothes, dress, beautiful, ugly, appearance, fashion, style, wear
 
   15. food-eating.md - 食べ物・食事

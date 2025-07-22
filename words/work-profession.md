@@ -20,3 +20,9 @@ This category contains job-related vocabulary, professions, and work activities.
 ### NOTION
 - `concept` /ˈkɑːnsept/                ([Neutral] 概念、構想)             The concept looks good, but we need more details.
   - `proof of concept`                 ([Formal] 概念実証)                We need a proof of concept before full development.
+
+
+### 発動する
+  - `invoke` /ɪnˈvoʊk/              ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
+    - `invocation` /ˌɪnvəˈkeɪʃən/   ([Writing] 発動、呼び出し)      The invocation of emergency powers was controversial.
+    - `invocative` /ɪnˈvoʊkətɪv/    ([Writing] 呼び起こす)          The poem has an invocative quality.
