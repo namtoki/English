@@ -29,10 +29,15 @@ This category contains words about clothes, fashion, and physical appearance.
   - `have on` /hæv ɒn/              ([Neutral] 着ている)            What do you have on today?
   - `don` /dɒn/                     ([Formal] 身に着ける)           He donned his formal attire.
   - `sport` /spɔːt/                 ([Casual] 身に着けて見せる)     She was sporting a new haircut.
-- `clothe` /kləʊð/                  ([Formal] 服を着せる)           They clothed the children warmly.
-- `try on` /traɪ ɒn/                ([Neutral] 試着する)            I want to try on this shirt.
+  - `clothe` /kləʊð/                ([Formal] 服を着せる)           They clothed the children warmly.
+  - `try on` /traɪ ɒn/              ([Neutral] 試着する)            I want to try on this shirt.
 - ✅ `take off` /teɪk ɒf/           ([Neutral] 脱ぐ)                Take off your shoes at the door.
   - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
+  - `shed` /ʃɛd/                    ([Neutral] 脱ぐ)                He shed his coat at the door.
+    - `shedding` /ˈʃɛdɪŋ/           ([Neutral] 脱ぐこと)            The shedding of winter clothes signals spring.
+  - `slip off` /slɪp ɒf/            ([Casual] さっと脱ぐ)           She slipped off her shoes.
+  - `doff` /dɒf/                    ([Formal] 脱ぐ)                 He doffed his hat politely.
+  - `strip` /strɪp/                 ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
 
 ### 形容詞
 - `dressed` /drest/                 ([Neutral] 服を着た)            She was dressed in black.

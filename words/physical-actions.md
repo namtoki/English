@@ -29,5 +29,11 @@ This category contains verbs and nouns related to bodily movement, physical acti
 - `sock` /sɒk/                      ([Casual] 殴る)                 He socked him right in the jaw.
 - `slug` /slʌg/                     ([Casual] 強く殴る)             The boxer slugged his opponent hard.
 - `smack` /smæk/                    ([Casual] 叩く)                 She smacked him across the face.
+- `remove` /rɪˈmuːv/                ([Neutral] 取り除く)            Please remove your hat.
+- `drop` /drɒp/                     ([Neutral] 落とす)              Don't drop the ball!
+- `cast off` /kæst ɒf/              ([Neutral] 捨てる、脱ぐ)        Cast off those old habits.
+- `peel` /piːl/                     ([Neutral] 皮を剥く)            Peel the apple before eating.
+- `molt` /məʊlt/                    ([Writing] 脱皮する)            Birds molt their feathers.
+- `slough` /slʌf/                   ([Writing] 脱ぎ捨てる)          The snake sloughed its skin.
 
 <!-- Add vocabulary entries here using the format from format.md -->

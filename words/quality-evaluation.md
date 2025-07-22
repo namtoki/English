@@ -128,3 +128,5 @@ This category contains words for judging quality, making assessments, and expres
 - `pronounced` /prəˈnaʊnst/         ([Formal] 顕著な、明確な)       There's a pronounced difference.
   - `pronouncedly` /prəˈnaʊnsɪdli/  ([Formal] 顕著に)               The effect was pronouncedly visible.
   - `pronounce` /prəˈnaʊns/          ([Neutral] 発音する、宣言する)  How do you pronounce this word?
+- `discard` /dɪˈskɑːd/               ([Neutral] 捨てる、廃棄する)    Discard the old newspapers.
+- `ruined` /ˈruːɪnd/                  ([Neutral] 台無しになった)      The picnic was ruined by rain.

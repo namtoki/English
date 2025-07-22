@@ -39,4 +39,13 @@ This category contains words describing physical qualities, materials, and struc
   - `instigate` /ˈɪnstɪɡeɪt/        ([Formal] 扇動する、始める)     They instigated the rebellion.
 - `precipitant` /prɪˈsɪpɪtənt/      ([Formal] 誘因、沈殿剤)         Stress was the precipitant factor.
   - `precipitate` /prɪˈsɪpɪteɪt/    ([Formal] 引き起こす、沈殿させる)  The crisis precipitated changes.
+- `wreck` /rɛk/                      ([Neutral] 破壊する、難破船)    The storm will wreck the ship.
+  - `wrecked` /rɛkt/                  ([Neutral] 破壊された)          The wrecked car was towed away.
+  - `wrecking` /ˈrɛkɪŋ/               ([Neutral] 破壊すること)        The wrecking ball demolished the building.
+  - `wreckage` /ˈrɛkɪdʒ/              ([Neutral] 残骸)                They found wreckage from the plane.
+- `destroyed` /dɪˈstrɔɪd/             ([Neutral] 破壊された)          The building was completely destroyed.
+- `damaged` /ˈdæmɪdʒd/                ([Neutral] 損傷した)            The damaged car needs repair.
+- `demolished` /dɪˈmɑːlɪʃt/           ([Neutral] 取り壊された)        The old factory was demolished.
+- `shattered` /ˈʃætərd/               ([Neutral] 粉砕された)          The window was shattered by the ball.
+- `broken` /ˈbroʊkən/                 ([Neutral] 壊れた)              The broken chair cannot be used.
 

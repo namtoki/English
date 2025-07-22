@@ -147,3 +147,8 @@ This category contains words expressing emotional states, moods, and psychologic
 
 
 - `rewarding` /rɪˈwɔːdɪŋ/           ([Neutral] やりがいのある)      Teaching can be very rewarding.
+- `wrecked` /rɛkt/                    ([Casual] 疲れ果てた)           I was completely wrecked after work.
+- `wrecked` /rɛkt/                    ([Casual] 酔っ払った)           He got wrecked at the party.
+- `tired` /ˈtaɪərd/                   ([Neutral] 疲れた)              I'm tired after the long day.
+- `devastated` /ˈdevəsteɪtɪd/        ([Neutral] 打ちのめされた)      She was devastated by the news.
+- `drunk` /drʌŋk/                     ([Casual] 酔っ払った)           He was drunk after three beers.
