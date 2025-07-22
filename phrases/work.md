@@ -28,6 +28,15 @@
 
 # Technical Meeting
 
+## Premise
+
+`First, let me share our high-level understanding, and please correct me if anything is inaccurate.`
+Our understanding is that we'd like to adopt two components from your solution:
+Sound Personalization and Voice Clarity.
+For Sound Personalization, you have previous experience implementing it on the Airoha SDK and have integration guides available.
+However, for Voice Clarity, you haven't implemented it on an SoC before.
+`Is this understanding correct?`
+
 ## 専用の
 > `You're concerned` it might affect screens that `are dedicated to` other products like C500 or PerL1, aren't you?
 
