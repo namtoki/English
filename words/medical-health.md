@@ -45,6 +45,35 @@ This category contains medical vocabulary, health conditions, treatments, and bo
 - `fatigue` /fəˈtiːɡ/               ([Medical] 疲労、倦怠感)        Chronic fatigue affected her daily life.
 - `recovery` /rɪˈkʌvəri/            ([Medical] 回復、快復)          His recovery was faster than expected.
   - `recover` /rɪˈkʌvə/             ([Medical] 回復する)            She recovered from the illness.
+- `recuperate` /rɪˈkuːpəreɪt/       ([Neutral] 回復する、療養する)  He's recuperating at home.
+  - `recuperation` /rɪˌkuːpəˈreɪʃən/ ([Neutral] 回復、療養)          The recuperation period was long.
+  - `recuperative` /rɪˈkuːpərətɪv/   ([Writing] 回復力のある)        The recuperative process takes time.
+- `heal` /hiːl/                      ([Neutral] 癒える、治る)        The wound will heal in time.
+  - `healing` /ˈhiːlɪŋ/              ([Neutral] 治癒、癒し)          The healing process is slow.
+  - `healer` /ˈhiːlər/               ([Neutral] 治療者、ヒーラー)    She visited a traditional healer.
+- `mend` /mend/                      ([Neutral] 回復する、修復する)  His broken bones are mending well.
+  - `mending` /ˈmendɪŋ/              ([Neutral] 回復、修復)          He's on the mend now.
+- `convalesce` /ˌkɒnvəˈles/          ([Writing] 療養する、回復期にある) She's convalescing after surgery.
+  - `convalescence` /ˌkɒnvəˈlesəns/  ([Writing] 療養期間)            His convalescence lasted months.
+  - `convalescent` /ˌkɒnvəˈlesənt/   ([Writing] 回復期の患者)        The convalescent home provides care.
+- `rehabilitate` /ˌriːəˈbɪlɪteɪt/    ([Formal] リハビリする)         They rehabilitated his injured knee.
+  - `rehabilitation` /ˌriːəˌbɪlɪˈteɪʃən/ ([Formal] リハビリ)         The rehabilitation took six months.
+  - `rehabilitative` /ˌriːəˈbɪlɪtətɪv/ ([Formal] リハビリの)         He needs rehabilitative therapy.
+- `restore` /rɪˈstɔːr/               ([Neutral] 回復する、復元する)  The treatment restored his health.
+  - `restoration` /ˌrestəˈreɪʃən/    ([Neutral] 回復、復元)          The restoration of function was complete.
+  - `restorative` /rɪˈstɔːrətɪv/     ([Writing] 回復力のある)        Sleep has restorative powers.
+- `revive` /rɪˈvaɪv/                 ([Neutral] 蘇生する、復活する)  The paramedics revived him.
+  - `revival` /rɪˈvaɪvəl/            ([Neutral] 蘇生、復活)          His revival was miraculous.
+  - `reviving` /rɪˈvaɪvɪŋ/           ([Neutral] 蘇生させる)          The cold water was reviving.
+- `rejuvenate` /rɪˈdʒuːvəneɪt/       ([Neutral] 若返らせる、活力回復) The vacation rejuvenated her.
+  - `rejuvenation` /rɪˌdʒuːvəˈneɪʃən/ ([Neutral] 若返り、活力回復)   The spa offers rejuvenation treatments.
+  - `rejuvenating` /rɪˈdʒuːvəneɪtɪŋ/ ([Neutral] 若返らせる)         The treatment is rejuvenating.
+- `regenerate` /rɪˈdʒenəreɪt/        ([Medical] 再生する)            Some tissues can regenerate naturally.
+  - `regeneration` /rɪˌdʒenəˈreɪʃən/ ([Medical] 再生)                Liver regeneration is possible.
+  - `regenerative` /rɪˈdʒenərətɪv/   ([Medical] 再生の)              Regenerative medicine shows promise.
+- `recoup` /rɪˈkuːp/                 ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
+  - `recouping` /rɪˈkuːpɪŋ/          ([Neutral] 回復、取り戻し)      She's recouping from the illness.
+- `bounce back` /baʊns bæk/          ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
 - `relapse` /rɪˈlæps/               ([Medical] 再発、逆戻り)        The patient had a relapse.
 - `remission` /rɪˈmɪʃən/            ([Medical] 寛解、軽快)          The cancer is in remission.
 - `examination` /ɪɡˌzæmɪˈneɪʃən/    ([Medical] 診察、検査)          The examination revealed no problems.

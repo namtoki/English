@@ -108,6 +108,9 @@ This category contains words expressing emotional states, moods, and psychologic
   - `frozen` /ˈfroʊzən/             ([Neutral] 凍った、固まった)          He stood frozen with fear.
   - `freezing` /ˈfriːzɪŋ/           ([Neutral] 凍るような)                It's freezing outside today.
   - `freezer` /ˈfriːzər/             ([Neutral] 冷凍庫)                    Put the ice cream in the freezer.
+- `appall` /əˈpɔːl/                  ([Formal] ぞっとさせる、愕然とさせる) The conditions appalled the inspectors.
+  - `appalling` /əˈpɔːlɪŋ/          ([Neutral] ひどい、ぞっとする)       The living conditions were appalling.
+  - `appalled` /əˈpɔːld/            ([Neutral] 愕然とした、ぞっとした)   I was appalled by his behavior.
 - `solace` /ˈsɑːləs/                 ([Formal] 慰め、安らぎ)               She found solace in music after the loss.
 - `comfort` /ˈkʌmfət/                ([Neutral] 慰める、慰め)             She tried to comfort the crying child.
   - `comfortable` /ˈkʌmftəbəl/       ([Neutral] 快適な、安楽な)           This chair is very comfortable.
@@ -152,3 +155,63 @@ This category contains words expressing emotional states, moods, and psychologic
 - `tired` /ˈtaɪərd/                   ([Neutral] 疲れた)              I'm tired after the long day.
 - `devastated` /ˈdevəsteɪtɪd/        ([Neutral] 打ちのめされた)      She was devastated by the news.
 - `drunk` /drʌŋk/                     ([Casual] 酔っ払った)           He was drunk after three beers.
+- `shock` /ʃɑːk/                      ([Neutral] ショックを与える)    The news shocked everyone.
+  - `shocking` /ˈʃɑːkɪŋ/             ([Neutral] 衝撃的な)            The revelation was shocking.
+  - `shocked` /ʃɑːkt/                ([Neutral] ショックを受けた)    I was shocked by his response.
+- `dismay` /dɪsˈmeɪ/                  ([Formal] 落胆させる、狼狽させる) Her reaction dismayed her parents.
+  - `dismaying` /dɪsˈmeɪɪŋ/          ([Formal] 落胆させる)           The results were dismaying.
+  - `dismayed` /dɪsˈmeɪd/            ([Formal] 落胆した、狼狽した)   He was dismayed by the outcome.
+- `stun` /stʌn/                       ([Neutral] 茫然とさせる)        The verdict stunned the courtroom.
+  - `stunning` /ˈstʌnɪŋ/             ([Neutral] 驚くべき、見事な)    She looked stunning in that dress.
+  - `stunned` /stʌnd/                ([Neutral] 茫然とした)          He sat there, stunned by the news.
+- `astound` /əˈstaʊnd/                ([Formal] 仰天させる)           Her talent astounded the judges.
+  - `astounding` /əˈstaʊndɪŋ/        ([Formal] 驚くべき)             The discovery was astounding.
+  - `astounded` /əˈstaʊndɪd/         ([Formal] 仰天した)             I was astounded by the coincidence.
+- `astonish` /əˈstɑːnɪʃ/              ([Neutral] 驚かせる)            The magician astonished the audience.
+  - `astonishing` /əˈstɑːnɪʃɪŋ/      ([Neutral] 驚くべき)            Her progress was astonishing.
+  - `astonished` /əˈstɑːnɪʃt/        ([Neutral] 驚いた)              We were astonished by the results.
+  - `astonishment` /əˈstɑːnɪʃmənt/   ([Neutral] 驚き)                To our astonishment, he agreed.
+- `startle` /ˈstɑːrtəl/               ([Neutral] びっくりさせる)      The loud noise startled the baby.
+  - `startling` /ˈstɑːrtəlɪŋ/        ([Neutral] 驚くべき)            The resemblance was startling.
+  - `startled` /ˈstɑːrtəld/          ([Neutral] びっくりした)        She looked startled by the question.
+- `alarm` /əˈlɑːrm/                   ([Neutral] 警戒させる、不安にさせる) The symptoms alarmed the doctor.
+  - `alarming` /əˈlɑːrmɪŋ/           ([Neutral] 心配な、不安な)      The statistics are alarming.
+  - `alarmed` /əˈlɑːrmd/             ([Neutral] 心配した、警戒した)  She was alarmed by his behavior.
+- `disturb` /dɪˈstɜːrb/               ([Neutral] 動揺させる、妨げる)  The news disturbed her greatly.
+  - `disturbing` /dɪˈstɜːrbɪŋ/       ([Neutral] 不安にさせる)        The images were deeply disturbing.
+  - `disturbed` /dɪˈstɜːrbd/         ([Neutral] 動揺した、不安な)    He seemed disturbed by something.
+  - `disturbance` /dɪˈstɜːrbəns/     ([Neutral] 妨害、騒動)          There was a disturbance outside.
+- `unsettle` /ʌnˈsetəl/               ([Neutral] 不安にさせる)        The strange events unsettled everyone.
+  - `unsettling` /ʌnˈsetəlɪŋ/        ([Neutral] 不安にさせる)        It was an unsettling experience.
+  - `unsettled` /ʌnˈsetəld/          ([Neutral] 落ち着かない、不安な) She felt unsettled all day.
+- `outrage` /ˈaʊtreɪdʒ/               ([Neutral] 激怒させる)          His comments outraged the community.
+  - `outrageous` /aʊtˈreɪdʒəs/       ([Neutral] とんでもない、憤慨すべき) The price was outrageous.
+  - `outraged` /ˈaʊtreɪdʒd/          ([Neutral] 激怒した)            They were outraged by the decision.
+- `vent` /vent/                      ([Neutral] 感情を発散する)      She vented her frustration to a friend.
+  - `venting` /ˈventɪŋ/              ([Neutral] 発散、愚痴)          He was venting about his boss.
+  - `vented` /ˈventɪd/               ([Neutral] 発散した)            She vented her anger at the meeting.
+- `express` /ɪkˈspres/               ([Neutral] 表現する)            He expressed his feelings clearly.
+  - `expression` /ɪkˈspreʃən/        ([Neutral] 表現、表情)          Her expression showed disappointment.
+  - `expressive` /ɪkˈspresɪv/       ([Neutral] 表現力豊かな)        She has an expressive face.
+  - `expressively` /ɪkˈspresɪvli/   ([Neutral] 表現豊かに)          He spoke expressively about his passion.
+- `release` /rɪˈliːs/                ([Neutral] 解放する、発散する)  Exercise helps release stress.
+  - `releasing` /rɪˈliːsɪŋ/         ([Neutral] 解放する)            Crying is releasing for some people.
+  - `released` /rɪˈliːst/           ([Neutral] 解放された)          She felt released from her burden.
+- `unleash` /ʌnˈliːʃ/                ([Neutral] 解き放つ、爆発させる) He unleashed his anger.
+  - `unleashing` /ʌnˈliːʃɪŋ/        ([Neutral] 解き放つこと)        The unleashing of emotions was cathartic.
+  - `unleashed` /ʌnˈliːʃt/          ([Neutral] 解き放たれた)        Her creativity was finally unleashed.
+- `pour out` /pɔːr aʊt/              ([Casual] 吐き出す、打ち明ける) She poured out her troubles to me.
+- `unload` /ʌnˈloʊd/                 ([Casual] 感情を吐き出す)      He unloaded all his problems on me.
+  - `unloading` /ʌnˈloʊdɪŋ/         ([Casual] 吐き出すこと)         She was unloading her stress.
+  - `unloaded` /ʌnˈloʊdɪd/          ([Casual] 吐き出した)           He unloaded on his therapist.
+- `discharge` /dɪsˈtʃɑːrdʒ/          ([Formal] 放出する、発散する)   She discharged her emotions through art.
+  - `discharging` /dɪsˈtʃɑːrdʒɪŋ/    ([Formal] 放出すること)         Discharging negative emotions is healthy.
+  - `discharged` /dɪsˈtʃɑːrdʒd/      ([Formal] 放出された)           His anger was discharged safely.
+- `unburden` /ʌnˈbɜːrdən/            ([Formal] 重荷を下ろす、打ち明ける) She unburdened herself to her friend.
+  - `unburdening` /ʌnˈbɜːrdənɪŋ/     ([Formal] 重荷を下ろすこと)     The unburdening brought relief.
+  - `unburdened` /ʌnˈbɜːrdənd/       ([Formal] 重荷から解放された)   He felt unburdened after confessing.
+- `confide` /kənˈfaɪd/               ([Neutral] 打ち明ける、信頼する) She confided her fears to him.
+  - `confiding` /kənˈfaɪdɪŋ/         ([Neutral] 打ち明けること)      Confiding in friends helps.
+  - `confidant` /ˈkɑːnfɪdænt/        ([Neutral] 親友、相談相手)      She's my closest confidant.
+  - `confidence` /ˈkɑːnfɪdəns/       ([Neutral] 信頼、自信)          He spoke with confidence.
+  - `confident` /ˈkɑːnfɪdənt/        ([Neutral] 自信のある)          She felt confident about the test.

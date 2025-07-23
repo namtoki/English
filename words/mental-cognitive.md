@@ -56,6 +56,33 @@ This category contains words related to thinking, learning, understanding, and m
 - `explore` /ɪkˈsplɔː/              ([Neutral] 探検する、探求する)  They explored the ancient ruins.
   - `exploration` /ˌekspləˈreɪʃən/  ([Neutral] 探検、探査)          Space exploration is advancing rapidly.
   - `explorer` /ɪkˈsplɔːrə/         ([Neutral] 探検家)              The explorer discovered a new species.
+- `debunk` /dɪˈbʌŋk/                ([Neutral] 正体を暴く、論破する) Scientists debunked the conspiracy theory.
+  - `debunking` /dɪˈbʌŋkɪŋ/         ([Neutral] 論破、暴露)          The debunking of myths is important.
+  - `debunked` /dɪˈbʌŋkt/           ([Neutral] 論破された)          That theory has been thoroughly debunked.
+- `refute` /rɪˈfjuːt/                ([Formal] 反駁する、論駁する)   He refuted their arguments convincingly.
+  - `refutation` /ˌrefjuˈteɪʃən/     ([Formal] 反駁、論駁)           Her refutation was well-documented.
+  - `refutable` /rɪˈfjuːtəbəl/       ([Writing] 反駁できる)          The claim is easily refutable.
+- `disprove` /dɪsˈpruːv/             ([Neutral] 反証する、誤りを証明) The experiment disproved the hypothesis.
+  - `disproof` /dɪsˈpruːf/           ([Writing] 反証)                The disproof shocked the scientific community.
+- `discredit` /dɪsˈkredɪt/           ([Neutral] 信用を失わせる)      The scandal discredited the politician.
+  - `discredited` /dɪsˈkredɪtɪd/     ([Neutral] 信用を失った)        His theories are now discredited.
+- `expose` /ɪkˈspoʊz/                ([Neutral] 暴露する、さらす)    The journalist exposed the corruption.
+  - `exposure` /ɪkˈspoʊʒər/          ([Neutral] 暴露、露出)          The exposure of the scandal shocked everyone.
+  - `exposed` /ɪkˈspoʊzd/            ([Neutral] 暴露された、さらされた) The exposed lies damaged his reputation.
+- `reveal` /rɪˈviːl/                 ([Neutral] 明らかにする、暴露)  The investigation revealed new evidence.
+  - `revelation` /ˌrevəˈleɪʃən/      ([Neutral] 暴露、発覚)          The revelation surprised everyone.
+  - `revealing` /rɪˈviːlɪŋ/          ([Neutral] 暴露的な、明らかにする) Her comments were very revealing.
+- `uncover` /ʌnˈkʌvər/               ([Neutral] 覆いを取る、暴く)    Police uncovered the plot.
+  - `uncovered` /ʌnˈkʌvərd/          ([Neutral] 暴かれた、覆いのない) The uncovered evidence was damning.
+- `unmask` /ʌnˈmæsk/                 ([Neutral] 仮面を剥ぐ、正体を暴く) The detective unmasked the criminal.
+  - `unmasking` /ʌnˈmæskɪŋ/          ([Neutral] 正体暴露)            The unmasking of the spy was dramatic.
+  - `unmasked` /ʌnˈmæskt/            ([Neutral] 正体を暴かれた)      The villain was finally unmasked.
+- `contradict` /ˌkɑːntrəˈdɪkt/       ([Neutral] 矛盾する、否定する)  Her actions contradict her words.
+  - `contradiction` /ˌkɑːntrəˈdɪkʃən/ ([Neutral] 矛盾、否定)          There's a contradiction in his statement.
+  - `contradictory` /ˌkɑːntrəˈdɪktəri/ ([Neutral] 矛盾した)          The reports are contradictory.
+- `falsify` /ˈfɔːlsɪfaɪ/             ([Formal] 偽造する、反証する)   He falsified the documents.
+  - `falsification` /ˌfɔːlsɪfɪˈkeɪʃən/ ([Formal] 偽造、改ざん)        The falsification was discovered.
+  - `falsified` /ˈfɔːlsɪfaɪd/        ([Formal] 偽造された)           The falsified records were destroyed.
 
 
 ### イメージする

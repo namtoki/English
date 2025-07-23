@@ -12,6 +12,9 @@ This category contains military terms, conflict situations, and combat-related v
 - `assault` /əˈsɔːlt/               ([Formal] 襲撃、暴行)           The assault on the fortress failed.
 - `retreat` /rɪˈtriːt/              ([Neutral] 退却、後退)          The army was forced to retreat.
   - `retirement` /rɪˈtaɪəmənt/      ([Neutral] 退職、退去)          His retirement was well-deserved.
+- `secede` /sɪˈsiːd/                ([Writing] 脱退する、離脱)      The state threatened to secede.
+  - `secession` /sɪˈseʃən/          ([Writing] 脱退、離脱)          The secession led to civil war.
+  - `secessionist` /sɪˈseʃənɪst/    ([Writing] 分離主義者)          The secessionists formed a new party.
 - `surrender` /səˈrendə/            ([Neutral] 降伏、降参)          The enemy decided to surrender.
 - `skirmish` /ˈskɜːmɪʃ/             ([Formal] 小競り合い)           A skirmish broke out at the border.
 - `offensive` /əˈfensɪv/            ([Formal] 攻撃、攻勢)           They launched a major offensive.
@@ -53,3 +56,18 @@ This category contains military terms, conflict situations, and combat-related v
 - `anarchy` /ˈænərki/               ([Formal] 無政府状態、無秩序)   The country descended into anarchy.
   - `anarchic` /əˈnɑːrkɪk/          ([Formal] 無政府主義的な)       The situation became anarchic.
   - `anarchist` /ˈænərkɪst/         ([Formal] 無政府主義者)         The anarchist was arrested.
+- `withdraw` /wɪðˈdrɔː/             ([Neutral] 撤退する、引き下がる) The troops withdrew from the area.
+  - `withdrawal` /wɪðˈdrɔːəl/       ([Neutral] 撤退、撤収)          The withdrawal was orderly.
+  - `withdrawn` /wɪðˈdrɔːn/         ([Neutral] 引きこもった)        He became withdrawn after the defeat.
+- `breakaway` /ˈbreɪkəweɪ/          ([Neutral] 離脱、分離)          The breakaway group formed a new party.
+- `defect` /dɪˈfekt/                ([Formal] 離反する、亡命する)   The spy defected to the enemy.
+  - `defection` /dɪˈfekʃən/         ([Formal] 離反、亡命)           His defection shocked everyone.
+  - `defective` /dɪˈfektɪv/         ([Neutral] 欠陥のある)          The defective weapon was recalled.
+- `rebel` /rɪˈbel/                  ([Neutral] 反逆する、反抗する)  The colonists rebelled against the king.
+  - `rebellion` /rɪˈbeljən/         ([Neutral] 反乱、反逆)          The rebellion was crushed.
+  - `rebellious` /rɪˈbeljəs/        ([Neutral] 反抗的な)            The rebellious troops were punished.
+- `revolt` /rɪˈvoʊlt/               ([Neutral] 反乱する、反抗する)  The peasants revolted against taxes.
+- `mutiny` /ˈmjuːtɪni/              ([Formal] 反乱する（軍隊で）)   The crew threatened to mutiny.
+- `insurrection` /ˌɪnsəˈrekʃən/     ([Writing] 暴動、反乱)          The insurrection was quickly suppressed.
+- `uprising` /ˈʌpraɪzɪŋ/            ([Neutral] 蜂起、暴動)          The uprising spread across the country.
+- `dissent` /dɪˈsent/               ([Formal] 異議を唱える)         Few dared to dissent from the decision.

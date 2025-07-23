@@ -52,6 +52,7 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `solicitation` /səˌlɪsɪˈteɪʃən/ ([Writing] 勧誘、懇願)          The solicitation of funds was successful.
   - `solicitor` /səˈlɪsɪtər/        ([Formal] 事務弁護士、勧誘者)   The solicitor handled the legal matter.
 
+### 非難する
 - `rebuke` /rɪˈbjuːk/               ([Formal] 叱責する、非難する)   The teacher rebuked the student for cheating.
 - `reprimand` /ˈreprɪmænd/          ([Formal] 叱責する)             The boss reprimanded him for being late.
 - `censure` /ˈsenʃər/               ([Formal] 激しく非難する)       The senator was censured for misconduct.
@@ -63,14 +64,6 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - `condemn` /kənˈdem/               ([Formal] 非難する、刑宣告)     The court condemned his actions.
   - `condemnation` /ˌkɑːndemˈneɪʃən/ ([Formal] 激しい非難)          The condemnation was unanimous.
 - `denounce` /dɪˈnaʊns/             ([Formal] 公然と非難する)       The activist denounced the government's policy.
-- `disparage` /dɪˈspærɪdʒ/          ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
-  - `disparagement` /dɪˈspærɪdʒmənt/ ([Formal] 軽視、中傷)          The disparagement was uncalled for.
-- `mock` /mɑːk/                     ([Neutral] あざける、まねる)    The children mocked his accent.
-  - `mockery` /ˈmɑːkəri/            ([Neutral] あざけり、物まね)    His mockery was cruel and unnecessary.
-- `taunt` /tɔːnt/                   ([Neutral] あざける、ののしる)  The bullies taunted the younger kids.
-- `jeer` /dʒɪr/                     ([Neutral] ヤジを飛ばす)        The crowd jeered at the opposing team.
-- `deride` /dɪˈraɪd/                ([Formal] ばかにする、嘲笑)     Critics derided his latest work.
-  - `derision` /dɪˈrɪʒən/           ([Formal] 嘲笑、あざけり)       His proposal was met with derision.
 - `criticize` /ˈkrɪtɪsaɪz/          ([Neutral] 非難する、批判)      She criticized his poor performance.
   - `criticism` /ˈkrɪtɪsɪzəm/       ([Neutral] 批判、非難)          The criticism was harsh but fair.
   - `critical` /ˈkrɪtɪkəl/          ([Neutral] 批判的な、重要な)    He was critical of the new policy.
@@ -84,6 +77,17 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - `reproach` /rɪˈproʊtʃ/            ([Formal] 非難する、恥辱)       She reproached him for his selfishness.
   - `reproachful` /rɪˈproʊtʃfəl/    ([Formal] 非難がましい)         He gave her a reproachful look.
   - `irreproachable` /ˌɪrɪˈproʊtʃəbəl/ ([Formal] 非の打ち所のない)  Her conduct was irreproachable.
+
+### 軽視する
+- `disparage` /dɪˈspærɪdʒ/          ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
+  - `disparagement` /dɪˈspærɪdʒmənt/ ([Formal] 軽視、中傷)          The disparagement was uncalled for.
+- `mock` /mɑːk/                     ([Neutral] あざける、まねる)    The children mocked his accent.
+  - `mockery` /ˈmɑːkəri/            ([Neutral] あざけり、物まね)    His mockery was cruel and unnecessary.
+- `taunt` /tɔːnt/                   ([Neutral] あざける、ののしる)  The bullies taunted the younger kids.
+- `jeer` /dʒɪr/                     ([Neutral] ヤジを飛ばす)        The crowd jeered at the opposing team.
+- `deride` /dɪˈraɪd/                ([Formal] ばかにする、嘲笑)     Critics derided his latest work.
+  - `derision` /dɪˈrɪʒən/           ([Formal] 嘲笑、あざけり)       His proposal was met with derision.
+
 - `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
 - `praise` /preɪz/                   ([Neutral] 称賛する、褒める)   She praised him for his hard work.
   - `praiseworthy` /ˈpreɪzˌwɜːði/   ([Writing] 称賛に値する)       His praiseworthy efforts saved the company.
