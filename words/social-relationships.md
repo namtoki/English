@@ -158,4 +158,17 @@ This category contains words about family, friends, social interactions, and hum
   - `crassly` /ˈkræsli/             ([Formal] 無神経に)             He crassly mentioned her weight.
   - `crassness` /ˈkræsnəs/          ([Formal] 無神経、粗野)         The crassness of his comment hurt her.
 
+## Connection and Understanding
+- `understandable` /ˌʌndərˈstændəbəl/ ([Neutral] 理解できる)        His reaction is understandable.
+  - `familiar` /fəˈmɪljər/          ([Neutral] 親しみやすい、馴染み) Her voice sounds familiar.
+  - `sympathetic` /ˌsɪmpəˈθetɪk/    ([Neutral] 同情的な)            He was sympathetic to my situation.
+  - `accessible` /ækˈsesəbəl/       ([Neutral] 理解しやすい、近づき) The book is accessible to beginners.
+  - `approachable` /əˈproʊtʃəbəl/   ([Neutral] 親しみやすい)        The manager is very approachable.
+  - `connect with` /kəˈnekt wɪð/    ([Neutral] つながる、共感する)  I really connect with her music.
+  - `identify with` /aɪˈdentɪfaɪ wɪð/ ([Neutral] 共感する、同一視する) Many people identify with his struggles.
+  - `relatable` /rɪˈleɪtəbəl/       ([Casual] 共感できる)           Her story is very relatable.
+  - `empathetic` /ˌempəˈθetɪk/      ([Formal] 共感的な)             She's very empathetic to others' feelings.
+  - `resonate with` /ˈrezəneɪt wɪð/ ([Neutral] 心に響く、共鳴する)  Her words resonate with the audience.
+  - `identifiable` /aɪˌdentɪˈfaɪəbəl/ ([Formal] 識別できる、共感できる) The character is identifiable to readers.
+
 <!-- Add vocabulary entries here using the format from format.md -->

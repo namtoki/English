@@ -92,4 +92,18 @@ This category contains words related to thinking, learning, understanding, and m
 - `conjure` /ˈkʌndʒər/              ([Writing] 呼び起こす、想像する)He conjured images of ancient times.
   - `conjuration` /ˌkʌndʒəˈreɪʃən/  ([Writing] 呪文、魔術)          The magician's conjuration amazed everyone.
 
+## Analysis and Reasoning
+
+- `come down to` /kʌm daʊn tu/        ([Casual] ～に帰着する)           It all comes down to hard work.
+  - `boil down to` /bɔɪl daʊn tu/      ([Neutral] 要するに～である)      The issue boils down to money.
+  - `depend on` /dɪˈpend ɑːn/          ([Neutral] ～に依存する)          Success depends on hard work.
+  - `result in` /rɪˈzʌlt ɪn/           ([Neutral] ～という結果になる)    Hard work results in success.
+  - `ultimately` /ˈʌltɪmətli/          ([Neutral] 最終的に、結局)        Ultimately, it's your decision.
+  - `amount to` /əˈmaʊnt tu/           ([Neutral] ～に等しい、要するに)  His excuse amounts to nothing.
+  - `center on` /ˈsentər ɑːn/          ([Neutral] ～を中心とする)        The debate centers on healthcare.
+  - `reduce to` /rɪˈdus tu/            ([Neutral] ～に減らす、要約する)  The problem reduces to a simple question.
+  - `stem from` /stem frʌm/            ([Neutral] ～に由来する)          The problem stems from poor planning.
+  - `revolve around` /rɪˈvɑːlv əˈraʊnd/ ([Neutral] ～を中心とする)        The story revolves around family.
+  - `hinge on` /hɪndʒ ɑːn/             ([Neutral] ～次第である)          The decision hinges on the budget.
+
 <!-- Add vocabulary entries here using the format from format.md -->
