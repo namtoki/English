@@ -17,7 +17,7 @@
   6. permission-authority.md - 許可・権限
   allow, permit, approve, authorize, forbid, prohibit, consent
 
-  7. communication-expression.md - 意思疎通・表現
+  7. communication.md - 意思疎通・表現
   say, speak, suggest, hint, imply, express, communicate, announce
 
   8. money-finance.md - 金銭・財政

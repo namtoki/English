@@ -1,4 +1,4 @@
-# Communication and Expression
+# Communication
 
 This category contains words about speaking, suggesting, hinting, and expressing ideas.
 
