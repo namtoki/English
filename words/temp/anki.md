@@ -123,6 +123,10 @@ interlude
 impeccable
 ransack
 chastise
+assail
+revile
+vilify
+slight
 fritter
 nullify
 delusion

@@ -20,6 +20,11 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `insinuate` /ɪnˈsɪnjueɪt/       ([Formal] ほのめかす)           What are you trying to insinuate?
     - `insinuation` /ɪnˌsɪnjuˈeɪʃən/([Formal] ほのめかし)           I don't appreciate your insinuations.
 
+### 注意する
+  - `admonish` /ədˈmɑːnɪʃ/            ([Formal] 諭す、勧告する)       She admonished him to be more careful.
+    - `admonishment` /ədˈmɑːnɪʃmənt/  ([Formal] 訓戒、警告)           His admonishment was stern but fair.
+    - `admonition` /ˌædməˈnɪʃən/      ([Formal] 忠告、説諭、訓戒)     The judge gave a stern admonition.
+
 ### 呼ぶ
 - ✅ `call` /kɔːl/                  ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
   - `shout` /ʃaʊt/                  ([Neutral] 叫ぶ、大声で言う)    He shouted across the street.
@@ -52,41 +57,102 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `solicitation` /səˌlɪsɪˈteɪʃən/ ([Writing] 勧誘、懇願)          The solicitation of funds was successful.
   - `solicitor` /səˈlɪsɪtər/        ([Formal] 事務弁護士、勧誘者)   The solicitor handled the legal matter.
 
-### 非難する
-- `rebuke` /rɪˈbjuːk/               ([Formal] 叱責する、非難する)   The teacher rebuked the student for cheating.
-- `reprimand` /ˈreprɪmænd/          ([Formal] 叱責する)             The boss reprimanded him for being late.
-- `censure` /ˈsenʃər/               ([Formal] 激しく非難する)       The senator was censured for misconduct.
-- `admonish` /ədˈmɑːnɪʃ/            ([Formal] 諭す、勧告する)       She admonished him to be more careful.
-  - `admonishment` /ədˈmɑːnɪʃmənt/  ([Formal] 訓戒、警告)           His admonishment was stern but fair.
-  - `admonition` /ˌædməˈnɪʃən/      ([Formal] 忠告、説諭、訓戒)     The judge gave a stern admonition.
-- `chastise` /ˈtʃæstaɪz/            ([Formal] 厳しく非難する)       The coach chastised the team for poor performance.
-  - `chastisement` /ˈtʃæstaɪzmənt/  ([Formal] 懲戒、叱責)           The chastisement was swift and severe.
-- `condemn` /kənˈdem/               ([Formal] 非難する、刑宣告)     The court condemned his actions.
-  - `condemnation` /ˌkɑːndemˈneɪʃən/ ([Formal] 激しい非難)          The condemnation was unanimous.
-- `denounce` /dɪˈnaʊns/             ([Formal] 公然と非難する)       The activist denounced the government's policy.
-- `criticize` /ˈkrɪtɪsaɪz/          ([Neutral] 非難する、批判)      She criticized his poor performance.
-  - `criticism` /ˈkrɪtɪsɪzəm/       ([Neutral] 批判、非難)          The criticism was harsh but fair.
-  - `critical` /ˈkrɪtɪkəl/          ([Neutral] 批判的な、重要な)    He was critical of the new policy.
-  - `critic` /ˈkrɪtɪk/              ([Neutral] 批評家、批判者)      The film critic gave it a bad review.
-  - `critique` /krɪˈtiːk/           ([Formal] 評論、批評)           The art critique was thoughtful and detailed.
-- `scold` /skoʊld/                  ([Neutral] しかる、叱責する)    The mother scolded her naughty child.
-  - `scolding` /ˈskoʊldɪŋ/          ([Neutral] 叱責、お小言)        He received a severe scolding.
-- `blame` /bleɪm/                   ([Neutral] せいにする、責める)  Don't blame me for your mistakes.
-  - `blameless` /ˈbleɪmləs/         ([Neutral] 責められるべきでない)She was blameless in the incident.
-  - `blameworthy` /ˈbleɪmwɜːrði/    ([Formal] 責められるべき)       His actions were clearly blameworthy.
-- `reproach` /rɪˈproʊtʃ/            ([Formal] 非難する、恥辱)       She reproached him for his selfishness.
-  - `reproachful` /rɪˈproʊtʃfəl/    ([Formal] 非難がましい)         He gave her a reproachful look.
-  - `irreproachable` /ˌɪrɪˈproʊtʃəbəl/ ([Formal] 非の打ち所のない)  Her conduct was irreproachable.
+### 非難/批判する
+- ✅ `blame` /bleɪm/                ([Neutral] せいにする、責める)  Don't blame me for your mistakes.
+    - `blameless` /ˈbleɪmləs/       ([Neutral] 責められるべきでない)She was blameless in the incident.
+    - `blameworthy` /ˈbleɪmwɜːrði/  ([Formal] 責められるべき)       His actions were clearly blameworthy.
+  - `criticize` /ˈkrɪtɪsaɪz/        ([Neutral] 非難する、批判)      She criticized his poor performance.
+    - `criticism` /ˈkrɪtɪsɪzəm/     ([Neutral] 批判、非難)          The criticism was harsh but fair.
+    - `critical` /ˈkrɪtɪkəl/        ([Neutral] 批判的な、重要な)    He was critical of the new policy.
+    - `critic` /ˈkrɪtɪk/            ([Neutral] 批評家、批判者)      The film critic gave it a bad review.
+    - `critique` /krɪˈtiːk/         ([Formal] 評論、批評)           The art critique was thoughtful and detailed.
+  - `accuse` /əˈkjuːz/              ([Neutral] 非難する、告発する)  She accused him of lying.
+    - `accusation` /ˌækjuˈzeɪʃən/   ([Neutral] 告発、非難)          The accusation was unfounded.
+    - `accuser` /əˈkjuːzər/         ([Neutral] 告発者)              The accuser testified in court.
+    - `accusatory` /əˈkjuːzətɔːri/  ([Formal] 非難するような)       His accusatory tone upset her.
+  - `scold` /skoʊld/                ([Neutral] しかる、叱責する)    The mother scolded her naughty child.
+    - `scolding` /ˈskoʊldɪŋ/        ([Neutral] 叱責、お小言)        He received a severe scolding.
+  - `condemn` /kənˈdem/             ([Formal] 非難する、刑宣告)     The court condemned his actions.
+    - `condemnation` /ˌkɑːndemˈneɪʃən/ ([Formal] 激しい非難)        The condemnation was unanimous.
+  - `blast` /blæst/                 ([Casual] 激しく非難する)       The media blasted the politician.
+  - `slam` /slæm/                   ([Casual] こき下ろす、酷評する) Critics slammed the new movie.
+  - `denounce` /dɪˈnaʊns/           ([Formal] 公然と非難する)       The activist denounced the government's policy.
+    - `denunciation` /dɪˌnʌnsiˈeɪʃən/ ([Formal] 糾弾、告発)         His denunciation was passionate.
+  - `reprimand` /ˈreprɪmænd/        ([Formal] 叱責する)             The boss reprimanded him for being late.
+  - `reproach` /rɪˈproʊtʃ/          ([Formal] 非難する、恥辱)       She reproached him for his selfishness.
+    - `reproachful` /rɪˈproʊtʃfəl/  ([Formal] 非難がましい)         He gave her a reproachful look.
+    - `irreproachable` /ˌɪrɪˈproʊtʃəbəl/ ([Formal] 非の打ち所のない) Her conduct was irreproachable.
+  - `rebuke` /rɪˈbjuːk/             ([Formal] 叱責する、非難する)   The teacher rebuked the student for cheating.
+  - `censure` /ˈsenʃər/             ([Formal] 激しく非難する)       The senator was censured for misconduct.
+  - `chastise` /ˈtʃæstaɪz/          ([Formal] 厳しく非難する)       The coach chastised the team for poor performance.
+    - `chastisement` /ˈtʃæstaɪzmənt/ ([Formal] 懲戒、叱責)          The chastisement was swift and severe.
+  - `lash` /læʃ/                    ([Neutral] 激しく非難する)      The senator lashed out at his critics.
+    - `lashing` /ˈlæʃɪŋ/            ([Neutral] 激しい非難)          He received a verbal lashing.
+  - `berate` /bɪˈreɪt/              ([Formal] 激しく叱る)           She berated him for his carelessness.
+  - `upbraid` /ʌpˈbreɪd/            ([Writing] 叱責する、非難する)  He upbraided them for their negligence.
+  - `castigate` /ˈkæstɪɡeɪt/        ([Writing] 厳しく批判する)      The editorial castigated the government.
+    - `castigation` /ˌkæstɪˈɡeɪʃən/ ([Writing] 厳しい批判)          The castigation was deserved.
+  - `lambaste` /læmˈbeɪst/          ([Casual] 激しく非難する)       The coach lambasted the referee's decision.
+  - `excoriate` /ɪkˈskɔːrieɪt/      ([Writing] 痛烈に批判する)      The review excoriated the author.
+    - `excoriation` /ɪkˌskɔːriˈeɪʃən/ ([Writing] 痛烈な批判)        His excoriation was brutal.
+  - `assail` /əˈseɪl/               ([Writing] 激しく非難する)      Critics assailed the new policy.
+
+### 侮辱する
+- ✅ `insult` /ɪnˈsʌlt/             ([Neutral] 侮辱する)            Don't insult his intelligence.
+    - `insulting` /ɪnˈsʌltɪŋ/       ([Neutral] 侮辱的な)            His insulting remarks hurt her feelings.
 
 ### 軽視する
-- `disparage` /dɪˈspærɪdʒ/          ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
-  - `disparagement` /dɪˈspærɪdʒmənt/ ([Formal] 軽視、中傷)          The disparagement was uncalled for.
-- `mock` /mɑːk/                     ([Neutral] あざける、まねる)    The children mocked his accent.
-  - `mockery` /ˈmɑːkəri/            ([Neutral] あざけり、物まね)    His mockery was cruel and unnecessary.
-- `taunt` /tɔːnt/                   ([Neutral] あざける、ののしる)  The bullies taunted the younger kids.
+- ✅ `dismiss` /dɪsˈmɪs/            ([Neutral] 軽視する、退ける)    She dismissed his concerns.
+    - `dismissive` /dɪsˈmɪsɪv/      ([Neutral] 軽視的な)            His dismissive attitude was rude.
+    - `dismissal` /dɪsˈmɪsəl/       ([Neutral] 解雇、退け)          His dismissal was unfair.
+  - `slight` /slaɪt/                ([Neutral] 軽視する、無視する)  She felt slighted by his comments.
+    - `slighting` /ˈslaɪtɪŋ/        ([Neutral] 軽視的な)            His slighting remarks were uncalled for.
+
+### 軽蔑する
+- `despise` /dɪˈspaɪz/              ([Neutral] 軽蔑する)            He despises dishonesty.
+  - `despicable` /dɪˈspɪkəbəl/      ([Neutral] 軽蔑すべき)          His behavior was despicable.
+- `contempt` /kənˈtempt/            ([Formal] 軽蔑、侮辱)           She looked at him with contempt.
+  - `contemptuous` /kənˈtemptʃuəs/  ([Formal] 軽蔑的な)             His contemptuous smile angered her.
+  - `contemptible` /kənˈtemptəbəl/  ([Formal] 軽蔑すべき)           His contemptible actions shocked everyone.
+- `scorn` /skɔːrn/                  ([Formal] 軽蔑する)             She scorned his feeble excuses.
+  - `scornful` /ˈskɔːrnfəl/         ([Formal] 軽蔑的な)             He gave her a scornful look.
+
+### 馬鹿にする
+  - `mock` /mɑːk/                   ([Neutral] あざける、まねる)    The children mocked his accent.
+    - `mockery` /ˈmɑːkəri/          ([Neutral] あざけり、物まね)    His mockery was cruel and unnecessary.
+- `taunt` /tɔːnt/                   ([Neutral] あざける、ののしる)  The bullies taunted the younger kids.  
 - `jeer` /dʒɪr/                     ([Neutral] ヤジを飛ばす)        The crowd jeered at the opposing team.
+- `ridicule` /ˈrɪdɪkjuːl/           ([Neutral] あざ笑う、嘲笑する)  Don't ridicule his efforts.
+  - `ridiculous` /rɪˈdɪkjələs/      ([Neutral] ばかげた)            That's a ridiculous idea.
 - `deride` /dɪˈraɪd/                ([Formal] ばかにする、嘲笑)     Critics derided his latest work.
   - `derision` /dɪˈrɪʒən/           ([Formal] 嘲笑、あざけり)       His proposal was met with derision.
+  - `derisive` /dɪˈraɪsɪv/          ([Formal] 嘲笑的な)             She made a derisive comment.
+- `disdain` /dɪsˈdeɪn/              ([Formal] 軽蔑する、見下す)    He disdained their offer.
+  - `disdainful` /dɪsˈdeɪnfəl/      ([Formal] 軽蔑的な)             Her disdainful attitude was obvious.
+- `disparage` /dɪˈspærɪdʒ/          ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
+  - `disparagement` /dɪˈspærɪdʒmənt/ ([Formal] 軽視、中傷)          The disparagement was uncalled for.
+  - `disparaging` /dɪˈspærɪdʒɪŋ/    ([Formal] けなすような)         His disparaging comments were hurtful.
+- `underestimate` /ˌʌndərˈestɪmeɪt/ ([Neutral] 過小評価する)        Don't underestimate her abilities.
+  - `underestimation` /ˌʌndərˌestɪˈmeɪʃən/ ([Neutral] 過小評価)    The underestimation was costly.
+- `humiliate` /hjuˈmɪlieɪt/         ([Neutral] 屈辱を与える)        She was humiliated by his remarks.
+  - `humiliation` /hjuˌmɪliˈeɪʃən/  ([Neutral] 屈辱、恥)            The humiliation was unbearable.
+  - `humiliating` /hjuˈmɪlieɪtɪŋ/   ([Neutral] 屈辱的な)            It was a humiliating defeat.
+- `sneer` /snɪr/                    ([Neutral] あざ笑う、冷笑する)  He sneered at their attempts.
+  - `sneering` /ˈsnɪrɪŋ/            ([Neutral] 冷笑的な)            His sneering tone was offensive.
+- `degrade` /dɪˈɡreɪd/              ([Formal] 品位を落とす)         Don't degrade yourself like that.
+  - `degradation` /ˌdeɡrəˈdeɪʃən/   ([Formal] 品位低下、劣化)       The degradation was shocking.
+  - `degrading` /dɪˈɡreɪdɪŋ/        ([Formal] 品位を落とす)         The work was degrading.
+- `snub` /snʌb/                     ([Neutral] 冷たくあしらう)      She snubbed him at the party.
+  - `snubbing` /ˈsnʌbɪŋ/            ([Neutral] 冷遇)                His snubbing of the proposal was obvious.
+- `belittle` /bɪˈlɪtəl/             ([Neutral] 軽んじる、見くびる)  Don't belittle her achievements.
+  - `belittling` /bɪˈlɪtəlɪŋ/       ([Neutral] 軽んじる)            His belittling comments were cruel.
+- `demean` /dɪˈmiːn/                ([Formal] 品位を下げる)         Don't demean yourself that way.
+  - `demeaning` /dɪˈmiːnɪŋ/         ([Formal] 品位を下げる)         The treatment was demeaning.
+- `vilify` /ˈvɪlɪfaɪ/               ([Writing] 中傷する、けなす)    The press vilified the celebrity.
+  - `vilification` /ˌvɪlɪfɪˈkeɪʃən/ ([Writing] 中傷、悪口)          The vilification was unjustified.
+- `revile` /rɪˈvaɪl/                ([Writing] 罵倒する、悪口を言う) They reviled him as a traitor.
+- `scoff` /skɔːf/                   ([Neutral] あざ笑う、嘲笑する)  She scoffed at his suggestion.
+  - `scoffing` /ˈskɔːfɪŋ/           ([Neutral] 嘲笑)                His scoffing was inappropriate.
 
 - `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
 - `praise` /preɪz/                   ([Neutral] 称賛する、褒める)   She praised him for his hard work.

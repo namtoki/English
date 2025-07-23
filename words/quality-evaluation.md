@@ -130,3 +130,8 @@ This category contains words for judging quality, making assessments, and expres
   - `pronounce` /prəˈnaʊns/          ([Neutral] 発音する、宣言する)  How do you pronounce this word?
 - `discard` /dɪˈskɑːd/               ([Neutral] 捨てる、廃棄する)    Discard the old newspapers.
 - `ruined` /ˈruːɪnd/                  ([Neutral] 台無しになった)      The picnic was ruined by rain.
+
+
+- `fault` /fɔːlt/                   ([Neutral] 過失を見つける)      She always finds fault with everything.
+  - `faulty` /ˈfɔːlti/              ([Neutral] 欠陥のある)          The faulty wiring caused a fire.
+  - `faultless` /ˈfɔːltləs/         ([Neutral] 完璧な、非の打ち所のない) Her performance was faultless.
