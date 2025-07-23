@@ -97,27 +97,34 @@ This category contains words about speaking, suggesting, hinting, and expressing
     - `excoriation` /ɪkˌskɔːriˈeɪʃən/ ([Writing] 痛烈な批判)        His excoriation was brutal.
   - `assail` /əˈseɪl/               ([Writing] 激しく非難する)      Critics assailed the new policy.
 
-### 侮辱する
-- ✅ `insult` /ɪnˈsʌlt/             ([Neutral] 侮辱する)            Don't insult his intelligence.
-    - `insulting` /ɪnˈsʌltɪŋ/       ([Neutral] 侮辱的な)            His insulting remarks hurt her feelings.
-
 ### 軽視する
 - ✅ `dismiss` /dɪsˈmɪs/            ([Neutral] 軽視する、退ける)    She dismissed his concerns.
     - `dismissive` /dɪsˈmɪsɪv/      ([Neutral] 軽視的な)            His dismissive attitude was rude.
     - `dismissal` /dɪsˈmɪsəl/       ([Neutral] 解雇、退け)          His dismissal was unfair.
   - `slight` /slaɪt/                ([Neutral] 軽視する、無視する)  She felt slighted by his comments.
     - `slighting` /ˈslaɪtɪŋ/        ([Neutral] 軽視的な)            His slighting remarks were uncalled for.
+  - `underestimate` /ˌʌndərˈestɪmeɪt/ ([Neutral] 過小評価する)      Don't underestimate her abilities.
+    - `underestimation` /ˌʌndərˌestɪˈmeɪʃən/ ([Neutral] 過小評価)   The underestimation was costly.
+  - `disparage` /dɪˈspærɪdʒ/        ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
+    - `disparagement` /dɪˈspærɪdʒmənt/ ([Formal] 軽視、中傷)        The disparagement was uncalled for.
+    - `disparaging` /dɪˈspærɪdʒɪŋ/  ([Formal] けなすような)         His disparaging comments were hurtful.
+  - `belittle` /bɪˈlɪtəl/           ([Neutral] 軽んじる、見くびる)  Don't belittle her achievements.
+    - `belittling` /bɪˈlɪtəlɪŋ/     ([Neutral] 軽んじる)            His belittling comments were cruel.
 
 ### 軽蔑する
-- `despise` /dɪˈspaɪz/              ([Neutral] 軽蔑する)            He despises dishonesty.
-  - `despicable` /dɪˈspɪkəbəl/      ([Neutral] 軽蔑すべき)          His behavior was despicable.
-- `contempt` /kənˈtempt/            ([Formal] 軽蔑、侮辱)           She looked at him with contempt.
-  - `contemptuous` /kənˈtemptʃuəs/  ([Formal] 軽蔑的な)             His contemptuous smile angered her.
-  - `contemptible` /kənˈtemptəbəl/  ([Formal] 軽蔑すべき)           His contemptible actions shocked everyone.
-- `scorn` /skɔːrn/                  ([Formal] 軽蔑する)             She scorned his feeble excuses.
-  - `scornful` /ˈskɔːrnfəl/         ([Formal] 軽蔑的な)             He gave her a scornful look.
+- ✅ `despise` /dɪˈspaɪz/           ([Neutral] 軽蔑する)            He despises dishonesty.
+    - `despicable` /dɪˈspɪkəbəl/    ([Neutral] 軽蔑すべき)          His behavior was despicable.
+  - `contempt` /kənˈtempt/          ([Formal] 軽蔑、侮辱)           She looked at him with contempt.
+    - `contemptuous` /kənˈtemptʃuəs/([Formal] 軽蔑的な)             His contemptuous smile angered her.
+    - `contemptible` /kənˈtemptəbəl/([Formal] 軽蔑すべき)           His contemptible actions shocked everyone.
+  - `scorn` /skɔːrn/                ([Formal] 軽蔑する)             She scorned his feeble excuses.
+    - `scornful` /ˈskɔːrnfəl/       ([Formal] 軽蔑的な)             He gave her a scornful look.
+  - `disdain` /dɪsˈdeɪn/            ([Formal] 軽蔑する、見下す)    He disdained their offer.
+    - `disdainful` /dɪsˈdeɪnfəl/    ([Formal] 軽蔑的な)             Her disdainful attitude was obvious.
 
-### 馬鹿にする
+### 侮辱/馬鹿にする
+- ✅ `insult` /ɪnˈsʌlt/             ([Neutral] 侮辱する)            Don't insult his intelligence.
+    - `insulting` /ɪnˈsʌltɪŋ/       ([Neutral] 侮辱的な)            His insulting remarks hurt her feelings.
   - `mock` /mɑːk/                   ([Neutral] あざける、まねる)    The children mocked his accent.
     - `mockery` /ˈmɑːkəri/          ([Neutral] あざけり、物まね)    His mockery was cruel and unnecessary.
 - `taunt` /tɔːnt/                   ([Neutral] あざける、ののしる)  The bullies taunted the younger kids.  
@@ -127,32 +134,25 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - `deride` /dɪˈraɪd/                ([Formal] ばかにする、嘲笑)     Critics derided his latest work.
   - `derision` /dɪˈrɪʒən/           ([Formal] 嘲笑、あざけり)       His proposal was met with derision.
   - `derisive` /dɪˈraɪsɪv/          ([Formal] 嘲笑的な)             She made a derisive comment.
-- `disdain` /dɪsˈdeɪn/              ([Formal] 軽蔑する、見下す)    He disdained their offer.
-  - `disdainful` /dɪsˈdeɪnfəl/      ([Formal] 軽蔑的な)             Her disdainful attitude was obvious.
-- `disparage` /dɪˈspærɪdʒ/          ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
-  - `disparagement` /dɪˈspærɪdʒmənt/ ([Formal] 軽視、中傷)          The disparagement was uncalled for.
-  - `disparaging` /dɪˈspærɪdʒɪŋ/    ([Formal] けなすような)         His disparaging comments were hurtful.
-- `underestimate` /ˌʌndərˈestɪmeɪt/ ([Neutral] 過小評価する)        Don't underestimate her abilities.
-  - `underestimation` /ˌʌndərˌestɪˈmeɪʃən/ ([Neutral] 過小評価)    The underestimation was costly.
-- `humiliate` /hjuˈmɪlieɪt/         ([Neutral] 屈辱を与える)        She was humiliated by his remarks.
-  - `humiliation` /hjuˌmɪliˈeɪʃən/  ([Neutral] 屈辱、恥)            The humiliation was unbearable.
-  - `humiliating` /hjuˈmɪlieɪtɪŋ/   ([Neutral] 屈辱的な)            It was a humiliating defeat.
 - `sneer` /snɪr/                    ([Neutral] あざ笑う、冷笑する)  He sneered at their attempts.
   - `sneering` /ˈsnɪrɪŋ/            ([Neutral] 冷笑的な)            His sneering tone was offensive.
-- `degrade` /dɪˈɡreɪd/              ([Formal] 品位を落とす)         Don't degrade yourself like that.
-  - `degradation` /ˌdeɡrəˈdeɪʃən/   ([Formal] 品位低下、劣化)       The degradation was shocking.
-  - `degrading` /dɪˈɡreɪdɪŋ/        ([Formal] 品位を落とす)         The work was degrading.
 - `snub` /snʌb/                     ([Neutral] 冷たくあしらう)      She snubbed him at the party.
   - `snubbing` /ˈsnʌbɪŋ/            ([Neutral] 冷遇)                His snubbing of the proposal was obvious.
-- `belittle` /bɪˈlɪtəl/             ([Neutral] 軽んじる、見くびる)  Don't belittle her achievements.
-  - `belittling` /bɪˈlɪtəlɪŋ/       ([Neutral] 軽んじる)            His belittling comments were cruel.
-- `demean` /dɪˈmiːn/                ([Formal] 品位を下げる)         Don't demean yourself that way.
-  - `demeaning` /dɪˈmiːnɪŋ/         ([Formal] 品位を下げる)         The treatment was demeaning.
 - `vilify` /ˈvɪlɪfaɪ/               ([Writing] 中傷する、けなす)    The press vilified the celebrity.
   - `vilification` /ˌvɪlɪfɪˈkeɪʃən/ ([Writing] 中傷、悪口)          The vilification was unjustified.
 - `revile` /rɪˈvaɪl/                ([Writing] 罵倒する、悪口を言う) They reviled him as a traitor.
 - `scoff` /skɔːf/                   ([Neutral] あざ笑う、嘲笑する)  She scoffed at his suggestion.
   - `scoffing` /ˈskɔːfɪŋ/           ([Neutral] 嘲笑)                His scoffing was inappropriate.
+
+
+- `humiliate` /hjuˈmɪlieɪt/         ([Neutral] 屈辱を与える)        She was humiliated by his remarks.
+  - `humiliation` /hjuˌmɪliˈeɪʃən/  ([Neutral] 屈辱、恥)            The humiliation was unbearable.
+  - `humiliating` /hjuˈmɪlieɪtɪŋ/   ([Neutral] 屈辱的な)            It was a humiliating defeat.
+- `degrade` /dɪˈɡreɪd/              ([Formal] 品位を落とす)         Don't degrade yourself like that.
+  - `degradation` /ˌdeɡrəˈdeɪʃən/   ([Formal] 品位低下、劣化)       The degradation was shocking.
+  - `degrading` /dɪˈɡreɪdɪŋ/        ([Formal] 品位を落とす)         The work was degrading.
+- `demean` /dɪˈmiːn/                ([Formal] 品位を下げる)         Don't demean yourself that way.
+  - `demeaning` /dɪˈmiːnɪŋ/         ([Formal] 品位を下げる)         The treatment was demeaning.
 
 - `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
 - `praise` /preɪz/                   ([Neutral] 称賛する、褒める)   She praised him for his hard work.
