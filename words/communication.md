@@ -4,17 +4,39 @@ This category contains words about speaking, suggesting, hinting, and expressing
 
 ## Words
 
-### 示唆する
+### 提案する
 - ✅ `suggest` /səˈdʒest/           ([Neutral] 提案する、暗示する)  His tone suggested he was angry.
     - `suggestion` /səˈdʒestʃən/    ([Neutral] 提案、暗示)          Do you have any suggestions?
     - `suggestive` /səˈdʒestɪv/     ([Writing] 連想させる、示唆的)  The painting has a suggestive quality.
+
+### 暗示する
   - `imply` /ɪmˈplaɪ/               ([Formal] 暗示する、含む)       What are you trying to imply?
     - `implicit` /ɪmˈplɪsɪt/        ([Writing] 暗黙の、潜在的な)    There was an implicit understanding between them.
     - `implication` /ˌɪmplɪˈkeɪʃən/ ([Writing] 含意、含み)          The implication of his words was clear.
+  - `connote` /kəˈnoʊt/              ([Writing] 含意する、暗示する)  The word connotes negative feelings.
+    - `connotation` /ˌkɑːnəˈteɪʃən/   ([Writing] 含意、ニュアンス)    The word has negative connotations.
+  - `hint` /hɪnt/                   ([Neutral] ヒント、暗示)        Can you give me a hint?
+
+### 明示する
   - `indicate` /ˈɪndɪkeɪt/          ([Formal] 示す、指し示す)       The data indicates a positive trend.
     - `indication` /ˌɪndɪˈkeɪʃən/   ([Formal] 兆候、指示)           There's no indication of improvement.
     - `indicator` /ˈɪndɪkeɪtə/      ([Formal] 指標、表示器)         GDP is an important economic indicator.
-  - `hint` /hɪnt/                   ([Neutral] ヒント、暗示)        Can you give me a hint?
+  - `denote` /dɪˈnoʊt/               ([Formal] 示す、意味する)       The red light denotes danger.
+    - `denotation` /ˌdiːnoʊˈteɪʃən/  ([Writing] 表示、明示的意味)    The denotation of the word is clear.
+  - `signify` /ˈsɪɡnɪfaɪ/            ([Formal] 意味する、示す)       What does this symbol signify?
+    - `significance` /sɪɡˈnɪfɪkəns/   ([Neutral] 重要性、意味)        The significance of the discovery is huge.
+    - `significant` /sɪɡˈnɪfɪkənt/    ([Neutral] 重要な、意味深い)    There was a significant improvement.
+  - `designate` /ˈdezɪɡneɪt/         ([Formal] 指定する、示す)       The area was designated as a park.
+    - `designation` /ˌdezɪɡˈneɪʃən/   ([Formal] 指定、名称)           His designation is senior manager.
+  - `specify` /ˈspesɪfaɪ/            ([Formal] 明記する、特定する)   Please specify your requirements.
+    - `specification` /ˌspesɪfɪˈkeɪʃən/ ([Formal] 仕様、明細)         The specifications are detailed.
+    - `specific` /spəˈsɪfɪk/          ([Neutral] 特定の、明確な)      Be more specific about what you need.
+
+### 伝える
+  - `convey` /kənˈveɪ/               ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
+    - `conveyance` /kənˈveɪəns/       ([Writing] 伝達、運搬)          The conveyance of information was swift.
+
+### ほのめかす
   - `allude` /əˈluːd/               ([Writing] ほのめかす)          He alluded to past problems.
     - `allusion` /əˈluːʒən/         ([Writing] ほのめかし)          The book contains many literary allusions.
   - `insinuate` /ɪnˈsɪnjueɪt/       ([Formal] ほのめかす)           What are you trying to insinuate?
@@ -205,3 +227,43 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - `citation` /saɪˈteɪʃən/            ([Formal] 表彰、引用)        The officer received a citation for bravery.
 - `compliment` /ˈkɑːmpləmənt/        ([Neutral] 賛辞、おせじ)     She gave him a sincere compliment.
   - `complimentary` /ˌkɑːmpləˈmentəri/ ([Formal] 賞賛の、無料の)  The review was complimentary about her performance.
+
+### 暴露する・明かす
+- `divulge` /daɪˈvʌldʒ/             ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
+  - `divulgence` /daɪˈvʌldʒəns/     ([Writing] 暴露、漏洩)          The divulgence of secrets was forbidden.
+- `reveal` /rɪˈviːl/               ([Neutral] 明らかにする)        She revealed her true feelings.
+  - `revelation` /ˌrevəˈleɪʃən/     ([Neutral] 暴露、啓示)          The revelation shocked everyone.
+  - `revealing` /rɪˈviːlɪŋ/         ([Neutral] 明らかにする)        Her comments were very revealing.
+- `disclose` /dɪsˈkloʊz/            ([Formal] 開示する、明らかにする)  The company disclosed its financial results.
+  - `disclosure` /dɪsˈkloʊʒər/       ([Formal] 開示、暴露)          Full disclosure is required by law.
+- `expose` /ɪkˈspoʊz/               ([Neutral] 暴露する、さらす)      The scandal exposed corruption.
+  - `exposure` /ɪkˈspoʊʒər/          ([Neutral] 暴露、露出)          The exposure of fraud led to arrests.
+- `confess` /kənˈfes/               ([Neutral] 告白する、白状する)    He confessed his mistake.
+  - `confession` /kənˈfeʃən/        ([Neutral] 告白、自白)          Her confession surprised everyone.
+- `confide` /kənˈfaɪd/              ([Neutral] 打ち明ける、信頼して話す) She confided in her best friend.
+  - `confidant` /ˈkɑːnfɪdænt/       ([Neutral] 親友、信頼できる人)    He was her trusted confidant.
+  - `confidence` /ˈkɑːnfɪdəns/      ([Neutral] 信頼、自信)          She spoke in confidence.
+  - `confidential` /ˌkɑːnfɪˈdenʃəl/  ([Formal] 機密の)              The information is confidential.
+- `leak` /liːk/                    ([Neutral] 漏らす、漏れる)      Someone leaked the information.
+  - `leakage` /ˈliːkɪdʒ/            ([Neutral] 漏洩、漏れ)          The leakage of data was serious.
+- `betray` /bɪˈtreɪ/               ([Neutral] 裏切る、漏らす)      He betrayed their trust.
+  - `betrayal` /bɪˈtreɪəl/          ([Neutral] 裏切り)              The betrayal hurt deeply.
+- `unveil` /ʌnˈveɪl/               ([Formal] 明らかにする、発表する)  They unveiled the new product.
+  - `unveiling` /ʌnˈveɪlɪŋ/         ([Formal] 発表、除幕式)        The unveiling ceremony was grand.
+- `uncover` /ʌnˈkʌvər/             ([Neutral] 暴く、発見する)       The investigation uncovered fraud.
+- `spill` /spɪl/                   ([Casual] こぼす、漏らす)       She spilled the beans about the surprise.
+
+### 表現する・例証する
+- `represent` /ˌreprɪˈzent/         ([Neutral] 代表する、表す)      The flag represents our nation.
+  - `representation` /ˌreprɪzenˈteɪʃən/ ([Neutral] 表現、代表)      Her representation of the character was perfect.
+  - `representative` /ˌreprɪˈzentətɪv/ ([Neutral] 代表的な、代表者)  He is a representative of the company.
+- `symbolize` /ˈsɪmbəlaɪz/          ([Neutral] 象徴する)            The dove symbolizes peace.
+  - `symbol` /ˈsɪmbəl/              ([Neutral] 象徴、記号)          The heart is a symbol of love.
+  - `symbolic` /sɪmˈbɒlɪk/          ([Neutral] 象徴的な)            The gesture was purely symbolic.
+  - `symbolism` /ˈsɪmbəlɪzəm/       ([Writing] 象徴主義、象徴性)    The novel is rich in symbolism.
+- `illustrate` /ˈɪləstreɪt/         ([Neutral] 説明する、例証する)  This example illustrates my point.
+  - `illustration` /ˌɪləˈstreɪʃən/  ([Neutral] 説明、例証、挿絵)    The book contains many illustrations.
+  - `illustrative` /ɪˈlʌstrətɪv/    ([Formal] 説明的な、例証的な)   These cases are illustrative of the problem.
+- `demonstrate` /ˈdemənstreɪt/       ([Neutral] 実証する、示す)      He demonstrated his skill.
+  - `demonstration` /ˌdemənˈstreɪʃən/ ([Neutral] 実演、証明)        The demonstration was convincing.
+  - `demonstrative` /dɪˈmɒnstrətɪv/ ([Formal] 感情を表に出す)       She's not very demonstrative.

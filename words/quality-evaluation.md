@@ -41,6 +41,19 @@ This category contains words for judging quality, making assessments, and expres
 - `pure` /pjʊə/                     ([Neutral] 純粋な、清らかな)    The mountain air is pure and fresh.
   - `purity` /ˈpjʊərəti/            ([Neutral] 純粋さ、純度)        The purity of the water is tested daily.
   - `purify` /ˈpjʊərɪfaɪ/           ([Neutral] 浄化する)            This filter purifies the water.
+- `epitomize` /ɪˈpɪtəmaɪz/         ([Writing] 典型となる、体現する)  She epitomizes grace and elegance.
+  - `epitome` /ɪˈpɪtəmi/           ([Writing] 典型、縮図)          He is the epitome of kindness.
+- `exemplify` /ɪɡˈzemplɪfaɪ/       ([Writing] 例示する、実証する)    His actions exemplify true courage.
+- `embody` /ɪmˈbɒdi/                ([Formal] 体現する、具現化する)   She embodies the spirit of the team.
+- `personify` /pəˈsɒnɪfaɪ/          ([Writing] 擬人化する、体現する)  He personifies success.
+  - `personification` /pəˌsɒnɪfɪˈkeɪʃən/ ([Writing] 擬人化、化身)   Death is often a personification in literature.
+- `typify` /ˈtɪpɪfaɪ/               ([Formal] 典型となる、代表する)   This case typifies the problem.
+  - `typical` /ˈtɪpɪkəl/            ([Neutral] 典型的な、特有の)      That's typical of him.
+  - `typically` /ˈtɪpɪkli/          ([Neutral] 典型的に、通常)        He typically arrives late.
+- `characterize` /ˈkærəktəraɪz/     ([Formal] 特徴づける、描写する)   Kindness characterizes her approach.
+  - `characteristic` /ˌkærəktəˈrɪstɪk/ ([Neutral] 特徴、特性)       Patience is his main characteristic.
+- `encapsulate` /ɪnˈkæpsjʊleɪt/    ([Writing] 要約する、凝縮する)    This quote encapsulates his philosophy.
+  - `encapsulation` /ɪnˌkæpsjʊˈleɪʃən/ ([Writing] 要約、凝縮)      The encapsulation of complex ideas.
 
 ## Negative Evaluation
 - `wane` /weɪn/                     ([Neutral] 衰える)             Her enthusiasm waned rapidly.

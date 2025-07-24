@@ -71,3 +71,17 @@ This category contains military terms, conflict situations, and combat-related v
 - `insurrection` /ˌɪnsəˈrekʃən/     ([Writing] 暴動、反乱)          The insurrection was quickly suppressed.
 - `uprising` /ˈʌpraɪzɪŋ/            ([Neutral] 蜂起、暴動)          The uprising spread across the country.
 - `dissent` /dɪˈsent/               ([Formal] 異議を唱える)         Few dared to dissent from the decision.
+- `rift` /rɪft/                     ([Neutral] 亀裂、不和)          A rift developed between the two leaders.
+- `split` /splɪt/                   ([Neutral] 分裂、割れ目)        The party split over the issue.
+- `breach` /briːtʃ/                 ([Formal] 違反、裂け目)       The breach of contract was serious.
+- `divide` /dɪˈvaɪd/                ([Neutral] 分裂、分かれ目)      A deep divide exists between them.
+  - `division` /dɪˈvɪʒən/          ([Neutral] 分割、部門)          The division of labor was efficient.
+  - `divisive` /dɪˈvaɪsɪv/          ([Formal] 分裂を招く)          The issue was highly divisive.
+- `schism` /ˈsɪzəm/                ([Writing] 分裂、分派)        The church suffered a major schism.
+  - `schismatic` /sɪzˈmætɪk/       ([Writing] 分派的な)          The schismatic movement grew stronger.
+- `discord` /ˈdɪskɔːrd/              ([Formal] 不和、不協和音)      Discord arose among the team members.
+  - `discordant` /dɪsˈkɔːrdənt/     ([Formal] 不協和音な)          Their views were discordant.
+- `rupture` /ˈrʌptʃər/              ([Formal] 破裂、決裂)        The rupture in relations was permanent.
+- `fissure` /ˈfɪʃər/               ([Writing] 亀裂、裂け目)      A fissure appeared in the rock.
+- `cleft` /kleft/                   ([Writing] 裂け目、割れ目)      The cleft in the mountain was deep.
+- `chasm` /ˈkæzəm/                 ([Writing] 深い割れ目、隔たり)  A chasm exists between rich and poor.

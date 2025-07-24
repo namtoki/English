@@ -1084,7 +1084,6 @@ dislike	2	【動】嫌う 【名】嫌悪
 distance	2	【名】距離、隔り		
 distant	2	【形】遠い		
 district	2	【名】地区、地方		
-divide	2	【動】分ける、分かれる 【名】分割		
 done	2	【動】doの過去分詞形		
 double	2	【形】倍の、二重の 【名】倍 【動】倍にする、倍になる		
 doubt	2	【動】疑う、疑問に思う 【名】疑い		
@@ -1952,7 +1951,6 @@ complaint	3	【名】不平
 composition	3	【名】組み立て、組織、作曲、作文		
 concern	3	【動】関係する、心配する 【名】関心事、気づかい		
 conduct	3	【名】ふるまい 【動】指導する		
-confidence	3	【名】信頼、信用、自信		
 confirm	3	【動】確認する、承認する		
 connect	3	【動】結ぶ、連絡する		
 connection	3	【名】つながり、連結部		
@@ -2562,11 +2560,9 @@ sour	3	【形】すっぱい、不愉快な 【動】すっぱくなる、すっ
 southern	3	【形】南の、南方の		
 specialist	3	【名】専門家 【形】専門の		
 specially	3	【副】特に、ただそれだけのために		
-specific	3	【形】特定の、明確な 【名】限定されたもの		
 speedy	3	【形】速い、即時の		
 spice	3	【名】薬味 【動】香料を加える		
 spin	3	【動】回転する、（糸などを羊毛・綿などから）紡ぐ 【名】回転		
-split	3	【動】分割する、割れる 【名】割ること 【形】割れた		
 spy	3	【名】スパイ 【動】ひそかに見張る		
 squid	3	【名】イカ		
 stadium	3	【名】競技場		
@@ -2917,9 +2913,6 @@ concerning	4	【前】～に関して
 conclude	4	【動】結論を出す、結末をつける		
 conclusion	4	【名】結論、決定、結末		
 conference	4	【名】会議、協議会		
-confess	4	【動】告白する		
-confession	4	【名】白状、自白（書）		
-confident	4	【形】自信のある、大胆な、確信して		
 conflict	4	【動】対立する、矛盾する 【名】争い、不一致		
 congress	4	【名】議会、連邦議会、国会、会議、大会		
 consciousness	4	【名】意識、正気、自覚		
@@ -3515,8 +3508,6 @@ shocked	4	【形】ショックを受けて、憤慨して
 shortage	4	【名】不足、欠乏		
 shortly	4	【副】間もなく、簡潔に		
 sidewalk	4	【名】歩道		
-significant	4	【形】重要な、重大な		
-significantly	4	【副】意味ありげに、かなり、明確に		
 sin	4	【名】罪、罪悪 【動】罪を犯す		
 skier	4	【名】スキーヤー		
 skip	4	【動】スキップする、飛ばして進む 【名】軽く飛ぶこと、スキップ		
@@ -3828,7 +3819,6 @@ contemporary	5	【形】現代の、同時代の
 continuous	5	【形】連続的な		
 contribute	5	【動】寄付する、寄与する		
 convert	5	【動】変える、転向する		
-convey	5	【動】伝える、運ぶ		
 conviction	5	【名】信念、確信、説得、有罪判決		
 cooker	5	【名】炊事用具、調理器具		
 cope	5	【動】対処する、対抗する		
@@ -4390,7 +4380,6 @@ shorten	5	【動】短くする、縮める
 shovel	5	【動】シャベルですくう 【名】シャベル		
 shrink	5	【動】縮む、小さくなる、減少する		
 sightseeing	5	【名】観光、見物		
-significance	5	【名】意味、重要性		
 similarity	5	【名】類似、相似		
 similarly	5	【副】同様に、類似して		
 singular	5	【形】唯一の、単数の 【名】単数形		
@@ -4415,7 +4404,6 @@ soy	5	【名】大豆、しょうゆ
 soybean	5	【名】大豆		
 sparrow	5	【名】スズメ		
 specialize	5	【動】専門とする、特殊化する		
-specifically	5	【副】特に、明確に		
 spectator	5	【名】観客、見物人		
 sphere	5	【名】球、惑星		
 spicy	5	【形】薬味のきいた、香料を入れた		
@@ -4631,8 +4619,6 @@ beard	6	【名】あごひげ
 beater	6	【名】打つ道具、打つ人、かくはん器、泡だて器		
 beforehand	6	【副】あらかじめ		
 beneficial	6	【形】ためになる、有益な、助けになる		
-betray	6	【動】裏切る、（秘密などを）漏らす		
-betrayal	6	【名】裏切り、密告		
 bilingual	6	【形】2言語を自由に話せる、バイリンガルの		
 biography	6	【名】伝記		
 bitterness	6	【名】苦味、苦しみ		
@@ -4807,7 +4793,6 @@ diplomat	6	【名】外交官、外交家
 disability	6	【名】能力を欠くこと、無力、身体障害		
 disagreement	6	【名】意見の相違、不一致、不調和		
 disappointing	6	【形】失望させるような、つまらない		
-disclose	6	【動】暴露する、もらす		
 discrimination	6	【名】差別、区別		
 dishonest	6	【形】不正直な		
 distrust	6	【動】疑う、信頼しない 【名】不信		
@@ -5022,7 +5007,6 @@ lacking	6	【形】不足して 【前】～がなく、欠けていて
 lad	6	【名】少年、若者		
 landmine	6	【名】地雷		
 lasting	6	【形】長続きする、耐久力のある、永久の		
-leak	6	【名】漏れ口、漏れること 【動】漏れる		
 lest	6	【接】～しないように、～するといけないから		
 lever	6	【名】レバー、てこ 【動】てこで動かす		
 librarian	6	【名】図書館員、司書		
@@ -5287,7 +5271,6 @@ shit	6	【名】くだらないもの、くそ 【動】くそをする
 shiver	6	【動】身震いする、おののく、揺れる		
 shutter	6	【名】雨戸、シャッター 【動】よろい戸を閉める		
 sideways	6	【副】横を向いて、斜めに		
-signify	6	【動】示す、知らせる、表れである		
 simmer	6	【動】ぐつぐつ煮える、今にも爆発しそうな		
 simplicity	6	【名】単純、簡単、平易		
 simultaneously	6	【副】同時に、いっせいに		
@@ -5309,7 +5292,6 @@ spacecraft	6	【名】宇宙船
 spaceship	6	【名】宇宙船		
 span	6	【名】期間、全長 【動】（年・月などに）及ぶ、わたる		
 specialized	6	【形】特殊化した、分化した		
-specify	6	【動】明確に述べる、指定する		
 spectacular	6	【形】見事な、目を見張るような、壮大な 【名】超大作		
 speculation	6	【名】推量、熟考、投機		
 spinach	6	【名】ホウレンソウ		
@@ -5666,7 +5648,6 @@ concession	7	【名】譲歩、承認
 concise	7	【形】簡潔な		
 cone	7	【名】アイスクリームコーン、錘、円錐標識		
 confer	7	【動】与える、相談する		
-confidential	7	【形】極秘の、親展の		
 confirmation	7	【名】確認、確信、立証		
 conform	7	【動】従う、順応する、一致する		
 confrontation	7	【名】対決、直面		
@@ -6526,7 +6507,6 @@ borderline	8	【形】国境線上の、国境近くの、不明確な 【名】
 borrower	8	【名】借り主、借り手		
 botany	8	【名】植物学、一地方の植物、一植物の生態		
 brace	8	【名】締め金、補強材 【動】補強する、支える、奮い立たせる		
-breach	8	【名】違反、破棄、切り目、突破口 【動】破る		
 breakthrough	8	【名】打開、突破、前進		
 breakup	8	【名】分解、分裂、崩壊、仲違い、別離		
 breathtaking	8	【形】息をのむような、すごい		
@@ -6657,7 +6637,6 @@ depict	8	【動】表現する、描写する
 deprivation	8	【名】はく奪、貧困、喪失		
 descriptive	8	【形】記述的な、説明的な、叙述的な		
 deserved	8	【形】当然の、功罪に応じた、それだけの価値がある		
-designate	8	【動】指名する、指定する、指摘する 【形】指名された		
 designing	8	【形】計画的な、先見の明のある、腹黒い、ずるい 【名】設計		
 desktop	8	【形】卓上据え置き型の 【名】机の作業面、デスクトップコンピュータ		
 desperation	8	【名】自暴自棄、死にものぐるい		
@@ -6687,7 +6666,6 @@ disruption	8	【名】分裂、混乱、崩壊
 dissolution	8	【名】分解、解散、解除、解約		
 distraction	8	【名】気を散らすこと、放心、注意散漫、動転		
 diversion	8	【名】気晴らし、娯楽、排水路、わきへそらせること、転換、けん制		
-divided	8	【形】分けられた、分かれた		
 divinity	8	【名】神性、神々しさ、神		
 documentation	8	【名】必要書類の収集、利用、添付、保管		
 dodge	8	【動】素早く身をかわす、ごまかす 【名】巧妙な方策		
@@ -7556,10 +7534,8 @@ decree	9	【動】命じる 【名】法令、布告
 deduct	9	【動】差し引く、推論する、演繹する		
 deduction	9	【名】差し引き、控除、推論、演繹		
 deform	9	【動】変形させる、奇形にする		
-denote	9	【動】意味する、示す、名称である		
 deposition	9	【名】宣誓証言、堆積物		
 depot	9	【名】倉庫、バス車庫		
-designation	9	【名】指定、指示、称号		
 desirous	9	【形】望む		
 detain	9	【動】拘留する、引き留める		
 detection	9	【名】発見、探知、発覚、露見		
@@ -7578,7 +7554,6 @@ digit	9	【名】アラビア数字、桁
 dilute	9	【動】薄める 【形】薄い、あせた		
 disclosure	9	【名】発覚、暴露、公表		
 disconnect	9	【動】接続を断つ、分離する		
-discord	9	【名】不和、不一致 【動】不和である、一致しない		
 discouragement	9	【名】落胆、がっかりさせること		
 discourse	9	【名】会話、講演、論文 【動】話をする		
 discoverer	9	【名】発見者、創案者		
@@ -8144,7 +8119,6 @@ southeastern	9	【形】南東の
 southwestern	9	【形】南西の		
 sovereignty	9	【名】主権、統治権、君主であること、独立国		
 spank	9	【動】（罰として）たたく 【名】平手打ち		
-specification	9	【名】設計書、仕様書、明細事項		
 speck	9	【名】少量、しみ 【動】しみをつける、点在する		
 spectrum	9	【名】スペクトル、分布範囲、連続体		
 speculative	9	【形】思索的な、投機的な、危険な		
@@ -8258,7 +8232,6 @@ unprecedented	9	【形】前例のない
 unprepared	9	【形】用意ができていない、即席の		
 unrest	9	【名】不安、社会的動揺		
 unsold	9	【形】売れない、売れ残りの		
-unveil	9	【動】ベールをはずす、秘密を明かす		
 unwelcome	9	【形】歓迎されない、気にくわない		
 upland	9	【名】高地、高原地方 【形】高地の		
 uranium	9	【名】ウラン		
@@ -8473,7 +8446,6 @@ compression	10	【名】圧縮、要約
 concealment	10	【名】隠すこと、潜伏		
 concord	10	【名】一致、平和		
 concur	10	【動】同意見である、一致する、同時に起こる		
-confidentiality	10	【名】機密性（保持）		
 configuration	10	【名】形、星位、（コンピューター）機器の構成		
 conjunction	10	【名】結合、共同、接続詞		
 connector	10	【名】連結装置、連結作業者		
@@ -8490,7 +8462,6 @@ continuance	10	【名】継続、連続、続き
 convene	10	【動】集まる、召集する		
 converge	10	【動】集まる、集中する、ひとつにまとまる		
 convertible	10	【形】変換できる、コンバーチブル型の 【名】ほろ型自動車		
-conveyance	10	【名】輸送機関、運搬、伝導		
 convoy	10	【名】トラックなどの集団 【動】護送する		
 coral	10	【名】サンゴ		
 coronation	10	【名】戴冠式、即位		
@@ -9037,7 +9008,6 @@ revert	10	【動】戻る、再び始める
 reviewer	10	【名】批評家、再調査する人		
 revolutionize	10	【動】革命をもたらす、大革命を起こす		
 rhyme	10	【名】韻 【動】韻を踏む		
-rift	10	【名】切れ目、亀裂		
 rotary	10	【形】ロータリー型の、旋転できる 【名】環状交差点		
 royalist	10	【名】王政主義者、王党員 【形】王党派の		
 rubble	10	【名】粗石、破片、瓦礫		
@@ -9373,7 +9343,6 @@ centennial	11	【名】100周年 【形】100年目の、100年間の
 centerpiece	11	【名】目玉的存在、中央装飾品		
 chaplain	11	【名】礼拝堂つきの牧師、（刑務所の）教戒師、宗教儀式係		
 charred	11	【形】黒こげの		
-chasm	11	【名】隔たり、深い裂け目、とぎれ		
 chasten	11	【動】罰する、懲らしめる、感情を抑える		
 chide	11	【動】たしなめる、小言を言う		
 choreographer	11	【名】振付師		
@@ -9498,7 +9467,6 @@ disparate	11	【形】異種の、本質的に異なる
 disparity	11	【名】格差、不釣り合い、相違		
 disproportionate	11	【形】不釣り合いな		
 distraught	11	【形】取り乱した、狂気の		
-divulge	11	【動】暴露する、暴く		
 doctorate	11	【名】博士号		
 doe	11	【名】シカやヤギの雌		
 dogged	11	【形】根気強い、容易に屈しない、頑固な		
@@ -9972,7 +9940,6 @@ rover	11	【名】放浪者、さまよう人、気まぐれ屋
 rowdy	11	【形】乱暴な、騒々しい 【名】乱暴者		
 rue	11	【動】なければよかったと思う、悔いる		
 rueful	11	【形】痛ましい、悲しそうな		
-rupture	11	【名】破裂 【動】破裂させる、裂く		
 sag	11	【動】落ち込む、たるむ 【名】たるみ、落ち込み		
 salvage	11	【動】火災から財貨を救出する 【名】海難救助、財貨の救出		
 sanctity	11	【名】神聖さ、高潔		
@@ -10326,7 +10293,6 @@ confederation	12	【名】同盟、連合
 confetti	12	【名】紙ふぶき、キャンディー、ボンボン		
 confluence	12	【名】河川の合流、合流点、集合		
 congregate	12	【動】集まる、集合させる 【形】集団の		
-connotation	12	【名】含意、言外の意味		
 consecrate	12	【動】聖職に任命する、神聖にする、ささげる		
 conservatory	12	【名】温室、音楽学校		
 consignment	12	【名】委託、委託販売品、積送品		
@@ -10460,8 +10426,6 @@ enunciate	12	【動】明確に発音する・述べる
 environs	12	【名】近郊、周辺地域、環境		
 ephemeral	12	【形】短命の、はかない、名日限りの		
 epilepsy	12	【名】てんかん		
-epitome	12	【名】縮図、典型、権化		
-epitomize	12	【動】縮図的に示す、要約する		
 equestrian	12	【形】馬術の 【名】乗馬者		
 escapade	12	【名】いたずら、とっぴな行為、脱出		
 esophagus	12	【名】食道		
@@ -10498,7 +10462,6 @@ filth	12	【名】ゴミ、道徳的腐敗、堕落
 finery	12	【名】美しい服、はでやかなもの		
 fir	12	【名】モミ		
 fission	12	【名】分裂、分体 【動】核分裂する		
-fissure	12	【名】亀裂、割れ目 【動】割れ目が生じる		
 fitful	12	【形】断続的な、発作的な、気まぐれな		
 flabby	12	【形】（体が）たるんだ、気力のない		
 flail	12	【動】連打する、殻ざおで打つ、激しく揺れる 【名】殻ざお		
@@ -10896,7 +10859,6 @@ satchel	12	【名】学生カバン、小カバン
 saturation	12	【名】飽和状態、浸透、彩度、軍事力の集中		
 savvy	12	【形】物知りの、精通した 【名】知識		
 schematic	12	【形】概要の、図式的な 【名】図表		
-schism	12	【名】分裂、分派		
 scowl	12	【動】にらむ、顔をしかめる 【名】しかめっ面		
 scrabble	12	【動】かき回して捜す、ひっかく 【名】ひっかくこと、走り書き		
 scruffy	12	【形】だらしがない、むさ苦しい		
