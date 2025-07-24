@@ -106,4 +106,9 @@ This category contains words related to thinking, learning, understanding, and m
   - `revolve around` /rɪˈvɑːlv əˈraʊnd/ ([Neutral] ～を中心とする)        The story revolves around family.
   - `hinge on` /hɪndʒ ɑːn/             ([Neutral] ～次第である)          The decision hinges on the budget.
 
+
+- `recognition` /ˌrekəɡˈnɪʃən/       ([Formal] 承認、評価)         Her hard work finally received recognition.
+  - `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める) I didn't recognize him at first.
+  - `recognizable` /ˈrekəɡnaɪzəbəl/  ([Neutral] 認識できる)       The landmark is easily recognizable.
+
 <!-- Add vocabulary entries here using the format from format.md -->

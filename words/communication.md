@@ -186,6 +186,7 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - `demean` /dɪˈmiːn/                ([Formal] 品位を下げる)         Don't demean yourself that way.
   - `demeaning` /dɪˈmiːnɪŋ/         ([Formal] 品位を下げる)         The treatment was demeaning.
 
+## 褒める
 - `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
 - `praise` /preɪz/                   ([Neutral] 称賛する、褒める)   She praised him for his hard work.
   - `praiseworthy` /ˈpreɪzˌwɜːði/   ([Writing] 称賛に値する)       His praiseworthy efforts saved the company.
@@ -201,6 +202,17 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - `honor` /ˈɑːnər/                   ([Neutral] 名誉、光栄)         It's an honor to meet you.
   - `honorable` /ˈɑːnərəbəl/        ([Formal] 尊敬に値する)       He showed honorable conduct throughout.
   - `honorary` /ˈɑːnəreri/          ([Formal] 名誉の、肩書き)     She received an honorary degree.
+- `tribute` /ˈtrɪbjuːt/              ([Formal] 賛辞、感謝の印)     The concert was a tribute to his legacy.
+- `admiration` /ˌædməˈreɪʃən/        ([Neutral] 賞賛、感嘆)       His courage filled me with admiration.
+  - `admire` /ədˈmaɪər/              ([Neutral] 賞賛する、感嘆)   I admire your dedication to the cause.
+  - `admirable` /ˈædmərəbəl/         ([Neutral] 賞賛すべき)       Her admirable patience impressed everyone.
+  - `admirer` /ədˈmaɪərər/            ([Neutral] 崇拝者、ファン)   She has many admirers of her work.
+- `laurel` /ˈlɔːrəl/                 ([Writing] 月桂樹、栄誉)     He rested on his laurels after the victory.
+- `compliment` /ˈkɑːmpləmənt/        ([Neutral] 賛辞、おせじ)     She gave him a sincere compliment.
+  - `complimentary` /ˌkɑːmpləˈmentəri/ ([Formal] 賞賛の、無料の)  The review was complimentary about her performance.
+- `citation` /saɪˈteɪʃən/            ([Formal] 表彰、引用)        The officer received a citation for bravery.
+
+## 尊敬する
 - `respect` /rɪˈspekt/               ([Neutral] 尊敬、尊重)        I have great respect for her work.
   - `respectable` /rɪˈspektəbəl/    ([Neutral] りっぱな、まとも)  He comes from a respectable family.
   - `respectful` /rɪˈspektfəl/      ([Neutral] 礼儀正しい)        The students were respectful to their teacher.
@@ -209,34 +221,17 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - `esteem` /ɪˈstiːm/                 ([Formal] 重んじる、尊敬)     She is held in high esteem by colleagues.
 - `reverence` /ˈrevərəns/            ([Writing] 敬意、畏敬の念)    They showed reverence for the ancient temple.
   - `revere` /rɪˈvɪr/                ([Writing] あがめる)           Many people revere his memory.
-- `tribute` /ˈtrɪbjuːt/              ([Formal] 賛辞、感謝の印)     The concert was a tribute to his legacy.
 - `homage` /ˈhɑːmɪdʒ/                ([Writing] 敬意、主従関係)    The film pays homage to classic cinema.
 - `salute` /səˈluːt/                 ([Neutral] 敬礼、敬意表す)    The soldiers saluted their commanding officer.
-- `recognition` /ˌrekəɡˈnɪʃən/       ([Formal] 承認、評価)         Her hard work finally received recognition.
-  - `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める) I didn't recognize him at first.
-  - `recognizable` /ˈrekəɡnaɪzəbəl/  ([Neutral] 認識できる)       The landmark is easily recognizable.
+
+## 感謝する
 - `appreciation` /əˌpriːʃiˈeɪʃən/    ([Neutral] 感謝、正しい評価)  I want to express my appreciation for your help.
   - `appreciate` /əˈpriːʃieɪt/       ([Neutral] 感謝する、評価)   I appreciate your help with this project.
   - `appreciative` /əˈpriːʃətɪv/     ([Formal] 感謝している)      She was appreciative of their support.
-- `admiration` /ˌædməˈreɪʃən/        ([Neutral] 賞賛、感嘆)       His courage filled me with admiration.
-  - `admire` /ədˈmaɪər/              ([Neutral] 賞賛する、感嘆)   I admire your dedication to the cause.
-  - `admirable` /ˈædmərəbəl/         ([Neutral] 賞賛すべき)       Her admirable patience impressed everyone.
-  - `admirer` /ədˈmaɪərər/            ([Neutral] 崇拝者、ファン)   She has many admirers of her work.
+
+## 支持する
 - `endorsement` /ɪnˈdɔːrsmənt/       ([Formal] 支持、裏書)        The celebrity's endorsement boosted sales.
   - `endorse` /ɪnˈdɔːrs/             ([Formal] 支持する、裏書)    The senator endorsed the legislation.
-- `award` /əˈwɔːrd/                  ([Neutral] 賞、賞品)         She won the award for best actress.
-- `medal` /ˈmedəl/                   ([Neutral] メダル、勲章)     He earned a gold medal in swimming.
-- `prize` /praɪz/                    ([Neutral] 賞、賞品)         The Nobel Prize is highly prestigious.
-- `trophy` /ˈtroʊfi/                 ([Neutral] トロフィー)       The team proudly displayed their trophy.
-- `distinction` /dɪˈstɪŋkʃən/        ([Formal] 区別、優秀性)      She graduated with high distinction.
-  - `distinct` /dɪˈstɪŋkt/            ([Neutral] 異なった、目立つ) There's a distinct difference between them.
-  - `distinctive` /dɪˈstɪŋktɪv/       ([Neutral] 独特の)           The building has a distinctive architecture.
-  - `distinctly` /dɪˈstɪŋktli/        ([Neutral] はっきりと)       I distinctly remember what happened.
-  - `indistinct` /ˌɪndɪˈstɪŋkt/       ([Writing] 不明瞭な)         The voice on the phone was indistinct.
-- `laurel` /ˈlɔːrəl/                 ([Writing] 月桂樹、栄誉)     He rested on his laurels after the victory.
-- `citation` /saɪˈteɪʃən/            ([Formal] 表彰、引用)        The officer received a citation for bravery.
-- `compliment` /ˈkɑːmpləmənt/        ([Neutral] 賛辞、おせじ)     She gave him a sincere compliment.
-  - `complimentary` /ˌkɑːmpləˈmentəri/ ([Formal] 賞賛の、無料の)  The review was complimentary about her performance.
 
 ### 暴露する・明かす
 - `divulge` /daɪˈvʌldʒ/             ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
@@ -289,3 +284,11 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - `and things` /ænd θɪŋz/             ([Casual] とかいろいろ)           She bought shoes, bags, and things.
 - `or whatever` /ɔr wʌtˈɛvər/         ([Casual] とかなんでも)           Bring a book, magazine, or whatever.
 - `and all that jazz` /ænd ɔːl ðæt dʒæz/ ([Casual] そういうもの全部)   He talks about success, money, and all that jazz.
+
+
+- `distinction` /dɪˈstɪŋkʃən/        ([Formal] 区別、優秀性)      She graduated with high distinction.
+  - `distinct` /dɪˈstɪŋkt/            ([Neutral] 異なった、目立つ) There's a distinct difference between them.
+  - `distinctive` /dɪˈstɪŋktɪv/       ([Neutral] 独特の)           The building has a distinctive architecture.
+  - `distinctly` /dɪˈstɪŋktli/        ([Neutral] はっきりと)       I distinctly remember what happened.
+  - `indistinct` /ˌɪndɪˈstɪŋkt/       ([Writing] 不明瞭な)         The voice on the phone was indistinct.
+

@@ -90,3 +90,10 @@ This category contains medical vocabulary, health conditions, treatments, and bo
   - `dose` /dəʊs/                   ([Medical] 服用量、一回量)      Take one dose three times daily.
 - `prognosis` /prɒɡˈnəʊsɪs/        ([Medical] 予後、見通し)        The patient's prognosis is good.
 - `exodic` /ɛkˈsɒdɪk/                ([Writing] 流出の)         The exodic nerve carries signals from the spine.
+- `genetic` /dʒəˈnetɪk/              ([Writing] 遺伝子の)      Genetic testing revealed the mutation.
+- `inborn` /ˈɪnbɔːrn/                ([Writing] 生来の)        He has an inborn sense of rhythm.
+- `congenital` /kənˈdʒenɪtəl/        ([Medical] 先天性の)      The baby has a congenital heart defect.
+- `innate` /ɪˈneɪt/                  ([Writing] 生得の)        Children have an innate ability to learn.
+
+- `hereditary` /həˈredɪtərɪ/          ([Neutral] 遺伝性の)      Hair color is hereditary.
+- `heredity` /hɪˈredɪtɪ/             ([Writing] 遺伝)          Gregor Mendel studied heredity in pea plants.

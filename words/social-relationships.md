@@ -171,4 +171,11 @@ This category contains words about family, friends, social interactions, and hum
   - `resonate with` /ˈrezəneɪt wɪð/ ([Neutral] 心に響く、共鳴する)  Her words resonate with the audience.
   - `identifiable` /aɪˌdentɪˈfaɪəbəl/ ([Formal] 識別できる、共感できる) The character is identifiable to readers.
 
+## Family and Inheritance
+- `inherit` /ɪnˈherɪt/               ([Neutral] 相続する)      She inherited her mother's house.
+- `inheritance` /ɪnˈherɪtəns/        ([Neutral] 相続)          He received a large inheritance.
+- `heir` /eər/                       ([Neutral] 相続人)        The prince is heir to the throne.
+- `heritable` /ˈherɪtəbəl/           ([Writing] 相続可能な)    The disease is heritable.
+- `inherited` /ɪnˈherɪtɪd/           ([Neutral] 受け継いだ)    She has inherited musical talent.
+
 <!-- Add vocabulary entries here using the format from format.md -->

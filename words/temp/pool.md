@@ -2129,7 +2129,6 @@ heel	3	【名】かかと 【動】かかとをつける
 helmet	3	【名】ヘルメット		
 helpless	3	【形】助けを得られない、体が不自由な		
 hen	3	【名】メンドリ		
-heritage	3	【名】遺産、継承物		
 highway	3	【名】幹線道路、交通網		
 hip	3	【名】ヒップ、腰		
 homemade	3	【形】自家製の、国産の		
@@ -3159,7 +3158,6 @@ increasingly	4	【副】ますます
 inevitable	4	【形】避けられない、当然の		
 infant	4	【名】幼児 【形】幼児の		
 ingredient	4	【名】材料、要素、原料		
-inherit	4	【動】相続する、受け継ぐ		
 injure	4	【動】痛める、害する		
 injured	4	【形】傷を負った		
 inn	4	【名】宿屋		
@@ -3987,7 +3985,6 @@ headquarters	5	【名】本部、司令部、活動の中心
 heap	5	【名】（積み重ねた）山、固まり		
 heavenly	5	【形】天国のように、素晴らしい、天の		
 hedge	5	【名】生け垣、境界、押さえ、保険、（投資のリスク回避の）ヘッジ		
-heir	5	【名】相続人		
 herd	5	【名】群れ、民衆		
 heroine	5	【名】ヒロイン、女主人公		
 highlight	5	【動】強調する、目立たせる 【名】呼びもの		
@@ -4846,7 +4843,6 @@ gathering	6	【名】集会、集めること
 gem	6	【名】宝石、逸品		
 generator	6	【名】発電機、発生器		
 generosity	6	【名】気前のよさ、寛大		
-genetic	6	【形】遺伝子の、発生の		
 geographic	6	【形】地理学の		
 geometry	6	【名】幾何学		
 glide	6	【動】滑空する、滑走する		
@@ -4913,7 +4909,6 @@ inexpensive	6	【形】安価な、費用のかからない
 infinite	6	【形】果てしない、莫大な、無限の		
 inflict	6	【動】負わせる、加える		
 informed	6	【形】見聞の広い、情報に通じた		
-inheritance	6	【名】相続財産、相続物件		
 initiate	6	【動】始める		
 initiative	6	【名】開始、先制、指導力、イニシアチブ 【形】率先の、手始めの		
 inquiry	6	【名】調査、探求		
@@ -6725,7 +6720,6 @@ hateful	8	【形】憎らしい、不愉快な
 hazelnut	8	【名】ハシバミの実、ヘーゼルナッツ		
 heavyweight	8	【形】ヘビー級の、目方の重い 【名】有力者		
 hemisphere	8	【名】半球、範囲、領域		
-hereditary	8	【形】遺伝性の、親ゆずりの、先祖代々の		
 heroin	8	【名】ヘロイン		
 hesitant	8	【形】ためらって		
 hierarchy	8	【名】階層性、階級制、ヒエラルキー		
@@ -6789,7 +6783,6 @@ inhale	8	【動】吸い込む、たいらげる
 inhibit	8	【動】抑制する、妨げる		
 initiation	8	【名】加入、入会、入社、儀式		
 inject	8	【動】注入する、注射をする、差しはさむ		
-innate	8	【形】生まれながらの、生来の、固有の、本質的な		
 innkeeper	8	【名】宿屋・居酒屋の主人		
 inscription	8	【名】記されたもの、題辞、記すこと、記入		
 inseparable	8	【形】分離できない 【名】分けることのできないもの		
@@ -7603,7 +7596,6 @@ hectic	9	【形】てんてこ舞いの、ひどく興奮した、消耗性の
 heiress	9	【名】女子相続人		
 herald	9	【動】到来を告げる 【名】王の使者、予兆		
 hereafter	9	【名】今後 【副】これから先		
-heredity	9	【名】遺伝、性格、世襲		
 heroism	9	【名】英雄的資質・行為		
 herring	9	【名】ニシン		
 highness	9	【名】高いこと、殿下		
@@ -7640,7 +7632,6 @@ imperialism	9	【名】帝国主義、帝政
 impotent	9	【形】無力な、虚弱な、性交不能の		
 imprudent	9	【形】軽率な、無分別な		
 inappropriate	9	【形】不適切な、妥当でない		
-inborn	9	【形】先天的な、もって生まれた		
 incidental	9	【形】偶然の、付随して起こる		
 incoherent	9	【形】つじつまの合わない、まとまりのない		
 incompatible	9	【形】互換性のない、気が合わない、両立しない		

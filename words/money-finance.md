@@ -22,3 +22,6 @@ This category contains words related to money, spending, earning, and financial 
 - `squander` /ˈskwɒndə/             ([Writing] 浪費する)            Don't squander your money on useless things.
   - `fritter` /ˈfrɪtə/              ([Writing] 浪費する)            He frittered away his inheritance.
   - `blow` /bləʊ/                   ([Casual] 浪費する)             He blew all his money at the casino.
+
+
+- `heritage` /ˈherɪtɪdʒ/             ([Neutral] 遺産)          We must preserve our cultural heritage.

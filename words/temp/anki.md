@@ -14,6 +14,7 @@ penchant
 diaspora
 hegira
 exodus
+congenital
 boorish
 encapsulate
 interlude
