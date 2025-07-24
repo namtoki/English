@@ -31,4 +31,16 @@ This category contains words related to time, timing, duration, and chronologica
 - `outmoded` /ˌaʊtˈmoʊdɪd/          ([Neutral] 時代遅れの、流行遅れ) His views are completely outmoded.
   - `outmode` /ˌaʊtˈmoʊd/           ([Writing] 時代遅れにする)      Technology quickly outmodes devices.
 
+- `slot for` /slɒt fɔː/               ([Neutral] ~の枠を設ける)         I'll slot for 30 minutes to discuss this.
+- `allocate time` /ˈæləkeɪt taɪm/     ([Neutral] 時間を割り当てる)       We need to allocate time for planning.
+- `carve out time` /kɑrv aʊt taɪm/    ([Neutral] 時間を確保する)         I'll carve out time for this project.
+- `set aside time` /sɛt əˈsaɪd taɪm/  ([Neutral] 時間を取っておく)       Let's set aside time for the meeting.
+- `block off time` /blɑk ɔf taɪm/     ([Neutral] 時間をブロックする)     I'll block off time in my calendar.
+- `schedule time` /ˈskɛdʒul taɪm/     ([Neutral] 時間をスケジュールする) Can we schedule time to discuss this?
+- `book time` /bʊk taɪm/              ([Neutral] 時間を予約する)         I need to book time with the doctor.
+- `reserve time` /rɪˈzɜrv taɪm/       ([Neutral] 時間を予約する)         Please reserve time for the presentation.
+- `make time` /meɪk taɪm/             ([Neutral] 時間を作る)             I'll make time to help you.
+- `fix a time` /fɪks ə taɪm/          ([Neutral] 時間を決める)           Let's fix a time for our next meeting.
+- `time slot` /taɪm slɑt/             ([Neutral] 時間枠)                 The TV show has a prime time slot.
+
 <!-- Add vocabulary entries here using the format from format.md -->

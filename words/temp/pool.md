@@ -1159,7 +1159,6 @@ fishing	2	【名】魚釣り
 fit	2	【動】適合する、似合う 【形】適した		
 fix	2	【動】修理する、決める、固定する 【名】苦境		
 flag	2	【名】旗		
-flight	2	【名】飛ぶこと、定期航空便		
 float	2	【動】浮く、浮かす 【名】浮くもの		
 flood	2	【名】洪水 【動】氾濫させる、あふれる		
 florist	2	【名】花屋		
@@ -2956,7 +2955,6 @@ delicate	4	【形】繊細な、細心の注意を要する
 delivery	4	【名】配達、送付		
 demonstrate	4	【動】論証する、明示する		
 depart	4	【動】出発する、去る		
-departure	4	【名】出発、発車、立ち去ること		
 deposit	4	【動】預金する、置く、降ろす、積もらせる 【名】沈殿物、預金、担保		
 descend	4	【動】降りる、下る、子孫である		
 desirable	4	【形】望ましい 【名】望ましい人		
@@ -6631,7 +6629,6 @@ elegance	8	【名】優雅、上品、正確さ
 elimination	8	【名】除外、排出、予選		
 eloquence	8	【名】雄弁、能弁、力強さ、巧みさ		
 emigrate	8	【動】移住する、移住させる		
-emigration	8	【名】移住、移民（団）		
 emphatic	8	【形】強調された、強勢のある、明らかな		
 emphatically	8	【副】強調して、断固として、断然		
 encouraging	8	【形】勇気づける、励みになる		
@@ -6894,7 +6891,6 @@ metabolism	8	【名】新陳代謝、物質交代
 metric	8	【形】メートル（法）の		
 midway	8	【副】中途に、中程に 【名】催し物会場		
 migrate	8	【動】移住する、移民する、移動する		
-migration	8	【名】移住、移動、（鳥の）渡り、移住者		
 millennium	8	【名】1000年間		
 mingle	8	【動】参加する、混ざる、いっしょになる		
 minimize	8	【動】できるだけ少なくする、最小限に評価する		
@@ -7533,7 +7529,6 @@ erroneous	9	【形】間違った、誤りのある
 erupt	9	【動】噴火する、噴出する		
 ethic	9	【名】倫理、道徳		
 evacuate	9	【動】立ち退かせる、排出する、避難する		
-evacuation	9	【名】避難、疎開、空にすること		
 evade	9	【動】逃れる、避ける		
 evaporate	9	【動】蒸発する、消滅する		
 eventful	9	【形】出来事の多い、波乱に富んだ、重大な結果をもたらす		
@@ -8503,7 +8498,6 @@ erratic	10	【形】とっぴな、常軌を逸した
 exasperate	10	【動】憤慨させる、イライラさせる		
 exemplify	10	【動】実証する、写しを取る		
 existential	10	【形】存在の、実存主義の		
-exodus	10	【名】脱出、（旧約聖書の）出エジプト記		
 expectancy	10	【名】期待、予想、見込み		
 expectant	10	【形】期待をもった、見込みのある、妊娠中の		
 exposition	10	【名】展示会、解説		

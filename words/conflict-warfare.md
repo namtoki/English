@@ -85,3 +85,4 @@ This category contains military terms, conflict situations, and combat-related v
 - `fissure` /ˈfɪʃər/               ([Writing] 亀裂、裂け目)      A fissure appeared in the rock.
 - `cleft` /kleft/                   ([Writing] 裂け目、割れ目)      The cleft in the mountain was deep.
 - `chasm` /ˈkæzəm/                 ([Writing] 深い割れ目、隔たり)  A chasm exists between rich and poor.
+- `evacuation` /ɪˌvækjuˈeɪʃn/        ([Formal] 避難)           The evacuation was ordered due to the fire.

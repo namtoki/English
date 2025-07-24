@@ -89,3 +89,4 @@ This category contains medical vocabulary, health conditions, treatments, and bo
 - `dosage` /ˈdəʊsɪdʒ/               ([Medical] 投与量、服用量)      Follow the recommended dosage.
   - `dose` /dəʊs/                   ([Medical] 服用量、一回量)      Take one dose three times daily.
 - `prognosis` /prɒɡˈnəʊsɪs/        ([Medical] 予後、見通し)        The patient's prognosis is good.
+- `exodic` /ɛkˈsɒdɪk/                ([Writing] 流出の)         The exodic nerve carries signals from the spine.

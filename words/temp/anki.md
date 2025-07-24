@@ -11,6 +11,9 @@ uproar
 untarnished
 thwack
 penchant
+diaspora
+hegira
+exodus
 boorish
 encapsulate
 interlude

@@ -56,5 +56,5 @@
   19. social-relationships.md - 社会関係・人間関係
   family, friend, mother, father, relationship, marry, love, social
 
-  20. transportation-travel.md - 交通・旅行
-  car, bus, train, airplane, travel, trip, drive, fly, road, airport
+  20. movement.md - 移動・交通・旅行
+  move, go, come, migrate, car, bus, train, airplane, travel, trip, drive, fly, road, airport
