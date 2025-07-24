@@ -26,3 +26,9 @@ This category contains job-related vocabulary, professions, and work activities.
   - `invoke` /ɪnˈvoʊk/              ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
     - `invocation` /ˌɪnvəˈkeɪʃən/   ([Writing] 発動、呼び出し)      The invocation of emergency powers was controversial.
     - `invocative` /ɪnˈvoʊkətɪv/    ([Writing] 呼び起こす)          The poem has an invocative quality.
+
+
+  - `assign` /əˈsaɪn/               ([Neutral] 割り当てる、指定する) She was assigned to the project.
+    - `assignment` /əˈsaɪnmənt/     ([Neutral] 割り当て、課題)       The assignment is due tomorrow.
+  - `appoint` /əˈpɔɪnt/             ([Formal] 任命する、指定する)   He was appointed as director.
+    - `appointment` /əˈpɔɪntmənt/   ([Neutral] 任命、約束)          I have an appointment at 3 PM.

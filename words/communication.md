@@ -8,29 +8,39 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - ✅ `suggest` /səˈdʒest/           ([Neutral] 提案する、暗示する)  His tone suggested he was angry.
     - `suggestion` /səˈdʒestʃən/    ([Neutral] 提案、暗示)          Do you have any suggestions?
     - `suggestive` /səˈdʒestɪv/     ([Writing] 連想させる、示唆的)  The painting has a suggestive quality.
+  - `recommend` /ˌrekəˈmend/        ([Neutral] 推薦する、勧める)    I recommend this restaurant.
+    - `recommendation` /ˌrekəmenˈdeɪʃən/ ([Neutral] 推薦、勧告)     Do you have any recommendations?
+  - `propose` /prəˈpoʊz/            ([Formal] 提案する、申し込む)   She proposed a new plan.
+    - `proposal` /prəˈpoʊzəl/       ([Formal] 提案、申し込み)       The proposal was accepted.
+  - `advise` /ədˈvaɪz/              ([Neutral] 助言する、忠告する)  I advise you to be careful.
+    - `advice` /ədˈvaɪs/            ([Neutral] 助言、忠告)          Can you give me some advice?
+    - `advisor` /ədˈvaɪzər/         ([Neutral] 助言者、顧問)        He is my academic advisor.
 
-### 暗示する
-  - `imply` /ɪmˈplaɪ/               ([Formal] 暗示する、含む)       What are you trying to imply?
-    - `implicit` /ɪmˈplɪsɪt/        ([Writing] 暗黙の、潜在的な)    There was an implicit understanding between them.
-    - `implication` /ˌɪmplɪˈkeɪʃən/ ([Writing] 含意、含み)          The implication of his words was clear.
-  - `connote` /kəˈnoʊt/              ([Writing] 含意する、暗示する)  The word connotes negative feelings.
-    - `connotation` /ˌkɑːnəˈteɪʃən/   ([Writing] 含意、ニュアンス)    The word has negative connotations.
-  - `hint` /hɪnt/                   ([Neutral] ヒント、暗示)        Can you give me a hint?
-
-### 明示する
+### 示す
+- ✅ `suggest` /səˈdʒest/           ([Neutral] 暗示する、示唆する)  His behavior suggests he's lying.
   - `indicate` /ˈɪndɪkeɪt/          ([Formal] 示す、指し示す)       The data indicates a positive trend.
     - `indication` /ˌɪndɪˈkeɪʃən/   ([Formal] 兆候、指示)           There's no indication of improvement.
     - `indicator` /ˈɪndɪkeɪtə/      ([Formal] 指標、表示器)         GDP is an important economic indicator.
-  - `denote` /dɪˈnoʊt/               ([Formal] 示す、意味する)       The red light denotes danger.
-    - `denotation` /ˌdiːnoʊˈteɪʃən/  ([Writing] 表示、明示的意味)    The denotation of the word is clear.
-  - `signify` /ˈsɪɡnɪfaɪ/            ([Formal] 意味する、示す)       What does this symbol signify?
-    - `significance` /sɪɡˈnɪfɪkəns/   ([Neutral] 重要性、意味)        The significance of the discovery is huge.
-    - `significant` /sɪɡˈnɪfɪkənt/    ([Neutral] 重要な、意味深い)    There was a significant improvement.
-  - `designate` /ˈdezɪɡneɪt/         ([Formal] 指定する、示す)       The area was designated as a park.
-    - `designation` /ˌdezɪɡˈneɪʃən/   ([Formal] 指定、名称)           His designation is senior manager.
-  - `specify` /ˈspesɪfaɪ/            ([Formal] 明記する、特定する)   Please specify your requirements.
-    - `specification` /ˌspesɪfɪˈkeɪʃən/ ([Formal] 仕様、明細)         The specifications are detailed.
-    - `specific` /spəˈsɪfɪk/          ([Neutral] 特定の、明確な)      Be more specific about what you need.
+  - `hint` /hɪnt/                   ([Neutral] ヒント、暗示)        Can you give me a hint?
+  - `imply` /ɪmˈplaɪ/               ([Formal] 暗示する、含む)       What are you trying to imply?
+    - `implicit` /ɪmˈplɪsɪt/        ([Writing] 暗黙の、潜在的な)    There was an implicit understanding between them.
+    - `implication` /ˌɪmplɪˈkeɪʃən/ ([Writing] 含意、含み)          The implication of his words was clear.
+  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   We can infer from the data that...
+    - `inference` /ˈɪnfərəns/       ([Formal] 推論、推測)           The inference was correct.
+  - `denote` /dɪˈnoʊt/              ([Formal] 示す、意味する)       The red light denotes danger.
+    - `denotation` /ˌdiːnoʊˈteɪʃən/ ([Writing] 表示、明示的意味)    The denotation of the word is clear.
+  - `signify` /ˈsɪɡnɪfaɪ/           ([Formal] 意味する、示す)       What does this symbol signify?
+    - `significance` /sɪɡˈnɪfɪkəns/ ([Neutral] 重要性、意味)        The significance of the discovery is huge.
+    - `significant` /sɪɡˈnɪfɪkənt/  ([Neutral] 重要な、意味深い)    There was a significant improvement.
+  - `connote` /kəˈnoʊt/             ([Writing] 含意する、暗示する)  The word connotes negative feelings.
+    - `connotation` /ˌkɑːnəˈteɪʃən/ ([Writing] 含意、ニュアンス)    The word has negative connotations.
+
+### 明示する
+- ✅ `designate` /ˈdezɪɡneɪt/       ([Formal] 指定する、示す)       The area was designated as a park.
+    - `designation` /ˌdezɪɡˈneɪʃən/ ([Formal] 指定、名称)           His designation is senior manager.
+  - `specify` /ˈspesɪfaɪ/           ([Formal] 明記する、特定する)   Please specify your requirements.
+    - `specification` /ˌspesɪfɪˈkeɪʃən/ ([Formal] 仕様、明細)       The specifications are detailed.
+    - `specific` /spəˈsɪfɪk/        ([Neutral] 特定の、明確な)      Be more specific about what you need.
 
 ### 伝える
   - `convey` /kənˈveɪ/               ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.

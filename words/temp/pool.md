@@ -379,7 +379,6 @@ musician	1	【名】音楽家、作曲家、演奏家
 must	1	【助】～しなければならない、～に違いない 【名】必要なもの		
 my	1	【代】私の 【間】（驚きを表すときなど）おやまあ		
 nail	1	【名】つめ、くぎ 【動】くぎで打ちつける		
-name	1	【名】名前、悪口、評判 【動】名をつける、指名する		
 narrow	1	【形】幅が狭い 【動】狭くなる、狭くする		
 natural	1	【形】自然の、当然の、生まれながらの		
 near	1	【副】近い場所へ、密接に 【形】近い 【前】～の近くに 【動】近づく		
@@ -855,7 +854,6 @@ address	2	【名】あて名、あいさつ 【動】話しかける、演説す
 adult	2	【名】大人 【形】成人した		
 adventure	2	【名】冒険、珍しい出来事		
 advice	2	【名】忠告		
-advise	2	【動】忠告する、教える		
 afterward	2	【副】あとで		
 agency	2	【名】代理店、媒介		
 agree	2	【動】同意する、合意する		
@@ -1501,7 +1499,6 @@ programming	2	【名】プログラミング
 progress	2	【名】進歩、進行 【動】進む		
 proof	2	【名】証拠 【形】耐えられる、試験済みの		
 proper	2	【形】適した、正しい、固有の		
-propose	2	【動】提案する、結婚を申し込む		
 protect	2	【動】保護する、守る		
 protection	2	【名】保護、保護物		
 prove	2	【動】証明する、～となる		
@@ -1796,7 +1793,6 @@ admit	3	【動】認める、入ることを許す、余地がある
 adopt	3	【動】採用する、養子にする		
 advance	3	【動】前進する、提出する 【名】前進		
 advantage	3	【名】有利な点、利益 【動】～を利する		
-adviser	3	【名】助言者、忠告者		
 affair	3	【名】事件、仕事、不倫		
 affect	3	【動】影響を及ぼす、ふりをする		
 afford	3	【動】買う余裕がある、できる		
@@ -1815,8 +1811,6 @@ announcer	3	【名】アナウンサー、告知者
 anymore	3	【副】今では、もはや		
 anytime	3	【副】いつも、いつでも		
 application	3	【名】志願すること、適用、アプリケーション（ソフト）		
-appoint	3	【動】任命する、指定する		
-appointment	3	【名】約束、任命		
 arch	3	【名】アーチ 【動】アーチ状になる		
 argue	3	【動】議論する		
 argument	3	【名】議論、論拠		
@@ -2439,7 +2433,6 @@ reading	3	【名】読むこと、読書力 【形】読書の
 reality	3	【名】現実、迫真性		
 receipt	3	【名】領収書、受け取ること		
 recent	3	【形】最近の、近代の		
-recommend	3	【動】勧める、推薦する		
 recorder	3	【名】録音装置、レコーダー		
 recycle	3	【動】再生利用する		
 reduce	3	【動】減らす		
@@ -3428,7 +3421,7 @@ rear	4	【名】後方、背後 【動】育てる、後ろ足で立つ
 recall	4	【動】思い出す、呼び戻す		
 receiver	4	【名】受話器		
 reception	4	【名】受付、受け取ること、受理、歓迎会		
-recommendation	4	【名】推薦（状）、忠告		
+		
 recording	4	【名】記録、記載、レコード		
 reduction	4	【名】減少、割引		
 reference	4	【名】参照、言及、参考文献 【動】参照をつける		
@@ -3693,8 +3686,7 @@ ascend	5	【動】上がる、登る
 aspirin	5	【名】アスピリン		
 assemble	5	【動】集める、まとめる、組み立てる		
 assembly	5	【名】集会、集めること、議会		
-assign	5	【動】割り当てる、任命する		
-assignment	5	【名】（任務などの）割り当て、宿題、課題		
+		
 assumption	5	【名】想定、仮定、引き受けること		
 assurance	5	【名】保証、断言		
 astonishing	5	【形】驚くべき		
@@ -7736,8 +7728,6 @@ indulgent	9	【形】寛大な、大目に見る、甘い
 inefficiency	9	【名】非能率、無能、無効果		
 inescapable	9	【形】免れ得ない、回避できない		
 inexplicable	9	【形】不可解な、説明がつかない		
-infer	9	【動】推論する、結論する		
-inference	9	【名】推論、推測		
 infrastructure	9	【名】基盤、基幹施設、下部構造		
 infrequent	9	【形】めったに起こらない、珍しい、不定期の		
 infuriate	9	【動】激怒させる		
