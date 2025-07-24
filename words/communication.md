@@ -4,6 +4,33 @@ This category contains words about speaking, suggesting, hinting, and expressing
 
 ## Words
 
+### 伝える
+- ✅ `tell` /tel/                   ([Neutral] 話す、伝える)        Please tell me what happened.
+    - `telling` /ˈtelɪŋ/            ([Neutral] 効果的な、印象的な)  That was a telling comment.
+  - `say` /seɪ/                     ([Neutral] 言う、述べる)        What did you say to him?
+    - `saying` /ˈseɪɪŋ/             ([Neutral] ことわざ、格言)      There's an old saying about that.
+  - `speak` /spiːk/                 ([Neutral] 話す、演説する)      May I speak with you privately?
+  - `talk` /tɔːk/                   ([Neutral] 話す、話し合う)      We need to talk about this.
+  - `communicate` /kəˈmjuːnɪkeɪt/   ([Neutral] 意思疎通する)        We communicate via email.
+  - `express` /ɪkˈspres/            ([Neutral] 表現する、述べる)    She expressed her concerns clearly.
+    - `expression` /ɪkˈspreʃən/     ([Neutral] 表現、表情)          His expression showed surprise.
+    - `expressive` /ɪkˈspresɪv/     ([Neutral] 表現力豊かな)        She has very expressive eyes.
+  - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
+    - `informative` /ɪnˈfɔːrmətɪv/  ([Neutral] 有益な、教育的な)    The lecture was very informative.
+  - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
+  - `announce` /əˈnaʊns/            ([Neutral] 発表する、公表する)  They announced the winner.
+  - `report` /rɪˈpɔːrt/             ([Neutral] 報告する、伝える)    I must report this incident.
+  - `convey` /kənˈveɪ/              ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
+    - `conveyance` /kənˈveɪəns/     ([Writing] 伝達、運搬)          The conveyance of information was swift.
+  - `transmit` /trænsˈmɪt/          ([Formal] 送信する、伝達する)   The signal transmits data clearly.
+  - `relay` /rɪˈleɪ/                ([Neutral] 中継する、伝える)    Please relay this message to her.
+  - `deliver` /dɪˈlɪvər/            ([Neutral] 届ける、伝える)      He delivered the news personally.
+  - `pass on` /pæs ɑːn/             ([Neutral] 伝える、受け継ぐ)    Please pass on my regards.
+  - `share` /ʃɛər/                  ([Neutral] 共有する、分かち合う) Let me share some news with you.
+  - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
+  - `disseminate` /dɪˈsemɪneɪt/     ([Writing] 普及する、広める)    They disseminated the information widely.
+    - `dissemination` /dɪˌsemɪˈneɪʃən/ ([Writing] 普及、配布)       The dissemination of research findings~~
+
 ### 提案する
 - ✅ `suggest` /səˈdʒest/           ([Neutral] 提案する、暗示する)  His tone suggested he was angry.
     - `suggestion` /səˈdʒestʃən/    ([Neutral] 提案、暗示)          Do you have any suggestions?
@@ -16,24 +43,36 @@ This category contains words about speaking, suggesting, hinting, and expressing
     - `advice` /ədˈvaɪs/            ([Neutral] 助言、忠告)          Can you give me some advice?
     - `advisor` /ədˈvaɪzər/         ([Neutral] 助言者、顧問)        He is my academic advisor.
 
-### 示す
-- ✅ `suggest` /səˈdʒest/           ([Neutral] 暗示する、示唆する)  His behavior suggests he's lying.
-  - `indicate` /ˈɪndɪkeɪt/          ([Formal] 示す、指し示す)       The data indicates a positive trend.
-    - `indication` /ˌɪndɪˈkeɪʃən/   ([Formal] 兆候、指示)           There's no indication of improvement.
+### 示す・ほのめかす
+- ✅ `suggest` /səˈdʒest/           ([Neutral] 暗示する、示唆する)  His tone suggested he was upset.
+    - `suggestion` /səˈdʒestʃən/    ([Neutral] 提案、暗示)          Do you have any suggestions?
+    - `suggestive` /səˈdʒestɪv/     ([Writing] 連想させる、示唆的)  The painting has a suggestive quality.
+  - `indicate` /ˈɪndɪkeɪt/          ([Neutral] 示す、指し示す)      The data indicates a positive trend.
+    - `indication` /ˌɪndɪˈkeɪʃən/   ([Neutral] 兆候、示唆)          There's no indication of problems.
     - `indicator` /ˈɪndɪkeɪtə/      ([Formal] 指標、表示器)         GDP is an important economic indicator.
-  - `hint` /hɪnt/                   ([Neutral] ヒント、暗示)        Can you give me a hint?
-  - `imply` /ɪmˈplaɪ/               ([Formal] 暗示する、含む)       What are you trying to imply?
-    - `implicit` /ɪmˈplɪsɪt/        ([Writing] 暗黙の、潜在的な)    There was an implicit understanding between them.
-    - `implication` /ˌɪmplɪˈkeɪʃən/ ([Writing] 含意、含み)          The implication of his words was clear.
-  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   We can infer from the data that...
-    - `inference` /ˈɪnfərəns/       ([Formal] 推論、推測)           The inference was correct.
-  - `denote` /dɪˈnoʊt/              ([Formal] 示す、意味する)       The red light denotes danger.
-    - `denotation` /ˌdiːnoʊˈteɪʃən/ ([Writing] 表示、明示的意味)    The denotation of the word is clear.
+  - `imply` /ɪmˈplaɪ/               ([Neutral] 暗に示す、含意する)  What are you trying to imply?
+    - `implicit` /ɪmˈplɪsɪt/        ([Writing] 暗黙の、暗示的な)    There was an implicit agreement.
+    - `implication` /ˌɪmplɪˈkeɪʃən/ ([Neutral] 含意、暗示)          The implication was clear.
+  - `hint` /hɪnt/                   ([Neutral] ほのめかす、ヒント)  She hinted that she might quit.
+    - `hinting` /ˈhɪntɪŋ/           ([Neutral] ほのめかし)          Stop hinting and just tell me.
   - `signify` /ˈsɪɡnɪfaɪ/           ([Formal] 意味する、示す)       What does this symbol signify?
     - `significance` /sɪɡˈnɪfɪkəns/ ([Neutral] 重要性、意味)        The significance of the discovery is huge.
     - `significant` /sɪɡˈnɪfɪkənt/  ([Neutral] 重要な、意味深い)    There was a significant improvement.
+  - `denote` /dɪˈnoʊt/              ([Formal] 示す、意味する)       The red light denotes danger.
+    - `denotation` /ˌdiːnoʊˈteɪʃən/ ([Writing] 表示、明示的意味)    The denotation of the word is clear.
+  - `intimate` /ˈɪntɪmeɪt/          ([Formal] それとなく知らせる)   He intimated his disapproval.
+    - `intimation` /ˌɪntɪˈmeɪʃən/   ([Formal] 暗示、ほのめかし)     The first intimation came yesterday.
+  - ✅ `insinuate` /ɪnˈsɪnjueɪt/    ([Formal] 遠回しに言う)         What are you insinuating?
+    - `insinuation` /ɪnˌsɪnjuˈeɪʃən/([Formal] 当てこすり)           I resent your insinuations.
   - `connote` /kəˈnoʊt/             ([Writing] 含意する、暗示する)  The word connotes negative feelings.
     - `connotation` /ˌkɑːnəˈteɪʃən/ ([Writing] 含意、ニュアンス)    The word has negative connotations.
+  - `allude` /əˈluːd/               ([Writing] 暗に言及する)        He alluded to past problems.
+    - `allusion` /əˈluːʒən/         ([Writing] 暗示、言及)          The book contains many allusions.
+  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   We can infer from the data that...
+    - `inference` /ˈɪnfərəns/       ([Formal] 推論、推測)           The inference was correct.
+  - `drop a hint` /drɑːp ə hɪnt/    ([Casual] ほのめかす)           She dropped a hint about her birthday.
+  - ✅ `get at` /ɡet æt/            ([Casual] 言おうとする)         What are you getting at?
+  - `drive at` /draɪv æt/           ([Casual] 言おうとする)         I see what you're driving at.
 
 ### 明示する
 - ✅ `designate` /ˈdezɪɡneɪt/       ([Formal] 指定する、示す)       The area was designated as a park.
@@ -41,16 +80,6 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `specify` /ˈspesɪfaɪ/           ([Formal] 明記する、特定する)   Please specify your requirements.
     - `specification` /ˌspesɪfɪˈkeɪʃən/ ([Formal] 仕様、明細)       The specifications are detailed.
     - `specific` /spəˈsɪfɪk/        ([Neutral] 特定の、明確な)      Be more specific about what you need.
-
-### 伝える
-  - `convey` /kənˈveɪ/               ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
-    - `conveyance` /kənˈveɪəns/       ([Writing] 伝達、運搬)          The conveyance of information was swift.
-
-### ほのめかす
-  - `allude` /əˈluːd/               ([Writing] ほのめかす)          He alluded to past problems.
-    - `allusion` /əˈluːʒən/         ([Writing] ほのめかし)          The book contains many literary allusions.
-  - `insinuate` /ɪnˈsɪnjueɪt/       ([Formal] ほのめかす)           What are you trying to insinuate?
-    - `insinuation` /ɪnˌsɪnjuˈeɪʃən/([Formal] ほのめかし)           I don't appreciate your insinuations.
 
 ### 注意する
   - `admonish` /ədˈmɑːnɪʃ/            ([Formal] 諭す、勧告する)       She admonished him to be more careful.
