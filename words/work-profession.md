@@ -32,3 +32,28 @@ This category contains job-related vocabulary, professions, and work activities.
     - `assignment` /əˈsaɪnmənt/     ([Neutral] 割り当て、課題)       The assignment is due tomorrow.
   - `appoint` /əˈpɔɪnt/             ([Formal] 任命する、指定する)   He was appointed as director.
     - `appointment` /əˈpɔɪntmənt/   ([Neutral] 任命、約束)          I have an appointment at 3 PM.
+### PROGRESS
+- ✅ `make progress` /meɪk ˈprɒɡres/([Neutral] 前進する)            We're making progress on the project.
+  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、向上する)  We're working to improve our processes.
+  - `develop` /dɪˈveləp/            ([Neutral] 発展させる、開発する)We need to develop this idea further.
+  - `move forward` /muːv ˈfɔːrwərd/ ([Neutral] 前に進む)            Let's move forward with the plan.
+  - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
+  - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
+  - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
+  - `proceed` /prəˈsiːd/            ([Formal] 進める、続行する)     We'll proceed with the implementation.
+  - `move along` /muːv əˈlɔːŋ/      ([Neutral] 進める、進行する)    The project is moving along nicely.
+  - `push forward` /pʊʃ ˈfɔːrwærd/  ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
+  - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 前進する、優勢になる)Our proposal is gaining ground with management.
+
+### DECISION
+- ✅ `choose` /tʃuːz/               ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
+  - `pick` /pɪk/                    ([Casual] 選ぶ、取る)           Pick whichever one you like.
+  - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the red one, please.
+  - `select` /sɪˈlekt/              ([Formal] 選択する、選出する)   We need to select the best candidate.
+  - `decide on` /dɪˈsaɪd ɑːn/       ([Neutral] 決める、決定する)    Have you decided on a date yet?
+  - `prefer` /prɪˈfɜːr/             ([Neutral] 好む、選好する)      I prefer coffee to tea.
+  - `go with` /ɡoʊ wɪð/             ([Casual] 選ぶ、一緒に行く)     I'll go with the blue option.
+  - `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、狙う)           I think I'll go for the chocolate cake.
+  - `opt for` /ɑːpt fɔːr/           ([Formal] 選択する、決める)     We opted for the premium package.
+  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
+  - `stick with` /stɪk wɪð/         ([Casual] 続ける、固執する)     Let's stick with the original plan.
