@@ -1,4 +1,4 @@
-# Medical and Health Terms
+# Health
 
 This category contains medical vocabulary, health conditions, treatments, and body-related terms.
 

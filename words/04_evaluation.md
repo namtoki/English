@@ -360,3 +360,90 @@ This category contains words for judging quality, making assessments, and expres
   - `degrading` /dɪˈɡreɪdɪŋ/        ([Formal] 品位を落とす)         The work was degrading.
 - `demean` /dɪˈmiːn/                ([Formal] 品位を下げる)         Don't demean yourself that way.
   - `demeaning` /dɪˈmiːnɪŋ/         ([Formal] 品位を下げる)         The treatment was demeaning.
+
+## Personal Characteristics and Skills
+
+- `adept` /əˈdept/                  ([Writing] 熟練した)            She's adept at solving complex problems.
+- `skilled` /skɪld/                 ([Neutral] 熟練した)            He's a skilled craftsman.
+  - `skill` /skɪl/                  ([Neutral] 技能)                Reading requires good language skills.
+  - `unskilled` /ʌnˈskɪld/          ([Neutral] 未熟練の)            Unskilled workers earn less money.
+  - `skillful` /ˈskɪlfəl/           ([Neutral] 熟練した、上手な)    She's very skillful with her hands.
+- `competent` /ˈkɒmpɪtənt/          ([Neutral] 有能な)              She's a competent manager.
+  - `competence` /ˈkɒmpɪtəns/       ([Neutral] 能力)                His competence is well recognized.
+  - `incompetent` /ɪnˈkɒmpɪtənt/    ([Formal] 無能な)               The incompetent employee was fired.
+  - `incompetence` /ɪnˈkɒmpɪtəns/   ([Formal] 無能)                 His incompetence caused problems.
+- `proficient` /prəˈfɪʃənt/         ([Formal] 熟達した)             He's proficient in three languages.
+  - `proficiency` /prəˈfɪʃənsi/     ([Formal] 熟達)                 Her English proficiency is excellent.
+- `talented` /ˈtæləntɪd/            ([Neutral] 才能のある)          She's a talented musician.
+  - `talent` /ˈtælənt/              ([Neutral] 才能)                He has a talent for music.
+- `avid` /ˈævɪd/                    ([Writing] 熱烈な、熱心な)      He's an avid reader of mystery novels.
+- `eager` /ˈiːɡə/                   ([Neutral] 熱心な、意欲的な)    She's eager to start the new job.
+  - `eagerness` /ˈiːɡənəs/          ([Neutral] 熱心さ)              His eagerness impressed the interviewer.
+  - `eagerly` /ˈiːɡəli/             ([Neutral] 熱心に、熱望して)    She eagerly awaited the results.
+- `devoted` /dɪˈvəʊtɪd/             ([Neutral] 献身的な)            He's devoted to his family.
+  - `devotion` /dɪˈvəʊʃən/          ([Neutral] 献身)                Her devotion to charity is admirable.
+  - `devote` /dɪˈvəʊt/              ([Neutral] ささげる、充てる)    He devotes his time to charity work.
+  - `devotee` /ˌdevəˈtiː/           ([Writing] 心酔者、献身する人)  She's a devotee of classical music.
+- `gregarious` /ɡrɪˈɡeəriəs/        ([Formal] 社交的な)             She's very gregarious and loves parties.
+  - `gregariously` /ɡrɪˈɡeəriəsli/  ([Formal] 社交的に)             He gregariously mingled with everyone.
+  - `gregariousness` /ɡrɪˈɡeəriəsnəs/ ([Formal] 社交性)             Her gregariousness makes her popular.
+- `sociable` /ˈsoʊʃəbl/             ([Neutral] 社交的な)            He's sociable and makes friends easily.
+  - `sociability` /ˌsoʊʃəˈbɪləti/   ([Neutral] 社交性)              Her sociability helps in networking.
+  - `sociably` /ˈsoʊʃəbli/          ([Neutral] 社交的に)            They chatted sociably over coffee.
+  - `social` /ˈsoʊʃəl/               ([Neutral] 社会的な)            We need better social policies.
+  - `socialize` /ˈsoʊʃəlaɪz/        ([Neutral] 交際する)            I like to socialize with colleagues.
+- `outgoing` /ˈaʊtɡoʊɪŋ/            ([Neutral] 外向的な)            She's outgoing and loves meeting people.
+- `extroverted` /ˈekstrəvɜːrtɪd/    ([Neutral] 外向的な)            He's very extroverted and energetic.
+  - `extrovert` /ˈekstrəvɜːrt/       ([Neutral] 外向的な人)          She's a natural extrovert.
+  - `extroversion` /ˌekstrəˈvɜːrʒən/ ([Formal] 外向性)               His extroversion helps in sales.
+- `convivial` /kənˈvɪviəl/          ([Writing] 陽気な、社交的な)    The convivial atmosphere made everyone relax.
+  - `conviviality` /kənˌvɪviˈæləti/ ([Writing] 陽気さ、歓楽)        The party had an air of conviviality.
+- `affable` /ˈæfəbl/                ([Formal] 愛想の良い)           The affable host welcomed everyone warmly.
+  - `affability` /ˌæfəˈbɪləti/      ([Formal] 愛想の良さ)           His affability won him many friends.
+  - `affably` /ˈæfəbli/             ([Formal] 愛想よく)             She greeted us affably at the door.
+- `amiable` /ˈeɪmiəbl/              ([Formal] 親しみやすい)         She has an amiable personality.
+  - `amiability` /ˌeɪmiəˈbɪləti/    ([Formal] 親しみやすさ)         His amiability made him popular.
+  - `amiably` /ˈeɪmiəbli/           ([Formal] 親しみやすく)         They chatted amiably for hours.
+- `uncouth` /ʌnˈkuːθ/               ([Formal] 無作法な、粗野な)     His uncouth behavior shocked everyone.
+  - `uncouthly` /ʌnˈkuːθli/         ([Formal] 無作法に)             He uncouthly interrupted the speech.
+  - `uncouthness` /ʌnˈkuːθnəs/      ([Formal] 無作法、粗野)         His uncouthness made him unpopular.
+- `crude` /kruːd/                   ([Neutral] 粗野な、下品な)      His crude jokes offended everyone.
+  - `crudely` /ˈkruːdli/            ([Neutral] 粗野に)              He crudely expressed his opinion.
+  - `crudeness` /ˈkruːdnəs/         ([Neutral] 粗野、下品)          The crudeness of his language was shocking.
+  - `crudity` /ˈkruːdəti/           ([Writing] 粗野、未熟)          The crudity of the design was obvious.
+- `vulgar` /ˈvʌlɡər/                ([Formal] 下品な、俗悪な)       His vulgar language was inappropriate.
+  - `vulgarity` /vʌlˈɡærəti/        ([Formal] 下品、俗悪)           Such vulgarity has no place here.
+  - `vulgarize` /ˈvʌlɡəraɪz/        ([Writing] 俗化する)            Don't vulgarize the conversation.
+  - `vulgarly` /ˈvʌlɡərli/          ([Formal] 下品に)               He spoke vulgarly at the dinner.
+- `coarse` /kɔːrs/                  ([Neutral] 粗野な、粗い)        His coarse manners upset the guests.
+  - `coarsely` /ˈkɔːrsli/           ([Neutral] 粗野に)              She laughed coarsely at the joke.
+  - `coarseness` /ˈkɔːrsnəs/        ([Neutral] 粗野、粗さ)          His coarseness was evident.
+  - `coarsen` /ˈkɔːrsən/            ([Neutral] 粗野にする)          Years of hardship coarsened him.
+- `boorish` /ˈbʊrɪʃ/                ([Writing] 無骨な、田舎者の)    His boorish behavior embarrassed us.
+  - `boor` /bʊr/                    ([Writing] 無骨者、田舎者)      He's such a boor at parties.
+  - `boorishly` /ˈbʊrɪʃli/          ([Writing] 無骨に)              He boorishly ignored social cues.
+  - `boorishness` /ˈbʊrɪʃnəs/       ([Writing] 無骨、粗野)          His boorishness alienated everyone.
+- `crass` /kræs/                    ([Formal] 無神経な、粗野な)     That was a crass thing to say.
+  - `crassly` /ˈkræsli/             ([Formal] 無神経に)             He crassly mentioned her weight.
+  - `crassness` /ˈkræsnəs/          ([Formal] 無神経、粗野)         The crassness of his comment hurt her.
+
+## Connection and Understanding
+- `understandable` /ˌʌndərˈstændəbəl/ ([Neutral] 理解できる)        His reaction is understandable.
+  - `familiar` /fəˈmɪljər/          ([Neutral] 親しみやすい、馴染み) Her voice sounds familiar.
+  - `sympathetic` /ˌsɪmpəˈθetɪk/    ([Neutral] 同情的な)            He was sympathetic to my situation.
+  - `accessible` /ækˈsesəbəl/       ([Neutral] 理解しやすい、近づき) The book is accessible to beginners.
+  - `approachable` /əˈproʊtʃəbəl/   ([Neutral] 親しみやすい)        The manager is very approachable.
+  - `connect with` /kəˈnekt wɪð/    ([Neutral] つながる、共感する)  I really connect with her music.
+  - `identify with` /aɪˈdentɪfaɪ wɪð/ ([Neutral] 共感する、同一視する) Many people identify with his struggles.
+  - `relatable` /rɪˈleɪtəbəl/       ([Casual] 共感できる)           Her story is very relatable.
+  - `empathetic` /ˌempəˈθetɪk/      ([Formal] 共感的な)             She's very empathetic to others' feelings.
+  - `resonate with` /ˈrezəneɪt wɪð/ ([Neutral] 心に響く、共鳴する)  Her words resonate with the audience.
+  - `identifiable` /aɪˌdentɪˈfaɪəbəl/ ([Formal] 識別できる、共感できる) The character is identifiable to readers.
+
+## Family and Inheritance
+- `inherit` /ɪnˈherɪt/               ([Neutral] 相続する)      She inherited her mother's house.
+- `inheritance` /ɪnˈherɪtəns/        ([Neutral] 相続)          He received a large inheritance.
+- `heir` /eər/                       ([Neutral] 相続人)        The prince is heir to the throne.
+- `heritable` /ˈherɪtəbəl/           ([Writing] 相続可能な)    The disease is heritable.
+- `inherited` /ɪnˈherɪtɪd/           ([Neutral] 受け継いだ)    She has inherited musical talent.
+

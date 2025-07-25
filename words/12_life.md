@@ -1,12 +1,9 @@
-# House and Home
+# Food and Eating
 
-This category contains words related to homes, housing, furniture, and domestic life.
+This category contains food items, cooking, eating, and dining-related vocabulary.
 
 ## Words
 
-### Furniture
-
-#### Noun
 - `cloth` /klɒθ/                    ([Neutral] 布、生地)            The table was covered with a white cloth.
 - `clothesline` /ˈkləʊðzlaɪn/       ([Neutral] 物干しロープ)        Hang the laundry on the clothesline.
 - `clothespin` /ˈkləʊðzpɪn/         ([Neutral] 洗濯ばさみ)          Use clothespins to secure the sheets.

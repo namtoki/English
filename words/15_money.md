@@ -1,4 +1,4 @@
-# Money and Financial Matters
+# Money
 
 This category contains words related to money, spending, earning, and financial activities.
 

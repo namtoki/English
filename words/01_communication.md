@@ -138,8 +138,8 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `divulge` /daɪˈvʌldʒ/           ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
     - `divulgence` /daɪˈvʌldʒəns/   ([Writing] 暴露、漏洩)          The divulgence of secrets was forbidden.
   - `let out` /let aʊt/             ([Casual] 漏らす、明かす)       Don't let out the secret.
-  - `blow the whistle` /bloʊ ðə ˈwɪsəl/ ([Casual] 内部告発する)     She blew the whistle on corruption.
-    - `whistleblower` /ˈwɪsəlbloʊər/ ([Neutral] 内部告発者)         The whistleblower exposed the scandal.
+  - `blow the whistle`              ([Casual] 内部告発する)         She blew the whistle on corruption.
+    - `whistleblower`               ([Neutral] 内部告発者)          The whistleblower exposed the scandal.
   - `spill` /spɪl/                  ([Casual] こぼす、漏らす)       She spilled the beans about the surprise.
     - `spilling` /ˈspɪlɪŋ/          ([Casual] こぼし、漏らし)       The spilling of secrets was inevitable.
   - `rat out` /ræt aʊt/             ([Casual] 密告する、ちくる)     He ratted out his accomplice.

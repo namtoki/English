@@ -1,4 +1,4 @@
-# Conflict and Warfare
+# Conflict
 
 This category contains military terms, conflict situations, and combat-related vocabulary.
 
