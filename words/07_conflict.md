@@ -4,6 +4,12 @@ This category contains military terms, conflict situations, and combat-related v
 
 ## Words
 
+- `refute` /rɪˈfjuːt/                ([Formal] 反駁する、論駁する)   He refuted their arguments convincingly.
+  - `refutation` /ˌrefjuˈteɪʃən/     ([Formal] 反駁、論駁)           Her refutation was well-documented.
+  - `refutable` /rɪˈfjuːtəbəl/       ([Writing] 反駁できる)          The claim is easily refutable.
+- `disprove` /dɪsˈpruːv/             ([Neutral] 反証する、誤りを証明) The experiment disproved the hypothesis.
+  - `disproof` /dɪsˈpruːf/           ([Writing] 反証)                The disproof shocked the scientific community.
+
 - `ambush` /ˈæmbʊʃ/                 ([Neutral] 待ち伏せ、奇襲)      The soldiers set up an ambush.
 - `siege` /siːdʒ/                   ([Formal] 包囲、包囲戦)         The siege lasted for months.
 - `besiege` /bɪˈsiːdʒ/              ([Writing] 包囲する)            The castle was besieged for weeks.

@@ -4,6 +4,20 @@ This category contains words related to granting permission, authorization, and 
 
 ## Words
 
+- `falsify` /ˈfɔːlsɪfaɪ/             ([Formal] 偽造する、反証する)   He falsified the documents.
+  - `falsification` /ˌfɔːlsɪfɪˈkeɪʃən/ ([Formal] 偽造、改ざん)        The falsification was discovered.
+  - `falsified` /ˈfɔːlsɪfaɪd/        ([Formal] 偽造された)           The falsified records were destroyed.
+
+- `discredit` /dɪsˈkredɪt/           ([Neutral] 信用を失わせる)      The scandal discredited the politician.
+  - `discredited` /dɪsˈkredɪtɪd/     ([Neutral] 信用を失った)        His theories are now discredited.
+
+- `extension` /ɪkˈstenʃən/          ([Neutral] 延長、拡張)          The new wing is an extension of the hospital.
+  - `extend` /ɪkˈstend/             ([Neutral] 延ばす、拡張する)    They extended the deadline by a week.
+  - `extensive` /ɪkˈstensɪv/        ([Neutral] 広範囲の)            The damage was extensive.
+  - `extended` /ɪkˈstendɪd/         ([Neutral] 延長された、拡張した) We had an extended discussion about the project.
+- `subdivision` /ˌsʌbdɪˈvɪʒən/      ([Formal] 細分、分割)           Each subdivision has its own manager.
+  - `subdivide` /ˌsʌbdɪˈvaɪd/       ([Formal] 細分する)             They subdivided the land into smaller plots.
+
 ### Noun
 - `permission` /pəˈmɪʃən/           ([Neutral] 許可)                You need permission to enter this building.
 - `approval` /əˈpruːvəl/            ([Formal] 承認、賛成)           The plan received unanimous approval.

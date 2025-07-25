@@ -1,10 +1,6 @@
 # Communication
 
-This category contains words about speaking, suggesting, hinting, and expressing ideas.
-
-## Words
-
-### Communication
+## Communication
 - ✅ `let know` /let noʊ/           ([Neutral] 知らせる)            Let me know when you arrive.
   - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
     - `informative` /ɪnˈfɔːrmətɪv/  ([Neutral] 有益な、教育的な)    The lecture was very informative.
@@ -34,7 +30,7 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - ✅ `fill in` /fɪl ɪn/             ([Neutral] 詳しく情報提供する)  Please fill me in on what happened.
     - `fill-in` /ˈfɪl ɪn/           ([Neutral] 代役、穴埋め)        He's just a fill-in for today.
 
-### Speaking
+## Speaking
 - ✅ `tell` /tel/                   ([Neutral] 話す、伝える)        Please tell me what happened.
     - `telling` /ˈtelɪŋ/            ([Neutral] 効果的な、印象的な)  That was a telling comment.
   - `say` /seɪ/                     ([Neutral] 言う、述べる)        What did you say to him?
@@ -45,7 +41,7 @@ This category contains words about speaking, suggesting, hinting, and expressing
 - ✅ `get at` /ɡet æt/              ([Casual] 言おうとする)         What are you getting at?
   - `drive at` /draɪv æt/           ([Casual] 言おうとする)         I see what you're driving at.
 
-### Suggestion
+## Suggestion
 - ✅ `suggest` /səˈdʒest/           ([Neutral] 提案する、暗示する)  His tone suggested he was angry.
     - `suggestive` /səˈdʒestɪv/     ([Writing] 連想させる、示唆的)  The painting has a suggestive quality.
   - `recommend` /ˌrekəˈmend/        ([Neutral] 推薦する、勧める)    I recommend this restaurant.
@@ -94,7 +90,7 @@ This category contains words about speaking, suggesting, hinting, and expressing
     - `inference` /ˈɪnfərəns/       ([Formal] 推論、推測)           The inference was correct.
   - `drop a hint` /drɑːp ə hɪnt/    ([Casual] ほのめかす)           She dropped a hint about her birthday.
 
-### Expression
+## Expression
 - ✅ `show` /ʃoʊ/                   ([Neutral] 示す、見せる)        Show me what you mean.
   - `express` /ɪkˈspres/            ([Neutral] 表現する、述べる)    She expressed her feelings clearly.
     - `expressive` /ɪkˈspresɪv/     ([Neutral] 表現力豊かな)        She has very expressive eyes.
@@ -149,8 +145,11 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `tattle` /ˈtætəl/               ([Casual] 告げ口する)           Don't tattle on your sister.
     - `tattling` /ˈtætəlɪŋ/         ([Casual] 告げ口)               Tattling will get you in trouble.
     - `tattletale` /ˈtætəlteɪl/     ([Casual] 告げ口する人)         Nobody likes a tattletale.
+  - `debunk` /dɪˈbʌŋk/              ([Neutral] 正体を暴く 論破する) Scientists debunked the conspiracy theory.
+    - `debunking` /dɪˈbʌŋkɪŋ/       ([Neutral] 論破、暴露)          The debunking of myths is important.
+    - `debunked` /dɪˈbʌŋkt/         ([Neutral] 論破された)          That theory has been thoroughly debunked.
 
-### Request
+## Request
 - ✅ `ask` /æsk/                    ([Neutral] 頼む、尋ねる)        Can I ask you a favor?
   - `request` /rɪˈkwest/            ([Neutral] 要請する、頼む)      I request your assistance.
   - `please` /pliːz/                ([Neutral] お願いする 喜ばせる) Please help me with this.
