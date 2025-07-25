@@ -4,6 +4,85 @@ This category contains words for judging quality, making assessments, and expres
 
 ## Words
 
+### 感謝する
+- ✅ `thank` /θæŋk/                 ([Neutral] 感謝する、礼を言う)  Thank you for your help.
+  - ✅ `appreciate` /əˈpriːʃieɪt/   ([Neutral] 感謝する、評価)      I appreciate your help with this project.
+    - `appreciative` /əˈpriːʃətɪv/  ([Formal] 感謝している)         She was appreciative of their support.
+  - `grateful` /ˈɡreɪtfəl/          ([Neutral] 感謝している)        I'm grateful for your assistance.
+    - `gratefully` /ˈɡreɪtfəli/     ([Neutral] 感謝して)            She gratefully accepted the offer.
+    - `gratefulness` /ˈɡreɪtfəlnəs/ ([Neutral] 感謝の気持ち)        His gratefulness was evident.
+  - `gratitude` /ˈɡrætɪtuːd/        ([Formal] 感謝、謝意)           I express my deep gratitude.
+    - `gratifying` /ˈɡrætɪfaɪɪŋ/    ([Formal] 満足させる、喜ばしい) The results were gratifying.
+    - `gratification` /ˌɡrætɪfɪˈkeɪʃən/ ([Formal] 満足、喜び)       He found gratification in helping others.
+  - `acknowledge` /əkˈnɑːlɪdʒ/      ([Formal] 認める、感謝を示す)   I acknowledge your contribution.
+    - `acknowledgment` /əkˈnɑːlɪdʒmənt/ ([Formal] 承認、感謝の表明) The acknowledgment was sincere.
+  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認識する、功績認める) We recognize your efforts.
+  - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit him for the success.
+    - `creditable` /ˈkredɪtəbəl/    ([Formal] 称賛に値する)         His performance was creditable.
+  - `obliged` /əˈblaɪdʒd/           ([Formal] 恩義を感じる)         I'm much obliged for your help.
+    - `obliging` /əˈblaɪdʒɪŋ/       ([Neutral] 親切な、世話好きな)  She's always very obliging.
+  - `indebted` /ɪnˈdetɪd/           ([Formal] 恩義がある)           I'm indebted to you for this.
+    - `indebtedness` /ɪnˈdetɪdnəs/  ([Formal] 恩義、借金)           His indebtedness was clear.
+  - `beholden` /bɪˈhoʊldən/         ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
+  - `owe` /oʊ/                      ([Neutral] 借りがある、恩がある) I owe you a debt of gratitude.
+
+### 支持する
+- ✅ `support` /səˈpɔːrt/           ([Neutral] 支持する、支える)    I support your decision.
+    - `supporter` /səˈpɔːrtər/       ([Neutral] 支持者、応援者)      She's a strong supporter of the cause.
+    - `supportive` /səˈpɔːrtɪv/      ([Neutral] 支援的な、励ましの)  He was very supportive during the crisis.
+  - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.
+    - `backing` /ˈbækɪŋ/             ([Neutral] 支持、後援)          The project has government backing.
+    - `backer` /ˈbækər/              ([Neutral] 支援者、後援者)      He found several backers for his startup.
+  - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
+    - `favorable` /ˈfeɪvərəbəl/     ([Neutral] 好意的な、有利な)    The review was favorable.
+    - `favorably` /ˈfeɪvərəbli/     ([Neutral] 好意的に)            The proposal was favorably received.
+  - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The committee approved the plan.
+    - `approval` /əˈpruːvəl/         ([Neutral] 承認、賛成)          We need your approval to proceed.
+    - `approving` /əˈpruːvɪŋ/       ([Neutral] 賛成の、承認の)      She gave an approving nod.
+  - `agree` /əˈɡriː/                ([Neutral] 同意する、賛成する)  I agree with your assessment.
+    - `agreement` /əˈɡriːmənt/       ([Neutral] 同意、合意)          We reached an agreement.
+    - `agreeable` /əˈɡriːəbəl/       ([Neutral] 快い、同意できる)    He's an agreeable person.
+  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by you no matter what.
+    - `standby` /ˈstænbaɪ/           ([Neutral] 待機、予備)          The backup generator is on standby.
+  - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
+  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He championed the rights of workers.
+    - `championship` /ˈtʃæmpiənʃɪp/ ([Neutral] 擁護、優勝)          She won the championship last year.
+  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、擁護する)   I advocate for better education.
+    - `advocacy` /ˈædvəkəsi/         ([Formal] 擁護、支持)           His advocacy for peace was inspiring.
+    - `advocate` /ˈædvəkət/          ([Formal] 擁護者、支持者)       She's an advocate for children's rights.
+  - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
+    - `promotion` /prəˈmoʊʃən/       ([Neutral] 促進、昇進)          The promotion of democracy is important.
+    - `promotional` /prəˈmoʊʃənəl/   ([Neutral] 宣伝の、促進の)      This is a promotional campaign.
+  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、裏書)       The senator endorsed the legislation.
+    - `endorsement` /ɪnˈdɔːrsmənt/   ([Formal] 支持、裏書)           The celebrity's endorsement boosted sales.
+  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
+    - `upholding` /ʌpˈhoʊldɪŋ/      ([Formal] 支持、維持)           The upholding of justice is crucial.
+  - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
+    - `sustainable` /səˈsteɪnəbəl/   ([Formal] 持続可能な)           We need sustainable solutions.
+    - `sustainability` /səˌsteɪnəˈbɪləti/ ([Formal] 持続可能性)      Environmental sustainability matters.
+  - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
+    - `rallying` /ˈræliɪŋ/           ([Neutral] 結集、集合)          It became a rallying cry for change.
+  - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
+    - `bolstering` /ˈboʊlstərɪŋ/    ([Formal] 強化、支援)           The bolstering of defenses was necessary.
+  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
+    - `reinforcement` /ˌriːɪnˈfɔːrsmənt/ ([Formal] 強化、補強)      We need reinforcement of the rules.
+
+  - `exemplify` /ɪɡˈzemplɪfaɪ/      ([Formal] 例証する、体現する)   She exemplifies professionalism.
+    - `exemplification` /ɪɡˌzemplɪfɪˈkeɪʃən/ ([Writing] 例証、実例)  The exemplification was clear.
+    - `exemplary` /ɪɡˈzempləri/     ([Formal] 模範的な)             His behavior was exemplary.
+  - `embody` /ɪmˈbɑːdi/             ([Formal] 体現する、具体化)     She embodies grace and elegance.
+    - `embodiment` /ɪmˈbɑːdimənt/   ([Formal] 体現、具体化)         He is the embodiment of courage.
+  - `typify` /ˈtɪpɪfaɪ/             ([Formal] 典型を示す)           This case typifies the problem.
+    - `typical` /ˈtɪpɪkəl/          ([Neutral] 典型的な)            That's typical of him.
+  - `characterize` /ˈkærəktəraɪz/   ([Formal] 特徴づける)           What characterizes this period?
+    - `characterization` /ˌkærəktəraɪˈzeɪʃən/ ([Formal] 特徴づけ)    The characterization was apt.
+  - `symbolize` /ˈsɪmbəlaɪz/        ([Neutral] 象徴する)            The dove symbolizes peace.
+    - `symbol` /ˈsɪmbəl/            ([Neutral] 象徴、記号)          The heart is a symbol of love.
+    - `symbolic` /sɪmˈbɒlɪk/        ([Neutral] 象徴的な)            The gesture was purely symbolic.
+    - `symbolism` /ˈsɪmbəlɪzəm/     ([Writing] 象徴主義、象徴性)    The novel is rich in symbolism.
+  - `epitomize` /ɪˈpɪtəmaɪz/        ([Writing] 典型となる、縮図)    He epitomizes the American dream.
+    - `epitome` /ɪˈpɪtəmi/          ([Writing] 典型、縮図)          She's the epitome of elegance.
+
 ## 褒める
 - `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
 - `praise` /preɪz/                   ([Neutral] 称賛する、褒める)   She praised him for his hard work.

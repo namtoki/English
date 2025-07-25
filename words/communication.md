@@ -4,17 +4,15 @@ This category contains words about speaking, suggesting, hinting, and expressing
 
 ## Words
 
-### 伝える
+### 知らせる
 - ✅ `tell` /tel/                   ([Neutral] 話す、伝える)        Please tell me what happened.
     - `telling` /ˈtelɪŋ/            ([Neutral] 効果的な、印象的な)  That was a telling comment.
   - `say` /seɪ/                     ([Neutral] 言う、述べる)        What did you say to him?
     - `saying` /ˈseɪɪŋ/             ([Neutral] ことわざ、格言)      There's an old saying about that.
   - `speak` /spiːk/                 ([Neutral] 話す、演説する)      May I speak with you privately?
   - `talk` /tɔːk/                   ([Neutral] 話す、話し合う)      We need to talk about this.
+  - `explain` /ɪkˈspleɪn/           ([Neutral] 説明する、解釈する)  Let me explain the situation.
   - `communicate` /kəˈmjuːnɪkeɪt/   ([Neutral] 意思疎通する)        We communicate via email.
-  - `express` /ɪkˈspres/            ([Neutral] 表現する、述べる)    She expressed her concerns clearly.
-    - `expression` /ɪkˈspreʃən/     ([Neutral] 表現、表情)          His expression showed surprise.
-    - `expressive` /ɪkˈspresɪv/     ([Neutral] 表現力豊かな)        She has very expressive eyes.
   - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
     - `informative` /ɪnˈfɔːrmətɪv/  ([Neutral] 有益な、教育的な)    The lecture was very informative.
   - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
@@ -30,6 +28,37 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
   - `disseminate` /dɪˈsemɪneɪt/     ([Writing] 普及する、広める)    They disseminated the information widely.
     - `dissemination` /dɪˌsemɪˈneɪʃən/ ([Writing] 普及、配布)       The dissemination of research findings~~
+  - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
+
+### 表現する (能動的に・必ずしも会話ではない)
+- ✅ `show` /ʃoʊ/                   ([Neutral] 示す、見せる)        Show me what you mean.
+  - `express` /ɪkˈspres/            ([Neutral] 表現する、述べる)    She expressed her feelings clearly.
+    - `expressive` /ɪkˈspresɪv/     ([Neutral] 表現力豊かな)        She has very expressive eyes.
+    - `expressly` /ɪkˈspresli/      ([Formal] 明確に、特に)         I expressly told you not to.
+  - `present` /prɪˈzent/            ([Neutral] 提示する、発表する)  She will present her findings.
+  - `manifest` /ˈmænɪfest/          ([Formal] 明示する、現れる)     Her talent manifests in her art.
+    - `manifestation` /ˌmænɪfeˈsteɪʃən/ ([Formal] 現れ、明示)       This is a manifestation of stress.
+  - `represent` /ˌreprɪˈzent/       ([Neutral] 代表する、表す)      The flag represents our nation.
+    - `representation` /ˌreprɪzenˈteɪʃən/ ([Neutral] 表現、代表)    Her representation of the character was perfect.
+    - `representative` /ˌreprɪˈzentətɪv/ ([Neutral] 代表的な、代表者) He is a representative of the company.
+  - `illustrate` /ˈɪləstreɪt/       ([Neutral] 説明する、例証する)  This example illustrates my point.
+    - `illustrative` /ɪˈlʌstrətɪv/  ([Formal] 説明的な、例証的な)   These cases are illustrative of the problem.
+  - `demonstrate` /ˈdemənstreɪt/     ([Neutral] 実証する、示す)      He demonstrated his skill.
+    - `demonstrative` /dɪˈmɒnstrətɪv/ ([Formal] 感情を表に出す)    She's not very demonstrative.
+
+### 表現する (やや受動的)
+- ✅ `display` /dɪˈspleɪ/           ([Neutral] 示す、陳列する)      The store displays its best products.
+  - `exhibit` /ɪɡˈzɪbɪt/            ([Formal] 展示する、示す)       The museum exhibits ancient artifacts.
+    - `exhibition` /ˌeksɪˈbɪʃən/    ([Neutral] 展覧会、展示)        The art exhibition opens tomorrow.
+    - `exhibitor` /ɪɡˈzɪbɪtər/      ([Formal] 出展者)               The exhibitor displayed new products.
+
+### 表現する (能動的) (描写)
+- ✅ `describe` /dɪˈskraɪb/         ([Neutral] 描写する、説明する)  Can you describe what happened?
+    - `descriptive` /dɪˈskrɪptɪv/   ([Neutral] 描写的な)            Use more descriptive language.
+  - `portray` /pɔːrˈtreɪ/           ([Neutral] 描写する、演じる)    The actor portrayed a villain.
+    - `portrayal` /pɔːrˈtreɪəl/     ([Neutral] 描写、肖像)          His portrayal was realistic.
+  - `depict` /dɪˈpɪkt/              ([Neutral] 描く、描写する)      The painting depicts a rural scene.
+    - `depiction` /dɪˈpɪkʃən/       ([Neutral] 描写、叙述)          The depiction was accurate.
 
 ### 提案する
 - ✅ `suggest` /səˈdʒest/           ([Neutral] 提案する、暗示する)  His tone suggested he was angry.
@@ -76,25 +105,18 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - `tell` /tel/                    ([Neutral] 注意する、言い聞かせる) I told him to be careful.
   - `caution` /ˈkɔːʃən/             ([Neutral] 警告する、注意する)  The doctor cautioned against overwork.
     - `cautionary` /ˈkɔːʃəneri/     ([Formal] 警告的な)             It's a cautionary tale.
-    - `cautious` /ˈkɔːʃəs/          ([Neutral] 用心深い、慎重な)    Be cautious when driving.
   - `alert` /əˈlɜːrt/               ([Neutral] 警戒させる、注意喚起) We alerted them to the problem.
     - `alertness` /əˈlɜːrtnəs/      ([Neutral] 警戒心、注意深さ)    His alertness saved the day.
   - `advise` /ədˈvaɪz/              ([Neutral] 忠告する、助言する)  I advise you to study harder.
-    - `advice` /ədˈvaɪs/            ([Neutral] 忠告、助言)          Take my advice seriously.
-    - `advisor` /ədˈvaɪzər/         ([Neutral] 助言者、顧問)        She's my academic advisor.
     - `advisory` /ədˈvaɪzəri/       ([Formal] 勧告的な、助言の)     They issued an advisory notice.
   - `remind` /rɪˈmaɪnd/             ([Neutral] 思い出させる、注意)  Remind me to call tomorrow.
-    - `reminder` /rɪˈmaɪndər/       ([Neutral] リマインダー、催促)  Set a reminder on your phone.
   - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   Please notify us of any changes.
-    - `notification` /ˌnoʊtɪfɪˈkeɪʃən/ ([Formal] 通知、通告)        I received a notification.
   - `admonish` /ədˈmɑːnɪʃ/          ([Formal] 諭す、勧告する)       She admonished him to be more careful.
     - `admonishment` /ədˈmɑːnɪʃmənt/ ([Formal] 訓戒、警告)          His admonishment was stern but fair.
     - `admonition` /ˌædməˈnɪʃən/    ([Formal] 忠告、説諭、訓戒)     The judge gave a stern admonition.
   - `forewarn` /fɔːrˈwɔːrn/         ([Formal] 前もって警告する)     We forewarned them of delays.
     - `forewarning` /fɔːrˈwɔːrnɪŋ/  ([Formal] 事前警告)             They gave us no forewarning.
   - `counsel` /ˈkaʊnsəl/            ([Formal] 助言する、相談する)   The lawyer counseled patience.
-    - `counselor` /ˈkaʊnsələr/      ([Neutral] カウンセラー、顧問)  She's a guidance counselor.
-  - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
   - `exhort` /ɪɡˈzɔːrt/             ([Writing] 熱心に勧める、諭す)  He exhorted them to try harder.
     - `exhortation` /ˌeɡzɔːrˈteɪʃən/ ([Writing] 勧告、激励)         His exhortation inspired the team.
 
@@ -129,54 +151,39 @@ This category contains words about speaking, suggesting, hinting, and expressing
   - ✅ `get at` /ɡet æt/            ([Casual] 言おうとする)         What are you getting at?
   - `drive at` /draɪv æt/           ([Casual] 言おうとする)         I see what you're driving at.
 
-## 感謝する
-- `appreciation` /əˌpriːʃiˈeɪʃən/    ([Neutral] 感謝、正しい評価)  I want to express my appreciation for your help.
-  - `appreciate` /əˈpriːʃieɪt/       ([Neutral] 感謝する、評価)   I appreciate your help with this project.
-  - `appreciative` /əˈpriːʃətɪv/     ([Formal] 感謝している)      She was appreciative of their support.
-
-## 支持する
-- `endorsement` /ɪnˈdɔːrsmənt/       ([Formal] 支持、裏書)        The celebrity's endorsement boosted sales.
-  - `endorse` /ɪnˈdɔːrs/             ([Formal] 支持する、裏書)    The senator endorsed the legislation.
-
 ### 暴露する・明かす
-- `divulge` /daɪˈvʌldʒ/             ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
-  - `divulgence` /daɪˈvʌldʒəns/     ([Writing] 暴露、漏洩)          The divulgence of secrets was forbidden.
-- `reveal` /rɪˈviːl/               ([Neutral] 明らかにする)        She revealed her true feelings.
-  - `revelation` /ˌrevəˈleɪʃən/     ([Neutral] 暴露、啓示)          The revelation shocked everyone.
-  - `revealing` /rɪˈviːlɪŋ/         ([Neutral] 明らかにする)        Her comments were very revealing.
-- `disclose` /dɪsˈkloʊz/            ([Formal] 開示する、明らかにする)  The company disclosed its financial results.
-  - `disclosure` /dɪsˈkloʊʒər/       ([Formal] 開示、暴露)          Full disclosure is required by law.
-- `expose` /ɪkˈspoʊz/               ([Neutral] 暴露する、さらす)      The scandal exposed corruption.
-  - `exposure` /ɪkˈspoʊʒər/          ([Neutral] 暴露、露出)          The exposure of fraud led to arrests.
-- `confess` /kənˈfes/               ([Neutral] 告白する、白状する)    He confessed his mistake.
-  - `confession` /kənˈfeʃən/        ([Neutral] 告白、自白)          Her confession surprised everyone.
-- `confide` /kənˈfaɪd/              ([Neutral] 打ち明ける、信頼して話す) She confided in her best friend.
-  - `confidant` /ˈkɑːnfɪdænt/       ([Neutral] 親友、信頼できる人)    He was her trusted confidant.
-  - `confidence` /ˈkɑːnfɪdəns/      ([Neutral] 信頼、自信)          She spoke in confidence.
-  - `confidential` /ˌkɑːnfɪˈdenʃəl/  ([Formal] 機密の)              The information is confidential.
-- `leak` /liːk/                    ([Neutral] 漏らす、漏れる)      Someone leaked the information.
-  - `leakage` /ˈliːkɪdʒ/            ([Neutral] 漏洩、漏れ)          The leakage of data was serious.
-- `betray` /bɪˈtreɪ/               ([Neutral] 裏切る、漏らす)      He betrayed their trust.
-  - `betrayal` /bɪˈtreɪəl/          ([Neutral] 裏切り)              The betrayal hurt deeply.
-- `unveil` /ʌnˈveɪl/               ([Formal] 明らかにする、発表する)  They unveiled the new product.
-  - `unveiling` /ʌnˈveɪlɪŋ/         ([Formal] 発表、除幕式)        The unveiling ceremony was grand.
-- `uncover` /ʌnˈkʌvər/             ([Neutral] 暴く、発見する)       The investigation uncovered fraud.
-- `spill` /spɪl/                   ([Casual] こぼす、漏らす)       She spilled the beans about the surprise.
-
-### 表現する・例証する
-- `represent` /ˌreprɪˈzent/         ([Neutral] 代表する、表す)      The flag represents our nation.
-  - `representation` /ˌreprɪzenˈteɪʃən/ ([Neutral] 表現、代表)      Her representation of the character was perfect.
-  - `representative` /ˌreprɪˈzentətɪv/ ([Neutral] 代表的な、代表者)  He is a representative of the company.
-- `symbolize` /ˈsɪmbəlaɪz/          ([Neutral] 象徴する)            The dove symbolizes peace.
-  - `symbol` /ˈsɪmbəl/              ([Neutral] 象徴、記号)          The heart is a symbol of love.
-  - `symbolic` /sɪmˈbɒlɪk/          ([Neutral] 象徴的な)            The gesture was purely symbolic.
-  - `symbolism` /ˈsɪmbəlɪzəm/       ([Writing] 象徴主義、象徴性)    The novel is rich in symbolism.
-- `illustrate` /ˈɪləstreɪt/         ([Neutral] 説明する、例証する)  This example illustrates my point.
-  - `illustration` /ˌɪləˈstreɪʃən/  ([Neutral] 説明、例証、挿絵)    The book contains many illustrations.
-  - `illustrative` /ɪˈlʌstrətɪv/    ([Formal] 説明的な、例証的な)   These cases are illustrative of the problem.
-- `demonstrate` /ˈdemənstreɪt/       ([Neutral] 実証する、示す)      He demonstrated his skill.
-  - `demonstration` /ˌdemənˈstreɪʃən/ ([Neutral] 実演、証明)        The demonstration was convincing.
-  - `demonstrative` /dɪˈmɒnstrətɪv/ ([Formal] 感情を表に出す)       She's not very demonstrative.
+- ✅ `reveal` /rɪˈviːl/             ([Neutral] 明らかにする)        She revealed her true feelings.
+    - `revelation` /ˌrevəˈleɪʃən/   ([Neutral] 暴露、啓示)          The revelation shocked everyone.
+    - `revealing` /rɪˈviːlɪŋ/       ([Neutral] 明らかにする)        Her comments were very revealing.
+  - `expose` /ɪkˈspoʊz/             ([Neutral] 暴露する、さらす)    The scandal exposed corruption.
+  - `confess` /kənˈfes/             ([Neutral] 告白する、白状する)  He confessed his mistake.
+  - `admit` /ədˈmɪt/                ([Neutral] 認める、白状する)    I admit I was wrong.
+    - `admittedly` /ədˈmɪtɪdli/     ([Neutral] 確かに、認めるが)    Admittedly, it was a mistake.
+  - `share` /ʃɛər/                  ([Neutral] 共有する打ち明ける)  She shared her secret with me.
+  - `leak` /liːk/                   ([Neutral] 漏らす、漏れる)      Someone leaked the information.
+  - `confide` /kənˈfaɪd/            ([Neutral] 打ち明ける、信頼して話す) She confided in her best friend.
+    - `confidant` /ˈkɑːnfɪdænt/     ([Neutral] 親友、信頼できる人)  He was her trusted confidant.
+    - `confidential` /ˌkɑːnfɪˈdenʃəl/ ([Formal] 機密の)             The information is confidential.
+  - `uncover` /ʌnˈkʌvər/            ([Neutral] 暴く、発見する)      The investigation uncovered fraud.
+    - `uncovering` /ʌnˈkʌvərɪŋ/     ([Neutral] 発見、暴露)          The uncovering of truth was important.
+  - `disclose` /dɪsˈkloʊz/          ([Formal] 開示する、明らかにする) The company disclosed its financial results.
+  - `betray` /bɪˈtreɪ/              ([Neutral] 裏切る、漏らす)      He betrayed their trust.
+  - `unveil` /ʌnˈveɪl/              ([Formal] 明らかにする、発表する) They unveiled the new product.
+    - `unveiling` /ʌnˈveɪlɪŋ/       ([Formal] 発表、除幕式)        The unveiling ceremony was grand.
+  - `divulge` /daɪˈvʌldʒ/           ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
+    - `divulgence` /daɪˈvʌldʒəns/   ([Writing] 暴露、漏洩)          The divulgence of secrets was forbidden.
+  - `let out` /let aʊt/             ([Casual] 漏らす、明かす)       Don't let out the secret.
+  - `blow the whistle` /bloʊ ðə ˈwɪsəl/ ([Casual] 内部告発する)    She blew the whistle on corruption.
+    - `whistleblower` /ˈwɪsəlbloʊər/ ([Neutral] 内部告発者)        The whistleblower exposed the scandal.
+  - `spill` /spɪl/                  ([Casual] こぼす、漏らす)       She spilled the beans about the surprise.
+    - `spilling` /ˈspɪlɪŋ/          ([Casual] こぼし、漏らし)      The spilling of secrets was inevitable.
+  - `rat out` /ræt aʊt/             ([Casual] 密告する、ちくる)     He ratted out his accomplice.
+  - `snitch` /snɪtʃ/                ([Casual] 密告する、ちくる)     Don't snitch on your friends.
+  - `blab` /blæb/                   ([Casual] ペラペラしゃべる)     She blabbed about the surprise party.
+    - `blabbing` /ˈblæbɪŋ/          ([Casual] おしゃべり)          His blabbing ruined the surprise.
+  - `tattle` /ˈtætəl/               ([Casual] 告げ口する)           Don't tattle on your sister.
+    - `tattling` /ˈtætəlɪŋ/         ([Casual] 告げ口)              Tattling will get you in trouble.
+    - `tattletale` /ˈtætəlteɪl/     ([Casual] 告げ口する人)        Nobody likes a tattletale.
 
 ### 色々
 - `and all that` /ænd ɔːl ðæt/        ([Casual] などなど、~とか)       He likes movies, books, and all that.

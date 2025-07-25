@@ -5,6 +5,10 @@ implore
 entreat
 beseech
 supplicate
+apprise
+snitch
+blab
+tattle
 penchant
 ambush
 scrupulous
