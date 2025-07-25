@@ -4,7 +4,7 @@ This category contains words about clothes, fashion, and physical appearance.
 
 ## Words
 
-### 服
+### Clothes
 - ✅ `outfit` /ˈaʊtfɪt/             ([Casual] 服装一式、衣装)       I love your outfit today!
 - ✅ `clothes` /kləʊðz/             ([Neutral] 服、衣服)            I need to wash my clothes.
 - ✅ `threads` /θredz/              ([Casual] [若者] 服、衣服)        Nice threads! Where did you get them?
@@ -17,10 +17,6 @@ This category contains words about clothes, fashion, and physical appearance.
   - `ensemble` /ɒnˈsɒmbl/           ([Formal] 一揃いの服装)         Her ensemble was perfectly coordinated.
   - `gear` /ɡɪər/                   ([Casual] [スポーツ] 装備、服装)  Don't forget your hiking gear.
   - `costume` /ˈkɒstjuːm/           ([Neutral] [特定用途] 衣装、仮装) She wore a traditional costume.
-- `wear` /weər/                     ([Neutral] 着用、磨耗)          The shoes show signs of wear.
-- `wearer` /ˈweərər/                ([Neutral] 着用者)              The wearer of this hat is stylish.
-
-### 着る/脱ぐ
 - ✅ `put on` /pʊt ɒn/              ([Neutral] 着る、身に着ける)    Please put on your jacket.
   - `wear` /weər/                   ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
   - `slip on` /slɪp ɒn/             ([Casual] さっと着る)           I'll just slip on a sweater.
@@ -34,12 +30,11 @@ This category contains words about clothes, fashion, and physical appearance.
 - ✅ `take off` /teɪk ɒf/           ([Neutral] 脱ぐ)                Take off your shoes at the door.
   - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
   - `shed` /ʃɛd/                    ([Neutral] 脱ぐ)                He shed his coat at the door.
-    - `shedding` /ˈʃɛdɪŋ/           ([Neutral] 脱ぐこと)            The shedding of winter clothes signals spring.
   - `slip off` /slɪp ɒf/            ([Casual] さっと脱ぐ)           She slipped off her shoes.
   - `doff` /dɒf/                    ([Formal] 脱ぐ)                 He doffed his hat politely.
   - `strip` /strɪp/                 ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
-
-### 形容詞
+- `wear` /weər/                     ([Neutral] 着用、磨耗)          The shoes show signs of wear.
+- `wearer` /ˈweərər/                ([Neutral] 着用者)              The wearer of this hat is stylish.
 - `dressed` /drest/                 ([Neutral] 服を着た)            She was dressed in black.
 - `wearable` /ˈweərəbl/             ([Neutral] 着用可能な)          This fabric is soft and wearable.
-- `worn` /wɔːn/                     ([Neutral] 着古した、使い古した) His jeans looked worn and faded.
+- `worn` /wɔːn/                     ([Neutral] 着古した使い古した)  His jeans looked worn and faded.
