@@ -1,5 +1,5 @@
 
-  1. physical-actions.md - 身体動作・運動
+  1. actions.md - 身体動作・運動
   climb, jump, run, walk, carry, lift, push, pull, dance, swim
 
   2. mental-cognitive.md - 思考・認知プロセス
@@ -32,7 +32,7 @@
   11. medical-health.md - 医療・健康
   doctor, medicine, treatment, surgery, symptom, heal, cure, patient
 
-  12. quality-evaluation.md - 品質・評価
+  12. evaluation.md - 物, 人に対する評価
   good, bad, excellent, perfect, flawless, poor, quality, judgment
 
   13. time-sequence.md - 時間・順序

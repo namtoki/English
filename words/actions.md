@@ -36,4 +36,27 @@ This category contains verbs and nouns related to bodily movement, physical acti
 - `molt` /məʊlt/                    ([Writing] 脱皮する)            Birds molt their feathers.
 - `slough` /slʌf/                   ([Writing] 脱ぎ捨てる)          The snake sloughed its skin.
 
+### 呼ぶ
+- ✅ `call` /kɔːl/                  ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
+  - `shout` /ʃaʊt/                  ([Neutral] 叫ぶ、大声で言う)    He shouted across the street.
+  - `yell` /jɛl/                    ([Casual] 叫ぶ、怒鳴る)        The coach yelled at the players.
+  - `ring` /rɪŋ/                    ([Neutral] 電話する、鳴らす)    I'll ring you tomorrow.
+  - `phone` /foʊn/                  ([Neutral] 電話する)            Can you phone the restaurant?
+  - `name` /neɪm/                   ([Neutral] 名前を付ける)        They named their baby Sarah.
+  - `cry` /kraɪ/                    ([Neutral] 叫ぶ、泣く)          She cried out in pain.
+  - `contact` /ˈkɑːntækt/           ([Neutral] 連絡する)            Please contact me if you need help.
+  - `holler` /ˈhɑːlər/              ([Casual] 大声で呼ぶ)           He hollered for help.
+  - `dial` /ˈdaɪəl/                 ([Neutral] ダイヤルする)        Please dial the emergency number.
+
+### 呼び出す
+- ✅ `get` /ɡɛt/                    ([Neutral] 取ってくる、呼び出す) Can you get the manager?
+  - `bring` /brɪŋ/                  ([Neutral] 連れてくる、持参)    Please bring your friend to the party.
+  - `fetch` /fɛtʃ/                  ([Neutral] 取ってくる、連れてくる) Go fetch the newspaper from outside.
+  - `retrieve` /rɪˈtriːv/           ([Formal] 取り戻す、回収する)   Please retrieve the files from the archive.
+  - `send for` /sɛnd fɔːr/          ([Neutral] 呼びに行かせる)      We sent for the doctor immediately.
+  - `call out` /kɔːl aʊt/           ([Neutral] 呼び出す、非難する)  The teacher called out the student's name.
+- ✅ `call up` /kɔːl ʌp/            ([Neutral] 電話する、呼び出す)  I'll call you up tomorrow.
+  - `summon` /ˈsʌmən/               ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
+    - `summons` /ˈsʌmənz/           ([Writing] 召喚状、呼び出し)    He received a summons to appear in court.
+
 <!-- Add vocabulary entries here using the format from format.md -->

@@ -86,3 +86,10 @@ This category contains military terms, conflict situations, and combat-related v
 - `cleft` /kleft/                   ([Writing] 裂け目、割れ目)      The cleft in the mountain was deep.
 - `chasm` /ˈkæzəm/                 ([Writing] 深い割れ目、隔たり)  A chasm exists between rich and poor.
 - `evacuation` /ɪˌvækjuˈeɪʃn/        ([Formal] 避難)           The evacuation was ordered due to the fire.
+
+
+- `humiliate` /hjuˈmɪlieɪt/         ([Neutral] 屈辱を与える)        She was humiliated by his remarks.
+  - `humiliation` /hjuˌmɪliˈeɪʃən/  ([Neutral] 屈辱、恥)            The humiliation was unbearable.
+  - `humiliating` /hjuˈmɪlieɪtɪŋ/   ([Neutral] 屈辱的な)            It was a humiliating defeat.
+
+

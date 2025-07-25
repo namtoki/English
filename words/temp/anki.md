@@ -1,5 +1,10 @@
 salient
 sway
+exhort
+implore
+entreat
+beseech
+supplicate
 penchant
 ambush
 scrupulous
