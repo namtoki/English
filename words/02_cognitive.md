@@ -1,6 +1,29 @@
 # Cognitive
 
 ## Action
+- ✅ `think` /θɪŋk/                 ([Neutral] だと思う、考える)    I think he's right about this.
+    - `thoughtful` /ˈθɔːtfəl/       ([Neutral] 思慮深い)            She gave a thoughtful response.
+  - ✅ `believe` /bɪˈliːv/          ([Neutral] だと思う、信じる)    I believe this is the right choice.
+  - ✅ `suppose` /səˈpoʊz/          ([Neutral] だと思う、仮定する)  I suppose you're right.
+    - `supposition` /ˌsʌpəˈzɪʃən/   ([Formal] 仮定、推定)           That's just a supposition.
+    - `supposedly` /səˈpoʊzɪdli/    ([Neutral] だと思われている)    He's supposedly very wealthy.
+  - ✅ `assume` /əˈsuːm/            ([Neutral] だと思う、仮定する)  I assume he'll be late again.
+  - ✅ `feel` /fiːl/                ([Neutral] だと思う、感じる)    I feel this is the best option.
+  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
+  - ✅ `guess` /ɡes/                ([Casual] だと思う、推測する)   I guess you're probably right.
+    - `guesswork` /ˈɡeswɜːrk/       ([Casual] 当て推量)             It's all guesswork at this point.
+  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
+    - `reckoning` /ˈrekənɪŋ/        ([Casual] 計算、清算)           By my reckoning, we owe $50.
+  - `consider` /kənˈsɪdər/          ([Neutral] だと思う、考慮する)  I consider him a good friend.
+    - `consideration`               ([Neutral] 考慮、思いやり)      Give it serious consideration.
+    - `considerable` /kənˈsɪdərəbəl/([Neutral] かなりの)            That's a considerable amount.
+    - `considerate` /kənˈsɪdərət/   ([Neutral] 思いやりのある)      He's always considerate of others.
+  - `presume` /prɪˈzuːm/            ([Formal] だと思う、推定する)   I presume you've read the report.
+    - `presumption` /prɪˈzʌmpʃən/   ([Formal] 推定、思い上がり)     That's a reasonable presumption.
+    - `presumptuous` /prɪˈzʌmptʃuəs/([Formal] 生意気な、図々しい)   Don't be so presumptuous.
+    - `presumably` /prɪˈzuːməbli/   ([Formal] おそらく)             Presumably, he'll arrive on time.
+  - `surmise` /sərˈmaɪz/            ([Writing] だと思う、推測する)  I surmise that he's already left.
+    - `surmising` /sərˈmaɪzɪŋ/      ([Writing] 推測)                His surmising proved correct.
 - ✅ `remind` /rɪˈmaɪnd/            ([Neutral] 思い出させる)        This song reminds me of my childhood.
   - ✅ `remember` /rɪˈmembər/       ([Neutral] 思い出す 覚えている) I remember meeting you before.
     - `remembrance` /rɪˈmembrəns/   ([Formal] 記憶、追悼)           In remembrance of those we lost.
@@ -45,7 +68,7 @@
   - `make up` /meɪk ʌp/             ([Casual] でっち上げる、作る)   Don't make up stories.
   - `cook up` /kʊk ʌp/              ([Casual] でっち上げる)         He cooked up an excuse.
   - `concoct` /kənˈkɑːkt/           ([Formal] でっち上げる、作る)   She concocted an elaborate plan.
-    - `concoction` /kənˈkɑːkʃən/     ([Formal] 作り話、調合物)       His story was a wild concoction.
+    - `concoction` /kənˈkɑːkʃən/    ([Formal] 作り話、調合物)       His story was a wild concoction.
   - `hatch` /hætʃ/                  ([Casual] 企てる、計画する)     They hatched a secret plan.
     - `hatching` /ˈhætʃɪŋ/          ([Casual] 企て、陰影法)         The hatching of the plan was secretive.
   - `conjure up` /ˈkʌndʒər ʌp/      ([Writing] 思い起こす、作り出す) He conjured up a fantastic story.
@@ -145,5 +168,6 @@
 - `chimera` /kaɪˈmɪərə/             ([Writing] 幻想、妄想)          World peace may be just a chimera.
   - `chimerical` /kaɪˈmerɪkəl/       ([Writing] 幻想的な、非現実的)  His plans were chimerical and impractical.
 - `mirage` /mɪˈrɑːʒ/                ([Neutral] 蜃気楼、幻想)        The desert mirage fooled the travelers.
+
 
 <!-- Add vocabulary entries here using the format from format.md -->
