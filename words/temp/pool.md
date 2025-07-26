@@ -1460,11 +1460,9 @@ program	2	【名】番組、プログラム 【動】プログラムを作る、
 programmer	2	【名】プログラマー		
 programming	2	【名】プログラミング		
 progress	2	【名】進歩、進行 【動】進む		
-proof	2	【名】証拠 【形】耐えられる、試験済みの		
 proper	2	【形】適した、正しい、固有の		
 protect	2	【動】保護する、守る		
 protection	2	【名】保護、保護物		
-prove	2	【動】証明する、～となる		
 provide	2	【動】供給する、与える、規定する		
 public	2	【形】公の、公開の、一目に触れる 【名】一般人		
 publish	2	【動】出版する、正式に発表する		
@@ -1893,7 +1891,6 @@ complaint	3	【名】不平
 composition	3	【名】組み立て、組織、作曲、作文		
 concern	3	【動】関係する、心配する 【名】関心事、気づかい		
 conduct	3	【名】ふるまい 【動】指導する		
-confirm	3	【動】確認する、承認する		
 conscious	3	【形】意識する、正気の		
 consider	3	【動】熟考する、考慮する		
 considerable	3	【形】かなりの、注目に値する		
@@ -2238,7 +2235,6 @@ moving	3	【形】感動させる、動く
 muscle	3	【名】筋肉 【動】力ずくで押し進む 【形】強力な		
 mushroom	3	【名】キノコ 【形】キノコの 【動】キノコ狩りをする		
 mustard	3	【名】からし		
-mysterious	3	【形】神秘の、はっきりしない		
 naked	3	【形】裸の、丸見えの		
 napkin	3	【名】ナプキン		
 necessity	3	【名】必要（性）、必要物		
@@ -4150,8 +4146,6 @@ prosper	5	【動】成功する、栄える
 prosperous	5	【形】繁栄している、栄えている		
 protective	5	【形】保護する、保護用の		
 protein	5	【名】タンパク質 【形】タンパク性の		
-proven	5	【形】証明された		
-proverb	5	【名】ことわざ、格言		
 provider	5	【名】供給する人、プロバイダー、一家の稼ぎ手		
 provincial	5	【形】州の、地方の、いなかくさい、偏狭な 【名】地方の人		
 provision	5	【名】供給、支給、蓄え、条項、食糧		
@@ -4525,7 +4519,6 @@ cavity	6	【名】空洞、虫歯
 cello	6	【名】チェロ		
 cemetery	6	【名】墓地、共同墓地		
 certainty	6	【名】確実性、必然性		
-certification	6	【名】証明、保証書		
 chairperson	6	【名】議長、委員長		
 challenger	6	【名】挑戦者		
 changeable	6	【形】変わりやすい、変更可能な		
@@ -4714,7 +4707,6 @@ federation	6	【名】同盟、連合、連邦化
 feeble	6	【形】体力の弱った、頭の弱い、かすかな		
 feminist	6	【名】男女同権論者、フェミニスト		
 financially	6	【副】金融的に、財政的に		
-fireproof	6	【形】耐火性の、防火の 【動】耐火性にする		
 fitness	6	【名】健康、フィットネス、適当		
 flatten	6	【動】平らにする、伸ばす、静まる		
 fleet	6	【名】艦隊、船団		
@@ -4936,7 +4928,6 @@ nutrient	6	【名】栄養物 【形】栄養を含む、滋養になる
 nutrition	6	【名】栄養分、食物、栄養学		
 oasis	6	【名】オアシス、慰安となる場所		
 objection	6	【名】異議、難点		
-obscure	6	【形】あいまいな		
 obstacle	6	【名】障害、妨害		
 odor	6	【名】臭気、評判		
 offender	6	【名】違反者、反則者		
@@ -5287,7 +5278,6 @@ warrant	6	【名】令状、正当な理由 【動】正当な理由となる、
 watchful	6	【形】油断のない、見張って		
 watchman	6	【名】警備員		
 waterfall	6	【名】滝、落水		
-waterproof	6	【形】防水加工した 【動】防水処理する		
 weakly	6	【副】弱く 【形】病弱な		
 weightlifting	6	【名】ウエイトリフティング		
 whereas	6	【接】～であるのに対して		
@@ -5319,7 +5309,6 @@ adore	7	【動】熱愛する、崇拝する
 adorn	7	【動】装飾する、魅力的にする		
 advantageous	7	【形】有利な、利益のある、都合のよい		
 affectionate	7	【形】情愛の深い、愛情のこもった		
-affirm	7	【動】断言する、肯定する		
 aggression	7	【名】侵略、攻撃		
 aide	7	【名】補佐官、助手		
 aimless	7	【形】目的のない		
@@ -5428,7 +5417,6 @@ cater	7	【動】応える、料理の仕出しをする
 cellar	7	【名】地下貯蔵室 【動】地下室に貯蔵する		
 census	7	【名】人口調査、国勢調査 【動】調査を行う		
 ceremonial	7	【形】儀礼上の、儀式の 【名】式典、儀礼		
-certify	7	【動】保証する、証明する、免許を与える		
 chancellor	7	【名】首相、（英）大蔵大臣（C_)		
 chap	7	【名】やつ、男、亀裂、あかぎれ 【動】ひびを生じさせる		
 chariot	7	【名】一人乗り二輪戦車、荷馬車		
@@ -5481,7 +5469,6 @@ concession	7	【名】譲歩、承認
 concise	7	【形】簡潔な		
 cone	7	【名】アイスクリームコーン、錘、円錐標識		
 confer	7	【動】与える、相談する		
-confirmation	7	【名】確認、確信、立証		
 conform	7	【動】従う、順応する、一致する		
 confrontation	7	【名】対決、直面		
 consequent	7	【形】引き続いて起こる、結果として起こる		
@@ -6192,7 +6179,6 @@ variable	7	【形】変わりやすい、移り気な 【名】変化するも�
 vein	7	【名】静脈、血管、葉脈、鉱脈		
 venue	7	【名】会場、現場		
 verbal	7	【形】言葉の、口頭の 【名】準動詞		
-verify	7	【動】確かめる、実証する、照合する		
 vertical	7	【形】縦の、垂直の 【名】垂直線		
 veterinarian	7	【名】獣医		
 vibrate	7	【動】振動する、揺れる、反響する、揺り動かす		
@@ -6241,7 +6227,6 @@ aerial	8	【形】空気の、航空機の
 aerospace	8	【名】大気圏および宇宙空間		
 aesthetic	8	【形】美の、美学の、審美眼のある、感覚の		
 affectionately	8	【副】愛情を込めて		
-affirmative	8	【形】肯定的な、積極的な		
 afflict	8	【動】ひどく苦しめる		
 aging	8	【名】老化、熟成 【形】年老いた、古ぼけた		
 agitation	8	【名】動揺、興奮、煽動		
@@ -6272,7 +6257,6 @@ aristocrat	8	【名】貴族、特権階級の人、最高級品
 aristocratic	8	【形】貴族の、貴族的な、貴族政治の		
 arrogance	8	【名】尊大、横柄、ごう慢		
 artisan	8	【名】伝統工芸などの職人		
-ascertain	8	【動】確かめる、確定する、突き止める		
 ascribe	8	【動】～に帰する、考えを抱く		
 aspiration	8	【名】強い願望、呼吸		
 aspire	8	【動】熱望する		
@@ -6388,7 +6372,6 @@ conclusive	8	【形】決定的な、確実な、終結的な、終了させる
 condense	8	【動】凝縮する、濃縮する		
 condominium	8	【名】コンドミニアム、分譲マンション		
 confinement	8	【名】幽閉、監禁、出産		
-confirmed	8	【形】確認された、立証された、承認された		
 congregation	8	【名】集まり、集会、集まった人々、信徒団		
 congressional	8	【形】会議の、集会の、アメリカ議会の		
 conserve	8	【動】保存する、節約する		
@@ -7141,7 +7124,6 @@ adversity	9	【名】逆境、不運
 aerobic	9	【名】エアロビクス 【形】エアロビクスの、好気性の		
 afar	9	【副】遠くに 【名】遠方		
 affected	9	【形】気どった		
-affirmation	9	【名】確約、断言、肯定		
 affix	9	【動】はる、添える 【名】接辞		
 affluent	9	【形】富裕な、豊富な		
 aggravate	9	【動】悪化させる、イライラさせる		
@@ -7179,7 +7161,6 @@ assertive	9	【形】断定的な、はきはきした
 assimilate	9	【動】同化する、適合する、吸収する		
 astray	9	【副】道に迷って、道を踏みはずして 【形】道に迷った、道を踏みはずした		
 astronomical	9	【形】けたはずれに大きい、天文学の		
-attest	9	【動】証言する、証明する、証拠となる		
 auditor	9	【名】監査役、会計検査官、聴講生		
 automate	9	【動】オートメーション化する		
 automotive	9	【形】自動車の、自動の		
@@ -8006,7 +7987,6 @@ upland	9	【名】高地、高原地方 【形】高地の
 uranium	9	【名】ウラン		
 utopia	9	【名】ユートピア、理想郷		
 utopian	9	【形】ユートピアの、理想上の完璧さの		
-validate	9	【動】法的に有効にする、正当性を立証する		
 validity	9	【名】妥当（性）、正当性、効力		
 valuation	9	【名】評価、価値判断		
 variously	9	【副】さまざまに、さまざまな人によって		
@@ -8329,7 +8309,6 @@ encompass	10	【動】包み込む、包囲する
 endangered	10	【形】絶滅寸前の、危険にさらされた		
 engrave	10	【動】刻む		
 engulf	10	【動】飲み込む、巻き込む		
-enigmatic	10	【形】なぞのような		
 ensue	10	【動】続いて起こる、結果として起こる		
 entail	10	【動】伴う、必要とする		
 entangle	10	【動】巻き込む、もつれさせる、ひっかける		
@@ -8701,7 +8680,6 @@ proponent	10	【名】主唱者、提案者、支持者
 proportionate	10	【形】比例した、釣り合った 【動】比例させる		
 propriety	10	【名】上品、端正、妥当性、正統性		
 protectionism	10	【名】保護貿易政策、保護主義		
-proverbial	10	【形】ことわざに使われている、おなじみの、ことわざの		
 provocative	10	【形】挑発的な、物議をかもす 【名】誘発物		
 prowl	10	【動】こそこそとうろつく		
 proximity	10	【名】近いこと、接近		
@@ -8996,7 +8974,6 @@ apocalypse	11	【名】世の終末、啓示、ヨハネの黙示録（the A_)�
 apostle	11	【名】使徒、最初の伝道者、主唱者		
 apprehensive	11	【形】恐れている、気づかっている、聡明な		
 arbor	11	【名】あずまや、木陰の休み場所		
-arcane	11	【形】難解な、少数の人にしか知られていない、変わった		
 archipelago	11	【名】群島、列島		
 aria	11	【名】旋律、アリア		
 arid	11	【形】湿気のない、無味乾燥の		
@@ -9150,7 +9127,6 @@ cornerstone	11	【名】土台、肝要なもの
 coronary	11	【形】心臓の、冠状に囲む 【名】心筋梗塞		
 corporal	11	【形】肉体の、胴体の、個人の		
 corpus	11	【名】言語資料、全集、元金		
-corroborate	11	【動】裏づける、確証する		
 corrosive	11	【形】腐食する、痛烈な		
 cortex	11	【名】（大脳）皮質、樹皮		
 counterfeit	11	【形】偽の、見せかけの 【動】偽造する、ふりをする		
@@ -9830,7 +9806,6 @@ vandalism	11	【名】公共物の汚損、芸術文化の破壊
 vanguard	11	【名】先駆者、指導的地位、軍の前衛		
 veer	11	【動】進路や話題を急に変える 【名】進路転換		
 vengeance	11	【名】復讐、仕返し		
-verification	11	【名】根拠、確認		
 veritable	11	【形】まぎれもない、本当の		
 vernacular	11	【形】その土地固有の 【名】その土地の言葉（the ～）		
 vibrant	11	【形】（色が）明るく強烈な、振動する、活気のある		
@@ -10047,7 +10022,6 @@ copious	12	【形】多量の、内容の豊富な
 cordon	12	【名】非常線、綬章、ひも飾り		
 corollary	12	【名】必然の結果 【形】結果として生じている		
 coroner	12	【名】検死官		
-corroboration	12	【名】実証するもの、確証、信念の強化		
 corrode	12	【動】腐食する、徐々に悪くなる		
 cot	12	【名】簡易ベッド、小屋		
 cove	12	【名】入り江、奥まった場所、ほら穴		
@@ -10060,7 +10034,6 @@ crochet	12	【動】かぎ針で編む 【名】かぎ針編み
 crucifixion	12	【名】はりつけ、キリストの十字架上の死、大きな苦難		
 crux	12	【名】最も重要な点、難問、十字架		
 crypt	12	【名】遺体安置所、穴蔵、地下室		
-cryptic	12	【形】不可解な、ぶっきらぼうの		
 cubicle	12	【名】小寝室、小部屋		
 curio	12	【名】骨董品		
 cursory	12	【形】ぞんざいな、うわっつらの		
@@ -10314,7 +10287,6 @@ inlet	12	【名】入り江、小海峡、注入口
 innuendo	12	【名】当てつけ、暗示		
 inquisitive	12	【形】探求的な、詮索好きの		
 inscribe	12	【動】ことばを刻む、記す、名前を書いて贈呈する		
-inscrutable	12	【形】不可解な		
 insecticide	12	【名】殺虫剤		
 insipid	12	【形】退屈な、おもしろくない、風味がない		
 insolent	12	【形】横柄な、無礼な 【名】横柄な人		
@@ -10673,7 +10645,6 @@ stupendous	12	【形】驚くべき、膨大な
 stupor	12	【名】無感覚状態、ぼう然自失の状態		
 subjugate	12	【動】支配下に置く、意のままに操る		
 subsistence	12	【名】必要最低限の生活、生存、扶養		
-substantiate	12	【動】立証する、具体化する		
 subterranean	12	【形】地下にある、見えないところにある		
 subversion	12	【名】（政府・組織などの）密かな破壊・転覆活動		
 succinct	12	【形】ことばの少ない、簡潔な		

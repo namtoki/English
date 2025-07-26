@@ -121,6 +121,30 @@
 - `explore` /ɪkˈsplɔː/              ([Neutral] 探検する、探求する)  They explored the ancient ruins.
   - `exploration` /ˌekspləˈreɪʃən/  ([Neutral] 探検、探査)          Space exploration is advancing rapidly.
   - `explorer` /ɪkˈsplɔːrə/         ([Neutral] 探検家)              The explorer discovered a new species.
+- `corroborate` /kəˈrɑbəreɪt/      ([Writing] 裏付ける)            The evidence was corroborated by two witnesses.
+  - `corroboration` /kəˌrɑbəˈreɪʃən/ ([Writing] 裏付け)              We need further corroboration of the facts.
+  - `corroborative` /kəˈrɑbərətɪv/  ([Writing] 裏付けとなる)        The corroborative evidence was compelling.
+- `verify` /ˈvɛrɪfaɪ/               ([Neutral] 確認する)            Please verify your email address.
+  - `verification` /ˌvɛrɪfɪˈkeɪʃən/  ([Formal] 確認、検証)           Identity verification is required.
+  - `verifiable` /ˈvɛrɪfaɪəbəl/     ([Formal] 検証可能な)           The claim is easily verifiable.
+- `confirm` /kənˈfɜrm/              ([Neutral] 確認する)            Can you confirm the meeting time?
+  - `confirmation` /ˌkɑnfərˈmeɪʃən/  ([Neutral] 確認、確証)          We're waiting for confirmation.
+  - `confirmatory` /kənˈfɜrmətɔri/  ([Formal] 確認の)               The test results were confirmatory.
+- `substantiate` /səbˈstænʃieɪt/    ([Formal] 実証する)             He failed to substantiate his claims.
+  - `substantiation` /səbˌstænʃiˈeɪʃən/ ([Formal] 実証、証拠)        The report lacks proper substantiation.
+- `validate` /ˈvælɪdeɪt/            ([Neutral] 検証する)            The experiment validated our hypothesis.
+  - `validation` /ˌvælɪˈdeɪʃən/      ([Neutral] 検証、妥当性確認)    Data validation is essential.
+- `authenticate` /ɔˈθɛntɪkeɪt/      ([Formal] 認証する)             The museum authenticated the painting.
+  - `authentication` /ɔˌθɛntɪˈkeɪʃən/ ([Formal] 認証)               Two-factor authentication is secure.
+- `certify` /ˈsɜrtɪfaɪ/             ([Formal] 証明する)             The doctor certified her fitness.
+  - `certification` /ˌsɜrtɪfɪˈkeɪʃən/ ([Formal] 証明、認定)          She received her certification.
+- `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
+  - `affirmation` /ˌæfərˈmeɪʃən/     ([Formal] 断言、肯定)           Her nod was an affirmation.
+- `ascertain` /ˌæsərˈteɪn/          ([Formal] 確かめる)             We need to ascertain the facts.
+- `attest` /əˈtɛst/                 ([Formal] 証明する)             I can attest to her honesty.
+  - `attestation` /ˌætɛˈsteɪʃən/     ([Formal] 証明、証言)           The attestation was notarized.
+- `prove` /pruv/                    ([Neutral] 証明する)            She proved her innocence.
+  - `proof` /pruf/                  ([Neutral] 証拠、証明)          Do you have proof of purchase?
 
 
 - `expose` /ɪkˈspoʊz/                ([Neutral] 暴露する、さらす)    The journalist exposed the corruption.

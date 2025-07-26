@@ -357,9 +357,26 @@ This category contains words for judging quality, making assessments, and expres
 
 - `degrade` /dɪˈɡreɪd/              ([Formal] 品位を落とす)         Don't degrade yourself like that.
   - `degradation` /ˌdeɡrəˈdeɪʃən/   ([Formal] 品位低下、劣化)       The degradation was shocking.
+
   - `degrading` /dɪˈɡreɪdɪŋ/        ([Formal] 品位を落とす)         The work was degrading.
 - `demean` /dɪˈmiːn/                ([Formal] 品位を下げる)         Don't demean yourself that way.
   - `demeaning` /dɪˈmiːnɪŋ/         ([Formal] 品位を下げる)         The treatment was demeaning.
+
+## Unclear and Mysterious
+
+- `inscrutable` /ɪnˈskruːtəbəl/      ([Writing] 不可解な)             His expression remained inscrutable.
+  - `inscrutably` /ɪnˈskruːtəbli/      ([Writing] 不可解に)             He smiled inscrutably.
+  - `inscrutability` /ɪnˌskruːtəˈbɪləti/ ([Writing] 不可解さ)           The inscrutability of his motives puzzled everyone.
+- `enigmatic` /ˌenɪɡˈmætɪk/         ([Writing] 謎めいた)             Her enigmatic smile confused everyone.
+- `mysterious` /mɪˈstɪriəs/          ([Neutral] 神秘的な)             The mysterious stranger disappeared.
+- `unfathomable` /ʌnˈfæðəməbəl/      ([Writing] 計り知れない)         His unfathomable wisdom amazed us.
+- `impenetrable` /ɪmˈpenɪtrəbəl/     ([Writing] 理解しがたい)         The text was impenetrable to beginners.
+- `cryptic` /ˈkrɪptɪk/               ([Neutral] 謎めいた)             He left a cryptic message.
+- `obscure` /əbˈskjʊr/               ([Formal] あいまいな)            The meaning was obscure.
+- `arcane` /ɑrˈkeɪn/                 ([Writing] 神秘的な)             The arcane knowledge was hard to grasp.
+- `abstruse` /æbˈstrus/              ([Writing] 難解な)               The abstruse theory confused students.
+- `perplexing` /pərˈpleksɪŋ/         ([Neutral] 当惑させる)           The perplexing riddle took hours to solve.
+- `baffling` /ˈbæflɪŋ/               ([Neutral] 当惑させる)           The baffling results surprised everyone.
 
 ## Personal Characteristics and Skills
 

@@ -1,4 +1,12 @@
 discord
+ascertain
+attest
+substantiate
+inscrutable
+unfathomable
+impenetrable
+arcane
+abstruse
 pandemonium
 boorish
 snuggle
