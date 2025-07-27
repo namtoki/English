@@ -10,29 +10,46 @@
     - `diagnose` /ˈdaɪəɡnəʊz/       ([Medical] 診断する)            The doctor diagnosed pneumonia.
   - `test` /test/                   ([Neutral] 検査)                I need to get a blood test.
   - `consultation` /ˌkɒnsəlˈteɪʃən/ ([Medical] 診察、相談)          He scheduled a consultation.
-    - `consult` /kənˈsʌlt/          ([Neutral] 相談する)            You should consult a specialist.
   - `screening` /ˈskriːnɪŋ/         ([Medical] スクリーニング検査)  Cancer screening saves lives.
   - `physical` /ˈfɪzɪkəl/           ([Neutral] 健康診断)            I passed my physical exam.
   - `scan` /skæn/                   ([Medical] スキャン検査)        The MRI scan was normal.
-  - `checkup` /ˈtʃekʌp/             ([Casual] 健康診断)             It's time for your checkup.
   - `analysis` /əˈnæləsɪs/          ([Medical] 分析、検査)          The blood analysis showed normal results.
-    - `analyze` /ˈænəlaɪz/          ([Medical] 分析する)            They analyzed the test results.
     - `analytic` /ˌænəˈlɪtɪk/       ([Medical] 分析的な)            The analytic approach was thorough.
-    - `analyst` /ˈænəlɪst/          ([Medical] 分析家、解説者)      The data analyst reviewed the results.
     - `analytical` /ˌænəˈlɪtɪkəl/   ([Medical] 分析的な)            She has an analytical mind.
   - `assessment` /əˈsesmənt/        ([Medical] 評価、査定)          The medical assessment was thorough.
     - `assess` /əˈses/              ([Medical] 評価する、査定)      They assessed his condition.
     - `assessor` /əˈsesə/           ([Medical] 評価者、査定者)      The medical assessor evaluated the claim.
+- ✅ `treat` /triːt/                ([Neutral] 治療する)            They treated his broken arm.
+  - `heal` /hiːl/                   ([Neutral] 治る、癒す)          The wound healed quickly.
+  - `cure` /kjʊə/                   ([Neutral] 治す、治療法)        Scientists are searching for a cure.
+  - `prescribe` /prɪˈskraɪb/        ([Medical] 処方する)            The doctor prescribed antibiotics.
+- ✅ `medicine` /ˈmedɪsɪn/          ([Neutral] 薬、医学)            Take your medicine three times a day.
+  - `prescription` /prɪˈskrɪpʃən/   ([Medical] 処方箋)              The doctor wrote a prescription.
+  - `dose` /dəʊs/                   ([Medical] 服用量)              Take one dose every six hours.
+    - `dosage` /ˈdəʊsɪdʒ/           ([Medical] 投薬量)              Check the dosage instructions.
+- ✅ `treatment` /ˈtriːtmənt/       ([Medical] 治療)                The treatment was successful.
+  - `care` /keə/                    ([Neutral] ケア、治療)          She received excellent medical care.
+  - `medication` /ˌmedɪˈkeɪʃən/     ([Medical] 薬物治療)            He's on medication for diabetes.
+  - `healing` /ˈhiːlɪŋ/             ([Neutral] 治癒、回復)          The healing process takes time.
+- ✅ `therapy` /ˈθerəpi/            ([Medical] 治療法、療法)        Physical therapy helped his recovery.
+    - `therapeutic` /ˌθerəˈpjuːtɪk/ ([Medical] 治療的な)            The therapeutic effect was significant.
+  - `remedy` /ˈremədi/              ([Neutral] 治療法、救済策)      Home remedies can be effective.
+- ✅ `symptom` /ˈsɪmptəm/           ([Medical] 症状)                Fever is a common symptom.
+  - `sign` /saɪn/                   ([Medical] 兆候、症状)          Pain is a sign of inflammation.
+  - `condition` /kənˈdɪʃən/         ([Medical] 状態、症状)          He has a heart condition.
+  - `complaint` /kəmˈpleɪnt/        ([Medical] 症状、不調)          Her main complaint is headaches.
+  - `syndrome` /ˈsɪndrəʊm/          ([Medical] 症候群)              Chronic fatigue syndrome is serious.
+  - `disorder` /dɪsˈɔːdə/           ([Medical] 疾患、障害)          She has an eating disorder.
+  - `ailment` /ˈeɪlmənt/            ([Neutral] 病気、不調)          Minor ailments are common.
+  - `illness` /ˈɪlnəs/              ([Neutral] 病気)                The illness lasted two weeks.
+  - `disease` /dɪˈziːz/             ([Medical] 病気、疾患)          Heart disease is preventable.
+  - `malady` /ˈmælədi/              ([Writing] 病気、疾患)          The mysterious malady puzzled doctors.
+  - `affliction` /əˈflɪkʃən/        ([Writing] 苦痛、病気)          His affliction was incurable.
 
-- `symptom` /ˈsɪmptəm/              ([Medical] 症状)                Fever is a common symptom.
 - `chronic` /ˈkrɒnɪk/               ([Medical] 慢性の)              She has chronic back pain.
 - `acute` /əˈkjuːt/                 ([Medical] 急性の、激しい)      He suffered an acute heart attack.
   - `acutely` /əˈkjuːtli/            ([Medical] 激しく、急性に)      He was acutely aware of the pain.
 
-- `treatment` /ˈtriːtmənt/          ([Medical] 治療)                The treatment was successful.
-  - `treat` /triːt/                 ([Neutral] 治療する)            They treated his broken arm.
-- `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
-  - `therapeutic` /ˌθerəˈpjuːtɪk/   ([Medical] 治療的な)              The therapeutic effect was significant.
 
 - `surgery` /ˈsɜːdʒəri/             ([Medical] 手術)                He needs surgery on his knee.
   - `surgeon` /ˈsɜːdʒən/            ([Medical] 外科医)              The surgeon explained the procedure.
