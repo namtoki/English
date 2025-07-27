@@ -1,48 +1,60 @@
 # Health
 
-This category contains medical vocabulary, health conditions, treatments, and body-related terms.
+## Medical
+- ✅ `check-up` /ˈtʃek ʌp/          ([Neutral] 健康診断)            I have my annual check-up tomorrow.
+  - `appointment` /əˈpɔɪntmənt/     ([Neutral] 診療予約)            I made an appointment with the doctor.
+  - `examination` /ɪɡˌzæmɪˈneɪʃən/  ([Medical] 診察、検査)          The examination revealed no problems.
+    - `examine` /ɪɡˈzæmɪn/          ([Medical] 診察する、検査)      The doctor examined the patient.
+    - `examiner` /ɪɡˈzæmɪnə/        ([Medical] 診察医、検査者)      The medical examiner completed the review.
+  - `diagnosis` /ˌdaiəɡˈnəʊsɪs/     ([Medical] 診断)                The diagnosis was confirmed by tests.
+    - `diagnose` /ˈdaɪəɡnəʊz/       ([Medical] 診断する)            The doctor diagnosed pneumonia.
+  - `test` /test/                   ([Neutral] 検査)                I need to get a blood test.
+  - `consultation` /ˌkɒnsəlˈteɪʃən/ ([Medical] 診察、相談)          He scheduled a consultation.
+    - `consult` /kənˈsʌlt/          ([Neutral] 相談する)            You should consult a specialist.
+  - `screening` /ˈskriːnɪŋ/         ([Medical] スクリーニング検査)  Cancer screening saves lives.
+  - `physical` /ˈfɪzɪkəl/           ([Neutral] 健康診断)            I passed my physical exam.
+  - `scan` /skæn/                   ([Medical] スキャン検査)        The MRI scan was normal.
+  - `checkup` /ˈtʃekʌp/             ([Casual] 健康診断)             It's time for your checkup.
+  - `analysis` /əˈnæləsɪs/          ([Medical] 分析、検査)          The blood analysis showed normal results.
+    - `analyze` /ˈænəlaɪz/          ([Medical] 分析する)            They analyzed the test results.
+    - `analytic` /ˌænəˈlɪtɪk/       ([Medical] 分析的な)            The analytic approach was thorough.
+    - `analyst` /ˈænəlɪst/          ([Medical] 分析家、解説者)      The data analyst reviewed the results.
+    - `analytical` /ˌænəˈlɪtɪkəl/   ([Medical] 分析的な)            She has an analytical mind.
+  - `assessment` /əˈsesmənt/        ([Medical] 評価、査定)          The medical assessment was thorough.
+    - `assess` /əˈses/              ([Medical] 評価する、査定)      They assessed his condition.
+    - `assessor` /əˈsesə/           ([Medical] 評価者、査定者)      The medical assessor evaluated the claim.
 
-## Words
-
-- `incision` /ɪnˈsɪʒən/             ([Medical] 切開)                The surgeon made a small incision.
-- `diagnosis` /ˌdaiəɡˈnəʊsɪs/       ([Medical] 診断)                The diagnosis was confirmed by tests.
-  - `diagnose` /ˈdaɪəɡnəʊz/         ([Medical] 診断する)            The doctor diagnosed pneumonia.
-- `analysis` /əˈnæləsɪs/            ([Medical] 分析、検査)          The blood analysis showed normal results.
-  - `analyze` /ˈænəlaɪz/            ([Medical] 分析する)            They analyzed the test results.
-  - `analytic` /ˌænəˈlɪtɪk/        ([Medical] 分析的な)              The analytic approach was thorough.
-  - `analyst` /ˈænəlɪst/           ([Medical] 分析家、解説者)      The data analyst reviewed the results.
-  - `analytical` /ˌænəˈlɪtɪkəl/     ([Medical] 分析的な)              She has an analytical mind.
-- `paralysis` /pəˈræləsɪs/          ([Medical] 麻痺、まひ)          The accident caused temporary paralysis.
-  - `paralyze` /ˈpærəlaɪz/          ([Medical] 麻痺させる)            The injury paralyzed his leg.
-- `treatment` /ˈtriːtmənt/          ([Medical] 治療)                The treatment was successful.
-  - `treat` /triːt/                 ([Neutral] 治療する)            They treated his broken arm.
-- `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
-  - `therapist` /ˈθerəpɪst/         ([Medical] 療法士、治療士)      The therapist guided his exercises.
-  - `therapeutic` /ˌθerəˈpjuːtɪk/   ([Medical] 治療的な)              The therapeutic effect was significant.
-- `medication` /ˌmedɪˈkeɪʃən/       ([Medical] 薬物、投薬)          The medication reduced her pain.
-  - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を与える)          They medicated the patient for pain.
-  - `medical` /ˈmedɪkəl/             ([Medical] 医学の、医療の)      He needs medical attention.
-- `surgery` /ˈsɜːdʒəri/             ([Medical] 手術)                He needs surgery on his knee.
-  - `surgeon` /ˈsɜːdʒən/            ([Medical] 外科医)              The surgeon explained the procedure.
-- `procedure` /prəˈsiːdʒə/          ([Medical] 手術、処置)          The procedure took two hours.
 - `symptom` /ˈsɪmptəm/              ([Medical] 症状)                Fever is a common symptom.
-- `condition` /kənˈdɪʃən/           ([Medical] 状態、病状)          His medical condition is stable.
-  - `unconditional` /ˌʌnkənˈdɪʃənəl/ ([Medical] 無条件の)              The unconditional support helped recovery.
-  - `conditional` /kənˈdɪʃənəl/     ([Medical] 条件付きの)            The recovery was conditional on rest.
-  - `conditioning` /kənˈdɪʃənɪŋ/   ([Medical] 条件付け、調節)      Physical conditioning improved his health.
-  - `conditioner` /kənˈdɪʃənə/     ([Medical] 調節器、改善剤)      The air conditioner helped the patient.
 - `chronic` /ˈkrɒnɪk/               ([Medical] 慢性の)              She has chronic back pain.
 - `acute` /əˈkjuːt/                 ([Medical] 急性の、激しい)      He suffered an acute heart attack.
   - `acutely` /əˈkjuːtli/            ([Medical] 激しく、急性に)      He was acutely aware of the pain.
+
+- `treatment` /ˈtriːtmənt/          ([Medical] 治療)                The treatment was successful.
+  - `treat` /triːt/                 ([Neutral] 治療する)            They treated his broken arm.
+- `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
+  - `therapeutic` /ˌθerəˈpjuːtɪk/   ([Medical] 治療的な)              The therapeutic effect was significant.
+
+- `surgery` /ˈsɜːdʒəri/             ([Medical] 手術)                He needs surgery on his knee.
+  - `surgeon` /ˈsɜːdʒən/            ([Medical] 外科医)              The surgeon explained the procedure.
+- `procedure` /prəˈsiːdʒə/          ([Medical] 手術、処置)          The procedure took two hours.
+- `incision` /ɪnˈsɪʒən/             ([Medical] 切開)                The surgeon made a small incision.
+- `paralysis` /pəˈræləsɪs/          ([Medical] 麻痺、まひ)          The accident caused temporary paralysis.
+  - `paralyze` /ˈpærəlaɪz/          ([Medical] 麻痺させる)            The injury paralyzed his leg.
+
+
+- `medication` /ˌmedɪˈkeɪʃən/       ([Medical] 薬物、投薬)          The medication reduced her pain.
+  - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を与える)          They medicated the patient for pain.
+  - `medical` /ˈmedɪkəl/             ([Medical] 医学の、医療の)      He needs medical attention.
+- `prescription` /prɪˈskrɪpʃən/     ([Medical] 処方箋)              Take this prescription to the pharmacy.
+  - `prescribe` /prɪˈskraɪb/        ([Medical] 処方する)            The doctor prescribed antibiotics.
+- `dosage` /ˈdəʊsɪdʒ/               ([Medical] 投与量、服用量)      Follow the recommended dosage.
+  - `dose` /dəʊs/                   ([Medical] 服用量、一回量)      Take one dose three times daily.
+
 - `infection` /ɪnˈfekʃən/           ([Medical] 感染、感染症)        The wound developed an infection.
   - `infect` /ɪnˈfekt/              ([Medical] 感染させる)          The virus infected many patients.
   - `infectious` /ɪnˈfekʃəs/        ([Medical] 伝染性の)              The disease is highly infectious.
-- `inflammation` /ˌɪnfləˈmeɪʃən/    ([Medical] 炎症)                The inflammation caused swelling.
-  - `inflammatory` /ɪnˈflæmətɔːri/   ([Medical] 炎症性の)              The inflammatory response was severe.
-- `fever` /ˈfiːvə/                  ([Medical] 発熱、熱)            The child had a high fever.
-  - `feverish` /ˈfiːvərɪʃ/          ([Medical] 熱がある、熱的)    The patient felt feverish and weak.
-- `nausea` /ˈnɔːziə/                ([Medical] 吐き気)              The medication caused nausea.
-- `fatigue` /fəˈtiːɡ/               ([Medical] 疲労、倦怠感)        Chronic fatigue affected her daily life.
+
+
 - `recovery` /rɪˈkʌvəri/            ([Medical] 回復、快復)          His recovery was faster than expected.
   - `recover` /rɪˈkʌvə/             ([Medical] 回復する)            She recovered from the illness.
 - `recuperate` /rɪˈkuːpəreɪt/       ([Neutral] 回復する、療養する)  He's recuperating at home.
@@ -74,26 +86,30 @@ This category contains medical vocabulary, health conditions, treatments, and bo
 - `recoup` /rɪˈkuːp/                 ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
   - `recouping` /rɪˈkuːpɪŋ/          ([Neutral] 回復、取り戻し)      She's recouping from the illness.
 - `bounce back` /baʊns bæk/          ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
-- `relapse` /rɪˈlæps/               ([Medical] 再発、逆戻り)        The patient had a relapse.
 - `remission` /rɪˈmɪʃən/            ([Medical] 寛解、軽快)          The cancer is in remission.
-- `examination` /ɪɡˌzæmɪˈneɪʃən/    ([Medical] 診察、検査)          The examination revealed no problems.
-  - `examine` /ɪɡˈzæmɪn/            ([Medical] 診察する、検査)      The doctor examined the patient.
-  - `examiner` /ɪɡˈzæmɪnə/         ([Medical] 診察医、検査者)      The medical examiner completed the review.
-- `consultation` /ˌkɒnsəlˈteɪʃən/   ([Medical] 診察、相談)          He scheduled a consultation.
-  - `consultant` /kənˈsʌltənt/       ([Medical] 専門医、コンサル)    The consultant reviewed the case.
-- `assessment` /əˈsesmənt/          ([Medical] 評価、査定)          The medical assessment was thorough.
-  - `assess` /əˈses/                ([Medical] 評価する、査定)      They assessed his condition.
-  - `assessor` /əˈsesə/              ([Medical] 評価者、査定者)      The medical assessor evaluated the claim.
-- `prescription` /prɪˈskrɪpʃən/     ([Medical] 処方箋)              Take this prescription to the pharmacy.
-  - `prescribe` /prɪˈskraɪb/        ([Medical] 処方する)            The doctor prescribed antibiotics.
-- `dosage` /ˈdəʊsɪdʒ/               ([Medical] 投与量、服用量)      Follow the recommended dosage.
-  - `dose` /dəʊs/                   ([Medical] 服用量、一回量)      Take one dose three times daily.
+
+
+- `relapse` /rɪˈlæps/               ([Medical] 再発、逆戻り)        The patient had a relapse.
+
 - `prognosis` /prɒɡˈnəʊsɪs/        ([Medical] 予後、見通し)        The patient's prognosis is good.
+
 - `exodic` /ɛkˈsɒdɪk/                ([Writing] 流出の)         The exodic nerve carries signals from the spine.
+
 - `genetic` /dʒəˈnetɪk/              ([Writing] 遺伝子の)      Genetic testing revealed the mutation.
 - `inborn` /ˈɪnbɔːrn/                ([Writing] 生来の)        He has an inborn sense of rhythm.
 - `congenital` /kənˈdʒenɪtəl/        ([Medical] 先天性の)      The baby has a congenital heart defect.
 - `innate` /ɪˈneɪt/                  ([Writing] 生得の)        Children have an innate ability to learn.
-
 - `hereditary` /həˈredɪtərɪ/          ([Neutral] 遺伝性の)      Hair color is hereditary.
 - `heredity` /hɪˈredɪtɪ/             ([Writing] 遺伝)          Gregor Mendel studied heredity in pea plants.
+
+## Health
+- `inflammation` /ˌɪnfləˈmeɪʃən/    ([Medical] 炎症)                The inflammation caused swelling.
+  - `inflammatory` /ɪnˈflæmətɔːri/   ([Medical] 炎症性の)              The inflammatory response was severe.
+
+- `fever` /ˈfiːvə/                  ([Medical] 発熱、熱)            The child had a high fever.
+  - `feverish` /ˈfiːvərɪʃ/          ([Medical] 熱がある、熱的)    The patient felt feverish and weak.
+
+- `nausea` /ˈnɔːziə/                ([Medical] 吐き気)              The medication caused nausea.
+
+- `fatigue` /fəˈtiːɡ/               ([Medical] 疲労、倦怠感)        Chronic fatigue affected her daily life.
+

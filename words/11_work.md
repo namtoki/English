@@ -1,9 +1,5 @@
 # Work and Professions
 
-This category contains job-related vocabulary, professions, and work activities.
-
-## Words
-
 ### PHASE
 - `initial` /ɪˈnɪʃəl/                  ([Neutral] 最初の、初期の)         The initial design needs some adjustments.
 - `preliminary` /prɪˈlɪmɪnəri/         ([Formal] 予備の、暫定的な)        I've reviewed the preliminary specs for the project.
