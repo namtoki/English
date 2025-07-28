@@ -45,16 +45,46 @@
   - `disease` /dɪˈziːz/             ([Medical] 病気、疾患)          Heart disease is preventable.
   - `malady` /ˈmælədi/              ([Writing] 病気、疾患)          The mysterious malady puzzled doctors.
   - `affliction` /əˈflɪkʃən/        ([Writing] 苦痛、病気)          His affliction was incurable.
-
-- `chronic` /ˈkrɒnɪk/               ([Medical] 慢性の)              She has chronic back pain.
-
-
-- `surgery` /ˈsɜːdʒəri/             ([Medical] 手術)                He needs surgery on his knee.
-  - `surgeon` /ˈsɜːdʒən/            ([Medical] 外科医)              The surgeon explained the procedure.
-- `procedure` /prəˈsiːdʒə/          ([Medical] 手術、処置)          The procedure took two hours.
-- `incision` /ɪnˈsɪʒən/             ([Medical] 切開)                The surgeon made a small incision.
-- `paralysis` /pəˈræləsɪs/          ([Medical] 麻痺、まひ)          The accident caused temporary paralysis.
-  - `paralyze` /ˈpærəlaɪz/          ([Medical] 麻痺させる)            The injury paralyzed his leg.
+- ✅ `chronic` /ˈkrɒnɪk/            ([Medical] 慢性の)              She has chronic back pain.
+- ✅ `surgery` /ˈsɜːdʒəri/          ([Medical] 手術)                He needs surgery on his knee.
+    - `surgeon` /ˈsɜːdʒən/          ([Medical] 外科医)              The surgeon explained the procedure.
+    - `surgical` /ˈsɜːrdʒɪkəl/      ([Medical] 外科の、手術の)      She needed surgical intervention.
+    - `surgically` /ˈsɜːrdʒɪkli/    ([Medical] 外科的に)            The tumor was surgically removed.
+  - `operation` /ˌɑːpəˈreɪʃən/      ([Medical] 手術、手術)          The operation was successful.
+    - `operate` /ˈɑːpəreɪt/         ([Medical] 手術する、操作する)  They will operate tomorrow.
+    - `operating` /ˈɑːpəreɪtɪŋ/     ([Medical] 手術の、操作の)      She's in the operating room.
+    - `operative` /ˈɑːpərətɪv/      ([Medical] 手術の、有効な)      The operative procedure was complex.
+  - `procedure` /prəˈsiːdʒər/       ([Medical] 手術、処置)          The procedure took two hours.
+    - `procedural` /prəˈsiːdʒərəl/  ([Medical] 手続きの、処置の)    Follow the procedural guidelines.
+  - `treatment` /ˈtriːtmənt/        ([Medical] 治療、手術)          The treatment requires surgery.
+    - `treat` /triːt/               ([Medical] 治療する)            The doctor will treat the injury.
+  - `intervention` /ˌɪntərˈvenʃən/  ([Medical] 介入、手術)          Surgical intervention is necessary.
+    - `intervene` /ˌɪntərˈviːn/     ([Medical] 介入する)            Doctors had to intervene quickly.
+  - `incision` /ɪnˈsɪʒən/           ([Medical] 切開)                The surgeon made a small incision.
+    - `incise` /ɪnˈsaɪz/            ([Medical] 切開する)            The surgeon will incise the tissue.
+  - `excision` /ɪkˈsɪʒən/           ([Medical] 切除)                Complete excision of the tumor was performed.
+    - `excise` /ɪkˈsaɪz/            ([Medical] 切除する)            They need to excise the damaged tissue.
+  - `resection` /rɪˈsekʃən/         ([Medical] 切除手術)            The bowel resection was successful.
+    - `resect` /rɪˈsekt/            ([Medical] 切除する)            The surgeon will resect the tumor.
+  - `reconstruction`                ([Medical] 再建手術)            Breast reconstruction after mastectomy.
+    - `reconstruct` /ˌriːkənˈstrʌkt/([Medical] 再建する)            They will reconstruct the damaged area.
+  - `transplant` /ˈtrænsplænt/      ([Medical] 移植手術)            He received a kidney transplant.
+    - `transplantation`             ([Medical] 移植)                Heart transplantation saved his life.
+  - `implant` /ɪmˈplænt/            ([Medical] 移植、埋め込み)      The dental implant was successful.
+    - `implantation`                ([Medical] 移植、埋め込み)      The implantation procedure was routine.
+  - `biopsy` /ˈbaɪɑːpsi/            ([Medical] 生検)                The biopsy confirmed the diagnosis.
+  - `amputation` /ˌæmpjəˈteɪʃən/    ([Medical] 切断手術)            Amputation was the last resort.
+    - `amputate` /ˈæmpjəteɪt/       ([Medical] 切断する)            They had to amputate his finger.
+  - `bypass` /ˈbaɪpæs/              ([Medical] バイパス手術)        He had a heart bypass operation.
+  - `appendectomy` /ˌæpənˈdektəmi/  ([Medical] 虫垂切除術)          The appendectomy was performed urgently.
+  - `tonsillectomy`/ˌtɑːnsəˈlektəmi/([Medical] 扁桃腺摘出術)        She had a tonsillectomy as a child.
+  - `mastectomy` /mæˈstektəmi/      ([Medical] 乳房切除術)          The mastectomy was preventive.
+  - `hysterectomy` /ˌhɪstəˈrektəmi/ ([Medical] 子宮摘出術)          The hysterectomy relieved her symptoms.
+  - `cesarean` /sɪˈzeriən/          ([Medical] 帝王切開)            She delivered by cesarean section.
+  - `laparoscopy` /ˌlæpəˈrɑːskəpi/  ([Medical] 腹腔鏡手術)          Laparoscopy is minimally invasive.
+    - `laparoscopic`/ˌlæpərəˈskɑːpɪk/([Medical] 腹腔鏡の)           The laparoscopic surgery was successful.
+  - `paralysis` /pəˈræləsɪs/        ([Medical] 麻痺、まひ)          The accident caused temporary paralysis.
+    - `paralyze` /ˈpærəlaɪz/        ([Medical] 麻痺させる)          The injury paralyzed his leg.
 
 
 - `medication` /ˌmedɪˈkeɪʃən/       ([Medical] 薬物、投薬)          The medication reduced her pain.
