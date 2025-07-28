@@ -1,4 +1,7 @@
 unruffled
+equanimous
+fastidious
+punctilious
 fervent
 ardor
 detest

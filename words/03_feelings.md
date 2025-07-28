@@ -23,6 +23,30 @@
   - `acute` /əˈkjuːt/               ([Formal] 激しい、深刻な)       He felt acute embarrassment.
   - `vehement` /ˈviːəmənt/          ([Formal] 激烈な、猛烈な)       She made a vehement protest.
     - `vehemence` /ˈviːəməns/       ([Formal] 激しさ、猛烈さ)       The vehemence of his reaction shocked us.
+- ✅ `serious` /ˈsɪriəs/            ([Neutral] 真剣な、深刻な)      This is a serious problem.
+    - `seriousness` /ˈsɪriəsnəs/    ([Neutral] 真剣さ、深刻さ)      The seriousness of the situation was clear.
+  - `sincere` /sɪnˈsɪr/             ([Neutral] 誠実な、真剣な)      She gave a sincere apology.
+    - `sincerity` /sɪnˈserəti/      ([Neutral] 誠実さ、真剣さ)      His sincerity was evident.
+  - `genuine` /ˈdʒenjuɪn/           ([Neutral] 本物の、真剣な)      She showed genuine concern.
+  - `real` /riːl/                   ([Casual] 本当の、真剣な)       Are you real about this?
+  - `honest` /ˈɑːnəst/              ([Neutral] 正直な、真剣な)      Give me an honest answer.
+    - `honesty` /ˈɑːnəsti/          ([Neutral] 正直さ、誠実さ)      Her honesty is refreshing.
+  - `solemn` /ˈsɑːləm/              ([Formal] 厳粛な、真剣な)       He wore a solemn expression.
+    - `solemnity` /səˈlemnəti/      ([Formal] 厳粛さ、重々しさ)     The solemnity of the ceremony was moving.
+  - `grave` /ɡreɪv/                 ([Formal] 重大な、深刻な)       This is a grave matter.
+    - `gravity` /ˈɡrævəti/          ([Formal] 重大さ、深刻さ)       The gravity of the situation hit him.
+  - `earnest` /ˈɜːrnəst/            ([Formal] まじめな、真剣な)     She made an earnest plea for help.
+    - `earnestness` /ˈɜːrnəstnəs/   ([Formal] まじめさ、真剣さ)     His earnestness impressed the judges.
+  - `sober` /ˈsoʊbər/               ([Formal] 冷静な、真面目な)     She gave a sober assessment.
+    - `sobriety` /səˈbraɪəti/       ([Formal] 冷静さ、真面目さ)     His sobriety impressed everyone.
+  - `diligent` /ˈdɪlɪdʒənt/         ([Formal] 勤勉な、真面目な)     She's a diligent student.
+    - `diligence` /ˈdɪlɪdʒəns/      ([Formal] 勤勉さ、真面目さ)     Her diligence paid off.
+  - `intent` /ɪnˈtent/              ([Formal] 真剣な、集中した)     He was intent on succeeding.
+  - `resolute` /ˈrezəluːt/          ([Formal] 断固とした、真剣な)   He remained resolute in his decision.
+    - `resolution` /ˌrezəˈluːʃən/   ([Formal] 決意、決議)           His resolution was unwavering.
+  - `steadfast` /ˈstedfæst/         ([Formal] 不動の、真剣な)       She remained steadfast in her beliefs.
+  - `determined` /dɪˈtɜːrmɪnd/      ([Neutral] 決意した、真剣な)    She's determined to succeed.
+    - `determinedly` /dɪˈtɜːrmɪndli/([Neutral] 決意して、真剣に)    He worked determinedly toward his goal.
 
 ## POSITIVE
 - ✅ `eager` /ˈiːɡər/               ([Neutral] 熱心な、切望する)    She's eager to learn.
@@ -80,17 +104,29 @@
     - `stoicism` /ˈstoʊɪsɪzəm/      ([Formal] ストイシズム、克己)   His stoicism was admirable.
   - `equanimous` /ɪˈkwænɪməs/       ([Writing] 平静な、落ち着いた)  She maintained an equanimous demeanor.
     - `equanimity` /ˌekwəˈnɪməti/   ([Writing] 平静、沈着)          He faced adversity with equanimity.
+- ✅ `detailed` /ˈdiːteɪld/         ([Neutral] 詳細な、細かい)      She gave a detailed explanation.
+  - `careful` /ˈkerfəl/             ([Neutral] 注意深い、慎重な)    Be careful with that glass.
+    - `carefulness` /ˈkerfəlnəs/    ([Neutral] 注意深さ、慎重さ)    Her carefulness prevented mistakes.
+  - `thorough` /ˈθɜːroʊ/            ([Neutral] 徹底的な、完全な)    We need a thorough investigation.
+    - `thoroughness` /ˈθɜːroʊnəs/   ([Neutral] 徹底性、完全性)      His thoroughness is impressive.
+  - `rigorous` /ˈrɪɡərəs/           ([Formal] 厳密な、厳格な)       The study used rigorous methods.
+    - `rigorously` /ˈrɪɡərəsli/     ([Formal] 厳密に、厳格に)       The rules were rigorously enforced.
+  - `meticulous` /məˈtɪkjələs/      ([Writing] 細部にこだわる)      She's meticulous about her work.
+    - `meticulously` /məˈtɪkjələsli/([Writing] 細心に)              He meticulously checked every detail.
+    - `meticulousness`              ([Writing] 細心さ)              Her meticulousness ensures quality.
+  - `scrupulous` /ˈskruːpjələs/     ([Writing] 綿密な)              She's scrupulous about following rules.
+    - `scrupulously`/ˈskruːpjələsli/([Writing] 綿密に)              He scrupulously avoided any conflicts.
+    - `unscrupulous`/ʌnˈskruːpjələs/([Writing] 無節操な)            He's an unscrupulous businessman.
+  - `fastidious` /fæˈstɪdiəs/       ([Writing] 細部にこだわる)      He's fastidious about cleanliness.
+    - `fastidiously` /fæˈstɪdiəsli/ ([Writing] 細部にこだわって)    She fastidiously arranged the flowers.
+  - `punctilious` /pʌŋkˈtɪliəs/     ([Writing] 細かいことにこだわる) He's punctilious about etiquette.
+    - `punctiliously`/pʌŋkˈtɪliəsli/([Writing] 細かく、厳密に)       She punctiliously followed protocol.
 
-- `earnest` /ˈɜːrnəst/              ([Formal] まじめな、真剣な)     She made an earnest plea for help.
-  - `earnestly` /ˈɜːrnəstli/        ([Formal] まじめに、真剣に)     He earnestly studied for the exam.
-  - `earnestness` /ˈɜːrnəstnəs/     ([Formal] まじめさ、真剣さ)     His earnestness impressed the judges.
-
-- `meticulous` /məˈtɪkjələs/        ([Writing] 細部にこだわる)      She's meticulous about her work.
-  - `meticulously` /məˈtɪkjələsli/  ([Writing] 細心に)              He meticulously checked every detail.
-  - `meticulousness` /məˈtɪkjələsnəs/ ([Writing] 細心さ)            Her meticulousness ensures quality.
-- `scrupulous` /ˈskruːpjələs/       ([Writing] 綿密な)              She's scrupulous about following rules.
-  - `scrupulously` /ˈskruːpjələsli/ ([Writing] 綿密に)              He scrupulously avoided any conflicts.
-  - `unscrupulous` /ʌnˈskruːpjələs/ ([Writing] 無節操な)            He's an unscrupulous businessman.
+- `precise` /prɪˈsaɪs/              ([Neutral] 正確な、精密な)      Give me a precise answer.
+  - `precision` /prɪˈsɪʒən/         ([Neutral] 正確さ、精密さ)      This task requires precision.
+- `accurate` /ˈækjərət/             ([Neutral] 正確な、的確な)      Is this information accurate?
+  - `accuracy` /ˈækjərəsi/          ([Neutral] 正確さ、的確さ)      The accuracy of the test is high.
+- `exact` /ɪɡˈzækt/                 ([Neutral] 正確な、厳密な)      What's the exact time?
 
 - `conscientious` /ˌkɒnʃiˈenʃəs/    ([Formal] 良心的な)             She's a conscientious worker.
   - `conscientiously` /ˌkɒnʃiˈenʃəsli/ ([Formal] 良心的に)          He conscientiously completed his duties.
