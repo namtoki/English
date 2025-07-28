@@ -47,8 +47,6 @@
   - `affliction` /əˈflɪkʃən/        ([Writing] 苦痛、病気)          His affliction was incurable.
 
 - `chronic` /ˈkrɒnɪk/               ([Medical] 慢性の)              She has chronic back pain.
-- `acute` /əˈkjuːt/                 ([Medical] 急性の、激しい)      He suffered an acute heart attack.
-  - `acutely` /əˈkjuːtli/            ([Medical] 激しく、急性に)      He was acutely aware of the pain.
 
 
 - `surgery` /ˈsɜːdʒəri/             ([Medical] 手術)                He needs surgery on his knee.

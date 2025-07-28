@@ -10,13 +10,16 @@
   - `keep posted` /kiːp ˈpoʊstɪd/   ([Neutral] 最新情報を知らせる)  Keep me posted on any developments.
   - `convey` /kənˈveɪ/              ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
     - `conveyance` /kənˈveɪəns/     ([Writing] 伝達、運搬)          The conveyance of information was swift.
-  - `bring up to speed`             ([Neutral] 最新情報を知らせる)  Can you bring me up to speed?
   - `clue in` /kluː ɪn/             ([Casual] 情報を与える)         Clue me in on the details.
   - `tip off` /tɪp ɔːf/             ([Casual] 密かに知らせる)       Someone tipped off the police.
     - `tip-off` /ˈtɪp ɔːf/          ([Casual] 密告、内報)           The tip-off led to the arrest.
   - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
   - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
-  - `put in the picture`            ([Formal] 状況を説明する)       Let me put you in the picture.
+- ✅ `explain` /ɪkˈspleɪn/          ([Neutral] 説明する、解釈する)  Let me explain the situation.
+  - ✅ `fill in` /fɪl ɪn/           ([Neutral] 詳しく情報提供する)  Please fill me in on what happened.
+    - `fill-in` /ˈfɪl ɪn/           ([Neutral] 代役、穴埋め)        He's just a fill-in for today.
+  - ✅ `bring up to speed`          ([Neutral] 最新情報を知らせる)  Can you bring me up to speed?
+  - ✅ `put in the picture`         ([Formal] 状況を説明する)       Let me put you in the picture.
 - ✅ `share` /ʃɛər/                 ([Neutral] 共有する 分かち合う) Let me share some news with you.
   - `announce` /əˈnaʊns/            ([Neutral] 発表する、公表する)  They announced the winner.
   - `disseminate` /dɪˈsemɪneɪt/     ([Writing] 普及する、広める)    They disseminated the information widely.
@@ -27,8 +30,6 @@
 - ✅ `get back to` /ɡet bæk tuː/    ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
   - ✅ `touch base` /tʌtʃ beɪs/     ([Neutral] 連絡を取る、報告)    Let's touch base next week.
   - `communicate` /kəˈmjuːnɪkeɪt/   ([Neutral] 意思疎通する)        We communicate via email.
-- ✅ `fill in` /fɪl ɪn/             ([Neutral] 詳しく情報提供する)  Please fill me in on what happened.
-    - `fill-in` /ˈfɪl ɪn/           ([Neutral] 代役、穴埋め)        He's just a fill-in for today.
 
 ## Speaking
 - ✅ `tell` /tel/                   ([Neutral] 話す、伝える)        Please tell me what happened.
@@ -37,7 +38,6 @@
     - `saying` /ˈseɪɪŋ/             ([Neutral] ことわざ、格言)      There's an old saying about that.
   - `speak` /spiːk/                 ([Neutral] 話す、演説する)      May I speak with you privately?
   - `talk` /tɔːk/                   ([Neutral] 話す、話し合う)      We need to talk about this.
-- ✅ `explain` /ɪkˈspleɪn/          ([Neutral] 説明する、解釈する)  Let me explain the situation.
 - ✅ `get at` /ɡet æt/              ([Casual] 言おうとする)         What are you getting at?
   - `drive at` /draɪv æt/           ([Casual] 言おうとする)         I see what you're driving at.
 
@@ -52,7 +52,6 @@
   - `specify` /ˈspesɪfaɪ/           ([Formal] 明記する、特定する)   Please specify your requirements.
     - `specific` /spəˈsɪfɪk/        ([Neutral] 特定の、明確な)      Be more specific about what you need.
 - ✅ `warn` /wɔːrn/                 ([Neutral] 警告する、注意する)  I warned him about the danger.
-    - `warning` /ˈwɔːrnɪŋ/          ([Neutral] 警告、注意)          The weather warning was serious.
   - `tell` /tel/                    ([Neutral] 注意す 言い聞かせる) I told him to be careful.
   - `caution` /ˈkɔːʃən/             ([Neutral] 警告する、注意する)  The doctor cautioned against overwork.
     - `cautionary` /ˈkɔːʃəneri/     ([Formal] 警告的な)             It's a cautionary tale.
@@ -127,9 +126,9 @@
     - `confidential`                ([Formal] 機密の)               The information is confidential.
   - `uncover` /ʌnˈkʌvər/            ([Neutral] 暴く、発見する)      The investigation uncovered fraud.
     - `uncovering` /ʌnˈkʌvərɪŋ/     ([Neutral] 発見、暴露)          The uncovering of truth was important.
-  - `disclose` /dɪsˈkloʊz/          ([Formal] 開示する、明らかにする) The company disclosed its financial results.
-  - `betray` /bɪˈtreɪ/              ([Neutral] 裏切る、漏らす)       He betrayed their trust.
-  - `unveil` /ʌnˈveɪl/              ([Formal] 明らかにする、発表する) They unveiled the new product.
+  - `disclose` /dɪsˈkloʊz/          ([Formal] 開示する 明らかにする)The company disclosed its financial results.
+  - `betray` /bɪˈtreɪ/              ([Neutral] 裏切る、漏らす)      He betrayed their trust.
+  - `unveil` /ʌnˈveɪl/              ([Formal] 明らかにする 発表する)They unveiled the new product.
     - `unveiling` /ʌnˈveɪlɪŋ/       ([Formal] 発表、除幕式)         The unveiling ceremony was grand.
   - `divulge` /daɪˈvʌldʒ/           ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
     - `divulgence` /daɪˈvʌldʒəns/   ([Writing] 暴露、漏洩)          The divulgence of secrets was forbidden.

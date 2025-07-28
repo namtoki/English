@@ -47,3 +47,8 @@
 - `triumph` /ˈtraɪʌmf/              ([Neutral] 勝利、大成功)        The team's triumph was celebrated.
   - `triumphant` /traɪˈʌmfənt/      ([Neutral] 勝利した、勝ち誇った)The triumphant team celebrated loudly.
 <!-- Add vocabulary entries here using the format from format.md -->
+
+- `refuge` /ˈrefjuːdʒ/               ([Neutral] 避難所、逃げ場)           The cabin was our refuge from the storm.
+  - `refugee` /ˌrefjuˈdʒiː/          ([Neutral] 難民、避難民)             The refugees fled their homeland.
+- `sanctuary` /ˈsæŋktʃueri/          ([Formal] 聖域、保護区)              The church offered sanctuary to the fugitives.
+- `haven` /ˈheɪvən/                  ([Writing] 安息地、避難所)           The library was his haven from the busy world.

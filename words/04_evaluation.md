@@ -464,3 +464,22 @@ This category contains words for judging quality, making assessments, and expres
 - `heritable` /ˈherɪtəbəl/           ([Writing] 相続可能な)    The disease is heritable.
 - `inherited` /ɪnˈherɪtɪd/           ([Neutral] 受け継いだ)    She has inherited musical talent.
 
+
+
+
+- `come down to` /kʌm daʊn tu/        ([Casual] ～に帰着する)           It all comes down to hard work.
+  - `boil down to` /bɔɪl daʊn tu/      ([Neutral] 要するに～である)      The issue boils down to money.
+  - `depend on` /dɪˈpend ɑːn/          ([Neutral] ～に依存する)          Success depends on hard work.
+  - `result in` /rɪˈzʌlt ɪn/           ([Neutral] ～という結果になる)    Hard work results in success.
+  - `ultimately` /ˈʌltɪmətli/          ([Neutral] 最終的に、結局)        Ultimately, it's your decision.
+  - `amount to` /əˈmaʊnt tu/           ([Neutral] ～に等しい、要するに)  His excuse amounts to nothing.
+  - `center on` /ˈsentər ɑːn/          ([Neutral] ～を中心とする)        The debate centers on healthcare.
+  - `reduce to` /rɪˈdus tu/            ([Neutral] ～に減らす、要約する)  The problem reduces to a simple question.
+  - `stem from` /stem frʌm/            ([Neutral] ～に由来する)          The problem stems from poor planning.
+  - `revolve around` /rɪˈvɑːlv əˈraʊnd/ ([Neutral] ～を中心とする)        The story revolves around family.
+  - `hinge on` /hɪndʒ ɑːn/             ([Neutral] ～次第である)          The decision hinges on the budget.
+
+- `contradict` /ˌkɑːntrəˈdɪkt/       ([Neutral] 矛盾する、否定する)  Her actions contradict her words.
+  - `contradiction` /ˌkɑːntrəˈdɪkʃən/ ([Neutral] 矛盾、否定)          There's a contradiction in his statement.
+  - `contradictory` /ˌkɑːntrəˈdɪktəri/ ([Neutral] 矛盾した)          The reports are contradictory.
+

@@ -143,3 +143,35 @@ This category contains words related to granting permission, authorization, and 
 - `harbor` /ˈhɑːrbər/               ([Neutral] 港、かくまう)        The country harbored political dissidents.
   - `harborage` /ˈhɑːrbərɪdʒ/       ([Writing] 避難所、隠れ場)      The cave provided harborage from the storm.
 
+
+  - `rekindle` /riːˈkɪndəl/         ([Neutral] 再び燃え上がらせる)  The meeting rekindled old friendships.
+    - `rekindling` /riːˈkɪndəlɪŋ/   ([Neutral] 再燃)               The rekindling of romance was sweet.
+  - `resurrect` /ˌrezəˈrekt/        ([Formal] 復活させる)          They resurrected the old tradition.
+    - `resurrection` /ˌrezəˈrekʃən/ ([Formal] 復活、再生)          The resurrection of the company was remarkable.
+
+- `solace` /ˈsɑːləs/                 ([Formal] 慰め、安らぎ)               She found solace in music after the loss.
+- `comfort` /ˈkʌmfət/                ([Neutral] 慰める、慰め)             She tried to comfort the crying child.
+  - `comfortable` /ˈkʌmftəbəl/       ([Neutral] 快適な、安楽な)           This chair is very comfortable.
+  - `uncomfortable` /ʌnˈkʌmftəbəl/   ([Neutral] 不快な、居心地悪い)       The silence made everyone uncomfortable.
+  - `discomfort` /dɪsˈkʌmfət/        ([Neutral] 不快感、苦痛)             The patient experienced some discomfort.
+  - `comfortably` /ˈkʌmfərtəbli/     ([Neutral] 快適に、気楽に)       She sat comfortably in her favorite chair.
+- `console` /kənˈsoʊl/               ([Formal] 慰める、元気づける)        He tried to console his grieving friend.
+  - `consolation` /ˌkɑːnsəˈleɪʃən/   ([Formal] 慰めること、安らぎ)        The trophy was small consolation for losing.
+  - `inconsolable` /ˌɪnkənˈsoʊləbəl/ ([Writing] 慰めようがない)         She was inconsolable after the tragedy.
+- `peace` /piːs/                     ([Neutral] 平和、安らぎ)             She found peace in the quiet garden.
+  - `peaceful` /ˈpiːsfəl/            ([Neutral] 平和な、平穏な)           The village was peaceful and quiet.
+  - `peacefully` /ˈpiːsfəli/         ([Neutral] 平和に、静かに)           He died peacefully in his sleep.
+  - `peacekeeping` /ˈpiːskiːpɪŋ/     ([Formal] 平和維持の)            The peacekeeping forces arrived yesterday.
+  - `peacetime` /ˈpiːstaɪm/          ([Formal] 平時の)                 During peacetime, the economy flourished.
+- `tranquil` /ˈtræŋkwɪl/             ([Writing] 落ち着いた、平静な)       The lake was tranquil in the morning.
+  - `tranquility` /træŋˈkwɪləti/     ([Writing] 静けさ、平穏)             She enjoyed the tranquility of nature.
+  - `tranquilize` /ˈtræŋkwɪlaɪz/     ([Medical] 鎮静する、落ち着かせる)   The doctor had to tranquilize the patient.
+- `relief` /rɪˈliːf/                 ([Neutral] 緩和、救済)               The medicine provided instant relief.
+  - `relieve` /rɪˈliːv/              ([Neutral] 和らげる、軽減する)       This should relieve your headache.
+  - `relieved` /rɪˈliːvd/            ([Neutral] 安心した、ほっとした)     I'm relieved that you're safe.
+- `alleviate` /əˈliːvieɪt/           ([Formal] 軽減する、和らげる)        The new policy will alleviate poverty.
+  - `alleviation` /əˌliːviˈeɪʃən/    ([Formal] 軽減、緩和)               The alleviation of suffering is important.
+- `reassure` /ˌriːəˈʃʊr/             ([Neutral] 元気づける、安心させる)   She reassured him that everything would be fine.
+  - `reassurance` /ˌriːəˈʃʊrəns/     ([Neutral] 安心、元気づけ)           He needed reassurance before the surgery.
+  - `reassuring` /ˌriːəˈʃʊrɪŋ/       ([Neutral] 安心させる)               Her reassuring smile calmed his nerves.
+- `balm` /bɑːm/                      ([Writing] 香油、慰め)               Her words were a balm to his soul.

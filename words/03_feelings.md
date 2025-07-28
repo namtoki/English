@@ -1,9 +1,104 @@
 # Feelings
 
-This category contains words expressing emotional states, moods, and psychological conditions.
+## EMPHASIZE
+- ✅ `strong` /strɔːŋ/              ([Neutral] 強い、激しい)        She has strong feelings about it.
+  - `intense` /ɪnˈtens/             ([Neutral] 激しい、強烈な)      She felt intense emotions.
+    - `intensity` /ɪnˈtensəti/      ([Neutral] 強さ、激しさ)        The intensity of his gaze surprised her.
+    - `intensive` /ɪnˈtensɪv/       ([Formal] 集中的な、激しい)     He attended an intensive language course.
+    - `intensify` /ɪnˈtensɪfaɪ/     ([Neutral] 激しくする、強める)  The storm will intensify tonight.
+  - `heavy` /ˈhevi/                 ([Casual] 激しい、重い)         We had heavy rain yesterday.
+  - `deep` /diːp/                   ([Neutral] 深い、強い)          She has deep feelings for him.
+  - `extreme` /ɪkˈstriːm/           ([Neutral] 極度の、過激な)      He took extreme measures.
+  - `severe` /sɪˈvɪr/               ([Neutral] 激しい、厳しい)      She suffered severe pain.
+    - `severity` /sɪˈverəti/        ([Formal] 激しさ、厳しさ)       The severity of the situation was clear.
+  - `powerful` /ˈpaʊərfəl/          ([Neutral] 強力な、力強い)      That was a powerful speech.
+  - `fierce` /fɪrs/                 ([Neutral] 激しい、猛烈な)      The competition was fierce.
+    - `fierceness` /ˈfɪrsnəs/       ([Neutral] 激しさ、獰猛さ)      The fierceness of her loyalty was admirable.
+  - `passionate` /ˈpæʃənət/         ([Neutral] 情熱的な、激しい)    She's passionate about music.
+  - `harsh` /hɑːrʃ/                 ([Neutral] 厳しい、激しい)      The criticism was harsh.
+    - `harshness` /ˈhɑːrʃnəs/       ([Neutral] 厳しさ、激しさ)      The harshness of winter surprised them.
+  - `drastic` /ˈdræstɪk/            ([Neutral] 激烈な、思い切った)  We need drastic changes.
+  - `profound` /prəˈfaʊnd/          ([Formal] 深い、激しい)         The loss had a profound impact.
+  - `vigorous` /ˈvɪɡərəs/           ([Formal] 活発な、激しい)       They had a vigorous debate.
+  - `acute` /əˈkjuːt/               ([Formal] 激しい、深刻な)       He felt acute embarrassment.
+  - `vehement` /ˈviːəmənt/          ([Formal] 激烈な、猛烈な)       She made a vehement protest.
+    - `vehemence` /ˈviːəməns/       ([Formal] 激しさ、猛烈さ)       The vehemence of his reaction shocked us.
 
-## Words
+## POSITIVE
+- ✅ `eager` /ˈiːɡər/               ([Neutral] 熱心な、切望する)    She's eager to learn.
+    - `eagerness` /ˈiːɡərnəs/       ([Neutral] 熱心さ、切望)        Her eagerness to help was obvious.
+  - `enthusiastic` /ɪnˌθjuːziˈæstɪk/([Neutral] 熱狂的な)            He's enthusiastic about the project.
+    - `enthusiasm` /ɪnˈθjuːziæzəm/  ([Neutral] 熱意)                Her enthusiasm is contagious.
+    - `enthusiast` /ɪnˈθjuːziæst/   ([Neutral] 熱心な人)            He's a photography enthusiast.
+  - `excited` /ɪkˈsaɪtɪd/           ([Casual] 興奮した、熱心な)     The kids are excited about the trip.
+    - `excitement` /ɪkˈsaɪtmənt/    ([Casual] 興奮、熱狂)           The excitement was palpable.
+  - `keen` /kiːn/                   ([Neutral] 熱心な、鋭い)        He's keen on photography.
+    - `keenness` /ˈkiːnnəs/         ([Neutral] 熱心さ、鋭さ)        His keenness to succeed was evident.
+  - `passionate` /ˈpæʃənət/         ([Neutral] 情熱的な)            He's passionate about music.
+    - `passion` /ˈpæʃən/            ([Neutral] 情熱、熱情)          His passion for art is evident.
+  - `motivated` /ˈmoʊtɪveɪtɪd/      ([Neutral] 意欲的な、動機づけられた) She's highly motivated to succeed.
+  - `driven` /ˈdrɪvən/              ([Neutral] 意欲的な、駆り立てられた) He's driven to achieve excellence.
+    - `drive` /draɪv/               ([Neutral] 意欲、推進力)        Her drive for success is remarkable.
+  - ✅ `dedicated` /ˈdedɪkeɪtɪd/    ([Neutral] 献身的な、熱心な)    She's dedicated to her work.
+  - `energetic` /ˌɛnəˈdʒetɪk/       ([Neutral] 精力的な)            She's always so energetic in the morning.
+  - `avid` /ˈævɪd/                  ([Neutral] 熱心な、貪欲な)      She's an avid reader.
+  - `devoted` /dɪˈvoʊtɪd/           ([Neutral] 献身的な、熱心な)    They're devoted to their children.
+    - `devotion` /dɪˈvoʊʃən/        ([Neutral] 献身、愛情)          Her devotion to the cause is inspiring.
+  - `committed` /kəˈmɪtɪd/          ([Neutral] 献身的な、約束した)  He's committed to the project.
+  - `fervent` /ˈfɜːrvənt/           ([Formal] 熱烈な、熱心な)       She was a fervent supporter of the cause.
+    - `fervor` /ˈfɜːrvər/           ([Formal] 熱意、情熱)           She spoke with great fervor.
+  - `ardent` /ˈɑːrdənt/             ([Formal] 熱心な、熱烈な)       She's an ardent advocate for peace.
+    - `ardor` /ˈɑːrdər/             ([Formal] 熱意、情熱)           His ardor for learning impressed teachers.
+  - `zealous` /ˈzeləs/              ([Formal] 熱心な、熱狂的な)     He's zealous about his work.
+    - `zeal` /ziːl/                 ([Formal] 熱心さ、熱意)         His zeal for reform was admirable.
+    - `zealot` /ˈzeləs/             ([Formal] 狂信者、熱中する人)   The zealot preached on the street.
+- ✅ `calm` /kɑːm/                  ([Neutral] 冷静な、穏やかな)    Stay calm during the emergency.
+    - `calmness` /ˈkɑːmnəs/         ([Neutral] 冷静さ、平穏)        His calmness impressed everyone.
+  - `cool` /kuːl/                   ([Casual] 冷静な、落ち着いた)   Keep cool under pressure.
+    - `coolly` /ˈkuːlli/            ([Casual] 冷静に、冷淡に)       He coolly assessed the risks.
+    - `coolness` /ˈkuːlnəs/         ([Casual] 冷静さ、冷淡さ)       Her coolness surprised me.
+  - `relaxed` /rɪˈlækst/            ([Casual] リラックスした 冷静な)He seemed very relaxed about it.
+  - `composed` /kəmˈpoʊzd/          ([Neutral] 落ち着いた、冷静な)  She remained composed throughout.
+    - `composure` /kəmˈpoʊʒər/      ([Neutral] 落ち着き、平静)      He maintained his composure.
+  - `collected` /kəˈlektɪd/         ([Neutral] 冷静な、落ち着いた)  She was calm and collected.
+  - `level-headed` /ˈlevəl ˈhedɪd/  ([Neutral] 冷静な、分別のある)  We need someone level-headed.
+  - `steady` /ˈstedi/               ([Neutral] 落ち着いた 安定した) Keep a steady hand.
+    - `steadiness` /ˈstedinəs/      ([Neutral] 安定性、冷静さ)      His steadiness was reassuring.
+  - `serene` /səˈriːn/              ([Formal] 穏やかな、平静な)     She had a serene expression.
+    - `serenity` /səˈrenəti/        ([Formal] 平静、穏やかさ)       The lake's serenity was calming.
+  - `tranquil` /ˈtræŋkwɪl/          ([Formal] 静かな、穏やかな)     The atmosphere was tranquil.
+    - `tranquility` /træŋˈkwɪləti/  ([Formal] 静けさ、平穏)         They sought tranquility in nature.
+  - `unruffled` /ʌnˈrʌfəld/         ([Formal] 動じない、冷静な)     He remained unruffled by criticism.
+  - `placid` /ˈplæsɪd/              ([Formal] 穏やかな、平静な)     She has a placid temperament.
+    - `placidly` /ˈplæsɪdli/        ([Formal] 穏やかに)             The cow grazed placidly.
+  - `poised` /pɔɪzd/                ([Formal] 落ち着いた、準備ができた) She's poised and confident.
+    - `poise` /pɔɪz/                ([Formal] 平静、落ち着き)       She handled it with poise.
+  - `imperturbable` /ˌɪmpərˈtɜːrbəbəl/ ([Formal] 動じない、冷静な)  He's imperturbable under stress.
+  - `dispassionate` /dɪsˈpæʃənət/   ([Formal] 冷静な、感情的でない) He gave a dispassionate analysis.
+  - `stoic` /ˈstoʊɪk/               ([Formal] ストイックな、感情を表さない) He remained stoic despite the pain.
+    - `stoically` /ˈstoʊɪkli/       ([Formal] 平然と、冷静に)       She stoically endured the hardship.
+    - `stoicism` /ˈstoʊɪsɪzəm/      ([Formal] ストイシズム、克己)   His stoicism was admirable.
+  - `equanimous` /ɪˈkwænɪməs/       ([Writing] 平静な、落ち着いた)  She maintained an equanimous demeanor.
+    - `equanimity` /ˌekwəˈnɪməti/   ([Writing] 平静、沈着)          He faced adversity with equanimity.
 
+- `earnest` /ˈɜːrnəst/              ([Formal] まじめな、真剣な)     She made an earnest plea for help.
+  - `earnestly` /ˈɜːrnəstli/        ([Formal] まじめに、真剣に)     He earnestly studied for the exam.
+  - `earnestness` /ˈɜːrnəstnəs/     ([Formal] まじめさ、真剣さ)     His earnestness impressed the judges.
+
+- `meticulous` /məˈtɪkjələs/        ([Writing] 細部にこだわる)      She's meticulous about her work.
+  - `meticulously` /məˈtɪkjələsli/  ([Writing] 細心に)              He meticulously checked every detail.
+  - `meticulousness` /məˈtɪkjələsnəs/ ([Writing] 細心さ)            Her meticulousness ensures quality.
+- `scrupulous` /ˈskruːpjələs/       ([Writing] 綿密な)              She's scrupulous about following rules.
+  - `scrupulously` /ˈskruːpjələsli/ ([Writing] 綿密に)              He scrupulously avoided any conflicts.
+  - `unscrupulous` /ʌnˈskruːpjələs/ ([Writing] 無節操な)            He's an unscrupulous businessman.
+
+- `conscientious` /ˌkɒnʃiˈenʃəs/    ([Formal] 良心的な)             She's a conscientious worker.
+  - `conscientiously` /ˌkɒnʃiˈenʃəsli/ ([Formal] 良心的に)          He conscientiously completed his duties.
+  - `conscience` /ˈkɒnʃəns/         ([Neutral] 良心)                His conscience bothered him.
+
+- `feat` /fiːt/                     ([Neutral] 偉業、功績)          Climbing Everest is an incredible feat.
+
+## NEGATIVE
 - `difficult` /ˈdɪfɪkəlt/           ([Formal] 知的な難しさ)         The instructions were difficult to follow.
   - `difficulty` /ˈdɪfɪkəlti/       ([Neutral] 困難、難しさ)        He had no difficulty finding a job.
 - `hard` /hɑːd/                     ([Neutral] 努力を要する難しさ)  The test was hard.
@@ -14,15 +109,18 @@ This category contains words expressing emotional states, moods, and psychologic
 - `tough` /tʌf/                     ([Casual] 忍耐を要する困難)     He's going through a tough time.
 - `challenging` /ˈtʃælɪndʒɪŋ/       ([Neutral] やりがいのある困難)  This project is very challenging.
   - `challenge` /ˈtʃælɪndʒ/         ([Neutral] 挑戦、難問)          I'm ready for a new challenge.
+- `tricky` /ˈtrɪki/                 ([Casual] コツがいる困難)       The last question on the test was tricky.
+- `arduous` /ˈɑːdjuəs/              ([Writing] 骨が折れる困難)      It was an arduous journey through the mountains.
+- `strenuous` /ˈstrenjuəs/          ([Writing] 肉体的に激しい)      Avoid strenuous exercise for a few weeks.
+- `painstaking` /ˈpeɪnzˌteɪkɪŋ/     ([Writing] 骨の折れる)          The restoration was painstaking work.
+  - `painstakingly` /ˈpeɪnzˌteɪkɪŋli/ ([Writing] 骨を折って)        She painstakingly rebuilt the model.
+- `rewarding` /rɪˈwɔːdɪŋ/           ([Neutral] やりがいのある)      Teaching can be very rewarding.
+
 - `complex` /kəmˈpleks/             ([Writing] 構造の複雑さ)        The human brain is an incredibly complex organ.
   - `complexity` /kəmˈpleksəti/     ([Writing] 複雑さ)              I was amazed by the complexity of the design.
 - `complicated` /ˈkɒmplɪkeɪtɪd/     ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
   - `complicate` /ˈkɒmplɪkeɪt/      ([Writing] 複雑にする)          Don't complicate the situation.
   - `complication` /ˌkɒmplɪˈkeɪʃən/ ([Writing] 面倒な事態)          The surgery was successful, but there were complications.
-- `tricky` /ˈtrɪki/                 ([Casual] コツがいる困難)       The last question on the test was tricky.
-- `arduous` /ˈɑːdjuəs/              ([Writing] 骨が折れる困難)      It was an arduous journey through the mountains.
-- `strenuous` /ˈstrenjuəs/          ([Writing] 肉体的に激しい)      Avoid strenuous exercise for a few weeks.
-- `feat` /fiːt/                     ([Neutral] 偉業、功績)          Climbing Everest is an incredible feat.
 
 - `apathetic` /ˌæpəˈθetɪk/          ([Formal] 無関心な、無感動な)   He seemed apathetic about the results.
   - `apathetically` /ˌæpəˈθetɪkli/  ([Formal] 無関心に)             She responded apathetically to the news.
@@ -32,61 +130,27 @@ This category contains words expressing emotional states, moods, and psychologic
   - `indifference` /ɪnˈdɪfərəns/    ([Formal] 無関心、冷淡)         His indifference hurt her feelings.
 - `detached` /dɪˈtætʃt/             ([Formal] 冷静な、無関心な)     He remained detached from the argument.
   - `detachment` /dɪˈtætʃmənt/      ([Formal] 冷静さ、分離)         She observed with clinical detachment.
-- `dispassionate` /dɪsˈpæʃənət/     ([Formal] 冷静な、感情的でない) He gave a dispassionate analysis.
-  - `dispassionately` /dɪsˈpæʃənətli/ ([Formal] 冷静に)             She spoke dispassionately about the facts.
+
 - `emotionless` /ɪˈmoʊʃənləs/       ([Neutral] 感情のない)          His face remained emotionless.
 - `uninterested` /ʌnˈɪntrəstəd/     ([Neutral] 興味のない)          She seemed uninterested in the topic.
 - `unmoved` /ʌnˈmuvd/               ([Neutral] 動じない、感動しない) He was unmoved by her tears.
+
 - `stoic` /ˈstoʊɪk/                 ([Formal] 禁欲的な、感情を表さない) She remained stoic during the crisis.
   - `stoically` /ˈstoʊɪkli/         ([Formal] 禁欲的に)             He endured the pain stoically.
   - `stoicism` /ˈstoʊɪsɪzəm/        ([Formal] 禁欲主義、無感動)     His stoicism impressed everyone.
-- `numb` /nʌm/                      ([Neutral] 感覚のない、無感覚な) I felt numb after the shocking news.
-- `fervent` /ˈfɜːrvənt/             ([Formal] 熱烈な、熱心な)       She was a fervent supporter of the cause.
-  - `fervently` /ˈfɜːrvəntli/       ([Formal] 熱烈に、熱心に)       He fervently hoped for success.
-  - `fervor` /ˈfɜːrvər/             ([Formal] 熱意、情熱)           She spoke with great fervor.
-- `passionate` /ˈpæʃənət/           ([Neutral] 情熱的な)            He's passionate about music.
-  - `passionately` /ˈpæʃənətli/     ([Neutral] 情熱的に)            She argued passionately for justice.
-  - `passion` /ˈpæʃən/              ([Neutral] 情熱、熱情)          His passion for art is evident.
-- `ardent` /ˈɑːrdənt/               ([Formal] 熱心な、熱烈な)       She's an ardent advocate for peace.
-  - `ardently` /ˈɑːrdəntli/         ([Formal] 熱心に)               He ardently pursued his dreams.
-  - `ardor` /ˈɑːrdər/               ([Formal] 熱意、情熱)           His ardor for learning impressed teachers.
-- `zealous` /ˈzeləs/                ([Formal] 熱心な、熱狂的な)     He's zealous about his work.
-  - `zealously` /ˈzeləsli/          ([Formal] 熱心に)               She zealously protected her rights.
-  - `zeal` /ziːl/                   ([Formal] 熱心さ、熱意)         His zeal for reform was admirable.
-  - `zealot` /ˈzeləs/               ([Formal] 狂信者、熱中する人)   The zealot preached on the street.
-- `intense` /ɪnˈtens/               ([Neutral] 激しい、強烈な)      She felt intense emotions.
-  - `intensely` /ɪnˈtensli/         ([Neutral] 激しく、強く)        He stared intensely at the painting.
-  - `intensity` /ɪnˈtensəti/        ([Neutral] 強さ、激しさ)        The intensity of his gaze surprised her.
-  - `intensive` /ɪnˈtensɪv/         ([Formal] 集中的な、激しい)     He attended an intensive language course.
-  - `intensify` /ɪnˈtensɪfaɪ/       ([Neutral] 激しくする、強める)  The storm will intensify tonight.
-- `vehement` /ˈviːəmənt/            ([Formal] 激烈な、猛烈な)       She made a vehement protest.
-  - `vehemently` /ˈviːəməntli/      ([Formal] 激しく、猛烈に)       He vehemently denied the charges.
-  - `vehemence` /ˈviːəməns/         ([Formal] 激しさ、猛烈さ)       The vehemence of his reaction shocked us.
-- `earnest` /ˈɜːrnəst/              ([Formal] まじめな、真剣な)     She made an earnest plea for help.
-  - `earnestly` /ˈɜːrnəstli/        ([Formal] まじめに、真剣に)     He earnestly studied for the exam.
-  - `earnestness` /ˈɜːrnəstnəs/     ([Formal] まじめさ、真剣さ)     His earnestness impressed the judges.
+
 - `lethargic` /ləˈθɑːdʒɪk/          ([Writing] 無気力な)            I feel lethargic after eating too much.
   - `lethargy` /ˈleθədʒi/           ([Writing] 無気力、倦怠感)      The heat induced a sense of lethargy.
+
+- `numb` /nʌm/                      ([Neutral] 感覚のない、無感覚な) I felt numb after the shocking news.
+
 - `exhausted` /ɪɡˈzɔːstɪd/          ([Neutral] 疲れ果てた)          I'm exhausted after the long day.
   - `exhaustion` /ɪɡˈzɔːstʃən/      ([Neutral] 疲労困憱)            She collapsed from exhaustion.
   - `exhaustive` /ɪɡˈzɔːstɪv/       ([Writing] 徹底的な)            The report was exhaustive and detailed.
   - `exhausting` /ɪɡˈzɔːstɪŋ/       ([Neutral] 疲れさせる)          The hike was exhausting but rewarding.
-- `energetic` /ˌɛnəˈdʒetɪk/         ([Neutral] 精力的な)            She's always so energetic in the morning.
-  - `energy` /ˈɛnədʒi/              ([Neutral] エネルギー)          I need more energy to finish this.
-- `enthusiastic` /ɪnˌθjuːziˈæstɪk/  ([Neutral] 熱狂的な)            He's enthusiastic about the project.
-  - `enthusiasm` /ɪnˈθjuːziæzəm/    ([Neutral] 熱意)                Her enthusiasm is contagious.
-  - `enthusiast` /ɪnˈθjuːziæst/     ([Neutral] 熱心な人)            He's a photography enthusiast.
-- `meticulous` /məˈtɪkjələs/        ([Writing] 細部にこだわる)      She's meticulous about her work.
-  - `meticulously` /məˈtɪkjələsli/  ([Writing] 細心に)              He meticulously checked every detail.
-  - `meticulousness` /məˈtɪkjələsnəs/ ([Writing] 細心さ)            Her meticulousness ensures quality.
-- `scrupulous` /ˈskruːpjələs/       ([Writing] 綿密な)              She's scrupulous about following rules.
-  - `scrupulously` /ˈskruːpjələsli/ ([Writing] 綿密に)              He scrupulously avoided any conflicts.
-  - `unscrupulous` /ʌnˈskruːpjələs/ ([Writing] 無節操な)            He's an unscrupulous businessman.
-- `conscientious` /ˌkɒnʃiˈenʃəs/    ([Formal] 良心的な)             She's a conscientious worker.
-  - `conscientiously` /ˌkɒnʃiˈenʃəsli/ ([Formal] 良心的に)          He conscientiously completed his duties.
-  - `conscience` /ˈkɒnʃəns/         ([Neutral] 良心)                His conscience bothered him.
-- `painstaking` /ˈpeɪnzˌteɪkɪŋ/     ([Writing] 骨の折れる)          The restoration was painstaking work.
-  - `painstakingly` /ˈpeɪnzˌteɪkɪŋli/ ([Writing] 骨を折って)        She painstakingly rebuilt the model.
+- `wrecked` /rɛkt/                    ([Casual] 疲れ果てた)           I was completely wrecked after work.
+- `tired` /ˈtaɪərd/                   ([Neutral] 疲れた)              I'm tired after the long day.
+
 - `aversion` /əˈvɜːrʒən/            ([Formal] 嫌悪、反感)           She has an aversion to spiders.
   - `averse` /əˈvɜːrs/              ([Formal] 嫌がる、反対で)       I'm not averse to trying new things.
   - `aversive` /əˈvɜːrsɪv/          ([Writing] 嫌悪を起こす)        The aversive stimulus made him flinch.
@@ -106,6 +170,7 @@ This category contains words expressing emotional states, moods, and psychologic
 - `detest` /dɪˈtest/                ([Formal] ひどく嫌う)           I detest being late.
   - `detestable` /dɪˈtestəbl/       ([Writing] 憎むべき)            His detestable actions hurt many.
   - `detestation` /ˌdiːteˈsteɪʃən/  ([Writing] 憎悪、嫌悪)          He held them in detestation.
+
 - `petrify` /ˈpetrɪfaɪ/             ([Neutral] 石化する、恐怖で固まる)     The scary movie petrified the children.
   - `petrified` /ˈpetrɪfaɪd/        ([Neutral] 石化した、恐怖で固まった)   I was petrified when I saw the snake.
   - `petrification` /ˌpetrɪfɪˈkeɪʃən/ ([Writing] 石化、化石化)           The petrification process takes millions of years.
@@ -131,56 +196,28 @@ This category contains words expressing emotional states, moods, and psychologic
 - `appall` /əˈpɔːl/                  ([Formal] ぞっとさせる、愕然とさせる) The conditions appalled the inspectors.
   - `appalling` /əˈpɔːlɪŋ/          ([Neutral] ひどい、ぞっとする)       The living conditions were appalling.
   - `appalled` /əˈpɔːld/            ([Neutral] 愕然とした、ぞっとした)   I was appalled by his behavior.
-- `solace` /ˈsɑːləs/                 ([Formal] 慰め、安らぎ)               She found solace in music after the loss.
-- `comfort` /ˈkʌmfət/                ([Neutral] 慰める、慰め)             She tried to comfort the crying child.
-  - `comfortable` /ˈkʌmftəbəl/       ([Neutral] 快適な、安楽な)           This chair is very comfortable.
-  - `uncomfortable` /ʌnˈkʌmftəbəl/   ([Neutral] 不快な、居心地悪い)       The silence made everyone uncomfortable.
-  - `discomfort` /dɪsˈkʌmfət/        ([Neutral] 不快感、苦痛)             The patient experienced some discomfort.
-  - `comfortably` /ˈkʌmfərtəbli/     ([Neutral] 快適に、気楽に)       She sat comfortably in her favorite chair.
-- `console` /kənˈsoʊl/               ([Formal] 慰める、元気づける)        He tried to console his grieving friend.
-  - `consolation` /ˌkɑːnsəˈleɪʃən/   ([Formal] 慰めること、安らぎ)        The trophy was small consolation for losing.
-  - `inconsolable` /ˌɪnkənˈsoʊləbəl/ ([Writing] 慰めようがない)         She was inconsolable after the tragedy.
-- `peace` /piːs/                     ([Neutral] 平和、安らぎ)             She found peace in the quiet garden.
-  - `peaceful` /ˈpiːsfəl/            ([Neutral] 平和な、平穏な)           The village was peaceful and quiet.
-  - `peacefully` /ˈpiːsfəli/         ([Neutral] 平和に、静かに)           He died peacefully in his sleep.
-  - `peacekeeping` /ˈpiːskiːpɪŋ/     ([Formal] 平和維持の)            The peacekeeping forces arrived yesterday.
-  - `peacetime` /ˈpiːstaɪm/          ([Formal] 平時の)                 During peacetime, the economy flourished.
-- `tranquil` /ˈtræŋkwɪl/             ([Writing] 落ち着いた、平静な)       The lake was tranquil in the morning.
-  - `tranquility` /træŋˈkwɪləti/     ([Writing] 静けさ、平穏)             She enjoyed the tranquility of nature.
-  - `tranquilize` /ˈtræŋkwɪlaɪz/     ([Medical] 鎮静する、落ち着かせる)   The doctor had to tranquilize the patient.
-- `relief` /rɪˈliːf/                 ([Neutral] 緩和、救済)               The medicine provided instant relief.
-  - `relieve` /rɪˈliːv/              ([Neutral] 和らげる、軽減する)       This should relieve your headache.
-  - `relieved` /rɪˈliːvd/            ([Neutral] 安心した、ほっとした)     I'm relieved that you're safe.
-- `alleviate` /əˈliːvieɪt/           ([Formal] 軽減する、和らげる)        The new policy will alleviate poverty.
-  - `alleviation` /əˌliːviˈeɪʃən/    ([Formal] 軽減、緩和)               The alleviation of suffering is important.
-- `refuge` /ˈrefjuːdʒ/               ([Neutral] 避難所、逃げ場)           The cabin was our refuge from the storm.
-  - `refugee` /ˌrefjuˈdʒiː/          ([Neutral] 難民、避難民)             The refugees fled their homeland.
-- `sanctuary` /ˈsæŋktʃueri/          ([Formal] 聖域、保護区)              The church offered sanctuary to the fugitives.
-- `haven` /ˈheɪvən/                  ([Writing] 安息地、避難所)           The library was his haven from the busy world.
-- `reassure` /ˌriːəˈʃʊr/             ([Neutral] 元気づける、安心させる)   She reassured him that everything would be fine.
-  - `reassurance` /ˌriːəˈʃʊrəns/     ([Neutral] 安心、元気づけ)           He needed reassurance before the surgery.
-  - `reassuring` /ˌriːəˈʃʊrɪŋ/       ([Neutral] 安心させる)               Her reassuring smile calmed his nerves.
+
 - `gentle` /ˈdʒentəl/                ([Neutral] 優しい、穏やかな)         She spoke in a gentle voice.
   - `gently` /ˈdʒentli/              ([Neutral] 優しく、そっと)           He gently touched her shoulder.
   - `gentleness` /ˈdʒentəlnəs/       ([Neutral] 優しさ、穏やかさ)         His gentleness won her heart.
 - `tender` /ˈtendər/                 ([Neutral] 優しい、柔らかい)         She gave him a tender kiss.
   - `tenderly` /ˈtendərli/           ([Neutral] 優しく、親切に)           She tenderly cared for the injured bird.
   - `tenderness` /ˈtendərnəs/        ([Neutral] 優しさ、愛情)             His eyes showed great tenderness.
-- `balm` /bɑːm/                      ([Writing] 香油、慰め)               Her words were a balm to his soul.
 
-
-- `rewarding` /rɪˈwɔːdɪŋ/           ([Neutral] やりがいのある)      Teaching can be very rewarding.
-- `wrecked` /rɛkt/                    ([Casual] 疲れ果てた)           I was completely wrecked after work.
 - `wrecked` /rɛkt/                    ([Casual] 酔っ払った)           He got wrecked at the party.
-- `tired` /ˈtaɪərd/                   ([Neutral] 疲れた)              I'm tired after the long day.
-- `devastated` /ˈdevəsteɪtɪd/        ([Neutral] 打ちのめされた)      She was devastated by the news.
 - `drunk` /drʌŋk/                     ([Casual] 酔っ払った)           He was drunk after three beers.
+
+- `devastated` /ˈdevəsteɪtɪd/        ([Neutral] 打ちのめされた)      She was devastated by the news.
+
+
 - `shock` /ʃɑːk/                      ([Neutral] ショックを与える)    The news shocked everyone.
   - `shocking` /ˈʃɑːkɪŋ/             ([Neutral] 衝撃的な)            The revelation was shocking.
   - `shocked` /ʃɑːkt/                ([Neutral] ショックを受けた)    I was shocked by his response.
+
 - `dismay` /dɪsˈmeɪ/                  ([Formal] 落胆させる、狼狽させる) Her reaction dismayed her parents.
   - `dismaying` /dɪsˈmeɪɪŋ/          ([Formal] 落胆させる)           The results were dismaying.
   - `dismayed` /dɪsˈmeɪd/            ([Formal] 落胆した、狼狽した)   He was dismayed by the outcome.
+
 - `stun` /stʌn/                       ([Neutral] 茫然とさせる)        The verdict stunned the courtroom.
   - `stunning` /ˈstʌnɪŋ/             ([Neutral] 驚くべき、見事な)    She looked stunning in that dress.
   - `stunned` /stʌnd/                ([Neutral] 茫然とした)          He sat there, stunned by the news.
@@ -194,6 +231,7 @@ This category contains words expressing emotional states, moods, and psychologic
 - `startle` /ˈstɑːrtəl/               ([Neutral] びっくりさせる)      The loud noise startled the baby.
   - `startling` /ˈstɑːrtəlɪŋ/        ([Neutral] 驚くべき)            The resemblance was startling.
   - `startled` /ˈstɑːrtəld/          ([Neutral] びっくりした)        She looked startled by the question.
+
 - `alarm` /əˈlɑːrm/                   ([Neutral] 警戒させる、不安にさせる) The symptoms alarmed the doctor.
   - `alarming` /əˈlɑːrmɪŋ/           ([Neutral] 心配な、不安な)      The statistics are alarming.
   - `alarmed` /əˈlɑːrmd/             ([Neutral] 心配した、警戒した)  She was alarmed by his behavior.
