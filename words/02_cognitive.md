@@ -24,6 +24,15 @@
     - `presumably` /prɪˈzuːməbli/   ([Formal] おそらく)             Presumably, he'll arrive on time.
   - `surmise` /sərˈmaɪz/            ([Writing] だと思う、推測する)  I surmise that he's already left.
     - `surmising` /sərˈmaɪzɪŋ/      ([Writing] 推測)                His surmising proved correct.
+- ✅ `rely on` /rɪˈlaɪ ɒn/          ([Neutral] 頼る、依存する)      We rely on public transport.
+  - `trust` /trʌst/                 ([Neutral] 信頼する)            You can trust me not to tell anyone.
+  - ✅ `count on` /kaʊnt ɒn/        ([Neutral] 頼る)                I'm counting on you to help me.
+  - `have confidence in`            ([Neutral] 信頼する)            I have confidence in her abilities.
+  - ✅ `bank on` /bæŋk ɒn/          ([Neutral] 当てにする)          I'm banking on your help.
+  - `lean on` /liːn ɒn/             ([Neutral] 頼る、支えにする)    She had her friends to lean on.
+  - `fall back on` /fɔːl bæk ɒn/    ([Neutral] 頼る、最終手段)      I have savings to fall back on.
+  - `pin hopes on` /pɪn hoʊps ɒn/   ([Neutral] 期待をかける)        They pinned their hopes on winning.
+  - `reckon on` /ˈrekən ɒn/         ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
 
 ## THINK OF
 - ✅ `think of` /θɪŋk ʌv/           ([Neutral] 思いつく、考える)    I can't think of a solution.

@@ -154,7 +154,16 @@
 - `feat` /fiːt/                     ([Neutral] 偉業、功績)          Climbing Everest is an incredible feat.
 
 ## NEGATIVE
-- `hard` /hɑːd/                     ([Neutral] 努力を要する難しさ)  The test was hard.
+- ✅ `bad` /bæd/                    ([Casual] 悪い、困難な)         Traffic was really bad today.
+  - `poor` /pɔːr/                   ([Neutral] 貧しい、悪い)        The sound quality is poor.
+  - `terrible` /ˈterəbəl/           ([Neutral] ひどい、恐ろしい)    The weather was terrible.
+  - `awful` /ˈɔːfəl/                ([Neutral] ひどい、恐ろしい)    That's an awful smell.
+  - `horrible` /ˈhɒrəbəl/           ([Neutral] 恐ろしい、ひどい)    It was a horrible accident.
+  - `nasty` /ˈnæsti/                ([Casual] いやな、意地悪い)     He has a nasty temper.
+  - `dreadful` /ˈdredfəl/           ([Formal] 恐ろしい、ひどい)     The traffic was dreadful.
+  - `lousy` /ˈlaʊzi/                ([Casual] ひどい、最悪の)       What lousy weather!
+  - `rotten` /ˈrɒtən/               ([Casual] 腐った、ひどい)       This is rotten luck.
+- ✅ `hard` /hɑːd/                  ([Neutral] 努力を要する難しさ)  The test was hard.
     - `harden` /ˈhɑːdən/            ([Neutral] 硬くなる、硬くする)  The clay will harden in the sun.
     - `hardship` /ˈhɑːdʃɪp/         ([Writing] 苦難、困難)          They faced many hardships during the war.
     - `hardworking` /ˈhɑːdˌwɜːkɪŋ/  ([Neutral] 勤勉な)              He is a hardworking student.
@@ -184,17 +193,16 @@
     - `laboriously` /ləˈbɔːriəsli/  ([Writing] 骨を折って)          He laboriously completed the task.
   - `onerous` /ˈoʊnərəs/            ([Writing] 重荷となる、困難な)  The regulations are onerous.
   - `herculean` /ˌhɜːrkjəˈliːən/    ([Writing] 非常に困難な)        It was a herculean task.
-
-- `complicated` /ˈkɒmplɪkeɪtɪd/     ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
-  - `complicate` /ˈkɒmplɪkeɪt/      ([Writing] 複雤にする)          Don't complicate the situation.
-  - `complication` /ˌkɒmplɪˈkeɪʃən/ ([Writing] 面倒な事態)          The surgery was successful, but there were complications.
-- `complex` /kəmˈpleks/             ([Writing] 構造の複雑さ)        The human brain is an incredibly complex organ.
-  - `complexity` /kəmˈpleksəti/     ([Writing] 複雑さ)              I was amazed by the complexity of the design.
-
-- `bad` /bæd/                       ([Casual] 悪い、困難な)         Traffic was really bad today.
-  - `badly` /ˈbædli/                ([Casual] ひどく、悪く)         He was badly injured.
-  - `worse` /wɜːrs/                 ([Casual] より悪い、より困難な) The situation got worse.
-  - `worst` /wɜːrst/                ([Casual] 最悪の、最も困難な)   This is the worst traffic I've seen.
+- ✅ `complicated` /ˈkɒmplɪkeɪtɪd/  ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
+    - `complicate` /ˈkɒmplɪkeɪt/    ([Writing] 複雤にする)          Don't complicate the situation.
+    - `complication`/ˌkɒmplɪˈkeɪʃən/([Writing] 面倒な事態)          The surgery was successful, but there were complications.
+  - `complex` /kəmˈpleks/           ([Writing] 構造の複雑さ)        The human brain is an incredibly complex organ.
+    - `complexity` /kəmˈpleksəti/   ([Writing] 複雑さ)              I was amazed by the complexity of the design.
+  - `involved` /ɪnˈvɒlvd/           ([Neutral] 関わっている 複雑な) The procedure is quite involved.
+  - `sophisticated`/səˈfɪstɪkeɪtɪd/ ([Neutral] 洗練された、高度な)  This is a sophisticated system.
+  - `elaborate` /ɪˈlæbərət/         ([Neutral] 込み入った、精巧な)  She had elaborate plans for the party.
+  - `intricate` /ˈɪntrɪkət/         ([Formal] 精密で込み入った)     The watch has an intricate mechanism.
+  - `convoluted` /ˈkɒnvəluːtɪd/     ([Writing] 複雑で分かりにくい)  His explanation was convoluted.
 
 - `apathetic` /ˌæpəˈθetɪk/          ([Formal] 無関心な、無感動な)   He seemed apathetic about the results.
   - `apathetically` /ˌæpəˈθetɪkli/  ([Formal] 無関心に)             She responded apathetically to the news.

@@ -1,5 +1,11 @@
 unruffled
 whack
+grueling
+onerous
+herculean
+elaborate
+intricate
+convoluted
 solicit
 scathing
 falsify
