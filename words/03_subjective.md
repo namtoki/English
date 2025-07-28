@@ -119,44 +119,82 @@
     - `unscrupulous`/ʌnˈskruːpjələs/([Writing] 無節操な)            He's an unscrupulous businessman.
   - `fastidious` /fæˈstɪdiəs/       ([Writing] 細部にこだわる)      He's fastidious about cleanliness.
     - `fastidiously` /fæˈstɪdiəsli/ ([Writing] 細部にこだわって)    She fastidiously arranged the flowers.
-  - `punctilious` /pʌŋkˈtɪliəs/     ([Writing] 細かいことにこだわる) He's punctilious about etiquette.
-    - `punctiliously`/pʌŋkˈtɪliəsli/([Writing] 細かく、厳密に)       She punctiliously followed protocol.
-
-- `precise` /prɪˈsaɪs/              ([Neutral] 正確な、精密な)      Give me a precise answer.
-  - `precision` /prɪˈsɪʒən/         ([Neutral] 正確さ、精密さ)      This task requires precision.
-- `accurate` /ˈækjərət/             ([Neutral] 正確な、的確な)      Is this information accurate?
-  - `accuracy` /ˈækjərəsi/          ([Neutral] 正確さ、的確さ)      The accuracy of the test is high.
-- `exact` /ɪɡˈzækt/                 ([Neutral] 正確な、厳密な)      What's the exact time?
-
-- `conscientious` /ˌkɒnʃiˈenʃəs/    ([Formal] 良心的な)             She's a conscientious worker.
-  - `conscientiously` /ˌkɒnʃiˈenʃəsli/ ([Formal] 良心的に)          He conscientiously completed his duties.
-  - `conscience` /ˈkɒnʃəns/         ([Neutral] 良心)                His conscience bothered him.
-
+  - `punctilious` /pʌŋkˈtɪliəs/     ([Writing] 細かいことにこだわる)He's punctilious about etiquette.
+    - `punctiliously`/pʌŋkˈtɪliəsli/([Writing] 細かく、厳密に)      She punctiliously followed protocol.
+- ✅ `responsible` /rɪˈspɑːnsəbəl/  ([Neutral] 責任感のある 良心的な) She's a responsible employee.
+    - `responsibly` /rɪˈspɑːnsəbli/ ([Neutral] 責任をもって)        He acted responsibly.
+  - `trustworthy` /ˈtrʌstˌwɜːrði/   ([Neutral] 信頼できる 良心的な) He's very trustworthy.
+    - `trustworthiness` /ˈtrʌstˌwɜːrðinəs/ ([Neutral] 信頼性)       Her trustworthiness is proven.
+  - `reliable` /rɪˈlaɪəbəl/         ([Neutral] 信頼できる 良心的な) She's a reliable worker.
+    - `reliably` /rɪˈlaɪəbli/       ([Neutral] 確実に、信頼して)    He works reliably.
+  - `dependable` /dɪˈpendəbəl/      ([Neutral] 頼りになる 良心的な) He's a dependable friend.
+    - `dependably` /dɪˈpendəbli/    ([Neutral] 確実に 頼りになる形で) She works dependably.
+    - `dependability` /dɪˌpendəˈbɪləti/ ([Neutral] 信頼性、確実性)  His dependability is valued.
+  - `principled` /ˈprɪnsəpəld/      ([Formal] 主義のある、良心的な) She's a principled person.
+- ✅ `ethical` /ˈeθɪkəl/            ([Neutral] 倫理的な、良心的な)  That's not ethical behavior.
+    - `ethics` /ˈeθɪks/             ([Neutral] 倫理、道徳)          Business ethics are important.
+  - `moral` /ˈmɔːrəl/               ([Neutral] 道徳的な、良心的な)  He has strong moral values.
+    - `morally` /ˈmɔːrəli/          ([Neutral] 道徳的に)            She acted morally.
+  - `righteous` /ˈraɪtʃəs/          ([Formal] 正義の、道徳的な)     He has righteous anger.
+    - `righteousness` /ˈraɪtʃəsnəs/ ([Formal] 正義、正しさ)         His righteousness is evident.
+- ✅ `virtuous` /ˈvɜːrtʃuəs/        ([Formal] 高潔な、徳のある)     She lived a virtuous life.
+    - `virtue` /ˈvɜːrtʃu/           ([Formal] 美徳、徳)             Honesty is a virtue.
+  - `honorable` /ˈɑːnərəbəl/        ([Formal] 名誉ある、高潔な)     She made an honorable decision.
+    - `honor` /ˈɑːnər/              ([Formal] 名誉、尊敬)           It's an honor to meet you.
+  - `noble` /ˈnoʊbəl/               ([Formal] 高貴な、気高い)       That was a noble gesture.
+    - `nobly` /ˈnoʊbli/             ([Formal] 気高く、立派に)       She acted nobly.
+    - `nobility` /noʊˈbɪləti/       ([Formal] 高貴さ、気高さ)       His nobility shines through.
+- ✅ `honest` /ˈɑːnəst/             ([Neutral] 正直な、誠実な)      She's an honest person.
+    - `honesty` /ˈɑːnəsti/          ([Neutral] 正直さ、誠実さ)      Her honesty is refreshing.
+  - `upright` /ˈʌpraɪt/             ([Formal] 正直な、品行方正な)   He's an upright citizen.
+    - `uprightness` /ˈʌpraɪtnəs/    ([Formal] 正直さ、品行方正)     His uprightness is respected.
+  - `conscientious` /ˌkɒnʃiˈenʃəs/  ([Formal] 良心的な)             She's a conscientious worker.
+    - `conscience` /ˈkɒnʃəns/       ([Neutral] 良心)                His conscience bothered him.
+  - `scrupulous` /ˈskruːpjələs/     ([Formal] 良心的な、公正な)     He's scrupulous in his dealings.
 - `feat` /fiːt/                     ([Neutral] 偉業、功績)          Climbing Everest is an incredible feat.
 
 ## NEGATIVE
-- `difficult` /ˈdɪfɪkəlt/           ([Formal] 知的な難しさ)         The instructions were difficult to follow.
-  - `difficulty` /ˈdɪfɪkəlti/       ([Neutral] 困難、難しさ)        He had no difficulty finding a job.
 - `hard` /hɑːd/                     ([Neutral] 努力を要する難しさ)  The test was hard.
-  - `harden` /ˈhɑːdən/              ([Neutral] 硬くなる、硬くする)  The clay will harden in the sun.
-  - `hardship` /ˈhɑːdʃɪp/           ([Writing] 苦難、困難)          They faced many hardships during the war.
-  - `hardworking` /ˈhɑːdˌwɜːkɪŋ/    ([Neutral] 勤勉な)              He is a hardworking student.
-  - `hardy` /ˈhɑːdi/                ([Writing] 頑丈な、耐寒性の)    This is a very hardy plant.
-- `tough` /tʌf/                     ([Casual] 忍耐を要する困難)     He's going through a tough time.
-- `challenging` /ˈtʃælɪndʒɪŋ/       ([Neutral] やりがいのある困難)  This project is very challenging.
-  - `challenge` /ˈtʃælɪndʒ/         ([Neutral] 挑戦、難問)          I'm ready for a new challenge.
-- `tricky` /ˈtrɪki/                 ([Casual] コツがいる困難)       The last question on the test was tricky.
-- `arduous` /ˈɑːdjuəs/              ([Writing] 骨が折れる困難)      It was an arduous journey through the mountains.
-- `strenuous` /ˈstrenjuəs/          ([Writing] 肉体的に激しい)      Avoid strenuous exercise for a few weeks.
-- `painstaking` /ˈpeɪnzˌteɪkɪŋ/     ([Writing] 骨の折れる)          The restoration was painstaking work.
-  - `painstakingly` /ˈpeɪnzˌteɪkɪŋli/ ([Writing] 骨を折って)        She painstakingly rebuilt the model.
-- `rewarding` /rɪˈwɔːdɪŋ/           ([Neutral] やりがいのある)      Teaching can be very rewarding.
+    - `harden` /ˈhɑːdən/            ([Neutral] 硬くなる、硬くする)  The clay will harden in the sun.
+    - `hardship` /ˈhɑːdʃɪp/         ([Writing] 苦難、困難)          They faced many hardships during the war.
+    - `hardworking` /ˈhɑːdˌwɜːkɪŋ/  ([Neutral] 勤勉な)              He is a hardworking student.
+    - `hardy` /ˈhɑːdi/              ([Writing] 頑丈な、耐寒性の)    This is a very hardy plant.
+  - `difficult` /ˈdɪfɪkəlt/         ([Formal] 知的な難しさ)         The instructions were difficult to follow.
+  - `tough` /tʌf/                   ([Casual] 忍耐を要する困難)     He's going through a tough time.
+  - `rough` /rʌf/                   ([Casual] 大変な、困難な)       It's been a rough week.
+    - `roughly` /ˈrʌfli/            ([Casual] 大まかに、荒く)       Roughly speaking, it costs $100.
+  - `challenging` /ˈtʃælɪndʒɪŋ/     ([Neutral] やりがいのある困難)  This project is very challenging.
+    - `challenge` /ˈtʃælɪndʒ/       ([Neutral] 挑戦、難問)          I'm ready for a new challenge.
+  - `tricky` /ˈtrɪki/               ([Casual] コツがいる困難)       The last question on the test was tricky.
+  - `problematic` /ˌprɑːbləˈmætɪk/  ([Formal] 問題のある、困難な)   The situation is becoming problematic.
+  - `troublesome` /ˈtrʌbəlsəm/      ([Neutral] 面倒な、困難な)      He's a troublesome child.
+  - `awkward` /ˈɔːkwərd/            ([Neutral] やりにくい、困難な)  This is an awkward situation.
+    - `awkwardness` /ˈɔːkwərdnəs/   ([Neutral] ぎこちなさ)          The awkwardness was obvious.
+  - `demanding` /dɪˈmændɪŋ/         ([Neutral] 要求の厳しい)        She has a demanding job.
+  - `overwhelming` /ˌoʊvərˈwelmɪŋ/  ([Neutral] 圧倒的な、困難な)    The workload is overwhelming.
+    - `overwhelm` /ˌoʊvərˈwelm/     ([Neutral] 圧倒する)            The news overwhelmed her.
+  - `uphill` /ˈʌphɪl/               ([Neutral] 困難な、上り坂の)    It's an uphill battle.
+  - `impossible` /ɪmˈpɑːsəbəl/      ([Neutral] 不可能な)            That's impossible to do.
+  - `formidable` /ˈfɔːrmɪdəbəl/     ([Formal] 手ごわい、困難な)     She's a formidable opponent.
+  - `strenuous` /ˈstrenjuəs/        ([Writing] 肉体的に激しい)      Avoid strenuous exercise for a few weeks.
+  - `arduous` /ˈɑːdjuəs/            ([Writing] 骨が折れる困難)      It was an arduous journey through the mountains.
+  - `grueling` /ˈɡruːəlɪŋ/          ([Writing] 過酷な、困難な)      The marathon was grueling.
+  - `painstaking` /ˈpeɪnzˌteɪkɪŋ/   ([Writing] 骨の折れる)          The restoration was painstaking work.
+  - `laborious` /ləˈbɔːriəs/        ([Writing] 骨の折れる)          It was a laborious process.
+    - `laboriously` /ləˈbɔːriəsli/  ([Writing] 骨を折って)          He laboriously completed the task.
+  - `onerous` /ˈoʊnərəs/            ([Writing] 重荷となる、困難な)  The regulations are onerous.
+  - `herculean` /ˌhɜːrkjəˈliːən/    ([Writing] 非常に困難な)        It was a herculean task.
 
+- `complicated` /ˈkɒmplɪkeɪtɪd/     ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
+  - `complicate` /ˈkɒmplɪkeɪt/      ([Writing] 複雤にする)          Don't complicate the situation.
+  - `complication` /ˌkɒmplɪˈkeɪʃən/ ([Writing] 面倒な事態)          The surgery was successful, but there were complications.
 - `complex` /kəmˈpleks/             ([Writing] 構造の複雑さ)        The human brain is an incredibly complex organ.
   - `complexity` /kəmˈpleksəti/     ([Writing] 複雑さ)              I was amazed by the complexity of the design.
-- `complicated` /ˈkɒmplɪkeɪtɪd/     ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
-  - `complicate` /ˈkɒmplɪkeɪt/      ([Writing] 複雑にする)          Don't complicate the situation.
-  - `complication` /ˌkɒmplɪˈkeɪʃən/ ([Writing] 面倒な事態)          The surgery was successful, but there were complications.
+
+- `bad` /bæd/                       ([Casual] 悪い、困難な)         Traffic was really bad today.
+  - `badly` /ˈbædli/                ([Casual] ひどく、悪く)         He was badly injured.
+  - `worse` /wɜːrs/                 ([Casual] より悪い、より困難な) The situation got worse.
+  - `worst` /wɜːrst/                ([Casual] 最悪の、最も困難な)   This is the worst traffic I've seen.
 
 - `apathetic` /ˌæpəˈθetɪk/          ([Formal] 無関心な、無感動な)   He seemed apathetic about the results.
   - `apathetically` /ˌæpəˈθetɪkli/  ([Formal] 無関心に)             She responded apathetically to the news.
