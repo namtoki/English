@@ -1,4 +1,7 @@
 unruffled
+excision
+remission
+resection
 whack
 grueling
 onerous

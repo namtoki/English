@@ -1,6 +1,68 @@
 # Health
 
-## Medical
+## ILLNESS
+- ✅ `illness` /ˈɪlnəs/             ([Neutral] 病気)                The illness lasted two weeks.
+  - `disease` /dɪˈziːz/             ([Medical] 病気、疾患)          Heart disease is preventable.
+  - `sickness` /ˈsɪknəs/            ([Neutral] 病気、体調不良)      Morning sickness is common in pregnancy.
+  - `bug` /bʌɡ/                     ([Casual] 風邪、軽い病気)       I caught a stomach bug last week.
+  - `infection` /ɪnˈfekʃən/         ([Medical] 感染症)              The wound developed an infection.
+  - `virus` /ˈvaɪərəs/              ([Medical] ウイルス、感染症)    She caught a virus at school.
+  - `condition` /kənˈdɪʃən/         ([Medical] 病状、疾患)          He has a heart condition.
+  - `ailment` /ˈeɪlmənt/            ([Neutral] 病気、不調)          Minor ailments are common.
+  - `disorder` /dɪsˈɔːdə/           ([Medical] 疾患、障害)          She has an eating disorder.
+  - `malady` /ˈmælədi/              ([Writing] 病気、疾患)          The mysterious malady puzzled doctors.
+  - `affliction` /əˈflɪkʃən/        ([Writing] 苦痛、病気)          His affliction was incurable.
+  - `plague` /pleɪɡ/                ([Writing] 疫病、災い)          The plague devastated medieval Europe.
+- ✅ `symptom` /ˈsɪmptəm/           ([Medical] 症状)                Fever is a common symptom.
+  - `sign` /saɪn/                   ([Medical] 兆候、症状)          Pain is a sign of inflammation.
+  - `complaint` /kəmˈpleɪnt/        ([Medical] 症状、不調)          Her main complaint is headaches.
+  - `syndrome` /ˈsɪndrəʊm/          ([Medical] 症候群)              Chronic fatigue syndrome is serious.
+- ✅ `chronic` /ˈkrɒnɪk/            ([Medical] 慢性の)              She has chronic back pain.
+- ✅ `infectious` /ɪnˈfekʃəs/       ([Medical] 伝染性の)            The disease is highly infectious.
+- ✅ `inflammation` /ˌɪnfləˈmeɪʃən/ ([Medical] 炎症)                The inflammation caused swelling.
+  - `inflammatory` /ɪnˈflæmətɔːri/  ([Medical] 炎症性の)            The inflammatory response was severe.
+- ✅ `fever` /ˈfiːvə/               ([Medical] 発熱、熱)            The child had a high fever.
+  - `feverish` /ˈfiːvərɪʃ/          ([Medical] 熱がある、熱的)      The patient felt feverish and weak.
+- ✅ `nausea` /ˈnɔːziə/             ([Medical] 吐き気)              The medication caused nausea.
+- ✅ `medicine` /ˈmedɪsɪn/          ([Neutral] 薬、医学)            Take your medicine three times a day.
+  - `prescription` /prɪˈskrɪpʃən/   ([Medical] 処方箋)              The doctor wrote a prescription.
+  - `dose` /dəʊs/                   ([Medical] 服用量)              Take one dose every six hours.
+    - `dosage` /ˈdəʊsɪdʒ/           ([Medical] 投薬量)              Check the dosage instructions.
+- ✅ `get better` /ɡet ˈbetər/      ([Casual] 良くなる、回復する)   I hope you get better soon.
+  - `recover` /rɪˈkʌvər/            ([Neutral] 回復する)            She recovered from the illness.
+  - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
+  - `heal` /hiːl/                   ([Neutral] 癒える、治る)        The wound will heal in time.
+  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、良くなる)  His condition is improving daily.
+  - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
+  - `bounce back` /baʊns bæk/       ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
+  - `pull through` /pʊl θruː/       ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
+  - `get back on one's feet`        ([Casual] 立ち直る)             It took months to get back on his feet.
+  - `pick up` /pɪk ʌp/              ([Casual] 回復する、元気になる) She's starting to pick up now.
+  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
+    - `on the mend` /ɒn ðə mend/    ([Casual] 回復中)               He's on the mend now.
+  - `recuperate` /rɪˈkuːpəreɪt/     ([Formal] 回復する、療養する)   He's recuperating at home.
+    - `recuperative` /rɪˈkuːpərətɪv/([Writing] 回復力のある)        The recuperative process takes time.
+  - `turn the corner`               ([Neutral] 峠を越える)          The patient has turned the corner.
+  - `come around` /kʌm əˈraʊnd/     ([Neutral] 意識を取り戻す)      He came around after the surgery.
+    - `come round` /kʌm raʊnd/      ([British] 意識を取り戻す)      She's coming round from the anesthetic.
+  - `perk up` /pɜːk ʌp/             ([Casual] 元気を取り戻す)       She perked up after some rest.
+  - `rally` /ˈræli/                 ([Medical] 持ち直す)            The patient rallied overnight.
+  - `rehabilitate` /ˌriːəˈbɪlɪteɪt/ ([Formal] リハビリする)         They rehabilitated his injured knee.
+  - `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
+  - `revive` /rɪˈvaɪv/              ([Medical] 蘇生する、復活する)  The paramedics revived him.
+  - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる、活力回復) The vacation rejuvenated her.
+  - `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
+  - `recoup` /rɪˈkuːp/              ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
+  - `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養する、回復期にある) She's convalescing after surgery.
+    - `convalescence`/ˌkɒnvəˈlesəns/([Writing] 療養期間)            His convalescence lasted months.
+    - `convalescent` /ˌkɒnvəˈlesənt/([Writing] 回復期の患者)        The convalescent home provides care.
+  - `remission` /rɪˈmɪʃən/          ([Medical] 寛解、軽快)          The cancer is in remission.
+
+## HOSPITAL
+- ✅ `see a doctor`                 ([Neutral] 医者に診てもらう)    I need to see a doctor about this pain.
+  - ✅ `go to the doctor`           ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
+  - `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
+  - `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
 - ✅ `check-up` /ˈtʃek ʌp/          ([Neutral] 健康診断)            I have my annual check-up tomorrow.
   - `appointment` /əˈpɔɪntmənt/     ([Neutral] 診療予約)            I made an appointment with the doctor.
   - `examination` /ɪɡˌzæmɪˈneɪʃən/  ([Medical] 診察、検査)          The examination revealed no problems.
@@ -23,10 +85,6 @@
   - `heal` /hiːl/                   ([Neutral] 治る、癒す)          The wound healed quickly.
   - `cure` /kjʊə/                   ([Neutral] 治す、治療法)        Scientists are searching for a cure.
   - `prescribe` /prɪˈskraɪb/        ([Medical] 処方する)            The doctor prescribed antibiotics.
-- ✅ `medicine` /ˈmedɪsɪn/          ([Neutral] 薬、医学)            Take your medicine three times a day.
-  - `prescription` /prɪˈskrɪpʃən/   ([Medical] 処方箋)              The doctor wrote a prescription.
-  - `dose` /dəʊs/                   ([Medical] 服用量)              Take one dose every six hours.
-    - `dosage` /ˈdəʊsɪdʒ/           ([Medical] 投薬量)              Check the dosage instructions.
 - ✅ `treatment` /ˈtriːtmənt/       ([Medical] 治療)                The treatment was successful.
   - `care` /keə/                    ([Neutral] ケア、治療)          She received excellent medical care.
   - `medication` /ˌmedɪˈkeɪʃən/     ([Medical] 薬物治療)            He's on medication for diabetes.
@@ -34,18 +92,6 @@
 - ✅ `therapy` /ˈθerəpi/            ([Medical] 治療法、療法)        Physical therapy helped his recovery.
     - `therapeutic` /ˌθerəˈpjuːtɪk/ ([Medical] 治療的な)            The therapeutic effect was significant.
   - `remedy` /ˈremədi/              ([Neutral] 治療法、救済策)      Home remedies can be effective.
-- ✅ `symptom` /ˈsɪmptəm/           ([Medical] 症状)                Fever is a common symptom.
-  - `sign` /saɪn/                   ([Medical] 兆候、症状)          Pain is a sign of inflammation.
-  - `condition` /kənˈdɪʃən/         ([Medical] 状態、症状)          He has a heart condition.
-  - `complaint` /kəmˈpleɪnt/        ([Medical] 症状、不調)          Her main complaint is headaches.
-  - `syndrome` /ˈsɪndrəʊm/          ([Medical] 症候群)              Chronic fatigue syndrome is serious.
-  - `disorder` /dɪsˈɔːdə/           ([Medical] 疾患、障害)          She has an eating disorder.
-  - `ailment` /ˈeɪlmənt/            ([Neutral] 病気、不調)          Minor ailments are common.
-  - `illness` /ˈɪlnəs/              ([Neutral] 病気)                The illness lasted two weeks.
-  - `disease` /dɪˈziːz/             ([Medical] 病気、疾患)          Heart disease is preventable.
-  - `malady` /ˈmælədi/              ([Writing] 病気、疾患)          The mysterious malady puzzled doctors.
-  - `affliction` /əˈflɪkʃən/        ([Writing] 苦痛、病気)          His affliction was incurable.
-- ✅ `chronic` /ˈkrɒnɪk/            ([Medical] 慢性の)              She has chronic back pain.
 - ✅ `surgery` /ˈsɜːdʒəri/          ([Medical] 手術)                He needs surgery on his knee.
     - `surgeon` /ˈsɜːdʒən/          ([Medical] 外科医)              The surgeon explained the procedure.
     - `surgical` /ˈsɜːrdʒɪkəl/      ([Medical] 外科の、手術の)      She needed surgical intervention.
@@ -57,9 +103,7 @@
   - `procedure` /prəˈsiːdʒər/       ([Medical] 手術、処置)          The procedure took two hours.
     - `procedural` /prəˈsiːdʒərəl/  ([Medical] 手続きの、処置の)    Follow the procedural guidelines.
   - `treatment` /ˈtriːtmənt/        ([Medical] 治療、手術)          The treatment requires surgery.
-    - `treat` /triːt/               ([Medical] 治療する)            The doctor will treat the injury.
   - `intervention` /ˌɪntərˈvenʃən/  ([Medical] 介入、手術)          Surgical intervention is necessary.
-    - `intervene` /ˌɪntərˈviːn/     ([Medical] 介入する)            Doctors had to intervene quickly.
   - `incision` /ɪnˈsɪʒən/           ([Medical] 切開)                The surgeon made a small incision.
     - `incise` /ɪnˈsaɪz/            ([Medical] 切開する)            The surgeon will incise the tissue.
   - `excision` /ɪkˈsɪʒən/           ([Medical] 切除)                Complete excision of the tumor was performed.
@@ -85,76 +129,13 @@
     - `laparoscopic`/ˌlæpərəˈskɑːpɪk/([Medical] 腹腔鏡の)           The laparoscopic surgery was successful.
   - `paralysis` /pəˈræləsɪs/        ([Medical] 麻痺、まひ)          The accident caused temporary paralysis.
     - `paralyze` /ˈpærəlaɪz/        ([Medical] 麻痺させる)          The injury paralyzed his leg.
-
-
-- `medication` /ˌmedɪˈkeɪʃən/       ([Medical] 薬物、投薬)          The medication reduced her pain.
-  - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を与える)          They medicated the patient for pain.
-  - `medical` /ˈmedɪkəl/             ([Medical] 医学の、医療の)      He needs medical attention.
-- `prescription` /prɪˈskrɪpʃən/     ([Medical] 処方箋)              Take this prescription to the pharmacy.
-  - `prescribe` /prɪˈskraɪb/        ([Medical] 処方する)            The doctor prescribed antibiotics.
-- `dosage` /ˈdəʊsɪdʒ/               ([Medical] 投与量、服用量)      Follow the recommended dosage.
-  - `dose` /dəʊs/                   ([Medical] 服用量、一回量)      Take one dose three times daily.
-
-- `infection` /ɪnˈfekʃən/           ([Medical] 感染、感染症)        The wound developed an infection.
-  - `infect` /ɪnˈfekt/              ([Medical] 感染させる)          The virus infected many patients.
-  - `infectious` /ɪnˈfekʃəs/        ([Medical] 伝染性の)              The disease is highly infectious.
-
-
-- `recovery` /rɪˈkʌvəri/            ([Medical] 回復、快復)          His recovery was faster than expected.
-  - `recover` /rɪˈkʌvə/             ([Medical] 回復する)            She recovered from the illness.
-- `recuperate` /rɪˈkuːpəreɪt/       ([Neutral] 回復する、療養する)  He's recuperating at home.
-  - `recuperation` /rɪˌkuːpəˈreɪʃən/ ([Neutral] 回復、療養)          The recuperation period was long.
-  - `recuperative` /rɪˈkuːpərətɪv/   ([Writing] 回復力のある)        The recuperative process takes time.
-- `heal` /hiːl/                      ([Neutral] 癒える、治る)        The wound will heal in time.
-  - `healing` /ˈhiːlɪŋ/              ([Neutral] 治癒、癒し)          The healing process is slow.
-  - `healer` /ˈhiːlər/               ([Neutral] 治療者、ヒーラー)    She visited a traditional healer.
-- `mend` /mend/                      ([Neutral] 回復する、修復する)  His broken bones are mending well.
-  - `mending` /ˈmendɪŋ/              ([Neutral] 回復、修復)          He's on the mend now.
-- `convalesce` /ˌkɒnvəˈles/          ([Writing] 療養する、回復期にある) She's convalescing after surgery.
-  - `convalescence` /ˌkɒnvəˈlesəns/  ([Writing] 療養期間)            His convalescence lasted months.
-  - `convalescent` /ˌkɒnvəˈlesənt/   ([Writing] 回復期の患者)        The convalescent home provides care.
-- `rehabilitate` /ˌriːəˈbɪlɪteɪt/    ([Formal] リハビリする)         They rehabilitated his injured knee.
-  - `rehabilitation` /ˌriːəˌbɪlɪˈteɪʃən/ ([Formal] リハビリ)         The rehabilitation took six months.
-  - `rehabilitative` /ˌriːəˈbɪlɪtətɪv/ ([Formal] リハビリの)         He needs rehabilitative therapy.
-- `restore` /rɪˈstɔːr/               ([Neutral] 回復する、復元する)  The treatment restored his health.
-  - `restoration` /ˌrestəˈreɪʃən/    ([Neutral] 回復、復元)          The restoration of function was complete.
-  - `restorative` /rɪˈstɔːrətɪv/     ([Writing] 回復力のある)        Sleep has restorative powers.
-- `revive` /rɪˈvaɪv/                 ([Neutral] 蘇生する、復活する)  The paramedics revived him.
-  - `revival` /rɪˈvaɪvəl/            ([Neutral] 蘇生、復活)          His revival was miraculous.
-  - `reviving` /rɪˈvaɪvɪŋ/           ([Neutral] 蘇生させる)          The cold water was reviving.
-- `rejuvenate` /rɪˈdʒuːvəneɪt/       ([Neutral] 若返らせる、活力回復) The vacation rejuvenated her.
-  - `rejuvenation` /rɪˌdʒuːvəˈneɪʃən/ ([Neutral] 若返り、活力回復)   The spa offers rejuvenation treatments.
-  - `rejuvenating` /rɪˈdʒuːvəneɪtɪŋ/ ([Neutral] 若返らせる)         The treatment is rejuvenating.
-- `regenerate` /rɪˈdʒenəreɪt/        ([Medical] 再生する)            Some tissues can regenerate naturally.
-  - `regeneration` /rɪˌdʒenəˈreɪʃən/ ([Medical] 再生)                Liver regeneration is possible.
-  - `regenerative` /rɪˈdʒenərətɪv/   ([Medical] 再生の)              Regenerative medicine shows promise.
-- `recoup` /rɪˈkuːp/                 ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
-  - `recouping` /rɪˈkuːpɪŋ/          ([Neutral] 回復、取り戻し)      She's recouping from the illness.
-- `bounce back` /baʊns bæk/          ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
-- `remission` /rɪˈmɪʃən/            ([Medical] 寛解、軽快)          The cancer is in remission.
-
-
 - `relapse` /rɪˈlæps/               ([Medical] 再発、逆戻り)        The patient had a relapse.
+- `prognosis` /prɒɡˈnəʊsɪs/         ([Medical] 予後、見通し)        The patient's prognosis is good.
 
-- `prognosis` /prɒɡˈnəʊsɪs/        ([Medical] 予後、見通し)        The patient's prognosis is good.
-
-- `exodic` /ɛkˈsɒdɪk/                ([Writing] 流出の)         The exodic nerve carries signals from the spine.
-
-- `genetic` /dʒəˈnetɪk/              ([Writing] 遺伝子の)      Genetic testing revealed the mutation.
-- `inborn` /ˈɪnbɔːrn/                ([Writing] 生来の)        He has an inborn sense of rhythm.
-- `congenital` /kənˈdʒenɪtəl/        ([Medical] 先天性の)      The baby has a congenital heart defect.
-- `innate` /ɪˈneɪt/                  ([Writing] 生得の)        Children have an innate ability to learn.
-- `hereditary` /həˈredɪtərɪ/          ([Neutral] 遺伝性の)      Hair color is hereditary.
-- `heredity` /hɪˈredɪtɪ/             ([Writing] 遺伝)          Gregor Mendel studied heredity in pea plants.
-
-## Health
-- `inflammation` /ˌɪnfləˈmeɪʃən/    ([Medical] 炎症)                The inflammation caused swelling.
-  - `inflammatory` /ɪnˈflæmətɔːri/   ([Medical] 炎症性の)              The inflammatory response was severe.
-
-- `fever` /ˈfiːvə/                  ([Medical] 発熱、熱)            The child had a high fever.
-  - `feverish` /ˈfiːvərɪʃ/          ([Medical] 熱がある、熱的)    The patient felt feverish and weak.
-
-- `nausea` /ˈnɔːziə/                ([Medical] 吐き気)              The medication caused nausea.
-
-- `fatigue` /fəˈtiːɡ/               ([Medical] 疲労、倦怠感)        Chronic fatigue affected her daily life.
-
+## GENE
+- `genetic` /dʒəˈnetɪk/             ([Writing] 遺伝子の)            Genetic testing revealed the mutation.
+- `inborn` /ˈɪnbɔːrn/               ([Writing] 生来の)              He has an inborn sense of rhythm.
+- `congenital` /kənˈdʒenɪtəl/       ([Medical] 先天性の)            The baby has a congenital heart defect.
+- `innate` /ɪˈneɪt/                 ([Writing] 生得の)              Children have an innate ability to learn.
+- `hereditary` /həˈredɪtərɪ/        ([Neutral] 遺伝性の)            Hair color is hereditary.
+- `heredity` /hɪˈredɪtɪ/            ([Writing] 遺伝)                Gregor Mendel studied heredity in pea plants.
