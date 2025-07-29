@@ -1,5 +1,35 @@
 # TODAY
 
+This page `explains` how to achieve synchronization of buds control data between `multiple` pairs of buds,
+particularly between PerL2 Standard and PerL2 Pro.
+
+To `tackle` this, I will `break this down into` three steps:
+
+First, I'll show that synchronization is `simple` when the data is stored in the buds.
+Second, I'll demonstrate that even when data is not stored in the buds, it's not a problem.
+Finally, I'll show that the only `real challenge` is the `translation algorithms` between Standard and Pro.
+
+So `let me` walk you through each step.
+
+First, `as background,` the Airoha chip has non-volatile memory `where` almost all buds control data is stored.
+You can read and write this data using APIs available in the Airoha SDK.
+
+For example, you can retrieve EQ parameters like frequency, gain, and other settings using the getAllEQSettings() function,
+and you can set them using the setEQSetting() function.
+
+Almost all buds control data has its own `dedicated` API.
+
+`Given this foundation,` when you want to synchronize buds control data,
+you can do so if the app always caches the buds data.
+
+`Now, what happens when` you want to synchronize data while switching between mobile devices?
+Even in this case, it's possible if the buds control data is synced from the app to the server.
+
+
+
+
+---
+
 ## 実績 (Track record)
 > So while I've been in touch with Mimi,
 > I found out that they actually don't have any `track record` of implementing Voice Clarity into the Airoha SDK.
