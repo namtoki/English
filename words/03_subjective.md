@@ -355,3 +355,19 @@
   - `confidant` /ˈkɑːnfɪdænt/        ([Neutral] 親友、相談相手)      She's my closest confidant.
   - `confidence` /ˈkɑːnfɪdəns/       ([Neutral] 信頼、自信)          He spoke with confidence.
   - `confident` /ˈkɑːnfɪdənt/        ([Neutral] 自信のある)          She felt confident about the test.
+
+- `nerve` /nɜːrv/                      ([Casual] 厚かましさ、神経)      You've got some nerve!
+- `cheek` /tʃiːk/                      ([Casual] 厚かましさ)            He has a lot of cheek.
+- `gall` /ɡɔːl/                        ([Neutral] 厚かましさ)            You have a lot of gall.
+  - `gall` /ɡɔːl/                    ([Neutral] いらいらさせる)        His arrogance galls me.
+- `brass` /bræs/                       ([Casual] 厚かましさ、真鍮)      She's got brass asking for more.
+- `audacity` /ɔːˈdæsəti/               ([Formal] 大胆さ、厚かましさ)    He had the audacity to lie.
+- `chutzpah` /ˈhʊtspə/                 ([Casual] 厚かましさ、度胸)      She's got real chutzpah.
+- `boldness` /ˈboʊldnəs/               ([Neutral] 大胆さ、図々しさ)      His boldness surprised everyone.
+- `arrogance` /ˈærəɡəns/               ([Neutral] 傲慢さ、思い上がり)    His arrogance is unbearable.
+- `effrontery` /ɪˈfrʌntəri/            ([Formal] 厚かましさ、図々しさ)  She had the effrontery to complain.
+- `impudence` /ˈɪmpjədəns/             ([Formal] 厚かましさ、無礼)      His impudence shocked everyone.
+- `brazenness` /ˈbreɪzənnəs/           ([Neutral] 図々しさ、厚かましさ) His brazenness was astounding.
+- `presumption` /prɪˈzʌmpʃən/          ([Formal] 思い上がり、推定)      His presumption annoyed me.
+- `insolence` /ˈɪnsələns/              ([Formal] 横柄さ、無礼)          I won't tolerate such insolence.
+- `temerity` /təˈmerəti/               ([Writing] 無謀な大胆さ)          He had the temerity to disagree.

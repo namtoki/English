@@ -29,9 +29,6 @@
   - `trial` /ˈtraɪəl/               ([Neutral] 試験、試用)          We're starting a trial period next week.
   - `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.
 
-## NOTION
-- ✅ `concept` /ˈkɑːnsept/          ([Neutral] 概念、構想)          The concept looks good, but we need more details.
-
 ## DECISION
 - ✅ `agree with` /əˈɡriː wɪð/      ([Neutral] ～に賛成する)        I agree with the decision.
   - ✅ `support` /səˈpɔːrt/         ([Neutral] 支持する、支援する)  I support your idea.
@@ -39,15 +36,15 @@
     - `approve of` /əˈpruːv əv/     ([Neutral] ～を良いと思う)      I approve of your choice.
   - ✅ `prefer` /prɪˈfɜːr/          ([Neutral] 好む、選好する)      I prefer coffee to tea.
   - ✅ `be for` /biː fɔːr/          ([Casual] 賛成である)           I'm for the new policy.
-  - `back` /bæk/                    ([Neutral] 支持する、後押しする) I'll back your proposal.
+    - `be all for` /biː ɔːl fɔːr/   ([Casual] 大賛成である)         I'm all for that idea!
+  - `back` /bæk/                    ([Neutral] 支持する 後押しする) I'll back your proposal.
   - ✅ `be in favor of`             ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
   - `side with` /saɪd wɪð/          ([Neutral] ～の味方をする)      I side with you on this.
   - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by your decision.
   - `back up` /bæk ʌp/              ([Casual] 支援する、裏付ける)   I'll back you up.
-  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
   - `get behind` /ɡet bɪˈhaɪnd/     ([Casual] 支持する、応援する)   Let's get behind this initiative.
   - `second` /ˈsekənd/              ([Neutral] 支持する、賛同する)  I second the motion.
-  - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する、後ろ盾になる) We stand behind our employees.
+  - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
   - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、推奨する)   I endorse this approach.
   - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、支持する)   She advocates for change.
   - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He champions workers' rights.
@@ -89,22 +86,43 @@
   - `take up` /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
   - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] 着手する、乗り出す)   We're embarking on a new project.
   - `set about` /set əˈbaʊt/        ([Neutral] 取り掛かる)          Let's set about solving this.
-- ✅ `do` /duː/                     ([Casual] する、やる)           I'll do it.
-  - ✅ `take` /teɪk/                ([Neutral] 引き受ける、取る)    I'll take the job.
-  - `take care of` /teɪk ker əv/    ([Neutral] 世話をする、処理する) I'll take care of it.
+- ✅ `do` /duː/                     ([Casual] する、実行する)       Just do it!
+  - ✅ `perform` /pərˈfɔːrm/        ([Neutral] 実行する、遂行する)  She performed the task well.
+  - ✅ `carry out` /ˈkæri aʊt/      ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.
+  - `conduct` /kənˈdʌkt/            ([Formal] 実施する、遂行する)   They conducted the experiment.
+  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our goal.
+  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、遂行する)   We need to execute the plan flawlessly.
+  - `implement` /ˈɪmplɪment/        ([Formal] 実装する、実施する)   When will we implement these changes?
+  - `fulfill` /fʊlˈfɪl/             ([Formal] 履行する、実現する)   He fulfilled his promise.
+  - `complete` /kəmˈpliːt/          ([Neutral] 完了する 完成させる) Complete the project by Friday.
+  - `achieve` /əˈtʃiːv/             ([Neutral] 達成する 成し遂げる) They achieved their objectives.
+  - `realize` /ˈriːəlaɪz/           ([Formal] 実現する、達成する)   We realized our vision.
+- ✅ `finish` /ˈfɪnɪʃ/              ([Neutral] 終える、完成させる)  I need to finish this report.
+  - ✅ `get through` /ɡet θruː/     ([Casual] やり遂げる 通り抜け)  We'll get through this together.
+  - `complete` /kəmˈpliːt/          ([Neutral] 完了する 完成させる) Complete the project by Friday.
+  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our mission.
+  - `work through` /wɜːrk θruː/     ([Neutral] やり遂げる)          We need to work through these issues.
+  - `follow through` /ˈfɑːloʊ θruː/ ([Neutral] 最後までやり遂げる)  Make sure to follow through on your commitments.
+  - `see through` /siː θruː/        ([Neutral] 最後まで見届ける)    She saw the project through to completion.
+  - `push through` /pʊʃ θruː/       ([Neutral] 押し切る やり遂げる) They pushed through the legislation.
+  - `pull through` /pʊl θruː/       ([Neutral] 困難を乗り越える)    The company pulled through the crisis.
+  - `carry through` /ˈkæri θruː/    ([Neutral] やり抜く、実行する)  We need to carry through with our plans.
+  - `stick with` /stɪk wɪð/         ([Casual] 最後まで続ける)       I'll stick with this job until it's done.
+- ✅ `take` /teɪk/                  ([Neutral] 引き受ける、取る)    I'll take the job.
+  - `take care of` /teɪk ker əv/    ([Neutral] 世話をする 処理する) I'll take care of it.
   - ✅ `take on` /teɪk ɑːn/         ([Neutral] 引き受ける)          I'll take on this challenge.
-  - `accept` /əkˈsept/              ([Neutral] 受け入れる、引き受ける) I accept the responsibility.
+  - `accept` /əkˈsept/              ([Neutral] 受け入れる 引き受け) I accept the responsibility.
   - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
   - `be in charge of`               ([Neutral] ～を担当する)        He's in charge of operations.
-  - `take over` /teɪk ˈoʊvər/       ([Neutral] 引き継ぐ、引き受ける) I'll take over from here.
-  - `pick up` /pɪk ʌp/              ([Casual] 引き受ける、拾い上げる) I'll pick up the slack.
+  - `take over` /teɪk ˈoʊvər/       ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
+  - `pick up` /pɪk ʌp/              ([Casual] 引き受ける 拾い上げ)  I'll pick up the slack.
   - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
   - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
   - `undertake` /ˌʌndərˈteɪk/       ([Formal] 引き受ける、着手する) We'll undertake the project.
   - `assume` /əˈsuːm/               ([Formal] 引き受ける、想定する) She assumed the role of manager.
-  - `shoulder` /ˈʃoʊldər/           ([Neutral] 肩に担う、引き受ける) He shouldered the responsibility.
+  - `shoulder` /ˈʃoʊldər/           ([Neutral] 肩に担う 引き受ける) He shouldered the responsibility.
   - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
-  - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる、歓迎する) She embraced the challenge.
+  - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
   - `take upon oneself`             ([Formal] 自ら引き受ける)       He took it upon himself to help.
 - ✅ `organize` /ˈɔːrɡənaɪz/        ([Neutral] 整理する、組織する)  I need to organize my files.
   - `clean up` /kliːn ʌp/           ([Casual] 片付ける、掃除する)   We need to clean up this mess.
@@ -131,14 +149,17 @@
   - `catalog` /ˈkætəlɔːɡ/           ([Neutral] カタログ化す 整理す) Catalog all the inventory.
   - `index` /ˈɪndeks/               ([Neutral] 索引を作る 整理する) Index the database entries.
   - `declutter` /diːˈklʌtər/        ([Casual] 散らかりを片付ける)   Declutter your workspace.
-
-
-  - ✅ `look into` /lʊk ˈɪntuː/        ([Neutral] 調べる、検討する)    I'll look into that issue.
-  - `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
-
-- ✅ `carry out` /ˈkæri aʊt/        ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.
-  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、遂行する)   We need to execute the plan flawlessly.
-  - `implement` /ˈɪmplɪment/        ([Formal] 実装する、実施する)   When will we implement these changes?
+- ✅ `check out` /tʃek aʊt/         ([Casual] 調べる、確認する)     Let me check out this website.
+  - ✅ `find out` /faɪnd aʊt/       ([Neutral] 調べる、発見する)    I need to find out the truth.
+  - ✅ `look into` /lʊk ˈɪntuː/     ([Neutral] 調べる、検討する)    I'll look into that issue.
+  - `research` /rɪˈsɜːrtʃ/          ([Formal] 研究する、調査する)   She's researching the topic.
+  - `study` /ˈstʌdi/                ([Neutral] 研究する、勉強する)  We need to study the problem.
+  - `examine` /ɪɡˈzæmɪn/            ([Formal] 検査する、調べる)     The doctor examined the patient.
+  - ✅ `investigate` /ɪnˈvestɪɡeɪt/ ([Formal] 調査する、捜査する)   Police are investigating the case.
+  - `explore` /ɪkˈsplɔːr/           ([Neutral] 探索する、調べる)    Let's explore this option.
+  - ✅ `dig into` /dɪɡ ˈɪntuː/      ([Casual] 掘り下げる、調査する) We need to dig into the data.
+  - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
+  - `inspect` /ɪnˈspekt/            ([Formal] 検査する、調べる)     Inspectors examined the building.
 
 - `go on` /ɡoʊ ɑːn/                 ([Neutral] 続ける、進む)        Please go on with your presentation.
 - `continue` /kənˈtɪnjuː/           ([Neutral] 続ける、継続する)    Let's continue with the meeting.
@@ -161,9 +182,6 @@
 - `progress` /prəˈɡres/             ([Neutral] 進歩する、前進する)  The project is progressing well.
 - `get ahead` /ɡet əˈhed/           ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
 - `come along` /kʌm əˈlɔːŋ/         ([Neutral] 進歩する、発展する)  Her skills are coming along well.
-
-- `work through` /wɜːrk θruː/       ([Neutral] やり遂げる)          We need to work through these issues.
-- `follow through` /ˈfɑːloʊ θruː/   ([Neutral] 最後までやり遂げる)  Make sure to follow through on your commitments.
 
 - `develop` /dɪˈveləp/              ([Neutral] 発展させる、開発する)We need to develop this idea further.
 
@@ -217,22 +235,4 @@
   - `attestation` /ˌætɛˈsteɪʃən/     ([Formal] 証明、証言)           The attestation was notarized.
 - `prove` /pruv/                    ([Neutral] 証明する)            She proved her innocence.
   - `proof` /pruf/                  ([Neutral] 証拠、証明)          Do you have proof of purchase?
-
-
-
-# Cognitive Name
-
-- `faction` /ˈfækʃən/               ([Neutral] 派閥、分派)          The party split into several factions.
-  - `factional` /ˈfækʃənəl/         ([Neutral] 派閥の)              Factional disputes weakened the organization.
-- `sect` /sekt/                     ([Neutral] 宗派、教派)          The sect has followers worldwide.
-- `offshoot` /ˈɒfʃuːt/              ([Neutral] 分派、派生物)        The company is an offshoot of a larger corporation.
-- `branch` /brɑːntʃ/                ([Neutral] 枝、支店、部門)      They opened a new branch in Tokyo.
-  - `branching` /ˈbrɑːntʃɪŋ/        ([Neutral] 分岐、枝分かれ)      The branching of the company was successful.
-- `spinoff` /ˈspɪnɒf/               ([Neutral] 派生物、副産物)      The TV show is a spinoff of the movie.
-- `offspring` /ˈɒfsprɪŋ/            ([Neutral] 子孫、結果)          These ideas are the offspring of years of research.
-- `byproduct` /ˈbaɪprɒdʌkt/         ([Neutral] 副産物)              Pollution is a byproduct of industrialization.
-- `outgrowth` /ˈaʊtɡrəʊθ/           ([Formal] 結果、派生物)         This policy is an outgrowth of earlier reforms.
-- `derivative` /dɪˈrɪvətɪv/         ([Formal] 派生物、派生的な)     This product is a derivative of their original design.
-  - `derive` /dɪˈraɪv/              ([Formal] 由来する、派生する)   The word derives from Latin.
-  - `derivation` /ˌderɪˈveɪʃən/     ([Formal] 由来、派生)           The derivation of this theory is complex.
 
