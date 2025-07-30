@@ -1,6 +1,6 @@
 # Money
 
-## Incoming
+## Income
 - `money` /ˈmʌni/                   ([Neutral] お金)                I need to save more money.
 - `pay` /peɪ/                       ([Neutral] 給料、支払う)        The pay is good at this company.
 - `get` /ɡet/                       ([Casual] もらう、得る)         I get paid every Friday.
@@ -25,7 +25,7 @@
 - `profitable` /ˈprɒfɪtəbəl/        ([Neutral] 利益の出る)          The company had a profitable year.
 - `lucrative` /ˈluːkrətɪv/          ([Writing] 儲かる、有利な)      He has a lucrative business.
 
-## Outcoming
+## Outcome
 - ✅ `spend` /spend/                ([Neutral] 使う、費やす)        I spend too much on clothes.
     - `spending` /ˈspendɪŋ/         ([Neutral] 支出)                Government spending has increased.
   - ✅ `splurge` /splɜːdʒ/          ([Casual] 散財する)             I decided to splurge on a new car.

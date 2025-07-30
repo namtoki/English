@@ -1,24 +1,114 @@
-# Work and Professions
+# Work
 
-### PHASE
-- `initial` /ɪˈnɪʃəl/                  ([Neutral] 最初の、初期の)         The initial design needs some adjustments.
-- `preliminary` /prɪˈlɪmɪnəri/         ([Formal] 予備の、暫定的な)        I've reviewed the preliminary specs for the project.
-  - `tentative` /ˈtentətɪv/            ([Formal] 暫定的な、仮の)          We have a tentative schedule for the launch.
-  - `provisional` /prəˈvɪʒənəl/        ([Formal] 暫定的な、仮の)          The provisional budget is subject to change.
-  - `interim` /ˈɪntərɪm/               ([Formal] 暫定の、中間の)          She served as interim manager during the transition.
-- `draft` /dræft/                      ([Neutral] 下書き、草案)           Please review the draft proposal before Friday.
-  - `rough draft` /rʌf dræft/          ([Neutral] 粗い下書き)             This is just a rough draft of my presentation.
-  - `prototype` /ˈproʊtətaɪp/          ([Neutral] 試作品、原型)           We need to test the prototype before production.
-  - `pilot` /ˈpaɪlət/                  ([Neutral] 試験的な、パイロット)   We're running a pilot program to test the new system.
-    - `pilot project`                  ([Neutral] パイロットプロジェクト) The pilot project showed promising results.
-  - `mock-up` /ˈmɑːk ʌp/               ([Neutral] モックアップ、模型)     The designer created a mock-up of the new interface.
+## PHASE
+- ✅ `first` /fɜːrst/               ([Neutral] 最初の、第一の)      First, we need to analyze the requirements.
+  - `initial` /ɪˈnɪʃəl/             ([Neutral] 最初の、初期の)      The initial design needs some adjustments.
+  - `early` /ˈɜːrli/                ([Neutral] 早期の、初期の)      We're still in the early stages of development.
+  - `beginning` /bɪˈɡɪnɪŋ/          ([Neutral] 始まり、開始)        At the beginning of the project, we set clear goals.
+- ✅ `middle` /ˈmɪdəl/              ([Neutral] 中間の、真ん中の)    We're in the middle of testing phase.
+  - `intermediate` /ˌɪntərˈmiːdiət/ ([Neutral] 中間の、中級の)      We need an intermediate solution before the final one.
+- ✅ `final` /ˈfaɪnəl/              ([Neutral] 最終の、最後の)      This is the final version of the report.
+  - `end` /end/                     ([Neutral] 終わり、終了)        We're approaching the end of the quarter.
+  - `last` /læst/                   ([Neutral] 最後の、最終の)      This is our last chance to make changes.
+- ✅ `draft` /dræft/                ([Neutral] 下書き、草案)        Please review the draft proposal before Friday.
+    - `rough draft` /rʌf dræft/     ([Neutral] 粗い下書き)          This is just a rough draft of my presentation.
+  - ✅ `preliminary` /prɪˈlɪmɪnəri/ ([Formal] 予備の、暫定的な)     I've reviewed the preliminary specs for the project.
+  - `prototype` /ˈproʊtətaɪp/       ([Neutral] 試作品、原型)        We need to test the prototype before production.
+  - `pilot` /ˈpaɪlət/               ([Neutral] 試験的な パイロット) We're running a pilot program to test the new system.
+  - `beta` /ˈbeɪtə/                 ([Neutral] ベータ版、試用版)    The beta version is ready for testing.
+    - `alpha` /ˈælfə/               ([Neutral] アルファ版、初期版)  The alpha release has many bugs.
+  - ✅ `tentative` /ˈtentətɪv/      ([Formal] 暫定的な、仮の)       We have a tentative schedule for the launch.
+  - ✅ `provisional` /prəˈvɪʒənəl/  ([Formal] 暫定的な、仮の)       The provisional budget is subject to change.
+  - `interim` /ˈɪntərɪm/            ([Formal] 暫定の、中間の)       She served as interim manager during the transition.
+  - `temporary` /ˈtempəreri/        ([Neutral] 一時的な、臨時の)    This is just a temporary solution.
+  - `transitional` /trænˈzɪʃənəl/   ([Formal] 過渡的な、移行期の)   We're in a transitional period right now.
+  - `preparatory` /prɪˈpærətɔːri/   ([Formal] 準備の、予備の)       The preparatory work is almost complete.
+  - `introductory` /ˌɪntrəˈdʌktəri/ ([Neutral] 導入の、入門の)      This is an introductory meeting for new members.
+  - `mock-up` /ˈmɑːk ʌp/            ([Neutral] モックアップ、模型)  The designer created a mock-up of the new interface.
+  - `test` /test/                   ([Neutral] テスト、試験)        Let's run a test before the full launch.
+  - `trial` /ˈtraɪəl/               ([Neutral] 試験、試用)          We're starting a trial period next week.
+  - `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.
 
-### NOTION
-- `concept` /ˈkɑːnsept/                ([Neutral] 概念、構想)             The concept looks good, but we need more details.
-  - `proof of concept`                 ([Formal] 概念実証)                We need a proof of concept before full development.
+## NOTION
+- ✅ `concept` /ˈkɑːnsept/          ([Neutral] 概念、構想)          The concept looks good, but we need more details.
+
+## ACTION
+- ✅ `work on` /wɜːrk ɑːn/          ([Neutral] 取り組む)            I'm working on the report now.
+  - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
+  - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
+  - ✅ `tackle` /ˈtækəl/            ([Neutral] 取り組む)            Let's tackle the hardest part first.
+  - ✅ `address` /əˈdres/           ([Formal] 対処する、取り組む)   We must address these concerns.
+  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
+  - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する)            Let's focus on the main problem.
+  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We need to engage with stakeholders.
+  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'll attend to this matter immediately.
+  - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
+  - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this decision.
+  - `turn to` /tɜːrn tuː/           ([Neutral] 取り組む、向かう)    Let's turn to the next item.
+  - `see to` /siː tuː/              ([Neutral] 処理する、面倒を見る)I'll see to that right away.
+  - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He applied himself to the task.
+- ✅ `get on with` /ɡet ɑːn wɪð/    ([Casual] 取り掛かる、進める)   Let's get on with the task.
+  - ✅ `dive into` /daɪv ˈɪntuː/    ([Casual] 飛び込む、没頭する)   Let's dive into the details.
+  - `take up` /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
+  - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] 着手する、乗り出す)   We're embarking on a new project.
+  - `set about` /set əˈbaʊt/        ([Neutral] 取り掛かる)          Let's set about solving this.
+- ✅ `do` /duː/                     ([Casual] する、やる)           I'll do it.
+  - ✅ `take` /teɪk/                ([Neutral] 引き受ける、取る)    I'll take the job.
+  - `take care of` /teɪk ker əv/    ([Neutral] 世話をする、処理する) I'll take care of it.
+  - ✅ `take on` /teɪk ɑːn/         ([Neutral] 引き受ける)          I'll take on this challenge.
+  - `accept` /əkˈsept/              ([Neutral] 受け入れる、引き受ける) I accept the responsibility.
+  - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
+  - `be in charge of`               ([Neutral] ～を担当する)        He's in charge of operations.
+  - `take over` /teɪk ˈoʊvər/       ([Neutral] 引き継ぐ、引き受ける) I'll take over from here.
+  - `pick up` /pɪk ʌp/              ([Casual] 引き受ける、拾い上げる) I'll pick up the slack.
+  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
+  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
+  - `undertake` /ˌʌndərˈteɪk/       ([Formal] 引き受ける、着手する) We'll undertake the project.
+  - `assume` /əˈsuːm/               ([Formal] 引き受ける、想定する) She assumed the role of manager.
+  - `shoulder` /ˈʃoʊldər/           ([Neutral] 肩に担う、引き受ける) He shouldered the responsibility.
+  - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
+  - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる、歓迎する) She embraced the challenge.
+  - `take upon oneself`             ([Formal] 自ら引き受ける)       He took it upon himself to help.
+
+  - ✅ `look into` /lʊk ˈɪntuː/        ([Neutral] 調べる、検討する)    I'll look into that issue.
+  - `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
+
+- ✅ `carry out` /ˈkæri aʊt/        ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.
+  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、遂行する)   We need to execute the plan flawlessly.
+  - `implement` /ˈɪmplɪment/        ([Formal] 実装する、実施する)   When will we implement these changes?
+
+- `go on` /ɡoʊ ɑːn/                 ([Neutral] 続ける、進む)        Please go on with your presentation.
+- `continue` /kənˈtɪnjuː/           ([Neutral] 続ける、継続する)    Let's continue with the meeting.
+- `keep going` /kiːp ˈɡoʊɪŋ/       ([Casual] 続ける、頑張る)       Just keep going, you're doing great!
+- `carry on` /ˈkæri ɑːn/            ([Neutral] 続ける、継続する)    We'll carry on despite the challenges.
+- `push ahead` /pʊʃ əˈhed/          ([Neutral] 推し進める)          The CEO wants to push ahead with expansion.
+- `press on` /pres ɑːn/             ([Neutral] 押し進む、続行する)  We must press on to meet the deadline.
+- `move along` /muːv əˈlɔːŋ/        ([Neutral] 進める、進行する)    The project is moving along nicely.
+- `go ahead` /ɡoʊ əˈhed/            ([Neutral] 先に進む、始める)    You can go ahead with the purchase.
+- `push forward` /pʊʃ ˈfɔːrwærd/    ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
+- `forge ahead` /fɔːrdʒ əˈhed/      ([Neutral] 突き進む)            We'll forge ahead with the new strategy.
+- `make headway` /meɪk ˈhedweɪ/     ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
+- `gain ground` /ɡeɪn ɡraʊnd/       ([Neutral] 前進する、優勢になる)Our proposal is gaining ground with management.
+
+- ✅ `make progress` /meɪk ˈprɒɡres/([Neutral] 前進する)            We're making progress on the project.
+- `improve` /ɪmˈpruːv/              ([Neutral] 改善する、向上する)  We're working to improve our processes.
+- `move forward` /muːv ˈfɔːrwərd/   ([Neutral] 前に進む)            Let's move forward with the plan.
+- `advance` /ədˈvæns/               ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
+- `proceed` /prəˈsiːd/              ([Formal] 進める、続行する)     We'll proceed with the implementation.
+- `progress` /prəˈɡres/             ([Neutral] 進歩する、前進する)  The project is progressing well.
+- `get ahead` /ɡet əˈhed/           ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
+- `come along` /kʌm əˈlɔːŋ/         ([Neutral] 進歩する、発展する)  Her skills are coming along well.
+
+- `work through` /wɜːrk θruː/       ([Neutral] やり遂げる)          We need to work through these issues.
+- `follow through` /ˈfɑːloʊ θruː/   ([Neutral] 最後までやり遂げる)  Make sure to follow through on your commitments.
+
+- `develop` /dɪˈveləp/              ([Neutral] 発展させる、開発する)We need to develop this idea further.
+
+- `pursue` /pərˈsuː/                ([Formal] 追求する、続ける)     We'll pursue this opportunity aggressively.
+- `undertake` /ˌʌndərˈteɪk/         ([Formal] 引き受ける、着手する) We'll undertake a comprehensive review.
 
 
-### 発動する
+## 発動する
   - `invoke` /ɪnˈvoʊk/              ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
     - `invocation` /ˌɪnvəˈkeɪʃən/   ([Writing] 発動、呼び出し)      The invocation of emergency powers was controversial.
     - `invocative` /ɪnˈvoʊkətɪv/    ([Writing] 呼び起こす)          The poem has an invocative quality.
@@ -28,20 +118,8 @@
     - `assignment` /əˈsaɪnmənt/     ([Neutral] 割り当て、課題)       The assignment is due tomorrow.
   - `appoint` /əˈpɔɪnt/             ([Formal] 任命する、指定する)   He was appointed as director.
     - `appointment` /əˈpɔɪntmənt/   ([Neutral] 任命、約束)          I have an appointment at 3 PM.
-### PROGRESS
-- ✅ `make progress` /meɪk ˈprɒɡres/([Neutral] 前進する)            We're making progress on the project.
-  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、向上する)  We're working to improve our processes.
-  - `develop` /dɪˈveləp/            ([Neutral] 発展させる、開発する)We need to develop this idea further.
-  - `move forward` /muːv ˈfɔːrwərd/ ([Neutral] 前に進む)            Let's move forward with the plan.
-  - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
-  - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
-  - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
-  - `proceed` /prəˈsiːd/            ([Formal] 進める、続行する)     We'll proceed with the implementation.
-  - `move along` /muːv əˈlɔːŋ/      ([Neutral] 進める、進行する)    The project is moving along nicely.
-  - `push forward` /pʊʃ ˈfɔːrwærd/  ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
-  - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 前進する、優勢になる)Our proposal is gaining ground with management.
 
-### DECISION
+## DECISION
 - ✅ `choose` /tʃuːz/               ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
   - `pick` /pɪk/                    ([Casual] 選ぶ、取る)           Pick whichever one you like.
   - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the red one, please.
@@ -93,7 +171,7 @@
 
 
 
-## Cognitive Name
+# Cognitive Name
 
 - `faction` /ˈfækʃən/               ([Neutral] 派閥、分派)          The party split into several factions.
   - `factional` /ˈfækʃənəl/         ([Neutral] 派閥の)              Factional disputes weakened the organization.
