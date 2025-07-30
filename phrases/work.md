@@ -1,33 +1,61 @@
-# TODAY
+# WORK
 
-This page `explains` how to achieve synchronization of buds control data between `multiple` pairs of buds,
-particularly between PerL2 Standard and PerL2 Pro.
+## Sync
 
-To `tackle` this, I will `break this down into` three steps:
+This is about the question that came up during yesterday's UX meeting when we were reviewing the EQ screen.
 
-First, I'll show that synchronization is `simple` when the data is stored in the buds.
-Second, I'll demonstrate that even when data is not stored in the buds, it's not a problem.
-Finally, I'll show that the only `real challenge` is the `translation algorithms` between Standard and Pro.
+And this is just an update to let you know that I'm working on this in the Figma Space from the link.
 
-So `let me` walk you through each step.
+I said yesterday that I'd share it today, but sorry, I didn't make it in time.
 
-First, `as background,` the Airoha chip has non-volatile memory `where` almost all buds control data is stored.
-You can read and write this data using APIs available in the Airoha SDK.
+The basic flow is coming together, but I have this feeling like something's missing,
+so I'm checking that right now.
 
-For example, you can retrieve EQ parameters like frequency, gain, and other settings using the getAllEQSettings() function,
-and you can set them using the setEQSetting() function.
+---
 
-Almost all buds control data has its own `dedicated` API.
+## Sync
 
-`Given this foundation,` when you want to synchronize buds control data,
-you can do so if the app always caches the buds data.
+So first, let me explain the overall approach.
+The system should manage data by splitting it into Device Data and Shared Data.
 
-`Now, what happens when` you want to synchronize data while switching between mobile devices?
-Even in this case, it's possible if the buds control data is synced from the app to the server.
+Device Data is what's stored on the Buds,
+and
 
+Shared Data is what we keep on servers, apps, buds depending the case.
+here's the key insight from my analysis
+I realized that some data actually needs to exist in each place.
+We're calling this 'Shared Data,' and you can see it highlighted in red in these diagrams.
+This includes things like Personalization Profile, Custom Custom EQ Parameters, and Active Custom EQ Parameters.
 
+The critical thing about Shared Data is that we should add timestamp information to it.
+This is super important because when there are conflicts - 
+like when someone goes from offline to online, or switches devices - 
+we can use these timestamps to figure out which version is the most recent.
 
+---
 
+Let me walk through the four scenarios we've mapped out:
+
+First,
+the Online scenario - pretty straightforward.
+App gets data from both Buds and Server, user makes changes, App sync everything up.
+
+Second,
+Offline mode - here's where it gets interesting.
+When users make changes offline, App cache them locally.
+Then when the system come back online, App use those timestamps to make sure we're syncing the right version.
+
+Third and fourth scenarios cover device switching - whether it's changing mobile devices or changing Buds.
+In both cases, we rely on our timestamp system to resolve any conflicts.
+
+Now, there's one more thing we need to address - 
+and this is in the yellow box here.
+For parameters that have different structures between PerL2 Pro and Standard, like the EQ settings,
+we have two options: either treat them as completely separate parameters, or create conversion functions between them.
+
+The beauty of this approach is that by using timestamps on our Shared Data,
+we can handle pretty much any conflict scenario that comes up.
+Does this make sense to everyone? Any questions about the flow or the timestamp logic?"
 ---
 
 ## 実績 (Track record)
@@ -151,43 +179,3 @@ Didn't we have users enter their birth year when signing up for the app? Either 
 
 ---
 
-## Sleep Timer
-
-I've given my comments from the embedded perspective,
-so Matsumoto-san, could you please comment from the app perspective?
-
-### Second device
-I think this is a yes.
-Even when there's only one connected device,
-the App needs to sync the sleep timer status with the connected device when it launches.
-
-I mean,
-when you start the sleep timer in the app, close the app, and then reopen it right away,
-it would be better if the sleep timer progress could be retrieved from the device, right?
-
-### 左から 2 つ目
-Based on my earlier comment, this would also be No, No, Yes, I think.
-
-### 左から 3 つ目
-Basically,
-I think the timer should continue for everything except phone calls, which are a strong wake-up action.
-With that in mind, timer continuation would be better here, right?
-
-### 左から 3 つ目 一番下
-I think
-both when the Sleep Timer expires and when it's in the case,
-it enters a strong power-saving mode with Bluetooth turned off.
-With that in mind, if it's already been put in the case, I think we should consider that
-the goal of entering power-saving mode has already been achieved.
-So I think resetting it here would be good.
-
-### その右
-Considering that it transitions to a strong power-saving mode with Bluetooth turned off,
-playback from another source device wouldn't be possible either, 
-so I don't think this use case exists.
-
-### 一番右
-I mean,
-someone who answers the phone isn't planning to sleep, right?
-
----

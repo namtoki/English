@@ -32,6 +32,43 @@
 ## NOTION
 - ✅ `concept` /ˈkɑːnsept/          ([Neutral] 概念、構想)          The concept looks good, but we need more details.
 
+## DECISION
+- ✅ `agree with` /əˈɡriː wɪð/      ([Neutral] ～に賛成する)        I agree with the decision.
+  - ✅ `support` /səˈpɔːrt/         ([Neutral] 支持する、支援する)  I support your idea.
+  - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The board approved the plan.
+    - `approve of` /əˈpruːv əv/     ([Neutral] ～を良いと思う)      I approve of your choice.
+  - ✅ `prefer` /prɪˈfɜːr/          ([Neutral] 好む、選好する)      I prefer coffee to tea.
+  - ✅ `be for` /biː fɔːr/          ([Casual] 賛成である)           I'm for the new policy.
+  - `back` /bæk/                    ([Neutral] 支持する、後押しする) I'll back your proposal.
+  - ✅ `be in favor of`             ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
+  - `side with` /saɪd wɪð/          ([Neutral] ～の味方をする)      I side with you on this.
+  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by your decision.
+  - `back up` /bæk ʌp/              ([Casual] 支援する、裏付ける)   I'll back you up.
+  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
+  - `get behind` /ɡet bɪˈhaɪnd/     ([Casual] 支持する、応援する)   Let's get behind this initiative.
+  - `second` /ˈsekənd/              ([Neutral] 支持する、賛同する)  I second the motion.
+  - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する、後ろ盾になる) We stand behind our employees.
+  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、推奨する)   I endorse this approach.
+  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、支持する)   She advocates for change.
+  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He champions workers' rights.
+  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
+  - `rally behind` /ˈræli bɪˈhaɪnd/ ([Neutral] 結集する、支持する)  The team rallied behind their leader.
+  - `align with` /əˈlaɪn wɪð/       ([Formal] 同調する、一致する)   Our goals align with yours.
+  - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
+  - `give support to`               ([Neutral] 支援する)            We give our support to the project.
+  - `lend support to`               ([Formal] 支援する、支持する)   I lend my support to the cause.
+- ✅ `go along with`                ([Casual] 同調する、従う)       I'll go along with the plan.
+- ✅ `choose` /tʃuːz/               ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
+  - `pick` /pɪk/                    ([Casual] 選ぶ、取る)           Pick whichever one you like.
+  - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the red one, please.
+  - `select` /sɪˈlekt/              ([Formal] 選択する、選出する)   We need to select the best candidate.
+  - `decide on` /dɪˈsaɪd ɑːn/       ([Neutral] 決める、決定する)    Have you decided on a date yet?
+  - `go with` /ɡoʊ wɪð/             ([Casual] 選ぶ、一緒に行く)     I'll go with the blue option.
+  - `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、狙う)           I think I'll go for the chocolate cake.
+  - `opt for` /ɑːpt fɔːr/           ([Formal] 選択する、決める)     We opted for the premium package.
+  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
+  - `stick with` /stɪk wɪð/         ([Casual] 続ける、固執する)     Let's stick with the original plan.
+
 ## ACTION
 - ✅ `work on` /wɜːrk ɑːn/          ([Neutral] 取り組む)            I'm working on the report now.
   - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
@@ -69,6 +106,32 @@
   - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
   - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる、歓迎する) She embraced the challenge.
   - `take upon oneself`             ([Formal] 自ら引き受ける)       He took it upon himself to help.
+- ✅ `organize` /ˈɔːrɡənaɪz/        ([Neutral] 整理する、組織する)  I need to organize my files.
+  - `clean up` /kliːn ʌp/           ([Casual] 片付ける、掃除する)   We need to clean up this mess.
+  - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
+    - ✅ `sort out` /sɔːrt aʊt/     ([Casual] 整理する、解決する)   I'll sort out the paperwork.
+  - `arrange` /əˈreɪndʒ/            ([Neutral] 整理する、配置する)  Let's arrange the meeting room.
+  - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
+  - `tidy` /ˈtaɪdi/                 ([Casual] 片付ける、整頓する)   Tidy up your desk before leaving.
+    - ✅ `tidy up` /ˈtaɪdi ʌp/      ([Casual] 片付ける、整理する)   Let's tidy up the office.
+  - `order` /ˈɔːrdər/               ([Neutral] 整理する、注文する)  Order the items by priority.
+  - `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
+  - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
+  - `straighten out` /ˈstreɪtən aʊt/([Neutral] 整理する、解決する)  Let's straighten out these issues.
+  - `structure` /ˈstrʌktʃər/        ([Neutral] 構造化する 組織する) We need to structure the data.
+  - `categorize` /ˈkætəɡəraɪz/      ([Neutral] 分類する、類別する)  Categorize these by type.
+  - `prioritize` /praɪˈɔːrətaɪz/    ([Neutral] 優先順位をつける)    Prioritize your tasks.
+  - `coordinate` /koʊˈɔːrdɪneɪt/    ([Neutral] 調整する、まとめる)  Coordinate the different teams.
+  - `reorganize` /riːˈɔːrɡənaɪz/    ([Neutral] 再編成す 整理し直す) We need to reorganize the department.
+  - `streamline` /ˈstriːmlaɪn/      ([Neutral] 合理化す 効率化する) We'll streamline our processes.
+  - `classify` /ˈklæsɪfaɪ/          ([Formal] 分類する、区分する)   Classify the documents by level.
+  - `systematize` /ˈsɪstəmətaɪz/    ([Formal] 体系化す 組織化する)  Let's systematize our approach.
+  - ✅ `consolidate`/kənˈsɑːlɪdeɪt/ ([Formal] 統合する 整理統合す)  Consolidate all the reports.
+  - `align` /əˈlaɪn/                ([Neutral] 整列させる 調整する) Align the goals with strategy.
+  - `catalog` /ˈkætəlɔːɡ/           ([Neutral] カタログ化す 整理す) Catalog all the inventory.
+  - `index` /ˈɪndeks/               ([Neutral] 索引を作る 整理する) Index the database entries.
+  - `declutter` /diːˈklʌtər/        ([Casual] 散らかりを片付ける)   Declutter your workspace.
+
 
   - ✅ `look into` /lʊk ˈɪntuː/        ([Neutral] 調べる、検討する)    I'll look into that issue.
   - `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
@@ -107,7 +170,6 @@
 - `pursue` /pərˈsuː/                ([Formal] 追求する、続ける)     We'll pursue this opportunity aggressively.
 - `undertake` /ˌʌndərˈteɪk/         ([Formal] 引き受ける、着手する) We'll undertake a comprehensive review.
 
-
 ## 発動する
   - `invoke` /ɪnˈvoʊk/              ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
     - `invocation` /ˌɪnvəˈkeɪʃən/   ([Writing] 発動、呼び出し)      The invocation of emergency powers was controversial.
@@ -118,19 +180,6 @@
     - `assignment` /əˈsaɪnmənt/     ([Neutral] 割り当て、課題)       The assignment is due tomorrow.
   - `appoint` /əˈpɔɪnt/             ([Formal] 任命する、指定する)   He was appointed as director.
     - `appointment` /əˈpɔɪntmənt/   ([Neutral] 任命、約束)          I have an appointment at 3 PM.
-
-## DECISION
-- ✅ `choose` /tʃuːz/               ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
-  - `pick` /pɪk/                    ([Casual] 選ぶ、取る)           Pick whichever one you like.
-  - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the red one, please.
-  - `select` /sɪˈlekt/              ([Formal] 選択する、選出する)   We need to select the best candidate.
-  - `decide on` /dɪˈsaɪd ɑːn/       ([Neutral] 決める、決定する)    Have you decided on a date yet?
-  - `prefer` /prɪˈfɜːr/             ([Neutral] 好む、選好する)      I prefer coffee to tea.
-  - `go with` /ɡoʊ wɪð/             ([Casual] 選ぶ、一緒に行く)     I'll go with the blue option.
-  - `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、狙う)           I think I'll go for the chocolate cake.
-  - `opt for` /ɑːpt fɔːr/           ([Formal] 選択する、決める)     We opted for the premium package.
-  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
-  - `stick with` /stɪk wɪð/         ([Casual] 続ける、固執する)     Let's stick with the original plan.
 
 - `ransack` /ˈrænsæk/               ([Writing] あさり回る)          The thieves ransacked the house.
 - `search` /sɜːtʃ/                  ([Neutral] 探す、捜索する)      I'm searching for my keys.
