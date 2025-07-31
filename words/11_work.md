@@ -133,39 +133,82 @@
 - `get ahead` /ɡet əˈhed/           ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
 - `come along` /kʌm əˈlɔːŋ/         ([Neutral] 進歩する、発展する)  Her skills are coming along well.
 
+## まとめる、形にする
+- ✅ `fall into place`              ([Neutral] うまくいく まとまる) The presentation is falling into place.
+- ✅ `work out` /wɜːrk aʊt/         ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
+- ✅ `come together` /kʌm təˈɡeðər/ ([Neutral] まとまる 一体となる) The project is finally coming together.
+  - `pull together` /pʊl təˈɡeðər/  ([Neutral] まとめる、協力する)  We need to pull together to finish this.
+  - `piece together` /piːs təˈɡeðər/([Neutral] 組み立てる まとめる) We're piecing together the evidence.
+- ✅ `take shape` /teɪk ʃeɪp/       ([Neutral] 形になる 具体化する) Our plans are beginning to take shape.
+- `gel` /dʒel/                      ([Casual] まとまる、固まる)     The team is starting to gel.
+- `crystallize` /ˈkrɪstəlaɪz/       ([Formal] 結晶化する 明確になる)Our strategy is beginning to crystallize.
+- `coalesce` /ˌkoʊəˈles/            ([Formal] 合体する、結合する)   The different ideas are coalescing into a plan.
+- ✅ `consolidate` /kənˈsɑːlɪdeɪt/  ([Formal] 統合する、固める)     We need to consolidate our efforts.
 
+## 完了する・達成する
+- ✅ `complete` /kəmˈpliːt/         ([Neutral] 完了する 完成させる) Complete the project by Friday.
+- ✅ `finish` /ˈfɪnɪʃ/              ([Neutral] 終える、完成させる)  I need to finish this report.
+- `achieve` /əˈtʃiːv/               ([Neutral] 達成する 成し遂げる) They achieved their objectives.
+- `accomplish` /əˈkʌmplɪʃ/          ([Neutral] 達成する 成し遂げる) We accomplished our goal.
+- ✅ `get done` /ɡet dʌn/           ([Casual] 終わらせる やり遂げ)  Let's get this done before lunch.
+  - `get it done`                   ([Casual] やり遂げる)           Whatever it takes, we'll get it done.
+- `wrap up` /ræp ʌp/                ([Neutral] まとめ上げ 終わらせ) Let's wrap up this meeting.
+  - `wrap-up` /ˈræp ʌp/             ([Neutral] まとめ、総括)        The wrap-up session will be tomorrow.
+  - `wrap it up`                    ([Casual] 終わらせる)           Time to wrap it up for today.
+- `fulfill` /fʊlˈfɪl/               ([Formal] 履行する、実現する)   He fulfilled his promise.
+  - `fulfillment` /fʊlˈfɪlmənt/     ([Formal] 履行、実現)           The fulfillment of our goals is important.
+- `realize` /ˈriːəlaɪz/             ([Formal] 実現する、達成する)   We realized our vision.
+- `bring to completion`             ([Formal] 完成まで導く)         We need to bring this project to completion.
+- `see through` /siː θruː/          ([Neutral] 最後までやり遂げる)  She saw the project through to completion.
+  - `see it through`                ([Neutral] 最後までやり遂げる)  Once we start, we'll see it through.
+- `deliver` /dɪˈlɪvər/              ([Neutral] 提供する、達成する)  We need to deliver on our promises.
+  - `delivery` /dɪˈlɪvəri/          ([Neutral] 提供、配送)          On-time delivery is crucial.
+- `attain` /əˈteɪn/                 ([Formal] 達成する、獲得する)   We worked hard to attain our goals.
+  - `attainment` /əˈteɪnmənt/       ([Formal] 達成、獲得)           Educational attainment is important.
 
-- `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our goal.
-- `fulfill` /fʊlˈfɪl/             ([Formal] 履行する、実現する)   He fulfilled his promise.
-- `complete` /kəmˈpliːt/          ([Neutral] 完了する 完成させる) Complete the project by Friday.
-- `achieve` /əˈtʃiːv/             ([Neutral] 達成する 成し遂げる) They achieved their objectives.
-- `realize` /ˈriːəlaɪz/           ([Formal] 実現する、達成する)   We realized our vision.
+## 引き受ける
+- ✅ `take` /teɪk/                  ([Neutral] 引き受ける、取る)    I'll take the job.
+  - `take care of` /teɪk ker əv/    ([Neutral] 世話をする 処理する) I'll take care of it.
+  - ✅ `take on` /teɪk ɑːn/         ([Neutral] 引き受ける)          I'll take on this challenge.
+- `accept` /əkˈsept/                ([Neutral] 受け入れる 引き受け) I accept the responsibility.
+- `be responsible for`              ([Neutral] ～を担当する)        She's responsible for sales.
+- `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
+- `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
+- `pick up` /pɪk ʌp/                ([Casual] 引き受ける 拾い上げ)  I'll pick up the slack.
+- `take responsibility for`         ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
+- `step up` /step ʌp/               ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
+- `undertake` /ˌʌndərˈteɪk/         ([Formal] 引き受ける、着手する) We'll undertake the project.
+- `assume` /əˈsuːm/                 ([Formal] 引き受ける、想定する) She assumed the role of manager.
+- `shoulder` /ˈʃoʊldər/             ([Neutral] 肩に担う 引き受ける) He shouldered the responsibility.
+- `bear` /ber/                      ([Formal] 負う、担う)           They bear the cost of repairs.
+- `embrace` /ɪmˈbreɪs/              ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
+- `take upon oneself`               ([Formal] 自ら引き受ける)       He took it upon himself to help.
 
 ## 賛成する
 - ✅ `agree with` /əˈɡriː wɪð/      ([Neutral] ～に賛成する)        I agree with the decision.
-  - ✅ `support` /səˈpɔːrt/         ([Neutral] 支持する、支援する)  I support your idea.
-  - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The board approved the plan.
-    - `approve of` /əˈpruːv əv/     ([Neutral] ～を良いと思う)      I approve of your choice.
-  - ✅ `prefer` /prɪˈfɜːr/          ([Neutral] 好む、選好する)      I prefer coffee to tea.
-  - ✅ `be for` /biː fɔːr/          ([Casual] 賛成である)           I'm for the new policy.
-    - `be all for` /biː ɔːl fɔːr/   ([Casual] 大賛成である)         I'm all for that idea!
-  - `back` /bæk/                    ([Neutral] 支持する 後押しする) I'll back your proposal.
-  - ✅ `be in favor of`             ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
-  - `side with` /saɪd wɪð/          ([Neutral] ～の味方をする)      I side with you on this.
-  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by your decision.
-  - `back up` /bæk ʌp/              ([Casual] 支援する、裏付ける)   I'll back you up.
-  - `get behind` /ɡet bɪˈhaɪnd/     ([Casual] 支持する、応援する)   Let's get behind this initiative.
-  - `second` /ˈsekənd/              ([Neutral] 支持する、賛同する)  I second the motion.
-  - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
-  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、推奨する)   I endorse this approach.
-  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、支持する)   She advocates for change.
-  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He champions workers' rights.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
-  - `rally behind` /ˈræli bɪˈhaɪnd/ ([Neutral] 結集する、支持する)  The team rallied behind their leader.
-  - `align with` /əˈlaɪn wɪð/       ([Formal] 同調する、一致する)   Our goals align with yours.
-  - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
-  - `give support to`               ([Neutral] 支援する)            We give our support to the project.
-  - `lend support to`               ([Formal] 支援する、支持する)   I lend my support to the cause.
+- ✅ `support` /səˈpɔːrt/           ([Neutral] 支持する、支援する)  I support your idea.
+- `approve` /əˈpruːv/               ([Neutral] 承認する、賛成する)  The board approved the plan.
+  - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
+- ✅ `prefer` /prɪˈfɜːr/            ([Neutral] 好む、選好する)      I prefer coffee to tea.
+- ✅ `be for` /biː fɔːr/            ([Casual] 賛成である)           I'm for the new policy.
+  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
+- `back` /bæk/                      ([Neutral] 支持する 後押しする) I'll back your proposal.
+- ✅ `be in favor of`               ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
+- `side with` /saɪd wɪð/            ([Neutral] ～の味方をする)      I side with you on this.
+- `stand by` /stænd baɪ/            ([Neutral] 支持する、味方する)  I'll stand by your decision.
+- `back up` /bæk ʌp/                ([Casual] 支援する、裏付ける)   I'll back you up.
+- `get behind` /ɡet bɪˈhaɪnd/       ([Casual] 支持する、応援する)   Let's get behind this initiative.
+- `second` /ˈsekənd/                ([Neutral] 支持する、賛同する)  I second the motion.
+- `stand behind` /stænd bɪˈhaɪnd/   ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
+- `endorse` /ɪnˈdɔːrs/              ([Formal] 支持する、推奨する)   I endorse this approach.
+- `advocate` /ˈædvəkeɪt/            ([Formal] 主張する、支持する)   She advocates for change.
+- `champion` /ˈtʃæmpiən/            ([Neutral] 擁護する、支持する)  He champions workers' rights.
+- `uphold` /ʌpˈhoʊld/               ([Formal] 支持する、維持する)   The court upheld the decision.
+- `rally behind` /ˈræli bɪˈhaɪnd/   ([Neutral] 結集する、支持する)  The team rallied behind their leader.
+- `align with` /əˈlaɪn wɪð/         ([Formal] 同調する、一致する)   Our goals align with yours.
+- `throw support behind`            ([Neutral] 支援を投じる)        They threw their support behind the candidate.
+- `give support to`                 ([Neutral] 支援する)            We give our support to the project.
+- `lend support to`                 ([Formal] 支援する、支持する)   I lend my support to the cause.
 
 ## 従う
 - ✅ `follow` /ˈfɑːloʊ/             ([Neutral] 従う、続く)          Please follow the instructions.
@@ -207,37 +250,6 @@
   - `opt for` /ɑːpt fɔːr/           ([Formal] 選択する、決める)     We opted for the premium package.
   - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
   - `stick with` /stɪk wɪð/         ([Casual] 続ける、固執する)     Let's stick with the original plan.
-
-## 終える
-- ✅ `finish` /ˈfɪnɪʃ/              ([Neutral] 終える、完成させる)  I need to finish this report.
-  - ✅ `get through` /ɡet θruː/     ([Casual] やり遂げる 通り抜け)  We'll get through this together.
-  - `complete` /kəmˈpliːt/          ([Neutral] 完了する 完成させる) Complete the project by Friday.
-  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our mission.
-  - ✅ `work through` /wɜːrk θruː/  ([Neutral] やり遂げる)          We need to work through these issues.
-  - `follow through` /ˈfɑːloʊ θruː/ ([Neutral] 最後までやり遂げる)  Make sure to follow through on your commitments.
-  - `see through` /siː θruː/        ([Neutral] 最後まで見届ける)    She saw the project through to completion.
-  - `push through` /pʊʃ θruː/       ([Neutral] 押し切る やり遂げる) They pushed through the legislation.
-  - `pull through` /pʊl θruː/       ([Neutral] 困難を乗り越える)    The company pulled through the crisis.
-  - `carry through` /ˈkæri θruː/    ([Neutral] やり抜く、実行する)  We need to carry through with our plans.
-  - `stick with` /stɪk wɪð/         ([Casual] 最後まで続ける)       I'll stick with this job until it's done.
-
-## 引き受ける
-- ✅ `take` /teɪk/                  ([Neutral] 引き受ける、取る)    I'll take the job.
-  - `take care of` /teɪk ker əv/    ([Neutral] 世話をする 処理する) I'll take care of it.
-  - ✅ `take on` /teɪk ɑːn/         ([Neutral] 引き受ける)          I'll take on this challenge.
-  - `accept` /əkˈsept/              ([Neutral] 受け入れる 引き受け) I accept the responsibility.
-  - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
-  - `be in charge of`               ([Neutral] ～を担当する)        He's in charge of operations.
-  - `take over` /teɪk ˈoʊvər/       ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
-  - `pick up` /pɪk ʌp/              ([Casual] 引き受ける 拾い上げ)  I'll pick up the slack.
-  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
-  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
-  - `undertake` /ˌʌndərˈteɪk/       ([Formal] 引き受ける、着手する) We'll undertake the project.
-  - `assume` /əˈsuːm/               ([Formal] 引き受ける、想定する) She assumed the role of manager.
-  - `shoulder` /ˈʃoʊldər/           ([Neutral] 肩に担う 引き受ける) He shouldered the responsibility.
-  - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
-  - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
-  - `take upon oneself`             ([Formal] 自ら引き受ける)       He took it upon himself to help.
 
 ## 整理する
 - ✅ `organize` /ˈɔːrɡənaɪz/        ([Neutral] 整理する、組織する)  I need to organize my files.
