@@ -131,7 +131,6 @@ acrid	12	【形】（味やにおいが）刺すような、辛らつな
 acronym	11	【名】頭字語		
 acting	4	【名】演技 【形】代理の、活動中の		
 action	2	【名】行動、活動		
-activate	5	【動】作動させる、活動的にする		
 active	2	【形】活動的な、機敏な		
 actively	4	【副】活発に		
 activist	6	【名】活動家、実践主義者		
@@ -284,7 +283,6 @@ alien	4	【名】異星人、よそ者 【形】外国（人）の、異なる
 alienate	9	【動】遠ざける、譲渡する		
 alienation	9	【名】疎外感、譲渡		
 alight	10	【動】降りて止まる、着水する		
-align	7	【動】一直線に合わせる、提携させる、団結する		
 alignment	8	【名】整列、一列に並んだもの		
 alike	3	【形】似ている 【副】一様に 【名】似ているもの		
 alive	2	【形】生きて、活動的な		
@@ -300,9 +298,6 @@ alley	6	【名】裏通り
 alliance	5	【名】（国家間の）同盟、協力		
 allied	7	【形】同盟している、協同の、結びついた		
 alligator	5	【名】アリゲーター、ワニ		
-allocation	9	【名】割り当て		
-allot	9	【動】割り振る、充てる		
-allotment	10	【名】割り当て		
 alloy	10	【名】合金、混ざりもの 【動】混ぜる		
 ally	6	【動】同盟させる、縁組みする 【名】同盟国		
 almighty	6	【形】全能の、無限の力をもった、ひどい		
@@ -463,7 +458,6 @@ applicable	7	【形】適用できる、適切な
 applicant	7	【名】応募者、志願者		
 application	3	【名】志願すること、適用、アプリケーション（ソフト）		
 applied	6	【形】応用された、実際に適用された		
-apply	2	【動】申し込む、活用する、当てはまる		
 appraisal	8	【名】評価、査定		
 appraise	12	【動】鑑定する、評価する、見積もる		
 apprehend	9	【動】逮捕する、心配する		
@@ -525,7 +519,6 @@ army	2	【名】軍隊、陸軍、大群
 aroma	10	【名】香り、気品		
 arousal	12	【名】喚起、覚醒、性的興奮		
 arouse	7	【動】目を覚ます、誘発する、喚起する		
-arrange	2	【動】配列する、取り決める、手配する、準備をする		
 arrangement	2	【名】配列、協定、手配		
 array	5	【動】配置する、装う 【名】配置、列挙		
 arrest	3	【動】逮捕する 【名】逮捕		
@@ -572,7 +565,6 @@ assassination	9	【名】暗殺
 assay	12	【動】分析する、調べる、試す		
 assemble	5	【動】集める、まとめる、組み立てる		
 assembly	5	【名】集会、集めること、議会		
-assert	4	【動】断言する、強く主張する		
 assertion	7	【名】主張、断言		
 assertive	9	【形】断定的な、はきはきした		
 asset	6	【名】財産、価値あるもの		
@@ -1067,7 +1059,6 @@ breadth	5	【名】幅、大きさ、広さ
 breadwinner	12	【名】稼ぎ手、稼業、大黒柱		
 break	1	【動】割る、中断する、分割する 【名】休憩		
 breakdown	4	【名】故障、崩壊		
-breakthrough	8	【名】打開、突破、前進		
 breakup	8	【名】分解、分裂、崩壊、仲違い、別離		
 breast	3	【名】胸		
 breath	2	【名】呼吸、呼気、息をつく間		
@@ -1333,14 +1324,12 @@ casual	3	【形】くだけた、偶然の、即席の
 casually	6	【副】何気なく、偶然に		
 casualty	8	【名】死傷者、被害者、大事故、惨事、損害		
 cataclysm	12	【名】地殻の激変、大洪水、大変動		
-catalog	4	【名】カタログ、図書目録		
 catapult	11	【動】急激に動く、発射する 【名】石弓、カタパルト、（艦船の）飛行機射出機		
 cataract	12	【名】白内障、滝、大雨		
 catastrophe	7	【名】大惨事、不幸		
 catastrophic	10	【形】壊滅的な、最悪の		
 catcher	5	【名】キャッチャー、捕まえる人		
 categorical	8	【形】無条件の、明確な、分類別の		
-categorize	7	【動】分類する		
 category	4	【名】カテゴリー、分類上の区分、種類		
 cater	7	【動】応える、料理の仕出しをする		
 caterpillar	9	【名】いも虫、キャタピラー		
@@ -1537,7 +1526,6 @@ classic	3	【名】古典、典型例 【形】第一級の、伝統的な
 classical	4	【形】古典の、古典様式の		
 classification	6	【名】分類、区別、（政治・軍事）秘密文書指定		
 classified	6	【形】機密扱いの、分類された		
-classify	6	【動】分類する、機密扱いにする		
 clatter	7	【動】ガタガタ音をたてる 【名】騒々しさ、やかましい音		
 clause	6	【名】節、条項		
 claustrophobia	12	【名】閉所恐怖症		
@@ -1738,7 +1726,6 @@ complain	2	【動】不平を言う、訴える
 complainant	12	【名】原告（側）		
 complement	7	【名】補完物 【動】よさを引きたてる		
 complementary	10	【形】補充する、補足的な		
-complete	2	【動】完了する、全部そろえる 【形】全部そろった、完成した		
 completely	2	【副】完全に、十分に		
 completion	6	【名】完成、完了		
 complexion	10	【名】顔色、外観		
@@ -1801,7 +1788,6 @@ condolence	12	【名】悔やみ、哀悼、弔辞
 condom	6	【名】コンドーム 【動】コンドームをつける		
 condominium	8	【名】コンドミニアム、分譲マンション		
 condone	11	【動】大目に見る、容赦する		
-conduct	3	【名】ふるまい 【動】指導する		
 conductor	5	【名】指揮者、車掌		
 cone	7	【名】アイスクリームコーン、錘、円錐標識		
 confederate	11	【名】同盟国、連合国、共犯者 【形】同盟した 【動】連合する		
@@ -1860,7 +1846,6 @@ consignment	12	【名】委託、委託販売品、積送品
 consist	4	【動】成る、存在する		
 consistency	8	【名】一貫性、堅さ、一致、調和		
 consistent	5	【形】一致する、不変の、首尾一貫した		
-consolidate	8	【動】強固にする、合併する、統合整理する、固まる		
 consolidation	8	【名】合同、合併、整理統合、合同体、強化		
 consonant	7	【名】子音 【形】一致する		
 consortium	10	【名】合弁企業、組合		
@@ -1977,7 +1962,6 @@ cooper	11	【名】樽類製造者、桶屋
 cooperate	6	【動】協力する、協同する		
 cooperation	4	【名】協力、協調		
 cooperative	6	【形】協同の、力を合わせて行う 【名】協同組合		
-coordinate	6	【動】調整する		
 coordination	8	【名】調整、一致、対等、同格		
 cop	4	【名】警官 【動】獲得する		
 cope	5	【動】対処する、対抗する		
@@ -2346,8 +2330,6 @@ degree	2	【名】程度、度、学位
 deity	11	【名】神、神性		
 dejected	12	【形】しょげている、意気消沈した		
 delay	3	【動】遅れる、遅らせる 【名】遅延		
-delegate	7	【動】委任する 【名】代表者、代議員		
-delegation	7	【名】代表団、派遣団		
 delete	5	【動】削除する		
 deliberate	6	【形】故意の、よく考えた 【動】熟考する		
 deliberately	6	【副】故意に、慎重に		
@@ -2660,7 +2642,6 @@ distracted	9	【形】気を散らされた、取り乱した
 distraction	8	【名】気を散らすこと、放心、注意散漫、動転		
 distraught	11	【形】取り乱した、狂気の		
 distress	5	【名】苦悩、悲嘆、苦痛 【動】苦悩する		
-distribute	4	【動】分配する、配給する、流通させる		
 distribution	3	【名】配分、配給品、流通		
 distributor	7	【名】販売者、流通業者、分配		
 district	2	【名】地区、地方		
@@ -2685,7 +2666,6 @@ docile	12	【形】従順な、素直な
 dock	5	【名】埠頭、波止場		
 doctorate	11	【名】博士号		
 doctrine	7	【名】教義、信条、政策		
-document	3	【名】書類 【動】証拠を提供する		
 documentary	6	【名】記録もの、ドキュメンタリー 【形】文書の、記録による		
 documentation	8	【名】必要書類の収集、利用、添付、保管		
 dodge	8	【動】素早く身をかわす、ごまかす 【名】巧妙な方策		
@@ -2989,7 +2969,6 @@ emphatic	8	【形】強調された、強勢のある、明らかな
 emphatically	8	【副】強調して、断固として、断然		
 empire	4	【名】帝国、皇帝の統治		
 empirical	10	【形】経験による、実地経験主義の		
-employ	3	【動】雇用する、必要とする、（技術・方法などを）用いる 【名】雇用		
 employee	3	【名】従業員		
 employer	3	【名】使用者、雇用主		
 employment	3	【名】雇用、職		
@@ -3024,7 +3003,6 @@ endurance	6	【名】耐久性、持久力、忍耐
 endure	4	【動】耐える		
 enduring	8	【形】長続きする、永続的な、不朽の、我慢強い		
 enemy	2	【名】敵		
-enforce	7	【動】施行する、強制する、強く主張する		
 enforcement	7	【名】施行、実施、強制、主張		
 engage	4	【動】従事する、引く、雇う		
 engaged	4	【形】予約済みの、婚約中の		
@@ -3138,7 +3116,6 @@ essay	3	【名】小論、随筆
 essence	4	【名】本質、性質、エキス、香水		
 essential	3	【形】絶対必要な 【名】必需品		
 essentially	4	【副】本質的に、ぜひとも		
-establish	3	【動】確立する、樹立する		
 establishment	4	【名】設立、制度、体制、（既成の）権力機構		
 estate	4	【名】不動産、財産		
 estimate	4	【動】見積もる 【名】見積り		
@@ -3192,7 +3169,6 @@ evidently	5	【副】明らかに、どうやら
 evil	3	【形】悪い、害を与える 【名】害悪、悪事		
 evolution	5	【名】進化、発展		
 evolutionary	9	【形】進化の、進化論による		
-evolve	6	【動】進化する、徐々に発展させる		
 ewe	12	【名】成長した雌羊		
 exacerbate	11	【動】悪化させる、悪い感情を募らせる、憤慨させる		
 exacting	11	【形】骨の折れる、厳しい		
@@ -3229,8 +3205,6 @@ executive	5	【名】経営幹部、重役、行政官
 exemplar	12	【名】手本、典型、代表例		
 exempt	9	【形】免除されている 【動】免じてやる、除いてやる		
 exemption	9	【名】控除、免除（品）		
-exercise	2	【名】運動、けいこ 、（軍隊の）教練 【動】働かせる、練習する、運動する		
-exert	7	【動】（力などを）発揮する、使う、懸命に努力する		
 exertion	9	【名】激しい活動、骨折り、行使		
 exhale	11	【動】息を吐き出す、発散する、ぶちまける		
 exhilarate	11	【動】活気づける、愉快にする、興奮させる		
@@ -3454,7 +3428,6 @@ fight	1	【名】戦い、勝負 【動】戦う
 fighter	5	【名】戦士、ボクサー、戦闘機		
 fighting	3	【名】戦闘 【形】好戦的な、戦闘（用）の、交戦中の		
 figurative	10	【形】比ゆ的な、文字どおりでない		
-file	3	【名】ファイル、やすり 【動】整理して保存する、やすりで磨く		
 filial	12	【形】子の、子にふさわしい、（親に対して）子の関係の		
 fillet	8	【名】骨のない切り身、開き身、ヒレ 【動】切り身にする		
 filling	8	【名】中身、詰め物 【形】腹をいっぱいにする		
@@ -3480,7 +3453,6 @@ finger	1	【名】指
 fingernail	8	【名】指のつめ、丸かっこ		
 fingerprint	7	【名】指紋		
 fingertip	9	【名】指先、指サック		
-finish	1	【動】終える、完成する、終わる 【名】終わり、仕上がり		
 finished	8	【形】完成した、仕上がった、見事な、完全な		
 finishing	4	【形】仕上げの、最後の		
 finite	8	【形】限界のある、限定された、有限の 【名】有限		
@@ -3764,7 +3736,6 @@ fuck	6	【動】性交する、干渉する 【名】性交 【間】くそっ
 fudge	12	【動】まともに取り組まない、でっち上げる 【名】でっち上げ		
 fuel	2	【名】燃料 【動】燃料を供給する、燃料を得る		
 fugitive	10	【名】逃亡者		
-fulfill	5	【動】果たす、実行する		
 fulfillment	6	【名】実現、成就		
 full	1	【形】いっぱいの、最大限の、たっぷりの、満腹で		
 fullness	8	【名】充満、充足、十分、ふくよかさ		
@@ -4072,7 +4043,6 @@ grotesque	9	【形】奇怪な、グロテスクな
 ground	1	【名】地面、グラウンド、領域、立脚点、立場、根拠（～s）		
 groundless	10	【形】根拠のない、事実無根の		
 groundwork	8	【名】下地、基礎（工事）、背景		
-group	1	【名】集団 【動】寄せ集める、分類する		
 grouping	6	【名】グループ分け、配合、配置		
 grouse	11	【動】不平を言う 【名】不平		
 grove	6	【名】林、木立		
@@ -4678,7 +4648,6 @@ indefinite	10	【形】無期限の、不明確な
 indefinitely	9	【副】無期限に、漠然と、あいまいに		
 indelible	11	【形】消すことのできない		
 indemnity	12	【名】賠償、保護		
-index	3	【名】索引、指針 【動】索引をつける		
 indict	10	【動】起訴する、非難する		
 indictment	10	【名】起訴、非難		
 indigenous	10	【形】固有の、生まれながらの		
@@ -4824,7 +4793,6 @@ insistent	6	【形】固執する、しつこい
 insolent	12	【形】横柄な、無礼な 【名】横柄な人		
 insolvent	11	【形】一文無しの、支払い不能の 【名】破産者		
 insomnia	12	【名】不眠症		
-inspect	5	【動】点検する、検査する		
 inspection	6	【名】検査、綿密な調査		
 inspector	5	【名】検査官、調査官		
 inspiration	5	【名】霊感、創造的刺激		
@@ -6375,7 +6343,6 @@ orchestrate	10	【動】組織する、まとめ上げる
 orchid	12	【名】ラン		
 ordain	10	【動】任命する、定める、運命づける、規定する		
 ordeal	9	【名】厳しい試練、難儀、神判		
-order	1	【動】注文する、命じる 【名】命令、順序、秩序		
 orderly	7	【形】規則正しい、整頓された 【名】病棟勤務員		
 ordinance	11	【名】条例、法令、聖餐式		
 ordinarily	7	【副】通常、通例、普通に		
@@ -6387,7 +6354,6 @@ organism	5	【名】有機体、生命体
 organist	5	【名】オルガン奏者		
 organization	3	【名】組織体、組織化		
 organizational	8	【形】組織に関する、組織的な、構成する		
-organize	4	【動】組織する、団結する		
 organized	5	【形】組織立った、秩序だった、用意周到な		
 organizer	9	【名】主催者、組織者、整理する道具		
 orgy	11	【名】乱痴気騒ぎ、～にふけること		
@@ -6713,7 +6679,6 @@ perennial	11	【形】永続する、絶え間のない
 perfect	2	【形】完璧な、ぴったりの 【名】完了時制		
 perfection	6	【名】完全、完成		
 perfectly	3	【副】完全に		
-perform	2	【動】演じる、演奏する		
 performance	3	【名】演奏、遂行		
 performer	5	【名】演奏者、歌手、役者、出演者		
 performing	10	【形】芸をするように仕込まれた		
@@ -7177,7 +7142,6 @@ probability	6	【名】見込み、確率
 probable	3	【形】ありそうな、たぶん～だろう		
 probably	2	【副】おそらく		
 probation	11	【名】試用期間、審査、保護観察期間		
-probe	6	【名】宇宙探査機、触覚、厳密な調査 【動】綿密に調べる		
 problem	2	【名】問題、やっかいな人、困ったこと		
 process	2	【名】過程、経過 【動】加工する、処理する		
 procession	5	【名】行列、行進		
@@ -7514,7 +7478,6 @@ realist	8	【名】現実主義者
 realistic	4	【形】現実的な、現実主義の		
 reality	3	【名】現実、迫真性		
 realization	7	【名】理解、実現、成就		
-realize	2	【動】悟る、実現する		
 really	1	【副】実際には、ほんとうは、確かに		
 realm	6	【名】領域、範囲、分野		
 realtor	11	【名】不動産業者		
@@ -7706,7 +7669,6 @@ rent	3	【名】賃借料 【動】賃借する
 rental	5	【名】賃貸、貸しアパート 【形】賃貸の		
 reopen	6	【動】再び開く、再び始める		
 reorganization	7	【名】再編		
-reorganize	7	【動】再編成する、再建する、立て直す		
 repair	2	【動】修理する 【名】修理		
 reparation	12	【名】賠償金（～s）、償い		
 repatriate	12	【動】本国に送還する 【名】送還者		
@@ -7806,7 +7768,6 @@ restriction	5	【名】制限、限定、制約
 restrictive	7	【形】制限的な		
 restroom	4	【名】（ホテル、デパートなどの）トイレ		
 restructure	6	【動】構造を改革する		
-resume	5	【動】再開する		
 resumption	10	【名】取り戻すこと、再開		
 resuscitate	12	【動】生き返らせる、よみがえらせる、復活する		
 retail	6	【名】小売り 【動】小売りをする、受け売りする		
@@ -8160,7 +8121,6 @@ secede	11	【動】脱退する
 secession	12	【名】脱退、離脱		
 seclude	12	【動】引きこもらせる、隔離する		
 secluded	12	【形】人里離れた、隠遁した、隔離された		
-second	1	【形】第2の 【副】第2に 【名】第2の人・もの、秒 【動】助ける		
 secondary	4	【形】第2の、補助的な 【名】部下		
 secondhand	6	【形】中古の 【副】古物で		
 secondly	5	【副】第2に、次に		
@@ -8650,7 +8610,6 @@ sorely	10	【副】痛んで、ひどく、激しく
 sorrow	4	【名】悲しみ、悲哀 【動】悲しむ、嘆く		
 sorrowful	7	【形】悲惨な、悲しんでいる、悲嘆にくれた		
 sorry	1	【形】すまないと思って、気の毒な、残念に思って、悲しい		
-sort	2	【名】種類、好みのタイプ 【動】分類する		
 sortie	12	【名】出撃、突撃隊 【動】出撃する		
 soul	3	【名】魂、精神、情熱 【形】米国黒人特有の		
 sound	1	【名】音 【動】音をたてる、聞こえる、印象を与える 【形】健全な		
@@ -8949,7 +8908,6 @@ strawberry	2	【名】イチゴ
 stray	6	【動】逸れる、道に迷う 【形】道に迷っている		
 streak	8	【名】筋、稲妻、層、性質 【動】筋をつける		
 stream	2	【名】川、流れ、連続 【動】流れる		
-streamline	9	【名】流線（形） 【動】流線形にする、効率化する		
 street	1	【名】通り、街路		
 streetcar	7	【名】路面電車、市街電車		
 strength	2	【名】力、強さ		
@@ -8973,7 +8931,6 @@ strong	1	【形】力強い、濃い
 stronghold	11	【名】本拠地、最後のよりどころ、とりで		
 strongly	4	【副】強く、たくましく		
 structural	6	【形】構造の、構造物の		
-structure	3	【名】構造、建造物		
 struggle	2	【動】一生懸命努力する 【名】もがき		
 strut	10	【動】気どって歩く、見せびらかす 【名】気どって歩くこと		
 stub	10	【名】半券、切り株 【動】ぶつかる、引き抜く		
@@ -8982,7 +8939,6 @@ stubborn	5	【形】頑固な、強情な
 stud	10	【名】飾りびょう 【動】ちりばめる		
 student	1	【名】学生		
 studio	3	【名】仕事場、練習場、ワンルームマンション		
-study	1	【動】学ぶ 【名】勉強、研究、書斎		
 stuff	2	【名】物、価値のないもの 【動】詰め込む、たらふく食べる		
 stuffy	12	【形】空気がよどんだ、息苦しい、退屈な		
 stumble	5	【動】つまずく、よろめく		
@@ -9463,7 +9419,6 @@ ticket	1	【名】切符、入場券
 tickle	8	【動】くすぐる、おもしろがらせる		
 tidal	7	【形】潮の、干満の、周期的な		
 tide	4	【名】潮（の干満） 【動】潮のように流れる、流れに乗せて運ぶ		
-tidy	4	【形】きれい好きな 【動】整える、かたづける		
 tie	1	【動】縛る、くくる、結ぶ 【名】ネクタイ、同点		
 tier	11	【名】段階、列、段 【動】段々に並べる		
 tiger	1	【名】雄のトラ		
@@ -9947,7 +9902,6 @@ usurp	12	【動】権力を暴力で奪う、不法使用する
 utensil	7	【名】用具、器具、家庭用品		
 utilitarian	10	【形】実用的な 【名】功利主義		
 utility	6	【名】実用性、公共施設、公共料金 【形】公共事業の		
-utilize	6	【動】利用する		
 utmost	6	【形】最大限の 【名】最大限		
 utopia	9	【名】ユートピア、理想郷		
 utopian	9	【形】ユートピアの、理想上の完璧さの		
@@ -10298,7 +10252,6 @@ widespread	5	【形】広範囲に及ぶ、広げた
 widow	5	【名】未亡人 【動】未亡人にする		
 widower	9	【名】男やもめ		
 width	4	【名】幅、広さ		
-wield	11	【動】巧みに使う、権力を振るう		
 wife	1	【名】妻		
 wig	10	【名】かつら、高位の人 【形】すごい 【動】かつらを付ける		
 wild	1	【形】野生の、荒涼とした、荒れ狂った		

@@ -66,7 +66,7 @@
   - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
   - `stick with` /stɪk wɪð/         ([Casual] 続ける、固執する)     Let's stick with the original plan.
 
-## ACTION
+## 取り組む
 - ✅ `work on` /wɜːrk ɑːn/          ([Neutral] 取り組む)            I'm working on the report now.
   - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
   - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
@@ -81,11 +81,15 @@
   - `turn to` /tɜːrn tuː/           ([Neutral] 取り組む、向かう)    Let's turn to the next item.
   - `see to` /siː tuː/              ([Neutral] 処理する、面倒を見る)I'll see to that right away.
   - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He applied himself to the task.
+
+## 着手する
 - ✅ `get on with` /ɡet ɑːn wɪð/    ([Casual] 取り掛かる、進める)   Let's get on with the task.
   - ✅ `dive into` /daɪv ˈɪntuː/    ([Casual] 飛び込む、没頭する)   Let's dive into the details.
   - `take up` /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
   - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] 着手する、乗り出す)   We're embarking on a new project.
   - `set about` /set əˈbaʊt/        ([Neutral] 取り掛かる)          Let's set about solving this.
+
+## 遂行する
 - ✅ `do` /duː/                     ([Casual] する、実行する)       Just do it!
   - ✅ `perform` /pərˈfɔːrm/        ([Neutral] 実行する、遂行する)  She performed the task well.
   - ✅ `carry out` /ˈkæri aʊt/      ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.
@@ -97,17 +101,61 @@
   - `complete` /kəmˈpliːt/          ([Neutral] 完了する 完成させる) Complete the project by Friday.
   - `achieve` /əˈtʃiːv/             ([Neutral] 達成する 成し遂げる) They achieved their objectives.
   - `realize` /ˈriːəlaɪz/           ([Formal] 実現する、達成する)   We realized our vision.
+
+## 引き続き進める
+- ✅ `continue` /kənˈtɪnjuː/        ([Neutral] 続ける、継続する)    Let's continue with the meeting.
+  - ✅ `go on` /ɡoʊ ɑːn/            ([Neutral] 続ける、進む)        Please go on with your presentation.
+  - ✅ `keep going` /kiːp ˈɡoʊɪŋ/   ([Casual] 続ける、頑張る)       Just keep going, you're doing great!
+  - ✅ `carry on` /ˈkæri ɑːn/       ([Neutral] 続ける、継続する)    We'll carry on despite the challenges.
+  - `go ahead` /ɡoʊ əˈhed/          ([Neutral] 先に進む、始める)    You can go ahead with the purchase.
+  - `keep on` /kiːp ɑːn/            ([Neutral] 続ける、継続する)    He'll keep on working until it's done.
+  - `proceed` /prəˈsiːd/            ([Formal] 進める、続行する)     Please proceed with the presentation.
+  - `resume` /rɪˈzuːm/              ([Neutral] 再開する)            We'll resume work after lunch.
+  - `move along` /muːv əˈlɔːŋ/      ([Neutral] 進める、進行する)    The project is moving along nicely.
+  - `press on` /pres ɑːn/           ([Neutral] 押し進む、続行する)  We must press on to meet the deadline.
+  - `push ahead` /pʊʃ əˈhed/        ([Neutral] 推し進める)          The CEO wants to push ahead with expansion.
+  - `push forward` /pʊʃ ˈfɔːrwærd/  ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
+  - `stay on track` /steɪ ɑːn træk/ ([Neutral] 軌道に乗り続ける)    Let's stay on track with our goals.
+  - `forge ahead` /fɔːrdʒ əˈhed/    ([Neutral] 突き進む)            We'll forge ahead with the new strategy.
+  - `persist` /pərˈsɪst/            ([Formal] 固執する、続ける)     She'll persist with her research.
+  - `stay the course`               ([Neutral] 最後まで続ける)      We must stay the course to succeed.
+  - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
+  - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 前進する、優勢になる)Our proposal is gaining ground with management.
+
+## 進捗させる
+- ✅ `make progress`                ([Neutral] 前進する)            We're making progress on the project.
+  - ✅ `move forward`               ([Neutral] 前に進む)            Let's move forward with the plan.
+  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、向上する)  We're working to improve our processes.
+  - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
+  - `progress` /prəˈɡres/           ([Neutral] 進歩する、前進する)  The project is progressing well.
+  - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
+  - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
+  - `proceed` /prəˈsiːd/            ([Formal] 進める、続行する)     We'll proceed with the implementation.
+  - `gain traction` /ɡeɪn ˈtrækʃən/ ([Neutral] 勢いを得る)          Our initiative is gaining traction.
+  - `build momentum`                ([Neutral] 勢いをつける)        We're building momentum on this project.
+  - `move ahead` /muːv əˈhed/       ([Neutral] 前進する)            The team is moving ahead with the plans.
+  - `push forward` /pʊʃ ˈfɔːrwərd/  ([Neutral] 押し進める)          We need to push forward with our goals.
+  - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 前進する、進展する)  We're making headway on the problem.
+  - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 優勢になる、前進する)The new approach is gaining ground.
+  - `develop` /dɪˈveləp/            ([Neutral] 発展する、開発する)  The project is developing nicely.
+  - `evolve` /ɪˈvɑːlv/              ([Neutral] 進化する、発展する)  Our strategy continues to evolve.
+  - `make strides` /meɪk straɪdz/   ([Neutral] 大きく前進する)      We're making strides in our research.
+  - `breakthrough` /ˈbreɪkθruː/     ([Neutral] 突破する、打開する)  We had a breakthrough yesterday.
+
+## 終える
 - ✅ `finish` /ˈfɪnɪʃ/              ([Neutral] 終える、完成させる)  I need to finish this report.
   - ✅ `get through` /ɡet θruː/     ([Casual] やり遂げる 通り抜け)  We'll get through this together.
   - `complete` /kəmˈpliːt/          ([Neutral] 完了する 完成させる) Complete the project by Friday.
   - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our mission.
-  - `work through` /wɜːrk θruː/     ([Neutral] やり遂げる)          We need to work through these issues.
+  - ✅ `work through` /wɜːrk θruː/  ([Neutral] やり遂げる)          We need to work through these issues.
   - `follow through` /ˈfɑːloʊ θruː/ ([Neutral] 最後までやり遂げる)  Make sure to follow through on your commitments.
   - `see through` /siː θruː/        ([Neutral] 最後まで見届ける)    She saw the project through to completion.
   - `push through` /pʊʃ θruː/       ([Neutral] 押し切る やり遂げる) They pushed through the legislation.
   - `pull through` /pʊl θruː/       ([Neutral] 困難を乗り越える)    The company pulled through the crisis.
   - `carry through` /ˈkæri θruː/    ([Neutral] やり抜く、実行する)  We need to carry through with our plans.
   - `stick with` /stɪk wɪð/         ([Casual] 最後まで続ける)       I'll stick with this job until it's done.
+
+## 引き受ける
 - ✅ `take` /teɪk/                  ([Neutral] 引き受ける、取る)    I'll take the job.
   - `take care of` /teɪk ker əv/    ([Neutral] 世話をする 処理する) I'll take care of it.
   - ✅ `take on` /teɪk ɑːn/         ([Neutral] 引き受ける)          I'll take on this challenge.
@@ -124,6 +172,8 @@
   - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
   - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
   - `take upon oneself`             ([Formal] 自ら引き受ける)       He took it upon himself to help.
+
+## 整理する
 - ✅ `organize` /ˈɔːrɡənaɪz/        ([Neutral] 整理する、組織する)  I need to organize my files.
   - `clean up` /kliːn ʌp/           ([Casual] 片付ける、掃除する)   We need to clean up this mess.
   - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
@@ -149,6 +199,8 @@
   - `catalog` /ˈkætəlɔːɡ/           ([Neutral] カタログ化す 整理す) Catalog all the inventory.
   - `index` /ˈɪndeks/               ([Neutral] 索引を作る 整理する) Index the database entries.
   - `declutter` /diːˈklʌtər/        ([Casual] 散らかりを片付ける)   Declutter your workspace.
+
+## 調査する
 - ✅ `check out` /tʃek aʊt/         ([Casual] 調べる、確認する)     Let me check out this website.
   - ✅ `find out` /faɪnd aʊt/       ([Neutral] 調べる、発見する)    I need to find out the truth.
   - ✅ `look into` /lʊk ˈɪntuː/     ([Neutral] 調べる、検討する)    I'll look into that issue.
@@ -160,79 +212,69 @@
   - ✅ `dig into` /dɪɡ ˈɪntuː/      ([Casual] 掘り下げる、調査する) We need to dig into the data.
   - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
   - `inspect` /ɪnˈspekt/            ([Formal] 検査する、調べる)     Inspectors examined the building.
+  - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
 
-- `go on` /ɡoʊ ɑːn/                 ([Neutral] 続ける、進む)        Please go on with your presentation.
-- `continue` /kənˈtɪnjuː/           ([Neutral] 続ける、継続する)    Let's continue with the meeting.
-- `keep going` /kiːp ˈɡoʊɪŋ/       ([Casual] 続ける、頑張る)       Just keep going, you're doing great!
-- `carry on` /ˈkæri ɑːn/            ([Neutral] 続ける、継続する)    We'll carry on despite the challenges.
-- `push ahead` /pʊʃ əˈhed/          ([Neutral] 推し進める)          The CEO wants to push ahead with expansion.
-- `press on` /pres ɑːn/             ([Neutral] 押し進む、続行する)  We must press on to meet the deadline.
-- `move along` /muːv əˈlɔːŋ/        ([Neutral] 進める、進行する)    The project is moving along nicely.
-- `go ahead` /ɡoʊ əˈhed/            ([Neutral] 先に進む、始める)    You can go ahead with the purchase.
-- `push forward` /pʊʃ ˈfɔːrwærd/    ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
-- `forge ahead` /fɔːrdʒ əˈhed/      ([Neutral] 突き進む)            We'll forge ahead with the new strategy.
-- `make headway` /meɪk ˈhedweɪ/     ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
-- `gain ground` /ɡeɪn ɡraʊnd/       ([Neutral] 前進する、優勢になる)Our proposal is gaining ground with management.
-
-- ✅ `make progress` /meɪk ˈprɒɡres/([Neutral] 前進する)            We're making progress on the project.
-- `improve` /ɪmˈpruːv/              ([Neutral] 改善する、向上する)  We're working to improve our processes.
-- `move forward` /muːv ˈfɔːrwərd/   ([Neutral] 前に進む)            Let's move forward with the plan.
-- `advance` /ədˈvæns/               ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
-- `proceed` /prəˈsiːd/              ([Formal] 進める、続行する)     We'll proceed with the implementation.
-- `progress` /prəˈɡres/             ([Neutral] 進歩する、前進する)  The project is progressing well.
-- `get ahead` /ɡet əˈhed/           ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
-- `come along` /kʌm əˈlɔːŋ/         ([Neutral] 進歩する、発展する)  Her skills are coming along well.
-
-- `develop` /dɪˈveləp/              ([Neutral] 発展させる、開発する)We need to develop this idea further.
-
-- `pursue` /pərˈsuː/                ([Formal] 追求する、続ける)     We'll pursue this opportunity aggressively.
-- `undertake` /ˌʌndərˈteɪk/         ([Formal] 引き受ける、着手する) We'll undertake a comprehensive review.
-
-## 発動する
-  - `invoke` /ɪnˈvoʊk/              ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
+## 行使する
+- ✅ `exercise` /ˈeksərsaɪz/        ([Neutral] 行使する、発動する)  They exercised their voting rights.
+  - ✅ `invoke` /ɪnˈvoʊk/           ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
     - `invocation` /ˌɪnvəˈkeɪʃən/   ([Writing] 発動、呼び出し)      The invocation of emergency powers was controversial.
     - `invocative` /ɪnˈvoʊkətɪv/    ([Writing] 呼び起こす)          The poem has an invocative quality.
+  - `assert` /əˈsɜːrt/              ([Neutral] 主張する、行使する)  She asserted her authority over the team.
+  - `enforce` /ɪnˈfɔːrs/            ([Neutral] 強制する、施行する)  The police enforce the law.
+  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、執行する)   The court will execute the warrant.
+  - `apply` /əˈplaɪ/                ([Neutral] 適用する、申請する)  We'll apply the new regulations.
+  - `activate` /ˈæktɪveɪt/          ([Neutral] 活性化する 発動する) They activated the emergency protocol.
+  - `implement` /ˈɪmplɪment/        ([Formal] 実施する、実装する)   The government will implement new policies.
+  - `wield` /wiːld/                 ([Neutral] 振るう、行使する)    She wields considerable influence.
+  - `exert` /ɪɡˈzɜːrt/              ([Neutral] 及ぼす、行使する)    He exerted his authority to resolve the dispute.
+  - `employ` /ɪmˈplɔɪ/              ([Formal] 使用する、行使する)   They employed legal measures.
+  - `utilize` /ˈjuːtɪlaɪz/          ([Formal] 利用する、活用する)   We'll utilize all available resources.
+  - `put into effect`               ([Neutral] 実施する 発効させる) The new law was put into effect.
+  - `bring to bear` /brɪŋ tuː beər/ ([Neutral] 及ぼす、行使する)    They brought pressure to bear on the decision.
 
-
-  - `assign` /əˈsaɪn/               ([Neutral] 割り当てる、指定する) She was assigned to the project.
-    - `assignment` /əˈsaɪnmənt/     ([Neutral] 割り当て、課題)       The assignment is due tomorrow.
+## 割り当てる
+- ✅ `assign` /əˈsaɪn/              ([Neutral] 割り当てる 指定する) She was assigned to the project.
+    - `assignment` /əˈsaɪnmənt/     ([Neutral] 割り当て、課題)      The assignment is due tomorrow.
+  - `allocate` /ˈæləkeɪt/           ([Neutral] 割り当てる 配分する) We'll allocate resources to each team.
+    - `allocation` /ˌæləˈkeɪʃən/    ([Neutral] 割り当て、配分)      Budget allocation is under review.
+  - `delegate` /ˈdelɪɡeɪt/          ([Neutral] 委任する 代表にする) I'll delegate this task to my assistant.
+    - `delegation` /ˌdelɪˈɡeɪʃən/   ([Neutral] 委任、代表団)        The delegation met with officials.
+  - `distribute` /dɪˈstrɪbjuːt/     ([Neutral] 配布する、分配する)  We'll distribute tasks equally.
+  - `designate` /ˈdezɪɡneɪt/        ([Formal] 指定する、任命する)   She was designated as team leader.
+    - `designation` /ˌdezɪɡˈneɪʃən/ ([Formal] 指定、名称)           His designation is senior analyst.
   - `appoint` /əˈpɔɪnt/             ([Formal] 任命する、指定する)   He was appointed as director.
     - `appointment` /əˈpɔɪntmənt/   ([Neutral] 任命、約束)          I have an appointment at 3 PM.
+  - `allot` /əˈlɑːt/                ([Neutral] 割り当てる 配分する) They allotted 30 minutes for discussion.
+    - `allotment` /əˈlɑːtmənt/      ([Neutral] 割当、配分)          Each person received their allotment.
+  - `earmark` /ˈɪərmɑːrk/           ([Neutral] 特定目的に割り当て)  Funds were earmarked for research.
+  - `set aside` /set əˈsaɪd/        ([Neutral] 取り分ける 割り当て) We set aside time for planning.
+  - `portion out` /ˈpɔːrʃən aʊt/    ([Casual] 分配する、配分する)   She portioned out the work fairly.
+  - `hand out` /hænd aʊt/           ([Casual] 配る、分配する)       The manager handed out assignments.
+  - `dole out` /doʊl aʊt/           ([Casual] 小出しに配る)         They doled out tasks gradually.
+  - `mete out` /miːt aʊt/           ([Formal] 割り当てる、与える)   The judge meted out sentences.
 
-- `ransack` /ˈrænsæk/               ([Writing] あさり回る)          The thieves ransacked the house.
-- `search` /sɜːtʃ/                  ([Neutral] 探す、捜索する)      I'm searching for my keys.
-  - `searching` /ˈsɜːtʃɪŋ/          ([Neutral] 捜索の、厳しい)      She gave him a searching look.
-  - `research` /rɪˈsɜːtʃ/           ([Neutral] 研究、調査)          He's doing research on climate change.
-  - `researcher` /rɪˈsɜːtʃə/        ([Neutral] 研究者、調査員)      She's a medical researcher.
-- `investigate` /ɪnˈvestɪɡeɪt/      ([Formal] 調査する)             Police are investigating the crime.
-  - `investigation` /ɪnˌvestɪˈɡeɪʃən/ ([Formal] 調査、捜査)         The investigation took months.
-  - `investigator` /ɪnˈvestɪɡeɪtə/  ([Formal] 捜査官、調査員)      The investigator found new evidence.
-  - `investigative` /ɪnˈvestɪɡətɪv/ ([Formal] 調査の、捜査の)      He works in investigative journalism.
-- `explore` /ɪkˈsplɔː/              ([Neutral] 探検する、探求する)  They explored the ancient ruins.
-  - `exploration` /ˌekspləˈreɪʃən/  ([Neutral] 探検、探査)          Space exploration is advancing rapidly.
-  - `explorer` /ɪkˈsplɔːrə/         ([Neutral] 探検家)              The explorer discovered a new species.
-- `corroborate` /kəˈrɑbəreɪt/      ([Writing] 裏付ける)            The evidence was corroborated by two witnesses.
-  - `corroboration` /kəˌrɑbəˈreɪʃən/ ([Writing] 裏付け)              We need further corroboration of the facts.
-  - `corroborative` /kəˈrɑbərətɪv/  ([Writing] 裏付けとなる)        The corroborative evidence was compelling.
-- `verify` /ˈvɛrɪfaɪ/               ([Neutral] 確認する)            Please verify your email address.
-  - `verification` /ˌvɛrɪfɪˈkeɪʃən/  ([Formal] 確認、検証)           Identity verification is required.
-  - `verifiable` /ˈvɛrɪfaɪəbəl/     ([Formal] 検証可能な)           The claim is easily verifiable.
-- `confirm` /kənˈfɜrm/              ([Neutral] 確認する)            Can you confirm the meeting time?
-  - `confirmation` /ˌkɑnfərˈmeɪʃən/  ([Neutral] 確認、確証)          We're waiting for confirmation.
-  - `confirmatory` /kənˈfɜrmətɔri/  ([Formal] 確認の)               The test results were confirmatory.
-- `substantiate` /səbˈstænʃieɪt/    ([Formal] 実証する)             He failed to substantiate his claims.
-  - `substantiation` /səbˌstænʃiˈeɪʃən/ ([Formal] 実証、証拠)        The report lacks proper substantiation.
-- `validate` /ˈvælɪdeɪt/            ([Neutral] 検証する)            The experiment validated our hypothesis.
-  - `validation` /ˌvælɪˈdeɪʃən/      ([Neutral] 検証、妥当性確認)    Data validation is essential.
-- `authenticate` /ɔˈθɛntɪkeɪt/      ([Formal] 認証する)             The museum authenticated the painting.
-  - `authentication` /ɔˌθɛntɪˈkeɪʃən/ ([Formal] 認証)               Two-factor authentication is secure.
-- `certify` /ˈsɜrtɪfaɪ/             ([Formal] 証明する)             The doctor certified her fitness.
-  - `certification` /ˌsɜrtɪfɪˈkeɪʃən/ ([Formal] 証明、認定)          She received her certification.
-- `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
-  - `affirmation` /ˌæfərˈmeɪʃən/     ([Formal] 断言、肯定)           Her nod was an affirmation.
-- `ascertain` /ˌæsərˈteɪn/          ([Formal] 確かめる)             We need to ascertain the facts.
-- `attest` /əˈtɛst/                 ([Formal] 証明する)             I can attest to her honesty.
-  - `attestation` /ˌætɛˈsteɪʃən/     ([Formal] 証明、証言)           The attestation was notarized.
-- `prove` /pruv/                    ([Neutral] 証明する)            She proved her innocence.
-  - `proof` /pruf/                  ([Neutral] 証拠、証明)          Do you have proof of purchase?
-
+## 裏付ける、証拠をつかむ
+- ✅ `confirm` /kənˈfɜrm/           ([Neutral] 確認する)            Can you confirm the meeting time?
+    - `confirmatory` /kənˈfɜrmətɔri/([Formal] 確認の)               The test results were confirmatory.
+  - `prove` /pruv/                  ([Neutral] 証明する)            She proved her innocence.
+  - `verify` /ˈvɛrɪfaɪ/             ([Neutral] 確認する)            Please verify your email address.
+    - `verifiable` /ˈvɛrɪfaɪəbəl/   ([Formal] 検証可能な)           The claim is easily verifiable.
+  - ✅ `support` /səˈpɔːrt/         ([Neutral] 裏付ける、支持する)  The data supports our theory.
+    - `supportive` /səˈpɔːrtɪv/     ([Neutral] 支持する、裏付ける)  The evidence is supportive of our claim.
+  - `back up` /bæk ʌp/              ([Neutral] 裏付ける、支持する)  Can you back up your statement?
+  - `validate` /ˈvælɪdeɪt/          ([Neutral] 検証する)            The experiment validated our hypothesis.
+  - `establish` /ɪˈstæblɪʃ/         ([Neutral] 確立する、証明する)  We need to establish the facts.
+  - `demonstrate` /ˈdemənstreɪt/    ([Neutral] 証明する、示す)      The results demonstrate our success.
+  - `substantiate` /səbˈstænʃieɪt/  ([Formal] 実証する)             He failed to substantiate his claims.
+  - `corroborate` /kəˈrɑbəreɪt/     ([Writing] 裏付ける)            The evidence was corroborated by two witnesses.
+    - `corroboration`               ([Writing] 裏付け)              We need further corroboration of the facts.
+    - `corroborative` /kəˈrɑbərətɪv/([Writing] 裏付けとなる)        The corroborative evidence was compelling.
+  - `authenticate` /ɔˈθɛntɪkeɪt/    ([Formal] 認証する)             The museum authenticated the painting.
+  - `certify` /ˈsɜrtɪfaɪ/           ([Formal] 証明する)             The doctor certified her fitness.
+  - `bear out` /beər aʊt/           ([Neutral] 裏付ける、証明する)  The facts bear out her story.
+  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Neutral] 強化する、裏付ける)  This reinforces our argument.
+  - `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
+  - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
+  - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
+  - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
+    - `attestation` /ˌætɛˈsteɪʃən/  ([Formal] 証明、証言)           The attestation was notarized.

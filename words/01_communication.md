@@ -148,6 +148,9 @@
     - `debunking` /dɪˈbʌŋkɪŋ/       ([Neutral] 論破、暴露)          The debunking of myths is important.
     - `debunked` /dɪˈbʌŋkt/         ([Neutral] 論破された)          That theory has been thoroughly debunked.
 
+- `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
+  - `affirmation` /ˌæfərˈmeɪʃən/     ([Formal] 断言、肯定)           Her nod was an affirmation.
+
 ## Request
 - ✅ `ask` /æsk/                    ([Neutral] 頼む、尋ねる)        Can I ask you a favor?
   - `request` /rɪˈkwest/            ([Neutral] 要請する、頼む)      I request your assistance.
