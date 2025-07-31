@@ -1,6 +1,6 @@
 # Work
 
-## PHASE
+## 段階
 - ✅ `first` /fɜːrst/               ([Neutral] 最初の、第一の)      First, we need to analyze the requirements.
   - `initial` /ɪˈnɪʃəl/             ([Neutral] 最初の、初期の)      The initial design needs some adjustments.
   - `early` /ˈɜːrli/                ([Neutral] 早期の、初期の)      We're still in the early stages of development.
@@ -29,7 +29,119 @@
   - `trial` /ˈtraɪəl/               ([Neutral] 試験、試用)          We're starting a trial period next week.
   - `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.
 
-## DECISION
+## 取り組む / 着手する (タスクとして)
+- ✅ `work on` /wɜːrk ɑːn/          ([Neutral] 取り組む)            I'm working on the report now.
+  - ✅ `start working on`           ([Neutral] 着手する、始める)    Let's start working on the project.
+  - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
+  - `be going to work on`           ([Neutral] 作業する予定である)  I'm going to work on this tomorrow.
+  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
+    - `begin` /bɪˈɡɪn/              ([Formal] 始める、開始する)     Let's begin with the first task.
+- ✅ `get started on`               ([Neutral] 着手する、始める)    Let's get started on the analysis.
+- ✅ `tackle` /ˈtækəl/              ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
+- `get on with` /ɡet ɑːn wɪð/       ([Casual] 取り掛かる、進める)   Let's get on with the task.
+- ✅ `dive into` /daɪv ˈɪntuː/      ([Casual] 飛び込む、没頭する)   Let's dive into the details.
+  - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] 始める、着手する)    She launched into her presentation.
+  - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] 飛び込む、着手する)   Let's jump into the discussion.
+- `embark on` /ɪmˈbɑːrk ɑːn/        ([Formal] 着手する、乗り出す)   We're embarking on a new project.
+- `take up` /teɪk ʌp/               ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
+- `set about` /set əˈbaʊt/          ([Neutral] 取り掛かる 着手する) Let's set about solving this.
+- `kick off` /kɪk ɔːf/              ([Casual] 開始する、始める)     We'll kick off the project next week.
+- `get down to` /ɡet daʊn tuː/      ([Neutral] 本格的に取り組む)    Let's get down to business.
+- `set out to` /set aʊt tuː/        ([Neutral] 着手する、目指す)    We set out to improve efficiency.
+- `turn to` /tɜːrn tuː/             ([Neutral] 取りかかる、向かう)  Let's turn to the next agenda item.
+
+## 対処する (苦労が必要な感じがある)
+- ✅ `deal with` /diːl wɪð/         ([Neutral] 対処する、扱う)      We need to deal with this issue.
+- ✅ `handle` /ˈhændəl/             ([Neutral] 扱う、処理する)      Can you handle this task?
+- ✅ `address` /əˈdres/             ([Formal] 対処する、取り組む)   We must address these concerns.
+- ✅ `manage` /ˈmænɪdʒ/             ([Neutral] 管理する、対処する)  I can manage this situation.
+- ✅ `take care of` /teɪk keər əv/  ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
+- ✅ `cope with` /koʊp wɪð/         ([Neutral] 対処する、対応する)  How do you cope with stress?
+- ✅ `tackle` /ˈtækəl/              ([Neutral] 取り組む 立ち向かう) Let's tackle this problem head-on.
+- `resolve` /rɪˈzɑːlv/              ([Formal] 解決する、解決する)   We need to resolve this conflict.
+- `sort out` /sɔːrt aʊt/            ([Casual] 整理する、解決する)   I'll sort out this mess.
+- ✅ `work through` /wɜːrk θruː/    ([Neutral] やり抜く、解決する)  We need to work through these issues.
+- `approach` /əˈproʊtʃ/             ([Neutral] 取り組む、接近する)  How should we approach this problem?
+- `focus on` /ˈfoʊkəs ɑːn/          ([Neutral] 集中する 焦点を当て) Let's focus on the main problem.
+- `engage with` /ɪnˈɡeɪdʒ wɪð/      ([Formal] 取り組む、関わる)     We need to engage with stakeholders.
+- `attend to` /əˈtend tuː/          ([Formal] 対処する、世話する)   I'll attend to this matter immediately.
+- `grapple with` /ˈɡræpəl wɪð/      ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
+- `wrestle with` /ˈresəl wɪð/       ([Neutral] 格闘する、苦心する)  I'm wrestling with this decision.
+- `confront` /kənˈfrʌnt/            ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
+- `see to` /siː tuː/                ([Neutral] 処理する 面倒を見る) I'll see to that right away.
+- `apply oneself to` /əˈplaɪ/       ([Formal] 専念する、取り組む)   He applied himself to the task.
+
+## 行動に移す
+- ✅ `carry out` /ˈkæri aʊt/        ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.
+  - `carry out a plan`              ([Neutral] 計画を実行する)      Let's carry out the marketing plan.
+  - `carry out research`            ([Neutral] 研究を実施する)      They carried out extensive research.
+- `execute` /ˈeksɪkjuːt/            ([Formal] 実行する、遂行する)   We need to execute the plan flawlessly.
+- `implement` /ˈɪmplɪment/          ([Formal] 実装する、実施する)   When will we implement these changes?
+- ✅ `put into practice`            ([Neutral] 実践する、実行する)  Let's put these ideas into practice.
+- ✅ `put into action`              ([Neutral] 行動に移す 実行する) It's time to put our strategy into action.
+- ✅ `follow through`               ([Neutral] 最後までやり抜く)    Make sure to follow through on your commitments.
+  - ✅ `follow through with`        ([Neutral] 最後までやり抜く)    We need to follow through with our plan.
+- `perform` /pərˈfɔːrm/             ([Neutral] 実行する、遂行する)  She performed the task well.
+- `conduct` /kənˈdʌkt/              ([Formal] 実施する、遂行する)   They conducted the experiment.
+  - `conduct a meeting`             ([Formal] 会議を開催する)       She conducted the meeting efficiently.
+  - `conduct research`              ([Formal] 研究を実施する)       We need to conduct market research.
+
+## 引き続き進める
+- ✅ `continue working on`          ([Neutral] 作業を続ける)        Let's continue working on this project.
+  - ✅ `continue` /kənˈtɪnjuː/      ([Neutral] 続ける、継続する)    Let's continue with the meeting.
+- ✅ `keep working on`              ([Neutral] 作業を続ける)        I'll keep working on the proposal.
+  - `keep going` /kiːp ˈɡoʊɪŋ/      ([Casual] 続ける、頑張る)       Just keep going, you're doing great!
+  - `keep on` /kiːp ɑːn/            ([Neutral] 続ける、継続する)    He'll keep on working until it's done.
+- `carry on with` /ˈkæri ɑːn wɪð/   ([Neutral] 続ける、継続する)    We'll carry on with the project despite the challenges.
+  - `carry on` /ˈkæri ɑːn/          ([Neutral] 続ける、継続する)    We'll carry on despite the setbacks.
+- ✅ `proceed with` /prəˈsiːd wɪð/  ([Formal] 進める、続行する)     Please proceed with the implementation.
+- `resume` /rɪˈzuːm/                ([Neutral] 再開する、続ける)    We'll resume work after lunch.
+- ✅ `go on with` /ɡoʊ ɑːn wɪð/     ([Casual] 続ける、進む)         Please go on with your presentation.
+- `stay on` /steɪ ɑːn/              ([Neutral] そのまま続ける)      I'll stay on this project until completion.
+  - `stay on track` /steɪ ɑːn træk/ ([Neutral] 軌道に乗り続ける)    Let's stay on track with our goals.
+- `pursue further`                  ([Formal] さらに追求する)       We should pursue this opportunity further.
+  - `pursue` /pərˈsuː/              ([Neutral] 追求する、進める)    We'll pursue this strategy.
+- `press on with` /pres ɑːn wɪð/    ([Neutral] 押し進む、続行する)  We must press on with the deadline approaching.
+  - `press on` /pres ɑːn/           ([Neutral] 押し進む、続行する)  We must press on to meet the deadline.
+- `go ahead` /ɡoʊ əˈhed/            ([Neutral] 先に進む、始める)    You can go ahead with the purchase.
+- `move along` /muːv əˈlɔːŋ/        ([Neutral] 進める、進行する)    The project is moving along nicely.
+- `push ahead` /pʊʃ əˈhed/          ([Neutral] 推し進める)          The CEO wants to push ahead with expansion.
+- `push forward` /pʊʃ ˈfɔːrwərd/    ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
+- `forge ahead` /fɔːrdʒ əˈhed/      ([Neutral] 突き進む)            We'll forge ahead with the new strategy.
+- `persist` /pərˈsɪst/              ([Formal] 固執する、続ける)     She'll persist with her research.
+  - `persistence` /pərˈsɪstəns/     ([Formal] 持続、粘り強さ)       Persistence is key to success.
+- `stay the course` /steɪ ðə kɔːrs/ ([Neutral] 最後まで続ける)      We must stay the course to succeed.
+- `make headway` /meɪk ˈhedweɪ/     ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
+- `gain ground` /ɡeɪn ɡraʊnd/       ([Neutral] 前進する 優勢になる) Our proposal is gaining ground with management.
+
+## 進捗させる
+- ✅ `make progress`                ([Neutral] 進捗する、前進する)  We're making progress on the project.
+- `get results` /ɡet rɪˈzʌlts/      ([Neutral] 結果を出す 成果を得) Our new strategy is getting results.
+- ✅ `achieve results`              ([Neutral] 結果を達成する)      The team achieved excellent results.
+  - `achievable results`            ([Neutral] 達成可能な結果)      Set achievable results for the quarter.
+- ✅ `deliver results`              ([Neutral] 結果を出す 成果提供) We need to deliver results quickly.
+  - `delivery of results`           ([Formal] 結果の提供)           The delivery of results exceeded expectations.
+- ✅ `move forward`                 ([Neutral] 前に進む、前進する)  Let's move forward with the plan.
+  - `forward movement`              ([Neutral] 前進、進歩)          We're seeing forward movement on this issue.
+- `make headway` /meɪk ˈhedweɪ/     ([Neutral] 進展する、前進する)  We're making headway on the problem.
+  - `significant headway`           ([Neutral] 大きな進展)          We've made significant headway this week.
+- `produce results`                 ([Formal] 結果を生み出す)       Our investment should produce results soon.
+  - `productive results`            ([Neutral] 生産的な結果)        The meeting had productive results.
+- `see progress` /siː ˈprɒɡres/     ([Neutral] 進捗が見える)        We're starting to see progress.
+  - `visible progress`              ([Neutral] 目に見える進捗)      There's visible progress in the project.
+- `advance` /ədˈvæns/               ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
+- `get ahead` /ɡet əˈhed/           ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
+- `come along` /kʌm əˈlɔːŋ/         ([Neutral] 進歩する、発展する)  Her skills are coming along well.
+
+
+
+- `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our goal.
+- `fulfill` /fʊlˈfɪl/             ([Formal] 履行する、実現する)   He fulfilled his promise.
+- `complete` /kəmˈpliːt/          ([Neutral] 完了する 完成させる) Complete the project by Friday.
+- `achieve` /əˈtʃiːv/             ([Neutral] 達成する 成し遂げる) They achieved their objectives.
+- `realize` /ˈriːəlaɪz/           ([Formal] 実現する、達成する)   We realized our vision.
+
+## 賛成する
 - ✅ `agree with` /əˈɡriː wɪð/      ([Neutral] ～に賛成する)        I agree with the decision.
   - ✅ `support` /səˈpɔːrt/         ([Neutral] 支持する、支援する)  I support your idea.
   - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The board approved the plan.
@@ -54,7 +166,37 @@
   - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
   - `give support to`               ([Neutral] 支援する)            We give our support to the project.
   - `lend support to`               ([Formal] 支援する、支持する)   I lend my support to the cause.
-- ✅ `go along with`                ([Casual] 同調する、従う)       I'll go along with the plan.
+
+## 従う
+- ✅ `follow` /ˈfɑːloʊ/             ([Neutral] 従う、続く)          Please follow the instructions.
+  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
+  - ✅ `go along with`              ([Casual] 同調する、従う)       I'll go along with the plan.
+  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
+  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
+    - `adherence` /ædˈhɪrəns/       ([Formal] 遵守、忠実)           Adherence to policy is required.
+  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
+    - `obedience` /oʊˈbiːdiəns/     ([Formal] 服従、遵守)           Obedience to rules ensures safety.
+    - `obedient` /oʊˈbiːdiənt/      ([Neutral] 従順な、素直な)      She's an obedient employee.
+  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
+    - `conformance` /kənˈfɔːrməns/  ([Formal] 適合、遵守)           Conformance testing is complete.
+    - `conformity` /kənˈfɔːrmɪti/   ([Formal] 適合性、遵守)         Conformity with regulations is essential.
+  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
+  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
+    - `observance` /əbˈzɜːrvəns/    ([Formal] 遵守、守ること)       Observance of protocols is critical.
+  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
+  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
+  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
+  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
+    - `deference` /ˈdefərəns/       ([Formal] 敬意、尊重)           He showed deference to his superior.
+  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
+    - `submission` /səbˈmɪʃən/      ([Formal] 服従、提出)           Submission to authority is expected.
+  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
+  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
+  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
+  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
+
+## 選ぶ
 - ✅ `choose` /tʃuːz/               ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
   - `pick` /pɪk/                    ([Casual] 選ぶ、取る)           Pick whichever one you like.
   - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the red one, please.
@@ -65,82 +207,6 @@
   - `opt for` /ɑːpt fɔːr/           ([Formal] 選択する、決める)     We opted for the premium package.
   - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
   - `stick with` /stɪk wɪð/         ([Casual] 続ける、固執する)     Let's stick with the original plan.
-
-## 取り組む
-- ✅ `work on` /wɜːrk ɑːn/          ([Neutral] 取り組む)            I'm working on the report now.
-  - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
-  - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
-  - ✅ `tackle` /ˈtækəl/            ([Neutral] 取り組む)            Let's tackle the hardest part first.
-  - ✅ `address` /əˈdres/           ([Formal] 対処する、取り組む)   We must address these concerns.
-  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
-  - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する)            Let's focus on the main problem.
-  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We need to engage with stakeholders.
-  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'll attend to this matter immediately.
-  - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
-  - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this decision.
-  - `turn to` /tɜːrn tuː/           ([Neutral] 取り組む、向かう)    Let's turn to the next item.
-  - `see to` /siː tuː/              ([Neutral] 処理する、面倒を見る)I'll see to that right away.
-  - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He applied himself to the task.
-
-## 着手する
-- ✅ `get on with` /ɡet ɑːn wɪð/    ([Casual] 取り掛かる、進める)   Let's get on with the task.
-  - ✅ `dive into` /daɪv ˈɪntuː/    ([Casual] 飛び込む、没頭する)   Let's dive into the details.
-  - `take up` /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
-  - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] 着手する、乗り出す)   We're embarking on a new project.
-  - `set about` /set əˈbaʊt/        ([Neutral] 取り掛かる)          Let's set about solving this.
-
-## 遂行する
-- ✅ `do` /duː/                     ([Casual] する、実行する)       Just do it!
-  - ✅ `perform` /pərˈfɔːrm/        ([Neutral] 実行する、遂行する)  She performed the task well.
-  - ✅ `carry out` /ˈkæri aʊt/      ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.
-  - `conduct` /kənˈdʌkt/            ([Formal] 実施する、遂行する)   They conducted the experiment.
-  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our goal.
-  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、遂行する)   We need to execute the plan flawlessly.
-  - `implement` /ˈɪmplɪment/        ([Formal] 実装する、実施する)   When will we implement these changes?
-  - `fulfill` /fʊlˈfɪl/             ([Formal] 履行する、実現する)   He fulfilled his promise.
-  - `complete` /kəmˈpliːt/          ([Neutral] 完了する 完成させる) Complete the project by Friday.
-  - `achieve` /əˈtʃiːv/             ([Neutral] 達成する 成し遂げる) They achieved their objectives.
-  - `realize` /ˈriːəlaɪz/           ([Formal] 実現する、達成する)   We realized our vision.
-
-## 引き続き進める
-- ✅ `continue` /kənˈtɪnjuː/        ([Neutral] 続ける、継続する)    Let's continue with the meeting.
-  - ✅ `go on` /ɡoʊ ɑːn/            ([Neutral] 続ける、進む)        Please go on with your presentation.
-  - ✅ `keep going` /kiːp ˈɡoʊɪŋ/   ([Casual] 続ける、頑張る)       Just keep going, you're doing great!
-  - ✅ `carry on` /ˈkæri ɑːn/       ([Neutral] 続ける、継続する)    We'll carry on despite the challenges.
-  - `go ahead` /ɡoʊ əˈhed/          ([Neutral] 先に進む、始める)    You can go ahead with the purchase.
-  - `keep on` /kiːp ɑːn/            ([Neutral] 続ける、継続する)    He'll keep on working until it's done.
-  - `proceed` /prəˈsiːd/            ([Formal] 進める、続行する)     Please proceed with the presentation.
-  - `resume` /rɪˈzuːm/              ([Neutral] 再開する)            We'll resume work after lunch.
-  - `move along` /muːv əˈlɔːŋ/      ([Neutral] 進める、進行する)    The project is moving along nicely.
-  - `press on` /pres ɑːn/           ([Neutral] 押し進む、続行する)  We must press on to meet the deadline.
-  - `push ahead` /pʊʃ əˈhed/        ([Neutral] 推し進める)          The CEO wants to push ahead with expansion.
-  - `push forward` /pʊʃ ˈfɔːrwærd/  ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
-  - `stay on track` /steɪ ɑːn træk/ ([Neutral] 軌道に乗り続ける)    Let's stay on track with our goals.
-  - `forge ahead` /fɔːrdʒ əˈhed/    ([Neutral] 突き進む)            We'll forge ahead with the new strategy.
-  - `persist` /pərˈsɪst/            ([Formal] 固執する、続ける)     She'll persist with her research.
-  - `stay the course`               ([Neutral] 最後まで続ける)      We must stay the course to succeed.
-  - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
-  - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 前進する、優勢になる)Our proposal is gaining ground with management.
-
-## 進捗させる
-- ✅ `make progress`                ([Neutral] 前進する)            We're making progress on the project.
-  - ✅ `move forward`               ([Neutral] 前に進む)            Let's move forward with the plan.
-  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、向上する)  We're working to improve our processes.
-  - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
-  - `progress` /prəˈɡres/           ([Neutral] 進歩する、前進する)  The project is progressing well.
-  - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
-  - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
-  - `proceed` /prəˈsiːd/            ([Formal] 進める、続行する)     We'll proceed with the implementation.
-  - `gain traction` /ɡeɪn ˈtrækʃən/ ([Neutral] 勢いを得る)          Our initiative is gaining traction.
-  - `build momentum`                ([Neutral] 勢いをつける)        We're building momentum on this project.
-  - `move ahead` /muːv əˈhed/       ([Neutral] 前進する)            The team is moving ahead with the plans.
-  - `push forward` /pʊʃ ˈfɔːrwərd/  ([Neutral] 押し進める)          We need to push forward with our goals.
-  - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 前進する、進展する)  We're making headway on the problem.
-  - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 優勢になる、前進する)The new approach is gaining ground.
-  - `develop` /dɪˈveləp/            ([Neutral] 発展する、開発する)  The project is developing nicely.
-  - `evolve` /ɪˈvɑːlv/              ([Neutral] 進化する、発展する)  Our strategy continues to evolve.
-  - `make strides` /meɪk straɪdz/   ([Neutral] 大きく前進する)      We're making strides in our research.
-  - `breakthrough` /ˈbreɪkθruː/     ([Neutral] 突破する、打開する)  We had a breakthrough yesterday.
 
 ## 終える
 - ✅ `finish` /ˈfɪnɪʃ/              ([Neutral] 終える、完成させる)  I need to finish this report.
@@ -278,3 +344,9 @@
   - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
     - `attestation` /ˌætɛˈsteɪʃən/  ([Formal] 証明、証言)           The attestation was notarized.
+
+
+
+And building `requires` understanding why we keep falling into these patterns `in the first place`.
+
+We`'ve been sold the idea that` love is something magical you `stumble into` like a soulmate who instantly `gets you`.

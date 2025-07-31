@@ -2,6 +2,9 @@
 
 ## Words
 
+
+Real love, in my opinion, isn't `something you` find. It's `something you` build.
+
 ### 色々
 - `and all that` /ænd ɔːl ðæt/      ([Casual] などなど、~とか)      He likes movies, books, and all that.
 - `and the like` /ænd ðə laɪk/      ([Neutral] そういうもの)        We need books, papers, and the like.

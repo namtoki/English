@@ -43,4 +43,7 @@ This category contains words related to time, timing, duration, and chronologica
 - `fix a time` /fɪks ə taɪm/          ([Neutral] 時間を決める)           Let's fix a time for our next meeting.
 - `time slot` /taɪm slɑt/             ([Neutral] 時間枠)                 The TV show has a prime time slot.
 
-<!-- Add vocabulary entries here using the format from format.md -->
+`Till recently`, I personally didn't even believe in love in our modern age. But I disagree now.
+
+`Often times`, people don't realize how their words affect others.
+

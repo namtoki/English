@@ -238,3 +238,5 @@ This category contains words related to granting permission, authorization, and 
     - `bolstering` /ˈboʊlstərɪŋ/    ([Formal] 強化、支援)           The bolstering of defenses was necessary.
   - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
     - `reinforcement` /ˌriːɪnˈfɔːrsmənt/ ([Formal] 強化、補強)      We need reinforcement of the rules.
+
+Let's `get together with` the old college friends this weekend.
