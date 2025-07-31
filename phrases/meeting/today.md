@@ -6,6 +6,10 @@
 
 Since we're already communicating with the UX team on Teams and Figma, I think we can skip the explanation here.
 
+I think the key thing is to present what benefits there are in syncing data between PerL2 Standard and PerL2 Pro, and specifically what kind of data we want to sync. That's what I'd like to know first.
+Technically, we know that if we properly sync data between Server/App/Buds, there shouldn't be any issues, but it does add some complexity and there's a chance we could introduce bugs, so we need to weigh that against the benefits.
+What specific data are we looking to sync, and what's the user value proposition here?
+
 #### 全体
 This page `explains` how to achieve synchronization of buds control data between `multiple` pairs of buds,
 particularly between PerL2 Standard and PerL2 Pro.
