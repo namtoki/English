@@ -1,5 +1,17 @@
 # Money
 
+## Savings and Reserves
+- ✅ `cash reserves`                ([Formal] 現金準備金)           The company maintains substantial cash reserves.
+  - `reserve` /rɪˈzɜːrv/            ([Neutral] 蓄え、準備金)        We need to keep some money in reserve.
+  - `reserves` /rɪˈzɜːrvz/          ([Neutral] 準備金、蓄え)        The bank's reserves are adequate.
+  - `cash` /kæʃ/                    ([Neutral] 現金)                Do you have enough cash?
+- `savings` /ˈseɪvɪŋz/              ([Neutral] 貯金)                She put her savings in the bank.
+  - `save` /seɪv/                   ([Neutral] 貯める)              I save money every month.
+  - `save up` /seɪv ʌp/             ([Neutral] 貯めて用意する)      I'm saving up for a vacation.
+- `emergency fund` /ɪˈmɜːrdʒənsi/   ([Neutral] 緊急資金)            Build an emergency fund for unexpected expenses.
+- `nest egg` /nest eɡ/              ([Casual] 蓄え、へそくり)       She has a nice nest egg for retirement.
+- `rainy day fund` /ˈreɪni deɪ/     ([Casual] いざという時の蓄え)   Keep some money for a rainy day fund.
+
 ## Income
 - `money` /ˈmʌni/                   ([Neutral] お金)                I need to save more money.
 - `pay` /peɪ/                       ([Neutral] 給料、支払う)        The pay is good at this company.

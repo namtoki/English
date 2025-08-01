@@ -1,6 +1,25 @@
-# Permission and Authority
+# Affect
 
-This category contains words related to granting permission, authorization, and official approval.
+## 左右する・決定づける (使用頻度順)
+- ✅ `influence` /ˈɪnfluəns/        ([Neutral] 影響する、左右する)  Weather influences our mood.
+- ✅ `affect` /əˈfekt/              ([Neutral] 影響する、作用する)  The changes will affect everyone.
+- ✅ `determine` /dɪˈtɜːrmɪn/       ([Neutral] 決定する、決める)    Several factors determine the outcome.
+- `drive` /draɪv/                   ([Neutral] 駆動する、左右する)  Competition drives innovation.
+- `shape` /ʃeɪp/                    ([Neutral] 形作る、左右する)    Experiences shape our personality.
+- `control` /kənˈtroʊl/             ([Neutral] 支配する、制御する)  Who controls the budget?
+- `impact` /ˈɪmpækt/                ([Neutral] 影響する、衝撃)      This will impact our profits.
+- ✅ `dictate` /dɪkˈteɪt/           ([Neutral] 左右する、決定する)  Market forces dictate the price.
+- `guide` /ɡaɪd/                    ([Neutral] 導く、指導する)      Let principles guide your actions.
+- `direct` /dəˈrekt/                ([Neutral] 指示する、導く)      She directs the operations.
+- `govern` /ˈɡʌvərn/                ([Formal] 支配する、左右する)   Supply and demand govern prices.
+- `sway` /sweɪ/                     ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
+  - `swaying` /ˈsweɪɪŋ/             ([Neutral] 揺れる、影響する)    Public opinion is swaying toward reform.
+- `steer` /stɪr/                    ([Neutral] 導く、左右する)      He steered the conversation away.
+  - `steering` /ˈstɪrɪŋ/            ([Neutral] 操縦、指導)          The steering committee met yesterday.
+- `rule` /ruːl/                     ([Neutral] 支配する、統治する)  Logic should rule our decisions.
+  - `ruling` /ˈruːlɪŋ/              ([Neutral] 支配的な、判決)      The ruling party lost support.
+- `regulate` /ˈreɡjəleɪt/           ([Formal] 規制する、調整する)   The government regulates industries.
+- `dominate` /ˈdɑːmɪneɪt/           ([Neutral] 支配する、左右する)  One company dominates the market.
 
 ## Words
 

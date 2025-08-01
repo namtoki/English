@@ -371,3 +371,23 @@
 - `presumption` /prɪˈzʌmpʃən/          ([Formal] 思い上がり、推定)      His presumption annoyed me.
 - `insolence` /ˈɪnsələns/              ([Formal] 横柄さ、無礼)          I won't tolerate such insolence.
 - `temerity` /təˈmerəti/               ([Writing] 無謀な大胆さ)          He had the temerity to disagree.
+
+## ついていない・運が悪い
+- ✅ `I can't catch a break`        ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
+- `Nothing's going my way`          ([Casual] 何もうまくいかない)   Nothing's going my way today.
+- `I'm having bad luck`             ([Neutral] 運が悪い)            I'm having bad luck with my car.
+- `Everything's going wrong`        ([Neutral] 全て悪い方向)        Everything's going wrong lately.
+- `I can't get anything right`      ([Casual] 何も上手くできない)   I can't get anything right today.
+- `It's not my day`                 ([Casual] ついてない日)         It's just not my day.
+- `Things aren't working out for me`([Neutral] うまくいかない)      Things aren't working out for me.
+- `I'm cursed`                      ([Casual] 呪われている)         I feel like I'm cursed.
+  - `I'm jinxed`                    ([Casual] 呪われている)         I must be jinxed or something.
+  - `I'm snake-bitten`              ([Casual] ついていない)         I've been snake-bitten all week.
+  - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
+  - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
+- `Murphy's Law is in full effect`  ([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
+- `Bad luck follows me`             ([Neutral] 悪運がついて回る)    Bad luck follows me everywhere.
+- `The odds are against me`         ([Neutral] 分が悪い)            The odds are always against me.
+- `Lady Luck has abandoned me`      ([Writing] 幸運の女神に見放された) Lady Luck has completely abandoned me.
+- `Fortune isn't smiling on me`     ([Writing] 運命が微笑まない)    Fortune isn't smiling on me today.
+- `I'm having a streak of bad luck` ([Neutral] 不運が続いている)    I'm having a real streak of bad luck.

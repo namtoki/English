@@ -1,5 +1,20 @@
 # Work
 
+## 了解です・やっておきます
+- ✅ `Will do` /wɪl duː/            ([Casual] やっておきます)       "Can you send me the report?" "Will do."
+  - `Got it` /ɡɑt ɪt/               ([Casual] 了解です)             "Please finish by 5." "Got it."
+  - `On it` /ɑn ɪt/                 ([Casual] 取り掛かります)       "We need this ASAP." "On it."
+  - `Sure thing` /ʃʊr θɪŋ/          ([Casual] もちろんです)         "Can you help me?" "Sure thing."
+  - `You got it` /juː ɡɑt ɪt/       ([Casual] 了解です)             "Close the door, please." "You got it."
+- ✅ `I'll take care of it`         ([Neutral] 私が対処します)      "Who's handling this?" "I'll take care of it."
+  - `I'll handle it`                ([Neutral] 私が処理します)      "This needs attention." "I'll handle it."
+  - `I'll get right on it`          ([Neutral] すぐ取り掛かります)  "This is urgent." "I'll get right on it."
+  - `I'm on it`                     ([Neutral] 取り掛かっています)  "Can you fix this?" "I'm on it."
+  - `I'll see to it`                ([Neutral] 私が面倒を見ます)    "Make sure it's done." "I'll see to it."
+- ✅ `Understood` /ˌʌndərˈstʊd/     ([Formal] 了解しました)         "Please prioritize this." "Understood."
+  - `Consider it done`              ([Formal] お任せください)       "I need this by tomorrow." "Consider it done."
+  - `I'll make sure it gets done`   ([Formal] 必ず実行します)       "This is critical." "I'll make sure it gets done."
+
 ## 段階
 - ✅ `first` /fɜːrst/               ([Neutral] 最初の、第一の)      First, we need to analyze the requirements.
   - `initial` /ɪˈnɪʃəl/             ([Neutral] 最初の、初期の)      The initial design needs some adjustments.
@@ -356,8 +371,6 @@
   - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
     - `attestation` /ˌætɛˈsteɪʃən/  ([Formal] 証明、証言)           The attestation was notarized.
-
-
 
 And building `requires` understanding why we keep falling into these patterns `in the first place`.
 
