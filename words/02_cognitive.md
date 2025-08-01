@@ -126,18 +126,15 @@
     - `differentiation`             ([Formal] 差別化、区別)         Product differentiation is key.
 
 ## 忘れないでおく・心に留める
-- ✅ `keep in mind` /kiːp ɪn maɪnd/ ([Neutral] 心に留める)          Keep in mind that he's new here.
+- ✅ `keep in mind`                 ([Neutral] 心に留める)          Keep in mind that he's new here.
+  - ✅ `bear in mind`               ([Neutral] 心に留める)          Bear in mind the deadline.
+  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
 - ✅ `remember` /rɪˈmembər/         ([Neutral] 忘れないでおく)      Remember to lock the door.
-- ✅ `bear in mind` /ber ɪn maɪnd/  ([Neutral] 心に留める)          Bear in mind the deadline.
 - `don't forget` /doʊnt fərˈɡet/    ([Casual] 忘れないで)           Don't forget to call me.
 - `make a note of` /meɪk ə noʊt/    ([Neutral] メモしておく)        Make a note of this address.
 - `take note of` /teɪk noʊt əv/     ([Neutral] 注意しておく)        Take note of what he says.
 - `be mindful of` /biː ˈmaɪndfəl/   ([Formal] 気をつける)           Be mindful of the time limit.
-  - `mindful` /ˈmaɪndfəl/           ([Formal] 気をつけている)       She's mindful of others' feelings.
-  - `mindfulness` /ˈmaɪndfəlnəs/    ([Formal] 注意深さ)             Mindfulness meditation helps focus.
-- `hold in mind` /hoʊld ɪn maɪnd/   ([Neutral] 心に留める)          Hold this advice in mind.
 - `retain` /rɪˈteɪn/                ([Formal] 覚えておく、保持する) I'll retain this information.
-  - `retention` /rɪˈtenʃən/         ([Formal] 記憶、保持)           Memory retention improves with practice.
 - `commit to memory` /kəˈmɪt/       ([Formal] 記憶にとどめる)       She committed the poem to memory.
 - `store away` /stɔːr əˈweɪ/        ([Neutral] 記憶にしまう)        I stored that fact away for later.
 - `file away` /faɪl əˈweɪ/          ([Neutral] 記録しておく)        He filed the information away.
@@ -145,10 +142,7 @@
 - `keep track of` /kiːp træk əv/    ([Neutral] 記録しておく)        Keep track of your expenses.
 - `stay aware of` /steɪ əˈwer əv/   ([Neutral] 意識しておく)        Stay aware of the changing market.
 - `be conscious of` /ˈkɑːnʃəs əv/   ([Formal] 意識する)             Be conscious of your posture.
-  - `conscious` /ˈkɑːnʃəs/          ([Formal] 意識している)         She's conscious of her appearance.
-  - `consciousness` /ˈkɑːnʃəsnəs/   ([Formal] 意識)                 He lost consciousness briefly.
 - `lodge in memory` /lɑːdʒ ɪn/      ([Writing] 記憶に留める)        The image lodged in her memory.
 - `etch in mind` /etʃ ɪn maɪnd/     ([Writing] 心に刻む)            The experience etched itself in his mind.
 - `engrave on memory` /ɪnˈɡreɪv/    ([Writing] 記憶に刻む)          The moment was engraved on her memory.
 - `treasure` /ˈtreʒər/              ([Neutral] 大切にする)          I treasure those memories.
-  - `treasured` /ˈtreʒərd/          ([Neutral] 大切にされた)        These are treasured moments.

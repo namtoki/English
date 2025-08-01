@@ -372,6 +372,26 @@
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
     - `attestation` /ˌætɛˈsteɪʃən/  ([Formal] 証明、証言)           The attestation was notarized.
 
+## スケジューリングする
+- ✅ `schedule` /ˈskedʒuːl/         ([Neutral] スケジュールする)    Let's schedule a meeting for tomorrow.
+- ✅ `set up` /set ʌp/              ([Neutral] 設定する、手配する)  I'll set up a meeting with the team.
+- `book` /bʊk/                      ([Neutral] 予約する 予定を入る) Can you book a conference room?
+- `arrange` /əˈreɪndʒ/              ([Neutral] 手配する、調整する)  I'll arrange a time that works for everyone.
+- `plan` /plæn/                     ([Neutral] 計画する、予定する)  Let's plan the project timeline.
+- `organize` /ˈɔːrɡənaɪz/           ([Neutral] 準備する、手配する)  She organized the team retreat.
+- `coordinate` /koʊˈɔːrdɪneɪt/      ([Neutral] 調整する、手配する)  I'll coordinate with all departments.
+- `fix` /fɪks/                      ([Casual] 決める、設定する)     Let's fix a time for our next meeting.
+- ✅ `slot in` /slɑːt ɪn/           ([Neutral] 枠に入れる 調整する) Can we slot this meeting in tomorrow?
+  - ✅ `slot for` /slɑːt fɔːr/      ([Neutral] ~の枠を設ける)       I'll slot for 30 minutes to discuss this.
+- `pencil in` /ˈpensəl ɪn/          ([Casual] 仮に予定を入れる)     Let me pencil you in for 3 PM.
+- `block out` /blɑːk aʊt/           ([Neutral] 時間をブロックする)  I'll block out time in my calendar.
+- `set aside` /set əˈsaɪd/          ([Neutral] 時間を取っておく)    Let's set aside time for planning.
+- `reserve` /rɪˈzɜːrv/              ([Neutral] 予約する、確保する)  Please reserve time for the presentation.
+- `allocate` /ˈæləkeɪt/             ([Formal] 割り当てる、配分する) We need to allocate time for each task.
+- `assign` /əˈsaɪn/                 ([Neutral] 割り当てる、指定する)Let's assign specific time slots.
+- `line up` /laɪn ʌp/               ([Casual] 並べる、手配する)     I'll line up meetings for next week.
+- `put together` /pʊt təˈɡeðər/     ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
+
 And building `requires` understanding why we keep falling into these patterns `in the first place`.
 
 We`'ve been sold the idea that` love is something magical you `stumble into` like a soulmate who instantly `gets you`.

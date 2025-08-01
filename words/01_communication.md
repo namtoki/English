@@ -1,5 +1,13 @@
 # Communication
 
+## 喋る
+- `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
+  - `saying` /ˈseɪɪŋ/               ([Neutral] ことわざ、格言)      There's an old saying about that.
+- `speak` /spiːk/                   ([Neutral] 話す、演説する)      May I speak with you privately?
+- `talk` /tɔːk/                     ([Neutral] 話す、話し合う)      We need to talk about this.
+- ✅ `get at` /ɡet æt/              ([Casual] 言おうとする)         What are you getting at?
+- `drive at` /draɪv æt/             ([Casual] 言おうとする)         I see what you're driving at.
+
 ## 伝える
 - ✅ `let know` /let noʊ/           ([Neutral] 知らせる)            Let me know when you arrive.
 - `inform` /ɪnˈfɔːrm/               ([Formal] 知らせる、通知する)   Please inform me of any changes.
@@ -24,10 +32,10 @@
 - ✅ `break down` /breɪk daʊn/      ([Neutral] 分かりやすく説明す)  Can you break it down for me?
 - ✅ `fill in` /fɪl ɪn/             ([Neutral] 詳しく情報提供する)  Please fill me in on what happened.
   - `fill-in` /ˈfɪl ɪn/             ([Neutral] 代役、穴埋め)        He's just a fill-in for today.
-- ✅ `give an update` /ˈʌpdeɪt/     ([Neutral] 最新情報を伝える)    Give me an update.
+- `give an update` /ˈʌpdeɪt/        ([Neutral] 最新情報を伝える)    Give me an update.
 - ✅ `bring up to speed`            ([Neutral] 最新情報を知らせる)  Can you bring me up to speed?
-- ✅ `clue in` /kluː ɪn/            ([Casual] 事情を教える)         Clue me in on what's happening.
-- ✅ `put in the picture`           ([Formal] 状況を説明する)       Let me put you in the picture.
+- `clue in` /kluː ɪn/               ([Casual] 事情を教える)         Clue me in on what's happening.
+- `put in the picture`              ([Formal] 状況を説明する)       Let me put you in the picture.
 - `describe` /dɪˈskraɪb/            ([Neutral] 描写する、説明する)  Can you describe what happened?
 - `clarify` /ˈklærɪfaɪ/             ([Neutral] 明確にする)          Can you clarify that point?
 - `outline` /ˈaʊtlaɪn/              ([Neutral] 概要を説明する)      Let me outline the plan.
@@ -35,79 +43,115 @@
 - `illustrate` /ˈɪləstreɪt/         ([Neutral] 説明する、例証する)  This example illustrates my point.
 - `demonstrate` /ˈdemənstreɪt/      ([Neutral] 実演して説明する)    Let me demonstrate how it works.
 
-## 共有する
-- ✅ `share` /ʃɛər/                 ([Neutral] 共有する 分かち合う) Let me share some news with you.
-- `announce` /əˈnaʊns/              ([Neutral] 発表する、公表する)  They announced the winner.
-- `disseminate` /dɪˈsemɪneɪt/       ([Writing] 普及する、広める)    They disseminated the information widely.
-  - `dissemination`                 ([Writing] 普及、配布)          The dissemination of research findings~~
+## 連絡する
+- `contact` /ˈkɑːntækt/             ([Neutral] 連絡する)            I'll contact you later.
+- `get in touch` /ɡet ɪn tʌtʃ/      ([Neutral] 連絡を取る)          Let's get in touch soon.
+  - ✅ `touch base` /tʌtʃ beɪs/     ([Neutral] 連絡を取る、報告)    Let's touch base next week.
+- `reach out` /riːtʃ aʊt/           ([Neutral] 連絡を取る)          I'll reach out to them.
+- `hit up` /hɪt ʌp/                 ([Slang] 連絡する)              Hit me up later.
+- `drop a line` /drɑːp ə laɪn/      ([Informal] 一報入れる)         Drop me a line sometime.
+- ✅ `get back to` /ɡet bæk tuː/    ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
+- `get hold of` /ɡet hoʊld əv/      ([Neutral] 連絡を取る)          I couldn't get hold of him.
+- `get ahold of` /ɡet əˈhoʊld əv/   ([Informal] 連絡を取る)         Try to get ahold of her.
+- `be in contact`                   ([Neutral] 連絡を保つ)          We're still in contact.
+- `keep in touch` /kiːp ɪn tʌtʃ/    ([Neutral] 連絡を保つ)          Let's keep in touch.
+- `stay in touch` /steɪ ɪn tʌtʃ/    ([Neutral] 連絡を保つ)          Stay in touch!
+- `hear from` /hɪr frʌm/            ([Neutral] 連絡をもらう)        I hope to hear from you soon.
 
 ## 伝言
 - ✅ `pass on` /pæs ɑːn/            ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
 - `pass along` /pæs əˈlɔːŋ/         ([Neutral] 情報を伝える)        Please pass along the message.
 - `relay` /rɪˈleɪ/                  ([Neutral] 中継する、伝える)    Please relay this message to her.
 
-## 連絡する
-- ✅ `get back to` /ɡet bæk tuː/    ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
-- ✅ `touch base` /tʌtʃ beɪs/       ([Neutral] 連絡を取る、報告)    Let's touch base next week.
-- `communicate` /kəˈmjuːnɪkeɪt/     ([Neutral] 意思疎通する)        We communicate via email.
+## 共有する
+- ✅ `share` /ʃɛər/                 ([Neutral] 共有する 分かち合う) Let me share some news with you.
 
-## 喋る
-- ✅ `tell` /tel/                   ([Neutral] 話す、伝える)        Please tell me what happened.
-  - `telling` /ˈtelɪŋ/              ([Neutral] 効果的な、印象的な)  That was a telling comment.
-- `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
-  - `saying` /ˈseɪɪŋ/               ([Neutral] ことわざ、格言)      There's an old saying about that.
-- `speak` /spiːk/                   ([Neutral] 話す、演説する)      May I speak with you privately?
-- `talk` /tɔːk/                     ([Neutral] 話す、話し合う)      We need to talk about this.
-- ✅ `get at` /ɡet æt/              ([Casual] 言おうとする)         What are you getting at?
-- `drive at` /draɪv æt/             ([Casual] 言おうとする)         I see what you're driving at.
+## 提案する
+- ✅ `suggest` /səˈdʒest/           ([Neutral] 提案する、暗示する)  I suggest we leave early.
+  - `suggestive` /səˈdʒestɪv/       ([Writing] 連想させる、示唆的)  The painting has a suggestive quality.
+- `recommend` /ˌrekəˈmend/          ([Neutral] 推薦する、勧める)    I recommend this restaurant.
+- `advise` /ədˈvaɪz/                ([Neutral] 助言する、忠告する)  I advise you to be careful.
+- `propose` /prəˈpoʊz/              ([Formal] 提案する、申し込む)   She proposed a new plan.
+- `put forward` /pʊt ˈfɔːrwərd/     ([Formal] 提出する、提案する)   He put forward a new idea.
+- `float an idea`                   ([Casual] アイデアを提案する)   Let me float an idea by you.
+- `pitch` /pɪtʃ/                    ([Casual] 売り込む、提案する)   She pitched her idea to investors.
 
-## Suggestion
-- ✅ `suggest` /səˈdʒest/           ([Neutral] 提案する、暗示する)  His tone suggested he was angry.
-    - `suggestive` /səˈdʒestɪv/     ([Writing] 連想させる、示唆的)  The painting has a suggestive quality.
-  - `recommend` /ˌrekəˈmend/        ([Neutral] 推薦する、勧める)    I recommend this restaurant.
-  - `propose` /prəˈpoʊz/            ([Formal] 提案する、申し込む)   She proposed a new plan.
-  - `advise` /ədˈvaɪz/              ([Neutral] 助言する、忠告する)  I advise you to be careful.
+## 指定する
+- ✅ `point out` /pɔɪnt aʊt/        ([Neutral] 指摘する、示す)      Let me point out the main issues.
+- ✅ `specify` /ˈspesɪfaɪ/          ([Formal] 明記する、特定する)   Please specify your requirements.
+- `identify` /aɪˈdentɪfaɪ/          ([Neutral] 特定する、確認する)  Can you identify the problem?
 - ✅ `designate` /ˈdezɪɡneɪt/       ([Formal] 指定する、示す)       The area was designated as a park.
-    - `designation` /ˌdezɪɡˈneɪʃən/ ([Formal] 指定、名称)           His designation is senior manager.
-  - `specify` /ˈspesɪfaɪ/           ([Formal] 明記する、特定する)   Please specify your requirements.
-    - `specific` /spəˈsɪfɪk/        ([Neutral] 特定の、明確な)      Be more specific about what you need.
+  - `designation` /ˌdezɪɡˈneɪʃən/   ([Formal] 指定、名称)           His designation is senior manager.
+- `assign` /əˈsaɪn/                 ([Neutral] 割り当てる、指定する) We assigned tasks to each member.
+- `single out` /ˈsɪŋɡəl aʊt/        ([Neutral] 選び出す、特定する)  He was singled out for praise.
+- `pick out` /pɪk aʊt/              ([Casual] 選び出す、指定する)   Pick out your favorite color.
+
+## 注意する
 - ✅ `warn` /wɔːrn/                 ([Neutral] 警告する、注意する)  I warned him about the danger.
-  - `tell` /tel/                    ([Neutral] 注意す 言い聞かせる) I told him to be careful.
-  - `caution` /ˈkɔːʃən/             ([Neutral] 警告する、注意する)  The doctor cautioned against overwork.
-    - `cautionary` /ˈkɔːʃəneri/     ([Formal] 警告的な)             It's a cautionary tale.
-  - `alert` /əˈlɜːrt/               ([Neutral] 警戒させる、注意喚起) We alerted them to the problem.
-    - `alertness` /əˈlɜːrtnəs/      ([Neutral] 警戒心、注意深さ)    His alertness saved the day.
-  - `advise` /ədˈvaɪz/              ([Neutral] 忠告する、助言する)  I advise you to study harder.
-    - `advisory` /ədˈvaɪzəri/       ([Formal] 勧告的な、助言の)     They issued an advisory notice.
-  - `remind` /rɪˈmaɪnd/             ([Neutral] 思い出させる、注意)  Remind me to call tomorrow.
-  - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   Please notify us of any changes.
-  - `admonish` /ədˈmɑːnɪʃ/          ([Formal] 諭す、勧告する)       She admonished him to be more careful.
-    - `admonishment`                ([Formal] 訓戒、警告)           His admonishment was stern but fair.
-    - `admonition` /ˌædməˈnɪʃən/    ([Formal] 忠告、説諭、訓戒)     The judge gave a stern admonition.
-  - `forewarn` /fɔːrˈwɔːrn/         ([Formal] 前もって警告する)     We forewarned them of delays.
-    - `forewarning` /fɔːrˈwɔːrnɪŋ/  ([Formal] 事前警告)             They gave us no forewarning.
-  - `counsel` /ˈkaʊnsəl/            ([Formal] 助言する、相談する)   The lawyer counseled patience.
-  - `exhort` /ɪɡˈzɔːrt/             ([Writing] 熱心に勧める、諭す)  He exhorted them to try harder.
-    - `exhortation` /eɡzɔːrˈteɪʃən/ ([Writing] 勧告、激励)          His exhortation inspired the team.
+  - `warning` /ˈwɔːrnɪŋ/            ([Neutral] 警告)                Without warning, it started raining.
+- `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる、注意)  Remind me to call tomorrow.
+- `alert` /əˈlɜːrt/                 ([Neutral] 警戒させる、注意喚起) We alerted them to the problem.
+- `advise` /ədˈvaɪz/                ([Neutral] 忠告する、助言する)  I advise you to study harder.
+- `caution` /ˈkɔːʃən/               ([Neutral] 警告する、注意する)  The doctor cautioned against overwork.
+- `heads up` /hedz ʌp/              ([Casual] 注意して、気をつけて) Heads up! There's a step there.
+- ✅ `watch out` /wɑːtʃ aʊt/        ([Casual] 気をつけて)           Watch out for that car!
+- `look out` /lʊk aʊt/              ([Casual] 気をつけて)           Look out! It's slippery.
+- `be careful` /biː ˈkerfəl/        ([Neutral] 気をつけて)          Be careful with that glass.
+- `admonish` /ədˈmɑːnɪʃ/            ([Formal] 諭す、勧告する)       She admonished him to be more careful.
+  - `admonishment`                  ([Formal] 訓戒、警告)           His admonishment was stern but fair.
+  - `admonition` /ˌædməˈnɪʃən/      ([Formal] 忠告、説諭、訓戒)     The judge gave a stern admonition.
+- `forewarn` /fɔːrˈwɔːrn/           ([Formal] 前もって警告する)     We forewarned them of delays.
+  - `forewarning` /fɔːrˈwɔːrnɪŋ/    ([Formal] 事前警告)             They gave us no forewarning.
+- `counsel` /ˈkaʊnsəl/              ([Formal] 助言する、相談する)   The lawyer counseled patience.
+- `exhort` /ɪɡˈzɔːrt/               ([Writing] 熱心に勧める、諭す)  He exhorted them to try harder.
+  - `exhortation` /eɡzɔːrˈteɪʃən/   ([Writing] 勧告、激励)          His exhortation inspired the team.
+
+## 暗に示す
 - ✅ `indicate` /ˈɪndɪkeɪt/         ([Neutral] 示す、指し示す)      The data indicates a positive trend.
-  - `imply` /ɪmˈplaɪ/               ([Neutral] 暗に示す、含意する)  What are you trying to imply?
-    - `implicit` /ɪmˈplɪsɪt/        ([Writing] 暗黙の、暗示的な)    There was an implicit agreement.
-  - `hint` /hɪnt/                   ([Neutral] ほのめかす、ヒント)  She hinted that she might quit.
-    - `hinting` /ˈhɪntɪŋ/           ([Neutral] ほのめかし)          Stop hinting and just tell me.
-  - `signify` /ˈsɪɡnɪfaɪ/           ([Formal] 意味する、示す)       What does this symbol signify?
-  - `denote` /dɪˈnoʊt/              ([Formal] 示す、意味する)       The red light denotes danger.
-    - `denotation` /ˌdiːnoʊˈteɪʃən/ ([Writing] 表示、明示的意味)    The denotation of the word is clear.
-  - `intimate` /ˈɪntɪmeɪt/          ([Formal] それとなく知らせる)   He intimated his disapproval.
-    - `intimation` /ˌɪntɪˈmeɪʃən/   ([Formal] 暗示、ほのめかし)     The first intimation came yesterday.
-  - ✅ `insinuate` /ɪnˈsɪnjueɪt/    ([Formal] 遠回しに言う)         What are you insinuating?
-    - `insinuation` /ɪnˌsɪnjuˈeɪʃən/([Formal] 当てこすり)           I resent your insinuations.
-  - `connote` /kəˈnoʊt/             ([Writing] 含意する、暗示する)  The word connotes negative feelings.
-    - `connotation` /ˌkɑːnəˈteɪʃən/ ([Writing] 含意、ニュアンス)    The word has negative connotations.
-  - `allude` /əˈluːd/               ([Writing] 暗に言及する)        He alluded to past problems.
-    - `allusion` /əˈluːʒən/         ([Writing] 暗示、言及)          The book contains many allusions.
-  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   We can infer from the data that...
-    - `inference` /ˈɪnfərəns/       ([Formal] 推論、推測)           The inference was correct.
-  - `drop a hint` /drɑːp ə hɪnt/    ([Casual] ほのめかす)           She dropped a hint about her birthday.
+- `imply` /ɪmˈplaɪ/                 ([Neutral] 暗に示す、含意する)  What are you trying to imply?
+  - `implicit` /ɪmˈplɪsɪt/          ([Writing] 暗黙の、暗示的な)    There was an implicit agreement.
+- `hint` /hɪnt/                     ([Neutral] ほのめかす、ヒント)  She hinted that she might quit.
+- `drop a hint` /drɑːp ə hɪnt/      ([Casual] ほのめかす)           She dropped a hint about her birthday.
+- ✅ `insinuate` /ɪnˈsɪnjueɪt/      ([Formal] 遠回しに言う)         What are you insinuating?
+  - `insinuation` /ɪnˌsɪnjuˈeɪʃən/  ([Formal] 当てこすり)           I resent your insinuations.
+- `signify` /ˈsɪɡnɪfaɪ/             ([Formal] 意味する、示す)       What does this symbol signify?
+  - `significance` /sɪɡˈnɪfɪkəns/   ([Formal] 重要性、意味)         The significance is unclear.
+- `intimate` /ˈɪntɪmeɪt/            ([Formal] それとなく知らせる)   He intimated his disapproval.
+  - `intimation` /ˌɪntɪˈmeɪʃən/     ([Formal] 暗示、ほのめかし)     The first intimation came yesterday.
+- `denote` /dɪˈnoʊt/                ([Formal] 示す、意味する)       The red light denotes danger.
+  - `denotation` /ˌdiːnoʊˈteɪʃən/   ([Writing] 表示、明示的意味)    The denotation of the word is clear.
+- `connote` /kəˈnoʊt/               ([Writing] 含意する、暗示する)  The word connotes negative feelings.
+  - `connotation` /ˌkɑːnəˈteɪʃən/   ([Writing] 含意、ニュアンス)    The word has negative connotations.
+- `allude` /əˈluːd/                 ([Writing] 暗に言及する)        He alluded to past problems.
+  - `allusion` /əˈluːʒən/           ([Writing] 暗示、言及)          The book contains many allusions.
+- `infer` /ɪnˈfɜːr/                 ([Formal] 推論する、推測する)   We can infer from the data that...
+  - `inference` /ˈɪnfərəns/         ([Formal] 推論、推測)           The inference was correct.
+
+## お願いする
+- ✅ `ask` /æsk/                    ([Neutral] 頼む、尋ねる)        Can I ask you a favor?
+- `request` /rɪˈkwest/              ([Neutral] 要請する、頼む)      I request your assistance.
+- `please` /pliːz/                  ([Neutral] お願いする 喜ばせる) Please help me with this.
+- `beg` /beɡ/                       ([Neutral] 懇願する、物乞い)    I beg you to reconsider.
+- `plead` /pliːd/                   ([Neutral] 嘆願する、弁護する)  She pleaded for mercy.
+  - `plea` /pliː/                   ([Neutral] 嘆願、弁解)          Her plea was ignored.
+- `urge` /ɜːrdʒ/                    ([Neutral] 強く勧める、促す)    I urge you to act quickly.
+- `implore` /ɪmˈplɔːr/              ([Formal] 懇願する、哀願する)   I implore you to listen.
+  - `imploring` /ɪmˈplɔːrɪŋ/        ([Formal] 懇願的な)             Her imploring eyes moved him.
+- `entreat` /ɪnˈtriːt/              ([Formal] 懇願する、頼む)       She entreated him to stay.
+  - `entreaty` /ɪnˈtriːti/          ([Formal] 懇願、嘆願)           His entreaties fell on deaf ears.
+- `beseech` /bɪˈsiːtʃ/              ([Writing] 懇願する、切願する)  I beseech you to help us.
+  - `beseeching` /bɪˈsiːtʃɪŋ/       ([Writing] 懇願的な)            Her beseeching tone was moving.
+- `appeal` /əˈpiːl/                 ([Neutral] 訴える、懇願する)    They appealed for help.
+  - `appealing` /əˈpiːlɪŋ/          ([Neutral] 魅力的な、訴える)    The idea sounds appealing.
+- `petition` /pəˈtɪʃən/             ([Formal] 請願する、嘆願する)   Citizens petitioned the government.
+- `solicit` /səˈlɪsɪt/              ([Formal] 求める、勧誘する)     He solicited donations for charity.
+  - `solicitor` /səˈlɪsɪtər/        ([Formal] 事務弁護士、勧誘者)   The solicitor handled the legal matter.
+- `supplicate` /ˈsʌplɪkeɪt/         ([Writing] 嘆願する、懇願する)  They supplicated for divine help.
+  - `supplicant` /ˈsʌplɪkənt/       ([Writing] 嘆願者)              The supplicant knelt before the king.
+
+## 断言する・宣言する
+- `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
+  - `affirmation` /ˌæfərˈmeɪʃən/     ([Formal] 断言、肯定)           Her nod was an affirmation.
 
 ## Expression
 - ✅ `show` /ʃoʊ/                   ([Neutral] 示す、見せる)        Show me what you mean.
@@ -164,28 +208,7 @@
     - `debunking` /dɪˈbʌŋkɪŋ/       ([Neutral] 論破、暴露)          The debunking of myths is important.
     - `debunked` /dɪˈbʌŋkt/         ([Neutral] 論破された)          That theory has been thoroughly debunked.
 
-- `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
-  - `affirmation` /ˌæfərˈmeɪʃən/     ([Formal] 断言、肯定)           Her nod was an affirmation.
-
-## Request
-- ✅ `ask` /æsk/                    ([Neutral] 頼む、尋ねる)        Can I ask you a favor?
-  - `request` /rɪˈkwest/            ([Neutral] 要請する、頼む)      I request your assistance.
-  - `please` /pliːz/                ([Neutral] お願いする 喜ばせる) Please help me with this.
-  - `beg` /beɡ/                     ([Neutral] 懇願する、物乞い)    I beg you to reconsider.
-  - `plead` /pliːd/                 ([Neutral] 嘆願する、弁護する)  She pleaded for mercy.
-    - `pleading` /ˈpliːdɪŋ/         ([Neutral] 嘆願、弁論)          His pleading was heartfelt.
-    - `plea` /pliː/                 ([Neutral] 嘆願、弁解)          Her plea was ignored.
-  - `urge` /ɜːrdʒ/                  ([Neutral] 強く勧める、促す)    I urge you to act quickly.
-  - `implore` /ɪmˈplɔːr/            ([Formal] 懇願する、哀願する)   I implore you to listen.
-    - `imploring` /ɪmˈplɔːrɪŋ/      ([Formal] 懇願的な)             Her imploring eyes moved him.
-  - `entreat` /ɪnˈtriːt/            ([Formal] 懇願する、頼む)       She entreated him to stay.
-    - `entreaty` /ɪnˈtriːti/        ([Formal] 懇願、嘆願)           His entreaties fell on deaf ears.
-  - `beseech` /bɪˈsiːtʃ/            ([Writing] 懇願する、切願する)  I beseech you to help us.
-    - `beseeching` /bɪˈsiːtʃɪŋ/     ([Writing] 懇願的な)            Her beseeching tone was moving.
-  - `appeal` /əˈpiːl/               ([Neutral] 訴える、懇願する)    They appealed for help.
-    - `appealing` /əˈpiːlɪŋ/        ([Neutral] 魅力的な、訴える)    The idea sounds appealing.
-  - `petition` /pəˈtɪʃən/           ([Formal] 請願する、嘆願する)   Citizens petitioned the government.
-  - `solicit` /səˈlɪsɪt/            ([Formal] 求める、勧誘する)     He solicited donations for charity.
-    - `solicitor` /səˈlɪsɪtər/      ([Formal] 事務弁護士、勧誘者)   The solicitor handled the legal matter.
-  - `supplicate` /ˈsʌplɪkeɪt/       ([Writing] 嘆願する、懇願する)  They supplicated for divine help.
-    - `supplicant` /ˈsʌplɪkənt/     ([Writing] 嘆願者)              The supplicant knelt before the king.
+## 広める
+- `announce` /əˈnaʊns/              ([Neutral] 発表する、公表する)  They announced the winner.
+- `disseminate` /dɪˈsemɪneɪt/       ([Writing] 普及する、広める)    They disseminated the information widely.
+  - `dissemination`                 ([Writing] 普及、配布)          The dissemination of research findings~~
