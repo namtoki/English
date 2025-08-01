@@ -1,45 +1,65 @@
 # Communication
 
-## Communication
+## 伝える
 - ✅ `let know` /let noʊ/           ([Neutral] 知らせる)            Let me know when you arrive.
-  - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
-    - `informative` /ɪnˈfɔːrmətɪv/  ([Neutral] 有益な、教育的な)    The lecture was very informative.
-  - `report` /rɪˈpɔːrt/             ([Neutral] 報告する、伝える)    I must report this incident.
-  - `deliver` /dɪˈlɪvər/            ([Neutral] 届ける、伝える)      He delivered the news personally.
-  - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
-  - `keep posted` /kiːp ˈpoʊstɪd/   ([Neutral] 最新情報を知らせる)  Keep me posted on any developments.
-  - `convey` /kənˈveɪ/              ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
-    - `conveyance` /kənˈveɪəns/     ([Writing] 伝達、運搬)          The conveyance of information was swift.
-  - `clue in` /kluː ɪn/             ([Casual] 情報を与える)         Clue me in on the details.
-  - `tip off` /tɪp ɔːf/             ([Casual] 密かに知らせる)       Someone tipped off the police.
-    - `tip-off` /ˈtɪp ɔːf/          ([Casual] 密告、内報)           The tip-off led to the arrest.
-  - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
-  - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
-- ✅ `explain` /ɪkˈspleɪn/          ([Neutral] 説明する、解釈する)  Let me explain the situation.
-  - ✅ `fill in` /fɪl ɪn/           ([Neutral] 詳しく情報提供する)  Please fill me in on what happened.
-    - `fill-in` /ˈfɪl ɪn/           ([Neutral] 代役、穴埋め)        He's just a fill-in for today.
-  - ✅ `bring up to speed`          ([Neutral] 最新情報を知らせる)  Can you bring me up to speed?
-  - ✅ `put in the picture`         ([Formal] 状況を説明する)       Let me put you in the picture.
-- ✅ `share` /ʃɛər/                 ([Neutral] 共有する 分かち合う) Let me share some news with you.
-  - `announce` /əˈnaʊns/            ([Neutral] 発表する、公表する)  They announced the winner.
-  - `disseminate` /dɪˈsemɪneɪt/     ([Writing] 普及する、広める)    They disseminated the information widely.
-    - `dissemination`               ([Writing] 普及、配布)          The dissemination of research findings~~
-- ✅ `pass on` /pæs ɑːn/            ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
-  - `pass along` /pæs əˈlɔːŋ/       ([Neutral] 情報を伝える)        Please pass along the message.
-  - `relay` /rɪˈleɪ/                ([Neutral] 中継する、伝える)    Please relay this message to her.
-- ✅ `get back to` /ɡet bæk tuː/    ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
-  - ✅ `touch base` /tʌtʃ beɪs/     ([Neutral] 連絡を取る、報告)    Let's touch base next week.
-  - `communicate` /kəˈmjuːnɪkeɪt/   ([Neutral] 意思疎通する)        We communicate via email.
+- `inform` /ɪnˈfɔːrm/               ([Formal] 知らせる、通知する)   Please inform me of any changes.
+  - `informative` /ɪnˈfɔːrmətɪv/    ([Neutral] 有益な、教育的な)    The lecture was very informative.
+- `report` /rɪˈpɔːrt/               ([Neutral] 報告する、伝える)    I must report this incident.
+- `deliver` /dɪˈlɪvər/              ([Neutral] 届ける、伝える)      He delivered the news personally.
+- `notify` /ˈnoʊtɪfaɪ/              ([Formal] 通知する、知らせる)   We will notify you of the results.
+- `keep posted` /kiːp ˈpoʊstɪd/     ([Neutral] 最新情報を知らせる)  Keep me posted on any developments.
+- `convey` /kənˈveɪ/                ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
+  - `conveyance` /kənˈveɪəns/       ([Writing] 伝達、運搬)          The conveyance of information was swift.
+- `clue in` /kluː ɪn/               ([Casual] 情報を与える)         Clue me in on the details.
+- `tip off` /tɪp ɔːf/               ([Casual] 密かに知らせる)       Someone tipped off the police.
+  - `tip-off` /ˈtɪp ɔːf/            ([Casual] 密告、内報)           The tip-off led to the arrest.
+- `impart` /ɪmˈpɑːrt/               ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
+- `apprise` /əˈpraɪz/               ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
 
-## Speaking
+## 説明する
+- ✅ `tell` /tel/                   ([Neutral] 教える、話す)        Tell me what happened.
+- ✅ `explain` /ɪkˈspleɪn/          ([Neutral] 説明する、解釈する)  Let me explain the situation.
+- ✅ `walk through` /wɔːk θruː/     ([Neutral] 順を追って説明する)  Walk me through the process.
+- ✅ `go over` /ɡoʊ ˈoʊvər/         ([Neutral] 詳しく説明する)      Let's go over the details.
+- ✅ `break down` /breɪk daʊn/      ([Neutral] 分かりやすく説明す)  Can you break it down for me?
+- ✅ `fill in` /fɪl ɪn/             ([Neutral] 詳しく情報提供する)  Please fill me in on what happened.
+  - `fill-in` /ˈfɪl ɪn/             ([Neutral] 代役、穴埋め)        He's just a fill-in for today.
+- ✅ `give an update` /ˈʌpdeɪt/     ([Neutral] 最新情報を伝える)    Give me an update.
+- ✅ `bring up to speed`            ([Neutral] 最新情報を知らせる)  Can you bring me up to speed?
+- ✅ `clue in` /kluː ɪn/            ([Casual] 事情を教える)         Clue me in on what's happening.
+- ✅ `put in the picture`           ([Formal] 状況を説明する)       Let me put you in the picture.
+- `describe` /dɪˈskraɪb/            ([Neutral] 描写する、説明する)  Can you describe what happened?
+- `clarify` /ˈklærɪfaɪ/             ([Neutral] 明確にする)          Can you clarify that point?
+- `outline` /ˈaʊtlaɪn/              ([Neutral] 概要を説明する)      Let me outline the plan.
+- `elaborate` /ɪˈlæbəreɪt/          ([Formal] 詳しく説明する)       Could you elaborate on that?
+- `illustrate` /ˈɪləstreɪt/         ([Neutral] 説明する、例証する)  This example illustrates my point.
+- `demonstrate` /ˈdemənstreɪt/      ([Neutral] 実演して説明する)    Let me demonstrate how it works.
+
+## 共有する
+- ✅ `share` /ʃɛər/                 ([Neutral] 共有する 分かち合う) Let me share some news with you.
+- `announce` /əˈnaʊns/              ([Neutral] 発表する、公表する)  They announced the winner.
+- `disseminate` /dɪˈsemɪneɪt/       ([Writing] 普及する、広める)    They disseminated the information widely.
+  - `dissemination`                 ([Writing] 普及、配布)          The dissemination of research findings~~
+
+## 伝言
+- ✅ `pass on` /pæs ɑːn/            ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
+- `pass along` /pæs əˈlɔːŋ/         ([Neutral] 情報を伝える)        Please pass along the message.
+- `relay` /rɪˈleɪ/                  ([Neutral] 中継する、伝える)    Please relay this message to her.
+
+## 連絡する
+- ✅ `get back to` /ɡet bæk tuː/    ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
+- ✅ `touch base` /tʌtʃ beɪs/       ([Neutral] 連絡を取る、報告)    Let's touch base next week.
+- `communicate` /kəˈmjuːnɪkeɪt/     ([Neutral] 意思疎通する)        We communicate via email.
+
+## 喋る
 - ✅ `tell` /tel/                   ([Neutral] 話す、伝える)        Please tell me what happened.
-    - `telling` /ˈtelɪŋ/            ([Neutral] 効果的な、印象的な)  That was a telling comment.
-  - `say` /seɪ/                     ([Neutral] 言う、述べる)        What did you say to him?
-    - `saying` /ˈseɪɪŋ/             ([Neutral] ことわざ、格言)      There's an old saying about that.
-  - `speak` /spiːk/                 ([Neutral] 話す、演説する)      May I speak with you privately?
-  - `talk` /tɔːk/                   ([Neutral] 話す、話し合う)      We need to talk about this.
+  - `telling` /ˈtelɪŋ/              ([Neutral] 効果的な、印象的な)  That was a telling comment.
+- `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
+  - `saying` /ˈseɪɪŋ/               ([Neutral] ことわざ、格言)      There's an old saying about that.
+- `speak` /spiːk/                   ([Neutral] 話す、演説する)      May I speak with you privately?
+- `talk` /tɔːk/                     ([Neutral] 話す、話し合う)      We need to talk about this.
 - ✅ `get at` /ɡet æt/              ([Casual] 言おうとする)         What are you getting at?
-  - `drive at` /draɪv æt/           ([Casual] 言おうとする)         I see what you're driving at.
+- `drive at` /draɪv æt/             ([Casual] 言おうとする)         I see what you're driving at.
 
 ## Suggestion
 - ✅ `suggest` /səˈdʒest/           ([Neutral] 提案する、暗示する)  His tone suggested he was angry.
@@ -100,10 +120,6 @@
   - `represent` /ˌreprɪˈzent/       ([Neutral] 代表する、表す)      The flag represents our nation.
     - `representation`              ([Neutral] 表現、代表)          Her representation of the character was perfect.
     - `representative`              ([Neutral] 代表的な、代表者)    He is a representative of the company.
-  - `illustrate` /ˈɪləstreɪt/       ([Neutral] 説明する、例証する)  This example illustrates my point.
-    - `illustrative` /ɪˈlʌstrətɪv/  ([Formal] 説明的な、例証的な)   These cases are illustrative of the problem.
-  - `demonstrate` /ˈdemənstreɪt/    ([Neutral] 実証する、示す)      He demonstrated his skill.
-    - `demonstrative`               ([Formal] 感情を表に出す)       She's not very demonstrative.
 - ✅ `display` /dɪˈspleɪ/           ([Neutral] 示す、陳列する)      The store displays its best products.
   - `exhibit` /ɪɡˈzɪbɪt/            ([Formal] 展示する、示す)       The museum exhibits ancient artifacts.
 - ✅ `describe` /dɪˈskraɪb/         ([Neutral] 描写する、説明する)  Can you describe what happened?
