@@ -1,6 +1,3 @@
-abandon	5	【動】捨てる、断念する		
-abandoned	5	【形】見捨てられた、放棄された		
-abandonment	7	【名】放棄、見捨て（られ）ること		
 abbey	11	【名】大修道院		
 abbreviate	9	【動】省略する		
 abbreviation	9	【名】略語、省略形		
@@ -13,41 +10,27 @@ aberration	11	【名】常軌を逸すること、奇行、異常
 abet	11	【動】悪事をけしかける、そそのかす		
 abide	10	【動】とどまる、規則を守る		
 abiding	11	【形】不変の、持続的な		
-ability	2	【名】能力、才能		
 abject	12	【形】悲惨な、絶望的な、卑しい		
 ablaze	11	【形】輝いている、燃えたっている		
-aboard	4	【副】（乗り物に）乗って 【前】（乗り物の）中へ		
-abolish	5	【動】廃止する、だめにする、根絶する		
-abolition	7	【名】廃止		
 abominable	12	【形】忌まわしい、不愉快な、ひどい		
 aboriginal	8	【形】先住（民）の、土着の 【名】先住民		
 abortive	10	【形】不成功の、流産の		
 abound	8	【動】たくさんある		
 abrasive	11	【形】耳ざわりな、かんにさわる 【名】研磨材		
 abreast	12	【副】進度が遅れずに、横に並んで		
-abrupt	6	【形】突然の、ぶっきらぼうな		
-absorb	4	【動】吸い込む、熱中させる		
-absorption	8	【名】吸収（作用）、統合、没頭		
 abstain	10	【動】控える、慎む、棄権する		
 abstinence	11	【名】禁酒、自制、禁欲		
-absurd	5	【形】ばかげた、不条理な		
-absurdity	9	【名】不合理、ばからしさ		
 abundance	5	【名】多量、裕福		
 abundant	5	【形】豊富な、富んだ		
-abuse	4	【名】乱用、虐待 【動】乱用する		
 abusive	7	【形】口汚ない、悪口を言う		
 abyss	11	【名】地の底、溝、深淵		
 accede	12	【動】同意する、権力の座につく、条約に加盟する		
 accession	12	【名】就任、取得、付加		
 acclamation	12	【名】満場一致、発声投票、拍手喝さい		
-accommodate	6	【動】収容できる、適応する		
 accommodating	10	【形】親切な、人の言いなりになる		
 accommodation	5	【名】宿泊設備、適応、和解		
-accompaniment	7	【名】伴奏、付きもの、伴うもの		
 accomplice	11	【名】共犯者、仲間		
 accord	4	【動】一致する 【名】調和、（国際間の）協定		
-accordance	7	【名】合致、与えること		
-accordingly	5	【副】それに沿って、だから		
 account	2	【名】口座、顧客、説明 【動】説明する、占める		
 accountable	10	【形】責任がある、もっともな		
 accrue	11	【動】結果として生じる、獲得する		
@@ -708,9 +691,6 @@ bash	10	【動】強打する 【名】とても楽しいパーティー
 bashful	12	【形】恥ずかしがり屋の、内気な		
 basic	2	【形】基礎の 【名】基本		
 basically	4	【副】基本的に、要するに		
-basil	6	【名】バジリコ		
-basin	4	【名】たらい、洗面器、たらい1杯分（の～）		
-basis	3	【名】基礎、基部		
 bask	11	【動】日光に当たる、恩恵を受ける		
 bass	8	【形】低音の、最低音部の 【名】低音、ベース、バス		
 bastard	10	【名】非嫡出子、（いやな）野郎		
