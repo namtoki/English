@@ -56,7 +56,7 @@
 - `be in contact`                   ([Neutral] 連絡を保つ)          We're still in contact.
 - `keep in touch` /kiːp ɪn tʌtʃ/    ([Neutral] 連絡を保つ)          Let's keep in touch.
 - `stay in touch` /steɪ ɪn tʌtʃ/    ([Neutral] 連絡を保つ)          Stay in touch!
-- `hear from` /hɪr frʌm/            ([Neutral] 連絡をもらう)        I hope to hear from you soon.
+- ✅ `hear from` /hɪr frʌm/         ([Neutral] 連絡をもらう)        I hope to hear from you soon.
 
 ## 伝言
 - ✅ `pass on` /pæs ɑːn/            ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
@@ -82,7 +82,7 @@
 - `identify` /aɪˈdentɪfaɪ/          ([Neutral] 特定する、確認する)  Can you identify the problem?
 - ✅ `designate` /ˈdezɪɡneɪt/       ([Formal] 指定する、示す)       The area was designated as a park.
   - `designation` /ˌdezɪɡˈneɪʃən/   ([Formal] 指定、名称)           His designation is senior manager.
-- `assign` /əˈsaɪn/                 ([Neutral] 割り当てる、指定する) We assigned tasks to each member.
+- `assign` /əˈsaɪn/                 ([Neutral] 割り当てる 指定する) We assigned tasks to each member.
 - `single out` /ˈsɪŋɡəl aʊt/        ([Neutral] 選び出す、特定する)  He was singled out for praise.
 - `pick out` /pɪk aʊt/              ([Casual] 選び出す、指定する)   Pick out your favorite color.
 
@@ -90,7 +90,7 @@
 - ✅ `warn` /wɔːrn/                 ([Neutral] 警告する、注意する)  I warned him about the danger.
   - `warning` /ˈwɔːrnɪŋ/            ([Neutral] 警告)                Without warning, it started raining.
 - `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる、注意)  Remind me to call tomorrow.
-- `alert` /əˈlɜːrt/                 ([Neutral] 警戒させる、注意喚起) We alerted them to the problem.
+- `alert` /əˈlɜːrt/                 ([Neutral] 警戒させる 注意喚起) We alerted them to the problem.
 - `advise` /ədˈvaɪz/                ([Neutral] 忠告する、助言する)  I advise you to study harder.
 - `caution` /ˈkɔːʃən/               ([Neutral] 警告する、注意する)  The doctor cautioned against overwork.
 - `heads up` /hedz ʌp/              ([Casual] 注意して、気をつけて) Heads up! There's a step there.
@@ -153,7 +153,7 @@
 - `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
   - `affirmation` /ˌæfərˈmeɪʃən/     ([Formal] 断言、肯定)           Her nod was an affirmation.
 
-## Expression
+## 表現する
 - ✅ `show` /ʃoʊ/                   ([Neutral] 示す、見せる)        Show me what you mean.
   - `express` /ɪkˈspres/            ([Neutral] 表現する、述べる)    She expressed her feelings clearly.
     - `expressive` /ɪkˈspresɪv/     ([Neutral] 表現力豊かな)        She has very expressive eyes.
@@ -179,7 +179,6 @@
   - `confess` /kənˈfes/             ([Neutral] 告白する、白状する)  He confessed his mistake.
   - `admit` /ədˈmɪt/                ([Neutral] 認める、白状する)    I admit I was wrong.
     - `admittedly` /ədˈmɪtɪdli/     ([Neutral] 確かに、認めるが)    Admittedly, it was a mistake.
-  - `share` /ʃɛər/                  ([Neutral] 共有する打ち明ける)  She shared her secret with me.
   - `leak` /liːk/                   ([Neutral] 漏らす、漏れる)      Someone leaked the information.
   - `confide` /kənˈfaɪd/            ([Neutral] 打ち明ける 信頼して) She confided in her best friend.
     - `confidant` /ˈkɑːnfɪdænt/     ([Neutral] 親友、信頼できる人)  He was her trusted confidant.

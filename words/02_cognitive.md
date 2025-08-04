@@ -1,129 +1,126 @@
 # Cognitive
 
-## THINK
+## 考える
 - ✅ `think` /θɪŋk/                 ([Neutral] だと思う、考える)    I think he's right about this.
     - `thoughtful` /ˈθɔːtfəl/       ([Neutral] 思慮深い)            She gave a thoughtful response.
-  - ✅ `believe` /bɪˈliːv/          ([Neutral] だと思う、信じる)    I believe this is the right choice.
-  - ✅ `suppose` /səˈpoʊz/          ([Neutral] だと思う、仮定する)  I suppose you're right.
-    - `supposition` /ˌsʌpəˈzɪʃən/   ([Formal] 仮定、推定)           That's just a supposition.
-    - `supposedly` /səˈpoʊzɪdli/    ([Neutral] だと思われている)    He's supposedly very wealthy.
-  - ✅ `assume` /əˈsuːm/            ([Neutral] だと思う、仮定する)  I assume he'll be late again.
-  - ✅ `feel` /fiːl/                ([Neutral] だと思う、感じる)    I feel this is the best option.
-  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
-  - ✅ `guess` /ɡes/                ([Casual] だと思う、推測する)   I guess you're probably right.
-    - `guesswork` /ˈɡeswɜːrk/       ([Casual] 当て推量)             It's all guesswork at this point.
-  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
-    - `reckoning` /ˈrekənɪŋ/        ([Casual] 計算、清算)           By my reckoning, we owe $50.
-  - ✅ `consider` /kənˈsɪdər/       ([Neutral] だと思う、考慮する)  I consider him a good friend.
-    - `consideration`               ([Neutral] 考慮、思いやり)      Give it serious consideration.
-    - `considerable` /kənˈsɪdərəbəl/([Neutral] かなりの)            That's a considerable amount.
-    - `considerate` /kənˈsɪdərət/   ([Neutral] 思いやりのある)      He's always considerate of others.
-  - `presume` /prɪˈzuːm/            ([Formal] だと思う、推定する)   I presume you've read the report.
-    - `presumption` /prɪˈzʌmpʃən/   ([Formal] 推定、思い上がり)     That's a reasonable presumption.
-    - `presumptuous` /prɪˈzʌmptʃuəs/([Formal] 生意気な、図々しい)   Don't be so presumptuous.
-    - `presumably` /prɪˈzuːməbli/   ([Formal] おそらく)             Presumably, he'll arrive on time.
-  - `surmise` /sərˈmaɪz/            ([Writing] だと思う、推測する)  I surmise that he's already left.
-    - `surmising` /sərˈmaɪzɪŋ/      ([Writing] 推測)                His surmising proved correct.
-- ✅ `rely on` /rɪˈlaɪ ɒn/          ([Neutral] 頼る、依存する)      We rely on public transport.
-  - `trust` /trʌst/                 ([Neutral] 信頼する)            You can trust me not to tell anyone.
-  - ✅ `count on` /kaʊnt ɒn/        ([Neutral] 頼る)                I'm counting on you to help me.
-  - `have confidence in`            ([Neutral] 信頼する)            I have confidence in her abilities.
-  - ✅ `bank on` /bæŋk ɒn/          ([Neutral] 当てにする)          I'm banking on your help.
-  - `lean on` /liːn ɒn/             ([Neutral] 頼る、支えにする)    She had her friends to lean on.
-  - `fall back on` /fɔːl bæk ɒn/    ([Neutral] 頼る、最終手段)      I have savings to fall back on.
-  - `pin hopes on` /pɪn hoʊps ɒn/   ([Neutral] 期待をかける)        They pinned their hopes on winning.
-  - `reckon on` /ˈrekən ɒn/         ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
+- ✅ `believe` /bɪˈliːv/            ([Neutral] だと思う、信じる)    I believe this is the right choice.
+- ✅ `suppose` /səˈpoʊz/            ([Neutral] だと思う、仮定する)  I suppose you're right.
+  - `supposition` /ˌsʌpəˈzɪʃən/     ([Formal] 仮定、推定)           That's just a supposition.
+  - `supposedly` /səˈpoʊzɪdli/      ([Neutral] だと思われている)    He's supposedly very wealthy.
+- ✅ `assume` /əˈsuːm/              ([Neutral] だと思う、仮定する)  I assume he'll be late again.
+- ✅ `feel` /fiːl/                  ([Neutral] だと思う、感じる)    I feel this is the best option.
+- `figure` /ˈfɪɡər/                 ([Casual] だと思う、考える)     I figure we should leave now.
+- ✅ `guess` /ɡes/                  ([Casual] だと思う、推測する)   I guess you're probably right.
+  - `guesswork` /ˈɡeswɜːrk/         ([Casual] 当て推量)             It's all guesswork at this point.
+- `reckon` /ˈrekən/                 ([Casual] だと思う、計算する)   I reckon it'll rain today.
+  - `reckoning` /ˈrekənɪŋ/          ([Casual] 計算、清算)           By my reckoning, we owe $50.
+- ✅ `consider` /kənˈsɪdər/         ([Neutral] だと思う、考慮する)  I consider him a good friend.
+  - `consideration`                 ([Neutral] 考慮、思いやり)      Give it serious consideration.
+  - `considerable` /kənˈsɪdərəbəl/  ([Neutral] かなりの)            That's a considerable amount.
+  - `considerate` /kənˈsɪdərət/     ([Neutral] 思いやりのある)      He's always considerate of others.
+- `presume` /prɪˈzuːm/              ([Formal] だと思う、推定する)   I presume you've read the report.
+  - `presumption` /prɪˈzʌmpʃən/     ([Formal] 推定、思い上がり)     That's a reasonable presumption.
+  - `presumptuous` /prɪˈzʌmptʃuəs/  ([Formal] 生意気な、図々しい)   Don't be so presumptuous.
+  - `presumably` /prɪˈzuːməbli/     ([Formal] おそらく)             Presumably, he'll arrive on time.
+- `surmise` /sərˈmaɪz/              ([Writing] だと思う、推測する)  I surmise that he's already left.
+  - `surmising` /sərˈmaɪzɪŋ/        ([Writing] 推測)                His surmising proved correct.
 
-## THINK OF
+## 思い付く
 - ✅ `think of` /θɪŋk ʌv/           ([Neutral] 思いつく、考える)    I can't think of a solution.
-  - ✅ `come up with` /kʌm ʌp wɪð/  ([Neutral] 思いつく、考え出す)  She came up with a great idea.
-  - `get an idea` /ɡet ən aɪˈdiːə/  ([Neutral] アイデアを思いつく)  I just got an idea!
-  - `hit on` /hɪt ɑːn/              ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
-  - `strike` /straɪk/               ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
-  - ✅ `occur to` /əˈkɜːr tuː/      ([Neutral] 思い浮かぶ)          It never occurred to me.
-  - `devise` /dɪˈvaɪz/              ([Formal] 考案する、工夫する)   They devised a new strategy.
-    - `devising` /dɪˈvaɪzɪŋ/        ([Formal] 考案)                 Devising solutions takes time.
-  - `conceive` /kənˈsiːv/           ([Formal] 思いつく、想像する)   I can't conceive of such cruelty.
-    - `conception` /kənˈsepʃən/     ([Formal] 概念、構想)           His conception of art is unique.
-    - `conceivable` /kənˈsiːvəbəl/  ([Formal] 考えられる)           It's conceivable that he's right.
-  - `formulate` /ˈfɔːrmjəleɪt/      ([Formal] 策定する、考案する)   They formulated a plan.
-  - `dream up` /driːm ʌp/           ([Casual] 考え出す でち上げる)  He dreamed up a crazy plan.
-  - `make up` /meɪk ʌp/             ([Casual] でっち上げる、作る)   Don't make up stories.
-  - `cook up` /kʊk ʌp/              ([Casual] でっち上げる)         He cooked up an excuse.
-  - `concoct` /kənˈkɑːkt/           ([Formal] でっち上げる、作る)   She concocted an elaborate plan.
-    - `concoction` /kənˈkɑːkʃən/    ([Formal] 作り話、調合物)       His story was a wild concoction.
-  - `hatch` /hætʃ/                  ([Casual] 企てる、計画する)     They hatched a secret plan.
-    - `hatching` /ˈhætʃɪŋ/          ([Casual] 企て、陰影法)         The hatching of the plan was secretive.
-  - `conjure up` /ˈkʌndʒər ʌp/      ([Writing] 思い起こす 作り出す) He conjured up a fantastic story.
-- ✅ `remind` /rɪˈmaɪnd/            ([Neutral] 思い出させる)        This song reminds me of my childhood.
-  - ✅ `remember` /rɪˈmembər/       ([Neutral] 思い出す 覚えている) I remember meeting you before.
-    - `remembrance` /rɪˈmembrəns/   ([Formal] 記憶、追悼)           In remembrance of those we lost.
-  - ✅ `recall` /rɪˈkɔːl/           ([Neutral] 思い出す、回収する)  I can't recall his name.
-    - `recalling` /rɪˈkɔːlɪŋ/       ([Neutral] 思い出すこと)        Recalling the past brought tears.
-  - `trigger` /ˈtrɪɡər/             ([Neutral] 引き金、きっかけ)    The smell triggered old memories.
-  - `bring back` /brɪŋ bæk/         ([Neutral] 思い出させる)        This photo brings back memories.
-  - `call to mind` /kɔːl tuː maɪnd/ ([Neutral] 思い起こさせる)      Your voice calls her to mind.
-  - `stir up` /stɜːr ʌp/            ([Neutral] かき立てる)          The story stirred up old emotions.
-  - `awaken` /əˈweɪkən/             ([Neutral] 目覚めさせる)        The speech awakened memories of war.
-  - `revive` /rɪˈvaɪv/              ([Neutral] 蘇らせる 復活させる) The music revived fond memories.
-  - `recollect` /ˌrekəˈlekt/        ([Formal] 思い出す、回想する)   I recollect meeting him years ago.
-  - `evoke` /ɪˈvoʊk/                ([Writing] 想起させる)          The music evoked memories of childhood.
-    - `evocation` /ˌevəˈkeɪʃən/     ([Writing] 想起、呼び起こし)    The evocation of past times was moving.
-    - `evocative` /ɪˈvoʊkətɪv/      ([Writing] 想起させる)          The photo is evocative of old times.
-  - `summon up` /ˈsʌmən ʌp/         ([Formal] 呼び起こす)           He summoned up courage from memories.
-- ✅ `imagine` /ɪˈmædʒɪn/           ([Neutral] 想像する、思う)      I can't imagine life without music.
-    - `imaginative` /ɪˈmædʒɪnətɪv/  ([Neutral] 想像力豊かな)        His imaginative story captivated us.
-    - `imaginary` /ɪˈmædʒɪneri/     ([Neutral] 想像上の、架空の)    He has an imaginary friend.
-  - ✅ `think` /θɪŋk/               ([Neutral] 思う、想像する)      Think what would happen if...
-  - ✅ `picture` /ˈpɪktʃər/         ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
-  - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する)          Visualize your goals clearly.
-  - `envision` /ɪnˈvɪʒən/           ([Formal] 心に描く、想像する)   I envision a bright future.
-  - `fantasize` /ˈfæntəsaɪz/        ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
-  - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
-    - `conjuration` /ˌkʌndʒəˈreɪʃən/([Writing] 呪文、魔術)          The magician's conjuration amazed everyone.
-  - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
-    - `fanciful` /ˈfænsɪfəl/        ([Neutral] 空想的な、奇抜な)    That's a fanciful idea.
+- ✅ `come up with` /kʌm ʌp wɪð/    ([Neutral] 思いつく、考え出す)  She came up with a great idea.
+- ✅ `get an idea` /ɡet ən aɪˈdiːə/ ([Neutral] アイデアを思いつく)  I just got an idea!
+- `hit on` /hɪt ɑːn/                ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
+- `strike` /straɪk/                 ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
+- ✅ `occur to` /əˈkɜːr tuː/        ([Neutral] 思い浮かぶ)          It never occurred to me.
+- `devise` /dɪˈvaɪz/                ([Formal] 考案する、工夫する)   They devised a new strategy.
+  - `devising` /dɪˈvaɪzɪŋ/          ([Formal] 考案)                 Devising solutions takes time.
+- `conceive` /kənˈsiːv/             ([Formal] 思いつく、想像する)   I can't conceive of such cruelty.
+  - `conception` /kənˈsepʃən/       ([Formal] 概念、構想)           His conception of art is unique.
+  - `conceivable` /kənˈsiːvəbəl/    ([Formal] 考えられる)           It's conceivable that he's right.
+- `formulate` /ˈfɔːrmjəleɪt/        ([Formal] 策定する、考案する)   They formulated a plan.
+- `dream up` /driːm ʌp/             ([Casual] 考え出す でち上げる)  He dreamed up a crazy plan.
+- `make up` /meɪk ʌp/               ([Casual] でっち上げる、作る)   Don't make up stories.
+- `cook up` /kʊk ʌp/                ([Casual] でっち上げる)         He cooked up an excuse.
+- `concoct` /kənˈkɑːkt/             ([Formal] でっち上げる、作る)   She concocted an elaborate plan.
+  - `concoction` /kənˈkɑːkʃən/      ([Formal] 作り話、調合物)       His story was a wild concoction.
+- `hatch` /hætʃ/                    ([Casual] 企てる、計画する)     They hatched a secret plan.
+  - `hatching` /ˈhætʃɪŋ/            ([Casual] 企て、陰影法)         The hatching of the plan was secretive.
+- `conjure up` /ˈkʌndʒər ʌp/        ([Writing] 思い起こす 作り出す) He conjured up a fantastic story.
 
-## UNDERSTAND
+## 思い出す
+- ✅ `remind` /rɪˈmaɪnd/            ([Neutral] 思い出させる)        This song reminds me of my childhood.
+- ✅ `remember` /rɪˈmembər/         ([Neutral] 思い出す 覚えている) I remember meeting you before.
+  - `remembrance` /rɪˈmembrəns/     ([Formal] 記憶、追悼)           In remembrance of those we lost.
+- ✅ `recall` /rɪˈkɔːl/             ([Neutral] 思い出す、回収する)  I can't recall his name.
+  - `recalling` /rɪˈkɔːlɪŋ/         ([Neutral] 思い出すこと)        Recalling the past brought tears.
+- `trigger` /ˈtrɪɡər/               ([Neutral] 引き金、きっかけ)    The smell triggered old memories.
+- `bring back` /brɪŋ bæk/           ([Neutral] 思い出させる)        This photo brings back memories.
+- `call to mind` /kɔːl tuː maɪnd/   ([Neutral] 思い起こさせる)      Your voice calls her to mind.
+- `stir up` /stɜːr ʌp/              ([Neutral] かき立てる)          The story stirred up old emotions.
+- `awaken` /əˈweɪkən/               ([Neutral] 目覚めさせる)        The speech awakened memories of war.
+- `revive` /rɪˈvaɪv/                ([Neutral] 蘇らせる 復活させる) The music revived fond memories.
+- `recollect` /ˌrekəˈlekt/          ([Formal] 思い出す、回想する)   I recollect meeting him years ago.
+- `evoke` /ɪˈvoʊk/                  ([Writing] 想起させる)          The music evoked memories of childhood.
+  - `evocation` /ˌevəˈkeɪʃən/       ([Writing] 想起、呼び起こし)    The evocation of past times was moving.
+  - `evocative` /ɪˈvoʊkətɪv/        ([Writing] 想起させる)          The photo is evocative of old times.
+- `summon up` /ˈsʌmən ʌp/           ([Formal] 呼び起こす)           He summoned up courage from memories.
+
+## 想像する
+- ✅ `imagine` /ɪˈmædʒɪn/           ([Neutral] 想像する、思う)      I can't imagine life without music.
+  - `imaginative` /ɪˈmædʒɪnətɪv/    ([Neutral] 想像力豊かな)        His imaginative story captivated us.
+  - `imaginary` /ɪˈmædʒɪneri/       ([Neutral] 想像上の、架空の)    He has an imaginary friend.
+- ✅ `think` /θɪŋk/                 ([Neutral] 思う、想像する)      Think what would happen if...
+- ✅ `picture` /ˈpɪktʃər/           ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
+- `visualize` /ˈvɪʒuəlaɪz/          ([Neutral] 視覚化する)          Visualize your goals clearly.
+- `envision` /ɪnˈvɪʒən/             ([Formal] 心に描く、想像する)   I envision a bright future.
+- `fantasize` /ˈfæntəsaɪz/          ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
+- `conjure` /ˈkʌndʒər/              ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
+  - `conjuration` /ˌkʌndʒəˈreɪʃən/  ([Writing] 呪文、魔術)          The magician's conjuration amazed everyone.
+- `fancy` /ˈfænsi/                  ([Casual] 想像する、思う)       I fancy he's already left.
+  - `fanciful` /ˈfænsɪfəl/          ([Neutral] 空想的な、奇抜な)    That's a fanciful idea.
+
+## 理解する
 - ✅ `understand` /ˌʌndərˈstænd/    ([Neutral] 理解する)            I understand your concern.
-  - ✅ `get` /ɡet/                  ([Casual] 理解する)             I get what you mean.
-  - `see` /siː/                     ([Neutral] 想像する、理解する)  I can see that happening.
-  - `grasp` /ɡræsp/                 ([Neutral] 把握する)            She quickly grasped the concept.
-  - `comprehend` /ˌkɑːmprɪˈhend/    ([Formal] 理解する)             I cannot comprehend his actions.
-  - ✅ `figure out` /ˈfɪɡər aʊt/    ([Neutral] 理解する、解決する)  Let me figure out the problem.
-  - ✅ `make sense of`              ([Neutral] 理解する)            I can't make sense of this data.
-  - `follow` /ˈfɑːloʊ/              ([Neutral] 理解して聞く)        I follow your argument.
-  - `catch on` /kætʃ ɑːn/           ([Casual] 理解する、把握する)   He'll catch on eventually.
-  - `pick up` /pɪk ʌp/              ([Casual] 理解する、習得する)   Kids pick up languages quickly.
-  - `digest` /daɪˈdʒest/            ([Neutral] 理解・吸収する)      I need time to digest this information.
-    - `digesting` /daɪˈdʒestɪŋ/     ([Neutral] 理解・吸収)          Digesting complex ideas takes effort.
-  - `fathom` /ˈfæðəm/               ([Formal] 理解する、推測する)   I can't fathom his motives.
-  - `perceive` /pərˈsiːv/           ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
-    - `perception` /pərˈsepʃən/     ([Formal] 理解、知覚)           His perception was accurate.
+- ✅ `get` /ɡet/                    ([Casual] 理解する)             I get what you mean.
+- `see` /siː/                       ([Neutral] 想像する、理解する)  I can see that happening.
+- `grasp` /ɡræsp/                   ([Neutral] 把握する)            She quickly grasped the concept.
+- `comprehend` /ˌkɑːmprɪˈhend/      ([Formal] 理解する)             I cannot comprehend his actions.
+- ✅ `figure out` /ˈfɪɡər aʊt/      ([Neutral] 理解する、解決する)  Let me figure out the problem.
+- ✅ `make sense of`                ([Neutral] 理解する)            I can't make sense of this data.
+- `follow` /ˈfɑːloʊ/                ([Neutral] 理解して聞く)        I follow your argument.
+- `catch on` /kætʃ ɑːn/             ([Casual] 理解する、把握する)   He'll catch on eventually.
+- `pick up` /pɪk ʌp/                ([Casual] 理解する、習得する)   Kids pick up languages quickly.
+- `digest` /daɪˈdʒest/              ([Neutral] 理解・吸収する)      I need time to digest this information.
+  - `digesting` /daɪˈdʒestɪŋ/       ([Neutral] 理解・吸収)          Digesting complex ideas takes effort.
+- `fathom` /ˈfæðəm/                 ([Formal] 理解する、推測する)   I can't fathom his motives.
+- `perceive` /pərˈsiːv/             ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
+  - `perception` /pərˈsepʃən/       ([Formal] 理解、知覚)           His perception was accurate.
+
+## 識別する
 - ✅ `recognize` /ˈrekəɡnaɪz/       ([Neutral] 見分ける、認める)    I didn't recognize him at first.
-    - `recognizable`/ˈrekəɡnaɪzəbəl/([Neutral] 認識できる)          The landmark is easily recognizable.
-  - `identify` /aɪˈdentɪfaɪ/        ([Neutral] 見分ける、特定する)  Can you identify the suspect?
-    - `identifiable`/aɪˈdentɪfaɪəbəl/([Neutral] 識別可能な)         The symptoms are easily identifiable.
-  - ✅ `tell` /tel/                 ([Casual] 見分ける、区別する)   I can't tell the twins apart.
-    - `telling` /ˈtelɪŋ/            ([Neutral] 効果的な、明白な)    That was a telling remark.
-  - `distinguish` /dɪˈstɪŋɡwɪʃ/     ([Formal] 区別する、見分ける)   It's hard to distinguish between them.
-    - `distinguishable`             ([Formal] 区別できる)           The voices are barely distinguishable.
-    - `distinguished` /dɪˈstɪŋɡwɪʃt/([Formal] 卓越した、著名な)     She's a distinguished professor.
-  - `spot` /spɑːt/                  ([Casual] 見つける、見分ける)   I spotted him in the crowd.
-    - `spotting` /ˈspɑːtɪŋ/         ([Casual] 発見、斑点)           Bird spotting is his hobby.
-  - `detect` /dɪˈtekt/              ([Neutral] 発見する、探知する)  The test can detect cancer early.
-    - `detectable` /dɪˈtektəbəl/    ([Neutral] 検出可能な)          The smell was barely detectable.
-  - `discern` /dɪˈsɜːrn/            ([Formal] 識別する、見分ける)   I can discern a pattern here.
-    - `discernment` /dɪˈsɜːrnmənt/  ([Formal] 識別力、洞察力)       She showed great discernment.
-    - `discernible` /dɪˈsɜːrnəbəl/  ([Formal] 識別できる)           There's no discernible difference.
-    - `discerning` /dɪˈsɜːrnɪŋ/     ([Formal] 目の肥えた)           He has discerning taste.
-  - `make out` /meɪk aʊt/           ([Casual] 見分ける、理解する)   I can barely make out the writing.
-  - `pick out` /pɪk aʊt/            ([Casual] 見分ける、選び出す)   Can you pick out your friend?
-  - `single out` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す、特定する)  He was singled out for praise.
-  - `pinpoint` /ˈpɪnpɔɪnt/          ([Neutral] 正確に特定する)      We need to pinpoint the problem.
-    - `pinpointing` /ˈpɪnpɔɪntɪŋ/   ([Neutral] 特定)                Pinpointing the cause took time.
-  - `differentiate` /ˌdɪfəˈrenʃieɪt/([Formal] 区別する、差別化する) It's important to differentiate the brands.
-    - `differentiation`             ([Formal] 差別化、区別)         Product differentiation is key.
+  - `recognizable`/ˈrekəɡnaɪzəbəl/  ([Neutral] 認識できる)          The landmark is easily recognizable.
+- `identify` /aɪˈdentɪfaɪ/          ([Neutral] 見分ける、特定する)  Can you identify the suspect?
+  - `identifiable`/aɪˈdentɪfaɪəbəl/ ([Neutral] 識別可能な)          The symptoms are easily identifiable.
+- ✅ `tell` /tel/                   ([Casual] 見分ける、区別する)   I can't tell the twins apart.
+  - `telling` /ˈtelɪŋ/              ([Neutral] 効果的な、明白な)    That was a telling remark.
+- `distinguish` /dɪˈstɪŋɡwɪʃ/       ([Formal] 区別する、見分ける)   It's hard to distinguish between them.
+  - `distinguishable`               ([Formal] 区別できる)           The voices are barely distinguishable.
+  - `distinguished` /dɪˈstɪŋɡwɪʃt/  ([Formal] 卓越した、著名な)     She's a distinguished professor.
+- `spot` /spɑːt/                    ([Casual] 見つける、見分ける)   I spotted him in the crowd.
+  - `spotting` /ˈspɑːtɪŋ/           ([Casual] 発見、斑点)           Bird spotting is his hobby.
+- `detect` /dɪˈtekt/                ([Neutral] 発見する、探知する)  The test can detect cancer early.
+  - `detectable` /dɪˈtektəbəl/      ([Neutral] 検出可能な)          The smell was barely detectable.
+- `discern` /dɪˈsɜːrn/              ([Formal] 識別する、見分ける)   I can discern a pattern here.
+  - `discernment` /dɪˈsɜːrnmənt/    ([Formal] 識別力、洞察力)       She showed great discernment.
+  - `discernible` /dɪˈsɜːrnəbəl/    ([Formal] 識別できる)           There's no discernible difference.
+  - `discerning` /dɪˈsɜːrnɪŋ/       ([Formal] 目の肥えた)           He has discerning taste.
+- `make out` /meɪk aʊt/             ([Casual] 見分ける、理解する)   I can barely make out the writing.
+- `pick out` /pɪk aʊt/              ([Casual] 見分ける、選び出す)   Can you pick out your friend?
+- `single out` /ˈsɪŋɡəl aʊt/        ([Neutral] 選び出す、特定する)  He was singled out for praise.
+- `pinpoint` /ˈpɪnpɔɪnt/            ([Neutral] 正確に特定する)      We need to pinpoint the problem.
+  - `pinpointing` /ˈpɪnpɔɪntɪŋ/     ([Neutral] 特定)                Pinpointing the cause took time.
+- `differentiate` /ˌdɪfəˈrenʃieɪt/  ([Formal] 区別する、差別化する) It's important to differentiate the brands.
+  - `differentiation`               ([Formal] 差別化、区別)         Product differentiation is key.
 
 ## 忘れないでおく・心に留める
 - ✅ `keep in mind`                 ([Neutral] 心に留める)          Keep in mind that he's new here.
@@ -146,3 +143,23 @@
 - `etch in mind` /etʃ ɪn maɪnd/     ([Writing] 心に刻む)            The experience etched itself in his mind.
 - `engrave on memory` /ɪnˈɡreɪv/    ([Writing] 記憶に刻む)          The moment was engraved on her memory.
 - `treasure` /ˈtreʒər/              ([Neutral] 大切にする)          I treasure those memories.
+
+## 頼る
+- ✅ `rely on` /rɪˈlaɪ ɑːn/         ([Neutral] 頼る、依存する)      We rely on public transport.
+- ✅ `depend on` /dɪˈpend ɑːn/      ([Neutral] 頼る、次第である)    Success depends on hard work.
+- ✅ `count on` /kaʊnt ɑːn/         ([Neutral] 頼る、当てにする)    I'm counting on you to help me.
+- `trust` /trʌst/                   ([Neutral] 信頼する)            You can trust me not to tell anyone.
+- ✅ `turn to` /tɜːrn tuː/          ([Neutral] 頼る、助けを求める)  She turned to her family for support.
+- `look to` /lʊk tuː/               ([Neutral] 頼る、期待する)      We look to you for guidance.
+- ✅ `bank on` /bæŋk ɑːn/           ([Neutral] 当てにする)          I'm banking on your help.
+- `lean on` /liːn ɑːn/              ([Neutral] 頼る、支えにする)    She had her friends to lean on.
+- `have confidence in`              ([Neutral] 信頼する)            I have confidence in her abilities.
+- `fall back on` /fɔːl bæk ɑːn/     ([Neutral] 頼る、最終手段)      I have savings to fall back on.
+- `resort to` /rɪˈzɔːrt tuː/        ([Neutral] 頼る、手段に訴える)  They resorted to borrowing money.
+- `rest on` /rest ɑːn/              ([Formal] 基づく、頼る)         Our hopes rest on this decision.
+- `pin hopes on` /pɪn hoʊps ɑːn/    ([Neutral] 期待をかける)        They pinned their hopes on winning.
+- `hinge on` /hɪndʒ ɑːn/            ([Neutral] 次第である、頼る)    Everything hinges on the outcome.
+- `bet on` /bet ɑːn/                ([Casual] 当てにする、賭ける)   I wouldn't bet on him showing up.
+- `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
+- `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
+- `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.
