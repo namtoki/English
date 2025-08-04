@@ -92,3 +92,4 @@
   - `derive` /dɪˈraɪv/              ([Formal] 由来する、派生する)   The word derives from Latin.
   - `derivation` /ˌderɪˈveɪʃən/     ([Formal] 由来、派生)           The derivation of this theory is complex.
 
+- `feat` /fiːt/                     ([Neutral] 偉業、功績)          Climbing Everest is an incredible feat.

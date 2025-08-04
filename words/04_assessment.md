@@ -1,4 +1,4 @@
-# Evaluation
+# Assessment
 
 ## COMMON
   - `exemplify` /ɪɡˈzemplɪfaɪ/      ([Formal] 例証する、体現する)   She exemplifies professionalism.

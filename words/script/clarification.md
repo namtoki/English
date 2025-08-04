@@ -1,8 +1,8 @@
 
 - 01_communication.md - 意思疎通・表現
 - 02_cognitive.md - 思考・認知プロセス
-- 03_subjective.md - 主観的な感情・気持ち
-- 04_objective.md - 客観的な物, 人に対する評価
+- 03_emotion.md - 主観的な感情・気持ち
+- 04_assessment.md - 客観的な物, 人に対する評価
 - 05_affect.md - 影響を与える動作
 - 06_move.md - 身体動作・運動
 - 07_conflict.md - 対立・紛争・戦争に関する名詞、動詞

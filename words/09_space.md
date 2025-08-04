@@ -1,5 +1,12 @@
 # Space
 
+## 土手・堤防
+- `bank` /bæŋk/                     ([Neutral] 土手、堤防)          We walked along the river bank.
+- `embankment` /ɪmˈbæŋkmənt/        ([Formal] 堤防、土手)           The embankment protected the town from floods.
+- `levee` /ˈlevi/                   ([Neutral] 堤防、防波堤)        The levee broke during the hurricane.
+- `dike` /daɪk/                     ([Neutral] 堤防、土手)          They built a dike to hold back the water.
+  - `dyke` /daɪk/                   ([British] 堤防、土手)          The dyke prevented flooding.
+
 ## 騒ぎ
 - ✅ `noise` /nɔɪz/                 ([Neutral] 騒音、音)            The noise from the street was too loud.
     - `noisy` /ˈnɔɪzi/              ([Neutral] 騒々しい)            The children were being very noisy.
