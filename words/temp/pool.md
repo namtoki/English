@@ -2169,7 +2169,6 @@ decision	2	【名】解決、決定、判決
 decisive	7	【形】決定的な、断固とした		
 deck	3	【名】デッキ、甲板 【動】飾る		
 declaration	5	【名】宣言、公表		
-declare	4	【動】宣言する、申告する		
 decor	11	【名】装飾物、装飾様式、舞台装置		
 decorate	4	【動】飾る、勲章を授ける		
 decoration	5	【名】飾り付け		
@@ -2845,7 +2844,6 @@ enclosure	7	【名】囲い地、包囲、同封
 encompass	10	【動】包み込む、包囲する		
 encore	7	【名】アンコール、再放送		
 encounter	4	【動】遭う、直面する 【名】出会い		
-encourage	3	【動】勇気づける、奨励する		
 encouragement	6	【名】激励、励みになるもの		
 encouraging	8	【形】勇気づける、励みになる		
 encroach	12	【動】侵入する、侵害する		
@@ -5102,7 +5100,6 @@ mainframe	10	【名】メーンフレーム、大型汎用コンピュータ
 mainland	6	【名】本土、大陸		
 mainly	3	【副】おもに、大部分は		
 mainstream	7	【名】主流、本流		
-maintain	3	【動】維持する、保持する		
 maintenance	4	【名】持続、保つこと、メンテナンス		
 majestic	8	【形】威厳のある、堂々とした、雄大な		
 majesty	5	【名】王族、陛下（皇族などに対する敬称）、尊厳さ、王者の威厳		
@@ -6290,7 +6287,6 @@ pirate	8	【名】海賊、略奪者 【動】海賊行為をする
 piss	10	【名】小便		
 pistol	3	【名】ピストル 【動】ピストルで撃つ		
 pit	4	【名】穴 、くぼみ 【動】穴をあける		
-pitch	4	【動】投げる、ほうる 【名】投球		
 pitcher	3	【名】水差し、ピッチャー		
 pitfall	11	【名】落とし穴、わな		
 pitiful	7	【形】かわいそうな、哀れをもよおす、情けない		
@@ -6535,7 +6531,6 @@ preside	7	【動】取りしきる、主宰する、中心的な位置を占め�
 presidency	8	【名】米国大統領の職		
 president	2	【名】社長、大統領、総裁		
 presidential	5	【形】大統領の		
-press	2	【動】押す、加工する、強く迫る 【名】報道機関、出版業		
 pressing	4	【形】緊急の、熱心な		
 pressure	3	【名】圧力、苦悩 【動】圧力をかける		
 prestige	7	【名】名声、威信 【形】評判の高い		
@@ -6596,12 +6591,10 @@ problem	2	【名】問題、やっかいな人、困ったこと
 process	2	【名】過程、経過 【動】加工する、処理する		
 procession	5	【名】行列、行進		
 processor	8	【名】演算処理装置、処理プログラム、加工業者		
-proclaim	5	【動】公表する、宣言する		
 procrastinate	12	【動】ぐずぐずと引き延ばす		
 procrastination	12	【名】優柔不断		
 procure	10	【動】入手する、もたらす、調達する		
 procurement	11	【名】調達、入手		
-prod	10	【動】つつく、せかす 【名】刺激		
 prodigal	12	【形】金遣いの荒い、物惜しみしない 【名】浪費家		
 prodigious	11	【形】驚くべき、莫大な		
 prodigy	11	【名】神童、奇才、並はずれたもの		
@@ -6641,7 +6634,6 @@ promiscuous	12	【形】見境なく性的関係をもつ、ごたまぜの
 promising	3	【形】前途有望な		
 promontory	12	【名】岬、高台		
 promoter	6	【名】促進者、主催者		
-prompt	5	【形】即座の、時間を守る		
 promptly	5	【副】即座に、敏速に		
 prone	9	【形】～しがちな		
 pronoun	7	【名】代名詞		
@@ -8176,7 +8168,6 @@ starter	8	【名】皮切り、初心者、最初に出る料理
 starvation	6	【名】飢餓		
 starve	4	【動】飢える、餓死する		
 starving	5	【形】飢えた、飢え死にしそうな、腹ぺこで 【名】飢餓、餓死		
-state	2	【名】状態、国家、州 【形】政府の 【動】はっきり述べる		
 stately	11	【形】風格のある、堂々たる 【副】堂々と		
 statement	3	【名】声明、陳述		
 statesman	8	【名】政治家		

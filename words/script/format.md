@@ -1,8 +1,8 @@
 # FORMAT
 
-- `word` /pronunciation/        ([casualty] 訳)             例文
+- `word` /pronunciation/            ([casualty] 訳)                 例文
 
-## 補足 1
+## 補足
 
 - word:
   - format: 英単語を ` で挟んでください

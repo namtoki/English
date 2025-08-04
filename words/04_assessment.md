@@ -416,6 +416,13 @@
   - `resonate with` /ˈrezəneɪt wɪð/ ([Neutral] 心に響く、共鳴する)  Her words resonate with the audience.
   - `identifiable` /aɪˌdentɪˈfaɪəbəl/ ([Formal] 識別できる、共感できる) The character is identifiable to readers.
 
+  - `like the sound of` /laɪk ðə saʊnd əv/ ([Casual] 興味をそそられる)     I like the sound of that plan.
+  - `appeal to` /əˈpiːl tuː/        ([Neutral] 魅力的に思える)      The idea really appeals to me.
+  - `be keen on` /biː kiːn ɒn/      ([Neutral] 興味がある)          I'm keen on learning Spanish.
+  - `be drawn to` /biː drɔːn tuː/   ([Neutral] 惹かれる)            She's drawn to creative people.
+  - `intrigued by` /ɪnˈtriːɡd baɪ/  ([Neutral] 興味をそそられる)    I'm intrigued by your proposal.
+  - `taken with` /ˈteɪkən wɪð/      ([Casual] 気に入る、惹かれる)   He's quite taken with the idea.
+
 ## Family and Inheritance
 - `inherit` /ɪnˈherɪt/               ([Neutral] 相続する)      She inherited her mother's house.
 - `inheritance` /ɪnˈherɪtəns/        ([Neutral] 相続)          He received a large inheritance.

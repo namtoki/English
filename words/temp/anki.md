@@ -1,16 +1,15 @@
 # 01
 impart
 apprise
+elaborate
 admonish
 exhort
 insinuate
 denote
 connote
-infer
 entreat
 beseech
 supplicate
-elaborate
 divulge
 denounce
 debunk
@@ -20,6 +19,7 @@ tattle
 disseminate
 
 # 02
+infer
 surmise
 concoct
 conjure

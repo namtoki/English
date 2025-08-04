@@ -1,5 +1,14 @@
 # Emotion
 
+## 欲しい
+- `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
+- `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
+- `would like` /wʊd laɪk/           ([Polite] 〜が欲しい)           I would like some water, please.
+- `could use` /kʊd juːz/            ([Casual] 〜が欲しい)           I could use a coffee right now.
+- `wouldn't mind` /ˈwʊdnt maɪnd/    ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
+- `could do with` /kʊd duː wɪð/     ([Casual] 〜が欲しい)           I could do with a vacation.
+- `urge` /ɜːrdʒ/                    ([Neutral] 衝動、強い欲求)      I felt a sudden urge to laugh.
+
 ## ついていない・運が悪い
 - ✅ `I can't catch a break`        ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
 - `Nothing's going my way`          ([Casual] 何もうまくいかない)   Nothing's going my way today.

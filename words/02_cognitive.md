@@ -163,3 +163,6 @@
 - `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
 - `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
 - `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.
+
+- `infer` /ɪnˈfɜːr/                 ([Formal] 推論する、推測する)   We can infer from the data that...
+  - `inference` /ˈɪnfərəns/         ([Formal] 推論、推測)           The inference was correct.
