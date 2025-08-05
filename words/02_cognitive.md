@@ -1,37 +1,55 @@
 # Cognitive
 
-## 考える
-- ✅ `think` /θɪŋk/                 ([Neutral] だと思う、考える)    I think he's right about this.
-    - `thoughtful` /ˈθɔːtfəl/       ([Neutral] 思慮深い)            She gave a thoughtful response.
-- ✅ `believe` /bɪˈliːv/            ([Neutral] だと思う、信じる)    I believe this is the right choice.
-- ✅ `suppose` /səˈpoʊz/            ([Neutral] だと思う、仮定する)  I suppose you're right.
-  - `supposition` /ˌsʌpəˈzɪʃən/     ([Formal] 仮定、推定)           That's just a supposition.
-  - `supposedly` /səˈpoʊzɪdli/      ([Neutral] だと思われている)    He's supposedly very wealthy.
-- ✅ `assume` /əˈsuːm/              ([Neutral] だと思う、仮定する)  I assume he'll be late again.
-- ✅ `feel` /fiːl/                  ([Neutral] だと思う、感じる)    I feel this is the best option.
+## THINK
+- `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
+  - `thoughtful` /ˈθɔːtfəl/         ([Neutral] 思慮深い)            She gave a thoughtful response.
+- `believe` /bɪˈliːv/               ([Neutral] だと思う、信じる)    I believe this is the right choice.
+- `feel` /fiːl/                     ([Neutral] だと思う、感じる)    I feel this is the best option.
 - `figure` /ˈfɪɡər/                 ([Casual] だと思う、考える)     I figure we should leave now.
-- ✅ `guess` /ɡes/                  ([Casual] だと思う、推測する)   I guess you're probably right.
-  - `guesswork` /ˈɡeswɜːrk/         ([Casual] 当て推量)             It's all guesswork at this point.
 - `reckon` /ˈrekən/                 ([Casual] だと思う、計算する)   I reckon it'll rain today.
   - `reckoning` /ˈrekənɪŋ/          ([Casual] 計算、清算)           By my reckoning, we owe $50.
-- ✅ `consider` /kənˈsɪdər/         ([Neutral] だと思う、考慮する)  I consider him a good friend.
+- `consider` /kənˈsɪdər/            ([Neutral] だと思う、考慮する)  I consider him a good friend.
   - `consideration`                 ([Neutral] 考慮、思いやり)      Give it serious consideration.
   - `considerable` /kənˈsɪdərəbəl/  ([Neutral] かなりの)            That's a considerable amount.
   - `considerate` /kənˈsɪdərət/     ([Neutral] 思いやりのある)      He's always considerate of others.
-- `presume` /prɪˈzuːm/              ([Formal] だと思う、推定する)   I presume you've read the report.
-  - `presumption` /prɪˈzʌmpʃən/     ([Formal] 推定、思い上がり)     That's a reasonable presumption.
-  - `presumptuous` /prɪˈzʌmptʃuəs/  ([Formal] 生意気な、図々しい)   Don't be so presumptuous.
-  - `presumably` /prɪˈzuːməbli/     ([Formal] おそらく)             Presumably, he'll arrive on time.
-- `surmise` /sərˈmaɪz/              ([Writing] だと思う、推測する)  I surmise that he's already left.
-  - `surmising` /sərˈmaɪzɪŋ/        ([Writing] 推測)                His surmising proved correct.
 
-## 思い付く
-- ✅ `think of` /θɪŋk ʌv/           ([Neutral] 思いつく、考える)    I can't think of a solution.
-- ✅ `come up with` /kʌm ʌp wɪð/    ([Neutral] 思いつく、考え出す)  She came up with a great idea.
-- ✅ `get an idea` /ɡet ən aɪˈdiːə/ ([Neutral] アイデアを思いつく)  I just got an idea!
+## GUESS
+- `guess` /ɡes/                     ([Neutral] 推測する)            I can only guess what happened.
+  - `guesswork` /ˈɡeswɜːrk/         ([Neutral] 推測、当て推量)      It was pure guesswork on my part.
+- `assume` /əˈsuːm/                 ([Neutral] 仮定する、思い込む)  Don't assume I know what you mean.
+  - `assumption` /əˈsʌmpʃən/        ([Neutral] 仮定、思い込み)      That's a dangerous assumption.
+  - `assumptive` /əˈsʌmptɪv/        ([Writing] 仮定的な)            The assumptive close is a sales technique.
+- `presume` /prɪˈzuːm/              ([Formal] 推定する、仮定する)   I presume you've heard the news.
+  - `presumption` /prɪˈzʌmpʃən/     ([Formal] 推定、仮定)           The presumption of innocence is vital.
+  - `presumptive` /prɪˈzʌmptɪv/     ([Writing] 推定上の)            The presumptive heir to the throne.
+  - `presumably` /prɪˈzuːməbli/     ([Neutral] おそらく、多分)      Presumably, he'll arrive soon.
+- `suppose` /səˈpoʊz/               ([Neutral] 想定する、思う)      I suppose you're right.
+  - `supposition` /ˌsʌpəˈzɪʃən/     ([Formal] 想定、仮定)           That's merely a supposition.
+  - `supposedly` /səˈpoʊzɪdli/      ([Neutral] たぶん、推定では)    He's supposedly an expert.
+- `speculate` /ˈspekjəleɪt/         ([Neutral] 推測する、投機する)  We can only speculate about the cause.
+  - `speculation` /ˌspekjəˈleɪʃən/  ([Neutral] 推測、投機)          That's pure speculation.
+  - `speculative` /ˈspekjələtɪv/    ([Neutral] 推測的な、投機的な)  The report is highly speculative.
+  - `speculator` /ˈspekjəleɪtər/    ([Neutral] 投機家、相場師)      Property speculators drove up prices.
+- `surmise` /sərˈmaɪz/              ([Formal] 推測する、推量する)   I surmised that he was upset.
+- `conjecture` /kənˈdʒektʃər/       ([Writing] 推測、臆測)          It's all conjecture at this point.
+  - `conjectural` /kənˈdʒektʃərəl/  ([Writing] 推測的な)            The evidence is purely conjectural.
+- `hypothesize` /haɪˈpɑːθəsaɪz/     ([Formal] 仮説を立てる)         Scientists hypothesize about dark matter.
+  - `hypothetical` /ˌhaɪpəˈθetɪkəl  ([Formal] 仮説的な、仮定の)     That's a hypothetical situation.
+- `postulate` /ˈpɑːstʃəleɪt/        ([Writing] 仮定する、要請する)  Einstein postulated the speed of light.
+  - `postulation` /ˌpɑːstʃəˈleɪʃən/ ([Writing] 仮定、要請)          The postulation proved correct.
+- `theorize` /ˈθiːəraɪz/            ([Neutral] 理論化する)          They theorized about the origins.
+  - `theoretical` /ˌθiːəˈretɪkəl/   ([Neutral] 理論的な)            It's purely theoretical.
+- `infer` /ɪnˈfɜːr/                 ([Formal] 推論する、推測する)   What can we infer from this data?
+  - `inference` /ˈɪnfərəns/         ([Formal] 推論、推測)           That's a reasonable inference.
+  - `inferential` /ˌɪnfəˈrenʃəl/    ([Writing] 推論的な)            Inferential statistics are complex.
+
+## THINK OF
+- `think of` /θɪŋk ʌv/              ([Neutral] 思いつく、考える)    I can't think of a solution.
+- `come up with` /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
+- `get an idea` /ɡet ən aɪˈdiːə/    ([Neutral] アイデアを思いつく)  I just got an idea!
 - `hit on` /hɪt ɑːn/                ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
 - `strike` /straɪk/                 ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
-- ✅ `occur to` /əˈkɜːr tuː/        ([Neutral] 思い浮かぶ)          It never occurred to me.
+- `occur to` /əˈkɜːr tuː/           ([Neutral] 思い浮かぶ)          It never occurred to me.
 - `devise` /dɪˈvaɪz/                ([Formal] 考案する、工夫する)   They devised a new strategy.
   - `devising` /dɪˈvaɪzɪŋ/          ([Formal] 考案)                 Devising solutions takes time.
 - `conceive` /kənˈsiːv/             ([Formal] 思いつく、想像する)   I can't conceive of such cruelty.
@@ -44,15 +62,13 @@
 - `concoct` /kənˈkɑːkt/             ([Formal] でっち上げる、作る)   She concocted an elaborate plan.
   - `concoction` /kənˈkɑːkʃən/      ([Formal] 作り話、調合物)       His story was a wild concoction.
 - `hatch` /hætʃ/                    ([Casual] 企てる、計画する)     They hatched a secret plan.
-  - `hatching` /ˈhætʃɪŋ/            ([Casual] 企て、陰影法)         The hatching of the plan was secretive.
 - `conjure up` /ˈkʌndʒər ʌp/        ([Writing] 思い起こす 作り出す) He conjured up a fantastic story.
 
-## 思い出す
-- ✅ `remind` /rɪˈmaɪnd/            ([Neutral] 思い出させる)        This song reminds me of my childhood.
-- ✅ `remember` /rɪˈmembər/         ([Neutral] 思い出す 覚えている) I remember meeting you before.
+## REMIND
+- `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる)        This song reminds me of my childhood.
+- `remember` /rɪˈmembər/            ([Neutral] 思い出す 覚えている) I remember meeting you before.
   - `remembrance` /rɪˈmembrəns/     ([Formal] 記憶、追悼)           In remembrance of those we lost.
-- ✅ `recall` /rɪˈkɔːl/             ([Neutral] 思い出す、回収する)  I can't recall his name.
-  - `recalling` /rɪˈkɔːlɪŋ/         ([Neutral] 思い出すこと)        Recalling the past brought tears.
+- `recall` /rɪˈkɔːl/                ([Neutral] 思い出す、回収する)  I can't recall his name.
 - `trigger` /ˈtrɪɡər/               ([Neutral] 引き金、きっかけ)    The smell triggered old memories.
 - `bring back` /brɪŋ bæk/           ([Neutral] 思い出させる)        This photo brings back memories.
 - `call to mind` /kɔːl tuː maɪnd/   ([Neutral] 思い起こさせる)      Your voice calls her to mind.
@@ -65,12 +81,12 @@
   - `evocative` /ɪˈvoʊkətɪv/        ([Writing] 想起させる)          The photo is evocative of old times.
 - `summon up` /ˈsʌmən ʌp/           ([Formal] 呼び起こす)           He summoned up courage from memories.
 
-## 想像する
-- ✅ `imagine` /ɪˈmædʒɪn/           ([Neutral] 想像する、思う)      I can't imagine life without music.
+## IMAGINE
+- `imagine` /ɪˈmædʒɪn/              ([Neutral] 想像する、思う)      I can't imagine life without music.
   - `imaginative` /ɪˈmædʒɪnətɪv/    ([Neutral] 想像力豊かな)        His imaginative story captivated us.
   - `imaginary` /ɪˈmædʒɪneri/       ([Neutral] 想像上の、架空の)    He has an imaginary friend.
-- ✅ `think` /θɪŋk/                 ([Neutral] 思う、想像する)      Think what would happen if...
-- ✅ `picture` /ˈpɪktʃər/           ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
+- `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
+- `picture` /ˈpɪktʃər/              ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
 - `visualize` /ˈvɪʒuəlaɪz/          ([Neutral] 視覚化する)          Visualize your goals clearly.
 - `envision` /ɪnˈvɪʒən/             ([Formal] 心に描く、想像する)   I envision a bright future.
 - `fantasize` /ˈfæntəsaɪz/          ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
@@ -79,14 +95,14 @@
 - `fancy` /ˈfænsi/                  ([Casual] 想像する、思う)       I fancy he's already left.
   - `fanciful` /ˈfænsɪfəl/          ([Neutral] 空想的な、奇抜な)    That's a fanciful idea.
 
-## 理解する
-- ✅ `understand` /ˌʌndərˈstænd/    ([Neutral] 理解する)            I understand your concern.
-- ✅ `get` /ɡet/                    ([Casual] 理解する)             I get what you mean.
+## UNDERSTAND
+- `understand` /ˌʌndərˈstænd/       ([Neutral] 理解する)            I understand your concern.
+- `get` /ɡet/                       ([Casual] 理解する)             I get what you mean.
 - `see` /siː/                       ([Neutral] 想像する、理解する)  I can see that happening.
 - `grasp` /ɡræsp/                   ([Neutral] 把握する)            She quickly grasped the concept.
 - `comprehend` /ˌkɑːmprɪˈhend/      ([Formal] 理解する)             I cannot comprehend his actions.
-- ✅ `figure out` /ˈfɪɡər aʊt/      ([Neutral] 理解する、解決する)  Let me figure out the problem.
-- ✅ `make sense of`                ([Neutral] 理解する)            I can't make sense of this data.
+- `figure out` /ˈfɪɡər aʊt/         ([Neutral] 理解する、解決する)  Let me figure out the problem.
+- `make sense of`                   ([Neutral] 理解する)            I can't make sense of this data.
 - `follow` /ˈfɑːloʊ/                ([Neutral] 理解して聞く)        I follow your argument.
 - `catch on` /kætʃ ɑːn/             ([Casual] 理解する、把握する)   He'll catch on eventually.
 - `pick up` /pɪk ʌp/                ([Casual] 理解する、習得する)   Kids pick up languages quickly.
@@ -96,12 +112,12 @@
 - `perceive` /pərˈsiːv/             ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
   - `perception` /pərˈsepʃən/       ([Formal] 理解、知覚)           His perception was accurate.
 
-## 識別する
-- ✅ `recognize` /ˈrekəɡnaɪz/       ([Neutral] 見分ける、認める)    I didn't recognize him at first.
+## RECOGNIZE
+- `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める)    I didn't recognize him at first.
   - `recognizable`/ˈrekəɡnaɪzəbəl/  ([Neutral] 認識できる)          The landmark is easily recognizable.
 - `identify` /aɪˈdentɪfaɪ/          ([Neutral] 見分ける、特定する)  Can you identify the suspect?
   - `identifiable`/aɪˈdentɪfaɪəbəl/ ([Neutral] 識別可能な)          The symptoms are easily identifiable.
-- ✅ `tell` /tel/                   ([Casual] 見分ける、区別する)   I can't tell the twins apart.
+- `tell` /tel/                      ([Casual] 見分ける、区別する)   I can't tell the twins apart.
   - `telling` /ˈtelɪŋ/              ([Neutral] 効果的な、明白な)    That was a telling remark.
 - `distinguish` /dɪˈstɪŋɡwɪʃ/       ([Formal] 区別する、見分ける)   It's hard to distinguish between them.
   - `distinguishable`               ([Formal] 区別できる)           The voices are barely distinguishable.
@@ -122,11 +138,11 @@
 - `differentiate` /ˌdɪfəˈrenʃieɪt/  ([Formal] 区別する、差別化する) It's important to differentiate the brands.
   - `differentiation`               ([Formal] 差別化、区別)         Product differentiation is key.
 
-## 忘れないでおく・心に留める
-- ✅ `keep in mind`                 ([Neutral] 心に留める)          Keep in mind that he's new here.
-  - ✅ `bear in mind`               ([Neutral] 心に留める)          Bear in mind the deadline.
+## KEEP IN MIND
+- `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
+  - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
   - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
-- ✅ `remember` /rɪˈmembər/         ([Neutral] 忘れないでおく)      Remember to lock the door.
+- `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
 - `don't forget` /doʊnt fərˈɡet/    ([Casual] 忘れないで)           Don't forget to call me.
 - `make a note of` /meɪk ə noʊt/    ([Neutral] メモしておく)        Make a note of this address.
 - `take note of` /teɪk noʊt əv/     ([Neutral] 注意しておく)        Take note of what he says.
@@ -144,14 +160,14 @@
 - `engrave on memory` /ɪnˈɡreɪv/    ([Writing] 記憶に刻む)          The moment was engraved on her memory.
 - `treasure` /ˈtreʒər/              ([Neutral] 大切にする)          I treasure those memories.
 
-## 頼る
-- ✅ `rely on` /rɪˈlaɪ ɑːn/         ([Neutral] 頼る、依存する)      We rely on public transport.
-- ✅ `depend on` /dɪˈpend ɑːn/      ([Neutral] 頼る、次第である)    Success depends on hard work.
-- ✅ `count on` /kaʊnt ɑːn/         ([Neutral] 頼る、当てにする)    I'm counting on you to help me.
+## RELY ON
+- `rely on` /rɪˈlaɪ ɑːn/            ([Neutral] 頼る、依存する)      We rely on public transport.
+- `depend on` /dɪˈpend ɑːn/         ([Neutral] 頼る、次第である)    Success depends on hard work.
+- `count on` /kaʊnt ɑːn/            ([Neutral] 頼る、当てにする)    I'm counting on you to help me.
 - `trust` /trʌst/                   ([Neutral] 信頼する)            You can trust me not to tell anyone.
-- ✅ `turn to` /tɜːrn tuː/          ([Neutral] 頼る、助けを求める)  She turned to her family for support.
+- `turn to` /tɜːrn tuː/             ([Neutral] 頼る、助けを求める)  She turned to her family for support.
 - `look to` /lʊk tuː/               ([Neutral] 頼る、期待する)      We look to you for guidance.
-- ✅ `bank on` /bæŋk ɑːn/           ([Neutral] 当てにする)          I'm banking on your help.
+- `bank on` /bæŋk ɑːn/              ([Neutral] 当てにする)          I'm banking on your help.
 - `lean on` /liːn ɑːn/              ([Neutral] 頼る、支えにする)    She had her friends to lean on.
 - `have confidence in`              ([Neutral] 信頼する)            I have confidence in her abilities.
 - `fall back on` /fɔːl bæk ɑːn/     ([Neutral] 頼る、最終手段)      I have savings to fall back on.
@@ -163,6 +179,3 @@
 - `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
 - `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
 - `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.
-
-- `infer` /ɪnˈfɜːr/                 ([Formal] 推論する、推測する)   We can infer from the data that...
-  - `inference` /ˈɪnfərəns/         ([Formal] 推論、推測)           The inference was correct.

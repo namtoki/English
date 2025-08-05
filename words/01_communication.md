@@ -68,9 +68,6 @@
 - `pass along` /pæs əˈlɔːŋ/         ([Neutral] 情報を伝える)        Please pass along the message.
 - `relay` /rɪˈleɪ/                  ([Neutral] 中継する、伝える)    Please relay this message to her.
 
-## SHARE
-- `share` /ʃɛər/                    ([Neutral] 共有する 分かち合う) Let me share some news with you.
-
 ## SUGGEST
 - `suggest` /səˈdʒest/              ([Neutral] 提案する、暗示する)  I suggest we leave early.
   - `suggestive` /səˈdʒestɪv/       ([Writing] 連想させる、示唆的)  The painting has a suggestive quality.
@@ -187,48 +184,82 @@
 - `display` /dɪˈspleɪ/              ([Neutral] 示す、陳列する)      The store displays its best products.
   - `exhibit` /ɪɡˈzɪbɪt/            ([Formal] 展示する、示す)       The museum exhibits ancient artifacts.
 
-- ✅ `describe` /dɪˈskraɪb/         ([Neutral] 描写する、説明する)  Can you describe what happened?
-    - `descriptive` /dɪˈskrɪptɪv/   ([Neutral] 描写的な)            Use more descriptive language.
-  - `portray` /pɔːrˈtreɪ/           ([Neutral] 描写する、演じる)    The actor portrayed a villain.
-    - `portrayal` /pɔːrˈtreɪəl/     ([Neutral] 描写、肖像)          His portrayal was realistic.
-  - `depict` /dɪˈpɪkt/              ([Neutral] 描く、描写する)      The painting depicts a rural scene.
-    - `depiction` /dɪˈpɪkʃən/       ([Neutral] 描写、叙述)          The depiction was accurate.
-- ✅ `reveal` /rɪˈviːl/             ([Neutral] 明らかにする)        She revealed her true feelings.
-    - `revelation` /ˌrevəˈleɪʃən/   ([Neutral] 暴露、啓示)          The revelation shocked everyone.
-    - `revealing` /rɪˈviːlɪŋ/       ([Neutral] 明らかにする)        Her comments were very revealing.
-  - `expose` /ɪkˈspoʊz/             ([Neutral] 暴露する、さらす)    The scandal exposed corruption.
-  - `confess` /kənˈfes/             ([Neutral] 告白する、白状する)  He confessed his mistake.
-  - `admit` /ədˈmɪt/                ([Neutral] 認める、白状する)    I admit I was wrong.
-    - `admittedly` /ədˈmɪtɪdli/     ([Neutral] 確かに、認めるが)    Admittedly, it was a mistake.
-  - `leak` /liːk/                   ([Neutral] 漏らす、漏れる)      Someone leaked the information.
-  - `confide` /kənˈfaɪd/            ([Neutral] 打ち明ける 信頼して) She confided in her best friend.
-    - `confidant` /ˈkɑːnfɪdænt/     ([Neutral] 親友、信頼できる人)  He was her trusted confidant.
-    - `confidential`                ([Formal] 機密の)               The information is confidential.
-  - `uncover` /ʌnˈkʌvər/            ([Neutral] 暴く、発見する)      The investigation uncovered fraud.
-    - `uncovering` /ʌnˈkʌvərɪŋ/     ([Neutral] 発見、暴露)          The uncovering of truth was important.
-  - `disclose` /dɪsˈkloʊz/          ([Formal] 開示する 明らかにする)The company disclosed its financial results.
-  - `betray` /bɪˈtreɪ/              ([Neutral] 裏切る、漏らす)      He betrayed their trust.
-  - `unveil` /ʌnˈveɪl/              ([Formal] 明らかにする 発表する)They unveiled the new product.
-    - `unveiling` /ʌnˈveɪlɪŋ/       ([Formal] 発表、除幕式)         The unveiling ceremony was grand.
-  - `divulge` /daɪˈvʌldʒ/           ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
-    - `divulgence` /daɪˈvʌldʒəns/   ([Writing] 暴露、漏洩)          The divulgence of secrets was forbidden.
-  - `let out` /let aʊt/             ([Casual] 漏らす、明かす)       Don't let out the secret.
-  - `blow the whistle`              ([Casual] 内部告発する)         She blew the whistle on corruption.
-    - `whistleblower`               ([Neutral] 内部告発者)          The whistleblower exposed the scandal.
-  - `spill` /spɪl/                  ([Casual] こぼす、漏らす)       She spilled the beans about the surprise.
-    - `spilling` /ˈspɪlɪŋ/          ([Casual] こぼし、漏らし)       The spilling of secrets was inevitable.
-  - `rat out` /ræt aʊt/             ([Casual] 密告する、ちくる)     He ratted out his accomplice.
-  - `snitch` /snɪtʃ/                ([Casual] 密告する、ちくる)     Don't snitch on your friends.
-  - `blab` /blæb/                   ([Casual] ペラペラしゃべる)     She blabbed about the surprise party.
-    - `blabbing` /ˈblæbɪŋ/          ([Casual] おしゃべり)           His blabbing ruined the surprise.
-  - `tattle` /ˈtætəl/               ([Casual] 告げ口する)           Don't tattle on your sister.
-    - `tattling` /ˈtætəlɪŋ/         ([Casual] 告げ口)               Tattling will get you in trouble.
-    - `tattletale` /ˈtætəlteɪl/     ([Casual] 告げ口する人)         Nobody likes a tattletale.
-  - `debunk` /dɪˈbʌŋk/              ([Neutral] 正体を暴く 論破する) Scientists debunked the conspiracy theory.
-    - `debunking` /dɪˈbʌŋkɪŋ/       ([Neutral] 論破、暴露)          The debunking of myths is important.
-    - `debunked` /dɪˈbʌŋkt/         ([Neutral] 論破された)          That theory has been thoroughly debunked.
+## DESCRIBE
+- `describe` /dɪˈskraɪb/            ([Neutral] 描写する、説明する)  Can you describe what happened?
+  - `descriptive` /dɪˈskrɪptɪv/     ([Neutral] 描写的な)            Use more descriptive language.
+- `portray` /pɔːrˈtreɪ/             ([Neutral] 描写する、演じる)    The actor portrayed a villain.
+  - `portrayal` /pɔːrˈtreɪəl/       ([Neutral] 描写、肖像)          His portrayal was realistic.
+- `depict` /dɪˈpɪkt/                ([Neutral] 描く、描写する)      The painting depicts a rural scene.
+  - `depiction` /dɪˈpɪkʃən/         ([Neutral] 描写、叙述)          The depiction was accurate.
 
-## 広める
+## REVEAL
+- `reveal` /rɪˈviːl/                ([Neutral] 明らかにする)        She revealed her true feelings.
+  - `revelation` /ˌrevəˈleɪʃən/     ([Neutral] 暴露、啓示)          The revelation shocked everyone.
+  - `revealing` /rɪˈviːlɪŋ/         ([Neutral] 明らかにする)        Her comments were very revealing.
+- `expose` /ɪkˈspoʊz/               ([Neutral] 暴露する、さらす)    The scandal exposed corruption.
+- `confess` /kənˈfes/               ([Neutral] 告白する、白状する)  He confessed his mistake.
+- `admit` /ədˈmɪt/                  ([Neutral] 認める、白状する)    I admit I was wrong.
+  - `admittedly` /ədˈmɪtɪdli/       ([Neutral] 確かに、認めるが)    Admittedly, it was a mistake.
+- `leak` /liːk/                     ([Neutral] 漏らす、漏れる)      Someone leaked the information.
+- `confide` /kənˈfaɪd/              ([Neutral] 打ち明ける 信頼して) She confided in her best friend.
+  - `confidant` /ˈkɑːnfɪdænt/       ([Neutral] 親友、信頼できる人)  He was her trusted confidant.
+  - `confidential`                  ([Formal] 機密の)               The information is confidential.
+- `uncover` /ʌnˈkʌvər/              ([Neutral] 暴く、発見する)      The investigation uncovered fraud.
+  - `uncovering` /ʌnˈkʌvərɪŋ/       ([Neutral] 発見、暴露)          The uncovering of truth was important.
+- `disclose` /dɪsˈkloʊz/            ([Formal] 開示する 明らかにする)The company disclosed its financial results.
+- `betray` /bɪˈtreɪ/                ([Neutral] 裏切る、漏らす)      He betrayed their trust.
+- `unveil` /ʌnˈveɪl/                ([Formal] 明らかにする 発表する)They unveiled the new product.
+  - `unveiling` /ʌnˈveɪlɪŋ/         ([Formal] 発表、除幕式)         The unveiling ceremony was grand.
+- `divulge` /daɪˈvʌldʒ/             ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
+  - `divulgence` /daɪˈvʌldʒəns/     ([Writing] 暴露、漏洩)          The divulgence of secrets was forbidden.
+- `let out` /let aʊt/               ([Casual] 漏らす、明かす)       Don't let out the secret.
+- `blow the whistle`                ([Casual] 内部告発する)         She blew the whistle on corruption.
+  - `whistleblower`                 ([Neutral] 内部告発者)          The whistleblower exposed the scandal.
+- `spill` /spɪl/                    ([Casual] こぼす、漏らす)       She spilled the beans about the surprise.
+  - `spilling` /ˈspɪlɪŋ/            ([Casual] こぼし、漏らし)       The spilling of secrets was inevitable.
+- `rat out` /ræt aʊt/               ([Casual] 密告する、ちくる)     He ratted out his accomplice.
+- `snitch` /snɪtʃ/                  ([Casual] 密告する、ちくる)     Don't snitch on your friends.
+- `blab` /blæb/                     ([Casual] ペラペラしゃべる)     She blabbed about the surprise party.
+  - `blabbing` /ˈblæbɪŋ/            ([Casual] おしゃべり)           His blabbing ruined the surprise.
+- `tattle` /ˈtætəl/                 ([Casual] 告げ口する)           Don't tattle on your sister.
+  - `tattling` /ˈtætəlɪŋ/           ([Casual] 告げ口)               Tattling will get you in trouble.
+  - `tattletale` /ˈtætəlteɪl/       ([Casual] 告げ口する人)         Nobody likes a tattletale.
+
+## DISPROVE
+- `disprove` /dɪsˈpruːv/            ([Neutral] 反証する)            The evidence disproves his claim.
+- `refute` /rɪˈfjuːt/               ([Formal] 論破する、反駁する)   She refuted the allegations completely.
+  - `refutation` /ˌrefjuˈteɪʃən/    ([Formal] 反駁、論破)           His refutation was well-documented.
+  - `refutable` /rɪˈfjuːtəbəl/      ([Writing] 反駁可能な)          The claim is easily refutable.
+  - `irrefutable` /ˌɪrɪˈfjuːtəbəl/  ([Writing] 反駁できない)        The evidence is irrefutable.
+- `debunk` /dɪˈbʌŋk/                ([Neutral] 正体を暴く 論破する) Scientists debunked the conspiracy theory.
+  - `debunking` /dɪˈbʌŋkɪŋ/         ([Neutral] 論破、暴露)          The debunking of myths is important.
+  - `debunked` /dɪˈbʌŋkt/           ([Neutral] 論破された)          That theory has been thoroughly debunked.
+- `rebut` /rɪˈbʌt/                  ([Formal] 反論する、反証する)   He rebutted the accusations firmly.
+  - `rebuttal` /rɪˈbʌtəl/           ([Formal] 反論、反駁)           Her rebuttal was convincing.
+- `invalidate` /ɪnˈvælɪdeɪt/        ([Formal] 無効にする、論破する) New evidence invalidated the theory.
+- `falsify` /ˈfɔːlsɪfaɪ/            ([Neutral] 偽造する、反証する)  The data falsifies the hypothesis.
+  - `falsification`                 ([Formal] 偽造、反証)           The falsification of documents is illegal.
+  - `falsifiable` /ˌfɔːlsɪˈfaɪəbəl/ ([Writing] 反証可能な)          Scientific theories must be falsifiable.
+
+## SPREAD
+- `spread` /spred/                  ([Neutral] 広める、広がる)      The news spread quickly.
+  - `spreading` /ˈspredɪŋ/          ([Neutral] 拡散、伝播)          The spreading of rumors is harmful.
+- `share` /ʃɛər/                    ([Neutral] 共有する 分かち合う) Let me share some news with you.
 - `announce` /əˈnaʊns/              ([Neutral] 発表する、公表する)  They announced the winner.
 - `disseminate` /dɪˈsemɪneɪt/       ([Writing] 普及する、広める)    They disseminated the information widely.
-  - `dissemination`                 ([Writing] 普及、配布)          The dissemination of research findings~~
+  - `dissemination`                 ([Writing] 普及、配布)          The dissemination of research findings
+- `broadcast` /ˈbrɔːdkæst/          ([Neutral] 放送する、広める)    The station broadcasts 24 hours a day.
+- `circulate` /ˈsɜːrkjəleɪt/        ([Neutral] 流通する、広める)    Rumors circulated about the merger.
+  - `circulation` /ˌsɜːrkjəˈleɪʃən/ ([Neutral] 流通、発行部数)      The newspaper has wide circulation.
+- `distribute` /dɪˈstrɪbjuːt/       ([Neutral] 配布する、分配する)  They distributed flyers to everyone.
+- `propagate` /ˈprɑːpəɡeɪt/         ([Formal] 広める、伝播する)     They propagated their beliefs widely.
+  - `propagation` /ˌprɑːpəˈɡeɪʃən/  ([Formal] 伝播、普及)           The propagation of ideas takes time.
+- `publicize` /ˈpʌblɪsaɪz/          ([Neutral] 公表する、宣伝する)  They publicized the event heavily.
+  - `publicity` /pʌˈblɪsəti/        ([Neutral] 宣伝、知名度)        The publicity helped sales increase.
+- `promulgate` /ˈprɑːməlɡeɪt/       ([Writing] 公布する、広める)    The law was promulgated yesterday.
+  - `promulgation`                  ([Writing] 公布、発布)          The promulgation was official.
+- `proliferate` /prəˈlɪfəreɪt/      ([Formal] 急増する、拡散する)   Fake news proliferates online.
+  - `proliferation`                 ([Formal] 拡散、急増)           The proliferation of technology
+- `disperse` /dɪˈspɜːrs/            ([Neutral] 分散する、散布する)  The seeds dispersed in the wind.
+  - `dispersal` /dɪˈspɜːrsəl/       ([Formal] 分散、散布)           The dispersal pattern was studied.
+  - `dispersion` /dɪˈspɜːrʒən/      ([Writing] 分散、散乱)          Light dispersion creates rainbows.

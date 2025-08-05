@@ -10,21 +10,28 @@ connote
 entreat
 beseech
 supplicate
+avow
+aver
 divulge
-denounce
+refute
+rebut
 debunk
 snitch
 blab
 tattle
 disseminate
+propagate
+promulgate
+proliferate
+disperse
 
 # 02
-infer
 surmise
 concoct
 conjure
 evoke
 fathom
+infer
 
 # 03
 vehement
@@ -99,6 +106,7 @@ slug
 seduce
 unfathomable
 rupture
+denounce
 frivolous
 pacify
 huddle

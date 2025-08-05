@@ -311,7 +311,6 @@ annex	11	【名】別館、離れ 【動】併合する、付け足す
 annexation	12	【名】領土の併合、付加		
 annihilate	12	【動】滅ぼす、選挙で圧勝する、無効にする		
 anniversary	4	【名】記念日、記念祭		
-announcement	3	【名】発表、声明、アナウンス、コマーシャル		
 announcer	3	【名】アナウンサー、告知者		
 annoy	5	【動】悩ます		
 annoyance	7	【名】迷惑、苛だたしさ、困惑、困りごと		
@@ -497,7 +496,6 @@ association	4	【名】団体、交際、組合、協会
 assorted	8	【形】種種雑多の、（～な）組み合わせの		
 assortment	11	【名】種類、各種の詰め合わせ、仕分け		
 assuming	8	【接】～と仮定すれば 【形】出しゃばった、生意気な		
-assumption	5	【名】想定、仮定、引き受けること		
 assurance	5	【名】保証、断言		
 assure	4	【動】保証する、断言する		
 assured	10	【形】保証された、確実な、自信のある		
@@ -1006,9 +1004,6 @@ briskly	10	【副】活発に、元気よく
 bristle	10	【動】逆立つ、怒らせる		
 brittle	11	【形】もろい、不安定な		
 broad	2	【形】幅の広い、大まかな 【副】十分に		
-broadcast	2	【動】放送する 【形】放送された		
-broadcaster	9	【名】放送出演者、アナウンサー		
-broadcasting	5	【名】放送		
 broaden	7	【動】広げる、広くなる、広がる		
 broadly	7	【副】概して、広く		
 broccoli	3	【名】ブロッコリー		
@@ -1388,8 +1383,6 @@ cigarette	2	【名】巻きタバコ
 cinema	2	【名】映画館、映画		
 circuit	4	【名】周、巡回、サーキット、電気回路、周囲		
 circular	5	【形】円の、円形の		
-circulate	7	【動】広まる、循環する、流通する		
-circulation	6	【名】循環、血行		
 circumference	12	【名】外周、周囲、広さ		
 circumscribe	12	【動】制限する、周辺に線を引く、区切る		
 circumspect	12	【形】慎重な、熟慮した		
@@ -1718,7 +1711,6 @@ congregation	8	【名】集まり、集会、集まった人々、信徒団
 congress	4	【名】議会、連邦議会、国会、会議、大会		
 congressional	8	【形】会議の、集会の、アメリカ議会の		
 congressman	6	【名】下院議員		
-conjecture	9	【名】推測 【動】推測する		
 conjunction	10	【名】結合、共同、接続詞		
 connoisseur	11	【名】通、鑑識家、目利き		
 consciousness	4	【名】意識、正気、自覚		
@@ -2489,7 +2481,6 @@ dispatch	7	【動】急派する、急送する、殺す 【名】派遣、殺�
 dispel	10	【動】追い払う、一掃する		
 dispensary	12	【名】調剤室、無料または低料金の診療所		
 dispense	8	【動】施す、施行する、免ずる		
-disperse	10	【動】散らす、広める		
 displace	7	【動】強制退去させる、追放する、移しかえる、取って代わる		
 displacement	8	【名】移動、転移、置き換え、解雇、強制退去		
 displeasure	8	【名】不満、不機嫌、立腹、不安		
@@ -2525,7 +2516,6 @@ distracted	9	【形】気を散らされた、取り乱した
 distraction	8	【名】気を散らすこと、放心、注意散漫、動転		
 distraught	11	【形】取り乱した、狂気の		
 distress	5	【名】苦悩、悲嘆、苦痛 【動】苦悩する		
-distribution	3	【名】配分、配給品、流通		
 distributor	7	【名】販売者、流通業者、分配		
 district	2	【名】地区、地方		
 distrust	6	【動】疑う、信頼しない 【名】不信		
@@ -4156,7 +4146,6 @@ hypertension	11	【名】過度の緊張、高血圧
 hypnosis	12	【名】催眠状態、夢幻状態		
 hypocrisy	8	【名】偽善、見せかけ、猫かぶり		
 hypocrite	9	【名】偽善者、猫かぶり		
-hypothesis	7	【名】仮説、前提、仮定		
 hysteria	10	【名】興奮状態、ヒステリー		
 hysterical	8	【形】ヒステリックな、狂乱の、ヒステリー症の		
 iceberg	10	【名】氷山		
@@ -6443,7 +6432,6 @@ postgraduate	8	【形】大学卒業後の、大学院の 【名】大学院生�
 posthumous	12	【形】死後の、著者の死後に出版された		
 postman	3	【名】郵便配達人		
 postpone	4	【動】あとに延ばす、後ろに置く		
-postulate	12	【動】主張する、要求する、仮定する		
 posture	8	【名】姿勢、気どった態度、考え方、心構え 【動】ある姿勢をとる		
 postwar	8	【形】戦後の		
 potassium	12	【名】カリウム		
@@ -6624,8 +6612,6 @@ project	3	【名】計画 【動】前に突き出す、映写する
 projectile	12	【名】発射体 【形】発射される、推進する		
 projection	7	【名】突出、発射、投影、噴出、見積り		
 projector	10	【名】投影機、プロジェクター、計画者		
-proliferate	11	【動】まん延する、繁殖する、拡大させる		
-proliferation	10	【名】拡散、蔓延		
 prolific	11	【形】多作の、多産の、～に富んでいる		
 prologue	8	【名】（詩の）序の部分、序言		
 prolong	4	【動】延長する、長引かせる		
@@ -6640,7 +6626,6 @@ pronoun	7	【名】代名詞
 pronunciation	4	【名】発音		
 prop	7	【名】支え、支持者 【動】支える、もたせかける		
 propaganda	7	【名】宣伝、宣伝された主義		
-propagate	12	【動】繁殖する、増殖させる、広める、宣伝する		
 propel	8	【動】進ませる、精進させる、かりたてる		
 propeller	9	【名】プロペラ、推進器		
 proper	2	【形】適した、正しい、固有の		
@@ -6715,8 +6700,6 @@ pub	3	【名】パブ、大衆酒場
 puberty	12	【名】思春期、年ごろ		
 public	2	【形】公の、公開の、一目に触れる 【名】一般人		
 publication	4	【名】出版、刊行、公表		
-publicity	5	【名】宣伝、広告、評判		
-publicize	9	【動】公表する、広告する		
 publicly	4	【副】人前で、公的に		
 publish	2	【動】出版する、正式に発表する		
 publisher	5	【名】出版社、発行者		
@@ -6919,7 +6902,6 @@ rebirth	10	【名】再生、蘇生
 rebound	10	【動】はね返る、立ち直る 【名】はね返り、反響		
 rebuff	11	【動】拒絶する 【名】ひじ鉄砲、妨害、断固たる拒絶		
 rebuild	6	【動】建て替える、改装する、修正する		
-rebuttal	12	【名】反論、反証		
 recalcitrant	11	【形】扱いにくい、権力に抵抗する 【名】扱いにくい人		
 recapture	9	【動】再び捕らえる、取り戻す、思い出す 【名】回復、再逮捕		
 receipt	3	【名】領収書、受け取ること		
@@ -8041,8 +8023,6 @@ spectacle	4	【名】壮観、眼鏡
 spectacular	6	【形】見事な、目を見張るような、壮大な 【名】超大作		
 spectator	5	【名】観客、見物人		
 spectrum	9	【名】スペクトル、分布範囲、連続体		
-speculate	8	【動】推測する、沈思する、投機する、ヤマをはる		
-speculation	6	【名】推量、熟考、投機		
 speculative	9	【形】思索的な、投機的な、危険な		
 speculator	10	【名】投機家、思索家		
 speech	2	【名】話すこと、話す能力、スピーチ		
@@ -8093,7 +8073,6 @@ spouse	8	【名】配偶者
 spout	10	【名】（やかんなどの）口、噴出 【動】噴出する、まくしたてる		
 sprawl	8	【動】四方に広がる、手足を広げる 【名】不規則な広がり		
 spray	4	【動】吹きかける 【名】噴霧機		
-spread	2	【動】広がる、広げる 【名】広がること		
 spreadsheet	9	【名】集計表、スプレッドシート、簿記用紙		
 spree	11	【名】欲望や気分にふけること、ばか騒ぎ 【動】浮かれる		
 sprig	12	【名】小枝		
@@ -8650,7 +8629,6 @@ theology	10	【名】神学
 theoretical	7	【形】理論上の、理論好きな、架空の		
 theoretically	10	【副】理論上は、名目上は		
 theorist	8	【名】理論家		
-theory	3	【名】理論、方法論、説		
 thereafter	7	【副】それ以来		
 thereby	9	【副】それによって、それについて、その近くに		
 therefore	3	【副】その結果		
