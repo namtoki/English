@@ -1,5 +1,81 @@
 # Time
 
+## FIRST OF ALL
+- `first of all` /fɜːrst əv ɔːl/    ([Neutral] まず第一に)          First of all, let me thank you.
+- `firstly` /ˈfɜːrstli/             ([Formal] 第一に)               Firstly, we need to review the budget.
+- `to begin with` /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
+- `to start with` /tuː stɑːrt wɪð/  ([Neutral] まず初めに)          To start with, check your equipment.
+- `initially` /ɪˈnɪʃəli/            ([Neutral] 最初は、当初は)      Initially, I was skeptical.
+
+## IN THE FIRST PLACE
+- `in the first place`              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
+
+## MOST OF ALL
+- `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
+- `above all` /əˈbʌv ɔːl/           ([Neutral] 何よりも、特に)      Above all, be true to yourself.
+- `most importantly`                ([Neutral] 最も重要なことに)    Most importantly, stay safe.
+- `especially` /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
+- `particularly` /pərˈtɪkjələrli/   ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
+- `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
+
+## NEXT
+- `then` /ðen/                      ([Neutral] それから)            First we'll eat, then we'll go.
+- `next` /nekst/                    ([Neutral] 次に)                Next, we'll discuss the budget.
+- `after that` /ˈæftər ðæt/         ([Neutral] その後)              After that, everything changed.
+- `now` /naʊ/                       ([Neutral] さて、今)            Now, let's begin the presentation.
+- `later` /ˈleɪtər/                 ([Neutral] 後で)                Later, we discovered the truth.
+- `afterwards` /ˈæftərwərdz/        ([Neutral] その後で)            Afterwards, we went for coffee.
+- `finally` /ˈfaɪnəli/              ([Neutral] 最後に、ついに)      Finally, we reached an agreement.
+- `meanwhile` /ˈmiːnwaɪl/           ([Neutral] その間、一方)        Meanwhile, the situation worsened.
+- `following that` /ˈfɑːloʊɪŋ ðæt/  ([Neutral] それに続いて)        Following that, we had lunch.
+- `subsequently` /ˈsʌbsɪkwəntli/    ([Formal] その後、続いて)       Subsequently, he was promoted.
+- `thereafter` /ðerˈæftər/          ([Formal] その後)               Thereafter, she lived abroad.
+- `henceforth` /hensˈfɔːrθ/         ([Formal] 今後は)               Henceforth, all meetings are virtual.
+- `forthwith` /fɔːrθˈwɪθ/           ([Formal] 直ちに)               The order was executed forthwith.
+
+## MOVING ON
+- `moving on` /ˈmuːvɪŋ ɒn/          ([Casual] 次に進むと)           Moving on, let's discuss sales.
+- `let's move on to`                ([Neutral] ～に話を進めましょ)  Let's move on to the next topic.
+
+## OFF-TOPIC
+- `by the way` /baɪ ðə weɪ/         ([Casual] ところで)             By the way, did you see the email?
+- `speaking of` /ˈspiːkɪŋ əv/       ([Casual] そういえば)           Speaking of John, where is he?
+- `actually` /ˈæktʃuəli/            ([Neutral] 実は、ところで)      Actually, I have a question.
+- `incidentally` /ˌɪnsɪˈdentəli/    ([Neutral] ついでに言うと)      Incidentally, I saw him yesterday.
+- `that reminds me`                 ([Casual] それで思い出したけど) That reminds me, I need to call her.
+- `while we're on the subject`      ([Neutral] この話題のついでに)  While we're on the subject, let me add this.
+- `on a side note`                  ([Neutral] 余談ですが)          On a side note, the cafeteria is closed.
+- `as an aside` /æz ən əˈsaɪd/      ([Formal] 余談として)           As an aside, this method is outdated.
+- `parenthetically` /ˌpærənˈθetɪkli/([Formal] 補足的に言うと)       Parenthetically, this issue arose before.
+- `off-topic, but`                  ([Casual] 話が逸れるけど)       Off-topic, but have you seen the new office?
+- `on another note`                 ([Neutral] 別の話ですが)        On another note, sales are up this month.
+- `changing the subject`            ([Neutral] 話を変えますが)      Changing the subject, how was your vacation?
+- `to digress` /tuː daɪˈɡres/       ([Formal] 脱線しますが)         To digress for a moment, let me explain this.
+
+## 戻す
+- [x] `(going) back to O`                   ([Casual] Oに話を戻すと) `Going back to the main topic,` we still need to finalize the budget.
+- [ ] `Just to circle back to what I said earlier` ([Neutral] 先ほどの話に戻ると) `Just to circle back to what I said earlier,` we still need a clear deadline.
+- [x] `anyway`                              ([Casual] とにかく／さて) `Anyway,` let’s get back to the main topic.
+- [ ] `in any case`                         ([Neutral] とにかく／いずれにせよ) `In any case,` we should be prepared for any outcome.
+
+## と言うのも
+- [x] `for one/another thing`               ([Casual] ひとつには／それから) `For one thing,` it's too expensive. `For another thing,` it's not reliable.
+
+## 強い文を後に足す
+- [x] `besides`                             ([Casual] その上に) I can't afford a new phone. `Besides,` my old one still works fine.
+- [ ] `what's more`                         ([Casual] その上／さらに) `What's more,` we managed to finish ahead of schedule.
+- [ ] `what's worse`                        ([Casual] さらに悪いことに) He forgot his keys, and `what's worse,` his phone died.
+- [ ] `to make matters worse`               ([Casual] さらに悪いことに) `To make matters worse,` it started raining during the event.
+- [ ] `in addition to that`                 ([Formal] それに加えて) `In addition to that,` we’ll need to allocate more resources.
+- [x] `More than anything`                  ([Casual] 何よりも) `More than anything,` I just want things to go back to normal.
+- [ ] `above all`                           ([Neutral] 何よりも) `Above all,` safety must come first.
+- [ ] `among other things`                  ([Neutral] とりわけ) I noticed, `among other things`, that he was drunk.
+
+## 最後に
+- [x] `in conclusion`                       ([Formal] 結論として) `In conclusion,` the data supports our hypothesis.
+
+---
+
 ## 振り返ると
 - ✅ `looking back` /ˈlʊkɪŋ bæk/    ([Neutral] 振り返ると)          Looking back, it was a good decision.
   - `thinking back` /ˈθɪŋkɪŋ bæk/   ([Neutral] 思い返すと)          Thinking back, we made the right choice.
@@ -81,16 +157,3 @@
   - `archaism` /ˈɑːrkeɪɪzəm/        ([Writing] 古語、古風な表現)    The text is full of archaisms.
 - `defunct` /dɪˈfʌŋkt/              ([Formal] 廃止された、消滅した) The defunct company left many debts.
 
-## 順序
-- `first of all` /fɜːrst əv ɔːl/    ([Neutral] まず第一に)          First of all, let me thank you.
-- `firstly` /ˈfɜːrstli/             ([Formal] 第一に)               Firstly, we need to review the budget.
-- `to begin with` /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
-- `to start with` /tuː stɑːrt wɪð/  ([Neutral] まず初めに)          To start with, check your equipment.
-- `initially` /ɪˈnɪʃəli/            ([Neutral] 最初は、当初は)      Initially, I was skeptical.
-- `in the first place`              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
-- `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
-- `above all` /əˈbʌv ɔːl/           ([Neutral] 何よりも、特に)      Above all, be true to yourself.
-- `most importantly`                ([Neutral] 最も重要なことに)    Most importantly, stay safe.
-- `especially` /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
-- `particularly` /pərˈtɪkjələrli/   ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
-- `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
