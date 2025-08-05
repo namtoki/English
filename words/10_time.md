@@ -80,3 +80,17 @@
 - `archaic` /ɑːrˈkeɪɪk/             ([Writing] 古風な、時代遅れの)  The law contains archaic language.
   - `archaism` /ˈɑːrkeɪɪzəm/        ([Writing] 古語、古風な表現)    The text is full of archaisms.
 - `defunct` /dɪˈfʌŋkt/              ([Formal] 廃止された、消滅した) The defunct company left many debts.
+
+## 順序
+- `first of all` /fɜːrst əv ɔːl/    ([Neutral] まず第一に)          First of all, let me thank you.
+- `firstly` /ˈfɜːrstli/             ([Formal] 第一に)               Firstly, we need to review the budget.
+- `to begin with` /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
+- `to start with` /tuː stɑːrt wɪð/  ([Neutral] まず初めに)          To start with, check your equipment.
+- `initially` /ɪˈnɪʃəli/            ([Neutral] 最初は、当初は)      Initially, I was skeptical.
+- `in the first place`              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
+- `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
+- `above all` /əˈbʌv ɔːl/           ([Neutral] 何よりも、特に)      Above all, be true to yourself.
+- `most importantly`                ([Neutral] 最も重要なことに)    Most importantly, stay safe.
+- `especially` /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
+- `particularly` /pərˈtɪkjələrli/   ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
+- `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
