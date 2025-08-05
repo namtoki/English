@@ -148,6 +148,14 @@
 - `get ahead` /ɡet əˈhed/           ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
 - `come along` /kʌm əˈlɔːŋ/         ([Neutral] 進歩する、発展する)  Her skills are coming along well.
 
+## 実績
+- `track record` /træk ˈrekərd/     ([Neutral] 実績、経歴)          She has an excellent track record in sales.
+- `record` /ˈrekərd/                ([Neutral] 記録、実績)          His academic record is impressive.
+- `history` /ˈhɪstəri/              ([Neutral] 履歴、経歴)          The company has a long history of innovation.
+- `background` /ˈbækɡraʊnd/         ([Neutral] 経歴、背景)          Her background is in engineering.
+- `credentials` /krɪˈdenʃəlz/       ([Formal] 資格、実績)           His credentials are outstanding.
+- `portfolio` /pɔːrtˈfoʊlioʊ/       ([Neutral] 作品集、実績集)      Review my portfolio of past projects.
+
 ## まとめる、形にする
 - ✅ `fall into place`              ([Neutral] うまくいく まとまる) The presentation is falling into place.
 - ✅ `work out` /wɜːrk aʊt/         ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
@@ -375,6 +383,12 @@
 ## スケジューリングする
 - ✅ `schedule` /ˈskedʒuːl/         ([Neutral] スケジュールする)    Let's schedule a meeting for tomorrow.
 - ✅ `set up` /set ʌp/              ([Neutral] 設定する、手配する)  I'll set up a meeting with the team.
+  - `set things up` /set θɪŋz ʌp/   ([Neutral] 準備する、手配する)  Let me set things up for tomorrow.
+  - `get things ready`               ([Neutral] 準備を整える)        I'll get things ready for the event.
+  - `put things in place`            ([Neutral] 準備を整える)        We need to put things in place first.
+  - `make arrangements`              ([Neutral] 手配する、準備する)  I'll make arrangements for the trip.
+  - `prepare` /prɪˈper/              ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `establish` /ɪˈstæblɪʃ/          ([Formal] 設立する、確立する)   We need to establish the process.
 - `book` /bʊk/                      ([Neutral] 予約する 予定を入る) Can you book a conference room?
 - `arrange` /əˈreɪndʒ/              ([Neutral] 手配する、調整する)  I'll arrange a time that works for everyone.
 - `plan` /plæn/                     ([Neutral] 計画する、予定する)  Let's plan the project timeline.

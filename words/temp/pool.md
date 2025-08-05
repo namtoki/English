@@ -438,7 +438,6 @@ army	2	【名】軍隊、陸軍、大群
 aroma	10	【名】香り、気品		
 arousal	12	【名】喚起、覚醒、性的興奮		
 arouse	7	【動】目を覚ます、誘発する、喚起する		
-arrangement	2	【名】配列、協定、手配		
 array	5	【動】配置する、装う 【名】配置、列挙		
 arrest	3	【動】逮捕する 【名】逮捕		
 arrival	2	【名】到着、出現		
@@ -601,7 +600,6 @@ bachelor	7	【名】独身者、未婚男子、学士（号）
 backbone	6	【名】背骨、重要要素、気骨		
 backdrop	11	【名】背景、バックドロップ		
 backfire	10	【動】裏目に出る、逆発する 【名】バックファイア、さか火		
-background	3	【名】背景 【動】背景をなす		
 backlash	11	【名】反発、反動 【動】激しく反発する		
 backpack	2	【名】バックパック		
 backpacking	6	【名】バックパックを背負っての旅行		
@@ -6410,7 +6408,6 @@ port	2	【名】港、左舷
 portable	5	【形】携帯用の、運搬できる		
 portal	5	【名】宮殿の表玄関、橋やトンネルの入口、ポータルサイト		
 porter	7	【名】運搬人、ポーター		
-portfolio	8	【名】紙ばさみ、ポートフォリオ（金融資産の一覧）、書類カバン		
 portion	4	【名】部分 【動】分割する		
 portrait	4	【名】肖像画、胸像		
 pose	3	【動】ふりをする、ポーズをとらせる 【名】姿勢		
@@ -6504,7 +6501,6 @@ preoccupation	9	【名】没頭、夢中にさせるもの、先取り
 preoccupied	7	【形】夢中になった、先取りされた		
 preoccupy	10	【動】夢中にする、心を奪う、先取りする		
 preparation	4	【名】用意、心構え		
-prepare	2	【動】準備する、作りあげる、覚悟をさせる		
 preponderance	12	【名】（数や重量で）勝ること、優勢		
 preposterous	11	【形】非常識な、不合理な、本末転倒の		
 prerequisite	12	【名】必要条件 【形】前もって必要な		
@@ -6929,7 +6925,6 @@ recoil	12	【動】（バネなどが）反動ではね返る、後ずさりす�
 recompense	12	【名】報酬、お礼 【動】報いる		
 reconnaissance	11	【名】偵察、調査		
 reconsider	8	【動】再考する、考え直す、再審議する		
-record	2	【名】記録、レコード 【動】記録する		
 recorder	3	【名】録音装置、レコーダー		
 recording	4	【名】記録、記載、レコード		
 recount	8	【動】詳しく話す、物語る		
