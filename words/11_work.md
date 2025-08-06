@@ -1,5 +1,26 @@
 # Work
 
+## MOST OF ALL
+- `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
+- `above all` /əˈbʌv ɔːl/           ([Neutral] 何よりも、特に)      Above all, be true to yourself.
+- `most importantly`                ([Neutral] 最も重要なことに)    Most importantly, stay safe.
+- `especially` /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
+- `particularly` /pərˈtɪkjələrli/   ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
+- `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
+
+## FOR ONE THING
+- [x] `for one/another thing`               ([Casual] ひとつには／それから) `For one thing,` it's too expensive. `For another thing,` it's not reliable.
+
+## 強い文を後に足す
+- [x] `besides`                             ([Casual] その上に) I can't afford a new phone. `Besides,` my old one still works fine.
+- [ ] `what's more`                         ([Casual] その上／さらに) `What's more,` we managed to finish ahead of schedule.
+- [ ] `what's worse`                        ([Casual] さらに悪いことに) He forgot his keys, and `what's worse,` his phone died.
+- [ ] `to make matters worse`               ([Casual] さらに悪いことに) `To make matters worse,` it started raining during the event.
+- [ ] `in addition to that`                 ([Formal] それに加えて) `In addition to that,` we’ll need to allocate more resources.
+- [x] `More than anything`                  ([Casual] 何よりも) `More than anything,` I just want things to go back to normal.
+- [ ] `above all`                           ([Neutral] 何よりも) `Above all,` safety must come first.
+- [ ] `among other things`                  ([Neutral] とりわけ) I noticed, `among other things`, that he was drunk.
+
 ## 了解です・やっておきます
 - ✅ `Will do` /wɪl duː/            ([Casual] やっておきます)       "Can you send me the report?" "Will do."
   - `Got it` /ɡɑt ɪt/               ([Casual] 了解です)             "Please finish by 5." "Got it."

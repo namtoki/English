@@ -30,8 +30,6 @@ acclamation	12	【名】満場一致、発声投票、拍手喝さい
 accommodating	10	【形】親切な、人の言いなりになる		
 accommodation	5	【名】宿泊設備、適応、和解		
 accomplice	11	【名】共犯者、仲間		
-accord	4	【動】一致する 【名】調和、（国際間の）協定		
-account	2	【名】口座、顧客、説明 【動】説明する、占める		
 accountable	10	【形】責任がある、もっともな		
 accrue	11	【動】結果として生じる、獲得する		
 accumulate	6	【動】蓄積する、積み上げる、積もる		
@@ -724,7 +722,6 @@ beforehand	6	【副】あらかじめ
 beget	12	【動】生じさせる、父親が子をもうける		
 beginner	3	【名】初心者		
 beguile	11	【動】魅する、だます、だまし取る		
-behalf	5	【名】支持、味方、利益、〈on behalf ofの形で〉～に代わって、～のために		
 behave	2	【動】ふるまう、行儀よくする		
 behavior	4	【名】ふるまい、反応		
 behavioral	9	【形】行動の		
@@ -2203,7 +2200,6 @@ deft	11	【形】器用な、腕のよい
 defy	6	【動】挑む、無視する、ものともしない		
 degenerate	11	【動】悪化する 【形】悪化した、退化した		
 degradation	8	【名】不名誉、体面を傷つけること、左遷、低下、劣化		
-degree	2	【名】程度、度、学位		
 deity	11	【名】神、神性		
 dejected	12	【形】しょげている、意気消沈した		
 delay	3	【動】遅れる、遅らせる 【名】遅延		
@@ -2839,7 +2835,6 @@ encyclopedia	8	【名】百科事典
 endanger	6	【動】危険にさらす、危うくする		
 endangered	10	【形】絶滅寸前の、危険にさらされた		
 endear	11	【動】いとしいと思わせる、慕わせる		
-endeavor	6	【動】努力する、試みる 【名】努力、試み		
 endemic	11	【形】ある地方特有の、風土性の 【名】風土病		
 ending	2	【名】終わり		
 endless	4	【形】終わりのない、永遠の		
@@ -3065,7 +3060,6 @@ expend	7	【動】費やす、使い果たす
 expenditure	7	【名】支出、経費、支払い		
 expense	3	【名】費用、経費		
 expensive	2	【形】高価な		
-experience	2	【名】経験 【動】経験する		
 experienced	5	【形】経験豊かな、熟達した		
 experiment	3	【名】実験 【動】実験する		
 expert	3	【名】熟達者、専門家		
@@ -3089,7 +3083,6 @@ expulsion	10	【名】除名、追放
 exquisite	7	【形】非常に美しい、申し分のない、洗練された		
 extant	12	【形】現存の		
 extemporaneous	12	【形】突発的な、即興的な		
-extent	4	【名】範囲、広さ、程度		
 exterior	5	【形】外側の 【名】外部		
 external	4	【形】外の		
 extol	11	【動】褒めそやす、激賞する		
@@ -3972,7 +3965,6 @@ hem	12	【名】すそ 【動】へりを縫う、取り囲む
 hemisphere	8	【名】半球、範囲、領域		
 hemorrhage	12	【名】国外流出、出血、損失		
 hen	3	【名】メンドリ		
-hence	6	【副】だから、今から		
 hepatitis	11	【名】肝臓炎		
 herald	9	【動】到来を告げる 【名】王の使者、予兆		
 herb	6	【名】薬草、ハーブ、草		
@@ -4520,7 +4512,6 @@ intelligent	2	【形】高い知能をもつ、知性のある
 intelligible	7	【形】わかりやすい、理解しやすい、明瞭な		
 intend	2	【動】つもりである、意図する		
 intended	6	【形】意図された、わざと行われた、故意の、予定された		
-intention	3	【名】意図、心構え		
 intentional	7	【形】意図的な、意識的な		
 inter	11	【動】埋葬する、葬る		
 interact	6	【動】相互に作用する、交流する		
@@ -4875,7 +4866,6 @@ lesbian	9	【形】女性の同性愛の 【名】同性愛の女性
 lesion	12	【名】損傷、障害、病巣		
 less	2	【副】より少なく（little の比較級）		
 lesser	8	【形】より小さい、より少ない、劣った		
-lest	6	【接】～しないように、～するといけないから		
 lethal	9	【形】致命的な		
 lettuce	3	【名】レタス		
 leukemia	11	【名】白血病		
@@ -5118,7 +5108,6 @@ manipulation	9	【名】上手な扱い、巧みな操作
 manipulator	12	【名】不正な処理をする人、操縦者		
 mankind	6	【名】人類		
 manly	6	【形】男らしい、勇気のある		
-manner	2	【名】行儀、態度、仕方、風習		
 mannerism	11	【名】癖、わざとらしさ、型にはまった手法		
 manor	8	【名】荘園、領地、領主の邸宅		
 manpower	8	【名】人的資源		
@@ -5815,7 +5804,6 @@ openly	4	【副】隠し立てしないで、率直に
 opera	2	【名】歌劇		
 operational	8	【形】使用できる、操作上の、作戦上の、作戦可能な		
 operator	3	【名】操作者、オペレーター、執刀者		
-opinion	2	【名】意見		
 opinionated	12	【形】頑固な、独断的な		
 opium	11	【名】アヘン、麻痺させるもの		
 opponent	5	【名】対戦相手、相手 【形】反対の、対立する		
@@ -6187,7 +6175,6 @@ personality	3	【名】性格、人
 personalize	6	【動】個人のものにする、特定の人向けにする、擬人化する		
 personally	4	【副】個人的に、私としては		
 personnel	6	【名】人事課、全職員 【形】職員の		
-perspective	6	【名】見方、透視図、展望 【形】遠近法の		
 perspiration	10	【名】汗、努力		
 persuade	4	【動】説得する、促して～させる		
 persuasion	7	【名】説得、納得、確信		
@@ -6456,7 +6443,6 @@ prayer	3	【名】祈り、祈る人
 preach	4	【動】説教する 【名】説教		
 preacher	8	【名】説教師、牧師、教えさとす人		
 precarious	9	【形】不安定な、いい加減な		
-precaution	6	【名】予防措置、用心		
 precede	7	【動】先行する、上位である		
 precedence	12	【名】（空間・時間的に）先立つこと、（序列・地位・重要性などで）優先であること		
 precedent	9	【名】前例		
@@ -6723,7 +6709,6 @@ purchase	4	【動】購入する 【名】購入
 purge	9	【動】追放する、清める		
 purple	2	【名】紫色 【形】紫色の		
 purport	10	【動】称する、主張する、意味する 【名】目標		
-purpose	2	【名】目的、意図		
 purposely	8	【副】わざと、故意に		
 purr	12	【動】（猫が）のどを鳴らす、満足げな様子を示す		
 purse	2	【名】ハンドバッグ、小物入れ		
@@ -6980,7 +6965,6 @@ refusal	5	【名】拒絶、拒否、優先権
 refuse	3	【動】断る		
 regain	6	【動】取り戻す、復帰する		
 regal	11	【形】豪奢な、王の		
-regard	2	【動】みなす、見る 【名】敬意		
 regarding	4	【前】～に関して、～について		
 regardless	5	【形】むとんちゃくな 【副】かかわらず、〈regardless ofの形で〉関係なく		
 regime	7	【名】政権、政体、制度		
@@ -7353,7 +7337,6 @@ sadly	3	【副】悲しんで、不幸にも
 sadness	4	【名】悲しさ、不幸		
 safari	10	【名】狩猟旅行、サファリ		
 safe	1	【形】安全な 【名】金庫		
-safeguard	7	【名】保護手段、保護 【動】守る		
 safely	3	【副】安全に、支障なく		
 safety	2	【名】安全、危険防止装置		
 sag	11	【動】落ち込む、たるむ 【名】たるみ、落ち込み		
@@ -7568,7 +7551,6 @@ senior	3	【形】年上の、先任の
 seniority	10	【名】年上、年功		
 sensation	4	【名】感覚、気持ち、興奮		
 sensational	7	【形】驚くべき、扇情的な、素晴らしい		
-sense	2	【名】感覚、正気 【動】感じる		
 senseless	7	【形】意識を失った、感覚のない、無分別な、非常識な		
 sensibility	8	【名】感覚、感性、感受性、敏感さ		
 sensible	3	【形】分別がある、実用本位の		
@@ -8621,7 +8603,6 @@ theoretical	7	【形】理論上の、理論好きな、架空の
 theoretically	10	【副】理論上は、名目上は		
 theorist	8	【名】理論家		
 thereafter	7	【副】それ以来		
-thereby	9	【副】それによって、それについて、その近くに		
 therefore	3	【副】その結果		
 therein	12	【副】その点に、その中に		
 thermal	9	【形】熱の、温泉の、体温を保つ		
@@ -8675,7 +8656,6 @@ thump	9	【動】激しくひっぱたく、たたきつける 【名】ゴツ�
 thunder	3	【名】雷 【動】雷が鳴る		
 thunderous	9	【形】雷のような、とどろきわたる、途方もない		
 thunderstorm	7	【名】激しい雷雨		
-thus	3	【副】それゆえに、上に述べたように		
 thwart	11	【動】挫折させる、計画をじゃまする 【形】不利な		
 tick	6	【動】項目にしるしをつける 【名】チェックマーク、時計のカチカチという音		
 tickle	8	【動】くすぐる、おもしろがらせる		
@@ -9212,7 +9192,6 @@ victorious	5	【形】勝利を得た、勝った
 victory	3	【名】勝利、優勝		
 videotape	6	【名】ビデオテープ 【動】ビデオテープに録画する		
 vie	11	【動】競う、争う		
-view	2	【名】考え、目的 【動】見る、思いめぐらす		
 viewer	4	【名】視聴者、ビューアー、観察者		
 viewpoint	5	【名】見地、見える地点、観点		
 vigil	11	【名】不眠、徹夜		

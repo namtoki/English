@@ -251,3 +251,13 @@ solace
 revoke
 allay
 interim
+
+# 10
+lull
+interlude
+respite
+reprieve
+outmode
+defunct
+hiatus
+bygone

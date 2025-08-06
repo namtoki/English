@@ -1,4 +1,5 @@
 
+- 00_framework.md - お決まりの構文構造パターンや副詞表現
 - 01_communication.md - 意思疎通・表現
 - 02_cognitive.md - 思考・認知プロセス
 - 03_emotion.md - 主観的な感情・気持ち
