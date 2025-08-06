@@ -191,3 +191,128 @@
 - `in support of` /ɪn səˈpɔːrt əv/  ([Neutral] 支持して)            They organized a rally in support of the new policy.
 - `knowingly` /ˈnoʊɪŋli/            ([Formal] 承知の上で)           He knowingly broke the rules.
 - `willfully` /ˈwɪlfəli/            ([Formal] 故意に)               She willfully ignored the instructions.
+
+## EVEN THOUGH
+- `even though` /ˈiːvən ðoʊ/        ([Neutral] 〜にも関わらず)      Even though he's new to the team, ~~
+- `although` /ɔːlˈðoʊ/              ([Neutral] 〜にも関わらず)      Although it was raining, we went for a walk.
+- `though` /ðoʊ/                    ([Casual] 〜だけど)             I'll help you, though I'm really busy.
+- `despite` /dɪˈspaɪt/              ([Formal] 〜にもかかわらず)     Despite the weather, the event went on as planned.
+- `in spite of` /ɪn spaɪt əv/       ([Formal] 〜に反して)           In spite of our compliments, he frowned and turned away.
+- `regardless of` /rɪˈɡɑːrdləs əv/  ([Neutral] 〜に関係なく)        The show will go on regardless of the weather.
+- `for all` /fɔːr ɔːl/              ([Formal] 〜にもかかわらず)     For all her experience, she still ~~
+- `with all` /wɪð ɔːl/              ([Formal] 〜があっても)         With all his experience, he still made a rookie mistake.
+- `notwithstanding`                 ([Formal] 〜にもかかわらず)     Notwithstanding the difficulties, we succeeded.
+
+## EVEN IF
+- `even if` /ˈiːvən ɪf/             ([Neutral] たとえ〜しても)      Even if it rains, we'll still go to the park.
+- `whether or not`                  ([Neutral] するしない関係なく)  I'm going whether or not you come with me.
+- `no matter what` /noʊ ˈmætər wʌt/ ([Neutral] 何があっても)        No matter what happens, I'll support you.
+- `no matter how` /noʊ ˈmætər haʊ/  ([Neutral] どんなに〜でも)      No matter how hard I try, I can't solve this.
+- `however much` /haʊˈevər mʌtʃ/    ([Neutral] どれだけ〜しても)    However much you study, there's always more to learn.
+- `regardless` /rɪˈɡɑːrdləs/        ([Neutral] それでも)            He went ahead regardless of the risks.
+- `come what may` /kʌm wʌt meɪ/     ([Formal] 何が起ころうと)       Come what may, we'll face it together.
+- `whatever happens`                ([Casual] 何があっても)         Whatever happens, don't give up.
+
+## UNLIKE
+- `unlike` /ʌnˈlaɪk/                ([Neutral] ～とは異なり)        Unlike his earlier works, this novel is far more political.
+- `contrary to` /ˈkɑːntreri tuː/    ([Formal] ～に反して)           Contrary to popular belief, the earth is not flat.
+- `in contrast to`                  ([Formal] ～と対照的に)         In contrast to last year, this year's sales increased.
+- `as opposed to` /æz əˈpoʊzd tuː/  ([Neutral] ～と対比して)        I prefer tea as opposed to coffee.
+- `different from` /ˈdɪfərənt frʌm/ ([Neutral] ～と違って)          This model is different from the previous one.
+- `in a departure from`             ([Formal] ～から転じて)         In a departure from tradition, they chose a young CEO.
+- `breaking from` /ˈbreɪkɪŋ frʌm/   ([Neutral] ～から脱して)        Breaking from convention, she wore jeans to the gala.
+- `departing from`                  ([Formal] ～から逸脱して)       Departing from the script, he improvised his speech.
+- `differing from` /ˈdɪfərɪŋ frʌm/  ([Neutral] ～と異なって)        Differing from his colleagues, he supported the proposal.
+
+## INSTEAD
+- `instead of` /ɪnˈsted əv/         ([Neutral] ～の代わりに)        We stayed home instead of going out.
+- `rather than` /ˈræðər ðæn/        ([Neutral] ～よりむしろ)        I'd walk rather than take the bus.
+- `in place of` /ɪn pleɪs əv/       ([Formal] ～の代替として)       She attended in place of her boss.
+- `in lieu of` /ɪn luː əv/          ([Formal] ～の代わりに)         They gave vouchers in lieu of refunds.
+- `as an alternative to`            ([Neutral] ～の代替案として)    We chose this as an alternative to the original plan.
+- `in preference to`                ([Formal] ～より優先して)       They hired her in preference to other candidates.
+- `over` /ˈoʊvər/                   ([Casual] ～より)               I chose tea over coffee.
+- `instead` /ɪnˈsted/               ([Neutral] その代わりに)        I couldn't go. I sent a gift instead.
+
+## ASSUMING THAT
+- `assuming that` /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
+- `considering that`                ([Neutral] ～を考慮すると)      Considering that it's raining, we should take umbrellas.
+- `given that` /ˈɡɪvən ðæt/         ([Neutral] ～を考えると)        Given that he's new, he did remarkably well.
+- `provided that` /prəˈvaɪdɪd ðæt/  ([Formal] ～という条件で)       You can go provided that you finish your work.
+- `supposing that` /səˈpoʊzɪŋ ðæt/  ([Neutral] ～だと仮定して)      Supposing that he refuses, what will you do?
+- `in light of` /ɪn laɪt əv/        ([Formal] ～を踏まえて)         In light of recent events, we postponed the meeting.
+- `in view of` /ɪn vjuː əv/         ([Formal] ～を考慮して)         In view of the circumstances, we'll make an exception.
+- `taking into account`             ([Neutral] ～を考慮に入れて)    Taking into account the delay, we adjusted the schedule.
+- `on the assumption that`          ([Formal] ～という前提で)       We proceeded on the assumption that approval would come.
+- `say` /seɪ/                       ([Casual] 仮に～だとして)       Say you win the lottery, what would you do?
+- `let's say` /lets seɪ/            ([Casual] 仮に～としよう)       Let's say 5 o'clock. Does that work?
+- `as long as` /æz lɔːŋ æz/         ([Neutral] ～する限り)          As long as you try, that's what matters.
+- `as far as` /æz fɑːr æz/          ([Neutral] ～する範囲では)      As far as I know, the meeting is still on.
+- `insofar as` /ˌɪnsoʊˈfɑːr æz/     ([Formal] ～する限りにおいて)   The plan works insofar as we have funding.
+- `in the event that`               ([Formal] ～の場合は)           In the event that it rains, we'll move inside.
+- `on condition that`               ([Formal] ～という条件で)       You may leave on condition that you return by 5.
+
+## 的に言うと
+- [x] `if anything`                         ([Casual] どちらかと言えば／むしろ) `If anything,` this situation calls for more caution.
+- [x] `if I had to say/guess`               ([Casual] しいて言うなら／あえて推測するなら) `If I had to guess,` they’ll arrive late.
+- [x] `if it works for you`                 ([Neutral] それで都合がよければ) We can meet at 3 p.m. tomorrow `if it works for you`.
+- [x] `if you don't mind`                   ([Neutral] よろしければ／差し支えなければ) `If you don't mind,` could I ask you a few questions?
+- [x] `if I'm not mistaken`                 ([Neutral] 間違っていなければ) `If I'm not mistaken,` the meeting is at 3 p.m.
+- [x] `to be honest`                        ([Casual] 正直に言うと) `To be honest, I didn’t like the movie.`
+- [ ] `much to the relief of O`             ([Neutral] Oが安心したことには) `Much to the relief of the team, the deadline was extended.`
+- [ ] `simply put`                          ([Neutral] 簡単に言えば) `Simply put,` we need to improve communication.
+- [ ] `in a nutshell`                       ([Neutral] 手短に言えば) `In a nutshell,` the project was a success.
+- [x] `Off the top of my head`              ([Formal] 思いつくままに言うと) `Off the top of my head,` I think it's wrong.
+- [ ] `Without thinking too much`           ([Casual] あまり考えずに言うと) `Without thinking too much,` I’d say we need more time.
+- [x] `Just out of curiosity`               ([Casual] 単に興味からなのですが) `Just out of curiosity,` why did you come to Japan?
+- [ ] `All things considered`               ([Formal] 全体的に考えると) `All things considered,` that was a successful event.
+- [ ] `Depending on how you look at it`     ([Formal] 考え方によっては) `Depending on how you look at it,` this law is either beneficial or harmful.
+- [ ] `if you think about it`               ([Casual] 考えてみると) It's crazy how we can communicate like this, `if you think about it.`
+- [ ] `Now that I think about it`           ([Casual] よく考えたら) `Now that I think about it,` I should text instead.
+- [ ] `no doubt`                            ([Neutral] 疑いなく) `No doubt,` she is the best candidate for the job.
+- [x] `In my defense,`                      ([Neutral] 言い訳すると) `In my defense,` it was dark and he was a very pretty guy!
+- [ ] `If I may explain myself,`            ([Formal] 言い訳しますと) `If I may explain myself,` my comment was not meant to be offensive.
+- [ ] `This might be just me, but`          ([Casual] 自分だけかもしれないけど) `This might be just me, but` I thought the movie was kind of boring.
+- [ ] `Just to be clear,`                   ([Neutral] 誤解のないよう言っておくと) `Just to be clear,` I’m not blaming anyone here.
+- [x] `It may sound like`                   ([Neutral] Oと聞こえるかもだが) `It may sound like I'm being self-centered here, but...`
+- [ ] `You'd think (that) S V, but`         ([Neutral] S V と思うかもしれないですが) `You'd think Japan would be really technologically advanced, but...`
+- [ ] `I hate to admit it, but`             ([Neutral] 認めたくないけど) `I hate to admit it, but` I might need your help.
+- [ ] `Don’t get me wrong, but`             ([Casual] 誤解しないでほしいんだけど) `Don’t get me wrong, but` I think we should try a different approach.
+- [x] `That's a fair point, but`            ([Neutral] それはもっともですが) `That's a fair point, but` we need to consider other factors.
+- [x] `That may be true, but`               ([Neutral] それはもっともですが) `That may be true, but` I have some concerns.
+- [x] `You (may) have a point, but`         ([Neutral] 一理あるね) `You may have a point there, but` I still believe the plan is feasible.
+- [x] `I see your point, but`               ([Neutral] 仰ることは分かります) `I see your point, but` I have a slightly different view.
+- [ ] `With all due respect,`               ([Formal] 失礼を承知の上で言いますが) `With all due respect,` I believe your estimate is overly optimistic.
+- [x] `I mean,`                             ([Casual] だってさ) `I mean,` it was dark and he was a very pretty guy!
+- [ ] `I was thinking`                      ([Casual] ちょっと考えてたんだけど) `I was thinking` we could try a different approach.  
+
+## YOU KNOW WHAT I MEAN
+- `, right?` /raɪt/                 ([Casual] ～だよね？)           You're coming to the party tonight, right?
+- `, you know?` /ju noʊ/            ([Casual] 〜じゃん？)           It's just been really hectic lately, you know?
+- `, yeah?` /jeə/                   ([Casual] 〜だよね？)           That was pretty crazy, yeah?
+- `, y'know?` /jəˈnoʊ/              ([Casual] 〜じゃん？)           It's just one of those things, y'know?
+- `, you know what I mean?`         ([Casual] わかるでしょ？)       It's just not worth the trouble, you know what I mean?
+- `, don't you think?`              ([Neutral] そう思わない？)      The weather's been nice lately, don't you think?
+- `, does that make sense?`         ([Neutral] 意味わかる？)        We'll split the tasks like this, does that make sense?
+- `, isn't it?` /ˈɪznt ɪt/          ([Neutral] 〜でしょ？)          It's a beautiful day, isn't it?
+- `, or...?` /ɔːr/                  ([Casual] それとも...？)        Should we meet at 7, or...?
+- `, I guess` /aɪ ɡes/              ([Casual] 〜と思うけど)         It's kind of expensive, I guess.
+- `, you see?` /ju siː/             ([Casual] わかるでしょ？)       It's not just about money, you see? It's about respect.
+- `, see what I mean?`              ([Casual] わかるでしょ？)       First it broke, then it leaked. See what I mean?
+- `, if that makes sense`           ([Neutral] 伝わればいいけど)    It's more of a vibe than a strict rule, if that makes sense.
+- `, am I right?` /æm aɪ raɪt/      ([Casual] 合ってるよね？)       This whole thing is just a mess, am I right?
+- `, you get me?` /ju ɡet miː/      ([Slang] わかる？)              I'm not trying to be rude, you get me?
+- `, you feel me?` /ju fiːl miː/    ([Slang] わかるっしょ？)        I just need some space, you feel me?
+- `, know what I'm saying?`         ([Slang] わかるっしょ？)        We gotta stick together out there, know what I'm saying?
+- `, innit?` /ˈɪnɪt/                ([British] 〜でしょ？)          Bit cold today, innit?
+- `, eh?` /eɪ/                      ([Canadian] 〜だよね？)         Nice game last night, eh?
+
+## OR WHAT
+- `or what?` /ɔːr wʌt/              ([Casual] どうなの？)           So are we leaving now or what?
+- `or not?` /ɔːr nɑːt/              ([Neutral] それとも違う？)      Are you coming or not?
+- `, or not really?`                ([Casual] そうでもない？)       You're into horror movies, or not really?
+- `or something?` /ɔːr ˈsʌmθɪŋ/     ([Casual] か何か？)             Are you sick or something?
+- `or whatever` /ɔːr wʌtˈevər/      ([Casual] か何でも)             We can get pizza or whatever.
+- `or no?` /ɔːr noʊ/                ([Casual] それとも違う？)       Should I wait or no?
+- `, or what?` /ɔːr wʌt/            ([Casual] それともどう？)       Is this the plan, or what?
+- `yes or no?` /jes ɔːr noʊ/        ([Neutral] はいかいいえか？)    I need an answer - yes or no?
