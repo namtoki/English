@@ -162,3 +162,32 @@
 - `as a result` /æz ə rɪˈzʌlt/      ([Neutral] その結果)            As a result, sales increased.
 - `consequently` /ˈkɑːnsɪkwəntli/   ([Formal] 結果として)           Consequently, the project failed.
 - `thereupon` /ˌðerəˈpɑːn/          ([Formal] その結果)             Thereupon, he left the meeting.
+
+## IN A WAY THAT
+- `the way (that)` /ðə weɪ ðæt/     ([Casual] ～のように)           I don't like the way he talks to people.
+- `how` /haʊ/                       ([Casual] どのように)           That's how we solve this problem.
+- `in a way that` /ɪn ə weɪ ðæt/    ([Neutral] という方法で)        Some people explain simple things in a way that makes it sound complicated.
+- `by V-ing` /baɪ/                  ([Neutral] ～することによって)  She improved her skills by practicing daily.
+- `through V-ing` /θruː/            ([Neutral] ～を通じて)          He learned through making mistakes.
+- `via` /ˈvaɪə/                     ([Neutral] ～を経由して)        Send the document via email.
+- `somehow` /ˈsʌmhaʊ/               ([Casual] どうにかして)         I'll manage it somehow.
+- `at the expense of`               ([Neutral] 犠牲にして)          He got promoted at the expense of his colleague.
+- `by heart` /baɪ hɑːrt/            ([Neutral] 暗記で)              First of all, learn the formula by heart.
+- `in such a way that`              ([Neutral] ～するような方法で)  Arrange the furniture in such a way that everyone can see the screen.
+- `such that` /sʌtʃ ðæt/            ([Formal] ～するような)         The conditions were such that we had to cancel.
+- `in a manner that`                ([Formal] ～という方法で)       Behave in a manner that reflects well on the company.
+- `by means of` /baɪ miːnz əv/      ([Formal] ～によって)           They communicated by means of sign language.
+
+## ON PURPOSE
+- `on purpose` /ɔːn ˈpɜːrpəs/       ([Casual] わざと)               He spilled the drink on purpose.
+- `purposely` /ˈpɜːrpəsli/          ([Neutral] 故意に)              She purposely ignored the warning signs.
+- `deliberately` /dɪˈlɪbərətli/     ([Neutral] 意図的に)            He deliberately left early.
+- `intentionally` /ɪnˈtenʃənəli/    ([Neutral] 意図的に)            She intentionally missed the meeting.
+- `by design` /baɪ dɪˈzaɪn/         ([Neutral] 設計上)              The delay was by design.
+- `consciously` /ˈkɑːnʃəsli/        ([Neutral] 意識的に)            She consciously chose to help.
+- `out of habit` /aʊt əv ˈhæbɪt/    ([Casual] 習慣として)           I got the Namboku line out of habit.
+- `on impulse` /ɔːn ˈɪmpʌls/        ([Casual] 衝動的に)             I bought the shoes on impulse.
+- `for the fun of it`               ([Casual] 楽しみで)             He tried skydiving for the fun of it.
+- `in support of` /ɪn səˈpɔːrt əv/  ([Neutral] 支持して)            They organized a rally in support of the new policy.
+- `knowingly` /ˈnoʊɪŋli/            ([Formal] 承知の上で)           He knowingly broke the rules.
+- `willfully` /ˈwɪlfəli/            ([Formal] 故意に)               She willfully ignored the instructions.

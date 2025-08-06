@@ -161,3 +161,15 @@
 - `archaic` /ɑːrˈkeɪɪk/             ([Writing] 古風な、時代遅れの)  The law contains archaic language.
   - `archaism` /ˈɑːrkeɪɪzəm/        ([Writing] 古語、古風な表現)    The text is full of archaisms.
 - `defunct` /dɪˈfʌŋkt/              ([Formal] 廃止された、消滅した) The defunct company left many debts.
+
+## COMPLIMENT
+- [ ] `on and off`                          ([Neutral] 断続的に) It’s been raining `on and off` all day today.
+- [ ] `in a row`                            ([Neutral] 連続で) The unemployment rate has risen three quarters `in a row.`
+- [ ] `with each passing day/year`          ([Neutral] 日を追うごとに) `With each passing day,` her skills improved.
+- [ ] `at heart`                            ([Neutral] 本質的には／心の中では) He’s a kind person `at heart.`
+- [ ] `in a rage`                           ([Neutral] 激怒して) She stormed out of the room `in a rage.`
+- [ ] `in earnest`                          ([Formal] 本格的に／真剣に) They began the negotiations `in earnest` last week.
+- [ ] `to sb's heart's content`             ([Casual] 思う存分～する) You can eat `to your heart's content` at the buffet.
+- [ ] `at a discount`                       ([Neutral] 割引価格で) The shoes are available `at a discount` this weekend.
+- [ ] `on average`                          ([Neutral] 平均して) `On average,` people sleep about eight hours a night.
+- [ ] `followed by`                         ([Neutral] その後) Lightning flashed, `followed by` terribly loud thunder.

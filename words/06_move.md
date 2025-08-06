@@ -67,3 +67,9 @@ This category contains verbs and nouns related to bodily movement, physical acti
 - `departure` /dɪˈpɑːrtʃər/          ([Neutral] 出発)          The train departure was delayed by fog.
 - `flight` /flaɪt/                   ([Neutral] 逃避)          Their flight from the country was sudden.
 <!-- Add vocabulary entries here using the format from format.md -->
+
+## MOVEMENT
+- [ ] `lightly`                             ([Neutral] そっと) She seems angry, you should tread `lightly.`
+- [ ] `back and forth`                      ([Neutral] 行ったり来たり) Bob was pacing `back and forth` along the sidewalk.
+- [ ] `to and fro`                          ([Neutral] 行ったり来たり) I have been traveling `to and fro` between Canada and the U.K for years.
+

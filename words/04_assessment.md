@@ -1,5 +1,10 @@
 # Assessment
 
+## COMPARISON
+- [ ] `better than O`                        ([Neutral] よりもより) I like vanilla `better than chocolate.`
+- [ ] `more than O`                          ([Neutral] よりももっと) I like chocolate `more than vanilla.`
+- [ ] `rather than O`                        ([Neutral] よりかは) I like her `rather than him.`
+
 ## COMMON
   - `exemplify` /ɪɡˈzemplɪfaɪ/      ([Formal] 例証する、体現する)   She exemplifies professionalism.
     - `exemplification` /ɪɡˌzemplɪfɪˈkeɪʃən/ ([Writing] 例証、実例)  The exemplification was clear.

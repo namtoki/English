@@ -8,8 +8,8 @@
 
 #### Login
 
-Looking at the reason why Login is marked as Optional,
-I think it's because the Mobile SDK has a specific `mechanism` built in.
+Looking at `the reason why` Login is marked as Optional,
+`I think it's because` the Mobile SDK has a specific `mechanism` built in.
 
 When you read through the Mobile SDK documentation,
 there's `something called` Anonymous User Authentication.
