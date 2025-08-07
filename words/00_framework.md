@@ -316,3 +316,11 @@
 - `or no?` /ɔːr noʊ/                ([Casual] それとも違う？)       Should I wait or no?
 - `, or what?` /ɔːr wʌt/            ([Casual] それともどう？)       Is this the plan, or what?
 - `yes or no?` /jes ɔːr noʊ/        ([Neutral] はいかいいえか？)    I need an answer - yes or no?
+
+## FAVORITE
+- [ ] `, each with O`                       ([Neutral] それぞれがOを持っている) Instant cameras, `each with` their own unique shape and design.
+- [ ] `, not just O`                        ([Neutral] O だけじゃなくて) [Link](../../output/business/20250605.md)
+
+## 対比
+- [ ] `not so much A as B`                  ([Neutral] AというよりB) It took me a moment to process that I was `not so much angry as sad` that she cheated.
+

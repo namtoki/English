@@ -179,3 +179,76 @@
 - `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
 - `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
 - `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.
+
+## 程度を調整
+- [ ] `kind of`                             ([Casual] ちょっと／なんとなく) I’m `kind of` tired today.
+- [ ] `pretty much`                         ([Casual] ほとんど／だいたい) I `pretty much` finished the report.
+- [ ] `somewhat`                            ([Neutral] いくぶん／多少) The results were `somewhat` better than expected.
+
+## どれくらいの
+- [ ] `some of O`                           ([Neutral] いくつかのもの) What are `some of` the things that you can say when you don't understand something?
+- [ ] `some kinds of O`                     ([Casual] いくつかのO) Amplify the effects of `some kinds of` pollution.
+- [ ] `some more`                           ([Casual] もう少し) Could you give me `some more` time to finish this?
+- [ ] `all kinds of O`                      ([Casual] あらゆるO) I've been eating `all kinds of` things.
+- [ ] `all sorts of O`                      ([Casual] あらゆるO) She has read `all sorts of` books on the topic.
+- [ ] `everything about O`                  ([Neutral] すべてのO) He knows `everything about` movies.
+- [ ] `all A except B`                      ([Casual] Bを除いた全てのA) `All students except John` passed the test.
+- [ ] `all A aside from B`                  ([Casual] Bを除いた全てのA) I like `all fruits aside from bananas.`
+- [ ] `all A but B`                         ([Formal] Bを除いた全てのA) `All of the members of the board of directors but one` were satisfied with the proposal.
+- [ ] `a bunch of O`                        ([Casual] たくさんのO) `A bunch of` other companies are imitating our excellent methods.
+- [ ] `tons of O`                           ([Casual] 超たくさんのO) I have `tons of` homework tonight.
+- [ ] `a wealth of O`                       ([Neutral] 豊富なO) She has `a wealth of` experience in marketing.
+- [ ] `a number of O`                       ([Formal] たくさんのO) There are `a number of` factors discouraging us from investing in stocks.
+- [ ] `no more than`                        ([Neutral] たった) The package weighs `no more than` five kilograms.
+- [ ] `A out of B`                          ([Neutral] BのうちのA) We have watched `4 out of 5` seasons.
+- [ ] `in itself`                           ([Neutral] それ自体は) The idea, `in itself,` isn’t bad.
+- [ ] `in every way`                        ([Neutral] あらゆる面で) She supports the team `in every way possible.`
+- [ ] `in a way/sense`                      ([Neutral] ある意味では) `In a way,` this project changed how we work.
+- [ ] `to (a certain|some) extent`          ([Neutral] ある程度は) `To some extent,` we can agree with that proposal.
+- [ ] `for the most part`                   ([Neutral] 大部分は) `For the most part,` the event was successful.
+- [ ] `except that`                         ([Neutral] ～を除いては) Everything was perfect, `except that` it started raining.
+- [ ] `except for`                          ([Neutral] ～を除いては) `Except for` a few minor mistakes, the report is excellent.
+- [ ] `not including`                       ([Neutral] ～を含まずに) The total cost is $100, `not including` taxes.
+- [ ] `without`                             ([Neutral] ～なしで) She left the house `without` her keys.
+- [ ] `With the exception of`               ([Formal] ～を除いては) `With the exception of` one delay, the project went smoothly.
+
+
+## OPINION / THOUGHT EXPRESSIONS（確信度の高い順）
+- [ ] `I'm sure (that)` S V                 ([Neutral] ～を確信している) `I'm sure that` everything will work out fine.  
+- [ ] `I have to say S V`                   ([Neutral] 正直に言うと～だ) `I have to say` this turned out better than I expected.  
+- [ ] `I suspect (that)` S V                ([Neutral] ～ではないかと思う／〜の疑いがある) `I suspect that` he knew more than he let on.  
+- [ ] `I doubt (that)` S V                  ([Neutral] ～とは思えない／〜は疑わしい) `I doubt that` this plan will work without more resources.  
+- [ ] `I also feel that` S V                ([Neutral] 私も〜だと感じている) `I also feel that` we should reconsider the schedule.  
+- [x] `It occurs to me that` S V            ([Neutral] ～という考えがふと浮かんだ) `It occurs to me that` we haven’t considered the budget yet.  
+- [ ] `I wonder if` S V                     ([Neutral] ～かなと思う／～かどうか気になる) `I wonder if` they’ll arrive on time.  
+- [ ] `I was just saying`                   ([Casual] ただ言ってただけだよ) `I was just saying,` maybe we should try a different approach.  
+- [x] `I would've thought that` S V         ([Casual] ～だと思ってたんだけどな) `I would've thought that` she’d arrive earlier.  
+- [ ] `I have a feeling / hunch that` S V   ([Casual] ～な予感がする／直感で〜と思う) `I have a hunch that` something big is about to happen.  
+- [ ] `I hope` S V                          ([Neutral] ～であってほしい）`I hope` everything goes smoothly tomorrow.  
+- [ ] `I wish` S V                          ([Neutral] ～であればよかったのに／〜であればいいのに）`I wish` I had more time to relax.  
+
+## REQUEST
+- [x] `I say` S V                           ([Casual] ～って思う／～しようよ) `I say` we take a break and grab some coffee.  
+
+## EXPLAIN
+- [ ] `It's almost like` O                  ([Casual] ほとんどOみたいだ）`It’s almost like` we’re starting from scratch.  
+- [ ] `It's just that` S V                  ([Casual] ただ〜なだけなんだ）`It's just that` I was busy, so I couldn't reply.
+- [ ] `It's kind of like` O                 ([Casual] ちょっとOっぽい感じ）`It's kind of like` a puzzle you have to solve.  
+- [ ] `It's like` O                         ([Casual] まるでOみたいだ／Oのような感じ) `It's like` a dream come true.
+- [ ] `It's more like` S V                  ([Casual] どちらかと言えば〜だ）`It's more like` a suggestion than an order.
+- [ ] `It's more that` S V                  ([Neutral] どちらかというと〜だ）`It's more that` I need some time to think.  
+- [ ] `It's not just the fact that` S V     ([Neutral] 〜という事実だけが理由ではない）`It's not just the fact that` you called me during a meeting.  
+- [ ] `It's not like` S V                   ([Casual] 〜ってわけじゃない）`It's not like` I forgot; I was just busy.  
+- [ ] `It's not that `A `but (that)` B        ([Neutral] AではなくBだ）`It's not that` I'm angry but that I'm worried.  
+- [ ] `It's not that` S V                   ([Neutral] 〜というわけではない）`It's not that` I don't want to help, but I'm really busy.  
+- [ ] `It's not the fact that` S V          ([Neutral] 〜という事実が問題なのではない）`It's not the fact that` I find him boring.  
+- [ ] `It's the fact that` S V              ([Neutral] 〜という事実が問題なんだ）`It's the fact that` it's so diverse.  
+
+## ASSUMPTION
+- [x] `Chances are (that)` S V              ([Casual] 80–90%：たぶん〜だろう) `Chances are` she forgot about the meeting.
+- [x] `I suppose (that)` S V                ([Neutral] 50–70%：〜だと思う／〜かもしれない) `I suppose that` could work, but we need a backup plan.
+- [x] `I feel like` S V                     ([Casual] 主観的推定：〜な気がする) `I feel like` this project is going to take longer than expected.
+- [x] `It seems as if/though` S V           ([Neutral] 印象的に〜のように見える) `It seems as if` he’s not interested in the proposal.
+- [x] `It could be (that)` S V              ([Neutral] 40–60%：〜である可能性がある) `It could be that` she misunderstood the instructions.
+- [x] `I guess (that)` S V                  ([Casual] 40–60%：〜かな／〜かもしれない) `I guess` he’s not coming.
+- [x] `It might be (that)` S V              ([Neutral] 30–50%：〜かもしれない（可能性はやや低め）) `It might be that` she forgot.

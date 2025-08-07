@@ -23,9 +23,6 @@
 - [x] `How can I put this?`                 ([Casual] なんて言えばいいかな？) `How can I put this?` It’s a bit complicated.
 - [ ] `What's the word for it?`             ([Casual] それって何て言うんだっけ？) `What's the word for it?` It's on the tip of my tongue.
 - [ ] `I was on mute`                       ([Casual] ミュートになってた) Sorry, `I was on mute` and didn’t hear you.
-- [ ] `I'll get back to you`                ([Casual] 後で連絡するよ) `I'll get back to you` once I have more information.
-- [ ] `I'll let you know`                   ([Casual] 教えるよ／知らせるよ) `I'll let you know` as soon as I find out.
-- [ ] `I'll tell you later`                 ([Casual] あとで教えるね) `I'll tell you later` what happened.
 - [ ] `It's been ages since S V`           ([Casual] ～してからずいぶん経つ) `It's been ages since we last hung out.`
 - [ ] `It's been a while since S V`        ([Neutral] ～してからしばらく経つ) `It's been a while since we last met.`
 - [ ] `It's been a long time since S V`    ([Neutral] ～してからかなり経つ) `It's been a long time since we visited that place.`
@@ -34,7 +31,6 @@
 - [ ] `just because A doesn't mean B`       ([Neutral] AだからといってBとは限らない) `Just because it's raining doesn't mean the event will be canceled.`
 - [ ] `The same is the case with O`         ([Neutral] Oも同様だ) `The same is the case with remote workers.`
 - [ ] `more of`                             ([Neutral] どちらかと言えば〜) `It’s more of` a suggestion than a rule.
-- [ ] `It depends O`                        ([Neutral] O次第だ／Oによる) `It depends on the weather` whether we go hiking or not.
 - [ ] `Turns out S V`                       ([Casual] ～ということがわかった) `Turns out she was right all along.`
 - [ ] `That sounds like O`                  ([Casual] それはOだね) `That sounds like` a lot of work.
 - [x] `any O will do as long as S V`        ([Neutral] S V ならどんなOでもいい) `Any location will do as long as we have Wi-Fi.`

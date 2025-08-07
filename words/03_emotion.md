@@ -459,3 +459,6 @@
   - `unburdened` /ʌnˈbɜːrdənd/       ([Formal] 重荷から解放された)   He felt unburdened after confessing.
 - `confide` /kənˈfaɪd/               ([Neutral] 打ち明ける、信頼する) She confided her fears to him.
   - `confidant` /ˈkɑːnfɪdænt/        ([Neutral] 親友、相談相手)      She's my closest confidant.
+
+## 複合形容詞
+- [ ] `laid-back`                           ([Casual] 肩の力が抜けた、リラックスした) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#LAID-BACK)
