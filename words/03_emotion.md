@@ -1,40 +1,31 @@
 # Emotion
 
-## 欲しい
+## WANT
 - `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
 - `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
 - `would like` /wʊd laɪk/           ([Polite] 〜が欲しい)           I would like some water, please.
 - `could use` /kʊd juːz/            ([Casual] 〜が欲しい)           I could use a coffee right now.
 - `wouldn't mind` /ˈwʊdnt maɪnd/    ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
 - `could do with` /kʊd duː wɪð/     ([Casual] 〜が欲しい)           I could do with a vacation.
-- `urge` /ɜːrdʒ/                    ([Neutral] 衝動、強い欲求)      I felt a sudden urge to laugh.
 
-## ついていない・運が悪い
-- ✅ `I can't catch a break`        ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
+## I CAN'T CATCH A BREAK
+- `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
 - `Nothing's going my way`          ([Casual] 何もうまくいかない)   Nothing's going my way today.
 - `I'm having bad luck`             ([Neutral] 運が悪い)            I'm having bad luck with my car.
 - `Everything's going wrong`        ([Neutral] 全て悪い方向)        Everything's going wrong lately.
 - `I can't get anything right`      ([Casual] 何も上手くできない)   I can't get anything right today.
 - `It's not my day`                 ([Casual] ついてない日)         It's just not my day.
 - `Things aren't working out for me`([Neutral] うまくいかない)      Things aren't working out for me.
-- ✅ `I'm cursed`                   ([Casual] 呪われている)         I feel like I'm cursed.
+- `I'm cursed`                      ([Casual] 呪われている)         I feel like I'm cursed.
   - `I'm jinxed`                    ([Casual] 呪われている)         I must be jinxed or something.
   - `I'm snake-bitten`              ([Casual] ついていない)         I've been snake-bitten all week.
   - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
   - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
 - `Murphy's Law is in full effect`  ([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
-- `Bad luck follows me`             ([Neutral] 悪運がついて回る)    Bad luck follows me everywhere.
-- `The odds are against me`         ([Neutral] 分が悪い)            The odds are always against me.
-- `Lady Luck has abandoned me`      ([Writing] 幸運の女神に見放された) Lady Luck has completely abandoned me.
-- `Fortune isn't smiling on me`     ([Writing] 運命が微笑まない)    Fortune isn't smiling on me today.
-- `I'm having a streak of bad luck` ([Neutral] 不運が続いている)    I'm having a real streak of bad luck.
 
-## 強い、強烈な
-- ✅ `strong` /strɔːŋ/              ([Neutral] 強い、激しい)        She has strong feelings about it.
+## STRONG
+- `strong` /strɔːŋ/                 ([Neutral] 強い、激しい)        She has strong feelings about it.
 - `intense` /ɪnˈtens/               ([Neutral] 激しい、強烈な)      She felt intense emotions.
-  - `intensity` /ɪnˈtensəti/        ([Neutral] 強さ、激しさ)        The intensity of his gaze surprised her.
-  - `intensive` /ɪnˈtensɪv/         ([Formal] 集中的な、激しい)     He attended an intensive language course.
-  - `intensify` /ɪnˈtensɪfaɪ/       ([Neutral] 激しくする、強める)  The storm will intensify tonight.
 - `heavy` /ˈhevi/                   ([Casual] 激しい、重い)         We had heavy rain yesterday.
 - `powerful` /ˈpaʊərfəl/            ([Neutral] 強力な、力強い)      That was a powerful speech.
 - `deep` /diːp/                     ([Neutral] 深い、強い)          She has deep feelings for him.
@@ -42,7 +33,6 @@
 - `high` /haɪ/                      ([Neutral] 高い、強い)          The pressure is high.
 - `great` /ɡreɪt/                   ([Neutral] 大きな、強い)        She showed great courage.
 - `severe` /sɪˈvɪr/                 ([Neutral] 激しい、厳しい)      She suffered severe pain.
-  - `severity` /sɪˈverəti/          ([Formal] 激しさ、厳しさ)       The severity of the situation was clear.
 - `sharp` /ʃɑːrp/                   ([Neutral] 鋭い、激しい)        I felt a sharp pain in my chest.
 - `serious` /ˈsɪriəs/               ([Neutral] 深刻な、激しい)      This is a serious problem.
 - `significant` /sɪɡˈnɪfɪkənt/      ([Neutral] 重大な、かなりの)    There was a significant increase.
@@ -50,10 +40,8 @@
 - `huge` /hjuːdʒ/                   ([Casual] 巨大な、激しい)       That made a huge difference.
 - `major` /ˈmeɪdʒər/                ([Neutral] 主要な、大きな)      This is a major issue.
 - `fierce` /fɪrs/                   ([Neutral] 激しい、猛烈な)      The competition was fierce.
-  - `fierceness` /ˈfɪrsnəs/         ([Neutral] 激しさ、獰猛さ)      The fierceness of her loyalty was admirable.
 - `passionate` /ˈpæʃənət/           ([Neutral] 情熱的な、激しい)    She's passionate about music.
 - `harsh` /hɑːrʃ/                   ([Neutral] 厳しい、激しい)      The criticism was harsh.
-  - `harshness` /ˈhɑːrʃnəs/         ([Neutral] 厳しさ、激しさ)      The harshness of winter surprised them.
 - `overwhelming` /ˌoʊvərˈwelmɪŋ/    ([Neutral] 圧倒的な、激しい)    The response was overwhelming.
 - `tremendous` /trəˈmendəs/         ([Neutral] 途方もない、激しい)  She put in tremendous effort.
 - `dramatic` /drəˈmætɪk/            ([Neutral] 劇的な、激しい)      We saw dramatic changes.

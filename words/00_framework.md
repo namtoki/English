@@ -99,10 +99,10 @@
 
 ## I BELIEVE
 - `I believe` S V                   ([Neutral] 私は信じる)          I believe we can achieve this goal.
-- `I'm sure (that)` S V             ([Neutral] ～を確信している)    I'm sure that everything will work out fine.
 - `I bet` S V                       ([Casual] きっと～だ)           I bet he forgot about the meeting.
 - `I hope` S V                      ([Neutral] ～であってほしい)    I hope everything goes smoothly tomorrow.
 - `I assume` S V                    ([Neutral] ～だと仮定する)      I assume you've heard the news.
+- `I'm sure (that)` S V             ([Neutral] ～を確信している)    I'm sure that everything will work out fine.
 - `I'm confident (that)` S V        ([Neutral] ～を確信している)    I'm confident that we can meet the deadline.
 - `I'm convinced (that)` S V        ([Neutral] ～を確信している)    I'm convinced that this is the right approach.
 - `I'm certain (that)` S V          ([Formal] ～を確信している)     I'm certain that we'll succeed.

@@ -1,5 +1,22 @@
 # Cognitive
 
+## KIND OF
+- `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
+- `sort of` /sɔːrt əv/              ([Casual] ちょっと、なんか)     I sort of understand what you mean.
+- `a little` /ə ˈlɪtəl/             ([Neutral] 少し、ちょっと)      She seems a little upset.
+- `a bit` /ə bɪt/                   ([Casual] ちょっと、少し)       It's a bit cold outside.
+- `somewhat` /ˈsʌmwʌt/              ([Neutral] いくぶん、多少)      The results were somewhat surprising.
+- `rather` /ˈræðər/                 ([Neutral] かなり、やや)        The movie was rather disappointing.
+- `pretty` /ˈprɪti/                 ([Casual] かなり、相当)         She's pretty smart.
+- `pretty much` /ˈprɪti mʌtʃ/       ([Casual] ほとんど、だいたい)   I pretty much finished the report.
+- `fairly` /ˈferli/                 ([Neutral] かなり、まあまあ)    He speaks English fairly well.
+- `quite` /kwaɪt/                   ([Neutral] かなり、相当)        That's quite interesting.
+- `slightly` /ˈslaɪtli/             ([Neutral] わずかに、少し)      I'm slightly concerned about this.
+- `moderately` /ˈmɑːdərətli/        ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
+- `to some degree`                  ([Neutral] ある程度)            I agree with you to some degree.
+- `to a certain extent`             ([Formal] ある程度まで)         To a certain extent, he's right.
+- `more or less` /mɔːr ɔːr les/     ([Neutral] だいたい、多少)      The work is more or less done.
+
 ## THINK
 - `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
   - `thoughtful` /ˈθɔːtfəl/         ([Neutral] 思慮深い)            She gave a thoughtful response.
@@ -179,37 +196,3 @@
 - `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
 - `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
 - `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.
-
-## 程度を調整
-- [ ] `kind of`                             ([Casual] ちょっと／なんとなく) I’m `kind of` tired today.
-- [ ] `pretty much`                         ([Casual] ほとんど／だいたい) I `pretty much` finished the report.
-- [ ] `somewhat`                            ([Neutral] いくぶん／多少) The results were `somewhat` better than expected.
-
-## どれくらいの
-- [ ] `some of O`                           ([Neutral] いくつかのもの) What are `some of` the things that you can say when you don't understand something?
-- [ ] `some kinds of O`                     ([Casual] いくつかのO) Amplify the effects of `some kinds of` pollution.
-- [ ] `some more`                           ([Casual] もう少し) Could you give me `some more` time to finish this?
-- [ ] `all kinds of O`                      ([Casual] あらゆるO) I've been eating `all kinds of` things.
-- [ ] `all sorts of O`                      ([Casual] あらゆるO) She has read `all sorts of` books on the topic.
-- [ ] `everything about O`                  ([Neutral] すべてのO) He knows `everything about` movies.
-- [ ] `all A except B`                      ([Casual] Bを除いた全てのA) `All students except John` passed the test.
-- [ ] `all A aside from B`                  ([Casual] Bを除いた全てのA) I like `all fruits aside from bananas.`
-- [ ] `all A but B`                         ([Formal] Bを除いた全てのA) `All of the members of the board of directors but one` were satisfied with the proposal.
-- [ ] `a bunch of O`                        ([Casual] たくさんのO) `A bunch of` other companies are imitating our excellent methods.
-- [ ] `tons of O`                           ([Casual] 超たくさんのO) I have `tons of` homework tonight.
-- [ ] `a wealth of O`                       ([Neutral] 豊富なO) She has `a wealth of` experience in marketing.
-- [ ] `a number of O`                       ([Formal] たくさんのO) There are `a number of` factors discouraging us from investing in stocks.
-- [ ] `no more than`                        ([Neutral] たった) The package weighs `no more than` five kilograms.
-- [ ] `A out of B`                          ([Neutral] BのうちのA) We have watched `4 out of 5` seasons.
-- [ ] `in itself`                           ([Neutral] それ自体は) The idea, `in itself,` isn’t bad.
-- [ ] `in every way`                        ([Neutral] あらゆる面で) She supports the team `in every way possible.`
-- [ ] `in a way/sense`                      ([Neutral] ある意味では) `In a way,` this project changed how we work.
-- [ ] `to (a certain|some) extent`          ([Neutral] ある程度は) `To some extent,` we can agree with that proposal.
-- [ ] `for the most part`                   ([Neutral] 大部分は) `For the most part,` the event was successful.
-- [ ] `except that`                         ([Neutral] ～を除いては) Everything was perfect, `except that` it started raining.
-- [ ] `except for`                          ([Neutral] ～を除いては) `Except for` a few minor mistakes, the report is excellent.
-- [ ] `not including`                       ([Neutral] ～を含まずに) The total cost is $100, `not including` taxes.
-- [ ] `without`                             ([Neutral] ～なしで) She left the house `without` her keys.
-- [ ] `With the exception of`               ([Formal] ～を除いては) `With the exception of` one delay, the project went smoothly.
-
-
