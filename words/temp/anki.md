@@ -95,7 +95,6 @@ slight
 reprimand
 endorse
 untarnished
-jeer
 truce
 disparage
 instigate
@@ -170,8 +169,6 @@ scathing
 defunct
 recuperate
 skirmish
-mock
-revile
 uproar
 hegira
 congenital
@@ -182,14 +179,12 @@ rebuke
 hiatus
 epitomize
 substantiate
-vilify
 defect
 entice
 remission
 homage
 faction
 immaculate
-taunt
 falsify
 exodus
 placate
@@ -252,6 +247,19 @@ revoke
 allay
 interim
 
+# 07
+affront
+mortify
+mock
+scoff
+sneer
+taunt
+jeer
+snub
+vilify
+deride
+revile
+
 # 10
 lull
 interlude
@@ -261,3 +269,6 @@ outmode
 defunct
 hiatus
 bygone
+
+# 13
+emaciated

@@ -34,3 +34,16 @@
 - `dressed` /drest/                 ([Neutral] 服を着た)            She was dressed in black.
 - `wearable` /ˈweərəbl/             ([Neutral] 着用可能な)          This fabric is soft and wearable.
 - `worn` /wɔːn/                     ([Neutral] 着古した使い古した)  His jeans looked worn and faded.
+
+## SLIM
+- `thin` /θɪn/                      ([Neutral] 痩せた)              He looks too thin these days.
+- `slim` /slɪm/                     ([Neutral] ほっそりした)        She has a slim figure.
+- `slender` /ˈslɛndər/              ([Neutral] すらりとした)        She has a slender build.
+- `lean` /liːn/                     ([Neutral] 引き締まった)        He has a lean, muscular body.
+- `skinny` /ˈskɪni/                 ([Casual] 痩せこけた)           She looks too skinny these days.
+- `lanky` /ˈlæŋki/                  ([Casual] ひょろ長い)           The lanky teenager grew six inches.
+- `wiry` /ˈwaɪəri/                  ([Neutral] 細くて丈夫な)        He has a wiry build but is strong.
+- `bony` /ˈboʊni/                   ([Casual] 骨ばった)             His bony fingers tapped the table.
+- `gaunt` /ɡɔːnt/                   ([Writing] やつれた)            The old man looked gaunt and tired.
+- `emaciated` /ɪˈmeɪʃieɪtɪd/        ([Formal] 極度に痩せこけた)     The emaciated patient needed nutrition.
+- `skeletal` /ˈskɛlətəl/            ([Formal] 骸骨のような)         His skeletal appearance alarmed us.

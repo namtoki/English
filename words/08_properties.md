@@ -1,8 +1,4 @@
-# Physical Properties and Characteristics
-
-This category contains words describing physical qualities, materials, and structural features.
-
-## Words
+# Properties
 
 ## どれくらいの
 - [ ] `some of O`                           ([Neutral] いくつかのもの) What are `some of` the things that you can say when you don't understand something?
@@ -30,6 +26,12 @@ This category contains words describing physical qualities, materials, and struc
 - [ ] `not including`                       ([Neutral] ～を含まずに) The total cost is $100, `not including` taxes.
 - [ ] `without`                             ([Neutral] ～なしで) She left the house `without` her keys.
 - [ ] `With the exception of`               ([Formal] ～を除いては) `With the exception of` one delay, the project went smoothly.
+
+## THIN
+- `thin` /θɪn/                      ([Neutral] 薄い)                The ice was too thin to walk on.
+  - `thinness` /ˈθɪnnəs/            ([Neutral] 薄さ)                The thinness of the paper was surprising.
+  - `thinly` /ˈθɪnli/               ([Neutral] 薄く)                Spread the butter thinly on bread.
+- `narrow` /ˈnærəʊ/                 ([Neutral] 幅が狭い)            The road becomes narrow here.
 
 ### Quality
 - `sturdy` /ˈstɜːdi/                ([Neutral] 頑丈な)              This is a sturdy wooden table.

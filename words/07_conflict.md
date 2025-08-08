@@ -1,6 +1,57 @@
 # Conflict
 
-This category contains military terms, conflict situations, and combat-related vocabulary.
+## OFFEND
+- `offend` /əˈfend/                 ([Neutral] 不快にさせる)        I didn't mean to offend you.
+- `embarrass` /ɪmˈbærəs/            ([Neutral] 恥をかかせる)        Don't embarrass me in public.
+  - `embarrassing` /ɪmˈbærəsɪŋ/     ([Neutral] 恥ずかしい)          That was an embarrassing mistake.
+- `shame` /ʃeɪm/                    ([Neutral] 恥をかかせる)        She tried to shame him into apologizing.
+  - `ashamed` /əˈʃeɪmd/             ([Neutral] 恥ずかしい)          He felt ashamed of his behavior.
+  - `shameful` /ˈʃeɪmfəl/           ([Neutral] 恥ずかしい)          His shameful conduct was exposed.
+  - `shameless` /ˈʃeɪmləs/          ([Casual] 恥知らずな)           His shameless behavior shocked everyone.
+
+## INSULT
+- `insult` /ɪnˈsʌlt/                ([Neutral] 侮辱する)            Don't insult his intelligence.
+  - `insulting` /ɪnˈsʌltɪŋ/         ([Neutral] 侮辱的な)            His insulting remarks hurt her feelings.
+- `affront` /əˈfrʌnt/               ([Formal] 侮辱、怒らせる)       His comment was an affront to my dignity.
+  - `affronted` /əˈfrʌntɪd/         ([Formal] 侮辱された)           She felt affronted by his rude behavior.
+
+## HUMILIATE
+- `humiliate` /hjuˈmɪlɪeɪt/         ([Formal] 屈辱する)             She humiliated him in front of everyone.
+  - `humiliated` /hjuˈmɪlɪeɪtɪd/    ([Formal] 屈辱された)           He felt humiliated by the public failure.
+  - `humiliating` /hjuˈmɪlɪeɪtɪŋ/   ([Formal] 屈辱的な)             The defeat was humiliating.
+  - `humiliation` /hjuˌmɪlɪˈeɪʃən/  ([Formal] 屈辱)                 The humiliation was unbearable.
+- `disgrace` /dɪsˈɡreɪs/            ([Formal] 恥辱、不名誉)         His behavior was a disgrace to the family.
+  - `disgraced` /dɪsˈɡreɪst/        ([Formal] 恥辱を受けた)         The disgraced politician resigned.
+  - `disgraceful` /dɪsˈɡreɪsfəl/    ([Formal] 恥ずかしい)           His disgraceful behavior shocked us.
+- `dishonor` /dɪsˈɑnər/             ([Formal] 名誉を傷つける)       The scandal dishonored his reputation.
+  - `dishonorable` /dɪsˈɑnərəbəl/   ([Formal] 不名誉な)             His dishonorable conduct was revealed.
+- `mortify` /ˈmɔrtəfaɪ/             ([Writing] 死ぬほど恥ずかし)    I was mortified by my mistake.
+  - `mortified` /ˈmɔrtəfaɪd/        ([Writing] 死ぬほど恥ずかし)    She was mortified when she tripped.
+  - `mortification`                 ([Writing] 死ぬほどの恥)        The mortification was overwhelming.
+
+## MOCK
+- `mock` /mɑːk/                     ([Neutral] あざける、まねる)    The children mocked his accent.
+  - `mockery` /ˈmɑːkəri/            ([Neutral] あざけり、物まね)    His mockery was cruel and unnecessary.
+- `scoff` /skɔːf/                   ([Neutral] あざ笑う、嘲笑する)  She scoffed at his suggestion.
+  - `scoffing` /ˈskɔːfɪŋ/           ([Neutral] 嘲笑)                His scoffing was inappropriate.
+- `sneer` /snɪr/                    ([Neutral] あざ笑う、冷笑する)  He sneered at their attempts.
+  - `sneering` /ˈsnɪrɪŋ/            ([Neutral] 冷笑的な)            His sneering tone was offensive.
+- `taunt` /tɔːnt/                   ([Neutral] あざける、ののしる)  The bullies taunted the younger kids.  
+- `jeer` /dʒɪr/                     ([Neutral] ヤジを飛ばす)        The crowd jeered at the opposing team.
+- `ridicule` /ˈrɪdɪkjuːl/           ([Neutral] あざ笑う、嘲笑する)  Don't ridicule his efforts.
+  - `ridiculous` /rɪˈdɪkjələs/      ([Neutral] ばかげた)            That's a ridiculous idea.
+
+## SNUB
+- `snub` /snʌb/                     ([Neutral] 冷たくあしらう)      She snubbed him at the party.
+  - `snubbing` /ˈsnʌbɪŋ/            ([Neutral] 冷遇)                His snubbing of the proposal was obvious.
+
+## VILIFY
+- `vilify` /ˈvɪlɪfaɪ/               ([Writing] 中傷する、けなす)    The press vilified the celebrity.
+  - `vilification` /ˌvɪlɪfɪˈkeɪʃən/ ([Writing] 中傷、悪口)          The vilification was unjustified.
+- `deride` /dɪˈraɪd/                ([Formal] ばかにする、嘲笑)     Critics derided his latest work.
+  - `derision` /dɪˈrɪʒən/           ([Formal] 嘲笑、あざけり)       His proposal was met with derision.
+  - `derisive` /dɪˈraɪsɪv/          ([Formal] 嘲笑的な)             She made a derisive comment.
+- `revile` /rɪˈvaɪl/                ([Writing] 罵倒する 悪口を言う) They reviled him as a traitor.
 
 ## Words
 
@@ -92,10 +143,11 @@ This category contains military terms, conflict situations, and combat-related v
 - `cleft` /kleft/                   ([Writing] 裂け目、割れ目)      The cleft in the mountain was deep.
 - `chasm` /ˈkæzəm/                 ([Writing] 深い割れ目、隔たり)  A chasm exists between rich and poor.
 - `evacuation` /ɪˌvækjuˈeɪʃn/        ([Formal] 避難)           The evacuation was ordered due to the fire.
-
-
-- `humiliate` /hjuˈmɪlieɪt/         ([Neutral] 屈辱を与える)        She was humiliated by his remarks.
-  - `humiliation` /hjuˌmɪliˈeɪʃən/  ([Neutral] 屈辱、恥)            The humiliation was unbearable.
-  - `humiliating` /hjuˈmɪlieɪtɪŋ/   ([Neutral] 屈辱的な)            It was a humiliating defeat.
-
-
+- `disaster` /dɪˈzæstər/             ([Neutral] 災害、惨事)        The earthquake was a major disaster.
+  - `disastrous` /dɪˈzæstrəs/          ([Neutral] 悲惨な、破滅的な)   The storm had disastrous consequences.
+  - `disastrously` /dɪˈzæstrəsli/      ([Neutral] 悲惨に、破滅的に)   The plan failed disastrously.
+- `catastrophe` /kəˈtæstrəfi/          ([Formal] 大惨事、破綻)        The flood was a complete catastrophe.
+- `calamity` /kəˈlæməti/              ([Formal] 災難、不幸)          The fire was a calamity for the town.
+- `tragedy` /ˈtrædʒədi/               ([Neutral] 悲劇)              The accident was a terrible tragedy.
+- `crisis` /ˈkraɪsɪs/                 ([Neutral] 危機)              The country is facing an economic crisis.
+- `emergency` /ɪˈmɜrdʒənsi/           ([Neutral] 緊急事態)          Call 911 in case of emergency.

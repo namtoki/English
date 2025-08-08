@@ -1,5 +1,19 @@
 # Assessment
 
+## FAILURE
+- `failure` /ˈfeɪljər/              ([Neutral] 失敗)                The plan ended in failure.
+- `defeat` /dɪˈfiːt/                ([Neutral] 敗北、挫折)          They suffered a crushing defeat.
+- `setback` /ˈsetbæk/               ([Neutral] 後退、挫折)          This is only a temporary setback.
+- `collapse` /kəˈlæps/              ([Neutral] 崩壊、破綻)          The collapse of the company was sudden.
+- `downfall` /ˈdaʊnfɔːl/            ([Formal] 没落、破滅)           Greed led to his downfall.
+- `mishap` /ˈmɪshæp/                ([Neutral] 不運、事故)          A minor mishap delayed the flight.
+- `blunder` /ˈblʌndər/              ([Neutral] 大失敗、へま)        That was a costly blunder.
+- `botch` /bɑːtʃ/                   ([Casual] しくじり、へま)       He made a botch of the job.
+- `bungle` /ˈbʌŋɡəl/                ([Casual] へま、失敗)           Don't bungle this opportunity.
+- `flop` /flʌp/                     ([Casual] 大失敗)               The movie was a complete flop.
+- `fiasco` /fiˈæskoʊ/               ([Neutral] 大失敗)              The project turned into a complete fiasco.
+- `debacle` /dɪˈbɑkəl/              ([Formal] 大失敗、破綻)         The election was a complete debacle.
+
 ## COMPARISON
 - [ ] `better than O`                        ([Neutral] よりもより) I like vanilla `better than chocolate.`
 - [ ] `more than O`                          ([Neutral] よりももっと) I like chocolate `more than vanilla.`
@@ -149,29 +163,6 @@
     - `scornful` /ˈskɔːrnfəl/       ([Formal] 軽蔑的な)             He gave her a scornful look.
   - `disdain` /dɪsˈdeɪn/            ([Formal] 軽蔑する、見下す)    He disdained their offer.
     - `disdainful` /dɪsˈdeɪnfəl/    ([Formal] 軽蔑的な)             Her disdainful attitude was obvious.
-
-### 侮辱/馬鹿にする
-- ✅ `insult` /ɪnˈsʌlt/             ([Neutral] 侮辱する)            Don't insult his intelligence.
-    - `insulting` /ɪnˈsʌltɪŋ/       ([Neutral] 侮辱的な)            His insulting remarks hurt her feelings.
-  - `mock` /mɑːk/                   ([Neutral] あざける、まねる)    The children mocked his accent.
-    - `mockery` /ˈmɑːkəri/          ([Neutral] あざけり、物まね)    His mockery was cruel and unnecessary.
-- `taunt` /tɔːnt/                   ([Neutral] あざける、ののしる)  The bullies taunted the younger kids.  
-- `jeer` /dʒɪr/                     ([Neutral] ヤジを飛ばす)        The crowd jeered at the opposing team.
-- `ridicule` /ˈrɪdɪkjuːl/           ([Neutral] あざ笑う、嘲笑する)  Don't ridicule his efforts.
-  - `ridiculous` /rɪˈdɪkjələs/      ([Neutral] ばかげた)            That's a ridiculous idea.
-- `deride` /dɪˈraɪd/                ([Formal] ばかにする、嘲笑)     Critics derided his latest work.
-  - `derision` /dɪˈrɪʒən/           ([Formal] 嘲笑、あざけり)       His proposal was met with derision.
-  - `derisive` /dɪˈraɪsɪv/          ([Formal] 嘲笑的な)             She made a derisive comment.
-- `sneer` /snɪr/                    ([Neutral] あざ笑う、冷笑する)  He sneered at their attempts.
-  - `sneering` /ˈsnɪrɪŋ/            ([Neutral] 冷笑的な)            His sneering tone was offensive.
-- `snub` /snʌb/                     ([Neutral] 冷たくあしらう)      She snubbed him at the party.
-  - `snubbing` /ˈsnʌbɪŋ/            ([Neutral] 冷遇)                His snubbing of the proposal was obvious.
-- `vilify` /ˈvɪlɪfaɪ/               ([Writing] 中傷する、けなす)    The press vilified the celebrity.
-  - `vilification` /ˌvɪlɪfɪˈkeɪʃən/ ([Writing] 中傷、悪口)          The vilification was unjustified.
-- `revile` /rɪˈvaɪl/                ([Writing] 罵倒する、悪口を言う) They reviled him as a traitor.
-- `scoff` /skɔːf/                   ([Neutral] あざ笑う、嘲笑する)  She scoffed at his suggestion.
-  - `scoffing` /ˈskɔːfɪŋ/           ([Neutral] 嘲笑)                His scoffing was inappropriate.
-
 
 ## Positive Evaluation
 - `pristine` /prɪˈstiːn/            ([Writing] 手つかずの、新品同様) The beach was pristine and untouched.
