@@ -36,19 +36,31 @@ evoke
 fathom
 
 # 03
+livid
+indignant
+indignation
+exasperated
+incensed
+aggravate
+unleash
+
+# 04
 vehement
+sober
+resolute
+devout
+vibrant
 fervent
 ardent
-sober
-devout
-arduous
-ardor
 poised
 placid
 imperturbable
 dispassionate
 equanimous
 phlegmatic
+
+arduous
+ardor
 scrupulous
 fastidious
 punctilious
@@ -91,8 +103,6 @@ affable
 gregarious
 amiable
 convivial
-
-# 04
 slight
 reprimand
 endorse

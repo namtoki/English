@@ -44,8 +44,8 @@
   - `inferential` /ˌɪnfəˈrenʃəl/    ([Writing] 推論的な)            Inferential statistics are complex.
 
 ## THINK OF
-- `think of` /θɪŋk ʌv/              ([Neutral] 思いつく、考える)    I can't think of a solution.
-- `come up with` /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
+> `think of` /θɪŋk ʌv/              ([Neutral] 思いつく、考える)    I can't think of a solution.
+> `come up with` /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
 - `get an idea` /ɡet ən aɪˈdiːə/    ([Neutral] アイデアを思いつく)  I just got an idea!
 - `hit on` /hɪt ɑːn/                ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
 - `strike` /straɪk/                 ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
@@ -70,7 +70,7 @@
   - `remembrance` /rɪˈmembrəns/     ([Formal] 記憶、追悼)           In remembrance of those we lost.
 - `recall` /rɪˈkɔːl/                ([Neutral] 思い出す、回収する)  I can't recall his name.
 - `trigger` /ˈtrɪɡər/               ([Neutral] 引き金、きっかけ)    The smell triggered old memories.
-- `bring back` /brɪŋ bæk/           ([Neutral] 思い出させる)        This photo brings back memories.
+> `bring back` /brɪŋ bæk/           ([Neutral] 思い出させる)        This photo brings back memories.
 - `call to mind` /kɔːl tuː maɪnd/   ([Neutral] 思い起こさせる)      Your voice calls her to mind.
 - `stir up` /stɜːr ʌp/              ([Neutral] かき立てる)          The story stirred up old emotions.
 - `awaken` /əˈweɪkən/               ([Neutral] 目覚めさせる)        The speech awakened memories of war.
@@ -139,9 +139,9 @@
   - `differentiation`               ([Formal] 差別化、区別)         Product differentiation is key.
 
 ## KEEP IN MIND
-- `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
-  - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
-  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
+> `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
+  > `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
+  > `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
 - `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
 - `don't forget` /doʊnt fərˈɡet/    ([Casual] 忘れないで)           Don't forget to call me.
 - `make a note of` /meɪk ə noʊt/    ([Neutral] メモしておく)        Make a note of this address.
@@ -159,23 +159,3 @@
 - `etch in mind` /etʃ ɪn maɪnd/     ([Writing] 心に刻む)            The experience etched itself in his mind.
 - `engrave on memory` /ɪnˈɡreɪv/    ([Writing] 記憶に刻む)          The moment was engraved on her memory.
 - `treasure` /ˈtreʒər/              ([Neutral] 大切にする)          I treasure those memories.
-
-## RELY ON
-- `rely on` /rɪˈlaɪ ɑːn/            ([Neutral] 頼る、依存する)      We rely on public transport.
-- `depend on` /dɪˈpend ɑːn/         ([Neutral] 頼る、次第である)    Success depends on hard work.
-- `count on` /kaʊnt ɑːn/            ([Neutral] 頼る、当てにする)    I'm counting on you to help me.
-- `trust` /trʌst/                   ([Neutral] 信頼する)            You can trust me not to tell anyone.
-- `turn to` /tɜːrn tuː/             ([Neutral] 頼る、助けを求める)  She turned to her family for support.
-- `look to` /lʊk tuː/               ([Neutral] 頼る、期待する)      We look to you for guidance.
-- `bank on` /bæŋk ɑːn/              ([Neutral] 当てにする)          I'm banking on your help.
-- `lean on` /liːn ɑːn/              ([Neutral] 頼る、支えにする)    She had her friends to lean on.
-- `have confidence in`              ([Neutral] 信頼する)            I have confidence in her abilities.
-- `fall back on` /fɔːl bæk ɑːn/     ([Neutral] 頼る、最終手段)      I have savings to fall back on.
-- `resort to` /rɪˈzɔːrt tuː/        ([Neutral] 頼る、手段に訴える)  They resorted to borrowing money.
-- `rest on` /rest ɑːn/              ([Formal] 基づく、頼る)         Our hopes rest on this decision.
-- `pin hopes on` /pɪn hoʊps ɑːn/    ([Neutral] 期待をかける)        They pinned their hopes on winning.
-- `hinge on` /hɪndʒ ɑːn/            ([Neutral] 次第である、頼る)    Everything hinges on the outcome.
-- `bet on` /bet ɑːn/                ([Casual] 当てにする、賭ける)   I wouldn't bet on him showing up.
-- `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
-- `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
-- `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.

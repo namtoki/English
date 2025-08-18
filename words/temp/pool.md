@@ -153,7 +153,6 @@ afterward	2	【副】あとで
 aged	4	【形】年とった 【名】老人		
 agency	2	【名】代理店、媒介		
 agenda	4	【名】日程、議題		
-aggravate	9	【動】悪化させる、イライラさせる		
 aggregate	10	【動】集まる、合計で～になる 【名】集合体		
 aggregation	12	【名】集団、集合体		
 aggression	7	【名】侵略、攻撃		
@@ -306,7 +305,6 @@ anniversary	4	【名】記念日、記念祭
 announcer	3	【名】アナウンサー、告知者		
 annoy	5	【動】悩ます		
 annoyance	7	【名】迷惑、苛だたしさ、困惑、困りごと		
-annoyed	7	【形】困って、悩んで、イライラして		
 annoying	6	【形】気に障る、人を悩ます		
 annuity	11	【名】年金、年金支払義務		
 anomaly	11	【名】例外、異例、不調和		
@@ -2783,7 +2781,6 @@ enlist	8	【動】入隊する、協力する、参加する
 enmity	9	【名】憎しみ、恨み		
 enormous	4	【形】莫大な		
 enormously	6	【副】非常に、莫大に		
-enrage	9	【動】激怒させる		
 enrich	7	【動】豊かにする、質的に向上させる		
 enrichment	9	【名】豊かにすること、濃縮		
 enroll	8	【動】登録する、入会させる、包む		
@@ -2915,8 +2912,6 @@ exacting	11	【形】骨の折れる、厳しい
 exactly	2	【副】正確に、そのとおり		
 exaggerate	5	【動】誇張する		
 exaggeration	6	【名】誇張		
-exasperate	10	【動】憤慨させる、イライラさせる		
-exasperation	12	【名】憤慨、病気の悪化		
 excavate	12	【動】掘る、発掘する		
 exceed	5	【動】上回る、限界を越える		
 exceeding	9	【形】過度の、非常な、異常な		
@@ -3405,7 +3400,6 @@ fungus	10	【名】真菌、カビ
 funk	11	【名】落ち込み、憶病、ポップアート		
 funnel	11	【名】じょうご 【動】送る、一カ所に集中する		
 fur	3	【名】毛皮、被毛 【形】毛皮（製）の		
-furious	7	【形】激怒した、猛烈な		
 furlough	12	【名】軍人の休暇、一時的解雇		
 furnace	7	【名】かまど、ひどく暑い場所		
 furnish	5	【動】与える、家具などを備え付ける		
@@ -4192,8 +4186,6 @@ indict	10	【動】起訴する、非難する
 indictment	10	【名】起訴、非難		
 indigenous	10	【形】固有の、生まれながらの		
 indigestion	10	【名】消化不良、胃弱、未熟		
-indignant	9	【形】憤った、怒った		
-indignation	11	【名】憤り		
 indignity	9	【名】侮辱、冷遇		
 indirect	5	【形】間接的な、遠回しの		
 indispensable	7	【形】必須の、無視できない		
@@ -4448,7 +4440,6 @@ involve	2	【動】関係する、巻き込む
 involvement	6	【名】関与		
 inward	5	【副】内側に向けて、中心へ		
 ion	10	【名】イオン		
-irate	11	【形】激怒した、怒りによる		
 iris	12	【名】眼球の虹彩、アイリス、アヤメ		
 irksome	12	【形】やっかいな、イライラするような		
 iron	2	【名】鉄、アイロン 【動】アイロンをかける		
@@ -4895,7 +4886,6 @@ lynx	12	【名】オオヤマネコ
 lyric	8	【名】歌詞、叙情詩 【形】叙情的な		
 lyrical	9	【形】詩的な、叙情的な		
 mackerel	12	【名】サバ		
-mad	2	【形】怒って、気が狂って、夢中で		
 madam	3	【名】奥様、ご婦人		
 madden	9	【動】かんかんに怒らせる、気を変にする		
 madly	7	【副】激しく、狂ったように、気が狂って		
@@ -6565,7 +6555,6 @@ radium	8	【名】ラジウム
 radius	9	【名】半径、放射状のもの		
 raft	8	【名】いかだ、救命ゴムボート、浮き台 【動】いかだで輸送する		
 rag	5	【名】ぼろ切れ 【動】着飾る、しかる、いじめる		
-rage	4	【名】激怒、憤激、激しさ 【動】怒る、暴れる		
 ragged	6	【形】ぼろぼろの、ぼろ服を着た、不規則な		
 rail	2	【名】レール、手すり、鉄道		
 railroad	2	【名】鉄道 【動】鉄道で輸送する		
