@@ -27,11 +27,13 @@ disperse
 
 # 02
 surmise
+conjecture
+postulate
+infer
 concoct
 conjure
 evoke
 fathom
-infer
 
 # 03
 vehement
