@@ -1,10 +1,10 @@
 # Cognitive
 
 ## KIND OF
-- `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
-- `sort of` /sɔːrt əv/              ([Casual] ちょっと、なんか)     I sort of understand what you mean.
-- `a little` /ə ˈlɪtəl/             ([Neutral] 少し、ちょっと)      She seems a little upset.
-- `a bit` /ə bɪt/                   ([Casual] ちょっと、少し)       It's a bit cold outside.
+> `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
+> `sort of` /sɔːrt əv/              ([Casual] ちょっと、なんか)     I sort of understand what you mean.
+> `a little` /ə ˈlɪtəl/             ([Neutral] 少し、ちょっと)      She seems a little upset.
+> `a bit` /ə bɪt/                   ([Casual] ちょっと、少し)       It's a bit cold outside.
 - `somewhat` /ˈsʌmwʌt/              ([Neutral] いくぶん、多少)      The results were somewhat surprising.
 - `rather` /ˈræðər/                 ([Neutral] かなり、やや)        The movie was rather disappointing.
 - `pretty` /ˈprɪti/                 ([Casual] かなり、相当)         She's pretty smart.

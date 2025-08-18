@@ -95,7 +95,7 @@
 - `advise` /ədˈvaɪz/                ([Neutral] 忠告する、助言する)  I advise you to study harder.
 - `caution` /ˈkɔːʃən/               ([Neutral] 警告する、注意する)  The doctor cautioned against overwork.
 - `heads up` /hedz ʌp/              ([Casual] 注意して、気をつけて) Heads up! There's a step there.
-- `watch out` /wɑːtʃ aʊt/           ([Casual] 気をつけて)           Watch out for that car!
+> `watch out` /wɑːtʃ aʊt/           ([Casual] 気をつけて)           Watch out for that car!
   - `look out` /lʊk aʊt/            ([Casual] 気をつけて)           Look out! It's slippery.
 - `be careful` /biː ˈkerfəl/        ([Neutral] 気をつけて)          Be careful with that glass.
 - `admonish` /ədˈmɑːnɪʃ/            ([Formal] 諭す、勧告する)       She admonished him to be more careful.
@@ -193,7 +193,7 @@
   - `depiction` /dɪˈpɪkʃən/         ([Neutral] 描写、叙述)          The depiction was accurate.
 
 ## REVEAL
-- `reveal` /rɪˈviːl/                ([Neutral] 明らかにする)        She revealed her true feelings.
+> `reveal` /rɪˈviːl/                ([Neutral] 明らかにする)        She revealed her true feelings.
   - `revelation` /ˌrevəˈleɪʃən/     ([Neutral] 暴露、啓示)          The revelation shocked everyone.
   - `revealing` /rɪˈviːlɪŋ/         ([Neutral] 明らかにする)        Her comments were very revealing.
 - `expose` /ɪkˈspoʊz/               ([Neutral] 暴露する、さらす)    The scandal exposed corruption.
@@ -226,8 +226,8 @@
   - `tattletale` /ˈtætəlteɪl/       ([Casual] 告げ口する人)         Nobody likes a tattletale.
 
 ## DISPROVE
-- `disprove` /dɪsˈpruːv/            ([Neutral] 反証する)            The evidence disproves his claim.
-- `refute` /rɪˈfjuːt/               ([Formal] 論破する、反駁する)   She refuted the allegations completely.
+> `disprove` /dɪsˈpruːv/            ([Neutral] 反証する)            The evidence disproves his claim.
+> `refute` /rɪˈfjuːt/               ([Formal] 論破する、反駁する)   She refuted the allegations completely.
   - `refutation` /ˌrefjuˈteɪʃən/    ([Formal] 反駁、論破)           His refutation was well-documented.
   - `refutable` /rɪˈfjuːtəbəl/      ([Writing] 反駁可能な)          The claim is easily refutable.
   - `irrefutable` /ˌɪrɪˈfjuːtəbəl/  ([Writing] 反駁できない)        The evidence is irrefutable.

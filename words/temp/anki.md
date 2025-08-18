@@ -13,12 +13,12 @@ supplicate
 avow
 aver
 divulge
-refute
-rebut
-debunk
 snitch
 blab
 tattle
+refute
+debunk
+rebut
 disseminate
 propagate
 promulgate

@@ -29,7 +29,6 @@
 - `speaking of` /ˈspiːkɪŋ əv/       ([Casual] そういえば)           Speaking of John, have you seen him?
 - `talking of` /ˈtɔːkɪŋ əv/         ([Casual] ～と言えば)           Talking of holidays, where are you going?
 - `-wise` /waɪz/                    ([Casual] ～に関しては)         Time-wise, we're on schedule.
-> `in terms of` /ɪn tɜːrmz əv/      ([Neutral] ～の観点から)        In terms of cost, it's expensive.
 - `with respect to`                 ([Formal] ～に関して)           With respect to your query, here's my answer.
 - `regarding` /rɪˈɡɑːrdɪŋ/          ([Formal] ～に関して)           Regarding your proposal, we'll review it.
 - `concerning` /kənˈsɜːrnɪŋ/        ([Formal] ～に関して)           Concerning the delay, we apologize.
@@ -157,6 +156,7 @@
 - `favor A over B`                  ([Neutral] BよりAを好む)        They favor experience over education.
 
 ## IN THAT
+> `in terms of` /ɪn tɜːrmz əv/      ([Neutral] ～の観点から)        In terms of cost, it's expensive.
 > `as long as` /æz lɔːŋ æz/         ([Neutral] ～する限り)          As long as you try, that's what matters.
 > `as far as` /æz fɑːr æz/          ([Neutral] ～する範囲では)      As far as I know, the meeting is still on.
 - `in a way` /ɪn ə weɪ/             ([Casual] ある意味で)           In a way, you're right about that.
