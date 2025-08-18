@@ -348,3 +348,33 @@
 - `or something?` /ɔːr ˈsʌmθɪŋ/     ([Casual] か何か？)             Are you sick or something?
 - `or what?` /ɔːr wʌt/              ([Casual] それともどう？)       Is this the plan, or what?
 - `or whatever` /ɔːr wʌtˈevər/      ([Casual] か何でも)             We can get pizza or whatever.
+
+## KIND OF
+> `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
+> `sort of` /sɔːrt əv/              ([Casual] ちょっと、なんか)     I sort of understand what you mean.
+> `a little` /ə ˈlɪtəl/             ([Neutral] 少し、ちょっと)      She seems a little upset.
+> `a bit` /ə bɪt/                   ([Casual] ちょっと、少し)       It's a bit cold outside.
+- `somewhat` /ˈsʌmwʌt/              ([Neutral] いくぶん、多少)      The results were somewhat surprising.
+- `rather` /ˈræðər/                 ([Neutral] かなり、やや)        The movie was rather disappointing.
+- `pretty` /ˈprɪti/                 ([Casual] かなり、相当)         She's pretty smart.
+- `pretty much` /ˈprɪti mʌtʃ/       ([Casual] ほとんど、だいたい)   I pretty much finished the report.
+- `fairly` /ˈferli/                 ([Neutral] かなり、まあまあ)    He speaks English fairly well.
+- `quite` /kwaɪt/                   ([Neutral] かなり、相当)        That's quite interesting.
+- `slightly` /ˈslaɪtli/             ([Neutral] わずかに、少し)      I'm slightly concerned about this.
+- `moderately` /ˈmɑːdərətli/        ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
+- `to some degree`                  ([Neutral] ある程度)            I agree with you to some degree.
+- `to a certain extent`             ([Formal] ある程度まで)         To a certain extent, he's right.
+- `more or less` /mɔːr ɔːr les/     ([Neutral] だいたい、多少)      The work is more or less done.
+
+### 色々
+- `and all that` /ænd ɔːl ðæt/      ([Casual] などなど、~とか)      He likes movies, books, and all that.
+- `and the like` /ænd ðə laɪk/      ([Neutral] そういうもの)        We need books, papers, and the like.
+- `and such` /ænd sʌtʃ/             ([Neutral] そういったもの)      He studies math, science, and such.
+- `et cetera` /ɛt ˈsɛtərə/          ([Formal] その他)               They sell books, magazines, et cetera.
+- `and so on` /ænd soʊ ɑn/          ([Neutral] というように)        One, two, three, and so on.
+- `and whatnot` /ænd ˈwʌtnɑt/       ([Casual] など)                 She collects stamps, coins, and whatnot.
+- `and so forth` /ænd soʊ fɔrθ/     ([Neutral] などなど)            First, second, third, and so forth.
+- `and stuff` /ænd stʌf/            ([Casual] とかそういうの)       He likes pizza, burgers, and stuff.
+- `and things` /ænd θɪŋz/           ([Casual] とかいろいろ)         She bought shoes, bags, and things.
+- `or whatever` /ɔr wʌtˈɛvər/       ([Casual] とかなんでも)         Bring a book, magazine, or whatever.
+- `and all that jazz`               ([Casual] そういうもの全部)     He talks about success, money, and all that jazz.
