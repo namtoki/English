@@ -5,7 +5,7 @@
 - 03_emotion.md - 主観的な感情・気持ち
 - 04_assessment.md - 客観的な物, 人に対する評価
 - 05_affect.md - 影響を与える動作
-- 06_move.md - 身体動作・運動
+- 06_motion.md - 身体動作・運動
 - 07_conflict.md - 対立・紛争・戦争に関する名詞、動詞
 - 08_properties.md - 物理的性質に関する形容詞
 - 09_space.md - 空間・空間の状態・位置・場所に関する名詞、形容詞

@@ -1652,8 +1652,6 @@ congestion	9	【名】密集、充満、充血、詰まること
 conglomerate	11	【名】複合企業、集合体 【形】複合企業の		
 congratulate	6	【動】お祝いを言う		
 congratulation	5	【名】祝辞、祝うこと		
-congregate	12	【動】集まる、集合させる 【形】集団の		
-congregation	8	【名】集まり、集会、集まった人々、信徒団		
 congress	4	【名】議会、連邦議会、国会、会議、大会		
 congressional	8	【形】会議の、集会の、アメリカ議会の		
 congressman	6	【名】下院議員		
