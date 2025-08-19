@@ -851,3 +851,13 @@
   - `tumultuous` /tuːˈmʌltʃuəs/     ([Writing] 騒々しい、激動の)    They had a tumultuous relationship.
 - `hubbub` /ˈhʌbʌb/                 ([Casual] 騒音、ざわめき)       The hubbub in the restaurant was overwhelming.
 
+
+
+
+
+
+- `distinction` /dɪˈstɪŋkʃən/        ([Formal] 区別、優秀性)      She graduated with high distinction.
+  - `distinct` /dɪˈstɪŋkt/            ([Neutral] 異なった、目立つ) There's a distinct difference between them.
+  - `distinctive` /dɪˈstɪŋktɪv/       ([Neutral] 独特の)           The building has a distinctive architecture.
+  - `distinctly` /dɪˈstɪŋktli/        ([Neutral] はっきりと)       I distinctly remember what happened.
+  - `indistinct` /ˌɪndɪˈstɪŋkt/       ([Writing] 不明瞭な)         The voice on the phone was indistinct.

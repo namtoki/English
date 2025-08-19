@@ -76,6 +76,66 @@
 - `tangent` /ˈtændʒənt/             ([Technical] 接線)              The tangent to the curve.
   - `tangential` /tænˈdʒenʃəl/      ([Technical] 接線の)            Tangential velocity.
 
+## THICKNESS
+- `thick` /θɪk/                     ([Neutral] 厚い、濃い)          The walls are thick.
+- `thin` /θɪn/                      ([Neutral] 薄い、細い)          The ice was too thin to walk on.
+- `bulky` /ˈbʌlki/                  ([Neutral] かさばる、厚い)      A bulky sweater.
+
+## WIDTH
+- `wide` /waɪd/                     ([Neutral] 幅が広い)            A wide road.
+  - `width` /wɪdθ/                  ([Neutral] 幅)                  The width of the river.
+  - `widen` /ˈwaɪdən/               ([Neutral] 広げる)              They will widen the highway.
+- `narrow` /ˈnærəʊ/                 ([Neutral] 幅が狭い)            The road becomes narrow here.
+  - `narrowness` /ˈnærəʊnəs/        ([Neutral] 狭さ)                The narrowness of the passage.
+- `broad` /brɔːd/                   ([Neutral] 幅広い)              Broad shoulders.
+  - `broaden` /ˈbrɔːdən/            ([Neutral] 広げる)              Broaden your horizons.
+
+- `dense` /dens/                    ([Formal] 密度の高い、濃い)     Dense fog.
+  - `density` /ˈdensəti/            ([Formal] 密度、濃度)           The density of the material.
+  - `densely` /ˈdensli/             ([Formal] 密に)                 Densely populated.
+- `heavy` /ˈhevi/                   ([Neutral] 重い、濃い)          Heavy cream.
+  - `heaviness` /ˈhevɪnəs/          ([Neutral] 重さ)                The heaviness of the air.
+  - `heavily` /ˈhevɪli/             ([Neutral] 重く、濃く)          Heavily frosted.
+- `light` /laɪt/                    ([Neutral] 軽い、薄い)          Light fabric.
+  - `lightness` /ˈlaɪtnəs/          ([Neutral] 軽さ)                The lightness of the material.
+  - `lightly` /ˈlaɪtli/             ([Neutral] 軽く、薄く)          Lightly coated.
+- `fine` /faɪn/                     ([Neutral] 細い、薄い)          Fine hair.
+  - `fineness` /ˈfaɪnnəs/           ([Neutral] 細さ)                The fineness of the thread.
+  - `finely` /ˈfaɪnli/              ([Neutral] 細かく)              Finely chopped.
+- `coarse` /kɔːrs/                  ([Neutral] 粗い、厚い)          Coarse fabric.
+  - `coarsely` /ˈkɔːrsli/           ([Neutral] 粗く)                Coarsely ground pepper.
+  - `coarseness` /ˈkɔːrsnəs/        ([Neutral] 粗さ)                The coarseness of the sand.
+- `substantial` /səbˈstænʃəl/       ([Formal] 実質的な、厚い)       A substantial layer.
+- `meager` /ˈmiːɡər/                ([Formal] 貧弱な、薄い)         A meager coating.
+  - `meagerly` /ˈmiːɡərli/          ([Formal] 貧弱に)               Meagerly covered.
+- `sparse` /spɑːrs/                 ([Formal] まばらな、薄い)       Sparse vegetation.
+  - `sparsely` /ˈspɑːrsli/          ([Formal] まばらに)             Sparsely populated.
+  - `sparseness` /ˈspɑːrsnəs/       ([Formal] まばらさ)             The sparseness of the hair.
+- `plump` /plʌmp/                   ([Neutral] ふっくらした)        Plump cushions.
+  - `plumpness` /ˈplʌmpnəs/         ([Neutral] ふっくらさ)          The plumpness of the fruit.
+- `stout` /staʊt/                   ([Neutral] 頑丈な、太い)        A stout rope.
+  - `stoutly` /ˈstaʊtli/            ([Neutral] 頑丈に)              Stoutly built.
+  - `stoutness` /ˈstaʊtnəs/         ([Neutral] 頑丈さ)              The stoutness of the wall.
+- `hefty` /ˈhefti/                  ([Casual] 重い、厚い)           A hefty book.
+- `chunky` /ˈtʃʌŋki/                ([Casual] 厚い、ごつい)         Chunky jewelry.
+- `paper-thin` /ˈpeɪpər θɪn/        ([Neutral] 紙のように薄い)      Paper-thin walls.
+- `wafer-thin` /ˈweɪfər θɪn/        ([Neutral] 極薄の)              Wafer-thin slices.
+- `razor-thin` /ˈreɪzər θɪn/        ([Neutral] かみそりのように薄い) A razor-thin margin.
+- `hair-thin` /her θɪn/             ([Neutral] 髪の毛のように細い)  Hair-thin wires.
+- `gauzy` /ˈɡɔːzi/                  ([Writing] 薄い、透けるような)  Gauzy curtains.
+- `filmy` /ˈfɪlmi/                  ([Writing] 薄膜のような)        A filmy layer.
+- `wispy` /ˈwɪspi/                  ([Neutral] か細い、薄い)        Wispy clouds.
+- `delicate` /ˈdelɪkət/             ([Neutral] 繊細な、薄い)        Delicate fabric.
+- `robust` /roʊˈbʌst/               ([Neutral] 頑丈な、厚い)        A robust frame.
+- `flimsy` /ˈflɪmzi/                ([Neutral] 薄っぺらな)          A flimsy excuse.
+- `solid` /ˈsɑːlɪd/                 ([Neutral] 固体の、厚い)        Solid walls.
+- `hollow` /ˈhɑːloʊ/                ([Neutral] 中空の)              A hollow tube.
+- `sheer` /ʃɪr/                     ([Neutral] 薄い、透明な)        Sheer fabric.
+- `opaque` /oʊˈpeɪk/                ([Formal] 不透明な)             Opaque glass.
+- `transparent` /trænsˈpærənt/      ([Neutral] 透明な)              Transparent plastic.
+- `translucent` /trænsˈluːsənt/     ([Formal] 半透明な)             Translucent paper.
+
+
 ## DIRECTION
 - `upward` /ˈʌpwərd/                ([Neutral] 上向きに)            The trend is moving upward.
 - `upwards` /ˈʌpwərdz/              ([British] 上向きに)            Prices are going upwards.
@@ -106,12 +166,6 @@
 - [ ] `not including`                       ([Neutral] ～を含まずに) The total cost is $100, `not including` taxes.
 - [ ] `without`                             ([Neutral] ～なしで) She left the house `without` her keys.
 - [ ] `With the exception of`               ([Formal] ～を除いては) `With the exception of` one delay, the project went smoothly.
-
-## THIN
-- `thin` /θɪn/                      ([Neutral] 薄い)                The ice was too thin to walk on.
-  - `thinness` /ˈθɪnnəs/            ([Neutral] 薄さ)                The thinness of the paper was surprising.
-  - `thinly` /ˈθɪnli/               ([Neutral] 薄く)                Spread the butter thinly on bread.
-- `narrow` /ˈnærəʊ/                 ([Neutral] 幅が狭い)            The road becomes narrow here.
 
 ### Quality
 - `sturdy` /ˈstɜːdi/                ([Neutral] 頑丈な)              This is a sturdy wooden table.
@@ -157,12 +211,3 @@
 - `demolished` /dɪˈmɑːlɪʃt/           ([Neutral] 取り壊された)        The old factory was demolished.
 - `shattered` /ˈʃætərd/               ([Neutral] 粉砕された)          The window was shattered by the ball.
 - `broken` /ˈbroʊkən/                 ([Neutral] 壊れた)              The broken chair cannot be used.
-
-
-
-
-- `distinction` /dɪˈstɪŋkʃən/        ([Formal] 区別、優秀性)      She graduated with high distinction.
-  - `distinct` /dɪˈstɪŋkt/            ([Neutral] 異なった、目立つ) There's a distinct difference between them.
-  - `distinctive` /dɪˈstɪŋktɪv/       ([Neutral] 独特の)           The building has a distinctive architecture.
-  - `distinctly` /dɪˈstɪŋktli/        ([Neutral] はっきりと)       I distinctly remember what happened.
-  - `indistinct` /ˌɪndɪˈstɪŋkt/       ([Writing] 不明瞭な)         The voice on the phone was indistinct.

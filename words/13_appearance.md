@@ -53,3 +53,4 @@
 - `gaunt` /ɡɔːnt/                   ([Writing] やつれた)            The old man looked gaunt and tired.
 - `emaciated` /ɪˈmeɪʃieɪtɪd/        ([Formal] 極度に痩せこけた)     The emaciated patient needed nutrition.
 - `skeletal` /ˈskɛlətəl/            ([Formal] 骸骨のような)         His skeletal appearance alarmed us.
+- `fat` /fæt/                       ([Casual] 太い、太った)         A fat book.
