@@ -3,15 +3,6 @@
 ---
 
 ## Auxiliary Verb (Future)
-- [x] `gotta`                               ([Casual] ～しなきゃ／～しないと) `I gotta` finish this by tonight.
-- [ ] `have got to`                         ([Casual] ～しなきゃ／～しないと) `I’ve got to` finish this by tonight.
-- [x] `be about to`                         ([Casual] しようとしているところ) I `am about to` go to sleep.
-- [ ] `on the verge of`                     ([Neutral] まさに～しようとしている) I `am on the verge of` going to sleep.
-- [ ] `be due to`                           ([Neutral] [客観的] することになっている) She `is due to` have her baby this week.
-- [ ] `be supposed to`                      ([Neutral] [社会的習慣] ことになっている) On Valentine's Day, in Japan girls `are supposed to` give chocolates.
-- [ ] `be supposed to`                      ([Neutral] [義務感] することになっている) What time `are we supposed to` be there?
-- [ ] `be supposed to`                      ([Neutral] ものだ) Dolphins `are supposed to` be intelligent.
-- [ ] `be scheduled to`                     ([Neutral] 予定されている) She `is scheduled to` have her baby this week.
 - [ ] `go out of one's way to`              ([Neutral] わざわざする) He always `goes out of his way to` help his colleagues.
 
 ## 考え系
@@ -38,7 +29,6 @@
 - [ ] `be likely to`                        ([Neutral] ～しそうだ) `It's likely to` rain tomorrow.
 - [ ] `be looking forward to`               ([Neutral] 楽しみにしている) I'm `looking forward to` your souvenirs.
 - [ ] `be more likely to`                   ([Neutral] する確率が高い) In engineering, people `are more likely to` work in their field.
-- [ ] `be obliged to`                       ([Formal] 余儀なくする) We `are obliged to` return the favor they gave us.
 - [ ] `be said to`                          ([Neutral] と言われている) He `is said to` have worked hard when young.
 - [ ] `be slated to`                        ([Formal] することになっている) What time `are we slated to` be there?
 - [ ] `be something that`                   ([Neutral] ということだ) Satisfying customers with their products `is something that` will remain ...
@@ -49,16 +39,12 @@
 - [ ] `could`                         ([Neutral] 「できた」で使えるのは、過去の期間を表す語句か状態動詞に限る) I `could hear` the birds singing this morning.
 - [ ] `ended up V-ing`               ([Neutral] 結局〜した) I `ended up staying` home.
 - [ ] `gotta | have got to`          ([Casual] しなければならない（迫ってきている感）) I `gotta` go.
-- [ ] `had better`                   ([Neutral] しなければならない（身のためだよ）) You `had better` call her back.
 - [ ] `hasten to`                    ([Formal] 急いで〜する) They `hastened to` execute the plan.
-- [ ] `have to`                      ([Neutral] しなければならない（迫ってきている感）) I `have to` go home.
 - [ ] `have yet to`                  ([Formal] まだ〜していない) We `have yet to` receive an answer.
 - [ ] `make it a rule to`           ([Neutral] 〜するのを常としている) She `makes it a rule to` go jogging every morning.
 - [ ] `might as well`               ([Casual] 〜してもいいかもしれない) You `might as well` walk home.
-- [ ] `need to`                      ([Neutral] しなければならない（ほんまに）) I `need to` get back to the office.
 - [ ] `seems to`                     ([Neutral] 〜のようだ（目の前の状況）) It `seems to` be broken.
 - [ ] `shall`                        ([Formal] （規定文書で）〜するものとする) The report `shall` be signed by both parties.
-- [ ] `should`                       ([Neutral] 〜すべきだ（実際にはしないだろうけど）) We `should` ask first.
 - [ ] `take the plunge and`         ([Neutral] 思い切って〜する) He finally `took the plunge and` changed jobs.
 - [ ] `tend to`                      ([Neutral] たいてい〜する) I `tend not to` remember my dreams.
 - [ ] `tend to`                      ([Neutral] ついつい〜する) I `tend to` eat a lot when I'm nervous.

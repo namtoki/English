@@ -1,5 +1,62 @@
 # Emotion
 
+## GOTTA
+> `gotta` /ˈɡɑːtə/                  ([Casual] ～しなきゃ)           I gotta go now.
+  - `have got to` /hæv ɡɑːt tuː/    ([Casual] ～しなきゃ)           I've got to finish this tonight.
+- `need to` /niːd tuː/              ([Neutral] ～する必要がある)    I need to finish this report.
+- `have to` /hæv tuː/               ([Neutral] ～しなけばならない)  I have to leave early today.
+- `must` /mʌst/                     ([Formal] ～しなければならない) You must submit it by Friday.
+- `should` /ʃʊd/                    ([Neutral] ～すべきだ)          You should check your email.
+- `ought to` /ɔːt tuː/              ([Formal] ～すべきだ)           You ought to apologize.
+> `be required to` /rɪˈkwaɪərd tuː/ ([Formal] ～が要求される)       Students are required to attend.
+- `better` /ˈbetər/                 ([Casual] ～したほうがいい)     You better hurry up.
+- `had better` /hæd ˈbetər/         ([Neutral] ～したほうがいい)    You had better be careful.
+
+## BE SUPPOSED TO
+> `be supposed to` /səˈpoʊzd tuː/   ([Neutral] ～することになてる)  I'm supposed to meet him at 3.
+> `be expected to` /ɪkˈspektɪd tuː/ ([Neutral] ～が期待される)      You're expected to be on time.
+- `be due to` /duː tuː/             ([Neutral] ～する予定)          The baby is due to arrive soon.
+- `be scheduled to` /ˈskedʒuːld tuː/([Formal] ～が予定されている)   The meeting is scheduled to start at 9.
+> `be set to` /set tuː/             ([Neutral] ～することになてる)  The project is set to launch Monday.
+- `be slated to` /ˈsleɪtɪd tuː/     ([Formal] ～が予定されている)   She's slated to speak at noon.
+- `be intending to` /ɪnˈtendɪŋ tuː/ ([Formal] ～するつもり)         I was intending to call you.
+- `be destined to` /ˈdestɪnd tuː/   ([Formal] ～する運命)           She was destined to succeed.
+
+## BE ABOUT TO
+> `be about to` /əˈbaʊt tuː/        ([Neutral] まさに～するところ)  The show is about to start.
+  - `be just about to`              ([Neutral] ちょうどするところ)  I was just about to leave.
+> `be gonna` /ˈɡʌnə/                ([Casual] ～しようとしている)   I'm gonna head out soon.
+> `be going to` /ˈɡoʊɪŋ tuː/        ([Casual] ～しようとしている)   I'm going to call him now.
+- `be fixin' to` /ˈfɪksɪn tuː/      ([Casual] ～するところ)         I'm fixin' to make dinner.
+- `be on the verge of` /vɜːrdʒ/     ([Neutral] ～の寸前)            She's on the verge of tears.
+- `be on the point of` /pɔɪnt/      ([Formal] まさに～しようと)     I was on the point of calling you.
+- `be on the brink of` /brɪŋk/      ([Neutral] ～の瀬戸際)          We're on the brink of success.
+- `be close to` /kloʊs tuː/         ([Neutral] ～に近い)            I'm close to finishing.
+- `be near to` /nɪr tuː/            ([Formal] ～に近い)             She was near to giving up.
+
+## BE MEANT TO
+> `be meant to` /ment tuː/          ([Neutral] ～するつもり)        I meant to call you earlier.
+- `be intended to` /ɪnˈtendɪd tuː/  ([Neutral] ～するつもりだった)  I intended to finish today.
+
+## BE OBLIGATED TO
+> `have no choice` /hæv noʊ tʃɔɪs/  ([Neutral] 選択肢がない)        I have no choice but to quit.
+- `forced to` /fɔːrst tuː/          ([Neutral] ～を強いられる)      I was forced to leave early.
+- `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
+- `obligated to` /ˈɑːblɪɡeɪtɪd tuː/ ([Formal] ～する義務がある)     I feel obligated to help.
+- `compelled to` /kəmˈpeld tuː/     ([Formal] ～せざるを得ない)     I felt compelled to speak up.
+- `obliged to` /əˈblaɪdʒd tuː/      ([Formal] ～する義務がある)     You're obliged to report it.
+
+## MUST
+- `bound to` /baʊnd tuː/            ([Neutral] ～に違いない)        He's bound to notice eventually.
+
+## WANT
+> `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
+> `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
+> `would like` /wʊd laɪk/           ([Polite] 〜が欲しい)           I would like some water, please.
+> `could use` /kʊd juːz/            ([Casual] 〜が欲しい)           I could use a coffee right now.
+- `could do with` /kʊd duː wɪð/     ([Casual] 〜が欲しい)           I could do with a vacation.
+- `wouldn't mind` /ˈwʊdnt maɪnd/    ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
+
 ## ANGRY
 > `angry` /ˈæŋɡri/                  ([Neutral] 怒った)              She was angry about the delay.
 > `mad` /mæd/                       ([Casual] 怒った)               He's mad at me for lying.
@@ -60,14 +117,6 @@
 - `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
 - `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
 - `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.
-
-## WANT
-> `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
-> `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
-> `would like` /wʊd laɪk/           ([Polite] 〜が欲しい)           I would like some water, please.
-> `could use` /kʊd juːz/            ([Casual] 〜が欲しい)           I could use a coffee right now.
-- `could do with` /kʊd duː wɪð/     ([Casual] 〜が欲しい)           I could do with a vacation.
-- `wouldn't mind` /ˈwʊdnt maɪnd/    ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
 
 ## I CAN'T CATCH A BREAK
 > `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
