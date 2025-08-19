@@ -74,8 +74,12 @@
 - `of a sort`                       ([Neutral] 一応の、ある種の)    He's a leader `of a sort`.
 - `of a kind`                       ([Formal] ある種の、同類の)     They're two `of a kind`.
 - `of sorts`                        ([Casual] まあまあの、一応の)   We had dinner `of sorts`.
+
+## OR SO
 - `or so`                           ([Neutral] 〜くらい)            It's 20 dollars `or so`.
 - `like`                            ([Casual] だいたい、〜みたいな) There were `like` thirty people.
+
+## AND STUFF
 - `... and stuff`                   ([Casual] 〜とか)               Books, pens `and stuff`.
 - `... and stuff like that`         ([Casual] 〜とかそういうの)     Budgets, deadlines, `and stuff like that`.
 - `... and things`                  ([Neutral] 〜など)              Papers, documents `and things`.
@@ -87,53 +91,17 @@
 - `... et cetera`                   ([Formal] 〜など)               Books, magazines, `et cetera`.
 - `... etc.`                        ([Neutral] 〜など)              Apples, oranges, `etc.`
 
-## 複合名詞
-- `something else`                              (格別なもの) / That dinner was `something else`!
-- `such things`                                 (そのようなもの) / C++ has plenty of `such things`!
-- `the only thing`                              (唯一良くないもの) / It was great!`The only thing` was the food.
-- `hope for`                    うまく行くことに対する希望  many people have `hope for` genuine changes in it
-- `hope of`                     する希望 / する見込み       I have no `hope of` getting financial support for it
-- `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
-- `nothing out of the ordinary` 普通
-- `pedestrian crossing`         横断歩道 crosswalk, crossway
-- `population boom`             人口の急増
-- `pound sign`                  #
-- `premise | premises`          前提 | 家屋,建物,構内,敷地内
-- `renewal notice`              更新通知
-- `repeat business`             常連
-- `social welfare`              福祉
-- `third baseline`              三塁側
-- `trade exhibition`            展示会
-- `trade journal`               業界紙
-- `treat oneself`               ご褒美
-- `vapor trail`                 飛行機雲
-- `vet / veterinarian`          獣医
-- `wildlife refuge`             鳥獣保護区
-- `working hours`               執務時間                    My regular working hours end at 6pm.
-- `the most commonly accepted`  一番自然な                  but `the most commonly accepted` way is the -ing.
-- `the very first`              一番最初の                  `the very first` question is the use of ..."
-- `one-off`                     一度きりの                  The expense incurred this year to construct the building is a `one-off` cost.
-- `last-minute`                 土壇場の
-- `neighborly`                  隣人の 親切な
-- `best-in-class`               最高クラスの
-- `whole other`                 全然違う                    That's a `whole other` problem.
-- `way better`                  much better                 That's just hype. I know `way better` places.
-- `each and every`              ひとつひとつの              `each and every one of` these questions
-- `scorching`                   焼きつくような              It's `scorching hot` today.
-- `boiling`                     うだるような                This room is `boiling hot`.
-
----
-## 日用品
+## HOUSEHOLD ITEMS
 - `cloth` /klɒθ/                    ([Neutral] 布、生地)            The table was covered with a white cloth.
 - `clothesline` /ˈkləʊðzlaɪn/       ([Neutral] 物干しロープ)        Hang the laundry on the clothesline.
 - `clothespin` /ˈkləʊðzpɪn/         ([Neutral] 洗濯ばさみ)          Use clothespins to secure the sheets.
 - `dresser` /ˈdresər/               ([Neutral] 化粧台、整理だんす)  She keeps her jewelry on the dresser.
 - `dressing` /ˈdresɪŋ/              ([Neutral] ドレッシング、包帯)  She put dressing on the salad.
 
-## 本
+## BOOKS
 - `author` /ˈɔːθə/                  ([Neutral] 著者)                He is the author of this book.
 
-## 不動産
+## REAL ESTATE
 - `realtor` /ˈriːəltər/             ([Neutral] 不動産仲介業者)      She's a licensed realtor in California.
 - `real estate agent`               ([Neutral] 不動産エージェント)  The real estate agent showed us the house.
 - `real estate broker`              ([Neutral] 不動産ブローカー)    He's a licensed real estate broker.
@@ -151,59 +119,13 @@
 - `property inspector` /ɪnˈspektər/ ([Neutral] 物件検査官)          The property inspector checked the foundation.
 - `home inspector` /hoʊm/           ([Neutral] 住宅検査官)          We hired a home inspector before buying.
 
-## 想像
-- ✅ `dream` /driːm/                ([Neutral] 夢、空想)            It was just a bad dream.
-  - `dreamlike` /ˈdriːmlaɪk/        ([Neutral] 夢のような)          The scene had a dreamlike quality.
-- ✅ `imagination` /ɪˌmædʒɪˈneɪʃən/ ([Neutral] 想像力、空想)        Use your imagination to solve this.
-    - `imaginary` /ɪˈmædʒɪnəri/     ([Neutral] 想像上の)            Children often have imaginary friends.
-    - `imaginative` /ɪˈmædʒɪnətɪv/  ([Neutral] 想像力豊かな)        She's very imaginative.
-  - `fantasy` /ˈfæntəsi/            ([Neutral] 幻想、空想)          Living in a castle is just a fantasy.
-    - `fantasize` /ˈfæntəsaɪz/      ([Casual] 空想する)             He likes to fantasize about traveling.
-    - `fantastical` /fænˈtæstɪkəl/  ([Writing] 幻想的な)            The story had fantastical creatures.
-  - `illusion` /ɪˈluːʒən/           ([Neutral] 錯覚、幻想)          The magician created an optical illusion.
-    - `illusory` /ɪˈluːsəri/        ([Writing] 錯覚の、幻想的な)    The promise of easy money was illusory.
-    - `illusionist` /ɪˈluːʒənɪst/   ([Neutral] 手品師、幻術師)      The illusionist amazed the audience.
-    - `disillusion` /ˌdɪsɪˈluːʒən/  ([Writing] 幻滅させる)          The scandal will disillusion his supporters.
-      - `disillusionment`           ([Writing] 幻滅)                His disillusionment was complete.
-      - `disillusioned`             ([Writing] 幻滅した)            She became disillusioned with politics.
-  - `vision` /ˈvɪʒən/               ([Neutral] 幻影、幻覚)          He had a vision of the future.
-    - `visionary` /ˈvɪʒənəri/       ([Neutral] 幻想的な、先見的な)  She's a visionary leader.
-  - `fiction` /ˈfɪkʃən/             ([Neutral] 虚構、作り話)        That story is pure fiction.
-    - `fictional` /ˈfɪkʃənəl/       ([Neutral] 架空の)              Harry Potter is a fictional character.
-    - `fictitious` /fɪkˈtɪʃəs/      ([Formal] 架空の、虚偽の)       He gave a fictitious name.
-  - `myth` /mɪθ/                    ([Neutral] 神話、作り話)        That's just an urban myth.
-    - `mythical` /ˈmɪθɪkəl/         ([Neutral] 神話の、架空の)      Dragons are mythical creatures.
-    - `mythology` /mɪˈθɒlədʒi/      ([Neutral] 神話学)              Greek mythology is fascinating.
-  - `ghost` /ɡəʊst/                 ([Neutral] 幽霊、亡霊)          She saw a ghost in the attic.
-    - `ghostly` /ˈɡəʊstli/          ([Neutral] 幽霊のような)        A ghostly figure appeared.
-  - `hallucination`/həˌluːsɪˈneɪʃən/([Medical] 幻覚)                The fever caused hallucinations.
-    - `hallucinate` /həˈluːsɪneɪt/  ([Medical] 幻覚を見る)          He began to hallucinate.
-  - `daydream` /ˈdeɪdriːm/          ([Casual] 白昼夢、空想)         Stop daydreaming and focus!
-    - `daydreamer` /ˈdeɪdriːmər/    ([Casual] 空想家)               He's always been a daydreamer.
-  - `make-believe` /ˈmeɪk bɪliːv/   ([Casual] ごっこ遊び、見せかけ) Children love make-believe games.
-  - `delusion` /dɪˈluːʒən/          ([Medical] 妄想、錯覚)          He was under the delusion he could fly.
-    - `delusional` /dɪˈluːʒənəl/    ([Medical] 妄想的な)            Her beliefs were completely delusional.
-  - `phantom` /ˈfæntəm/             ([Writing] 幻影、亡霊)          A phantom appeared at midnight.
-  - `mirage` /mɪˈrɑːʒ/              ([Neutral] 蜃気楼、幻想)        The desert mirage fooled the travelers.
-  - `pipe dream` /ˈpaɪp driːm/      ([Casual] 夢物語、非現実的な夢) That plan is just a pipe dream.
-  - `figment` /ˈfɪɡmənt/            ([Formal] 想像の産物)           That's just a figment of your imagination.
-  - `fabrication` /ˌfæbrɪˈkeɪʃən/   ([Formal] 作り話、でっち上げ)   The whole story was a fabrication.
-    - `fabricate` /ˈfæbrɪkeɪt/      ([Formal] でっち上げる)         He fabricated the evidence.
-  - `invention` /ɪnˈvenʃən/         ([Neutral] 作り話、創作)        That excuse is pure invention.
-  - `apparition` /ˌæpəˈrɪʃən/       ([Writing] 幽霊、亡霊)          An apparition haunted the castle.
-  - `specter` /ˈspektər/            ([Writing] 亡霊、幻影)          The specter of war loomed.
-    - `spectral` /ˈspektrəl/        ([Writing] 幽霊のような)        A spectral figure emerged.
-  - `chimera` /kaɪˈmɪərə/           ([Writing] 幻想、妄想)          World peace may be just a chimera.
-    - `chimerical` /kaɪˈmerɪkəl/    ([Writing] 幻想的な、非現実的)  His plans were chimerical.
-  - `reverie` /ˈrevəri/             ([Writing] 夢想、物思い)        She was lost in reverie.
-  - `unreality` /ˌʌnriˈæləti/       ([Writing] 非現実、幻想)        A sense of unreality pervaded.
-  - `fancy` /ˈfænsi/                ([Writing] 空想、気まぐれ)      It was just a passing fancy.
+## CONCEPT
+- `concept` /ˈkɑːnsept/             ([Neutral] 概念、構想)          The concept looks good, but we need more details.
 
-## NOTION
-- ✅ `concept` /ˈkɑːnsept/          ([Neutral] 概念、構想)          The concept looks good, but we need more details.
-- `faction` /ˈfækʃən/               ([Neutral] 派閥、分派)          The party split into several factions.
+## FACTION
+> `faction` /ˈfækʃən/               ([Neutral] 派閥、分派)          The party split into several factions.
   - `factional` /ˈfækʃənəl/         ([Neutral] 派閥の)              Factional disputes weakened the organization.
-- `sect` /sekt/                     ([Neutral] 宗派、教派)          The sect has followers worldwide.
+> `sect` /sekt/                     ([Neutral] 宗派、教派)          The sect has followers worldwide.
 - `offshoot` /ˈɒfʃuːt/              ([Neutral] 分派、派生物)        The company is an offshoot of a larger corporation.
 - `branch` /brɑːntʃ/                ([Neutral] 枝、支店、部門)      They opened a new branch in Tokyo.
   - `branching` /ˈbrɑːntʃɪŋ/        ([Neutral] 分岐、枝分かれ)      The branching of the company was successful.
@@ -215,4 +137,53 @@
   - `derive` /dɪˈraɪv/              ([Formal] 由来する、派生する)   The word derives from Latin.
   - `derivation` /ˌderɪˈveɪʃən/     ([Formal] 由来、派生)           The derivation of this theory is complex.
 
+## DREAM
+- `dream` /driːm/                   ([Neutral] 夢、空想)            It was just a bad dream.
+  - `dreamlike` /ˈdriːmlaɪk/        ([Neutral] 夢のような)          The scene had a dreamlike quality.
+- `imagination` /ɪˌmædʒɪˈneɪʃən/    ([Neutral] 想像力、空想)        Use your imagination to solve this.
+  - `imaginary` /ɪˈmædʒɪnəri/       ([Neutral] 想像上の)            Children often have imaginary friends.
+  - `imaginative` /ɪˈmædʒɪnətɪv/    ([Neutral] 想像力豊かな)        She's very imaginative.
+- `fantasy` /ˈfæntəsi/              ([Neutral] 幻想、空想)          Living in a castle is just a fantasy.
+  - `fantasize` /ˈfæntəsaɪz/        ([Casual] 空想する)             He likes to fantasize about traveling.
+  - `fantastical` /fænˈtæstɪkəl/    ([Writing] 幻想的な)            The story had fantastical creatures.
+- `illusion` /ɪˈluːʒən/             ([Neutral] 錯覚、幻想)          The magician created an optical illusion.
+  - `illusory` /ɪˈluːsəri/          ([Writing] 錯覚の、幻想的な)    The promise of easy money was illusory.
+  - `illusionist` /ɪˈluːʒənɪst/     ([Neutral] 手品師、幻術師)      The illusionist amazed the audience.
+  - `disillusion` /ˌdɪsɪˈluːʒən/    ([Writing] 幻滅させる)          The scandal will disillusion his supporters.
+    - `disillusionment`             ([Writing] 幻滅)                His disillusionment was complete.
+    - `disillusioned`               ([Writing] 幻滅した)            She became disillusioned with politics.
+- `vision` /ˈvɪʒən/                 ([Neutral] 幻影、幻覚)          He had a vision of the future.
+  - `visionary` /ˈvɪʒənəri/         ([Neutral] 幻想的な、先見的な)  She's a visionary leader.
+- `fiction` /ˈfɪkʃən/               ([Neutral] 虚構、作り話)        That story is pure fiction.
+  - `fictional` /ˈfɪkʃənəl/         ([Neutral] 架空の)              Harry Potter is a fictional character.
+  - `fictitious` /fɪkˈtɪʃəs/        ([Formal] 架空の、虚偽の)       He gave a fictitious name.
+- `myth` /mɪθ/                      ([Neutral] 神話、作り話)        That's just an urban myth.
+  - `mythical` /ˈmɪθɪkəl/           ([Neutral] 神話の、架空の)      Dragons are mythical creatures.
+  - `mythology` /mɪˈθɒlədʒi/        ([Neutral] 神話学)              Greek mythology is fascinating.
+- `ghost` /ɡəʊst/                   ([Neutral] 幽霊、亡霊)          She saw a ghost in the attic.
+  - `ghostly` /ˈɡəʊstli/            ([Neutral] 幽霊のような)        A ghostly figure appeared.
+- `hallucination`/həˌluːsɪˈneɪʃən/  ([Medical] 幻覚)                The fever caused hallucinations.
+  - `hallucinate` /həˈluːsɪneɪt/    ([Medical] 幻覚を見る)          He began to hallucinate.
+- `daydream` /ˈdeɪdriːm/            ([Casual] 白昼夢、空想)         Stop daydreaming and focus!
+  - `daydreamer` /ˈdeɪdriːmər/      ([Casual] 空想家)               He's always been a daydreamer.
+- `make-believe` /ˈmeɪk bɪliːv/     ([Casual] ごっこ遊び、見せかけ) Children love make-believe games.
+- `delusion` /dɪˈluːʒən/            ([Medical] 妄想、錯覚)          He was under the delusion he could fly.
+  - `delusional` /dɪˈluːʒənəl/      ([Medical] 妄想的な)            Her beliefs were completely delusional.
+- `phantom` /ˈfæntəm/               ([Writing] 幻影、亡霊)          A phantom appeared at midnight.
+- `mirage` /mɪˈrɑːʒ/                ([Neutral] 蜃気楼、幻想)        The desert mirage fooled the travelers.
+- `pipe dream` /ˈpaɪp driːm/        ([Casual] 夢物語、非現実的な夢) That plan is just a pipe dream.
+- `figment` /ˈfɪɡmənt/              ([Formal] 想像の産物)           That's just a figment of your imagination.
+- `fabrication` /ˌfæbrɪˈkeɪʃən/     ([Formal] 作り話、でっち上げ)   The whole story was a fabrication.
+  - `fabricate` /ˈfæbrɪkeɪt/        ([Formal] でっち上げる)         He fabricated the evidence.
+- `invention` /ɪnˈvenʃən/           ([Neutral] 作り話、創作)        That excuse is pure invention.
+- `apparition` /ˌæpəˈrɪʃən/         ([Writing] 幽霊、亡霊)          An apparition haunted the castle.
+- `specter` /ˈspektər/              ([Writing] 亡霊、幻影)          The specter of war loomed.
+  - `spectral` /ˈspektrəl/          ([Writing] 幽霊のような)        A spectral figure emerged.
+- `chimera` /kaɪˈmɪərə/             ([Writing] 幻想、妄想)          World peace may be just a chimera.
+  - `chimerical` /kaɪˈmerɪkəl/      ([Writing] 幻想的な、非現実的)  His plans were chimerical.
+- `reverie` /ˈrevəri/               ([Writing] 夢想、物思い)        She was lost in reverie.
+- `unreality` /ˌʌnriˈæləti/         ([Writing] 非現実、幻想)        A sense of unreality pervaded.
+- `fancy` /ˈfænsi/                  ([Writing] 空想、気まぐれ)      It was just a passing fancy.
+
+## FEAT
 - `feat` /fiːt/                     ([Neutral] 偉業、功績)          Climbing Everest is an incredible feat.
