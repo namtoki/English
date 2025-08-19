@@ -212,3 +212,12 @@
 - 人 need V | 物 need V-ing:                  する必要がある | される必要がある
 - 三人称 will V:                              することがある / するものだ / He `will` often take a nap while at work.
 - 人間以外には通常 be able to は用いられない
+
+- `achievement` /əˈtʃiːvmənt/       ([Neutral] 達成、業績)          Winning was a great achievement.
+  - `achieve` /əˈtʃiːv/             ([Neutral] 達成する、成し遂げる)She achieved her goals.
+- `accomplishment` /əˈkʌmplɪʃmənt/  ([Neutral] 達成、成果)          His accomplishments are impressive.
+  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 成し遂げる、達成)    They accomplished the mission.
+  - `accomplished` /əˈkʌmplɪʃt/     ([Neutral] 熟練した、成就した)  She is an accomplished pianist.
+- `triumph` /ˈtraɪʌmf/              ([Neutral] 勝利、大成功)        The team's triumph was celebrated.
+  - `triumphant` /traɪˈʌmfənt/      ([Neutral] 勝利した、勝ち誇った)The triumphant team celebrated loudly.
+<!-- Add vocabulary entries here using the format from format.md -->

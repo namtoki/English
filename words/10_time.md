@@ -265,4 +265,7 @@
 - [ ] `on short notice`                     (急に) I’m sorry, I can’t make it `on such short notice`.
 - [ ] `amid O`                              (フォーマルな during)
 
----
+- `preceding`                       ([Formal] 先行する)             The preceding chapter.
+- `prior to`                        ([Formal] 〜より前に)           Prior to the meeting.
+- `in advance`                      ([Neutral] 前もって)            Book your tickets in advance.
+- `beforehand`                      ([Neutral] 前もって)            Let me know beforehand.

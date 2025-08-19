@@ -72,6 +72,27 @@ vilify
 deride
 revile
 
+# 9
+racket
+commotion
+din
+clamor
+tumult
+hubbub
+tip
+crest
+crown
+pinnacle
+zenith
+acme
+culmination
+nadir
+abyss
+bedrock
+embankment
+levee
+dike
+
 # 10
 lull
 interlude
