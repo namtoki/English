@@ -378,6 +378,49 @@
 - `and things` /ænd θɪŋz/           ([Casual] とかいろいろ)         She bought shoes, bags, and things.
 - `and all that jazz`               ([Casual] そういうもの全部)     He talks about success, money, and all that jazz.
 
+## AMOUNT
+- `tons of`                         ([Casual] たくさんの)           I have tons of homework.
+- `loads of`                        ([Casual] たくさんの)           We have loads of time.
+- `a bunch of`                      ([Casual] たくさんの)           A bunch of people came.
+- `heaps of`                        ([Casual] 山ほどの)             There are heaps of problems.
+- `masses of`                       ([Casual] 大量の)               Masses of people attended.
+- `different`                       ([Neutral] 異なる)              Different people have different views.
+- `all kinds of`                    ([Casual] あらゆる種類の)       I eat all kinds of food.
+- `all sorts of`                    ([Casual] あらゆる種類の)       She reads all sorts of books.
+- `various kinds of`                ([Neutral] 様々な種類の)        Various kinds of flowers bloom here.
+- `different types of`              ([Neutral] 異なる種類の)        Different types of cars are available.
+- `most of`                         ([Neutral] ほとんどの)          Most of the work is done.
+- `some more`                       ([Casual] もう少し)              Can I have some more coffee?
+- `a bit more`                      ([Casual] もう少し)              I need a bit more time.
+- `a little more`                   ([Neutral] もう少し)            Just a little more patience.
+- `much more`                       ([Neutral] ずっと多く)          This costs much more.
+- `many more`                       ([Neutral] ずっと多く)          Many more people joined.
+- `a lot more`                      ([Casual] ずっと多く)           We need a lot more help.
+- `way more`                        ([Casual] ずっと多く)           That's way more than enough.
+- `far more`                        ([Neutral] はるかに多く)        This is far more difficult.
+- `a good deal of`                  ([Neutral] かなりの)            A good deal of time was spent.
+- `a great deal of`                 ([Formal] 大いなる)             A great deal of effort was required.
+- `a fair amount of`                ([Neutral] かなりの)            A fair amount of work remains.
+- `a considerable amount of`        ([Formal] かなりの)             A considerable amount of money was spent.
+- `an enormous amount of`           ([Neutral] 膨大な)              An enormous amount of data was collected.
+- `a huge amount of`                ([Casual] 膨大な)               A huge amount of time was wasted.
+- `a vast amount of`                ([Formal] 膨大な)               A vast amount of research was done.
+- `a wealth of`                     ([Neutral] 豊富な)               She has a wealth of experience.
+- `a number of`                     ([Formal] 多数の)               A number of factors were considered.
+- `a handful of`                    ([Neutral] 少数の)              Only a handful of people came.
+- `a couple of`                     ([Casual] いくつかの)           I need a couple of minutes.
+- `no more than`                    ([Neutral] せいぜい)            It costs no more than $20.
+- `no less than`                    ([Neutral] 〜も)                No less than 100 people came.
+- `at least`                        ([Neutral] 少なくとも)          At least 50 people attended.
+- `at most`                         ([Neutral] せいぜい)            At most 10 people can fit.
+- `up to`                           ([Neutral] 最大で)              Up to 20 people can join.
+- `as many as`                      ([Neutral] 〜も)                As many as 1000 people came.
+- `as much as`                      ([Neutral] 〜も)                It costs as much as $500.
+- `as few as`                       ([Neutral] わずか)              As few as 5 people showed up.
+- `as little as`                    ([Neutral] わずか)              It costs as little as $10.
+- `A out of B`                      ([Neutral] BのうちのA)          3 out of 5 people agreed.
+- `A in B`                          ([Neutral] BのうちのA)          1 in 10 people disagree.
+
 ## WHAT I MEANT
 > `I mean`                          ([Casual] つまり、その)         I'm tired. `I mean`, I only slept 3 hours.
 > `what I mean is`                  ([Neutral] 言いたいのは)        `What I mean is`, we need more time.

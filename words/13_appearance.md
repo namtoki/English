@@ -54,3 +54,8 @@
 - `emaciated` /ɪˈmeɪʃieɪtɪd/        ([Formal] 極度に痩せこけた)     The emaciated patient needed nutrition.
 - `skeletal` /ˈskɛlətəl/            ([Formal] 骸骨のような)         His skeletal appearance alarmed us.
 - `fat` /fæt/                       ([Casual] 太い、太った)         A fat book.
+- `plump` /plʌmp/                   ([Neutral] ふっくらした)        Plump cushions.
+  - `plumpness` /ˈplʌmpnəs/         ([Neutral] ふっくらさ)          The plumpness of the fruit.
+- `stout` /staʊt/                   ([Neutral] 頑丈な、太い)        A stout rope.
+  - `stoutly` /ˈstaʊtli/            ([Neutral] 頑丈に)              Stoutly built.
+  - `stoutness` /ˈstaʊtnəs/         ([Neutral] 頑丈さ)              The stoutness of the wall.
