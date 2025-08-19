@@ -1,86 +1,95 @@
 # Health
 
 ## ILLNESS
-- ✅ `illness` /ˈɪlnəs/             ([Neutral] 病気)                The illness lasted two weeks.
-  - `disease` /dɪˈziːz/             ([Medical] 病気、疾患)          Heart disease is preventable.
-  - `sickness` /ˈsɪknəs/            ([Neutral] 病気、体調不良)      Morning sickness is common in pregnancy.
-  - `bug` /bʌɡ/                     ([Casual] 風邪、軽い病気)       I caught a stomach bug last week.
-  - `infection` /ɪnˈfekʃən/         ([Medical] 感染症)              The wound developed an infection.
-  - `virus` /ˈvaɪərəs/              ([Medical] ウイルス、感染症)    She caught a virus at school.
-  - `condition` /kənˈdɪʃən/         ([Medical] 病状、疾患)          He has a heart condition.
-  - `ailment` /ˈeɪlmənt/            ([Neutral] 病気、不調)          Minor ailments are common.
-  - `disorder` /dɪsˈɔːdə/           ([Medical] 疾患、障害)          She has an eating disorder.
-  - `malady` /ˈmælədi/              ([Writing] 病気、疾患)          The mysterious malady puzzled doctors.
-  - `affliction` /əˈflɪkʃən/        ([Writing] 苦痛、病気)          His affliction was incurable.
-  - `plague` /pleɪɡ/                ([Writing] 疫病、災い)          The plague devastated medieval Europe.
-- ✅ `symptom` /ˈsɪmptəm/           ([Medical] 症状)                Fever is a common symptom.
-  - `sign` /saɪn/                   ([Medical] 兆候、症状)          Pain is a sign of inflammation.
-  - `complaint` /kəmˈpleɪnt/        ([Medical] 症状、不調)          Her main complaint is headaches.
-  - `syndrome` /ˈsɪndrəʊm/          ([Medical] 症候群)              Chronic fatigue syndrome is serious.
-- ✅ `chronic` /ˈkrɒnɪk/            ([Medical] 慢性の)              She has chronic back pain.
-- ✅ `infectious` /ɪnˈfekʃəs/       ([Medical] 伝染性の)            The disease is highly infectious.
-- ✅ `inflammation` /ˌɪnfləˈmeɪʃən/ ([Medical] 炎症)                The inflammation caused swelling.
-  - `inflammatory` /ɪnˈflæmətɔːri/  ([Medical] 炎症性の)            The inflammatory response was severe.
-- ✅ `fever` /ˈfiːvə/               ([Medical] 発熱、熱)            The child had a high fever.
-  - `feverish` /ˈfiːvərɪʃ/          ([Medical] 熱がある、熱的)      The patient felt feverish and weak.
-- ✅ `nausea` /ˈnɔːziə/             ([Medical] 吐き気)              The medication caused nausea.
-- ✅ `medicine` /ˈmedɪsɪn/          ([Neutral] 薬、医学)            Take your medicine three times a day.
-  - `prescription` /prɪˈskrɪpʃən/   ([Medical] 処方箋)              The doctor wrote a prescription.
-  - `dose` /dəʊs/                   ([Medical] 服用量)              Take one dose every six hours.
-    - `dosage` /ˈdəʊsɪdʒ/           ([Medical] 投薬量)              Check the dosage instructions.
-- ✅ `get better` /ɡet ˈbetər/      ([Casual] 良くなる、回復する)   I hope you get better soon.
-  - `recover` /rɪˈkʌvər/            ([Neutral] 回復する)            She recovered from the illness.
-  - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
-  - `heal` /hiːl/                   ([Neutral] 癒える、治る)        The wound will heal in time.
-  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、良くなる)  His condition is improving daily.
-  - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
-  - `bounce back` /baʊns bæk/       ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
-  - `pull through` /pʊl θruː/       ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
-  - `get back on one's feet`        ([Casual] 立ち直る)             It took months to get back on his feet.
-  - `pick up` /pɪk ʌp/              ([Casual] 回復する、元気になる) She's starting to pick up now.
-  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
-    - `on the mend` /ɒn ðə mend/    ([Casual] 回復中)               He's on the mend now.
-  - `recuperate` /rɪˈkuːpəreɪt/     ([Formal] 回復する、療養する)   He's recuperating at home.
-    - `recuperative` /rɪˈkuːpərətɪv/([Writing] 回復力のある)        The recuperative process takes time.
-  - `turn the corner`               ([Neutral] 峠を越える)          The patient has turned the corner.
-  - `come around` /kʌm əˈraʊnd/     ([Neutral] 意識を取り戻す)      He came around after the surgery.
-    - `come round` /kʌm raʊnd/      ([British] 意識を取り戻す)      She's coming round from the anesthetic.
-  - `perk up` /pɜːk ʌp/             ([Casual] 元気を取り戻す)       She perked up after some rest.
-  - `rally` /ˈræli/                 ([Medical] 持ち直す)            The patient rallied overnight.
-  - `rehabilitate` /ˌriːəˈbɪlɪteɪt/ ([Formal] リハビリする)         They rehabilitated his injured knee.
-  - `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
-  - `revive` /rɪˈvaɪv/              ([Medical] 蘇生する、復活する)  The paramedics revived him.
-  - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる、活力回復) The vacation rejuvenated her.
-  - `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
-  - `recoup` /rɪˈkuːp/              ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
-  - `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養する、回復期にある) She's convalescing after surgery.
-    - `convalescence`/ˌkɒnvəˈlesəns/([Writing] 療養期間)            His convalescence lasted months.
-    - `convalescent` /ˌkɒnvəˈlesənt/([Writing] 回復期の患者)        The convalescent home provides care.
-  - `remission` /rɪˈmɪʃən/          ([Medical] 寛解、軽快)          The cancer is in remission.
+> `illness` /ˈɪlnəs/                ([Neutral] 病気)                The illness lasted two weeks.
+- `disease` /dɪˈziːz/               ([Medical] 病気、疾患)          Heart disease is preventable.
+> `sickness` /ˈsɪknəs/              ([Neutral] 病気、体調不良)      Morning sickness is common in pregnancy.
+- `bug` /bʌɡ/                       ([Casual] 風邪、軽い病気)       I caught a stomach bug last week.
+- `infection` /ɪnˈfekʃən/           ([Medical] 感染症)              The wound developed an infection.
+- `virus` /ˈvaɪərəs/                ([Medical] ウイルス、感染症)    She caught a virus at school.
+- `condition` /kənˈdɪʃən/           ([Medical] 病状、疾患)          He has a heart condition.
+> `ailment` /ˈeɪlmənt/              ([Neutral] 病気、不調)          Minor ailments are common.
+- `disorder` /dɪsˈɔːdə/             ([Medical] 疾患、障害)          She has an eating disorder.
+- `malady` /ˈmælədi/                ([Writing] 病気、疾患)          The mysterious malady puzzled doctors.
+- `affliction` /əˈflɪkʃən/          ([Writing] 苦痛、病気)          His affliction was incurable.
+- `plague` /pleɪɡ/                  ([Writing] 疫病、災い)          The plague devastated medieval Europe.
 
-## HOSPITAL
-- ✅ `see a doctor`                 ([Neutral] 医者に診てもらう)    I need to see a doctor about this pain.
-  - ✅ `go to the doctor`           ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
-  - `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
-  - `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
-- ✅ `check-up` /ˈtʃek ʌp/          ([Neutral] 健康診断)            I have my annual check-up tomorrow.
-  - `appointment` /əˈpɔɪntmənt/     ([Neutral] 診療予約)            I made an appointment with the doctor.
-  - `examination` /ɪɡˌzæmɪˈneɪʃən/  ([Medical] 診察、検査)          The examination revealed no problems.
-    - `examine` /ɪɡˈzæmɪn/          ([Medical] 診察する、検査)      The doctor examined the patient.
-    - `examiner` /ɪɡˈzæmɪnə/        ([Medical] 診察医、検査者)      The medical examiner completed the review.
-  - `diagnosis` /ˌdaiəɡˈnəʊsɪs/     ([Medical] 診断)                The diagnosis was confirmed by tests.
-    - `diagnose` /ˈdaɪəɡnəʊz/       ([Medical] 診断する)            The doctor diagnosed pneumonia.
-  - `test` /test/                   ([Neutral] 検査)                I need to get a blood test.
-  - `consultation` /ˌkɒnsəlˈteɪʃən/ ([Medical] 診察、相談)          He scheduled a consultation.
-  - `screening` /ˈskriːnɪŋ/         ([Medical] スクリーニング検査)  Cancer screening saves lives.
-  - `physical` /ˈfɪzɪkəl/           ([Neutral] 健康診断)            I passed my physical exam.
-  - `scan` /skæn/                   ([Medical] スキャン検査)        The MRI scan was normal.
-  - `analysis` /əˈnæləsɪs/          ([Medical] 分析、検査)          The blood analysis showed normal results.
-    - `analytic` /ˌænəˈlɪtɪk/       ([Medical] 分析的な)            The analytic approach was thorough.
-    - `analytical` /ˌænəˈlɪtɪkəl/   ([Medical] 分析的な)            She has an analytical mind.
-  - `assessment` /əˈsesmənt/        ([Medical] 評価、査定)          The medical assessment was thorough.
-    - `assess` /əˈses/              ([Medical] 評価する、査定)      They assessed his condition.
-    - `assessor` /əˈsesə/           ([Medical] 評価者、査定者)      The medical assessor evaluated the claim.
+## SYMPTOM
+- `symptom` /ˈsɪmptəm/              ([Medical] 症状)                Fever is a common symptom.
+- `sign` /saɪn/                     ([Medical] 兆候、症状)          Pain is a sign of inflammation.
+- `complaint` /kəmˈpleɪnt/          ([Medical] 症状、不調)          Her main complaint is headaches.
+- `syndrome` /ˈsɪndrəʊm/            ([Medical] 症候群)              Chronic fatigue syndrome is serious.
+- `chronic` /ˈkrɒnɪk/               ([Medical] 慢性の)              She has chronic back pain.
+- `infectious` /ɪnˈfekʃəs/          ([Medical] 伝染性の)            The disease is highly infectious.
+- `inflammation` /ˌɪnfləˈmeɪʃən/    ([Medical] 炎症)                The inflammation caused swelling.
+  - `inflammatory` /ɪnˈflæmətɔːri/  ([Medical] 炎症性の)            The inflammatory response was severe.
+- `fever` /ˈfiːvə/                  ([Medical] 発熱、熱)            The child had a high fever.
+  - `feverish` /ˈfiːvərɪʃ/          ([Medical] 熱がある、熱的)      The patient felt feverish and weak.
+> `nausea` /ˈnɔːziə/                ([Medical] 吐き気)              The medication caused nausea.
+
+## MEDICINE
+- `medicine` /ˈmedɪsɪn/             ([Neutral] 薬、医学)            Take your medicine three times a day.
+- `prescription` /prɪˈskrɪpʃən/     ([Medical] 処方箋)              The doctor wrote a prescription.
+- `dose` /dəʊs/                     ([Medical] 服用量)              Take one dose every six hours.
+  - `dosage` /ˈdəʊsɪdʒ/             ([Medical] 投薬量)              Check the dosage instructions.
+
+## GET BETTER
+> `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
+  > `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
+  > `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
+- `recover` /rɪˈkʌvər/              ([Neutral] 回復する)            She recovered from the illness.
+- `heal` /hiːl/                     ([Neutral] 癒える、治る)        The wound will heal in time.
+- `improve` /ɪmˈpruːv/              ([Neutral] 改善する、良くなる)  His condition is improving daily.
+- `bounce back` /baʊns bæk/         ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
+> `pull through` /pʊl θruː/         ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
+- `get back on one's feet`          ([Casual] 立ち直る)             It took months to get back on his feet.
+- `pick up` /pɪk ʌp/                ([Casual] 回復する、元気になる) She's starting to pick up now.
+- `mend` /mend/                     ([Neutral] 回復する、修復する)  His broken bones are mending well.
+  - `on the mend` /ɒn ðə mend/      ([Casual] 回復中)               He's on the mend now.
+- `recuperate` /rɪˈkuːpəreɪt/       ([Formal] 回復する、療養する)   He's recuperating at home.
+  - `recuperative` /rɪˈkuːpərətɪv/  ([Writing] 回復力のある)        The recuperative process takes time.
+- `turn the corner`                 ([Neutral] 峠を越える)          The patient has turned the corner.
+> `come around` /kʌm əˈraʊnd/       ([Neutral] 意識を取り戻す)      He came around after the surgery.
+  - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
+- `perk up` /pɜːk ʌp/               ([Casual] 元気を取り戻す)       She perked up after some rest.
+- `rally` /ˈræli/                   ([Medical] 持ち直す)            The patient rallied overnight.
+- `rehabilitate` /ˌriːəˈbɪlɪteɪt/   ([Formal] リハビリする)         They rehabilitated his injured knee.
+- `restore` /rɪˈstɔːr/              ([Formal] 回復する、復元する)   The treatment restored his health.
+- `revive` /rɪˈvaɪv/                ([Medical] 蘇生する、復活する)  The paramedics revived him.
+- `rejuvenate` /rɪˈdʒuːvəneɪt/      ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
+- `regenerate` /rɪˈdʒenəreɪt/       ([Medical] 再生する)            Some tissues can regenerate naturally.
+- `recoup` /rɪˈkuːp/                ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
+- `convalesce` /ˌkɒnvəˈles/         ([Writing] 療養す 回復期にある) She's convalescing after surgery.
+  - `convalescence`/ˌkɒnvəˈlesəns/  ([Writing] 療養期間)            His convalescence lasted months.
+  - `convalescent` /ˌkɒnvəˈlesənt/  ([Writing] 回復期の患者)        The convalescent home provides care.
+> `remission` /rɪˈmɪʃən/            ([Medical] 寛解、軽快)          The cancer is in remission.
+
+## SEE A DOCTOR
+> `see a doctor`                    ([Neutral] 医者に診てもらう)    I need to see a doctor about this pain.
+> `go to the doctor`                ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
+- `consult a doctor`                ([Formal] 医師に相談する)       Please consult a doctor before taking this.
+- `get checked`                     ([Casual] 検査を受ける)         You should get checked soon.
+
+## CHECK-UP
+> `check-up` /ˈtʃek ʌp/             ([Neutral] 健康診断)            I have my annual check-up tomorrow.
+- `appointment` /əˈpɔɪntmənt/       ([Neutral] 診療予約)            I made an appointment with the doctor.
+- `examination` /ɪɡˌzæmɪˈneɪʃən/    ([Medical] 診察、検査)          The examination revealed no problems.
+  - `examine` /ɪɡˈzæmɪn/            ([Medical] 診察する、検査)      The doctor examined the patient.
+  - `examiner` /ɪɡˈzæmɪnə/          ([Medical] 診察医、検査者)      The medical examiner completed the review.
+- `diagnosis` /ˌdaiəɡˈnəʊsɪs/       ([Medical] 診断)                The diagnosis was confirmed by tests.
+  - `diagnose` /ˈdaɪəɡnəʊz/         ([Medical] 診断する)            The doctor diagnosed pneumonia.
+- `test` /test/                     ([Neutral] 検査)                I need to get a blood test.
+- `consultation` /ˌkɒnsəlˈteɪʃən/   ([Medical] 診察、相談)          He scheduled a consultation.
+- `screening` /ˈskriːnɪŋ/           ([Medical] スクリーニング検査)  Cancer screening saves lives.
+- `physical` /ˈfɪzɪkəl/             ([Neutral] 健康診断)            I passed my physical exam.
+- `scan` /skæn/                     ([Medical] スキャン検査)        The MRI scan was normal.
+- `analysis` /əˈnæləsɪs/            ([Medical] 分析、検査)          The blood analysis showed normal results.
+  - `analytic` /ˌænəˈlɪtɪk/         ([Medical] 分析的な)            The analytic approach was thorough.
+  - `analytical` /ˌænəˈlɪtɪkəl/     ([Medical] 分析的な)            She has an analytical mind.
+- `assessment` /əˈsesmənt/          ([Medical] 評価、査定)          The medical assessment was thorough.
+  - `assess` /əˈses/                ([Medical] 評価する、査定)      They assessed his condition.
+  - `assessor` /əˈsesə/             ([Medical] 評価者、査定者)      The medical assessor evaluated the claim.
+
 - ✅ `treat` /triːt/                ([Neutral] 治療する)            They treated his broken arm.
   - `heal` /hiːl/                   ([Neutral] 治る、癒す)          The wound healed quickly.
   - `cure` /kjʊə/                   ([Neutral] 治す、治療法)        Scientists are searching for a cure.

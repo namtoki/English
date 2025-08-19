@@ -111,7 +111,6 @@ truce
 disparage
 instigate
 assuage
-lucrative
 accolade
 slug
 seduce
@@ -121,7 +120,6 @@ denounce
 frivolous
 pacify
 huddle
-malady
 wane
 lull
 thwack
@@ -130,7 +128,6 @@ abate
 reprieve
 animosity
 sock
-fritter
 flimsy
 attest
 pandemonium
@@ -158,7 +155,6 @@ ceasefire
 appease
 chasm
 dissent
-recoup
 blatant
 schism
 excision
@@ -166,7 +162,6 @@ acrimony
 mirage
 commotion
 vindicate
-convalesce
 bedlam
 turmoil
 inscrutable
@@ -179,11 +174,9 @@ resection
 exonerate
 scathing
 defunct
-recuperate
 skirmish
 uproar
 hegira
-congenital
 figment
 repeal
 secede
@@ -193,7 +186,6 @@ epitomize
 substantiate
 defect
 entice
-remission
 homage
 faction
 immaculate
@@ -202,7 +194,6 @@ exodus
 placate
 salute
 acquit
-rejuvenate
 fissure
 ostracize
 unblemished
@@ -220,7 +211,6 @@ cleft
 bygone
 extol
 exalt
-affliction
 laud
 refute
 shun
@@ -230,7 +220,6 @@ extrovert
 siege
 relentless
 respite
-ailment
 abstruse
 condemn
 discord
@@ -247,9 +236,7 @@ chastise
 overrule
 rancor
 heft
-squander
 attire
-splurge
 precipitant
 ambush
 snuggle
@@ -284,3 +271,21 @@ bygone
 
 # 13
 emaciated
+
+# 14
+ailment
+malady
+affliction
+nausea
+recuperate
+rejuvenate
+recoup
+convalesce
+remission
+congenital
+
+# 15
+lucrative
+splurge
+squander
+fritter

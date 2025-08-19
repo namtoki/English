@@ -1,32 +1,21 @@
 # TODAY
 
-## Airoha
+## 19 Aug 2025 - Status Update with Brendon
 
-## Mimi
+### Intro
+Thank you all for joining us today.
+We have our engineering leader, project manager, PS members and several engineers here to share the current progress of the PerL2 project with Brendon.
+We'll walk you through four sections - Schedule, ID status, Cost status and Key challenges and risks.
 
-### Walk through hearing test flow
+## Current schedule assumptions
 
-#### Login
+So, first, schedule.
 
-Looking at `the reason why` Login is marked as Optional,
-`I think it's because` the Mobile SDK has a specific `mechanism` built in.
+From a software perspective, 
 
-When you read through the Mobile SDK documentation,
-there's `something called` Anonymous User Authentication.
-With this feature, users don't need to `explicitly` log in.
-The system generates a random login ID,
-so you'd need to store that value on Masimo's server side and manage it by linking it to the Denon Account.
+## ID status
 
-#### Internet Connection
+## Cost status
 
-I thought I've shared this condition.
-The calculation of personalization profile is conducted on the Mimi server side.
+## Key challenges and risks
 
-## Sound Personalisation settings
-
-## Review of our initial concepts
-    Share our early thinking around the Sound Personalisation page and gather your feedback
-
-## Custom UI constraints
-    What can/can’t be customised in the SDK
-    Building our own custom UI based on the SDK APIs
