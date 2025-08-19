@@ -137,7 +137,6 @@ whack
 flagrant
 tenacious
 ransack
-incision
 encapsulate
 caustic
 arcane
@@ -157,7 +156,6 @@ chasm
 dissent
 blatant
 schism
-excision
 acrimony
 mirage
 commotion
@@ -170,7 +168,6 @@ rescind
 ebb
 outgrowth
 asylum
-resection
 exonerate
 scathing
 defunct
@@ -270,7 +267,10 @@ hiatus
 bygone
 
 # 13
+shed
+doff
 emaciated
+gaunt
 
 # 14
 ailment
@@ -283,6 +283,10 @@ recoup
 convalesce
 remission
 congenital
+incision
+excision
+resection
+amputation
 
 # 15
 lucrative

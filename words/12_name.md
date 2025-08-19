@@ -1,53 +1,91 @@
-# Life
+# NAME
 
-# FAVORITE
-- [ ] `what I meant`                        (言いたかったこと) / `What I meant` was, you should do it carefully.
-- [ ] `strongest example of O`              ([Neutral] O の最たる例) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#STRONGESTEXAMPLE)
-- [ ] `nothing more than the fact that S V` ([Neutral] S V というだけの理由) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#NOTHING-MORE-THAN-THE-FACT-THAT)
-## 抽象 (なもの)
-- [ ] `stuff ~~`                            ([Casual] モノ、コト) I hate the `stuff` that he always talks about.
-- [ ] `thing ~~`                            ([Neutral] モノ、コト) I don’t like `things` like what he says when he’s angry.
-- [ ] `something ~~`                        ([Neutral] モノ、コト) I want to eat `something` sweet.
-- [ ] `the kind of things ~~`               ([Formal] 類のもの) This is `the kind of thing` that makes me really happy.
+## STUFF
+> `thing`                           ([Neutral] モノ、コト)          That's the `thing` I was looking for.
+> `something`                       ([Neutral] 何か)                I need `something` to drink.
+> `anything`                        ([Neutral] 何でも、何か)        Do you need `anything` from the store?
+- `everything`                      ([Neutral] 全て)                `Everything` is going to be fine.
+- `nothing`                         ([Neutral] 何も〜ない)          There's `nothing` to worry about.
+> `stuff`                           ([Casual] モノ、コト)           Where's my `stuff`?
+- `things`                          ([Neutral] 物事、事柄)          How are `things` going?
+- `the thing`                       ([Casual] あれ、例のもの)       Where's `the thing` we talked about?
+- `this thing`                      ([Casual] これ、このやつ)       What's `this thing` for?
+- `that thing`                      ([Casual] あれ、あのやつ)       Can you pass me `that thing`?
+- `the whole thing`                 ([Casual] 全部、一連の事)       The `whole thing` was a disaster.
+> `kind of thing`                   ([Neutral] 〜的なもの)          It's not my `kind of thing`.
+> `sort of thing`                   ([Neutral] 〜的なもの)          That's the `sort of thing` I mean.
+- `type of thing`                   ([Neutral] 〜タイプのもの)      What `type of thing` are you looking for?
+> `all kinds of things`             ([Neutral] 色々なもの)          They sell `all kinds of things`.
+- `these things`                    ([Neutral] こういうこと)        `These things` happen sometimes.
+- `such things`                     ([Formal] そのようなもの)       I don't believe in `such things`.
+> `something like that`             ([Casual] そんな感じのもの)     It costs $50 or `something like that`.
+> `anything like that`              ([Neutral] そういうの)          I don't want `anything like that`.
+> `nothing like that`               ([Neutral] そういうのじゃない)  It's `nothing like that`.
+- `everything like that`            ([Casual] そういうの全部)       Books, pens, and `everything like that`.
+- `the real thing`                  ([Neutral] 本物)                This is `the real thing`.
+- `the same thing`                  ([Neutral] 同じもの)            It's basically `the same thing`.
+- `different things`                ([Neutral] 違うもの)            We like `different things`.
+- `other things`                    ([Neutral] 他のもの)            Among `other things`, we discussed the budget.
+- `little things`                   ([Neutral] 些細なこと)          It's the `little things` that matter.
+- `big things`                      ([Neutral] 大事なこと)          Let's focus on the `big things`.
+- `good things`                     ([Neutral] 良いこと)            `Good things` come to those who wait.
+- `bad things`                      ([Neutral] 悪いこと)            `Bad things` happen to good people.
+- `the next thing`                  ([Neutral] 次のこと)            What's `the next thing` on the list?
+- `one thing`                       ([Neutral] 一つのこと)          There's `one thing` I need to tell you.
+- `another thing`                   ([Neutral] もう一つ)            And `another thing` - don't be late.
+- `every single thing`              ([Emphatic] 全部)               She remembers `every single thing`.
+- `no such thing`                   ([Neutral] そんなものはない)    There's `no such thing` as a free lunch.
+> `S V-ing`                         ([Casual] SがVすること)         `My dog barking like that` is a bit weird.
 
-## 抽象 (どんな？)
-- [ ] `~~ like (what) S V`                  ([Casual] 例示：S V みたいなO) He said something `like what` the project might be delayed.
-- [ ] `~~ that S V`                         ([Casual] 事実：SがVするO) The thing `that` you use to see the stars.
-- [ ] `~~ where S V`                        ([Neutral] S V のような O) This app has a feature `where` you can edit photos easily.
-- [ ] `~~ which S V`                        ([Formal] 事実：SがVするO) The thing `which` you use to see the stars.
-- [ ] `~~ that/which S think V`             ([Neutral] SがVと思うO) A movie `that I think is a classic example of a mafia film` is The Godfather.
-- [ ] `~~ to the effect that S V`           ([Formal] S V という趣旨のO) He said something `to the effect that` he wasn’t interested.
+## WHICH
+- `that`                            ([Neutral] 〜という/〜する)     The book `that` I bought yesterday.
+  > `that I/you/we`                 ([Neutral] 私/君/我々が〜する)  The idea `that I` had yesterday.
+  - `the way (that)`                ([Neutral] 〜する方法)          I don't like `the way` he talks.
+  - `the one (that)`                ([Neutral] 〜するやつ)          This is `the one` I wanted.
+  - `the fact that`                 ([Formal] 〜という事実)         `The fact that` he lied is troubling.
+  - `the idea that`                 ([Neutral] 〜という考え)        `The idea that` we could win.
+  - `the reason (that)`             ([Neutral] 〜する理由)          `The reason` I'm here.
+- `which`                           ([Formal] 〜という/〜する)      The car `which` he drives is new.
+  > `in which`                      ([Formal] その中で〜する)       The situation `in which` we find ourselves.
+  > `for which`                     ([Formal] そのために〜する)     The purpose `for which` it was made.
+  > `by which`                      ([Formal] それによって〜する)   The means `by which` we succeed.
+  > `of which`                      ([Formal] その〜)               The book `of which` I spoke.
+  > `with which`                    ([Formal] それを使って〜する)   The tool `with which` to work.
+  > `to which`                      ([Formal] それに対して〜する)   The place `to which` we're going.
+  > `from which`                    ([Formal] そこから〜する)       The source `from which` it came.
+- `who`                             ([Neutral] 〜という人)          The person `who` called you is here.
+  > `those who`                     ([Formal] 〜する人々)           `Those who` work hard succeed.
+- `what`                            ([Neutral] 〜すること)          That's `what` I meant to say.
+> `where`                           ([Neutral] 〜する場所/状況)     The place `where` we met.
+  - `the place (where)`             ([Neutral] 〜する場所)          `The place` we first met.
+> `when`                            ([Neutral] 〜する時)            The day `when` everything changed.
+  - `the time (when)`               ([Neutral] 〜する時)            Remember `the time` we went camping?
+- `like`                            ([Casual] 〜みたいな)           Something `like` what you said.
+- `how`                             ([Neutral] 〜する方法)          That's `how` I learned to cook.
+- `why`                             ([Neutral] 〜する理由)          The reason `why` I'm late.
+- `to the effect that`              ([Formal] 〜という趣旨で)       He said something `to the effect that` he quit.
 
-## 抽象 (行動)
-- [ ] `S V-ing`                             ([Casual] SがVすること) `My dog barking like that` is a bit weird.
-
-## 具体的なものを曖昧にする
-- [ ] `(具体的なもの) of a sort`            ([Casual] Oっぽい／ちょい違うけど) He’s a leader `of a sort.` / I had dinner, `of a sort.`
-- [ ] `(具体的なもの) of a kind`            ([Formal] 限定的／一応の／ある種のO) He’s a genius `of a kind.`
-- [ ] `(具体的なもの) kind of thing`        ([Neutral] Oみたいなもの) This is a flip phone `kind of thing` but a bit different.
-- [ ] `some kind of (具体的なもの)`         ([Casual] 情報不確定／ある種のO) He was born with `some kind of` special talent.
-- [ ] `(数字) or so`                        ([Neutral] Oとか) It's 20 dollars `or so.`
-- [ ] `like (数字)`                         ([Casual] だいたいO) There were only `like` thirty people there.
-
-## とかとか
-- [ ] `O and stuff like that`               ([Casual] Oとかそういうの) We talked about budgets, deadlines, `and stuff like that.`
-- [x] `O and things like that`              ([Formal] Oとか) I think he's learning Spanish or `something like that`, if that makes sense.
-- [ ] `O and so on`                         ([Formal] Oとか) I'm tired of doing the dishes, doing the laundry, `and so on!`
-- [ ] `O or whatever`                       ([Casual] Oとかそんな感じ) I'm just going to read a book `or whatever.`
-
-## 具体的なもの
-- [ ] `equivalent to ~~`                    ([Neutral] 同等のもの) They are the functional `equivalent of` gods.
-- [ ] `the best S can V`                    ([Neutral] SがVできる最大限のこと) `That's the best we can say at this point in time.`
-- [ ] `one of those days`                   ([Casual] ついてない日／そういう日) I just spilled coffee and missed my bus—`one of those days.`
-- [ ] `O in one's XXs`                      ([Neutral] 〜代) Some of her first students are `new in their 20s.`
-- [ ] `O to go`                             ([Neutral] 残りの O) `We have ten minutes to go.`
-
-## だけじゃなくて
-- [ ] `not only A but also B`               ([Formal] AだけでなくBも) He is `not only` smart `but also` kind.
-- [ ] `not just A but also B`               ([Neutral] AだけじゃなくBも) She speaks `not just` English `but also` Spanish.
-- [x] `and not just A`                      ([Casual] 単にAというだけじゃなく) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#AND-NOT-JUST) They cared about us as people and not just numbers on a spreadsheet.
-- [x] `in particular O`                     ([Neutral] 特に) I like Italian food, `in particular,` pasta dishes.
-- [x] `especially O`                        ([Neutral] 特に) I love all kinds of music, `especially` jazz.
+## OF A SORT
+- `some kind of`                    ([Neutral] ある種の、何かの)    He has `some kind of` allergy.
+-    `a kind of`                    ([Neutral] 一種の)              It's `a kind of` fruit.
+- `some sort of`                    ([Neutral] ある種の、何かの)    She made `some sort of` mistake.
+-    `a sort of`                    ([Neutral] 一種の)              He felt `a sort of` sadness.
+- `a type of`                       ([Neutral] 一種の、タイプの)    This is `a type of` software.
+- `of a sort`                       ([Neutral] 一応の、ある種の)    He's a leader `of a sort`.
+- `of a kind`                       ([Formal] ある種の、同類の)     They're two `of a kind`.
+- `of sorts`                        ([Casual] まあまあの、一応の)   We had dinner `of sorts`.
+- `or so`                           ([Neutral] 〜くらい)            It's 20 dollars `or so`.
+- `like`                            ([Casual] だいたい、〜みたいな) There were `like` thirty people.
+- `... and stuff`                   ([Casual] 〜とか)               Books, pens `and stuff`.
+- `... and stuff like that`         ([Casual] 〜とかそういうの)     Budgets, deadlines, `and stuff like that`.
+- `... and things`                  ([Neutral] 〜など)              Papers, documents `and things`.
+- `... and things like that`        ([Neutral] 〜などそういうもの)  Spanish `and things like that`.
+- `... and so on`                   ([Formal] 〜など)               Monday, Tuesday, `and so on`.
+- `... and so forth`                ([Formal] 〜など)               First, second, `and so forth`.
+- `... and all that`                ([Casual] 〜とか全部)           Music, dancing `and all that`.
+- `... and whatnot`                 ([Casual] 〜とか何とか)         Tools, supplies `and whatnot`.
+- `... et cetera`                   ([Formal] 〜など)               Books, magazines, `et cetera`.
+- `... etc.`                        ([Neutral] 〜など)              Apples, oranges, `etc.`
 
 ## 複合名詞
 - `something else`                              (格別なもの) / That dinner was `something else`!
