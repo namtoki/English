@@ -168,3 +168,44 @@ The calculation of personalization profile is conducted on the Mimi server side.
 ## Custom UI constraints
     What can/can’t be customised in the SDK
     Building our own custom UI based on the SDK APIs
+
+## Low Battery Mode
+
+Low Battery Mode is designed to enter a low power state when the Buds' battery drops below a certain threshold, right?
+
+First, I understand that we haven't reached a conclusion on whether to proceed with a specification
+that differs from PerL1, where the device enters low-power state only after falling below a threshold.
+
+Personally, I have no particular objection as long as this feature is not enabled by default.
+
+  If it were the default, we would need to reconsider the playback time specifications.
+  
+  If we were to set a number higher than the current 7 hours based on this low power mode assumption,
+  this is not what users would expect.
+  
+  On the other hand, if we maintain the 7-hour spec notation with Auto Low power mode OFF,
+  it would be questionable to use spec notation based on a non-default setting.
+  
+  Therefore, being off by default becomes a condition.
+
+Second, I believe the threshold hasn't been determined yet,
+but please proceed with it as TBC (To Be Confirmed).
+
+How about we make this decision during the development phase?
+Because not having this determined shouldn't particularly impact ODM's effort,
+
+  I think it has the aspect that you can't decide what percentage it should be without actually implementing and testing it.
+  
+  There are predictions for playback time extension effects,
+  such as approximately 1 hour at 30% or approximately 2 hours at 60%.
+  However, considering major features like Personalization and Spatial Audio, the effects could be even greater,
+  which makes it difficult to determine the exact percentage at this point.
+
+  Actually, I think it might be better for the user experience to align the threshold with Case LED pattern.
+
+## Onboarding draft flow - Questions for Steve & PS team
+
+## Sleep timer - Prototype run through and key use cases
+
+## Swipe function - Share usability test results
+
