@@ -59,6 +59,18 @@
 - `exfoliate` /eksˈfəʊlieɪt/        ([Formal] 角質除去)             Exfoliate your skin weekly.
 - `flake` /fleɪk/                   ([Casual] 剥がれ落ちる)         The paint is starting to flake.
 
+## APPEAR
+> `pop up` /pɑːp ʌp/                ([Neutral] 現れる、出現する)    A message popped up on screen.
+- `show up` /ʃoʊ ʌp/                ([Neutral] 現れる、姿を見せる)  He finally showed up at noon.
+- `turn up` /tɜːrn ʌp/              ([Neutral] 現れる、見つかる)    My keys turned up in the car.
+- `come up` /kʌm ʌp/                ([Neutral] 出てくる、起こる)    Something urgent came up.
+- `appear` /əˈpɪr/                  ([Neutral] 現れる、出現する)    She appeared at the door.
+- `emerge` /ɪˈmɜːrdʒ/               ([Neutral] 現れる、浮上する)    The sun emerged from the clouds.
+- `surface` /ˈsɜːrfɪs/              ([Neutral] 浮上する、現れる)    New evidence surfaced yesterday.
+- `materialize` /məˈtɪriəlaɪz/      ([Formal] 実体化する、現れる)   Help materialized quickly.
+- `spring up` /sprɪŋ ʌp/            ([Neutral] 急に現れる)          New shops are springing up everywhere.
+- `crop up` /krɑːp ʌp/              ([Casual] 突然起こる)           Problems keep cropping up.
+
 ## OTHER
 - `diaspora` /daɪˈæspərə/            ([Writing] 離散)          The Jewish diaspora spans many countries.
 - `hegira` /hɪˈdʒaɪrə/               ([Writing] 聖遷)          Muhammad's hegira marked the Islamic calendar.

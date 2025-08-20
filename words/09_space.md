@@ -154,6 +154,19 @@
 - `height` /haɪt/                   ([Neutral] 高さ、身長)          What's the height of that building?
   - `heighten` /ˈhaɪtən/            ([Neutral] 高める、強める)      The drama heightened the tension.
 
+## OBSTRUCT
+> `be in the way`                   ([Neutral] 邪魔になる)          Your bag is in the way.
+  - `get in the way`                ([Neutral] 邪魔をする)          Don't let fear get in the way.
+  - `stand in the way`              ([Neutral] 邪魔になる、阻む)    Nothing can stand in our way.
+- `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
+- `obstruct` /əbˈstrʌkt/            ([Formal] 妨害する、塞ぐ)       Don't obstruct the exit.
+- `impede` /ɪmˈpiːd/                ([Formal] 妨げる、遅らせる)     Bad weather impeded our progress.
+- `hinder` /ˈhɪndər/                ([Neutral] 妨げる、邪魔する)    Don't hinder their efforts.
+- `interfere` /ˌɪntərˈfɪr/          ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
+- `be an obstacle`                  ([Neutral] 障害になる)          Language can be an obstacle.
+- `hamper` /ˈhæmpər/                ([Neutral] 妨げる、邪魔する)    Rain hampered the rescue efforts.
+- `thwart` /θwɔːrt/                 ([Formal] 阻止する、挫折させる) They thwarted our plans.
+
 ## BANK
 - `bank` /bæŋk/                     ([Neutral] 土手、堤防)          We walked along the river bank.
 - `embankment` /ɪmˈbæŋkmənt/        ([Formal] 堤防、土手)           The embankment protected the town from floods.

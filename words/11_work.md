@@ -1,5 +1,19 @@
 # Work
 
+## PREPARE
+> `ready to`                        ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
+  - `get ready`                     ([Neutral] 準備する)            Get ready for the presentation.
+  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
+> `prepare` /prɪˈper/               ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `be prepared`                   ([Neutral] 準備ができている)    Be prepared for questions.
+  - `make preparations`             ([Formal] 準備する)             Make preparations for the event.
+- `set up` /set ʌp/                 ([Neutral] 設定する、手配する)  I'll set up the equipment.
+  - `gear up` /ɡɪr ʌp/              ([Casual] 準備する)             We're gearing up for the launch.
+> `be on hand`                      ([Neutral] 手元にある)          The tools are on hand.
+  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
+- `make arrangements`               ([Neutral] 手配する)            I'll make arrangements for the trip.
+- `put in place`                    ([Neutral] 準備を整える)        Put everything in place first.
+
 ## MOST OF ALL
 - `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
 - `above all` /əˈbʌv ɔːl/           ([Neutral] 何よりも、特に)      Above all, be true to yourself.
@@ -151,6 +165,14 @@
 - `gain ground` /ɡeɪn ɡraʊnd/       ([Neutral] 前進する 優勢になる) Our proposal is gaining ground with management.
 
 ## 進捗させる
+> `be halfway through`              ([Neutral] 半分終わっている)    I'm halfway through the report.
+- `be partway through`              ([Neutral] 途中まで進んでいる)  We're partway through the project.
+- `be midway through`               ([Neutral] 中間点にいる)        She's midway through her studies.
+- `be nearly done`                  ([Neutral] ほぼ終わっている)    The task is nearly done.
+- `be almost finished`              ([Neutral] ほとんど終わっている) We're almost finished with testing.
+- `be well underway`                ([Neutral] 順調に進行中)        The project is well underway.
+- `be in progress`                  ([Neutral] 進行中である)        The update is in progress.
+- `be at the halfway point`         ([Neutral] 半分の地点にいる)    We're at the halfway point.
 - ✅ `make progress`                ([Neutral] 進捗する、前進する)  We're making progress on the project.
 - `get results` /ɡet rɪˈzʌlts/      ([Neutral] 結果を出す 成果を得) Our new strategy is getting results.
 - ✅ `achieve results`              ([Neutral] 結果を達成する)      The team achieved excellent results.

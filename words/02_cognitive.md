@@ -47,6 +47,7 @@
 > `think of` /θɪŋk ʌv/              ([Neutral] 思いつく、考える)    I can't think of a solution.
 > `come up with` /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
 - `get an idea` /ɡet ən aɪˈdiːə/    ([Neutral] アイデアを思いつく)  I just got an idea!
+> `give 人 an idea`                 ([Neutral] 外要因により浮かぶ)  That video gave me an idea for my presentation.
 - `hit on` /hɪt ɑːn/                ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
 - `strike` /straɪk/                 ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
 - `occur to` /əˈkɜːr tuː/           ([Neutral] 思い浮かぶ)          It never occurred to me.

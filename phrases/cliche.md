@@ -3,6 +3,7 @@
 ---
 
 ## 
+- [ ] `find a ~ form of ~`:                 ([Neutral] 〜の〜な形を見つける) We need to `find a new form of` leadership that suits this generation.
 
 ---
 

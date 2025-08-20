@@ -65,3 +65,16 @@
 > `squander` /ˈskwɒndə/             ([Writing] 浪費する)            Don't squander your money on useless things.
 - `flush down` /flʌʃ daʊn/          ([Casual] 無駄にする)           He flushed his money down the drain.
 - `fritter` /ˈfrɪtə/                ([Writing] 浪費する)            He frittered away his inheritance.
+
+## HIRE
+> `for hire`                        ([Neutral] 賃貸しの、雇用可能)  The taxi is for hire.
+- `available` /əˈveɪləbəl/          ([Neutral] 利用可能な)          The room is available now.
+- `for rent`                        ([Neutral] 賃貸しの)            This apartment is for rent.
+- `for sale`                        ([Neutral] 売り物の)            The house is for sale.
+- `on the market`                   ([Neutral] 市場に出ている)      The property is on the market.
+- `open for business`               ([Neutral] 営業中)              We're open for business.
+- `available for hire`              ([Neutral] 雇用可能な)          She's available for hire.
+- `freelance` /ˈfriːlæns/           ([Neutral] フリーランスの)      He works as a freelance writer.
+- `for lease` /liːs/                ([Neutral] リース可能な)        The equipment is for lease.
+- `vacant` /ˈveɪkənt/               ([Neutral] 空いている)          The position is vacant.
+- `unoccupied` /ʌnˈɑːkjupaɪd/       ([Neutral] 使用されていない)    The seat is unoccupied.

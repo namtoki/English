@@ -346,8 +346,6 @@ apology	4	【名】わびること、弁明
 apostle	11	【名】使徒、最初の伝道者、主唱者		
 apparatus	5	【名】器具、機械、器官		
 apparent	4	【形】明らかな、はっきり見える、見かけ上は～らしい		
-appear	2	【動】現れる、～らしい		
-appearance	2	【名】外観、うわべだけの様子、出現		
 appendix	7	【名】付録、追加、盲腸		
 appetite	4	【名】食欲、欲求		
 appetizer	7	【名】前菜、食欲をそそるもの		
@@ -2664,8 +2662,6 @@ embroidery	12	【名】刺しゅう、話の誇張
 embroil	11	【動】巻き込む、混乱させる		
 embryo	10	【名】胚、胎児		
 embryonic	12	【形】初期の、未発達の、胚に関する		
-emerge	4	【動】浮かび上がる、現れる		
-emergence	7	【名】出現、発生、脱出		
 emergency	4	【名】緊急事態、突発事件		
 emigrant	9	【名】移民、出稼ぎ人		
 emigrate	8	【動】移住する、移住させる		
@@ -3291,7 +3287,6 @@ fraudulent	11	【形】詐欺的な、不正直な
 fraught	10	【形】困難な、伴う、満ちた		
 fray	10	【名】けんか、争い		
 freak	9	【名】変人、熱狂的ファン、異常 【形】異常な		
-freelance	8	【形】フリーランスの 【名】フリーランサー		
 freeway	5	【名】高速道路		
 freight	7	【名】貨物 【動】負わせる、積む		
 frenzy	10	【名】熱狂、激高 【動】狂乱させる		
@@ -3659,7 +3654,6 @@ haircut	2	【名】散髪、髪型
 hairdresser	5	【名】美容師、美容院		
 hairy	7	【形】毛深い、毛で覆われた、困難な		
 hale	10	【形】元気がよい、強健な 【動】強く引っ張る		
-halfway	4	【副】途中で、中途で、不十分に 【形】中途の		
 hall	2	【名】ホール、玄関、廊下、会館、本部		
 hallmark	11	【名】品質証明、特質 【動】品質を保証する		
 hallway	6	【名】廊下、玄関		
@@ -3669,7 +3663,6 @@ halve	7	【動】半分にする、半減する
 ham	2	【名】ハム、ももの後部		
 hamburger	2	【名】ハンバーガー、牛肉のひき肉		
 hammer	2	【名】金づち 【動】つちで打つ		
-hamper	10	【動】阻止する 【名】束縛		
 handbag	3	【名】ハンドバッグ		
 handbook	4	【名】手引き書、便覧		
 handcuff	11	【動】手錠をかける 【名】手錠（～s）		
@@ -3822,12 +3815,10 @@ hillside	4	【名】丘の中腹、丘陵の斜面
 hilly	6	【形】小山の多い、小高い、けわしい		
 himself	2	【代】彼自身		
 hind	7	【形】後ろの		
-hinder	7	【動】妨げる、遅らせる、邪魔になる 【形】後方の		
 hindrance	7	【名】じゃま、妨害する人		
 hip	3	【名】ヒップ、腰		
 hippie	9	【名】ヒッピー		
 hippopotamus	5	【名】カバ｟短縮形：hippo｠		
-hire	2	【動】雇う、賃借りする 【名】短期雇用		
 hiss	7	【動】シューと音をたてる、語気強く小声で言う 【名】シューという音		
 historian	5	【名】歴史学者		
 historic	5	【形】歴史的に有名な、歴史上重要な		
@@ -4022,7 +4013,6 @@ impatience	6	【名】短気、切望
 impatient	5	【形】我慢できない、耐えられない、せっかちな		
 impeach	9	【動】弾劾する、告発する		
 impeachment	8	【名】弾劾、非難		
-impede	11	【動】じゃまする、遅らせる		
 impediment	10	【名】妨害、身体的障害		
 impel	12	【動】かりたてる、押し進める		
 impending	10	【形】切迫した、今にも起こる		
@@ -4317,8 +4307,6 @@ interchange	8	【動】互いにやりとりする、入れ替える 【名】�
 intercourse	8	【名】交わり、交際		
 interdisciplinary	12	【形】学際的な、異なった学問分野にまたがる		
 interface	8	【名】インターフェース、接触面 【動】結びつける		
-interfere	4	【動】邪魔をする、妨げる		
-interference	7	【名】妨害、じゃま、干渉		
 interior	4	【名】内部、インテリア 【形】内側の、海岸から離れた		
 interlock	12	【動】連動させる、組み合わせる、かみあう		
 intermediary	10	【形】中間の 【名】仲裁者、媒介		
@@ -4609,7 +4597,6 @@ leaning	10	【名】傾向、趣味、傾斜
 leap	4	【動】跳ぶ、飛び跳ねる 【名】跳躍		
 learned	7	【形】造詣の深い、学問的な		
 learner	4	【名】学習者、初学者		
-lease	7	【名】賃貸借契約、賃貸期間 【動】賃貸する		
 least	2	【形】最も少ない（little の最上級） 【名】最小のもの		
 leather	2	【名】革、革製品 【形】革製の		
 lecturer	7	【名】講師、講演者		
@@ -5045,7 +5032,6 @@ middleman	11	【名】仲介者、中間商人
 midland	10	【名】内陸部、中部		
 midst	6	【名】真ん中、中央		
 midsummer	10	【名】真夏 【形】真夏の		
-midway	8	【副】中途に、中程に 【名】催し物会場		
 midweek	9	【名】週の中ごろ 【副】週の中ごろに		
 midwife	10	【名】助産婦		
 mighty	4	【形】強力な、力のある		
@@ -5488,8 +5474,6 @@ obsessive	11	【形】とりつかれた、強迫観念の、過度の 【名】
 obstacle	6	【名】障害、妨害		
 obstetrician	12	【名】産科医		
 obstinate	7	【形】頑固な、意固地な、執拗な		
-obstruct	9	【動】ふさぐ、通りにくくする		
-obstruction	9	【名】障害物、妨害、反対		
 obtain	4	【動】獲得する、広く行われている		
 obtrusive	12	【形】ひどく目立つ、押しつけがましい		
 occasion	2	【名】場合、時、特別な行事		
@@ -8261,7 +8245,6 @@ thump	9	【動】激しくひっぱたく、たたきつける 【名】ゴツ�
 thunder	3	【名】雷 【動】雷が鳴る		
 thunderous	9	【形】雷のような、とどろきわたる、途方もない		
 thunderstorm	7	【名】激しい雷雨		
-thwart	11	【動】挫折させる、計画をじゃまする 【形】不利な		
 tick	6	【動】項目にしるしをつける 【名】チェックマーク、時計のカチカチという音		
 tickle	8	【動】くすぐる、おもしろがらせる		
 tidal	7	【形】潮の、干満の、周期的な		
@@ -8532,7 +8515,6 @@ underpin	12	【動】根拠を与える、下から支える
 underscore	8	【動】強調する、目立たせる		
 undertaking	7	【名】仕事、引き受けること、約束、事業		
 underwater	8	【形】水中用の、水面下の 【副】水中で		
-underway	10	【形】進行中で、航行中で		
 underwear	2	【名】肌着類		
 underwrite	10	【動】下に書く、承諾する、署名する		
 undesirable	7	【形】望ましくない、魅力のない 【名】好ましくない人		
@@ -8683,7 +8665,6 @@ utter	5	【動】発する、述べる
 utterance	7	【名】口から発したことば、発声		
 utterly	5	【副】まったく		
 vacancy	7	【名】空き室、空き地、空虚、空間		
-vacant	6	【形】空いている		
 vacate	12	【動】場所を明け渡す、地位を退く、無効にする		
 vaccine	5	【名】ワクチン		
 vacuum	5	【名】真空、空虚		
