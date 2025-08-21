@@ -550,6 +550,9 @@
   - `disdain` /dɪsˈdeɪn/            ([Formal] 軽蔑する、見下す)    He disdained their offer.
     - `disdainful` /dɪsˈdeɪnfəl/    ([Formal] 軽蔑的な)             Her disdainful attitude was obvious.
 
+## SUBJECTIVE
+- `subjective` /səbˈdʒektɪv/        ([Neutral] 主観的な)            Beauty is subjective.
+
 ## Positive Evaluation
 - `pristine` /prɪˈstiːn/            ([Writing] 手つかずの、新品同様) The beach was pristine and untouched.
 - `exalt` /ɪɡˈzɔːlt/               ([Writing] 称賛する、高める)      The poem exalts the beauty of nature.

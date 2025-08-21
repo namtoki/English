@@ -21,6 +21,13 @@
 - `regulate` /ˈreɡjəleɪt/           ([Formal] 規制する、調整する)   The government regulates industries.
 - `dominate` /ˈdɑːmɪneɪt/           ([Neutral] 支配する、左右する)  One company dominates the market.
 
+## BE SUBJECT TO
+- `be subject to`                   ([Neutral] 〜を受ける)          The plan is subject to approval.
+- `be liable to` /biː ˈlaɪəbəl tuː/ ([Formal] 〜しがちである)       He's liable to forget important details.
+- `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
+- `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
+- `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
+
 ## Words
 
 - `falsify` /ˈfɔːlsɪfaɪ/             ([Formal] 偽造する、反証する)   He falsified the documents.

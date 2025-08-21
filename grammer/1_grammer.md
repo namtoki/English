@@ -1,5 +1,6 @@
 # GRAMMER
 
+- [ ] `could`                         ([Neutral] 「できた」で使えるのは、過去の期間を表す語句か状態動詞に限る) I `could hear` the birds singing this morning.
 ---
 
 ## STRUCTURE

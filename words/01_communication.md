@@ -2,6 +2,7 @@
 
 ## SAY
 - `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
+  > `be said to` /biː sed tuː/      ([Neutral] と言われている)      He is said to have worked hard when young.
 - `speak` /spiːk/                   ([Neutral] 話す、演説する)      May I speak with you privately?
 > `talk` /tɔːk/                     ([Neutral] 話す、話し合う)      We need to talk about this.
 
@@ -224,6 +225,7 @@
 - `tattle` /ˈtætəl/                 ([Casual] 告げ口する)           Don't tattle on your sister.
   - `tattling` /ˈtætəlɪŋ/           ([Casual] 告げ口)               Tattling will get you in trouble.
   - `tattletale` /ˈtætəlteɪl/       ([Casual] 告げ口する人)         Nobody likes a tattletale.
+- `subject` /səbˈdʒekt/             ([Formal] 〜にさらす)           Don't subject me to your complaints.
 
 ## DISPROVE
 > `disprove` /dɪsˈpruːv/            ([Neutral] 反証する)            The evidence disproves his claim.

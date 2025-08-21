@@ -1,5 +1,8 @@
 # NAME
 
+## SUBJECT
+- `subject` /ˈsʌbdʒɪkt/             ([Neutral] 主題、科目)          Math is my favorite subject.
+
 ## STUFF
 > `thing`                           ([Neutral] モノ、コト)          That's the `thing` I was looking for.
 > `something`                       ([Neutral] 何か)                I need `something` to drink.

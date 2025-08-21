@@ -3,6 +3,7 @@
 ## GOTTA
 > `gotta` /ˈɡɑːtə/                  ([Casual] ～しなきゃ)           I gotta go now.
   - `have got to` /hæv ɡɑːt tuː/    ([Casual] ～しなきゃ)           I've got to finish this tonight.
+  - `was going to` /wəz ˈɡoʊɪŋ tuː/ ([Neutral] するつもりだった)    I was going to call but forgot.
 - `need to` /niːd tuː/              ([Neutral] ～する必要がある)    I need to finish this report.
 - `have to` /hæv tuː/               ([Neutral] ～しなけばならない)  I have to leave early today.
 - `must` /mʌst/                     ([Formal] ～しなければならない) You must submit it by Friday.
@@ -14,6 +15,7 @@
 
 ## BE SUPPOSED TO
 > `be supposed to` /səˈpoʊzd tuː/   ([Neutral] ～することになてる)  I'm supposed to meet him at 3.
+  > `was supposed to`               ([Neutral] するはずだった)      She was supposed to be here by now.
 > `be expected to` /ɪkˈspektɪd tuː/ ([Neutral] ～が期待される)      You're expected to be on time.
 - `be due to` /duː tuː/             ([Neutral] ～する予定)          The baby is due to arrive soon.
 - `be scheduled to` /ˈskedʒuːld tuː/([Formal] ～が予定されている)   The meeting is scheduled to start at 9.
@@ -32,6 +34,7 @@
 - `be on the point of` /pɔɪnt/      ([Formal] まさに～しようと)     I was on the point of calling you.
 - `be on the brink of` /brɪŋk/      ([Neutral] ～の瀬戸際)          We're on the brink of success.
 - `be close to` /kloʊs tuː/         ([Neutral] ～に近い)            I'm close to finishing.
+  - `come close to -ing`            ([Neutral] 危うくしそうになる)  I came close to missing my flight.
 - `be near to` /nɪr tuː/            ([Formal] ～に近い)             She was near to giving up.
 
 ## BE MEANT TO
@@ -49,6 +52,9 @@
 ## MUST
 - `bound to` /baʊnd tuː/            ([Neutral] ～に違いない)        He's bound to notice eventually.
 
+## SHOULD
+- `be better off -ing`              ([Neutral] 〜したほうがよい)    You're better off taking the train.
+
 ## WANT
 > `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
 > `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
@@ -56,6 +62,7 @@
 > `could use` /kʊd juːz/            ([Casual] 〜が欲しい)           I could use a coffee right now.
 - `could do with` /kʊd duː wɪð/     ([Casual] 〜が欲しい)           I could do with a vacation.
 - `wouldn't mind` /ˈwʊdnt maɪnd/    ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
+- `be eager to` /biː ˈiːɡər tuː/    ([Neutral] 切望する)            She's eager to start her new job.
 
 ## ANGRY
 > `angry` /ˈæŋɡri/                  ([Neutral] 怒った)              She was angry about the delay.

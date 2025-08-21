@@ -92,6 +92,7 @@
 > `It's the fact that` S V          ([Neutral] ～が問題なんだ)      It's the fact that it's so diverse.
 - `My take is` /maɪ teɪk ɪz/        ([Casual] 私の見方は)           My take is that we should proceed.
 > `My understanding is (that)` S V  ([Neutral] 私の理解では)        My understanding is that we start Monday.
+- `be something that` /biː ˈsʌmθɪŋ ðæt/ ([Neutral] ということだ)        Quality is something that matters most to us.
 
 ## I BELIEVE
 - `I believe` S V                   ([Neutral] 私は信じる)          I believe we can achieve this goal.
@@ -115,6 +116,8 @@
 > `It may be (that)` S V            ([Formal] ～かもしれない)       It may be that we need more time.
 > `It might be (that)` S V          ([Neutral] ～かもしれない)      It might be that she forgot.
 > `It's likely (that)` S V          ([Neutral] ～の可能性が高い)    It's likely that they'll accept our proposal.
+  > `be less likely to`             ([Neutral] する確率が低い)      It's less likely to get broken if you wrap it.
+  > `be more likely to`             ([Neutral] する確率が高い)      People are more likely to work in their field.
 - `It's possible (that)` S V        ([Neutral] ～の可能性がある)    It's possible that we made an error.
 > `I guess` S V                     ([Casual] ～かもしれない)       I guess he's not coming.
 - `I imagine` S V                   ([Neutral] ～だと想像する)      I imagine it must be difficult.
@@ -139,6 +142,7 @@
 - `presumably` S V                  ([Formal] おそらく～)           Presumably, they've already been informed.
 - `probably` S V                    ([Neutral] おそらく～)          She's probably stuck in traffic.
 - `supposedly` S V                  ([Neutral] ～らしい)            Supposedly, he's an expert in this field.
+- `be sure to` /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
 
 ## PREFER
 - `more A than B`                   ([Neutral] BよりもむしろA)      She's more talented than lucky.
@@ -154,6 +158,10 @@
 - `A over B`                        ([Casual] BよりA)               I'd choose happiness over money.
 - `prefer A to B`                   ([Neutral] BよりAを好む)        I prefer walking to driving.
 - `favor A over B`                  ([Neutral] BよりAを好む)        They favor experience over education.
+
+## PAST
+- `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
+- `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
 
 ## IN THAT
 > `in terms of` /ɪn tɜːrmz əv/      ([Neutral] ～の観点から)        In terms of cost, it's expensive.
