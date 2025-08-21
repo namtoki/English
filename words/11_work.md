@@ -1,10 +1,10 @@
 # Work
 
-## PREPARE
+## BE READY TO / BE ON HAND
 > `ready to`                        ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
   - `get ready`                     ([Neutral] 準備する)            Get ready for the presentation.
   - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
-> `prepare` /prɪˈper/               ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+- `prepare` /prɪˈper/               ([Neutral] 準備する、用意する)  Let's prepare everything we need.
   - `be prepared`                   ([Neutral] 準備ができている)    Be prepared for questions.
   - `make preparations`             ([Formal] 準備する)             Make preparations for the event.
 - `set up` /set ʌp/                 ([Neutral] 設定する、手配する)  I'll set up the equipment.

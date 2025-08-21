@@ -92,7 +92,7 @@
 > `It's the fact that` S V          ([Neutral] ～が問題なんだ)      It's the fact that it's so diverse.
 - `My take is` /maɪ teɪk ɪz/        ([Casual] 私の見方は)           My take is that we should proceed.
 > `My understanding is (that)` S V  ([Neutral] 私の理解では)        My understanding is that we start Monday.
-- `be something that` /biː ˈsʌmθɪŋ ðæt/ ([Neutral] ということだ)        Quality is something that matters most to us.
+- `be something that`               ([Neutral] ということだ)        Quality is something that matters most to us.
 
 ## I BELIEVE
 - `I believe` S V                   ([Neutral] 私は信じる)          I believe we can achieve this goal.
@@ -159,11 +159,11 @@
 - `prefer A to B`                   ([Neutral] BよりAを好む)        I prefer walking to driving.
 - `favor A over B`                  ([Neutral] BよりAを好む)        They favor experience over education.
 
-## PAST
+## ENDED UP -ING
 - `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
 - `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
 
-## IN THAT
+## IN THE SENSE THAT
 > `in terms of` /ɪn tɜːrmz əv/      ([Neutral] ～の観点から)        In terms of cost, it's expensive.
 > `as long as` /æz lɔːŋ æz/         ([Neutral] ～する限り)          As long as you try, that's what matters.
 > `as far as` /æz fɑːr æz/          ([Neutral] ～する範囲では)      As far as I know, the meeting is still on.
@@ -176,6 +176,9 @@
 - `inasmuch as` /ˌɪnəzˈmʌtʃ æz/     ([Formal] ～する限りにおいて)   Inasmuch as we agree, let's proceed.
 - `in respect that`                 ([Formal] ～という点において)   It differs in respect that it's automated.
 - `to the degree that`              ([Formal] ～する程度において)   Success depends to the degree that we prepare.
+
+## TO THE POINT WHERE
+- `to the point where`              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
 
 ## BECAUSE
 - `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
@@ -202,7 +205,7 @@
 - `in view of` /ɪn vjuː əv/         ([Formal] ～を考慮して)         In view of the circumstances, we'll wait.
 - `on the grounds that`             ([Formal] ～を理由に)           He was fired on the grounds that he lied.
 
-## IN ORDER TO
+## IN ORDER TO / SO THAT
 > `to` /tuː/                        ([Casual] ～するために)         I left early to catch the train.
 > `so that` /soʊ ðæt/               ([Neutral] ～するために)        Mary spoke loudly so that everyone could hear.
 - `hoping (that)` /ˈhoʊpɪŋ ðæt/     ([Casual] ～を望んで)           I emailed her, hoping that she would reply.
@@ -271,7 +274,6 @@
 - `by heart` /baɪ hɑːrt/            ([Neutral] 暗記で)              First of all, learn the formula by heart.
 - `in a manner that`                ([Formal] ～という方法で)       Behave in a manner that reflects well on the company.
 - `by means of` /baɪ miːnz əv/      ([Formal] ～によって)           They communicated by means of sign language.
-
 
 ## EVEN THOUGH
 > `even though` /ˈiːvən ðoʊ/        ([Neutral] 〜にも関わらず)      Even though he's new to the team, ~~
@@ -416,7 +418,7 @@
 - `A out of B`                      ([Neutral] BのうちのA)          3 out of 5 people agreed.
 - `A in B`                          ([Neutral] BのうちのA)          1 in 10 people disagree.
 
-## WHAT I MEANT
+## I MEAN
 > `I mean`                          ([Casual] つまり、その)         I'm tired. `I mean`, I only slept 3 hours.
 > `what I mean is`                  ([Neutral] 言いたいのは)        `What I mean is`, we need more time.
 - `what I'm saying is`              ([Casual] 言ってるのは)         `What I'm saying is`, it's not that simple.

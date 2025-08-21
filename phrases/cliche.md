@@ -1,15 +1,7 @@
 # CLICHE
 
----
-
-## 
-- [ ] `find a ~ form of ~`:                 ([Neutral] 〜の〜な形を見つける) We need to `find a new form of` leadership that suits this generation.
-
----
-
 ## FAVORITE
-- [ ] `I’m finding it a bit difficult to express this clearly in English right now. Would it be okay if I shared it in writing instead?`
-- [x] `I'll leave it up to you`             ([Casual] 任せるよ) I’m not sure which option is best. `I'll leave it up to you.`
+- `find a ~ form of ~`              ([Neutral] の〜な形を見つける)  We need to `find a new form of` leadership that suits it
 - [ ] `I'm not particular about it`         ([Casual] こだわりはないよ) `I'm not particular about it`, so whatever works for you is fine.
 - [ ] `Nothing in particular`               ([Casual] 特にありません) `Do you have any preferences?` `Nothing in particular.`
 - [ ] `It doesn't matter`                   ([Casual] どうでもいいよ／どちらでもいいよ) `Do you want coffee or tea?` `It doesn't matter.`

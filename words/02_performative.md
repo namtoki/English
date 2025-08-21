@@ -66,7 +66,6 @@
 - `hatch` /hætʃ/                    ([Casual] 企てる、計画する)     They hatched a secret plan.
 - `conjure up` /ˈkʌndʒər ʌp/        ([Writing] 思い起こす 作り出す) He conjured up a fantastic story.
 
-
 ## FORGET
 - `be a blur` /biː ə blɜːr/         ([Neutral] ぼんやりしている)    Last weekend was a blur.
 
