@@ -1,6 +1,9 @@
 # GRAMMER
 
 - [ ] `could`                         ([Neutral] 「できた」で使えるのは、過去の期間を表す語句か状態動詞に限る) I `could hear` the birds singing this morning.
+- 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
+- 三人称 will V:                              することがある / するものだ / He `will` often take a nap while at work.
+- 人間以外には通常 be able to は用いられない
 ---
 
 ## STRUCTURE
