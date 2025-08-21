@@ -12,6 +12,7 @@
   - `consideration`                 ([Neutral] 考慮、思いやり)      Give it serious consideration.
   - `considerable` /kənˈsɪdərəbəl/  ([Neutral] かなりの)            That's a considerable amount.
   - `considerate` /kənˈsɪdərət/     ([Neutral] 思いやりのある)      He's always considerate of others.
+- `give it a thought`               ([Neutral] 考えてみる)          I'll give it a thought tonight.
 
 ## GUESS
 - `guess` /ɡes/                     ([Neutral] 推測する)            I can only guess what happened.
@@ -170,3 +171,10 @@
 
 ## CUT CORNERS
 - `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+
+## HAVE TO DO WITH
+- `have a lot in common`            ([Neutral] 共通点が多い)        We have a lot in common.
+- `have little to do with`          ([Neutral] 関係がほとんどない)  This has little to do with money.
+- `have much to do with`            ([Neutral] 大いに関係がある)    Success has much to do with timing.
+- `have nothing to do with`         ([Neutral] 関係がない)          I have nothing to do with that decision.
+- `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.

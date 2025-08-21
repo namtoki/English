@@ -99,6 +99,7 @@
 - `get down to` /ɡet daʊn tuː/      ([Neutral] 本格的に取り組む)    Let's get down to business.
 - `set out to` /set aʊt tuː/        ([Neutral] 着手する、目指す)    We set out to improve efficiency.
 - `turn to` /tɜːrn tuː/             ([Neutral] 取りかかる、向かう)  Let's turn to the next agenda item.
+- `get to` /ɡet tuː/                ([Neutral] とりかかる)          I'll get to it as soon as I can.
 
 ## 対処する (苦労が必要な感じがある)
 - ✅ `deal with` /diːl wɪð/         ([Neutral] 対処する、扱う)      We need to deal with this issue.

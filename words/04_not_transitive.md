@@ -18,6 +18,9 @@
 - `snuggle` /ˈsnʌɡl/                ([Casual] 寄り添う)             Let's snuggle on the couch.
 - `nestle` /ˈnesl/                  ([Casual] 寄り添う)             The kitten nestled in my lap.
 
+## GET TO
+- `get to` /ɡet tuː/                ([Neutral] 通う・着く)          Tokyo is easy to get to from here.
+
 ## CROUCH
 > `bend` /bend/                     ([Neutral] 曲げる)              Bend your knees when lifting.
 > `lean` /liːn/                     ([Neutral] 傾く)                Don't lean against the wet paint.

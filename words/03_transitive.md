@@ -1,5 +1,14 @@
 # Transitive
 
+## GET/HAVE/LET/MAKE
+- `get O C` /ɡet/                   ([Neutral] OをCの状態にする)    This song gets me feeling nostalgic.
+- `get O to V` /ɡet/                ([Neutral] OにVさせる)          I got him to help with the project.
+- `have O V` /hæv/                  ([Neutral] OにVさせる)          I'll have him call you back.
+- `have O Ved` /hæv/                ([Neutral] OをVしてもらう)      I had my car repaired yesterday.
+- `let O V` /let/                   ([Neutral] OにVさせる)          Let me help you with that.
+- `make O V` /meɪk/                 ([Neutral] OにVさせる)          The movie made me cry.
+- `make O C` /meɪk/                 ([Neutral] OをCにする)          This news makes me happy.
+
 ## 左右する・決定づける (使用頻度順)
 - ✅ `influence` /ˈɪnfluəns/        ([Neutral] 影響する、左右する)  Weather influences our mood.
 - ✅ `affect` /əˈfekt/              ([Neutral] 影響する、作用する)  The changes will affect everyone.
