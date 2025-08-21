@@ -1,5 +1,9 @@
 # Assessment
 
+
+## FAMILIAR
+- `get the hang of` /ɡet ðə hæŋ əv/ ([Casual] コツをつかむ)         I'm getting the hang of it now.
+
 ## STRONG
 - `strong` /strɔːŋ/                 ([Neutral] 強い、激しい)        She has strong feelings about it.
 - `intense` /ɪnˈtens/               ([Neutral] 激しい、強烈な)      She felt intense emotions.

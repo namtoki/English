@@ -64,6 +64,9 @@
 - `wouldn't mind` /ˈwʊdnt maɪnd/    ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
 - `be eager to` /biː ˈiːɡər tuː/    ([Neutral] 切望する)            She's eager to start her new job.
 
+## TAKE THE PLUNGE AND
+- `take the plunge`                 ([Neutral] 思い切る)            He finally took the plunge and quit.
+
 ## ANGRY
 > `angry` /ˈæŋɡri/                  ([Neutral] 怒った)              She was angry about the delay.
 > `mad` /mæd/                       ([Casual] 怒った)               He's mad at me for lying.

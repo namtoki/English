@@ -1,11 +1,11 @@
 
 - 00_framework.md - お決まりの構文構造パターンや副詞表現
 - 01_communication.md - 意思疎通・表現
-- 02_cognitive.md - 思考・認知プロセス
-- 03_emotion.md - 主観的な感情・気持ち
-- 04_assessment.md - 客観的な物, 人に対する評価
-- 05_affect.md - 影響を与える動作
-- 06_motion.md - 身体動作・運動
+- 02_performative.md - 遂行動詞 (思った瞬間に行動が完了している動詞)
+- 03_transitive.md - 他のものに影響を与える動作
+- 04_not_transitive.md - 他のものに影響を与えない動作 (walk, pass など)
+- 05_emotion.md - 主観的な感情・気持ち
+- 06_assessment.md - 客観的な物, 人に対する評価
 - 07_conflict.md - 対立・紛争・戦争に関する名詞、動詞
 - 08_properties.md - 物理的性質に関する形容詞
 - 09_space.md - 空間・空間の状態・位置・場所に関する名詞、形容詞

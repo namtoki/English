@@ -1,4 +1,4 @@
-# Cognitive
+# Performative
 
 ## THINK
 - `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
@@ -64,6 +64,10 @@
   - `concoction` /kənˈkɑːkʃən/      ([Formal] 作り話、調合物)       His story was a wild concoction.
 - `hatch` /hætʃ/                    ([Casual] 企てる、計画する)     They hatched a secret plan.
 - `conjure up` /ˈkʌndʒər ʌp/        ([Writing] 思い起こす 作り出す) He conjured up a fantastic story.
+
+
+## FORGET
+- `be a blur` /biː ə blɜːr/         ([Neutral] ぼんやりしている)    Last weekend was a blur.
 
 ## REMIND
 - `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる)        This song reminds me of my childhood.
@@ -160,3 +164,9 @@
 - `etch in mind` /etʃ ɪn maɪnd/     ([Writing] 心に刻む)            The experience etched itself in his mind.
 - `engrave on memory` /ɪnˈɡreɪv/    ([Writing] 記憶に刻む)          The moment was engraved on her memory.
 - `treasure` /ˈtreʒər/              ([Neutral] 大切にする)          I treasure those memories.
+
+## LEAVE
+- `leave ~ up to` /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.
+
+## CUT CORNERS
+- `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.

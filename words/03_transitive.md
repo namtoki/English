@@ -1,4 +1,4 @@
-# Affect
+# Transitive
 
 ## 左右する・決定づける (使用頻度順)
 - ✅ `influence` /ˈɪnfluəns/        ([Neutral] 影響する、左右する)  Weather influences our mood.

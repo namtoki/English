@@ -1,4 +1,4 @@
-# COMMUNICATION
+# Communication
 
 ## SAY
 - `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
@@ -44,6 +44,7 @@
 > `elaborate` /ɪˈlæbəreɪt/          ([Formal] 詳しく説明する)       Could you elaborate on that?
 - `illustrate` /ˈɪləstreɪt/         ([Neutral] 説明する、例証する)  This example illustrates my point.
 - `demonstrate` /ˈdemənstreɪt/      ([Neutral] 実演して説明する)    Let me demonstrate how it works.
+- `cut to the chase`                ([Casual] 要点を言う)           Let me cut to the chase.
 
 ## CONTACT
 - `contact` /ˈkɑːntækt/             ([Neutral] 連絡する)            I'll contact you later.

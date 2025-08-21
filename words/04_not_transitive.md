@@ -1,4 +1,4 @@
-# Motion
+# Not Transitive
 
 ## GET TOGETHER
 - `get together` /ɡet təˈɡeðər/     ([Casual] 集まる)               Let's get together with the old college friends
