@@ -9,6 +9,21 @@
 - `make O V` /meɪk/                 ([Neutral] OにVさせる)          The movie made me cry.
 - `make O C` /meɪk/                 ([Neutral] OをCにする)          This news makes me happy.
 
+## SOAK
+- `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
+- `be eating me alive`              ([Casual] 蝕んでいる)           Keeping secrets was eating me alive.
+
+## DESTROY
+- `wreck` /rɛk/                      ([Neutral] 破壊する、難破船)    The storm will wreck the ship.
+  - `wrecked` /rɛkt/                  ([Neutral] 破壊された)          The wrecked car was towed away.
+  - `wrecking` /ˈrɛkɪŋ/               ([Neutral] 破壊すること)        The wrecking ball demolished the building.
+  - `wreckage` /ˈrɛkɪdʒ/              ([Neutral] 残骸)                They found wreckage from the plane.
+- `destroyed` /dɪˈstrɔɪd/             ([Neutral] 破壊された)          The building was completely destroyed.
+- `damaged` /ˈdæmɪdʒd/                ([Neutral] 損傷した)            The damaged car needs repair.
+- `demolished` /dɪˈmɑːlɪʃt/           ([Neutral] 取り壊された)        The old factory was demolished.
+- `shattered` /ˈʃætərd/               ([Neutral] 粉砕された)          The window was shattered by the ball.
+- `broken` /ˈbroʊkən/                 ([Neutral] 壊れた)              The broken chair cannot be used.
+
 ## 左右する・決定づける (使用頻度順)
 - ✅ `influence` /ˈɪnfluəns/        ([Neutral] 影響する、左右する)  Weather influences our mood.
 - ✅ `affect` /əˈfekt/              ([Neutral] 影響する、作用する)  The changes will affect everyone.

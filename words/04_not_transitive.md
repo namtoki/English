@@ -73,6 +73,7 @@
 - `materialize` /məˈtɪriəlaɪz/      ([Formal] 実体化する、現れる)   Help materialized quickly.
 - `spring up` /sprɪŋ ʌp/            ([Neutral] 急に現れる)          New shops are springing up everywhere.
 - `crop up` /krɑːp ʌp/              ([Casual] 突然起こる)           Problems keep cropping up.
+- `be in for` /bi ɪn fɔːr/          ([Casual] 直面する)             Looks like we'll be in for some wet weather over the next few days.
 
 ## OTHER
 - `diaspora` /daɪˈæspərə/            ([Writing] 離散)          The Jewish diaspora spans many countries.

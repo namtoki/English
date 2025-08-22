@@ -1,8 +1,19 @@
 # Assessment
 
+## FIT
+- `be for` /bi fɔːr/                ([Casual] 合う)                 That job wasn't for me.
 
 ## FAMILIAR
 - `get the hang of` /ɡet ðə hæŋ əv/ ([Casual] コツをつかむ)         I'm getting the hang of it now.
+
+## VALIDITY
+- `be in effect` /bi ɪn ɪˈfekt/     ([Formal] 有効である)           A severe weather alert is in effect for the region as of six A.M.
+- `be out of the question`          ([Neutral] 論外である)          Going to the party is out of the question!
+
+## SOLID
+- `solid` /ˈsɒlɪd/                  ([Neutral] 固体の、しっかりした)This desk is made of solid wood.
+  - `solidarity` /ˌsɒlɪˈdærəti/     ([Writing] 団結、連帯)          The workers showed solidarity during the strike.
+  - `solidly` /ˈsɒlɪdli/            ([Neutral] 強固に、確実に)      The foundation was solidly built.
 
 ## STRONG
 - `strong` /strɔːŋ/                 ([Neutral] 強い、激しい)        She has strong feelings about it.

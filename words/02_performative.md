@@ -13,6 +13,7 @@
   - `considerable` /kənˈsɪdərəbəl/  ([Neutral] かなりの)            That's a considerable amount.
   - `considerate` /kənˈsɪdərət/     ([Neutral] 思いやりのある)      He's always considerate of others.
 - `give it a thought`               ([Neutral] 考えてみる)          I'll give it a thought tonight.
+- `be getting C` /bi ˈɡetɪŋ/        ([Casual] Cになってきた)        I'm getting tired of them.
 
 ## GUESS
 - `guess` /ɡes/                     ([Neutral] 推測する)            I can only guess what happened.
@@ -142,6 +143,7 @@
   - `pinpointing` /ˈpɪnpɔɪntɪŋ/     ([Neutral] 特定)                Pinpointing the cause took time.
 - `differentiate` /ˌdɪfəˈrenʃieɪt/  ([Formal] 区別する、差別化する) It's important to differentiate the brands.
   - `differentiation`               ([Formal] 差別化、区別)         Product differentiation is key.
+- `find oneself V-ing`              ([Neutral] 気づいたらVしている) I often find myself keeping an eye on the stock market.
 
 ## KEEP IN MIND
 > `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
@@ -177,3 +179,22 @@
 - `have much to do with`            ([Neutral] 大いに関係がある)    Success has much to do with timing.
 - `have nothing to do with`         ([Neutral] 関係がない)          I have nothing to do with that decision.
 - `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
+
+## BE AT ONE'S DISPOSAL
+- `be at one's disposal`            ([Formal] 思い通りにできる)     He claimed that the enormous property was at his disposal.
+
+## LIKE
+- `be obsessed` /bi əbˈsest/        ([Neutral] 夢中である)          He's obsessed with his new baby.
+
+## NEED
+- `人 need V` /niːd/                ([Neutral] する必要がある)      You need to finish this today.
+- `物 need V-ing` /niːd/            ([Neutral] される必要がある)    The car needs washing.
+
+## ACHIEVE
+- `achievement` /əˈtʃiːvmənt/       ([Neutral] 達成、業績)          Winning was a great achievement.
+  - `achieve` /əˈtʃiːv/             ([Neutral] 達成する、成し遂げる)She achieved her goals.
+- `accomplishment` /əˈkʌmplɪʃmənt/  ([Neutral] 達成、成果)          His accomplishments are impressive.
+  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 成し遂げる、達成)    They accomplished the mission.
+  - `accomplished` /əˈkʌmplɪʃt/     ([Neutral] 熟練した、成就した)  She is an accomplished pianist.
+- `triumph` /ˈtraɪʌmf/              ([Neutral] 勝利、大成功)        The team's triumph was celebrated.
+  - `triumphant` /traɪˈʌmfənt/      ([Neutral] 勝利した、勝ち誇った)The triumphant team celebrated loudly.
