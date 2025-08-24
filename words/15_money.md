@@ -42,6 +42,16 @@
 - `profitable` /ˈprɒfɪtəbəl/        ([Neutral] 利益の出る)          The company had a profitable year.
 - `lucrative` /ˈluːkrətɪv/          ([Writing] 儲かる、有利な)      He has a lucrative business.
 
+## AFFLUENCE
+- `wealth` /welθ/                   ([Neutral] 富、財産)            He accumulated great wealth.
+  - `wealthy` /ˈwelθi/              ([Neutral] 裕福な)              They are a wealthy couple.
+- `well-off` /wel ɔːf/              ([Casual] 裕福な)               Her parents are quite well-off.
+- `prosperity` /prɑːˈsperəti/       ([Formal] 繁栄、成功)           The nation enjoyed prosperity.
+  - `prosperous` /ˈprɑːspərəs/      ([Formal] 繁栄している)         It's a prosperous business.
+- `affluence` /ˈæfluəns/            ([Formal] 富裕、豊かさ)         They live in affluence and comfort.
+  - `affluent` /ˈæfluənt/           ([Formal] 裕福な)               She comes from an affluent family.
+- `riches` /ˈrɪtʃɪz/                ([Writing] 富、財宝)            He dreamed of untold riches.
+
 ## SPEND
 - `spend` /spend/                   ([Neutral] 使う、費やす)        I spend too much on clothes.
   - `spending` /ˈspendɪŋ/           ([Neutral] 支出)                Government spending has increased.

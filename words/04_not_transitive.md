@@ -83,7 +83,17 @@
 - `emigration` /ˌemɪˈgreɪʃn/         ([Formal] 移民)           Emigration from Ireland increased after 1845.
 - `departure` /dɪˈpɑːrtʃər/          ([Neutral] 出発)          The train departure was delayed by fog.
 - `flight` /flaɪt/                   ([Neutral] 逃避)          Their flight from the country was sudden.
-<!-- Add vocabulary entries here using the format from format.md -->
+
+## RUSH
+- `rush` /rʌʃ/                       ([Neutral] 急ぐ、突進する)     We rushed to the hospital.
+- `race` /reɪs/                      ([Neutral] 疾走する)           He raced down the stairs.
+- `speed` /spiːd/                    ([Neutral] スピードを出す)     Don't speed on the highway.
+- `dash` /dæʃ/                       ([Neutral] ダッシュする)       She dashed to catch the bus.
+- `zoom` /zuːm/                      ([Casual] 急速に動く)          The car zoomed past us.
+- `zip` /zɪp/                        ([Casual] 素早く動く)          He zipped through traffic.
+- `bolt` /boʊlt/                     ([Neutral] 突進する)           The horse bolted from the stable.
+- `whiz` /wɪz/                       ([Casual] ビュンと飛ぶ)        The bullet whizzed past my ear.
+
 ## HOW
 - [ ] `lightly`                             ([Neutral] そっと) She seems angry, you should tread `lightly.`
 - [ ] `back and forth`                      ([Neutral] 行ったり来たり) Bob was pacing `back and forth` along the sidewalk.

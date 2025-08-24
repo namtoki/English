@@ -3,6 +3,18 @@
 ## SUBJECT
 - `subject` /ˈsʌbdʒɪkt/             ([Neutral] 主題、科目)          Math is my favorite subject.
 
+## ACADEMIC
+- `zoology` /zoʊˈɑːlədʒi/           ([Formal] 動物学)               She studies zoology at university.
+  - `zoological` /ˌzoʊəˈlɑːdʒɪkəl/  ([Formal] 動物学の)             The zoological garden has many species.
+  - `zoologist` /zoʊˈɑːlədʒɪst/     ([Formal] 動物学者)             The zoologist studies animal behavior.
+  - `zoo` /zuː/                     ([Neutral] 動物園)              Let's go to the zoo this weekend.
+- `biology` /baɪˈɑːlədʒi/           ([Neutral] 生物学)              Biology is a fascinating subject.
+  - `biological` /ˌbaɪəˈlɑːdʒɪkəl/  ([Formal] 生物学の)             Biological diversity is important.
+  - `biologist` /baɪˈɑːlədʒɪst/     ([Formal] 生物学者)             The biologist discovered a new species.
+- `botany` /ˈbɑːtəni/               ([Formal] 植物学)               He specializes in botany.
+  - `botanical` /bəˈtænɪkəl/        ([Formal] 植物学の)             The botanical garden is beautiful.
+  - `botanist` /ˈbɑːtənɪst/         ([Formal] 植物学者)             The botanist identified the rare plant.
+
 ## STUFF
 > `thing`                           ([Neutral] モノ、コト)          That's the `thing` I was looking for.
 > `something`                       ([Neutral] 何か)                I need `something` to drink.

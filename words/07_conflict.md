@@ -151,3 +151,14 @@
 - `tragedy` /ˈtrædʒədi/               ([Neutral] 悲劇)              The accident was a terrible tragedy.
 - `crisis` /ˈkraɪsɪs/                 ([Neutral] 危機)              The country is facing an economic crisis.
 - `emergency` /ɪˈmɜrdʒənsi/           ([Neutral] 緊急事態)          Call 911 in case of emergency.
+
+## ALLY
+- `partner` /ˈpɑːrtnər/             ([Neutral] パートナー、協力者)  We need a reliable partner.
+  - `partnership` /ˈpɑːrtnərʃɪp/    ([Neutral] 協力関係)            Their partnership was successful.
+- `ally` /ˈælaɪ/                    ([Neutral] 同盟国、味方)        France is a close ally of the United States.
+  - `alliance` /əˈlaɪəns/           ([Neutral] 同盟、連合)          They formed a strategic alliance.
+  - `allied` /ˈælaɪd/               ([Neutral] 同盟の、連合した)    The allied forces won the war.
+- `comrade` /ˈkɑːmræd/              ([Neutral] 仲間、同志)          He stood by his comrades.
+- `coalition` /ˌkoʊəˈlɪʃən/         ([Formal] 連立、連合)           The parties formed a coalition government.
+- `confederate` /kənˈfedərət/       ([Formal] 同盟者、連合の)       The confederate states joined forces.
+  - `confederation` /kənˌfedəˈreɪʃən/ ([Formal] 連合、同盟)         The confederation lasted for years.

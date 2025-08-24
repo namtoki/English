@@ -265,6 +265,14 @@
 - [ ] `on short notice`                     (急に) I’m sorry, I can’t make it `on such short notice`.
 - [ ] `amid O`                              (フォーマルな during)
 
+## ARRIVAL
+- `arrival` /əˈraɪvəl/              ([Neutral] 到着、到来)          The arrival of spring brings new hope.
+- `onset` /ˈɑːnset/                 ([Neutral] 開始、始まり)        The onset of winter was sudden.
+- `dawn` /dɔːn/                     ([Writing] 夜明け、始まり)      The dawn of a new era has begun.
+- `emergence` /ɪˈmɜːrdʒəns/         ([Formal] 出現、発生)           The emergence of new technology disrupted the market.
+- `advent` /ˈædvent/                ([Formal] 到来、出現)           The advent of the internet changed everything.
+- `genesis` /ˈdʒenəsɪs/             ([Formal] 起源、発生)           This marked the genesis of modern computing.
+
 - `preceding`                       ([Formal] 先行する)             The preceding chapter.
 - `prior to`                        ([Formal] 〜より前に)           Prior to the meeting.
 - `in advance`                      ([Neutral] 前もって)            Book your tickets in advance.
