@@ -1,52 +1,46 @@
 # Favorite
 
-## PATTERN
-- `find a way to ~`                 ([Neutral] する方法を見つける)  We need to `find a way to` reduce operational costs.
-  - `figure out how to ~`           ([Casual] する方法を考え出す)   Let me `figure out how to` fix this issue.
-  - `come up with a ~ solution`     ([Neutral] な解決策を思いつく)  They `came up with a creative solution` to the problem.
-  - `work out a ~ plan`             ([Neutral] ～な計画を立てる)    We need to `work out a detailed plan` for the project.
-  - `develop a ~ approach to ~`     ([Formal] ～への手法を開発する) They `developed a new approach to` customer service.
-  - `find a ~ form of ~`            ([Neutral] の〜な形を見つける)  We need to `find a new form of` leadership that suits it
-- `It makes sense for A to B`       ([Neutral] 理にかなってる)      It makes sense for them to wait until next year. 
-- `It's only natural that A B`      ([Neutral] A が B するのが自然) `It’s only natural that` the product owner defines the requirements
-- `It's been a while since S V`     ([Neutral] してからしばらく経つ)`It's been a while since we last met.`
-  - `It's been ages since S V`      ([Casual] )                     `It's been ages since we last hung out.`
-  - `It's been a long time since S V`([Neutral] )                   `It's been a long time since we visited that place.`
+## CONVERSATION
+- `How's your day going?`           ([Casual] 今日の調子はどう？)
+- `Is this a good time?`            ([Casual] 今いい？)
+- `Do you have a minute/second?`    ([Casual] 今いい？)
+- `Do you have time?`               ([Casual] 今いい？)
+- `Is everything all right?`        ([Casual] 大丈夫？)
 
-## CLICHE
-- `I'm not particular about it`     ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
+## OPINION
+- `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It’s a bit complicated.
+  - `What's the word for it?`       ([Casual] 何て言うんだっけ？)   What's the word for it? It's on the tip of my tongue.
+- `It makes sense for A to B`       ([Neutral] 理にかなってる)      It makes sense for them to wait until next year. 
+  - `It's only natural that A B`    ([Neutral] A が B するのが自然) It’s only natural that the product owner defines the requirements
+- `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
+  - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with` any option you choose.
+  - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
+  - `I'm not particular about it`   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
   - `Nothing in particular`         ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
   - `It doesn't matter`             ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
+- `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
+  - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
+- `I’m not sure I follow`           ([Neutral] よく理解できません） I’m not sure I follow what you mean. Could you explain?
+- `It's been a while since S V`     ([Neutral] してからしばらく経つ)It's been a while since we last met.
+  - `It's been ages since S V`      ([Casual] )                     It's been ages since we last hung out.
+  - `It's been a long time since S V`([Neutral] )                   It's been a long time since we visited that place.
+- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
+- `just because A doesn't mean B`   ([Neutral] AだからといってBとは限らない) Just because it's raining doesn't mean the event will be canceled.
+  - `the reason being that`         ([Neutral] 理由は～だからだ)    She declined the offer, the reason being that she was too busy.
+- `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
+  - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
+  - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
+- `My concern is that S V`          ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
+- `be aware that`                   ([Neutral] に注意してください)  Be aware that the deadline is next Friday.
+- `Turns out S V`                   ([Casual] ということがわかった) Turns out she was right all along.
+
+## VERB
+- `find a way to ~`                 ([Neutral] する方法を見つける)  We need to `find a way to` reduce operational costs.
+  - `find a ~ form of ~`            ([Neutral] の〜な形を見つける)  We need to `find a new form of` leadership that suits it
+
+## OTHERS
 - `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
-- `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but `that's the way it is.`
-  - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? `It's a thing now.`
-> `I’m not sure I follow`           ([Neutral] よく理解できません） `I’m not sure I follow` what you mean. Could you explain?
-> `How can I put this?`             ([Casual] なんて言えばいいかな) `How can I put this?` It’s a bit complicated.
-  - `What's the word for it?`       ([Casual] 何て言うんだっけ？)   `What's the word for it?` It's on the tip of my tongue.
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
-- `I'm fine with O`                     ([Casual] Oで大丈夫／Oで構わない) `I'm fine with either option,` so go ahead and choose.
-- `S V-ing, that'd be C`                ([Casual] Sしてたら、それはCだね) `Working late again, that'd be tiring.`
-- `just because A doesn't mean B`       ([Neutral] AだからといってBとは限らない) `Just because it's raining doesn't mean the event will be canceled.`
-- `The same is the case with O`         ([Neutral] Oも同様だ) `The same is the case with remote workers.`
-- `more of`                             ([Neutral] どちらかと言えば〜) `It’s more of` a suggestion than a rule.
-- `Turns out S V`                       ([Casual] ～ということがわかった) `Turns out she was right all along.`
-- `That sounds like O`                  ([Casual] それはOだね) `That sounds like` a lot of work.
-- `any O will do as long as S V`        ([Neutral] S V ならどんなOでもいい) `Any location will do as long as we have Wi-Fi.`
-- `the reason being that`               ([Neutral] 理由は～だからだ) She declined the offer, `the reason being that` she was too busy.
-- `be aware that`                       ([Neutral] ～に注意してください) `Be aware that` the deadline is next Friday.
-- `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
-- `My concern (for O) is (that) S V`    ([Neutral] （Oに対する）私の懸念は～だ) My `concern` is that the deadline might be too tight.
-
----
-
-## GREETING
-- [x] `How's your day going?`               ([Casual] 今日の調子はどう？) `How's your day going?` Hope it's been good so far.
-- [ ] `Is this a good time?`                ([Casual] 今いい？)
-- [x] `Do you have a minute/second?`        ([Casual] 今いい？)
-- [ ] `Do you have time?`                   ([Casual] 今いい？)
-- [x] `Is everything all right?`            ([Casual] 大丈夫？)
-
----
 
 ## INTRO
 - [x] `You know O?`                         ([Casual] 知っていますか？) `You know` our budget presentation today? / `You know` that guy we met ...?
@@ -58,8 +52,6 @@
 - [ ] `I'd like to ask you a favor.`        ([Casual] お願いがあるんだけど) `I'd like to ask you a favor` regarding the report.
 - [ ] `(Did) You wanted to see me?`         ([Casual] お呼びですか？) `(Did) You wanted to see me?` I’m here now.
 - [x] `Can I borrow you for a second?`      ([Casual] ちょっといい？) `Can I borrow you for a second?` I need your advice.
-
----
 
 ## REQUEST
 - [x] `I could use O`                       ([Casual] あったら助かる,ありがたい,ちょうど欲しい) `I could really use` your help right now.

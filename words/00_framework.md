@@ -84,6 +84,7 @@
 > `It's like` O                     ([Casual] まるでOみたい)        It's like a dream come true.
 > `It's more like` S V              ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
 > `It's more that` S V              ([Neutral] どちらかというと)    It's more that I need some time to think.
+  - `It's more of`                  ([Neutral] どちらかと言えば〜)  `It’s more of` a suggestion than a rule.
 > `It's not just the fact that` S V ([Neutral] ～だけが理由じゃない)It's not just the fact that you called me during a meeting.
 > `It's not like` S V               ([Casual] ～ってわけじゃない)   It's not like I forgot; I was just busy.
 > `It's not that A but (that) B`    ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
