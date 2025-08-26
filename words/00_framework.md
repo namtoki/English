@@ -421,6 +421,8 @@
 - `A in B`                          ([Neutral] BのうちのA)          1 in 10 people disagree.
 
 ## I MEAN
+as in
+one that is
 > `I mean`                          ([Casual] つまり、その)         I'm tired. `I mean`, I only slept 3 hours.
 > `what I mean is`                  ([Neutral] 言いたいのは)        `What I mean is`, we need more time.
 - `what I'm saying is`              ([Casual] 言ってるのは)         `What I'm saying is`, it's not that simple.
