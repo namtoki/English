@@ -52,7 +52,6 @@
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
 
 ## REQUEST
-- [x] `I could use O`                       ([Casual] あったら助かる,ありがたい,ちょうど欲しい) `I could really use` your help right now.
 - [x] `Do/Would you happen to know O?`      ([Polite] もしよろしければ教えていただけますか) `Do you happen to know` when the report is due?
 - [x] `Could you make O bigger?`            ([Neutral] Oをもっと大きくしてもらえますか？) `Could you make the font bigger?`
 - [x] `Could you go over it again?`         ([Neutral] もう一度説明してもらえますか？) `Could you go over it again?` I missed that part.

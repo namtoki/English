@@ -24,6 +24,27 @@
 - `shattered` /ˈʃætərd/               ([Neutral] 粉砕された)          The window was shattered by the ball.
 - `broken` /ˈbroʊkən/                 ([Neutral] 壊れた)              The broken chair cannot be used.
 
+## STIR
+- `stir` /stɜːr/                    ([Neutral] 感情を揺さぶる)      The movie stirred my emotions.
+- `fuel` /fjuːl/                    ([Neutral] 煽る、助長する)      His remarks fueled the debate.
+- `provoke` /prəˈvoʊk/              ([Neutral] 挑発する)            His comment provoked anger.
+- `rouse` /raʊz/                    ([Neutral] 目覚めさせる)        The speech roused the audience.
+- `agitate` /ˈædʒɪteɪt/             ([Neutral] かき乱す、扇動する)  The news agitated the crowd.
+- `incite` /ɪnˈsaɪt/                ([Neutral] 扇動する 駆り立てる) He incited the crowd to protest.
+- `perturb` /pərˈtɜːrb/             ([Formal] 心を乱す 動揺させる)  The news perturbed her greatly.
+
+## EXPAND
+- `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
+- `increase` /ɪnˈkriːs/             ([Neutral] 増加する、増やす)    Sales increased by 20%.
+- `extend` /ɪkˈstend/               ([Neutral] 延ばす、拡張する)    They extended the deadline.
+- `expand` /ɪkˈspænd/               ([Neutral] 拡張する 発展させる) They plan to expand the business.
+- `widen` /ˈwaɪdən/                 ([Neutral] 広げる、拡幅する)    They widened the road.
+- `broaden` /ˈbrɔːdən/              ([Neutral] 広げる、拡大する)    Travel broadens your horizons.
+- `enlarge` /ɪnˈlɑːrdʒ/             ([Neutral] 拡大する 大きくする) Can you enlarge this photo?
+- `stretch` /stretʃ/                ([Neutral] 伸ばす、拡張する)    We need to stretch the budget.
+- `swell` /swel/                    ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
+- `amplify` /ˈæmplɪfaɪ/             ([Formal] 拡大する、増幅する)   We need to amplify our efforts.
+
 ## 左右する・決定づける (使用頻度順)
 - ✅ `influence` /ˈɪnfluəns/        ([Neutral] 影響する、左右する)  Weather influences our mood.
 - ✅ `affect` /əˈfekt/              ([Neutral] 影響する、作用する)  The changes will affect everyone.
@@ -90,6 +111,7 @@
 - `authorize` /ˈɔːθəraɪz/           ([Formal] 権限を与える)         Only authorized personnel can enter this area.
 - `override` /ˌoʊvərˈraɪd/          ([Formal] 無効にする)           The president can override the veto.
 - `supersede` /ˌsuːpərˈsiːd/        ([Formal] 取って代わる)         The new law will supersede the old one.
+- `weather` /ˈweðər/                ([Neutral] 切り抜ける、乗り切る) The company weathered the crisis.
 - `overrule` /ˌoʊvərˈruːl/          ([Formal] 却下する)             The judge overruled the objection.
 - `nullify` /ˈnʌlɪˌfaɪ/             ([Formal] 無効化する)           The court nullified the contract.
 - `veto` /ˈviːtoʊ/                  ([Formal] 拒否権行使)           The governor vetoed the bill.

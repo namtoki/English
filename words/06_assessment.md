@@ -8,6 +8,10 @@
 
 ## VALIDITY
 - `be in effect` /bi ɪn ɪˈfekt/     ([Formal] 有効である)           A severe weather alert is in effect for the region as of six A.M.
+- `assured` /əˈʃʊrd/                ([Neutral] 保証された、確信した) You can be assured of success.
+- `guaranteed` /ˌɡærənˈtiːd/        ([Neutral] 保証された、確実な)  Success is guaranteed.
+- `promised` /ˈprɑːmɪst/            ([Neutral] 約束された)          The promised reward never came.
+- `warranted` /ˈwɔːrəntɪd/          ([Formal] 正当化された、保証された) His concern was warranted.
 - `be out of the question`          ([Neutral] 論外である)          Going to the party is out of the question!
 
 ## SOLID

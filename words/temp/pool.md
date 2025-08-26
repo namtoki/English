@@ -131,8 +131,6 @@ aggressor	9	【名】攻撃者、侵略者
 aggrieved	11	【形】法的に侵害を受けた、虐げられた、悲しんでいる		
 agile	12	【形】敏捷な、いきいきした、頭のきれる		
 aging	8	【名】老化、熟成 【形】年老いた、古ぼけた		
-agitate	9	【動】かき混ぜる、扇動する		
-agitation	8	【名】動揺、興奮、煽動		
 agonize	8	【動】苦悶する、必死に努力する		
 agony	5	【名】苦痛、感情		
 agrarian	12	【形】農業の、農地の		
@@ -222,7 +220,6 @@ amnesty	10	【名】恩赦
 amphibian	12	【名】両生類 【形】水陸両生の		
 amphitheater	12	【名】円形劇場		
 ample	6	【形】十分な、豊富な		
-amplify	9	【動】増幅する、展開する		
 amply	11	【副】十分に		
 analogous	9	【形】似ている、相似の		
 analogy	8	【名】類似、一致、共通点、類推		
@@ -403,9 +400,6 @@ assistant	3	【名】力を貸す人、助けとなるもの 【形】助けと�
 associate	4	【動】（AとBを）結びつけて考える、提携する 【名】共同経営者		
 association	4	【名】団体、交際、組合、協会		
 assorted	8	【形】種種雑多の、（～な）組み合わせの		
-assurance	5	【名】保証、断言		
-assure	4	【動】保証する、断言する		
-assured	10	【形】保証された、確実な、自信のある		
 astern	12	【副】後方に		
 asteroid	11	【名】小惑星、ヒトデ 【形】星状の		
 asthma	10	【名】喘息		
@@ -2612,8 +2606,6 @@ enigma	11	【名】なぞ、不可解な出来事
 enjoin	12	【動】命じる、要求する、禁じる		
 enjoyable	4	【形】楽しめる		
 enjoyment	4	【名】喜び		
-enlarge	5	【動】拡大する		
-enlargement	9	【名】写真の引きのばし、増大、拡大		
 enlighten	9	【動】啓発する、教え導く、知らせる		
 enlightenment	8	【名】啓発、啓蒙、悟り		
 enlist	8	【動】入隊する、協力する、参加する		
@@ -2626,7 +2618,6 @@ enroll	8	【動】登録する、入会させる、包む
 enrollment	6	【名】入学、記載、登録（者数）		
 enshrine	12	【動】正式に記す、神聖なものとして祭る、安置する		
 ensue	10	【動】続いて起こる、結果として起こる		
-ensure	5	【動】保証する、確実にする、確保する		
 entail	10	【動】伴う、必要とする		
 entangle	10	【動】巻き込む、もつれさせる、ひっかける		
 enterprise	4	【名】企業、事業、参加		
@@ -2788,7 +2779,6 @@ exit	2	【名】出口、出ていくこと 【動】退出する、終了させ
 exorbitant	12	【形】法外な、過度の		
 exorcise	12	【動】悪魔を追い払う、悩みを取り除く		
 exotic	8	【形】異国風の、風変わりな		
-expand	4	【動】拡大する、膨らむ、増す		
 expanse	8	【名】広がり、膨張、拡大		
 expansion	5	【名】拡大、発展		
 expatriate	11	【名】国外追放者 【動】故国から追放する 【形】国外居住の		
@@ -3214,7 +3204,6 @@ frustration	5	【名】欲求不満、挫折、失望
 fry	3	【動】フライにする、いためる、油で焼く		
 fuck	6	【動】性交する、干渉する 【名】性交 【間】くそっ		
 fudge	12	【動】まともに取り組まない、でっち上げる 【名】でっち上げ		
-fuel	2	【名】燃料 【動】燃料を供給する、燃料を得る		
 fugitive	10	【名】逃亡者		
 fulfillment	6	【名】実現、成就		
 fullness	8	【名】充満、充足、十分、ふくよかさ		
@@ -3486,17 +3475,12 @@ groundwork	8	【名】下地、基礎（工事）、背景
 grouping	6	【名】グループ分け、配合、配置		
 grouse	11	【動】不平を言う 【名】不平		
 grove	6	【名】林、木立		
-grower	6	【名】栽培者、飼育者		
-growl	7	【動】うなる、がみがみ言う、とどろく 【名】うなり声		
-grown	3	【形】成長した、成熟した		
-growth	3	【名】成長、発展、増加		
 grubby	12	【形】薄汚い、卑しい		
 grudge	11	【名】恨み 【動】出し惜しむ、妬む		
 grudging	11	【形】いやいやの、けちけちした		
 gruesome	11	【形】身の毛もよだつ		
 grumble	7	【動】不平を言う、ぶつぶつ言う 【名】不平、不満		
 grunt	11	【動】ブーブー鳴く・音をたてる 【名】不平、不満		
-guarantee	4	【動】保証する 【名】保証		
 guard	2	【名】番人、保護者 【動】守る、用心する		
 guardian	7	【名】保護者、守護者		
 guerrilla	8	【名】ゲリラ兵 【形】ゲリラ兵の		
@@ -3522,11 +3506,8 @@ gust	9	【名】一陣の風、突風、噴出 【動】急に吹く
 gusto	12	【名】心からの楽しみ、好み、飲食物の賞味		
 gut	8	【名】消化管、内臓、腹、勇気		
 gutter	9	【名】溝、貧民街、どん底の生活		
-guy	3	【名】男、やつ		
-gym	2	【名】体育館		
 gymnasium	8	【名】体育館、屋内競技場		
 gymnastics	10	【名】体操、体育、知的訓練		
-ha	9	【間】ほう、まあ、おや		
 habitat	6	【名】（動物たちの）生育環境、生育地、住所		
 habitual	6	【形】習慣の、常用する		
 habitually	8	【副】習慣的に、いつも		
@@ -3534,35 +3515,24 @@ hack	7	【動】たたき切る、不正侵入する、ハッキングをする
 hackneyed	12	【形】使い古された、陳腐な		
 haggard	12	【形】やつれた、狂暴な目つきの		
 hail	6	【動】あいさつする、歓迎する 【名】あいさつ		
-haircut	2	【名】散髪、髪型		
 hairdresser	5	【名】美容師、美容院		
 hairy	7	【形】毛深い、毛で覆われた、困難な		
 hale	10	【形】元気がよい、強健な 【動】強く引っ張る		
-hall	2	【名】ホール、玄関、廊下、会館、本部		
 hallmark	11	【名】品質証明、特質 【動】品質を保証する		
 hallway	6	【名】廊下、玄関		
 halo	11	【名】太陽や月の暈（かさ）、後光、神々しさ		
 halt	5	【動】停止する、止まる 【名】中止、休止		
 halve	7	【動】半分にする、半減する		
-ham	2	【名】ハム、ももの後部		
-hamburger	2	【名】ハンバーガー、牛肉のひき肉		
-hammer	2	【名】金づち 【動】つちで打つ		
-handbag	3	【名】ハンドバッグ		
-handbook	4	【名】手引き書、便覧		
 handcuff	11	【動】手錠をかける 【名】手錠（～s）		
-handful	4	【名】ひと握り、少量		
 handicap	6	【名】ハンディキャップ 【動】不利な立場に立たせる		
 handicapped	6	【形】障害のある、ハンディのある		
 handicraft	7	【名】手工芸（品）、手先の熟練		
 handiwork	10	【名】手仕事、手工品、方法		
-handkerchief	2	【名】ハンカチ		
 handling	5	【名】取り扱い、手で触れること		
 handmade	9	【形】手作りの		
 handout	7	【名】資料、サンプル、ビラ、印刷物		
 handshake	7	【名】握手		
-handsome	2	【形】ハンサムな、顔立ちが美しい		
 handwriting	7	【名】手書き、肉筆		
-hang	2	【動】掛ける、取りつける、掛かる		
 hangar	12	【名】格納庫、大きな納屋		
 hanger	5	【名】ハンガー		
 hanging	4	【名】絞首刑 【形】掛かった、ぶら下がった		
@@ -3581,7 +3551,6 @@ harmless	5	【形】無害の、安全な
 harmonica	5	【名】ハーモニカ		
 harmonious	7	【形】平和な、仲のよい、調和のとれた		
 harmonize	8	【動】調和させる、和音をつける、一致する		
-harmony	3	【名】調和、和声		
 harness	9	【名】馬車馬の引き具 【動】役立たせる、利用する		
 harp	3	【名】ハープ 【動】ハープを弾く		
 harrow	12	【名】馬鍬（まぐわ） 【動】人の心をかき乱す		
@@ -3589,8 +3558,6 @@ harrowing	11	【形】悲惨な、つらい
 harry	11	【動】うるさく求める、悩ます、何度も攻撃する		
 harvest	4	【名】収穫、収穫期 【動】収穫する		
 hassle	11	【動】悩ます、口論する 【名】けんか、やっかいな問題		
-haste	4	【名】迅速、急ぐ必要 【動】急ぐ		
-hasten	7	【動】急いで行く、早める		
 hastily	5	【副】急いで、急に、軽率に		
 hasty	5	【形】急な、短気な		
 hatchet	12	【名】手おの		
@@ -3607,7 +3574,6 @@ hazardous	9	【形】危険な、有害な、冒険的な
 haze	9	【名】もや、かすみ 【動】かすむ、ぼんやりする		
 hazelnut	8	【名】ハシバミの実、ヘーゼルナッツ		
 hazy	9	【形】かすみがかった、ぼんやりした		
-headache	2	【名】頭痛、困ったこと		
 headdress	9	【名】頭飾り、ヘアスタイル		
 heading	5	【名】表題、見出し		
 headlight	6	【名】ヘッドライト、前灯		
@@ -3618,7 +3584,6 @@ headphone	5	【名】ヘッドフォン
 headquarters	5	【名】本部、司令部、活動の中心		
 headteacher	10	【名】（英）校長（= principal）		
 heady	11	【形】興奮させる、威勢がよい、酔わせる、のぼせさせるような		
-health	2	【名】健康、健全、保健、衛生		
 healthcare	6	【名】保健医療		
 heap	5	【名】（積み重ねた）山、固まり		
 hearing	3	【名】聴力、意見聴取		
@@ -3651,8 +3616,6 @@ heiress	9	【名】女子相続人
 helicopter	2	【名】ヘリコプター 【動】ヘリコプターで飛ぶ		
 hell	2	【名】地獄、ひどい体験 【間】いまいましい		
 helm	10	【名】舵、支配 【動】舵をとる、指揮する		
-helmet	3	【名】ヘルメット		
-helpful	2	【形】役立つ、助けになる、有益な		
 helpless	3	【形】助けを得られない、体が不自由な		
 hem	12	【名】すそ 【動】へりを縫う、取り囲む		
 hemisphere	8	【名】半球、範囲、領域		
@@ -3667,18 +3630,15 @@ hereafter	9	【名】今後 【副】これから先
 heresy	11	【名】異説、異論、異端		
 heretic	12	【名】異端者、異教徒		
 hermit	12	【名】隠者、宗教的隠遁者		
-hero	2	【名】英雄、主人公		
 heroic	4	【形】英雄の、勇者にふさわしい		
 heroin	8	【名】ヘロイン		
 heroine	5	【名】ヒロイン、女主人公		
 heroism	9	【名】英雄的資質・行為		
 herring	9	【名】ニシン		
-herself	2	【代】彼女自身		
 hesitant	8	【形】ためらって		
 hesitate	4	【動】ためらう		
 hesitation	6	【名】ためらい		
 heterosexual	11	【名】異性愛の人 【形】異性愛の、異性の		
-hey	2	【間】おい、へえ		
 heyday	11	【名】全盛期、絶頂		
 hiccup	12	【名】しゃっくり、ちょっとした問題		
 hidden	4	【形】隠された、秘密の		
@@ -3688,19 +3648,14 @@ hierarchical	10	【形】階層制の
 hierarchy	8	【名】階層性、階級制、ヒエラルキー		
 highland	6	【名】高地、台地、山岳地方		
 highlight	5	【動】強調する、目立たせる 【名】呼びもの		
-highly	2	【副】高度に、おおいに		
 highness	9	【名】高いこと、殿下		
 highway	3	【名】幹線道路、交通網		
 hijack	7	【動】乗っ取る、ハイジャックする 【名】乗っ取り、ハイジャック		
-hike	5	【名】ハイキング 【動】ハイキングをする		
-hiking	2	【名】徒歩旅行、ハイキング		
 hilarious	11	【形】とてもおかしい、陽気な		
 hillside	4	【名】丘の中腹、丘陵の斜面		
 hilly	6	【形】小山の多い、小高い、けわしい		
-himself	2	【代】彼自身		
 hind	7	【形】後ろの		
 hindrance	7	【名】じゃま、妨害する人		
-hip	3	【名】ヒップ、腰		
 hippie	9	【名】ヒッピー		
 hippopotamus	5	【名】カバ｟短縮形：hippo｠		
 hiss	7	【動】シューと音をたてる、語気強く小声で言う 【名】シューという音		
@@ -3724,16 +3679,11 @@ holiness	6	【名】神聖、高潔
 holistic	10	【形】全体論的な、総体的な		
 holly	9	【名】モチノキ、ヒイラギ		
 holocaust	9	【名】大破壊、大虐殺、ユダヤ人大虐殺		
-holy	2	【形】神聖な		
 homecoming	7	【名】同窓会、帰郷		
 homeland	8	【名】母国、自国、故国		
 homeless	4	【形】家のない、ホームレスの		
 homely	10	【形】不器量な、やぼったい、家庭的な		
-homemade	3	【形】自家製の、国産の		
-homeroom	2	【名】ホームルーム		
-homesick	5	【形】ホームシックの 【名】ホームシック		
 homestead	10	【名】農家、家屋敷、家と敷地		
-hometown	3	【名】故郷、現在住んでいる町 【形】故郷の町の		
 homicide	8	【名】殺人（罪）、殺人犯		
 homogeneous	12	【形】同種の、均質の		
 homosexual	8	【名】同性愛者 【形】同性愛の		
@@ -3762,7 +3712,6 @@ hospice	9	【名】宿泊所、ホスピス
 hospitable	9	【形】温かくもてなす、適した		
 hospitality	6	【名】手厚いもてなし、歓待		
 hospitalize	8	【動】入院させる		
-host	2	【名】主人、司会役、大勢 【動】主人役を務める		
 hostage	8	【名】人質、抵当、質		
 hostel	7	【名】ホステル		
 hostile	6	【形】敵意をもった、対立する、敵の		
@@ -3771,7 +3720,6 @@ hound	7	【名】猟犬、熱中者 【動】追跡する
 household	4	【名】世帯、家族		
 housekeeper	5	【名】家政婦、家事をする人		
 housekeeping	5	【名】家事、家計費、日常業務		
-housework	3	【名】家事		
 hover	9	【動】浮かぶ、舞う、ためらう		
 howl	5	【動】遠ぼえする		
 hub	7	【名】中心地、ハブ 【形】中心的な		
@@ -3793,14 +3741,8 @@ humidity	8	【名】湿気、湿度
 humiliating	11	【形】屈辱的な、不面目な		
 humiliation	8	【名】辱められること、屈辱、不面目		
 humility	7	【名】謙そん、卑下、屈辱		
-humor	3	【名】ユーモア		
 humorous	5	【形】ユーモアのある、こっけいな		
 hump	11	【名】こぶ 【動】背を丸くする、努力する		
-hundredth	3	【形】第100の		
-hunger	3	【名】飢え、飢饉		
-hunt	2	【動】狩る 【名】狩り		
-hunter	3	【名】猟師、狩猟犬		
-hunting	4	【名】狩り		
 hurdle	7	【名】障害物 【動】飛び越す		
 hurl	7	【動】強く投げる、飛びかかる		
 hurrah	8	【間】フレー、万歳 【動】フレーと叫ぶ		
@@ -3827,12 +3769,10 @@ iceberg	10	【名】氷山
 iced	5	【形】氷で冷やした、氷で覆われた		
 icon	9	【名】偶像視される人、偶像、アイコン		
 icy	5	【形】氷のような、氷でつくった		
-ideal	3	【形】理想的な 【名】理想		
 idealism	8	【名】理想主義、理想化されたもの、観念論		
 idealist	9	【名】理想主義者、空想家		
 idealistic	7	【形】理想主義の、理想家の		
 idealize	6	【動】理想化する		
-ideally	5	【副】理想的に、観念的に		
 identical	7	【形】まったく同じ、同一の		
 identification	6	【名】同一であることの確認、身分証明書		
 identity	4	【名】身元、同一であること、本人であること		
@@ -3862,7 +3802,6 @@ illumination	7	【名】照明、明るくすること
 illustrated	8	【形】図解入りの 【名】写真・さし絵の豊富な雑誌		
 illustration	4	【名】さし絵、図解、説明		
 illustrious	12	【形】傑出した、輝かしい		
-image	2	【名】印象、像 【動】心に描く		
 imagery	8	【名】比ゆ的描写、心像		
 imaginable	8	【形】想像できる、考えられる、可能な		
 imbalance	8	【名】不安定、不釣り合い、平衡失調		
@@ -3872,10 +3811,7 @@ imitation	5	【名】偽造品、模倣
 immaterial	12	【形】無関係な、重要でない、非物質的な		
 immature	6	【形】未熟な、未完成の		
 immeasurable	9	【形】計れない、計り知れない		
-immediately	2	【副】すぐに、直接に、～するやいなや		
 immemorial	12	【形】遠い昔の、有史以前の		
-immense	4	【形】非常に大きな		
-immensely	7	【副】非常に、広大に		
 immerse	8	【動】浸す、没頭させる		
 immigrant	5	【名】移民 【形】移民に関する		
 immigrate	8	【動】移住する		
@@ -3963,10 +3899,6 @@ incidence	7	【名】発生、出現
 incidental	9	【形】偶然の、付随して起こる		
 incidentally	7	【副】ちなみに、付随的に、偶然に		
 incinerator	12	【名】焼却炉、火葬炉		
-incite	11	【動】あおる、励ます、鼓舞する		
-include	2	【動】含める		
-including	3	【前】含む		
-inclusion	7	【名】含有、算入、加入		
 inclusive	7	【形】含めて、すべてを含んだ、包括的な		
 incoherent	9	【形】つじつまの合わない、まとまりのない		
 incoming	8	【形】入ってくる、満ちてくる、生じる、新入りの 【名】到着		
@@ -4023,7 +3955,6 @@ indulgent	9	【形】寛大な、大目に見る、甘い
 industrial	3	【形】産業・工業の		
 industrialize	8	【動】工業化する、工業主義に転換する		
 industrious	5	【形】勤勉な、熱心な		
-industry	2	【名】産業、～業		
 ineffective	8	【形】効果のない、無効な、無力な、役に立たない		
 inefficiency	9	【名】非能率、無能、無効果		
 inefficient	8	【形】効果のない、能率的でない、無能な		
@@ -4092,7 +4023,6 @@ injured	4	【形】傷を負った
 injurious	10	【形】有害な、傷つける、無礼な		
 injury	3	【名】けが、傷害		
 injustice	7	【名】不公平、不正、不法		
-ink	2	【名】インク		
 inlaid	12	【形】模様を表面にはめ込んだ、象眼装飾した		
 inland	7	【形】内陸の 【副】内陸に 【名】内陸		
 inlet	12	【名】入り江、小海峡、注入口		
@@ -5891,7 +5821,6 @@ pleasantly	8	【副】愉快に、楽しく、愛想よく
 pleasurable	10	【形】楽しい、快い、満足を与える		
 pleasure	2	【名】喜び 【動】喜ばせる、楽しむ		
 plebiscite	12	【名】国民投票、一般投票		
-pledge	6	【名】誓約 【動】誓約で縛りつける		
 plenary	12	【形】全員出席の、完全な、正式の		
 plentiful	6	【形】有り余るほどの、豊富な、十分な		
 plenty	2	【名】多数、十分、豊富さ 【形】たくさんの		
@@ -6219,7 +6148,6 @@ provincial	5	【形】州の、地方の、いなかくさい、偏狭な 【名
 provision	5	【名】供給、支給、蓄え、条項、食糧		
 proviso	12	【名】条件、ただし書き		
 provocative	10	【形】挑発的な、物議をかもす 【名】誘発物		
-provoke	6	【動】立腹させる、挑発して～させる、誘発する		
 prowess	11	【名】戦場での勇気、優れた腕前		
 prowl	10	【動】こそこそとうろつく		
 proxy	10	【名】代理		
@@ -6799,7 +6727,6 @@ rotor	12	【名】ヘリコプターの回転翼、回転子
 rouge	8	【名】ほお紅、口紅 【動】紅をつける		
 roundabout	7	【形】遠回りの、間接の 【名】メリーゴーラウンド、ロータリー		
 roundup	12	【名】一斉逮捕、家畜の駆り集め、総括		
-rouse	7	【動】目覚めさせる 【名】覚醒、奮起		
 rout	11	【動】完敗させる 【名】総くずれ、暴徒		
 route	2	【名】道、手段 【動】送る		
 routine	5	【名】お決まりの手順、日課、ルーチン 【形】決まりきった		
@@ -7652,8 +7579,6 @@ stingy	10	【形】けちな、乏しい
 stink	9	【動】悪臭を放つ、悪臭で満たす 【名】悪臭、悪評		
 stint	11	【名】割り当てられた仕事 【動】出し惜しむ		
 stipulate	10	【動】条件として要求する、約束する		
-stir	4	【動】かき混ぜる、かき回す、動く 【名】かき回すこと		
-stirring	9	【形】感動的な、奮起させる 【名】（感情などが）湧き起こること		
 stitch	5	【動】縫う 【名】ひと針、縫い目		
 stock	3	【名】在庫品、株式、家畜 【形】手持ちの 【動】備える、仕入れる		
 stocking	3	【名】ストッキング		
@@ -7699,7 +7624,6 @@ streetcar	7	【名】路面電車、市街電車
 strength	2	【名】力、強さ		
 strengthen	5	【動】強化する、増加させる		
 stressful	5	【形】緊張の多い、緊張を引き起こす		
-stretch	2	【動】いっぱいに伸ばす 【名】伸ばすこと、乱用 【形】伸縮性のある		
 strew	11	【動】まき散らす、広める		
 stricken	11	【形】災害や病気に襲われた、打ちひしがれた		
 stride	5	【名】大股の足どり 【動】大股で歩く、またぐ		
@@ -7891,8 +7815,6 @@ sweetheart	6	【名】恋人、（呼びかけとして）ねえ、あなた
 sweetie	7	【名】恋人、かわいいもの		
 sweetly	6	【副】甘く、やさしく		
 sweetness	6	【名】甘さ、美しさ		
-swell	3	【動】ふくらむ 【名】増やすこと 【形】素晴らしい		
-swelling	7	【名】はれ、膨れ、膨らませること、隆起 【形】増大する、はれた		
 swerve	10	【動】急に逸れる、逸脱する 【名】逸れること、脱線		
 swimmer	3	【名】泳ぎ手		
 swimsuit	6	【名】水着		
@@ -8706,8 +8628,6 @@ warming	5	【名】暖めること 【形】暖める
 warmly	4	【副】暖かく、興奮ぎみに		
 warmth	4	【名】暖かいこと、熱心		
 warp	8	【動】よじ曲げる、そらせる、ゆがめる、曲がる		
-warrant	6	【名】令状、正当な理由 【動】正当な理由となる、当然である、保証する		
-warranty	9	【名】保証書、正当な理由		
 warren	11	【名】ウサギの繁殖地、過密な住居、ごみごみした所		
 warrior	5	【名】武人、兵士、闘士		
 warship	8	【名】軍艦		

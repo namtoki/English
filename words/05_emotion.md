@@ -90,6 +90,11 @@
 - `enraged` /ɪnˈreɪdʒd/             ([Formal] 激怒した)             The crowd became enraged.
 - `incensed` /ɪnˈsenst/             ([Formal] 激怒した)             They were incensed by the decision.
 - `aggravated` /ˈæɡrəveɪtɪd/        ([Casual] イライラした)         Stop it, you're getting me aggravated.
+- `agitated` /ˈædʒɪteɪtɪd/          ([Neutral] 動揺した、不安な)    He became agitated during the meeting.
+- `perturbed` /pərˈtɜːrbd/          ([Formal] 心配な、動揺した)     She looked perturbed by the news.
+- `provoked` /prəˈvoʊkt/            ([Neutral] 挑発された、怒った)  He felt provoked by her comments.
+- `roused` /raʊzd/                  ([Neutral] 奮起した、目覚めた)  The crowd was roused to action.
+- `stirred` /stɜːrd/                ([Neutral] 感動した、かき乱された) I was stirred by his speech.
 
 ## VENT
 > `vent` /vent/                     ([Neutral] 感情を発散する)      She vented her frustration to a friend.

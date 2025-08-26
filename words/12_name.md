@@ -136,6 +136,11 @@
 
 ## CONCEPT
 - `concept` /ˈkɑːnsept/             ([Neutral] 概念、構想)          The concept looks good, but we need more details.
+- `assurance` /əˈʃʊrəns/            ([Neutral] 保証、確信)          He gave me his assurance.
+- `guarantee` /ˌɡærənˈtiː/          ([Neutral] 保証、保証書)        The product comes with a guarantee.
+- `pledge` /pledʒ/                  ([Formal] 誓約、約束)           He made a pledge to help.
+- `promise` /ˈprɑːmɪs/              ([Neutral] 約束、保証)          She kept her promise.
+- `warranty` /ˈwɔːrənti/            ([Formal] 保証書、保証)         The warranty covers repairs.
 
 ## FACTION
 > `faction` /ˈfækʃən/               ([Neutral] 派閥、分派)          The party split into several factions.
@@ -151,6 +156,13 @@
 - `derivative` /dɪˈrɪvətɪv/         ([Formal] 派生物、派生的な)     This product is a derivative of their original design.
   - `derive` /dɪˈraɪv/              ([Formal] 由来する、派生する)   The word derives from Latin.
   - `derivation` /ˌderɪˈveɪʃən/     ([Formal] 由来、派生)           The derivation of this theory is complex.
+
+## AGITATION
+- `agitation` /ˌædʒɪˈteɪʃən/        ([Neutral] 動揺、扇動)          His agitation was obvious.
+- `agitator` /ˈædʒɪteɪtər/          ([Neutral] 扇動者、攪拌器)      The agitator stirred up the crowd.
+- `incitement` /ɪnˈsaɪtmənt/        ([Neutral] 扇動、刺激)          The incitement led to riots.
+- `perturbation` /ˌpɜːrtərˈbeɪʃən/  ([Formal] 動揺、混乱)           Her perturbation was evident.
+- `provocation` /ˌprɑːvəˈkeɪʃən/    ([Neutral] 挑発、刺激)          He acted without provocation.
 
 ## DREAM
 - `dream` /driːm/                   ([Neutral] 夢、空想)            It was just a bad dream.

@@ -198,3 +198,11 @@
   - `accomplished` /əˈkʌmplɪʃt/     ([Neutral] 熟練した、成就した)  She is an accomplished pianist.
 - `triumph` /ˈtraɪʌmf/              ([Neutral] 勝利、大成功)        The team's triumph was celebrated.
   - `triumphant` /traɪˈʌmfənt/      ([Neutral] 勝利した、勝ち誇った)The triumphant team celebrated loudly.
+
+## ASSURE
+- `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
+- `ensure` /ɪnˈʃʊr/                 ([Neutral] 確実にする 保証する) Please ensure the door is locked.
+- `guarantee` /ˌɡærənˈtiː/          ([Neutral] 保証する、約束する)  We guarantee quality service.
+- `pledge` /pledʒ/                  ([Formal] 誓約する、約束する)   He pledged his support.
+- `promise` /ˈprɑːmɪs/              ([Neutral] 約束する、保証する)  She promised to call.
+- `warrant` /ˈwɔːrənt/              ([Formal] 保証する、正当化する) This doesn't warrant such action.
