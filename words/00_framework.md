@@ -78,24 +78,24 @@
 
 ## I THINK
 > `I think` /aɪ θɪŋk/               ([Casual] 私は思う)             I think we should leave now.
-> `It's almost like` O              ([Casual] ほとんどOみたい)      It's almost like we're starting from scratch.
-> `It's just that` S V              ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
+> `It's more    of` O               ([Neutral] どちらかと言えば〜)  It’s more of a suggestion than a rule.
+> `It's         like` O             ([Casual] まるでOみたい)        It's like a dream come true.
+> `It's not     like` O             ([Casual] ～ってわけじゃない)   It's not like a traditional classroom.
+> `It's just    like` O             ([Casual] まさにOだ)            It's just like running a marathon every day!
+> `It's almost  like` O             ([Casual] ほとんどOみたい)      It's almost like we're starting from scratch.
 > `It's kind of like` O             ([Casual] ちょっとOっぽい)      It's kind of like a puzzle you have to solve.
-> `It's like` O                     ([Casual] まるでOみたい)        It's like a dream come true.
-> `It's more like` S V              ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
-> `It's more that` S V              ([Neutral] どちらかというと)    It's more that I need some time to think.
-  - `It's more of`                  ([Neutral] どちらかと言えば〜)  `It’s more of` a suggestion than a rule.
-> `It's not just the fact that` S V ([Neutral] ～だけが理由じゃない)It's not just the fact that you called me during a meeting.
-> `It's not like` S V               ([Casual] ～ってわけじゃない)   It's not like I forgot; I was just busy.
+> `It's more    like` O             ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
+> `It's not               that` S V ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
+> `It's just              that` S V ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
+> `It's more              that` S V ([Neutral] どちらかというと)    It's more that I need some time to think.
+> `It's          the fact that` S V ([Neutral] ～が問題なんだ)      It's the fact that it's so diverse.
+> `It's not      the fact that` S V ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
+> `It's not just the fact that` S V ([Neutral] だけが理由じゃない)  It's not just the fact that you called ...
 > `It's not that A but (that) B`    ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
-> `It's not that` S V               ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
-> `It's not the fact that` S V      ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
-> `It's the fact that` S V          ([Neutral] ～が問題なんだ)      It's the fact that it's so diverse.
-- `My take is` /maɪ teɪk ɪz/        ([Casual] 私の見方は)           My take is that we should proceed.
 > `My understanding is (that)` S V  ([Neutral] 私の理解では)        My understanding is that we start Monday.
-- `be something that`               ([Neutral] ということだ)        Quality is something that matters most to us.
+- `My take is` /maɪ teɪk ɪz/        ([Casual] 私の見方は)           My take is that we should proceed.
 
-## I BELIEVE
+## I'M SURE THAT / I'M CONFIDENT THAT
 - `I believe` S V                   ([Neutral] 私は信じる)          I believe we can achieve this goal.
 - `I bet` S V                       ([Casual] きっと～だ)           I bet he forgot about the meeting.
 - `I hope` S V                      ([Neutral] ～であってほしい)    I hope everything goes smoothly tomorrow.
@@ -107,7 +107,7 @@
 - `I'm positive (that)` S V         ([Casual] ～を確信している)     I'm positive that I locked the door.
 - `I have no doubt (that)` S V      ([Formal] ～を疑わない)         I have no doubt that she'll succeed.
 
-## I GUESS
+## IT'S LIKELY THAT / CHANCES ARE / THERE'S A CHANCE THAT
 > `It appears (that)` S V           ([Formal] ～のようだ)           It appears that the system is down.
 > `It looks like` S V               ([Casual] ～みたいだ)           It looks like it's going to rain.
 > `It seems (that)` S V             ([Neutral] ～のようだ)          It seems that we have a problem.
@@ -205,6 +205,7 @@
 - `by virtue of` /baɪ ˈvɜːrtʃuː əv/ ([Formal] ～によって)           She succeeded by virtue of hard work.
 - `in view of` /ɪn vjuː əv/         ([Formal] ～を考慮して)         In view of the circumstances, we'll wait.
 - `on the grounds that`             ([Formal] ～を理由に)           He was fired on the grounds that he lied.
+- `the reason being that`           ([Neutral] 理由は～だからだ)    She declined it, the reason being that she was too busy.
 
 ## IN ORDER TO / SO THAT
 > `to` /tuː/                        ([Casual] ～するために)         I left early to catch the train.
@@ -376,10 +377,10 @@
 - `and things` /ænd θɪŋz/           ([Casual] とかいろいろ)         She bought shoes, bags, and things.
 - `and all that jazz`               ([Casual] そういうもの全部)     He talks about success, money, and all that jazz.
 
-## AMOUNT
-- `tons of`                         ([Casual] たくさんの)           I have tons of homework.
+## TONS OF / A BUNCH OF
+> `tons of`                         ([Casual] たくさんの)           I have tons of homework.
 - `loads of`                        ([Casual] たくさんの)           We have loads of time.
-- `a bunch of`                      ([Casual] たくさんの)           A bunch of people came.
+> `a bunch of`                      ([Casual] たくさんの)           A bunch of people came.
 - `heaps of`                        ([Casual] 山ほどの)             There are heaps of problems.
 - `masses of`                       ([Casual] 大量の)               Masses of people attended.
 - `different`                       ([Neutral] 異なる)              Different people have different views.

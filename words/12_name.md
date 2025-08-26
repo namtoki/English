@@ -18,6 +18,7 @@
 ## STUFF
 > `thing`                           ([Neutral] モノ、コト)          That's the `thing` I was looking for.
 > `something`                       ([Neutral] 何か)                I need `something` to drink.
+  - `be something that`               ([Neutral] ということだ)        Quality is something that matters most to us.
 > `anything`                        ([Neutral] 何でも、何か)        Do you need `anything` from the store?
 - `everything`                      ([Neutral] 全て)                `Everything` is going to be fine.
 - `nothing`                         ([Neutral] 何も〜ない)          There's `nothing` to worry about.

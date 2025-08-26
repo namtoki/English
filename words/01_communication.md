@@ -44,7 +44,7 @@
 > `elaborate` /ɪˈlæbəreɪt/          ([Formal] 詳しく説明する)       Could you elaborate on that?
 - `illustrate` /ˈɪləstreɪt/         ([Neutral] 説明する、例証する)  This example illustrates my point.
 - `demonstrate` /ˈdemənstreɪt/      ([Neutral] 実演して説明する)    Let me demonstrate how it works.
-- `cut to the chase`                ([Casual] 要点を言う)           Let me cut to the chase.
+> `cut to the chase`                ([Casual] 要点を言う)           Let me cut to the chase.
 
 ## CONTACT
 - `contact` /ˈkɑːntækt/             ([Neutral] 連絡する)            I'll contact you later.
@@ -53,7 +53,7 @@
 - `reach out` /riːtʃ aʊt/           ([Neutral] 連絡を取る)          I'll reach out to them.
 - `hit up` /hɪt ʌp/                 ([Slang] 連絡する)              Hit me up later.
 - `drop a line` /drɑːp ə laɪn/      ([Informal] 一報入れる)         Drop me a line sometime.
-- `get back to` /ɡet bæk tuː/       ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
+> `get back to` /ɡet bæk tuː/       ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
 - `get hold of` /ɡet hoʊld əv/      ([Neutral] 連絡を取る)          I couldn't get hold of him.
 - `get ahold of` /ɡet əˈhoʊld əv/   ([Informal] 連絡を取る)         Try to get ahold of her.
 
@@ -70,10 +70,11 @@
 > `pass along` /pæs əˈlɔːŋ/         ([Neutral] 情報を伝える)        Please pass along the message.
 - `relay` /rɪˈleɪ/                  ([Neutral] 中継する、伝える)    Please relay this message to her.
 
-## SUGGEST
-> `suggest` /səˈdʒest/              ([Neutral] 提案する、暗示する)  I suggest we leave early.
+## I WOULD
+> `I would` /aɪ wʊd/                ([Polite] 私なら〜します)       I would suggest taking a break.
+- `suggest` /səˈdʒest/              ([Neutral] 提案する、暗示する)  I suggest we leave early.
   - `suggestive` /səˈdʒestɪv/       ([Writing] 連想させる、示唆的)  The painting has a suggestive quality.
-> `recommend` /ˌrekəˈmend/          ([Neutral] 推薦する、勧める)    I recommend this restaurant.
+- `recommend` /ˌrekəˈmend/          ([Neutral] 推薦する、勧める)    I recommend this restaurant.
 - `advise` /ədˈvaɪz/                ([Neutral] 助言する、忠告する)  I advise you to be careful.
 - `propose` /prəˈpoʊz/              ([Formal] 提案する、申し込む)   She proposed a new plan.
 - `put forward` /pʊt ˈfɔːrwərd/     ([Formal] 提出する、提案する)   He put forward a new idea.
@@ -90,7 +91,7 @@
 - `single out` /ˈsɪŋɡəl aʊt/        ([Neutral] 選び出す、特定する)  He was singled out for praise.
 - `pick out` /pɪk aʊt/              ([Casual] 選び出す、指定する)   Pick out your favorite color.
 
-## WARN
+## WATCH OUT
 - `warn` /wɔːrn/                    ([Neutral] 警告する、注意する)  I warned him about the danger.
 - `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる、注意)  Remind me to call tomorrow.
 - `alert` /əˈlɜːrt/                 ([Neutral] 警戒させる 注意喚起) We alerted them to the problem.
@@ -107,7 +108,8 @@
   - `forewarning` /fɔːrˈwɔːrnɪŋ/    ([Formal] 事前警告)             They gave us no forewarning.
 - `counsel` /ˈkaʊnsəl/              ([Formal] 助言する、相談する)   The lawyer counseled patience.
 
-## URGE
+## MAKE
+- `make` /meɪk/                     ([Neutral] させる、強いる)      They made him apologize.
 - `urge` /ɜːrdʒ/                    ([Neutral] 強く勧める、促す)    I urge you to act quickly.
 - `encourage` /ɪnˈkɜːrɪdʒ/          ([Neutral] 励ます、奨励する)    She encouraged me to apply.
 - `press` /pres/                    ([Neutral] 強く勧める、迫る)    They pressed him for an answer.

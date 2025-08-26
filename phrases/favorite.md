@@ -35,7 +35,6 @@
   - `It's been a long time since S V`([Neutral] )                   It's been a long time since we visited that place.
 - `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
 - `just because A doesn't mean B`   ([Neutral] AだからといってBとは限らない) Just because it's raining doesn't mean the event will be canceled.
-  - `the reason being that`         ([Neutral] 理由は～だからだ)    She declined the offer, the reason being that she was too busy.
 - `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
   - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
   - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
