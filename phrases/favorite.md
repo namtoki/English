@@ -1,17 +1,27 @@
 # Favorite
 
+## HOW ARE YOU?
+- `How are you?`                    ([Formal] いかがですか？)       How are you today?
+- `How are you doing?`              ([Neutral] お元気ですか？)      How are you doing lately?
+- `How's it going?`                 ([Casual] 調子はどう？)         How's it going with work?
+- `How are things?`                 ([Casual] 最近どう？)           How are things at home?
+- `How's your day going?`           ([Casual] 今日の調子はどう？)   How's your day going so far?
+- `How've you been?`                ([Casual] 元気だった？)         How've you been since last time?
+- `What's up?`                      ([Casual] どう？何してる？)     What's up with you?
+
+## DO YOU HAVE TIME?
+- `Do you have time?`               ([Neutral] お時間ありますか？)  Do you have time to talk?
+- `Is this a good time?`            ([Casual] 今いい？)             Is this a good time to call?
+- `Do you have a minute?`           ([Casual] ちょっといい？)       Do you have a minute to discuss this?
+- `Can I borrow you for a second?`  ([Casual] ちょっといい？)       Can I borrow you for a second? I need your advice.
+
 ## CONVERSATION
-- `How's your day going?`           ([Casual] 今日の調子はどう？)
-- `Is this a good time?`            ([Casual] 今いい？)
-- `Do you have a minute/second?`    ([Casual] 今いい？)
-  - `Do you have time?`             ([Casual] 今いい？)
-  - `Can I borrow you for a second?`([Casual] ちょっといい？)       `Can I borrow you for a second?` I need your advice.
 - `Is everything all right?`        ([Casual] 大丈夫？)
-- `You know O?`                     ([Casual] 知っていますか？)     `You know` our budget presentation today? / `You know` that guy we met ...?
-- `You know how S V?`               ([Casual] ～ってわかるでしょ？) `You know how people always say time flies?` Well, it really does.
-- `Do you remember that O?`         ([Casual] 覚えている？)         `Do you remember that` bike at ABC Department Store?
-- `Remember when S V?`              ([Casual] 覚えてる？したとき)   `Remember when we got lost in Tokyo?` That was wild.
-- `Did you hear O?`                 ([Casual] 聞きました？)         `Did you hear` about Kim? She got promoted.
+- `You know O?`                     ([Casual] 知っていますか？)     You know our budget presentation today?
+  - `You know how S V?`             ([Casual] ～ってわかるでしょ？) You know how people always say time flies?
+  - `Remember when S V?`            ([Casual] 覚えてる？したとき)   Remember when we got lost in Tokyo? That was wild.
+    - `Do you remember that O?`     ([Casual] 覚えている？)         Do you remember that bike at ABC Department Store?
+  - `Did you hear O?`               ([Casual] 聞きました？)         Did you hear about Kim? She got promoted.
 - `I told you O, right?`            ([Casual] 〜って言ったよね？)   `I told you it was going to rain, right?` Now look at the sky!
 - `I'd like to ask you a favor.`    ([Casual] お願いがあるんだけど) `I'd like to ask you a favor` regarding the report.
 - `(Did) You wanted to see me?`     ([Casual] お呼びですか？)       `(Did) You wanted to see me?` I’m here now.
