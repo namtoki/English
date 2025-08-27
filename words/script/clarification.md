@@ -1,15 +1,15 @@
 
 - 01_framework/framework.md - お決まりの構文構造パターンや副詞表現
 - 02_verb/performative.md - 遂行動詞 (思った瞬間に行動が完了している動詞)
-- 02_verb/transitive/communication.md - 意思疎通・表現
-- 02_verb/transitive/others.md - 他のものに影響を与える動作
-- 02_verb/intransitive/intransitive.md - 他のものに影響を与えない動作 (walk, pass など)
+- 02_verb/transitive/communication.md - 他のものに影響を与える動詞 (意思疎通・表現)
+- 02_verb/transitive/others.md - 他のものに影響を与える動詞 (その他)
+- 02_verb/intransitive/intransitive.md - 他のものに影響を与えない動詞 (walk, pass などの動作とか)
 - 03_adjective_noun/appearance.md - 服装・外見に関する名詞、形容詞
-- 03_adjective_noun/assessment.md - 客観的な物, 人に対する評価
-- 03_adjective_noun/emotion.md - 主観的な感情・気持ち
-- 03_adjective_noun/health.md - 医療・健康関連の動詞、名詞
-- 03_adjective_noun/money.md - 金銭・財政関連の動詞、名詞
-- 03_adjective_noun/properties.md - 物理的性質に関する形容詞
-- 03_adjective_noun/common.md - その他物事の名詞
-- 04_adverb/space.md - 空間・空間の状態・位置・場所に関する名詞、形容詞
+- 03_adjective_noun/assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞
+- 03_adjective_noun/emotion.md - 主観的な感情・気持ちを表現する名詞、形容詞
+- 03_adjective_noun/health.md - 医療・健康関連の名詞、形容詞
+- 03_adjective_noun/money.md - 金銭・財政関連の名詞、形容詞
+- 03_adjective_noun/properties.md - 物理的性質に関する名詞、形容詞
+- 03_adjective_noun/common.md - その他物事の名詞、形容詞
+- 04_adverb/space.md - 空間・空間の状態・位置・場所に関する副詞
 - 04_adverb/time.md - 時間関連の副詞
