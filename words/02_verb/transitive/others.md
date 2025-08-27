@@ -351,3 +351,16 @@
   - `summon` /ˈsʌmən/               ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
     - `summons` /ˈsʌmənz/           ([Writing] 召喚状、呼び出し)    He received a summons to appear in court.
 
+## TREAT
+- `treat` /triːt/                   ([Neutral] 治療する)            They treated his broken arm.
+- `heal` /hiːl/                     ([Neutral] 治る、癒す)          The wound healed quickly.
+- `cure` /kjʊə/                     ([Neutral] 治す、治療法)        Scientists are searching for a cure.
+- `prescribe` /prɪˈskraɪb/          ([Medical] 処方する)            The doctor prescribed antibiotics.
+- `treatment` /ˈtriːtmənt/          ([Medical] 治療)                The treatment was successful.
+- `care` /keə/                      ([Neutral] ケア、治療)          She received excellent medical care.
+- `medication` /ˌmedɪˈkeɪʃən/       ([Medical] 薬物治療)            He's on medication for diabetes.
+- `healing` /ˈhiːlɪŋ/               ([Neutral] 治癒、回復)          The healing process takes time.
+- `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
+  - `therapeutic` /ˌθerəˈpjuːtɪk/   ([Medical] 治療的な)            The therapeutic effect was significant.
+- `remedy` /ˈremədi/                ([Neutral] 治療法、救済策)      Home remedies can be effective.
+

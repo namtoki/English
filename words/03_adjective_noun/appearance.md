@@ -14,26 +14,6 @@
   - `gear` /ɡɪər/                   ([Casual] [スポーツ] 装備、服装)  Don't forget your hiking gear.
   - `costume` /ˈkɒstjuːm/           ([Neutral] [特定用途] 衣装、仮装) She wore a traditional costume.
 
-## PUT ON
-> `put on` /pʊt ɒn/                 ([Neutral] 着る、身に着ける)    Please put on your jacket.
-> `wear` /weər/                     ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
-- `slip on` /slɪp ɒn/               ([Casual] さっと着る)           I'll just slip on a sweater.
-- `dress up` /dres ʌp/              ([Casual] おしゃれする)         She loves to dress up for parties.
-- `throw on` /θrəʊ ɒn/              ([Casual] 急いで着る)           I threw on my jacket and left.
-- `have on` /hæv ɒn/                ([Neutral] 着ている)            What do you have on today?
-- `don` /dɒn/                       ([Formal] 身に着ける)           He donned his formal attire.
-- `sport` /spɔːt/                   ([Casual] 身に着けて見せる)     She was sporting a new haircut.
-- `clothe` /kləʊð/                  ([Formal] 服を着せる)           They clothed the children warmly.
-- `try on` /traɪ ɒn/                ([Neutral] 試着する)            I want to try on this shirt.
-
-## TAKE OFF
-> `take off` /teɪk ɒf/              ([Neutral] 脱ぐ)                Take off your shoes at the door.
-- `undress` /ʌnˈdres/               ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
-- `shed` /ʃɛd/                      ([Neutral] 脱ぐ)                He shed his coat at the door.
-- `slip off` /slɪp ɒf/              ([Casual] さっと脱ぐ)           She slipped off her shoes.
-- `doff` /dɒf/                      ([Formal] 脱ぐ)                 He doffed his hat politely.
-- `strip` /strɪp/                   ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
-
 ## OTHERS
 - `wear` /weər/                     ([Neutral] 着用、磨耗)          The shoes show signs of wear.
 - `wearer` /ˈweərər/                ([Neutral] 着用者)              The wearer of this hat is stylish.

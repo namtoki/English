@@ -1,19 +1,5 @@
 # Work
 
-## BE READY TO / BE ON HAND
-> `ready to`                        ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
-  - `get ready`                     ([Neutral] 準備する)            Get ready for the presentation.
-  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
-- `prepare` /prɪˈper/               ([Neutral] 準備する、用意する)  Let's prepare everything we need.
-  - `be prepared`                   ([Neutral] 準備ができている)    Be prepared for questions.
-  - `make preparations`             ([Formal] 準備する)             Make preparations for the event.
-- `set up` /set ʌp/                 ([Neutral] 設定する、手配する)  I'll set up the equipment.
-  - `gear up` /ɡɪr ʌp/              ([Casual] 準備する)             We're gearing up for the launch.
-> `be on hand`                      ([Neutral] 手元にある)          The tools are on hand.
-  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
-- `make arrangements`               ([Neutral] 手配する)            I'll make arrangements for the trip.
-- `put in place`                    ([Neutral] 準備を整える)        Put everything in place first.
-
 ## MOST OF ALL
 - `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
 - `above all` /əˈbʌv ɔːl/           ([Neutral] 何よりも、特に)      Above all, be true to yourself.

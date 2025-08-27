@@ -1,5 +1,25 @@
 # Not Transitive
 
+## PUT ON
+> `put on` /pʊt ɒn/                 ([Neutral] 着る、身に着ける)    Please put on your jacket.
+> `wear` /weər/                     ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
+- `slip on` /slɪp ɒn/               ([Casual] さっと着る)           I'll just slip on a sweater.
+- `dress up` /dres ʌp/              ([Casual] おしゃれする)         She loves to dress up for parties.
+- `throw on` /θrəʊ ɒn/              ([Casual] 急いで着る)           I threw on my jacket and left.
+- `have on` /hæv ɒn/                ([Neutral] 着ている)            What do you have on today?
+- `don` /dɒn/                       ([Formal] 身に着ける)           He donned his formal attire.
+- `sport` /spɔːt/                   ([Casual] 身に着けて見せる)     She was sporting a new haircut.
+- `clothe` /kləʊð/                  ([Formal] 服を着せる)           They clothed the children warmly.
+- `try on` /traɪ ɒn/                ([Neutral] 試着する)            I want to try on this shirt.
+
+## TAKE OFF
+> `take off` /teɪk ɒf/              ([Neutral] 脱ぐ)                Take off your shoes at the door.
+- `undress` /ʌnˈdres/               ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
+- `shed` /ʃɛd/                      ([Neutral] 脱ぐ)                He shed his coat at the door.
+- `slip off` /slɪp ɒf/              ([Casual] さっと脱ぐ)           She slipped off her shoes.
+- `doff` /dɒf/                      ([Formal] 脱ぐ)                 He doffed his hat politely.
+- `strip` /strɪp/                   ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
+
 ## GET TOGETHER
 - `get together` /ɡet təˈɡeðər/     ([Casual] 集まる)               Let's get together with the old college friends
 - `gather` /ˈɡæðər/                 ([Neutral] 集まる)              Let's gather at the park tomorrow.
@@ -98,3 +118,64 @@
 - [ ] `lightly`                             ([Neutral] そっと) She seems angry, you should tread `lightly.`
 - [ ] `back and forth`                      ([Neutral] 行ったり来たり) Bob was pacing `back and forth` along the sidewalk.
 - [ ] `to and fro`                          ([Neutral] 行ったり来たり) I have been traveling `to and fro` between Canada and the U.K for years.
+
+## SPEND
+- `spend` /spend/                   ([Neutral] 使う、費やす)        I spend too much on clothes.
+  - `spending` /ˈspendɪŋ/           ([Neutral] 支出)                Government spending has increased.
+- `splurge` /splɜːdʒ/               ([Casual] 散財する)             I decided to splurge on a new car.
+- `invest` /ɪnˈvest/                ([Neutral] 投資する)            She invested in the stock market.
+- `allocate` /ˈæləkeɪt/             ([Formal] 配分する)             We need to allocate funds wisely.
+- `budget` /ˈbʌdʒɪt/                ([Neutral] 予算を立てる)        I budget $200 for groceries monthly.
+- `afford` /əˈfɔːd/                 ([Neutral] 余裕がある)          Can you afford a new car?
+- `pay for` /peɪ fɔː/               ([Neutral] 支払う)              I'll pay for dinner tonight.
+- `contribute` /kənˈtrɪbjuːt/       ([Formal] 寄付する)             They contribute to charity regularly.
+- `fund` /fʌnd/                     ([Neutral] 資金を出す)          The government funded the project.
+
+## WASTE
+- `waste` /weɪst/                   ([Neutral] 無駄にする)          Don't waste your time on this.
+  - `wasteful` /ˈweɪstfəl/          ([Neutral] 無駄遣いの)          That's a wasteful use of resources.
+- `blow` /bləʊ/                     ([Casual] 浪費する)             He blew all his money at the casino.
+- `throw away` /θrəʊ əˈweɪ/         ([Neutral] 無駄にする)          Don't throw away your money on that.
+- `burn through` /bɜːn θruː/        ([Casual] 使い果たす)           He burned through his savings in a month.
+- `drain` /dreɪn/                   ([Neutral] 使い果たす)          This project is draining our budget.
+- `spend like water` /spend/        ([Casual] 湯水のように使う)     She spends money like water.
+> `squander` /ˈskwɒndə/             ([Writing] 浪費する)            Don't squander your money on useless things.
+- `flush down` /flʌʃ daʊn/          ([Casual] 無駄にする)           He flushed his money down the drain.
+- `fritter` /ˈfrɪtə/                ([Writing] 浪費する)            He frittered away his inheritance.
+
+## GET BETTER
+> `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
+  > `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
+  > `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
+- `recover` /rɪˈkʌvər/              ([Neutral] 回復する)            She recovered from the illness.
+- `heal` /hiːl/                     ([Neutral] 癒える、治る)        The wound will heal in time.
+- `improve` /ɪmˈpruːv/              ([Neutral] 改善する、良くなる)  His condition is improving daily.
+- `bounce back` /baʊns bæk/         ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
+> `pull through` /pʊl θruː/         ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
+- `get back on one's feet`          ([Casual] 立ち直る)             It took months to get back on his feet.
+- `pick up` /pɪk ʌp/                ([Casual] 回復する、元気になる) She's starting to pick up now.
+- `mend` /mend/                     ([Neutral] 回復する、修復する)  His broken bones are mending well.
+  - `on the mend` /ɒn ðə mend/      ([Casual] 回復中)               He's on the mend now.
+- `recuperate` /rɪˈkuːpəreɪt/       ([Formal] 回復する、療養する)   He's recuperating at home.
+  - `recuperative` /rɪˈkuːpərətɪv/  ([Writing] 回復力のある)        The recuperative process takes time.
+- `turn the corner`                 ([Neutral] 峠を越える)          The patient has turned the corner.
+> `come around` /kʌm əˈraʊnd/       ([Neutral] 意識を取り戻す)      He came around after the surgery.
+  - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
+- `perk up` /pɜːk ʌp/               ([Casual] 元気を取り戻す)       She perked up after some rest.
+- `rally` /ˈræli/                   ([Medical] 持ち直す)            The patient rallied overnight.
+- `rehabilitate` /ˌriːəˈbɪlɪteɪt/   ([Formal] リハビリする)         They rehabilitated his injured knee.
+- `restore` /rɪˈstɔːr/              ([Formal] 回復する、復元する)   The treatment restored his health.
+- `revive` /rɪˈvaɪv/                ([Medical] 蘇生する、復活する)  The paramedics revived him.
+- `rejuvenate` /rɪˈdʒuːvəneɪt/      ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
+- `regenerate` /rɪˈdʒenəreɪt/       ([Medical] 再生する)            Some tissues can regenerate naturally.
+- `recoup` /rɪˈkuːp/                ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
+- `convalesce` /ˌkɒnvəˈles/         ([Writing] 療養す 回復期にある) She's convalescing after surgery.
+  - `convalescence`/ˌkɒnvəˈlesəns/  ([Writing] 療養期間)            His convalescence lasted months.
+  - `convalescent` /ˌkɒnvəˈlesənt/  ([Writing] 回復期の患者)        The convalescent home provides care.
+> `remission` /rɪˈmɪʃən/            ([Medical] 寛解、軽快)          The cancer is in remission.
+
+## SEE A DOCTOR
+> `see a doctor`                    ([Neutral] 医者に診てもらう)    I need to see a doctor about this pain.
+> `go to the doctor`                ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
+- `consult a doctor`                ([Formal] 医師に相談する)       Please consult a doctor before taking this.
+- `get checked`                     ([Casual] 検査を受ける)         You should get checked soon.
