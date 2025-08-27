@@ -21,3 +21,11 @@ rebut
 disseminate
 promulgate
 proliferate
+
+surmise
+conjecture
+postulate
+infer
+concoct
+conjure
+fathom

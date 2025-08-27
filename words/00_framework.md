@@ -167,16 +167,16 @@
 ## IN THE SENSE THAT
 > `in terms of` /ɪn tɜːrmz əv/      ([Neutral] ～の観点から)        In terms of cost, it's expensive.
 > `as long as` /æz lɔːŋ æz/         ([Neutral] ～する限り)          As long as you try, that's what matters.
+  - `to the extent that`            ([Neutral] ～する限りにおいて)  It works to the extent that we have funding.
+  - `insofar as` /ˌɪnsoʊˈfɑːr æz/   ([Formal] ～する限りにおいて)   Insofar as I know, the project is on track.
+  - `inasmuch as` /ˌɪnəzˈmʌtʃ æz/   ([Formal] ～する限りにおいて)   Inasmuch as we agree, let's proceed.
 > `as far as` /æz fɑːr æz/          ([Neutral] ～する範囲では)      As far as I know, the meeting is still on.
-- `in a way` /ɪn ə weɪ/             ([Casual] ある意味で)           In a way, you're right about that.
-- `in some ways` /ɪn sʌm weɪz/      ([Neutral] いくつかの点で)      In some ways, it's better than before.
 > `in the sense that`               ([Neutral] ～という意味で)      It's good in the sense that it's cheaper.
-> `in that` /ɪn ðæt/                ([Formal] ～という点で)         The plan is good in that it saves money.
-- `to the extent that`              ([Neutral] ～する限りにおいて)  It works to the extent that we have funding.
-- `insofar as` /ˌɪnsoʊˈfɑːr æz/     ([Formal] ～する限りにおいて)   Insofar as I know, the project is on track.
-- `inasmuch as` /ˌɪnəzˈmʌtʃ æz/     ([Formal] ～する限りにおいて)   Inasmuch as we agree, let's proceed.
-- `in respect that`                 ([Formal] ～という点において)   It differs in respect that it's automated.
-- `to the degree that`              ([Formal] ～する程度において)   Success depends to the degree that we prepare.
+  > `in that` /ɪn ðæt/              ([Formal] ～という点で)         The plan is good in that it saves money.
+  - `in a way` /ɪn ə weɪ/           ([Casual] ある意味で)           In a way, you're right about that.
+  - `in some ways` /ɪn sʌm weɪz/    ([Neutral] いくつかの点で)      In some ways, it's better than before.
+  - `in respect that`               ([Formal] ～という点において)   It differs in respect that it's automated.
+  - `to the degree that`            ([Formal] ～する程度において)   Success depends to the degree that we prepare.
 
 ## TO THE POINT WHERE
 - `to the point where`              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.

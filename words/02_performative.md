@@ -12,7 +12,7 @@
   - `consideration`                 ([Neutral] 考慮、思いやり)      Give it serious consideration.
   - `considerable` /kənˈsɪdərəbəl/  ([Neutral] かなりの)            That's a considerable amount.
   - `considerate` /kənˈsɪdərət/     ([Neutral] 思いやりのある)      He's always considerate of others.
-- `give it a thought`               ([Neutral] 考えてみる)          I'll give it a thought tonight.
+> `give it a thought`               ([Neutral] 考えてみる)          I'll give it a thought tonight.
 - `be getting C` /bi ˈɡetɪŋ/        ([Casual] Cになってきた)        I'm getting tired of them.
 
 ## GUESS
@@ -45,10 +45,10 @@
   - `inference` /ˈɪnfərəns/         ([Formal] 推論、推測)           That's a reasonable inference.
   - `inferential` /ˌɪnfəˈrenʃəl/    ([Writing] 推論的な)            Inferential statistics are complex.
 
-## THINK OF
+## THINK OF / COME UP WITH / GET AN IDEA
 > `think of` /θɪŋk ʌv/              ([Neutral] 思いつく、考える)    I can't think of a solution.
 > `come up with` /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
-- `get an idea` /ɡet ən aɪˈdiːə/    ([Neutral] アイデアを思いつく)  I just got an idea!
+> `get an idea` /ɡet ən aɪˈdiːə/    ([Neutral] アイデアを思いつく)  I just got an idea!
 > `give 人 an idea`                 ([Neutral] 外要因により浮かぶ)  That video gave me an idea for my presentation.
 - `hit on` /hɪt ɑːn/                ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
 - `strike` /straɪk/                 ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
@@ -67,11 +67,19 @@
 - `hatch` /hætʃ/                    ([Casual] 企てる、計画する)     They hatched a secret plan.
 - `conjure up` /ˈkʌndʒər ʌp/        ([Writing] 思い起こす 作り出す) He conjured up a fantastic story.
 
-## FORGET
-- `be a blur` /biː ə blɜːr/         ([Neutral] ぼんやりしている)    Last weekend was a blur.
+## FORGET / SLIP ONE'S MIND
+> `forget` /fərˈɡet/                ([Neutral] 忘れる)              I forgot to bring my keys.
+> `slip one's mind`                 ([Casual] うっかり忘れる)       Your birthday slipped my mind.
+- `draw a blank`                    ([Casual] 思い出せない)         I'm drawing a blank on his name.
+- `can't place`                     ([Neutral] 思い出せない)        I can't place where I've seen you.
+- `escape me`                       ([Neutral] 思い出せない)        His name escapes me right now.
+> `be a blur` /biː ə blɜːr/         ([Neutral] ぼんやりしている)    Last weekend was a blur.
+- `blank out`                       ([Casual] 頭が真っ白になる)     I blanked out during the exam.
+- `lose track of`                   ([Neutral] 見失う、忘れる)      I lost track of time.
+- `overlook` /ˌoʊvərˈlʊk/           ([Neutral] 見落とす、無視する)  Don't overlook the details.
 
 ## REMIND
-- `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる)        This song reminds me of my childhood.
+> `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる)        This song reminds me of my childhood.
 - `remember` /rɪˈmembər/            ([Neutral] 思い出す 覚えている) I remember meeting you before.
   - `remembrance` /rɪˈmembrəns/     ([Formal] 記憶、追悼)           In remembrance of those we lost.
 - `recall` /rɪˈkɔːl/                ([Neutral] 思い出す、回収する)  I can't recall his name.
@@ -167,37 +175,102 @@
 - `engrave on memory` /ɪnˈɡreɪv/    ([Writing] 記憶に刻む)          The moment was engraved on her memory.
 - `treasure` /ˈtreʒər/              ([Neutral] 大切にする)          I treasure those memories.
 
-## LEAVE
-- `leave ~ up to` /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.
+## LEAVE UP TO
+> `leave ~ up to` /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.
+- `hand over to` /hænd ˈoʊvər tuː/  ([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
+- `turn over to` /tɜːrn ˈoʊvər tuː/ ([Neutral] 〜に引き渡す)        Turn the matter over to the lawyers.
+- `put ~ in someone's hands`        ([Neutral] 〜の手に委ねる)      I put my future in your hands.
+- `bank on` /bæŋk ɑːn/              ([Casual] 〜を当てにする)       Don't bank on getting that promotion.
+- `delegate ~ to` /ˈdɛlɪɡeɪt tuː/   ([Formal] 〜に委任する)         She delegated the work to her team.
+- `entrust ~ to` /ɪnˈtrʌst tuː/     ([Formal] 〜に委ねる)           I entrust this task to you.
 
-## CUT CORNERS
-- `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+## CUT CORNERS / SLACK OFF
+> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+> `slack off` /slæk ɔːf/            ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+- `rush through` /rʌʃ θruː/         ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
+- `be careless` /biː ˈkɛrləs/       ([Neutral] 不注意である)        Don't be careless with important documents.
+- `take shortcuts`                  ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
+- `half-hearted` /ˌhæf ˈhɑːrtəd/    ([Neutral] やる気のない)        His effort was half-hearted.
+- `do the bare minimum`             ([Neutral] 最低限しかしない)    She does the bare minimum required.
+- `go through the motions`          ([Neutral] 形だけやる)          He's just going through the motions.
+- `skimp on` /skɪmp ɑːn/            ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+- `phone it in`                     ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
 
 ## HAVE TO DO WITH
+> `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
+  - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
+  - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
+  - `have little to do with`        ([Neutral] 関係がほとんどない)  This has little to do with money.
+  - `have everything to do with`    ([Neutral] 全て関係がある)      This has everything to do with trust.
+- `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
+  - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
+  - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
+  - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
+  - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
+- `involve` /ɪnˈvɑːlv/              ([Neutral] 関わる、含む)        This project involves many people.
 - `have a lot in common`            ([Neutral] 共通点が多い)        We have a lot in common.
-- `have little to do with`          ([Neutral] 関係がほとんどない)  This has little to do with money.
-- `have much to do with`            ([Neutral] 大いに関係がある)    Success has much to do with timing.
-- `have nothing to do with`         ([Neutral] 関係がない)          I have nothing to do with that decision.
-- `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
+  - `have little in common`         ([Neutral] 共通点が少ない)      They have little in common.
+  - `have nothing in common`        ([Neutral] 共通点がない)        We have nothing in common.
 
-## BE AT ONE'S DISPOSAL
-- `be at one's disposal`            ([Formal] 思い通りにできる)     He claimed that the enormous property was at his disposal.
+## BE AVAILABLE
+- `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
+  - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
+  - `be good to go`                 ([Casual] 準備万端)             We're good to go!
+  - `be accessible` /əkˈsesəbəl/    ([Neutral] アクセス可能な)      The files are accessible online.
+  - `be on hand` /ɑːn hænd/         ([Neutral] 手元にある、待機中)  Staff are on hand to assist.
+  - `be ready for use`              ([Neutral] 使用可能な)          The equipment is ready for use.
+  - `be within reach` /wɪðɪn riːtʃ/ ([Neutral] 手の届く範囲にある)  Help is within reach.
+  - `be usable` /ˈjuːzəbəl/         ([Neutral] 使用可能な)          The software is now usable.
+  - `be at one's disposal`          ([Formal] 思い通りにできる)     He claimed that the enormous property was at his disposal.
+  - `be at one's service`           ([Formal] お役に立てる)         I'm at your service.
+  - `be at one's command`           ([Formal] 命令に従う)           The troops are at your command.
+- `have access to` /ˈækses tuː/     ([Neutral] アクセスできる)      You have access to all resources.
+- `have at hand` /hæv æt hænd/      ([Neutral] 手元に持っている)    I have the documents at hand.
+- `have on standby`                 ([Neutral] 待機させている)      We have backup servers on standby.
 
-## LIKE
-- `be obsessed` /bi əbˈsest/        ([Neutral] 夢中である)          He's obsessed with his new baby.
+## LIKE / BE INTO / BE OBSESSED WITH
+- `like` /laɪk/                     ([Neutral] 好き)                I like chocolate.
+- `love` /lʌv/                      ([Neutral] 愛する、大好き)      I love this music.
+- `enjoy` /ɪnˈdʒɔɪ/                 ([Neutral] 楽しむ、気に入る)    I enjoy reading books.
+> `be into` /ɪnˈtuː/                ([Casual] 夢中である)           She's really into yoga.
+  - `be fond of` /fɑːnd əv/         ([Neutral] 好んでいる)          I'm fond of classical music.
+  > `be obsessed with`              ([Neutral] 夢中である)          He's obsessed with his new baby.
+  - `be crazy about`                ([Casual] 夢中である)           He's crazy about sports cars.
+  - `be passionate about`           ([Neutral] 情熱的である)        She's passionate about teaching.
+- `adore` /əˈdɔːr/                  ([Neutral] 愛する、大好き)      I adore my grandmother.
+- `fancy` /ˈfænsi/                  ([Casual] 好む、気に入る)       Do you fancy a cup of tea?
+- `prefer` /prɪˈfɜːr/               ([Neutral] 好む、選ぶ)          I prefer coffee to tea.
+- `favor` /ˈfeɪvər/                 ([Neutral] 好む、支持する)      I favor the first option.
+- `have a thing for`                ([Casual] 好きである)           She has a thing for vintage cars.
+- `be keen on` /kiːn ɑːn/           ([Neutral] 熱心である)          He's keen on photography.
 
 ## NEED
-- `人 need V` /niːd/                ([Neutral] する必要がある)      You need to finish this today.
-- `物 need V-ing` /niːd/            ([Neutral] される必要がある)    The car needs washing.
+> `need` /niːd/                     ([Neutral] 必要とする)          I need your help.
+  - `人 need to V`                  ([Neutral] Vする必要がある)     You need to finish this today.
+  - `物 need V-ing`                 ([Neutral] Vされる必要がある)   The car needs washing.
+  - `need for`                      ([Neutral] ～の必要性)          There's a need for change.
+- `require` /rɪˈkwaɪər/             ([Formal] 必要とする、要求する) This job requires experience.
+  - `be required to`                ([Formal] することが求められる) Students are required to attend.
+- `it's necessary to`               ([Formal] ～することが必要)     It's necessary to act quickly.
 
-## ACHIEVE
-- `achievement` /əˈtʃiːvmənt/       ([Neutral] 達成、業績)          Winning was a great achievement.
-  - `achieve` /əˈtʃiːv/             ([Neutral] 達成する、成し遂げる)She achieved her goals.
-- `accomplishment` /əˈkʌmplɪʃmənt/  ([Neutral] 達成、成果)          His accomplishments are impressive.
-  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 成し遂げる、達成)    They accomplished the mission.
-  - `accomplished` /əˈkʌmplɪʃt/     ([Neutral] 熟練した、成就した)  She is an accomplished pianist.
-- `triumph` /ˈtraɪʌmf/              ([Neutral] 勝利、大成功)        The team's triumph was celebrated.
-  - `triumphant` /traɪˈʌmfənt/      ([Neutral] 勝利した、勝ち誇った)The triumphant team celebrated loudly.
+## GET DONE / ACHIEVE
+- `finish` /ˈfɪnɪʃ/                 ([Neutral] 終える、完成させる)   I need to finish this report.
+- `complete` /kəmˈpliːt/            ([Neutral] 完了する、完成させる) Complete the project by Friday.
+- `succeed` /səkˈsiːd/              ([Neutral] 成功する)             I hope you succeed in your plans.
+> `get done`                        ([Casual] 終わらせる)            I need to get this done today.
+- `make it`                         ([Casual] 成功する、間に合う)    I'm sure you'll make it.
+> `achieve` /əˈtʃiːv/               ([Neutral] 達成する、成し遂げる) She achieved her goals.
+- `reach` /riːtʃ/                   ([Neutral] 到達する、達する)     We reached our target.
+- `wrap up`                         ([Casual] 終える、完了する)      Let's wrap up this meeting.
+- `accomplish` /əˈkʌmplɪʃ/          ([Neutral] 成し遂げる、達成)     They accomplished the mission.
+- `carry out` /ˈkæri aʊt/           ([Neutral] 実行する、遂行する)   They carried out the plan.
+- `fulfill` /fʊlˈfɪl/               ([Neutral] 満たす、果たす)       She fulfilled her promise.
+- `realize` /ˈriːəlaɪz/             ([Neutral] 実現する、気づく)     We realized our dream.
+- `pull off`                        ([Casual] やり遂げる)            He pulled off an amazing performance.
+- `nail` /neɪl/                     ([Casual] 完璧にやる)            She nailed the presentation.
+- `attain` /əˈteɪn/                 ([Formal] 達成する、獲得する)    He attained his degree.
+- `triumph` /ˈtraɪʌmf/              ([Formal] 勝利する、成功する)    The team triumphed over adversity.
 
 ## ASSURE
 - `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
