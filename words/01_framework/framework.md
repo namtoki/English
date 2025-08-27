@@ -164,7 +164,9 @@
 - `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
 - `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
 
-## IN THE SENSE THAT
+## JUST BASED ON / IN THE SENSE THAT
+- `based on` /beɪst ɑːn/            ([Neutral] ～に基づいて)        Based on the data, we made a decision.
+> `just based on` /dʒʌst beɪst ɑːn/ ([Neutral] ただ～に基づいて)    Just based on his word, I can't be sure.
 > `in terms of` /ɪn tɜːrmz əv/      ([Neutral] ～の観点から)        In terms of cost, it's expensive.
 > `as long as` /æz lɔːŋ æz/         ([Neutral] ～する限り)          As long as you try, that's what matters.
   - `to the extent that`            ([Neutral] ～する限りにおいて)  It works to the extent that we have funding.
