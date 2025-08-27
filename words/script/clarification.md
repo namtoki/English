@@ -3,7 +3,7 @@
 - 01_communication.md - 意思疎通・表現
 - 02_performative.md - 遂行動詞 (思った瞬間に行動が完了している動詞)
 - 03_transitive.md - 他のものに影響を与える動作
-- 04_not_transitive.md - 他のものに影響を与えない動作 (walk, pass など)
+- 04_intransitive.md - 他のものに影響を与えない動作 (walk, pass など)
 - 05_emotion.md - 主観的な感情・気持ち
 - 06_assessment.md - 客観的な物, 人に対する評価
 - 07_conflict.md - 対立・紛争・戦争に関する名詞、動詞

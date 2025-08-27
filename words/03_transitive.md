@@ -32,6 +32,13 @@
 - `agitate` /ˈædʒɪteɪt/             ([Neutral] かき乱す、扇動する)  The news agitated the crowd.
 - `incite` /ɪnˈsaɪt/                ([Neutral] 扇動する 駆り立てる) He incited the crowd to protest.
 - `perturb` /pərˈtɜːrb/             ([Formal] 心を乱す 動揺させる)  The news perturbed her greatly.
+- `stimulate` /ˈstɪmjəleɪt/         ([Neutral] 刺激する 活性化する) Exercise stimulates blood flow.
+- `arouse` /əˈraʊz/                 ([Neutral] 呼び起こす 喚起する) The speech aroused strong emotions.
+  - `arousal` /əˈraʊzəl/            ([Neutral] 覚醒、喚起)          Emotional arousal affects decisions.
+- `inspire` /ɪnˈspaɪər/             ([Neutral] 鼓舞する、感化する)  Her story inspired many people.
+- `motivate` /ˈmoʊtəveɪt/           ([Neutral] 動機付ける)          Money motivates some people.
+- `energize` /ˈenərdʒaɪz/           ([Neutral] 活力を与える)        The music energized the crowd.
+- `galvanize` /ˈɡælvənaɪz/          ([Formal] 活気づける 奮起させ)  The crisis galvanized the nation.
 
 ## EXPAND
 - `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
@@ -176,6 +183,16 @@
   - `swindler` /ˈswɪndlər/          ([Neutral] 詐欺師)              The swindler was finally caught.
 - `con` /kɒn/                       ([Casual] だます、詐欺)         He conned them out of their money.
   - `con artist` /kɒn ˈɑːtɪst/      ([Casual] 詐欺師)               The con artist targeted elderly people.
+- `manipulate` /məˈnɪpjəleɪt/       ([Neutral] 操る、操作する)      She manipulated him into lending her money.
+  - `manipulation` /məˌnɪpjəˈleɪʃən/ ([Neutral] 操作、操り)          His manipulation of the data was discovered.
+  - `manipulative` /məˈnɪpjələtɪv/   ([Neutral] 人を操る)            She's very manipulative with her friends.
+  - `manipulator` /məˈnɪpjəleɪtər/   ([Neutral] 操る人)              He's a skilled manipulator of public opinion.
+- `exploit` /ɪkˈsplɔɪt/             ([Neutral] 搾取する、利用する)  They exploited workers for cheap labor.
+  - `exploitation` /ˌeksplɔɪˈteɪʃən/ ([Neutral] 搾取、利用)          The exploitation of resources must stop.
+- `maneuver` /məˈnuːvər/             ([Neutral] 策略を用いる)        He maneuvered himself into a position of power.
+- `finesse` /fɪˈnes/                 ([Formal] 巧みに扱う)          She finessed the situation perfectly.
+- `engineer` /ˌendʒɪˈnɪr/           ([Neutral] 画策する、仕組む)    They engineered his downfall.
+- `scheme` /skiːm/                   ([Neutral] 企む、陰謀を企てる)  They schemed to take over the company.
 
 ## Legal Exoneration
 

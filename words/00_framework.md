@@ -420,21 +420,23 @@
 - `A out of B`                      ([Neutral] BのうちのA)          3 out of 5 people agreed.
 - `A in B`                          ([Neutral] BのうちのA)          1 in 10 people disagree.
 
-## I MEAN
-as in
-one that is
-> `I mean`                          ([Casual] つまり、その)         I'm tired. `I mean`, I only slept 3 hours.
-> `what I mean is`                  ([Neutral] 言いたいのは)        `What I mean is`, we need more time.
-- `what I'm saying is`              ([Casual] 言ってるのは)         `What I'm saying is`, it's not that simple.
-- `what I meant was`                ([Neutral] 言いたかったのは)    `What I meant was`, you should be careful.
-- `what I'm trying to say is`       ([Casual] 言おうとしてるのは)   `What I'm trying to say is`, I appreciate it.
-- `what I meant to say was`         ([Neutral] 言うつもりだたのは)  Sorry, `what I meant to say was` Thursday.
-- `in other words`                  ([Neutral] 言い換えると)        She's busy. `In other words`, she can't come.
-- `to put it another way`           ([Neutral] 別の言い方をすると)  `To put it another way`, we're broke.
-- `that is to say`                  ([Formal] つまり、すなわち)     He's retired, `that is to say`, not working.
-- `let me rephrase that`            ([Neutral] 言い直すと)          `Let me rephrase that` - it's challenging.
-- `basically`                       ([Casual] 基本的に、要するに)   `Basically`, we need to start over.
-> `the thing is`                    ([Casual] 実は、要は)           `The thing is`, I forgot my wallet.
-> `the point is`                    ([Neutral] 要点は)              `The point is`, we can't afford it.
-> `to clarify`                      ([Formal] 明確にすると)         `To clarify`, the meeting is at 3pm.
-- `let me be clear`                 ([Formal] はっきり言うと)       `Let me be clear` - this is unacceptable.
+## I MEAN / AS IN
+> `I mean`                          ([Casual] つまり、その)         I'm tired. I mean, I only slept 3 hours.
+- `basically`                       ([Casual] 基本的に、要するに)   Basically, we need to start over.
+> `the thing is`                    ([Casual] 実は、要は)           The thing is, I forgot my wallet.
+> `the point is`                    ([Neutral] 要点は)              The point is, we can't afford it.
+> `as in`                           ([Neutral] つまり)              Give me a fruit, as in an apple or orange.
+- `in other words`                  ([Neutral] 言い換えると)        She's busy. In other words, she can't come.
+- `let me rephrase that`            ([Neutral] 言い直すと)          Let me rephrase that - it's challenging.
+- `to put it another way`           ([Neutral] 別の言い方をすると)  To put it another way, we're broke.
+> `to clarify`                      ([Formal] 明確にすると)         To clarify, the meeting is at 3pm.
+- `let me be clear`                 ([Formal] はっきり言うと)       Let me be clear - this is unacceptable.
+- `that is to say`                  ([Formal] つまり、すなわち)     He's retired, that is to say, not working.
+
+## ONE THAT IS
+- `what I mean is`                  ([Neutral] 言いたいのは)        What I mean is, we need more time.
+- `what I'm saying is`              ([Casual] 言ってるのは)         What I'm saying is, it's not that simple.
+- `what I'm trying to say is`       ([Casual] 言おうとしてるのは)   What I'm trying to say is, I appreciate it.
+- `what I meant was`                ([Neutral] 言いたかったのは)    What I meant was, you should be careful.
+> `one that is`                     ([Neutral] ~であるもの)         I need a car, one that is reliable.
+- `what I meant to say was`         ([Neutral] 言うつもりだたのは)  Sorry, what I meant to say was Thursday.
