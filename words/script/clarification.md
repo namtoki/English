@@ -1,9 +1,9 @@
 
-- 00_framework.md - お決まりの構文構造パターンや副詞表現
-- 01_communication.md - 意思疎通・表現
-- 02_performative.md - 遂行動詞 (思った瞬間に行動が完了している動詞)
-- 03_transitive.md - 他のものに影響を与える動作
-- 04_intransitive.md - 他のものに影響を与えない動作 (walk, pass など)
+- 01_framework/framework.md - お決まりの構文構造パターンや副詞表現
+- 02_verb/performative.md - 遂行動詞 (思った瞬間に行動が完了している動詞)
+- 02_verb/transitive/communication.md - 意思疎通・表現
+- 02_verb/transitive/others.md - 他のものに影響を与える動作
+- 02_verb/intransitive/intransitive.md - 他のものに影響を与えない動作 (walk, pass など)
 - 05_emotion.md - 主観的な感情・気持ち
 - 06_assessment.md - 客観的な物, 人に対する評価
 - 07_conflict.md - 対立・紛争・戦争に関する名詞、動詞
