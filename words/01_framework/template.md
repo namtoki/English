@@ -156,16 +156,28 @@
 - `Should I V?`                     ([Neutral] ～しましょうか？)    Should I make a reservation?
 - `Can I V for you?`                ([Neutral] ～しましょうか？)    Can I get that for you?
 
-## OPINION
+## IT'S BEEN A WHILE SINCE
 - `It's been a while since S V`     ([Neutral] してからしばらく経つ)It's been a while since we last met.
-  - `It's been ages since S V`      ([Casual] )                     It's been ages since we last hung out.
-  - `It's been a long time since S V`([Neutral] )                   It's been a long time since we visited that place.
+- `It's been ages since S V`        ([Casual] )                     It's been ages since we last hung out.
+- `It's been a long time since S V` ([Neutral] )                    It's been a long time since we visited that place.
 
+## THE SAME GOES FOR
+> `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
+- `It's the same with O`            ([Neutral] Oも同様だ)           It's the same with most startup companies.
+- `The same is the case with O`     ([Neutral] Oも同様だ)           The same is the case with remote workers.
+
+## S V-ing, THAT'D BE
 - `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
-- `just because A doesn't mean B`   ([Neutral] AだからといってBとは限らない) Just because it's raining doesn't mean the event will be canceled.
-- `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
-  - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
-  - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
+
+## THAT DOESN'T MEAN
+> `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
+  > `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
+  - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
+- `A is one thing, but B is another`([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
+- `it's not always the case that`   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
+- `that's not to say that S V`      ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
+
+## OPINION
 - `My concern is that S V`          ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
 - `be aware that`                   ([Neutral] に注意してください)  Be aware that the deadline is next Friday.
 - `Turns out S V`                   ([Casual] ということがわかった) Turns out she was right all along.
@@ -323,11 +335,8 @@
 - [x] `Fair enough`                         ([Casual] まあ、それもありだね／納得したよ） `Fair enough`, I see your point.
 
 ## 了解
-- [ ] `You got it.`                         ([Casual] 了解！任せて) `You got it.` I’ll get it done this afternoon.
-- [ ] `Got it.`                             ([Casual] わかったよ) `Got it.` I’ll let them know.
 - [ ] `Sure thing`                          ([Casual] りょ／了解) Can you send me the report? `Sure thing.`
 - [ ] `No problem!`                         ([Casual] 問題ないよ！) `No problem!` I’ll send it over this afternoon.
-- [ ] `Will do.`                            ([Neutral] 了解！やっとくね) `Will do.` I’ll update the report before lunch.
 - [ ] `Absolutely.`                         ([Neutral] もちろん！) `Absolutely.` I’ll take care of it right away.
 - [ ] `I will do that then`                 ([Casual] じゃあそうします) If you recommend that, `I will do that then.`
 - [ ] `That's what I'll do`                 ([Casual] じゃあそうします) I'll follow your advice. `That's what I'll do.`
@@ -369,38 +378,3 @@
 - [ ] `There you go again`                  ([Casual] またそれ言ってる／やってるね) `There you go again,` always teasing me.
 - [ ] `That's funny`                        ([Casual] おかしいなぁ) `That's funny,` I thought the meeting was at 3, not 2.
 - [ ] `Been there done that`                ([Casual] やったことある、もういい) `I don't want to try that again.` Been there done that.
-
-## 複合名詞
-- `something else`                              (格別なもの) / That dinner was `something else`!
-- `such things`                                 (そのようなもの) / C++ has plenty of `such things`!
-- `the only thing`                              (唯一良くないもの) / It was great!`The only thing` was the food.
-- `hope for`                    うまく行くことに対する希望  many people have `hope for` genuine changes in it
-- `hope of`                     する希望 / する見込み       I have no `hope of` getting financial support for it
-- `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
-- `nothing out of the ordinary` 普通
-- `pedestrian crossing`         横断歩道 crosswalk, crossway
-- `population boom`             人口の急増
-- `pound sign`                  #
-- `premise | premises`          前提 | 家屋,建物,構内,敷地内
-- `renewal notice`              更新通知
-- `repeat business`             常連
-- `social welfare`              福祉
-- `third baseline`              三塁側
-- `trade exhibition`            展示会
-- `trade journal`               業界紙
-- `treat oneself`               ご褒美
-- `vapor trail`                 飛行機雲
-- `vet / veterinarian`          獣医
-- `wildlife refuge`             鳥獣保護区
-- `working hours`               執務時間                    My regular working hours end at 6pm.
-- `the most commonly accepted`  一番自然な                  but `the most commonly accepted` way is the -ing.
-- `the very first`              一番最初の                  `the very first` question is the use of ..."
-- `one-off`                     一度きりの                  The expense incurred this year to construct the building is a `one-off` cost.
-- `last-minute`                 土壇場の
-- `neighborly`                  隣人の 親切な
-- `best-in-class`               最高クラスの
-- `whole other`                 全然違う                    That's a `whole other` problem.
-- `way better`                  much better                 That's just hype. I know `way better` places.
-- `each and every`              ひとつひとつの              `each and every one of` these questions
-- `scorching`                   焼きつくような              It's `scorching hot` today.
-- `boiling`                     うだるような                This room is `boiling hot`.
