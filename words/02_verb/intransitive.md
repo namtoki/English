@@ -112,6 +112,68 @@
 - `get ahead` /ɡet əˈhed/           ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
 - `come along` /kʌm əˈlɔːŋ/         ([Neutral] 進歩する、発展する)  Her skills are coming along well.
 
+## WORK OUT / GO WELL / TURN OUT WELL / FALL INTO PLACE / COME TOGETHER
+> `work out` /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
+  - `work out well`                 ([Neutral] うまくいく)          The meeting worked out well.
+  - `working out`                   ([Neutral] うまくいっている)    Things are working out nicely.
+> `go well` /ɡoʊ wel/               ([Neutral] 順調にいく)          The project is going well.
+  - `go smoothly` /ɡoʊ ˈsmuːðli/    ([Neutral] スムーズにいく)      The presentation went smoothly.
+> `turn out well`                   ([Neutral] 結果的にうまくいく)  Everything turned out well.
+  - `turn out fine`                 ([Neutral] 結果的に良い)        Don't worry, it'll turn out fine.
+  - `turn out right`                ([Neutral] 正しく仕上がる)      I hope the recipe turns out right.
+- `succeed` /səkˈsiːd/              ([Neutral] 成功する)            The plan succeeded beyond expectations.
+  - `be successful`                 ([Formal] 成功している)         The campaign was very successful.
+  - `achieve success`               ([Formal] 成功を収める)         They achieved great success.
+> `fall into place`                 ([Neutral] うまくまとまる)      The presentation is falling into place.
+> `come together`                   ([Neutral] まとまる)            The project is finally coming together.
+- `pan out` /pæn aʊt/               ([Casual] うまくいく)           I hope the investment pans out.
+- `pay off` /peɪ ɔːf/               ([Neutral] 報われる)            All that hard work paid off.
+- `bear fruit` /ber fruːt/          ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
+- `click` /klɪk/                    ([Casual] うまくいく、合う)     Everything just clicked into place.
+- `gel` /dʒel/                      ([Casual] うまく合う)           The team is starting to gel.
+- `mesh` /meʃ/                      ([Neutral] うまく合う)          Their ideas mesh perfectly.
+- `fit together`                    ([Neutral] うまく合う)          The pieces fit together perfectly.
+- `come off` /kʌm ɔːf/              ([Casual] 成功する)             The event came off without a hitch.
+
+## COMPLETE / FINISH / GET DONE
+> `finish` /ˈfɪnɪʃ/                 ([Neutral] 終える、完成させる)  I need to finish this report.
+> `complete` /kəmˈpliːt/            ([Neutral] 完了する 完成させる) Complete the project by Friday.
+> `get done` /ɡet dʌn/              ([Casual] 終わらせる、やり遂げ) Let's get this done before lunch.
+  - `get it done`                   ([Casual] やり遂げる)           Whatever it takes, we'll get it done.
+- `wrap up` /ræp ʌp/                ([Neutral] まとめる 終わらせる) Let's wrap up this meeting.
+  - `wrap it up`                    ([Casual] 終わらせる)           Time to wrap it up for today.
+  - `wrap-up` /ˈræp ʌp/             ([Neutral] まとめ、総括)        The wrap-up session will be tomorrow.
+- `be done` /bi dʌn/                ([Casual] 終わった)             I'm done with my homework.
+- `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
+- `accomplish` /əˈkʌmplɪʃ/          ([Neutral] 達成する 成し遂げる) We accomplished our goal.
+- `achieve` /əˈtʃiːv/               ([Neutral] 達成する 成し遂げる) They achieved their objectives.
+- `deliver` /dɪˈlɪvər/              ([Neutral] 提供する 達成する)   We need to deliver on our promises.
+- `fulfill` /fʊlˈfɪl/               ([Formal] 履行する、実現する)   He fulfilled his promise.
+- `see through` /siː θruː/          ([Neutral] 最後までやり遂げる)  She saw the project through to completion.
+  - `see it through`                ([Neutral] 最後までやり遂げる)  Once we start, we'll see it through.
+- `realize` /ˈriːəlaɪz/             ([Formal] 実現する、達成する)   We realized our vision.
+- `attain` /əˈteɪn/                 ([Formal] 達成する、獲得する)   We worked hard to attain our goals.
+- `bring to completion`             ([Formal] 完成まで導く)         We need to bring this project to completion.
+
+## 引き受ける
+- ✅ `take` /teɪk/                  ([Neutral] 引き受ける、取る)    I'll take the job.
+  - `take care of` /teɪk ker əv/    ([Neutral] 世話をする 処理する) I'll take care of it.
+  - ✅ `take on` /teɪk ɑːn/         ([Neutral] 引き受ける)          I'll take on this challenge.
+- `accept` /əkˈsept/                ([Neutral] 受け入れる 引き受け) I accept the responsibility.
+- `be responsible for`              ([Neutral] ～を担当する)        She's responsible for sales.
+- `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
+- `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
+- `pick up` /pɪk ʌp/                ([Casual] 引き受ける 拾い上げ)  I'll pick up the slack.
+- `take responsibility for`         ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
+- `step up` /step ʌp/               ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
+- `undertake` /ˌʌndərˈteɪk/         ([Formal] 引き受ける、着手する) We'll undertake the project.
+- `assume` /əˈsuːm/                 ([Formal] 引き受ける、想定する) She assumed the role of manager.
+- `shoulder` /ˈʃoʊldər/             ([Neutral] 肩に担う 引き受ける) He shouldered the responsibility.
+- `bear` /ber/                      ([Formal] 負う、担う)           They bear the cost of repairs.
+- `embrace` /ɪmˈbreɪs/              ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
+- `take upon oneself`               ([Formal] 自ら引き受ける)       He took it upon himself to help.
+
+
 ## PUT ON
 > `put on` /pʊt ɒn/                 ([Neutral] 着る、身に着ける)    Please put on your jacket.
 > `wear` /weər/                     ([Neutral] 着る、身に着ける)    I always wear a coat in winter.

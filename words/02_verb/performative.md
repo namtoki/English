@@ -293,3 +293,71 @@
 - `pledge` /pledʒ/                  ([Formal] 誓約する、約束する)   He pledged his support.
 - `promise` /ˈprɑːmɪs/              ([Neutral] 約束する、保証する)  She promised to call.
 - `warrant` /ˈwɔːrənt/              ([Formal] 保証する、正当化する) This doesn't warrant such action.
+
+## 賛成する
+- ✅ `agree with` /əˈɡriː wɪð/      ([Neutral] ～に賛成する)        I agree with the decision.
+- ✅ `support` /səˈpɔːrt/           ([Neutral] 支持する、支援する)  I support your idea.
+- `approve` /əˈpruːv/               ([Neutral] 承認する、賛成する)  The board approved the plan.
+  - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
+- ✅ `prefer` /prɪˈfɜːr/            ([Neutral] 好む、選好する)      I prefer coffee to tea.
+- ✅ `be for` /biː fɔːr/            ([Casual] 賛成である)           I'm for the new policy.
+  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
+- `back` /bæk/                      ([Neutral] 支持する 後押しする) I'll back your proposal.
+- ✅ `be in favor of`               ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
+- `side with` /saɪd wɪð/            ([Neutral] ～の味方をする)      I side with you on this.
+- `stand by` /stænd baɪ/            ([Neutral] 支持する、味方する)  I'll stand by your decision.
+- `back up` /bæk ʌp/                ([Casual] 支援する、裏付ける)   I'll back you up.
+- `get behind` /ɡet bɪˈhaɪnd/       ([Casual] 支持する、応援する)   Let's get behind this initiative.
+- `second` /ˈsekənd/                ([Neutral] 支持する、賛同する)  I second the motion.
+- `stand behind` /stænd bɪˈhaɪnd/   ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
+- `endorse` /ɪnˈdɔːrs/              ([Formal] 支持する、推奨する)   I endorse this approach.
+- `advocate` /ˈædvəkeɪt/            ([Formal] 主張する、支持する)   She advocates for change.
+- `champion` /ˈtʃæmpiən/            ([Neutral] 擁護する、支持する)  He champions workers' rights.
+- `uphold` /ʌpˈhoʊld/               ([Formal] 支持する、維持する)   The court upheld the decision.
+- `rally behind` /ˈræli bɪˈhaɪnd/   ([Neutral] 結集する、支持する)  The team rallied behind their leader.
+- `align with` /əˈlaɪn wɪð/         ([Formal] 同調する、一致する)   Our goals align with yours.
+- `throw support behind`            ([Neutral] 支援を投じる)        They threw their support behind the candidate.
+- `give support to`                 ([Neutral] 支援する)            We give our support to the project.
+- `lend support to`                 ([Formal] 支援する、支持する)   I lend my support to the cause.
+
+## 従う
+- ✅ `follow` /ˈfɑːloʊ/             ([Neutral] 従う、続く)          Please follow the instructions.
+  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
+  - ✅ `go along with`              ([Casual] 同調する、従う)       I'll go along with the plan.
+  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
+  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
+    - `adherence` /ædˈhɪrəns/       ([Formal] 遵守、忠実)           Adherence to policy is required.
+  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
+    - `obedience` /oʊˈbiːdiəns/     ([Formal] 服従、遵守)           Obedience to rules ensures safety.
+    - `obedient` /oʊˈbiːdiənt/      ([Neutral] 従順な、素直な)      She's an obedient employee.
+  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
+    - `conformance` /kənˈfɔːrməns/  ([Formal] 適合、遵守)           Conformance testing is complete.
+    - `conformity` /kənˈfɔːrmɪti/   ([Formal] 適合性、遵守)         Conformity with regulations is essential.
+  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
+  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
+    - `observance` /əbˈzɜːrvəns/    ([Formal] 遵守、守ること)       Observance of protocols is critical.
+  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
+  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
+  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
+  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
+    - `deference` /ˈdefərəns/       ([Formal] 敬意、尊重)           He showed deference to his superior.
+  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
+    - `submission` /səbˈmɪʃən/      ([Formal] 服従、提出)           Submission to authority is expected.
+  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
+  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
+  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
+  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
+
+## 選ぶ
+- ✅ `choose` /tʃuːz/               ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
+  - `pick` /pɪk/                    ([Casual] 選ぶ、取る)           Pick whichever one you like.
+  - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the red one, please.
+  - `select` /sɪˈlekt/              ([Formal] 選択する、選出する)   We need to select the best candidate.
+  - `decide on` /dɪˈsaɪd ɑːn/       ([Neutral] 決める、決定する)    Have you decided on a date yet?
+  - `go with` /ɡoʊ wɪð/             ([Casual] 選ぶ、一緒に行く)     I'll go with the blue option.
+  - `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、狙う)           I think I'll go for the chocolate cake.
+  - `opt for` /ɑːpt fɔːr/           ([Formal] 選択する、決める)     We opted for the premium package.
+  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
+  - `stick with` /stɪk wɪð/         ([Casual] 続ける、固執する)     Let's stick with the original plan.
+
