@@ -3,6 +3,7 @@
 - 01_framework/template.md - 定型文
 - 02_verb/performative.md - 遂行動詞 (思った瞬間に行動が完了している動詞)
 - 02_verb/transitive/communication.md - 他のものに影響を与える動詞 (意思疎通・表現)
+- 02_verb/transitive/conflict.md - 他のものに影響を与える動詞 (対立・攻撃)
 - 02_verb/transitive/others.md - 他のものに影響を与える動詞 (その他)
 - 02_verb/intransitive/intransitive.md - 他のものに影響を与えない動詞 (walk, pass などの動作とか)
 - 03_adjective_noun/appearance.md - 服装・外見に関する名詞、形容詞

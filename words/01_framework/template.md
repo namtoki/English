@@ -61,7 +61,7 @@
 - `It's hard to explain`            ([Casual] 説明が難しい)         It's hard to explain, but I'll try.
 - `I don't know how to put it`      ([Casual] どう言えばいいか)     I don't know how to put it exactly.
 
-## IT MAKES SENSE FOR A TO B
+## IT MAKES SENSE THAT
 > `That makes sense`                ([Casual] なるほど、納得)       That makes sense. I understand now.
 > `Makes sense`                     ([Casual] なるほど)             Makes sense. Let's do that.
 > `It makes sense`                  ([Neutral] 理にかなってる)      It makes sense to start early.
@@ -73,19 +73,94 @@
 - `It stands to reason that S V`    ([Formal] ～は当然だ)           It stands to reason that costs will rise.
 - `It's understandable that S V`    ([Neutral] ～は理解できる)      It's understandable that she's upset.
 
+## I'M FINE WITH / I'M OKAY WITH / ANY O WILL DO
+> `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
+> `I'm okay with`                   ([Casual] それで大丈夫)         I'm okay with any option you choose.
+> `any O will do as long as S V`    ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
+- `I'm not particular about it`     ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
+- `Nothing in particular`           ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
+- `It doesn't matter`               ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
+
+## THAT'S THE WAY IT IS
+> `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
+- `It's a thing now`                ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
+
+## I'M NOT SURE I FOLLOW
+> `I'm not sure I follow`           ([Neutral] よく理解できません)  I'm not sure I follow what you mean. Could you explain?
+> `I don't follow`                  ([Casual] わからない)           I don't follow your logic here.
+- `I'm confused`                    ([Casual] 混乱している)         I'm confused about the timeline.
+- `I don't get it`                  ([Casual] わからない)           Sorry, I don't get it. Can you explain?
+- `I don't understand`              ([Neutral] 理解できない)        I don't understand what you're saying.
+- `Could you clarify?`              ([Neutral] 明確にしてもらえる？) Could you clarify what you mean by that?
+- `Could you elaborate?`            ([Formal] 詳しく説明して)       Could you elaborate on that point?
+- `Come again?`                     ([Casual] もう一回言って)       Come again? I didn't catch that.
+- `Sorry, what?`                    ([Casual] え、何？)             Sorry, what? I missed that.
+- `I'm lost`                        ([Casual] ついていけない)       I'm lost. Can we go back a step?
+- `You lost me`                     ([Casual] ついていけなくなった) You lost me at the third step.
+- `What do you mean?`               ([Neutral] どういう意味？)      What do you mean by "restructuring"?
+- `I'm not following`               ([Neutral] ついていけてない)    I'm not following your reasoning.
+- `Can you run that by me again?`   ([Casual] もう一度説明して)     Can you run that by me again?
+- `I didn't catch that`             ([Casual] 聞き取れなかった)     I didn't catch that. Could you repeat?
+
+## WOULD YOU / COULD YOU / WOULD IT BE POSSIBLE TO / I'D APPRECIATE IT IF YOU COULD
+> `Could you V?`                     ([Neutral] してもらえる？)     Could you help me with this?
+> `Would you V?`                     ([Polite] してもらえますか？)  Would you pass me the salt?
+> `Can you V?`                       ([Casual] してくれる？)        Can you send me the file?
+- `Could you make O C?`              ([Neutral] OをCしてもらえる？) Could you make the font bigger?
+- `Could you go over it again?`      ([Neutral] もう一度説明して)   Could you go over it again? I missed that part.
+- `Would you mind V-ing?`            ([Polite] してもらえません？)  Would you mind opening the window?
+- `Do you think you could V?`        ([Polite] してもらえる？)      Do you think you could talk to her?
+- `I was wondering if you could V`   ([Polite] してもらえません？)  I was wondering if you could help me.
+> `Would it be possible to V?`       ([Formal] 可能でしょうか？)    Would it be possible to reschedule?
+- `Do/Would you happen to V?`        ([Polite] たまたま～ですか？)  Do you happen to know the time?
+> `I'd appreciate it if you could V` ([Formal] してもらえると助る)  I'd appreciate it if you could review this.
+- `I'd be grateful if you could V`   ([Formal] してもらえると感謝)  I'd be grateful if you could assist.
+- `Please do me a favor and V`       ([Casual] お願いだから～して)  Please do me a favor and call him.
+- `Would you be able to V?`          ([Neutral] できますか？)       Would you be able to attend?
+- `Would you be willing to V?`       ([Neutral] してもらえますか？) Would you be willing to help?
+
+## COULD I / CAN I / IS IT OK IF
+> `Can I V?`                        ([Casual] してもいい？)         Can I ask you something?
+> `Could I V?`                      ([Polite] してもいいですか？)   Could I get a sandwich please?
+> `Is it OK if I V?`                ([Casual] してもいいですか？)   Is it OK if I park here?
+- `May I V?`                        ([Formal] してもよろしいですか) May I come in?
+- `Would it be OK if I V?`          ([Polite] してもよろしいですか) Would it be OK if I left early?
+- `Is it alright if I V?`           ([Neutral] してもいいですか？)  Is it alright if I use your phone?
+- `Do you mind if I V?`             ([Polite] しても構いませんか？) Do you mind if I open the window?
+- `Would you mind if I V?`          ([Polite] しても構いませんか？) Would you mind if I sat here?
+- `Do you think I could V?`         ([Polite] してもいいと思う？)   Do you think I could borrow your pen?
+- `I was wondering if I could V`    ([Polite] してもいいでしょうか) I was wondering if I could ask a favor.
+- `Would it be possible for me to V?` ([Formal] 可能でしょうか？)   Would it be possible for me to reschedule?
+- `Is there any chance I could V?`  ([Neutral] してもいいですか？)  Is there any chance I could get a ride?
+- `What should I do?`               ([Neutral] どうすればいい？)    What should I do in this situation?
+- `Am I allowed to V?`              ([Neutral] してもいいですか？)  Am I allowed to take photos here?
+- `Is it permitted to V?`           ([Formal] 許可されていますか？) Is it permitted to park here?
+
+## HOW ABOUT / WHY DON'T WE / WOULD YOU LIKE TO / DO YOU WANT TO
+> `How about V-ing?`                ([Casual] ～するのはどう？)     How about getting lunch together?
+> `Why don't we V?`                 ([Casual] ～しない？)           Why don't we take a break?
+> `What about V-ing?`               ([Casual] ～するのはどう？)     What about trying that new restaurant?
+> `Would you like to V?`            ([Neutral] ～しませんか？)      Would you like to join us?
+> `Want to V?`                      ([Casual] ～したい？)           Want to grab coffee?
+> `Do you want to V?`               ([Casual] ～したい？)           Do you want to get dinner?
+- `How about if we V?`              ([Casual] ～したらどう？)       How about if we meet tomorrow?
+- `What if we V?`                   ([Casual] ～したらどう？)       What if we postpone the meeting?
+- `Let's V`                         ([Casual] ～しよう)             Let's discuss this later.
+- `Shall we V?`                     ([Neutral] ～しましょうか？)    Shall we begin?
+- `Would you care to V?`            ([Formal] ～しませんか？)       Would you care to join me for lunch?
+- `Would you be interested in V-ing?` ([Polite] ～に興味ある？)     Would you be interested in attending?
+- `Feel like V-ing?`                ([Casual] ～したい気分？)       Feel like watching a movie?
+- `Do you fancy V-ing?`             ([British] ～したい？)          Do you fancy going out tonight?
+- `Would you like me to V?`         ([Polite] ～しましょうか？)     Would you like me to help?
+- `Want me to V?`                   ([Casual] ～しようか？)         Want me to order for you?
+- `Should I V?`                     ([Neutral] ～しましょうか？)    Should I make a reservation?
+- `Can I V for you?`                ([Neutral] ～しましょうか？)    Can I get that for you?
+
 ## OPINION
-- `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
-  - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with` any option you choose.
-  - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
-  - `I'm not particular about it`   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
-  - `Nothing in particular`         ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
-  - `It doesn't matter`             ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
-- `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
-  - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
-- `I’m not sure I follow`           ([Neutral] よく理解できません） I’m not sure I follow what you mean. Could you explain?
 - `It's been a while since S V`     ([Neutral] してからしばらく経つ)It's been a while since we last met.
   - `It's been ages since S V`      ([Casual] )                     It's been ages since we last hung out.
   - `It's been a long time since S V`([Neutral] )                   It's been a long time since we visited that place.
+
 - `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
 - `just because A doesn't mean B`   ([Neutral] AだからといってBとは限らない) Just because it's raining doesn't mean the event will be canceled.
 - `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
@@ -102,32 +177,6 @@
 ## OTHERS
 - `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
-
-## REQUEST
-- [x] `Do/Would you happen to know O?`      ([Polite] もしよろしければ教えていただけますか) `Do you happen to know` when the report is due?
-- [x] `Could you make O bigger?`            ([Neutral] Oをもっと大きくしてもらえますか？) `Could you make the font bigger?`
-- [x] `Could you go over it again?`         ([Neutral] もう一度説明してもらえますか？) `Could you go over it again?` I missed that part.
-- [x] `Could you V?`                        ([Polite] してもらってもいいですか？) `Could you` say that again?
-- [ ] `Do you think you could V?`           ([Polite] してもらってもいいですか？) `Do you think you could` talk to her?
-- [ ] `Would you mind V-ing?`               ([Polite] V してもらえませんか？) `Would you mind` doing that?
-- [ ] `Please do me a favor and V?`         ([Casual] V してもらえませんか？) `Please do me a favor and give` me a ride to Times Square.
-- [ ] `I was wondering if you could V?`     ([Polite] V してもらえませんか？) `I was wondering if you could` do me a favor.
-- [ ] `I'd be grateful if you could V?`     ([Formal] V してもらえませんか？) `I would be grateful if you could` give us an ...
-
-## CONFIRMATION
-- [x] `What should I do?`                   ([Neutral] どうすればいいですか？) `What should I do` in a situation like this?
-- [ ] `Could I V?`                          ([Polite] してもいいですか？) `Could I get` a sandwich please?
-- [ ] `Do you think I could V?`             ([Polite] してもいいですか？) `Do you think I could` get your number?
-- [ ] `Do/Would you mind O?`                ([Polite] しても構いませんか？) `Do you mind if I stop by your house?` / `Would you mind my opening the window?`
-- [x] `Is it OK/alright if S V?`            ([Casual] S が V しても構いませんか？) `Is it OK if` I park here?
-
-## SUGGESTION
-- [x] `How about V-ing?`                    ([Casual] V するのはどう？) `How about sending` flowers?
-- [ ] `Would you like to V?`                ([Neutral] V しませんか？) `Would you like to` watch it together?
-- [ ] `(Do you) want to V?`                 ([Casual] V しませんか？) `Do you want to` get some food first? / `Want to` get dinner?
-- [ ] `(Would you) care to V?`              ([Formal] V しませんか？) `Would you care to` join me for a drink?
-- [ ] `Would you like me to V?`             ([Polite] V しましょうか？) `Would you like me to` open the window?
-- [ ] `(Do you) want me to V?`              ([Casual] V しましょうか？) `Do you want me to` cook dinner?
 
 ## QUESTION
 - [x] `What do you mean by that?`           ([Casual] それってどういう意味？)
@@ -168,16 +217,10 @@
 - [ ] `I always appreciate your business.`  ([Formal] いつもお引き立ていただきありがとうございます) `I always appreciate your business.`
 
 ## OPINION
-- [x] `There's a high       chance of O`    ([Neutral] Oの可能性が高い) `There’s a high chance of` rain this evening, so bring an umbrella.
-- [x] `There's a low/little chance of O`    ([Neutral] Oの可能性は低い) `There’s a little chance of` delay, but we’re prepared just in case.
 - [ ] `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
 - [ ] `I believe in O`                      ([Neutral] Oを信じている) `I believe in the power of teamwork.`
 - [ ] `I believe (that) S V`                ([Neutral] ～だと信じている) `I believe that everyone deserves a second chance.`
-- [ ] `I understand that S V`               ([Neutral] ～ということがわかる) `I understand that` the deadline has been extended.
-- [ ] `I remember S V`                      ([Neutral] ～を覚えている) `I remember` when we first met.
 - [ ] `I see you have V`                    ([Neutral] ～したようだね) `I see you have` finished the report early.
-- [ ] `I'm sure of O`                       ([Neutral] Oに確信がある) `I'm sure of` his abilities to handle the task.
-- [ ] `Of course, I'm sure S V`             ([Neutral] もちろん、～に確信している) `Of course, I'm sure everything will be fine.`
 - [ ] `It might be a good idea to V`        ([Neutral] ～した方がいいかもしれない) `It might be a good idea to` double-check the numbers.
 - [ ] `It wouldn't hurt to V`               ([Neutral] ～しても損はない) `It wouldn't hurt to` ask for help if you're stuck.
 - [ ] `It goes without saying that S V`     ([Formal] ～は言うまでもなく) `It goes without saying that` safety is our top priority.
@@ -186,17 +229,12 @@
 - [ ] `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
 - [ ] `That's not to say (that) S V`        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.
 - [ ] `That's rather unlikely`              ([Neutral] それはあまりなさそうだ) `That's rather unlikely,` given the current circumstances.
-- [ ] `this is because`                     ([Neutral] これは～だからだ) The event was canceled. `This is because` of the severe weather.
 - [ ] `The fact is`                         ([Neutral] 実を言うと) `The fact is,` I don't have enough money.
 - [ ] `You might wonder O`                  ([Neutral] Oと思うかもしれない) `You might wonder` why we made that decision.
 
 ## FEELING
-- [ ] `It feels like O`                     ([Casual] Oのように感じる) `It feels like` everyone is busy these days.
-- [ ] `I feel like C`                       ([Casual] Cな気がする) `I feel like something’s not right here.`
-- [ ] `I feel like O/V-ing`                 ([Casual] Oしたい気がする／～な気がする) `I feel like going for a walk.`
 - [ ] `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
 - [ ] `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
-- [ ] `I feel C`                            ([Neutral] ～だと感じる) `I feel confident` about the upcoming presentation.
 - [ ] `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
 - [ ] `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
 - [ ] `It's up in the air whether S V`      ([Casual] ～かどうかはまだ未定だ) `It's up in the air whether` we'll have the meeting tomorrow.
@@ -270,8 +308,6 @@
 - [ ] `There we are.`                       ([Casual] よし！) Well, `there we are`. I've finally finished my homework.
 - [ ] `There you go.`                       ([Casual] どうぞ／その調子) I’m going to go for it! / Yeah, `There you go`!
 
----
-
 ## わかるよ (共感)
 - [ ] `I feel you`                          ([Casual] わかるよ) I’m tired of living in the city. Yeah, `I feel you.` I want to move near the mountains.
 - [x] `I get it`                            ([Casual] わかるよ) `I get it.` It's really frustrating when things don’t go your way.
@@ -282,13 +318,9 @@
 - [ ] `So do I`                             ([Casual] 私もです) I love hiking. `So do I.`
 - [ ] `Neither do I`                        ([Casual] 私もです（否定文に対して）) I don't like spicy food. `Neither do I.`
 
----
-
 ## わかるけど (反対)
 - [x] `I know what you are saying, but`     ([Casual] わかるよ) `I know what you are saying, but` we need to consider the budget.
 - [x] `Fair enough`                         ([Casual] まあ、それもありだね／納得したよ） `Fair enough`, I see your point.
-
----
 
 ## 了解
 - [ ] `You got it.`                         ([Casual] 了解！任せて) `You got it.` I’ll get it done this afternoon.
@@ -300,8 +332,6 @@
 - [ ] `I will do that then`                 ([Casual] じゃあそうします) If you recommend that, `I will do that then.`
 - [ ] `That's what I'll do`                 ([Casual] じゃあそうします) I'll follow your advice. `That's what I'll do.`
 - [ ] `You bet.`                            ([Slang] もちろんだよ) Are you coming to the party? `You bet.`
-
----
 
 ## 同意
 - [x] `(That's) True`                       ([Casual] たしかに) `(That's) True`, we need to rethink the plan.
@@ -317,16 +347,12 @@
 - [ ] `I grant you that`                    ([Formal] それはその通りです) Yeah, that’s true, `I grant you that.`
 - [ ] `I was going to say`                  ([Casual] 言おうと思っていたよ) `I was going to say,` we should check the schedule again.
 
----
-
 ## どういたしまして
 - [ ] `Anytime`                             ([Casual] いつでもどうぞ) Thanks for your help. `Anytime!`
 - [ ] `No problem/worries`                  ([Casual] 問題ないよ／気にしないで) Thanks for covering my shift. `No problem.`
 - [ ] `Not at all`                          ([Business / Casual] どういたしまして／とんでもない) Thank you for your help. `Not at all.`
 - [x] `Don't mention it`                    ([Business] どういたしまして) Thank you for your assistance. `Don't mention it.`
 - [ ] `My pleasure`                         ([Formal] どういたしまして) Thank you for your help. `My pleasure.`
-
----
 
 ## ポジティブ
 - [x] `That would be great`                 ([Casual] そうしていただけると嬉しい) If you could send me the files, `that would be great.`
@@ -336,8 +362,6 @@
 - [ ] `Lucky you!`                          ([Casual] うらやましい) You got tickets to the concert? `Lucky you!`
 - [x] `You flatter me.`                     ([Formal] お世辞でも嬉しいです) `You flatter me`. I’m just doing my job.
 
----
-
 ## ネガティブ
 - [ ] `Not again!`                          ([Casual] またかよ！) `Not again!` I can't believe the internet is down.
 - [x] `I didn't mean it`                    ([Casual] そういうつもりじゃなかった) `I didn't mean it`; I was just joking.
@@ -345,7 +369,6 @@
 - [ ] `There you go again`                  ([Casual] またそれ言ってる／やってるね) `There you go again,` always teasing me.
 - [ ] `That's funny`                        ([Casual] おかしいなぁ) `That's funny,` I thought the meeting was at 3, not 2.
 - [ ] `Been there done that`                ([Casual] やったことある、もういい) `I don't want to try that again.` Been there done that.
-
 
 ## 複合名詞
 - `something else`                              (格別なもの) / That dinner was `something else`!
