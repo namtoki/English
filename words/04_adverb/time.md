@@ -277,3 +277,33 @@
 - `prior to`                        ([Formal] 〜より前に)           Prior to the meeting.
 - `in advance`                      ([Neutral] 前もって)            Book your tickets in advance.
 - `beforehand`                      ([Neutral] 前もって)            Let me know beforehand.
+
+## 段階
+- ✅ `first` /fɜːrst/               ([Neutral] 最初の、第一の)      First, we need to analyze the requirements.
+  - `initial` /ɪˈnɪʃəl/             ([Neutral] 最初の、初期の)      The initial design needs some adjustments.
+  - `early` /ˈɜːrli/                ([Neutral] 早期の、初期の)      We're still in the early stages of development.
+  - `beginning` /bɪˈɡɪnɪŋ/          ([Neutral] 始まり、開始)        At the beginning of the project, we set clear goals.
+- ✅ `middle` /ˈmɪdəl/              ([Neutral] 中間の、真ん中の)    We're in the middle of testing phase.
+  - `intermediate` /ˌɪntərˈmiːdiət/ ([Neutral] 中間の、中級の)      We need an intermediate solution before the final one.
+- ✅ `final` /ˈfaɪnəl/              ([Neutral] 最終の、最後の)      This is the final version of the report.
+  - `end` /end/                     ([Neutral] 終わり、終了)        We're approaching the end of the quarter.
+  - `last` /læst/                   ([Neutral] 最後の、最終の)      This is our last chance to make changes.
+- ✅ `draft` /dræft/                ([Neutral] 下書き、草案)        Please review the draft proposal before Friday.
+    - `rough draft` /rʌf dræft/     ([Neutral] 粗い下書き)          This is just a rough draft of my presentation.
+  - ✅ `preliminary` /prɪˈlɪmɪnəri/ ([Formal] 予備の、暫定的な)     I've reviewed the preliminary specs for the project.
+  - `prototype` /ˈproʊtətaɪp/       ([Neutral] 試作品、原型)        We need to test the prototype before production.
+  - `pilot` /ˈpaɪlət/               ([Neutral] 試験的な パイロット) We're running a pilot program to test the new system.
+  - `beta` /ˈbeɪtə/                 ([Neutral] ベータ版、試用版)    The beta version is ready for testing.
+    - `alpha` /ˈælfə/               ([Neutral] アルファ版、初期版)  The alpha release has many bugs.
+  - ✅ `tentative` /ˈtentətɪv/      ([Formal] 暫定的な、仮の)       We have a tentative schedule for the launch.
+  - ✅ `provisional` /prəˈvɪʒənəl/  ([Formal] 暫定的な、仮の)       The provisional budget is subject to change.
+  - `interim` /ˈɪntərɪm/            ([Formal] 暫定の、中間の)       She served as interim manager during the transition.
+  - `temporary` /ˈtempəreri/        ([Neutral] 一時的な、臨時の)    This is just a temporary solution.
+  - `transitional` /trænˈzɪʃənəl/   ([Formal] 過渡的な、移行期の)   We're in a transitional period right now.
+  - `preparatory` /prɪˈpærətɔːri/   ([Formal] 準備の、予備の)       The preparatory work is almost complete.
+  - `introductory` /ˌɪntrəˈdʌktəri/ ([Neutral] 導入の、入門の)      This is an introductory meeting for new members.
+  - `mock-up` /ˈmɑːk ʌp/            ([Neutral] モックアップ、模型)  The designer created a mock-up of the new interface.
+  - `test` /test/                   ([Neutral] テスト、試験)        Let's run a test before the full launch.
+  - `trial` /ˈtraɪəl/               ([Neutral] 試験、試用)          We're starting a trial period next week.
+  - `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.
+

@@ -1,4 +1,4 @@
-# Favorite
+# Template
 
 ## HOW ARE YOU?
 - `How are you?`                    ([Formal] いかがですか？)       How are you today?
@@ -14,6 +14,21 @@
 - `Is this a good time?`            ([Casual] 今いい？)             Is this a good time to call?
 - `Do you have a minute?`           ([Casual] ちょっといい？)       Do you have a minute to discuss this?
 - `Can I borrow you for a second?`  ([Casual] ちょっといい？)       Can I borrow you for a second? I need your advice.
+
+## GOT IT / WILL DO / UNDERSTOOD
+> `Got it` /ɡɑt ɪt/                 ([Casual] 了解です)             Please finish by 5. Got it.
+  - `You got it` /juː ɡɑt ɪt/       ([Casual] 了解です)             Close the door, please. You got it.
+- `Sure thing` /ʃʊr θɪŋ/            ([Casual] もちろんです)         Can you help me? Sure thing.
+> `I'll take care of it`            ([Neutral] 私が対処します)      Who's handling this? I'll take care of it.
+  - `I'll handle it`                ([Neutral] 私が処理します)      This needs attention. I'll handle it.
+  - `I'll get right on it`          ([Neutral] すぐ取り掛かります)  This is urgent. I'll get right on it.
+  - `I'll see to it`                ([Neutral] 私が面倒を見ます)    Make sure it's done. I'll see to it.
+  - `I'll make sure it gets done`   ([Formal] 必ず実行します)       This is critical. I'll make sure it gets done.
+> `Will do` /wɪl duː/               ([Casual] やっておきます)       Can you send the report? Will do.
+- `On it` /ɑn ɪt/                   ([Casual] 取り掛かります)       We need this ASAP. On it.
+  - `I'm on it`                     ([Casual] 取り掛かっています)   Can you fix this? I'm on it.
+> `Understood` /ˌʌndərˈstʊd/        ([Formal] 了解しました)         Please prioritize this. Understood.
+- `Consider it done`                ([Neutral] お任せください)      I need this by tomorrow. Consider it done.
 
 ## CONVERSATION
 - `Is everything all right?`        ([Casual] 大丈夫？)

@@ -42,7 +42,7 @@
 - `apropos` /ˌæprəˈpoʊ/             ([Formal] ～について)           Apropos your suggestion, I agree.
 - `vis-à-vis` /ˌviːzɑːˈviː/         ([Formal] ～に関して)           Vis-à-vis the competition, we're ahead.
 
-## ASSUMING THAT
+## ASSUMING THAT / SUPPOSING THAT
 > `assuming that` /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
 > `supposing that` /səˈpoʊzɪŋ ðæt/  ([Neutral] ～だと仮定して)      Supposing that he refuses, what will you do?
 - `considering that`                ([Neutral] ～を考慮すると)      Considering that it's raining, we should take umbrellas.
@@ -66,7 +66,25 @@
 - `if I had to guess`               ([Casual] 推測するなら)         If I had to guess, they'll arrive late.
 - `if I were to guess`              ([Formal] 推測するとすれば)     If I were to guess, I'd say it's broken.
 
-## TO ME
+## MOST OF ALL
+- `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
+- `above all` /əˈbʌv ɔːl/           ([Neutral] 何よりも、特に)      Above all, be true to yourself.
+- `most importantly`                ([Neutral] 最も重要なことに)    Most importantly, stay safe.
+- `especially` /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
+- `particularly` /pərˈtɪkjələrli/   ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
+- `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
+
+## BESIDES / ON TOP OF THAT
+> `besides` /bɪˈsaɪdz/              ([Casual] その上)               Besides, I have other plans tonight.
+- `what's more`                     ([Casual] その上)               What's more, she speaks five languages.
+> `on top of that`                  ([Casual] その上、さらに)       The food was cold, and on top of that, it tasted awful.
+- `to make matters worse`           ([Casual] さらに悪いことに)     To make matters worse, we ran out of gas.
+- `what's worse`                    ([Casual] さらに悪いことに)     What's worse, the deadline is tomorrow.
+- `more than anything`              ([Casual] 何よりも)             More than anything, I value honesty.
+- `in addition to that`             ([Formal] それに加えて)         In addition to that, we need approval.
+- `among other things`              ([Neutral] とりわけ)            He mentioned, among other things, the cost.
+
+## TO ME / THE WAY I SEE IT
 - `in my opinion` /ɪn maɪ əˈpɪnjən/ ([Neutral] 私の意見では)        In my opinion, this is the best option.
 - `in my view` /ɪn maɪ vjuː/        ([Neutral] 私の見解では)        In my view, we need more time.
 > `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
@@ -183,7 +201,7 @@
 ## TO THE POINT WHERE
 - `to the point where`              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
 
-## BECAUSE
+## BECAUSE / THE REASON BEING THAT / FOR ONE THING
 - `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
 - `because of` /bɪˈkɔːz əv/         ([Neutral] ～のため)            The game was canceled because of rain.
 - `so` /soʊ/                        ([Casual] だから)               I was hungry, so I ate a sandwich.
@@ -207,7 +225,8 @@
 - `by virtue of` /baɪ ˈvɜːrtʃuː əv/ ([Formal] ～によって)           She succeeded by virtue of hard work.
 - `in view of` /ɪn vjuː əv/         ([Formal] ～を考慮して)         In view of the circumstances, we'll wait.
 - `on the grounds that`             ([Formal] ～を理由に)           He was fired on the grounds that he lied.
-- `the reason being that`           ([Neutral] 理由は～だからだ)    She declined it, the reason being that she was too busy.
+> `the reason being that`           ([Neutral] 理由は～だからだ)    She declined it, the reason being that she was too busy.
+> `for one/another thing`           ([Casual] ひとつには／それから) `For one thing,` it's ~. `For another thing,` it's ~.
 
 ## IN ORDER TO / SO THAT
 > `to` /tuː/                        ([Casual] ～するために)         I left early to catch the train.
@@ -245,7 +264,7 @@
 - `lest` /lest/                     ([Formal] ～しないように)       Study hard lest you fail the exam.
 - `for fear that`                   ([Formal] ～を恐れて)           He whispered for fear that someone might hear.
 
-## THIS WAY
+## THAT WAY / BY DOING SO
 - `then` /ðen/                      ([Neutral] それから そうすれば) Then we went home.
 - `so` /soʊ/                        ([Casual] それで)               So we decided to wait.
 > `that way` /ðæt weɪ/              ([Casual] そうすれば)           Leave early. That way, you won't be late.
@@ -257,7 +276,7 @@
 - `in that case` /ɪn ðæt keɪs/      ([Neutral] その場合は)          In that case, we can reschedule.
 - `if so` /ɪf soʊ/                  ([Neutral] もしそうなら)        Are you busy? If so, we can wait.
 - `in which case`                   ([Formal] その場合は)           We may cancel, in which case we'll notify you.
-- `by doing so` /baɪ ˈduːɪŋ soʊ/    ([Neutral] そうすることで)      By doing so, you'll save time.
+> `by doing so` /baɪ ˈduːɪŋ soʊ/    ([Neutral] そうすることで)      By doing so, you'll save time.
 - `thereby` /ðerˈbaɪ/               ([Formal] それによって)         He resigned, thereby ending the conflict.
 - `thus` /ðʌs/                      ([Formal] このようにして)       Mix well, thus creating a smooth paste.
 - `hence` /hens/                    ([Formal] それゆえに)           He was late, hence the penalty.
@@ -290,11 +309,11 @@
 - `with all` /wɪð ɔːl/              ([Formal] 〜があっても)         With all his experience, he still made a rookie mistake.
 - `notwithstanding`                 ([Formal] 〜にもかかわらず)     Notwithstanding the difficulties, we succeeded.
 
-## EVEN IF
+## EVEN IF / NO MATTER HOW
 > `even if` /ˈiːvən ɪf/             ([Neutral] たとえ〜しても)      Even if it rains, we'll still go to the park.
 - `whether or not`                  ([Neutral] するしない関係なく)  I'm going whether or not you come with me.
 - `no matter what` /noʊ ˈmætər wʌt/ ([Neutral] 何があっても)        No matter what happens, I'll support you.
-- `no matter how` /noʊ ˈmætər haʊ/  ([Neutral] どんなに〜でも)      No matter how hard I try, I can't solve this.
+> `no matter how` /noʊ ˈmætər haʊ/  ([Neutral] どんなに〜でも)      No matter how hard I try, I can't solve this.
 - `however much` /haʊˈevər mʌtʃ/    ([Neutral] どれだけ〜しても)    However much you study, there's always more to learn.
 - `regardless` /rɪˈɡɑːrdləs/        ([Neutral] それでも)            He went ahead regardless of the risks.
 - `come what may` /kʌm wʌt meɪ/     ([Formal] 何が起ころうと)       Come what may, we'll face it together.
@@ -311,7 +330,7 @@
 - `departing from`                  ([Formal] ～から逸脱して)       Departing from the script, he improvised his speech.
 - `differing from` /ˈdɪfərɪŋ frʌm/  ([Neutral] ～と異なって)        Differing from his colleagues, he supported the proposal.
 
-## INSTEAD
+## INSTEAD OF / RATHER THAN
 > `instead of` /ɪnˈsted əv/         ([Neutral] ～の代わりに)        We stayed home instead of going out.
 > `rather than` /ˈræðər ðæn/        ([Neutral] ～よりむしろ)        I'd walk rather than take the bus.
 - `in place of` /ɪn pleɪs əv/       ([Formal] ～の代替として)       She attended in place of her boss.

@@ -1,5 +1,6 @@
 
 - 01_framework/framework.md - お決まりの構文構造パターンや副詞表現
+- 01_framework/template.md - 定型文
 - 02_verb/performative.md - 遂行動詞 (思った瞬間に行動が完了している動詞)
 - 02_verb/transitive/communication.md - 他のものに影響を与える動詞 (意思疎通・表現)
 - 02_verb/transitive/others.md - 他のものに影響を与える動詞 (その他)
