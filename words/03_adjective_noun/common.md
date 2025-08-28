@@ -241,3 +241,115 @@
   - `instigate` /ˈɪnstɪɡeɪt/        ([Formal] 扇動する、始める)     They instigated the rebellion.
 - `precipitant` /prɪˈsɪpɪtənt/      ([Formal] 誘因、沈殿剤)         Stress was the precipitant factor.
   - `precipitate` /prɪˈsɪpɪteɪt/    ([Formal] 引き起こす、沈殿させる)  The crisis precipitated changes.
+
+## ALLY
+- `partner` /ˈpɑːrtnər/             ([Neutral] パートナー、協力者)  We need a reliable partner.
+  - `partnership` /ˈpɑːrtnərʃɪp/    ([Neutral] 協力関係)            Their partnership was successful.
+- `ally` /ˈælaɪ/                    ([Neutral] 同盟国、味方)        France is a close ally of the United States.
+  - `alliance` /əˈlaɪəns/           ([Neutral] 同盟、連合)          They formed a strategic alliance.
+  - `allied` /ˈælaɪd/               ([Neutral] 同盟の、連合した)    The allied forces won the war.
+- `comrade` /ˈkɑːmræd/              ([Neutral] 仲間、同志)          He stood by his comrades.
+- `coalition` /ˌkoʊəˈlɪʃən/         ([Formal] 連立、連合)           The parties formed a coalition government.
+- `confederate` /kənˈfedərət/       ([Formal] 同盟者、連合の)       The confederate states joined forces.
+  - `confederation` /kənˌfedəˈreɪʃən/ ([Formal] 連合、同盟)         The confederation lasted for years.
+
+## CONFLICT
+- `ambush` /ˈæmbʊʃ/                 ([Neutral] 待ち伏せ、奇襲)      The soldiers set up an ambush.
+- `siege` /siːdʒ/                   ([Formal] 包囲、包囲戦)         The siege lasted for months.
+- `besiege` /bɪˈsiːdʒ/              ([Writing] 包囲する)            The castle was besieged for weeks.
+- `raid` /reɪd/                     ([Neutral] 急襲、襲撃)          The enemy launched a raid at dawn.
+  - `raider` /ˈreɪdə/               ([Neutral] 襲撃者、侵略者)      The raiders attacked at night.
+- `assault` /əˈsɔːlt/               ([Formal] 襲撃、暴行)           The assault on the fortress failed.
+- `retreat` /rɪˈtriːt/              ([Neutral] 退却、後退)          The army was forced to retreat.
+  - `retirement` /rɪˈtaɪəmənt/      ([Neutral] 退職、退去)          His retirement was well-deserved.
+- `secede` /sɪˈsiːd/                ([Writing] 脱退する、離脱)      The state threatened to secede.
+  - `secession` /sɪˈseʃən/          ([Writing] 脱退、離脱)          The secession led to civil war.
+  - `secessionist` /sɪˈseʃənɪst/    ([Writing] 分離主義者)          The secessionists formed a new party.
+- `surrender` /səˈrendə/            ([Neutral] 降伏、降参)          The enemy decided to surrender.
+- `skirmish` /ˈskɜːmɪʃ/             ([Formal] 小競り合い)           A skirmish broke out at the border.
+- `offensive` /əˈfensɪv/            ([Formal] 攻撃、攻勢)           They launched a major offensive.
+  - `offense` /əˈfens/              ([Neutral] 攻撃、違反)          The offense was too strong to stop.
+- `defensive` /dɪˈfensɪv/           ([Neutral] 守備の、防御の)      The team took a defensive position.
+  - `defend` /dɪˈfend/              ([Neutral] 守る、擁護する)      They defended their territory.
+  - `defense` /dɪˈfens/             ([Neutral] 防御、防衛)          The city's defense was strong.
+  - `defenseless` /dɪˈfensləs/      ([Neutral] 無防備の)            The village was left defenseless.
+  - `defender` /dɪˈfendə/           ([Neutral] 防御者、守備者)      The defender blocked the attack.
+- `invasion` /ɪnˈveɪʒən/            ([Formal] 侵攻、侵略)           The invasion was repelled.
+  - `invade` /ɪnˈveɪd/              ([Formal] 侵略する、侵入)       The army invaded the neighboring country.
+  - `invader` /ɪnˈveɪdə/            ([Formal] 侵略者、侵入者)       The invaders were repelled.
+- `conquest` /ˈkɒŋkwest/            ([Writing] 征服、攻略)          The conquest took several years.
+  - `conquer` /ˈkɒŋkə/              ([Writing] 征服する、克服)      They conquered the mountain peak.
+  - `conqueror` /ˈkɒŋkərə/          ([Writing] 征服者、勝利者)      The conqueror ruled the land.
+- `maneuver` /məˈnuːvə/             ([Formal] 戦術、作戦行動)       The general planned a clever maneuver.
+- `flank` /flæŋk/                   ([Military] 側面、側面攻撃)     They attacked from the left flank.
+- `encircle` /ɪnˈsɜːkəl/            ([Formal] 包囲する)             The troops encircled the enemy.
+- `fortify` /ˈfɔːtɪfaɪ/             ([Formal] 要塞化する、強化)     They fortified the city walls.
+  - `fort` /fɔːt/                   ([Neutral] 砦、要塞)            The old fort protected the harbor.
+  - `fortress` /ˈfɔːtrəs/           ([Neutral] 要塞、砦)            The fortress stood on the hill.
+- `escalate` /ˈeskəleɪt/            ([Neutral] 拡大する、激化)      The conflict began to escalate.
+- `ceasefire` /ˈsiːsfaɪə/           ([Formal] 停戦)                 Both sides agreed to a ceasefire.
+- `truce` /truːs/                   ([Neutral] 休戦、停戦)          They called a temporary truce.
+- `armistice` /ˈɑːmɪstɪs/           ([Writing] 休戦協定)            The armistice ended the war.
+- `mayhem` /ˈmeɪhem/                ([Neutral] 大混乱、騒乱)        The storm caused mayhem in the city.
+- `chaos` /ˈkeɪɒs/                  ([Neutral] 混沌、大混乱)        The announcement caused chaos.
+  - `chaotic` /keɪˈɒtɪk/            ([Neutral] 混沌とした)          The situation was chaotic.
+  - `chaotically` /keɪˈɒtɪkli/      ([Neutral] 混乱して)            People ran chaotically in all directions.
+- `turmoil` /ˈtɜːrmɔɪl/             ([Formal] 混乱、騒動)           The country is in political turmoil.
+- `pandemonium` /ˌpændɪˈmoʊniəm/    ([Writing] 大混乱、修羅場)      Pandemonium broke out in the stadium.
+- `pandemic` /pænˈdemɪk/            ([Neutral] 世界的流行病)        The pandemic affected millions worldwide.
+  - `pandemia` /pænˈdiːmiə/         ([Writing] 大流行、汎流行)      The pandemia spread rapidly.
+- `havoc` /ˈhævək/                  ([Neutral] 大混乱、破壊)        The hurricane wreaked havoc on the coast.
+- `disorder` /dɪsˈɔːrdər/           ([Neutral] 無秩序、混乱)        The protest descended into disorder.
+  - `disordered` /dɪsˈɔːrdərd/      ([Neutral] 乱れた、混乱した)    His thoughts were disordered.
+  - `disorderly` /dɪsˈɔːrdərli/     ([Formal] 無秩序な、乱暴な)     They were arrested for disorderly conduct.
+- `bedlam` /ˈbedləm/                ([Casual] 大混乱、騒乱)         The classroom was absolute bedlam.
+- `anarchy` /ˈænərki/               ([Formal] 無政府状態、無秩序)   The country descended into anarchy.
+  - `anarchic` /əˈnɑːrkɪk/          ([Formal] 無政府主義的な)       The situation became anarchic.
+  - `anarchist` /ˈænərkɪst/         ([Formal] 無政府主義者)         The anarchist was arrested.
+- `withdraw` /wɪðˈdrɔː/             ([Neutral] 撤退する、引き下がる) The troops withdrew from the area.
+  - `withdrawal` /wɪðˈdrɔːəl/       ([Neutral] 撤退、撤収)          The withdrawal was orderly.
+  - `withdrawn` /wɪðˈdrɔːn/         ([Neutral] 引きこもった)        He became withdrawn after the defeat.
+- `breakaway` /ˈbreɪkəweɪ/          ([Neutral] 離脱、分離)          The breakaway group formed a new party.
+- `defect` /dɪˈfekt/                ([Formal] 離反する、亡命する)   The spy defected to the enemy.
+  - `defection` /dɪˈfekʃən/         ([Formal] 離反、亡命)           His defection shocked everyone.
+  - `defective` /dɪˈfektɪv/         ([Neutral] 欠陥のある)          The defective weapon was recalled.
+- `rebel` /rɪˈbel/                  ([Neutral] 反逆する、反抗する)  The colonists rebelled against the king.
+  - `rebellion` /rɪˈbeljən/         ([Neutral] 反乱、反逆)          The rebellion was crushed.
+  - `rebellious` /rɪˈbeljəs/        ([Neutral] 反抗的な)            The rebellious troops were punished.
+- `revolt` /rɪˈvoʊlt/               ([Neutral] 反乱する、反抗する)  The peasants revolted against taxes.
+- `mutiny` /ˈmjuːtɪni/              ([Formal] 反乱する（軍隊で）)   The crew threatened to mutiny.
+- `insurrection` /ˌɪnsəˈrekʃən/     ([Writing] 暴動、反乱)          The insurrection was quickly suppressed.
+- `uprising` /ˈʌpraɪzɪŋ/            ([Neutral] 蜂起、暴動)          The uprising spread across the country.
+- `dissent` /dɪˈsent/               ([Formal] 異議を唱える)         Few dared to dissent from the decision.
+- `rift` /rɪft/                     ([Neutral] 亀裂、不和)          A rift developed between the two leaders.
+- `split` /splɪt/                   ([Neutral] 分裂、割れ目)        The party split over the issue.
+- `breach` /briːtʃ/                 ([Formal] 違反、裂け目)       The breach of contract was serious.
+- `divide` /dɪˈvaɪd/                ([Neutral] 分裂、分かれ目)      A deep divide exists between them.
+  - `division` /dɪˈvɪʒən/          ([Neutral] 分割、部門)          The division of labor was efficient.
+  - `divisive` /dɪˈvaɪsɪv/          ([Formal] 分裂を招く)          The issue was highly divisive.
+- `schism` /ˈsɪzəm/                ([Writing] 分裂、分派)        The church suffered a major schism.
+  - `schismatic` /sɪzˈmætɪk/       ([Writing] 分派的な)          The schismatic movement grew stronger.
+- `discord` /ˈdɪskɔːrd/              ([Formal] 不和、不協和音)      Discord arose among the team members.
+  - `discordant` /dɪsˈkɔːrdənt/     ([Formal] 不協和音な)          Their views were discordant.
+- `rupture` /ˈrʌptʃər/              ([Formal] 破裂、決裂)        The rupture in relations was permanent.
+- `fissure` /ˈfɪʃər/               ([Writing] 亀裂、裂け目)      A fissure appeared in the rock.
+- `cleft` /kleft/                   ([Writing] 裂け目、割れ目)      The cleft in the mountain was deep.
+- `chasm` /ˈkæzəm/                 ([Writing] 深い割れ目、隔たり)  A chasm exists between rich and poor.
+- `evacuation` /ɪˌvækjuˈeɪʃn/        ([Formal] 避難)           The evacuation was ordered due to the fire.
+- `disaster` /dɪˈzæstər/             ([Neutral] 災害、惨事)        The earthquake was a major disaster.
+  - `disastrous` /dɪˈzæstrəs/          ([Neutral] 悲惨な、破滅的な)   The storm had disastrous consequences.
+  - `disastrously` /dɪˈzæstrəsli/      ([Neutral] 悲惨に、破滅的に)   The plan failed disastrously.
+- `catastrophe` /kəˈtæstrəfi/          ([Formal] 大惨事、破綻)        The flood was a complete catastrophe.
+- `calamity` /kəˈlæməti/              ([Formal] 災難、不幸)          The fire was a calamity for the town.
+- `tragedy` /ˈtrædʒədi/               ([Neutral] 悲劇)              The accident was a terrible tragedy.
+- `crisis` /ˈkraɪsɪs/                 ([Neutral] 危機)              The country is facing an economic crisis.
+- `emergency` /ɪˈmɜrdʒənsi/           ([Neutral] 緊急事態)          Call 911 in case of emergency.
+
+## 実績
+- `track record` /træk ˈrekərd/     ([Neutral] 実績、経歴)          She has an excellent track record in sales.
+- `record` /ˈrekərd/                ([Neutral] 記録、実績)          His academic record is impressive.
+- `history` /ˈhɪstəri/              ([Neutral] 履歴、経歴)          The company has a long history of innovation.
+- `background` /ˈbækɡraʊnd/         ([Neutral] 経歴、背景)          Her background is in engineering.
+- `credentials` /krɪˈdenʃəlz/       ([Formal] 資格、実績)           His credentials are outstanding.
+- `portfolio` /pɔːrtˈfoʊlioʊ/       ([Neutral] 作品集、実績集)      Review my portfolio of past projects.
+

@@ -32,3 +32,20 @@
 - `jeer` /dʒɪr/                     ([Neutral] ヤジを飛ばす)        The crowd jeered at the opposing team.
 - `deride` /dɪˈraɪd/                ([Formal] あざける、嘲笑する)   Critics derided his performance.
   - `derision` /dɪˈrɪʒən/           ([Formal] 嘲笑、あざけり)       His ideas were met with derision.
+  - `derisive` /dɪˈraɪsɪv/          ([Formal] 嘲笑的な)             She made a derisive comment.
+- `vilify` /ˈvɪlɪfaɪ/               ([Writing] 中傷する、けなす)    The press vilified the celebrity.
+  - `vilification` /ˌvɪlɪfɪˈkeɪʃən/ ([Writing] 中傷、悪口)          The vilification was unjustified.
+- `revile` /rɪˈvaɪl/                ([Writing] 罵倒する 悪口を言う) They reviled him as a traitor.
+
+## SNUB / IGNORE / REJECT
+- `ignore` /ɪɡˈnɔːr/                ([Neutral] 無視する)            He ignored my messages.
+- `reject` /rɪˈdʒekt/               ([Neutral] 拒絶する)            They rejected his proposal.
+- `dismiss` /dɪsˈmɪs/               ([Neutral] 却下する、退ける)    She dismissed his concerns.
+> `snub` /snʌb/                     ([Neutral] 冷たくあしらう)      She snubbed him at the party.
+  - `snubbing` /ˈsnʌbɪŋ/            ([Neutral] 冷遇)                His snubbing of the proposal was obvious.
+- `shun` /ʃʌn/                      ([Formal] 避ける、敬遠する)     The community shunned the family.
+  - `shunning` /ˈʃʌnɪŋ/             ([Formal] 回避、忌避)           The shunning lasted for years.
+- `ostracize` /ˈɑːstrəsaɪz/         ([Formal] 追放する、排斥する)   They ostracized him from the group.
+  - `ostracism` /ˈɑːstrəsɪzəm/      ([Formal] 追放、排斥)           The ostracism was painful.
+- `rebuff` /rɪˈbʌf/                 ([Formal] 拒絶する、はねつける) She rebuffed his advances.
+- `spurn` /spɜːrn/                  ([Writing] 拒絶する はねつける) She spurned his affection.
