@@ -22,7 +22,6 @@ abstain	10	【動】控える、慎む、棄権する
 abstinence	11	【名】禁酒、自制、禁欲		
 abundance	5	【名】多量、裕福		
 abundant	5	【形】豊富な、富んだ		
-abusive	7	【形】口汚ない、悪口を言う		
 accede	12	【動】同意する、権力の座につく、条約に加盟する		
 accession	12	【名】就任、取得、付加		
 acclamation	12	【名】満場一致、発声投票、拍手喝さい		
@@ -2522,9 +2521,6 @@ endemic	11	【形】ある地方特有の、風土性の 【名】風土病
 endless	4	【形】終わりのない、永遠の		
 endow	8	【動】寄付する、授ける		
 endowment	8	【名】寄付、素質、基金、基本財産		
-endurance	6	【名】耐久性、持久力、忍耐		
-endure	4	【動】耐える		
-enduring	8	【形】長続きする、永続的な、不朽の、我慢強い		
 enemy	2	【名】敵		
 enforcement	7	【名】施行、実施、強制、主張		
 engage	4	【動】従事する、引く、雇う		
@@ -2719,7 +2715,6 @@ expedition	5	【名】探検、遠征
 expel	8	【動】除名する、免職にする、追い出す		
 expend	7	【動】費やす、使い果たす		
 expenditure	7	【名】支出、経費、支払い		
-experienced	5	【形】経験豊かな、熟達した		
 experiment	3	【名】実験 【動】実験する		
 expertise	7	【名】専門的知識・技術		
 expiration	8	【名】期限切れ、満了		
@@ -3887,7 +3882,6 @@ inescapable	9	【形】免れ得ない、回避できない
 inevitably	6	【副】必然的に、必ず		
 inexorable	11	【形】容赦しない、不変の		
 inexpensive	6	【形】安価な、費用のかからない		
-inexperienced	7	【形】経験不足の、未熟な、不慣れの		
 inexplicable	9	【形】不可解な、説明がつかない		
 infallible	12	【形】絶対確実な、けっして誤らない		
 infamous	10	【形】悪名の高い、恥ずべき		
@@ -4823,7 +4817,6 @@ mistrust	9	【動】信用しない、疑う 【名】不信、疑惑
 misty	8	【形】霧が立ちこめた、霧状の、はっきりしない		
 misunderstand	4	【動】誤解する		
 misunderstanding	6	【名】誤解、解釈違い、意見の相違		
-misuse	9	【動】誤用する、悪用する 【名】悪用、誤用		
 mite	12	【名】微力、わずかの金、ごくわずか		
 mitigate	11	【動】刑罰を軽くする、怒りや過酷さを和らげる		
 mitten	5	【名】手袋、ミトン		
@@ -7586,8 +7579,6 @@ succumb	11	【動】屈服する、負ける、死ぬ
 suck	3	【動】口で吸う 【名】吸うこと		
 sudden	2	【形】突然の		
 sue	5	【動】訴訟を起こす		
-suffer	2	【動】苦しむ、病気をする、傷つく、経験する		
-suffering	3	【名】苦しむこと、苦しみ		
 suffice	8	【動】十分である、足りる		
 sufficiency	6	【名】十分な数、多数、大量、充足		
 sufficient	3	【形】十分な		
@@ -8145,7 +8136,6 @@ unconventional	9	【形】因習にとらわれない、自由な
 undeniable	9	【形】非の打ちどころのない、否定できない、議論の余地のない		
 undercover	10	【形】秘密の		
 undercut	10	【動】下を切り取る、安く売る		
-undergo	5	【動】経験する		
 undergraduate	5	【名】（大学院生に対して）学部の学生 【形】学部の、学部の学生の		
 underlie	8	【動】基礎にある、根拠をなす		
 underline	4	【動】下に線を引く、強調する 【名】下線		
@@ -8402,8 +8392,6 @@ vindictive	12	【形】復讐心のある、執念深い
 vine	5	【名】つる、つる植物、ブドウの木		
 vinegar	3	【名】食用酢、不機嫌、活力 【動】酢を混ぜる		
 vintage	6	【名】収穫、極上のワイン		
-violate	5	【動】違反する		
-violation	6	【名】違反、妨害		
 violence	3	【名】暴力		
 violently	5	【副】激しく、乱暴に		
 violinist	3	【名】バイオリン奏者		
@@ -8578,7 +8566,6 @@ wit	5	【名】機知、知力、正気
 witch	5	【名】魔女 【動】魔法をかける		
 wither	7	【動】しおれる、衰える、あせる、消えてなくなる		
 withhold	8	【動】保留する、抑える、引き留める		
-withstand	7	【動】よく耐える、抵抗する		
 witness	3	【動】目撃する、証明する 【名】目撃者、証人		
 witty	7	【形】機知のある、しゃれのうまい、気の利いた		
 wizard	7	【名】名人、男の魔法使い 【形】魔術の		

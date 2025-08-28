@@ -179,3 +179,27 @@
 > `go to the doctor`                ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
 - `consult a doctor`                ([Formal] 医師に相談する)       Please consult a doctor before taking this.
 - `get checked`                     ([Casual] 検査を受ける)         You should get checked soon.
+
+## UNDERGO
+- `undergo` /ˌʌndərˈɡoʊ/            ([Neutral] 経験する、受ける)    She will undergo surgery tomorrow.
+- `experience` /ɪkˈspɪriəns/        ([Neutral] 経験する)            We experienced some difficulties.
+
+- `endure` /ɪnˈdjʊr/                ([Neutral] 耐える、我慢する)    He endured years of hardship.
+  - `endured` /ɪnˈdjʊrd/            ([Neutral] 耐えた)              She endured the pain silently.
+  - `enduring` /ɪnˈdjʊrɪŋ/          ([Neutral] 耐えている、永続的な) Their enduring friendship lasted decades.
+  - `endurance` /ɪnˈdjʊrəns/        ([Neutral] 忍耐力)              Running builds endurance.
+- `withstand` /wɪðˈstænd/           ([Neutral] 耐える、抵抗する)    The building can withstand earthquakes.
+  - `withstood` /wɪðˈstʊd/          ([Neutral] withstandの過去形)   The fortress withstood the siege.
+- `sustain` /səˈsteɪn/              ([Formal] 受ける、維持する)     He sustained serious injuries.
+  - `sustained` /səˈsteɪnd/         ([Formal] 持続的な、受けた)     She made a sustained effort.
+  - `sustaining` /səˈsteɪnɪŋ/       ([Formal] 維持している)         The sustaining power of hope.
+- `suffer` /ˈsʌfər/                 ([Neutral] 苦しむ、患う)        She suffers from migraines.
+  - `suffered` /ˈsʌfərd/            ([Neutral] 苦しんだ)            He suffered a heart attack.
+  - `suffering` /ˈsʌfərɪŋ/          ([Neutral] 苦痛、苦しみ)        Their suffering was unbearable.
+  - `sufferer` /ˈsʌfərər/           ([Neutral] 患者、被害者)        Allergy sufferers need medication.
+- `be subject to`                   ([Neutral] 〜を受ける)          The plan is subject to approval.
+- `be liable to` /biː ˈlaɪəbəl tuː/ ([Formal] 〜しがちである)       He's liable to forget important details.
+- `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
+- `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
+- `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
+

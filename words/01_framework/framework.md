@@ -1,6 +1,6 @@
 # FRAMEWORK
 
-## AS I SAID
+## AS I MENTIONED EARLIER / LIKE YOU SAID
 > `like S Vpast`                    (S が V した通り)
   - `like I said`                   ([Casual] さっき言ったように)   Like I said, we need to leave early.
   - `like I told you`               ([Casual] 言った通り)           Like I told you, he's always late.
@@ -74,14 +74,14 @@
 - `particularly` /pərˈtɪkjələrli/   ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
 - `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
 
-## BESIDES / ON TOP OF THAT
+## BESIDES / ON TOP OF THAT / IN ADDITION TO THAT
 > `besides` /bɪˈsaɪdz/              ([Casual] その上)               Besides, I have other plans tonight.
 - `what's more`                     ([Casual] その上)               What's more, she speaks five languages.
 > `on top of that`                  ([Casual] その上、さらに)       The food was cold, and on top of that, it tasted awful.
 - `to make matters worse`           ([Casual] さらに悪いことに)     To make matters worse, we ran out of gas.
 - `what's worse`                    ([Casual] さらに悪いことに)     What's worse, the deadline is tomorrow.
 - `more than anything`              ([Casual] 何よりも)             More than anything, I value honesty.
-- `in addition to that`             ([Formal] それに加えて)         In addition to that, we need approval.
+> `in addition to that`             ([Formal] それに加えて)         In addition to that, we need approval.
 - `among other things`              ([Neutral] とりわけ)            He mentioned, among other things, the cost.
 
 ## TO ME / THE WAY I SEE IT

@@ -13,6 +13,28 @@
 - `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
 - `be eating me alive`              ([Casual] 蝕んでいる)           Keeping secrets was eating me alive.
 
+## MISTREAT
+- `abuse` /əˈbjuːz/                  ([Neutral] 虐待する、濫用する)  Don't abuse your authority.
+  - `abused` /əˈbjuːzd/              ([Neutral] 虐待された)          The abused children needed help.
+  - `abusing` /əˈbjuːzɪŋ/           ([Neutral] 虐待している)        He's abusing his power.
+  - `abusive` /əˈbjuːsɪv/           ([Neutral] 虐待的な)            His abusive behavior was reported.
+  - `abuse` /əˈbjuːs/                ([Neutral] 虐待、濫用)          Child abuse is a serious crime.
+  - `abuser` /əˈbjuːzər/             ([Neutral] 虐待者)              The abuser was arrested.
+- `mistreat` /ˌmɪsˈtriːt/           ([Neutral] 虐待する、粗末に扱う) Don't mistreat animals.
+  - `mistreated` /ˌmɪsˈtriːtɪd/     ([Neutral] 虐待された)          The mistreated workers filed a complaint.
+  - `mistreatment` /ˌmɪsˈtriːtmənt/ ([Neutral] 虐待、不当な扱い)    The mistreatment of prisoners was exposed.
+- `maltreat` /ˌmælˈtriːt/           ([Formal] 虐待する、酷使する)   They maltreated the prisoners.
+  - `maltreated` /ˌmælˈtriːtɪd/     ([Formal] 虐待された)           The maltreated animals were rescued.
+  - `maltreatment` /ˌmælˈtriːtmənt/ ([Formal] 虐待、酷使)           The maltreatment was documented.
+- `misuse` /ˌmɪsˈjuːz/              ([Neutral] 誤用する、悪用する)  He misused company funds.
+  - `misused` /ˌmɪsˈjuːzd/          ([Neutral] 誤用された)          The misused data led to wrong conclusions.
+  - `misuse` /ˌmɪsˈjuːs/            ([Neutral] 誤用、悪用)          The misuse of drugs is dangerous.
+- `violate` /ˈvaɪəleɪt/             ([Formal] 違反する、侵害する)   He violated the company rules.
+  - `violated` /ˈvaɪəleɪtɪd/        ([Formal] 違反した、侵害された) Her rights were violated.
+  - `violating` /ˈvaɪəleɪtɪŋ/       ([Formal] 違反している)         They're violating the agreement.
+  - `violation` /ˌvaɪəˈleɪʃən/      ([Formal] 違反、侵害)           The violation resulted in a fine.
+  - `violator` /ˈvaɪəleɪtər/        ([Formal] 違反者)               Traffic violators will be prosecuted.
+
 ## DESTROY
 - `wreck` /rɛk/                      ([Neutral] 破壊する、難破船)    The storm will wreck the ship.
   - `wrecked` /rɛkt/                  ([Neutral] 破壊された)          The wrecked car was towed away.
@@ -72,13 +94,6 @@
   - `ruling` /ˈruːlɪŋ/              ([Neutral] 支配的な、判決)      The ruling party lost support.
 - `regulate` /ˈreɡjəleɪt/           ([Formal] 規制する、調整する)   The government regulates industries.
 - `dominate` /ˈdɑːmɪneɪt/           ([Neutral] 支配する、左右する)  One company dominates the market.
-
-## BE SUBJECT TO
-- `be subject to`                   ([Neutral] 〜を受ける)          The plan is subject to approval.
-- `be liable to` /biː ˈlaɪəbəl tuː/ ([Formal] 〜しがちである)       He's liable to forget important details.
-- `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
-- `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
-- `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
 
 ## Words
 

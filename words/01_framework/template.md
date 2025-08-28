@@ -1,19 +1,40 @@
 # Template
 
-## HOW ARE YOU?
+## HOW'S IT GOING / HOW'VE YOU BEEN / WHAT'S UP
 - `How are you?`                    ([Formal] いかがですか？)       How are you today?
 - `How are you doing?`              ([Neutral] お元気ですか？)      How are you doing lately?
-- `How's it going?`                 ([Casual] 調子はどう？)         How's it going with work?
+> `How's it going?`                 ([Casual] 調子はどう？)         How's it going with work?
 - `How are things?`                 ([Casual] 最近どう？)           How are things at home?
 - `How's your day going?`           ([Casual] 今日の調子はどう？)   How's your day going so far?
-- `How've you been?`                ([Casual] 元気だった？)         How've you been since last time?
-- `What's up?`                      ([Casual] どう？何してる？)     What's up with you?
+> `How've you been?`                ([Casual] 元気だった？)         How've you been since last time?
+> `What's up?`                      ([Casual] どう？何してる？)     What's up with you?
 
-## DO YOU HAVE TIME?
+## DO YOU HAVE A MINUTE?
 - `Do you have time?`               ([Neutral] お時間ありますか？)  Do you have time to talk?
 - `Is this a good time?`            ([Casual] 今いい？)             Is this a good time to call?
-- `Do you have a minute?`           ([Casual] ちょっといい？)       Do you have a minute to discuss this?
+> `Do you have a minute?`           ([Casual] ちょっといい？)       Do you have a minute to discuss this?
 - `Can I borrow you for a second?`  ([Casual] ちょっといい？)       Can I borrow you for a second? I need your advice.
+- `(Did) You wanted to see me?`     ([Casual] お呼びですか？)       (Did) You wanted to see me? I’m here now.
+
+## YOU KNOW?
+> `You know O?`                     ([Casual] 知っていますか？)     You know our budget presentation today?
+  - `You know how S V?`             ([Casual] ～ってわかるでしょ？) You know how people always say time flies?
+  - `Remember when S V?`            ([Casual] 覚えてる？したとき)   Remember when we got lost in Tokyo? That was wild.
+    - `Do you remember that O?`     ([Casual] 覚えている？)         Do you remember that bike at ABC Department Store?
+  - `Did you hear O?`               ([Casual] 聞きました？)         Did you hear about Kim? She got promoted.
+- `I told you O, right?`            ([Casual] 〜って言ったよね？)   I told you it was going to rain, right? Now look at the sky!
+- `I'd like to ask you a favor.`    ([Casual] お願いがあるんだけど) I'd like to ask you a favor regarding the report.
+
+## ARE YOU OKAY? / ALL GOOD?
+> `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
+- `You okay?`                       ([Casual] 大丈夫？)             You okay? You seem quiet today.
+> `All good?`                       ([Casual] 大丈夫？)             All good? Ready to continue?
+- `You good?`                       ([Casual] 大丈夫？)             You good? Need any help?
+- `Everything okay?`                ([Casual] 大丈夫？)             Everything okay over there?
+- `Is everything all right?`        ([Neutral] 大丈夫ですか？)      Is everything all right with the project?
+- `Is everything okay?`             ([Neutral] すべて大丈夫？)      Is everything okay at home?
+- `Are you all right?`              ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
+- `Everything alright?`             ([Casual] 大丈夫？)             Everything alright with your order?
 
 ## GOT IT / WILL DO / UNDERSTOOD
 > `Got it` /ɡɑt ɪt/                 ([Casual] 了解です)             Please finish by 5. Got it.
@@ -30,22 +51,29 @@
 > `Understood` /ˌʌndərˈstʊd/        ([Formal] 了解しました)         Please prioritize this. Understood.
 - `Consider it done`                ([Neutral] お任せください)      I need this by tomorrow. Consider it done.
 
-## CONVERSATION
-- `Is everything all right?`        ([Casual] 大丈夫？)
-- `You know O?`                     ([Casual] 知っていますか？)     You know our budget presentation today?
-  - `You know how S V?`             ([Casual] ～ってわかるでしょ？) You know how people always say time flies?
-  - `Remember when S V?`            ([Casual] 覚えてる？したとき)   Remember when we got lost in Tokyo? That was wild.
-    - `Do you remember that O?`     ([Casual] 覚えている？)         Do you remember that bike at ABC Department Store?
-  - `Did you hear O?`               ([Casual] 聞きました？)         Did you hear about Kim? She got promoted.
-- `I told you O, right?`            ([Casual] 〜って言ったよね？)   `I told you it was going to rain, right?` Now look at the sky!
-- `I'd like to ask you a favor.`    ([Casual] お願いがあるんだけど) `I'd like to ask you a favor` regarding the report.
-- `(Did) You wanted to see me?`     ([Casual] お呼びですか？)       `(Did) You wanted to see me?` I’m here now.
+## HOW CAN I PUT THIS? / HOW SHOULD I SAY THIS?
+> `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
+- `How should I say this?`          ([Neutral] どう言えばいいかな)  How should I say this? It's sensitive.
+- `What's the word for it?`         ([Casual] 何て言うんだっけ？)   What's the word for it? It's on the tip of my tongue.
+- `How do I explain this?`          ([Neutral] どう説明すればいい)  How do I explain this? It's technical.
+- `Let me think how to say this`    ([Neutral] どう言うか考えさせて) Let me think how to say this properly.
+- `I'm trying to find the right words` ([Neutral] 適切な言葉を探してる) I'm trying to find the right words here.
+- `It's hard to explain`            ([Casual] 説明が難しい)         It's hard to explain, but I'll try.
+- `I don't know how to put it`      ([Casual] どう言えばいいか)     I don't know how to put it exactly.
+
+## IT MAKES SENSE FOR A TO B
+> `That makes sense`                ([Casual] なるほど、納得)       That makes sense. I understand now.
+> `Makes sense`                     ([Casual] なるほど)             Makes sense. Let's do that.
+> `It makes sense`                  ([Neutral] 理にかなってる)      It makes sense to start early.
+> `It makes sense for A to B`       ([Neutral] AがBするのが理にかなう) It makes sense for them to wait.
+> `It makes sense that S V`         ([Neutral] ～は理にかなってる)  It makes sense that prices went up.
+- `It's only natural that S V`      ([Neutral] ～するのが自然)      It's only natural that he's tired.
+- `It's logical that S V`           ([Formal] ～は論理的だ)         It's logical that we proceed carefully.
+- `It's reasonable that S V`        ([Neutral] ～は妥当だ)          It's reasonable that they need more time.
+- `It stands to reason that S V`    ([Formal] ～は当然だ)           It stands to reason that costs will rise.
+- `It's understandable that S V`    ([Neutral] ～は理解できる)      It's understandable that she's upset.
 
 ## OPINION
-- `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It’s a bit complicated.
-  - `What's the word for it?`       ([Casual] 何て言うんだっけ？)   What's the word for it? It's on the tip of my tongue.
-- `It makes sense for A to B`       ([Neutral] 理にかなってる)      It makes sense for them to wait until next year. 
-  - `It's only natural that A B`    ([Neutral] A が B するのが自然) It’s only natural that the product owner defines the requirements
 - `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
   - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with` any option you choose.
   - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
