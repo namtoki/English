@@ -10,6 +10,24 @@
 - `wound` /wuːnd/                   ([Formal] 深く傷つける)         Her words wounded him deeply.
 - `affront` /əˈfrʌnt/               ([Formal] 侮辱、怒らせる)       His comment was an affront to my dignity.
 
+## TROUBLE
+> `trouble` /ˈtrʌbəl/               ([Neutral] 悩ませる)            What troubles you most?
+- `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.
+- `concern` /kənˈsɜːrn/             ([Neutral] 心配させる)          Rising prices concern everyone.
+- `distress` /dɪˈstres/             ([Neutral] 苦痛を与える)        The news distressed the family.
+- `disturb` /dɪˈstɜːrb/             ([Neutral] 動揺させる)          Don't disturb him while working.
+> `plague` /pleɪɡ/                  ([Neutral] 苦しめる)            Doubts plagued him all night.
+> `torment` /tɔːrˈment/             ([Neutral] 苦しめる)            Guilt tormented her for years.
+> `afflict` /əˈflɪkt/               ([Formal] 苦しめる)             Pain afflicted his entire body.
+- `agonize` /ˈæɡənaɪz/              ([Neutral] 苦悩させる)          The decision agonized him for days.
+- `torture` /ˈtɔːrtʃər/             ([Neutral] 拷問する、苦しめる)  Guilt tortured him endlessly.
+- `haunt` /hɔːnt/                   ([Neutral] つきまとう)          The memory haunts me still.
+- `persist` /pərˈsɪst/              ([Neutral] しつこく悩ませる)    The problem persists despite efforts.
+- `nag` /næɡ/                       ([Casual] しつこく悩ませる)     Self-doubt nagged at her constantly.
+
+## ANNOY
+- `vex` /veks/                       ([Writing] いらだたせる)          The problem vexed the scientists.
+
 ## EMBARRASS
 > `embarrass` /ɪmˈbærəs/            ([Neutral] 恥をかかせる)        Don't embarrass me in public.
 - `shame` /ʃeɪm/                    ([Neutral] 恥をかかせる)        She tried to shame him into apologizing.

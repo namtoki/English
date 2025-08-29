@@ -209,6 +209,7 @@
 - ✅ `complicated` /ˈkɒmplɪkeɪtɪd/  ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
   - `complication`/ˌkɒmplɪˈkeɪʃən/  ([Writing] 面倒な事態)          The surgery was successful, but there were complications.
 - `complex` /kəmˈpleks/             ([Writing] 構造の複雑さ)        The human brain is an incredibly complex organ.
+- `diverse` /daɪˈvɜːrs/             ([Neutral] 多様な)              The company has a diverse workforce.
 - `involved` /ɪnˈvɒlvd/             ([Neutral] 関わっている 複雑な) The procedure is quite involved.
 - `sophisticated` /səˈfɪstɪkeɪtɪd/  ([Neutral] 洗練された、高度な)  This is a sophisticated system.
 - `elaborate` /ɪˈlæbərət/           ([Neutral] 込み入った、精巧な)  She had elaborate plans for the party.
@@ -849,7 +850,6 @@
   - `revolve around` /rɪˈvɑːlv əˈraʊnd/ ([Neutral] ～を中心とする)        The story revolves around family.
   - `hinge on` /hɪndʒ ɑːn/             ([Neutral] ～次第である)          The decision hinges on the budget.
 
-- `contradict` /ˌkɑːntrəˈdɪkt/       ([Neutral] 矛盾する、否定する)  Her actions contradict her words.
   - `contradiction` /ˌkɑːntrəˈdɪkʃən/ ([Neutral] 矛盾、否定)          There's a contradiction in his statement.
   - `contradictory` /ˌkɑːntrəˈdɪktəri/ ([Neutral] 矛盾した)          The reports are contradictory.
 

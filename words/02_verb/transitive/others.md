@@ -67,6 +67,7 @@
 - `increase` /ɪnˈkriːs/             ([Neutral] 増加する、増やす)    Sales increased by 20%.
 - `extend` /ɪkˈstend/               ([Neutral] 延ばす、拡張する)    They extended the deadline.
 - `expand` /ɪkˈspænd/               ([Neutral] 拡張する 発展させる) They plan to expand the business.
+- `diversify` /daɪˈvɜːrsəfaɪ/       ([Formal] 多様化する)           The company diversified its products.
 - `widen` /ˈwaɪdən/                 ([Neutral] 広げる、拡幅する)    They widened the road.
 - `broaden` /ˈbrɔːdən/              ([Neutral] 広げる、拡大する)    Travel broadens your horizons.
 - `enlarge` /ɪnˈlɑːrdʒ/             ([Neutral] 拡大する 大きくする) Can you enlarge this photo?
@@ -220,6 +221,13 @@
 - `pardon` /ˈpɑːdən/                ([Formal] 恩赦する)             The president pardoned the prisoner.
 - `absolve` /əbˈzɒlv/               ([Writing] 免罪する)            The priest absolved him of his sins.
   - `absolution` /ˌæbsəˈluːʃən/     ([Writing] 免罪)                He sought absolution for his mistakes.
+
+## Legal Amendment
+- `amend` /əˈmend/                  ([Formal] 修正する、改正する)  We need to amend the contract.
+- `revise` /rɪˈvaɪz/                ([Neutral] 改訂する)           Please revise your proposal.
+- `modify` /ˈmɑːdɪfaɪ/              ([Neutral] 修正する)           They modified the original plan.
+- `alter` /ˈɔːltər/                 ([Neutral] 変更する)           We can alter the schedule.
+- `update` /ˌʌpˈdeɪt/               ([Neutral] 更新する)           Update the document regularly.
 
 ## Freedom and Liberty
 

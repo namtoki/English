@@ -233,18 +233,16 @@
 ## DISPROVE
 > `disprove` /dɪsˈpruːv/            ([Neutral] 反証する)            The evidence disproves his claim.
 > `refute` /rɪˈfjuːt/               ([Formal] 論破する、反駁する)   She refuted the allegations completely.
-  - `refutation` /ˌrefjuˈteɪʃən/    ([Formal] 反駁、論破)           His refutation was well-documented.
-  - `refutable` /rɪˈfjuːtəbəl/      ([Writing] 反駁可能な)          The claim is easily refutable.
-  - `irrefutable` /ˌɪrɪˈfjuːtəbəl/  ([Writing] 反駁できない)        The evidence is irrefutable.
+> `contradict` /ˌkɑːntrəˈdɪkt/      ([Neutral] 矛盾する)            Don't contradict me in public.
 - `debunk` /dɪˈbʌŋk/                ([Neutral] 正体を暴く 論破する) Scientists debunked the conspiracy theory.
-  - `debunking` /dɪˈbʌŋkɪŋ/         ([Neutral] 論破、暴露)          The debunking of myths is important.
-  - `debunked` /dɪˈbʌŋkt/           ([Neutral] 論破された)          That theory has been thoroughly debunked.
 - `rebut` /rɪˈbʌt/                  ([Formal] 反論する、反証する)   He rebutted the accusations firmly.
-  - `rebuttal` /rɪˈbʌtəl/           ([Formal] 反論、反駁)           Her rebuttal was convincing.
 - `invalidate` /ɪnˈvælɪdeɪt/        ([Formal] 無効にする、論破する) New evidence invalidated the theory.
+- `dispute` /dɪˈspjuːt/             ([Neutral] 異議を唱える)        They disputed the findings.
+- `contest` /kənˈtest/              ([Formal] 異議を申し立てる)     She contested the decision.
+- `challenge` /ˈtʃælɪndʒ/           ([Neutral] 異議を唱える)        He challenged their assumptions.
+- `deny` /dɪˈnaɪ/                   ([Neutral] 否定する)            She denied the accusations.
+- `negate` /nɪˈɡeɪt/                ([Formal] 否定する)             This negates your argument.
 - `falsify` /ˈfɔːlsɪfaɪ/            ([Neutral] 偽造する、反証する)  The data falsifies the hypothesis.
-  - `falsification`                 ([Formal] 偽造、反証)           The falsification of documents is illegal.
-  - `falsifiable` /ˌfɔːlsɪˈfaɪəbəl/ ([Writing] 反証可能な)          Scientific theories must be falsifiable.
 
 ## SPREAD
 - `spread` /spred/                  ([Neutral] 広める、広がる)      The news spread quickly.

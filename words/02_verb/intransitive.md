@@ -173,6 +173,12 @@
 - `embrace` /ɪmˈbreɪs/              ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
 - `take upon oneself`               ([Formal] 自ら引き受ける)       He took it upon himself to help.
 
+## MOVE
+- `move` /muːv/                      ([Neutral] 移動する)            We're moving to a new city.
+- `migrate` /maɪˈɡreɪt/              ([Neutral] 移住する)            Birds migrate south for winter.
+- `emigrate` /ˈemɪɡreɪt/             ([Formal] 移住する)             They emigrated from Poland to Canada.
+- `immigrate` /ˈɪmɪɡreɪt/            ([Formal] 移民する)             They immigrated to the United States.
+- `relocate` /ˌriːloʊˈkeɪt/          ([Neutral] 移転する)            The company relocated to Texas.
 
 ## PUT ON
 > `put on` /pʊt ɒn/                 ([Neutral] 着る、身に着ける)    Please put on your jacket.
@@ -273,8 +279,6 @@
 - `diaspora` /daɪˈæspərə/            ([Writing] 離散)          The Jewish diaspora spans many countries.
 - `hegira` /hɪˈdʒaɪrə/               ([Writing] 聖遷)          Muhammad's hegira marked the Islamic calendar.
 - `exodus` /ˈeksədəs/                ([Neutral] 大移住)         There was an exodus from the city during the pandemic.
-- `migration` /maɪˈgreɪʃn/           ([Neutral] 移住)          Bird migration occurs twice yearly.
-- `emigration` /ˌemɪˈgreɪʃn/         ([Formal] 移民)           Emigration from Ireland increased after 1845.
 - `departure` /dɪˈpɑːrtʃər/          ([Neutral] 出発)          The train departure was delayed by fog.
 - `flight` /flaɪt/                   ([Neutral] 逃避)          Their flight from the country was sudden.
 
@@ -376,4 +380,9 @@
 - `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
 - `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
 - `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
+- `struggle` /ˈstrʌɡəl/               ([Neutral] 苦闘する)            She struggled with depression.
+- `ache` /eɪk/                       ([Neutral] 痛む)                My back aches after sitting too long.
+- `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
+- `throb` /θrɒb/                    ([Neutral] ズキズキ痛む)        My tooth is throbbing.
+- `agonize` /ˈæɡənaɪz/              ([Neutral] 苦悶する)            He agonized over the decision.
 

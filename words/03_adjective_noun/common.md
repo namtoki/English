@@ -137,6 +137,12 @@
 
 ## CONCEPT
 - `concept` /ˈkɑːnsept/             ([Neutral] 概念、構想)          The concept looks good, but we need more details.
+- `diversity` /daɪˈvɜːrsəti/        ([Neutral] 多様性)              Cultural diversity enriches society.
+- `variety` /vəˈraɪəti/             ([Neutral] 多種多様)              The store offers a variety of products.
+- `range` /reɪndʒ/                    ([Neutral] 範囲、多様)             We have a wide range of options.
+- `mixture` /ˈmɪkstʃər/             ([Neutral] 混合、多様)            The city is a mixture of cultures.
+- `blend` /blend/                    ([Neutral] 混合、組み合わせ)    The music is a blend of styles.
+- `assortment` /əˈsɔːrtmənt/        ([Neutral] 取り合わせ)            There's an assortment of cookies.
 - `assurance` /əˈʃʊrəns/            ([Neutral] 保証、確信)          He gave me his assurance.
 - `guarantee` /ˌɡærənˈtiː/          ([Neutral] 保証、保証書)        The product comes with a guarantee.
 - `pledge` /pledʒ/                  ([Formal] 誓約、約束)           He made a pledge to help.
@@ -345,6 +351,10 @@
 - `crisis` /ˈkraɪsɪs/                 ([Neutral] 危機)              The country is facing an economic crisis.
 - `emergency` /ɪˈmɜrdʒənsi/           ([Neutral] 緊急事態)          Call 911 in case of emergency.
 
+## MIGRATION
+- `migrant` /ˈmaɪɡrənt/              ([Neutral] 移民、移住者)        Many migrants seek better opportunities.
+- `migratory` /ˈmaɪɡrətɔːri/         ([Writing] 移住性の)            Migratory birds travel thousands of miles.
+
 ## 実績
 - `track record` /træk ˈrekərd/     ([Neutral] 実績、経歴)          She has an excellent track record in sales.
 - `record` /ˈrekərd/                ([Neutral] 記録、実績)          His academic record is impressive.
@@ -352,6 +362,9 @@
 - `background` /ˈbækɡraʊnd/         ([Neutral] 経歴、背景)          Her background is in engineering.
 - `credentials` /krɪˈdenʃəlz/       ([Formal] 資格、実績)           His credentials are outstanding.
 - `portfolio` /pɔːrtˈfoʊlioʊ/       ([Neutral] 作品集、実績集)      Review my portfolio of past projects.
+
+## LEGAL
+- `amendment` /əˈmendmənt/           ([Formal] 修正案、改正)        The First Amendment protects free speech.
 
 ## 複合名詞
 - `something else`                              (格別なもの) / That dinner was `something else`!
@@ -387,3 +400,14 @@
 - `each and every`              ひとつひとつの              `each and every one of` these questions
 - `scorching`                   焼きつくような              It's `scorching hot` today.
 - `boiling`                     うだるような                This room is `boiling hot`.
+
+  - `contradiction` /ˌkɑːntrəˈdɪkʃən/ ([Neutral] 矛盾)              That's a contradiction of what you said.
+  - `contradictory` /ˌkɑːntrəˈdɪktəri/ ([Neutral] 矛盾した)        Their statements are contradictory.
+  - `refutation` /ˌrefjuˈteɪʃən/    ([Formal] 反駁、論破)           His refutation was well-documented.
+  - `refutable` /rɪˈfjuːtəbəl/      ([Writing] 反駁可能な)          The claim is easily refutable.
+  - `irrefutable` /ˌɪrɪˈfjuːtəbəl/  ([Writing] 反駁できない)        The evidence is irrefutable.
+  - `debunking` /dɪˈbʌŋkɪŋ/         ([Neutral] 論破、暴露)          The debunking of myths is important.
+  - `debunked` /dɪˈbʌŋkt/           ([Neutral] 論破された)          That theory has been thoroughly debunked.
+  - `rebuttal` /rɪˈbʌtəl/           ([Formal] 反論、反駁)           Her rebuttal was convincing.
+  - `falsification`                 ([Formal] 偽造、反証)           The falsification of documents is illegal.
+  - `falsifiable` /ˌfɔːlsɪˈfaɪəbəl/ ([Writing] 反証可能な)          Scientific theories must be falsifiable.

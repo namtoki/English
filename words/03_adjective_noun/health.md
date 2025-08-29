@@ -30,6 +30,12 @@
 ## MEDICINE
 - `medicine` /ˈmedɪsɪn/             ([Neutral] 薬、医学)            Take your medicine three times a day.
 - `prescription` /prɪˈskrɪpʃən/     ([Medical] 処方箋)              The doctor wrote a prescription.
+- `antibiotic` /ˌæntɪbaɪˈɑːtɪk/    ([Medical] 抗生物質)            Take the antibiotic for ten days.
+- `painkiller` /ˈpeɪnˌkɪlər/       ([Medical] 鹇痛剤)              Take a painkiller for the headache.
+- `vaccine` /vækˈsiːn/             ([Medical] ワクチン)              The COVID vaccine is effective.
+- `pill` /pɪl/                      ([Medical] 錠剤)                Take one pill twice daily.
+- `tablet` /ˈtæblət/               ([Medical] 錬剤)                Swallow the tablet with water.
+- `capsule` /ˈkæpsuːl/             ([Medical] カプセル)              Open the capsule and mix with food.
 - `dose` /dəʊs/                     ([Medical] 服用量)              Take one dose every six hours.
   - `dosage` /ˈdəʊsɪdʒ/             ([Medical] 投薬量)              Check the dosage instructions.
 
