@@ -381,6 +381,11 @@
 - `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
 - `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
 - `struggle` /ˈstrʌɡəl/               ([Neutral] 苦闘する)            She struggled with depression.
+- `flounder` /ˈflaʊndər/             ([Neutral] もがく、困惑する)    He floundered during the interview.
+- `stumble` /ˈstʌmbəl/               ([Neutral] つまずく、よろめく)  I stumbled over the stone.
+- `falter` /ˈfɔːltər/                ([Neutral] よろめく、躊躇する)  Her voice faltered with emotion.
+- `fumble` /ˈfʌmbəl/                 ([Neutral] 手探りする、もたつく) He fumbled for his keys.
+- `stagger` /ˈstæɡər/                ([Neutral] ふらつく、よろめく)  He staggered out of the bar.
 - `ache` /eɪk/                       ([Neutral] 痛む)                My back aches after sitting too long.
 - `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
 - `throb` /θrɒb/                    ([Neutral] ズキズキ痛む)        My tooth is throbbing.

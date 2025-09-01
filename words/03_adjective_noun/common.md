@@ -137,6 +137,16 @@
 
 ## CONCEPT
 - `concept` /ˈkɑːnsept/             ([Neutral] 概念、構想)          The concept looks good, but we need more details.
+- `trait` /treɪt/                   ([Neutral] 特性、特徴)          Honesty is an admirable trait.
+- `characteristic` /ˌkærəktəˈrɪstɪk/ ([Neutral] 特徴、特性)          Patience is a characteristic of good teachers.
+- `feature` /ˈfiːtʃər/              ([Neutral] 特徴、機能)          This app has many useful features.
+- `attribute` /ˈætrɪbjuːt/          ([Formal] 属性、特質)           Flexibility is an important attribute.
+- `quality` /ˈkwɑːləti/             ([Neutral] 質、品質)            The quality of this product is excellent.
+- `property` /ˈprɑːpərti/           ([Formal] 性質、特性)           Water has unique chemical properties.
+- `extinction` /ɪkˈstɪŋkʃən/        ([Neutral] 絶滅、消滅)          The extinction of dinosaurs happened long ago.
+- `demise` /dɪˈmaɪz/                ([Formal] 死亡、消滅)           The demise of the company was sudden.
+- `destruction` /dɪˈstrʌkʃən/       ([Neutral] 破壊、破滅)          The storm caused widespread destruction.
+- `elimination` /ɪˌlɪməˈneɪʃən/     ([Neutral] 除去、排除)          The elimination of errors is important.
 - `diversity` /daɪˈvɜːrsəti/        ([Neutral] 多様性)              Cultural diversity enriches society.
 - `variety` /vəˈraɪəti/             ([Neutral] 多種多様)              The store offers a variety of products.
 - `range` /reɪndʒ/                    ([Neutral] 範囲、多様)             We have a wide range of options.
@@ -258,6 +268,11 @@
 - `coalition` /ˌkoʊəˈlɪʃən/         ([Formal] 連立、連合)           The parties formed a coalition government.
 - `confederate` /kənˈfedərət/       ([Formal] 同盟者、連合の)       The confederate states joined forces.
   - `confederation` /kənˌfedəˈreɪʃən/ ([Formal] 連合、同盟)         The confederation lasted for years.
+- `proponent` /prəˈpoʊnənt/         ([Formal] 支持者、提唱者)       He's a proponent of renewable energy.
+- `advocate` /ˈædvəkət/             ([Formal] 支持者、代弁者)       She's an advocate for human rights.
+- `supporter` /səˈpɔːrtər/          ([Neutral] 支持者、サポーター)  The team has many loyal supporters.
+- `champion` /ˈtʃæmpiən/            ([Neutral] 擁護者、チャンピオン) He's a champion of workers' rights.
+- `enthusiast` /ɪnˈθuziæst/         ([Neutral] 愛好家、熱心家)      She's a jazz enthusiast.
 
 ## CONFLICT
 - `ambush` /ˈæmbʊʃ/                 ([Neutral] 待ち伏せ、奇襲)      The soldiers set up an ambush.
@@ -354,6 +369,14 @@
 ## MIGRATION
 - `migrant` /ˈmaɪɡrənt/              ([Neutral] 移民、移住者)        Many migrants seek better opportunities.
 - `migratory` /ˈmaɪɡrətɔːri/         ([Writing] 移住性の)            Migratory birds travel thousands of miles.
+
+## INMATE
+- `inmate` /ˈɪnmeɪt/                 ([Neutral] 受刑者、収容者)      The prison has 500 inmates.
+- `prisoner` /ˈprɪzənər/             ([Neutral] 囚人、捕虜)          The prisoner escaped last night.
+- `convict` /ˈkɒnvɪkt/               ([Neutral] 有罪者、囚人)        The convict served ten years.
+- `captive` /ˈkæptɪv/                ([Neutral] 捕虜、人質)          The captive was released safely.
+- `detainee` /ˌdiːteɪˈniː/           ([Formal] 被拘禁者)             The detainees were held overnight.
+- `hostage` /ˈhɒstɪdʒ/               ([Neutral] 人質)                The hostages were freed by police.
 
 ## 実績
 - `track record` /træk ˈrekərd/     ([Neutral] 実績、経歴)          She has an excellent track record in sales.

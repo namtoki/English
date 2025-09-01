@@ -229,6 +229,13 @@
 - `alter` /ˈɔːltər/                 ([Neutral] 変更する)           We can alter the schedule.
 - `update` /ˌʌpˈdeɪt/               ([Neutral] 更新する)           Update the document regularly.
 
+## COLLECT/GATHER
+- `garner` /ˈɡɑːrnər/               ([Formal] 獲得する、集める)      The candidate garnered significant support.
+- `accumulate` /əˈkjuːmjəleɪt/       ([Neutral] 蓄積する、積み重ねる) Dust accumulated on the shelves.
+- `acquire` /əˈkwaɪər/               ([Formal] 取得する、習得する)    She acquired new skills quickly.
+- `amass` /əˈmæs/                    ([Neutral] 蓄積する、集める)     He amassed a fortune in business.
+- `gather` /ˈɡæðər/                  ([Neutral] 集める、収集する)     Please gather all the documents.
+
 ## Freedom and Liberty
 
 - `latitude` /ˈlætɪtjuːd/           ([Writing] 自由度、緯度)        The manager gave me latitude to make decisions.

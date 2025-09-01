@@ -14,5 +14,6 @@
 - 03_adjective_noun/money.md - 金銭・財政関連の名詞、形容詞
 - 03_adjective_noun/properties.md - 物理的性質に関する名詞、形容詞
 - 03_adjective_noun/common.md - その他物事の名詞、形容詞
+- 04_adverb/how.md - 程度に関する副詞
 - 04_adverb/space.md - 空間・空間の状態・位置・場所に関する副詞
 - 04_adverb/time.md - 時間関連の副詞
