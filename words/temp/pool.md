@@ -37,24 +37,19 @@ accused	5	【形】告発された、責任を問われる 【名】被告人、
 accustom	5	【動】慣らす、習慣づける		
 accustomed	5	【形】～に慣れている		
 ace	6	【名】エース、名人		
-acid	4	【名】酸 【形】酸性の、辛辣な		
 acorn	12	【名】ドングリ		
 acoustic	9	【形】音響の、聴覚の、楽器が生の		
 acquaint	5	【動】知らせる、紹介する		
-acquaintance	4	【名】知人、面識、知識		
 acquiescence	12	【名】黙認、妥協		
 acquisition	5	【名】取得、買収		
 acreage	12	【名】1エーカーほどの土地、エーカーで測った面積、地積		
 acrid	12	【形】（味やにおいが）刺すような、辛らつな		
 acronym	11	【名】頭字語		
-acting	4	【名】演技 【形】代理の、活動中の		
-actively	4	【副】活発に		
 activist	6	【名】活動家、実践主義者		
 actuality	9	【名】現実、実在		
 acumen	11	【名】洞察力、明敏		
 adage	12	【名】ことわざ、格言		
 adamant	11	【形】譲らない、非常に堅い、不動の		
-adapt	4	【動】適応させる		
 adaptable	8	【形】順応できる、順応性のある、融通のきく、柔軟な		
 adaptation	7	【名】脚色、改作、適合、適応		
 addict	8	【名】依存症の人、中毒者 【動】（悪癖などに）ふけらせる		
@@ -72,7 +67,6 @@ adjoining	11	【形】隣の、接している
 adjourn	12	【動】休廷する、休会する、会議をもち越す		
 adjunct	12	【形】補助の、付属の 【名】助手、付加物		
 adjustable	8	【形】調節できる、順応できる		
-adjustment	4	【名】調節、適応		
 admiral	7	【名】提督、艦隊司令官		
 admittance	9	【名】入場許可、入場		
 adorable	9	【形】かわいい、愛らしい、崇拝できる		
@@ -97,7 +91,6 @@ afar	9	【副】遠くに 【名】遠方
 affair	3	【名】事件、仕事、不倫		
 affectation	12	【名】気どり、ふりをすること		
 affected	9	【形】気どった		
-affection	4	【名】愛情、激情		
 affectionate	7	【形】情愛の深い、愛情のこもった		
 affectionately	8	【副】愛情を込めて		
 affidavit	10	【名】宣誓供述書		
@@ -106,14 +99,12 @@ affiliated	11	【形】提携している、関連のある
 affiliation	10	【名】提携、入会		
 affinity	10	【名】強い好み、親近感		
 affix	9	【動】はる、添える 【名】接辞		
-affordable	4	【形】入手可能な		
 affront	12	【名】侮辱 【動】公然と侮辱する		
 afield	12	【副】家から離れて、広く、畑に		
 afoot	12	【副】徒歩で、進行中で 【形】進行中の、起きている		
 afresh	10	【副】新たに、再び		
 aft	12	【副】船尾のほうへ 【形】船尾のほうにある		
 aftermath	10	【名】余波、結果、後遺症		
-aged	4	【形】年とった 【名】老人		
 aggregate	10	【動】集まる、合計で～になる 【名】集合体		
 aggregation	12	【名】集団、集合体		
 aggression	7	【名】侵略、攻撃		
@@ -124,8 +115,6 @@ agile	12	【形】敏捷な、いきいきした、頭のきれる
 aging	8	【名】老化、熟成 【形】年老いた、古ぼけた		
 agony	5	【名】苦痛、感情		
 agrarian	12	【形】農業の、農地の		
-agricultural	4	【形】農業の		
-agriculture	4	【名】農業、農学		
 aide	7	【名】補佐官、助手		
 ail	12	【動】患わせる、悩ます、弊害となる		
 ailing	11	【形】（企業などが）不調の、病んでいる		
