@@ -14,38 +14,24 @@
 - `near to` /nɪr tuː/               ([British] 〜に近い)            Near to the city center.
 - `within` /wɪˈðɪn/                 ([Neutral] 〜以内に)            Within walking distance.
 - `in the vicinity` /vɪˈsɪnɪti/     ([Formal] 付近に)               In the vicinity of the park.
-- `adjacent` /əˈdʒeɪsənt/           ([Formal] 隣接した)             The adjacent building.
 - `adjacent to` /əˈdʒeɪsənt tuː/    ([Formal] 〜に隣接して)         Adjacent to the highway.
-- `neighboring` /ˈneɪbərɪŋ/         ([Neutral] 隣の、近隣の)        The neighboring town.
 - `alongside` /əˌlɔːŋˈsaɪd/         ([Neutral] 〜と並んで)          Park alongside the fence.
 - `at hand` /æt hænd/               ([Neutral] 手近に、すぐ近くに)  Keep your phone at hand.
 - `within reach` /wɪˈðɪn riːtʃ/     ([Neutral] 手の届く所に)        Put it within reach.
 - `a stone's throw` /stoʊnz θroʊ/   ([Casual] すぐ近く)             It's just a stone's throw away.
-- `proximity` /prɑːkˈsɪmɪti/        ([Formal] 近接、近さ)           In close proximity to the school.
 - `in proximity to`                 ([Formal] 〜に近接して)         In proximity to the airport.
-- `proximate` /ˈprɑːksɪmət/         ([Formal] 近接した)             The proximate cause.
-- `immediate` /ɪˈmiːdiət/           ([Neutral] すぐ隣の、直接の)    The immediate area.
-- `surrounding` /səˈraʊndɪŋ/        ([Neutral] 周囲の)              The surrounding buildings.
 - `within arm's reach`              ([Neutral] 手の届く範囲に)      Keep it within arm's reach.
 - `in the neighborhood`             ([Casual] 近所に、およそ)       Somewhere in the neighborhood.
 - `hereabouts` /ˈhɪrəbaʊts/         ([Casual] この辺りに)           He lives hereabouts.
 - `thereabouts` /ˈðerəbaʊts/        ([Casual] その辺りに)           Meet at 3 or thereabouts.
 - `round about` /raʊnd əˈbaʊt/      ([British] 〜の辺りに)          Round about here somewhere.
 - `in the area` /ˈeriə/             ([Neutral] その地域に)          I'll be in the area tomorrow.
-- `local` /ˈloʊkəl/                 ([Neutral] 地元の、近所の)      The local shops.
-- `handy` /ˈhændi/                  ([Casual] 手近な、便利な)       Keep a pen handy.
-- `convenient` /kənˈviːniənt/       ([Neutral] 便利な、都合の良い)  A convenient location.
-- `accessible` /əkˈsesəbəl/         ([Neutral] 行きやすい)          Easily accessible by train.
-- `abutting` /əˈbʌtɪŋ/              ([Technical] 隣接する)          The abutting property.
-- `contiguous` /kənˈtɪɡjuəs/        ([Formal] 隣接した、連続した)   Contiguous states.
-- `juxtaposed` /ˌdʒʌkstəˈpoʊzd/     ([Formal] 並置された)           Juxtaposed buildings.
 
 ## FRONT
 > `in front of`                     ([Neutral] 〜の前に)            Stand in front of the door.
 - `before`                          ([Neutral] 〜の前に)            He stood before the judge.
 - `ahead`                           ([Neutral] 前方に、先に)        Look ahead on the road.
 - `ahead of`                        ([Neutral] 〜の前に、先に)      She's ahead of me in line.
-- `front`                           ([Neutral] 前、正面)            The front of the building.
 - `forward`                         ([Neutral] 前方へ)              Move forward please.
   - `frontward`                     ([Neutral] 前方へ)              Turn frontward.
   - `onwards`                       ([British] 前方へ)              From this point onwards.
