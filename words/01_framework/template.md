@@ -180,17 +180,23 @@
 - `it's not always the case that`   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
 - `that's not to say that S V`      ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
 
-## OPINION
+## MY CONCERN IS
 - `My concern is that S V`          ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
+
+## BE AWARE THAT
 - `be aware that`                   ([Neutral] に注意してください)  Be aware that the deadline is next Friday.
+
+## TURNS OUT THAT
 - `Turns out S V`                   ([Casual] ということがわかった) Turns out she was right all along.
 
-## VERB
+## FIND A WAY TO
 - `find a way to ~`                 ([Neutral] する方法を見つける)  We need to `find a way to` reduce operational costs.
   - `find a ~ form of ~`            ([Neutral] の〜な形を見つける)  We need to `find a new form of` leadership that suits it
 
-## OTHERS
+## SOMETHING CAME UP
 - `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
+
+## I WAS ON MUTE
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
 
 ## QUESTION
@@ -385,7 +391,7 @@
 - `It remains to be seen`           ([Formal] まだわからない)       Will it succeed? It remains to be seen.
 - `Only time will tell`             ([Neutral] 時間が経てばわかる)  Was it worth it? Only time will tell.
 
-## LUCKY YOU
+## GOOD FOR YOU
 > `Lucky you!`                      ([Casual] うらやましい)         You got tickets to the concert? Lucky you!
 > `Good for you!`                   ([Casual] よかったね)           You got promoted? Good for you!
 > `Congrats!`                       ([Casual] おめでとう)           You passed the exam? Congrats!
@@ -424,7 +430,6 @@
 > `Not again!`                      ([Casual] またかよ！)           Not again! I can't believe the internet is down.
 > `Here we go again`                ([Casual] また始まったよ)       Here we go again, another delay in the project.
   - `There you go again`            ([Casual] またそれ言ってる)     There you go again, always teasing me.
-- `Oh no, not this again`           ([Casual] えー、またこれか)     Oh no, not this again with the printer.
 - `Same old story`                  ([Casual] いつものこと)         It's the same old story every time.
 - `Yet another`                     ([Neutral] またもや)            Yet another technical problem today.
 - `Just like before`                ([Neutral] 以前と同じ)          It's happening just like before.

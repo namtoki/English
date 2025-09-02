@@ -382,6 +382,8 @@
   - `unsettled` /ʌnˈsetəld/          ([Neutral] 落ち着かない、不安な) She felt unsettled all day.
 
 ## 複合形容詞
+- `abbreviated` /əˈbriːvieɪtɪd/     ([Neutral] 短縮された)          The abbreviated version is easier to read.
+- `aberrant` /æˈberənt/             ([Formal] 異常な、逸脱した)      His aberrant behavior concerned us.
 - [ ] `laid-back`                           ([Casual] 肩の力が抜けた、リラックスした) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#LAID-BACK)
 ## DETAILED
 - `detailed` /ˈdiːteɪld/            ([Neutral] 詳細な、細かい)      She gave a detailed explanation.

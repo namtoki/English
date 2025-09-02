@@ -131,3 +131,11 @@
 - `assign` /əˈsaɪn/                 ([Neutral] 割り当てる、指定する)Let's assign specific time slots.
 - `line up` /laɪn ʌp/               ([Casual] 並べる、手配する)     I'll line up meetings for next week.
 - `put together` /pʊt təˈɡeðər/     ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
+
+## SHORTEN
+- `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.
+- `condense` /kənˈdens/             ([Neutral] 凝縮する)            Condense your report to one page.
+- `abbreviate` /əˈbriːvieɪt/        ([Formal] 短縮する)             Please abbreviate the company name.
+- `curtail` /kɜːrˈteɪl/             ([Formal] 削減する)             We had to curtail our expenses.
+- `truncate` /ˈtrʌŋkeɪt/            ([Formal] 切り詰める)           The system truncates long file names.
+- `abridge` /əˈbrɪdʒ/               ([Formal] 短縮する)             They abridged the novel for young readers.

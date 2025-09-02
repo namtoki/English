@@ -67,3 +67,11 @@
   - `ostracism` /ˈɑːstrəsɪzəm/      ([Formal] 追放、排斥)           The ostracism was painful.
 - `rebuff` /rɪˈbʌf/                 ([Formal] 拒絶する、はねつける) She rebuffed his advances.
 - `spurn` /spɜːrn/                  ([Writing] 拒絶する はねつける) She spurned his affection.
+
+## ABDUCT
+- `abduct` /æbˈdʌkt/               ([Formal] 誘拐する)             The criminals abducted the child.
+- `kidnap` /ˈkɪdnæp/               ([Neutral] 誘拐する)            They kidnapped the businessman.
+- `snatch` /snætʃ/                 ([Casual] ひったくる)           Someone snatched her purse.
+- `seize` /siːz/                   ([Neutral] 捕らえる)            The police seized the suspect.
+- `capture` /ˈkæptʃər/             ([Neutral] 捕獲する)            They captured the escaped prisoner.
+- `take hostage`                   ([Neutral] 人質に取る)          The terrorists took hostages.

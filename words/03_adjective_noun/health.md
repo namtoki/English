@@ -107,3 +107,12 @@
 - `innate` /ɪˈneɪt/                 ([Writing] 生得の)              Children have an innate ability to learn.
 - `hereditary` /həˈredɪtərɪ/        ([Neutral] 遺伝性の)            Hair color is hereditary.
 - `heredity` /hɪˈredɪtɪ/            ([Writing] 遺伝)                Gregor Mendel studied heredity in pea plants.
+
+## ANATOMY
+- `abdomen` /ˈæbdəmən/              ([Medical] 腹部)                The surgeon examined the abdomen.
+  - `abdominal` /æbˈdɑmənəl/        ([Medical] 腹部の)              She felt abdominal pain.
+- `belly` /ˈbeli/                   ([Casual] 腹、お腹)             He patted his full belly.
+- `stomach` /ˈstʌmək/               ([Neutral] 胃、お腹)            His stomach hurt after eating.
+- `tummy` /ˈtʌmi/                   ([Casual] お腹)                 The baby has a cute tummy.
+- `torso` /ˈtɔːrsoʊ/                ([Neutral] 胴体)                He wore a shirt covering his torso.
+- `midriff` /ˈmɪdrɪf/               ([Neutral] 腹部、胴回り)        Her midriff was exposed by the crop top.

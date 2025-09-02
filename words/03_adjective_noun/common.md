@@ -134,6 +134,12 @@
 - `tenant` /ˈtenənt/                ([Neutral] 借主、入居者)        The tenant pays rent monthly.
 - `property inspector` /ɪnˈspektər/ ([Neutral] 物件検査官)          The property inspector checked the foundation.
 - `home inspector` /hoʊm/           ([Neutral] 住宅検査官)          We hired a home inspector before buying.
+- `abbey` /ˈæbi/                    ([Neutral] 修道院)              The abbey was built in the 12th century.
+- `monastery` /ˈmɑnəstəri/          ([Neutral] 修道院)              The monastery houses 20 monks.
+- `convent` /ˈkɑnvent/              ([Neutral] 修道院、女子修道院)  She entered the convent at age 18.
+- `priory` /ˈpraɪəri/               ([Neutral] 小修道院)            The priory was founded in 1066.
+- `cathedral` /kəˈθidrəl/           ([Neutral] 大聖堂)              The cathedral has beautiful stained glass.
+- `chapel` /ˈtʃæpəl/                ([Neutral] 礼拝堂、小聖堂)      They got married in a small chapel.
 
 ## CONCEPT
 - `concept` /ˈkɑːnsept/             ([Neutral] 概念、構想)          The concept looks good, but we need more details.
@@ -158,6 +164,15 @@
 - `pledge` /pledʒ/                  ([Formal] 誓約、約束)           He made a pledge to help.
 - `promise` /ˈprɑːmɪs/              ([Neutral] 約束、保証)          She kept her promise.
 - `warranty` /ˈwɔːrənti/            ([Formal] 保証書、保証)         The warranty covers repairs.
+- `abbreviation` /əˌbriːviˈeɪʃən/   ([Neutral] 略語)                "Dr." is an abbreviation for "Doctor."
+- `abdication` /ˌæbdɪˈkeɪʃən/       ([Formal] 退位)                 His abdication shocked the nation.
+- `abduction` /æbˈdʌkʃən/           ([Formal] 誘拐)                 The abduction shocked the community.
+- `aberration` /ˌæbəˈreɪʃən/        ([Formal] 逸脱、異常)           The incident was an aberration.
+- `deviation` /ˌdiːviˈeɪʃən/         ([Neutral] 逸脱、偏差)          Any deviation from the plan is risky.
+- `anomaly` /əˈnɑməli/              ([Formal] 異常、変則)           The test results show an anomaly.
+- `irregularity` /ɪˌreɡjəˈlærəti/   ([Neutral] 不規則性)            The irregularity was noted.
+- `abnormality` /ˌæbnɔrˈmæləti/     ([Medical] 異常)                The scan revealed an abnormality.
+- `departure` /dɪˈpɑrtʃər/          ([Neutral] 出発、逸脱)          This is a departure from tradition.
 
 ## FACTION
 > `faction` /ˈfækʃən/               ([Neutral] 派閥、分派)          The party split into several factions.

@@ -391,3 +391,10 @@
 - `throb` /θrɒb/                    ([Neutral] ズキズキ痛む)        My tooth is throbbing.
 - `agonize` /ˈæɡənaɪz/              ([Neutral] 苦悶する)            He agonized over the decision.
 
+## RESIGN
+- `resign` /rɪˈzaɪn/                ([Neutral] 辞任する)            She resigned from her position.
+- `step down` /step daʊn/           ([Neutral] 退く)                The CEO will step down next month.
+- `renounce` /rɪˈnaʊns/             ([Formal] 放棄する)             He renounced his claim to the throne.
+- `relinquish` /rɪˈlɪŋkwɪʃ/         ([Formal] 手放す)               She relinquished control of the company.
+- `abdicate` /ˈæbdɪkeɪt/            ([Formal] 退位する)             The king abdicated the throne.
+- `cede` /siːd/                     ([Formal] 譲渡する)             They ceded territory to the enemy.
