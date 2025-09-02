@@ -75,3 +75,14 @@
 - `seize` /siːz/                   ([Neutral] 捕らえる)            The police seized the suspect.
 - `capture` /ˈkæptʃər/             ([Neutral] 捕獲する)            They captured the escaped prisoner.
 - `take hostage`                   ([Neutral] 人質に取る)          The terrorists took hostages.
+
+## WHACK
+- `clout` /klaʊt/                   ([Casual] 殴打)                 He gave him a clout on the head.
+- `clout` /klaʊt/                   ([Casual] 殴る)                 Don't make me clout you!
+- `whack` /wæk/                     ([Casual] 強く打つ)             She whacked the piñata with a stick.
+- `wallop` /ˈwɒləp/                 ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
+- `thwack` /θwæk/                   ([Casual] 強打音)               The thwack of the bat hitting the ball.
+- `sock` /sɒk/                      ([Casual] 殴る)                 He socked him right in the jaw.
+- `slug` /slʌg/                     ([Casual] 強く殴る)             The boxer slugged his opponent hard.
+- `smack` /smæk/                    ([Casual] 叩く)                 She smacked him across the face.
+

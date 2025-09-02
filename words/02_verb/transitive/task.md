@@ -139,3 +139,16 @@
 - `curtail` /kɜːrˈteɪl/             ([Formal] 削減する)             We had to curtail our expenses.
 - `truncate` /ˈtrʌŋkeɪt/            ([Formal] 切り詰める)           The system truncates long file names.
 - `abridge` /əˈbrɪdʒ/               ([Formal] 短縮する)             They abridged the novel for young readers.
+
+## CHOOSE
+> `choose` /tʃuːz/                  ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
+- `pick` /pɪk/                      ([Casual] 選ぶ、取る)           Pick whichever one you like.
+- `take` /teɪk/                     ([Neutral] 取る、選ぶ)          I'll take the red one, please.
+- `select` /sɪˈlekt/                ([Formal] 選択する、選出する)   We need to select the best candidate.
+- `decide on` /dɪˈsaɪd ɑːn/         ([Neutral] 決める、決定する)    Have you decided on a date yet?
+- `go with` /ɡoʊ wɪð/               ([Casual] 選ぶ、一緒に行く)     I'll go with the blue option.
+- `go for` /ɡoʊ fɔːr/               ([Casual] 選ぶ、狙う)           I think I'll go for the chocolate cake.
+- `opt for` /ɑːpt fɔːr/             ([Formal] 選択する、決める)     We opted for the premium package.
+- `settle on` /ˈsetəl ɑːn/          ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
+- `stick with` /stɪk wɪð/           ([Casual] 続ける、固執する)     Let's stick with the original plan.
+

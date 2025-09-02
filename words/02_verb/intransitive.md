@@ -154,15 +154,20 @@
 - `realize` /ˈriːəlaɪz/             ([Formal] 実現する、達成する)   We realized our vision.
 - `attain` /əˈteɪn/                 ([Formal] 達成する、獲得する)   We worked hard to attain our goals.
 - `bring to completion`             ([Formal] 完成まで導く)         We need to bring this project to completion.
+- `succeed` /səkˈsiːd/              ([Neutral] 成功する)            I hope you succeed in your plans.
+- `make it`                         ([Casual] 成功する、間に合う)   I'm sure you'll make it.
+- `pull off`                        ([Casual] やり遂げる)           He pulled off an amazing performance.
+- `nail` /neɪl/                     ([Casual] 完璧にやる)           She nailed the presentation.
+- `triumph` /ˈtraɪʌmf/              ([Formal] 勝利する、成功する)   The team triumphed over adversity.
 
-## 引き受ける
-- ✅ `take` /teɪk/                  ([Neutral] 引き受ける、取る)    I'll take the job.
+## TAKE / TAKE ON / BE RESPONSIBLE FOR / BE IN CHARGE OF
+> `take` /teɪk/                     ([Neutral] 引き受ける、取る)    I'll take the job.
   - `take care of` /teɪk ker əv/    ([Neutral] 世話をする 処理する) I'll take care of it.
-  - ✅ `take on` /teɪk ɑːn/         ([Neutral] 引き受ける)          I'll take on this challenge.
+  > `take on` /teɪk ɑːn/            ([Neutral] 引き受ける)          I'll take on this challenge.
+  - `take over` /teɪk ˈoʊvər/       ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
 - `accept` /əkˈsept/                ([Neutral] 受け入れる 引き受け) I accept the responsibility.
-- `be responsible for`              ([Neutral] ～を担当する)        She's responsible for sales.
-- `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
-- `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
+> `be responsible for`              ([Neutral] ～を担当する)        She's responsible for sales.
+> `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
 - `pick up` /pɪk ʌp/                ([Casual] 引き受ける 拾い上げ)  I'll pick up the slack.
 - `take responsibility for`         ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
 - `step up` /step ʌp/               ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
@@ -174,11 +179,11 @@
 - `take upon oneself`               ([Formal] 自ら引き受ける)       He took it upon himself to help.
 
 ## MOVE
-- `move` /muːv/                      ([Neutral] 移動する)            We're moving to a new city.
-- `migrate` /maɪˈɡreɪt/              ([Neutral] 移住する)            Birds migrate south for winter.
-- `emigrate` /ˈemɪɡreɪt/             ([Formal] 移住する)             They emigrated from Poland to Canada.
-- `immigrate` /ˈɪmɪɡreɪt/            ([Formal] 移民する)             They immigrated to the United States.
-- `relocate` /ˌriːloʊˈkeɪt/          ([Neutral] 移転する)            The company relocated to Texas.
+> `move` /muːv/                      ([Neutral] 移動する)           We're moving to a new city.
+- `migrate` /maɪˈɡreɪt/              ([Neutral] 移住する)           Birds migrate south for winter.
+- `emigrate` /ˈemɪɡreɪt/             ([Formal] 移住する)            They emigrated from Poland to Canada.
+- `immigrate` /ˈɪmɪɡreɪt/            ([Formal] 移民する)            They immigrated to the United States.
+- `relocate` /ˌriːloʊˈkeɪt/          ([Neutral] 移転する)           The company relocated to Texas.
 
 ## PUT ON
 > `put on` /pʊt ɒn/                 ([Neutral] 着る、身に着ける)    Please put on your jacket.
@@ -201,7 +206,7 @@
 - `strip` /strɪp/                   ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
 
 ## GET TOGETHER
-- `get together` /ɡet təˈɡeðər/     ([Casual] 集まる)               Let's get together with the old college friends
+> `get together` /ɡet təˈɡeðər/     ([Casual] 集まる)               Let's get together with the old college friends
 - `gather` /ˈɡæðər/                 ([Neutral] 集まる)              Let's gather at the park tomorrow.
 - `meet` /miːt/                     ([Neutral] 会う)                Let's meet for coffee.
 - `assemble` /əˈsembl/              ([Formal] 集合する)             Please assemble in the main hall.
@@ -219,7 +224,20 @@
 - `nestle` /ˈnesl/                  ([Casual] 寄り添う)             The kitten nestled in my lap.
 
 ## GET TO
-- `get to` /ɡet tuː/                ([Neutral] 通う・着く)          Tokyo is easy to get to from here.
+> `get to` /ɡet tuː/                ([Neutral] ～に着く、到着する)  How do I get to the station?
+- `arrive` /əˈraɪv/                 ([Neutral] 到着する)            We arrived at the airport on time.
+  - `arrive at`                     ([Neutral] ～に到着する)        We arrived at our destination.
+  - `arrive in`                     ([Neutral] ～に到着する)        I arrived in Tokyo yesterday.
+- `reach` /riːtʃ/                   ([Neutral] 到達する)            We reached the summit at noon.
+- `make it to`                      ([Casual] ～に着く、間に合う)   I barely made it to the meeting.
+- `get there`                       ([Casual] そこに着く)           How long does it take to get there?
+- `show up` /ʃoʊ ʌp/                ([Casual] 現れる、着く)         He finally showed up at 9 PM.
+- `turn up` /tɜːrn ʌp/              ([Casual] 現れる、着く)         She turned up late to the party.
+- `pull up` /pʊl ʌp/                ([Casual] 車で着く)             A taxi pulled up outside.
+- `roll up` /roʊl ʌp/               ([Casual] 車で着く)             They rolled up in a fancy car.
+- `go to` /ɡoʊ tuː/                 ([Neutral] ～に通う、行く)      I go to school every day.
+- `attend` /əˈtend/                 ([Formal] 通う、出席する)       She attends university in Boston.
+- `commute to` /kəˈmjuːt tuː/       ([Neutral] 通勤する)            I commute to work by train.
 
 ## CROUCH
 > `bend` /bend/                     ([Neutral] 曲げる)              Bend your knees when lifting.
@@ -233,16 +251,6 @@
 - `cower` /ˈkaʊər/                  ([Neutral] 縮こまる)            The dog cowered in fear.
 - `genuflect` /ˈdʒenjʊflekt/        ([Formal] 片膝をつく)           Catholics genuflect before the altar.
 - `prostrate` /ˈprɒstreɪt/          ([Formal] 平伏する)             They prostrated themselves before the king.
-
-## WHACK
-- `clout` /klaʊt/                   ([Casual] 殴打)                 He gave him a clout on the head.
-- `clout` /klaʊt/                   ([Casual] 殴る)                 Don't make me clout you!
-- `whack` /wæk/                     ([Casual] 強く打つ)             She whacked the piñata with a stick.
-- `wallop` /ˈwɒləp/                 ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
-- `thwack` /θwæk/                   ([Casual] 強打音)               The thwack of the bat hitting the ball.
-- `sock` /sɒk/                      ([Casual] 殴る)                 He socked him right in the jaw.
-- `slug` /slʌg/                     ([Casual] 強く殴る)             The boxer slugged his opponent hard.
-- `smack` /smæk/                    ([Casual] 叩く)                 She smacked him across the face.
 
 ## TAKE OFF
 - `remove` /rɪˈmuːv/                ([Neutral] 取り除く)            Please remove your shoes.
@@ -275,13 +283,6 @@
 - `crop up` /krɑːp ʌp/              ([Casual] 突然起こる)           Problems keep cropping up.
 - `be in for` /bi ɪn fɔːr/          ([Casual] 直面する)             Looks like we'll be in for some wet weather over the next few days.
 
-## OTHER
-- `diaspora` /daɪˈæspərə/            ([Writing] 離散)          The Jewish diaspora spans many countries.
-- `hegira` /hɪˈdʒaɪrə/               ([Writing] 聖遷)          Muhammad's hegira marked the Islamic calendar.
-- `exodus` /ˈeksədəs/                ([Neutral] 大移住)         There was an exodus from the city during the pandemic.
-- `departure` /dɪˈpɑːrtʃər/          ([Neutral] 出発)          The train departure was delayed by fog.
-- `flight` /flaɪt/                   ([Neutral] 逃避)          Their flight from the country was sudden.
-
 ## RUSH
 - `rush` /rʌʃ/                       ([Neutral] 急ぐ、突進する)     We rushed to the hospital.
 - `race` /reɪs/                      ([Neutral] 疾走する)           He raced down the stairs.
@@ -291,11 +292,6 @@
 - `zip` /zɪp/                        ([Casual] 素早く動く)          He zipped through traffic.
 - `bolt` /boʊlt/                     ([Neutral] 突進する)           The horse bolted from the stable.
 - `whiz` /wɪz/                       ([Casual] ビュンと飛ぶ)        The bullet whizzed past my ear.
-
-## HOW
-- [ ] `lightly`                             ([Neutral] そっと) She seems angry, you should tread `lightly.`
-- [ ] `back and forth`                      ([Neutral] 行ったり来たり) Bob was pacing `back and forth` along the sidewalk.
-- [ ] `to and fro`                          ([Neutral] 行ったり来たり) I have been traveling `to and fro` between Canada and the U.K for years.
 
 ## SPEND
 - `spend` /spend/                   ([Neutral] 使う、費やす)        I spend too much on clothes.
@@ -398,3 +394,45 @@
 - `relinquish` /rɪˈlɪŋkwɪʃ/         ([Formal] 手放す)               She relinquished control of the company.
 - `abdicate` /ˈæbdɪkeɪt/            ([Formal] 退位する)             The king abdicated the throne.
 - `cede` /siːd/                     ([Formal] 譲渡する)             They ceded territory to the enemy.
+
+## CUT CORNERS / SLACK OFF
+> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+> `slack off` /slæk ɔːf/            ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+- `rush through` /rʌʃ θruː/         ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
+- `be careless` /biː ˈkɛrləs/       ([Neutral] 不注意である)        Don't be careless with important documents.
+- `take shortcuts`                  ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
+- `half-hearted` /ˌhæf ˈhɑːrtəd/    ([Neutral] やる気のない)        His effort was half-hearted.
+- `do the bare minimum`             ([Neutral] 最低限しかしない)    She does the bare minimum required.
+- `go through the motions`          ([Neutral] 形だけやる)          He's just going through the motions.
+- `skimp on` /skɪmp ɑːn/            ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+- `phone it in`                     ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+
+## 従う
+- ✅ `follow` /ˈfɑːloʊ/             ([Neutral] 従う、続く)          Please follow the instructions.
+  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
+  - ✅ `go along with`              ([Casual] 同調する、従う)       I'll go along with the plan.
+  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
+  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
+    - `adherence` /ædˈhɪrəns/       ([Formal] 遵守、忠実)           Adherence to policy is required.
+  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
+    - `obedience` /oʊˈbiːdiəns/     ([Formal] 服従、遵守)           Obedience to rules ensures safety.
+    - `obedient` /oʊˈbiːdiənt/      ([Neutral] 従順な、素直な)      She's an obedient employee.
+  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
+    - `conformance` /kənˈfɔːrməns/  ([Formal] 適合、遵守)           Conformance testing is complete.
+    - `conformity` /kənˈfɔːrmɪti/   ([Formal] 適合性、遵守)         Conformity with regulations is essential.
+  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
+  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
+    - `observance` /əbˈzɜːrvəns/    ([Formal] 遵守、守ること)       Observance of protocols is critical.
+  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
+  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
+  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
+  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
+    - `deference` /ˈdefərəns/       ([Formal] 敬意、尊重)           He showed deference to his superior.
+  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
+    - `submission` /səbˈmɪʃən/      ([Formal] 服従、提出)           Submission to authority is expected.
+  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
+  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
+  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
+  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.

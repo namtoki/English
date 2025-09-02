@@ -449,3 +449,11 @@
   - `rebuttal` /rɪˈbʌtəl/           ([Formal] 反論、反駁)           Her rebuttal was convincing.
   - `falsification`                 ([Formal] 偽造、反証)           The falsification of documents is illegal.
   - `falsifiable` /ˌfɔːlsɪˈfaɪəbəl/ ([Writing] 反証可能な)          Scientific theories must be falsifiable.
+
+## OTHER
+- `diaspora` /daɪˈæspərə/            ([Writing] 離散)          The Jewish diaspora spans many countries.
+- `hegira` /hɪˈdʒaɪrə/               ([Writing] 聖遷)          Muhammad's hegira marked the Islamic calendar.
+- `exodus` /ˈeksədəs/                ([Neutral] 大移住)         There was an exodus from the city during the pandemic.
+- `departure` /dɪˈpɑːrtʃər/          ([Neutral] 出発)          The train departure was delayed by fog.
+- `flight` /flaɪt/                   ([Neutral] 逃避)          Their flight from the country was sudden.
+

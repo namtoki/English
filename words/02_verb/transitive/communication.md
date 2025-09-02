@@ -266,3 +266,38 @@
 - `disperse` /dɪˈspɜːrs/            ([Neutral] 分散する、散布する)  The seeds dispersed in the wind.
   - `dispersal` /dɪˈspɜːrsəl/       ([Formal] 分散、散布)           The dispersal pattern was studied.
   - `dispersion` /dɪˈspɜːrʒən/      ([Writing] 分散、散乱)          Light dispersion creates rainbows.
+
+## ASSURE
+- `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
+- `ensure` /ɪnˈʃʊr/                 ([Neutral] 確実にする 保証する) Please ensure the door is locked.
+- `guarantee` /ˌɡærənˈtiː/          ([Neutral] 保証する、約束する)  We guarantee quality service.
+- `pledge` /pledʒ/                  ([Formal] 誓約する、約束する)   He pledged his support.
+- `promise` /ˈprɑːmɪs/              ([Neutral] 約束する、保証する)  She promised to call.
+- `warrant` /ˈwɔːrənt/              ([Formal] 保証する、正当化する) This doesn't warrant such action.
+
+## 賛成する
+- ✅ `agree with` /əˈɡriː wɪð/      ([Neutral] ～に賛成する)        I agree with the decision.
+- ✅ `support` /səˈpɔːrt/           ([Neutral] 支持する、支援する)  I support your idea.
+- `approve` /əˈpruːv/               ([Neutral] 承認する、賛成する)  The board approved the plan.
+  - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
+- ✅ `prefer` /prɪˈfɜːr/            ([Neutral] 好む、選好する)      I prefer coffee to tea.
+- ✅ `be for` /biː fɔːr/            ([Casual] 賛成である)           I'm for the new policy.
+  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
+- `back` /bæk/                      ([Neutral] 支持する 後押しする) I'll back your proposal.
+- ✅ `be in favor of`               ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
+- `side with` /saɪd wɪð/            ([Neutral] ～の味方をする)      I side with you on this.
+- `stand by` /stænd baɪ/            ([Neutral] 支持する、味方する)  I'll stand by your decision.
+- `back up` /bæk ʌp/                ([Casual] 支援する、裏付ける)   I'll back you up.
+- `get behind` /ɡet bɪˈhaɪnd/       ([Casual] 支持する、応援する)   Let's get behind this initiative.
+- `second` /ˈsekənd/                ([Neutral] 支持する、賛同する)  I second the motion.
+- `stand behind` /stænd bɪˈhaɪnd/   ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
+- `endorse` /ɪnˈdɔːrs/              ([Formal] 支持する、推奨する)   I endorse this approach.
+- `advocate` /ˈædvəkeɪt/            ([Formal] 主張する、支持する)   She advocates for change.
+- `champion` /ˈtʃæmpiən/            ([Neutral] 擁護する、支持する)  He champions workers' rights.
+- `uphold` /ʌpˈhoʊld/               ([Formal] 支持する、維持する)   The court upheld the decision.
+- `rally behind` /ˈræli bɪˈhaɪnd/   ([Neutral] 結集する、支持する)  The team rallied behind their leader.
+- `align with` /əˈlaɪn wɪð/         ([Formal] 同調する、一致する)   Our goals align with yours.
+- `throw support behind`            ([Neutral] 支援を投じる)        They threw their support behind the candidate.
+- `give support to`                 ([Neutral] 支援する)            We give our support to the project.
+- `lend support to`                 ([Formal] 支援する、支持する)   I lend my support to the cause.
+
