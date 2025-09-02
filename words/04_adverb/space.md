@@ -179,3 +179,7 @@
   - `refugee` /ˌrefjuˈdʒiː/         ([Neutral] 難民、避難民)        The refugees fled their homeland.
 - `sanctuary` /ˈsæŋktʃueri/         ([Formal] 聖域、保護区)         The church offered sanctuary to the fugitives.
 - `haven` /ˈheɪvən/                 ([Writing] 安息地、避難所)      The library was his haven from the busy world.
+
+## HERE AND THERE
+- `here and there`                  ([Neutral] あちこちに)          Books were scattered here and there.
+- `this way and that`               ([Neutral] あちこちに)          The leaves blew this way and that in the wind.
