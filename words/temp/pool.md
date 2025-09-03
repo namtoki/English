@@ -4859,9 +4859,7 @@ reinstate	11	【動】回復させる、元の地位に戻す
 reiterate	12	【動】繰り返して言う、何度も行う		
 rejoice	7	【動】喜ぶ		
 rejoinder	12	【名】言い返し、返答、口答え		
-related	4	【形】関係のある		
 relational	10	【形】親類の、関係を示す、相関的な		
-relatively	4	【副】比較的に		
 relativity	10	【名】関連性、相対性		
 relaxation	5	【名】息抜き、気晴らし、緩和		
 relaxing	6	【形】人をくつろがせる		
@@ -4885,7 +4883,6 @@ reminiscent	8	【形】思い出させる、連想させる
 remittance	10	【名】（現金・小切手などの）送金		
 remnant	9	【名】残部、断片、なごり		
 remorse	11	【名】自責の念、深い後悔		
-remote	4	【形】遠い、ずっと以前の		
 removal	5	【名】除去、転居		
 removed	8	【形】隔たった、かけ離れた		
 renaissance	5	【名】ルネサンス（R_）、復興		
@@ -4905,9 +4902,7 @@ reopen	6	【動】再び開く、再び始める
 reorganization	7	【名】再編		
 reparation	12	【名】賠償金（～s）、償い		
 repatriate	12	【動】本国に送還する 【名】送還者		
-repay	4	【動】（お金を）返す、報いる		
 repeated	6	【形】くり返された、たびたびの		
-repeatedly	4	【副】くり返して		
 repel	8	【動】撃退する、防ぐ		
 repellent	12	【形】不快な、はねつける 【名】寄せつけないもの、防虫剤		
 repent	7	【動】悔い改める、悔やむ		
@@ -4915,7 +4910,6 @@ repentance	9	【名】良心の呵責、後悔
 repertoire	10	【名】レパートリー		
 repetition	6	【名】くり返し、復唱		
 repetitive	10	【形】繰り返しの、くどい		
-replacement	4	【名】交替、代用品、返済、返却		
 replay	6	【動】再生する、再演する 【名】再生、再演		
 replenish	11	【動】継ぎ足す、補給する		
 replete	12	【形】～でいっぱいの、腹いっぱいの		
@@ -4933,16 +4927,13 @@ reproduce	5	【動】再生する、繁殖する、再現する
 reproduction	6	【名】複製品、再生産、復元		
 reproductive	9	【形】再生の、繁殖の		
 reptile	7	【名】は虫類、いやなやつ		
-republic	4	【名】共和国		
 republican	5	【名】共和党員（R_） 【形】共和党の（R_）、共和制の		
 repudiate	12	【動】否認する、拒否する、妻子を捨てる		
 reputation	4	【名】評判、うわさ		
 repute	9	【名】世評、好評 【動】考える、みなす		
 requisite	11	【名】必需品 【形】不可欠の		
-rescue	4	【動】救助する		
 resell	10	【動】転売する、再販売する		
 resemblance	6	【名】類似		
-resemble	4	【動】似ている、～のようである		
 resentful	8	【形】憤慨している、ひどく嫌がる、怒りっぽい		
 resentment	6	【名】怒り、敵意、恨み		
 reservation	5	【名】予約、指定、保留		
@@ -4950,21 +4941,14 @@ reserved	5	【形】予約済みの、取ってある、予備の、口数の少
 reservoir	9	【名】貯め池、蓄積		
 reset	10	【動】セットし直す、ゼロに戻す 【名】初期化		
 reside	6	【動】住む、存在する、備わっている		
-residence	4	【名】住所、居住地		
-resident	4	【名】居住者		
-residential	6	【形】居住の、住居に適した		
 residual	12	【形】残りの 【名】残り、後遺症		
 residue	9	【名】残り		
 resignation	8	【名】辞職、辞任、辞表、あきらめ		
 resilient	11	【形】回復力のある、はね返る、歯ごたえのある		
 resin	10	【名】樹脂 【動】樹脂加工する		
-resist	4	【動】抵抗する、我慢する		
-resistance	4	【名】抵抗、反抗		
-resistant	7	【形】耐える、抵抗力のある、妨害する 【名】抵抗者		
 resonance	10	【名】反響、残響、共鳴		
 resonant	11	【形】よく響く、共鳴を起こす		
 resort	4	【動】訴える、頼る 【名】リゾート地、頼みの綱		
-resource	4	【名】資源、資産、源泉		
 resourceful	9	【形】臨機の才のある、資源に富む		
 respective	7	【形】それぞれの、各自の		
 respectively	7	【副】めいめいに、各自		
@@ -4976,13 +4960,10 @@ responsive	7	【形】すぐ反応する、敏感な
 restart	10	【動】再出発させる		
 restitution	12	【名】損害賠償、補償、回復		
 restless	6	【形】落ち着かない、不安な		
-restrain	4	【動】抑える、制止する		
-restraint	4	【名】自制、制限、拘束、監禁		
 restrict	5	【動】制限する、限定する		
 restricted	8	【形】制限された、限られた、部外秘の、機密の		
 restriction	5	【名】制限、限定、制約		
 restrictive	7	【形】制限的な		
-restroom	4	【名】（ホテル、デパートなどの）トイレ		
 restructure	6	【動】構造を改革する		
 resumption	10	【名】取り戻すこと、再開		
 resuscitate	12	【動】生き返らせる、よみがえらせる、復活する		
@@ -5006,13 +4987,10 @@ retrospect	9	【名】回想
 retrospective	9	【形】回顧的な、追想にふける 【名】回顧展		
 reunion	9	【名】同窓会、再会		
 reunite	10	【動】再結合させる、再会する		
-reuse	4	【動】再利用する 【名】再利用		
 revamp	11	【動】刷新する、改造する		
 revel	12	【動】非常に喜ぶ、どんちゃん騒ぎをする		
-revenge	4	【動】復讐する 【名】復讐、報復、仕返し		
 reverberate	11	【動】反響する、反射する		
 reversal	9	【名】逆転、転倒、挫折		
-reverse	4	【形】反対の 【動】～を逆にする		
 reversible	10	【形】リバーシブルの、両面仕立ての、元へ戻せる		
 revert	10	【動】戻る、再び始める		
 reviewer	10	【名】批評家、再調査する人		
@@ -5021,7 +4999,6 @@ revitalize	11	【動】新しい活力を与える
 revolutionary	5	【形】革命的な、革命の		
 revolutionize	10	【動】革命をもたらす、大革命を起こす		
 revulsion	11	【名】強い嫌悪、感情の急変		
-rewrite	4	【動】書き改める 【名】書き直し		
 rhetoric	7	【名】レトリック、美辞麗句、修辞法		
 rhinoceros	6	【名】サイ｟短縮形：rhino｠		
 rhyme	10	【名】韻 【動】韻を踏む		
@@ -5031,7 +5008,6 @@ riddle	6	【名】なぞなぞ 【動】なぞをかける、穴だらけにす�
 rider	5	【名】騎手、乗り手		
 ridiculous	5	【形】ばかげた、おかしな		
 rife	11	【形】（好ましくないもの・事が）はびこって		
-rifle	4	【名】ライフル銃		
 rig	9	【動】不正に操作する、急いで作る 【名】掘削装置、釣具、艤装		
 rightly	5	【副】公正に、正しく、きちんと		
 rigid	6	【形】堅い、固定した		
@@ -5042,7 +5018,6 @@ rink	9	【名】アイススケート場
 rinse	5	【動】すすぐ 【名】ゆすぎ（洗い）		
 riot	7	【名】暴動、騒動 【動】暴動を起こす		
 rip	6	【動】引き裂く、暴く、はぎ取る 【名】裂け目		
-ripe	4	【形】熟した		
 ripen	7	【動】熟する、実る、発達する		
 ripple	8	【動】さざ波を立てる、波紋のように広がる 【名】さざ波		
 rite	8	【名】儀式、典礼、習慣		
@@ -5095,7 +5070,6 @@ rueful	11	【形】痛ましい、悲しそうな
 ruffle	12	【動】羽を逆立てる、波だたせる、くしゃくしゃにする 【名】さざ波		
 rug	7	【名】じゅうたん、肩掛け		
 rugged	7	【形】ごつごつした、しわの寄った、厳しい、無骨な		
-ruling	4	【名】決定 【形】支配的な		
 rumble	8	【動】ゴロゴロ音をたてる、とどろく 【名】轟音		
 ruminate	12	【動】思い巡らす、反すうする		
 rummage	12	【動】くまなく捜す、捜し出す		
@@ -5114,20 +5088,16 @@ sabbath	12	【名】安息日(the S_)
 sabbatical	12	【名】大学教授の休暇年度 【形】安息日の（S_）		
 sabotage	10	【名】サボタージュ 【動】破壊行為をする、サボタージュをする		
 sacred	5	【形】神聖な、宗教的な		
-sacrifice	4	【名】犠牲、いけにえ 【動】犠牲にする		
 sacrilegious	12	【形】神聖をけがすような、不信心の		
 saddle	5	【名】鞍、サドル 【動】鞍を置く、課する		
-sadness	4	【名】悲しさ、不幸		
 safari	10	【名】狩猟旅行、サファリ		
 sag	11	【動】落ち込む、たるむ 【名】たるみ、落ち込み		
 saga	10	【名】冒険談、英雄物語		
 sagacious	12	【形】賢明な、機敏な		
 sage	9	【名】賢者 【形】賢い、厳粛な		
-saint	4	【名】聖人、キリスト者		
 salaried	6	【形】給料を受ける		
 salesperson	5	【名】販売員、店員		
 saliva	12	【名】唾液		
-salmon	4	【名】サケ		
 salon	6	【名】（美容・服飾などの）店、客間		
 saloon	7	【名】酒場、大きな部屋		
 salty	4	【形】塩を含んだ、辛らつな		
@@ -5151,10 +5121,6 @@ sardonic	11	【形】冷笑的な
 satchel	12	【名】学生カバン、小カバン		
 satellite	5	【名】人工衛星、衛星		
 satire	7	【名】風刺、皮肉		
-satisfaction	4	【名】満足、満足させること		
-satisfactory	5	【形】満足な、（評点が）並の		
-satisfied	4	【形】満足した、すっかり支払った		
-satisfying	5	【形】満足な、十分の		
 saturate	10	【動】浸す、満たす、飽和させる、没頭させる		
 saturation	12	【名】飽和状態、浸透、彩度、軍事力の集中		
 savage	6	【形】どう猛な、粗野な、激しい 【名】粗野な人 【動】猛烈に攻撃する		
@@ -5169,22 +5135,13 @@ scanty	10	【形】わずかな、ぎりぎりの、狭い、まばらな、ぴ�
 scapegoat	10	【名】身代わり、犠牲、他人の罪を負う者		
 scar	5	【名】傷跡 【動】傷跡を残す		
 scarce	5	【形】乏しい、まれな		
-scarcely	4	【副】ほとんど～ない、やっと、かろうじて		
 scarcity	8	【名】不足、欠乏、食糧難		
-scare	4	【動】びっくりさせる、怖がらせる		
-scared	4	【名】怖がる、おびえた		
 scarlet	7	【名】緋色 【形】緋色の		
 scary	5	【形】恐ろしい		
-scatter	4	【動】ちりぢりになる、ばらまく 【名】まき散らすこと		
-scenario	6	【名】シナリオ、予定の計画		
-scenery	4	【名】景色、舞台装置		
 scenic	8	【形】風景の、景色のいい、劇の、生き生きとした		
-scent	4	【名】におい 【動】嗅ぎつける		
 schematic	12	【形】概要の、図式的な 【名】図表		
 schizophrenia	11	【名】精神分裂病		
-scholar	4	【名】学者		
 scholarly	9	【形】学術的な、学者の		
-scholarship	4	【名】奨学金、学問		
 schooling	6	【名】学校教育、教えること、授業料		
 scoop	7	【名】ひとすくいの量、ひしゃく、特ダネ 【動】すくう、掘る		
 scooter	6	【名】スクーター、キックボード		
@@ -5217,7 +5174,6 @@ sculpture	5	【名】彫刻 【動】彫刻する
 scum	12	【名】浮きかす、くず		
 scurry	10	【動】急いで行く、風に舞う		
 scuttle	11	【動】船底に穴をあけて沈没させる、慌てて走る 【名】舷窓、急ぎ足		
-seal	4	【名】標章、印鑑、封印、アザラシ 【動】密封する		
 seam	7	【名】縫い目、閉じ目 【動】縫い合わす、しわをつける		
 seaman	7	【名】船員、上等水兵		
 seamless	10	【形】縫い目のない、とぎれのない		
@@ -5230,17 +5186,14 @@ secede	11	【動】脱退する
 secession	12	【名】脱退、離脱		
 seclude	12	【動】引きこもらせる、隔離する		
 secluded	12	【形】人里離れた、隠遁した、隔離された		
-secondary	4	【形】第2の、補助的な 【名】部下		
 secondhand	6	【形】中古の 【副】古物で		
 secondly	5	【副】第2に、次に		
 secrecy	8	【名】内密、人目を避けること、口堅さ		
 secretarial	10	【形】秘書の（仕事に関する）		
 secrete	12	【動】分泌する		
 secretive	10	【形】隠しだてする、秘密主義の		
-secretly	4	【副】秘密に		
 sectarian	11	【形】党派の、宗派の、偏狭な 【名】派閥に属する人		
 secular	9	【形】世俗の、非宗教的な、修道院外の 【名】俗人		
-secure	4	【形】安全な 【動】守る、安全である		
 securely	8	【副】しっかりと、安全に、安定して		
 sedan	10	【名】セダン		
 sedate	12	【形】落ち着いた、活気のない 【動】鎮静させる		
@@ -5264,14 +5217,12 @@ semicircle	10	【名】半円
 semiconductor	9	【名】半導体		
 semifinal	7	【形】準決勝の 【名】準決勝戦		
 seminal	11	【形】影響力の大きい、生殖の		
-seminar	4	【名】セミナー、専門家会議		
 seminary	11	【名】神学校		
 senate	5	【名】上院（the S_）、議会		
 senator	6	【名】上院議員、（古代ローマの）元老院議員		
 sender	6	【名】送り主、発送人、送信機		
 senile	12	【形】もうろくした、老衰した、老人の		
 seniority	10	【名】年上、年功		
-sensation	4	【名】感覚、気持ち、興奮		
 sensational	7	【形】驚くべき、扇情的な、素晴らしい		
 senseless	7	【形】意識を失った、感覚のない、無分別な、非常識な		
 sensibility	8	【名】感覚、感性、感受性、敏感さ		
@@ -5297,12 +5248,9 @@ serum	12	【名】血清
 serviceman	12	【名】軍人、修理人		
 servile	12	【形】奴隷の、卑しい		
 serving	6	【名】給仕をすること、（食事の）一人前		
-sesame	10	【名】ゴマ		
-session	4	【名】会議、会期、開廷していること		
 setback	9	【名】妨げ、逆行		
 setup	7	【名】わな、機構、配置、ひとそろいの食器具		
 sever	10	【動】切断する、不和にする、分かれる		
-sew	4	【動】縫う、縫い物をする		
 sewage	11	【名】汚水、下水		
 sewer	9	【名】下水管 【動】下水設備を設ける		
 sewerage	12	【名】下水道、下水処理、汚い考え		
@@ -5316,7 +5264,6 @@ shadowy	7	【形】謎につつまれた、陰になった、あいまいな、�
 shady	6	【形】陰にする、影の多い、怪しい		
 shaft	7	【名】柄、軸、矢、一条の光線		
 shaggy	10	【形】毛むくじゃらの、はびこった		
-shallow	4	【形】浅い 【名】浅瀬 【動】浅くする・なる		
 sham	10	【名】まがいもの、詐欺師 【形】見せかけの 【動】偽造する		
 shameful	6	【形】恥ずべき		
 shaped	9	【形】（複合語で）～の形をした		
@@ -5337,8 +5284,6 @@ shepherd	7	【名】羊飼い 【動】（羊の）番をする
 sherbet	9	【名】シャーベット		
 sheriff	9	【名】保安官、州長官		
 sherry	7	【名】シェリー酒		
-shield	4	【名】盾、保護物 【動】保護する		
-shift	4	【動】移す、ずらす、配置転換する 【名】移動、変化		
 shifty	12	【形】うさんくさい、ごまかしの多い、動きの素早い		
 shimmer	10	【動】かすかに光る、揺らめく		
 shin	12	【名】すね 【動】よじ登る		
@@ -5359,10 +5304,8 @@ shoplift	9	【動】万引する
 shopper	9	【名】買物客、宣伝ビラ、ショッピングカート		
 shore	2	【名】海岸、陸地 【形】陸の 【動】陸にあげる		
 shoreline	8	【名】海岸線		
-shortage	4	【名】不足、欠乏		
 shortcoming	10	【名】欠点、不十分な点		
 shorthand	10	【名】速記、簡単明瞭な言い方		
-shortly	4	【副】間もなく、簡潔に		
 shove	8	【動】押す、押し込む、押しのける、突く		
 shovel	5	【動】シャベルですくう 【名】シャベル		
 showcase	10	【名】陳列用ガラス箱、展示、試演の場 【動】陳列する		
@@ -5387,7 +5330,6 @@ sickle	11	【名】鎌 【動】鎌で刈る
 sickly	9	【形】病気がちの 【副】病的に 【動】青白くさせる		
 sideboard	8	【名】食器棚、サイドボード、側面板		
 sideline	11	【名】副業、横線、控え選手の立場 【動】（事故や負傷が）出場を妨げる		
-sidewalk	4	【名】歩道		
 sideways	6	【副】横を向いて、斜めに		
 sierra	11	【名】ノコギリ状の山脈、サワラ		
 sieve	12	【名】ふるい、ざる、口の軽い人 【動】ふるいにかける		
@@ -5411,7 +5353,6 @@ simulate	10	【動】シミュレートする、まねる
 simulation	7	【名】模擬実験、シミュレーション、ふりをすること		
 simultaneous	7	【形】同時の		
 simultaneously	6	【副】同時に、いっせいに		
-sin	4	【名】罪、罪悪 【動】罪を犯す		
 sinew	12	【名】筋肉、腱、体力		
 singular	5	【形】唯一の、単数の 【名】単数形		
 sinister	9	【形】邪悪な、運の悪い		
@@ -5428,10 +5369,8 @@ skeptic	10	【名】懐疑論者、無神論者
 skeptical	9	【形】懐疑的な、懐疑派の		
 skepticism	9	【名】懐疑的な態度、無神論		
 skid	8	【名】横滑り、（飛行機などの着陸用）そり 【動】滑る、横滑りさせる		
-skier	4	【名】スキーヤー		
 skim	7	【動】ざっと読む、すくい取る 【名】すくい取ること、浮遊物		
 skinner	11	【名】詐欺師、皮加工人		
-skip	4	【動】スキップする、飛ばして進む 【名】軽く飛ぶこと、スキップ		
 skipper	12	【名】小型船の船長、主将、指揮官		
 skull	10	【名】頭がい骨、おつむ		
 skyline	7	【名】スカイライン、空を背景とした輪郭		
@@ -5454,7 +5393,6 @@ sled	9	【名】そり 【動】そりですべる
 sleek	11	【形】つやつやした、栄養がよい 【動】なめらかにする		
 sleeper	7	【名】寝台車、眠る人、枕木		
 sleepless	6	【形】眠れない、不眠症の		
-sleeve	4	【名】そで、たもと		
 sleigh	7	【名】そり		
 slick	10	【形】すべすべした、ずるい、物柔らかな 【名】滑らかな場所		
 sliding	9	【形】引いて開ける形の、滑る、操作する		
