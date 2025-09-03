@@ -381,6 +381,15 @@
   - `summon` /ˈsʌmən/               ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
     - `summons` /ˈsʌmənz/           ([Writing] 召喚状、呼び出し)    He received a summons to appear in court.
 
+## ABIDE
+- `abide` /əˈbaɪd/                  ([Writing] 我慢する)             I can't abide his behavior.
+- `abide by` /əˈbaɪd baɪ/           ([Neutral] 従う、守る)          You must abide by the rules.
+- `tolerate` /ˈtɑːləreɪt/           ([Neutral] 耐える、我慢する)      I won't tolerate such behavior.
+- `comply` /kəmˈplaɪ/               ([Formal] 従う、応じる)         You must comply with regulations.
+- `conform` /kənˈfɔːrm/             ([Formal] 適合する、従う)       Please conform to the dress code.
+- `adhere` /ədˈhɪər/                ([Formal] 固守する、付着する)     We must adhere to the schedule.
+- `obey` /əˈbeɪ/                    ([Neutral] 従う、服従する)       Children should obey their parents.
+
 ## TREAT
 - `treat` /triːt/                   ([Neutral] 治療する)            They treated his broken arm.
 - `heal` /hiːl/                     ([Neutral] 治る、癒す)          The wound healed quickly.

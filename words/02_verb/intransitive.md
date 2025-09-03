@@ -436,3 +436,21 @@
   - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
   - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
   - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
+
+## OBSTRUCT
+> `be in the way`                   ([Neutral] 邪魔になる)          Your bag is in the way.
+  - `get in the way`                ([Neutral] 邪魔をする)          Don't let fear get in the way.
+  - `stand in the way`              ([Neutral] 邪魔になる、阻む)    Nothing can stand in our way.
+- `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
+- `obstruct` /əbˈstrʌkt/            ([Formal] 妨害する、塞ぐ)       Don't obstruct the exit.
+- `impede` /ɪmˈpiːd/                ([Formal] 妨げる、遅らせる)     Bad weather impeded our progress.
+- `hinder` /ˈhɪndər/                ([Neutral] 妨げる、邪魔する)    Don't hinder their efforts.
+- `interfere` /ˌɪntərˈfɪr/          ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
+- `be an obstacle`                  ([Neutral] 障害になる)          Language can be an obstacle.
+- `hamper` /ˈhæmpər/                ([Neutral] 妨げる、邪魔する)    Rain hampered the rescue efforts.
+- `thwart` /θwɔːrt/                 ([Formal] 阻止する、挫折させる) They thwarted our plans.
+
+- `descent` /dɪˈsent/               ([Neutral] 下降、降下)          The steep descent.
+  - `descend` /dɪˈsend/             ([Neutral] 下降する)            Descend the stairs.
+  - `descending` /dɪˈsendɪŋ/        ([Neutral] 下降する)            In descending order.
+

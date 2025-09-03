@@ -39,3 +39,13 @@
 - `stout` /staʊt/                   ([Neutral] 頑丈な、太い)        A stout rope.
   - `stoutly` /ˈstaʊtli/            ([Neutral] 頑丈に)              Stoutly built.
   - `stoutness` /ˈstaʊtnəs/         ([Neutral] 頑丈さ)              The stoutness of the wall.
+
+## ABLAZE
+- `ablaze` /əˈbleɪz/                ([Writing] 燃えている、輝いている) The building was ablaze.
+- `blaze` /bleɪz/                   ([Neutral] 炎、火災)             The fire became a dangerous blaze.
+- `blazing` /ˈbleɪzɪŋ/              ([Neutral] 燃えている、猛烈な)    The blazing sun was unbearable.
+- `burning` /ˈbɜːrnɪŋ/              ([Neutral] 燃えている、激しい)    The burning building collapsed.
+- `aflame` /əˈfleɪm/                ([Writing] 炎に包まれた)         The forest was aflame.
+- `alight` /əˈlaɪt/                 ([Writing] 燃えている、点いている) The candles were alight.
+- `ignited` /ɪɡˈnaɪtɪd/             ([Neutral] 点火された、燃え上がった) The gas was ignited.
+- `fiery` /ˈfaɪəri/                 ([Neutral] 燃えるような、激しい)   Her fiery temper surprised everyone.

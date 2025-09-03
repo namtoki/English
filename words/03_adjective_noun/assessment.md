@@ -468,6 +468,17 @@
 
 ## BAD
 
+## ABJECT
+- `abject` /ˈæbdʒekt/               ([Writing] 極度の、悲惨な)      They live in abject poverty.
+- `abjectly` /ˈæbdʒektli/           ([Writing] 極度に、悲惨に)      He failed abjectly.
+- `abjectness` /ˈæbdʒektnəs/        ([Writing] 悲惨さ、卑屈さ)     The abjectness of their condition shocked us.
+- `abjection` /æbˈdʒekʃən/          ([Writing] 屈辱、卑屈)         His abjection was complete.
+- `wretched` /ˈretʃɪd/              ([Neutral] 惨めな、哀れな)      The refugees lived in wretched conditions.
+- `miserable` /ˈmɪzərəbəl/          ([Neutral] 惨めな、不幸な)      She had a miserable childhood.
+- `hopeless` /ˈhoʊpləs/             ([Neutral] 絶望的な、望みのない) The situation seemed hopeless.
+- `deplorable` /dɪˈplɔrəbəl/        ([Formal] 嘆かわしい、酷い)     The housing conditions were deplorable.
+- `pitiable` /ˈpɪtiəbəl/            ([Neutral] 哀れな、同情すべき)  He was in a pitiable state.
+
 
 ## 褒める
 - `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.

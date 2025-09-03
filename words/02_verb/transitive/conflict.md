@@ -68,6 +68,14 @@
 - `rebuff` /rɪˈbʌf/                 ([Formal] 拒絶する、はねつける) She rebuffed his advances.
 - `spurn` /spɜːrn/                  ([Writing] 拒絶する はねつける) She spurned his affection.
 
+## ABET
+- `abet` /əˈbet/                    ([Writing] 幇助する)             He was accused of abetting fraud.
+- `aid` /eɪd/                       ([Neutral] 援助する)             She aided him in his research.
+- `assist` /əˈsɪst/                 ([Neutral] 助ける)               Can you assist me with this task?
+- `facilitate` /fəˈsɪlɪteɪt/       ([Formal] 促進する)              The new system will facilitate communication.
+- `enable` /ɪˈneɪbəl/               ([Neutral] 可能にする)           This tool enables faster processing.
+- `instigate` /ˈɪnstɪɡeɪt/         ([Neutral] 扇動する)             He instigated a rebellion.
+
 ## ABDUCT
 - `abduct` /æbˈdʌkt/               ([Formal] 誘拐する)             The criminals abducted the child.
 - `kidnap` /ˈkɪdnæp/               ([Neutral] 誘拐する)            They kidnapped the businessman.

@@ -289,6 +289,15 @@
 - `champion` /ˈtʃæmpiən/            ([Neutral] 擁護者、チャンピオン) He's a champion of workers' rights.
 - `enthusiast` /ɪnˈθuziæst/         ([Neutral] 愛好家、熱心家)      She's a jazz enthusiast.
 
+## ABET
+- `abetment` /əˈbetmənt/            ([Writing] 教唆、幇助)          He was charged with abetment of fraud.
+- `abettor` /əˈbetər/               ([Writing] 教唆者、共犯者)      The abettor was also prosecuted.
+- `aid` /eɪd/                       ([Neutral] 援助)                They sent aid to the victims.
+- `assistance` /əˈsɪstəns/          ([Neutral] 支援、援助)          Thank you for your assistance.
+- `facilitation` /fəˌsɪlɪˈteɪʃən/   ([Formal] 促進、円滑化)         The facilitation of trade is important.
+- `enablement` /ɪˈneɪbəlmənt/       ([Formal] 実現、権限付与)       Technology enablement improved efficiency.
+- `instigation` /ˌɪnstɪˈɡeɪʃən/     ([Formal] 扇動、教唆)           His instigation led to riots.
+
 ## CONFLICT
 - `ambush` /ˈæmbʊʃ/                 ([Neutral] 待ち伏せ、奇襲)      The soldiers set up an ambush.
 - `siege` /siːdʒ/                   ([Formal] 包囲、包囲戦)         The siege lasted for months.
@@ -457,3 +466,32 @@
 - `departure` /dɪˈpɑːrtʃər/          ([Neutral] 出発)          The train departure was delayed by fog.
 - `flight` /flaɪt/                   ([Neutral] 逃避)          Their flight from the country was sudden.
 
+
+## BANK
+- `bank` /bæŋk/                     ([Neutral] 土手、堤防)          We walked along the river bank.
+- `embankment` /ɪmˈbæŋkmənt/        ([Formal] 堤防、土手)           The embankment protected the town from floods.
+- `levee` /ˈlevi/                   ([Neutral] 堤防、防波堤)        The levee broke during the hurricane.
+- `dike` /daɪk/                     ([Neutral] 堤防、土手)          They built a dike to hold back the water.
+  - `dyke` /daɪk/                   ([British] 堤防、土手)          The dyke prevented flooding.
+
+## REFUGE
+- `refuge` /ˈrefjuːdʒ/              ([Neutral] 避難所、逃げ場)      The cabin was our refuge from the storm.
+  - `refugee` /ˌrefjuˈdʒiː/         ([Neutral] 難民、避難民)        The refugees fled their homeland.
+- `sanctuary` /ˈsæŋktʃueri/         ([Formal] 聖域、保護区)         The church offered sanctuary to the fugitives.
+- `haven` /ˈheɪvən/                 ([Writing] 安息地、避難所)      The library was his haven from the busy world.
+
+
+## ABIDE
+- `abiding` /əˈbaɪdɪŋ/              ([Neutral] 永続的な)             She has an abiding love for music.
+- `abidance` /əˈbaɪdəns/            ([Writing] 遵守、継続)          Their abidance by the law was expected.
+- `abode` /əˈboʊd/                  ([Writing] 住居、住まい)        His humble abode was cozy.
+- `tolerance` /ˈtɑːlərəns/           ([Neutral] 忍耐、寛容)           He has no tolerance for lies.
+- `compliance` /kəmˈplaɪəns/         ([Formal] 遵守、従順)           Compliance with safety rules is mandatory.
+- `conformity` /kənˈfɔːrməti/        ([Formal] 適合、一致)           The design is in conformity with standards.
+- `adherence` /ədˈhɪərəns/          ([Formal] 付着、固守)           Strict adherence to rules is required.
+- `obedience` /əˈbiːdiəns/          ([Neutral] 服従、従順)          The dog showed perfect obedience.
+
+- `frontal`                         ([Technical] 正面の)            A frontal view.
+- `anterior`                        ([Medical] 前部の)              The anterior part of the brain.
+- `fore`                            ([Nautical] 前部の)             The fore deck of the ship.
+- `foremost`                        ([Formal] 最前部の、主要な)     The foremost expert.

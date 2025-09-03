@@ -136,6 +136,11 @@
   - `coarsely` /ˈkɔːrsli/           ([Neutral] 粗く)                Coarsely ground pepper.
   - `coarseness` /ˈkɔːrsnəs/        ([Neutral] 粗さ)                The coarseness of the sand.
 
-## DIRECTION
-- `upward` /ˈʌpwərd/                ([Neutral] 上向きに)            The trend is moving upward.
-- `upwards` /ˈʌpwərdz/              ([British] 上向きに)            Prices are going upwards.
+## HEIGHT
+- `altitude` /ˈæltɪtjuːd/           ([Formal] 高度、標高)           The plane flew at high altitude.
+- `elevation` /ˌelɪˈveɪʃən/         ([Formal] 標高、高さ)           The city's elevation is 1000 meters.
+  - `elevate` /ˈelɪveɪt/            ([Formal] 高める、昇格させる)   They elevated him to manager.
+  - `elevator` /ˈelɪveɪtə/          ([Neutral] エレベーター)        The elevator reached the top floor.
+  - `elevated` /ˈelɪveɪtɪd/         ([Formal] 高い位置の、高尚な)   The elevated platform offered great views.
+- `height` /haɪt/                   ([Neutral] 高さ、身長)          What's the height of that building?
+  - `heighten` /ˈhaɪtən/            ([Neutral] 高める、強める)      The drama heightened the tension.
