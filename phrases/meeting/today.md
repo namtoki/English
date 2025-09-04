@@ -1,24 +1,22 @@
 # TODAY
 
-## Mimi
+## Spatial
 
-### Question from me
-Yeah, yeah.
-As for the question I asked this week,
-to begin with,
+Sorry, I've left it up to Kuroishi-san.
 
-I'd like to know whether Voice Clarity can be enabled during calls — putting aside whether this is useful or not.
+## Multipoint
 
-Supposing that Voice Clarity is enabled during a call, is there any chance that some user experiences would be improved compared to when Voice Clarity is off? Of course, I understand that the current version of Voice Clarity doesn't denoise incoming signals during decoding. However, even without that feature, Voice Clarity still has Natural Ambience feature: it removes environmental noise around the wearer, and it minimizes self-voice amplification using some algorithm, right?
+Sorry, I've left it up to Kuroishi-san.
 
-So I assume that even with just Natural Ambience feature, there would be some effectiveness in terms of call experience.
-Does that make sense?
+## Visual design update to the app
 
-I understand that we can only determine whether there's any effectiveness during phone calls by actually testing it in real use scenarios.
+Speaking of which,
+where are the image files located?
+Do you have any detailed design materials
+that include like ratio information between widgets or pixel specifications or something like that?
+We need these to integrate into our source code.
 
-### SoW
-
-I have some comments.
-First, as for Sound Personalization,
-at Implementation section, I can see the sentence "Note: the hearing test-flow itself can only be themed as described above".
-Does this mean that API-based integration cannot provide the same level of functionality/customization?
+Can we implement the UIs based on our understanding?
+Once we're done, we'll compare them against these Figma designs,
+and as long as the differences aren't too major, they should be acceptable.
+This is the flow I understand.
