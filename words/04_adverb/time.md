@@ -1,16 +1,18 @@
 # Time
 
 ## RECENTLY / TILL RECENTLY
+> `recently` /ˈriːsəntli/            ([Neutral] 最近)                Recently, I moved to a new apartment.
+> `lately` /ˈleɪtli/                 ([Casual] 最近)                 I haven't seen him lately.
 - `just recently`                   ([Casual] つい最近)             I saw him just recently.
-- `not long ago`                    ([Neutral] つい最近)            Not long ago, this area was farmland.
 - `only recently`                   ([Neutral] つい最近になって)    Only recently did we understand this.
-- `in recent times`                 ([Formal] 最近では)             In recent times, technology has advanced rapidly.
-- `lately` /ˈleɪtli/                ([Casual] 最近)                 I haven't seen him lately.
+- `quite recently`                  ([Neutral] ごく最近)            Quite recently, the policy changed.
+- `not long ago`                    ([Neutral] つい最近)            Not long ago, this area was farmland.
 - `of late` /ʌv leɪt/               ([Formal] 最近)                 Of late, he's been working harder.
-- `until recently`                  ([Neutral] 最近まで)            Until recently, I lived in Tokyo.
-  > `till recently`                 ([Casual] 最近まで)             Till recently, I personally didn't even believe in love
-  - `up until recently`             ([Neutral] つい最近まで)        Up until recently, this was impossible.
+- `in recent times`                 ([Formal] 最近では)             In recent times, technology has advanced rapidly.
 - `as recently as`                  ([Neutral] 最近の〜まで)        As recently as last year, this was banned.
+> `until recently`                  ([Neutral] 最近まで)            Until recently, I lived in Tokyo.
+  > `till recently`                 ([Casual] 最近まで)             Till recently, I didn't believe in love.
+  - `up until recently`             ([Neutral] つい最近まで)        Up until recently, this was impossible.
 
 ## OFTEN TIMES
 - `often times` /ˈɔːfən taɪmz/      ([Casual] しばしば)             Often times, people don't realize the impact.
