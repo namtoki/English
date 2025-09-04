@@ -1,213 +1,204 @@
 # Time
 
-## RECENTLY / TILL RECENTLY
-> `recently` /ˈriːsəntli/            ([Neutral] 最近)                Recently, I moved to a new apartment.
-> `lately` /ˈleɪtli/                 ([Casual] 最近)                 I haven't seen him lately.
-- `just recently`                   ([Casual] つい最近)             I saw him just recently.
-- `only recently`                   ([Neutral] つい最近になって)    Only recently did we understand this.
-- `quite recently`                  ([Neutral] ごく最近)            Quite recently, the policy changed.
-- `not long ago`                    ([Neutral] つい最近)            Not long ago, this area was farmland.
-- `of late` /ʌv leɪt/               ([Formal] 最近)                 Of late, he's been working harder.
-- `in recent times`                 ([Formal] 最近では)             In recent times, technology has advanced rapidly.
-- `as recently as`                  ([Neutral] 最近の〜まで)        As recently as last year, this was banned.
-> `until recently`                  ([Neutral] 最近まで)            Until recently, I lived in Tokyo.
-  > `till recently`                 ([Casual] 最近まで)             Till recently, I didn't believe in love.
-  - `up until recently`             ([Neutral] つい最近まで)        Up until recently, this was impossible.
-
-## OFTEN TIMES
-- `often times` /ˈɔːfən taɪmz/      ([Casual] しばしば)             Often times, people don't realize the impact.
+## SOMETIMES (AT TIMES / OFTEN TIMES)
 - `sometimes` /ˈsʌmtaɪmz/           ([Neutral] 時々)                Sometimes I walk to work.
 - `occasionally` /əˈkeɪʒənəli/      ([Neutral] たまに、時々)        I occasionally visit my parents.
-  - `on occasion` /ɑːn əˈkeɪʒən/    ([Formal] 時として)             On occasion, we work late.
 - `from time to time`               ([Neutral] 時々)                From time to time, we meet for coffee.
+> `at times` /æt taɪmz/             ([Neutral] 時として)            At times, life can be difficult.
 - `once in a while`                 ([Casual] たまに)               Once in a while, I treat myself.
 - `every now and then` /ˈevri naʊ/  ([Casual] 時々)                 Every now and then, he calls me.
-  - `now and then` /naʊ ænd ðen/    ([Casual] 時々)                 Now and then, we go out for dinner.
-- `at times` /æt taɪmz/             ([Neutral] 時として)            At times, life can be difficult.
+- `now and then` /naʊ ænd ðen/      ([Casual] 時々)                 Now and then, we go out for dinner.
 - `every so often`                  ([Casual] 時々)                 Every so often, I check my email.
+> `often times` /ˈɔːfən taɪmz/      ([Casual] しばしば)             Often times, people don't realize the impact.
+- `on occasion` /ɑːn əˈkeɪʒən/      ([Formal] 時として)             On occasion, we work late.
 - `sporadically` /spəˈrædɪkli/      ([Formal] 散発的に)             He works sporadically from home.
 - `intermittently`                  ([Formal] 断続的に)             The rain fell intermittently all day.
+- `here and there` /hɪr ænd ðer/    ([Casual] ときおり)             I see him here and there around town.
 
-## BREAK
-- `break` /breɪk/                   ([Neutral] 休憩、中断)          Let's take a break.
-- `pause` /pɔːz/                    ([Neutral] 一時停止、間)        There was a long pause in the conversation.
-- `rest` /rest/                     ([Neutral] 休息)                I need a rest from all this work.
-- `timeout` /ˈtaɪmaʊt/              ([Casual] タイムアウト、休憩)   Let's call a timeout.
-- `breather` /ˈbriːðər/             ([Casual] ひと息、小休止)       I need a breather.
-- `intermission` /ˌɪntərˈmɪʃən/     ([Neutral] 休憩、幕間)          There's a 15-minute intermission after act one.
-- `lull` /lʌl/                      ([Neutral] 小康状態、凪)        There was a lull in the conversation.
-- `interlude` /ˈɪntərluːd/          ([Writing] 幕間、合間)          It was a peaceful interlude in a busy day.
-- `respite` /ˈrespɪt/               ([Writing] 休息、一時的中断)    She found respite from her busy schedule.
-  - `respited` /ˈrespɪtɪd/          ([Writing] 猶予された)          The execution was respited for two weeks.
-- `reprieve` /rɪˈpriːv/             ([Writing] 猶予、一時的救済)    The storm gave us a brief reprieve.
-- `hiatus` /haɪˈeɪtəs/              ([Writing] 中断、空白期間)      The band took a two-year hiatus.
-- `recess` /rɪˈses/                 ([Neutral] 休憩時間、休会)      Court is in recess until Monday.
-- `interval` /ˈɪntərvəl/            ([Neutral] 間隔、休憩)          There's a short interval between acts.
+## ALWAYS (24/7)
+> `always` /ˈɔːlweɪz/               ([Neutral] いつも、常に)        I always drink coffee in the morning.
+- `all the time`                    ([Casual] いつも、ずっと)       He's on his phone all the time.
+- `constantly` /ˈkɑːnstəntli/       ([Neutral] 絶えず、常に)        She's constantly worried about her children.
+- `time and again`                  ([Neutral] 何度も、繰り返し)    I've told you time and again.
+- `regularly` /ˈreɡjələrli/         ([Neutral] 定期的に)            I exercise regularly.
+- `routinely` /ruːˈtiːnli/          ([Neutral] 習慣的に、定期的に)  The equipment is routinely inspected.
+- `habitually` /həˈbɪtʃuəli/        ([Formal] 習慣的に)             He habitually arrives late.
+- `round the clock`                 ([Neutral] 24時間体制で)        The hospital operates round the clock.
+- `around the clock`                ([Neutral] 24時間体制で)        They work around the clock.
+> `24/7` /ˌtwenti fɔːr ˈsevən/      ([Casual] 24時間年中無休で)     The store is open 24/7.
+- `day and night`                   ([Neutral] 昼夜を問わず)        She works day and night.
+- `night and day`                   ([Neutral] 昼夜を問わず)        There's a night and day difference.
 
-## OLD
-- `old` /oʊld/                      ([Neutral] 古い、年老いた)      This is an old building.
-- `ancient` /ˈeɪnʃənt/              ([Neutral] 古代の、太古の)      Ancient Rome was a great empire.
-- `outdated` /ˌaʊtˈdeɪtɪd/          ([Neutral] 時代遅れの)          The software is outdated.
-- `old-fashioned` /oʊld ˈfæʃənd/    ([Neutral] 古風な、旧式の)      She has old-fashioned values.
-- `vintage` /ˈvɪntɪdʒ/              ([Neutral] ヴィンテージの)      He drives a vintage car.
-- `classic` /ˈklæsɪk/               ([Neutral] 古典的な、定番の)    It's a classic design.
-- `traditional` /trəˈdɪʃənəl/       ([Neutral] 伝統的な)            They follow traditional customs.
-- `obsolete` /ˌɑːbsəˈliːt/          ([Neutral] 時代遅れの、廃れた)  This technology is now obsolete.
-  - `obsolescence` /ˌɑːbsəˈlesns/   ([Writing] 陳腐化、廃退)        Planned obsolescence drives sales.
-  - `obsolescent` /ˌɑːbsəˈlesnt/    ([Writing] 廃れつつある)        The obsolescent machinery needs replacing.
-- `antique` /ænˈtiːk/               ([Neutral] 骨董品、古風な)      She collects antique furniture.
-  - `antiquity` /ænˈtɪkwəti/        ([Writing] 古代、古さ)          The building dates from antiquity.
-- `outmoded` /ˌaʊtˈmoʊdɪd/          ([Neutral] 時代遅れの、流行遅れ) His views are completely outmoded.
-  - `outmode` /ˌaʊtˈmoʊd/           ([Writing] 時代遅れにする)      Technology quickly outmodes devices.
-- `antiquated` /ˈæntɪkweɪtɪd/       ([Formal] 時代遅れの、旧式の)   Their antiquated system needs updating.
-- `bygone` /ˈbaɪɡɔːn/               ([Writing] 過ぎ去った、昔の)    She remembered bygone days fondly.
-  - `bygones` /ˈbaɪɡɔːnz/           ([Writing] 過去の事)            Let bygones be bygones.
-- `archaic` /ɑːrˈkeɪɪk/             ([Writing] 古風な、時代遅れの)  The law contains archaic language.
-  - `archaism` /ˈɑːrkeɪɪzəm/        ([Writing] 古語、古風な表現)    The text is full of archaisms.
-- `defunct` /dɪˈfʌŋkt/              ([Formal] 廃止された、消滅した) The defunct company left many debts.
+## RECENTLY (TILL RECENTLY / THE OTHER DAY)
+> `recently` /ˈriːsəntli/           ([Neutral] 最近)                Recently, I moved to a new apartment.
+  - `just recently`                 ([Casual] つい最近)             I saw him just recently.
+  - `only recently`                 ([Neutral] つい最近になって)    Only recently did we understand this.
+  - `quite recently`                ([Neutral] ごく最近)            Quite recently, the policy changed.
+  - `lately` /ˈleɪtli/              ([Casual] 最近)                 I haven't seen him lately.
+  - `not long ago`                  ([Neutral] つい最近)            Not long ago, this area was farmland.
+  - `of late` /ʌv leɪt/             ([Formal] 最近)                 Of late, he's been working harder.
+  - `in recent times`               ([Formal] 最近では)             In recent times, technology has advanced rapidly.
+> `till recently`                   ([Casual] 最近まで)             Till recently, I didn't believe in love.
+  - `until recently`                ([Neutral] 最近まで)            Until recently, I lived in Tokyo.
+  - `up until recently`             ([Neutral] つい最近まで)        Up until recently, this was impossible.
+  - `as recently as`                ([Neutral] 最近の〜まで)        As recently as last year, this was banned.
+> `(just) the other day`            ([Casual] つい先日)             I went there just the other day!
 
-## COMPLIMENT
-- [ ] `on and off`                          ([Neutral] 断続的に) It’s been raining `on and off` all day today.
-- [ ] `in a row`                            ([Neutral] 連続で) The unemployment rate has risen three quarters `in a row.`
-- [ ] `with each passing day/year`          ([Neutral] 日を追うごとに) `With each passing day,` her skills improved.
-- [ ] `at heart`                            ([Neutral] 本質的には／心の中では) He’s a kind person `at heart.`
-- [ ] `in a rage`                           ([Neutral] 激怒して) She stormed out of the room `in a rage.`
-- [ ] `in earnest`                          ([Formal] 本格的に／真剣に) They began the negotiations `in earnest` last week.
-- [ ] `to sb's heart's content`             ([Casual] 思う存分～する) You can eat `to your heart's content` at the buffet.
-- [ ] `at a discount`                       ([Neutral] 割引価格で) The shoes are available `at a discount` this weekend.
-- [ ] `on average`                          ([Neutral] 平均して) `On average,` people sleep about eight hours a night.
-- [ ] `followed by`                         ([Neutral] その後) Lightning flashed, `followed by` terribly loud thunder.
+## FOR THE FIRST TIME IN
+- `for the first time`              ([Neutral] 初めて)              Last Saturday, I came here for the first time.
+- `for the first time in (N)`       ([Neutral] (N)ぶりに初めて)     I'm going to Hawaii for the first time in 1 year.
 
+## NOW (AT THIS POINT / SO FAR / FROM NOW ON)
+> `at this point` /æt ðɪs pɔɪnt/    ([Neutral] ここまできたら)      I'm ready to quit at this point.
+- `by now` /baɪ naʊ/                ([Neutral] 今頃は)              You must be hungry by now.
+> `so far` /soʊ fɑːr/               ([Neutral] これまでのところ)    So far I'm having a blast.
+  - `to date` /tuː deɪt/            ([Formal] これまでのところ)     To date, the Foos have never won a game.
+  - `until now` /ənˈtɪl naʊ/        ([Neutral] これまでは)          Until now, the Foos have never won a game.
+> `from now on` /frʌm naʊ ɑːn/      ([Neutral] これからは)          From now on, I'm cutting down on expenses.
+  - `right away` /raɪt əˈweɪ/       ([Neutral] すぐに)              I'll come right away.
+  - `any day now` /ˈeni deɪ naʊ/    ([Casual] 今すぐにでも)         Any day now, she'll call.
 
+## UP-FRONT
+- `up-front` /ʌp frʌnt/             ([Neutral] あらかじめ)          This hotel requires a cash deposit up-front.
+- `in advance` /ɪn ədˈvæns/         ([Neutral] あらかじめ)          Please book your tickets in advance.
 
-## 過去のいつ頃
-- [ ] `by now`                              (今頃は) You must be hungry `by now`.
-- [ ] `a moment ago`                        (数分前に) She called `a moment ago` from a taxi.
-- [x] `(just) the other day`                (つい先日) I went there `just the other day`!
-- [ ] `quite recently`                      (ごく最近)
-- [x] `as of`                               (時点で) `as of` January 2014
-- [ ] `when sb was N`                       (歳で/のときに)
-- [ ] `at N years old`                      (歳で/のときに)
-- [ ] `at the age of N`                     (歳で/のときに)
-- [ ] `up-front`                            (あらかじめ) This hotel requires a cash deposit `up-front.`
-- [ ] `in advance`                          (あらかじめ)
+## SPECIFIC EVENT (EVERY / )
+> `every (period)` /ˈevri/          ([Neutral] ~~毎に)              The vehicles are inspected every three months.
+  - `every other (period)`          ([Neutral] 隔~~毎に)            I work out every other day.
+  - `every time S V` /ˈevri taɪm/   ([Neutral] するときはいつも)    Every time you make them, they are perfect.
+- `N after that` /ˈæftər ðæt/       ([Neutral] N経過後に)           An hour after that, he called.
+- `as soon as` /æz sun æz/          ([Neutral] したらすぐに)        As soon as I get home, I'll call you.
+- `once` /wʌns/                     ([Neutral] したらすぐに)        Call me once you get home.
+- `upon X/doing` /əˈpɑːn/           ([Formal] Xしてすぐ)            Upon arrival at headquarters, report to security.
+- `in the middle of`                ([Neutral] の最中に)            He fell asleep in the middle of the meeting.
+- `just before N` /dʒʌst bɪˈfɔːr/   ([Neutral] のちょうど前に)      I'll get home just before 9pm.
+- `just after N` /dʒʌst ˈæftər/     ([Neutral] のちょうど後に)      I'll go abroad just after Golden Week.
+- `on short notice`                 ([Neutral] 急に、短期間で)      I can't make it on such short notice.
+- `at short notice`                 ([British] 急に、短期間で)      We had to leave at short notice.
+- `into` /ˈɪntuː/                   ([Neutral] 〜に入って)          Three minutes into the game, Okazaki scored.
+- `followed by` /ˈfɑːloʊd baɪ/      ([Neutral] その後)             Lightning flashed, followed by loud thunder.
+- `by the time S V` /baɪ ðə taɪm/   ([Neutral] するときまでに)     By the time I woke up, the snow had stopped.
+- `no later than N`                 ([Formal] までには)            Submit your assignment no later than 5 PM on June 10.
+- `by N at the latest`              ([Formal] 遅くとも)            Estimate the losses by Friday at the latest.
+- `until such time as S V`          ([Formal] までの間は)          We cannot review it until such time as we receive that.
 
-## どんなイベントのとき
-- [x] `N after that`                        (N 経過後に) an hour `after that` / two weeks `after that` / a few years `after that` / Soon `after that,`
-- [x] `as soon as`                          (したらすぐに) `As soon as` I get home, I'll call you.
-- [ ] `once`                                (したらすぐに) Call me `once` you get home.
-- [ ] `upon/on X/doing`                     (X してすぐ) `upon arrival at the company headquarters`
-- [ ] `in the middle of`                    (の最中に) He fell asleep `in the middle of` the sales meeting.
-- [x] `at the same time`                    (同時に) It's hard being the writer and an actor `at the same time.`
-- [ ] `just before N`                       (のちょうど前に) will get home sometime `just before` 9pm.
-- [ ] `just after N`                        (のちょうど後に) will go abroad sometime `just after` Golden Week.
+## ROUGH FUTURE (AT SOME POINT / BEFORE LONG / IN A LITTLE BIT / BY THEN)
+> `at some point`                   ([Neutral] いつか)              We should really clean the fridge at some point.
+  - `someday` /ˈsʌmdeɪ/             ([Neutral] いつか)              Someday, I'll visit Japan.
+  - `one day`                       ([Neutral] いつか)              One day, you'll understand.
+  - `some day`                      ([Neutral] いつか)              Some day, this will all make sense.
+  - `in the future`                 ([Neutral] 将来)                In the future, cars will be electric.
+  - `one of these days`             ([Casual] そのうち)             One of these days, I'll fix that door.
+  - `down the road`                 ([Casual] 将来、この先)         Down the road, we might expand.
+  - `down the line`                 ([Casual] 将来、後で)           We'll deal with that down the line.
+  - `eventually` /ɪˈventʃuəli/      ([Neutral] 最終的に、やがて)    Eventually, he'll come around.
+  - `sooner or later`               ([Neutral] 遅かれ早かれ)        Sooner or later, the truth will come out.
+  - `in time`                       ([Neutral] やがて、時が経てば)  In time, the pain will fade.
+  - `in due time`                   ([Formal] 適切な時に)           All will be revealed in due time.
+> `before long`                     ([Neutral] もうすぐ)            Before long, they will enter a crucial phase.
+  > `in a little bit`               ([Casual] ちょっとしたら)       The ambulance will get here in a little bit.
+  - `in just a little bit`          ([Casual] ちょっとしたら)       I'll be there in just a little bit.
+  - `shortly`                       ([Neutral] まもなく)            He'll be arriving shortly.
+  - `soon`                          ([Neutral] すぐに)              We'll know the results soon.
+  - `any minute now`                ([Casual] いつでも、すぐにでも) The bus should arrive any minute now.
+  - `any day now`                   ([Casual] 今すぐにでも)         The baby is due any day now.
+  - `any time now`                  ([Casual] いつでも)             She could call any time now.
+> `by then`                         ([Neutral] その頃までに)        By then, it was too late.
+  - `by that time`                  ([Neutral] その時までに)        By that time, he had already left.
+  - `up to that point`              ([Neutral] その時点まで)        Up to that point, everything was fine.
 
-## 頻度
-- [x] `every (期間)`                        (~~毎に) The vehicles are inspected for defects `every three months`.
-- [x] `every other (期間)`                  (隔~~毎に) I work out at the health club `every other day`.
-- [x] `every time S V`                      (するときはいつも) `Every time` you make them, they are perfect.
-- [ ] `for the first time`                  (はじめて) Last Saturday, I came here `for the first time.`
-- [ ] `for the first time in (N)`           (間で初めて) I'm going to Hawaii `for the first time in` 1 year.
-- [ ] `on occasion`                         (ときおり)
-- [ ] `from time to time`                   (ときおり)
-- [ ] `once in a while`                     (ときおり)
-- [ ] `at times`                            (ときどき) `At times` I confuse "curve" with "carve."
-- [ ] `here and there`                      (ときおり)
-- [ ] `now and then`                        (ときどき) I must admit we quarrel `every now and then.`
-- [ ] `more often than not`                 (大半の場合) `More often than not`, famine is accompanied by plague.
-- [ ] `time and again`                      (何度も) The ecologist has warned us `time and again.`
-- [ ] `once in a blue moon`                 (めったにない)
+## ROUGH PAST (AS OF / WHEN / AT THAT TIME)
+- `at the same time`                ([Neutral] 同時に)              It's hard being A and B at the same time.
+- `a moment ago` /ə ˈmoʊmənt əˈgoʊ/ ([Neutral] 少し前に)            She called a moment ago from a taxi.
+- `in those days`                   ([Neutral] あの頃は)            In those days, we had no internet.
+> `at that time`                    ([Neutral] その時は)            At that time, I was living in Paris.
 
-## 未来に関わる
-- [x] `at this point`                       (ここまできたら) I'm ready to quit `at this point.`
-- [x] `so far`                              (これまでのところ) `So far` I’m having a blast. The town is wonderful.
-- [ ] `to date`                             (これまでのところ) `To date`, the Foos have never won a game.
-- [ ] `until now`                           (これまでは/今は逆) `Until now`, the Foos have never won a game.
-- [x] `from now on`                         (これからは) I have to cut down on my expenses, `so from now on`, I'm x~
-- [ ] `right away`                          (すぐに) I'll come `right away`.
-- [ ] `any day now`                         (今すぐにでも) If possible, I want to go to your side `any day now`, but it's impossible.
-- [x] `before long`                         (もうすぐ) `Before long`, they will enter a crucial phase.
-- [x] `in (just) a little bit`              (ちょっとしたら) The ambulance will get here `in just a little bit`.
-- [x] `at some point`                       (いつか) We should really clean the fridge `at some point`.
-- [ ] `for years to come`                   (これから数年) the birthrate will continue to decline steadily `for years to come`.
-- [ ] `for good`                            (永久にずっと) We're through `for good` this time.
-- [ ] `by the time S V`                     (するときまでに) `By the time` I got wake up, the snow had stopped falling.
-- [ ] `no later than N`                     (までには) Please hand in your assignment via e-mail `no later than` 500 PM on June 10.
-- [ ] `by N at the latest`                  (遅くとも) Please estimate the losses `by Friday at the latest`. I'll manage it somehow.
-- [ ] `until such time as S V`              (までの間は) We are unable to review it `until such time as` we receive that.
+## SPECIFIC PAST (AS OF / WHEN / AT THAT TIME)
+> `as of` /æz ʌv/                   ([Neutral] 〜時点で)            As of January 2014, the population was 50,000.
+  - `as of now`                     ([Neutral] 現時点で)            As of now, we have 100 members.
+  - `as of today`                   ([Neutral] 今日時点で)          As of today, the deal is still pending.
+  - `as of this morning`            ([Neutral] 今朝時点で)          As of this morning, no decision has been made.
+> `when I was N`                    ([Neutral] 私がN歳の時)         When I was 10, we moved to Tokyo.
+  - `at the age of`                 ([Neutral] 〜歳で)              She started piano at the age of five.
+  - `at N years old`                ([Neutral] N歳で)               He learned to read at 4 years old.
+  - `at age N`                      ([Neutral] N歳で)               She graduated at age 16.
+- `back in`                         ([Casual] 〜頃に)               Back in 1995, computers were expensive.
+- `back when`                       ([Casual] 〜だった頃)           Back when I was young, things were different.
 
-## 時間帯
-- [ ] `at 9:00 am`                          (時に)
-- [ ] `at dawn`                             (夜明けに)
-- [ ] `at daybreak`                         (夜明けに)
-- [ ] `first thing`                         (一番に) I'll see you `first thing` in the morning. / Please get it to me `first thing`
-- [ ] `in the early morning`                (早朝に)
-- [ ] `in the morning`                      (午前中に)
-- [ ] `bright and early`                    (朝早くに) You can get your hands on the product `bright and early`.
-- [ ] `at noon`                             (正午に) I'll be back on Monday `at noon`.
-- [ ] `in the afternoon`                    (午後に)
-- [ ] `in the early evening`                (夕方に)
-- [ ] `in the evening`                      (夜に (夕方から夜))
-- [ ] `at night`                            (夜に (夜から夜中))
-- [ ] `last thing at night`                 (寝る直前に)
+## TIME OF DAY (AT / IN)
+> `at` /æt/                         ([Neutral] 〜に)                I'll see you at 9:00 AM.
+  - `at 9:00 AM`                    ([Neutral] 午前9時に)           The meeting starts at 9:00 AM.
+  - `at 6:00 PM`                    ([Neutral] 午後6時に)           Dinner is served at 6:00 PM.
+  - `at midnight`                   ([Neutral] 深夜に)              The party ends at midnight.
+  - `at noon`                       ([Neutral] 正午に)              I'll be back on Monday at noon.
+  - `at dawn`                       ([Neutral] 夜明けに)            We left at dawn.
+  - `at daybreak`                   ([Neutral] 夜明けに)            The birds sing at daybreak.
+  - `at dusk`                       ([Neutral] 夕暮れに)            The lights come on at dusk.
+  - `at sunset`                     ([Neutral] 日没時に)            We watched the sky at sunset.
+  - `at sunrise`                    ([Neutral] 日の出時に)          At sunrise, the mountains look beautiful.
+  - `at night`                      ([Neutral] 夜に)                It's dangerous to walk alone at night.
+  - `at nighttime`                  ([Neutral] 夜間に)              At nighttime, the city is quieter.
+> `in` /ɪn/                         ([Neutral] 〜に)                I exercise in the morning.
+  - `in the morning`                ([Neutral] 午前中に)            I drink coffee in the morning.
+  - `in the early morning`          ([Neutral] 早朝に)              I go jogging in the early morning.
+  - `in the afternoon`              ([Neutral] 午後に)              We have tea in the afternoon.
+  - `in the evening`                ([Neutral] 夕方から夜に)        In the evening, we watch TV.
+  - `in the early evening`          ([Neutral] 夕方に)              We eat dinner in the early evening.
+  - `in the late evening`           ([Neutral] 夜遅くに)            He comes home in the late evening.
+- `first thing`                     ([Casual] 一番に、真っ先に)     I'll see you first thing in the morning.
+- `first thing in the morning`      ([Casual] 朝一番に)             Call me first thing in the morning.
+- `last thing at night`             ([Casual] 夜寝る前に)           I check my emails last thing at night.
+- `bright and early`                ([Casual] 朝早くに)             You can get the product bright and early.
+- `early in the morning`            ([Neutral] 朝早くに)            Early in the morning, the air is fresh.
+- `late at night`                   ([Neutral] 夜遅くに)            He studies late at night.
+- `in the dead of night`            ([Writing] 真夜中に)            Strange sounds in the dead of night.
 
-## どの日に
-- [ ] `on (A) days`                         (な日に) I don't close this door `on hot days`.
-- [ ] `on (曜日) (時間帯)`                  (曜日 (の〜頃)に) I play tennis `on Sundays`. / `on Sunday morning` / `on a hot summer afternoon`
-- [ ] `on weekends`                         (週末に) I often go to the beach `on weekends`.
-- [ ] `over the weekend`                    (週末に) I finished reading a book `over the weekend`.
-- [ ] `last/next/this/on Sunday`            (の曜日に)
-- [ ] `last/next/this/on the weekend`       (の週末に)
+## DAY (ON / LAST ~ / NEXT ~ / THIS ~)
+> `on` /ɑːn/                        ([Neutral] 〜に)                I play tennis on Sundays.
+  - `on weekdays`                   ([Neutral] 平日に)              I work on weekdays.
+  - `on weekends`                   ([Neutral] 週末に)              I often go to the beach on weekends.
+  - `on Sundays`                    ([Neutral] 日曜日に)            On Sundays, we visit my parents.
+  - `on Sunday morning`             ([Neutral] 日曜日の朝に)        On Sunday morning, I go for a run.
+  - `on Sunday afternoon`           ([Neutral] 日曜日の午後に)      We have lunch on Sunday afternoon.
+  - `on Sunday evening`             ([Neutral] 日曜日の夜に)        On Sunday evening, we watch movies.
+  - `on hot days`                   ([Neutral] 暑い日に)            I don't close this door on hot days.
+  - `on cold days`                  ([Neutral] 寒い日に)            On cold days, I prefer staying inside.
+  - `on rainy days`                 ([Neutral] 雨の日に)            On rainy days, we stay indoors.
+  - `on special occasions`          ([Neutral] 特別な機会に)        We dress up on special occasions.
+  - `on holidays`                   ([Neutral] 休日に)              On holidays, the store is closed.
+- `last Sunday`                     ([Neutral] 先週の日曜日)        Last Sunday, we went hiking.
+- `last weekend`                    ([Neutral] 先週末)              Last weekend was very relaxing.
+- `next Sunday`                     ([Neutral] 来週の日曜日)        Next Sunday, we're having a barbecue.
+- `next weekend`                    ([Neutral] 来週末)              Next weekend, I'm visiting my family.
+- `this Sunday`                     ([Neutral] 今度の日曜日)        This Sunday, let's go to the museum.
+- `this weekend`                    ([Neutral] 今度の週末)          This weekend, we're going camping.
 
-## 期間
-- [ ] `for (N)s`                            (N 間) I've been working for the company `for 6 months`.
-- [ ] `tens of minutes`                     (数十分)
-- [ ] `the entire week`                     (丸一週間)
-- [ ] `throughout`                          (中ずっと) We plan to celebrate our victory `throughout` the night.
-- [ ] `around the clock`                    (四六時中) They are working `around the clock` looking into the cause of the crash.
-- [ ] `期間 + into X`                       (X に入って~~で) `Three minutes into the game`, Okazaki scored.
-- [ ] `on short notice`                     (急に) I’m sorry, I can’t make it `on such short notice`.
-- [ ] `amid O`                              (フォーマルな during)
-
-## ARRIVAL
-- `arrival` /əˈraɪvəl/              ([Neutral] 到着、到来)          The arrival of spring brings new hope.
-- `onset` /ˈɑːnset/                 ([Neutral] 開始、始まり)        The onset of winter was sudden.
-- `dawn` /dɔːn/                     ([Writing] 夜明け、始まり)      The dawn of a new era has begun.
-- `emergence` /ɪˈmɜːrdʒəns/         ([Formal] 出現、発生)           The emergence of new technology disrupted the market.
-- `advent` /ˈædvent/                ([Formal] 到来、出現)           The advent of the internet changed everything.
-- `genesis` /ˈdʒenəsɪs/             ([Formal] 起源、発生)           This marked the genesis of modern computing.
-
-- `preceding`                       ([Formal] 先行する)             The preceding chapter.
-- `prior to`                        ([Formal] 〜より前に)           Prior to the meeting.
-- `in advance`                      ([Neutral] 前もって)            Book your tickets in advance.
-- `beforehand`                      ([Neutral] 前もって)            Let me know beforehand.
-
-## 段階
-- ✅ `first` /fɜːrst/               ([Neutral] 最初の、第一の)      First, we need to analyze the requirements.
-  - `initial` /ɪˈnɪʃəl/             ([Neutral] 最初の、初期の)      The initial design needs some adjustments.
-  - `early` /ˈɜːrli/                ([Neutral] 早期の、初期の)      We're still in the early stages of development.
-  - `beginning` /bɪˈɡɪnɪŋ/          ([Neutral] 始まり、開始)        At the beginning of the project, we set clear goals.
-- ✅ `middle` /ˈmɪdəl/              ([Neutral] 中間の、真ん中の)    We're in the middle of testing phase.
-  - `intermediate` /ˌɪntərˈmiːdiət/ ([Neutral] 中間の、中級の)      We need an intermediate solution before the final one.
-- ✅ `final` /ˈfaɪnəl/              ([Neutral] 最終の、最後の)      This is the final version of the report.
-  - `end` /end/                     ([Neutral] 終わり、終了)        We're approaching the end of the quarter.
-  - `last` /læst/                   ([Neutral] 最後の、最終の)      This is our last chance to make changes.
-- ✅ `draft` /dræft/                ([Neutral] 下書き、草案)        Please review the draft proposal before Friday.
-    - `rough draft` /rʌf dræft/     ([Neutral] 粗い下書き)          This is just a rough draft of my presentation.
-  - ✅ `preliminary` /prɪˈlɪmɪnəri/ ([Formal] 予備の、暫定的な)     I've reviewed the preliminary specs for the project.
-  - `prototype` /ˈproʊtətaɪp/       ([Neutral] 試作品、原型)        We need to test the prototype before production.
-  - `pilot` /ˈpaɪlət/               ([Neutral] 試験的な パイロット) We're running a pilot program to test the new system.
-  - `beta` /ˈbeɪtə/                 ([Neutral] ベータ版、試用版)    The beta version is ready for testing.
-    - `alpha` /ˈælfə/               ([Neutral] アルファ版、初期版)  The alpha release has many bugs.
-  - ✅ `tentative` /ˈtentətɪv/      ([Formal] 暫定的な、仮の)       We have a tentative schedule for the launch.
-  - ✅ `provisional` /prəˈvɪʒənəl/  ([Formal] 暫定的な、仮の)       The provisional budget is subject to change.
-  - `interim` /ˈɪntərɪm/            ([Formal] 暫定の、中間の)       She served as interim manager during the transition.
-  - `temporary` /ˈtempəreri/        ([Neutral] 一時的な、臨時の)    This is just a temporary solution.
-  - `transitional` /trænˈzɪʃənəl/   ([Formal] 過渡的な、移行期の)   We're in a transitional period right now.
-  - `preparatory` /prɪˈpærətɔːri/   ([Formal] 準備の、予備の)       The preparatory work is almost complete.
-  - `introductory` /ˌɪntrəˈdʌktəri/ ([Neutral] 導入の、入門の)      This is an introductory meeting for new members.
-  - `mock-up` /ˈmɑːk ʌp/            ([Neutral] モックアップ、模型)  The designer created a mock-up of the new interface.
-  - `test` /test/                   ([Neutral] テスト、試験)        Let's run a test before the full launch.
-  - `trial` /ˈtraɪəl/               ([Neutral] 試験、試用)          We're starting a trial period next week.
-  - `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.
-
+## DURATION (FOR / THROUGHOUT / OVER / DURING)
+> `for` /fɔːr/                      ([Neutral] 〜間)                I've been working for the company for 6 months.
+  - `for hours`                     ([Neutral] 何時間も)            We waited for hours.
+  - `for days`                      ([Neutral] 何日も)              It rained for days.
+  - `for weeks`                     ([Neutral] 何週間も)            He's been gone for weeks.
+  - `for months`                    ([Neutral] 何ヶ月も)            They've been planning for months.
+  - `for years`                     ([Neutral] 何年も)              I've known him for years.
+  - `for ages`                      ([Casual] 長い間)               I haven't seen you for ages!
+  - `for a while`                   ([Neutral] しばらく)            Let's rest for a while.
+  - `for a long time`               ([Neutral] 長い間)              This has been going on for a long time.
+  - `for the time being`            ([Neutral] 当分の間)            For the time being, we'll use this solution.
+  - [ ] `for good`                            (永久にずっと) We're through `for good` this time.
+> `throughout` /θruˈaʊt/            ([Neutral] 〜中ずっと)          We plan to celebrate throughout the night.
+  - `all through`                   ([Neutral] 〜中ずっと)          It rained all through the night.
+  - `the entire time`               ([Neutral] 全期間)              He slept the entire time.
+  - `the whole time`                ([Casual] ずっと)               She was laughing the whole time.
+  - `the entire week`               ([Neutral] 丸一週間)            I worked the entire week.
+  - `all week long`                 ([Neutral] 一週間中)            It's been raining all week long.
+  - `all day long`                  ([Neutral] 一日中)              We've been walking all day long.
+> `over` /ˈoʊvər/                   ([Neutral] 〜にわたって)        Over the weekend, I finished reading a book.
+  - `over the weekend`              ([Neutral] 週末にかけて)        Over the weekend, we renovated the kitchen.
+  - `over the holidays`             ([Neutral] 休暇中に)            Over the holidays, we traveled to Europe.
+  - `over the summer`               ([Neutral] 夏の間)              Over the summer, she studied abroad.
+  - `over the winter`               ([Neutral] 冬の間)              Over the winter, the lake freezes.
+> `during` /ˈdʊrɪŋ/                 ([Neutral] 〜の間に)            During the meeting, he fell asleep.
+  - `in the course of`              ([Formal] 〜の過程で)           In the course of our research, we found...
+  - `over the course of`            ([Neutral] 〜の間に)            Over the course of a year, things changed.
+  - `in the span of`                ([Neutral] 〜の期間で)          In the span of a week, everything changed.
+- `tens of minutes`                 ([Neutral] 数十分)              It took tens of minutes to resolve.

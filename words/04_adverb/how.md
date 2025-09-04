@@ -28,3 +28,8 @@
 - `on and off`                      ([Neutral] 断続的に)            It's been raining on and off today.
 - `in and out`                      ([Neutral] 出たり入ったり)      People were going in and out all day.
 - `to and fro`                      ([Neutral] 行ったり来たり)      I have been traveling to and fro between Canada and the U.K for years.
+
+## ON AND OFF
+- `on and off` /ɑːn ænd ɔːf/        ([Neutral] 断続的に)            It's been raining on and off all day today.
+- `in a row` /ɪn ə roʊ/             ([Neutral] 連続で)              The rate has risen three quarters in a row.
+- `with each passing day/year`      ([Neutral] 日を追うごとに)      With each passing day, her skills improved.

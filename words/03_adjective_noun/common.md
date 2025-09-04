@@ -495,3 +495,94 @@
 - `anterior`                        ([Medical] 前部の)              The anterior part of the brain.
 - `fore`                            ([Nautical] 前部の)             The fore deck of the ship.
 - `foremost`                        ([Formal] 最前部の、主要な)     The foremost expert.
+
+## BREAK
+- `break` /breɪk/                   ([Neutral] 休憩、中断)          Let's take a break.
+- `pause` /pɔːz/                    ([Neutral] 一時停止、間)        There was a long pause in the conversation.
+- `rest` /rest/                     ([Neutral] 休息)                I need a rest from all this work.
+- `timeout` /ˈtaɪmaʊt/              ([Casual] タイムアウト、休憩)   Let's call a timeout.
+- `breather` /ˈbriːðər/             ([Casual] ひと息、小休止)       I need a breather.
+- `intermission` /ˌɪntərˈmɪʃən/     ([Neutral] 休憩、幕間)          There's a 15-minute intermission after act one.
+- `lull` /lʌl/                      ([Neutral] 小康状態、凪)        There was a lull in the conversation.
+- `interlude` /ˈɪntərluːd/          ([Writing] 幕間、合間)          It was a peaceful interlude in a busy day.
+- `respite` /ˈrespɪt/               ([Writing] 休息、一時的中断)    She found respite from her busy schedule.
+  - `respited` /ˈrespɪtɪd/          ([Writing] 猶予された)          The execution was respited for two weeks.
+- `reprieve` /rɪˈpriːv/             ([Writing] 猶予、一時的救済)    The storm gave us a brief reprieve.
+- `hiatus` /haɪˈeɪtəs/              ([Writing] 中断、空白期間)      The band took a two-year hiatus.
+- `recess` /rɪˈses/                 ([Neutral] 休憩時間、休会)      Court is in recess until Monday.
+- `interval` /ˈɪntərvəl/            ([Neutral] 間隔、休憩)          There's a short interval between acts.
+
+## OLD
+- `old` /oʊld/                      ([Neutral] 古い、年老いた)      This is an old building.
+- `ancient` /ˈeɪnʃənt/              ([Neutral] 古代の、太古の)      Ancient Rome was a great empire.
+- `outdated` /ˌaʊtˈdeɪtɪd/          ([Neutral] 時代遅れの)          The software is outdated.
+- `old-fashioned` /oʊld ˈfæʃənd/    ([Neutral] 古風な、旧式の)      She has old-fashioned values.
+- `vintage` /ˈvɪntɪdʒ/              ([Neutral] ヴィンテージの)      He drives a vintage car.
+- `classic` /ˈklæsɪk/               ([Neutral] 古典的な、定番の)    It's a classic design.
+- `traditional` /trəˈdɪʃənəl/       ([Neutral] 伝統的な)            They follow traditional customs.
+- `obsolete` /ˌɑːbsəˈliːt/          ([Neutral] 時代遅れの、廃れた)  This technology is now obsolete.
+  - `obsolescence` /ˌɑːbsəˈlesns/   ([Writing] 陳腐化、廃退)        Planned obsolescence drives sales.
+  - `obsolescent` /ˌɑːbsəˈlesnt/    ([Writing] 廃れつつある)        The obsolescent machinery needs replacing.
+- `antique` /ænˈtiːk/               ([Neutral] 骨董品、古風な)      She collects antique furniture.
+  - `antiquity` /ænˈtɪkwəti/        ([Writing] 古代、古さ)          The building dates from antiquity.
+- `outmoded` /ˌaʊtˈmoʊdɪd/          ([Neutral] 時代遅れの、流行遅れ) His views are completely outmoded.
+  - `outmode` /ˌaʊtˈmoʊd/           ([Writing] 時代遅れにする)      Technology quickly outmodes devices.
+- `antiquated` /ˈæntɪkweɪtɪd/       ([Formal] 時代遅れの、旧式の)   Their antiquated system needs updating.
+- `bygone` /ˈbaɪɡɔːn/               ([Writing] 過ぎ去った、昔の)    She remembered bygone days fondly.
+  - `bygones` /ˈbaɪɡɔːnz/           ([Writing] 過去の事)            Let bygones be bygones.
+- `archaic` /ɑːrˈkeɪɪk/             ([Writing] 古風な、時代遅れの)  The law contains archaic language.
+  - `archaism` /ˈɑːrkeɪɪzəm/        ([Writing] 古語、古風な表現)    The text is full of archaisms.
+- `defunct` /dɪˈfʌŋkt/              ([Formal] 廃止された、消滅した) The defunct company left many debts.
+
+
+- [ ] `at heart`                            ([Neutral] 本質的には／心の中では) He’s a kind person `at heart.`
+- [ ] `in a rage`                           ([Neutral] 激怒して) She stormed out of the room `in a rage.`
+- [ ] `in earnest`                          ([Formal] 本格的に／真剣に) They began the negotiations `in earnest` last week.
+- [ ] `to sb's heart's content`             ([Casual] 思う存分～する) You can eat `to your heart's content` at the buffet.
+- [ ] `at a discount`                       ([Neutral] 割引価格で) The shoes are available `at a discount` this weekend.
+- [ ] `on average`                          ([Neutral] 平均して) `On average,` people sleep about eight hours a night.
+
+
+## ARRIVAL
+- `arrival` /əˈraɪvəl/              ([Neutral] 到着、到来)          The arrival of spring brings new hope.
+- `onset` /ˈɑːnset/                 ([Neutral] 開始、始まり)        The onset of winter was sudden.
+- `dawn` /dɔːn/                     ([Writing] 夜明け、始まり)      The dawn of a new era has begun.
+- `emergence` /ɪˈmɜːrdʒəns/         ([Formal] 出現、発生)           The emergence of new technology disrupted the market.
+- `advent` /ˈædvent/                ([Formal] 到来、出現)           The advent of the internet changed everything.
+- `genesis` /ˈdʒenəsɪs/             ([Formal] 起源、発生)           This marked the genesis of modern computing.
+
+- `preceding`                       ([Formal] 先行する)             The preceding chapter.
+- `prior to`                        ([Formal] 〜より前に)           Prior to the meeting.
+- `in advance`                      ([Neutral] 前もって)            Book your tickets in advance.
+- `beforehand`                      ([Neutral] 前もって)            Let me know beforehand.
+
+## 段階
+- ✅ `first` /fɜːrst/               ([Neutral] 最初の、第一の)      First, we need to analyze the requirements.
+  - `initial` /ɪˈnɪʃəl/             ([Neutral] 最初の、初期の)      The initial design needs some adjustments.
+  - `early` /ˈɜːrli/                ([Neutral] 早期の、初期の)      We're still in the early stages of development.
+  - `beginning` /bɪˈɡɪnɪŋ/          ([Neutral] 始まり、開始)        At the beginning of the project, we set clear goals.
+- ✅ `middle` /ˈmɪdəl/              ([Neutral] 中間の、真ん中の)    We're in the middle of testing phase.
+  - `intermediate` /ˌɪntərˈmiːdiət/ ([Neutral] 中間の、中級の)      We need an intermediate solution before the final one.
+- ✅ `final` /ˈfaɪnəl/              ([Neutral] 最終の、最後の)      This is the final version of the report.
+  - `end` /end/                     ([Neutral] 終わり、終了)        We're approaching the end of the quarter.
+  - `last` /læst/                   ([Neutral] 最後の、最終の)      This is our last chance to make changes.
+- ✅ `draft` /dræft/                ([Neutral] 下書き、草案)        Please review the draft proposal before Friday.
+    - `rough draft` /rʌf dræft/     ([Neutral] 粗い下書き)          This is just a rough draft of my presentation.
+  - ✅ `preliminary` /prɪˈlɪmɪnəri/ ([Formal] 予備の、暫定的な)     I've reviewed the preliminary specs for the project.
+  - `prototype` /ˈproʊtətaɪp/       ([Neutral] 試作品、原型)        We need to test the prototype before production.
+  - `pilot` /ˈpaɪlət/               ([Neutral] 試験的な パイロット) We're running a pilot program to test the new system.
+  - `beta` /ˈbeɪtə/                 ([Neutral] ベータ版、試用版)    The beta version is ready for testing.
+    - `alpha` /ˈælfə/               ([Neutral] アルファ版、初期版)  The alpha release has many bugs.
+  - ✅ `tentative` /ˈtentətɪv/      ([Formal] 暫定的な、仮の)       We have a tentative schedule for the launch.
+  - ✅ `provisional` /prəˈvɪʒənəl/  ([Formal] 暫定的な、仮の)       The provisional budget is subject to change.
+  - `interim` /ˈɪntərɪm/            ([Formal] 暫定の、中間の)       She served as interim manager during the transition.
+  - `temporary` /ˈtempəreri/        ([Neutral] 一時的な、臨時の)    This is just a temporary solution.
+  - `transitional` /trænˈzɪʃənəl/   ([Formal] 過渡的な、移行期の)   We're in a transitional period right now.
+  - `preparatory` /prɪˈpærətɔːri/   ([Formal] 準備の、予備の)       The preparatory work is almost complete.
+  - `introductory` /ˌɪntrəˈdʌktəri/ ([Neutral] 導入の、入門の)      This is an introductory meeting for new members.
+  - `mock-up` /ˈmɑːk ʌp/            ([Neutral] モックアップ、模型)  The designer created a mock-up of the new interface.
+  - `test` /test/                   ([Neutral] テスト、試験)        Let's run a test before the full launch.
+  - `trial` /ˈtraɪəl/               ([Neutral] 試験、試用)          We're starting a trial period next week.
+  - `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.
+
+- [ ] `once in a blue moon`                 (めったにない)
