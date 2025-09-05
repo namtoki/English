@@ -24,6 +24,9 @@
 - `haunt` /hɔːnt/                   ([Neutral] つきまとう)          The memory haunts me still.
 - `persist` /pərˈsɪst/              ([Neutral] しつこく悩ませる)    The problem persists despite efforts.
 - `nag` /næɡ/                       ([Casual] しつこく悩ませる)     Self-doubt nagged at her constantly.
+- `tangle` /ˈtæŋɡəl/                ([Neutral] もつれさせる、争う)    Don't tangle with that gang.
+  - `tangled` /ˈtæŋɡəld/             ([Neutral] もつれた、複雑な)      Her hair was tangled after swimming.
+- `snarl` /snɑːrl/                   ([Neutral] もつれ、うなる)        Traffic is in a snarl downtown.
 
 ## ANNOY
 - `vex` /veks/                       ([Writing] いらだたせる)          The problem vexed the scientists.

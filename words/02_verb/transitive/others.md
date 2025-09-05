@@ -61,6 +61,8 @@
 - `motivate` /ˈmoʊtəveɪt/           ([Neutral] 動機付ける)          Money motivates some people.
 - `energize` /ˈenərdʒaɪz/           ([Neutral] 活力を与える)        The music energized the crowd.
 - `galvanize` /ˈɡælvənaɪz/          ([Formal] 活気づける 奮起させ)  The crisis galvanized the nation.
+- `entangle` /ɪnˈtæŋɡəl/            ([Neutral] からませる)            Don't entangle yourself in that wire.
+- `twist` /twɪst/                   ([Neutral] ひねる、曲げる)        Twist the cap to open the bottle.
 
 ## EXPAND
 - `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
@@ -402,4 +404,10 @@
 - `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
   - `therapeutic` /ˌθerəˈpjuːtɪk/   ([Medical] 治療的な)            The therapeutic effect was significant.
 - `remedy` /ˈremədi/                ([Neutral] 治療法、救済策)      Home remedies can be effective.
+
+## SATISFY
+- `satisfy` /ˈsætɪsfaɪ/            ([Neutral] 満足させる)          This answer will satisfy your question.
+- `meet` /miːt/                    ([Neutral] 満たす、応える)      This product meets our requirements.
+- `fulfill` /fʊlˈfɪl/               ([Formal] 満たす、成就する)     We need to fulfill our obligations.
+- `serve` /sɜːrv/                  ([Neutral] 仕える、役に立つ)    This tool will serve our purpose.
 

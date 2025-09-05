@@ -460,6 +460,16 @@
   - `falsifiable` /ˌfɔːlsɪˈfaɪəbəl/ ([Writing] 反証可能な)          Scientific theories must be falsifiable.
 
 ## OTHER
+- `thigh` /θaɪ/                      ([Neutral] 太もも)              I hurt my thigh during the workout.
+  - `thighs` /θaɪz/                  ([Neutral] 太ももたち)          My thighs are sore from yesterday's run.
+- `calf` /kæf/                       ([Neutral] ふくらはぎ)          My calf muscles are tight.
+- `shin` /ʃɪn/                       ([Neutral] すね)                I bumped my shin on the table.
+- `knee` /niː/                       ([Neutral] 膝)                  I scraped my knee when I fell.
+- `ankle` /ˈæŋkəl/                   ([Neutral] 足首)                I twisted my ankle while running.
+- `hamstring` /ˈhæmstrɪŋ/           ([Neutral] ハムストリング)      He pulled his hamstring during the game.
+- `knot` /nɒt/                       ([Neutral] 結び目、もつれ)        I tied a knot in the rope.
+- `mess` /mes/                       ([Neutral] 散らかし、混乱)        What a mess you've made!
+- `tangles` /ˈtæŋɡəlz/               ([Neutral] もつれ、争い)          She brushed out the tangles in her hair.
 - `diaspora` /daɪˈæspərə/            ([Writing] 離散)          The Jewish diaspora spans many countries.
 - `hegira` /hɪˈdʒaɪrə/               ([Writing] 聖遷)          Muhammad's hegira marked the Islamic calendar.
 - `exodus` /ˈeksədəs/                ([Neutral] 大移住)         There was an exodus from the city during the pandemic.
@@ -586,3 +596,22 @@
   - `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.
 
 - [ ] `once in a blue moon`                 (めったにない)
+
+## SUFFICIENT
+- `sufficient` /səˈfɪʃənt/          ([Neutral] 十分な)              We have sufficient funds for the project.
+  - `insufficient` /ˌɪnsəˈfɪʃənt/   ([Neutral] 不十分な)            The evidence is insufficient.
+- `sufficiency` /səˈfɪʃənsi/        ([Writing] 十分さ)              They reached sufficiency in resources.
+  - `insufficiency` /ˌɪnsəˈfɪʃənsi/ ([Writing] 不足)                The insufficiency was evident.
+- `adequate` /ˈædɪkwət/             ([Neutral] 適切な)              The response was adequate.
+  - `inadequate` /ɪnˈædɪkwət/       ([Neutral] 不適切な)            The budget is inadequate.
+
+## ADVERSARY
+- `adversary` /ˈædvərseri/          ([Formal] 敵、対戦相手)          He faced a formidable adversary in court.
+  - `adversarial` /ˌædvərˈseriəl/   ([Formal] 対立的な)              The negotiation became adversarial.
+- `adverse` /ædˈvɜrs/               ([Formal] 不利な、有害な)        Adverse weather delayed the flight.
+  - `adversely` /ædˈvɜrsli/         ([Formal] 不利に、悪影響で)      The economy was adversely affected.
+- `opponent` /əˈpoʊnənt/            ([Neutral] 相手、反対者)          She defeated her opponent easily.
+- `rival` /ˈraɪvəl/                 ([Neutral] 競争相手、ライバル)    The two companies are rivals.
+- `enemy` /ˈenəmi/                  ([Neutral] 敵)                  He made many enemies in politics.
+- `foe` /foʊ/                       ([Writing] 敵、仇敵)            The knight faced his mortal foe.
+- `nemesis` /ˈneməsɪs/              ([Writing] 宿敵、因縁の相手)      Superman's nemesis is Lex Luthor.

@@ -454,3 +454,6 @@
   - `descend` /dɪˈsend/             ([Neutral] 下降する)            Descend the stairs.
   - `descending` /dɪˈsendɪŋ/        ([Neutral] 下降する)            In descending order.
 
+## SUFFICE
+- `suffice` /səˈfaɪs/               ([Writing] 十分である)          A phone call will suffice.
+
