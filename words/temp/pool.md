@@ -3352,42 +3352,27 @@ monk	7	【名】修道士、修士
 monologue	9	【名】独白、ひとり芝居		
 monopolize	9	【動】独占する		
 monopoly	6	【名】独占		
-monotone	10	【形】単調な、一本調子の 【名】単調な話し方・音、音痴		
-monotonous	7	【形】単調な		
 monotony	9	【名】単調さ、変化のなさ		
 monstrous	7	【形】奇怪な、恐ろしい、巨大な		
 monumental	10	【形】記念碑的な、途方もなく大きい		
 moody	8	【形】不機嫌な、ふさぎこむ、気まぐれな		
-moonlight	3	【名】月光 【形】月光の 【動】（夜間の）アルバイトをする		
 moor	9	【名】荒れ地、湿原地 【動】停泊させる		
 moot	12	【形】議論の余地がある、純粋に学問的な 【動】討議する		
-mop	8	【名】モップ 【動】モップでふく、ぬぐう		
-morale	9	【名】士気、元気、風紀		
-morality	6	【名】道徳性		
-moratorium	10	【名】モラトリアム、支払猶予、一時停止		
 morbid	11	【形】病的な、病気の、恐ろしい		
 moribund	11	【形】停滞している、消滅寸前の		
 morose	12	【形】不機嫌な、むっつりした		
 mortal	6	【形】死を免れない、臨終の 【名】死すべき者		
 mortality	7	【名】死亡、死すべき運命、死を免れないこと		
 mortar	10	【名】モルタル、しっくい		
-mortgage	7	【名】抵当、住宅ローン、融資		
 mortify	11	【動】屈辱を与える、禁欲する		
 mortuary	12	【形】埋葬の 【名】葬儀場、霊安室		
 mosaic	9	【名】寄せ木細工 【形】モザイクの、寄せ集めの		
-mosque	10	【名】モスク、イスラム教寺院		
 moss	5	【名】コケ 【動】コケで覆う		
-motel	10	【名】モーテル		
 moth	8	【名】蛾、しみ、（衣食の）虫食い		
 motherhood	9	【名】母であること、母性		
 motif	9	【名】モチーフ、動機、テーマ		
 motionless	7	【形】動かない、じっとしている		
-motive	5	【名】動機、主題		
 motley	11	【形】雑多な要素からなる 【名】まだら、寄せ集め		
-motorbike	5	【名】オートバイ		
-motorist	8	【名】車を乗り回す人		
-motorway	6	【名】高速道路、自動車道路		
-motto	8	【名】モットー、座右の銘、標語、題辞		
 mound	8	【名】塚、古墳、小山 【動】土塁を築く、盛り上げる		
 mountaineer	10	【名】山地の住人、登山者 【動】登山する		
 mountaineering	9	【名】登山		
@@ -3396,21 +3381,15 @@ mourn	5	【動】嘆く、悲しむ
 mournful	9	【形】悲しげな、死者を悼む、陰気な		
 mouthful	6	【名】口いっぱい、少量		
 movable	8	【形】動かせる、移動できる、年によって日が変わる		
-mover	7	【名】引っ越し業者、動くもの		
 mow	8	【動】刈り取る、手当たり次第になぎたおす		
 muck	12	【名】泥、こやし 【動】肥料をやる、汚す		
 muddle	10	【名】混乱状態		
-muffin	9	【名】マフィン		
 muffle	12	【動】防音のために覆う、顔や首をくるむ 【名】覆い		
 mug	6	【名】マグカップ、顔 【動】襲う、大げさな表情をする		
 mule	11	【名】ラバ、頑固者		
 mull	11	【動】熟考する、台なしにする 【名】めちゃくちゃ		
-multicultural	10	【形】多文化の、多文化的な		
-multimedia	6	【形】マルチメディアの 【名】マルチメディア		
 multinational	9	【形】多国籍の 【名】多国籍企業		
-multiple	5	【形】多数から成る、多角的な、複合的な		
 multiplication	8	【名】増加、増大、増量、増殖、乗法		
-multitude	6	【名】多数、数の多さ		
 mum	8	【形】黙っている 【間】シッ 【動】パントマイムを演じる		
 mummy	5	【名】ミイラ、ひからびたもの		
 mumps	12	【名】おたふく風邪		
@@ -3419,18 +3398,15 @@ mundane	10	【形】現世の、平凡な
 municipal	7	【形】地方自治体の、市政の		
 municipality	12	【名】地方自治体		
 mural	11	【名】壁画 【形】壁面の		
-murderer	6	【名】殺人者		
 murky	11	【形】まっ暗な、どんよりした、あいまいな		
 muscular	9	【形】たくましい、筋肉の発達した、力強い		
 muse	7	【動】熟考する、思いにふける		
-mustache	7	【名】口ひげ		
 muster	10	【動】集合させる、奮い起こす		
 mutant	11	【形】突然変異による 【名】突然変異体		
 mutation	7	【名】突然変異、変化、盛衰		
 mute	7	【形】沈黙した 【動】消す、弱める		
 mutilate	12	【動】損傷により損なう、手足を切断する		
 mutter	6	【動】不明瞭な声で言う、ぼそぼそ文句を言う		
-mutton	6	【名】ヒツジの肉		
 mutually	8	【副】互いに、相互に、共通に		
 muzzle	12	【名】動物の口輪、銃口 【動】口輪をはめる		
 myriad	9	【形】無数の 【名】無数		
@@ -3444,79 +3420,43 @@ nap	4	【名】昼寝 【動】うたた寝する、まどろむ
 narcissus	12	【名】スイセン（複 narcissi）、（ギリシャ神話）ナルキッソス		
 narcotic	10	【名】麻薬 【形】眠くなるような		
 narrate	11	【動】順序だてて述べる、ナレーションをする		
-narration	6	【名】ナレーション、叙述		
 narrative	6	【名】物語 【形】物語から成る		
-narrator	8	【名】語り手、ナレーター		
 narrowly	8	【副】かろうじて、間一髪で、偏狭に、綿密に、心狭く		
 nasal	11	【形】鼻の、鼻にかかった 【名】鼻音		
-nationalism	7	【名】国家主義、国民意識、愛国心、民族主義		
-nationalist	6	【名】国家主義者 【形】国家主義の		
-nationalistic	8	【形】国家主義的な		
-nationalize	7	【動】国営化する、全国的にする		
-nationwide	8	【形】全国的な 【副】全国的に		
-naturalist	10	【名】博物学者、自然主義者、動・植物学者		
 naught	12	【名】無、ゼロ 【形】滅びた		
 naughty	6	【形】いたずらな、言うことを聞かない		
 naval	6	【形】海軍の		
 nave	12	【名】身廊		
 navel	9	【名】へそ		
-navigate	7	【動】航海する、操縦する		
-navigation	6	【名】航海、飛行、走行指示		
-navigator	7	【名】航海士、操縦者、ナビゲーター		
-neatly	6	【副】きちんと、小ざっぱりと		
 necessitate	10	【動】必要とする、強いて～させる		
-necktie	5	【名】ネクタイ、タイ		
-needless	5	【形】不必要な		
 needy	6	【形】貧窮の		
 neglectful	10	【形】怠慢な、ずぼらな、不注意な		
 negligence	7	【名】怠慢、不注意		
 negligent	8	【形】怠慢な、不注意な、無関心な、飾らない、自然な		
 negligible	8	【形】無視してよい、取るに足らない		
 negotiable	9	【形】交渉の余地がある、譲渡できる		
-neon	10	【名】ネオン 【形】けばけばしい都会の		
 nettle	12	【動】イライラさせる 【名】イラクサ、イライラさせること		
-neural	11	【形】神経の		
-neuron	11	【名】ニューロン、神経単位		
 neurosis	12	【名】神経症、ノイローゼ		
 neurotic	10	【形】神経症の 【名】神経症患者		
 neutrality	9	【名】中立（状態）		
 neutralize	9	【動】中和する、無効にする		
-neutron	10	【名】ニュートロン、中性子		
-newcomer	6	【名】新来者、初心者		
-newsagent	10	【名】新聞販売業者（= newsdealer）		
-newscaster	5	【名】ニュースキャスター		
-newsletter	6	【名】時事通信、会報		
 nibble	11	【動】少しずつかじる、ちびちび飲む 【名】ひとかじり		
 nicely	5	【副】うまく、申し分なく、入念に		
 niche	10	【名】適した地位、市場のすき間		
 nick	9	【名】刻み目、切り傷、欠けたところ 【動】刻み目をつける		
-nickel	5	【名】5セント白銅貨、ニッケル		
-nightclub	6	【名】ナイトクラブ		
-nightdress	9	【名】寝間着		
 nightfall	8	【名】日暮れ、夕暮れ		
-nightgown	5	【名】ナイトガウン		
-nightly	8	【副】夜に 【形】夜独特の、毎夜の、夜起こる		
-nightmare	5	【名】悪夢		
-nil	12	【名】無 【形】無価値の、皆無の		
 nimble	11	【形】動きの速い、機転のきく		
 nip	9	【動】つまむ、はさみきる、はばむ 【名】はさむこと、厳しい寒さ		
-nipple	11	【名】乳首、（ほ乳瓶の吸い口、おしゃぶりなどの）乳首状のもの		
 nitrate	12	【名】硝酸塩 【動】硝酸で処理する		
 nitrogen	11	【名】窒素		
 nobleman	10	【名】貴族、高貴な生まれの人		
 nocturnal	12	【形】夜行性の、夜の		
 node	12	【名】皮膚の腫れ、こぶ、中心点、（曲線・面の）結節点		
 noisily	6	【副】騒々しく		
-nomad	12	【名】遊牧の民、放浪者		
-nomadic	10	【形】遊牧民の、放浪の		
 nominal	11	【形】ほんのわずかの、名目上の、予定通りの		
-nominate	7	【動】推薦する、指名する		
-nomination	6	【名】指名・推薦すること、任命		
-nominee	10	【名】推薦された者、受取人		
 nonchalant	12	【形】平然とした、無頓着な、無関心な		
 nondescript	12	【形】目立たない、特徴のない 【名】特徴のないもの		
 nonetheless	6	【副】それにもかかわらず		
-nonstop	5	【副】途中で止まらない 【形】ノンストップの		
 nook	12	【名】部屋の隅、人目につかない所		
 noonday	10	【名】真昼、正午 【形】真昼の		
 norm	9	【名】標準、模範、典型、平均		
@@ -3524,24 +3464,14 @@ nostril	12	【名】鼻孔、小鼻
 notch	10	【動】刻み目をつける 【名】段階、V字型の切り込み		
 noteworthy	9	【形】注目に値する、目立つ、著しい		
 noticeable	5	【形】人目を引く、目立つ		
-notional	9	【形】概念の、抽象的な、非現実的な		
-notorious	9	【形】悪名高い、名うての		
-noun	5	【名】名詞		
 nourish	7	【動】～に栄養分を与える、心に抱く、助長する		
 nourishment	8	【名】食物、栄養、養育		
-novelist	5	【名】小説家		
 novelty	8	【名】目新しさ、斬新さ、目先の変わったこと		
 novice	8	【名】未熟者、新参者		
 noxious	12	【形】有毒な、有害な、不快な		
-nuance	10	【名】微妙な差異、ニュアンス		
 nucleus	9	【名】中心部分、核心、原子核		
-nude	5	【形】裸の、むきだしの、ヌードの 【名】ヌード		
 nudge	11	【動】軽く押す、ひじでそっと突く 【名】軽いひと突き		
 nudity	9	【名】裸、赤裸々、むき出し		
-null	11	【形】無価値の、存在しない、特徴のない		
-numeral	10	【名】数詞、数字 【形】数の		
-numerical	5	【形】数字上の		
-numerous	5	【形】非常に多い		
 nun	6	【名】尼、修道女		
 nuptial	11	【形】結婚の 【名】結婚式（～s）		
 nursery	5	【名】保育園、託児所		
@@ -3550,17 +3480,12 @@ nutrient	6	【名】栄養物 【形】栄養を含む、滋養になる
 nutrition	6	【名】栄養分、食物、栄養学		
 nutritious	7	【形】栄養になる、滋養の多い		
 nutty	11	【形】風変わりな、ばかげた、内容の充実した、木の実の味の		
-nylon	5	【名】ナイロン		
-nymph	10	【名】精霊、乙女、幼虫		
 oath	7	【名】誓約、断言		
-oatmeal	10	【名】オートミール		
 obedient	7	【形】従順な		
 obese	8	【形】太りすぎの		
 obituary	12	【名】死亡記事 【形】死の		
 objection	6	【名】異議、難点		
 objectionable	10	【形】異議のある、いかがわしい		
-objective	5	【名】目標 【形】客観的な、目的の		
-objectivity	9	【名】客観性、客観的であること		
 obligatory	9	【形】必須の、義務的な		
 oblige	5	【動】強いる、感謝している		
 oblique	12	【形】あやふやな、傾いた、不正な 【動】斜めになる		
@@ -3571,39 +3496,24 @@ obnoxious	11	【形】とても不快な、醜悪な
 obscene	8	【形】わいせつな、嫌な、不愉快な		
 obscenity	11	【名】わいせつ（なもの）		
 obscurity	8	【名】無名の人、不明なもの、あいまいな状態		
-observance	8	【名】従うこと、守ること、祝賀、式典		
-observant	10	【形】よく見ている、知覚力の鋭い、機敏な 【名】厳守する人		
 observatory	9	【名】天文台、観測所		
-observer	5	【名】観察者、監視者		
-obstacle	6	【名】障害、妨害		
 obstetrician	12	【名】産科医		
 obstinate	7	【形】頑固な、意固地な、執拗な		
-obtain	4	【動】獲得する、広く行われている		
 obtrusive	12	【形】ひどく目立つ、押しつけがましい		
 occidental	9	【形】西洋（人）の、西洋風の 【名】西洋人		
-occult	10	【形】神秘的な 【名】オカルト		
-occupant	9	【名】占有者、居住者		
 occupational	8	【形】職業の、職業的な、占領の		
 oddity	9	【名】異常なもの、風変わりな人、奇異な出来事		
 oddly	7	【副】奇妙に、妙に、余分に		
 ode	12	【名】オード、頌歌（しょうか）		
 odor	6	【名】臭気、評判		
-offender	6	【名】違反者、反則者		
 offering	5	【名】提供、ささげもの		
-officially	5	【副】公式に、職務上、本格的に		
-offset	8	【動】埋め合わせる、相殺する		
-offshore	6	【副】沖で、沖に 【形】沖に向かう、（買い付けなどが）海外での、オフショアの		
 ointment	12	【名】軟膏		
 omen	11	【名】前兆、予知		
 ominous	11	【形】不吉な、前ぶれの		
-omission	7	【名】脱落、省略、怠慢		
-omit	5	【動】除く、～し落とす		
 omnipotent	12	【形】全能の 【名】全能者、全能の神（the O_)		
 omniscient	12	【形】全知の、博識な 【名】博識者、神（the O_)		
 omnivorous	12	【形】雑食性の、何でも食べる		
 oneness	12	【名】一体感、単一性、一致		
-oneself	7	【代】自分自身		
-ongoing	8	【形】継続している、進行中の		
 onlooker	12	【名】見物人、傍観者		
 onslaught	11	【名】猛襲、猛攻撃		
 onus	12	【名】責任、負担		
@@ -3619,10 +3529,7 @@ oppression	7	【名】圧政、抑圧、圧迫
 oppressive	8	【形】圧制的な、不当に厳しい、度が過ぎる		
 opus	11	【名】音楽作品、作品番号、著作		
 oracle	11	【名】神のお告げ、助言を与える人		
-oral	5	【形】口頭の		
 orator	12	【名】演説者、雄弁家		
-orbit	6	【名】軌道、活動範囲 【動】周囲を軌道を描いて回る		
-orchard	6	【名】果樹園		
 orchestrate	10	【動】組織する、まとめ上げる		
 orchid	12	【名】ラン		
 ordain	10	【動】任命する、定める、運命づける、規定する		
@@ -3635,15 +3542,11 @@ organic	5	【形】有機の、有機体の、臓器の
 organism	5	【名】有機体、生命体		
 organist	5	【名】オルガン奏者		
 organizational	8	【形】組織に関する、組織的な、構成する		
-organizer	9	【名】主催者、組織者、整理する道具		
 orgy	11	【名】乱痴気騒ぎ、～にふけること		
-orient	6	【名】東洋、アジア諸国 【動】適応させる、正しい位置に置く		
-oriental	5	【形】東洋の、東洋人の		
 orientation	5	【名】方位測定、位置確認、入門指導、方向性、志向		
 ornamental	9	【形】装飾用の 【名】装飾物		
 ornate	10	【形】どぎつく飾りたてた、極度に修辞的な		
 orphan	6	【名】孤児 【形】親のない、孤児の		
-orthodox	6	【形】正統な 【名】正統派の人		
 orthodoxy	10	【名】正統性、正説		
 oscillate	12	【動】振り子のように振れる、動揺する		
 ostensible	12	【形】明らかな、表向きの		
@@ -3675,14 +3578,12 @@ ovary	12	【名】卵巣
 ovation	11	【名】大喝さい、熱烈な歓迎		
 overbearing	12	【形】高圧的な、圧倒的な		
 overblown	11	【形】大げさな、度が過ぎた、盛りを過ぎた		
-overbook	8	【動】オーバーブッキングをする、定員以上の予約を取る		
 overcome	4	【動】～に打ち勝つ、圧倒する、ぐったりさせる		
 overcrowd	10	【動】詰め込みすぎる、混雑させる		
 overdo	8	【動】やりすぎる、誇張する、へとへとに疲れる		
 overdose	11	【名】薬や麻薬の過剰摂取 【動】薬を飲みすぎる		
 overdue	9	【形】期日を過ぎた、機が熟しきっている、過度の		
 overestimate	9	【動】多く見積もりすぎる、過大評価する 【名】過大評価		
-overflow	5	【動】はんらんする、あふれ出る 【名】はんらん、流出		
 overgrown	10	【形】茂りすぎた、大きくなりすぎた、ひょろ長い		
 overhaul	10	【動】徹底的に点検する 【名】点検整備、オーバーホール		
 overhear	10	【動】ふと耳にする、立ち聞きする		
@@ -3690,7 +3591,6 @@ overlap	8	【動】重なる、一部を覆う、部分的に一致する 【名
 overload	10	【動】荷を積みすぎる、負荷をかけすぎる 【名】積みすぎ、過負荷		
 overly	11	【副】過度に、あまりにも		
 overpay	10	【動】余分に払う		
-overpopulation	10	【名】人口過剰		
 overpower	8	【動】征服する、圧倒する、過度の力を加える		
 overrate	12	【動】過大に評価する		
 overrun	10	【動】群がる、圧倒する、急速に広まる、走り越す、オーバーランする		
@@ -3709,7 +3609,6 @@ overview	7	【名】概観
 overweight	6	【形】重量超過の 【動】荷を積みすぎる 【名】過重量		
 ownership	6	【名】所有権、所有		
 oxide	12	【名】酸化物		
-ozone	8	【名】オゾン、新鮮な空気		
 pacifist	10	【名】平和主義者、無抵抗主義者 【形】平和主義の		
 packaging	5	【名】包装、荷造り、箱		
 packed	9	【形】人でいっぱいの、荷造りした		
