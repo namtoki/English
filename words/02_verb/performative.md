@@ -210,3 +210,72 @@
   - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
   - `make arrangements`             ([Neutral] 手配する)            I'll make arrangements for the trip.
   - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
+
+## BE ENOUGH / BE FINE / WILL DO
+> `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
+  > `be fine` /bi faɪn/             ([Neutral] 大丈夫である)        That will be fine for me.
+  - `that'll be fine`               ([Casual] それで大丈夫)         Any time will be fine.
+  > `will do` /wɪl duː/             ([Casual] 間に合う、十分だ)     This will do for now.
+  - `that'll do` /ðætəl duː/        ([Casual] それで十分)           That'll do, thanks.
+  - `do the trick` /duː ðə trɪk/    ([Casual] うまくいく、十分)     This should do the trick.
+  - `be sufficient` /bi səˈfɪʃənt/  ([Formal] 十分である)           The budget should be sufficient.
+  - `suffice` /səˈfaɪs/             ([Writing] 十分である)          A phone call will suffice.
+  - `be adequate` /bi ˈædɪkwət/     ([Neutral] 適切である)          The response was adequate.
+  - `meet the need` /miːt ðə niːd/  ([Neutral] ニーズを満たす)      This solution meets the need.
+  - `cover it` /ˈkʌvər ɪt/          ([Casual] カバーする、足りる)   Twenty dollars should cover it.
+  - `serve the purpose`             ([Neutral] 目的を果たす)        This tool serves the purpose.
+
+## 従う
+- ✅ `follow` /ˈfɑːloʊ/             ([Neutral] 従う、続く)          Please follow the instructions.
+  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
+  - ✅ `go along with`              ([Casual] 同調する、従う)       I'll go along with the plan.
+  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
+  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
+    - `adherence` /ædˈhɪrəns/       ([Formal] 遵守、忠実)           Adherence to policy is required.
+  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
+    - `obedience` /oʊˈbiːdiəns/     ([Formal] 服従、遵守)           Obedience to rules ensures safety.
+    - `obedient` /oʊˈbiːdiənt/      ([Neutral] 従順な、素直な)      She's an obedient employee.
+  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
+    - `conformance` /kənˈfɔːrməns/  ([Formal] 適合、遵守)           Conformance testing is complete.
+    - `conformity` /kənˈfɔːrmɪti/   ([Formal] 適合性、遵守)         Conformity with regulations is essential.
+  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
+  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
+    - `observance` /əbˈzɜːrvəns/    ([Formal] 遵守、守ること)       Observance of protocols is critical.
+  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
+  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
+  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
+  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
+    - `deference` /ˈdefərəns/       ([Formal] 敬意、尊重)           He showed deference to his superior.
+  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
+    - `submission` /səbˈmɪʃən/      ([Formal] 服従、提出)           Submission to authority is expected.
+  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
+  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
+  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
+  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
+
+## OBSTRUCT
+> `be in the way`                   ([Neutral] 邪魔になる)          Your bag is in the way.
+  - `get in the way`                ([Neutral] 邪魔をする)          Don't let fear get in the way.
+  - `stand in the way`              ([Neutral] 邪魔になる、阻む)    Nothing can stand in our way.
+
+## RESIGN
+- `resign` /rɪˈzaɪn/                ([Neutral] 辞任する)            She resigned from her position.
+- `step down` /step daʊn/           ([Neutral] 退く)                The CEO will step down next month.
+- `renounce` /rɪˈnaʊns/             ([Formal] 放棄する)             He renounced his claim to the throne.
+- `relinquish` /rɪˈlɪŋkwɪʃ/         ([Formal] 手放す)               She relinquished control of the company.
+- `abdicate` /ˈæbdɪkeɪt/            ([Formal] 退位する)             The king abdicated the throne.
+- `cede` /siːd/                     ([Formal] 譲渡する)             They ceded territory to the enemy.
+
+## CUT CORNERS / SLACK OFF
+> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+> `slack off` /slæk ɔːf/            ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+- `rush through` /rʌʃ θruː/         ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
+- `be careless` /biː ˈkɛrləs/       ([Neutral] 不注意である)        Don't be careless with important documents.
+- `take shortcuts`                  ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
+- `half-hearted` /ˌhæf ˈhɑːrtəd/    ([Neutral] やる気のない)        His effort was half-hearted.
+- `do the bare minimum`             ([Neutral] 最低限しかしない)    She does the bare minimum required.
+- `go through the motions`          ([Neutral] 形だけやる)          He's just going through the motions.
+- `skimp on` /skɪmp ɑːn/            ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+- `phone it in`                     ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
