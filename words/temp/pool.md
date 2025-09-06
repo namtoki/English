@@ -80,7 +80,6 @@ ail	12	【動】患わせる、悩ます、弊害となる
 ailing	11	【形】（企業などが）不調の、病んでいる		
 airborne	11	【形】空気で運ばれる、飛行中の		
 airfare	9	【名】航空運賃		
-airliner	6	【名】定期旅客機		
 airtight	12	【形】すきのない、空気を通さない		
 akin	9	【形】同種の、同族の		
 alas	10	【間】（悲しみ、悲痛を表して）ああ		
@@ -97,7 +96,6 @@ allegiance	10	【名】忠誠
 allegory	12	【名】たとえ話		
 alley	6	【名】裏通り		
 alloy	10	【名】合金、混ざりもの 【動】混ぜる		
-almighty	6	【形】全能の、無限の力をもった、ひどい		
 aloof	9	【副】離れて、超然として 【形】打ち解けない		
 alpine	9	【形】高山の、非常に高い、アルプスの 【名】高山植物		
 altar	7	【名】祭壇		
@@ -148,7 +146,6 @@ anthropologist	10	【名】人類学者
 anthropology	7	【名】人類学、人間学		
 antibody	8	【名】抗毒素、抗体		
 antic	12	【名】ふざけたしぐさ、滑稽な態度		
-anticipation	6	【名】予想、期待		
 antidote	11	【名】解毒剤、対抗手段		
 antigen	12	【名】抗原、抗原性薬剤		
 antipathy	11	【名】反感、嫌悪		
@@ -239,13 +236,10 @@ astern	12	【副】後方に
 asteroid	11	【名】小惑星、ヒトデ 【形】星状の		
 asthma	10	【名】喘息		
 astray	9	【副】道に迷って、道を踏みはずして 【形】道に迷った、道を踏みはずした		
-astronomer	6	【名】天文学者		
 astronomical	9	【形】けたはずれに大きい、天文学の		
-astronomy	6	【名】天文学		
 astute	11	【形】明敏な、洞察力のある		
 asunder	12	【副】バラバラに、離れ離れに 【形】バラバラの		
 atheist	12	【名】無神論者、不信心者		
-athletics	6	【名】運動競技、体育		
 atlas	8	【名】地図帳		
 atmospheric	7	【形】大気の、雰囲気のある		
 atone	12	【動】償う、あがなう		
@@ -254,9 +248,6 @@ attachment	5	【名】付属、取り付け、愛情、（メールの）添付�
 attain	5	【動】達成する		
 attainment	8	【名】達成、獲得、偉業、功績		
 attempted	8	【形】未遂の		
-attendance	6	【名】出席		
-attendant	5	【名】接客係、付き添い人		
-attendee	7	【名】出席者		
 attentive	8	【形】注意深い、親切な		
 attic	8	【名】屋根裏部屋		
 attorney	7	【名】弁護士、代理人		
@@ -286,7 +277,6 @@ autonomous	10	【形】自治権のある、自律的な
 autonomy	8	【名】自治（権）、自立、自治国家、自律		
 auxiliary	12	【形】補助の、予備の 【名】援助者		
 avail	9	【名】利益 【動】役立つ		
-availability	6	【名】有用性、利用できる人		
 avalanche	9	【名】雪崩 【動】圧倒する		
 avarice	12	【名】強欲		
 avenge	11	【動】～のかたきを討つ、報復する		
@@ -301,12 +291,9 @@ awesome	5	【形】畏敬の念を起こさせる、素晴らしい、恐ろし�
 axiom	12	【名】公理. 定理、金言、原理、格言		
 aye	10	【副】はい（yes） 【名】賛成		
 babble	8	【動】片言を言う、おしゃべりをする 【名】はっきり聞き取れないことば		
-babe	6	【名】世間知らず、赤ちゃん		
-backbone	6	【名】背骨、重要要素、気骨		
 backdrop	11	【名】背景、バックドロップ		
 backfire	10	【動】裏目に出る、逆発する 【名】バックファイア、さか火		
 backlash	11	【名】反発、反動 【動】激しく反発する		
-bacteria	6	【名】バクテリア、細菌		
 bacterial	10	【形】細菌の		
 badge	8	【名】記章、バッジ、しるし		
 badger	9	【動】しつこく言う、困らせる 【名】アナグマ		
@@ -328,12 +315,6 @@ bandit	12	【名】山賊、追いはぎ、無法者
 bane	11	【名】破滅のもと、悩みの種		
 bang	5	【名】ドスンという音、ごう音 【動】バンと音を立てる、打つ		
 banish	6	【動】追い出す、追放する		
-banjo	9	【名】バンジョー		
-banker	7	【名】銀行家		
-bankrupt	6	【形】破産した 【名】破産者 【動】破産させる		
-bankruptcy	7	【名】破産、倒産、失墜		
-banner	6	【名】国旗、軍旗、垂れ幕、横断幕		
-banquet	6	【名】宴会、ごちそう		
 banter	11	【名】冗談の言い合い、ひやかし 【動】からかう、ひやかす		
 baptism	10	【名】洗礼、浸礼、バプテスマ、入会式		
 baptize	10	【動】洗礼を施す		
@@ -363,27 +344,19 @@ bass	8	【形】低音の、最低音部の 【名】低音、ベース、バス
 bastard	10	【名】非嫡出子、（いやな）野郎		
 bastion	11	【名】とりで、最後のよりどころ		
 batch	8	【名】一束、一団、1回分 【動】1回分にまとめる		
-bathe	6	【動】入浴させる、水などを浴びる		
 battalion	11	【名】大隊、大群		
 batten	12	【動】当て木をする、たらふく食べる、食い物にする		
 batter	8	【動】めった打ちにする、打ち壊す、激しく当たる		
 battlefield	9	【名】戦場		
-bazaar	6	【名】市場、デパート、バザー、商店街		
 beacon	11	【名】灯台、かがり火、指針となるもの 【動】誘導する		
 bead	10	【名】ビーズ		
-beak	6	【名】くちばし、判事		
-beard	6	【名】あごひげ		
 bearer	8	【名】運ぶ人、運搬人、持参人		
 bearing	8	【名】身のこなし、態度、結実、我慢、〈bearingsの形で〉方向感覚		
 beastly	10	【形】獣のような、残忍な 【副】ひどい		
-beater	6	【名】打つ道具、打つ人、かくはん器、泡だて器		
 beating	5	【名】敗北、打つこと、むち打ちの刑		
-beautifully	5	【副】見事に、美しく		
 beckon	10	【動】合図する、差し招く		
 bedding	7	【名】寝具類、下地		
 beet	9	【名】ビート、カエンサイ		
-beetle	5	【名】（カブトムシ・クワガタなどの）甲虫		
-beforehand	6	【副】あらかじめ		
 beget	12	【動】生じさせる、父親が子をもうける		
 beguile	11	【動】魅する、だます、だまし取る		
 behavioral	9	【形】行動の		
@@ -398,23 +371,18 @@ bemoan	11	【動】嘆く、哀れむ
 bench	1	【名】ベンチ、法廷、裁判官		
 benchmark	11	【名】尺度、基準、標準価格		
 benefactor	11	【名】後援者、寄付する人、慈善事業家		
-beneficial	6	【形】ためになる、有益な、助けになる		
 beneficiary	10	【名】利益を受ける人		
 benevolence	12	【名】善行、慈善の心		
 benevolent	10	【形】慈悲の心に富んだ		
 benign	10	【形】良性の、親切な		
-bent	5	【形】曲がっている、決意して 【名】方向		
 bequeath	12	【動】遺贈する、伝える		
 bereaved	12	【形】近親者を亡くした、死別された		
 berth	12	【名】船や列車の寝台、停泊位置		
 beset	10	【動】悩ませる、包囲攻撃する、襲撃する		
 bestow	7	【動】授ける、費やす		
-beverage	7	【名】飲物		
 beware	7	【動】注意する、用心する		
 bewilder	8	【動】当惑させる、混乱させる		
 bewilderment	8	【名】うろたえた様子、困惑、混乱		
-bias	7	【名】偏見、傾向、先入観 【動】偏見を抱かせる、偏らせる		
-biased	8	【形】偏った、偏見を抱いた		
 bibliography	10	【名】図書目録、参考文献一覧表		
 biceps	12	【名】二頭筋、力こぶ		
 bidder	11	【名】入札者、値をつける人、命令者		
@@ -426,27 +394,15 @@ billiards	9	【名】ビリヤード〈単数扱い〉 【形】〈billiardの�
 billow	12	【名】炎や煙のうねり、大波 【動】波だつ、うねる		
 bimonthly	12	【形】隔月の 【副】隔月に		
 bin	9	【名】ふた付きの容器、貯蔵所		
-binary	12	【形】二進法の、ふたつの、対の		
-binder	9	【名】バインダー、しばる道具、製本屋		
 binding	7	【形】拘束力のある 【名】結合、束縛		
-bingo	10	【名】ビンゴ 【間】そのとおり		
 binocular	12	【形】両眼の 【名】双眼鏡（～s）		
-biochemistry	10	【名】生化学		
 biographer	8	【名】伝記作家		
-biographical	8	【形】伝記の		
-biography	6	【名】伝記		
-biomass	10	【名】生物量、バイオマス		
 biotechnology	9	【名】生命工学		
 birch	11	【名】カバノキ		
-birthplace	7	【名】出生地、発祥地		
-birthrate	5	【名】出生率		
 birthright	10	【名】生得権、相続権		
-bishop	8	【名】主教、司教、（チェスで）ビショップ		
-bison	12	【名】バイソン、野牛		
 bitch	9	【名】嫌な女、あばずれ、雌犬		
 bitterness	6	【名】苦味、苦しみ		
 bizarre	9	【形】奇妙な、怪奇な、とっぴな		
-blacken	9	【動】黒くする、暗くする、汚す		
 blackmail	8	【動】恐喝する、強要する 【名】恐喝で得た金品		
 blackout	10	【名】停電、記憶喪失		
 blacksmith	8	【名】鍛冶屋		
@@ -460,7 +416,6 @@ bleak	8	【形】荒涼とした、暗い
 blessing	4	【名】恩恵、天の恵み		
 blight	11	【動】だめにする、挫折させる 【名】損傷の原因		
 blinding	10	【形】目をくらます、分別を失わせるような		
-blink	7	【動】まばたきする、くらます		
 bliss	7	【名】無上の喜び、至福		
 blister	11	【名】水ぶくれ 【動】水ぶくれができる、激しく非難する		
 blithe	12	【形】陽気な、思慮のない		
@@ -470,8 +425,6 @@ bloke	10	【名】やつ、男
 blond	5	【形】金髪の		
 blooming	9	【形】花の咲いた、若々しく美しい、隆盛の		
 blot	9	【名】汚れ 【動】汚す		
-blueberry	5	【名】ブルーベリー		
-blueprint	6	【名】設計図、青写真、詳細な計画		
 bluff	11	【動】はったりでだます 【名】からいばり、断崖		
 blunt	7	【形】ぶっきらぼうな、鈍い、丸い 【動】鈍らせる		
 blur	8	【動】曇らせる、汚す、鈍らせる 【名】かすみ、汚れ、不鮮明		
@@ -479,24 +432,18 @@ blurt	11	【動】うっかりしゃべる 【名】うっかり口走ること
 boarder	9	【名】下宿人、寄宿生、寮生		
 boarding	9	【名】乗船、乗車、板張り、寄宿		
 boardroom	11	【名】重役用会議室		
-boast	6	【動】誇張して話す 【名】自慢		
 boastful	10	【形】自慢する、自慢好きの		
 bode	12	【動】～の前兆となる		
-bodily	6	【形】身体上の 【副】自身で		
 bog	9	【名】沼地、湿地帯		
 bogus	11	【形】偽の、遅れている		
 boisterous	11	【形】ばか騒ぎの、騒々しい、（天候が）荒れ狂った		
-boldness	6	【名】大胆さ、あつかましさ、目立つこと		
 bombard	11	【動】攻めたてる、砲撃する		
 bombardment	11	【名】爆撃、砲撃、殺到		
 bomber	9	【名】爆撃機		
 bondage	9	【名】緊縛、奴隷の境遇		
 bonfire	9	【名】大かがり火、たき火		
-boom	6	【名】急成長、急発展、ブーンという音、帆のブーム 【動】とどろく		
 boomer	11	【名】ベビーブーム世代、景気をあおるもの		
 boon	9	【名】恩恵、利益		
-boost	6	【動】増やす、引き上げる 【名】あと押し		
-booster	10	【名】後援者、ブースター		
 booth	6	【名】ブース		
 booty	11	【名】略奪品、戦利品		
 booze	11	【名】酒、酒宴 【動】大酒を飲む		
@@ -530,9 +477,7 @@ brandish	11	【動】威嚇するように振り回す、これ見よがしに�
 brash	11	【形】性急な、がむしゃらな、不作法な		
 bravado	11	【名】虚勢、からいばり		
 bravely	5	【副】勇敢に、りっぱに		
-bravery	6	【名】勇気、大胆さ		
 brawl	11	【名】騒々しいけんか 【動】騒々しくけんかする		
-breadth	5	【名】幅、大きさ、広さ		
 breadwinner	12	【名】稼ぎ手、稼業、大黒柱		
 breakup	8	【名】分解、分裂、崩壊、仲違い、別離		
 breathing	5	【名】呼吸、ちょっとの間		
@@ -541,18 +486,11 @@ breathtaking	8	【形】息をのむような、すごい
 breeding	9	【名】繁殖、飼育、しつけ、教養		
 brethren	11	【名】同胞、会員、同業者		
 brevity	12	【名】簡潔さ、時間の短さ		
-brew	8	【動】醸造する、コーヒーなどを入れる、たくらむ 【名】醸造酒		
-brewer	10	【名】ビール醸造者		
-brewery	10	【名】（ビールなどの）醸造所		
-bribe	6	【動】わいろを贈る 【名】わいろ		
-bribery	8	【名】わいろの授受		
 bridal	10	【形】花嫁の 【名】結婚式		
 bridegroom	12	【名】花婿		
 bridle	12	【動】馬にくつわを付ける 【名】くつわ		
 briefing	9	【名】簡単な報告・指令、状況説明		
 brigade	10	【名】組織、大部隊、旅団		
-brighten	6	【動】明るくする、光らせる		
-brightness	6	【名】明るさ、はなばなしさ		
 brilliance	6	【名】輝き、強い明るさ、光沢、（才能・頭脳の）傑出		
 brim	8	【名】縁、へり		
 brink	8	【名】縁、瀬戸際、危機		
@@ -587,9 +525,7 @@ buffalo	8	【名】バッファロー
 buffer	11	【動】衝撃を和らげる、防ぐ 【名】緩衝器、緩衝となるもの		
 buffet	7	【名】ビュッフェ、立食、食器棚		
 buggy	12	【名】名頭立て軽装馬車、乳母車、四輪車		
-builder	6	【名】建築者		
 buildup	10	【名】増強、渋滞、発展、たくわえ		
-bulb	5	【名】白熱灯、球根		
 bulge	10	【名】出っぱり 【動】膨れ上がる		
 bulk	5	【名】大部分、体積、大きさ、積み荷、巨体		
 bulletin	7	【名】掲示、広報、速報 【動】公表する		
@@ -600,15 +536,10 @@ bump	5	【動】ドンとぶつかる 【名】打ち当てること、（道路
 bumper	8	【名】バンパー、ぶつかる人、満杯 【形】非常に豊富な 【動】なみなみとつぐ		
 bumpy	10	【形】でこぼこの多い		
 bun	11	【名】丸いパン、巻き髪		
-bundle	5	【名】束、小包み 【動】束ねる		
 bungalow	8	【名】一戸建ての平屋、バンガロー		
 bunk	12	【名】船の寝台、かいば桶、場当たりの話 【動】ごろ寝する		
 buoyant	11	【形】浮力のある、陽気な、上昇傾向にある		
 burdensome	9	【形】やっかいな、つらい		
-bureau	5	【名】事務局、案内所、（官庁の）部・局		
-bureaucracy	7	【名】官僚主義、官僚 【形】官僚制度の		
-bureaucrat	10	【名】官僚		
-bureaucratic	10	【形】官僚的な		
 burgeon	11	【動】急に大きくなる、芽ぐむ 【名】新芽		
 burglar	5	【名】押し込み泥棒		
 burglary	8	【名】住居侵入窃盗		
@@ -622,14 +553,10 @@ businesslike	6	【形】事務的な、てきぱきした
 bust	9	【名】胸囲、胸像		
 bustle	10	【動】せわしく動き回る 【名】活気		
 bustling	11	【形】せわしない、騒々しい		
-butler	9	【名】執事		
 butt	10	【名】太いほうの端、残り、切れ端、吸いさし		
 buttock	12	【名】尻（～s）		
 buttress	11	【動】議論を強化する、支持する 【名】支え、バトレス		
 buyout	11	【名】買収、買い占め		
-buzz	6	【名】ざわめき声、うわさ 【動】ブンブンうなる、つぶやく		
-cab	7	【名】タクシー		
-cache	11	【名】隠した物、隠し場所、キャッシュメモリ		
 cactus	12	【名】サボテン（複 cacti)		
 caddie	10	【名】キャディー、使い走りや雑用をする人		
 cadence	12	【名】律動的な流れ、リズム		
@@ -637,47 +564,30 @@ cadet	11	【名】士官候補生、士官学校生、見習い
 calamity	7	【名】災難、不幸、苦難		
 calcium	7	【名】カルシウム		
 calculating	10	【形】計算ができる、抜け目ない、利己的な		
-calculation	5	【名】計算、見積もり、予測		
-calculator	6	【名】計算機		
 calculus	11	【名】腎臓などの結石、計算法		
 caliber	11	【名】銃の口径、直径、能力		
-caller	6	【名】電話をかける人、訪問者		
 calligraphy	4	【名】書道、習字		
-calling	8	【名】呼び声、招集、訪問、強い衝動、天職		
 callous	12	【形】無神経な、皮膚が硬くなった 【名】皮膚のたこ		
-calorie	5	【名】カロリー		
-cameraman	9	【名】カメラマン、撮影技師		
 camouflage	9	【名】偽装、変装 【動】カモフラージュする		
 campaigner	7	【名】（選挙などの）運動家		
-camper	10	【名】キャンプする人、キャンピングカー		
-campground	6	【名】キャンプ場、野外集会場		
 cancellation	8	【名】取り消し		
 candid	10	【形】率直な		
-candidate	5	【名】候補者、志願者		
-cane	7	【名】つえ 【動】罰としてむちでたたく		
 canine	11	【名】犬科の動物 【形】犬のような		
-cannon	6	【名】大砲		
 canny	11	【形】抜け目のない、慎重な		
 canon	9	【名】規範、原則、公認正典		
 canopy	12	【名】天蓋（てんがい）のように覆うもの、高貴な身分の人、（生態）樹冠		
 cant	12	【名】隠語、うわべだけのことば、凸角 【動】きれいごとを語る、斜めにする		
 canteen	12	【名】社員食堂、学生食堂、水筒		
-canvas	5	【名】キャンバス、画布		
 canvass	12	【動】地域を訪ね回る、遊説する、調査する		
-canyon	6	【名】峡谷		
 cap	1	【名】縁なし帽子、ふた、上限 【動】かぶせる、上限を設ける		
 capability	6	【名】能力、才能		
 cape	5	【名】岬、ケープ、袖なしの肩マント		
-capitalism	5	【名】資本主義		
-capitalist	5	【名】資本家、資本主義者		
 capitalize	11	【動】大文字で書く、出資する、利用する		
 capitulate	11	【動】降伏する		
 caprice	12	【名】気まぐれ、移り気、予知できない急変		
 capricious	12	【形】気まぐれの、移り気な		
-caption	7	【名】説明文、キャプション		
 captivate	9	【動】心を奪う、夢中にする		
 captivity	8	【名】捕らわれの身		
-caravan	7	【名】隊商、キャラバン、大型ほろ馬車		
 carbohydrate	10	【名】炭水化物		
 carcass	11	【名】死がい、死体		
 carcinogen	12	【名】発ガン性物質、発ガン因		
@@ -692,11 +602,9 @@ caretaker	9	【名】世話人、管理人 【形】代理の、暫定の
 cargo	6	【名】貨物、積み荷		
 caricature	10	【名】風刺漫画		
 caring	5	【形】思いやりのある、気づかう		
-carnival	8	【名】謝肉祭、カーニバル、どんちゃん騒ぎ		
 carol	9	【名】聖歌、（鳥の）さえずり 【動】クリスマスキャロルを歌ってまわる		
 carousel	12	【名】回転木馬		
 carriage	5	【名】車、客車		
-carrier	6	【名】保菌者、運搬人、キャリングカー		
 carry	1	【動】運ぶ、進める、持っている、掲載する		
 cartel	11	【名】企業連合、カルテル、挑戦状		
 cartoon	6	【名】時事風刺漫画、アニメ		
@@ -716,12 +624,10 @@ catapult	11	【動】急激に動く、発射する 【名】石弓、カタパ�
 cataract	12	【名】白内障、滝、大雨		
 catastrophe	7	【名】大惨事、不幸		
 catastrophic	10	【形】壊滅的な、最悪の		
-catcher	5	【名】キャッチャー、捕まえる人		
 categorical	8	【形】無条件の、明確な、分類別の		
 cater	7	【動】応える、料理の仕出しをする		
 caterpillar	9	【名】いも虫、キャタピラー		
 caucus	11	【名】党員集会、政党の幹部会 【動】議員総会で討議する		
-cauliflower	9	【名】カリフラワー、ハナキャベツ		
 causal	10	【形】原因の、因果関係の		
 cavalier	12	【形】横柄な、むとんちゃくな 【名】騎士		
 cavalry	12	【名】騎兵隊、乗馬者		
@@ -732,7 +638,6 @@ ceaseless	9	【形】絶え間ない
 cedar	9	【名】ヒマラヤスギ		
 celebrity	8	【名】有名人、名声		
 celestial	9	【形】天の、神聖な		
-cello	6	【名】チェロ		
 cellular	10	【形】細胞の（＊cellular phone=携帯電話）		
 cemetery	6	【名】墓地、共同墓地		
 censor	9	【名】検閲官 【動】検閲する		
@@ -744,20 +649,15 @@ centigrade	8	【形】（温度計が）摂氏の、百分度の、百度目盛�
 centralization	10	【名】中央集権、集中化		
 centralize	9	【動】中心に集める、集中させる		
 ceramic	10	【形】陶磁器の 【名】セラミック		
-cereal	5	【名】シリアル、穀類		
 cerebral	10	【形】脳の、知性に訴える		
 ceremonial	7	【形】儀礼上の、儀式の 【名】式典、儀礼		
 ceremonious	10	【形】おごそかな、儀式ばった、儀礼を尽くした		
 certainty	6	【名】確実性、必然性		
 cessation	12	【名】中止、休止		
 chaff	12	【名】もみ殻、切りわら 【動】からかう		
-chairperson	6	【名】議長、委員長		
 challenged	10	【形】身体に障害のある		
-challenger	6	【名】挑戦者		
 chamber	5	【名】部屋、（家の）室、（立法・司法機関の）会議場 【動】部屋に閉じ込める 【形】室内楽の		
-champagne	9	【名】シャンパン		
 chancellor	7	【名】首相、（英）大蔵大臣（C_)		
-changeable	6	【形】変わりやすい、変更可能な		
 chant	9	【動】歌う 【名】歌、唱歌		
 chap	7	【名】やつ、男、亀裂、あかぎれ 【動】ひびを生じさせる		
 chaplain	11	【名】礼拝堂つきの牧師、（刑務所の）教戒師、宗教儀式係		
@@ -774,11 +674,9 @@ chasten	11	【動】罰する、懲らしめる、感情を抑える
 chatter	7	【名】おしゃべり、鳴き騒ぎ 【動】しゃべる		
 chauffeur	9	【名】お抱え運転手 【動】運転する		
 chauvinism	12	【名】極端な性差別主義、熱狂的愛国主義		
-cheaply	6	【副】安く、下品に		
 checklist	8	【名】確認リスト		
 cheeky	9	【形】生意気な、厚かましい、ほおの垂れさがった		
 cheering	6	【形】激励の、元気づける		
-cheerleading	6	【名】チアリーディング		
 cheery	9	【形】上機嫌の、活気づける		
 chemotherapy	12	【名】化学療法		
 cherish	7	【動】大事にする、かわいがる		
@@ -790,19 +688,15 @@ childbirth	9	【名】出産
 childcare	6	【名】保育、児童保護		
 childless	9	【形】子どものない		
 chilly	6	【形】ひんやりする、冷淡な		
-chime	7	【名】チャイム、調和のとれた音 【動】音を出す、調子を合わせて鳴る		
 chip	5	【名】切れ端 【動】切る、削る		
 chirp	8	【動】チュンチュンと鳴く、にぎやかに話す 【名】甲高い音（小鳥の鳴き声など）		
 chisel	10	【名】のみ、彫刻刀 【動】彫る、だます		
 chivalry	12	【名】騎士道精神		
 chlorine	12	【名】塩素		
-choir	7	【名】聖歌隊、合唱団		
 choke	6	【動】窒息する、息が詰まる 【名】窒息		
-cholesterol	9	【名】コレステロール		
 chord	8	【名】和音、情緒、弦		
 chore	7	【名】家事、雑用		
 choreographer	11	【名】振付師		
-chorus	5	【名】合唱 【動】合唱する		
 christen	10	【動】洗礼を施す、命名する		
 chromosome	11	【名】染色体		
 chronicle	9	【動】年代順に記録する 【名】年代記、歴史		
@@ -813,19 +707,13 @@ chum	12	【名】親友、まき餌 【動】親しくする
 chunk	9	【名】大きい塊		
 churchyard	7	【名】教会付属の墓地、教会堂に隣接する庭		
 churn	10	【動】激しくかき混ぜる 【名】かくはん器		
-cider	8	【名】リンゴジュース、リンゴ酒		
-cigar	7	【名】葉巻		
 circumscribe	12	【動】制限する、周辺に線を引く、区切る		
 circumspect	12	【形】慎重な、熟慮した		
 circumstantial	9	【形】状況の、付随的な		
 circumvent	11	【動】巧みに逃れる、包囲する、挫折させる		
-circus	5	【名】サーカス		
 cistern	12	【名】タンク、貯水池		
 citadel	12	【名】要塞、とりで		
-cite	6	【動】言及する、引用する 【名】言及		
-citizenship	7	【名】市民としての身分、市民権		
 civic	7	【形】市民の、都市の、市の		
-civilian	5	【形】民間の、一般人の 【名】一般市民		
 civility	11	【名】礼儀正しさ、丁寧な行為		
 civilization	5	【名】文明、洗練		
 civilize	7	【動】文明化する、教化する		
@@ -836,12 +724,9 @@ clamber	10	【動】よじ登る 【名】はい登り
 clamp	11	【名】留め金 【動】固定する、重々しい足どりで歩く		
 clan	10	【名】一族		
 clandestine	11	【形】秘密で行われる		
-clarinet	6	【名】クラリネット		
 clarity	8	【名】透明、清澄、明瞭		
 clash	6	【動】衝突する 【名】戦闘、衝突		
 clasp	8	【動】握りしめる 【名】留め金、締め具、しっかり握ること		
-classification	6	【名】分類、区別、（政治・軍事）秘密文書指定		
-classified	6	【形】機密扱いの、分類された		
 clatter	7	【動】ガタガタ音をたてる 【名】騒々しさ、やかましい音		
 clause	6	【名】節、条項		
 claustrophobia	12	【名】閉所恐怖症		
@@ -862,7 +747,6 @@ clergyman	7	【名】聖職者、牧師
 cleric	11	【名】牧師、聖職者 【形】聖職者の		
 clerical	8	【形】事務員の、書記の、聖職者の 【名】聖職者		
 cleverly	8	【副】利口に、如才なく、器用に		
-cliche	10	【名】決まり文句、ありきたりの方法		
 clientele	11	【名】常連、顧客、依頼人		
 climatic	6	【形】気候上の、気候による		
 clinch	11	【動】決着をつける、釘やねじの先を曲げて留める		
@@ -873,19 +757,15 @@ cloakroom	7	【名】クローク、携帯品預かり所、議員控え室
 clockwise	10	【副】右回りに		
 clockwork	7	【名】時計仕掛け、ぜんまい仕掛け		
 clog	9	【動】動きを妨げる、詰まらせる 【名】障害物		
-clone	8	【動】複製を作る 【名】クローン		
-closing	6	【名】終わり、結び		
 closure	8	【名】閉鎖、締切、閉店、終了		
 clot	11	【名】血などのかたまり 【動】凝固する、こびりつく		
 cloudless	8	【形】一点の雲もない、晴れわたった、影のない		
-clover	5	【名】クローバー		
 clown	7	【名】道化役者、おどけ者 【動】おどける、からかう		
 clump	12	【名】茂み、集団 【動】重い足どりで歩く、～をかたまりにする		
 clumsy	7	【形】ぎこちない、不器用な		
 clutch	7	【動】しっかり握る、つかみかかる 【名】クラッチ、つめ		
 clutter	11	【名】散らかった物の山、がらくた 【動】散らかす、心を乱す		
 coalesce	11	【動】合併する、連合する、（傷口などが）癒着(ゆちゃく)する		
-coastal	7	【形】沿岸の		
 coastline	9	【名】海岸線		
 coating	6	【名】塗装、上塗り		
 coax	10	【動】おだてて～させる、まるめ込む		
@@ -895,8 +775,6 @@ cockpit	8	【名】操縦席、運転席
 coddle	12	【動】甘やかして育てる、やさしく扱う、とろ火で煮る		
 coerce	12	【動】強制する、強制によって達成する		
 coercion	12	【名】強制力、強制、圧政		
-coexist	10	【動】共存する		
-coexistence	10	【名】共存		
 coffer	11	【動】箱や金庫にしまう 【名】貴重品を入れる箱、金庫（～s）		
 coffin	7	【名】棺 【動】棺におさめる		
 cognition	12	【名】知識、認知、認識		
@@ -906,15 +784,8 @@ coherent	8	【形】互いに密着する、緊密に結びついた、首尾一
 cohesion	10	【名】つながり、粘着、団結		
 cohort	11	【名】共犯者、軍隊、軍団		
 coil	7	【名】とぐろ巻き、輪、コイル 【動】ぐるぐる巻く		
-coincide	7	【動】同時に起こる、同一の空間をしめる、ぴったり合う、一致する		
-coincidence	8	【名】（偶然の）一致、合致、同時発生		
 colitis	12	【名】結腸炎、大腸炎		
-collaborate	6	【動】協力する		
-collaboration	5	【名】合作、協同、協力		
 collateral	11	【名】担保物件 【形】横にある、追加の		
-collective	6	【名】共同体、集合体 【形】集団の、集まった、結合した		
-collide	8	【動】ぶつかる、衝突する、一致しない		
-collision	7	【名】衝突、不一致		
 colloquial	10	【形】口語（体）の		
 collusion	12	【名】共謀		
 colon	9	【名】結腸、コロン、句読点		
@@ -926,45 +797,30 @@ colored	6	【形】色のついた、有色人種の
 coloring	6	【名】塗り絵、着色、色合い、血色		
 colossal	10	【形】巨大な、とてつもない		
 colt	11	【名】雄の子馬、初心者		
-columnist	7	【名】コラム欄執筆者、コラムニスト		
 coma	10	【名】昏睡		
 comatose	11	【形】昏睡状態の、ひどく眠い		
 combat	5	【名】戦闘 【動】戦う、強く反抗する		
-combined	6	【形】合わせた、結合した		
-combo	11	【名】音楽バンド、結合体、料理の組み合わせ		
 combustion	12	【名】燃焼、動揺		
 comeback	6	【名】返り咲き、回復		
-comet	6	【名】彗星		
-comical	6	【形】おかしな、笑いを誘う、変な		
-comma	8	【名】（句読点の）コンマ		
-commander	5	【名】指揮官、司令官		
 commandment	11	【名】戒律、命令		
-commando	11	【名】特別奇襲隊、コマンド		
 commemorate	9	【動】記念する、祝う、哀悼する		
-commence	6	【動】始まる、開始する		
 commencement	10	【名】卒業式、始まり		
 commercialism	9	【名】商業主義、営利主義		
-commissioner	7	【名】理事、署長、委員、長官		
 commodity	6	【名】商品、産物、有用なもの		
 commoner	10	【名】平民、庶民、下院議員、一般学生		
-commonly	5	【副】普通に、通例		
 commonplace	7	【形】普通の、ありふれた、つまらない 【名】平凡なこと		
 commonwealth	7	【名】団体、連邦（C_)		
 communal	10	【形】共同社会の、共同使用の		
-commune	9	【名】コミューン、生活共同体		
 communicative	7	【形】話し好きな、隠し立てのない、通信の		
 communicator	9	【名】伝達者		
 communion	8	【名】共有、交際、親交、交流、霊的交感、聖餐（せいさん）		
 communique	11	【名】公式声明、公式発表		
 communism	7	【名】共産主義体制、共産主義		
-communist	5	【名】共産主義者 【形】共産主義の		
 commute	8	【動】通勤・通学する、代える、変化させる、取り替える		
-commuter	7	【名】通勤者		
 comparable	6	【形】匹敵する、似ている、比較できる		
 comparative	6	【形】比較の、かなりの		
 comparatively	6	【副】比較的、いくぶん		
 compartment	7	【名】区画、分室、仕切り客室、小物入れ		
-compass	6	【名】コンパス、磁石 【形】曲がった 【動】巡回する		
 compassion	8	【名】思いやり、深い同情		
 compassionate	9	【形】思いやりのある、哀れみ深い		
 compatible	8	【形】仲よくやっていける、両立できる、矛盾のない、互換性のある		
@@ -972,7 +828,6 @@ compel	6	【動】無理にさせる、せざるをえない
 compelling	8	【形】説得力のある、強制的な		
 compensate	7	【動】埋め合わせる、相殺する、補償する、報酬を支払う		
 compensation	6	【名】補償金、報酬、埋め合わせ		
-competitive	5	【形】競争の激しい、競合する、競争心の強い		
 compilation	11	【名】編集（したもの）		
 compile	8	【動】まとめる、編集する、集める		
 complacency	11	【名】現状に満足しきっていること、自己満足		
@@ -980,7 +835,6 @@ complacent	9	【形】悦に入った、愛想のいい、無関心な
 complainant	12	【名】原告（側）		
 complement	7	【名】補完物 【動】よさを引きたてる		
 complementary	10	【形】補充する、補足的な		
-completion	6	【名】完成、完了		
 complexion	10	【名】顔色、外観		
 compliant	12	【形】従順な、言いなりの		
 complicity	11	【名】共謀、連座		
@@ -996,17 +850,12 @@ comptroller	11	【名】会計監査（役）、経理部長
 compulsion	9	【名】衝動強迫、無理強い		
 compulsive	9	【形】何かにとりつかれたような、人の心をとらえて離さない		
 compulsory	6	【形】強制された、義務的な		
-compute	8	【動】計算する、算定する、コンピュータで計算する 【名】計算、算出		
-computerize	8	【動】コンピュータで処理する、コンピュータ化する		
-computing	9	【名】コンピューターの使用 【形】コンピューター関係の		
 concave	12	【形】くぼんだ、凹形の 【名】凹面		
 conceal	5	【動】隠す、秘密にする		
 concealment	10	【名】隠すこと、潜伏		
 concede	7	【動】認める、容認する、負けを認める		
 conceit	8	【名】うぬぼれ、過大評価、気まぐれ 【動】得意になる、うぬぼれる		
 conceited	9	【形】うぬぼれた		
-concentrated	5	【形】濃縮した、集中した、濃厚な		
-conceptual	7	【形】概念の、考え方の		
 concerted	11	【形】一致団結した、断固とした		
 concerto	11	【名】コンチェルト、協奏曲		
 concession	7	【名】譲歩、承認		
@@ -1015,15 +864,11 @@ conclusive	8	【形】決定的な、確実な、終結的な、終了させる
 concomitant	12	【形】同時に起こる、付随する 【名】付属物		
 concord	10	【名】一致、平和		
 concordance	12	【名】用語索引、一致		
-concrete	5	【名】コンクリート 【形】具体的な、コンクリートの、現実の		
 concur	10	【動】同意見である、一致する、同時に起こる		
 concussion	11	【名】脳震盪、衝撃		
 condescend	12	【動】見下した態度をとる、へりくだる		
 condolence	12	【名】悔やみ、哀悼、弔辞		
-condom	6	【名】コンドーム 【動】コンドームをつける		
-condominium	8	【名】コンドミニアム、分譲マンション		
 condone	11	【動】大目に見る、容赦する		
-conductor	5	【名】指揮者、車掌		
 confer	7	【動】与える、相談する		
 confetti	12	【名】紙ふぶき、キャンディー、ボンボン		
 configuration	10	【名】形、星位、（コンピューター）機器の構成		
@@ -1033,12 +878,7 @@ confiscate	11	【動】没収する、差し押さえる 【形】没収した
 conflagration	11	【名】大火、戦争や災害の突発		
 confluence	12	【名】河川の合流、合流点、集合		
 confound	9	【動】まごつかせる、困惑させる		
-confront	5	【動】立ち向かう、直面する、対決させる		
 confrontation	7	【名】対決、直面		
-confuse	5	【動】混乱させる、困惑させる		
-confused	5	【形】困惑した、混乱した		
-confusing	5	【形】まぎらわしい、頭が混乱するような		
-confusion	5	【名】混乱状態、混乱させること、あいまい		
 congenial	9	【形】適した、性分に合った、気心の合った		
 congestion	9	【名】密集、充満、充血、詰まること		
 conglomerate	11	【名】複合企業、集合体 【形】複合企業の		
@@ -1050,10 +890,8 @@ conjunction	10	【名】結合、共同、接続詞
 connoisseur	11	【名】通、鑑識家、目利き		
 consecrate	12	【動】聖職に任命する、神聖にする、ささげる		
 consecutive	10	【形】連続した、論理の一貫した		
-consensus	5	【名】意見の一致、大多数の意見、世論		
 consent	5	【動】同意する、承諾する 【名】承諾、承認、同意		
 consequent	7	【形】引き続いて起こる、結果として起こる		
-conservation	5	【名】保護、保存、管理		
 conservationist	11	【名】自然保護論者 【形】自然保護論者の		
 conservative	5	【形】保守的な、控えめな 【名】保守的な人		
 conservatory	12	【名】温室、音楽学校		
@@ -1065,7 +903,6 @@ consistency	8	【名】一貫性、堅さ、一致、調和
 consistent	5	【形】一致する、不変の、首尾一貫した		
 consolidation	8	【名】合同、合併、整理統合、合同体、強化		
 consonant	7	【名】子音 【形】一致する		
-consortium	10	【名】合弁企業、組合		
 conspire	8	【動】共謀する、たくらむ、図る		
 constable	9	【名】巡査		
 constellation	12	【名】星座（の位置）、一群		
@@ -1083,11 +920,8 @@ constructive	6	【形】建設的な、発展的な、解釈上の
 construe	10	【動】説明する、解釈する、翻訳する		
 consul	10	【名】領事、執政官		
 consulate	10	【名】領事館、領事職		
-consume	5	【動】消費する、使い果たす		
-consumer	5	【名】消費者		
 consummate	11	【形】完璧な、実に見事な 【動】完了させる		
 consummation	12	【名】成就、仕上げ、終焉		
-consumption	5	【名】消費、消費高		
 contagion	12	【名】接触伝染病、感染、感化		
 contagious	8	【形】接触伝染性の、感染させる		
 containment	11	【名】封じ込め、抑制、束縛		
@@ -1097,7 +931,6 @@ contamination	9	【名】汚濁、汚染（物質）
 contemplate	7	【動】熟考する、意図する		
 contemplation	10	【名】沈思黙考、意図、見込み		
 contemplative	11	【形】瞑想的な、静観的な		
-contemporary	5	【形】現代の、同時代の		
 contemptuous	9	【形】軽蔑を示す、蔑んだ		
 contend	7	【動】戦う、取り組む		
 contender	10	【名】競争者		
@@ -1106,11 +939,9 @@ contention	9	【名】主張、論争、闘争
 contentious	11	【形】議論を起こす、論争好きの		
 contentment	6	【名】満足、安ど		
 contestant	9	【名】出場者、競技者		
-continental	6	【形】大陸の		
 contingency	11	【名】不慮の出来事、偶然性、続発事件		
 contingent	11	【形】～を条件とする、～に付随する、不慮の 【名】偶発事、選手団		
 continual	6	【形】絶え間のない		
-continually	6	【副】絶えず、ひんぱんに		
 continuance	10	【名】継続、連続、続き		
 continuation	7	【名】連続、存続、話などの続き		
 continuity	7	【名】連続、継続性、ひと続き、映画の撮影用台本（コンテ）		
@@ -1121,40 +952,30 @@ contour	9	【名】輪郭、等高線、概略 【形】等高線を記す、輪
 contraception	11	【名】避妊、産児制限		
 contraceptive	11	【形】避妊の 【名】避妊器具、避妊薬		
 contraction	7	【名】収縮、短縮、不況		
-contractor	7	【名】請負業者、契約人		
 contravene	12	【動】違反する、矛盾する		
 contributor	8	【名】寄付者、貢献者 寄稿者		
 contrition	11	【名】悔い改め、悔恨		
 contrive	9	【動】企てる、もくろむ、考案する		
-controller	7	【名】会計検査官、会計監査、制御装置		
 controversial	6	【形】議論の余地がある、異論のある		
 controversy	6	【名】論争、口論		
 conundrum	11	【名】難問、なぞ		
 convene	10	【動】集まる、召集する		
 converge	10	【動】集まる、集中する、ひとつにまとまる		
 convergence	11	【名】意見の合致、集中、同時発生		
-conversion	7	【名】変換、転換、変化、改造		
-convert	5	【動】変える、転向する		
 convertible	10	【形】変換できる、コンバーチブル型の 【名】ほろ型自動車		
 conviction	5	【名】信念、確信、説得、有罪判決		
 convoy	10	【名】トラックなどの集団 【動】護送する		
 convulsion	12	【名】けいれん、笑いの発作、動乱		
-cooker	5	【名】炊事用具、調理器具		
 cookery	11	【名】料理業、料理場、料理術		
 coop	12	【名】鶏小屋、狭苦しい場所 【動】閉じ込める		
 cooper	11	【名】樽類製造者、桶屋		
-cooperate	6	【動】協力する、協同する		
-cooperative	6	【形】協同の、力を合わせて行う 【名】協同組合		
 coordination	8	【名】調整、一致、対等、同格		
 cop	4	【名】警官 【動】獲得する		
-cope	5	【動】対処する、対抗する		
 copious	12	【形】多量の、内容の豊富な		
 copper	5	【名】銅、銅貨		
 coral	10	【名】サンゴ		
 cordial	9	【形】誠心誠意の 【名】元気づけるもの		
 cordon	12	【名】非常線、綬章、ひも飾り		
-core	5	【名】芯、核心 【動】芯を取る		
-cork	6	【名】コルク 【動】コルクをつける		
 cornerstone	11	【名】土台、肝要なもの		
 corollary	12	【名】必然の結果 【形】結果として生じている		
 coronary	11	【形】心臓の、冠状に囲む 【名】心筋梗塞		
@@ -1164,7 +985,6 @@ corporal	11	【形】肉体の、胴体の、個人の
 corps	7	【名】兵団		
 corpse	7	【名】死体		
 corpus	11	【名】言語資料、全集、元金		
-correction	6	【名】訂正、訂正個所、矯正		
 correlation	8	【名】相互関係、相関関係、相関作用		
 correspondence	7	【名】文通、往復書簡、一致、通信		
 correspondent	6	【名】通信員、特派員 【形】一致している、対応している		
@@ -1177,7 +997,6 @@ cortex	11	【名】（大脳）皮質、樹皮
 cosmetic	6	【名】化粧品、体裁のつくろい 【形】美容のための		
 cosmic	9	【形】宇宙の、無限の		
 cosmopolitan	8	【形】国際的な、外国人に対して偏見のない 【名】国際人		
-costly	6	【形】値段の高い、ぜいたくな		
 cot	12	【名】簡易ベッド、小屋		
 couch	4	【名】長いす 【動】表す、うずくまる		
 councilor	10	【名】議員、評議員、顧問官		
@@ -1190,7 +1009,6 @@ counterfeit	11	【形】偽の、見せかけの 【動】偽造する、ふり�
 counterpart	6	【名】対をなすものの片方、よく似た人・もの、写し		
 countless	6	【形】数えきれないほどの、無数の		
 coup	8	【名】クーデター、大当たり、大成功		
-coupon	5	【名】クーポン、優待券		
 courageous	5	【形】勇気のある		
 courier	10	【名】配達人、宅配便業者、特使、案内人		
 courteous	7	【形】礼儀正しい、いんぎんな		
@@ -1201,24 +1019,19 @@ courtship	11	【名】婚約以前の交際、求愛
 courtyard	8	【名】（特に四方を建物・塀で囲まれた）中庭		
 cove	12	【名】入り江、奥まった場所、ほら穴		
 covenant	10	【名】契約、約束、約款		
-coverage	6	【名】報道、取材範囲、放送		
 covering	5	【名】覆い 【形】覆う		
 covert	11	【形】秘密の、覆われた 【名】隠れ場		
 covet	10	【動】切望する		
 cowardice	9	【名】憶病、小胆		
 cowardly	8	【形】勇気のない、ひきょうな 【副】憶病に		
-cowboy	6	【名】カウボーイ		
 cower	12	【動】縮こまる、畏縮する		
 coworker	5	【名】同僚		
 coy	11	【形】純情ぶっている、内気な		
 cozy	6	【形】居心地のよい、つるんだ 【動】仲よくする		
-crab	7	【名】カニ		
 crackdown	11	【名】断固たる取り締まり、法律の厳格な施行		
 cracked	7	【形】ひびの入った、砕いた、砕けた		
-cracker	6	【名】クラッカー、爆竹、くるみ割り器		
 crackle	11	【動】パチパチ音をたてる、細かいひびができる 【名】ひび模様		
 cradle	5	【名】揺りかご 【動】支える		
-craftsman	6	【名】職人、工芸家		
 crafty	10	【形】悪賢い、器用な		
 cram	8	【動】詰め込む 【名】詰め込み式の受験勉強、超満員		
 cramp	8	【名】けいれん、ひきつり、激しい腹痛		
@@ -1230,7 +1043,6 @@ crater	8	【名】噴火口、クレーター 【動】穴があく、へこみ�
 crave	9	【動】切望する、要求する		
 craze	8	【名】熱狂的大流行、熱狂 【動】気を狂わせる、気がおかしくなる		
 creak	12	【動】キーキー鳴る、きしる		
-creamy	5	【形】クリーム状の、クリームを含む		
 crease	12	【名】折り目、しわ 【動】折り目をつける、しわくちゃにする		
 creativity	5	【名】創造性、独創力		
 credential	8	【名】信任状、証明書		
@@ -1250,13 +1062,9 @@ cripple	7	【動】手足を不自由にする 【名】手足の不自由な人
 crisp	6	【形】かりかりした、身の引き締まるような		
 criterion	7	【名】規準、標準、尺度		
 crochet	12	【動】かぎ針で編む 【名】かぎ針編み		
-crocodile	5	【名】クロコダイル		
 crony	11	【名】仲間、ぐる、取り巻き		
 crook	8	【名】不正直な人、詐欺師 【形】病気の、不正な 【動】曲げる		
 crooked	8	【形】湾曲した、不正な、心の曲がった		
-crossed	10	【形】交差した、混線した、十字を引いてある		
-crosswalk	7	【名】横断歩道		
-crucial	5	【形】重大な、決定的な、すてきな		
 crucifixion	12	【名】はりつけ、キリストの十字架上の死、大きな苦難		
 crucify	10	【動】十字架にはりつけにする、虐待する		
 cruelly	8	【副】残酷に、むごく、ひどく、とても		
@@ -1272,10 +1080,7 @@ crux	12	【名】最も重要な点、難問、十字架
 crypt	12	【名】遺体安置所、穴蔵、地下室		
 cub	11	【名】肉食哺乳動物の子、青二才、見習い、新米		
 cubicle	12	【名】小寝室、小部屋		
-cuckoo	6	【名】カッコウ		
-cucumber	5	【名】キュウリ		
 cuddle	9	【動】抱きしめる、すり寄る 【名】寄り添うこと		
-cue	6	【動】合図を出す 【名】合図、きっかけ		
 cuff	11	【名】そで口、ズボンのすその折り返し、手錠（～s）		
 cuisine	9	【名】料理法、料理		
 culinary	11	【形】料理の、台所の		
@@ -1293,9 +1098,6 @@ curator	11	【名】学芸員、園長、支配人
 curb	9	【名】抑制、制限、歩道の縁石 【動】抑制する		
 curfew	9	【名】夜間外出禁止令、消灯令、門限		
 curio	12	【名】骨董品		
-curly	7	【形】巻き毛の、巻いている		
-currency	5	【名】通貨		
-currently	5	【副】現在は、一般に		
 curse	6	【名】呪い、呪文 【動】呪う、悪態をつく		
 cursory	12	【形】ぞんざいな、うわっつらの		
 curt	11	【形】ぶっきらぼうな、ことばが短い		
@@ -5736,9 +5538,7 @@ volatile	10	【形】激しやすい、気まぐれな、揮発性の、はか�
 volcanic	8	【形】火山の(ある)		
 volition	12	【名】意志、意欲、決意		
 volley	10	【名】一斉射撃 【動】いっせいに射撃する		
-voltage	6	【名】電圧、ボルト数		
 voluble	12	【形】流暢な、多弁な		
-voluntary	6	【形】自由意思の		
 voluptuous	12	【形】豊満な体をした、官能的な、ぜいたくな		
 vomit	8	【動】食物を吐く 【名】嘔吐、噴出		
 voter	6	【名】投票者、有権者、選挙人		
