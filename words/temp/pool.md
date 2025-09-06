@@ -1199,17 +1199,14 @@ degenerate	11	【動】悪化する 【形】悪化した、退化した
 degradation	8	【名】不名誉、体面を傷つけること、左遷、低下、劣化		
 deity	11	【名】神、神性		
 dejected	12	【形】しょげている、意気消沈した		
-delete	5	【動】削除する		
 deliberate	6	【形】故意の、よく考えた 【動】熟考する		
 delicacy	8	【名】ごちそう、美味、繊細さ、思いやり		
-delightful	5	【形】うれしい、喜びを与える、楽しい		
 delineation	12	【名】描写、図表、概要説明		
 delinquency	12	【名】非行、過失、義務の不履行		
 delinquent	10	【形】怠慢な、非行の 【名】非行少年少女		
 delirious	12	【形】意識が混濁した、興奮状態の		
 delirium	12	【名】狂乱状態、幻覚症状		
 deliverance	12	【名】意見の表明、陪審の評決、救出		
-delta	8	【名】デルタ、三角州、三角形のもの		
 delude	10	【動】心・判断を惑わす、欺く		
 deluge	11	【名】大雨、大洪水、殺到 【動】殺到する		
 delve	11	【動】徹底的に調べる、手探りする		
@@ -1217,31 +1214,20 @@ demarcation	12	【名】境界画定、境界線、区分
 demeanor	11	【名】顔つき、物腰、態度		
 dementia	8	【名】痴呆		
 demerit	6	【名】短所、罰点		
-demo	8	【名】宣伝、実演		
 democrat	7	【名】民主党員（D_）、民主主義者、平等論者		
-demographic	7	【形】人口統計の、人口学の		
-demographics	10	【名】人口統計学、人口動態		
-demography	12	【名】人口統計学、人口の統計的研究		
 demolish	10	【動】破壊する、くつがえす		
 demolition	11	【名】取り壊し、破壊、廃止		
-demon	8	【名】悪霊、悪魔、超人的精力家、名人、極悪非道の人		
-demonstration	5	【名】デモ、実物説明、公開授業		
-demonstrator	6	【名】デモ参加者、実演する人		
 demoralize	12	【動】士気をくじく、困惑させる		
 demur	11	【動】反対する 【名】異議、ためらい		
 demure	12	【形】慎み深い、上品ぶった		
 den	7	【名】ほら穴、ねぐら 【動】ほら穴に住む		
-denial	6	【名】否定、拒否		
-denim	10	【名】デニム、ジーンズ		
 denomination	11	【名】貨幣単位、額面、宗派		
 dent	11	【名】表面のくぼみ、減少 【動】へこませる、めり込む		
-dental	6	【形】歯の、歯医者の		
 denunciation	12	【名】公然の非難、弾劾		
 deodorant	8	【名】デオドラント、体臭防止剤、脱臭剤 【形】脱臭効果のある		
 deplete	11	【動】使い果たす、激減させる		
 depletion	12	【名】減少、枯渇		
 deplore	10	【動】嘆く、遺憾に思う、非難する		
-deploy	10	【動】（部隊・兵を）配置する		
 deport	11	【動】国外に追放する、輸送する		
 deportation	11	【名】国外追放、輸送		
 depose	11	【動】退ける、証言する		
@@ -1265,7 +1251,6 @@ deserved	8	【形】当然の、功罪に応じた、それだけの価値があ
 deserving	10	【形】資格のある、値する		
 designing	8	【形】計画的な、先見の明のある、腹黒い、ずるい 【名】設計		
 desirous	9	【形】望む		
-desktop	8	【形】卓上据え置き型の 【名】机の作業面、デスクトップコンピュータ		
 desolate	10	【形】荒れ果てた、人けのない 【動】悲しくさせる、荒廃させる		
 despair	4	【名】絶望、失望		
 desperate	5	【形】絶望的な、自暴自棄の、～したくてたまらない		
@@ -1273,11 +1258,8 @@ desperately	5	【副】ひどく、やけくそになって、必死になって
 desperation	8	【名】自暴自棄、死にものぐるい		
 despondent	12	【形】落胆しきった、しょげ返った		
 despotic	12	【形】独裁的な、横暴な		
-destined	7	【形】運命にある、～行きである		
-destiny	5	【名】運命、さだめ		
 destitute	11	【形】極貧の、持っていない		
 destitution	12	【名】極貧、欠乏		
-destroyer	7	【名】駆逐艦、破壊者、破壊するもの		
 destructive	5	【形】破壊的な、有害な		
 detach	7	【動】分離する、派遣する		
 detain	9	【動】拘留する、引き留める		
@@ -1307,15 +1289,10 @@ dexterity	10	【名】器用さ、抜け目なさ
 diabetes	9	【名】糖尿病		
 diabetic	11	【名】糖尿病患者 【形】糖尿病の		
 diabolic	12	【形】極悪非道な、悪魔の、魔性の		
-diagram	6	【名】図、図式、図表		
-dial	7	【名】ダイヤル、文字盤 【動】ダイヤルして（ボタンを押して）電話をかける		
-dialect	7	【名】方言		
 dialectic	12	【形】弁証法の 【名】弁証法、論証、対立		
 diaper	11	【名】おむつ 【動】おむつを替える		
 diarrhea	10	【名】下痢		
-dice	8	【名】さいころ 【動】さいの目に切る、ばくちで失う		
 dichotomy	12	【名】二分、二分裂、二項対立		
-dictation	7	【名】ディクテーション、口述		
 dictator	8	【名】独裁者、指令者、口述者		
 dictatorship	9	【名】独裁政権、独裁権		
 diction	12	【名】言葉づかい、口調		
@@ -1333,7 +1310,6 @@ dignify	8	【動】威厳をつける、おごそかにする、高貴にする�
 dignity	5	【名】威厳、重々しさ		
 dilapidated	12	【形】ぼろぼろになった、荒廃した		
 dilate	12	【動】膨らむ、体の器官を広げる		
-dilemma	8	【名】ジレンマ、板ばさみ、窮地		
 dilute	9	【動】薄める 【形】薄い、あせた		
 dim	5	【形】薄暗い、ぼやけた		
 dime	6	【名】10セント硬貨		
@@ -1346,14 +1322,10 @@ dioxide	5	【名】二酸化物
 dip	5	【動】ちょっとつける、すくい上げる 【名】くぼみ、（野菜などをちょっと浸す）ディップ		
 diploma	7	【名】卒業証書、学位、公文書		
 diplomacy	7	【名】外交、外交的手腕		
-diplomat	6	【名】外交官、外交家		
-diplomatic	5	【形】外交の		
 dire	11	【形】悲惨な、不吉な		
 directive	7	【名】公式の指示、指令 【形】指示的な、指導的な		
 directory	8	【名】住所氏名録、人名簿、指導書、規則書		
 disability	6	【名】能力を欠くこと、無力、身体障害		
-disable	7	【動】無力にする、身体障害者にする		
-disabled	7	【形】身体障害のある 【名】身体障害者		
 disadvantaged	10	【形】恵まれない、貧しい		
 disagreeable	7	【形】嫌な、好みに合わない、不愉快な		
 disagreement	6	【名】意見の相違、不一致、不調和		
@@ -1459,15 +1431,11 @@ dogma	9	【名】教義、定説、独断
 dogmatic	12	【形】独善的な、独断的な、教義上の		
 doldrums	12	【名】ゆううつ、不振、赤道無風帯		
 dolly	11	【名】手押し車、お人形さん、豆機関車 【形】魅力的な		
-domain	7	【名】分野、領域		
-dome	6	【名】ドーム、半球体		
 domicile	12	【名】居住地、定住所 【動】定住させる		
 dominance	8	【名】支配、優勢、（遺伝子の）優性		
 dominant	5	【形】支配的な、有力な、優勢な		
 domination	8	【名】支配すること、優位を占めること		
 dominion	10	【名】支配（権）、領地		
-donation	6	【名】寄付		
-donkey	5	【名】ロバ、ばか者		
 donor	8	【名】提供者、寄贈者		
 doom	7	【動】運命づける、〈受身で〉消える運命にある 【名】運命		
 doorstep	5	【名】戸口の踏み段		
