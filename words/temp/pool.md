@@ -1493,8 +1493,6 @@ duchy	12	【名】公爵領、公国
 duck	3	【名】カモ、アヒル 【動】身をかがめる		
 duckling	10	【名】カモ（アヒル）の子		
 duct	11	【名】ダクト、導管		
-duel	11	【名】決闘、二者間の争い 【動】争う		
-duet	10	【名】二重唱、二重奏		
 duke	6	【名】公爵、君主		
 dull	3	【形】鈍い、切れ味の鈍い、どんよりした 【動】鈍くする		
 dullness	10	【名】のろいこと、鈍感		
@@ -1502,10 +1500,8 @@ duly	8	【副】正式に、正当に、十分に
 dumb	4	【形】口のきけない、押し黙っている		
 dummy	8	【名】模型、替え玉、マネキン、間抜け 【形】模造の、名義だけの		
 dump	6	【名】ゴミ捨て場、ゴミの山 【動】どさっと降ろす、捨てる		
-dumpling	6	【名】スープなどに入れるだんご		
 dune	12	【名】砂丘		
 dung	12	【名】糞、こやし、汚いもの 【動】肥料を施す		
-duo	10	【名】二重唱、二重奏		
 duplicate	9	【動】複製する 【名】複製		
 durable	8	【形】耐久力のある、じょうぶな 【名】耐久消費財		
 duration	7	【名】継続時間、連続		
@@ -1514,19 +1510,12 @@ dusky	10	【形】薄暗い、陰うつな
 duster	10	【名】ふきん、ほこりを払う人・もの		
 dutiful	9	【形】忠実な、本分を守る、礼儀正しい		
 dwarf	6	【名】小人 【形】小さい 【動】小さくする		
-dwell	5	【動】住む、存在する		
-dweller	8	【名】住人		
-dwelling	6	【名】住居		
 dye	5	【動】染める、着色する 【名】染料		
-dying	5	【形】死にかけている、臨終の 【名】臨終		
 dynamics	8	【名】力学、原動力		
-dynamite	8	【名】ダイナマイト、強烈な効果を与える人 【動】ダイナマイトで爆破する		
 dynasty	9	【名】王朝、支配者層		
 earthen	12	【形】土で作った、陶製の、世俗の		
 earthly	8	【形】地上の、地球の、俗界の		
 earthworm	9	【名】ミミズ		
-easter	5	【名】〈Easterの形で〉イースター		
-eastward	7	【副】東に向かって 【名】東部 【形】東の		
 easygoing	7	【形】のんきな、安易な		
 eavesdrop	12	【動】盗み聞きする		
 eccentric	7	【形】変わった 【名】変人		
@@ -1534,37 +1523,22 @@ eccentricity	8	【名】奇行、風変わり
 ecclesiastical	12	【形】教会の、聖職者に関する		
 eclectic	11	【形】（趣味や意見が）幅広い、取捨選択する、折衷主義の		
 eclipse	9	【名】食、光の消滅 【動】影を投げる		
-ecological	8	【形】生態学の、生態上の、環境保護の		
-ecologist	8	【名】生態学者、環境保護活動家		
-ecology	7	【名】生態学、エコロジー		
-economical	5	【形】経済的な、倹約を重んじる		
-economically	6	【副】経済上、節約して、経済的見地からすれば		
 economize	10	【動】倹約・節約する、効率よく利用する		
-ecstasy	8	【名】無我夢中、恍惚、大喜び		
 ecstatic	9	【形】われを忘れた、恍惚とした、熱狂的な		
 eddy	12	【名】渦、反主流 【動】渦を巻く		
 edible	7	【形】食用の、魅力的な 【名】食料品		
 edifice	11	【名】大建造物、体系		
 edify	12	【動】啓発する、道徳心を養う		
 editorial	7	【名】社説、論説 【形】編集の		
-educated	5	【形】教育を受けた、教養のある		
-educator	5	【名】教育者、教育家		
-eel	8	【名】ウナギ、捕らえどころのない人		
 eerie	10	【形】薄気味の悪い、異常な		
 efface	12	【動】こすり消す、ぬぐい去る		
 effectively	5	【副】効果的に、事実上		
-effectiveness	6	【名】有効性		
 effervescent	12	【形】快活な、発泡性の		
 efficacy	11	【名】有効性、効き目		
 effortless	9	【形】努力を要しない、楽な		
 egalitarian	12	【形】平等主義の 【名】平等主義者		
 eggplant	6	【名】ナス		
-ego	6	【名】自我、うぬぼれ		
 egocentric	10	【形】自己中心的な 【名】自分本位な人		
-egoist	9	【名】自分本位の人、利己主義者		
-egoistic	9	【形】利己的な		
-egotistic	10	【形】利己的な、わがままな		
-eject	10	【動】取り出す、追い出す、噴出する、脱出する		
 elaboration	9	【名】入念に作り上げること、推敲		
 elastic	7	【形】ゴムの、しなやかな、はずむ 【名】ゴムひも		
 elasticity	9	【名】弾力性、融通性		
@@ -1579,15 +1553,12 @@ electron	6	【名】電子
 electronic	4	【形】電子の		
 electronics	5	【名】電子工学、電子技術		
 elegance	8	【名】優雅、上品、正確さ		
-elegant	5	【形】優雅な、上品な、素晴らしい		
 elemental	9	【形】基本的な、まったく単純な、要素の		
 elementary	5	【形】初歩の、簡単な		
 elf	11	【名】いたずら者、小さな妖精		
-elicit	10	【動】引き出す、聞き出す		
 eligibility	11	【名】被選挙権、適任性、被任命資格		
 eligible	10	【形】選ばれるのにふさわしい		
 eliminate	6	【動】除く、排除する		
-elite	5	【名】選ばれた人々、エリート 【形】えり抜きの		
 eloquence	8	【名】雄弁、能弁、力強さ、巧みさ		
 eloquent	7	【形】雄弁な、よく表している		
 elucidate	12	【動】解明する、明瞭にする		
@@ -1597,12 +1568,7 @@ emanate	11	【動】出てくる、生じる、発する
 emancipate	12	【動】解放する		
 embargo	10	【名】通商停止、出入港の禁止命令		
 embark	7	【動】乗船させる、積み込む、乗り込む、着手する		
-embarrass	5	【動】ろうばいさせる、まごつかせる、恥ずかしい思いをさせる		
-embarrassed	6	【形】恥ずかしい、ばつの悪い		
-embarrassing	5	【形】まごつかせるような、やっかいな		
-embarrassment	6	【名】きまり悪さ、困惑、狼狽		
 embassy	5	【名】大使館、大使の職		
-embed	10	【動】埋め込む、植える		
 embellish	12	【動】話をおもしろくする、誇張する、美しく飾る		
 embezzle	12	【動】横領する		
 embroider	10	【動】刺しゅうを施す、潤色する		
@@ -1614,10 +1580,6 @@ emigrant	9	【名】移民、出稼ぎ人
 eminence	10	【名】高貴、卓越、著名、枢機卿		
 eminent	7	【形】著名な、地位の高い		
 emissary	12	【名】使節、スパイ 【形】使者の		
-emission	5	【名】放出、放射		
-emit	5	【動】出す、放つ、発令する、立てる、口に出す		
-emotionally	5	【副】感情的に、情緒的に		
-empathy	7	【名】共感、感情移入		
 emphatic	8	【形】強調された、強勢のある、明らかな		
 emphatically	8	【副】強調して、断固として、断然		
 empirical	10	【形】経験による、実地経験主義の		
@@ -1630,11 +1592,9 @@ enclave	11	【名】少数民族の居住地、飛び地、飛び領土
 enclose	4	【動】同封する、取り囲む		
 enclosure	7	【名】囲い地、包囲、同封		
 encompass	10	【動】包み込む、包囲する		
-encore	7	【名】アンコール、再放送		
 encouragement	6	【名】激励、励みになるもの		
 encouraging	8	【形】勇気づける、励みになる		
 encroach	12	【動】侵入する、侵害する		
-encyclopedia	8	【名】百科事典		
 endanger	6	【動】危険にさらす、危うくする		
 endangered	10	【形】絶滅寸前の、危険にさらされた		
 endear	11	【動】いとしいと思わせる、慕わせる		
@@ -1644,7 +1604,6 @@ endowment	8	【名】寄付、素質、基金、基本財産
 enforcement	7	【名】施行、実施、強制、主張		
 engage	4	【動】従事する、引く、雇う		
 engaged	4	【形】予約済みの、婚約中の		
-engagement	4	【名】約束、婚約、雇用		
 engaging	7	【形】魅力のある、人を引きつける		
 engender	12	【動】生じさせる、引き起こす		
 engulf	10	【動】飲み込む、巻き込む		
@@ -1668,9 +1627,6 @@ entourage	11	【名】側近の人々、周囲
 entrench	11	【動】揺るぎないものにする、堀を造って囲む、侵害する		
 entrepreneur	8	【名】企業家、請負人		
 enunciate	12	【動】明確に発音する・述べる		
-envelop	7	【動】つつむ、くるむ		
-envious	6	【形】うらやましそうな、ねたんでいる		
-environmentalist	9	【名】環境保護主義者、環境問題専門家		
 environs	12	【名】近郊、周辺地域、環境		
 envisage	10	【動】心に描く、予想する		
 envoy	10	【名】使節、使者		
@@ -1684,20 +1640,16 @@ epoch	7	【名】時代、時期、新時代
 equality	5	【名】平等		
 equalize	10	【動】平等にする、等しくする		
 equation	6	【名】方程式、平均化		
-equator	7	【名】赤道		
 equestrian	12	【形】馬術の 【名】乗馬者		
 equilibrium	8	【名】つり合い、平静、落ち着き		
 equip	6	【動】備える、用意する、装備する		
 equity	8	【名】公平さ、公明正大、無私無欲		
 equivalent	6	【形】同等の、（～に）相当する 【名】同等のもの		
 eradicate	10	【動】全滅させる、取る		
-erase	5	【動】ぬぐい消す、削除する		
 erect	5	【形】直立した、垂直の 【動】直立させる、勃起する		
 erection	10	【名】建設、直立、起立		
 erode	10	【動】浸食する、むしばむ		
 erosion	10	【名】浸食、腐食、侵害		
-erotic	7	【形】性愛を扱った、官能的な		
-err	10	【動】過ちを犯す、思い誤る		
 errand	5	【名】使い、用足し		
 erratic	10	【形】とっぴな、常軌を逸した		
 erroneous	9	【形】間違った、誤りのある		
@@ -1705,18 +1657,14 @@ erupt	9	【動】噴火する、噴出する
 eruption	8	【名】発生、爆発、発疹		
 escapade	12	【名】いたずら、とっぴな行為、脱出		
 eschew	11	【動】控える、避ける		
-escort	7	【名】護衛団、付添人 【動】護衛する、エスコートする		
 esophagus	12	【名】食道		
 esoteric	12	【形】難解な、深遠な、秘密の		
 espionage	11	【名】スパイ行為、偵察		
 espouse	11	【動】支持する、信奉する		
 etch	11	【動】くっきり描く、刻み込む、エッチングする		
-eternal	5	【形】永遠の、不変の、絶え間ない		
-eternally	6	【副】永久に、絶えず、変わることなく		
 eternity	8	【名】永遠、無限		
 ethereal	11	【形】霊妙な、軽やかな、極めて優美な		
 ethic	9	【名】倫理、道徳		
-ethnic	5	【形】民族の、エスニックの		
 ethos	11	【名】精神、気風、風潮、道徳的規範		
 etiquette	8	【名】礼儀、エチケット、交際法		
 euphemism	11	【名】婉曲語句、婉曲語法		
@@ -1724,8 +1672,6 @@ euphoria	11	【名】強い高揚感、幸福感
 euthanasia	11	【名】安楽死		
 evacuate	9	【動】立ち退かせる、排出する、避難する		
 evade	9	【動】逃れる、避ける		
-evaluate	5	【動】評価する、見積もる		
-evaluation	5	【名】評価、見積もり		
 evangelical	11	【形】福音（主義）の 【名】福音主義者（E_）		
 evangelist	11	【名】伝道者、福音を説く人、主義の熱烈な支持者		
 evaporate	9	【動】蒸発する、消滅する		
@@ -1738,8 +1684,6 @@ evergreen	9	【形】常緑の、いつまでも新鮮な
 everlasting	6	【形】永遠の、不朽の 【名】永続		
 evict	12	【動】立ち退かせる、追い払う、取り戻す		
 eviction	12	【名】立ち退き、取り戻し		
-evidently	5	【副】明らかに、どうやら		
-evolution	5	【名】進化、発展		
 evolutionary	9	【形】進化の、進化論による		
 ewe	12	【名】成長した雌羊		
 exacerbate	11	【動】悪化させる、悪い感情を募らせる、憤慨させる		
@@ -1747,11 +1691,8 @@ exacting	11	【形】骨の折れる、厳しい
 exaggerate	5	【動】誇張する		
 exaggeration	6	【名】誇張		
 excavate	12	【動】掘る、発掘する		
-exceed	5	【動】上回る、限界を越える		
 exceeding	9	【形】過度の、非常な、異常な		
 exceedingly	6	【副】非常に		
-excel	7	【動】秀でている、勝る		
-excellence	6	【名】優秀、優越		
 exceptional	6	【形】例外的な、普通でない、優秀な		
 exceptionally	8	【副】例外的に、異常に、非常に		
 excerpt	9	【名】抜粋、引用 【動】抜粋する		
@@ -1759,7 +1700,6 @@ excessive	5	【形】過度の、極端な
 exchequer	12	【名】財務、資金、国庫		
 exclaim	5	【動】叫ぶ		
 exclamation	7	【名】感嘆の声、感嘆文		
-excursion	6	【名】遠足、小旅行 【動】小旅行をする		
 execution	7	【名】死刑執行、遂行、できばえ		
 executive	5	【名】経営幹部、重役、行政官		
 exemplar	12	【名】手本、典型、代表例		
@@ -1786,7 +1726,6 @@ exponentially	12	【副】加速度的に
 exporter	6	【名】輸出業者、輸出国		
 exposition	10	【名】展示会、解説		
 expound	12	【動】理論を詳しく説く、経典を解釈する		
-expressway	7	【名】高速道路		
 expulsion	10	【名】除名、追放		
 exquisite	7	【形】非常に美しい、申し分のない、洗練された		
 extant	12	【形】現存の		
@@ -1804,12 +1743,10 @@ exult	11	【動】大喜びする、勝ち誇る
 eyesight	7	【名】視力、視覚		
 eyewitness	8	【名】目撃者 【動】目撃する		
 fable	6	【名】寓話		
-fabulous	9	【形】驚くべき、とても素晴らしい、法外な		
 facade	10	【名】うわべ、正面		
 facet	10	【名】宝石などの小平面、様相		
 facetious	12	【形】冗談で言った、おかしな、軽薄な		
 facile	10	【形】軽快な、手軽な、容易な		
-facility	5	【名】施設、機関、便利さ		
 faculty	6	【名】能力、機能、学部、学部の全教員		
 fad	8	【名】一時的流行、～熱、流行のもの、気むずかしさ		
 faint	4	【形】ぼんやりした、かすかな 【動】気が遠くなる		
@@ -1819,7 +1756,6 @@ faithfully	5	【副】忠実に、誠実に、きちんと
 faithless	9	【形】忠実でない、信仰心のない、当てにならない		
 fallacy	12	【名】間違った考え、誤った議論		
 falsehood	7	【名】うそ		
-famine	5	【名】飢え、飢きん		
 fan	2	【名】ファン、扇 【動】あおぐ、かき立てる		
 farce	11	【名】茶番、笑劇 【動】面白く味つけする		
 fare	2	【名】乗車料金、料理 【動】やっていく		
@@ -1827,9 +1763,6 @@ farewell	5	【名】別れのことば 【間】さようなら
 farmhouse	5	【名】農場内の家屋、農家		
 farmland	6	【名】農地、耕地		
 farmyard	11	【名】農家の庭		
-fascinate	6	【動】魅惑する		
-fascinating	5	【形】魅惑的な、うっとりさせる		
-fascination	7	【名】魅力、魅了された状態		
 fatality	8	【名】災害、災難、死亡者、運命		
 fateful	10	【形】運命を決する、破滅的な、宿命的な		
 fatherland	9	【名】祖国		
