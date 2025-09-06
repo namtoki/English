@@ -63,9 +63,57 @@
   - `on second thought`             ([Neutral] 考え直してみると)    On second thought, let's stay home.
   - `come to think of it`           ([Casual] そういえば)           Come to think of it, he was right.
 
-## TO RECAP
-> `to recap` /tuː ˈriːkæp/          ([Neutral] 要約すると)          To recap, we have three main goals.
-- `to revisit` /tuː ˌriːˈvɪzɪt/     ([Formal] 再検討すると)         To revisit our earlier discussion, I think we missed something.
+## TO SUM UP / THE BOTTOM LINE IS /
+> `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.
+  > `in short` /ɪn ʃɔːrt/           ([Neutral] 要するに)            In short, we need to work harder.
+  > `simply put`                    ([Neutral] 簡単に言えば)        Simply put, we need to improve communication.
+  > `to recap` /tuː ˈriːkæp/        ([Neutral] 要約すると)          To recap, we have three main goals.
+  > `the bottom line is`            ([Casual] 要は)                 The bottom line is we need more funding.
+  - `in a nutshell`                 ([Neutral] 手短に言えば)        In a nutshell, the project was a success.
+  - `long story short`              ([Casual] 手短に言うと)         Long story short, we won the contract.
+    - `to make a long story short`  ([Casual] 手短に言うと)         To make a long story short, I got the job.
+  - `in brief` /ɪn briːf/           ([Neutral] 簡潔に言うと)        In brief, the plan failed.
+  - `to put it simply`              ([Neutral] 簡単に言うと)        To put it simply, we're out of time.
+  - `put simply`                    ([Neutral] 簡単に言えば)        Put simply, it won't work.
+
+## IF YOU DON'T MIND / IF IT WORKS FOR YOU
+> `if you don't mind`               ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
+  > `if that's ok (with you)`       ([Casual] それでよければ)       I'll call you tomorrow if that's ok with you.
+  > `if it works for you`           ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
+    - `if that works for you`       ([Neutral] それで都合がよければ) How about Tuesday, if that works for you?
+  - `if that's alright`             ([Neutral] それで大丈夫なら)    I'll arrive at 10, if that's alright.
+  - `if you're ok with that`        ([Casual] それでよければ)       We'll split the bill, if you're ok with that.
+  - `if that's fine (with you)`     ([Neutral] それでいいなら)      Let's meet at noon if that's fine with you.
+  - `unless you mind`               ([Neutral] 構わなければ)        I'll join you, unless you mind.
+  - `if you wouldn't mind`          ([Polite] よろしければ)         If you wouldn't mind, I'd like to review this.
+  - `if it's not too much trouble`  ([Polite] ご迷惑でなければ)     If it's not too much trouble, could you help me?
+  - `if you're comfortable with that` ([Polite] それで問題なければ) I'll handle this part, if you're comfortable with that.
+  - `if you have no objection`      ([Formal] ご異議なければ)       If you have no objection, we'll proceed.
+  - `if it suits you`               ([Formal] ご都合がよければ)     We can reschedule if it suits you better.
+
+## other
+- `to be honest`                     ([Casual] 正直に言うと)         To be honest, I didn't like the movie.
+
+- `much to the relief of O`          ([Neutral] Oが安心したことには) Much to the relief of the team, the deadline was extended.
+
+- `if I'm not mistaken`              ([Neutral] 間違っていなければ)  If I'm not mistaken, the meeting is at 3 p.m.
+- `off the top of my head`           ([Casual] 思いつくままに)       Off the top of my head, I think it's wrong.
+- `without thinking too much`        ([Casual] あまり考えずに)       Without thinking too much, I'd say we need more time.
+
+- `just out of curiosity`            ([Casual] 単に興味から)         Just out of curiosity, why did you come to Japan?
+
+- `depending on how you look at it`  ([Neutral] 考え方によっては)    Depending on how you look at it, this law is either beneficial or harmful.
+- `if you think about it`            ([Casual] 考えてみると)         It's crazy how we can communicate like this, if you think about it.
+
+- `in my defense`                    ([Neutral] 言い訳すると)        In my defense, it was dark and he was a very pretty guy!
+- `if I may explain myself`          ([Formal] 言い訳しますと)       If I may explain myself, my comment was not meant to be offensive.
+- `this might be just me, but`       ([Casual] 自分だけかもだけど)   This might be just me, but I thought the movie was kind of boring.
+- `just to be clear`                 ([Neutral] 誤解のないよう)      Just to be clear, I'm not blaming anyone here.
+- `it may sound like`                ([Neutral] ～と聞こえるかも)    It may sound like I'm being self-centered here, but...
+- `you'd think (that) S V, but`      ([Neutral] ～と思うかもだが)    You'd think Japan would be really technologically advanced, but...
+- `don't get me wrong, but`          ([Casual] 誤解しないで)         Don't get me wrong, but I think we should try a different approach.
+
+- `I hate to admit it, but`          ([Neutral] 認めたくないけど)    I hate to admit it, but I might need your help.
 
 ## AS I MENTIONED EARLIER / LIKE YOU SAID
 > `like S Vpast`                    (S が V した通り)
@@ -123,6 +171,7 @@
 - `let's say` /lets seɪ/            ([Casual] 仮に～としよう)       Let's say 5 o'clock. Does that work?
 - `in the event that`               ([Formal] ～の場合は)           In the event that it rains, we'll move inside.
 - `on condition that`               ([Formal] ～という条件で)       You may leave on condition that you return by 5.
+- `all things considered`            ([Formal] 全体的に考えると)     All things considered, that was a successful event.
 
 ## IF ANYTHING
 > `if anything`                     ([Casual] どちらかと言えば)     If anything, this situation calls for more caution.
@@ -228,6 +277,12 @@
 - `probably` S V                    ([Neutral] おそらく～)          She's probably stuck in traffic.
 - `supposedly` S V                  ([Neutral] ～らしい)            Supposedly, he's an expert in this field.
 - `be sure to` /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
+
+- `that's a fair point, but`         ([Neutral] それはもっともだが)  That's a fair point, but we need to consider other factors.
+- `that may be true, but`            ([Neutral] それはそうかもだが)  That may be true, but I have some concerns.
+- `you (may) have a point, but`      ([Neutral] 一理あるが)          You may have a point there, but I still believe the plan is feasible.
+- `I see your point, but`            ([Neutral] 仰ることは分かるが)  I see your point, but I have a slightly different view.
+- `with all due respect`             ([Formal] 失礼を承知で)         With all due respect, I believe your estimate is overly optimistic.
 
 ## PREFER
 - `more A than B`                   ([Neutral] BよりもむしろA)      She's more talented than lucky.
@@ -550,3 +605,7 @@
 - `essentially` /ɪˈsenʃəli/         ([Neutral] 本質的に)            Essentially, it's a communication problem.
 - `the bottom line is`              ([Casual] 要は)                 The bottom line is we need more funding.
 - `long story short`                ([Casual] 手短に言うと)         Long story short, we won the contract.
+
+- [ ] `, each with O`                       ([Neutral] それぞれがOを持っている) Instant cameras, `each with` their own unique shape and design.
+- [ ] `, not just O`                        ([Neutral] O だけじゃなくて) [Link](../../output/business/20250605.md)
+
