@@ -1,6 +1,6 @@
 # Conflict
 
-## PHYSICAL (HURT / SMACK)
+## PHYSICAL ATTACK (HURT / SMACK)
 > `hurt` /hɜːrt/                    ([Neutral] 傷つける)            You hurt my feelings.
   - `upset` /ʌpˈset/                ([Neutral] 動揺させる)          The news upset everyone.
   - `offend` /əˈfend/               ([Neutral] 不快にさせる)        I didn't mean to offend you.
@@ -17,7 +17,7 @@
   - `wallop` /ˈwɒləp/               ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
   - `thwack` /θwæk/                 ([Casual] 強打音)               The thwack of the bat hitting the ball.
 
-## HEART (WORRY / BOTHER / FRUSTRATE / ENBARRASS)
+## PSYCHOLOGICAL ATTACK (WORRY / BOTHER / FRUSTRATE / EMBARRASS)
 > `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.
   - `concern` /kənˈsɜːrn/           ([Neutral] 心配させる)          Rising prices concern everyone.
   - `disturb` /dɪˈstɜːrb/           ([Neutral] 動揺させる)          Don't disturb him while working.
@@ -69,7 +69,7 @@
   - `dishonor` /dɪsˈɑnər/           ([Formal] 名誉を傷つける)       The scandal dishonored his reputation.
   - `mortify` /ˈmɔrtəfaɪ/           ([Writing] 死ぬほど恥ずかし)    I was mortified by my mistake.
 
-## ORAL (INTERFERE WITH / MESS WITH / ARGUE / LAUGH AT / IGNORE)
+## VERBAL ATTACK (INTERFERE WITH / MESS WITH / ARGUE / LAUGH AT / IGNORE)
 > `interfere with`                  ([Neutral] ～に干渉する)        Don't interfere with their plans.
   - `interrupt` /ˌɪntəˈrʌpt/        ([Neutral] 邪魔する、中断する)  Don't interrupt me while I'm talking.
   - `get in the way`                ([Casual] 邪魔する)             Your car is getting in the way.
@@ -120,7 +120,7 @@
   - `ostracize` /ˈɑːstrəsaɪz/       ([Formal] 追放する、排斥する)   They ostracized him from the group.
     - `ostracism` /ˈɑːstrəsɪzəm/    ([Formal] 追放、排斥)           The ostracism was painful.
 
-## CONFLICT (FIGHT / CONFRONT / FACE OFF)
+## CONFLICT (FIGHT / ATTACK / CONFRONT / FACE OFF)
 > `fight` /faɪt/                    ([Neutral] 戦う、喧嘩する)      They fought over money.
   - `fight with`                    ([Neutral] ～と戦う)            He fought with his brother.
   - `conflict` /kənˈflɪkt/          ([Neutral] 対立する)            Their interests conflict.
@@ -134,6 +134,11 @@
   - `tussle` /ˈtʌsəl/               ([Neutral] 取っ組み合う)        The boys tussled on the playground.
   - `grapple` /ˈɡræpəl/             ([Neutral] 格闘する)            They grappled on the ground.
   - `snarl` /snɑːrl/                ([Neutral] もつれ、うなる)      Traffic is in a snarl downtown.
+> `attack` /əˈtæk/                  ([Neutral] 攻撃する)            The enemy attacked at dawn.
+  - `assault` /əˈsɔːlt/             ([Neutral] 襲撃する)            He was charged with assault.
+  - `strike` /straɪk/               ([Neutral] 打つ、攻撃する)      The army will strike at midnight.
+  - `raid` /reɪd/                   ([Neutral] 襲撃する)            Police raided the building.
+  - `ambush` /ˈæmbʊʃ/               ([Neutral] 待ち伏せ攻撃する)    They ambushed the convoy.
 > `confront` /kənˈfrʌnt/            ([Neutral] 立ち向かう)          She confronted him about the lies.
   - `challenge` /ˈtʃælɪndʒ/         ([Neutral] 挑戦する)            He challenged her to a debate.
   - `oppose` /əˈpoʊz/               ([Neutral] 反対する)            They opposed the new policy.
@@ -149,7 +154,7 @@
   - `square up to`                  ([British] 立ち向かう)          He squared up to his opponent.
   - `eyeball` /ˈaɪbɔːl/             ([Casual] にらみ合う)           The two teams eyeballed each other.
 
-## CRIMINAL (PROVOKE / KIDNAP / GRAB / HOLD)
+## CRIMINAL (PROVOKE / KIDNAP / GRAB / HOLD / ABUSE / FAKE)
 > `provoke` /prəˈvoʊk/              ([Neutral] 引き起こす)          His words provoked anger.
   > `incite` /ɪnˈsaɪt/              ([Neutral] 扇動する)            The speech incited violence.
   > `instigate` /ˈɪnstɪɡeɪt/        ([Neutral] 扇動する)            He instigated a rebellion.
@@ -196,81 +201,62 @@
   - `shut up` /ʃʌt ʌp/              ([Casual] 閉じ込める)           He shut them up in the cellar.
   - `tie up` /taɪ ʌp/               ([Casual] 縛る)                 The robbers tied up the guards.
   - `intern` /ɪnˈtɜːrn/             ([Formal] 抑留する)             They interned enemy aliens during the war.
+> `abuse` /əˈbjuːz/                 ([Neutral] 虐待する、濫用する)  Don't abuse your authority.
+  - `mistreat` /ˌmɪsˈtriːt/         ([Neutral] 虐待する 粗末に扱う) Don't mistreat animals.
+  - `maltreat` /ˌmælˈtriːt/         ([Formal] 虐待する、酷使する)   They maltreated the prisoners.
+> `abuse` /əˈbjuːz/                 ([Neutral] 悪用する、濫用する)  She abused her position of power.
+  - `misuse` /ˌmɪsˈjuːz/            ([Neutral] 誤用する、悪用する)  He misused company funds.
+  - `exploit` /ɪkˈsplɔɪt/           ([Neutral] 悪用する、利用する)  They exploited the loophole in the system.
+  - `manipulate` /məˈnɪpjʊleɪt/     ([Neutral] 操作する、悪用する)  He manipulated the data to his advantage.
+  - `take advantage of`             ([Neutral] 悪用する、つけ込む)  Don't take advantage of his kindness.
+  - `pervert` /pəˈvɜrt/             ([Formal] 悪用する、歪める)     They perverted the course of justice.
+  - `corrupt` /kəˈrʌpt/             ([Formal] 堕落させる、悪用する) Power corrupts those who wield it.
+  - `distort` /dɪˈstɔrt/            ([Neutral] 歪める、悪用する)    The media distorted the facts.
+  - `twist` /twɪst/                 ([Neutral] 歪める、悪用する)    He twisted her words against her.
+> `fake` /feɪk/                     ([Neutral] 偽造する、装う)      Don't fake your identity.
+  - `forge` /fɔːrdʒ/                ([Neutral] 偽造する)            He forged the signature.
+  - `falsify` /ˈfɔːlsɪfaɪ/          ([Formal] 偽造する、反証する)   He falsified the documents.
+  - `counterfeit` /ˈkaʊntərfɪt/     ([Formal] 偽造する)             They counterfeited the money.
+  - `fabricate` /ˈfæbrɪkeɪt/        ([Formal] でっち上げる)         He fabricated the entire story.
+  - `doctor` /ˈdɑːktər/             ([Neutral] 改ざんする)          Someone doctored the photos.
+  - `tamper with` /ˈtæmpər wɪð/     ([Neutral] 改ざんする)          Don't tamper with the evidence.
+  - `manipulate` /məˈnɪpjʊleɪt/     ([Neutral] 操作する)            He manipulated the test results.
+  - `alter` /ˈɔːltər/               ([Neutral] 変更する)            They altered the contract terms.
+> `trick` /trɪk/                    ([Neutral] だます、トリック)    He tricked me into paying more.
+  - `fool` /fuːl/                   ([Casual] だます、ばか者)       You can't fool me twice.
+  - `deceive` /dɪˈsiːv/             ([Neutral] 欺く、だます)        Don't try to deceive me.
+  - `mislead` /ˌmɪsˈliːd/           ([Neutral] 誤解させる)          The advertisement misled consumers.
+  - `manipulate` /məˈnɪpjəleɪt/     ([Neutral] 操る、操作する)      She manipulated him into lending her money.
+  - `con` /kɒn/                     ([Casual] だます、詐欺)         He conned them out of their money.
+  - `cheat` /tʃiːt/                 ([Neutral] だます、不正をする)  Don't cheat on the exam.
+  - `swindle` /ˈswɪndəl/            ([Neutral] 詐取する)            He swindled her out of her savings.
+  - `dupe` /djuːp/                  ([Neutral] だます、カモ)        They duped him into signing the contract.
+  - `exploit` /ɪkˈsplɔɪt/           ([Neutral] 搾取する、利用する)  They exploited workers for cheap labor.
+  - `scheme` /skiːm/                ([Neutral] 企む、陰謀を企てる)  They schemed to take over the company.
+  - `bamboozle` /bæmˈbuːzəl/        ([Casual] だます、煙に巻く)     Don't let them bamboozle you.
+  - `hoodwink` /ˈhʊdwɪŋk/           ([Writing] だます、欺く)        They hoodwinked investors out of millions.
+  - `gull` /ɡʌl/                    ([Neutral] だます、欺く)        He was gulled into buying fake tickets.
+  - `engineer` /ˌendʒɪˈnɪr/         ([Neutral] 画策する、仕組む)    They engineered his downfall.
+  - `maneuver` /məˈnuːvər/          ([Neutral] 策略を用いる)        He maneuvered himself into a position of power.
+  - `finesse` /fɪˈnes/              ([Formal] 巧みに扱う)           She finessed the situation perfectly.
 
-## MISTREAT
-- `abuse` /əˈbjuːz/                  ([Neutral] 虐待する、濫用する)  Don't abuse your authority.
-  - `abused` /əˈbjuːzd/              ([Neutral] 虐待された)          The abused children needed help.
-  - `abusing` /əˈbjuːzɪŋ/           ([Neutral] 虐待している)        He's abusing his power.
-  - `abusive` /əˈbjuːsɪv/           ([Neutral] 虐待的な)            His abusive behavior was reported.
-  - `abuse` /əˈbjuːs/                ([Neutral] 虐待、濫用)          Child abuse is a serious crime.
-  - `abuser` /əˈbjuːzər/             ([Neutral] 虐待者)              The abuser was arrested.
-- `mistreat` /ˌmɪsˈtriːt/           ([Neutral] 虐待する、粗末に扱う) Don't mistreat animals.
-  - `mistreated` /ˌmɪsˈtriːtɪd/     ([Neutral] 虐待された)          The mistreated workers filed a complaint.
-  - `mistreatment` /ˌmɪsˈtriːtmənt/ ([Neutral] 虐待、不当な扱い)    The mistreatment of prisoners was exposed.
-- `maltreat` /ˌmælˈtriːt/           ([Formal] 虐待する、酷使する)   They maltreated the prisoners.
-  - `maltreated` /ˌmælˈtriːtɪd/     ([Formal] 虐待された)           The maltreated animals were rescued.
-  - `maltreatment` /ˌmælˈtriːtmənt/ ([Formal] 虐待、酷使)           The maltreatment was documented.
-- `misuse` /ˌmɪsˈjuːz/              ([Neutral] 誤用する、悪用する)  He misused company funds.
-  - `misused` /ˌmɪsˈjuːzd/          ([Neutral] 誤用された)          The misused data led to wrong conclusions.
-  - `misuse` /ˌmɪsˈjuːs/            ([Neutral] 誤用、悪用)          The misuse of drugs is dangerous.
-- `violate` /ˈvaɪəleɪt/             ([Formal] 違反する、侵害する)   He violated the company rules.
-  - `violated` /ˈvaɪəleɪtɪd/        ([Formal] 違反した、侵害された) Her rights were violated.
-  - `violating` /ˈvaɪəleɪtɪŋ/       ([Formal] 違反している)         They're violating the agreement.
-  - `violation` /ˌvaɪəˈleɪʃən/      ([Formal] 違反、侵害)           The violation resulted in a fine.
-  - `violator` /ˈvaɪəleɪtər/        ([Formal] 違反者)               Traffic violators will be prosecuted.
-
-## DESTROY
-- `wreck` /rɛk/                      ([Neutral] 破壊する、難破船)    The storm will wreck the ship.
-  - `wrecked` /rɛkt/                  ([Neutral] 破壊された)          The wrecked car was towed away.
-  - `wrecking` /ˈrɛkɪŋ/               ([Neutral] 破壊すること)        The wrecking ball demolished the building.
-  - `wreckage` /ˈrɛkɪdʒ/              ([Neutral] 残骸)                They found wreckage from the plane.
-- `destroyed` /dɪˈstrɔɪd/             ([Neutral] 破壊された)          The building was completely destroyed.
-- `damaged` /ˈdæmɪdʒd/                ([Neutral] 損傷した)            The damaged car needs repair.
-- `demolished` /dɪˈmɑːlɪʃt/           ([Neutral] 取り壊された)        The old factory was demolished.
-- `shattered` /ˈʃætərd/               ([Neutral] 粉砕された)          The window was shattered by the ball.
-- `broken` /ˈbroʊkən/                 ([Neutral] 壊れた)              The broken chair cannot be used.
-
-- `falsify` /ˈfɔːlsɪfaɪ/             ([Formal] 偽造する、反証する)   He falsified the documents.
-  - `falsification` /ˌfɔːlsɪfɪˈkeɪʃən/ ([Formal] 偽造、改ざん)        The falsification was discovered.
-  - `falsified` /ˈfɔːlsɪfaɪd/        ([Formal] 偽造された)           The falsified records were destroyed.
-
-- `discredit` /dɪsˈkredɪt/           ([Neutral] 信用を失わせる)      The scandal discredited the politician.
-  - `discredited` /dɪsˈkredɪtɪd/     ([Neutral] 信用を失った)        His theories are now discredited.
-
-## Deception and Fraud
-
-- `gull` /ɡʌl/                      ([Neutral] だます、欺く)           He was gulled into buying fake tickets.
-  - `gullible` /ˈɡʌlɪbəl/           ([Neutral] だまされやすい)      Don't be so gullible; verify the facts first.
-  - `gullibility` /ˌɡʌlɪˈbɪləti/    ([Neutral] だまされやすさ)      His gullibility made him an easy target.
-- `deceive` /dɪˈsiːv/               ([Neutral] 欺く、だます)        Don't try to deceive me.
-  - `deception` /dɪˈsepʃən/         ([Neutral] 欺瞞、詐欺)          The deception was discovered.
-  - `deceptive` /dɪˈseptɪv/         ([Neutral] 人を欺く)            His appearance was deceptive.
-  - `deceit` /dɪˈsiːt/              ([Formal] 欺瞞、虚偽)           She was hurt by his deceit.
-  - `deceitful` /dɪˈsiːtfəl/        ([Formal] 不誠実な、詐欺的な)   His deceitful behavior ruined their friendship.
-- `dupe` /djuːp/                    ([Neutral] だます、カモ)        They duped him into signing the contract.
-- `fool` /fuːl/                     ([Casual] だます、ばか者)       You can't fool me twice.
-  - `foolish` /ˈfuːlɪʃ/             ([Neutral] 愚かな)              It was foolish to trust him.
-  - `foolproof` /ˈfuːlpruːf/         ([Neutral] 絶対確実な)          This plan is foolproof.
-  - `foolhardy` /ˈfuːlhɑːdi/         ([Neutral] 向こう見ずな)        It was foolhardy to go alone.
-- `trick` /trɪk/                    ([Neutral] だます、トリック)    He tricked me into paying more.
-  - `trickery` /ˈtrɪkəri/           ([Neutral] ペテン、策略)        They won through trickery.
-  - `tricky` /ˈtrɪki/               ([Casual] ずるい、扱いにくい)   That's a tricky question.
-- `mislead` /ˌmɪsˈliːd/             ([Neutral] 誤解させる)          The advertisement misled consumers.
-  - `misleading` /ˌmɪsˈliːdɪŋ/      ([Neutral] 誤解を招く)          The information was misleading.
-- `hoodwink` /ˈhʊdwɪŋk/             ([Writing] だます、欺く)        They hoodwinked investors out of millions.
-- `bamboozle` /bæmˈbuːzəl/          ([Casual] だます、煙に巻く)     Don't let them bamboozle you.
-- `swindle` /ˈswɪndəl/              ([Neutral] 詐取する)            He swindled her out of her savings.
-  - `swindler` /ˈswɪndlər/          ([Neutral] 詐欺師)              The swindler was finally caught.
-- `con` /kɒn/                       ([Casual] だます、詐欺)         He conned them out of their money.
-  - `con artist` /kɒn ˈɑːtɪst/      ([Casual] 詐欺師)               The con artist targeted elderly people.
-- `manipulate` /məˈnɪpjəleɪt/       ([Neutral] 操る、操作する)      She manipulated him into lending her money.
-  - `manipulation` /məˌnɪpjəˈleɪʃən/ ([Neutral] 操作、操り)          His manipulation of the data was discovered.
-  - `manipulative` /məˈnɪpjələtɪv/   ([Neutral] 人を操る)            She's very manipulative with her friends.
-  - `manipulator` /məˈnɪpjəleɪtər/   ([Neutral] 操る人)              He's a skilled manipulator of public opinion.
-- `exploit` /ɪkˈsplɔɪt/             ([Neutral] 搾取する、利用する)  They exploited workers for cheap labor.
-  - `exploitation` /ˌeksplɔɪˈteɪʃən/ ([Neutral] 搾取、利用)          The exploitation of resources must stop.
-- `maneuver` /məˈnuːvər/             ([Neutral] 策略を用いる)        He maneuvered himself into a position of power.
-- `finesse` /fɪˈnes/                 ([Formal] 巧みに扱う)          She finessed the situation perfectly.
-- `engineer` /ˌendʒɪˈnɪr/           ([Neutral] 画策する、仕組む)    They engineered his downfall.
-- `scheme` /skiːm/                   ([Neutral] 企む、陰謀を企てる)  They schemed to take over the company.
-
+## BREAK / DAMAGE
+> `break` /breɪk/                   ([Neutral] 破る、違反する)      Don't break the rules.
+  - `violate` /ˈvaɪəleɪt/           ([Formal] 違反する、侵害する)   He violated the company rules.
+  - `breach` /briːtʃ/               ([Formal] 違反する、破る)       They breached the contract terms.
+  - `infringe` /ɪnˈfrɪndʒ/          ([Formal] 侵害する、違反する)   This infringes on our privacy rights.
+  - `transgress` /trænzˈɡres/       ([Formal] 違反する、逸脱する)   He transgressed the moral boundaries.
+  - `contravene` /ˌkɒntrəˈviːn/     ([Formal] 違反する、逆らう)     This contravenes international law.
+  - `flout` /flaʊt/                 ([Formal] 軽蔑して無視する)     They flouted safety regulations.
+  - `defy` /dɪˈfaɪ/                 ([Neutral] 逆らう、無視する)    Don't defy my authority.
+> `damage` /ˈdæmɪdʒ/                ([Neutral] 損傷させる)          The storm damaged many houses.
+  - `destroy` /dɪˈstrɔɪ/            ([Neutral] 破壊する)            The fire destroyed the building.
+  - `ruin` /ˈruːɪn/                 ([Neutral] 台無しにする)        The rain ruined our picnic.
+  - `wreck` /rɛk/                   ([Neutral] 破壊する、難破船)    The storm will wreck the ship.
+  - `demolish` /dɪˈmɑːlɪʃ/          ([Neutral] 取り壊す)            They demolished the old factory.
+  - `shatter` /ˈʃætər/              ([Neutral] 粉砕する)            The ball shattered the window.
+  - `crush` /krʌʃ/                  ([Neutral] 押しつぶす)          The machine crushed the cans.
+  - `smash` /smæʃ/                  ([Neutral] 粉砕する)            He smashed the glass with a hammer.
+  - `devastate` /ˈdevəsteɪt/        ([Formal] 壊滅させる)           The earthquake devastated the city.
+  - `obliterate` /əˈblɪtəreɪt/      ([Formal] 完全に破壊する)       The explosion obliterated the building.
+  - `annihilate` /əˈnaɪəleɪt/       ([Formal] 全滅させる)           The army annihilated the enemy forces.

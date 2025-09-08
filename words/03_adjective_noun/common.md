@@ -624,3 +624,9 @@
 - `enemy` /ˈenəmi/                  ([Neutral] 敵)                  He made many enemies in politics.
 - `foe` /foʊ/                       ([Writing] 敵、仇敵)            The knight faced his mortal foe.
 - `nemesis` /ˈneməsɪs/              ([Writing] 宿敵、因縁の相手)      Superman's nemesis is Lex Luthor.
+
+  - `raider` /ˈreɪdər/              ([Neutral] 襲撃者)              The raiders stole everything.
+  - `striker` /ˈstraɪkər/           ([Neutral] 攻撃者、ストライカー) The striker scored a goal.
+  - `assailant` /əˈseɪlənt/         ([Neutral] 襲撃者)              The assailant fled the scene.
+  - `attacker` /əˈtækər/            ([Neutral] 攻撃者)              The attacker was identified.
+  - `attacking` /əˈtækɪŋ/           ([Neutral] 攻撃的な)            Their attacking strategy failed.
