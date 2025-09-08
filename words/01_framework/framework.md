@@ -1,6 +1,6 @@
 # FRAMEWORK
 
-## TO BEGIN WITH / THEN / NEXT / MOVING ON / ANYWAY / GOING BACK TO / SO
+## TO BEGIN WITH / THEN / NEXT / MOVING ON / ANYWAY / GOING BACK TO / SO / OVERALL
 > `to begin with` /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
   - `first of all` /fɜːrst əv ɔːl/  ([Neutral] まず第一に)          First of all, let me thank you.
   - `firstly` /ˈfɜːrstli/           ([Formal] 第一に)               Firstly, we need to review the budget.
@@ -32,8 +32,10 @@
   - `to circle back`                ([Neutral] 話を戻すと)          Just to circle back to the budget issue.
 > `so` /soʊ/                        ([Casual] それで、さて)         So, what were we talking about?
   - `now` /naʊ/                     ([Neutral] さて、今)            Now, let's begin the presentation.
+> `overall` /ˌoʊvərˈɔːl/            ([Neutral] 全体的に)            Overall, the project was a success.
+  - `all in all` /ɔːl ɪn ɔːl/         ([Neutral] 全体として)          All in all, it was a good experience.
 
-## BY THE WAY / THAT REMINDS ME / ON A SIDE NOTE / OFF-TOPIC
+## BY THE WAY / THAT REMINDS ME / ON A SIDE NOTE / OFF-TOPIC / I'M CURIOUS / OUT OF CURIOSITY
 > `by the way` /baɪ ðə weɪ/         ([Casual] ところで)             By the way, did you see the email?
   - `speaking of` /ˈspiːkɪŋ əv/     ([Casual] そういえば)           Speaking of John, where is he?
   - `actually` /ˈæktʃuəli/          ([Neutral] 実は、ところで)      Actually, I have a question.
@@ -47,8 +49,19 @@
   - `on another note`               ([Neutral] 別の話ですが)        On another note, sales are up this month.
   - `changing the subject`          ([Neutral] 話を変えますが)      Changing the subject, how was your vacation?
   - `to digress` /tuː daɪˈɡres/     ([Formal] 脱線しますが)         To digress for a moment, let me explain this.
+> `I'm curious`                     ([Casual] 気になるんだけど)     I'm curious - how did you learn English?
+  - `just curious`                  ([Casual] ただ気になって)       Just curious, but do you like it here?
+  - `I've been wondering`           ([Casual] ずっと気になってて)   I've been wondering about your accent.
+  - `I can't help but wonder`       ([Neutral] つい気になって)      I can't help but wonder how you manage it all.
+  - `I'm just curious about`        ([Casual] ちょっと気になって)   I'm just curious about your background.
+  - `I was wondering`               ([Casual] ちょっと気になって)   I was wondering if you're free tonight.
+> `out of curiosity`                ([Neutral] 興味から)            Out of curiosity, what's your favorite food?
+  - `just   out of curiosity`       ([Casual] 単に興味から)         Just out of curiosity, why did you come to Japan?
+  - `purely out of curiosity`       ([Neutral] 純粋に興味から)      Purely out of curiosity, how long have you been here?
+  - `for    my own curiosity`       ([Casual] 個人的に気になって)   For my own curiosity, what made you choose this?
+  - `satisfy my curiosity`          ([Neutral] 好奇心を満たして)    Can you satisfy my curiosity about this?
 
-## LOOKING BACK / IN HINDSIGHT / NOW THAT I THINK ABOUT IT / CONSIDERING
+## LOOKING BACK / IN HINDSIGHT / NOW THAT I THINK ABOUT IT / CONSIDERING / OFF THE TOP OF MY HEAD
 > `looking back` /ˈlʊkɪŋ bæk/       ([Neutral] 振り返ると)          Looking back, it was a good decision.
   - `thinking back` /ˈθɪŋkɪŋ bæk/   ([Neutral] 思い返すと)          Thinking back, we made the right choice.
   > `in hindsight` /ɪn ˈhaɪndsaɪt/  ([Neutral] 振り返ってみると)    In hindsight, I should have studied harder.
@@ -71,13 +84,16 @@
   - `if   you look     at it`       ([Casual] 見れば)               If you look at it closely, you'll see the problem.
   - `when you consider    it`       ([Neutral] 考慮すると)          When you consider it, the cost is reasonable.
   - `if   you consider`             ([Neutral] 考慮すれば)          If you consider the alternatives, this is best.
+> `off the top of my head`          ([Casual] 思いつくままに)       Off the top of my head, I think it's wrong.
+  - `from memory`                   ([Neutral] 記憶では)            From memory, it was around noon.
+  - `as I recall`                   ([Neutral] 記憶では)            As I recall, he was tall.
+  - `if I remember correctly`       ([Neutral] 記憶が正しければ)    If I remember correctly, it was Tuesday.
+  - `if memory serves`              ([Neutral] 記憶が正しければ)    If memory serves, we met in 2019.
+  - `without thinking too much`     ([Casual] あまり考えずに)       Without thinking too much, I'd say we need more time.
 
-## OFF THE TOP OF MY HEAD
-- `off the top of my head`           ([Casual] 思いつくままに)       Off the top of my head, I think it's wrong.
-- `without thinking too much`        ([Casual] あまり考えずに)       Without thinking too much, I'd say we need more time.
-
-## TO SUM UP / THE BOTTOM LINE IS / TO BE HONEST
+## TO SUM UP / AT THE END OF THE DAY / THE BOTTOM LINE IS / TO BE HONEST / MOST OF ALL / BESIDES / ON TOP OF THAT / IN ADDITION TO THAT / IN THE FIRST PLACE
 > `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.
+  > `at the end of the day`         ([Casual] 結局のところ)         At the end of the day, we're all human.
   > `in short` /ɪn ʃɔːrt/           ([Neutral] 要するに)            In short, we need to work harder.
   > `simply put`                    ([Neutral] 簡単に言えば)        Simply put, we need to improve communication.
   > `to recap` /tuː ˈriːkæp/        ([Neutral] 要約すると)          To recap, we have three main goals.
@@ -106,6 +122,21 @@
   - `not gonna lie`                 ([Slang] 嘘つかないけど)        Not gonna lie, that was impressive.
   - `no word of a lie`              ([British] 嘘じゃなく)          No word of a lie, it was amazing.
   - `truth be told`                 ([Neutral] 実を言うと)          Truth be told, I never liked him.
+> `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
+  - `above all` /əˈbʌv ɔːl/         ([Neutral] 何よりも、特に)      Above all, be true to yourself.
+  - `most importantly`              ([Neutral] 最も重要なことに)    Most importantly, stay safe.
+  - `especially` /ɪˈspeʃəli/        ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
+  - `particularly` /pərˈtɪkjələrli/ ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
+  - `primarily` /praɪˈmerəli/       ([Formal] 主に、第一に)         We're primarily concerned with safety.
+> `besides` /bɪˈsaɪdz/              ([Casual] その上)               Besides, I have other plans tonight.
+  - `what's more`                   ([Casual] その上)               What's more, she speaks five languages.
+  > `on top of that`                ([Casual] その上、さらに)       The food was cold, and on top of that, it tasted awful.
+  - `to make matters worse`         ([Casual] さらに悪いことに)     To make matters worse, we ran out of gas.
+  - `what's worse`                  ([Casual] さらに悪いことに)     What's worse, the deadline is tomorrow.
+  - `more than anything`            ([Casual] 何よりも)             More than anything, I value honesty.
+  > `in addition to that`           ([Formal] それに加えて)         In addition to that, we need approval.
+  - `among other things`            ([Neutral] とりわけ)            He mentioned, among other things, the cost.
+> `in the first place`              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
 
 ## (MUCH) TO MY / MUCH TO THE
 > `to my surprise`                  ([Neutral] 驚いたことに)        To my surprise, she agreed immediately.
@@ -124,47 +155,7 @@
   - `much to the surprise of O`     ([Neutral] Oが驚いたことには)   Much to the surprise of everyone, she quit.
   - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
 
-## IF YOU DON'T MIND / IF IT WORKS FOR YOU
-> `if you don't mind`               ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
-  > `if that's ok (with you)`       ([Casual] それでよければ)       I'll call you tomorrow if that's ok with you.
-  > `if it works for you`           ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
-    - `if that works for you`       ([Neutral] それで都合がよければ) How about Tuesday, if that works for you?
-  - `if that's alright`             ([Neutral] それで大丈夫なら)    I'll arrive at 10, if that's alright.
-  - `if you're ok with that`        ([Casual] それでよければ)       We'll split the bill, if you're ok with that.
-  - `if that's fine (with you)`     ([Neutral] それでいいなら)      Let's meet at noon if that's fine with you.
-  - `unless you mind`               ([Neutral] 構わなければ)        I'll join you, unless you mind.
-  - `if you wouldn't mind`          ([Polite] よろしければ)         If you wouldn't mind, I'd like to review this.
-  - `if it's not too much trouble`  ([Polite] ご迷惑でなければ)     If it's not too much trouble, could you help me?
-  - `if you're comfortable with that` ([Polite] それで問題なければ) I'll handle this part, if you're comfortable with that.
-  - `if you have no objection`      ([Formal] ご異議なければ)       If you have no objection, we'll proceed.
-  - `if it suits you`               ([Formal] ご都合がよければ)     We can reschedule if it suits you better.
-
-
-## DEPENDING
-> `depending on how you look at it`  ([Neutral] 考え方によっては)    Depending on how you look at it, this law is either beneficial or harmful.
-  - `all things considered`          ([Formal] 全て考慮すると)       All things considered, it was successful.
-  - `from a certain perspective`     ([Formal] ある観点から見ると)   From a certain perspective, he's right.
-  - `from one angle`                 ([Neutral] ある角度から見ると)  From one angle, it seems unfair.
-  - `on reflection`                  ([Formal] よく考えてみると)     On reflection, I agree with you.
-  - `upon consideration`             ([Formal] 考慮した結果)         Upon consideration, we'll proceed.
-
-## other
-- `if I'm not mistaken`              ([Neutral] 間違っていなければ)  If I'm not mistaken, the meeting is at 3 p.m.
-
-- `just out of curiosity`            ([Casual] 単に興味から)         Just out of curiosity, why did you come to Japan?
-
-
-- `in my defense`                    ([Neutral] 言い訳すると)        In my defense, it was dark and he was a very pretty guy!
-- `if I may explain myself`          ([Formal] 言い訳しますと)       If I may explain myself, my comment was not meant to be offensive.
-- `this might be just me, but`       ([Casual] 自分だけかもだけど)   This might be just me, but I thought the movie was kind of boring.
-- `just to be clear`                 ([Neutral] 誤解のないよう)      Just to be clear, I'm not blaming anyone here.
-- `it may sound like`                ([Neutral] ～と聞こえるかも)    It may sound like I'm being self-centered here, but...
-- `you'd think (that) S V, but`      ([Neutral] ～と思うかもだが)    You'd think Japan would be really technologically advanced, but...
-- `don't get me wrong, but`          ([Casual] 誤解しないで)         Don't get me wrong, but I think we should try a different approach.
-
-- `I hate to admit it, but`          ([Neutral] 認めたくないけど)    I hate to admit it, but I might need your help.
-
-## AS I MENTIONED EARLIER / LIKE YOU SAID
+## AS S V / LIKE S V / AS FOR
 > `like S Vpast`                    (S が V した通り)
   - `like I said`                   ([Casual] さっき言ったように)   Like I said, we need to leave early.
   - `like I told you`               ([Casual] 言った通り)           Like I told you, he's always late.
@@ -184,99 +175,114 @@
   - `as previously stated`          ([Formal] 前に述べたように)     As previously stated, the deadline is firm.
   - `as noted`                      ([Formal] 指摘された通り)       As noted in the report, costs have risen.
 - `per our discussion`              ([Formal] 話し合いの通り)       Per our discussion, I've updated the proposal.
+> `about` /əˈbaʊt/                  ([Neutral] ～について)          About the meeting, can we reschedule?
+  - `on` /ɑːn/                      ([Neutral] ～について)          On that topic, I have some thoughts.
+  > `as for` /æz fɔːr/              ([Neutral] ～については)        As for the budget, we need to cut costs.
+  > `when it comes to`              ([Neutral] ～のこととなると)    When it comes to quality, we don't compromise.
+  - `speaking of` /ˈspiːkɪŋ əv/     ([Casual] そういえば)           Speaking of John, have you seen him?
+  - `talking of` /ˈtɔːkɪŋ əv/       ([Casual] ～と言えば)           Talking of holidays, where are you going?
+  - `-wise` /waɪz/                  ([Casual] ～に関しては)         Time-wise, we're on schedule.
+  - `with respect to`               ([Formal] ～に関して)           With respect to your query, here's my answer.
+  - `regarding` /rɪˈɡɑːrdɪŋ/        ([Formal] ～に関して)           Regarding your proposal, we'll review it.
+  - `concerning` /kənˈsɜːrnɪŋ/      ([Formal] ～に関して)           Concerning the delay, we apologize.
+  - `with regard to`                ([Formal] ～に関して)           With regard to your request, it's approved.
+  - `in regard to`                  ([Formal] ～に関して)           In regard to the contract, please sign here.
+  - `as regards` /æz rɪˈɡɑːrdz/     ([Formal] ～に関しては)         As regards payment, we accept cards.
+  - `in relation to`                ([Formal] ～に関連して)         In relation to your complaint, we're investigating.
+  - `as to` /æz tuː/                ([Formal] ～について)           As to the timeline, we're flexible.
+  - `re` /riː/                      ([Casual] ～について)           Re your email, I have questions.
+  - `in the matter of`              ([Formal] ～の件について)       In the matter of the dispute, we've decided.
+  - `apropos` /ˌæprəˈpoʊ/           ([Formal] ～について)           Apropos your suggestion, I agree.
+  - `vis-à-vis` /ˌviːzɑːˈviː/       ([Formal] ～に関して)           Vis-à-vis the competition, we're ahead.
 
-## AS FOR
-- `about` /əˈbaʊt/                  ([Neutral] ～について)          About the meeting, can we reschedule?
-- `on` /ɑːn/                        ([Neutral] ～について)          On that topic, I have some thoughts.
-> `as for` /æz fɔːr/                ([Neutral] ～については)        As for the budget, we need to cut costs.
-> `when it comes to`                ([Neutral] ～のこととなると)    When it comes to quality, we don't compromise.
-- `speaking of` /ˈspiːkɪŋ əv/       ([Casual] そういえば)           Speaking of John, have you seen him?
-- `talking of` /ˈtɔːkɪŋ əv/         ([Casual] ～と言えば)           Talking of holidays, where are you going?
-- `-wise` /waɪz/                    ([Casual] ～に関しては)         Time-wise, we're on schedule.
-- `with respect to`                 ([Formal] ～に関して)           With respect to your query, here's my answer.
-- `regarding` /rɪˈɡɑːrdɪŋ/          ([Formal] ～に関して)           Regarding your proposal, we'll review it.
-- `concerning` /kənˈsɜːrnɪŋ/        ([Formal] ～に関して)           Concerning the delay, we apologize.
-- `with regard to`                  ([Formal] ～に関して)           With regard to your request, it's approved.
-- `in regard to`                    ([Formal] ～に関して)           In regard to the contract, please sign here.
-- `as regards` /æz rɪˈɡɑːrdz/       ([Formal] ～に関しては)         As regards payment, we accept cards.
-- `in relation to`                  ([Formal] ～に関連して)         In relation to your complaint, we're investigating.
-- `as to` /æz tuː/                  ([Formal] ～について)           As to the timeline, we're flexible.
-- `re` /riː/                        ([Casual] ～について)           Re your email, I have questions.
-- `in the matter of`                ([Formal] ～の件について)       In the matter of the dispute, we've decided.
-- `apropos` /ˌæprəˈpoʊ/             ([Formal] ～について)           Apropos your suggestion, I agree.
-- `vis-à-vis` /ˌviːzɑːˈviː/         ([Formal] ～に関して)           Vis-à-vis the competition, we're ahead.
-
-## ASSUMING THAT / SUPPOSING THAT / GIVEN THAT / PROVIDED THAT
+## ASSUMING THAT / SUPPOSING THAT / GIVEN THAT / PROVIDED THAT / IF YOU DON'T MIND / IF IT WORKS FOR YOU / DEPENDING ON HOW YOU LOOK AT IT / IF ANYTHING
 > `assuming that` /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
-> `supposing that` /səˈpoʊzɪŋ ðæt/  ([Neutral] ～だと仮定して)      Supposing that he refuses, what will you do?
-- `considering that`                ([Neutral] ～を考慮すると)      Considering that it's raining, we should take umbrellas.
-> `given that` /ˈɡɪvən ðæt/         ([Neutral] ～を考えると)        Given that he's new, he did remarkably well.
-> `provided that` /prəˈvaɪdɪd ðæt/  ([Formal] ～という条件で)       You can go provided that you finish your work.
-- `in light of` /ɪn laɪt əv/        ([Formal] ～を踏まえて)         In light of recent events, we postponed the meeting.
-- `in view of` /ɪn vjuː əv/         ([Formal] ～を考慮して)         In view of the circumstances, we'll make an exception.
-- `taking into account`             ([Neutral] ～を考慮に入れて)    Taking into account the delay, we adjusted the schedule.
-- `on the assumption that`          ([Formal] ～という前提で)       We proceeded on the assumption that approval would come.
-- `say` /seɪ/                       ([Casual] 仮に～だとして)       Say you win the lottery, what would you do?
-- `let's say` /lets seɪ/            ([Casual] 仮に～としよう)       Let's say 5 o'clock. Does that work?
-- `in the event that`               ([Formal] ～の場合は)           In the event that it rains, we'll move inside.
-- `on condition that`               ([Formal] ～という条件で)       You may leave on condition that you return by 5.
-- `all things considered`            ([Formal] 全体的に考えると)     All things considered, that was a successful event.
-
-## IF ANYTHING
+  > `supposing that`                ([Neutral] ～だと仮定して)      Supposing that he refuses, what will you do?
+  - `considering that`              ([Neutral] ～を考慮すると)      Considering that it's raining, we should take umbrellas.
+  > `given that` /ˈɡɪvən ðæt/       ([Neutral] ～を考えると)        Given that he's new, he did remarkably well.
+  > `provided that`                 ([Formal] ～という条件で)       You can go provided that you finish your work.
+  - `in light of` /ɪn laɪt əv/      ([Formal] ～を踏まえて)         In light of recent events, we postponed the meeting.
+  - `in view of` /ɪn vjuː əv/       ([Formal] ～を考慮して)         In view of the circumstances, we'll make an exception.
+  - `taking into account`           ([Neutral] ～を考慮に入れて)    Taking into account the delay, we adjusted the schedule.
+  - `on the assumption that`        ([Formal] ～という前提で)       We proceeded on the assumption that approval would come.
+  - `say` /seɪ/                     ([Casual] 仮に～だとして)       Say you win the lottery, what would you do?
+  - `let's say` /lets seɪ/          ([Casual] 仮に～としよう)       Let's say 5 o'clock. Does that work?
+  - `in the event that`             ([Formal] ～の場合は)           In the event that it rains, we'll move inside.
+  - `on condition that`             ([Formal] ～という条件で)       You may leave on condition that you return by 5.
+  - `all things considered`         ([Formal] 全体的に考えると)     All things considered, that was a successful event.
+> `if you don't mind`               ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
+  > `if that's ok (with you)`       ([Casual] それでよければ)       I'll call you tomorrow if that's ok with you.
+  > `if it works for you`           ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
+  - `if that's alright`             ([Neutral] それで大丈夫なら)    I'll arrive at 10, if that's alright.
+  - `if you're ok with that`        ([Casual] それでよければ)       We'll split the bill, if you're ok with that.
+  - `if that's fine (with you)`     ([Neutral] それでいいなら)      Let's meet at noon if that's fine with you.
+  - `unless you mind`               ([Neutral] 構わなければ)        I'll join you, unless you mind.
+  - `if you wouldn't mind`          ([Polite] よろしければ)         If you wouldn't mind, I'd like to review this.
+  - `if it's not too much trouble`  ([Polite] ご迷惑でなければ)     If it's not too much trouble, could you help me?
+  - `if you're comfortable with that` ([Polite] それで問題なければ) I'll handle this part, if you're comfortable with that.
+  - `if you have no objection`      ([Formal] ご異議なければ)       If you have no objection, we'll proceed.
+  - `if it suits you`               ([Formal] ご都合がよければ)     We can reschedule if it suits you better.
+> `depending on how you look at it` ([Neutral] 考え方によっては)    Depending on how you look at it, this law is ...
+  - `all things considered`         ([Formal] 全て考慮すると)       All things considered, it was successful.
+  - `from a certain perspective`    ([Formal] ある観点から見ると)   From a certain perspective, he's right.
+  - `from one angle`                ([Neutral] ある角度から見ると)  From one angle, it seems unfair.
+  - `on reflection`                 ([Formal] よく考えてみると)     On reflection, I agree with you.
+  - `upon consideration`            ([Formal] 考慮した結果)         Upon consideration, we'll proceed.
 > `if anything`                     ([Casual] どちらかと言えば)     If anything, this situation calls for more caution.
-- `if nothing else`                 ([Neutral] 少なくとも)          If nothing else, we learned from the experience.
-- `if memory serves`                ([Neutral] 記憶が正しければ)    If memory serves, we met in 2019.
-- `if I had to say`                 ([Casual] しいて言うなら)       If I had to say, I'd agree with you.
-- `if I had to choose`              ([Neutral] 選ぶなら)            If I had to choose, I'd pick the blue one.
-- `if I had to guess`               ([Casual] 推測するなら)         If I had to guess, they'll arrive late.
-- `if I were to guess`              ([Formal] 推測するとすれば)     If I were to guess, I'd say it's broken.
+  - `if nothing else`               ([Neutral] 少なくとも)          If nothing else, we learned from the experience.
+  - `if memory serves`              ([Neutral] 記憶が正しければ)    If memory serves, we met in 2019.
+  - `if I had to say`               ([Casual] しいて言うなら)       If I had to say, I'd agree with you.
+  - `if I had to choose`            ([Neutral] 選ぶなら)            If I had to choose, I'd pick the blue one.
+  - `if I had to guess`             ([Casual] 推測するなら)         If I had to guess, they'll arrive late.
+  - `if I were to guess`            ([Formal] 推測するとすれば)     If I were to guess, I'd say it's broken.
 
-## MOST OF ALL
-- `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
-- `above all` /əˈbʌv ɔːl/           ([Neutral] 何よりも、特に)      Above all, be true to yourself.
-- `most importantly`                ([Neutral] 最も重要なことに)    Most importantly, stay safe.
-- `especially` /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
-- `particularly` /pərˈtɪkjələrli/   ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
-- `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
-
-## BESIDES / ON TOP OF THAT / IN ADDITION TO THAT
-> `besides` /bɪˈsaɪdz/              ([Casual] その上)               Besides, I have other plans tonight.
-- `what's more`                     ([Casual] その上)               What's more, she speaks five languages.
-> `on top of that`                  ([Casual] その上、さらに)       The food was cold, and on top of that, it tasted awful.
-- `to make matters worse`           ([Casual] さらに悪いことに)     To make matters worse, we ran out of gas.
-- `what's worse`                    ([Casual] さらに悪いことに)     What's worse, the deadline is tomorrow.
-- `more than anything`              ([Casual] 何よりも)             More than anything, I value honesty.
-> `in addition to that`             ([Formal] それに加えて)         In addition to that, we need approval.
-- `among other things`              ([Neutral] とりわけ)            He mentioned, among other things, the cost.
-
-## TO ME / THE WAY I SEE IT
-- `in my opinion` /ɪn maɪ əˈpɪnjən/ ([Neutral] 私の意見では)        In my opinion, this is the best option.
-- `in my view` /ɪn maɪ vjuː/        ([Neutral] 私の見解では)        In my view, we need more time.
+## TO ME / THE WAY I SEE IT / I THINK / IF I'M NOT MISTAKEN / IT'S JUST THAT / IT'S MORE THAT
 > `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
-- `to my mind` /tuː maɪ maɪnd/      ([Neutral] 私の考えでは)        To my mind, this solution works best.
-- `personally` /ˈpɜːrsənəli/        ([Neutral] 個人的には)          Personally, I prefer the first design.
-> `the way I see it`                ([Casual] 私の考えでは)         The way I see it, we have two choices.
-- `from my point of view`           ([Neutral] 私の視点では)        From my point of view, it's too risky.
-- `from my perspective`             ([Neutral] 私の観点から)        From my perspective, it's a win-win.
-  - `if you ask me`                  ([Casual] 私に言わせれば)       If you ask me, it's a waste of time.
-
-## I THINK / IT'S JUST THAT / IT'S MORE THAT
+  - `in my opinion`                 ([Neutral] 私の意見では)        In my opinion, this is the best option.
+  - `in my view` /ɪn maɪ vjuː/      ([Neutral] 私の見解では)        In my view, we need more time.
+  - `to my mind` /tuː maɪ maɪnd/    ([Neutral] 私の考えでは)        To my mind, this solution works best.
+  - `personally` /ˈpɜːrsənəli/      ([Neutral] 個人的には)          Personally, I prefer the first design.
+  > `the way I see it`              ([Casual] 私の考えでは)         The way I see it, we have two choices.
+  - `from my point of view`         ([Neutral] 私の視点では)        From my point of view, it's too risky.
+  - `from my perspective`           ([Neutral] 私の観点から)        From my perspective, it's a win-win.
+  - `if you ask me`                 ([Casual] 私に言わせれば)       If you ask me, it's a waste of time.
+> `I think`                         ([Casual] 確か)                 I think the meeting is at 3.
+  - `I believe`                     ([Neutral] 確か)                I believe it was Tuesday.
+  - `as far as I know`              ([Neutral] 知る限りでは)        As far as I know, he's still working there.
+  - `as I understand it`            ([Neutral] 理解している限り)    As I understand it, the plan changed.
+  - `from what I understand`        ([Neutral] 理解している限り)    From what I understand, it's canceled.
+  - `from what I've heard`          ([Casual] 聞いた話では)         From what I've heard, she's moving.
+  - `from what I know`              ([Casual] 知っている限り)       From what I know, it's true.
+> `if I'm not mistaken`             ([Neutral] 間違っていなければ)  If I'm not mistaken, the meeting is at 3 p.m.
+  - `if I'm not wrong`              ([Casual] 間違ってなければ)     If I'm not wrong, he said Monday.
+  - `if I recall correctly`         ([Neutral] 記憶が正しければ)    If I recall correctly, it was expensive.
+  - `if memory serves me right`     ([Neutral] 記憶が正しければ)    If memory serves me right, it was June.
+  - `unless I'm mistaken`           ([Neutral] 間違いでなければ)    Unless I'm mistaken, she's the manager.
+  - `unless I'm wrong`              ([Casual] 間違いでなければ)     Unless I'm wrong, it's this Friday.
+  - `correct me if I'm wrong`       ([Neutral] 間違ってたら訂正を)  Correct me if I'm wrong, but isn't he from Texas?
+  - `I could be wrong, but`         ([Casual] 間違ってるかもだけど) I could be wrong, but I think it's blue.
+  - `I may be wrong, but`           ([Neutral] 間違てるかもだけど)  I may be wrong, but that sounds expensive.
+  - `I might be wrong, but`         ([Casual] 間違ってるかもだけど) I might be wrong, but wasn't it yesterday?
+  - `to the best of my knowledge`   ([Formal] 知る限りでは)         To the best of my knowledge, it's accurate.
+  - `to my knowledge`               ([Neutral] 私の知る限り)        To my knowledge, he's never been there.
+  - `as far as I can tell`          ([Neutral] 分かる限りでは)      As far as I can tell, everything's fine.
+  - `from my understanding`         ([Neutral] 私の理解では)        From my understanding, we start Monday.
 > `I think` /aɪ θɪŋk/               ([Casual] 私は思う)             I think we should leave now.
-> `It's more    of` O               ([Neutral] どちらかと言えば〜)  It’s more of a suggestion than a rule.
-> `It's         like` O             ([Casual] まるでOみたい)        It's like a dream come true.
-> `It's not     like` O             ([Casual] ～ってわけじゃない)   It's not like a traditional classroom.
-> `It's just    like` O             ([Casual] まさにOだ)            It's just like running a marathon every day!
-> `It's almost  like` O             ([Casual] ほとんどOみたい)      It's almost like we're starting from scratch.
-> `It's kind of like` O             ([Casual] ちょっとOっぽい)      It's kind of like a puzzle you have to solve.
-> `It's more    like` O             ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
-> `It's not               that` S V ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
-> `It's just              that` S V ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
-> `It's more              that` S V ([Neutral] どちらかというと)    It's more that I need some time to think.
-> `It's not      the fact that` S V ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
-> `It's not just the fact that` S V ([Neutral] だけが理由じゃない)  It's not just the fact that you called ...
-> `It's not that A but (that) B`    ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
-> `My understanding is (that)` S V  ([Neutral] 私の理解では)        My understanding is that we start Monday.
-- `My take is` /maɪ teɪk ɪz/        ([Casual] 私の見方は)           My take is that we should proceed.
+  > `It's more    of` O             ([Neutral] どちらかと言えば〜)  It’s more of a suggestion than a rule.
+  > `It's         like` O           ([Casual] まるでOみたい)        It's like a dream come true.
+  > `It's not     like` O           ([Casual] ～ってわけじゃない)   It's not like a traditional classroom.
+  > `It's just    like` O           ([Casual] まさにOだ)            It's just like running a marathon every day!
+  > `It's almost  like` O           ([Casual] ほとんどOみたい)      It's almost like we're starting from scratch.
+  > `It's kind of like` O           ([Casual] ちょっとOっぽい)      It's kind of like a puzzle you have to solve.
+  > `It's more    like` O           ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
+  > `It's not               that`   ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
+  > `It's just              that`   ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
+  > `It's more              that`   ([Neutral] どちらかというと)    It's more that I need some time to think.
+  > `It's not      the fact that`   ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
+  > `It's not just the fact that`   ([Neutral] だけが理由じゃない)  It's not just the fact that you called ...
+  > `It's not that A but (that) B`  ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
+  > `My understanding is (that)`    ([Neutral] 私の理解では)        My understanding is that we start Monday.
+  - `My take is` /maɪ teɪk ɪz/      ([Casual] 私の見方は)           My take is that we should proceed.
 
 ## I'M SURE THAT / I'M CONFIDENT THAT
 - `I believe` S V                   ([Neutral] 私は信じる)          I believe we can achieve this goal.
@@ -328,27 +334,6 @@
 - `supposedly` S V                  ([Neutral] ～らしい)            Supposedly, he's an expert in this field.
 - `be sure to` /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
 
-- `that's a fair point, but`         ([Neutral] それはもっともだが)  That's a fair point, but we need to consider other factors.
-- `that may be true, but`            ([Neutral] それはそうかもだが)  That may be true, but I have some concerns.
-- `you (may) have a point, but`      ([Neutral] 一理あるが)          You may have a point there, but I still believe the plan is feasible.
-- `I see your point, but`            ([Neutral] 仰ることは分かるが)  I see your point, but I have a slightly different view.
-- `with all due respect`             ([Formal] 失礼を承知で)         With all due respect, I believe your estimate is overly optimistic.
-
-## PREFER
-- `more A than B`                   ([Neutral] BよりもむしろA)      She's more talented than lucky.
-- `rather A than B`                 ([Neutral] BよりもむしろA)      I'd rather stay home than go out.
-- `A rather than B`                 ([Neutral] BではなくA)          Choose quality rather than quantity.
-- `A instead of B`                  ([Neutral] BではなくA)          We took the train instead of driving.
-- `A, not B`                        ([Neutral] BではなくA)          It's a marathon, not a sprint.
-- `not A but B`                     ([Neutral] AではなくB)          It's not luck but hard work.
-- `less A than B`                   ([Neutral] AというよりB)        He's less stupid than careless.
-- `not so much A as B`              ([Formal] AというよりB)         I was not so much angry as disappointed.
-- `more like A than B`              ([Casual] BというよりA)         It's more like a suggestion than an order.
-- `A as opposed to B`               ([Neutral] Bと対照的にA)        I prefer tea as opposed to coffee.
-- `A over B`                        ([Casual] BよりA)               I'd choose happiness over money.
-- `prefer A to B`                   ([Neutral] BよりAを好む)        I prefer walking to driving.
-- `favor A over B`                  ([Neutral] BよりAを好む)        They favor experience over education.
-
 ## ENDED UP -ING
 - `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
 - `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
@@ -368,11 +353,6 @@
   - `in some ways` /ɪn sʌm weɪz/    ([Neutral] いくつかの点で)      In some ways, it's better than before.
   - `in respect that`               ([Formal] ～という点において)   It differs in respect that it's automated.
   - `to the degree that`            ([Formal] ～する程度において)   Success depends to the degree that we prepare.
-
-## TO THE POINT WHERE
-- `to the point where`              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
-- `to some degree`                  ([Neutral] ある程度)            I agree with you to some degree.
-- `to a certain extent`             ([Formal] ある程度まで)         To a certain extent, he's right.
 
 ## BECAUSE / THE REASON BEING THAT / FOR ONE THING
 - `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
@@ -458,6 +438,11 @@
 - `as a result` /æz ə rɪˈzʌlt/      ([Neutral] その結果)            As a result, sales increased.
 - `consequently` /ˈkɑːnsɪkwəntli/   ([Formal] 結果として)           Consequently, the project failed.
 - `thereupon` /ˌðerəˈpɑːn/          ([Formal] その結果)             Thereupon, he left the meeting.
+
+## TO THE POINT WHERE
+- `to the point where`              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
+- `to some degree`                  ([Neutral] ある程度)            I agree with you to some degree.
+- `to a certain extent`             ([Formal] ある程度まで)         To a certain extent, he's right.
 
 ## IN A WAY THAT
 > `in a way that` /ɪn ə weɪ ðæt/    ([Neutral] という方法で)        He explains that in a way that makes it sound complicated.
@@ -633,29 +618,5 @@
 > `one that is`                     ([Neutral] ~であるもの)         I need a car, one that is reliable.
 - `what I meant to say was`         ([Neutral] 言うつもりだたのは)  Sorry, what I meant to say was Thursday.
 
-## IN THE FIRST PLACE
-- `in the first place`              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
-
-## OVERALL / AT THE END OF THE DAY
-- `so` /soʊ/                        ([Casual] だから、つまり)       So, that's why we need to act now.
-> `overall` /ˌoʊvərˈɔːl/            ([Neutral] 全体的に)            Overall, the project was a success.
-- `all in all` /ɔːl ɪn ɔːl/         ([Neutral] 全体として)          All in all, it was a good experience.
-- `in summary` /ɪn ˈsʌməri/         ([Neutral] 要約すると)          In summary, we have three main issues.
-- `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.
-- `in short` /ɪn ʃɔːrt/             ([Neutral] 要するに)            In short, we need to work harder.
-- `to conclude` /tuː kənˈkluːd/     ([Formal] 結論として)           To conclude, I'd like to thank everyone.
-- `in conclusion` /ɪn kənˈkluːʒən/  ([Formal] 結論として)           In conclusion, the data supports our hypothesis.
-- `ultimately` /ˈʌltɪmətli/         ([Neutral] 最終的に)            Ultimately, it's your decision.
-> `at the end of the day`           ([Casual] 結局のところ)         At the end of the day, we're all human.
-- `when all is said and done`       ([Neutral] 結局のところ)        When all is said and done, we did our best.
-- `in the final analysis`           ([Formal] 最終的な分析では)     In the final analysis, the plan failed.
-- `on the whole` /ɑːn ðə hoʊl/      ([Neutral] 概して)              On the whole, I'm satisfied with the results.
-- `in essence` /ɪn ˈesəns/          ([Formal] 本質的に)             In essence, we're talking about trust.
-- `basically` /ˈbeɪsɪkli/           ([Casual] 基本的に)             Basically, we ran out of time.
-- `essentially` /ɪˈsenʃəli/         ([Neutral] 本質的に)            Essentially, it's a communication problem.
-- `the bottom line is`              ([Casual] 要は)                 The bottom line is we need more funding.
-- `long story short`                ([Casual] 手短に言うと)         Long story short, we won the contract.
-
 - [ ] `, each with O`                       ([Neutral] それぞれがOを持っている) Instant cameras, `each with` their own unique shape and design.
 - [ ] `, not just O`                        ([Neutral] O だけじゃなくて) [Link](../../output/business/20250605.md)
-
