@@ -2329,7 +2329,6 @@ incentive	7	【名】動機、誘因 【形】刺激的な
 inception	12	【名】始まり		
 incessant	11	【形】絶え間のない		
 incest	11	【名】近親相姦		
-incidentally	7	【副】ちなみに、付随的に、偶然に		
 incinerator	12	【名】焼却炉、火葬炉		
 incoherent	9	【形】つじつまの合わない、まとまりのない		
 incomparable	10	【形】比類のない、ずば抜けた		
@@ -2921,7 +2920,6 @@ moan	5	【動】うめく 【名】うめき、うなり、不平
 moat	12	【名】堀 【動】堀で取り囲む		
 mob	8	【名】暴徒、群衆 【動】群がって押し寄せる、襲う		
 mobilize	9	【動】戦時動員する、結集する、準備する		
-moderately	6	【副】ほどよく、節度を守って		
 moderation	6	【名】節度、適度、緩和		
 modernism	10	【名】現代風、モダニズム		
 modernist	10	【名】現代主義者、モダニスト		
@@ -3937,7 +3935,6 @@ referendum	10	【名】国民投票、住民投票
 refill	8	【動】再び満たす、詰め替える、補充する 【名】リフィル、補給		
 refine	5	【動】精製する、補充する		
 refinement	7	【名】洗練、精製、上品、教養		
-reflection	5	【名】反射、影、熟考		
 reflective	6	【形】反射する、反射による		
 reflex	11	【名】反射神経（～es） 【形】反射性の、反動の		
 reformation	8	【名】改革、改良、矯正、感化		
@@ -4100,7 +4097,6 @@ retract	12	【動】撤回する
 retribution	11	【名】懲罰、報い、天罰		
 retrieval	10	【名】回復、救助、検索		
 retrospect	9	【名】回想		
-retrospective	9	【形】回顧的な、追想にふける 【名】回顧展		
 reunion	9	【名】同窓会、再会		
 reunite	10	【動】再結合させる、再会する		
 revamp	11	【動】刷新する、改造する		
