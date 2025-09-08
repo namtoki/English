@@ -312,6 +312,12 @@
 - `I'm certain (that)` S V          ([Formal] ～を確信している)     I'm certain that we'll succeed.
 - `I'm positive (that)` S V         ([Casual] ～を確信している)     I'm positive that I locked the door.
 - `I have no doubt (that)` S V      ([Formal] ～を疑わない)         I have no doubt that she'll succeed.
+> `I had better` /aɪ hæd ˈbetər/    ([Casual] しなきゃ)             I had better get going.
+  - `I'd better` /aɪd ˈbetər/       ([Casual] しなきゃ)             I'd better hurry up.
+  - `I should` /aɪ ʃʊd/             ([Neutral] すべきだ)            I should call her back.
+  - `I ought to` /aɪ ɔːt tuː/       ([Formal] すべきだ)             I ought to apologize.
+  - `I must` /aɪ mʌst/              ([Neutral] しなければならない)  I must finish this today.
+  - `I have to` /aɪ hæv tuː/        ([Neutral] しなければならない)  I have to leave now.
 
 ## IT'S LIKELY THAT / CHANCES ARE / THERE'S A CHANCE THAT
 > `It appears (that)` S V           ([Formal] ～のようだ)           It appears that the system is down.
