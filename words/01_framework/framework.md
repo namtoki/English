@@ -48,7 +48,7 @@
   - `changing the subject`          ([Neutral] 話を変えますが)      Changing the subject, how was your vacation?
   - `to digress` /tuː daɪˈɡres/     ([Formal] 脱線しますが)         To digress for a moment, let me explain this.
 
-## LOOKING BACK / IN HINDSIGHT / IN RETROSPECT / NOW THAT I THINK ABOUT IT
+## LOOKING BACK / IN HINDSIGHT / NOW THAT I THINK ABOUT IT / CONSIDERING
 > `looking back` /ˈlʊkɪŋ bæk/       ([Neutral] 振り返ると)          Looking back, it was a good decision.
   - `thinking back` /ˈθɪŋkɪŋ bæk/   ([Neutral] 思い返すと)          Thinking back, we made the right choice.
   > `in hindsight` /ɪn ˈhaɪndsaɪt/  ([Neutral] 振り返ってみると)    In hindsight, I should have studied harder.
@@ -62,8 +62,21 @@
 > `now that I think about it`       ([Casual] 今思えば)             Now that I think about it, that's odd.
   - `on second thought`             ([Neutral] 考え直してみると)    On second thought, let's stay home.
   - `come to think of it`           ([Casual] そういえば)           Come to think of it, he was right.
+> `considering`                     ([Neutral] 考えると)            Considering the circumstances, we did well.
+  - `thinking about`                ([Casual] 考えてみると)         Thinking about it now, that was risky.
+  - `looking at`                    ([Casual] 見ると)               Looking at it now, we were lucky.
+  - `when you think about it`       ([Casual] 考えてみると)         When you think about it, life is pretty amazing.
+  - `if   you think about it`       ([Casual] 考えてみると)         It's crazy, if you think about it.
+  - `when you look     at it`       ([Casual] 見てみると)           When you look at it that way, it's obvious.
+  - `if   you look     at it`       ([Casual] 見れば)               If you look at it closely, you'll see the problem.
+  - `when you consider    it`       ([Neutral] 考慮すると)          When you consider it, the cost is reasonable.
+  - `if   you consider`             ([Neutral] 考慮すれば)          If you consider the alternatives, this is best.
 
-## TO SUM UP / THE BOTTOM LINE IS /
+## OFF THE TOP OF MY HEAD
+- `off the top of my head`           ([Casual] 思いつくままに)       Off the top of my head, I think it's wrong.
+- `without thinking too much`        ([Casual] あまり考えずに)       Without thinking too much, I'd say we need more time.
+
+## TO SUM UP / THE BOTTOM LINE IS / TO BE HONEST
 > `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.
   > `in short` /ɪn ʃɔːrt/           ([Neutral] 要するに)            In short, we need to work harder.
   > `simply put`                    ([Neutral] 簡単に言えば)        Simply put, we need to improve communication.
@@ -75,6 +88,41 @@
   - `in brief` /ɪn briːf/           ([Neutral] 簡潔に言うと)        In brief, the plan failed.
   - `to put it simply`              ([Neutral] 簡単に言うと)        To put it simply, we're out of time.
   - `put simply`                    ([Neutral] 簡単に言えば)        Put simply, it won't work.
+> `to be honest`                    ([Casual] 正直に言うと)         To be honest, I didn't like the movie.
+  - `honestly` /ˈɑːnɪstli/          ([Casual] 正直に言って)         Honestly, I think we should wait.
+  - `frankly` /ˈfræŋkli/            ([Neutral] 率直に言って)        Frankly, I'm disappointed.
+  - `to be frank`                   ([Neutral] 率直に言うと)        To be frank, your idea needs work.
+  - `truthfully` /ˈtruːθfəli/       ([Neutral] 正直に言って)        Truthfully, I wasn't expecting this.
+  - `to tell (you) the truth`       ([Casual] 本当のことを言うと)   To tell you the truth, I forgot all about it.
+  - `if I'm being honest`           ([Casual] 正直に言うと)         If I'm being honest, I'm not a fan.
+  - `in all honesty`                ([Neutral] 正直なところ)        In all honesty, I don't know what to do.
+  - `to be perfectly honest`        ([Neutral] 完全に正直に言うと)  To be perfectly honest, I'm nervous.
+  - `to be candid`                  ([Formal] 率直に言うと)         To be candid, we're facing challenges.
+  - `candidly` /ˈkændɪdli/          ([Formal] 率直に)               Candidly, the results were disappointing.
+  - `to put it bluntly`             ([Neutral] 単刀直入に言うと)    To put it bluntly, you failed.
+  - `bluntly` /ˈblʌntli/            ([Neutral] 単刀直入に)          Bluntly, this isn't working.
+  - `to be straight with you`       ([Casual] 正直に言うと)         To be straight with you, I disagree.
+  - `straight up`                   ([Slang] 正直に)                Straight up, that's a bad idea.
+  - `not gonna lie`                 ([Slang] 嘘つかないけど)        Not gonna lie, that was impressive.
+  - `no word of a lie`              ([British] 嘘じゃなく)          No word of a lie, it was amazing.
+  - `truth be told`                 ([Neutral] 実を言うと)          Truth be told, I never liked him.
+
+## (MUCH) TO MY / MUCH TO THE
+> `to my surprise`                  ([Neutral] 驚いたことに)        To my surprise, she agreed immediately.
+  - `to my amazement`               ([Neutral] 驚いたことに)        To my amazement, he solved it in minutes.
+  - `to my astonishment`            ([Formal] 驚いたことに)         To my astonishment, they knew each other.
+  - `to my delight`                 ([Neutral] 嬉しいことに)        To my delight, the package arrived early.
+  - `to my disappointment`          ([Neutral] がっかりしたことに)  To my disappointment, the show was cancelled.
+  - `to my horror`                  ([Neutral] 恐ろしいことに)      To my horror, I had forgotten my wallet.
+  - `to my dismay`                  ([Neutral] 落胆したことに)      To my dismay, the train had already left.
+  - `to my relief`                  ([Neutral] 安心したことに)      To my relief, everyone was safe.
+  - `to my satisfaction`            ([Formal] 満足したことに)       To my satisfaction, the work was completed.
+> `much to my surprise`             ([Neutral] とても驚いたことに)  Much to my surprise, he remembered my birthday.
+  - `much to my delight`            ([Neutral] とても嬉しいことに)  Much to my delight, they offered me the job.
+  - `much to my disappointment`     ([Neutral] とても残念なことに)  Much to my disappointment, it was sold out.
+> `much to the relief of O`         ([Neutral] Oが安心したことには) Much to the relief of the team,
+  - `much to the surprise of O`     ([Neutral] Oが驚いたことには)   Much to the surprise of everyone, she quit.
+  - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
 
 ## IF YOU DON'T MIND / IF IT WORKS FOR YOU
 > `if you don't mind`               ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
@@ -91,19 +139,20 @@
   - `if you have no objection`      ([Formal] ご異議なければ)       If you have no objection, we'll proceed.
   - `if it suits you`               ([Formal] ご都合がよければ)     We can reschedule if it suits you better.
 
+
+## DEPENDING
+> `depending on how you look at it`  ([Neutral] 考え方によっては)    Depending on how you look at it, this law is either beneficial or harmful.
+  - `all things considered`          ([Formal] 全て考慮すると)       All things considered, it was successful.
+  - `from a certain perspective`     ([Formal] ある観点から見ると)   From a certain perspective, he's right.
+  - `from one angle`                 ([Neutral] ある角度から見ると)  From one angle, it seems unfair.
+  - `on reflection`                  ([Formal] よく考えてみると)     On reflection, I agree with you.
+  - `upon consideration`             ([Formal] 考慮した結果)         Upon consideration, we'll proceed.
+
 ## other
-- `to be honest`                     ([Casual] 正直に言うと)         To be honest, I didn't like the movie.
-
-- `much to the relief of O`          ([Neutral] Oが安心したことには) Much to the relief of the team, the deadline was extended.
-
 - `if I'm not mistaken`              ([Neutral] 間違っていなければ)  If I'm not mistaken, the meeting is at 3 p.m.
-- `off the top of my head`           ([Casual] 思いつくままに)       Off the top of my head, I think it's wrong.
-- `without thinking too much`        ([Casual] あまり考えずに)       Without thinking too much, I'd say we need more time.
 
 - `just out of curiosity`            ([Casual] 単に興味から)         Just out of curiosity, why did you come to Japan?
 
-- `depending on how you look at it`  ([Neutral] 考え方によっては)    Depending on how you look at it, this law is either beneficial or harmful.
-- `if you think about it`            ([Casual] 考えてみると)         It's crazy how we can communicate like this, if you think about it.
 
 - `in my defense`                    ([Neutral] 言い訳すると)        In my defense, it was dark and he was a very pretty guy!
 - `if I may explain myself`          ([Formal] 言い訳しますと)       If I may explain myself, my comment was not meant to be offensive.
@@ -209,6 +258,7 @@
 > `the way I see it`                ([Casual] 私の考えでは)         The way I see it, we have two choices.
 - `from my point of view`           ([Neutral] 私の視点では)        From my point of view, it's too risky.
 - `from my perspective`             ([Neutral] 私の観点から)        From my perspective, it's a win-win.
+  - `if you ask me`                  ([Casual] 私に言わせれば)       If you ask me, it's a waste of time.
 
 ## I THINK / IT'S JUST THAT / IT'S MORE THAT
 > `I think` /aɪ θɪŋk/               ([Casual] 私は思う)             I think we should leave now.

@@ -382,6 +382,15 @@
 - `falter` /ˈfɔːltər/                ([Neutral] よろめく、躊躇する)  Her voice faltered with emotion.
 - `fumble` /ˈfʌmbəl/                 ([Neutral] 手探りする、もたつく) He fumbled for his keys.
 - `stagger` /ˈstæɡər/                ([Neutral] ふらつく、よろめく)  He staggered out of the bar.
+- `abound` /əˈbaʊnd/                 ([Neutral] 豊富にある)          Opportunities abound in this city.
+  - `abounding` /əˈbaʊndɪŋ/         ([Neutral] 豊富な)              An area abounding in natural resources.
+- `proliferate` /prəˈlɪfəreɪt/       ([Formal] 急増する、繁殖する)   Smartphones proliferated rapidly.
+  - `proliferation` /prəˌlɪfəˈreɪʃən/ ([Formal] 増殖、拡散)          The proliferation of social media.
+- `flourish` /ˈflɜːrɪʃ/             ([Neutral] 繁栄する)            The arts flourish in this city.
+  - `flourishing` /ˈflɜːrɪʃɪŋ/      ([Neutral] 繁栄する)            A flourishing business district.
+- `thrive` /θraɪv/                   ([Neutral] 繁栄する、成長する)  Children thrive with encouragement.
+  - `thriving` /ˈθraɪvɪŋ/           ([Neutral] 繁栄する)            A thriving local economy.
+- `teem` /tiːm/                      ([Neutral] あふれる、満ちる)    The forest teems with wildlife.
 - `ache` /eɪk/                       ([Neutral] 痛む)                My back aches after sitting too long.
 - `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
 - `throb` /θrɒb/                    ([Neutral] ズキズキ痛む)        My tooth is throbbing.

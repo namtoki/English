@@ -262,6 +262,15 @@
   - `stimulate` /ˈstɪmjəleɪt/       ([Formal] 刺激する、促進する)   This drug stimulates the heart.
   - `stimulation` /ˌstɪmjəˈleɪʃən/  ([Formal] 刺激、促進)           The brain needs stimulation to develop.
   - `stimulus` /ˈstɪmjələs/         ([Formal] 刺激、励み)           The economic stimulus boosted growth.
+- `abundance` /əˈbʌndəns/           ([Neutral] 豊富、大量)          There's an abundance of opportunities.
+  - `abundant` /əˈbʌndənt/          ([Neutral] 豊富な)              Food was abundant at the party.
+- `plenty` /ˈplenti/                ([Neutral] たくさん、豊富)      There's plenty of time.
+  - `plentiful` /ˈplentɪfəl/        ([Neutral] 豊富な)              Jobs are plentiful in the city.
+- `wealth` /welθ/                   ([Neutral] 豊富、富)            She has a wealth of experience.
+  - `wealthy` /ˈwelθi/              ([Neutral] 裕福な)              They come from a wealthy family.
+- `profusion` /prəˈfjuːʒən/         ([Formal] 大量、豊富)           A profusion of flowers bloomed.
+  - `profuse` /prəˈfjuːs/           ([Formal] 豊富な、大量の)       She offered profuse apologies.
+- `multitude` /ˈmʌltɪtuːd/          ([Formal] 多数、大量)           A multitude of problems arose.
 - `accelerant` /ækˈselərant/        ([Formal] 促進剤、加速剤)       The fire spread due to an accelerant.
   - `accelerate` /ækˈseləreɪt/      ([Neutral] 加速する、促進する)  The car began to accelerate.
   - `acceleration` /ækˌseləˈreɪʃən/ ([Formal] 加速、促進)           The acceleration was impressive.
