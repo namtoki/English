@@ -33,7 +33,7 @@
 > `so` /soʊ/                        ([Casual] それで、さて)         So, what were we talking about?
   - `now` /naʊ/                     ([Neutral] さて、今)            Now, let's begin the presentation.
 > `overall` /ˌoʊvərˈɔːl/            ([Neutral] 全体的に)            Overall, the project was a success.
-  - `all in all` /ɔːl ɪn ɔːl/         ([Neutral] 全体として)          All in all, it was a good experience.
+  - `all in all` /ɔːl ɪn ɔːl/       ([Neutral] 全体として)          All in all, it was a good experience.
 
 ## BY THE WAY / THAT REMINDS ME / ON A SIDE NOTE / OFF-TOPIC / I'M CURIOUS / OUT OF CURIOSITY
 > `by the way` /baɪ ðə weɪ/         ([Casual] ところで)             By the way, did you see the email?
@@ -155,7 +155,7 @@
   - `much to the surprise of O`     ([Neutral] Oが驚いたことには)   Much to the surprise of everyone, she quit.
   - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
 
-## AS S V / LIKE S V / AS FOR
+## AS S V / LIKE S V / AS FOR / I MEAN / AS IN
 > `like S Vpast`                    (S が V した通り)
   - `like I said`                   ([Casual] さっき言ったように)   Like I said, we need to leave early.
   - `like I told you`               ([Casual] 言った通り)           Like I told you, he's always late.
@@ -194,6 +194,23 @@
   - `in the matter of`              ([Formal] ～の件について)       In the matter of the dispute, we've decided.
   - `apropos` /ˌæprəˈpoʊ/           ([Formal] ～について)           Apropos your suggestion, I agree.
   - `vis-à-vis` /ˌviːzɑːˈviː/       ([Formal] ～に関して)           Vis-à-vis the competition, we're ahead.
+> `I mean`                          ([Casual] つまり、その)         I'm tired. I mean, I only slept 3 hours.
+  - `basically`                     ([Casual] 基本的に、要するに)   Basically, we need to start over.
+  > `the thing is`                  ([Casual] 実は、要は)           The thing is, I forgot my wallet.
+  > `the point is`                  ([Neutral] 要点は)              The point is, we can't afford it.
+  > `as in`                         ([Neutral] つまり)              Give me a fruit, as in an apple or orange.
+  - `in other words`                ([Neutral] 言い換えると)        She's busy. In other words, she can't come.
+  - `let me rephrase that`          ([Neutral] 言い直すと)          Let me rephrase that - it's challenging.
+  - `to put it another way`         ([Neutral] 別の言い方をすると)  To put it another way, we're broke.
+  > `to clarify`                    ([Formal] 明確にすると)         To clarify, the meeting is at 3pm.
+  - `let me be clear`               ([Formal] はっきり言うと)       Let me be clear - this is unacceptable.
+  - `that is to say`                ([Formal] つまり、すなわち)     He's retired, that is to say, not working.
+> `what I mean is`                  ([Neutral] 言いたいのは)        What I mean is, we need more time.
+  - `what I'm saying is`            ([Casual] 言ってるのは)         What I'm saying is, it's not that simple.
+  - `what I'm trying to say is`     ([Casual] 言おうとしてるのは)   What I'm trying to say is, I appreciate it.
+  - `what I meant was`              ([Neutral] 言いたかったのは)    What I meant was, you should be careful.
+  > `one that is`                   ([Neutral] ~であるもの)         I need a car, one that is reliable.
+  - `what I meant to say was`       ([Neutral] 言うつもりだたのは)  Sorry, what I meant to say was Thursday.
 
 ## ASSUMING THAT / SUPPOSING THAT / GIVEN THAT / PROVIDED THAT / IF YOU DON'T MIND / IF IT WORKS FOR YOU / DEPENDING ON HOW YOU LOOK AT IT / IF ANYTHING
 > `assuming that` /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
@@ -338,10 +355,52 @@
 - `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
 - `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
 
-## JUST BASED ON / IN THE SENSE THAT
-- `based on` /beɪst ɑːn/            ([Neutral] ～に基づいて)        Based on the data, we made a decision.
-> `just based on` /dʒʌst beɪst ɑːn/ ([Neutral] ただ～に基づいて)    Just based on his word, I can't be sure.
-> `in terms of` /ɪn tɜːrmz əv/      ([Neutral] ～の観点から)        In terms of cost, it's expensive.
+## BECAUSE / THE REASON BEING THAT / FOR ONE THING / IN ORDER TO / SO THAT / BASED ON / IN THE SENSE THAT / JUST IN CASE
+> `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
+  - `because of` /bɪˈkɔːz əv/       ([Neutral] ～のため)            The game was canceled because of rain.
+  - `so` /soʊ/                      ([Casual] だから)               I was hungry, so I ate a sandwich.
+  - `'cause` /kəz/                  ([Casual] なので)               I'm late 'cause I missed the bus.
+  - `since` /sɪns/                  ([Neutral] ～なので)            Since you're here, let's start.
+  - `as` /æz/                       ([Neutral] ～なので)            As I was tired, I went to bed early.
+  - `that's why` /ðæts waɪ/         ([Neutral] だから)              That's why I called you.
+  - `due to` /duː tuː/              ([Neutral] ～が原因で)          The delay was due to bad weather.
+  - `thanks to` /θæŋks tuː/         ([Neutral] ～のおかげで)        Thanks to your help, we succeeded.
+  - `for` /fɔːr/                    ([Neutral] ～ので)              He was famous for his kindness.
+  - `meant that` /ment ðæt/         ([Casual] だから)               Their support meant that we could continue.
+  - `as a result` /æz ə rɪˈzʌlt/    ([Neutral] その結果)            He didn't study and, as a result, he failed.
+  - `, V-ing`                       ([Neutral] その結果)            The boy stood on the mountain, looking at the valley.
+  - `now that` /naʊ ðæt/            ([Neutral] 今～なので)          Now that you're here, we can begin.
+  - `this is why` /ðɪs ɪz waɪ/      ([Neutral] そういうわけで)      We missed the deadline. This is why we need better planning.
+  - `seeing that` /ˈsiːɪŋ ðæt/      ([Neutral] ～を考えると)        Seeing that it's late, let's go home.
+  - `for that reason`               ([Formal] その理由で)           For that reason, we decided to postpone.
+  - `consequently` /ˈkɑːnsɪkwəntli/ ([Formal] 結果的に)             He made a mistake, and consequently lost his chance.
+  - `on account of` /ɑːn əˈkaʊnt əv/([Formal] ～の理由で)           The event was postponed on account of rain.
+  - `owing to` /ˈoʊɪŋ tuː/          ([Formal] ～のために)           Owing to illness, he couldn't attend.
+  - `by virtue of` /baɪ ˈvɜːrtʃuː əv([Formal] ～によって)           She succeeded by virtue of hard work.
+  - `in view of` /ɪn vjuː əv/       ([Formal] ～を考慮して)         In view of the circumstances, we'll wait.
+  - `on the grounds that`           ([Formal] ～を理由に)           He was fired on the grounds that he lied.
+  > `the reason being that`         ([Neutral] 理由は～だからだ)    She declined it, the reason being that she was too busy.
+  > `for one/another thing`         ([Casual] ひとつには／それから) `For one thing,` it's ~. `For another thing,` it's ~.
+> `to` /tuː/                        ([Casual] ～するために)         I left early to catch the train.
+  > `so that` /soʊ ðæt/             ([Neutral] ～するために)        Mary spoke loudly so that everyone could hear.
+  - `hoping (that)` /ˈhoʊpɪŋ ðæt/   ([Casual] ～を望んで)           I emailed her, hoping that she would reply.
+  > `in order to` /ɪn ˈɔːrdər tuː/  ([Neutral] ～するために)        In order to succeed, you must work hard.
+  - `so as to` /soʊ æz tuː/         ([Neutral] ～するために)        He left early so as to avoid traffic.
+  - `with a view to` /wɪð ə vjuː tuː([Neutral] ～する目的で)        She studied with a view to becoming a doctor.
+  - `in hopes of` /ɪn hoʊps əv/     ([Neutral] ～を期待して)        He applied in hopes of getting an interview.
+  - `in the hope that`              ([Neutral] ～を望んで)          I didn't phone till four in the hope that you'd be finished.
+  - `in an effort to`               ([Neutral] ～しようとして)      In an effort to save money, they cut costs.
+  - `in a bid to` /ɪn ə bɪd tuː/    ([Neutral] ～しようとして)      In a bid to win support, he promised reforms.
+  - `in an attempt to`              ([Formal] ～しようとして)       In an attempt to resolve the issue, we met.
+  - `with the intention of`         ([Formal] ～するつもりで)       He came with the intention of apologizing.
+  - `with the aim of` /wɪð ði eɪm əv([Formal] ～を目的として)       They merged with the aim of reducing costs.
+  - `with the purpose of`           ([Formal] ～する目的で)         She called with the purpose of clarifying.
+  - `for the purpose of`            ([Formal] ～する目的のために)   I rented a P.O. box for the purpose of importing.
+  - `in order that` /ɪn ˈɔːrdər ðæt/([Formal] ～するために)         Mary spoke loudly in order that everyone could hear.
+  - `endeavor to` /ɪnˈdevər tuː/    ([Formal] ～しようと努力する)   We endeavor to provide excellent service.
+> `based on` /beɪst ɑːn/            ([Neutral] ～に基づいて)        Based on the data, we made a decision.
+  > `just based on` /dʒʌst beɪst ɑːn([Neutral] ただ～に基づいて)    Just based on his word, I can't be sure.
+  > `in terms of` /ɪn tɜːrmz əv/    ([Neutral] ～の観点から)        In terms of cost, it's expensive.
 > `as long as` /æz lɔːŋ æz/         ([Neutral] ～する限り)          As long as you try, that's what matters.
   - `to the extent that`            ([Neutral] ～する限りにおいて)  It works to the extent that we have funding.
   - `insofar as` /ˌɪnsoʊˈfɑːr æz/   ([Formal] ～する限りにおいて)   Insofar as I know, the project is on track.
@@ -353,270 +412,197 @@
   - `in some ways` /ɪn sʌm weɪz/    ([Neutral] いくつかの点で)      In some ways, it's better than before.
   - `in respect that`               ([Formal] ～という点において)   It differs in respect that it's automated.
   - `to the degree that`            ([Formal] ～する程度において)   Success depends to the degree that we prepare.
-
-## BECAUSE / THE REASON BEING THAT / FOR ONE THING
-- `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
-- `because of` /bɪˈkɔːz əv/         ([Neutral] ～のため)            The game was canceled because of rain.
-- `so` /soʊ/                        ([Casual] だから)               I was hungry, so I ate a sandwich.
-- `'cause` /kəz/                    ([Casual] なので)               I'm late 'cause I missed the bus.
-- `since` /sɪns/                    ([Neutral] ～なので)            Since you're here, let's start.
-- `as` /æz/                         ([Neutral] ～なので)            As I was tired, I went to bed early.
-- `that's why` /ðæts waɪ/           ([Neutral] だから)              That's why I called you.
-- `due to` /duː tuː/                ([Neutral] ～が原因で)          The delay was due to bad weather.
-- `thanks to` /θæŋks tuː/           ([Neutral] ～のおかげで)        Thanks to your help, we succeeded.
-- `for` /fɔːr/                      ([Neutral] ～ので)              He was famous for his kindness.
-- `meant that` /ment ðæt/           ([Casual] だから)               Their support meant that we could continue.
-- `as a result` /æz ə rɪˈzʌlt/      ([Neutral] その結果)            He didn't study and, as a result, he failed.
-- `, V-ing`                         ([Neutral] その結果)            The boy stood on the mountain, looking at the valley.
-- `now that` /naʊ ðæt/              ([Neutral] 今～なので)          Now that you're here, we can begin.
-- `this is why` /ðɪs ɪz waɪ/        ([Neutral] そういうわけで)      We missed the deadline. This is why we need better planning.
-- `seeing that` /ˈsiːɪŋ ðæt/        ([Neutral] ～を考えると)        Seeing that it's late, let's go home.
-- `for that reason`                 ([Formal] その理由で)           For that reason, we decided to postpone.
-- `consequently` /ˈkɑːnsɪkwəntli/   ([Formal] 結果的に)             He made a mistake, and consequently lost his chance.
-- `on account of` /ɑːn əˈkaʊnt əv/  ([Formal] ～の理由で)           The event was postponed on account of rain.
-- `owing to` /ˈoʊɪŋ tuː/            ([Formal] ～のために)           Owing to illness, he couldn't attend.
-- `by virtue of` /baɪ ˈvɜːrtʃuː əv/ ([Formal] ～によって)           She succeeded by virtue of hard work.
-- `in view of` /ɪn vjuː əv/         ([Formal] ～を考慮して)         In view of the circumstances, we'll wait.
-- `on the grounds that`             ([Formal] ～を理由に)           He was fired on the grounds that he lied.
-> `the reason being that`           ([Neutral] 理由は～だからだ)    She declined it, the reason being that she was too busy.
-> `for one/another thing`           ([Casual] ひとつには／それから) `For one thing,` it's ~. `For another thing,` it's ~.
-
-## IN ORDER TO / SO THAT
-> `to` /tuː/                        ([Casual] ～するために)         I left early to catch the train.
-> `so that` /soʊ ðæt/               ([Neutral] ～するために)        Mary spoke loudly so that everyone could hear.
-- `hoping (that)` /ˈhoʊpɪŋ ðæt/     ([Casual] ～を望んで)           I emailed her, hoping that she would reply.
-> `in order to` /ɪn ˈɔːrdər tuː/    ([Neutral] ～するために)        In order to succeed, you must work hard.
-- `so as to` /soʊ æz tuː/           ([Neutral] ～するために)        He left early so as to avoid traffic.
-- `with a view to` /wɪð ə vjuː tuː/ ([Neutral] ～する目的で)        She studied with a view to becoming a doctor.
-- `in hopes of` /ɪn hoʊps əv/       ([Neutral] ～を期待して)        He applied in hopes of getting an interview.
-- `in the hope that`                ([Neutral] ～を望んで)          I didn't phone till four in the hope that you'd be finished.
-- `in an effort to`                 ([Neutral] ～しようとして)      In an effort to save money, they cut costs.
-- `in a bid to` /ɪn ə bɪd tuː/      ([Neutral] ～しようとして)      In a bid to win support, he promised reforms.
-- `in an attempt to`                ([Formal] ～しようとして)       In an attempt to resolve the issue, we met.
-- `with the intention of`           ([Formal] ～するつもりで)       He came with the intention of apologizing.
-- `with the aim of` /wɪð ði eɪm əv/ ([Formal] ～を目的として)       They merged with the aim of reducing costs.
-- `with the purpose of`             ([Formal] ～する目的で)         She called with the purpose of clarifying.
-- `for the purpose of`              ([Formal] ～する目的のために)   I rented a P.O. box for the purpose of importing.
-- `in order that` /ɪn ˈɔːrdər ðæt/  ([Formal] ～するために)         Mary spoke loudly in order that everyone could hear.
-- `endeavor to` /ɪnˈdevər tuː/      ([Formal] ～しようと努力する)   We endeavor to provide excellent service.
-
-## JUST IN CASE
 > `just in case` /dʒʌst ɪn keɪs/    ([Casual] 念のため)             I'll write it down just in case.
-> `in case` /ɪn keɪs/               ([Neutral] ～に備えて)          In case there's an earthquake, prepare a kit.
-- `to be safe` /tuː biː seɪf/       ([Casual] 安全のため)           Let's leave early to be safe.
-- `to be on the safe side`          ([Neutral] 念のため)            To be on the safe side, bring an umbrella.
-- `as a precaution`                 ([Neutral] 用心のため)          We'll test it first as a precaution.
-- `better safe than sorry`          ([Casual] 用心に越したことない) Better safe than sorry - let's double-check.
-- `for good measure`                ([Casual] 念のため)             I added extra salt for good measure.
-- `to play it safe`                 ([Casual] 安全策をとる)         Let's play it safe and take the train.
-- `in the event that`               ([Formal] ～の場合に備えて)     In the event that it rains, we'll meet inside.
-- `for a rainy day`                 ([Casual] 将来の備えとして)     I save money for a rainy day.
-- `as insurance` /æz ɪnˈʃʊrəns/     ([Neutral] 保険として)          Keep a backup as insurance.
-- `by way of precaution`            ([Formal] 予防措置として)       By way of precaution, we'll notify everyone.
-- `as a safeguard` /æz ə ˈseɪfɡɑːrd/([Formal] 保護手段として)       We installed cameras as a safeguard.
-- `lest` /lest/                     ([Formal] ～しないように)       Study hard lest you fail the exam.
-- `for fear that`                   ([Formal] ～を恐れて)           He whispered for fear that someone might hear.
+  > `in case` /ɪn keɪs/             ([Neutral] ～に備えて)          In case there's an earthquake, prepare a kit.
+  - `to be safe` /tuː biː seɪf/     ([Casual] 安全のため)           Let's leave early to be safe.
+  - `to be on the safe side`        ([Neutral] 念のため)            To be on the safe side, bring an umbrella.
+  - `as a precaution`               ([Neutral] 用心のため)          We'll test it first as a precaution.
+  - `better safe than sorry`        ([Casual] 用心に越したことない) Better safe than sorry - let's double-check.
+  - `for good measure`              ([Casual] 念のため)             I added extra salt for good measure.
+  - `to play it safe`               ([Casual] 安全策をとる)         Let's play it safe and take the train.
+  - `in the event that`             ([Formal] ～の場合に備えて)     In the event that it rains, we'll meet inside.
+  - `for a rainy day`               ([Casual] 将来の備えとして)     I save money for a rainy day.
+  - `as insurance` /æz ɪnˈʃʊrəns/   ([Neutral] 保険として)          Keep a backup as insurance.
+  - `by way of precaution`          ([Formal] 予防措置として)       By way of precaution, we'll notify everyone.
+  - `as a safeguard` /æz ə ˈseɪfɡɑːr([Formal] 保護手段として)       We installed cameras as a safeguard.
+  - `lest` /lest/                   ([Formal] ～しないように)       Study hard lest you fail the exam.
+  - `for fear that`                 ([Formal] ～を恐れて)           He whispered for fear that someone might hear.
 
-## THAT WAY / BY DOING SO
-- `then` /ðen/                      ([Neutral] それから そうすれば) Then we went home.
-- `so` /soʊ/                        ([Casual] それで)               So we decided to wait.
-> `that way` /ðæt weɪ/              ([Casual] そうすれば)           Leave early. That way, you won't be late.
-- `this way` /ðɪs weɪ/              ([Neutral] このようにして)      Do it this way for best results.
-- `that's how` /ðæts haʊ/           ([Casual] このようにして)       That's how we met.
-- `that's why` /ðæts waɪ/           ([Neutral] だから)              That's why I called you.
-- `and then` /ænd ðen/              ([Neutral] それから)            And then, we decided to go home.
-- `like this` /laɪk ðɪs/            ([Casual] このように)           Do it like this.
-- `in that case` /ɪn ðæt keɪs/      ([Neutral] その場合は)          In that case, we can reschedule.
-- `if so` /ɪf soʊ/                  ([Neutral] もしそうなら)        Are you busy? If so, we can wait.
-- `in which case`                   ([Formal] その場合は)           We may cancel, in which case we'll notify you.
-> `by doing so` /baɪ ˈduːɪŋ soʊ/    ([Neutral] そうすることで)      By doing so, you'll save time.
-- `thereby` /ðerˈbaɪ/               ([Formal] それによって)         He resigned, thereby ending the conflict.
-- `thus` /ðʌs/                      ([Formal] このようにして)       Mix well, thus creating a smooth paste.
-- `hence` /hens/                    ([Formal] それゆえに)           He was late, hence the penalty.
-- `therefore` /ˈðerfɔːr/            ([Formal] したがって)           Therefore, we must act now.
-- `accordingly` /əˈkɔːrdɪŋli/       ([Formal] それに応じて)         Plan accordingly.
-- `as a result` /æz ə rɪˈzʌlt/      ([Neutral] その結果)            As a result, sales increased.
-- `consequently` /ˈkɑːnsɪkwəntli/   ([Formal] 結果として)           Consequently, the project failed.
-- `thereupon` /ˌðerəˈpɑːn/          ([Formal] その結果)             Thereupon, he left the meeting.
-
-## TO THE POINT WHERE
-- `to the point where`              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
-- `to some degree`                  ([Neutral] ある程度)            I agree with you to some degree.
-- `to a certain extent`             ([Formal] ある程度まで)         To a certain extent, he's right.
-
-## IN A WAY THAT
+## IN A WAY THAT / TO THE POINT WHERE / THAT WAY / BY DOING SO / INSTEAD OF / RATHER THAN / UNLIKE
 > `in a way that` /ɪn ə weɪ ðæt/    ([Neutral] という方法で)        He explains that in a way that makes it sound complicated.
-> `in such a way that`              ([Neutral] ～するような方法で)  Arrange them in such a way that everyone can see the screen.
-- `by V-ing` /baɪ/                  ([Neutral] ～することによって)  She improved her skills by practicing daily.
-- `through V-ing` /θruː/            ([Neutral] ～を通じて)          He learned through making mistakes.
-- `via` /ˈvaɪə/                     ([Neutral] ～を経由して)        Send the document via email.
-- `somehow` /ˈsʌmhaʊ/               ([Casual] どうにかして)         I'll manage it somehow.
-- `at the expense of`               ([Neutral] 犠牲にして)          He got promoted at the expense of his colleague.
-- `by heart` /baɪ hɑːrt/            ([Neutral] 暗記で)              First of all, learn the formula by heart.
-- `in a manner that`                ([Formal] ～という方法で)       Behave in a manner that reflects well on the company.
-- `by means of` /baɪ miːnz əv/      ([Formal] ～によって)           They communicated by means of sign language.
-
-## EVEN THOUGH
-> `even though` /ˈiːvən ðoʊ/        ([Neutral] 〜にも関わらず)      Even though he's new to the team, ~~
-- `although` /ɔːlˈðoʊ/              ([Neutral] 〜にも関わらず)      Although it was raining, we went for a walk.
-- `though` /ðoʊ/                    ([Casual] 〜だけど)             I'll help you, though I'm really busy.
-- `despite` /dɪˈspaɪt/              ([Formal] 〜にもかかわらず)     Despite the weather, the event went on as planned.
-- `in spite of` /ɪn spaɪt əv/       ([Formal] 〜に反して)           In spite of our compliments, he frowned and turned away.
-- `regardless of` /rɪˈɡɑːrdləs əv/  ([Neutral] 〜に関係なく)        The show will go on regardless of the weather.
-- `for all` /fɔːr ɔːl/              ([Formal] 〜にもかかわらず)     For all her experience, she still ~~
-- `with all` /wɪð ɔːl/              ([Formal] 〜があっても)         With all his experience, he still made a rookie mistake.
-- `notwithstanding`                 ([Formal] 〜にもかかわらず)     Notwithstanding the difficulties, we succeeded.
-
-## EVEN IF / NO MATTER HOW
-> `even if` /ˈiːvən ɪf/             ([Neutral] たとえ〜しても)      Even if it rains, we'll still go to the park.
-- `whether or not`                  ([Neutral] するしない関係なく)  I'm going whether or not you come with me.
-- `no matter what` /noʊ ˈmætər wʌt/ ([Neutral] 何があっても)        No matter what happens, I'll support you.
-> `no matter how` /noʊ ˈmætər haʊ/  ([Neutral] どんなに〜でも)      No matter how hard I try, I can't solve this.
-- `however much` /haʊˈevər mʌtʃ/    ([Neutral] どれだけ〜しても)    However much you study, there's always more to learn.
-- `regardless` /rɪˈɡɑːrdləs/        ([Neutral] それでも)            He went ahead regardless of the risks.
-- `come what may` /kʌm wʌt meɪ/     ([Formal] 何が起ころうと)       Come what may, we'll face it together.
-- `whatever happens`                ([Casual] 何があっても)         Whatever happens, don't give up.
-
-## UNLIKE
-> `unlike` /ʌnˈlaɪk/                ([Neutral] ～とは異なり)        Unlike his earlier works, this novel is far more political.
-- `contrary to` /ˈkɑːntreri tuː/    ([Formal] ～に反して)           Contrary to popular belief, the earth is not flat.
-- `in contrast to`                  ([Formal] ～と対照的に)         In contrast to last year, this year's sales increased.
-- `as opposed to` /æz əˈpoʊzd tuː/  ([Neutral] ～と対比して)        I prefer tea as opposed to coffee.
-- `different from` /ˈdɪfərənt frʌm/ ([Neutral] ～と違って)          This model is different from the previous one.
-- `in a departure from`             ([Formal] ～から転じて)         In a departure from tradition, they chose a young CEO.
-- `breaking from` /ˈbreɪkɪŋ frʌm/   ([Neutral] ～から脱して)        Breaking from convention, she wore jeans to the gala.
-- `departing from`                  ([Formal] ～から逸脱して)       Departing from the script, he improvised his speech.
-- `differing from` /ˈdɪfərɪŋ frʌm/  ([Neutral] ～と異なって)        Differing from his colleagues, he supported the proposal.
-
-## INSTEAD OF / RATHER THAN
+  > `in such a way that`            ([Neutral] ～するような方法で)  Arrange them in such a way that everyone can see the screen.
+  - `by V-ing` /baɪ/                ([Neutral] ～することによって)  She improved her skills by practicing daily.
+  - `through V-ing` /θruː/          ([Neutral] ～を通じて)          He learned through making mistakes.
+  - `via` /ˈvaɪə/                   ([Neutral] ～を経由して)        Send the document via email.
+  - `somehow` /ˈsʌmhaʊ/             ([Casual] どうにかして)         I'll manage it somehow.
+  - `at the expense of`             ([Neutral] 犠牲にして)          He got promoted at the expense of his colleague.
+  - `by heart` /baɪ hɑːrt/          ([Neutral] 暗記で)              First of all, learn the formula by heart.
+  - `in a manner that`              ([Formal] ～という方法で)       Behave in a manner that reflects well on the company.
+  - `by means of` /baɪ miːnz əv/    ([Formal] ～によって)           They communicated by means of sign language.
+> `to the point where`              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
+  - `to some degree`                ([Neutral] ある程度)            I agree with you to some degree.
+  - `to a certain extent`           ([Formal] ある程度まで)         To a certain extent, he's right.
+- `then` /ðen/                      ([Neutral] それから そうすれば) Then we went home.
+  - `so` /soʊ/                      ([Casual] それで)               So we decided to wait.
+  > `that way` /ðæt weɪ/            ([Casual] そうすれば)           Leave early. That way, you won't be late.
+  - `this way` /ðɪs weɪ/            ([Neutral] このようにして)      Do it this way for best results.
+  - `that's how` /ðæts haʊ/         ([Casual] このようにして)       That's how we met.
+  - `that's why` /ðæts waɪ/         ([Neutral] だから)              That's why I called you.
+  - `and then` /ænd ðen/            ([Neutral] それから)            And then, we decided to go home.
+  - `like this` /laɪk ðɪs/          ([Casual] このように)           Do it like this.
+  - `in that case` /ɪn ðæt keɪs/    ([Neutral] その場合は)          In that case, we can reschedule.
+  - `if so` /ɪf soʊ/                ([Neutral] もしそうなら)        Are you busy? If so, we can wait.
+  - `in which case`                 ([Formal] その場合は)           We may cancel, in which case we'll notify you.
+  > `by doing so` /baɪ ˈduːɪŋ soʊ/  ([Neutral] そうすることで)      By doing so, you'll save time.
+  - `thereby` /ðerˈbaɪ/             ([Formal] それによって)         He resigned, thereby ending the conflict.
+  - `thus` /ðʌs/                    ([Formal] このようにして)       Mix well, thus creating a smooth paste.
+  - `hence` /hens/                  ([Formal] それゆえに)           He was late, hence the penalty.
+  - `therefore` /ˈðerfɔːr/          ([Formal] したがって)           Therefore, we must act now.
+  - `accordingly` /əˈkɔːrdɪŋli/     ([Formal] それに応じて)         Plan accordingly.
+  - `as a result` /æz ə rɪˈzʌlt/    ([Neutral] その結果)            As a result, sales increased.
+  - `consequently` /ˈkɑːnsɪkwəntli/ ([Formal] 結果として)           Consequently, the project failed.
+  - `thereupon` /ˌðerəˈpɑːn/        ([Formal] その結果)             Thereupon, he left the meeting.
 > `instead of` /ɪnˈsted əv/         ([Neutral] ～の代わりに)        We stayed home instead of going out.
-> `rather than` /ˈræðər ðæn/        ([Neutral] ～よりむしろ)        I'd walk rather than take the bus.
-- `in place of` /ɪn pleɪs əv/       ([Formal] ～の代替として)       She attended in place of her boss.
-- `in lieu of` /ɪn luː əv/          ([Formal] ～の代わりに)         They gave vouchers in lieu of refunds.
-- `as an alternative to`            ([Neutral] ～の代替案として)    We chose this as an alternative to the original plan.
-- `in preference to`                ([Formal] ～より優先して)       They hired her in preference to other candidates.
-- `over` /ˈoʊvər/                   ([Casual] ～より)               I chose tea over coffee.
-- `instead` /ɪnˈsted/               ([Neutral] その代わりに)        I couldn't go. I sent a gift instead.
+  > `rather than` /ˈræðər ðæn/      ([Neutral] ～よりむしろ)        I'd walk rather than take the bus.
+  - `in place of` /ɪn pleɪs əv/     ([Formal] ～の代替として)       She attended in place of her boss.
+  - `in lieu of` /ɪn luː əv/        ([Formal] ～の代わりに)         They gave vouchers in lieu of refunds.
+  - `as an alternative to`          ([Neutral] ～の代替案として)    We chose this as an alternative to the original plan.
+  - `in preference to`              ([Formal] ～より優先して)       They hired her in preference to other candidates.
+  - `over` /ˈoʊvər/                 ([Casual] ～より)               I chose tea over coffee.
+  - `instead` /ɪnˈsted/             ([Neutral] その代わりに)        I couldn't go. I sent a gift instead.
+> `unlike` /ʌnˈlaɪk/                ([Neutral] ～とは異なり)        Unlike his earlier works, this novel is far more political.
+  - `contrary to` /ˈkɑːntreri tuː/  ([Formal] ～に反して)           Contrary to popular belief, the earth is not flat.
+  - `in contrast to`                ([Formal] ～と対照的に)         In contrast to last year, this year's sales increased.
+  - `as opposed to` /æz əˈpoʊzd tuː/([Neutral] ～と対比して)        I prefer tea as opposed to coffee.
+  - `different from` /ˈdɪfərənt frʌm([Neutral] ～と違って)          This model is different from the previous one.
+  - `in a departure from`           ([Formal] ～から転じて)         In a departure from tradition, they chose a young CEO.
+  - `breaking from` /ˈbreɪkɪŋ frʌm/ ([Neutral] ～から脱して)        Breaking from convention, she wore jeans to the gala.
+  - `departing from`                ([Formal] ～から逸脱して)       Departing from the script, he improvised his speech.
+  - `differing from` /ˈdɪfərɪŋ frʌm/([Neutral] ～と異なって)        Differing from his colleagues, he supported the proposal.
 
-## YOU KNOW WHAT I MEAN
-- `, right?` /raɪt/                 ([Casual] ～だよね？)           You're coming to the party tonight, right?
-- `, you know?` /ju noʊ/            ([Casual] 〜じゃん？)           It's just been really hectic lately, you know?
-- `, yeah?` /jeə/                   ([Casual] 〜だよね？)           That was pretty crazy, yeah?
-- `, y'know?` /jəˈnoʊ/              ([Casual] 〜じゃん？)           It's just one of those things, y'know?
+## EVEN THOUGH / EVEN IF / NO MATTER HOW
+> `even though` /ˈiːvən ðoʊ/        ([Neutral] 〜にも関わらず)      Even though he's new to the team, ~~
+  - `although` /ɔːlˈðoʊ/            ([Neutral] 〜にも関わらず)      Although it was raining, we went for a walk.
+  - `though` /ðoʊ/                  ([Casual] 〜だけど)             I'll help you, though I'm really busy.
+  - `despite` /dɪˈspaɪt/            ([Formal] 〜にもかかわらず)     Despite the weather, the event went on as planned.
+  - `in spite of` /ɪn spaɪt əv/     ([Formal] 〜に反して)           In spite of our compliments, he frowned and turned away.
+  - `regardless of` /rɪˈɡɑːrdləs əv/([Neutral] 〜に関係なく)        The show will go on regardless of the weather.
+  - `for all` /fɔːr ɔːl/            ([Formal] 〜にもかかわらず)     For all her experience, she still ~~
+  - `with all` /wɪð ɔːl/            ([Formal] 〜があっても)         With all his experience, he still made a rookie mistake.
+  - `notwithstanding`               ([Formal] 〜にもかかわらず)     Notwithstanding the difficulties, we succeeded.
+> `even if` /ˈiːvən ɪf/             ([Neutral] たとえ〜しても)      Even if it rains, we'll still go to the park.
+  - `whether or not`                ([Neutral] するしない関係なく)  I'm going whether or not you come with me.
+  - `no matter what` /noʊ ˈmætər wʌt([Neutral] 何があっても)        No matter what happens, I'll support you.
+  > `no matter how` /noʊ ˈmætər haʊ/([Neutral] どんなに〜でも)      No matter how hard I try, I can't solve this.
+  - `however much` /haʊˈevər mʌtʃ/  ([Neutral] どれだけ〜しても)    However much you study, there's always more to learn.
+  - `regardless` /rɪˈɡɑːrdləs/      ([Neutral] それでも)            He went ahead regardless of the risks.
+  - `come what may` /kʌm wʌt meɪ/   ([Formal] 何が起ころうと)       Come what may, we'll face it together.
+  - `whatever happens`              ([Casual] 何があっても)         Whatever happens, don't give up.
+
+## YOU KNOW WHAT I MEAN / OR WHAT / EACH WITH
 > `, you know what I mean?`         ([Casual] わかるでしょ？)       It's just not worth the trouble, you know what I mean?
-- `, don't you think?`              ([Neutral] そう思わない？)      The weather's been nice lately, don't you think?
-> `, does that make sense?`         ([Neutral] 意味わかる？)        We'll split the tasks like this, does that make sense?
-- `, isn't it?` /ˈɪznt ɪt/          ([Neutral] 〜でしょ？)          It's a beautiful day, isn't it?
-- `, or...?` /ɔːr/                  ([Casual] それとも...？)        Should we meet at 7, or...?
-- `, I guess` /aɪ ɡes/              ([Casual] 〜と思うけど)         It's kind of expensive, I guess.
-- `, you see?` /ju siː/             ([Casual] わかるでしょ？)       It's not just about money, you see? It's about respect.
-- `, see what I mean?`              ([Casual] わかるでしょ？)       First it broke, then it leaked. See what I mean?
-> `, if that makes sense`           ([Neutral] 伝わればいいけど)    It's more of a vibe than a strict rule, if that makes sense.
-- `, am I right?` /æm aɪ raɪt/      ([Casual] 合ってるよね？)       This whole thing is just a mess, am I right?
-- `, you get me?` /ju ɡet miː/      ([Slang] わかる？)              I'm not trying to be rude, you get me?
-- `, you feel me?` /ju fiːl miː/    ([Slang] わかるっしょ？)        I just need some space, you feel me?
-- `, know what I'm saying?`         ([Slang] わかるっしょ？)        We gotta stick together out there, know what I'm saying?
-- `, innit?` /ˈɪnɪt/                ([British] 〜でしょ？)          Bit cold today, innit?
-- `, eh?` /eɪ/                      ([Canadian] 〜だよね？)         Nice game last night, eh?
+  - `, right?` /raɪt/               ([Casual] ～だよね？)           You're coming to the party tonight, right?
+  - `, you know?` /ju noʊ/          ([Casual] 〜じゃん？)           It's just been really hectic lately, you know?
+  - `, yeah?` /jeə/                 ([Casual] 〜だよね？)           That was pretty crazy, yeah?
+  - `, y'know?` /jəˈnoʊ/            ([Casual] 〜じゃん？)           It's just one of those things, y'know?
+  - `, don't you think?`            ([Neutral] そう思わない？)      The weather's been nice lately, don't you think?
+  > `, does that make sense?`       ([Neutral] 意味わかる？)        We'll split the tasks like this, does that make sense?
+  - `, isn't it?` /ˈɪznt ɪt/        ([Neutral] 〜でしょ？)          It's a beautiful day, isn't it?
+  - `, or...?` /ɔːr/                ([Casual] それとも...？)        Should we meet at 7, or...?
+  - `, I guess` /aɪ ɡes/            ([Casual] 〜と思うけど)         It's kind of expensive, I guess.
+  - `, you see?` /ju siː/           ([Casual] わかるでしょ？)       It's not just about money, you see? It's about respect.
+  - `, see what I mean?`            ([Casual] わかるでしょ？)       First it broke, then it leaked. See what I mean?
+  > `, if that makes sense`         ([Neutral] 伝わればいいけど)    It's more of a vibe than a strict rule, if that makes sense.
+  - `, am I right?` /æm aɪ raɪt/    ([Casual] 合ってるよね？)       This whole thing is just a mess, am I right?
+  - `, you get me?` /ju ɡet miː/    ([Slang] わかる？)              I'm not trying to be rude, you get me?
+  - `, you feel me?` /ju fiːl miː/  ([Slang] わかるっしょ？)        I just need some space, you feel me?
+  - `, know what I'm saying?`       ([Slang] わかるっしょ？)        We gotta stick together out there, know what I'm saying?
+  - `, innit?` /ˈɪnɪt/              ([British] 〜でしょ？)          Bit cold today, innit?
+  - `, eh?` /eɪ/                    ([Canadian] 〜だよね？)         Nice game last night, eh?
+> `or what?` /ɔːr wʌt/              ([Casual] それともどう？)       Is this the plan, or what?
+  - `or no?` /ɔːr noʊ/              ([Casual] それとも違う？)       Should I wait or no?
+  - `or not?` /ɔːr nɑːt/            ([Neutral] それとも違う？)      Are you coming or not?
+  - `or not really?`                ([Casual] そうでもない？)       You're into horror movies, or not really?
+  - `or something?` /ɔːr ˈsʌmθɪŋ/   ([Casual] か何か？)             Are you sick or something?
+  - `or whatever` /ɔːr wʌtˈevər/    ([Casual] か何でも)             We can get pizza or whatever.
+> `, each with O`                   ([Neutral] それぞれが持ている)  Instant cameras, each with their own unique shape and design.
+> `, all with O`                    ([Neutral] 全てがOを持っている) Three cars, all with leather seats.
+  - `, both with O`                 ([Neutral] 両方とも持っている)  Two phones, both with cracked screens.
+  - `, each having O`               ([Formal] それぞれがOを持っている) Students, each having different strengths.
+  - `, each featuring O`            ([Neutral] それぞれがOを特徴とする) Models, each featuring advanced technology.
+  - `, each containing O`           ([Neutral] それぞれがOを含んでいる) Boxes, each containing different items.
+  - `, each equipped with O`        ([Neutral] それぞれがOを装備している) Cars, each equipped with GPS systems.
+  - `, each offering O`             ([Neutral] それぞれがOを提供している) Hotels, each offering unique amenities.
+  - `, each coming with O`          ([Casual] それぞれがOが付いている) Phones, each coming with a charger.
+  - `, complete with O`             ([Neutral] Oを完備している)      Apartments, complete with modern appliances.
+  - `, along with O`                ([Neutral] Oと一緒に)           Books, along with supplementary materials.
+  - `, together with O`             ([Neutral] Oと共に)             Laptops, together with carrying cases.
+  - `, accompanied by O`            ([Formal] Oを伴って)            Meals, accompanied by wine pairings.
+  - `, including O`                 ([Neutral] Oを含めて)           Packages, including delivery service.
+  - `, with O included`             ([Neutral] Oが含まれて)         Subscriptions, with premium features included.
 
-## OR WHAT
-- `or no?` /ɔːr noʊ/                ([Casual] それとも違う？)       Should I wait or no?
-- `or not?` /ɔːr nɑːt/              ([Neutral] それとも違う？)      Are you coming or not?
-- `or not really?`                  ([Casual] そうでもない？)       You're into horror movies, or not really?
-- `or something?` /ɔːr ˈsʌmθɪŋ/     ([Casual] か何か？)             Are you sick or something?
-- `or what?` /ɔːr wʌt/              ([Casual] それともどう？)       Is this the plan, or what?
-- `or whatever` /ɔːr wʌtˈevər/      ([Casual] か何でも)             We can get pizza or whatever.
-
-## KIND OF
+## KIND OF / AND STUFF / TONS OF / A BUNCH OF
 > `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
-> `sort of` /sɔːrt əv/              ([Casual] ちょっと、なんか)     I sort of understand what you mean.
-> `a little` /ə ˈlɪtəl/             ([Neutral] 少し、ちょっと)      She seems a little upset.
-> `a bit` /ə bɪt/                   ([Casual] ちょっと、少し)       It's a bit cold outside.
-- `somewhat` /ˈsʌmwʌt/              ([Neutral] いくぶん、多少)      The results were somewhat surprising.
-- `rather` /ˈræðər/                 ([Neutral] かなり、やや)        The movie was rather disappointing.
-- `pretty` /ˈprɪti/                 ([Casual] かなり、相当)         She's pretty smart.
-- `pretty much` /ˈprɪti mʌtʃ/       ([Casual] ほとんど、だいたい)   I pretty much finished the report.
-- `fairly` /ˈferli/                 ([Neutral] かなり、まあまあ)    He speaks English fairly well.
-- `quite` /kwaɪt/                   ([Neutral] かなり、相当)        That's quite interesting.
-- `slightly` /ˈslaɪtli/             ([Neutral] わずかに、少し)      I'm slightly concerned about this.
-- `moderately` /ˈmɑːdərətli/        ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
-- `more or less` /mɔːr ɔːr les/     ([Neutral] だいたい、多少)      The work is more or less done.
-
-## AND STUFF
-- `and all that` /ænd ɔːl ðæt/      ([Casual] などなど、~とか)      He likes movies, books, and all that.
-- `and the like` /ænd ðə laɪk/      ([Neutral] そういうもの)        We need books, papers, and the like.
-- `and such` /ænd sʌtʃ/             ([Neutral] そういったもの)      He studies math, science, and such.
-- `et cetera` /ɛt ˈsɛtərə/          ([Formal] その他)               They sell books, magazines, et cetera.
-- `and so on` /ænd soʊ ɑn/          ([Neutral] というように)        One, two, three, and so on.
-- `and whatnot` /ænd ˈwʌtnɑt/       ([Casual] など)                 She collects stamps, coins, and whatnot.
-- `and so forth` /ænd soʊ fɔrθ/     ([Neutral] などなど)            First, second, third, and so forth.
+  > `sort of` /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
+  > `a little` /ə ˈlɪtəl/           ([Neutral] 少し、ちょっと)      She seems a little upset.
+  > `a bit` /ə bɪt/                 ([Casual] ちょっと、少し)       It's a bit cold outside.
+  - `somewhat` /ˈsʌmwʌt/            ([Neutral] いくぶん、多少)      The results were somewhat surprising.
+  - `rather` /ˈræðər/               ([Neutral] かなり、やや)        The movie was rather disappointing.
+  - `pretty` /ˈprɪti/               ([Casual] かなり、相当)         She's pretty smart.
+  - `pretty much` /ˈprɪti mʌtʃ/     ([Casual] ほとんど、だいたい)   I pretty much finished the report.
+  - `fairly` /ˈferli/               ([Neutral] かなり、まあまあ)    He speaks English fairly well.
+  - `quite` /kwaɪt/                 ([Neutral] かなり、相当)        That's quite interesting.
+  - `slightly` /ˈslaɪtli/           ([Neutral] わずかに、少し)      I'm slightly concerned about this.
+  - `moderately` /ˈmɑːdərətli/      ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
+  - `more or less` /mɔːr ɔːr les/   ([Neutral] だいたい、多少)      The work is more or less done.
 > `and stuff` /ænd stʌf/            ([Casual] とかそういうの)       He likes pizza, burgers, and stuff.
-- `and things` /ænd θɪŋz/           ([Casual] とかいろいろ)         She bought shoes, bags, and things.
-- `and all that jazz`               ([Casual] そういうもの全部)     He talks about success, money, and all that jazz.
-
-## TONS OF / A BUNCH OF
+  - `and all that` /ænd ɔːl ðæt/    ([Casual] などなど、~とか)      He likes movies, books, and all that.
+  - `and the like` /ænd ðə laɪk/    ([Neutral] そういうもの)        We need books, papers, and the like.
+  - `and such` /ænd sʌtʃ/           ([Neutral] そういったもの)      He studies math, science, and such.
+  - `et cetera` /ɛt ˈsɛtərə/        ([Formal] その他)               They sell books, magazines, et cetera.
+  - `and so on` /ænd soʊ ɑn/        ([Neutral] というように)        One, two, three, and so on.
+  - `and whatnot` /ænd ˈwʌtnɑt/     ([Casual] など)                 She collects stamps, coins, and whatnot.
+  - `and so forth` /ænd soʊ fɔrθ/   ([Neutral] などなど)            First, second, third, and so forth.
+  - `and things` /ænd θɪŋz/         ([Casual] とかいろいろ)         She bought shoes, bags, and things.
+  - `and all that jazz`             ([Casual] そういうもの全部)     He talks about success, money, and all that jazz.
 > `tons of`                         ([Casual] たくさんの)           I have tons of homework.
-- `loads of`                        ([Casual] たくさんの)           We have loads of time.
-> `a bunch of`                      ([Casual] たくさんの)           A bunch of people came.
-- `heaps of`                        ([Casual] 山ほどの)             There are heaps of problems.
-- `masses of`                       ([Casual] 大量の)               Masses of people attended.
-- `different`                       ([Neutral] 異なる)              Different people have different views.
-- `all kinds of`                    ([Casual] あらゆる種類の)       I eat all kinds of food.
-- `all sorts of`                    ([Casual] あらゆる種類の)       She reads all sorts of books.
-- `various kinds of`                ([Neutral] 様々な種類の)        Various kinds of flowers bloom here.
-- `different types of`              ([Neutral] 異なる種類の)        Different types of cars are available.
-- `most of`                         ([Neutral] ほとんどの)          Most of the work is done.
-- `some more`                       ([Casual] もう少し)              Can I have some more coffee?
-- `a bit more`                      ([Casual] もう少し)              I need a bit more time.
-- `a little more`                   ([Neutral] もう少し)            Just a little more patience.
-- `much more`                       ([Neutral] ずっと多く)          This costs much more.
-- `many more`                       ([Neutral] ずっと多く)          Many more people joined.
-- `a lot more`                      ([Casual] ずっと多く)           We need a lot more help.
-- `way more`                        ([Casual] ずっと多く)           That's way more than enough.
-- `far more`                        ([Neutral] はるかに多く)        This is far more difficult.
-- `a good deal of`                  ([Neutral] かなりの)            A good deal of time was spent.
-- `a great deal of`                 ([Formal] 大いなる)             A great deal of effort was required.
-- `a fair amount of`                ([Neutral] かなりの)            A fair amount of work remains.
-- `a considerable amount of`        ([Formal] かなりの)             A considerable amount of money was spent.
-- `an enormous amount of`           ([Neutral] 膨大な)              An enormous amount of data was collected.
-- `a huge amount of`                ([Casual] 膨大な)               A huge amount of time was wasted.
-- `a vast amount of`                ([Formal] 膨大な)               A vast amount of research was done.
-- `a wealth of`                     ([Neutral] 豊富な)               She has a wealth of experience.
-- `a number of`                     ([Formal] 多数の)               A number of factors were considered.
-- `a handful of`                    ([Neutral] 少数の)              Only a handful of people came.
-- `a couple of`                     ([Casual] いくつかの)           I need a couple of minutes.
-- `no more than`                    ([Neutral] せいぜい)            It costs no more than $20.
-- `no less than`                    ([Neutral] 〜も)                No less than 100 people came.
-- `at least`                        ([Neutral] 少なくとも)          At least 50 people attended.
-- `at most`                         ([Neutral] せいぜい)            At most 10 people can fit.
-- `up to`                           ([Neutral] 最大で)              Up to 20 people can join.
-- `as many as`                      ([Neutral] 〜も)                As many as 1000 people came.
-- `as much as`                      ([Neutral] 〜も)                It costs as much as $500.
-- `as few as`                       ([Neutral] わずか)              As few as 5 people showed up.
-- `as little as`                    ([Neutral] わずか)              It costs as little as $10.
-- `A out of B`                      ([Neutral] BのうちのA)          3 out of 5 people agreed.
-- `A in B`                          ([Neutral] BのうちのA)          1 in 10 people disagree.
-
-## I MEAN / AS IN
-> `I mean`                          ([Casual] つまり、その)         I'm tired. I mean, I only slept 3 hours.
-- `basically`                       ([Casual] 基本的に、要するに)   Basically, we need to start over.
-> `the thing is`                    ([Casual] 実は、要は)           The thing is, I forgot my wallet.
-> `the point is`                    ([Neutral] 要点は)              The point is, we can't afford it.
-> `as in`                           ([Neutral] つまり)              Give me a fruit, as in an apple or orange.
-- `in other words`                  ([Neutral] 言い換えると)        She's busy. In other words, she can't come.
-- `let me rephrase that`            ([Neutral] 言い直すと)          Let me rephrase that - it's challenging.
-- `to put it another way`           ([Neutral] 別の言い方をすると)  To put it another way, we're broke.
-> `to clarify`                      ([Formal] 明確にすると)         To clarify, the meeting is at 3pm.
-- `let me be clear`                 ([Formal] はっきり言うと)       Let me be clear - this is unacceptable.
-- `that is to say`                  ([Formal] つまり、すなわち)     He's retired, that is to say, not working.
-
-## ONE THAT IS
-- `what I mean is`                  ([Neutral] 言いたいのは)        What I mean is, we need more time.
-- `what I'm saying is`              ([Casual] 言ってるのは)         What I'm saying is, it's not that simple.
-- `what I'm trying to say is`       ([Casual] 言おうとしてるのは)   What I'm trying to say is, I appreciate it.
-- `what I meant was`                ([Neutral] 言いたかったのは)    What I meant was, you should be careful.
-> `one that is`                     ([Neutral] ~であるもの)         I need a car, one that is reliable.
-- `what I meant to say was`         ([Neutral] 言うつもりだたのは)  Sorry, what I meant to say was Thursday.
-
-- [ ] `, each with O`                       ([Neutral] それぞれがOを持っている) Instant cameras, `each with` their own unique shape and design.
-- [ ] `, not just O`                        ([Neutral] O だけじゃなくて) [Link](../../output/business/20250605.md)
+  - `loads of`                      ([Casual] たくさんの)           We have loads of time.
+  > `a bunch of`                    ([Casual] たくさんの)           A bunch of people came.
+  - `heaps of`                      ([Casual] 山ほどの)             There are heaps of problems.
+  - `masses of`                     ([Casual] 大量の)               Masses of people attended.
+  - `different`                     ([Neutral] 異なる)              Different people have different views.
+  - `all kinds of`                  ([Casual] あらゆる種類の)       I eat all kinds of food.
+  - `all sorts of`                  ([Casual] あらゆる種類の)       She reads all sorts of books.
+  - `various kinds of`              ([Neutral] 様々な種類の)        Various kinds of flowers bloom here.
+  - `different types of`            ([Neutral] 異なる種類の)        Different types of cars are available.
+  - `most of`                       ([Neutral] ほとんどの)          Most of the work is done.
+  - `some more`                     ([Casual] もう少し)              Can I have some more coffee?
+  - `a bit more`                    ([Casual] もう少し)              I need a bit more time.
+  - `a little more`                 ([Neutral] もう少し)            Just a little more patience.
+  - `much more`                     ([Neutral] ずっと多く)          This costs much more.
+  - `many more`                     ([Neutral] ずっと多く)          Many more people joined.
+  - `a lot more`                    ([Casual] ずっと多く)           We need a lot more help.
+  - `way more`                      ([Casual] ずっと多く)           That's way more than enough.
+  - `far more`                      ([Neutral] はるかに多く)        This is far more difficult.
+  - `a good deal of`                ([Neutral] かなりの)            A good deal of time was spent.
+  - `a great deal of`               ([Formal] 大いなる)             A great deal of effort was required.
+  - `a fair amount of`              ([Neutral] かなりの)            A fair amount of work remains.
+  - `a considerable amount of`      ([Formal] かなりの)             A considerable amount of money was spent.
+  - `an enormous amount of`         ([Neutral] 膨大な)              An enormous amount of data was collected.
+  - `a huge amount of`              ([Casual] 膨大な)               A huge amount of time was wasted.
+  - `a vast amount of`              ([Formal] 膨大な)               A vast amount of research was done.
+  - `a wealth of`                   ([Neutral] 豊富な)               She has a wealth of experience.
+  - `a number of`                   ([Formal] 多数の)               A number of factors were considered.
+  - `a handful of`                  ([Neutral] 少数の)              Only a handful of people came.
+  - `a couple of`                   ([Casual] いくつかの)           I need a couple of minutes.
+  - `no more than`                  ([Neutral] せいぜい)            It costs no more than $20.
+  - `no less than`                  ([Neutral] 〜も)                No less than 100 people came.
+  - `at least`                      ([Neutral] 少なくとも)          At least 50 people attended.
+  - `at most`                       ([Neutral] せいぜい)            At most 10 people can fit.
+  - `up to`                         ([Neutral] 最大で)              Up to 20 people can join.
+  - `as many as`                    ([Neutral] 〜も)                As many as 1000 people came.
+  - `as much as`                    ([Neutral] 〜も)                It costs as much as $500.
+  - `as few as`                     ([Neutral] わずか)              As few as 5 people showed up.
+  - `as little as`                  ([Neutral] わずか)              It costs as little as $10.
+  - `A out of B`                    ([Neutral] BのうちのA)          3 out of 5 people agreed.
+  - `A in B`                        ([Neutral] BのうちのA)          1 in 10 people disagree.
