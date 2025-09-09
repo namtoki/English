@@ -1,6 +1,6 @@
 # Task
 
-## ACTION (ORGANIZE / SORT OUT / LOOK INTO / EXERCISE / CHOOSE / MAKE SURE / PROVE)
+## BASIC ACTION (ORGANIZE / SORT OUT / LOOK INTO / EXERCISE / CHOOSE / MAKE SURE / PROVE)
 > `organize` /ˈɔːrɡənaɪz/           ([Neutral] 整理する、組織する)  I need to organize my files.
   - `clean up` /kliːn ʌp/           ([Casual] 片付ける、掃除する)   We need to clean up this mess.
   - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
@@ -101,6 +101,25 @@
   - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
 
+## AUTHENTICATION (GRANT)
+> `grant` /ɡrɑːnt/                  ([Formal] 認可する、付与する)   The committee granted my request.
+  - `allow` /əˈlaʊ/                 ([Neutral] 許可する)            My parents allowed me to go to the party.
+  - `permit` /pəˈmɪt/               ([Formal] 許可する)             Smoking is not permitted here.
+  - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成)      The committee approved the new policy.
+  - `disapprove` /ˌdɪsəˈpruːv/      ([Formal] 不承認する)           I disapprove of your decision.
+  - `authorize` /ˈɔːθəraɪz/         ([Formal] 権限を与える)         Only authorized personnel can enter this area.
+  - `override` /ˌoʊvərˈraɪd/        ([Formal] 無効にする)           The president can override the veto.
+  - `supersede` /ˌsuːpərˈsiːd/      ([Formal] 取って代わる)         The new law will supersede the old one.
+  - `weather` /ˈweðər/              ([Neutral] 切り抜ける、乗り切る) The company weathered the crisis.
+  - `overrule` /ˌoʊvərˈruːl/        ([Formal] 却下する)             The judge overruled the objection.
+  - `nullify` /ˈnʌlɪˌfaɪ/           ([Formal] 無効化する)           The court nullified the contract.
+  - `veto` /ˈviːtoʊ/                ([Formal] 拒否権行使)           The governor vetoed the bill.
+  - `annul` /əˈnʌl/                 ([Formal] 無効にする)           They decided to annul the marriage.
+  - `revoke` /rɪˈvoʊk/              ([Formal] 取り消す)             His license was revoked.
+  - `repeal` /rɪˈpiːl/              ([Formal] 廃止する)             Congress repealed the law.
+  - `rescind` /rɪˈsɪnd/             ([Formal] 撤回する)             The company rescinded the offer.
+  - `invalidate` /ɪnˈvælɪˌdeɪt/     ([Formal] 無効にする)           This will invalidate your warranty.
+
 ## PREPARE (ASSIGN / SCHEDULE)
 > `assign` /əˈsaɪn/                 ([Neutral] 割り当てる 指定する) She was assigned to the project.
   - `allocate` /ˈæləkeɪt/           ([Neutral] 割り当てる 配分する) We'll allocate resources to each team.
@@ -139,41 +158,56 @@
   - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
   - `put together` /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
 
-## GET/HAVE/LET/MAKE
-- `get O C` /ɡet/                   ([Neutral] OをCの状態にする)    This song gets me feeling nostalgic.
-- `get O to V` /ɡet/                ([Neutral] OにVさせる)          I got him to help with the project.
-- `have O V` /hæv/                  ([Neutral] OにVさせる)          I'll have him call you back.
-- `have O Ved` /hæv/                ([Neutral] OをVしてもらう)      I had my car repaired yesterday.
-- `let O V` /let/                   ([Neutral] OにVさせる)          Let me help you with that.
-- `make O V` /meɪk/                 ([Neutral] OにVさせる)          The movie made me cry.
-- `make O C` /meɪk/                 ([Neutral] OをCにする)          This news makes me happy.
-
-## LEAVE UP TO / BANK ON
+## TURN TO (使役 / LEAVE UP TO / BANK ON)
+> `make O    V` /meɪk/              ([強制的]  OにVさせる)          The movie made me cry.
+> `get  O to V` /ɡet/               ([説得/依頼] OにVさせる)        I got him to help with the project.
+> `have O    V` /hæv/               ([指示/依頼] OにVさせる)        I'll have him call you back.
+> `let  O    V` /let/               ([許可] OにVさせる)             Let me help you with that.
+> `make O    C` /meɪk/              ([直接/即座] OをCにする)        This news makes me happy.
+> `get  O    C` /ɡet/               ([感情/徐々] OをCの状態にする)  This song gets me feeling nostalgic.
+> `have O    C` /hæv/               ([状態維持] OをCの状態に保つ)   I have my room clean.
+> `have O    Ved` /hæv/             ([間接/依頼] OをVしてもらう)    I had my car repaired yesterday.
 > `leave ~ up to` /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.
-- `hand over to` /hænd ˈoʊvər tuː/  ([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
-- `turn over to` /tɜːrn ˈoʊvər tuː/ ([Neutral] 〜に引き渡す)        Turn the matter over to the lawyers.
-- `put ~ in someone's hands`        ([Neutral] 〜の手に委ねる)      I put my future in your hands.
-> `bank on` /bæŋk ɑːn/              ([Casual] 〜を当てにする)       Don't bank on getting that promotion.
-- `delegate ~ to` /ˈdɛlɪɡeɪt tuː/   ([Formal] 〜に委任する)         She delegated the work to her team.
-- `entrust ~ to` /ɪnˈtrʌst tuː/     ([Formal] 〜に委ねる)           I entrust this task to you.
+  - `hand over to` /hænd ˈoʊvər tuː/([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
+  - `turn over to` /tɜːrn ˈoʊvər tuː([Neutral] 〜に引き渡す)        Turn the matter over to the lawyers.
+  - `put ~ in someone's hands`      ([Neutral] 〜の手に委ねる)      I put my future in your hands.
+  > `bank on` /bæŋk ɑːn/            ([Casual] 〜を当てにする)       Don't bank on getting that promotion.
+  - `delegate ~ to` /ˈdɛlɪɡeɪt tuː/ ([Formal] 〜に委任する)         She delegated the work to her team.
+  - `entrust ~ to` /ɪnˈtrʌst tuː/   ([Formal] 〜に委ねる)           I entrust this task to you.
 
-## DETAILED ACTION (SHORTEN)
+## DETAILED ACTION (SHORTEN / CUT CORNERS / SLACK OFF)
 > `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.
   - `condense` /kənˈdens/           ([Neutral] 凝縮する)            Condense your report to one page.
   - `abbreviate` /əˈbriːvieɪt/      ([Formal] 短縮する)             Please abbreviate the company name.
   - `curtail` /kɜːrˈteɪl/           ([Formal] 削減する)             We had to curtail our expenses.
   - `truncate` /ˈtrʌŋkeɪt/          ([Formal] 切り詰める)           The system truncates long file names.
   - `abridge` /əˈbrɪdʒ/             ([Formal] 短縮する)             They abridged the novel for young readers.
-
-## CUT CORNERS / SLACK OFF
 > `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
-> `slack off` /slæk ɔːf/            ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
-- `rush through` /rʌʃ θruː/         ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
-- `be careless` /biː ˈkɛrləs/       ([Neutral] 不注意である)        Don't be careless with important documents.
-- `take shortcuts`                  ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
-> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
-- `half-hearted` /ˌhæf ˈhɑːrtəd/    ([Neutral] やる気のない)        His effort was half-hearted.
-- `do the bare minimum`             ([Neutral] 最低限しかしない)    She does the bare minimum required.
-- `go through the motions`          ([Neutral] 形だけやる)          He's just going through the motions.
-- `skimp on` /skɪmp ɑːn/            ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
-- `phone it in`                     ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+  > `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
+  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
+  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+  > `be sloppy` /biː ˈslɑːpi/       ([Casual] いい加減である)       Your work has been sloppy lately.
+  - `half-hearted` /ˌhæf ˈhɑːrtəd/  ([Neutral] やる気のない)        His effort was half-hearted.
+  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
+  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
+  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+  - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+
+## INFLUENCE
+> `influence` /ˈɪnfluəns/           ([Neutral] 影響する、左右する)  Weather influences our mood.
+  > `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
+  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、決める)    Several factors determine the outcome.
+  - `drive` /draɪv/                 ([Neutral] 駆動する、左右する)  Competition drives innovation.
+  - `shape` /ʃeɪp/                  ([Neutral] 形作る、左右する)    Experiences shape our personality.
+  - `control` /kənˈtroʊl/           ([Neutral] 支配する、制御する)  Who controls the budget?
+  - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
+  > `dictate` /dɪkˈteɪt/            ([Neutral] 左右する、決定する)  Market forces dictate the price.
+  - `guide` /ɡaɪd/                  ([Neutral] 導く、指導する)      Let principles guide your actions.
+  - `direct` /dəˈrekt/              ([Neutral] 指示する、導く)      She directs the operations.
+  - `govern` /ˈɡʌvərn/              ([Formal] 支配する、左右する)   Supply and demand govern prices.
+  - `sway` /sweɪ/                   ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
+  - `steer` /stɪr/                  ([Neutral] 導く、左右する)      He steered the conversation away.
+  - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
+  - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
+  - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.

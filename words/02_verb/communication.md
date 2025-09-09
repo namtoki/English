@@ -49,6 +49,8 @@
 > `be in contact`                   ([Neutral] 連絡を保つ)          We're still in contact.
   > `keep in touch` /kiːp ɪn tʌtʃ/  ([Neutral] 連絡を保つ)          Let's keep in touch.
   - `stay in touch` /steɪ ɪn tʌtʃ/  ([Neutral] 連絡を保つ)          Stay in touch!
-
-## HEAR FROM
 > `hear from` /hɪr frʌm/            ([Neutral] 連絡をもらう)        I hope to hear from you soon.
+  - `receive` /rɪˈsiːv/             ([Neutral] 連絡をもらう)        I received your message yesterday.
+  - `be contacted by`               ([Neutral] 連絡を受ける)        I was contacted by the manager.
+  - `get     word from`             ([Neutral] 便りをもらう)        I got word from him this morning.
+  - `receive word from`             ([Formal] 便りを受ける)         We received word from headquarters.

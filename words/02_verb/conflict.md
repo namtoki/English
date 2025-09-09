@@ -260,3 +260,13 @@
   - `devastate` /ˈdevəsteɪt/        ([Formal] 壊滅させる)           The earthquake devastated the city.
   - `obliterate` /əˈblɪtəreɪt/      ([Formal] 完全に破壊する)       The explosion obliterated the building.
   - `annihilate` /əˈnaɪəleɪt/       ([Formal] 全滅させる)           The army annihilated the enemy forces.
+
+## LEGAL (CLEAR / )
+> `clear` /klɪr/                    ([Casual] 無実を証明する)       The evidence cleared him of all charges.
+  - `prove innocent`                ([Neutral] 無実を証明する)      The investigation proved him innocent.
+  > `acquit` /əˈkwɪt/               ([Legal] 無罪とする)            The jury acquitted the defendant.
+  - `vindicate` /ˈvɪndɪkeɪt/        ([Formal] 汚名を晴らす)         The investigation vindicated his claims.
+  > `exonerate` /ɪɡˈzɒnəreɪt/       ([Formal] 無罪とする)           The new evidence exonerated him.
+  - `absolve` /əbˈzɒlv/             ([Formal] 免罪する)             The priest absolved him of his sins.
+  - `pardon` /ˈpɑːdən/              ([Formal] 恩赦する)             The president pardoned the prisoner.
+  - `exculpate` /ˈekskʌlpeɪt/       ([Legal] 無罪を証明する)        The evidence exculpated the suspect.
