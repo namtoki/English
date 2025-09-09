@@ -898,3 +898,45 @@
   - `indistinct` /ˌɪndɪˈstɪŋkt/       ([Writing] 不明瞭な)         The voice on the phone was indistinct.
 
   - `be a hassle`                    ([Casual] 面倒である)           Getting there is such a hassle.
+
+## RANDOM (SLANG)
+- `random` /ˈrændəm/                ([Casual] めちゃくちゃな)       That was so random! Why did he say that?
+  - `randomly` /ˈrændəmli/          ([Casual] めちゃくちゃに)       He just randomly started singing.
+  - `randomness` /ˈrændəmnəs/       ([Casual] めちゃくちゃさ)       I love the randomness of his jokes.
+- `off-the-wall` /ɔːf ðə wɔːl/     ([Casual] 突飛な)               His off-the-wall ideas are sometimes brilliant.
+- `out of nowhere` /aʊt əv ˈnoʊwer/ ([Casual] いきなり)             She appeared out of nowhere.
+- `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な)              That was a bizarre situation.
+- `wacky` /ˈwæki/                   ([Casual] 変な)                 He has a wacky sense of humor.
+- `oddball` /ˈɑːdbɔːl/              ([Casual] 変人)                 He's a bit of an oddball.
+
+## ABOMINABLE
+- `abominable` /əˈbɑːmɪnəbəl/       ([Formal] 忌まわしい、ひどい)    The weather was abominable yesterday.
+  - `abominate` /əˈbɑːmɪneɪt/       ([Formal] 嫌悪する)             I abominate dogma.
+  - `abomination` /əˌbɑːmɪˈneɪʃən/  ([Formal] 忌まわしいもの)        Cruelty to animals is an abomination.
+  - `abominably` /əˈbɑːmɪnəbli/     ([Formal] ひどく)               She behaved abominably.
+- `detestable` /dɪˈtestəbəl/        ([Formal] 忌まわしい)           His behavior was detestable.
+- `loathsome` /ˈloʊθsəm/            ([Formal] 嫌悪すべき)           The smell was loathsome.
+- `reprehensible` /ˌreprɪˈhensəbəl/ ([Formal] 非難すべき)          His actions were reprehensible.
+- `despicable` /dɪˈspɪkəbəl/        ([Formal] 軽蔑すべき)           It was a despicable act.
+- `heinous` /ˈheɪnəs/               ([Formal] 極悪な)               It was a heinous crime.
+
+## ABORIGINAL
+- `aboriginal` /ˌæbəˈrɪdʒɪnəl/     ([Formal] 先住の、原住の)        The aboriginal peoples of Australia have a rich culture.
+  - `aborigine` /ˌæbəˈrɪdʒɪni/     ([Formal] 原住民)              The aborigines were the first inhabitants.
+  - `aboriginally` /ˌæbəˈrɪdʒɪnəli/ ([Formal] 原初から)            The land was aboriginally inhabited by tribes.
+- `indigenous` /ɪnˈdɪdʒənəs/       ([Formal] 固有の、土着の)        These plants are indigenous to the region.
+- `native` /ˈneɪtɪv/               ([Neutral] 原産の、生まれつきの) She is a native speaker of English.
+- `endemic` /ɛnˈdɛmɪk/             ([Formal] 風土病の、固有の)      This species is endemic to Madagascar.
+- `autochthonous` /ɔːˈtɑːkθənəs/   ([Formal] 土着の、原住の)        The autochthonous culture was well preserved.
+- `primordial` /praɪˈmɔːrdiəl/     ([Formal] 原始の、根本的な)      Life evolved from primordial conditions.
+
+## ABORTIVE
+- `abortive` /əˈbɔːrtɪv/            ([Formal] 失敗の、挫折した)      The coup attempt was abortive.
+  - `abort` /əˈbɔːrt/               ([Formal] 中止する)             We had to abort the mission.
+  - `abortion` /əˈbɔːrʃən/          ([Formal] 中絶、失敗)           The plan was an abortion.
+  - `abortively` /əˈbɔːrtɪvli/      ([Formal] 失敗して)             The project ended abortively.
+- `futile` /ˈfjuːtaɪl/              ([Formal] 無益な、無駄な)        His efforts were futile.
+- `fruitless` /ˈfruːtləs/           ([Formal] 無益な、実らない)      The search was fruitless.
+- `ineffectual` /ˌɪnɪˈfektʃuəl/     ([Formal] 効果のない)           His protests were ineffectual.
+- `vain` /veɪn/                     ([Neutral] 無駄な、虚栄心の)    All their efforts were in vain.
+- `bootless` /ˈbuːtləs/             ([Writing] 無益な)              Their bootless cries went unheard.

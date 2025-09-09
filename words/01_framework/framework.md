@@ -93,17 +93,17 @@
 
 ## TO SUM UP / AT THE END OF THE DAY / THE BOTTOM LINE IS / TO BE HONEST / MOST OF ALL / BESIDES / ON TOP OF THAT / IN ADDITION TO THAT / IN THE FIRST PLACE
 > `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.
-  > `at the end of the day`         ([Casual] 結局のところ)         At the end of the day, we're all human.
-  > `in short` /ɪn ʃɔːrt/           ([Neutral] 要するに)            In short, we need to work harder.
   > `simply put`                    ([Neutral] 簡単に言えば)        Simply put, we need to improve communication.
   > `to recap` /tuː ˈriːkæp/        ([Neutral] 要約すると)          To recap, we have three main goals.
-  > `the bottom line is`            ([Casual] 要は)                 The bottom line is we need more funding.
   - `in a nutshell`                 ([Neutral] 手短に言えば)        In a nutshell, the project was a success.
   - `long story short`              ([Casual] 手短に言うと)         Long story short, we won the contract.
     - `to make a long story short`  ([Casual] 手短に言うと)         To make a long story short, I got the job.
   - `in brief` /ɪn briːf/           ([Neutral] 簡潔に言うと)        In brief, the plan failed.
   - `to put it simply`              ([Neutral] 簡単に言うと)        To put it simply, we're out of time.
   - `put simply`                    ([Neutral] 簡単に言えば)        Put simply, it won't work.
+> `at the end of the day`           ([Casual] 結局のところ)         At the end of the day, we're all human.
+  > `in short` /ɪn ʃɔːrt/           ([Neutral] 要するに)            In short, we need to work harder.
+  > `the bottom line is`            ([Casual] 要は)                 The bottom line is we need more funding.
 > `to be honest`                    ([Casual] 正直に言うと)         To be honest, I didn't like the movie.
   - `honestly` /ˈɑːnɪstli/          ([Casual] 正直に言って)         Honestly, I think we should wait.
   - `frankly` /ˈfræŋkli/            ([Neutral] 率直に言って)        Frankly, I'm disappointed.
@@ -612,3 +612,6 @@
   - `as little as`                  ([Neutral] わずか)              It costs as little as $10.
   - `A out of B`                    ([Neutral] BのうちのA)          3 out of 5 people agreed.
   - `A in B`                        ([Neutral] BのうちのA)          1 in 10 people disagree.
+
+## S V-ing, THAT'D BE
+- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.

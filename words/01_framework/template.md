@@ -39,6 +39,7 @@
   > `Will do`                       ([Casual] やっておきます)       Can you send the report? Will do.
   > `On it`                         ([Casual] 取り掛かります)       We need this ASAP. On it.
   - `I'm on it`                     ([Casual] 取り掛かっています)   Can you fix this? I'm on it.
+  - `Noted`                         ([Neutral] 了解しました)        The deadline is Friday. Noted.
 - `Sure thing`                      ([Casual] もちろんです)         Can you help me? Sure thing.
   - `No problem`                    ([Casual] 問題ないです)         Can you do this? No problem.
   - `Absolutely`                    ([Neutral] もちろんです)        Can you attend? Absolutely.
@@ -61,6 +62,66 @@
 > `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
 
+## I FEEL YOU / FAIR ENOUGH / YOU HAVE A POINT BUT / TRUE / RIGHT / THAT WOULD BE GREAT / GOOD TO KNOW / YOU FLATTER ME / THAT'S FUNNY / GOOD FOR YOU / YOU NEVER KNOW
+> `I feel you`                      ([Casual] わかるよ)             I'm tired of living in the city. Yeah, I feel you.
+  > `I get it`                      ([Casual] わかるよ)             I get it. It's really frustrating when things don't go your way.
+  - `I see what you mean`           ([Casual] おっしゃることはわかる) I see what you mean about the deadline pressure.
+  - `That must be tough`            ([Neutral] それは大変ですね)    That must be tough. Let me know if there's anything I can do.
+  - `I can relate`                  ([Casual] 共感できる)           I can relate to your frustration with the system.
+  - `I know the feeling`            ([Casual] その気持ちわかる)     I know the feeling when deadlines pile up.
+  - `Same here`                     ([Casual] 私もです)             I'm tired today. Same here.
+  - `So do I`                       ([Casual] 私もそうです)         I love hiking. So do I.
+  - `Neither do I`                  ([Casual] 私もそうです)         I don't like spicy food. Neither do I.
+> `Fair enough`                     ([Casual] まあそれもありだね)   Fair enough, I see your point.
+  - `I know what you're saying,but` ([Casual] わかるけど)           I know what you're saying, but we need to consider the budget.
+  - `I see your point, but`         ([Neutral] おしゃる通りですが)  I see your point, but there are other factors.
+  - `That's true, but`              ([Casual] それは確かだけど)     That's true, but we should think about timing.
+  > `You have a point, but`         ([Neutral] 一理ありますが)      You have a point, but I'm not fully convinced.
+  - `I hear you, but`               ([Casual] 言いたいことわかるが) I hear you, but let's consider alternatives.
+  - `Valid point, however`          ([Formal] 妥当な指摘ですが)     Valid point, however, we must consider costs.
+  - `I understand, but`             ([Neutral] わかりますが)        I understand, but we need more data.
+> `(That's) True`                   ([Casual] たしかに)             That's true, we need to rethink the plan.
+  > `(You're) Right`                ([Casual] その通り)             You're right, that makes sense to me.
+  > `I know, right?`                ([Casual] だよね)               I know, right? That movie was amazing!
+  - `Exactly`                       ([Casual] その通り)             Exactly, that's what I was thinking.
+  - `Absolutely`                    ([Neutral] まったくその通り)    Absolutely, I couldn't agree more.
+  - `That's what I think, too`      ([Casual] 私もそう思う)         That's what I think, too. We need to act quickly.
+  - `No doubt about it`             ([Neutral] 間違いない)          No doubt about it, this is the best solution.
+  - `You can say that again`        ([Casual] まったくその通り)     You can say that again. This project has been tough.
+  - `Tell me about it`              ([Casual] まったくその通り)     Tell me about it! I've been so busy lately.
+  - `I couldn't agree more`         ([Neutral] 大賛成です)          I couldn't agree more with your assessment.
+  - `My thoughts exactly`           ([Neutral] 私もそう思ってた)    My thoughts exactly about the new policy.
+> `That would be great`             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
+  - `That'd be perfect`             ([Casual] それは完璧だ)         That'd be perfect for our meeting schedule.
+> `Good to know`                    ([Casual] 知れてよかった)       Thanks for the update. Good to know.
+  - `Thanks for the heads up`       ([Casual] 教てくれてありがとう) Thanks for the heads up about the meeting change.
+  - `I appreciate the update`       ([Neutral] 報告ありがとう)      I appreciate the update on the project status.
+  - `That's helpful`                ([Casual] 助かります)           That's helpful, I'll keep that in mind.
+> `You flatter me`                  ([Formal] お世辞でも嬉しい)     You flatter me. I'm just doing my job.
+  - `I'm flattered`                 ([Neutral] 光栄です)            I'm flattered by your compliment.
+  - `You give me too much credit`   ([Neutral] 買いかぶりすぎです)  You give me too much credit. It was a team effort.
+  - `I don't deserve that`          ([Neutral] そんな資格ないです)  I don't deserve that praise.
+> `That's funny`                    ([Casual] おもしろい)           That's funny, I didn't expect that twist.
+  - `That's interesting`            ([Neutral] 興味深い)            That's interesting. Tell me more about it.
+> `That's funny`                    ([Casual] おかしいなぁ)         That's funny, I thought the meeting was at 3, not 2.
+  - `That's strange`                ([Neutral] 変だな)              That's strange, I can't find my keys.
+  - `That's weird`                  ([Casual] 変だな)               That's weird, the system was working yesterday.
+  - `That's odd`                    ([Neutral] 変だな)              That's odd, the door was locked earlier.
+  - `That's curious`                ([Neutral] 不思議だな)          That's curious, why would they cancel?
+  - `How strange`                   ([Neutral] なんて変なんだ)      How strange, I've never seen that before.
+  - `How odd`                       ([Neutral] なんて変なんだ)      How odd, the lights are still on.
+> `Good for you!`                   ([Casual] よかったね)           You got promoted? Good for you!
+  - `Lucky you!`                    ([Casual] うらやましい)         You got tickets to the concert? Lucky you!
+  - `Congrats!`                     ([Casual] おめでとう)           You passed the exam? Congrats!
+  - `I'm jealous`                   ([Casual] うらやましい)         A week in Hawaii? I'm jealous!
+  - `I'm so envious`                ([Casual] すごくうらやましい)   I'm so envious of your new car.
+  - `Must be nice`                  ([Casual] いいなぁ)             Working from home? Must be nice.
+  - `Wish I were you`               ([Casual] 代わってほしい)       Free tickets? Wish I were you!
+> `You never know`                  ([Casual] わからないよ)         I'm out of ideas. You never know. Inspiration can strike anytime.
+  - `Anything can happen`           ([Casual] 何が起きるかわかない) Don't give up yet. Anything can happen.
+  - `It remains to be seen`         ([Formal] まだわからない)       Will it succeed? It remains to be seen.
+  - `Only time will tell`           ([Neutral] 時間が経てばわかる)  Was it worth it? Only time will tell.
+
 ## HOW CAN I PUT THIS? / HOW SHOULD I SAY THIS? / I'M NOT SURE I FOLLOW
 > `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
   - `How should I say this?`        ([Neutral] どう言えばいいかな)  How should I say this? It's sensitive.
@@ -79,15 +140,6 @@
   - `You lost me`                   ([Casual] ついていけなくなった) You lost me at the third step.
   - `I'm not following`             ([Neutral] ついていけてない)    I'm not following your reasoning.
   - `I didn't catch that`           ([Casual] 聞き取れなかった)     I didn't catch that. Could you repeat?
-
-## IT MAKES SENSE THAT
-> `It makes sense that S V`         ([Neutral] ～は理にかなってる)  It makes sense that prices went up.
-  > `It makes sense for A to B`     ([Neutral] AがBするのが理にかなう) It makes sense for them to wait.
-  - `It's only natural that S V`    ([Neutral] ～するのが自然)      It's only natural that he's tired.
-  - `It's logical that S V`         ([Formal] ～は論理的だ)         It's logical that we proceed carefully.
-  - `It's reasonable that S V`      ([Neutral] ～は妥当だ)          It's reasonable that they need more time.
-  - `It stands to reason that S V`  ([Formal] ～は当然だ)           It stands to reason that costs will rise.
-  - `It's understandable that S V`  ([Neutral] ～は理解できる)      It's understandable that she's upset.
 
 ## WOULD YOU / COULD YOU / WOULD IT BE POSSIBLE TO / I'D APPRECIATE IT IF YOU COULD
 > `Could you V?`                    ([Neutral] してもらえる？)      Could you help me with this?
@@ -148,18 +200,38 @@
 - `Should I V?`                     ([Neutral] ～しましょうか？)    Should I make a reservation?
 - `Can I V for you?`                ([Neutral] ～しましょうか？)    Can I get that for you?
 
+## BEEN THERE DONE THAT
+> `Been there done that`            ([Casual] 経験済み、もういい)   I don't want to try that again. Been there done that.
+> `Story of my life`                ([Casual] いつものこと)         Late again? Story of my life.
+- `I've been there`                 ([Casual] 経験したことある)     I've been there - it gets better with time.
+- `Join the club`                   ([Casual] 仲間だね)             You're stressed about exams? Join the club!
+- `Welcome to my world`             ([Casual] 私の世界へようこそ)   Welcome to my world - this happens daily.
+
+## NOT AGAIN
+> `Not again!`                      ([Casual] またかよ！)           Not again! I can't believe the internet is down.
+> `Here we go again`                ([Casual] また始まったよ)       Here we go again, another delay in the project.
+  - `There you go again`            ([Casual] またそれ言ってる)     There you go again, always teasing me.
+- `Same old story`                  ([Casual] いつものこと)         It's the same old story every time.
+- `Yet another`                     ([Neutral] またもや)            Yet another technical problem today.
+- `Just like before`                ([Neutral] 以前と同じ)          It's happening just like before.
+- `Déjà vu`                         ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.
+
+## IT MAKES SENSE THAT / THE SAME GOES FOR
+> `It makes sense that S V`         ([Neutral] ～は理にかなってる)  It makes sense that prices went up.
+  > `It makes sense for A to B`     ([Neutral] AがBするのが理にかなう) It makes sense for them to wait.
+  - `It's only natural that S V`    ([Neutral] ～するのが自然)      It's only natural that he's tired.
+  - `It's logical that S V`         ([Formal] ～は論理的だ)         It's logical that we proceed carefully.
+  - `It's reasonable that S V`      ([Neutral] ～は妥当だ)          It's reasonable that they need more time.
+  - `It stands to reason that S V`  ([Formal] ～は当然だ)           It stands to reason that costs will rise.
+  - `It's understandable that S V`  ([Neutral] ～は理解できる)      It's understandable that she's upset.
+> `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
+  - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
+  - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
+
 ## IT'S BEEN A WHILE SINCE
 - `It's been a while since S V`     ([Neutral] してからしばらく経つ)It's been a while since we last met.
 - `It's been ages since S V`        ([Casual] )                     It's been ages since we last hung out.
 - `It's been a long time since S V` ([Neutral] )                    It's been a long time since we visited that place.
-
-## THE SAME GOES FOR
-> `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
-- `It's the same with O`            ([Neutral] Oも同様だ)           It's the same with most startup companies.
-- `The same is the case with O`     ([Neutral] Oも同様だ)           The same is the case with remote workers.
-
-## S V-ing, THAT'D BE
-- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
 
 ## THAT DOESN'T MEAN
 > `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
@@ -318,40 +390,6 @@
 - [ ] `There we are.`                       ([Casual] よし！) Well, `there we are`. I've finally finished my homework.
 - [ ] `There you go.`                       ([Casual] どうぞ／その調子) I’m going to go for it! / Yeah, `There you go`!
 
-## I FEEL YOU
-> `I get it`                        ([Casual] わかるよ)             I get it. It's really frustrating when things don't go your way.
-> `I feel you`                      ([Casual] わかるよ)             I'm tired of living in the city. Yeah, I feel you.
-- `I see what you mean`             ([Casual] おっしゃることはわかる) I see what you mean about the deadline pressure.
-- `That must be tough`              ([Neutral] それは大変ですね)    That must be tough. Let me know if there's anything I can do.
-- `I can relate`                    ([Casual] 共感できる)           I can relate to your frustration with the system.
-- `I know the feeling`              ([Casual] その気持ちわかる)     I know the feeling when deadlines pile up.
-- `Same here`                       ([Casual] 私もです)             I'm tired today. Same here.
-- `So do I`                         ([Casual] 私もそうです)         I love hiking. So do I.
-- `Neither do I`                    ([Casual] 私もそうです)         I don't like spicy food. Neither do I.
-
-## FAIR ENOUGH / YOU HAVE A POINT BUT
-> `Fair enough`                     ([Casual] まあそれもありだね)   Fair enough, I see your point.
-- `I know what you're saying, but`  ([Casual] わかるけど)           I know what you're saying, but we need to consider the budget.
-- `I see your point, but`           ([Neutral] おしゃる通りですが)  I see your point, but there are other factors.
-- `That's true, but`                ([Casual] それは確かだけど)     That's true, but we should think about timing.
-> `You have a point, but`           ([Neutral] 一理ありますが)      You have a point, but I'm not fully convinced.
-- `I hear you, but`                 ([Casual] 言いたいことわかるが) I hear you, but let's consider alternatives.
-- `Valid point, however`            ([Formal] 妥当な指摘ですが)     Valid point, however, we must consider costs.
-- `I understand, but`               ([Neutral] わかりますが)        I understand, but we need more data.
-
-## TRUE / RIGHT
-> `(That's) True`                   ([Casual] たしかに)             That's true, we need to rethink the plan.
-> `(You're) Right`                  ([Casual] その通り)             You're right, that makes sense to me.
-> `I know, right?`                  ([Casual] だよね)               I know, right? That movie was amazing!
-- `Exactly`                         ([Casual] その通り)             Exactly, that's what I was thinking.
-- `Absolutely`                      ([Neutral] まったくその通り)    Absolutely, I couldn't agree more.
-- `That's what I think, too`        ([Casual] 私もそう思う)         That's what I think, too. We need to act quickly.
-- `No doubt about it`               ([Neutral] 間違いない)          No doubt about it, this is the best solution.
-- `You can say that again`          ([Casual] まったくその通り)     You can say that again. This project has been tough.
-- `Tell me about it`                ([Casual] まったくその通り)     Tell me about it! I've been so busy lately.
-- `I couldn't agree more`           ([Neutral] 大賛成です)          I couldn't agree more with your assessment.
-- `My thoughts exactly`             ([Neutral] 私もそう思ってた)    My thoughts exactly about the new policy.
-
 ## ANYTIME
 > `Anytime`                         ([Casual] いつでもどうぞ)       Thanks for your help. Anytime!
 > `No problem`                      ([Casual] 問題ないよ)           Thanks for covering my shift. No problem.
@@ -363,63 +401,11 @@
 - `No worries`                      ([Casual] 気にしないで)         Sorry I'm late. No worries.
 - `Of course`                       ([Neutral] もちろんです)        Thanks for letting me know. Of course.
 
-## THAT WOULD BE GREAT
-> `That would be great`             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
-- `That'd be perfect`               ([Casual] それは完璧だ)         That'd be perfect for our meeting schedule.
+## CAN'T BELIEVE ONE'S EYES
+> `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!
+- `couldn't believe one's ears`     ([Casual] 信じられない)         I couldn't believe my ears when they announced the winner.
+- `jaw dropped`                     ([Casual] 驚いた)               My jaw dropped when I saw the price.
+- `blown away`                      ([Casual] 驚かされた)           I was blown away by the performance.
+- `taken aback`                     ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
+- `at a loss for words`             ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
 
-## GOOD TO KNOW
-> `Good to know`                    ([Casual] 知れてよかった)       Thanks for the update. Good to know.
-- `Thanks for the heads up`         ([Casual] 教てくれてありがとう) Thanks for the heads up about the meeting change.
-- `I appreciate the update`         ([Neutral] 報告ありがとう)      I appreciate the update on the project status.
-- `That's helpful`                  ([Casual] 助かります)           That's helpful, I'll keep that in mind.
-- `Noted`                           ([Neutral] 了解しました)        The deadline is Friday. Noted.
-
-## YOU NEVER KNOW
-> `You never know`                  ([Casual] わからないよ)         I'm out of ideas. You never know. Inspiration can strike anytime.
-- `Anything can happen`             ([Casual] 何が起きるかわかない) Don't give up yet. Anything can happen.
-- `It remains to be seen`           ([Formal] まだわからない)       Will it succeed? It remains to be seen.
-- `Only time will tell`             ([Neutral] 時間が経てばわかる)  Was it worth it? Only time will tell.
-
-## GOOD FOR YOU
-> `Lucky you!`                      ([Casual] うらやましい)         You got tickets to the concert? Lucky you!
-> `Good for you!`                   ([Casual] よかったね)           You got promoted? Good for you!
-> `Congrats!`                       ([Casual] おめでとう)           You passed the exam? Congrats!
-- `I'm jealous`                     ([Casual] うらやましい)         A week in Hawaii? I'm jealous!
-- `I'm so envious`                  ([Casual] すごくうらやましい)   I'm so envious of your new car.
-- `Must be nice`                    ([Casual] いいなぁ)             Working from home? Must be nice.
-- `Wish I were you`                 ([Casual] 代わってほしい)       Free tickets? Wish I were you!
-
-## YOU FLATTER ME
-> `You flatter me`                  ([Formal] お世辞でも嬉しい)     You flatter me. I'm just doing my job.
-- `I'm flattered`                   ([Neutral] 光栄です)            I'm flattered by your compliment.
-- `You give me too much credit`     ([Neutral] 買いかぶりすぎです)  You give me too much credit. It was a team effort.
-- `I don't deserve that`            ([Neutral] そんな資格ないです)  I don't deserve that praise.
-
-## THAT'S FUNNY (INTERESTING)
-> `That's funny`                    ([Casual] おもしろい)           That's funny, I didn't expect that twist.
-> `That's interesting`              ([Neutral] 興味深い)            That's interesting. Tell me more about it.
-
-## THAT'S FUNNY (STRANGE)
-> `That's funny`                    ([Casual] おかしいなぁ)         That's funny, I thought the meeting was at 3, not 2.
-> `That's strange`                  ([Neutral] 変だな)              That's strange, I can't find my keys.
-> `That's weird`                    ([Casual] 変だな)               That's weird, the system was working yesterday.
-- `That's odd`                      ([Neutral] 変だな)              That's odd, the door was locked earlier.
-- `That's curious`                  ([Neutral] 不思議だな)          That's curious, why would they cancel?
-- `How strange`                     ([Neutral] なんて変なんだ)      How strange, I've never seen that before.
-- `How odd`                         ([Neutral] なんて変なんだ)      How odd, the lights are still on.
-
-## BEEN THERE DONE THAT
-> `Been there done that`            ([Casual] 経験済み、もういい)   I don't want to try that again. Been there done that.
-> `Story of my life`                ([Casual] いつものこと)         Late again? Story of my life.
-- `I've been there`                 ([Casual] 経験したことある)     I've been there - it gets better with time.
-- `Join the club`                   ([Casual] 仲間だね)             You're stressed about exams? Join the club!
-- `Welcome to my world`             ([Casual] 私の世界へようこそ)   Welcome to my world - this happens daily.
-
-## NOT AGAIN
-> `Not again!`                      ([Casual] またかよ！)           Not again! I can't believe the internet is down.
-> `Here we go again`                ([Casual] また始まったよ)       Here we go again, another delay in the project.
-  - `There you go again`            ([Casual] またそれ言ってる)     There you go again, always teasing me.
-- `Same old story`                  ([Casual] いつものこと)         It's the same old story every time.
-- `Yet another`                     ([Neutral] またもや)            Yet another technical problem today.
-- `Just like before`                ([Neutral] 以前と同じ)          It's happening just like before.
-- `Déjà vu`                         ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.

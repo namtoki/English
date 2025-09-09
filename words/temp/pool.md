@@ -1,6 +1,3 @@
-abominable	12	【形】忌まわしい、不愉快な、ひどい		
-aboriginal	8	【形】先住（民）の、土着の 【名】先住民		
-abortive	10	【形】不成功の、流産の		
 abrasive	11	【形】耳ざわりな、かんにさわる 【名】研磨材		
 abreast	12	【副】進度が遅れずに、横に並んで		
 abstain	10	【動】控える、慎む、棄権する		
@@ -98,7 +95,6 @@ alpine	9	【形】高山の、非常に高い、アルプスの 【名】高山�
 altar	7	【名】祭壇		
 alteration	7	【名】変更、改変、修正、寸法直し		
 altercation	12	【名】口論、激論		
-alternatively	8	【副】二者択一的に、代わりに、あるいは		
 altruism	11	【名】利他的行為、愛他主義		
 alumnus	11	【名】男子の卒業生、同窓生（複 alumni）		
 amalgamate	12	【動】会社を合併する、融合する		
@@ -1593,7 +1589,6 @@ encouraging	8	【形】勇気づける、励みになる
 encroach	12	【動】侵入する、侵害する		
 endanger	6	【動】危険にさらす、危うくする		
 endangered	10	【形】絶滅寸前の、危険にさらされた		
-endear	11	【動】いとしいと思わせる、慕わせる		
 endemic	11	【形】ある地方特有の、風土性の 【名】風土病		
 endow	8	【動】寄付する、授ける		
 endowment	8	【名】寄付、素質、基金、基本財産		
@@ -1946,8 +1941,6 @@ furrow	11	【名】深いしわ、溝 【動】耕す、しわが寄る
 furthermore	6	【副】その上に、さらに		
 furtive	12	【形】こそこそした、人目を盗んだ		
 fury	7	【名】激怒、激しさ		
-fuselage	12	【名】機体		
-futile	9	【形】役に立たない、効果のない、くだらない		
 futility	12	【名】無益、無用、くだらないもの		
 fuzzy	6	【形】ぼやけた、けば状の、縮んだ		
 gag	10	【動】口止めする、言論の抑圧をする、さるぐつわをはめる		
@@ -2357,7 +2350,6 @@ indefinite	10	【形】無期限の、不明確な
 indefinitely	9	【副】無期限に、漠然と、あいまいに		
 indelible	11	【形】消すことのできない		
 indemnity	12	【名】賠償、保護		
-indict	10	【動】起訴する、非難する		
 indictment	10	【名】起訴、非難		
 indigenous	10	【形】固有の、生まれながらの		
 indigestion	10	【名】消化不良、胃弱、未熟		
@@ -2376,7 +2368,6 @@ indulgence	8	【名】耽溺、道楽、気まま、甘やかし、機嫌をと�
 indulgent	9	【形】寛大な、大目に見る、甘い		
 industrialize	8	【動】工業化する、工業主義に転換する		
 industrious	5	【形】勤勉な、熱心な		
-ineffective	8	【形】効果のない、無効な、無力な、役に立たない		
 inefficiency	9	【名】非能率、無能、無効果		
 inefficient	8	【形】効果のない、能率的でない、無能な		
 ineligible	12	【形】資格のない、不適当な 【名】不適格者		
@@ -3620,7 +3611,6 @@ priest	2	【名】聖職者
 prim	12	【形】堅苦しい、整った 【動】きちんと整える		
 primal	10	【形】第一の、原始の、主要な		
 primary	4	【形】最初の、第一の 【名】第一のこと		
-primate	11	【名】霊長類、首席司教		
 prime	5	【形】最も重要な、第一級の 【名】最盛期 【動】準備する		
 primitive	4	【形】原始の、原始的な		
 primordial	12	【形】根源の、最初の、原始の 【名】基本原理		
@@ -5234,9 +5224,7 @@ utensil	7	【名】用具、器具、家庭用品
 utilitarian	10	【形】実用的な 【名】功利主義		
 utility	6	【名】実用性、公共施設、公共料金 【形】公共事業の		
 vacancy	7	【名】空き室、空き地、空虚、空間		
-vacate	12	【動】場所を明け渡す、地位を退く、無効にする		
 vagabond	12	【名】放浪者 【形】放浪の、評判のよくない		
-vain	4	【形】無駄な、虚栄心の強い		
 vale	12	【名】谷		
 valiant	12	【形】勇気ある、価値ある		
 valor	12	【名】勇敢さ、武勇		

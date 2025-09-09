@@ -33,3 +33,11 @@
 - `on and off` /ɑːn ænd ɔːf/        ([Neutral] 断続的に)            It's been raining on and off all day today.
 - `in a row` /ɪn ə roʊ/             ([Neutral] 連続で)              The rate has risen three quarters in a row.
 - `with each passing day/year`      ([Neutral] 日を追うごとに)      With each passing day, her skills improved.
+
+## LOW-KEY (SLANG)
+- `low-key` /ˌloʊˈkiː/              ([Casual] ちょっと、密かに)     I'm low-key obsessed with that show.
+- `high-key` /ˌhaɪˈkiː/             ([Casual] 完全に、明らかに)     I'm high-key stressed about the exam.
+- `kind of` /kaɪnd əv/              ([Casual] ちょっと、まあまあ)   I'm kind of tired today.
+- `sort of` /sɔːrt əv/              ([Casual] ちょっと、まあまあ)   It's sort of complicated.
+- `somewhat` /ˈsʌmwʌt/              ([Neutral] いくぶん、多少)      I'm somewhat disappointed.
+- `kinda` /ˈkaɪndə/                 ([Casual] ちょっと)             I'm kinda hungry.

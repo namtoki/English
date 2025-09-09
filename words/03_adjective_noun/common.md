@@ -630,3 +630,11 @@
   - `assailant` /əˈseɪlənt/         ([Neutral] 襲撃者)              The assailant fled the scene.
   - `attacker` /əˈtækər/            ([Neutral] 攻撃者)              The attacker was identified.
   - `attacking` /əˈtækɪŋ/           ([Neutral] 攻撃的な)            Their attacking strategy failed.
+
+## NITTY-GRITTY
+- `nitty-gritty` /ˌnɪti ˈɡrɪti/    ([Casual] 核心、本質)           Let's get down to the nitty-gritty.
+- `nuts and bolts` /nʌts ænd boʊlts/ ([Casual] 基本、詳細)          We need to understand the nuts and bolts.
+- `brass tacks` /bræs tæks/         ([Casual] 核心、要点)           Let's get down to brass tacks.
+- `meat and potatoes` /miːt ænd pəˈteɪtoʊz/ ([Casual] 基本、本質)    This is the meat and potatoes of the issue.
+- `ins and outs` /ɪnz ænd aʊts/    ([Casual] 詳細、一部始終)       I know all the ins and outs of this system.
+- `bottom line` /ˈbɑːtəm laɪn/     ([Neutral] 要点、結論)          What's the bottom line here?
