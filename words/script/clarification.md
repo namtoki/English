@@ -1,12 +1,11 @@
 
 - 01_framework/framework.md - お決まりの構文構造パターンや副詞表現
 - 01_framework/template.md - 定型文
-- 02_verb/performative.md - 遂行動詞 (思った瞬間に行動が完了している動詞)
-- 02_verb/transitive/communication.md - 他のものに影響を与える動詞 (意思疎通・表現)
-- 02_verb/transitive/conflict.md - 他のものに影響を与える動詞 (対立・攻撃)
-- 02_verb/transitive/task.md - 他のものに影響を与える動詞 (作業・仕事)
-- 02_verb/transitive/others.md - 他のものに影響を与える動詞 (その他)
-- 02_verb/intransitive.md - 他のものに影響を与えない動詞 (walk, pass などの動作とか)
+- 02_verb/cognition.md - 認知系の動詞 (思った瞬間に行動が完了している動詞)
+- 02_verb/communication.md - 意思疎通・表現関連の動詞
+- 02_verb/task.md - 作業・仕事関連の動詞
+- 02_verb/conflict.md - 対立・攻撃・犯罪関連の動詞
+- 02_verb/others.md - 他のものに影響を与える動詞 (その他)
 - 03_adjective_noun/appearance.md - 服装・外見に関する名詞、形容詞
 - 03_adjective_noun/assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞
 - 03_adjective_noun/emotion.md - 主観的な感情・気持ちを表現する名詞、形容詞

@@ -1,4 +1,4 @@
-# Performative
+# Cognition
 
 ## THINK (GIVE IT A THOUGHT / COME UP WITH / GIVE ME AN IDEA / IMAGINE / REMIND / BRING BACK)
 > `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
@@ -104,18 +104,18 @@
 
 ## GUESS
 > `guess` /ɡes/                     ([Neutral] 推測する)            I can only guess what happened.
-  - `assume` /əˈsuːm/                 ([Neutral] 仮定する、思い込む)  Don't assume I know what you mean.
-  - `presume` /prɪˈzuːm/              ([Formal] 推定する、仮定する)   I presume you've heard the news.
-  - `suppose` /səˈpoʊz/               ([Neutral] 想定する、思う)      I suppose you're right.
-  - `speculate` /ˈspekjəleɪt/         ([Neutral] 推測する、投機する)  We can only speculate about the cause.
-  - `surmise` /sərˈmaɪz/              ([Formal] 推測する、推量する)   I surmised that he was upset.
-  - `conjecture` /kənˈdʒektʃər/       ([Writing] 推測、臆測)          It's all conjecture at this point.
-  - `hypothesize` /haɪˈpɑːθəsaɪz/     ([Formal] 仮説を立てる)         Scientists hypothesize about dark matter.
-  - `postulate` /ˈpɑːstʃəleɪt/        ([Writing] 仮定する、要請する)  Einstein postulated the speed of light.
-  - `theorize` /ˈθiːəraɪz/            ([Neutral] 理論化する)          They theorized about the origins.
-  - `infer` /ɪnˈfɜːr/                 ([Formal] 推論する、推測する)   What can we infer from this data?
+  - `assume` /əˈsuːm/               ([Neutral] 仮定する、思い込む)  Don't assume I know what you mean.
+  - `presume` /prɪˈzuːm/            ([Formal] 推定する、仮定する)   I presume you've heard the news.
+  - `suppose` /səˈpoʊz/             ([Neutral] 想定する、思う)      I suppose you're right.
+  - `speculate` /ˈspekjəleɪt/       ([Neutral] 推測する、投機する)  We can only speculate about the cause.
+  - `surmise` /sərˈmaɪz/            ([Formal] 推測する、推量する)   I surmised that he was upset.
+  - `conjecture` /kənˈdʒektʃər/     ([Writing] 推測、臆測)          It's all conjecture at this point.
+  - `hypothesize` /haɪˈpɑːθəsaɪz/   ([Formal] 仮説を立てる)         Scientists hypothesize about dark matter.
+  - `postulate` /ˈpɑːstʃəleɪt/      ([Writing] 仮定する、要請する)  Einstein postulated the speed of light.
+  - `theorize` /ˈθiːəraɪz/          ([Neutral] 理論化する)          They theorized about the origins.
+  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   What can we infer from this data?
 
-## LIKE / BE INTO / BE OBSESSED WITH / NEED
+## LIKE / BE INTO / BE OBSESSED WITH / NEED / BE ENOUGH / BE FINE / WILL DO
 > `like` /laɪk/                     ([Neutral] 好き)                I like chocolate.
   - `love` /lʌv/                    ([Neutral] 愛する、大好き)      I love this music.
   - `enjoy` /ɪnˈdʒɔɪ/               ([Neutral] 楽しむ、気に入る)    I enjoy reading books.
@@ -137,61 +137,6 @@
   - `require` /rɪˈkwaɪər/           ([Formal] 必要とする、要求する) This job requires experience.
     - `be required to`              ([Formal] することが求められる) Students are required to attend.
   - `it's necessary to`             ([Formal] ～することが必要)     It's necessary to act quickly.
-
-## LEAVE UP TO / BANK ON
-> `leave ~ up to` /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.
-- `hand over to` /hænd ˈoʊvər tuː/  ([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
-- `turn over to` /tɜːrn ˈoʊvər tuː/ ([Neutral] 〜に引き渡す)        Turn the matter over to the lawyers.
-- `put ~ in someone's hands`        ([Neutral] 〜の手に委ねる)      I put my future in your hands.
-> `bank on` /bæŋk ɑːn/              ([Casual] 〜を当てにする)       Don't bank on getting that promotion.
-- `delegate ~ to` /ˈdɛlɪɡeɪt tuː/   ([Formal] 〜に委任する)         She delegated the work to her team.
-- `entrust ~ to` /ɪnˈtrʌst tuː/     ([Formal] 〜に委ねる)           I entrust this task to you.
-
-## BE RELATED TO / HAVE SOMETHING TO DO WITH / HAVE THINGS IN COMMON
-> `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
-  - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
-  - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
-  - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
-  - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
-> `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
-  - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
-  - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
-  - `have little to do with`        ([Neutral] 関係がほとんどない)  This has little to do with money.
-  - `have everything to do with`    ([Neutral] 全て関係がある)      This has everything to do with trust.
-> `have things in common`           ([Casual] 共通点がある)         Do we have things in common?
-  - `have a lot in common`          ([Neutral] 共通点が多い)        We have a lot in common.
-  - `have little in common`         ([Neutral] 共通点が少ない)      They have little in common.
-  - `have nothing in common`        ([Neutral] 共通点がない)        We have nothing in common.
-  - `have similarities`             ([Neutral] 類似点がある)        The two cases have similarities.
-  - `have no similarities`          ([Neutral] 類似点がない)        These systems have no similarities.
-  - `have commonalities`            ([Formal] 共通性がある)         The cultures have commonalities.
-
-## BE AVAILABLE / BE ON HAND / BE READY TO / GET READY FOR
-> `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
-  - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
-  - `be good to go`                 ([Casual] 準備万端)             We're good to go!
-  - `be ready for use`              ([Neutral] 使用可能な)          The equipment is ready for use.
-  - `be within reach` /wɪðɪn riːtʃ/ ([Neutral] 手の届く範囲にある)  Help is within reach.
-  - `be usable` /ˈjuːzəbəl/         ([Neutral] 使用可能な)          The software is now usable.
-  - `be at one's disposal`          ([Formal] 思い通りにできる)     The enormous property was at his disposal.
-  - `be at one's service`           ([Formal] お役に立てる)         I'm at your service.
-  - `be at one's command`           ([Formal] 命令に従う)           The troops are at your command.
-  > `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
-  - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
-  - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
-> `ready to`                        ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
-  - `be prepared`                   ([Neutral] 準備ができている)    Be prepared for questions.
-> `get ready`                       ([Neutral] 準備する)            Get ready for the presentation.
-  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
-  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
-  - `make preparations`             ([Formal] 準備する)             Make preparations for the event.
-  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
-  - `gear up` /ɡɪr ʌp/              ([Casual] 準備する)             We're gearing up for the launch.
-  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
-  - `make arrangements`             ([Neutral] 手配する)            I'll make arrangements for the trip.
-  - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
-
-## BE ENOUGH / BE FINE / WILL DO
 > `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
   > `be fine` /bi faɪn/             ([Neutral] 大丈夫である)        That will be fine for me.
   - `that'll be fine`               ([Casual] それで大丈夫)         Any time will be fine.
@@ -204,58 +149,3 @@
   - `meet the need` /miːt ðə niːd/  ([Neutral] ニーズを満たす)      This solution meets the need.
   - `cover it` /ˈkʌvər ɪt/          ([Casual] カバーする、足りる)   Twenty dollars should cover it.
   - `serve the purpose`             ([Neutral] 目的を果たす)        This tool serves the purpose.
-
-## 従う
-- ✅ `follow` /ˈfɑːloʊ/             ([Neutral] 従う、続く)          Please follow the instructions.
-  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
-  - ✅ `go along with`              ([Casual] 同調する、従う)       I'll go along with the plan.
-  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
-  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
-    - `adherence` /ædˈhɪrəns/       ([Formal] 遵守、忠実)           Adherence to policy is required.
-  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
-    - `obedience` /oʊˈbiːdiəns/     ([Formal] 服従、遵守)           Obedience to rules ensures safety.
-    - `obedient` /oʊˈbiːdiənt/      ([Neutral] 従順な、素直な)      She's an obedient employee.
-  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
-    - `conformance` /kənˈfɔːrməns/  ([Formal] 適合、遵守)           Conformance testing is complete.
-    - `conformity` /kənˈfɔːrmɪti/   ([Formal] 適合性、遵守)         Conformity with regulations is essential.
-  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
-  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
-    - `observance` /əbˈzɜːrvəns/    ([Formal] 遵守、守ること)       Observance of protocols is critical.
-  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
-  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
-  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
-  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
-  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
-    - `deference` /ˈdefərəns/       ([Formal] 敬意、尊重)           He showed deference to his superior.
-  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
-    - `submission` /səbˈmɪʃən/      ([Formal] 服従、提出)           Submission to authority is expected.
-  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
-  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
-  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
-  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
-
-## OBSTRUCT
-> `be in the way`                   ([Neutral] 邪魔になる)          Your bag is in the way.
-  - `get in the way`                ([Neutral] 邪魔をする)          Don't let fear get in the way.
-  - `stand in the way`              ([Neutral] 邪魔になる、阻む)    Nothing can stand in our way.
-
-## RESIGN
-- `resign` /rɪˈzaɪn/                ([Neutral] 辞任する)            She resigned from her position.
-- `step down` /step daʊn/           ([Neutral] 退く)                The CEO will step down next month.
-- `renounce` /rɪˈnaʊns/             ([Formal] 放棄する)             He renounced his claim to the throne.
-- `relinquish` /rɪˈlɪŋkwɪʃ/         ([Formal] 手放す)               She relinquished control of the company.
-- `abdicate` /ˈæbdɪkeɪt/            ([Formal] 退位する)             The king abdicated the throne.
-- `cede` /siːd/                     ([Formal] 譲渡する)             They ceded territory to the enemy.
-
-## CUT CORNERS / SLACK OFF
-> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
-> `slack off` /slæk ɔːf/            ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
-- `rush through` /rʌʃ θruː/         ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
-- `be careless` /biː ˈkɛrləs/       ([Neutral] 不注意である)        Don't be careless with important documents.
-- `take shortcuts`                  ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
-> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
-- `half-hearted` /ˌhæf ˈhɑːrtəd/    ([Neutral] やる気のない)        His effort was half-hearted.
-- `do the bare minimum`             ([Neutral] 最低限しかしない)    She does the bare minimum required.
-- `go through the motions`          ([Neutral] 形だけやる)          He's just going through the motions.
-- `skimp on` /skɪmp ɑːn/            ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
-- `phone it in`                     ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.

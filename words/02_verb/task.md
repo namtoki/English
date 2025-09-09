@@ -139,6 +139,24 @@
   - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
   - `put together` /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
 
+## GET/HAVE/LET/MAKE
+- `get O C` /ɡet/                   ([Neutral] OをCの状態にする)    This song gets me feeling nostalgic.
+- `get O to V` /ɡet/                ([Neutral] OにVさせる)          I got him to help with the project.
+- `have O V` /hæv/                  ([Neutral] OにVさせる)          I'll have him call you back.
+- `have O Ved` /hæv/                ([Neutral] OをVしてもらう)      I had my car repaired yesterday.
+- `let O V` /let/                   ([Neutral] OにVさせる)          Let me help you with that.
+- `make O V` /meɪk/                 ([Neutral] OにVさせる)          The movie made me cry.
+- `make O C` /meɪk/                 ([Neutral] OをCにする)          This news makes me happy.
+
+## LEAVE UP TO / BANK ON
+> `leave ~ up to` /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.
+- `hand over to` /hænd ˈoʊvər tuː/  ([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
+- `turn over to` /tɜːrn ˈoʊvər tuː/ ([Neutral] 〜に引き渡す)        Turn the matter over to the lawyers.
+- `put ~ in someone's hands`        ([Neutral] 〜の手に委ねる)      I put my future in your hands.
+> `bank on` /bæŋk ɑːn/              ([Casual] 〜を当てにする)       Don't bank on getting that promotion.
+- `delegate ~ to` /ˈdɛlɪɡeɪt tuː/   ([Formal] 〜に委任する)         She delegated the work to her team.
+- `entrust ~ to` /ɪnˈtrʌst tuː/     ([Formal] 〜に委ねる)           I entrust this task to you.
+
 ## DETAILED ACTION (SHORTEN)
 > `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.
   - `condense` /kənˈdens/           ([Neutral] 凝縮する)            Condense your report to one page.
@@ -146,3 +164,16 @@
   - `curtail` /kɜːrˈteɪl/           ([Formal] 削減する)             We had to curtail our expenses.
   - `truncate` /ˈtrʌŋkeɪt/          ([Formal] 切り詰める)           The system truncates long file names.
   - `abridge` /əˈbrɪdʒ/             ([Formal] 短縮する)             They abridged the novel for young readers.
+
+## CUT CORNERS / SLACK OFF
+> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+> `slack off` /slæk ɔːf/            ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+- `rush through` /rʌʃ θruː/         ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
+- `be careless` /biː ˈkɛrləs/       ([Neutral] 不注意である)        Don't be careless with important documents.
+- `take shortcuts`                  ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
+- `half-hearted` /ˌhæf ˈhɑːrtəd/    ([Neutral] やる気のない)        His effort was half-hearted.
+- `do the bare minimum`             ([Neutral] 最低限しかしない)    She does the bare minimum required.
+- `go through the motions`          ([Neutral] 形だけやる)          He's just going through the motions.
+- `skimp on` /skɪmp ɑːn/            ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+- `phone it in`                     ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
