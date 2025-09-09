@@ -1,6 +1,6 @@
 # Task
 
-## ACTION (ORGANIZE / SORT OUT / LOOK INTO / EXERCISE / ASSIGN / CHOOSE)
+## ACTION (ORGANIZE / SORT OUT / LOOK INTO / EXERCISE / CHOOSE / MAKE SURE / PROVE)
 > `organize` /ˈɔːrɡənaɪz/           ([Neutral] 整理する、組織する)  I need to organize my files.
   - `clean up` /kliːn ʌp/           ([Casual] 片付ける、掃除する)   We need to clean up this mess.
   - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
@@ -47,19 +47,6 @@
   - `utilize` /ˈjuːtɪlaɪz/          ([Formal] 利用する、活用する)   We'll utilize all available resources.
   - `put into effect`               ([Neutral] 実施する 発効させる) The new law was put into effect.
   - `bring to bear` /brɪŋ tuː beər/ ([Neutral] 及ぼす、行使する)    They brought pressure to bear on the decision.
-> `assign` /əˈsaɪn/                 ([Neutral] 割り当てる 指定する) She was assigned to the project.
-  - `allocate` /ˈæləkeɪt/           ([Neutral] 割り当てる 配分する) We'll allocate resources to each team.
-  - `delegate` /ˈdelɪɡeɪt/          ([Neutral] 委任する 代表にする) I'll delegate this task to my assistant.
-  - `distribute` /dɪˈstrɪbjuːt/     ([Neutral] 配布する、分配する)  We'll distribute tasks equally.
-  - `designate` /ˈdezɪɡneɪt/        ([Formal] 指定する、任命する)   She was designated as team leader.
-  - `appoint` /əˈpɔɪnt/             ([Formal] 任命する、指定する)   He was appointed as director.
-  - `allot` /əˈlɑːt/                ([Neutral] 割り当てる 配分する) They allotted 30 minutes for discussion.
-  - `earmark` /ˈɪərmɑːrk/           ([Neutral] 特定目的に割り当て)  Funds were earmarked for research.
-  - `set aside` /set əˈsaɪd/        ([Neutral] 取り分ける 割り当て) We set aside time for planning.
-  - `portion out` /ˈpɔːrʃən aʊt/    ([Casual] 分配する、配分する)   She portioned out the work fairly.
-  - `hand out` /hænd aʊt/           ([Casual] 配る、分配する)       The manager handed out assignments.
-  - `dole out` /doʊl aʊt/           ([Casual] 小出しに配る)         They doled out tasks gradually.
-  - `mete out` /miːt aʊt/           ([Formal] 割り当てる、与える)   The judge meted out sentences.
 > `choose` /tʃuːz/                  ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
   - `pick` /pɪk/                    ([Casual] 選ぶ、取る)           Pick whichever one you like.
   - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the red one, please.
@@ -79,62 +66,83 @@
   - `zero in on` /ˈzɪroʊ ɪn ɑːn/    ([Casual] 絞り込む)             Let's zero in on the main issue.
   - `home in on` /hoʊm ɪn ɑːn/      ([Casual] 絞り込む)             They homed in on the problem.
   - `plump for` /plʌmp fɔːr/        ([British] 選ぶ、決める)        I'll plump for the chocolate dessert.
-
-## 裏付ける、証拠をつかむ
-- ✅ `confirm` /kənˈfɜrm/           ([Neutral] 確認する)            Can you confirm the meeting time?
-    - `confirmatory` /kənˈfɜrmətɔri/([Formal] 確認の)               The test results were confirmatory.
-  - `prove` /pruv/                  ([Neutral] 証明する)            She proved her innocence.
-  - `verify` /ˈvɛrɪfaɪ/             ([Neutral] 確認する)            Please verify your email address.
-    - `verifiable` /ˈvɛrɪfaɪəbəl/   ([Formal] 検証可能な)           The claim is easily verifiable.
-  - ✅ `support` /səˈpɔːrt/         ([Neutral] 裏付ける、支持する)  The data supports our theory.
-    - `supportive` /səˈpɔːrtɪv/     ([Neutral] 支持する、裏付ける)  The evidence is supportive of our claim.
-  - `back up` /bæk ʌp/              ([Neutral] 裏付ける、支持する)  Can you back up your statement?
-  - `validate` /ˈvælɪdeɪt/          ([Neutral] 検証する)            The experiment validated our hypothesis.
-  - `establish` /ɪˈstæblɪʃ/         ([Neutral] 確立する、証明する)  We need to establish the facts.
-  - `demonstrate` /ˈdemənstreɪt/    ([Neutral] 証明する、示す)      The results demonstrate our success.
+> `check` /tʃek/                    ([Casual] 確認する チェックる)  Let me check if that's correct.
+  - `double-check` /ˈdʌbəl tʃek/    ([Casual] 再確認する)           Please double-check the numbers.
+  - `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Check out if the store is open.
+  > `make sure` /meɪk ʃʊr/          ([Casual] 確かめる)             Make sure you lock the door.
+  - `see if` /si ɪf/                ([Casual] ～かどうか確認する)   I'll see if she's available.
+  - `find out` /faɪnd aʊt/          ([Casual] 確かめる、調べる)     Find out what time it starts.
+  - `confirm` /kənˈfɜrm/            ([Neutral] 確認する)            Can you confirm the meeting time?
+  - `reconfirm` /ˌriːkənˈfɜrm/      ([Neutral] 再確認する)          Let's reconfirm the details.
+  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする)          Please ensure all forms are signed.
+  - `verify` /ˈvɛrɪfaɪ/             ([Formal] 検証する、確認する)   Please verify your email address.
+  - `validate` /ˈvælɪdeɪt/          ([Formal] 検証する、妥当性確認) The system will validate your input.
+  - `cross-check` /ˈkrɔs tʃek/      ([Neutral] 照合確認する)        Let's cross-check the data.
+  - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
+> `prove` /pruv/                    ([Neutral] 証明する)            She proved her innocence.
+  - `show` /ʃoʊ/                    ([Casual] 示す、見せる)         The results show that it works.
+  - `support` /səˈpɔːrt/            ([Neutral] 裏付ける、支持する)  The data supports our theory.
+  - `back up` /bæk ʌp/              ([Casual] 裏付ける、支持する)   Can you back up your statement?
+  - `demonstrate` /ˈdemənstreɪt/    ([Formal] 証明する、示す)       The results demonstrate our success.
+  - `indicate` /ˈɪndɪkeɪt/          ([Neutral] 示す、表す)          The signs indicate success.
+  - `suggest` /səˈdʒest/            ([Neutral] 示唆する)            The evidence suggests otherwise.
+  - `confirm` /kənˈfɜrm/            ([Neutral] 確証する)            The results confirm our hypothesis.
+  - `establish` /ɪˈstæblɪʃ/         ([Formal] 確立する、証明する)   We need to establish the facts.
+  - `reveal` /rɪˈviːl/              ([Neutral] 明らかにする)        The study revealed important findings.
+  - `bear out` /beər aʊt/           ([Neutral] 裏付ける、証明する)  The facts bear out her story.
+  - `point to` /pɔɪnt tuː/          ([Casual] 示す、指摘する)       All evidence points to success.
   - `substantiate` /səbˈstænʃieɪt/  ([Formal] 実証する)             He failed to substantiate his claims.
-  - `corroborate` /kəˈrɑbəreɪt/     ([Writing] 裏付ける)            The evidence was corroborated by two witnesses.
-    - `corroboration`               ([Writing] 裏付け)              We need further corroboration of the facts.
-    - `corroborative` /kəˈrɑbərətɪv/([Writing] 裏付けとなる)        The corroborative evidence was compelling.
+  - `validate` /ˈvælɪdeɪt/          ([Formal] 検証する)             The experiment validated our theory.
+  - `corroborate` /kəˈrɑbəreɪt/     ([Writing] 裏付ける)            The evidence was corroborated by witnesses.
   - `authenticate` /ɔˈθɛntɪkeɪt/    ([Formal] 認証する)             The museum authenticated the painting.
   - `certify` /ˈsɜrtɪfaɪ/           ([Formal] 証明する)             The doctor certified her fitness.
-  - `bear out` /beər aʊt/           ([Neutral] 裏付ける、証明する)  The facts bear out her story.
   - `reinforce` /ˌriːɪnˈfɔːrs/      ([Neutral] 強化する、裏付ける)  This reinforces our argument.
   - `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
   - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
-  - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
-    - `attestation` /ˌætɛˈsteɪʃən/  ([Formal] 証明、証言)           The attestation was notarized.
 
-## スケジューリングする
-- ✅ `schedule` /ˈskedʒuːl/         ([Neutral] スケジュールする)    Let's schedule a meeting for tomorrow.
-- ✅ `set up` /set ʌp/              ([Neutral] 設定する、手配する)  I'll set up a meeting with the team.
+## PREPARE (ASSIGN / SCHEDULE)
+> `assign` /əˈsaɪn/                 ([Neutral] 割り当てる 指定する) She was assigned to the project.
+  - `allocate` /ˈæləkeɪt/           ([Neutral] 割り当てる 配分する) We'll allocate resources to each team.
+  - `delegate` /ˈdelɪɡeɪt/          ([Neutral] 委任する 代表にする) I'll delegate this task to my assistant.
+  - `distribute` /dɪˈstrɪbjuːt/     ([Neutral] 配布する、分配する)  We'll distribute tasks equally.
+  - `designate` /ˈdezɪɡneɪt/        ([Formal] 指定する、任命する)   She was designated as team leader.
+  - `appoint` /əˈpɔɪnt/             ([Formal] 任命する、指定する)   He was appointed as director.
+  - `allot` /əˈlɑːt/                ([Neutral] 割り当てる 配分する) They allotted 30 minutes for discussion.
+  - `earmark` /ˈɪərmɑːrk/           ([Neutral] 特定目的に割り当て)  Funds were earmarked for research.
+  - `set aside` /set əˈsaɪd/        ([Neutral] 取り分ける 割り当て) We set aside time for planning.
+  - `portion out` /ˈpɔːrʃən aʊt/    ([Casual] 分配する、配分する)   She portioned out the work fairly.
+  - `hand out` /hænd aʊt/           ([Casual] 配る、分配する)       The manager handed out assignments.
+  - `dole out` /doʊl aʊt/           ([Casual] 小出しに配る)         They doled out tasks gradually.
+  - `mete out` /miːt aʊt/           ([Formal] 割り当てる、与える)   The judge meted out sentences.
+> `schedule` /ˈskedʒuːl/            ([Neutral] スケジュールする)    Let's schedule a meeting for tomorrow.
+  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up a meeting with the team.
   - `set things up` /set θɪŋz ʌp/   ([Neutral] 準備する、手配する)  Let me set things up for tomorrow.
-  - `get things ready`               ([Neutral] 準備を整える)        I'll get things ready for the event.
-  - `put things in place`            ([Neutral] 準備を整える)        We need to put things in place first.
-  - `make arrangements`              ([Neutral] 手配する、準備する)  I'll make arrangements for the trip.
-  - `prepare` /prɪˈper/              ([Neutral] 準備する、用意する)  Let's prepare everything we need.
-  - `establish` /ɪˈstæblɪʃ/          ([Formal] 設立する、確立する)   We need to establish the process.
-- `arrange` /əˈreɪndʒ/              ([Neutral] 手配する、調整する)  I'll arrange a time that works for everyone.
-- `plan` /plæn/                     ([Neutral] 計画する、予定する)  Let's plan the project timeline.
-- `organize` /ˈɔːrɡənaɪz/           ([Neutral] 準備する、手配する)  She organized the team retreat.
-- `coordinate` /koʊˈɔːrdɪneɪt/      ([Neutral] 調整する、手配する)  I'll coordinate with all departments.
-- `fix` /fɪks/                      ([Casual] 決める、設定する)     Let's fix a time for our next meeting.
-- ✅ `slot in` /slɑːt ɪn/           ([Neutral] 枠に入れる 調整する) Can we slot this meeting in tomorrow?
-  - ✅ `slot for` /slɑːt fɔːr/      ([Neutral] ~の枠を設ける)       I'll slot for 30 minutes to discuss this.
-- `pencil in` /ˈpensəl ɪn/          ([Casual] 仮に予定を入れる)     Let me pencil you in for 3 PM.
-- `block out` /blɑːk aʊt/           ([Neutral] 時間をブロックする)  I'll block out time in my calendar.
-- `set aside` /set əˈsaɪd/          ([Neutral] 時間を取っておく)    Let's set aside time for planning.
-- `reserve` /rɪˈzɜːrv/              ([Neutral] 予約する、確保する)  Please reserve time for the presentation.
-- `allocate` /ˈæləkeɪt/             ([Formal] 割り当てる、配分する) We need to allocate time for each task.
-- `assign` /əˈsaɪn/                 ([Neutral] 割り当てる、指定する)Let's assign specific time slots.
-- `line up` /laɪn ʌp/               ([Casual] 並べる、手配する)     I'll line up meetings for next week.
-- `put together` /pʊt təˈɡeðər/     ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
+  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for the event.
+  - `put things in place`           ([Neutral] 準備を整える)        We need to put things in place first.
+  - `make arrangements`             ([Neutral] 手配する、準備する)  I'll make arrangements for the trip.
+  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `establish` /ɪˈstæblɪʃ/         ([Formal] 設立する、確立する)   We need to establish the process.
+  - `arrange` /əˈreɪndʒ/            ([Neutral] 手配する、調整する)  I'll arrange a time that works for everyone.
+  - `plan` /plæn/                   ([Neutral] 計画する、予定する)  Let's plan the project timeline.
+  - `organize` /ˈɔːrɡənaɪz/         ([Neutral] 準備する、手配する)  She organized the team retreat.
+  - `coordinate` /koʊˈɔːrdɪneɪt/    ([Neutral] 調整する、手配する)  I'll coordinate with all departments.
+  - `fix` /fɪks/                    ([Casual] 決める、設定する)     Let's fix a time for our next meeting.
+  - `slot in` /slɑːt ɪn/            ([Neutral] 枠に入れる 調整する) Can we slot this meeting in tomorrow?
+  - `slot for` /slɑːt fɔːr/         ([Neutral] ~の枠を設ける)       I'll slot for 30 minutes to discuss this.
+  - `pencil in` /ˈpensəl ɪn/        ([Casual] 仮に予定を入れる)     Let me pencil you in for 3 PM.
+  - `block out` /blɑːk aʊt/         ([Neutral] 時間をブロックする)  I'll block out time in my calendar.
+  - `set aside` /set əˈsaɪd/        ([Neutral] 時間を取っておく)    Let's set aside time for planning.
+  - `reserve` /rɪˈzɜːrv/            ([Neutral] 予約する、確保する)  Please reserve time for the presentation.
+  - `allocate` /ˈæləkeɪt/           ([Formal] 割り当てる、配分する) We need to allocate time for each task.
+  - `assign` /əˈsaɪn/               ([Neutral] 割り当てる、指定する)Let's assign specific time slots.
+  - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
+  - `put together` /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
 
-## SHORTEN
-- `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.
-- `condense` /kənˈdens/             ([Neutral] 凝縮する)            Condense your report to one page.
-- `abbreviate` /əˈbriːvieɪt/        ([Formal] 短縮する)             Please abbreviate the company name.
-- `curtail` /kɜːrˈteɪl/             ([Formal] 削減する)             We had to curtail our expenses.
-- `truncate` /ˈtrʌŋkeɪt/            ([Formal] 切り詰める)           The system truncates long file names.
-- `abridge` /əˈbrɪdʒ/               ([Formal] 短縮する)             They abridged the novel for young readers.
+## DETAILED ACTION (SHORTEN)
+> `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.
+  - `condense` /kənˈdens/           ([Neutral] 凝縮する)            Condense your report to one page.
+  - `abbreviate` /əˈbriːvieɪt/      ([Formal] 短縮する)             Please abbreviate the company name.
+  - `curtail` /kɜːrˈteɪl/           ([Formal] 削減する)             We had to curtail our expenses.
+  - `truncate` /ˈtrʌŋkeɪt/          ([Formal] 切り詰める)           The system truncates long file names.
+  - `abridge` /əˈbrɪdʒ/             ([Formal] 短縮する)             They abridged the novel for young readers.

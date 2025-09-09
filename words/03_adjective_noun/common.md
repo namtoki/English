@@ -638,3 +638,31 @@
 - `meat and potatoes` /miːt ænd pəˈteɪtoʊz/ ([Casual] 基本、本質)    This is the meat and potatoes of the issue.
 - `ins and outs` /ɪnz ænd aʊts/    ([Casual] 詳細、一部始終)       I know all the ins and outs of this system.
 - `bottom line` /ˈbɑːtəm laɪn/     ([Neutral] 要点、結論)          What's the bottom line here?
+
+
+    - `consideration`               ([Neutral] 考慮、思いやり)      Give it serious consideration.
+    - `considerable` /kənˈsɪdərəbəl/([Neutral] かなりの)            That's a considerable amount.
+    - `considerate` /kənˈsɪdərət/   ([Neutral] 思いやりのある)      He's always considerate of others.
+
+
+    - `conception` /kənˈsepʃən/     ([Formal] 概念、構想)           His conception of art is unique.
+    - `conceivable` /kənˈsiːvəbəl/  ([Formal] 考えられる)           It's conceivable that he's right.
+
+
+    - `concoction` /kənˈkɑːkʃən/    ([Formal] 作り話、調合物)       His story was a wild concoction.
+    - `conjuration` /ˌkʌndʒəˈreɪʃən/([Writing] 呪文、魔術)          The magician's conjuration amazed everyone.
+    - `fanciful` /ˈfænsɪfəl/        ([Neutral] 空想的な、奇抜な)    That's a fanciful idea.
+    - `evocation` /ˌevəˈkeɪʃən/     ([Writing] 想起、呼び起こし)    The evocation of past times was moving.
+    - `evocative` /ɪˈvoʊkətɪv/      ([Writing] 想起させる)          The photo is evocative of old times.
+
+
+    - `digesting` /daɪˈdʒestɪŋ/     ([Neutral] 理解・吸収)          Digesting complex ideas takes effort.
+    - `perception` /pərˈsepʃən/     ([Formal] 理解、知覚)           His perception was accurate.
+
+
+    - `telling` /ˈtelɪŋ/            ([Neutral] 効果的な、明白な)    That was a telling remark.
+    - `distinguished` /dɪˈstɪŋɡwɪʃt/([Formal] 卓越した、著名な)     She's a distinguished professor.
+    - `spotting` /ˈspɑːtɪŋ/         ([Casual] 発見、斑点)           Bird spotting is his hobby.
+    - `discernment` /dɪˈsɜːrnmənt/  ([Formal] 識別力、洞察力)       She showed great discernment.
+    - `discerning` /dɪˈsɜːrnɪŋ/     ([Formal] 目の肥えた)           He has discerning taste.
+    - `pinpointing` /ˈpɪnpɔɪntɪŋ/   ([Neutral] 特定)                Pinpointing the cause took time.
