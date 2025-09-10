@@ -172,3 +172,17 @@
   - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
   - `give support to`               ([Neutral] 支援する)            We give our support to the project.
   - `lend support to`               ([Formal] 支援する、支持する)   I lend my support to the cause.
+
+## WANT
+> `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
+  > `need` /niːd/                   ([Neutral] 必要とする)          I need your help with this.
+  > `would like` /wʊd laɪk/         ([Polite] 〜が欲しい)           I would like some water, please.
+  - `wouldn't mind` /ˈwʊdnt maɪnd/  ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
+  - `could use` /kʊd juːz/          ([Casual] 〜が欲しい)           I could use a coffee right now.
+  - `could do with` /kʊd duː wɪð/   ([Casual] 〜が欲しい)           I could do with a vacation.
+  - `be eager to` /biː ˈiːɡər tuː/  ([Neutral] 切望する)            She's eager to start her new job.
+  - `crave` /kreɪv/                 ([Neutral] 切望する)            I crave chocolate when I'm stressed.
+  - `long for` /lɔːŋ fɔːr/          ([Neutral] 切望する)            I'm longing for the weekend.
+  - `yearn for` /jɜːrn fɔːr/        ([Neutral] 切望する)            She yearns for her homeland.
+  - `desire` /dɪˈzaɪər/             ([Formal] 欲する、望む)         He desires success above all.
+  - `hunger for` /ˈhʌŋɡər fɔːr/     ([Neutral] 渇望する)            They hunger for knowledge.

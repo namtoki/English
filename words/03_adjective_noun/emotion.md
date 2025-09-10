@@ -56,13 +56,10 @@
 - `be better off -ing`              ([Neutral] 〜したほうがよい)    You're better off taking the train.
 
 ## WANT
-> `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
-> `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
-> `would like` /wʊd laɪk/           ([Polite] 〜が欲しい)           I would like some water, please.
-> `could use` /kʊd juːz/            ([Casual] 〜が欲しい)           I could use a coffee right now.
-- `could do with` /kʊd duː wɪð/     ([Casual] 〜が欲しい)           I could do with a vacation.
-- `wouldn't mind` /ˈwʊdnt maɪnd/    ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
-- `be eager to` /biː ˈiːɡər tuː/    ([Neutral] 切望する)            She's eager to start her new job.
+  - `craving` /ˈkreɪvɪŋ/            ([Neutral] 渇望、切望)          She had a craving for ice cream.
+  - `yearning` /ˈjɜːrnɪŋ/           ([Neutral] 切望、憧れ)          He felt a yearning for adventure.
+  - `longing` /ˈlɔːŋɪŋ/             ([Neutral] 憧れ、切望)          She felt a deep longing for home.
+  - `desirable` /dɪˈzaɪərəbəl/      ([Formal] 望ましい)             That's a desirable outcome.
 
 ## TAKE THE PLUNGE AND
 - `take the plunge`                 ([Neutral] 思い切る)            He finally took the plunge and quit.
@@ -162,3 +159,5 @@
   - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
   - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
 - `Murphy's Law is in full effect`  ([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
+
+  - `gut feeling` /ɡʌt ˈfiːlɪŋ/     ([Casual] 直感、勘)             I have a gut feeling about this.

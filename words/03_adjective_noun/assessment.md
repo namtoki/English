@@ -467,6 +467,7 @@
   - `unerring` /ʌnˈerɪŋ/            ([Formal] 誤りのない、正確な)   She has an unerring sense of direction.
 
 ## BAD
+- `bad boy` /bæd bɔɪ/               ([Casual] かっこいい悪ガキ)     That's a bad boy car!
 
 ## ABJECT
 - `abject` /ˈæbdʒekt/               ([Writing] 極度の、悲惨な)      They live in abject poverty.

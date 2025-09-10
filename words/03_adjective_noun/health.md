@@ -27,6 +27,10 @@
   - `feverish` /ˈfiːvərɪʃ/          ([Medical] 熱がある、熱的)      The patient felt feverish and weak.
 > `nausea` /ˈnɔːziə/                ([Medical] 吐き気)              The medication caused nausea.
 
+## GUT
+- `gut` /ɡʌt/                       ([Casual] 腸、内臓)             Trust your gut on this decision.
+  - `guts` /ɡʌts/                   ([Casual] 度胸、根性)           It takes guts to speak up.
+
 ## MEDICINE
 - `medicine` /ˈmedɪsɪn/             ([Neutral] 薬、医学)            Take your medicine three times a day.
 - `prescription` /prɪˈskrɪpʃən/     ([Medical] 処方箋)              The doctor wrote a prescription.
