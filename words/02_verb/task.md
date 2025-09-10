@@ -378,19 +378,20 @@
   - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
   - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
 
-## INFLUENCE
-> `influence` /ˈɪnfluəns/           ([Neutral] 影響する、左右する)  Weather influences our mood.
-  > `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
-  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、決める)    Several factors determine the outcome.
-  - `drive` /draɪv/                 ([Neutral] 駆動する、左右する)  Competition drives innovation.
+## AFFECT / RUB OFF ON
+> `affect` /əˈfekt/                 ([Neutral] 影響する、作用する)  The changes will affect everyone.
+- `influence` /ˈɪnfluəns/           ([Neutral] 影響する、左右する)  Weather influences our mood.
+  - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
   - `shape` /ʃeɪp/                  ([Neutral] 形作る、左右する)    Experiences shape our personality.
   - `control` /kənˈtroʊl/           ([Neutral] 支配する、制御する)  Who controls the budget?
-  - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
-  > `dictate` /dɪkˈteɪt/            ([Neutral] 左右する、決定する)  Market forces dictate the price.
+  - `drive` /draɪv/                 ([Neutral] 駆動する、左右する)  Competition drives innovation.
+  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、決める)    Several factors determine the outcome.
   - `guide` /ɡaɪd/                  ([Neutral] 導く、指導する)      Let principles guide your actions.
   - `direct` /dəˈrekt/              ([Neutral] 指示する、導く)      She directs the operations.
-  - `govern` /ˈɡʌvərn/              ([Formal] 支配する、左右する)   Supply and demand govern prices.
   - `sway` /sweɪ/                   ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
+  > `rub off on` /rʌb ɔːf ɑːn/      ([Casual] 影響を与える)         Her enthusiasm rubbed off on the team.
+  - `dictate` /dɪkˈteɪt/            ([Neutral] 左右する、決定する)  Market forces dictate the price.
+  - `govern` /ˈɡʌvərn/              ([Formal] 支配する、左右する)   Supply and demand govern prices.
   - `steer` /stɪr/                  ([Neutral] 導く、左右する)      He steered the conversation away.
   - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
   - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.

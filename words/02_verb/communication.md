@@ -54,3 +54,10 @@
   - `be contacted by`               ([Neutral] 連絡を受ける)        I was contacted by the manager.
   - `get     word from`             ([Neutral] 便りをもらう)        I got word from him this morning.
   - `receive word from`             ([Formal] 便りを受ける)         We received word from headquarters.
+
+## PHONE COMMUNICATION
+- `get  on the phone with`          ([Neutral] 電話で話す)          Get on the phone with the supplier.
+- `be   on the phone with`          ([Neutral] 電話中である)        I'm on the phone with a client.
+- `get off the phone with`          ([Casual] 電話を切る)           I just got off the phone with him.
+- `ring up` /rɪŋ ʌp/                ([British] 電話をかける)        I'll ring you up tomorrow.
+- `hang up` /hæŋ ʌp/                ([Neutral] 電話を切る)          Don't hang up yet!

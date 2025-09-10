@@ -441,6 +441,7 @@
   - `through V-ing` /θruː/          ([Neutral] ～を通じて)          He learned through making mistakes.
   - `via` /ˈvaɪə/                   ([Neutral] ～を経由して)        Send the document via email.
   - `somehow` /ˈsʌmhaʊ/             ([Casual] どうにかして)         I'll manage it somehow.
+- `for whatever reason`             ([Casual] どんな理由であれ)     For whatever reason, he quit.
   - `at the expense of`             ([Neutral] 犠牲にして)          He got promoted at the expense of his colleague.
   - `by heart` /baɪ hɑːrt/          ([Neutral] 暗記で)              First of all, learn the formula by heart.
   - `in a manner that`              ([Formal] ～という方法で)       Behave in a manner that reflects well on the company.
