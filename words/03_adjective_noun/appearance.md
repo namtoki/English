@@ -1,6 +1,6 @@
 # Appearance
 
-## CLOTHES
+## CLOTHES (OUTFIT / THREADS / )
 > `outfit` /ˈaʊtfɪt/                ([Casual] 服装一式、衣装)       I love your outfit today!
   > `clothes` /kləʊðz/              ([Neutral] 服、衣服)            I need to wash my clothes.
   > `threads` /θredz/               ([Casual] [若者] 服、衣服)        Nice threads! Where did you get them?
@@ -19,7 +19,7 @@
 > `wearable` /ˈweərəbl/             ([Neutral] 着用可能な)          This fabric is soft and wearable.
 > `worn` /wɔːn/                     ([Neutral] 着古した使い古した)  His jeans looked worn and faded.
 
-## PHYSICAL TRAITS
+## PHYSICAL TRAITS (THIN / FAT / TALL / SHORT / STRONG / WEAK)
 > `thin` /θɪn/                      ([Neutral] 痩せた)              He looks too thin these days.
   - `slim` /slɪm/                   ([Neutral] ほっそりした)        She has a slim figure.
   - `slender` /ˈslɛndər/            ([Neutral] すらりとした)        She has a slender build.
