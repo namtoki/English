@@ -301,24 +301,6 @@
   > `My understanding is (that)`    ([Neutral] 私の理解では)        My understanding is that we start Monday.
   - `My take is` /maɪ teɪk ɪz/      ([Casual] 私の見方は)           My take is that we should proceed.
 
-## I'M SURE THAT / I'M CONFIDENT THAT
-- `I believe` S V                   ([Neutral] 私は信じる)          I believe we can achieve this goal.
-- `I bet` S V                       ([Casual] きっと～だ)           I bet he forgot about the meeting.
-- `I hope` S V                      ([Neutral] ～であってほしい)    I hope everything goes smoothly tomorrow.
-- `I assume` S V                    ([Neutral] ～だと仮定する)      I assume you've heard the news.
-> `I'm sure (that)` S V             ([Neutral] ～を確信している)    I'm sure that everything will work out fine.
-> `I'm confident (that)` S V        ([Neutral] ～を確信している)    I'm confident that we can meet the deadline.
-- `I'm convinced (that)` S V        ([Neutral] ～を確信している)    I'm convinced that this is the right approach.
-- `I'm certain (that)` S V          ([Formal] ～を確信している)     I'm certain that we'll succeed.
-- `I'm positive (that)` S V         ([Casual] ～を確信している)     I'm positive that I locked the door.
-- `I have no doubt (that)` S V      ([Formal] ～を疑わない)         I have no doubt that she'll succeed.
-> `I had better` /aɪ hæd ˈbetər/    ([Casual] しなきゃ)             I had better get going.
-  - `I'd better` /aɪd ˈbetər/       ([Casual] しなきゃ)             I'd better hurry up.
-  - `I should` /aɪ ʃʊd/             ([Neutral] すべきだ)            I should call her back.
-  - `I ought to` /aɪ ɔːt tuː/       ([Formal] すべきだ)             I ought to apologize.
-  - `I must` /aɪ mʌst/              ([Neutral] しなければならない)  I must finish this today.
-  - `I have to` /aɪ hæv tuː/        ([Neutral] しなければならない)  I have to leave now.
-
 ## IT'S LIKELY THAT / CHANCES ARE / THERE'S A CHANCE THAT
 > `It appears (that)` S V           ([Formal] ～のようだ)           It appears that the system is down.
 > `It looks like` S V               ([Casual] ～みたいだ)           It looks like it's going to rain.
@@ -357,64 +339,60 @@
 - `supposedly` S V                  ([Neutral] ～らしい)            Supposedly, he's an expert in this field.
 - `be sure to` /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
 
-## ENDED UP -ING
-- `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
-- `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
-
-## GOTTA
+## I'M SURE THAT / I'M CONFIDENT THAT / GOTTA / BE MEANT TO / BE SUPPOSED TO / BE ABOUT TO / BE OBLIGATED TO / ENDED UP -ING
+> `I believe` S V                   ([Neutral] 私は信じる)          I believe we can achieve this goal.
+  - `I bet` S V                     ([Casual] きっと～だ)           I bet he forgot about the meeting.
+  - `I hope` S V                    ([Neutral] ～であってほしい)    I hope everything goes smoothly tomorrow.
+  - `I assume` S V                  ([Neutral] ～だと仮定する)      I assume you've heard the news.
+  > `be bound to` /baʊnd tuː/       ([Neutral] ～に違いない)        He's bound to notice eventually.
+> `I'm sure (that)` S V             ([Neutral] ～を確信している)    I'm sure that everything will work out fine.
+  > `I'm confident (that)` S V      ([Neutral] ～を確信している)    I'm confident that we can meet the deadline.
+  - `I'm convinced (that)` S V      ([Neutral] ～を確信している)    I'm convinced that this is the right approach.
+  - `I'm certain (that)` S V        ([Formal] ～を確信している)     I'm certain that we'll succeed.
+  - `I'm positive (that)` S V       ([Casual] ～を確信している)     I'm positive that I locked the door.
+  - `I have no doubt (that)` S V    ([Formal] ～を疑わない)         I have no doubt that she'll succeed.
 > `gotta` /ˈɡɑːtə/                  ([Casual] ～しなきゃ)           I gotta go now.
-  - `have got to` /hæv ɡɑːt tuː/    ([Casual] ～しなきゃ)           I've got to finish this tonight.
-  - `was going to` /wəz ˈɡoʊɪŋ tuː/ ([Neutral] するつもりだった)    I was going to call but forgot.
-- `need to` /niːd tuː/              ([Neutral] ～する必要がある)    I need to finish this report.
-- `have to` /hæv tuː/               ([Neutral] ～しなけばならない)  I have to leave early today.
-- `must` /mʌst/                     ([Formal] ～しなければならない) You must submit it by Friday.
-- `should` /ʃʊd/                    ([Neutral] ～すべきだ)          You should check your email.
-- `ought to` /ɔːt tuː/              ([Formal] ～すべきだ)           You ought to apologize.
-> `be required to` /rɪˈkwaɪərd tuː/ ([Formal] ～が要求される)       Students are required to attend.
-- `better` /ˈbetər/                 ([Casual] ～したほうがいい)     You better hurry up.
-- `had better` /hæd ˈbetər/         ([Neutral] ～したほうがいい)    You had better be careful.
-
-## BE SUPPOSED TO
-> `be supposed to` /səˈpoʊzd tuː/   ([Neutral] ～することになてる)  I'm supposed to meet him at 3.
-  > `was supposed to`               ([Neutral] するはずだった)      She was supposed to be here by now.
-> `be expected to` /ɪkˈspektɪd tuː/ ([Neutral] ～が期待される)      You're expected to be on time.
-- `be due to` /duː tuː/             ([Neutral] ～する予定)          The baby is due to arrive soon.
-- `be scheduled to` /ˈskedʒuːld tuː/([Formal] ～が予定されている)   The meeting is scheduled to start at 9.
-> `be set to` /set tuː/             ([Neutral] ～することになてる)  The project is set to launch Monday.
-- `be slated to` /ˈsleɪtɪd tuː/     ([Formal] ～が予定されている)   She's slated to speak at noon.
-- `be intending to` /ɪnˈtendɪŋ tuː/ ([Formal] ～するつもり)         I was intending to call you.
-- `be destined to` /ˈdestɪnd tuː/   ([Formal] ～する運命)           She was destined to succeed.
-
-## BE ABOUT TO
-> `be about to` /əˈbaʊt tuː/        ([Neutral] まさに～するところ)  The show is about to start.
-  - `be just about to`              ([Neutral] ちょうどするところ)  I was just about to leave.
-> `be gonna` /ˈɡʌnə/                ([Casual] ～しようとしている)   I'm gonna head out soon.
-> `be going to` /ˈɡoʊɪŋ tuː/        ([Casual] ～しようとしている)   I'm going to call him now.
-- `be fixin' to` /ˈfɪksɪn tuː/      ([Casual] ～するところ)         I'm fixin' to make dinner.
-- `be on the verge of` /vɜːrdʒ/     ([Neutral] ～の寸前)            She's on the verge of tears.
-- `be on the point of` /pɔɪnt/      ([Formal] まさに～しようと)     I was on the point of calling you.
-- `be on the brink of` /brɪŋk/      ([Neutral] ～の瀬戸際)          We're on the brink of success.
-- `be close to` /kloʊs tuː/         ([Neutral] ～に近い)            I'm close to finishing.
-  - `come close to -ing`            ([Neutral] 危うくしそうになる)  I came close to missing my flight.
-- `be near to` /nɪr tuː/            ([Formal] ～に近い)             She was near to giving up.
-
-## BE MEANT TO
+  > `I had better` /aɪ hæd ˈbetər/  ([Casual] しなきゃ)             I had better get going.
+  > `have got to` /hæv ɡɑːt tuː/    ([Casual] ～しなきゃ)           I've got to finish this tonight.
+  - `need to` /niːd tuː/            ([Neutral] ～する必要がある)    I need to finish this report.
+  - `have to` /hæv tuː/             ([Neutral] ～しなけばならない)  I have to leave early today.
+  - `must` /mʌst/                   ([Formal] ～しなければならない) You must submit it by Friday.
+  - `should` /ʃʊd/                  ([Neutral] ～すべきだ)          You should check your email.
+  - `ought to` /ɔːt tuː/            ([Formal] ～すべきだ)           You ought to apologize.
+  > `be required to` /rɪˈkwaɪərd tuː([Formal] ～が要求される)       Students are required to attend.
+  - `better` /ˈbetər/               ([Casual] ～したほうがいい)     You better hurry up.
+  - `had better` /hæd ˈbetər/       ([Neutral] ～したほうがいい)    You had better be careful.
 > `be meant to` /ment tuː/          ([Neutral] ～するつもり)        I meant to call you earlier.
-- `be intended to` /ɪnˈtendɪd tuː/  ([Neutral] ～するつもりだった)  I intended to finish today.
-
-## BE OBLIGATED TO
-> `have no choice` /hæv noʊ tʃɔɪs/  ([Neutral] 選択肢がない)        I have no choice but to quit.
-- `forced to` /fɔːrst tuː/          ([Neutral] ～を強いられる)      I was forced to leave early.
-- `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
-- `obligated to` /ˈɑːblɪɡeɪtɪd tuː/ ([Formal] ～する義務がある)     I feel obligated to help.
-- `compelled to` /kəmˈpeld tuː/     ([Formal] ～せざるを得ない)     I felt compelled to speak up.
-- `obliged to` /əˈblaɪdʒd tuː/      ([Formal] ～する義務がある)     You're obliged to report it.
-
-## MUST
-- `bound to` /baʊnd tuː/            ([Neutral] ～に違いない)        He's bound to notice eventually.
-
-## SHOULD
-- `be better off -ing`              ([Neutral] 〜したほうがよい)    You're better off taking the train.
+  - `be intended to` /ɪnˈtendɪd tuː/([Neutral] ～するつもりだった)  I intended to finish today.
+> `be supposed to` /səˈpoʊzd tuː/   ([Neutral] ～することになてる)  I'm supposed to meet him at 3.
+    > `was supposed to`             ([Neutral] するはずだった)      She was supposed to be here by now.
+  > `be expected to` /ɪkˈspektɪd tuː([Neutral] ～が期待される)      You're expected to be on time.
+  - `be due to` /duː tuː/           ([Neutral] ～する予定)          The baby is due to arrive soon.
+  - `be scheduled to` /ˈskedʒuːld tu([Formal] ～が予定されている)   The meeting is scheduled to start at 9.
+  > `be set to` /set tuː/           ([Neutral] ～することになてる)  The project is set to launch Monday.
+  - `be slated to` /ˈsleɪtɪd tuː/   ([Formal] ～が予定されている)   She's slated to speak at noon.
+  - `be intending to` /ɪnˈtendɪŋ tuː([Formal] ～するつもり)         I was intending to call you.
+  - `be destined to` /ˈdestɪnd tuː/ ([Formal] ～する運命)           She was destined to succeed.
+> `be about to` /əˈbaʊt tuː/        ([Neutral] まさに～するところ)  The show is about to start.
+    - `be just about to`            ([Neutral] ちょうどするところ)  I was just about to leave.
+  > `be gonna` /ˈɡʌnə/              ([Casual] ～しようとしている)   I'm gonna head out soon.
+  > `be going to` /ˈɡoʊɪŋ tuː/      ([Casual] ～しようとしている)   I'm going to call him now.
+  - `be fixin' to` /ˈfɪksɪn tuː/    ([Casual] ～するところ)         I'm fixin' to make dinner.
+  - `be on the verge of` /vɜːrdʒ/   ([Neutral] ～の寸前)            She's on the verge of tears.
+  - `be on the point of` /pɔɪnt/    ([Formal] まさに～しようと)     I was on the point of calling you.
+  - `be on the brink of` /brɪŋk/    ([Neutral] ～の瀬戸際)          We're on the brink of success.
+  - `be close to` /kloʊs tuː/       ([Neutral] ～に近い)            I'm close to finishing.
+    - `come close to -ing`          ([Neutral] 危うくしそうになる)  I came close to missing my flight.
+  - `be near to` /nɪr tuː/          ([Formal] ～に近い)             She was near to giving up.
+> `obligated to` /ˈɑːblɪɡeɪtɪd tuː/ ([Formal] ～する義務がある)     I feel obligated to help.
+  > `have no choice` /hæv noʊ tʃɔɪs/([Neutral] 選択肢がない)        I have no choice but to quit.
+  - `forced to` /fɔːrst tuː/        ([Neutral] ～を強いられる)      I was forced to leave early.
+  - `stuck with` /stʌk wɪð/         ([Casual] ～で身動き取れない)   I'm stuck with this decision.
+  - `compelled to` /kəmˈpeld tuː/   ([Formal] ～せざるを得ない)     I felt compelled to speak up.
+  - `obliged to` /əˈblaɪdʒd tuː/    ([Formal] ～する義務がある)     You're obliged to report it.
+> `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
+> `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
+> `was going to` /wəz ˈɡoʊɪŋ tuː/   ([Neutral] するつもりだった)    I was going to call but forgot.
 
 ## TAKE THE PLUNGE AND
 - `take the plunge`                 ([Neutral] 思い切る)            He finally took the plunge and quit.
