@@ -205,6 +205,14 @@
 - `onerous` /ˈoʊnərəs/              ([Writing] 重荷となる、困難な)  The regulations are onerous.
 - `herculean` /ˌhɜːrkjəˈliːən/      ([Writing] 非常に困難な)        It was a herculean task.
 
+## CLEAR/OBVIOUS
+- `black and white` /blæk ænd waɪt/ ([Neutral] 明白な、単純な)      The issue isn't black and white.
+- `clear-cut` /ˈklɪr kʌt/           ([Neutral] 明確な、はっきりした) It's not a clear-cut decision.
+- `cut and dried` /kʌt ænd draɪd/   ([Casual] 明白な、決まりきった) The answer isn't cut and dried.
+- `straightforward` /ˌstreɪtˈfɔːrwərd/ ([Neutral] 簡単な、率直な)      The process is straightforward.
+- `crystal clear` /ˈkrɪstəl klɪr/   ([Neutral] 非常に明確な)        The instructions are crystal clear.
+- `plain as day` /pleɪn æz deɪ/     ([Casual] 明白な、はっきりした) The truth is plain as day.
+
 ## 複雑な
 - ✅ `complicated` /ˈkɒmplɪkeɪtɪd/  ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
   - `complication`/ˌkɒmplɪˈkeɪʃən/  ([Writing] 面倒な事態)          The surgery was successful, but there were complications.
@@ -444,6 +452,14 @@
   - `epitomize` /ɪˈpɪtəmaɪz/        ([Writing] 典型となる、縮図)    He epitomizes the American dream.
     - `epitome` /ɪˈpɪtəmi/          ([Writing] 典型、縮図)          She's the epitome of elegance.
 
+## STANDARD/QUALITY
+- `up to snuff` /ʌp tuː snʌf/       ([Casual] 水準に達している)     His work isn't up to snuff.
+- `up to par` /ʌp tuː pɑːr/         ([Neutral] 標準に達している)    The quality isn't up to par.
+- `up to scratch` /ʌp tuː skrætʃ/   ([Casual] 基準に達している)     Your performance isn't up to scratch.
+- `up to standard` /ʌp tuː ˈstændərd/ ([Neutral] 基準を満たす)        The product is up to standard.
+- `meet expectations`                ([Neutral] 期待に応える)        The results meet expectations.
+- `measure up` /ˈmeʒər ʌp/          ([Neutral] 基準に達する)        He doesn't measure up to the job.
+
 ## GOOD
 - `correct` /kəˈrekt/               ([Neutral] 正しい、正確な)      Is this answer correct?
     - `correction` /kəˈrekʃən/      ([Neutral] 訂正、修正)          The teacher made a correction.
@@ -468,6 +484,13 @@
 
 ## BAD
 - `bad boy` /bæd bɔɪ/               ([Casual] かっこいい悪ガキ)     That's a bad boy car!
+
+## AWESOME (SLANG)
+- `fire` /faɪər/                    ([Slang] 最高な、すごい)        That new song is fire!
+- `lit` /lɪt/                       ([Slang] 最高な、楽しい)        The party was lit!
+- `sick` /sɪk/                      ([Slang] すごい、かっこいい)    That trick was sick!
+- `dope` /doʊp/                     ([Slang] かっこいい、最高)      Your new shoes are dope!
+- `banging` /ˈbæŋɪŋ/                ([Slang] 最高な、素晴らしい)    That beat is banging!
 
 ## ABJECT
 - `abject` /ˈæbdʒekt/               ([Writing] 極度の、悲惨な)      They live in abject poverty.

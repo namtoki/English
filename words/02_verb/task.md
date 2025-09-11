@@ -29,9 +29,14 @@
   - `examine` /ɪɡˈzæmɪn/            ([Formal] 検査する、調べる)     The doctor examined the patient.
   - `explore` /ɪkˈsplɔːr/           ([Neutral] 探索する、調べる)    Let's explore this option.
   - `investigate` /ɪnˈvestɪɡeɪt/    ([Formal] 調査する、捜査する)   Police are investigating the case.
-  - `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
   - `inspect` /ɪnˈspekt/            ([Formal] 検査する、調べる)     Inspectors examined the building.
   - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
+> `dig into` /dɪɡ ˈɪntuː/           ([Casual] 掘り下げる、調査する) We need to dig into the data.
+  - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
+  - `dive into` /daɪv ˈɪntuː/       ([Casual] 飛び込む、詳しく調べ) I'll dive into the research.
+  - `drill down` /drɪl daʊn/        ([Neutral] 掘り下げる)          We need to drill down further.
+  - `get to the bottom of`          ([Casual] 真相を突き止める)     I'll get to the bottom of this.
+  - `pore over` /pɔːr ˈoʊvər/       ([Neutral] 熟読する)            She pored over the documents.
   - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
 > `exercise` /ˈeksərsaɪz/           ([Neutral] 行使する、発動する)  They exercised their voting rights.
   - `wield` /wiːld/                 ([Neutral] 振るう、行使する)    She wields considerable influence.

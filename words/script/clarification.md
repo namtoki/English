@@ -7,6 +7,7 @@
 - 02_verb/conflict.md - 対立・攻撃・犯罪関連の動詞
 - 02_verb/others.md - 他のものに影響を与える動詞 (その他)
 - 03_adjective_noun/appearance.md - 服装・外見に関する名詞、形容詞
+- 03_adjective_noun/status.md - 対象の状態を表す名詞、形容詞
 - 03_adjective_noun/assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞
 - 03_adjective_noun/emotion.md - 主観的な感情・気持ちを表現する名詞、形容詞
 - 03_adjective_noun/health.md - 医療・健康関連の名詞、形容詞

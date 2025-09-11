@@ -49,6 +49,12 @@
 > `be in contact`                   ([Neutral] 連絡を保つ)          We're still in contact.
   > `keep in touch` /kiːp ɪn tʌtʃ/  ([Neutral] 連絡を保つ)          Let's keep in touch.
   - `stay in touch` /steɪ ɪn tʌtʃ/  ([Neutral] 連絡を保つ)          Stay in touch!
+> `lose touch with`                 ([Neutral] 連絡が途絶える)      I lost touch with my old friends.
+  - `lose contact with`             ([Neutral] 連絡を失う)          I lost contact with my mentor.
+  - `fall out of touch`             ([Neutral] 連絡が途絶える)      We fell out of touch after college.
+  - `drift apart` /drɪft əˈpɑːrt/   ([Neutral] 疎遠になる)          We slowly drifted apart over time.
+  - `grow apart` /ɡroʊ əˈpɑːrt/     ([Neutral] 疎遠になる)          We grew apart after high school.
+  - `be out of touch`               ([Neutral] 連絡が取れない)      I've been out of touch with them.
 > `hear from` /hɪr frʌm/            ([Neutral] 連絡をもらう)        I hope to hear from you soon.
   - `receive` /rɪˈsiːv/             ([Neutral] 連絡をもらう)        I received your message yesterday.
   - `be contacted by`               ([Neutral] 連絡を受ける)        I was contacted by the manager.
