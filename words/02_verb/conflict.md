@@ -61,6 +61,9 @@
   - `chafe` /tʃeɪf/                 ([Formal] いらだたせる)         The restrictions chafe at him.
   - `nettle` /ˈnetəl/               ([Formal] いらだたせる)         Her remarks nettled him.
   - `vex` /veks/                    ([Writing] いらだたせる)        The problem vexed the scientists.
+  - `outrage` /ˈaʊtreɪdʒ/           ([Neutral] 激怒させる)          His comments outraged the community.
+- `lose one's temper`               ([Neutral] かっとなる)          Don't lose your temper with them.
+- `blow up` /bloʊ ʌp/               ([Casual] 爆発する、怒る)       He blew up when he heard the news.
 > `embarrass` /ɪmˈbærəs/            ([Neutral] 恥をかかせる)        Don't embarrass me in public.
   - `shame` /ʃeɪm/                  ([Neutral] 恥をかかせる)        She tried to shame him into apologizing.
   - `ashamed` /əˈʃeɪmd/             ([Neutral] 恥ずかしい)          He felt ashamed of his behavior.

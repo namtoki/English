@@ -41,3 +41,18 @@
 - `sort of` /sɔːrt əv/              ([Casual] ちょっと、まあまあ)   It's sort of complicated.
 - `somewhat` /ˈsʌmwʌt/              ([Neutral] いくぶん、多少)      I'm somewhat disappointed.
 - `kinda` /ˈkaɪndə/                 ([Casual] ちょっと)             I'm kinda hungry.
+
+## ON PURPOSE
+- `on purpose` /ɔːn ˈpɜːrpəs/       ([Casual] わざと)               He spilled the drink on purpose.
+- `purposely` /ˈpɜːrpəsli/          ([Neutral] 故意に)              She purposely ignored the warning signs.
+- `deliberately` /dɪˈlɪbərətli/     ([Neutral] 意図的に)            He deliberately left early.
+- `intentionally` /ɪnˈtenʃənəli/    ([Neutral] 意図的に)            She intentionally missed the meeting.
+- `by design` /baɪ dɪˈzaɪn/         ([Neutral] 設計上)              The delay was by design.
+- `consciously` /ˈkɑːnʃəsli/        ([Neutral] 意識的に)            She consciously chose to help.
+- `out of habit` /aʊt əv ˈhæbɪt/    ([Casual] 習慣として)           I got the Namboku line out of habit.
+- `on impulse` /ɔːn ˈɪmpʌls/        ([Casual] 衝動的に)             I bought the shoes on impulse.
+- `for the fun of it`               ([Casual] 楽しみで)             He tried skydiving for the fun of it.
+- `in support of` /ɪn səˈpɔːrt əv/  ([Neutral] 支持して)            They organized a rally in support of the new policy.
+- `knowingly` /ˈnoʊɪŋli/            ([Formal] 承知の上で)           He knowingly broke the rules.
+- `willfully` /ˈwɪlfəli/            ([Formal] 故意に)               She willfully ignored the instructions.
+> `go out of one's way to`          ([Neutral] わざわざする)        He always goes out of his way to help his colleagues.

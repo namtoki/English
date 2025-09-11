@@ -151,7 +151,6 @@ apologetic	10	【形】謝罪する、わびの 【名】弁明
 apostle	11	【名】使徒、最初の伝道者、主唱者		
 apparatus	5	【名】器具、機械、器官		
 appendix	7	【名】付録、追加、盲腸		
-appetite	4	【名】食欲、欲求		
 appetizer	7	【名】前菜、食欲をそそるもの		
 appetizing	9	【形】食欲をそそる、人の気をそそる		
 applaud	6	【動】拍手を送る、賞賛する		
