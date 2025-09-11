@@ -1,6 +1,6 @@
 # Appearance
 
-## CLOTHES (OUTFIT / THREADS / )
+## CLOTHES (OUTFIT / THREADS)
 > `outfit` /ˈaʊtfɪt/                ([Casual] 服装一式、衣装)       I love your outfit today!
   > `clothes` /kləʊðz/              ([Neutral] 服、衣服)            I need to wash my clothes.
   > `threads` /θredz/               ([Casual] [若者] 服、衣服)        Nice threads! Where did you get them?

@@ -4,6 +4,14 @@
 - `subject` /ˈsʌbdʒɪkt/             ([Neutral] 主題、科目)          Math is my favorite subject.
 
 ## ACADEMIC
+- `geometry` /dʒiˈɑːmətri/          ([Neutral] 幾何学)              I'm studying geometry this semester.
+  - `geometric` /ˌdʒiːəˈmetrɪk/     ([Neutral] 幾何学的な)          The geometric patterns are beautiful.
+  - `geometrical` /ˌdʒiːəˈmetrɪkəl/ ([Formal] 幾何学的な)           The geometrical proof is elegant.
+- `algebra` /ˈældʒɪbrə/             ([Neutral] 代数学)              Algebra helps solve equations.
+- `calculus` /ˈkælkjələs/           ([Neutral] 微積分学)            Calculus is required for engineering.
+- `trigonometry` /ˌtrɪɡəˈnɑːmətri/  ([Neutral] 三角法)              Trigonometry deals with triangles.
+- `arithmetic` /əˈrɪθmətɪk/         ([Neutral] 算数、算術)          Basic arithmetic is essential.
+- `mathematics` /ˌmæθəˈmætɪks/      ([Formal] 数学)                 Mathematics is the language of science.
 - `zoology` /zoʊˈɑːlədʒi/           ([Formal] 動物学)               She studies zoology at university.
   - `zoological` /ˌzoʊəˈlɑːdʒɪkəl/  ([Formal] 動物学の)             The zoological garden has many species.
   - `zoologist` /zoʊˈɑːlədʒɪst/     ([Formal] 動物学者)             The zoologist studies animal behavior.

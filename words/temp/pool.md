@@ -110,7 +110,6 @@ amphibian	12	【名】両生類 【形】水陸両生の
 amphitheater	12	【名】円形劇場		
 amply	11	【副】十分に		
 analogous	9	【形】似ている、相似の		
-anatomy	8	【名】解剖（学）、構造		
 anchorage	10	【名】停泊地、固定するもの、頼みの綱		
 ancillary	12	【形】付属の、補助の 【名】付属物		
 anemia	11	【名】貧血、無気力		
@@ -188,7 +187,6 @@ arid	11	【形】湿気のない、無味乾燥の
 aristocracy	8	【名】上流階級、貴族、貴族政治		
 aristocrat	8	【名】貴族、特権階級の人、最高級品		
 aristocratic	8	【形】貴族の、貴族的な、貴族政治の		
-arithmetic	7	【名】算数 【形】算数の		
 ark	11	【名】ノアの箱舟、避難所		
 armament	10	【名】兵器、軍備		
 armchair	6	【名】ひじかけいす		
@@ -532,7 +530,6 @@ cadet	11	【名】士官候補生、士官学校生、見習い
 calamity	7	【名】災難、不幸、苦難		
 calcium	7	【名】カルシウム		
 calculating	10	【形】計算ができる、抜け目ない、利己的な		
-calculus	11	【名】腎臓などの結石、計算法		
 caliber	11	【名】銃の口径、直径、能力		
 calligraphy	4	【名】書道、習字		
 callous	12	【形】無神経な、皮膚が硬くなった 【名】皮膚のたこ		
@@ -1938,8 +1935,7 @@ gentile	12	【名】（ユダヤ人にとっての）キリスト教徒・異教
 genus	12	【名】属、種類		
 geological	9	【形】地質学の		
 geology	7	【名】地質学		
-geometric	10	【形】幾何学的な		
-geometry	6	【名】幾何学		
+		
 germ	9	【名】細菌、病原菌、芽生え 【形】病原菌の		
 germinate	12	【動】（アイデアが）生まれる、発芽する、成長し始める		
 ghastly	11	【形】ひどい、ぞっとするような 【副】恐ろしく、青ざめて		
@@ -3357,7 +3353,6 @@ photocopy	9	【名】写真複写 【動】複写する
 photographic	6	【形】写真の、非常に写実的な		
 physically	5	【副】身体上、自然の法則によって、物理的に		
 physicist	6	【名】物理学者		
-physiology	12	【名】生理機能、生理学		
 pickpocket	8	【名】すり		
 picturesque	7	【形】絵のような		
 piecemeal	12	【形】断片的な 【副】少しずつ		

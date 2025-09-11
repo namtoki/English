@@ -32,28 +32,28 @@
   - `inheritance` /ɪnˈherɪtəns/     ([Neutral] 相続財産)            He received an inheritance from his uncle.
   - `grant` /ɡrænt/                 ([Neutral] 助成金)              She received a research grant.
   - `subsidy` /ˈsʌbsədi/            ([Formal] 補助金)               The government provides farming subsidies.
+> `lucrative` /ˈluːkrətɪv/          ([Writing] 儲かる、有利な)      He has a lucrative business.
   - `profitable` /ˈprɒfɪtəbəl/      ([Neutral] 利益の出る)          The company had a profitable year.
-  > `lucrative` /ˈluːkrətɪv/        ([Writing] 儲かる、有利な)      He has a lucrative business.
 
-## AFFLUENCE
-- `wealth` /welθ/                   ([Neutral] 富、財産)            He accumulated great wealth.
-  - `wealthy` /ˈwelθi/              ([Neutral] 裕福な)              They are a wealthy couple.
-- `well-off` /wel ɔːf/              ([Casual] 裕福な)               Her parents are quite well-off.
-- `prosperity` /prɑːˈsperəti/       ([Formal] 繁栄、成功)           The nation enjoyed prosperity.
-  - `prosperous` /ˈprɑːspərəs/      ([Formal] 繁栄している)         It's a prosperous business.
-- `affluence` /ˈæfluəns/            ([Formal] 富裕、豊かさ)         They live in affluence and comfort.
-  - `affluent` /ˈæfluənt/           ([Formal] 裕福な)               She comes from an affluent family.
-- `riches` /ˈrɪtʃɪz/                ([Writing] 富、財宝)            He dreamed of untold riches.
+## WEALTH
+> `wealth` /welθ/                   ([Neutral] 富、財産)            He accumulated great wealth.
+    - `wealthy` /ˈwelθi/            ([Neutral] 裕福な)              They are a wealthy couple.
+  - `well-off` /wel ɔːf/            ([Casual] 裕福な)               Her parents are quite well-off.
+  - `prosperity` /prɑːˈsperəti/     ([Formal] 繁栄、成功)           The nation enjoyed prosperity.
+    - `prosperous` /ˈprɑːspərəs/    ([Formal] 繁栄している)         It's a prosperous business.
+  - `affluence` /ˈæfluəns/          ([Formal] 富裕、豊かさ)         They live in affluence and comfort.
+    - `affluent` /ˈæfluənt/         ([Formal] 裕福な)               She comes from an affluent family.
+  - `riches` /ˈrɪtʃɪz/              ([Writing] 富、財宝)            He dreamed of untold riches.
 
-## HIRE
+## HIRING (FOR HIRE / OPEN FOR BUSINESS)
 > `for hire`                        ([Neutral] 賃貸しの、雇用可能)  The taxi is for hire.
-- `available` /əˈveɪləbəl/          ([Neutral] 利用可能な)          The room is available now.
-- `for rent`                        ([Neutral] 賃貸しの)            This apartment is for rent.
-- `for sale`                        ([Neutral] 売り物の)            The house is for sale.
-- `on the market`                   ([Neutral] 市場に出ている)      The property is on the market.
-- `open for business`               ([Neutral] 営業中)              We're open for business.
-- `available for hire`              ([Neutral] 雇用可能な)          She's available for hire.
+  - `for rent`                      ([Neutral] 賃貸しの)            This apartment is for rent.
+  - `for sale`                      ([Neutral] 売り物の)            The house is for sale.
+  - `for lease` /liːs/              ([Neutral] リース可能な)        The equipment is for lease.
+  - `available` /əˈveɪləbəl/        ([Neutral] 利用可能な)          The room is available now.
+  - `available for hire`            ([Neutral] 雇用可能な)          She's available for hire.
+> `open for business`               ([Neutral] 営業中)              We're open for business.
+  - `on the market`                 ([Neutral] 市場に出ている)      The property is on the market.
 - `freelance` /ˈfriːlæns/           ([Neutral] フリーランスの)      He works as a freelance writer.
-- `for lease` /liːs/                ([Neutral] リース可能な)        The equipment is for lease.
 - `vacant` /ˈveɪkənt/               ([Neutral] 空いている)          The position is vacant.
 - `unoccupied` /ʌnˈɑːkjupaɪd/       ([Neutral] 使用されていない)    The seat is unoccupied.
