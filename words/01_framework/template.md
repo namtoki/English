@@ -409,7 +409,6 @@
 - `taken aback`                     ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
 - `at a loss for words`             ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
 
-
 ## I CAN'T CATCH A BREAK
 > `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
 - `Nothing's going my way`          ([Casual] 何もうまくいかない)   Nothing's going my way today.
@@ -424,5 +423,3 @@
   - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
   - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
 - `Murphy's Law is in full effect`  ([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
-
-

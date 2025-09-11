@@ -3056,8 +3056,6 @@ onslaught	11	【名】猛襲、猛攻撃
 onus	12	【名】責任、負担		
 ooze	11	【動】流れ出る、みなぎらせる 【名】分泌		
 opaque	11	【形】くすんだ、不明瞭な 【名】不透明なもの		
-opener	6	【名】あける道具、開く人		
-operational	8	【形】使用できる、操作上の、作戦上の、作戦可能な		
 opinionated	12	【形】頑固な、独断的な		
 opium	11	【名】アヘン、麻痺させるもの		
 opportune	10	【形】適切な、適当な、時宜を得た		
@@ -3075,13 +3073,8 @@ orderly	7	【形】規則正しい、整頓された 【名】病棟勤務員
 ordinance	11	【名】条例、法令、聖餐式		
 ordinarily	7	【副】通常、通例、普通に		
 ore	9	【名】鉱石、原鉱		
-organic	5	【形】有機の、有機体の、臓器の		
-organism	5	【名】有機体、生命体		
-organist	5	【名】オルガン奏者		
 organizational	8	【形】組織に関する、組織的な、構成する		
 orgy	11	【名】乱痴気騒ぎ、～にふけること		
-orientation	5	【名】方位測定、位置確認、入門指導、方向性、志向		
-ornamental	9	【形】装飾用の 【名】装飾物		
 ornate	10	【形】どぎつく飾りたてた、極度に修辞的な		
 orphan	6	【名】孤児 【形】親のない、孤児の		
 orthodoxy	10	【名】正統性、正説		
@@ -3090,14 +3083,11 @@ ostensible	12	【形】明らかな、表向きの
 ostentatious	12	【形】けばけばしい、これ見よがしの		
 ostrich	8	【名】ダチョウ		
 otter	12	【名】カワウソ		
-ounce	5	【名】オンス（ヤード・ポンド法における質量単位）		
 oust	10	【動】追い払う、立ち退かせる		
-outage	7	【名】（電気・通信などの）停止、停電		
 outbreak	6	【名】突発、発生、爆発		
 outburst	10	【名】爆発、ほとばしり		
 outcast	10	【名】見捨てられた人、浮浪者		
 outcry	10	【名】絶叫、激しい抗議 【動】大声を出す		
-outdated	7	【形】古臭い、時代遅れの、期限切れの		
 outlaw	8	【名】無法者、お尋ね者 【動】追放する、不法とする、禁止する		
 outlay	12	【名】支出 【動】出費する		
 outlet	5	【名】直販店、コンセント、はけ口		
@@ -3107,7 +3097,6 @@ outset	10	【名】着手、手始め
 outsider	6	【名】部外者、門外漢		
 outskirts	6	【名】郊外、場末		
 outspoken	11	【形】率直な、遠慮のない		
-outstanding	4	【形】目立った、顕著な		
 outstrip	11	【動】追い越す、～より勝る		
 outweigh	10	【動】勝る、より重い		
 outwit	12	【動】裏をかく、出し抜く		
@@ -3117,7 +3106,6 @@ overbearing	12	【形】高圧的な、圧倒的な
 overblown	11	【形】大げさな、度が過ぎた、盛りを過ぎた		
 overcome	4	【動】～に打ち勝つ、圧倒する、ぐったりさせる		
 overcrowd	10	【動】詰め込みすぎる、混雑させる		
-overdo	8	【動】やりすぎる、誇張する、へとへとに疲れる		
 overdose	11	【名】薬や麻薬の過剰摂取 【動】薬を飲みすぎる		
 overdue	9	【形】期日を過ぎた、機が熟しきっている、過度の		
 overestimate	9	【動】多く見積もりすぎる、過大評価する 【名】過大評価		
@@ -3134,21 +3122,14 @@ overrun	10	【動】群がる、圧倒する、急速に広まる、走り越す
 oversee	9	【動】監督する、こっそり見る		
 overshadow	11	【動】見劣りさせる、影を投げかける		
 oversight	9	【名】見過ごし、手落ち、監視、監督		
-oversleep	5	【動】寝過ごす		
 overstate	10	【動】誇張して話す、大げさに述べる		
 overtake	5	【動】追い越す、追いつく		
 overthrow	6	【動】引き下ろす、屈服させる、遠くへ投げすぎる		
-overtime	6	【副】時間外に 【名】超過時間 【形】時間外の		
 overtone	12	【名】含み、倍音		
 overture	11	【名】提案、序曲、序章 【動】申し出る		
 overturn	7	【動】転覆する、ひっくりかえす、打倒する		
-overview	7	【名】概観		
-ownership	6	【名】所有権、所有		
 oxide	12	【名】酸化物		
 pacifist	10	【名】平和主義者、無抵抗主義者 【形】平和主義の		
-packaging	5	【名】包装、荷造り、箱		
-packed	9	【形】人でいっぱいの、荷造りした		
-packing	5	【名】荷造り、卸売出荷		
 pact	9	【名】契約、約束、条約		
 pad	5	【名】当てもの 、スタンプ台、メモ帳 【動】当てものをする		
 padding	10	【名】詰め物、不必要な挿入語句、水増し		
@@ -3157,52 +3138,33 @@ padlock	12	【名】南京錠
 pagan	9	【名】異教徒、多神教徒 【形】異教の、異教的な		
 pageant	10	【名】野外劇、コンテスト、仮装行列		
 pail	7	【名】バケツ		
-painfully	5	【副】苦しげに、痛々しく、苦痛なほど		
 pal	5	【名】仲間、仲良し		
 palatable	11	【形】快い、口に合う		
 pall	12	【名】覆って暗くするもの、棺に掛ける布		
 palpable	11	【形】明白な、容易にわかる、手で触れそうな		
 pamper	11	【動】甘やかす、十分に満足させる		
-pamphlet	5	【名】パンフレット、小冊子		
 panacea	12	【名】万能薬、あらゆる問題の解決策		
 pane	9	【名】窓枠、窓ガラス、羽目板		
 pang	9	【名】悲痛、激痛		
 panhandle	12	【動】物乞いする 【名】細長く伸びている地域		
 panorama	7	【名】全景、回転画、パノラマ		
-pansy	5	【名】パンジー		
 pant	6	【動】荒い息をする、あえぎながら言う 【名】あえぎ、息切れ		
 panther	11	【名】凶暴な男、ピューマ 【形】凶暴な		
 papal	7	【形】ローマ法王の、ローマカトリック教会の		
-paperback	5	【名】ペーパーバック		
-paperwork	6	【名】事務処理、事務書類		
 par	8	【名】標準、基準、等価、等位 【形】標準の		
 parable	8	【名】寓話、比ゆ		
-parachute	8	【名】パラシュート 【動】パラシュートで投下する、天下りさせる		
-paradigm	10	【名】パラダイム、理論的枠組、模範		
-paradox	6	【名】逆説		
-paradoxical	8	【形】逆説的な、矛盾した、奇妙な		
-parameter	10	【名】媒介変数、パラメーター		
 paranoia	11	【名】偏執症、被害妄想、パラノイア		
-paraphrase	8	【名】言い換え 【動】言い換える		
 parasite	9	【名】寄生生物、寄生虫、ヤドリギ		
-parasol	7	【名】日傘		
 parched	10	【形】乾いた、干からびた		
 parental	8	【形】親の（ような）、親にふさわしい、母体となっている		
-parenthesis	10	【名】かっこ、合間、挿入語句		
 parish	9	【名】小教区、教会区、行政区		
 parity	11	【名】同額、同等、一致、平価		
 parliamentary	6	【形】議会の、議会制の		
 parlor	6	【名】応接間、営業所 【形】客間用の		
 parochial	11	【形】偏狭な、教会区の		
-parody	10	【名】パロディー 【動】風刺的に模倣する		
-parsley	7	【名】パセリ		
 parson	12	【名】牧師、聖職者		
 partake	7	【動】参加する、食べる、（性質を）いくぶん帯びる		
-partially	6	【副】部分的に、不公平に		
-participant	6	【名】参加者、関係者		
-participation	6	【名】参加、加入、関与		
 participle	9	【名】分詞		
-particle	5	【名】粒子、微量		
 particularity	10	【名】気むずかしさ、独自性、個別性、詳細		
 parting	8	【名】出発、いとまごい、告別 【形】別れの		
 partisan	10	【名】同志、味方、遊撃兵 【形】党派心の強い		
@@ -3213,19 +3175,14 @@ passerby	8	【名】通行人
 pastel	10	【名】柔らかな淡い色彩、パステル（画）		
 pastor	7	【名】牧師、羊飼い		
 pastoral	8	【形】羊飼いの、田園の、のどかな、牧師の 【名】牧歌		
-pastry	6	【名】ペストリー（小麦粉を練った菓子）		
 pasture	5	【名】牧草地、牧草 【動】放牧する		
 paternal	10	【形】父親らしい、父（方）の		
-pathetic	7	【形】痛ましい、哀れな、感動的な		
 pathological	12	【形】病的な、病理学の		
 pathology	11	【名】病理学、病変		
 pathway	7	【名】進路、小道、歩道		
 patiently	5	【副】根気よく		
 patriarch	11	【名】家父長、族長、総大司教		
 patrician	11	【形】高い身分の 【名】貴族		
-patriot	7	【名】愛国者		
-patriotic	7	【形】愛国的な		
-patriotism	9	【名】愛国心		
 patron	5	【名】後援者、パトロン		
 patronage	11	【名】芸術や事業への後援、顧客のひいき		
 patronize	11	【動】恩着せがましくする、ひいきにする、後援する		
@@ -3233,19 +3190,12 @@ patter	12	【名】パタパタいう音、早口 【動】パラパラと音を
 pavilion	8	【名】仮設建築物、テント		
 paw	6	【名】動物の足 【動】足でたたく		
 pawn	10	【動】質に入れる 【名】チェスのポーン、人にあやつられるもの		
-payable	7	【形】支払い可能な、支払い満期の		
-paycheck	7	【名】給料支払小切手		
 payoff	10	【名】献金、わいろ、支払い、報い		
-payroll	11	【名】給与支払名簿、従業員総数、支払給与総額		
 peacock	6	【名】クジャク 【動】見えを張る		
 peal	12	【名】鐘の響き、大きな響き 【動】鳴り響かせる		
 peat	9	【名】泥炭 【形】泥炭の		
 pebble	7	【名】丸い小石 【動】石目をつける		
-peck	6	【動】つつく、つついてあける 【名】つつくこと		
-peculiarity	9	【名】異常な態度、奇妙さ		
-peculiarly	6	【副】特に、奇妙に		
 pedagogy	12	【名】教育学		
-pedal	6	【名】ペダル 【動】ペダルを踏む		
 pedantic	12	【形】物知り顔の、学者ぶった		
 peddle	11	【動】広めようとする、売り歩く		
 peddler	12	【名】行商人、麻薬の売人		
@@ -3254,7 +3204,6 @@ pedestrian	7	【名】歩行者、徒歩旅行者 【形】徒歩の
 pedigree	11	【名】血統、家系、起源 【形】純血種の		
 peek	9	【動】そっとのぞく、盗み見する 【名】のぞき見		
 peep	9	【動】のぞく 【名】盗み見		
-peer	5	【名】仲間、同僚		
 peevish	12	【形】不機嫌な、怒りっぽい		
 peg	7	【名】くぎ、くい 【動】くぎを打つ		
 pellet	12	【名】小粒、錠剤		
@@ -3262,13 +3211,7 @@ pelt	12	【動】投げつける、強く打つ、質問や非難を浴びせる
 pelvis	12	【名】骨盤		
 penal	10	【形】刑罰の、処罰されるべき、刑場として用いられる		
 penance	12	【名】贖罪、苦痛 【動】罰する		
-pendant	10	【名】ペンダント		
-pending	8	【前】待つ間、～の間 【形】未決定の		
-pendulum	10	【名】振り子、趨勢（すうせい）、意見の定まらない人		
-penetrate	6	【動】突き通る、しみとおる		
 peninsula	7	【名】半島		
-penis	10	【名】ペニス、陰茎		
-penniless	6	【形】文無しの		
 pension	6	【名】年金、恩給 【動】年金を給付する		
 pensioner	9	【名】年金受給者		
 pensive	12	【形】物思いに沈んだ、哀愁を漂わせている		
@@ -3278,15 +3221,10 @@ peppery	12	【形】短気な、辛らつな、コショウの利いた
 perch	6	【動】（木に）止まる、止まらせる 【名】止まり木、休む場所		
 perennial	11	【形】永続する、絶え間のない		
 perfection	6	【名】完全、完成		
-performer	5	【名】演奏者、歌手、役者、出演者		
-performing	10	【形】芸をするように仕込まれた		
-perfume	5	【名】香水、香料		
 perfunctory	12	【形】おざなりの、熱意のない、通り一遍の		
 peril	6	【名】危険、危機 【動】危険にさらす		
 perilous	8	【形】危険な、冒険的な		
-periodic	9	【形】定期的な、ときどきの		
 periodical	8	【名】定期刊行物、雑誌 【形】定期刊行の		
-peripheral	10	【形】周囲の、末梢的な、重要でない		
 periphery	12	【名】周辺、表面		
 periscope	12	【名】潜望鏡		
 perish	5	【動】災害などで死ぬ、消える		
@@ -3305,12 +3243,8 @@ persecute	8	【動】迫害する、うるさく悩ます、しつこくせが�
 persecution	8	【名】迫害、虐待、うるさく悩ますこと		
 perseverance	8	【名】忍耐、粘り強さ		
 persevere	9	【動】目的を貫く、支える、励ます		
-persona	9	【名】仮面、表向きの人格、登場人物		
 personalize	6	【動】個人のものにする、特定の人向けにする、擬人化する		
-personnel	6	【名】人事課、全職員 【形】職員の		
 perspiration	10	【名】汗、努力		
-persuasion	7	【名】説得、納得、確信		
-persuasive	7	【形】説得力のある、説得できる 【名】誘因		
 pert	12	【形】小生意気な、でしゃばりな、いきな		
 pertain	10	【動】付属する、関係する、ふさわしい		
 pertinent	10	【形】適切な 【名】付属物		
@@ -3319,24 +3253,16 @@ pervade	9	【動】全体に普及する、充満する
 pervasive	10	【形】行き渡る、普及する		
 perverse	9	【形】つむじ曲がりの、邪悪な		
 pervert	10	【動】（正しい道を）逸れる、曲解する 【名】変質者、背教者		
-pessimism	7	【名】悲観主義、悲観		
-pessimist	7	【名】悲観主義者、厭世主義者		
-pessimistic	5	【形】悲観的な、厭世的な		
 pest	8	【名】有害な動物、やっかいもの、疫病		
 pester	9	【動】苦しめる		
 pesticide	9	【名】殺虫剤		
 petal	11	【名】花びら		
-petrol	5	【名】ガソリン		
 petroleum	9	【名】石油		
 petulant	12	【形】短気な、こらえ性のない		
 pew	11	【名】聖堂信者席 【動】ベンチ席を設ける		
 pharmaceutical	9	【形】薬剤の、薬学の 【名】製薬		
-pharmacist	7	【名】薬剤師、薬局		
-pharmacy	8	【名】薬局、薬学、調剤術		
-phase	5	【名】段階、局面 【動】段階的に行う		
 pheasant	12	【名】キジ		
 phenomenal	9	【形】並でない、驚くべき		
-phenomenon	5	【名】現象		
 philanthropy	11	【名】慈善活動、博愛		
 philosopher	5	【名】哲学者、悟りを開いた人		
 philosophical	8	【形】哲学の、哲学を研究する、理性的な、冷静な		
@@ -3346,10 +3272,7 @@ phony	10	【形】偽の、ほら吹きの
 phosphorus	12	【名】リン		
 photocopy	9	【名】写真複写 【動】複写する		
 photographic	6	【形】写真の、非常に写実的な		
-physically	5	【副】身体上、自然の法則によって、物理的に		
-physicist	6	【名】物理学者		
 pickpocket	8	【名】すり		
-picturesque	7	【形】絵のような		
 piecemeal	12	【形】断片的な 【副】少しずつ		
 pier	8	【名】埠頭、桟橋、橋脚		
 pierce	5	【動】突き通す、突き進む、ピアス用の穴を開ける		
@@ -3365,9 +3288,7 @@ pillar	6	【名】柱、支え 【動】柱をつける
 pimp	11	【名】売春あっせん業者、売春婦のヒモ		
 pinch	5	【動】締めつける、挟む 【名】つまむこと		
 pine	4	【名】マツ 【動】思いこがれる		
-pint	6	【名】パイント（液量の単位）		
 pious	7	【形】信心深い、偽善的な		
-pipeline	7	【名】輸送管路、パイプライン		
 pique	12	【動】憤慨させる、あおる		
 piracy	11	【名】著作権侵害		
 pirate	8	【名】海賊、略奪者 【動】海賊行為をする		
@@ -3379,12 +3300,9 @@ pivot	11	【名】中心、軸 【動】旋回心軸で回転する
 pivotal	11	【形】極めて重要な、回転の軸となる、中枢の		
 placard	9	【名】はり紙、掲示、名札 【動】はり紙をする		
 placebo	11	【名】偽薬、気休め		
-placement	8	【名】置くこと、配置、職業紹介		
 plagiarism	11	【名】盗作		
-plainly	5	【副】はっきりと、明白に、率直に		
 plaintiff	8	【名】原告		
 plaintive	12	【形】悲しげな、哀れな		
-planetarium	6	【名】プラネタリウム		
 planetary	7	【形】惑星の		
 plank	8	【名】厚板、支持物 【動】厚板を張る、板の上で料理して出す		
 plantation	6	【名】農園		
@@ -3392,15 +3310,12 @@ planter	8	【名】植えつける人、栽培者、農園主、プランター�
 plaque	9	【名】飾り額、バッジ、歯垢		
 plaster	7	【名】しっくい、石こう 【動】しっくいを塗る		
 plateau	9	【名】高原、安定期 【動】停滞期に入る		
-platinum	8	【名】プラチナ、白金 【形】プラチナ色の、プラチナ製の		
 platonic	9	【形】観念的な、プラトニックな		
 platoon	11	【名】小隊、集団		
 plausible	10	【形】もっともらしく思われる、もっともな		
 playful	7	【形】遊び戯れる、はしゃぐ、陽気な、こっけいな		
-playmate	8	【名】遊び友達		
 plaything	10	【名】オモチャ		
 playwright	9	【名】劇作家		
-plaza	7	【名】広場、サービスエリア、ショッピングセンター		
 pleasantly	8	【副】愉快に、楽しく、愛想よく		
 pleasurable	10	【形】楽しい、快い、満足を与える		
 plebiscite	12	【名】国民投票、一般投票		
@@ -3411,10 +3326,8 @@ plight	10	【名】ありさま、苦境
 plod	12	【動】こつこつ進める、重い足どりで歩く		
 plow	5	【動】すきで耕す 【名】すき		
 pluck	7	【動】引き抜く、引っ張る		
-plug	6	【名】プラグ、栓 【動】ふさぐ、込める、（器具などを）接続する		
 plumage	12	【名】羽毛、はでな服		
 plumb	12	【動】垂直にする、垂直かどうか調べる 【形】垂直な 【名】おもり		
-plumber	7	【名】配管工		
 plumbing	10	【名】鉛管敷設、配管工事、配管系統（設備）、水深測量		
 plume	9	【名】羽毛、大羽 【動】羽毛をつける、羽毛を整える		
 plummet	9	【動】まっすぐに落ちる、急落する 【名】おもり、急落		
@@ -3441,7 +3354,6 @@ politic	10	【形】賢明な
 poll	5	【名】世論調査、投票 【動】選挙人名簿に登録する		
 pollen	8	【名】花粉		
 pollutant	9	【名】汚染物質		
-polyglot	12	【形】多言語の 【名】多言語に通じた人		
 polytechnic	10	【名】技術専門学校 【形】工芸教育の		
 pomp	12	【名】仰々しさ、壮観、華やかさ		
 pompous	12	【形】思いあがった、尊大な、大げさな		
@@ -3449,7 +3361,6 @@ ponder	9	【動】じっくり考える
 ponderous	12	【形】大きくて重い、どっしりした、退屈な		
 pope	5	【名】ローマ法王（しばしばP_）		
 poppy	12	【名】ケシ、アヘン		
-popularly	6	【副】大衆に、一般に、広く		
 populate	8	【動】住む、住みつく、～の住民である、人を居住させる		
 populous	9	【形】人口の多い、数が多い		
 porcelain	10	【名】磁器		
@@ -3458,24 +3369,20 @@ pore	11	【名】毛穴 【動】熟考する、熟読する
 pornography	8	【名】ポルノ、わいせつ文書		
 porous	12	【形】浸透性の、小穴の多い		
 porridge	9	【名】ポリッジ、かゆ		
-portal	5	【名】宮殿の表玄関、橋やトンネルの入口、ポータルサイト		
 porter	7	【名】運搬人、ポーター		
 pose	3	【動】ふりをする、ポーズをとらせる 【名】姿勢		
 posh	11	【形】こぎれいな、しゃれた 【動】おめかしする		
-positively	6	【副】肯定的に、確信して、はっきりと		
 possessed	10	【形】とりつかれた、所有して、落ち着いた		
 postage	6	【名】送料		
 posterity	9	【名】後世、子孫		
 postgraduate	8	【形】大学卒業後の、大学院の 【名】大学院生、研究生		
 posthumous	12	【形】死後の、著者の死後に出版された		
 posture	8	【名】姿勢、気どった態度、考え方、心構え 【動】ある姿勢をとる		
-postwar	8	【形】戦後の		
 potassium	12	【名】カリウム		
 potentiality	8	【名】潜在状態、潜在的なもの、潜在力、可能性		
 potentially	8	【副】潜在的に、もしかすると		
 potluck	12	【名】あり合わせの食物 【形】みんながごちそうを持ち寄る		
 potter	10	【名】陶器職人		
-pottery	7	【名】陶器、陶芸		
 pouch	7	【名】小物袋、ポーチ、袋		
 poultry	9	【名】家禽（かきん）、飼っている鳥類		
 pounce	12	【動】突然飛びかかる、激しく非難する、わしづかみにする		
@@ -3483,7 +3390,6 @@ pout	12	【動】ふくれっ面をする、唇を突き出す 【名】ふく�
 powdery	10	【形】粉だらけの、粉末からなる、粉になりやすい		
 practicable	10	【形】実施できる、実用的な、実物の		
 practitioner	8	【名】実践している人、開業者（特に開業医、弁護士）		
-pragmatic	8	【形】実利的な、実用主義の、国事の		
 prairie	8	【名】草原地帯		
 prank	9	【名】いたずら 【動】いたずらをする		
 prawn	10	【名】クルマエビ 【動】エビを捕らえる		
@@ -3509,11 +3415,9 @@ prediction	6	【名】予言、予報
 predictive	10	【形】予言の、前兆となる		
 predominant	9	【形】支配的な、おもな		
 predominantly	10	【副】大部分は		
-preface	7	【名】序文、きっかけ 【動】序文をつける、始める		
 prehistoric	8	【形】先史時代の、有史以前の、まったく時代遅れの		
 prelude	11	【名】前奏曲、前ぶれ、準備行為		
 premature	9	【形】早すぎる 【名】早産児		
-premier	7	【形】第1位の、最初の 【名】総理大臣、首相		
 premiere	10	【名】初日、主演女優 【動】初公開される 【形】主要な		
 premise	6	【名】前提、土地、根拠 【動】前提とする		
 premium	8	【名】保険料、賞品、ハイオクガソリン 【形】上等な、割増の		
@@ -3540,9 +3444,7 @@ prevail	5	【動】広がっている、圧倒する
 prevailing	7	【形】行き渡った、一般の、優勢な、特有の		
 prevalent	7	【形】広く行き渡った、流行した、優勢な		
 preventive	8	【形】予防の、防止に役立つ、妨害の 【名】予防薬、予防手段		
-preview	9	【名】下見、試写、予告編		
 prey	6	【名】えじき、犠牲、被害者 【動】捕食する、えじきにする		
-priceless	6	【形】非常に貴重な、とても高価な		
 prick	6	【名】刺すこと、とがめ 【動】刺す		
 prickly	8	【形】ちくちくする、やっかいな		
 priest	2	【名】聖職者		
@@ -3552,16 +3454,11 @@ primordial	12	【形】根源の、最初の、原始の 【名】基本原理
 principal	3	【形】おもな、元金の 【名】長、校長		
 principally	9	【副】おもに、主として		
 privatize	8	【動】民営化する		
-privilege	4	【名】特権、名誉		
-privileged	9	【形】特権をもつ		
 privy	12	【形】内情に通じた、私的な		
 pro	8	【前】賛成して 【名】支持者、｟professionalの短縮形｠プロ		
-probability	6	【名】見込み、確率		
 probation	11	【名】試用期間、審査、保護観察期間		
 procrastinate	12	【動】ぐずぐずと引き延ばす		
 procrastination	12	【名】優柔不断		
-procure	10	【動】入手する、もたらす、調達する		
-procurement	11	【名】調達、入手		
 prodigal	12	【形】金遣いの荒い、物惜しみしない 【名】浪費家		
 prodigious	11	【形】驚くべき、莫大な		
 prodigy	11	【名】神童、奇才、並はずれたもの		
@@ -3571,21 +3468,17 @@ proffer	11	【動】提供する、申し出る 【名】申し出
 profoundly	8	【副】深く、切に、心から、おおいに		
 projectile	12	【名】発射体 【形】発射される、推進する		
 projection	7	【名】突出、発射、投影、噴出、見積り		
-projector	10	【名】投影機、プロジェクター、計画者		
 prolific	11	【形】多作の、多産の、～に富んでいる		
 prologue	8	【名】（詩の）序の部分、序言		
 prolong	4	【動】延長する、長引かせる		
 promenade	10	【名】散歩（道） 【動】散歩する、連れて歩く		
 promiscuous	12	【形】見境なく性的関係をもつ、ごたまぜの		
 promontory	12	【名】岬、高台		
-promoter	6	【名】促進者、主催者		
 prop	7	【名】支え、支持者 【動】支える、もたせかける		
 propaganda	7	【名】宣伝、宣伝された主義		
 propel	8	【動】進ませる、精進させる、かりたてる		
-propeller	9	【名】プロペラ、推進器		
 prophecy	8	【名】予言、お告げ		
 prophet	7	【名】予言者、イスラム教の教祖、代弁者		
-proportion	4	【名】割合、比例、正しい関係 【動】釣り合わせる		
 proportional	8	【形】比例する、釣り合う、比例にもとづく 【名】比例数		
 proportionate	10	【形】比例した、釣り合った 【動】比例させる		
 proposition	6	【名】提案、提議 【動】計画を提案する		
@@ -3594,12 +3487,9 @@ proprietor	11	【名】経営者、企業やホテルの所有者、植民地領
 propriety	10	【名】上品、端正、妥当性、正統性		
 prosaic	12	【形】平凡な、散文体の		
 proscribe	12	【動】排斥する、禁止する、法律の保護を奪う		
-prose	7	【名】散文 【形】散文の		
 prosecute	8	【動】起訴する、請求する、推し進める、営む		
 prosecution	8	【名】訴訟、実行、遂行、検察側		
 prosecutor	8	【名】検察官、検事		
-prospect	4	【名】見込み、予想		
-prospective	7	【形】見込みのある、未来の、期待される		
 prospectus	12	【名】学校案内、事業内容説明書、目論見書		
 prosper	5	【動】成功する、栄える		
 prostitute	8	【名】売春婦 【動】才能・能力を金のために使う、売春する		
@@ -3610,12 +3500,9 @@ protectionism	10	【名】保護貿易政策、保護主義
 protective	5	【形】保護する、保護用の		
 protector	6	【名】保護者、後援者、プロテクター、保護するもの		
 protein	5	【名】タンパク質 【形】タンパク性の		
-protocol	9	【名】外交儀礼、条約議定書、（コンピュータの）通信接続手順		
 protrude	12	【動】突き出る、突き出す		
 proudly	4	【副】堂々と、得意に、いばって		
 providence	9	【名】神意、摂理		
-providing	6	【接】もし～ならば		
-province	4	【名】州、省、地方		
 provincial	5	【形】州の、地方の、いなかくさい、偏狭な 【名】地方の人		
 provision	5	【名】供給、支給、蓄え、条項、食糧		
 proviso	12	【名】条件、ただし書き		
