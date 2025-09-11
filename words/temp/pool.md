@@ -4688,16 +4688,12 @@ topple	10	【動】つんのめる、倒す、（政府などを）転覆する�
 torpedo	11	【名】魚雷 【動】魚雷で攻撃する、粉砕する		
 torrent	9	【名】急流、激発、連発		
 tort	11	【名】不法行為		
-tortoise	6	【名】カメ、非常にのろい人		
 totter	12	【動】揺れる、よろよろ歩く		
 tout	11	【動】褒めちぎる、大げさに宣伝する、押し売りする		
 tow	8	【動】中へ引く 【名】引くこと、引き船、けん引車		
 township	11	【名】郡区、county の下位行政区分、南アフリカの黒人居住区		
 townspeople	9	【名】町の住民、都会人		
-toxic	8	【形】中毒性の、有毒の		
 tract	10	【名】大きな広がり、地域、管		
-trademark	8	【名】商標、トレードマーク、商標権		
-tradesman	7	【名】職人、小売り商人		
 tragedy	5	【名】悲劇		
 tragic	5	【形】悲劇の、悲惨な、痛ましい		
 trailer	8	【名】ハウストレーラー、移動住宅、映画の予告編		
@@ -4708,15 +4704,12 @@ tram	5	【名】市街電車、線路、トロッコ 【動】電車で運ぶ
 tramp	7	【名】放浪者 【動】強く踏みつける、放浪する 【形】決まった宿のない		
 trample	7	【動】強く踏みつける、手荒く扱う 【名】踏みつけること		
 trance	10	【名】夢うつつ、人事不省 【動】失神させる		
-transact	10	【動】行う、処理する、運ぶ		
-transaction	6	【名】取引、処理、取り扱い		
 transcend	10	【動】超える、しのぐ		
 transcontinental	10	【形】大陸横断の		
 transcribe	9	【動】文字に起こす、書き換える		
 transcript	8	【名】筆記録、写し、成績証明書		
 transfusion	9	【名】輸血（blood transfusion）、注入		
 transient	10	【形】一時的な、短期滞在の		
-transistor	10	【名】トランジスタ		
 transit	9	【名】通過、運送、移り変わり 【動】通過する		
 transitory	12	【形】はかない、一時的な		
 translucent	11	【形】半透明の、明快な		
