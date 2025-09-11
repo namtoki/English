@@ -619,7 +619,6 @@ ceremonious	10	【形】おごそかな、儀式ばった、儀礼を尽くし�
 certainty	6	【名】確実性、必然性		
 cessation	12	【名】中止、休止		
 chaff	12	【名】もみ殻、切りわら 【動】からかう		
-challenged	10	【形】身体に障害のある		
 chamber	5	【名】部屋、（家の）室、（立法・司法機関の）会議場 【動】部屋に閉じ込める 【形】室内楽の		
 chancellor	7	【名】首相、（英）大蔵大臣（C_)		
 chant	9	【動】歌う 【名】歌、唱歌		
@@ -764,7 +763,6 @@ colt	11	【名】雄の子馬、初心者
 coma	10	【名】昏睡		
 comatose	11	【形】昏睡状態の、ひどく眠い		
 combat	5	【名】戦闘 【動】戦う、強く反抗する		
-combustion	12	【名】燃焼、動揺		
 comeback	6	【名】返り咲き、回復		
 commandment	11	【名】戒律、命令		
 commemorate	9	【動】記念する、祝う、哀悼する		
@@ -838,7 +836,6 @@ confetti	12	【名】紙ふぶき、キャンディー、ボンボン
 configuration	10	【名】形、星位、（コンピューター）機器の構成		
 confinement	8	【名】幽閉、監禁、出産		
 confiscate	11	【動】没収する、差し押さえる 【形】没収した		
-conflagration	11	【名】大火、戦争や災害の突発		
 confluence	12	【名】河川の合流、合流点、集合		
 confound	9	【動】まごつかせる、困惑させる		
 confrontation	7	【名】対決、直面		
@@ -1781,7 +1778,6 @@ flail	12	【動】連打する、殻ざおで打つ、激しく揺れる 【名�
 flair	9	【名】才能、コツ、勘		
 flake	7	【名】破片、ひとひら 【動】はがれ落ちる		
 flamboyant	11	【形】きらびやかな、けばけばしい、大げさな		
-flare	10	【動】ゆらゆらと燃える 【名】照明装置		
 flashing	9	【名】閃光、雨押さえ、水切り、放水		
 flaunt	11	【動】見せびらかす、わがもの顔にふるまう		
 flea	9	【名】ノミ、くだらないやつ		
@@ -2348,7 +2344,6 @@ infamous	10	【形】悪名の高い、恥ずべき
 infantry	10	【名】歩兵（隊）		
 infatuation	12	【名】夢中になっている状態、夢中にさせるもの		
 inferiority	8	【名】劣っていること、粗悪、下級		
-inferno	11	【名】烈火、地獄		
 infest	11	【動】群がる、出没する		
 infirmity	12	【名】病気、無気力、欠陥		
 inflame	11	【動】刺激する、燃え上がらせる、火がつく		

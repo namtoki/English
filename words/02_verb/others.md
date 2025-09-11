@@ -705,3 +705,205 @@
 - `disperse` /dɪˈspɜːrs/            ([Neutral] 分散する、散布する)  The seeds dispersed in the wind.
   - `dispersal` /dɪˈspɜːrsəl/       ([Formal] 分散、散布)           The dispersal pattern was studied.
   - `dispersion` /dɪˈspɜːrʒən/      ([Writing] 分散、散乱)          Light dispersion creates rainbows.
+
+## VENT
+> `vent` /vent/                     ([Neutral] 感情を発散する)      She vented her frustration to a friend.
+  - `venting` /ˈventɪŋ/             ([Neutral] 発散、愚痴)          He was venting about his boss.
+  - `vented` /ˈventɪd/              ([Neutral] 発散した)            She vented her anger at the meeting.
+- `release` /rɪˈliːs/               ([Neutral] 解放する、発散する)  Exercise helps release stress.
+- `unleash` /ʌnˈliːʃ/               ([Neutral] 解き放つ 爆発させる) He unleashed his anger.
+  - `unleashing` /ʌnˈliːʃɪŋ/        ([Neutral] 解き放つこと)        The unleashing of emotions was cathartic.
+  - `unleashed` /ʌnˈliːʃt/          ([Neutral] 解き放たれた)        Her creativity was finally unleashed.
+- `pour out` /pɔːr aʊt/             ([Casual] 吐き出す、打ち明ける) She poured out her troubles to me.
+- `unload` /ʌnˈloʊd/                ([Casual] 感情を吐き出す)       He unloaded all his problems on me.
+- `discharge` /dɪsˈtʃɑːrdʒ/         ([Formal] 放出する、発散する)   She discharged her emotions through art.
+- `unburden` /ʌnˈbɜːrdən/           ([Formal] 重荷を下ろ 打ち明け)  She unburdened herself to her friend.
+  - `unburdening` /ʌnˈbɜːrdənɪŋ/    ([Formal] 重荷を下ろすこと)     The unburdening brought relief.
+  - `unburdened` /ʌnˈbɜːrdənd/      ([Formal] 重荷から解放された)   He felt unburdened after confessing.
+- `confide` /kənˈfaɪd/              ([Neutral] 打ち明ける 信頼する) She confided her fears to him.
+  - `confidant` /ˈkɑːnfɪdænt/       ([Neutral] 親友、相談相手)      She's my closest confidant.
+
+## RELY ON
+> `rely on` /rɪˈlaɪ ɑːn/            ([Neutral] 頼る、依存する)      We rely on public transport.
+> `depend on` /dɪˈpend ɑːn/         ([Neutral] 頼る、次第である)    Success depends on hard work.
+> `count on` /kaʊnt ɑːn/            ([Neutral] 頼る、当てにする)    I'm counting on you to help me.
+- `trust` /trʌst/                   ([Neutral] 信頼する)            You can trust me not to tell anyone.
+> `turn to` /tɜːrn tuː/             ([Neutral] 頼る、助けを求める)  She turned to her family for support.
+- `look to` /lʊk tuː/               ([Neutral] 頼る、期待する)      We look to you for guidance.
+> `bank on` /bæŋk ɑːn/              ([Neutral] 当てにする)          I'm banking on your help.
+- `lean on` /liːn ɑːn/              ([Neutral] 頼る、支えにする)    She had her friends to lean on.
+- `have confidence in`              ([Neutral] 信頼する)            I have confidence in her abilities.
+- `fall back on` /fɔːl bæk ɑːn/     ([Neutral] 頼る、最終手段)      I have savings to fall back on.
+- `resort to` /rɪˈzɔːrt tuː/        ([Neutral] 頼る、手段に訴える)  They resorted to borrowing money.
+- `rest on` /rest ɑːn/              ([Formal] 基づく、頼る)         Our hopes rest on this decision.
+- `pin hopes on` /pɪn hoʊps ɑːn/    ([Neutral] 期待をかける)        They pinned their hopes on winning.
+- `hinge on` /hɪndʒ ɑːn/            ([Neutral] 次第である、頼る)    Everything hinges on the outcome.
+- `bet on` /bet ɑːn/                ([Casual] 当てにする、賭ける)   I wouldn't bet on him showing up.
+- `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
+- `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
+- `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.
+
+## FIT
+- `be for` /bi fɔːr/                ([Casual] 合う)                 That job wasn't for me.
+
+## FAMILIAR
+- `get the hang of` /ɡet ðə hæŋ əv/ ([Casual] コツをつかむ)         I'm getting the hang of it now.
+
+
+## 褒める
+- `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
+- `praise` /preɪz/                   ([Neutral] 称賛する、褒める)   She praised him for his hard work.
+  - `praiseworthy` /ˈpreɪzˌwɜːði/   ([Writing] 称賛に値する)       His praiseworthy efforts saved the company.
+- `commend` /kəˈmend/                ([Formal] 称賛する、推薦する)  The teacher commended her excellent performance.
+  - `commendable` /kəˈmendəbəl/     ([Writing] 称賛すべき)         Your commendable dedication is inspiring.
+  - `commendation` /ˌkɑːmənˈdeɪʃən/ ([Formal] 表彰、称賛)          He received a commendation for bravery.
+- `laud` /lɔːd/                      ([Writing] 賞賛する、称える)   Critics lauded the novel's innovative style.
+  - `laudable` /ˈlɔːdəbəl/          ([Writing] 称賛すべき)         Her laudable commitment impressed everyone.
+- `acclaim` /əˈkleɪm/                ([Writing] 絶賛する、称賛)     The film received widespread critical acclaim.
+- `extol` /ɪkˈstoʊl/                 ([Writing] 賞賛する、讃える)   Critics extol the director's latest film.
+  - `extolment` /ɪkˈstoʊlmənt/      ([Writing] 賞賛、讃美)         His extolment of the team was well-deserved.
+- `applaud` /əˈplɔːd/                ([Neutral] 拍手する、賞賛)     The audience applauded enthusiastically.
+- `honor` /ˈɑːnər/                   ([Neutral] 名誉、光栄)         It's an honor to meet you.
+  - `honorable` /ˈɑːnərəbəl/        ([Formal] 尊敬に値する)       He showed honorable conduct throughout.
+  - `honorary` /ˈɑːnəreri/          ([Formal] 名誉の、肩書き)     She received an honorary degree.
+- `tribute` /ˈtrɪbjuːt/              ([Formal] 賛辞、感謝の印)     The concert was a tribute to his legacy.
+- `admiration` /ˌædməˈreɪʃən/        ([Neutral] 賞賛、感嘆)       His courage filled me with admiration.
+  - `admire` /ədˈmaɪər/              ([Neutral] 賞賛する、感嘆)   I admire your dedication to the cause.
+  - `admirable` /ˈædmərəbəl/         ([Neutral] 賞賛すべき)       Her admirable patience impressed everyone.
+  - `admirer` /ədˈmaɪərər/            ([Neutral] 崇拝者、ファン)   She has many admirers of her work.
+- `laurel` /ˈlɔːrəl/                 ([Writing] 月桂樹、栄誉)     He rested on his laurels after the victory.
+- `compliment` /ˈkɑːmpləmənt/        ([Neutral] 賛辞、おせじ)     She gave him a sincere compliment.
+  - `complimentary` /ˌkɑːmpləˈmentəri/ ([Formal] 賞賛の、無料の)  The review was complimentary about her performance.
+- `citation` /saɪˈteɪʃən/            ([Formal] 表彰、引用)        The officer received a citation for bravery.
+
+## 尊敬する
+- `respect` /rɪˈspekt/               ([Neutral] 尊敬、尊重)        I have great respect for her work.
+  - `respectable` /rɪˈspektəbəl/    ([Neutral] りっぱな、まとも)  He comes from a respectable family.
+  - `respectful` /rɪˈspektfəl/      ([Neutral] 礼儀正しい)        The students were respectful to their teacher.
+  - `respectfully` /rɪˈspektfəli/   ([Formal] 恭しく、ていねい)   I respectfully disagree with your opinion.
+  - `respectability` /rɪˌspektəˈbɪləti/ ([Writing] 世間体、社会的地位) His respectability in the community was unquestioned.
+- `esteem` /ɪˈstiːm/                 ([Formal] 重んじる、尊敬)     She is held in high esteem by colleagues.
+- `reverence` /ˈrevərəns/            ([Writing] 敬意、畏敬の念)    They showed reverence for the ancient temple.
+  - `revere` /rɪˈvɪr/                ([Writing] あがめる)           Many people revere his memory.
+- `homage` /ˈhɑːmɪdʒ/                ([Writing] 敬意、主従関係)    The film pays homage to classic cinema.
+- `salute` /səˈluːt/                 ([Neutral] 敬礼、敬意表す)    The soldiers saluted their commanding officer.
+
+### 非難/批判する
+- ✅ `blame` /bleɪm/                ([Neutral] せいにする、責める)  Don't blame me for your mistakes.
+    - `blameless` /ˈbleɪmləs/       ([Neutral] 責められるべきでない)She was blameless in the incident.
+    - `blameworthy` /ˈbleɪmwɜːrði/  ([Formal] 責められるべき)       His actions were clearly blameworthy.
+  - `criticize` /ˈkrɪtɪsaɪz/        ([Neutral] 非難する、批判)      She criticized his poor performance.
+    - `criticism` /ˈkrɪtɪsɪzəm/     ([Neutral] 批判、非難)          The criticism was harsh but fair.
+    - `critical` /ˈkrɪtɪkəl/        ([Neutral] 批判的な、重要な)    He was critical of the new policy.
+    - `critic` /ˈkrɪtɪk/            ([Neutral] 批評家、批判者)      The film critic gave it a bad review.
+    - `critique` /krɪˈtiːk/         ([Formal] 評論、批評)           The art critique was thoughtful and detailed.
+  - `accuse` /əˈkjuːz/              ([Neutral] 非難する、告発する)  She accused him of lying.
+    - `accusation` /ˌækjuˈzeɪʃən/   ([Neutral] 告発、非難)          The accusation was unfounded.
+    - `accuser` /əˈkjuːzər/         ([Neutral] 告発者)              The accuser testified in court.
+    - `accusatory` /əˈkjuːzətɔːri/  ([Formal] 非難するような)       His accusatory tone upset her.
+  - `scold` /skoʊld/                ([Neutral] しかる、叱責する)    The mother scolded her naughty child.
+    - `scolding` /ˈskoʊldɪŋ/        ([Neutral] 叱責、お小言)        He received a severe scolding.
+  - `condemn` /kənˈdem/             ([Formal] 非難する、刑宣告)     The court condemned his actions.
+    - `condemnation` /ˌkɑːndemˈneɪʃən/ ([Formal] 激しい非難)        The condemnation was unanimous.
+  - `blast` /blæst/                 ([Casual] 激しく非難する)       The media blasted the politician.
+  - `slam` /slæm/                   ([Casual] こき下ろす、酷評する) Critics slammed the new movie.
+  - `denounce` /dɪˈnaʊns/           ([Formal] 公然と非難する)       The activist denounced the government's policy.
+    - `denunciation` /dɪˌnʌnsiˈeɪʃən/ ([Formal] 糾弾、告発)         His denunciation was passionate.
+  - `reprimand` /ˈreprɪmænd/        ([Formal] 叱責する)             The boss reprimanded him for being late.
+  - `reproach` /rɪˈproʊtʃ/          ([Formal] 非難する、恥辱)       She reproached him for his selfishness.
+    - `reproachful` /rɪˈproʊtʃfəl/  ([Formal] 非難がましい)         He gave her a reproachful look.
+    - `irreproachable` /ˌɪrɪˈproʊtʃəbəl/ ([Formal] 非の打ち所のない) Her conduct was irreproachable.
+  - `rebuke` /rɪˈbjuːk/             ([Formal] 叱責する、非難する)   The teacher rebuked the student for cheating.
+  - `censure` /ˈsenʃər/             ([Formal] 激しく非難する)       The senator was censured for misconduct.
+  - `chastise` /ˈtʃæstaɪz/          ([Formal] 厳しく非難する)       The coach chastised the team for poor performance.
+    - `chastisement` /ˈtʃæstaɪzmənt/ ([Formal] 懲戒、叱責)          The chastisement was swift and severe.
+  - `lash` /læʃ/                    ([Neutral] 激しく非難する)      The senator lashed out at his critics.
+    - `lashing` /ˈlæʃɪŋ/            ([Neutral] 激しい非難)          He received a verbal lashing.
+  - `berate` /bɪˈreɪt/              ([Formal] 激しく叱る)           She berated him for his carelessness.
+  - `upbraid` /ʌpˈbreɪd/            ([Writing] 叱責する、非難する)  He upbraided them for their negligence.
+  - `castigate` /ˈkæstɪɡeɪt/        ([Writing] 厳しく批判する)      The editorial castigated the government.
+    - `castigation` /ˌkæstɪˈɡeɪʃən/ ([Writing] 厳しい批判)          The castigation was deserved.
+  - `lambaste` /læmˈbeɪst/          ([Casual] 激しく非難する)       The coach lambasted the referee's decision.
+  - `excoriate` /ɪkˈskɔːrieɪt/      ([Writing] 痛烈に批判する)      The review excoriated the author.
+    - `excoriation` /ɪkˌskɔːriˈeɪʃən/ ([Writing] 痛烈な批判)        His excoriation was brutal.
+  - `assail` /əˈseɪl/               ([Writing] 激しく非難する)      Critics assailed the new policy.
+
+### 軽視する
+- ✅ `dismiss` /dɪsˈmɪs/            ([Neutral] 軽視する、退ける)    She dismissed his concerns.
+    - `dismissive` /dɪsˈmɪsɪv/      ([Neutral] 軽視的な)            His dismissive attitude was rude.
+    - `dismissal` /dɪsˈmɪsəl/       ([Neutral] 解雇、退け)          His dismissal was unfair.
+  - `slight` /slaɪt/                ([Neutral] 軽視する、無視する)  She felt slighted by his comments.
+    - `slighting` /ˈslaɪtɪŋ/        ([Neutral] 軽視的な)            His slighting remarks were uncalled for.
+  - `underestimate` /ˌʌndərˈestɪmeɪt/ ([Neutral] 過小評価する)      Don't underestimate her abilities.
+    - `underestimation` /ˌʌndərˌestɪˈmeɪʃən/ ([Neutral] 過小評価)   The underestimation was costly.
+  - `disparage` /dɪˈspærɪdʒ/        ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
+    - `disparagement` /dɪˈspærɪdʒmənt/ ([Formal] 軽視、中傷)        The disparagement was uncalled for.
+    - `disparaging` /dɪˈspærɪdʒɪŋ/  ([Formal] けなすような)         His disparaging comments were hurtful.
+  - `belittle` /bɪˈlɪtəl/           ([Neutral] 軽んじる、見くびる)  Don't belittle her achievements.
+    - `belittling` /bɪˈlɪtəlɪŋ/     ([Neutral] 軽んじる)            His belittling comments were cruel.
+
+### 軽蔑する
+- ✅ `despise` /dɪˈspaɪz/           ([Neutral] 軽蔑する)            He despises dishonesty.
+    - `despicable` /dɪˈspɪkəbəl/    ([Neutral] 軽蔑すべき)          His behavior was despicable.
+  - `contempt` /kənˈtempt/          ([Formal] 軽蔑、侮辱)           She looked at him with contempt.
+    - `contemptuous` /kənˈtemptʃuəs/([Formal] 軽蔑的な)             His contemptuous smile angered her.
+    - `contemptible` /kənˈtemptəbəl/([Formal] 軽蔑すべき)           His contemptible actions shocked everyone.
+  - `scorn` /skɔːrn/                ([Formal] 軽蔑する)             She scorned his feeble excuses.
+    - `scornful` /ˈskɔːrnfəl/       ([Formal] 軽蔑的な)             He gave her a scornful look.
+  - `disdain` /dɪsˈdeɪn/            ([Formal] 軽蔑する、見下す)    He disdained their offer.
+    - `disdainful` /dɪsˈdeɪnfəl/    ([Formal] 軽蔑的な)             Her disdainful attitude was obvious.
+
+## Negative Evaluation
+- `wane` /weɪn/                     ([Neutral] 衰える)             Her enthusiasm waned rapidly.
+  - `waning` /ˈweɪnɪŋ/              ([Neutral] 衰えている)         His waning strength worried us.
+- `diminish` /dɪˈmɪnɪʃ/             ([Neutral] 減少する)           The threat has diminished.
+- `dwindle` /ˈdwɪndəl/              ([Neutral] 減少する)           Their savings dwindled to nothing.
+- `decline` /dɪˈklaɪn/              ([Neutral] 衰える)             Her health has been declining.
+- `fade` /feɪd/                     ([Neutral] 薄れる)             The light faded gradually.
+- `ebb` /eb/                        ([Writing] 引く、衰える)       His life is gradually ebbing.
+- `subside` /səbˈsaɪd/              ([Formal] 和らぐ)              The pain gradually subsided.
+- `abate` /əˈbeɪt/                  ([Formal] 和らぐ)              We waited for the wind to abate.
+- `recede` /rɪˈsiːd/                ([Formal] 後退する)            The prospect of bankruptcy receded.
+- `weaken` /ˈwiːkən/                ([Neutral] 弱くする)           The illness weakened him.
+- `lessen` /ˈlesən/                 ([Neutral] 減らす)             This should lessen the pain.
+- `frivolous` /ˈfrɪvələs/           ([Writing] つまらない、軽薄な)  The court dismissed the frivolous lawsuit.
+  - `frivolity` /frɪˈvɒləti/        ([Writing] 軽薄さ、つまらなさ)  His frivolity annoyed his colleagues.
+- `trivial` /ˈtrɪviəl/              ([Neutral] 些細な、つまらない)  Don't worry about such trivial matters.
+  - `triviality` /ˌtrɪviˈæləti/     ([Writing] 些細なこと)          He focused on trivialities instead of the main issue.
+- `petty` /ˈpeti/                   ([Casual] 些細な、けちな)       Stop being so petty about small things.
+- `insignificant` /ˌɪnsɪɡˈnɪfɪkənt/ ([Formal] 取るに足らない)       The difference is insignificant.
+  - `insignificance` /ˌɪnsɪɡˈnɪfɪkəns/ ([Neutral] 重要でないこと)    The insignificance of the error was obvious.
+- `acrimony` /ˈækrɪməni/            ([Writing] 辛辮さ、激しさ)      The debate was full of acrimony.
+  - `acrimonious` /ˌækrɪˈməʊniəs/   ([Writing] 辛辮な、激しい)      Their acrimonious divorce lasted years.
+- `caustic` /ˈkɔːstɪk/              ([Writing] 辛辮な)              Her caustic remarks hurt everyone.
+  - `caustically` /ˈkɔːstɪkli/      ([Writing] 辛辮に)              He caustically criticized the proposal.
+- `scathing` /ˈskeɪðɪŋ/             ([Writing] 容赦のない)          The review was absolutely scathing.
+  - `scathingly` /ˈskeɪðɪŋli/       ([Writing] 容赦なく)            She scathingly dismissed his ideas.
+  - `unscathed` /ʌnˈskeɪðd/         ([Writing] 無傷の)              She emerged unscathed from the accident.
+- `animosity` /ˌænɪˈmɒsəti/         ([Formal] 敵意、悪意)           There's real animosity between them.
+- `rancor` /ˈræŋkər/                ([Writing] 憎しみ、怨恨)        He spoke without rancor or bitterness.
+  - `rancorous` /ˈræŋkərəs/         ([Writing] 怨恨に満ちた)        Their rancorous feud lasted decades.
+- `harsh` /hɑːʃ/                    ([Neutral] 厳しい、過酷な)      The teacher gave harsh criticism.
+  - `harshly` /ˈhɑːʃli/             ([Neutral] 厳しく)              He spoke harshly to the students.
+  - `harshness` /ˈhɑːʃnəs/          ([Neutral] 厳しさ、過酷さ)      The harshness of winter was unbearable.
+- `severe` /sɪˈvɪə/                 ([Formal] 深刻な、厳格な)       The patient has severe symptoms.
+  - `severity` /sɪˈverəti/          ([Formal] 深刻さ、厳しさ)       The severity of the storm surprised us.
+  - `severely` /sɪˈvɪəli/           ([Formal] 厳しく、激しく)       He was severely injured in the accident.
+- `strict` /strɪkt/                 ([Neutral] 厳格な)              My parents are very strict.
+  - `strictly` /ˈstrɪktli/          ([Neutral] 厳格に)              Smoking is strictly prohibited.
+  - `stricture` /ˈstrɪktʃə/         ([Writing] 制限、批判)          The new strictures on travel are unpopular.
+- `stern` /stɜːn/                   ([Neutral] 厳格な、厳しい)      She gave him a stern warning.
+
+
+
+- `come down to` /kʌm daʊn tu/        ([Casual] ～に帰着する)           It all comes down to hard work.
+  - `boil down to` /bɔɪl daʊn tu/      ([Neutral] 要するに～である)      The issue boils down to money.
+  - `depend on` /dɪˈpend ɑːn/          ([Neutral] ～に依存する)          Success depends on hard work.
+  - `result in` /rɪˈzʌlt ɪn/           ([Neutral] ～という結果になる)    Hard work results in success.
+  - `ultimately` /ˈʌltɪmətli/          ([Neutral] 最終的に、結局)        Ultimately, it's your decision.
+  - `amount to` /əˈmaʊnt tu/           ([Neutral] ～に等しい、要するに)  His excuse amounts to nothing.
+  - `center on` /ˈsentər ɑːn/          ([Neutral] ～を中心とする)        The debate centers on healthcare.
+  - `reduce to` /rɪˈdus tu/            ([Neutral] ～に減らす、要約する)  The problem reduces to a simple question.
+  - `stem from` /stem frʌm/            ([Neutral] ～に由来する)          The problem stems from poor planning.
+  - `revolve around` /rɪˈvɑːlv əˈraʊnd/ ([Neutral] ～を中心とする)        The story revolves around family.
+  - `hinge on` /hɪndʒ ɑːn/             ([Neutral] ～次第である)          The decision hinges on the budget.

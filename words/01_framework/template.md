@@ -409,3 +409,20 @@
 - `taken aback`                     ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
 - `at a loss for words`             ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
 
+
+## I CAN'T CATCH A BREAK
+> `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
+- `Nothing's going my way`          ([Casual] 何もうまくいかない)   Nothing's going my way today.
+- `I'm having bad luck`             ([Neutral] 運が悪い)            I'm having bad luck with my car.
+- `Everything's going wrong`        ([Neutral] 全て悪い方向)        Everything's going wrong lately.
+- `I can't get anything right`      ([Casual] 何も上手くできない)   I can't get anything right today.
+- `It's not my day`                 ([Casual] ついてない日)         It's just not my day.
+- `Things aren't working out for me`([Neutral] うまくいかない)      Things aren't working out for me.
+- `I'm cursed`                      ([Casual] 呪われている)         I feel like I'm cursed.
+  - `I'm jinxed`                    ([Casual] 呪われている)         I must be jinxed or something.
+  - `I'm snake-bitten`              ([Casual] ついていない)         I've been snake-bitten all week.
+  - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
+  - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
+- `Murphy's Law is in full effect`  ([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
+
+
