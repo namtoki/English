@@ -10,6 +10,7 @@
   - `wound` /wuːnd/                 ([Formal] 深く傷つける)         Her words wounded him deeply.
   - `affront` /əˈfrʌnt/             ([Formal] 侮辱、怒らせる)       His comment was an affront to my dignity.
 > `smack` /smæk/                    ([Casual] 叩く)                 She smacked him across the face.
+  - `rap` /ræp/                     ([Neutral] 叩く、ノックする)    He rapped on the door loudly.
   - `whack` /wæk/                   ([Casual] 強く打つ)             She whacked the piñata with a stick.
   - `sock` /sɒk/                    ([Casual] 殴る)                 He socked him right in the jaw.
   - `slug` /slʌg/                   ([Casual] 強く殴る)             The boxer slugged his opponent hard.

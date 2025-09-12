@@ -13,7 +13,6 @@ accrue	11	【動】結果として生じる、獲得する
 accumulation	8	【名】蓄積		
 accusation	6	【名】告発、罪		
 acorn	12	【名】ドングリ		
-acquiescence	12	【名】黙認、妥協		
 acreage	12	【名】1エーカーほどの土地、エーカーで測った面積、地積		
 acrid	12	【形】（味やにおいが）刺すような、辛らつな		
 acronym	11	【名】頭字語		
@@ -553,7 +552,6 @@ capricious	12	【形】気まぐれの、移り気な
 captivate	9	【動】心を奪う、夢中にする		
 captivity	8	【名】捕らわれの身		
 carbohydrate	10	【名】炭水化物		
-carcass	11	【名】死がい、死体		
 carcinogen	12	【名】発ガン性物質、発ガン因		
 cardboard	7	【名】ボール紙 【形】ボール紙製の		
 cardiac	11	【形】心臓の 【名】心臓病患者、強心剤		
@@ -849,7 +847,6 @@ conjunction	10	【名】結合、共同、接続詞
 connoisseur	11	【名】通、鑑識家、目利き		
 consecrate	12	【動】聖職に任命する、神聖にする、ささげる		
 consecutive	10	【形】連続した、論理の一貫した		
-consent	5	【動】同意する、承諾する 【名】承諾、承認、同意		
 consequent	7	【形】引き続いて起こる、結果として起こる		
 conservationist	11	【名】自然保護論者 【形】自然保護論者の		
 conservative	5	【形】保守的な、控えめな 【名】保守的な人		
@@ -906,7 +903,6 @@ continuation	7	【名】連続、存続、話などの続き
 continuity	7	【名】連続、継続性、ひと続き、映画の撮影用台本（コンテ）		
 continuous	5	【形】連続的な		
 continuously	6	【副】連続して、ひっきりなしに		
-continuum	11	【名】連続（体）		
 contour	9	【名】輪郭、等高線、概略 【形】等高線を記す、輪郭を示す		
 contraception	11	【名】避妊、産児制限		
 contraceptive	11	【形】避妊の 【名】避妊器具、避妊薬		
@@ -948,12 +944,10 @@ correlation	8	【名】相互関係、相関関係、相関作用
 correspondence	7	【名】文通、往復書簡、一致、通信		
 correspondent	6	【名】通信員、特派員 【形】一致している、対応している		
 corresponding	8	【形】対応する、類似の、付随する		
-corridor	5	【名】廊下		
 corrode	12	【動】腐食する、徐々に悪くなる		
 corrosive	11	【形】腐食する、痛烈な		
 corrupt	6	【形】堕落した、不正な 【動】買収する、堕落させる		
 cortex	11	【名】（大脳）皮質、樹皮		
-cosmetic	6	【名】化粧品、体裁のつくろい 【形】美容のための		
 cosmic	9	【形】宇宙の、無限の		
 cosmopolitan	8	【形】国際的な、外国人に対して偏見のない 【名】国際人		
 cot	12	【名】簡易ベッド、小屋		
@@ -1056,7 +1050,6 @@ curator	11	【名】学芸員、園長、支配人
 curb	9	【名】抑制、制限、歩道の縁石 【動】抑制する		
 curfew	9	【名】夜間外出禁止令、消灯令、門限		
 curio	12	【名】骨董品		
-curse	6	【名】呪い、呪文 【動】呪う、悪態をつく		
 cursory	12	【形】ぞんざいな、うわっつらの		
 curt	11	【形】ぶっきらぼうな、ことばが短い		
 custard	8	【名】カスタード、カスタードソース		
@@ -3136,7 +3129,6 @@ paddle	8	【名】櫂（かい）、外輪 【動】こぐ、へら棒で打つ
 padlock	12	【名】南京錠		
 pagan	9	【名】異教徒、多神教徒 【形】異教の、異教的な		
 pageant	10	【名】野外劇、コンテスト、仮装行列		
-pail	7	【名】バケツ		
 pal	5	【名】仲間、仲良し		
 palatable	11	【形】快い、口に合う		
 pall	12	【名】覆って暗くするもの、棺に掛ける布		
@@ -3198,7 +3190,6 @@ pedagogy	12	【名】教育学
 pedantic	12	【形】物知り顔の、学者ぶった		
 peddle	11	【動】広めようとする、売り歩く		
 peddler	12	【名】行商人、麻薬の売人		
-pedestal	9	【名】台座 【動】台の上に置く		
 pedestrian	7	【名】歩行者、徒歩旅行者 【形】徒歩の		
 pedigree	11	【名】血統、家系、起源 【形】純血種の		
 peek	9	【動】そっとのぞく、盗み見する 【名】のぞき見		
@@ -3612,7 +3603,6 @@ ranch	7	【名】大牧場、農場
 ranger	8	【名】森林警備官		
 ransom	11	【名】身代金、受け戻し 【動】お金と引き換えに返す、償う		
 rant	11	【動】わめく、大きなことを言う 【名】大言壮語		
-rap	8	【動】軽くたたく 【名】軽くたたくこと		
 rapidity	8	【名】素早さ、急速、敏速、速度		
 rapport	11	【名】調和的な関係、意思の疎通性		
 rapprochement	11	【名】和解、親交関係の確立		

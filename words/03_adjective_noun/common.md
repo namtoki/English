@@ -1,5 +1,18 @@
 # NAME
 
+## ABSTRACT CONCEPTS
+- `consent` /ˈkɒnsent/               ([Formal] 同意、許可)            You need parental consent for this.
+- `agreement` /əˈɡriːmənt/           ([Neutral] 合意、協定)           They reached an agreement.
+- `approval` /əˈpruːvəl/             ([Neutral] 承認、賛成)           The project needs your approval.
+- `permission` /pərˈmɪʃən/           ([Neutral] 許可)                Ask for permission before entering.
+- `authorization` /ˌɔːθərəˈzeɪʃən/   ([Formal] 認可、授権)            You need authorization to access this.
+- `acquiescence` /ˌækwiˈesəns/       ([Formal] 黙認、容認)            His silence implied acquiescence.
+- `continuum` /kənˈtɪnjuəm/         ([Formal] 連続体、範囲)          Political views exist on a continuum.
+- `pedestal` /ˈpedɪstəl/            ([Neutral] 台座、高い地位)        The statue stands on a marble pedestal.
+
+## CONTAINERS
+- `pail` /peɪl/                     ([Neutral] バケツ、桶)           She carried water in a pail.
+
 ## SUBJECT
 - `subject` /ˈsʌbdʒɪkt/             ([Neutral] 主題、科目)          Math is my favorite subject.
 

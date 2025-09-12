@@ -67,3 +67,7 @@
 - `get off the phone with`          ([Casual] 電話を切る)           I just got off the phone with him.
 - `ring up` /rɪŋ ʌp/                ([British] 電話をかける)        I'll ring you up tomorrow.
 - `hang up` /hæŋ ʌp/                ([Neutral] 電話を切る)          Don't hang up yet!
+
+## INFORMAL COMMUNICATION / CRITICISM
+> `rap` /ræp/                       ([Casual] 話す、おしゃべりする) I enjoyed rapping with him about sports.
+- `criticize` /ˈkrɪtɪsaɪz/          ([Neutral] 批判する)            The report raps the organization.

@@ -39,6 +39,7 @@
   - `structure` /ˈstrʌktʃər/        ([Neutral] 構造、組織)          The structure of DNA is complex.
   - `composition` /ˌkɑːmpəˈzɪʃən/   ([Neutral] 構成、組成)          Body composition varies by age.
   - `framework` /ˈfreɪmwɜːrk/       ([Neutral] 骨組み、枠組み)      The skeletal framework supports the body.
+  - `carcass` /ˈkɑːrkəs/            ([Neutral] 死体、屍)            Vultures surrounded the animal carcass.
 > `abdomen` /ˈæbdəmən/              ([Medical] 腹部)                The surgeon examined the abdomen.
   - `abdominal` /æbˈdɑmənəl/        ([Medical] 腹部の)              She felt abdominal pain.
   - `belly` /ˈbeli/                 ([Casual] 腹、お腹)             He patted his full belly.

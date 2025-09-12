@@ -59,6 +59,7 @@
   - `digest` /daɪˈdʒest/            ([Neutral] 理解・吸収する)      I need time to digest this information.
   - `fathom` /ˈfæðəm/               ([Formal] 理解する、推測する)   I can't fathom his motives.
   - `perceive` /pərˈsiːv/           ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
+  - `sink in` /sɪŋk ɪn/             ([Neutral] 実感が湧く)          It took a while for the news to sink in.
 > `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める)    I didn't recognize him at first.
   - `identify` /aɪˈdentɪfaɪ/        ([Neutral] 見分ける、特定する)  Can you identify the suspect?
   - `tell` /tel/                    ([Casual] 見分ける、区別する)   I can't tell the twins apart.

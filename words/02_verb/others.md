@@ -596,6 +596,12 @@
   - `supplicant` /ˈsʌplɪkənt/       ([Writing] 嘆願者)              The supplicant knelt before the king.
 
 ## AFFIRM
+- `consent` /kənˈsent/               ([Formal] 同意する)             She consented to the treatment.
+- `agree` /əˈɡriː/                   ([Neutral] 同意する)            I agree with your opinion.
+- `approve` /əˈpruːv/                ([Neutral] 承認する)            The board approved the proposal.
+- `permit` /pərˈmɪt/                 ([Formal] 許可する)             The law does not permit smoking here.
+- `authorize` /ˈɔːθəraɪz/            ([Formal] 認可する)             Who authorized this purchase?
+- `acquiesce` /ˌækwiˈes/             ([Formal] 黙認する)             She acquiesced to their demands.
 > `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
   - `affirmation` /ˌæfərˈmeɪʃən/    ([Formal] 断言、肯定)           Her nod was an affirmation.
   - `affirmative` /əˈfɜrmətɪv/      ([Formal] 肯定的な)             She gave an affirmative response.
@@ -907,3 +913,13 @@
   - `stem from` /stem frʌm/            ([Neutral] ～に由来する)          The problem stems from poor planning.
   - `revolve around` /rɪˈvɑːlv əˈraʊnd/ ([Neutral] ～を中心とする)        The story revolves around family.
   - `hinge on` /hɪndʒ ɑːn/             ([Neutral] ～次第である)          The decision hinges on the budget.
+
+
+  - `clean up` /kliːn ʌp/           ([Casual] 片付ける、掃除する)   We need to clean up this mess.
+  - `tidy` /ˈtaɪdi/                 ([Casual] 片付ける、整頓する)   Tidy up your desk before leaving.
+  - `tidy up` /ˈtaɪdi ʌp/           ([Casual] 片付ける、整理する)   Let's tidy up the office.
+  - `arrange` /əˈreɪndʒ/            ([Neutral] 整理する、配置する)  Let's arrange the meeting room.
+  - `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
+  - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
+  - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
+

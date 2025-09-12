@@ -9,6 +9,7 @@
   - `alight` /əˈlaɪt/               ([Writing] 燃えている、点いている) The candles were alight.
   - `aflame` /əˈfleɪm/              ([Writing] 炎に包まれた)        The forest was aflame.
 > `fire` /faɪər/                    ([Neutral] 火、火災)            The fire spread quickly.
+  > `be on fire`                   ([Casual] 絶好調である)          The team is on fire right now.
   - `flame` /fleɪm/                 ([Neutral] 炎)                  The flame flickered in the wind.
   - `blaze` /bleɪz/                 ([Neutral] 炎、火災)            The fire became a dangerous blaze.
   - `spark` /spɑːrk/                ([Neutral] 火花)                A spark ignited the gasoline.

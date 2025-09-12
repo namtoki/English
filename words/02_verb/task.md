@@ -1,22 +1,16 @@
 # Task
 
-## BASIC ACTION (ORGANIZE / SORT OUT / LOOK INTO / EXERCISE / CHOOSE / MAKE SURE / PROVE)
+## BASIC ACTION (SORT OUT / GET STRAIGHT / LOOK INTO / EXERCISE / CHOOSE / MAKE SURE / PROVE)
 > `organize` /ˈɔːrɡənaɪz/           ([Neutral] 整理する、組織する)  I need to organize my files.
-  - `clean up` /kliːn ʌp/           ([Casual] 片付ける、掃除する)   We need to clean up this mess.
-  - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
   > `sort out` /sɔːrt aʊt/          ([Casual] 整理する、解決する)   I'll sort out the paperwork.
-  - `arrange` /əˈreɪndʒ/            ([Neutral] 整理する、配置する)  Let's arrange the meeting room.
-  - `tidy` /ˈtaɪdi/                 ([Casual] 片付ける、整頓する)   Tidy up your desk before leaving.
-  - `tidy up` /ˈtaɪdi ʌp/           ([Casual] 片付ける、整理する)   Let's tidy up the office.
+  > `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
+  - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
   - `order` /ˈɔːrdər/               ([Neutral] 整理する、注文する)  Order the items by priority.
-  - `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
-  - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
-  - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
   - `coordinate` /koʊˈɔːrdɪneɪt/    ([Neutral] 調整する、まとめる)  Coordinate the different teams.
   - `straighten out` /ˈstreɪtən aʊt/([Neutral] 整理する、解決する)  Let's straighten out these issues.
   - `structure` /ˈstrʌktʃər/        ([Neutral] 構造化する 組織する) We need to structure the data.
   - `reorganize` /riːˈɔːrɡənaɪz/    ([Neutral] 再編成す 整理し直す) We need to reorganize the department.
-  - `streamline` /ˈstriːmlaɪn/      ([Neutral] 合理化す 効率化する) We'll streamline our processes.
+  > `streamline` /ˈstriːmlaɪn/      ([Neutral] 合理化す 効率化する) We'll streamline our processes.
   - `systematize` /ˈsɪstəmətaɪz/    ([Formal] 体系化す 組織化する)  Let's systematize our approach.
   - `consolidate`/kənˈsɑːlɪdeɪt/    ([Formal] 統合する 整理統合す)  Consolidate all the reports.
   - `align` /əˈlaɪn/                ([Neutral] 整列させる 調整する) Align the goals with strategy.
@@ -127,6 +121,7 @@
 - `set out to` /set aʊt tuː/        ([Neutral] 着手する、目指す)    We set out to improve efficiency.
 - `turn to` /tɜːrn tuː/             ([Neutral] 取りかかる、向かう)  Let's turn to the next agenda item.
 - `get to` /ɡet tuː/                ([Neutral] とりかかる)          I'll get to it as soon as I can.
+- `get around to` /ɡet əˈraʊnd tuː/ ([Neutral] やっと～する)        I'll get around to fixing it soon.
 
 ## DEAL WITH / HANDLE / ADDRESS
 > `deal with` /diːl wɪð/            ([Neutral] 対処する、扱う)      We need to deal with this issue.
@@ -136,6 +131,7 @@
 > `take care of` /teɪk keər əv/     ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
 > `cope with` /koʊp wɪð/            ([Neutral] 対処する、対応する)  How do you cope with stress?
 - `approach` /əˈproʊtʃ/             ([Neutral] 取り組む、接近する)  How should we approach this problem?
+- `go about` /ɡoʊ əˈbaʊt/           ([Neutral] 取り組む、着手する)  How do you go about fixing this?
 - `focus on` /ˈfoʊkəs ɑːn/          ([Neutral] 集中する 焦点を当て) Let's focus on the main problem.
 - `engage with` /ɪnˈɡeɪdʒ wɪð/      ([Formal] 取り組む、関わる)     We need to engage with stakeholders.
 - `attend to` /əˈtend tuː/          ([Formal] 対処する、世話する)   I'll attend to this matter immediately.
@@ -156,6 +152,7 @@
 > `work through` /wɜːrk θruː/       ([Neutral] やり抜く、解決する)  We need to work through these issues.
 > `follow through`                  ([Neutral] 最後までやり抜く)    Make sure to follow through on your commitments.
   - `follow through with`           ([Neutral] 最後までやり抜く)    We need to follow through with our plan.
+- `go through with` /ɡoʊ θruː wɪð/  ([Neutral] やり遂げる、実行する) She decided to go through with the plan.
 - `resolve` /rɪˈzɑːlv/              ([Formal] 解決する、解決する)   We need to resolve this conflict.
 - `sort out` /sɔːrt aʊt/            ([Casual] 整理する、解決する)   I'll sort out this mess.
 - `perform` /pərˈfɔːrm/             ([Neutral] 実行する、遂行する)  She performed the task well.
@@ -240,6 +237,7 @@
 - `mesh` /meʃ/                      ([Neutral] うまく合う)          Their ideas mesh perfectly.
 - `fit together`                    ([Neutral] うまく合う)          The pieces fit together perfectly.
 - `come off` /kʌm ɔːf/              ([Casual] 成功する)             The event came off without a hitch.
+- `still manage to` /stɪl ˈmænɪdʒ tuː/([Neutral] それでも〜してしまう) I still manage to make mistakes.
 
 ## COMPLETE / FINISH / GET DONE
 > `finish` /ˈfɪnɪʃ/                 ([Neutral] 終える、完成させる)  I need to finish this report.
