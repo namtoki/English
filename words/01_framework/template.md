@@ -131,7 +131,7 @@
   - `No worries`                    ([Casual] 気にしないで)         Sorry I'm late. No worries.
   - `Of course`                     ([Neutral] もちろんです)        Thanks for letting me know. Of course.
 
-## HOW CAN I PUT THIS? / I'M NOT SURE I FOLLOW
+## HOW CAN I PUT THIS? / I'M NOT SURE I FOLLOW / COME AGAIN?
 > `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
   - `How should I say this?`        ([Neutral] どう言えばいいかな)  How should I say this? It's sensitive.
   - `What's the word for it?`       ([Casual] 何て言うんだっけ？)   What's the word for it? It's on the tip of my tongue.
@@ -149,58 +149,57 @@
   - `You lost me`                   ([Casual] ついていけなくなった) You lost me at the third step.
   - `I'm not following`             ([Neutral] ついていけてない)    I'm not following your reasoning.
   - `I didn't catch that`           ([Casual] 聞き取れなかった)     I didn't catch that. Could you repeat?
+> `Come again?`                     ([Casual] もう一回言って)       Come again? I didn't catch that.
+  - `Sorry, what?`                  ([Casual] え、何？)             Sorry, what? I missed that.
 
-## QUESTIONS ()
+## QUESTIONS (DOES THAT SOUND C? / WHAT'S YOUR TAKE ON? / WHAT ARE THE CHANCES THAT ...? / )
+> `Does that sound C?`              ([Casual] C のように聞こえる？) `Does that sound` good?
+> `What's your take on O?`          ([Casual] どう思う？)           `What's your take on` the new iPhone?
+  - `Any thoughts on O?`            ([Casual] 何か意見ある？)
+  - `How do you feel about O?`      ([Neutral] どう思いますか？)    `How do you feel about` the service in Japan?
+  - `How do you like O?`            ([Neutral] O は好きですか？)    `How do you like` your new shoes?
+  - `What do you think about O?`    ([Neutral] どう思いますか？)    `What do you think about` moving to Osaka?
+> `What are the chances that` S V?  ([Casual] S V の可能性は？)     `What are the chances that` the meeting will finish early?
+  - `How likely is it that` S V?    ([Neutral] S V の可能性は？)    `How likely is it that` the project will be delayed?
+> `Should the focus be on` A or B?  ([Neutral] A, B どちらに重点？) Should the focus be on product quality or on cost reduction?
+  - `Should we focus on` A or B?    ([Neutral] A, B どちらに重点？) Should we focus on increasing sales or ... ?
+> `What's the situation with O?`    ([Neutral] Oの状況はどう？)     `What's the situation with the project deadline?`
+  - `What's going on with O?`       ([Neutral] Oはどうなっている？) `What's going on with the project timeline?`
 - `(By) When ... ?`                 ([Neutral] いつまでですか？)    `(By) When` do I have to finish this?
-- `Any thoughts on O?`              ([Casual] 何か意見ある？)
-- `Can you give me a hand?`         ([Casual] 手伝ってくれる？)
 - `Do you have the time?`           ([Neutral] 今何時？)
 - `Do you know anyone in A?`        ([Neutral] A に知り合いはいる？)
-- `Does that sound C?`              ([Casual] C のように聞こえる？) `Does that sound` good?
-- `How do you feel about O?`        ([Neutral] どう思いますか？) `How do you feel about` the service in Japan?
-- `How do you like O?`              ([Neutral] O は好きですか？) `How do you like` your new shoes?
-- `How likely is it that` S V?      ([Neutral] S V の可能性はどれくらい？) `How likely is it that` the project will be delayed?
-- `How long since S V?`             ([Neutral] S V してからどれくらい？) `How long since` you met him?
+- `How long since S V?`             ([Neutral] S V からどれくらい)  `How long since` you met him?
 - `How was everything?`             ([Polite] お料理はいかがでしたか？)
-- `Is A the same as B?`             ([Neutral] A は B と同じ？) `Is this the same skirt as` in the ad?
-- `Should the focus be on` A or B?  ([Neutral] A, B どちらに重点を置きますか？) `Should the focus be on` product quality `or on` cost reduction?
-- `Should we focus on` A or B?      ([Neutral] A, B どちらに重点を置きますか？) `Should we focus on` increasing sales or improving customer satisfaction?
-- `What are the chances that` S V?  ([Casual] S V の可能性はどれくらい？) `What are the chances that` the meeting will finish early?
+- `Is A the same as B?`             ([Neutral] A は B と同じ？)     `Is this the same skirt as` in the ad?
 - `What are you up to?`             ([Casual] 何しようとしているの？)
 - `What do you mean by that?`       ([Casual] それってどういう意味？)
-- `What do you think about O?`      ([Neutral] どう思いますか？) `What do you think about` moving to Osaka?
-- `What if S V?`                    ([Casual] S V しなかったらどうなる？) `What if I don't meet` the deadline?
-- `What's going on with O?`         ([Neutral] Oはどうなっているの？) `What's going on with the project timeline?`
 - `What's it called?`               ([Casual] それは何と呼ばれていますか？)
-- `What's the situation with O?`    ([Neutral] Oの状況はどうなっている？) `What's the situation with the project deadline?`
-- `What's your take on O?`          ([Casual] どう思う？) `What's your take on` the new iPhone?
-- `Would you be more inclined to`   ([Formal] どちらをしたいですか？) `Would you be more inclined to invest in stocks or real estate?`
-- `Would you like O?`               ([Neutral] O が欲しいですか？) `Would you like` some more?
-- `Would you prefer to V or V?`     ([Neutral] どちらをしたいですか？) `Would you prefer to stay home or go out?`
-- `Would you rather V or V?`        ([Neutral] どちらをしたいですか？) `Would you rather stay home or go out tonight?`
+- `Would you be more inclined to`   ([Formal] どちらをしたい？)     Would you be more inclined to invest in stocks or real estate?
+- `Would you like O?`               ([Neutral] O が欲しいですか？)  `Would you like` some more?
+- `Would you prefer to V or V?`     ([Neutral] どちらをしたい？)    `Would you prefer to stay home or go out?`
+- `Would you rather V or V?`        ([Neutral] どちらをしたい？)    `Would you rather stay home or go out tonight?`
+- `What do you mean?`               ([Neutral] どういう意味？)      What do you mean by "restructuring"?
+- `Please do me a favor and V`      ([Casual] お願いだから～して)   Please do me a favor and call him.
+- `Do/Would you happen to V?`       ([Polite] たまたま～ですか？)   Do you happen to know the time?
+- `Do you think you could V?`       ([Polite] してもらえる？)       Do you think you could talk to her?
 
 ## WOULD YOU / COULD YOU / WOULD IT BE POSSIBLE TO / I'D APPRECIATE IT IF YOU COULD
 > `Could you V?`                    ([Neutral] してもらえる？)      Could you help me with this?
 > `Would you V?`                    ([Polite] してもらえますか？)   Would you pass me the salt?
 > `Can you V?`                      ([Casual] してくれる？)         Can you send me the file?
+> `Would it be possible to V?`      ([Formal] 可能でしょうか？)     Would it be possible to reschedule?
+> `I'd appreciate it if you could`  ([Formal] してもらえると助る)   I'd appreciate it if you could review this.
+> `I was wondering if you could V`  ([Polite] してもらえません？)   I was wondering if you could help me.
+> `I'd be grateful if you could V`  ([Formal] してもらえると感謝)   I'd be grateful if you could assist.
+  - `Can you give me a hand?`       ([Casual] 手伝ってくれる？)
+  - `Can you run that by me again?` ([Casual] もう一度説明して)     Can you run that by me again?
   - `Could you clarify?`            ([Neutral] 明確してもらえる？)  Could you clarify what you mean by that?
   - `Could you elaborate?`          ([Formal] 詳しく説明して)       Could you elaborate on that point?
-  - `Could you make O C?`           ([Neutral] OをCしてもらえる？)  Could you make the font bigger?
   - `Could you go over it again?`   ([Neutral] もう一度説明して)    Could you go over it again? I missed that part.
+  - `Could you make O C?`           ([Neutral] OをCしてもらえる？)  Could you make the font bigger?
   - `Would you be able to V?`       ([Neutral] できますか？)        Would you be able to attend?
   - `Would you be willing to V?`    ([Neutral] してもらえますか？)  Would you be willing to help?
   - `Would you mind V-ing?`         ([Polite] してもらえません？)   Would you mind opening the window?
-  > `Would it be possible to V?`    ([Formal] 可能でしょうか？)     Would it be possible to reschedule?
-  - `Come again?`                   ([Casual] もう一回言って)       Come again? I didn't catch that.
-  - `Sorry, what?`                  ([Casual] え、何？)             Sorry, what? I missed that.
-  - `What do you mean?`             ([Neutral] どういう意味？)      What do you mean by "restructuring"?
-  - `Can you run that by me again?` ([Casual] もう一度説明して)     Can you run that by me again?
-  - `I was wondering if you could V`([Polite] してもらえません？)   I was wondering if you could help me.
-  > `I'd appreciate it if you could`([Formal] してもらえると助る)   I'd appreciate it if you could review this.
-  - `I'd be grateful if you could V`([Formal] してもらえると感謝)   I'd be grateful if you could assist.
-  - `Please do me a favor and V`    ([Casual] お願いだから～して)   Please do me a favor and call him.
-  - `Do/Would you happen to V?`     ([Polite] たまたま～ですか？)   Do you happen to know the time?
-  - `Do you think you could V?`     ([Polite] してもらえる？)       Do you think you could talk to her?
 
 ## COULD I / CAN I / IS IT OK IF
 > `Can I V?`                        ([Casual] してもいい？)         Can I ask you something?

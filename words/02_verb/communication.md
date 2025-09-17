@@ -24,12 +24,12 @@
   - `illustrate` /ˈɪləstreɪt/       ([Neutral] 説明する、例証する)  This example illustrates my point.
   - `demonstrate` /ˈdemənstreɪt/    ([Neutral] 実演して説明する)    Let me demonstrate how it works.
   > `cut to the chase`              ([Casual] 要点を言う)           Let me cut to the chase.
-  - `have a say` /hæv ə seɪ/        ([Neutral] 発言権を持つ)        Everyone should have a say in this.
+> `have a say` /hæv ə seɪ/          ([Neutral] 発言権を持つ)        Everyone should have a say in this.
   - `have a voice` /hæv ə vɔɪs/     ([Neutral] 発言権を持つ)        We all have a voice in this decision.
   - `weigh in` /weɪ ɪn/             ([Neutral] 意見を述べる)        Let me weigh in on this issue.
-  - `put in your two cents` /pʊt ɪn jʊr tuː sents/ ([Casual] ちょっと意見を言う)   Can I put in my two cents here?
-  - `speak your mind` /spiːk jʊr maɪnd/ ([Neutral] 率直に意見を言う)    Don't be afraid to speak your mind.
-  - `have your say` /hæv jʊər seɪ/  ([Neutral] 意見を言う機会を得る) Everyone will have their say.
+  - `put in your two cents`         ([Casual] ちょっと意見を言う)   Can I put in my two cents here?
+  - `speak your mind`               ([Neutral] 率直に意見を言う)    Don't be afraid to speak your mind.
+  - `have your say` /hæv jʊər seɪ/  ([Neutral] 意見言う機会を得る)  Everyone will have their say.
 
 ## CONTACT (LET S KNOW / TOUCH BASE / GET BACK TO / BE IN CONTACT)
 > `let know` /let noʊ/              ([Neutral] 知らせる)            Let me know when you arrive.
