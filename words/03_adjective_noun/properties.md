@@ -121,3 +121,13 @@
     - `coarseness` /ˈkɔːrsnəs/      ([Neutral] 粗さ)                The coarseness of the sand.
   - `fine` /faɪn/                   ([Neutral] 細い、薄い)          Fine hair.
     - `fineness` /ˈfaɪnnəs/         ([Neutral] 細さ)                The fineness of the thread.
+
+## PATTERNS / COLORS
+- `variegated` /ˈvɛəriəˌɡeɪtɪd/     ([Formal] まだらの、斑入りの)   The variegated leaves show multiple colors.
+  - `variegate` /ˈvɛəriəˌɡeɪt/      ([Formal] まだらにする)        The artist chose to variegate the design.
+  - `variegation` /ˌvɛəriəˈɡeɪʃən/  ([Formal] まだら模様、斑入り)  The variegation in the plant is striking.
+- `mottled` /ˈmɑːtəld/              ([Neutral] まだらの、斑点のある) The mottled skin provided camouflage.
+- `speckled` /ˈspekəld/             ([Neutral] 斑点のある、まだらの) The speckled eggs lay in the nest.
+- `striped` /straɪpt/               ([Neutral] 縞模様の)             He wore a striped shirt.
+- `multicolored` /ˌmʌltiˈkʌlərd/    ([Neutral] 多色の、色とりどりの) The multicolored lights were bright.
+- `dappled` /ˈdæpəld/               ([Neutral] まだらの、斑点のある) The path was dappled with sunlight.

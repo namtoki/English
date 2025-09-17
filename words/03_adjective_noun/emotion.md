@@ -47,3 +47,6 @@
   - `perturbed` /pərˈtɜːrbd/        ([Formal] 心配な、動揺した)     She looked perturbed by the news.
   - `hostile` /ˈhɑːstaɪl/           ([Neutral] 敵対的な)            The crowd became hostile.
   - `resentful` /rɪˈzentfl/         ([Neutral] 憤慨した)            He felt resentful about the decision.
+
+## INDIFFERENT / NOT CARING
+- `couldn't care less` /ˈkʊdnt kɛr lɛs/ ([Casual] 全く興味がない)       I couldn't care less what they think.

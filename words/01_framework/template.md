@@ -62,7 +62,7 @@
 > `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
 
-## I FEEL YOU / FAIR ENOUGH / YOU HAVE A POINT BUT / TRUE / RIGHT / THAT WOULD BE GREAT / GOOD TO KNOW / YOU FLATTER ME / THAT'S FUNNY / GOOD FOR YOU / YOU NEVER KNOW
+## I FEEL YOU / FAIR ENOUGH / YOU HAVE A POINT BUT / TRUE / RIGHT / THAT WOULD BE GREAT / GOOD TO KNOW / YOU FLATTER ME / THAT'S FUNNY / GOOD FOR YOU / YOU NEVER KNOW / ANYTIME
 > `I feel you`                      ([Casual] わかるよ)             I'm tired of living in the city. Yeah, I feel you.
   > `I get it`                      ([Casual] わかるよ)             I get it. It's really frustrating when things don't go your way.
   - `I see what you mean`           ([Casual] おっしゃることはわかる) I see what you mean about the deadline pressure.
@@ -121,8 +121,17 @@
   - `Anything can happen`           ([Casual] 何が起きるかわかない) Don't give up yet. Anything can happen.
   - `It remains to be seen`         ([Formal] まだわからない)       Will it succeed? It remains to be seen.
   - `Only time will tell`           ([Neutral] 時間が経てばわかる)  Was it worth it? Only time will tell.
+> `Anytime`                         ([Casual] いつでもどうぞ)       Thanks for your help. Anytime!
+  > `No problem`                    ([Casual] 問題ないよ)           Thanks for covering my shift. No problem.
+  - `You're welcome`                ([Neutral] どういたしまして)    Thanks for the ride. You're welcome.
+  - `Don't mention it`              ([Neutral] どういたしまして)    Thank you for your assistance. Don't mention it.
+  - `Not at all`                    ([Neutral] とんでもない)        Thank you for your help. Not at all.
+  - `My pleasure`                   ([Formal] 光栄です)             Thank you for your help. My pleasure.
+  - `Happy to help`                 ([Casual] 喜んでお手伝いします) Thanks for the advice. Happy to help.
+  - `No worries`                    ([Casual] 気にしないで)         Sorry I'm late. No worries.
+  - `Of course`                     ([Neutral] もちろんです)        Thanks for letting me know. Of course.
 
-## HOW CAN I PUT THIS? / HOW SHOULD I SAY THIS? / I'M NOT SURE I FOLLOW
+## HOW CAN I PUT THIS? / I'M NOT SURE I FOLLOW
 > `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
   - `How should I say this?`        ([Neutral] どう言えばいいかな)  How should I say this? It's sensitive.
   - `What's the word for it?`       ([Casual] 何て言うんだっけ？)   What's the word for it? It's on the tip of my tongue.
@@ -140,6 +149,35 @@
   - `You lost me`                   ([Casual] ついていけなくなった) You lost me at the third step.
   - `I'm not following`             ([Neutral] ついていけてない)    I'm not following your reasoning.
   - `I didn't catch that`           ([Casual] 聞き取れなかった)     I didn't catch that. Could you repeat?
+
+## QUESTIONS ()
+- `(By) When ... ?`                 ([Neutral] いつまでですか？)    `(By) When` do I have to finish this?
+- `Any thoughts on O?`              ([Casual] 何か意見ある？)
+- `Can you give me a hand?`         ([Casual] 手伝ってくれる？)
+- `Do you have the time?`           ([Neutral] 今何時？)
+- `Do you know anyone in A?`        ([Neutral] A に知り合いはいる？)
+- `Does that sound C?`              ([Casual] C のように聞こえる？) `Does that sound` good?
+- `How do you feel about O?`        ([Neutral] どう思いますか？) `How do you feel about` the service in Japan?
+- `How do you like O?`              ([Neutral] O は好きですか？) `How do you like` your new shoes?
+- `How likely is it that` S V?      ([Neutral] S V の可能性はどれくらい？) `How likely is it that` the project will be delayed?
+- `How long since S V?`             ([Neutral] S V してからどれくらい？) `How long since` you met him?
+- `How was everything?`             ([Polite] お料理はいかがでしたか？)
+- `Is A the same as B?`             ([Neutral] A は B と同じ？) `Is this the same skirt as` in the ad?
+- `Should the focus be on` A or B?  ([Neutral] A, B どちらに重点を置きますか？) `Should the focus be on` product quality `or on` cost reduction?
+- `Should we focus on` A or B?      ([Neutral] A, B どちらに重点を置きますか？) `Should we focus on` increasing sales or improving customer satisfaction?
+- `What are the chances that` S V?  ([Casual] S V の可能性はどれくらい？) `What are the chances that` the meeting will finish early?
+- `What are you up to?`             ([Casual] 何しようとしているの？)
+- `What do you mean by that?`       ([Casual] それってどういう意味？)
+- `What do you think about O?`      ([Neutral] どう思いますか？) `What do you think about` moving to Osaka?
+- `What if S V?`                    ([Casual] S V しなかったらどうなる？) `What if I don't meet` the deadline?
+- `What's going on with O?`         ([Neutral] Oはどうなっているの？) `What's going on with the project timeline?`
+- `What's it called?`               ([Casual] それは何と呼ばれていますか？)
+- `What's the situation with O?`    ([Neutral] Oの状況はどうなっている？) `What's the situation with the project deadline?`
+- `What's your take on O?`          ([Casual] どう思う？) `What's your take on` the new iPhone?
+- `Would you be more inclined to`   ([Formal] どちらをしたいですか？) `Would you be more inclined to invest in stocks or real estate?`
+- `Would you like O?`               ([Neutral] O が欲しいですか？) `Would you like` some more?
+- `Would you prefer to V or V?`     ([Neutral] どちらをしたいですか？) `Would you prefer to stay home or go out?`
+- `Would you rather V or V?`        ([Neutral] どちらをしたいですか？) `Would you rather stay home or go out tonight?`
 
 ## WOULD YOU / COULD YOU / WOULD IT BE POSSIBLE TO / I'D APPRECIATE IT IF YOU COULD
 > `Could you V?`                    ([Neutral] してもらえる？)      Could you help me with this?
@@ -200,21 +238,19 @@
 - `Should I V?`                     ([Neutral] ～しましょうか？)    Should I make a reservation?
 - `Can I V for you?`                ([Neutral] ～しましょうか？)    Can I get that for you?
 
-## BEEN THERE DONE THAT
+## BEEN THERE DONE THAT / NOT AGAIN
 > `Been there done that`            ([Casual] 経験済み、もういい)   I don't want to try that again. Been there done that.
-> `Story of my life`                ([Casual] いつものこと)         Late again? Story of my life.
-- `I've been there`                 ([Casual] 経験したことある)     I've been there - it gets better with time.
-- `Join the club`                   ([Casual] 仲間だね)             You're stressed about exams? Join the club!
-- `Welcome to my world`             ([Casual] 私の世界へようこそ)   Welcome to my world - this happens daily.
-
-## NOT AGAIN
+  > `Story of my life`              ([Casual] いつものこと)         Late again? Story of my life.
+  - `I've been there`               ([Casual] 経験したことある)     I've been there - it gets better with time.
+  - `Join the club`                 ([Casual] 仲間だね)             You're stressed about exams? Join the club!
+  - `Welcome to my world`           ([Casual] 私の世界へようこそ)   Welcome to my world - this happens daily.
 > `Not again!`                      ([Casual] またかよ！)           Not again! I can't believe the internet is down.
-> `Here we go again`                ([Casual] また始まったよ)       Here we go again, another delay in the project.
-  - `There you go again`            ([Casual] またそれ言ってる)     There you go again, always teasing me.
-- `Same old story`                  ([Casual] いつものこと)         It's the same old story every time.
-- `Yet another`                     ([Neutral] またもや)            Yet another technical problem today.
-- `Just like before`                ([Neutral] 以前と同じ)          It's happening just like before.
-- `Déjà vu`                         ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.
+  > `Here we go again`              ([Casual] また始まったよ)       Here we go again, another delay in the project.
+    - `There you go again`          ([Casual] またそれ言ってる)     There you go again, always teasing me.
+  - `Same old story`                ([Casual] いつものこと)         It's the same old story every time.
+  - `Yet another`                   ([Neutral] またもや)            Yet another technical problem today.
+  - `Just like before`              ([Neutral] 以前と同じ)          It's happening just like before.
+  - `Déjà vu`                       ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.
 
 ## IT MAKES SENSE THAT / THE SAME GOES FOR
 > `It makes sense that S V`         ([Neutral] ～は理にかなってる)  It makes sense that prices went up.
@@ -259,38 +295,6 @@
 
 ## I WAS ON MUTE
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
-
-## QUESTION
-- [x] `What do you mean by that?`           ([Casual] それってどういう意味？)
-- [x] `Any thoughts on O?`                  ([Casual] 何か意見ある？)
-- [ ] `What's your take on O?`              ([Casual] どう思う？) `What's your take on` the new iPhone?
-- [ ] `What do you think about O?`          ([Neutral] どう思いますか？) `What do you think about` moving to Osaka?
-- [ ] `How do you feel about O?`            ([Neutral] どう思いますか？) `How do you feel about` the service in Japan?
-- [ ] `I’d like to hear your opinion on O`  ([Polite] ご意見を伺いたいです。)
-- [ ] `Would you like O?`                   ([Neutral] O が欲しいですか？) `Would you like` some more?
-- [ ] `What's the situation with O?`        ([Neutral] Oの状況はどうなっている？) `What's the situation with the project deadline?`
-- [ ] `What's going on with O?`             ([Neutral] Oはどうなっているの？) `What's going on with the project timeline?`
-- [x] `How likely is it that` S V?          ([Neutral] S V の可能性はどれくらい？) `How likely is it that` the project will be delayed?
-- [ ] `What are the chances that` S V?      ([Casual] S V の可能性はどれくらい？) `What are the chances that` the meeting will finish early?
-- [ ] `Can you give me a hand?`             ([Casual] 手伝ってくれる？)
-- [x] `What are you up to?`                 ([Casual] 何しようとしているの？)
-- [ ] `What's it called?`                   ([Casual] それは何と呼ばれていますか？)
-- [ ] `What if S V?`                        ([Casual] S V しなかったらどうなる？) `What if I don't meet` the deadline?
-- [x] `(By) When ... ?`                     ([Neutral] いつまでですか？) `(By) When` do I have to finish this?
-- [ ] `Do you have the time?`               ([Neutral] 今何時？)
-- [ ] `Do you know anyone in A?`            ([Neutral] A に知り合いはいる？)
-- [ ] `Does that sound C?`                  ([Casual] C のように聞こえる？) `Does that sound` good?
-- [ ] `How do you like O?`                  ([Neutral] O は好きですか？) `How do you like` your new shoes?
-- [x] `How long since S V?`                 ([Neutral] S V してからどれくらい？) `How long since` you met him?
-- [ ] `How was everything?`                 ([Polite] お料理はいかがでしたか？)
-
-## QUESTION (WITCH)
-- [x] `Should we focus on` A or B?          ([Neutral] A, B どちらに重点を置きますか？) `Should we focus on` increasing sales or improving customer satisfaction?
-- [ ] `Should the focus be on` A or B?      ([Neutral] A, B どちらに重点を置きますか？) `Should the focus be on` product quality `or on` cost reduction?
-- [x] `Would you rather V or V?`            ([Neutral] どちらをしたいですか？) `Would you rather stay home or go out tonight?`
-- [ ] `Would you prefer to V or V?`         ([Neutral] どちらをしたいですか？) `Would you prefer to stay home or go out?`
-- [ ] `Would you be more inclined to`       ([Formal] どちらをしたいですか？) `Would you be more inclined to invest in stocks or real estate?`
-- [x] `Is A the same as B?`                 ([Neutral] A は B と同じ？) `Is this the same skirt as` in the ad?
 
 ## ビジネスメール
 - [ ] `I hope you are doing well.`          ([Formal] 相手の健康や状況を気遣う表現) `I hope you are doing well.`
@@ -390,17 +394,6 @@
 - [ ] `There we are.`                       ([Casual] よし！) Well, `there we are`. I've finally finished my homework.
 - [ ] `There you go.`                       ([Casual] どうぞ／その調子) I’m going to go for it! / Yeah, `There you go`!
 
-## ANYTIME
-> `Anytime`                         ([Casual] いつでもどうぞ)       Thanks for your help. Anytime!
-> `No problem`                      ([Casual] 問題ないよ)           Thanks for covering my shift. No problem.
-- `You're welcome`                  ([Neutral] どういたしまして)    Thanks for the ride. You're welcome.
-- `Don't mention it`                ([Neutral] どういたしまして)    Thank you for your assistance. Don't mention it.
-- `Not at all`                      ([Neutral] とんでもない)        Thank you for your help. Not at all.
-- `My pleasure`                     ([Formal] 光栄です)             Thank you for your help. My pleasure.
-- `Happy to help`                   ([Casual] 喜んでお手伝いします) Thanks for the advice. Happy to help.
-- `No worries`                      ([Casual] 気にしないで)         Sorry I'm late. No worries.
-- `Of course`                       ([Neutral] もちろんです)        Thanks for letting me know. Of course.
-
 ## CAN'T BELIEVE ONE'S EYES
 > `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!
 - `couldn't believe one's ears`     ([Casual] 信じられない)         I couldn't believe my ears when they announced the winner.
@@ -423,3 +416,5 @@
   - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
   - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
 - `Murphy's Law is in full effect`  ([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
+
+- `the sky's the limit` /ðə skaɪz ðə ˈlɪmɪt/ ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.

@@ -1643,7 +1643,6 @@ exceedingly	6	【副】非常に
 exceptional	6	【形】例外的な、普通でない、優秀な		
 exceptionally	8	【副】例外的に、異常に、非常に		
 excerpt	9	【名】抜粋、引用 【動】抜粋する		
-excessive	5	【形】過度の、極端な		
 exchequer	12	【名】財務、資金、国庫		
 exclaim	5	【動】叫ぶ		
 exclamation	7	【名】感嘆の声、感嘆文		
@@ -3677,36 +3676,23 @@ redeem	9	【動】（商品券などを商品などと）引き換える、償�
 redemption	9	【名】償い、贖罪、救出		
 redress	12	【動】正す、苦痛を軽減する 【名】矯正		
 reduction	4	【名】減少、割引		
-redundancy	9	【名】過剰、余剰、冗長		
-redundant	8	【形】冗長な、余剰人員となった、非常に豊富な		
 reed	7	【名】アシ、リード 【動】アシで飾る、（楽器などに）舌をつける		
-reef	9	【名】礁、鉱脈		
 reel	6	【名】リール、糸巻き 【動】巻き取る		
 reelect	10	【動】再選する		
-referee	7	【名】審判員、調停者 【動】調停者を務める		
-reference	4	【名】参照、言及、参考文献 【動】参照をつける		
 referendum	10	【名】国民投票、住民投票		
 refill	8	【動】再び満たす、詰め替える、補充する 【名】リフィル、補給		
-refine	5	【動】精製する、補充する		
 refinement	7	【名】洗練、精製、上品、教養		
 reflective	6	【形】反射する、反射による		
 reflex	11	【名】反射神経（～es） 【形】反射性の、反動の		
-reformation	8	【名】改革、改良、矯正、感化		
-reformer	8	【名】改良者、改革論者		
 refreshment	6	【名】軽食、飲食物、元気回復		
 refurbish	10	【動】改装する、磨き直す		
 regal	11	【形】豪奢な、王の		
 regime	7	【名】政権、政体、制度		
 regimen	11	【名】（食事などの規制による）療法、養生法		
 regiment	9	【名】連隊 【動】連隊に編入する、厳しく訓練する		
-registry	11	【名】登記所、登録、記録簿		
-regression	10	【名】後戻り、復帰、後退、退歩、退化、退行		
 regrettable	7	【形】悲しむべき、残念な、痛ましい		
-regularity	6	【名】規則正しさ、均整、秩序		
-regularly	4	【副】定期的に、きちんと		
 regulator	10	【名】調節装置、取り締まる人		
 regulatory	10	【形】調整する、取り締まる		
-rehearsal	6	【名】リハーサル		
 rehearse	9	【動】稽古する、詳しく述べる		
 reign	6	【名】治世 【動】支配する		
 reimburse	8	【動】返済する、弁償する		
@@ -3725,14 +3711,7 @@ relevant	6	【形】関係のある、適切な、相当する
 reliance	8	【名】当てにすること、依存、信用		
 reliant	10	【形】頼っている		
 relic	8	【名】遺物、遺跡、残骸、遺品		
-religion	3	【名】宗教、宗派		
-religious	3	【形】信心深い、神聖な、宗教的な		
 relish	8	【名】味わうこと、楽しむこと、風味 【動】享受する、風味がある		
-relocate	6	【動】移転させる、再配置する		
-reluctance	7	【名】気が進まないこと、不本意		
-reluctant	5	【形】気乗りしない		
-reluctantly	9	【副】しぶしぶ、いやいやながら		
-remainder	6	【名】残り		
 reminisce	12	【動】思い出を語る、楽しく思い出す		
 reminiscence	9	【名】思い出、記憶		
 reminiscent	8	【形】思い出させる、連想させる		
@@ -4390,7 +4369,6 @@ sundry	12	【形】いろいろな、種々の
 sunken	9	【形】沈んだ、水中の、下がった		
 superb	7	【形】極上の、豪華な		
 superficial	8	【形】外見上の、浅薄な、実体のない		
-superfluous	10	【形】余分な、過度の、不適切な		
 superimpose	12	【動】重ねる、付加する		
 superintendent	9	【名】指導監督者、管理者 【動】監督する		
 superiority	8	【名】上位、優越、優勢		
@@ -4412,7 +4390,6 @@ surge	9	【動】波となって打ち寄せる、沸き上がる 【名】殺�
 surly	12	【形】無愛想な、苛だっている		
 surmount	10	【動】乗り越える、上にある		
 surpass	7	【動】上回る、より勝る		
-surplus	7	【形】残りの、余分の 【名】残り、余り、黒字		
 surrogate	11	【名】代理 【形】代理の 【動】代理にする		
 surveillance	10	【名】監視、監督		
 surveyor	10	【名】測量士、監視者、輸入品検査官		
@@ -4801,7 +4778,6 @@ vapor	7	【名】蒸気 【動】蒸発させる
 variable	7	【形】変わりやすい、移り気な 【名】変化するもの、変数		
 variant	10	【名】異なるもの、変形 【形】異なる、さまざまな		
 varied	6	【形】変化に富む、変えられた		
-variegated	12	【形】変化に富んだ、雑色の		
 variously	9	【副】さまざまに、さまざまな人によって		
 varnish	10	【名】ワニス、ニス、光沢、ごまかし		
 vat	12	【名】大樽、タンク、塩田 【動】大樽に入れる		

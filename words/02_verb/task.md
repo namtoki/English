@@ -1,6 +1,6 @@
 # Task
 
-## BASIC ACTION (SORT OUT / GET STRAIGHT / LOOK INTO / EXERCISE / CHOOSE / MAKE SURE / PROVE)
+## SORT OUT / GET STRAIGHT / LOOK INTO / CHECK OUT / FIND OUT / GO WITH / MAKE SURE / PROVE
 > `organize` /ˈɔːrɡənaɪz/           ([Neutral] 整理する、組織する)  I need to organize my files.
   > `sort out` /sɔːrt aʊt/          ([Casual] 整理する、解決する)   I'll sort out the paperwork.
   > `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
@@ -16,22 +16,30 @@
   - `align` /əˈlaɪn/                ([Neutral] 整列させる 調整する) Align the goals with strategy.
   - `declutter` /diːˈklʌtər/        ([Casual] 散らかりを片付ける)   Declutter your workspace.
 > `look into` /lʊk ˈɪntuː/          ([Neutral] 調べる、検討する)    I'll look into that issue.
-  - `find out` /faɪnd aʊt/          ([Neutral] 調べる、発見する)    I need to find out the truth.
-  - `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Let me check out this website.
-  - `study` /ˈstʌdi/                ([Neutral] 研究する、勉強する)  We need to study the problem.
+  > `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
+  > `dive into` /daɪv ˈɪntuː/       ([Casual] 飛び込む、詳しく調べ) I'll dive into the research.
+  > `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Let me check out this website.
+  - `drill down` /drɪl daʊn/        ([Neutral] 掘り下げる)          We need to drill down further.
+  - `pore over` /pɔːr ˈoʊvər/       ([Neutral] 熟読する)            She pored over the documents.
+  - `explore` /ɪkˈsplɔːr/           ([Neutral] 探索する、調べる)    Let's explore this option.
   - `research` /rɪˈsɜːrtʃ/          ([Formal] 研究する、調査する)   She's researching the topic.
   - `examine` /ɪɡˈzæmɪn/            ([Formal] 検査する、調べる)     The doctor examined the patient.
-  - `explore` /ɪkˈsplɔːr/           ([Neutral] 探索する、調べる)    Let's explore this option.
   - `investigate` /ɪnˈvestɪɡeɪt/    ([Formal] 調査する、捜査する)   Police are investigating the case.
   - `inspect` /ɪnˈspekt/            ([Formal] 検査する、調べる)     Inspectors examined the building.
   - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
-> `dig into` /dɪɡ ˈɪntuː/           ([Casual] 掘り下げる、調査する) We need to dig into the data.
   - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
-  - `dive into` /daɪv ˈɪntuː/       ([Casual] 飛び込む、詳しく調べ) I'll dive into the research.
-  - `drill down` /drɪl daʊn/        ([Neutral] 掘り下げる)          We need to drill down further.
-  - `get to the bottom of`          ([Casual] 真相を突き止める)     I'll get to the bottom of this.
-  - `pore over` /pɔːr ˈoʊvər/       ([Neutral] 熟読する)            She pored over the documents.
   - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
+> `find out` /faɪnd aʊt/            ([Neutral] 調べる、発見する)    I need to find out the truth.
+  - `figure out` /ˈfɪɡər aʊt/       ([Casual] 解明する、理解する)   We need to figure out what went wrong.
+  - `discover` /dɪˈskʌvər/          ([Neutral] 発見する)            We discovered the root cause.
+  - `uncover` /ʌnˈkʌvər/            ([Neutral] 明らかにする)        The investigation uncovered new evidence.
+  - `get to the bottom of`          ([Casual] 真相を突き止める)     I'll get to the bottom of this.
+  - `track down` /træk daʊn/        ([Neutral] 突き止める、追跡)    I'll track down the source of the error.
+  - `pin down` /pɪn daʊn/           ([Neutral] 特定する、明確にする) Let's pin down the exact problem.
+  - `nail down` /neɪl daʊn/         ([Casual] 確定する、特定する)   We need to nail down the details.
+  - `root out` /ruːt aʊt/           ([Neutral] 根本原因を見つける)  We must root out the problem.
+  - `ferret out` /ˈferɪt aʊt/       ([Neutral] 探り出す、発見する)  She ferreted out the information.
+  - `suss out` /sʌs aʊt/            ([British Casual] 見抜く、理解) I'll suss out what's going on.
 > `exercise` /ˈeksərsaɪz/           ([Neutral] 行使する、発動する)  They exercised their voting rights.
   - `wield` /wiːld/                 ([Neutral] 振るう、行使する)    She wields considerable influence.
   - `exert` /ɪɡˈzɜːrt/              ([Neutral] 及ぼす、行使する)    He exerted his authority to resolve the dispute.
@@ -47,18 +55,16 @@
   - `put into effect`               ([Neutral] 実施する 発効させる) The new law was put into effect.
   - `bring to bear` /brɪŋ tuː beər/ ([Neutral] 及ぼす、行使する)    They brought pressure to bear on the decision.
 > `choose` /tʃuːz/                  ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
-  - `pick` /pɪk/                    ([Casual] 選ぶ、取る)           Pick whichever one you like.
-  - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the red one, please.
-  - `prefer` /prɪˈfɜːr/             ([Neutral] 好む、選好する)      I prefer coffee over tea.
-  - `decide on` /dɪˈsaɪd ɑːn/       ([Neutral] 決める、決定する)    Have you decided on a date yet?
+  > `pick` /pɪk/                    ([Casual] 選ぶ、取る)           Pick whichever one you like.
   > `go with` /ɡoʊ wɪð/             ([Casual] 選ぶ、一緒に行く)     I'll go with the blue option.
+  > `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the red one, please.
+  - `decide on` /dɪˈsaɪd ɑːn/       ([Neutral] 決める、決定する)    Have you decided on a date yet?
   > `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、狙う)           I think I'll go for the chocolate cake.
   - `select` /sɪˈlekt/              ([Formal] 選択する、選出する)   We need to select the best candidate.
   - `stick with` /stɪk wɪð/         ([Casual] 続ける、固執する)     Let's stick with the original plan.
-  > `narrow down` /ˈnæroʊ daʊn/     ([Neutral] 絞り込む)            We need to narrow down our options.
-  - `favor` /ˈfeɪvər/               ([Neutral] 好む、支持する)      Most people favor this approach.
-  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
   - `opt for` /ɑːpt fɔːr/           ([Formal] 選択する、決める)     We opted for the premium package.
+  > `narrow down` /ˈnæroʊ daʊn/     ([Neutral] 絞り込む)            We need to narrow down our options.
+  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    After much debate, we settled on Tuesday.
   - `lean towards` /liːn təˈwɔːrdz/ ([Casual] 傾く、偏る)           I'm leaning towards the first option.
   - `single out` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す)            She singled out the best performer.
   - `fall back on` /fɔːl bæk ɑːn/   ([Neutral] 頼る、選ぶ)          We can fall back on Plan B.
@@ -67,16 +73,14 @@
   - `plump for` /plʌmp fɔːr/        ([British] 選ぶ、決める)        I'll plump for the chocolate dessert.
 > `check` /tʃek/                    ([Casual] 確認する チェックる)  Let me check if that's correct.
   - `double-check` /ˈdʌbəl tʃek/    ([Casual] 再確認する)           Please double-check the numbers.
-  - `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Check out if the store is open.
+  - `cross-check` /ˈkrɔs tʃek/      ([Neutral] 照合確認する)        Let's cross-check the data.
   > `make sure` /meɪk ʃʊr/          ([Casual] 確かめる)             Make sure you lock the door.
   - `see if` /si ɪf/                ([Casual] ～かどうか確認する)   I'll see if she's available.
-  - `find out` /faɪnd aʊt/          ([Casual] 確かめる、調べる)     Find out what time it starts.
   - `confirm` /kənˈfɜrm/            ([Neutral] 確認する)            Can you confirm the meeting time?
   - `reconfirm` /ˌriːkənˈfɜrm/      ([Neutral] 再確認する)          Let's reconfirm the details.
   - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする)          Please ensure all forms are signed.
   - `verify` /ˈvɛrɪfaɪ/             ([Formal] 検証する、確認する)   Please verify your email address.
   - `validate` /ˈvælɪdeɪt/          ([Formal] 検証する、妥当性確認) The system will validate your input.
-  - `cross-check` /ˈkrɔs tʃek/      ([Neutral] 照合確認する)        Let's cross-check the data.
   - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
 > `prove` /pruv/                    ([Neutral] 証明する)            She proved her innocence.
   - `show` /ʃoʊ/                    ([Casual] 示す、見せる)         The results show that it works.
@@ -100,16 +104,27 @@
   - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
 
-## WORK ON / GET STARTED ON / TACKLE / GET ON WITH / DIVE INTO
+## hoge
 > `work on` /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
-  - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
-  - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
-  - `be going to work on`           ([Neutral] 作業する予定である)  I'm going to work on this tomorrow.
-  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
-    - `begin` /bɪˈɡɪn/              ([Formal] 始める、開始する)     Let's begin with the first task.
-> `get started on`                  ([Neutral] 着手する、始める)    Let's get started on the analysis.
 > `tackle` /ˈtækəl/                 ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
 > `get on with` /ɡet ɑːn wɪð/       ([Casual] 取り掛かる、進める)   Let's get on with the task.
+> `deal with` /diːl wɪð/            ([Neutral] 対処する、扱う)      We need to deal with this issue.
+> `handle` /ˈhændəl/                ([Neutral] 扱う、処理する)      Can you handle this task?
+> `address` /əˈdres/                ([Formal] 対処する、取り組む)   We must address these concerns.
+- `focus on` /ˈfoʊkəs ɑːn/          ([Neutral] 集中する、取り組む)  We're focusing on this problem.
+- `work through` /wɜːrk θruː/       ([Neutral] やり抜く、解決する)  We're working through the issues.
+- `attend to` /əˈtend tuː/          ([Formal] 対処する、世話する)   I'm attending to this matter.
+- `engage with` /ɪnˈɡeɪdʒ wɪð/      ([Formal] 取り組む、関わる)     We're engaging with the challenge.
+- `grapple with` /ˈɡræpəl wɪð/      ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
+- `wrestle with` /ˈresəl wɪð/       ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
+- `apply oneself to` /əˈplaɪ/       ([Formal] 専念する、取り組む)   He's applying himself to the task.
+
+## hige
+  - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
+  - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
+  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
+    - `begin` /bɪˈɡɪn/              ([Formal] 始める、開始する)     Let's begin with the first task.
+  > `get started on`                  ([Neutral] 着手する、始める)    Let's get started on the analysis.
 > `dive into` /daɪv ˈɪntuː/         ([Casual] 飛び込む、没頭する)   Let's dive into the details.
   - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] 始める、着手する)    She launched into her presentation.
   - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] 飛び込む、着手する)   Let's jump into the discussion.
@@ -121,12 +136,10 @@
 - `set out to` /set aʊt tuː/        ([Neutral] 着手する、目指す)    We set out to improve efficiency.
 - `turn to` /tɜːrn tuː/             ([Neutral] 取りかかる、向かう)  Let's turn to the next agenda item.
 - `get to` /ɡet tuː/                ([Neutral] とりかかる)          I'll get to it as soon as I can.
+
 - `get around to` /ɡet əˈraʊnd tuː/ ([Neutral] やっと～する)        I'll get around to fixing it soon.
 
 ## DEAL WITH / HANDLE / ADDRESS
-> `deal with` /diːl wɪð/            ([Neutral] 対処する、扱う)      We need to deal with this issue.
-> `handle` /ˈhændəl/                ([Neutral] 扱う、処理する)      Can you handle this task?
-> `address` /əˈdres/                ([Formal] 対処する、取り組む)   We must address these concerns.
 > `manage` /ˈmænɪdʒ/                ([Neutral] 管理する、対処する)  I can manage this situation.
 > `take care of` /teɪk keər əv/     ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
 > `cope with` /koʊp wɪð/            ([Neutral] 対処する、対応する)  How do you cope with stress?
