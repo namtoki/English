@@ -1,6 +1,6 @@
 # Task
 
-## SORT OUT / GET STRAIGHT / LOOK INTO / CHECK OUT / FIND OUT / GO WITH / MAKE SURE / PROVE
+## ANALYSIS (SORT OUT / GET STRAIGHT / LOOK INTO / CHECK OUT / FIND OUT / GO WITH / MAKE SURE / PROVE)
 > `organize` /ˈɔːrɡənaɪz/           ([Neutral] 整理する、組織する)  I need to organize my files.
   > `sort out` /sɔːrt aʊt/          ([Casual] 整理する、解決する)   I'll sort out the paperwork.
   > `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
@@ -104,55 +104,62 @@
   - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
 
-## hoge
+## TASK (WORK ON / GET STARTED ON / GET TO / GET DOWN TO / GET ON WITH / GO ABOUT)
 > `work on` /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
-> `tackle` /ˈtækəl/                 ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
-> `get on with` /ɡet ɑːn wɪð/       ([Casual] 取り掛かる、進める)   Let's get on with the task.
-> `deal with` /diːl wɪð/            ([Neutral] 対処する、扱う)      We need to deal with this issue.
-> `handle` /ˈhændəl/                ([Neutral] 扱う、処理する)      Can you handle this task?
-> `address` /əˈdres/                ([Formal] 対処する、取り組む)   We must address these concerns.
-- `focus on` /ˈfoʊkəs ɑːn/          ([Neutral] 集中する、取り組む)  We're focusing on this problem.
-- `work through` /wɜːrk θruː/       ([Neutral] やり抜く、解決する)  We're working through the issues.
-- `attend to` /əˈtend tuː/          ([Formal] 対処する、世話する)   I'm attending to this matter.
-- `engage with` /ɪnˈɡeɪdʒ wɪð/      ([Formal] 取り組む、関わる)     We're engaging with the challenge.
-- `grapple with` /ˈɡræpəl wɪð/      ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
-- `wrestle with` /ˈresəl wɪð/       ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
-- `apply oneself to` /əˈplaɪ/       ([Formal] 専念する、取り組む)   He's applying himself to the task.
-
-## hige
+  > `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
+  > `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
+  > `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
+  > `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
+  - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する、取り組む)  We're focusing on this problem.
+  - `work through` /wɜːrk θruː/     ([Neutral] やり抜く、解決する)  We're working through the issues.
+  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'm attending to this matter.
+  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We're engaging with the challenge.
+  - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
+  - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
+  - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He's applying himself to the task.
+> `get started on`                  ([Neutral] 着手する、始める)    Let's get started on the analysis.
+  > `get to` /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
+  > `get down to` /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
+  > `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
   - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
   - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
+  - `begin` /bɪˈɡɪn/                ([Formal] 始める、開始する)     Let's begin with the first task.
   - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
-    - `begin` /bɪˈɡɪn/              ([Formal] 始める、開始する)     Let's begin with the first task.
-  > `get started on`                  ([Neutral] 着手する、始める)    Let's get started on the analysis.
-> `dive into` /daɪv ˈɪntuː/         ([Casual] 飛び込む、没頭する)   Let's dive into the details.
-  - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] 始める、着手する)    She launched into her presentation.
-  - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] 飛び込む、着手する)   Let's jump into the discussion.
-- `embark on` /ɪmˈbɑːrk ɑːn/        ([Formal] 着手する、乗り出す)   We're embarking on a new project.
-- `take up` /teɪk ʌp/               ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
-- `set about` /set əˈbaʊt/          ([Neutral] 取り掛かる 着手する) Let's set about solving this.
-- `kick off` /kɪk ɔːf/              ([Casual] 開始する、始める)     We'll kick off the project next week.
-- `get down to` /ɡet daʊn tuː/      ([Neutral] 本格的に取り組む)    Let's get down to business.
-- `set out to` /set aʊt tuː/        ([Neutral] 着手する、目指す)    We set out to improve efficiency.
-- `turn to` /tɜːrn tuː/             ([Neutral] 取りかかる、向かう)  Let's turn to the next agenda item.
-- `get to` /ɡet tuː/                ([Neutral] とりかかる)          I'll get to it as soon as I can.
-
-- `get around to` /ɡet əˈraʊnd tuː/ ([Neutral] やっと～する)        I'll get around to fixing it soon.
-
-## DEAL WITH / HANDLE / ADDRESS
+  > `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
+  - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
+  > `jump into` /dʒʌmp ˈɪntuː/      ([Casual] [すぐ] 飛び込む)        Let's jump into the discussion.
+  - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
+  > `set about` /set əˈbaʊt/        ([Neutral] [計画的] 取り掛かる)   Let's set about solving this.
+  - `kick off` /kɪk ɔːf/            ([Casual] 開始する、始める)     We'll kick off the project next week.
+  - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
 > `manage` /ˈmænɪdʒ/                ([Neutral] 管理する、対処する)  I can manage this situation.
-> `take care of` /teɪk keər əv/     ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
-> `cope with` /koʊp wɪð/            ([Neutral] 対処する、対応する)  How do you cope with stress?
-- `approach` /əˈproʊtʃ/             ([Neutral] 取り組む、接近する)  How should we approach this problem?
-- `go about` /ɡoʊ əˈbaʊt/           ([Neutral] 取り組む、着手する)  How do you go about fixing this?
-- `focus on` /ˈfoʊkəs ɑːn/          ([Neutral] 集中する 焦点を当て) Let's focus on the main problem.
-- `engage with` /ɪnˈɡeɪdʒ wɪð/      ([Formal] 取り組む、関わる)     We need to engage with stakeholders.
-- `attend to` /əˈtend tuː/          ([Formal] 対処する、世話する)   I'll attend to this matter immediately.
-- `grapple with` /ˈɡræpəl wɪð/      ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
-- `wrestle with` /ˈresəl wɪð/       ([Neutral] 格闘する、苦心する)  I'm wrestling with this decision.
-- `confront` /kənˈfrʌnt/            ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
-- `see to` /siː tuː/                ([Neutral] 処理する 面倒を見る) I'll see to that right away.
-- `apply oneself to` /əˈplaɪ/       ([Formal] 専念する、取り組む)   He applied himself to the task.
+  > `go about` /ɡoʊ əˈbaʊt/         ([Neutral] 取り組む、着手する)  How do you go about fixing this?
+  - `take care of` /teɪk keər əv/   ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
+    - `see to` /siː tuː/            ([Neutral] 処理する 面倒を見る) I'll see to that right away.
+  - `cope with` /koʊp wɪð/          ([Neutral] 対処する、対応する)  How do you cope with stress?
+  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
+  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'll attend to this matter immediately.
+  - `confront` /kənˈfrʌnt/          ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
+
+## MEETING (DISCUSS / TAKE UP / MOVE ON TO / )
+> `discuss` /dɪˈskʌs/               ([Neutral] 議論する、話し合う)  We'll discuss this issue next week.
+  > `take up` /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
+  - `address` /əˈdres/              ([Neutral] 取り組む、対処する)  We'll address this issue next week.
+  - `look at` /lʊk æt/              ([Neutral] 検討する、見る)      We'll look at this issue next week.
+  - `cover` /ˈkʌvər/                ([Neutral] 扱う、カバーする)    We'll cover this issue next week.
+  - `talk about` /tɔːk əˈbaʊt/      ([Casual] 話し合う)             We'll talk about this issue next week.
+> `move on to` /muːv ɑːn tuː/       ([Neutral] 次に進む、移る)      Let's move on to the next topic.
+  - `go to` /ɡoʊ tuː/               ([Neutral] 移る、向かう)        Let's go to the next agenda item.
+  - `move to` /muːv tuː/            ([Neutral] 移る、移動する)      Let's move to the next agenda item.
+  - `get to` /ɡet tuː/              ([Neutral] 取りかかる、到達する)Let's get to the next agenda item.
+  - `proceed to` /prəˈsiːd tuː/     ([Formal] 進む、移る)           Let's proceed to the next agenda item.
+  - `turn to` /tɜːrn tuː/           ([Neutral] 取りかかる、向かう)  Let's turn to the next agenda item.
+  - `continue with` /kənˈtɪnjuː wɪð/([Neutral] 続ける、継続する)    Let's continue with the next agenda item.
+  - `shift to` /ʃɪft tuː/           ([Neutral] 切り替える、移る)    Let's shift to the next agenda item.
+  - `switch to` /swɪtʃ tuː/         ([Neutral] 切り替える、変える)  Let's switch to the next agenda item.
+  - `advance to` /ədˈvæns tuː/      ([Formal] 進む、前進する)       Let's advance to the next agenda item.
+  - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
+  - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
 
 ## CARRY OUT / PUT INTO PRACTICE / PUT INTO ACTION / WORK THROUGH
 > `carry out` /ˈkæri aʊt/           ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.

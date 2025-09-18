@@ -1,14 +1,6 @@
 # Conflict
 
-## PHYSICAL ATTACK (HURT / SMACK)
-> `hurt` /hɜːrt/                    ([Neutral] 傷つける)            You hurt my feelings.
-  - `upset` /ʌpˈset/                ([Neutral] 動揺させる)          The news upset everyone.
-  - `offend` /əˈfend/               ([Neutral] 不快にさせる)        I didn't mean to offend you.
-  - `insult` /ɪnˈsʌlt/              ([Neutral] 侮辱する)            Don't insult his intelligence.
-  - `disrespect` /ˌdɪsrɪˈspekt/     ([Neutral] 失礼な態度を取る)    Don't disrespect your elders.
-  - `slight` /slaɪt/                ([Neutral] 軽視する)            I didn't mean to slight you.
-  - `wound` /wuːnd/                 ([Formal] 深く傷つける)         Her words wounded him deeply.
-  - `affront` /əˈfrʌnt/             ([Formal] 侮辱、怒らせる)       His comment was an affront to my dignity.
+## PHYSICAL ATTACK (SMACK)
 > `smack` /smæk/                    ([Casual] 叩く)                 She smacked him across the face.
   - `rap` /ræp/                     ([Neutral] 叩く、ノックする)    He rapped on the door loudly.
   - `whack` /wæk/                   ([Casual] 強く打つ)             She whacked the piñata with a stick.
@@ -18,12 +10,13 @@
   - `wallop` /ˈwɒləp/               ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
   - `thwack` /θwæk/                 ([Casual] 強打音)               The thwack of the bat hitting the ball.
 
-## PSYCHOLOGICAL ATTACK (WORRY / BOTHER / FRUSTRATE / EMBARRASS)
+## PSYCHOLOGICAL ATTACK (WORRY / DISTRESS / BOTHER / HURT / INSULT / EMBARRASS / OFFEND / FRUSTRATE)
 > `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.
   - `concern` /kənˈsɜːrn/           ([Neutral] 心配させる)          Rising prices concern everyone.
   - `disturb` /dɪˈstɜːrb/           ([Neutral] 動揺させる)          Don't disturb him while working.
-  - `distress` /dɪˈstres/           ([Neutral] 苦痛を与える)        The news distressed the family.
+  - `upset` /ʌpˈset/                ([Neutral] 動揺させる)          The news upset everyone.
   - `haunt` /hɔːnt/                 ([Neutral] つきまとう)          The memory haunts me still.
+> `distress` /dɪˈstres/             ([Neutral] 苦痛を与える)        The news distressed the family.
   - `plague` /pleɪɡ/                ([Neutral] 苦しめる)            Doubts plagued him all night.
   - `torment` /tɔːrˈment/           ([Neutral] 苦しめる)            Guilt tormented her for years.
   - `torture` /ˈtɔːrtʃər/           ([Neutral] 拷問する、苦しめる)  Guilt tortured him endlessly.
@@ -40,6 +33,19 @@
   - `bedevil` /bɪˈdevəl/            ([Formal] 悩ます)               Technical issues bedeviled the launch.
   - `beleaguer` /bɪˈliːɡər/         ([Formal] 困らせる)             The team was beleaguered by injuries.
   - `persist` /pərˈsɪst/            ([Neutral] しつこく悩ませる)    The problem persists despite efforts.
+> `hurt` /hɜːrt/                    ([Neutral] 傷つける)            You hurt my feelings.
+  - `wound` /wuːnd/                 ([Formal] 深く傷つける)         Her words wounded him deeply.
+> `insult` /ɪnˈsʌlt/                ([Neutral] 侮辱する)            Don't insult his intelligence.
+  - `affront` /əˈfrʌnt/             ([Formal] 侮辱、怒らせる)       His comment was an affront to my dignity.
+  - `dishonor` /dɪsˈɑnər/           ([Formal] 名誉を傷つける)       The scandal dishonored his reputation.
+> `embarrass` /ɪmˈbærəs/            ([Neutral] 恥をかかせる)        Don't embarrass me in public.
+  - `shame` /ʃeɪm/                  ([Neutral] 恥をかかせる)        She tried to shame him into apologizing.
+  - `ashamed` /əˈʃeɪmd/             ([Neutral] 恥ずかしい)          He felt ashamed of his behavior.
+  - `humiliate` /hjuˈmɪlɪeɪt/       ([Formal] 屈辱する)             She humiliated him in front of everyone.
+  - `disgrace` /dɪsˈɡreɪs/          ([Formal] 恥辱、不名誉)         His behavior was a disgrace to the family.
+  - `mortify` /ˈmɔrtəfaɪ/           ([Writing] 死ぬほど恥ずかし)    I was mortified by my mistake.
+> `offend` /əˈfend/                 ([Neutral] 不快にさせる)        I didn't mean to offend you.
+  - `disrespect` /ˌdɪsrɪˈspekt/     ([Neutral] 失礼な態度を取る)    Don't disrespect your elders.
 > `frustrate` /ˈfrʌstreɪt/          ([Neutral] 欲求不満にさせる)    The lack of progress frustrates me.
   - `annoy` /əˈnɔɪ/                 ([Neutral] いらだたせる)        The noise really annoys me.
   - `irritate` /ˈɪrɪteɪt/           ([Neutral] いらだたせる)        His attitude irritates everyone.
@@ -65,13 +71,7 @@
   - `outrage` /ˈaʊtreɪdʒ/           ([Neutral] 激怒させる)          His comments outraged the community.
 - `lose one's temper`               ([Neutral] かっとなる)          Don't lose your temper with them.
 - `blow up` /bloʊ ʌp/               ([Casual] 爆発する、怒る)       He blew up when he heard the news.
-> `embarrass` /ɪmˈbærəs/            ([Neutral] 恥をかかせる)        Don't embarrass me in public.
-  - `shame` /ʃeɪm/                  ([Neutral] 恥をかかせる)        She tried to shame him into apologizing.
-  - `ashamed` /əˈʃeɪmd/             ([Neutral] 恥ずかしい)          He felt ashamed of his behavior.
-  - `humiliate` /hjuˈmɪlɪeɪt/       ([Formal] 屈辱する)             She humiliated him in front of everyone.
-  - `disgrace` /dɪsˈɡreɪs/          ([Formal] 恥辱、不名誉)         His behavior was a disgrace to the family.
-  - `dishonor` /dɪsˈɑnər/           ([Formal] 名誉を傷つける)       The scandal dishonored his reputation.
-  - `mortify` /ˈmɔrtəfaɪ/           ([Writing] 死ぬほど恥ずかし)    I was mortified by my mistake.
+- `slight` /slaɪt/                  ([Neutral] 軽視する)            I didn't mean to slight you.
 
 ## VERBAL ATTACK (INTERFERE WITH / MESS WITH / ARGUE / LAUGH AT / IGNORE)
 > `interfere with`                  ([Neutral] ～に干渉する)        Don't interfere with their plans.
