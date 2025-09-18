@@ -7,11 +7,37 @@
 - `permission` /pərˈmɪʃən/           ([Neutral] 許可)                Ask for permission before entering.
 - `authorization` /ˌɔːθərəˈzeɪʃən/   ([Formal] 認可、授権)            You need authorization to access this.
 - `acquiescence` /ˌækwiˈesəns/       ([Formal] 黙認、容認)            His silence implied acquiescence.
+- `hedonism` /ˈhiːdənɪzəm/          ([Formal] 快楽主義)            His lifestyle embraces hedonism.
+  - `hedonist` /ˈhiːdənɪst/         ([Formal] 快楽主義者)          He's a self-proclaimed hedonist.
+  - `hedonistic` /ˌhiːdəˈnɪstɪk/     ([Formal] 快楽主義的な)        Their hedonistic lifestyle shocked many.
+- `epicureanism` /ˌepɪkjʊˈriːənɪzəm/ ([Writing] 快楽主義、美食主義)  His epicureanism was well known.
+- `indulgence` /ɪnˈdʊldʒəns/        ([Neutral] 放縦、甘やかし)       His indulgence in luxury was excessive.
+- `self-gratification`              ([Neutral] 自己満足)          The pursuit of self-gratification.
+- `pleasure-seeking`                ([Neutral] 快楽追求)          His pleasure-seeking behavior worried us.
+- `decadence` /ˈdekədəns/           ([Neutral] 退廃、堕落)          The decadence of the empire.
+- `diplomacy` /dɪˈploʊməsi/         ([Formal] 外交、外交手腕)        Diplomacy prevented the conflict.
+  - `diplomat` /ˈdɪpləmæt/          ([Formal] 外交官)              The diplomat negotiated the treaty.
+  - `diplomatic` /ˌdɪpləˈmætɪk/      ([Formal] 外交的な、如才ない)    She gave a diplomatic answer.
+  - `diplomatically` /ˌdɪpləˈmætɪkli/ ([Formal] 外交的に)            He diplomatically avoided the topic.
+- `tact` /tækt/                     ([Neutral] 機転、如才)           She handled it with tact.
+  - `tactful` /ˈtæktfəl/             ([Neutral] 機転の利く)          Be tactful when you tell him.
+  - `tactfully` /ˈtæktfəli/          ([Neutral] 機転を利かせて)      She tactfully changed the subject.
+- `negotiation` /nɪˌɡoʊʃiˈeɪʃən/    ([Neutral] 交渉)              The negotiation took weeks.
+- `mediation` /ˌmiːdiˈeɪʃən/        ([Formal] 調停、仲介)          Mediation resolved the dispute.
+- `statesmanship` /ˈsteɪtsmənʃɪp/   ([Formal] 政治手腕)            His statesmanship was admired.
 - `continuum` /kənˈtɪnjuəm/         ([Formal] 連続体、範囲)          Political views exist on a continuum.
 - `pedestal` /ˈpedɪstəl/            ([Neutral] 台座、高い地位)        The statue stands on a marble pedestal.
 
 ## CONTAINERS
 - `pail` /peɪl/                     ([Neutral] バケツ、桶)           She carried water in a pail.
+
+## PLACES
+- `nook` /nʊk/                      ([Neutral] 隅、片隅)            She found a cozy reading nook.
+- `cranny` /ˈkræni/                 ([Neutral] 割れ目、隙間)         Every nook and cranny.
+- `corner` /ˈkɔːrnər/               ([Neutral] 角、隅)              He sat in the corner.
+- `alcove` /ˈælkoʊv/                ([Neutral] 壁の凹み、床の間)     The bed fits in the alcove.
+- `recess` /rɪˈses/                 ([Neutral] 凹み、隠れ場所)       A hidden recess in the wall.
+- `crevice` /ˈkrevɪs/               ([Neutral] 裂け目、割れ目)       Water seeped through the crevice.
 
 ## SUBJECT
 - `subject` /ˈsʌbdʒɪkt/             ([Neutral] 主題、科目)          Math is my favorite subject.

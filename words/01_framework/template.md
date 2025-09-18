@@ -1,27 +1,29 @@
 # Template
 
-## HOW'S IT GOING / HOW'VE YOU BEEN / WHAT'S UP
-- `How are you?`                    ([Formal] いかがですか？)       How are you today?
-- `How are you doing?`              ([Neutral] お元気ですか？)      How are you doing lately?
+## INITIATION (HOW'S IT GOING / IT'S BEEN A WHILE / DO YOU HAVE A MINUTE? / YOU KNOW? / ARE YOU OKAY? / HERE WE GO)
 > `How's it going?`                 ([Casual] 調子はどう？)         How's it going with work?
-- `How are things?`                 ([Casual] 最近どう？)           How are things at home?
-- `How's your day going?`           ([Casual] 今日の調子はどう？)   How's your day going so far?
-> `How've you been?`                ([Casual] 元気だった？)         How've you been since last time?
-> `What's up?`                      ([Casual] どう？何してる？)     What's up with you?
-
-## DO YOU HAVE A MINUTE? / YOU KNOW? / ARE YOU OKAY? / ALL GOOD?
+  > `How've you been?`              ([Casual] 元気だった？)         How've you been since last time?
+  > `What's up?`                    ([Casual] どう？何してる？)     What's up with you?
+  - `How are you?`                  ([Formal] いかがですか？)       How are you today?
+  - `How are you doing?`            ([Neutral] お元気ですか？)      How are you doing lately?
+  - `How are things?`               ([Casual] 最近どう？)           How are things at home?
+  - `How's your day going?`         ([Casual] 今日の調子はどう？)   How's your day going so far?
+> `It's been a while`               ([Casual] 久しぶり)             It's been a while. How have you been?
+  - `It's been a month since S V`   ([Neutral] S V ぶり)            It's been a month since we met the last time.
+  - `I haven't seen you in O`       ([Neutral] Oぶり)               I haven't seen you in a month.
+  - `Hey, stranger!`                ([Casual] 珍しいね)             Hey, stranger! Long time no see.
 > `Do you have a minute?`           ([Casual] ちょっといい？)       Do you have a minute to discuss this?
   - `Do you have time?`             ([Neutral] お時間ありますか？)  Do you have time to talk?
   - `Is this a good time?`          ([Casual] 今いい？)             Is this a good time to call?
   - `Can I borrow you for a second?`([Casual] ちょっといい？)       Can I borrow you for a second? I need your advice.
   - `(Did) You wanted to see me?`   ([Casual] お呼びですか？)       (Did) You wanted to see me? I’m here now.
 > `You know O?`                     ([Casual] 知っていますか？)     You know our budget presentation today?
+  > `You know what`                 ([Casual] あのさ)               You know what, I'm going to get an ice cream cone.
   - `You know how S V?`             ([Casual] ～ってわかるでしょ？) You know how people always say time flies?
   - `Remember when S V?`            ([Casual] 覚えてる？したとき)   Remember when we got lost in Tokyo? That was wild.
     - `Do you remember that O?`     ([Casual] 覚えている？)         Do you remember that bike at ABC Department Store?
   - `Did you hear O?`               ([Casual] 聞きました？)         Did you hear about Kim? She got promoted.
-- `I told you O, right?`            ([Casual] 〜って言ったよね？)   I told you it was going to rain, right? Now look at the sky!
-- `I'd like to ask you a favor.`    ([Casual] お願いがあるんだけど) I'd like to ask you a favor regarding the report.
+  - `I told you O, right?`          ([Casual] 〜って言ったよね？)   I told you it was going to rain, right? Now look at the sky!
 > `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
   - `You okay?`                     ([Casual] 大丈夫？)             You okay? You seem quiet today.
   > `All good?`                     ([Casual] 大丈夫？)             All good? Ready to continue?
@@ -31,6 +33,15 @@
   - `Is everything okay?`           ([Neutral] すべて大丈夫？)      Is everything okay at home?
   - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
   - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
+> `I've got it!`                    ([Casual] そうだ！)             Wait — I've got it! What if we try a rotating schedule?"
+> `Here we go`                      ([Casual] さぁ！)               Here we go! Your dinner is ready!
+  - `Here we go`                    ([Casual] はじめましょう)       Have you prepared everything? OK, `here we go`!
+  - `Here we go`                    ([Casual] ハイチーズ)           Sure! Line up in front of that statue! 3, 2, 1, `here we go`!
+  - `Here we are`                   ([Casual] 着いた！)             `Here we are!` Home sweet home.
+  - `Here you go/are`               ([Casual] どうぞ)               `Here you go`. This is the doll you wanted.
+  - `There we go.`                  ([Casual] ほらね／できたよ)     `There we go.` The printer is working again.
+  - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
+  - `There you go.`                 ([Casual] どうぞ／その調子)     I’m going to go for it! / Yeah, `There you go`!
 
 ## GOT IT / WILL DO / UNDERSTOOD / THAT MAKES SENSE / I'M FINE WITH / I'M OKAY WITH / ANY O WILL DO / THAT'S THE WAY IT IS
 > `Got it`                          ([Casual] 了解です)             Please finish by 5. Got it.
@@ -200,6 +211,7 @@
   - `Would you be able to V?`       ([Neutral] できますか？)        Would you be able to attend?
   - `Would you be willing to V?`    ([Neutral] してもらえますか？)  Would you be willing to help?
   - `Would you mind V-ing?`         ([Polite] してもらえません？)   Would you mind opening the window?
+  - `I'd like to ask you a favor.`  ([Casual] お願いがあるんだけど) I'd like to ask you a favor regarding the report.
 
 ## COULD I / CAN I / IS IT OK IF
 > `Can I V?`                        ([Casual] してもいい？)         Can I ask you something?
@@ -373,25 +385,6 @@
 - [ ] `mum's the word`                      ([Casual] 内緒にしてね) `Mum's the word` about the surprise party.
 - [ ] `why`                                 ([Casual] おや／あら) `Why,` I didn’t expect to see you here!
 - [ ] `that's the way S V`                  ([Neutral] このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
-
-## 久しぶり
-- [x] `Hey, stranger!`                      ([Casual] 珍しいね) `Hey, stranger!` Long time no see.
-- [x] `It's been a while`                   ([Casual] 久しぶり) `It's been a while.` How have you been?
-- [x] `It's been a month since S V`         ([Neutral] S V ぶり) `It's been a month since` we met the last time.
-- [x] `I haven't seen you in O`             ([Neutral] Oぶり) `I haven't seen you in` a month.
-
-## 掛け声
-- [ ] `I've got it!`                        ([Casual] そうだ！) Wait — `I've got it!` What if we try a rotating schedule?"
-- [ ] `I have an idea!`                     ([Neutral] いい案があるよ！) `I have an idea!` Why don’t we bring in a third-party consultant?
-- [ ] `You know what`                       ([Casual] あのさ) `You know what,` I'm going to get an ice cream cone.
-- [ ] `Here we go`                          ([Casual] さぁ！) `Here we go!` Your dinner is ready! / `Here we go!` That is the building we were talking about.
-- [ ] `Here we go`                          ([Casual] ハイチーズ) Sure! Line up in front of that statue! 3, 2, 1, `here we go`!
-- [ ] `Here we go`                          ([Casual] はじめましょう) Have you prepared everything? OK, `here we go`!
-- [ ] `Here we are`                         ([Casual] 着いた！) `Here we are!` Home sweet home.
-- [ ] `Here you go/are`                     ([Casual] どうぞ) `Here you go`. This is the doll you wanted.
-- [ ] `There we go.`                        ([Casual] ほらね／できたよ) `There we go.` The printer is working again.
-- [ ] `There we are.`                       ([Casual] よし！) Well, `there we are`. I've finally finished my homework.
-- [ ] `There you go.`                       ([Casual] どうぞ／その調子) I’m going to go for it! / Yeah, `There you go`!
 
 ## CAN'T BELIEVE ONE'S EYES
 > `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!
