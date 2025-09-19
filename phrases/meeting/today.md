@@ -1,32 +1,42 @@
 # TODAY
 
-## Federated Login
+Hello, my name is Toshiyuki Tanamura, and I usually go by Tana `short for` Tanamura.
 
-As for federated login,
+I've been at this company for about two years.
+Before joining here, I was involved in developing storage software, drone software, and a little bit Android applications.
 
-while this feature isn't currently supported by the Nura Server (AWS EC2-based),
-the Denon Headphone App source code shows some federated login APIs.
+Now I've `been working on` headphone product development, specifically PerL2, which is the successor to PerL1.
+I'm a member of the Software Project Management team. We have another member in Shirakawa,
+so our team consists of two people including myself.
 
-I've inquired about feasibility and implementation effort to the server team, but the team hasn't responded yet.
+This is Denon & Marantz's first attempt at developing TWS headphones `in-house`,
+so this project is quite challenging for us.
 
-Since they've answered other questions, this may be a particularly complex issue for them.
-So, it might require significant development effort from both app and server teams.
+I think there are two key points:
 
-## 6 digits
+First,
+and this isn't software related,
+PerL1 has a critical downside: it's too big and heavy.
+Our mechanical engineers and designers are `addressing` this,
+and PerL2 will be much more compact compared to PerL1.
 
-The 6-digit login system is known as a "passwordless method" or "one-time password" (OTP).
+Second,
+this is software-related:
+the personalization functionality called AAT in PerL1.
+As you know, the AAT technology belongs to the Nura team, which was originally `a separate company`
+but merged with us recently.
 
-To me, in my opinion, this method is perfectly valid.
+That team will remain on the Masimo side after the Harman merger `concludes`.
 
-It's actually becoming popular in the SaaS industry
-  —platforms like Slack, Notion, Udemy and etc use OTP authentication.
+So we need to find an alternative solution or develop one ourselves.
+and, we ended up deciding to adopt a third-party vendor solution called Mimi.
 
-The main benefit is that users don't need to remember complex passwords.
-This isn't an outdated method;
-it's actually a current best practice in the first place.
+These are the two key challenges, I believe.
 
-The effort required to switch to a password-based method doesn't justify the benefits at all.
+At the same time,
+I see this project as our first step toward developing TWS headphones in-house.
+In this project, an ODM vendor will design and implement almost all the software,
+but we're planning to have them share the source code with us.
+This will allow us to dive deep into the TWS headphone software world.
 
-## Spatial Audio
-
-
+I'm excited to `get our hands on it soon`."
