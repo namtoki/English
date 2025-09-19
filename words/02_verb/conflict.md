@@ -21,6 +21,7 @@
   - `torment` /tɔːrˈment/           ([Neutral] 苦しめる)            Guilt tormented her for years.
   - `torture` /ˈtɔːrtʃər/           ([Neutral] 拷問する、苦しめる)  Guilt tortured him endlessly.
   - `afflict` /əˈflɪkt/             ([Formal] 苦しめる)             Pain afflicted his entire body.
+  - `be eating me alive`            ([Casual] 蝕んでいる)           Keeping secrets was eating me alive.
 > `bother` /ˈbɑːðər/                ([Neutral] 邪魔する、悩ます)    Don't bother him while he's working.
   > `give someone a hard time`      ([Casual] 困らせる)             They gave him a hard time at school.
   - `give someone grief`            ([Casual] 悩ませる)             My boss gives me grief about deadlines.

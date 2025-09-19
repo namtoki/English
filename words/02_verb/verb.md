@@ -1,98 +1,87 @@
-# Others
+# Verb
 
-## 悪い状態
-- `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
-- `be eating me alive`              ([Casual] 蝕んでいる)           Keeping secrets was eating me alive.
+## STATUS (BE BATHED IN)
+> `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
 
-## STIR
-- `stir` /stɜːr/                    ([Neutral] 感情を揺さぶる)      The movie stirred my emotions.
-- `fuel` /fjuːl/                    ([Neutral] 煽る、助長する)      His remarks fueled the debate.
-- `provoke` /prəˈvoʊk/              ([Neutral] 挑発する)            His comment provoked anger.
-- `rouse` /raʊz/                    ([Neutral] 目覚めさせる)        The speech roused the audience.
-- `agitate` /ˈædʒɪteɪt/             ([Neutral] かき乱す、扇動する)  The news agitated the crowd.
-- `incite` /ɪnˈsaɪt/                ([Neutral] 扇動する 駆り立てる) He incited the crowd to protest.
-- `perturb` /pərˈtɜːrb/             ([Formal] 心を乱す 動揺させる)  The news perturbed her greatly.
-- `stimulate` /ˈstɪmjəleɪt/         ([Neutral] 刺激する 活性化する) Exercise stimulates blood flow.
-- `arouse` /əˈraʊz/                 ([Neutral] 呼び起こす 喚起する) The speech aroused strong emotions.
-  - `arousal` /əˈraʊzəl/            ([Neutral] 覚醒、喚起)          Emotional arousal affects decisions.
-- `inspire` /ɪnˈspaɪər/             ([Neutral] 鼓舞する、感化する)  Her story inspired many people.
-- `motivate` /ˈmoʊtəveɪt/           ([Neutral] 動機付ける)          Money motivates some people.
-- `energize` /ˈenərdʒaɪz/           ([Neutral] 活力を与える)        The music energized the crowd.
-- `galvanize` /ˈɡælvənaɪz/          ([Formal] 活気づける 奮起させ)  The crisis galvanized the nation.
-- `entangle` /ɪnˈtæŋɡəl/            ([Neutral] からませる)            Don't entangle yourself in that wire.
-- `twist` /twɪst/                   ([Neutral] ひねる、曲げる)        Twist the cap to open the bottle.
-
-## EXPAND
-- `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
-- `increase` /ɪnˈkriːs/             ([Neutral] 増加する、増やす)    Sales increased by 20%.
-- `extend` /ɪkˈstend/               ([Neutral] 延ばす、拡張する)    They extended the deadline.
-- `expand` /ɪkˈspænd/               ([Neutral] 拡張する 発展させる) They plan to expand the business.
-- `diversify` /daɪˈvɜːrsəfaɪ/       ([Formal] 多様化する)           The company diversified its products.
-- `widen` /ˈwaɪdən/                 ([Neutral] 広げる、拡幅する)    They widened the road.
-- `broaden` /ˈbrɔːdən/              ([Neutral] 広げる、拡大する)    Travel broadens your horizons.
-- `enlarge` /ɪnˈlɑːrdʒ/             ([Neutral] 拡大する 大きくする) Can you enlarge this photo?
-- `stretch` /stretʃ/                ([Neutral] 伸ばす、拡張する)    We need to stretch the budget.
-- `swell` /swel/                    ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
-- `amplify` /ˈæmplɪfaɪ/             ([Formal] 拡大する、増幅する)   We need to amplify our efforts.
-
-## Comfort and Reconciliation
-
-- `allay` /əˈleɪ/                   ([Writing] 和らげる、静める)    The medicine helped allay his pain.
-- `ease` /iːz/                      ([Neutral] 和らげる、楽にする)  The medicine will ease the pain.
-  - `easy` /ˈiːzi/                  ([Neutral] 簡単な)              This test is easy for me.
-  - `easily` /ˈiːzəli/              ([Neutral] 簡単に)              He easily solved the problem.
-- `reconcile` /ˈrekənsaɪl/          ([Writing] 和解させる)          They reconciled after their argument.
-  - `reconciliation` /ˌrekənsɪliˈeɪʃən/ ([Writing] 和解、調停)       The reconciliation process took months.
-- `placate` /pləˈkeɪt/              ([Formal] なだめる、懐柔する)   She tried to placate the angry customer.
-- `appease` /əˈpiːz/                ([Formal] なだめる、鎮める)     They tried to appease the protesters.
-  - `appeasement` /əˈpiːzmənt/       ([Formal] 宥和、懐柔)           The policy of appeasement failed.
-- `pacify` /ˈpæsɪfaɪ/               ([Neutral] 鎮める、平定する)    The mother pacified her crying baby.
-  - `pacification` /ˌpæsɪfɪˈkeɪʃən/ ([Writing] 平定、鎮静化)        The pacification of the region took years.
-- `mollify` /ˈmɒlɪfaɪ/              ([Writing] 和らげる、なだめる)  His apology mollified her anger.
-- `soothe` /suːð/                   ([Neutral] なだめる、和らげる)  The music soothed his nerves.
-  - `soothing` /ˈsuːðɪŋ/            ([Neutral] 心を落ち着かせる)    Her voice had a soothing effect.
-- `calm` /kɑːm/                     ([Neutral] 落ち着かせる)        Try to calm down before speaking.
-  - `calming` /ˈkɑːmɪŋ/             ([Neutral] 落ち着かせる)        The tea has a calming effect.
-- `assuage` /əˈsweɪdʒ/              ([Writing] 和らげる、軽減する)  Nothing could assuage his guilt.
-- `conciliate` /kənˈsɪlieɪt/        ([Writing] 懐柔する、調停する)  He tried to conciliate the warring factions.
-  - `conciliation` /kənˌsɪliˈeɪʃən/ ([Writing] 調停、懐柔)          The conciliation talks were successful.
-  - `conciliatory` /kənˈsɪliətɔːri/ ([Writing] 懐柔的な、融和的な)  She adopted a conciliatory tone.
-
-## Legal Amendment
-- `amend` /əˈmend/                  ([Formal] 修正する、改正する)  We need to amend the contract.
-- `revise` /rɪˈvaɪz/                ([Neutral] 改訂する)           Please revise your proposal.
-- `modify` /ˈmɑːdɪfaɪ/              ([Neutral] 修正する)           They modified the original plan.
-- `alter` /ˈɔːltər/                 ([Neutral] 変更する)           We can alter the schedule.
-- `update` /ˌʌpˈdeɪt/               ([Neutral] 更新する)           Update the document regularly.
-
-## COLLECT/GATHER
-- `garner` /ˈɡɑːrnər/               ([Formal] 獲得する、集める)      The candidate garnered significant support.
-- `accumulate` /əˈkjuːmjəleɪt/       ([Neutral] 蓄積する、積み重ねる) Dust accumulated on the shelves.
-- `acquire` /əˈkwaɪər/               ([Formal] 取得する、習得する)    She acquired new skills quickly.
-- `amass` /əˈmæs/                    ([Neutral] 蓄積する、集める)     He amassed a fortune in business.
-- `gather` /ˈɡæðər/                  ([Neutral] 集める、収集する)     Please gather all the documents.
-
-### 感謝する
-- ✅ `thank` /θæŋk/                 ([Neutral] 感謝する、礼を言う)  Thank you for your help.
-  - ✅ `appreciate` /əˈpriːʃieɪt/   ([Neutral] 感謝する、評価)      I appreciate your help with this project.
-    - `appreciative` /əˈpriːʃətɪv/  ([Formal] 感謝している)         She was appreciative of their support.
-  - `grateful` /ˈɡreɪtfəl/          ([Neutral] 感謝している)        I'm grateful for your assistance.
-    - `gratefully` /ˈɡreɪtfəli/     ([Neutral] 感謝して)            She gratefully accepted the offer.
-    - `gratefulness` /ˈɡreɪtfəlnəs/ ([Neutral] 感謝の気持ち)        His gratefulness was evident.
-  - `gratitude` /ˈɡrætɪtuːd/        ([Formal] 感謝、謝意)           I express my deep gratitude.
-    - `gratifying` /ˈɡrætɪfaɪɪŋ/    ([Formal] 満足させる、喜ばしい) The results were gratifying.
-    - `gratification` /ˌɡrætɪfɪˈkeɪʃən/ ([Formal] 満足、喜び)       He found gratification in helping others.
+## FEELING (STIR / CALM / THANK)
+> `stir` /stɜːr/                    ([Neutral] 感情を揺さぶる)      The movie stirred my emotions.
+  - `fuel` /fjuːl/                  ([Neutral] 煽る、助長する)      His remarks fueled the debate.
+  - `provoke` /prəˈvoʊk/            ([Neutral] 挑発する)            His comment provoked anger.
+  - `rouse` /raʊz/                  ([Neutral] 目覚めさせる)        The speech roused the audience.
+  - `agitate` /ˈædʒɪteɪt/           ([Neutral] かき乱す、扇動する)  The news agitated the crowd.
+  - `incite` /ɪnˈsaɪt/              ([Neutral] 扇動する 駆り立てる) He incited the crowd to protest.
+  - `perturb` /pərˈtɜːrb/           ([Formal] 心を乱す 動揺させる)  The news perturbed her greatly.
+  - `stimulate` /ˈstɪmjəleɪt/       ([Neutral] 刺激する 活性化する) Exercise stimulates blood flow.
+  - `arouse` /əˈraʊz/               ([Neutral] 呼び起こす 喚起する) The speech aroused strong emotions.
+  - `inspire` /ɪnˈspaɪər/           ([Neutral] 鼓舞する、感化する)  Her story inspired many people.
+  - `motivate` /ˈmoʊtəveɪt/         ([Neutral] 動機付ける)          Money motivates some people.
+  - `energize` /ˈenərdʒaɪz/         ([Neutral] 活力を与える)        The music energized the crowd.
+  - `galvanize` /ˈɡælvənaɪz/        ([Formal] 活気づける 奮起させ)  The crisis galvanized the nation.
+  - `entangle` /ɪnˈtæŋɡəl/          ([Neutral] からませる)          Don't entangle yourself in that wire.
+  - `twist` /twɪst/                 ([Neutral] ひねる、曲げる)      Twist the cap to open the bottle.
+> `calm` /kɑːm/                     ([Neutral] 落ち着かせる)        Try to calm down before speaking.
+  - `ease` /iːz/                    ([Neutral] 和らげる、楽にする)  The medicine will ease the pain.
+  - `soothe` /suːð/                 ([Neutral] なだめる、和らげる)  The music soothed his nerves.
+  - `reconcile` /ˈrekənsaɪl/        ([Writing] 和解させる)          They reconciled after their argument.
+  - `pacify` /ˈpæsɪfaɪ/             ([Neutral] 鎮める、平定する)    The mother pacified her crying baby.
+  - `appease` /əˈpiːz/              ([Formal] なだめる、鎮める)     They tried to appease the protesters.
+  - `placate` /pləˈkeɪt/            ([Formal] なだめる、懐柔する)   She tried to placate the angry customer.
+  - `allay` /əˈleɪ/                 ([Writing] 和らげる、静める)    The medicine helped allay his pain.
+  - `assuage` /əˈsweɪdʒ/            ([Writing] 和らげる、軽減する)  Nothing could assuage his guilt.
+  - `mollify` /ˈmɒlɪfaɪ/            ([Writing] 和らげる、なだめる)  His apology mollified her anger.
+  - `conciliate` /kənˈsɪlieɪt/      ([Writing] 懐柔する、調停する)  He tried to conciliate the warring factions.
+> `thank` /θæŋk/                    ([Neutral] 感謝する、礼を言う)  Thank you for your help.
+  - `appreciate` /əˈpriːʃieɪt/      ([Neutral] 感謝する、評価する)  I appreciate your help with this project.
+  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認識する 功績認める) We recognize your efforts.
   - `acknowledge` /əkˈnɑːlɪdʒ/      ([Formal] 認める、感謝を示す)   I acknowledge your contribution.
-    - `acknowledgment` /əkˈnɑːlɪdʒmənt/ ([Formal] 承認、感謝の表明) The acknowledgment was sincere.
-  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認識する、功績認める) We recognize your efforts.
   - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit him for the success.
-    - `creditable` /ˈkredɪtəbəl/    ([Formal] 称賛に値する)         His performance was creditable.
-  - `obliged` /əˈblaɪdʒd/           ([Formal] 恩義を感じる)         I'm much obliged for your help.
-    - `obliging` /əˈblaɪdʒɪŋ/       ([Neutral] 親切な、世話好きな)  She's always very obliging.
-  - `indebted` /ɪnˈdetɪd/           ([Formal] 恩義がある)           I'm indebted to you for this.
-    - `indebtedness` /ɪnˈdetɪdnəs/  ([Formal] 恩義、借金)           His indebtedness was clear.
-  - `beholden` /bɪˈhoʊldən/         ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
-  - `owe` /oʊ/                      ([Neutral] 借りがある、恩がある) I owe you a debt of gratitude.
+  - `value` /ˈvæljuː/               ([Neutral] 価値を認める 大切に) I value your friendship.
+  - `cherish` /ˈtʃerɪʃ/             ([Neutral] 大切にする 心に抱く) I cherish these memories.
+  - `treasure` /ˈtreʒər/            ([Neutral] 大切にする 宝物扱い) I treasure your advice.
+  - `praise` /preɪz/                ([Neutral] 称賛する、褒める)    The teacher praised her work.
+  - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   I commend you for your efforts.
+  - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、称賛する)  We applaud your dedication.
+  - `honor` /ˈɑːnər/                ([Formal] 敬う、名誉を与える)   We honor their sacrifice.
+  - `salute` /səˈluːt/              ([Neutral] 敬礼する、敬意表す)  I salute your courage.
+  - `be grateful` /ˈɡreɪtfəl/       ([Neutral] 感謝している)        I'm grateful for your assistance.
+  - `be thankful` /ˈθæŋkfəl/        ([Neutral] 感謝している)        I'm thankful for this opportunity.
+  - `be appreciative` /əˈpriːʃətɪv/ ([Formal] 感謝している)         She was appreciative of their support.
+  - `be obliged` /əˈblaɪdʒd/        ([Formal] 恩義を感じる)         I'm much obliged for your help.
+  - `be indebted` /ɪnˈdetɪd/        ([Formal] 恩義がある)           I'm indebted to you for this.
+  - `be beholden` /bɪˈhoʊldən/      ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
+  - `owe` /oʊ/                      ([Neutral] 借りがある 恩がある) I owe you a debt of gratitude.
+
+## WORK (GROW / UPDATE / GET)
+> `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
+  - `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
+  - `extend` /ɪkˈstend/             ([Neutral] 延ばす、拡張する)    They extended the deadline.
+  - `expand` /ɪkˈspænd/             ([Neutral] 拡張する 発展させる) They plan to expand the business.
+  - `diversify` /daɪˈvɜːrsəfaɪ/     ([Formal] 多様化する)           The company diversified its products.
+  - `widen` /ˈwaɪdən/               ([Neutral] 広げる、拡幅する)    They widened the road.
+  - `broaden` /ˈbrɔːdən/            ([Neutral] 広げる、拡大する)    Travel broadens your horizons.
+  - `enlarge` /ɪnˈlɑːrdʒ/           ([Neutral] 拡大する 大きくする) Can you enlarge this photo?
+  - `stretch` /stretʃ/              ([Neutral] 伸ばす、拡張する)    We need to stretch the budget.
+  - `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
+  - `amplify` /ˈæmplɪfaɪ/           ([Formal] 拡大する、増幅する)   We need to amplify our efforts.
+> `update` /ˌʌpˈdeɪt/               ([Neutral] 更新する)            Update the document regularly.
+  - `modify` /ˈmɑːdɪfaɪ/            ([Neutral] 修正する)            They modified the original plan.
+  - `revise` /rɪˈvaɪz/              ([Neutral] 改訂する)            Please revise your proposal.
+  - `alter` /ˈɔːltər/               ([Neutral] 変更する)            We can alter the schedule.
+  - `amend` /əˈmend/                ([Formal] 修正する、改正する)   We need to amend the contract.
+> `get` /ɡet/                       ([Neutral] 得る、手に入れる)    I need to get some groceries.
+  - `collect` /kəˈlekt/             ([Neutral] 集める、収集する)    She collects stamps as a hobby.
+  - `gather` /ˈɡæðər/               ([Neutral] 集める、収集する)    Please gather all the documents.
+  - `obtain` /əbˈteɪn/              ([Formal] 獲得する、入手する)   You need to obtain permission first.
+  - `acquire` /əˈkwaɪər/            ([Formal] 取得する、習得する)   She acquired new skills quickly.
+  - `accumulate` /əˈkjuːmjəleɪt/    ([Neutral] 蓄積する、積み重ねる)Dust accumulated on the shelves.
+  - `assemble` /əˈsembəl/           ([Neutral] 集める、組み立てる)  We need to assemble all the parts.
+  - `compile` /kəmˈpaɪl/            ([Neutral] 編集する、収集する)  She compiled a list of contacts.
+  - `amass` /əˈmæs/                 ([Neutral] 蓄積する、集める)    He amassed a fortune in business.
+  - `hoard` /hɔːrd/                 ([Neutral] 貯め込む、買い占める)Don't hoard toilet paper.
+  - `stockpile` /ˈstɑːkpaɪl/        ([Neutral] 備蓄する、蓄える)    They stockpiled food for winter.
+  - `garner` /ˈɡɑːrnər/             ([Formal] 獲得する、集める)     The candidate garnered significant support.
+  - `glean` /ɡliːn/                 ([Writing] 拾い集める、収集する)I gleaned information from various sources.
+  - `harvest` /ˈhɑːrvɪst/           ([Neutral] 収穫する、得る)      They harvest data from users.
 
 ### 支持する
 - ✅ `support` /səˈpɔːrt/           ([Neutral] 支持する、支える)    I support your decision.
@@ -922,4 +911,3 @@
   - `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
   - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
   - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
-
