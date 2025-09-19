@@ -147,6 +147,12 @@
 > `confront` /kənˈfrʌnt/            ([Neutral] 立ち向かう)          She confronted him about the lies.
   - `challenge` /ˈtʃælɪndʒ/         ([Neutral] 挑戦する)            He challenged her to a debate.
   - `oppose` /əˈpoʊz/               ([Neutral] 反対する)            They opposed the new policy.
+  - `depose` /dɪˈpoʊz/              ([Formal] 退位させる、証言する)  The rebels deposed the dictator.
+  - `overthrow` /ˌoʊvərˈθroʊ/       ([Neutral] 打倒する、転覆する)  They plotted to overthrow the government.
+  - `oust` /aʊst/                   ([Neutral] 追放する、失脚させる) The board ousted the CEO.
+  - `dethrone` /diːˈθroʊn/          ([Formal] 王位から退ける)      The revolution dethroned the monarch.
+  - `topple` /ˈtɑːpəl/              ([Neutral] 倒す、打倒する)      The scandal toppled the administration.
+  - `unseat` /ʌnˈsiːt/              ([Formal] 議席を失わせる)      Voters unseated the incumbent.
   - `take on` /teɪk ɑːn/            ([Neutral] 挑む)                She took on the challenge.
   > `face off` /feɪs ɔːf/           ([Neutral] 対決する)            The teams faced off in the finals.
   - `stand up to` /stænd ʌp tuː/    ([Casual] 立ち向かう)           He stood up to the bully.

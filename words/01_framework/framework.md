@@ -396,6 +396,7 @@
 
 ## TAKE THE PLUNGE AND
 - `take the plunge`                 ([Neutral] 思い切る)            He finally took the plunge and quit.
+- `get ahead of oneself`            ([Neutral] 先走る、早とちりする) Let's not get ahead of ourselves.
 
 ## BECAUSE / THE REASON BEING THAT / FOR ONE THING / IN ORDER TO / SO THAT / BASED ON / IN THE SENSE THAT / JUST IN CASE
 > `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.

@@ -48,6 +48,7 @@
     - `dimensional` /dɪˈmenʃənəl/   ([Technical] 次元の)            Three-dimensional.
   - `area` /ˈeriə/                  ([Neutral] 面積、地域)          The area of the square.
   - `volume` /ˈvɑːljuːm/            ([Neutral] 体積、音量)          The volume of the box.
+  - `lengthy` /ˈleŋθi/              ([Neutral] 長い、長時間の)      The meeting was lengthy.
   - `perimeter` /pəˈrɪmɪtər/        ([Neutral] 周囲、外周)          The perimeter of the field.
   - `circumference` /sərˈkʌmfərəns/ ([Technical] 円周)              The circumference of the circle.
   - `diameter` /daɪˈæmɪtər/         ([Technical] 直径)              The diameter of the pipe.
@@ -131,3 +132,10 @@
 - `striped` /straɪpt/               ([Neutral] 縞模様の)             He wore a striped shirt.
 - `multicolored` /ˌmʌltiˈkʌlərd/    ([Neutral] 多色の、色とりどりの) The multicolored lights were bright.
 - `dappled` /ˈdæpəld/               ([Neutral] まだらの、斑点のある) The path was dappled with sunlight.
+- `tinge` /tɪndʒ/                   ([Neutral] 色合い、気味)        There was a tinge of sadness in her voice.
+  - `tinged` /tɪndʒd/               ([Neutral] 帯びた、染まった)    The sky was tinged with pink.
+- `hue` /hjuː/                      ([Neutral] 色合い、色調)        The painting has beautiful hues.
+- `tint` /tɪnt/                     ([Neutral] 色合い、淡い色)      Add a tint of blue to the paint.
+- `shade` /ʃeɪd/                    ([Neutral] 色合い、陰)          A darker shade of red.
+- `nuance` /ˈnuːɑːns/              ([Formal] ニュアンス、微妙な差)  The nuance of his expression.
+- `hint` /hɪnt/                     ([Neutral] わずかな気配)        A hint of lemon in the dish.

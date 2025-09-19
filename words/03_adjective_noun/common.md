@@ -26,6 +26,8 @@
 - `mediation` /ˌmiːdiˈeɪʃən/        ([Formal] 調停、仲介)          Mediation resolved the dispute.
 - `statesmanship` /ˈsteɪtsmənʃɪp/   ([Formal] 政治手腕)            His statesmanship was admired.
 - `continuum` /kənˈtɪnjuəm/         ([Formal] 連続体、範囲)          Political views exist on a continuum.
+- `legality` /liˈɡæləti/            ([Formal] 合法性)              They questioned the legality of the decision.
+- `deposition` /ˌdepəˈzɪʃən/        ([Formal] 証言録取、退位)        She gave a deposition to the lawyer.
 - `pedestal` /ˈpedɪstəl/            ([Neutral] 台座、高い地位)        The statue stands on a marble pedestal.
 
 ## CONTAINERS
@@ -38,6 +40,7 @@
 - `alcove` /ˈælkoʊv/                ([Neutral] 壁の凹み、床の間)     The bed fits in the alcove.
 - `recess` /rɪˈses/                 ([Neutral] 凹み、隠れ場所)       A hidden recess in the wall.
 - `crevice` /ˈkrevɪs/               ([Neutral] 裂け目、割れ目)       Water seeped through the crevice.
+- `gateway` /ˈɡeɪtweɪ/              ([Neutral] 入口、玄関口)         The gateway to the city.
 
 ## SUBJECT
 - `subject` /ˈsʌbdʒɪkt/             ([Neutral] 主題、科目)          Math is my favorite subject.
@@ -1557,6 +1560,12 @@
   - `indistinct` /ˌɪndɪˈstɪŋkt/       ([Writing] 不明瞭な)         The voice on the phone was indistinct.
 
   - `be a hassle`                    ([Casual] 面倒である)           Getting there is such a hassle.
+  - `drag` /dræɡ/                    ([Casual] 面倒なこと、退屈)     This meeting is such a drag.
+  - `pain` /peɪn/                    ([Casual] 面倒なこと)          Dealing with paperwork is a pain.
+  - `nuisance` /ˈnuːsəns/           ([Neutral] 迷惑、面倒)         The loud music is a nuisance.
+  - `burden` /ˈbɜːrdn/              ([Neutral] 負担、重荷)          Don't be a burden on others.
+  - `bore` /bɔːr/                    ([Neutral] 退屈な人・物)      The lecture was a total bore.
+  - `downer` /ˈdaʊnər/               ([Casual] 気が滅入ること)      The bad news was such a downer.
 
 ## RANDOM (SLANG)
 - `random` /ˈrændəm/                ([Casual] めちゃくちゃな)       That was so random! Why did he say that?
@@ -1567,6 +1576,12 @@
 - `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な)              That was a bizarre situation.
 - `wacky` /ˈwæki/                   ([Casual] 変な)                 He has a wacky sense of humor.
 - `oddball` /ˈɑːdbɔːl/              ([Casual] 変人)                 He's a bit of an oddball.
+- `rizz` /rɪz/                      ([Casual] 異性を惹きつける魅力)  He's got serious rizz.
+- `charisma` /kəˈrɪzmə/             ([Neutral] カリスマ、魅力)        She has natural charisma.
+- `charm` /tʃɑːrm/                  ([Neutral] 魅力、魅惑力)        He used his charm to win her over.
+- `game` /ɡeɪm/                     ([Casual] 異性を引き付けるスキル) He's got game with the ladies.
+- `swagger` /ˈswæɡər/              ([Casual] 余裕、自信)          He walks with swagger.
+- `smoothness` /ˈsmuːðnəs/          ([Neutral] 滑らかさ、器用さ)  His smoothness impressed everyone.
 
 ## ABOMINABLE
 - `abominable` /əˈbɑːmɪnəbəl/       ([Formal] 忌まわしい、ひどい)    The weather was abominable yesterday.

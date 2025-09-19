@@ -13,6 +13,7 @@
   - `malady` /ˈmælədi/              ([Writing] 病気、疾患)          The mysterious malady puzzled doctors.
   - `affliction` /əˈflɪkʃən/        ([Writing] 苦痛、病気)          His affliction was incurable.
   - `plague` /pleɪɡ/                ([Writing] 疫病、災い)          The plague devastated medieval Europe.
+  - `poisoning` /ˈpɔɪzənɪŋ/         ([Medical] 中毒、毒殺)          Food poisoning kept her home sick.
 > `symptom` /ˈsɪmptəm/              ([Medical] 症状)                Fever is a common symptom.
   - `sign` /saɪn/                   ([Medical] 兆候、症状)          Pain is a sign of inflammation.
   - `complaint` /kəmˈpleɪnt/        ([Medical] 症状、不調)          Her main complaint is headaches.
