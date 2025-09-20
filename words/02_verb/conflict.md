@@ -10,7 +10,7 @@
   - `wallop` /ˈwɒləp/               ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
   - `thwack` /θwæk/                 ([Casual] 強打音)               The thwack of the bat hitting the ball.
 
-## PSYCHOLOGICAL ATTACK (WORRY / DISTRESS / BOTHER / HURT / INSULT / EMBARRASS / OFFEND / FRUSTRATE)
+## PSYCHOLOGICAL ATTACK (WORRY / DISTRESS / BOTHER / HURT / INSULT / EMBARRASS / OFFEND / FRUSTRATE / DISMISS / DESPISE)
 > `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.
   - `concern` /kənˈsɜːrn/           ([Neutral] 心配させる)          Rising prices concern everyone.
   - `disturb` /dɪˈstɜːrb/           ([Neutral] 動揺させる)          Don't disturb him while working.
@@ -72,7 +72,24 @@
   - `outrage` /ˈaʊtreɪdʒ/           ([Neutral] 激怒させる)          His comments outraged the community.
 - `lose one's temper`               ([Neutral] かっとなる)          Don't lose your temper with them.
 - `blow up` /bloʊ ʌp/               ([Casual] 爆発する、怒る)       He blew up when he heard the news.
-- `slight` /slaɪt/                  ([Neutral] 軽視する)            I didn't mean to slight you.
+> `dismiss` /dɪsˈmɪs/               ([Neutral] 軽視する、退ける)    She dismissed his concerns.
+  - `brush off` /brʌʃ ɔːf/          ([Casual] 軽くあしらう)         He brushed off my suggestions.
+  - `write off` /raɪt ɔːf/          ([Casual] 見限る、無視する)     Don't write off his potential.
+  - `downplay` /ˌdaʊnˈpleɪ/         ([Neutral] 軽視する、過小評価)  They downplayed the risks.
+  - `belittle` /bɪˈlɪtəl/           ([Neutral] 軽んじる、見くびる)  Don't belittle her achievements.
+  - `trivialize` /ˈtrɪviəlaɪz/      ([Neutral] 軽視する、矮小化)    Don't trivialize their concerns.
+  - `underestimate`                 ([Neutral] 過小評価する)        Don't underestimate her abilities.
+  - `minimize` /ˈmɪnɪmaɪz/          ([Neutral] 最小限に評価する)    He minimized the importance of the issue.
+  - `play down` /pleɪ daʊn/         ([Casual] 軽視する)             She played down her role in the success.
+  - `slight` /slaɪt/                ([Neutral] 軽視する、無視する)  She felt slighted by his comments.
+  - `disparage` /dɪˈspærɪdʒ/        ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
+  - `discount` /ˈdɪskaʊnt/          ([Neutral] 軽視する、割り引く)  Don't discount their experience.
+  - `disregard` /ˌdɪsrɪˈɡɑːrd/      ([Formal] 無視する、軽視する)   He disregarded all warnings.
+> `despise` /dɪˈspaɪz/              ([Neutral] 軽蔑する)            He despises dishonesty.
+  - `look down on`                  ([Neutral] 見下す)              She looks down on people without degrees.
+  - `scorn` /skɔːrn/                ([Formal] 軽蔑する)             She scorned his feeble excuses.
+  - `contempt` /kənˈtempt/          ([Formal] 軽蔑、侮辱)           She looked at him with contempt.
+  - `disdain` /dɪsˈdeɪn/            ([Formal] 軽蔑する、見下す)     He disdained their offer.
 
 ## VERBAL ATTACK (INTERFERE WITH / MESS WITH / ARGUE / LAUGH AT / IGNORE)
 > `interfere with`                  ([Neutral] ～に干渉する)        Don't interfere with their plans.

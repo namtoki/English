@@ -9,7 +9,10 @@
   - `How are things?`               ([Casual] 最近どう？)           How are things at home?
   - `How's your day going?`         ([Casual] 今日の調子はどう？)   How's your day going so far?
 > `It's been a while`               ([Casual] 久しぶり)             It's been a while. How have you been?
+  - `It's been a while since S V`   ([Neutral] してからしばらく経つ)It's been a while since we last met.
+  - `It's been ages    since S V`   ([Casual] してからしばらく経つ) It's been ages since we last hung out.
   - `It's been a month since S V`   ([Neutral] S V ぶり)            It's been a month since we met the last time.
+  - `It's been a long time since S V` ([Neutral] )                  It's been a long time since we visited that place.
   - `I haven't seen you in O`       ([Neutral] Oぶり)               I haven't seen you in a month.
   - `Hey, stranger!`                ([Casual] 珍しいね)             Hey, stranger! Long time no see.
 > `Do you have a minute?`           ([Casual] ちょっといい？)       Do you have a minute to discuss this?
@@ -42,6 +45,10 @@
   - `There we go.`                  ([Casual] ほらね／できたよ)     `There we go.` The printer is working again.
   - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
   - `There you go.`                 ([Casual] どうぞ／その調子)     I’m going to go for it! / Yeah, `There you go`!
+> `I hope you are doing well.`
+  - `Thank you for your continued support.`
+  - `I appreciate your help as always.`
+  - `I always appreciate your business.`
 
 ## GOT IT / WILL DO / UNDERSTOOD / THAT MAKES SENSE / I'M FINE WITH / I'M OKAY WITH / ANY O WILL DO / THAT'S THE WAY IT IS
 > `Got it`                          ([Casual] 了解です)             Please finish by 5. Got it.
@@ -263,23 +270,6 @@
   - `Just like before`              ([Neutral] 以前と同じ)          It's happening just like before.
   - `Déjà vu`                       ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.
 
-## IT MAKES SENSE THAT / THE SAME GOES FOR
-> `It makes sense that S V`         ([Neutral] ～は理にかなってる)  It makes sense that prices went up.
-  > `It makes sense for A to B`     ([Neutral] AがBするのが理にかなう) It makes sense for them to wait.
-  - `It's only natural that S V`    ([Neutral] ～するのが自然)      It's only natural that he's tired.
-  - `It's logical that S V`         ([Formal] ～は論理的だ)         It's logical that we proceed carefully.
-  - `It's reasonable that S V`      ([Neutral] ～は妥当だ)          It's reasonable that they need more time.
-  - `It stands to reason that S V`  ([Formal] ～は当然だ)           It stands to reason that costs will rise.
-  - `It's understandable that S V`  ([Neutral] ～は理解できる)      It's understandable that she's upset.
-> `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
-  - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
-  - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
-
-## IT'S BEEN A WHILE SINCE
-- `It's been a while since S V`     ([Neutral] してからしばらく経つ)It's been a while since we last met.
-- `It's been ages since S V`        ([Casual] )                     It's been ages since we last hung out.
-- `It's been a long time since S V` ([Neutral] )                    It's been a long time since we visited that place.
-
 ## THAT DOESN'T MEAN
 > `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
   > `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
@@ -287,9 +277,6 @@
 - `A is one thing, but B is another`([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
 - `it's not always the case that`   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
 - `that's not to say that S V`      ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
-
-## MY CONCERN IS
-- `My concern is that S V`          ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
 
 ## BE AWARE THAT
 - `be aware that`                   ([Neutral] に注意してください)  Be aware that the deadline is next Friday.
@@ -306,12 +293,6 @@
 
 ## I WAS ON MUTE
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
-
-## ビジネスメール
-- [ ] `I hope you are doing well.`          ([Formal] 相手の健康や状況を気遣う表現) `I hope you are doing well.`
-- [ ] `Thank you for your continued support.` ([Formal] 継続的なサポートに感謝) `Thank you for your continued support.`
-- [ ] `I appreciate your help as always.`   ([Formal] いつも助けてくれて感謝) `I appreciate your help as always.`
-- [ ] `I always appreciate your business.`  ([Formal] いつもお引き立ていただきありがとうございます) `I always appreciate your business.`
 
 ## OPINION
 - [ ] `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.

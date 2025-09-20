@@ -321,7 +321,7 @@
   - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
   - `put together` /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
 
-## INFLUENCE (AFFECT / RUB OFF ON)
+## INFLUENCE (AFFECT / RUB OFF ON / COME DOWN TO)
 > `affect` /əˈfekt/                 ([Neutral] 影響する、作用する)  The changes will affect everyone.
 - `influence` /ˈɪnfluəns/           ([Neutral] 影響する、左右する)  Weather influences our mood.
   - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
@@ -339,6 +339,17 @@
   - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
   - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
   - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
+> `come down to` /kʌm daʊn tu/      ([Casual] ～に帰着する)         It all comes down to hard work.
+  - `boil down to` /bɔɪl daʊn tu/   ([Neutral] 要するに～である)    The issue boils down to money.
+  - `depend on` /dɪˈpend ɑːn/       ([Neutral] ～に依存する)        Success depends on hard work.
+  - `result in` /rɪˈzʌlt ɪn/        ([Neutral] ～という結果になる)  Hard work results in success.
+  - `ultimately` /ˈʌltɪmətli/       ([Neutral] 最終的に、結局)      Ultimately, it's your decision.
+  - `amount to` /əˈmaʊnt tu/        ([Neutral] ～に等しい、要するに)His excuse amounts to nothing.
+  - `center on` /ˈsentər ɑːn/       ([Neutral] ～を中心とする)      The debate centers on healthcare.
+  - `reduce to` /rɪˈdus tu/         ([Neutral] ～に減らす、要約する)The problem reduces to a simple question.
+  - `stem from` /stem frʌm/         ([Neutral] ～に由来する)        The problem stems from poor planning.
+  - `revolve around`                ([Neutral] ～を中心とする)      The story revolves around family.
+  - `hinge on` /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.
 
 ## DETAILED ACTION (SHORTEN / CUT CORNERS / SLACK OFF / GRANT / ASSURE)
 > `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.

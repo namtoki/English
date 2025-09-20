@@ -51,7 +51,7 @@
   - `be beholden` /bɪˈhoʊldən/      ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
   - `owe` /oʊ/                      ([Neutral] 借りがある 恩がある) I owe you a debt of gratitude.
 
-## WORK (GROW / UPDATE / GET)
+## WORK (GROW / UPDATE / GET / CLEAN UP)
 > `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
   - `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
   - `extend` /ɪkˈstend/             ([Neutral] 延ばす、拡張する)    They extended the deadline.
@@ -82,47 +82,31 @@
   - `garner` /ˈɡɑːrnər/             ([Formal] 獲得する、集める)     The candidate garnered significant support.
   - `glean` /ɡliːn/                 ([Writing] 拾い集める、収集する)I gleaned information from various sources.
   - `harvest` /ˈhɑːrvɪst/           ([Neutral] 収穫する、得る)      They harvest data from users.
+> `clean up` /kliːn ʌp/             ([Casual] 片付ける、掃除する)   We need to clean up this mess.
+  - `tidy` /ˈtaɪdi/                 ([Casual] 片付ける、整頓する)   Tidy up your desk before leaving.
+  - `tidy up` /ˈtaɪdi ʌp/           ([Casual] 片付ける、整理する)   Let's tidy up the office.
+  - `arrange` /əˈreɪndʒ/            ([Neutral] 整理する、配置する)  Let's arrange the meeting room.
+  - `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
+  - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
+  - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
 
 ### 支持する
 - ✅ `support` /səˈpɔːrt/           ([Neutral] 支持する、支える)    I support your decision.
-    - `supporter` /səˈpɔːrtər/       ([Neutral] 支持者、応援者)      She's a strong supporter of the cause.
-    - `supportive` /səˈpɔːrtɪv/      ([Neutral] 支援的な、励ましの)  He was very supportive during the crisis.
   - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.
-    - `backing` /ˈbækɪŋ/             ([Neutral] 支持、後援)          The project has government backing.
-    - `backer` /ˈbækər/              ([Neutral] 支援者、後援者)      He found several backers for his startup.
   - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
-    - `favorable` /ˈfeɪvərəbəl/     ([Neutral] 好意的な、有利な)    The review was favorable.
-    - `favorably` /ˈfeɪvərəbli/     ([Neutral] 好意的に)            The proposal was favorably received.
   - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The committee approved the plan.
-    - `approval` /əˈpruːvəl/         ([Neutral] 承認、賛成)          We need your approval to proceed.
-    - `approving` /əˈpruːvɪŋ/       ([Neutral] 賛成の、承認の)      She gave an approving nod.
   - `agree` /əˈɡriː/                ([Neutral] 同意する、賛成する)  I agree with your assessment.
-    - `agreement` /əˈɡriːmənt/       ([Neutral] 同意、合意)          We reached an agreement.
-    - `agreeable` /əˈɡriːəbəl/       ([Neutral] 快い、同意できる)    He's an agreeable person.
   - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by you no matter what.
-    - `standby` /ˈstænbaɪ/           ([Neutral] 待機、予備)          The backup generator is on standby.
   - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
   - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He championed the rights of workers.
-    - `championship` /ˈtʃæmpiənʃɪp/ ([Neutral] 擁護、優勝)          She won the championship last year.
   - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、擁護する)   I advocate for better education.
-    - `advocacy` /ˈædvəkəsi/         ([Formal] 擁護、支持)           His advocacy for peace was inspiring.
-    - `advocate` /ˈædvəkət/          ([Formal] 擁護者、支持者)       She's an advocate for children's rights.
   - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
-    - `promotion` /prəˈmoʊʃən/       ([Neutral] 促進、昇進)          The promotion of democracy is important.
-    - `promotional` /prəˈmoʊʃənəl/   ([Neutral] 宣伝の、促進の)      This is a promotional campaign.
   - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、裏書)       The senator endorsed the legislation.
-    - `endorsement` /ɪnˈdɔːrsmənt/   ([Formal] 支持、裏書)           The celebrity's endorsement boosted sales.
   - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
-    - `upholding` /ʌpˈhoʊldɪŋ/      ([Formal] 支持、維持)           The upholding of justice is crucial.
   - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
-    - `sustainable` /səˈsteɪnəbəl/   ([Formal] 持続可能な)           We need sustainable solutions.
-    - `sustainability` /səˌsteɪnəˈbɪləti/ ([Formal] 持続可能性)      Environmental sustainability matters.
   - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
-    - `rallying` /ˈræliɪŋ/           ([Neutral] 結集、集合)          It became a rallying cry for change.
   - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
-    - `bolstering` /ˈboʊlstərɪŋ/    ([Formal] 強化、支援)           The bolstering of defenses was necessary.
   - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
-    - `reinforcement` /ˌriːɪnˈfɔːrsmənt/ ([Formal] 強化、補強)      We need reinforcement of the rules.
 
 ### 呼ぶ
 - ✅ `call` /kɔːl/                  ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
@@ -145,7 +129,6 @@
   - `call out` /kɔːl aʊt/           ([Neutral] 呼び出す、非難する)  The teacher called out the student's name.
 - ✅ `call up` /kɔːl ʌp/            ([Neutral] 電話する、呼び出す)  I'll call you up tomorrow.
   - `summon` /ˈsʌmən/               ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
-    - `summons` /ˈsʌmənz/           ([Writing] 召喚状、呼び出し)    He received a summons to appear in court.
 
 ## ABIDE
 - `abide` /əˈbaɪd/                  ([Writing] 我慢する)             I can't abide his behavior.
@@ -414,7 +397,6 @@
 - `mend` /mend/                     ([Neutral] 回復する、修復する)  His broken bones are mending well.
   - `on the mend` /ɒn ðə mend/      ([Casual] 回復中)               He's on the mend now.
 - `recuperate` /rɪˈkuːpəreɪt/       ([Formal] 回復する、療養する)   He's recuperating at home.
-  - `recuperative` /rɪˈkuːpərətɪv/  ([Writing] 回復力のある)        The recuperative process takes time.
 - `turn the corner`                 ([Neutral] 峠を越える)          The patient has turned the corner.
 > `come around` /kʌm əˈraʊnd/       ([Neutral] 意識を取り戻す)      He came around after the surgery.
   - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
@@ -427,8 +409,6 @@
 - `regenerate` /rɪˈdʒenəreɪt/       ([Medical] 再生する)            Some tissues can regenerate naturally.
 - `recoup` /rɪˈkuːp/                ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
 - `convalesce` /ˌkɒnvəˈles/         ([Writing] 療養す 回復期にある) She's convalescing after surgery.
-  - `convalescence`/ˌkɒnvəˈlesəns/  ([Writing] 療養期間)            His convalescence lasted months.
-  - `convalescent` /ˌkɒnvəˈlesənt/  ([Writing] 回復期の患者)        The convalescent home provides care.
 > `remission` /rɪˈmɪʃən/            ([Medical] 寛解、軽快)          The cancer is in remission.
 
 ## SEE A DOCTOR
@@ -442,18 +422,9 @@
 - `experience` /ɪkˈspɪriəns/        ([Neutral] 経験する)            We experienced some difficulties.
 
 - `endure` /ɪnˈdjʊr/                ([Neutral] 耐える、我慢する)    He endured years of hardship.
-  - `endured` /ɪnˈdjʊrd/            ([Neutral] 耐えた)              She endured the pain silently.
-  - `enduring` /ɪnˈdjʊrɪŋ/          ([Neutral] 耐えている、永続的な) Their enduring friendship lasted decades.
-  - `endurance` /ɪnˈdjʊrəns/        ([Neutral] 忍耐力)              Running builds endurance.
 - `withstand` /wɪðˈstænd/           ([Neutral] 耐える、抵抗する)    The building can withstand earthquakes.
-  - `withstood` /wɪðˈstʊd/          ([Neutral] withstandの過去形)   The fortress withstood the siege.
 - `sustain` /səˈsteɪn/              ([Formal] 受ける、維持する)     He sustained serious injuries.
-  - `sustained` /səˈsteɪnd/         ([Formal] 持続的な、受けた)     She made a sustained effort.
-  - `sustaining` /səˈsteɪnɪŋ/       ([Formal] 維持している)         The sustaining power of hope.
 - `suffer` /ˈsʌfər/                 ([Neutral] 苦しむ、患う)        She suffers from migraines.
-  - `suffered` /ˈsʌfərd/            ([Neutral] 苦しんだ)            He suffered a heart attack.
-  - `suffering` /ˈsʌfərɪŋ/          ([Neutral] 苦痛、苦しみ)        Their suffering was unbearable.
-  - `sufferer` /ˈsʌfərər/           ([Neutral] 患者、被害者)        Allergy sufferers need medication.
 - `be subject to`                   ([Neutral] 〜を受ける)          The plan is subject to approval.
 - `be liable to` /biː ˈlaɪəbəl tuː/ ([Formal] 〜しがちである)       He's liable to forget important details.
 - `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
@@ -466,13 +437,9 @@
 - `fumble` /ˈfʌmbəl/                 ([Neutral] 手探りする、もたつく) He fumbled for his keys.
 - `stagger` /ˈstæɡər/                ([Neutral] ふらつく、よろめく)  He staggered out of the bar.
 - `abound` /əˈbaʊnd/                 ([Neutral] 豊富にある)          Opportunities abound in this city.
-  - `abounding` /əˈbaʊndɪŋ/         ([Neutral] 豊富な)              An area abounding in natural resources.
 - `proliferate` /prəˈlɪfəreɪt/       ([Formal] 急増する、繁殖する)   Smartphones proliferated rapidly.
-  - `proliferation` /prəˌlɪfəˈreɪʃən/ ([Formal] 増殖、拡散)          The proliferation of social media.
 - `flourish` /ˈflɜːrɪʃ/             ([Neutral] 繁栄する)            The arts flourish in this city.
-  - `flourishing` /ˈflɜːrɪʃɪŋ/      ([Neutral] 繁栄する)            A flourishing business district.
 - `thrive` /θraɪv/                   ([Neutral] 繁栄する、成長する)  Children thrive with encouragement.
-  - `thriving` /ˈθraɪvɪŋ/           ([Neutral] 繁栄する)            A thriving local economy.
 - `teem` /tiːm/                      ([Neutral] あふれる、満ちる)    The forest teems with wildlife.
 - `ache` /eɪk/                       ([Neutral] 痛む)                My back aches after sitting too long.
 - `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
@@ -501,7 +468,6 @@
 ## I WOULD
 > `I would` /aɪ wʊd/                ([Polite] 私なら〜します)       I would suggest taking a break.
 - `suggest` /səˈdʒest/              ([Neutral] 提案する、暗示する)  I suggest we leave early.
-  - `suggestive` /səˈdʒestɪv/       ([Writing] 連想させる、示唆的)  The painting has a suggestive quality.
 - `recommend` /ˌrekəˈmend/          ([Neutral] 推薦する、勧める)    I recommend this restaurant.
 - `advise` /ədˈvaɪz/                ([Neutral] 助言する、忠告する)  I advise you to be careful.
 - `propose` /prəˈpoʊz/              ([Formal] 提案する、申し込む)   She proposed a new plan.
@@ -514,7 +480,6 @@
 - `specify` /ˈspesɪfaɪ/             ([Formal] 明記する、特定する)   Please specify your requirements.
 - `identify` /aɪˈdentɪfaɪ/          ([Neutral] 特定する、確認する)  Can you identify the problem?
 > `designate` /ˈdezɪɡneɪt/          ([Formal] 指定する、示す)       The area was designated as a park.
-  - `designation` /ˌdezɪɡˈneɪʃən/   ([Formal] 指定、名称)           His designation is senior manager.
 - `assign` /əˈsaɪn/                 ([Neutral] 割り当てる 指定する) We assigned tasks to each member.
 - `single out` /ˈsɪŋɡəl aʊt/        ([Neutral] 選び出す、特定する)  He was singled out for praise.
 - `pick out` /pɪk aʊt/              ([Casual] 選び出す、指定する)   Pick out your favorite color.
@@ -530,10 +495,7 @@
   - `look out` /lʊk aʊt/            ([Casual] 気をつけて)           Look out! It's slippery.
 - `be careful` /biː ˈkerfəl/        ([Neutral] 気をつけて)          Be careful with that glass.
 - `admonish` /ədˈmɑːnɪʃ/            ([Formal] 諭す、勧告する)       She admonished him to be more careful.
-  - `admonishment`                  ([Formal] 訓戒、警告)           His admonishment was stern but fair.
-  - `admonition` /ˌædməˈnɪʃən/      ([Formal] 忠告、説諭、訓戒)     The judge gave a stern admonition.
 - `forewarn` /fɔːrˈwɔːrn/           ([Formal] 前もって警告する)     We forewarned them of delays.
-  - `forewarning` /fɔːrˈwɔːrnɪŋ/    ([Formal] 事前警告)             They gave us no forewarning.
 - `counsel` /ˈkaʊnsəl/              ([Formal] 助言する、相談する)   The lawyer counseled patience.
 
 ## MAKE
@@ -545,26 +507,18 @@
 - `prod` /prɑːd/                    ([Neutral] 促す、刺激する)      She prodded him to finish the work.
 - `prompt` /prɑːmpt/                ([Neutral] 促す、引き起こす)    What prompted you to call?
 - `exhort` /ɪɡˈzɔːrt/               ([Writing] 熱心に勧める、諭す)  He exhorted them to try harder.
-  - `exhortation` /eɡzɔːrˈteɪʃən/   ([Writing] 勧告、激励)          His exhortation inspired the team.
 
 ## INDICATE
 > `indicate` /ˈɪndɪkeɪt/            ([Neutral] 示す、指し示す)      The data indicates a positive trend.
 - `imply` /ɪmˈplaɪ/                 ([Neutral] 暗に示す、含意する)  What are you trying to imply?
-  - `implicit` /ɪmˈplɪsɪt/          ([Writing] 暗黙の、暗示的な)    There was an implicit agreement.
 - `hint` /hɪnt/                     ([Neutral] ほのめかす、ヒント)  She hinted that she might quit.
 - `drop a hint` /drɑːp ə hɪnt/      ([Casual] ほのめかす)           She dropped a hint about her birthday.
 > `insinuate` /ɪnˈsɪnjueɪt/         ([Formal] 遠回しに言う)         What are you insinuating?
-  - `insinuation` /ɪnˌsɪnjuˈeɪʃən/  ([Formal] 当てこすり)           I resent your insinuations.
 - `signify` /ˈsɪɡnɪfaɪ/             ([Formal] 意味する、示す)       What does this symbol signify?
-  - `significance` /sɪɡˈnɪfɪkəns/   ([Formal] 重要性、意味)         The significance is unclear.
 - `intimate` /ˈɪntɪmeɪt/            ([Formal] それとなく知らせる)   He intimated his disapproval.
-  - `intimation` /ˌɪntɪˈmeɪʃən/     ([Formal] 暗示、ほのめかし)     The first intimation came yesterday.
 - `denote` /dɪˈnoʊt/                ([Formal] 示す、意味する)       The red light denotes danger.
-  - `denotation` /ˌdiːnoʊˈteɪʃən/   ([Writing] 表示、明示的意味)    The denotation of the word is clear.
 - `connote` /kəˈnoʊt/               ([Writing] 含意する、暗示する)  The word connotes negative feelings.
-  - `connotation` /ˌkɑːnəˈteɪʃən/   ([Writing] 含意、ニュアンス)    The word has negative connotations.
 - `allude` /əˈluːd/                 ([Writing] 暗に言及する)        He alluded to past problems.
-  - `allusion` /əˈluːʒən/           ([Writing] 暗示、言及)          The book contains many allusions.
 
 ## ASK
 > `ask` /æsk/                       ([Neutral] 頼む、尋ねる)        Can I ask you a favor?
@@ -592,31 +546,21 @@
 - `authorize` /ˈɔːθəraɪz/            ([Formal] 認可する)             Who authorized this purchase?
 - `acquiesce` /ˌækwiˈes/             ([Formal] 黙認する)             She acquiesced to their demands.
 > `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
-  - `affirmation` /ˌæfərˈmeɪʃən/    ([Formal] 断言、肯定)           Her nod was an affirmation.
-  - `affirmative` /əˈfɜrmətɪv/      ([Formal] 肯定的な)             She gave an affirmative response.
 - `assert` /əˈsɜrt/                 ([Neutral] 断言する、主張する)  He asserted his innocence.
-  - `assertive` /əˈsɜrtɪv/          ([Neutral] 自己主張の強い)      Be more assertive in meetings.
 - `declare` /dɪˈkler/               ([Neutral] 宣言する、公表する)  She declared her candidacy.
 - `state` /steɪt/                   ([Neutral] 述べる、明言する)    Please state your name clearly.
 - `proclaim` /prəˈkleɪm/            ([Formal] 宣言する、公表する)   The mayor proclaimed a holiday.
-  - `proclamation` /ˌprɒkləˈmeɪʃən/ ([Formal] 宣言、布告)           The royal proclamation was read.
 - `pronounce` /prəˈnaʊns/           ([Neutral] 宣告する、発音する)  The judge pronounced the verdict.
-  - `pronouncement` /prəˈnaʊnsmənt/ ([Formal] 声明、宣告)           His pronouncement shocked everyone.
 - `avow` /əˈvaʊ/                    ([Writing] 公言する、認める)    He avowed his love publicly.
-  - `avowal` /əˈvaʊəl/              ([Writing] 公言、告白)          Her avowal surprised everyone.
 - `aver` /əˈvɜr/                    ([Writing] 断言する、主張する)  She averred that she was innocent.
 - `maintain` /meɪnˈteɪn/            ([Neutral] 主張する、維持する)  He maintains his innocence.
 
 ## SHOW
 - `show` /ʃoʊ/                      ([Neutral] 示す、見せる)        Show me what you mean.
 - `express` /ɪkˈspres/              ([Neutral] 表現する、述べる)    She expressed her feelings clearly.
-  - `expressive` /ɪkˈspresɪv/       ([Neutral] 表現力豊かな)        She has very expressive eyes.
-  - `expressly` /ɪkˈspresli/        ([Formal] 明確に、特に)         I expressly told you not to.
 - `present` /prɪˈzent/              ([Neutral] 提示する、発表する)  She will present her findings.
 - `manifest` /ˈmænɪfest/            ([Formal] 明示する、現れる)     Her talent manifests in her art.
-  - `manifestation`                 ([Formal] 現れ、明示)           This is a manifestation of stress.
 - `represent` /ˌreprɪˈzent/         ([Neutral] 代表する、表す)      The flag represents our nation.
-  - `representative`                ([Neutral] 代表的な、代表者)    He is a representative of the company.
 
 ## DISPLAY
 - `display` /dɪˈspleɪ/              ([Neutral] 示す、陳列する)      The store displays its best products.
@@ -624,16 +568,11 @@
 
 ## DESCRIBE
 - `describe` /dɪˈskraɪb/            ([Neutral] 描写する、説明する)  Can you describe what happened?
-  - `descriptive` /dɪˈskrɪptɪv/     ([Neutral] 描写的な)            Use more descriptive language.
 - `portray` /pɔːrˈtreɪ/             ([Neutral] 描写する、演じる)    The actor portrayed a villain.
-  - `portrayal` /pɔːrˈtreɪəl/       ([Neutral] 描写、肖像)          His portrayal was realistic.
 - `depict` /dɪˈpɪkt/                ([Neutral] 描く、描写する)      The painting depicts a rural scene.
-  - `depiction` /dɪˈpɪkʃən/         ([Neutral] 描写、叙述)          The depiction was accurate.
 
 ## REVEAL
 > `reveal` /rɪˈviːl/                ([Neutral] 明らかにする)        She revealed her true feelings.
-  - `revelation` /ˌrevəˈleɪʃən/     ([Neutral] 暴露、啓示)          The revelation shocked everyone.
-  - `revealing` /rɪˈviːlɪŋ/         ([Neutral] 明らかにする)        Her comments were very revealing.
 - `expose` /ɪkˈspoʊz/               ([Neutral] 暴露する、さらす)    The scandal exposed corruption.
 - `confess` /kənˈfes/               ([Neutral] 告白する、白状する)  He confessed his mistake.
 - `admit` /ədˈmɪt/                  ([Neutral] 認める、白状する)    I admit I was wrong.
@@ -744,7 +683,6 @@
 ## FAMILIAR
 - `get the hang of` /ɡet ðə hæŋ əv/ ([Casual] コツをつかむ)         I'm getting the hang of it now.
 
-
 ## 褒める
 - `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
 - `praise` /preɪz/                   ([Neutral] 称賛する、褒める)   She praised him for his hard work.
@@ -823,31 +761,6 @@
     - `excoriation` /ɪkˌskɔːriˈeɪʃən/ ([Writing] 痛烈な批判)        His excoriation was brutal.
   - `assail` /əˈseɪl/               ([Writing] 激しく非難する)      Critics assailed the new policy.
 
-### 軽視する
-- ✅ `dismiss` /dɪsˈmɪs/            ([Neutral] 軽視する、退ける)    She dismissed his concerns.
-    - `dismissive` /dɪsˈmɪsɪv/      ([Neutral] 軽視的な)            His dismissive attitude was rude.
-    - `dismissal` /dɪsˈmɪsəl/       ([Neutral] 解雇、退け)          His dismissal was unfair.
-  - `slight` /slaɪt/                ([Neutral] 軽視する、無視する)  She felt slighted by his comments.
-    - `slighting` /ˈslaɪtɪŋ/        ([Neutral] 軽視的な)            His slighting remarks were uncalled for.
-  - `underestimate` /ˌʌndərˈestɪmeɪt/ ([Neutral] 過小評価する)      Don't underestimate her abilities.
-    - `underestimation` /ˌʌndərˌestɪˈmeɪʃən/ ([Neutral] 過小評価)   The underestimation was costly.
-  - `disparage` /dɪˈspærɪdʒ/        ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
-    - `disparagement` /dɪˈspærɪdʒmənt/ ([Formal] 軽視、中傷)        The disparagement was uncalled for.
-    - `disparaging` /dɪˈspærɪdʒɪŋ/  ([Formal] けなすような)         His disparaging comments were hurtful.
-  - `belittle` /bɪˈlɪtəl/           ([Neutral] 軽んじる、見くびる)  Don't belittle her achievements.
-    - `belittling` /bɪˈlɪtəlɪŋ/     ([Neutral] 軽んじる)            His belittling comments were cruel.
-
-### 軽蔑する
-- ✅ `despise` /dɪˈspaɪz/           ([Neutral] 軽蔑する)            He despises dishonesty.
-    - `despicable` /dɪˈspɪkəbəl/    ([Neutral] 軽蔑すべき)          His behavior was despicable.
-  - `contempt` /kənˈtempt/          ([Formal] 軽蔑、侮辱)           She looked at him with contempt.
-    - `contemptuous` /kənˈtemptʃuəs/([Formal] 軽蔑的な)             His contemptuous smile angered her.
-    - `contemptible` /kənˈtemptəbəl/([Formal] 軽蔑すべき)           His contemptible actions shocked everyone.
-  - `scorn` /skɔːrn/                ([Formal] 軽蔑する)             She scorned his feeble excuses.
-    - `scornful` /ˈskɔːrnfəl/       ([Formal] 軽蔑的な)             He gave her a scornful look.
-  - `disdain` /dɪsˈdeɪn/            ([Formal] 軽蔑する、見下す)    He disdained their offer.
-    - `disdainful` /dɪsˈdeɪnfəl/    ([Formal] 軽蔑的な)             Her disdainful attitude was obvious.
-
 ## Negative Evaluation
 - `wane` /weɪn/                     ([Neutral] 衰える)             Her enthusiasm waned rapidly.
   - `waning` /ˈweɪnɪŋ/              ([Neutral] 衰えている)         His waning strength worried us.
@@ -888,26 +801,3 @@
   - `strictly` /ˈstrɪktli/          ([Neutral] 厳格に)              Smoking is strictly prohibited.
   - `stricture` /ˈstrɪktʃə/         ([Writing] 制限、批判)          The new strictures on travel are unpopular.
 - `stern` /stɜːn/                   ([Neutral] 厳格な、厳しい)      She gave him a stern warning.
-
-
-
-- `come down to` /kʌm daʊn tu/        ([Casual] ～に帰着する)           It all comes down to hard work.
-  - `boil down to` /bɔɪl daʊn tu/      ([Neutral] 要するに～である)      The issue boils down to money.
-  - `depend on` /dɪˈpend ɑːn/          ([Neutral] ～に依存する)          Success depends on hard work.
-  - `result in` /rɪˈzʌlt ɪn/           ([Neutral] ～という結果になる)    Hard work results in success.
-  - `ultimately` /ˈʌltɪmətli/          ([Neutral] 最終的に、結局)        Ultimately, it's your decision.
-  - `amount to` /əˈmaʊnt tu/           ([Neutral] ～に等しい、要するに)  His excuse amounts to nothing.
-  - `center on` /ˈsentər ɑːn/          ([Neutral] ～を中心とする)        The debate centers on healthcare.
-  - `reduce to` /rɪˈdus tu/            ([Neutral] ～に減らす、要約する)  The problem reduces to a simple question.
-  - `stem from` /stem frʌm/            ([Neutral] ～に由来する)          The problem stems from poor planning.
-  - `revolve around` /rɪˈvɑːlv əˈraʊnd/ ([Neutral] ～を中心とする)        The story revolves around family.
-  - `hinge on` /hɪndʒ ɑːn/             ([Neutral] ～次第である)          The decision hinges on the budget.
-
-
-  - `clean up` /kliːn ʌp/           ([Casual] 片付ける、掃除する)   We need to clean up this mess.
-  - `tidy` /ˈtaɪdi/                 ([Casual] 片付ける、整頓する)   Tidy up your desk before leaving.
-  - `tidy up` /ˈtaɪdi ʌp/           ([Casual] 片付ける、整理する)   Let's tidy up the office.
-  - `arrange` /əˈreɪndʒ/            ([Neutral] 整理する、配置する)  Let's arrange the meeting room.
-  - `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
-  - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
-  - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.

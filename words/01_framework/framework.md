@@ -298,6 +298,7 @@
   > `It's not      the fact that`   ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
   > `It's not just the fact that`   ([Neutral] だけが理由じゃない)  It's not just the fact that you called ...
   > `It's not that A but (that) B`  ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
+  > `My concern is that S V`        ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
   > `My understanding is (that)`    ([Neutral] 私の理解では)        My understanding is that we start Monday.
   - `My take is` /maɪ teɪk ɪz/      ([Casual] 私の見方は)           My take is that we should proceed.
 
@@ -393,10 +394,6 @@
 > `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
 > `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
 > `was going to` /wəz ˈɡoʊɪŋ tuː/   ([Neutral] するつもりだった)    I was going to call but forgot.
-
-## TAKE THE PLUNGE AND
-- `take the plunge`                 ([Neutral] 思い切る)            He finally took the plunge and quit.
-- `get ahead of oneself`            ([Neutral] 先走る、早とちりする) Let's not get ahead of ourselves.
 
 ## BECAUSE / THE REASON BEING THAT / FOR ONE THING / IN ORDER TO / SO THAT / BASED ON / IN THE SENSE THAT / JUST IN CASE
 > `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
