@@ -1,5 +1,47 @@
 # Verb
 
+## TRAITS (BE RELATED TO / HAVE ~ TO DO WITH / HAVE ~ IN COMMON / BE AVAILABLE / BE ON HAND / BE READY TO / GET READY FOR)
+> `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
+  - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
+  - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
+  - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
+  - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
+> `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
+  - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
+  - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
+  - `have little to do with`        ([Neutral] 関係がほとんどない)  This has little to do with money.
+  - `have everything to do with`    ([Neutral] 全て関係がある)      This has everything to do with trust.
+> `have things in common`           ([Casual] 共通点がある)         Do we have things in common?
+  - `have a lot in common`          ([Neutral] 共通点が多い)        We have a lot in common.
+  - `have little in common`         ([Neutral] 共通点が少ない)      They have little in common.
+  - `have nothing in common`        ([Neutral] 共通点がない)        We have nothing in common.
+  - `have similarities`             ([Neutral] 類似点がある)        The two cases have similarities.
+  - `have no similarities`          ([Neutral] 類似点がない)        These systems have no similarities.
+  - `have commonalities`            ([Formal] 共通性がある)         The cultures have commonalities.
+> `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
+  - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
+  - `be good to go`                 ([Casual] 準備万端)             We're good to go!
+  - `be ready for use`              ([Neutral] 使用可能な)          The equipment is ready for use.
+  - `be within reach` /wɪðɪn riːtʃ/ ([Neutral] 手の届く範囲にある)  Help is within reach.
+  - `be usable` /ˈjuːzəbəl/         ([Neutral] 使用可能な)          The software is now usable.
+  - `be at one's disposal`          ([Formal] 思い通りにできる)     The enormous property was at his disposal.
+  - `be at one's service`           ([Formal] お役に立てる)         I'm at your service.
+  - `be at one's command`           ([Formal] 命令に従う)           The troops are at your command.
+  > `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
+  - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
+  - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
+> `ready to`                        ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
+  - `be prepared`                   ([Neutral] 準備ができている)    Be prepared for questions.
+> `get ready`                       ([Neutral] 準備する)            Get ready for the presentation.
+  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
+  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `make preparations`             ([Formal] 準備する)             Make preparations for the event.
+  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
+  - `gear up` /ɡɪr ʌp/              ([Casual] 準備する)             We're gearing up for the launch.
+  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
+  - `make arrangements`             ([Neutral] 手配する)            I'll make arrangements for the trip.
+  - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
+
 ## STATUS (DECREASE / REDUCE / DECLINE / SUBSIDE / BE BATHED IN)
 > `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
   - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
@@ -20,46 +62,18 @@
   - `abate` /əˈbeɪt/                ([Formal] 和らぐ)               We waited for the wind to abate.
 > `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
 
-## FEELING (STIR / CALM / THANK / STAND)
-> `stir` /stɜːr/                    ([Neutral] 感情を揺さぶる)      The movie stirred my emotions.
-  - `fuel` /fjuːl/                  ([Neutral] 煽る、助長する)      His remarks fueled the debate.
-  - `provoke` /prəˈvoʊk/            ([Neutral] 挑発する)            His comment provoked anger.
-  - `rouse` /raʊz/                  ([Neutral] 目覚めさせる)        The speech roused the audience.
-  - `agitate` /ˈædʒɪteɪt/           ([Neutral] かき乱す、扇動する)  The news agitated the crowd.
-  - `incite` /ɪnˈsaɪt/              ([Neutral] 扇動する 駆り立てる) He incited the crowd to protest.
-  - `perturb` /pərˈtɜːrb/           ([Formal] 心を乱す 動揺させる)  The news perturbed her greatly.
-  - `stimulate` /ˈstɪmjəleɪt/       ([Neutral] 刺激する 活性化する) Exercise stimulates blood flow.
-  - `arouse` /əˈraʊz/               ([Neutral] 呼び起こす 喚起する) The speech aroused strong emotions.
-  - `inspire` /ɪnˈspaɪər/           ([Neutral] 鼓舞する、感化する)  Her story inspired many people.
-  - `motivate` /ˈmoʊtəveɪt/         ([Neutral] 動機付ける)          Money motivates some people.
-  - `energize` /ˈenərdʒaɪz/         ([Neutral] 活力を与える)        The music energized the crowd.
-  - `galvanize` /ˈɡælvənaɪz/        ([Formal] 活気づける 奮起させ)  The crisis galvanized the nation.
-  - `entangle` /ɪnˈtæŋɡəl/          ([Neutral] からませる)          Don't entangle yourself in that wire.
-  - `twist` /twɪst/                 ([Neutral] ひねる、曲げる)      Twist the cap to open the bottle.
-> `calm` /kɑːm/                     ([Neutral] 落ち着かせる)        Try to calm down before speaking.
-  - `ease` /iːz/                    ([Neutral] 和らげる、楽にする)  The medicine will ease the pain.
-  - `soothe` /suːð/                 ([Neutral] なだめる、和らげる)  The music soothed his nerves.
-  - `reconcile` /ˈrekənsaɪl/        ([Writing] 和解させる)          They reconciled after their argument.
-  - `pacify` /ˈpæsɪfaɪ/             ([Neutral] 鎮める、平定する)    The mother pacified her crying baby.
-  - `appease` /əˈpiːz/              ([Formal] なだめる、鎮める)     They tried to appease the protesters.
-  - `placate` /pləˈkeɪt/            ([Formal] なだめる、懐柔する)   She tried to placate the angry customer.
-  - `allay` /əˈleɪ/                 ([Writing] 和らげる、静める)    The medicine helped allay his pain.
-  - `assuage` /əˈsweɪdʒ/            ([Writing] 和らげる、軽減する)  Nothing could assuage his guilt.
-  - `mollify` /ˈmɒlɪfaɪ/            ([Writing] 和らげる、なだめる)  His apology mollified her anger.
-  - `conciliate` /kənˈsɪlieɪt/      ([Writing] 懐柔する、調停する)  He tried to conciliate the warring factions.
+## GOOD FEELING (THANK / RESPECT / PRAISE / SATISFY)
 > `thank` /θæŋk/                    ([Neutral] 感謝する、礼を言う)  Thank you for your help.
   - `appreciate` /əˈpriːʃieɪt/      ([Neutral] 感謝する、評価する)  I appreciate your help with this project.
   - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認識する 功績認める) We recognize your efforts.
   - `acknowledge` /əkˈnɑːlɪdʒ/      ([Formal] 認める、感謝を示す)   I acknowledge your contribution.
   - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit him for the success.
-  - `value` /ˈvæljuː/               ([Neutral] 価値を認める 大切に) I value your friendship.
   - `cherish` /ˈtʃerɪʃ/             ([Neutral] 大切にする 心に抱く) I cherish these memories.
   - `treasure` /ˈtreʒər/            ([Neutral] 大切にする 宝物扱い) I treasure your advice.
   - `praise` /preɪz/                ([Neutral] 称賛する、褒める)    The teacher praised her work.
   - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   I commend you for your efforts.
   - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、称賛する)  We applaud your dedication.
   - `honor` /ˈɑːnər/                ([Formal] 敬う、名誉を与える)   We honor their sacrifice.
-  - `salute` /səˈluːt/              ([Neutral] 敬礼する、敬意表す)  I salute your courage.
   - `be grateful` /ˈɡreɪtfəl/       ([Neutral] 感謝している)        I'm grateful for your assistance.
   - `be thankful` /ˈθæŋkfəl/        ([Neutral] 感謝している)        I'm thankful for this opportunity.
   - `be appreciative` /əˈpriːʃətɪv/ ([Formal] 感謝している)         She was appreciative of their support.
@@ -67,6 +81,52 @@
   - `be indebted` /ɪnˈdetɪd/        ([Formal] 恩義がある)           I'm indebted to you for this.
   - `be beholden` /bɪˈhoʊldən/      ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
   - `owe` /oʊ/                      ([Neutral] 借りがある 恩がある) I owe you a debt of gratitude.
+> `respect` /rɪˈspekt/              ([Neutral] 尊敬、尊重)          I have great respect for her work.
+  - `value` /ˈvæljuː/               ([Neutral] 価値を認める 大切に) I value your opinion highly.
+  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、尊敬する)  I admire her courage.
+  - `look up to` /lʊk ʌp tuː/       ([Casual] 尊敬する、見上げる)   Children look up to their parents.
+  - `honor` /ˈɑːnər/                ([Formal] 敬う、名誉を与える)   We honor their sacrifice.
+  - `regard` /rɪˈɡɑːrd/             ([Neutral] 見なす、敬意)        I regard him as a mentor.
+  - `esteem` /ɪˈstiːm/              ([Formal] 重んじる、尊敬)       She is held in high esteem by colleagues.
+  - `idolize` /ˈaɪdəlaɪz/           ([Neutral] 偶像化する、崇拝)    Fans idolize the rock star.
+  - `salute` /səˈluːt/              ([Neutral] 敬礼、敬意表す)      The soldiers saluted their commanding officer.
+  - `worship` /ˈwɜːrʃɪp/            ([Neutral] 崇拝する、礼拝する)  Some cultures worship nature.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your expertise.
+  - `revere` /rɪˈvɪr/               ([Writing] あがめる)            Many people revere his memory.
+  - `venerate` /ˈvenəreɪt/          ([Writing] 崇拝する、尊敬する)  They venerate their ancestors.
+> `praise` /preɪz/                  ([Neutral] 称賛する、褒める)    She praised him for his hard work.
+  - `congratulate` /kənˈɡrætʃəleɪt/ ([Neutral] 祝う、褒める)        Congratulate her on the promotion!
+  - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、賞賛)      The audience applauded enthusiastically.
+  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認める、表彰する)    The company recognized his efforts.
+  - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit her with the success.
+  - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   The teacher commended her excellent performance.
+  - `celebrate` /ˈseləbreɪt/        ([Neutral] 祝う、称える)        Let's celebrate your achievement!
+  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、感嘆する)  I admire your dedication.
+  - `acclaim` /əˈkleɪm/             ([Formal] 絶賛する、喝采)       The film received critical acclaim.
+  - `hail` /heɪl/                   ([Neutral] 称賛する、歓迎する)  Critics hailed it as a masterpiece.
+  - `glorify` /ˈɡlɔːrɪfaɪ/          ([Neutral] 賛美する、美化する)  Don't glorify bad behavior.
+  - `exalt` /ɪɡˈzɔːlt/              ([Writing] 称賛する、高める)    They exalted his achievements.
+  - `laud` /lɔːd/                   ([Writing] 賞賛する、称える)    Critics lauded the novel's innovative style.
+  - `extol` /ɪkˈstoʊl/              ([Writing] 賞賛する、讃える)    Critics extol the director's latest film.
+  - `eulogize` /ˈjuːlədʒaɪz/        ([Writing] 賛美する、弔辞)      He eulogized his late mentor.
+  - `lionize` /ˈlaɪənaɪz/           ([Writing] もてはやす 有名人扱) The media lionized the young athlete.
+> `satisfy` /ˈsætɪsfaɪ/             ([Neutral] 満足させる)          This answer will satisfy your question.
+  - `serve` /sɜːrv/                 ([Neutral] 仕える、役に立つ)    This tool will serve our purpose.
+  - `fit` /fɪt/                     ([Neutral] 適合する、合う)      This solution fits our needs perfectly.
+  - `suit` /suːt/                   ([Neutral] 適する、合う)        This schedule suits me fine.
+  - `please` /pliːz/                ([Neutral] 喜ばせる 満足させる) It's hard to please everyone.
+  - `fulfill` /fʊlˈfɪl/             ([Formal] 満たす、成就する)     We need to fulfill our obligations.
+  - `accommodate` /əˈkɑːmədeɪt/     ([Formal] 対応する、収容する)   We can accommodate your request.
+  - `content` /kənˈtent/            ([Neutral] 満足させる)          She contented herself with the result.
+  - `gratify` /ˈɡrætɪfaɪ/           ([Formal] 満足させる、喜ばせる) The results gratified the team.
+  - `appease` /əˈpiːz/              ([Formal] なだめる、満足させる) This offer should appease them.
+  - `quench` /kwentʃ/               ([Neutral] 満たす、鎮める)      Water quenched his thirst.
+  - `satiate` /ˈseɪʃieɪt/           ([Writing] 十分に満たす)        The meal satiated his hunger.
+  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 従う、応じる)         We comply with all regulations.
+  - `cater to` /ˈkeɪtər tuː/        ([Neutral] 迎合する、対応する)  We cater to all dietary needs.
+  - `indulge` /ɪnˈdʌldʒ/            ([Neutral] 甘やかす 満足させる) Don't indulge his bad behavior.
+
+## BAD FEELING (STAND)
 > `stand` /stænd/                   ([Neutral] 耐える)              I can't stand the noise.
   - `tolerate` /ˈtɑːləreɪt/         ([Neutral] 耐える、我慢する)    I won't tolerate such behavior.
   - `bear` /ber/                    ([Neutral] 耐える)              I can't bear the pain.
@@ -114,7 +174,7 @@
   - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
   - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
 
-## BEHAVIOR (CALL / GET / )
+## BEHAVIOR (CALL / GET)
 > `call` /kɔːl/                     ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
   - `shout` /ʃaʊt/                  ([Neutral] 叫ぶ、大声で言う)    He shouted across the street.
   - `yell` /jɛl/                    ([Casual] 叫ぶ、怒鳴る)         The coach yelled at the players.
@@ -134,68 +194,46 @@
   - `call up` /kɔːl ʌp/             ([Neutral] 電話する、呼び出す)  I'll call you up tomorrow.
   - `summon` /ˈsʌmən/               ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
 
-## TREAT
-- `treat` /triːt/                   ([Neutral] 治療する)            They treated his broken arm.
-- `heal` /hiːl/                     ([Neutral] 治る、癒す)          The wound healed quickly.
-- `cure` /kjʊə/                     ([Neutral] 治す、治療法)        Scientists are searching for a cure.
-- `prescribe` /prɪˈskraɪb/          ([Medical] 処方する)            The doctor prescribed antibiotics.
-- `treatment` /ˈtriːtmənt/          ([Medical] 治療)                The treatment was successful.
-- `care` /keə/                      ([Neutral] ケア、治療)          She received excellent medical care.
-- `medication` /ˌmedɪˈkeɪʃən/       ([Medical] 薬物治療)            He's on medication for diabetes.
-- `healing` /ˈhiːlɪŋ/               ([Neutral] 治癒、回復)          The healing process takes time.
-- `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
-  - `therapeutic` /ˌθerəˈpjuːtɪk/   ([Medical] 治療的な)            The therapeutic effect was significant.
-- `remedy` /ˈremədi/                ([Neutral] 治療法、救済策)      Home remedies can be effective.
-
-## SATISFY
-- `satisfy` /ˈsætɪsfaɪ/            ([Neutral] 満足させる)          This answer will satisfy your question.
-- `meet` /miːt/                    ([Neutral] 満たす、応える)      This product meets our requirements.
-- `fulfill` /fʊlˈfɪl/               ([Formal] 満たす、成就する)     We need to fulfill our obligations.
-- `serve` /sɜːrv/                  ([Neutral] 仕える、役に立つ)    This tool will serve our purpose.
-
-## BE RELATED TO / HAVE SOMETHING TO DO WITH / HAVE THINGS IN COMMON
-> `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
-  - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
-  - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
-  - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
-  - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
-> `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
-  - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
-  - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
-  - `have little to do with`        ([Neutral] 関係がほとんどない)  This has little to do with money.
-  - `have everything to do with`    ([Neutral] 全て関係がある)      This has everything to do with trust.
-> `have things in common`           ([Casual] 共通点がある)         Do we have things in common?
-  - `have a lot in common`          ([Neutral] 共通点が多い)        We have a lot in common.
-  - `have little in common`         ([Neutral] 共通点が少ない)      They have little in common.
-  - `have nothing in common`        ([Neutral] 共通点がない)        We have nothing in common.
-  - `have similarities`             ([Neutral] 類似点がある)        The two cases have similarities.
-  - `have no similarities`          ([Neutral] 類似点がない)        These systems have no similarities.
-  - `have commonalities`            ([Formal] 共通性がある)         The cultures have commonalities.
-
-## BE AVAILABLE / BE ON HAND / BE READY TO / GET READY FOR
-> `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
-  - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
-  - `be good to go`                 ([Casual] 準備万端)             We're good to go!
-  - `be ready for use`              ([Neutral] 使用可能な)          The equipment is ready for use.
-  - `be within reach` /wɪðɪn riːtʃ/ ([Neutral] 手の届く範囲にある)  Help is within reach.
-  - `be usable` /ˈjuːzəbəl/         ([Neutral] 使用可能な)          The software is now usable.
-  - `be at one's disposal`          ([Formal] 思い通りにできる)     The enormous property was at his disposal.
-  - `be at one's service`           ([Formal] お役に立てる)         I'm at your service.
-  - `be at one's command`           ([Formal] 命令に従う)           The troops are at your command.
-  > `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
-  - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
-  - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
-> `ready to`                        ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
-  - `be prepared`                   ([Neutral] 準備ができている)    Be prepared for questions.
-> `get ready`                       ([Neutral] 準備する)            Get ready for the presentation.
-  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
-  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
-  - `make preparations`             ([Formal] 準備する)             Make preparations for the event.
-  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
-  - `gear up` /ɡɪr ʌp/              ([Casual] 準備する)             We're gearing up for the launch.
-  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
-  - `make arrangements`             ([Neutral] 手配する)            I'll make arrangements for the trip.
-  - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
+## CHANGE (STIR / CALM)
+> `stir` /stɜːr/                    ([Neutral] 感情を揺さぶる)      The movie stirred my emotions.
+  - `fuel` /fjuːl/                  ([Neutral] 煽る、助長する)      His remarks fueled the debate.
+  - `provoke` /prəˈvoʊk/            ([Neutral] 挑発する)            His comment provoked anger.
+  - `rouse` /raʊz/                  ([Neutral] 目覚めさせる)        The speech roused the audience.
+  - `agitate` /ˈædʒɪteɪt/           ([Neutral] かき乱す、扇動する)  The news agitated the crowd.
+  - `incite` /ɪnˈsaɪt/              ([Neutral] 扇動する 駆り立てる) He incited the crowd to protest.
+  - `perturb` /pərˈtɜːrb/           ([Formal] 心を乱す 動揺させる)  The news perturbed her greatly.
+  - `stimulate` /ˈstɪmjəleɪt/       ([Neutral] 刺激する 活性化する) Exercise stimulates blood flow.
+  - `arouse` /əˈraʊz/               ([Neutral] 呼び起こす 喚起する) The speech aroused strong emotions.
+  - `inspire` /ɪnˈspaɪər/           ([Neutral] 鼓舞する、感化する)  Her story inspired many people.
+  - `motivate` /ˈmoʊtəveɪt/         ([Neutral] 動機付ける)          Money motivates some people.
+  - `energize` /ˈenərdʒaɪz/         ([Neutral] 活力を与える)        The music energized the crowd.
+  - `galvanize` /ˈɡælvənaɪz/        ([Formal] 活気づける 奮起させ)  The crisis galvanized the nation.
+  - `entangle` /ɪnˈtæŋɡəl/          ([Neutral] からませる)          Don't entangle yourself in that wire.
+  - `twist` /twɪst/                 ([Neutral] ひねる、曲げる)      Twist the cap to open the bottle.
+> `calm` /kɑːm/                     ([Neutral] 落ち着かせる)        Try to calm down before speaking.
+  - `ease` /iːz/                    ([Neutral] 和らげる、楽にする)  The medicine will ease the pain.
+  - `soothe` /suːð/                 ([Neutral] なだめる、和らげる)  The music soothed his nerves.
+  - `reconcile` /ˈrekənsaɪl/        ([Writing] 和解させる)          They reconciled after their argument.
+  - `pacify` /ˈpæsɪfaɪ/             ([Neutral] 鎮める、平定する)    The mother pacified her crying baby.
+  - `appease` /əˈpiːz/              ([Formal] なだめる、鎮める)     They tried to appease the protesters.
+  - `placate` /pləˈkeɪt/            ([Formal] なだめる、懐柔する)   She tried to placate the angry customer.
+  - `alleviate` /əˈliːvieɪt/        ([Formal] 緩和する、軽減する)   This will alleviate the symptoms.
+  - `allay` /əˈleɪ/                 ([Writing] 和らげる、静める)    The medicine helped allay his pain.
+  - `assuage` /əˈsweɪdʒ/            ([Writing] 和らげる、軽減する)  Nothing could assuage his guilt.
+  - `mollify` /ˈmɒlɪfaɪ/            ([Writing] 和らげる、なだめる)  His apology mollified her anger.
+  - `conciliate` /kənˈsɪlieɪt/      ([Writing] 懐柔する、調停する)  He tried to conciliate the warring factions.
+> `treat` /triːt/                   ([Neutral] 治療する)            They treated his broken arm.
+  - `heal` /hiːl/                   ([Neutral] 治る、癒す)          The wound healed quickly.
+  - `cure` /kjʊə/                   ([Neutral] 治す、治療法)        Scientists are searching for a cure.
+  - `relieve` /rɪˈliːv/             ([Neutral] 和らげる、緩和する)  The medication relieved his pain.
+  - `examine` /ɪɡˈzæmɪn/            ([Neutral] 診察する、検査する)  The doctor examined the patient.
+  - `prescribe` /prɪˈskraɪb/        ([Medical] 処方する)            The doctor prescribed antibiotics.
+  - `diagnose` /ˈdaɪəɡnoʊs/         ([Medical] 診断する)            The doctor diagnosed pneumonia.
+  - `nurse` /nɜːrs/                 ([Neutral] 看護する、介抱する)  She nursed him back to health.
+  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
+  - `remedy` /ˈremədi/              ([Neutral] 治療する、改善する)  We need to remedy this situation.
+  - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を投与する)        They medicated the patient for pain.
+  - `administer` /ədˈmɪnɪstər/      ([Medical] 投与する、施す)      The nurse administered the vaccine.
 
 ## 従う
 - ✅ `follow` /ˈfɑːloʊ/             ([Neutral] 従う、続く)          Please follow the instructions.
@@ -677,41 +715,3 @@
 
 ## FAMILIAR
 - `get the hang of` /ɡet ðə hæŋ əv/ ([Casual] コツをつかむ)         I'm getting the hang of it now.
-
-## 褒める
-- `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
-- `praise` /preɪz/                   ([Neutral] 称賛する、褒める)   She praised him for his hard work.
-  - `praiseworthy` /ˈpreɪzˌwɜːði/   ([Writing] 称賛に値する)       His praiseworthy efforts saved the company.
-- `commend` /kəˈmend/                ([Formal] 称賛する、推薦する)  The teacher commended her excellent performance.
-  - `commendable` /kəˈmendəbəl/     ([Writing] 称賛すべき)         Your commendable dedication is inspiring.
-  - `commendation` /ˌkɑːmənˈdeɪʃən/ ([Formal] 表彰、称賛)          He received a commendation for bravery.
-- `laud` /lɔːd/                      ([Writing] 賞賛する、称える)   Critics lauded the novel's innovative style.
-  - `laudable` /ˈlɔːdəbəl/          ([Writing] 称賛すべき)         Her laudable commitment impressed everyone.
-- `acclaim` /əˈkleɪm/                ([Writing] 絶賛する、称賛)     The film received widespread critical acclaim.
-- `extol` /ɪkˈstoʊl/                 ([Writing] 賞賛する、讃える)   Critics extol the director's latest film.
-  - `extolment` /ɪkˈstoʊlmənt/      ([Writing] 賞賛、讃美)         His extolment of the team was well-deserved.
-- `applaud` /əˈplɔːd/                ([Neutral] 拍手する、賞賛)     The audience applauded enthusiastically.
-- `honor` /ˈɑːnər/                   ([Neutral] 名誉、光栄)         It's an honor to meet you.
-  - `honorable` /ˈɑːnərəbəl/        ([Formal] 尊敬に値する)       He showed honorable conduct throughout.
-  - `honorary` /ˈɑːnəreri/          ([Formal] 名誉の、肩書き)     She received an honorary degree.
-- `tribute` /ˈtrɪbjuːt/              ([Formal] 賛辞、感謝の印)     The concert was a tribute to his legacy.
-- `admiration` /ˌædməˈreɪʃən/        ([Neutral] 賞賛、感嘆)       His courage filled me with admiration.
-  - `admire` /ədˈmaɪər/              ([Neutral] 賞賛する、感嘆)   I admire your dedication to the cause.
-  - `admirable` /ˈædmərəbəl/         ([Neutral] 賞賛すべき)       Her admirable patience impressed everyone.
-  - `admirer` /ədˈmaɪərər/            ([Neutral] 崇拝者、ファン)   She has many admirers of her work.
-- `laurel` /ˈlɔːrəl/                 ([Writing] 月桂樹、栄誉)     He rested on his laurels after the victory.
-- `compliment` /ˈkɑːmpləmənt/        ([Neutral] 賛辞、おせじ)     She gave him a sincere compliment.
-  - `complimentary` /ˌkɑːmpləˈmentəri/ ([Formal] 賞賛の、無料の)  The review was complimentary about her performance.
-- `citation` /saɪˈteɪʃən/            ([Formal] 表彰、引用)        The officer received a citation for bravery.
-
-## 尊敬する
-- `respect` /rɪˈspekt/               ([Neutral] 尊敬、尊重)        I have great respect for her work.
-  - `respectable` /rɪˈspektəbəl/    ([Neutral] りっぱな、まとも)  He comes from a respectable family.
-  - `respectful` /rɪˈspektfəl/      ([Neutral] 礼儀正しい)        The students were respectful to their teacher.
-  - `respectfully` /rɪˈspektfəli/   ([Formal] 恭しく、ていねい)   I respectfully disagree with your opinion.
-  - `respectability` /rɪˌspektəˈbɪləti/ ([Writing] 世間体、社会的地位) His respectability in the community was unquestioned.
-- `esteem` /ɪˈstiːm/                 ([Formal] 重んじる、尊敬)     She is held in high esteem by colleagues.
-- `reverence` /ˈrevərəns/            ([Writing] 敬意、畏敬の念)    They showed reverence for the ancient temple.
-  - `revere` /rɪˈvɪr/                ([Writing] あがめる)           Many people revere his memory.
-- `homage` /ˈhɑːmɪdʒ/                ([Writing] 敬意、主従関係)    The film pays homage to classic cinema.
-- `salute` /səˈluːt/                 ([Neutral] 敬礼、敬意表す)    The soldiers saluted their commanding officer.

@@ -1661,3 +1661,40 @@
     - `lashing` /ˈlæʃɪŋ/            ([Neutral] 激しい非難)          He received a verbal lashing.
     - `castigation` /ˌkæstɪˈɡeɪʃən/ ([Writing] 厳しい批判)          The castigation was deserved.
     - `excoriation` /ɪkˌskɔːriˈeɪʃən/ ([Writing] 痛烈な批判)        His excoriation was brutal.
+
+  - `respectable` /rɪˈspektəbəl/    ([Neutral] りっぱな、まとも)  He comes from a respectable family.
+  - `respectful` /rɪˈspektfəl/      ([Neutral] 礼儀正しい)        The students were respectful to their teacher.
+  - `respectfully` /rɪˈspektfəli/   ([Formal] 恭しく、ていねい)   I respectfully disagree with your opinion.
+  - `respectability` /rɪˌspektəˈbɪləti/ ([Writing] 世間体、社会的地位) His respectability in the community was unquestioned.
+- `reverence` /ˈrevərəns/            ([Writing] 敬意、畏敬の念)    They showed reverence for the ancient temple.
+- `homage` /ˈhɑːmɪdʒ/                ([Writing] 敬意、主従関係)    The film pays homage to classic cinema.
+
+  - `praiseworthy` /ˈpreɪzˌwɜːði/   ([Writing] 称賛に値する)       His praiseworthy efforts saved the company.
+  - `commendable` /kəˈmendəbəl/     ([Writing] 称賛すべき)         Your commendable dedication is inspiring.
+  - `commendation` /ˌkɑːmənˈdeɪʃən/ ([Formal] 表彰、称賛)          He received a commendation for bravery.
+  - `laudable` /ˈlɔːdəbəl/          ([Writing] 称賛すべき)         Her laudable commitment impressed everyone. `acclaim` /əˈkleɪm/                ([Writing] 絶賛する、称賛)     The film received widespread critical acclaim.
+  - `extolment` /ɪkˈstoʊlmənt/      ([Writing] 賞賛、讃美)         His extolment of the team was well-deserved.
+  - `honorable` /ˈɑːnərəbəl/        ([Formal] 尊敬に値する)       He showed honorable conduct throughout.
+  - `honorary` /ˈɑːnəreri/          ([Formal] 名誉の、肩書き)     She received an honorary degree.
+  - `admire` /ədˈmaɪər/              ([Neutral] 賞賛する、感嘆)   I admire your dedication to the cause.
+  - `admirable` /ˈædmərəbəl/         ([Neutral] 賞賛すべき)       Her admirable patience impressed everyone.
+  - `admirer` /ədˈmaɪərər/            ([Neutral] 崇拝者、ファン)   She has many admirers of her work.
+  - `complimentary` /ˌkɑːmpləˈmentəri/ ([Formal] 賞賛の、無料の)  The review was complimentary about her performance.
+
+- `compliment` /ˈkɑːmpləmənt/        ([Neutral] 賛辞、おせじ)     She gave him a sincere compliment.
+- `honor` /ˈɑːnər/                   ([Neutral] 名誉、光栄)         It's an honor to meet you.
+- `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
+- `tribute` /ˈtrɪbjuːt/              ([Formal] 賛辞、感謝の印)     The concert was a tribute to his legacy.
+- `kudos` /ˈkuːdɑːs/                 ([Casual] 称賛、名声)         Kudos to you for finishing the project!
+- `citation` /saɪˈteɪʃən/            ([Formal] 表彰、引用)        The officer received a citation for bravery.
+- `laurel` /ˈlɔːrəl/                 ([Writing] 月桂樹、栄誉)     He rested on his laurels after the victory.
+- `admiration` /ˌædməˈreɪʃən/        ([Neutral] 賞賛、感嘆)       His courage filled me with admiration.
+
+  - `therapeutic` /ˌθerəˈpjuːtɪk/   ([Medical] 治療的な)            The therapeutic effect was significant.
+
+- `treatment` /ˈtriːtmənt/          ([Medical] 治療)                The treatment was successful.
+- `care` /keə/                      ([Neutral] ケア、治療)          She received excellent medical care.
+- `medication` /ˌmedɪˈkeɪʃən/       ([Medical] 薬物治療)            He's on medication for diabetes.
+- `healing` /ˈhiːlɪŋ/               ([Neutral] 治癒、回復)          The healing process takes time.
+- `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
+- `remedy` /ˈremədi/                ([Neutral] 治療法、救済策)      Home remedies can be effective.
