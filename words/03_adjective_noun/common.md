@@ -1614,3 +1614,50 @@
 - `ineffectual` /ˌɪnɪˈfektʃuəl/     ([Formal] 効果のない)           His protests were ineffectual.
 - `vain` /veɪn/                     ([Neutral] 無駄な、虚栄心の)    All their efforts were in vain.
 - `bootless` /ˈbuːtləs/             ([Writing] 無益な)              Their bootless cries went unheard.
+
+- `frivolous` /ˈfrɪvələs/           ([Writing] つまらない、軽薄な)  The court dismissed the frivolous lawsuit.
+  - `frivolity` /frɪˈvɒləti/        ([Writing] 軽薄さ、つまらなさ)  His frivolity annoyed his colleagues.
+- `trivial` /ˈtrɪviəl/              ([Neutral] 些細な、つまらない)  Don't worry about such trivial matters.
+  - `triviality` /ˌtrɪviˈæləti/     ([Writing] 些細なこと)          He focused on trivialities instead of the main issue.
+- `petty` /ˈpeti/                   ([Casual] 些細な、けちな)       Stop being so petty about small things.
+- `insignificant` /ˌɪnsɪɡˈnɪfɪkənt/ ([Formal] 取るに足らない)       The difference is insignificant.
+  - `insignificance` /ˌɪnsɪɡˈnɪfɪkəns/ ([Neutral] 重要でないこと)    The insignificance of the error was obvious.
+- `acrimony` /ˈækrɪməni/            ([Writing] 辛辮さ、激しさ)      The debate was full of acrimony.
+  - `acrimonious` /ˌækrɪˈməʊniəs/   ([Writing] 辛辮な、激しい)      Their acrimonious divorce lasted years.
+- `caustic` /ˈkɔːstɪk/              ([Writing] 辛辮な)              Her caustic remarks hurt everyone.
+  - `caustically` /ˈkɔːstɪkli/      ([Writing] 辛辮に)              He caustically criticized the proposal.
+- `scathing` /ˈskeɪðɪŋ/             ([Writing] 容赦のない)          The review was absolutely scathing.
+  - `scathingly` /ˈskeɪðɪŋli/       ([Writing] 容赦なく)            She scathingly dismissed his ideas.
+  - `unscathed` /ʌnˈskeɪðd/         ([Writing] 無傷の)              She emerged unscathed from the accident.
+- `animosity` /ˌænɪˈmɒsəti/         ([Formal] 敵意、悪意)           There's real animosity between them.
+- `rancor` /ˈræŋkər/                ([Writing] 憎しみ、怨恨)        He spoke without rancor or bitterness.
+  - `rancorous` /ˈræŋkərəs/         ([Writing] 怨恨に満ちた)        Their rancorous feud lasted decades.
+- `harsh` /hɑːʃ/                    ([Neutral] 厳しい、過酷な)      The teacher gave harsh criticism.
+  - `harshly` /ˈhɑːʃli/             ([Neutral] 厳しく)              He spoke harshly to the students.
+  - `harshness` /ˈhɑːʃnəs/          ([Neutral] 厳しさ、過酷さ)      The harshness of winter was unbearable.
+- `severe` /sɪˈvɪə/                 ([Formal] 深刻な、厳格な)       The patient has severe symptoms.
+  - `severity` /sɪˈverəti/          ([Formal] 深刻さ、厳しさ)       The severity of the storm surprised us.
+  - `severely` /sɪˈvɪəli/           ([Formal] 厳しく、激しく)       He was severely injured in the accident.
+- `strict` /strɪkt/                 ([Neutral] 厳格な)              My parents are very strict.
+  - `strictly` /ˈstrɪktli/          ([Neutral] 厳格に)              Smoking is strictly prohibited.
+  - `stricture` /ˈstrɪktʃə/         ([Writing] 制限、批判)          The new strictures on travel are unpopular.
+- `stern` /stɜːn/                   ([Neutral] 厳格な、厳しい)      She gave him a stern warning.
+
+    - `blameless` /ˈbleɪmləs/       ([Neutral] 責められるべきでない)She was blameless in the incident.
+    - `blameworthy` /ˈbleɪmwɜːrði/  ([Formal] 責められるべき)       His actions were clearly blameworthy.
+    - `criticism` /ˈkrɪtɪsɪzəm/     ([Neutral] 批判、非難)          The criticism was harsh but fair.
+    - `critical` /ˈkrɪtɪkəl/        ([Neutral] 批判的な、重要な)    He was critical of the new policy.
+    - `critic` /ˈkrɪtɪk/            ([Neutral] 批評家、批判者)      The film critic gave it a bad review.
+    - `critique` /krɪˈtiːk/         ([Formal] 評論、批評)           The art critique was thoughtful and detailed.
+    - `accusation` /ˌækjuˈzeɪʃən/   ([Neutral] 告発、非難)          The accusation was unfounded.
+    - `accuser` /əˈkjuːzər/         ([Neutral] 告発者)              The accuser testified in court.
+    - `accusatory` /əˈkjuːzətɔːri/  ([Formal] 非難するような)       His accusatory tone upset her.
+    - `scolding` /ˈskoʊldɪŋ/        ([Neutral] 叱責、お小言)        He received a severe scolding.
+    - `condemnation` /ˌkɑːndemˈneɪʃən/ ([Formal] 激しい非難)        The condemnation was unanimous.
+    - `denunciation` /dɪˌnʌnsiˈeɪʃən/ ([Formal] 糾弾、告発)         His denunciation was passionate.
+    - `reproachful` /rɪˈproʊtʃfəl/  ([Formal] 非難がましい)         He gave her a reproachful look.
+    - `irreproachable` /ˌɪrɪˈproʊtʃəbəl/ ([Formal] 非の打ち所のない) Her conduct was irreproachable.
+    - `chastisement` /ˈtʃæstaɪzmənt/ ([Formal] 懲戒、叱責)          The chastisement was swift and severe.
+    - `lashing` /ˈlæʃɪŋ/            ([Neutral] 激しい非難)          He received a verbal lashing.
+    - `castigation` /ˌkæstɪˈɡeɪʃən/ ([Writing] 厳しい批判)          The castigation was deserved.
+    - `excoriation` /ɪkˌskɔːriˈeɪʃən/ ([Writing] 痛烈な批判)        His excoriation was brutal.

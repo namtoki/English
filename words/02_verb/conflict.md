@@ -91,7 +91,27 @@
   - `contempt` /kənˈtempt/          ([Formal] 軽蔑、侮辱)           She looked at him with contempt.
   - `disdain` /dɪsˈdeɪn/            ([Formal] 軽蔑する、見下す)     He disdained their offer.
 
-## VERBAL ATTACK (INTERFERE WITH / MESS WITH / ARGUE / LAUGH AT / IGNORE)
+## VERBAL ATTACK (BLAME / INTERFERE WITH / MESS WITH / ARGUE / LAUGH AT / IGNORE)
+> `blame` /bleɪm/                   ([Neutral] せいにする、責める)  Don't blame me for your mistakes.
+  - `criticize` /ˈkrɪtɪsaɪz/        ([Neutral] 非難する、批判)      She criticized his poor performance.
+  - `accuse` /əˈkjuːz/              ([Neutral] 非難する、告発する)  She accused him of lying.
+  - `scold` /skoʊld/                ([Neutral] しかる、叱責する)    The mother scolded her naughty child.
+  - `condemn` /kənˈdem/             ([Formal] 非難する、刑宣告)     The court condemned his actions.
+  - `blast` /blæst/                 ([Casual] 激しく非難する)       The media blasted the politician.
+  - `slam` /slæm/                   ([Casual] こき下ろす、酷評する) Critics slammed the new movie.
+  - `denounce` /dɪˈnaʊns/           ([Formal] 公然と非難する)       The activist denounced the government's policy.
+  - `reprimand` /ˈreprɪmænd/        ([Formal] 叱責する)             The boss reprimanded him for being late.
+  - `reproach` /rɪˈproʊtʃ/          ([Formal] 非難する、恥辱)       She reproached him for his selfishness.
+  - `rebuke` /rɪˈbjuːk/             ([Formal] 叱責する、非難する)   The teacher rebuked the student for cheating.
+  - `censure` /ˈsenʃər/             ([Formal] 激しく非難する)       The senator was censured for misconduct.
+  - `chastise` /ˈtʃæstaɪz/          ([Formal] 厳しく非難する)       The coach chastised the team for poor performance.
+  - `lash` /læʃ/                    ([Neutral] 激しく非難する)      The senator lashed out at his critics.
+  - `berate` /bɪˈreɪt/              ([Formal] 激しく叱る)           She berated him for his carelessness.
+  - `upbraid` /ʌpˈbreɪd/            ([Writing] 叱責する、非難する)  He upbraided them for their negligence.
+  - `castigate` /ˈkæstɪɡeɪt/        ([Writing] 厳しく批判する)      The editorial castigated the government.
+  - `lambaste` /læmˈbeɪst/          ([Casual] 激しく非難する)       The coach lambasted the referee's decision.
+  - `excoriate` /ɪkˈskɔːrieɪt/      ([Writing] 痛烈に批判する)      The review excoriated the author.
+  - `assail` /əˈseɪl/               ([Writing] 激しく非難する)      Critics assailed the new policy.
 > `interfere with`                  ([Neutral] ～に干渉する)        Don't interfere with their plans.
   - `interrupt` /ˌɪntəˈrʌpt/        ([Neutral] 邪魔する、中断する)  Don't interrupt me while I'm talking.
   - `get in the way`                ([Casual] 邪魔する)             Your car is getting in the way.

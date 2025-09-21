@@ -1,9 +1,26 @@
 # Verb
 
-## STATUS (BE BATHED IN)
+## STATUS (DECREASE / REDUCE / DECLINE / SUBSIDE / BE BATHED IN)
+> `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
+  - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
+  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
+  - `diminish` /dɪˈmɪnɪʃ/           ([Neutral] 減少する)            The threat has diminished.
+  - `dwindle` /ˈdwɪndəl/            ([Neutral] 減少する)            Their savings dwindled to nothing.
+  - `taper` /ˈteɪpər/               ([Neutral] 徐々に減る)          We'll taper off the medication.
+> `reduce` /rɪˈduːs/                ([Neutral] 減らす)              We need to reduce costs.
+  - `lessen` /ˈlesən/               ([Neutral] 減らす)              This should lessen the pain.
+  - `weaken` /ˈwiːkən/              ([Neutral] 弱くする)            The illness weakened him.
+> `decline` /dɪˈklaɪn/              ([Neutral] 衰える)              Her health has been declining.
+  - `fade` /feɪd/                   ([Neutral] 薄れる)              The light faded gradually.
+  - `shrink` /ʃrɪŋk/                ([Neutral] 縮小する)            The market has shrunk considerably.
+  - `wane` /weɪn/                   ([Neutral] 衰える)              Her enthusiasm waned rapidly.
+  - `recede` /rɪˈsiːd/              ([Formal] 後退する)             The prospect of bankruptcy receded.
+  - `ebb` /eb/                      ([Writing] 引く、衰える)        His life is gradually ebbing.
+> `subside` /səbˈsaɪd/              ([Formal] 和らぐ)               The pain gradually subsided.
+  - `abate` /əˈbeɪt/                ([Formal] 和らぐ)               We waited for the wind to abate.
 > `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
 
-## FEELING (STIR / CALM / THANK)
+## FEELING (STIR / CALM / THANK / STAND)
 > `stir` /stɜːr/                    ([Neutral] 感情を揺さぶる)      The movie stirred my emotions.
   - `fuel` /fjuːl/                  ([Neutral] 煽る、助長する)      His remarks fueled the debate.
   - `provoke` /prəˈvoʊk/            ([Neutral] 挑発する)            His comment provoked anger.
@@ -50,6 +67,13 @@
   - `be indebted` /ɪnˈdetɪd/        ([Formal] 恩義がある)           I'm indebted to you for this.
   - `be beholden` /bɪˈhoʊldən/      ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
   - `owe` /oʊ/                      ([Neutral] 借りがある 恩がある) I owe you a debt of gratitude.
+> `stand` /stænd/                   ([Neutral] 耐える)              I can't stand the noise.
+  - `tolerate` /ˈtɑːləreɪt/         ([Neutral] 耐える、我慢する)    I won't tolerate such behavior.
+  - `bear` /ber/                    ([Neutral] 耐える)              I can't bear the pain.
+  - `endure` /ɪnˈdʊr/               ([Neutral] 耐え忍ぶ)            She endured years of hardship.
+  - `put up with` /pʊt ʌp wɪð/      ([Casual] 我慢する)             I won't put up with this anymore.
+  - `abide` /əˈbaɪd/                ([Writing] 我慢する)            I can't abide his behavior.
+  - `withstand` /wɪðˈstænd/         ([Neutral] 耐える、抵抗する)    The building withstood the earthquake.
 
 ## WORK (GROW / UPDATE / GET / CLEAN UP)
 > `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
@@ -90,28 +114,10 @@
   - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
   - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
 
-### 支持する
-- ✅ `support` /səˈpɔːrt/           ([Neutral] 支持する、支える)    I support your decision.
-  - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.
-  - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
-  - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The committee approved the plan.
-  - `agree` /əˈɡriː/                ([Neutral] 同意する、賛成する)  I agree with your assessment.
-  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by you no matter what.
-  - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
-  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He championed the rights of workers.
-  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、擁護する)   I advocate for better education.
-  - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
-  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、裏書)       The senator endorsed the legislation.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
-  - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
-  - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
-  - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
-  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
-
-### 呼ぶ
-- ✅ `call` /kɔːl/                  ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
+## BEHAVIOR (CALL / GET / )
+> `call` /kɔːl/                     ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
   - `shout` /ʃaʊt/                  ([Neutral] 叫ぶ、大声で言う)    He shouted across the street.
-  - `yell` /jɛl/                    ([Casual] 叫ぶ、怒鳴る)        The coach yelled at the players.
+  - `yell` /jɛl/                    ([Casual] 叫ぶ、怒鳴る)         The coach yelled at the players.
   - `ring` /rɪŋ/                    ([Neutral] 電話する、鳴らす)    I'll ring you tomorrow.
   - `phone` /foʊn/                  ([Neutral] 電話する)            Can you phone the restaurant?
   - `name` /neɪm/                   ([Neutral] 名前を付ける)        They named their baby Sarah.
@@ -119,25 +125,14 @@
   - `contact` /ˈkɑːntækt/           ([Neutral] 連絡する)            Please contact me if you need help.
   - `holler` /ˈhɑːlər/              ([Casual] 大声で呼ぶ)           He hollered for help.
   - `dial` /ˈdaɪəl/                 ([Neutral] ダイヤルする)        Please dial the emergency number.
-
-### 呼び出す
-- ✅ `get` /ɡɛt/                    ([Neutral] 取ってくる、呼び出す) Can you get the manager?
+> `get` /ɡɛt/                       ([Neutral] 取ってくる 呼び出す) Can you get the manager?
   - `bring` /brɪŋ/                  ([Neutral] 連れてくる、持参)    Please bring your friend to the party.
-  - `fetch` /fɛtʃ/                  ([Neutral] 取ってくる、連れてくる) Go fetch the newspaper from outside.
+  - `fetch` /fɛtʃ/                  ([Neutral] 取てくる 連れてくる) Go fetch the newspaper from outside.
   - `retrieve` /rɪˈtriːv/           ([Formal] 取り戻す、回収する)   Please retrieve the files from the archive.
   - `send for` /sɛnd fɔːr/          ([Neutral] 呼びに行かせる)      We sent for the doctor immediately.
   - `call out` /kɔːl aʊt/           ([Neutral] 呼び出す、非難する)  The teacher called out the student's name.
-- ✅ `call up` /kɔːl ʌp/            ([Neutral] 電話する、呼び出す)  I'll call you up tomorrow.
+  - `call up` /kɔːl ʌp/             ([Neutral] 電話する、呼び出す)  I'll call you up tomorrow.
   - `summon` /ˈsʌmən/               ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
-
-## ABIDE
-- `abide` /əˈbaɪd/                  ([Writing] 我慢する)             I can't abide his behavior.
-- `abide by` /əˈbaɪd baɪ/           ([Neutral] 従う、守る)          You must abide by the rules.
-- `tolerate` /ˈtɑːləreɪt/           ([Neutral] 耐える、我慢する)      I won't tolerate such behavior.
-- `comply` /kəmˈplaɪ/               ([Formal] 従う、応じる)         You must comply with regulations.
-- `conform` /kənˈfɔːrm/             ([Formal] 適合する、従う)       Please conform to the dress code.
-- `adhere` /ədˈhɪər/                ([Formal] 固守する、付着する)     We must adhere to the schedule.
-- `obey` /əˈbeɪ/                    ([Neutral] 従う、服従する)       Children should obey their parents.
 
 ## TREAT
 - `treat` /triːt/                   ([Neutral] 治療する)            They treated his broken arm.
@@ -720,84 +715,3 @@
   - `revere` /rɪˈvɪr/                ([Writing] あがめる)           Many people revere his memory.
 - `homage` /ˈhɑːmɪdʒ/                ([Writing] 敬意、主従関係)    The film pays homage to classic cinema.
 - `salute` /səˈluːt/                 ([Neutral] 敬礼、敬意表す)    The soldiers saluted their commanding officer.
-
-### 非難/批判する
-- ✅ `blame` /bleɪm/                ([Neutral] せいにする、責める)  Don't blame me for your mistakes.
-    - `blameless` /ˈbleɪmləs/       ([Neutral] 責められるべきでない)She was blameless in the incident.
-    - `blameworthy` /ˈbleɪmwɜːrði/  ([Formal] 責められるべき)       His actions were clearly blameworthy.
-  - `criticize` /ˈkrɪtɪsaɪz/        ([Neutral] 非難する、批判)      She criticized his poor performance.
-    - `criticism` /ˈkrɪtɪsɪzəm/     ([Neutral] 批判、非難)          The criticism was harsh but fair.
-    - `critical` /ˈkrɪtɪkəl/        ([Neutral] 批判的な、重要な)    He was critical of the new policy.
-    - `critic` /ˈkrɪtɪk/            ([Neutral] 批評家、批判者)      The film critic gave it a bad review.
-    - `critique` /krɪˈtiːk/         ([Formal] 評論、批評)           The art critique was thoughtful and detailed.
-  - `accuse` /əˈkjuːz/              ([Neutral] 非難する、告発する)  She accused him of lying.
-    - `accusation` /ˌækjuˈzeɪʃən/   ([Neutral] 告発、非難)          The accusation was unfounded.
-    - `accuser` /əˈkjuːzər/         ([Neutral] 告発者)              The accuser testified in court.
-    - `accusatory` /əˈkjuːzətɔːri/  ([Formal] 非難するような)       His accusatory tone upset her.
-  - `scold` /skoʊld/                ([Neutral] しかる、叱責する)    The mother scolded her naughty child.
-    - `scolding` /ˈskoʊldɪŋ/        ([Neutral] 叱責、お小言)        He received a severe scolding.
-  - `condemn` /kənˈdem/             ([Formal] 非難する、刑宣告)     The court condemned his actions.
-    - `condemnation` /ˌkɑːndemˈneɪʃən/ ([Formal] 激しい非難)        The condemnation was unanimous.
-  - `blast` /blæst/                 ([Casual] 激しく非難する)       The media blasted the politician.
-  - `slam` /slæm/                   ([Casual] こき下ろす、酷評する) Critics slammed the new movie.
-  - `denounce` /dɪˈnaʊns/           ([Formal] 公然と非難する)       The activist denounced the government's policy.
-    - `denunciation` /dɪˌnʌnsiˈeɪʃən/ ([Formal] 糾弾、告発)         His denunciation was passionate.
-  - `reprimand` /ˈreprɪmænd/        ([Formal] 叱責する)             The boss reprimanded him for being late.
-  - `reproach` /rɪˈproʊtʃ/          ([Formal] 非難する、恥辱)       She reproached him for his selfishness.
-    - `reproachful` /rɪˈproʊtʃfəl/  ([Formal] 非難がましい)         He gave her a reproachful look.
-    - `irreproachable` /ˌɪrɪˈproʊtʃəbəl/ ([Formal] 非の打ち所のない) Her conduct was irreproachable.
-  - `rebuke` /rɪˈbjuːk/             ([Formal] 叱責する、非難する)   The teacher rebuked the student for cheating.
-  - `censure` /ˈsenʃər/             ([Formal] 激しく非難する)       The senator was censured for misconduct.
-  - `chastise` /ˈtʃæstaɪz/          ([Formal] 厳しく非難する)       The coach chastised the team for poor performance.
-    - `chastisement` /ˈtʃæstaɪzmənt/ ([Formal] 懲戒、叱責)          The chastisement was swift and severe.
-  - `lash` /læʃ/                    ([Neutral] 激しく非難する)      The senator lashed out at his critics.
-    - `lashing` /ˈlæʃɪŋ/            ([Neutral] 激しい非難)          He received a verbal lashing.
-  - `berate` /bɪˈreɪt/              ([Formal] 激しく叱る)           She berated him for his carelessness.
-  - `upbraid` /ʌpˈbreɪd/            ([Writing] 叱責する、非難する)  He upbraided them for their negligence.
-  - `castigate` /ˈkæstɪɡeɪt/        ([Writing] 厳しく批判する)      The editorial castigated the government.
-    - `castigation` /ˌkæstɪˈɡeɪʃən/ ([Writing] 厳しい批判)          The castigation was deserved.
-  - `lambaste` /læmˈbeɪst/          ([Casual] 激しく非難する)       The coach lambasted the referee's decision.
-  - `excoriate` /ɪkˈskɔːrieɪt/      ([Writing] 痛烈に批判する)      The review excoriated the author.
-    - `excoriation` /ɪkˌskɔːriˈeɪʃən/ ([Writing] 痛烈な批判)        His excoriation was brutal.
-  - `assail` /əˈseɪl/               ([Writing] 激しく非難する)      Critics assailed the new policy.
-
-## Negative Evaluation
-- `wane` /weɪn/                     ([Neutral] 衰える)             Her enthusiasm waned rapidly.
-  - `waning` /ˈweɪnɪŋ/              ([Neutral] 衰えている)         His waning strength worried us.
-- `diminish` /dɪˈmɪnɪʃ/             ([Neutral] 減少する)           The threat has diminished.
-- `dwindle` /ˈdwɪndəl/              ([Neutral] 減少する)           Their savings dwindled to nothing.
-- `decline` /dɪˈklaɪn/              ([Neutral] 衰える)             Her health has been declining.
-- `fade` /feɪd/                     ([Neutral] 薄れる)             The light faded gradually.
-- `ebb` /eb/                        ([Writing] 引く、衰える)       His life is gradually ebbing.
-- `subside` /səbˈsaɪd/              ([Formal] 和らぐ)              The pain gradually subsided.
-- `abate` /əˈbeɪt/                  ([Formal] 和らぐ)              We waited for the wind to abate.
-- `recede` /rɪˈsiːd/                ([Formal] 後退する)            The prospect of bankruptcy receded.
-- `weaken` /ˈwiːkən/                ([Neutral] 弱くする)           The illness weakened him.
-- `lessen` /ˈlesən/                 ([Neutral] 減らす)             This should lessen the pain.
-- `frivolous` /ˈfrɪvələs/           ([Writing] つまらない、軽薄な)  The court dismissed the frivolous lawsuit.
-  - `frivolity` /frɪˈvɒləti/        ([Writing] 軽薄さ、つまらなさ)  His frivolity annoyed his colleagues.
-- `trivial` /ˈtrɪviəl/              ([Neutral] 些細な、つまらない)  Don't worry about such trivial matters.
-  - `triviality` /ˌtrɪviˈæləti/     ([Writing] 些細なこと)          He focused on trivialities instead of the main issue.
-- `petty` /ˈpeti/                   ([Casual] 些細な、けちな)       Stop being so petty about small things.
-- `insignificant` /ˌɪnsɪɡˈnɪfɪkənt/ ([Formal] 取るに足らない)       The difference is insignificant.
-  - `insignificance` /ˌɪnsɪɡˈnɪfɪkəns/ ([Neutral] 重要でないこと)    The insignificance of the error was obvious.
-- `acrimony` /ˈækrɪməni/            ([Writing] 辛辮さ、激しさ)      The debate was full of acrimony.
-  - `acrimonious` /ˌækrɪˈməʊniəs/   ([Writing] 辛辮な、激しい)      Their acrimonious divorce lasted years.
-- `caustic` /ˈkɔːstɪk/              ([Writing] 辛辮な)              Her caustic remarks hurt everyone.
-  - `caustically` /ˈkɔːstɪkli/      ([Writing] 辛辮に)              He caustically criticized the proposal.
-- `scathing` /ˈskeɪðɪŋ/             ([Writing] 容赦のない)          The review was absolutely scathing.
-  - `scathingly` /ˈskeɪðɪŋli/       ([Writing] 容赦なく)            She scathingly dismissed his ideas.
-  - `unscathed` /ʌnˈskeɪðd/         ([Writing] 無傷の)              She emerged unscathed from the accident.
-- `animosity` /ˌænɪˈmɒsəti/         ([Formal] 敵意、悪意)           There's real animosity between them.
-- `rancor` /ˈræŋkər/                ([Writing] 憎しみ、怨恨)        He spoke without rancor or bitterness.
-  - `rancorous` /ˈræŋkərəs/         ([Writing] 怨恨に満ちた)        Their rancorous feud lasted decades.
-- `harsh` /hɑːʃ/                    ([Neutral] 厳しい、過酷な)      The teacher gave harsh criticism.
-  - `harshly` /ˈhɑːʃli/             ([Neutral] 厳しく)              He spoke harshly to the students.
-  - `harshness` /ˈhɑːʃnəs/          ([Neutral] 厳しさ、過酷さ)      The harshness of winter was unbearable.
-- `severe` /sɪˈvɪə/                 ([Formal] 深刻な、厳格な)       The patient has severe symptoms.
-  - `severity` /sɪˈverəti/          ([Formal] 深刻さ、厳しさ)       The severity of the storm surprised us.
-  - `severely` /sɪˈvɪəli/           ([Formal] 厳しく、激しく)       He was severely injured in the accident.
-- `strict` /strɪkt/                 ([Neutral] 厳格な)              My parents are very strict.
-  - `strictly` /ˈstrɪktli/          ([Neutral] 厳格に)              Smoking is strictly prohibited.
-  - `stricture` /ˈstrɪktʃə/         ([Writing] 制限、批判)          The new strictures on travel are unpopular.
-- `stern` /stɜːn/                   ([Neutral] 厳格な、厳しい)      She gave him a stern warning.

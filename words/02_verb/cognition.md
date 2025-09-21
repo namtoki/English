@@ -151,28 +151,33 @@
   - `cover it` /ˈkʌvər ɪt/          ([Casual] カバーする、足りる)   Twenty dollars should cover it.
   - `serve the purpose`             ([Neutral] 目的を果たす)        This tool serves the purpose.
 > `agree with` /əˈɡriː wɪð/         ([Neutral] ～に賛成する)        I agree with the decision.
-  - `support` /səˈpɔːrt/            ([Neutral] 支持する、支援する)  I support your idea.
   - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The board approved the plan.
   - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
   > `be for` /biː fɔːr/             ([Casual] 賛成である)           I'm for the new policy.
   - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
-  - `back` /bæk/                    ([Neutral] 支持する 後押しする) I'll back your proposal.
   - `be in favor of`                ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
-  - `side with` /saɪd wɪð/          ([Neutral] ～の味方をする)      I side with you on this.
-  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by your decision.
   - `back up` /bæk ʌp/              ([Casual] 支援する、裏付ける)   I'll back you up.
   - `get behind` /ɡet bɪˈhaɪnd/     ([Casual] 支持する、応援する)   Let's get behind this initiative.
   - `second` /ˈsekənd/              ([Neutral] 支持する、賛同する)  I second the motion.
   - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
-  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、推奨する)   I endorse this approach.
-  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、支持する)   She advocates for change.
-  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He champions workers' rights.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
-  - `rally behind` /ˈræli bɪˈhaɪnd/ ([Neutral] 結集する、支持する)  The team rallied behind their leader.
   - `align with` /əˈlaɪn wɪð/       ([Formal] 同調する、一致する)   Our goals align with yours.
   - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
   - `give support to`               ([Neutral] 支援する)            We give our support to the project.
   - `lend support to`               ([Formal] 支援する、支持する)   I lend my support to the cause.
+> `support` /səˈpɔːrt/              ([Neutral] 支持する、支える)    I support your decision.
+  - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.
+  - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
+  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by you no matter what.
+  - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
+  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He championed the rights of workers.
+  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、擁護する)   I advocate for better education.
+  - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
+  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、裏書)       The senator endorsed the legislation.
+  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
+  - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
+  - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
+  - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
+  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
 
 ## WANT
 > `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
