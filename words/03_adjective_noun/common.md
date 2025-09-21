@@ -1698,3 +1698,12 @@
 - `healing` /ˈhiːlɪŋ/               ([Neutral] 治癒、回復)          The healing process takes time.
 - `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
 - `remedy` /ˈremədi/                ([Neutral] 治療法、救済策)      Home remedies can be effective.
+
+    - `adherence` /ædˈhɪrəns/       ([Formal] 遵守、忠実)           Adherence to policy is required.
+    - `obedience` /oʊˈbiːdiəns/     ([Formal] 服従、遵守)           Obedience to rules ensures safety.
+    - `obedient` /oʊˈbiːdiənt/      ([Neutral] 従順な、素直な)      She's an obedient employee.
+    - `conformance` /kənˈfɔːrməns/  ([Formal] 適合、遵守)           Conformance testing is complete.
+    - `conformity` /kənˈfɔːrmɪti/   ([Formal] 適合性、遵守)         Conformity with regulations is essential.
+    - `observance` /əbˈzɜːrvəns/    ([Formal] 遵守、守ること)       Observance of protocols is critical.
+    - `deference` /ˈdefərəns/       ([Formal] 敬意、尊重)           He showed deference to his superior.
+    - `submission` /səbˈmɪʃən/      ([Formal] 服従、提出)           Submission to authority is expected.

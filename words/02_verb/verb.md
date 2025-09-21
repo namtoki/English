@@ -62,7 +62,7 @@
   - `abate` /əˈbeɪt/                ([Formal] 和らぐ)               We waited for the wind to abate.
 > `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
 
-## GOOD FEELING (THANK / RESPECT / PRAISE / SATISFY)
+## GOOD FEELING (THANK / RESPECT / PRAISE / SATISFY / FOLLOW)
 > `thank` /θæŋk/                    ([Neutral] 感謝する、礼を言う)  Thank you for your help.
   - `appreciate` /əˈpriːʃieɪt/      ([Neutral] 感謝する、評価する)  I appreciate your help with this project.
   - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認識する 功績認める) We recognize your efforts.
@@ -73,7 +73,6 @@
   - `praise` /preɪz/                ([Neutral] 称賛する、褒める)    The teacher praised her work.
   - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   I commend you for your efforts.
   - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、称賛する)  We applaud your dedication.
-  - `honor` /ˈɑːnər/                ([Formal] 敬う、名誉を与える)   We honor their sacrifice.
   - `be grateful` /ˈɡreɪtfəl/       ([Neutral] 感謝している)        I'm grateful for your assistance.
   - `be thankful` /ˈθæŋkfəl/        ([Neutral] 感謝している)        I'm thankful for this opportunity.
   - `be appreciative` /əˈpriːʃətɪv/ ([Formal] 感謝している)         She was appreciative of their support.
@@ -125,8 +124,32 @@
   - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 従う、応じる)         We comply with all regulations.
   - `cater to` /ˈkeɪtər tuː/        ([Neutral] 迎合する、対応する)  We cater to all dietary needs.
   - `indulge` /ɪnˈdʌldʒ/            ([Neutral] 甘やかす 満足させる) Don't indulge his bad behavior.
+> `follow` /ˈfɑːloʊ/                ([Neutral] 従う、続く)          Please follow the instructions.
+  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
+  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
+  - `keep` /kiːp/                   ([Neutral] 守る、保つ)          Keep the rules in mind.
+  > `go along with`                 ([Casual] 同調する、従う)       I'll go along with the plan.
+  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
+  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
+  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
+  - `listen to` /ˈlɪsən tuː/        ([Neutral] 聞き従う)            Listen to your parents.
+  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
+  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
+  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
+  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
+  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
+  - `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、守る)      Maintain professional standards.
+  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
+  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
+  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
+  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
+  - `accept` /əkˈsept/              ([Neutral] 受け入れる)          Accept the terms and conditions.
+  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
+  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
+  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
 
-## BAD FEELING (STAND)
+## BAD FEELING (STAND / IN THE WAY)
 > `stand` /stænd/                   ([Neutral] 耐える)              I can't stand the noise.
   - `tolerate` /ˈtɑːləreɪt/         ([Neutral] 耐える、我慢する)    I won't tolerate such behavior.
   - `bear` /ber/                    ([Neutral] 耐える)              I can't bear the pain.
@@ -134,6 +157,32 @@
   - `put up with` /pʊt ʌp wɪð/      ([Casual] 我慢する)             I won't put up with this anymore.
   - `abide` /əˈbaɪd/                ([Writing] 我慢する)            I can't abide his behavior.
   - `withstand` /wɪðˈstænd/         ([Neutral] 耐える、抵抗する)    The building withstood the earthquake.
+> `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
+  - `stop` /stɑːp/                  ([Neutral] 止める、妨げる)      Stop interrupting me!
+  - `prevent` /prɪˈvent/            ([Neutral] 防ぐ、妨げる)        We need to prevent accidents.
+  > `get in the way`                ([Neutral] 邪魔をする)          Don't let fear get in the way.
+  > `be in the way`                 ([Neutral] 邪魔になる)          Your bag is in the way.
+  > `stand in the way`              ([Neutral] 邪魔になる、阻む)    Nothing can stand in our way.
+  - `interfere` /ˌɪntərˈfɪr/        ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
+  - `interrupt` /ˌɪntəˈrʌpt/        ([Neutral] 中断する、遮る)      Please don't interrupt me.
+  - `disrupt` /dɪsˈrʌpt/            ([Neutral] 混乱させる、妨害)    The noise disrupted the meeting.
+  - `obstruct` /əbˈstrʌkt/          ([Formal] 妨害する、塞ぐ)       Don't obstruct the exit.
+  - `hinder` /ˈhɪndər/              ([Neutral] 妨げる、邪魔する)    Bad weather hindered our progress.
+  - `hamper` /ˈhæmpər/              ([Neutral] 妨げる、邪魔する)    Rain hampered the rescue efforts.
+  - `impede` /ɪmˈpiːd/              ([Formal] 妨げる、遅らせる)     Snow impeded traffic.
+  - `restrict` /rɪˈstrɪkt/          ([Neutral] 制限する、制約する)  Rules restrict our options.
+  - `limit` /ˈlɪmɪt/                ([Neutral] 制限する)            Time limits our choices.
+  - `inhibit` /ɪnˈhɪbɪt/            ([Formal] 抑制する、妨げる)     Fear inhibits learning.
+  - `thwart` /θwɔːrt/               ([Formal] 阻止する、挫折させる) They thwarted our plans.
+  - `foil` /fɔɪl/                   ([Neutral] 挫折させる、阻止)    Police foiled the robbery.
+  - `frustrate` /ˈfrʌstreɪt/        ([Neutral] 挫折させる 苛立たせ) Technical issues frustrated our efforts.
+  - `stymie` /ˈstaɪmi/              ([Casual] 妨害する、困らせる)   The problem stymied us.
+  - `bar` /bɑːr/                    ([Neutral] 締め出す、妨げる)    They barred him from entering.
+  - `prohibit` /prəˈhɪbɪt/          ([Formal] 禁止する)             The law prohibits smoking here.
+  - `forbid` /fərˈbɪd/              ([Neutral] 禁じる)              I forbid you to go.
+  - `ban` /bæn/                     ([Neutral] 禁止する)            They banned plastic bags.
+  - `deter` /dɪˈtɜːr/               ([Neutral] 思いとどまらせる)    High prices deter customers.
+  - `discourage` /dɪsˈkɜːrɪdʒ/      ([Neutral] 思いとどまらせる)    Don't discourage their efforts.
 
 ## WORK (GROW / UPDATE / GET / CLEAN UP)
 > `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
@@ -173,6 +222,31 @@
   - `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
   - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
   - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
+> `quit` /kwɪt/                     ([Casual] 辞める)               I quit my job yesterday.
+  - `leave` /liːv/                  ([Neutral] 去る、辞める)        She's leaving the company.
+  - `resign` /rɪˈzaɪn/              ([Neutral] 辞任する)            She resigned from her position.
+  - `retire` /rɪˈtaɪər/             ([Neutral] 退職する、引退する)  He retired after 30 years.
+  - `step down` /step daʊn/         ([Neutral] 退く)                The CEO will step down next month.
+  - `walk away` /wɔːk əˈweɪ/        ([Casual] 立ち去る、辞める)     He walked away from the deal.
+  - `give up` /ɡɪv ʌp/              ([Neutral] 諦める、辞める)      Don't give up your dreams.
+  - `bow out` /baʊ aʊt/             ([Neutral] 身を引く)            She bowed out gracefully.
+  - `withdraw` /wɪðˈdrɔː/           ([Neutral] 撤退する、引く)      They withdrew from the competition.
+  - `vacate` /veɪˈkeɪt/             ([Formal] 明け渡す、退去する)   Please vacate the premises.
+  - `depart` /dɪˈpɑːrt/             ([Formal] 去る、出発する)       The director departed suddenly.
+  - `exit` /ˈeɡzɪt/                 ([Neutral] 退場する、辞める)    He exited the business.
+  - `abandon` /əˈbændən/            ([Neutral] 放棄する、見捨てる)  They abandoned the project.
+  - `surrender` /səˈrendər/         ([Neutral] 降伏する、明け渡す)  He surrendered his position.
+  - `renounce` /rɪˈnaʊns/           ([Formal] 放棄する)             He renounced his claim to the throne.
+  - `relinquish` /rɪˈlɪŋkwɪʃ/       ([Formal] 手放す)               She relinquished control of the company.
+  - `abdicate` /ˈæbdɪkeɪt/          ([Formal] 退位する)             The king abdicated the throne.
+  - `step aside` /step əˈsaɪd/      ([Neutral] 身を引く、譲る)      He stepped aside for younger talent.
+  - `hand over` /hænd ˈoʊvər/       ([Neutral] 引き渡す)            She handed over her responsibilities.
+  - `turn in` /tɜːrn ɪn/            ([Casual] 提出する、辞める)     He turned in his badge.
+  - `call it quits` /kɔːl ɪt kwɪts/ ([Casual] やめる、終わりにする) Let's call it quits for today.
+  - `throw in the towel`            ([Casual] 諦める、降参する)     He threw in the towel after years of trying.
+  - `cede` /siːd/                   ([Formal] 譲渡する)             They ceded territory to the enemy.
+  - `forfeit` /ˈfɔːrfɪt/            ([Neutral] 没収される、失う)    He forfeited his rights.
+  - `waive` /weɪv/                  ([Formal] 放棄する、免除する)   She waived her claim to the property.
 
 ## BEHAVIOR (CALL / GET)
 > `call` /kɔːl/                     ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
@@ -234,48 +308,6 @@
   - `remedy` /ˈremədi/              ([Neutral] 治療する、改善する)  We need to remedy this situation.
   - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を投与する)        They medicated the patient for pain.
   - `administer` /ədˈmɪnɪstər/      ([Medical] 投与する、施す)      The nurse administered the vaccine.
-
-## 従う
-- ✅ `follow` /ˈfɑːloʊ/             ([Neutral] 従う、続く)          Please follow the instructions.
-  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
-  - ✅ `go along with`              ([Casual] 同調する、従う)       I'll go along with the plan.
-  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
-  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
-    - `adherence` /ædˈhɪrəns/       ([Formal] 遵守、忠実)           Adherence to policy is required.
-  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
-    - `obedience` /oʊˈbiːdiəns/     ([Formal] 服従、遵守)           Obedience to rules ensures safety.
-    - `obedient` /oʊˈbiːdiənt/      ([Neutral] 従順な、素直な)      She's an obedient employee.
-  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
-    - `conformance` /kənˈfɔːrməns/  ([Formal] 適合、遵守)           Conformance testing is complete.
-    - `conformity` /kənˈfɔːrmɪti/   ([Formal] 適合性、遵守)         Conformity with regulations is essential.
-  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
-  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
-    - `observance` /əbˈzɜːrvəns/    ([Formal] 遵守、守ること)       Observance of protocols is critical.
-  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
-  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
-  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
-  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
-  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
-    - `deference` /ˈdefərəns/       ([Formal] 敬意、尊重)           He showed deference to his superior.
-  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
-    - `submission` /səbˈmɪʃən/      ([Formal] 服従、提出)           Submission to authority is expected.
-  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
-  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
-  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
-  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
-
-## OBSTRUCT
-> `be in the way`                   ([Neutral] 邪魔になる)          Your bag is in the way.
-  - `get in the way`                ([Neutral] 邪魔をする)          Don't let fear get in the way.
-  - `stand in the way`              ([Neutral] 邪魔になる、阻む)    Nothing can stand in our way.
-
-## RESIGN
-- `resign` /rɪˈzaɪn/                ([Neutral] 辞任する)            She resigned from her position.
-- `step down` /step daʊn/           ([Neutral] 退く)                The CEO will step down next month.
-- `renounce` /rɪˈnaʊns/             ([Formal] 放棄する)             He renounced his claim to the throne.
-- `relinquish` /rɪˈlɪŋkwɪʃ/         ([Formal] 手放す)               She relinquished control of the company.
-- `abdicate` /ˈæbdɪkeɪt/            ([Formal] 退位する)             The king abdicated the throne.
-- `cede` /siːd/                     ([Formal] 譲渡する)             They ceded territory to the enemy.
 
 ## MOVE
 > `move` /muːv/                      ([Neutral] 移動する)           We're moving to a new city.
