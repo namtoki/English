@@ -248,7 +248,7 @@
   - `forfeit` /ˈfɔːrfɪt/            ([Neutral] 没収される、失う)    He forfeited his rights.
   - `waive` /weɪv/                  ([Formal] 放棄する、免除する)   She waived her claim to the property.
 
-## BEHAVIOR (CALL / GET)
+## BEHAVIOR (CALL / GET / PUT ON / TAKE OFF)
 > `call` /kɔːl/                     ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
   - `shout` /ʃaʊt/                  ([Neutral] 叫ぶ、大声で言う)    He shouted across the street.
   - `yell` /jɛl/                    ([Casual] 叫ぶ、怒鳴る)         The coach yelled at the players.
@@ -267,6 +267,35 @@
   - `call out` /kɔːl aʊt/           ([Neutral] 呼び出す、非難する)  The teacher called out the student's name.
   - `call up` /kɔːl ʌp/             ([Neutral] 電話する、呼び出す)  I'll call you up tomorrow.
   - `summon` /ˈsʌmən/               ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
+> `put on` /pʊt ɒn/                 ([Neutral] 着る、身に着ける)    Please put on your jacket.
+  > `wear` /weər/                   ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
+  - `slip on` /slɪp ɒn/             ([Casual] さっと着る)           I'll just slip on a sweater.
+  - `dress up` /dres ʌp/            ([Casual] おしゃれする)         She loves to dress up for parties.
+  - `throw on` /θrəʊ ɒn/            ([Casual] 急いで着る)           I threw on my jacket and left.
+  - `have on` /hæv ɒn/              ([Neutral] 着ている)            What do you have on today?
+  - `don` /dɒn/                     ([Formal] 身に着ける)           He donned his formal attire.
+  - `sport` /spɔːt/                 ([Casual] 身に着けて見せる)     She was sporting a new haircut.
+  - `clothe` /kləʊð/                ([Formal] 服を着せる)           They clothed the children warmly.
+  - `try on` /traɪ ɒn/              ([Neutral] 試着する)            I want to try on this shirt.
+> `take off` /teɪk ɒf/              ([Neutral] 脱ぐ)                Take off your shoes at the door.
+  - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
+  - `shed` /ʃɛd/                    ([Neutral] 脱ぐ)                He shed his coat at the door.
+  - `slip off` /slɪp ɒf/            ([Casual] さっと脱ぐ)           She slipped off her shoes.
+  - `doff` /dɒf/                    ([Formal] 脱ぐ)                 He doffed his hat politely.
+  - `strip` /strɪp/                 ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
+> `sit` /sɪt/                       ([Neutral] 座る)                Sit down and relax.
+> `bend` /bend/                     ([Neutral] 曲げる)              Bend your knees when lifting.
+  - `hunch` /hʌntʃ/                 ([Casual] 背を丸める)           Don't hunch over your desk.
+> `lean` /liːn/                     ([Neutral] 傾く、もたれる)      Don't lean against the wet paint.
+  - `tilt` /tɪlt/                   ([Neutral] 傾ける)              Tilt your head to the side.
+> `squat` /skwɒt/                   ([Neutral] しゃがむ)            Squat down to pick it up.
+  - `crouch` /kraʊtʃ/               ([Neutral] しゃがむ)            He crouched behind the wall.
+> `kneel` /niːl/                    ([Neutral] ひざまずく)          Please kneel during prayer.
+  - `genuflect` /ˈdʒenjʊflekt/      ([Formal] 片膝をつく)           Catholics genuflect before the altar.
+> `duck` /dʌk/                      ([Casual] 身をかがめる)         Duck your head under the branch!
+  - `stoop` /stuːp/                 ([Neutral] かがむ)              Don't stoop to their level.
+  - `slouch` /slaʊtʃ/               ([Casual] 前かがみになる)       Don't slouch in your chair.
+  - `slump` /slʌmp/                 ([Neutral] 前かがみになる)      He slumped in his chair.
 
 ## CHANGE (STIR / CALM)
 > `stir` /stɜːr/                    ([Neutral] 感情を揺さぶる)      The movie stirred my emotions.
@@ -309,79 +338,65 @@
   - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を投与する)        They medicated the patient for pain.
   - `administer` /ədˈmɪnɪstər/      ([Medical] 投与する、施す)      The nurse administered the vaccine.
 
-## MOVE
-> `move` /muːv/                      ([Neutral] 移動する)           We're moving to a new city.
-- `migrate` /maɪˈɡreɪt/              ([Neutral] 移住する)           Birds migrate south for winter.
-- `emigrate` /ˈemɪɡreɪt/             ([Formal] 移住する)            They emigrated from Poland to Canada.
-- `immigrate` /ˈɪmɪɡreɪt/            ([Formal] 移民する)            They immigrated to the United States.
-- `relocate` /ˌriːloʊˈkeɪt/          ([Neutral] 移転する)           The company relocated to Texas.
-
-## PUT ON
-> `put on` /pʊt ɒn/                 ([Neutral] 着る、身に着ける)    Please put on your jacket.
-> `wear` /weər/                     ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
-- `slip on` /slɪp ɒn/               ([Casual] さっと着る)           I'll just slip on a sweater.
-- `dress up` /dres ʌp/              ([Casual] おしゃれする)         She loves to dress up for parties.
-- `throw on` /θrəʊ ɒn/              ([Casual] 急いで着る)           I threw on my jacket and left.
-- `have on` /hæv ɒn/                ([Neutral] 着ている)            What do you have on today?
-- `don` /dɒn/                       ([Formal] 身に着ける)           He donned his formal attire.
-- `sport` /spɔːt/                   ([Casual] 身に着けて見せる)     She was sporting a new haircut.
-- `clothe` /kləʊð/                  ([Formal] 服を着せる)           They clothed the children warmly.
-- `try on` /traɪ ɒn/                ([Neutral] 試着する)            I want to try on this shirt.
-
-## TAKE OFF
-> `take off` /teɪk ɒf/              ([Neutral] 脱ぐ)                Take off your shoes at the door.
-- `undress` /ʌnˈdres/               ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
-- `shed` /ʃɛd/                      ([Neutral] 脱ぐ)                He shed his coat at the door.
-- `slip off` /slɪp ɒf/              ([Casual] さっと脱ぐ)           She slipped off her shoes.
-- `doff` /dɒf/                      ([Formal] 脱ぐ)                 He doffed his hat politely.
-- `strip` /strɪp/                   ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
-
-## GET TOGETHER
+## MOVE (MOVE / GO / TRAVEL / RELOCATE / TRANSPORT / GET TOGETHER / GET TO)
+> `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
+  - `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
+  - `transfer` /trænsˈfɜːr/         ([Neutral] 移す、転勤する)      He transferred to the Tokyo office.
+  - `proceed` /prəˈsiːd/            ([Formal] 進む、続行する)       Please proceed to the gate.
+  - `advance` /ədˈvæns/             ([Neutral] 前進する)            The army advanced slowly.
+  - `head` /hed/                    ([Neutral] 向かう)              Let's head home.
+  - `pass` /pæs/                    ([Neutral] 通る、通過する)      We passed through the town.
+  - `cross` /krɔːs/                 ([Neutral] 横切る、渡る)        Cross the street carefully.
+  - `navigate` /ˈnævɪɡeɪt/          ([Neutral] 案内する、進む)      Navigate through the traffic.
+  - `uproot` /ʌpˈruːt/              ([Neutral] 根こそぎ移動する)    The family uprooted to start fresh.
+> `go` /ɡoʊ/                        ([Neutral] 行く、移動する)      Let's go to the store.
+  - `drive` /draɪv/                 ([Neutral] 運転する、行く)      I'll drive to the airport.
+  - `fly` /flaɪ/                    ([Neutral] 飛ぶ、飛行機で行く)  We're flying to Paris tomorrow.
+  - `depart` /dɪˈpɑːrt/             ([Formal] 出発する)             The train departs at noon.
+  - `arrive` /əˈraɪv/               ([Neutral] 到着する)            We arrived late.
+> `travel` /ˈtrævəl/                ([Neutral] 旅行する、移動する)  I travel for work frequently.
+  - `journey` /ˈdʒɜːrni/            ([Neutral] 旅する)              They journeyed across the country.
+> `walk` /wɔːk/                     ([Neutral] 歩く)                I walk to work every day.
+  - `run` /rʌn/                     ([Neutral] 走る)                Run to catch the bus!
+  - `roam` /roʊm/                   ([Neutral] 放浪する、歩き回る)  They roamed the streets.
+  - `wander` /ˈwɑːndər/             ([Neutral] さまよう、歩き回る)  We wandered around the city.
+  - `drift` /drɪft/                 ([Neutral] 漂う、流れる)        The boat drifted downstream.
+> `relocate` /ˌriːloʊˈkeɪt/         ([Neutral] 移転する)            The company relocated to Texas.
+  - `migrate` /maɪˈɡreɪt/           ([Neutral] 移住する)            Birds migrate south for winter.
+  - `emigrate` /ˈemɪɡreɪt/          ([Formal] 移住する)             They emigrated from Poland to Canada.
+  - `immigrate` /ˈɪmɪɡreɪt/         ([Formal] 移民する)             They immigrated to the United States.
+  - `transplant` /trænsˈplænt/      ([Neutral] 移植する、移住する)  They transplanted to California.
+  - `resettle` /riːˈsetəl/          ([Formal] 再定住する)           Refugees resettled in new countries.
+> `transport` /trænsˈpɔːrt/         ([Neutral] 輸送する)            We'll transport the goods by truck.
 > `get together` /ɡet təˈɡeðər/     ([Casual] 集まる)               Let's get together with the old college friends
-- `gather` /ˈɡæðər/                 ([Neutral] 集まる)              Let's gather at the park tomorrow.
-- `meet` /miːt/                     ([Neutral] 会う)                Let's meet for coffee.
-- `assemble` /əˈsembl/              ([Formal] 集合する)             Please assemble in the main hall.
-- `congregate` /ˈkɒŋɡrɪɡeɪt/        ([Formal] 集合する)             Students congregate in the cafeteria.
-- `convene` /kənˈviːn/              ([Formal] 招集する)             The committee will convene next week.
-- `cluster` /ˈklʌstər/              ([Neutral] 群がる)              People clustered around the notice board.
-- `huddle` /ˈhʌdl/                  ([Casual] 身を寄せ合う)         We huddled together for warmth.
-- `bunch` /bʌntʃ/                   ([Casual] 束になる)             Don't bunch up in the doorway!
-- `flock` /flɒk/                    ([Neutral] 群がる)              Tourists flock to the beach in summer.
-- `swarm` /swɔːm/                   ([Neutral] 群がる)              Reporters swarmed around the star.
-- `converge` /kənˈvɜːdʒ/            ([Formal] 集中する)             Roads converge at the city center.
-- `rally` /ˈræli/                   ([Neutral] 結集する)            Supporters will rally at the park.
-- `muster` /ˈmʌstər/                ([Formal] 召集する)             Muster all available troops.
-- `snuggle` /ˈsnʌɡl/                ([Casual] 寄り添う)             Let's snuggle on the couch.
-- `nestle` /ˈnesl/                  ([Casual] 寄り添う)             The kitten nestled in my lap.
-
-## GET TO
+  - `gather` /ˈɡæðər/               ([Neutral] 集まる)              Let's gather at the park tomorrow.
+  - `meet` /miːt/                   ([Neutral] 会う)                Let's meet for coffee.
+  - `assemble` /əˈsembl/            ([Formal] 集合する)             Please assemble in the main hall.
+  - `congregate` /ˈkɒŋɡrɪɡeɪt/      ([Formal] 集合する)             Students congregate in the cafeteria.
+  - `convene` /kənˈviːn/            ([Formal] 招集する)             The committee will convene next week.
+  - `cluster` /ˈklʌstər/            ([Neutral] 群がる)              People clustered around the notice board.
+  - `huddle` /ˈhʌdl/                ([Casual] 身を寄せ合う)         We huddled together for warmth.
+  - `bunch` /bʌntʃ/                 ([Casual] 束になる)             Don't bunch up in the doorway!
+  - `flock` /flɒk/                  ([Neutral] 群がる)              Tourists flock to the beach in summer.
+  - `swarm` /swɔːm/                 ([Neutral] 群がる)              Reporters swarmed around the star.
+  - `converge` /kənˈvɜːdʒ/          ([Formal] 集中する)             Roads converge at the city center.
+  - `rally` /ˈræli/                 ([Neutral] 結集する)            Supporters will rally at the park.
+  - `muster` /ˈmʌstər/              ([Formal] 召集する)             Muster all available troops.
+  - `snuggle` /ˈsnʌɡl/              ([Casual] 寄り添う)             Let's snuggle on the couch.
+  - `nestle` /ˈnesl/                ([Casual] 寄り添う)             The kitten nestled in my lap.
 > `get to` /ɡet tuː/                ([Neutral] ～に着く、到着する)  How do I get to the station?
-- `arrive` /əˈraɪv/                 ([Neutral] 到着する)            We arrived at the airport on time.
   - `arrive at`                     ([Neutral] ～に到着する)        We arrived at our destination.
   - `arrive in`                     ([Neutral] ～に到着する)        I arrived in Tokyo yesterday.
-- `reach` /riːtʃ/                   ([Neutral] 到達する)            We reached the summit at noon.
-- `make it to`                      ([Casual] ～に着く、間に合う)   I barely made it to the meeting.
-- `get there`                       ([Casual] そこに着く)           How long does it take to get there?
-- `show up` /ʃoʊ ʌp/                ([Casual] 現れる、着く)         He finally showed up at 9 PM.
-- `turn up` /tɜːrn ʌp/              ([Casual] 現れる、着く)         She turned up late to the party.
-- `pull up` /pʊl ʌp/                ([Casual] 車で着く)             A taxi pulled up outside.
-- `roll up` /roʊl ʌp/               ([Casual] 車で着く)             They rolled up in a fancy car.
-- `go to` /ɡoʊ tuː/                 ([Neutral] ～に通う、行く)      I go to school every day.
-- `attend` /əˈtend/                 ([Formal] 通う、出席する)       She attends university in Boston.
-- `commute to` /kəˈmjuːt tuː/       ([Neutral] 通勤する)            I commute to work by train.
-
-## CROUCH
-> `bend` /bend/                     ([Neutral] 曲げる)              Bend your knees when lifting.
-> `lean` /liːn/                     ([Neutral] 傾く)                Don't lean against the wet paint.
-> `squat` /skwɒt/                   ([Neutral] しゃがむ)            Squat down to pick it up.
-- `kneel` /niːl/                    ([Neutral] ひざまずく)          Please kneel during prayer.
-- `crouch` /kraʊtʃ/                 ([Neutral] しゃがむ)            He crouched behind the wall.
-- `stoop` /stuːp/                   ([Neutral] かがむ)              Don't stoop to their level.
-> `duck` /dʌk/                      ([Casual] 身をかがめる)         Duck your head under the branch!
-- `hunch` /hʌntʃ/                   ([Casual] 背を丸める)           Don't hunch over your desk.
-- `cower` /ˈkaʊər/                  ([Neutral] 縮こまる)            The dog cowered in fear.
-- `genuflect` /ˈdʒenjʊflekt/        ([Formal] 片膝をつく)           Catholics genuflect before the altar.
-- `prostrate` /ˈprɒstreɪt/          ([Formal] 平伏する)             They prostrated themselves before the king.
+  - `reach` /riːtʃ/                 ([Neutral] 到達する)            We reached the summit at noon.
+  - `make it to`                    ([Casual] ～に着く、間に合う)   I barely made it to the meeting.
+  - `get there`                     ([Casual] そこに着く)           How long does it take to get there?
+  - `show up` /ʃoʊ ʌp/              ([Casual] 現れる、着く)         He finally showed up at 9 PM.
+  - `turn up` /tɜːrn ʌp/            ([Casual] 現れる、着く)         She turned up late to the party.
+  - `pull up` /pʊl ʌp/              ([Casual] 車で着く)             A taxi pulled up outside.
+  - `roll up` /roʊl ʌp/             ([Casual] 車で着く)             They rolled up in a fancy car.
+  - `go to` /ɡoʊ tuː/               ([Neutral] ～に通う、行く)      I go to school every day.
+  - `attend` /əˈtend/               ([Formal] 通う、出席する)       She attends university in Boston.
+  - `commute to` /kəˈmjuːt tuː/     ([Neutral] 通勤する)            I commute to work by train.
 
 ## TAKE OFF
 - `remove` /rɪˈmuːv/                ([Neutral] 取り除く)            Please remove your shoes.
