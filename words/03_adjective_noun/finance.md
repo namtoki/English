@@ -1,6 +1,6 @@
 # Finance
 
-## MONEY (MONEY / SAVINGS / INCOME / LUCRATIVE)
+## MONEY (MONEY / SAVINGS / INCOME / SPENDING / LUCRATIVE)
 > `money` /ˈmʌni/                   ([Neutral] お金)                I need to save more money.
   - `cash` /kæʃ/                    ([Neutral] 現金)                Do you have enough cash?
   - `debit card` /ˈdebɪt kɑːrd/     ([Neutral] キャッシュカード)    I'll pay with my debit card.
@@ -32,6 +32,7 @@
   - `inheritance` /ɪnˈherɪtəns/     ([Neutral] 相続財産)            He received an inheritance from his uncle.
   - `grant` /ɡrænt/                 ([Neutral] 助成金)              She received a research grant.
   - `subsidy` /ˈsʌbsədi/            ([Formal] 補助金)               The government provides farming subsidies.
+> `spending` /ˈspendɪŋ/             ([Neutral] 支出)                Government spending has increased.
 > `lucrative` /ˈluːkrətɪv/          ([Writing] 儲かる、有利な)      He has a lucrative business.
   - `profitable` /ˈprɒfɪtəbəl/      ([Neutral] 利益の出る)          The company had a profitable year.
 

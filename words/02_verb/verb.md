@@ -184,7 +184,7 @@
   - `deter` /dɪˈtɜːr/               ([Neutral] 思いとどまらせる)    High prices deter customers.
   - `discourage` /dɪsˈkɜːrɪdʒ/      ([Neutral] 思いとどまらせる)    Don't discourage their efforts.
 
-## WORK (GROW / UPDATE / GET / CLEAN UP)
+## WORK (GROW / UPDATE / GET / CLEAN UP / GET RID OF / SPEND / WASTE)
 > `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
   - `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
   - `extend` /ɪkˈstend/             ([Neutral] 延ばす、拡張する)    They extended the deadline.
@@ -222,6 +222,21 @@
   - `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
   - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
   - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
+> `get rid of` /ɡet rɪd əv/         ([Casual] 処分する)             Get rid of that old sofa.
+  - `throw away` /θrəʊ əˈweɪ/       ([Casual] 捨てる)               Don't throw away good food.
+  - `throw out` /θrəʊ aʊt/          ([Casual] 捨てる)               Throw out the expired milk.
+  - `toss` /tɔːs/                   ([Casual] 投げ捨てる)           Just toss it in the trash.
+  - `toss out` /tɔːs aʊt/           ([Casual] 捨てる)               Toss out those old magazines.
+  - `dump` /dʌmp/                   ([Casual] 投げ捨てる)           Don't dump garbage here.
+  - `ditch` /dɪtʃ/                  ([Casual] 捨てる、見捨てる)     He ditched his old phone.
+  - `chuck` /tʃʌk/                  ([Casual] 投げ捨てる)           Chuck it in the bin.
+  - `remove` /rɪˈmuːv/              ([Neutral] 取り除く)            Please remove your shoes.
+  - `discard` /dɪˈskɑːrd/           ([Formal] 廃棄する)             Discard any damaged items.
+  - `dispose of` /dɪˈspəʊz əv/      ([Formal] 処分する)             Dispose of hazardous waste properly.
+  - `eliminate` /ɪˈlɪmɪneɪt/        ([Formal] 除去する)             Eliminate unnecessary expenses.
+  - `do away with` /duː əˈweɪ wɪð/  ([Neutral] 廃止する)            They did away with the old rules.
+  - `scrap` /skræp/                 ([Casual] 廃棄する)             We scrapped the old plan.
+  - `junk` /dʒʌŋk/                  ([Casual] 廃棄する)             I junked my old computer.
 > `quit` /kwɪt/                     ([Casual] 辞める)               I quit my job yesterday.
   - `leave` /liːv/                  ([Neutral] 去る、辞める)        She's leaving the company.
   - `resign` /rɪˈzaɪn/              ([Neutral] 辞任する)            She resigned from her position.
@@ -247,6 +262,24 @@
   - `cede` /siːd/                   ([Formal] 譲渡する)             They ceded territory to the enemy.
   - `forfeit` /ˈfɔːrfɪt/            ([Neutral] 没収される、失う)    He forfeited his rights.
   - `waive` /weɪv/                  ([Formal] 放棄する、免除する)   She waived her claim to the property.
+> `spend` /spend/                   ([Neutral] 使う、費やす)        I spend too much on clothes.
+  - `pay for` /peɪ fɔː/             ([Neutral] 支払う)              I'll pay for dinner tonight.
+  - `afford` /əˈfɔːd/               ([Neutral] 余裕がある)          Can you afford a new car?
+  - `budget` /ˈbʌdʒɪt/              ([Neutral] 予算を立てる)        I budget $200 for groceries monthly.
+  - `invest` /ɪnˈvest/              ([Neutral] 投資する)            She invested in the stock market.
+  - `fund` /fʌnd/                   ([Neutral] 資金を出す)          The government funded the project.
+  - `splurge` /splɜːdʒ/             ([Casual] 散財する)             I decided to splurge on a new car.
+  - `contribute` /kənˈtrɪbjuːt/     ([Formal] 寄付する)             They contribute to charity regularly.
+  - `allocate` /ˈæləkeɪt/           ([Formal] 配分する)             We need to allocate funds wisely.
+> `waste` /weɪst/                   ([Neutral] 無駄にする)          Don't waste your time on this.
+  - `throw away` /θrəʊ əˈweɪ/       ([Neutral] 無駄にする)          Don't throw away your money on that.
+  - `blow` /bləʊ/                   ([Casual] 浪費する)             He blew all his money at the casino.
+  - `drain` /dreɪn/                 ([Neutral] 使い果たす)          This project is draining our budget.
+  - `burn through` /bɜːn θruː/      ([Casual] 使い果たす)           He burned through his savings in a month.
+  - `spend like water` /spend/      ([Casual] 湯水のように使う)     She spends money like water.
+  - `flush down` /flʌʃ daʊn/        ([Casual] 無駄にする)           He flushed his money down the drain.
+  > `squander` /ˈskwɒndə/           ([Writing] 浪費する)            Don't squander your money on useless things.
+  - `fritter` /ˈfrɪtə/              ([Writing] 浪費する)            He frittered away his inheritance.
 
 ## BEHAVIOR (CALL / GET / PUT ON / TAKE OFF)
 > `call` /kɔːl/                     ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
@@ -281,8 +314,13 @@
   - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
   - `shed` /ʃɛd/                    ([Neutral] 脱ぐ)                He shed his coat at the door.
   - `slip off` /slɪp ɒf/            ([Casual] さっと脱ぐ)           She slipped off her shoes.
+  - `strip off` /strɪp ɒf/          ([Casual] すばやく脱ぐ)         Strip off those wet clothes.
   - `doff` /dɒf/                    ([Formal] 脱ぐ)                 He doffed his hat politely.
   - `strip` /strɪp/                 ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
+  - `pull off` /pʊl ɒf/             ([Casual] 引っ張って脱ぐ)       Pull off your wet socks.
+  - `throw off` /θrəʊ ɒf/           ([Casual] 急いで脱ぐ)           He threw off his jacket.
+  - `kick off` /kɪk ɒf/             ([Casual] 蹴って脱ぐ)           She kicked off her heels.
+  - `slough` /slʌf/                 ([Writing] 脱ぎ捨てる)          The snake sloughed its skin.
 > `sit` /sɪt/                       ([Neutral] 座る)                Sit down and relax.
 > `bend` /bend/                     ([Neutral] 曲げる)              Bend your knees when lifting.
   - `hunch` /hʌntʃ/                 ([Casual] 背を丸める)           Don't hunch over your desk.
@@ -338,7 +376,7 @@
   - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を投与する)        They medicated the patient for pain.
   - `administer` /ədˈmɪnɪstər/      ([Medical] 投与する、施す)      The nurse administered the vaccine.
 
-## MOVE (MOVE / GO / TRAVEL / RELOCATE / TRANSPORT / GET TOGETHER / GET TO)
+## MOVE (MOVE / GO / TRAVEL / RELOCATE / TRANSPORT / GET TOGETHER / GET TO / SHOW UP / RUSH)
 > `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
   - `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
   - `transfer` /trænsˈfɜːr/         ([Neutral] 移す、転勤する)      He transferred to the Tokyo office.
@@ -397,71 +435,25 @@
   - `go to` /ɡoʊ tuː/               ([Neutral] ～に通う、行く)      I go to school every day.
   - `attend` /əˈtend/               ([Formal] 通う、出席する)       She attends university in Boston.
   - `commute to` /kəˈmjuːt tuː/     ([Neutral] 通勤する)            I commute to work by train.
-
-## TAKE OFF
-- `remove` /rɪˈmuːv/                ([Neutral] 取り除く)            Please remove your shoes.
-> `take off` /teɪk ɒf/              ([Casual] 脱ぐ)                 Take off your coat and relax.
-- `peel` /piːl/                     ([Neutral] 皮を剥く)            Peel the apple before eating.
-- `strip` /strɪp/                   ([Neutral] 剥ぎ取る)            Strip the old paint first.
-- `shed` /ʃed/                      ([Neutral] 落とす)              Dogs shed their winter coat.
-- `discard` /dɪˈskɑːd/              ([Formal] 廃棄する)             Discard any expired items.
-- `cast off` /kæst ɒf/              ([Neutral] 捨て去る)            Cast off those old habits.
-- `throw away` /θrəʊ əˈweɪ/         ([Casual] 捨てる)               Don't throw away good food.
-- `get rid of` /ɡet rɪd əv/         ([Casual] 処分する)             Get rid of that old sofa.
-- `dispose of` /dɪˈspəʊz əv/        ([Formal] 処分する)             Dispose of chemicals safely.
-- `eliminate` /ɪˈlɪmɪneɪt/          ([Formal] 除去する)             Eliminate all errors first.
-- `shuck` /ʃʌk/                     ([Casual] 殻を剥く)             Shuck the corn before grilling.
-- `molt` /məʊlt/                    ([Writing] 脱皮する)            Birds molt their feathers annually.
-- `slough` /slʌf/                   ([Writing] 脱ぎ捨てる)          The snake sloughed its skin.
-- `exfoliate` /eksˈfəʊlieɪt/        ([Formal] 角質除去)             Exfoliate your skin weekly.
-- `flake` /fleɪk/                   ([Casual] 剥がれ落ちる)         The paint is starting to flake.
-
-## APPEAR
-> `pop up` /pɑːp ʌp/                ([Neutral] 現れる、出現する)    A message popped up on screen.
-- `show up` /ʃoʊ ʌp/                ([Neutral] 現れる、姿を見せる)  He finally showed up at noon.
-- `turn up` /tɜːrn ʌp/              ([Neutral] 現れる、見つかる)    My keys turned up in the car.
-- `come up` /kʌm ʌp/                ([Neutral] 出てくる、起こる)    Something urgent came up.
-- `appear` /əˈpɪr/                  ([Neutral] 現れる、出現する)    She appeared at the door.
-- `emerge` /ɪˈmɜːrdʒ/               ([Neutral] 現れる、浮上する)    The sun emerged from the clouds.
-- `surface` /ˈsɜːrfɪs/              ([Neutral] 浮上する、現れる)    New evidence surfaced yesterday.
-- `materialize` /məˈtɪriəlaɪz/      ([Formal] 実体化する、現れる)   Help materialized quickly.
-- `spring up` /sprɪŋ ʌp/            ([Neutral] 急に現れる)          New shops are springing up everywhere.
-- `crop up` /krɑːp ʌp/              ([Casual] 突然起こる)           Problems keep cropping up.
-- `be in for` /bi ɪn fɔːr/          ([Casual] 直面する)             Looks like we'll be in for some wet weather over the next few days.
-
-## RUSH
-- `rush` /rʌʃ/                       ([Neutral] 急ぐ、突進する)     We rushed to the hospital.
-- `race` /reɪs/                      ([Neutral] 疾走する)           He raced down the stairs.
-- `speed` /spiːd/                    ([Neutral] スピードを出す)     Don't speed on the highway.
-- `dash` /dæʃ/                       ([Neutral] ダッシュする)       She dashed to catch the bus.
-- `zoom` /zuːm/                      ([Casual] 急速に動く)          The car zoomed past us.
-- `zip` /zɪp/                        ([Casual] 素早く動く)          He zipped through traffic.
-- `bolt` /boʊlt/                     ([Neutral] 突進する)           The horse bolted from the stable.
-- `whiz` /wɪz/                       ([Casual] ビュンと飛ぶ)        The bullet whizzed past my ear.
-
-## SPEND
-- `spend` /spend/                   ([Neutral] 使う、費やす)        I spend too much on clothes.
-  - `spending` /ˈspendɪŋ/           ([Neutral] 支出)                Government spending has increased.
-- `splurge` /splɜːdʒ/               ([Casual] 散財する)             I decided to splurge on a new car.
-- `invest` /ɪnˈvest/                ([Neutral] 投資する)            She invested in the stock market.
-- `allocate` /ˈæləkeɪt/             ([Formal] 配分する)             We need to allocate funds wisely.
-- `budget` /ˈbʌdʒɪt/                ([Neutral] 予算を立てる)        I budget $200 for groceries monthly.
-- `afford` /əˈfɔːd/                 ([Neutral] 余裕がある)          Can you afford a new car?
-- `pay for` /peɪ fɔː/               ([Neutral] 支払う)              I'll pay for dinner tonight.
-- `contribute` /kənˈtrɪbjuːt/       ([Formal] 寄付する)             They contribute to charity regularly.
-- `fund` /fʌnd/                     ([Neutral] 資金を出す)          The government funded the project.
-
-## WASTE
-- `waste` /weɪst/                   ([Neutral] 無駄にする)          Don't waste your time on this.
-  - `wasteful` /ˈweɪstfəl/          ([Neutral] 無駄遣いの)          That's a wasteful use of resources.
-- `blow` /bləʊ/                     ([Casual] 浪費する)             He blew all his money at the casino.
-- `throw away` /θrəʊ əˈweɪ/         ([Neutral] 無駄にする)          Don't throw away your money on that.
-- `burn through` /bɜːn θruː/        ([Casual] 使い果たす)           He burned through his savings in a month.
-- `drain` /dreɪn/                   ([Neutral] 使い果たす)          This project is draining our budget.
-- `spend like water` /spend/        ([Casual] 湯水のように使う)     She spends money like water.
-> `squander` /ˈskwɒndə/             ([Writing] 浪費する)            Don't squander your money on useless things.
-- `flush down` /flʌʃ daʊn/          ([Casual] 無駄にする)           He flushed his money down the drain.
-- `fritter` /ˈfrɪtə/                ([Writing] 浪費する)            He frittered away his inheritance.
+> `show up` /ʃoʊ ʌp/                ([Neutral] 現れる、姿を見せる)  He finally showed up at noon.
+  - `come up` /kʌm ʌp/              ([Neutral] 出てくる、起こる)    Something urgent came up.
+  - `turn up` /tɜːrn ʌp/            ([Neutral] 現れる、見つかる)    My keys turned up in the car.
+  - `appear` /əˈpɪr/                ([Neutral] 現れる、出現する)    She appeared at the door.
+  - `pop up` /pɑːp ʌp/              ([Neutral] 現れる、出現する)    A message popped up on screen.
+  - `crop up` /krɑːp ʌp/            ([Casual] 突然起こる)           Problems keep cropping up.
+  - `emerge` /ɪˈmɜːrdʒ/             ([Neutral] 現れる、浮上する)    The sun emerged from the clouds.
+  - `surface` /ˈsɜːrfɪs/            ([Neutral] 浮上する、現れる)    New evidence surfaced yesterday.
+  - `spring up` /sprɪŋ ʌp/          ([Neutral] 急に現れる)          New shops are springing up everywhere.
+  - `be in for` /bi ɪn fɔːr/        ([Casual] 直面する)             Looks like we'll be in for some wet weather over the next few days.
+  - `materialize` /məˈtɪriəlaɪz/    ([Formal] 実体化する、現れる)   Help materialized quickly.
+> `rush` /rʌʃ/                      ([Neutral] 急ぐ、突進する)      We rushed to the hospital.
+  - `speed` /spiːd/                 ([Neutral] スピードを出す)      Don't speed on the highway.
+  - `race` /reɪs/                   ([Neutral] 疾走する)            He raced down the stairs.
+  - `dash` /dæʃ/                    ([Neutral] ダッシュする)        She dashed to catch the bus.
+  - `zoom` /zuːm/                   ([Casual] 急速に動く)           The car zoomed past us.
+  - `zip` /zɪp/                     ([Casual] 素早く動く)           He zipped through traffic.
+  - `whiz` /wɪz/                    ([Casual] ビュンと飛ぶ)         The bullet whizzed past my ear.
+  - `bolt` /boʊlt/                  ([Neutral] 突進する)            The horse bolted from the stable.
 
 ## GET BETTER
 > `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.

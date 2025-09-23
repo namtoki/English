@@ -1707,3 +1707,5 @@
     - `observance` /əbˈzɜːrvəns/    ([Formal] 遵守、守ること)       Observance of protocols is critical.
     - `deference` /ˈdefərəns/       ([Formal] 敬意、尊重)           He showed deference to his superior.
     - `submission` /səbˈmɪʃən/      ([Formal] 服従、提出)           Submission to authority is expected.
+
+  - `wasteful` /ˈweɪstfəl/          ([Neutral] 無駄遣いの)          That's a wasteful use of resources.
