@@ -135,6 +135,11 @@
 - `tinge` /tɪndʒ/                   ([Neutral] 色合い、気味)        There was a tinge of sadness in her voice.
   - `tinged` /tɪndʒd/               ([Neutral] 帯びた、染まった)    The sky was tinged with pink.
 - `hue` /hjuː/                      ([Neutral] 色合い、色調)        The painting has beautiful hues.
+  - `color` /ˈkʌlər/                ([Neutral] 色)                  What color is your car?
+  - `tone` /toʊn/                   ([Neutral] 色調、調子)          The warm tone of the photograph.
+  - `pigment` /ˈpɪɡmənt/            ([Technical] 顔料)              The pigment gives the paint its color.
+  - `dye` /daɪ/                     ([Neutral] 染料)                The fabric was colored with dye.
+  - `chromatic` /kroʊˈmætɪk/        ([Technical] 色彩の)             The chromatic scale includes all colors.
 - `tint` /tɪnt/                     ([Neutral] 色合い、淡い色)      Add a tint of blue to the paint.
 - `shade` /ʃeɪd/                    ([Neutral] 色合い、陰)          A darker shade of red.
 - `nuance` /ˈnuːɑːns/              ([Formal] ニュアンス、微妙な差)  The nuance of his expression.

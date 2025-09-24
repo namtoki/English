@@ -243,7 +243,7 @@
   - `perform` /pərˈfɔːrm/           ([Neutral] 実行する、遂行する)  She performed the task well.
   - `conduct` /kənˈdʌkt/            ([Formal] 実施する、遂行する)   They conducted the experiment.
 
-## TEAM (DISCUSS / TAKE UP / MOVE ON TO / TAKE / TAKE ON / BE IN CHARGE OF / HAND OVER TO / LEAVE UP TO / ASSIGN / SCHEDULE)
+## TEAM (DISCUSS / TAKE UP / MOVE ON TO / START OFF WITH / TAKE / TAKE ON / BE IN CHARGE OF / HAND OVER TO / LEAVE UP TO / ASSIGN / SCHEDULE)
 > `discuss` /dɪˈskʌs/               ([Neutral] 議論する、話し合う)  We'll discuss this issue next week.
   > `take up` /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
   - `address` /əˈdres/              ([Neutral] 取り組む、対処する)  We'll address this issue next week.
@@ -262,6 +262,18 @@
   - `advance to` /ədˈvæns tuː/      ([Formal] 進む、前進する)       Let's advance to the next agenda item.
   - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
   - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
+> `start off with` /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
+  - `begin with` /bɪˈɡɪn wɪð/       ([Neutral] ～で始める)          Begin with the basics.
+  - `kick off with` /kɪk ɔːf wɪð/   ([Casual] ～で始める)           Let's kick off with introductions.
+  - `lead off with` /liːd ɔːf wɪð/  ([Neutral] ～で始める)          She led off with a joke.
+  - `open with` /ˈoʊpən wɪð/        ([Neutral] ～で始める)          The show opened with a song.
+  - `commence with` /kəˈmens wɪð/   ([Formal] ～で始める)           The ceremony commenced with a speech.
+> `start off by` /stɑːrt ɔːf baɪ/   ([Neutral] ～することから始る)  Start off by reading the instructions.
+  - `begin by` /bɪˈɡɪn baɪ/         ([Neutral] ～することから始る)  Begin by understanding the problem.
+  - `kick off by` /kɪk ɔːf baɪ/     ([Casual] ～することから始める) We'll kick off by reviewing last week.
+  - `lead off by` /liːd ɔːf baɪ/    ([Neutral] ～することから始る)  He led off by thanking everyone.
+  - `open by` /ˈoʊpən baɪ/          ([Neutral] ～することから始る)  Open by stating your name.
+  - `commence by` /kəˈmens baɪ/     ([Formal] ～することから始める) Commence by reading the instructions.
 > `take` /teɪk/                     ([Neutral] 引き受ける、取る)    I'll take the job.
   > `take on` /teɪk ɑːn/            ([Neutral] 引き受ける)          I'll take on this challenge.
   > `take over` /teɪk ˈoʊvər/       ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.

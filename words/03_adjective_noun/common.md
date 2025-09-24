@@ -29,6 +29,13 @@
 - `legality` /liˈɡæləti/            ([Formal] 合法性)              They questioned the legality of the decision.
 - `deposition` /ˌdepəˈzɪʃən/        ([Formal] 証言録取、退位)        She gave a deposition to the lawyer.
 - `pedestal` /ˈpedɪstəl/            ([Neutral] 台座、高い地位)        The statue stands on a marble pedestal.
+- `stealth` /stelθ/                 ([Neutral] 隠密、ステルス)      The mission required complete stealth.
+  - `stealthy` /ˈstelθi/            ([Neutral] 隠密な、こっそりした)    The cat made a stealthy approach.
+  - `secrecy` /ˈsiːkrəsi/           ([Neutral] 秘密性)              The plan was carried out in secrecy.
+  - `covertness` /ˈkoʊvərtnəs/      ([Formal] 隠密性)               The covertness of the operation was crucial.
+  - `sneakiness` /ˈsniːkinəs/       ([Casual] こっそりした行為)      His sneakiness made everyone suspicious.
+  - `discretion` /dɪˈskreʃən/       ([Formal] 慎重さ、判断力)        She handled the matter with discretion.
+  - `cunning` /ˈkʌnɪŋ/              ([Neutral] 狡猾さ、巧妙さ)       His cunning helped him avoid detection.
 
 ## CONTAINERS
 - `pail` /peɪl/                     ([Neutral] バケツ、桶)           She carried water in a pail.
@@ -190,6 +197,12 @@
 - `priory` /ˈpraɪəri/               ([Neutral] 小修道院)            The priory was founded in 1066.
 - `cathedral` /kəˈθidrəl/           ([Neutral] 大聖堂)              The cathedral has beautiful stained glass.
 - `chapel` /ˈtʃæpəl/                ([Neutral] 礼拝堂、小聖堂)      They got married in a small chapel.
+- `porch` /pɔːrtʃ/                  ([Neutral] 玄関、ベランダ)      We sat on the front porch.
+  - `veranda` /vəˈrændə/            ([Neutral] ベランダ)            The veranda wraps around the house.
+  - `balcony` /ˈbælkəni/            ([Neutral] バルコニー)          She stepped out onto the balcony.
+  - `deck` /dek/                    ([Neutral] デッキ)              We built a wooden deck in the backyard.
+  - `terrace` /ˈterəs/              ([Neutral] テラス)              The restaurant has a lovely terrace.
+  - `entryway` /ˈentriweɪ/          ([Neutral] 入口、玄関)          The entryway was decorated with flowers.
 
 ## CONCEPT
 - `concept` /ˈkɑːnsept/             ([Neutral] 概念、構想)          The concept looks good, but we need more details.
@@ -452,6 +465,7 @@
 ## MIGRATION
 - `migrant` /ˈmaɪɡrənt/              ([Neutral] 移民、移住者)        Many migrants seek better opportunities.
 - `migratory` /ˈmaɪɡrətɔːri/         ([Writing] 移住性の)            Migratory birds travel thousands of miles.
+- `displacement` /dɪsˈpleɪsmənt/     ([Neutral] 移動、置き換え)      The displacement of people due to war.
 
 ## INMATE
 - `inmate` /ˈɪnmeɪt/                 ([Neutral] 受刑者、収容者)      The prison has 500 inmates.
@@ -1709,3 +1723,12 @@
     - `submission` /səbˈmɪʃən/      ([Formal] 服従、提出)           Submission to authority is expected.
 
   - `wasteful` /ˈweɪstfəl/          ([Neutral] 無駄遣いの)          That's a wasteful use of resources.
+
+
+## GOOD WAY FORWARD
+- `good way forward`                ([Neutral] 良い前進方法)        That seems like a good way forward.
+  - `way forward`                   ([Neutral] 前進方法)            We need to find a way forward.
+  - `path forward`                  ([Neutral] 前進の道)            Let's discuss the path forward.
+  - `best way forward`              ([Neutral] 最善の前進方法)      What's the best way forward?
+  - `way to go`                     ([Casual] 進むべき道)           That's the way to go!
+  - `next steps`                    ([Neutral] 次のステップ)        Let's talk about next steps.

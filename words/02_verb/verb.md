@@ -379,6 +379,11 @@
 ## MOVE (MOVE / GO / TRAVEL / RELOCATE / TRANSPORT / GET TOGETHER / GET TO / SHOW UP / RUSH)
 > `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
   - `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
+  - `displace` /dɪsˈpleɪs/          ([Neutral] 押しのける)          The flood displaced many families.
+  - `replace` /rɪˈpleɪs/            ([Neutral] 取り替える)          They replaced the old equipment.
+  - `substitute` /ˈsʌbstɪtuːt/      ([Neutral] 代用する)            We can substitute honey for sugar.
+  - `supplant` /səˈplænt/           ([Formal] 取って代わる)         New technology supplanted the old.
+  - `dislodge` /dɪsˈlɑːdʒ/          ([Neutral] 押しのける)          The storm dislodged several trees.
   - `transfer` /trænsˈfɜːr/         ([Neutral] 移す、転勤する)      He transferred to the Tokyo office.
   - `proceed` /prəˈsiːd/            ([Formal] 進む、続行する)       Please proceed to the gate.
   - `advance` /ədˈvæns/             ([Neutral] 前進する)            The army advanced slowly.

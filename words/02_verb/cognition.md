@@ -45,7 +45,7 @@
   - `evoke` /ɪˈvoʊk/                ([Writing] 想起させる)          The music evoked memories of childhood.
   - `summon up` /ˈsʌmən ʌp/         ([Formal] 呼び起こす)           He summoned up courage from memories.
 
-## COGNITION (UNDERSTAND / GET / RECOGNIZE / FIND ONESELF V-ING / FORGET / SLIP ONE'S MIND / BE A BLUR / KEEP IN MIND)
+## COGNITION (UNDERSTAND / GO OVER MY HEAD / RECOGNIZE / FIND ONESELF V-ING / FORGET / SLIP ONE'S MIND / BE A BLUR / KEEP IN MIND)
 > `understand` /ˌʌndərˈstænd/       ([Neutral] 理解する)            I understand your concern.
   > `get` /ɡet/                     ([Casual] 理解する)             I get what you mean.
   - `see` /siː/                     ([Neutral] 想像する、理解する)  I can see that happening.
@@ -60,6 +60,12 @@
   - `fathom` /ˈfæðəm/               ([Formal] 理解する、推測する)   I can't fathom his motives.
   - `perceive` /pərˈsiːv/           ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
   - `sink in` /sɪŋk ɪn/             ([Neutral] 実感が湧く)          It took a while for the news to sink in.
+> `go over ~'s head`                ([Neutral] 理解を超える)        The joke went over my head.
+  - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
+  - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
+  - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
+  - `go behind ~'s back`            ([Neutral] 陰で行う)            He went behind his boss's back.
+  - `be lost on ~`                  ([Neutral] 理解されない)        The irony was lost on him.
 > `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める)    I didn't recognize him at first.
   - `identify` /aɪˈdentɪfaɪ/        ([Neutral] 見分ける、特定する)  Can you identify the suspect?
   - `tell` /tel/                    ([Casual] 見分ける、区別する)   I can't tell the twins apart.
