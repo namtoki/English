@@ -212,7 +212,7 @@
   > `one that is`                   ([Neutral] ~であるもの)         I need a car, one that is reliable.
   - `what I meant to say was`       ([Neutral] 言うつもりだたのは)  Sorry, what I meant to say was Thursday.
 
-## ASSUMING THAT / SUPPOSING THAT / GIVEN THAT / PROVIDED THAT / IF YOU DON'T MIND / IF IT WORKS FOR YOU / DEPENDING ON HOW YOU LOOK AT IT / IF ANYTHING
+## ASSUMING THAT / SUPPOSING THAT / GIVEN THAT / PROVIDED THAT / IF YOU DON'T MIND / IF IT WORKS FOR YOU / DEPENDING ON HOW YOU LOOK AT IT / IF ANYTHING / ON A SCALE OF 1 TO 10
 > `assuming that` /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
   > `supposing that`                ([Neutral] ～だと仮定して)      Supposing that he refuses, what will you do?
   - `considering that`              ([Neutral] ～を考慮すると)      Considering that it's raining, we should take umbrellas.
@@ -252,6 +252,11 @@
   - `if I had to choose`            ([Neutral] 選ぶなら)            If I had to choose, I'd pick the blue one.
   - `if I had to guess`             ([Casual] 推測するなら)         If I had to guess, they'll arrive late.
   - `if I were to guess`            ([Formal] 推測するとすれば)     If I were to guess, I'd say it's broken.
+> `on a scale of 1 to 10`           ([Neutral] 1から10で評価すると) On a scale of 1 to 10, how was your day?
+  - `on a scale of 1 to 5`          ([Neutral] 1から5で評価すると)  On a scale of 1 to 5, rate the service.
+  - `from 1 to 10`                  ([Casual] 1から10で)            From 1 to 10, how likely are you to recommend us?
+  - `rate from 1 to 10`             ([Neutral] 1から10で評価して)   Rate from 1 to 10 your satisfaction level.
+  - `scale from 0 to 10`            ([Neutral] 0から10の範囲で)     Scale from 0 to 10, where 0 is worst.
 
 ## TO ME / THE WAY I SEE IT / I THINK / IF I'M NOT MISTAKEN / IT'S JUST THAT / IT'S MORE THAT
 > `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.

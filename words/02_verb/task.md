@@ -333,9 +333,12 @@
   - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
   - `put together` /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
 
-## INFLUENCE (AFFECT / RUB OFF ON / COME DOWN TO)
-> `affect` /əˈfekt/                 ([Neutral] 影響する、作用する)  The changes will affect everyone.
-- `influence` /ˈɪnfluəns/           ([Neutral] 影響する、左右する)  Weather influences our mood.
+## INFLUENCE (HAVE AN EFFECT / RUB OFF ON / COME DOWN TO)
+> `have an effect`                  ([Neutral] 影響を与える)        The weather can have an effect on mood.
+  - `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
+  - `influence` /ˈɪnfluəns/         ([Neutral] 影響する、左右する)  Weather influences our mood.
+  - `have an impact`                ([Neutral] 影響を与える)        Your words have an impact on people.
+  - `make a difference`             ([Neutral] 影響を与える)        Your help really makes a difference.
   - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
   - `shape` /ʃeɪp/                  ([Neutral] 形作る、左右する)    Experiences shape our personality.
   - `control` /kənˈtroʊl/           ([Neutral] 支配する、制御する)  Who controls the budget?
