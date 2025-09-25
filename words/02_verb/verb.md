@@ -6,6 +6,12 @@
   - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
   - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
   - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
+  - `tether` /ˈteðər/               ([Neutral] 繋ぎ止める)          He tethered his horse to the tree.
+  - `tie` /taɪ/                     ([Neutral] 結ぶ、縛る)          Please tie your shoes.
+  - `bind` /baɪnd/                  ([Neutral] 縛る、拘束する)      They bound his hands with rope.
+  - `fasten` /ˈfæsən/               ([Neutral] 固定する、留める)    Fasten your seatbelt.
+  - `secure` /sɪˈkjʊr/              ([Neutral] 固定する、確保する)  Secure the rope to the post.
+  - `attach` /əˈtætʃ/               ([Neutral] 取り付ける)          Attach the file to your email.
 > `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
   - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
   - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
@@ -42,7 +48,33 @@
   - `make arrangements`             ([Neutral] 手配する)            I'll make arrangements for the trip.
   - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
 
-## STATUS (DECREASE / REDUCE / DECLINE / SUBSIDE / BE BATHED IN)
+## STATUS (GET BETTER / DECREASE / REDUCE / DECLINE / SUBSIDE / BE BATHED IN)
+> `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
+  - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
+  - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
+  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、良くなる)  His condition is improving daily.
+  - `recover` /rɪˈkʌvər/            ([Neutral] 回復する)            She recovered from the illness.
+  - `heal` /hiːl/                   ([Neutral] 癒える、治る)        The wound will heal in time.
+  - `pick up` /pɪk ʌp/              ([Casual] 回復する、元気になる) She's starting to pick up now.
+  - `bounce back` /baʊns bæk/       ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
+  - `be on the mend` /ɒn ðə mend/   ([Casual] 回復中)               He's on the mend now.
+  > `pull through` /pʊl θruː/       ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
+  - `get back on one's feet`        ([Casual] 立ち直る)             It took months to get back on his feet.
+  - `turn the corner`               ([Neutral] 峠を越える)          The patient has turned the corner.
+  > `come around` /kʌm əˈraʊnd/     ([Neutral] 意識を取り戻す)      He came around after the surgery.
+  - `perk up` /pɜːk ʌp/             ([Casual] 元気を取り戻す)       She perked up after some rest.
+  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
+  - `recuperate` /rɪˈkuːpəreɪt/     ([Formal] 回復する、療養する)   He's recuperating at home.
+  - `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
+  - `revive` /rɪˈvaɪv/              ([Medical] 蘇生する、復活する)  The paramedics revived him.
+  - `rally` /ˈræli/                 ([Medical] 持ち直す)            The patient rallied overnight.
+  - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
+  - `recoup` /rɪˈkuːp/              ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
+  > `be in remission` /rɪˈmɪʃən/    ([Medical] 寛解、軽快)          The cancer is in remission.
+  - `rehabilitate` /ˌriːəˈbɪlɪteɪt/ ([Formal] リハビリする)         They rehabilitated his injured knee.
+  - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
+  - `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
+  - `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養す 回復期にある) She's convalescing after surgery.
 > `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
   - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
   - `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
@@ -184,7 +216,7 @@
   - `deter` /dɪˈtɜːr/               ([Neutral] 思いとどまらせる)    High prices deter customers.
   - `discourage` /dɪsˈkɜːrɪdʒ/      ([Neutral] 思いとどまらせる)    Don't discourage their efforts.
 
-## WORK (GROW / UPDATE / GET / CLEAN UP / GET RID OF / SPEND / WASTE)
+## WORK (GROW / UPDATE / GET / CLEAN UP / GET RID OF / SPEND / WASTE / GO THROUGH)
 > `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
   - `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
   - `extend` /ɪkˈstend/             ([Neutral] 延ばす、拡張する)    They extended the deadline.
@@ -280,6 +312,16 @@
   - `flush down` /flʌʃ daʊn/        ([Casual] 無駄にする)           He flushed his money down the drain.
   > `squander` /ˈskwɒndə/           ([Writing] 浪費する)            Don't squander your money on useless things.
   - `fritter` /ˈfrɪtə/              ([Writing] 浪費する)            He frittered away his inheritance.
+> `have` /hæv/                      ([Neutral] 受ける、経験する)    I had surgery last week.
+  > `go through` /ɡoʊ θruː/         ([Casual] 経験する、通り抜ける) He went through a difficult time.
+  - `experience` /ɪkˈspɪriəns/      ([Neutral] 経験する)            We experienced some difficulties.
+  - `face` /feɪs/                   ([Neutral] 直面する)            She faces surgery next month.
+  - `receive` /rɪˈsiːv/             ([Neutral] 受ける)              She received treatment for her condition.
+  - `encounter` /ɪnˈkaʊntər/        ([Neutral] 遭遇する、経験する)  We encountered several problems.
+  - `undergo` /ˌʌndərˈɡoʊ/          ([Neutral] 経験する、受ける)    She will undergo surgery tomorrow.
+  - `confront` /kənˈfrʌnt/          ([Neutral] 直面する 立ち向かう) They confronted many challenges.
+  - `submit to` /səbˈmɪt tuː/       ([Neutral] 服従する 受け入れる) He submitted to the medical examination.
+  - `be subjected to`               ([Formal] 受ける、さらされる)   The samples were subjected to testing.
 
 ## BEHAVIOR (CALL / GET / PUT ON / TAKE OFF)
 > `call` /kɔːl/                     ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
@@ -376,7 +418,7 @@
   - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を投与する)        They medicated the patient for pain.
   - `administer` /ədˈmɪnɪstər/      ([Medical] 投与する、施す)      The nurse administered the vaccine.
 
-## MOVE (MOVE / GO / TRAVEL / RELOCATE / TRANSPORT / GET TOGETHER / GET TO / SHOW UP / RUSH)
+## MOVE (MOVE / GO / TRAVEL / RELOCATE / TRANSPORT / GET TOGETHER / GET TO / SHOW UP / RUSH / SEE A DOCTOR)
 > `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
   - `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
   - `displace` /dɪsˈpleɪs/          ([Neutral] 押しのける)          The flood displaced many families.
@@ -459,69 +501,10 @@
   - `zip` /zɪp/                     ([Casual] 素早く動く)           He zipped through traffic.
   - `whiz` /wɪz/                    ([Casual] ビュンと飛ぶ)         The bullet whizzed past my ear.
   - `bolt` /boʊlt/                  ([Neutral] 突進する)            The horse bolted from the stable.
-
-## GET BETTER
-> `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
-  > `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
-  > `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
-- `recover` /rɪˈkʌvər/              ([Neutral] 回復する)            She recovered from the illness.
-- `heal` /hiːl/                     ([Neutral] 癒える、治る)        The wound will heal in time.
-- `improve` /ɪmˈpruːv/              ([Neutral] 改善する、良くなる)  His condition is improving daily.
-- `bounce back` /baʊns bæk/         ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
-> `pull through` /pʊl θruː/         ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
-- `get back on one's feet`          ([Casual] 立ち直る)             It took months to get back on his feet.
-- `pick up` /pɪk ʌp/                ([Casual] 回復する、元気になる) She's starting to pick up now.
-- `mend` /mend/                     ([Neutral] 回復する、修復する)  His broken bones are mending well.
-  - `on the mend` /ɒn ðə mend/      ([Casual] 回復中)               He's on the mend now.
-- `recuperate` /rɪˈkuːpəreɪt/       ([Formal] 回復する、療養する)   He's recuperating at home.
-- `turn the corner`                 ([Neutral] 峠を越える)          The patient has turned the corner.
-> `come around` /kʌm əˈraʊnd/       ([Neutral] 意識を取り戻す)      He came around after the surgery.
-  - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
-- `perk up` /pɜːk ʌp/               ([Casual] 元気を取り戻す)       She perked up after some rest.
-- `rally` /ˈræli/                   ([Medical] 持ち直す)            The patient rallied overnight.
-- `rehabilitate` /ˌriːəˈbɪlɪteɪt/   ([Formal] リハビリする)         They rehabilitated his injured knee.
-- `restore` /rɪˈstɔːr/              ([Formal] 回復する、復元する)   The treatment restored his health.
-- `revive` /rɪˈvaɪv/                ([Medical] 蘇生する、復活する)  The paramedics revived him.
-- `rejuvenate` /rɪˈdʒuːvəneɪt/      ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
-- `regenerate` /rɪˈdʒenəreɪt/       ([Medical] 再生する)            Some tissues can regenerate naturally.
-- `recoup` /rɪˈkuːp/                ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
-- `convalesce` /ˌkɒnvəˈles/         ([Writing] 療養す 回復期にある) She's convalescing after surgery.
-> `remission` /rɪˈmɪʃən/            ([Medical] 寛解、軽快)          The cancer is in remission.
-
-## SEE A DOCTOR
 > `see a doctor`                    ([Neutral] 医者に診てもらう)    I need to see a doctor about this pain.
-> `go to the doctor`                ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
-- `consult a doctor`                ([Formal] 医師に相談する)       Please consult a doctor before taking this.
-- `get checked`                     ([Casual] 検査を受ける)         You should get checked soon.
-
-## UNDERGO
-- `undergo` /ˌʌndərˈɡoʊ/            ([Neutral] 経験する、受ける)    She will undergo surgery tomorrow.
-- `experience` /ɪkˈspɪriəns/        ([Neutral] 経験する)            We experienced some difficulties.
-
-- `endure` /ɪnˈdjʊr/                ([Neutral] 耐える、我慢する)    He endured years of hardship.
-- `withstand` /wɪðˈstænd/           ([Neutral] 耐える、抵抗する)    The building can withstand earthquakes.
-- `sustain` /səˈsteɪn/              ([Formal] 受ける、維持する)     He sustained serious injuries.
-- `suffer` /ˈsʌfər/                 ([Neutral] 苦しむ、患う)        She suffers from migraines.
-- `be subject to`                   ([Neutral] 〜を受ける)          The plan is subject to approval.
-- `be liable to` /biː ˈlaɪəbəl tuː/ ([Formal] 〜しがちである)       He's liable to forget important details.
-- `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
-- `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
-- `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
-- `struggle` /ˈstrʌɡəl/               ([Neutral] 苦闘する)            She struggled with depression.
-- `flounder` /ˈflaʊndər/             ([Neutral] もがく、困惑する)    He floundered during the interview.
-- `stumble` /ˈstʌmbəl/               ([Neutral] つまずく、よろめく)  I stumbled over the stone.
-- `falter` /ˈfɔːltər/                ([Neutral] よろめく、躊躇する)  Her voice faltered with emotion.
-- `fumble` /ˈfʌmbəl/                 ([Neutral] 手探りする、もたつく) He fumbled for his keys.
-- `stagger` /ˈstæɡər/                ([Neutral] ふらつく、よろめく)  He staggered out of the bar.
-- `abound` /əˈbaʊnd/                 ([Neutral] 豊富にある)          Opportunities abound in this city.
-- `proliferate` /prəˈlɪfəreɪt/       ([Formal] 急増する、繁殖する)   Smartphones proliferated rapidly.
-- `flourish` /ˈflɜːrɪʃ/             ([Neutral] 繁栄する)            The arts flourish in this city.
-- `thrive` /θraɪv/                   ([Neutral] 繁栄する、成長する)  Children thrive with encouragement.
-- `teem` /tiːm/                      ([Neutral] あふれる、満ちる)    The forest teems with wildlife.
-- `ache` /eɪk/                       ([Neutral] 痛む)                My back aches after sitting too long.
-- `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
-- `throb` /θrɒb/                    ([Neutral] ズキズキ痛む)        My tooth is throbbing.
-- `agonize` /ˈæɡənaɪz/              ([Neutral] 苦悶する)            He agonized over the decision.
+  - `go to the doctor`              ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
+  - `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
+  - `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
 
 ## OBSTRUCT
 - `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
@@ -759,3 +742,31 @@
 
 ## FAMILIAR
 - `get the hang of` /ɡet ðə hæŋ əv/ ([Casual] コツをつかむ)         I'm getting the hang of it now.
+
+- `suffer` /ˈsʌfər/                 ([Neutral] 苦しむ、患う)        She suffers from migraines.
+- `agonize` /ˈæɡənaɪz/              ([Neutral] 苦悶する)            He agonized over the decision.
+
+- `be liable to` /biː ˈlaɪəbəl tuː/ ([Formal] 〜しがちである)       He's liable to forget important details.
+- `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
+- `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
+- `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
+
+- `struggle` /ˈstrʌɡəl/               ([Neutral] 苦闘する)            She struggled with depression.
+- `flounder` /ˈflaʊndər/             ([Neutral] もがく、困惑する)    He floundered during the interview.
+
+
+- `stumble` /ˈstʌmbəl/               ([Neutral] つまずく、よろめく)  I stumbled over the stone.
+- `falter` /ˈfɔːltər/                ([Neutral] よろめく、躊躇する)  Her voice faltered with emotion.
+- `fumble` /ˈfʌmbəl/                 ([Neutral] 手探りする、もたつく) He fumbled for his keys.
+- `stagger` /ˈstæɡər/                ([Neutral] ふらつく、よろめく)  He staggered out of the bar.
+
+- `abound` /əˈbaʊnd/                 ([Neutral] 豊富にある)          Opportunities abound in this city.
+
+- `proliferate` /prəˈlɪfəreɪt/       ([Formal] 急増する、繁殖する)   Smartphones proliferated rapidly.
+- `flourish` /ˈflɜːrɪʃ/             ([Neutral] 繁栄する)            The arts flourish in this city.
+- `thrive` /θraɪv/                   ([Neutral] 繁栄する、成長する)  Children thrive with encouragement.
+- `teem` /tiːm/                      ([Neutral] あふれる、満ちる)    The forest teems with wildlife.
+
+- `ache` /eɪk/                       ([Neutral] 痛む)                My back aches after sitting too long.
+- `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
+- `throb` /θrɒb/                    ([Neutral] ズキズキ痛む)        My tooth is throbbing.

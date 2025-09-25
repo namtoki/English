@@ -252,6 +252,12 @@
 > `abuse` /əˈbjuːz/                 ([Neutral] 虐待する、濫用する)  Don't abuse your authority.
   - `mistreat` /ˌmɪsˈtriːt/         ([Neutral] 虐待する 粗末に扱う) Don't mistreat animals.
   - `maltreat` /ˌmælˈtriːt/         ([Formal] 虐待する、酷使する)   They maltreated the prisoners.
+  - `molest` /məˈlest/              ([Formal] 性的暴行、嫌がらせ)   He was arrested for molesting children.
+  - `harass` /həˈræs/               ([Neutral] 嫌がらせする)        She was harassed at work.
+  - `violate` /ˈvaɪəleɪt/           ([Formal] 侵害する、暴行する)    The crime violated his rights.
+  - `victimize` /ˈvɪktɪmaɪz/        ([Neutral] 被害者にする)        Don't victimize the innocent.
+  - `persecute` /ˈpɜːrsɪkjuːt/      ([Formal] 迫害する)             They persecuted religious minorities.
+  - `brutalize` /ˈbruːtəlaɪz/       ([Formal] 残虐に扱う)           The prisoners were brutalized.
 > `abuse` /əˈbjuːz/                 ([Neutral] 悪用する、濫用する)  She abused her position of power.
   - `misuse` /ˌmɪsˈjuːz/            ([Neutral] 誤用する、悪用する)  He misused company funds.
   - `exploit` /ɪkˈsplɔɪt/           ([Neutral] 悪用する、利用する)  They exploited the loophole in the system.

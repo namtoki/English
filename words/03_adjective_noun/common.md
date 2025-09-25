@@ -48,6 +48,10 @@
 - `recess` /rɪˈses/                 ([Neutral] 凹み、隠れ場所)       A hidden recess in the wall.
 - `crevice` /ˈkrevɪs/               ([Neutral] 裂け目、割れ目)       Water seeped through the crevice.
 - `gateway` /ˈɡeɪtweɪ/              ([Neutral] 入口、玄関口)         The gateway to the city.
+- `track` /træk/                     ([Neutral] 道、経路)            A rough mountain track.
+- `bustle` /ˈbʌsəl/                 ([Neutral] 活気、喧騒)          The hustle and bustle of the city.
+- `tether` /ˈteðər/                 ([Neutral] 繋ぎ綱、拘束)        The dog reached the end of its tether.
+- `molestation` /ˌmoʊləˈsteɪʃən/   ([Formal] 性的嫌がらせ)         He was charged with molestation.
 
 ## SUBJECT
 - `subject` /ˈsʌbdʒɪkt/             ([Neutral] 主題、科目)          Math is my favorite subject.
@@ -1724,7 +1728,6 @@
 
   - `wasteful` /ˈweɪstfəl/          ([Neutral] 無駄遣いの)          That's a wasteful use of resources.
 
-
 ## GOOD WAY FORWARD
 - `good way forward`                ([Neutral] 良い前進方法)        That seems like a good way forward.
   - `way forward`                   ([Neutral] 前進方法)            We need to find a way forward.
@@ -1732,3 +1735,11 @@
   - `best way forward`              ([Neutral] 最善の前進方法)      What's the best way forward?
   - `way to go`                     ([Casual] 進むべき道)           That's the way to go!
   - `next steps`                    ([Neutral] 次のステップ)        Let's talk about next steps.
+
+## FAME AND RECOGNITION
+- `household name` /ˈhaʊshoʊld neɪm/ ([Neutral] 有名人、著名な名前)  She became a household name in the 1960s.
+- `celebrity` /səˈlebrəti/           ([Neutral] 有名人、著名人)      He's a local celebrity in town.
+- `big name` /bɪɡ neɪm/             ([Casual] 有名人、大物)         She's a big name in Hollywood.
+- `superstar` /ˈsuːpərstɑːr/        ([Casual] スーパースター)       He became a superstar overnight.
+- `public figure` /ˈpʌblɪk ˈfɪɡjər/ ([Neutral] 著名人、公人)        As a public figure, she's careful with her words.
+- `icon` /ˈaɪkɒn/                   ([Neutral] アイコン、偶像)       She's an icon in the fashion world.

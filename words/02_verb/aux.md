@@ -1,5 +1,6 @@
 # Aux
 
+## 使役動詞
 - `make O    V` /meɪk/              ([強制的]  OにVさせる)          The movie made me cry.
 - `get  O to V` /ɡet/               ([説得/依頼] OにVさせる)        I got him to help with the project.
 - `have O    V` /hæv/               ([指示/依頼] OにVさせる)        I'll have him call you back.
@@ -8,6 +9,8 @@
 - `get  O    C` /ɡet/               ([感情/徐々] OをCの状態にする)  This song gets me feeling nostalgic.
 - `have O    C` /hæv/               ([状態維持] OをCの状態に保つ)   I have my room clean.
 - `have O    Ved` /hæv/             ([間接/依頼] OをVしてもらう)    I had my car repaired yesterday.
+
+## TIME SENSE ()
 - `get around to` /ɡet əˈraʊnd tuː/ ([Neutral] やっと～する)        I'll get around to fixing it soon.
 - `still manage to`                 ([Neutral] それでもしてしまう)  I still manage to make mistakes.
 

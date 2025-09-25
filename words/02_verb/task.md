@@ -34,7 +34,12 @@
   - `discover` /dɪˈskʌvər/          ([Neutral] 発見する)            We discovered the root cause.
   - `uncover` /ʌnˈkʌvər/            ([Neutral] 明らかにする)        The investigation uncovered new evidence.
   - `get to the bottom of`          ([Casual] 真相を突き止める)     I'll get to the bottom of this.
-  - `track down` /træk daʊn/        ([Neutral] 突き止める、追跡)    I'll track down the source of the error.
+  - `track` /træk/                  ([Neutral] 追跡する)            We're tracking the shipment.
+  - `track down` /træk daʊn/        ([Neutral] 探し出す)            I finally tracked down the book I wanted.
+  - `hunt down` /hʌnt daʊn/         ([Neutral] 追い詰める)          Police hunted down the suspect.
+  - `trace` /treɪs/                 ([Neutral] 追跡する)            They traced the call to his location.
+  - `locate` /loʊˈkeɪt/             ([Neutral] 見つける)            We need to locate the source.
+  - `dig up` /dɪɡ ʌp/               ([Casual] 掘り出す)             She dug up some old photos.
   - `pin down` /pɪn daʊn/           ([Neutral] 特定する、明確にする) Let's pin down the exact problem.
   - `nail down` /neɪl daʊn/         ([Casual] 確定する、特定する)   We need to nail down the details.
   - `root out` /ruːt aʊt/           ([Neutral] 根本原因を見つける)  We must root out the problem.
@@ -366,7 +371,7 @@
   - `revolve around`                ([Neutral] ～を中心とする)      The story revolves around family.
   - `hinge on` /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.
 
-## DETAILED ACTION (SHORTEN / CUT CORNERS / SLACK OFF / GRANT / ASSURE)
+## DETAILED ACTION (SHORTEN / CUT CORNERS / BUSTLE / SLACK OFF / GRANT / ASSURE)
 > `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.
   - `condense` /kənˈdens/           ([Neutral] 凝縮する)            Condense your report to one page.
   - `abbreviate` /əˈbriːvieɪt/      ([Formal] 短縮する)             Please abbreviate the company name.
@@ -384,6 +389,12 @@
   - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
   - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
   - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+> `bustle` /ˈbʌsəl/                 ([Neutral] 忙しく動き回る)      She bustled around the kitchen.
+  - `hustle` /ˈhʌsəl/               ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
+  - `scurry` /ˈskɜːri/              ([Neutral] あわただしく動く)    Mice scurried across the floor.
+  - `dash` /dæʃ/                    ([Neutral] 急いで走る)          I need to dash to the store.
+  - `scramble` /ˈskræmbəl/          ([Neutral] よじ登る、慌てる)    Everyone scrambled to finish on time.
+  - `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
 > `grant` /ɡrɑːnt/                  ([Formal] 認可する、付与する)   The committee granted my request.
   - `allow` /əˈlaʊ/                 ([Neutral] 許可する)            My parents allowed me to go to the party.
   - `permit` /pəˈmɪt/               ([Formal] 許可する)             Smoking is not permitted here.

@@ -1,4 +1,4 @@
-# FRAMEWORK
+# Conjunctive Adverb
 
 ## TO BEGIN WITH / THEN / NEXT / MOVING ON / ANYWAY / GOING BACK TO / SO / OVERALL
 > `to begin with` /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
@@ -155,7 +155,7 @@
   - `much to the surprise of O`     ([Neutral] Oが驚いたことには)   Much to the surprise of everyone, she quit.
   - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
 
-## AS S V / LIKE S V / AS FOR / I MEAN / AS IN
+## AS S V / LIKE S V / AS FOR / I MEAN / THE POINT IS / AS IN
 > `like S Vpast`                    (S が V した通り)
   - `like I said`                   ([Casual] さっき言ったように)   Like I said, we need to leave early.
   - `like I told you`               ([Casual] 言った通り)           Like I told you, he's always late.
@@ -628,7 +628,13 @@
   - `much more`                     ([Neutral] ずっと多く)          This costs much more.
   - `many more`                     ([Neutral] ずっと多く)          Many more people joined.
   - `a lot more`                    ([Casual] ずっと多く)           We need a lot more help.
-  - `way more`                      ([Casual] ずっと多く)           That's way more than enough.
+  - `way more`                      ([Casual] ずっと多く)           That's way more than I expected.
+  - `more than enough`              ([Neutral] 十分すぎるほど)      There was more than enough food for everyone.
+  - `plenty`                        ([Neutral] 十分な、たくさん)    We have plenty of time.
+  - `ample`                         ([Formal] 十分な、豊富な)       There's ample space for everyone.
+  - `abundant`                      ([Formal] 豊富な、たっぷり)     The region has abundant resources.
+  - `sufficient`                    ([Formal] 十分な)               This should be sufficient for our needs.
+  - `adequate`                      ([Neutral] 適切な、十分な)      The facilities are adequate.
   - `far more`                      ([Neutral] はるかに多く)        This is far more difficult.
   - `a good deal of`                ([Neutral] かなりの)            A good deal of time was spent.
   - `a great deal of`               ([Formal] 大いなる)             A great deal of effort was required.

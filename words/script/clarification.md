@@ -1,5 +1,5 @@
 
-- 01_framework/framework.md - お決まりの構文構造パターンや副詞表現
+- 01_framework/conjunctive-adverb.md - "接続副詞" と "後ろに S V が続く表現 (I think S V など)"
 - 01_framework/template.md - 定型文
 - 02_verb/aux.md - 助動詞のような働きの動詞
 - 02_verb/cognition.md - 認知系の動詞 (思った瞬間に行動が完了している動詞)

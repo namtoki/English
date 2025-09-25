@@ -122,7 +122,7 @@
   - `theorize` /ˈθiːəraɪz/          ([Neutral] 理論化する)          They theorized about the origins.
   - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   What can we infer from this data?
 
-## FAVOR (LIKE / BE INTO / BE OBSESSED WITH / NEED / BE ENOUGH / BE FINE / WILL DO / AGREE WITH / BE FOR)
+## FAVOR (LIKE / BE INTO / BE OBSESSED WITH / NEED / BE ENOUGH / BE FINE / WILL DO / AGREE WITH / BE FOR / COMPLAIN ABOUT)
 > `like` /laɪk/                     ([Neutral] 好き)                I like chocolate.
   - `love` /lʌv/                    ([Neutral] 愛する、大好き)      I love this music.
   - `enjoy` /ɪnˈdʒɔɪ/               ([Neutral] 楽しむ、気に入る)    I enjoy reading books.
@@ -184,6 +184,27 @@
   - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
   - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
   - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
+> `complain about`                  ([Neutral] 文句を言う)          They complained about the delay.
+  - `be upset with`                 ([Casual] 腹を立てる)           I'm upset with his decision.
+  - `be angry with`                 ([Neutral] 怒っている)          He's angry with the service.
+  - `be mad at`                     ([Casual] 怒っている)           She's mad at me for being late.
+  - `criticize`                     ([Neutral] 批判する)            The press criticized the government's decision.
+  - `take issue with`               ([Neutral] 異議を唱える)        I take issue with your assessment.
+  - `be frustrated with`            ([Neutral] イライラしている)    I'm frustrated with this computer.
+  - `object to`                     ([Neutral] 反対する)            I object to this proposal.
+  - `disapprove of`                 ([Neutral] 反対する)            My parents disapprove of my career choice.
+  - `be irritated by`               ([Neutral] イライラする)        She's irritated by the noise.
+  - `call out`                      ([Casual] 非難する)             She called him out on his behavior.
+  - `find fault with`               ([Neutral] 欠点を見つける)      She always finds fault with my work.
+  - `hold accountable`              ([Neutral] 責任を問う)          We must hold them accountable for their actions.
+  - `have a beef with`              ([Casual] 不満がある)           She has a beef with her boss about the schedule.
+  - `have words with`               ([Casual] 言い争う)             I need to have words with him about this.
+  - `pick on`                       ([Casual] いじめる、文句を言う) Don't pick on your little brother.
+  - `take to task`                  ([Formal] 叱責する)             The manager took him to task for his mistakes.
+  - `take exception to`             ([Formal] 異議を申し立てる)     I take exception to your remarks.
+  - `have a bone to pick with`      ([Casual] 文句がある)           I have a bone to pick with you about yesterday.
+  - `have an axe to grind`          ([Neutral] 私怨がある)          He has an axe to grind with the company.
+  - `air grievances`                ([Formal] 不満を表明する)       The staff met to air their grievances.
 
 ## WANT
 > `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
