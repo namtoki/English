@@ -1,5 +1,25 @@
 # GRAMMER
 
+## Conversational Deletion
+
+- Statement
+  - Positive: I, It
+    - (I        am): Feeling great today! / Working on the project right now!
+    - (It       is): Hot as hell outside. / Almost time for dinner.
+    - (I)       `was`: Was thinking about calling you yesterday. / Was at the supermarket down the street.
+    - (It)      `was`: Was nice meeting you yesterday. / Was a lot colder than expected.
+    - (I      have): Already finished my homework, so I can go at any time. / Been to Paris a few times and absolutely,,,
+    - (It      has): Been a long day at work. / Rained every day this week.
+    - (I       had): Completed the task before the deadline. / Sorry left the office when you called.
+    - (It      had): Snowed heavily before we arrived. / Been a year since we last saw each other.
+    - (I)  `過去形`: Studied for the exam all night. / told him not to do it. / Just wanted to say hi.
+    - (It) `一般動詞`: 
+  - Negative
+- Questions
+
+---
+
+
 - [ ] `could`                         ([Neutral] 「できた」で使えるのは、過去の期間を表す語句か状態動詞に限る) I `could hear` the birds singing this morning.
 - 疑問詞と共に用いる should:                  「いったい」「そもそも」という意になる
 - 三人称 will V:                              することがある / するものだ / He `will` often take a nap while at work.
