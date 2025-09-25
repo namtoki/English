@@ -1743,3 +1743,62 @@
 - `superstar` /ˈsuːpərstɑːr/        ([Casual] スーパースター)       He became a superstar overnight.
 - `public figure` /ˈpʌblɪk ˈfɪɡjər/ ([Neutral] 著名人、公人)        As a public figure, she's careful with her words.
 - `icon` /ˈaɪkɒn/                   ([Neutral] アイコン、偶像)       She's an icon in the fashion world.
+
+> `tons of`                         ([Casual] たくさんの)           I have tons of homework.
+  - `loads of`                      ([Casual] たくさんの)           We have loads of time.
+  > `a bunch of`                    ([Casual] たくさんの)           A bunch of people came.
+  - `heaps of`                      ([Casual] 山ほどの)             There are heaps of problems.
+  - `masses of`                     ([Casual] 大量の)               Masses of people attended.
+  - `different`                     ([Neutral] 異なる)              Different people have different views.
+  - `all kinds of`                  ([Casual] あらゆる種類の)       I eat all kinds of food.
+  - `all sorts of`                  ([Casual] あらゆる種類の)       She reads all sorts of books.
+  - `various kinds of`              ([Neutral] 様々な種類の)        Various kinds of flowers bloom here.
+  - `different types of`            ([Neutral] 異なる種類の)        Different types of cars are available.
+  - `most of`                       ([Neutral] ほとんどの)          Most of the work is done.
+  - `some more`                     ([Casual] もう少し)              Can I have some more coffee?
+  - `a bit more`                    ([Casual] もう少し)              I need a bit more time.
+  - `a little more`                 ([Neutral] もう少し)            Just a little more patience.
+  - `much more`                     ([Neutral] ずっと多く)          This costs much more.
+  - `many more`                     ([Neutral] ずっと多く)          Many more people joined.
+  - `a lot more`                    ([Casual] ずっと多く)           We need a lot more help.
+  - `way more`                      ([Casual] ずっと多く)           That's way more than I expected.
+  - `more than enough`              ([Neutral] 十分すぎるほど)      There was more than enough food for everyone.
+  - `plenty`                        ([Neutral] 十分な、たくさん)    We have plenty of time.
+  - `ample`                         ([Formal] 十分な、豊富な)       There's ample space for everyone.
+  - `abundant`                      ([Formal] 豊富な、たっぷり)     The region has abundant resources.
+  - `sufficient`                    ([Formal] 十分な)               This should be sufficient for our needs.
+  - `adequate`                      ([Neutral] 適切な、十分な)      The facilities are adequate.
+  - `far more`                      ([Neutral] はるかに多く)        This is far more difficult.
+  - `a good deal of`                ([Neutral] かなりの)            A good deal of time was spent.
+  - `a great deal of`               ([Formal] 大いなる)             A great deal of effort was required.
+  - `a fair amount of`              ([Neutral] かなりの)            A fair amount of work remains.
+  - `a considerable amount of`      ([Formal] かなりの)             A considerable amount of money was spent.
+  - `an enormous amount of`         ([Neutral] 膨大な)              An enormous amount of data was collected.
+  - `a huge amount of`              ([Casual] 膨大な)               A huge amount of time was wasted.
+  - `a vast amount of`              ([Formal] 膨大な)               A vast amount of research was done.
+  - `a wealth of`                   ([Neutral] 豊富な)               She has a wealth of experience.
+  - `a number of`                   ([Formal] 多数の)               A number of factors were considered.
+  - `a handful of`                  ([Neutral] 少数の)              Only a handful of people came.
+  - `a couple of`                   ([Casual] いくつかの)           I need a couple of minutes.
+  - `no more than`                  ([Neutral] せいぜい)            It costs no more than $20.
+  - `no less than`                  ([Neutral] 〜も)                No less than 100 people came.
+  - `at least`                      ([Neutral] 少なくとも)          At least 50 people attended.
+  - `at most`                       ([Neutral] せいぜい)            At most 10 people can fit.
+  - `up to`                         ([Neutral] 最大で)              Up to 20 people can join.
+  - `as many as`                    ([Neutral] 〜も)                As many as 1000 people came.
+  - `as much as`                    ([Neutral] 〜も)                It costs as much as $500.
+  - `as few as`                     ([Neutral] わずか)              As few as 5 people showed up.
+  - `as little as`                  ([Neutral] わずか)              It costs as little as $10.
+  - `A out of B`                    ([Neutral] BのうちのA)          3 out of 5 people agreed.
+  - `A in B`                        ([Neutral] BのうちのA)          1 in 10 people disagree.
+
+> `and stuff` /ænd stʌf/            ([Casual] とかそういうの)       He likes pizza, burgers, and stuff.
+  - `and all that` /ænd ɔːl ðæt/    ([Casual] などなど、~とか)      He likes movies, books, and all that.
+  - `and the like` /ænd ðə laɪk/    ([Neutral] そういうもの)        We need books, papers, and the like.
+  - `and such` /ænd sʌtʃ/           ([Neutral] そういったもの)      He studies math, science, and such.
+  - `et cetera` /ɛt ˈsɛtərə/        ([Formal] その他)               They sell books, magazines, et cetera.
+  - `and so on` /ænd soʊ ɑn/        ([Neutral] というように)        One, two, three, and so on.
+  - `and whatnot` /ænd ˈwʌtnɑt/     ([Casual] など)                 She collects stamps, coins, and whatnot.
+  - `and so forth` /ænd soʊ fɔrθ/   ([Neutral] などなど)            First, second, third, and so forth.
+  - `and things` /ænd θɪŋz/         ([Casual] とかいろいろ)         She bought shoes, bags, and things.
+  - `and all that jazz`             ([Casual] そういうもの全部)     He talks about success, money, and all that jazz.

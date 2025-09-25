@@ -258,7 +258,7 @@
   - `rate from 1 to 10`             ([Neutral] 1から10で評価して)   Rate from 1 to 10 your satisfaction level.
   - `scale from 0 to 10`            ([Neutral] 0から10の範囲で)     Scale from 0 to 10, where 0 is worst.
 
-## TO ME / THE WAY I SEE IT / I THINK / IF I'M NOT MISTAKEN / IT'S JUST THAT / IT'S MORE THAT
+## TO ME / THE WAY I SEE IT / I THINK / IF I'M NOT MISTAKEN / IT'S JUST THAT / IT'S MORE THAT / IT MAKES SENSE THAT / THE SAME GOES FOR
 > `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
   - `in my opinion`                 ([Neutral] 私の意見では)        In my opinion, this is the best option.
   - `in my view` /ɪn maɪ vjuː/      ([Neutral] 私の見解では)        In my view, we need more time.
@@ -306,6 +306,16 @@
   > `My concern is that S V`        ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
   > `My understanding is (that)`    ([Neutral] 私の理解では)        My understanding is that we start Monday.
   - `My take is` /maɪ teɪk ɪz/      ([Casual] 私の見方は)           My take is that we should proceed.
+> `It makes sense that S V`         ([Neutral] ～は理にかなってる)  It makes sense that prices went up.
+  > `It makes sense for A to B`     ([Neutral] AがBするのが理にかなう) It makes sense for them to wait.
+  - `It's only natural that S V`    ([Neutral] ～するのが自然)      It's only natural that he's tired.
+  - `It's logical that S V`         ([Formal] ～は論理的だ)         It's logical that we proceed carefully.
+  - `It's reasonable that S V`      ([Neutral] ～は妥当だ)          It's reasonable that they need more time.
+  - `It stands to reason that S V`  ([Formal] ～は当然だ)           It stands to reason that costs will rise.
+  - `It's understandable that S V`  ([Neutral] ～は理解できる)      It's understandable that she's upset.
+> `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
+  - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
+  - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
 
 ## IT'S LIKELY THAT / CHANCES ARE / THERE'S A CHANCE THAT
 > `It appears (that)` S V           ([Formal] ～のようだ)           It appears that the system is down.
@@ -345,7 +355,7 @@
 - `supposedly` S V                  ([Neutral] ～らしい)            Supposedly, he's an expert in this field.
 - `be sure to` /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
 
-## I'M SURE THAT / I'M CONFIDENT THAT / GOTTA / BE MEANT TO / BE SUPPOSED TO / BE ABOUT TO / BE OBLIGATED TO / ENDED UP -ING
+## I'M SURE THAT / I'M CONFIDENT THAT
 > `I believe` S V                   ([Neutral] 私は信じる)          I believe we can achieve this goal.
   - `I bet` S V                     ([Casual] きっと～だ)           I bet he forgot about the meeting.
   - `I hope` S V                    ([Neutral] ～であってほしい)    I hope everything goes smoothly tomorrow.
@@ -357,48 +367,6 @@
   - `I'm certain (that)` S V        ([Formal] ～を確信している)     I'm certain that we'll succeed.
   - `I'm positive (that)` S V       ([Casual] ～を確信している)     I'm positive that I locked the door.
   - `I have no doubt (that)` S V    ([Formal] ～を疑わない)         I have no doubt that she'll succeed.
-> `gotta` /ˈɡɑːtə/                  ([Casual] ～しなきゃ)           I gotta go now.
-  > `I had better` /aɪ hæd ˈbetər/  ([Casual] しなきゃ)             I had better get going.
-  > `have got to` /hæv ɡɑːt tuː/    ([Casual] ～しなきゃ)           I've got to finish this tonight.
-  - `need to` /niːd tuː/            ([Neutral] ～する必要がある)    I need to finish this report.
-  - `have to` /hæv tuː/             ([Neutral] ～しなけばならない)  I have to leave early today.
-  - `must` /mʌst/                   ([Formal] ～しなければならない) You must submit it by Friday.
-  - `should` /ʃʊd/                  ([Neutral] ～すべきだ)          You should check your email.
-  - `ought to` /ɔːt tuː/            ([Formal] ～すべきだ)           You ought to apologize.
-  > `be required to` /rɪˈkwaɪərd tuː([Formal] ～が要求される)       Students are required to attend.
-  - `better` /ˈbetər/               ([Casual] ～したほうがいい)     You better hurry up.
-  - `had better` /hæd ˈbetər/       ([Neutral] ～したほうがいい)    You had better be careful.
-> `be meant to` /ment tuː/          ([Neutral] ～するつもり)        I meant to call you earlier.
-  - `be intended to` /ɪnˈtendɪd tuː/([Neutral] ～するつもりだった)  I intended to finish today.
-> `be supposed to` /səˈpoʊzd tuː/   ([Neutral] ～することになてる)  I'm supposed to meet him at 3.
-    > `was supposed to`             ([Neutral] するはずだった)      She was supposed to be here by now.
-  > `be expected to` /ɪkˈspektɪd tuː([Neutral] ～が期待される)      You're expected to be on time.
-  - `be due to` /duː tuː/           ([Neutral] ～する予定)          The baby is due to arrive soon.
-  - `be scheduled to` /ˈskedʒuːld tu([Formal] ～が予定されている)   The meeting is scheduled to start at 9.
-  > `be set to` /set tuː/           ([Neutral] ～することになてる)  The project is set to launch Monday.
-  - `be slated to` /ˈsleɪtɪd tuː/   ([Formal] ～が予定されている)   She's slated to speak at noon.
-  - `be intending to` /ɪnˈtendɪŋ tuː([Formal] ～するつもり)         I was intending to call you.
-  - `be destined to` /ˈdestɪnd tuː/ ([Formal] ～する運命)           She was destined to succeed.
-> `be about to` /əˈbaʊt tuː/        ([Neutral] まさに～するところ)  The show is about to start.
-    - `be just about to`            ([Neutral] ちょうどするところ)  I was just about to leave.
-  > `be gonna` /ˈɡʌnə/              ([Casual] ～しようとしている)   I'm gonna head out soon.
-  > `be going to` /ˈɡoʊɪŋ tuː/      ([Casual] ～しようとしている)   I'm going to call him now.
-  - `be fixin' to` /ˈfɪksɪn tuː/    ([Casual] ～するところ)         I'm fixin' to make dinner.
-  - `be on the verge of` /vɜːrdʒ/   ([Neutral] ～の寸前)            She's on the verge of tears.
-  - `be on the point of` /pɔɪnt/    ([Formal] まさに～しようと)     I was on the point of calling you.
-  - `be on the brink of` /brɪŋk/    ([Neutral] ～の瀬戸際)          We're on the brink of success.
-  - `be close to` /kloʊs tuː/       ([Neutral] ～に近い)            I'm close to finishing.
-    - `come close to -ing`          ([Neutral] 危うくしそうになる)  I came close to missing my flight.
-  - `be near to` /nɪr tuː/          ([Formal] ～に近い)             She was near to giving up.
-> `obligated to` /ˈɑːblɪɡeɪtɪd tuː/ ([Formal] ～する義務がある)     I feel obligated to help.
-  > `have no choice` /hæv noʊ tʃɔɪs/([Neutral] 選択肢がない)        I have no choice but to quit.
-  - `forced to` /fɔːrst tuː/        ([Neutral] ～を強いられる)      I was forced to leave early.
-  - `stuck with` /stʌk wɪð/         ([Casual] ～で身動き取れない)   I'm stuck with this decision.
-  - `compelled to` /kəmˈpeld tuː/   ([Formal] ～せざるを得ない)     I felt compelled to speak up.
-  - `obliged to` /əˈblaɪdʒd tuː/    ([Formal] ～する義務がある)     You're obliged to report it.
-> `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
-> `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
-> `was going to` /wəz ˈɡoʊɪŋ tuː/   ([Neutral] するつもりだった)    I was going to call but forgot.
 
 ## BECAUSE / THE REASON BEING THAT / FOR ONE THING / IN ORDER TO / SO THAT / BASED ON / IN THE SENSE THAT / JUST IN CASE
 > `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
@@ -586,78 +554,3 @@
   - `, accompanied by O`            ([Formal] Oを伴って)            Meals, accompanied by wine pairings.
   - `, including O`                 ([Neutral] Oを含めて)           Packages, including delivery service.
   - `, with O included`             ([Neutral] Oが含まれて)         Subscriptions, with premium features included.
-
-## KIND OF / AND STUFF / TONS OF / A BUNCH OF
-> `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
-  > `sort of` /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
-  > `a little` /ə ˈlɪtəl/           ([Neutral] 少し、ちょっと)      She seems a little upset.
-  > `a bit` /ə bɪt/                 ([Casual] ちょっと、少し)       It's a bit cold outside.
-  - `somewhat` /ˈsʌmwʌt/            ([Neutral] いくぶん、多少)      The results were somewhat surprising.
-  - `rather` /ˈræðər/               ([Neutral] かなり、やや)        The movie was rather disappointing.
-  - `pretty` /ˈprɪti/               ([Casual] かなり、相当)         She's pretty smart.
-  - `pretty much` /ˈprɪti mʌtʃ/     ([Casual] ほとんど、だいたい)   I pretty much finished the report.
-  - `fairly` /ˈferli/               ([Neutral] かなり、まあまあ)    He speaks English fairly well.
-  - `quite` /kwaɪt/                 ([Neutral] かなり、相当)        That's quite interesting.
-  - `slightly` /ˈslaɪtli/           ([Neutral] わずかに、少し)      I'm slightly concerned about this.
-  - `moderately` /ˈmɑːdərətli/      ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
-  - `more or less` /mɔːr ɔːr les/   ([Neutral] だいたい、多少)      The work is more or less done.
-> `and stuff` /ænd stʌf/            ([Casual] とかそういうの)       He likes pizza, burgers, and stuff.
-  - `and all that` /ænd ɔːl ðæt/    ([Casual] などなど、~とか)      He likes movies, books, and all that.
-  - `and the like` /ænd ðə laɪk/    ([Neutral] そういうもの)        We need books, papers, and the like.
-  - `and such` /ænd sʌtʃ/           ([Neutral] そういったもの)      He studies math, science, and such.
-  - `et cetera` /ɛt ˈsɛtərə/        ([Formal] その他)               They sell books, magazines, et cetera.
-  - `and so on` /ænd soʊ ɑn/        ([Neutral] というように)        One, two, three, and so on.
-  - `and whatnot` /ænd ˈwʌtnɑt/     ([Casual] など)                 She collects stamps, coins, and whatnot.
-  - `and so forth` /ænd soʊ fɔrθ/   ([Neutral] などなど)            First, second, third, and so forth.
-  - `and things` /ænd θɪŋz/         ([Casual] とかいろいろ)         She bought shoes, bags, and things.
-  - `and all that jazz`             ([Casual] そういうもの全部)     He talks about success, money, and all that jazz.
-> `tons of`                         ([Casual] たくさんの)           I have tons of homework.
-  - `loads of`                      ([Casual] たくさんの)           We have loads of time.
-  > `a bunch of`                    ([Casual] たくさんの)           A bunch of people came.
-  - `heaps of`                      ([Casual] 山ほどの)             There are heaps of problems.
-  - `masses of`                     ([Casual] 大量の)               Masses of people attended.
-  - `different`                     ([Neutral] 異なる)              Different people have different views.
-  - `all kinds of`                  ([Casual] あらゆる種類の)       I eat all kinds of food.
-  - `all sorts of`                  ([Casual] あらゆる種類の)       She reads all sorts of books.
-  - `various kinds of`              ([Neutral] 様々な種類の)        Various kinds of flowers bloom here.
-  - `different types of`            ([Neutral] 異なる種類の)        Different types of cars are available.
-  - `most of`                       ([Neutral] ほとんどの)          Most of the work is done.
-  - `some more`                     ([Casual] もう少し)              Can I have some more coffee?
-  - `a bit more`                    ([Casual] もう少し)              I need a bit more time.
-  - `a little more`                 ([Neutral] もう少し)            Just a little more patience.
-  - `much more`                     ([Neutral] ずっと多く)          This costs much more.
-  - `many more`                     ([Neutral] ずっと多く)          Many more people joined.
-  - `a lot more`                    ([Casual] ずっと多く)           We need a lot more help.
-  - `way more`                      ([Casual] ずっと多く)           That's way more than I expected.
-  - `more than enough`              ([Neutral] 十分すぎるほど)      There was more than enough food for everyone.
-  - `plenty`                        ([Neutral] 十分な、たくさん)    We have plenty of time.
-  - `ample`                         ([Formal] 十分な、豊富な)       There's ample space for everyone.
-  - `abundant`                      ([Formal] 豊富な、たっぷり)     The region has abundant resources.
-  - `sufficient`                    ([Formal] 十分な)               This should be sufficient for our needs.
-  - `adequate`                      ([Neutral] 適切な、十分な)      The facilities are adequate.
-  - `far more`                      ([Neutral] はるかに多く)        This is far more difficult.
-  - `a good deal of`                ([Neutral] かなりの)            A good deal of time was spent.
-  - `a great deal of`               ([Formal] 大いなる)             A great deal of effort was required.
-  - `a fair amount of`              ([Neutral] かなりの)            A fair amount of work remains.
-  - `a considerable amount of`      ([Formal] かなりの)             A considerable amount of money was spent.
-  - `an enormous amount of`         ([Neutral] 膨大な)              An enormous amount of data was collected.
-  - `a huge amount of`              ([Casual] 膨大な)               A huge amount of time was wasted.
-  - `a vast amount of`              ([Formal] 膨大な)               A vast amount of research was done.
-  - `a wealth of`                   ([Neutral] 豊富な)               She has a wealth of experience.
-  - `a number of`                   ([Formal] 多数の)               A number of factors were considered.
-  - `a handful of`                  ([Neutral] 少数の)              Only a handful of people came.
-  - `a couple of`                   ([Casual] いくつかの)           I need a couple of minutes.
-  - `no more than`                  ([Neutral] せいぜい)            It costs no more than $20.
-  - `no less than`                  ([Neutral] 〜も)                No less than 100 people came.
-  - `at least`                      ([Neutral] 少なくとも)          At least 50 people attended.
-  - `at most`                       ([Neutral] せいぜい)            At most 10 people can fit.
-  - `up to`                         ([Neutral] 最大で)              Up to 20 people can join.
-  - `as many as`                    ([Neutral] 〜も)                As many as 1000 people came.
-  - `as much as`                    ([Neutral] 〜も)                It costs as much as $500.
-  - `as few as`                     ([Neutral] わずか)              As few as 5 people showed up.
-  - `as little as`                  ([Neutral] わずか)              It costs as little as $10.
-  - `A out of B`                    ([Neutral] BのうちのA)          3 out of 5 people agreed.
-  - `A in B`                        ([Neutral] BのうちのA)          1 in 10 people disagree.
-
-## S V-ing, THAT'D BE
-- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.

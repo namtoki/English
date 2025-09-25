@@ -391,3 +391,6 @@
 - `Murphy's Law is in full effect`  ([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
 
 - `the sky's the limit` /ðə skaɪz ðə ˈlɪmɪt/ ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
+
+## S V-ing, THAT'D BE
+- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.

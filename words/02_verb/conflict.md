@@ -201,6 +201,20 @@
   - `lock horns` /lɑːk hɔːrnz/      ([Casual] 激しく対立する)       They locked horns over the budget.
   - `square up to`                  ([British] 立ち向かう)          He squared up to his opponent.
   - `eyeball` /ˈaɪbɔːl/             ([Casual] にらみ合う)           The two teams eyeballed each other.
+> `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
+  - `stop` /stɑːp/                  ([Neutral] 止める)              Stop interrupting me!
+  - `prevent` /prɪˈvent/            ([Neutral] 防ぐ、妨げる)        This will prevent accidents.
+  - `get in the way` /ɡet ɪn ðə weɪ/([Casual] 邪魔になる)           Don't get in the way.
+  - `interfere` /ˌɪntərˈfɪr/        ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
+  - `hinder` /ˈhɪndər/              ([Neutral] 妨げる、邪魔する)    Don't hinder their efforts.
+  - `hold up` /hoʊld ʌp/            ([Casual] 遅らせる)             Traffic held us up.
+  - `slow down` /sloʊ daʊn/         ([Neutral] 遅くする)            This will slow down progress.
+  - `be an obstacle`                ([Neutral] 障害になる)          Language can be an obstacle.
+  - `disrupt` /dɪsˈrʌpt/            ([Neutral] 混乱させる)          Don't disrupt the meeting.
+  - `hamper` /ˈhæmpər/              ([Neutral] 妨げる、邪魔する)    Rain hampered the rescue efforts.
+  - `obstruct` /əbˈstrʌkt/          ([Formal] 妨害する、塞ぐ)       Don't obstruct the exit.
+  - `impede` /ɪmˈpiːd/              ([Formal] 妨げる、遅らせる)     Bad weather impeded our progress.
+  - `thwart` /θwɔːrt/               ([Formal] 阻止する、挫折させる) They thwarted our plans.
 
 ## CRIMINAL (PROVOKE / KIDNAP / GRAB / HOLD / ABUSE / FAKE)
 > `provoke` /prəˈvoʊk/              ([Neutral] 引き起こす)          His words provoked anger.

@@ -6,12 +6,6 @@
   - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
   - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
   - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
-  - `tether` /ˈteðər/               ([Neutral] 繋ぎ止める)          He tethered his horse to the tree.
-  - `tie` /taɪ/                     ([Neutral] 結ぶ、縛る)          Please tie your shoes.
-  - `bind` /baɪnd/                  ([Neutral] 縛る、拘束する)      They bound his hands with rope.
-  - `fasten` /ˈfæsən/               ([Neutral] 固定する、留める)    Fasten your seatbelt.
-  - `secure` /sɪˈkjʊr/              ([Neutral] 固定する、確保する)  Secure the rope to the post.
-  - `attach` /əˈtætʃ/               ([Neutral] 取り付ける)          Attach the file to your email.
 > `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
   - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
   - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
@@ -505,25 +499,32 @@
   - `go to the doctor`              ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
   - `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
   - `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
-
-## OBSTRUCT
-- `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
-- `obstruct` /əbˈstrʌkt/            ([Formal] 妨害する、塞ぐ)       Don't obstruct the exit.
-- `impede` /ɪmˈpiːd/                ([Formal] 妨げる、遅らせる)     Bad weather impeded our progress.
-- `hinder` /ˈhɪndər/                ([Neutral] 妨げる、邪魔する)    Don't hinder their efforts.
-- `interfere` /ˌɪntərˈfɪr/          ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
-- `be an obstacle`                  ([Neutral] 障害になる)          Language can be an obstacle.
-- `hamper` /ˈhæmpər/                ([Neutral] 妨げる、邪魔する)    Rain hampered the rescue efforts.
-- `thwart` /θwɔːrt/                 ([Formal] 阻止する、挫折させる) They thwarted our plans.
-
-- `descent` /dɪˈsent/               ([Neutral] 下降、降下)          The steep descent.
-  - `descend` /dɪˈsend/             ([Neutral] 下降する)            Descend the stairs.
-  - `descending` /dɪˈsendɪŋ/        ([Neutral] 下降する)            In descending order.
+> `go down` /ɡoʊ daʊn/              ([Neutral] 下りる)              Go down the stairs carefully.
+  - `come down` /kʌm daʊn/          ([Neutral] 降りて来る)          Come down from there!
+  - `walk down` /wɔːk daʊn/         ([Neutral] 歩いて下る)          Walk down the hill slowly.
+  - `climb down` /klaɪm daʊn/       ([Neutral] よじ降りる)          Climb down the ladder.
+  - `drop` /drɑːp/                  ([Neutral] 落ちる、下がる)      The temperature dropped suddenly.
+  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Be careful not to fall!
+  - `lower` /ˈloʊər/                ([Neutral] 下げる)              Lower your voice please.
+  - `sink` /sɪŋk/                   ([Neutral] 沈む)                The sun sank below the horizon.
+  - `descend` /dɪˈsend/             ([Formal] 下降する)             The plane began to descend.
+  - `descending` /dɪˈsendɪŋ/        ([Formal] 下降する)             In descending order.
+  - `decline` /dɪˈklaɪn/            ([Formal] 下降する、衰える)     Sales declined last quarter.
+  - `plunge` /plʌndʒ/               ([Neutral] 急落する)            Stock prices plunged today.
 
 ## PASS ON
-> `pass on` /pæs ɑːn/               ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
-> `pass along` /pæs əˈlɔːŋ/         ([Neutral] 情報を伝える)        Please pass along the message.
+- `tell` /tel/                      ([Neutral] 伝える)              Tell him I said hi.
+- `let know` /let noʊ/              ([Casual] 知らせる)             Let me know when you arrive.
+- `share` /ʃer/                     ([Neutral] 共有する)            Share this with your team.
+- `pass on` /pæs ɑːn/               ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
+- `pass along` /pæs əˈlɔːŋ/         ([Neutral] 情報を伝える)        Please pass along the message.
+- `spread` /spred/                  ([Neutral] 広める)              The news spread quickly.
+- `hand down` /hænd daʊn/           ([Neutral] 伝承する)            The tradition was handed down.
 - `relay` /rɪˈleɪ/                  ([Neutral] 中継する、伝える)    Please relay this message to her.
+- `forward` /ˈfɔːrwərd/             ([Neutral] 転送する)            I'll forward the email to you.
+- `convey` /kənˈveɪ/                ([Formal] 伝達する)             Please convey my apologies.
+- `transmit` /trænzˈmɪt/            ([Formal] 送信する、伝える)     The data was transmitted securely.
+- `communicate` /kəˈmjuːnɪkeɪt/     ([Formal] 伝達する)             Communicate this to all staff.
 
 ## I WOULD
 > `I would` /aɪ wʊd/                ([Polite] 私なら〜します)       I would suggest taking a break.
@@ -770,3 +771,12 @@
 - `ache` /eɪk/                       ([Neutral] 痛む)                My back aches after sitting too long.
 - `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
 - `throb` /θrɒb/                    ([Neutral] ズキズキ痛む)        My tooth is throbbing.
+
+- `get ahead of oneself`            ([Neutral] 先走る、早とちりする) Let's not get ahead of ourselves.
+
+  - `tether` /ˈteðər/               ([Neutral] 繋ぎ止める)          He tethered his horse to the tree.
+  - `tie` /taɪ/                     ([Neutral] 結ぶ、縛る)          Please tie your shoes.
+  - `bind` /baɪnd/                  ([Neutral] 縛る、拘束する)      They bound his hands with rope.
+  - `fasten` /ˈfæsən/               ([Neutral] 固定する、留める)    Fasten your seatbelt.
+  - `secure` /sɪˈkjʊr/              ([Neutral] 固定する、確保する)  Secure the rope to the post.
+  - `attach` /əˈtætʃ/               ([Neutral] 取り付ける)          Attach the file to your email.

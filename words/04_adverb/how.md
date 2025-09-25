@@ -1,5 +1,20 @@
 # How
 
+## KIND OF / AND STUFF / TONS OF / A BUNCH OF
+> `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
+  > `sort of` /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
+  > `a little` /ə ˈlɪtəl/           ([Neutral] 少し、ちょっと)      She seems a little upset.
+  > `a bit` /ə bɪt/                 ([Casual] ちょっと、少し)       It's a bit cold outside.
+  - `somewhat` /ˈsʌmwʌt/            ([Neutral] いくぶん、多少)      The results were somewhat surprising.
+  - `rather` /ˈræðər/               ([Neutral] かなり、やや)        The movie was rather disappointing.
+  - `pretty` /ˈprɪti/               ([Casual] かなり、相当)         She's pretty smart.
+  - `pretty much` /ˈprɪti mʌtʃ/     ([Casual] ほとんど、だいたい)   I pretty much finished the report.
+  - `fairly` /ˈferli/               ([Neutral] かなり、まあまあ)    He speaks English fairly well.
+  - `quite` /kwaɪt/                 ([Neutral] かなり、相当)        That's quite interesting.
+  - `slightly` /ˈslaɪtli/           ([Neutral] わずかに、少し)      I'm slightly concerned about this.
+  - `moderately` /ˈmɑːdərətli/      ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
+  - `more or less` /mɔːr ɔːr les/   ([Neutral] だいたい、多少)      The work is more or less done.
+
 ## ABSOLUTELY
 - `downright` /ˈdaʊnraɪt/           ([Casual] まったく、完全に)     That's downright ridiculous!
 - `absolutely` /ˈæbsəluːtli/        ([Neutral] 絶対に、完全に)      You're absolutely right about that.
