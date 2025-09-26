@@ -38,17 +38,6 @@
   - `have your say` /hæv jʊər seɪ/  ([Neutral] 意見言う機会を得る)  Everyone will have their say.
 
 ## CONTACT (LET S KNOW / TOUCH BASE / GET BACK TO / BE IN CONTACT)
-> `let know` /let noʊ/              ([Neutral] 知らせる)            Let me know when you arrive.
-  - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
-  - `report` /rɪˈpɔːrt/             ([Neutral] 報告する、伝える)    I must report this incident.
-  - `deliver` /dɪˈlɪvər/            ([Neutral] 届ける、伝える)      He delivered the news personally.
-  - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
-  - `keep posted` /kiːp ˈpoʊstɪd/   ([Neutral] 最新情報を知らせる)  Keep me posted on any developments.
-  - `convey` /kənˈveɪ/              ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
-  - `clue in` /kluː ɪn/             ([Casual] 情報を与える)         Clue me in on the details.
-  - `tip off` /tɪp ɔːf/             ([Casual] 密かに知らせる)       Someone tipped off the police.
-  - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
-  - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
 > `contact` /ˈkɑːntækt/             ([Neutral] 連絡する)            I'll contact you later.
   - `get in touch` /ɡet ɪn tʌtʃ/    ([Neutral] 連絡を取る)          Let's get in touch soon.
   > `touch base` /tʌtʃ beɪs/        ([Neutral] 連絡を取る、報告)    Let's touch base next week.
@@ -72,14 +61,3 @@
   - `be contacted by`               ([Neutral] 連絡を受ける)        I was contacted by the manager.
   - `get     word from`             ([Neutral] 便りをもらう)        I got word from him this morning.
   - `receive word from`             ([Formal] 便りを受ける)         We received word from headquarters.
-
-## PHONE COMMUNICATION
-- `get  on the phone with`          ([Neutral] 電話で話す)          Get on the phone with the supplier.
-- `be   on the phone with`          ([Neutral] 電話中である)        I'm on the phone with a client.
-- `get off the phone with`          ([Casual] 電話を切る)           I just got off the phone with him.
-- `ring up` /rɪŋ ʌp/                ([British] 電話をかける)        I'll ring you up tomorrow.
-- `hang up` /hæŋ ʌp/                ([Neutral] 電話を切る)          Don't hang up yet!
-
-## INFORMAL COMMUNICATION / CRITICISM
-> `rap` /ræp/                       ([Casual] 話す、おしゃべりする) I enjoyed rapping with him about sports.
-- `criticize` /ˈkrɪtɪsaɪz/          ([Neutral] 批判する)            The report raps the organization.

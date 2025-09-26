@@ -2,11 +2,11 @@
 - 01_framework/conjunctive-adverb.md - "接続副詞" と "後ろに S V が続く表現 (I think S V など)"
 - 01_framework/template.md - 定型文
 - 02_verb/AUX.md - 助動詞のような働きの動詞
-- 02_verb/cognition.md - 認知系の動詞 (思った瞬間に行動が完了している動詞)
-- 02_verb/communication.md - 意思疎通・表現関連の動詞
-- 02_verb/task.md - 作業・仕事関連の動詞
-- 02_verb/conflict.md - 対立・攻撃・犯罪関連の動詞
-- 02_verb/verb.md - その他の動詞
+- 02_verb/SV.md - SV 文型の動詞
+- 02_verb/SVC.md - SVC 文型の動詞
+- 02_verb/SVO.md - SVO 文型の動詞 (自動詞+前置詞+O など、SVO 文型として考えたほうが良いものも含む)
+- 02_verb/SVOC.md - SVOC 文型の動詞
+- 02_verb/SVOO.md - SVOO 文型の動詞
 - 03_adjective_noun/appearance.md - 服装・外見に関する名詞、形容詞
 - 03_adjective_noun/status.md - 対象の状態を表す名詞、形容詞
 - 03_adjective_noun/assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞

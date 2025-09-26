@@ -12,3 +12,4 @@
 
 ## COGNITIVE
 - `consider` /kənˈsɪdər/            ([Neutral] だと思う、考慮する)  I consider him a good friend.
+> `find oneself V-ing`              ([Neutral] 気づいたらVしている) I often find myself keeping an eye on the stock market.
