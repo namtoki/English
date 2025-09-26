@@ -1,23 +1,6 @@
 # Cognition
 
 ## THINK (GIVE IT A THOUGHT / COME UP WITH / GIVE ME AN IDEA / IMAGINE / REMIND / BRING BACK)
-> `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
-  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
-  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
-  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
-  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
-> `give it a thought`               ([Neutral] 考えてみる)          I'll give it a thought tonight.
-  - `consider` /kənˈsɪdər/          ([Neutral] だと思う、考慮する)  I consider him a good friend.
-> `come up with` /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
-  - `think of` /θɪŋk ʌv/            ([Neutral] 思いつく、考える)    I can't think of a solution.
-  - `get an idea` /ɡet ən aɪˈdiːə/  ([Neutral] アイデアを思いつく)  I just got an idea!
-  > `give 人 an idea`               ([Neutral] 外要因により浮かぶ)  That video gave me an idea for my presentation.
-  - `hit on` /hɪt ɑːn/              ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
-  - `strike` /straɪk/               ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
-  - `occur to` /əˈkɜːr tuː/         ([Neutral] 思い浮かぶ)          It never occurred to me.
-  - `conceive` /kənˈsiːv/           ([Formal] 思いつく、想像する)   I can't conceive of such cruelty.
-  - `devise` /dɪˈvaɪz/              ([Formal] 考案する、工夫する)   They devised a new strategy.
-  - `formulate` /ˈfɔːrmjəleɪt/      ([Formal] 策定する、考案する)   They formulated a plan.
 > `dream up` /driːm ʌp/             ([Casual] 考え出す でち上げる)  He dreamed up a crazy plan.
   - `make up` /meɪk ʌp/             ([Casual] でっち上げる、作る)   Don't make up stories.
   - `cook up` /kʊk ʌp/              ([Casual] でっち上げる)         He cooked up an excuse.

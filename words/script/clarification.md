@@ -1,7 +1,7 @@
 
 - 01_framework/conjunctive-adverb.md - "接続副詞" と "後ろに S V が続く表現 (I think S V など)"
 - 01_framework/template.md - 定型文
-- 02_verb/aux.md - 助動詞のような働きの動詞
+- 02_verb/AUX.md - 助動詞のような働きの動詞
 - 02_verb/cognition.md - 認知系の動詞 (思った瞬間に行動が完了している動詞)
 - 02_verb/communication.md - 意思疎通・表現関連の動詞
 - 02_verb/task.md - 作業・仕事関連の動詞

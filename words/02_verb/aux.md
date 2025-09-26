@@ -1,15 +1,5 @@
 # Aux
 
-## 使役動詞
-- `make O    V` /meɪk/              ([強制的]  OにVさせる)          The movie made me cry.
-- `get  O to V` /ɡet/               ([説得/依頼] OにVさせる)        I got him to help with the project.
-- `have O    V` /hæv/               ([指示/依頼] OにVさせる)        I'll have him call you back.
-- `let  O    V` /let/               ([許可] OにVさせる)             Let me help you with that.
-- `make O    C` /meɪk/              ([直接/即座] OをCにする)        This news makes me happy.
-- `get  O    C` /ɡet/               ([感情/徐々] OをCの状態にする)  This song gets me feeling nostalgic.
-- `have O    C` /hæv/               ([状態維持] OをCの状態に保つ)   I have my room clean.
-- `have O    Ved` /hæv/             ([間接/依頼] OをVしてもらう)    I had my car repaired yesterday.
-
 ## BASIC (GOTTA / BE SUPPOSED TO / BE ABOUT TO / )
 > `gotta` /ˈɡɑːtə/                  ([Casual] ～しなきゃ)           I gotta go now.
   > `I had better` /aɪ hæd ˈbetər/  ([Casual] しなきゃ)             I had better get going.
@@ -60,8 +50,6 @@
 > `end up -ing` /end ʌp/            ([Neutral] 結局〜した)          I ended up staying home all day.
   - `come around to`                ([Neutral] 結局～するよになる)  He came around to my way of thinking.
 > `still manage to`                 ([Neutral] それでもしてしまう)  I still manage to make mistakes.
-> `go for it` /ɡoʊ fɔːr ɪt/         ([Casual] 思い切ってやる)       Just go for it!
-  - `take a chance` /teɪk ə tʃæns/  ([Neutral] 賭けに出る)          I decided to take a chance on the job.
   - `take the risk` /teɪk ðə rɪsk/  ([Neutral] リスクを取る)        She took the risk and started her own business.
   - `bite the bullet` /baɪt ðə ˈbʊlɪ([Neutral] 覚悟を決める)        I bit the bullet and asked for a raise.
   - `take the plunge` /teɪk ðə plʌnd([Neutral] 思い切る)            He finally took the plunge and quit.
