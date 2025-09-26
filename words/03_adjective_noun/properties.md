@@ -144,3 +144,11 @@
 - `shade` /ʃeɪd/                    ([Neutral] 色合い、陰)          A darker shade of red.
 - `nuance` /ˈnuːɑːns/              ([Formal] ニュアンス、微妙な差)  The nuance of his expression.
 - `hint` /hɪnt/                     ([Neutral] わずかな気配)        A hint of lemon in the dish.
+
+## MATERIALS
+- `graphite` /ˈɡræfaɪt/             ([Neutral] 黒鉛、グラファイト)   Pencil lead is made of graphite.
+- `carbon` /ˈkɑːrbən/               ([Neutral] 炭素)                Carbon is essential for life.
+- `charcoal` /ˈtʃɑːrkoʊl/           ([Neutral] 木炭、炭)            Artists use charcoal for drawing.
+- `coal` /koʊl/                     ([Neutral] 石炭)                Coal is used for generating electricity.
+- `lead` /led/                      ([Neutral] 鉛)                  Lead is a heavy metal.
+- `pencil lead` /ˈpensəl led/       ([Neutral] 鉛筆の芯)            Pencil lead is actually graphite.

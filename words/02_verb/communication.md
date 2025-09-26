@@ -23,6 +23,12 @@
   > `elaborate` /ɪˈlæbəreɪt/        ([Formal] 詳しく説明する)       Could you elaborate on that?
   - `illustrate` /ˈɪləstreɪt/       ([Neutral] 説明する、例証する)  This example illustrates my point.
   - `demonstrate` /ˈdemənstreɪt/    ([Neutral] 実演して説明する)    Let me demonstrate how it works.
+  - `spoon-feed` /ˈspuːn fiːd/      ([Casual] 手取り足取り教える)   Don't spoon-feed them the answer.
+  - `hand-hold` /ˈhænd hoʊld/       ([Casual] 手取り足取り指導する)  You can't hand-hold them forever.
+  - `baby` /ˈbeɪbi/                  ([Casual] 甘やかす、過保護に扱)  Stop babying him!
+  - `coddle` /ˈkɑːdl/               ([Neutral] 甘やかす、過保護)    Don't coddle your children.
+  - `pamper` /ˈpæmpər/              ([Neutral] 甘やかす、大事にする) She pampers her students too much.
+  - `mollycoddle` /ˈmɑːlikɑːdl/     ([Formal] 過保護に扱う)         Stop mollycoddling them!
   > `cut to the chase`              ([Casual] 要点を言う)           Let me cut to the chase.
 > `have a say` /hæv ə seɪ/          ([Neutral] 発言権を持つ)        Everyone should have a say in this.
   - `have a voice` /hæv ə vɔɪs/     ([Neutral] 発言権を持つ)        We all have a voice in this decision.

@@ -12,6 +12,7 @@
   - `hedonistic` /ˌhiːdəˈnɪstɪk/     ([Formal] 快楽主義的な)        Their hedonistic lifestyle shocked many.
 - `epicureanism` /ˌepɪkjʊˈriːənɪzəm/ ([Writing] 快楽主義、美食主義)  His epicureanism was well known.
 - `indulgence` /ɪnˈdʊldʒəns/        ([Neutral] 放縦、甘やかし)       His indulgence in luxury was excessive.
+- `spoon-feeding` /ˈspuːn fiːdɪŋ/   ([Casual] 手取り足取りの指導)    Spoon-feeding prevents independent thinking.
 - `self-gratification`              ([Neutral] 自己満足)          The pursuit of self-gratification.
 - `pleasure-seeking`                ([Neutral] 快楽追求)          His pleasure-seeking behavior worried us.
 - `decadence` /ˈdekədəns/           ([Neutral] 退廃、堕落)          The decadence of the empire.
@@ -49,9 +50,21 @@
 - `crevice` /ˈkrevɪs/               ([Neutral] 裂け目、割れ目)       Water seeped through the crevice.
 - `gateway` /ˈɡeɪtweɪ/              ([Neutral] 入口、玄関口)         The gateway to the city.
 - `track` /træk/                     ([Neutral] 道、経路)            A rough mountain track.
+- `casino` /kəˈsiːnoʊ/              ([Neutral] カジノ、賭博場)       They went to the casino in Vegas.
+- `gambling` /ˈɡæmblɪŋ/           ([Neutral] ギャンブル、賭博)     Gambling can be addictive.
+- `betting` /ˈbetɪŋ/               ([Neutral] 賭け、賭事)          Sports betting is popular.
+- `wagering` /ˈweɪdʒərɪŋ/          ([Formal] 賭け、賭事)           Online wagering is regulated.
+- `gaming` /ˈɡeɪmɪŋ/              ([Neutral] ギャンブル、ゲーム)    The gaming industry is huge.
+- `lottery` /ˈlɑːtəri/             ([Neutral] 宝くじ、抽選)         She won the lottery.
 - `bustle` /ˈbʌsəl/                 ([Neutral] 活気、喧騒)          The hustle and bustle of the city.
 - `tether` /ˈteðər/                 ([Neutral] 繋ぎ綱、拘束)        The dog reached the end of its tether.
 - `molestation` /ˌmoʊləˈsteɪʃən/   ([Formal] 性的嫌がらせ)         He was charged with molestation.
+- `acquired taste` /əˈkwaɪərd teɪst/ ([Neutral] 慣れると好きになる味)  Coffee is an acquired taste.
+- `guilty pleasure` /ˈɡɪlti ˈpleʒər/ ([Neutral] 後ろめたい楽しみ)    Reality TV is my guilty pleasure.
+- `niche interest` /niːʃ ˈɪntrəst/  ([Neutral] ニッチな趣味)        Collecting stamps is a niche interest.
+- `refined taste` /rɪˈfaɪnd teɪst/  ([Formal] 洗練された嗜好)       She has refined taste in art.
+- `cultivated taste`                ([Formal] 培われた嗜好)         His cultivated taste shows in his wine selection.
+- `sophisticated palate`            ([Formal] 洗練された味覚)       A sophisticated palate appreciates subtle flavors.
 
 ## SUBJECT
 - `subject` /ˈsʌbdʒɪkt/             ([Neutral] 主題、科目)          Math is my favorite subject.
@@ -1784,6 +1797,12 @@
   - `no less than`                  ([Neutral] 〜も)                No less than 100 people came.
   - `at least`                      ([Neutral] 少なくとも)          At least 50 people attended.
   - `at most`                       ([Neutral] せいぜい)            At most 10 people can fit.
+  - `the bare minimum`              ([Neutral] 必要最小限)          He only does the bare minimum.
+  - `bare necessities`              ([Neutral] 必要最低限のもの)     We only have the bare necessities.
+  - `bare bones`                    ([Casual] 最低限の要素)         It's a bare bones setup.
+  - `rock bottom`                   ([Neutral] 最低レベル、どん底)   Prices hit rock bottom.
+  - `the very least`                ([Neutral] 最低限)              That's the very least we can do.
+  - `bare essentials`               ([Neutral] 必要不可欠なもの)     Pack only the bare essentials.
   - `up to`                         ([Neutral] 最大で)              Up to 20 people can join.
   - `as many as`                    ([Neutral] 〜も)                As many as 1000 people came.
   - `as much as`                    ([Neutral] 〜も)                It costs as much as $500.
