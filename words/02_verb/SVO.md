@@ -1,6 +1,19 @@
 # SVO
 
-## COGNITIVE (IMAGINE / COME UP WITH / DREAM UP / REMIND / WANT)
+## COGNITIVE (UNDERSTAND / IMAGINE / COME UP WITH / DREAM UP / REMIND / WANT)
+> `understand` /ˌʌndərˈstænd/       ([Neutral] 理解する)            I understand your concern.
+  > `get` /ɡet/                     ([Casual] 理解する)             I get what you mean.
+  - `see` /siː/                     ([Neutral] 想像する、理解する)  I can see that happening.
+  - `grasp` /ɡræsp/                 ([Neutral] 把握する)            She quickly grasped the concept.
+  - `comprehend` /ˌkɑːmprɪˈhend/    ([Formal] 理解する)             I cannot comprehend his actions.
+  - `figure out` /ˈfɪɡər aʊt/       ([Neutral] 理解する、解決する)  Let me figure out the problem.
+  - `make sense of`                 ([Neutral] 理解する)            I can't make sense of this data.
+  - `follow` /ˈfɑːloʊ/              ([Neutral] 理解して聞く)        I follow your argument.
+  - `catch on` /kætʃ ɑːn/           ([Casual] 理解する、把握する)   He'll catch on eventually.
+  - `pick up` /pɪk ʌp/              ([Casual] 理解する、習得する)   Kids pick up languages quickly.
+  - `digest` /daɪˈdʒest/            ([Neutral] 理解・吸収する)      I need time to digest this information.
+  - `fathom` /ˈfæðəm/               ([Formal] 理解する、推測する)   I can't fathom his motives.
+  - `perceive` /pərˈsiːv/           ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
 > `imagine` /ɪˈmædʒɪn/              ([Neutral] 想像する、思う)      I can't imagine life without music.
   - `think` /θɪŋk/                  ([Neutral] 思う、想像する)      Think what would happen if...
   - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
