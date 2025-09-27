@@ -1,5 +1,38 @@
 # SVO
 
+## COMMUNICATION (SAY / TELL / EXPLAIN)
+> `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
+  > `be said to` /biː sed tuː/      ([Neutral] と言われている)      He is said to have worked hard when young.
+> `get at` /ɡet æt/                 ([Casual] 言おうとする)         What are you getting at?
+  - `drive at` /draɪv æt/           ([Casual] 言おうとする)         I see what you're driving at.
+> `explain` /ɪkˈspleɪn/             ([Neutral] 説明する、解釈する)  Let me explain the situation.
+  - `describe` /dɪˈskraɪb/          ([Neutral] 描写する、説明する)  Can you describe what happened?
+  - `clarify` /ˈklærɪfaɪ/           ([Neutral] 明確にする)          Can you clarify that point?
+  - `outline` /ˈaʊtlaɪn/            ([Neutral] 概要を説明する)      Let me outline the plan.
+  > `elaborate` /ɪˈlæbəreɪt/        ([Formal] 詳しく説明する)       Could you elaborate on that?
+  - `illustrate` /ˈɪləstreɪt/       ([Neutral] 説明する、例証する)  This example illustrates my point.
+  - `demonstrate` /ˈdemənstreɪt/    ([Neutral] 実演して説明する)    Let me demonstrate how it works.
+  - `baby` /ˈbeɪbi/                  ([Casual] 甘やかす 過保護に扱) Stop babying him!
+  - `coddle` /ˈkɑːdl/               ([Neutral] 甘やかす、過保護)    Don't coddle your children.
+  - `pamper` /ˈpæmpər/              ([Neutral] 甘やかす 大事にする) She pampers her students too much.
+  - `mollycoddle` /ˈmɑːlikɑːdl/     ([Formal] 過保護に扱う)         Stop mollycoddling them!
+
+## CONTACT (CONTACT / REACH OUT)
+> `contact` /ˈkɑːntækt/             ([Neutral] 連絡する)            I'll contact you later.
+  - `get in touch` /ɡet ɪn tʌtʃ/    ([Neutral] 連絡を取る)          Let's get in touch soon.
+  > `touch base` /tʌtʃ beɪs/        ([Neutral] 連絡を取る、報告)    Let's touch base next week.
+  - `reach out` /riːtʃ aʊt/         ([Neutral] 連絡を取る)          I'll reach out to them.
+  - `hit up` /hɪt ʌp/               ([Slang] 連絡する)              Hit me up later.
+  - `drop a line` /drɑːp ə laɪn/    ([Informal] 一報入れる)         Drop me a line sometime.
+  > `get back to` /ɡet bæk tuː/     ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
+  - `get hold of` /ɡet hoʊld əv/    ([Neutral] 連絡を取る)          I couldn't get hold of him.
+  - `get ahold of` /ɡet əˈhoʊld əv/ ([Informal] 連絡を取る)         Try to get ahold of her.
+> `hear from` /hɪr frʌm/            ([Neutral] 連絡をもらう)        I hope to hear from you soon.
+  - `receive` /rɪˈsiːv/             ([Neutral] 連絡をもらう)        I received your message yesterday.
+  - `be contacted by`               ([Neutral] 連絡を受ける)        I was contacted by the manager.
+  - `get     word from`             ([Neutral] 便りをもらう)        I got word from him this morning.
+  - `receive word from`             ([Formal] 便りを受ける)         We received word from headquarters.
+
 ## COGNITIVE (UNDERSTAND / IMAGINE / COME UP WITH / DREAM UP / REMIND / WANT)
 > `understand` /ˌʌndərˈstænd/       ([Neutral] 理解する)            I understand your concern.
   > `get` /ɡet/                     ([Casual] 理解する)             I get what you mean.

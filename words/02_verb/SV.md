@@ -26,9 +26,27 @@
 - `blank out`                       ([Casual] 頭が真っ白になる)     I blanked out during the exam.
 
 ## ACTION
-> `rap` /ræp/                       ([Casual] 話す、おしゃべりする) I enjoyed rapping with him about sports.
-> `get  on the phone with`          ([Neutral] 電話で話す)          Get on the phone with the supplier.
-  - `be   on the phone with`        ([Neutral] 電話中である)        I'm on the phone with a client.
-  - `get off the phone with`        ([Casual] 電話を切る)           I just got off the phone with him.
+> `talk` /tɔːk/                     ([Neutral] 話す、話し合う)      We need to talk about this.
+  - `speak` /spiːk/                 ([Neutral] 話す、演説する)      May I speak with you privately?
+  - `rap` /ræp/                     ([Casual] 話す、おしゃべりする) I enjoyed rapping with him about sports.
+  > `cut to the chase`              ([Casual] 要点を言う)           Let me cut to the chase.
+> `have a say` /hæv ə seɪ/          ([Neutral] 発言権を持つ)        Everyone should have a say in this.
+  - `have a voice` /hæv ə vɔɪs/     ([Neutral] 発言権を持つ)        We all have a voice in this decision.
+  - `weigh in` /weɪ ɪn/             ([Neutral] 意見を述べる)        Let me weigh in on this issue.
+  - `put in your two cents`         ([Casual] ちょっと意見を言う)   Can I put in my two cents here?
+  - `speak your mind`               ([Neutral] 率直に意見を言う)    Don't be afraid to speak your mind.
+  - `have your say` /hæv jʊər seɪ/  ([Neutral] 意見言う機会を得る)  Everyone will have their say.
+> `get  on the phone`               ([Neutral] 電話で話す)          Get on the phone with the supplier.
+  - `be   on the phone`             ([Neutral] 電話中である)        I'm on the phone with a client.
+  - `get off the phone`             ([Casual] 電話を切る)           I just got off the phone with him.
   - `ring up` /rɪŋ ʌp/              ([British] 電話をかける)        I'll ring you up tomorrow.
   - `hang up` /hæŋ ʌp/              ([Neutral] 電話を切る)          Don't hang up yet!
+> `keep in touch` /kiːp ɪn tʌtʃ/    ([Neutral] 連絡を保つ)          Let's keep in touch.
+  - `be in contact`                 ([Neutral] 連絡を保つ)          We're still in contact.
+  - `stay in touch` /steɪ ɪn tʌtʃ/  ([Neutral] 連絡を保つ)          Stay in touch!
+  - `lose touch`                    ([Neutral] 連絡が途絶える)      I lost touch with my old friends.
+  - `lose contact`                  ([Neutral] 連絡を失う)          I lost contact with my mentor.
+  - `fall out of touch`             ([Neutral] 連絡が途絶える)      We fell out of touch after college.
+  - `drift apart` /drɪft əˈpɑːrt/   ([Neutral] 疎遠になる)          We slowly drifted apart over time.
+  - `grow apart` /ɡroʊ əˈpɑːrt/     ([Neutral] 疎遠になる)          We grew apart after high school.
+  - `be out of touch`               ([Neutral] 連絡が取れない)      I've been out of touch with them.
