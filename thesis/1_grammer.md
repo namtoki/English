@@ -12,11 +12,44 @@
     - (It      has): Been a long day at work. / Rained every day this week.
     - (I       had): Completed the task before the deadline. / Sorry left the office when you called.
     - (It      had): Snowed heavily before we arrived. / Been a year since we last saw each other.
-    - (I)  `過去形`: Studied for the exam all night. / told him not to do it. / Just wanted to say hi.
-    - (It) `一般動詞`: 
+    - (I)    `過去形`: Studied for the exam all night. / told him not to do it. / Just wanted to say hi.
+    - (I)    `助動詞`: Can help you with your homework if you want. / Must've been tired at that time.
+    - (It) `現在動詞`: Works perfectly now after the update.
+    - (It) `過去動詞`: Rained so hard yesterday.
+    - (It)   `助動詞`: Will take probably about an hour to get there. / May rain later today, so bring an umbrella.
   - Negative
+    - (I)        am `not`: Not interested in that topic at all, to be honest. / Just to let you know, not sure if I can make it on time.
+    - (It)       is `not`: Not as difficult as it seems. / Isn't as difficult as it seems.
+    - (`I        wasn't`):
+    - (It)       `wasn't`: Wasn't easy to make that decision, but we had to.
+    - (I)       `haven't`: Haven't finished my assignment yet.
+    - (It)       `hasn't`: Hasn't been easy adjusting to the new schedule.
+    - (I)        `hadn't`: Hadn't thought about that possibility.
+    - (It)       `hadn't`: Hadn't occurred to me to ask for help.
+    - (I)      `現在否定`: Don't think I can make it to the meeting.
+    - (I)      `過去否定`: Didn't know you were coming.
+    - (I)    `助動詞否定`: Can't believe it's already August. / May not attend the event if I'm too busy.
+    - (It)     `現在否定`: Doesn't seem like a good idea.
+    - (It)     `過去否定`: Didn't work out as we had hoped.
+    - (It)   `助動詞否定`: Couldn't have happended at a worse time.
 - Questions
-
+    - (Are   you) : Coming to the meeting?
+    - (Are)   `you` : You coming to the meeting?
+    - (Were)  `you` : You at the party last night?
+    - (Have  you) : Coming to the meeting?
+    - (Have)  `you` : You been to Tokyo before?
+    - (Have  you) : Been to Tokyo before?
+    - (Had)   `you` : You ever been to Paris before?
+    - (Had   you) : Ever been to Paris before?
+    - (Do)    `you` : You like coffee?
+    - (Do    you) : Like coffee?
+    - (Did)   `you` : You understand what he said?
+    - (Is     it) : Raining over there again? / That bad?
+    - (Has    it) : Been snowing lately? / Gotten any better?
+    - (Do)     `人` : People usually take this route?
+    - (Did)    `人` : Someone eat my ice cream?
+    - (Has)    `人` : Jim written up that draft yet?
+    - (Had)    `人` : Kate ever visited Paris before she moved there?
 ---
 
 
