@@ -246,7 +246,6 @@ austerity	11	【名】厳格さ、質素、苦行
 authentic	8	【形】本物の、心からの、信頼のおける		
 authenticity	10	【名】信憑性、真正であること		
 autism	12	【名】自閉症		
-autobiography	7	【名】自伝		
 autocratic	11	【形】独裁的な、専制の		
 autograph	10	【名】署名、サイン		
 autonomous	10	【形】自治権のある、自律的な		
@@ -365,7 +364,6 @@ bimonthly	12	【形】隔月の 【副】隔月に
 bin	9	【名】ふた付きの容器、貯蔵所		
 binding	7	【形】拘束力のある 【名】結合、束縛		
 binocular	12	【形】両眼の 【名】双眼鏡（～s）		
-biographer	8	【名】伝記作家		
 biotechnology	9	【名】生命工学		
 birch	11	【名】カバノキ		
 birthright	10	【名】生得権、相続権		
@@ -1493,7 +1491,6 @@ elusive	10	【形】手に入りにくい、とらえどころのない
 emanate	11	【動】出てくる、生じる、発する		
 emancipate	12	【動】解放する		
 embargo	10	【名】通商停止、出入港の禁止命令		
-embark	7	【動】乗船させる、積み込む、乗り込む、着手する		
 embassy	5	【名】大使館、大使の職		
 embellish	12	【動】話をおもしろくする、誇張する、美しく飾る		
 embezzle	12	【動】横領する		
@@ -1502,7 +1499,6 @@ embroidery	12	【名】刺しゅう、話の誇張
 embroil	11	【動】巻き込む、混乱させる		
 embryo	10	【名】胚、胎児		
 embryonic	12	【形】初期の、未発達の、胚に関する		
-emigrant	9	【名】移民、出稼ぎ人		
 eminence	10	【名】高貴、卓越、著名、枢機卿		
 eminent	7	【形】著名な、地位の高い		
 emissary	12	【名】使節、スパイ 【形】使者の		
@@ -1514,15 +1510,9 @@ empress	9	【名】女帝、皇后
 emulate	10	【動】見習う、張り合う、匹敵する		
 enact	10	【動】制定する		
 enactment	11	【名】法律の制定、法令、上演		
-enclave	11	【名】少数民族の居住地、飛び地、飛び領土		
-enclose	4	【動】同封する、取り囲む		
 enclosure	7	【名】囲い地、包囲、同封		
 encompass	10	【動】包み込む、包囲する		
-encouragement	6	【名】激励、励みになるもの		
-encouraging	8	【形】勇気づける、励みになる		
 encroach	12	【動】侵入する、侵害する		
-endanger	6	【動】危険にさらす、危うくする		
-endangered	10	【形】絶滅寸前の、危険にさらされた		
 endemic	11	【形】ある地方特有の、風土性の 【名】風土病		
 endow	8	【動】寄付する、授ける		
 endowment	8	【名】寄付、素質、基金、基本財産		

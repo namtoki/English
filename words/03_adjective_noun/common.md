@@ -1,6 +1,9 @@
 # NAME
 
 ## ABSTRACT CONCEPTS
+- `autobiography` /ˌɔːtəbaɪˈɒɡrəfi/  ([Neutral] 自叙伝)               She wrote her autobiography last year.
+- `biographer` /baɪˈɒɡrəfər/        ([Neutral] 伝記作家)             Boswell was Johnson's biographer.
+- `enclave` /ˈɛnkleɪv/              ([Neutral] 飛び地、居住区)       The Vatican is an enclave within Italy.
 - `consent` /ˈkɒnsent/               ([Formal] 同意、許可)            You need parental consent for this.
 - `agreement` /əˈɡriːmənt/           ([Neutral] 合意、協定)           They reached an agreement.
 - `approval` /əˈpruːvəl/             ([Neutral] 承認、賛成)           The project needs your approval.

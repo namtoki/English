@@ -1,5 +1,31 @@
 # SVO
 
+## It V (that S V)
+> `It crosses one's mind`           ([Casual] 頭をよぎる)           It never crossed my mind.
+  - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
+  - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
+  - `It hit 人` /hɪt/               ([Casual] 突然気づく)           It just hit me that we're late.
+
+## 人 V O
+> `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
+  - `imagine` /ɪˈmædʒɪn/            ([Neutral] 想像する)            Can you imagine living there?
+  - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
+  - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する 想像する) Try to visualize the solution.
+  - `envision` /ɪnˈvɪʒən/           ([Neutral] 心に描く 想像する)   I envision a better future.
+  - `conceive` /kənˈsiːv/           ([Formal] 具体的な創造)         She conceived the idea during her commute.
+  - `conceive of` /kənˈsiːv/        ([Formal] 抽象的な想像・理解)   I can't conceive of such cruelty.
+  - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
+  - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
+  - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
+
+---
+
+## 思いつく (名詞 + V + 人)
+  - `strike` /straɪk/               ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
+  - `come to` /kʌm tuː/             ([Neutral] 思いつく)            The answer came to me suddenly.
+  - `flash through` /flæʃ θruː/     ([Neutral] 頭を一瞬よぎる)      An idea flashed through my mind.
+  - `dawn on` /dɔːn ɑːn/            ([Neutral] 気づく 分かってくる) The truth dawned on me.
+
 ## COMMUNICATION (SAY / TELL / EXPLAIN)
 > `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
   > `be said to` /biː sed tuː/      ([Neutral] と言われている)      He is said to have worked hard when young.
@@ -33,7 +59,7 @@
   - `get     word from`             ([Neutral] 便りをもらう)        I got word from him this morning.
   - `receive word from`             ([Formal] 便りを受ける)         We received word from headquarters.
 
-## COGNITIVE (UNDERSTAND / IMAGINE / COME UP WITH / DREAM UP / REMIND / WANT)
+## OTHER (UNDERSTAND / IMAGINE / COME UP WITH / DREAM UP / REMIND / WANT)
 > `understand` /ˌʌndərˈstænd/       ([Neutral] 理解する)            I understand your concern.
   > `get` /ɡet/                     ([Casual] 理解する)             I get what you mean.
   - `see` /siː/                     ([Neutral] 想像する、理解する)  I can see that happening.
@@ -47,14 +73,6 @@
   - `digest` /daɪˈdʒest/            ([Neutral] 理解・吸収する)      I need time to digest this information.
   - `fathom` /ˈfæðəm/               ([Formal] 理解する、推測する)   I can't fathom his motives.
   - `perceive` /pərˈsiːv/           ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
-> `imagine` /ɪˈmædʒɪn/              ([Neutral] 想像する、思う)      I can't imagine life without music.
-  - `think` /θɪŋk/                  ([Neutral] 思う、想像する)      Think what would happen if...
-  - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
-  - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する)          Visualize your goals clearly.
-  - `envision` /ɪnˈvɪʒən/           ([Formal] 心に描く、想像する)   I envision a bright future.
-  - `fantasize` /ˈfæntəsaɪz/        ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
-  - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
-  - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
 > `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める)    I didn't recognize him at first.
   - `identify` /aɪˈdentɪfaɪ/        ([Neutral] 見分ける、特定する)  Can you identify the suspect?
   - `tell` /tel/                    ([Casual] 見分ける、区別する)   I can't tell the twins apart.

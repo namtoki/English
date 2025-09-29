@@ -1,14 +1,16 @@
 # SV
 
-## COGNITIVE
-> `conceive` /kənˈsiːv/             ([Formal] 思いつく、想像する)   I can't conceive of such cruelty.
-  - `occur` /əˈkɜːr/                ([Neutral] 思い浮かぶ)          It never occurred to me.
-  - `strike` /straɪk/               ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
+## 無生物主語 + O
 > `go over ~'s head`                ([Neutral] 理解を超える)        The joke went over my head.
-  - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
-  - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
   - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
-  - `go behind ~'s back`            ([Neutral] 陰で行う)            He went behind his boss's back.
+  - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
+  - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
+
+---
+
+- `go behind ~'s back`            ([Neutral] 陰で行う)            He went behind his boss's back.
+
+## COGNITIVE
   - `be lost on ~`                  ([Neutral] 理解されない)        The irony was lost on him.
 > `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
   > `be fine` /bi faɪn/             ([Neutral] 大丈夫である)        That will be fine for me.
