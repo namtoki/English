@@ -2,6 +2,7 @@
 
 ## ABSTRACT CONCEPTS
 - `autobiography` /ˌɔːtəbaɪˈɒɡrəfi/  ([Neutral] 自叙伝)               She wrote her autobiography last year.
+
 - `biographer` /baɪˈɒɡrəfər/        ([Neutral] 伝記作家)             Boswell was Johnson's biographer.
 - `enclave` /ˈɛnkleɪv/              ([Neutral] 飛び地、居住区)       The Vatican is an enclave within Italy.
 - `consent` /ˈkɒnsent/               ([Formal] 同意、許可)            You need parental consent for this.
@@ -1824,3 +1825,9 @@
   - `and so forth` /ænd soʊ fɔrθ/   ([Neutral] などなど)            First, second, third, and so forth.
   - `and things` /ænd θɪŋz/         ([Casual] とかいろいろ)         She bought shoes, bags, and things.
   - `and all that jazz`             ([Casual] そういうもの全部)     He talks about success, money, and all that jazz.
+
+  - `affront` /əˈfrʌnt/             ([Formal] 侮辱、怒らせる)       His comment was an affront to my dignity.
+
+  - `ashamed` /əˈʃeɪmd/             ([Neutral] 恥ずかしい)          He felt ashamed of his behavior.
+
+  - `disgrace` /dɪsˈɡreɪs/          ([Formal] 恥辱、不名誉)         His behavior was a disgrace to the family.

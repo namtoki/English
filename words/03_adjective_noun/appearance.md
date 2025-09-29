@@ -142,3 +142,9 @@
   - `shaky` /ˈʃeɪki/                ([Casual] 震える、不安定な)     His legs were shaky.
   - `wobbly` /ˈwɑːbli/              ([Casual] ぐらぐらする、不安定) She felt wobbly on her feet.
   - `unsteady` /ʌnˈstedi/           ([Neutral] 不安定な、ふらつく)  His walk was unsteady.
+
+## SKIN / FACIAL FEATURES
+> `pore` /pɔːr/                      ([Neutral] 毛穴)                Blackheads clog your pores.
+  - `clogged pore`                   ([Neutral] 詰まった毛穴)        She has clogged pores on her nose.
+  - `open pore`                      ([Neutral] 開いた毛穴)          Large open pores are visible.
+  - `pore-clogging`                  ([Neutral] 毛穴を詰まらせる)    Avoid pore-clogging products.

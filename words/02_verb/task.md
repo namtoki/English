@@ -1,34 +1,6 @@
 # Task
 
 ## ANALYSIS (SORT OUT / GET STRAIGHT / LOOK INTO / CHECK OUT / FIND OUT / GO WITH / MAKE SURE / PROVE)
-> `organize` /ˈɔːrɡənaɪz/           ([Neutral] 整理する、組織する)  I need to organize my files.
-  > `sort out` /sɔːrt aʊt/          ([Casual] 整理する、解決する)   I'll sort out the paperwork.
-  > `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
-  - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
-  - `order` /ˈɔːrdər/               ([Neutral] 整理する、注文する)  Order the items by priority.
-  - `coordinate` /koʊˈɔːrdɪneɪt/    ([Neutral] 調整する、まとめる)  Coordinate the different teams.
-  - `straighten out` /ˈstreɪtən aʊt/([Neutral] 整理する、解決する)  Let's straighten out these issues.
-  - `structure` /ˈstrʌktʃər/        ([Neutral] 構造化する 組織する) We need to structure the data.
-  - `reorganize` /riːˈɔːrɡənaɪz/    ([Neutral] 再編成す 整理し直す) We need to reorganize the department.
-  > `streamline` /ˈstriːmlaɪn/      ([Neutral] 合理化す 効率化する) We'll streamline our processes.
-  - `systematize` /ˈsɪstəmətaɪz/    ([Formal] 体系化す 組織化する)  Let's systematize our approach.
-  - `consolidate`/kənˈsɑːlɪdeɪt/    ([Formal] 統合する 整理統合す)  Consolidate all the reports.
-  - `align` /əˈlaɪn/                ([Neutral] 整列させる 調整する) Align the goals with strategy.
-  - `declutter` /diːˈklʌtər/        ([Casual] 散らかりを片付ける)   Declutter your workspace.
-> `look into` /lʊk ˈɪntuː/          ([Neutral] 調べる、検討する)    I'll look into that issue.
-  > `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
-  > `dive into` /daɪv ˈɪntuː/       ([Casual] 飛び込む、詳しく調べ) I'll dive into the research.
-  > `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Let me check out this website.
-  - `drill down` /drɪl daʊn/        ([Neutral] 掘り下げる)          We need to drill down further.
-  - `pore over` /pɔːr ˈoʊvər/       ([Neutral] 熟読する)            She pored over the documents.
-  - `explore` /ɪkˈsplɔːr/           ([Neutral] 探索する、調べる)    Let's explore this option.
-  - `research` /rɪˈsɜːrtʃ/          ([Formal] 研究する、調査する)   She's researching the topic.
-  - `examine` /ɪɡˈzæmɪn/            ([Formal] 検査する、調べる)     The doctor examined the patient.
-  - `investigate` /ɪnˈvestɪɡeɪt/    ([Formal] 調査する、捜査する)   Police are investigating the case.
-  - `inspect` /ɪnˈspekt/            ([Formal] 検査する、調べる)     Inspectors examined the building.
-  - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
-  - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
-  - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
 > `find out` /faɪnd aʊt/            ([Neutral] 調べる、発見する)    I need to find out the truth.
   - `figure out` /ˈfɪɡər aʊt/       ([Casual] 解明する、理解する)   We need to figure out what went wrong.
   - `discover` /dɪˈskʌvər/          ([Neutral] 発見する)            We discovered the root cause.
