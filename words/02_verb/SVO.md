@@ -1,13 +1,15 @@
 # SVO
 
-## It V (that S V)
+## It + V  + (that S V)
 > `It crosses one's mind`           ([Casual] 頭をよぎる)           It never crossed my mind.
   - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
   - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
   - `It hit 人` /hɪt/               ([Casual] 突然気づく)           It just hit me that we're late.
 
-## 人 V O
+## 人 + V + Noun
 > `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
+  - `think of` /θɪŋk ʌv/            ([Neutral] 思い出す、考えつく)  I can't think of his name.
+  - `think about` /θɪŋk əˈbaʊt/     ([Neutral] 考える、検討する)    Think about what I said.
   - `imagine` /ɪˈmædʒɪn/            ([Neutral] 想像する)            Can you imagine living there?
   - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
   - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する 想像する) Try to visualize the solution.
@@ -17,6 +19,41 @@
   - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
   - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
   - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
+> `hope for` /hoʊp fɔːr/            ([Neutral] 期待する 望む)       We hope for good weather tomorrow.
+  - `wish for` /wɪʃ fɔːr/           ([Neutral] 願う 望む)           I wish for world peace.
+  - `crave` /kreɪv/                 ([Neutral] 渇望する 欲する)     I crave chocolate sometimes.
+  - `long for` /lɔːŋ fɔːr/          ([Neutral] 恋しがる 切望する)   She longs for her homeland.
+  - `yearn for` /jɜːrn fɔːr/        ([Neutral] あこがれる 熱望する) He yearns for recognition.
+  - `hunger for` /ˈhʌŋɡər fɔːr/     ([Neutral] 渇望する)            They hunger for knowledge.
+  - `dream of` /driːm ʌv/           ([Neutral] 夢見る、憧れる)      She dreams of becoming famous.
+> `wait for` /weɪt fɔːr/            ([Neutral] 待つ)                I'm waiting for the bus.
+  - `await` /əˈweɪt/                ([Formal] 待つ、期待する)       We await your response.
+  - `expect` /ɪkˈspekt/             ([Neutral] 期待する、予想する)  I expect him to arrive soon.
+  - `anticipate` /ænˈtɪsɪpeɪt/      ([Neutral] 予期する 楽しみする) We anticipate good results.
+  - `look forward to`               ([Neutral] 楽しみにする)        I look forward to seeing you.
+> `decide on` /dɪˈsaɪd ɑːn/         ([Neutral] 決める、選ぶ)        We decided on the blue car.
+  - `choose` /tʃuːz/                ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
+  > `go with` /ɡoʊ wɪð/             ([Casual] 選ぶ、決める)         I'll go with the chicken.
+  > `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、決める)         Let's go for the premium package.
+  - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the small size.
+  - `stick with` /stɪk wɪð/         ([Neutral] 選ぶ、続ける)        I'll stick with my original choice.
+  > `narrow down` /ˈnæroʊ daʊn/     ([Neutral] 絞り込む)            Let's narrow down our options.
+
+---
+
+  - `zero in on` /ˈzɪroʊ ɪn ɑːn/    ([Neutral] 絞り込む、決める)    We need to zero in on a solution.
+  - `pin down` /pɪn daʊn/           ([Neutral] 決める、特定する)    Let's pin down the details.
+  - `settle for` /ˈsetəl fɔːr/      ([Neutral] 妥協する、選ぶ)      I'll settle for the basic model.
+  - `lean towards` /liːn təˈwɔːrdz/  ([Neutral] 傾く、選ぶ傾向)     I'm leaning towards the first option.
+  - `favor` /ˈfeɪvər/               ([Neutral] 好む、選ぶ)          I favor the conservative approach.
+  - `single out` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す)            They singled out the best candidate.
+  - `fix on` /fɪks ɑːn/             ([Neutral] 決める、固定する)    We've fixed on a date for the meeting.
+  - `land on` /lænd ɑːn/            ([Casual] 決める、選ぶ)         We landed on a great restaurant.
+  - `plump for` /plʌmp fɔːr/        ([British] 選ぶ、決める)        I'll plump for the chocolate cake.
+  - `select` /sɪˈlekt/              ([Neutral] 選ぶ、選択する)      Please select your option.
+  - `pick` /pɪk/                    ([Casual] 選ぶ、決める)         Pick a card, any card.
+  - `opt for` /ɑːpt fɔːr/           ([Neutral] 選択する)            I opted for the cheaper plan.
+  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    We settled on a compromise.
 
 ---
 
@@ -86,7 +123,6 @@
   - `pinpoint` /ˈpɪnpɔɪnt/          ([Neutral] 正確に特定する)      We need to pinpoint the problem.
   - `differentiate` /ˌdɪfəˈrenʃieɪt/([Formal] 区別する、差別化する) It's important to differentiate the brands.
 > `come up with` /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
-  - `think of` /θɪŋk ʌv/            ([Neutral] 思いつく、考える)    I can't think of a solution.
   - `get an idea` /ɡet ən aɪˈdiːə/  ([Neutral] アイデアを思いつく)  I just got an idea!
   - `hit on` /hɪt ɑːn/              ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
   - `devise` /dɪˈvaɪz/              ([Formal] 考案する、工夫する)   They devised a new strategy.
@@ -122,11 +158,7 @@
   - `could use` /kʊd juːz/          ([Casual] 〜が欲しい)           I could use a coffee right now.
   - `could do with` /kʊd duː wɪð/   ([Casual] 〜が欲しい)           I could do with a vacation.
   - `be eager to` /biː ˈiːɡər tuː/  ([Neutral] 切望する)            She's eager to start her new job.
-  - `crave` /kreɪv/                 ([Neutral] 切望する)            I crave chocolate when I'm stressed.
-  - `long for` /lɔːŋ fɔːr/          ([Neutral] 切望する)            I'm longing for the weekend.
-  - `yearn for` /jɜːrn fɔːr/        ([Neutral] 切望する)            She yearns for her homeland.
   - `desire` /dɪˈzaɪər/             ([Formal] 欲する、望む)         He desires success above all.
-  - `hunger for` /ˈhʌŋɡər fɔːr/     ([Neutral] 渇望する)            They hunger for knowledge.
 > `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
   - `物 need V-ing`                 ([Neutral] Vされる必要がある)   The car needs washing.
   - `need for`                      ([Neutral] ～の必要性)          There's a need for change.
