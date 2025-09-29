@@ -47,6 +47,22 @@
   - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
   - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
   - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
+> `find out` /faɪnd aʊt/            ([Neutral] 調べる、発見する)    I need to find out the truth.
+  - `figure out` /ˈfɪɡər aʊt/       ([Casual] 解明する、理解する)   We need to figure out what went wrong.
+  - `discover` /dɪˈskʌvər/          ([Neutral] 発見する)            We discovered the root cause.
+  - `uncover` /ʌnˈkʌvər/            ([Neutral] 明らかにする)        The investigation uncovered new evidence.
+  - `get to the bottom of`          ([Casual] 真相を突き止める)     I'll get to the bottom of this.
+  - `track` /træk/                  ([Neutral] 追跡する)            We're tracking the shipment.
+  - `track down` /træk daʊn/        ([Neutral] 探し出す)            I finally tracked down the book I wanted.
+  - `hunt down` /hʌnt daʊn/         ([Neutral] 追い詰める)          Police hunted down the suspect.
+  - `trace` /treɪs/                 ([Neutral] 追跡する)            They traced the call to his location.
+  - `locate` /loʊˈkeɪt/             ([Neutral] 見つける)            We need to locate the source.
+  - `dig up` /dɪɡ ʌp/               ([Casual] 掘り出す)             She dug up some old photos.
+  - `pin down` /pɪn daʊn/           ([Neutral] 特定する、明確にする) Let's pin down the exact problem.
+  - `nail down` /neɪl daʊn/         ([Casual] 確定する、特定する)   We need to nail down the details.
+  - `root out` /ruːt aʊt/           ([Neutral] 根本原因を見つける)  We must root out the problem.
+  - `ferret out` /ˈferɪt aʊt/       ([Neutral] 探り出す、発見する)  She ferreted out the information.
+  - `suss out` /sʌs aʊt/            ([British Casual] 見抜く、理解) I'll suss out what's going on.
 > `hope for` /hoʊp fɔːr/            ([Neutral] 期待する 望む)       We hope for good weather tomorrow.
   - `wish for` /wɪʃ fɔːr/           ([Neutral] 願う 望む)           I wish for world peace.
   - `crave` /kreɪv/                 ([Neutral] 渇望する 欲する)     I crave chocolate sometimes.
@@ -74,6 +90,19 @@
   - `clout` /klaʊt/                 ([Casual] 殴る)                 Don't make me clout you!
   - `wallop` /ˈwɒləp/               ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
   - `thwack` /θwæk/                 ([Casual] 強打音)               The thwack of the bat hitting the ball.
+> `exercise` /ˈeksərsaɪz/           ([Neutral] 行使する、発動する)  They exercised their voting rights.
+  - `wield` /wiːld/                 ([Neutral] 振るう、行使する)    She wields considerable influence.
+  - `exert` /ɪɡˈzɜːrt/              ([Neutral] 及ぼす、行使する)    He exerted his authority to resolve the dispute.
+  - `assert` /əˈsɜːrt/              ([Neutral] 主張する、行使する)  She asserted her authority over the team.
+  - `invoke` /ɪnˈvoʊk/              ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
+  - `enforce` /ɪnˈfɔːrs/            ([Neutral] 強制する、施行する)  The police enforce the law.
+  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、執行する)   The court will execute the warrant.
+  - `implement` /ˈɪmplɪment/        ([Formal] 実施する、実装する)   The government will implement new policies.
+  - `apply` /əˈplaɪ/                ([Neutral] 適用する、申請する)  We'll apply the new regulations.
+  - `activate` /ˈæktɪveɪt/          ([Neutral] 活性化する 発動する) They activated the emergency protocol.
+  - `employ` /ɪmˈplɔɪ/              ([Formal] 使用する、行使する)   They employed legal measures.
+  - `utilize` /ˈjuːtɪlaɪz/          ([Formal] 利用する、活用する)   We'll utilize all available resources.
+  - `bring to bear` /brɪŋ tuː beər/ ([Neutral] 及ぼす、行使する)    They brought pressure to bear on the decision.
 
 ## S + V + 人
 > `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.

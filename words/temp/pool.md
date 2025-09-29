@@ -1693,7 +1693,6 @@ ferment	11	【動】発酵する 【名】発酵、興奮、政治的動揺
 fern	12	【名】シダ		
 ferocious	10	【形】恐ろしい、凶暴な、猛烈な		
 ferocity	11	【名】狂暴性、残忍な行為		
-ferret	10	【動】狩り出す、追い出す 【名】フェレット		
 fertile	5	【形】肥えた、肥沃な		
 fertility	8	【名】肥沃、多産、生産力、受胎能力		
 fertilization	9	【名】肥沃化		
