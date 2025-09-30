@@ -241,6 +241,9 @@
   - `garner` /ˈɡɑːrnər/             ([Formal] 獲得する、集める)     The candidate garnered significant support.
   - `glean` /ɡliːn/                 ([Writing] 拾い集める、収集する)I gleaned information from various sources.
   - `harvest` /ˈhɑːrvɪst/           ([Neutral] 収穫する、得る)      They harvest data from users.
+> `season` /ˈsiːzən/                ([Neutral] 味付けする)          Season the meat with salt.
+  - `spice up` /spaɪs ʌp/           ([Casual] 味付けす 刺激を加え) Let's spice up the dish.
+  - `flavor` /ˈfleɪvər/             ([Neutral] 味をつける)          Flavor the soup with herbs.
 > `clean up` /kliːn ʌp/             ([Casual] 片付ける、掃除する)   We need to clean up this mess.
   - `tidy` /ˈtaɪdi/                 ([Casual] 片付ける、整頓する)   Tidy up your desk before leaving.
   - `tidy up` /ˈtaɪdi ʌp/           ([Casual] 片付ける、整理する)   Let's tidy up the office.
@@ -296,6 +299,12 @@
   - `fund` /fʌnd/                   ([Neutral] 資金を出す)          The government funded the project.
   - `splurge` /splɜːdʒ/             ([Casual] 散財する)             I decided to splurge on a new car.
   - `contribute` /kənˈtrɪbjuːt/     ([Formal] 寄付する)             They contribute to charity regularly.
+  - `chip in`                       ([Casual] お金を出し合う)       Everyone chipped in for the gift.
+  - `pitch in`                      ([Casual] お金を出し合う)       We all pitched in for lunch.
+  - `kick in`                       ([Casual] お金を出す)           I'll kick in $20 for the gift.
+  - `pool money`                    ([Neutral] お金をまとめる)      Let's pool our money together.
+  - `split the cost`                ([Neutral] 費用を分担する)      Let's split the cost of dinner.
+  - `go Dutch`                      ([Casual] 割り勘にする)         Should we go Dutch on this meal?
   - `allocate` /ˈæləkeɪt/           ([Formal] 配分する)             We need to allocate funds wisely.
 > `waste` /weɪst/                   ([Neutral] 無駄にする)          Don't waste your time on this.
   - `throw away` /θrəʊ əˈweɪ/       ([Neutral] 無駄にする)          Don't throw away your money on that.
@@ -562,6 +571,12 @@
 ## MAKE
 - `make` /meɪk/                     ([Neutral] させる、強いる)      They made him apologize.
 - `urge` /ɜːrdʒ/                    ([Neutral] 強く勧める、促す)    I urge you to act quickly.
+- `coax` /koʊks/                    ([Neutral] 優しく説得する)      She coaxed him into trying it.
+- `persuade` /pərˈsweɪd/            ([Neutral] 説得する)            He persuaded me to stay.
+- `cajole` /kəˈdʒoʊl/               ([Neutral] おだてて説得する)    She cajoled him into helping her.
+- `wheedle` /ˈwiːdəl/               ([Neutral] 甘言で説得する)      He wheedled money out of her.
+- `entice` /ɪnˈtaɪs/                ([Neutral] 誘惑する、そそのかす) The offer enticed him to accept.
+- `lure` /lʊr/                      ([Neutral] 誘い込む、誘惑する)  They lured customers with discounts.
 - `encourage` /ɪnˈkɜːrɪdʒ/          ([Neutral] 励ます、奨励する)    She encouraged me to apply.
 - `press` /pres/                    ([Neutral] 強く勧める、迫る)    They pressed him for an answer.
 - `push` /pʊʃ/                      ([Casual] 押す、強く勧める)     Don't push me to decide now.

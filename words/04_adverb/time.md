@@ -61,6 +61,8 @@
 ## UP-FRONT
 - `up-front` /ʌp frʌnt/             ([Neutral] あらかじめ)          This hotel requires a cash deposit up-front.
 - `in advance` /ɪn ədˈvæns/         ([Neutral] あらかじめ)          Please book your tickets in advance.
+- `ahead of time`                   ([Neutral] 前もって)            We arrived ahead of time.
+- `beforehand` /bɪˈfɔːrhænd/        ([Neutral] 事前に)              Please call me beforehand.
 
 ## SPECIFIC EVENT (EVERY / )
 > `every (period)` /ˈevri/          ([Neutral] ~~毎に)              The vehicles are inspected every three months.

@@ -20,6 +20,9 @@
   - `flare` /fler/                  ([Neutral] 炎上、閃光)          The fire flared up suddenly.
 
 ## EDUCATIONAL STATUS
+- `sovereign` /ˈsɑːvrɪn/            ([Formal] 主権を持つ、独立した) A sovereign nation has full authority.
+- `autonomous` /ɔːˈtɑːnəməs/        ([Formal] 自治的な、自律的な)  The region is autonomous.
+- `independent` /ˌɪndɪˈpendənt/     ([Neutral] 独立した、自主的な)  The country became independent in 1960.
 - `illiteracy` /ɪˈlɪtərəsi/         ([Neutral] 非識字、無教養)      Illiteracy remains a problem in rural areas.
 - `illiterate` /ɪˈlɪtərət/          ([Neutral] 読み書きできない)    Many adults are functionally illiterate.
 - `literacy` /ˈlɪtərəsi/            ([Neutral] 識字能力)            Digital literacy is essential today.

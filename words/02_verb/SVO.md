@@ -20,8 +20,8 @@
   - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
   - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
 > `organize` /ˈɔːrɡənaɪz/           ([Neutral] 整理する、組織する)  I need to organize my files.
-  > `sort out` /sɔːrt aʊt/          ([Casual] 整理する、解決する)   I'll sort out the paperwork.
-  > `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
+  - `sort out` /sɔːrt aʊt/          ([Casual] 整理する、解決する)   I'll sort out the paperwork.
+  - `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
   - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
   - `order` /ˈɔːrdər/               ([Neutral] 整理する、注文する)  Order the items by priority.
   - `coordinate` /koʊˈɔːrdɪneɪt/    ([Neutral] 調整する、まとめる)  Coordinate the different teams.
@@ -34,9 +34,9 @@
   - `align` /əˈlaɪn/                ([Neutral] 整列させる 調整する) Align the goals with strategy.
   - `declutter` /diːˈklʌtər/        ([Casual] 散らかりを片付ける)   Declutter your workspace.
 > `look into` /lʊk ˈɪntuː/          ([Neutral] 調べる、検討する)    I'll look into that issue.
-  > `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
-  > `dive into` /daɪv ˈɪntuː/       ([Casual] 飛び込む、詳しく調べ) I'll dive into the research.
-  > `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Let me check out this website.
+  - `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
+  - `dive into` /daɪv ˈɪntuː/       ([Casual] 飛び込む、詳しく調べ) I'll dive into the research.
+  - `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Let me check out this website.
   - `drill down` /drɪl daʊn/        ([Neutral] 掘り下げる)          We need to drill down further.
   - `pore over` /pɔːr ˈoʊvər/       ([Neutral] 熟読する)            She pored over the documents.
   - `explore` /ɪkˈsplɔːr/           ([Neutral] 探索する、調べる)    Let's explore this option.
@@ -77,11 +77,11 @@
   - `look forward to`               ([Neutral] 楽しみにする)        I look forward to seeing you.
 > `decide on` /dɪˈsaɪd ɑːn/         ([Neutral] 決める、選ぶ)        We decided on the blue car.
   - `choose` /tʃuːz/                ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
-  > `go with` /ɡoʊ wɪð/             ([Casual] 選ぶ、決める)         I'll go with the chicken.
-  > `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、決める)         Let's go for the premium package.
+  - `go with` /ɡoʊ wɪð/             ([Casual] 選ぶ、決める)         I'll go with the chicken.
+  - `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、決める)         Let's go for the premium package.
   - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the small size.
   - `stick with` /stɪk wɪð/         ([Neutral] 選ぶ、続ける)        I'll stick with my original choice.
-  > `narrow down` /ˈnæroʊ daʊn/     ([Neutral] 絞り込む)            Let's narrow down our options.
+  - `narrow down` /ˈnæroʊ daʊn/     ([Neutral] 絞り込む)            Let's narrow down our options.
 > `smack` /smæk/                    ([Casual] 叩く)                 She smacked him across the face.
   - `rap` /ræp/                     ([Neutral] 叩く、ノックする)    He rapped on the door loudly.
   - `whack` /wæk/                   ([Casual] 強く打つ)             She whacked the piñata with a stick.
@@ -103,6 +103,81 @@
   - `employ` /ɪmˈplɔɪ/              ([Formal] 使用する、行使する)   They employed legal measures.
   - `utilize` /ˈjuːtɪlaɪz/          ([Formal] 利用する、活用する)   We'll utilize all available resources.
   - `bring to bear` /brɪŋ tuː beər/ ([Neutral] 及ぼす、行使する)    They brought pressure to bear on the decision.
+> `check` /tʃek/                    ([Casual] 確認する チェックる)  Let me check if that's correct.
+  - `double-check` /ˈdʌbəl tʃek/    ([Casual] 再確認する)           Please double-check the numbers.
+  - `cross-check` /ˈkrɔs tʃek/      ([Neutral] 照合確認する)        Let's cross-check the data.
+  - `make sure` /meɪk ʃʊr/          ([Casual] 確かめる)             Make sure you lock the door.
+  - `see if` /si ɪf/                ([Casual] ～かどうか確認する)   I'll see if she's available.
+  - `confirm` /kənˈfɜrm/            ([Neutral] 確認する)            Can you confirm the meeting time?
+  - `reconfirm` /ˌriːkənˈfɜrm/      ([Neutral] 再確認する)          Let's reconfirm the details.
+  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする)          Please ensure all forms are signed.
+  - `verify` /ˈvɛrɪfaɪ/             ([Formal] 検証する、確認する)   Please verify your email address.
+  - `validate` /ˈvælɪdeɪt/          ([Formal] 検証する、妥当性確認) The system will validate your input.
+  - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
+> `work on` /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
+  - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
+  - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
+  - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
+  - `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
+  - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する、取り組む)  We're focusing on this problem.
+  - `work through` /wɜːrk θruː/     ([Neutral] やり抜く、解決する)  We're working through the issues.
+  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'm attending to this matter.
+  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We're engaging with the challenge.
+  - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
+  - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
+  - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He's applying himself to the task.
+> `carry on` /ˈkæri ɑːn/            ([Neutral] 続ける、継続する)    We'll carry on despite the setbacks.
+> `carry on with` /ˈkæri ɑːn wɪð/   ([Neutral] 続ける、継続する)    We'll carry on with the project despite the challenges.
+  - `continue` /kənˈtɪnjuː/         ([Neutral] 続ける、継続する)    Let's continue with the meeting.
+  - `continue working on`           ([Neutral] 作業を続ける)        Let's continue working on this project.
+  - `keep     working on`           ([Neutral] 作業を続ける)        I'll keep working on the proposal.
+  - `keep     going` /kiːp ˈɡoʊɪŋ/  ([Casual] 続ける、頑張る)       Just keep going, you're doing great!
+  - `keep             on`           ([Neutral] 続ける、継続する)    He'll keep on working until it's done.
+  - `proceed with` /prəˈsiːd wɪð/   ([Formal] 進める、続行する)     Please proceed with the implementation.
+  - `go on with` /ɡoʊ ɑːn wɪð/      ([Casual] 続ける、進む)         Please go on with your presentation.
+  - `resume` /rɪˈzuːm/              ([Neutral] 再開する、続ける)    We'll resume work after lunch.
+  - `stay on` /steɪ ɑːn/            ([Neutral] そのまま続ける)      I'll stay on this project until completion.
+  - `stay on track` /steɪ ɑːn træk/ ([Neutral] 軌道に乗り続ける)    Let's stay on track with our goals.
+  - `pursue further`                ([Formal] さらに追求する)       We should pursue this opportunity further.
+  - `pursue` /pərˈsuː/              ([Neutral] 追求する、進める)    We'll pursue this strategy.
+  - `press on with` /pres ɑːn wɪð/  ([Neutral] 押し進む、続行する)  We must press on with the deadline approaching.
+  - `press on` /pres ɑːn/           ([Neutral] 押し進む、続行する)  We must press on to meet the deadline.
+  - `go ahead` /ɡoʊ əˈhed/          ([Neutral] 先に進む、始める)    You can go ahead with the purchase.
+  - `move along` /muːv əˈlɔːŋ/      ([Neutral] 進める、進行する)    The project is moving along nicely.
+  - `push ahead` /pʊʃ əˈhed/        ([Neutral] 推し進める)          The CEO wants to push ahead with expansion.
+  - `push forward` /pʊʃ ˈfɔːrwərd/  ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
+  - `forge ahead` /fɔːrdʒ əˈhed/    ([Neutral] 突き進む)            We'll forge ahead with the new strategy.
+  - `persist` /pərˈsɪst/            ([Formal] 固執する、続ける)     She'll persist with her research.
+  - `stay the course` /steɪ ðə kɔːrs([Neutral] 最後まで続ける)      We must stay the course to succeed.
+  - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
+  - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 前進する 優勢になる) Our proposal is gaining ground with management.
+> `get started on`                  ([Neutral] 着手する、始める)    Let's get started on the analysis.
+  - `get to` /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
+  - `get down to` /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
+  - `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
+  - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
+  - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
+  - `begin` /bɪˈɡɪn/                ([Formal] 始める、開始する)     Let's begin with the first task.
+  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
+  - `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
+  - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
+  - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] [すぐ] 飛び込む)        Let's jump into the discussion.
+  - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
+  - `set about` /set əˈbaʊt/        ([Neutral] [計画的] 取り掛かる)   Let's set about solving this.
+  - `kick off` /kɪk ɔːf/            ([Casual] 開始する、始める)     We'll kick off the project next week.
+  - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
+> `manage` /ˈmænɪdʒ/                ([Neutral] 管理する、対処する)  I can manage this situation.
+  - `go about` /ɡoʊ əˈbaʊt/         ([Neutral] 取り組む、着手する)  How do you go about fixing this?
+  - `take care of` /teɪk keər əv/   ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
+    - `see to` /siː tuː/            ([Neutral] 処理する 面倒を見る) I'll see to that right away.
+  - `cope with` /koʊp wɪð/          ([Neutral] 対処する、対応する)  How do you cope with stress?
+  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
+  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'll attend to this matter immediately.
+  - `confront` /kənˈfrʌnt/          ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
+> `move forward with`               ([Neutral] 前に進む、前進する)  Let's move forward with the plan.
+  - `be halfway through`            ([Neutral] 半分終わっている)    I'm halfway through the report.
+  - `be partway through`            ([Neutral] 途中まで進んでいる)  We're partway through the project.
+  - `be midway  through`            ([Neutral] 中間点にいる)        She's midway through her studies.
 
 ## S + V + 人
 > `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.
@@ -134,3 +209,23 @@
   - `wound` /wuːnd/                 ([Formal] 深く傷つける)         Her words wounded him deeply.
 > `insult` /ɪnˈsʌlt/                ([Neutral] 侮辱する)            Don't insult his intelligence.
   - `dishonor` /dɪsˈɑnər/           ([Formal] 名誉を傷つける)       The scandal dishonored his reputation.
+> `prove` /pruv/                    ([Neutral] 証明する)            She proved her innocence.
+  - `show` /ʃoʊ/                    ([Casual] 示す、見せる)         The results show that it works.
+  - `support` /səˈpɔːrt/            ([Neutral] 裏付ける、支持する)  The data supports our theory.
+  - `back up` /bæk ʌp/              ([Casual] 裏付ける、支持する)   Can you back up your statement?
+  - `demonstrate` /ˈdemənstreɪt/    ([Formal] 証明する、示す)       The results demonstrate our success.
+  - `indicate` /ˈɪndɪkeɪt/          ([Neutral] 示す、表す)          The signs indicate success.
+  - `suggest` /səˈdʒest/            ([Neutral] 示唆する)            The evidence suggests otherwise.
+  - `confirm` /kənˈfɜrm/            ([Neutral] 確証する)            The results confirm our hypothesis.
+  - `establish` /ɪˈstæblɪʃ/         ([Formal] 確立する、証明する)   We need to establish the facts.
+  - `reveal` /rɪˈviːl/              ([Neutral] 明らかにする)        The study revealed important findings.
+  - `bear out` /beər aʊt/           ([Neutral] 裏付ける、証明する)  The facts bear out her story.
+  - `point to` /pɔɪnt tuː/          ([Casual] 示す、指摘する)       All evidence points to success.
+  - `substantiate` /səbˈstænʃieɪt/  ([Formal] 実証する)             He failed to substantiate his claims.
+  - `corroborate` /kəˈrɑbəreɪt/     ([Writing] 裏付ける)            The evidence was corroborated by witnesses.
+  - `authenticate` /ɔˈθɛntɪkeɪt/    ([Formal] 認証する)             The museum authenticated the painting.
+  - `certify` /ˈsɜrtɪfaɪ/           ([Formal] 証明する)             The doctor certified her fitness.
+  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Neutral] 強化する、裏付ける)  This reinforces our argument.
+  - `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
+  - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
+  - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.

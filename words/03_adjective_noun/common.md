@@ -46,6 +46,12 @@
 - `pail` /peɪl/                     ([Neutral] バケツ、桶)           She carried water in a pail.
 
 ## PLACES
+- `terminus` /ˈtɜːrmɪnəs/            ([Formal] 終点、終着駅)         This is the terminus of the line.
+- `terminal` /ˈtɜːrmɪnəl/            ([Neutral] ターミナル、終点)    We arrived at the bus terminal.
+- `end point`                        ([Neutral] 終点、終着点)        This is the end point of the route.
+- `destination` /ˌdestɪˈneɪʃən/      ([Neutral] 目的地)              We reached our destination safely.
+- `final stop`                       ([Neutral] 終点、最後の停留所)  This is the final stop on the tour.
+- `last stop`                        ([Neutral] 終点、最終停留所)    The next station is the last stop.
 - `nook` /nʊk/                      ([Neutral] 隅、片隅)            She found a cozy reading nook.
 - `cranny` /ˈkræni/                 ([Neutral] 割れ目、隙間)         Every nook and cranny.
 - `corner` /ˈkɔːrnər/               ([Neutral] 角、隅)              He sat in the corner.
@@ -259,6 +265,11 @@
 - `departure` /dɪˈpɑrtʃər/          ([Neutral] 出発、逸脱)          This is a departure from tradition.
 
 ## FACTION
+- `sovereign` /ˈsɑːvrɪn/            ([Formal] 君主、元首)           The sovereign addressed the nation.
+  - `sovereignty` /ˈsɑːvrənti/      ([Formal] 主権、統治権)         National sovereignty must be protected.
+- `monarch` /ˈmɑːnərk/              ([Formal] 君主、国王)           The monarch ruled for 50 years.
+  - `monarchy` /ˈmɑːnərki/          ([Formal] 君主制、君主国)       The country is a constitutional monarchy.
+- `ruler` /ˈruːlər/                 ([Neutral] 支配者、統治者)      The ruler made important decisions.
 > `faction` /ˈfækʃən/               ([Neutral] 派閥、分派)          The party split into several factions.
   - `factional` /ˈfækʃənəl/         ([Neutral] 派閥の)              Factional disputes weakened the organization.
 > `sect` /sekt/                     ([Neutral] 宗派、教派)          The sect has followers worldwide.
@@ -554,6 +565,17 @@
   - `falsifiable` /ˌfɔːlsɪˈfaɪəbəl/ ([Writing] 反証可能な)          Scientific theories must be falsifiable.
 
 ## OTHER
+- `monologue` /ˈmɑːnəlɔːɡ/           ([Neutral] 独白、一人語り)      The actor delivered a powerful monologue.
+- `soliloquy` /səˈlɪləkwi/           ([Formal] 独白、一人語り)       Hamlet's soliloquy is famous.
+- `dialogue` /ˈdaɪəlɔːɡ/             ([Neutral] 対話、会話)          The dialogue between them was tense.
+- `speech` /spiːtʃ/                  ([Neutral] スピーチ、演説)      She gave an inspiring speech.
+- `address` /əˈdres/                 ([Formal] 演説、挨拶)           The president delivered an address.
+- `oration` /ɔːˈreɪʃən/              ([Formal] 演説、弁論)           He gave a stirring oration.
+- `seasoning` /ˈsiːzənɪŋ/            ([Neutral] 調味料)              Add seasoning to taste.
+- `spice` /spaɪs/                    ([Neutral] 香辛料)              This curry has too much spice.
+- `condiment` /ˈkɑːndɪmənt/          ([Neutral] 薬味、調味料)        Pass me the condiments, please.
+- `herb` /ɜːrb/                      ([Neutral] ハーブ、香草)        Fresh herbs make a big difference.
+- `flavor` /ˈfleɪvər/                ([Neutral] 風味、味)            This sauce has a rich flavor.
 - `thigh` /θaɪ/                      ([Neutral] 太もも)              I hurt my thigh during the workout.
   - `thighs` /θaɪz/                  ([Neutral] 太ももたち)          My thighs are sore from yesterday's run.
 - `calf` /kæf/                       ([Neutral] ふくらはぎ)          My calf muscles are tight.
