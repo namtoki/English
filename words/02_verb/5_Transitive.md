@@ -208,7 +208,8 @@
   - `cover` /ˈkʌvər/                ([Neutral] 扱う、カバーする)    We'll cover this issue next week.
   - `talk about` /tɔːk əˈbaʊt/      ([Casual] 話し合う)             We'll talk about this issue next week.
 > `take` /teɪk/                     ([Neutral] 引き受ける、取る)    I'll take the job.
-  > `take on` /teɪk ɑːn/            ([Neutral] 引き受ける)          I'll take on this challenge.
+  - `take on` /teɪk ɑːn/            ([Neutral] 引き受ける)          I'll take on this challenge.
+  - `take upon oneself`             ([Formal] 自ら引き受ける)       He took it upon himself to help.
   - `accept` /əkˈsept/              ([Neutral] 受け入れる 引き受け) I accept the responsibility.
   - `pick up` /pɪk ʌp/              ([Casual] 引き受ける 拾い上げ)  I'll pick up the slack.
   - `undertake` /ˌʌndərˈteɪk/       ([Formal] 引き受ける、着手する) We'll undertake the project.
@@ -216,6 +217,11 @@
   - `shoulder` /ˈʃoʊldər/           ([Neutral] 肩に担う 引き受ける) He shouldered the responsibility.
   - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
   - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
+> `take one's word for it`          ([Neutral] 真に受ける)          I'll take your word for it.
+  - `take it on faith`              ([Neutral] 証拠なしで信じる)    You'll have to take it on faith.
+  - `take 人 at one's word`         ([Neutral] 言葉通りに信じる)    I'll take her at her word.
+  - `buy it` /baɪ ɪt/               ([Casual] 信じる、受け入れる)   I don't buy it at all.
+  - `no questions asked`            ([Neutral] 無条件で受け入れる)  We'll accept it, no questions asked.
 > `hand over to` /hænd ˈoʊvər tuː/  ([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
   - `turn over to` /tɜːrn ˈoʊvər tuː([Neutral] 〜に引き渡す)        Turn the matter over to the lawyers.
 > `leave ~ up to` /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.

@@ -11,16 +11,10 @@
   - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
   - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
   - `be at the halfway point`       ([Neutral] 半分の地点にいる)    We're at the halfway point.
-> `make it`                         ([Casual] 成功する、間に合う)   I'm sure you'll make it.
-> `take one's word for it`          ([Neutral] 真に受ける)          I'll take your word for it.
-  - `take it on faith`              ([Neutral] 証拠なしで信じる)    You'll have to take it on faith.
-  - `take 人 at one's word`         ([Neutral] 言葉通りに信じる)    I'll take her at her word.
-  - `buy it` /baɪ ɪt/               ([Casual] 信じる、受け入れる)   I don't buy it at all.
-  - `no questions asked`            ([Neutral] 無条件で受け入れる)  We'll accept it, no questions asked.
 > `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
   - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
   - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
-  - `take upon oneself`             ([Formal] 自ら引き受ける)       He took it upon himself to help.
+> `make it`                         ([Casual] 成功する、間に合う)   I'm sure you'll make it.
 
 ## 人 + V + M
 > `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
