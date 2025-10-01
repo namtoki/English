@@ -4,9 +4,9 @@
 - 02_verb/0_AUX.md - 助動詞のような働きの動詞
 - 02_verb/1_SVC.md - SVC 文型の動詞
 - 02_verb/2_SVOC.md - SVOC 文型の動詞
-- 02_verb/SV.md - SV 文型の動詞 (実際は他の文型だが、V の後の形が決まっている決まり文句も含む。SVO だが O が人の形のものも含む)
-- 02_verb/SVO.md - SVO 文型の動詞 (自動詞+前置詞+O など、SVO 文型として考えたほうが良いものも含む)
-- 02_verb/SVOO.md - SVOO 文型の動詞
+- 02_verb/3_SVOO.md - SVOO 文型の動詞
+- 02_verb/4_Intransitive.md - 自動詞ならびにそう考えると楽な動詞
+- 02_verb/5_Transitive.md - 他動詞ならびにそう考えると楽な動詞
 - 03_adjective_noun/appearance.md - 服装・外見に関する名詞、形容詞
 - 03_adjective_noun/status.md - 対象の状態を表す名詞、形容詞
 - 03_adjective_noun/assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞

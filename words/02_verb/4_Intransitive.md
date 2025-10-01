@@ -1,4 +1,4 @@
-# SV
+# Intransitive
 
 ## 人 + V (+ 人)
 > `make progress`                   ([Neutral] 進捗する、前進する)  We're making progress on the project.

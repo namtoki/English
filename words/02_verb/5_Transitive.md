@@ -1,4 +1,4 @@
-# SVO
+# Transitive
 
 ## 人 + V + that S V
 > `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
