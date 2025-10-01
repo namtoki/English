@@ -55,5 +55,9 @@
   - `take the risk` /teɪk ðə rɪsk/  ([Neutral] リスクを取る)        She took the risk and started her own business.
   - `take the plunge` /teɪk ðə plʌnd([Neutral] 思い切る)            He finally took the plunge and quit.
 
-## It's C to V
-- `it's necessary to`               ([Formal] ～することが必要)     It's necessary to act quickly.
+## It V to V
+> `it's necessary to`               ([Formal] ～することが必要)     It's necessary to act quickly.
+> `It crosses one's mind`           ([Casual] 頭をよぎる)           It never crossed my mind.
+  - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
+  - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
+  - `It hit 人` /hɪt/               ([Casual] 突然気づく)           It just hit me that we're late.

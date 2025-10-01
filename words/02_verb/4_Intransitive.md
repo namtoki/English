@@ -1,6 +1,6 @@
 # Intransitive
 
-## 人 + V (+ 人)
+## 人 + V
 > `make progress`                   ([Neutral] 進捗する、前進する)  We're making progress on the project.
   - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
   - `get     results`               ([Neutral] 結果を出す 成果を得) Our new strategy is getting results.
@@ -24,8 +24,9 @@
   - `buy it` /baɪ ɪt/               ([Casual] 信じる、受け入れる)   I don't buy it at all.
   - `no questions asked`            ([Neutral] 無条件で受け入れる)  We'll accept it, no questions asked.
 > `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
+> `come around to`                  ([Neutral] に同意する)          He came around to my way of thinking.
 
-## 無生物主語 + V (+ 人)
+## 無生物主語 + V
 > `work out` /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
   - `work out well`                 ([Neutral] うまくいく)          The meeting worked out well.
   - `working out`                   ([Neutral] うまくいっている)    Things are working out nicely.
@@ -51,12 +52,6 @@
   - `be well underway`              ([Neutral] 順調に進行中)        The project is well underway.
 > `be nearly done`                  ([Neutral] ほぼ終わっている)    The task is nearly done.
   - `be almost finished`            ([Neutral] ほとんど終わっている) We're almost finished with testing.
-> `gross out` /ɡroʊs aʊt/           ([Casual] 気持ち悪がらせる)     That smell really grossed me out.
-  - `nauseate` /ˈnɔːzieɪt/          ([Formal] 吐き気を催させる)     The smell nauseated me.
-> `turn off` /tɜːrn ɔːf/            ([Casual] 嫌気がさす)           His attitude really turned me off.
-  - `disgust` /dɪsˈɡʌst/            ([Neutral] 嫌悪感を抱かせる)    The sight disgusted me.
-  - `sicken` /ˈsɪkən/               ([Neutral] 気分を害させる)      The violence sickened everyone.
-  - `repulse` /rɪˈpʌls/             ([Formal] 嫌悪させる)           His behavior repulsed her.
 > `go over ~'s head`                ([Neutral] 理解を超える)        The joke went over my head.
   - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
   - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.

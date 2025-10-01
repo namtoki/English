@@ -15,12 +15,6 @@
   - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
   - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
 
-## It + V  + (that S V)
-> `It crosses one's mind`           ([Casual] 頭をよぎる)           It never crossed my mind.
-  - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
-  - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
-  - `It hit 人` /hɪt/               ([Casual] 突然気づく)           It just hit me that we're late.
-
 ## 人 + V + Noun
 > `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
   - `think of` /θɪŋk ʌv/            ([Neutral] 思い出す、考えつく)  I can't think of his name.
@@ -230,6 +224,12 @@
   - `talk about` /tɔːk əˈbaʊt/      ([Casual] 話し合う)             We'll talk about this issue next week.
 
 ## S + V + 人
+> `gross out` /ɡroʊs aʊt/           ([Casual] 気持ち悪がらせる)     That smell really grossed me out.
+  - `nauseate` /ˈnɔːzieɪt/          ([Formal] 吐き気を催させる)     The smell nauseated me.
+> `turn off` /tɜːrn ɔːf/            ([Casual] 嫌気がさす)           His attitude really turned me off.
+  - `disgust` /dɪsˈɡʌst/            ([Neutral] 嫌悪感を抱かせる)    The sight disgusted me.
+  - `sicken` /ˈsɪkən/               ([Neutral] 気分を害させる)      The violence sickened everyone.
+  - `repulse` /rɪˈpʌls/             ([Formal] 嫌悪させる)           His behavior repulsed her.
 > `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.
   - `concern` /kənˈsɜːrn/           ([Neutral] 心配させる)          Rising prices concern everyone.
   - `disturb` /dɪˈstɜːrb/           ([Neutral] 動揺させる)          Don't disturb him while working.
@@ -285,8 +285,3 @@
   - `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
   - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
-
-
-
-  - `come around to`                ([Neutral] 結局～するよになる)  He came around to my way of thinking.
-
