@@ -28,4 +28,14 @@
 - `promising` /ˈprɑːmɪsɪŋ/        ([Neutral] 有望な、前途有望)     A promising young talent.
 - `propitious` /prəˈpɪʃəs/         ([Formal] 吉兆の、幸先のよい)    A propitious time to start.
 - `fortuitous` /fɔːrˈtuːɪtəs/       ([Formal] 偶然の、幸遇な)       A fortuitous meeting.
+
+## INCOMPETENT / UNSKILLED
+- `inept` /ɪˈnept/                  ([Neutral] 無能な、不器用な)     He's completely inept at cooking.
+  - `ineptitude` /ɪˈneptɪtud/      ([Neutral] 無能、不器用)         His ineptitude was frustrating.
+  - `ineptness` /ɪˈneptnəs/        ([Neutral] 無能、不器用)         The ineptness of his approach.
+  - `incompetent` /ɪnˈkɑːmpɪtənt/  ([Neutral] 無能な、不適格な)     The manager was incompetent.
+  - `clumsy` /ˈklʌmzi/             ([Neutral] 不器用な、ぎこちない)  He's clumsy with tools.
+  - `bungling` /ˈbʌŋɡlɪŋ/          ([Neutral] へまな、不器用な)     A bungling attempt at repair.
+  - `awkward` /ˈɔːkwərd/           ([Neutral] 不器用な、ぎこちない)  His movements were awkward.
+  - `maladroit` /ˌmæləˈdrɔɪt/      ([Formal] 不器用な、下手な)      A maladroit handling of the situation.
 - `serendipitous` /ˌserənˈdɪpɪtəs/   ([Formal] 思いがけない幸運の)  A serendipitous discovery.

@@ -142,7 +142,6 @@ antipathy	11	【名】反感、嫌悪
 antiseptic	12	【形】殺菌の、清潔な 【名】消毒剤		
 antithesis	12	【名】正反対、対照		
 antonym	10	【名】反意語		
-anvil	12	【名】金敷き、物を打つ台		
 aperture	12	【名】カメラの絞り、すき間		
 apiece	9	【副】個々に		
 apocalypse	11	【名】世の終末、啓示、ヨハネの黙示録（the A_)、大災害		
@@ -163,10 +162,7 @@ apprehension	7	【名】不安、心配、逮捕
 apprehensive	11	【形】恐れている、気づかっている、聡明な		
 apprentice	7	【名】見習い、初心者 【動】見習いに出す		
 apprenticeship	9	【名】見習い（期間）		
-appropriate	4	【形】（～に）適した 【動】（特定の目的に）充てる		
 appropriation	10	【名】専有、充当		
-approximate	7	【形】おおよその		
-approximately	5	【副】おおよそ		
 approximation	12	【名】近付くこと、接近、近似、近似値		
 aptitude	9	【名】才能、適性、傾向		
 aquatic	9	【形】水の、水生の		
@@ -2242,9 +2238,6 @@ indigestion	10	【名】消化不良、胃弱、未熟
 indignity	9	【名】侮辱、冷遇		
 indirect	5	【形】間接的な、遠回しの		
 indispensable	7	【形】必須の、無視できない		
-individualism	9	【名】個人主義		
-individuality	8	【名】個性、特性、人格、個性的な人		
-individually	6	【副】ひとつひとつ、個人的には		
 indolent	12	【形】怠惰な、（腫瘍が）痛みを伴わない		
 induce	7	【動】誘発する、説いて～させる、帰納する		
 inducement	10	【名】誘因、動機、促すもの		
@@ -2253,10 +2246,7 @@ indulge	7	【動】ふける、身を任せる、満足させる、甘やかす
 indulgent	9	【形】寛大な、大目に見る、甘い		
 industrialize	8	【動】工業化する、工業主義に転換する		
 industrious	5	【形】勤勉な、熱心な		
-inefficiency	9	【名】非能率、無能、無効果		
-inefficient	8	【形】効果のない、能率的でない、無能な		
 ineligible	12	【形】資格のない、不適当な 【名】不適格者		
-inept	11	【形】能力に欠ける、不向きの、的はずれの		
 inequality	8	【名】不平等、不均衡、不公平、平らでないこと		
 inert	12	【形】不活性の、自力で運動できない、のろまな		
 inertia	10	【名】慣性、不活発		
@@ -2278,12 +2268,9 @@ inflation	5	【名】インフレーション、膨張
 inflexible	8	【形】柔軟性がない、頑固な		
 inflict	6	【動】負わせる、加える		
 influential	5	【形】大きな影響を与える、動機となる		
-influenza	7	【名】インフルエンザ｟短縮形：flu｠		
 influx	10	【名】流入		
 informant	11	【名】情報提供者		
 infrared	11	【形】赤外線の 【名】スペクトルの赤外部		
-infrastructure	9	【名】基盤、基幹施設、下部構造		
-infrequent	9	【形】めったに起こらない、珍しい、不定期の		
 infringe	12	【動】権利を侵す、違反する		
 infringement	11	【名】侵害、違反		
 infuriate	9	【動】激怒させる		
@@ -4701,15 +4688,10 @@ vintage	6	【名】収穫、極上のワイン
 virile	12	【形】男らしい、強健な、生殖の		
 virtually	7	【副】実質的には、事実上、ほぼ		
 visage	12	【名】顔つき、顔だち、様相		
-visibility	10	【名】視界、知名度		
 vista	10	【名】展望、見通しのきく街路、回想、予想		
 vivacious	12	【形】陽気な、活発な		
-vocal	6	【形】声の、遠慮なく意見を言う 【名】声、声楽		
-vocation	7	【名】天職、職業、適性		
-vocational	9	【形】職業の、職務上の		
 vociferous	12	【形】やかましい、（抗議が）声高な		
 vogue	9	【名】流行、人気		
-void	9	【形】無効の、欠けた 【名】空虚感、空間 【動】無効にする		
 volatile	10	【形】激しやすい、気まぐれな、揮発性の、はかない		
 volcanic	8	【形】火山の(ある)		
 volition	12	【名】意志、意欲、決意		
@@ -4719,25 +4701,18 @@ voluptuous	12	【形】豊満な体をした、官能的な、ぜいたくな
 vomit	8	【動】食物を吐く 【名】嘔吐、噴出		
 voter	6	【名】投票者、有権者、選挙人		
 vouch	12	【動】保証する、断言する、裏づける		
-voucher	8	【名】商品引換券、領収書、保証人		
 vow	5	【名】誓い 【動】誓う、断言する		
-vowel	6	【名】母音		
 vulture	12	【名】ハゲワシ、貪欲な人		
 wade	10	【動】水中を歩いて渡る、苦労して進む		
 waft	12	【動】空中を漂う、空中をふわりと運ぶ		
 wag	8	【動】振る、揺する、しきりに動く 【名】いたずら		
-wager	10	【動】賭ける、保証する 【名】賭け金、賭け		
 wail	9	【動】泣き叫ぶ、もの悲しい音を出す		
 waistcoat	9	【名】男性用チョッキ、ベスト		
-waitress	6	【名】ウエートレス		
 waive	11	【動】放棄する、規則を適用しない、延期する		
 waiver	11	【名】権利放棄の証書、権利放棄		
 wallpaper	7	【名】壁紙 【動】壁紙をはる		
 walnut	6	【名】クルミ		
-waltz	8	【名】ワルツ、容易なこと 【形】ワルツの 【動】ワルツを踊る		
 wand	12	【名】魔法のつえ、しなやかな細い枝		
-wander	4	【動】歩き回る、迷う		
-wanderer	10	【名】放浪者、歩き回る人		
 wanting	9	【形】欠けている、足りない		
 wanton	12	【形】勝手気ままな、非人道的な		
 warble	12	【動】さえずる、声を震わせて歌う 【名】さえずり		
@@ -4758,21 +4733,16 @@ waterfront	8	【名】海岸の土地、波止場地区
 watering	7	【名】水まき、波紋形 【形】水を供給する、温泉の		
 watershed	11	【形】重大な転機となる 【名】重大な分岐点、分水地点		
 watertight	9	【形】水を通さない、すきのない		
-waterway	8	【名】水路、航路、運河		
 watery	9	【形】淡い、水の（多い）、迫力のない、水色の		
-watt	9	【名】ワット		
 wavelength	12	【名】ものの考え方、波長		
 waver	7	【動】動揺する、揺れ動く、ぐらつく 【名】揺れ		
 wayward	11	【形】気まぐれな、理不尽な、不規則な		
-weakly	6	【副】弱く 【形】病弱な		
 wean	12	【動】乳離れさせる、引き離す		
 weary	7	【形】疲れきった、飽き飽きしている、疲れさせる		
-weaver	8	【名】織り手、編む人		
 wedge	10	【名】くさび、妨害 【動】裂く		
 wee	10	【形】小さい、非常に早い		
 weed	4	【名】雑草 【動】雑草をとる		
 weep	5	【動】泣く 【名】泣くこと		
-weightlifting	6	【名】ウエイトリフティング		
 weighty	10	【形】重い、重要な、影響力のある		
 weld	10	【動】溶接する、結合する		
 welter	12	【動】うねる、転がり回る 【名】ごたまぜ、うねり、混乱		

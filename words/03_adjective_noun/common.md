@@ -61,9 +61,22 @@
 - `gateway` /ˈɡeɪtweɪ/              ([Neutral] 入口、玄関口)         The gateway to the city.
 - `track` /træk/                     ([Neutral] 道、経路)            A rough mountain track.
 - `casino` /kəˈsiːnoʊ/              ([Neutral] カジノ、賭博場)       They went to the casino in Vegas.
+- `anvil` /ˈænvɪl/                  ([Neutral] 金床、鉄床)          The blacksmith heated the anvil.
+  - `forge` /fɔːrdʒ/                ([Neutral] 鍛冶炉、鍛冶場)       He worked at the forge all day.
+  - `bellows` /ˈbeloʊz/             ([Neutral] ふいご)              The bellows fanned the flames.
+  - `tongs` /tɔːŋz/                 ([Neutral] やっとこ、はさみ)     He grabbed the metal with tongs.
+  - `hammer` /ˈhæmər/               ([Neutral] ハンマー、槌)         The hammer struck the anvil.
+  - `chisel` /ˈtʃɪzəl/              ([Neutral] のみ、たがね)         He carved with a chisel.
+- `buy-in` /baɪ ɪn/                ([Neutral] 賛同、支持)          We need stakeholder buy-in.
+  - `support` /səˈpɔːrt/            ([Neutral] 支持、支援)          He gave his full support.
+  - `backing` /ˈbækɪŋ/              ([Neutral] 支援、後援)          They need financial backing.
+  - `endorsement` /ɪnˈdɔːrsmənt/    ([Neutral] 支持、承認)          The plan got his endorsement.
+  - `commitment` /kəˈmɪtmənt/       ([Neutral] 献身、約束)          She made a commitment to help.
+  - `approval` /əˈpruːvəl/          ([Neutral] 承認、同意)          We need board approval first.
 - `gambling` /ˈɡæmblɪŋ/           ([Neutral] ギャンブル、賭博)     Gambling can be addictive.
 - `betting` /ˈbetɪŋ/               ([Neutral] 賭け、賭事)          Sports betting is popular.
-- `wagering` /ˈweɪdʒərɪŋ/          ([Formal] 賭け、賭事)           Online wagering is regulated.
+- `wager` /ˈweɪdʒər/               ([Neutral] 賭け、賭け金)         He placed a wager on the race.
+  - `wagering` /ˈweɪdʒərɪŋ/        ([Formal] 賭け、賭事)           Online wagering is regulated.
 - `gaming` /ˈɡeɪmɪŋ/              ([Neutral] ギャンブル、ゲーム)    The gaming industry is huge.
 - `lottery` /ˈlɑːtəri/             ([Neutral] 宝くじ、抽選)         She won the lottery.
 - `bustle` /ˈbʌsəl/                 ([Neutral] 活気、喧騒)          The hustle and bustle of the city.
@@ -1853,3 +1866,11 @@
   - `ashamed` /əˈʃeɪmd/             ([Neutral] 恥ずかしい)          He felt ashamed of his behavior.
 
   - `disgrace` /dɪsˈɡreɪs/          ([Formal] 恥辱、不名誉)         His behavior was a disgrace to the family.
+
+> `embarrassed` /ɪmˈbærəst/         ([Neutral] 恥ずかしい)          I felt embarrassed about my pronunciation.
+  - `ashamed` /əˈʃeɪmd/             ([Neutral] 恥じている)          He was ashamed of his behavior.
+  - `humiliated` /hjuˈmɪlɪeɪtɪd/    ([Neutral] 屈辱を受けた)        She felt humiliated in front of everyone.
+  - `red-faced` /red feɪst/         ([Casual] 赤面した)             He was red-faced from embarrassment.
+  - `mortified` /ˈmɔrtəfaɪ/         ([Writing] 死ぬほど恥ずかし)    I was mortified by my mistake.
+- `a blur` /ə blɜːr/                ([Neutral] ぼんやりしている)    Last weekend was a blur.
+

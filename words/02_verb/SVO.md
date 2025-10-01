@@ -1,5 +1,20 @@
 # SVO
 
+## 人 + V + that S V
+> `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
+  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
+  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
+  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
+  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
+> `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
+  - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
+  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
+
+## 人 + V + to + V
+> `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
+  - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
+  - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
+
 ## It + V  + (that S V)
 > `It crosses one's mind`           ([Casual] 頭をよぎる)           It never crossed my mind.
   - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
@@ -178,6 +193,41 @@
   - `be halfway through`            ([Neutral] 半分終わっている)    I'm halfway through the report.
   - `be partway through`            ([Neutral] 途中まで進んでいる)  We're partway through the project.
   - `be midway  through`            ([Neutral] 中間点にいる)        She's midway through her studies.
+> `complete` /kəmˈpliːt/            ([Neutral] 完了する 完成させる) Complete the project by Friday.
+  > `finish` /ˈfɪnɪʃ/               ([Neutral] 終える、完成させる)  I need to finish this report.
+  - `wrap up` /ræp ʌp/              ([Neutral] まとめる 終わらせる) Let's wrap up this meeting.
+  - `be done with` /bi dʌn/         ([Casual] 終わった)             I'm done with my homework.
+  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our goal.
+  - `achieve` /əˈtʃiːv/             ([Neutral] 達成する 成し遂げる) They achieved their objectives.
+  - `deliver` /dɪˈlɪvər/            ([Neutral] 提供する 達成する)   We need to deliver on our promises.
+  - `fulfill` /fʊlˈfɪl/             ([Formal] 履行する、実現する)   He fulfilled his promise.
+  - `see through` /siː θruː/        ([Neutral] 最後までやり遂げる)  She saw the project through to completion.
+  - `realize` /ˈriːəlaɪz/           ([Formal] 実現する、達成する)   We realized our vision.
+  - `attain` /əˈteɪn/               ([Formal] 達成する、獲得する)   We worked hard to attain our goals.
+  - `bring to completion`           ([Formal] 完成まで導く)         We need to bring this project to completion.
+  - `succeed` /səkˈsiːd/            ([Neutral] 成功する)            I hope you succeed in your plans.
+  - `pull off`                      ([Casual] やり遂げる)           He pulled off an amazing performance.
+  - `nail` /neɪl/                   ([Casual] 完璧にやる)           She nailed the presentation.
+  - `triumph` /ˈtraɪʌmf/            ([Formal] 勝利する、成功する)   The team triumphed over adversity.
+> `carry out` /ˈkæri aʊt/           ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.
+  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、遂行する)   We need to execute the plan flawlessly.
+  - `implement` /ˈɪmplɪment/        ([Formal] 実装する、実施する)   When will we implement these changes?
+  - `put into practice`             ([Neutral] 実践する、実行する)  Let's put these ideas into practice.
+  - `put into action`               ([Neutral] 行動に移す 実行する) It's time to put our strategy into action.
+  - `work through` /wɜːrk θruː/     ([Neutral] やり抜く、解決する)  We need to work through these issues.
+  - `follow through`                ([Neutral] 最後までやり抜く)    Make sure to follow through on your commitments.
+  - `follow through with`           ([Neutral] 最後までやり抜く)    We need to follow through with our plan.
+  - `go through with`               ([Neutral] やり遂げる 実行する) She decided to go through with the plan.
+  - `resolve` /rɪˈzɑːlv/            ([Formal] 解決する、解決する)   We need to resolve this conflict.
+  - `sort out` /sɔːrt aʊt/          ([Casual] 整理する、解決する)   I'll sort out this mess.
+  - `perform` /pərˈfɔːrm/           ([Neutral] 実行する、遂行する)  She performed the task well.
+  - `conduct` /kənˈdʌkt/            ([Formal] 実施する、遂行する)   They conducted the experiment.
+> `discuss` /dɪˈskʌs/               ([Neutral] 議論する、話し合う)  We'll discuss this issue next week.
+  - `take up` /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
+  - `address` /əˈdres/              ([Neutral] 取り組む、対処する)  We'll address this issue next week.
+  - `look at` /lʊk æt/              ([Neutral] 検討する、見る)      We'll look at this issue next week.
+  - `cover` /ˈkʌvər/                ([Neutral] 扱う、カバーする)    We'll cover this issue next week.
+  - `talk about` /tɔːk əˈbaʊt/      ([Casual] 話し合う)             We'll talk about this issue next week.
 
 ## S + V + 人
 > `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.
@@ -210,6 +260,12 @@
 > `insult` /ɪnˈsʌlt/                ([Neutral] 侮辱する)            Don't insult his intelligence.
   - `dishonor` /dɪsˈɑnər/           ([Formal] 名誉を傷つける)       The scandal dishonored his reputation.
 > `prove` /pruv/                    ([Neutral] 証明する)            She proved her innocence.
+> `wager` /ˈweɪdʒər/                ([Neutral] 賭ける)              I'll wager he's already gone.
+  - `bet` /bet/                     ([Neutral] 賭ける)              I bet $50 on the game.
+  - `gamble` /ˈɡæmbəl/              ([Neutral] 賭ける、賭博をする)  He gambled all his money away.
+  - `stake` /steɪk/                 ([Neutral] 賭ける、危険に晒す)  She staked everything on success.
+  - `risk` /rɪsk/                   ([Neutral] 危険に晒す)          Don't risk your life savings.
+  - `punt` /pʌnt/                   ([British Casual] 賭ける)       I'll punt a fiver on that horse.
   - `show` /ʃoʊ/                    ([Casual] 示す、見せる)         The results show that it works.
   - `support` /səˈpɔːrt/            ([Neutral] 裏付ける、支持する)  The data supports our theory.
   - `back up` /bæk ʌp/              ([Casual] 裏付ける、支持する)   Can you back up your statement?
@@ -229,3 +285,8 @@
   - `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
   - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
+
+
+
+  - `come around to`                ([Neutral] 結局～するよになる)  He came around to my way of thinking.
+
