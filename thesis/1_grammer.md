@@ -2,24 +2,23 @@
 
 ## Conversational Deletion
 
-- Statement
+- I, It
+  - I am:  Feeling great today! / Working on the project right now! / `Not` interested in that topic at all, to be honest. / Just to let you know, `not` sure if I can make it on time.
+  - It is: Hot as hell outside. / Almost time for dinner. / `Not` as difficult as it seems. / `Isn't` as difficult as it seems.
+
   - Positive: I, It
-    - (I        am): Feeling great today! / Working on the project right now!
-    - (It       is): Hot as hell outside. / Almost time for dinner.
-    - (I)       `was`: Was thinking about calling you yesterday. / Was at the supermarket down the street.
-    - (It)      `was`: Was nice meeting you yesterday. / Was a lot colder than expected.
-    - (I      have): Already finished my homework, so I can go at any time. / Been to Paris a few times and absolutely,,,
-    - (It      has): Been a long day at work. / Rained every day this week.
-    - (I       had): Completed the task before the deadline. / Sorry left the office when you called.
-    - (It      had): Snowed heavily before we arrived. / Been a year since we last saw each other.
-    - (I)    `過去形`: Studied for the exam all night. / told him not to do it. / Just wanted to say hi.
-    - (I)    `助動詞`: Can help you with your homework if you want. / Must've been tired at that time.
-    - (It) `現在動詞`: Works perfectly now after the update.
-    - (It) `過去動詞`: Rained so hard yesterday.
-    - (It)   `助動詞`: Will take probably about an hour to get there. / May rain later today, so bring an umbrella.
+    - I)       `was`: Was thinking about calling you yesterday. / Was at the supermarket down the street.
+    - It)      `was`: Was nice meeting you yesterday. / Was a lot colder than expected.
+    - I      have): Already finished my homework, so I can go at any time. / Been to Paris a few times and absolutely,,,
+    - It      has): Been a long day at work. / Rained every day this week.
+    - I       had): Completed the task before the deadline. / Sorry left the office when you called.
+    - It      had): Snowed heavily before we arrived. / Been a year since we last saw each other.
+    - I)    `過去形`: Studied for the exam all night. / told him not to do it. / Just wanted to say hi.
+    - I)    `助動詞`: Can help you with your homework if you want. / Must've been tired at that time.
+    - It) `現在動詞`: Works perfectly now after the update.
+    - It) `過去動詞`: Rained so hard yesterday.
+    - It)   `助動詞`: Will take probably about an hour to get there. / May rain later today, so bring an umbrella.
   - Negative
-    - (I)        am `not`: Not interested in that topic at all, to be honest. / Just to let you know, not sure if I can make it on time.
-    - (It)       is `not`: Not as difficult as it seems. / Isn't as difficult as it seems.
     - (`I        wasn't`):
     - (It)       `wasn't`: Wasn't easy to make that decision, but we had to.
     - (I)       `haven't`: Haven't finished my assignment yet.
