@@ -136,7 +136,7 @@
   - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
   - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He's applying himself to the task.
 > `carry on` /ˈkæri ɑːn/            ([Neutral] 続ける、継続する)    We'll carry on despite the setbacks.
-> `carry on with` /ˈkæri ɑːn wɪð/   ([Neutral] 続ける、継続する)    We'll carry on with the project despite the challenges.
+  - `carry on with` /ˈkæri ɑːn wɪð/ ([Neutral] 続ける、継続する)    We'll carry on with the project despite the challenges.
   - `continue` /kənˈtɪnjuː/         ([Neutral] 続ける、継続する)    Let's continue with the meeting.
   - `continue working on`           ([Neutral] 作業を続ける)        Let's continue working on this project.
   - `keep     working on`           ([Neutral] 作業を続ける)        I'll keep working on the proposal.
@@ -160,21 +160,6 @@
   - `stay the course` /steɪ ðə kɔːrs([Neutral] 最後まで続ける)      We must stay the course to succeed.
   - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
   - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 前進する 優勢になる) Our proposal is gaining ground with management.
-> `get started on`                  ([Neutral] 着手する、始める)    Let's get started on the analysis.
-  - `get to` /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
-  - `get down to` /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
-  - `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
-  - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
-  - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
-  - `begin` /bɪˈɡɪn/                ([Formal] 始める、開始する)     Let's begin with the first task.
-  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
-  - `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
-  - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
-  - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] [すぐ] 飛び込む)        Let's jump into the discussion.
-  - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
-  - `set about` /set əˈbaʊt/        ([Neutral] [計画的] 取り掛かる)   Let's set about solving this.
-  - `kick off` /kɪk ɔːf/            ([Casual] 開始する、始める)     We'll kick off the project next week.
-  - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
 > `manage` /ˈmænɪdʒ/                ([Neutral] 管理する、対処する)  I can manage this situation.
   - `go about` /ɡoʊ əˈbaʊt/         ([Neutral] 取り組む、着手する)  How do you go about fixing this?
   - `take care of` /teɪk keər əv/   ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
@@ -222,6 +207,58 @@
   - `look at` /lʊk æt/              ([Neutral] 検討する、見る)      We'll look at this issue next week.
   - `cover` /ˈkʌvər/                ([Neutral] 扱う、カバーする)    We'll cover this issue next week.
   - `talk about` /tɔːk əˈbaʊt/      ([Casual] 話し合う)             We'll talk about this issue next week.
+> `take` /teɪk/                     ([Neutral] 引き受ける、取る)    I'll take the job.
+  > `take on` /teɪk ɑːn/            ([Neutral] 引き受ける)          I'll take on this challenge.
+  - `accept` /əkˈsept/              ([Neutral] 受け入れる 引き受け) I accept the responsibility.
+  - `pick up` /pɪk ʌp/              ([Casual] 引き受ける 拾い上げ)  I'll pick up the slack.
+  - `undertake` /ˌʌndərˈteɪk/       ([Formal] 引き受ける、着手する) We'll undertake the project.
+  - `assume` /əˈsuːm/               ([Formal] 引き受ける、想定する) She assumed the role of manager.
+  - `shoulder` /ˈʃoʊldər/           ([Neutral] 肩に担う 引き受ける) He shouldered the responsibility.
+  - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
+  - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
+> `hand over to` /hænd ˈoʊvər tuː/  ([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
+  - `turn over to` /tɜːrn ˈoʊvər tuː([Neutral] 〜に引き渡す)        Turn the matter over to the lawyers.
+> `leave ~ up to` /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.
+  - `put ~ in someone's hands`      ([Neutral] 〜の手に委ねる)      I put my future in your hands.
+  - `bank on` /bæŋk ɑːn/            ([Casual] 〜を当てにする)       Don't bank on getting that promotion.
+  - `delegate ~ to` /ˈdɛlɪɡeɪt tuː/ ([Formal] 〜に委任する)         She delegated the work to her team.
+  - `entrust ~ to` /ɪnˈtrʌst tuː/   ([Formal] 〜に委ねる)           I entrust this task to you.
+> `assign` /əˈsaɪn/                 ([Neutral] 割り当てる 指定する) She was assigned to the project.
+  - `allocate` /ˈæləkeɪt/           ([Neutral] 割り当てる 配分する) We'll allocate resources to each team.
+  - `delegate` /ˈdelɪɡeɪt/          ([Neutral] 委任する 代表にする) I'll delegate this task to my assistant.
+  - `distribute` /dɪˈstrɪbjuːt/     ([Neutral] 配布する、分配する)  We'll distribute tasks equally.
+  - `designate` /ˈdezɪɡneɪt/        ([Formal] 指定する、任命する)   She was designated as team leader.
+  - `appoint` /əˈpɔɪnt/             ([Formal] 任命する、指定する)   He was appointed as director.
+  - `allot` /əˈlɑːt/                ([Neutral] 割り当てる 配分する) They allotted 30 minutes for discussion.
+  - `earmark` /ˈɪərmɑːrk/           ([Neutral] 特定目的に割り当て)  Funds were earmarked for research.
+  - `set aside` /set əˈsaɪd/        ([Neutral] 取り分ける 割り当て) We set aside time for planning.
+  - `portion out` /ˈpɔːrʃən aʊt/    ([Casual] 分配する、配分する)   She portioned out the work fairly.
+  - `hand out` /hænd aʊt/           ([Casual] 配る、分配する)       The manager handed out assignments.
+  - `dole out` /doʊl aʊt/           ([Casual] 小出しに配る)         They doled out tasks gradually.
+  - `mete out` /miːt aʊt/           ([Formal] 割り当てる、与える)   The judge meted out sentences.
+> `schedule` /ˈskedʒuːl/            ([Neutral] スケジュールする)    Let's schedule a meeting for tomorrow.
+  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up a meeting with the team.
+  - `set things up` /set θɪŋz ʌp/   ([Neutral] 準備する、手配する)  Let me set things up for tomorrow.
+  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for the event.
+  - `put things in place`           ([Neutral] 準備を整える)        We need to put things in place first.
+  - `make arrangements`             ([Neutral] 手配する、準備する)  I'll make arrangements for the trip.
+  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `establish` /ɪˈstæblɪʃ/         ([Formal] 設立する、確立する)   We need to establish the process.
+  - `arrange` /əˈreɪndʒ/            ([Neutral] 手配する、調整する)  I'll arrange a time that works for everyone.
+  - `plan` /plæn/                   ([Neutral] 計画する、予定する)  Let's plan the project timeline.
+  - `organize` /ˈɔːrɡənaɪz/         ([Neutral] 準備する、手配する)  She organized the team retreat.
+  - `coordinate` /koʊˈɔːrdɪneɪt/    ([Neutral] 調整する、手配する)  I'll coordinate with all departments.
+  - `fix` /fɪks/                    ([Casual] 決める、設定する)     Let's fix a time for our next meeting.
+  - `slot in` /slɑːt ɪn/            ([Neutral] 枠に入れる 調整する) Can we slot this meeting in tomorrow?
+  - `slot for` /slɑːt fɔːr/         ([Neutral] ~の枠を設ける)       I'll slot for 30 minutes to discuss this.
+  - `pencil in` /ˈpensəl ɪn/        ([Casual] 仮に予定を入れる)     Let me pencil you in for 3 PM.
+  - `block out` /blɑːk aʊt/         ([Neutral] 時間をブロックする)  I'll block out time in my calendar.
+  - `set aside` /set əˈsaɪd/        ([Neutral] 時間を取っておく)    Let's set aside time for planning.
+  - `reserve` /rɪˈzɜːrv/            ([Neutral] 予約する、確保する)  Please reserve time for the presentation.
+  - `allocate` /ˈæləkeɪt/           ([Formal] 割り当てる、配分する) We need to allocate time for each task.
+  - `assign` /əˈsaɪn/               ([Neutral] 割り当てる、指定する)Let's assign specific time slots.
+  - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
+  - `put together` /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
 
 ## S + V + 人
 > `gross out` /ɡroʊs aʊt/           ([Casual] 気持ち悪がらせる)     That smell really grossed me out.
