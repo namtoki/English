@@ -1,5 +1,13 @@
 # Transitive
 
+> `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
+  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
+  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `make preparations for`         ([Formal] 準備する)             Make preparations for the event.
+  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
+  - `gear up for` /ɡɪr ʌp/          ([Casual] 準備する)             We're gearing up for the launch.
+  - `make arrangements`             ([Neutral] 手配する)            I'll make arrangements for the trip.
+  - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
 ## 人 + V + that S V
 > `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
   - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
@@ -34,8 +42,8 @@
   - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
   - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
   - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
-> `organize` /ˈɔːrɡənaɪz/           ([Neutral] 整理する、組織する)  I need to organize my files.
-  - `sort out` /sɔːrt aʊt/          ([Casual] 整理する、解決する)   I'll sort out the paperwork.
+> `sort out` /sɔːrt aʊt/            ([Casual] 整理する、解決する)   I'll sort out the paperwork.
+  - `organize` /ˈɔːrɡənaɪz/         ([Neutral] 整理する、組織する)  I need to organize my files.
   - `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
   - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
   - `order` /ˈɔːrdər/               ([Neutral] 整理する、注文する)  Order the items by priority.
@@ -62,8 +70,8 @@
   - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
   - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
   - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
-> `find out` /faɪnd aʊt/            ([Neutral] 調べる、発見する)    I need to find out the truth.
-  - `figure out` /ˈfɪɡər aʊt/       ([Casual] 解明する、理解する)   We need to figure out what went wrong.
+> `figure out` /ˈfɪɡər aʊt/         ([Casual] 解明する、理解する)   We need to figure out what went wrong.
+  - `find out` /faɪnd aʊt/          ([Neutral] 調べる、発見する)    I need to find out the truth.
   - `discover` /dɪˈskʌvər/          ([Neutral] 発見する)            We discovered the root cause.
   - `uncover` /ʌnˈkʌvər/            ([Neutral] 明らかにする)        The investigation uncovered new evidence.
   - `get to the bottom of`          ([Casual] 真相を突き止める)     I'll get to the bottom of this.
@@ -136,6 +144,7 @@
   - `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
   - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する、取り組む)  We're focusing on this problem.
   - `work through` /wɜːrk θruː/     ([Neutral] やり抜く、解決する)  We're working through the issues.
+  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
   - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'm attending to this matter.
   - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We're engaging with the challenge.
   - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
@@ -285,7 +294,7 @@
   - `authorize` /ˈɔːθəraɪz/         ([Formal] 権限を与える)         Only authorized personnel can enter this area.
   - `override` /ˌoʊvərˈraɪd/        ([Formal] 無効にする)           The president can override the veto.
   - `supersede` /ˌsuːpərˈsiːd/      ([Formal] 取って代わる)         The new law will supersede the old one.
-  - `weather` /ˈweðər/              ([Neutral] 切り抜ける、乗り切る) The company weathered the crisis.
+  - `weather` /ˈweðər/              ([Neutral] 切り抜ける 乗り切る) The company weathered the crisis.
   - `overrule` /ˌoʊvərˈruːl/        ([Formal] 却下する)             The judge overruled the objection.
   - `nullify` /ˈnʌlɪˌfaɪ/           ([Formal] 無効化する)           The court nullified the contract.
   - `veto` /ˈviːtoʊ/                ([Formal] 拒否権行使)           The governor vetoed the bill.
@@ -294,6 +303,45 @@
   - `repeal` /rɪˈpiːl/              ([Formal] 廃止する)             Congress repealed the law.
   - `rescind` /rɪˈsɪnd/             ([Formal] 撤回する)             The company rescinded the offer.
   - `invalidate` /ɪnˈvælɪˌdeɪt/     ([Formal] 無効にする)           This will invalidate your warranty.
+> `fling` /flɪŋ/                    ([Casual] 投げる、放る)         He flung the ball across the field.
+  - `hurl` /hɜːrl/                  ([Neutral] 投げる、放る)        She hurled the stone into the river.
+  - `toss` /tɔːs/                   ([Casual] 投げる、ほうり投げる) He tossed the keys to me.
+  - `cast` /kæst/                   ([Formal] 投げる、投じる)       He cast his line into the water.
+> `refrain from` /rɪˈfreɪn frʌm/    ([Formal] 控える、慎む)         Please refrain from smoking here.
+  - `abstain from` /əbˈsteɪn frʌm/  ([Formal] 控える、禁欲する)     He abstains from alcohol.
+  - `hold back from`                ([Neutral] 控える、我慢する)    She held back from commenting.
+  - `keep from` /kiːp frʌm/         ([Neutral] 我慢する、控える)    I couldn't keep from laughing.
+  - `stop oneself from`             ([Neutral] 我慢する、控える)    I couldn't stop myself from crying.
+  - `prevent oneself from`          ([Formal] 控える、我慢する)     She prevented herself from interrupting.
+  - `restrain oneself from`         ([Formal] 控える、我慢する)     He restrained himself from commenting.
+  - `withhold from` /wɪðˈhoʊld frʌm/([Formal] 控える、差し控える)   She withheld from making a judgment.
+  - `can't help` /kænt help/        ([Neutral] 我慢できない)        I can't help feeling sad.
+  - `resist` /rɪˈzɪst/              ([Neutral] 抵抗する、我慢する)  I couldn't resist the temptation.
+  - `desist from` /dɪˈzɪst frʌm/    ([Formal] やめる、控える)       He was ordered to desist from such activities.
+> `avoid` /əˈvɔɪd/                  ([Neutral] 避ける)              Try to avoid making mistakes.
+  - `stay away from`                ([Casual] 近寄らない、避ける)   Stay away from that area at night.
+  - `keep away from`                ([Neutral] 近寄らない、避ける)  Keep away from the edge.
+  - `steer clear of` /stɪr klɪr ʌv/ ([Casual] 避ける、近寄らない)   You should steer clear of that topic.
+  - `give a wide berth to`          ([Formal] 避ける、近寄らない)   I give that restaurant a wide berth.
+  - `shun` /ʃʌn/                    ([Formal] 避ける、敬遠する)     She shuns publicity.
+> `listen to` /ˈlɪsən tuː/          ([Neutral] 聴く、耳を傾ける)    Listen to the music.
+  - `hear` /hɪr/                    ([Neutral] 聞く、聴く)          Did you hear that sound?
+  - `pay attention to`              ([Neutral] 注意を払う 注目する) Pay attention to the details.
+  - `heed` /hiːd/                   ([Formal] 耳を傾ける、注意する) Heed my warning carefully.
+  - `tune in to` /tuːn ɪn tuː/      ([Casual] 耳を傾ける、注目する) Tune in to what she's saying.
+  - `eavesdrop on` /ˈiːvzdrɑːp ɑːn/ ([Neutral] 盗み聞きする)        He was eavesdropping on their conversation.
+> `glance at` /ɡlæns æt/            ([Neutral] ちらっと見る)        She glanced at her watch.
+  - `peek at` /piːk æt/             ([Casual] のぞき見る ちらっと見る) He peeked at the answer.
+  - `glimpse at` /ɡlɪmps æt/        ([Neutral] ちらっと見る)        I glimpsed at the photo.
+  - `glance over` /ɡlæns ˈoʊvər/    ([Neutral] ざっと見る)          She glanced over the report.
+  - `skim through` /skɪm θruː/      ([Neutral] ざっと見る、斜め読みする) I skimmed through the document.
+  - `scan` /skæn/                   ([Neutral] ざっと見る 走査する) He scanned the headlines.
+  - `stare at` /ster æt/            ([Neutral] じっと見る 見つめる) He stared at the painting.
+  - `gaze at` /ɡeɪz æt/             ([Neutral] 見つめる、凝視する)  She gazed at the stars.
+  - `gawk at` /ɡɔːk æt/             ([Casual] まじまじと見る)       Don't gawk at strangers.
+  - `peer at` /pɪr æt/              ([Neutral] じっと見る のぞき込む) He peered at the document.
+  - `fix one's eyes on`             ([Neutral] 目を据える 注視する) She fixed her eyes on the target.
+  - `eye` /aɪ/                      ([Neutral] じろじろ見る)        He eyed the stranger suspiciously.
 
 ## S + V + 人
 > `gross out` /ɡroʊs aʊt/           ([Casual] 気持ち悪がらせる)     That smell really grossed me out.
@@ -325,6 +373,7 @@
 > `embarrass` /ɪmˈbærəs/            ([Neutral] 恥をかかせる)        Don't embarrass me in public.
   - `shame` /ʃeɪm/                  ([Neutral] 恥をかかせる)        She tried to shame him into apologizing.
   - `humiliate` /hjuˈmɪlɪeɪt/       ([Formal] 屈辱する)             She humiliated him in front of everyone.
+> `dismiss` /dɪsˈmɪs/               ([Formal] 解雇する、却下する)   The company dismissed him for misconduct.
 
 ## S + V + O
 > `hurt` /hɜːrt/                    ([Neutral] 傷つける)            You hurt my feelings.
@@ -357,47 +406,6 @@
   - `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
   - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
-- `dismiss` /dɪsˈmɪs/               ([Formal] 解雇する、却下する)  The company dismissed him for misconduct.
-- `fling` /flɪŋ/                    ([Casual] 投げる、放る)         He flung the ball across the field.
-- `hurl` /hɜːrl/                    ([Neutral] 投げる、放る)        She hurled the stone into the river.
-- `toss` /tɔːs/                     ([Casual] 投げる、ほうり投げる) He tossed the keys to me.
-- `cast` /kæst/                     ([Formal] 投げる、投じる)       He cast his line into the water.
-- `refrain from` /rɪˈfreɪn frʌm/    ([Formal] 控える、慎む)         Please refrain from smoking here.
-- `abstain from` /əbˈsteɪn frʌm/    ([Formal] 控える、禁欲する)     He abstains from alcohol.
-- `avoid` /əˈvɔɪd/                  ([Neutral] 避ける)              Try to avoid making mistakes.
-- `stay away from` /steɪ əˈweɪ frʌm/ ([Casual] 近寄らない、避ける)   Stay away from that area at night.
-- `keep away from` /kiːp əˈweɪ frʌm/ ([Neutral] 近寄らない、避ける)  Keep away from the edge.
-- `listen to` /ˈlɪsən tuː/          ([Neutral] 聴く、耳を傾ける)    Listen to the music.
-- `hear` /hɪr/                      ([Neutral] 聞く、聴く)          Did you hear that sound?
-- `pay attention to` /peɪ əˈtenʃən tuː/ ([Neutral] 注意を払う、注目する) Pay attention to the details.
-- `heed` /hiːd/                     ([Formal] 耳を傾ける、注意する) Heed my warning carefully.
-- `tune in to` /tuːn ɪn tuː/        ([Casual] 耳を傾ける、注目する) Tune in to what she's saying.
-- `eavesdrop on` /ˈiːvzdrɑːp ɑːn/   ([Neutral] 盗み聞きする)        He was eavesdropping on their conversation.
-- `steer clear of` /stɪr klɪr ʌv/  ([Casual] 避ける、近寄らない)   You should steer clear of that topic.
-- `give a wide berth to` /ɡɪv ə waɪd bɜːrθ tuː/ ([Formal] 避ける、近寄らない) I give that restaurant a wide berth.
-- `glance at` /ɡlæns æt/            ([Neutral] ちらっと見る)        She glanced at her watch.
-- `peek at` /piːk æt/               ([Casual] のぞき見る、ちらっと見る) He peeked at the answer.
-- `glimpse at` /ɡlɪmps æt/          ([Neutral] ちらっと見る)        I glimpsed at the photo.
-- `glance over` /ɡlæns ˈoʊvər/      ([Neutral] ざっと見る)          She glanced over the report.
-- `skim through` /skɪm θruː/        ([Neutral] ざっと見る、斜め読みする) I skimmed through the document.
-- `scan` /skæn/                     ([Neutral] ざっと見る、走査する) He scanned the headlines.
-- `stare at` /ster æt/              ([Neutral] じっと見る、見つめる) He stared at the painting.
-- `gaze at` /ɡeɪz æt/               ([Neutral] 見つめる、凝視する)  She gazed at the stars.
-- `gawk at` /ɡɔːk æt/               ([Casual] まじまじと見る)        Don't gawk at strangers.
-- `peer at` /pɪr æt/                ([Neutral] じっと見る、のぞき込む) He peered at the document.
-- `fix one's eyes on` /fɪks wʌnz aɪz ɑːn/ ([Neutral] 目を据える、注視する) She fixed her eyes on the target.
-- `eye` /aɪ/                        ([Neutral] じろじろ見る)         He eyed the stranger suspiciously.
-- `shun` /ʃʌn/                      ([Formal] 避ける、敬遠する)     She shuns publicity.
-- `hold back from` /hoʊld bæk frʌm/ ([Neutral] 控える、我慢する)    She held back from commenting.
-- `keep from` /kiːp frʌm/           ([Neutral] 我慢する、控える)    I couldn't keep from laughing.
-- `stop oneself from` /stɑːp wʌnˈself frʌm/ ([Neutral] 我慢する、控える) I couldn't stop myself from crying.
-- `prevent oneself from` /prɪˈvent wʌnˈself frʌm/ ([Formal] 控える、我慢する) She prevented herself from interrupting.
-- `restrain oneself from` /rɪˈstreɪn wʌnˈself frʌm/ ([Formal] 控える、我慢する) He restrained himself from commenting.
-- `withhold from` /wɪðˈhoʊld frʌm/  ([Formal] 控える、差し控える)    She withheld from making a judgment.
-- `can't help` /kænt help/          ([Neutral] 我慢できない)         I can't help feeling sad.
-- `resist` /rɪˈzɪst/                ([Neutral] 抵抗する、我慢する)  I couldn't resist the temptation.
-- `desist from` /dɪˈzɪst frʌm/      ([Formal] やめる、控える)       He was ordered to desist from such activities.
-
 > `have an effect on`               ([Neutral] 影響を与える)        The weather can have an effect on mood.
   - `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
   - `influence` /ˈɪnfluəns/         ([Neutral] 影響する、左右する)  Weather influences our mood.

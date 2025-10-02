@@ -1,6 +1,6 @@
 # Intransitive
 
-## 人 + V
+## TASK (MAKE PROGRESS / WORK OUT / GET STARTED ON / START OFF / MOVE ON / MAKE IT / PAY OFF / TAKE OVER / CUT CORNERS / BE SLOPPY)
 > `make progress`                   ([Neutral] 進捗する、前進する)  We're making progress on the project.
   - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
   - `get     results`               ([Neutral] 結果を出す 成果を得) Our new strategy is getting results.
@@ -11,60 +11,37 @@
   - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
   - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
   - `be at the halfway point`       ([Neutral] 半分の地点にいる)    We're at the halfway point.
-> `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
-  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
-  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
-> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
-  > `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
-  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
-  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
-  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
-  > `be sloppy` /biː ˈslɑːpi/       ([Casual] いい加減である)       Your work has been sloppy lately.
-  - `half-hearted` /ˌhæf ˈhɑːrtəd/  ([Neutral] やる気のない)        His effort was half-hearted.
-  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
-  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
-  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
-  - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
-> `get ready`                       ([Neutral] 準備する)            Get ready for the presentation.
-  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
-  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
-  - `make preparations`             ([Formal] 準備する)             Make preparations for the event.
-  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
-  - `gear up` /ɡɪr ʌp/              ([Casual] 準備する)             We're gearing up for the launch.
-  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
-  - `make arrangements`             ([Neutral] 手配する)            I'll make arrangements for the trip.
-  - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
-> `bustle` /ˈbʌsəl/                 ([Neutral] 忙しく動き回る)      She bustled around the kitchen.
-  - `hustle` /ˈhʌsəl/               ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
-  - `scurry` /ˈskɜːri/              ([Neutral] あわただしく動く)    Mice scurried across the floor.
-  - `dash` /dæʃ/                    ([Neutral] 急いで走る)          I need to dash to the store.
-  - `scramble` /ˈskræmbəl/          ([Neutral] よじ登る、慌てる)    Everyone scrambled to finish on time.
-  - `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
-> `make it`                         ([Casual] 成功する、間に合う)   I'm sure you'll make it.
-
-## 人 + V + M
-> `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
-  - `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
-  - `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
-  - `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
-  - `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
-  - `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
-> `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
-> `come around to`                  ([Neutral] に同意する)          He came around to my way of thinking.
+> `work out` /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
+  - `work out well`                 ([Neutral] うまくいく)          The meeting worked out well.
+  - `go well` /ɡoʊ wel/             ([Neutral] 順調にいく)          The project is going well.
+  - `pull it off`                   ([Casual] やり遂げる、成功する) He pulled off an amazing performance.
+  - `come through` /kʌm θruː/       ([Neutral] うまくいく、成功する) She came through when it mattered.
+  - `pan out` /pæn aʊt/             ([Neutral] うまくいく)          Let's see how it pans out.
+  - `come off` /kʌm ɔːf/            ([Neutral] 成功する)            The event came off perfectly.
+  - `prevail` /prɪˈveɪl/            ([Formal] 勝つ、成功する)       We will prevail despite the challenges.
+  - `triumph` /ˈtraɪʌmf/            ([Formal] 勝利する、成功する)   The team triumphed over adversity.
+  - `get through` /ɡet θruː/        ([Casual] 切り抜ける)           We'll get through this together.
+  - `turn out well`                 ([Neutral] 結果的にうまくいく)  Everything turned out well.
+  - `turn out fine`                 ([Neutral] 結果的に良い)        Don't worry, it'll turn out fine.
+  - `turn out right`                ([Neutral] 正しく仕上がる)      I hope the recipe turns out right.
+  - `fall into place`               ([Neutral] うまくまとまる)      The presentation is falling into place.
+  - `come together`                 ([Neutral] まとまる)            The project is finally coming together.
+  - `click` /klɪk/                  ([Casual] うまくいく、合う)     Everything just clicked into place.
+  - `gel` /dʒel/                    ([Casual] うまく合う)           The team is starting to gel.
+  - `mesh` /meʃ/                    ([Neutral] うまく合う)          Their ideas mesh perfectly.
+  - `fit together`                  ([Neutral] うまく合う)          The pieces fit together perfectly.
 > `get started on`                  ([Neutral] 着手する、始める)    Let's get started on the analysis.
   - `get to` /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
   - `get down to` /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
   - `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
   - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
   - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
-  - `begin` /bɪˈɡɪn/                ([Formal] 始める、開始する)     Let's begin with the first task.
   - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
   - `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
   - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
   - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] [すぐ] 飛び込む)        Let's jump into the discussion.
   - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
   - `set about` /set əˈbaʊt/        ([Neutral] [計画的] 取り掛かる)   Let's set about solving this.
-  - `kick off` /kɪk ɔːf/            ([Casual] 開始する、始める)     We'll kick off the project next week.
   - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
 > `start off with` /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
   - `begin with` /bɪˈɡɪn wɪð/       ([Neutral] ～で始める)          Begin with the basics.
@@ -92,33 +69,75 @@
   - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
 > `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
   - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
-
-## 無生物主語 + V
-> `work out` /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
-  - `work out well`                 ([Neutral] うまくいく)          The meeting worked out well.
-  - `working out`                   ([Neutral] うまくいっている)    Things are working out nicely.
-  - `go well` /ɡoʊ wel/             ([Neutral] 順調にいく)          The project is going well.
-  - `go smoothly` /ɡoʊ ˈsmuːðli/    ([Neutral] スムーズにいく)      The presentation went smoothly.
-  - `turn out well`                 ([Neutral] 結果的にうまくいく)  Everything turned out well.
-  - `turn out fine`                 ([Neutral] 結果的に良い)        Don't worry, it'll turn out fine.
-  - `turn out right`                ([Neutral] 正しく仕上がる)      I hope the recipe turns out right.
-  - `succeed` /səkˈsiːd/            ([Neutral] 成功する)            The plan succeeded beyond expectations.
-  - `be successful`                 ([Formal] 成功している)         The campaign was very successful.
-  - `achieve success`               ([Formal] 成功を収める)         They achieved great success.
-  - `fall into place`               ([Neutral] うまくまとまる)      The presentation is falling into place.
-  - `come together`                 ([Neutral] まとまる)            The project is finally coming together.
-  - `pan out` /pæn aʊt/             ([Casual] うまくいく)           I hope the investment pans out.
-  - `pay off` /peɪ ɔːf/             ([Neutral] 報われる)            All that hard work paid off.
-  - `bear fruit` /ber fruːt/        ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
-  - `click` /klɪk/                  ([Casual] うまくいく、合う)     Everything just clicked into place.
-  - `gel` /dʒel/                    ([Casual] うまく合う)           The team is starting to gel.
-  - `mesh` /meʃ/                    ([Neutral] うまく合う)          Their ideas mesh perfectly.
-  - `fit together`                  ([Neutral] うまく合う)          The pieces fit together perfectly.
-  - `come off` /kʌm ɔːf/            ([Casual] 成功する)             The event came off without a hitch.
 > `be in progress`                  ([Neutral] 進行中である)        The update is in progress.
   - `be well underway`              ([Neutral] 順調に進行中)        The project is well underway.
 > `be nearly done`                  ([Neutral] ほぼ終わっている)    The task is nearly done.
   - `be almost finished`            ([Neutral] ほとんど終わっている) We're almost finished with testing.
+> `make it`                         ([Casual] 間に合う、成功する)   I'm sure you'll make it.
+  - `get there in time`             ([Casual] 間に合って到着する)   I hope we get there in time.
+  - `arrive in time`                ([Neutral] 時間内に到着する)    We arrived in time for the meeting.
+  - `show up on time`               ([Casual] 時間通りに現れる)     Please show up on time tomorrow.
+> `pay off` /peɪ ɔːf/               ([Neutral] 報われる)            All that hard work paid off.
+  - `bear fruit` /ber fruːt/        ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
+> `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
+  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
+  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
+> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+  - `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+  - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
+  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
+> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
+  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
+  - `be half-hearted`               ([Neutral] やる気のない)        His effort was half-hearted.
+> `be put into effect`              ([Neutral] 実施する 発効させる) The new law was put into effect.
+
+## BEHAVIOR (HUSTLE / GET BETTER / SWING BY)
+> `hustle` /ˈhʌsəl/                 ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
+  - `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
+  - `dash` /dæʃ/                    ([Neutral] 急いで走る)          I need to dash to the store.
+  - `scramble` /ˈskræmbəl/          ([Neutral] よじ登る、慌てる)    Everyone scrambled to finish on time.
+  - `scurry` /ˈskɜːri/              ([Neutral] あわただしく動く)    Mice scurried across the floor.
+  - `bustle` /ˈbʌsəl/               ([Neutral] 忙しく動き回る)      She bustled around the kitchen.
+  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
+> `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
+  - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
+  - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
+  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、良くなる)  His condition is improving daily.
+  - `recover` /rɪˈkʌvər/            ([Neutral] 回復する)            She recovered from the illness.
+  - `heal` /hiːl/                   ([Neutral] 癒える、治る)        The wound will heal in time.
+  - `pick up` /pɪk ʌp/              ([Casual] 回復する、元気になる) She's starting to pick up now.
+  - `bounce back` /baʊns bæk/       ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
+  - `be on the mend` /ɒn ðə mend/   ([Casual] 回復中)               He's on the mend now.
+  - `pull through` /pʊl θruː/       ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
+  - `get back on one's feet`        ([Casual] 立ち直る)             It took months to get back on his feet.
+  - `turn the corner`               ([Neutral] 峠を越える)          The patient has turned the corner.
+  - `come around` /kʌm əˈraʊnd/     ([Neutral] 意識を取り戻す)      He came around after the surgery.
+  - `perk up` /pɜːk ʌp/             ([Casual] 元気を取り戻す)       She perked up after some rest.
+  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
+  - `recuperate` /rɪˈkuːpəreɪt/     ([Formal] 回復する、療養する)   He's recuperating at home.
+  - `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
+  - `revive` /rɪˈvaɪv/              ([Medical] 蘇生する、復活する)  The paramedics revived him.
+  - `rally` /ˈræli/                 ([Medical] 持ち直す)            The patient rallied overnight.
+  - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
+  - `recoup` /rɪˈkuːp/              ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
+  - `be in remission` /rɪˈmɪʃən/    ([Medical] 寛解、軽快)          The cancer is in remission.
+  - `rehabilitate` /ˌriːəˈbɪlɪteɪt/ ([Formal] リハビリする)         They rehabilitated his injured knee.
+  - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
+  - `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
+  - `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養す 回復期にある) She's convalescing after surgery.
+> `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
+  - `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
+  - `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
+  - `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
+  - `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
+  - `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
+> `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
+> `come around to`                  ([Neutral] に同意する)          He came around to my way of thinking.
+
+## TRAITS
 > `go over ~'s head`                ([Neutral] 理解を超える)        The joke went over my head.
   - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
   - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
@@ -149,10 +168,15 @@
   - `be at one's disposal`          ([Formal] 思い通りにできる)     The enormous property was at his disposal.
   - `be at one's service`           ([Formal] お役に立てる)         I'm at your service.
   - `be at one's command`           ([Formal] 命令に従う)           The troops are at your command.
-  > `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
+  - `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
   - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
   - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
-> `ready to`                        ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
+> `be ready to`                     ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
   - `be prepared`                   ([Neutral] 準備ができている)    Be prepared for questions.
-> `be put into effect`              ([Neutral] 実施する 発効させる) The new law was put into effect.
 > `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
+> `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
+  - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
+  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
+  - `diminish` /dɪˈmɪnɪʃ/           ([Neutral] 減少する)            The threat has diminished.
+  - `dwindle` /ˈdwɪndəl/            ([Neutral] 減少する)            Their savings dwindled to nothing.
+  - `taper` /ˈteɪpər/               ([Neutral] 徐々に減る)          We'll taper off the medication.

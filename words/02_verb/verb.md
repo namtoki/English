@@ -1,38 +1,6 @@
 # Verb
 
 ## STATUS (GET BETTER / DECREASE / REDUCE / DECLINE / SUBSIDE / BE BATHED IN)
-> `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
-  - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
-  - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
-  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、良くなる)  His condition is improving daily.
-  - `recover` /rɪˈkʌvər/            ([Neutral] 回復する)            She recovered from the illness.
-  - `heal` /hiːl/                   ([Neutral] 癒える、治る)        The wound will heal in time.
-  - `pick up` /pɪk ʌp/              ([Casual] 回復する、元気になる) She's starting to pick up now.
-  - `bounce back` /baʊns bæk/       ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
-  - `be on the mend` /ɒn ðə mend/   ([Casual] 回復中)               He's on the mend now.
-  > `pull through` /pʊl θruː/       ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
-  - `get back on one's feet`        ([Casual] 立ち直る)             It took months to get back on his feet.
-  - `turn the corner`               ([Neutral] 峠を越える)          The patient has turned the corner.
-  > `come around` /kʌm əˈraʊnd/     ([Neutral] 意識を取り戻す)      He came around after the surgery.
-  - `perk up` /pɜːk ʌp/             ([Casual] 元気を取り戻す)       She perked up after some rest.
-  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
-  - `recuperate` /rɪˈkuːpəreɪt/     ([Formal] 回復する、療養する)   He's recuperating at home.
-  - `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
-  - `revive` /rɪˈvaɪv/              ([Medical] 蘇生する、復活する)  The paramedics revived him.
-  - `rally` /ˈræli/                 ([Medical] 持ち直す)            The patient rallied overnight.
-  - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
-  - `recoup` /rɪˈkuːp/              ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
-  > `be in remission` /rɪˈmɪʃən/    ([Medical] 寛解、軽快)          The cancer is in remission.
-  - `rehabilitate` /ˌriːəˈbɪlɪteɪt/ ([Formal] リハビリする)         They rehabilitated his injured knee.
-  - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
-  - `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
-  - `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養す 回復期にある) She's convalescing after surgery.
-> `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
-  - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
-  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
-  - `diminish` /dɪˈmɪnɪʃ/           ([Neutral] 減少する)            The threat has diminished.
-  - `dwindle` /ˈdwɪndəl/            ([Neutral] 減少する)            Their savings dwindled to nothing.
-  - `taper` /ˈteɪpər/               ([Neutral] 徐々に減る)          We'll taper off the medication.
 > `reduce` /rɪˈduːs/                ([Neutral] 減らす)              We need to reduce costs.
   - `lessen` /ˈlesən/               ([Neutral] 減らす)              This should lessen the pain.
   - `weaken` /ˈwiːkən/              ([Neutral] 弱くする)            The illness weakened him.
