@@ -9,6 +9,12 @@
 > `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
   - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
   - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
+> `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
+  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
+  - `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
+  - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
+  - `promise` /ˈprɑːmɪs/            ([Neutral] 約束する、保証する)  She promised to call.
+  - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
 
 ## 人 + V + to + V
 > `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
@@ -265,6 +271,29 @@
   - `assign` /əˈsaɪn/               ([Neutral] 割り当てる、指定する)Let's assign specific time slots.
   - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
   - `put together` /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
+> `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.
+  - `condense` /kənˈdens/           ([Neutral] 凝縮する)            Condense your report to one page.
+  - `abbreviate` /əˈbriːvieɪt/      ([Formal] 短縮する)             Please abbreviate the company name.
+  - `curtail` /kɜːrˈteɪl/           ([Formal] 削減する)             We had to curtail our expenses.
+  - `truncate` /ˈtrʌŋkeɪt/          ([Formal] 切り詰める)           The system truncates long file names.
+  - `abridge` /əˈbrɪdʒ/             ([Formal] 短縮する)             They abridged the novel for young readers.
+> `grant` /ɡrɑːnt/                  ([Formal] 認可する、付与する)   The committee granted my request.
+  - `allow` /əˈlaʊ/                 ([Neutral] 許可する)            My parents allowed me to go to the party.
+  - `permit` /pəˈmɪt/               ([Formal] 許可する)             Smoking is not permitted here.
+  - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成)      The committee approved the new policy.
+  - `disapprove` /ˌdɪsəˈpruːv/      ([Formal] 不承認する)           I disapprove of your decision.
+  - `authorize` /ˈɔːθəraɪz/         ([Formal] 権限を与える)         Only authorized personnel can enter this area.
+  - `override` /ˌoʊvərˈraɪd/        ([Formal] 無効にする)           The president can override the veto.
+  - `supersede` /ˌsuːpərˈsiːd/      ([Formal] 取って代わる)         The new law will supersede the old one.
+  - `weather` /ˈweðər/              ([Neutral] 切り抜ける、乗り切る) The company weathered the crisis.
+  - `overrule` /ˌoʊvərˈruːl/        ([Formal] 却下する)             The judge overruled the objection.
+  - `nullify` /ˈnʌlɪˌfaɪ/           ([Formal] 無効化する)           The court nullified the contract.
+  - `veto` /ˈviːtoʊ/                ([Formal] 拒否権行使)           The governor vetoed the bill.
+  - `annul` /əˈnʌl/                 ([Formal] 無効にする)           They decided to annul the marriage.
+  - `revoke` /rɪˈvoʊk/              ([Formal] 取り消す)             His license was revoked.
+  - `repeal` /rɪˈpiːl/              ([Formal] 廃止する)             Congress repealed the law.
+  - `rescind` /rɪˈsɪnd/             ([Formal] 撤回する)             The company rescinded the offer.
+  - `invalidate` /ɪnˈvælɪˌdeɪt/     ([Formal] 無効にする)           This will invalidate your warranty.
 
 ## S + V + 人
 > `gross out` /ɡroʊs aʊt/           ([Casual] 気持ち悪がらせる)     That smell really grossed me out.
@@ -333,3 +362,70 @@
 - `hurl` /hɜːrl/                    ([Neutral] 投げる、放る)        She hurled the stone into the river.
 - `toss` /tɔːs/                     ([Casual] 投げる、ほうり投げる) He tossed the keys to me.
 - `cast` /kæst/                     ([Formal] 投げる、投じる)       He cast his line into the water.
+- `refrain from` /rɪˈfreɪn frʌm/    ([Formal] 控える、慎む)         Please refrain from smoking here.
+- `abstain from` /əbˈsteɪn frʌm/    ([Formal] 控える、禁欲する)     He abstains from alcohol.
+- `avoid` /əˈvɔɪd/                  ([Neutral] 避ける)              Try to avoid making mistakes.
+- `stay away from` /steɪ əˈweɪ frʌm/ ([Casual] 近寄らない、避ける)   Stay away from that area at night.
+- `keep away from` /kiːp əˈweɪ frʌm/ ([Neutral] 近寄らない、避ける)  Keep away from the edge.
+- `listen to` /ˈlɪsən tuː/          ([Neutral] 聴く、耳を傾ける)    Listen to the music.
+- `hear` /hɪr/                      ([Neutral] 聞く、聴く)          Did you hear that sound?
+- `pay attention to` /peɪ əˈtenʃən tuː/ ([Neutral] 注意を払う、注目する) Pay attention to the details.
+- `heed` /hiːd/                     ([Formal] 耳を傾ける、注意する) Heed my warning carefully.
+- `tune in to` /tuːn ɪn tuː/        ([Casual] 耳を傾ける、注目する) Tune in to what she's saying.
+- `eavesdrop on` /ˈiːvzdrɑːp ɑːn/   ([Neutral] 盗み聞きする)        He was eavesdropping on their conversation.
+- `steer clear of` /stɪr klɪr ʌv/  ([Casual] 避ける、近寄らない)   You should steer clear of that topic.
+- `give a wide berth to` /ɡɪv ə waɪd bɜːrθ tuː/ ([Formal] 避ける、近寄らない) I give that restaurant a wide berth.
+- `glance at` /ɡlæns æt/            ([Neutral] ちらっと見る)        She glanced at her watch.
+- `peek at` /piːk æt/               ([Casual] のぞき見る、ちらっと見る) He peeked at the answer.
+- `glimpse at` /ɡlɪmps æt/          ([Neutral] ちらっと見る)        I glimpsed at the photo.
+- `glance over` /ɡlæns ˈoʊvər/      ([Neutral] ざっと見る)          She glanced over the report.
+- `skim through` /skɪm θruː/        ([Neutral] ざっと見る、斜め読みする) I skimmed through the document.
+- `scan` /skæn/                     ([Neutral] ざっと見る、走査する) He scanned the headlines.
+- `stare at` /ster æt/              ([Neutral] じっと見る、見つめる) He stared at the painting.
+- `gaze at` /ɡeɪz æt/               ([Neutral] 見つめる、凝視する)  She gazed at the stars.
+- `gawk at` /ɡɔːk æt/               ([Casual] まじまじと見る)        Don't gawk at strangers.
+- `peer at` /pɪr æt/                ([Neutral] じっと見る、のぞき込む) He peered at the document.
+- `fix one's eyes on` /fɪks wʌnz aɪz ɑːn/ ([Neutral] 目を据える、注視する) She fixed her eyes on the target.
+- `eye` /aɪ/                        ([Neutral] じろじろ見る)         He eyed the stranger suspiciously.
+- `shun` /ʃʌn/                      ([Formal] 避ける、敬遠する)     She shuns publicity.
+- `hold back from` /hoʊld bæk frʌm/ ([Neutral] 控える、我慢する)    She held back from commenting.
+- `keep from` /kiːp frʌm/           ([Neutral] 我慢する、控える)    I couldn't keep from laughing.
+- `stop oneself from` /stɑːp wʌnˈself frʌm/ ([Neutral] 我慢する、控える) I couldn't stop myself from crying.
+- `prevent oneself from` /prɪˈvent wʌnˈself frʌm/ ([Formal] 控える、我慢する) She prevented herself from interrupting.
+- `restrain oneself from` /rɪˈstreɪn wʌnˈself frʌm/ ([Formal] 控える、我慢する) He restrained himself from commenting.
+- `withhold from` /wɪðˈhoʊld frʌm/  ([Formal] 控える、差し控える)    She withheld from making a judgment.
+- `can't help` /kænt help/          ([Neutral] 我慢できない)         I can't help feeling sad.
+- `resist` /rɪˈzɪst/                ([Neutral] 抵抗する、我慢する)  I couldn't resist the temptation.
+- `desist from` /dɪˈzɪst frʌm/      ([Formal] やめる、控える)       He was ordered to desist from such activities.
+
+> `have an effect on`               ([Neutral] 影響を与える)        The weather can have an effect on mood.
+  - `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
+  - `influence` /ˈɪnfluəns/         ([Neutral] 影響する、左右する)  Weather influences our mood.
+  - `have an impact on`             ([Neutral] 影響を与える)        Your words have an impact on people.
+  - `make a difference`             ([Neutral] 影響を与える)        Your help really makes a difference.
+  - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
+  - `shape` /ʃeɪp/                  ([Neutral] 形作る、左右する)    Experiences shape our personality.
+  - `control` /kənˈtroʊl/           ([Neutral] 支配する、制御する)  Who controls the budget?
+  - `drive` /draɪv/                 ([Neutral] 駆動する、左右する)  Competition drives innovation.
+  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、決める)    Several factors determine the outcome.
+  - `guide` /ɡaɪd/                  ([Neutral] 導く、指導する)      Let principles guide your actions.
+  - `direct` /dəˈrekt/              ([Neutral] 指示する、導く)      She directs the operations.
+  - `sway` /sweɪ/                   ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
+  - `rub off on` /rʌb ɔːf ɑːn/      ([Casual] 影響を与える)         Her enthusiasm rubbed off on the team.
+  - `dictate` /dɪkˈteɪt/            ([Neutral] 左右する、決定する)  Market forces dictate the price.
+  - `govern` /ˈɡʌvərn/              ([Formal] 支配する、左右する)   Supply and demand govern prices.
+  - `steer` /stɪr/                  ([Neutral] 導く、左右する)      He steered the conversation away.
+  - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
+  - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
+  - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
+> `come down to` /kʌm daʊn tu/      ([Casual] ～に帰着する)         It all comes down to hard work.
+  - `boil down to` /bɔɪl daʊn tu/   ([Neutral] 要するに～である)    The issue boils down to money.
+  - `depend on` /dɪˈpend ɑːn/       ([Neutral] ～に依存する)        Success depends on hard work.
+  - `result in` /rɪˈzʌlt ɪn/        ([Neutral] ～という結果になる)  Hard work results in success.
+  - `ultimately` /ˈʌltɪmətli/       ([Neutral] 最終的に、結局)      Ultimately, it's your decision.
+  - `amount to` /əˈmaʊnt tu/        ([Neutral] ～に等しい、要するに)His excuse amounts to nothing.
+  - `center on` /ˈsentər ɑːn/       ([Neutral] ～を中心とする)      The debate centers on healthcare.
+  - `reduce to` /rɪˈdus tu/         ([Neutral] ～に減らす、要約する)The problem reduces to a simple question.
+  - `stem from` /stem frʌm/         ([Neutral] ～に由来する)        The problem stems from poor planning.
+  - `revolve around`                ([Neutral] ～を中心とする)      The story revolves around family.
+  - `hinge on` /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.

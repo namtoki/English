@@ -14,6 +14,32 @@
 > `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
   - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
   - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
+> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+  > `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
+  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
+  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+  > `be sloppy` /biː ˈslɑːpi/       ([Casual] いい加減である)       Your work has been sloppy lately.
+  - `half-hearted` /ˌhæf ˈhɑːrtəd/  ([Neutral] やる気のない)        His effort was half-hearted.
+  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
+  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
+  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+  - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+> `get ready`                       ([Neutral] 準備する)            Get ready for the presentation.
+  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
+  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `make preparations`             ([Formal] 準備する)             Make preparations for the event.
+  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
+  - `gear up` /ɡɪr ʌp/              ([Casual] 準備する)             We're gearing up for the launch.
+  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
+  - `make arrangements`             ([Neutral] 手配する)            I'll make arrangements for the trip.
+  - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
+> `bustle` /ˈbʌsəl/                 ([Neutral] 忙しく動き回る)      She bustled around the kitchen.
+  - `hustle` /ˈhʌsəl/               ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
+  - `scurry` /ˈskɜːri/              ([Neutral] あわただしく動く)    Mice scurried across the floor.
+  - `dash` /dæʃ/                    ([Neutral] 急いで走る)          I need to dash to the store.
+  - `scramble` /ˈskræmbəl/          ([Neutral] よじ登る、慌てる)    Everyone scrambled to finish on time.
+  - `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
 > `make it`                         ([Casual] 成功する、間に合う)   I'm sure you'll make it.
 
 ## 人 + V + M
@@ -97,5 +123,36 @@
   - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
   - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
   - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
+> `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
+  - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
+  - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
+  - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
+  - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
+> `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
+  - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
+  - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
+  - `have little to do with`        ([Neutral] 関係がほとんどない)  This has little to do with money.
+  - `have everything to do with`    ([Neutral] 全て関係がある)      This has everything to do with trust.
+> `have things in common`           ([Casual] 共通点がある)         Do we have things in common?
+  - `have a lot in common`          ([Neutral] 共通点が多い)        We have a lot in common.
+  - `have little in common`         ([Neutral] 共通点が少ない)      They have little in common.
+  - `have nothing in common`        ([Neutral] 共通点がない)        We have nothing in common.
+  - `have similarities`             ([Neutral] 類似点がある)        The two cases have similarities.
+  - `have no similarities`          ([Neutral] 類似点がない)        These systems have no similarities.
+  - `have commonalities`            ([Formal] 共通性がある)         The cultures have commonalities.
+> `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
+  - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
+  - `be good to go`                 ([Casual] 準備万端)             We're good to go!
+  - `be ready for use`              ([Neutral] 使用可能な)          The equipment is ready for use.
+  - `be within reach` /wɪðɪn riːtʃ/ ([Neutral] 手の届く範囲にある)  Help is within reach.
+  - `be usable` /ˈjuːzəbəl/         ([Neutral] 使用可能な)          The software is now usable.
+  - `be at one's disposal`          ([Formal] 思い通りにできる)     The enormous property was at his disposal.
+  - `be at one's service`           ([Formal] お役に立てる)         I'm at your service.
+  - `be at one's command`           ([Formal] 命令に従う)           The troops are at your command.
+  > `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
+  - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
+  - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
+> `ready to`                        ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
+  - `be prepared`                   ([Neutral] 準備ができている)    Be prepared for questions.
 > `be put into effect`              ([Neutral] 実施する 発効させる) The new law was put into effect.
 > `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
