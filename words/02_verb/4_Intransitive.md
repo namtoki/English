@@ -139,11 +139,7 @@
 > `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
 > `come around to`                  ([Neutral] に同意する)          He came around to my way of thinking.
 
-## TRAITS (GO OVER ONE'S HEAD / BE RELATED TO / HAVE SOMETHING TO DO WITH / HAVE THINGS IN COMMON / BE AVAILABLE)
-> `go over ~'s head`                ([Neutral] 理解を超える)        The joke went over my head.
-  - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
-  - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
-  - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
+## TRAITS (BE RELATED TO / HAVE SOMETHING TO DO WITH / HAVE THINGS IN COMMON / COME DOWN TO / BE AVAILABLE)
 > `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
   - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
   - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
@@ -161,6 +157,16 @@
   - `have similarities`             ([Neutral] 類似点がある)        The two cases have similarities.
   - `have no similarities`          ([Neutral] 類似点がない)        These systems have no similarities.
   - `have commonalities`            ([Formal] 共通性がある)         The cultures have commonalities.
+> `come down to` /kʌm daʊn tu/      ([Casual] ～に帰着する)         It all comes down to hard work.
+  - `boil down to` /bɔɪl daʊn tu/   ([Neutral] 要するに～である)    The issue boils down to money.
+  - `depend on` /dɪˈpend ɑːn/       ([Neutral] ～に依存する)        Success depends on hard work.
+  - `result in` /rɪˈzʌlt ɪn/        ([Neutral] ～という結果になる)  Hard work results in success.
+  - `amount to` /əˈmaʊnt tu/        ([Neutral] ～に等しい、要するに)His excuse amounts to nothing.
+  - `center on` /ˈsentər ɑːn/       ([Neutral] ～を中心とする)      The debate centers on healthcare.
+  - `reduce to` /rɪˈdus tu/         ([Neutral] ～に減らす、要約する)The problem reduces to a simple question.
+  - `stem from` /stem frʌm/         ([Neutral] ～に由来する)        The problem stems from poor planning.
+  - `revolve around`                ([Neutral] ～を中心とする)      The story revolves around family.
+  - `hinge on` /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.
 > `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
   - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
   - `be good to go`                 ([Casual] 準備万端)             We're good to go!
@@ -173,8 +179,12 @@
   - `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
   - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
   - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
-> `be ready to`                     ([Neutral] 準備ができて～する)  I'm ready to start the meeting.
-  - `be prepared`                   ([Neutral] 準備ができている)    Be prepared for questions.
+
+## TRAITS (GO OVER ONE'S HEAD / DECREASE)
+> `go over ~'s head`                ([Neutral] 理解を超える)        The joke went over my head.
+  - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
+  - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
+  - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
 > `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
 > `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
   - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.

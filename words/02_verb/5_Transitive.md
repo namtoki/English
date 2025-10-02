@@ -1,47 +1,14 @@
 # Transitive
 
+## TASK (GET READY FOR / SORT OUT / LOOK INTO)
 > `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
   - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
   - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
   - `make preparations for`         ([Formal] 準備する)             Make preparations for the event.
   - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
   - `gear up for` /ɡɪr ʌp/          ([Casual] 準備する)             We're gearing up for the launch.
-  - `make arrangements`             ([Neutral] 手配する)            I'll make arrangements for the trip.
+  - `make arrangements for`         ([Neutral] 手配する)            I'll make arrangements for the trip.
   - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
-## 人 + V + that S V
-> `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
-  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
-  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
-  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
-  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
-> `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
-  - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
-  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
-> `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
-  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
-  - `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
-  - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
-  - `promise` /ˈprɑːmɪs/            ([Neutral] 約束する、保証する)  She promised to call.
-  - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
-
-## 人 + V + to + V
-> `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
-  - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
-  - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
-
-## 人 + V + Noun
-> `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
-  - `think of` /θɪŋk ʌv/            ([Neutral] 思い出す、考えつく)  I can't think of his name.
-  - `think about` /θɪŋk əˈbaʊt/     ([Neutral] 考える、検討する)    Think about what I said.
-  - `imagine` /ɪˈmædʒɪn/            ([Neutral] 想像する)            Can you imagine living there?
-  - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
-  - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する 想像する) Try to visualize the solution.
-  - `envision` /ɪnˈvɪʒən/           ([Neutral] 心に描く 想像する)   I envision a better future.
-  - `conceive` /kənˈsiːv/           ([Formal] 具体的な創造)         She conceived the idea during her commute.
-  - `conceive of` /kənˈsiːv/        ([Formal] 抽象的な想像・理解)   I can't conceive of such cruelty.
-  - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
-  - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
-  - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
 > `sort out` /sɔːrt aʊt/            ([Casual] 整理する、解決する)   I'll sort out the paperwork.
   - `organize` /ˈɔːrɡənaɪz/         ([Neutral] 整理する、組織する)  I need to organize my files.
   - `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
@@ -70,6 +37,39 @@
   - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
   - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
   - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
+
+## COGNITIVE (THINK / KEEP IN MIND / REMEMBER / ASSURE)
+> `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
+  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
+  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
+  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
+  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
+> `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
+  - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
+  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
+> `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
+  - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
+  - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
+> `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
+  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
+  - `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
+  - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
+  - `promise` /ˈprɑːmɪs/            ([Neutral] 約束する、保証する)  She promised to call.
+  - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
+
+## 人 + V + Noun
+> `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
+  - `think of` /θɪŋk ʌv/            ([Neutral] 思い出す、考えつく)  I can't think of his name.
+  - `think about` /θɪŋk əˈbaʊt/     ([Neutral] 考える、検討する)    Think about what I said.
+  - `imagine` /ɪˈmædʒɪn/            ([Neutral] 想像する)            Can you imagine living there?
+  - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
+  - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する 想像する) Try to visualize the solution.
+  - `envision` /ɪnˈvɪʒən/           ([Neutral] 心に描く 想像する)   I envision a better future.
+  - `conceive` /kənˈsiːv/           ([Formal] 具体的な創造)         She conceived the idea during her commute.
+  - `conceive of` /kənˈsiːv/        ([Formal] 抽象的な想像・理解)   I can't conceive of such cruelty.
+  - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
+  - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
+  - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
 > `figure out` /ˈfɪɡər aʊt/         ([Casual] 解明する、理解する)   We need to figure out what went wrong.
   - `find out` /faɪnd aʊt/          ([Neutral] 調べる、発見する)    I need to find out the truth.
   - `discover` /dɪˈskʌvər/          ([Neutral] 発見する)            We discovered the root cause.
@@ -426,14 +426,3 @@
   - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
   - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
   - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
-> `come down to` /kʌm daʊn tu/      ([Casual] ～に帰着する)         It all comes down to hard work.
-  - `boil down to` /bɔɪl daʊn tu/   ([Neutral] 要するに～である)    The issue boils down to money.
-  - `depend on` /dɪˈpend ɑːn/       ([Neutral] ～に依存する)        Success depends on hard work.
-  - `result in` /rɪˈzʌlt ɪn/        ([Neutral] ～という結果になる)  Hard work results in success.
-  - `ultimately` /ˈʌltɪmətli/       ([Neutral] 最終的に、結局)      Ultimately, it's your decision.
-  - `amount to` /əˈmaʊnt tu/        ([Neutral] ～に等しい、要するに)His excuse amounts to nothing.
-  - `center on` /ˈsentər ɑːn/       ([Neutral] ～を中心とする)      The debate centers on healthcare.
-  - `reduce to` /rɪˈdus tu/         ([Neutral] ～に減らす、要約する)The problem reduces to a simple question.
-  - `stem from` /stem frʌm/         ([Neutral] ～に由来する)        The problem stems from poor planning.
-  - `revolve around`                ([Neutral] ～を中心とする)      The story revolves around family.
-  - `hinge on` /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.
