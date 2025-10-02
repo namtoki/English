@@ -42,9 +42,15 @@
   - `Here we go`                    ([Casual] ハイチーズ)           Sure! Line up in front of that statue! 3, 2, 1, `here we go`!
   - `Here we are`                   ([Casual] 着いた！)             `Here we are!` Home sweet home.
   - `Here you go/are`               ([Casual] どうぞ)               `Here you go`. This is the doll you wanted.
+  - `be coming right up`            ([Casual] すぐできます)         Your order will be coming right up!
+  - `be on one's way`               ([Casual] 向かっています)       Your food is on its way to your table.
+  - `be ready in a moment`          ([Casual] すぐできます)         Your coffee will be ready in a moment.
+  - `be ready shortly`              ([Neutral] まもなく準備できます) Your table will be ready shortly.
+  - `be out in a minute`            ([Casual] すぐ出てきます)       I'll be out in a minute!
+  - `be right with you`             ([Casual] すぐ行きます)         I'll be right with you!
   - `There we go.`                  ([Casual] ほらね／できたよ)     `There we go.` The printer is working again.
   - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
-  - `There you go.`                 ([Casual] どうぞ／その調子)     I’m going to go for it! / Yeah, `There you go`!
+  - `There you go.`                 ([Casual] どうぞ／その調子)     I'm going to go for it! / Yeah, `There you go`!
 > `I hope you are doing well.`
   - `Thank you for your continued support.`
   - `I appreciate your help as always.`
@@ -277,6 +283,14 @@
 - `A is one thing, but B is another`([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
 - `it's not always the case that`   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
 - `that's not to say that S V`      ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
+
+## SIMPLE AS THAT
+- `simple as that`                  ([Casual] それだけのこと)       Just follow the instructions. Simple as that.
+- `easy as that`                    ([Casual] それだけのこと)       You just need to click here. Easy as that.
+- `as simple as that`               ([Casual] それくらい簡単)       It's as simple as that.
+- `plain and simple`                ([Casual] 単純明快)             He lied to us, plain and simple.
+- `that's all there is to it`       ([Casual] それだけのこと)       Just study hard. That's all there is to it.
+- `nothing more to it`              ([Casual] それ以上何もない)     Press the button and wait. Nothing more to it.
 
 ## BE AWARE THAT
 - `be aware that`                   ([Neutral] に注意してください)  Be aware that the deadline is next Friday.

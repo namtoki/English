@@ -19,6 +19,9 @@
 - `spoon-feeding` /ˈspuːn fiːdɪŋ/   ([Casual] 手取り足取りの指導)    Spoon-feeding prevents independent thinking.
 - `self-gratification`              ([Neutral] 自己満足)          The pursuit of self-gratification.
 - `pleasure-seeking`                ([Neutral] 快楽追求)          His pleasure-seeking behavior worried us.
+- `fling` /flɪŋ/                    ([Casual] 短期の恋愛、情事)     They had a brief fling last summer.
+- `affair` /əˈfeər/                 ([Neutral] 情事、不倫)          He had an affair with his colleague.
+- `romance` /roʊˈmæns/              ([Neutral] 恋愛、ロマンス)      Their romance blossomed in Paris.
 - `decadence` /ˈdekədəns/           ([Neutral] 退廃、堕落)          The decadence of the empire.
 - `diplomacy` /dɪˈploʊməsi/         ([Formal] 外交、外交手腕)        Diplomacy prevented the conflict.
   - `diplomat` /ˈdɪpləmæt/          ([Formal] 外交官)              The diplomat negotiated the treaty.
@@ -800,6 +803,12 @@
 - `permission` /pəˈmɪʃən/           ([Neutral] 許可)                You need permission to enter this building.
 - `approval` /əˈpruːvəl/            ([Formal] 承認、賛成)           The plan received unanimous approval.
 - `disapproval` /ˌdɪsəˈpruːvəl/     ([Formal] 不承認)               She showed her disapproval by shaking her head.
+- `dissatisfaction` /ˌdɪsˌsætɪsˈfækʃən/ ([Neutral] 不満)            There's growing dissatisfaction among workers.
+- `dismissal` /dɪsˈmɪsəl/           ([Formal] 解雇、却下)           His dismissal was unexpected.
+- `termination` /ˌtɜːrmɪˈneɪʃən/    ([Formal] 解雇、終了)           The termination was effective immediately.
+- `firing` /ˈfaɪərɪŋ/               ([Casual] 解雇)                 The firing shocked everyone.
+- `rejection` /rɪˈdʒekʃən/          ([Neutral] 却下、拒否)          The rejection of his proposal was harsh.
+- `removal` /rɪˈmuːvəl/             ([Neutral] 解任、除去)          The removal of the manager caused controversy.
 - `authorization` /ˌɔːθəraɪˈzeɪʃən/ ([Formal] 認可)                 You need authorization to access these files.
 - `authority` /ɔːˈθɒrəti/           ([Neutral] 権威、権限)          He has no authority over me.
 - `clout` /klaʊt/                   ([Neutral] 影響力)              She has a lot of clout in the industry.
@@ -856,6 +865,7 @@
 - `console` /kənˈsoʊl/               ([Formal] 慰める、元気づける)        He tried to console his grieving friend.
   - `consolation` /ˌkɑːnsəˈleɪʃən/   ([Formal] 慰めること、安らぎ)        The trophy was small consolation for losing.
   - `inconsolable` /ˌɪnkənˈsoʊləbəl/ ([Writing] 慰めようがない)         She was inconsolable after the tragedy.
+- `peat` /piːt/                      ([Neutral] 泥炭)                Peat is used as fuel in some countries.
 - `peace` /piːs/                     ([Neutral] 平和、安らぎ)             She found peace in the quiet garden.
   - `peaceful` /ˈpiːsfəl/            ([Neutral] 平和な、平穏な)           The village was peaceful and quiet.
   - `peacefully` /ˈpiːsfəli/         ([Neutral] 平和に、静かに)           He died peacefully in his sleep.
@@ -1013,6 +1023,12 @@
   - `placidly` /ˈplæsɪdli/          ([Formal] 穏やかに)             The cow grazed placidly.
   - `placidity` /plæˈsɪdəti/        ([Formal] 穏やかさ、平静さ)     Her placidity was remarkable.
 - `imperturbable` /ˌɪmpərˈtɜːrbəbəl/([Formal] 動じない、冷静な)     He's imperturbable under stress.
+- `dissatisfied` /dɪsˈsætɪsfaɪd/    ([Neutral] 不満な)              She was dissatisfied with the results.
+- `discontent` /ˌdɪskənˈtent/       ([Formal] 不満な)               Workers are discontent with their wages.
+- `displeased` /dɪsˈpliːzd/         ([Neutral] 不快な、不満な)      He was displeased with the service.
+- `unhappy` /ʌnˈhæpi/               ([Neutral] 不幸な、不満な)      She's unhappy with her job.
+- `disappointed` /ˌdɪsəˈpɔɪntɪd/    ([Neutral] 失望した)            I was disappointed by the outcome.
+- `unsatisfied` /ʌnˈsætɪsfaɪd/      ([Neutral] 満たされていない)    His curiosity remained unsatisfied.
 - `dispassionate` /dɪsˈpæʃənət/     ([Formal] 冷静な、感情的でない) He gave a dispassionate analysis.
   - `dispassionately`               ([Formal] 冷静に、客観的に)     She analyzed the data dispassionately.
 - `equanimous` /ɪˈkwænɪməs/         ([Writing] 平静な、落ち着いた)  She maintained an equanimous demeanor.

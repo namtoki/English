@@ -328,3 +328,8 @@
   - `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
   - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
+- `dismiss` /dɪsˈmɪs/               ([Formal] 解雇する、却下する)  The company dismissed him for misconduct.
+- `fling` /flɪŋ/                    ([Casual] 投げる、放る)         He flung the ball across the field.
+- `hurl` /hɜːrl/                    ([Neutral] 投げる、放る)        She hurled the stone into the river.
+- `toss` /tɔːs/                     ([Casual] 投げる、ほうり投げる) He tossed the keys to me.
+- `cast` /kæst/                     ([Formal] 投げる、投じる)       He cast his line into the water.
