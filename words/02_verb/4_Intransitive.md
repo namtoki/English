@@ -180,15 +180,31 @@
   - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
   - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
 
-## TRAITS (GO OVER ONE'S HEAD / DECREASE)
+## COGNITIVE (GO OVER ONE'S HEAD)
 > `go over ~'s head`                ([Neutral] 理解を超える)        The joke went over my head.
   - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
   - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
   - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
-> `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
+
+## CHANGE (DECREASE)
 > `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
   - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
   - `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
   - `diminish` /dɪˈmɪnɪʃ/           ([Neutral] 減少する)            The threat has diminished.
   - `dwindle` /ˈdwɪndəl/            ([Neutral] 減少する)            Their savings dwindled to nothing.
   - `taper` /ˈteɪpər/               ([Neutral] 徐々に減る)          We'll taper off the medication.
+> `decline` /dɪˈklaɪn/              ([Neutral] 衰える)              Her health has been declining.
+  - `fade` /feɪd/                   ([Neutral] 薄れる)              The light faded gradually.
+  - `shrink` /ʃrɪŋk/                ([Neutral] 縮小する)            The market has shrunk considerably.
+  - `wane` /weɪn/                   ([Neutral] 衰える)              Her enthusiasm waned rapidly.
+  - `recede` /rɪˈsiːd/              ([Formal] 後退する)             The prospect of bankruptcy receded.
+  - `ebb` /eb/                      ([Writing] 引く、衰える)        His life is gradually ebbing.
+> `ease` /iːz/                      ([Neutral] 和らぐ)              The pain will ease soon.
+  - `let up` /let ʌp/               ([Casual] 和らぐ、弱まる)       The rain finally let up.
+  - `die down` /daɪ daʊn/           ([Casual] 静まる、弱まる)       The noise died down eventually.
+  - `subside` /səbˈsaɪd/            ([Formal] 和らぐ)               The pain gradually subsided.
+  - `abate` /əˈbeɪt/                ([Formal] 和らぐ)               We waited for the wind to abate.
+  - `lessen` /ˈlesən/               ([Neutral] 和らぐ、減る)        The symptoms lessened over time.
+  - `soften` /ˈsɒfən/               ([Neutral] 和らぐ 柔らかくなる) Her expression softened slightly.
+> `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
+> `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.

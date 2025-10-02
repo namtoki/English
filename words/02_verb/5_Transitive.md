@@ -38,7 +38,7 @@
   - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
   - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
 
-## COGNITIVE (THINK / KEEP IN MIND / REMEMBER / ASSURE)
+## COGNITIVE (THINK / KEEP IN MIND / REMEMBER / ASSURE / THANK / RESPECT)
 > `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
   - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
   - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
@@ -56,6 +56,85 @@
   - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
   - `promise` /ˈprɑːmɪs/            ([Neutral] 約束する、保証する)  She promised to call.
   - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
+> `thank` /θæŋk/                    ([Neutral] 感謝する、礼を言う)  Thank you for your help.
+  - `appreciate` /əˈpriːʃieɪt/      ([Neutral] 感謝する、評価する)  I appreciate your help with this project.
+  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認識する 功績認める) We recognize your efforts.
+  - `acknowledge` /əkˈnɑːlɪdʒ/      ([Formal] 認める、感謝を示す)   I acknowledge your contribution.
+  - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit him for the success.
+  - `cherish` /ˈtʃerɪʃ/             ([Neutral] 大切にする 心に抱く) I cherish these memories.
+  - `treasure` /ˈtreʒər/            ([Neutral] 大切にする 宝物扱い) I treasure your advice.
+  - `praise` /preɪz/                ([Neutral] 称賛する、褒める)    The teacher praised her work.
+  - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   I commend you for your efforts.
+  - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、称賛する)  We applaud your dedication.
+  - `be grateful` /ˈɡreɪtfəl/       ([Neutral] 感謝している)        I'm grateful for your assistance.
+  - `be thankful` /ˈθæŋkfəl/        ([Neutral] 感謝している)        I'm thankful for this opportunity.
+  - `be appreciative` /əˈpriːʃətɪv/ ([Formal] 感謝している)         She was appreciative of their support.
+  - `be obliged` /əˈblaɪdʒd/        ([Formal] 恩義を感じる)         I'm much obliged for your help.
+  - `be indebted` /ɪnˈdetɪd/        ([Formal] 恩義がある)           I'm indebted to you for this.
+  - `be beholden` /bɪˈhoʊldən/      ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
+  - `owe` /oʊ/                      ([Neutral] 借りがある 恩がある) I owe you a debt of gratitude.
+> `respect` /rɪˈspekt/              ([Neutral] 尊敬、尊重)          I have great respect for her work.
+  - `value` /ˈvæljuː/               ([Neutral] 価値を認める 大切に) I value your opinion highly.
+  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、尊敬する)  I admire her courage.
+  - `look up to` /lʊk ʌp tuː/       ([Casual] 尊敬する、見上げる)   Children look up to their parents.
+  - `honor` /ˈɑːnər/                ([Formal] 敬う、名誉を与える)   We honor their sacrifice.
+  - `regard` /rɪˈɡɑːrd/             ([Neutral] 見なす、敬意)        I regard him as a mentor.
+  - `esteem` /ɪˈstiːm/              ([Formal] 重んじる、尊敬)       She is held in high esteem by colleagues.
+  - `idolize` /ˈaɪdəlaɪz/           ([Neutral] 偶像化する、崇拝)    Fans idolize the rock star.
+  - `salute` /səˈluːt/              ([Neutral] 敬礼、敬意表す)      The soldiers saluted their commanding officer.
+  - `worship` /ˈwɜːrʃɪp/            ([Neutral] 崇拝する、礼拝する)  Some cultures worship nature.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your expertise.
+  - `revere` /rɪˈvɪr/               ([Writing] あがめる)            Many people revere his memory.
+  - `venerate` /ˈvenəreɪt/          ([Writing] 崇拝する、尊敬する)  They venerate their ancestors.
+> `praise` /preɪz/                  ([Neutral] 称賛する、褒める)    She praised him for his hard work.
+  - `congratulate` /kənˈɡrætʃəleɪt/ ([Neutral] 祝う、褒める)        Congratulate her on the promotion!
+  - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、賞賛)      The audience applauded enthusiastically.
+  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認める、表彰する)    The company recognized his efforts.
+  - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit her with the success.
+  - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   The teacher commended her excellent performance.
+  - `celebrate` /ˈseləbreɪt/        ([Neutral] 祝う、称える)        Let's celebrate your achievement!
+  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、感嘆する)  I admire your dedication.
+  - `acclaim` /əˈkleɪm/             ([Formal] 絶賛する、喝采)       The film received critical acclaim.
+  - `hail` /heɪl/                   ([Neutral] 称賛する、歓迎する)  Critics hailed it as a masterpiece.
+  - `glorify` /ˈɡlɔːrɪfaɪ/          ([Neutral] 賛美する、美化する)  Don't glorify bad behavior.
+  - `exalt` /ɪɡˈzɔːlt/              ([Writing] 称賛する、高める)    They exalted his achievements.
+  - `laud` /lɔːd/                   ([Writing] 賞賛する、称える)    Critics lauded the novel's innovative style.
+  - `extol` /ɪkˈstoʊl/              ([Writing] 賞賛する、讃える)    Critics extol the director's latest film.
+  - `eulogize` /ˈjuːlədʒaɪz/        ([Writing] 賛美する、弔辞)      He eulogized his late mentor.
+  - `lionize` /ˈlaɪənaɪz/           ([Writing] もてはやす 有名人扱) The media lionized the young athlete.
+
+## TRAITS (SATISFY)
+> `satisfy` /ˈsætɪsfaɪ/             ([Neutral] 満足させる)          This answer will satisfy your question.
+  - `serve` /sɜːrv/                 ([Neutral] 仕える、役に立つ)    This tool will serve our purpose.
+  - `fit` /fɪt/                     ([Neutral] 適合する、合う)      This solution fits our needs perfectly.
+  - `suit` /suːt/                   ([Neutral] 適する、合う)        This schedule suits me fine.
+  - `please` /pliːz/                ([Neutral] 喜ばせる 満足させる) It's hard to please everyone.
+  - `fulfill` /fʊlˈfɪl/             ([Formal] 満たす、成就する)     We need to fulfill our obligations.
+  - `accommodate` /əˈkɑːmədeɪt/     ([Formal] 対応する、収容する)   We can accommodate your request.
+  - `content` /kənˈtent/            ([Neutral] 満足させる)          She contented herself with the result.
+  - `gratify` /ˈɡrætɪfaɪ/           ([Formal] 満足させる、喜ばせる) The results gratified the team.
+  - `appease` /əˈpiːz/              ([Formal] なだめる、満足させる) This offer should appease them.
+  - `quench` /kwentʃ/               ([Neutral] 満たす、鎮める)      Water quenched his thirst.
+  - `satiate` /ˈseɪʃieɪt/           ([Writing] 十分に満たす)        The meal satiated his hunger.
+  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 従う、応じる)         We comply with all regulations.
+  - `cater to` /ˈkeɪtər tuː/        ([Neutral] 迎合する、対応する)  We cater to all dietary needs.
+  - `indulge` /ɪnˈdʌldʒ/            ([Neutral] 甘やかす 満足させる) Don't indulge his bad behavior.
+> `calm` /kɑːm/                     ([Neutral] 落ち着かせる)        Try to calm down before speaking.
+  - `ease` /iːz/                    ([Neutral] 和らげる、楽にする)  The medicine will ease the pain.
+  - `soothe` /suːð/                 ([Neutral] なだめる、和らげる)  The music soothed his nerves.
+  - `reconcile` /ˈrekənsaɪl/        ([Writing] 和解させる)          They reconciled after their argument.
+  - `pacify` /ˈpæsɪfaɪ/             ([Neutral] 鎮める、平定する)    The mother pacified her crying baby.
+  - `placate` /pləˈkeɪt/            ([Formal] なだめる、懐柔する)   She tried to placate the angry customer.
+  - `alleviate` /əˈliːvieɪt/        ([Formal] 緩和する、軽減する)   This will alleviate the symptoms.
+  - `allay` /əˈleɪ/                 ([Writing] 和らげる、静める)    The medicine helped allay his pain.
+  - `assuage` /əˈsweɪdʒ/            ([Writing] 和らげる、軽減する)  Nothing could assuage his guilt.
+  - `mollify` /ˈmɒlɪfaɪ/            ([Writing] 和らげる、なだめる)  His apology mollified her anger.
+  - `conciliate` /kənˈsɪlieɪt/      ([Writing] 懐柔する、調停する)  He tried to conciliate the warring factions.
+
+## CHANGE (REDUCE)
+> `reduce` /rɪˈduːs/                ([Neutral] 減らす)              We need to reduce costs.
+  - `lessen` /ˈlesən/               ([Neutral] 減らす)              This should lessen the pain.
+  - `weaken` /ˈwiːkən/              ([Neutral] 弱くする)            The illness weakened him.
 
 ## 人 + V + Noun
 > `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
