@@ -1,5 +1,73 @@
 # Common
 
+## BEHAVIOR (HUSTLE / GET BETTER / SWING BY)
+> `hustle` /ˈhʌsəl/                 ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
+  - `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
+  - `dash` /dæʃ/                    ([Neutral] 急いで走る)          I need to dash to the store.
+  - `scramble` /ˈskræmbəl/          ([Neutral] よじ登る、慌てる)    Everyone scrambled to finish on time.
+  - `scurry` /ˈskɜːri/              ([Neutral] あわただしく動く)    Mice scurried across the floor.
+  - `bustle` /ˈbʌsəl/               ([Neutral] 忙しく動き回る)      She bustled around the kitchen.
+  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
+> `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
+  - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
+  - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
+  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、良くなる)  His condition is improving daily.
+  - `recover` /rɪˈkʌvər/            ([Neutral] 回復する)            She recovered from the illness.
+  - `heal` /hiːl/                   ([Neutral] 癒える、治る)        The wound will heal in time.
+  - `pick up` /pɪk ʌp/              ([Casual] 回復する、元気になる) She's starting to pick up now.
+  - `bounce back` /baʊns bæk/       ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
+  - `be on the mend` /ɒn ðə mend/   ([Casual] 回復中)               He's on the mend now.
+  - `pull through` /pʊl θruː/       ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
+  - `get back on one's feet`        ([Casual] 立ち直る)             It took months to get back on his feet.
+  - `turn the corner`               ([Neutral] 峠を越える)          The patient has turned the corner.
+  - `come around` /kʌm əˈraʊnd/     ([Neutral] 意識を取り戻す)      He came around after the surgery.
+  - `perk up` /pɜːk ʌp/             ([Casual] 元気を取り戻す)       She perked up after some rest.
+  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
+  - `recuperate` /rɪˈkuːpəreɪt/     ([Formal] 回復する、療養する)   He's recuperating at home.
+  - `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
+  - `revive` /rɪˈvaɪv/              ([Medical] 蘇生する、復活する)  The paramedics revived him.
+  - `rally` /ˈræli/                 ([Medical] 持ち直す)            The patient rallied overnight.
+  - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
+  - `recoup` /rɪˈkuːp/              ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
+  - `be in remission` /rɪˈmɪʃən/    ([Medical] 寛解、軽快)          The cancer is in remission.
+  - `rehabilitate` /ˌriːəˈbɪlɪteɪt/ ([Formal] リハビリする)         They rehabilitated his injured knee.
+  - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
+  - `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
+  - `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養す 回復期にある) She's convalescing after surgery.
+> `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
+  - `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
+  - `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
+  - `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
+  - `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
+  - `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
+> `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
+> `come around to`                  ([Neutral] に同意する)          He came around to my way of thinking.
+
+## CHANGE (DECREASE)
+> `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
+  - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
+  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
+  - `diminish` /dɪˈmɪnɪʃ/           ([Neutral] 減少する)            The threat has diminished.
+  - `dwindle` /ˈdwɪndəl/            ([Neutral] 減少する)            Their savings dwindled to nothing.
+  - `taper` /ˈteɪpər/               ([Neutral] 徐々に減る)          We'll taper off the medication.
+> `decline` /dɪˈklaɪn/              ([Neutral] 衰える)              Her health has been declining.
+  - `fade` /feɪd/                   ([Neutral] 薄れる)              The light faded gradually.
+  - `shrink` /ʃrɪŋk/                ([Neutral] 縮小する)            The market has shrunk considerably.
+  - `wane` /weɪn/                   ([Neutral] 衰える)              Her enthusiasm waned rapidly.
+  - `recede` /rɪˈsiːd/              ([Formal] 後退する)             The prospect of bankruptcy receded.
+  - `ebb` /eb/                      ([Writing] 引く、衰える)        His life is gradually ebbing.
+> `ease` /iːz/                      ([Neutral] 和らぐ)              The pain will ease soon.
+  - `let up` /let ʌp/               ([Casual] 和らぐ、弱まる)       The rain finally let up.
+  - `die down` /daɪ daʊn/           ([Casual] 静まる、弱まる)       The noise died down eventually.
+  - `subside` /səbˈsaɪd/            ([Formal] 和らぐ)               The pain gradually subsided.
+  - `abate` /əˈbeɪt/                ([Formal] 和らぐ)               We waited for the wind to abate.
+  - `lessen` /ˈlesən/               ([Neutral] 和らぐ、減る)        The symptoms lessened over time.
+  - `soften` /ˈsɒfən/               ([Neutral] 和らぐ 柔らかくなる) Her expression softened slightly.
+> `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
+  - `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
+  - `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
+> `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
+> `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
 ## TASK (GET READY FOR / SORT OUT / LOOK INTO)
 > `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
   - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.

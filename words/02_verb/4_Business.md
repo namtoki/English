@@ -1,6 +1,6 @@
 # Business
 
-## TASK (I'll get on it / I'm working on it / We've made some progress / I'll take over)
+## TASK (I'll get on it / I'm working on it / We've made some progress / I'll take over / cut corners / sloppy)
 > `get on` /ɡet ɑːn/                ([Neutral] 取り掛かる)          I'll get on it right away.
   - `get started on`                ([Neutral] 着手する、始める)    Let's get started on the analysis.
   - `get to` /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
@@ -45,6 +45,19 @@
 > `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
   - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
   - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
+> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+  - `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+  - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
+  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
+> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
+  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
+  - `be half-hearted`               ([Neutral] やる気のない)        His effort was half-hearted.
+> `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
+  - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
+> `be put into effect`              ([Neutral] 実施する 発効させる) The new law was put into effect.
 
 ## SUCCESS (It worked out / I made it in time / It paid off)
 > `work out` /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
@@ -73,7 +86,7 @@
 > `pay off` /peɪ ɔːf/               ([Neutral] 報われる)            All that hard work paid off.
   - `bear fruit` /ber fruːt/        ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
 
-## STEP (I'll start off by / Let's move on to / TAKE OVER)
+## STEP (I'll start off by / Let's move on to)
 > `start off with` /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
   - `begin with` /bɪˈɡɪn wɪð/       ([Neutral] ～で始める)          Begin with the basics.
   - `kick off with` /kɪk ɔːf wɪð/   ([Casual] ～で始める)           Let's kick off with introductions.
@@ -99,65 +112,7 @@
   - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
   - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
 
-## TASK (CUT CORNERS / BE SLOPPY)
-> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
-  - `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
-  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
-  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
-  - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
-  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
-  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
-> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
-  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
-  - `be half-hearted`               ([Neutral] やる気のない)        His effort was half-hearted.
-> `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
-  - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
-> `be put into effect`              ([Neutral] 実施する 発効させる) The new law was put into effect.
-
-## BEHAVIOR (HUSTLE / GET BETTER / SWING BY)
-> `hustle` /ˈhʌsəl/                 ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
-  - `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
-  - `dash` /dæʃ/                    ([Neutral] 急いで走る)          I need to dash to the store.
-  - `scramble` /ˈskræmbəl/          ([Neutral] よじ登る、慌てる)    Everyone scrambled to finish on time.
-  - `scurry` /ˈskɜːri/              ([Neutral] あわただしく動く)    Mice scurried across the floor.
-  - `bustle` /ˈbʌsəl/               ([Neutral] 忙しく動き回る)      She bustled around the kitchen.
-  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
-> `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
-  - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
-  - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
-  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、良くなる)  His condition is improving daily.
-  - `recover` /rɪˈkʌvər/            ([Neutral] 回復する)            She recovered from the illness.
-  - `heal` /hiːl/                   ([Neutral] 癒える、治る)        The wound will heal in time.
-  - `pick up` /pɪk ʌp/              ([Casual] 回復する、元気になる) She's starting to pick up now.
-  - `bounce back` /baʊns bæk/       ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
-  - `be on the mend` /ɒn ðə mend/   ([Casual] 回復中)               He's on the mend now.
-  - `pull through` /pʊl θruː/       ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
-  - `get back on one's feet`        ([Casual] 立ち直る)             It took months to get back on his feet.
-  - `turn the corner`               ([Neutral] 峠を越える)          The patient has turned the corner.
-  - `come around` /kʌm əˈraʊnd/     ([Neutral] 意識を取り戻す)      He came around after the surgery.
-  - `perk up` /pɜːk ʌp/             ([Casual] 元気を取り戻す)       She perked up after some rest.
-  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
-  - `recuperate` /rɪˈkuːpəreɪt/     ([Formal] 回復する、療養する)   He's recuperating at home.
-  - `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
-  - `revive` /rɪˈvaɪv/              ([Medical] 蘇生する、復活する)  The paramedics revived him.
-  - `rally` /ˈræli/                 ([Medical] 持ち直す)            The patient rallied overnight.
-  - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
-  - `recoup` /rɪˈkuːp/              ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
-  - `be in remission` /rɪˈmɪʃən/    ([Medical] 寛解、軽快)          The cancer is in remission.
-  - `rehabilitate` /ˌriːəˈbɪlɪteɪt/ ([Formal] リハビリする)         They rehabilitated his injured knee.
-  - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
-  - `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
-  - `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養す 回復期にある) She's convalescing after surgery.
-> `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
-  - `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
-  - `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
-  - `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
-  - `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
-  - `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
-> `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
-> `come around to`                  ([Neutral] に同意する)          He came around to my way of thinking.
-
-## TRAITS (BE RELATED TO / HAVE SOMETHING TO DO WITH / HAVE THINGS IN COMMON / COME DOWN TO / BE AVAILABLE)
+## TRAITS (is related to / have something to do with / 
 > `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
   - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
   - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
@@ -198,34 +153,20 @@
   - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
   - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
 
-## COGNITIVE (GO OVER ONE'S HEAD)
-> `go over ~'s head`                ([Neutral] 理解を超える)        The joke went over my head.
+## COGNITIVE (I don't get it)
+> `not get` /nɑːt ɡet/              ([Casual] 理解できない)         I don't get it.
+  - `not understand`                ([Neutral] 理解できない)        I don't understand this part.
+  - `not make sense`                ([Neutral] 意味がわからない)    It doesn't make sense to me.
+  - `be confused`                   ([Neutral] 混乱している)        I'm confused about the process.
+  - `be lost`                       ([Neutral] ついていけない)      I'm lost in this discussion.
+  - `not follow`                    ([Neutral] ついていけない)      I can't follow your logic.
+  - `have no idea`                  ([Casual] 全くわからない)       I have no idea what you mean.
+  - `not sure one follows`          ([Formal] ついていけていない)   I'm not sure I follow.
+  - `have trouble understanding`    ([Neutral] 理解に苦労する)      I'm having trouble understanding this.
+  - `go over ~'s head`              ([Neutral] 理解を超える)        The joke went over my head.
+  - `not grasp` /nɑːt ɡræsp/        ([Neutral] つかめない)          I can't grasp the concept.
   - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
+  - `not wrap one's head around`    ([Casual] 理解できない)         I can't wrap my head around it.
+  - `be completely lost`            ([Casual] 完全にわからない)     I'm completely lost.
   - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
   - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
-
-## CHANGE (DECREASE)
-> `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
-  - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
-  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
-  - `diminish` /dɪˈmɪnɪʃ/           ([Neutral] 減少する)            The threat has diminished.
-  - `dwindle` /ˈdwɪndəl/            ([Neutral] 減少する)            Their savings dwindled to nothing.
-  - `taper` /ˈteɪpər/               ([Neutral] 徐々に減る)          We'll taper off the medication.
-> `decline` /dɪˈklaɪn/              ([Neutral] 衰える)              Her health has been declining.
-  - `fade` /feɪd/                   ([Neutral] 薄れる)              The light faded gradually.
-  - `shrink` /ʃrɪŋk/                ([Neutral] 縮小する)            The market has shrunk considerably.
-  - `wane` /weɪn/                   ([Neutral] 衰える)              Her enthusiasm waned rapidly.
-  - `recede` /rɪˈsiːd/              ([Formal] 後退する)             The prospect of bankruptcy receded.
-  - `ebb` /eb/                      ([Writing] 引く、衰える)        His life is gradually ebbing.
-> `ease` /iːz/                      ([Neutral] 和らぐ)              The pain will ease soon.
-  - `let up` /let ʌp/               ([Casual] 和らぐ、弱まる)       The rain finally let up.
-  - `die down` /daɪ daʊn/           ([Casual] 静まる、弱まる)       The noise died down eventually.
-  - `subside` /səbˈsaɪd/            ([Formal] 和らぐ)               The pain gradually subsided.
-  - `abate` /əˈbeɪt/                ([Formal] 和らぐ)               We waited for the wind to abate.
-  - `lessen` /ˈlesən/               ([Neutral] 和らぐ、減る)        The symptoms lessened over time.
-  - `soften` /ˈsɒfən/               ([Neutral] 和らぐ 柔らかくなる) Her expression softened slightly.
-> `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
-  - `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
-  - `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
-> `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
-> `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
