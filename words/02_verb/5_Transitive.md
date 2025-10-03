@@ -505,3 +505,8 @@
   - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
   - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
   - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
+> `clinch` /klɪnt͡ʃ/                 ([Neutral] 確実にする、獲得する) They clinched the championship.
+  - `clincher` /ˈklɪntʃər/          ([Neutral] 決め手、決定的なもの) That was the clincher for me.
+  - `secure` /səˈkjʊɹ/              ([Neutral] 確保する、獲得する)  We secured the contract.
+  - `seal` /siːl/                   ([Neutral] 確定する、封じる)    They sealed the deal.
+  - `wrap up` /ɹæp ʌp/              ([Casual] 完了する、決める)     Let's wrap up this project.

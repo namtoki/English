@@ -79,6 +79,7 @@
 - `at short notice`                 ([British] 急に、短期間で)      We had to leave at short notice.
 - `into` /ˈɪntuː/                   ([Neutral] 〜に入って)          Three minutes into the game, Okazaki scored.
 - `followed by` /ˈfɑːloʊd baɪ/      ([Neutral] その後)             Lightning flashed, followed by loud thunder.
+- `back to back` /bæk tə bæk/       ([Neutral] 連続して)            We have two meetings back to back.
 - `by the time S V` /baɪ ðə taɪm/   ([Neutral] するときまでに)     By the time I woke up, the snow had stopped.
 - `no later than N`                 ([Formal] までには)            Submit your assignment no later than 5 PM on June 10.
 - `by N at the latest`              ([Formal] 遅くとも)            Estimate the losses by Friday at the latest.

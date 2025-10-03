@@ -111,6 +111,13 @@
   - `filmy` /ˈfɪlmi/                ([Writing] 薄膜のような)        A filmy layer.
   - `wispy` /ˈwɪspi/                ([Neutral] か細い、薄い)        Wispy clouds.
   - `delicate` /ˈdelɪkət/           ([Neutral] 繊細な、薄い)        Delicate fabric.
+  - `sensual` /ˈsɛn.ʃu.əl/          ([Neutral] 官能的な、感覚的な)  Sensual music filled the room.
+    - `sensuality` /ˌsɛn.ʃuˈæl.ɪ.ti/ ([Neutral] 官能性、肉欲)        The sensuality of the dance was captivating.
+    - `sensually` /ˈsɛnʃuəli/        ([Neutral] 官能的に)            The fabric draped sensually.
+  - `sensuous` /ˈsɛnʃuəs/           ([Neutral] 感覚的な、官能的な)  Sensuous music played softly.
+  - `voluptuous` /vəˈlʌp.t͡ʃu.əs/    ([Neutral] 官能的な、豊満な)    A voluptuous figure.
+  - `erotic` /ɪˈɹɑtɪk/              ([Neutral] エロティックな)      The erotic artwork was controversial.
+  - `carnal` /ˈkɑɹnəl/              ([Formal] 肉欲的な、肉体的な)   Carnal desires.
   - `robust` /roʊˈbʌst/             ([Neutral] 頑丈な、厚い)        A robust frame.
   - `flimsy` /ˈflɪmzi/              ([Neutral] 薄っぺらな)          A flimsy excuse.
   - `solid` /ˈsɑːlɪd/               ([Neutral] 固体の、厚い)        Solid walls.

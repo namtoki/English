@@ -6,6 +6,7 @@
   - `redundantly` /rɪˈdʌndəntli/      ([Formal] 冗長に)                The phrase was redundantly repeated.
 - `superfluous` /suːˈpɜːrfluəs/       ([Formal] 余分な、不要な)        The details were superfluous.
 - `unnecessary` /ʌnˈnesəseri/         ([Neutral] 不要な、無用な)       That comment was unnecessary.
+- `uncalled for` /ʌnˈkɔld.foɹ/        ([Neutral] 不当な、不必要な)     That remark was uncalled for.
 - `excessive` /ɪkˈsesɪv/             ([Neutral] 過度な、過剰な)       The noise was excessive.
 - `over the top`                    ([Casual] 過度な、大げさな)      His reaction was over the top.
 - `exaggerated` /ɪɡˈzædʒəreɪtɪd/   ([Neutral] 誇張された)          The story was exaggerated.

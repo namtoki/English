@@ -44,6 +44,9 @@
   - `sneakiness` /ˈsniːkinəs/       ([Casual] こっそりした行為)      His sneakiness made everyone suspicious.
   - `discretion` /dɪˈskreʃən/       ([Formal] 慎重さ、判断力)        She handled the matter with discretion.
   - `cunning` /ˈkʌnɪŋ/              ([Neutral] 狡猾さ、巧妙さ)       His cunning helped him avoid detection.
+- `roster` /ˈɹɑ.stɚ/              ([Neutral] 名簿、メンバー表)     Check the roster for assignments.
+- `register` /ˈɹɛd͡ʒ.ɪ.stɚ/        ([Neutral] 名簿、登録簿)         Sign the register at the desk.
+- `schedule` /ˈskɛd͡ʒʊl/            ([Neutral] 予定表、スケジュール)  Check your schedule for the meeting.
 
 ## CONTAINERS
 - `pail` /peɪl/                     ([Neutral] バケツ、桶)           She carried water in a pail.
