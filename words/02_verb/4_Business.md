@@ -1,31 +1,33 @@
-# Intransitive
+# Business
 
-## TASK (GET STARTED ON / START OFF / MAKE PROGRESS / BE IN PROGRESS / BE NEARLY DONE / WORK OUT / MAKE IT / PAY OFF / MOVE ON / TAKE OVER)
-> `get started on`                  ([Neutral] 着手する、始める)    Let's get started on the analysis.
+## TASK (I'll get on it / I'm working on it / We've made some progress / I'll take over)
+> `get on` /ɡet ɑːn/                ([Neutral] 取り掛かる)          I'll get on it right away.
+  - `get started on`                ([Neutral] 着手する、始める)    Let's get started on the analysis.
   - `get to` /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
   - `get down to` /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
   - `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
-  - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
   - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
-  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
   - `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
   - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
   - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] [すぐ] 飛び込む)        Let's jump into the discussion.
   - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
   - `set about` /set əˈbaʊt/        ([Neutral] [計画的] 取り掛かる)   Let's set about solving this.
   - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
-> `start off with` /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
-  - `begin with` /bɪˈɡɪn wɪð/       ([Neutral] ～で始める)          Begin with the basics.
-  - `kick off with` /kɪk ɔːf wɪð/   ([Casual] ～で始める)           Let's kick off with introductions.
-  - `lead off with` /liːd ɔːf wɪð/  ([Neutral] ～で始める)          She led off with a joke.
-  - `open with` /ˈoʊpən wɪð/        ([Neutral] ～で始める)          The show opened with a song.
-  - `commence with` /kəˈmens wɪð/   ([Formal] ～で始める)           The ceremony commenced with a speech.
-> `start off by` /stɑːrt ɔːf baɪ/   ([Neutral] ～することから始る)  Start off by reading the instructions.
-  - `begin by` /bɪˈɡɪn baɪ/         ([Neutral] ～することから始る)  Begin by understanding the problem.
-  - `kick off by` /kɪk ɔːf baɪ/     ([Casual] ～することから始める) We'll kick off by reviewing last week.
-  - `lead off by` /liːd ɔːf baɪ/    ([Neutral] ～することから始る)  He led off by thanking everyone.
-  - `open by` /ˈoʊpən baɪ/          ([Neutral] ～することから始る)  Open by stating your name.
-  - `commence by` /kəˈmens baɪ/     ([Formal] ～することから始める) Commence by reading the instructions.
+  - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
+  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
+> `work on` /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
+  - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
+  - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
+  - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
+  - `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
+  - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する、取り組む)  We're focusing on this problem.
+  - `work through` /wɜːrk θruː/     ([Neutral] やり抜く、解決する)  We're working through the issues.
+  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
+  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'm attending to this matter.
+  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We're engaging with the challenge.
+  - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
+  - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
+  - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He's applying himself to the task.
 > `make progress`                   ([Neutral] 進捗する、前進する)  We're making progress on the project.
   - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
   - `get     results`               ([Neutral] 結果を出す 成果を得) Our new strategy is getting results.
@@ -35,11 +37,16 @@
   - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 進展する、前進する)  We're making headway on the problem.
   - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
   - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
-  - `be at the halfway point`       ([Neutral] 半分の地点にいる)    We're at the halfway point.
 > `be in progress`                  ([Neutral] 進行中である)        The update is in progress.
   - `be well underway`              ([Neutral] 順調に進行中)        The project is well underway.
+  - `be at the halfway point`       ([Neutral] 半分の地点にいる)    We're at the halfway point.
 > `be nearly done`                  ([Neutral] ほぼ終わっている)    The task is nearly done.
   - `be almost finished`            ([Neutral] ほとんど終わっている) We're almost finished with testing.
+> `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
+  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
+  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
+
+## SUCCESS (It worked out / I made it in time / It paid off)
 > `work out` /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
   - `work out well`                 ([Neutral] うまくいく)          The meeting worked out well.
   - `go well` /ɡoʊ wel/             ([Neutral] 順調にいく)          The project is going well.
@@ -65,6 +72,20 @@
   - `show up on time`               ([Casual] 時間通りに現れる)     Please show up on time tomorrow.
 > `pay off` /peɪ ɔːf/               ([Neutral] 報われる)            All that hard work paid off.
   - `bear fruit` /ber fruːt/        ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
+
+## STEP (I'll start off by / Let's move on to / TAKE OVER)
+> `start off with` /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
+  - `begin with` /bɪˈɡɪn wɪð/       ([Neutral] ～で始める)          Begin with the basics.
+  - `kick off with` /kɪk ɔːf wɪð/   ([Casual] ～で始める)           Let's kick off with introductions.
+  - `lead off with` /liːd ɔːf wɪð/  ([Neutral] ～で始める)          She led off with a joke.
+  - `open with` /ˈoʊpən wɪð/        ([Neutral] ～で始める)          The show opened with a song.
+  - `commence with` /kəˈmens wɪð/   ([Formal] ～で始める)           The ceremony commenced with a speech.
+> `start off by` /stɑːrt ɔːf baɪ/   ([Neutral] ～することから始る)  Start off by reading the instructions.
+  - `begin by` /bɪˈɡɪn baɪ/         ([Neutral] ～することから始る)  Begin by understanding the problem.
+  - `kick off by` /kɪk ɔːf baɪ/     ([Casual] ～することから始める) We'll kick off by reviewing last week.
+  - `lead off by` /liːd ɔːf baɪ/    ([Neutral] ～することから始る)  He led off by thanking everyone.
+  - `open by` /ˈoʊpən baɪ/          ([Neutral] ～することから始る)  Open by stating your name.
+  - `commence by` /kəˈmens baɪ/     ([Formal] ～することから始める) Commence by reading the instructions.
 > `move on to` /muːv ɑːn tuː/       ([Neutral] 次に進む、移る)      Let's move on to the next topic.
   - `go to` /ɡoʊ tuː/               ([Neutral] 移る、向かう)        Let's go to the next agenda item.
   - `move to` /muːv tuː/            ([Neutral] 移る、移動する)      Let's move to the next agenda item.
@@ -77,9 +98,6 @@
   - `advance to` /ədˈvæns tuː/      ([Formal] 進む、前進する)       Let's advance to the next agenda item.
   - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
   - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
-> `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
-  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
-  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
 
 ## TASK (CUT CORNERS / BE SLOPPY)
 > `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.

@@ -5,8 +5,8 @@
 - 02_verb/1_SVC.md - SVC 文型の動詞
 - 02_verb/2_SVOC.md - SVOC 文型の動詞
 - 02_verb/3_SVOO.md - SVOO 文型の動詞
-- 02_verb/4_Intransitive.md - 自動詞ならびにそう考えると楽な動詞
-- 02_verb/5_Transitive.md - 他動詞ならびにそう考えると楽な動詞
+- 02_verb/4_Business.md - SV, SVO 文型の動詞の内、ビジネス英会話よりの表現
+- 02_verb/5_Common.md - SV, SVO 文型の動詞のその他の表現
 - 03_adjective_noun/appearance.md - 服装・外見に関する名詞、形容詞
 - 03_adjective_noun/status.md - 対象の状態を表す名詞、形容詞
 - 03_adjective_noun/assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞

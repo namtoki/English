@@ -1,4 +1,4 @@
-# Transitive
+# Common
 
 ## TASK (GET READY FOR / SORT OUT / LOOK INTO)
 > `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
@@ -414,19 +414,6 @@
   - `verify` /ˈvɛrɪfaɪ/             ([Formal] 検証する、確認する)   Please verify your email address.
   - `validate` /ˈvælɪdeɪt/          ([Formal] 検証する、妥当性確認) The system will validate your input.
   - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
-> `work on` /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
-  - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
-  - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
-  - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
-  - `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
-  - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する、取り組む)  We're focusing on this problem.
-  - `work through` /wɜːrk θruː/     ([Neutral] やり抜く、解決する)  We're working through the issues.
-  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
-  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'm attending to this matter.
-  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We're engaging with the challenge.
-  - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
-  - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
-  - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He's applying himself to the task.
 > `carry on` /ˈkæri ɑːn/            ([Neutral] 続ける、継続する)    We'll carry on despite the setbacks.
   - `carry on with` /ˈkæri ɑːn wɪð/ ([Neutral] 続ける、継続する)    We'll carry on with the project despite the challenges.
   - `continue` /kənˈtɪnjuː/         ([Neutral] 続ける、継続する)    Let's continue with the meeting.
