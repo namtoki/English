@@ -1,6 +1,6 @@
 # Aux
 
-## + V 原型
+## + V 原型 (GOTTA / BE SUPPOSED TO / BE GONNA / WAS GONNA)
 > `gotta` /ˈɡɑːtə/                  ([Casual] ～しなきゃ)           I gotta go now.
   - `I had better` /aɪ hæd ˈbetər/  ([Casual] しなきゃ)             I had better get going.
   - `have got to` /hæv ɡɑːt tuː/    ([Casual] ～しなきゃ)           I've got to finish this tonight.
@@ -11,9 +11,6 @@
   - `ought to` /ɔːt tuː/            ([Formal] ～すべきだ)           You ought to apologize.
   - `better` /ˈbetər/               ([Casual] ～したほうがいい)     You better hurry up.
   - `had better` /hæd ˈbetər/       ([Neutral] ～したほうがいい)    You had better be careful.
-> `finally get to`                  ([Neutral] ついに～する)        I finally got to meet her.
-  - `get down to` /ɡet daʊn tuː/    ([Neutral] 本格的に取り掛かる)  Let's get down to business.
-  - `get around to` /ɡet əˈraʊnd tuː([Neutral] 先延ばし やっとする) I'll get around to fixing it soon.
 > `be supposed to` /səˈpoʊzd tuː/   ([Neutral] ～することになてる)  I'm supposed to meet him at 3.
   - `be expected to` /ɪkˈspektɪd tuː([Neutral] ～が期待される)      You're expected to be on time.
   - `be required to` /rɪˈkwaɪərd tuː([Formal] ～が要求される)       Students are required to attend.
@@ -33,6 +30,11 @@
   - `was supposed to`               ([Neutral] するはずだった)      She was supposed to be here by now.
   - `was going to` /wəz ˈɡoʊɪŋ tuː/ ([Neutral] するつもりだった)    I was going to call but forgot.
   - `meant to` /ment tuː/           ([Neutral] ～するつもりだった)  I meant to call you earlier.
+
+## + V 原型 (FINALLY GET TO / USED TO / STILL MANAGE TO / HAVE NO CHOICE BUT TO / OBLIGATED TO)
+> `finally get to`                  ([Neutral] ついに～する)        I finally got to meet her.
+  - `get down to` /ɡet daʊn tuː/    ([Neutral] 本格的に取り掛かる)  Let's get down to business.
+  - `get around to` /ɡet əˈraʊnd tuː([Neutral] 先延ばし やっとする) I'll get around to fixing it soon.
 > `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
 > `still manage to`                 ([Neutral] それでもしてしまう)  I still manage to make mistakes.
 > `have no choice but to`           ([Neutral] 選択肢がない)        I have no choice but to quit.
@@ -41,7 +43,7 @@
 > `obligated to` /ˈɑːblɪɡeɪtɪd tuː/ ([Formal] ～する義務がある)     I feel obligated to help.
   - `obliged to` /əˈblaɪdʒd tuː/    ([Formal] ～する義務がある)     You're obliged to report it.
 
-## + V-ing
+## + V-ing (ENDED UP / COME CLOSE TO)
 > `ended up -ing` /end ʌp/          ([Neutral] 結局〜した)          I ended up staying home all day.
 > `come close to -ing`              ([Neutral] 危うくしそうになる)  I came close to missing my flight.
   - `be on the verge of` /vɜːrdʒ/   ([Neutral] ～の寸前)            She's on the verge of tears.
@@ -101,7 +103,7 @@
   - `it's useless to`               ([Neutral] ～するのは無駄)      It's useless to complain.
   - `it's wasteful to`              ([Neutral] ～するのは無駄)      It's wasteful to throw that away.
 
-## It V that S V
+## It V that S V (IT CROSSES ONE'S MIND)
 > `It crosses one's mind`           ([Casual] 頭をよぎる)           It never crossed my mind.
   - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
   - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.

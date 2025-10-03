@@ -206,5 +206,8 @@
   - `abate` /əˈbeɪt/                ([Formal] 和らぐ)               We waited for the wind to abate.
   - `lessen` /ˈlesən/               ([Neutral] 和らぐ、減る)        The symptoms lessened over time.
   - `soften` /ˈsɒfən/               ([Neutral] 和らぐ 柔らかくなる) Her expression softened slightly.
+> `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
+  - `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
+  - `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
 > `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
 > `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
