@@ -9,6 +9,3 @@
   - 例えば、difficult なら difficulty など
 1. 入力された英単語/英熟語と似ている表現を最大 5 個調査し、これらも同じく上記手順 2, 3 を実施する。
   - ただし `words/script` `words/temp` 以下のファイルは対象外とする
-1. `words/temp/pool.md` 中に手順 1~7 までで新規追加した英単語の行があれば、その該当行を `words/temp/pool.md` から消す
-1. コンソール上に、`words/temp/pool.md` の行数を表示する
-

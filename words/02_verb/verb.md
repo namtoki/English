@@ -1,30 +1,5 @@
 # Verb
 
-> `quit` /kwɪt/                     ([Casual] 辞める)               I quit my job yesterday.
-  - `leave` /liːv/                  ([Neutral] 去る、辞める)        She's leaving the company.
-  - `resign` /rɪˈzaɪn/              ([Neutral] 辞任する)            She resigned from her position.
-  - `retire` /rɪˈtaɪər/             ([Neutral] 退職する、引退する)  He retired after 30 years.
-  - `step down` /step daʊn/         ([Neutral] 退く)                The CEO will step down next month.
-  - `walk away` /wɔːk əˈweɪ/        ([Casual] 立ち去る、辞める)     He walked away from the deal.
-  - `give up` /ɡɪv ʌp/              ([Neutral] 諦める、辞める)      Don't give up your dreams.
-  - `bow out` /baʊ aʊt/             ([Neutral] 身を引く)            She bowed out gracefully.
-  - `withdraw` /wɪðˈdrɔː/           ([Neutral] 撤退する、引く)      They withdrew from the competition.
-  - `vacate` /veɪˈkeɪt/             ([Formal] 明け渡す、退去する)   Please vacate the premises.
-  - `depart` /dɪˈpɑːrt/             ([Formal] 去る、出発する)       The director departed suddenly.
-  - `exit` /ˈeɡzɪt/                 ([Neutral] 退場する、辞める)    He exited the business.
-  - `abandon` /əˈbændən/            ([Neutral] 放棄する、見捨てる)  They abandoned the project.
-  - `surrender` /səˈrendər/         ([Neutral] 降伏する、明け渡す)  He surrendered his position.
-  - `renounce` /rɪˈnaʊns/           ([Formal] 放棄する)             He renounced his claim to the throne.
-  - `relinquish` /rɪˈlɪŋkwɪʃ/       ([Formal] 手放す)               She relinquished control of the company.
-  - `abdicate` /ˈæbdɪkeɪt/          ([Formal] 退位する)             The king abdicated the throne.
-  - `step aside` /step əˈsaɪd/      ([Neutral] 身を引く、譲る)      He stepped aside for younger talent.
-  - `hand over` /hænd ˈoʊvər/       ([Neutral] 引き渡す)            She handed over her responsibilities.
-  - `turn in` /tɜːrn ɪn/            ([Casual] 提出する、辞める)     He turned in his badge.
-  - `call it quits` /kɔːl ɪt kwɪts/ ([Casual] やめる、終わりにする) Let's call it quits for today.
-  - `throw in the towel`            ([Casual] 諦める、降参する)     He threw in the towel after years of trying.
-  - `cede` /siːd/                   ([Formal] 譲渡する)             They ceded territory to the enemy.
-  - `forfeit` /ˈfɔːrfɪt/            ([Neutral] 没収される、失う)    He forfeited his rights.
-  - `waive` /weɪv/                  ([Formal] 放棄する、免除する)   She waived her claim to the property.
 > `spend` /spend/                   ([Neutral] 使う、費やす)        I spend too much on clothes.
   - `pay for` /peɪ fɔː/             ([Neutral] 支払う)              I'll pay for dinner tonight.
   - `afford` /əˈfɔːd/               ([Neutral] 余裕がある)          Can you afford a new car?

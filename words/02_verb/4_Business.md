@@ -1,11 +1,18 @@
 # Business
 
-## TASK (I'll get on it / I'm working on it / We've made some progress / I'll take over / cut corners / sloppy)
+## TASK (I'll take over / I'm in charge of / I'll get on it / I'm working on it / We've made some progress)
+> `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
+  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
+  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
+> `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
+  - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
 > `get on` /ɡet ɑːn/                ([Neutral] 取り掛かる)          I'll get on it right away.
   - `get started on`                ([Neutral] 着手する、始める)    Let's get started on the analysis.
   - `get to` /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
+    - `finally get to`              ([Neutral] ついに～する)        I finally got to meet her.
   - `get down to` /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
   - `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
+  - `get around to` /ɡet əˈraʊnd tuː([Neutral] [先延ばし] やっとする) I'll get around to fixing it soon.
   - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
   - `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
   - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
@@ -41,41 +48,25 @@
   - `be well underway`              ([Neutral] 順調に進行中)        The project is well underway.
   - `be at the halfway point`       ([Neutral] 半分の地点にいる)    We're at the halfway point.
 > `be nearly done`                  ([Neutral] ほぼ終わっている)    The task is nearly done.
-  - `be almost finished`            ([Neutral] ほとんど終わっている) We're almost finished with testing.
-> `take over` /teɪk ˈoʊvər/         ([Neutral] 引き継ぐ 引き受ける) I'll take over from here.
-  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
-  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
-> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
-  - `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
-  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
-  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
-  - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
-  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
-  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
-> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
-  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
-  - `be half-hearted`               ([Neutral] やる気のない)        His effort was half-hearted.
-> `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
-  - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
-> `be put into effect`              ([Neutral] 実施する 発効させる) The new law was put into effect.
+  - `be almost finished`            ([Neutral] ほとんど終わている)  We're almost finished with testing.
 
-## SUCCESS (It worked out / I made it in time / It paid off)
+## SUCCESS (It worked out / It is finally coming together / I made it in time / It paid off)
 > `work out` /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
   - `work out well`                 ([Neutral] うまくいく)          The meeting worked out well.
   - `go well` /ɡoʊ wel/             ([Neutral] 順調にいく)          The project is going well.
   - `pull it off`                   ([Casual] やり遂げる、成功する) He pulled off an amazing performance.
-  - `come through` /kʌm θruː/       ([Neutral] うまくいく、成功する) She came through when it mattered.
+  - `come through` /kʌm θruː/       ([Neutral] うまくいく 成功する) She came through when it mattered.
+  - `get through` /ɡet θruː/        ([Casual] 切り抜ける)           We'll get through this together.
   - `pan out` /pæn aʊt/             ([Neutral] うまくいく)          Let's see how it pans out.
   - `come off` /kʌm ɔːf/            ([Neutral] 成功する)            The event came off perfectly.
   - `prevail` /prɪˈveɪl/            ([Formal] 勝つ、成功する)       We will prevail despite the challenges.
   - `triumph` /ˈtraɪʌmf/            ([Formal] 勝利する、成功する)   The team triumphed over adversity.
-  - `get through` /ɡet θruː/        ([Casual] 切り抜ける)           We'll get through this together.
   - `turn out well`                 ([Neutral] 結果的にうまくいく)  Everything turned out well.
   - `turn out fine`                 ([Neutral] 結果的に良い)        Don't worry, it'll turn out fine.
   - `turn out right`                ([Neutral] 正しく仕上がる)      I hope the recipe turns out right.
+> `come together`                   ([Neutral] まとまる)            The project is finally coming together.
   - `fall into place`               ([Neutral] うまくまとまる)      The presentation is falling into place.
-  - `come together`                 ([Neutral] まとまる)            The project is finally coming together.
-  - `click` /klɪk/                  ([Casual] うまくいく、合う)     Everything just clicked into place.
+  - `click into place`              ([Casual] うまくいく、合う)     Everything just clicked into place.
   - `gel` /dʒel/                    ([Casual] うまく合う)           The team is starting to gel.
   - `mesh` /meʃ/                    ([Neutral] うまく合う)          Their ideas mesh perfectly.
   - `fit together`                  ([Neutral] うまく合う)          The pieces fit together perfectly.
@@ -170,3 +161,20 @@
   - `be completely lost`            ([Casual] 完全にわからない)     I'm completely lost.
   - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
   - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
+
+## TASK (cut corners / sloppy)
+> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+  - `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+  - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
+  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
+> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
+  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
+  - `be half-hearted`               ([Neutral] やる気のない)        His effort was half-hearted.
+> `be put into effect`              ([Neutral] 実施する 発効させる) The new law was put into effect.
+
+  - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
+  - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
+

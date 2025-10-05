@@ -31,17 +31,17 @@
   - `was going to` /wəz ˈɡoʊɪŋ tuː/ ([Neutral] するつもりだった)    I was going to call but forgot.
   - `meant to` /ment tuː/           ([Neutral] ～するつもりだった)  I meant to call you earlier.
 
-## + V 原型 (FINALLY GET TO / USED TO / STILL MANAGE TO / HAVE NO CHOICE BUT TO / OBLIGATED TO)
-> `finally get to`                  ([Neutral] ついに～する)        I finally got to meet her.
-  - `get down to` /ɡet daʊn tuː/    ([Neutral] 本格的に取り掛かる)  Let's get down to business.
-  - `get around to` /ɡet əˈraʊnd tuː([Neutral] 先延ばし やっとする) I'll get around to fixing it soon.
+## + V 原型 (USED TO / STILL MANAGE TO / HAVE NO CHOICE BUT TO / OBLIGATED TO)
 > `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
 > `still manage to`                 ([Neutral] それでもしてしまう)  I still manage to make mistakes.
 > `have no choice but to`           ([Neutral] 選択肢がない)        I have no choice but to quit.
   - `forced to` /fɔːrst tuː/        ([Neutral] ～を強いられる)      I was forced to leave early.
   - `compelled to` /kəmˈpeld tuː/   ([Formal] ～せざるを得ない)     I felt compelled to speak up.
-> `obligated to` /ˈɑːblɪɡeɪtɪd tuː/ ([Formal] ～する義務がある)     I feel obligated to help.
-  - `obliged to` /əˈblaɪdʒd tuː/    ([Formal] ～する義務がある)     You're obliged to report it.
+> `be obligated to` /ˈɑːblɪɡeɪtɪd/  ([Formal] ～する義務がある)     I feel obligated to help.
+  - `be obliged to` /əˈblaɪdʒd tuː/ ([Formal] ～する義務がある)     You're obliged to report it.
+  - `be bound to` /baʊnd tuː/       ([Formal] ～する義務がある)     You're bound to follow the rules.
+  - `be duty-bound to`              ([Formal] ～する義務がある)     I'm duty-bound to report this.
+  - `be mandated to` /ˈmændeɪtɪd/   ([Formal] ～を義務付けられる)   We're mandated to comply.
 
 ## + V-ing (ENDED UP / COME CLOSE TO)
 > `ended up -ing` /end ʌp/          ([Neutral] 結局〜した)          I ended up staying home all day.

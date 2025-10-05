@@ -8,6 +8,16 @@
   - `scurry` /ˈskɜːri/              ([Neutral] あわただしく動く)    Mice scurried across the floor.
   - `bustle` /ˈbʌsəl/               ([Neutral] 忙しく動き回る)      She bustled around the kitchen.
   - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
+> `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
+  - `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
+  - `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
+  - `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
+  - `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
+  - `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
+> `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
+> `come around to`                  ([Neutral] に同意する)          He came around to my way of thinking.
+
+## CHANGE (DECREASE)
 > `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
   - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
   - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
@@ -34,16 +44,6 @@
   - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
   - `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
   - `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養す 回復期にある) She's convalescing after surgery.
-> `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
-  - `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
-  - `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
-  - `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
-  - `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
-  - `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
-> `stuck with` /stʌk wɪð/           ([Casual] ～で身動き取れない)   I'm stuck with this decision.
-> `come around to`                  ([Neutral] に同意する)          He came around to my way of thinking.
-
-## CHANGE (DECREASE)
 > `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
   - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
   - `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
@@ -68,6 +68,33 @@
   - `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
 > `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
 > `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
+
+> `quit` /kwɪt/                     ([Casual] 辞める)               I quit my job yesterday.
+  - `leave` /liːv/                  ([Neutral] 去る、辞める)        She's leaving the company.
+  - `resign` /rɪˈzaɪn/              ([Neutral] 辞任する)            She resigned from her position.
+  - `retire` /rɪˈtaɪər/             ([Neutral] 退職する、引退する)  He retired after 30 years.
+  - `step down` /step daʊn/         ([Neutral] 退く)                The CEO will step down next month.
+  - `walk away` /wɔːk əˈweɪ/        ([Casual] 立ち去る、辞める)     He walked away from the deal.
+  - `give up` /ɡɪv ʌp/              ([Neutral] 諦める、辞める)      Don't give up your dreams.
+  - `bow out` /baʊ aʊt/             ([Neutral] 身を引く)            She bowed out gracefully.
+  - `withdraw` /wɪðˈdrɔː/           ([Neutral] 撤退する、引く)      They withdrew from the competition.
+  - `vacate` /veɪˈkeɪt/             ([Formal] 明け渡す、退去する)   Please vacate the premises.
+  - `depart` /dɪˈpɑːrt/             ([Formal] 去る、出発する)       The director departed suddenly.
+  - `exit` /ˈeɡzɪt/                 ([Neutral] 退場する、辞める)    He exited the business.
+  - `abandon` /əˈbændən/            ([Neutral] 放棄する、見捨てる)  They abandoned the project.
+  - `surrender` /səˈrendər/         ([Neutral] 降伏する、明け渡す)  He surrendered his position.
+  - `renounce` /rɪˈnaʊns/           ([Formal] 放棄する)             He renounced his claim to the throne.
+  - `relinquish` /rɪˈlɪŋkwɪʃ/       ([Formal] 手放す)               She relinquished control of the company.
+  - `abdicate` /ˈæbdɪkeɪt/          ([Formal] 退位する)             The king abdicated the throne.
+  - `step aside` /step əˈsaɪd/      ([Neutral] 身を引く、譲る)      He stepped aside for younger talent.
+  - `hand over` /hænd ˈoʊvər/       ([Neutral] 引き渡す)            She handed over her responsibilities.
+  - `turn in` /tɜːrn ɪn/            ([Casual] 提出する、辞める)     He turned in his badge.
+  - `call it quits` /kɔːl ɪt kwɪts/ ([Casual] やめる、終わりにする) Let's call it quits for today.
+  - `throw in the towel`            ([Casual] 諦める、降参する)     He threw in the towel after years of trying.
+  - `cede` /siːd/                   ([Formal] 譲渡する)             They ceded territory to the enemy.
+  - `forfeit` /ˈfɔːrfɪt/            ([Neutral] 没収される、失う)    He forfeited his rights.
+  - `waive` /weɪv/                  ([Formal] 放棄する、免除する)   She waived her claim to the property.
+
 ## TASK (GET READY FOR / SORT OUT / LOOK INTO)
 > `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
   - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
