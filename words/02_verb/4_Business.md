@@ -103,7 +103,7 @@
   - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
   - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
 
-## TRAITS (is related to / have something to do with / 
+## TRAITS (is related to / have something to do with / have things in common / It all comes down to /)
 > `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
   - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
   - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
@@ -144,7 +144,7 @@
   - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
   - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
 
-## COGNITIVE (I don't get it)
+## COGNITIVE (I don't get it / cut corners / sloppy)
 > `not get` /nɑːt ɡet/              ([Casual] 理解できない)         I don't get it.
   - `not understand`                ([Neutral] 理解できない)        I don't understand this part.
   - `not make sense`                ([Neutral] 意味がわからない)    It doesn't make sense to me.
@@ -161,8 +161,6 @@
   - `be completely lost`            ([Casual] 完全にわからない)     I'm completely lost.
   - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
   - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
-
-## TASK (cut corners / sloppy)
 > `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
   - `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
   - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
@@ -173,8 +171,3 @@
 > `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
   - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
   - `be half-hearted`               ([Neutral] やる気のない)        His effort was half-hearted.
-> `be put into effect`              ([Neutral] 実施する 発効させる) The new law was put into effect.
-
-  - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
-  - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
-

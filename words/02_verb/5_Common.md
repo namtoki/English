@@ -790,3 +790,9 @@
   - `secure` /səˈkjʊɹ/              ([Neutral] 確保する、獲得する)  We secured the contract.
   - `seal` /siːl/                   ([Neutral] 確定する、封じる)    They sealed the deal.
   - `wrap up` /ɹæp ʌp/              ([Casual] 完了する、決める)     Let's wrap up this project.
+
+> `be put into effect`              ([Neutral] 実施する 発効させる) The new law was put into effect.
+
+  - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
+  - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
+
