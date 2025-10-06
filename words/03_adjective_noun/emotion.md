@@ -48,5 +48,14 @@
   - `hostile` /ˈhɑːstaɪl/           ([Neutral] 敵対的な)            The crowd became hostile.
   - `resentful` /rɪˈzentfl/         ([Neutral] 憤慨した)            He felt resentful about the decision.
 
+## EXCITED / THRILLED
+> `heady` /ˈhɛdi/                   ([Formal] 高揚させる、酔わせる)  The concert was a heady experience.
+  - `headiness` /ˈhɛdinəs/          ([Formal] 高揚感、陶酔)         The headiness of success was overwhelming.
+  - `intoxicating` /ɪnˈtɑksɪkeɪtɪŋ/ ([Neutral] 陶酔させる)          The perfume was intoxicating.
+  - `exhilarating` /ɪɡˈzɪləreɪtɪŋ/ ([Neutral] 爽快な、高揚させる)   Skydiving was an exhilarating experience.
+  - `thrilling` /ˈθɹɪlɪŋ/           ([Neutral] スリル満点の、興奮)   It was a thrilling adventure.
+  - `euphoric` /juˈfɔɹɪk/           ([Neutral] 多幸感のある)         She felt euphoric after winning.
+  - `stimulating` /ˈstɪmjəleɪtɪŋ/   ([Neutral] 刺激的な)             The discussion was stimulating.
+
 ## INDIFFERENT / NOT CARING
 - `couldn't care less` /ˈkʊdnt kɛr lɛs/ ([Casual] 全く興味がない)       I couldn't care less what they think.

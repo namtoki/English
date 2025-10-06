@@ -11,6 +11,8 @@
 - `permission` /pərˈmɪʃən/           ([Neutral] 許可)                Ask for permission before entering.
 - `authorization` /ˌɔːθərəˈzeɪʃən/   ([Formal] 認可、授権)            You need authorization to access this.
 - `acquiescence` /ˌækwiˈesəns/       ([Formal] 黙認、容認)            His silence implied acquiescence.
+- `proscription` /pɹəˈskɹɪp.ʃən/     ([Formal] 禁止、排斥)            The proscription of certain books.
+  - `proscriptive` /pɹəˈskɹɪptɪv/   ([Formal] 禁止の、規範的な)       The proscriptive rules were strict.
 - `hedonism` /ˈhiːdənɪzəm/          ([Formal] 快楽主義)            His lifestyle embraces hedonism.
   - `hedonist` /ˈhiːdənɪst/         ([Formal] 快楽主義者)          He's a self-proclaimed hedonist.
   - `hedonistic` /ˌhiːdəˈnɪstɪk/     ([Formal] 快楽主義的な)        Their hedonistic lifestyle shocked many.
@@ -687,6 +689,15 @@
 - [ ] `at a discount`                       ([Neutral] 割引価格で) The shoes are available `at a discount` this weekend.
 - [ ] `on average`                          ([Neutral] 平均して) `On average,` people sleep about eight hours a night.
 
+
+## GRAFFITI / STREET ART
+> `graffiti` /ɡɹəˈfiti/             ([Neutral] 落書き、グラフィティ) The wall was covered with graffiti.
+  - `graffito` /ɡɹəˈfitoʊ/          ([Formal] 落書き(単数形))       The archaeologist found an ancient graffito.
+  - `tag` /tæɡ/                     ([Casual] 署名タグ、落書き)     He tagged the wall with his signature.
+  - `street art` /stɹiːt ɑɹt/       ([Neutral] ストリートアート)    Street art has become popular in urban areas.
+  - `mural` /ˈmjʊɹəl/               ([Neutral] 壁画)                The mural was commissioned by the city.
+  - `vandalism` /ˈvændəlɪzəm/       ([Neutral] 破壊行為、損壊)      Graffiti is often considered vandalism.
+  - `inscription` /ɪnˈskɹɪpʃən/     ([Formal] 碑文、刻まれた文字)   The inscription on the tomb was barely visible.
 
 ## ARRIVAL
 - `arrival` /əˈraɪvəl/              ([Neutral] 到着、到来)          The arrival of spring brings new hope.

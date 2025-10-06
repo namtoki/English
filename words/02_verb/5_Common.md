@@ -51,7 +51,23 @@
   - `get on board with`             ([Casual] 同意し参加する)       We need everyone on board with this.
   - `embrace` /ɪmˈbreɪs/            ([Neutral] 喜んで受け入れる)    She embraced the new approach.
 
+## VERBAL
+> `be upfront about`                ([Casual] について正直に言う)   She's very upfront about her feelings.
+  - `be honest about` /ˈɑːnəst/     ([Neutral] について正直に言う)  I want you to be honest about it.
+  - `be candid about` /ˈkæn.dɪd/    ([Formal] について率直に言う)   To be candid about the situation.
+  - `be frank about` /fɹæŋk/        ([Neutral] について率直に言う)  Let me be frank about my concerns.
+  - `be straightforward about`      ([Neutral] について率直に言う)  Be straightforward about your needs.
+  - `be transparent about`          ([Formal] について透明性を持つ) Our accounting is transparent about costs.
+
 ---
+
+## CONTINUE (drag on / linger on)
+> `drag on` /dræɡ ɑːn/              ([Casual] ダラダラ長引く)       The meeting dragged on for hours.
+  - `drag out` /dræɡ aʊt/           ([Casual] 長引かせる)           I don't want to drag out this talk.
+  - `linger on` /ˈlɪŋɡər ɑːn/       ([Neutral] 居残る、長引く)      The problem lingered on for months.
+  - `go on` /ɡoʊ ɑːn/               ([Neutral] 続く、長引く)        The meeting seemed to go on forever.
+  - `prolong` /pɹoʊˈlɔŋ/            ([Formal] 延長する、長引かせる) Complaining prolongs one's pain.
+  - `persist` /pɚˈsɪst/             ([Formal] 持続する、続く)       The symptoms persisted for weeks.
 
 ## CHANGE (get better / DECREASE)
 > `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
@@ -330,6 +346,9 @@
   - `prohibit` /prəˈhɪbɪt/          ([Formal] 禁止する)             The law prohibits smoking here.
   - `forbid` /fərˈbɪd/              ([Neutral] 禁じる)              I forbid you to go.
   - `ban` /bæn/                     ([Neutral] 禁止する)            They banned plastic bags.
+  - `proscribe` /pɹəˈskɹaɪb/        ([Formal] 禁止する、排斥する)   The law proscribes intoxicated driving.
+  - `outlaw` /ˈaʊt.lɔ/              ([Neutral] 禁止する、違法化)    They outlawed zombie knives.
+  - `interdict` /ɪntɚˈdɪkt/         ([Formal] 禁じる、阻止する)     I have ordered to interdict any communication.
   - `deter` /dɪˈtɜːr/               ([Neutral] 思いとどまらせる)    High prices deter customers.
   - `discourage` /dɪsˈkɜːrɪdʒ/      ([Neutral] 思いとどまらせる)    Don't discourage their efforts.
 

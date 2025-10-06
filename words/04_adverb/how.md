@@ -21,6 +21,12 @@
 - `utterly` /ˈʌtərli/               ([Neutral] まったく、完全に)    I'm utterly exhausted from work.
 - `completely` /kəmˈpliːtli/        ([Neutral] 完全に、すっかり)    The project is completely finished.
 - `thoroughly` /ˈθʌrəli/            ([Neutral] 徹底的に、完全に)    Please read it thoroughly first.
+- `incredibly` /ɪŋˈkɹɛdɪbli/        ([Neutral] 非常に、とても)      He was incredibly wealthy.
+- `like crazy` /laɪk ˈkɹeɪzi/       ([Casual] ものすごく、猛烈に)   She stayed late, working like crazy.
+- `like mad` /laɪk mæd/             ([Casual] 猛烈に、必死で)       We ran like mad to get home.
+- `like hell` /laɪk hɛl/            ([Casual] 猛烈に、すごく)       We worked like hell to finish the job.
+- `like anything` /laɪk ˈeniθɪŋ/    ([Casual] とても、非常に)       It was raining like anything.
+- `a lot` /ə ˈlɑt/                  ([Casual] とても、すごく)       Thanks a lot for listening to me.
 
 ## SLIGHTLY
 - `slightly` /ˈslaɪtli/             ([Neutral] わずかに)            The door was slightly open.

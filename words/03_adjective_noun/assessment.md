@@ -40,3 +40,13 @@
   - `awkward` /ˈɔːkwərd/           ([Neutral] 不器用な、ぎこちない)  His movements were awkward.
   - `maladroit` /ˌmæləˈdrɔɪt/      ([Formal] 不器用な、下手な)      A maladroit handling of the situation.
 - `serendipitous` /ˌserənˈdɪpɪtəs/   ([Formal] 思いがけない幸運の)  A serendipitous discovery.
+
+## PERVERSE / STUBBORN
+> `perverse` /pɚˈvɝs/              ([Formal] 道理に反した、ひねくれ) He took perverse pleasure in annoying others.
+  - `perversity` /pəˈvɜːsɪti/       ([Formal] ひねくれ、反対気質)   The perversity of human nature.
+  - `perversely` /pɚˈvɝsli/         ([Formal] ひねくれて、逆に)     Perversely, we love that character.
+  - `wayward` /ˈweɪwəd/             ([Neutral] 気まぐれな、言う事聞) A wayward child needs guidance.
+  - `obstinate` /ˈɑːbstənət/        ([Neutral] 頑固な、強情な)      He was obstinate in his refusal.
+  - `stubborn` /ˈstʌbɚn/            ([Neutral] 頑固な、強情な)      She's too stubborn to admit she's wrong.
+  - `contrary` /ˈkɑntɹɛɹi/          ([Neutral] 反抗的な、逆の)      The child was being contrary.
+  - `twisted` /ˈtwɪstɪd/            ([Casual] ひねくれた、倒錯した)  He has a twisted sense of humor.
