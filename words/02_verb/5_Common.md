@@ -1,6 +1,6 @@
 # Common
 
-## BEHAVIOR (hustle / be on call / be stack with)
+## BEHAVIOR (hustle / be on call / be stack with / drag on)
 > `hustle` /ˈhʌsəl/                 ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
   - `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
   - `dash` /dæʃ/                    ([Neutral] 急いで走る)          I need to dash to the store.
@@ -19,6 +19,12 @@
   - `be landed with`                ([Casual 英] 負わされる)        I've been landed with the dog.
   - `be burdened with`              ([Formal] 重荷を負う)           He's burdened with responsibilities.
   - `be trapped with`               ([Neutral] 閉じ込められている)  I felt trapped with no way out.
+> `drag on` /dræɡ ɑːn/              ([Casual] ダラダラ長引く)       The meeting dragged on for hours.
+  - `drag out` /dræɡ aʊt/           ([Casual] 長引かせる)           I don't want to drag out this talk.
+  - `linger on` /ˈlɪŋɡər ɑːn/       ([Neutral] 居残る、長引く)      The problem lingered on for months.
+  - `go on` /ɡoʊ ɑːn/               ([Neutral] 続く、長引く)        The meeting seemed to go on forever.
+  - `prolong` /pɹoʊˈlɔŋ/            ([Formal] 延長する、長引かせる) Complaining prolongs one's pain.
+  - `persist` /pɚˈsɪst/             ([Formal] 持続する、続く)       The symptoms persisted for weeks.
 
 ## MOVE (swing by / )
 > `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
@@ -59,17 +65,7 @@
   - `be straightforward about`      ([Neutral] について率直に言う)  Be straightforward about your needs.
   - `be transparent about`          ([Formal] について透明性を持つ) Our accounting is transparent about costs.
 
----
-
-## CONTINUE (drag on / linger on)
-> `drag on` /dræɡ ɑːn/              ([Casual] ダラダラ長引く)       The meeting dragged on for hours.
-  - `drag out` /dræɡ aʊt/           ([Casual] 長引かせる)           I don't want to drag out this talk.
-  - `linger on` /ˈlɪŋɡər ɑːn/       ([Neutral] 居残る、長引く)      The problem lingered on for months.
-  - `go on` /ɡoʊ ɑːn/               ([Neutral] 続く、長引く)        The meeting seemed to go on forever.
-  - `prolong` /pɹoʊˈlɔŋ/            ([Formal] 延長する、長引かせる) Complaining prolongs one's pain.
-  - `persist` /pɚˈsɪst/             ([Formal] 持続する、続く)       The symptoms persisted for weeks.
-
-## CHANGE (get better / DECREASE)
+## CHANGE (get better / decrease)
 > `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
   - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
   - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
@@ -120,6 +116,8 @@
   - `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
 > `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
 > `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
+
+---
 
 > `quit` /kwɪt/                     ([Casual] 辞める)               I quit my job yesterday.
   - `leave` /liːv/                  ([Neutral] 去る、辞める)        She's leaving the company.
