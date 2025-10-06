@@ -77,6 +77,58 @@
 > `pay off` /peɪ ɔːf/               ([Neutral] 報われる)            All that hard work paid off.
   - `bear fruit` /ber fruːt/        ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
 
+## TASK (get ready for / sort out / look into / get / )
+> `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
+  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
+  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `make preparations for`         ([Formal] 準備する)             Make preparations for the event.
+  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
+  - `gear up for` /ɡɪr ʌp/          ([Casual] 準備する)             We're gearing up for the launch.
+  - `make arrangements for`         ([Neutral] 手配する)            I'll make arrangements for the trip.
+  - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
+> `sort out` /sɔːrt aʊt/            ([Casual] 整理する、解決する)   I'll sort out the paperwork.
+  - `organize` /ˈɔːrɡənaɪz/         ([Neutral] 整理する、組織する)  I need to organize my files.
+  - `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
+  - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
+  - `order` /ˈɔːrdər/               ([Neutral] 整理する、注文する)  Order the items by priority.
+  - `coordinate` /koʊˈɔːrdɪneɪt/    ([Neutral] 調整する、まとめる)  Coordinate the different teams.
+  - `straighten out` /ˈstreɪtən aʊt/([Neutral] 整理する、解決する)  Let's straighten out these issues.
+  - `structure` /ˈstrʌktʃər/        ([Neutral] 構造化する 組織する) We need to structure the data.
+  - `reorganize` /riːˈɔːrɡənaɪz/    ([Neutral] 再編成す 整理し直す) We need to reorganize the department.
+  - `streamline` /ˈstriːmlaɪn/      ([Neutral] 合理化す 効率化する) We'll streamline our processes.
+  - `systematize` /ˈsɪstəmətaɪz/    ([Formal] 体系化す 組織化する)  Let's systematize our approach.
+  - `consolidate`/kənˈsɑːlɪdeɪt/    ([Formal] 統合する 整理統合す)  Consolidate all the reports.
+  - `align` /əˈlaɪn/                ([Neutral] 整列させる 調整する) Align the goals with strategy.
+  - `declutter` /diːˈklʌtər/        ([Casual] 散らかりを片付ける)   Declutter your workspace.
+> `look into` /lʊk ˈɪntuː/          ([Neutral] 調べる、検討する)    I'll look into that issue.
+  - `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
+  - `dive into` /daɪv ˈɪntuː/       ([Casual] 飛び込む、詳しく調べ) I'll dive into the research.
+  - `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Let me check out this website.
+  - `drill down` /drɪl daʊn/        ([Neutral] 掘り下げる)          We need to drill down further.
+  - `pore over` /pɔːr ˈoʊvər/       ([Neutral] 熟読する)            She pored over the documents.
+  - `explore` /ɪkˈsplɔːr/           ([Neutral] 探索する、調べる)    Let's explore this option.
+  - `research` /rɪˈsɜːrtʃ/          ([Formal] 研究する、調査する)   She's researching the topic.
+  - `examine` /ɪɡˈzæmɪn/            ([Formal] 検査する、調べる)     The doctor examined the patient.
+  - `investigate` /ɪnˈvestɪɡeɪt/    ([Formal] 調査する、捜査する)   Police are investigating the case.
+  - `inspect` /ɪnˈspekt/            ([Formal] 検査する、調べる)     Inspectors examined the building.
+  - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
+  - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
+  - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
+> `get` /ɡet/                       ([Neutral] 得る、手に入れる)    I need to get some groceries.
+  - `collect` /kəˈlekt/             ([Neutral] 集める、収集する)    She collects stamps as a hobby.
+  - `gather` /ˈɡæðər/               ([Neutral] 集める、収集する)    Please gather all the documents.
+  - `obtain` /əbˈteɪn/              ([Formal] 獲得する、入手する)   You need to obtain permission first.
+  - `acquire` /əˈkwaɪər/            ([Formal] 取得する、習得する)   She acquired new skills quickly.
+  - `accumulate` /əˈkjuːmjəleɪt/    ([Neutral] 蓄積する、積み重ねる)Dust accumulated on the shelves.
+  - `assemble` /əˈsembəl/           ([Neutral] 集める、組み立てる)  We need to assemble all the parts.
+  - `compile` /kəmˈpaɪl/            ([Neutral] 編集する、収集する)  She compiled a list of contacts.
+  - `amass` /əˈmæs/                 ([Neutral] 蓄積する、集める)    He amassed a fortune in business.
+  - `hoard` /hɔːrd/                 ([Neutral] 貯め込む、買い占める)Don't hoard toilet paper.
+  - `stockpile` /ˈstɑːkpaɪl/        ([Neutral] 備蓄する、蓄える)    They stockpiled food for winter.
+  - `garner` /ˈɡɑːrnər/             ([Formal] 獲得する、集める)     The candidate garnered significant support.
+  - `glean` /ɡliːn/                 ([Writing] 拾い集める、収集する)I gleaned information from various sources.
+  - `harvest` /ˈhɑːrvɪst/           ([Neutral] 収穫する、得る)      They harvest data from users.
+
 ## STEP (I'll start off by / Let's move on to)
 > `start off with` /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
   - `begin with` /bɪˈɡɪn wɪð/       ([Neutral] ～で始める)          Begin with the basics.
