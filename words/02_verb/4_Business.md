@@ -25,6 +25,7 @@
 > `work on` /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
   - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
   - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
+  - `cope with` /koʊp wɪð/          ([Neutral] 対処する、対応する)  How do you cope with stress?
   - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
   - `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
   - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する、取り組む)  We're focusing on this problem.
@@ -35,6 +36,10 @@
   - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
   - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
   - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He's applying himself to the task.
+  - `confront` /kənˈfrʌnt/          ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
+  - `manage` /ˈmænɪdʒ/              ([Neutral] 管理する、対処する)  I can manage this situation.
+  - `take care of` /teɪk keər əv/   ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
+  - `see to` /siː tuː/              ([Neutral] 処理する 面倒を見る) I'll see to that right away.
 > `make progress`                   ([Neutral] 進捗する、前進する)  We're making progress on the project.
   - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
   - `get     results`               ([Neutral] 結果を出す 成果を得) Our new strategy is getting results.
@@ -77,7 +82,7 @@
 > `pay off` /peɪ ɔːf/               ([Neutral] 報われる)            All that hard work paid off.
   - `bear fruit` /ber fruːt/        ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
 
-## TASK (get ready for / sort out / look into / get / )
+## TASK (get ready for / go about / sort out / look into / get / )
 > `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
   - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
   - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
@@ -86,6 +91,8 @@
   - `gear up for` /ɡɪr ʌp/          ([Casual] 準備する)             We're gearing up for the launch.
   - `make arrangements for`         ([Neutral] 手配する)            I'll make arrangements for the trip.
   - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
+> `go about` /ɡoʊ əˈbaʊt/           ([Neutral] 取り組む、着手する)  How do you go about fixing this?
+  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
 > `sort out` /sɔːrt aʊt/            ([Casual] 整理する、解決する)   I'll sort out the paperwork.
   - `organize` /ˈɔːrɡənaɪz/         ([Neutral] 整理する、組織する)  I need to organize my files.
   - `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.

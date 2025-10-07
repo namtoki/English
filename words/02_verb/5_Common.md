@@ -26,13 +26,117 @@
   - `prolong` /pɹoʊˈlɔŋ/            ([Formal] 延長する、長引かせる) Complaining prolongs one's pain.
   - `persist` /pɚˈsɪst/             ([Formal] 持続する、続く)       The symptoms persisted for weeks.
 
-## MOVE (swing by / )
+## MOVE (move / go / get to / swing by / travel / walk)
+> `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
+  - `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
+  - `displace` /dɪsˈpleɪs/          ([Neutral] 押しのける)          The flood displaced many families.
+  - `replace` /rɪˈpleɪs/            ([Neutral] 取り替える)          They replaced the old equipment.
+  - `substitute` /ˈsʌbstɪtuːt/      ([Neutral] 代用する)            We can substitute honey for sugar.
+  - `supplant` /səˈplænt/           ([Formal] 取って代わる)         New technology supplanted the old.
+  - `dislodge` /dɪsˈlɑːdʒ/          ([Neutral] 押しのける)          The storm dislodged several trees.
+  - `transfer` /trænsˈfɜːr/         ([Neutral] 移す、転勤する)      He transferred to the Tokyo office.
+  - `proceed` /prəˈsiːd/            ([Formal] 進む、続行する)       Please proceed to the gate.
+  - `advance` /ədˈvæns/             ([Neutral] 前進する)            The army advanced slowly.
+  - `head` /hed/                    ([Neutral] 向かう)              Let's head home.
+  - `pass` /pæs/                    ([Neutral] 通る、通過する)      We passed through the town.
+  - `cross` /krɔːs/                 ([Neutral] 横切る、渡る)        Cross the street carefully.
+  - `navigate` /ˈnævɪɡeɪt/          ([Neutral] 案内する、進む)      Navigate through the traffic.
+  - `uproot` /ʌpˈruːt/              ([Neutral] 根こそぎ移動する)    The family uprooted to start fresh.
+> `go` /ɡoʊ/                        ([Neutral] 行く、移動する)      Let's go to the store.
+  - `drive` /draɪv/                 ([Neutral] 運転する、行く)      I'll drive to the airport.
+  - `fly` /flaɪ/                    ([Neutral] 飛ぶ、飛行機で行く)  We're flying to Paris tomorrow.
+  - `depart` /dɪˈpɑːrt/             ([Formal] 出発する)             The train departs at noon.
+> `get to` /ɡet tuː/                ([Neutral] ～に着く、到着する)  How do I get to the station?
+  - `arrive at`                     ([Neutral] ～に到着する)        We arrived at our destination.
+  - `arrive in`                     ([Neutral] ～に到着する)        I arrived in Tokyo yesterday.
+  - `reach` /riːtʃ/                 ([Neutral] 到達する)            We reached the summit at noon.
+  - `make it to`                    ([Casual] ～に着く、間に合う)   I barely made it to the meeting.
+  - `get there`                     ([Casual] そこに着く)           How long does it take to get there?
+  - `show up` /ʃoʊ ʌp/              ([Casual] 現れる、着く)         He finally showed up at 9 PM.
+  - `turn up` /tɜːrn ʌp/            ([Casual] 現れる、着く)         She turned up late to the party.
+  - `pull up` /pʊl ʌp/              ([Casual] 車で着く)             A taxi pulled up outside.
+  - `roll up` /roʊl ʌp/             ([Casual] 車で着く)             They rolled up in a fancy car.
+  - `go to` /ɡoʊ tuː/               ([Neutral] ～に通う、行く)      I go to school every day.
+  - `attend` /əˈtend/               ([Formal] 通う、出席する)       She attends university in Boston.
+  - `commute to` /kəˈmjuːt tuː/     ([Neutral] 通勤する)            I commute to work by train.
 > `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
   - `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
   - `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
   - `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
   - `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
   - `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
+> `travel` /ˈtrævəl/                ([Neutral] 旅行する、移動する)  I travel for work frequently.
+  - `journey` /ˈdʒɜːrni/            ([Neutral] 旅する)              They journeyed across the country.
+> `walk` /wɔːk/                     ([Neutral] 歩く)                I walk to work every day.
+  - `run` /rʌn/                     ([Neutral] 走る)                Run to catch the bus!
+  - `roam` /roʊm/                   ([Neutral] 放浪する、歩き回る)  They roamed the streets.
+  - `wander` /ˈwɑːndər/             ([Neutral] さまよう、歩き回る)  We wandered around the city.
+  - `drift` /drɪft/                 ([Neutral] 漂う、流れる)        The boat drifted downstream.
+> `relocate` /ˌriːloʊˈkeɪt/         ([Neutral] 移転する)            The company relocated to Texas.
+  - `migrate` /maɪˈɡreɪt/           ([Neutral] 移住する)            Birds migrate south for winter.
+  - `emigrate` /ˈemɪɡreɪt/          ([Formal] 移住する)             They emigrated from Poland to Canada.
+  - `immigrate` /ˈɪmɪɡreɪt/         ([Formal] 移民する)             They immigrated to the United States.
+  - `transplant` /trænsˈplænt/      ([Neutral] 移植する、移住する)  They transplanted to California.
+  - `resettle` /riːˈsetəl/          ([Formal] 再定住する)           Refugees resettled in new countries.
+> `transport` /trænsˈpɔːrt/         ([Neutral] 輸送する)            We'll transport the goods by truck.
+> `get together` /ɡet təˈɡeðər/     ([Casual] 集まる)               Let's get together with the old college friends
+  - `gather` /ˈɡæðər/               ([Neutral] 集まる)              Let's gather at the park tomorrow.
+  - `meet` /miːt/                   ([Neutral] 会う)                Let's meet for coffee.
+  - `assemble` /əˈsembl/            ([Formal] 集合する)             Please assemble in the main hall.
+  - `congregate` /ˈkɒŋɡrɪɡeɪt/      ([Formal] 集合する)             Students congregate in the cafeteria.
+  - `convene` /kənˈviːn/            ([Formal] 招集する)             The committee will convene next week.
+  - `cluster` /ˈklʌstər/            ([Neutral] 群がる)              People clustered around the notice board.
+  - `huddle` /ˈhʌdl/                ([Casual] 身を寄せ合う)         We huddled together for warmth.
+  - `bunch` /bʌntʃ/                 ([Casual] 束になる)             Don't bunch up in the doorway!
+  - `flock` /flɒk/                  ([Neutral] 群がる)              Tourists flock to the beach in summer.
+  - `swarm` /swɔːm/                 ([Neutral] 群がる)              Reporters swarmed around the star.
+  - `converge` /kənˈvɜːdʒ/          ([Formal] 集中する)             Roads converge at the city center.
+  - `rally` /ˈræli/                 ([Neutral] 結集する)            Supporters will rally at the park.
+  - `muster` /ˈmʌstər/              ([Formal] 召集する)             Muster all available troops.
+  - `snuggle` /ˈsnʌɡl/              ([Casual] 寄り添う)             Let's snuggle on the couch.
+  - `nestle` /ˈnesl/                ([Casual] 寄り添う)             The kitten nestled in my lap.
+> `show up` /ʃoʊ ʌp/                ([Neutral] 現れる、姿を見せる)  He finally showed up at noon.
+  - `come up` /kʌm ʌp/              ([Neutral] 出てくる、起こる)    Something urgent came up.
+  - `turn up` /tɜːrn ʌp/            ([Neutral] 現れる、見つかる)    My keys turned up in the car.
+  - `appear` /əˈpɪr/                ([Neutral] 現れる、出現する)    She appeared at the door.
+  - `pop up` /pɑːp ʌp/              ([Neutral] 現れる、出現する)    A message popped up on screen.
+  - `crop up` /krɑːp ʌp/            ([Casual] 突然起こる)           Problems keep cropping up.
+  - `emerge` /ɪˈmɜːrdʒ/             ([Neutral] 現れる、浮上する)    The sun emerged from the clouds.
+  - `surface` /ˈsɜːrfɪs/            ([Neutral] 浮上する、現れる)    New evidence surfaced yesterday.
+  - `spring up` /sprɪŋ ʌp/          ([Neutral] 急に現れる)          New shops are springing up everywhere.
+  - `be in for` /bi ɪn fɔːr/        ([Casual] 直面する)             Looks like we'll be in for some wet weather over the next few days.
+  - `materialize` /məˈtɪriəlaɪz/    ([Formal] 実体化する、現れる)   Help materialized quickly.
+> `rush` /rʌʃ/                      ([Neutral] 急ぐ、突進する)      We rushed to the hospital.
+  - `speed` /spiːd/                 ([Neutral] スピードを出す)      Don't speed on the highway.
+  - `race` /reɪs/                   ([Neutral] 疾走する)            He raced down the stairs.
+  - `dash` /dæʃ/                    ([Neutral] ダッシュする)        She dashed to catch the bus.
+  - `zoom` /zuːm/                   ([Casual] 急速に動く)           The car zoomed past us.
+  - `zip` /zɪp/                     ([Casual] 素早く動く)           He zipped through traffic.
+  - `whiz` /wɪz/                    ([Casual] ビュンと飛ぶ)         The bullet whizzed past my ear.
+  - `bolt` /boʊlt/                  ([Neutral] 突進する)            The horse bolted from the stable.
+> `see a doctor`                    ([Neutral] 医者に診てもらう)    I need to see a doctor about this pain.
+  - `go to the doctor`              ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
+  - `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
+  - `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
+> `go down` /ɡoʊ daʊn/              ([Neutral] 下りる)              Go down the stairs carefully.
+  - `come down` /kʌm daʊn/          ([Neutral] 降りて来る)          Come down from there!
+  - `walk down` /wɔːk daʊn/         ([Neutral] 歩いて下る)          Walk down the hill slowly.
+  - `climb down` /klaɪm daʊn/       ([Neutral] よじ降りる)          Climb down the ladder.
+  - `drop` /drɑːp/                  ([Neutral] 落ちる、下がる)      The temperature dropped suddenly.
+  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Be careful not to fall!
+  - `lower` /ˈloʊər/                ([Neutral] 下げる)              Lower your voice please.
+  - `sink` /sɪŋk/                   ([Neutral] 沈む)                The sun sank below the horizon.
+  - `descend` /dɪˈsend/             ([Formal] 下降する)             The plane began to descend.
+  - `descending` /dɪˈsendɪŋ/        ([Formal] 下降する)             In descending order.
+  - `decline` /dɪˈklaɪn/            ([Formal] 下降する、衰える)     Sales declined last quarter.
+  - `plunge` /plʌndʒ/               ([Neutral] 急落する)            Stock prices plunged today.
+> `enter` /ˈɛntɚ/                   ([Neutral] 入る、入力する)      Please knock before you enter.
+  - `entry` /ˈɛntɹi/                ([Neutral] 入ること、記入項目)  The entry to the building is locked.
+  - `entrance` /ˈɛntɹəns/           ([Neutral] 入口、入場)          The entrance is on the left.
+  - `go in` /ɡoʊ ɪn/                ([Casual] 中に入る)             Let's go in, it's cold outside.
+  - `come in` /kʌm ɪn/              ([Casual] 入って来る)           Please come in and have a seat.
+  - `walk in` /wɔːk ɪn/             ([Neutral] 歩いて入る)          He walked in without knocking.
+  - `step in` /step ɪn/             ([Neutral] 中に入る、介入する)  Please step in to my office.
 
 ## COGNITIVE (agree with / come around to / buy into)
 > `agree with` /əˈɡriː wɪð/         ([Neutral] ～に賛成する)        I agree with the decision.
@@ -534,14 +638,6 @@
   - `stay the course` /steɪ ðə kɔːrs([Neutral] 最後まで続ける)      We must stay the course to succeed.
   - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
   - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 前進する 優勢になる) Our proposal is gaining ground with management.
-> `manage` /ˈmænɪdʒ/                ([Neutral] 管理する、対処する)  I can manage this situation.
-  - `go about` /ɡoʊ əˈbaʊt/         ([Neutral] 取り組む、着手する)  How do you go about fixing this?
-  - `take care of` /teɪk keər əv/   ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
-    - `see to` /siː tuː/            ([Neutral] 処理する 面倒を見る) I'll see to that right away.
-  - `cope with` /koʊp wɪð/          ([Neutral] 対処する、対応する)  How do you cope with stress?
-  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
-  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'll attend to this matter immediately.
-  - `confront` /kənˈfrʌnt/          ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
 > `move forward with`               ([Neutral] 前に進む、前進する)  Let's move forward with the plan.
   - `be halfway through`            ([Neutral] 半分終わっている)    I'm halfway through the report.
   - `be partway through`            ([Neutral] 途中まで進んでいる)  We're partway through the project.
@@ -915,106 +1011,6 @@
   - `remedy` /ˈremədi/              ([Neutral] 治療する、改善する)  We need to remedy this situation.
   - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を投与する)        They medicated the patient for pain.
   - `administer` /ədˈmɪnɪstər/      ([Medical] 投与する、施す)      The nurse administered the vaccine.
-
-## MOVE (MOVE / GO / TRAVEL / RELOCATE / TRANSPORT / GET TOGETHER / GET TO / SHOW UP / RUSH / SEE A DOCTOR)
-> `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
-  - `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
-  - `displace` /dɪsˈpleɪs/          ([Neutral] 押しのける)          The flood displaced many families.
-  - `replace` /rɪˈpleɪs/            ([Neutral] 取り替える)          They replaced the old equipment.
-  - `substitute` /ˈsʌbstɪtuːt/      ([Neutral] 代用する)            We can substitute honey for sugar.
-  - `supplant` /səˈplænt/           ([Formal] 取って代わる)         New technology supplanted the old.
-  - `dislodge` /dɪsˈlɑːdʒ/          ([Neutral] 押しのける)          The storm dislodged several trees.
-  - `transfer` /trænsˈfɜːr/         ([Neutral] 移す、転勤する)      He transferred to the Tokyo office.
-  - `proceed` /prəˈsiːd/            ([Formal] 進む、続行する)       Please proceed to the gate.
-  - `advance` /ədˈvæns/             ([Neutral] 前進する)            The army advanced slowly.
-  - `head` /hed/                    ([Neutral] 向かう)              Let's head home.
-  - `pass` /pæs/                    ([Neutral] 通る、通過する)      We passed through the town.
-  - `cross` /krɔːs/                 ([Neutral] 横切る、渡る)        Cross the street carefully.
-  - `navigate` /ˈnævɪɡeɪt/          ([Neutral] 案内する、進む)      Navigate through the traffic.
-  - `uproot` /ʌpˈruːt/              ([Neutral] 根こそぎ移動する)    The family uprooted to start fresh.
-> `go` /ɡoʊ/                        ([Neutral] 行く、移動する)      Let's go to the store.
-  - `drive` /draɪv/                 ([Neutral] 運転する、行く)      I'll drive to the airport.
-  - `fly` /flaɪ/                    ([Neutral] 飛ぶ、飛行機で行く)  We're flying to Paris tomorrow.
-  - `depart` /dɪˈpɑːrt/             ([Formal] 出発する)             The train departs at noon.
-  - `arrive` /əˈraɪv/               ([Neutral] 到着する)            We arrived late.
-> `travel` /ˈtrævəl/                ([Neutral] 旅行する、移動する)  I travel for work frequently.
-  - `journey` /ˈdʒɜːrni/            ([Neutral] 旅する)              They journeyed across the country.
-> `walk` /wɔːk/                     ([Neutral] 歩く)                I walk to work every day.
-  - `run` /rʌn/                     ([Neutral] 走る)                Run to catch the bus!
-  - `roam` /roʊm/                   ([Neutral] 放浪する、歩き回る)  They roamed the streets.
-  - `wander` /ˈwɑːndər/             ([Neutral] さまよう、歩き回る)  We wandered around the city.
-  - `drift` /drɪft/                 ([Neutral] 漂う、流れる)        The boat drifted downstream.
-> `relocate` /ˌriːloʊˈkeɪt/         ([Neutral] 移転する)            The company relocated to Texas.
-  - `migrate` /maɪˈɡreɪt/           ([Neutral] 移住する)            Birds migrate south for winter.
-  - `emigrate` /ˈemɪɡreɪt/          ([Formal] 移住する)             They emigrated from Poland to Canada.
-  - `immigrate` /ˈɪmɪɡreɪt/         ([Formal] 移民する)             They immigrated to the United States.
-  - `transplant` /trænsˈplænt/      ([Neutral] 移植する、移住する)  They transplanted to California.
-  - `resettle` /riːˈsetəl/          ([Formal] 再定住する)           Refugees resettled in new countries.
-> `transport` /trænsˈpɔːrt/         ([Neutral] 輸送する)            We'll transport the goods by truck.
-> `get together` /ɡet təˈɡeðər/     ([Casual] 集まる)               Let's get together with the old college friends
-  - `gather` /ˈɡæðər/               ([Neutral] 集まる)              Let's gather at the park tomorrow.
-  - `meet` /miːt/                   ([Neutral] 会う)                Let's meet for coffee.
-  - `assemble` /əˈsembl/            ([Formal] 集合する)             Please assemble in the main hall.
-  - `congregate` /ˈkɒŋɡrɪɡeɪt/      ([Formal] 集合する)             Students congregate in the cafeteria.
-  - `convene` /kənˈviːn/            ([Formal] 招集する)             The committee will convene next week.
-  - `cluster` /ˈklʌstər/            ([Neutral] 群がる)              People clustered around the notice board.
-  - `huddle` /ˈhʌdl/                ([Casual] 身を寄せ合う)         We huddled together for warmth.
-  - `bunch` /bʌntʃ/                 ([Casual] 束になる)             Don't bunch up in the doorway!
-  - `flock` /flɒk/                  ([Neutral] 群がる)              Tourists flock to the beach in summer.
-  - `swarm` /swɔːm/                 ([Neutral] 群がる)              Reporters swarmed around the star.
-  - `converge` /kənˈvɜːdʒ/          ([Formal] 集中する)             Roads converge at the city center.
-  - `rally` /ˈræli/                 ([Neutral] 結集する)            Supporters will rally at the park.
-  - `muster` /ˈmʌstər/              ([Formal] 召集する)             Muster all available troops.
-  - `snuggle` /ˈsnʌɡl/              ([Casual] 寄り添う)             Let's snuggle on the couch.
-  - `nestle` /ˈnesl/                ([Casual] 寄り添う)             The kitten nestled in my lap.
-> `get to` /ɡet tuː/                ([Neutral] ～に着く、到着する)  How do I get to the station?
-  - `arrive at`                     ([Neutral] ～に到着する)        We arrived at our destination.
-  - `arrive in`                     ([Neutral] ～に到着する)        I arrived in Tokyo yesterday.
-  - `reach` /riːtʃ/                 ([Neutral] 到達する)            We reached the summit at noon.
-  - `make it to`                    ([Casual] ～に着く、間に合う)   I barely made it to the meeting.
-  - `get there`                     ([Casual] そこに着く)           How long does it take to get there?
-  - `show up` /ʃoʊ ʌp/              ([Casual] 現れる、着く)         He finally showed up at 9 PM.
-  - `turn up` /tɜːrn ʌp/            ([Casual] 現れる、着く)         She turned up late to the party.
-  - `pull up` /pʊl ʌp/              ([Casual] 車で着く)             A taxi pulled up outside.
-  - `roll up` /roʊl ʌp/             ([Casual] 車で着く)             They rolled up in a fancy car.
-  - `go to` /ɡoʊ tuː/               ([Neutral] ～に通う、行く)      I go to school every day.
-  - `attend` /əˈtend/               ([Formal] 通う、出席する)       She attends university in Boston.
-  - `commute to` /kəˈmjuːt tuː/     ([Neutral] 通勤する)            I commute to work by train.
-> `show up` /ʃoʊ ʌp/                ([Neutral] 現れる、姿を見せる)  He finally showed up at noon.
-  - `come up` /kʌm ʌp/              ([Neutral] 出てくる、起こる)    Something urgent came up.
-  - `turn up` /tɜːrn ʌp/            ([Neutral] 現れる、見つかる)    My keys turned up in the car.
-  - `appear` /əˈpɪr/                ([Neutral] 現れる、出現する)    She appeared at the door.
-  - `pop up` /pɑːp ʌp/              ([Neutral] 現れる、出現する)    A message popped up on screen.
-  - `crop up` /krɑːp ʌp/            ([Casual] 突然起こる)           Problems keep cropping up.
-  - `emerge` /ɪˈmɜːrdʒ/             ([Neutral] 現れる、浮上する)    The sun emerged from the clouds.
-  - `surface` /ˈsɜːrfɪs/            ([Neutral] 浮上する、現れる)    New evidence surfaced yesterday.
-  - `spring up` /sprɪŋ ʌp/          ([Neutral] 急に現れる)          New shops are springing up everywhere.
-  - `be in for` /bi ɪn fɔːr/        ([Casual] 直面する)             Looks like we'll be in for some wet weather over the next few days.
-  - `materialize` /məˈtɪriəlaɪz/    ([Formal] 実体化する、現れる)   Help materialized quickly.
-> `rush` /rʌʃ/                      ([Neutral] 急ぐ、突進する)      We rushed to the hospital.
-  - `speed` /spiːd/                 ([Neutral] スピードを出す)      Don't speed on the highway.
-  - `race` /reɪs/                   ([Neutral] 疾走する)            He raced down the stairs.
-  - `dash` /dæʃ/                    ([Neutral] ダッシュする)        She dashed to catch the bus.
-  - `zoom` /zuːm/                   ([Casual] 急速に動く)           The car zoomed past us.
-  - `zip` /zɪp/                     ([Casual] 素早く動く)           He zipped through traffic.
-  - `whiz` /wɪz/                    ([Casual] ビュンと飛ぶ)         The bullet whizzed past my ear.
-  - `bolt` /boʊlt/                  ([Neutral] 突進する)            The horse bolted from the stable.
-> `see a doctor`                    ([Neutral] 医者に診てもらう)    I need to see a doctor about this pain.
-  - `go to the doctor`              ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
-  - `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
-  - `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
-> `go down` /ɡoʊ daʊn/              ([Neutral] 下りる)              Go down the stairs carefully.
-  - `come down` /kʌm daʊn/          ([Neutral] 降りて来る)          Come down from there!
-  - `walk down` /wɔːk daʊn/         ([Neutral] 歩いて下る)          Walk down the hill slowly.
-  - `climb down` /klaɪm daʊn/       ([Neutral] よじ降りる)          Climb down the ladder.
-  - `drop` /drɑːp/                  ([Neutral] 落ちる、下がる)      The temperature dropped suddenly.
-  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Be careful not to fall!
-  - `lower` /ˈloʊər/                ([Neutral] 下げる)              Lower your voice please.
-  - `sink` /sɪŋk/                   ([Neutral] 沈む)                The sun sank below the horizon.
-  - `descend` /dɪˈsend/             ([Formal] 下降する)             The plane began to descend.
-  - `descending` /dɪˈsendɪŋ/        ([Formal] 下降する)             In descending order.
-  - `decline` /dɪˈklaɪn/            ([Formal] 下降する、衰える)     Sales declined last quarter.
-  - `plunge` /plʌndʒ/               ([Neutral] 急落する)            Stock prices plunged today.
 
 ## PASS ON
 - `tell` /tel/                      ([Neutral] 伝える)              Tell him I said hi.
