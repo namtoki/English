@@ -911,6 +911,12 @@
 - `guaranteed` /ˌɡærənˈtiːd/        ([Neutral] 保証された、確実な)  Success is guaranteed.
 - `promised` /ˈprɑːmɪst/            ([Neutral] 約束された)          The promised reward never came.
 - `warranted` /ˈwɔːrəntɪd/          ([Formal] 正当化された、保証された) His concern was warranted.
+- `tenable` /ˈtɛnəbəl/              ([Formal] 支持できる、維持できる) Darwin's theory is tenable.
+  - `untenable` /ʌnˈtɛnəbəl/        ([Formal] 支持できない、維持できない) His position became untenable.
+- `indefensible` /ˌɪndɪˈfɛnsəbəl/   ([Formal] 弁護できない、正当化できない) Killing civilians is indefensible.
+- `unsustainable` /ˌʌnsəˈsteɪnəbəl/ ([Formal] 持続できない)         This level of subsidy is unsustainable.
+- `unfounded` /ʌnˈfaʊndɪd/          ([Formal] 根拠のない)           Her fears proved unfounded.
+- `baseless` /ˈbeɪsləs/             ([Formal] 根拠のない)           The accusations were baseless.
 - `be out of the question`          ([Neutral] 論外である)          Going to the party is out of the question!
 
 ## SOLID
@@ -1652,6 +1658,11 @@
 - `tumult` /ˈtuːmʌlt/               ([Writing] 騒動、動乱)          The city was in tumult after the news.
   - `tumultuous` /tuːˈmʌltʃuəs/     ([Writing] 騒々しい、激動の)    They had a tumultuous relationship.
 - `hubbub` /ˈhʌbʌb/                 ([Casual] 騒音、ざわめき)       The hubbub in the restaurant was overwhelming.
+- `raucous` /ˈɹɔːkəs/               ([Neutral] やかましい、騒々しい) The raucous crowd cheered loudly.
+  - `raucously` /ˈɹɔːkəsli/         ([Neutral] やかましく)          They raucously celebrated the victory.
+  - `raucousness` /ˈɹɔːkəsnəs/      ([Neutral] やかましさ、騒々しさ) The raucousness of the party woke the neighbors.
+- `rowdy` /ˈɹaʊdi/                  ([Neutral] 騒々しい、乱暴な)    The rowdy fans were escorted out.
+- `boisterous` /ˈbɔɪstəɹəs/         ([Neutral] 騒々しい、元気な)    The boisterous children played in the yard.
 
 - `distinction` /dɪˈstɪŋkʃən/        ([Formal] 区別、優秀性)      She graduated with high distinction.
   - `distinct` /dɪˈstɪŋkt/            ([Neutral] 異なった、目立つ) There's a distinct difference between them.

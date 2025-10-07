@@ -3435,7 +3435,6 @@ ranch	7	【名】大牧場、農場
 ranger	8	【名】森林警備官		
 ransom	11	【名】身代金、受け戻し 【動】お金と引き換えに返す、償う		
 rant	11	【動】わめく、大きなことを言う 【名】大言壮語		
-rapidity	8	【名】素早さ、急速、敏速、速度		
 rapport	11	【名】調和的な関係、意思の疎通性		
 rapprochement	11	【名】和解、親交関係の確立		
 rapt	12	【形】心を奪われている、うっとりしている		
@@ -3451,7 +3450,6 @@ rationale	11	【名】論理的根拠、理由づけ
 rationality	7	【名】合理性		
 rationalize	7	【動】合理的に説明する、合理化する、正当化する、推理する		
 rattle	4	【動】ガタガタ鳴る、音をたてて走る		
-raucous	11	【形】騒々しい、耳ざわりな、しわがれ声の		
 ravage	9	【動】破壊する、略奪する 【名】破壊		
 rave	8	【動】うわごとを言う、熱弁をふるう、わめきたてる 【名】夢中		
 raven	10	【名】カラス 【形】漆黒の		
@@ -3461,27 +3459,18 @@ reactive	10	【形】よく反応する、反発する
 readily	4	【副】すぐに、容易に、さっそく		
 readiness	8	【名】用意ができていること、迅速、即座、快諾		
 reap	6	【動】収穫する		
-reappear	7	【動】再び現れる、再現する		
-rearrange	9	【動】配列し直す、再整理する		
 reasoning	6	【名】論法、推理、推論		
 rebate	10	【名】払い戻し 【動】リベートを与える		
-rebirth	10	【名】再生、蘇生		
-rebound	10	【動】はね返る、立ち直る 【名】はね返り、反響		
 rebuff	11	【動】拒絶する 【名】ひじ鉄砲、妨害、断固たる拒絶		
-rebuild	6	【動】建て替える、改装する、修正する		
 recalcitrant	11	【形】扱いにくい、権力に抵抗する 【名】扱いにくい人		
 recapture	9	【動】再び捕らえる、取り戻す、思い出す 【名】回復、再逮捕		
 receivable	9	【形】受領し得る、受け取るべき、信用できる 【名】受取勘定		
-receiver	4	【名】受話器		
-reception	4	【名】受付、受け取ること、受理、歓迎会		
-receptionist	6	【名】受付係		
 receptive	10	【形】受け入れる、わかりの早い		
 receptor	9	【名】受容器官、受容体		
 recession	5	【名】景気後退		
 recharge	10	【動】再充電する、元気を回復させる		
 recipient	8	【名】受領者、容器		
 reciprocal	9	【形】お返しの、代償の、相互関係を表す、反比例の		
-recital	8	【名】リサイタル、暗唱、朗読		
 recitation	10	【名】暗唱、口答、列挙		
 recite	7	【動】暗唱する、話す		
 reckless	6	【形】無鉄砲な		
@@ -3673,7 +3662,6 @@ roundup	12	【名】一斉逮捕、家畜の駆り集め、総括
 rout	11	【動】完敗させる 【名】総くずれ、暴徒		
 rove	11	【動】放浪する、目がきょろきょろする 【名】流浪		
 rover	11	【名】放浪者、さまよう人、気まぐれ屋		
-rowdy	11	【形】乱暴な、騒々しい 【名】乱暴者		
 royalist	10	【名】王政主義者、王党員 【形】王党派の		
 royalty	7	【名】印税、特許権使用料		
 rubber	3	【名】ゴム、ゴム製品 【形】ゴム製の		
@@ -4484,33 +4472,23 @@ unmistakable	6	【形】間違いようのない
 unnatural	6	【形】不自然な		
 unnoticed	9	【形】気づかれない、注目されない		
 unobtrusive	12	【形】控えめな、出しゃばらない		
-unofficial	7	【形】非公認の		
 unorthodox	10	【形】正統でない、異端の		
 unpack	9	【動】開ける、中身を出す、重荷を下ろす		
-unpaid	6	【形】未払いの、無報酬の		
 unparalleled	10	【形】並ぶ者のない、無比の、前代未聞の		
 unprecedented	9	【形】前例のない		
 unpredictable	7	【形】予測できない		
-unprepared	9	【形】用意ができていない、即席の		
 unprofitable	10	【形】利益のない、損な、無駄な		
 unravel	11	【動】ほどく、解ける、計画をつぶす		
 unreal	8	【形】実在しない、信じられないくらいすばらしい		
-unreasonable	6	【形】理性を欠いた、適切でない		
-unrelated	8	【形】関係のない、親族でない		
-unreliable	8	【形】当てにならない、信頼できない		
 unrest	9	【名】不安、社会的動揺		
 unruly	11	【形】乱暴な、規則に従わない、荒れ狂う		
-unsafe	8	【形】安全でない、危険な		
 unseen	6	【形】目に見えない、初見の		
 unselfish	6	【形】利己的でない、無私の		
 unsold	9	【形】売れない、売れ残りの		
 unspoken	10	【形】言外の、無言の		
-unstable	8	【形】じっとしていない、情緒不安定な		
-unsuccessful	6	【形】不成功の		
 unsuitable	6	【形】不適当な		
 unsure	7	【形】自信がない、不確かな		
 unsuspecting	8	【形】疑わない		
-untenable	12	【形】（論理が）支持できない		
 unthinkable	10	【形】考えられない、問題にならない 【名】考えられないこと		
 untidy	6	【形】乱雑な、だらしない 【動】台無しにする、乱す		
 untie	8	【動】解く、ほどく、解放する		
@@ -4534,15 +4512,12 @@ upside	6	【名】上側、上部、上昇傾向
 upstart	11	【名】成り上がり者、成金 【形】成金の		
 uranium	9	【名】ウラン		
 urbane	12	【形】洗練されている、あかぬけた、礼儀正しい		
-urine	10	【名】尿		
 urn	12	【名】骨つぼ、装飾的なつぼ		
 usable	10	【形】使用に適した、使うのに便利な		
 usefulness	6	【名】有用性		
 usher	8	【名】案内係、門番、先導役 【動】案内役を務める、先がけとなる		
 usurp	12	【動】権力を暴力で奪う、不法使用する		
-utensil	7	【名】用具、器具、家庭用品		
 utilitarian	10	【形】実用的な 【名】功利主義		
-utility	6	【名】実用性、公共施設、公共料金 【形】公共事業の		
 vacancy	7	【名】空き室、空き地、空虚、空間		
 vagabond	12	【名】放浪者 【形】放浪の、評判のよくない		
 vale	12	【名】谷		
