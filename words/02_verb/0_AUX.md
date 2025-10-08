@@ -1,6 +1,6 @@
 # Aux
 
-## + V 原型 (GOTTA / BE SUPPOSED TO / BE GONNA / WAS GONNA)
+## + V 原型 (I gotta / I'm supposed to / I'm gonna / I was gonna)
 > `gotta` /ˈɡɑːtə/                  ([Casual] ～しなきゃ)           I gotta go now.
   - `I had better` /aɪ hæd ˈbetər/  ([Casual] しなきゃ)             I had better get going.
   - `have got to` /hæv ɡɑːt tuː/    ([Casual] ～しなきゃ)           I've got to finish this tonight.
@@ -31,9 +31,16 @@
   - `was going to` /wəz ˈɡoʊɪŋ tuː/ ([Neutral] するつもりだった)    I was going to call but forgot.
   - `meant to` /ment tuː/           ([Neutral] ～するつもりだった)  I meant to call you earlier.
 
-## + V 原型 (USED TO / STILL MANAGE TO / HAVE NO CHOICE BUT TO / OBLIGATED TO)
+## + V 原型 (I used to / I somehow managed to)
 > `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
-> `still manage to`                 ([Neutral] それでもしてしまう)  I still manage to make mistakes.
+  - `would` /wʊd/                   ([Neutral] よく〜したものだ)    I would walk to school every day.
+> `somehow manage to` /ˈsʌmhaʊ/     ([Neutral] どうにか～する)      I somehow managed to finish on time.
+  - `still manage to` /ˈmænɪdʒ tuː/ ([Neutral] それでもしてしまう)  I still manage to make mistakes.
+  - `barely manage to` /ˈberli/     ([Neutral] かろうじて～する)    I barely managed to catch the bus.
+  - `hardly manage to` /ˈhɑːrdli/   ([Neutral] ほとんど～できない)  I can hardly manage to stay awake.
+  - `just manage to` /dʒʌst/        ([Neutral] なんとか～する)      I just managed to get there.
+
+## + V 原型 (I have no choice but to / I'm obligated to)
 > `have no choice but to`           ([Neutral] 選択肢がない)        I have no choice but to quit.
   - `forced to` /fɔːrst tuː/        ([Neutral] ～を強いられる)      I was forced to leave early.
   - `compelled to` /kəmˈpeld tuː/   ([Formal] ～せざるを得ない)     I felt compelled to speak up.
@@ -43,7 +50,11 @@
   - `be duty-bound to`              ([Formal] ～する義務がある)     I'm duty-bound to report this.
   - `be mandated to` /ˈmændeɪtɪd/   ([Formal] ～を義務付けられる)   We're mandated to comply.
 
-## + V-ing (ENDED UP / COME CLOSE TO)
+## + V-ing (I'm used to V-ing / I ended up V-ing / I came close to V-ing)
+> `be used to -ing` /juːzd tuː/     ([Neutral] ～に慣れている)      I'm used to working late.
+  - `get used to -ing`              ([Neutral] ～に慣れる)          I got used to living alone.
+  - `be accustomed to` /əˈkʌstəmd/  ([Formal] ～に慣れている)       She's accustomed to the cold.
+  - `be in the habit of` /ˈhæbɪt/   ([Neutral] ～の習慣がある)      I'm in the habit of jogging daily.
 > `ended up -ing` /end ʌp/          ([Neutral] 結局〜した)          I ended up staying home all day.
 > `come close to -ing`              ([Neutral] 危うくしそうになる)  I came close to missing my flight.
   - `be on the verge of` /vɜːrdʒ/   ([Neutral] ～の寸前)            She's on the verge of tears.
@@ -103,7 +114,7 @@
   - `it's useless to`               ([Neutral] ～するのは無駄)      It's useless to complain.
   - `it's wasteful to`              ([Neutral] ～するのは無駄)      It's wasteful to throw that away.
 
-## It V that S V (IT CROSSES ONE'S MIND)
+## It V that S V (It crosses my mind)
 > `It crosses one's mind`           ([Casual] 頭をよぎる)           It never crossed my mind.
   - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
   - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
