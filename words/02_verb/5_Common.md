@@ -26,7 +26,7 @@
   - `prolong` /pɹoʊˈlɔŋ/            ([Formal] 延長する、長引かせる) Complaining prolongs one's pain.
   - `persist` /pɚˈsɪst/             ([Formal] 持続する、続く)       The symptoms persisted for weeks.
 
-## MOVE (move / go / get to / swing by / travel / walk)
+## MOVE (move / go / get to / walk / swing by / go down / enter)
 > `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
   - `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
   - `displace` /dɪsˈpleɪs/          ([Neutral] 押しのける)          The flood displaced many families.
@@ -59,19 +59,40 @@
   - `go to` /ɡoʊ tuː/               ([Neutral] ～に通う、行く)      I go to school every day.
   - `attend` /əˈtend/               ([Formal] 通う、出席する)       She attends university in Boston.
   - `commute to` /kəˈmjuːt tuː/     ([Neutral] 通勤する)            I commute to work by train.
+> `walk` /wɔːk/                     ([Neutral] 歩く)                I walk to work every day.
+  - `run` /rʌn/                     ([Neutral] 走る)                Run to catch the bus!
+  - `roam` /roʊm/                   ([Neutral] 放浪する、歩き回る)  They roamed the streets.
+  - `wander` /ˈwɑːndər/             ([Neutral] さまよう、歩き回る)  We wandered around the city.
+  - `drift` /drɪft/                 ([Neutral] 漂う、流れる)        The boat drifted downstream.
 > `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
   - `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
   - `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
   - `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
   - `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
   - `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
+> `go down` /ɡoʊ daʊn/              ([Neutral] 下りる)              Go down the stairs carefully.
+  - `come down` /kʌm daʊn/          ([Neutral] 降りて来る)          Come down from there!
+  - `walk down` /wɔːk daʊn/         ([Neutral] 歩いて下る)          Walk down the hill slowly.
+  - `climb down` /klaɪm daʊn/       ([Neutral] よじ降りる)          Climb down the ladder.
+  - `drop` /drɑːp/                  ([Neutral] 落ちる、下がる)      The temperature dropped suddenly.
+  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Be careful not to fall!
+  - `lower` /ˈloʊər/                ([Neutral] 下げる)              Lower your voice please.
+  - `sink` /sɪŋk/                   ([Neutral] 沈む)                The sun sank below the horizon.
+  - `descend` /dɪˈsend/             ([Formal] 下降する)             The plane began to descend.
+  - `descending` /dɪˈsendɪŋ/        ([Formal] 下降する)             In descending order.
+  - `decline` /dɪˈklaɪn/            ([Formal] 下降する、衰える)     Sales declined last quarter.
+  - `plunge` /plʌndʒ/               ([Neutral] 急落する)            Stock prices plunged today.
+> `enter` /ˈɛntɚ/                   ([Neutral] 入る、入力する)      Please knock before you enter.
+  - `entry` /ˈɛntɹi/                ([Neutral] 入ること、記入項目)  The entry to the building is locked.
+  - `entrance` /ˈɛntɹəns/           ([Neutral] 入口、入場)          The entrance is on the left.
+  - `go in` /ɡoʊ ɪn/                ([Casual] 中に入る)             Let's go in, it's cold outside.
+  - `come in` /kʌm ɪn/              ([Casual] 入って来る)           Please come in and have a seat.
+  - `walk in` /wɔːk ɪn/             ([Neutral] 歩いて入る)          He walked in without knocking.
+  - `step in` /step ɪn/             ([Neutral] 中に入る、介入する)  Please step in to my office.
+
+## MOVE (travel / relocate / transport / get together / show up / rush / see a doctor)
 > `travel` /ˈtrævəl/                ([Neutral] 旅行する、移動する)  I travel for work frequently.
   - `journey` /ˈdʒɜːrni/            ([Neutral] 旅する)              They journeyed across the country.
-> `walk` /wɔːk/                     ([Neutral] 歩く)                I walk to work every day.
-  - `run` /rʌn/                     ([Neutral] 走る)                Run to catch the bus!
-  - `roam` /roʊm/                   ([Neutral] 放浪する、歩き回る)  They roamed the streets.
-  - `wander` /ˈwɑːndər/             ([Neutral] さまよう、歩き回る)  We wandered around the city.
-  - `drift` /drɪft/                 ([Neutral] 漂う、流れる)        The boat drifted downstream.
 > `relocate` /ˌriːloʊˈkeɪt/         ([Neutral] 移転する)            The company relocated to Texas.
   - `migrate` /maɪˈɡreɪt/           ([Neutral] 移住する)            Birds migrate south for winter.
   - `emigrate` /ˈemɪɡreɪt/          ([Formal] 移住する)             They emigrated from Poland to Canada.
@@ -118,27 +139,68 @@
   - `go to the doctor`              ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
   - `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
   - `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
-> `go down` /ɡoʊ daʊn/              ([Neutral] 下りる)              Go down the stairs carefully.
-  - `come down` /kʌm daʊn/          ([Neutral] 降りて来る)          Come down from there!
-  - `walk down` /wɔːk daʊn/         ([Neutral] 歩いて下る)          Walk down the hill slowly.
-  - `climb down` /klaɪm daʊn/       ([Neutral] よじ降りる)          Climb down the ladder.
-  - `drop` /drɑːp/                  ([Neutral] 落ちる、下がる)      The temperature dropped suddenly.
-  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Be careful not to fall!
-  - `lower` /ˈloʊər/                ([Neutral] 下げる)              Lower your voice please.
-  - `sink` /sɪŋk/                   ([Neutral] 沈む)                The sun sank below the horizon.
-  - `descend` /dɪˈsend/             ([Formal] 下降する)             The plane began to descend.
-  - `descending` /dɪˈsendɪŋ/        ([Formal] 下降する)             In descending order.
-  - `decline` /dɪˈklaɪn/            ([Formal] 下降する、衰える)     Sales declined last quarter.
-  - `plunge` /plʌndʒ/               ([Neutral] 急落する)            Stock prices plunged today.
-> `enter` /ˈɛntɚ/                   ([Neutral] 入る、入力する)      Please knock before you enter.
-  - `entry` /ˈɛntɹi/                ([Neutral] 入ること、記入項目)  The entry to the building is locked.
-  - `entrance` /ˈɛntɹəns/           ([Neutral] 入口、入場)          The entrance is on the left.
-  - `go in` /ɡoʊ ɪn/                ([Casual] 中に入る)             Let's go in, it's cold outside.
-  - `come in` /kʌm ɪn/              ([Casual] 入って来る)           Please come in and have a seat.
-  - `walk in` /wɔːk ɪn/             ([Neutral] 歩いて入る)          He walked in without knocking.
-  - `step in` /step ɪn/             ([Neutral] 中に入る、介入する)  Please step in to my office.
 
-## COGNITIVE (agree with / come around to / buy into)
+## COGNITIVE (think / keep in mind / remember / assure)
+> `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
+  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
+  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
+  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
+  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
+> `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
+  - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
+  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
+> `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
+  - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
+  - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
+> `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
+  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
+  - `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
+  - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
+  - `promise` /ˈprɑːmɪs/            ([Neutral] 約束する、保証する)  She promised to call.
+  - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
+
+## COGNITIVE (thank / respect / praise / agree with / come around to / buy into)
+> `thank` /θæŋk/                    ([Neutral] 感謝する、礼を言う)  Thank you for your help.
+  - `appreciate` /əˈpriːʃieɪt/      ([Neutral] 感謝する、評価する)  I appreciate your help with this project.
+  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認識する 功績認める) We recognize your efforts.
+  - `acknowledge` /əkˈnɑːlɪdʒ/      ([Formal] 認める、感謝を示す)   I acknowledge your contribution.
+  - `cherish` /ˈtʃerɪʃ/             ([Neutral] 大切にする 心に抱く) I cherish these memories.
+  - `treasure` /ˈtreʒər/            ([Neutral] 大切にする 宝物扱い) I treasure your advice.
+  - `be grateful` /ˈɡreɪtfəl/       ([Neutral] 感謝している)        I'm grateful for your assistance.
+  - `be thankful` /ˈθæŋkfəl/        ([Neutral] 感謝している)        I'm thankful for this opportunity.
+  - `be appreciative` /əˈpriːʃətɪv/ ([Formal] 感謝している)         She was appreciative of their support.
+  - `be obliged` /əˈblaɪdʒd/        ([Formal] 恩義を感じる)         I'm much obliged for your help.
+  - `be indebted` /ɪnˈdetɪd/        ([Formal] 恩義がある)           I'm indebted to you for this.
+  - `be beholden` /bɪˈhoʊldən/      ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
+  - `owe` /oʊ/                      ([Neutral] 借りがある 恩がある) I owe you a debt of gratitude.
+> `respect` /rɪˈspekt/              ([Neutral] 尊敬、尊重)          I have great respect for her work.
+  - `value` /ˈvæljuː/               ([Neutral] 価値を認める 大切に) I value your opinion highly.
+  - `look up to` /lʊk ʌp tuː/       ([Casual] 尊敬する、見上げる)   Children look up to their parents.
+  - `honor` /ˈɑːnər/                ([Formal] 敬う、名誉を与える)   We honor their sacrifice.
+  - `regard` /rɪˈɡɑːrd/             ([Neutral] 見なす、敬意)        I regard him as a mentor.
+  - `esteem` /ɪˈstiːm/              ([Formal] 重んじる、尊敬)       She is held in high esteem by colleagues.
+  - `idolize` /ˈaɪdəlaɪz/           ([Neutral] 偶像化する、崇拝)    Fans idolize the rock star.
+  - `salute` /səˈluːt/              ([Neutral] 敬礼、敬意表す)      The soldiers saluted their commanding officer.
+  - `worship` /ˈwɜːrʃɪp/            ([Neutral] 崇拝する、礼拝する)  Some cultures worship nature.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your expertise.
+  - `revere` /rɪˈvɪr/               ([Writing] あがめる)            Many people revere his memory.
+  - `venerate` /ˈvenəreɪt/          ([Writing] 崇拝する、尊敬する)  They venerate their ancestors.
+> `praise` /preɪz/                  ([Neutral] 称賛する、褒める)    She praised him for his hard work.
+  - `congratulate` /kənˈɡrætʃəleɪt/ ([Neutral] 祝う、褒める)        Congratulate her on the promotion!
+  - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、賞賛)      The audience applauded enthusiastically.
+  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認める、表彰する)    The company recognized his efforts.
+  - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit her with the success.
+  - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   The teacher commended her excellent performance.
+  - `celebrate` /ˈseləbreɪt/        ([Neutral] 祝う、称える)        Let's celebrate your achievement!
+  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、感嘆する)  I admire your dedication.
+  - `acclaim` /əˈkleɪm/             ([Formal] 絶賛する、喝采)       The film received critical acclaim.
+  - `hail` /heɪl/                   ([Neutral] 称賛する、歓迎する)  Critics hailed it as a masterpiece.
+  - `glorify` /ˈɡlɔːrɪfaɪ/          ([Neutral] 賛美する、美化する)  Don't glorify bad behavior.
+  - `exalt` /ɪɡˈzɔːlt/              ([Writing] 称賛する、高める)    They exalted his achievements.
+  - `laud` /lɔːd/                   ([Writing] 賞賛する、称える)    Critics lauded the novel's innovative style.
+  - `extol` /ɪkˈstoʊl/              ([Writing] 賞賛する、讃える)    Critics extol the director's latest film.
+  - `eulogize` /ˈjuːlədʒaɪz/        ([Writing] 賛美する、弔辞)      He eulogized his late mentor.
+  - `lionize` /ˈlaɪənaɪz/           ([Writing] もてはやす 有名人扱) The media lionized the young athlete.
 > `agree with` /əˈɡriː wɪð/         ([Neutral] ～に賛成する)        I agree with the decision.
   - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The board approved the plan.
   - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
@@ -160,6 +222,37 @@
   - `lend support to`               ([Formal] 支援する、支持する)   I lend my support to the cause.
   - `get on board with`             ([Casual] 同意し参加する)       We need everyone on board with this.
   - `embrace` /ɪmˈbreɪs/            ([Neutral] 喜んで受け入れる)    She embraced the new approach.
+> `follow` /ˈfɑːloʊ/                ([Neutral] 従う、続く)          Please follow the instructions.
+  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
+  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
+  - `keep` /kiːp/                   ([Neutral] 守る、保つ)          Keep the rules in mind.
+  - `go along with`                 ([Casual] 同調する、従う)       I'll go along with the plan.
+  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
+  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
+  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
+  - `listen to` /ˈlɪsən tuː/        ([Neutral] 聞き従う)            Listen to your parents.
+  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
+  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
+  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
+  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
+  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
+  - `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、守る)      Maintain professional standards.
+  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
+  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
+  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
+  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
+  - `accept` /əkˈsept/              ([Neutral] 受け入れる)          Accept the terms and conditions.
+  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
+  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
+  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
+> `stand` /stænd/                   ([Neutral] 耐える)              I can't stand the noise.
+  - `tolerate` /ˈtɑːləreɪt/         ([Neutral] 耐える、我慢する)    I won't tolerate such behavior.
+  - `bear` /ber/                    ([Neutral] 耐える)              I can't bear the pain.
+  - `endure` /ɪnˈdʊr/               ([Neutral] 耐え忍ぶ)            She endured years of hardship.
+  - `put up with` /pʊt ʌp wɪð/      ([Casual] 我慢する)             I won't put up with this anymore.
+  - `abide` /əˈbaɪd/                ([Writing] 我慢する)            I can't abide his behavior.
+  - `withstand` /wɪðˈstænd/         ([Neutral] 耐える、抵抗する)    The building withstood the earthquake.
 
 ## VERBAL
 > `be upfront about`                ([Casual] について正直に言う)   She's very upfront about her feelings.
@@ -247,102 +340,6 @@
 > `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
 
 ---
-
-## COGNITIVE (THINK / KEEP IN MIND / REMEMBER / ASSURE / THANK / RESPECT)
-> `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
-  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
-  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
-  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
-  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
-> `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
-  - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
-  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
-> `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
-  - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
-  - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
-> `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
-  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
-  - `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
-  - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
-  - `promise` /ˈprɑːmɪs/            ([Neutral] 約束する、保証する)  She promised to call.
-  - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
-> `thank` /θæŋk/                    ([Neutral] 感謝する、礼を言う)  Thank you for your help.
-  - `appreciate` /əˈpriːʃieɪt/      ([Neutral] 感謝する、評価する)  I appreciate your help with this project.
-  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認識する 功績認める) We recognize your efforts.
-  - `acknowledge` /əkˈnɑːlɪdʒ/      ([Formal] 認める、感謝を示す)   I acknowledge your contribution.
-  - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit him for the success.
-  - `cherish` /ˈtʃerɪʃ/             ([Neutral] 大切にする 心に抱く) I cherish these memories.
-  - `treasure` /ˈtreʒər/            ([Neutral] 大切にする 宝物扱い) I treasure your advice.
-  - `praise` /preɪz/                ([Neutral] 称賛する、褒める)    The teacher praised her work.
-  - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   I commend you for your efforts.
-  - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、称賛する)  We applaud your dedication.
-  - `be grateful` /ˈɡreɪtfəl/       ([Neutral] 感謝している)        I'm grateful for your assistance.
-  - `be thankful` /ˈθæŋkfəl/        ([Neutral] 感謝している)        I'm thankful for this opportunity.
-  - `be appreciative` /əˈpriːʃətɪv/ ([Formal] 感謝している)         She was appreciative of their support.
-  - `be obliged` /əˈblaɪdʒd/        ([Formal] 恩義を感じる)         I'm much obliged for your help.
-  - `be indebted` /ɪnˈdetɪd/        ([Formal] 恩義がある)           I'm indebted to you for this.
-  - `be beholden` /bɪˈhoʊldən/      ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
-  - `owe` /oʊ/                      ([Neutral] 借りがある 恩がある) I owe you a debt of gratitude.
-> `respect` /rɪˈspekt/              ([Neutral] 尊敬、尊重)          I have great respect for her work.
-  - `value` /ˈvæljuː/               ([Neutral] 価値を認める 大切に) I value your opinion highly.
-  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、尊敬する)  I admire her courage.
-  - `look up to` /lʊk ʌp tuː/       ([Casual] 尊敬する、見上げる)   Children look up to their parents.
-  - `honor` /ˈɑːnər/                ([Formal] 敬う、名誉を与える)   We honor their sacrifice.
-  - `regard` /rɪˈɡɑːrd/             ([Neutral] 見なす、敬意)        I regard him as a mentor.
-  - `esteem` /ɪˈstiːm/              ([Formal] 重んじる、尊敬)       She is held in high esteem by colleagues.
-  - `idolize` /ˈaɪdəlaɪz/           ([Neutral] 偶像化する、崇拝)    Fans idolize the rock star.
-  - `salute` /səˈluːt/              ([Neutral] 敬礼、敬意表す)      The soldiers saluted their commanding officer.
-  - `worship` /ˈwɜːrʃɪp/            ([Neutral] 崇拝する、礼拝する)  Some cultures worship nature.
-  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your expertise.
-  - `revere` /rɪˈvɪr/               ([Writing] あがめる)            Many people revere his memory.
-  - `venerate` /ˈvenəreɪt/          ([Writing] 崇拝する、尊敬する)  They venerate their ancestors.
-> `praise` /preɪz/                  ([Neutral] 称賛する、褒める)    She praised him for his hard work.
-  - `congratulate` /kənˈɡrætʃəleɪt/ ([Neutral] 祝う、褒める)        Congratulate her on the promotion!
-  - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、賞賛)      The audience applauded enthusiastically.
-  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認める、表彰する)    The company recognized his efforts.
-  - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit her with the success.
-  - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   The teacher commended her excellent performance.
-  - `celebrate` /ˈseləbreɪt/        ([Neutral] 祝う、称える)        Let's celebrate your achievement!
-  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、感嘆する)  I admire your dedication.
-  - `acclaim` /əˈkleɪm/             ([Formal] 絶賛する、喝采)       The film received critical acclaim.
-  - `hail` /heɪl/                   ([Neutral] 称賛する、歓迎する)  Critics hailed it as a masterpiece.
-  - `glorify` /ˈɡlɔːrɪfaɪ/          ([Neutral] 賛美する、美化する)  Don't glorify bad behavior.
-  - `exalt` /ɪɡˈzɔːlt/              ([Writing] 称賛する、高める)    They exalted his achievements.
-  - `laud` /lɔːd/                   ([Writing] 賞賛する、称える)    Critics lauded the novel's innovative style.
-  - `extol` /ɪkˈstoʊl/              ([Writing] 賞賛する、讃える)    Critics extol the director's latest film.
-  - `eulogize` /ˈjuːlədʒaɪz/        ([Writing] 賛美する、弔辞)      He eulogized his late mentor.
-  - `lionize` /ˈlaɪənaɪz/           ([Writing] もてはやす 有名人扱) The media lionized the young athlete.
-> `follow` /ˈfɑːloʊ/                ([Neutral] 従う、続く)          Please follow the instructions.
-  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
-  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
-  - `keep` /kiːp/                   ([Neutral] 守る、保つ)          Keep the rules in mind.
-  - `go along with`                 ([Casual] 同調する、従う)       I'll go along with the plan.
-  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
-  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
-  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
-  - `listen to` /ˈlɪsən tuː/        ([Neutral] 聞き従う)            Listen to your parents.
-  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
-  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
-  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
-  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
-  - `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、守る)      Maintain professional standards.
-  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
-  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
-  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
-  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
-  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
-  - `accept` /əkˈsept/              ([Neutral] 受け入れる)          Accept the terms and conditions.
-  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
-  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
-  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
-> `stand` /stænd/                   ([Neutral] 耐える)              I can't stand the noise.
-  - `tolerate` /ˈtɑːləreɪt/         ([Neutral] 耐える、我慢する)    I won't tolerate such behavior.
-  - `bear` /ber/                    ([Neutral] 耐える)              I can't bear the pain.
-  - `endure` /ɪnˈdʊr/               ([Neutral] 耐え忍ぶ)            She endured years of hardship.
-  - `put up with` /pʊt ʌp wɪð/      ([Casual] 我慢する)             I won't put up with this anymore.
-  - `abide` /əˈbaɪd/                ([Writing] 我慢する)            I can't abide his behavior.
-  - `withstand` /wɪðˈstænd/         ([Neutral] 耐える、抵抗する)    The building withstood the earthquake.
 
 ## TRAITS (SATISFY)
 > `satisfy` /ˈsætɪsfaɪ/             ([Neutral] 満足させる)          This answer will satisfy your question.

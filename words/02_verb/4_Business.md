@@ -83,7 +83,7 @@
 > `pay off` /peɪ ɔːf/               ([Neutral] 報われる)            All that hard work paid off.
   - `bear fruit` /ber fruːt/        ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
 
-## TASK (get ready for / go about / sort out / look into / get / )
+## TASK (get ready for / go about / sort out / look into / get)
 > `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
   - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
   - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
@@ -163,7 +163,7 @@
   - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
   - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
 
-## TRAITS (is related to / have something to do with / have things in common / It all comes down to /)
+## TRAITS (is related to / have something to do with / have things in common / It all comes down to)
 > `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
   - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
   - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.

@@ -619,7 +619,6 @@ cheeky	9	【形】生意気な、厚かましい、ほおの垂れさがった
 cheering	6	【形】激励の、元気づける		
 cheery	9	【形】上機嫌の、活気づける		
 chemotherapy	12	【名】化学療法		
-cherish	7	【動】大事にする、かわいがる		
 chestnut	7	【名】クリ、クリの木		
 chic	10	【形】しゃれた		
 chide	11	【動】たしなめる、小言を言う		
