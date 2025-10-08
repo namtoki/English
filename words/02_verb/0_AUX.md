@@ -39,6 +39,10 @@
   - `barely manage to` /ˈberli/     ([Neutral] かろうじて～する)    I barely managed to catch the bus.
   - `hardly manage to` /ˈhɑːrdli/   ([Neutral] ほとんど～できない)  I can hardly manage to stay awake.
   - `just manage to` /dʒʌst/        ([Neutral] なんとか～する)      I just managed to get there.
+- `be liable to` /biː ˈlaɪəbəl tuː/ ([Formal] 〜しがちである)       He's liable to forget important details.
+- `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
+- `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
+- `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
 
 ## + V 原型 (I have no choice but to / I'm obligated to)
 > `have no choice but to`           ([Neutral] 選択肢がない)        I have no choice but to quit.

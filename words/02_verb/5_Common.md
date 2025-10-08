@@ -911,33 +911,6 @@
   - `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
   - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
   - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
-> `have an effect on`               ([Neutral] 影響を与える)        The weather can have an effect on mood.
-  - `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
-  - `influence` /ˈɪnfluəns/         ([Neutral] 影響する、左右する)  Weather influences our mood.
-  - `have an impact on`             ([Neutral] 影響を与える)        Your words have an impact on people.
-  - `make a difference`             ([Neutral] 影響を与える)        Your help really makes a difference.
-  - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
-  - `shape` /ʃeɪp/                  ([Neutral] 形作る、左右する)    Experiences shape our personality.
-  - `control` /kənˈtroʊl/           ([Neutral] 支配する、制御する)  Who controls the budget?
-  - `drive` /draɪv/                 ([Neutral] 駆動する、左右する)  Competition drives innovation.
-  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、決める)    Several factors determine the outcome.
-  - `guide` /ɡaɪd/                  ([Neutral] 導く、指導する)      Let principles guide your actions.
-  - `direct` /dəˈrekt/              ([Neutral] 指示する、導く)      She directs the operations.
-  - `sway` /sweɪ/                   ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
-  - `rub off on` /rʌb ɔːf ɑːn/      ([Casual] 影響を与える)         Her enthusiasm rubbed off on the team.
-  - `dictate` /dɪkˈteɪt/            ([Neutral] 左右する、決定する)  Market forces dictate the price.
-  - `govern` /ˈɡʌvərn/              ([Formal] 支配する、左右する)   Supply and demand govern prices.
-  - `steer` /stɪr/                  ([Neutral] 導く、左右する)      He steered the conversation away.
-  - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
-  - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
-  - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
-> `clinch` /klɪnt͡ʃ/                 ([Neutral] 確実にする、獲得する) They clinched the championship.
-  - `clincher` /ˈklɪntʃər/          ([Neutral] 決め手、決定的なもの) That was the clincher for me.
-  - `secure` /səˈkjʊɹ/              ([Neutral] 確保する、獲得する)  We secured the contract.
-  - `seal` /siːl/                   ([Neutral] 確定する、封じる)    They sealed the deal.
-  - `wrap up` /ɹæp ʌp/              ([Casual] 完了する、決める)     Let's wrap up this project.
-
----
 
 > `spend` /spend/                   ([Neutral] 使う、費やす)        I spend too much on clothes.
   - `pay for` /peɪ fɔː/             ([Neutral] 支払う)              I'll pay for dinner tonight.
@@ -1056,7 +1029,6 @@
   - `remedy` /ˈremədi/              ([Neutral] 治療する、改善する)  We need to remedy this situation.
   - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を投与する)        They medicated the patient for pain.
   - `administer` /ədˈmɪnɪstər/      ([Medical] 投与する、施す)      The nurse administered the vaccine.
-
 
 ## WATCH OUT
 - `warn` /wɔːrn/                    ([Neutral] 警告する、注意する)  I warned him about the danger.
@@ -1253,11 +1225,6 @@
 
 - `suffer` /ˈsʌfər/                 ([Neutral] 苦しむ、患う)        She suffers from migraines.
 - `agonize` /ˈæɡənaɪz/              ([Neutral] 苦悶する)            He agonized over the decision.
-
-- `be liable to` /biː ˈlaɪəbəl tuː/ ([Formal] 〜しがちである)       He's liable to forget important details.
-- `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
-- `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
-- `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
 
 - `struggle` /ˈstrʌɡəl/               ([Neutral] 苦闘する)            She struggled with depression.
 - `flounder` /ˈflaʊndər/             ([Neutral] もがく、困惑する)    He floundered during the interview.
