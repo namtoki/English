@@ -37,7 +37,6 @@ adorn	7	【動】装飾する、魅力的にする
 adornment	9	【名】装飾品、飾りたてること		
 adrift	11	【形】さまよった		
 adultery	11	【名】姦通、不倫		
-advantageous	7	【形】有利な、利益のある、都合のよい		
 adversity	9	【名】逆境、不運		
 advisable	8	【形】望ましい、賢明な		
 aegis	12	【名】後援、保護、（米海軍）イージス艦		
@@ -49,7 +48,6 @@ affectation	12	【名】気どり、ふりをすること
 affected	9	【形】気どった		
 affectionate	7	【形】情愛の深い、愛情のこもった		
 affectionately	8	【副】愛情を込めて		
-affidavit	10	【名】宣誓供述書		
 affiliate	10	【名】支部 【動】合併する、会員にする		
 affiliated	11	【形】提携している、関連のある		
 affiliation	10	【名】提携、入会		
@@ -810,7 +808,6 @@ conservationist	11	【名】自然保護論者 【形】自然保護論者の
 conservative	5	【形】保守的な、控えめな 【名】保守的な人		
 conservatory	12	【名】温室、音楽学校		
 conserve	8	【動】保存する、節約する		
-considerably	6	【副】かなり、相当に		
 consign	10	【動】渡す、預ける、託す		
 consignment	12	【名】委託、委託販売品、積送品		
 consistency	8	【名】一貫性、堅さ、一致、調和		
@@ -827,8 +824,6 @@ constituent	9	【形】構成する、構成要素である、選挙権のある
 constitute	5	【動】構成する、任命する		
 constitution	4	【名】憲法、規約		
 constitutional	7	【形】憲法上の、立憲的な、健康によい		
-constrain	10	【動】拘束する、抑制する		
-constraint	8	【名】強制、制約、抑制、遠慮		
 constrict	12	【動】収縮する、締めつける、発展を抑える		
 constructive	6	【形】建設的な、発展的な、解釈上の		
 construe	10	【動】説明する、解釈する、翻訳する		
@@ -838,7 +833,6 @@ consummate	11	【形】完璧な、実に見事な 【動】完了させる
 consummation	12	【名】成就、仕上げ、終焉		
 contagion	12	【名】接触伝染病、感染、感化		
 contagious	8	【形】接触伝染性の、感染させる		
-containment	11	【名】封じ込め、抑制、束縛		
 contaminant	9	【名】汚染物質		
 contaminate	8	【動】汚染する、不純にする		
 contamination	9	【名】汚濁、汚染（物質）		
@@ -852,7 +846,6 @@ contented	8	【形】満足した、甘んじた
 contention	9	【名】主張、論争、闘争		
 contentious	11	【形】議論を起こす、論争好きの		
 contentment	6	【名】満足、安ど		
-contestant	9	【名】出場者、競技者		
 contingency	11	【名】不慮の出来事、偶然性、続発事件		
 contingent	11	【形】～を条件とする、～に付随する、不慮の 【名】偶発事、選手団		
 continual	6	【形】絶え間のない		
@@ -866,11 +859,8 @@ contraception	11	【名】避妊、産児制限
 contraceptive	11	【形】避妊の 【名】避妊器具、避妊薬		
 contraction	7	【名】収縮、短縮、不況		
 contravene	12	【動】違反する、矛盾する		
-contributor	8	【名】寄付者、貢献者 寄稿者		
 contrition	11	【名】悔い改め、悔恨		
 contrive	9	【動】企てる、もくろむ、考案する		
-controversial	6	【形】議論の余地がある、異論のある		
-controversy	6	【名】論争、口論		
 conundrum	11	【名】難問、なぞ		
 convergence	11	【名】意見の合致、集中、同時発生		
 convertible	10	【形】変換できる、コンバーチブル型の 【名】ほろ型自動車		
@@ -882,7 +872,6 @@ coop	12	【名】鶏小屋、狭苦しい場所 【動】閉じ込める
 cooper	11	【名】樽類製造者、桶屋		
 coordination	8	【名】調整、一致、対等、同格		
 cop	4	【名】警官 【動】獲得する		
-copious	12	【形】多量の、内容の豊富な		
 copper	5	【名】銅、銅貨		
 coral	10	【名】サンゴ		
 cordial	9	【形】誠心誠意の 【名】元気づけるもの		
@@ -902,14 +891,12 @@ correspondent	6	【名】通信員、特派員 【形】一致している、対
 corresponding	8	【形】対応する、類似の、付随する		
 corrode	12	【動】腐食する、徐々に悪くなる		
 corrosive	11	【形】腐食する、痛烈な		
-corrupt	6	【形】堕落した、不正な 【動】買収する、堕落させる		
 cortex	11	【名】（大脳）皮質、樹皮		
 cosmic	9	【形】宇宙の、無限の		
 cosmopolitan	8	【形】国際的な、外国人に対して偏見のない 【名】国際人		
 cot	12	【名】簡易ベッド、小屋		
 couch	4	【名】長いす 【動】表す、うずくまる		
 councilor	10	【名】議員、評議員、顧問官		
-countdown	10	【名】秒読み、カウントダウン		
 countenance	8	【名】顔つき、見かけ、落ち着き、精神的支持		
 counter	4	【名】カウンター、勘定台 【形】反対の		
 counteract	10	【動】反対に作用する、無効にする、中和する		
@@ -918,7 +905,6 @@ counterfeit	11	【形】偽の、見せかけの 【動】偽造する、ふり�
 counterpart	6	【名】対をなすものの片方、よく似た人・もの、写し		
 countless	6	【形】数えきれないほどの、無数の		
 coup	8	【名】クーデター、大当たり、大成功		
-courageous	5	【形】勇気のある		
 courier	10	【名】配達人、宅配便業者、特使、案内人		
 courteous	7	【形】礼儀正しい、いんぎんな		
 courtesy	6	【名】礼儀正しいこと、丁寧 【形】儀礼上の		
@@ -1065,7 +1051,6 @@ decimal	8	【形】小数の、十進法の 【名】小数
 decimate	12	【動】多くを殺す、かなり減らす		
 decipher	11	【動】解読する、はっきりさせる 【名】解読		
 decisive	7	【形】決定的な、断固とした		
-declaration	5	【名】宣言、公表		
 decor	11	【名】装飾物、装飾様式、舞台装置		
 decorate	4	【動】飾る、勲章を授ける		
 decoration	5	【名】飾り付け		
@@ -2869,7 +2854,6 @@ nutrient	6	【名】栄養物 【形】栄養を含む、滋養になる
 nutrition	6	【名】栄養分、食物、栄養学		
 nutritious	7	【形】栄養になる、滋養の多い		
 nutty	11	【形】風変わりな、ばかげた、内容の充実した、木の実の味の		
-oath	7	【名】誓約、断言		
 obedient	7	【形】従順な		
 obituary	12	【名】死亡記事 【形】死の		
 objection	6	【名】異議、難点		
@@ -3171,9 +3155,7 @@ plywood	11	【名】ベニヤ板
 pneumonia	11	【名】肺炎		
 poach	8	【動】侵入する、密猟する		
 pocketbook	9	【名】財布、紙入れ、ハンドバッグ		
-pod	11	【名】エンドウなどのさや、さや状のもの 【動】殻を取る		
 podium	9	【名】表彰台、演台		
-poetic	6	【形】詩的な、詩の、詩人の		
 poignant	11	【形】心を打つ、痛恨の、辛らつな		
 pointless	9	【形】無意味な、先のない、力のない		
 poke	9	【動】突っ込む 【名】突くこと		
@@ -3182,7 +3164,6 @@ polarize	12	【動】分裂する、対立させる、分極化させる
 polemic	12	【名】論争、反論		
 polished	9	【形】研ぎあげた、洗練された		
 politic	10	【形】賢明な		
-poll	5	【名】世論調査、投票 【動】選挙人名簿に登録する		
 pollen	8	【名】花粉		
 pollutant	9	【名】汚染物質		
 polytechnic	10	【名】技術専門学校 【形】工芸教育の		
@@ -3697,7 +3678,6 @@ salvage	11	【動】火災から財貨を救出する 【名】海難救助、�
 salvation	9	【名】救い、救出		
 sanctity	11	【名】神聖さ、高潔		
 sandstone	10	【名】砂岩		
-sane	7	【形】正気の、分別ある		
 sanguine	11	【形】楽天的な、自信たっぷりの、赤みを帯びた		
 sanitary	7	【形】衛生的な、衛生の		
 sanity	8	【名】正気、健全さ		
@@ -3723,7 +3703,6 @@ scarcity	8	【名】不足、欠乏、食糧難
 scarlet	7	【名】緋色 【形】緋色の		
 scary	5	【形】恐ろしい		
 scenic	8	【形】風景の、景色のいい、劇の、生き生きとした		
-schematic	12	【形】概要の、図式的な 【名】図表		
 schizophrenia	11	【名】精神分裂病		
 scholarly	9	【形】学術的な、学者の		
 schooling	6	【名】学校教育、教えること、授業料		
@@ -4243,7 +4222,6 @@ terse	11	【形】簡単明瞭な、短くきびきびした
 testament	8	【名】証拠、遺言、契約、聖書		
 testify	7	【動】証言する、証拠となる、おごそかに宣言する		
 testimonial	11	【形】感謝や賞賛を表す、証明となる 【名】証明書、賞状		
-testimony	8	【名】宣誓証言、証拠、公然とした表明		
 tetanus	12	【名】破傷風		
 textile	7	【名】布地、織物 【形】織られた、織物の		
 thatch	12	【動】屋根を草でふく 【名】わらぶき屋根、屋根をふく材料		

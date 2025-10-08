@@ -49,6 +49,7 @@
   - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 進展する、前進する)  We're making headway on the problem.
   - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
   - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
+> `(still) early days`              ([Neutral] まだ初期段階)        Our progress has been slow, but it's still early days.
 > `be in progress`                  ([Neutral] 進行中である)        The update is in progress.
   - `be well underway`              ([Neutral] 順調に進行中)        The project is well underway.
   - `be at the halfway point`       ([Neutral] 半分の地点にいる)    We're at the halfway point.

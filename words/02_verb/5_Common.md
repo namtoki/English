@@ -1225,9 +1225,14 @@
   - `confidant` /ˈkɑːnfɪdænt/       ([Neutral] 親友、相談相手)      She's my closest confidant.
 
 ## RELY ON
+> `relate to` /ɹɪˈleɪt tuː/         ([Neutral] 共感する、関連する)  I can relate to your experience.
 > `rely on` /rɪˈlaɪ ɑːn/            ([Neutral] 頼る、依存する)      We rely on public transport.
 > `depend on` /dɪˈpend ɑːn/         ([Neutral] 頼る、次第である)    Success depends on hard work.
 > `count on` /kaʊnt ɑːn/            ([Neutral] 頼る、当てにする)    I'm counting on you to help me.
+> `count toward` /kaʊnt təˈwɔrd/     ([Neutral] ～に含まれる)        This course counts toward your degree.
+  - `contribute toward` /kənˈtɹɪb.jut təˈwɔrd/ ([Neutral] ～に貢献する) Every donation contributes toward our goal.
+  - `go toward` /ɡoʊ təˈwɔrd/       ([Neutral] ～に充てられる)      The money will go toward new equipment.
+  - `apply toward` /əˈplaɪ təˈwɔrd/ ([Neutral] ～に充当する)        Credits apply toward your next purchase.
 - `trust` /trʌst/                   ([Neutral] 信頼する)            You can trust me not to tell anyone.
 > `turn to` /tɜːrn tuː/             ([Neutral] 頼る、助けを求める)  She turned to her family for support.
 - `look to` /lʊk tuː/               ([Neutral] 頼る、期待する)      We look to you for guidance.

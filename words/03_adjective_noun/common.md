@@ -612,6 +612,40 @@
 - `exodus` /ˈeksədəs/                ([Neutral] 大移住)         There was an exodus from the city during the pandemic.
 - `departure` /dɪˈpɑːrtʃər/          ([Neutral] 出発)          The train departure was delayed by fog.
 - `flight` /flaɪt/                   ([Neutral] 逃避)          Their flight from the country was sudden.
+- `booze` /buːz/                     ([Casual] 酒)                       Let's grab some booze for the party.
+- `liquor` /ˈlɪkɚ/                   ([Neutral] 蒸留酒)                  The store sells liquor and wine.
+- `spirits` /ˈspɪɹɪts/               ([Neutral] 蒸留酒)                  They only drink spirits, not beer.
+- `alcohol` /ˈælkəhɔl/               ([Neutral] アルコール飲料)          He avoids alcohol completely.
+- `brew` /bɹuː/                      ([Casual] ビール、酒)              Want to grab a brew after work?
+- `hooch` /huːt͡ʃ/                    ([Casual] 密造酒、安酒)            They drank some cheap hooch.
+- `pod` /pɑːd/                       ([Neutral] さや、ポッド)            The peas are in the pod.
+- `shell` /ʃɛl/                      ([Neutral] 殻、外皮)                Crack the walnut shell carefully.
+- `husk` /hʌsk/                      ([Neutral] 外皮、殻)                Remove the corn husk before cooking.
+- `hull` /hʌl/                       ([Neutral] 殻、外皮)                The hull protects the seed inside.
+- `sheath` /ʃiːθ/                    ([Neutral] 鞘、覆い)                The leaf sheath wraps around the stem.
+- `capsule` /ˈkæpsl/                 ([Neutral] 蒴果、カプセル)          The capsule contains many seeds.
+- `containment` /kənˈteɪnmənt/       ([Neutral] 封じ込め、抑制)          The containment of the virus is critical.
+- `confinement` /kənˈfaɪnmənt/       ([Neutral] 監禁、閉じ込め)          He was kept in confinement for weeks.
+- `restraint` /ɹɪˈstɹeɪnt/           ([Neutral] 抑制、制約)              Exercise restraint when you speak.
+- `control` /kənˈtɹoʊl/              ([Neutral] 支配、管理)              She lost control of the car.
+- `restriction` /ɹɪˈstɹɪkʃən/        ([Neutral] 制限、規制)              Travel restrictions are in place.
+- `isolation` /ˌaɪsəˈleɪʃən/         ([Neutral] 隔離、孤立)              He spent two weeks in isolation.
+- `copious` /ˈkoʊpiəs/               ([Neutral] 豊富な、大量の)          She took copious notes during class.
+- `abundant` /əˈbʌndənt/             ([Neutral] 豊富な、十分な)          Food was abundant at the party.
+- `plentiful` /ˈplɛntɪfl̩/            ([Neutral] 豊富な、たくさんの)      Jobs are plentiful in that city.
+- `profuse` /pɹəˈfjuːs/              ([Neutral] 豊富な、惜しみない)      She offered profuse apologies.
+- `ample` /ˈæmpəl/                   ([Neutral] 十分な、豊富な)          There's ample time to finish.
+- `bountiful` /ˈbaʊntɪfəl/           ([Neutral] 豊富な、気前の良い)      We had a bountiful harvest this year.
+- `affidavit` /ˌæfɪˈdeɪvɪt/          ([Formal] 宣誓供述書)              She filed an affidavit with the court.
+- `testimony` /ˈtɛstɪmoʊni/          ([Formal] 証言)                    The witness gave testimony in court.
+- `declaration` /ˌdɛkləˈɹeɪʃən/      ([Formal] 宣言、申告)              He signed a customs declaration.
+- `oath` /ˈoʊθ/                      ([Formal] 宣誓、誓い)              She took an oath to tell the truth.
+- `schematic` /skɪˈmætɪk/            ([Neutral] 図式、概略図)            Review the schematic before assembly.
+- `diagram` /ˈdaɪəɡɹæm/              ([Neutral] 図、図表)                The diagram shows how it works.
+- `blueprint` /ˈbluːpɹɪnt/           ([Neutral] 青写真、設計図)          They drew up a blueprint for the house.
+- `layout` /ˈleɪaʊt/                 ([Neutral] レイアウト、配置図)      The page layout looks professional.
+- `plan` /plæn/                      ([Neutral] 平面図、設計図)          Study the floor plan carefully.
+- `sketch` /skɛt͡ʃ/                   ([Neutral] スケッチ、略図)          She made a quick sketch of the design.
 
 
 ## BANK
