@@ -38,7 +38,7 @@
   - `I appreciate your help as always.`
   - `I always appreciate your business.`
 
-## REPLY (Understood / Will do)
+## REPLY (Understood / Will do / Happy to help)
 > `Understood`                      ([Formal] 了解しました)         Please prioritize this. Understood.
   - `Got it`                        ([Casual] 了解です)             Please finish by 5. Got it.
   - `You got it`                    ([Casual] 了解です)             Close the door, please. You got it.
@@ -56,6 +56,7 @@
   - `I'll see to it`                ([Neutral] 私が面倒を見ます)    Make sure it's done. I'll see to it.
   - `I'll make sure it gets done`   ([Formal] 必ず実行します)       This is critical. I'll make sure it gets done.
   - `Consider it done`              ([Neutral] お任せください)      I need this by tomorrow. Consider it done.
+> `Happy to help`                   ([Casual] 喜んで手伝いますよ) Thanks for reading my outline. `Happy to help!`
 
 ## REPLY (That makes sense / I feel you / Fair enough / True / Good to know)
 > `Makes sense`                     ([Casual] なるほど)             Makes sense. Let's do that.
@@ -128,13 +129,12 @@
   - `Happy to help`                 ([Casual] 喜んでお手伝いします) Thanks for the advice. Happy to help.
   - `No worries`                    ([Casual] 気にしないで)         Sorry I'm late. No worries.
   - `Of course`                     ([Neutral] もちろんです)        Thanks for letting me know. Of course.
+> `That's really something`         ([Casual] 大したもんだね)       Wow, you finished the project early? `That's really something!`
 
-## OPINION (How can I put this?)
+## OPINION (How can I put this? / You lost me / Come again?)
 > `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
   - `What can I say`                ([Casual] なんというか)         I love coffee too much. What can I say?
   - `What do you want me to say`    ([Casual] 何て言えばいいの)     I failed again. What do you want me to say?
-  - `It is what it is`              ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
-  - `That's just me`                ([Casual] それが私だから)       I can't help being late. That's just me.
   - `What else can I say`           ([Casual] 他に何て言えばいい)   I'm sorry I messed up. What else can I say?
   - `I have no excuse`              ([Neutral] 言い訳できない)      I forgot the meeting. I have no excuse.
   - `How should I say this?`        ([Neutral] どう言えばいいかな)  How should I say this? It's sensitive.
@@ -144,20 +144,54 @@
   - `I'm trying to find the right words` ([Neutral] 適切な言葉を探してる) I'm trying to find the right words here.
   - `It's hard to explain`          ([Casual] 説明が難しい)         It's hard to explain, but I'll try.
   - `I don't know how to put it`    ([Casual] どう言えばいいか)     I don't know how to put it exactly.
+> `You lost me`                     ([Casual] ついていけなくなった) You lost me at the third step.
+  - `I'm not sure I follow`         ([Neutral] よく理解できません)  I'm not sure I follow what you mean. Could you explain?
+  - `I don't follow`                ([Casual] わからない)           I don't follow your logic here.
+  - `I'm confused`                  ([Casual] 混乱している)         I'm confused about the timeline.
+  - `I don't get it`                ([Casual] わからない)           Sorry, I don't get it. Can you explain?
+  - `I don't understand`            ([Neutral] 理解できない)        I don't understand what you're saying.
+  - `I'm lost`                      ([Casual] ついていけない)       I'm lost. Can we go back a step?
+  - `I'm not following`             ([Neutral] ついていけてない)    I'm not following your reasoning.
+  - `I didn't catch that`           ([Casual] 聞き取れなかった)     I didn't catch that. Could you repeat?
+> `Come again?`                     ([Casual] もう一回言って)       Come again? I didn't catch that.
+  - `Sorry, what?`                  ([Casual] え、何？)             Sorry, what? I missed that.
 
-## OPINION (I'm fine with / That would be great / That's the way it is)
+## OPINION (at the moment)
+> `I'm V-ing ... at the moment.`    ([Casual] 今まさに～している)   I'm working on the report at the moment.
+  - `I'm still working on it`       ([Casual] まだ取り組んでいる)   I'm still working on it, but I should be done soon.
+  - `I'm in the middle of something`([Casual] 今手が離せない)       I'm in the middle of something right now, can I call you back?
+  - `I've got my hands full`        ([Casual] 手がいっぱいだ)       `I've got my hands full` with this project right now.
+> `Leave it there`                  ([Casual] それで終わりにしよう) Let's `leave it there` for today.
+  - `So much for O`                 ([Casual] これで終わ,期待外れ)  `So much for` our plans to go hiking.
+
+## OPINION ()
 - `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
+- `that's the way S V`                  ([Neutral] このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
 
-## OPINION (I'm fine with / That would be great / That's the way it is)
+## OPINION (I'm fine with / No rush / That would be great / That's the way it is)
 > `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
   - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
   - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
   - `I'm not particular about it`   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
   - `Nothing in particular`         ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
   - `It doesn't matter`             ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
+> `No rush`                         ([Casual] 急がなくていいよ)     `No rush,` take your time finishing the project.
+  - `Take your time with O`         ([Casual] ゆっくりやっていいよ) `Take your time with` the report; no rush.
+  - `No pressure to V`              ([Casual] 無理しなくていいよ)   `No pressure to` decide right now.
+  - `Don't feel pressured to V`     ([Casual] プレッシャ感じないで) Don't feel pressured to say yes.
+  - `No obligation to V`            ([Neutral] ～する義務はないよ)  There's no obligation to attend.
+  - `You don't have to V`           ([Casual] ～しなくていいよ)     You don't have to answer right away.
+  - `Feel free to say no`           ([Casual] 断っていいよ)         Feel free to say no if you're busy.
+  - `Only if you want to`           ([Casual] したいならだけだよ)   Come along, but only if you want to.
+  - `It's not urgent.`              ([Neutral] 急ぎじゃないよ)      `It's not urgent`, so you can handle it later.
+  - `There is no particular urgency.`([Formal] 特に急ぎありません)  `There is no particular urgency` for this task.
+  - `Please handle it at your convenience.`([Formal] ご都合のよい時に) `Please handle it at your convenience.`
+> `You name it`                     ([Casual] なんでも言って)       We have coffee, tea, juice—`you name it.`
 > `That would be great`             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
   - `That'd be perfect`             ([Casual] それは完璧だ)         That'd be perfect for our meeting schedule.
 > `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
+  - `It is what it is`              ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
+  - `That's just me`                ([Casual] それが私だから)       I can't help being late. That's just me.
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
 
 ## CONFIRMATION (are you okay?)
@@ -208,25 +242,14 @@
   - `There we go.`                  ([Casual] ほらね／できたよ)     `There we go.` The printer is working again.
   - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
   - `There you go.`                 ([Casual] どうぞ／その調子)     I'm going to go for it! / Yeah, `There you go`!
+- `why`                             ([Casual] おや／あら)           `Why,` I didn't expect to see you here!
 
 ## CLICHE
 - `the sky's the limit`             ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
+- `Just give it time`               ([Casual] 時間が解決してくれる) `Just give it time`; things will improve.
+- `mum's the word`                  ([Casual] 内緒にしてね)         `Mum's the word` about the surprise party.
 
 ---
-
-
-## I'M NOT SURE I FOLLOW / COME AGAIN?
-> `I'm not sure I follow`           ([Neutral] よく理解できません)  I'm not sure I follow what you mean. Could you explain?
-  > `I don't follow`                ([Casual] わからない)           I don't follow your logic here.
-  - `I'm confused`                  ([Casual] 混乱している)         I'm confused about the timeline.
-  - `I don't get it`                ([Casual] わからない)           Sorry, I don't get it. Can you explain?
-  - `I don't understand`            ([Neutral] 理解できない)        I don't understand what you're saying.
-  - `I'm lost`                      ([Casual] ついていけない)       I'm lost. Can we go back a step?
-  - `You lost me`                   ([Casual] ついていけなくなった) You lost me at the third step.
-  - `I'm not following`             ([Neutral] ついていけてない)    I'm not following your reasoning.
-  - `I didn't catch that`           ([Casual] 聞き取れなかった)     I didn't catch that. Could you repeat?
-> `Come again?`                     ([Casual] もう一回言って)       Come again? I didn't catch that.
-  - `Sorry, what?`                  ([Casual] え、何？)             Sorry, what? I missed that.
 
 ## QUESTIONS (DOES THAT SOUND C? / WHAT'S YOUR TAKE ON? / WHAT ARE THE CHANCES THAT ...? / )
 > `Does that sound C?`              ([Casual] C のように聞こえる？) `Does that sound` good?
@@ -361,80 +384,43 @@
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
 
 ## OPINION
-- [ ] `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
-- [ ] `I believe in O`                      ([Neutral] Oを信じている) `I believe in the power of teamwork.`
-- [ ] `I believe (that) S V`                ([Neutral] ～だと信じている) `I believe that everyone deserves a second chance.`
-- [ ] `I see you have V`                    ([Neutral] ～したようだね) `I see you have` finished the report early.
-- [ ] `It might be a good idea to V`        ([Neutral] ～した方がいいかもしれない) `It might be a good idea to` double-check the numbers.
-- [ ] `It wouldn't hurt to V`               ([Neutral] ～しても損はない) `It wouldn't hurt to` ask for help if you're stuck.
-- [ ] `It goes without saying that S V`     ([Formal] ～は言うまでもなく) `It goes without saying that` safety is our top priority.
-- [ ] `It's no use V-ing`                   ([Neutral] Vしても無駄だ) `It's no use arguing with someone who won’t listen.`
-- [ ] `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn’t change.`
-- [ ] `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
-- [ ] `That's not to say (that) S V`        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.
-- [ ] `That's rather unlikely`              ([Neutral] それはあまりなさそうだ) `That's rather unlikely,` given the current circumstances.
-- [ ] `The fact is`                         ([Neutral] 実を言うと) `The fact is,` I don't have enough money.
-- [ ] `You might wonder O`                  ([Neutral] Oと思うかもしれない) `You might wonder` why we made that decision.
+- `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
+- `I hope I'm not interrupting you.`    ([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
+- `I believe in O`                      ([Neutral] Oを信じている) `I believe in the power of teamwork.`
+- `I believe (that) S V`                ([Neutral] ～だと信じている) `I believe that everyone deserves a second chance.`
+- `I see you have V`                    ([Neutral] ～したようだね) `I see you have` finished the report early.
+- `It might be a good idea to V`        ([Neutral] ～した方がいいかもしれない) `It might be a good idea to` double-check the numbers.
+- `It wouldn't hurt to V`               ([Neutral] ～しても損はない) `It wouldn't hurt to` ask for help if you're stuck.
+- `It goes without saying that S V`     ([Formal] ～は言うまでもなく) `It goes without saying that` safety is our top priority.
+- `It's no use V-ing`                   ([Neutral] Vしても無駄だ) `It's no use arguing with someone who won't listen.`
+- `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn't change.`
+- `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
+- `That's not to say (that) S V`        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.
+- `That's rather unlikely`              ([Neutral] それはあまりなさそうだ) `That's rather unlikely,` given the current circumstances.
+- `The fact is`                         ([Neutral] 実を言うと) `The fact is,` I don't have enough money.
+- `You might wonder O`                  ([Neutral] Oと思うかもしれない) `You might wonder` why we made that decision.
 
 ## FEELING
-- [ ] `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
-- [ ] `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
-- [ ] `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
-- [ ] `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
-- [ ] `It's up in the air whether S V`      ([Casual] ～かどうかはまだ未定だ) `It's up in the air whether` we'll have the meeting tomorrow.
-- [ ] `I don't know the first thing about O`([Casual] Oについて全く知らない) `I don't know the first thing about` coding.
-- [ ] `I can't say for sure until S V`      ([Neutral] ～までははっきり言えない) `I can't say for sure until we get the test results.`
-- [ ] `I'm more than happy to V`            ([Casual] 喜んで～する) `I'm more than happy to` help you with the project.
-- [ ] `I'm trying to V`                     ([Neutral] ～してるから邪魔しないで) `I'm trying to` finish the report by tomorrow.
-- [ ] `I don't care for O`                  ([Casual] Oは好きじゃない) `I don't care for` spicy food.
-- [ ] `I'm terrible with O`                 ([Casual] Oがとても苦手だ) `I'm terrible with` directions.
-- [ ] `I can still just about V`            ([Casual] なんとかギリギリ～できる) `I can still just about` make it to the meeting on time.
-- [ ] `I have trouble V-ing`                ([Neutral] ～するのに苦労している) `I have trouble understanding technical documents.`
-- [ ] `I find O C`                          ([Neutral] OがCだと感じる) `I find this book fascinating.`
-- [x] `It's C how S V`                      ([Neutral] S V の仕方が C だ) `It's strange how` quickly things changed.
-- [ ] `S V. That I V`                       ([Neutral] S Vだ。それは私がVだ) `It’s raining. That I don’t mind at all.`
-- [ ] `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
+- `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
+- `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
+- `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
+- `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
+- `It's up in the air whether S V`      ([Casual] ～かどうかはまだ未定だ) `It's up in the air whether` we'll have the meeting tomorrow.
+- `I don't know the first thing about O`([Casual] Oについて全く知らない) `I don't know the first thing about` coding.
+- `I can't say for sure until S V`      ([Neutral] ～までははっきり言えない) `I can't say for sure until we get the test results.`
+- `I'm more than happy to V`            ([Casual] 喜んで～する) `I'm more than happy to` help you with the project.
+- `I'm trying to V`                     ([Neutral] ～してるから邪魔しないで) `I'm trying to` finish the report by tomorrow.
+- `I don't care for O`                  ([Casual] Oは好きじゃない) `I don't care for` spicy food.
+- `I'm terrible with O`                 ([Casual] Oがとても苦手だ) `I'm terrible with` directions.
+- `I can still just about V`            ([Casual] なんとかギリギリ～できる) `I can still just about` make it to the meeting on time.
+- `I have trouble V-ing`                ([Neutral] ～するのに苦労している) `I have trouble understanding technical documents.`
+- `I find O C`                          ([Neutral] OがCだと感じる) `I find this book fascinating.`
+- `It's C how S V`                      ([Neutral] S V の仕方が C だ) `It's strange how` quickly things changed.
+- `S V. That I V`                       ([Neutral] S Vだ。それは私がVだ) `It's raining. That I don't mind at all.`
+- `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
 
 ## FACT
-- [ ] `It's a custom to V`                  ([Neutral] ～する習慣がある) `It's a custom to` give gifts during the holidays.
-- [ ] `It's traditional to V`               ([Neutral] ～するのが伝統だ) `It's traditional to` celebrate New Year's with family.
-- [ ] `There're times when S V`             ([Neutral] ～する時もある) `There're times when` I feel overwhelmed with work.
-- [ ] `There's a side to A that S V`        ([Neutral] 一面がある) `There’s a side to her` that most people never see.
-
-## 気遣い
-- [ ] `I hope I'm not interrupting you.`    ([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
-
-## 一言 (ポジティブ)
-- [ ] `That's really something`             ([Casual] 大したもんだね) Wow, you finished the project early? `That's really something!`
-- [ ] `I agree with you`                    ([Neutral] 君に同意するよ) `I agree with you` on that point — it makes total sense.
-- [ ] `Happy to help`                       ([Casual] 喜んで手伝いますよ) Thanks for reading my outline. `Happy to help!`
-
-## 一言 (ネガティブ)
-- [ ] `I will never V again!`               ([Casual] 二度と～しない！) `I will never eat that restaurant's food again!`
-- [ ] `I won't know until (time)`           ([Neutral] ～まではわからない) `I won't know until next week` if I can attend the event.
-
-## 他
-- [ ] `So much for O`                       ([Casual] Oはこれで終わり／期待外れだった) `So much for` our plans to go hiking.
-- [ ] `Leave it there`                      ([Casual] それで終わりにしよう) Let's `leave it there` for today.
-- [ ] `Take your time with O`               ([Casual] ゆっくりやっていいよ) `Take your time with` the report; no rush.
-- [ ] `No rush`                             ([Casual] 急がなくていいよ) `No rush,` take your time finishing the project.
-- [ ] `No pressure to V`                    ([Casual] 無理して～しなくていいよ) `No pressure to` decide right now.
-  - [ ] `Don't feel pressured to V`         ([Casual] プレッシャー感じないで) Don't feel pressured to say yes.
-  - [ ] `No obligation to V`                ([Neutral] ～する義務はないよ) There's no obligation to attend.
-  - [ ] `You don't have to V`               ([Casual] ～しなくていいよ) You don't have to answer right away.
-  - [ ] `Feel free to say no`               ([Casual] 断っていいよ) Feel free to say no if you're busy.
-  - [ ] `Only if you want to`               ([Casual] したいならだけだよ) Come along, but only if you want to.
-- [ ] `It's not urgent.`                    ([Neutral] 急ぎじゃないよ) `It's not urgent`, so you can handle it later.
-- [ ] `There is no particular urgency.`     ([Formal] 特に急ぎではありません) `There is no particular urgency` for this task.
-- [ ] `Please handle it at your convenience.` ([Formal] ご都合のよい時に対応してください) `Please handle it at your convenience.`
-- [ ] `I'm still working on it`             ([Casual] まだ取り組んでいるところだ) `I'm still working on it,` but I should be done soon.
-- [ ] `I'm V-ing ... at the moment.`        ([Casual] 今まさに～しているところだ) `I'm working on` the report `at the moment`.
-- [ ] `I'm in the middle of something`      ([Casual] 今ちょっと手が離せない) `I'm in the middle of something` right now, can I call you back?
-- [ ] `I've got my hands full`              ([Casual] 手がいっぱいだ) `I've got my hands full` with this project right now.
-- [ ] `I hope you don't mind if`            ([Casual] 迷惑でなければ～してもいい？) `I hope you don't mind if` I join the meeting a bit late.
-- [ ] `You name it`                         ([Casual] なんでも言って) We have coffee, tea, juice—`you name it.`
-- [ ] `Special thanks go to O`              ([Formal] 特別な感謝はOに) `Special thanks go to everyone who helped organize the event.`
-- [ ] `Just give it time`                   ([Casual] 時間が解決してくれる) `Just give it time`; things will improve.
-- [ ] `mum's the word`                      ([Casual] 内緒にしてね) `Mum's the word` about the surprise party.
-- [ ] `why`                                 ([Casual] おや／あら) `Why,` I didn’t expect to see you here!
-- [ ] `that's the way S V`                  ([Neutral] このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
+- `It's a custom to V`                  ([Neutral] ～する習慣がある) `It's a custom to` give gifts during the holidays.
+- `It's traditional to V`               ([Neutral] ～するのが伝統だ) `It's traditional to` celebrate New Year's with family.
+- `There're times when S V`             ([Neutral] ～する時もある) `There're times when` I feel overwhelmed with work.
+- `There's a side to A that S V`        ([Neutral] 一面がある) `There's a side to her` that most people never see.
