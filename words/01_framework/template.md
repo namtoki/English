@@ -57,7 +57,7 @@
   - `I'll make sure it gets done`   ([Formal] 必ず実行します)       This is critical. I'll make sure it gets done.
   - `Consider it done`              ([Neutral] お任せください)      I need this by tomorrow. Consider it done.
 
-## REPLY (That makes sense / I feel you / Fair enough / True)
+## REPLY (That makes sense / I feel you / Fair enough / True / Good to know)
 > `Makes sense`                     ([Casual] なるほど)             Makes sense. Let's do that.
   - `That makes sense`              ([Casual] なるほど、納得)       That makes sense. I understand now.
   - `It makes sense`                ([Neutral] 理にかなってる)      It makes sense to start early.
@@ -89,37 +89,12 @@
   - `Tell me about it`              ([Casual] まったくその通り)     Tell me about it! I've been so busy lately.
   - `I couldn't agree more`         ([Neutral] 大賛成です)          I couldn't agree more with your assessment.
   - `My thoughts exactly`           ([Neutral] 私もそう思ってた)    My thoughts exactly about the new policy.
-
-## OPINION (I'm fine with / That would be great / That's the way it is)
-> `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
-  - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
-  - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
-  - `I'm not particular about it`   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
-  - `Nothing in particular`         ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
-  - `It doesn't matter`             ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
-> `That would be great`             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
-  - `That'd be perfect`             ([Casual] それは完璧だ)         That'd be perfect for our meeting schedule.
-> `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
-  - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
-
-## CONFIRM (are you okay?)
-> `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
-  - `You okay?`                     ([Casual] 大丈夫？)             You okay? You seem quiet today.
-  - `All good?`                     ([Casual] 大丈夫？)             All good? Ready to continue?
-  - `You good?`                     ([Casual] 大丈夫？)             You good? Need any help?
-  - `Everything okay?`              ([Casual] 大丈夫？)             Everything okay over there?
-  - `Is everything all right?`      ([Neutral] 大丈夫ですか？)      Is everything all right with the project?
-  - `Is everything okay?`           ([Neutral] すべて大丈夫？)      Is everything okay at home?
-  - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
-  - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
-
----
-
-## GOOD TO KNOW / YOU FLATTER ME / THAT'S FUNNY / GOOD FOR YOU / YOU NEVER KNOW / ANYTIME
 > `Good to know`                    ([Casual] 知れてよかった)       Thanks for the update. Good to know.
   - `Thanks for the heads up`       ([Casual] 教てくれてありがとう) Thanks for the heads up about the meeting change.
   - `I appreciate the update`       ([Neutral] 報告ありがとう)      I appreciate the update on the project status.
   - `That's helpful`                ([Casual] 助かります)           That's helpful, I'll keep that in mind.
+
+## REPLY (You flatter me / That's funny / Good for you / You never know / Anytime)
 > `You flatter me`                  ([Formal] お世辞でも嬉しい)     You flatter me. I'm just doing my job.
   - `I'm flattered`                 ([Neutral] 光栄です)            I'm flattered by your compliment.
   - `You give me too much credit`   ([Neutral] 買いかぶりすぎです)  You give me too much credit. It was a team effort.
@@ -145,7 +120,7 @@
   - `It remains to be seen`         ([Formal] まだわからない)       Will it succeed? It remains to be seen.
   - `Only time will tell`           ([Neutral] 時間が経てばわかる)  Was it worth it? Only time will tell.
 > `Anytime`                         ([Casual] いつでもどうぞ)       Thanks for your help. Anytime!
-  > `No problem`                    ([Casual] 問題ないよ)           Thanks for covering my shift. No problem.
+  - `No problem`                    ([Casual] 問題ないよ)           Thanks for covering my shift. No problem.
   - `You're welcome`                ([Neutral] どういたしまして)    Thanks for the ride. You're welcome.
   - `Don't mention it`              ([Neutral] どういたしまして)    Thank you for your assistance. Don't mention it.
   - `Not at all`                    ([Neutral] とんでもない)        Thank you for your help. Not at all.
@@ -153,6 +128,69 @@
   - `Happy to help`                 ([Casual] 喜んでお手伝いします) Thanks for the advice. Happy to help.
   - `No worries`                    ([Casual] 気にしないで)         Sorry I'm late. No worries.
   - `Of course`                     ([Neutral] もちろんです)        Thanks for letting me know. Of course.
+
+## OPINION (How can I put this?)
+> `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
+  - `What can I say`                ([Casual] なんというか)         I love coffee too much. What can I say?
+  - `What do you want me to say`    ([Casual] 何て言えばいいの)     I failed again. What do you want me to say?
+  - `It is what it is`              ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
+  - `That's just me`                ([Casual] それが私だから)       I can't help being late. That's just me.
+  - `What else can I say`           ([Casual] 他に何て言えばいい)   I'm sorry I messed up. What else can I say?
+  - `I have no excuse`              ([Neutral] 言い訳できない)      I forgot the meeting. I have no excuse.
+  - `How should I say this?`        ([Neutral] どう言えばいいかな)  How should I say this? It's sensitive.
+  - `What's the word for it?`       ([Casual] 何て言うんだっけ？)   What's the word for it? It's on the tip of my tongue.
+  - `How do I explain this?`        ([Neutral] どう説明すればいい)  How do I explain this? It's technical.
+  - `Let me think how to say this`  ([Neutral] どう言うか考えさせて) Let me think how to say this properly.
+  - `I'm trying to find the right words` ([Neutral] 適切な言葉を探してる) I'm trying to find the right words here.
+  - `It's hard to explain`          ([Casual] 説明が難しい)         It's hard to explain, but I'll try.
+  - `I don't know how to put it`    ([Casual] どう言えばいいか)     I don't know how to put it exactly.
+
+## OPINION (I'm fine with / That would be great / That's the way it is)
+- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
+
+## OPINION (I'm fine with / That would be great / That's the way it is)
+> `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
+  - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
+  - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
+  - `I'm not particular about it`   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
+  - `Nothing in particular`         ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
+  - `It doesn't matter`             ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
+> `That would be great`             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
+  - `That'd be perfect`             ([Casual] それは完璧だ)         That'd be perfect for our meeting schedule.
+> `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
+  - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
+
+## CONFIRMATION (are you okay?)
+> `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
+  - `You okay?`                     ([Casual] 大丈夫？)             You okay? You seem quiet today.
+  - `All good?`                     ([Casual] 大丈夫？)             All good? Ready to continue?
+  - `You good?`                     ([Casual] 大丈夫？)             You good? Need any help?
+  - `Everything okay?`              ([Casual] 大丈夫？)             Everything okay over there?
+  - `Is everything all right?`      ([Neutral] 大丈夫ですか？)      Is everything all right with the project?
+  - `Is everything okay?`           ([Neutral] すべて大丈夫？)      Is everything okay at home?
+  - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
+  - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
+
+## FEELING (I can't believe one's eyes / I can't catch a break)
+> `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!
+  - `couldn't believe one's ears`   ([Casual] 信じられない)         I couldn't believe my ears when they announced the winner.
+  - `jaw dropped`                   ([Casual] 驚いた)               My jaw dropped when I saw the price.
+  - `blown away`                    ([Casual] 驚かされた)           I was blown away by the performance.
+  - `taken aback`                   ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
+  - `at a loss for words`           ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
+> `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
+  - `Nothing's going my way`        ([Casual] 何もうまくいかない)   Nothing's going my way today.
+  - `I'm having bad luck`           ([Neutral] 運が悪い)            I'm having bad luck with my car.
+  - `Everything's going wrong`      ([Neutral] 全て悪い方向)        Everything's going wrong lately.
+  - `I can't get anything right`    ([Casual] 何も上手くできない)   I can't get anything right today.
+  - `It's not my day`               ([Casual] ついてない日)         It's just not my day.
+  - `Things aren't working out for me`([Neutral] うまくいかない)      Things aren't working out for me.
+  - `I'm cursed`                    ([Casual] 呪われている)         I feel like I'm cursed.
+  - `I'm jinxed`                    ([Casual] 呪われている)         I must be jinxed or something.
+  - `I'm snake-bitten`              ([Casual] ついていない)         I've been snake-bitten all week.
+  - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
+  - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
+  - `Murphy's Law is in full effect`([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
 
 ## INTERJECTION (
 > `I've got it!`                    ([Casual] そうだ！)             Wait — I've got it! What if we try a rotating schedule?"
@@ -171,21 +209,13 @@
   - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
   - `There you go.`                 ([Casual] どうぞ／その調子)     I'm going to go for it! / Yeah, `There you go`!
 
-## HOW CAN I PUT THIS? / I'M NOT SURE I FOLLOW / COME AGAIN? / WHAT CAN I SAY
-> `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
-> `What can I say`                  ([Casual] なんというか)         I love coffee too much. What can I say?
-    - `What do you want me to say`  ([Casual] 何て言えばいいの)     I failed again. What do you want me to say?
-    - `It is what it is`            ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
-    - `That's just me`              ([Casual] それが私だから)       I can't help being late. That's just me.
-    - `What else can I say`         ([Casual] 他に何て言えばいい)   I'm sorry I messed up. What else can I say?
-    - `I have no excuse`            ([Neutral] 言い訳できない)      I forgot the meeting. I have no excuse.
-  - `How should I say this?`        ([Neutral] どう言えばいいかな)  How should I say this? It's sensitive.
-  - `What's the word for it?`       ([Casual] 何て言うんだっけ？)   What's the word for it? It's on the tip of my tongue.
-  - `How do I explain this?`        ([Neutral] どう説明すればいい)  How do I explain this? It's technical.
-  - `Let me think how to say this`  ([Neutral] どう言うか考えさせて) Let me think how to say this properly.
-  - `I'm trying to find the right words` ([Neutral] 適切な言葉を探してる) I'm trying to find the right words here.
-  - `It's hard to explain`          ([Casual] 説明が難しい)         It's hard to explain, but I'll try.
-  - `I don't know how to put it`    ([Casual] どう言えばいいか)     I don't know how to put it exactly.
+## CLICHE
+- `the sky's the limit`             ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
+
+---
+
+
+## I'M NOT SURE I FOLLOW / COME AGAIN?
 > `I'm not sure I follow`           ([Neutral] よく理解できません)  I'm not sure I follow what you mean. Could you explain?
   > `I don't follow`                ([Casual] わからない)           I don't follow your logic here.
   - `I'm confused`                  ([Casual] 混乱している)         I'm confused about the timeline.
@@ -408,31 +438,3 @@
 - [ ] `mum's the word`                      ([Casual] 内緒にしてね) `Mum's the word` about the surprise party.
 - [ ] `why`                                 ([Casual] おや／あら) `Why,` I didn’t expect to see you here!
 - [ ] `that's the way S V`                  ([Neutral] このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
-
-## CAN'T BELIEVE ONE'S EYES
-> `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!
-- `couldn't believe one's ears`     ([Casual] 信じられない)         I couldn't believe my ears when they announced the winner.
-- `jaw dropped`                     ([Casual] 驚いた)               My jaw dropped when I saw the price.
-- `blown away`                      ([Casual] 驚かされた)           I was blown away by the performance.
-- `taken aback`                     ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
-- `at a loss for words`             ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
-
-## I CAN'T CATCH A BREAK
-> `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
-- `Nothing's going my way`          ([Casual] 何もうまくいかない)   Nothing's going my way today.
-- `I'm having bad luck`             ([Neutral] 運が悪い)            I'm having bad luck with my car.
-- `Everything's going wrong`        ([Neutral] 全て悪い方向)        Everything's going wrong lately.
-- `I can't get anything right`      ([Casual] 何も上手くできない)   I can't get anything right today.
-- `It's not my day`                 ([Casual] ついてない日)         It's just not my day.
-- `Things aren't working out for me`([Neutral] うまくいかない)      Things aren't working out for me.
-- `I'm cursed`                      ([Casual] 呪われている)         I feel like I'm cursed.
-  - `I'm jinxed`                    ([Casual] 呪われている)         I must be jinxed or something.
-  - `I'm snake-bitten`              ([Casual] ついていない)         I've been snake-bitten all week.
-  - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
-  - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
-- `Murphy's Law is in full effect`  ([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
-
-- `the sky's the limit` /ðə skaɪz ðə ˈlɪmɪt/ ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
-
-## S V-ing, THAT'D BE
-- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
