@@ -1,9 +1,9 @@
 # Template
 
-## INITIATION (HOW'S IT GOING / IT'S BEEN A WHILE / DO YOU HAVE A MINUTE? / YOU KNOW? / ARE YOU OKAY? / HERE WE GO)
+## INITIATION (How's it going? / It's been a while / Do you have a minute? / You know what / I hope you are doing well)
 > `How's it going?`                 ([Casual] 調子はどう？)         How's it going with work?
-  > `How've you been?`              ([Casual] 元気だった？)         How've you been since last time?
-  > `What's up?`                    ([Casual] どう？何してる？)     What's up with you?
+  - `How've you been?`              ([Casual] 元気だった？)         How've you been since last time?
+  - `What's up?`                    ([Casual] どう？何してる？)     What's up with you?
   - `How are you?`                  ([Formal] いかがですか？)       How are you today?
   - `How are you doing?`            ([Neutral] お元気ですか？)      How are you doing lately?
   - `How are things?`               ([Casual] 最近どう？)           How are things at home?
@@ -21,80 +21,48 @@
   - `Can I borrow you for a second?`([Casual] ちょっといい？)       Can I borrow you for a second? I need your advice.
   - `(Did) You wanted to see me?`   ([Casual] お呼びですか？)       (Did) You wanted to see me? I’m here now.
 > `You know O?`                     ([Casual] 知っていますか？)     You know our budget presentation today?
-  > `You know what`                 ([Casual] あのさ)               You know what, I'm going to get an ice cream cone.
-  > `Guess what`                    ([Casual] ちょっと聞いてよ)     Guess what? I got the job!
-    - `Guess what happened`         ([Casual] 何が起こったと思う？) Guess what happened at work today!
-    - `You'll never guess`          ([Casual] 絶対わからないよ)     You'll never guess who I saw today.
-    - `You won't believe this`      ([Casual] これ信じられないよ)   You won't believe this, but I won the lottery!
-    - `Wait till you hear this`     ([Casual] これ聞いて)           Wait till you hear this news!
-    - `Listen to this`              ([Casual] これ聞いて)           Listen to this - Sarah got engaged!
+  - `You know what`                 ([Casual] あのさ)               You know what, I'm going to get an ice cream cone.
+  - `Guess what`                    ([Casual] ちょっと聞いてよ)     Guess what? I got the job!
+  - `Guess what happened`           ([Casual] 何が起こったと思う？) Guess what happened at work today!
+  - `You'll never guess`            ([Casual] 絶対わからないよ)     You'll never guess who I saw today.
+  - `You won't believe this`        ([Casual] これ信じられないよ)   You won't believe this, but I won the lottery!
+  - `Wait till you hear this`       ([Casual] これ聞いて)           Wait till you hear this news!
+  - `Listen to this`                ([Casual] これ聞いて)           Listen to this - Sarah got engaged!
   - `You know how S V?`             ([Casual] ～ってわかるでしょ？) You know how people always say time flies?
   - `Remember when S V?`            ([Casual] 覚えてる？したとき)   Remember when we got lost in Tokyo? That was wild.
-    - `Do you remember that O?`     ([Casual] 覚えている？)         Do you remember that bike at ABC Department Store?
+  - `Do you remember that O?`       ([Casual] 覚えている？)         Do you remember that bike at ABC Department Store?
   - `Did you hear O?`               ([Casual] 聞きました？)         Did you hear about Kim? She got promoted.
   - `I told you O, right?`          ([Casual] 〜って言ったよね？)   I told you it was going to rain, right? Now look at the sky!
-> `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
-  - `You okay?`                     ([Casual] 大丈夫？)             You okay? You seem quiet today.
-  > `All good?`                     ([Casual] 大丈夫？)             All good? Ready to continue?
-  - `You good?`                     ([Casual] 大丈夫？)             You good? Need any help?
-  - `Everything okay?`              ([Casual] 大丈夫？)             Everything okay over there?
-  - `Is everything all right?`      ([Neutral] 大丈夫ですか？)      Is everything all right with the project?
-  - `Is everything okay?`           ([Neutral] すべて大丈夫？)      Is everything okay at home?
-  - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
-  - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
-> `I've got it!`                    ([Casual] そうだ！)             Wait — I've got it! What if we try a rotating schedule?"
-> `Here we go`                      ([Casual] さぁ！)               Here we go! Your dinner is ready!
-  - `Here we go`                    ([Casual] はじめましょう)       Have you prepared everything? OK, `here we go`!
-  - `Here we go`                    ([Casual] ハイチーズ)           Sure! Line up in front of that statue! 3, 2, 1, `here we go`!
-  - `Here we are`                   ([Casual] 着いた！)             `Here we are!` Home sweet home.
-  - `Here you go/are`               ([Casual] どうぞ)               `Here you go`. This is the doll you wanted.
-  - `be coming right up`            ([Casual] すぐできます)         Your order will be coming right up!
-  - `be on one's way`               ([Casual] 向かっています)       Your food is on its way to your table.
-  - `be ready in a moment`          ([Casual] すぐできます)         Your coffee will be ready in a moment.
-  - `be ready shortly`              ([Neutral] まもなく準備できます) Your table will be ready shortly.
-  - `be out in a minute`            ([Casual] すぐ出てきます)       I'll be out in a minute!
-  - `be right with you`             ([Casual] すぐ行きます)         I'll be right with you!
-  - `There we go.`                  ([Casual] ほらね／できたよ)     `There we go.` The printer is working again.
-  - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
-  - `There you go.`                 ([Casual] どうぞ／その調子)     I'm going to go for it! / Yeah, `There you go`!
 > `I hope you are doing well.`
   - `Thank you for your continued support.`
   - `I appreciate your help as always.`
   - `I always appreciate your business.`
 
-## GOT IT / WILL DO / UNDERSTOOD / THAT MAKES SENSE / I'M FINE WITH / I'M OKAY WITH / ANY O WILL DO / THAT'S THE WAY IT IS
-> `Got it`                          ([Casual] 了解です)             Please finish by 5. Got it.
+## REPLY (Understood / Will do)
+> `Understood`                      ([Formal] 了解しました)         Please prioritize this. Understood.
+  - `Got it`                        ([Casual] 了解です)             Please finish by 5. Got it.
   - `You got it`                    ([Casual] 了解です)             Close the door, please. You got it.
-  > `Understood`                    ([Formal] 了解しました)         Please prioritize this. Understood.
-  > `Will do`                       ([Casual] やっておきます)       Can you send the report? Will do.
-  > `On it`                         ([Casual] 取り掛かります)       We need this ASAP. On it.
-  - `I'm on it`                     ([Casual] 取り掛かっています)   Can you fix this? I'm on it.
   - `Noted`                         ([Neutral] 了解しました)        The deadline is Friday. Noted.
-- `Sure thing`                      ([Casual] もちろんです)         Can you help me? Sure thing.
+  - `Sure thing`                    ([Casual] もちろんです)         Can you help me? Sure thing.
   - `No problem`                    ([Casual] 問題ないです)         Can you do this? No problem.
   - `Absolutely`                    ([Neutral] もちろんです)        Can you attend? Absolutely.
   - `You bet`                       ([Casual] もちろんです)         Are you coming? You bet.
-> `I'll take care of it`            ([Neutral] 私が対処します)      Who's handling this? I'll take care of it.
+> `Will do`                         ([Casual] やっておきます)       Can you send the report? Will do.
+  - `On it`                         ([Casual] 取り掛かります)       We need this ASAP. On it.
+  - `I'm on it`                     ([Casual] 取り掛かっています)   Can you fix this? I'm on it.
+  - `I'll take care of it`          ([Neutral] 私が対処します)      Who's handling this? I'll take care of it.
   - `I'll handle it`                ([Neutral] 私が処理します)      This needs attention. I'll handle it.
   - `I'll get right on it`          ([Neutral] すぐ取り掛かります)  This is urgent. I'll get right on it.
   - `I'll see to it`                ([Neutral] 私が面倒を見ます)    Make sure it's done. I'll see to it.
   - `I'll make sure it gets done`   ([Formal] 必ず実行します)       This is critical. I'll make sure it gets done.
   - `Consider it done`              ([Neutral] お任せください)      I need this by tomorrow. Consider it done.
-> `That makes sense`                ([Casual] なるほど、納得)       That makes sense. I understand now.
-  > `Makes sense`                   ([Casual] なるほど)             Makes sense. Let's do that.
-  > `It makes sense`                ([Neutral] 理にかなってる)      It makes sense to start early.
-> `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
-  > `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
-  > `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
-  - `I'm not particular about it`   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
-  - `Nothing in particular`         ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
-  - `It doesn't matter`             ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
-> `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
-  - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
 
-## I FEEL YOU / FAIR ENOUGH / YOU HAVE A POINT BUT / TRUE / RIGHT / THAT WOULD BE GREAT / GOOD TO KNOW / YOU FLATTER ME / THAT'S FUNNY / GOOD FOR YOU / YOU NEVER KNOW / ANYTIME
+## REPLY (That makes sense / I feel you / Fair enough / True)
+> `Makes sense`                     ([Casual] なるほど)             Makes sense. Let's do that.
+  - `That makes sense`              ([Casual] なるほど、納得)       That makes sense. I understand now.
+  - `It makes sense`                ([Neutral] 理にかなってる)      It makes sense to start early.
 > `I feel you`                      ([Casual] わかるよ)             I'm tired of living in the city. Yeah, I feel you.
-  > `I get it`                      ([Casual] わかるよ)             I get it. It's really frustrating when things don't go your way.
+  - `I get it`                      ([Casual] わかるよ)             I get it. It's really frustrating when things don't go your way.
   - `I see what you mean`           ([Casual] おっしゃることはわかる) I see what you mean about the deadline pressure.
   - `That must be tough`            ([Neutral] それは大変ですね)    That must be tough. Let me know if there's anything I can do.
   - `I can relate`                  ([Casual] 共感できる)           I can relate to your frustration with the system.
@@ -106,13 +74,13 @@
   - `I know what you're saying,but` ([Casual] わかるけど)           I know what you're saying, but we need to consider the budget.
   - `I see your point, but`         ([Neutral] おしゃる通りですが)  I see your point, but there are other factors.
   - `That's true, but`              ([Casual] それは確かだけど)     That's true, but we should think about timing.
-  > `You have a point, but`         ([Neutral] 一理ありますが)      You have a point, but I'm not fully convinced.
+  - `You have a point, but`         ([Neutral] 一理ありますが)      You have a point, but I'm not fully convinced.
   - `I hear you, but`               ([Casual] 言いたいことわかるが) I hear you, but let's consider alternatives.
   - `Valid point, however`          ([Formal] 妥当な指摘ですが)     Valid point, however, we must consider costs.
   - `I understand, but`             ([Neutral] わかりますが)        I understand, but we need more data.
 > `(That's) True`                   ([Casual] たしかに)             That's true, we need to rethink the plan.
-  > `(You're) Right`                ([Casual] その通り)             You're right, that makes sense to me.
-  > `I know, right?`                ([Casual] だよね)               I know, right? That movie was amazing!
+  - `(You're) Right`                ([Casual] その通り)             You're right, that makes sense to me.
+  - `I know, right?`                ([Casual] だよね)               I know, right? That movie was amazing!
   - `Exactly`                       ([Casual] その通り)             Exactly, that's what I was thinking.
   - `Absolutely`                    ([Neutral] まったくその通り)    Absolutely, I couldn't agree more.
   - `That's what I think, too`      ([Casual] 私もそう思う)         That's what I think, too. We need to act quickly.
@@ -121,8 +89,33 @@
   - `Tell me about it`              ([Casual] まったくその通り)     Tell me about it! I've been so busy lately.
   - `I couldn't agree more`         ([Neutral] 大賛成です)          I couldn't agree more with your assessment.
   - `My thoughts exactly`           ([Neutral] 私もそう思ってた)    My thoughts exactly about the new policy.
+
+## OPINION (I'm fine with / That would be great / That's the way it is)
+> `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
+  - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
+  - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
+  - `I'm not particular about it`   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
+  - `Nothing in particular`         ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
+  - `It doesn't matter`             ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
 > `That would be great`             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
   - `That'd be perfect`             ([Casual] それは完璧だ)         That'd be perfect for our meeting schedule.
+> `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
+  - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
+
+## CONFIRM (are you okay?)
+> `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
+  - `You okay?`                     ([Casual] 大丈夫？)             You okay? You seem quiet today.
+  - `All good?`                     ([Casual] 大丈夫？)             All good? Ready to continue?
+  - `You good?`                     ([Casual] 大丈夫？)             You good? Need any help?
+  - `Everything okay?`              ([Casual] 大丈夫？)             Everything okay over there?
+  - `Is everything all right?`      ([Neutral] 大丈夫ですか？)      Is everything all right with the project?
+  - `Is everything okay?`           ([Neutral] すべて大丈夫？)      Is everything okay at home?
+  - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
+  - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
+
+---
+
+## GOOD TO KNOW / YOU FLATTER ME / THAT'S FUNNY / GOOD FOR YOU / YOU NEVER KNOW / ANYTIME
 > `Good to know`                    ([Casual] 知れてよかった)       Thanks for the update. Good to know.
   - `Thanks for the heads up`       ([Casual] 教てくれてありがとう) Thanks for the heads up about the meeting change.
   - `I appreciate the update`       ([Neutral] 報告ありがとう)      I appreciate the update on the project status.
@@ -160,6 +153,23 @@
   - `Happy to help`                 ([Casual] 喜んでお手伝いします) Thanks for the advice. Happy to help.
   - `No worries`                    ([Casual] 気にしないで)         Sorry I'm late. No worries.
   - `Of course`                     ([Neutral] もちろんです)        Thanks for letting me know. Of course.
+
+## INTERJECTION (
+> `I've got it!`                    ([Casual] そうだ！)             Wait — I've got it! What if we try a rotating schedule?"
+> `Here we go`                      ([Casual] さぁ！)               Here we go! Your dinner is ready!
+  - `Here we go`                    ([Casual] はじめましょう)       Have you prepared everything? OK, `here we go`!
+  - `Here we go`                    ([Casual] ハイチーズ)           Sure! Line up in front of that statue! 3, 2, 1, `here we go`!
+  - `Here we are`                   ([Casual] 着いた！)             `Here we are!` Home sweet home.
+  - `Here you go/are`               ([Casual] どうぞ)               `Here you go`. This is the doll you wanted.
+  - `be coming right up`            ([Casual] すぐできます)         Your order will be coming right up!
+  - `be on one's way`               ([Casual] 向かっています)       Your food is on its way to your table.
+  - `be ready in a moment`          ([Casual] すぐできます)         Your coffee will be ready in a moment.
+  - `be ready shortly`              ([Neutral] まもなく準備できます) Your table will be ready shortly.
+  - `be out in a minute`            ([Casual] すぐ出てきます)       I'll be out in a minute!
+  - `be right with you`             ([Casual] すぐ行きます)         I'll be right with you!
+  - `There we go.`                  ([Casual] ほらね／できたよ)     `There we go.` The printer is working again.
+  - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
+  - `There you go.`                 ([Casual] どうぞ／その調子)     I'm going to go for it! / Yeah, `There you go`!
 
 ## HOW CAN I PUT THIS? / I'M NOT SURE I FOLLOW / COME AGAIN? / WHAT CAN I SAY
 > `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
