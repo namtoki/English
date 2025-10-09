@@ -50,3 +50,26 @@
   - `stubborn` /ˈstʌbɚn/            ([Neutral] 頑固な、強情な)      She's too stubborn to admit she's wrong.
   - `contrary` /ˈkɑntɹɛɹi/          ([Neutral] 反抗的な、逆の)      The child was being contrary.
   - `twisted` /ˈtwɪstɪd/            ([Casual] ひねくれた、倒錯した)  He has a twisted sense of humor.
+
+## IMPRESSIVE / GRAND
+- `imposing` /ɪmˈpoʊzɪŋ/           ([Neutral] 堂々とした、威圧的な)  The imposing building dominated the skyline.
+  - `impressive` /ɪmˈpresɪv/        ([Neutral] 印象的な、見事な)     The performance was impressive.
+  - `grand` /ɡrænd/                 ([Neutral] 壮大な、立派な)       A grand palace stood before us.
+  - `majestic` /məˈdʒestɪk/         ([Neutral] 壮厳な、威厳のある)   The majestic mountains rose high.
+  - `stately` /ˈsteɪtli/            ([Neutral] 堂々とした、威厳ある)  A stately mansion on the hill.
+  - `magnificent` /mæɡˈnɪfɪsənt/   ([Neutral] 壮大な、素晴らしい)    The view was magnificent.
+
+## LENIENT / STRICT
+- `lenient` /ˈliːniənt/            ([Neutral] 寛大な、甘い)         The teacher was lenient with late assignments.
+  - `leniency` /ˈliːniənsi/         ([Neutral] 寛大さ、寛容)         The judge showed leniency in sentencing.
+  - `leniently` /ˈliːniəntli/       ([Neutral] 寛大に)              He was treated leniently.
+  - `permissive` /pərˈmɪsɪv/        ([Neutral] 寛容な、甘い)         Permissive parenting can backfire.
+  - `indulgent` /ɪnˈdʌldʒənt/       ([Neutral] 甘やかす、寛大な)     She's too indulgent with her kids.
+  - `tolerant` /ˈtɑːlərənt/         ([Neutral] 寛容な)              He's tolerant of different opinions.
+  - `forgiving` /fərˈɡɪvɪŋ/         ([Neutral] 寛容な、許す)         She has a forgiving nature.
+  - `merciful` /ˈmɜːrsɪfəl/         ([Neutral] 慈悲深い)            The judge was merciful.
+- `strict` /strɪkt/                ([Neutral] 厳格な、厳しい)       She has strict rules for her children.
+  - `stringent` /ˈstrɪndʒənt/       ([Formal] 厳格な、厳しい)        Stringent regulations were imposed.
+  - `stern` /stɜːrn/                ([Neutral] 厳格な、厳しい)       He gave a stern warning.
+  - `rigid` /ˈrɪdʒɪd/               ([Neutral] 厳格な、融通が利かない) The company has rigid policies.
+  - `harsh` /hɑːrʃ/                 ([Neutral] 厳しい、過酷な)       The punishment was harsh.

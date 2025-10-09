@@ -22,6 +22,12 @@
   - `(Did) You wanted to see me?`   ([Casual] お呼びですか？)       (Did) You wanted to see me? I’m here now.
 > `You know O?`                     ([Casual] 知っていますか？)     You know our budget presentation today?
   > `You know what`                 ([Casual] あのさ)               You know what, I'm going to get an ice cream cone.
+  > `Guess what`                    ([Casual] ちょっと聞いてよ)     Guess what? I got the job!
+    - `Guess what happened`         ([Casual] 何が起こったと思う？) Guess what happened at work today!
+    - `You'll never guess`          ([Casual] 絶対わからないよ)     You'll never guess who I saw today.
+    - `You won't believe this`      ([Casual] これ信じられないよ)   You won't believe this, but I won the lottery!
+    - `Wait till you hear this`     ([Casual] これ聞いて)           Wait till you hear this news!
+    - `Listen to this`              ([Casual] これ聞いて)           Listen to this - Sarah got engaged!
   - `You know how S V?`             ([Casual] ～ってわかるでしょ？) You know how people always say time flies?
   - `Remember when S V?`            ([Casual] 覚えてる？したとき)   Remember when we got lost in Tokyo? That was wild.
     - `Do you remember that O?`     ([Casual] 覚えている？)         Do you remember that bike at ABC Department Store?
@@ -155,8 +161,14 @@
   - `No worries`                    ([Casual] 気にしないで)         Sorry I'm late. No worries.
   - `Of course`                     ([Neutral] もちろんです)        Thanks for letting me know. Of course.
 
-## HOW CAN I PUT THIS? / I'M NOT SURE I FOLLOW / COME AGAIN?
+## HOW CAN I PUT THIS? / I'M NOT SURE I FOLLOW / COME AGAIN? / WHAT CAN I SAY
 > `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
+> `What can I say`                  ([Casual] なんというか)         I love coffee too much. What can I say?
+    - `What do you want me to say`  ([Casual] 何て言えばいいの)     I failed again. What do you want me to say?
+    - `It is what it is`            ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
+    - `That's just me`              ([Casual] それが私だから)       I can't help being late. That's just me.
+    - `What else can I say`         ([Casual] 他に何て言えばいい)   I'm sorry I messed up. What else can I say?
+    - `I have no excuse`            ([Neutral] 言い訳できない)      I forgot the meeting. I have no excuse.
   - `How should I say this?`        ([Neutral] どう言えばいいかな)  How should I say this? It's sensitive.
   - `What's the word for it?`       ([Casual] 何て言うんだっけ？)   What's the word for it? It's on the tip of my tongue.
   - `How do I explain this?`        ([Neutral] どう説明すればいい)  How do I explain this? It's technical.
@@ -366,7 +378,13 @@
 - [ ] `Leave it there`                      ([Casual] それで終わりにしよう) Let's `leave it there` for today.
 - [ ] `Take your time with O`               ([Casual] ゆっくりやっていいよ) `Take your time with` the report; no rush.
 - [ ] `No rush`                             ([Casual] 急がなくていいよ) `No rush,` take your time finishing the project.
-- [ ] `It’s not urgent.`                    ([Neutral] 急ぎじゃないよ) `It’s not urgent`, so you can handle it later.
+- [ ] `No pressure to V`                    ([Casual] 無理して～しなくていいよ) `No pressure to` decide right now.
+  - [ ] `Don't feel pressured to V`         ([Casual] プレッシャー感じないで) Don't feel pressured to say yes.
+  - [ ] `No obligation to V`                ([Neutral] ～する義務はないよ) There's no obligation to attend.
+  - [ ] `You don't have to V`               ([Casual] ～しなくていいよ) You don't have to answer right away.
+  - [ ] `Feel free to say no`               ([Casual] 断っていいよ) Feel free to say no if you're busy.
+  - [ ] `Only if you want to`               ([Casual] したいならだけだよ) Come along, but only if you want to.
+- [ ] `It's not urgent.`                    ([Neutral] 急ぎじゃないよ) `It's not urgent`, so you can handle it later.
 - [ ] `There is no particular urgency.`     ([Formal] 特に急ぎではありません) `There is no particular urgency` for this task.
 - [ ] `Please handle it at your convenience.` ([Formal] ご都合のよい時に対応してください) `Please handle it at your convenience.`
 - [ ] `I'm still working on it`             ([Casual] まだ取り組んでいるところだ) `I'm still working on it,` but I should be done soon.

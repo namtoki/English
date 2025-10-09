@@ -308,6 +308,8 @@
   - `abate` /əˈbeɪt/                ([Formal] 和らぐ)               We waited for the wind to abate.
   - `lessen` /ˈlesən/               ([Neutral] 和らぐ、減る)        The symptoms lessened over time.
   - `soften` /ˈsɒfən/               ([Neutral] 和らぐ 柔らかくなる) Her expression softened slightly.
+  - `melt` /melt/                   ([Neutral] 溶ける、心が和らぐ)  His heart melted at her smile.
+    - `meltingly` /ˈmeltɪŋli/       ([Neutral] やさしく、優しげに)  She spoke meltingly to the child.
 > `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
   - `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
   - `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
@@ -733,6 +735,11 @@
   - `engineer` /ˌendʒɪˈnɪr/         ([Neutral] 画策する、仕組む)    They engineered his downfall.
   - `maneuver` /məˈnuːvər/          ([Neutral] 策略を用いる)        He maneuvered himself into a position of power.
   - `finesse` /fɪˈnes/              ([Formal] 巧みに扱う)           She finessed the situation perfectly.
+> `impose` /ɪmˈpoʊz/               ([Neutral] 課す、押し付ける)    Don't impose your beliefs on others.
+  - `imposition` /ˌɪmpəˈzɪʃən/     ([Neutral] 押し付け、負担)      I hope it's not an imposition.
+  - `enforce` /ɪnˈfɔːrs/            ([Neutral] 強制する、施行する)  The police enforce the law.
+  - `inflict` /ɪnˈflɪkt/            ([Neutral] 負わせる、与える)    Don't inflict pain on others.
+  - `thrust` /θrʌst/                ([Neutral] 押し付ける、突く)    The role was thrust upon him.
 
 ## 人 + V + Noun
 > `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...

@@ -16,6 +16,14 @@
 - `hedonism` /ˈhiːdənɪzəm/          ([Formal] 快楽主義)            His lifestyle embraces hedonism.
   - `hedonist` /ˈhiːdənɪst/         ([Formal] 快楽主義者)          He's a self-proclaimed hedonist.
   - `hedonistic` /ˌhiːdəˈnɪstɪk/     ([Formal] 快楽主義的な)        Their hedonistic lifestyle shocked many.
+- `feminism` /ˈfemɪnɪzəm/          ([Neutral] フェミニズム、男女同権) She's active in feminism.
+  - `feminist` /ˈfemɪnɪst/          ([Neutral] フェミニスト)         She's a proud feminist.
+  - `femininity` /ˌfeməˈnɪnəti/     ([Neutral] 女性らしさ)          She embraces her femininity.
+  - `activism` /ˈæktɪvɪzəm/         ([Neutral] 活動主義、社会運動)   She's involved in social activism.
+  - `activist` /ˈæktɪvɪst/          ([Neutral] 活動家)              He's an environmental activist.
+  - `egalitarianism` /ɪˌɡæləˈtɛriənɪzəm/ ([Formal] 平等主義)       Egalitarianism promotes equal rights.
+  - `advocate` /ˈædvəkət/           ([Neutral] 支持者、提唱者)      She's an advocate for women's rights.
+  - `equality` /iˈkwɑːləti/         ([Neutral] 平等、同等)          They fight for gender equality.
 - `epicureanism` /ˌepɪkjʊˈriːənɪzəm/ ([Writing] 快楽主義、美食主義)  His epicureanism was well known.
 - `indulgence` /ɪnˈdʊldʒəns/        ([Neutral] 放縦、甘やかし)       His indulgence in luxury was excessive.
 - `spoon-feeding` /ˈspuːn fiːdɪŋ/   ([Casual] 手取り足取りの指導)    Spoon-feeding prevents independent thinking.
@@ -406,6 +414,14 @@
   - `allied` /ˈælaɪd/               ([Neutral] 同盟の、連合した)    The allied forces won the war.
 - `comrade` /ˈkɑːmræd/              ([Neutral] 仲間、同志)          He stood by his comrades.
 - `coalition` /ˌkoʊəˈlɪʃən/         ([Formal] 連立、連合)           The parties formed a coalition government.
+- `senate` /ˈsenət/                 ([Neutral] 上院、元老院)        The bill passed in the Senate.
+  - `senator` /ˈsenətər/            ([Neutral] 上院議員)            She's a senator from California.
+  - `senatorial` /ˌsenəˈtɔːriəl/    ([Formal] 上院の、元老院の)     The senatorial election is next month.
+  - `congress` /ˈkɑːŋɡrəs/          ([Neutral] 議会、国会)          Congress approved the budget.
+  - `parliament` /ˈpɑːrləmənt/      ([Neutral] 議会、国会)          The parliament debated the issue.
+  - `legislature` /ˈledʒɪsleɪtʃər/  ([Formal] 立法府、議会)         The state legislature passed the law.
+  - `assembly` /əˈsembli/           ([Neutral] 議会、集会)          The general assembly convened.
+  - `chamber` /ˈtʃeɪmbər/           ([Formal] 議院、会議場)         The upper chamber voted on the bill.
 - `confederate` /kənˈfedərət/       ([Formal] 同盟者、連合の)       The confederate states joined forces.
   - `confederation` /kənˌfedəˈreɪʃən/ ([Formal] 連合、同盟)         The confederation lasted for years.
 - `proponent` /prəˈpoʊnənt/         ([Formal] 支持者、提唱者)       He's a proponent of renewable energy.

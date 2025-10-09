@@ -597,7 +597,6 @@ ceremonious	10	【形】おごそかな、儀式ばった、儀礼を尽くし�
 certainty	6	【名】確実性、必然性		
 cessation	12	【名】中止、休止		
 chaff	12	【名】もみ殻、切りわら 【動】からかう		
-chamber	5	【名】部屋、（家の）室、（立法・司法機関の）会議場 【動】部屋に閉じ込める 【形】室内楽の		
 chancellor	7	【名】首相、（英）大蔵大臣（C_)		
 chant	9	【動】歌う 【名】歌、唱歌		
 chap	7	【名】やつ、男、亀裂、あかぎれ 【動】ひびを生じさせる		
@@ -1600,7 +1599,6 @@ facile	10	【形】軽快な、手軽な、容易な
 faculty	6	【名】能力、機能、学部、学部の全教員		
 fad	8	【名】一時的流行、～熱、流行のもの、気むずかしさ		
 faint	4	【形】ぼんやりした、かすかな 【動】気が遠くなる		
-fairness	5	【名】公正、公平		
 faith	3	【名】信頼、自信、信条		
 faithfully	5	【副】忠実に、誠実に、きちんと		
 faithless	9	【形】忠実でない、信仰心のない、当てにならない		
@@ -1620,13 +1618,10 @@ fatty	10	【形】脂肪の、油っこい 【名】でぶ
 faultless	10	【形】申し分のない、欠点がない、無傷の		
 faulty	10	【形】欠点のある、誤った		
 fauna	12	【名】動物相、動物誌		
-favored	8	【形】好意をもたれている、恵まれている		
 fawn	11	【動】こびへつらう、甘える		
 fearless	6	【形】勇敢な、大胆不敵な		
 federation	6	【名】同盟、連合、連邦化		
 feign	10	【動】装う、でっち上げる		
-feminism	8	【名】男女同権主義、女性的特質		
-feminist	6	【名】男女同権論者、フェミニスト		
 ferment	11	【動】発酵する 【名】発酵、興奮、政治的動揺		
 fern	12	【名】シダ		
 ferocious	10	【形】恐ろしい、凶暴な、猛烈な		
@@ -2098,20 +2093,16 @@ impediment	10	【名】妨害、身体的障害
 impel	12	【動】かりたてる、押し進める		
 impending	10	【形】切迫した、今にも起こる		
 imperative	10	【形】必須の、急を要する、命令的な 【名】緊急になすべきこと		
-imperfect	5	【形】不完全な、不十分な		
-imperfection	9	【名】不完全、欠点、欠陥		
 impersonal	8	【形】人間味のない、人格をもたない、個人に関係ない		
 impersonate	12	【動】ものまねをする、ふりをする、演じる		
 impertinent	12	【形】ずうずうしい、無作法な、無関係な		
 impervious	12	【形】影響されない、不浸透性の、感じない		
 impinge	12	【動】（権利を）侵害する、作用する		
 implacable	11	【形】執念深い、なだめられない、無慈悲な		
-implementation	6	【名】遂行、実施		
 implicate	10	【動】（意味・結果などを）含意する、犯罪などに巻き込む		
 implied	8	【形】暗黙の、言外の		
 impolite	6	【形】無礼な		
 importantly	6	【副】重要なことには、もったいぶって		
-imposing	7	【形】人目を引く、（大きくて）印象的な		
 imposition	11	【名】義務を課すること、負担、つけ込むこと		
 impotent	9	【形】無力な、虚弱な、性交不能の		
 impoverished	11	【形】貧窮化した、力を失った、さえない		
@@ -2121,22 +2112,16 @@ imprison	6	【動】刑務所に入れる、監禁する
 imprisonment	7	【名】投獄、禁固、拘束		
 improbable	8	【形】起こりそうにもない、本当らしくない		
 impromptu	11	【形】即席の、即興の 【副】即興で		
-improper	7	【形】適切でない、不作法な、妥当でない、間違った		
 improvise	10	【動】即興で作る、間に合わせで急場をしのぐ		
 imprudent	9	【形】軽率な、無分別な		
 impulsive	8	【形】衝動的な		
 impunity	11	【名】無事、刑罰を免れること		
-inaccurate	8	【形】不確かな、的確でない、精密でない		
-inadequacy	8	【名】不適切、不十分、力不足		
-inadequate	6	【形】不十分な、不適切な		
 inadvertent	12	【形】故意でない、不注意な		
 inadvertently	10	【副】不注意に、ふと		
-inappropriate	9	【形】不適切な、妥当でない		
 inaugural	10	【形】就任の、最初の 【名】就任演説		
 inaugurate	10	【動】就任させる、落成式を行う、始まりとなる		
 inauguration	10	【名】就任（式）、発会、開業、除幕		
 incandescent	12	【形】光り輝く、素晴らしい、熱烈な、白熱灯の		
-incapable	6	【形】能力がない、役に立たない		
 incarnation	11	【名】化身、肉体化		
 incendiary	11	【形】火をつけるのに用いる、放火の 【名】焼夷弾		
 incense	10	【名】香、芳香、尊敬		
@@ -2148,7 +2133,6 @@ incinerator	12	【名】焼却炉、火葬炉
 incoherent	9	【形】つじつまの合わない、まとまりのない		
 incomparable	10	【形】比類のない、ずば抜けた		
 incompatible	9	【形】互換性のない、気が合わない、両立しない		
-incomplete	8	【形】不完全な、不十分な、未完成の		
 incomprehensible	8	【形】理解しがたい、不可解な		
 inconceivable	9	【形】信じられない、想像もできない		
 inconclusive	9	【形】決定的でない、結論の出ない		
@@ -2208,7 +2192,6 @@ inflame	11	【動】刺激する、燃え上がらせる、火がつく
 inflate	10	【動】膨らませる、インフレをもたらす		
 inflation	5	【名】インフレーション、膨張		
 inflexible	8	【形】柔軟性がない、頑固な		
-inflict	6	【動】負わせる、加える		
 influential	5	【形】大きな影響を与える、動機となる		
 influx	10	【名】流入		
 informant	11	【名】情報提供者		
@@ -2446,7 +2429,6 @@ leaden	12	【形】鉛のように重い、活気のない、鉛色の
 leaflet	7	【名】ちらし		
 leafy	8	【形】葉の多い、葉で覆われた、葉のような		
 leaning	10	【名】傾向、趣味、傾斜		
-learned	7	【形】造詣の深い、学問的な		
 ledge	9	【名】水平の出っ張り、壁に取り付けた棚、岩層		
 ledger	12	【名】台帳		
 leech	12	【名】ヒル、人を食い物にする人		
@@ -2456,12 +2438,9 @@ legion	11	【名】大群、部隊、軍団
 legislation	4	【名】立法行為、法律制定		
 legislative	7	【形】立法上の		
 legislator	10	【名】立法者		
-legislature	9	【名】議会、立法機関		
 legitimacy	9	【名】合法、適法、正当		
 legitimate	7	【形】合法の、適法の、正当の 【動】合法化する		
 leisurely	11	【形】ゆうゆうとした 【副】ゆったりと		
-lengthen	7	【動】長くする、伸ばす		
-lenient	12	【形】寛大な、哀れみ深い、大目に見た		
 lesion	12	【名】損傷、障害、病巣		
 lethal	9	【形】致命的な		
 leukemia	11	【名】白血病		
@@ -2619,33 +2598,20 @@ masterly	11	【形】見事な、名人にふさわしい 【副】見事に
 masterpiece	6	【名】傑作		
 mastery	8	【名】熟達、精通、専門的技能、勝利、支配		
 mat	5	【名】マット、ござ		
-matching	7	【形】調和する、釣り合う		
-materialistic	9	【形】実利主義の、唯物論の		
-materialize	8	【動】形を与える、実現する、体現させる、現れる		
-maternal	9	【形】母の、母らしい、母方の		
-maternity	10	【名】母性、産科病院 【形】妊娠の		
 matrimony	12	【名】結婚生活、夫婦関係		
 matron	12	【名】既婚女性、寮母		
 maturity	7	【名】成熟、円熟、完成		
 maverick	11	【名】一匹オオカミ、異端者 【形】（政治家が）無所属の		
 maxim	9	【名】格言、金言、処世訓		
 maze	8	【名】迷路、迷宮、当惑 【動】当惑させる		
-meadow	4	【名】牧草地		
 meander	11	【動】ぶらぶら歩く、曲がりくねって進む 【名】曲がりくねった道		
 measles	11	【名】はしか、発疹性の病気		
 meddle	8	【動】よけいな世話を焼く、干渉する、いじくりまわす		
-median	9	【形】中央の、二等分する面の、左右対称に分ける面の 【名】中央値、メジアン		
-mediate	8	【動】成立させる、調停する、取り次ぐ 【形】仲介の、間接の		
-mediator	7	【名】仲介者、媒介者		
 medieval	5	【形】中世の、中世的な、古めかしい		
 mediocre	9	【形】二流の、可もなく不可もない		
 meek	9	【形】おとなしい、柔和な		
 melancholy	7	【名】ゆううつ、深い物思い 【形】ゆううつな		
 mellow	8	【形】柔らかくて豊かな、円熟した 【動】熟させる、落ち着く		
-melodrama	8	【名】メロドラマ、通俗劇		
-melodramatic	10	【形】メロドラマ的な、芝居がかった		
-meltdown	11	【名】メルトダウン、溶融、株式市場の大暴落		
-melting	6	【形】溶ける、溶かす、やさしい		
 membrane	12	【名】細胞膜		
 memento	12	【名】記念の品、かたみ		
 memorandum	7	【名】覚書、メモ		
@@ -2663,7 +2629,6 @@ merriment	12	【名】陽気な騒ぎ、歓楽
 messy	7	【形】乱雑な、汚い、混乱を起こす		
 metabolic	8	【形】代謝の		
 metabolism	8	【名】新陳代謝、物質交代		
-metallic	6	【形】金属(製)の		
 metaphysical	11	【形】形而上学的な、極めて抽象的な、難解な		
 meteor	11	【名】流星、めざましく躍進するもの		
 microbe	11	【名】微生物、病原菌		
@@ -2673,16 +2638,13 @@ midday	5	【名】昼頃、正午 【形】真昼の
 middleman	11	【名】仲介者、中間商人		
 midland	10	【名】内陸部、中部		
 midst	6	【名】真ん中、中央		
-midsummer	10	【名】真夏 【形】真夏の		
 midweek	9	【名】週の中ごろ 【副】週の中ごろに		
 midwife	10	【名】助産婦		
 migrant	10	【形】移住性の 【名】移住者		
 mileage	7	【名】総マイル数、マイル当たりの費用		
-milestone	9	【名】画期的な出来事		
 milieu	11	【名】社会的環境、文化的環境		
 militant	9	【形】好戦的な、何者をも恐れない 【名】闘争的な人		
 militia	10	【名】市民軍、民兵		
-millennium	8	【名】1000年間		
 millionth	5	【形】100万番目の、100万分（の1）の 【名】100万分の1、100万番目		
 mindless	9	【形】愚かな、思慮のない、容赦しない		
 mingle	8	【動】参加する、混ざる、いっしょになる		
@@ -3743,7 +3705,6 @@ secrete	12	【動】分泌する
 secretive	10	【形】隠しだてする、秘密主義の		
 sectarian	11	【形】党派の、宗派の、偏狭な 【名】派閥に属する人		
 secular	9	【形】世俗の、非宗教的な、修道院外の 【名】俗人		
-securely	8	【副】しっかりと、安全に、安定して		
 sedate	12	【形】落ち着いた、活気のない 【動】鎮静させる		
 sedative	11	【名】鎮静剤 【形】鎮静させる		
 sedentary	12	【形】定住性の、座った姿勢の		
@@ -3761,8 +3722,6 @@ semblance	10	【名】外見、類似
 semicircle	10	【名】半円		
 seminal	11	【形】影響力の大きい、生殖の		
 seminary	11	【名】神学校		
-senate	5	【名】上院（the S_）、議会		
-senator	6	【名】上院議員、（古代ローマの）元老院議員		
 senile	12	【形】もうろくした、老衰した、老人の		
 seniority	10	【名】年上、年功		
 sensibility	8	【名】感覚、感性、感受性、敏感さ		
@@ -3770,7 +3729,6 @@ sensitivity	6	【名】敏感さ、感じやすさ、感受性
 sensory	9	【形】知覚の、感覚の		
 sensuous	8	【形】感覚の、感覚を喜ばせる、官能的な、敏感な		
 sentry	12	【名】見張り、番兵		
-separable	9	【形】分離できる		
 sequel	9	【名】続編		
 sequester	12	【動】引きこもらせる、一時差し押さえる		
 sergeant	7	【名】軍曹、巡査部長		
@@ -3781,12 +3739,10 @@ serviceman	12	【名】軍人、修理人
 servile	12	【形】奴隷の、卑しい		
 serving	6	【名】給仕をすること、（食事の）一人前		
 setback	9	【名】妨げ、逆行		
-setup	7	【名】わな、機構、配置、ひとそろいの食器具		
 sever	10	【動】切断する、不和にする、分かれる		
 sewage	11	【名】汚水、下水		
 sewer	9	【名】下水管 【動】下水設備を設ける		
 sewerage	12	【名】下水道、下水処理、汚い考え		
-sexist	11	【形】男女差別主義の 【名】男女差別主義者		
 shackle	11	【動】拘束する 【名】手錠（～s）、束縛		
 shadowy	7	【形】謎につつまれた、陰になった、あいまいな、まぼろしの		
 shady	6	【形】陰にする、影の多い、怪しい		
@@ -4246,7 +4202,6 @@ throne	5	【名】王位、王座、国王
 throng	9	【名】群衆、雑踏 【動】群がる、混雑した		
 throttle	11	【動】絞め殺す、窒息させる、抑圧する 【名】（機械）スロットル、絞り		
 thrush	9	【名】ツグミ		
-thrust	6	【動】ぐいと押しつける、突き刺す		
 thud	12	【名】ドスンという音、ゴツンという一撃 【動】ドスンと当たる		
 thug	11	【名】残忍な悪漢、殺し屋、暴漢		
 thump	9	【動】激しくひっぱたく、たたきつける 【名】ゴツンという音、強打		

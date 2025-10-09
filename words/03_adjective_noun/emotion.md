@@ -59,3 +59,11 @@
 
 ## INDIFFERENT / NOT CARING
 - `couldn't care less` /ˈkʊdnt kɛr lɛs/ ([Casual] 全く興味がない)       I couldn't care less what they think.
+
+## GENTLE / TENDER
+- `melting` /ˈmeltɪŋ/               ([Neutral] やさしい、優しげな)   She spoke in a melting voice.
+  - `tender` /ˈtendər/              ([Neutral] 優しい、思いやりのある) He gave her a tender smile.
+  - `gentle` /ˈdʒentl/              ([Neutral] 優しい、穏やかな)     She has a gentle nature.
+  - `soft` /sɔːft/                  ([Neutral] 柔らかい、優しい)     He spoke in a soft voice.
+  - `warm` /wɔːrm/                  ([Neutral] 温かい、優しい)       She has a warm personality.
+  - `affectionate` /əˈfekʃənət/     ([Neutral] 愛情深い)            He's very affectionate with his kids.
