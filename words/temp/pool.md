@@ -3554,7 +3554,6 @@ retrace	9	【動】引き返す、注意して見直す、回想する
 retract	12	【動】撤回する		
 retribution	11	【名】懲罰、報い、天罰		
 retrieval	10	【名】回復、救助、検索		
-retrospect	9	【名】回想		
 reunion	9	【名】同窓会、再会		
 reunite	10	【動】再結合させる、再会する		
 revamp	11	【動】刷新する、改造する		

@@ -39,10 +39,19 @@
   - `barely manage to` /ˈberli/     ([Neutral] かろうじて～する)    I barely managed to catch the bus.
   - `hardly manage to` /ˈhɑːrdli/   ([Neutral] ほとんど～できない)  I can hardly manage to stay awake.
   - `just manage to` /dʒʌst/        ([Neutral] なんとか～する)      I just managed to get there.
-- `be liable to` /biː ˈlaɪəbəl tuː/ ([Formal] 〜しがちである)       He's liable to forget important details.
-- `be prone to` /biː proʊn tuː/     ([Neutral] 〜しがちである)      She's prone to headaches.
-- `be susceptible to`               ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
-- `be vulnerable to`                ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
+
+## + V 原型 (I tend to)
+> `tend to` /tend tuː/              ([Neutral] 〜しがちである)      I tend to forget names.
+  - `be prone to` /biː proʊn tuː/   ([Neutral] 〜しがちである)      She's prone to headaches.
+  - `be likely to` /ˈlaɪkli tuː/    ([Neutral] 〜しそうである)      He's likely to be late.
+  - `be apt to` /æpt tuː/           ([Neutral] 〜しがちである)      She's apt to overreact.
+  - `have a tendency to`            ([Neutral] 〜する傾向がある)    He has a tendency to procrastinate.
+  - `be inclined to` /ɪnˈklaɪnd tuː/([Neutral] 〜する傾向がある)    I'm inclined to agree with you.
+  - `be liable to` /biː ˈlaɪəbəl tuː([Formal] 〜しがちである)       He's liable to forget important details.
+  - `be susceptible to`             ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
+  - `be vulnerable to`              ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
+  - `be subject to`                 ([Formal] 〜を受けやすい)       Prices are subject to change.
+  - `be predisposed to`             ([Formal] 〜になりやすい)       He's predisposed to anxiety.
 
 ## + V 原型 (I have no choice but to / I'm obligated to)
 > `have no choice but to`           ([Neutral] 選択肢がない)        I have no choice but to quit.
@@ -123,3 +132,83 @@
   - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
   - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
   - `It hit 人` /hɪt/               ([Casual] 突然気づく)           It just hit me that we're late.
+
+> `I think` /aɪ θɪŋk/               ([Casual] 私は思う)             I think we should leave now.
+  > `It's more    of` O             ([Neutral] どちらかと言えば〜)  It’s more of a suggestion than a rule.
+  > `It's         like` O           ([Casual] まるでOみたい)        It's like a dream come true.
+  > `It's not     like` O           ([Casual] ～ってわけじゃない)   It's not like a traditional classroom.
+  > `It's just    like` O           ([Casual] まさにOだ)            It's just like running a marathon every day!
+  > `It's almost  like` O           ([Casual] ほとんどOみたい)      It's almost like we're starting from scratch.
+  > `It's kind of like` O           ([Casual] ちょっとOっぽい)      It's kind of like a puzzle you have to solve.
+  > `It's more    like` O           ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
+  > `It's not               that`   ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
+  > `It's just              that`   ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
+  > `It's more              that`   ([Neutral] どちらかというと)    It's more that I need some time to think.
+  > `It's not      the fact that`   ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
+  > `It's not just the fact that`   ([Neutral] だけが理由じゃない)  It's not just the fact that you called ...
+  > `It's not that A but (that) B`  ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
+  > `My concern is that S V`        ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
+  > `My understanding is (that)`    ([Neutral] 私の理解では)        My understanding is that we start Monday.
+  - `My take is` /maɪ teɪk ɪz/      ([Casual] 私の見方は)           My take is that we should proceed.
+> `It makes sense that S V`         ([Neutral] ～は理にかなってる)  It makes sense that prices went up.
+  > `It makes sense for A to B`     ([Neutral] AがBするのが理にかなう) It makes sense for them to wait.
+  - `It's only natural that S V`    ([Neutral] ～するのが自然)      It's only natural that he's tired.
+  - `It's logical that S V`         ([Formal] ～は論理的だ)         It's logical that we proceed carefully.
+  - `It's reasonable that S V`      ([Neutral] ～は妥当だ)          It's reasonable that they need more time.
+  - `It stands to reason that S V`  ([Formal] ～は当然だ)           It stands to reason that costs will rise.
+  - `It's understandable that S V`  ([Neutral] ～は理解できる)      It's understandable that she's upset.
+> `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
+  - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
+  - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
+
+## IT'S LIKELY THAT / CHANCES ARE / THERE'S A CHANCE THAT
+> `It appears (that)` S V           ([Formal] ～のようだ)           It appears that the system is down.
+> `It looks like` S V               ([Casual] ～みたいだ)           It looks like it's going to rain.
+> `It seems (that)` S V             ([Neutral] ～のようだ)          It seems that we have a problem.
+> `It seems as if/though`           ([Neutral] ～のように見える)    It seems as if he's not interested in the proposal.
+> `It seems to me`                  ([Neutral] 私には思える)        It seems to me that we're on track.
+> `It could be (that)` S V          ([Neutral] ～の可能性がある)    It could be that she misunderstood.
+> `It may be (that)` S V            ([Formal] ～かもしれない)       It may be that we need more time.
+> `It might be (that)` S V          ([Neutral] ～かもしれない)      It might be that she forgot.
+> `It's likely (that)` S V          ([Neutral] ～の可能性が高い)    It's likely that they'll accept our proposal.
+  > `be less likely to`             ([Neutral] する確率が低い)      It's less likely to get broken if you wrap it.
+  > `be more likely to`             ([Neutral] する確率が高い)      People are more likely to work in their field.
+- `It's possible (that)` S V        ([Neutral] ～の可能性がある)    It's possible that we made an error.
+> `I guess` S V                     ([Casual] ～かもしれない)       I guess he's not coming.
+- `I imagine` S V                   ([Neutral] ～だと想像する)      I imagine it must be difficult.
+- `I predict` S V                   ([Neutral] ～だと予測する)      I predict sales will increase.
+> `I suppose` S V                   ([Neutral] ～だと思う)          I suppose that could work.
+> `I suspect` S V                   ([Neutral] ～ではないかと思う)  I suspect that he knew more than he let on.
+- `I expect` S V                    ([Neutral] ～だと予想する)      I expect they'll arrive soon.
+- `I anticipate` S V                ([Formal] ～だと予想する)       I anticipate some challenges ahead.
+> `I have a feeling/hunch that` S V ([Casual] ～な予感がする)       I have a hunch that something big is about to happen.
+- `I feel like` S V                 ([Casual] ～な気がする)         I feel like this project is going to take longer.
+- `I get the impression (that)` S V ([Neutral] ～な印象を受ける)    I get the impression that she's upset.
+- `I wonder if`                     ([Neutral] ～かなと思う)        I wonder if they'll arrive on time.
+- `My guess is (that)` S V          ([Casual] 私の推測では)         My guess is that they got lost.
+> `Chances are (that)` S V          ([Casual] たぶん～だろう)       Chances are she forgot about the meeting.
+- `The odds are (that)` S V         ([Neutral] おそらく～だろう)    The odds are that it will rain tomorrow.
+> `There's a chance (that)` S V     ([Neutral] ～の可能性がある)    There's a chance that he'll show up.
+> `There's a possibility (that)` S V([Neutral] ～の可能性がある)    There's a possibility that we're wrong.
+- `apparently` S V                  ([Neutral] どうやら～らしい)    Apparently, the meeting was cancelled.
+- `maybe` S V                       ([Casual] たぶん～)             Maybe we should try a different approach.
+- `perhaps` S V                     ([Formal] おそらく～)           Perhaps we should reconsider our approach.
+- `possibly` S V                    ([Neutral] もしかしたら～)      It could possibly work with some adjustments.
+- `presumably` S V                  ([Formal] おそらく～)           Presumably, they've already been informed.
+- `probably` S V                    ([Neutral] おそらく～)          She's probably stuck in traffic.
+- `supposedly` S V                  ([Neutral] ～らしい)            Supposedly, he's an expert in this field.
+- `be sure to` /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
+
+## I'M SURE THAT / I'M CONFIDENT THAT
+> `I believe` S V                   ([Neutral] 私は信じる)          I believe we can achieve this goal.
+  - `I bet` S V                     ([Casual] きっと～だ)           I bet he forgot about the meeting.
+  - `I hope` S V                    ([Neutral] ～であってほしい)    I hope everything goes smoothly tomorrow.
+  - `I assume` S V                  ([Neutral] ～だと仮定する)      I assume you've heard the news.
+  > `be bound to` /baʊnd tuː/       ([Neutral] ～に違いない)        He's bound to notice eventually.
+> `I'm sure (that)` S V             ([Neutral] ～を確信している)    I'm sure that everything will work out fine.
+  > `I'm confident (that)` S V      ([Neutral] ～を確信している)    I'm confident that we can meet the deadline.
+  - `I'm convinced (that)` S V      ([Neutral] ～を確信している)    I'm convinced that this is the right approach.
+  - `I'm certain (that)` S V        ([Formal] ～を確信している)     I'm certain that we'll succeed.
+  - `I'm positive (that)` S V       ([Casual] ～を確信している)     I'm positive that I locked the door.
+  - `I have no doubt (that)` S V    ([Formal] ～を疑わない)         I have no doubt that she'll succeed.
+
