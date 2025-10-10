@@ -360,9 +360,9 @@
 
 ## CLICHE
 - `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
-- `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
+- `I was on mute`                   ([Casual] ミュートになってた)   Sorry, I was on mute and didn’t hear you.
 - `the sky's the limit`             ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
-- `Just give it time`               ([Casual] 時間が解決してくれる) `Just give it time`; things will improve.
+- `Just give it time`               ([Casual] 時間が解決してくれる) Just give it time; things will improve.
 - `mum's the word`                  ([Casual] 内緒にしてね)         `Mum's the word` about the surprise party.
 - `simple as that`                  ([Casual] それだけのこと)       Just follow the instructions. Simple as that.
 - `easy as that`                    ([Casual] それだけのこと)       You just need to click here. Easy as that.
