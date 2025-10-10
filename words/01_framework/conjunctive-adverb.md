@@ -194,6 +194,7 @@
   - `honestly` /ˈɑːnɪstli/          ([Casual] 正直に言って)         Honestly, I think we should wait.
   - `frankly` /ˈfræŋkli/            ([Neutral] 率直に言って)        Frankly, I'm disappointed.
   - `to be frank`                   ([Neutral] 率直に言うと)        To be frank, your idea needs work.
+  - `The fact is`                   ([Neutral] 実を言うと)          The fact is, I don't have enough money.
   - `truthfully` /ˈtruːθfəli/       ([Neutral] 正直に言って)        Truthfully, I wasn't expecting this.
   - `to tell (you) the truth`       ([Casual] 本当のことを言うと)   To tell you the truth, I forgot all about it.
   - `if I'm being honest`           ([Casual] 正直に言うと)         If I'm being honest, I'm not a fan.

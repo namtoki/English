@@ -1332,3 +1332,8 @@
   - `have an axe to grind`          ([Neutral] 私怨がある)          He has an axe to grind with the company.
   - `air grievances`                ([Formal] 不満を表明する)       The staff met to air their grievances.
 
+- `I'm terrible with O`                 ([Casual] Oがとても苦手だ) `I'm terrible with` directions.
+- `I don't care for O`                  ([Casual] Oは好きじゃない) `I don't care for` spicy food.
+
+- `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
+- `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`

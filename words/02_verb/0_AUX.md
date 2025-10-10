@@ -39,6 +39,7 @@
   - `barely manage to` /ˈberli/     ([Neutral] かろうじて～する)    I barely managed to catch the bus.
   - `hardly manage to` /ˈhɑːrdli/   ([Neutral] ほとんど～できない)  I can hardly manage to stay awake.
   - `just manage to` /dʒʌst/        ([Neutral] なんとか～する)      I just managed to get there.
+  - `can still just about V`        ([Casual] ギリギリできる)       I can still just about make it to the meeting on time.
 
 ## + V 原型 (I tend to)
 > `tend to` /tend tuː/              ([Neutral] 〜しがちである)      I tend to forget names.
@@ -62,6 +63,7 @@
   - `be bound to` /baʊnd tuː/       ([Formal] ～する義務がある)     You're bound to follow the rules.
   - `be duty-bound to`              ([Formal] ～する義務がある)     I'm duty-bound to report this.
   - `be mandated to` /ˈmændeɪtɪd/   ([Formal] ～を義務付けられる)   We're mandated to comply.
+- `be more than happy to V`         ([Casual] 喜んで～する)         I'm more than happy to help you with the project.
 
 ## + V-ing (I'm used to V-ing / I ended up V-ing / I came close to V-ing)
 > `be used to -ing` /juːzd tuː/     ([Neutral] ～に慣れている)      I'm used to working late.
@@ -73,6 +75,7 @@
   - `be on the verge of` /vɜːrdʒ/   ([Neutral] ～の寸前)            She's on the verge of tears.
   - `be on the point of` /pɔɪnt/    ([Formal] まさに～しようと)     I was on the point of calling you.
   - `be on the brink of` /brɪŋk/    ([Neutral] ～の瀬戸際)          We're on the brink of success.
+- `I have trouble V-ing`            ([Neutral] するのに苦労してる)  I have trouble understanding technical documents.
 
 ## and + V
 > `bite the bullet` /baɪt ðə ˈbʊlɪ  ([Neutral] 覚悟を決める)        I bit the bullet and asked for a raise.
@@ -127,7 +130,7 @@
   - `it's useless to`               ([Neutral] ～するのは無駄)      It's useless to complain.
   - `it's wasteful to`              ([Neutral] ～するのは無駄)      It's wasteful to throw that away.
 
-## It V that S V (It crosses my mind)
+## It V that/how S V (It crosses my mind)
 > `It crosses one's mind`           ([Casual] 頭をよぎる)           It never crossed my mind.
   - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
   - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
@@ -212,3 +215,16 @@
   - `I'm positive (that)` S V       ([Casual] ～を確信している)     I'm positive that I locked the door.
   - `I have no doubt (that)` S V    ([Formal] ～を疑わない)         I have no doubt that she'll succeed.
 
+- `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
+- `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
+- `It's up in the air whether S V`      ([Casual] ～かどうかはまだ未定だ) `It's up in the air whether` we'll have the meeting tomorrow.
+- `It's no use V-ing`                   ([Neutral] Vしても無駄だ) `It's no use arguing with someone who won't listen.`
+- `Turns out S V`                   ([Casual] ということがわかった) Turns out she was right all along.
+- `be aware that`                   ([Neutral] に注意してください)  Be aware that the deadline is next Friday.
+- `I see you have V`                    ([Neutral] ～したようだね) `I see you have` finished the report early.
+- `It might be a good idea to V`        ([Neutral] ～した方がいいかもしれない) `It might be a good idea to` double-check the numbers.
+- `It wouldn't hurt to V`               ([Neutral] ～しても損はない) `It wouldn't hurt to` ask for help if you're stuck.
+- `It goes without saying that S V`     ([Formal] ～は言うまでもなく) `It goes without saying that` safety is our top priority.
+- `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn't change.`
+- `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
+- `That's not to say (that) S V`        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.

@@ -164,10 +164,6 @@
 > `Leave it there`                  ([Casual] それで終わりにしよう) Let's `leave it there` for today.
   - `So much for O`                 ([Casual] これで終わ,期待外れ)  `So much for` our plans to go hiking.
 
-## OPINION ()
-- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
-- `that's the way S V`                  ([Neutral] このやり方が) `That's the way` I like it. / `That's the way` I prefer it.
-
 ## OPINION (I'm fine with / No rush / That would be great / That's the way it is)
 > `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
   - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
@@ -193,17 +189,24 @@
   - `It is what it is`              ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
   - `That's just me`                ([Casual] それが私だから)       I can't help being late. That's just me.
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
+- `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
+- `I hope I'm not interrupting you.`    ([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
+> `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
+  > `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
+  - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
+- `A is one thing, but B is another`([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
+- `it's not always the case that`   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
+- `that's not to say that S V`      ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
 
-## CONFIRMATION (are you okay?)
-> `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
-  - `You okay?`                     ([Casual] 大丈夫？)             You okay? You seem quiet today.
-  - `All good?`                     ([Casual] 大丈夫？)             All good? Ready to continue?
-  - `You good?`                     ([Casual] 大丈夫？)             You good? Need any help?
-  - `Everything okay?`              ([Casual] 大丈夫？)             Everything okay over there?
-  - `Is everything all right?`      ([Neutral] 大丈夫ですか？)      Is everything all right with the project?
-  - `Is everything okay?`           ([Neutral] すべて大丈夫？)      Is everything okay at home?
-  - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
-  - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
+## OPINION
+- `It's a custom to V`              ([Neutral] ～する習慣がある)    `It's a custom to` give gifts during the holidays.
+- `It's traditional to V`           ([Neutral] ～するのが伝統だ)    `It's traditional to` celebrate New Year's with family.
+- `There're times when S V`         ([Neutral] ～する時もある)      `There're times when` I feel overwhelmed with work.
+- `There's a side to A that S V`    ([Neutral] 一面がある)          `There's a side to her` that most people never see.
+- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
+- `S V-ing. That is C`              ([Neutral] している。それはCだ) `Working overtime. That is exhausting.`
+- `S V. That I V`                   ([Neutral] Vだ。それは私がVだ)  `It's raining. That I don't mind at all.`
+- `that's the way S V`              ([Neutral] このやり方が)        `That's the way` I like it. / `That's the way` I prefer it.
 
 ## FEELING (I can't believe one's eyes / I can't catch a break)
 > `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!
@@ -226,28 +229,16 @@
   - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
   - `Murphy's Law is in full effect`([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
 
-## INTERJECTION (
-> `I've got it!`                    ([Casual] そうだ！)             Wait — I've got it! What if we try a rotating schedule?"
-> `Here we go`                      ([Casual] さぁ！)               Here we go! Your dinner is ready!
-  - `Here we go`                    ([Casual] はじめましょう)       Have you prepared everything? OK, `here we go`!
-  - `Here we go`                    ([Casual] ハイチーズ)           Sure! Line up in front of that statue! 3, 2, 1, `here we go`!
-  - `Here we are`                   ([Casual] 着いた！)             `Here we are!` Home sweet home.
-  - `Here you go/are`               ([Casual] どうぞ)               `Here you go`. This is the doll you wanted.
-  - `be coming right up`            ([Casual] すぐできます)         Your order will be coming right up!
-  - `be on one's way`               ([Casual] 向かっています)       Your food is on its way to your table.
-  - `be ready in a moment`          ([Casual] すぐできます)         Your coffee will be ready in a moment.
-  - `be ready shortly`              ([Neutral] まもなく準備できます) Your table will be ready shortly.
-  - `be out in a minute`            ([Casual] すぐ出てきます)       I'll be out in a minute!
-  - `be right with you`             ([Casual] すぐ行きます)         I'll be right with you!
-  - `There we go.`                  ([Casual] ほらね／できたよ)     `There we go.` The printer is working again.
-  - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
-  - `There you go.`                 ([Casual] どうぞ／その調子)     I'm going to go for it! / Yeah, `There you go`!
-- `why`                             ([Casual] おや／あら)           `Why,` I didn't expect to see you here!
-
-## CLICHE
-- `the sky's the limit`             ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
-- `Just give it time`               ([Casual] 時間が解決してくれる) `Just give it time`; things will improve.
-- `mum's the word`                  ([Casual] 内緒にしてね)         `Mum's the word` about the surprise party.
+## CONFIRMATION (are you okay?)
+> `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
+  - `You okay?`                     ([Casual] 大丈夫？)             You okay? You seem quiet today.
+  - `All good?`                     ([Casual] 大丈夫？)             All good? Ready to continue?
+  - `You good?`                     ([Casual] 大丈夫？)             You good? Need any help?
+  - `Everything okay?`              ([Casual] 大丈夫？)             Everything okay over there?
+  - `Is everything all right?`      ([Neutral] 大丈夫ですか？)      Is everything all right with the project?
+  - `Is everything okay?`           ([Neutral] すべて大丈夫？)      Is everything okay at home?
+  - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
+  - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
 
 ---
 
@@ -337,7 +328,23 @@
 - `Should I V?`                     ([Neutral] ～しましょうか？)    Should I make a reservation?
 - `Can I V for you?`                ([Neutral] ～しましょうか？)    Can I get that for you?
 
-## BEEN THERE DONE THAT / NOT AGAIN
+## INTERJECTION (
+> `I've got it!`                    ([Casual] そうだ！)             Wait — I've got it! What if we try a rotating schedule?"
+> `Here we go`                      ([Casual] さぁ！)               Here we go! Your dinner is ready!
+  - `Here we go`                    ([Casual] はじめましょう)       Have you prepared everything? OK, `here we go`!
+  - `Here we go`                    ([Casual] ハイチーズ)           Sure! Line up in front of that statue! 3, 2, 1, `here we go`!
+  - `Here we are`                   ([Casual] 着いた！)             `Here we are!` Home sweet home.
+  - `Here you go/are`               ([Casual] どうぞ)               `Here you go`. This is the doll you wanted.
+  - `be coming right up`            ([Casual] すぐできます)         Your order will be coming right up!
+  - `be on one's way`               ([Casual] 向かっています)       Your food is on its way to your table.
+  - `be ready in a moment`          ([Casual] すぐできます)         Your coffee will be ready in a moment.
+  - `be ready shortly`              ([Neutral] まもなく準備できます) Your table will be ready shortly.
+  - `be out in a minute`            ([Casual] すぐ出てきます)       I'll be out in a minute!
+  - `be right with you`             ([Casual] すぐ行きます)         I'll be right with you!
+  - `There we go.`                  ([Casual] ほらね／できたよ)     `There we go.` The printer is working again.
+  - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
+  - `There you go.`                 ([Casual] どうぞ／その調子)     I'm going to go for it! / Yeah, `There you go`!
+- `why`                             ([Casual] おや／あら)           `Why,` I didn't expect to see you here!
 > `Been there done that`            ([Casual] 経験済み、もういい)   I don't want to try that again. Been there done that.
   > `Story of my life`              ([Casual] いつものこと)         Late again? Story of my life.
   - `I've been there`               ([Casual] 経験したことある)     I've been there - it gets better with time.
@@ -351,76 +358,15 @@
   - `Just like before`              ([Neutral] 以前と同じ)          It's happening just like before.
   - `Déjà vu`                       ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.
 
-## THAT DOESN'T MEAN
-> `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
-  > `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
-  - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
-- `A is one thing, but B is another`([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
-- `it's not always the case that`   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
-- `that's not to say that S V`      ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
-
-## SIMPLE AS THAT
+## CLICHE
+- `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
+- `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
+- `the sky's the limit`             ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
+- `Just give it time`               ([Casual] 時間が解決してくれる) `Just give it time`; things will improve.
+- `mum's the word`                  ([Casual] 内緒にしてね)         `Mum's the word` about the surprise party.
 - `simple as that`                  ([Casual] それだけのこと)       Just follow the instructions. Simple as that.
 - `easy as that`                    ([Casual] それだけのこと)       You just need to click here. Easy as that.
 - `as simple as that`               ([Casual] それくらい簡単)       It's as simple as that.
 - `plain and simple`                ([Casual] 単純明快)             He lied to us, plain and simple.
 - `that's all there is to it`       ([Casual] それだけのこと)       Just study hard. That's all there is to it.
 - `nothing more to it`              ([Casual] それ以上何もない)     Press the button and wait. Nothing more to it.
-
-## BE AWARE THAT
-- `be aware that`                   ([Neutral] に注意してください)  Be aware that the deadline is next Friday.
-
-## TURNS OUT THAT
-- `Turns out S V`                   ([Casual] ということがわかった) Turns out she was right all along.
-
-## FIND A WAY TO
-- `find a way to ~`                 ([Neutral] する方法を見つける)  We need to `find a way to` reduce operational costs.
-  - `find a ~ form of ~`            ([Neutral] の〜な形を見つける)  We need to `find a new form of` leadership that suits it
-
-## SOMETHING CAME UP
-- `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
-
-## I WAS ON MUTE
-- `I was on mute`                   ([Casual] ミュートになってた)   Sorry, `I was on mute` and didn’t hear you.
-
-## OPINION
-- `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
-- `I hope I'm not interrupting you.`    ([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
-- `I believe in O`                      ([Neutral] Oを信じている) `I believe in the power of teamwork.`
-- `I believe (that) S V`                ([Neutral] ～だと信じている) `I believe that everyone deserves a second chance.`
-- `I see you have V`                    ([Neutral] ～したようだね) `I see you have` finished the report early.
-- `It might be a good idea to V`        ([Neutral] ～した方がいいかもしれない) `It might be a good idea to` double-check the numbers.
-- `It wouldn't hurt to V`               ([Neutral] ～しても損はない) `It wouldn't hurt to` ask for help if you're stuck.
-- `It goes without saying that S V`     ([Formal] ～は言うまでもなく) `It goes without saying that` safety is our top priority.
-- `It's no use V-ing`                   ([Neutral] Vしても無駄だ) `It's no use arguing with someone who won't listen.`
-- `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn't change.`
-- `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
-- `That's not to say (that) S V`        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.
-- `That's rather unlikely`              ([Neutral] それはあまりなさそうだ) `That's rather unlikely,` given the current circumstances.
-- `The fact is`                         ([Neutral] 実を言うと) `The fact is,` I don't have enough money.
-- `You might wonder O`                  ([Neutral] Oと思うかもしれない) `You might wonder` why we made that decision.
-
-## FEELING
-- `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
-- `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
-- `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
-- `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
-- `It's up in the air whether S V`      ([Casual] ～かどうかはまだ未定だ) `It's up in the air whether` we'll have the meeting tomorrow.
-- `I don't know the first thing about O`([Casual] Oについて全く知らない) `I don't know the first thing about` coding.
-- `I can't say for sure until S V`      ([Neutral] ～までははっきり言えない) `I can't say for sure until we get the test results.`
-- `I'm more than happy to V`            ([Casual] 喜んで～する) `I'm more than happy to` help you with the project.
-- `I'm trying to V`                     ([Neutral] ～してるから邪魔しないで) `I'm trying to` finish the report by tomorrow.
-- `I don't care for O`                  ([Casual] Oは好きじゃない) `I don't care for` spicy food.
-- `I'm terrible with O`                 ([Casual] Oがとても苦手だ) `I'm terrible with` directions.
-- `I can still just about V`            ([Casual] なんとかギリギリ～できる) `I can still just about` make it to the meeting on time.
-- `I have trouble V-ing`                ([Neutral] ～するのに苦労している) `I have trouble understanding technical documents.`
-- `I find O C`                          ([Neutral] OがCだと感じる) `I find this book fascinating.`
-- `It's C how S V`                      ([Neutral] S V の仕方が C だ) `It's strange how` quickly things changed.
-- `S V. That I V`                       ([Neutral] S Vだ。それは私がVだ) `It's raining. That I don't mind at all.`
-- `S V-ing. That is C`                  ([Neutral] Sしている。それはCだ) `Working overtime. That is exhausting.`
-
-## FACT
-- `It's a custom to V`                  ([Neutral] ～する習慣がある) `It's a custom to` give gifts during the holidays.
-- `It's traditional to V`               ([Neutral] ～するのが伝統だ) `It's traditional to` celebrate New Year's with family.
-- `There're times when S V`             ([Neutral] ～する時もある) `There're times when` I feel overwhelmed with work.
-- `There's a side to A that S V`        ([Neutral] 一面がある) `There's a side to her` that most people never see.

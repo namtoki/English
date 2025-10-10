@@ -645,3 +645,9 @@
   - `secure` /səˈkjʊɹ/              ([Neutral] 確保する、獲得する)  We secured the contract.
   - `seal` /siːl/                   ([Neutral] 確定する、封じる)    They sealed the deal.
   - `wrap up` /ɹæp ʌp/              ([Casual] 完了する、決める)     Let's wrap up this project.
+
+- `I can't say for sure until S V`      ([Neutral] ～までははっきり言えない) `I can't say for sure until we get the test results.`
+
+- `I don't know the first thing about O`([Casual] Oについて全く知らない) `I don't know the first thing about` coding.
+- `find a way to ~`                 ([Neutral] する方法を見つける)  We need to `find a way to` reduce operational costs.
+  - `find a ~ form of ~`            ([Neutral] の〜な形を見つける)  We need to `find a new form of` leadership that suits it
