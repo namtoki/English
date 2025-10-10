@@ -95,7 +95,7 @@
   - `I appreciate the update`       ([Neutral] 報告ありがとう)      I appreciate the update on the project status.
   - `That's helpful`                ([Casual] 助かります)           That's helpful, I'll keep that in mind.
 
-## REPLY (You flatter me / That's funny / Good for you / You never know / Anytime)
+## REPLY (You flatter me / That's funny / Good for you / You never know / Anytime / That's really something!)
 > `You flatter me`                  ([Formal] お世辞でも嬉しい)     You flatter me. I'm just doing my job.
   - `I'm flattered`                 ([Neutral] 光栄です)            I'm flattered by your compliment.
   - `You give me too much credit`   ([Neutral] 買いかぶりすぎです)  You give me too much credit. It was a team effort.
@@ -129,7 +129,7 @@
   - `Happy to help`                 ([Casual] 喜んでお手伝いします) Thanks for the advice. Happy to help.
   - `No worries`                    ([Casual] 気にしないで)         Sorry I'm late. No worries.
   - `Of course`                     ([Neutral] もちろんです)        Thanks for letting me know. Of course.
-> `That's really something`         ([Casual] 大したもんだね)       Wow, you finished the project early? `That's really something!`
+> `That's really something`         ([Casual] 大したもんだね)       Wow, you finished the project early? That's really something!
 
 ## OPINION (How can I put this? / You lost me / Come again?)
 > `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
@@ -155,6 +155,22 @@
   - `I didn't catch that`           ([Casual] 聞き取れなかった)     I didn't catch that. Could you repeat?
 > `Come again?`                     ([Casual] もう一回言って)       Come again? I didn't catch that.
   - `Sorry, what?`                  ([Casual] え、何？)             Sorry, what? I missed that.
+
+## OPINION (S V-ing / That's the way I like it)
+> `S V-ing. That is C`              ([Neutral] している。それはCだ) Working overtime. That is exhausting.
+  - `S V-ing, that'd be C`          ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
+  - `S V. That I V`                 ([Neutral] Vだ。それは私がVだ)  It's raining. That I don't mind at all.
+> `that's the way S V`              ([Neutral] このやり方が)        That's the way I like it. / That's the way I prefer it.
+> `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
+  - `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
+  - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
+- `A is one thing, but B is another`([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
+- `it's not always the case that`   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
+- `that's not to say that S V`      ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
+> `It's a custom to V`              ([Neutral] ～する習慣がある)    It's a custom to give gifts during the holidays.
+  - `It's traditional to V`         ([Neutral] ～するのが伝統だ)    It's traditional to celebrate New Year's with family.
+- `There're times when S V`         ([Neutral] ～する時もある)      There're times when I feel overwhelmed with work.
+- `There's a side to A that S V`    ([Neutral] 一面がある)          There's a side to her that most people never see.
 
 ## OPINION (at the moment)
 > `I'm V-ing ... at the moment.`    ([Casual] 今まさに～している)   I'm working on the report at the moment.
@@ -191,22 +207,6 @@
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
 - `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
 - `I hope I'm not interrupting you.`    ([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
-> `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
-  > `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
-  - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
-- `A is one thing, but B is another`([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
-- `it's not always the case that`   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
-- `that's not to say that S V`      ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
-
-## OPINION
-- `It's a custom to V`              ([Neutral] ～する習慣がある)    `It's a custom to` give gifts during the holidays.
-- `It's traditional to V`           ([Neutral] ～するのが伝統だ)    `It's traditional to` celebrate New Year's with family.
-- `There're times when S V`         ([Neutral] ～する時もある)      `There're times when` I feel overwhelmed with work.
-- `There's a side to A that S V`    ([Neutral] 一面がある)          `There's a side to her` that most people never see.
-- `S V-ing, that'd be C`            ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
-- `S V-ing. That is C`              ([Neutral] している。それはCだ) `Working overtime. That is exhausting.`
-- `S V. That I V`                   ([Neutral] Vだ。それは私がVだ)  `It's raining. That I don't mind at all.`
-- `that's the way S V`              ([Neutral] このやり方が)        `That's the way` I like it. / `That's the way` I prefer it.
 
 ## FEELING (I can't believe one's eyes / I can't catch a break)
 > `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!

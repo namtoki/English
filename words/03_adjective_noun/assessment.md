@@ -73,3 +73,12 @@
   - `stern` /stɜːrn/                ([Neutral] 厳格な、厳しい)       He gave a stern warning.
   - `rigid` /ˈrɪdʒɪd/               ([Neutral] 厳格な、融通が利かない) The company has rigid policies.
   - `harsh` /hɑːrʃ/                 ([Neutral] 厳しい、過酷な)       The punishment was harsh.
+
+## PICKY / CHOOSY
+- `picky` /ˈpɪki/                   ([Casual] こだわりの強い)        She's picky about her food.
+  - `pickiness` /ˈpɪkinəs/          ([Casual] こだわり)             His pickiness makes shopping difficult.
+  - `choosy` /ˈtʃuːzi/              ([Casual] 選り好みする)          She's choosy about her friends.
+  - `finicky` /ˈfɪnɪki/             ([Neutral] 細かいことにうるさい)  He's finicky about punctuation.
+  - `particular` /pərˈtɪkjələr/     ([Neutral] こだわりのある)       She's particular about cleanliness.
+  - `persnickety` /pɚˈsnɪkɪti/      ([Casual] 細かいことにうるさい)  He's persnickety about his coffee.
+  - `selective` /səˈlɛktɪv/         ([Neutral] 選択的な、選り好みする) She's selective about her projects.

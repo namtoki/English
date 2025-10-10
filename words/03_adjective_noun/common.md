@@ -11,6 +11,14 @@
 - `permission` /pərˈmɪʃən/           ([Neutral] 許可)                Ask for permission before entering.
 - `authorization` /ˌɔːθərəˈzeɪʃən/   ([Formal] 認可、授権)            You need authorization to access this.
 - `acquiescence` /ˌækwiˈesəns/       ([Formal] 黙認、容認)            His silence implied acquiescence.
+- `unanimous` /juˈnænəməs/           ([Formal] 全員一致の)            The decision was unanimous.
+  - `unanimously` /juˈnænəməsli/     ([Formal] 全員一致で)            The bill was passed unanimously.
+  - `unanimity` /ˌjuːnəˈnɪmɪti/      ([Formal] 全員一致、満場一致)    There was unanimity on the issue.
+  - `universal` /ˌjunəˈvɜɹsl/        ([Neutral] 普遍的な、全世界の)   It's a universal truth.
+  - `undisputed` /ˌʌndɪˈspjuːtɪd/    ([Neutral] 議論の余地のない)     He's the undisputed champion.
+  - `collective` /kəˈlɛktɪv/         ([Neutral] 集団の、共同の)       It was a collective decision.
+  - `unified` /ˈjuːnɪfaɪd/           ([Neutral] 統一された)           They presented a unified front.
+  - `consensual` /kənˈsɛnʃuəl/       ([Formal] 合意に基づく)          The agreement was consensual.
 - `proscription` /pɹəˈskɹɪp.ʃən/     ([Formal] 禁止、排斥)            The proscription of certain books.
   - `proscriptive` /pɹəˈskɹɪptɪv/   ([Formal] 禁止の、規範的な)       The proscriptive rules were strict.
 - `hedonism` /ˈhiːdənɪzəm/          ([Formal] 快楽主義)            His lifestyle embraces hedonism.
@@ -1184,6 +1192,12 @@
 - `elaborate` /ɪˈlæbərət/           ([Neutral] 込み入った、精巧な)  She had elaborate plans for the party.
 - `intricate` /ˈɪntrɪkət/           ([Formal] 精密で込み入った)     The watch has an intricate mechanism.
 - `convoluted` /ˈkɒnvəluːtɪd/       ([Writing] 複雑で分かりにくい)  His explanation was convoluted.
+- `fiddly` /ˈfɪdli/                 ([Casual] めんどくさい、細かい)  Changing a fuse is fiddly.
+  - `cumbersome` /ˈkʌmbɚsəm/        ([Neutral] 扱いにくい、煩雑な)  The process is cumbersome.
+  - `bothersome` /ˈbɑðɚsəm/         ([Casual] 面倒な、うっとうしい)  The mosquitoes were bothersome.
+  - `tedious` /ˈtidiəs/             ([Neutral] 退屈な、飽き飽きする) The work is tedious but necessary.
+  - `exacting` /ɪɡˈzæktɪŋ/          ([Formal] 厳密な、骨の折れる)   The job requires exacting standards.
+  - `time-consuming` /ˈtaɪmkənˌsumɪŋ/ ([Neutral] 時間のかかる)      It's a time-consuming task.
 
 ## 無関心な
 - `apathetic` /ˌæpəˈθetɪk/          ([Formal] 無関心な、無感動な)   He seemed apathetic about the results.

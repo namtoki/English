@@ -31,3 +31,11 @@
 - `uneducated` /ˌʌnˈedʒukeɪtɪd/     ([Neutral] 無教育の)            The uneducated masses need support.
 - `benightedness` /bɪˈnaɪtədnəs/    ([Formal] 無知蒙昧)             The benightedness of the era is evident.
 - `innumeracy` /ɪˈnuːmərəsi/        ([Technical] 数的能力不足)      Innumeracy is as problematic as illiteracy.
+
+## HABITS AND SKILLS
+- `second nature` /ˈsɛkənd ˈneɪtʃər/  ([Neutral] 自然にできる習慣)     Using it becomes second nature.
+- `ingrained` /ɪnˈɡreɪnd/             ([Neutral] 深く染み付いた)       Saying thank you is an ingrained habit.
+- `instinctive` /ɪnˈstɪŋktɪv/         ([Neutral] 本能的な)             Cats have an instinctive desire to hunt.
+- `intuitive` /ɪnˈtuɪtɪv/             ([Neutral] 直感的な)             He had an intuitive sense of what to do.
+- `automatic` /ˌɔːtəˈmætɪk/           ([Neutral] 自動的な、無意識の)   My reaction was automatic.
+- `down pat` /daʊn pæt/               ([Casual] 完璧に習得した)        I have my speech down pat.

@@ -57,6 +57,12 @@
 > `from now on` /frʌm naʊ ɑːn/      ([Neutral] これからは)          From now on, I'm cutting down on expenses.
   - `right away` /raɪt əˈweɪ/       ([Neutral] すぐに)              I'll come right away.
   - `any day now` /ˈeni deɪ naʊ/    ([Casual] 今すぐにでも)         Any day now, she'll call.
+  - `hereafter` /hɪɹˈæftɚ/          ([Formal] 今後は、この先)        Hereafter, we'll meet monthly.
+    - `hereinafter` /ˈhɪɹɪnˈæftɚ/   ([Formal] 以下、本書において)    The company (hereinafter "the Company").
+    - `henceforward` /hɛnsˈfɔɹwɝd/  ([Formal] 今後は)               Henceforward, all reports must be filed online.
+    - `hereupon` /ˌhɪrəˈpɑn/        ([Formal] その結果、ここに)      Hereupon, the meeting was adjourned.
+    - `heretofore` /ˈhɪɹtəfɔɹ/      ([Formal] これまで、従来)        Heretofore, this was not possible.
+    - `hitherto` /ˈhɪðəɹˌtu/        ([Formal] これまで、今まで)      Hitherto, we've avoided this issue.
 
 ## UP-FRONT
 - `up-front` /ʌp frʌnt/             ([Neutral] あらかじめ)          This hotel requires a cash deposit up-front.

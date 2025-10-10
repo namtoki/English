@@ -46,6 +46,14 @@
     - `affluent` /ˈæfluənt/         ([Formal] 裕福な)               She comes from an affluent family.
   - `riches` /ˈrɪtʃɪz/              ([Writing] 富、財宝)            He dreamed of untold riches.
 
+## BUSINESS / COMMERCE
+- `wholesale` /ˈhoʊlseɪl/          ([Neutral] 卸売の、大規模な)    They buy wholesale from suppliers.
+  - `retail` /ˈɹiˌteɪl/            ([Neutral] 小売りの、小売り)    Retail prices are higher than wholesale.
+  - `bulk` /bʌlk/                  ([Neutral] 大量、まとめ)        Buying in bulk saves money.
+  - `en masse` /ɑn ˈmæs/           ([Formal] 全体で、大挙して)     They resigned en masse.
+  - `sweeping` /ˈswiːpɪŋ/          ([Neutral] 広範囲の、全面的な)  The government made sweeping changes.
+  - `indiscriminate` /ɪndɪsˈkɹɪmɪnət/ ([Formal] 無差別の、見境のない) The attack was indiscriminate.
+
 ## HIRING (FOR HIRE / OPEN FOR BUSINESS)
 > `for hire`                        ([Neutral] 賃貸しの、雇用可能)  The taxi is for hire.
   - `for rent`                      ([Neutral] 賃貸しの)            This apartment is for rent.
