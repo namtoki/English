@@ -77,3 +77,11 @@
 - `knowingly` /ˈnoʊɪŋli/            ([Formal] 承知の上で)           He knowingly broke the rules.
 - `willfully` /ˈwɪlfəli/            ([Formal] 故意に)               She willfully ignored the instructions.
 > `go out of one's way to`          ([Neutral] わざわざする)        He always goes out of his way to help his colleagues.
+
+## GENERALLY
+- `generally` /ˈdʒenərəli/        ([Neutral] たいてい、一般的に)  I generally wake up at 7 AM.
+- `usually` /ˈjuːʒuəli/           ([Neutral] 普通は、たいてい)    I usually go to bed at 11 PM.
+- `normally` /ˈnɔːrməli/          ([Neutral] 通常は)              Normally, I take the train.
+- `typically` /ˈtɪpɪkli/          ([Neutral] 典型的には)          She typically works from home.
+- `commonly` /ˈkɑːmənli/          ([Neutral] 一般的に)            This is commonly used in business.
+- `ordinarily` /ˌɔːrdəˈnerəli/    ([Neutral] 通常は)              Ordinarily, I don't eat spicy food.

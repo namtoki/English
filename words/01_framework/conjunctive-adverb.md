@@ -2,6 +2,7 @@
 
 ## PRE (to begin with / then / next / moving on / going back to)
 > `to begin with` /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
+  - `first things first`            ([Neutral] まず第一に)          First things first, let's finish the report.
   - `first of all` /fɜːrst əv ɔːl/  ([Neutral] まず第一に)          First of all, let me thank you.
   - `firstly` /ˈfɜːrstli/           ([Formal] 第一に)               Firstly, we need to review the budget.
   - `to start with`                 ([Neutral] まず初めに)          To start with, check your equipment.
@@ -246,6 +247,12 @@
   - `in view of` /ɪn vjuː əv/       ([Formal] ～を考慮して)         In view of the circumstances, we'll make an exception.
   - `taking into account`           ([Neutral] ～を考慮に入れて)    Taking into account the delay, we adjusted the schedule.
   - `all things considered`         ([Formal] 全体的に考えると)     All things considered, that was a successful event.
+  - `with that in mind`             ([Neutral] それを踏まえて)      With that in mind, let's move forward.
+  - `with this in mind`             ([Neutral] これを踏まえて)      With this in mind, we revised the plan.
+  - `bearing that in mind`          ([Neutral] それを念頭に置いて)  Bearing that in mind, proceed carefully.
+  - `keeping that in mind`          ([Neutral] それを心に留めて)    Keeping that in mind, I'll adjust the schedule.
+  - `with this understanding`       ([Formal] この理解のもとで)     We agreed with this understanding.
+  - `on that note`                  ([Neutral] その点について)      On that note, let's discuss the budget.
 > `provided that`                   ([Formal] ～という条件で)       You can go provided that you finish your work.
   - `on condition that`             ([Formal] ～という条件で)       You may leave on condition that you return by 5.
 > `if it works for you`             ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.

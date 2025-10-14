@@ -21,6 +21,7 @@ O が C
   - `have O Ved`                    ([間接/依頼] OをVしてもらう)    I had my car repaired yesterday.
   - `let O V`                       ([許可] OにVさせる)             Let me help you with that.
     - `let know` /let noʊ/          ([Neutral] 知らせる)            Let me know when you arrive.
+  - `allow O to V`                  ([許可] OがVすることを許す)     This tool allows you to edit photos.
 
 ## 思考・判断動詞（Verbs of Opinion/Judgment）
 > `consider` /kənˈsɪdər/            ([Neutral] だと思う、考慮する)  I consider him a good friend.

@@ -1997,3 +1997,13 @@
 - `second` /ˈsekənd/                ([Neutral] 秒、瞬間)            I'll be back in a second.
 - `while` /waɪl/                    ([Neutral] しばらくの間)        It took a while to finish.
 - `juncture` /ˈdʒʌŋktʃər/           ([Formal] 時点、重要な時期)     At this juncture, we need to decide.
+- `general` /ˈdʒenərəl/             ([Neutral] 一般的な)            This is a general rule.
+- `generalization` /ˌdʒenərələˈzeɪʃn/ ([Neutral] 一般化)           That's a broad generalization.
+- `usual` /ˈjuːʒuəl/                ([Neutral] いつもの、普通の)    This is my usual routine.
+- `normal` /ˈnɔːrməl/               ([Neutral] 正常な、普通の)      That's perfectly normal.
+- `typical` /ˈtɪpɪkəl/              ([Neutral] 典型的な)            This is a typical example.
+- `common` /ˈkɑːmən/                ([Neutral] 一般的な、よくある)  This is a common problem.
+- `ordinary` /ˈɔːrdəneri/           ([Neutral] 普通の、平凡な)      It's just an ordinary day.
+- `related` /rɪˈleɪtɪd/             ([Neutral] 関連する)            These are server-related issues.
+- `relation` /rɪˈleɪʃn/             ([Neutral] 関係、関連)          What's the relation between them?
+- `relationship` /rɪˈleɪʃnʃɪp/      ([Neutral] 関係性)              They have a good relationship.

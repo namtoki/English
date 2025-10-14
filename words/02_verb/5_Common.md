@@ -1239,3 +1239,9 @@
 - `dedicate` /ˈdedɪkeɪt/          ([Neutral] 捧げる、専念する)    He dedicated his life to science.
 - `devote` /dɪˈvoʊt/              ([Neutral] 捧げる、専念する)    She devotes time to volunteering.
 - `commit` /kəˈmɪt/               ([Neutral] 専念する、約束する)  They committed resources to the project.
+
+## GENERALIZE
+- `generalize` /ˈdʒenərəlaɪz/    ([Neutral] 一般化する)          Don't generalize from one example.
+
+## RELATE
+- `relate` /rɪˈleɪt/             ([Neutral] 関連する、関係づける) This issue relates to security.
