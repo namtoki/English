@@ -833,9 +833,6 @@ contagious	8	【形】接触伝染性の、感染させる
 contaminant	9	【名】汚染物質		
 contaminate	8	【動】汚染する、不純にする		
 contamination	9	【名】汚濁、汚染（物質）		
-contemplate	7	【動】熟考する、意図する		
-contemplation	10	【名】沈思黙考、意図、見込み		
-contemplative	11	【形】瞑想的な、静観的な		
 contemptuous	9	【形】軽蔑を示す、蔑んだ		
 contend	7	【動】戦う、取り組む		
 contender	10	【名】競争者		
@@ -1400,8 +1397,6 @@ egalitarian	12	【形】平等主義の 【名】平等主義者
 eggplant	6	【名】ナス		
 egocentric	10	【形】自己中心的な 【名】自分本位な人		
 elaboration	9	【名】入念に作り上げること、推敲		
-elastic	7	【形】ゴムの、しなやかな、はずむ 【名】ゴムひも		
-elasticity	9	【名】弾力性、融通性		
 elation	12	【名】上機嫌、意気揚々		
 elective	5	【形】選挙で選ばれる、任意の		
 electoral	8	【形】選挙（人）の		
@@ -1411,8 +1406,6 @@ electrician	4	【名】電気技師
 electrify	9	【動】電力を供給する、感電させる		
 electron	6	【名】電子		
 electronic	4	【形】電子の		
-electronics	5	【名】電子工学、電子技術		
-elegance	8	【名】優雅、上品、正確さ		
 elemental	9	【形】基本的な、まったく単純な、要素の		
 elementary	5	【形】初歩の、簡単な		
 elf	11	【名】いたずら者、小さな妖精		
@@ -1453,21 +1446,15 @@ endemic	11	【形】ある地方特有の、風土性の 【名】風土病
 endow	8	【動】寄付する、授ける		
 endowment	8	【名】寄付、素質、基金、基本財産		
 enforcement	7	【名】施行、実施、強制、主張		
-engage	4	【動】従事する、引く、雇う		
 engaged	4	【形】予約済みの、婚約中の		
 engaging	7	【形】魅力のある、人を引きつける		
 engender	12	【動】生じさせる、引き起こす		
 engulf	10	【動】飲み込む、巻き込む		
-enigma	11	【名】なぞ、不可解な出来事		
 enjoin	12	【動】命じる、要求する、禁じる		
 enlighten	9	【動】啓発する、教え導く、知らせる		
 enlightenment	8	【名】啓発、啓蒙、悟り		
 enlist	8	【動】入隊する、協力する、参加する		
 enmity	9	【名】憎しみ、恨み		
-enrich	7	【動】豊かにする、質的に向上させる		
-enrichment	9	【名】豊かにすること、濃縮		
-enroll	8	【動】登録する、入会させる、包む		
-enrollment	6	【名】入学、記載、登録（者数）		
 enshrine	12	【動】正式に記す、神聖なものとして祭る、安置する		
 ensue	10	【動】続いて起こる、結果として起こる		
 entail	10	【動】伴う、必要とする		
@@ -2689,7 +2676,6 @@ momentum	9	【名】はずみ、勢い、運動量
 monastic	12	【形】禁欲的な、修道院の		
 monk	7	【名】修道士、修士		
 monopolize	9	【動】独占する		
-monopoly	6	【名】独占		
 monotony	9	【名】単調さ、変化のなさ		
 monstrous	7	【形】奇怪な、恐ろしい、巨大な		
 moody	8	【形】不機嫌な、ふさぎこむ、気まぐれな		
@@ -2722,7 +2708,6 @@ muddle	10	【名】混乱状態
 muffle	12	【動】防音のために覆う、顔や首をくるむ 【名】覆い		
 mug	6	【名】マグカップ、顔 【動】襲う、大げさな表情をする		
 mule	11	【名】ラバ、頑固者		
-mull	11	【動】熟考する、台なしにする 【名】めちゃくちゃ		
 multinational	9	【形】多国籍の 【名】多国籍企業		
 multiplication	8	【名】増加、増大、増量、増殖、乗法		
 mum	8	【形】黙っている 【間】シッ 【動】パントマイムを演じる		
@@ -2730,7 +2715,6 @@ mummy	5	【名】ミイラ、ひからびたもの
 mumps	12	【名】おたふく風邪		
 munch	9	【動】むしゃむしゃ食べる 【名】スナック菓子		
 mundane	10	【形】現世の、平凡な		
-municipal	7	【形】地方自治体の、市政の		
 municipality	12	【名】地方自治体		
 mural	11	【名】壁画 【形】壁面の		
 murky	11	【形】まっ暗な、どんよりした、あいまいな		
@@ -2740,18 +2724,15 @@ mutation	7	【名】突然変異、変化、盛衰
 mute	7	【形】沈黙した 【動】消す、弱める		
 mutilate	12	【動】損傷により損なう、手足を切断する		
 mutter	6	【動】不明瞭な声で言う、ぼそぼそ文句を言う		
-mutually	8	【副】互いに、相互に、共通に		
 muzzle	12	【名】動物の口輪、銃口 【動】口輪をはめる		
 myriad	9	【形】無数の 【名】無数		
 mystic	10	【形】秘密の、神秘的な 【名】神秘論主義者		
 mystical	8	【形】神秘的な、神秘主義の、あいまいな、不可解な、霊感の		
 mystify	9	【動】神秘的にする、煙にまく、欺く		
-naive	9	【形】世間知らずの、単純な、無邪気な 【名】うぶな人		
 nanny	5	【名】子守、（住み込みの）ベビーシッター		
 nap	4	【名】昼寝 【動】うたた寝する、まどろむ		
 narcissus	12	【名】スイセン（複 narcissi）、（ギリシャ神話）ナルキッソス		
 narcotic	10	【名】麻薬 【形】眠くなるような		
-narrate	11	【動】順序だてて述べる、ナレーションをする		
 narrative	6	【名】物語 【形】物語から成る		
 narrowly	8	【副】かろうじて、間一髪で、偏狭に、綿密に、心狭く		
 nasal	11	【形】鼻の、鼻にかかった 【名】鼻音		
@@ -3452,7 +3433,6 @@ rehearse	9	【動】稽古する、詳しく述べる
 reign	6	【名】治世 【動】支配する		
 reimburse	8	【動】返済する、弁償する		
 reimbursement	10	【名】弁償		
-rein	7	【動】抑制する 【名】手綱、統御力		
 reindeer	9	【名】トナカイ		
 reinstate	11	【動】回復させる、元の地位に戻す		
 reiterate	12	【動】繰り返して言う、何度も行う		
@@ -3515,7 +3495,6 @@ reside	6	【動】住む、存在する、備わっている
 residual	12	【形】残りの 【名】残り、後遺症		
 residue	9	【名】残り		
 resignation	8	【名】辞職、辞任、辞表、あきらめ		
-resilient	11	【形】回復力のある、はね返る、歯ごたえのある		
 resin	10	【名】樹脂 【動】樹脂加工する		
 resonance	10	【名】反響、残響、共鳴		
 resonant	11	【形】よく響く、共鳴を起こす		
@@ -3936,7 +3915,6 @@ spurn	11	【動】はねつける、鼻であしらう 【名】にべもない�
 spurt	10	【動】噴出する、大奮闘する 【名】ほとばしり、一時的な力走		
 sputter	11	【動】パチパチ音をたてる、口からつばを飛ばす		
 squabble	11	【名】つまらないけんか 【動】言い争いをする		
-squad	9	【名】一団、特捜班		
 squadron	11	【名】戦隊、小艦隊、団体		
 squalid	12	【形】むさ苦しい、卑しい		
 squalor	12	【名】汚らしさ、むさ苦しさ、あさましさ、みすぼらしさ		

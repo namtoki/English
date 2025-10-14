@@ -240,8 +240,6 @@
   - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
   - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
 
----
-
 ## QUESTIONS (DOES THAT SOUND C? / WHAT'S YOUR TAKE ON? / WHAT ARE THE CHANCES THAT ...? / )
 > `Does that sound C?`              ([Casual] C のように聞こえる？) `Does that sound` good?
 > `What's your take on O?`          ([Casual] どう思う？)           `What's your take on` the new iPhone?

@@ -1,5 +1,13 @@
 # Common
 
+> `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
+  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
+  - `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
+  - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
+  - `promise` /ˈprɑːmɪs/            ([Neutral] 約束する、保証する)  She promised to call.
+  - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
+
+
 ## BEHAVIOR (hustle / be on call / be stack with / drag on)
 > `hustle` /ˈhʌsəl/                 ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
   - `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
@@ -140,25 +148,6 @@
   - `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
   - `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
 
-## COGNITIVE (think / keep in mind / remember / assure)
-> `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
-  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
-  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
-  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
-  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
-> `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
-  - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
-  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
-> `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
-  - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
-  - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
-> `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
-  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
-  - `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
-  - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
-  - `promise` /ˈprɑːmɪs/            ([Neutral] 約束する、保証する)  She promised to call.
-  - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
-
 ## COGNITIVE (thank / respect / praise / agree with / come around to / buy into)
 > `thank` /θæŋk/                    ([Neutral] 感謝する、礼を言う)  Thank you for your help.
   - `appreciate` /əˈpriːʃieɪt/      ([Neutral] 感謝する、評価する)  I appreciate your help with this project.
@@ -201,51 +190,6 @@
   - `extol` /ɪkˈstoʊl/              ([Writing] 賞賛する、讃える)    Critics extol the director's latest film.
   - `eulogize` /ˈjuːlədʒaɪz/        ([Writing] 賛美する、弔辞)      He eulogized his late mentor.
   - `lionize` /ˈlaɪənaɪz/           ([Writing] もてはやす 有名人扱) The media lionized the young athlete.
-> `agree with` /əˈɡriː wɪð/         ([Neutral] ～に賛成する)        I agree with the decision.
-  - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The board approved the plan.
-  - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
-  - `be for` /biː fɔːr/             ([Casual] 賛成である)           I'm for the new policy.
-  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
-  - `be in favor of`                ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
-> `come around to`                  ([Neutral] 徐々に同意する)      He came around to my way of thinking.
-  - `warm up to`                    ([Neutral] 受け入れるようなる)  She's warming up to the idea.
-  - `come round to`                 ([Neutral 英] 徐々に同意する)   He'll come round to my point of view.
-  - `be won over by`                ([Neutral] 説得されて同意する)  I was won over by his argument.
-> `buy into`                        ([Casual] 信じて支持する)       I don't buy into that theory.
-  - `back up` /bæk ʌp/              ([Casual] 支援する、裏付ける)   I'll back you up.
-  - `get behind` /ɡet bɪˈhaɪnd/     ([Casual] 支持する、応援する)   Let's get behind this initiative.
-  - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
-  - `second` /ˈsekənd/              ([Neutral] 支持する、賛同する)  I second the motion.
-  - `give support to`               ([Neutral] 支援する)            We give our support to the project.
-  - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
-  - `align with` /əˈlaɪn wɪð/       ([Formal] 同調する、一致する)   Our goals align with yours.
-  - `lend support to`               ([Formal] 支援する、支持する)   I lend my support to the cause.
-  - `get on board with`             ([Casual] 同意し参加する)       We need everyone on board with this.
-  - `embrace` /ɪmˈbreɪs/            ([Neutral] 喜んで受け入れる)    She embraced the new approach.
-> `follow` /ˈfɑːloʊ/                ([Neutral] 従う、続く)          Please follow the instructions.
-  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
-  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
-  - `keep` /kiːp/                   ([Neutral] 守る、保つ)          Keep the rules in mind.
-  - `go along with`                 ([Casual] 同調する、従う)       I'll go along with the plan.
-  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
-  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
-  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
-  - `listen to` /ˈlɪsən tuː/        ([Neutral] 聞き従う)            Listen to your parents.
-  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
-  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
-  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
-  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
-  - `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、守る)      Maintain professional standards.
-  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
-  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
-  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
-  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
-  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
-  - `accept` /əkˈsept/              ([Neutral] 受け入れる)          Accept the terms and conditions.
-  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
-  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
-  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
 > `stand` /stænd/                   ([Neutral] 耐える)              I can't stand the noise.
   - `tolerate` /ˈtɑːləreɪt/         ([Neutral] 耐える、我慢する)    I won't tolerate such behavior.
   - `bear` /ber/                    ([Neutral] 耐える)              I can't bear the pain.
@@ -742,18 +686,6 @@
   - `thrust` /θrʌst/                ([Neutral] 押し付ける、突く)    The role was thrust upon him.
 
 ## 人 + V + Noun
-> `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
-  - `think of` /θɪŋk ʌv/            ([Neutral] 思い出す、考えつく)  I can't think of his name.
-  - `think about` /θɪŋk əˈbaʊt/     ([Neutral] 考える、検討する)    Think about what I said.
-  - `imagine` /ɪˈmædʒɪn/            ([Neutral] 想像する)            Can you imagine living there?
-  - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
-  - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する 想像する) Try to visualize the solution.
-  - `envision` /ɪnˈvɪʒən/           ([Neutral] 心に描く 想像する)   I envision a better future.
-  - `conceive` /kənˈsiːv/           ([Formal] 具体的な創造)         She conceived the idea during her commute.
-  - `conceive of` /kənˈsiːv/        ([Formal] 抽象的な想像・理解)   I can't conceive of such cruelty.
-  - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
-  - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
-  - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
 > `hope for` /hoʊp fɔːr/            ([Neutral] 期待する 望む)       We hope for good weather tomorrow.
   - `wish for` /wɪʃ fɔːr/           ([Neutral] 願う 望む)           I wish for world peace.
   - `crave` /kreɪv/                 ([Neutral] 渇望する 欲する)     I crave chocolate sometimes.
@@ -1262,78 +1194,43 @@
   - `secure` /sɪˈkjʊr/              ([Neutral] 固定する、確保する)  Secure the rope to the post.
   - `attach` /əˈtætʃ/               ([Neutral] 取り付ける)          Attach the file to your email.
 
-# Conflict
-
----
-
-  - `zero in on` /ˈzɪroʊ ɪn ɑːn/    ([Neutral] 絞り込む、決める)    We need to zero in on a solution.
-  - `pin down` /pɪn daʊn/           ([Neutral] 決める、特定する)    Let's pin down the details.
-  - `settle for` /ˈsetəl fɔːr/      ([Neutral] 妥協する、選ぶ)      I'll settle for the basic model.
-  - `lean towards` /liːn təˈwɔːrdz/  ([Neutral] 傾く、選ぶ傾向)     I'm leaning towards the first option.
-  - `favor` /ˈfeɪvər/               ([Neutral] 好む、選ぶ)          I favor the conservative approach.
-  - `single out` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す)            They singled out the best candidate.
-  - `fix on` /fɪks ɑːn/             ([Neutral] 決める、固定する)    We've fixed on a date for the meeting.
-  - `land on` /lænd ɑːn/            ([Casual] 決める、選ぶ)         We landed on a great restaurant.
-  - `plump for` /plʌmp fɔːr/        ([British] 選ぶ、決める)        I'll plump for the chocolate cake.
-  - `select` /sɪˈlekt/              ([Neutral] 選ぶ、選択する)      Please select your option.
-  - `pick` /pɪk/                    ([Casual] 選ぶ、決める)         Pick a card, any card.
-  - `opt for` /ɑːpt fɔːr/           ([Neutral] 選択する)            I opted for the cheaper plan.
-  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    We settled on a compromise.
-
----
-
-> `like` /laɪk/                     ([Neutral] 好き)                I like chocolate.
-  - `love` /lʌv/                    ([Neutral] 愛する、大好き)      I love this music.
-  - `enjoy` /ɪnˈdʒɔɪ/               ([Neutral] 楽しむ、気に入る)    I enjoy reading books.
-  > `be into` /ɪnˈtuː/              ([Casual] 夢中である)           She's really into yoga.
-  - `be fond of` /fɑːnd əv/         ([Neutral] 好んでいる)          I'm fond of classical music.
-  > `be obsessed with`              ([Neutral] 夢中である)          He's obsessed with his new baby.
-  - `be crazy about`                ([Casual] 夢中である)           He's crazy about sports cars.
-  - `be passionate about`           ([Neutral] 情熱的である)        She's passionate about teaching.
-  - `adore` /əˈdɔːr/                ([Neutral] 愛する、大好き)      I adore my grandmother.
-  - `fancy` /ˈfænsi/                ([Casual] 好む、気に入る)       Do you fancy a cup of tea?
-  - `prefer` /prɪˈfɜːr/             ([Neutral] 好む、選ぶ)          I prefer coffee to tea.
-  - `favor` /ˈfeɪvər/               ([Neutral] 好む、支持する)      I favor the first option.
-  - `have a thing for`              ([Casual] 好きである)           She has a thing for vintage cars.
-  - `be keen on` /kiːn ɑːn/         ([Neutral] 熱心である)          He's keen on photography.
-> `support` /səˈpɔːrt/              ([Neutral] 支持する、支える)    I support your decision.
-  - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.
-  - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
-  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by you no matter what.
-  - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
-  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He championed the rights of workers.
-  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、擁護する)   I advocate for better education.
-  - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
-  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、裏書)       The senator endorsed the legislation.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
-  - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
-  - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
-  - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
-  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
-> `complain about`                  ([Neutral] 文句を言う)          They complained about the delay.
-  - `be upset with`                 ([Casual] 腹を立てる)           I'm upset with his decision.
-  - `be angry with`                 ([Neutral] 怒っている)          He's angry with the service.
-  - `be mad at`                     ([Casual] 怒っている)           She's mad at me for being late.
-  - `criticize`                     ([Neutral] 批判する)            The press criticized the government's decision.
-  - `take issue with`               ([Neutral] 異議を唱える)        I take issue with your assessment.
-  - `be frustrated with`            ([Neutral] イライラしている)    I'm frustrated with this computer.
-  - `object to`                     ([Neutral] 反対する)            I object to this proposal.
-  - `disapprove of`                 ([Neutral] 反対する)            My parents disapprove of my career choice.
-  - `be irritated by`               ([Neutral] イライラする)        She's irritated by the noise.
-  - `call out`                      ([Casual] 非難する)             She called him out on his behavior.
-  - `find fault with`               ([Neutral] 欠点を見つける)      She always finds fault with my work.
-  - `hold accountable`              ([Neutral] 責任を問う)          We must hold them accountable for their actions.
-  - `have a beef with`              ([Casual] 不満がある)           She has a beef with her boss about the schedule.
-  - `have words with`               ([Casual] 言い争う)             I need to have words with him about this.
-  - `pick on`                       ([Casual] いじめる、文句を言う) Don't pick on your little brother.
-  - `take to task`                  ([Formal] 叱責する)             The manager took him to task for his mistakes.
-  - `take exception to`             ([Formal] 異議を申し立てる)     I take exception to your remarks.
-  - `have a bone to pick with`      ([Casual] 文句がある)           I have a bone to pick with you about yesterday.
-  - `have an axe to grind`          ([Neutral] 私怨がある)          He has an axe to grind with the company.
-  - `air grievances`                ([Formal] 不満を表明する)       The staff met to air their grievances.
-
 - `I'm terrible with O`                 ([Casual] Oがとても苦手だ) `I'm terrible with` directions.
 - `I don't care for O`                  ([Casual] Oは好きじゃない) `I don't care for` spicy food.
 
 - `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
 - `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
+- `get in` /ɡet ɪn/                 ([Neutral] 到着する、帰宅する)  What time did you get in last night?
+- `arrive` /əˈraɪv/                ([Neutral] 到着する)            We arrived at the hotel at 6 PM.
+- `reach` /riːtʃ/                  ([Neutral] 到着する、達する)    We reached Tokyo by train.
+- `get home` /ɡet həʊm/            ([Neutral] 帰宅する)            I usually get home around 7 PM.
+- `come home` /kʌm həʊm/           ([Neutral] 帰宅する)            What time will you come home today?
+- `make it` /meɪk ɪt/              ([Casual] 間に合う、到着する)   Can you make it to the meeting by 3 PM?
+- `I'm off`                          ([Casual] 出発する、行くよ)      I'm off to work now. See you later\!
+- `I'm leaving`                      ([Neutral] 出発する、行く)       I'm leaving in five minutes.
+- `I'm heading out`                  ([Casual] 出かける)              I'm heading out for lunch.
+- `I'm taking off`                   ([Casual] 出発する)              I'm taking off now. Talk later\!
+- `I've gotta go`                    ([Casual] もう行かなきゃ)        I've gotta go. The meeting starts soon.
+- `I'm out`                          ([Casual] 出る、行く)            I'm out. Catch you later\!
+
+> `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
+  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
+  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `make preparations for`         ([Formal] 準備する)             Make preparations for the event.
+  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
+  - `gear up for` /ɡɪr ʌp/          ([Casual] 準備する)             We're gearing up for the launch.
+  - `make arrangements for`         ([Neutral] 手配する)            I'll make arrangements for the trip.
+  - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
+> `get` /ɡet/                       ([Neutral] 得る、手に入れる)    I need to get some groceries.
+  - `collect` /kəˈlekt/             ([Neutral] 集める、収集する)    She collects stamps as a hobby.
+  - `gather` /ˈɡæðər/               ([Neutral] 集める、収集する)    Please gather all the documents.
+  - `obtain` /əbˈteɪn/              ([Formal] 獲得する、入手する)   You need to obtain permission first.
+  - `acquire` /əˈkwaɪər/            ([Formal] 取得する、習得する)   She acquired new skills quickly.
+  - `accumulate` /əˈkjuːmjəleɪt/    ([Neutral] 蓄積する、積み重ねる)Dust accumulated on the shelves.
+  - `assemble` /əˈsembəl/           ([Neutral] 集める、組み立てる)  We need to assemble all the parts.
+  - `compile` /kəmˈpaɪl/            ([Neutral] 編集する、収集する)  She compiled a list of contacts.
+  - `amass` /əˈmæs/                 ([Neutral] 蓄積する、集める)    He amassed a fortune in business.
+  - `hoard` /hɔːrd/                 ([Neutral] 貯め込む、買い占める)Don't hoard toilet paper.
+  - `stockpile` /ˈstɑːkpaɪl/        ([Neutral] 備蓄する、蓄える)    They stockpiled food for winter.
+  - `garner` /ˈɡɑːrnər/             ([Formal] 獲得する、集める)     The candidate garnered significant support.
+  - `glean` /ɡliːn/                 ([Writing] 拾い集める、収集する)I gleaned information from various sources.
+  - `harvest` /ˈhɑːrvɪst/           ([Neutral] 収穫する、得る)      They harvest data from users.

@@ -1979,3 +1979,4 @@
   - `mortified` /ˈmɔrtəfaɪ/         ([Writing] 死ぬほど恥ずかし)    I was mortified by my mistake.
 - `a blur` /ə blɜːr/                ([Neutral] ぼんやりしている)    Last weekend was a blur.
 
+- `contemplation` /ˌkɒntəmˈpleɪʃn/ ([Formal] 熟考、瞑想)          She sat in quiet contemplation.
