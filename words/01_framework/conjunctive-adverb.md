@@ -310,6 +310,14 @@
   - `as far as I can tell`          ([Neutral] 分かる限りでは)      As far as I can tell, everything's fine.
   - `from my understanding`         ([Neutral] 私の理解では)        From my understanding, we start Monday.
 
+## PRE (on the flip side / on the other hand / that said / however)
+> `that said` /ðæt sed/             ([Neutral] とはいえ)            That said, I still think it's worth trying.
+  - `on the flip side`              ([Neutral] 一方で、逆に言えば)  The pay is low. On the flip side, the work is flexible.
+  - `on the other hand`             ([Neutral] 一方で、他方では)    On the other hand, it costs more.
+  - `conversely` /kənˈvɜːrsli/      ([Formal] 逆に)                 Conversely, we could wait and see.
+  - `having said that`              ([Neutral] そうは言っても)      Having said that, we need to be careful.
+  - `by contrast` /baɪ ˈkɑːntræst/  ([Formal] 対照的に)             By contrast, last year was much better.
+
 ---
 
 ## PREPOST (because / to)

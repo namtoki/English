@@ -125,7 +125,7 @@
   - `snuggle` /ˈsnʌɡl/              ([Casual] 寄り添う)             Let's snuggle on the couch.
   - `nestle` /ˈnesl/                ([Casual] 寄り添う)             The kitten nestled in my lap.
 > `show up` /ʃoʊ ʌp/                ([Neutral] 現れる、姿を見せる)  He finally showed up at noon.
-  - `come up` /kʌm ʌp/              ([Neutral] 出てくる、起こる)    Something urgent came up.
+  - `come up` /kʌm ʌp/              ([Neutral] 出てくる、起こる)    This is about the question that came up during yesterday's UX meeting.
   - `turn up` /tɜːrn ʌp/            ([Neutral] 現れる、見つかる)    My keys turned up in the car.
   - `appear` /əˈpɪr/                ([Neutral] 現れる、出現する)    She appeared at the door.
   - `pop up` /pɑːp ʌp/              ([Neutral] 現れる、出現する)    A message popped up on screen.
@@ -1234,3 +1234,8 @@
   - `garner` /ˈɡɑːrnər/             ([Formal] 獲得する、集める)     The candidate garnered significant support.
   - `glean` /ɡliːn/                 ([Writing] 拾い集める、収集する)I gleaned information from various sources.
   - `harvest` /ˈhɑːrvɪst/           ([Neutral] 収穫する、得る)      They harvest data from users.
+
+## DEDICATE
+- `dedicate` /ˈdedɪkeɪt/          ([Neutral] 捧げる、専念する)    He dedicated his life to science.
+- `devote` /dɪˈvoʊt/              ([Neutral] 捧げる、専念する)    She devotes time to volunteering.
+- `commit` /kəˈmɪt/               ([Neutral] 専念する、約束する)  They committed resources to the project.

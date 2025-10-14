@@ -617,6 +617,10 @@
 - `convey` /kənˈveɪ/                ([Formal] 伝達する)             Please convey my apologies.
 - `transmit` /trænzˈmɪt/            ([Formal] 送信する、伝える)     The data was transmitted securely.
 - `communicate` /kəˈmjuːnɪkeɪt/     ([Formal] 伝達する)             Communicate this to all staff.
+- `get across to` /ɡet əˈkrɔːs tuː/ ([Neutral] 伝わる、理解させる)  I got my point across to them.
+- `get through to` /ɡet θruː tuː/   ([Neutral] 伝わる、理解させる)  I can't get through to him.
+- `put across` /pʊt əˈkrɔːs/        ([Neutral] 伝える、わからせる)  She put her ideas across clearly.
+- `make clear to` /meɪk klɪr tuː/   ([Neutral] 明確に伝える)        Make it clear to everyone.
 > `contact` /ˈkɑːntækt/             ([Neutral] 連絡する)            I'll contact you later.
   - `get in touch` /ɡet ɪn tʌtʃ/    ([Neutral] 連絡を取る)          Let's get in touch soon.
   > `touch base` /tʌtʃ beɪs/        ([Neutral] 連絡を取る、報告)    Let's touch base next week.

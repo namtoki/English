@@ -32,10 +32,18 @@
 - `benightedness` /bɪˈnaɪtədnəs/    ([Formal] 無知蒙昧)             The benightedness of the era is evident.
 - `innumeracy` /ɪˈnuːmərəsi/        ([Technical] 数的能力不足)      Innumeracy is as problematic as illiteracy.
 
+## PURPOSE AND DESIGNATION
+- `be dedicated to` /ˈdedɪkeɪtɪd/    ([Neutral] 専用の)               This room is dedicated to storage.
+- `be devoted to` /dɪˈvoʊtɪd/        ([Neutral] 専念している)         The team is devoted to excellence.
+- `be committed to` /kəˈmɪtɪd/       ([Neutral] 専心している)         We are committed to quality.
+- `be designed for` /dɪˈzaɪnd/       ([Neutral] ～用に設計された)     This tool is designed for beginners.
+- `be reserved for` /rɪˈzɜːrvd/      ([Neutral] ～専用の)             This area is reserved for members.
+- `be intended for` /ɪnˈtendɪd/      ([Neutral] ～向けの)             This book is intended for students.
+
 ## HABITS AND SKILLS
 - `second nature` /ˈsɛkənd ˈneɪtʃər/  ([Neutral] 自然にできる習慣)     Using it becomes second nature.
 - `ingrained` /ɪnˈɡreɪnd/             ([Neutral] 深く染み付いた)       Saying thank you is an ingrained habit.
 - `instinctive` /ɪnˈstɪŋktɪv/         ([Neutral] 本能的な)             Cats have an instinctive desire to hunt.
 - `intuitive` /ɪnˈtuɪtɪv/             ([Neutral] 直感的な)             He had an intuitive sense of what to do.
-- `automatic` /ˌɔːtəˈmætɪk/           ([Neutral] 自動的な、無意識の)   My reaction was automatic.
+- `automatic` /ˌɔːtəˈmætɊk/           ([Neutral] 自動的な、無意識の)   My reaction was automatic.
 - `down pat` /daʊn pæt/               ([Casual] 完璧に習得した)        I have my speech down pat.

@@ -65,6 +65,11 @@
 - `roster` /ˈɹɑ.stɚ/              ([Neutral] 名簿、メンバー表)     Check the roster for assignments.
 - `register` /ˈɹɛd͡ʒ.ɪ.stɚ/        ([Neutral] 名簿、登録簿)         Sign the register at the desk.
 - `schedule` /ˈskɛd͡ʒʊl/            ([Neutral] 予定表、スケジュール)  Check your schedule for the meeting.
+- `possibility` /ˌpɑːsəˈbɪləti/    ([Neutral] 可能性)              There are several possibilities.
+- `option` /ˈɑːpʃən/               ([Neutral] 選択肢)              We have several options to consider.
+- `choice` /tʃɔɪs/                 ([Neutral] 選択)                You have a choice to make.
+- `alternative` /ɔːlˈtɜːrnətɪv/    ([Neutral] 代替案)              We need an alternative solution.
+- `scenario` /səˈnæri.oʊ/          ([Neutral] シナリオ、想定)       Let's consider the worst-case scenario.
 
 ## CONTAINERS
 - `pail` /peɪl/                     ([Neutral] バケツ、桶)           She carried water in a pail.
@@ -96,6 +101,7 @@
   - `backing` /ˈbækɪŋ/              ([Neutral] 支援、後援)          They need financial backing.
   - `endorsement` /ɪnˈdɔːrsmənt/    ([Neutral] 支持、承認)          The plan got his endorsement.
   - `commitment` /kəˈmɪtmənt/       ([Neutral] 献身、約束)          She made a commitment to help.
+  - `dedication` /ˌdedɪˈkeɪʃən/     ([Neutral] 献身、専念)          His dedication to work is impressive.
   - `approval` /əˈpruːvəl/          ([Neutral] 承認、同意)          We need board approval first.
 - `gambling` /ˈɡæmblɪŋ/           ([Neutral] ギャンブル、賭博)     Gambling can be addictive.
 - `betting` /ˈbetɪŋ/               ([Neutral] 賭け、賭事)          Sports betting is popular.
@@ -1980,3 +1986,10 @@
 - `a blur` /ə blɜːr/                ([Neutral] ぼんやりしている)    Last weekend was a blur.
 
 - `contemplation` /ˌkɒntəmˈpleɪʃn/ ([Formal] 熟考、瞑想)          She sat in quiet contemplation.
+
+## TIME
+- `moment` /ˈmoʊmənt/               ([Neutral] 瞬間)                Wait a moment, please.
+- `instant` /ˈɪnstənt/              ([Neutral] 瞬間)                It happened in an instant.
+- `second` /ˈsekənd/                ([Neutral] 秒、瞬間)            I'll be back in a second.
+- `while` /waɪl/                    ([Neutral] しばらくの間)        It took a while to finish.
+- `juncture` /ˈdʒʌŋktʃər/           ([Formal] 時点、重要な時期)     At this juncture, we need to decide.

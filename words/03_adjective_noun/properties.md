@@ -165,3 +165,10 @@
 - `stretchy` /ˈstretʃi/            ([Casual] 伸縮性のある)         These pants are really stretchy.
 - `resilient` /rɪˈzɪliənt/         ([Neutral] 回復力のある)        The economy is resilient and recovering quickly.
 - `springy` /ˈsprɪŋi/              ([Casual] 弾力がある、跳ねる)   The mattress feels nice and springy.
+
+## TEMPORAL DURATION
+- `momentary` /ˈmoʊmənteri/        ([Neutral] 一時的な、瞬間的な)  It was a momentary lapse in judgment.
+- `temporary` /ˈtempəreri/         ([Neutral] 一時的な)            This is only a temporary solution.
+- `brief` /briːf/                  ([Neutral] 短い、簡潔な)        A brief meeting.
+- `fleeting` /ˈfliːtɪŋ/            ([Neutral] つかの間の)          A fleeting moment.
+- `transient` /ˈtrænʃənt/          ([Formal] 一時的な、はかない)   Transient feelings.
