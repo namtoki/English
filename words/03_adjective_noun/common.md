@@ -66,6 +66,10 @@
 - `register` /ˈɹɛd͡ʒ.ɪ.stɚ/        ([Neutral] 名簿、登録簿)         Sign the register at the desk.
 - `schedule` /ˈskɛd͡ʒʊl/            ([Neutral] 予定表、スケジュール)  Check your schedule for the meeting.
 - `possibility` /ˌpɑːsəˈbɪləti/    ([Neutral] 可能性)              There are several possibilities.
+  - `possible` /ˈpɑːsəbəl/         ([Neutral] 可能な)              It's possible to finish by Friday.
+  - `feasible` /ˈfiːzəbəl/         ([Neutral] 実行可能な)          The plan is feasible with our budget.
+  - `viable` /ˈvaɪəbəl/            ([Neutral] 実行可能な)          This is a viable alternative.
+  - `doable` /ˈduːəbəl/            ([Casual] 実行可能な)           This project is totally doable.
 - `option` /ˈɑːpʃən/               ([Neutral] 選択肢)              We have several options to consider.
 - `choice` /tʃɔɪs/                 ([Neutral] 選択)                You have a choice to make.
 - `alternative` /ɔːlˈtɜːrnətɪv/    ([Neutral] 代替案)              We need an alternative solution.
