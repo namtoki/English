@@ -53,6 +53,7 @@
   - `be vulnerable to`              ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
   - `be subject to`                 ([Formal] 〜を受けやすい)       Prices are subject to change.
   - `be predisposed to`             ([Formal] 〜になりやすい)       He's predisposed to anxiety.
+> `go out of one's way to`          ([Neutral] わざわざする)        He always goes out of his way to help his colleagues.
 
 ## + V 原型 (I have no choice but to / I'm obligated to)
 > `have no choice but to`           ([Neutral] 選択肢がない)        I have no choice but to quit.
