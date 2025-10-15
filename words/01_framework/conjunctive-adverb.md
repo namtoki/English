@@ -318,7 +318,7 @@
   - `as far as I can tell`          ([Neutral] 分かる限りでは)      As far as I can tell, everything's fine.
   - `from my understanding`         ([Neutral] 私の理解では)        From my understanding, we start Monday.
 
-## PRE (on the flip side / on the other hand / that said / however)
+## PRE (that said)
 > `that said` /ðæt sed/             ([Neutral] とはいえ)            That said, I still think it's worth trying.
   - `on the flip side`              ([Neutral] 一方で、逆に言えば)  The pay is low. On the flip side, the work is flexible.
   - `on the other hand`             ([Neutral] 一方で、他方では)    On the other hand, it costs more.
@@ -451,7 +451,7 @@
   - `through V-ing` /θruː/          ([Neutral] ～を通じて)          He learned through making mistakes.
   - `via` /ˈvaɪə/                   ([Neutral] ～を経由して)        Send the document via email.
   - `somehow` /ˈsʌmhaʊ/             ([Casual] どうにかして)         I'll manage it somehow.
-  - `for whatever reason`             ([Casual] どんな理由であれ)   For whatever reason, he quit.
+  - `for whatever reason`           ([Casual] どんな理由であれ)     For whatever reason, he quit.
   - `at the expense of`             ([Neutral] 犠牲にして)          He got promoted at the expense of his colleague.
   - `by heart` /baɪ hɑːrt/          ([Neutral] 暗記で)              First of all, learn the formula by heart.
   - `in a manner that`              ([Formal] ～という方法で)       Behave in a manner that reflects well on the company.
