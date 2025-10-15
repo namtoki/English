@@ -20,6 +20,12 @@
 - `minimum` /ˈmɪnɪməm/              ([Neutral] 最小限、最低限)       Keep expenses to a minimum.
 - `weirdo` /ˈwɪrdoʊ/                ([Casual] 変人、奇人)           He's such a weirdo.
 - `weird` /wɪrd/                    ([Neutral] 変な、奇妙な)         That's weird.
+- `queer` /kwɪr/                    ([Writing] 奇妙な、変な)         That's a queer situation.
+- `strange` /streɪndʒ/              ([Neutral] 奇妙な、変な)         He has strange habits.
+- `odd` /ɑːd/                       ([Neutral] 変な、奇妙な)         That's an odd question.
+- `peculiar` /pɪˈkjuːliər/          ([Neutral] 奇妙な、特有の)       She has a peculiar accent.
+- `unusual` /ʌnˈjuːʒuəl/            ([Neutral] 珍しい、異常な)       It's unusual for him to be late.
+- `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な、異様な)       That was a bizarre experience.
 
 ## FAVORABLE / PROMISING
 - `auspicious` /ɔːˈspɪʃəs/          ([Formal] 幸先の良い、吉兆の)    It was an auspicious beginning.
@@ -82,3 +88,13 @@
   - `particular` /pərˈtɪkjələr/     ([Neutral] こだわりのある)       She's particular about cleanliness.
   - `persnickety` /pɚˈsnɪkɪti/      ([Casual] 細かいことにうるさい)  He's persnickety about his coffee.
   - `selective` /səˈlɛktɪv/         ([Neutral] 選択的な、選り好みする) She's selective about her projects.
+
+## HORRIFYING / DISTURBING
+- `gruesome` /ˈɡruːsəm/            ([Neutral] 身の毛もよだつ)       The crime scene was gruesome.
+  - `gruesomely` /ˈɡruːsəmli/      ([Neutral] 身の毛もよだつほど)   He was gruesomely murdered.
+  - `gruesomeness` /ˈɡruːsəmnəs/   ([Neutral] 身の毛もよだつこと)   The gruesomeness of the scene.
+- `grisly` /ˈɡrɪzli/               ([Neutral] 恐ろしい、ぞっとする)  A grisly discovery was made.
+- `macabre` /məˈkɑːbrə/            ([Neutral] 不気味な、陰惨な)     He has a macabre sense of humor.
+- `ghastly` /ˈɡæstli/              ([Neutral] 恐ろしい、ひどい)     The accident was ghastly.
+- `horrific` /həˈrɪfɪk/            ([Neutral] 恐ろしい、ひどい)     It was a horrific tragedy.
+- `morbid` /ˈmɔːrbɪd/              ([Neutral] 病的な、不健全な)     She has a morbid fascination with death.

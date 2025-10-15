@@ -81,6 +81,12 @@
   - `I understand, but`             ([Neutral] わかりますが)        I understand, but we need more data.
 > `(That's) True`                   ([Casual] たしかに)             That's true, we need to rethink the plan.
   - `(You're) Right`                ([Casual] その通り)             You're right, that makes sense to me.
+  - `Sounds like it`                ([Casual] そのようだね)         Is it going to rain? Sounds like it.
+  - `Seems like it`                 ([Casual] そのようだね)         Are they closing early? Seems like it.
+  - `Looks like it`                 ([Casual] そう見える)           Is he upset? Looks like it.
+  - `Appears so`                    ([Neutral] そのようです)        Is the meeting cancelled? Appears so.
+  - `I think so`                    ([Casual] そう思う)             Will she come? I think so.
+  - `I'd say so`                    ([Casual] そう言えるね)         Was it worth it? I'd say so.
   - `I know, right?`                ([Casual] だよね)               I know, right? That movie was amazing!
   - `Exactly`                       ([Casual] その通り)             Exactly, that's what I was thinking.
   - `Absolutely`                    ([Neutral] まったくその通り)    Absolutely, I couldn't agree more.

@@ -2007,3 +2007,9 @@
 - `related` /rɪˈleɪtɪd/             ([Neutral] 関連する)            These are server-related issues.
 - `relation` /rɪˈleɪʃn/             ([Neutral] 関係、関連)          What's the relation between them?
 - `relationship` /rɪˈleɪʃnʃɪp/      ([Neutral] 関係性)              They have a good relationship.
+- `ore` /ɔːr/                       ([Writing] 鉱石)                Iron ore is mined here.
+- `mineral` /ˈmɪnərəl/              ([Neutral] 鉱物)                This water is rich in minerals.
+- `metal` /ˈmetl/                   ([Neutral] 金属)                Gold is a precious metal.
+- `coal` /koʊl/                     ([Neutral] 石炭)                They burn coal for energy.
+- `deposit` /dɪˈpɑːzɪt/             ([Neutral] 鉱床、堆積物)        They found a gold deposit.
+- `mine` /maɪn/                     ([Neutral] 鉱山)                He works in a coal mine.

@@ -4,6 +4,7 @@
 > `to begin with` /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
   - `first things first`            ([Neutral] まず第一に)          First things first, let's finish the report.
   - `first of all` /fɜːrst əv ɔːl/  ([Neutral] まず第一に)          First of all, let me thank you.
+  - `for starters` /fɔːr ˈstɑːrtərz/([Casual] まず第一に)           For starters, we need more time.
   - `firstly` /ˈfɜːrstli/           ([Formal] 第一に)               Firstly, we need to review the budget.
   - `to start with`                 ([Neutral] まず初めに)          To start with, check your equipment.
   - `initially` /ɪˈnɪʃəli/          ([Neutral] 最初は、当初は)      Initially, I was skeptical.

@@ -1204,6 +1204,13 @@
 - `reach` /riːtʃ/                  ([Neutral] 到着する、達する)    We reached Tokyo by train.
 - `get home` /ɡet həʊm/            ([Neutral] 帰宅する)            I usually get home around 7 PM.
 - `come home` /kʌm həʊm/           ([Neutral] 帰宅する)            What time will you come home today?
+- `come over` /kʌm ˈoʊvər/         ([Casual] 家に来る)             Can you come over tonight?
+- `come across` /kʌm əˈkrɒs/       ([Casual] 印象を与える)         I didn't mean to come across like that.
+- `come off as` /kʌm ɔːf æz/       ([Casual] ～のように見える)     He comes off as arrogant sometimes.
+- `sound like` /saʊnd laɪk/        ([Casual] ～のように聞こえる)   You sound like you're angry.
+- `appear` /əˈpɪr/                 ([Neutral] ～のように見える)    She appears confident.
+- `seem` /siːm/                    ([Neutral] ～のようだ)          He seems tired today.
+- `give the impression` /ɡɪv ði ɪmˈpreʃən/ ([Neutral] 印象を与える) You give the impression of being busy.
 - `make it` /meɪk ɪt/              ([Casual] 間に合う、到着する)   Can you make it to the meeting by 3 PM?
 - `I'm off`                          ([Casual] 出発する、行くよ)      I'm off to work now. See you later\!
 - `I'm leaving`                      ([Neutral] 出発する、行く)       I'm leaving in five minutes.
