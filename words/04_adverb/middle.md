@@ -27,6 +27,8 @@
   - `completely` /kəmˈpliːtli/      ([Neutral] 完全に、すっかり)    The project is completely finished.
   - `thoroughly` /ˈθʌrəli/          ([Neutral] 徹底的に、完全に)    Please read it thoroughly first.
   - `incredibly` /ɪŋˈkɹɛdɪbli/      ([Neutral] 非常に、とても)      He was incredibly wealthy.
+  - `notoriously` /noʊˈtɔːriəsli/   ([Formal] 悪名高いほど)         This area is notoriously difficult.
+  - `infamously` /ˈɪnfəməsli/       ([Formal] 悪名高いことに)       He's infamously unreliable.
   - `a lot` /ə ˈlɑt/                ([Casual] とても、すごく)       Thanks a lot for listening to me.
 
 ## FREQUENCY (generally / sometimes / always)

@@ -345,6 +345,11 @@
   - `eyeball` /ˈaɪbɔːl/             ([Casual] にらみ合う)           The two teams eyeballed each other.
 > `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
   - `stop` /stɑːp/                  ([Neutral] 止める)              Stop interrupting me!
+  - `cease` /siːs/                  ([Formal] 停止する、やめる)     The fighting ceased at midnight.
+  - `halt` /hɔːlt/                  ([Formal] 停止する、中止する)   The project was halted due to funding.
+  - `discontinue` /ˌdɪskənˈtɪnjuː/  ([Formal] 中止する、廃止する)   They discontinued the product line.
+  - `terminate` /ˈtɜːrmɪneɪt/       ([Formal] 終了する、打ち切る)   The contract was terminated early.
+  - `suspend` /səˈspend/            ([Formal] 一時停止する)         Classes were suspended due to snow.
   - `prevent` /prɪˈvent/            ([Neutral] 防ぐ、妨げる)        This will prevent accidents.
   - `get in the way` /ɡet ɪn ðə weɪ/([Casual] 邪魔になる)           Don't get in the way.
   - `interfere` /ˌɪntərˈfɪr/        ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
@@ -374,6 +379,10 @@
   - `walk off with` /wɔːk ɔːf wɪð/  ([Casual] 持ち去る)             Someone walked off with my umbrella.
   - `filch` /fɪltʃ/                 ([Casual] 盗む)                 The kid filched cookies from the jar.
   - `purloin` /pərˈlɔɪn/            ([Formal] 盗用する)             He purloined the company's secrets.
+  - `embezzle` /ɪmˈbezəl/           ([Formal] 横領する)             The accountant embezzled funds from the company.
+  - `misappropriate` /ˌmɪsəˈproʊpriˌeɪt/ ([Formal] 不正流用する)    He misappropriated public money.
+  - `defraud` /dɪˈfrɔːd/            ([Formal] 詐取する)             They defrauded investors of millions.
+  - `siphon off` /ˈsaɪfən ɔːf/      ([Neutral] 不正に抜き取る)      He siphoned off company funds.
 > `blame` /bleɪm/                   ([Neutral] せいにする、責める)  Don't blame me for your mistakes.
   - `criticize` /ˈkrɪtɪsaɪz/        ([Neutral] 非難する、批判)      She criticized his poor performance.
   - `accuse` /əˈkjuːz/              ([Neutral] 非難する、告発する)  She accused him of lying.

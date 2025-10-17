@@ -1509,12 +1509,21 @@
 - `relentless` /rɪˈlentləs/         ([Writing] 容赦ない、執拗な)    The rain was relentless all day.
   - `relentlessly` /rɪˈlentləsli/   ([Writing] 容赦なく、執拗に)    He pursued his goal relentlessly.
   - `relent` /rɪˈlent/               ([Writing] 弱まる、情けをかける)    The storm finally began to relent.
+- `ceaseless` /ˈsiːsləs/            ([Formal] 絶え間ない、不断の)   The ceaseless noise kept me awake.
+  - `ceaselessly` /ˈsiːsləsli/      ([Formal] 絶え間なく)           They worked ceaselessly on the project.
 - `steadfast` /ˈstedfəst/           ([Writing] 確固とした、忠実な)  She remained steadfast in her beliefs.
   - `steadfastly` /ˈstedfəstli/     ([Writing] 確固として、忠実に)  He steadfastly refused to give up.
   - `steadfastness` /ˈstedfəstnəs/  ([Writing] 確固とした態度)      Her steadfastness was admirable.
 - `resolute` /ˈrezəluːt/            ([Formal] 断固とした、毅然とした) The leader was resolute in his decision.
   - `resolutely` /ˈrezəluːtli/      ([Formal] 断固として、毅然と)   She resolutely faced the challenge.
   - `resolution` /ˌrezəˈluːʃən/     ([Formal] 決意、解決)           His resolution never wavered.
+- `fortitude` /ˈfɔːrtɪtuːd/         ([Formal] 不屈の精神)           She showed great fortitude during her illness.
+- `courage` /ˈkɜːrɪdʒ/              ([Neutral] 勇気)                It takes courage to admit mistakes.
+- `resilience` /rɪˈzɪliəns/         ([Formal] 回復力、立ち直る力)   Her resilience helped her overcome hardship.
+  - `resilient` /rɪˈzɪliənt/        ([Formal] 回復力のある)         He's remarkably resilient.
+- `perseverance` /ˌpɜːrsəˈvɪrəns/   ([Formal] 忍耐、根気)           Success requires perseverance.
+  - `persevere` /ˌpɜːrsəˈvɪr/       ([Formal] 忍耐する、やり抜く)   We must persevere despite difficulties.
+- `grit` /ɡrɪt/                     ([Casual] 根性、気骨)           She has real grit and determination.
 - `impeccable` /ɪmˈpekəbl/          ([Formal] 非の打ち所がない)     His manners are impeccable.
 - `flawless` /ˈflɔːləs/             ([Neutral] 欠点のない、完璧な)  Her performance was flawless.
   - `flaw` /flɔː/                   ([Neutral] 欠点、欠陥)          There's a flaw in the design.
@@ -1794,6 +1803,12 @@
   - `abort` /əˈbɔːrt/               ([Formal] 中止する)             We had to abort the mission.
   - `abortion` /əˈbɔːrʃən/          ([Formal] 中絶、失敗)           The plan was an abortion.
   - `abortively` /əˈbɔːrtɪvli/      ([Formal] 失敗して)             The project ended abortively.
+- `cessation` /seˈseɪʃən/           ([Formal] 停止、中止)           The treaty brought a cessation of hostilities.
+- `termination` /ˌtɜːrmɪˈneɪʃən/    ([Formal] 終了、解雇)           The termination of the contract was unexpected.
+- `halt` /hɔːlt/                    ([Formal] 停止、中断)           The project came to a halt.
+- `suspension` /səˈspenʃən/         ([Formal] 一時停止、保留)       The suspension of classes lasted a week.
+- `discontinuation` /ˌdɪskənˌtɪnjuˈeɪʃən/ ([Formal] 中止、廃止)    The discontinuation of the service was announced.
+- `stoppage` /ˈstɑːpɪdʒ/            ([Neutral] 停止、中断)          Work stoppage affected production.
 - `futile` /ˈfjuːtaɪl/              ([Formal] 無益な、無駄な)        His efforts were futile.
 - `fruitless` /ˈfruːtləs/           ([Formal] 無益な、実らない)      The search was fruitless.
 - `ineffectual` /ˌɪnɪˈfektʃuəl/     ([Formal] 効果のない)           His protests were ineffectual.
@@ -1910,6 +1925,11 @@
 - `superstar` /ˈsuːpərstɑːr/        ([Casual] スーパースター)       He became a superstar overnight.
 - `public figure` /ˈpʌblɪk ˈfɪɡjər/ ([Neutral] 著名人、公人)        As a public figure, she's careful with her words.
 - `icon` /ˈaɪkɒn/                   ([Neutral] アイコン、偶像)       She's an icon in the fashion world.
+- `notoriety` /ˌnoʊtəˈraɪəti/       ([Formal] 悪名、悪評)           The scandal brought him notoriety.
+- `infamy` /ˈɪnfəmi/                ([Formal] 悪名、汚名)           He gained infamy for his crimes.
+- `disrepute` /ˌdɪsrɪˈpjuːt/        ([Formal] 悪評、不評)           The company fell into disrepute.
+- `ill repute` /ɪl rɪˈpjuːt/        ([Formal] 悪評)                 The hotel has an ill repute.
+- `disgrace` /dɪsˈɡreɪs/            ([Formal] 不名誉、恥)           He resigned in disgrace.
 
 > `tons of`                         ([Casual] たくさんの)           I have tons of homework.
   - `loads of`                      ([Casual] たくさんの)           We have loads of time.

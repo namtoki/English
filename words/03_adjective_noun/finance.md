@@ -66,3 +66,10 @@
 - `freelance` /ˈfriːlæns/           ([Neutral] フリーランスの)      He works as a freelance writer.
 - `vacant` /ˈveɪkənt/               ([Neutral] 空いている)          The position is vacant.
 - `unoccupied` /ʌnˈɑːkjupaɪd/       ([Neutral] 使用されていない)    The seat is unoccupied.
+
+## FINANCIAL CRIMES
+- `embezzlement` /ɪmˈbezəlmənt/     ([Formal] 横領)                 He was convicted of embezzlement.
+- `embezzler` /ɪmˈbezələr/          ([Formal] 横領者)               The embezzler was sentenced to prison.
+- `fraud` /frɔːd/                   ([Formal] 詐欺)                 The company was accused of fraud.
+- `misappropriation` /ˌmɪsəˌproʊpriˈeɪʃən/ ([Formal] 不正流用)     Misappropriation of funds is illegal.
+- `theft` /θeft/                    ([Neutral] 窃盗)                He was arrested for theft.

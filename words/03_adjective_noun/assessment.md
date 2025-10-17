@@ -98,3 +98,7 @@
 - `ghastly` /ˈɡæstli/              ([Neutral] 恐ろしい、ひどい)     The accident was ghastly.
 - `horrific` /həˈrɪfɪk/            ([Neutral] 恐ろしい、ひどい)     It was a horrific tragedy.
 - `morbid` /ˈmɔːrbɪd/              ([Neutral] 病的な、不健全な)     She has a morbid fascination with death.
+
+## NOTORIOUS / INFAMOUS
+- `notorious` /noʊˈtɔːriəs/        ([Formal] 悪名高い)             He's a notorious criminal.
+- `infamous` /ˈɪnfəməs/            ([Formal] 悪名高い)             The city's most infamous gangster.
