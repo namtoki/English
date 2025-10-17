@@ -233,7 +233,7 @@
   - `much to the surprise of O`     ([Neutral] Oが驚いたことには)   Much to the surprise of everyone, she quit.
   - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
 
-## CONDITION (if / assuming that / given that / provided that / if it works for you / depending on how you look at it / if anything / on a scale of 1 to 10)
+## CONDITION (if / assuming that / given that / provided that / depending on how you look at it / if anything)
 > `if` /ɪf/                         ([Neutral] もし～なら)          If it rains, we'll move inside.
   - `in case` /ɪn keɪs/             ([Neutral] ～に備えて)          In case it rains, bring an umbrella.
   - `in the event of`               ([Formal] ～の場合には)         In the event of rain, we'll move inside.
@@ -260,18 +260,6 @@
   - `on that note`                  ([Neutral] その点について)      On that note, let's discuss the budget.
 > `provided that`                   ([Formal] ～という条件で)       You can go provided that you finish your work.
   - `on condition that`             ([Formal] ～という条件で)       You may leave on condition that you return by 5.
-> `if it works for you`             ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
-  - `if you don't mind`             ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
-  - `if that's ok (with you)`       ([Casual] それでよければ)       I'll call you tomorrow if that's ok with you.
-  - `if that's alright`             ([Neutral] それで大丈夫なら)    I'll arrive at 10, if that's alright.
-  - `if you're ok with that`        ([Casual] それでよければ)       We'll split the bill, if you're ok with that.
-  - `if that's fine (with you)`     ([Neutral] それでいいなら)      Let's meet at noon if that's fine with you.
-  - `unless you mind`               ([Neutral] 構わなければ)        I'll join you, unless you mind.
-  - `if you wouldn't mind`          ([Polite] よろしければ)         If you wouldn't mind, I'd like to review this.
-  - `if it's not too much trouble`  ([Polite] ご迷惑でなければ)     If it's not too much trouble, could you help me?
-  - `if you're comfortable with that` ([Polite] それで問題なければ) I'll handle this part, if you're comfortable with that.
-  - `if you have no objection`      ([Formal] ご異議なければ)       If you have no objection, we'll proceed.
-  - `if it suits you`               ([Formal] ご都合がよければ)     We can reschedule if it suits you better.
 > `depending on how you look at it` ([Neutral] 考え方によっては)    Depending on how you look at it, this law is ...
   - `from a certain perspective`    ([Formal] ある観点から見ると)   From a certain perspective, he's right.
   - `from one angle`                ([Neutral] ある角度から見ると)  From one angle, it seems unfair.
@@ -284,6 +272,24 @@
   - `if I had to choose`            ([Neutral] 選ぶなら)            If I had to choose, I'd pick the blue one.
   - `if I had to guess`             ([Casual] 推測するなら)         If I had to guess, they'll arrive late.
   - `if I were to guess`            ([Formal] 推測するとすれば)     If I were to guess, I'd say it's broken.
+
+## CONDITION (if it works for you / as of / on a scale of 1 to 10)
+> `if it works for you`             ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
+  - `if you don't mind`             ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
+  - `if that's ok (with you)`       ([Casual] それでよければ)       I'll call you tomorrow if that's ok with you.
+  - `if that's alright`             ([Neutral] それで大丈夫なら)    I'll arrive at 10, if that's alright.
+  - `if you're ok with that`        ([Casual] それでよければ)       We'll split the bill, if you're ok with that.
+  - `if that's fine (with you)`     ([Neutral] それでいいなら)      Let's meet at noon if that's fine with you.
+  - `unless you mind`               ([Neutral] 構わなければ)        I'll join you, unless you mind.
+  - `if you wouldn't mind`          ([Polite] よろしければ)         If you wouldn't mind, I'd like to review this.
+  - `if it's not too much trouble`  ([Polite] ご迷惑でなければ)     If it's not too much trouble, could you help me?
+  - `if you're comfortable with that` ([Polite] それで問題なければ) I'll handle this part, if you're comfortable with that.
+  - `if you have no objection`      ([Formal] ご異議なければ)       If you have no objection, we'll proceed.
+  - `if it suits you`               ([Formal] ご都合がよければ)     We can reschedule if it suits you better.
+> `as of` /æz ʌv/                   ([Neutral] 〜時点で)            As of January 2014, the population was 50,000.
+  - `as of now`                     ([Neutral] 現時点で)            As of now, we have 100 members.
+  - `as of today`                   ([Neutral] 今日時点で)          As of today, the deal is still pending.
+  - `as of this morning`            ([Neutral] 今朝時点で)          As of this morning, no decision has been made.
 > `on a scale of 1 to 10`           ([Neutral] 1から10で評価すると) On a scale of 1 to 10, how was your day?
   - `on a scale of 1 to 5`          ([Neutral] 1から5で評価すると)  On a scale of 1 to 5, rate the service.
   - `from 1 to 10`                  ([Casual] 1から10で)            From 1 to 10, how likely are you to recommend us?

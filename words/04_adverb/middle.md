@@ -1,6 +1,6 @@
 # Middle
 
-## DEGREE (kind of / a little bit / pretty / absolutely)
+## DEGREE (kind of / a little bit / more or less / pretty / absolutely)
 > `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
   - `sort of` /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
 > `a little bit` /ə ˈlɪtəl bɪt/     ([Casual] 少し、ちょっと)       I'm a little bit tired today.
@@ -13,14 +13,14 @@
   - `slightly` /ˈslaɪtli/           ([Neutral] わずかに、少し)      I'm slightly concerned about this.
   - `barely` /ˈberli/               ([Neutral] かろうじて)          He could barely hear the whisper.
   - `faintly` /ˈfeɪntli/            ([Neutral] かすかに)            She smiled faintly at the joke.
+> `more or less` /mɔːr ɔːr les/     ([Neutral] だいたい、多少)      The work is more or less done.
+  - `moderately` /ˈmɑːdərətli/      ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
 > `pretty` /ˈprɪti/                 ([Casual] かなり、相当)         She's pretty smart.
   - `rather` /ˈræðər/               ([Neutral] かなり、やや)        The movie was rather disappointing.
   - `pretty much` /ˈprɪti mʌtʃ/     ([Casual] ほとんど、だいたい)   I pretty much finished the report.
   - `fairly` /ˈferli/               ([Neutral] かなり、まあまあ)    He speaks English fairly well.
   - `quite` /kwaɪt/                 ([Neutral] かなり、相当)        That's quite interesting.
   - `high-key` /ˌhaɪˈkiː/           ([Casual] 完全に、明らかに)     I'm high-key stressed about the exam.
-  - `moderately` /ˈmɑːdərətli/      ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
-  - `more or less` /mɔːr ɔːr les/   ([Neutral] だいたい、多少)      The work is more or less done.
 > `absolutely` /ˈæbsəluːtli/        ([Neutral] 絶対に、完全に)      You're absolutely right about that.
   - `downright` /ˈdaʊnraɪt/         ([Casual] まったく、完全に)     That's downright ridiculous!
   - `utterly` /ˈʌtərli/             ([Neutral] まったく、完全に)    I'm utterly exhausted from work.
