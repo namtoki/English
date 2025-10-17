@@ -49,6 +49,13 @@
   - `resentful` /rɪˈzentfl/         ([Neutral] 憤慨した)            He felt resentful about the decision.
 
 ## EXCITED / THRILLED
+> `exuberant` /ɪɡˈzuːbərənt/        ([Neutral] 熱狂的な、元気いっぱい) She gave an exuberant performance.
+  - `exuberance` /ɪɡˈzuːbərəns/     ([Neutral] 熱狂、元気の良さ)     His exuberance was contagious.
+  - `vivacious` /vɪˈveɪʃəs/         ([Neutral] 活発な、快活な)      She has a vivacious personality.
+  - `ebullient` /ɪˈbʌliənt/         ([Formal] 熱狂的な、元気いっぱい) He was in an ebullient mood.
+  - `effervescent` /ˌefərˈvesənt/   ([Formal] 活発な、元気な)        Her effervescent spirit lifted everyone.
+  - `buoyant` /ˈbɔɪənt/             ([Neutral] 元気な、快活な)       He was in a buoyant mood today.
+  - `spirited` /ˈspɪrɪtɪd/          ([Neutral] 元気な、活発な)       The team gave a spirited performance.
 > `heady` /ˈhɛdi/                   ([Formal] 高揚させる、酔わせる)  The concert was a heady experience.
   - `headiness` /ˈhɛdinəs/          ([Formal] 高揚感、陶酔)         The headiness of success was overwhelming.
   - `intoxicating` /ɪnˈtɑksɪkeɪtɪŋ/ ([Neutral] 陶酔させる)          The perfume was intoxicating.

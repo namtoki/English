@@ -172,3 +172,10 @@
 - `brief` /briːf/                  ([Neutral] 短い、簡潔な)        A brief meeting.
 - `fleeting` /ˈfliːtɪŋ/            ([Neutral] つかの間の)          A fleeting moment.
 - `transient` /ˈtrænʃənt/          ([Formal] 一時的な、はかない)   Transient feelings.
+
+## PHYSICAL SENSATIONS
+> `tickle` /ˈtɪkəl/                 ([Neutral] くすぐったい感じ)    I have a tickle in my throat.
+  - `itch` /ɪtʃ/                    ([Neutral] かゆみ)              The mosquito bite caused an itch.
+  - `tingle` /ˈtɪŋɡəl/              ([Neutral] ピリピリする感じ)    A tingle ran down my spine.
+  - `prickle` /ˈprɪkəl/             ([Neutral] チクチクする感じ)    I felt a prickle on my skin.
+  - `sting` /stɪŋ/                  ([Neutral] 刺すような痛み)      The bee sting was painful.

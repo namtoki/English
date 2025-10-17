@@ -47,3 +47,19 @@
 - `intuitive` /ɪnˈtuɪtɪv/             ([Neutral] 直感的な)             He had an intuitive sense of what to do.
 - `automatic` /ˌɔːtəˈmætɊk/           ([Neutral] 自動的な、無意識の)   My reaction was automatic.
 - `down pat` /daʊn pæt/               ([Casual] 完璧に習得した)        I have my speech down pat.
+
+## IMMINENT / APPROACHING
+> `just around the corner`          ([Casual] 間近に迫った)         Summer is just around the corner.
+  - `around the corner`             ([Casual] 間近に迫った)         The holidays are around the corner.
+  - `on the horizon`                ([Neutral] 間近に迫った)        Big changes are on the horizon.
+  - `close at hand`                 ([Neutral] 間近に迫った)        The exam is close at hand.
+  - `upon us`                       ([Neutral] 間近に迫った)        Winter is upon us already.
+  - `imminent` /ˈɪmɪnənt/           ([Formal] 差し迫った)           An announcement is imminent.
+
+## LIFE STAGES
+> `puberty` /ˈpjuːbərti/            ([Neutral] 思春期)              She reached puberty at age 12.
+  - `infancy` /ˈɪnfənsi/            ([Neutral] 幼児期、乳児期)      During infancy, babies grow rapidly.
+  - `childhood` /ˈtʃaɪldhʊd/        ([Neutral] 幼少期、子供時代)    I have fond memories of my childhood.
+  - `adolescence` /ˌædəˈlesəns/     ([Neutral] 青年期、思春期)      Adolescence is a challenging time.
+  - `adulthood` /ˈædʌlthʊd/         ([Neutral] 成人期)              He entered adulthood at 18.
+  - `old age` /oʊld eɪdʒ/           ([Neutral] 老年期)              Many people travel in old age.

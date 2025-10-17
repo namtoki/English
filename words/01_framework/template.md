@@ -368,6 +368,21 @@
   - `Just like before`              ([Neutral] 以前と同じ)          It's happening just like before.
   - `Déjà vu`                       ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.
 
+## EFFORT / TRY HARD (give it one's best shot / go all out / give one's all)
+> `give it one's best shot`         ([Casual] 全力を尽くす)         I'll give it my best shot and see what happens.
+  - `go all out`                    ([Casual] 全力を尽くす)         Let's go all out and win this game!
+  - `give one's all`                ([Neutral] 全力を尽くす)        She gave her all in the competition.
+  - `do one's utmost`               ([Formal] 最善を尽くす)         We will do our utmost to meet the deadline.
+  - `take a crack at O`             ([Casual] 試してみる)           I'll take a crack at fixing the computer.
+  - `take a stab at O`              ([Casual] 試してみる)           Let me take a stab at solving this puzzle.
+
+## OPPOSITE / REVERSE (the other way around / vice versa)
+> `the other way around`            ([Casual] 逆)                   I thought you called me, not the other way around.
+  - `the other way round`           ([Casual] 逆)                   Put the fork on the left, not the other way round.
+  - `vice versa` /ˌvaɪsi ˈvɜːrsə/   ([Neutral] 逆もまた同様)        I help you and vice versa.
+  - `inversely` /ɪnˈvɜːrsli/        ([Formal] 逆に)                 Price increases inversely with demand.
+  - `contrarily` /ˈkɑːntrərəli/     ([Formal] 反対に)               Contrarily, evidence shows otherwise.
+
 ## CLICHE
 - `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, I was on mute and didn’t hear you.

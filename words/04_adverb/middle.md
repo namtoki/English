@@ -36,6 +36,15 @@
   - `typically` /ˈtɪpɪkli/          ([Neutral] 典型的には)          She typically works from home.
   - `commonly` /ˈkɑːmənli/          ([Neutral] 一般的に)            This is commonly used in business.
   - `ordinarily` /ˌɔːrdəˈnerəli/    ([Neutral] 通常は)              Ordinarily, I don't eat spicy food.
+> `sometimes` /ˈsʌmtaɪmz/           ([Neutral] 時々)                Sometimes I walk to work.
+  - `occasionally` /əˈkeɪʒənəli/    ([Neutral] たまに、時々)        I occasionally visit my parents.
+  - `sporadically` /spəˈrædɪkli/    ([Formal] 散発的に)             He works sporadically from home.
+  - `intermittently`                ([Formal] 断続的に)             The rain fell intermittently all day.
+> `always` /ˈɔːlweɪz/               ([Neutral] いつも、常に)        I always drink coffee in the morning.
+  - `constantly` /ˈkɑːnstəntli/     ([Neutral] 絶えず、常に)        She's constantly worried about her children.
+  - `regularly` /ˈreɡjələrli/       ([Neutral] 定期的に)            I exercise regularly.
+  - `routinely` /ruːˈtiːnli/        ([Neutral] 習慣的に、定期的に)  The equipment is routinely inspected.
+  - `habitually` /həˈbɪtʃuəli/      ([Formal] 習慣的に)             He habitually arrives late.
 
 ## HOW (back and forth / on and off / purposely)
 > `back and forth`                  ([Neutral] 行ったり来たり)      Bob was pacing back and forth along the sidewalk.

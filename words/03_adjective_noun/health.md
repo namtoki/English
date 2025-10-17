@@ -115,3 +115,11 @@
     - `paralyze` /ˈpærəlaɪz/        ([Medical] 麻痺させる)          The injury paralyzed his leg.
   - `relapse` /rɪˈlæps/             ([Medical] 再発、逆戻り)        The patient had a relapse.
   - `prognosis` /prɒɡˈnəʊsɪs/       ([Medical] 予後、見通し)        The patient's prognosis is good.
+
+## MENTAL HEALTH
+> `sanity` /ˈsænəti/                ([Neutral] 正気、健全な精神)    She questioned her own sanity.
+  - `sane` /seɪn/                   ([Neutral] 正気の、まともな)    He's the only sane person here.
+  - `insanity` /ɪnˈsænəti/          ([Neutral] 狂気、精神異常)      The defendant pleaded insanity.
+  - `insane` /ɪnˈseɪn/              ([Neutral] 狂気の、正気でない)  That's an insane idea.
+  - `rationality` /ˌræʃəˈnæləti/    ([Neutral] 理性、合理性)        His rationality helped solve the problem.
+  - `mental stability`              ([Neutral] 精神的安定)          Meditation improves mental stability.

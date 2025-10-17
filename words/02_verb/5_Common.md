@@ -1252,3 +1252,19 @@
 
 ## RELATE
 - `relate` /rɪˈleɪt/             ([Neutral] 関連する、関係づける) This issue relates to security.
+
+## PHYSICAL TOUCH
+> `tickle` /ˈtɪkəl/                 ([Neutral] くすぐる)            Stop tickling me!
+  - `stroke` /stroʊk/               ([Neutral] なでる、撫でる)      She stroked the cat gently.
+  - `caress` /kəˈres/               ([Neutral] 愛撫する、優しく触る) He caressed her cheek softly.
+  - `pat` /pæt/                     ([Neutral] 軽くたたく、ポンポンする) She patted him on the shoulder.
+  - `brush` /brʌʃ/                  ([Neutral] 軽く触れる、払う)    He brushed her hand with his fingers.
+  - `poke` /poʊk/                   ([Casual] 突く、つつく)         Don't poke me with your finger.
+
+## PAINFUL CONTACT
+> `sting` /stɪŋ/                    ([Neutral] 刺す、ヒリヒリする)  A bee stung me on my arm.
+  - `bite` /baɪt/                   ([Neutral] 噛む)                The dog bit the stranger.
+  - `prick` /prɪk/                  ([Neutral] チクリと刺す)        I pricked my finger on a needle.
+  - `pierce` /pɪrs/                 ([Neutral] 突き刺す、貫く)      The arrow pierced the target.
+  - `burn` /bɜːrn/                  ([Neutral] 焼く、ヒリヒリする)  My eyes burn from the smoke.
+  - `smart` /smɑːrt/                ([Writing] ヒリヒリする)        The cut smarts when water touches it.
