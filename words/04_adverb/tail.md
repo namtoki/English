@@ -1,6 +1,6 @@
 # Tail
 
-## DURATION (for / throughout / over / during / so far / from now on / on short notice)
+## DURATION (for / throughout / over / during / so far / from now on / quickly)
 > `for` /fɔːr/                      ([Neutral] 〜間)                I've been working for the company for 6 months.
   - `for hours`                     ([Neutral] 何時間も)            We waited for hours.
   - `for days`                      ([Neutral] 何日も)              It rained for days.
@@ -41,10 +41,17 @@
   - `hereupon` /ˌhɪrəˈpɑn/          ([Formal] その結果、ここに)     Hereupon, the meeting was adjourned.
   - `heretofore` /ˈhɪɹtəfɔɹ/        ([Formal] これまで、従来)       Heretofore, this was not possible.
   - `hitherto` /ˈhɪðəɹˌtu/          ([Formal] これまで、今まで)     Hitherto, we've avoided this issue.
-> `on short notice`                 ([Neutral] 急に、短期間で)      I can't make it on such short notice.
+> `quickly` /ˈkwɪkli/               ([Neutral] 速く)                He quickly finished his work.
+  - `shortly` /ˈʃɔːrtli/            ([Neutral] まもなく)            The meeting will begin shortly.
+  - `in a short time`               ([Neutral] 短時間で)            She learned to cook in a short time.
+  - `on short notice`               ([Neutral] 急に、短期間で)      I can't make it on such short notice.
+  - `before long` /bɪˈfɔːr lɔːŋ/    ([Neutral] まもなく)            She'll arrive before long.
+  - `in a short period`             ([Neutral] 短期間で)            We achieved great results in a short period.
+  - `in short order`                ([Neutral] すぐに)              They fixed the problem in short order.
+  - `within a short period`         ([Formal] 短期間以内に)         We must respond within a short period.
   - `at short notice`               ([British] 急に、短期間で)      We had to leave at short notice.
 
-## WHEN (at that time / when I was N / ahead of time / every / as soon as / after / before / a moment ago)
+## WHEN (at that time / when I was N / ahead of time / every / by that time / as soon as / after / before / the other day / a moment ago)
 > `at that time`                    ([Neutral] その時は)            At that time, I was living in Paris.
   - `in those days`                 ([Neutral] あの頃は)            In those days, we had no internet.
 > `when I was N`                    ([Neutral] 私がN歳の時)         When I was 10, we moved to Tokyo.
@@ -60,6 +67,9 @@
 > `every (period)` /ˈevri/          ([Neutral] ~~毎に)              The vehicles are inspected every three months.
   - `every other (period)`          ([Neutral] 隔~~毎に)            I work out every other day.
   - `every time S V` /ˈevri taɪm/   ([Neutral] するときはいつも)    Every time you make them, they are perfect.
+> `by that time`                    ([Neutral] その時までに)        By that time, he had already left.
+  - `by then`                       ([Neutral] その頃までに)        By then, it was too late.
+  - `up to that point`              ([Neutral] その時点まで)        Up to that point, everything was fine.
 > `as soon as` /æz sun æz/          ([Neutral] したらすぐに)        As soon as I get home, I'll call you.
   - `once` /wʌns/                   ([Neutral] したらすぐに)        Call me once you get home.
   - `upon X/doing` /əˈpɑːn/         ([Formal] Xしてすぐ)            Upon arrival at headquarters, report to security.
@@ -70,12 +80,13 @@
 > `before` /bɪˈfɔːr/                ([Neutral] の前に)              Call me before the meeting.
   - `期間 before`                   ([Neutral] 〜前に)              A week before that, I saw him.
   - `just before`                   ([Neutral] のちょうど前に)      I'll get home just before 9pm.
+> `(just) the other day`            ([Casual] つい先日)             I went there just the other day!
+  - `lately` /ˈleɪtli/              ([Casual] 最近)                 I haven't seen him lately.
 > `a moment ago` /ə ˈmoʊmənt əˈgoʊ/ ([Neutral] 少し前に)            She called a moment ago from a taxi.
 
-## WHEN ()
+## WHEN (at this point / at some point / before long / by the time S V)
 > `at this point` /æt ðɪs pɔɪnt/    ([Neutral] ここまできたら)      I'm ready to quit at this point.
-- `by now` /baɪ naʊ/                ([Neutral] 今頃は)              You must be hungry by now.
-
+  - `by now` /baɪ naʊ/              ([Neutral] 今頃は)              You must be hungry by now.
 > `at some point`                   ([Neutral] いつか)              We should really clean the fridge at some point.
   - `someday` /ˈsʌmdeɪ/             ([Neutral] いつか)              Someday, I'll visit Japan.
   - `one day`                       ([Neutral] いつか)              One day, you'll understand.
@@ -89,20 +100,74 @@
   - `in time`                       ([Neutral] やがて、時が経てば)  In time, the pain will fade.
   - `in due time`                   ([Formal] 適切な時に)           All will be revealed in due time.
 > `before long`                     ([Neutral] もうすぐ)            Before long, they will enter a crucial phase.
-  > `in a little bit`               ([Casual] ちょっとしたら)       The ambulance will get here in a little bit.
-  - `in just a little bit`          ([Casual] ちょっとしたら)       I'll be there in just a little bit.
-  - `shortly`                       ([Neutral] まもなく)            He'll be arriving shortly.
   - `soon`                          ([Neutral] すぐに)              We'll know the results soon.
+  - `shortly`                       ([Neutral] まもなく)            He'll be arriving shortly.
+  - `in a little bit`               ([Casual] ちょっとしたら)       The ambulance will get here in a little bit.
+  - `in just a little bit`          ([Casual] ちょっとしたら)       I'll be there in just a little bit.
   - `any minute now`                ([Casual] いつでも、すぐにでも) The bus should arrive any minute now.
-  - `any day now`                   ([Casual] 今すぐにでも)         The baby is due any day now.
   - `any time now`                  ([Casual] いつでも)             She could call any time now.
-> `by then`                         ([Neutral] その頃までに)        By then, it was too late.
-  - `by that time`                  ([Neutral] その時までに)        By that time, he had already left.
-  - `up to that point`              ([Neutral] その時点まで)        Up to that point, everything was fine.
-- `by the time S V` /baɪ ðə taɪm/   ([Neutral] するときまでに)     By the time I woke up, the snow had stopped.
-- `no later than N`                 ([Formal] までには)            Submit your assignment no later than 5 PM on June 10.
-- `by N at the latest`              ([Formal] 遅くとも)            Estimate the losses by Friday at the latest.
-- `until such time as S V`          ([Formal] までの間は)          We cannot review it until such time as we receive that.
+  - `any day now`                   ([Casual] 今すぐにでも)         The baby is due any day now.
+> `by the time S V` /baɪ ðə taɪm/   ([Neutral] するときまでに)      By the time I woke up, the snow had stopped.
+  - `by N at the latest`            ([Formal] 遅くとも)             Estimate the losses by Friday at the latest.
+  - `no later than N`               ([Formal] までには)             Submit your assignment no later than 5 PM on June 10.
+  - `until such time as S V`        ([Formal] までの間は)           We cannot review it until such time as we receive that.
+
+## WHEN (at / in / on)
+> `at` /æt/                         ([Neutral] 〜に)                I'll see you at 9:00 AM.
+  - `at 9:00 AM`                    ([Neutral] 午前9時に)           The meeting starts at 9:00 AM.
+  - `at 6:00 PM`                    ([Neutral] 午後6時に)           Dinner is served at 6:00 PM.
+  - `at midnight`                   ([Neutral] 深夜に)              The party ends at midnight.
+  - `at noon`                       ([Neutral] 正午に)              I'll be back on Monday at noon.
+  - `at dawn`                       ([Neutral] 夜明けに)            We left at dawn.
+  - `at daybreak`                   ([Neutral] 夜明けに)            The birds sing at daybreak.
+  - `at dusk`                       ([Neutral] 夕暮れに)            The lights come on at dusk.
+  - `at sunset`                     ([Neutral] 日没時に)            We watched the sky at sunset.
+  - `at sunrise`                    ([Neutral] 日の出時に)          At sunrise, the mountains look beautiful.
+  - `at night`                      ([Neutral] 夜に)                It's dangerous to walk alone at night.
+  - `at nighttime`                  ([Neutral] 夜間に)              At nighttime, the city is quieter.
+> `in` /ɪn/                         ([Neutral] 〜に)                I exercise in the morning.
+  - `in the morning`                ([Neutral] 午前中に)            I drink coffee in the morning.
+  - `in the early morning`          ([Neutral] 早朝に)              I go jogging in the early morning.
+  - `in the afternoon`              ([Neutral] 午後に)              We have tea in the afternoon.
+  - `in the evening`                ([Neutral] 夕方から夜に)        In the evening, we watch TV.
+  - `in the early evening`          ([Neutral] 夕方に)              We eat dinner in the early evening.
+  - `in the late evening`           ([Neutral] 夜遅くに)            He comes home in the late evening.
+> `first thing`                     ([Casual] 一番に、真っ先に)     I'll see you first thing in the morning.
+> `first thing in the morning`      ([Casual] 朝一番に)             Call me first thing in the morning.
+> `last thing at night`             ([Casual] 夜寝る前に)           I check my emails last thing at night.
+> `bright and early`                ([Casual] 朝早くに)             You can get the product bright and early.
+> `early in the morning`            ([Neutral] 朝早くに)            Early in the morning, the air is fresh.
+> `late at night`                   ([Neutral] 夜遅くに)            He studies late at night.
+> `in the dead of night`            ([Writing] 真夜中に)            Strange sounds in the dead of night.
+> `on` /ɑːn/                        ([Neutral] 〜に)                I play tennis on Sundays.
+  - `on weekdays`                   ([Neutral] 平日に)              I work on weekdays.
+  - `on weekends`                   ([Neutral] 週末に)              I often go to the beach on weekends.
+  - `on Sundays`                    ([Neutral] 日曜日に)            On Sundays, we visit my parents.
+  - `on Sunday morning`             ([Neutral] 日曜日の朝に)        On Sunday morning, I go for a run.
+  - `on Sunday afternoon`           ([Neutral] 日曜日の午後に)      We have lunch on Sunday afternoon.
+  - `on Sunday evening`             ([Neutral] 日曜日の夜に)        On Sunday evening, we watch movies.
+  - `on hot days`                   ([Neutral] 暑い日に)            I don't close this door on hot days.
+  - `on cold days`                  ([Neutral] 寒い日に)            On cold days, I prefer staying inside.
+  - `on rainy days`                 ([Neutral] 雨の日に)            On rainy days, we stay indoors.
+  - `on special occasions`          ([Neutral] 特別な機会に)        We dress up on special occasions.
+  - `on holidays`                   ([Neutral] 休日に)              On holidays, the store is closed.
+> `last Sunday`                     ([Neutral] 先週の日曜日)        Last Sunday, we went hiking.
+> `last weekend`                    ([Neutral] 先週末)              Last weekend was very relaxing.
+> `next Sunday`                     ([Neutral] 来週の日曜日)        Next Sunday, we're having a barbecue.
+> `next weekend`                    ([Neutral] 来週末)              Next weekend, I'm visiting my family.
+> `this Sunday`                     ([Neutral] 今度の日曜日)        This Sunday, let's go to the museum.
+> `this weekend`                    ([Neutral] 今度の週末)          This weekend, we're going camping.
+
+## FREQUENCY (twenty-four seven / the other day / for the first time in)
+> `24/7` /ˌtwenti fɔːr ˈsevən/      ([Casual] 24時間年中無休で)     The store is open 24/7.
+  - `all the time`                  ([Casual] いつも、ずっと)       He's on his phone all the time.
+  - `time and again`                ([Neutral] 何度も、繰り返し)    I've told you time and again.
+  - `round the clock`               ([Neutral] 24時間体制で)        The hospital operates round the clock.
+  - `around the clock`              ([Neutral] 24時間体制で)        They work around the clock.
+  - `day and night`                 ([Neutral] 昼夜を問わず)        She works day and night.
+  - `night and day`                 ([Neutral] 昼夜を問わず)        There's a night and day difference.
+> `for the first time in (N)`       ([Neutral] (N)ぶりに初めて)     I'm going to Hawaii for the first time in 1 year.
+  - `for the first time`            ([Neutral] 初めて)              Last Saturday, I came here for the first time.
 
 ## HOW (like crazy)
 > `like crazy` /laɪk ˈkɹeɪzi/       ([Casual] ものすごく、猛烈に)   She stayed late, working like crazy.
@@ -124,67 +189,6 @@
 > `in support of` /ɪn səˈpɔːrt əv/  ([Neutral] 支持して)            They organized a rally in support of the new policy.
 - `back to back` /bæk tə bæk/       ([Neutral] 連続して)            We have two meetings back to back.
 - `at the same time`                ([Neutral] 同時に)              It's hard being A and B at the same time.
-
-## FREQUENCY (twenty-four seven / the other day / for the first time in)
-> `24/7` /ˌtwenti fɔːr ˈsevən/      ([Casual] 24時間年中無休で)     The store is open 24/7.
-  - `all the time`                  ([Casual] いつも、ずっと)       He's on his phone all the time.
-  - `time and again`                ([Neutral] 何度も、繰り返し)    I've told you time and again.
-  - `round the clock`               ([Neutral] 24時間体制で)        The hospital operates round the clock.
-  - `around the clock`              ([Neutral] 24時間体制で)        They work around the clock.
-  - `day and night`                 ([Neutral] 昼夜を問わず)        She works day and night.
-  - `night and day`                 ([Neutral] 昼夜を問わず)        There's a night and day difference.
-> `(just) the other day`            ([Casual] つい先日)             I went there just the other day!
-  - `lately` /ˈleɪtli/              ([Casual] 最近)                 I haven't seen him lately.
-> `for the first time in (N)`       ([Neutral] (N)ぶりに初めて)     I'm going to Hawaii for the first time in 1 year.
-  - `for the first time`            ([Neutral] 初めて)              Last Saturday, I came here for the first time.
-
-## TIME OF DAY (AT / IN)
-> `at` /æt/                         ([Neutral] 〜に)                I'll see you at 9:00 AM.
-  - `at 9:00 AM`                    ([Neutral] 午前9時に)           The meeting starts at 9:00 AM.
-  - `at 6:00 PM`                    ([Neutral] 午後6時に)           Dinner is served at 6:00 PM.
-  - `at midnight`                   ([Neutral] 深夜に)              The party ends at midnight.
-  - `at noon`                       ([Neutral] 正午に)              I'll be back on Monday at noon.
-  - `at dawn`                       ([Neutral] 夜明けに)            We left at dawn.
-  - `at daybreak`                   ([Neutral] 夜明けに)            The birds sing at daybreak.
-  - `at dusk`                       ([Neutral] 夕暮れに)            The lights come on at dusk.
-  - `at sunset`                     ([Neutral] 日没時に)            We watched the sky at sunset.
-  - `at sunrise`                    ([Neutral] 日の出時に)          At sunrise, the mountains look beautiful.
-  - `at night`                      ([Neutral] 夜に)                It's dangerous to walk alone at night.
-  - `at nighttime`                  ([Neutral] 夜間に)              At nighttime, the city is quieter.
-> `in` /ɪn/                         ([Neutral] 〜に)                I exercise in the morning.
-  - `in the morning`                ([Neutral] 午前中に)            I drink coffee in the morning.
-  - `in the early morning`          ([Neutral] 早朝に)              I go jogging in the early morning.
-  - `in the afternoon`              ([Neutral] 午後に)              We have tea in the afternoon.
-  - `in the evening`                ([Neutral] 夕方から夜に)        In the evening, we watch TV.
-  - `in the early evening`          ([Neutral] 夕方に)              We eat dinner in the early evening.
-  - `in the late evening`           ([Neutral] 夜遅くに)            He comes home in the late evening.
-- `first thing`                     ([Casual] 一番に、真っ先に)     I'll see you first thing in the morning.
-- `first thing in the morning`      ([Casual] 朝一番に)             Call me first thing in the morning.
-- `last thing at night`             ([Casual] 夜寝る前に)           I check my emails last thing at night.
-- `bright and early`                ([Casual] 朝早くに)             You can get the product bright and early.
-- `early in the morning`            ([Neutral] 朝早くに)            Early in the morning, the air is fresh.
-- `late at night`                   ([Neutral] 夜遅くに)            He studies late at night.
-- `in the dead of night`            ([Writing] 真夜中に)            Strange sounds in the dead of night.
-
-## DAY (ON / LAST ~ / NEXT ~ / THIS ~)
-> `on` /ɑːn/                        ([Neutral] 〜に)                I play tennis on Sundays.
-  - `on weekdays`                   ([Neutral] 平日に)              I work on weekdays.
-  - `on weekends`                   ([Neutral] 週末に)              I often go to the beach on weekends.
-  - `on Sundays`                    ([Neutral] 日曜日に)            On Sundays, we visit my parents.
-  - `on Sunday morning`             ([Neutral] 日曜日の朝に)        On Sunday morning, I go for a run.
-  - `on Sunday afternoon`           ([Neutral] 日曜日の午後に)      We have lunch on Sunday afternoon.
-  - `on Sunday evening`             ([Neutral] 日曜日の夜に)        On Sunday evening, we watch movies.
-  - `on hot days`                   ([Neutral] 暑い日に)            I don't close this door on hot days.
-  - `on cold days`                  ([Neutral] 寒い日に)            On cold days, I prefer staying inside.
-  - `on rainy days`                 ([Neutral] 雨の日に)            On rainy days, we stay indoors.
-  - `on special occasions`          ([Neutral] 特別な機会に)        We dress up on special occasions.
-  - `on holidays`                   ([Neutral] 休日に)              On holidays, the store is closed.
-- `last Sunday`                     ([Neutral] 先週の日曜日)        Last Sunday, we went hiking.
-- `last weekend`                    ([Neutral] 先週末)              Last weekend was very relaxing.
-- `next Sunday`                     ([Neutral] 来週の日曜日)        Next Sunday, we're having a barbecue.
-- `next weekend`                    ([Neutral] 来週末)              Next weekend, I'm visiting my family.
-- `this Sunday`                     ([Neutral] 今度の日曜日)        This Sunday, let's go to the museum.
-- `this weekend`                    ([Neutral] 今度の週末)          This weekend, we're going camping.
 
 ## OBJECTIVE POSITION (IN FRONT OF / IN BACK OF / ABOVE / UNDER / ON THE LEFT / ON THE RIGHT / CATTY-CORNER / INSIDE / OUTSIDE / BETWEEN / AMONG)
 > `in front of`                     ([Neutral] 〜の前に)            Stand in front of the door.
