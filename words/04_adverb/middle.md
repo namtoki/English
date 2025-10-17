@@ -29,7 +29,7 @@
   - `incredibly` /ɪŋˈkɹɛdɪbli/      ([Neutral] 非常に、とても)      He was incredibly wealthy.
   - `a lot` /ə ˈlɑt/                ([Casual] とても、すごく)       Thanks a lot for listening to me.
 
-## FREQUENCY (generally)
+## FREQUENCY (generally / sometimes / always)
 > `generally` /ˈdʒenərəli/          ([Neutral] たいてい、一般的に)  I generally wake up at 7 AM.
   - `usually` /ˈjuːʒuəli/           ([Neutral] 普通は、たいてい)    I usually go to bed at 11 PM.
   - `normally` /ˈnɔːrməli/          ([Neutral] 通常は)              Normally, I take the train.
@@ -46,14 +46,7 @@
   - `routinely` /ruːˈtiːnli/        ([Neutral] 習慣的に、定期的に)  The equipment is routinely inspected.
   - `habitually` /həˈbɪtʃuəli/      ([Formal] 習慣的に)             He habitually arrives late.
 
-## HOW (back and forth / on and off / purposely)
-> `back and forth`                  ([Neutral] 行ったり来たり)      Bob was pacing back and forth along the sidewalk.
-  - `up and down`                   ([Neutral] 上下に、あちこち)    She walked up and down the hallway.
-  - `in and out`                    ([Neutral] 出たり入ったり)      People were going in and out all day.
-  - `to and fro`                    ([Neutral] 行ったり来たり)      I have been traveling to and fro between Canada and the U.K for years.
-> `on and off` /ɑːn ænd ɔːf/        ([Neutral] 断続的に)            It's been raining on and off all day today.
-  - `in a row` /ɪn ə roʊ/           ([Neutral] 連続で)              The rate has risen three quarters in a row.
-  - `with each passing day/year`    ([Neutral] 日を追うごとに)      With each passing day, her skills improved.
+## HOW (purposely)
 > `purposely` /ˈpɜːrpəsli/          ([Neutral] 故意に)              She purposely ignored the warning signs.
   - `deliberately` /dɪˈlɪbərətli/   ([Neutral] 意図的に)            He deliberately left early.
   - `intentionally` /ɪnˈtenʃənəli/  ([Neutral] 意図的に)            She intentionally missed the meeting.

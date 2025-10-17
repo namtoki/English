@@ -1,6 +1,5 @@
 
-- 01_framework/conjunctive-adverb.md - "接続副詞" と "後ろに S V が続く表現 (I think S V など)"
-- 01_framework/template.md - 定型文
+- 01_template/template.md - 定型文
 - 02_verb/0_AUX.md - 助動詞のような働きの動詞
 - 02_verb/1_SVC.md - SVC 文型の動詞
 - 02_verb/2_SVOC.md - SVOC 文型の動詞
@@ -15,7 +14,6 @@
 - 03_adjective_noun/money.md - 金銭・財政関連の名詞、形容詞
 - 03_adjective_noun/properties.md - 物理的性質に関する名詞、形容詞
 - 03_adjective_noun/common.md - その他物事の名詞、形容詞
+- 04_adverb/head.md - 文の最初に置くことが多い副詞
 - 04_adverb/middle.md - 動詞前後に置くことが多い副詞
 - 04_adverb/tail.md - 文の最後に置くことが多い副詞
-- 04_adverb/space.md - 空間・空間の状態・位置・場所に関する副詞
-- 04_adverb/time.md - 時間関連の副詞
