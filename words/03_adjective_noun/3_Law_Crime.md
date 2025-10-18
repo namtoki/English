@@ -20,3 +20,16 @@
 - `affidavit` /ˌæfɪˈdeɪvɪt/          ([Formal] 宣誓供述書)              She filed an affidavit with the court.
 - `agitation` /ˌædʒɪˈteɪʃən/        ([Neutral] 動揺、扇動)          His agitation was obvious.
 - `agitator` /ˈædʒɪteɪtər/          ([Neutral] 扇動者、攪拌器)      The agitator stirred up the crowd.
+- `ambush` /ˈæmbʊʃ/                 ([Neutral] 待ち伏せ、奇襲)      The soldiers set up an ambush.
+- `assailant` /əˈseɪlənt/         ([Neutral] 襲撃者)              The assailant fled the scene.
+- `assault` /əˈsɔːlt/               ([Formal] 襲撃、暴行)           The assault on the fortress failed.
+- `flaw` /flɔː/                   ([Neutral] 欠点、欠陥)          There's a flaw in the design.
+- `flawed` /flɔːd/                ([Neutral] 欠陥のある)          The plan was fundamentally flawed.
+- `flawless` /ˈflɔːləs/             ([Neutral] 欠点のない、完璧な)  Her performance was flawless.
+- `flawless` /ˈflɔːləs/           ([Formal] 欠点のない、完璧な)   Her technique was flawless.
+- `legality` /liˈɡæləti/            ([Formal] 合法性)              They questioned the legality of the decision.
+- `prisoner` /ˈprɪzənər/             ([Neutral] 囚人、捕虜)          The prisoner escaped last night.
+- `raid` /reɪd/                     ([Neutral] 急襲、襲撃)          The enemy launched a raid at dawn.
+- `raider` /ˈreɪdə/               ([Neutral] 襲撃者、侵略者)      The raiders attacked at night.
+- `raider` /ˈreɪdər/              ([Neutral] 襲撃者)              The raiders stole everything.
+- `trial` /ˈtraɪəl/               ([Neutral] 試験、試用)          We're starting a trial period next week.

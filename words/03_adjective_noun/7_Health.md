@@ -123,3 +123,12 @@
   - `insane` /ɪnˈseɪn/              ([Neutral] 狂気の、正気でない)  That's an insane idea.
   - `rationality` /ˌræʃəˈnæləti/    ([Neutral] 理性、合理性)        His rationality helped solve the problem.
   - `mental stability`              ([Neutral] 精神的安定)          Meditation improves mental stability.
+- `alleviate` /əˈliːvieɪt/           ([Formal] 軽減する、和らげる)        The new policy will alleviate poverty.
+- `alleviation` /əˌliːviˈeɪʃən/    ([Formal] 軽減、緩和)               The alleviation of suffering is important.
+- `ankle` /ˈæŋkəl/                   ([Neutral] 足首)                I twisted my ankle while running.
+- `anterior`                        ([Medical] 前部の)              The anterior part of the brain.
+- `patient` /ˈpeɪʃənt/              ([Neutral] 忍耐強い 落ち着いた) Be patient with children.
+- `relief` /rɪˈliːf/                 ([Neutral] 緩和、救済)               The medicine provided instant relief.
+- `relieve` /rɪˈliːv/              ([Neutral] 和らげる、軽減する)       This should relieve your headache.
+- `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
+- `treatment` /ˈtriːtmənt/          ([Medical] 治療)                The treatment was successful.

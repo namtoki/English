@@ -7,3 +7,29 @@
 - `advocate` /ˈædvəkət/           ([Neutral] 支持者、提唱者)      She's an advocate for women's rights.
 - `sovereign` /ˈsɑːvrɪn/            ([Formal] 主権を持つ、独立した) A sovereign nation has full authority.
 - `autonomous` /ɔːˈtɑːnəməs/        ([Formal] 自治的な、自律的な)  The region is autonomous.
+- `alliance` /əˈlaɪəns/           ([Neutral] 同盟、連合)          They formed a strategic alliance.
+- `allied` /ˈælaɪd/               ([Neutral] 同盟の、連合した)    The allied forces won the war.
+- `ally` /ˈælaɪ/                    ([Neutral] 同盟国、味方)        France is a close ally of the United States.
+- `amendment` /əˈmendmənt/           ([Formal] 修正案、改正)        The First Amendment protects free speech.
+- `anarchic` /əˈnɑːrkɪk/          ([Formal] 無政府主義的な)       The situation became anarchic.
+- `anarchist` /ˈænərkɪst/         ([Formal] 無政府主義者)         The anarchist was arrested.
+- `anarchy` /ˈænərki/               ([Formal] 無政府状態、無秩序)   The country descended into anarchy.
+- `apathetically` /ˌæpəˈθetɪkli/  ([Formal] 無関心に)             She responded apathetically to the news.
+- `armistice` /ˈɑːmɪstɪs/           ([Writing] 休戦協定)            The armistice ended the war.
+- `assembly` /əˈsembli/           ([Neutral] 議会、集会)          The general assembly convened.
+- `caustically` /ˈkɔːstɪkli/      ([Writing] 辛辮に)              He caustically criticized the proposal.
+- `chaotically` /keɪˈɒtɪkli/      ([Neutral] 混乱して)            People ran chaotically in all directions.
+- `confederate` /kənˈfedərət/       ([Formal] 同盟者、連合の)       The confederate states joined forces.
+- `confederation` /kənˌfedəˈreɪʃən/ ([Formal] 連合、同盟)         The confederation lasted for years.
+- `congress` /ˈkɑːŋɡrəs/          ([Neutral] 議会、国会)          Congress approved the budget.
+- `diplomatically` /ˌdɪpləˈmætɪkli/ ([Formal] 外交的に)            He diplomatically avoided the topic.
+- `legislature` /ˈledʒɪsleɪtʃər/  ([Formal] 立法府、議会)         The state legislature passed the law.
+- `liberalism` /ˈlɪbərəlɪzəm/     ([Writing] 自由主義)            Political liberalism emphasizes individual rights.
+- `liberalization` /ˌlɪbərəlaɪˈzeɪʃən/ ([Writing] 自由化)         Economic liberalization boosted growth.
+- `liberalize` /ˈlɪbərəlaɪz/      ([Writing] 自由化する)          The government liberalized trade policies.
+- `parliament` /ˈpɑːrləmənt/      ([Neutral] 議会、国会)          The parliament debated the issue.
+- `phlegmatically` /flɛɡˈmætɪkli/ ([Writing] 冷静に)              He responded phlegmatically to the crisis.
+- `statesmanship` /ˈsteɪtsmənʃɪp/   ([Formal] 政治手腕)            His statesmanship was admired.
+- `totally` /ˈtəʊtəli/            ([Casual] 完全に、全く)         I totally agree with you.
+- `truce` /truːs/                   ([Neutral] 休戦、停戦)          They called a temporary truce.
+- `typically` /ˈtɪpɪkli/          ([Neutral] 典型的に、通常)        He typically arrives late.

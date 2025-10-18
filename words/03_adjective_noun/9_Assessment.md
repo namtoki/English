@@ -425,3 +425,64 @@
 - `transient` /ˈtrænʃənt/          ([Formal] 一時的な、はかない)   Transient feelings.
 
 - `affront` /əˈfrʌnt/             ([Formal] 侮辱、怒らせる)       His comment was an affront to my dignity.
+- `admirer` /ədˈmaɪərər/            ([Neutral] 崇拝者、ファン)   She has many admirers of her work.
+- `alarm` /əˈlɑːrm/                   ([Neutral] 警戒させる、不安にさせる) The symptoms alarmed the doctor.
+- `alarmed` /əˈlɑːrmd/             ([Neutral] 心配した、警戒した)  She was alarmed by his behavior.
+- `alarming` /əˈlɑːrmɪŋ/           ([Neutral] 心配な、不安な)      The statistics are alarming.
+- `ambitious` /æmˈbɪʃəs/            ([Neutral] 野心的な、熱心な)    She has ambitious goals.
+- `amiability` /ˌeɪmiəˈbɪləti/    ([Formal] 親しみやすさ)         His amiability made him popular.
+- `amiable` /ˈeɪmiəbl/              ([Formal] 親しみやすい)         She has an amiable personality.
+- `amiably` /ˈeɪmiəbli/           ([Formal] 親しみやすく)         They chatted amiably for hours.
+- `apathetic` /ˌæpəˈθetɪk/          ([Formal] 無関心な、無感動な)   He seemed apathetic about the results.
+- `apathy` /ˈæpəθi/               ([Formal] 無関心、無感動)       Public apathy toward politics is concerning.
+- `appall` /əˈpɔːl/                  ([Formal] ぞっとさせる、愕然とさせる) The conditions appalled the inspectors.
+- `appall` /əˈpɔːl/               ([Neutral] ぞっとさせる)        His behavior appalled everyone.
+- `appalled` /əˈpɔːld/            ([Neutral] ぞっとした)          I was appalled by the news.
+- `appalled` /əˈpɔːld/            ([Neutral] 愕然とした、ぞっとした)   I was appalled by his behavior.
+- `appalling` /əˈpɔːlɪŋ/            ([Neutral] ひどい、恐ろしい)    The conditions were appalling.
+- `approachable` /əˈproʊtʃəbəl/   ([Neutral] 親しみやすい)        The manager is very approachable.
+- `ardent` /ˈɑːrdənt/               ([Formal] 熱心な、熱烈な)       She's an ardent advocate for peace.
+- `ardor` /ˈɑːrdər/               ([Formal] 熱意、情熱)           His ardor for learning impressed teachers.
+- `arduous` /ˈɑːdjuəs/              ([Writing] 骨が折れる困難)      It was an arduous journey through the mountains.
+- `arrogance` /ˈærəɡəns/            ([Neutral] 傲慢さ、思い上がり)  His arrogance is unbearable.
+- `arrogant` /ˈærəɡənt/           ([Neutral] 傲慢な、高慢な)      Don't be so arrogant.
+- `ashamed` /əˈʃeɪmd/             ([Neutral] 恥じている)          He was ashamed of his behavior.
+- `ashamed` /əˈʃeɪmd/             ([Neutral] 恥ずかしい)          He felt ashamed of his behavior.
+- `astonish` /əˈstɑːnɪʃ/              ([Neutral] 驚かせる)            The magician astonished the audience.
+- `astonished` /əˈstɑːnɪʃt/        ([Neutral] 驚いた)              We were astonished by the results.
+- `astonishing` /əˈstɑːnɪʃɪŋ/      ([Neutral] 驚くべき)            Her progress was astonishing.
+- `astonishment` /əˈstɑːnɪʃmənt/   ([Neutral] 驚き)                To our astonishment, he agreed.
+- `astound` /əˈstaʊnd/                ([Formal] 仰天させる)           Her talent astounded the judges.
+- `astounded` /əˈstaʊndɪd/         ([Formal] 仰天した)             I was astounded by the coincidence.
+- `astounding` /əˈstaʊndɪŋ/        ([Formal] 驚くべき)             The discovery was astounding.
+- `avid` /ˈævɪd/                    ([Neutral] 熱心な、貪欲な)      She's an avid reader.
+- `avid` /ˈævɪd/                    ([Writing] 熱烈な、熱心な)      He's an avid reader of mystery novels.
+- `dedicated` /ˈdedɪkeɪtɪd/         ([Neutral] 献身的な、熱心な)    She's dedicated to her work.
+- `detached` /dɪˈtætʃt/             ([Formal] 冷静な、無関心な)     He remained detached from the argument.
+- `devoted` /dɪˈvoʊtɪd/             ([Neutral] 献身的な、熱心な)    They're devoted to their children.
+- `disgrace` /dɪsˈɡreɪs/            ([Formal] 不名誉、恥)           He resigned in disgrace.
+- `disgrace` /dɪsˈɡreɪs/          ([Formal] 恥辱、不名誉)         His behavior was a disgrace to the family.
+- `eager` /ˈiːɡə/                   ([Neutral] 熱心な、意欲的な)    She's eager to start the new job.
+- `eager` /ˈiːɡər/                  ([Neutral] 熱心な、切望する)    She's eager to learn.
+- `eagerly` /ˈiːɡəli/             ([Neutral] 熱心に、熱望して)    She eagerly awaited the results.
+- `eagerness` /ˈiːɡənəs/          ([Neutral] 熱心さ)              His eagerness impressed the interviewer.
+- `eagerness` /ˈiːɡərnəs/         ([Neutral] 熱心さ、切望)        Her eagerness to help was obvious.
+- `embarrassed` /ɪmˈbærəst/         ([Neutral] 恥ずかしい)          I felt embarrassed about my pronunciation.
+- `enthusiast` /ɪnˈθuziæst/         ([Neutral] 愛好家、熱心家)      She's a jazz enthusiast.
+- `familiar` /fəˈmɪljər/          ([Neutral] 親しみやすい、馴染み) Her voice sounds familiar.
+- `fervent` /ˈfɜːrvənt/             ([Formal] 熱烈な、熱心な)       She was a fervent supporter of the cause.
+- `indifference` /ɪnˈdɪfərəns/    ([Formal] 無関心、冷淡)         His indifference hurt her feelings.
+- `indifferent` /ɪnˈdɪfərənt/       ([Formal] 無関心な、冷淡な)     She was indifferent to his pleas.
+- `indifferently` /ɪnˈdɪfərəntli/ ([Formal] 無関心に)             He shrugged indifferently.
+- `intense` /ɪnˈtens/               ([Neutral] 激しい、熱心な)      Her focus is intense.
+- `intensity` /ɪnˈtensəti/        ([Neutral] 強さ、熱心さ)        The intensity of her dedication impressed me.
+- `keen` /kiːn/                     ([Neutral] 熱心な、鋭い)        He's keen on photography.
+- `keenness` /ˈkiːnnəs/           ([Neutral] 熱心さ、鋭さ)        His keenness to succeed was evident.
+- `lively` /ˈlaɪvli/                ([Neutral] 活発な、熱心な)      The discussion was lively.
+- `mortified` /ˈmɔrtəfaɪ/         ([Writing] 死ぬほど恥ずかし)    I was mortified by my mistake.
+- `shameless` /ˈʃeɪmləs/            ([Neutral] 恥知らずな)          That's shameless behavior.
+- `startling` /ˈstɑːrtəlɪŋ/        ([Neutral] 驚くべき)            The resemblance was startling.
+- `stunning` /ˈstʌnɪŋ/             ([Neutral] 驚くべき、見事な)    She looked stunning in that dress.
+- `vibrant` /ˈvaɪbrənt/             ([Neutral] 活気のある、熱心な)  The city has a vibrant culture.
+- `vigorous` /ˈvɪɡərəs/             ([Formal] 精力的な、熱心な)     They had a vigorous debate.
+- `zealous` /ˈzeləs/                ([Formal] 熱心な、熱狂的な)     He's zealous about his work.

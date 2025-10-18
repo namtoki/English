@@ -37,3 +37,27 @@
 - `abundant` /əˈbʌndənt/             ([Neutral] 豊富な、十分な)          Food was abundant at the party.
 - `abundant` /əˈbʌndənt/          ([Neutral] 豊富な)              Food was abundant at the party.
 
+- `all kinds of things`             ([Neutral] 色々なもの)          They sell `all kinds of things`.
+- `all kinds of`                  ([Casual] あらゆる種類の)       I eat all kinds of food.
+- `all sorts of`                  ([Casual] あらゆる種類の)       She reads all sorts of books.
+- `ample`                         ([Formal] 十分な、豊富な)       There's ample space for everyone.
+- `ample` /ˈæmpəl/                   ([Neutral] 十分な、豊富な)          There's ample time to finish.
+- `an enormous amount of`         ([Neutral] 膨大な)              An enormous amount of data was collected.
+- `and all that jazz`             ([Casual] そういうもの全部)     He talks about success, money, and all that jazz.
+- `and all that` /ænd ɔːl ðæt/    ([Casual] などなど、~とか)      He likes movies, books, and all that.
+- `and so forth` /ænd soʊ fɔrθ/   ([Neutral] などなど)            First, second, third, and so forth.
+- `and so on` /ænd soʊ ɑn/        ([Neutral] というように)        One, two, three, and so on.
+- `and stuff` /ænd stʌf/            ([Casual] とかそういうの)       He likes pizza, burgers, and stuff.
+- `and such` /ænd sʌtʃ/           ([Neutral] そういったもの)      He studies math, science, and such.
+- `and the like` /ænd ðə laɪk/    ([Neutral] そういうもの)        We need books, papers, and the like.
+- `and things` /ænd θɪŋz/         ([Casual] とかいろいろ)         She bought shoes, bags, and things.
+- `and whatnot` /ænd ˈwʌtnɑt/     ([Casual] など)                 She collects stamps, coins, and whatnot.
+- `another thing`                   ([Neutral] もう一つ)            And `another thing` - don't be late.
+- `anything like that`              ([Neutral] そういうの)          I don't want `anything like that`.
+- `anything`                        ([Neutral] 何でも、何か)        Do you need `anything` from the store?
+- `as few as`                     ([Neutral] わずか)              As few as 5 people showed up.
+- `as little as`                  ([Neutral] わずか)              It costs as little as $10.
+- `as many as`                    ([Neutral] 〜も)                As many as 1000 people came.
+- `as much as`                    ([Neutral] 〜も)                It costs as much as $500.
+- `assortment` /əˈsɔːrtmənt/        ([Neutral] 取り合わせ)            There's an assortment of cookies.
+- `various kinds of`              ([Neutral] 様々な種類の)        Various kinds of flowers bloom here.

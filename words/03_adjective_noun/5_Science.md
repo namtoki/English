@@ -123,3 +123,5 @@
 - `resilient` /rɪˈzɪliənt/         ([Neutral] 回復力のある)        The economy is resilient and recovering quickly.
 - `springy` /ˈsprɪŋi/              ([Casual] 弾力がある、跳ねる)   The mattress feels nice and springy.
 
+- `anomaly` /əˈnɑməli/              ([Formal] 異常、変則)           The test results show an anomaly.
+- `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.

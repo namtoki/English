@@ -68,3 +68,12 @@
 - `freelance` /ˈfriːlæns/           ([Neutral] フリーランスの)      He works as a freelance writer.
 - `vacant` /ˈveɪkənt/               ([Neutral] 空いている)          The position is vacant.
 - `unoccupied` /ʌnˈɑːkjupaɪd/       ([Neutral] 使用されていない)    The seat is unoccupied.
+- `appraiser` /əˈpreɪzər/           ([Neutral] 不動産鑑定士)        The appraiser valued the home.
+- `property agent` /ˈprɑːpərti/     ([Neutral] 物件仲介業者)        The property agent handles rentals.
+- `property inspector` /ɪnˈspektər/ ([Neutral] 物件検査官)          The property inspector checked the foundation.
+- `property manager` /ˈmænɪdʒər/    ([Neutral] 物件管理者)          The property manager collects rent.
+- `property` /ˈprɑːpərti/           ([Formal] 性質、特性)           Water has unique chemical properties.
+- `public figure` /ˈpʌblɪk ˈfɪɡjər/ ([Neutral] 著名人、公人)        As a public figure, she's careful with her words.
+- `social welfare`              福祉
+- `social` /ˈsoʊʃəl/               ([Neutral] 社会的な)            We need better social policies.
+- `socialize` /ˈsoʊʃəlaɪz/        ([Neutral] 交際する)            I like to socialize with colleagues.
