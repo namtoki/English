@@ -355,3 +355,7 @@
 - [倒置] So+助動詞/do/be+S:                     `So` do I. / and `so` could the weary adults who had read it to her, over and over.
 - [倒置] 仮定法の条件文:                        `Had you listened to her`, you wouldn't have been in such trouble.
 - [倒置] 原級/比較級比較 as/than 以下:          Prehistoric man may well have had as much brain power as `has the man of today`.
+
+## 文法
+- `S V-ing`                         ([Casual] SがVすること)         `My dog barking like that` is a bit weird.
+

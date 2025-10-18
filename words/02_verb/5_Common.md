@@ -1277,3 +1277,16 @@
   - `pierce` /pɪrs/                 ([Neutral] 突き刺す、貫く)      The arrow pierced the target.
   - `burn` /bɜːrn/                  ([Neutral] 焼く、ヒリヒリする)  My eyes burn from the smoke.
   - `smart` /smɑːrt/                ([Writing] ヒリヒリする)        The cut smarts when water touches it.
+
+
+- `abominate` /əˈbɑːmɪneɪt/       ([Formal] 嫌悪する)             I abominate dogma.
+- `abort` /əˈbɔːrt/               ([Formal] 中止する)             We had to abort the mission.
+- `accelerate` /ækˈseləreɪt/      ([Neutral] 加速する、促進する)  The car began to accelerate.
+- `appalling` /əˈpɔːlɪŋ/          ([Neutral] ひどい、ぞっとする)       The living conditions were appalling.
+- `besiege` /bɪˈsiːdʒ/              ([Writing] 包囲する)            The castle was besieged for weeks.
+- `characterize` /ˈkærəktəraɪz/     ([Formal] 特徴づける、描写する)   Kindness characterizes her approach.
+- `coarsen` /ˈkɔːrsən/            ([Neutral] 粗野にする)          Years of hardship coarsened him.
+- `defect` /dɪˈfekt/                ([Formal] 離反する、亡命する)   The spy defected to the enemy.
+- `defend` /dɪˈfend/              ([Neutral] 守る、擁護する)      They defended their territory.
+- `derive` /dɪˈraɪv/              ([Formal] 由来する、派生する)   The word derives from Latin.
+- `abhor` /əbˈhɔːr/                 ([Writing] 忌み嫌う)            I abhor violence in any form.

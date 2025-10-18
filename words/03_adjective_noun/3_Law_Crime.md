@@ -1,0 +1,22 @@
+# Law and Crime
+
+- `abduction` /æbˈdʌkʃən/           ([Formal] 誘拐)                 The abduction shocked the community.
+- `abetment` /əˈbetmənt/            ([Writing] 教唆、幇助)          He was charged with abetment of fraud.
+- `abettor` /əˈbetər/               ([Writing] 教唆者、共犯者)      The abettor was also prosecuted.
+- `abidance` /əˈbaɪdəns/            ([Writing] 遵守、継続)          Their abidance by the law was expected.
+- `absolution` /ˌæbsəˈluːʃən/     ([Formal] 免罪)                 He sought absolution for his mistakes.
+- `accusation` /ˌækjuˈzeɪʃən/   ([Neutral] 告発、非難)          The accusation was unfounded.
+- `accusatory` /əˈkjuːzətɔːri/  ([Formal] 非難するような)       His accusatory tone upset her.
+- `accuser` /əˈkjuːzər/         ([Neutral] 告発者)              The accuser testified in court.
+- `acquiescence` /ˌækwiˈesəns/       ([Formal] 黙認、容認)            His silence implied acquiescence.
+- `acquittal` /əˈkwɪtəl/          ([Legal] 無罪判決)              The acquittal surprised everyone.
+- `adherence` /ædˈhɪrəns/       ([Formal] 遵守、忠実)           Adherence to policy is required.
+- `adherence` /ədˈhɪərəns/          ([Formal] 付着、固守)           Strict adherence to rules is required.
+- `embezzlement` /ɪmˈbezəlmənt/     ([Formal] 横領)                 He was convicted of embezzlement.
+- `embezzler` /ɪmˈbezələr/          ([Formal] 横領者)               The embezzler was sentenced to prison.
+- `fraud` /frɔːd/                   ([Formal] 詐欺)                 The company was accused of fraud.
+- `misappropriation` /ˌmɪsəˌproʊpriˈeɪʃən/ ([Formal] 不正流用)     Misappropriation of funds is illegal.
+- `theft` /θeft/                    ([Neutral] 窃盗)                He was arrested for theft.
+- `affidavit` /ˌæfɪˈdeɪvɪt/          ([Formal] 宣誓供述書)              She filed an affidavit with the court.
+- `agitation` /ˌædʒɪˈteɪʃən/        ([Neutral] 動揺、扇動)          His agitation was obvious.
+- `agitator` /ˈædʒɪteɪtər/          ([Neutral] 扇動者、攪拌器)      The agitator stirred up the crowd.

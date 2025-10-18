@@ -6,14 +6,16 @@
 - 02_verb/3_SVOO.md - SVOO 文型の動詞
 - 02_verb/4_Business.md - SV, SVO 文型の動詞の内、ビジネス英会話よりの表現
 - 02_verb/5_Common.md - SV, SVO 文型の動詞のその他の表現
-- 03_adjective_noun/appearance.md - 服装・外見に関する名詞、形容詞
-- 03_adjective_noun/status.md - 対象の状態を表す名詞、形容詞
-- 03_adjective_noun/assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞
-- 03_adjective_noun/emotion.md - 主観的な感情・気持ちを表現する名詞、形容詞
-- 03_adjective_noun/health.md - 医療・健康関連の名詞、形容詞
-- 03_adjective_noun/money.md - 金銭・財政関連の名詞、形容詞
-- 03_adjective_noun/properties.md - 物理的性質に関する名詞、形容詞
-- 03_adjective_noun/common.md - その他物事の名詞、形容詞
+- 03_adjective_noun/0_Hedge.md - ぼやけさせる名詞、形容詞
+- 03_adjective_noun/1_Business.md - 個人的に仕事でよく使うなと思う名詞、形容詞
+- 03_adjective_noun/2_Politics_Religion.md - 政治、宗教関連の名詞、形容詞
+- 03_adjective_noun/3_Law_Crime.md - 法律、犯罪関連の名詞、形容詞
+- 03_adjective_noun/4_Education.md - 教育、学術関連の名詞、形容詞
+- 03_adjective_noun/5_Science.md - 科学関連の名詞、形容詞
+- 03_adjective_noun/6_Community.md - 金融、不動産などの公共関連の名詞、形容詞
+- 03_adjective_noun/7_Health.md - 病院、健康、医療関連の名詞、形容詞
+- 03_adjective_noun/8_Life.md - 日常関連の名詞、形容詞
+- 03_adjective_noun/9_Assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞
 - 04_adverb/head.md - 文の最初に置くことが多い副詞
 - 04_adverb/middle.md - 動詞前後に置くことが多い副詞
 - 04_adverb/tail.md - 文の最後に置くことが多い副詞

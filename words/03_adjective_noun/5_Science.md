@@ -1,4 +1,22 @@
-# Properties
+# Science
+
+> `burning` /ˈbɜːrnɪŋ/              ([Neutral] 燃えている、激しい)  The burning building collapsed.
+  - `fiery` /ˈfaɪəri/               ([Neutral] 燃えるような 激しい) Her fiery temper surprised everyone.
+  - `blazing` /ˈbleɪzɪŋ/            ([Neutral] 燃えている、猛烈な)  The blazing sun was unbearable.
+  - `ignited` /ɪɡˈnaɪtɪd/           ([Neutral] 点火された、燃え上がった) The gas was ignited.
+  - `ablaze` /əˈbleɪz/              ([Writing] 燃えている、輝いている) The building was ablaze.
+  - `alight` /əˈlaɪt/               ([Writing] 燃えている、点いている) The candles were alight.
+  - `aflame` /əˈfleɪm/              ([Writing] 炎に包まれた)        The forest was aflame.
+> `fire` /faɪər/                    ([Neutral] 火、火災)            The fire spread quickly.
+  > `be on fire`                   ([Casual] 絶好調である)          The team is on fire right now.
+  - `flame` /fleɪm/                 ([Neutral] 炎)                  The flame flickered in the wind.
+  - `blaze` /bleɪz/                 ([Neutral] 炎、火災)            The fire became a dangerous blaze.
+  - `spark` /spɑːrk/                ([Neutral] 火花)                A spark ignited the gasoline.
+  - `ember` /ˈembər/                ([Neutral] 燃えさし、残り火)    The embers glowed in the darkness.
+  - `inferno` /ɪnˈfɜːrnoʊ/          ([Neutral] 大火災、地獄)        The building became an inferno.
+  - `conflagration`                 ([Formal] 大火災)               The conflagration destroyed the forest.
+  - `combustion` /kəmˈbʌstʃən/      ([Technical] 燃焼)              Spontaneous combustion started the fire.
+  - `flare` /fler/                  ([Neutral] 炎上、閃光)          The fire flared up suddenly.
 
 ## GEOMETRY (SHAPE / WIDE / DENSE / ALTITUDE)
 > `shape` /ʃeɪp/                    ([Neutral] 形、形状)            What shape is this object?
@@ -91,67 +109,6 @@
     - `elevated` /ˈelɪveɪtɪd/       ([Formal] 高い位置の、高尚な)   The elevated platform offered great views.
   - `height` /haɪt/                 ([Neutral] 高さ、身長)          What's the height of that building?
 
-## TEXTURE (THICK / STURDY / COARSE)
-> `thick` /θɪk/                     ([Neutral] 厚い、濃い)          The walls are thick.
-  - `thin` /θɪn/                    ([Neutral] 薄い、細い)          The ice was too thin to walk on.
-  - `bulky` /ˈbʌlki/                ([Neutral] かさばる、厚い)      A bulky sweater.
-  - `substantial` /səbˈstænʃəl/     ([Formal] 実質的な、厚い)       A substantial layer.
-  - `meager` /ˈmiːɡər/              ([Formal] 貧弱な、薄い)         A meager coating.
-    - `meagerly` /ˈmiːɡərli/        ([Formal] 貧弱に)               Meagerly covered.
-  - `sparse` /spɑːrs/               ([Formal] まばらな、薄い)       Sparse vegetation.
-    - `sparsely` /ˈspɑːrsli/        ([Formal] まばらに)             Sparsely populated.
-    - `sparseness` /ˈspɑːrsnəs/     ([Formal] まばらさ)             The sparseness of the hair.
-  - `hefty` /ˈhefti/                ([Casual] 重い、厚い)           A hefty book.
-  - `chunky` /ˈtʃʌŋki/              ([Casual] 厚い、ごつい)         Chunky jewelry.
-  - `paper-thin` /ˈpeɪpər θɪn/      ([Neutral] 紙のように薄い)      Paper-thin walls.
-  - `wafer-thin` /ˈweɪfər θɪn/      ([Neutral] 極薄の)              Wafer-thin slices.
-  - `razor-thin` /ˈreɪzər θɪn/      ([Neutral] かみそりのように薄い) A razor-thin margin.
-  - `hair-thin` /her θɪn/           ([Neutral] 髪の毛のように細い)  Hair-thin wires.
-  - `gauzy` /ˈɡɔːzi/                ([Writing] 薄い、透けるような)  Gauzy curtains.
-  - `filmy` /ˈfɪlmi/                ([Writing] 薄膜のような)        A filmy layer.
-  - `wispy` /ˈwɪspi/                ([Neutral] か細い、薄い)        Wispy clouds.
-  - `delicate` /ˈdelɪkət/           ([Neutral] 繊細な、薄い)        Delicate fabric.
-  - `sensual` /ˈsɛn.ʃu.əl/          ([Neutral] 官能的な、感覚的な)  Sensual music filled the room.
-    - `sensuality` /ˌsɛn.ʃuˈæl.ɪ.ti/ ([Neutral] 官能性、肉欲)        The sensuality of the dance was captivating.
-    - `sensually` /ˈsɛnʃuəli/        ([Neutral] 官能的に)            The fabric draped sensually.
-  - `sensuous` /ˈsɛnʃuəs/           ([Neutral] 感覚的な、官能的な)  Sensuous music played softly.
-  - `voluptuous` /vəˈlʌp.t͡ʃu.əs/    ([Neutral] 官能的な、豊満な)    A voluptuous figure.
-  - `erotic` /ɪˈɹɑtɪk/              ([Neutral] エロティックな)      The erotic artwork was controversial.
-  - `carnal` /ˈkɑɹnəl/              ([Formal] 肉欲的な、肉体的な)   Carnal desires.
-  - `robust` /roʊˈbʌst/             ([Neutral] 頑丈な、厚い)        A robust frame.
-  - `flimsy` /ˈflɪmzi/              ([Neutral] 薄っぺらな)          A flimsy excuse.
-  - `solid` /ˈsɑːlɪd/               ([Neutral] 固体の、厚い)        Solid walls.
-> `sturdy` /ˈstɜːdi/                ([Neutral] 頑丈な)              This is a sturdy wooden table.
-  - `flimsy` /ˈflɪmzi/              ([Neutral] 薄っぺらな)          The excuse was flimsy and unconvincing.
-  - `fragile` /ˈfrædʒaɪl/           ([Neutral] 壊れやすい)          Handle the package carefully, it's fragile.
-    - `fragility` /frəˈdʒɪləti/     ([Writing] 脆弱性)              The fragility of the ecosystem is concerning.
-> `coarse` /kɔːrs/                  ([Neutral] 粗い、厚い)          Coarse fabric.
-    - `coarseness` /ˈkɔːrsnəs/      ([Neutral] 粗さ)                The coarseness of the sand.
-  - `fine` /faɪn/                   ([Neutral] 細い、薄い)          Fine hair.
-    - `fineness` /ˈfaɪnnəs/         ([Neutral] 細さ)                The fineness of the thread.
-
-## PATTERNS / COLORS
-- `variegated` /ˈvɛəriəˌɡeɪtɪd/     ([Formal] まだらの、斑入りの)   The variegated leaves show multiple colors.
-  - `variegate` /ˈvɛəriəˌɡeɪt/      ([Formal] まだらにする)        The artist chose to variegate the design.
-  - `variegation` /ˌvɛəriəˈɡeɪʃən/  ([Formal] まだら模様、斑入り)  The variegation in the plant is striking.
-- `mottled` /ˈmɑːtəld/              ([Neutral] まだらの、斑点のある) The mottled skin provided camouflage.
-- `speckled` /ˈspekəld/             ([Neutral] 斑点のある、まだらの) The speckled eggs lay in the nest.
-- `striped` /straɪpt/               ([Neutral] 縞模様の)             He wore a striped shirt.
-- `multicolored` /ˌmʌltiˈkʌlərd/    ([Neutral] 多色の、色とりどりの) The multicolored lights were bright.
-- `dappled` /ˈdæpəld/               ([Neutral] まだらの、斑点のある) The path was dappled with sunlight.
-- `tinge` /tɪndʒ/                   ([Neutral] 色合い、気味)        There was a tinge of sadness in her voice.
-  - `tinged` /tɪndʒd/               ([Neutral] 帯びた、染まった)    The sky was tinged with pink.
-- `hue` /hjuː/                      ([Neutral] 色合い、色調)        The painting has beautiful hues.
-  - `color` /ˈkʌlər/                ([Neutral] 色)                  What color is your car?
-  - `tone` /toʊn/                   ([Neutral] 色調、調子)          The warm tone of the photograph.
-  - `pigment` /ˈpɪɡmənt/            ([Technical] 顔料)              The pigment gives the paint its color.
-  - `dye` /daɪ/                     ([Neutral] 染料)                The fabric was colored with dye.
-  - `chromatic` /kroʊˈmætɪk/        ([Technical] 色彩の)             The chromatic scale includes all colors.
-- `tint` /tɪnt/                     ([Neutral] 色合い、淡い色)      Add a tint of blue to the paint.
-- `shade` /ʃeɪd/                    ([Neutral] 色合い、陰)          A darker shade of red.
-- `nuance` /ˈnuːɑːns/              ([Formal] ニュアンス、微妙な差)  The nuance of his expression.
-- `hint` /hɪnt/                     ([Neutral] わずかな気配)        A hint of lemon in the dish.
-
 ## MATERIALS
 - `graphite` /ˈɡræfaɪt/             ([Neutral] 黒鉛、グラファイト)   Pencil lead is made of graphite.
 - `carbon` /ˈkɑːrbən/               ([Neutral] 炭素)                Carbon is essential for life.
@@ -166,16 +123,3 @@
 - `resilient` /rɪˈzɪliənt/         ([Neutral] 回復力のある)        The economy is resilient and recovering quickly.
 - `springy` /ˈsprɪŋi/              ([Casual] 弾力がある、跳ねる)   The mattress feels nice and springy.
 
-## TEMPORAL DURATION
-- `momentary` /ˈmoʊmənteri/        ([Neutral] 一時的な、瞬間的な)  It was a momentary lapse in judgment.
-- `temporary` /ˈtempəreri/         ([Neutral] 一時的な)            This is only a temporary solution.
-- `brief` /briːf/                  ([Neutral] 短い、簡潔な)        A brief meeting.
-- `fleeting` /ˈfliːtɪŋ/            ([Neutral] つかの間の)          A fleeting moment.
-- `transient` /ˈtrænʃənt/          ([Formal] 一時的な、はかない)   Transient feelings.
-
-## PHYSICAL SENSATIONS
-> `tickle` /ˈtɪkəl/                 ([Neutral] くすぐったい感じ)    I have a tickle in my throat.
-  - `itch` /ɪtʃ/                    ([Neutral] かゆみ)              The mosquito bite caused an itch.
-  - `tingle` /ˈtɪŋɡəl/              ([Neutral] ピリピリする感じ)    A tingle ran down my spine.
-  - `prickle` /ˈprɪkəl/             ([Neutral] チクチクする感じ)    I felt a prickle on my skin.
-  - `sting` /stɪŋ/                  ([Neutral] 刺すような痛み)      The bee sting was painful.

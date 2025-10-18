@@ -1,4 +1,16 @@
-# Finance
+# Community
+
+- `abode` /əˈboʊd/                  ([Writing] 住居、住まい)        His humble abode was cozy.
+- `abortion` /əˈbɔːrʃən/          ([Formal] 中絶、失敗)           The plan was an abortion.
+- `abortive` /əˈbɔːrtɪv/            ([Formal] 失敗の、挫折した)      The coup attempt was abortive.
+- `abortively` /əˈbɔːrtɪvli/      ([Formal] 失敗して)             The project ended abortively.
+- `accelerant` /ækˈselərant/        ([Formal] 促進剤、加速剤)       The fire spread due to an accelerant.
+- `acceleration` /ækˌseləˈreɪʃən/ ([Formal] 加速、促進)           The acceleration was impressive.
+- `accelerator` /ækˈseləreɪtər/   ([Neutral] 促進者、アクセル)    He pressed the accelerator pedal.
+- `acquired taste` /əˈkwaɪərd teɪst/ ([Neutral] 慣れると好きになる味)  Coffee is an acquired taste.
+- `aboriginal` /ˌæbəˈrɪdʒɪnəl/     ([Formal] 先住の、原住の)        The aboriginal peoples of Australia have a rich culture.
+- `aboriginally` /ˌæbəˈrɪdʒɪnəli/ ([Formal] 原初から)            The land was aboriginally inhabited by tribes.
+- `aborigine` /ˌæbəˈrɪdʒɪni/     ([Formal] 原住民)              The aborigines were the first inhabitants.
 
 ## MONEY (MONEY / SAVINGS / INCOME / SPENDING / LUCRATIVE)
 > `money` /ˈmʌni/                   ([Neutral] お金)                I need to save more money.
@@ -36,16 +48,6 @@
 > `lucrative` /ˈluːkrətɪv/          ([Writing] 儲かる、有利な)      He has a lucrative business.
   - `profitable` /ˈprɒfɪtəbəl/      ([Neutral] 利益の出る)          The company had a profitable year.
 
-## WEALTH
-> `wealth` /welθ/                   ([Neutral] 富、財産)            He accumulated great wealth.
-    - `wealthy` /ˈwelθi/            ([Neutral] 裕福な)              They are a wealthy couple.
-  - `well-off` /wel ɔːf/            ([Casual] 裕福な)               Her parents are quite well-off.
-  - `prosperity` /prɑːˈsperəti/     ([Formal] 繁栄、成功)           The nation enjoyed prosperity.
-    - `prosperous` /ˈprɑːspərəs/    ([Formal] 繁栄している)         It's a prosperous business.
-  - `affluence` /ˈæfluəns/          ([Formal] 富裕、豊かさ)         They live in affluence and comfort.
-    - `affluent` /ˈæfluənt/         ([Formal] 裕福な)               She comes from an affluent family.
-  - `riches` /ˈrɪtʃɪz/              ([Writing] 富、財宝)            He dreamed of untold riches.
-
 ## BUSINESS / COMMERCE
 - `wholesale` /ˈhoʊlseɪl/          ([Neutral] 卸売の、大規模な)    They buy wholesale from suppliers.
   - `retail` /ˈɹiˌteɪl/            ([Neutral] 小売りの、小売り)    Retail prices are higher than wholesale.
@@ -66,10 +68,3 @@
 - `freelance` /ˈfriːlæns/           ([Neutral] フリーランスの)      He works as a freelance writer.
 - `vacant` /ˈveɪkənt/               ([Neutral] 空いている)          The position is vacant.
 - `unoccupied` /ʌnˈɑːkjupaɪd/       ([Neutral] 使用されていない)    The seat is unoccupied.
-
-## FINANCIAL CRIMES
-- `embezzlement` /ɪmˈbezəlmənt/     ([Formal] 横領)                 He was convicted of embezzlement.
-- `embezzler` /ɪmˈbezələr/          ([Formal] 横領者)               The embezzler was sentenced to prison.
-- `fraud` /frɔːd/                   ([Formal] 詐欺)                 The company was accused of fraud.
-- `misappropriation` /ˌmɪsəˌproʊpriˈeɪʃən/ ([Formal] 不正流用)     Misappropriation of funds is illegal.
-- `theft` /θeft/                    ([Neutral] 窃盗)                He was arrested for theft.
