@@ -144,7 +144,6 @@
 - `botch` /bɑːtʃ/                   ([Casual] しくじり、へま)       He made a botch of the job.
 - `bothersome` /ˈbɑðɚsəm/         ([Casual] 面倒な、うっとうしい)  The mosquitoes were bothersome.
 - `bottom line` /ˈbɑːtəm laɪn/     ([Neutral] 要点、結論)          What's the bottom line here?
-- `bountiful` /ˈbaʊntɪfəl/           ([Neutral] 豊富な、気前の良い)      We had a bountiful harvest this year.
 - `branch` /brɑːntʃ/                ([Neutral] 枝、支店、部門)      They opened a new branch in Tokyo.
 - `branching` /ˈbrɑːntʃɪŋ/        ([Neutral] 分岐、枝分かれ)      The branching of the company was successful.
 - `brass tacks` /bræs tæks/         ([Casual] 核心、要点)           Let's get down to brass tacks.
@@ -291,7 +290,6 @@
 - `conviviality` /kənˌvɪviˈæləti/ ([Writing] 陽気さ、歓楽)        The party had an air of conviviality.
 - `convoluted` /ˈkɒnvəluːtɪd/       ([Writing] 複雑で分かりにくい)  His explanation was convoluted.
 - `cool` /kuːl/                     ([Casual] 冷静な、落ち着いた)   Keep cool under pressure.
-- `copious` /ˈkoʊpiəs/               ([Neutral] 豊富な、大量の)          She took copious notes during class.
 - `corner` /ˈkɔːrnər/               ([Neutral] 角、隅)              He sat in the corner.
 - `correct` /kəˈrekt/               ([Neutral] 正しい、正確な)      Is this answer correct?
 - `correction` /kəˈrekʃən/      ([Neutral] 訂正、修正)          The teacher made a correction.
@@ -853,7 +851,6 @@
 - `mishap` /ˈmɪshæp/                ([Neutral] 不運、事故)          A minor mishap delayed the flight.
 - `mixture` /ˈmɪkstʃər/             ([Neutral] 混合、多様)            The city is a mixture of cultures.
 - `mock-up` /ˈmɑːk ʌp/            ([Neutral] モックアップ、模型)  The designer created a mock-up of the new interface.
-- `moderate` /ˈmɑːdərət/            ([Neutral] 穏健な、適度の)      He has moderate views.
 - `molestation` /ˌmoʊləˈsteɪʃən/   ([Formal] 性的嫌がらせ)         He was charged with molestation.
 - `moment` /ˈmoʊmənt/               ([Neutral] 瞬間)                Wait a moment, please.
 - `monarch` /ˈmɑːnərk/              ([Formal] 君主、国王)           The monarch ruled for 50 years.
@@ -1007,10 +1004,6 @@
 - `plan` /plæn/                      ([Neutral] 平面図、設計図)          Study the floor plan carefully.
 - `pleasure-seeking`                ([Neutral] 快楽追求)          His pleasure-seeking behavior worried us.
 - `pledge` /pledʒ/                  ([Formal] 誓約、約束)           He made a pledge to help.
-- `plentiful` /ˈplentɪfəl/        ([Neutral] 豊富な)              Jobs are plentiful in the city.
-- `plentiful` /ˈplɛntɪfl̩/            ([Neutral] 豊富な、たくさんの)      Jobs are plentiful in that city.
-- `plenty`                        ([Neutral] 十分な、たくさん)    We have plenty of time.
-- `plenty` /ˈplenti/                ([Neutral] たくさん、豊富)      There's plenty of time.
 - `pod` /pɑːd/                       ([Neutral] さや、ポッド)            The peas are in the pod.
 - `poise` /pɔɪz/                  ([Formal] 平静、落ち着き)       She handled it with poise.
 - `poised` /pɔɪzd/                  ([Formal] 落ち着いた Ready)     She's poised and confident.
@@ -1046,8 +1039,6 @@
 - `proficiency` /prəˈfɪʃənsi/     ([Formal] 熟達)                 Her English proficiency is excellent.
 - `proficient` /prəˈfɪʃənt/         ([Formal] 熟達した)             He's proficient in three languages.
 - `profound` /prəˈfaʊnd/            ([Formal] 深い、激しい)         The loss had a profound impact.
-- `profuse` /prəˈfjuːs/           ([Formal] 豊富な、大量の)       She offered profuse apologies.
-- `profuse` /pɹəˈfjuːs/              ([Neutral] 豊富な、惜しみない)      She offered profuse apologies.
 - `profusion` /prəˈfjuːʒən/         ([Formal] 大量、豊富)           A profusion of flowers bloomed.
 - `prominence` /ˈprɑːmɪnəns/      ([Neutral] 卓越、名声)          He rose to prominence quickly.
 - `prominent` /ˈprɑːmɪnənt/         ([Neutral] 卓越した、著名な)    She's a prominent scientist.
