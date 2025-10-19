@@ -1540,3 +1540,4 @@
 - `zoological` /ˌzoʊəˈlɑːdʒɪkəl/  ([Formal] 動物学の)             The zoological garden has many species.
 - `zoologist` /zoʊˈɑːlədʒɪst/     ([Formal] 動物学者)             The zoologist studies animal behavior.
 - `zoology` /zoʊˈɑːlədʒi/           ([Formal] 動物学)               She studies zoology at university.
+- `assortment` /əˈsɔːrtmənt/        ([Neutral] 取り合わせ)            There's an assortment of cookies.

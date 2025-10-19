@@ -486,3 +486,4 @@
 - `vibrant` /ˈvaɪbrənt/             ([Neutral] 活気のある、熱心な)  The city has a vibrant culture.
 - `vigorous` /ˈvɪɡərəs/             ([Formal] 精力的な、熱心な)     They had a vigorous debate.
 - `zealous` /ˈzeləs/                ([Formal] 熱心な、熱狂的な)     He's zealous about his work.
+- `a blur` /ə blɜːr/                ([Neutral] ぼんやりしている)    Last weekend was a blur.
