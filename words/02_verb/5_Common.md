@@ -1100,6 +1100,13 @@
 - `negate` /nɪˈɡeɪt/                ([Formal] 否定する)             This negates your argument.
 - `falsify` /ˈfɔːlsɪfaɪ/            ([Neutral] 偽造する、反証する)  The data falsifies the hypothesis.
 
+> `judge` /dʒʌdʒ/                   ([Neutral] 判断する、審査する)  Don't judge me by my appearance.
+  - `evaluate` /ɪˈvæljueɪt/         ([Neutral] 評価する)            We need to evaluate the results.
+  - `assess` /əˈses/                ([Neutral] 評価する、査定する)  The damage was assessed at $5,000.
+  - `appraise` /əˈpreɪz/            ([Formal] 評価する、鑑定する)   The expert appraised the painting.
+  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、判断する)  Tests will determine the cause.
+  - `adjudicate` /əˈdʒuːdɪkeɪt/     ([Formal] 判決を下す、裁定する) The court adjudicated the dispute.
+
 ## SPREAD
 - `spread` /spred/                  ([Neutral] 広める、広がる)      The news spread quickly.
   - `spreading` /ˈspredɪŋ/          ([Neutral] 拡散、伝播)          The spreading of rumors is harmful.
@@ -1177,6 +1184,12 @@
 - `struggle` /ˈstrʌɡəl/               ([Neutral] 苦闘する)            She struggled with depression.
 - `flounder` /ˈflaʊndər/             ([Neutral] もがく、困惑する)    He floundered during the interview.
 
+> `sustain` /səˈsteɪn/              ([Formal] 維持する、支える)     The funds will sustain the program.
+  - `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、保つ)      We need to maintain our standards.
+  - `support` /səˈpɔːrt/            ([Neutral] 支える、支持する)    The pillars support the roof.
+  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
+  - `preserve` /prɪˈzɜːrv/          ([Neutral] 保存する、維持する)  They preserved the old building.
+  - `keep` /kiːp/                   ([Neutral] 保つ、維持する)      Keep the temperature constant.
 
 - `stumble` /ˈstʌmbəl/               ([Neutral] つまずく、よろめく)  I stumbled over the stone.
 - `falter` /ˈfɔːltər/                ([Neutral] よろめく、躊躇する)  Her voice faltered with emotion.
@@ -1277,6 +1290,14 @@
   - `pierce` /pɪrs/                 ([Neutral] 突き刺す、貫く)      The arrow pierced the target.
   - `burn` /bɜːrn/                  ([Neutral] 焼く、ヒリヒリする)  My eyes burn from the smoke.
   - `smart` /smɑːrt/                ([Writing] ヒリヒリする)        The cut smarts when water touches it.
+
+## OPPORTUNITY
+> `miss out` /mɪs aʊt/              ([Neutral] 機会を逃す)          Don't miss out on this opportunity.
+  - `pass up` /pæs ʌp/              ([Neutral] 見送る、断る)        I can't pass up such a great offer.
+  - `skip` /skɪp/                   ([Casual] 飛ばす、欠席する)     Let's skip the meeting today.
+  - `forgo` /fɔːrˈɡoʊ/              ([Formal] 控える、断念する)     I'll forgo dessert tonight.
+  - `overlook` /ˌoʊvərˈlʊk/         ([Neutral] 見落とす、見逃す)    Don't overlook the details.
+  - `let slip` /let slɪp/           ([Neutral] 逃す、漏らす)        I let the chance slip away.
 
 
 - `abominate` /əˈbɑːmɪneɪt/       ([Formal] 嫌悪する)             I abominate dogma.

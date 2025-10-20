@@ -241,7 +241,6 @@
 - `competence` /ˈkɒmpɪtəns/       ([Neutral] 能力)                His competence is well recognized.
 - `competent` /ˈkɒmpɪtənt/          ([Neutral] 有能な)              She's a competent manager.
 - `complex` /kəmˈpleks/             ([Writing] 構造の複雑さ)        The human brain is an incredibly complex organ.
-- `compliance` /kəmˈplaɪəns/         ([Formal] 遵守、従順)           Compliance with safety rules is mandatory.
 - `complicated` /ˈkɒmplɪkeɪtɪd/  ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
 - `complication`/ˌkɒmplɪˈkeɪʃən/  ([Writing] 面倒な事態)          The surgery was successful, but there were complications.
 - `compliment` /ˈkɑːmpləmənt/        ([Neutral] 賛辞、おせじ)     She gave him a sincere compliment.
@@ -258,8 +257,6 @@
 - `condiment` /ˈkɑːndɪmənt/          ([Neutral] 薬味、調味料)        Pass me the condiments, please.
 - `confinement` /kənˈfaɪnmənt/       ([Neutral] 監禁、閉じ込め)          He was kept in confinement for weeks.
 - `conformance` /kənˈfɔːrməns/  ([Formal] 適合、遵守)           Conformance testing is complete.
-- `conformity` /kənˈfɔːrməti/        ([Formal] 適合、一致)           The design is in conformity with standards.
-- `conformity` /kənˈfɔːrmɪti/   ([Formal] 適合性、遵守)         Conformity with regulations is essential.
 - `conjuration` /ˌkʌndʒəˈreɪʃən/([Writing] 呪文、魔術)          The magician's conjuration amazed everyone.
 - `connect with` /kəˈnekt wɪð/    ([Neutral] つながる、共感する)  I really connect with her music.
 - `conquer` /ˈkɒŋkə/              ([Writing] 征服する、克服)      They conquered the mountain peak.
@@ -522,7 +519,6 @@
 - `exhaustion` /ɪɡˈzɔːstʃən/      ([Neutral] 疲労困憱)            She collapsed from exhaustion.
 - `exhaustive` /ɪɡˈzɔːstɪv/       ([Writing] 徹底的な)            The report was exhaustive and detailed.
 - `exodus` /ˈeksədəs/                ([Neutral] 大移住)         There was an exodus from the city during the pandemic.
-- `exoneration` /ɪɡˌzɒnəˈreɪʃən/  ([Formal] 無罪放免)             His exoneration came after 10 years.
 - `extend` /ɪkˈstend/             ([Neutral] 延ばす、拡張する)    They extended the deadline by a week.
 - `extended` /ɪkˈstendɪd/         ([Neutral] 延長された、拡張した) We had an extended discussion about the project.
 - `extension` /ɪkˈstenʃən/          ([Neutral] 延長、拡張)          The new wing is an extension of the hospital.
@@ -729,7 +725,6 @@
 - `in earnest`                          ([Formal] 本格的に／真剣に) They began the negotiations `in earnest` last week.
 - `in which`                      ([Formal] その中で〜する)       The situation `in which` we find ourselves.
 - `inadequate` /ɪnˈædɪkwət/       ([Neutral] 不適切な)            The budget is inadequate.
-- `incitement` /ɪnˈsaɪtmənt/        ([Neutral] 扇動、刺激)          The incitement led to riots.
 - `incompetence` /ɪnˈkɒmpɪtəns/   ([Formal] 無能)                 His incompetence caused problems.
 - `incompetent` /ɪnˈkɒmpɪtənt/    ([Formal] 無能な)               The incompetent employee was fired.
 - `inconsolable` /ˌɪnkənˈsoʊləbəl/ ([Writing] 慰めようがない)         She was inconsolable after the tragedy.
@@ -759,8 +754,6 @@
 - `insolent` /ˈɪnsələnt/          ([Formal] 横柄な、無礼な)       He made an insolent remark.
 - `instant` /ˈɪnstənt/              ([Neutral] 瞬間)                It happened in an instant.
 - `instigate` /ˈɪnstɪɡeɪt/        ([Formal] 扇動する、始める)     They instigated the rebellion.
-- `instigation` /ˌɪnstɪˈɡeɪʃən/     ([Formal] 扇動、教唆)           His instigation led to riots.
-- `instigator` /ˈɪnstɪɡeɪtər/       ([Neutral] 扇動者、発端)        He was the instigator of the conflict.
 - `insufficiency` /ˌɪnsəˈfɪʃənsi/ ([Writing] 不足)                The insufficiency was evident.
 - `insufficient` /ˌɪnsəˈfɪʃənt/   ([Neutral] 不十分な)            The evidence is insufficient.
 - `insurrection` /ˌɪnsəˈrekʃən/     ([Writing] 暴動、反乱)          The insurrection was quickly suppressed.
@@ -900,11 +893,8 @@
 - `numb` /nʌm/                      ([Neutral] 感覚のない、無感覚な) I felt numb after the shocking news.
 - `nuts and bolts` /nʌts ænd boʊlts/ ([Casual] 基本、詳細)          We need to understand the nuts and bolts.
 - `oath` /ˈoʊθ/                      ([Formal] 宣誓、誓い)              She took an oath to tell the truth.
-- `obedience` /oʊˈbiːdiəns/     ([Formal] 服従、遵守)           Obedience to rules ensures safety.
-- `obedience` /əˈbiːdiəns/          ([Neutral] 服従、従順)          The dog showed perfect obedience.
 - `obedient` /oʊˈbiːdiənt/      ([Neutral] 従順な、素直な)      She's an obedient employee.
 - `obscure` /əbˈskjʊr/               ([Formal] あいまいな)            The meaning was obscure.
-- `observance` /əbˈzɜːrvəns/    ([Formal] 遵守、守ること)       Observance of protocols is critical.
 - `obsolescence` /ˌɑːbsəˈlesns/   ([Writing] 陳腐化、廃退)        Planned obsolescence drives sales.
 - `obsolescent` /ˌɑːbsəˈlesnt/    ([Writing] 廃れつつある)        The obsolescent machinery needs replacing.
 - `obsolete` /ˌɑːbsəˈliːt/          ([Neutral] 時代遅れの、廃れた)  This technology is now obsolete.
@@ -1307,7 +1297,14 @@
 - `supporter` /səˈpɔːrtər/          ([Neutral] 支持者、サポーター)  The team has many loyal supporters.
 - `surrender` /səˈrendə/            ([Neutral] 降伏、降参)          The enemy decided to surrender.
 - `suspension` /səˈspenʃən/         ([Formal] 一時停止、保留)       The suspension of classes lasted a week.
-- `swagger` /ˈswæɡər/              ([Casual] 余裕、自信)          He walks with swagger.
+> `sustenance` /ˈsʌstənəns/        ([Formal] 栄養、食料、生活支援) They depend on the forest for sustenance.
+  - `nourishment` /ˈnɜːrɪʃmənt/    ([Neutral] 栄養、食物)          The soup provides nourishment.
+  - `provisions` /prəˈvɪʒənz/      ([Neutral] 食料、供給品)        We packed provisions for the trip.
+  - `subsistence` /səbˈsɪstəns/    ([Formal] 最低限の生活、生計)  They live at subsistence level.
+  - `nutrition` /nuːˈtrɪʃən/       ([Neutral] 栄養)                Good nutrition is essential for health.
+  - `livelihood` /ˈlaɪvlihʊd/      ([Neutral] 生計、暮らし)        Fishing is their main livelihood.
+- `sustainable` /səˈsteɪnəbəl/     ([Neutral] 持続可能な)          We need sustainable energy sources.
+- `sustained` /səˈsteɪnd/          ([Formal] 持続的な、継続的な)  The team made a sustained effort.
 - `sway` /sweɪ/                     ([Neutral] 影響力)              He has considerable sway over the board.
 - `symbol` /ˈsɪmbəl/            ([Neutral] 象徴、記号)          The heart is a symbol of love.
 - `symbolic` /sɪmˈbɒlɪk/        ([Neutral] 象徴的な)            The gesture was purely symbolic.
@@ -1488,7 +1485,6 @@
 - `vet / veterinarian`          獣医
 - `viable` /ˈvaɪəbəl/            ([Neutral] 実行可能な)          This is a viable alternative.
 - `vigor` /ˈvɪɡər/                ([Formal] 活力、精力)           He approached the task with vigor.
-- `vindication` /ˌvɪndɪˈkeɪʃən/   ([Formal] 汚名返上)             She felt vindication after the truth came out.
 - `vintage` /ˈvɪntɪdʒ/              ([Neutral] ヴィンテージの)      He drives a vintage car.
 - `virtue` /ˈvɜːrtʃu/             ([Formal] 美徳、徳)             Honesty is a virtue.
 - `virtuous` /ˈvɜːrtʃuəs/        ([Formal] 高潔な、徳のある)     She lived a virtuous life.
