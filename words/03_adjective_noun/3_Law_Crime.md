@@ -1,5 +1,33 @@
 # Law and Crime
 
+## Conflict
+> `acceptance` /əkˈseptəns/         ([Neutral] 受け入れ、承認)      His acceptance of the offer was quick.
+  - `approval` /əˈpruːvəl/          ([Neutral] 承認、賛成)          The plan needs your approval.
+  - `consent` /kənˈsent/            ([Neutral] 同意、承諾)          She gave her consent to proceed.
+  - `permission` /pərˈmɪʃən/        ([Neutral] 許可、承認)          You need permission to enter.
+  - `tolerance` /ˈtɑːlərəns/        ([Neutral] 寛容、黙認)          He showed tolerance for mistakes.
+  - `recognition` /ˌrekəɡˈnɪʃən/    ([Neutral] 認識、承認)          The recognition of his work was overdue.
+  - `endorsement` /ɪnˈdɔːrsmənt/    ([Formal] 支持、承認)           His endorsement was important.
+  - `authorization` /ˌɔːθərəˈzeɪʃən/([Formal] 許可、認可)           You need authorization to access this.
+  - `allowance` /əˈlaʊəns/          ([Neutral] 許容、手当)          They made allowance for delays.
+  - `acquiescence` /ˌækwiˈesəns/    ([Formal] 黙認、消極的同意)     His silence implied acquiescence.
+  - `sanction` /ˈsæŋkʃən/           ([Formal] 認可、制裁)           The plan received official sanction.
+  - `assent` /əˈsent/               ([Formal] 同意、賛成)           He gave his assent to the proposal.
+  - `concession` /kənˈseʃən/        ([Formal] 譲歩、容認)           They made a concession to reach agreement.
+  - `ratification` /ˌrætɪfɪˈkeɪʃən/ ([Formal] 批准、承認)           The treaty awaits ratification.
+  - `acknowledgment` /əkˈnɑːlɪdʒmənt([Formal] 承認、認識)           His acknowledgment came too late.
+> `charge` /tʃɑːrdʒ/                ([Neutral] [警察] 告発、容疑)     He faces a serious charge.
+  - `indictment` /ɪnˈdaɪtmənt/      ([Legal] [大陪審] 起訴、告発)     The grand jury issued an indictment.
+  - `prosecution` /ˌprɑːsɪˈkjuːʃən/ ([Legal] [検察] 起訴、検察側)     The prosecution presented evidence.
+  - `prosecutor` /ˈprɑːsɪkjuːtər/   ([Legal] 検察官、検事)          The prosecutor made strong arguments.
+  - `accusation` /ˌækjuˈzeɪʃən/     ([Neutral] [個人] 告発、非難)     The accusation was unfounded.
+  - `accuser` /əˈkjuːzər/           ([Neutral] 告発者)              The accuser testified in court.
+  - `accusatory` /əˈkjuːzətɔːri/    ([Formal] 非難するような)       His accusatory tone upset her.
+  - `allegation` /ˌæləˈɡeɪʃən/      ([Neutral] [メディア] 申立、疑惑) The allegations were investigated.
+  - `impeachment` /ɪmˈpiːtʃmənt/    ([Formal] [政治] 弾劾、告発)      The impeachment trial began.
+  - `denunciation` /dɪˌnʌnsiˈeɪʃən/ ([Formal] [公的] 告発、非難)      His denunciation was harsh.
+  - `incrimination` /ɪnˌkrɪmɪˈneɪʃən([Formal] 有罪を示すこと)       He avoided self-incrimination.
+
 ## Law
 > `compliance` /kəmˈplaɪəns/        ([Neutral] 遵守、コンプラ)      The company ensures compliance with regulations.
   - `observance` /əbˈzɜːrvəns/      ([Formal] 遵守、実行)           Observance of the law is mandatory.
@@ -31,13 +59,6 @@
   - `solicitation` /səˌlɪsɪˈteɪʃən/ ([Legal] 教唆、勧誘)            Solicitation of crime is illegal.
   - `abetment` /əˈbetmənt/          ([Writing] 教唆、幇助)          He was charged with abetment of fraud.
   - `abettor` /əˈbetər/             ([Writing] 教唆者、共犯者)      The abettor was also prosecuted.
-
-
-- `accusation` /ˌækjuˈzeɪʃən/   ([Neutral] 告発、非難)          The accusation was unfounded.
-- `accusatory` /əˈkjuːzətɔːri/  ([Formal] 非難するような)       His accusatory tone upset her.
-- `accuser` /əˈkjuːzər/         ([Neutral] 告発者)              The accuser testified in court.
-
-- `acquiescence` /ˌækwiˈesəns/       ([Formal] 黙認、容認)            His silence implied acquiescence.
 
 - `embezzlement` /ɪmˈbezəlmənt/     ([Formal] 横領)                 He was convicted of embezzlement.
 - `embezzler` /ɪmˈbezələr/          ([Formal] 横領者)               The embezzler was sentenced to prison.

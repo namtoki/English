@@ -32,7 +32,6 @@
 - `backing` /ˈbækɪŋ/              ([Neutral] 支援、後援)          They need financial backing.
 - `consensual` /kənˈsɛnʃuəl/       ([Formal] 合意に基づく)          The agreement was consensual.
 - `disapproval` /ˌdɪsəˈpruːvəl/     ([Formal] 不承認)               She showed her disapproval by shaking her head.
-- `endorsement` /ɪnˈdɔːrsmənt/    ([Neutral] 支持、承認)          The plan got his endorsement.
 - `guarantee` /ˌɡærənˈtiː/          ([Neutral] 保証、保証書)        The product comes with a guarantee.
 - `guaranteed` /ˌɡærənˈtiːd/        ([Neutral] 保証された、確実な)  Success is guaranteed.
 - `laid-back`                           ([Casual] 肩の力が抜けた、リラックスした) [Link](../../input/why-software-engineer-is-no-longer-a-dream-job.md#LAID-BACK)

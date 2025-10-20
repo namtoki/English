@@ -75,8 +75,6 @@
 - `authoritarian` /ɔːˌθɒrɪˈteəriən/ ([Writing] 権威主義の)          The country is run by an authoritarian regime.
 - `authoritative` /ɔːˈθɒrɪtətɪv/    ([Writing] 権威のある)          This is an authoritative biography.
 - `authority` /ɔːˈθɒrəti/           ([Neutral] 権威、権限)          He has no authority over me.
-- `authorization` /ˌɔːθəraɪˈzeɪʃən/ ([Formal] 認可)                 You need authorization to access these files.
-- `authorization` /ˌɔːθərəˈzeɪʃən/   ([Formal] 認可、授権)            You need authorization to access this.
 - `autobiography` /ˌɔːtəbaɪˈɒɡrəfi/  ([Neutral] 自叙伝)               She wrote her autobiography last year.
 - `autochthonous` /ɔːˈtɑːkθənəs/   ([Formal] 土着の、原住の)        The autochthonous culture was well preserved.
 - `averse` /əˈvɜːrs/              ([Formal] 嫌がる、反対で)       I'm not averse to trying new things.
@@ -264,7 +262,6 @@
 - `conquest` /ˈkɒŋkwest/            ([Writing] 征服、攻略)          The conquest took several years.
 - `conscientious` /ˌkɑːnʃiˈenʃəs/   ([Formal] 良心的な、真面目な)   He's a conscientious worker.
 - `conscientious` /ˌkɒnʃiˈenʃəs/    ([Formal] 良心的な)             She's a conscientious worker.
-- `consent` /ˈkɒnsent/               ([Formal] 同意、許可)            You need parental consent for this.
 - `considerable` /kənˈsɪdərəbəl/([Neutral] かなりの)            That's a considerable amount.
 - `considerate` /kənˈsɪdərət/   ([Neutral] 思いやりのある)      He's always considerate of others.
 - `consideration`               ([Neutral] 考慮、思いやり)      Give it serious consideration.
@@ -963,8 +960,6 @@
 - `perception` /pərˈsepʃən/     ([Formal] 理解、知覚)           His perception was accurate.
 - `perfect` /ˈpɜːrfəkt/           ([Neutral] 完璧な、正確な)      She gave a perfect performance.
 - `perfection` /pərˈfekʃən/     ([Neutral] 完璧、完全)          She strives for perfection.
-- `permission` /pərˈmɪʃən/           ([Neutral] 許可)                Ask for permission before entering.
-- `permission` /pəˈmɪʃən/           ([Neutral] 許可)                You need permission to enter this building.
 - `perplexing` /pərˈpleksɪŋ/         ([Neutral] 当惑させる)           The perplexing riddle took hours to solve.
 - `perseverance` /ˌpɜːrsəˈvɪrəns/   ([Formal] 忍耐、根気)           Success requires perseverance.
 - `persevere` /ˌpɜːrsəˈvɪr/       ([Formal] 忍耐する、やり抜く)   We must persevere despite difficulties.
@@ -1389,7 +1384,6 @@
 - `to sb's heart's content`             ([Casual] 思う存分～する) You can eat `to your heart's content` at the buffet.
 - `to the effect that`              ([Formal] 〜という趣旨で)       He said something `to the effect that` he quit.
 - `to which`                      ([Formal] それに対して〜する)   The place `to which` we're going.
-- `tolerance` /ˈtɑːlərəns/           ([Neutral] 忍耐、寛容)           He has no tolerance for lies.
 - `tongs` /tɔːŋz/                 ([Neutral] やっとこ、はさみ)     He grabbed the metal with tongs.
 - `tons of`                         ([Casual] たくさんの)           I have tons of homework.
 - `total` /ˈtəʊtəl/                 ([Neutral] 合計、全体の)        The total cost was $50.

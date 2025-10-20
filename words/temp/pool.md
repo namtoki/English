@@ -11,7 +11,6 @@ accomplice	11	【名】共犯者、仲間
 accountable	10	【形】責任がある、もっともな		
 accrue	11	【動】結果として生じる、獲得する		
 accumulation	8	【名】蓄積		
-accusation	6	【名】告発、罪		
 acorn	12	【名】ドングリ		
 acreage	12	【名】1エーカーほどの土地、エーカーで測った面積、地積		
 acrid	12	【形】（味やにおいが）刺すような、辛らつな		
@@ -765,7 +764,6 @@ conceit	8	【名】うぬぼれ、過大評価、気まぐれ 【動】得意に
 conceited	9	【形】うぬぼれた		
 concerted	11	【形】一致団結した、断固とした		
 concerto	11	【名】コンチェルト、協奏曲		
-concession	7	【名】譲歩、承認		
 concise	7	【形】簡潔な		
 conclusive	8	【形】決定的な、確実な、終結的な、終了させる		
 concomitant	12	【形】同時に起こる、付随する 【名】付属物		
@@ -1097,7 +1095,6 @@ demure	12	【形】慎み深い、上品ぶった
 den	7	【名】ほら穴、ねぐら 【動】ほら穴に住む		
 denomination	11	【名】貨幣単位、額面、宗派		
 dent	11	【名】表面のくぼみ、減少 【動】へこませる、めり込む		
-denunciation	12	【名】公然の非難、弾劾		
 deodorant	8	【名】デオドラント、体臭防止剤、脱臭剤 【形】脱臭効果のある		
 deplete	11	【動】使い果たす、激減させる		
 depletion	12	【名】減少、枯渇		
@@ -2055,7 +2052,6 @@ impassive	12	【形】冷静な、無感動の
 impatience	6	【名】短気、切望		
 impatient	5	【形】我慢できない、耐えられない、せっかちな		
 impeach	9	【動】弾劾する、告発する		
-impeachment	8	【名】弾劾、非難		
 impediment	10	【名】妨害、身体的障害		
 impel	12	【動】かりたてる、押し進める		
 impending	10	【形】切迫した、今にも起こる		
@@ -2125,7 +2121,6 @@ indefinite	10	【形】無期限の、不明確な
 indefinitely	9	【副】無期限に、漠然と、あいまいに		
 indelible	11	【形】消すことのできない		
 indemnity	12	【名】賠償、保護		
-indictment	10	【名】起訴、非難		
 indigenous	10	【形】固有の、生まれながらの		
 indigestion	10	【名】消化不良、胃弱、未熟		
 indignity	9	【名】侮辱、冷遇		
@@ -3187,8 +3182,6 @@ proprietor	11	【名】経営者、企業やホテルの所有者、植民地領
 propriety	10	【名】上品、端正、妥当性、正統性		
 prosaic	12	【形】平凡な、散文体の		
 prosecute	8	【動】起訴する、請求する、推し進める、営む		
-prosecution	8	【名】訴訟、実行、遂行、検察側		
-prosecutor	8	【名】検察官、検事		
 prospectus	12	【名】学校案内、事業内容説明書、目論見書		
 prosper	5	【動】成功する、栄える		
 prostitute	8	【名】売春婦 【動】才能・能力を金のために使う、売春する		
@@ -3306,7 +3299,6 @@ rarity	8	【名】珍品、珍しさ、絶妙さ、希薄さ
 rascal	9	【名】いたずら者、わんぱく小僧、やつ、下劣な		
 rash	7	【名】発疹 【形】向こう見ずな、無分別な		
 rasp	12	【動】ヤスリでこする、苛だたせる		
-ratification	12	【名】批准、承認		
 ratify	10	【動】承認する、批准する		
 ration	10	【名】割り当て量 【動】支給する、制限する		
 rationale	11	【名】論理的根拠、理由づけ		
