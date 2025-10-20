@@ -1,5 +1,7 @@
 # Business
 
+what it's like to V
+
 ## ドキュメント
 - `abbreviated` /əˈbriːvieɪtɪd/     ([Neutral] 短縮された)          The abbreviated version is easier to read.
 - `abbreviation` /əˌbriːviˈeɪʃən/   ([Neutral] 略語)                "Dr." is an abbreviation for "Doctor."
