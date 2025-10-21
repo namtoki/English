@@ -318,7 +318,6 @@
 - `debunking` /dɪˈbʌŋkɪŋ/         ([Neutral] 論破、暴露)          The debunking of myths is important.
 - `decadence` /ˈdekədəns/           ([Neutral] 退廃、堕落)          The decadence of the empire.
 - `deck` /dek/                    ([Neutral] デッキ)              We built a wooden deck in the backyard.
-- `declaration` /ˌdɛkləˈɹeɪʃən/      ([Formal] 宣言、申告)              He signed a customs declaration.
 - `dedicated` /ˈdedɪkeɪtɪd/         ([Neutral] 献身的な、専念した)  She's a dedicated teacher.
 - `dedication` /ˌdedɪˈkeɪʃən/     ([Neutral] 献身、専念)          His dedication to work is impressive.
 - `deep` /diːp/                     ([Neutral] 深い、強い)          She has deep feelings for him.
@@ -346,7 +345,6 @@
 - `dependable` /dɪˈpendəbəl/        ([Neutral] 頼りになる 良心的な) He's a dependable friend.
 - `deplorable` /dɪˈplɔrəbəl/        ([Formal] 嘆かわしい、酷い)     The housing conditions were deplorable.
 - `deposit` /dɪˈpɑːzɪt/             ([Neutral] 鉱床、堆積物)        They found a gold deposit.
-- `deposition` /ˌdepəˈzɪʃən/        ([Formal] 証言録取、退位)        She gave a deposition to the lawyer.
 - `derivation` /ˌderɪˈveɪʃən/     ([Formal] 由来、派生)           The derivation of this theory is complex.
 - `derivative` /dɪˈrɪvətɪv/         ([Formal] 派生物、派生的な)     This product is a derivative of their original design.
 - `despicable` /dɪˈspɪkəbəl/        ([Formal] 軽蔑すべき)           It was a despicable act.
@@ -765,7 +763,6 @@
 - `introductory` /ˌɪntrəˈdʌktəri/ ([Neutral] 導入の、入門の)      This is an introductory meeting for new members.
 - `invade` /ɪnˈveɪd/              ([Formal] 侵略する、侵入)       The army invaded the neighboring country.
 - `invader` /ɪnˈveɪdə/            ([Formal] 侵略者、侵入者)       The invaders were repelled.
-- `invasion` /ɪnˈveɪʒən/            ([Formal] 侵攻、侵略)           The invasion was repelled.
 - `invention` /ɪnˈvenʃən/           ([Neutral] 作り話、創作)        That excuse is pure invention.
 - `involved` /ɪnˈvɒlvd/             ([Neutral] 関わっている 複雑な) The procedure is quite involved.
 - `irrefutable` /ˌɪrɪˈfjuːtəbəl/  ([Writing] 反駁できない)        The evidence is irrefutable.
@@ -1342,7 +1339,6 @@
 - `terrorism` /ˈterərɪzəm/        ([Neutral] テロリズム)               Terrorism threatens global security.
 - `terrorist` /ˈterərɪst/          ([Neutral] テロリスト)               The terrorist was arrested.
 - `test` /test/                   ([Neutral] テスト、試験)        Let's run a test before the full launch.
-- `testimony` /ˈtɛstɪmoʊni/          ([Formal] 証言)                    The witness gave testimony in court.
 - `tether` /ˈteðər/                 ([Neutral] 繋ぎ綱、拘束)        The dog reached the end of its tether.
 - `that I/you/we`                 ([Neutral] 私/君/我々が〜する)  The idea `that I` had yesterday.
 - `that thing`                      ([Casual] あれ、あのやつ)       Can you pass me `that thing`?

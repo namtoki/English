@@ -375,6 +375,12 @@
   - `do one's utmost`               ([Formal] 最善を尽くす)         We will do our utmost to meet the deadline.
   - `take a crack at O`             ([Casual] 試してみる)           I'll take a crack at fixing the computer.
   - `take a stab at O`              ([Casual] 試してみる)           Let me take a stab at solving this puzzle.
+> `have guts` /hæv ɡʌts/            ([Casual] 勇気がある)           It takes guts to speak up.
+  - `bite the bullet` /baɪt ðə ˈbʊlɪt/ ([Neutral] 困難を受け入れる)  He bit the bullet and signed the lease.
+  - `take the plunge` /teɪk ðə plʌndʒ/ ([Casual] 思い切って行動)     She took the plunge with the new job.
+  - `brave it out` /breɪv ɪt aʊt/  ([Neutral] 勇敢に耐える)        I decided to brave it out.
+  - `intestinal fortitude` /ˌɪnteˌstaɪnl ˈfɔːrtɪtuːd/ ([Formal] 不屈の精神) He lacked the intestinal fortitude.
+  - `have the courage of one's convictions` /hæv ðə ˈkʌrɪdʒ əv wʌnz kənˈvɪkʃənz/ ([Formal] 信念を貫く) She had the courage of her convictions.
 
 ## OPPOSITE / REVERSE (the other way around / vice versa)
 > `the other way around`            ([Casual] 逆)                   I thought you called me, not the other way around.

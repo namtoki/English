@@ -33,6 +33,11 @@
   - `go on` /ɡoʊ ɑːn/               ([Neutral] 続く、長引く)        The meeting seemed to go on forever.
   - `prolong` /pɹoʊˈlɔŋ/            ([Formal] 延長する、長引かせる) Complaining prolongs one's pain.
   - `persist` /pɚˈsɪst/             ([Formal] 持続する、続く)       The symptoms persisted for weeks.
+> `hold up` /hoʊld ʌp/              ([Casual] 遅らせる)             What's holding you up?
+  - `tie up` /taɪ ʌp/               ([Neutral] 拘束する)            I'm tied up in a meeting.
+  - `put off` /pʊt ɔːf/             ([Neutral] 延期する)            We put off the wedding.
+  - `set back` /set bæk/            ([Neutral] 遅らせる)            The storm set back our plans.
+  - `hold off` /hoʊld ɔːf/          ([Neutral] 延期する)            Let's hold off on the decision.
 
 ## MOVE (move / go / get to / walk / swing by / go down / enter)
 > `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
@@ -561,6 +566,11 @@
 > `reduce` /rɪˈduːs/                ([Neutral] 減らす)              We need to reduce costs.
   - `lessen` /ˈlesən/               ([Neutral] 減らす)              This should lessen the pain.
   - `weaken` /ˈwiːkən/              ([Neutral] 弱くする)            The illness weakened him.
+> `cut back on` /kʌt bæk ɑːn/      ([Neutral] を減らす)            I need to cut back on sugar.
+  - `cut down on` /kʌt daʊn ɑːn/   ([Neutral] を減らす)            I'm cutting down on junk food.
+  - `scale down` /skeɪl daʊn/      ([Neutral] 縮小する)            They scaled down the project.
+  - `ease up on` /iːz ʌp ɑːn/      ([Casual] を緩める)             Ease up on the pressure.
+  - `trim down` /trɪm daʊn/        ([Neutral] 削減する)            We need to trim down costs.
 > `extend` /ɪkˈstend/               ([Neutral] 延ばす、拡張する)    They extended the deadline.
   - `expand` /ɪkˈspænd/             ([Neutral] 拡張する 発展させる) They plan to expand the business.
   - `diversify` /daɪˈvɜːrsəfaɪ/     ([Formal] 多様化する)           The company diversified its products.

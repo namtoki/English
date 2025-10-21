@@ -1,6 +1,6 @@
 # Law and Crime
 
-## Conflict
+## Authentication
 > `acceptance` /əkˈseptəns/         ([Neutral] 受け入れ、承認)      His acceptance of the offer was quick.
   - `approval` /əˈpruːvəl/          ([Neutral] 承認、賛成)          The plan needs your approval.
   - `consent` /kənˈsent/            ([Neutral] 同意、承諾)          She gave her consent to proceed.
@@ -16,6 +16,8 @@
   - `concession` /kənˈseʃən/        ([Formal] 譲歩、容認)           They made a concession to reach agreement.
   - `ratification` /ˌrætɪfɪˈkeɪʃən/ ([Formal] 批准、承認)           The treaty awaits ratification.
   - `acknowledgment` /əkˈnɑːlɪdʒmənt([Formal] 承認、認識)           His acknowledgment came too late.
+
+## Law
 > `charge` /tʃɑːrdʒ/                ([Neutral] [警察] 告発、容疑)     He faces a serious charge.
   - `indictment` /ɪnˈdaɪtmənt/      ([Legal] [大陪審] 起訴、告発)     The grand jury issued an indictment.
   - `prosecution` /ˌprɑːsɪˈkjuːʃən/ ([Legal] [検察] 起訴、検察側)     The prosecution presented evidence.
@@ -27,8 +29,6 @@
   - `impeachment` /ɪmˈpiːtʃmənt/    ([Formal] [政治] 弾劾、告発)      The impeachment trial began.
   - `denunciation` /dɪˌnʌnsiˈeɪʃən/ ([Formal] [公的] 告発、非難)      His denunciation was harsh.
   - `incrimination` /ɪnˌkrɪmɪˈneɪʃən([Formal] 有罪を示すこと)       He avoided self-incrimination.
-
-## Law
 > `compliance` /kəmˈplaɪəns/        ([Neutral] 遵守、コンプラ)      The company ensures compliance with regulations.
   - `observance` /əbˈzɜːrvəns/      ([Formal] 遵守、実行)           Observance of the law is mandatory.
   - `adherence` /ædˈhɪrəns/         ([Formal] 遵守、忠実)           Adherence to policy is required.
@@ -41,6 +41,11 @@
   - `pardon` /ˈpɑːrdən/             ([Formal] 恩赦、許し)           The governor granted him a pardon.
   - `absolution` /ˌæbsəˈluːʃən/     ([Formal] 免罪、赦し)           He sought absolution for his mistakes.
   - `discharge` /dɪsˈtʃɑːrdʒ/       ([Legal] 免責、釈放)            The court ordered his discharge.
+> `statement` /ˈsteɪtmənt/          ([Neutral] 供述、陳述)          He gave a statement to police.
+  - `testimony` /ˈtɛstɪmoʊni/       ([Formal] 証言、供述)           Her testimony was crucial.
+  - `affidavit` /ˌæfɪˈdeɪvɪt/       ([Formal] 宣誓供述書)           She filed an affidavit with the court.
+  - `deposition` /ˌdɛpəˈzɪʃən/      ([Legal] 宣誓証言、証言録取)    They took his deposition.
+  - `declaration` /ˌdɛkləˈɹeɪʃən/   ([Formal] 申述書)               He signed a declaration.
 
 ## Crime
 > `kidnapping` /ˈkɪdnæpɪŋ/          ([Neutral] 誘拐)                The kidnapping made national news.
@@ -59,29 +64,43 @@
   - `solicitation` /səˌlɪsɪˈteɪʃən/ ([Legal] 教唆、勧誘)            Solicitation of crime is illegal.
   - `abetment` /əˈbetmənt/          ([Writing] 教唆、幇助)          He was charged with abetment of fraud.
   - `abettor` /əˈbetər/             ([Writing] 教唆者、共犯者)      The abettor was also prosecuted.
+> `fraud` /frɔːd/                   ([Formal] 詐欺)                 The company was accused of fraud.
+  - `scam` /skæm/                   ([Casual] 詐欺、ペテン)         He fell victim to a scam.
+  - `swindle` /ˈswɪndəl/            ([Neutral] 詐欺)                She swindled him out of money.
+  - `con` /kɑːn/                    ([Casual] ペテン、詐欺)         It was just a con.
+  - `deceit` /dɪˈsiːt/              ([Neutral] 欺瞞、ごまかし)      His deceit was finally exposed.
+  - `deception` /dɪˈsepʃən/         ([Neutral] 詐欺、欺瞞)          The deception went unnoticed.
+  - `chicanery` /ʃɪˈkeɪnəri/        ([Formal] 詐欺、ペテン)         Legal chicanery was involved.
+  - `racket` /ˈrækɪt/               ([Casual] 不正取引、詐欺)       They ran an illegal racket.
+> `theft` /θeft/                    ([Neutral] 窃盗)                He was arrested for theft.
+  - `stealing` /ˈstiːlɪŋ/           ([Neutral] 盗み)                Stealing is wrong.
+  - `robbery` /ˈɹɑbəɹi/             ([Formal] 強盗)                 The robbery occurred at night.
+  - `burglary` /ˈbɝɡlɚi/            ([Formal] 侵入窃盗)             He was convicted of burglary.
+  - `larceny` /ˈlɑɹsəni/            ([Legal] 窃盗罪)                The charge was grand larceny.
+  - `shoplifting` /ˈʃɑːplɪftɪŋ/     ([Neutral] 万引き)              Shoplifting is a common crime.
+  - `pilferage` /ˈpɪlfərɪdʒ/        ([Neutral] 小額窃盗)            Pilferage is common in warehouses.
+  - `thievery` /ˈθivəri/            ([Neutral] 盗み、窃盗)          Thievery was rampant in the area.
+> `attack` /əˈtæk/                  ([Neutral] 襲撃、攻撃)          The attack was sudden.
+  - `assault` /əˈsɔːlt/             ([Formal] 襲撃、暴行)           The assault on the fortress failed.
+  - `raid` /reɪd/                   ([Neutral] 急襲、襲撃)          The enemy launched a raid at dawn.
+  - `strike` /stɹaɪk/               ([Neutral] 攻撃、空爆)          The air strike destroyed the target.
+  - `ambush` /ˈæmbʊʃ/               ([Neutral] 待ち伏せ、奇襲)      The soldiers set up an ambush.
+  - `offensive` /əˈfɛnsɪv/          ([Formal] 攻勢、作戦)           They launched a major offensive.
+  - `invasion` /ɪnˈveɪʒən/          ([Formal] 侵攻、侵略)           The invasion began at dawn.
+  - `onslaught` /ˈɒnslɔːt/          ([Formal] 猛攻撃)               The onslaught was relentless.
+  - `incursion` /ɪŋˈkɜːʒən/         ([Formal] 侵入、急襲)           The incursion was brief.
+  - `assailant` /əˈseɪlənt/         ([Neutral] 襲撃者)              The assailant fled the scene.
+  - `raider` /ˈreɪdər/              ([Neutral] 襲撃者、侵略者)      The raiders attacked at night.
 
-- `embezzlement` /ɪmˈbezəlmənt/     ([Formal] 横領)                 He was convicted of embezzlement.
-- `embezzler` /ɪmˈbezələr/          ([Formal] 横領者)               The embezzler was sentenced to prison.
-
-- `fraud` /frɔːd/                   ([Formal] 詐欺)                 The company was accused of fraud.
-
-- `misappropriation` /ˌmɪsəˌproʊpriˈeɪʃən/ ([Formal] 不正流用)     Misappropriation of funds is illegal.
-
-- `theft` /θeft/                    ([Neutral] 窃盗)                He was arrested for theft.
-
-- `affidavit` /ˌæfɪˈdeɪvɪt/          ([Formal] 宣誓供述書)              She filed an affidavit with the court.
-
-- `ambush` /ˈæmbʊʃ/                 ([Neutral] 待ち伏せ、奇襲)      The soldiers set up an ambush.
-
-- `assailant` /əˈseɪlənt/         ([Neutral] 襲撃者)              The assailant fled the scene.
-- `assault` /əˈsɔːlt/               ([Formal] 襲撃、暴行)           The assault on the fortress failed.
-- `raid` /reɪd/                     ([Neutral] 急襲、襲撃)          The enemy launched a raid at dawn.
-- `raider` /ˈreɪdə/               ([Neutral] 襲撃者、侵略者)      The raiders attacked at night.
-- `raider` /ˈreɪdər/              ([Neutral] 襲撃者)              The raiders stole everything.
+## Political Crime
+> `embezzlement` /ɪmˈbezəlmənt/     ([Formal] 横領)                 He was convicted of embezzlement.
+  - `embezzler` /ɪmˈbezələr/        ([Formal] 横領者)               The embezzler was sentenced to prison.
+  - `misappropriation`              ([Formal] 不正流用)             Misappropriation of funds is illegal.
+  - `defalcation` /ˌdiːfælˈkeɪʃən/  ([Formal] 横領、公金着服)       Defalcation is a serious crime.
+  - `peculation` /ˌpekjəˈleɪʃən/    ([Formal] 公金横領)             He was charged with peculation.
 
 - `flaw` /flɔː/                   ([Neutral] 欠点、欠陥)          There's a flaw in the design.
 - `flawed` /flɔːd/                ([Neutral] 欠陥のある)          The plan was fundamentally flawed.
-- `flawless` /ˈflɔːləs/             ([Neutral] 欠点のない、完璧な)  Her performance was flawless.
 - `flawless` /ˈflɔːləs/           ([Formal] 欠点のない、完璧な)   Her technique was flawless.
 
 > `judicial` /dʒuːˈdɪʃəl/          ([Formal] 司法の、裁判の)       The judicial system needs reform.
@@ -89,8 +108,9 @@
   - `juridical` /dʒʊˈrɪdɪkəl/      ([Formal] 法律上の、司法の)     The juridical framework is complex.
   - `forensic` /fəˈrensɪk/         ([Formal] 法廷の、科学捜査の)   Forensic evidence proved his guilt.
   - `jurisprudential` /ˌdʒʊrɪsprʊˈdenʃəl/ ([Writing] 法理学の)  This is a jurisprudential question.
-  - `lawful` /ˈlɔːfəl/             ([Formal] 合法的な、適法な)     The arrest was lawful.
 - `judiciary` /dʒuːˈdɪʃieri/       ([Formal] 司法部、司法制度)     The judiciary is independent.
+
+  - `lawful` /ˈlɔːfəl/             ([Formal] 合法的な、適法な)     The arrest was lawful.
 
 - `judgment` /ˈdʒʌdʒmənt/          ([Neutral] 判断、判決)          He showed good judgment in the crisis.
 
