@@ -1,23 +1,28 @@
 # Law and Crime
 
-## Authentication
-> `acceptance` /əkˈseptəns/         ([Neutral] 受け入れ、承認)      His acceptance of the offer was quick.
-  - `approval` /əˈpruːvəl/          ([Neutral] 承認、賛成)          The plan needs your approval.
-  - `consent` /kənˈsent/            ([Neutral] 同意、承諾)          She gave her consent to proceed.
-  - `permission` /pərˈmɪʃən/        ([Neutral] 許可、承認)          You need permission to enter.
-  - `tolerance` /ˈtɑːlərəns/        ([Neutral] 寛容、黙認)          He showed tolerance for mistakes.
-  - `recognition` /ˌrekəɡˈnɪʃən/    ([Neutral] 認識、承認)          The recognition of his work was overdue.
-  - `endorsement` /ɪnˈdɔːrsmənt/    ([Formal] 支持、承認)           His endorsement was important.
-  - `authorization` /ˌɔːθərəˈzeɪʃən/([Formal] 許可、認可)           You need authorization to access this.
-  - `allowance` /əˈlaʊəns/          ([Neutral] 許容、手当)          They made allowance for delays.
-  - `acquiescence` /ˌækwiˈesəns/    ([Formal] 黙認、消極的同意)     His silence implied acquiescence.
-  - `sanction` /ˈsæŋkʃən/           ([Formal] 認可、制裁)           The plan received official sanction.
-  - `assent` /əˈsent/               ([Formal] 同意、賛成)           He gave his assent to the proposal.
-  - `concession` /kənˈseʃən/        ([Formal] 譲歩、容認)           They made a concession to reach agreement.
-  - `ratification` /ˌrætɪfɪˈkeɪʃən/ ([Formal] 批准、承認)           The treaty awaits ratification.
-  - `acknowledgment` /əkˈnɑːlɪdʒmənt([Formal] 承認、認識)           His acknowledgment came too late.
-
 ## Law
+> `legal` /ˈliːɡəl/                 ([Neutral] 法律の、合法的な)    They took legal action.
+  - `judicial` /dʒuːˈdɪʃəl/         ([Formal] 司法の、裁判の)       The judicial system needs reform.
+  - `judiciary` /dʒuːˈdɪʃieri/      ([Formal] 司法部、司法制度)     The judiciary is independent.
+  - `judicature` /ˈd͡ʒuːdɪˌkeɪt͡ʃɚ/   ([Formal] 司法権、裁判制度)     The judicature handles all cases.
+  - `forensic` /fəˈrensɪk/          ([Formal] 法廷の、科学捜査の)   Forensic evidence proved his guilt.
+  - `statutory` /ˈstæt͡ʃəˌtɔɹi/      ([Formal] 法定の、制定法の)     This is a statutory requirement.
+  - `juridical` /dʒʊˈrɪdɪkəl/       ([Formal] 法律上の、司法の)     The juridical framework is complex.
+  - `jurisprudential`               ([Writing] 法理学の)  This is a jurisprudential question.
+> `valid` /ˈvælɪd/                  ([Neutral] 有効な、妥当な)      The contract is still valid.
+  - `legitimate` /ləˈd͡ʒɪtɪmət/      ([Neutral] 正当な、合法的な)    That's a legitimate concern.
+  - `lawful` /ˈlɔːfəl/              ([Formal] 合法的な、適法な)     The arrest was lawful.
+  - `legality` /liˈɡæləti/          ([Formal] 合法性)               They questioned the legality of the decision.
+  - `legitimacy` /ləˈd͡ʒɪtɪməsi/     ([Formal] 正当性、合法性)       The legitimacy was challenged.
+  - `validity` /vəˈlɪdɪti/          ([Formal] 有効性、妥当性)       We checked the validity of the claim.
+  - `licit` /ˈlɪsɪt/                ([Formal] 合法的な、適法な)     The transaction was licit.
+> `decision` /dɪˈsɪʒən/             ([Neutral] 決定、判断)          The court reached a decision.
+  - `judgment` /ˈdʒʌdʒmənt/         ([Neutral] 判断、判決)          He showed good judgment in the crisis.
+  - `verdict` /ˈvɝdɪkt/             ([Neutral] 評決、判決)          The jury returned a guilty verdict.
+  - `ruling` /ˈɹuːlɪŋ/              ([Neutral] 裁定、判決)          The judge issued a ruling.
+  - `sentence` /ˈsɛntəns/           ([Neutral] 刑罰、判決)          He received a ten-year sentence.
+  - `decree` /dɪˈkɹiː/              ([Formal] 命令、判決)           The court issued a decree.
+  - `adjudication` /ədˌd͡ʒudɪˈkeɪʃən/([Formal] 判決、裁定)           The adjudication was final.
 > `charge` /tʃɑːrdʒ/                ([Neutral] [警察] 告発、容疑)     He faces a serious charge.
   - `indictment` /ɪnˈdaɪtmənt/      ([Legal] [大陪審] 起訴、告発)     The grand jury issued an indictment.
   - `prosecution` /ˌprɑːsɪˈkjuːʃən/ ([Legal] [検察] 起訴、検察側)     The prosecution presented evidence.
@@ -99,21 +104,9 @@
   - `defalcation` /ˌdiːfælˈkeɪʃən/  ([Formal] 横領、公金着服)       Defalcation is a serious crime.
   - `peculation` /ˌpekjəˈleɪʃən/    ([Formal] 公金横領)             He was charged with peculation.
 
-- `flaw` /flɔː/                   ([Neutral] 欠点、欠陥)          There's a flaw in the design.
-- `flawed` /flɔːd/                ([Neutral] 欠陥のある)          The plan was fundamentally flawed.
-- `flawless` /ˈflɔːləs/           ([Formal] 欠点のない、完璧な)   Her technique was flawless.
-
-> `judicial` /dʒuːˈdɪʃəl/          ([Formal] 司法の、裁判の)       The judicial system needs reform.
-  - `legal` /ˈliːɡəl/              ([Neutral] 法律の、合法的な)    They took legal action.
-  - `juridical` /dʒʊˈrɪdɪkəl/      ([Formal] 法律上の、司法の)     The juridical framework is complex.
-  - `forensic` /fəˈrensɪk/         ([Formal] 法廷の、科学捜査の)   Forensic evidence proved his guilt.
-  - `jurisprudential` /ˌdʒʊrɪsprʊˈdenʃəl/ ([Writing] 法理学の)  This is a jurisprudential question.
-- `judiciary` /dʒuːˈdɪʃieri/       ([Formal] 司法部、司法制度)     The judiciary is independent.
-
-  - `lawful` /ˈlɔːfəl/             ([Formal] 合法的な、適法な)     The arrest was lawful.
-
-- `judgment` /ˈdʒʌdʒmənt/          ([Neutral] 判断、判決)          He showed good judgment in the crisis.
-
-- `legality` /liˈɡæləti/            ([Formal] 合法性)              They questioned the legality of the decision.
-
-- `prisoner` /ˈprɪzənər/             ([Neutral] 囚人、捕虜)          The prisoner escaped last night.
+## Jail
+> `prisoner` /ˈprɪzənər/            ([Neutral] 囚人、捕虜)          The prisoner escaped last night.
+  - `inmate` /ˈɪnmeɪt/              ([Neutral] 受刑者、収容者)      The inmate was released early.
+  - `convict` /ˈkɑnvɪkt/            ([Neutral] 有罪判決を受けた囚人)The convict served ten years.
+  - `detainee` /ˌdɪteɪˈniː/         ([Formal] 被拘留者)             The detainee awaits trial.
+  - `captive` /ˈkæptɪv/             ([Writing] 捕虜、人質)          The captives were held for ransom.

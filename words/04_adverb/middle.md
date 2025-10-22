@@ -30,6 +30,11 @@
   - `notoriously` /noʊˈtɔːriəsli/   ([Formal] 悪名高いほど)         This area is notoriously difficult.
   - `infamously` /ˈɪnfəməsli/       ([Formal] 悪名高いことに)       He's infamously unreliable.
   - `a lot` /ə ˈlɑt/                ([Casual] とても、すごく)       Thanks a lot for listening to me.
+  - `legit` /ləˈdʒɪt/               ([Casual] 本当に、マジで)       I legit thought he was joking.
+  - `literally` /ˈlɪtərəli/         ([Neutral] 文字通り、本当に)    I'm literally starving right now.
+  - `genuinely` /ˈdʒenjuɪnli/       ([Neutral] 本当に、心から)      I'm genuinely happy for you.
+  - `really` /ˈriːəli/              ([Neutral] 本当に、本気で)      I really appreciate your help.
+  - `truly` /ˈtruːli/               ([Neutral] 本当に、真に)        I'm truly sorry for the mistake.
 
 ## FREQUENCY (generally / sometimes / always)
 > `generally` /ˈdʒenərəli/          ([Neutral] たいてい、一般的に)  I generally wake up at 7 AM.

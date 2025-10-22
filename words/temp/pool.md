@@ -1042,7 +1042,6 @@ decoration	5	【名】飾り付け
 decorative	8	【形】装飾的な、装飾本位の		
 decorum	12	【名】礼儀正しさ、適切なもの、秩序正しさ		
 decoy	12	【名】おとり 【動】おびき寄せる		
-decree	9	【動】命じる 【名】法令、布告		
 dedicate	6	【動】ささげる、献身する		
 dedication	8	【名】献納、奉納、献身、専念		
 deduce	10	【動】推定する、演繹する		
@@ -1692,7 +1691,6 @@ forefront	8	【名】最前部、最前線
 foreground	9	【名】最前面、最も目立つ位置		
 forehead	5	【名】額、前額部		
 foreman	11	【名】工事現場の監督、作業長、陪審長		
-forensic	11	【形】法医学的な、犯罪科学の、法廷の		
 forestall	11	【動】未然に防ぐ、先手を打つ、買い占める		
 forestry	8	【名】林業、林学、森林管理、森林地		
 foretell	9	【動】予言する、予告する		
@@ -2370,7 +2368,6 @@ launder	11	【動】金の出所を隠す、マネーロンダリングする
 laureate	11	【名】受賞者、名誉を受けた人 【形】ある分野で優秀な		
 lava	12	【名】溶岩		
 lavatory	11	【名】洗面所		
-lawful	7	【形】法の認めた、正当な		
 lawmaking	7	【形】立法の		
 lawn	3	【名】芝生、芝地		
 lawsuit	8	【名】訴訟、告訴		
@@ -2390,8 +2387,6 @@ legion	11	【名】大群、部隊、軍団
 legislation	4	【名】立法行為、法律制定		
 legislative	7	【形】立法上の		
 legislator	10	【名】立法者		
-legitimacy	9	【名】合法、適法、正当		
-legitimate	7	【形】合法の、適法の、正当の 【動】合法化する		
 leisurely	11	【形】ゆうゆうとした 【副】ゆったりと		
 lesion	12	【名】損傷、障害、病巣		
 lethal	9	【形】致命的な		
@@ -3878,7 +3873,6 @@ stationary	8	【形】静止した、同じ状態を保つ、固定された
 stationery	4	【名】文房具、便せん		
 stature	8	【名】名声、身長、発達		
 statute	8	【名】法令、制定法、規則		
-statutory	10	【形】法定の、制定法に従う		
 staunch	11	【形】忠実な、頑丈な、揺るぎない		
 stave	11	【名】桶板、さお 【動】桶板をはずす		
 stead	12	【名】代わり、有用、利益		
@@ -4354,7 +4348,6 @@ ventilate	10	【動】空気を通す、酸素を供給する
 ventilation	10	【名】換気、自由な討議		
 venue	7	【名】会場、現場		
 verbal	7	【形】言葉の、口頭の 【名】準動詞		
-verdict	9	【名】評決、判断		
 verge	9	【名】境界、端、瀬戸際 【動】縁にある、へりを成す		
 veritable	11	【形】まぎれもない、本当の		
 vernacular	11	【形】その土地固有の 【名】その土地の言葉（the ～）		

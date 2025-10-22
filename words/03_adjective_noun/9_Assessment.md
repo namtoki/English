@@ -487,3 +487,11 @@
 - `vigorous` /ˈvɪɡərəs/             ([Formal] 精力的な、熱心な)     They had a vigorous debate.
 - `zealous` /ˈzeləs/                ([Formal] 熱心な、熱狂的な)     He's zealous about his work.
 - `a blur` /ə blɜːr/                ([Neutral] ぼんやりしている)    Last weekend was a blur.
+
+## AUTHENTIC / LEGITIMATE
+> `legit` /ləˈdʒɪt/                  ([Casual] ちゃんとしてる、本物)  This website is legit.
+  - `genuine` /ˈdʒenjuɪn/            ([Neutral] 本物の、純正の)      This is a genuine Rolex.
+  - `authentic` /ɔːˈθentɪk/          ([Neutral] 本物の、信頼できる)  The painting is authentic.
+  - `real` /riːl/                    ([Neutral] 本物の、真の)        Is this real leather?
+  - `valid` /ˈvælɪd/                 ([Neutral] 有効な、正当な)      Your passport is still valid.
+  - `bona fide` /ˌboʊnə ˈfaɪdi/     ([Formal] 真正な、誠実な)       He's a bona fide expert.

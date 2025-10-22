@@ -43,3 +43,25 @@ what it's like to V
 - `support` /səˈpɔːrt/            ([Neutral] 支持、支援)          He gave his full support.
 - `warranted` /ˈwɔːrəntɪd/          ([Formal] 正当化された、保証された) His concern was warranted.
 - `warranty` /ˈwɔːrənti/            ([Formal] 保証書、保証)         The warranty covers repairs.
+
+- `flaw` /flɔː/                   ([Neutral] 欠点、欠陥)          There's a flaw in the design.
+- `flawed` /flɔːd/                ([Neutral] 欠陥のある)          The plan was fundamentally flawed.
+- `flawless` /ˈflɔːləs/           ([Formal] 欠点のない、完璧な)   Her technique was flawless.
+
+## Authentication
+> `acceptance` /əkˈseptəns/         ([Neutral] 受け入れ、承認)      His acceptance of the offer was quick.
+  - `approval` /əˈpruːvəl/          ([Neutral] 承認、賛成)          The plan needs your approval.
+  - `consent` /kənˈsent/            ([Neutral] 同意、承諾)          She gave her consent to proceed.
+  - `permission` /pərˈmɪʃən/        ([Neutral] 許可、承認)          You need permission to enter.
+  - `tolerance` /ˈtɑːlərəns/        ([Neutral] 寛容、黙認)          He showed tolerance for mistakes.
+  - `recognition` /ˌrekəɡˈnɪʃən/    ([Neutral] 認識、承認)          The recognition of his work was overdue.
+  - `endorsement` /ɪnˈdɔːrsmənt/    ([Formal] 支持、承認)           His endorsement was important.
+  - `authorization` /ˌɔːθərəˈzeɪʃən/([Formal] 許可、認可)           You need authorization to access this.
+  - `allowance` /əˈlaʊəns/          ([Neutral] 許容、手当)          They made allowance for delays.
+  - `acquiescence` /ˌækwiˈesəns/    ([Formal] 黙認、消極的同意)     His silence implied acquiescence.
+  - `sanction` /ˈsæŋkʃən/           ([Formal] 認可、制裁)           The plan received official sanction.
+  - `assent` /əˈsent/               ([Formal] 同意、賛成)           He gave his assent to the proposal.
+  - `concession` /kənˈseʃən/        ([Formal] 譲歩、容認)           They made a concession to reach agreement.
+  - `ratification` /ˌrætɪfɪˈkeɪʃən/ ([Formal] 批准、承認)           The treaty awaits ratification.
+  - `acknowledgment` /əkˈnɑːlɪdʒmənt([Formal] 承認、認識)           His acknowledgment came too late.
+

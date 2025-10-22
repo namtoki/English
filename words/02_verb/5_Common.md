@@ -1309,6 +1309,14 @@
   - `overlook` /ˌoʊvərˈlʊk/         ([Neutral] 見落とす、見逃す)    Don't overlook the details.
   - `let slip` /let slɪp/           ([Neutral] 逃す、漏らす)        I let the chance slip away.
 
+## DEPLETION
+> `run out of` /rʌn aʊt ʌv/        ([Neutral] 使い果たす)          We ran out of milk.
+  - `use up` /juːz ʌp/              ([Neutral] 使い切る)            We used up all the flour.
+  - `exhaust` /ɪɡˈzɔːst/            ([Formal] 使い果たす)           They exhausted their savings.
+  - `deplete` /dɪˈpliːt/            ([Formal] 枯渇させる)           War depleted their resources.
+  - `go through` /ɡoʊ θruː/         ([Neutral] 使い果たす)          We went through two bottles.
+  - `consume` /kənˈsuːm/            ([Neutral] 消費する)            The fire consumed the building.
+
 
 - `abominate` /əˈbɑːmɪneɪt/       ([Formal] 嫌悪する)             I abominate dogma.
 - `abort` /əˈbɔːrt/               ([Formal] 中止する)             We had to abort the mission.

@@ -401,3 +401,11 @@
 - `plain and simple`                ([Casual] 単純明快)             He lied to us, plain and simple.
 - `that's all there is to it`       ([Casual] それだけのこと)       Just study hard. That's all there is to it.
 - `nothing more to it`              ([Casual] それ以上何もない)     Press the button and wait. Nothing more to it.
+
+## PRIVACY / BOUNDARIES
+> `none of one's business`          ([Neutral] 関係ない、余計なお世話) That's none of your business.
+  - `not one's concern`             ([Neutral] 関係ない)            How I spend my money is not your concern.
+  - `mind one's own business`       ([Casual] 自分の事だけ気にする) Why don't you mind your own business?
+  - `stay out of`                   ([Casual] 首を突っ込まない)     Please stay out of this matter.
+  - `keep out of`                   ([Neutral] 関わらない)          I try to keep out of office politics.
+  - `butt out`                      ([Casual] 首を突っ込むな)       Just butt out, okay?
