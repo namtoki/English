@@ -1,52 +1,36 @@
 # TODAY
 
-## Communication Tools
+## Onboarding
 
-### JIRA - Our JIRA Principles
+Even when a user owns a C500 or C840, the app displays only PerL Pro 2 images like this, right?
 
-Hi, I'm Toshiyuki Tanamura, a software team member on the Harman side.
+My concern is whether the app intentionally avoids showing images of other products like the C500 and C840.
 
-When it comes to how we manage tasks collaboratively, we'd like to use JIRA on the Harman side, as we did in the C500 and C840 projects.
+I understand this landing video is meant to enhance user satisfaction and engagement.
+Additionally, if this landing video also serves to promote the PerL Pro 2 to users of the PerL1, C500, or C840, then this approach would make sense.
 
-And if you are familiar with JIRA, you may notice that JIRA is based on some Agile frameworks, like Scrum and Kanban.
-That being said, we don't enforce Eastech's work to follow a particular Agile framework.
+---
 
-This is our core principle. So to speak, "No Framework Required: Eastech Drives Your Own Process."
+I don't think this flow enhances effectiveness, while the implementation effort is quite high.
 
-In other words, Eastech can feel free to move forward with tasks using your own management style.
-This is the core principle.
+Even if we were to adopt this approach,
+I don't believe it would improve signup efficiency.
+Instead, it seems like it would only increase the development workload.
 
-Based on that, how do we manage our tasks practically? The practical principle comes in now.
-The practical principle is simple.
-If you open the JIRA project, you can see "Main Board" here and we will monitor all the progress from here.
-In this board, there are just a few tabs because I trimmed it down and kept only the necessary ones.
+Here's why:
+`I understand the benefit that`
+iOS and Android's built-in password management systems can automatically generate and save passwords, which saves users from manually typing them.
+However, users would still need to check their email app and click the verification link.
+`Since` they have to open the email app `anyway`, I don't think the number of steps is dramatically different from the current 6-digit two-factor authentication method.
 
-And almost all the time, you will see the "Timeline", and you can see some Milestones because we'd like to manage tasks based on Milestones.
-One thing to be aware of is that these milestones are displayed in the "Sprints" line, but you should think of this as "Milestones." This is one of JIRA's system limitations.
+we would need to prepare several onboarding screens to inform existing users when they open the app,
+saying something like "The login method has changed. Please set up a new password." I'd prefer to avoid this.
 
-### JIRA - Practical Details
+---
 
-Next, there are four types of detailed guidelines: work types, work flow, and milestones and releases.
-I'd appreciate it if you could review this after the meeting, but now I'm gonna walk you through them briefly.
+Sorry, I understand that the reason you want to introduce a password feature
+is because it would enable users to log in to the system without having to reenter their login information, right?
 
-#### Work type
+In other words, the current login system requires users to reenter their login information every time, right?
 
-First of all, work types. As you know, JIRA is a ticket-based system, and each ticket has a work type, like these.
-You can use 7 types of work types and their definitions are here.
-
-To make a long story short, there is a three-level hierarchy: Epic is the only top-level hierarchy, Sub-task is the only bottom-level hierarchy, and the others are middle-level hierarchy. That's it.
-
-Basically, the Harman side will create some Epics at least, and under the Epics, you can freely create Developments, Tasks, Subtasks, etc.
-
-As we use it, if there are any inconveniences, we'd like to update it as needed.
-
-#### Work flow
-
-Second, work flow. Each work type has its preprogrammed workflow.
-In this section, the only thing you should keep in mind is that some types have a limitation that only the reporter or SQA personnel are allowed to close these tickets.
-As we use it, if there are any inconveniences, we'd like to update it as needed.
-
-#### Milestones and Releases
-
-Finally, milestones and releases. Regarding these, the Harman side manages them and you'll get used to them in the course of this project.
-So you can skip reading this section.
+From what I've seen, the current app already handles this behavior well.

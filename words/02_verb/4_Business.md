@@ -780,3 +780,33 @@
 
   - `lean towards` /liːn təˈwɔːrdz/ ([Neutral] 傾く、選ぶ傾向)      I'm leaning towards the first option.
   - `favor` /ˈfeɪvər/               ([Neutral] 好む、選ぶ)          I favor the conservative approach.
+
+
+## EFFORT / TRY HARD (give it one's best shot / go all out / give one's all)
+> `give it one's best shot`         ([Casual] 全力を尽くす)         I'll give it my best shot and see what happens.
+  - `go all out`                    ([Casual] 全力を尽くす)         Let's go all out and win this game!
+  - `give one's all`                ([Neutral] 全力を尽くす)        She gave her all in the competition.
+  - `do one's utmost`               ([Formal] 最善を尽くす)         We will do our utmost to meet the deadline.
+  - `take a crack at O`             ([Casual] 試してみる)           I'll take a crack at fixing the computer.
+  - `take a stab at O`              ([Casual] 試してみる)           Let me take a stab at solving this puzzle.
+> `have guts` /hæv ɡʌts/            ([Casual] 勇気がある)           It takes guts to speak up.
+  - `bite the bullet` /baɪt ðə ˈbʊlɪt/ ([Neutral] 困難を受け入れる)  He bit the bullet and signed the lease.
+  - `take the plunge` /teɪk ðə plʌndʒ/ ([Casual] 思い切って行動)     She took the plunge with the new job.
+  - `brave it out` /breɪv ɪt aʊt/  ([Neutral] 勇敢に耐える)        I decided to brave it out.
+  - `intestinal fortitude` /ˌɪnteˌstaɪnl ˈfɔːrtɪtuːd/ ([Formal] 不屈の精神) He lacked the intestinal fortitude.
+  - `have the courage of one's convictions` /hæv ðə ˈkʌrɪdʒ əv wʌnz kənˈvɪkʃənz/ ([Formal] 信念を貫く) She had the courage of her convictions.
+
+## OPPOSITE / REVERSE (the other way around / vice versa)
+> `the other way around`            ([Casual] 逆)                   I thought you called me, not the other way around.
+  - `the other way round`           ([Casual] 逆)                   Put the fork on the left, not the other way round.
+  - `vice versa` /ˌvaɪsi ˈvɜːrsə/   ([Neutral] 逆もまた同様)        I help you and vice versa.
+  - `inversely` /ɪnˈvɜːrsli/        ([Formal] 逆に)                 Price increases inversely with demand.
+  - `contrarily` /ˈkɑːntrərəli/     ([Formal] 反対に)               Contrarily, evidence shows otherwise.
+
+## PRIVACY / BOUNDARIES
+> `none of one's business`          ([Neutral] 関係ない、余計なお世話) That's none of your business.
+  - `not one's concern`             ([Neutral] 関係ない)            How I spend my money is not your concern.
+  - `mind one's own business`       ([Casual] 自分の事だけ気にする) Why don't you mind your own business?
+  - `stay out of`                   ([Casual] 首を突っ込まない)     Please stay out of this matter.
+  - `keep out of`                   ([Neutral] 関わらない)          I try to keep out of office politics.
+  - `butt out`                      ([Casual] 首を突っ込むな)       Just butt out, okay?

@@ -1,6 +1,6 @@
 # Tail
 
-## WHY (because / to)
+## WHY (`because` / `in order to` / `so that`)
 > `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
   - `because of` /bɪˈkɔːz əv/       ([Neutral] ～のため)            The game was canceled because of rain.
   - `so` /soʊ/                      ([Casual] だから)               I was hungry, so I ate a sandwich.
@@ -44,7 +44,7 @@
   - `in order that` /ɪn ˈɔːrdər ðæt/([Formal] ～するために)         Mary spoke loudly in order that everyone could hear.
   - `endeavor to` /ɪnˈdevər tuː/    ([Formal] ～しようと努力する)   We endeavor to provide excellent service.
 
-## WHY (based on / as long as / as far as / just in case)
+## WHY (`based on` / as long as / as far as / just in case)
 > `based on` /beɪst ɑːn/            ([Neutral] ～に基づいて)        Based on the data, we made a decision.
   - `just based on` /dʒʌst beɪst ɑːn([Neutral] ただ～に基づいて)    Just based on his word, I can't be sure.
   - `in terms of` /ɪn tɜːrmz əv/    ([Neutral] ～の観点から)        In terms of cost, it's expensive.
@@ -69,7 +69,7 @@
   - `lest` /lest/                   ([Formal] ～しないように)       Study hard lest you fail the exam.
   - `for fear that`                 ([Formal] ～を恐れて)           He whispered for fear that someone might hear.
 
-## ALTHOUGH (even though / even if / instead of / unlike)
+## ALTHOUGH (even though / even if / `whether or not` / instead of / unlike)
 > `even though` /ˈiːvən ðoʊ/        ([Neutral] 〜にも関わらず)      Even though he's new to the team, ~~
   - `although` /ɔːlˈðoʊ/            ([Neutral] 〜にも関わらず)      Although it was raining, we went for a walk.
   - `though` /ðoʊ/                  ([Casual] 〜だけど)             I'll help you, though I'm really busy.
@@ -80,11 +80,11 @@
   - `with all` /wɪð ɔːl/            ([Formal] 〜があっても)         With all his experience, he still made a rookie mistake.
   - `notwithstanding`               ([Formal] 〜にもかかわらず)     Notwithstanding the difficulties, we succeeded.
 > `even if` /ˈiːvən ɪf/             ([Neutral] たとえ〜しても)      Even if it rains, we'll still go to the park.
-  - `whether or not`                ([Neutral] するしない関係なく)  I'm going whether or not you come with me.
-  - `no matter what` /noʊ ˈmætər wʌt([Neutral] 何があっても)        No matter what happens, I'll support you.
   - `no matter how` /noʊ ˈmætər haʊ/([Neutral] どんなに〜でも)      No matter how hard I try, I can't solve this.
   - `however much` /haʊˈevər mʌtʃ/  ([Neutral] どれだけ〜しても)    However much you study, there's always more to learn.
   - `regardless` /rɪˈɡɑːrdləs/      ([Neutral] それでも)            He went ahead regardless of the risks.
+> `whether or not`                  ([Neutral] するしない関係なく)  I'm going whether or not you come with me.
+  - `no matter what` /noʊ ˈmætər wʌt([Neutral] 何があっても)        No matter what happens, I'll support you.
   - `come what may` /kʌm wʌt meɪ/   ([Formal] 何が起ころうと)       Come what may, we'll face it together.
   - `whatever happens`              ([Casual] 何があっても)         Whatever happens, don't give up.
 > `instead of` /ɪnˈsted əv/         ([Neutral] ～の代わりに)        We stayed home instead of going out.
@@ -105,10 +105,10 @@
   - `departing from`                ([Formal] ～から逸脱して)       Departing from the script, he improvised his speech.
   - `differing from` /ˈdɪfərɪŋ frʌm/([Neutral] ～と異なって)        Differing from his colleagues, he supported the proposal.
 
-## FEELING (in the first place)
+## FEELING (`in the first place`)
 > `in the first place`              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
 
-## DETAIL (in the sense that / in a way that / to the point where)
+## DETAIL (`in the sense that` / `in a way that` / `to the point where`)
 > `in the sense that`               ([Neutral] ～という意味で)      It's good in the sense that it's cheaper.
   - `in that` /ɪn ðæt/              ([Formal] ～という点で)         The plan is good in that it saves money.
   - `in a way` /ɪn ə weɪ/           ([Casual] ある意味で)           In a way, you're right about that.

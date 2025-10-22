@@ -38,7 +38,7 @@
   - `I appreciate your help as always.`
   - `I always appreciate your business.`
 
-## REPLY (Understood / Will do / Happy to help)
+## REPLY (`Understood` / `Will do` / Happy to help)
 > `Understood`                      ([Formal] 了解しました)         Please prioritize this. Understood.
   - `Got it`                        ([Casual] 了解です)             Please finish by 5. Got it.
   - `You got it`                    ([Casual] 了解です)             Close the door, please. You got it.
@@ -137,7 +137,7 @@
   - `Of course`                     ([Neutral] もちろんです)        Thanks for letting me know. Of course.
 > `That's really something`         ([Casual] 大したもんだね)       Wow, you finished the project early? That's really something!
 
-## OPINION (How can I put this? / You lost me / Come again?)
+## OPINION (`How can I put this?` / `You lost me` / `Come again?`)
 > `How can I put this?`             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
   - `What can I say`                ([Casual] なんというか)         I love coffee too much. What can I say?
   - `What do you want me to say`    ([Casual] 何て言えばいいの)     I failed again. What do you want me to say?
@@ -162,23 +162,21 @@
 > `Come again?`                     ([Casual] もう一回言って)       Come again? I didn't catch that.
   - `Sorry, what?`                  ([Casual] え、何？)             Sorry, what? I missed that.
 
-## OPINION (S V-ing / That's the way I like it)
+## OPINION (S V-ing / `That doesn't mean S V` / `A is one thing, but B is another`)
 > `S V-ing. That is C`              ([Neutral] している。それはCだ) Working overtime. That is exhausting.
   - `S V-ing, that'd be C`          ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
   - `S V. That I V`                 ([Neutral] Vだ。それは私がVだ)  It's raining. That I don't mind at all.
-> `that's the way S V`              ([Neutral] このやり方が)        That's the way I like it. / That's the way I prefer it.
+  - `that's the way S V`            ([Neutral] このやり方が)        That's the way I like it. / That's the way I prefer it.
 > `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
   - `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
   - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
-- `A is one thing, but B is another`([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
-- `it's not always the case that`   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
-- `that's not to say that S V`      ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
+  - `it's not always the case that` ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
+  - `that's not to say that S V`    ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
+> `A is one thing, but B is another`([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
 > `It's a custom to V`              ([Neutral] ～する習慣がある)    It's a custom to give gifts during the holidays.
   - `It's traditional to V`         ([Neutral] ～するのが伝統だ)    It's traditional to celebrate New Year's with family.
 - `There're times when S V`         ([Neutral] ～する時もある)      There're times when I feel overwhelmed with work.
 - `There's a side to A that S V`    ([Neutral] 一面がある)          There's a side to her that most people never see.
-
-## OPINION (at the moment)
 > `I'm V-ing ... at the moment.`    ([Casual] 今まさに～している)   I'm working on the report at the moment.
   - `I'm still working on it`       ([Casual] まだ取り組んでいる)   I'm still working on it, but I should be done soon.
   - `I'm in the middle of something`([Casual] 今手が離せない)       I'm in the middle of something right now, can I call you back?
@@ -186,7 +184,7 @@
 > `Leave it there`                  ([Casual] それで終わりにしよう) Let's `leave it there` for today.
   - `So much for O`                 ([Casual] これで終わ,期待外れ)  `So much for` our plans to go hiking.
 
-## OPINION (I'm fine with / No rush / That would be great / That's the way it is)
+## OPINION (`I'm fine with` / No rush / `That would be great` / `That's the way it is`)
 > `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
   - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
   - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
@@ -211,8 +209,8 @@
   - `It is what it is`              ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
   - `That's just me`                ([Casual] それが私だから)       I can't help being late. That's just me.
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
-- `I hope not`                          ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
-- `I hope I'm not interrupting you.`    ([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
+- `I hope not`                      ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
+- `I hope I'm not interrupting you.`([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
 > `this is just one possibility`    ([Neutral] 可能性の話しだけど)  There may be other approaches as well — this is just one possibility.
   - `this is one option`             ([Neutral] これは一つの選択肢)  This is one option we could consider.
   - `this is one approach`           ([Neutral] これは一つの方法)    This is one approach to solving the problem.
@@ -252,7 +250,7 @@
   - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
   - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
 
-## QUESTIONS (DOES THAT SOUND C? / WHAT'S YOUR TAKE ON? / WHAT ARE THE CHANCES THAT ...? / )
+## QUESTIONS (`Does that sound C?` / `What's your take on?` / `What are the chances that ...?`)
 > `Does that sound C?`              ([Casual] C のように聞こえる？) `Does that sound` good?
 > `What's your take on O?`          ([Casual] どう思う？)           `What's your take on` the new iPhone?
   - `Any thoughts on O?`            ([Casual] 何か意見ある？)
@@ -283,7 +281,7 @@
 - `Do/Would you happen to V?`       ([Polite] たまたま～ですか？)   Do you happen to know the time?
 - `Do you think you could V?`       ([Polite] してもらえる？)       Do you think you could talk to her?
 
-## WOULD YOU / COULD YOU / WOULD IT BE POSSIBLE TO / I'D APPRECIATE IT IF YOU COULD
+## WOULD YOU / COULD YOU / WOULD IT BE POSSIBLE TO / I'D APPRECIATE IT IF YOU COULD)
 > `Could you V?`                    ([Neutral] してもらえる？)      Could you help me with this?
 > `Would you V?`                    ([Polite] してもらえますか？)   Would you pass me the salt?
 > `Can you V?`                      ([Casual] してくれる？)         Can you send me the file?
@@ -368,27 +366,6 @@
   - `Just like before`              ([Neutral] 以前と同じ)          It's happening just like before.
   - `Déjà vu`                       ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.
 
-## EFFORT / TRY HARD (give it one's best shot / go all out / give one's all)
-> `give it one's best shot`         ([Casual] 全力を尽くす)         I'll give it my best shot and see what happens.
-  - `go all out`                    ([Casual] 全力を尽くす)         Let's go all out and win this game!
-  - `give one's all`                ([Neutral] 全力を尽くす)        She gave her all in the competition.
-  - `do one's utmost`               ([Formal] 最善を尽くす)         We will do our utmost to meet the deadline.
-  - `take a crack at O`             ([Casual] 試してみる)           I'll take a crack at fixing the computer.
-  - `take a stab at O`              ([Casual] 試してみる)           Let me take a stab at solving this puzzle.
-> `have guts` /hæv ɡʌts/            ([Casual] 勇気がある)           It takes guts to speak up.
-  - `bite the bullet` /baɪt ðə ˈbʊlɪt/ ([Neutral] 困難を受け入れる)  He bit the bullet and signed the lease.
-  - `take the plunge` /teɪk ðə plʌndʒ/ ([Casual] 思い切って行動)     She took the plunge with the new job.
-  - `brave it out` /breɪv ɪt aʊt/  ([Neutral] 勇敢に耐える)        I decided to brave it out.
-  - `intestinal fortitude` /ˌɪnteˌstaɪnl ˈfɔːrtɪtuːd/ ([Formal] 不屈の精神) He lacked the intestinal fortitude.
-  - `have the courage of one's convictions` /hæv ðə ˈkʌrɪdʒ əv wʌnz kənˈvɪkʃənz/ ([Formal] 信念を貫く) She had the courage of her convictions.
-
-## OPPOSITE / REVERSE (the other way around / vice versa)
-> `the other way around`            ([Casual] 逆)                   I thought you called me, not the other way around.
-  - `the other way round`           ([Casual] 逆)                   Put the fork on the left, not the other way round.
-  - `vice versa` /ˌvaɪsi ˈvɜːrsə/   ([Neutral] 逆もまた同様)        I help you and vice versa.
-  - `inversely` /ɪnˈvɜːrsli/        ([Formal] 逆に)                 Price increases inversely with demand.
-  - `contrarily` /ˈkɑːntrərəli/     ([Formal] 反対に)               Contrarily, evidence shows otherwise.
-
 ## CLICHE
 - `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, I was on mute and didn’t hear you.
@@ -401,11 +378,3 @@
 - `plain and simple`                ([Casual] 単純明快)             He lied to us, plain and simple.
 - `that's all there is to it`       ([Casual] それだけのこと)       Just study hard. That's all there is to it.
 - `nothing more to it`              ([Casual] それ以上何もない)     Press the button and wait. Nothing more to it.
-
-## PRIVACY / BOUNDARIES
-> `none of one's business`          ([Neutral] 関係ない、余計なお世話) That's none of your business.
-  - `not one's concern`             ([Neutral] 関係ない)            How I spend my money is not your concern.
-  - `mind one's own business`       ([Casual] 自分の事だけ気にする) Why don't you mind your own business?
-  - `stay out of`                   ([Casual] 首を突っ込まない)     Please stay out of this matter.
-  - `keep out of`                   ([Neutral] 関わらない)          I try to keep out of office politics.
-  - `butt out`                      ([Casual] 首を突っ込むな)       Just butt out, okay?

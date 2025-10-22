@@ -1,6 +1,6 @@
 # Middle
 
-## DEGREE (kind of / a little bit / more or less / pretty / absolutely)
+## DEGREE (`kind of` / `a little bit` / more or less / pretty / absolutely)
 > `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
   - `sort of` /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
 > `a little bit` /ə ˈlɪtəl bɪt/     ([Casual] 少し、ちょっと)       I'm a little bit tired today.
@@ -60,5 +60,4 @@
   - `consciously` /ˈkɑːnʃəsli/      ([Neutral] 意識的に)            She consciously chose to help.
   - `knowingly` /ˈnoʊɪŋli/          ([Formal] 承知の上で)           He knowingly broke the rules.
   - `willfully` /ˈwɪlfəli/          ([Formal] 故意に)               She willfully ignored the instructions.
-
 - `judicially` /dʒuːˈdɪʃəli/       ([Formal] 司法的に、裁判で)     The matter was resolved judicially.
