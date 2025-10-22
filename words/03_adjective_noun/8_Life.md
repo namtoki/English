@@ -1,14 +1,17 @@
 # Life
 
 ## LIFE STAGES
+>
 > `puberty` /ˈpjuːbərti/            ([Neutral] 思春期)              She reached puberty at age 12.
-  - `infancy` /ˈɪnfənsi/            ([Neutral] 幼児期、乳児期)      During infancy, babies grow rapidly.
-  - `childhood` /ˈtʃaɪldhʊd/        ([Neutral] 幼少期、子供時代)    I have fond memories of my childhood.
-  - `adolescence` /ˌædəˈlesəns/     ([Neutral] 青年期、思春期)      Adolescence is a challenging time.
-  - `adulthood` /ˈædʌlthʊd/         ([Neutral] 成人期)              He entered adulthood at 18.
-  - `old age` /oʊld eɪdʒ/           ([Neutral] 老年期)              Many people travel in old age.
+
+- `infancy` /ˈɪnfənsi/            ([Neutral] 幼児期、乳児期)      During infancy, babies grow rapidly.
+- `childhood` /ˈtʃaɪldhʊd/        ([Neutral] 幼少期、子供時代)    I have fond memories of my childhood.
+- `adolescence` /ˌædəˈlesəns/     ([Neutral] 青年期、思春期)      Adolescence is a challenging time.
+- `adulthood` /ˈædʌlthʊd/         ([Neutral] 成人期)              He entered adulthood at 18.
+- `old age` /oʊld eɪdʒ/           ([Neutral] 老年期)              Many people travel in old age.
 
 ## HABITS AND SKILLS
+
 - `second nature` /ˈsɛkənd ˈneɪtʃər/  ([Neutral] 自然にできる習慣)     Using it becomes second nature.
 - `ingrained` /ɪnˈɡreɪnd/             ([Neutral] 深く染み付いた)       Saying thank you is an ingrained habit.
 - `instinctive` /ɪnˈstɪŋktɪv/         ([Neutral] 本能的な)             Cats have an instinctive desire to hunt.
@@ -19,24 +22,29 @@
 - `independent` /ˌɪndɪˈpendənt/     ([Neutral] 独立した、自主的な)  The country became independent in 1960.
 
 ## SKIN / FACIAL FEATURES
+>
 > `pore` /pɔːr/                      ([Neutral] 毛穴)                Blackheads clog your pores.
-  - `clogged pore`                   ([Neutral] 詰まった毛穴)        She has clogged pores on her nose.
-  - `open pore`                      ([Neutral] 開いた毛穴)          Large open pores are visible.
-  - `pore-clogging`                  ([Neutral] 毛穴を詰まらせる)    Avoid pore-clogging products.
+
+- `clogged pore`                   ([Neutral] 詰まった毛穴)        She has clogged pores on her nose.
+- `open pore`                      ([Neutral] 開いた毛穴)          Large open pores are visible.
+- `pore-clogging`                  ([Neutral] 毛穴を詰まらせる)    Avoid pore-clogging products.
 
 ## CLOTHES (OUTFIT / THREADS)
+>
 > `outfit` /ˈaʊtfɪt/                ([Casual] 服装一式、衣装)       I love your outfit today!
   > `clothes` /kləʊðz/              ([Neutral] 服、衣服)            I need to wash my clothes.
   > `threads` /θredz/               ([Casual] [若者] 服、衣服)        Nice threads! Where did you get them?
-  - `clothing` /ˈkləʊðɪŋ/           ([Neutral] 衣類、衣服)          The charity collects used clothing.
-  - `dress` /dres/                  ([Neutral] 服装、ドレス)        The dress code is business casual.
-  - `wardrobe` /ˈwɔːdrəʊb/          ([Neutral] 衣装棚、持ち服)      She has an extensive wardrobe.
-  - `garment` /ˈɡɑːrmənt/           ([Neutral] [業界] 衣服、衣類)     She carefully folded each garment.
-  - `apparel` /əˈpærəl/             ([Formal] [業界] 衣服、衣料品)    The store sells women's apparel.
-  - `attire` /əˈtaɪər/              ([Formal] [正装] 服装、衣装)      Formal attire is required for the event.
-  - `ensemble` /ɒnˈsɒmbl/           ([Formal] 一揃いの服装)         Her ensemble was perfectly coordinated.
-  - `gear` /ɡɪər/                   ([Casual] [スポーツ] 装備、服装)  Don't forget your hiking gear.
-  - `costume` /ˈkɒstjuːm/           ([Neutral] [特定用途] 衣装、仮装) She wore a traditional costume.
+
+- `clothing` /ˈkləʊðɪŋ/           ([Neutral] 衣類、衣服)          The charity collects used clothing.
+- `dress` /dres/                  ([Neutral] 服装、ドレス)        The dress code is business casual.
+- `wardrobe` /ˈwɔːdrəʊb/          ([Neutral] 衣装棚、持ち服)      She has an extensive wardrobe.
+- `garment` /ˈɡɑːrmənt/           ([Neutral] [業界] 衣服、衣類)     She carefully folded each garment.
+- `apparel` /əˈpærəl/             ([Formal] [業界] 衣服、衣料品)    The store sells women's apparel.
+- `attire` /əˈtaɪər/              ([Formal] [正装] 服装、衣装)      Formal attire is required for the event.
+- `ensemble` /ɒnˈsɒmbl/           ([Formal] 一揃いの服装)         Her ensemble was perfectly coordinated.
+- `gear` /ɡɪər/                   ([Casual] [スポーツ] 装備、服装)  Don't forget your hiking gear.
+- `costume` /ˈkɒstjuːm/           ([Neutral] [特定用途] 衣装、仮装) She wore a traditional costume.
+
 > `wear` /weər/                     ([Neutral] 着用、磨耗)          The shoes show signs of wear.
 > `wearer` /ˈweərər/                ([Neutral] 着用者)              The wearer of this hat is stylish.
 > `dressed` /drest/                 ([Neutral] 服を着た)            She was dressed in black.
@@ -186,7 +194,6 @@
 - `celebrity` /səˈlebrəti/           ([Neutral] 有名人、著名人)      He's a local celebrity in town.
 - `cessation` /seˈseɪʃən/           ([Formal] 停止、中止)           The treaty brought a cessation of hostilities.
 - `challenging` /ˈtʃælɪndʒɪŋ/       ([Neutral] やりがいのある困難)  This project is very challenging.
-- `chamber` /ˈtʃeɪmbər/           ([Formal] 議院、会議場)         The upper chamber voted on the bill.
 - `champion` /ˈtʃæmpiən/            ([Neutral] 擁護者、チャンピオン) He's a champion of workers' rights.
 - `chaos` /ˈkeɪɑːs/                 ([Neutral] 混沌、大混乱)        The office was in complete chaos.
 - `chaos` /ˈkeɪɒs/                  ([Neutral] 混沌、大混乱)        The announcement caused chaos.
@@ -219,7 +226,6 @@
 - `clothespin` /ˈkləʊðzpɪn/         ([Neutral] 洗濯ばさみ)          Use clothespins to secure the sheets.
 - `clout` /klaʊt/                   ([Neutral] 影響力)              She has a lot of clout in the industry.
 - `coal` /koʊl/                     ([Neutral] 石炭)                They burn coal for energy.
-- `coalition` /ˌkoʊəˈlɪʃən/         ([Formal] 連立、連合)           The parties formed a coalition government.
 - `coarse` /kɔːrs/                  ([Neutral] 粗野な、粗い)        His coarse manners upset the guests.
 - `coarsely` /ˈkɔːrsli/           ([Neutral] 粗野に)              She laughed coarsely at the joke.
 - `coarseness` /ˈkɔːrsnəs/        ([Neutral] 粗野、粗さ)          His coarseness was evident.
@@ -278,7 +284,6 @@
 - `contradictory` /ˌkɑːntrəˈdɪktəri/ ([Neutral] 矛盾した)        Their statements are contradictory.
 - `control` /kənˈtɹoʊl/              ([Neutral] 支配、管理)              She lost control of the car.
 - `controlled` /kənˈtroʊld/         ([Neutral] 制御された、冷静な)  He gave a controlled response.
-- `convent` /ˈkɑnvent/              ([Neutral] 修道院、女子修道院)  She entered the convent at age 18.
 - `convict` /ˈkɒnvɪkt/               ([Neutral] 有罪者、囚人)        The convict served ten years.
 - `convivial` /kənˈvɪviəl/          ([Writing] 陽気な、社交的な)    The convivial atmosphere made everyone relax.
 - `conviviality` /kənˌvɪviˈæləti/ ([Writing] 陽気さ、歓楽)        The party had an air of conviviality.
@@ -842,7 +847,6 @@
 - `moment` /ˈmoʊmənt/               ([Neutral] 瞬間)                Wait a moment, please.
 - `monarch` /ˈmɑːnərk/              ([Formal] 君主、国王)           The monarch ruled for 50 years.
 - `monarchy` /ˈmɑːnərki/          ([Formal] 君主制、君主国)       The country is a constitutional monarchy.
-- `monastery` /ˈmɑnəstəri/          ([Neutral] 修道院)              The monastery houses 20 monks.
 - `monologue` /ˈmɑːnəlɔːɡ/           ([Neutral] 独白、一人語り)      The actor delivered a powerful monologue.
 - `moral` /ˈmɔːrəl/                 ([Neutral] 道徳的な、良心的な)  He has strong moral values.
 - `more than O`                          ([Neutral] よりももっと) I like chocolate `more than vanilla.`
@@ -1015,7 +1019,6 @@
 - `primordial` /praɪˈmɔːrdiəl/     ([Formal] 原始の、根本的な)      Life evolved from primordial conditions.
 - `principled` /ˈprɪnsəpəld/        ([Formal] 主義のある、良心的な) She's a principled person.
 - `prior to`                        ([Formal] 〜より前に)           Prior to the meeting.
-- `priory` /ˈpraɪəri/               ([Neutral] 小修道院)            The priory was founded in 1066.
 - `pristine` /prɪˈstiːn/            ([Writing] 手つかずの、新品同様) The beach was pristine and untouched.
 - `problematic` /ˌprɑːbləˈmætɪk/    ([Formal] 問題のある、困難な)   The situation is becoming problematic.
 - `proficiency` /prəˈfɪʃənsi/     ([Formal] 熟達)                 Her English proficiency is excellent.
@@ -1175,7 +1178,6 @@
 - `secrecy` /ˈsiːkrəsi/           ([Neutral] 秘密性)              The plan was carried out in secrecy.
 - `sect` /sekt/                     ([Neutral] 宗派、教派)          The sect has followers worldwide.
 - `self-gratification`              ([Neutral] 自己満足)          The pursuit of self-gratification.
-- `senate` /ˈsenət/                 ([Neutral] 上院、元老院)        The bill passed in the Senate.
 - `senator` /ˈsenətər/            ([Neutral] 上院議員)            She's a senator from California.
 - `senatorial` /ˌsenəˈtɔːriəl/    ([Formal] 上院の、元老院の)     The senatorial election is next month.
 - `serene` /səˈriːn/                ([Formal] 穏やかな、平静な)     She had a serene expression.
@@ -1289,12 +1291,14 @@
 - `supporter` /səˈpɔːrtər/          ([Neutral] 支持者、サポーター)  The team has many loyal supporters.
 - `surrender` /səˈrendə/            ([Neutral] 降伏、降参)          The enemy decided to surrender.
 - `suspension` /səˈspenʃən/         ([Formal] 一時停止、保留)       The suspension of classes lasted a week.
+
 > `sustenance` /ˈsʌstənəns/        ([Formal] 栄養、食料、生活支援) They depend on the forest for sustenance.
-  - `nourishment` /ˈnɜːrɪʃmənt/    ([Neutral] 栄養、食物)          The soup provides nourishment.
-  - `provisions` /prəˈvɪʒənz/      ([Neutral] 食料、供給品)        We packed provisions for the trip.
-  - `subsistence` /səbˈsɪstəns/    ([Formal] 最低限の生活、生計)  They live at subsistence level.
-  - `nutrition` /nuːˈtrɪʃən/       ([Neutral] 栄養)                Good nutrition is essential for health.
-  - `livelihood` /ˈlaɪvlihʊd/      ([Neutral] 生計、暮らし)        Fishing is their main livelihood.
+
+- `nourishment` /ˈnɜːrɪʃmənt/    ([Neutral] 栄養、食物)          The soup provides nourishment.
+- `provisions` /prəˈvɪʒənz/      ([Neutral] 食料、供給品)        We packed provisions for the trip.
+- `subsistence` /səbˈsɪstəns/    ([Formal] 最低限の生活、生計)  They live at subsistence level.
+- `nutrition` /nuːˈtrɪʃən/       ([Neutral] 栄養)                Good nutrition is essential for health.
+- `livelihood` /ˈlaɪvlihʊd/      ([Neutral] 生計、暮らし)        Fishing is their main livelihood.
 - `sustainable` /səˈsteɪnəbəl/     ([Neutral] 持続可能な)          We need sustainable energy sources.
 - `sustained` /səˈsteɪnd/          ([Formal] 持続的な、継続的な)  The team made a sustained effort.
 - `sway` /sweɪ/                     ([Neutral] 影響力)              He has considerable sway over the board.
