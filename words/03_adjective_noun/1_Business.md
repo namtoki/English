@@ -65,3 +65,62 @@ what it's like to V
   - `ratification` /ˌrætɪfɪˈkeɪʃən/ ([Formal] 批准、承認)           The treaty awaits ratification.
   - `acknowledgment` /əkˈnɑːlɪdʒmənt([Formal] 承認、認識)           His acknowledgment came too late.
 
+> `no good`                         ([Casual] 良くない)             This plan is no good.
+  - `no use`                         ([Casual] 役に立たない)         It's no use trying to fix it now.
+  - `not worth it`                   ([Casual] 価値がない)           The effort is not worth it.
+  - `useless`                        ([Casual] 役に立たない)         This tool is useless for our needs.
+> `better than nothing`              ([Casual] ないよりマシ)         It's not perfect, but it's better than nothing.
+  - `something is better than nothing` ([Neutral] 何かはないよりマシ)  Even a small donation is better than nothing.
+
+## UNNECESSARY / EXCESSIVE
+- `redundant` /rɪˈdʌndənt/           ([Formal] 冗長な、余分な)        The word "unmarried" is redundant here.
+  - `redundancy` /rɪˈdʌndənsi/        ([Formal] 冗長性、解雇)          The redundancy in the code slows it down.
+  - `redundantly` /rɪˈdʌndəntli/      ([Formal] 冗長に)                The phrase was redundantly repeated.
+- `superfluous` /suːˈpɜːrfluəs/       ([Formal] 余分な、不要な)        The details were superfluous.
+- `unnecessary` /ʌnˈnesəseri/         ([Neutral] 不要な、無用な)       That comment was unnecessary.
+- `uncalled for` /ʌnˈkɔld.foɹ/        ([Neutral] 不当な、不必要な)     That remark was uncalled for.
+- `excessive` /ɪkˈsesɪv/             ([Neutral] 過度な、過剰な)       The noise was excessive.
+- `over the top`                    ([Casual] 過度な、大げさな)      His reaction was over the top.
+- `exaggerated` /ɪɡˈzædʒəreɪtɪd/   ([Neutral] 誇張された)          The story was exaggerated.
+- `dramatic` /drəˈmætɪk/            ([Neutral] 大げさな、劇的な)      She made a dramatic entrance.
+- `extreme` /ɪkˈstriːm/             ([Neutral] 極端な、過激な)       His views are extreme.
+- `outrageous` /aʊtˈreɪdʒəs/        ([Neutral] 法外な、とんでもない)  That's an outrageous price.
+- `extravagant` /ɪkˈstrævəɡənt/     ([Neutral] 贅沢な、派手な)       The party was extravagant.
+- `surplus` /ˈsɜːrpləs/              ([Neutral] 余剰の、余分な)       The surplus goods were sold off.
+- `needless` /ˈniːdləs/              ([Neutral] 不要な、無用な)       His death was needless.
+- `minimal` /ˈmɪnɪməl/              ([Neutral] 最小限の)            The damage was minimal.
+- `minimum` /ˈmɪnɪməm/              ([Neutral] 最小限、最低限)       Keep expenses to a minimum.
+- `weirdo` /ˈwɪrdoʊ/                ([Casual] 変人、奇人)           He's such a weirdo.
+- `weird` /wɪrd/                    ([Neutral] 変な、奇妙な)         That's weird.
+- `queer` /kwɪr/                    ([Writing] 奇妙な、変な)         That's a queer situation.
+- `strange` /streɪndʒ/              ([Neutral] 奇妙な、変な)         He has strange habits.
+- `odd` /ɑːd/                       ([Neutral] 変な、奇妙な)         That's an odd question.
+- `peculiar` /pɪˈkjuːliər/          ([Neutral] 奇妙な、特有の)       She has a peculiar accent.
+- `unusual` /ʌnˈjuːʒuəl/            ([Neutral] 珍しい、異常な)       It's unusual for him to be late.
+- `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な、異様な)       That was a bizarre experience.
+
+
+
+## AUTHENTIC / LEGITIMATE
+> `legit` /ləˈdʒɪt/                  ([Casual] ちゃんとしてる、本物)  This website is legit.
+  - `genuine` /ˈdʒenjuɪn/            ([Neutral] 本物の、純正の)      This is a genuine Rolex.
+  - `authentic` /ɔːˈθentɪk/          ([Neutral] 本物の、信頼できる)  The painting is authentic.
+  - `real` /riːl/                    ([Neutral] 本物の、真の)        Is this real leather?
+  - `valid` /ˈvælɪd/                 ([Neutral] 有効な、正当な)      Your passport is still valid.
+  - `bona fide` /ˌboʊnə ˈfaɪdi/     ([Formal] 真正な、誠実な)       He's a bona fide expert.
+
+## SCALE (A out of B)
+> `A out of B`                      ([Neutral] BのうちのA)          3 out of 5 people agreed.
+  - `A in B`                        ([Neutral] BのうちのA)          1 in 10 people disagree.
+
+- `accuracy` /ˈækjərəsi/        ([Neutral] 正確さ、的確さ)      The accuracy of the test is high.
+- `accurate` /ˈækjərət/           ([Neutral] 正確な、的確な)      Is this information accurate?
+- `accurate` /ˈækjərət/          ([Neutral] 正確な、精密な)      The report was accurate.
+
+## TEMPORAL DURATION
+- `momentary` /ˈmoʊmənteri/        ([Neutral] 一時的な、瞬間的な)  It was a momentary lapse in judgment.
+- `temporary` /ˈtempəreri/         ([Neutral] 一時的な)            This is only a temporary solution.
+- `brief` /briːf/                  ([Neutral] 短い、簡潔な)        A brief meeting.
+- `fleeting` /ˈfliːtɪŋ/            ([Neutral] つかの間の)          A fleeting moment.
+- `transient` /ˈtrænʃənt/          ([Formal] 一時的な、はかない)   Transient feelings.
+- `a blur` /ə blɜːr/                ([Neutral] ぼんやりしている)    Last weekend was a blur.

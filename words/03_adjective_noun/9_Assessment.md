@@ -1,32 +1,5 @@
 # Assessment
 
-## UNNECESSARY / EXCESSIVE
-- `redundant` /rɪˈdʌndənt/           ([Formal] 冗長な、余分な)        The word "unmarried" is redundant here.
-  - `redundancy` /rɪˈdʌndənsi/        ([Formal] 冗長性、解雇)          The redundancy in the code slows it down.
-  - `redundantly` /rɪˈdʌndəntli/      ([Formal] 冗長に)                The phrase was redundantly repeated.
-- `superfluous` /suːˈpɜːrfluəs/       ([Formal] 余分な、不要な)        The details were superfluous.
-- `unnecessary` /ʌnˈnesəseri/         ([Neutral] 不要な、無用な)       That comment was unnecessary.
-- `uncalled for` /ʌnˈkɔld.foɹ/        ([Neutral] 不当な、不必要な)     That remark was uncalled for.
-- `excessive` /ɪkˈsesɪv/             ([Neutral] 過度な、過剰な)       The noise was excessive.
-- `over the top`                    ([Casual] 過度な、大げさな)      His reaction was over the top.
-- `exaggerated` /ɪɡˈzædʒəreɪtɪd/   ([Neutral] 誇張された)          The story was exaggerated.
-- `dramatic` /drəˈmætɪk/            ([Neutral] 大げさな、劇的な)      She made a dramatic entrance.
-- `extreme` /ɪkˈstriːm/             ([Neutral] 極端な、過激な)       His views are extreme.
-- `outrageous` /aʊtˈreɪdʒəs/        ([Neutral] 法外な、とんでもない)  That's an outrageous price.
-- `extravagant` /ɪkˈstrævəɡənt/     ([Neutral] 贅沢な、派手な)       The party was extravagant.
-- `surplus` /ˈsɜːrpləs/              ([Neutral] 余剰の、余分な)       The surplus goods were sold off.
-- `needless` /ˈniːdləs/              ([Neutral] 不要な、無用な)       His death was needless.
-- `minimal` /ˈmɪnɪməl/              ([Neutral] 最小限の)            The damage was minimal.
-- `minimum` /ˈmɪnɪməm/              ([Neutral] 最小限、最低限)       Keep expenses to a minimum.
-- `weirdo` /ˈwɪrdoʊ/                ([Casual] 変人、奇人)           He's such a weirdo.
-- `weird` /wɪrd/                    ([Neutral] 変な、奇妙な)         That's weird.
-- `queer` /kwɪr/                    ([Writing] 奇妙な、変な)         That's a queer situation.
-- `strange` /streɪndʒ/              ([Neutral] 奇妙な、変な)         He has strange habits.
-- `odd` /ɑːd/                       ([Neutral] 変な、奇妙な)         That's an odd question.
-- `peculiar` /pɪˈkjuːliər/          ([Neutral] 奇妙な、特有の)       She has a peculiar accent.
-- `unusual` /ʌnˈjuːʒuəl/            ([Neutral] 珍しい、異常な)       It's unusual for him to be late.
-- `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な、異様な)       That was a bizarre experience.
-
 ## FAVORABLE / PROMISING
 - `auspicious` /ɔːˈspɪʃəs/          ([Formal] 幸先の良い、吉兆の)    It was an auspicious beginning.
   - `auspiciously` /ɔːˈspɪʃəsli/    ([Formal] 幸先よく)            The year began auspiciously.
@@ -45,6 +18,9 @@
   - `bungling` /ˈbʌŋɡlɪŋ/          ([Neutral] へまな、不器用な)     A bungling attempt at repair.
   - `awkward` /ˈɔːkwərd/           ([Neutral] 不器用な、ぎこちない)  His movements were awkward.
   - `maladroit` /ˌmæləˈdrɔɪt/      ([Formal] 不器用な、下手な)      A maladroit handling of the situation.
+  - `clunky` /ˈklʌŋki/             ([Neutral] 使いにくい)           This interface is really clunky.
+  - `ungainly` /ʌnˈɡeɪnli/          ([Neutral] ぎこちない、不格好な)  His ungainly movements made him trip.
+  - `lumbering` /ˈlʌmbərɪŋ/         ([Neutral] 動きの鈍い)           The lumbering elephant walked slowly.
 - `serendipitous` /ˌserənˈdɪpɪtəs/   ([Formal] 思いがけない幸運の)  A serendipitous discovery.
 
 ## PERVERSE / STUBBORN
@@ -119,9 +95,6 @@
 - `abstruse` /æbˈstrus/              ([Writing] 難解な)               The abstruse theory confused students.
 - `accessible` /ækˈsesəbəl/       ([Neutral] 理解しやすい、近づき) The book is accessible to beginners.
 - `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
-- `accuracy` /ˈækjərəsi/        ([Neutral] 正確さ、的確さ)      The accuracy of the test is high.
-- `accurate` /ˈækjərət/           ([Neutral] 正確な、的確な)      Is this information accurate?
-- `accurate` /ˈækjərət/          ([Neutral] 正確な、精密な)      The report was accurate.
 - `acrimonious` /ˌækrɪˈməʊniəs/   ([Writing] 辛辮な、激しい)      Their acrimonious divorce lasted years.
 - `acrimony` /ˈækrɪməni/            ([Writing] 辛辮さ、激しさ)      The debate was full of acrimony.
 - `active` /ˈæktɪv/                 ([Neutral] 活発な、積極的な)    She's active in the community.
@@ -417,13 +390,6 @@
 - `nuance` /ˈnuːɑːns/              ([Formal] ニュアンス、微妙な差)  The nuance of his expression.
 - `hint` /hɪnt/                     ([Neutral] わずかな気配)        A hint of lemon in the dish.
 
-## TEMPORAL DURATION
-- `momentary` /ˈmoʊmənteri/        ([Neutral] 一時的な、瞬間的な)  It was a momentary lapse in judgment.
-- `temporary` /ˈtempəreri/         ([Neutral] 一時的な)            This is only a temporary solution.
-- `brief` /briːf/                  ([Neutral] 短い、簡潔な)        A brief meeting.
-- `fleeting` /ˈfliːtɪŋ/            ([Neutral] つかの間の)          A fleeting moment.
-- `transient` /ˈtrænʃənt/          ([Formal] 一時的な、はかない)   Transient feelings.
-
 - `affront` /əˈfrʌnt/             ([Formal] 侮辱、怒らせる)       His comment was an affront to my dignity.
 - `admirer` /ədˈmaɪərər/            ([Neutral] 崇拝者、ファン)   She has many admirers of her work.
 - `alarm` /əˈlɑːrm/                   ([Neutral] 警戒させる、不安にさせる) The symptoms alarmed the doctor.
@@ -486,12 +452,3 @@
 - `vibrant` /ˈvaɪbrənt/             ([Neutral] 活気のある、熱心な)  The city has a vibrant culture.
 - `vigorous` /ˈvɪɡərəs/             ([Formal] 精力的な、熱心な)     They had a vigorous debate.
 - `zealous` /ˈzeləs/                ([Formal] 熱心な、熱狂的な)     He's zealous about his work.
-- `a blur` /ə blɜːr/                ([Neutral] ぼんやりしている)    Last weekend was a blur.
-
-## AUTHENTIC / LEGITIMATE
-> `legit` /ləˈdʒɪt/                  ([Casual] ちゃんとしてる、本物)  This website is legit.
-  - `genuine` /ˈdʒenjuɪn/            ([Neutral] 本物の、純正の)      This is a genuine Rolex.
-  - `authentic` /ɔːˈθentɪk/          ([Neutral] 本物の、信頼できる)  The painting is authentic.
-  - `real` /riːl/                    ([Neutral] 本物の、真の)        Is this real leather?
-  - `valid` /ˈvælɪd/                 ([Neutral] 有効な、正当な)      Your passport is still valid.
-  - `bona fide` /ˌboʊnə ˈfaɪdi/     ([Formal] 真正な、誠実な)       He's a bona fide expert.

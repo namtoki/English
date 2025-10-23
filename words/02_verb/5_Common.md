@@ -725,6 +725,7 @@
   - `clout` /klaʊt/                 ([Casual] 殴る)                 Don't make me clout you!
   - `wallop` /ˈwɒləp/               ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
   - `thwack` /θwæk/                 ([Casual] 強打音)               The thwack of the bat hitting the ball.
+  - `clunk` /klʌŋk/                  ([Neutral] ゴツンと音を立てる)  The old car clunked down the road.
 > `exercise` /ˈeksərsaɪz/           ([Neutral] 行使する、発動する)  They exercised their voting rights.
   - `wield` /wiːld/                 ([Neutral] 振るう、行使する)    She wields considerable influence.
   - `exert` /ɪɡˈzɜːrt/              ([Neutral] 及ぼす、行使する)    He exerted his authority to resolve the dispute.

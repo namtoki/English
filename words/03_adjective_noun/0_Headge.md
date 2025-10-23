@@ -1,6 +1,6 @@
 # Hedge
 
-## VAGUE (a kind of / all kind of / and things like that)
+## VAGUE (`a kind of` / all kinds of / `and things like that`)
 > `a kind of`                       ([Neutral] 一種の)              It's a kind of fruit.
   - `a sort of`                     ([Neutral] 一種の)              He felt a sort of sadness.
   - `a type of`                     ([Neutral] 一種の、タイプの)    This is a type of software.
@@ -22,21 +22,16 @@
   - `... et cetera`                 ([Formal] 〜など)               Books, magazines, et cetera.
   - `... etc.`                      ([Neutral] 〜など)              Apples, oranges, etc.
 
-## SCALE (A out of B)
-> `A out of B`                      ([Neutral] BのうちのA)          3 out of 5 people agreed.
-  - `A in B`                        ([Neutral] BのうちのA)          1 in 10 people disagree.
-
-## AMOUNT (as little as / limited / a few / significant / a lot of / rich / as many as)
+## AMOUNT (`as little as` / `scant` / a few / several / significant / a lot of / rich / `as many as`)
 > `as little as`                    ([Neutral] わずか)              It costs as little as $10.
   - `as few as`                     ([Neutral] わずか)              As few as 5 people showed up.
-> `limited` /ˈlɪmɪtɪd/              ([Neutral] 限られた)            We have limited resources.
+> `scant` /skænt/                   ([Formal] わずかな、乏しい)     There is scant evidence.
+  - `scanty` /ˈskænti/              ([Formal] わずかな、不十分な)   The data was scanty.
+  - `limited` /ˈlɪmɪtɪd/            ([Neutral] 限られた)            We have limited resources.
   - `minimal` /ˈmɪnɪməl/            ([Neutral] 最小限の)            There was minimal damage.
   - `scarce` /skeərs/               ([Formal] 乏しい、不足)         Food was scarce during winter.
-  - `sparse` /spɑːrs/               ([Formal] まばらな、わずかな)   The area has sparse vegetation.
   - `negligible` /ˈneɡlɪdʒəbəl/     ([Formal] 無視できる程わずか)   The risk is negligible.
-  - `scant` /skænt/                 ([Formal] わずかな、乏しい)     There is scant evidence.
   - `meager` /ˈmiːɡər/              ([Formal] わずかな、乏しい)     He earns a meager salary.
-  - `scanty` /ˈskænti/              ([Formal] わずかな、不十分な)   The data was scanty.
   - `paltry` /ˈpɔːltri/             ([Formal] わずかな、些細な)     She received a paltry sum.
 > `a few`                           ([Neutral] 少数の)              I have a few questions.
   - `a handful of`                  ([Neutral] 少数の)              Only a handful of people came.
@@ -44,7 +39,7 @@
   - `a smattering of`               ([Formal] 少数の、わずかな)     A smattering of applause followed.
   - `a sprinkling of`               ([Neutral] わずかな、少数の)    A sprinkling of students came early.
   - `a little more`                 ([Neutral] もう少し)            Just a little more patience.
-  - `a bit more`                    ([Casual] もう少し)              I need a bit more time.
+  - `a bit more`                    ([Casual] もう少し)             I need a bit more time.
 > `several` /ˈsevrəl/               ([Neutral] いくつかの、数個の)  Several people attended.
   - `a couple of`                   ([Casual] いくつかの)           I need a couple of minutes.
   - `some` /sʌm/                    ([Neutral] いくつかの)          Some students were absent.

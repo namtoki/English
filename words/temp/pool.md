@@ -239,7 +239,6 @@ authenticity	10	【名】信憑性、真正であること
 autism	12	【名】自閉症		
 autocratic	11	【形】独裁的な、専制の		
 autograph	10	【名】署名、サイン		
-autonomy	8	【名】自治（権）、自立、自治国家、自律		
 auxiliary	12	【形】補助の、予備の 【名】援助者		
 avail	9	【名】利益 【動】役立つ		
 avalanche	9	【名】雪崩 【動】圧倒する		
@@ -376,7 +375,6 @@ bliss	7	【名】無上の喜び、至福
 blister	11	【名】水ぶくれ 【動】水ぶくれができる、激しく非難する		
 blithe	12	【形】陽気な、思慮のない		
 blizzard	9	【名】猛吹雪		
-bloc	10	【名】連合、圏		
 bloke	10	【名】やつ、男		
 blot	9	【名】汚れ 【動】汚す		
 bluff	11	【動】はったりでだます 【名】からいばり、断崖		
@@ -720,7 +718,6 @@ commonwealth	7	【名】団体、連邦（C_)
 communal	10	【形】共同社会の、共同使用の		
 communion	8	【名】共有、交際、親交、交流、霊的交感、聖餐（せいさん）		
 communique	11	【名】公式声明、公式発表		
-communism	7	【名】共産主義体制、共産主義		
 commute	8	【動】通勤・通学する、代える、変化させる、取り替える		
 comparable	6	【形】匹敵する、似ている、比較できる		
 comparative	6	【形】比較の、かなりの		
@@ -793,7 +790,6 @@ consecrate	12	【動】聖職に任命する、神聖にする、ささげる
 consecutive	10	【形】連続した、論理の一貫した		
 consequent	7	【形】引き続いて起こる、結果として起こる		
 conservationist	11	【名】自然保護論者 【形】自然保護論者の		
-conservative	5	【形】保守的な、控えめな 【名】保守的な人		
 conservatory	12	【名】温室、音楽学校		
 conserve	8	【動】保存する、節約する		
 consign	10	【動】渡す、預ける、託す		
@@ -1206,7 +1202,6 @@ discomfiture	12	【名】敗北、挫折
 discontinue	8	【動】やめる、やむ、終わる		
 discourage	4	【動】希望を失わせる、やめさせる		
 discouragement	9	【名】落胆、がっかりさせること		
-discourse	9	【名】会話、講演、論文 【動】話をする		
 discoverer	9	【名】発見者、創案者		
 discreet	9	【形】思慮のある、控えめの		
 discrepancy	10	【名】相違、矛盾		
@@ -1592,7 +1587,6 @@ faulty	10	【形】欠点のある、誤った
 fauna	12	【名】動物相、動物誌		
 fawn	11	【動】こびへつらう、甘える		
 fearless	6	【形】勇敢な、大胆不敵な		
-federation	6	【名】同盟、連合、連邦化		
 feign	10	【動】装う、でっち上げる		
 ferment	11	【動】発酵する 【名】発酵、興奮、政治的動揺		
 fern	12	【名】シダ		
@@ -3627,7 +3621,6 @@ sentry	12	【名】見張り、番兵
 sequel	9	【名】続編		
 sequester	12	【動】引きこもらせる、一時差し押さえる		
 sergeant	7	【名】軍曹、巡査部長		
-sermon	7	【名】説教、長くて退屈な話		
 serpent	7	【名】ヘビ、悪魔、悪意のある人		
 serum	12	【名】血清		
 serviceman	12	【名】軍人、修理人		

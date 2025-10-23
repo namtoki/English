@@ -378,3 +378,8 @@
 - `plain and simple`                ([Casual] 単純明快)             He lied to us, plain and simple.
 - `that's all there is to it`       ([Casual] それだけのこと)       Just study hard. That's all there is to it.
 - `nothing more to it`              ([Casual] それ以上何もない)     Press the button and wait. Nothing more to it.
+> `Get a life!`                     ([Casual] 人生を楽しめ)         Stop obsessing over work. Get a life!
+  - `You need to have a life`       ([Casual] 人生を楽しむべきだ)   You need to have a life outside of work.
+  - `Touch grass`                   ([Casual] 外に出ろ)             You've been online all day. Touch grass.
+  - `Go outside`                    ([Casual] 外に出ろ)             Stop gaming and go outside for once.
+  - `Take a break`                  ([Casual] 休憩を取れ)           You've been working for hours. Take a break.

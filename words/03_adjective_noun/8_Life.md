@@ -80,7 +80,6 @@
 - `audacious` /ɔːˈdeɪʃəs/         ([Formal] 大胆な、厚かましい)   That's an audacious claim.
 - `audacity` /ɔːˈdæsəti/            ([Formal] 大胆さ、厚かましさ)   He had the audacity to lie.
 - `author` /ˈɔːθə/                  ([Neutral] 著者)                He is the author of this book.
-- `authoritarian` /ɔːˌθɒrɪˈteəriən/ ([Writing] 権威主義の)          The country is run by an authoritarian regime.
 - `authoritative` /ɔːˈθɒrɪtətɪv/    ([Writing] 権威のある)          This is an authoritative biography.
 - `authority` /ɔːˈθɒrəti/           ([Neutral] 権威、権限)          He has no authority over me.
 - `autobiography` /ˌɔːtəbaɪˈɒɡrəfi/  ([Neutral] 自叙伝)               She wrote her autobiography last year.
@@ -188,7 +187,6 @@
 - `catastrophe` /kəˈtæstrəfi/          ([Formal] 大惨事、破綻)        The flood was a complete catastrophe.
 - `cathedral` /kəˈθidrəl/           ([Neutral] 大聖堂)              The cathedral has beautiful stained glass.
 - `caustic` /ˈkɔːstɪk/              ([Writing] 辛辮な)              Her caustic remarks hurt everyone.
-- `ceasefire` /ˈsiːsfaɪə/           ([Formal] 停戦)                 Both sides agreed to a ceasefire.
 - `ceaseless` /ˈsiːsləs/            ([Formal] 絶え間ない、不断の)   The ceaseless noise kept me awake.
 - `ceaselessly` /ˈsiːsləsli/      ([Formal] 絶え間なく)           They worked ceaselessly on the project.
 - `celebrity` /səˈlebrəti/           ([Neutral] 有名人、著名人)      He's a local celebrity in town.
@@ -313,6 +311,7 @@
 - `crystal clear` /ˈkrɪstəl klɪr/   ([Neutral] 非常に明確な)        The instructions are crystal clear.
 - `cultivated taste`                ([Formal] 培われた嗜好)         His cultivated taste shows in his wine selection.
 - `cumbersome` /ˈkʌmbɚsəm/        ([Neutral] 扱いにくい、煩雑な)  The process is cumbersome.
+  - `unwieldy` /ʌnˈwiːldi/           ([Neutral] 扱いにくい)           The package was large and unwieldy.
 - `cunning` /ˈkʌnɪŋ/              ([Neutral] 狡猾さ、巧妙さ)       His cunning helped him avoid detection.
 - `cut and dried` /kʌt ænd draɪd/   ([Casual] 明白な、決まりきった) The answer isn't cut and dried.
 - `dawn` /dɔːn/                     ([Writing] 夜明け、始まり)      The dawn of a new era has begun.
@@ -730,8 +729,6 @@
 - `inconsolable` /ˌɪnkənˈsoʊləbəl/ ([Writing] 慰めようがない)         She was inconsolable after the tragedy.
 - `inconspicuous` /ˌɪnkənˈspɪkjuəs/ ([Neutral] 目立たない)        She tried to remain inconspicuous.
 - `indefensible` /ˌɪndɪˈfɛnsəbəl/   ([Formal] 弁護できない、正当化できない) Killing civilians is indefensible.
-- `independence` /ˌɪndɪˈpendəns/    ([Neutral] 独立)                The country gained independence.
-- `independent` /ˌɪndɪˈpendənt/   ([Neutral] 独立した)            She's an independent woman.
 - `independently` /ˌɪndɪˈpendəntli/ ([Neutral] 独立して)          They work independently of each other.
 - `indigenous` /ɪnˈdɪdʒənəs/       ([Formal] 固有の、土着の)        These plants are indigenous to the region.
 - `indistinct` /ˌɪndɪˈstɪŋkt/       ([Writing] 不明瞭な)         The voice on the phone was indistinct.
@@ -877,6 +874,7 @@
 - `noble` /ˈnoʊbəl/                 ([Formal] 高貴な、気高い)       That was a noble gesture.
 - `nobly` /ˈnoʊbli/               ([Formal] 気高く、立派に)       She acted nobly.
 - `noise` /nɔɪz/                    ([Neutral] 騒音、音)            The noise from the street was too loud.
+  - `clunk` /klʌŋk/                  ([Neutral] ゴツンという音)      I heard a clunk from the engine.
 - `noisy` /ˈnɔɪzi/                ([Neutral] 騒々しい)            The children were being very noisy.
 - `nook` /nʊk/                      ([Neutral] 隅、片隅)            She found a cozy reading nook.
 - `normal` /ˈnɔːrməl/               ([Neutral] 正常な、普通の)      That's perfectly normal.
@@ -920,7 +918,6 @@
 - `opponent` /əˈpoʊnənt/            ([Neutral] 相手、反対者)          She defeated her opponent easily.
 - `option` /ˈɑːpʃən/               ([Neutral] 選択肢)              We have several options to consider.
 - `or so`                           ([Neutral] 〜くらい)            It's 20 dollars `or so`.
-- `oration` /ɔːˈreɪʃən/              ([Formal] 演説、弁論)           He gave a stirring oration.
 - `ordinary` /ˈɔːrdəneri/           ([Neutral] 普通の、平凡な)      It's just an ordinary day.
 - `ore` /ɔːr/                       ([Writing] 鉱石)                Iron ore is mined here.
 - `other things`                    ([Neutral] 他のもの)            Among `other things`, we discussed the budget.
