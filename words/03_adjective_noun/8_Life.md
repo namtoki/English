@@ -755,7 +755,6 @@
 - `insufficient` /ˌɪnsəˈfɪʃənt/   ([Neutral] 不十分な)            The evidence is insufficient.
 - `insurrection` /ˌɪnsəˈrekʃən/     ([Writing] 暴動、反乱)          The insurrection was quickly suppressed.
 - `intense` /ɪnˈtens/               ([Neutral] 激しい、強烈な)      She felt intense emotions.
-- `interim` /ˈɪntərɪm/            ([Formal] 暫定の、中間の)       She served as interim manager during the transition.
 - `interlude` /ˈɪntərluːd/          ([Writing] 幕間、合間)          It was a peaceful interlude in a busy day.
 - `intermediate` /ˌɪntərˈmiːdiət/ ([Neutral] 中間の、中級の)      We need an intermediate solution before the final one.
 - `intermission` /ˌɪntərˈmɪʃən/     ([Neutral] 休憩、幕間)          There's a 15-minute intermission after act one.
@@ -1008,7 +1007,6 @@
 - `precise` /prɪˈsaɪs/            ([Neutral] 正確な、精密な)      Give me a precise answer.
 - `precise` /prɪˈsaɪs/           ([Neutral] 正確な、精密な)      She gave precise instructions.
 - `precision` /prɪˈsɪʒən/       ([Neutral] 正確さ、精密さ)      This task requires precision.
-- `preliminary` /prɪˈlɪmɪnəri/ ([Formal] 予備の、暫定的な)     I've reviewed the preliminary specs for the project.
 - `premise | premises`          前提 | 家屋,建物,構内,敷地内
 - `preparatory` /prɪˈpærətɔːri/   ([Formal] 準備の、予備の)       The preparatory work is almost complete.
 - `presumption` /prɪˈzʌmpʃən/       ([Formal] 思い上がり、推定)     His presumption annoyed me.
@@ -1033,7 +1031,6 @@
 - `proscription` /pɹəˈskɹɪp.ʃən/     ([Formal] 禁止、排斥)            The proscription of certain books.
 - `proscriptive` /pɹəˈskɹɪptɪv/   ([Formal] 禁止の、規範的な)       The proscriptive rules were strict.
 - `prototype` /ˈproʊtətaɪp/       ([Neutral] 試作品、原型)        We need to test the prototype before production.
-- `provisional` /prəˈvɪʒənəl/  ([Formal] 暫定的な、仮の)       The provisional budget is subject to change.
 - `provocation` /ˌprɑːvəˈkeɪʃən/    ([Neutral] 挑発、刺激)          He acted without provocation.
 - `pull` /pʊl/                      ([Casual] 影響力)               She has a lot of pull with management.
 - `punctilious` /pʌŋkˈtɪliəs/       ([Writing] 細かいことにこだわる)He's punctilious about etiquette.
@@ -1325,7 +1322,6 @@
 - `tender` /ˈtendər/                 ([Neutral] 優しい、柔らかい)         She gave him a tender kiss.
 - `tenderly` /ˈtendərli/           ([Neutral] 優しく、親切に)           She tenderly cared for the injured bird.
 - `tenderness` /ˈtendərnəs/        ([Neutral] 優しさ、愛情)             His eyes showed great tenderness.
-- `tentative` /ˈtentətɪv/      ([Formal] 暫定的な、仮の)       We have a tentative schedule for the launch.
 - `terminal` /ˈtɜːrmɪnəl/            ([Neutral] ターミナル、終点)    We arrived at the bus terminal.
 - `termination` /ˌtɜːrmɪˈneɪʃən/    ([Formal] 終了、解雇)           The termination of the contract was unexpected.
 - `termination` /ˌtɜːrmɪˈneɪʃən/    ([Formal] 解雇、終了)           The termination was effective immediately.

@@ -14,7 +14,6 @@ accumulation	8	【名】蓄積
 acorn	12	【名】ドングリ		
 acreage	12	【名】1エーカーほどの土地、エーカーで測った面積、地積		
 acrid	12	【形】（味やにおいが）刺すような、辛らつな		
-acronym	11	【名】頭字語		
 acumen	11	【名】洞察力、明敏		
 adage	12	【名】ことわざ、格言		
 adamant	11	【形】譲らない、非常に堅い、不動の		
@@ -759,7 +758,6 @@ conceit	8	【名】うぬぼれ、過大評価、気まぐれ 【動】得意に
 conceited	9	【形】うぬぼれた		
 concerted	11	【形】一致団結した、断固とした		
 concerto	11	【名】コンチェルト、協奏曲		
-concise	7	【形】簡潔な		
 conclusive	8	【形】決定的な、確実な、終結的な、終了させる		
 concomitant	12	【形】同時に起こる、付随する 【名】付属物		
 concord	10	【名】一致、平和		
@@ -838,7 +836,6 @@ continuously	6	【副】連続して、ひっきりなしに
 contour	9	【名】輪郭、等高線、概略 【形】等高線を記す、輪郭を示す		
 contraception	11	【名】避妊、産児制限		
 contraceptive	11	【形】避妊の 【名】避妊器具、避妊薬		
-contraction	7	【名】収縮、短縮、不況		
 contravene	12	【動】違反する、矛盾する		
 contrition	11	【名】悔い改め、悔恨		
 contrive	9	【動】企てる、もくろむ、考案する		
@@ -1451,7 +1448,6 @@ environs	12	【名】近郊、周辺地域、環境
 envisage	10	【動】心に描く、予想する		
 envoy	10	【名】使節、使者		
 enzyme	10	【名】酵素		
-ephemeral	12	【形】短命の、はかない、名日限りの		
 epic	9	【形】叙事詩の、壮大な		
 epidemic	8	【名】流行 【形】流行性の、広まっている		
 epilepsy	12	【名】てんかん		
@@ -1638,7 +1634,6 @@ flaunt	11	【動】見せびらかす、わがもの顔にふるまう
 flea	9	【名】ノミ、くだらないやつ		
 fledgling	11	【形】駆け出しの 【名】巣立ちしたばかりのひな鳥、未熟者		
 fleece	12	【名】ヒツジの毛 、フリース地の衣服 【動】ヒツジの毛を刈る、金品を巻き上げる		
-fleeting	11	【形】つかの間の、いつしか過ぎ去る、はかない		
 flesh	4	【名】肉 【動】肉付けをする		
 flex	11	【動】筋肉を収縮させる、曲げる、ほぐす、フレックスタイムで働く		
 flick	10	【名】軽く打つこと、ビシッという音 【動】はじく		
@@ -2026,7 +2021,6 @@ immature	6	【形】未熟な、未完成の
 immeasurable	9	【形】計れない、計り知れない		
 immemorial	12	【形】遠い昔の、有史以前の		
 immerse	8	【動】浸す、没頭させる		
-imminent	10	【形】切迫した		
 immoral	8	【形】不道徳な、ふしだらな		
 immortal	6	【形】不滅の、不死身の 【名】不死の人		
 immortality	8	【名】不死、不朽（の名声）		
@@ -2627,7 +2621,6 @@ moisten	10	【動】湿らす、濡れる
 mold	6	【動】こねて作る、型に入れて作る 【名】鋳型		
 molding	12	【名】刳形（くりがた）、型で作ること		
 mole	11	【名】あざ、ほくろ、モグラ、スパイ		
-momentary	9	【形】瞬間の		
 momentous	10	【形】重大な、ゆゆしい		
 momentum	9	【名】はずみ、勢い、運動量		
 monastic	12	【形】禁欲的な、修道院の		
@@ -3945,7 +3938,6 @@ suburban	8	【形】郊外の、郊外に住む、退屈な、偏狭な
 subversion	12	【名】（政府・組織などの）密かな破壊・転覆活動		
 subversive	11	【形】破壊的な、転覆させる 【名】破壊分子		
 subvert	11	【動】堕落させる、体制を転覆させる		
-succinct	12	【形】ことばの少ない、簡潔な		
 succulent	12	【形】汁気の多い、生気のある		
 succumb	11	【動】屈服する、負ける、死ぬ		
 sue	5	【動】訴訟を起こす		
@@ -4049,7 +4041,6 @@ tepid	11	【形】生ぬるい、熱意に欠ける
 terrain	11	【名】地形、地勢		
 terrestrial	12	【形】陸地の、地球の、この世の 【名】地球に住むもの		
 territorial	7	【形】領土に関する、地域的な、一地域の、土地の		
-terse	11	【形】簡単明瞭な、短くきびきびした		
 testament	8	【名】証拠、遺言、契約、聖書		
 testify	7	【動】証言する、証拠となる、おごそかに宣言する		
 testimonial	11	【形】感謝や賞賛を表す、証明となる 【名】証明書、賞状		
@@ -4134,9 +4125,7 @@ transcontinental	10	【形】大陸横断の
 transcribe	9	【動】文字に起こす、書き換える		
 transcript	8	【名】筆記録、写し、成績証明書		
 transfusion	9	【名】輸血（blood transfusion）、注入		
-transient	10	【形】一時的な、短期滞在の		
 transit	9	【名】通過、運送、移り変わり 【動】通過する		
-transitory	12	【形】はかない、一時的な		
 translucent	11	【形】半透明の、明快な		
 traverse	8	【動】横切る、越える、あちこち歩く 【名】縦走、横断		
 treacherous	8	【形】不誠実な、裏切りをする、当てにならない、不安定な、危険な		

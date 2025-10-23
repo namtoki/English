@@ -1,12 +1,63 @@
 # Business
 
-what it's like to V
+## Favorites
+- `what it's like to V`             ([Neutral] ～がどんな感じか)    I know what it's like to struggle financially.
 
-## ドキュメント
-- `abbreviated` /əˈbriːvieɪtɪd/     ([Neutral] 短縮された)          The abbreviated version is easier to read.
-- `abbreviation` /əˌbriːviˈeɪʃən/   ([Neutral] 略語)                "Dr." is an abbreviation for "Doctor."
+## Nitty-Gritty (`be dedicated to` / `temporary`)
+> `be used for` /juːzd/             ([Neutral] ～用である)          This room is used for meetings.
+  - `be for` /fɔːr/                 ([Neutral] ～用である)          This space is for employees only.
+  - `be made for` /meɪd/            ([Neutral] ～用に作られた)      This tool is made for cutting wood.
+  - `be meant for` /ment/           ([Neutral] ～向けである)        This gift is meant for children.
+  - `be designed for` /dɪˈzaɪnd/    ([Neutral] ～用に設計された)    This app is designed for beginners.
+  - `be intended for` /ɪnˈtendɪd/   ([Neutral] ～向けの)            This book is intended for students.
+  - `be dedicated to` /ˈdedɪkeɪtɪd/ ([Neutral] 専用の)              This room is dedicated to storage.
+  - `be reserved for` /rɪˈzɜːrvd/   ([Neutral] ～専用の)            This area is reserved for members.
+  - `be devoted to` /dɪˈvoʊtɪd/     ([Neutral] 専念している)        The team is devoted to excellence.
+  - `be committed to` /kəˈmɪtɪd/    ([Neutral] 専心している)        We are committed to quality.
+  - `be set aside for`              ([Neutral] ～のために取っておく)This fund is set aside for emergencies.
+  - `be allocated to` /ˈæləkeɪtɪd/  ([Formal] ～に割り当てられた)   The budget is allocated to research.
+  - `be earmarked for` /ˈɪrmɑːrkt/  ([Formal] ～用に確保された)     The money is earmarked for education.
+  - `be exclusively for`            ([Formal] ～専用の)             This service is exclusively for members.
+> `temporary` /ˈtempəreri/          ([Neutral] 一時的な)            This is only a temporary solution.
+  - `brief` /briːf/                 ([Neutral] 短い、一時的な)      It was a brief interruption.
+  - `short-term` /ʃɔːrt tɜːrm/      ([Neutral] 短期の、一時的な)    We need a short-term fix.
+  - `momentary` /ˈmoʊmənteri/       ([Neutral] 一時的な、瞬間的な)  It was a momentary lapse in judgment.
+  - `short-lived` /ʃɔːrt lɪvd/      ([Neutral] 短命な、一時的な)    The success was short-lived.
+  - `fleeting` /ˈfliːtɪŋ/           ([Neutral] つかの間の)          A fleeting moment of happiness.
+  - `passing` /ˈpæsɪŋ/              ([Neutral] 一時的な 通り過ぎる) It's just a passing phase.
+  - `interim` /ˈɪntərɪm/            ([Neutral] 暫定の、一時的な)    He's the interim manager.
+  - `tentative` /ˈtentətɪv/         ([Neutral] 仮の、暫定的な)      We made a tentative plan.
+  - `preliminary` /prɪˈlɪməneri/    ([Neutral] 予備的な 準備段階の) These are preliminary results.
+  - `provisional` /prəˈvɪʒənəl/     ([Formal] 暫定的な、仮の)       This is a provisional agreement.
+  - `transient` /ˈtrænʃənt/         ([Formal] 一時的な、はかない)   Transient feelings will fade.
+  - `transitory` /ˈtrænsətɔːri/     ([Formal] 一時的な、つかの間の) Life's pleasures are transitory.
+  - `ephemeral` /ɪˈfemərəl/         ([Formal] はかない、短命な)     Fame can be ephemeral.
 
-## IMMINENT / APPROACHING
+## Documentation
+> `abbreviation` /əˌbriːviˈeɪʃən/   ([Neutral] 略語)                "Dr." is an abbreviation for "Doctor."
+  - `abbreviated` /əˈbriːvieɪtɪd/   ([Neutral] 短縮された)          The abbreviated version is easier to read.
+  - `shortened` /ˈʃɔːrtənd/         ([Neutral] 短縮された)          Use the shortened form of the name.
+  - `short` /ʃɔːrt/                 ([Neutral] 短い)                Please use the short version.
+  - `contraction` /kənˈtrækʃən/     ([Neutral] 短縮形)              "Can't" is a contraction of "cannot."
+  - `condensed` /kənˈdenst/         ([Neutral] 要約 凝縮された)     The condensed version is half the length.
+  - `abridged` /əˈbrɪdʒd/           ([Formal] 要約された)           The abridged edition is shorter.
+> `acronym` /ˈækrənɪm/              ([Neutral] 頭字語)              NASA is an acronym for the space agency.
+  - `initialism` /ɪˈnɪʃəlɪzəm/      ([Formal] 頭文字語)             "FBI" is an initialism.
+
+## Good Feelings
+> `brief` /briːf/                   ([Neutral] 簡潔な、短い)        Keep your answer brief.
+  - `short` /ʃɔːrt/                 ([Neutral] 短い、簡潔な)        Give me a short explanation.
+  - `concise` /kənˈsaɪs/            ([Neutral] 簡潔な)              Write a concise summary.
+  - `to the point`                  ([Neutral] 要点を突いた 潔な)   Your response was to the point.
+  - `compact` /ˈkɑːmpækt/           ([Neutral] 簡潔な コンパクトな) The report was compact and clear.
+  - `crisp` /krɪsp/                 ([Neutral] 簡潔な、明快な)      She gave a crisp explanation.
+  - `succinct` /səkˈsɪŋkt/          ([Formal] 簡潔な、要領を得た)   His answer was succinct.
+  - `terse` /tɜːrs/                 ([Neutral] 簡潔な、そっけない)  The message was terse but clear.
+  - `pithy` /ˈpɪθi/                 ([Formal] 簡潔で的を射た)       He made a pithy comment.
+  - `laconic` /ləˈkɑːnɪk/           ([Formal] 簡潔な、寡黙な)       His laconic reply surprised us.
+  - `truncated` /ˈtrʌŋkeɪtɪd/       ([Formal] 切り詰められた)       The truncated text fits better.
+
+## Schedule
 > `just around the corner`          ([Casual] 間近に迫った)         Summer is just around the corner.
   - `around the corner`             ([Casual] 間近に迫った)         The holidays are around the corner.
   - `on the horizon`                ([Neutral] 間近に迫った)        Big changes are on the horizon.
@@ -14,20 +65,10 @@ what it's like to V
   - `upon us`                       ([Neutral] 間近に迫った)        Winter is upon us already.
   - `imminent` /ˈɪmɪnənt/           ([Formal] 差し迫った)           An announcement is imminent.
 
-## PURPOSE AND DESIGNATION
-- `be dedicated to` /ˈdedɪkeɪtɪd/    ([Neutral] 専用の)               This room is dedicated to storage.
-- `be devoted to` /dɪˈvoʊtɪd/        ([Neutral] 専念している)         The team is devoted to excellence.
-- `be committed to` /kəˈmɪtɪd/       ([Neutral] 専心している)         We are committed to quality.
-- `be designed for` /dɪˈzaɪnd/       ([Neutral] ～用に設計された)     This tool is designed for beginners.
-- `be reserved for` /rɪˈzɜːrvd/      ([Neutral] ～専用の)             This area is reserved for members.
-- `be intended for` /ɪnˈtendɪd/      ([Neutral] ～向けの)             This book is intended for students.
-
 - `agreement` /əˈɡriːmənt/           ([Neutral] 合意、協定)           They reached an agreement.
 - `aid` /eɪd/                       ([Neutral] 援助)                They sent aid to the victims.
 - `alpha` /ˈælfə/               ([Neutral] アルファ版、初期版)  The alpha release has many bugs.
 - `approval` /əˈpruːvəl/             ([Neutral] 承認、賛成)           The project needs your approval.
-- `approval` /əˈpruːvəl/            ([Formal] 承認、賛成)           The plan received unanimous approval.
-- `approval` /əˈpruːvəl/          ([Neutral] 承認、同意)          We need board approval first.
 - `assistance` /əˈsɪstəns/          ([Neutral] 支援、援助)          Thank you for your assistance.
 - `assurance` /əˈʃʊrəns/            ([Neutral] 保証、確信)          He gave me his assurance.
 - `assured` /əˈʃʊrd/                ([Neutral] 保証された、確信した) You can be assured of success.
@@ -117,10 +158,3 @@ what it's like to V
 - `accurate` /ˈækjərət/           ([Neutral] 正確な、的確な)      Is this information accurate?
 - `accurate` /ˈækjərət/          ([Neutral] 正確な、精密な)      The report was accurate.
 
-## TEMPORAL DURATION
-- `momentary` /ˈmoʊmənteri/        ([Neutral] 一時的な、瞬間的な)  It was a momentary lapse in judgment.
-- `temporary` /ˈtempəreri/         ([Neutral] 一時的な)            This is only a temporary solution.
-- `brief` /briːf/                  ([Neutral] 短い、簡潔な)        A brief meeting.
-- `fleeting` /ˈfliːtɪŋ/            ([Neutral] つかの間の)          A fleeting moment.
-- `transient` /ˈtrænʃənt/          ([Formal] 一時的な、はかない)   Transient feelings.
-- `a blur` /ə blɜːr/                ([Neutral] ぼんやりしている)    Last weekend was a blur.
