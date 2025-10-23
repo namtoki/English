@@ -233,7 +233,6 @@ auditor	9	【名】監査役、会計検査官、聴講生
 augment	12	【動】増やす、増大する		
 austere	11	【形】切り詰めた、厳粛な、禁欲的な		
 austerity	11	【名】厳格さ、質素、苦行		
-authentic	8	【形】本物の、心からの、信頼のおける		
 authenticity	10	【名】信憑性、真正であること		
 autism	12	【名】自閉症		
 autocratic	11	【形】独裁的な、専制の		

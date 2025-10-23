@@ -45,6 +45,35 @@
   - `initialism` /ɪˈnɪʃəlɪzəm/      ([Formal] 頭文字語)             "FBI" is an initialism.
 
 ## Good Feelings
+> `accurate` /ˈækjərət/             ([Neutral] 正確な、的確な)      Is this information accurate?
+  - `accuracy` /ˈækjərəsi/          ([Neutral] 正確さ、精度)        The accuracy of the test is high.
+  - `correct` /kəˈrekt/             ([Neutral] 正しい、正確な)      Your answer is correct.
+  - `right` /raɪt/                  ([Neutral] 正しい、正確な)      Is this the right number?
+  - `exact` /ɪɡˈzækt/               ([Neutral] 正確な、厳密な)      What's the exact time?
+  - `precise` /prɪˈsaɪs/            ([Neutral] 正確な、精密な)      Please be more precise.
+  - `precision` /prɪˈsɪʒən/         ([Neutral] 精密さ、正確さ)      The work requires great precision.
+  - `spot-on` /spɑːt ɑːn/           ([Casual] 的確な、ぴったりな)   Your analysis was spot-on.
+  - `on the mark`                   ([Neutral] 的確な、正確な)      Her prediction was on the mark.
+  - `on-target` /ɑːn ˈtɑːrɡət/      ([Neutral] 的確な、正確な)      The forecast was on-target.
+  - `pinpoint` /ˈpɪnpɔɪnt/          ([Neutral] 正確な、厳密な)      We need pinpoint accuracy.
+  - `faithful` /ˈfeɪθfəl/           ([Neutral] 忠実な、正確な)      A faithful translation of the text.
+  - `meticulous` /məˈtɪkjələs/      ([Formal] 細心の、精密な)       He kept meticulous records.
+  - `rigorous` /ˈrɪɡərəs/           ([Formal] 厳密な、精密な)       The study used rigorous methods.
+  - `unerring` /ʌnˈɜːrɪŋ/           ([Formal] 誤りのない、確実な)   She has unerring judgment.
+> `real` /riːl/                     ([Neutral] 本物の、真の)        Is this real leather?
+  - `genuine` /ˈdʒenjuɪn/           ([Neutral] 本物の、純正の)      This is a genuine Rolex.
+  - `legitimate` /lɪˈdʒɪtɪmət/      ([Neutral] 正当な、合法的な)    This is a legitimate business.
+  - `legit` /ləˈdʒɪt/               ([Casual] ちゃんとしてる、本物) This website is legit.
+  - `authentic` /ɔːˈθentɪk/         ([Neutral] 本物の、信頼できる)  The painting is authentic.
+  - `valid` /ˈvælɪd/                ([Neutral] 有効な、正当な)      Your passport is still valid.
+  - `proper` /ˈprɑːpər/             ([Neutral] 適切な ちゃんとした) You need proper documentation.
+  - `true` /truː/                   ([Neutral] 本当の、真の)        Is this a true story?
+  - `official` /əˈfɪʃəl/            ([Neutral] 公式の、正式な)      This is the official version.
+  - `certified` /ˈsɜːrtɪfaɪd/       ([Neutral] 認定された 保証され) She's a certified accountant.
+  - `verified` /ˈverɪfaɪd/          ([Neutral] 検証された 確認され) The information has been verified.
+  - `authorized` /ˈɔːθəraɪzd/       ([Neutral] 認可された 公認の)   He's an authorized dealer.
+  - `credible` /ˈkredəbəl/          ([Neutral] 信頼できる 確実な)   She's a credible witness.
+  - `bona fide` /ˌboʊnə ˈfaɪdi/     ([Formal] 真正な、誠実な)       He's a bona fide expert.
 > `brief` /briːf/                   ([Neutral] 簡潔な、短い)        Keep your answer brief.
   - `short` /ʃɔːrt/                 ([Neutral] 短い、簡潔な)        Give me a short explanation.
   - `concise` /kənˈsaɪs/            ([Neutral] 簡潔な)              Write a concise summary.
@@ -140,21 +169,6 @@
 - `unusual` /ʌnˈjuːʒuəl/            ([Neutral] 珍しい、異常な)       It's unusual for him to be late.
 - `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な、異様な)       That was a bizarre experience.
 
-
-
-## AUTHENTIC / LEGITIMATE
-> `legit` /ləˈdʒɪt/                  ([Casual] ちゃんとしてる、本物)  This website is legit.
-  - `genuine` /ˈdʒenjuɪn/            ([Neutral] 本物の、純正の)      This is a genuine Rolex.
-  - `authentic` /ɔːˈθentɪk/          ([Neutral] 本物の、信頼できる)  The painting is authentic.
-  - `real` /riːl/                    ([Neutral] 本物の、真の)        Is this real leather?
-  - `valid` /ˈvælɪd/                 ([Neutral] 有効な、正当な)      Your passport is still valid.
-  - `bona fide` /ˌboʊnə ˈfaɪdi/     ([Formal] 真正な、誠実な)       He's a bona fide expert.
-
 ## SCALE (A out of B)
 > `A out of B`                      ([Neutral] BのうちのA)          3 out of 5 people agreed.
   - `A in B`                        ([Neutral] BのうちのA)          1 in 10 people disagree.
-
-- `accuracy` /ˈækjərəsi/        ([Neutral] 正確さ、的確さ)      The accuracy of the test is high.
-- `accurate` /ˈækjərət/           ([Neutral] 正確な、的確な)      Is this information accurate?
-- `accurate` /ˈækjərət/          ([Neutral] 正確な、精密な)      The report was accurate.
-

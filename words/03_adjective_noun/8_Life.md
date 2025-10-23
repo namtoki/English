@@ -288,7 +288,6 @@
 - `convoluted` /ˈkɒnvəluːtɪd/       ([Writing] 複雑で分かりにくい)  His explanation was convoluted.
 - `cool` /kuːl/                     ([Casual] 冷静な、落ち着いた)   Keep cool under pressure.
 - `corner` /ˈkɔːrnər/               ([Neutral] 角、隅)              He sat in the corner.
-- `correct` /kəˈrekt/               ([Neutral] 正しい、正確な)      Is this answer correct?
 - `correction` /kəˈrekʃən/      ([Neutral] 訂正、修正)          The teacher made a correction.
 - `courage` /ˈkɜːrɪdʒ/              ([Neutral] 勇気)                It takes courage to admit mistakes.
 - `covertness` /ˈkoʊvərtnəs/      ([Formal] 隠密性)               The covertness of the operation was crucial.
@@ -503,8 +502,6 @@
 - `everything`                      ([Neutral] 全て)                `Everything` is going to be fine.
 - `evocation` /ˌevəˈkeɪʃən/     ([Writing] 想起、呼び起こし)    The evocation of past times was moving.
 - `evocative` /ɪˈvoʊkətɪv/      ([Writing] 想起させる)          The photo is evocative of old times.
-- `exact` /ɪɡˈzækt/               ([Neutral] 正確な、厳密な)      What's the exact time?
-- `exact` /ɪɡˈzækt/              ([Neutral] 正確な、厳密な)      What's the exact time?
 - `exacting` /ɪɡˈzæktɪŋ/          ([Formal] 厳密な、骨の折れる)   The job requires exacting standards.
 - `exalt` /ɪɡˈzɔːlt/               ([Writing] 称賛する、高める)      The poem exalts the beauty of nature.
 - `exaltation` /ˌeɡzɔːlˈteɪʃən/  ([Writing] 称賛、高揚)            He felt a sense of exaltation after winning.
@@ -613,7 +610,6 @@
 - `gentle` /ˈdʒentəl/               ([Neutral] 優しい、穏やかな)    She has a gentle nature.
 - `gentleness` /ˈdʒentəlnəs/       ([Neutral] 優しさ、穏やかさ)         His gentleness won her heart.
 - `gently` /ˈdʒentli/              ([Neutral] 優しく、そっと)           He gently touched her shoulder.
-- `genuine` /ˈdʒenjuɪn/             ([Neutral] 本物の、真剣な)      She showed genuine concern.
 - `geometric` /ˌdʒiːəˈmetrɪk/     ([Neutral] 幾何学的な)          The geometric patterns are beautiful.
 - `geometrical` /ˌdʒiːəˈmetrɪkəl/ ([Formal] 幾何学的な)           The geometrical proof is elegant.
 - `geometry` /dʒiˈɑːmətri/          ([Neutral] 幾何学)              I'm studying geometry this semester.
@@ -827,7 +823,6 @@
 - `melting` /ˈmeltɪŋ/               ([Neutral] やさしい、優しげな)   She spoke in a melting voice.
 - `mess` /mes/                       ([Neutral] 散らかし、混乱)        What a mess you've made!
 - `metal` /ˈmetl/                   ([Neutral] 金属)                Gold is a precious metal.
-- `meticulous` /məˈtɪkjələs/     ([Writing] 細部にこだわる)      She's meticulous about her work.
 - `middle` /ˈmɪdəl/              ([Neutral] 中間の、真ん中の)    We're in the middle of testing phase.
 - `migrant` /ˈmaɪɡrənt/              ([Neutral] 移民、移住者)        Many migrants seek better opportunities.
 - `migratory` /ˈmaɪɡrətɔːri/         ([Writing] 移住性の)            Migratory birds travel thousands of miles.
@@ -908,7 +903,6 @@
 - `old-fashioned` /oʊld ˈfæʃənd/    ([Neutral] 古風な、旧式の)      She has old-fashioned values.
 - `old` /oʊld/                      ([Neutral] 古い、年老いた)      This is an old building.
 - `on average`                          ([Neutral] 平均して) `On average,` people sleep about eight hours a night.
-- `on-target` /ɑːn ˈtɑːrɡət/      ([Neutral] 的確な、正確な)      The forecast was on-target.
 - `once in a blue moon`                 (めったにない)
 - `one thing`                       ([Neutral] 一つのこと)          There's `one thing` I need to tell you.
 - `one-off`                     一度きりの                  The expense incurred this year to construct the building is a `one-off` cost.
@@ -955,7 +949,6 @@
 - `pedestal` /ˈpedɪstəl/            ([Neutral] 台座、高い地位)        The statue stands on a marble pedestal.
 - `pedestrian crossing`         横断歩道 crosswalk, crossway
 - `perception` /pərˈsepʃən/     ([Formal] 理解、知覚)           His perception was accurate.
-- `perfect` /ˈpɜːrfəkt/           ([Neutral] 完璧な、正確な)      She gave a perfect performance.
 - `perfection` /pərˈfekʃən/     ([Neutral] 完璧、完全)          She strives for perfection.
 - `perplexing` /pərˈpleksɪŋ/         ([Neutral] 当惑させる)           The perplexing riddle took hours to solve.
 - `perseverance` /ˌpɜːrsəˈvɪrəns/   ([Formal] 忍耐、根気)           Success requires perseverance.
@@ -1004,9 +997,6 @@
 - `preceding`                       ([Formal] 先行する)             The preceding chapter.
 - `precipitant` /prɪˈsɪpɪtənt/      ([Formal] 誘因、沈殿剤)         Stress was the precipitant factor.
 - `precipitate` /prɪˈsɪpɪteɪt/    ([Formal] 引き起こす、沈殿させる)  The crisis precipitated changes.
-- `precise` /prɪˈsaɪs/            ([Neutral] 正確な、精密な)      Give me a precise answer.
-- `precise` /prɪˈsaɪs/           ([Neutral] 正確な、精密な)      She gave precise instructions.
-- `precision` /prɪˈsɪʒən/       ([Neutral] 正確さ、精密さ)      This task requires precision.
 - `premise | premises`          前提 | 家屋,建物,構内,敷地内
 - `preparatory` /prɪˈpærətɔːri/   ([Formal] 準備の、予備の)       The preparatory work is almost complete.
 - `presumption` /prɪˈzʌmpʃən/       ([Formal] 思い上がり、推定)     His presumption annoyed me.
@@ -1131,10 +1121,8 @@
 - `revolted` /rɪˈvoʊltəd/         ([Neutral] 嫌悪感を抱いた)      I was revolted by his actions.
 - `revolting` /rɪˈvoʊltɪŋ/          ([Neutral] 不快な、嫌悪すべき)  The sight was revolting.
 - `rift` /rɪft/                     ([Neutral] 亀裂、不和)          A rift developed between the two leaders.
-- `right` /raɪt/                  ([Casual] 正しい、正確な)       You got the right answer.
 - `righteous` /ˈraɪtʃəs/            ([Formal] 正義の、道徳的な)     He has righteous anger.
 - `righteousness` /ˈraɪtʃəsnəs/   ([Formal] 正義、正しさ)         His righteousness is evident.
-- `rigorous` /ˈrɪɡərəs/             ([Formal] 厳密な、厳格な)       The study used rigorous methods.
 - `rival` /ˈraɪvəl/                 ([Neutral] 競争相手、ライバル)    The two companies are rivals.
 - `rizz` /rɪz/                      ([Casual] 異性を惹きつける魅力)  He's got serious rizz.
 - `robust` /roʊˈbʌst/               ([Formal] 強健な、力強い)       The economy shows robust growth.
@@ -1236,7 +1224,6 @@
 - `split` /splɪt/                   ([Neutral] 分裂、割れ目)        The party split over the issue.
 - `spoil` /spɔɪl/                 ([Neutral] 台無しにする)        Don't spoil the surprise.
 - `spoon-feeding` /ˈspuːn fiːdɪŋ/   ([Casual] 手取り足取りの指導)    Spoon-feeding prevents independent thinking.
-- `spot-on` /spɑːt ɑːn/           ([Casual] 的確な、正確な)       Your analysis was spot-on.
 - `spotless` /ˈspɒtləs/             ([Neutral] 汚れ一つない)        The kitchen was spotless after cleaning.
 - `spotting` /ˈspɑːtɪŋ/         ([Casual] 発見、斑点)           Bird spotting is his hobby.
 - `stable` /ˈsteɪbəl/               ([Neutral] 安定した 落ち着いた) She has a stable personality.
@@ -1404,7 +1391,6 @@
 - `triviality` /ˌtrɪviˈæləti/     ([Writing] 些細なこと)          He focused on trivialities instead of the main issue.
 - `troublesome` /ˈtrʌbəlsəm/        ([Neutral] 面倒な、困難な)      He's a troublesome child.
 - `true` /truː/                     ([Neutral] 真実の、本当の)      Her feelings are true.
-- `true` /truː/                   ([Neutral] 本当の、正確な)      Is this statement true?
 - `trustworthiness`               ([Neutral] 信頼性)              Her trustworthiness is proven.
 - `trustworthy` /ˈtrʌstˌwɜːrði/     ([Neutral] 信頼できる 良心的な) He's very trustworthy.
 - `truth` /truːθ/               ([Neutral] 真実、事実)          Tell me the truth.
@@ -1428,7 +1414,6 @@
 - `uncouthness` /ʌnˈkuːθnəs/      ([Formal] 無作法、粗野)         His uncouthness made him unpopular.
 - `understandable` /ˌʌndərˈstændəbəl/ ([Neutral] 理解できる)        His reaction is understandable.
 - `undisputed` /ˌʌndɪˈspjuːtɪd/    ([Neutral] 議論の余地のない)     He's the undisputed champion.
-- `unerring` /ʌnˈerɪŋ/            ([Formal] 誤りのない、正確な)   She has an unerring sense of direction.
 - `unfathomable` /ʌnˈfæðəməbəl/      ([Writing] 計り知れない)         His unfathomable wisdom amazed us.
 - `unfounded` /ʌnˈfaʊndɪd/          ([Formal] 根拠のない)           Her fears proved unfounded.
 - `unhappy` /ʌnˈhæpi/               ([Neutral] 不幸な、不満な)      She's unhappy with her job.
