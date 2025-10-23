@@ -33,6 +33,14 @@
   - `contrary` /ˈkɑntɹɛɹi/          ([Neutral] 反抗的な、逆の)      The child was being contrary.
   - `twisted` /ˈtwɪstɪd/            ([Casual] ひねくれた、倒錯した)  He has a twisted sense of humor.
 
+## COOL / AWESOME (SLANG)
+- `dope` /doʊp/                     ([Casual] 最高な、素晴らしい)    That new song is dope!
+- `lit` /lɪt/                       ([Casual] 最高、素晴らしい)      The party was lit last night.
+- `fire` /faɪər/                    ([Casual] 最高、すごい)          Your performance was fire!
+- `sick` /sɪk/                      ([Casual] すごい、かっこいい)    Those shoes are sick!
+- `awesome` /ˈɔːsəm/                ([Casual] 素晴らしい、最高)      That movie was awesome!
+- `cool` /kuːl/                     ([Casual] かっこいい、素晴らしい) That's a cool idea.
+
 ## IMPRESSIVE / GRAND
 - `imposing` /ɪmˈpoʊzɪŋ/           ([Neutral] 堂々とした、威圧的な)  The imposing building dominated the skyline.
   - `impressive` /ɪmˈpresɪv/        ([Neutral] 印象的な、見事な)     The performance was impressive.
