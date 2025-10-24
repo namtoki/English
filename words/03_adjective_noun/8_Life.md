@@ -928,6 +928,12 @@
 - `overwhelming` /ˌoʊvərˈwelmɪŋ/    ([Neutral] 圧倒的な、困難な)    The workload is overwhelming.
 - `pail` /peɪl/                     ([Neutral] バケツ、桶)           She carried water in a pail.
 - `pain` /peɪn/                    ([Casual] 面倒なこと)          Dealing with paperwork is a pain.
+> `pain in the neck` /peɪn ɪn ðə nɛk/ ([Casual] 厄介者、面倒な人)     He's such a pain in the neck.
+  - `nuisance` /ˈnuːsəns/           ([Neutral] 迷惑、厄介者)        That dog is a nuisance.
+  - `headache` /ˈhɛdeɪk/            ([Casual] 頭痛の種)             This project is a headache.
+  - `pest` /pɛst/                   ([Casual] 厄介者)               Stop being a pest!
+  - `hassle` /ˈhæsl̩/               ([Casual] 面倒、厄介)           Moving is such a hassle.
+  - `annoyance` /əˈnɔɪəns/          ([Neutral] 迷惑、厄介なもの)    The delay was an annoyance.
 - `painstaking` /ˈpeɪnzˌteɪkɪŋ/     ([Writing] 骨の折れる)          The restoration was painstaking work.
 - `pandemia` /pænˈdiːmiə/         ([Writing] 大流行、汎流行)      The pandemia spread rapidly.
 - `pandemic` /pænˈdemɪk/            ([Neutral] 世界的流行病)        The pandemic affected millions worldwide.

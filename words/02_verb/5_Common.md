@@ -38,6 +38,12 @@
   - `put off` /pʊt ɔːf/             ([Neutral] 延期する)            We put off the wedding.
   - `set back` /set bæk/            ([Neutral] 遅らせる)            The storm set back our plans.
   - `hold off` /hoʊld ɔːf/          ([Neutral] 延期する)            Let's hold off on the decision.
+> `be no fun` /bi noʊ fʌn/          ([Casual] 楽しくない)           This game is no fun.
+  - `be boring` /bi ˈboɹɪŋ/         ([Neutral] 退屈である)          This movie is boring.
+  - `be a drag` /bi ə dɹæɡ/         ([Casual] つまらない)           This work is such a drag.
+  - `be dull` /bi dʌl/              ([Neutral] 退屈である)          The lecture was dull.
+  - `be a killjoy` /bi ə ˈkɪldʒɔɪ/  ([Casual] 興を削ぐ)             Don't be a killjoy!
+  - `be a wet blanket`              ([Casual] 場をしらけさせる)     He's such a wet blanket.
 
 ## MOVE (move / go / get to / walk / swing by / go down / enter)
 > `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
@@ -102,6 +108,12 @@
   - `come in` /kʌm ɪn/              ([Casual] 入って来る)           Please come in and have a seat.
   - `walk in` /wɔːk ɪn/             ([Neutral] 歩いて入る)          He walked in without knocking.
   - `step in` /step ɪn/             ([Neutral] 中に入る、介入する)  Please step in to my office.
+> `tag along` /tæɡ əˈlɔŋ/           ([Casual] 一緒に行く)           Can I tag along with you?
+  - `come along` /kʌm əˈlɔŋ/        ([Casual] 一緒に来る)           Come along with me!
+  - `follow` /ˈfɑloʊ/               ([Neutral] ついて行く)          Just follow me.
+  - `accompany` /əˈkʌmpəni/         ([Formal] 同行する)             I'll accompany you to the meeting.
+  - `trail along` /tɹeɪl əˈlɔŋ/    ([Casual] 後についていく)       The kids trailed along behind us.
+  - `come with` /kʌm wɪð/           ([Casual] 一緒に来る)           Do you want to come with?
 
 ## MOVE (travel / relocate / transport / get together / show up / rush / see a doctor)
 > `travel` /ˈtrævəl/                ([Neutral] 旅行する、移動する)  I travel for work frequently.

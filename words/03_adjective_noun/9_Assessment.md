@@ -460,3 +460,21 @@
 - `vibrant` /ˈvaɪbrənt/             ([Neutral] 活気のある、熱心な)  The city has a vibrant culture.
 - `vigorous` /ˈvɪɡərəs/             ([Formal] 精力的な、熱心な)     They had a vigorous debate.
 - `zealous` /ˈzeləs/                ([Formal] 熱心な、熱狂的な)     He's zealous about his work.
+
+- `laid-back`                           ([Casual] 肩の力が抜けた、リラックスした)
+
+- `reassurance` /ˌriːəˈʃʊrəns/     ([Neutral] 安心、元気づけ)           He needed reassurance before the surgery.
+
+- `extravagant` /ɪkˈstrævəɡənt/     ([Neutral] 贅沢な、派手な)       The party was extravagant.
+
+- `minimal` /ˈmɪnɪməl/              ([Neutral] 最小限の)            The damage was minimal.
+- `minimum` /ˈmɪnɪməm/              ([Neutral] 最小限、最低限)       Keep expenses to a minimum.
+
+- `weirdo` /ˈwɪrdoʊ/                ([Casual] 変人、奇人)           He's such a weirdo.
+- `weird` /wɪrd/                    ([Neutral] 変な、奇妙な)         That's weird.
+- `queer` /kwɪr/                    ([Writing] 奇妙な、変な)         That's a queer situation.
+- `strange` /streɪndʒ/              ([Neutral] 奇妙な、変な)         He has strange habits.
+- `odd` /ɑːd/                       ([Neutral] 変な、奇妙な)         That's an odd question.
+- `peculiar` /pɪˈkjuːliər/          ([Neutral] 奇妙な、特有の)       She has a peculiar accent.
+- `unusual` /ʌnˈjuːʒuəl/            ([Neutral] 珍しい、異常な)       It's unusual for him to be late.
+- `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な、異様な)       That was a bizarre experience.
