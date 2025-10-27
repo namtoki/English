@@ -1,14 +1,7 @@
 # Science
 
-> `burning` /ˈbɜːrnɪŋ/              ([Neutral] 燃えている、激しい)  The burning building collapsed.
-  - `fiery` /ˈfaɪəri/               ([Neutral] 燃えるような 激しい) Her fiery temper surprised everyone.
-  - `blazing` /ˈbleɪzɪŋ/            ([Neutral] 燃えている、猛烈な)  The blazing sun was unbearable.
-  - `ignited` /ɪɡˈnaɪtɪd/           ([Neutral] 点火された、燃え上がった) The gas was ignited.
-  - `ablaze` /əˈbleɪz/              ([Writing] 燃えている、輝いている) The building was ablaze.
-  - `alight` /əˈlaɪt/               ([Writing] 燃えている、点いている) The candles were alight.
-  - `aflame` /əˈfleɪm/              ([Writing] 炎に包まれた)        The forest was aflame.
+## Fire
 > `fire` /faɪər/                    ([Neutral] 火、火災)            The fire spread quickly.
-  > `be on fire`                   ([Casual] 絶好調である)          The team is on fire right now.
   - `flame` /fleɪm/                 ([Neutral] 炎)                  The flame flickered in the wind.
   - `blaze` /bleɪz/                 ([Neutral] 炎、火災)            The fire became a dangerous blaze.
   - `spark` /spɑːrk/                ([Neutral] 火花)                A spark ignited the gasoline.
@@ -17,6 +10,13 @@
   - `conflagration`                 ([Formal] 大火災)               The conflagration destroyed the forest.
   - `combustion` /kəmˈbʌstʃən/      ([Technical] 燃焼)              Spontaneous combustion started the fire.
   - `flare` /fler/                  ([Neutral] 炎上、閃光)          The fire flared up suddenly.
+> `burning` /ˈbɜːrnɪŋ/              ([Neutral] 燃えている、激しい)  The burning building collapsed.
+  - `fiery` /ˈfaɪəri/               ([Neutral] 燃えるような 激しい) Her fiery temper surprised everyone.
+  - `blazing` /ˈbleɪzɪŋ/            ([Neutral] 燃えている、猛烈な)  The blazing sun was unbearable.
+  - `ignited` /ɪɡˈnaɪtɪd/           ([Neutral] 点火された 燃上がた) The gas was ignited.
+  - `ablaze` /əˈbleɪz/              ([Writing] 燃えている 輝いてる) The building was ablaze.
+  - `alight` /əˈlaɪt/               ([Writing] 燃えている 点いてる) The candles were alight.
+  - `aflame` /əˈfleɪm/              ([Writing] 炎に包まれた)        The forest was aflame.
 
 ## GEOMETRY (SHAPE / WIDE / DENSE / ALTITUDE)
 > `shape` /ʃeɪp/                    ([Neutral] 形、形状)            What shape is this object?
@@ -109,7 +109,7 @@
     - `elevated` /ˈelɪveɪtɪd/       ([Formal] 高い位置の、高尚な)   The elevated platform offered great views.
   - `height` /haɪt/                 ([Neutral] 高さ、身長)          What's the height of that building?
 
-## MATERIALS
+## Materials
 - `graphite` /ˈɡræfaɪt/             ([Neutral] 黒鉛、グラファイト)   Pencil lead is made of graphite.
 - `carbon` /ˈkɑːrbən/               ([Neutral] 炭素)                Carbon is essential for life.
 - `charcoal` /ˈtʃɑːrkoʊl/           ([Neutral] 木炭、炭)            Artists use charcoal for drawing.
@@ -122,6 +122,3 @@
 - `stretchy` /ˈstretʃi/            ([Casual] 伸縮性のある)         These pants are really stretchy.
 - `resilient` /rɪˈzɪliənt/         ([Neutral] 回復力のある)        The economy is resilient and recovering quickly.
 - `springy` /ˈsprɪŋi/              ([Casual] 弾力がある、跳ねる)   The mattress feels nice and springy.
-
-- `anomaly` /əˈnɑməli/              ([Formal] 異常、変則)           The test results show an anomaly.
-- `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.

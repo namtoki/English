@@ -476,3 +476,6 @@
 - `peculiar` /pɪˈkjuːliər/          ([Neutral] 奇妙な、特有の)       She has a peculiar accent.
 - `unusual` /ʌnˈjuːʒuəl/            ([Neutral] 珍しい、異常な)       It's unusual for him to be late.
 - `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な、異様な)       That was a bizarre experience.
+
+- `anomaly` /əˈnɑməli/              ([Formal] 異常、変則)           The test results show an anomaly.
+- `experimental` /ɪkˌsperɪˈmentəl/([Neutral] 実験的な、試験的な)  This is still an experimental feature.

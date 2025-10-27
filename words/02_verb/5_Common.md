@@ -1342,3 +1342,13 @@
 - `defend` /dɪˈfend/              ([Neutral] 守る、擁護する)      They defended their territory.
 - `derive` /dɪˈraɪv/              ([Formal] 由来する、派生する)   The word derives from Latin.
 - `abhor` /əbˈhɔːr/                 ([Writing] 忌み嫌う)            I abhor violence in any form.
+
+## CHALLENGE / EXCEED LIMITS
+> `push the boundaries` /pʊʃ ðə ˈbaʊndriz/ ([Neutral] 限界を押し広げる)   This research pushes the boundaries of science.
+  - `push the envelope` /pʊʃ ði ˈenvəloʊp/ ([Neutral] 限界に挑戦する)   The director pushes the envelope with this film.
+  - `break barriers` /breɪk ˈbæriərz/   ([Neutral] 障壁を打ち破る)   She broke barriers in the industry.
+  - `push the limits` /pʊʃ ðə ˈlɪmɪts/   ([Neutral] 限界に挑む)       Athletes push the limits of human performance.
+  - `challenge the status quo` /ˈtʃælɪndʒ ðə ˈsteɪtəs kwoʊ/ ([Formal] 現状に挑戦する) We need to challenge the status quo.
+  - `push back the frontiers` /pʊʃ bæk ðə ˌfrʌnˈtɪrz/ ([Formal] 未知の領域を広げる) Scientists push back the frontiers of knowledge.
+
+  > `be on fire`                   ([Casual] 絶好調である)          The team is on fire right now.
