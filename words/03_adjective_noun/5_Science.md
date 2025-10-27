@@ -1,5 +1,19 @@
 # Science
 
+## Materials
+- `graphite` /ˈɡræfaɪt/             ([Neutral] 黒鉛、グラファイト)  Pencil lead is made of graphite.
+- `carbon` /ˈkɑːrbən/               ([Neutral] 炭素)                Carbon is essential for life.
+- `charcoal` /ˈtʃɑːrkoʊl/           ([Neutral] 木炭、炭)            Artists use charcoal for drawing.
+- `coal` /koʊl/                     ([Neutral] 石炭)                Coal is used for generating electricity.
+- `lead` /led/                      ([Neutral] 鉛)                  Lead is a heavy metal.
+- `pencil lead` /ˈpensəl led/       ([Neutral] 鉛筆の芯)            Pencil lead is actually graphite.
+- `elastic` /ɪˈlæstɪk/            ([Neutral] 弾力性のある)        This fabric is very elastic.
+- `elasticity` /ɪˌlæˈstɪsəti/     ([Neutral] 弾力性)              The elasticity of this material is excellent.
+- `flexible` /ˈfleksəbl/          ([Neutral] 柔軟な、曲げられる)  She has a very flexible schedule.
+- `stretchy` /ˈstretʃi/            ([Casual] 伸縮性のある)         These pants are really stretchy.
+- `resilient` /rɪˈzɪliənt/         ([Neutral] 回復力のある)        The economy is resilient and recovering quickly.
+- `springy` /ˈsprɪŋi/              ([Casual] 弾力がある、跳ねる)   The mattress feels nice and springy.
+
 ## Fire
 > `fire` /faɪər/                    ([Neutral] 火、火災)            The fire spread quickly.
   - `flame` /fleɪm/                 ([Neutral] 炎)                  The flame flickered in the wind.
@@ -108,17 +122,3 @@
   - `elevation` /ˌelɪˈveɪʃən/       ([Formal] 標高、高さ)           The city's elevation is 1000 meters.
     - `elevated` /ˈelɪveɪtɪd/       ([Formal] 高い位置の、高尚な)   The elevated platform offered great views.
   - `height` /haɪt/                 ([Neutral] 高さ、身長)          What's the height of that building?
-
-## Materials
-- `graphite` /ˈɡræfaɪt/             ([Neutral] 黒鉛、グラファイト)   Pencil lead is made of graphite.
-- `carbon` /ˈkɑːrbən/               ([Neutral] 炭素)                Carbon is essential for life.
-- `charcoal` /ˈtʃɑːrkoʊl/           ([Neutral] 木炭、炭)            Artists use charcoal for drawing.
-- `coal` /koʊl/                     ([Neutral] 石炭)                Coal is used for generating electricity.
-- `lead` /led/                      ([Neutral] 鉛)                  Lead is a heavy metal.
-- `pencil lead` /ˈpensəl led/       ([Neutral] 鉛筆の芯)            Pencil lead is actually graphite.
-- `elastic` /ɪˈlæstɪk/            ([Neutral] 弾力性のある)        This fabric is very elastic.
-- `elasticity` /ɪˌlæˈstɪsəti/     ([Neutral] 弾力性)              The elasticity of this material is excellent.
-- `flexible` /ˈfleksəbl/          ([Neutral] 柔軟な、曲げられる)  She has a very flexible schedule.
-- `stretchy` /ˈstretʃi/            ([Casual] 伸縮性のある)         These pants are really stretchy.
-- `resilient` /rɪˈzɪliənt/         ([Neutral] 回復力のある)        The economy is resilient and recovering quickly.
-- `springy` /ˈsprɪŋi/              ([Casual] 弾力がある、跳ねる)   The mattress feels nice and springy.
