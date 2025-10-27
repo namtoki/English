@@ -71,11 +71,11 @@
   - `a multitude of`                ([Formal] 多数の、たくさんの)   A multitude of issues arose.
 > `rich` /rɪtʃ/                     ([Neutral] 豊富な、豊かな)      The area is rich in resources.
   - `abundant` /əˈbʌndənt/          ([Neutral] 豊富な)              Food was abundant at the party.
+  - `abundance` /əˈbʌndəns/         ([Neutral] 豊富、大量)          There's an abundance of opportunities.
   - `ample` /ˈæmpəl/                ([Neutral] 十分な、豊富な)      There's ample time to finish.
   - `a wealth of`                   ([Neutral] 豊富な)               She has a wealth of experience.
   - `plentiful` /ˈplentɪfəl/        ([Neutral] 豊富な、十分な)      Food was plentiful.
   - `plenty` /ˈplenti/              ([Neutral] たくさん、豊富)      There's plenty of time.
-  - `abundance` /əˈbʌndəns/         ([Neutral] 豊富、大量)          There's an abundance of opportunities.
   - `copious` /ˈkoʊpiəs/            ([Formal] 豊富な、大量の)       He took copious notes.
   - `generous` /ˈdʒenərəs/          ([Neutral] 豊富な、気前の良い)  A generous amount was provided.
   - `bountiful` /ˈbaʊntɪfəl/        ([Formal] 豊富な、気前の良い)   The harvest was bountiful.

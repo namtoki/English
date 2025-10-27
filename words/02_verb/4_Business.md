@@ -810,3 +810,11 @@
   - `stay out of`                   ([Casual] 首を突っ込まない)     Please stay out of this matter.
   - `keep out of`                   ([Neutral] 関わらない)          I try to keep out of office politics.
   - `butt out`                      ([Casual] 首を突っ込むな)       Just butt out, okay?
+
+> `no good`                         ([Casual] 良くない)             This plan is no good.
+  - `no use`                         ([Casual] 役に立たない)         It's no use trying to fix it now.
+  - `not worth it`                   ([Casual] 価値がない)           The effort is not worth it.
+  - `useless`                        ([Casual] 役に立たない)         This tool is useless for our needs.
+> `better than nothing`              ([Casual] ないよりマシ)         It's not perfect, but it's better than nothing.
+  - `something is better than nothing` ([Neutral] 何かはないよりマシ)  Even a small donation is better than nothing.
+

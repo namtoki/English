@@ -225,6 +225,12 @@
   - `blown away`                    ([Casual] 驚かされた)           I was blown away by the performance.
   - `taken aback`                   ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
   - `at a loss for words`           ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
+> `be hyped`                        ([Casual] 興奮している)         I'm so hyped for the concert!
+  - `be pumped`                     ([Casual] やる気満々、興奮)     I'm pumped for the game tonight!
+  - `be stoked`                     ([Casual] すごく興奮している)   I'm stoked about the trip!
+  - `be psyched`                    ([Casual] ワクワクしている)     I'm psyched for the party!
+  - `be fired up`                   ([Casual] やる気満々、熱くなる) I'm fired up for the match!
+  - `be thrilled`                   ([Neutral] とても喜んでいる)    I'm thrilled about the news!
 > `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
   - `Nothing's going my way`        ([Casual] 何もうまくいかない)   Nothing's going my way today.
   - `I'm having bad luck`           ([Neutral] 運が悪い)            I'm having bad luck with my car.
@@ -238,6 +244,12 @@
   - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
   - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
   - `Murphy's Law is in full effect`([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
+  - `no luck`                       ([Casual] 無理、うまくいかない) I tried to fix it, but no luck.
+  - `to no avail`                   ([Writing] 無駄に、甲斐なく)    All his efforts were to no avail.
+  - `without success`               ([Writing] 成功せずに)          He tried to start the car without success.
+  - `no dice`                       ([Casual] だめだ、無理だ)       I asked for a refund, but no dice.
+  - `out of luck`                   ([Casual] 運が悪い、ダメだった) Sorry, you're out of luck today.
+  - `tough luck`                    ([Casual] 残念だったね)         You missed it? Tough luck.
 
 ## CONFIRMATION (are you okay?)
 > `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.

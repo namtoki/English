@@ -122,7 +122,6 @@
 - `biographer` /baɪˈɒɡrəfər/        ([Neutral] 伝記作家)             Boswell was Johnson's biographer.
 - `biological` /ˌbaɪəˈlɑːdʒɪkəl/  ([Formal] 生物学の)             Biological diversity is important.
 - `biologist` /baɪˈɑːlədʒɪst/     ([Formal] 生物学者)             The biologist discovered a new species.
-- `biology` /baɪˈɑːlədʒi/           ([Neutral] 生物学)              Biology is a fascinating subject.
 - `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な)              That was a bizarre situation.
 - `black and white` /blæk ænd waɪt/ ([Neutral] 明白な、単純な)      The issue isn't black and white.
 - `blameless` /ˈbleɪmləs/       ([Neutral] 責められるべきでない)She was blameless in the incident.
@@ -172,7 +171,6 @@
 - `bygones` /ˈbaɪɡɔːnz/           ([Writing] 過去の事)            Let bygones be bygones.
 - `byproduct` /ˈbaɪprɒdʌkt/         ([Neutral] 副産物)              Pollution is a byproduct of industrialization.
 - `calamity` /kəˈlæməti/              ([Formal] 災難、不幸)          The fire was a calamity for the town.
-- `calculus` /ˈkælkjələs/           ([Neutral] 微積分学)            Calculus is required for engineering.
 - `calf` /kæf/                       ([Neutral] ふくらはぎ)          My calf muscles are tight.
 - `calm` /kɑːm/                     ([Neutral] 冷静な、穏やかな)    Stay calm during the emergency.
 - `can't stand` /kænt stænd/        ([Casual] 我慢できない)         I can't stand his behavior.
@@ -223,6 +221,11 @@
 - `clothesline` /ˈkləʊðzlaɪn/       ([Neutral] 物干しロープ)        Hang the laundry on the clothesline.
 - `clothespin` /ˈkləʊðzpɪn/         ([Neutral] 洗濯ばさみ)          Use clothespins to secure the sheets.
 - `clout` /klaʊt/                   ([Neutral] 影響力)              She has a lot of clout in the industry.
+- `couch potato` /kaʊtʃ pəˈteɪtoʊ/   ([Casual] 怠け者、ソファ人間)    Don't be a couch potato all day!
+- `lazybones` /ˈleɪzɪboʊnz/        ([Casual] 怠け者、ぐうたら)     Get up, lazybones!
+- `layabout` /ˈleɪəbaʊt/           ([Casual] 怠け者、なまけ者)     He's such a layabout!
+- `slacker` /ˈslækər/              ([Casual] 怠け者、サボる人)     He's such a slacker at work.
+- `slouch` /slaʊtʃ/                  ([Casual] 怠け者、だらしない人) They're just a bunch of slouches.
 - `coal` /koʊl/                     ([Neutral] 石炭)                They burn coal for energy.
 - `coarse` /kɔːrs/                  ([Neutral] 粗野な、粗い)        His coarse manners upset the guests.
 - `coarsely` /ˈkɔːrsli/           ([Neutral] 粗野に)              She laughed coarsely at the joke.
@@ -326,7 +329,6 @@
 - `deep` /diːp/                     ([Neutral] 深い、強い)          She has deep feelings for him.
 - `defeat` /dɪˈfiːt/                ([Neutral] 敗北、挫折)          They suffered a crushing defeat.
 - `defection` /dɪˈfekʃən/         ([Formal] 離反、亡命)           His defection shocked everyone.
-- `defective` /dɪˈfektɪv/         ([Neutral] 欠陥のある)          The defective weapon was recalled.
 - `defender` /dɪˈfendə/           ([Neutral] 防御者、守備者)      The defender blocked the attack.
 - `defense` /dɪˈfens/             ([Neutral] 防御、防衛)          The city's defense was strong.
 - `defenseless` /dɪˈfensləs/      ([Neutral] 無防備の)            The village was left defenseless.
@@ -541,10 +543,6 @@
 - `fantasy` /ˈfæntəsi/              ([Neutral] 幻想、空想)          Living in a castle is just a fantasy.
 - `far more`                      ([Neutral] はるかに多く)        This is far more difficult.
 - `fastidious` /fæˈstɪdiəs/         ([Writing] 細部にこだわる)      He's fastidious about cleanliness.
-- `fault` /fɔːlt/                   ([Neutral] 過失を見つける)      She always finds fault with everything.
-- `faultless` /ˈfɔːltləs/         ([Formal] 非の打ちどころのない) His reasoning was faultless.
-- `faultless` /ˈfɔːltləs/         ([Neutral] 完璧な、非の打ち所のない) Her performance was faultless.
-- `faulty` /ˈfɔːlti/              ([Neutral] 欠陥のある)          The faulty wiring caused a fire.
 - `feasible` /ˈfiːzəbəl/         ([Neutral] 実行可能な)          The plan is feasible with our budget.
 - `feat` /fiːt/                     ([Neutral] 偉業、功績)          Climbing Everest is an incredible feat.
 - `feature` /ˈfiːtʃər/              ([Neutral] 特徴、機能)          This app has many useful features.
@@ -610,9 +608,6 @@
 - `gentle` /ˈdʒentəl/               ([Neutral] 優しい、穏やかな)    She has a gentle nature.
 - `gentleness` /ˈdʒentəlnəs/       ([Neutral] 優しさ、穏やかさ)         His gentleness won her heart.
 - `gently` /ˈdʒentli/              ([Neutral] 優しく、そっと)           He gently touched her shoulder.
-- `geometric` /ˌdʒiːəˈmetrɪk/     ([Neutral] 幾何学的な)          The geometric patterns are beautiful.
-- `geometrical` /ˌdʒiːəˈmetrɪkəl/ ([Formal] 幾何学的な)           The geometrical proof is elegant.
-- `geometry` /dʒiˈɑːmətri/          ([Neutral] 幾何学)              I'm studying geometry this semester.
 - `ghost` /ɡəʊst/                   ([Neutral] 幽霊、亡霊)          She saw a ghost in the attic.
 - `ghostly` /ˈɡəʊstli/            ([Neutral] 幽霊のような)        A ghostly figure appeared.
 - `glare` /ɡleər/                 ([Neutral] にらみつける)        She glared at him angrily.
@@ -699,6 +694,7 @@
 - `icon` /ˈaɪkɒn/                   ([Neutral] アイコン、偶像)       She's an icon in the fashion world.
 - `identifiable` /aɪˌdentɪˈfaɪəbəl/ ([Formal] 識別できる、共感できる) The character is identifiable to readers.
 - `identify with` /aɪˈdentɪfaɪ wɪð/ ([Neutral] 共感する、同一視する) Many people identify with his struggles.
+- `idler` /ˈaɪdlər/                  ([Writing] 怠け者、遊び人)      He's such an idler at work.
 - `ill repute` /ɪl rɪˈpjuːt/        ([Formal] 悪評)                 The hotel has an ill repute.
 - `illusion` /ɪˈluːʒən/             ([Neutral] 錯覚、幻想)          The magician created an optical illusion.
 - `illusionist` /ɪˈluːʒənɪst/     ([Neutral] 手品師、幻術師)      The illusionist amazed the audience.
@@ -812,7 +808,6 @@
 - `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
 - `many more`                     ([Neutral] ずっと多く)          Many more people joined.
 - `masses of`                     ([Casual] 大量の)               Masses of people attended.
-- `mathematics` /ˌmæθəˈmætɪks/      ([Formal] 数学)                 Mathematics is the language of science.
 - `mayhem` /ˈmeɪhem/                ([Neutral] 大混乱、騒乱)        The storm caused mayhem in the city.
 - `measure up` /ˈmeʒər ʌp/          ([Neutral] 基準に達する)        He doesn't measure up to the job.
 - `measured` /ˈmeʒərd/              ([Neutral] 測定された、慎重な)  He spoke in measured tones.
@@ -1506,3 +1501,11 @@
 - `zoologist` /zoʊˈɑːlədʒɪst/     ([Formal] 動物学者)             The zoologist studies animal behavior.
 - `zoology` /zoʊˈɑːlədʒi/           ([Formal] 動物学)               She studies zoology at university.
 - `assortment` /əˈsɔːrtmənt/        ([Neutral] 取り合わせ)            There's an assortment of cookies.
+> `unaware` /ˌʌnəˈwɛr/               ([Neutral] 気づいていない)      I was unaware of the problem.
+  - `unawareness`                    ([Neutral] 無自覚、無認識)      His unawareness is concerning.
+> `uninformed` /ˌʌnɪnˈfɔrmd/         ([Neutral] 情報不足の)          The public is largely uninformed.
+> `naive` /naɪˈiːv/                  ([Neutral] 世間知らず、無邪気な) Don't be so naive about it.
+  - `naivety` /naɪˈiːvəti/           ([Neutral] 無邪気さ、世間知らず) His naivety is almost charming.
+  - `naively` /naɪˈiːvli/            ([Neutral] 無邪気に)            She naively trusted everyone.
+> `oblivious` /əˈblɪviəs/            ([Neutral] 気づかない、無頓着な) She was oblivious to the danger.
+  - `obliviousness`                  ([Neutral] 無頓着、無自覚)      His obliviousness is frustrating.

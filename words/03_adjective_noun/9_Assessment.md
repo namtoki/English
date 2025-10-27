@@ -465,8 +465,6 @@
 
 - `reassurance` /ˌriːəˈʃʊrəns/     ([Neutral] 安心、元気づけ)           He needed reassurance before the surgery.
 
-- `extravagant` /ɪkˈstrævəɡənt/     ([Neutral] 贅沢な、派手な)       The party was extravagant.
-
 - `minimal` /ˈmɪnɪməl/              ([Neutral] 最小限の)            The damage was minimal.
 - `minimum` /ˈmɪnɪməm/              ([Neutral] 最小限、最低限)       Keep expenses to a minimum.
 

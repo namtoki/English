@@ -3,7 +3,7 @@
 ## Favorites
 - `what it's like to V`             ([Neutral] ～がどんな感じか)    I know what it's like to struggle financially.
 
-## Nitty-Gritty (`be dedicated to` / `temporary`)
+## Nitty-Gritty (`A out of B` / `be dedicated to` / `temporary`)
 > `A out of B`                      ([Neutral] BのうちのA)          3 out of 5 people agreed.
   - `A in B`                        ([Neutral] BのうちのA)          1 in 10 people disagree.
   - `A out of every B`              ([Neutral] B人に1人がA)         2 out of every 10 fail.
@@ -42,7 +42,7 @@
   - `transitory` /ˈtrænsətɔːri/     ([Formal] 一時的な、つかの間の) Life's pleasures are transitory.
   - `ephemeral` /ɪˈfemərəl/         ([Formal] はかない、短命な)     Fame can be ephemeral.
 
-## Documentation
+## Documentation (abbreviation / acronym)
 > `abbreviation` /əˌbriːviˈeɪʃən/   ([Neutral] 略語)                "Dr." is an abbreviation for "Doctor."
   - `abbreviated` /əˈbriːvieɪtɪd/   ([Neutral] 短縮された)          The abbreviated version is easier to read.
   - `shortened` /ˈʃɔːrtənd/         ([Neutral] 短縮された)          Use the shortened form of the name.
@@ -53,7 +53,7 @@
 > `acronym` /ˈækrənɪm/              ([Neutral] 頭字語)              NASA is an acronym for the space agency.
   - `initialism` /ɪˈnɪʃəlɪzəm/      ([Formal] 頭文字語)             "FBI" is an initialism.
 
-## Good Feelings
+## Good Feelings (`accurate` / `legit` / concise)
 > `accurate` /ˈækjərət/             ([Neutral] 正確な、的確な)      Is this information accurate?
   - `accuracy` /ˈækjərəsi/          ([Neutral] 正確さ、精度)        The accuracy of the test is high.
   - `correct` /kəˈrekt/             ([Neutral] 正しい、正確な)      Your answer is correct.
@@ -95,43 +95,59 @@
   - `laconic` /ləˈkɑːnɪk/           ([Formal] 簡潔な、寡黙な)       His laconic reply surprised us.
   - `truncated` /ˈtrʌŋkeɪtɪd/       ([Formal] 切り詰められた)       The truncated text fits better.
 
-## Bad Feelings
-> `flaw` /flɔː/                     ([Neutral] 欠点、欠陥)          There's a flaw in the design.
+## Bad Feelings (weakness / problem / `downside` / `unnecessary` / `over the top`)
+> `weakness` /ˈwiːknəs/             ([Neutral] 弱点、欠点)          That's the plan's main weakness.
+  - `weak point`                    ([Neutral] 弱点)                Security is our weak point.
+> `problem` /ˈprɑːbləm/             ([Neutral] 問題点)              The main problem is the budget.
+  - `issue` /ˈɪʃuː/                 ([Neutral] 問題点、課題)        We need to address this issue.
+> `downside` /ˈdaʊnˌsaɪd/           ([Casual] マイナス面、悪い面)   The downside is the long commute.
+  - `drawback` /ˈdrɔːbæk/           ([Neutral] 欠点、マイナス面)    The main drawback is the cost.
+  - `disadvantage` /ˌdɪsədˈvæntɪdʒ/ ([Neutral] 不利な点 デメリット) One disadvantage is the high cost.
+  - `flaw` /flɔː/                   ([Neutral] 欠陥、欠点)          There's a flaw in the design.
   - `flawed` /flɔːd/                ([Neutral] 欠陥のある)          The plan was fundamentally flawed.
   - `flawless` /ˈflɔːləs/           ([Formal] 欠点のない、完璧な)   Her technique was flawless.
-  - `defect` /ˈdiːfɛkt/             ([Neutral] 欠陥、不具合)        The product has a defect.
-  - `defective` /dɪˈfɛktɪv/         ([Neutral] 欠陥のある)          The defective part was replaced.
-  - `fault` /fɔlt/                  ([Neutral] 欠点、過失)          It's not your fault.
-  - `faulty` /ˈfɔlti/               ([Neutral] 欠陥のある)          The faulty wiring caused issues.
-  - `weakness` /ˈwiːknəs/           ([Neutral] 弱点、欠点)          That's the plan's main weakness.
-  - `shortcoming` /ˈʃɔɹtˌkʌmɪŋ/     ([Neutral] 欠点、短所)          We discussed the project's shortcomings.
-  - `drawback` /ˈdɹɔˌbæk/           ([Neutral] 欠点、不利な点)      The main drawback is the cost.
-  - `imperfection` /ɪmpɚˈfɛkʃən/    ([Neutral] 不完全、欠点)        Minor imperfections are acceptable.
-> `no good`                         ([Casual] 良くない)             This plan is no good.
-  - `no use`                         ([Casual] 役に立たない)         It's no use trying to fix it now.
-  - `not worth it`                   ([Casual] 価値がない)           The effort is not worth it.
-  - `useless`                        ([Casual] 役に立たない)         This tool is useless for our needs.
-> `better than nothing`              ([Casual] ないよりマシ)         It's not perfect, but it's better than nothing.
-  - `something is better than nothing` ([Neutral] 何かはないよりマシ)  Even a small donation is better than nothing.
+  - `defect` /ˈdiːfekt/             ([Neutral] 欠陥、不具合)        The product has a defect.
+  - `defective` /dɪˈfektɪv/         ([Neutral] 欠陥のある)          The defective part was replaced.
+  - `fault` /fɔːlt/                 ([Neutral] 欠点、過失)          It's not your fault.
+  - `faulty` /ˈfɔːlti/              ([Neutral] 欠陥のある)          The faulty wiring caused issues.
+  - `shortcoming` /ˈʃɔːrtˌkʌmɪŋ/    ([Neutral] 欠点、短所)          We discussed the project's shortcomings.
+  - `limitation` /ˌlɪməˈteɪʃən/     ([Neutral] 制約、限界)          We must work within our limitations.
+  - `pitfall` /ˈpɪtfɔːl/            ([Neutral] 落とし穴 隠れた危険) Watch out for common pitfalls.
+  - `imperfection` /ˌɪmpərˈfekʃən/  ([Neutral] 不完全、欠点)        Minor imperfections are acceptable.
+> `unnecessary` /ʌnˈnesəseri/       ([Neutral] 不要な、無用な)      That comment was unnecessary.
+  - `unneeded`                      ([Neutral] 不要な、必要ない)    The extra staff is unneeded.
+  - `extra` /ˈekstrə/               ([Casual] 余分な、追加の)       We have extra time today.
+  - `excessive` /ɪkˈsesɪv/          ([Neutral] 過度な、過剰な)      The noise was excessive.
+  - `needless` /ˈniːdləs/           ([Neutral] 不要な、無用な)      His death was needless.
+  - `needlessly` /ˈniːdləsli/       ([Neutral] 不必要に)            Don't worry needlessly.
+  - `redundant` /rɪˈdʌndənt/        ([Formal] 冗長な、余分な)       The word "unmarried" is redundant here.
+  - `redundancy` /rɪˈdʌndənsi/      ([Formal] 冗長性、解雇)         The redundancy in the code slows it down.
+  - `redundantly` /rɪˈdʌndəntli/    ([Formal] 冗長に)               The phrase was redundantly repeated.
+  - `superfluous` /suːˈpɜːrfluəs/   ([Formal] 余分な、不要な)       The details were superfluous.
+  - `superfluously` /suːˈpɜːrfluəsli([Formal] 余分に)               The word was superfluously added.
+  - `surplus` /ˈsɜːrpləs/           ([Neutral] 余剰の、余分な)      The surplus goods were sold off.
+  - `extraneous` /ɪkˈstreɪniəs/     ([Formal] 無関係な、余計な)     Remove extraneous information.
+  - `expendable` /ɪkˈspendəbəl/     ([Neutral] 犠牲にできる 不要な) No one is expendable on this team.
+  - `uncalled for` /ʌnˈkɔld fɔːr/   ([Neutral] 不当な、不必要な)    That remark was uncalled for.
+> `excessive` /ɪkˈsesɪv/            ([Neutral] 過度な、過剰な)      The noise was excessive.
+  - `excessively` /ɪkˈsesɪvli/      ([Neutral] 過度に)              The room is excessively hot.
+  - `too much`                      ([Casual] やりすぎ、過度)       That's too much work for one day.
+  - `extreme` /ɪkˈstriːm/           ([Neutral] 極端な、過激な)      His views are extreme.
+  - `extremely` /ɪkˈstriːmli/       ([Neutral] 極端に、非常に)      It's extremely important.
+  - `over the top`                  ([Casual] 過度な、大げさな)     His reaction was over the top.
+  - `exaggerated` /ɪɡˈzædʒəreɪtɪd/  ([Neutral] 誇張された)          The story was exaggerated.
+  - `exaggeration` /ɪɡˌzædʒəˈreɪʃən/([Neutral] 誇張)                That's an exaggeration.
+  - `exaggerate` /ɪɡˈzædʒəreɪt/     ([Neutral] 誇張する)            Don't exaggerate the problem.
+  - `unreasonable` /ʌnˈriːzənəbəl/  ([Neutral] 不合理な、法外な)    That's an unreasonable demand.
+  - `unreasonably` /ʌnˈriːzənəbli/  ([Neutral] 不合理に)            The price is unreasonably high.
+  - `outrageous` /aʊtˈreɪdʒəs/      ([Neutral] 法外な とんでもない) That's an outrageous price.
+  - `outrageously` /aʊtˈreɪdʒəsli/  ([Neutral] 法外に)              It's outrageously expensive.
+  - `extravagant` /ɪkˈstrævəɡənt/   ([Formal] 贅沢な、法外な)       That's an extravagant lifestyle.
+  - `extravagance` /ɪkˈstrævəɡəns/  ([Formal] 贅沢、浪費)           Such extravagance is unnecessary.
+  - `dramatic` /drəˈmætɪk/          ([Neutral] 大げさな、劇的な)    She made a dramatic entrance.
+  - `dramatically` /drəˈmætɪkli/    ([Neutral] 劇的に)              Prices rose dramatically.
 
-- `redundant` /rɪˈdʌndənt/           ([Formal] 冗長な、余分な)        The word "unmarried" is redundant here.
-  - `redundancy` /rɪˈdʌndənsi/        ([Formal] 冗長性、解雇)          The redundancy in the code slows it down.
-  - `redundantly` /rɪˈdʌndəntli/      ([Formal] 冗長に)                The phrase was redundantly repeated.
-- `superfluous` /suːˈpɜːrfluəs/       ([Formal] 余分な、不要な)        The details were superfluous.
-- `unnecessary` /ʌnˈnesəseri/         ([Neutral] 不要な、無用な)       That comment was unnecessary.
-- `uncalled for` /ʌnˈkɔld.foɹ/        ([Neutral] 不当な、不必要な)     That remark was uncalled for.
-- `surplus` /ˈsɜːrpləs/              ([Neutral] 余剰の、余分な)       The surplus goods were sold off.
-- `needless` /ˈniːdləs/              ([Neutral] 不要な、無用な)       His death was needless.
-
-- `excessive` /ɪkˈsesɪv/             ([Neutral] 過度な、過剰な)       The noise was excessive.
-- `over the top`                    ([Casual] 過度な、大げさな)      His reaction was over the top.
-- `exaggerated` /ɪɡˈzædʒəreɪtɪd/   ([Neutral] 誇張された)          The story was exaggerated.
-- `dramatic` /drəˈmætɪk/            ([Neutral] 大げさな、劇的な)      She made a dramatic entrance.
-- `extreme` /ɪkˈstriːm/             ([Neutral] 極端な、過激な)       His views are extreme.
-- `outrageous` /aʊtˈreɪdʒəs/        ([Neutral] 法外な、とんでもない)  That's an outrageous price.
-
-
-## Schedule
+## Schedule (just around the corner)
 > `just around the corner`          ([Casual] 間近に迫った)         Summer is just around the corner.
   - `around the corner`             ([Casual] 間近に迫った)         The holidays are around the corner.
   - `on the horizon`                ([Neutral] 間近に迫った)        Big changes are on the horizon.
@@ -139,7 +155,7 @@
   - `upon us`                       ([Neutral] 間近に迫った)        Winter is upon us already.
   - `imminent` /ˈɪmɪnənt/           ([Formal] 差し迫った)           An announcement is imminent.
 
-## Partnership
+## Partnership (support / guarantee / approval / disapproval / discussion)
 > `support` /səˈpɔːrt/              ([Neutral] 支持、支援)          He gave his full support.
   - `help` /hɛlp/                   ([Neutral] 助け、支援)          We need your help.
   - `assistance` /əˈsɪstəns/        ([Neutral] 支援、援助)          Thank you for your assistance.

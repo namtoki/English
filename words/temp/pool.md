@@ -1297,7 +1297,6 @@ drab	11	【名】売春婦、淡褐色 【形】さえない、淡褐色の
 dramatist	8	【名】劇作家、戯曲作者		
 dramatize	8	【動】劇にする、脚色する		
 drape	11	【動】布で優美に覆う、きれいなひだが寄る 【名】厚地のカーテン		
-drawback	8	【名】障害、不利、欠点		
 drawl	11	【名】ゆっくりした話ぶり 【動】気どってゆっくり話す		
 drawn	6	【形】やつれた、緊張した		
 dread	5	【動】非常に恐がる 【名】心配		
@@ -1503,8 +1502,6 @@ evolutionary	9	【形】進化の、進化論による
 ewe	12	【名】成長した雌羊		
 exacerbate	11	【動】悪化させる、悪い感情を募らせる、憤慨させる		
 exacting	11	【形】骨の折れる、厳しい		
-exaggerate	5	【動】誇張する		
-exaggeration	6	【名】誇張		
 excavate	12	【動】掘る、発掘する		
 exceeding	9	【形】過度の、非常な、異常な		
 exceedingly	6	【副】非常に		
@@ -1546,7 +1543,6 @@ extant	12	【形】現存の
 extemporaneous	12	【形】突発的な、即興的な		
 extradite	12	【動】引き取る、引き渡す		
 extradition	11	【名】逃亡犯人の送還		
-extravagance	9	【名】浪費、乱費、行きすぎ		
 extremist	11	【名】過激主義者、極端論者 【形】過激主義的な		
 extricate	12	【動】救い出す、解放する		
 exude	12	【動】発する、にじみ出る		
@@ -1577,8 +1573,6 @@ fatality	8	【名】災害、災難、死亡者、運命
 fateful	10	【形】運命を決する、破滅的な、宿命的な		
 fatherland	9	【名】祖国		
 fatty	10	【形】脂肪の、油っこい 【名】でぶ		
-faultless	10	【形】申し分のない、欠点がない、無傷の		
-faulty	10	【形】欠点のある、誤った		
 fauna	12	【名】動物相、動物誌		
 fawn	11	【動】こびへつらう、甘える		
 fearless	6	【形】勇敢な、大胆不敵な		
@@ -2980,7 +2974,6 @@ pique	12	【動】憤慨させる、あおる
 piracy	11	【名】著作権侵害		
 pirate	8	【名】海賊、略奪者 【動】海賊行為をする		
 piss	10	【名】小便		
-pitfall	11	【名】落とし穴、わな		
 pitiful	7	【形】かわいそうな、哀れをもよおす、情けない		
 pitiless	10	【形】情け容赦のない、無情な		
 pivot	11	【名】中心、軸 【動】旋回心軸で回転する		
