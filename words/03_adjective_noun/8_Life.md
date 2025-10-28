@@ -226,7 +226,6 @@
 - `layabout` /ˈleɪəbaʊt/           ([Casual] 怠け者、なまけ者)     He's such a layabout!
 - `slacker` /ˈslækər/              ([Casual] 怠け者、サボる人)     He's such a slacker at work.
 - `slouch` /slaʊtʃ/                  ([Casual] 怠け者、だらしない人) They're just a bunch of slouches.
-- `coal` /koʊl/                     ([Neutral] 石炭)                They burn coal for energy.
 - `coarse` /kɔːrs/                  ([Neutral] 粗野な、粗い)        His coarse manners upset the guests.
 - `coarsely` /ˈkɔːrsli/           ([Neutral] 粗野に)              She laughed coarsely at the joke.
 - `coarseness` /ˈkɔːrsnəs/        ([Neutral] 粗野、粗さ)          His coarseness was evident.

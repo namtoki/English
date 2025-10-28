@@ -225,6 +225,16 @@
   - `blown away`                    ([Casual] 驚かされた)           I was blown away by the performance.
   - `taken aback`                   ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
   - `at a loss for words`           ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
+> `blow one's mind`                 ([Casual] 驚かせる、感動させる) That movie blew my mind!
+  - `mind-blowing`                  ([Casual] 驚くべき)             The view from the top was mind-blowing.
+  - `mind-boggling`                 ([Casual] 信じられない)         The statistics are mind-boggling.
+  - `knock one's socks off`         ([Casual] 非常に驚かせる)       Her performance knocked my socks off.
+  - `out of this world`             ([Casual] 素晴らしい)           The food was out of this world!
+  - `unbelievable`                  ([Neutral] 信じられない)        The news was unbelievable.
+  - `incredible`                    ([Neutral] 信じられない)        It was an incredible experience.
+  - `amazing`                       ([Neutral] 驚くべき)            The show was amazing!
+  - `astonishing`                   ([Neutral] 驚くべき)            The results were astonishing.
+  - `astounding`                    ([Neutral] 驚愕させる)          The discovery was astounding.
 > `be hyped`                        ([Casual] 興奮している)         I'm so hyped for the concert!
   - `be pumped`                     ([Casual] やる気満々、興奮)     I'm pumped for the game tonight!
   - `be stoked`                     ([Casual] すごく興奮している)   I'm stoked about the trip!
@@ -395,3 +405,17 @@
   - `Touch grass`                   ([Casual] 外に出ろ)             You've been online all day. Touch grass.
   - `Go outside`                    ([Casual] 外に出ろ)             Stop gaming and go outside for once.
   - `Take a break`                  ([Casual] 休憩を取れ)           You've been working for hours. Take a break.
+
+## CHALLENGING SITUATIONS (throw in the deep end / sink or swim / trial by fire)
+> `throw O in the deep end`        ([Casual] 準備なく難しい事させる) They threw me in the deep end on my first day.
+  - `in at the deep end`            ([Casual] 準備なく始める)       I was in at the deep end with no training.
+  - `jump in the deep end`          ([Casual] 自ら難しい事に飛込む) I decided to jump in the deep end.
+  - `sink or swim`                  ([Casual] 自力でやるしかない)   It's sink or swim in this job.
+  - `trial by fire`                 ([Neutral] 厳しい試練)          My first week was a trial by fire.
+  - `baptism of fire`               ([Neutral] 初めての厳しい試練)  The project was a baptism of fire.
+  - `learn on the job`              ([Neutral] 実地で学ぶ)          You'll have to learn on the job.
+  - `learn the ropes`               ([Casual] 仕事を覚える)         It takes time to learn the ropes.
+  - `learn by doing`                ([Neutral] 実践で学ぶ)          The best way is to learn by doing.
+  - `dive in`                       ([Casual] 飛び込む)             Just dive in and start working.
+  - `plunge in`                     ([Neutral] 突入する)            We decided to plunge in headfirst.
+  - `take the plunge`               ([Casual] 思い切ってやる)       I finally took the plunge and quit.
