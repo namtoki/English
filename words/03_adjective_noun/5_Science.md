@@ -76,6 +76,7 @@
   - `apex` /ˈeɪpɛks/                ([Formal] 頂点、最高点)         The apex of the triangle.
 > `side` /saɪd/                     ([Neutral] 側面、辺)            The side of the box.
   - `edge` /edʒ/                    ([Neutral] 端、縁、辺)          The edge of the paper.
+> `contour` /ˈkɑːntʊr/              ([Neutral] 輪郭、等高線)        Follow the contour of the hill.
   - `border` /ˈbɔɹdɚ/               ([Neutral] 境界、縁)            The border of the garden.
   - `boundary` /ˈbaʊndəɹi/          ([Neutral] 境界線)              The boundary between countries.
   - `rim` /ɹɪm/                     ([Neutral] 縁、ふち)            The rim of the cup.
@@ -106,8 +107,14 @@
   - `grade` /ɡɹeɪd/                 ([Neutral] 勾配、等級)          The grade of the road.
   - `gradient` /ˈɡɹeɪdiənt/         ([Technical] 勾配、傾斜度)      Calculate the gradient.
   - `oblique` /oʊˈbliːk/            ([Formal] 斜めの)               An oblique angle.
-
+> `bend` /bend/                     ([Neutral] 曲がり)              There's a sharp bend in the road.
+  - `bow` /baʊ/                     ([Neutral] たわみ、弓なり)      The bow of the bridge.
+  - `convex` /kɑːnˈveks/            ([Technical] 凸の)              A convex lens.
+  - `concave` /kɑːnˈkeɪv/           ([Technical] 凹の)              A concave mirror.
   - `curvature` /ˈkɜːrvətʃər/       ([Technical] 曲率)              The curvature of the earth.
+  - `camber` /ˈkæmbər/              ([Technical] キャンバー、反り)  The camber of the road.
+  - `deflection` /dɪˈflekʃən/       ([Technical] たわみ、偏向)      Measure the beam's deflection.
+  - `warpage` /ˈwɔːrpɪdʒ/           ([Technical] 反り、ゆがみ)      The wood shows warpage.
 
 - `angle` /ˈæŋɡəl/                ([Neutral] 角度)                A 90-degree angle.
   - `angular` /ˈæŋɡjələr/         ([Neutral] 角張った)            An angular face.

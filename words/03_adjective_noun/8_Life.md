@@ -538,7 +538,6 @@
 - `fanciful` /ˈfænsɪfəl/        ([Neutral] 空想的な、奇抜な)    That's a fanciful idea.
 - `fancy` /ˈfænsi/                  ([Writing] 空想、気まぐれ)      It was just a passing fancy.
 - `fantasize` /ˈfæntəsaɪz/        ([Casual] 空想する)             He likes to fantasize about traveling.
-- `fantastical` /fænˈtæstɪkəl/    ([Writing] 幻想的な)            The story had fantastical creatures.
 - `fantasy` /ˈfæntəsi/              ([Neutral] 幻想、空想)          Living in a castle is just a fantasy.
 - `far more`                      ([Neutral] はるかに多く)        This is far more difficult.
 - `fastidious` /fæˈstɪdiəs/         ([Writing] 細部にこだわる)      He's fastidious about cleanliness.
@@ -1315,7 +1314,6 @@
 - `terminus` /ˈtɜːrmɪnəs/            ([Formal] 終点、終着駅)         This is the terminus of the line.
 - `terrace` /ˈterəs/              ([Neutral] テラス)              The restaurant has a lovely terrace.
 - `terrible` /ˈterəbəl/             ([Neutral] ひどい、恐ろしい)    The weather was terrible.
-- `terrific` /təˈrɪfɪk/           ([Casual] 素晴らしい)                That's a terrific idea!
 - `terrified` /ˈterɪfaɪd/         ([Neutral] 恐怖に陥った)              She was terrified of spiders.
 - `terrify` /ˈterɪfaɪ/              ([Neutral] 恐怖に陥れる)              The loud thunder terrified the dog.
 - `terrifying` /ˈterɪfaɪɪŋ/       ([Neutral] 恐ろしい)                  That was a terrifying nightmare.

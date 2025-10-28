@@ -748,7 +748,6 @@ comptroller	11	【名】会計監査（役）、経理部長
 compulsion	9	【名】衝動強迫、無理強い		
 compulsive	9	【形】何かにとりつかれたような、人の心をとらえて離さない		
 compulsory	6	【形】強制された、義務的な		
-concave	12	【形】くぼんだ、凹形の 【名】凹面		
 conceal	5	【動】隠す、秘密にする		
 concealment	10	【名】隠すこと、潜伏		
 concede	7	【動】認める、容認する、負けを認める		
@@ -805,7 +804,6 @@ constitute	5	【動】構成する、任命する
 constitution	4	【名】憲法、規約		
 constitutional	7	【形】憲法上の、立憲的な、健康によい		
 constrict	12	【動】収縮する、締めつける、発展を抑える		
-constructive	6	【形】建設的な、発展的な、解釈上の		
 construe	10	【動】説明する、解釈する、翻訳する		
 consul	10	【名】領事、執政官		
 consulate	10	【名】領事館、領事職		
@@ -831,7 +829,6 @@ continuation	7	【名】連続、存続、話などの続き
 continuity	7	【名】連続、継続性、ひと続き、映画の撮影用台本（コンテ）		
 continuous	5	【形】連続的な		
 continuously	6	【副】連続して、ひっきりなしに		
-contour	9	【名】輪郭、等高線、概略 【形】等高線を記す、輪郭を示す		
 contraception	11	【名】避妊、産児制限		
 contraceptive	11	【形】避妊の 【名】避妊器具、避妊薬		
 contravene	12	【動】違反する、矛盾する		
@@ -3939,7 +3936,6 @@ sultry	12	【形】蒸し暑い、情熱的な
 sumptuous	11	【形】豪華な、高価な		
 sundry	12	【形】いろいろな、種々の		
 sunken	9	【形】沈んだ、水中の、下がった		
-superb	7	【形】極上の、豪華な		
 superficial	8	【形】外見上の、浅薄な、実体のない		
 superimpose	12	【動】重ねる、付加する		
 superintendent	9	【名】指導監督者、管理者 【動】監督する		
@@ -4195,7 +4191,6 @@ underscore	8	【動】強調する、目立たせる
 undertaking	7	【名】仕事、引き受けること、約束、事業		
 underwater	8	【形】水中用の、水面下の 【副】水中で		
 underwrite	10	【動】下に書く、承諾する、署名する		
-undesirable	7	【形】望ましくない、魅力のない 【名】好ましくない人		
 undisturbed	8	【形】じゃまされない、平穏な、そのままにしてある		
 undone	9	【形】破滅した、未完成の、ほどけた		
 undoubted	6	【形】疑問の余地がない		
