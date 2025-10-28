@@ -840,7 +840,8 @@ continuance	10	【名】継続、連続、続き
 continuation	7	【名】連続、存続、話などの続き		
 continuity	7	【名】連続、継続性、ひと続き、映画の撮影用台本（コンテ）		
 continuous	5	【形】連続的な		
-continuously	6	【副】連続して、ひっきりなしに		
+continuously	6	【副】連続して、ひっきりなしに
+outline	6	【名】輪郭、概要、アウトライン 【動】概説する、輪郭を描く
 contour	9	【名】輪郭、等高線、概略 【形】等高線を記す、輪郭を示す		
 contraception	11	【名】避妊、産児制限		
 contraceptive	11	【形】避妊の 【名】避妊器具、避妊薬		
