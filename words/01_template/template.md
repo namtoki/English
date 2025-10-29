@@ -56,7 +56,7 @@
   - `I'll see to it`                ([Neutral] 私が面倒を見ます)    Make sure it's done. I'll see to it.
   - `I'll make sure it gets done`   ([Formal] 必ず実行します)       This is critical. I'll make sure it gets done.
   - `Consider it done`              ([Neutral] お任せください)      I need this by tomorrow. Consider it done.
-> `Happy to help`                   ([Casual] 喜んで手伝いますよ) Thanks for reading my outline. `Happy to help!`
+> `Happy to help`                   ([Casual] 喜んで手伝いますよ)   Thanks for reading my outline. Happy to help!
 
 ## REPLY (That makes sense / I feel you / Fair enough / True / Good to know)
 > `Makes sense`                     ([Casual] なるほど)             Makes sense. Let's do that.
@@ -184,7 +184,7 @@
 > `Leave it there`                  ([Casual] それで終わりにしよう) Let's `leave it there` for today.
   - `So much for O`                 ([Casual] これで終わ,期待外れ)  `So much for` our plans to go hiking.
 
-## OPINION (`I'm fine with` / No rush / `That would be great` / `That's the way it is`)
+## OPINION (`I'm fine with` / No rush / `That would be great` / `That's the way it is` / `This is just one possibility`)
 > `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
   - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
   - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
@@ -212,11 +212,11 @@
 - `I hope not`                      ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
 - `I hope I'm not interrupting you.`([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
 > `this is just one possibility`    ([Neutral] 可能性の話しだけど)  There may be other approaches as well — this is just one possibility.
-  - `this is one option`             ([Neutral] これは一つの選択肢)  This is one option we could consider.
-  - `this is one approach`           ([Neutral] これは一つの方法)    This is one approach to solving the problem.
-  - `this is one alternative`        ([Neutral] これは一つの代替案)  This is one alternative to the current plan.
-  - `this is merely a suggestion`    ([Neutral] これはただの提案)    This is merely a suggestion, not a requirement.
-  - `this is simply one scenario`    ([Neutral] 単に一つのシナリオ)  This is simply one scenario we might face.
+  - `this is one option`            ([Neutral] これは一つの選択肢)  This is one option we could consider.
+  - `this is one approach`          ([Neutral] これは一つの方法)    This is one approach to solving the problem.
+  - `this is one alternative`       ([Neutral] これは一つの代替案)  This is one alternative to the current plan.
+  - `this is merely a suggestion`   ([Neutral] これはただの提案)    This is merely a suggestion, not a requirement.
+  - `this is simply one scenario`   ([Neutral] 単に一つのシナリオ)  This is simply one scenario we might face.
 
 ## FEELING (I can't believe one's eyes / I can't catch a break)
 > `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!
@@ -225,22 +225,6 @@
   - `blown away`                    ([Casual] 驚かされた)           I was blown away by the performance.
   - `taken aback`                   ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
   - `at a loss for words`           ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
-> `blow one's mind`                 ([Casual] 驚かせる、感動させる) That movie blew my mind!
-  - `mind-blowing`                  ([Casual] 驚くべき)             The view from the top was mind-blowing.
-  - `mind-boggling`                 ([Casual] 信じられない)         The statistics are mind-boggling.
-  - `knock one's socks off`         ([Casual] 非常に驚かせる)       Her performance knocked my socks off.
-  - `out of this world`             ([Casual] 素晴らしい)           The food was out of this world!
-  - `unbelievable`                  ([Neutral] 信じられない)        The news was unbelievable.
-  - `incredible`                    ([Neutral] 信じられない)        It was an incredible experience.
-  - `amazing`                       ([Neutral] 驚くべき)            The show was amazing!
-  - `astonishing`                   ([Neutral] 驚くべき)            The results were astonishing.
-  - `astounding`                    ([Neutral] 驚愕させる)          The discovery was astounding.
-> `be hyped`                        ([Casual] 興奮している)         I'm so hyped for the concert!
-  - `be pumped`                     ([Casual] やる気満々、興奮)     I'm pumped for the game tonight!
-  - `be stoked`                     ([Casual] すごく興奮している)   I'm stoked about the trip!
-  - `be psyched`                    ([Casual] ワクワクしている)     I'm psyched for the party!
-  - `be fired up`                   ([Casual] やる気満々、熱くなる) I'm fired up for the match!
-  - `be thrilled`                   ([Neutral] とても喜んでいる)    I'm thrilled about the news!
 > `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
   - `Nothing's going my way`        ([Casual] 何もうまくいかない)   Nothing's going my way today.
   - `I'm having bad luck`           ([Neutral] 運が悪い)            I'm having bad luck with my car.
@@ -425,10 +409,3 @@
   - `dive in`                       ([Casual] 飛び込む)             Just dive in and start working.
   - `plunge in`                     ([Neutral] 突入する)            We decided to plunge in headfirst.
   - `take the plunge`               ([Casual] 思い切ってやる)       I finally took the plunge and quit.
-
-## QUANTITY / PORTION (the bulk of / the majority of)
-- `the bulk of` /ðə bʌlk əv/         ([Neutral] 大部分)               The bulk of the work is done.
-  - `the majority of` /ðə məˈdʒɔːrɪti əv/ ([Neutral] 大多数)           The majority of students passed.
-  - `most of` /moʊst əv/              ([Neutral] ほとんど)             Most of the work is finished.
-  - `the greater part of` /ðə ˈɡreɪtər pɑːrt əv/ ([Writing] 大部分)    They live here the greater part of the year.
-  - `the larger part of` /ðə ˈlɑːrdʒər pɑːrt əv/ ([Neutral] 大部分)    The larger part of the day was spent working.

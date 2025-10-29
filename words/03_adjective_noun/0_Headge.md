@@ -1,6 +1,6 @@
 # Hedge
 
-## VAGUE (`a kind of` / all kinds of / `and things like that`)
+## VAGUE (`a kind of` / all kinds of / `most of` / `and things like that`)
 > `a kind of`                       ([Neutral] 一種の)              It's a kind of fruit.
   - `a sort of`                     ([Neutral] 一種の)              He felt a sort of sadness.
   - `a type of`                     ([Neutral] 一種の、タイプの)    This is a type of software.
@@ -8,6 +8,16 @@
   - `all sorts of`                  ([Casual] あらゆる種類の)       She reads all sorts of books.
   - `all kinds of things`           ([Neutral] 色々なもの)          They sell all kinds of things.
   - `various kinds of`              ([Neutral] 様々な種類の)        Various kinds of flowers bloom here.
+> `most of` /moʊst əv/              ([Neutral] ほとんど)            Most of the work is finished.
+  - `nearly all` /ˈnɪrli ɔːl/       ([Neutral] ほぼ全て)            Nearly all students passed.
+  - `almost all` /ˈɔːlmoʊst ɔːl/    ([Neutral] ほぼ全て)            Almost all people went there.
+  - `the bulk of` /ðə bʌlk əv/      ([Neutral] 大部分)              The bulk of the work is done.
+  - `the              majority of`  ([Neutral] 大多数)              The majority of students passed.
+  - `the vast         majority`     ([Neutral] 大多数)              The vast majority of tickets are sold online.
+  - `the overwhelming majority`     ([Formal] 圧倒的多数)           The overwhelming majority of participants were men.
+  - `the lion's share`              ([Neutral] 最大の取り分)        She claimed the lion's share of the credit.
+  - `the greater part of`           ([Writing] 大部分)              They live here the greater part of the year.
+  - `the larger part of`            ([Neutral] 大部分)              The larger part of the day was spent working.
 > `... and things like that`        ([Neutral] 〜などそういうもの)  Spanish and things like that.
   - `... and stuff like that`       ([Casual] 〜とかそういうの)     Budgets, deadlines, and stuff like that.
   - `... and things` /ænd θɪŋz/     ([Casual] とかいろいろ)         She bought shoes, bags, and things.

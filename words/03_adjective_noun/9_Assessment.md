@@ -97,7 +97,7 @@
   - `fumbling` /ˈfʌmblɪŋ/           ([Neutral] 手探りの、不器用な)   His fumbling attempts failed.
   - `bungling` /ˈbʌŋɡlɪŋ/           ([Neutral] へまな、不器用な)     A bungling attempt at repair.
   - `ungainly` /ʌnˈɡeɪnli/          ([Neutral] ぎこちない 不格好な)  His ungainly movements made him trip.
-  - `uncoordinated` /ˌʌnkoʊˈɔːrdɪneɪtɪd/ ([Neutral] 協調性のない)   He's completely uncoordinated.
+  - `uncoordinated`                 ([Neutral] 協調性のない)        He's completely uncoordinated.
   - `graceless` /ˈɡreɪsləs/         ([Formal] 優雅さのない 無骨な)   Graceless circles on the dance floor.
   - `maladroit` /ˌmæləˈdrɔɪt/       ([Formal] 不器用な、下手な)      A maladroit handling of the situation.
   - `lumbering` /ˈlʌmbərɪŋ/         ([Neutral] 動きの鈍い)           The lumbering elephant walked slowly.
@@ -599,3 +599,13 @@
 
 ## EXPERIMENTAL
 - `experimental` /ɪkˌsperɪˈmentəl/ ([Neutral] 実験的な、試験的な)  This is still an experimental feature.
+
+  - `mind-blowing`                  ([Casual] 驚くべき)             The view from the top was mind-blowing.
+  - `mind-boggling`                 ([Casual] 信じられない)         The statistics are mind-boggling.
+  - `knock one's socks off`         ([Casual] 非常に驚かせる)       Her performance knocked my socks off.
+  - `out of this world`             ([Casual] 素晴らしい)           The food was out of this world!
+  - `unbelievable`                  ([Neutral] 信じられない)        The news was unbelievable.
+  - `incredible`                    ([Neutral] 信じられない)        It was an incredible experience.
+  - `amazing`                       ([Neutral] 驚くべき)            The show was amazing!
+  - `astonishing`                   ([Neutral] 驚くべき)            The results were astonishing.
+  - `astounding`                    ([Neutral] 驚愕させる)          The discovery was astounding.

@@ -1352,3 +1352,12 @@
   - `push back the frontiers` /pʊʃ bæk ðə ˌfrʌnˈtɪrz/ ([Formal] 未知の領域を広げる) Scientists push back the frontiers of knowledge.
 
   > `be on fire`                   ([Casual] 絶好調である)          The team is on fire right now.
+
+> `blow one's mind`                 ([Casual] 驚かせる、感動させる) That movie blew my mind!
+
+> `be hyped`                        ([Casual] 興奮している)         I'm so hyped for the concert!
+  - `be pumped`                     ([Casual] やる気満々、興奮)     I'm pumped for the game tonight!
+  - `be stoked`                     ([Casual] すごく興奮している)   I'm stoked about the trip!
+  - `be psyched`                    ([Casual] ワクワクしている)     I'm psyched for the party!
+  - `be fired up`                   ([Casual] やる気満々、熱くなる) I'm fired up for the match!
+  - `be thrilled`                   ([Neutral] とても喜んでいる)    I'm thrilled about the news!

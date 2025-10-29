@@ -1,6 +1,6 @@
 # Head
 
-## STEP (to begin with / then / next / moving on / going back to)
+## STEP (`to begin with` / then / next / `moving on` / `going back to`)
 > `to begin with` /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
   - `first things first`            ([Neutral] まず第一に)          First things first, let's finish the report.
   - `first of all` /fɜːrst əv ɔːl/  ([Neutral] まず第一に)          First of all, let me thank you.
@@ -29,7 +29,7 @@
   - `to return to`                  ([Formal] ～に戻ると)           To return to my original point, this is crucial.
   - `to circle back`                ([Neutral] 話を戻すと)          Just to circle back to the budget issue.
 
-## TOPIC (like / as / as for)
+## TOPIC (like / as / `as for`)
 > `like S Vpast`                    (S が V した通り)
   - `like I said`                   ([Casual] さっき言ったように)   Like I said, we need to leave early.
   - `like I told you`               ([Casual] 言った通り)           Like I told you, he's always late.
@@ -67,7 +67,7 @@
   - `apropos` /ˌæprəˈpoʊ/           ([Formal] ～について)           Apropos your suggestion, I agree.
   - `vis-à-vis` /ˌviːzɑːˈviː/       ([Formal] ～に関して)           Vis-à-vis the competition, we're ahead.
 
-## ADDITION (that said / on top of that / most of all / I mean)
+## ADDITION (`that said` / `on top of that` / most of all / `I mean`)
 > `that said` /ðæt sed/             ([Neutral] とはいえ)            That said, I still think it's worth trying.
   - `on the flip side`              ([Neutral] 一方で、逆に言えば)  The pay is low. On the flip side, the work is flexible.
   - `on the other hand`             ([Neutral] 一方で、他方では)    On the other hand, it costs more.
@@ -132,7 +132,7 @@
   - `for    my own curiosity`       ([Casual] 個人的に気になって)   For my own curiosity, what made you choose this?
   - `satisfy my curiosity`          ([Neutral] 好奇心を満たして)    Can you satisfy my curiosity about this?
 
-## RETROSPECT (looking back / now that I think about it / considering / off the top of my head)
+## RETROSPECT (looking back / `now that I think about it` / considering / `off the top of my head`)
 > `looking back` /ˈlʊkɪŋ bæk/       ([Neutral] 振り返ると)          Looking back, it was a good decision.
   - `thinking back` /ˈθɪŋkɪŋ bæk/   ([Neutral] 思い返すと)          Thinking back, we made the right choice.
   - `in hindsight` /ɪn ˈhaɪndsaɪt/  ([Neutral] 振り返ってみると)    In hindsight, I should have studied harder.
@@ -157,7 +157,7 @@
   - `if memory serves`              ([Neutral] 記憶が正しければ)    If memory serves, we met in 2019.
   - `without thinking too much`     ([Casual] あまり考えずに)       Without thinking too much, I'd say we need more time.
 
-## CONCLUSION (so / this way / anyway / overall / to sum up / at the end of the day)
+## CONCLUSION (so / this way / anyway / overall / to sum up / `at the end of the day`)
 > `so` /soʊ/                        ([Casual] それで、さて)         So, what were we talking about?
   - `now` /naʊ/                     ([Neutral] さて、今)            Now, let's begin the presentation.
 > `this way` /ðɪs weɪ/              ([Neutral] このようにして)      Do it this way for best results.
@@ -233,7 +233,7 @@
   - `much to the surprise of O`     ([Neutral] Oが驚いたことには)   Much to the surprise of everyone, she quit.
   - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
 
-## CONDITION (if / assuming that / given that / provided that / depending on how you look at it / if anything)
+## CONDITION (if / `assuming that` / `given that` / `provided that` / `depending on how you look at it` / `if anything`)
 > `if` /ɪf/                         ([Neutral] もし～なら)          If it rains, we'll move inside.
   - `in case` /ɪn keɪs/             ([Neutral] ～に備えて)          In case it rains, bring an umbrella.
   - `in the event of`               ([Formal] ～の場合には)         In the event of rain, we'll move inside.
@@ -273,7 +273,7 @@
   - `if I had to guess`             ([Casual] 推測するなら)         If I had to guess, they'll arrive late.
   - `if I were to guess`            ([Formal] 推測するとすれば)     If I were to guess, I'd say it's broken.
 
-## CONDITION (if it works for you / as of / on a scale of 1 to 10)
+## CONDITION (if it works for you / as of / `on a scale of 1 to 10`)
 > `if it works for you`             ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
   - `if you don't mind`             ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
   - `if that's ok (with you)`       ([Casual] それでよければ)       I'll call you tomorrow if that's ok with you.
@@ -328,7 +328,7 @@
   - `as far as I can tell`          ([Neutral] 分かる限りでは)      As far as I can tell, everything's fine.
   - `from my understanding`         ([Neutral] 私の理解では)        From my understanding, we start Monday.
 
-## FREQUENCY (Often times / till recently / recently)
+## FREQUENCY (`Often times` / till recently / recently)
 > `often times` /ˈɔːfən taɪmz/      ([Casual] しばしば)             Often times, people don't realize the impact.
   - `at times` /æt taɪmz/           ([Neutral] 時として)            At times, life can be difficult.
   - `sometimes` /ˈsʌmtaɪmz/         ([Neutral] 時々)                Sometimes I walk to work.

@@ -174,14 +174,6 @@
   - `or something?` /ɔːr ˈsʌmθɪŋ/   ([Casual] か何か？)             Are you sick or something?
   - `or whatever` /ɔːr wʌtˈevər/    ([Casual] か何でも)             We can get pizza or whatever.
 
-> `back and forth`                  ([Neutral] 行ったり来たり)      Bob was pacing back and forth along the sidewalk.
-  - `up and down`                   ([Neutral] 上下に、あちこち)    She walked up and down the hallway.
-  - `in and out`                    ([Neutral] 出たり入ったり)      People were going in and out all day.
-  - `to and fro`                    ([Neutral] 行ったり来たり)      I have been traveling to and fro between Canada and the U.K for years.
-> `on and off` /ɑːn ænd ɔːf/        ([Neutral] 断続的に)            It's been raining on and off all day today.
-  - `in a row` /ɪn ə roʊ/           ([Neutral] 連続で)              The rate has risen three quarters in a row.
-  - `with each passing day/year`    ([Neutral] 日を追うごとに)      With each passing day, her skills improved.
-
 ## DURATION (for / throughout / over / during / so far / from now on / quickly)
 > `for` /fɔːr/                      ([Neutral] 〜間)                I've been working for the company for 6 months.
   - `for hours`                     ([Neutral] 何時間も)            We waited for hours.
@@ -613,3 +605,12 @@
   - `face out`                      ([Neutral] 外向きに)            Display items face out.
   - `facing out`                    ([Neutral] 外を向いて)          Position it facing out.
 - `right side up`                   ([Neutral] 正しい向きで)        Place it right side up.
+
+> `back and forth`                  ([Neutral] 行ったり来たり)      Bob was pacing back and forth along the sidewalk.
+  - `up and down`                   ([Neutral] 上下に、あちこち)    She walked up and down the hallway.
+  - `in and out`                    ([Neutral] 出たり入ったり)      People were going in and out all day.
+  - `to and fro`                    ([Neutral] 行ったり来たり)      I have been traveling to and fro between Canada and the U.K for years.
+> `on and off` /ɑːn ænd ɔːf/        ([Neutral] 断続的に)            It's been raining on and off all day today.
+  - `in a row` /ɪn ə roʊ/           ([Neutral] 連続で)              The rate has risen three quarters in a row.
+  - `with each passing day/year`    ([Neutral] 日を追うごとに)      With each passing day, her skills improved.
+

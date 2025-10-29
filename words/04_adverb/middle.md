@@ -60,14 +60,11 @@
   - `consciously` /ˈkɑːnʃəsli/      ([Neutral] 意識的に)            She consciously chose to help.
   - `knowingly` /ˈnoʊɪŋli/          ([Formal] 承知の上で)           He knowingly broke the rules.
   - `willfully` /ˈwɪlfəli/          ([Formal] 故意に)               She willfully ignored the instructions.
-- `judicially` /dʒuːˈdɪʃəli/       ([Formal] 司法的に、裁判で)     The matter was resolved judicially.
-
-
-## Adverbs (Political & General)
-- `diplomatically` /ˌdɪpləˈmætɪkli/ ([Formal] 外交的に)            He diplomatically avoided the topic.
-- `apathetically` /ˌæpəˈθetɪkli/  ([Formal] 無関心に)             She responded apathetically to the news.
-- `caustically` /ˈkɔːstɪkli/      ([Writing] 辛辮に)              He caustically criticized the proposal.
-- `chaotically` /keɪˈɒtɪkli/      ([Neutral] 混乱して)            People ran chaotically in all directions.
-- `phlegmatically` /flɛɡˈmætɪkli/ ([Writing] 冷静に)              He responded phlegmatically to the crisis.
-- `typically` /ˈtɪpɪkli/          ([Neutral] 典型的に、通常)        He typically arrives late.
-- `totally` /ˈtəʊtəli/            ([Casual] 完全に、全く)         I totally agree with you.
+- `judicially` /dʒuːˈdɪʃəli/        ([Formal] 司法的に、裁判で)     The matter was resolved judicially.
+- `diplomatically` /ˌdɪpləˈmætɪkli/ ([Formal] 外交的に)             He diplomatically avoided the topic.
+- `apathetically` /ˌæpəˈθetɪkli/    ([Formal] 無関心に)             She responded apathetically to the news.
+- `caustically` /ˈkɔːstɪkli/        ([Writing] 辛辮に)              He caustically criticized the proposal.
+- `chaotically` /keɪˈɒtɪkli/        ([Neutral] 混乱して)            People ran chaotically in all directions.
+- `phlegmatically` /flɛɡˈmætɪkli/   ([Writing] 冷静に)              He responded phlegmatically to the crisis.
+- `typically` /ˈtɪpɪkli/            ([Neutral] 典型的に、通常)      He typically arrives late.
+- `totally` /ˈtəʊtəli/              ([Casual] 完全に、全く)         I totally agree with you.

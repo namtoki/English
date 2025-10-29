@@ -1,6 +1,6 @@
 # Business
 
-## Favorites
+## Favorites (`what it's like to V`)
 - `what it's like to V`             ([Neutral] ～がどんな感じか)    I know what it's like to struggle financially.
 
 ## Nitty-Gritty (`A out of B` / `be dedicated to` / `temporary`)
