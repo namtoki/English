@@ -1,6 +1,14 @@
 # Assessment
 
-## POSITIVE (good / )
+## POSITIVE SLANG (cool / awesome / dope / sick / lit / fire)
+- `cool` /kuːl/                     ([Casual] かっこいい、素晴らしい) That's a cool idea.
+- `awesome` /ˈɔːsəm/                ([Casual] 素晴らしい、最高)      That movie was awesome!
+- `dope` /doʊp/                     ([Casual] 最高な、素晴らしい)    That new song is dope!
+- `sick` /sɪk/                      ([Casual] すごい、かっこいい)    Those shoes are sick!
+- `lit` /lɪt/                       ([Casual] 最高、素晴らしい)      The party was lit last night.
+- `fire` /faɪər/                    ([Casual] 最高、すごい)          Your performance was fire!
+
+## POSITIVE (good / positive / promising / impressive / praise)
 > `good` /ɡʊd/                      ([Neutral] 良い)                That's a good idea.
   - `great` /ɡreɪt/                 ([Neutral] 素晴らしい、偉大な)  That's great news!
   - `nice` /naɪs/                   ([Neutral] 良い、素敵な)        It's nice to meet you.
@@ -30,51 +38,79 @@
   - `serendipitous` /ˌserənˈdɪpɪtəs/([Formal] 思いがけない幸運の)   A serendipitous discovery.
   - `felicitous` /fəˈlɪsɪtəs/       ([Formal] 適切な、幸運な)       A felicitous choice of words.
   - `providential` /ˌprɑːvɪˈdenʃəl/ ([Formal] 天の恵みの、幸運な)   A providential escape.
+> `impressive` /ɪmˈpresɪv/          ([Neutral] 印象的な、見事な)    The performance was impressive.
+  - `remarkable` /rɪˈmɑːrkəbəl/     ([Neutral] 注目すべき、顕著な)  Her remarkable ability impressed everyone.
+  - `spectacular` /spɛkˈtækjələr/   ([Neutral] 壮観な、見事な)      The fireworks display was spectacular.
+  - `stunning` /ˈstʌnɪŋ/            ([Casual] 驚くほど見事な)       That woman is stunning!
+  - `splendid` /ˈsplɛndɪd/          ([Formal] 華麗な、見事な)       The palace has splendid architecture.
+  - `grand` /ɡrænd/                 ([Neutral] 壮大な、立派な)      A grand palace stood before us.
+  - `magnificent` /mæɡˈnɪfɪsənt/    ([Neutral] 壮大な、素晴らしい)  The view was magnificent.
+  - `majestic` /məˈdʒestɪk/         ([Neutral] 壮厳な、威厳のある)  The majestic mountains rose high.
+  - `distinguished` /dɪˈstɪŋɡwɪʃt/  ([Formal] 著名な、気品ある)     A distinguished mathematician attended.
+  - `imposing` /ɪmˈpoʊzɪŋ/          ([Neutral] 堂々とした 威圧的な) The imposing building dominated the skyline.
+  - `stately` /ˈsteɪtli/            ([Neutral] 堂々とした 威厳ある) A stately mansion on the hill.
+  - `noble` /ˈnoʊbəl/               ([Formal] 壮大な、高貴な)       A noble edifice.
+  - `regal` /ˈriːɡəl/               ([Formal] 王者の風格ある)       She had a regal bearing.
+> `praise` /pɹeɪz/                  ([Neutral] 賞賛、称賛)          The novel received great praise.
+  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、感嘆)      I admire your dedication to the cause.
+  - `admiration` /ˌædməˈreɪʃən/     ([Neutral] 賞賛、感嘆)          His courage filled me with admiration.
+  - `admirable` /ˈædmərəbəl/        ([Neutral] 賞賛すべき)          Her admirable patience impressed everyone.
+  - `admirer` /ədˈmaɪərər/          ([Neutral] 崇拝者、ファン)      She has many admirers of her work.
+  - `compliment` /ˈkɑːmpləmənt/     ([Neutral] 賛辞、褒め言葉)      She paid him a nice compliment.
+  - `commendable` /kəˈmɛndəbəl/     ([Formal] 称賛に値する)         His efforts were commendable.
+  - `commendation` /ˌkɑːmənˈdeɪʃən/ ([Formal] 表彰、称賛)           Her work won high commendation.
+  - `acclaim` /əˈkleɪm/             ([Formal] 称賛、絶賛)           The film received critical acclaim.
+  - `applause` /əˈplɔːz/            ([Neutral] 拍手喝采、称賛)      The performance drew loud applause.
+  - `tribute` /ˈtɹɪbjuːt/           ([Formal] 賛辞、敬意)           Please accept this as a tribute.
+  - `accolade` /ˈækəleɪd/           ([Formal] 称賛、栄誉)           The director received accolades for his film.
+  - `kudos` /ˈkuːdoʊz/              ([Casual] 称賛、名声)           Kudos to you for finishing!
 
-## IMPRESSIVE / GRAND / MAGNIFICENT
-- `imposing` /ɪmˈpoʊzɪŋ/           ([Neutral] 堂々とした、威圧的な)  The imposing building dominated the skyline.
-  - `impressive` /ɪmˈpresɪv/        ([Neutral] 印象的な、見事な)     The performance was impressive.
-  - `grand` /ɡrænd/                 ([Neutral] 壮大な、立派な)       A grand palace stood before us.
-  - `majestic` /məˈdʒestɪk/         ([Neutral] 壮厳な、威厳のある)   The majestic mountains rose high.
-  - `stately` /ˈsteɪtli/            ([Neutral] 堂々とした、威厳ある)  A stately mansion on the hill.
-  - `magnificent` /mæɡˈnɪfɪsənt/   ([Neutral] 壮大な、素晴らしい)    The view was magnificent.
+## SKILL (`good at` / `bad at` / handy / clumsy)
+> `good at` /ɡʊd æt/                ([Neutral] 得意な、上手な)      She's really good at math.
+  - `skilled` /skɪld/               ([Neutral] 熟練した 技能のある) He's a skilled carpenter.
+  - `competent` /ˈkɒmpətənt/        ([Neutral] 有能な、適格な)      He is a competent skier.
+  - `competence` /ˈkɒmpɪtəns/       ([Neutral] 能力)                His competence is well recognized.
+  - `capable` /ˈkeɪpəbəl/           ([Neutral] 有能な、できる)      She is capable and efficient.
+  - `talented` /ˈtæləntɪd/          ([Neutral] 才能のある)          She's a talented pianist.
+  - `talent` /ˈtælənt/              ([Neutral] 才能)                He has a talent for music.
+  - `proficient` /prəˈfɪʃənt/       ([Formal] 熟達した、堪能な)     He was a proficient writer.
+  - `proficiency` /prəˈfɪʃənsi/     ([Formal] 熟達)                 Her English proficiency is excellent.
+  - `expert` /ˈɛkspɜːrt/            ([Neutral] 熟練した、専門的な)  My cousin is an expert pianist.
+  - `skillful` /ˈskɪlfəl/           ([Neutral] 巧みな、熟練した)    She's a skillful mechanic.
+  - `adept` /əˈdept/                ([Formal] 熟練した、巧みな)     She's adept at solving complex problems.
+> `bad at` /bæd æt/                 ([Neutral] 下手な、苦手な)      I'm bad at drawing.
+  - `unskilled` /ʌnˈskɪld/          ([Neutral] 未熟練の 技能のない) Unskilled workers need training.
+  - `incompetent` /ɪnˈkɑːmpɪtənt/   ([Neutral] 無能な、不適格な)    The manager was incompetent.
+  - `incompetence` /ɪnˈkɒmpɪtəns/   ([Formal] 無能)                 His incompetence caused problems.
+  - `incapable` /ɪnˈkeɪpəbəl/       ([Neutral] 無能力な できない)   He seemed incapable of learning.
+  - `inept` /ɪˈnept/                ([Neutral] 無能な、不器用な)    He's completely inept at cooking.
+  - `ineptitude` /ɪˈneptɪtud/       ([Neutral] 無能、不器用)        His ineptitude was frustrating.
+  - `ineptness` /ɪˈneptnəs/         ([Neutral] 無能、不器用)        The ineptness of his approach.
+> `handy` /ˈhændi/                  ([Casual] 器用な、手先が器用な)  She's very handy with tools.
+  - `graceful` /ˈɡreɪsfʊl/          ([Neutral] 優雅な、しなやかな)   She is a graceful dancer.
+  - `nimble` /ˈnɪmbəl/              ([Neutral] 素早い、機敏な)       He was too nimble to catch.
+  - `agile` /ˈædʒaɪl/               ([Neutral] 機敏な、軽快な)       An agile creature.
+  - `coordinated` /koʊˈɔːrdɪneɪtɪd/ ([Neutral] 協調性のある 器用な)  He's well coordinated.
+  - `dexterous` /ˈdɛkstrəs/         ([Formal] 器用な、巧妙な)        She is dexterous with chopsticks.
+> `clumsy` /ˈklʌmzi/                ([Neutral] 不器用な ぎこちない)  He's clumsy with tools.
+  - `awkward` /ˈɔːkwərd/            ([Neutral] 不器用な ぎこちない)  His movements were awkward.
+  - `fumbling` /ˈfʌmblɪŋ/           ([Neutral] 手探りの、不器用な)   His fumbling attempts failed.
+  - `bungling` /ˈbʌŋɡlɪŋ/           ([Neutral] へまな、不器用な)     A bungling attempt at repair.
+  - `ungainly` /ʌnˈɡeɪnli/          ([Neutral] ぎこちない 不格好な)  His ungainly movements made him trip.
+  - `uncoordinated` /ˌʌnkoʊˈɔːrdɪneɪtɪd/ ([Neutral] 協調性のない)   He's completely uncoordinated.
+  - `graceless` /ˈɡreɪsləs/         ([Formal] 優雅さのない 無骨な)   Graceless circles on the dance floor.
+  - `maladroit` /ˌmæləˈdrɔɪt/       ([Formal] 不器用な、下手な)      A maladroit handling of the situation.
+  - `lumbering` /ˈlʌmbərɪŋ/         ([Neutral] 動きの鈍い)           The lumbering elephant walked slowly.
+  - `clunky` /ˈklʌŋki/              ([Neutral] 使いにくい 不格好な)  This interface is really clunky.
 
-## ADMIRABLE / EXCELLENT / SKILLFUL
-- `admirable` /ˈædmərəbəl/         ([Neutral] 賞賛すべき)       Her admirable patience impressed everyone.
-  - `admiration` /ˌædməˈreɪʃən/        ([Neutral] 賞賛、感嘆)       His courage filled me with admiration.
-  - `admire` /ədˈmaɪər/              ([Neutral] 賞賛する、感嘆)   I admire your dedication to the cause.
-  - `admirer` /ədˈmaɪərər/            ([Neutral] 崇拝者、ファン)      She has many admirers of her work.
-- `accolade` /ˈækəleɪd/             ([Formal] 称賛、栄誉)           The director received accolades for his film.
-- `adept` /əˈdept/                  ([Writing] 熟練した)            She's adept at solving complex problems.
-
-## ACCESSIBLE / ADEQUATE
 - `accessible` /ækˈsesəbəl/       ([Neutral] 理解しやすい、近づき) The book is accessible to beginners.
 - `adequate` /ˈædɪkwət/             ([Neutral] 適切な、十分な)      The response was adequate.
-
-## COOL / AWESOME (SLANG)
-- `cool` /kuːl/                     ([Casual] かっこいい、素晴らしい) That's a cool idea.
-- `awesome` /ˈɔːsəm/                ([Casual] 素晴らしい、最高)      That movie was awesome!
-- `dope` /doʊp/                     ([Casual] 最高な、素晴らしい)    That new song is dope!
-- `sick` /sɪk/                      ([Casual] すごい、かっこいい)    Those shoes are sick!
-- `lit` /lɪt/                       ([Casual] 最高、素晴らしい)      The party was lit last night.
-- `fire` /faɪər/                    ([Casual] 最高、すごい)          Your performance was fire!
 
 # ========================================
 # II. NEGATIVE EVALUATION (ネガティブな評価)
 # ========================================
 
 ## INCOMPETENT / UNSKILLED / CLUMSY
-- `inept` /ɪˈnept/                  ([Neutral] 無能な、不器用な)     He's completely inept at cooking.
-  - `ineptitude` /ɪˈneptɪtud/      ([Neutral] 無能、不器用)         His ineptitude was frustrating.
-  - `ineptness` /ɪˈneptnəs/        ([Neutral] 無能、不器用)         The ineptness of his approach.
-  - `incompetent` /ɪnˈkɑːmpɪtənt/  ([Neutral] 無能な、不適格な)     The manager was incompetent.
-  - `clumsy` /ˈklʌmzi/             ([Neutral] 不器用な、ぎこちない)  He's clumsy with tools.
-  - `bungling` /ˈbʌŋɡlɪŋ/          ([Neutral] へまな、不器用な)     A bungling attempt at repair.
-  - `awkward` /ˈɔːkwərd/           ([Neutral] 不器用な、ぎこちない)  His movements were awkward.
-  - `maladroit` /ˌmæləˈdrɔɪt/      ([Formal] 不器用な、下手な)      A maladroit handling of the situation.
-  - `clunky` /ˈklʌŋki/             ([Neutral] 使いにくい)           This interface is really clunky.
-  - `ungainly` /ʌnˈɡeɪnli/          ([Neutral] ぎこちない、不格好な)  His ungainly movements made him trip.
-  - `lumbering` /ˈlʌmbərɪŋ/         ([Neutral] 動きの鈍い)           The lumbering elephant walked slowly.
 
 ## ABHORRENT / ABOMINABLE / DETESTABLE
 - `abhorrence` /əbˈhɔːrəns/       ([Writing] 嫌悪、憎悪)          She has an abhorrence of lies.
@@ -303,7 +339,6 @@
   - `astonishing` /əˈstɑːnɪʃɪŋ/     ([Neutral] 驚くべき)            Her progress was astonishing.
   - `astonishment` /əˈstɑːnɪʃmənt/  ([Neutral] 驚き)                To our astonishment, he agreed.
 - `startling` /ˈstɑːrtəlɪŋ/         ([Neutral] 驚くべき)            The resemblance was startling.
-- `stunning` /ˈstʌnɪŋ/              ([Neutral] 驚くべき、見事な)    She looked stunning in that dress.
 - `astound` /əˈstaʊnd/              ([Formal] 仰天させる)           Her talent astounded the judges.
   - `astounded` /əˈstaʊndɪd/        ([Formal] 仰天した)             I was astounded by the coincidence.
   - `astounding` /əˈstaʊndɪŋ/       ([Formal] 驚くべき)             The discovery was astounding.

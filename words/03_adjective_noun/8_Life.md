@@ -236,18 +236,13 @@
 - `comfort` /ˈkʌmfət/                ([Neutral] 慰める、慰め)             She tried to comfort the crying child.
 - `comfortable` /ˈkʌmftəbəl/       ([Neutral] 快適な、安楽な)           This chair is very comfortable.
 - `comfortably` /ˈkʌmfərtəbli/     ([Neutral] 快適に、気楽に)       She sat comfortably in her favorite chair.
-- `commendable` /kəˈmendəbəl/     ([Writing] 称賛すべき)         Your commendable dedication is inspiring.
-- `commendation` /ˌkɑːmənˈdeɪʃən/ ([Formal] 表彰、称賛)          He received a commendation for bravery.
 - `commitment` /kəˈmɪtmənt/       ([Neutral] 献身、約束)          She made a commitment to help.
 - `committed` /kəˈmɪtɪd/            ([Neutral] 献身的な、約束した)  He's committed to the project.
 - `common` /ˈkɑːmən/                ([Neutral] 一般的な、よくある)  This is a common problem.
 - `commotion` /kəˈmoʊʃən/           ([Neutral] 騒動、混乱)          What's all this commotion about?
-- `competence` /ˈkɒmpɪtəns/       ([Neutral] 能力)                His competence is well recognized.
-- `competent` /ˈkɒmpɪtənt/          ([Neutral] 有能な)              She's a competent manager.
 - `complex` /kəmˈpleks/             ([Writing] 構造の複雑さ)        The human brain is an incredibly complex organ.
 - `complicated` /ˈkɒmplɪkeɪtɪd/  ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
 - `complication`/ˌkɒmplɪˈkeɪʃən/  ([Writing] 面倒な事態)          The surgery was successful, but there were complications.
-- `compliment` /ˈkɑːmpləmənt/        ([Neutral] 賛辞、おせじ)     She gave him a sincere compliment.
 - `complimentary` /ˌkɑːmpləˈmentəri/ ([Formal] 賞賛の、無料の)  The review was complimentary about her performance.
 - `compose` /kəmˈpoʊz/            ([Neutral] 落ち着かせる)        Compose yourself before the interview.
 - `composed` /kəmˈpoʊzd/            ([Neutral] 落ち着いた、冷静な)  She remained composed throughout.
@@ -431,7 +426,6 @@
 - `distinction` /dɪˈstɪŋkʃən/        ([Formal] 区別、優秀性)      She graduated with high distinction.
 - `distinctive` /dɪˈstɪŋktɪv/       ([Neutral] 独特の)           The building has a distinctive architecture.
 - `distinctly` /dɪˈstɪŋktli/        ([Neutral] はっきりと)       I distinctly remember what happened.
-- `distinguished` /dɪˈstɪŋɡwɪʃt/([Formal] 卓越した、著名な)     She's a distinguished professor.
 - `disturb` /dɪˈstɜːrb/               ([Neutral] 動揺させる、妨げる)  The news disturbed her greatly.
 - `disturbance` /dɪˈstɜːrbəns/      ([Formal] 騒動、妨害)           The police were called about a disturbance.
 - `disturbance` /dɪˈstɜːrbəns/     ([Neutral] 妨害、騒動)          There was a disturbance outside.
@@ -714,8 +708,6 @@
 - `in earnest`                          ([Formal] 本格的に／真剣に) They began the negotiations `in earnest` last week.
 - `in which`                      ([Formal] その中で〜する)       The situation `in which` we find ourselves.
 - `inadequate` /ɪnˈædɪkwət/       ([Neutral] 不適切な)            The budget is inadequate.
-- `incompetence` /ɪnˈkɒmpɪtəns/   ([Formal] 無能)                 His incompetence caused problems.
-- `incompetent` /ɪnˈkɒmpɪtənt/    ([Formal] 無能な)               The incompetent employee was fired.
 - `inconsolable` /ˌɪnkənˈsoʊləbəl/ ([Writing] 慰めようがない)         She was inconsolable after the tragedy.
 - `inconspicuous` /ˌɪnkənˈspɪkjuəs/ ([Neutral] 目立たない)        She tried to remain inconspicuous.
 - `indefensible` /ˌɪndɪˈfɛnsəbəl/   ([Formal] 弁護できない、正当化できない) Killing civilians is indefensible.
@@ -764,7 +756,6 @@
 - `kind of thing`                   ([Neutral] 〜的なもの)          It's not my `kind of thing`.
 - `knee` /niː/                       ([Neutral] 膝)                  I scraped my knee when I fell.
 - `knot` /nɒt/                       ([Neutral] 結び目、もつれ)        I tied a knot in the rope.
-- `kudos` /ˈkuːdɑːs/                 ([Casual] 称賛、名声)         Kudos to you for finishing the project!
 - `laborious` /ləˈbɔːriəs/          ([Writing] 骨の折れる)          It was a laborious process.
 - `laboriously` /ləˈbɔːriəsli/    ([Writing] 骨を折って)          He laboriously completed the task.
 - `landlady` /ˈlændleɪdi/         ([Neutral] 女性大家)            The landlady lives downstairs.
@@ -858,7 +849,6 @@
 - `no more than`                  ([Neutral] せいぜい)            It costs no more than $20.
 - `no such thing`                   ([Neutral] そんなものはない)    There's `no such thing` as a free lunch.
 - `nobility` /noʊˈbɪləti/         ([Formal] 高貴さ、気高さ)       His nobility shines through.
-- `noble` /ˈnoʊbəl/                 ([Formal] 高貴な、気高い)       That was a noble gesture.
 - `nobly` /ˈnoʊbli/               ([Formal] 気高く、立派に)       She acted nobly.
 - `noise` /nɔɪz/                    ([Neutral] 騒音、音)            The noise from the street was too loud.
   - `clunk` /klʌŋk/                  ([Neutral] ゴツンという音)      I heard a clunk from the engine.
@@ -1005,8 +995,6 @@
 - `prior to`                        ([Formal] 〜より前に)           Prior to the meeting.
 - `pristine` /prɪˈstiːn/            ([Writing] 手つかずの、新品同様) The beach was pristine and untouched.
 - `problematic` /ˌprɑːbləˈmætɪk/    ([Formal] 問題のある、困難な)   The situation is becoming problematic.
-- `proficiency` /prəˈfɪʃənsi/     ([Formal] 熟達)                 Her English proficiency is excellent.
-- `proficient` /prəˈfɪʃənt/         ([Formal] 熟達した)             He's proficient in three languages.
 - `profound` /prəˈfaʊnd/            ([Formal] 深い、激しい)         The loss had a profound impact.
 - `profusion` /prəˈfjuːʒən/         ([Formal] 大量、豊富)           A profusion of flowers bloomed.
 - `prominence` /ˈprɑːmɪnəns/      ([Neutral] 卓越、名声)          He rose to prominence quickly.
@@ -1077,7 +1065,6 @@
 - `relentlessly` /rɪˈlentləsli/   ([Writing] 容赦なく、執拗に)    He pursued his goal relentlessly.
 - `reliable` /rɪˈlaɪəbəl/           ([Neutral] 信頼できる 良心的な) She's a reliable worker.
 - `relieved` /rɪˈliːvd/            ([Neutral] 安心した、ほっとした)     I'm relieved that you're safe.
-- `remarkable` /rɪˈmɑːrkəbl/        ([Neutral] 注目すべき、顕著な)  She made remarkable progress.
 - `remarkably` /rɪˈmɑːrkəbli/     ([Neutral] 著しく)              He was remarkably calm during the crisis.
 - `remedy` /ˈremədi/                ([Neutral] 治療法、救済策)      Home remedies can be effective.
 - `removal` /rɪˈmuːvəl/             ([Neutral] 解任、除去)          The removal of the manager caused controversy.
@@ -1182,9 +1169,6 @@
 - `siege` /siːdʒ/                   ([Formal] 包囲、包囲戦)         The siege lasted for months.
 - `sincere` /sɪnˈsɪr/               ([Neutral] 誠実な、真剣な)      She gave a sincere apology.
 - `sketch` /skɛt͡ʃ/                   ([Neutral] スケッチ、略図)          She made a quick sketch of the design.
-- `skill` /skɪl/                  ([Neutral] 技能)                Reading requires good language skills.
-- `skilled` /skɪld/                 ([Neutral] 熟練した)            He's a skilled craftsman.
-- `skillful` /ˈskɪlfəl/           ([Neutral] 熟練した、上手な)    She's very skillful with her hands.
 - `skirmish` /ˈskɜːmɪʃ/             ([Formal] 小競り合い)           A skirmish broke out at the border.
 - `smoothness` /ˈsmuːðnəs/          ([Neutral] 滑らかさ、器用さ)  His smoothness impressed everyone.
 - `sneakiness` /ˈsniːkinəs/       ([Casual] こっそりした行為)      His sneakiness made everyone suspicious.
@@ -1292,8 +1276,6 @@
 - `tactfully` /ˈtæktfəli/          ([Neutral] 機転を利かせて)      She tactfully changed the subject.
 - `tag` /tæɡ/                     ([Casual] 署名タグ、落書き)     He tagged the wall with his signature.
 - `taken with` /ˈteɪkən wɪð/      ([Casual] 気に入る、惹かれる)   He's quite taken with the idea.
-- `talent` /ˈtælənt/              ([Neutral] 才能)                He has a talent for music.
-- `talented` /ˈtæləntɪd/            ([Neutral] 才能のある)          She's a talented musician.
 - `tangles` /ˈtæŋɡəlz/               ([Neutral] もつれ、争い)          She brushed out the tangles in her hair.
 - `tarnish` /ˈtɑːnɪʃ/             ([Neutral] 汚す、変色する)      Silver tarnishes over time.
 - `tedious` /ˈtidiəs/             ([Neutral] 退屈な、飽き飽きする) The work is tedious but necessary.
@@ -1380,7 +1362,6 @@
 - `tranquilize` /ˈtræŋkwɪlaɪz/     ([Medical] 鎮静する、落ち着かせる)   The doctor had to tranquilize the patient.
 - `transitional` /trænˈzɪʃənəl/   ([Formal] 過渡的な、移行期の)   We're in a transitional period right now.
 - `treat oneself`               ご褒美
-- `tribute` /ˈtrɪbjuːt/              ([Formal] 賛辞、感謝の印)     The concert was a tribute to his legacy.
 - `tricky` /ˈtrɪki/                 ([Casual] コツがいる困難)       The last question on the test was tricky.
 - `trigger` /ˈtrɪɡər/               ([Neutral] 引き金、きっかけ)    The sound was the trigger for panic.
 - `triggered` /ˈtrɪɡərd/          ([Neutral] 誘発された)          The alarm was triggered by smoke.
@@ -1428,7 +1409,6 @@
 - `unsettle` /ʌnˈsetəl/               ([Neutral] 不安にさせる)        The strange events unsettled everyone.
 - `unsettled` /ʌnˈsetəld/          ([Neutral] 落ち着かない、不安な) She felt unsettled all day.
 - `unsettling` /ʌnˈsetəlɪŋ/        ([Neutral] 不安にさせる)        It was an unsettling experience.
-- `unskilled` /ʌnˈskɪld/          ([Neutral] 未熟練の)            Unskilled workers earn less money.
 - `unspoiled` /ʌnˈspɔɪld/           ([Neutral] 損なわれていない)    The island remains unspoiled by tourism.
 - `unsustainable` /ˌʌnsəˈsteɪnəbəl/ ([Formal] 持続できない)         This level of subsidy is unsustainable.
 - `untarnished` /ʌnˈtɑːnɪʃt/        ([Writing] 汚されていない)      His reputation remains untarnished.

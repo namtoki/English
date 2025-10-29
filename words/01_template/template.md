@@ -389,6 +389,12 @@
   - `Déjà vu`                       ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.
 
 ## CLICHE
+> `I need to be somewhere`          ([Casual] 行く必要がある)       I need to be somewhere in an hour.
+  - `I have to be somewhere`        ([Casual] 行かなきゃ)           Sorry, I have to be somewhere right now.
+  - `I have somewhere to be`        ([Casual] 行く所がある)         I have somewhere to be, so I can't stay.
+  - `I gotta run`                   ([Casual] 行かなきゃ)           I gotta run. Talk to you later!
+  - `I need to get going`           ([Casual] そろそろ行かなきゃ)   I need to get going now.
+  - `I should get going`            ([Casual] そろそろ行くべき)     I should get going. It's getting late.
 - `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, I was on mute and didn’t hear you.
 - `the sky's the limit`             ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
@@ -419,3 +425,10 @@
   - `dive in`                       ([Casual] 飛び込む)             Just dive in and start working.
   - `plunge in`                     ([Neutral] 突入する)            We decided to plunge in headfirst.
   - `take the plunge`               ([Casual] 思い切ってやる)       I finally took the plunge and quit.
+
+## QUANTITY / PORTION (the bulk of / the majority of)
+- `the bulk of` /ðə bʌlk əv/         ([Neutral] 大部分)               The bulk of the work is done.
+  - `the majority of` /ðə məˈdʒɔːrɪti əv/ ([Neutral] 大多数)           The majority of students passed.
+  - `most of` /moʊst əv/              ([Neutral] ほとんど)             Most of the work is finished.
+  - `the greater part of` /ðə ˈɡreɪtər pɑːrt əv/ ([Writing] 大部分)    They live here the greater part of the year.
+  - `the larger part of` /ðə ˈlɑːrdʒər pɑːrt əv/ ([Neutral] 大部分)    The larger part of the day was spent working.
