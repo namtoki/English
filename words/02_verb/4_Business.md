@@ -1,6 +1,6 @@
 # Business
 
-## WHO (I'm in charge of / I'll hand this over to / I'll leave it up to you / I'll take over from / I'll take on)
+## WHO (`I'm in charge of` / `I'll hand this over to` / `I'll leave it up to you` / `I'll take over from` / I'll take on)
 > `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
   - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
 > `hand over to` /hænd ˈoʊvər tuː/  ([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
@@ -30,7 +30,7 @@
   - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
   - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
 
-## TASK (I'll get on it / I'm working on it / I'll carry on with / Let's move forward with the plan / We'll carry out / go about)
+## TASK (`I'll get on it` / `I'm working on it` / `I'll carry on with` / `Let's move forward with the plan` / `We'll carry out` / `go about`)
 > `get on` /ɡet ɑːn/                ([Neutral] 取り掛かる)          I'll get on it right away.
   - `get started on`                ([Neutral] 着手する、始める)    Let's get started on the analysis.
   - `get to` /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
@@ -145,9 +145,7 @@
   - `see if` /si ɪf/                ([Casual] ～かどうか確認する)   I'll see if she's available.
   - `confirm` /kənˈfɜrm/            ([Neutral] 確認する)            Can you confirm the meeting time?
   - `reconfirm` /ˌriːkənˈfɜrm/      ([Neutral] 再確認する)          Let's reconfirm the details.
-  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする)          Please ensure all forms are signed.
   - `verify` /ˈvɛrɪfaɪ/             ([Formal] 検証する、確認する)   Please verify your email address.
-  - `validate` /ˈvælɪdeɪt/          ([Formal] 検証する、妥当性確認) The system will validate your input.
   - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
 > `sort out` /sɔːrt aʊt/            ([Casual] 整理する、解決する)   I'll sort out the paperwork.
   - `organize` /ˈɔːrɡənaɪz/         ([Neutral] 整理する、組織する)  I need to organize my files.
@@ -752,7 +750,6 @@
   - `align with` /əˈlaɪn wɪð/       ([Formal] 同調する、一致する)   Our goals align with yours.
   - `lend support to`               ([Formal] 支援する、支持する)   I lend my support to the cause.
   - `get on board with`             ([Casual] 同意し参加する)       We need everyone on board with this.
-  - `embrace` /ɪmˈbreɪs/            ([Neutral] 喜んで受け入れる)    She embraced the new approach.
 > `follow` /ˈfɑːloʊ/                ([Neutral] 従う、続く)          Please follow the instructions.
   - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
   - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.

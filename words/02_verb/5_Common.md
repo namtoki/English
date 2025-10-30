@@ -1,12 +1,24 @@
 # Common
 
-> `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
+## Performative (promise)
+> `promise` /ˈprɑːmɪs/              ([Neutral] 約束する、保証する)  She promised to call.
+  - `assure` /əˈʃʊr/                ([Neutral] 保証する、断言する)  I can assure you it's safe.
   - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
   - `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
+  - `confirm` /kənˈfɜːrm/           ([Neutral] 確認する、確証する)  Please confirm your attendance.
+  - `verify` /ˈverɪfaɪ/             ([Neutral] 確認する、証明する)  We need to verify your identity.
+  - `secure` /sɪˈkjʊr/              ([Neutral] 確保する、保証する)  We secured funding for the project.
+  - `back` /bæk/                    ([Casual] 支持する、保証する)   I'll back you on this decision.
+  - `insure` /ɪnˈʃʊr/               ([Neutral] 保証する 保険かける) Insure your valuables.
+  - `vouch for` /vaʊtʃ/             ([Neutral] ～を保証する)        I'll vouch for his character.
+  - `certify` /ˈsɜːrtɪfaɪ/          ([Formal] 証明する、認定する)   The document must be certified.
+  - `attest` /əˈtest/               ([Formal] 証明する、保証する)   I can attest to the accuracy.
   - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
-  - `promise` /ˈprɑːmɪs/            ([Neutral] 約束する、保証する)  She promised to call.
   - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
-
+  - `underwrite` /ˌʌndərˈraɪt/      ([Formal] 保証する 引受ける)    The bank will underwrite the loan.
+  - `validate` /ˈvælɪdeɪt/          ([Formal] 有効にする 確認する)  Please validate your ticket.
+  - `substantiate` /səbˈstænʃieɪt/  ([Formal] 実証する、立証する)   Can you substantiate your claims?
+  - `hallmark` /ˈhɔːlmɑːrk/         ([Formal] 品質保証する)         The item is hallmarked.		
 
 ## BEHAVIOR (hustle / be on call / be stack with / drag on)
 > `hustle` /ˈhʌsəl/                 ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
@@ -44,6 +56,8 @@
   - `be dull` /bi dʌl/              ([Neutral] 退屈である)          The lecture was dull.
   - `be a killjoy` /bi ə ˈkɪldʒɔɪ/  ([Casual] 興を削ぐ)             Don't be a killjoy!
   - `be a wet blanket`              ([Casual] 場をしらけさせる)     He's such a wet blanket.
+
+---
 
 ## MOVE (move / go / get to / walk / swing by / go down / enter)
 > `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
