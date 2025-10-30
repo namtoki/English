@@ -2,41 +2,42 @@
 
 ---
 
-## Machine Learning at Amazon: Inside the Applied Scientist Role (Salary, Job Market, Skills) 
+## [一般的な知識] but [具体的な不確実性]
 
-https://youtu.be/2MyUD8E1GLI?si=7aZlqyS8nfRO-MKF
+> https://youtu.be/2MyUD8E1GLI?t=9
+> You might [know that] this has something to do with machine learning, [but exactly what] is hard to know.
 
+- You might know where it is, but exactly when is uncertain.
+- We understand how it works, but exactly why is a mystery.
+- They know who did it, but exactly what happened remains unclear.
 
+---
+
+## all about
+
+> https://youtu.be/2MyUD8E1GLI?t=9
 > So, today we're talking [all about] [this role].
                           └─成句─┘  └─名詞句┘
-
 - 意味
   - 「〜についてすべて」「〜に関する全て」
   - **"all about"**: 1つの成句として機能
   - **使用頻度**: 高い（特に口語）
 - 反例
   - we're talking about all this role
-  - 不自然
-  - **"all this role"** という名詞句が不適切
-  - "all" と "this" が競合している
-  - ネイティブスピーカーはこの語順を使わない
-  - **"all"** と **"this"** が両方とも限定詞として機能
-  - `英語では通常、1つの名詞に複数の限定詞を直接並べない`
-- 類似表現の比較表
+    - 不自然
+    - **"all this role"** という名詞句が不適切
+    - "all" と "this" が競合している
+    - ネイティブスピーカーはこの語順を使わない
+    - **"all"** と **"this"** が両方とも限定詞として機能
+    - `英語では通常、1つの名詞に複数の限定詞を直接並べない`
 
-| 表現 | 自然さ | 使用頻度 | 文脈 |
-|------|--------|---------|------|
-| **all about this role** | ◎ 最も自然 | 高 | 口語・カジュアル |
-| **about all of this role** | ○ 自然 | 中 | やや詳細 |
-| **about this whole role** | ○ 自然 | 中 | 強調 |
-| **about this entire role** | ○ 自然 | 中 | フォーマル |
-| **about all aspects of this role** | ○ 自然 | 中 | ビジネス |
-| **about all this role** | ✗ 不自然 | なし | 使用しない |
+---
 
+## exactly what
 
+> https://youtu.be/2MyUD8E1GLI?t=25
 > I'll walk you through [exactly what I do]
                         └─強調される範囲─┘
-
 - 意味
   - 「私がすることを**正確に**説明します」
   - **"exactly"** が **"what I do"** 全体を修飾
@@ -56,15 +57,6 @@ https://youtu.be/2MyUD8E1GLI?si=7aZlqyS8nfRO-MKF
   - really what I think
     - what I really think ← これも可能（意味がやや異なる）
     - **注**: "really" は柔軟性が高く、両方の位置が可能
-- 類似表現との比較表
-
-| 表現 | 自然さ | 使用頻度 | 備考 |
-|------|--------|---------|------|
-| **exactly what I do** | ◎ 最も自然 | 非常に高い | 標準的 |
-| **what I do exactly** | ○ やや自然 | 低い | 文末強調 |
-| **what I exactly do** | ✗ 不自然 | ほぼない | 非推奨 |
-| **what exactly I do** | △ 状況次第 | 低い | 疑問文で可 |
-
 
 ---
 
