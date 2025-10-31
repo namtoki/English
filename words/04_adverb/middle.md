@@ -68,3 +68,18 @@
 - `phlegmatically` /flɛɡˈmætɪkli/   ([Writing] 冷静に)              He responded phlegmatically to the crisis.
 - `typically` /ˈtɪpɪkli/            ([Neutral] 典型的に、通常)      He typically arrives late.
 - `totally` /ˈtəʊtəli/              ([Casual] 完全に、全く)         I totally agree with you.
+- `unendingly` /ʌnˈendɪŋli/         ([Writing] 終わりなく)          He talked unendingly about his illness.
+  - `endlessly` /ˈendləsli/         ([Neutral] 終わりなく)          They argued endlessly about it.
+  - `eternally` /ɪˈtɜːrnəli/        ([Formal] 永遠に)               She will be eternally grateful.
+  - `perpetually` /pərˈpetʃuəli/    ([Formal] 絶え間なく)           He was perpetually complaining.
+  - `infinitely` /ˈɪnfɪnətli/       ([Formal] 無限に)               This is infinitely better.
+
+  - `especially` /ɪˈspeʃəli/        ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
+  - `particularly` /pərˈtɪkjələrli/ ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
+  - `primarily` /praɪˈmerəli/       ([Formal] 主に、第一に)         We're primarily concerned with safety.
+
+- `austerely` /ɔːˈstɪrli/           ([Formal] 簡素に、厳格に)       She lived austerely in prayer.
+  - `simply` /ˈsɪmpli/              ([Neutral] 簡素に、単に)        They lived simply in the country.
+  - `plainly` /ˈpleɪnli/            ([Neutral] 質素に、明白に)      She dressed plainly for the occasion.
+  - `strictly` /ˈstrɪktli/          ([Neutral] 厳格に、厳密に)      The rules must be strictly followed.
+  - `severely` /səˈvɪrli/           ([Formal] 厳しく、激しく)       He was severely punished.

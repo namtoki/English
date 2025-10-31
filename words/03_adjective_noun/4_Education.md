@@ -33,3 +33,17 @@
   - `economy` /ɪˈkɑːnəmi/           ([Neutral] 経済)                The economy is growing.
 > `psychology` /saɪˈkɑːlədʒi/       ([Neutral] 心理学)              Psychology studies human behavior.
 > `sociology` /ˌsoʊsiˈɑːlədʒi/      ([Neutral] 社会学)              Sociology examines social structures.
+
+## TEACHING / LEARNING (instruction / instructor)
+> `instruction` /ɪnˈstrʌkʃən/       ([Neutral] 指示、指導)          Please follow the instructions carefully.
+  - `instructor` /ɪnˈstrʌktər/      ([Neutral] 指導者、教師)        The instructor explained the concept clearly.
+  - `teacher` /ˈtiːtʃər/            ([Neutral] 教師、先生)          My teacher is very helpful.
+  - `educator` /ˈedʒukeɪtər/        ([Formal] 教育者)               She's a respected educator.
+  - `tutor` /ˈtuːtər/               ([Neutral] 個人教師、家庭教師)  I hired a tutor for math.
+
+## ART / LITERATURE (motif / theme / symbol)
+> `motif` /moʊˈtiːf/                ([Neutral] モチーフ、主題)      The jacket has a rose motif on the collar.
+  - `theme` /θiːm/                  ([Neutral] テーマ、主題)        The theme of the novel is love.
+  - `leitmotif` /ˌlaɪtmoʊˈtiːf/    ([Formal] ライトモチーフ)       Freedom is a leitmotif in her work.
+  - `symbol` /ˈsɪmbəl/              ([Neutral] 象徴、シンボル)      The dove is a symbol of peace.
+  - `element` /ˈelɪmənt/            ([Neutral] 要素)                Suspense is a key element in this story.

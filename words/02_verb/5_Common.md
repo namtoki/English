@@ -1375,3 +1375,52 @@
   - `be psyched`                    ([Casual] ワクワクしている)     I'm psyched for the party!
   - `be fired up`                   ([Casual] やる気満々、熱くなる) I'm fired up for the match!
   - `be thrilled`                   ([Neutral] とても喜んでいる)    I'm thrilled about the news!
+
+## LEAVE BRIEFLY (step out / pop out / duck out)
+> `step out` /step aʊt/             ([Neutral] ちょっと出かける)    I'll step out for a few minutes.
+  - `pop out` /pɑːp aʊt/            ([Casual] ちょっと外出する)     I'll just pop out to the store.
+  - `duck out` /dʌk aʊt/            ([Casual] こっそり抜け出す)     I ducked out of the meeting early.
+  - `slip out` /slɪp aʊt/           ([Casual] こっそり出る)         I slipped out before anyone noticed.
+  - `nip out` /nɪp aʊt/             ([Casual 英] さっと出る)        I'll nip out for some milk.
+
+## CARE FOR / WATCH OVER (look out for / look after)
+> `look out for` /lʊk aʊt fɔːr/     ([Neutral] 面倒を見る)          Can you look out for my brother?
+  - `look after` /lʊk ˈæftər/       ([Neutral] 世話をする)          She looks after her parents.
+  - `watch over` /wɑːtʃ ˈoʊvər/     ([Neutral] 見守る、保護する)    I'll watch over the kids tonight.
+  - `keep an eye on` /kiːp ən aɪ ɑːn/ ([Neutral] 目を光らせる)      Keep an eye on the oven, please.
+  - `care for` /keər fɔːr/          ([Neutral] 世話をする)          He cares for his elderly mother.
+
+## BE OVER / TIRED OF / HAD ENOUGH
+> `be over` /biː ˈoʊvər/              ([Casual] うんざりしている)     I'm so over this job.
+  - `be tired of` /ˈtaɪərd əv/       ([Neutral] うんざりしている)    I'm tired of this situation.
+  - `have had enough` /hæv hæd ɪˈnʌf/ ([Neutral] もううんざりだ)      I've had enough of your excuses.
+  - `be sick and tired of`           ([Casual] 本当にうんざり)       I'm sick and tired of waiting.
+  - `be done with` /biː dʌn wɪð/     ([Casual] もう終わりにしたい)   I'm done with this discussion.
+
+## NAME / BAPTIZE (christen / baptize / nickname)
+> `christen` /ˈkrɪsən/              ([Neutral] 洗礼名を付ける)      She was christened Susan.
+  - `baptize` /bæpˈtaɪz/            ([Neutral] 洗礼を施す)          The baby was baptized last month.
+  - `nickname` /ˈnɪkneɪm/           ([Casual] あだ名をつける)       We nicknamed him 'Slowcoach'.
+  - `dub` /dʌb/                     ([Neutral] 名づける、称する)    He was dubbed 'The King'.
+  - `name` /neɪm/                   ([Neutral] 名づける、命名する)  They named their son Michael.
+
+## REPRODUCTION / AGRICULTURE (fertilize / pollinate)
+> `fertilize` /ˈfɜːrtəlaɪz/         ([Technical] 受精させる、施肥) Bees fertilize flowers as they gather nectar.
+  - `pollinate` /ˈpɑːləneɪt/        ([Technical] 受粉させる)        Bees pollinate the apple trees.
+  - `inseminate` /ɪnˈsemɪneɪt/      ([Technical] 授精する)          The cattle were artificially inseminated.
+  - `impregnate` /ɪmˈpreɡneɪt/      ([Formal] 妊娠させる)           The male impregnated the female.
+  - `breed` /briːd/                 ([Neutral] 繁殖させる、育種する) They breed horses for racing.
+
+## TEACH / INFORM (instruct / educate / inform)
+> `instruct` /ɪnˈstrʌkt/            ([Neutral] 指示する、教える)    She instructed them to wait outside.
+  - `educate` /ˈedʒukeɪt/           ([Neutral] 教育する)            We need to educate people about this.
+  - `inform` /ɪnˈfɔːrm/             ([Neutral] 知らせる、通知する)  Please inform me of any changes.
+  - `enlighten` /ɪnˈlaɪtn/          ([Formal] 啓発する、教える)     Let me enlighten you on this matter.
+  - `train` /treɪn/                 ([Neutral] 訓練する、教育する)  He trained staff on the new system.
+
+## INJURE / IMPAIR (disable / injure / impair)
+> `disable` /dɪsˈeɪbəl/            ([Neutral] 無効にする、障害を与) He was disabled in the accident.
+  - `injure` /ˈɪndʒər/              ([Neutral] 負傷させる)          She injured her knee playing soccer.
+  - `impair` /ɪmˈper/               ([Formal] 損なう、害する)       Alcohol can impair your judgment.
+  - `debilitate` /dɪˈbɪlɪteɪt/     ([Formal] 衰弱させる)           The disease debilitated him.
+  - `incapacitate` /ˌɪnkəˈpæsɪteɪt/ ([Formal] 無能力にする)         The injury incapacitated him for months.

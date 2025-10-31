@@ -229,8 +229,6 @@ audible	10	【形】聞こえる
 audit	8	【名】会計監査、監査報告書 【動】検査する、聴講する		
 auditor	9	【名】監査役、会計検査官、聴講生		
 augment	12	【動】増やす、増大する		
-austere	11	【形】切り詰めた、厳粛な、禁欲的な		
-austerity	11	【名】厳格さ、質素、苦行		
 authenticity	10	【名】信憑性、真正であること		
 autism	12	【名】自閉症		
 autocratic	11	【形】独裁的な、専制の		
@@ -271,8 +269,6 @@ bandit	12	【名】山賊、追いはぎ、無法者
 bane	11	【名】破滅のもと、悩みの種		
 banish	6	【動】追い出す、追放する		
 banter	11	【名】冗談の言い合い、ひやかし 【動】からかう、ひやかす		
-baptism	10	【名】洗礼、浸礼、バプテスマ、入会式		
-baptize	10	【動】洗礼を施す		
 barbarian	10	【名】野蛮人		
 barbarism	9	【名】野蛮、未開		
 barbed	11	【形】とげのある、辛らつな		
@@ -620,7 +616,6 @@ chlorine	12	【名】塩素
 choke	6	【動】窒息する、息が詰まる 【名】窒息		
 chore	7	【名】家事、雑用		
 choreographer	11	【名】振付師		
-christen	10	【動】洗礼を施す、命名する		
 chromosome	11	【名】染色体		
 chronicle	9	【動】年代順に記録する 【名】年代記、歴史		
 chronology	12	【名】年代記、年代順配列		
@@ -710,7 +705,6 @@ commodity	6	【名】商品、産物、有用なもの
 commoner	10	【名】平民、庶民、下院議員、一般学生		
 commonwealth	7	【名】団体、連邦（C_)		
 communal	10	【形】共同社会の、共同使用の		
-communion	8	【名】共有、交際、親交、交流、霊的交感、聖餐（せいさん）		
 communique	11	【名】公式声明、公式発表		
 commute	8	【動】通勤・通学する、代える、変化させる、取り替える		
 comparable	6	【形】匹敵する、似ている、比較できる		
@@ -735,7 +729,6 @@ complexion	10	【名】顔色、外観
 compliant	12	【形】従順な、言いなりの		
 compose	5	【動】～から成る、構成する、作曲する		
 composite	8	【形】各種の要素から成る、合成の 【名】合成物		
-compost	12	【名】堆肥 【動】堆肥にする		
 comprehensible	9	【形】理解できる		
 comprehension	5	【名】理解、知識、包括		
 compress	8	【動】押しつける、圧縮する、固めて～にする		
@@ -1005,7 +998,6 @@ dearth	11	【名】不足、飢きん
 deathbed	8	【名】死の床、臨終		
 debase	11	【動】品位や評価を落とす		
 debatable	9	【形】異論のある、論争可能な、未解決の		
-debilitate	11	【動】衰弱させる、弱体化させる、弱る		
 debit	9	【名】負債、借方 【動】借方に記入する		
 debris	10	【名】破片、がらくた		
 debtor	10	【名】借主、債務者		
@@ -1174,7 +1166,6 @@ diploma	7	【名】卒業証書、学位、公文書
 dire	11	【形】悲惨な、不吉な		
 directive	7	【名】公式の指示、指令 【形】指示的な、指導的な		
 directory	8	【名】住所氏名録、人名簿、指導書、規則書		
-disability	6	【名】能力を欠くこと、無力、身体障害		
 disadvantaged	10	【形】恵まれない、貧しい		
 disagreeable	7	【形】嫌な、好みに合わない、不愉快な		
 disagreement	6	【名】意見の相違、不一致、不調和		
@@ -1315,7 +1306,6 @@ drummer	10	【名】ドラマー、泥棒
 drunken	6	【形】酒に酔った、大酒飲みの		
 dryer	5	【名】乾燥器、ドライヤー		
 dual	10	【形】二重の、二元的な		
-dub	9	【動】吹き替える、あだ名をつける		
 dubious	9	【形】怪しい、疑う、半信半疑の		
 duchess	9	【名】公爵夫人、女		
 duchy	12	【名】公爵領、公国		
@@ -1421,8 +1411,6 @@ engaging	7	【形】魅力のある、人を引きつける
 engender	12	【動】生じさせる、引き起こす		
 engulf	10	【動】飲み込む、巻き込む		
 enjoin	12	【動】命じる、要求する、禁じる		
-enlighten	9	【動】啓発する、教え導く、知らせる		
-enlightenment	8	【名】啓発、啓蒙、悟り		
 enlist	8	【動】入隊する、協力する、参加する		
 enmity	9	【名】憎しみ、恨み		
 enshrine	12	【動】正式に記す、神聖なものとして祭る、安置する		
@@ -1576,9 +1564,6 @@ ferocious	10	【形】恐ろしい、凶暴な、猛烈な
 ferocity	11	【名】狂暴性、残忍な行為		
 fertile	5	【形】肥えた、肥沃な		
 fertility	8	【名】肥沃、多産、生産力、受胎能力		
-fertilization	9	【名】肥沃化		
-fertilize	8	【動】肥料をやる、肥沃にする、受精させる		
-fertilizer	8	【名】（化学）肥料、受精媒介者		
 festive	8	【形】祝祭の、祭日の、はなやいだ		
 festivity	8	【名】祝祭、行事、にぎわい		
 fetus	11	【名】胎児		
@@ -1716,7 +1701,6 @@ frosty	10	【形】霜の降りた、凍るような、白い
 froth	12	【名】ビールの泡、唾液の泡、空疎なもの		
 frown	5	【動】眉をひそめる 【名】むずかしい顔つき		
 frugal	9	【形】つましい、費用のかからない		
-frugality	12	【名】倹約、質素		
 fudge	12	【動】まともに取り組まない、でっち上げる 【名】でっち上げ		
 fullness	8	【名】充満、充足、十分、ふくよかさ		
 fume	10	【名】ガス、におい		
@@ -2011,9 +1995,6 @@ immovable	10	【形】動かせない、変化しない
 immune	9	【形】免疫の、免除された		
 immunity	9	【名】免疫、免除、免責		
 immunize	12	【動】免疫性を与える、無害にする		
-impair	9	【動】損なう、悪くする、減じる 【名】損傷		
-impaired	11	【形】障害のある、正常な機能が損なわれた		
-impairment	6	【名】機能障害		
 impasse	11	【名】行き詰まり		
 impassive	12	【形】冷静な、無感動の		
 impatience	6	【名】短気、切望		
@@ -2175,7 +2156,6 @@ installment	10	【名】ローンの1回分の支払い、連続ものの1回分
 instantaneous	9	【形】瞬間的な、即座の		
 instill	11	【動】主義・感情を徐々に教え込む、点滴する		
 institutional	6	【形】制度の、制度化した、協会の、機関が行う		
-instructive	6	【形】教育的な、教育上の		
 instrumental	6	【形】手段となる、役立つ、楽器の		
 insular	12	【形】孤立した、島の、偏狭な 【名】島民		
 insulate	10	【動】断熱する、絶縁させる、孤立させる		
@@ -2484,7 +2464,6 @@ manpower	8	【名】人的資源
 mansion	7	【名】大邸宅、マンション		
 mantelpiece	10	【名】マントルピース、炉棚		
 mantle	7	【名】マント		
-manure	10	【名】（有機質）肥料 【動】肥料を施す		
 manuscript	6	【名】原稿、手書きのもの		
 mar	8	【動】完全さを損なう、傷つける、台無しにする		
 mare	9	【名】雌馬、母馬		
@@ -2619,7 +2598,6 @@ mosaic	9	【名】寄せ木細工 【形】モザイクの、寄せ集めの
 moss	5	【名】コケ 【動】コケで覆う		
 moth	8	【名】蛾、しみ、（衣食の）虫食い		
 motherhood	9	【名】母であること、母性		
-motif	9	【名】モチーフ、動機、テーマ		
 motionless	7	【形】動かない、じっとしている		
 motley	11	【形】雑多な要素からなる 【名】まだら、寄せ集め		
 mound	8	【名】塚、古墳、小山 【動】土塁を築く、盛り上げる		
@@ -2712,7 +2690,6 @@ nun	6	【名】尼、修道女
 nuptial	11	【形】結婚の 【名】結婚式（～s）		
 nursery	5	【名】保育園、託児所		
 nurture	8	【動】養育する、助成する 【名】滋養物		
-nutrient	6	【名】栄養物 【形】栄養を含む、滋養になる		
 nutrition	6	【名】栄養分、食物、栄養学		
 nutritious	7	【形】栄養になる、滋養の多い		
 nutty	11	【形】風変わりな、ばかげた、内容の充実した、木の実の味の		
@@ -2908,7 +2885,6 @@ permanence	8	【名】永続、耐久、恒久不変
 permeate	12	【動】しみ込む、浸透する、通り抜ける		
 pernicious	11	【形】有害な、破滅的な、命にかかわる		
 perpetrate	11	【動】犯罪や過失を犯す、しでかす		
-perpetual	7	【形】永久の、果てしない		
 perpetuate	9	【動】永存させる、不朽にする		
 perplex	7	【動】当惑させる、迷わす		
 perplexity	10	【名】当惑、混乱、難問題		
@@ -2923,7 +2899,6 @@ pervade	9	【動】全体に普及する、充満する
 pervasive	10	【形】行き渡る、普及する		
 pervert	10	【動】（正しい道を）逸れる、曲解する 【名】変質者、背教者		
 pest	8	【名】有害な動物、やっかいもの、疫病		
-pesticide	9	【名】殺虫剤		
 petal	11	【名】花びら		
 petroleum	9	【名】石油		
 petulant	12	【形】短気な、こらえ性のない		
@@ -3821,7 +3796,6 @@ stallion	12	【名】種馬
 stammer	8	【動】どもる、口ごもる 【名】どもり		
 staple	7	【形】基本的な、主要な 【名】とじ金 【動】ホチキスでとめる		
 starch	9	【名】でんぷん、洗濯用のり、堅苦しさ 【動】のりをつける		
-stark	10	【形】荒涼とした、飾り気のない 【副】まったく		
 statesman	8	【名】政治家		
 stationary	8	【形】静止した、同じ状態を保つ、固定された		
 stationery	4	【名】文房具、便せん		
@@ -4183,7 +4157,6 @@ undoubted	6	【形】疑問の余地がない
 undue	12	【形】過度の、適切でない、支払期限がまだの		
 unearth	11	【動】明らかにする、掘り出す		
 uneasy	6	【形】不安な		
-unending	8	【形】いつまでも続く、果てしのない		
 unequivocal	12	【形】絶対的な、あいまいでない		
 uneven	8	【形】平らでない、でこぼこの、不規則な、奇数の、段差のある		
 unfavorable	8	【形】好意的でない、不利な、不運な		

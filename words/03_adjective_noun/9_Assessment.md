@@ -609,3 +609,29 @@
   - `amazing`                       ([Neutral] 驚くべき)            The show was amazing!
   - `astonishing`                   ([Neutral] 驚くべき)            The results were astonishing.
   - `astounding`                    ([Neutral] 驚愕させる)          The discovery was astounding.
+
+## CONTINUOUS / NEVER-ENDING (unending / endless / perpetual)
+> `unending` /ʌnˈendɪŋ/             ([Writing] 終わりのない)        The country's unending cycle of violence.
+  - `endless` /ˈendləs/             ([Neutral] 終わりのない)        The meeting felt endless.
+  - `eternal` /ɪˈtɜːrnəl/           ([Formal] 永遠の、不変の)       Their love was eternal.
+  - `perpetual` /pərˈpetʃuəl/       ([Formal] 永続的な、絶え間ない) He lived in perpetual fear.
+  - `infinite` /ˈɪnfɪnət/           ([Formal] 無限の、果てしない)   The universe seems infinite.
+
+## EDUCATIONAL / INFORMATIVE (instructive / informative / enlightening)
+> `instructive` /ɪnˈstrʌktɪv/       ([Neutral] 有益な、教育的な)    It was an instructive experience.
+  - `informative` /ɪnˈfɔːrmətɪv/    ([Neutral] 有益な、情報豊富な)  The presentation was very informative.
+  - `educational` /ˌedʒuˈkeɪʃənəl/  ([Neutral] 教育的な)            The program is highly educational.
+  - `enlightening` /ɪnˈlaɪtnɪŋ/     ([Neutral] 啓発的な)            The discussion was enlightening.
+  - `illuminating` /ɪˈluːmɪneɪtɪŋ/  ([Formal] 啓発的な、明解な)     Her comments were illuminating.
+
+## SIMPLE / STRICT (austere / spartan / ascetic)
+> `austere` /ɔːˈstɪr/               ([Formal] 簡素な、厳格な)       They lived an austere life.
+  - `spartan` /ˈspɑːrtən/           ([Formal] 質素な、禁欲的な)     The room was spartan and bare.
+  - `ascetic` /əˈsetɪk/             ([Formal] 禁欲的な)             He led an ascetic lifestyle.
+  - `stark` /stɑːrk/                ([Neutral] 簡素な、厳しい)      The room was stark and empty.
+  - `plain` /pleɪn/                 ([Neutral] 質素な、飾りのない)  She wore plain clothes.
+> `austerity` /ɔːˈsterəti/         ([Formal] 緊縮、簡素)           War was followed by years of austerity.
+  - `simplicity` /sɪmˈplɪsəti/     ([Neutral] 単純さ、簡潔さ)      The design is known for its simplicity.
+  - `frugality` /fruːˈɡæləti/      ([Formal] 倹約、質素)           They lived with great frugality.
+  - `severity` /səˈverəti/          ([Formal] 厳しさ、深刻さ)       The severity of the situation was clear.
+  - `strictness` /ˈstrɪktnəs/      ([Neutral] 厳格さ)              The strictness of the rules surprised them.

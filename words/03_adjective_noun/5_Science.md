@@ -201,3 +201,17 @@
   - `ablaze` /əˈbleɪz/              ([Writing] 燃えている 輝いてる) The building was ablaze.
   - `alight` /əˈlaɪt/               ([Writing] 燃えている 点いてる) The candles were alight.
   - `aflame` /əˈfleɪm/              ([Writing] 炎に包まれた)        The forest was aflame.
+
+## REPRODUCTION / BIOLOGY
+> `fertilization` /ˌfɜːrtələˈzeɪʃən/ ([Technical] 受精)           Fertilization occurs when sperm meets egg.
+  - `pollination` /ˌpɑːlɪˈneɪʃən/   ([Technical] 受粉)              Bees help with pollination.
+  - `insemination` /ɪnˌsemɪˈneɪʃən/ ([Technical] 授精、受精)        Artificial insemination is common in farming.
+  - `conception` /kənˈsepʃən/       ([Neutral] 受胎、妊娠)          Conception occurs during ovulation.
+  - `impregnation` /ɪmˌpreɡˈneɪʃən/ ([Formal] 受胎、妊娠)           Impregnation is the start of pregnancy.
+
+## AGRICULTURE / FARMING
+> `fertilizer` /ˈfɜːrtəlaɪzər/      ([Neutral] 肥料)                Farmers use fertilizer for crops.
+  - `manure` /məˈnʊr/               ([Neutral] 肥料、堆肥)          They spread manure on the fields.
+  - `compost` /ˈkɑːmpoʊst/          ([Neutral] 堆肥)                We make compost from food scraps.
+  - `nutrient` /ˈnuːtriənt/         ([Technical] 栄養素)            Plants need nutrients to grow.
+  - `pesticide` /ˈpestɪsaɪd/        ([Neutral] 農薬、殺虫剤)        They avoid using pesticides.

@@ -110,3 +110,8 @@
   - `priory` /ˈpraɪəri/             ([Formal] 小修道院)             The priory housed a small community.
   - `friary` /ˈfraɪəri/             ([Formal] 托鉢修道会の修道院)   The Franciscan friary welcomed visitors.
   - `nunnery` /ˈnʌnəri/             ([Old-fashioned] 尼僧院)        The nunnery was established in 1400.
+> `christening` /ˈkrɪsənɪŋ/        ([Neutral] 洗礼式、命名式)      We're going to my nephew's christening.
+  - `baptism` /ˈbæptɪzəm/           ([Neutral] 洗礼式)              The baptism took place on Sunday.
+  - `communion` /kəˈmjuːniən/       ([Neutral] 聖餐式)              She took her first communion at age seven.
+  - `confirmation` /ˌkɑːnfərˈmeɪʃən/ ([Neutral] 堅信礼)             His confirmation was held in May.
+  - `ceremony` /ˈserəmoʊni/         ([Neutral] 式典、儀式)          The ceremony was very moving.
