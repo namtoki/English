@@ -119,33 +119,25 @@
   - `extra` /ˈekstrə/               ([Casual] 余分な、追加の)       We have extra time today.
   - `excessive` /ɪkˈsesɪv/          ([Neutral] 過度な、過剰な)      The noise was excessive.
   - `needless` /ˈniːdləs/           ([Neutral] 不要な、無用な)      His death was needless.
-  - `needlessly` /ˈniːdləsli/       ([Neutral] 不必要に)            Don't worry needlessly.
   - `redundant` /rɪˈdʌndənt/        ([Formal] 冗長な、余分な)       The word "unmarried" is redundant here.
   - `redundancy` /rɪˈdʌndənsi/      ([Formal] 冗長性、解雇)         The redundancy in the code slows it down.
-  - `redundantly` /rɪˈdʌndəntli/    ([Formal] 冗長に)               The phrase was redundantly repeated.
   - `superfluous` /suːˈpɜːrfluəs/   ([Formal] 余分な、不要な)       The details were superfluous.
-  - `superfluously` /suːˈpɜːrfluəsli([Formal] 余分に)               The word was superfluously added.
   - `surplus` /ˈsɜːrpləs/           ([Neutral] 余剰の、余分な)      The surplus goods were sold off.
   - `extraneous` /ɪkˈstreɪniəs/     ([Formal] 無関係な、余計な)     Remove extraneous information.
   - `expendable` /ɪkˈspendəbəl/     ([Neutral] 犠牲にできる 不要な) No one is expendable on this team.
   - `uncalled for` /ʌnˈkɔld fɔːr/   ([Neutral] 不当な、不必要な)    That remark was uncalled for.
 > `excessive` /ɪkˈsesɪv/            ([Neutral] 過度な、過剰な)      The noise was excessive.
-  - `excessively` /ɪkˈsesɪvli/      ([Neutral] 過度に)              The room is excessively hot.
   - `too much`                      ([Casual] やりすぎ、過度)       That's too much work for one day.
   - `extreme` /ɪkˈstriːm/           ([Neutral] 極端な、過激な)      His views are extreme.
-  - `extremely` /ɪkˈstriːmli/       ([Neutral] 極端に、非常に)      It's extremely important.
   - `over the top`                  ([Casual] 過度な、大げさな)     His reaction was over the top.
   - `exaggerated` /ɪɡˈzædʒəreɪtɪd/  ([Neutral] 誇張された)          The story was exaggerated.
   - `exaggeration` /ɪɡˌzædʒəˈreɪʃən/([Neutral] 誇張)                That's an exaggeration.
   - `exaggerate` /ɪɡˈzædʒəreɪt/     ([Neutral] 誇張する)            Don't exaggerate the problem.
   - `unreasonable` /ʌnˈriːzənəbəl/  ([Neutral] 不合理な、法外な)    That's an unreasonable demand.
-  - `unreasonably` /ʌnˈriːzənəbli/  ([Neutral] 不合理に)            The price is unreasonably high.
   - `outrageous` /aʊtˈreɪdʒəs/      ([Neutral] 法外な とんでもない) That's an outrageous price.
-  - `outrageously` /aʊtˈreɪdʒəsli/  ([Neutral] 法外に)              It's outrageously expensive.
   - `extravagant` /ɪkˈstrævəɡənt/   ([Formal] 贅沢な、法外な)       That's an extravagant lifestyle.
   - `extravagance` /ɪkˈstrævəɡəns/  ([Formal] 贅沢、浪費)           Such extravagance is unnecessary.
   - `dramatic` /drəˈmætɪk/          ([Neutral] 大げさな、劇的な)    She made a dramatic entrance.
-  - `dramatically` /drəˈmætɪkli/    ([Neutral] 劇的に)              Prices rose dramatically.
 
 ## Schedule (just around the corner)
 > `just around the corner`          ([Casual] 間近に迫った)         Summer is just around the corner.

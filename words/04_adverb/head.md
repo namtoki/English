@@ -8,18 +8,23 @@
   - `firstly` /ˈfɜːrstli/           ([Formal] 第一に)               Firstly, we need to review the budget.
   - `to start with`                 ([Neutral] まず初めに)          To start with, check your equipment.
   - `initially` /ɪˈnɪʃəli/          ([Neutral] 最初は、当初は)      Initially, I was skeptical.
-- `then` /ðen/                      ([Neutral] それから)            First we'll eat, then we'll go.
-  - ==after that== /ˈæftər ðæt/       ([Neutral] その後)              After that, everything changed.
-  - `afterwards` /ˈæftərwərdz/      ([Neutral] その後で)            Afterwards, we went for coffee.
-  - `following that`                ([Neutral] それに続いて)        Following that, we had lunch.
-  - `subsequently` /ˈsʌbsɪkwəntli/  ([Formal] その後、続いて)       Subsequently, he was promoted.
-  - `thereafter` /ðerˈæftər/        ([Formal] その後)               Thereafter, she lived abroad.
-- `next` /nekst/                    ([Neutral] 次に)                Next, we'll discuss the budget.
-  - `later` /ˈleɪtər/               ([Neutral] 後で)                Later, we discovered the truth.
-  - `finally` /ˈfaɪnəli/            ([Neutral] 最後に、ついに)      Finally, we reached an agreement.
-  - `meanwhile` /ˈmiːnwaɪl/         ([Neutral] その間、一方)        Meanwhile, the situation worsened.
-  - `henceforth` /hensˈfɔːrθ/       ([Formal] 今後は)               Henceforth, all meetings are virtual.
-  - `forthwith` /fɔːrθˈwɪθ/         ([Formal] 直ちに)               The order was executed forthwith.
+- ==next== /nekst/                    ([Neutral] 次に)                Next, we'll discuss the budget.
+  - `then` /ðen/                    ([Neutral] それから、次に)      First we'll eat, then we'll go.
+  - `and then`                      ([Casual] それから、そして)     We had lunch, and then we went shopping.
+  - `secondly` /ˈsekəndli/          ([Neutral] 第二に、次に)        Secondly, we need to address the budget.
+  - `second` /ˈsekənd/              ([Neutral] 第二に)              Second, let's talk about timing.
+  - ==another thing is==              ([Casual] もう一つは)           Another thing is that it's too expensive.
+  - ==another point is==              ([Neutral] もう一つの点は)      Another point is the lack of resources.
+  - `the next thing is`             ([Neutral] 次のことは)          The next thing is to test the system.
+  - `the next point is`             ([Neutral] 次の点は)            The next point is customer feedback.
+- `thirdly` /ˈθɜːrdli/              ([Formal] 第三に)               Thirdly, we must consider the risks.
+  - `third` /θɜːrd/                 ([Neutral] 第三に)              Third, there's the issue of cost.
+- ==finally== /ˈfaɪnəli/              ([Neutral] 最後に、ついに)      Finally, we reached an agreement.
+  - `eventually` /ɪˈventʃuəli/      ([Neutral] 最終的に、結局)      Eventually, he agreed to help.
+  - `in the end`                    ([Neutral] 最後には、結局)      In the end, we decided to stay.
+  - `lastly` /ˈlæstli/              ([Neutral] 最後に)              Lastly, I'd like to thank everyone.
+  - `at last`                       ([Neutral] ついに、やっと)      At last, the train arrived.
+  - `ultimately` /ˈʌltɪmətli/       ([Formal] 最終的に)             Ultimately, it's your decision.
 - ==moving on== /ˈmuːvɪŋ ɒn/          ([Casual] 次に進むと)           Moving on, let's discuss sales.
   - `let's move on to`              ([Neutral] ～に話を進めましょ)  Let's move on to the next topic.
 - ==going back to== /ˈɡoʊɪŋ bæk tuː/  ([Casual] ～に話を戻すと)       Going back to your question, yes I agree.
@@ -30,11 +35,9 @@
   - `to circle back`                ([Neutral] 話を戻すと)          Just to circle back to the budget issue.
 
 ## TOPIC
-- ==like S Vpast==                    (S が V した通り)
-  - `like I said`                   ([Casual] さっき言ったように)   Like I said, we need to leave early.
-  - `like I told you`               ([Casual] 言った通り)           Like I told you, he's always late.
-  - `as I said`                     ([Neutral] 私が言ったように)    As I said, the meeting is at 3 PM.
-  - `as I told you`                 ([Casual] 言った通り)           As I told you, this won't be easy.
+- ==like/as S Vpast==                 (S が V した通り)
+  - `like/as I said`                ([Casual] さっき言ったように)   Like I said, we need to leave early.
+  - `like/as I told you`            ([Casual] 言った通り)           Like I told you, he's always late.
   - `as we discussed`               ([Neutral] 話し合った通り)      As we discussed, the budget needs approval.
   - `just as I thought`             ([Casual] 思った通り)           Just as I thought, the store was closed.
   - `as I explained`                ([Neutral] 説明したように)      As I explained, the process takes time.
@@ -46,7 +49,6 @@
   - `as anticipated`                ([Neutral] 予想していた通り)    As anticipated, the response was positive.
   - `as previously stated`          ([Formal] 前に述べたように)     As previously stated, the deadline is firm.
   - `as noted`                      ([Formal] 指摘された通り)       As noted in the report, costs have risen.
-- `per our discussion`              ([Formal] 話し合いの通り)       Per our discussion, I've updated the proposal.
 - ==as for== /æz fɔːr/                ([Neutral] ～については)        As for the budget, we need to cut costs.
   - `about` /əˈbaʊt/                ([Neutral] ～について)          About the meeting, can we reschedule?
   - `on` /ɑːn/                      ([Neutral] ～について)          On that topic, I have some thoughts.
@@ -68,26 +70,51 @@
   - `vis-à-vis` /ˌviːzɑːˈviː/       ([Formal] ～に関して)           Vis-à-vis the competition, we're ahead.
 
 ## ADDITION
-- ==that said== /ðæt sed/             ([Neutral] とはいえ)            That said, I still think it's worth trying.
-  - ==on the flip side==              ([Neutral] 一方で、逆に言えば)  The pay is low. On the flip side, the work is flexible.
-  - `on the other hand`             ([Neutral] 一方で、他方では)    On the other hand, it costs more.
-  - `conversely` /kənˈvɜːrsli/      ([Formal] 逆に)                 Conversely, we could wait and see.
-  - `having said that`              ([Neutral] そうは言っても)      Having said that, we need to be careful.
-  - `by contrast` /baɪ ˈkɑːntræst/  ([Formal] 対照的に)             By contrast, last year was much better.
-- ==on top of that==                  ([Casual] その上、さらに)       The food was cold, and on top of that, it tasted awful.
+- ==also== /ˈɔːlsoʊ/                  ([Neutral] また、さらに)        Also, we need to update the website.
+  - `and also`                      ([Casual] そしてまた)           And also, don't forget to save your work.
+  - ==plus== /plʌs/                   ([Casual] それに、加えて)       Plus, it's really easy to use.
+  - `in addition` /ɪn əˈdɪʃən/      ([Neutral] さらに、加えて)      In addition, we offer free shipping.
+  - `in addition to that`           ([Formal] それに加えて)         In addition to that, we need approval.
   - ==besides== /bɪˈsaɪdz/            ([Casual] その上)               Besides, I have other plans tonight.
-  - `what's more`                   ([Casual] その上)               What's more, she speaks five languages.
+  - ==on top of that==                ([Casual] その上、さらに)       The food was cold, and on top of that, it tasted awful.
+  - `what's more`                   ([Casual] その上、さらに)       What's more, it comes with a warranty.
+  - `additionally` /əˈdɪʃənəli/     ([Formal] さらに、加えて)       Additionally, there are tax benefits.
+  - `furthermore` /ˌfɜːrðərˈmɔːr/   ([Formal] さらに、その上)       Furthermore, the data supports this.
+  - `moreover` /mɔːrˈoʊvər/         ([Formal] その上、さらに)       Moreover, costs have been reduced.
+  - `among other things`            ([Neutral] とりわけ)            He mentioned, among other things, the cost.
   - `to make matters worse`         ([Casual] さらに悪いことに)     To make matters worse, we ran out of gas.
   - `what's worse`                  ([Casual] さらに悪いことに)     What's worse, the deadline is tomorrow.
   - `more than anything`            ([Casual] 何よりも)             More than anything, I value honesty.
-  - `in addition to that`           ([Formal] それに加えて)         In addition to that, we need approval.
-  - `among other things`            ([Neutral] とりわけ)            He mentioned, among other things, the cost.
+- ==after that== /ˈæftər ðæt/         ([Neutral] その後)              After that, everything changed.
+  - `after` /ˈæftər/                ([Neutral] その後)              We talked for hours. After, we went home.
+  - `afterwards` /ˈæftərwərdz/      ([Neutral] その後で)            Afterwards, we went for coffee.
+  - `right after`                   ([Casual] すぐその後)           Right after the meeting, I called you.
+  - `soon after`                    ([Neutral] すぐその後)          Soon after, they moved to Tokyo.
+  - `shortly after`                 ([Neutral] 間もなく)            Shortly after, he received the news.
+  - `following that`                ([Neutral] それに続いて)        Following that, we had lunch.
+  - `from then on`                  ([Neutral] それ以降)            From then on, everything changed.
+  - `since then`                    ([Neutral] それ以来)            Since then, I've never seen him.
+  - `subsequently` /ˈsʌbsɪkwəntli/  ([Formal] その後、続いて)       Subsequently, he was promoted.
+  - `thereafter` /ðerˈæftər/        ([Formal] その後)               Thereafter, she lived abroad.
 - `most of all` /moʊst əv ɔːl/      ([Neutral] 何よりも、特に)      Most of all, I value honesty.
   - `above all` /əˈbʌv ɔːl/         ([Neutral] 何よりも、特に)      Above all, be true to yourself.
   - `most importantly`              ([Neutral] 最も重要なことに)    Most importantly, stay safe.
+- ==that said== /ðæt sed/             ([Neutral] とはいえ)            That said, I still think it's worth trying.
+  - `having said that`              ([Neutral] そうは言っても)      Having said that, we need to be careful.
+- `on the other hand`               ([Neutral] 一方で、他方では)    On the other hand, it costs more.
+  - ==on the flip side==              ([Neutral] 一方で、逆に言えば)  The pay is low. On the flip side, the work is flexible.
+- ==instead== /ɪnˈsted/               ([Neutral] 代わりに、むしろ)    Instead, we should focus on quality.
+  - `rather` /ˈræðər/               ([Neutral] むしろ、それどころか) Rather, I think we should wait.
+  - `conversely` /kənˈvɜːrsli/      ([Formal] 逆に)                 Conversely, we could wait and see.
+  - `by contrast` /baɪ ˈkɑːntræst/  ([Formal] 対照的に)             By contrast, last year was much better.
+  - `in contrast`                   ([Formal] 対照的に)             In contrast, the new model is faster.
+  - `on the contrary`               ([Formal] それどころか、逆に)   On the contrary, I think it's a great idea.
+  - `alternatively`                 ([Neutral] あるいは、代わりに)  Alternatively, we could postpone the meeting.
+  - `as opposed to`                 ([Formal] ～とは対照的に)       As opposed to last year, sales are up.
+  - `perversely` /pɚˈvɝsli/         ([Formal] ひねくれて、逆に)     Perversely, we love that character.
 - ==I mean==                          ([Casual] つまり、その)         I'm tired. I mean, I only slept 3 hours.
   - `basically`                     ([Casual] 基本的に、要するに)   Basically, we need to start over.
-  - `the thing is`                  ([Casual] 実は、要は)           The thing is, I forgot my wallet.
+  - ==the thing is==                  ([Casual] 実は、要は)           The thing is, I forgot my wallet.
   - ==the point is==                  ([Neutral] 要点は)              The point is, we can't afford it.
   - `as in`                         ([Neutral] つまり)              Give me a fruit, as in an apple or orange.
   - `in other words`                ([Neutral] 言い換えると)        She's busy. In other words, she can't come.
@@ -161,6 +188,7 @@
   - `that way` /ðæt weɪ/            ([Casual] そうすれば)           Leave early. That way, you won't be late.
   - `that's how` /ðæts haʊ/         ([Casual] このようにして)       That's how we met.
   - `that's why` /ðæts waɪ/         ([Neutral] だから)              That's why I called you.
+  - `this is why` /ðɪs ɪz waɪ/      ([Neutral] そういうわけで)      We missed the deadline. This is why we need better planning.
   - `and then` /ænd ðen/            ([Neutral] それから)            And then, we decided to go home.
   - `like this` /laɪk ðɪs/          ([Casual] このように)           Do it like this.
   - `in that case` /ɪn ðæt keɪs/    ([Neutral] その場合は)          In that case, we can reschedule.
@@ -231,19 +259,19 @@
   - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
 
 ## CONDITION
-> `if` /ɪf/                         ([Neutral] もし～なら)          If it rains, we'll move inside.
+- `if` /ɪf/                         ([Neutral] もし～なら)          If it rains, we'll move inside.
   - `in case` /ɪn keɪs/             ([Neutral] ～に備えて)          In case it rains, bring an umbrella.
   - `in the event of`               ([Formal] ～の場合には)         In the event of rain, we'll move inside.
   - `in the event that`             ([Formal] ～の場合は)           In the event that it rains, we'll move inside.
   - `should` /ʃʊd/                  ([Formal] もし～なら)           Should you need help, call me.
   - `were` /wɜːr/                   ([Formal] もし～なら)           Were I you, I would wait.
   - `had` /hæd/                     ([Formal] もし～だったら)       Had I known, I would have helped.
-> `assuming that` /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
-  - `supposing that`                ([Neutral] ～だと仮定して)      Supposing that he refuses, what will you do?
+- ==assuming that== /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
+  - ==supposing that==                ([Neutral] ～だと仮定して)      Supposing that he refuses, what will you do?
   - `on the assumption that`        ([Formal] ～という前提で)       We proceeded on the assumption that approval would come.
   - `say` /seɪ/                     ([Casual] 仮に～だとして)       Say you win the lottery, what would you do?
-  - `let's say` /lets seɪ/          ([Casual] 仮に～としよう)       Let's say 5 o'clock. Does that work?
-> `given that` /ˈɡɪvən ðæt/         ([Neutral] ～を考えると)        Given that he's new, he did remarkably well.
+  - ==let's say== /lets seɪ/          ([Casual] 仮に～としよう)       Let's say 5 o'clock. Does that work?
+- ==given that== /ˈɡɪvən ðæt/         ([Neutral] ～を考えると)        Given that he's new, he did remarkably well.
   - `considering that`              ([Neutral] ～を考慮すると)      Considering that it's raining, we should take umbrellas.
   - `in light of` /ɪn laɪt əv/      ([Formal] ～を踏まえて)         In light of recent events, we postponed the meeting.
   - `in view of` /ɪn vjuː əv/       ([Formal] ～を考慮して)         In view of the circumstances, we'll make an exception.
@@ -255,23 +283,23 @@
   - `keeping that in mind`          ([Neutral] それを心に留めて)    Keeping that in mind, I'll adjust the schedule.
   - `with this understanding`       ([Formal] この理解のもとで)     We agreed with this understanding.
   - `on that note`                  ([Neutral] その点について)      On that note, let's discuss the budget.
-> `provided that`                   ([Formal] ～という条件で)       You can go provided that you finish your work.
+- ==provided that==                   ([Formal] ～という条件で)       You can go provided that you finish your work.
   - `on condition that`             ([Formal] ～という条件で)       You may leave on condition that you return by 5.
-> `depending on how you look at it` ([Neutral] 考え方によっては)    Depending on how you look at it, this law is ...
+- `depending on how you look at it` ([Neutral] 考え方によっては)    Depending on how you look at it, this law is ...
   - `from a certain perspective`    ([Formal] ある観点から見ると)   From a certain perspective, he's right.
   - `from one angle`                ([Neutral] ある角度から見ると)  From one angle, it seems unfair.
   - `on reflection`                 ([Formal] よく考えてみると)     On reflection, I agree with you.
   - `upon consideration`            ([Formal] 考慮した結果)         Upon consideration, we'll proceed.
-> `if anything`                     ([Casual] どちらかと言えば)     If anything, this situation calls for more caution.
+- `if anything`                     ([Casual] どちらかと言えば)     If anything, this situation calls for more caution.
   - `if nothing else`               ([Neutral] 少なくとも)          If nothing else, we learned from the experience.
   - `if memory serves`              ([Neutral] 記憶が正しければ)    If memory serves, we met in 2019.
-  - `if I had to say`               ([Casual] しいて言うなら)       If I had to say, I'd agree with you.
+  - ==if I had to say==               ([Casual] しいて言うなら)       If I had to say, I'd agree with you.
   - `if I had to choose`            ([Neutral] 選ぶなら)            If I had to choose, I'd pick the blue one.
   - `if I had to guess`             ([Casual] 推測するなら)         If I had to guess, they'll arrive late.
   - `if I were to guess`            ([Formal] 推測するとすれば)     If I were to guess, I'd say it's broken.
 
-## CONDITION (if it works for you / as of / `on a scale of 1 to 10`)
-> `if it works for you`             ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
+## CONDITION
+- `if it works for you`             ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
   - `if you don't mind`             ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
   - `if that's ok (with you)`       ([Casual] それでよければ)       I'll call you tomorrow if that's ok with you.
   - `if that's alright`             ([Neutral] それで大丈夫なら)    I'll arrive at 10, if that's alright.
@@ -283,19 +311,19 @@
   - `if you're comfortable with that` ([Polite] それで問題なければ) I'll handle this part, if you're comfortable with that.
   - `if you have no objection`      ([Formal] ご異議なければ)       If you have no objection, we'll proceed.
   - `if it suits you`               ([Formal] ご都合がよければ)     We can reschedule if it suits you better.
-> `as of` /æz ʌv/                   ([Neutral] 〜時点で)            As of January 2014, the population was 50,000.
+- `as of` /æz ʌv/                   ([Neutral] 〜時点で)            As of January 2014, the population was 50,000.
   - `as of now`                     ([Neutral] 現時点で)            As of now, we have 100 members.
   - `as of today`                   ([Neutral] 今日時点で)          As of today, the deal is still pending.
   - `as of this morning`            ([Neutral] 今朝時点で)          As of this morning, no decision has been made.
-> `on a scale of 1 to 10`           ([Neutral] 1から10で評価すると) On a scale of 1 to 10, how was your day?
+- ==on a scale of 1 to 10==           ([Neutral] 1から10で評価すると) On a scale of 1 to 10, how was your day?
   - `on a scale of 1 to 5`          ([Neutral] 1から5で評価すると)  On a scale of 1 to 5, rate the service.
   - `from 1 to 10`                  ([Casual] 1から10で)            From 1 to 10, how likely are you to recommend us?
   - `rate from 1 to 10`             ([Neutral] 1から10で評価して)   Rate from 1 to 10 your satisfaction level.
   - `scale from 0 to 10`            ([Neutral] 0から10の範囲で)     Scale from 0 to 10, where 0 is worst.
 
-## OPINION (to me / I think / if I'm not mistaken)
-> `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
-  - `in my opinion`                 ([Neutral] 私の意見では)        In my opinion, this is the best option.
+## OPINION
+- ==to me== /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
+  - ==in my opinion==                 ([Neutral] 私の意見では)        In my opinion, this is the best option.
   - `in my view` /ɪn maɪ vjuː/      ([Neutral] 私の見解では)        In my view, we need more time.
   - `to my mind` /tuː maɪ maɪnd/    ([Neutral] 私の考えでは)        To my mind, this solution works best.
   - `personally` /ˈpɜːrsənəli/      ([Neutral] 個人的には)          Personally, I prefer the first design.
@@ -303,20 +331,20 @@
   - `from my point of view`         ([Neutral] 私の視点では)        From my point of view, it's too risky.
   - `from my perspective`           ([Neutral] 私の観点から)        From my perspective, it's a win-win.
   - `if you ask me`                 ([Casual] 私に言わせれば)       If you ask me, it's a waste of time.
-> `I think`                         ([Casual] 確か)                 I think the meeting is at 3.
+- `I think`                         ([Casual] 確か)                 I think the meeting is at 3.
   - `I believe`                     ([Neutral] 確か)                I believe it was Tuesday.
   - `as far as I know`              ([Neutral] 知る限りでは)        As far as I know, he's still working there.
   - `as I understand it`            ([Neutral] 理解している限り)    As I understand it, the plan changed.
   - `from what I understand`        ([Neutral] 理解している限り)    From what I understand, it's canceled.
   - `from what I've heard`          ([Casual] 聞いた話では)         From what I've heard, she's moving.
   - `from what I know`              ([Casual] 知っている限り)       From what I know, it's true.
-> `if I'm not mistaken`             ([Neutral] 間違っていなければ)  If I'm not mistaken, the meeting is at 3 p.m.
+- ==if I'm not mistaken==             ([Neutral] 間違っていなければ)  If I'm not mistaken, the meeting is at 3 p.m.
   - `if I'm not wrong`              ([Casual] 間違ってなければ)     If I'm not wrong, he said Monday.
   - `if I recall correctly`         ([Neutral] 記憶が正しければ)    If I recall correctly, it was expensive.
   - `if memory serves me right`     ([Neutral] 記憶が正しければ)    If memory serves me right, it was June.
   - `unless I'm mistaken`           ([Neutral] 間違いでなければ)    Unless I'm mistaken, she's the manager.
   - `unless I'm wrong`              ([Casual] 間違いでなければ)     Unless I'm wrong, it's this Friday.
-  - `correct me if I'm wrong`       ([Neutral] 間違ってたら訂正を)  Correct me if I'm wrong, but isn't he from Texas?
+  - ==correct me if I'm wrong, but==  ([Neutral] 間違ってたら訂正を)  Correct me if I'm wrong, but isn't he from Texas?
   - `I could be wrong, but`         ([Casual] 間違ってるかもだけど) I could be wrong, but I think it's blue.
   - `I may be wrong, but`           ([Neutral] 間違てるかもだけど)  I may be wrong, but that sounds expensive.
   - `I might be wrong, but`         ([Casual] 間違ってるかもだけど) I might be wrong, but wasn't it yesterday?
@@ -335,7 +363,6 @@
   - `now and then` /naʊ ænd ðen/    ([Casual] 時々)                 Now and then, we go out for dinner.
   - `every so often`                ([Casual] 時々)                 Every so often, I check my email.
   - `on occasion` /ɑːn əˈkeɪʒən/    ([Formal] 時として)             On occasion, we work late.
-  - `here and there` /hɪr ænd ðer/  ([Casual] ときおり)             I see him here and there around town.
 - ==till recently==                   ([Casual] 最近まで)             Till recently, I didn't believe in love.
   - `until recently`                ([Neutral] 最近まで)            Until recently, I lived in Tokyo.
   - `up until recently`             ([Neutral] つい最近まで)        Up until recently, this was impossible.

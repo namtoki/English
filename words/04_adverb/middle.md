@@ -1,9 +1,9 @@
 # Middle
 
-## DEGREE (`kind of` / `a little bit` / more or less / pretty / absolutely)
-> `kind of` /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
-  - `sort of` /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
-> `a little bit` /ə ˈlɪtəl bɪt/     ([Casual] 少し、ちょっと)       I'm a little bit tired today.
+## DEGREE
+- ==kind of== /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
+  - ==sort of== /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
+- ==a little bit== /ə ˈlɪtəl bɪt/     ([Casual] 少し、ちょっと)       I'm a little bit tired today.
   - `a little` /ə ˈlɪtəl/           ([Neutral] 少し、ちょっと)      She seems a little upset.
   - `a bit` /ə bɪt/                 ([Casual] ちょっと、少し)       It's a bit cold outside.
   - `a tad` /ə tæd/                 ([Casual] ほんの少し)           The coffee is a tad too sweet.
@@ -13,73 +13,151 @@
   - `slightly` /ˈslaɪtli/           ([Neutral] わずかに、少し)      I'm slightly concerned about this.
   - `barely` /ˈberli/               ([Neutral] かろうじて)          He could barely hear the whisper.
   - `faintly` /ˈfeɪntli/            ([Neutral] かすかに)            She smiled faintly at the joke.
-> `more or less` /mɔːr ɔːr les/     ([Neutral] だいたい、多少)      The work is more or less done.
+- `more or less` /mɔːr ɔːr les/     ([Neutral] だいたい、多少)      The work is more or less done.
   - `moderately` /ˈmɑːdərətli/      ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
-> `pretty` /ˈprɪti/                 ([Casual] かなり、相当)         She's pretty smart.
+- `pretty` /ˈprɪti/                 ([Casual] かなり、相当)         She's pretty smart.
   - `rather` /ˈræðər/               ([Neutral] かなり、やや)        The movie was rather disappointing.
   - `pretty much` /ˈprɪti mʌtʃ/     ([Casual] ほとんど、だいたい)   I pretty much finished the report.
   - `fairly` /ˈferli/               ([Neutral] かなり、まあまあ)    He speaks English fairly well.
   - `quite` /kwaɪt/                 ([Neutral] かなり、相当)        That's quite interesting.
   - `high-key` /ˌhaɪˈkiː/           ([Casual] 完全に、明らかに)     I'm high-key stressed about the exam.
-> `absolutely` /ˈæbsəluːtli/        ([Neutral] 絶対に、完全に)      You're absolutely right about that.
+- `absolutely` /ˈæbsəluːtli/        ([Neutral] 絶対に、完全に)      You're absolutely right about that.
   - `downright` /ˈdaʊnraɪt/         ([Casual] まったく、完全に)     That's downright ridiculous!
   - `utterly` /ˈʌtərli/             ([Neutral] まったく、完全に)    I'm utterly exhausted from work.
   - `completely` /kəmˈpliːtli/      ([Neutral] 完全に、すっかり)    The project is completely finished.
   - `thoroughly` /ˈθʌrəli/          ([Neutral] 徹底的に、完全に)    Please read it thoroughly first.
   - `incredibly` /ɪŋˈkɹɛdɪbli/      ([Neutral] 非常に、とても)      He was incredibly wealthy.
-  - `notoriously` /noʊˈtɔːriəsli/   ([Formal] 悪名高いほど)         This area is notoriously difficult.
-  - `infamously` /ˈɪnfəməsli/       ([Formal] 悪名高いことに)       He's infamously unreliable.
-  - `a lot` /ə ˈlɑt/                ([Casual] とても、すごく)       Thanks a lot for listening to me.
-  - `legit` /ləˈdʒɪt/               ([Casual] 本当に、マジで)       I legit thought he was joking.
-  - `literally` /ˈlɪtərəli/         ([Neutral] 文字通り、本当に)    I'm literally starving right now.
+
+## EMPHASIS
+- `a lot` /ə ˈlɑt/                  ([Casual] とても、すごく)       Thanks a lot for listening to me.
+  - ==legit== /ləˈdʒɪt/               ([Casual] 本当に、マジで)       I legit thought he was joking.
+  - ==literally== /ˈlɪtərəli/         ([Neutral] 文字通り、本当に)    I'm literally starving right now.
   - `genuinely` /ˈdʒenjuɪnli/       ([Neutral] 本当に、心から)      I'm genuinely happy for you.
   - `really` /ˈriːəli/              ([Neutral] 本当に、本気で)      I really appreciate your help.
   - `truly` /ˈtruːli/               ([Neutral] 本当に、真に)        I'm truly sorry for the mistake.
+- ==especially== /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
+  - ==particularly== /pərˈtɪkjələrli/ ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
+  - `notably` /ˈnoʊtəbli/           ([Neutral] 特に、著しく)        She was notably absent from the meeting.
+- `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
+- `purposely` /ˈpɜːrpəsli/          ([Neutral] 故意に)              She purposely ignored the warning signs.
+  - ==deliberately== /dɪˈlɪbərətli/   ([Neutral] 意図的に)            He deliberately left early.
+  - `intentionally` /ɪnˈtenʃənəli/  ([Neutral] 意図的に)            She intentionally missed the meeting.
+  - `consciously` /ˈkɑːnʃəsli/      ([Neutral] 意識的に)            She consciously chose to help.
+  - `knowingly` /ˈnoʊɪŋli/          ([Formal] 承知の上で)           He knowingly broke the rules.
+  - `willfully` /ˈwɪlfəli/          ([Formal] 故意に)               She willfully ignored the instructions.
+- `needlessly` /ˈniːdləsli/         ([Neutral] 不必要に)            Don't worry needlessly.
+  - `redundantly` /rɪˈdʌndəntli/    ([Formal] 冗長に)               The phrase was redundantly repeated.
+  - `superfluously` /suːˈpɜːrfluəsli([Formal] 余分に)               The word was superfluously added.
+- ==obviously== /ˈɒbviəsli/           ([Neutral] 明らかに)            Obviously, we need to change our approach.
+  - `glaringly` /ˈɡleərɪŋli/        ([Neutral] 明白に)              The mistake was glaringly obvious.
+  - `patently` /ˈpeɪtəntli/         ([Writing] 明白に)              The claim is patently false.
+- `conspicuously` /kənˈspɪkjuəsli/  ([Formal] 目立って)             She was conspicuously silent during the meeting.
+  - `prominently` /ˈprɑːmɪnəntli/   ([Neutral] 目立って)            The sign was prominently displayed.
+  - `strikingly` /ˈstraɪkɪŋli/      ([Neutral] 印象的に)            She's strikingly beautiful.
+  - `remarkably` /rɪˈmɑːrkəbli/     ([Neutral] 著しく)              He was remarkably calm during the crisis.
+  - `pronouncedly` /prəˈnaʊnsɪdli/  ([Formal] 顕著に)               The effect was pronouncedly visible.
+  - `saliently` /ˈseɪliəntli/       ([Writing] 顕著に)              The point was saliently made.
+- ==extremely== /ɪkˈstriːmli/         ([Neutral] 極端に、非常に)      It's extremely important.
+  - `excessively` /ɪkˈsesɪvli/      ([Neutral] 過度に)              The room is excessively hot.
+  - `dramatically` /drəˈmætɪkli/    ([Neutral] 劇的に)              Prices rose dramatically.
+  - `unreasonably` /ʌnˈriːzənəbli/  ([Neutral] 不合理に)            The price is unreasonably high.
+  - `outrageously` /aʊtˈreɪdʒəsli/  ([Neutral] 法外に)              It's outrageously expensive.
+  - `notoriously` /noʊˈtɔːriəsli/   ([Formal] 悪名高いほど)         This area is notoriously difficult.
+  - `infamously` /ˈɪnfəməsli/       ([Formal] 悪名高いことに)       He's infamously unreliable.
+  - `disastrously` /dɪˈzæstrəsli/   ([Neutral] 悲惨に、破滅的に)    The plan failed disastrously.
+  - `abjectly` /ˈæbdʒektli/         ([Writing] 極度に、悲惨に)      He failed abjectly.
+  - `abominably` /əˈbɑːmɪnəbli/     ([Formal] ひどく)               She behaved abominably.
 
-## FREQUENCY (generally / sometimes / always)
-> `generally` /ˈdʒenərəli/          ([Neutral] たいてい、一般的に)  I generally wake up at 7 AM.
+## FREQUENCY
+- ==generally== /ˈdʒenərəli/          ([Neutral] たいてい、一般的に)  I generally wake up at 7 AM.
   - `usually` /ˈjuːʒuəli/           ([Neutral] 普通は、たいてい)    I usually go to bed at 11 PM.
   - `normally` /ˈnɔːrməli/          ([Neutral] 通常は)              Normally, I take the train.
   - `typically` /ˈtɪpɪkli/          ([Neutral] 典型的には)          She typically works from home.
   - `commonly` /ˈkɑːmənli/          ([Neutral] 一般的に)            This is commonly used in business.
   - `ordinarily` /ˌɔːrdəˈnerəli/    ([Neutral] 通常は)              Ordinarily, I don't eat spicy food.
-> `sometimes` /ˈsʌmtaɪmz/           ([Neutral] 時々)                Sometimes I walk to work.
+- `sometimes` /ˈsʌmtaɪmz/           ([Neutral] 時々)                Sometimes I walk to work.
   - `occasionally` /əˈkeɪʒənəli/    ([Neutral] たまに、時々)        I occasionally visit my parents.
   - `sporadically` /spəˈrædɪkli/    ([Formal] 散発的に)             He works sporadically from home.
   - `intermittently`                ([Formal] 断続的に)             The rain fell intermittently all day.
-> `always` /ˈɔːlweɪz/               ([Neutral] いつも、常に)        I always drink coffee in the morning.
+  - `here and there` /hɪr ænd ðer/  ([Casual] ときおり)             I see him here and there around town.
+- `always` /ˈɔːlweɪz/               ([Neutral] いつも、常に)        I always drink coffee in the morning.
   - `constantly` /ˈkɑːnstəntli/     ([Neutral] 絶えず、常に)        She's constantly worried about her children.
   - `regularly` /ˈreɡjələrli/       ([Neutral] 定期的に)            I exercise regularly.
   - `routinely` /ruːˈtiːnli/        ([Neutral] 習慣的に、定期的に)  The equipment is routinely inspected.
   - `habitually` /həˈbɪtʃuəli/      ([Formal] 習慣的に)             He habitually arrives late.
-
-## HOW (purposely)
-> `purposely` /ˈpɜːrpəsli/          ([Neutral] 故意に)              She purposely ignored the warning signs.
-  - `deliberately` /dɪˈlɪbərətli/   ([Neutral] 意図的に)            He deliberately left early.
-  - `intentionally` /ɪnˈtenʃənəli/  ([Neutral] 意図的に)            She intentionally missed the meeting.
-  - `consciously` /ˈkɑːnʃəsli/      ([Neutral] 意識的に)            She consciously chose to help.
-  - `knowingly` /ˈnoʊɪŋli/          ([Formal] 承知の上で)           He knowingly broke the rules.
-  - `willfully` /ˈwɪlfəli/          ([Formal] 故意に)               She willfully ignored the instructions.
-- `judicially` /dʒuːˈdɪʃəli/        ([Formal] 司法的に、裁判で)     The matter was resolved judicially.
-- `diplomatically` /ˌdɪpləˈmætɪkli/ ([Formal] 外交的に)             He diplomatically avoided the topic.
-- `apathetically` /ˌæpəˈθetɪkli/    ([Formal] 無関心に)             She responded apathetically to the news.
-- `caustically` /ˈkɔːstɪkli/        ([Writing] 辛辮に)              He caustically criticized the proposal.
-- `chaotically` /keɪˈɒtɪkli/        ([Neutral] 混乱して)            People ran chaotically in all directions.
-- `phlegmatically` /flɛɡˈmætɪkli/   ([Writing] 冷静に)              He responded phlegmatically to the crisis.
-- `typically` /ˈtɪpɪkli/            ([Neutral] 典型的に、通常)      He typically arrives late.
-- `totally` /ˈtəʊtəli/              ([Casual] 完全に、全く)         I totally agree with you.
-- `unendingly` /ʌnˈendɪŋli/         ([Writing] 終わりなく)          He talked unendingly about his illness.
+- `ceaselessly` /ˈsiːsləsli/        ([Formal] 絶え間なく)           They worked ceaselessly on the project.
   - `endlessly` /ˈendləsli/         ([Neutral] 終わりなく)          They argued endlessly about it.
-  - `eternally` /ɪˈtɜːrnəli/        ([Formal] 永遠に)               She will be eternally grateful.
+  - `unendingly` /ʌnˈendɪŋli/       ([Writing] 終わりなく)          He talked unendingly about his illness.
   - `perpetually` /pərˈpetʃuəli/    ([Formal] 絶え間なく)           He was perpetually complaining.
+  - `eternally` /ɪˈtɜːrnəli/        ([Formal] 永遠に)               She will be eternally grateful.
   - `infinitely` /ˈɪnfɪnətli/       ([Formal] 無限に)               This is infinitely better.
 
-  - `especially` /ɪˈspeʃəli/        ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
-  - `particularly` /pərˈtɪkjələrli/ ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
-  - `primarily` /praɪˈmerəli/       ([Formal] 主に、第一に)         We're primarily concerned with safety.
-
-- `austerely` /ɔːˈstɪrli/           ([Formal] 簡素に、厳格に)       She lived austerely in prayer.
+## STANCE (GOOD)
+- `determinedly` /dɪˈtɜːrmɪndli/    ([Neutral] 決意して、真剣に)    He worked determinedly toward his goal.
+  - `resolutely` /ˈrezəluːtli/      ([Formal] 断固として)           She resolutely refused.
+  - `steadfastly` /ˈstedfæstli/     ([Formal] 確固として)           He steadfastly supported her.
+- `comfortably` /ˈkʌmfərtəbli/      ([Neutral] 快適に、気楽に)      She sat comfortably in her favorite chair.
+  - `peacefully` /ˈpiːsfəli/        ([Neutral] 平和に、静かに)      He died peacefully in his sleep.
+  - `placidly` /ˈplæsɪdli/          ([Formal] 穏やかに)             The cow grazed placidly.
+- `freely` /ˈfriːli/                ([Neutral] 自由に)              Feel free to ask questions.
+  - `independently` /ˌɪndɪˈpendəntli([Neutral] 独立して)            They work independently of each other.
+- `sociably` /ˈsoʊʃəbli/            ([Neutral] 社交的に)            They chatted sociably over coffee.
+  - `gregariously` /ɡrɪˈɡeəriəsli/  ([Formal] 社交的に)             He gregariously mingled with everyone.
+  - `affably` /ˈæfəbli/             ([Formal] 愛想よく)             She greeted us affably at the door.
+  - `amiably` /ˈeɪmiəbli/           ([Formal] 親しみやすく)         They chatted amiably for hours.
+- `gently` /ˈdʒentli/               ([Neutral] 優しく、そっと)      Handle the glass gently.
+  - `softly` /ˈsɔːftli/             ([Neutral] 優しく、静かに)      She spoke softly to the baby.
+  - `lightly` /ˈlaɪtli/             ([Neutral] 軽く、そっと)        Touch the surface lightly.
+  - `mildly` /ˈmaɪldli/             ([Neutral] 穏やかに)            He was mildly surprised.
+  - `subtly` /ˈsʌtli/               ([Neutral] 微妙に)              The flavor changed subtly.
+  - `delicately` /ˈdelɪkətli/       ([Neutral] 繊細に、慎重に)      She handled the antique delicately.
+  - `tenderly` /ˈtendərli/          ([Writing] 優しく、愛情深く)    She held the baby tenderly.
+  - `feebly` /ˈfiːbli/              ([Neutral] 弱々しく)            He spoke feebly after the illness.
+- `thoughtfully` /ˈθɔːtfəli/        ([Neutral] 思慮深く)            He considered the question thoughtfully.
+  - `tactfully` /ˈtæktfəli/         ([Neutral] 機転を利かせて)      She tactfully changed the subject.
+- `nobly` /ˈnoʊbli/                 ([Formal] 気高く、立派に)       She acted nobly.
+- `naively` /naɪˈiːvli/             ([Neutral] 無邪気に)            She naively trusted everyone.
+- `sensually` /ˈsɛnʃuəli/           ([Neutral] 官能的に)            The fabric draped sensually.
+- `dispassionately`                 ([Formal] 冷静に、客観的に)     She analyzed the data dispassionately.
+  - `phlegmatically` /flɛɡˈmætɪkli/ ([Writing] 冷静に)              He responded phlegmatically to the crisis.
+  - `austerely` /ɔːˈstɪrli/         ([Formal] 簡素に、厳格に)       She lived austerely in prayer.
   - `simply` /ˈsɪmpli/              ([Neutral] 簡素に、単に)        They lived simply in the country.
   - `plainly` /ˈpleɪnli/            ([Neutral] 質素に、明白に)      She dressed plainly for the occasion.
-  - `strictly` /ˈstrɪktli/          ([Neutral] 厳格に、厳密に)      The rules must be strictly followed.
-  - `severely` /səˈvɪrli/           ([Formal] 厳しく、激しく)       He was severely punished.
+- `leniently` /ˈliːniəntli/         ([Neutral] 寛大に)              He was treated leniently.
+- ==eagerly== /ˈiːɡəli/               ([Neutral] 熱心に、熱望して)    She eagerly awaited the results.
+  - `devoutly` /dɪˈvaʊtli/          ([Writing] 敬虔に、真摯に)      He devoutly wished for peace.
+- `harshly` /ˈhɑːʃli/               ([Neutral] 厳しく)              He spoke harshly to the students.
+  - `scathingly` /ˈskeɪðɪŋli/       ([Writing] 容赦なく)            She scathingly dismissed his ideas.
+  - `caustically` /ˈkɔːstɪkli/      ([Writing] 辛辣に)              He caustically criticized the proposal.
+  - `severely` /sɪˈvɪəli/           ([Formal] 厳しく、激しく)       He was severely injured in the accident.
+- `strictly` /ˈstrɪktli/            ([Neutral] 厳格に、厳密に)      The rules must be strictly followed.
+
+## STANCE (BAD)
+- `tenaciously` /tɪˈneɪʃəsli/       ([Formal] 粘り強く、執拗に)     She worked tenaciously on the project.
+  - `relentlessly` /rɪˈlentləsli/   ([Writing] 容赦なく、執拗に)    He pursued his goal relentlessly.
+  - `laboriously` /ləˈbɔːriəsli/    ([Writing] 骨を折って)          He laboriously completed the task.
+- `blatantly` /ˈbleɪtəntli/         ([Neutral] 露骨に あからさまに) He blatantly ignored the rules.
+  - `brazenly` /ˈbreɪzənli/         ([Writing] 厚かましく)          She brazenly lied to everyone.
+- `randomly` /ˈrændəmli/            ([Casual] めちゃくちゃに)       He just randomly started singing.
+  - `chaotically` /keɪˈɒtɪkli/      ([Neutral] 混乱して)            People ran chaotically in all directions.
+- `indifferently` /ɪnˈdɪfərəntli/   ([Formal] 無関心に)             He shrugged indifferently.
+  - `apathetically` /ˌæpəˈθetɪkli/  ([Formal] 無関心に)             She responded apathetically to the news.
+- `inscrutably` /ɪnˈskruːtəbli/     ([Writing] 不可解に)            He smiled inscrutably.
+- `raucously` /ˈɹɔːkəsli/           ([Neutral] やかましく)          They raucously celebrated the victory.
+- `coarsely` /ˈkɔːrsli/             ([Neutral] 粗野に)              She laughed coarsely at the joke.
+  - `crudely` /ˈkruːdli/            ([Neutral] 粗野に)              He crudely expressed his opinion.
+  - `boorishly` /ˈbʊrɪʃli/          ([Writing] 無骨に)              He boorishly ignored social cues.
+  - `uncouthly` /ʌnˈkuːθli/         ([Formal] 無作法に)             He uncouthly interrupted the speech.
+  - `vulgarly` /ˈvʌlɡərli/          ([Formal] 下品に)               He spoke vulgarly at the dinner.
+  - `crassly` /ˈkræsli/             ([Formal] 無神経に)             He crassly mentioned her weight.
+
+## ASSESSMENT
+- `auspiciously` /ɔːˈspɪʃəsli/      ([Formal] 幸先よく)             The year began auspiciously.
+- `meagerly` /ˈmiːɡərli/            ([Formal] 貧弱に)               Meagerly covered.
+  - `sparsely` /ˈspɑːrsli/          ([Formal] まばらに)             Sparsely populated.
+- `solidly` /ˈsɒlɪdli/              ([Neutral] 強固に、確実に)      The foundation was solidly built.
+  - `stoutly` /ˈstaʊtli/            ([Neutral] 頑丈に)              Stoutly built.
+
+## FORMALITY
+- `judicially` /dʒuːˈdɪʃəli/        ([Formal] 司法的に、裁判で)     The matter was resolved judicially.
+- `diplomatically` /ˌdɪpləˈmætɪkli/ ([Formal] 外交的に)             He diplomatically avoided the topic.

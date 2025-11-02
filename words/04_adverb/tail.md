@@ -1,13 +1,12 @@
 # Tail
 
-## WHY (`because` / `in order to` / `so that`)
-> `because` /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
+## WHY
+- ==because== /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
   - `because of` /bɪˈkɔːz əv/       ([Neutral] ～のため)            The game was canceled because of rain.
   - `so` /soʊ/                      ([Casual] だから)               I was hungry, so I ate a sandwich.
   - `'cause` /kəz/                  ([Casual] なので)               I'm late 'cause I missed the bus.
-  - `since` /sɪns/                  ([Neutral] ～なので)            Since you're here, let's start.
-  - `as` /æz/                       ([Neutral] ～なので)            As I was tired, I went to bed early.
-  - `that's why` /ðæts waɪ/         ([Neutral] だから)              That's why I called you.
+  - ==since== /sɪns/                  ([Neutral] ～なので)            Since you're here, let's start.
+  - ==as== /æz/                       ([Neutral] ～なので)            As I was tired, I went to bed early.
   - `due to` /duː tuː/              ([Neutral] ～が原因で)          The delay was due to bad weather.
   - `thanks to` /θæŋks tuː/         ([Neutral] ～のおかげで)        Thanks to your help, we succeeded.
   - `for` /fɔːr/                    ([Neutral] ～ので)              He was famous for his kindness.
@@ -15,7 +14,6 @@
   - `as a result` /æz ə rɪˈzʌlt/    ([Neutral] その結果)            He didn't study and, as a result, he failed.
   - `, V-ing`                       ([Neutral] その結果)            The boy stood on the mountain, looking at the valley.
   - `now that` /naʊ ðæt/            ([Neutral] 今～なので)          Now that you're here, we can begin.
-  - `this is why` /ðɪs ɪz waɪ/      ([Neutral] そういうわけで)      We missed the deadline. This is why we need better planning.
   - `seeing that` /ˈsiːɪŋ ðæt/      ([Neutral] ～を考えると)        Seeing that it's late, let's go home.
   - `for that reason`               ([Formal] その理由で)           For that reason, we decided to postpone.
   - `consequently` /ˈkɑːnsɪkwəntli/ ([Formal] 結果的に)             He made a mistake, and consequently lost his chance.
@@ -24,13 +22,13 @@
   - `by virtue of` /baɪ ˈvɜːrtʃuː əv([Formal] ～によって)           She succeeded by virtue of hard work.
   - `in view of` /ɪn vjuː əv/       ([Formal] ～を考慮して)         In view of the circumstances, we'll wait.
   - `on the grounds that`           ([Formal] ～を理由に)           He was fired on the grounds that he lied.
-  - `the reason being that`         ([Neutral] 理由は～だからだ)    She declined it, the reason being that she was too busy.
-  - `for one/another thing`         ([Casual] ひとつには／それから) `For one thing,` it's ~. `For another thing,` it's ~.
-> `to` /tuː/                        ([Casual] ～するために)         I left early to catch the train.
-  - `so that` /soʊ ðæt/             ([Neutral] ～するために)        Mary spoke loudly so that everyone could hear.
-  - `hoping (that)` /ˈhoʊpɪŋ ðæt/   ([Casual] ～を望んで)           I emailed her, hoping that she would reply.
-  - `in order to` /ɪn ˈɔːrdər tuː/  ([Neutral] ～するために)        In order to succeed, you must work hard.
+  - ==the reason being that==         ([Neutral] 理由は～だからだ)    She declined it, the reason being that she was too busy.
+  - ==for one/another thing==         ([Casual] ひとつには／それから) `For one thing,` it's ~. `For another thing,` it's ~.
+- `to` /tuː/                        ([Casual] ～するために)         I left early to catch the train.
+  - ==so that== /soʊ ðæt/             ([Neutral] ～するために)        Mary spoke loudly so that everyone could hear.
+  - ==in order to== /ɪn ˈɔːrdər tuː/  ([Neutral] ～するために)        In order to succeed, you must work hard.
   - `so as to` /soʊ æz tuː/         ([Neutral] ～するために)        He left early so as to avoid traffic.
+  - `hoping (that)` /ˈhoʊpɪŋ ðæt/   ([Casual] ～を望んで)           I emailed her, hoping that she would reply.
   - `with a view to` /wɪð ə vjuː tuː([Neutral] ～する目的で)        She studied with a view to becoming a doctor.
   - `in hopes of` /ɪn hoʊps əv/     ([Neutral] ～を期待して)        He applied in hopes of getting an interview.
   - `in the hope that`              ([Neutral] ～を望んで)          I didn't phone till four in the hope that you'd be finished.
@@ -44,16 +42,16 @@
   - `in order that` /ɪn ˈɔːrdər ðæt/([Formal] ～するために)         Mary spoke loudly in order that everyone could hear.
   - `endeavor to` /ɪnˈdevər tuː/    ([Formal] ～しようと努力する)   We endeavor to provide excellent service.
 
-## WHY (`based on` / as long as / as far as / just in case)
-> `based on` /beɪst ɑːn/            ([Neutral] ～に基づいて)        Based on the data, we made a decision.
-  - `just based on` /dʒʌst beɪst ɑːn([Neutral] ただ～に基づいて)    Just based on his word, I can't be sure.
-  - `in terms of` /ɪn tɜːrmz əv/    ([Neutral] ～の観点から)        In terms of cost, it's expensive.
-> `as long as` /æz lɔːŋ æz/         ([Neutral] ～する限り)          As long as you try, that's what matters.
+## WHY
+- ==based on== /beɪst ɑːn/            ([Neutral] ～に基づいて)        Based on the data, we made a decision.
+  - ==just based on== /dʒʌst beɪst ɑːn([Neutral] ただ～に基づいて)    Just based on his word, I can't be sure.
+  - ==in terms of== /ɪn tɜːrmz əv/    ([Neutral] ～の観点から)        In terms of cost, it's expensive.
+- ==as long as== /æz lɔːŋ æz/         ([Neutral] ～する限り)          As long as you try, that's what matters.
   - `to the extent that`            ([Neutral] ～する限りにおいて)  It works to the extent that we have funding.
-  - `insofar as` /ˌɪnsoʊˈfɑːr æz/   ([Formal] ～する限りにおいて)   Insofar as I know, the project is on track.
   - `inasmuch as` /ˌɪnəzˈmʌtʃ æz/   ([Formal] ～する限りにおいて)   Inasmuch as we agree, let's proceed.
-> `as far as` /æz fɑːr æz/          ([Neutral] ～する範囲では)      As far as I know, the meeting is still on.
-> `just in case` /dʒʌst ɪn keɪs/    ([Casual] 念のため)             I'll write it down just in case.
+- ==as far as== /æz fɑːr æz/          ([Neutral] ～する範囲では)      As far as I know, the meeting is still on.
+  - `insofar as` /ˌɪnsoʊˈfɑːr æz/   ([Formal] ～する限りにおいて)   Insofar as I know, the project is on track.
+- `just in case` /dʒʌst ɪn keɪs/    ([Casual] 念のため)             I'll write it down just in case.
   - `in case` /ɪn keɪs/             ([Neutral] ～に備えて)          In case there's an earthquake, prepare a kit.
   - `to be safe` /tuː biː seɪf/     ([Casual] 安全のため)           Let's leave early to be safe.
   - `to be on the safe side`        ([Neutral] 念のため)            To be on the safe side, bring an umbrella.
@@ -69,25 +67,25 @@
   - `lest` /lest/                   ([Formal] ～しないように)       Study hard lest you fail the exam.
   - `for fear that`                 ([Formal] ～を恐れて)           He whispered for fear that someone might hear.
 
-## ALTHOUGH (even though / even if / `whether or not` / instead of / unlike)
-> `even though` /ˈiːvən ðoʊ/        ([Neutral] 〜にも関わらず)      Even though he's new to the team, ~~
+## ALTHOUGH
+- ==even though== /ˈiːvən ðoʊ/        ([Neutral] 〜にも関わらず)      Even though he's new to the team, ~~
   - `although` /ɔːlˈðoʊ/            ([Neutral] 〜にも関わらず)      Although it was raining, we went for a walk.
   - `though` /ðoʊ/                  ([Casual] 〜だけど)             I'll help you, though I'm really busy.
   - `despite` /dɪˈspaɪt/            ([Formal] 〜にもかかわらず)     Despite the weather, the event went on as planned.
   - `in spite of` /ɪn spaɪt əv/     ([Formal] 〜に反して)           In spite of our compliments, he frowned and turned away.
   - `regardless of` /rɪˈɡɑːrdləs əv/([Neutral] 〜に関係なく)        The show will go on regardless of the weather.
-  - `for all` /fɔːr ɔːl/            ([Formal] 〜にもかかわらず)     For all her experience, she still ~~
+  - ==for all== /fɔːr ɔːl/            ([Formal] 〜にもかかわらず)     For all her experience, she still ~~
   - `with all` /wɪð ɔːl/            ([Formal] 〜があっても)         With all his experience, he still made a rookie mistake.
   - `notwithstanding`               ([Formal] 〜にもかかわらず)     Notwithstanding the difficulties, we succeeded.
-> `even if` /ˈiːvən ɪf/             ([Neutral] たとえ〜しても)      Even if it rains, we'll still go to the park.
+- ==even if== /ˈiːvən ɪf/             ([Neutral] たとえ〜しても)      Even if it rains, we'll still go to the park.
   - `no matter how` /noʊ ˈmætər haʊ/([Neutral] どんなに〜でも)      No matter how hard I try, I can't solve this.
   - `however much` /haʊˈevər mʌtʃ/  ([Neutral] どれだけ〜しても)    However much you study, there's always more to learn.
   - `regardless` /rɪˈɡɑːrdləs/      ([Neutral] それでも)            He went ahead regardless of the risks.
-> `whether or not`                  ([Neutral] するしない関係なく)  I'm going whether or not you come with me.
+- ==whether or not==                  ([Neutral] するしない関係なく)  I'm going whether or not you come with me.
   - `no matter what` /noʊ ˈmætər wʌt([Neutral] 何があっても)        No matter what happens, I'll support you.
   - `come what may` /kʌm wʌt meɪ/   ([Formal] 何が起ころうと)       Come what may, we'll face it together.
   - `whatever happens`              ([Casual] 何があっても)         Whatever happens, don't give up.
-> `instead of` /ɪnˈsted əv/         ([Neutral] ～の代わりに)        We stayed home instead of going out.
+- ==instead of== /ɪnˈsted əv/         ([Neutral] ～の代わりに)        We stayed home instead of going out.
   - `rather than` /ˈræðər ðæn/      ([Neutral] ～よりむしろ)        I'd walk rather than take the bus.
   - `in place of` /ɪn pleɪs əv/     ([Formal] ～の代替として)       She attended in place of her boss.
   - `in lieu of` /ɪn luː əv/        ([Formal] ～の代わりに)         They gave vouchers in lieu of refunds.
@@ -95,7 +93,7 @@
   - `in preference to`              ([Formal] ～より優先して)       They hired her in preference to other candidates.
   - `over` /ˈoʊvər/                 ([Casual] ～より)               I chose tea over coffee.
   - `instead` /ɪnˈsted/             ([Neutral] その代わりに)        I couldn't go. I sent a gift instead.
-> `unlike` /ʌnˈlaɪk/                ([Neutral] ～とは異なり)        Unlike his earlier works, this novel is far more political.
+- ==unlike== /ʌnˈlaɪk/                ([Neutral] ～とは異なり)        Unlike his earlier works, this novel is far more political.
   - `contrary to` /ˈkɑːntreri tuː/  ([Formal] ～に反して)           Contrary to popular belief, the earth is not flat.
   - `in contrast to`                ([Formal] ～と対照的に)         In contrast to last year, this year's sales increased.
   - `as opposed to` /æz əˈpoʊzd tuː/([Neutral] ～と対比して)        I prefer tea as opposed to coffee.
@@ -105,17 +103,14 @@
   - `departing from`                ([Formal] ～から逸脱して)       Departing from the script, he improvised his speech.
   - `differing from` /ˈdɪfərɪŋ frʌm/([Neutral] ～と異なって)        Differing from his colleagues, he supported the proposal.
 
-## FEELING (`in the first place`)
-> `in the first place`              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
-
-## DETAIL (`in the sense that` / `in a way that` / `to the point where`)
-> `in the sense that`               ([Neutral] ～という意味で)      It's good in the sense that it's cheaper.
+## DETAIL
+- ==in the sense that==               ([Neutral] ～という意味で)      It's good in the sense that it's cheaper.
   - `in that` /ɪn ðæt/              ([Formal] ～という点で)         The plan is good in that it saves money.
   - `in a way` /ɪn ə weɪ/           ([Casual] ある意味で)           In a way, you're right about that.
   - `in some ways` /ɪn sʌm weɪz/    ([Neutral] いくつかの点で)      In some ways, it's better than before.
   - `in respect that`               ([Formal] ～という点において)   It differs in respect that it's automated.
   - `to the degree that`            ([Formal] ～する程度において)   Success depends to the degree that we prepare.
-> `in a way that` /ɪn ə weɪ ðæt/    ([Neutral] という方法で)        He explains that in a way that makes it sound complicated.
+- ==in a way that== /ɪn ə weɪ ðæt/    ([Neutral] という方法で)        He explains that in a way that makes it sound complicated.
   - `in such a way that`            ([Neutral] ～するような方法で)  Arrange them in such a way that everyone can see the screen.
   - `by V-ing` /baɪ/                ([Neutral] ～することによって)  She improved her skills by practicing daily.
   - `through V-ing` /θruː/          ([Neutral] ～を通じて)          He learned through making mistakes.
@@ -126,19 +121,19 @@
   - `by heart` /baɪ hɑːrt/          ([Neutral] 暗記で)              First of all, learn the formula by heart.
   - `in a manner that`              ([Formal] ～という方法で)       Behave in a manner that reflects well on the company.
   - `by means of` /baɪ miːnz əv/    ([Formal] ～によって)           They communicated by means of sign language.
-> `to the point where`              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
+- ==to the point where==              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
   - `to some degree`                ([Neutral] ある程度)            I agree with you to some degree.
   - `to a certain extent`           ([Formal] ある程度まで)         To a certain extent, he's right.
 
-## DETAIL (each with / all with)
-> `, each with O`                   ([Neutral] それぞれが持ている)  Instant cameras, each with their own unique shape and design.
+## DETAIL
+- `, each with O`                   ([Neutral] それぞれが持ている)  Instant cameras, each with their own unique shape and design.
   - `, each having O`               ([Formal] それぞれがOを...)     Students, each having different strengths.
   - `, each featuring O`            ([Neutral] それぞれがOを...)    Models, each featuring advanced technology.
   - `, each containing O`           ([Neutral] それぞれがOを...)    Boxes, each containing different items.
   - `, each equipped with O`        ([Neutral] それぞれがOを...)    Cars, each equipped with GPS systems.
   - `, each offering O`             ([Neutral] それぞれがOを...)    Hotels, each offering unique amenities.
   - `, each coming with O`          ([Casual] それぞれがOを...)     Phones, each coming with a charger.
-> `, all with O`                    ([Neutral] 全てがOを持っている) Three cars, all with leather seats.
+- `, all with O`                    ([Neutral] 全てがOを持っている) Three cars, all with leather seats.
   - `, both with O`                 ([Neutral] 両方とも持っている)  Two phones, both with cracked screens.
   - `, complete with O`             ([Neutral] Oを完備している)      Apartments, complete with modern appliances.
   - `, along with O`                ([Neutral] Oと一緒に)           Books, along with supplementary materials.
@@ -147,8 +142,31 @@
   - `, including O`                 ([Neutral] Oを含めて)           Packages, including delivery service.
   - `, with O included`             ([Neutral] Oが含まれて)         Subscriptions, with premium features included.
 
-## TAG (If that makes sense / or not really)
-> `, if that makes sense`           ([Neutral] 伝わればいいけど)    It's more of a vibe than a strict rule, if that makes sense.
+## EMPHASIS
+- ==in the first place==              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
+- ==like crazy== /laɪk ˈkɹeɪzi/       ([Casual] ものすごく、猛烈に)   She stayed late, working like crazy.
+  - `like mad` /laɪk mæd/           ([Casual] 猛烈に、必死で)       We ran like mad to get home.
+  - `like hell` /laɪk hɛl/          ([Casual] 猛烈に、すごく)       We worked like hell to finish the job.
+  - `like anything` /laɪk ˈeniθɪŋ/  ([Casual] とても、非常に)       It was raining like anything.
+- `on purpose` /ɔːn ˈpɜːrpəs/       ([Casual] わざと)               He spilled the drink on purpose.
+- `out of habit` /aʊt əv ˈhæbɪt/    ([Casual] 習慣として)           I got the Namboku line out of habit.
+- `on impulse` /ɔːn ˈɪmpʌls/        ([Casual] 衝動的に)             I bought the shoes on impulse.
+- `for the fun of it`               ([Casual] 楽しみで)             He tried skydiving for the fun of it.
+- `in support of` /ɪn səˈpɔːrt əv/  ([Neutral] 支持して)            They organized a rally in support of the new policy.
+
+## HOW
+- `back to back` /bæk tə bæk/       ([Neutral] 連続して)            We have two meetings back to back.
+- `at the same time`                ([Neutral] 同時に)              It's hard being A and B at the same time.
+- `back and forth`                  ([Neutral] 行ったり来たり)      Bob was pacing back and forth along the sidewalk.
+  - `up and down`                   ([Neutral] 上下に、あちこち)    She walked up and down the hallway.
+  - `in and out`                    ([Neutral] 出たり入ったり)      People were going in and out all day.
+  - `to and fro`                    ([Neutral] 行ったり来たり)      I have been traveling to and fro between A and B for years.
+- `on and off` /ɑːn ænd ɔːf/        ([Neutral] 断続的に)            It's been raining on and off all day today.
+  - `in a row` /ɪn ə roʊ/           ([Neutral] 連続で)              The rate has risen three quarters in a row.
+  - `with each passing day/year`    ([Neutral] 日を追うごとに)      With each passing day, her skills improved.
+
+## TAG
+- `, if that makes sense`           ([Neutral] 伝わればいいけど)    It's more of a vibe than a strict rule, if that makes sense.
   - `, you know what I mean?`       ([Casual] わかるでしょ？)       It's just not worth the trouble, you know what I mean?
   - `, right?` /raɪt/               ([Casual] ～だよね？)           You're coming to the party tonight, right?
   - `, you know?` /ju noʊ/          ([Casual] 〜じゃん？)           It's just been really hectic lately, you know?
@@ -167,15 +185,17 @@
   - `, know what I'm saying?`       ([Slang] わかるっしょ？)        We gotta stick together out there, know what I'm saying?
   - `, innit?` /ˈɪnɪt/              ([British] 〜でしょ？)          Bit cold today, innit?
   - `, eh?` /eɪ/                    ([Canadian] 〜だよね？)         Nice game last night, eh?
-> `or not really?`                  ([Casual] そうでもない？)       You're into horror movies, or not really?
+- `or not really?`                  ([Casual] そうでもない？)       You're into horror movies, or not really?
   - `or what?` /ɔːr wʌt/            ([Casual] それともどう？)       Is this the plan, or what?
   - `or no?` /ɔːr noʊ/              ([Casual] それとも違う？)       Should I wait or no?
   - `or not?` /ɔːr nɑːt/            ([Neutral] それとも違う？)      Are you coming or not?
   - `or something?` /ɔːr ˈsʌmθɪŋ/   ([Casual] か何か？)             Are you sick or something?
   - `or whatever` /ɔːr wʌtˈevər/    ([Casual] か何でも)             We can get pizza or whatever.
 
-## DURATION (for / throughout / over / during / so far / from now on / quickly)
-> `for` /fɔːr/                      ([Neutral] 〜間)                I've been working for the company for 6 months.
+---
+
+## DURATION
+- `for` /fɔːr/                      ([Neutral] 〜間)                I've been working for the company for 6 months.
   - `for hours`                     ([Neutral] 何時間も)            We waited for hours.
   - `for days`                      ([Neutral] 何日も)              It rained for days.
   - `for weeks`                     ([Neutral] 何週間も)            He's been gone for weeks.
@@ -186,27 +206,27 @@
   - `for a long time`               ([Neutral] 長い間)              This has been going on for a long time.
   - `for the time being`            ([Neutral] 当分の間)            For the time being, we'll use this solution.
   - `for good`                      ([Neutral] 永久にずっと)        We're through for good this time.
-> `throughout` /θruˈaʊt/            ([Neutral] 〜中ずっと)          We plan to celebrate throughout the night.
+- `throughout` /θruˈaʊt/            ([Neutral] 〜中ずっと)          We plan to celebrate throughout the night.
   - `all through`                   ([Neutral] 〜中ずっと)          It rained all through the night.
   - `the entire time`               ([Neutral] 全期間)              He slept the entire time.
   - `the whole time`                ([Casual] ずっと)               She was laughing the whole time.
   - `the entire week`               ([Neutral] 丸一週間)            I worked the entire week.
   - `all week long`                 ([Neutral] 一週間中)            It's been raining all week long.
   - `all day long`                  ([Neutral] 一日中)              We've been walking all day long.
-> `over` /ˈoʊvər/                   ([Neutral] 〜にわたって)        Over the weekend, I finished reading a book.
+- `over` /ˈoʊvər/                   ([Neutral] 〜にわたって)        Over the weekend, I finished reading a book.
   - `over the weekend`              ([Neutral] 週末にかけて)        Over the weekend, we renovated the kitchen.
   - `over the holidays`             ([Neutral] 休暇中に)            Over the holidays, we traveled to Europe.
   - `over the summer`               ([Neutral] 夏の間)              Over the summer, she studied abroad.
   - `over the winter`               ([Neutral] 冬の間)              Over the winter, the lake freezes.
-> `during` /ˈdʊrɪŋ/                 ([Neutral] 〜の間に)            During the meeting, he fell asleep.
+- `during` /ˈdʊrɪŋ/                 ([Neutral] 〜の間に)            During the meeting, he fell asleep.
   - `in the course of`              ([Formal] 〜の過程で)           In the course of our research, we found...
   - `in the middle of`              ([Neutral] の最中に)            He fell asleep in the middle of the meeting.
   - `over the course of`            ([Neutral] 〜の間に)            Over the course of a year, things changed.
   - `in the span of`                ([Neutral] 〜の期間で)          In the span of a week, everything changed.
-> `so far` /soʊ fɑːr/               ([Neutral] これまでのところ)    So far I'm having a blast.
+- `so far` /soʊ fɑːr/               ([Neutral] これまでのところ)    So far I'm having a blast.
   - `to date` /tuː deɪt/            ([Formal] これまでのところ)     To date, the Foos have never won a game.
   - `until now` /ənˈtɪl naʊ/        ([Neutral] これまでは)          Until now, the Foos have never won a game.
-> `from now on` /frʌm naʊ ɑːn/      ([Neutral] これからは)          From now on, I'm cutting down on expenses.
+- `from now on` /frʌm naʊ ɑːn/      ([Neutral] これからは)          From now on, I'm cutting down on expenses.
   - `right away` /raɪt əˈweɪ/       ([Neutral] すぐに)              I'll come right away.
   - `any day now` /ˈeni deɪ naʊ/    ([Casual] 今すぐにでも)         Any day now, she'll call.
   - `hereafter` /hɪɹˈæftɚ/          ([Formal] 今後は、この先)       Hereafter, we'll meet monthly.
@@ -215,53 +235,52 @@
   - `hereupon` /ˌhɪrəˈpɑn/          ([Formal] その結果、ここに)     Hereupon, the meeting was adjourned.
   - `heretofore` /ˈhɪɹtəfɔɹ/        ([Formal] これまで、従来)       Heretofore, this was not possible.
   - `hitherto` /ˈhɪðəɹˌtu/          ([Formal] これまで、今まで)     Hitherto, we've avoided this issue.
-> `quickly` /ˈkwɪkli/               ([Neutral] 速く)                He quickly finished his work.
-  - `shortly` /ˈʃɔːrtli/            ([Neutral] まもなく)            The meeting will begin shortly.
+- `quickly` /ˈkwɪkli/               ([Neutral] 速く)                He quickly finished his work.
+  - ==on short notice==               ([Neutral] 急に、短期間で)      I can't make it on such short notice.
   - `in a short time`               ([Neutral] 短時間で)            She learned to cook in a short time.
-  - `on short notice`               ([Neutral] 急に、短期間で)      I can't make it on such short notice.
-  - `before long` /bɪˈfɔːr lɔːŋ/    ([Neutral] まもなく)            She'll arrive before long.
   - `in a short period`             ([Neutral] 短期間で)            We achieved great results in a short period.
   - `in short order`                ([Neutral] すぐに)              They fixed the problem in short order.
   - `within a short period`         ([Formal] 短期間以内に)         We must respond within a short period.
   - `at short notice`               ([British] 急に、短期間で)      We had to leave at short notice.
+  - `forthwith` /fɔːrθˈwɪθ/         ([Formal] 直ちに)               The order was executed forthwith.
 
-## WHEN (at that time / when I was N / ahead of time / every / by that time / as soon as / after / before / the other day / a moment ago)
-> `at that time`                    ([Neutral] その時は)            At that time, I was living in Paris.
+## WHEN
+- ==at that time==                    ([Neutral] その時は)            At that time, I was living in Paris.
   - `in those days`                 ([Neutral] あの頃は)            In those days, we had no internet.
-> `when I was N`                    ([Neutral] 私がN歳の時)         When I was 10, we moved to Tokyo.
+- `when I was N`                    ([Neutral] 私がN歳の時)         When I was 10, we moved to Tokyo.
   - `at the age of`                 ([Neutral] 〜歳で)              She started piano at the age of five.
   - `back when`                     ([Casual] 〜だった頃)           Back when I was young, things were different.
   - `at N years old`                ([Neutral] N歳で)               He learned to read at 4 years old.
   - `back in`                       ([Casual] 〜頃に)               Back in 1995, computers were expensive.
   - `at age N`                      ([Neutral] N歳で)               She graduated at age 16.
-> `ahead of time`                   ([Neutral] 前もって)            We arrived ahead of time.
+- `ahead of time`                   ([Neutral] 前もって)            We arrived ahead of time.
   - `in advance` /ɪn ədˈvæns/       ([Neutral] あらかじめ)          Please book your tickets in advance.
   - `beforehand` /bɪˈfɔːrhænd/      ([Neutral] 事前に)              Please call me beforehand.
   - `up-front` /ʌp frʌnt/           ([Neutral] あらかじめ)          This hotel requires a cash deposit up-front.
-> `every (period)` /ˈevri/          ([Neutral] ~~毎に)              The vehicles are inspected every three months.
+- `every (period)` /ˈevri/          ([Neutral] ~~毎に)              The vehicles are inspected every three months.
   - `every other (period)`          ([Neutral] 隔~~毎に)            I work out every other day.
   - `every time S V` /ˈevri taɪm/   ([Neutral] するときはいつも)    Every time you make them, they are perfect.
-> `by that time`                    ([Neutral] その時までに)        By that time, he had already left.
+- `by that time`                    ([Neutral] その時までに)        By that time, he had already left.
   - `by then`                       ([Neutral] その頃までに)        By then, it was too late.
   - `up to that point`              ([Neutral] その時点まで)        Up to that point, everything was fine.
-> `as soon as` /æz sun æz/          ([Neutral] したらすぐに)        As soon as I get home, I'll call you.
+- `as soon as` /æz sun æz/          ([Neutral] したらすぐに)        As soon as I get home, I'll call you.
   - `once` /wʌns/                   ([Neutral] したらすぐに)        Call me once you get home.
   - `upon X/doing` /əˈpɑːn/         ([Formal] Xしてすぐ)            Upon arrival at headquarters, report to security.
-> `after` /ˈæftər/                  ([Neutral] の後に)              I'll call you after the meeting.
+- `after` /ˈæftər/                  ([Neutral] の後に)              I'll call you after the meeting.
   - `期間 after`                    ([Neutral] 経過後に)            An hour after that, he called.
   - `just after`                    ([Neutral] のちょうど後に)      I'll go abroad just after Golden Week.
   - `into` /ˈɪntuː/                 ([Neutral] 〜に入って)          Three minutes into the game, Okazaki scored.
-> `before` /bɪˈfɔːr/                ([Neutral] の前に)              Call me before the meeting.
+- `before` /bɪˈfɔːr/                ([Neutral] の前に)              Call me before the meeting.
   - `期間 before`                   ([Neutral] 〜前に)              A week before that, I saw him.
   - `just before`                   ([Neutral] のちょうど前に)      I'll get home just before 9pm.
-> `(just) the other day`            ([Casual] つい先日)             I went there just the other day!
+- `(just) the other day`            ([Casual] つい先日)             I went there just the other day!
   - `lately` /ˈleɪtli/              ([Casual] 最近)                 I haven't seen him lately.
-> `a moment ago` /ə ˈmoʊmənt əˈgoʊ/ ([Neutral] 少し前に)            She called a moment ago from a taxi.
+- `a moment ago` /ə ˈmoʊmənt əˈgoʊ/ ([Neutral] 少し前に)            She called a moment ago from a taxi.
 
-## WHEN (at this point / at some point / before long / by the time S V)
-> `at this point` /æt ðɪs pɔɪnt/    ([Neutral] ここまできたら)      I'm ready to quit at this point.
+## WHEN
+- ==at this point== /æt ðɪs pɔɪnt/    ([Neutral] ここまできたら)      I'm ready to quit at this point.
   - `by now` /baɪ naʊ/              ([Neutral] 今頃は)              You must be hungry by now.
-> `at some point`                   ([Neutral] いつか)              We should really clean the fridge at some point.
+- ==at some point==                   ([Neutral] いつか)              We should really clean the fridge at some point.
   - `someday` /ˈsʌmdeɪ/             ([Neutral] いつか)              Someday, I'll visit Japan.
   - `one day`                       ([Neutral] いつか)              One day, you'll understand.
   - `some day`                      ([Neutral] いつか)              Some day, this will all make sense.
@@ -273,21 +292,21 @@
   - `sooner or later`               ([Neutral] 遅かれ早かれ)        Sooner or later, the truth will come out.
   - `in time`                       ([Neutral] やがて、時が経てば)  In time, the pain will fade.
   - `in due time`                   ([Formal] 適切な時に)           All will be revealed in due time.
-> `before long`                     ([Neutral] もうすぐ)            Before long, they will enter a crucial phase.
+- ==before long==                     ([Neutral] もうすぐ)            Before long, they will enter a crucial phase.
   - `soon`                          ([Neutral] すぐに)              We'll know the results soon.
   - `shortly`                       ([Neutral] まもなく)            He'll be arriving shortly.
-  - `in a little bit`               ([Casual] ちょっとしたら)       The ambulance will get here in a little bit.
+  - ==in a little bit==               ([Casual] ちょっとしたら)       The ambulance will get here in a little bit.
   - `in just a little bit`          ([Casual] ちょっとしたら)       I'll be there in just a little bit.
   - `any minute now`                ([Casual] いつでも、すぐにでも) The bus should arrive any minute now.
   - `any time now`                  ([Casual] いつでも)             She could call any time now.
   - `any day now`                   ([Casual] 今すぐにでも)         The baby is due any day now.
-> `by the time S V` /baɪ ðə taɪm/   ([Neutral] するときまでに)      By the time I woke up, the snow had stopped.
+- `by the time S V` /baɪ ðə taɪm/   ([Neutral] するときまでに)      By the time I woke up, the snow had stopped.
   - `by N at the latest`            ([Formal] 遅くとも)             Estimate the losses by Friday at the latest.
   - `no later than N`               ([Formal] までには)             Submit your assignment no later than 5 PM on June 10.
   - `until such time as S V`        ([Formal] までの間は)           We cannot review it until such time as we receive that.
 
-## WHEN (at / in / on)
-> `at` /æt/                         ([Neutral] 〜に)                I'll see you at 9:00 AM.
+## WHEN
+- `at` /æt/                         ([Neutral] 〜に)                I'll see you at 9:00 AM.
   - `at 9:00 AM`                    ([Neutral] 午前9時に)           The meeting starts at 9:00 AM.
   - `at 6:00 PM`                    ([Neutral] 午後6時に)           Dinner is served at 6:00 PM.
   - `at midnight`                   ([Neutral] 深夜に)              The party ends at midnight.
@@ -299,21 +318,21 @@
   - `at sunrise`                    ([Neutral] 日の出時に)          At sunrise, the mountains look beautiful.
   - `at night`                      ([Neutral] 夜に)                It's dangerous to walk alone at night.
   - `at nighttime`                  ([Neutral] 夜間に)              At nighttime, the city is quieter.
-> `in` /ɪn/                         ([Neutral] 〜に)                I exercise in the morning.
+- `in` /ɪn/                         ([Neutral] 〜に)                I exercise in the morning.
   - `in the morning`                ([Neutral] 午前中に)            I drink coffee in the morning.
   - `in the early morning`          ([Neutral] 早朝に)              I go jogging in the early morning.
   - `in the afternoon`              ([Neutral] 午後に)              We have tea in the afternoon.
   - `in the evening`                ([Neutral] 夕方から夜に)        In the evening, we watch TV.
   - `in the early evening`          ([Neutral] 夕方に)              We eat dinner in the early evening.
   - `in the late evening`           ([Neutral] 夜遅くに)            He comes home in the late evening.
-> `first thing`                     ([Casual] 一番に、真っ先に)     I'll see you first thing in the morning.
-> `first thing in the morning`      ([Casual] 朝一番に)             Call me first thing in the morning.
-> `last thing at night`             ([Casual] 夜寝る前に)           I check my emails last thing at night.
-> `bright and early`                ([Casual] 朝早くに)             You can get the product bright and early.
-> `early in the morning`            ([Neutral] 朝早くに)            Early in the morning, the air is fresh.
-> `late at night`                   ([Neutral] 夜遅くに)            He studies late at night.
-> `in the dead of night`            ([Writing] 真夜中に)            Strange sounds in the dead of night.
-> `on` /ɑːn/                        ([Neutral] 〜に)                I play tennis on Sundays.
+- `first thing`                     ([Casual] 一番に、真っ先に)     I'll see you first thing in the morning.
+  - `first thing in the morning`    ([Casual] 朝一番に)             Call me first thing in the morning.
+  - `bright and early`              ([Casual] 朝早くに)             You can get the product bright and early.
+  - `early in the morning`          ([Neutral] 朝早くに)            Early in the morning, the air is fresh.
+- `last thing at night`             ([Casual] 夜寝る前に)           I check my emails last thing at night.
+  - `late at night`                 ([Neutral] 夜遅くに)            He studies late at night.
+  - `in the dead of night`          ([Writing] 真夜中に)            Strange sounds in the dead of night.
+- `on` /ɑːn/                        ([Neutral] 〜に)                I play tennis on Sundays.
   - `on weekdays`                   ([Neutral] 平日に)              I work on weekdays.
   - `on weekends`                   ([Neutral] 週末に)              I often go to the beach on weekends.
   - `on Sundays`                    ([Neutral] 日曜日に)            On Sundays, we visit my parents.
@@ -325,54 +344,35 @@
   - `on rainy days`                 ([Neutral] 雨の日に)            On rainy days, we stay indoors.
   - `on special occasions`          ([Neutral] 特別な機会に)        We dress up on special occasions.
   - `on holidays`                   ([Neutral] 休日に)              On holidays, the store is closed.
-> `last Sunday`                     ([Neutral] 先週の日曜日)        Last Sunday, we went hiking.
-> `last weekend`                    ([Neutral] 先週末)              Last weekend was very relaxing.
-> `next Sunday`                     ([Neutral] 来週の日曜日)        Next Sunday, we're having a barbecue.
-> `next weekend`                    ([Neutral] 来週末)              Next weekend, I'm visiting my family.
-> `this Sunday`                     ([Neutral] 今度の日曜日)        This Sunday, let's go to the museum.
-> `this weekend`                    ([Neutral] 今度の週末)          This weekend, we're going camping.
+- `last Sunday`                     ([Neutral] 先週の日曜日)        Last Sunday, we went hiking.
+- `last weekend`                    ([Neutral] 先週末)              Last weekend was very relaxing.
+- `next Sunday`                     ([Neutral] 来週の日曜日)        Next Sunday, we're having a barbecue.
+- `next weekend`                    ([Neutral] 来週末)              Next weekend, I'm visiting my family.
+- `this Sunday`                     ([Neutral] 今度の日曜日)        This Sunday, let's go to the museum.
+- `this weekend`                    ([Neutral] 今度の週末)          This weekend, we're going camping.
 
-## FREQUENCY (twenty-four seven / the other day / for the first time in)
-> `24/7` /ˌtwenti fɔːr ˈsevən/      ([Casual] 24時間年中無休で)     The store is open 24/7.
+## FREQUENCY
+- ==24/7== /ˌtwenti fɔːr ˈsevən/      ([Casual] 24時間年中無休で)     The store is open 24/7.
   - `all the time`                  ([Casual] いつも、ずっと)       He's on his phone all the time.
   - `time and again`                ([Neutral] 何度も、繰り返し)    I've told you time and again.
   - `round the clock`               ([Neutral] 24時間体制で)        The hospital operates round the clock.
   - `around the clock`              ([Neutral] 24時間体制で)        They work around the clock.
   - `day and night`                 ([Neutral] 昼夜を問わず)        She works day and night.
   - `night and day`                 ([Neutral] 昼夜を問わず)        There's a night and day difference.
-> `for the first time in (N)`       ([Neutral] (N)ぶりに初めて)     I'm going to Hawaii for the first time in 1 year.
+- ==for the first time in (N)==       ([Neutral] (N)ぶりに初めて)     I'm going to Hawaii for the first time in 1 year.
   - `for the first time`            ([Neutral] 初めて)              Last Saturday, I came here for the first time.
 
-## HOW (like crazy)
-> `like crazy` /laɪk ˈkɹeɪzi/       ([Casual] ものすごく、猛烈に)   She stayed late, working like crazy.
-  - `like mad` /laɪk mæd/           ([Casual] 猛烈に、必死で)       We ran like mad to get home.
-  - `like hell` /laɪk hɛl/          ([Casual] 猛烈に、すごく)       We worked like hell to finish the job.
-  - `like anything` /laɪk ˈeniθɪŋ/  ([Casual] とても、非常に)       It was raining like anything.
-> `gently` /ˈdʒentli/               ([Neutral] 優しく、そっと)      Handle the glass gently.
-  - `softly` /ˈsɔːftli/             ([Neutral] 優しく、静かに)      She spoke softly to the baby.
-  - `lightly` /ˈlaɪtli/             ([Neutral] 軽く、そっと)        Touch the surface lightly.
-  - `mildly` /ˈmaɪldli/             ([Neutral] 穏やかに)            He was mildly surprised.
-  - `subtly` /ˈsʌtli/               ([Neutral] 微妙に)              The flavor changed subtly.
-  - `delicately` /ˈdelɪkətli/       ([Neutral] 繊細に、慎重に)      She handled the antique delicately.
-  - `tenderly` /ˈtendərli/          ([Writing] 優しく、愛情深く)    She held the baby tenderly.
-  - `feebly` /ˈfiːbli/              ([Neutral] 弱々しく)            He spoke feebly after the illness.
-> `on purpose` /ɔːn ˈpɜːrpəs/       ([Casual] わざと)               He spilled the drink on purpose.
-> `out of habit` /aʊt əv ˈhæbɪt/    ([Casual] 習慣として)           I got the Namboku line out of habit.
-> `on impulse` /ɔːn ˈɪmpʌls/        ([Casual] 衝動的に)             I bought the shoes on impulse.
-> `for the fun of it`               ([Casual] 楽しみで)             He tried skydiving for the fun of it.
-> `in support of` /ɪn səˈpɔːrt əv/  ([Neutral] 支持して)            They organized a rally in support of the new policy.
-- `back to back` /bæk tə bæk/       ([Neutral] 連続して)            We have two meetings back to back.
-- `at the same time`                ([Neutral] 同時に)              It's hard being A and B at the same time.
+---
 
-## OBJECTIVE POSITION (IN FRONT OF / IN BACK OF / ABOVE / UNDER / ON THE LEFT / ON THE RIGHT / CATTY-CORNER / INSIDE / OUTSIDE / BETWEEN / AMONG)
-> `in front of`                     ([Neutral] 〜の前に)            Stand in front of the door.
+## OBJECTIVE POSITION
+- ==in front of==                     ([Neutral] 〜の前に)            Stand in front of the door.
   - `right in front of`             ([Casual] まさに〜の前に)       Right in front of my eyes.
   - `opposite`                      ([Neutral] 向かい側の)          The store opposite the bank.
-  > `across from`                   ([Neutral] 〜の向かいに)        The cafe across from the station.
-  > `directly across from`          ([Neutral] 真向かいに)          Directly across from the hotel.
-> `in back of`                      ([Casual] 〜の後ろに)           Park in back of the building.
-  - `behind` /bɪˈhaɪnd/             ([Neutral] 〜の後ろに)          The car behind us is honking.
-> `above` /əˈbʌv/                   ([Neutral] 〜の上に)            The picture hangs above the sofa.
+  - `across from`                   ([Neutral] 〜の向かいに)        The cafe across from the station.
+  - `directly across from`          ([Neutral] 真向かいに)          Directly across from the hotel.
+- `in back of`                      ([Casual] 〜の後ろに)           Park in back of the building.
+  - ==behind== /bɪˈhaɪnd/             ([Neutral] 〜の後ろに)          The car behind us is honking.
+- `above` /əˈbʌv/                   ([Neutral] 〜の上に)            The picture hangs above the sofa.
   - `up       above`                ([Casual] 上の方に)             Look up above at the stars.
   - `high     above`                ([Neutral] はるか上に)          Eagles soar high above.
   - `directly above`                ([Neutral] 真上に)              The lamp hangs directly above the table.
@@ -384,8 +384,8 @@
   - `aloft` /əˈlɔːft/               ([Writing] 空中に、高く)        The balloon floated aloft.
   - `atop` /əˈtɑːp/                 ([Writing] 〜の頂上に)          He stood atop the hill.
   - `upon` /əˈpɑːn/                 ([Formal] 〜の上に)             Once upon a time.
-> `on top of` /ɑːn tɑːp əv/         ([Neutral] 〜の上に)            Place it on top of the box.
-> `at the top` /æt ðə tɑːp/         ([Neutral] 頂上に、最上部に)    She's at the top of her class.
+- `on top of` /ɑːn tɑːp əv/         ([Neutral] 〜の上に)            Place it on top of the box.
+- `at the top` /æt ðə tɑːp/         ([Neutral] 頂上に、最上部に)    She's at the top of her class.
   - `top` /tɑːp/                    ([Neutral] 頂上、上部)          Put it on the top shelf.
     - `peak` /piːk/                 ([Neutral] 頂上、最高点)        The mountain peak was covered in snow.
     - `summit` /ˈsʌmɪt/             ([Neutral] 頂上、首脳会談)      They reached the summit at dawn.
@@ -408,11 +408,11 @@
     - `superior` /suːˈpɪriər/       ([Formal] 上位の、優れた)       She holds a superior position.
     - `uppermost` /ˈʌpərmoʊst/      ([Formal] 最上部の)             Safety is uppermost in our minds.
     - `topmost` /ˈtɑːpmoʊst/        ([Neutral] 最上部の)            The topmost branches swayed.
-> `under` /ˈʌndər/                  ([Neutral] 〜の下に)            The cat is under the table.
+- `under` /ˈʌndər/                  ([Neutral] 〜の下に)            The cat is under the table.
   - `below` /bɪˈloʊ/                ([Neutral] 〜の下に)            The apartment below us.
   - `underneath` /ˌʌndərˈniːθ/      ([Neutral] 〜の真下に)          Look underneath the bed.
   - `beneath` /bɪˈniːθ/             ([Formal] 〜の下に)             Beneath the surface.
-> `at the bottom` /æt ðə ˈbɑːtəm/   ([Neutral] 最下部に)            Sign at the bottom.
+- `at the bottom` /æt ðə ˈbɑːtəm/   ([Neutral] 最下部に)            Sign at the bottom.
   - `bottom` /ˈbɑːtəm/              ([Neutral] 底、最下部)          At the bottom of the page.
     - `base` /beɪs/                 ([Neutral] 基部、底)            At the base of the mountain.
     - `foot` /fʊt/                  ([Neutral] ふもと、底部)        At the foot of the hill.
@@ -438,22 +438,22 @@
     - `bottommost` /ˈbɑːtəmmoʊst/   ([Neutral] 最下部の)            The bottommost drawer.
     - `subsurface` /ˌsʌbˈsɜːrfɪs/   ([Technical] 地下の)            Subsurface water.
     - `subterranean`/ˌsʌbtəˈreɪniən/([Formal] 地下の)               Subterranean tunnels.
-> `on the left`                     ([Neutral] 左側に)              The store is on the left.
+- `on the left`                     ([Neutral] 左側に)              The store is on the left.
   - `left-hand side`                ([Neutral] 左手側)              On the left-hand side.
-> `on the right`                    ([Neutral] 右側に)              The bank is on the right.
+- `on the right`                    ([Neutral] 右側に)              The bank is on the right.
   - `right-hand side`               ([Neutral] 右手側)              On the right-hand side.
-> `catty-corner`                    ([Casual] 斜め向かいに)         The store is catty-corner from here.
+- `catty-corner`                    ([Casual] 斜め向かいに)         The store is catty-corner from here.
   - `kitty-corner`                  ([Casual] 斜め向かいに)         It's kitty-corner to the bank.
   - `cater-corner`                  ([Neutral] 斜め向かいに)        Located cater-corner across.
-> `inside` /ɪnˈsaɪd/                ([Neutral] 中に、内側に)        Come inside the house.
+- `inside` /ɪnˈsaɪd/                ([Neutral] 中に、内側に)        Come inside the house.
   - `within` /wɪˈðɪn/               ([Neutral] 〜の内部に)          Within the city limits.
   - `indoors` /ˌɪnˈdɔːrz/           ([Neutral] 屋内に)              Stay indoors today.
   - `in`                            ([Neutral] 〜の中に)            In the box.
-> `outside` /ˈaʊtˈsaɪd/             ([Neutral] 外に、外側に)        Wait outside the door.
+- `outside` /ˈaʊtˈsaɪd/             ([Neutral] 外に、外側に)        Wait outside the door.
   - `outdoors` /ˌaʊtˈdɔːrz/         ([Neutral] 屋外に)              Let's eat outdoors.
   - `out`                           ([Neutral] 外に)                Go out.
-> `between` /bɪˈtwiːn/              ([Neutral] 〜の間に[2つ])         Between you and me.
-> `among` /əˈmʌŋ/                   ([Neutral] 〜の間に[3つ以上])     Among friends.
+- `between` /bɪˈtwiːn/              ([Neutral] 〜の間に[2つ])         Between you and me.
+- `among` /əˈmʌŋ/                   ([Neutral] 〜の間に[3つ以上])     Among friends.
   - `amongst` /əˈmʌŋst/             ([British] 〜の間に)            Amongst the crowd.
   - `amid` /əˈmɪd/                  ([Formal] 〜の中に)             Amid the chaos.
   - `amidst` /əˈmɪdst/              ([Formal] 〜の中に)             Amidst the confusion.
@@ -461,18 +461,8 @@
   - `in the middle of`              ([Neutral] 〜の真ん中に)        In the middle of the room.
   - `sandwiched between`            ([Casual] 〜に挟まれて)         Sandwiched between two buildings.
 
-## SUBJECTIVE POSITION (AHEAD OF)
-> `ahead of`                        ([Neutral] 〜の前に、先に)      She's ahead of me in line.
-  - `up      ahead`                 ([Casual] この先に、前方に)     There's a gas station up ahead.
-  - `further ahead`                 ([Neutral] さらに先に)          Look further ahead.
-  - `out     ahead`                 ([Casual] 前方に、先に)         They're out ahead somewhere.
-  - `up      front`                 ([Casual] 前の方に)             The best seats are up front.
-  - `out in front`                  ([Casual] 先頭に、前方に)       The leader is out in front.
-  - `farther along`                 ([Neutral] もっと先に)          The store is farther along.
-  - `further along`                 ([Neutral] さらに先に)          Further along the path.
-
-## ROUGH POSITION (BEFORE / HERE AND THERE / NEAR)
-> `before`                          ([Neutral] 〜の前に)            He stood before the judge.
+## ROUGH POSITION
+- `before`                          ([Neutral] 〜の前に)            He stood before the judge.
   - `in the presence of`            ([Formal] 〜の面前で)           Speak in the presence of the CEO.
   - `face to face`                  ([Neutral] 対面で)              We met face to face.
   - `in someone's presence`         ([Formal] 〜がいる前で)         Watch your language in his presence.
@@ -483,9 +473,9 @@
   - `vis-à-vis`                     ([Formal] 面と向かって)         Vis-à-vis the board.
   - `coram`                         ([Legal] 〜の面前で[法律])        Coram judice (裁判官の面前で)
 - `underfoot` /ˌʌndərˈfʊt/          ([Neutral] 足元に)              The ground was soft underfoot.
-> `here and there`                  ([Neutral] あちこちに)          Books were scattered here and there.
+- `here and there`                  ([Neutral] あちこちに)          Books were scattered here and there.
   - `this way and that`             ([Neutral] あちこちに)          The leaves blew this way and that in the wind.
-> `near` /nɪr/                      ([Neutral] 近い、近くに)        The store is near my house.
+- `near` /nɪr/                      ([Neutral] 近い、近くに)        The store is near my house.
   - `close to` /kloʊs tuː/          ([Neutral] 〜に近い)            The hotel is close to the station.
   - `close by` /kloʊs baɪ/          ([Neutral] すぐ近くに)          The shop is close by.
   - `in close quarters`             ([Neutral] 近い距離で)          Working in close quarters.
@@ -509,25 +499,35 @@
   - `thereabouts` /ˈðerəbaʊts/      ([Casual] その辺りに)           Meet at 3 or thereabouts.
   - `round about` /raʊnd əˈbaʊt/    ([British] 〜の辺りに)          Round about here somewhere.
 
-## PARTS (FRONT / BACK / TOP / BOTTOM / LEFT / RIGHT / INSIDE / OUTSIDE)
-> `on the front`                    ([Neutral] 前面に)              The logo is on the front.
+## SUBJECTIVE POSITION (AHEAD OF)
+- `ahead of`                        ([Neutral] 〜の前に、先に)      She's ahead of me in line.
+  - `up      ahead`                 ([Casual] この先に、前方に)     There's a gas station up ahead.
+  - `further ahead`                 ([Neutral] さらに先に)          Look further ahead.
+  - `out     ahead`                 ([Casual] 前方に、先に)         They're out ahead somewhere.
+  - `up      front`                 ([Casual] 前の方に)             The best seats are up front.
+  - `out in front`                  ([Casual] 先頭に、前方に)       The leader is out in front.
+  - `farther along`                 ([Neutral] もっと先に)          The store is farther along.
+  - `further along`                 ([Neutral] さらに先に)          Further along the path.
+
+## PARTS
+- `==on the== front`                    ([Neutral] 前面に)              The logo is on the front.
   - `at the front`                  ([Neutral] 最前部に)            He's at the front of the line.
   - `in the front`                  ([Neutral] 前部に)              Sit in the front of the car.
-> `on the back`                     ([Neutral] 背面に、裏面に)      The label is on the back.
+- `==on the== back`                     ([Neutral] 背面に、裏面に)      The label is on the back.
   - `at the back`                   ([Neutral] 後部に)              Sit at the back of the room.
   - `in the back`                   ([Neutral] 後部に)              Store it in the back.
-> `on the top`                      ([Neutral] 上面に)              Place it on the top.
+- `==on the== top`                      ([Neutral] 上面に)              Place it on the top.
   - `at the top`                    ([Neutral] 上部に、頂上に)      At the top of the page.
   - `top side`                      ([Neutral] 上側、表面)          The top side is damaged.
-> `on the bottom`                   ([Neutral] 底面に)              Check on the bottom.
+- `==on the== bottom`                   ([Neutral] 底面に)              Check on the bottom.
   - `at the bottom`                 ([Neutral] 底部に、最下部に)    At the bottom of the page.
-> `on the left`                     ([Neutral] 左側に)              The button is on the left.
-> `on the right`                    ([Neutral] 右側に)              The switch is on the right.
-> `on the inside`                   ([Neutral] 内側に)              Check on the inside.
-> `on the outside`                  ([Neutral] 外側に)              Paint on the outside.
+- `==on the== left`                     ([Neutral] 左側に)              The button is on the left.
+- `==on the== right`                    ([Neutral] 右側に)              The switch is on the right.
+- `==on the== inside`                   ([Neutral] 内側に)              Check on the inside.
+- `==on the== outside`                  ([Neutral] 外側に)              Paint on the outside.
 
-## MOVE DIRECTION (FORWARD / BACKWARD / BACK AND FORTH / UPWARD / DOWNWARD / UP AND DOWN / LEFTWARD / RIGHTWARD / SIDEWAYS / DIAGONALLY / INWARD / OUTWARD)
-> `forward`                         ([Neutral] 前方へ)              Move forward please.
+## MOVE DIRECTION
+- `for==ward==`                         ([Neutral] 前方へ)              Move forward please.
   - `frontward`                     ([Neutral] 前方へ)              Turn frontward.
   - `onwards`                       ([British] 前方へ)              From this point onwards.
   - `onward`                        ([Neutral] 前方へ)              March onward.
@@ -535,48 +535,48 @@
   - `straight ahead`                ([Neutral] まっすぐ前に)        Go straight ahead.
   - `dead ahead`                    ([Casual] 真正面に)             The exit is dead ahead.
   - `to the rear of`                ([Formal] 〜の後方に)           To the rear of the property.
-> `backward` /ˈbækwərd/             ([Neutral] 後ろ向きに)          Step backward slowly.
+- `back==ward==` /ˈbækwərd/             ([Neutral] 後ろ向きに)          Step backward slowly.
   - `backwards` /ˈbækwərdz/         ([British] 後ろ向きに)          Moving backwards.
   - `back`                          ([Neutral] 後ろに)              Move back please.
   - `rearward` /ˈrɪrwərd/           ([Formal] 後方へ)               The troops moved rearward.
-> `back and forth`                  ([Neutral] 前後に)              Walking back and forth.
+- ==back and forth==                  ([Neutral] 前後に)              Walking back and forth.
   - `backward and forward`          ([Neutral] 前後に)              Rocking backward and forward.
   - `forwards and backwards`        ([British] 前後に)              Moving forwards and backwards.
-> `upward` /ˈʌpwərd/                ([Neutral] 上向きに)            The trend is moving upward.
+- `up==ward==` /ˈʌpwərd/                ([Neutral] 上向きに)            The trend is moving upward.
   - `upwards` /ˈʌpwərdz/            ([British] 上向きに)            Prices are going upwards.
   - `skyward`                       ([Writing] 空に向かって)        Looking skyward.
   - `heavenward`                    ([Writing] 天に向かって)        Raising hands heavenward.
-> `downward` /ˈdaʊnwərd/            ([Neutral] 下向きに)            A downward trend.
+- `down==ward==` /ˈdaʊnwərd/            ([Neutral] 下向きに)            A downward trend.
   - `downwards` /ˈdaʊnwərdz/        ([British] 下向きに)            Moving downwards.
   - `earthward`                     ([Writing] 地面に向かって)      Falling earthward.
   - `down` /daʊn/                   ([Neutral] 下へ、下に)          Go down the stairs.
   - `down below` /daʊn bɪˈloʊ/      ([Neutral] 下の方に)            They're waiting down below.
   - `down there` /daʊn ðer/         ([Casual] あちらの下の方に)     Look down there.
   - `downstairs` /ˌdaʊnˈsterz/      ([Neutral] 階下に)              Go downstairs.
-> `up and down`                     ([Neutral] 上下に)              Moving up and down.
+- ==up and down==                     ([Neutral] 上下に)              Moving up and down.
   - `vertically`                    ([Neutral] 垂直に)              Stand it vertically.
   - `longitudinally`                ([Technical] 縦方向に)          Arranged longitudinally.
-> `leftward`                        ([Formal] 左方向へ)             Moving leftward.
+- `left==ward==`                        ([Formal] 左方向へ)             Moving leftward.
   - `leftwards`                     ([British] 左方向へ)            Shift leftwards.
   - `to the left`                   ([Neutral] 左に、左側に)        Turn to the left.
-> `rightward`                       ([Formal] 右方向へ)             Moving rightward.
+- `right==ward==`                       ([Formal] 右方向へ)             Moving rightward.
   - `rightwards`                    ([British] 右方向へ)            Shift rightwards.
   - `to the right`                  ([Neutral] 右に、右側に)        Turn to the right.
-> `sideways`                        ([Neutral] 横向きに)            Turn your head sideways.
+- ==sideways==                        ([Neutral] 横向きに)            Turn your head sideways.
   - `sidewards`                     ([British] 横向きに)            Looking sidewards.
   - `laterally`                     ([Formal] 横方向に)             Moving laterally.
   - `horizontally`                  ([Neutral] 水平に)              Place it horizontally.
-> `diagonally` /daɪˈæɡənəli/        ([Neutral] 斜めに、対角線に)    Walk diagonally across the field.
+- `diagonally` /daɪˈæɡənəli/        ([Neutral] 斜めに、対角線に)    Walk diagonally across the field.
   - `obliquely`                     ([Formal] 斜めに)               The light hit obliquely.
   - `slantwise`                     ([Neutral] 斜めに)              The rain fell slantwise.
-> `inward` /ˈɪnwərd/                ([Neutral] 内側へ、中へ)        The door opens inward.
+- `in==ward==` /ˈɪnwərd/                ([Neutral] 内側へ、中へ)        The door opens inward.
   - `inwards` /ˈɪnwərdz/            ([British] 内側へ)              Turning inwards.
   - `toward the inside`             ([Neutral] 内側に向かって)      Push it toward the inside.
   - `into`                          ([Neutral] 〜の中へ)            Walk into the room.
   - `in`                             ([Neutral] 中へ)                Come in.
   - `internally`                    ([Formal] 内部へ)               Focus internally.
   - `centripetally`                 ([Technical] 中心に向かって)    Force acting centripetally.
-> `outward` /ˈaʊtwərd/               ([Neutral] 外側へ)              The door opens outward.
+- `out==ward==` /ˈaʊtwərd/               ([Neutral] 外側へ)              The door opens outward.
   - `outwards` /ˈaʊtwərdz/          ([British] 外側へ)              Expanding outwards.
   - `toward the outside`            ([Neutral] 外側に向かって)      Push it toward the outside.
   - `out`                           ([Neutral] 外へ)                Go out.
@@ -584,33 +584,24 @@
   - `away`                          ([Neutral] 離れて、外へ)        Move away from the center.
   - `centrifugally`                 ([Technical] 中心から外へ)      Force acting centrifugally.
 
-## ALTITUDE (FACING FORWARD / FACING BACKWARD / FACING UP / FACE DOWN / FACING LEFT / FACING RIGHT / SIDEWAYS / AT AN ANGLE / FACING INWARD / FACING OUTWARD)
-> `facing`                          ([Neutral] 〜に面して)          The house facing the park.
-> `facing forward`                  ([Neutral] 前向きに)            Place it facing forward.
+## ALTITUDE
+- ==facing==                          ([Neutral] 〜に面して)          The house facing the park.
+- `facing forward`                  ([Neutral] 前向きに)            Place it facing forward.
   - `face the front`                ([Neutral] 正面を向く)          Make it face the front.
-> `facing backward`                 ([Neutral] 後ろ向きに)          Sit facing backward.
+- `facing backward`                 ([Neutral] 後ろ向きに)          Sit facing backward.
   - `facing the rear`               ([Neutral] 後部を向いて)        The seat is facing the rear.
-> `facing up`                       ([Neutral] 上向きに)            Place the box facing up.
+- `facing up`                       ([Neutral] 上向きに)            Place the box facing up.
   - `face up`                       ([Neutral] 表を上に)            Put the card face up.
-> `face down`                       ([Neutral] 伏せて、下向きに)    Put the card face down.
+- `face down`                       ([Neutral] 伏せて、下向きに)    Put the card face down.
   - `upside down`                   ([Neutral] 逆さまに)            The picture is upside down.
-> `facing left`                     ([Neutral] 左向きに)            The statue is facing left.
-> `facing right`                    ([Neutral] 右向きに)            The statue is facing right.
-> `sideways`                        ([Neutral] 横向きに)            Turn your head sideways.
+- `facing left`                     ([Neutral] 左向きに)            The statue is facing left.
+- `facing right`                    ([Neutral] 右向きに)            The statue is facing right.
+- `sideways`                        ([Neutral] 横向きに)            Turn your head sideways.
   - `sidewise`                      ([Formal] 横向きに)             Move sidewise through the crowd.
-> `at an angle`                     ([Neutral] 斜めに)              Position it at an angle.
-> `facing inward`                   ([Neutral] 内向きに)            The chairs are facing inward.
+- `at an angle`                     ([Neutral] 斜めに)              Position it at an angle.
+- `facing inward`                   ([Neutral] 内向きに)            The chairs are facing inward.
   - `toward the center`             ([Neutral] 中央に向かって)      Turn it toward the center.
-> `facing outward`                  ([Neutral] 外向きに)            The chairs are facing outward.
+- `facing outward`                  ([Neutral] 外向きに)            The chairs are facing outward.
   - `face out`                      ([Neutral] 外向きに)            Display items face out.
   - `facing out`                    ([Neutral] 外を向いて)          Position it facing out.
 - `right side up`                   ([Neutral] 正しい向きで)        Place it right side up.
-
-> `back and forth`                  ([Neutral] 行ったり来たり)      Bob was pacing back and forth along the sidewalk.
-  - `up and down`                   ([Neutral] 上下に、あちこち)    She walked up and down the hallway.
-  - `in and out`                    ([Neutral] 出たり入ったり)      People were going in and out all day.
-  - `to and fro`                    ([Neutral] 行ったり来たり)      I have been traveling to and fro between Canada and the U.K for years.
-> `on and off` /ɑːn ænd ɔːf/        ([Neutral] 断続的に)            It's been raining on and off all day today.
-  - `in a row` /ɪn ə roʊ/           ([Neutral] 連続で)              The rate has risen three quarters in a row.
-  - `with each passing day/year`    ([Neutral] 日を追うごとに)      With each passing day, her skills improved.
-

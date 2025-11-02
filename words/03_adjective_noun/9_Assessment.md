@@ -31,7 +31,6 @@
   - `desirable` /dɪˈzaɪərəbəl/      ([Neutral] 望ましい)            That's a desirable outcome.
   - `undesirable` /ˌʌndɪˈzaɪərəbəl/ ([Neutral] 望ましくない)        That's an undesirable result.
   - `auspicious` /ɔːˈspɪʃəs/        ([Formal] 幸先の良い、吉兆の)   It was an auspicious beginning.
-  - `auspiciously` /ɔːˈspɪʃəsli/    ([Formal] 幸先よく)             The year began auspiciously.
   - `inauspicious` /ˌɪnɔːˈspɪʃəs/   ([Formal] 不吉な、縁起の悪い)   An inauspicious start.
   - `propitious` /prəˈpɪʃəs/        ([Formal] 吉兆の、幸先のよい)   A propitious time to start.
   - `fortuitous` /fɔːrˈtuːɪtəs/     ([Formal] 偶然の、幸遇な)       A fortuitous meeting.
@@ -116,7 +115,6 @@
 - `abhorrence` /əbˈhɔːrəns/       ([Writing] 嫌悪、憎悪)          She has an abhorrence of lies.
   - `abhorrent` /əbˈhɔːrənt/        ([Writing] 忌まわしい)          Such behavior is abhorrent to me.
 - `abominable` /əˈbɑːmɪnəbəl/       ([Formal] 忌まわしい、ひどい)    The weather was abominable yesterday.
-  - `abominably` /əˈbɑːmɪnəbli/     ([Formal] ひどく)               She behaved abominably.
   - `abomination` /əˌbɑːmɪˈneɪʃən/  ([Formal] 忌まわしいもの)        Cruelty to animals is an abomination.
 
 ## HORRIFYING / GRUESOME / DISTURBING
@@ -155,7 +153,6 @@
 ## ABJECT / WRETCHED
 - `abject` /ˈæbdʒekt/               ([Writing] 極度の、悲惨な)      They live in abject poverty.
   - `abjection` /æbˈdʒekʃən/          ([Writing] 屈辱、卑屈)         His abjection was complete.
-  - `abjectly` /ˈæbdʒektli/           ([Writing] 極度に、悲惨に)      He failed abjectly.
   - `abjectness` /ˈæbdʒektnəs/        ([Writing] 悲惨さ、卑屈さ)     The abjectness of their condition shocked us.
 
 ## ACRIMONIOUS / BITTER
@@ -179,7 +176,6 @@
 ## PERVERSE / STUBBORN / OBSTINATE
 > `perverse` /pɚˈvɝs/              ([Formal] 道理に反した、ひねくれ) He took perverse pleasure in annoying others.
   - `perversity` /pəˈvɜːsɪti/       ([Formal] ひねくれ、反対気質)   The perversity of human nature.
-  - `perversely` /pɚˈvɝsli/         ([Formal] ひねくれて、逆に)     Perversely, we love that character.
   - `wayward` /ˈweɪwəd/             ([Neutral] 気まぐれな、言う事聞) A wayward child needs guidance.
   - `obstinate` /ˈɑːbstənət/        ([Neutral] 頑固な、強情な)      He was obstinate in his refusal.
   - `stubborn` /ˈstʌbɚn/            ([Neutral] 頑固な、強情な)      She's too stubborn to admit she's wrong.
@@ -189,7 +185,6 @@
 ## LENIENT / STRICT
 - `lenient` /ˈliːniənt/            ([Neutral] 寛大な、甘い)         The teacher was lenient with late assignments.
   - `leniency` /ˈliːniənsi/         ([Neutral] 寛大さ、寛容)         The judge showed leniency in sentencing.
-  - `leniently` /ˈliːniəntli/       ([Neutral] 寛大に)              He was treated leniently.
   - `permissive` /pərˈmɪsɪv/        ([Neutral] 寛容な、甘い)         Permissive parenting can backfire.
   - `indulgent` /ɪnˈdʌldʒənt/       ([Neutral] 甘やかす、寛大な)     She's too indulgent with her kids.
   - `tolerant` /ˈtɑːlərənt/         ([Neutral] 寛容な)              He's tolerant of different opinions.
@@ -217,10 +212,8 @@
 ## AFFABLE / FRIENDLY / APPROACHABLE
 - `affable` /ˈæfəbl/                ([Formal] 愛想の良い)           The affable host welcomed everyone warmly.
   - `affability` /ˌæfəˈbɪləti/      ([Formal] 愛想の良さ)           His affability won him many friends.
-  - `affably` /ˈæfəbli/             ([Formal] 愛想よく)             She greeted us affably at the door.
 - `amiable` /ˈeɪmiəbl/              ([Formal] 親しみやすい)         She has an amiable personality.
   - `amiability` /ˌeɪmiəˈbɪləti/    ([Formal] 親しみやすさ)         His amiability made him popular.
-  - `amiably` /ˈeɪmiəbli/           ([Formal] 親しみやすく)         They chatted amiably for hours.
 - `approachable` /əˈproʊtʃəbəl/     ([Neutral] 親しみやすい)        The manager is very approachable.
 - `familiar` /fəˈmɪljər/            ([Neutral] 親しみやすい、馴染み) Her voice sounds familiar.
 - `laid-back` /ˌleɪd ˈbæk/          ([Casual] 肩の力が抜けた)       He has a laid-back attitude.
@@ -247,7 +240,6 @@
 
 ## ENTHUSIASM / PASSION / EAGERNESS
 > `eager` /ˈiːɡər/                  ([Neutral] 熱心な、切望する)    She's eager to learn.
-  - `eagerly` /ˈiːɡəli/             ([Neutral] 熱心に、熱望して)    She eagerly awaited the results.
   - `eagerness` /ˈiːɡərnəs/         ([Neutral] 熱心さ、切望)        Her eagerness to help was obvious.
 - `enthusiastic` /ɪnˌθuːziˈæstɪk/ ([Neutral] 熱狂的な)            He's enthusiastic about the idea.
   - `enthusiast` /ɪnˈθuziæst/         ([Neutral] 愛好家、熱心家)      She's a jazz enthusiast.
@@ -329,7 +321,6 @@
   - `apathetic` /ˌæpəˈθetɪk/        ([Formal] 無関心な、無感動な)   He seemed apathetic about the results.
 - `indifference` /ɪnˈdɪfərəns/      ([Formal] 無関心、冷淡)         His indifference hurt her feelings.
   - `indifferent` /ɪnˈdɪfərənt/     ([Formal] 無関心な、冷淡な)     She was indifferent to his pleas.
-  - `indifferently` /ɪnˈdɪfərəntli/ ([Formal] 無関心に)             He shrugged indifferently.
 - `detached` /dɪˈtætʃt/             ([Formal] 冷静な、無関心な)     He remained detached from the argument.
 - `couldn't care less` /ˈkʊdnt kɛr lɛs/ ([Casual] 全く興味がない)       I couldn't care less what they think.
 
@@ -392,7 +383,6 @@
   - `round` /raʊnd/                 ([Neutral] 丸い、太った)        He has a round face.
   - `stocky` /ˈstɑːki/              ([Neutral] ずんぐりした)        He has a stocky build.
   - `stout` /staʊt/                 ([Neutral] 頑丈な、太い)        He has a stout build.
-    - `stoutly` /ˈstaʊtli/          ([Neutral] 頑丈に)              Stoutly built.
     - `stoutness` /ˈstaʊtnəs/       ([Neutral] 頑丈さ)              The stoutness of the wall.
   - `hefty` /ˈhefti/                ([Casual] がっしりした、重い)   He's a hefty man.
   - `husky` /ˈhʌski/                ([Neutral] がっしりした)        He has a husky build.
@@ -523,9 +513,7 @@
   - `bulky` /ˈbʌlki/                ([Neutral] かさばる、厚い)      A bulky sweater.
   - `substantial` /səbˈstænʃəl/     ([Formal] 実質的な、厚い)       A substantial layer.
   - `meager` /ˈmiːɡər/              ([Formal] 貧弱な、薄い)         A meager coating.
-    - `meagerly` /ˈmiːɡərli/        ([Formal] 貧弱に)               Meagerly covered.
   - `sparse` /spɑːrs/               ([Formal] まばらな、薄い)       Sparse vegetation.
-    - `sparsely` /ˈspɑːrsli/        ([Formal] まばらに)             Sparsely populated.
     - `sparseness` /ˈspɑːrsnəs/     ([Formal] まばらさ)             The sparseness of the hair.
   - `hefty` /ˈhefti/                ([Casual] 重い、厚い)           A hefty book.
   - `chunky` /ˈtʃʌŋki/              ([Casual] 厚い、ごつい)         Chunky jewelry.
@@ -555,7 +543,6 @@
 ## SENSUAL / VOLUPTUOUS / EROTIC
 - `sensual` /ˈsɛn.ʃu.əl/          ([Neutral] 官能的な、感覚的な)  Sensual music filled the room.
   - `sensuality` /ˌsɛn.ʃuˈæl.ɪ.ti/ ([Neutral] 官能性、肉欲)        The sensuality of the dance was captivating.
-  - `sensually` /ˈsɛnʃuəli/        ([Neutral] 官能的に)            The fabric draped sensually.
 - `sensuous` /ˈsɛnʃuəs/           ([Neutral] 感覚的な、官能的な)  Sensuous music played softly.
 - `voluptuous` /vəˈlʌp.t͡ʃu.əs/    ([Neutral] 官能的な、豊満な)    A voluptuous figure.
 - `erotic` /ɪˈɹɑtɪk/              ([Neutral] エロティックな)      The erotic artwork was controversial.
