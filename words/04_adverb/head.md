@@ -207,6 +207,7 @@
   - `in any case` /ɪn ˈeni keɪs/    ([Neutral] いずれにせよ)        In any case, we should be prepared.
   - `at any rate` /æt ˈeni reɪt/    ([Neutral] とにかく)            At any rate, let's move forward.
   - `anyhow` /ˈenɪhaʊ/              ([Casual] とにかく)             Anyhow, that's my opinion on it.
+  - `nonetheless` /ˌnʌnðəˈles/      ([Neutral] それにもかかわらず)  Nonetheless, we must continue trying.
 - ==overall== /ˌoʊvərˈɔːl/            ([Neutral] 全体的に)            Overall, the project was a success.
   - `all in all` /ɔːl ɪn ɔːl/       ([Neutral] 全体として)          All in all, it was a good experience.
 - `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.
@@ -257,6 +258,7 @@
 - `much to the relief of O`         ([Neutral] Oが安心したことには) Much to the relief of the team,
   - `much to the surprise of O`     ([Neutral] Oが驚いたことには)   Much to the surprise of everyone, she quit.
   - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
+- `arguably` /ˈɑːrɡjuəbli/          ([Neutral] ほぼ間違いなく)      Arguably, she's the best player on the team.
 
 ## CONDITION
 - `if` /ɪf/                         ([Neutral] もし～なら)          If it rains, we'll move inside.
@@ -338,6 +340,8 @@
   - `from what I understand`        ([Neutral] 理解している限り)    From what I understand, it's canceled.
   - `from what I've heard`          ([Casual] 聞いた話では)         From what I've heard, she's moving.
   - `from what I know`              ([Casual] 知っている限り)       From what I know, it's true.
+- `reportedly` /rɪˈpɔːrtɪdli/       ([Neutral] 伝えられるところによれば) Reportedly, they're closing the office.
+  - `allegedly` /əˈledʒɪdli/        ([Neutral] 申し立てによると)    Allegedly, he was involved in the scandal.
 - ==if I'm not mistaken==             ([Neutral] 間違っていなければ)  If I'm not mistaken, the meeting is at 3 p.m.
   - `if I'm not wrong`              ([Casual] 間違ってなければ)     If I'm not wrong, he said Monday.
   - `if I recall correctly`         ([Neutral] 記憶が正しければ)    If I recall correctly, it was expensive.
