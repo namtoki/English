@@ -1,5 +1,36 @@
 # GRAMMER
 
+## 構文
+
+### 名詞、副詞を強調 (It be)
+- 基本
+  - [ ] `It is (副詞) that ~`                   It is here that we first met five years ago.
+  - [ ] `It is (代名詞) that ~`                 It is you that have the final say in this matter.
+  - [ ] `It is (比較級を含む語句) that ~`       It is the more experienced developers that solve complex problems quickly.
+  - [ ] `It is only (名詞) that ~`              It is only through practice that you can master a skill.
+  - [ ] `It is the very (名詞) that ~`          It is the very mistake that taught me the most valuable lesson.
+  - [ ] `It is this (名詞) that ~`              It is this approach that has proven most effective in our tests.
+  - [ ] `It is the (名詞) (関係詞修飾) that ~`  It is the book that you recommended that changed my perspective.
+  - [ ] `It is really (名詞) that ~`            It is really the small details that make the difference.
+  - [ ] `It is actually (名詞) that ~`          It is actually the simplest solution that works best.
+  - [ ] `It is indeed (名詞) that ~`            It is indeed hard work that leads to success.
+  - [ ] `It is precisely (名詞) that ~`         It is precisely this feature that our customers have been requesting.
+- A じゃない、B!
+  - [ ] `It is not A that ~, but B.`            It is not money that makes people happy, but meaningful relationships.
+  - [ ] `It is not A that ~, B 肯定文.`         It is not the destination that matters, the journey itself does.
+- A だけじゃなくて B も！
+  - [ ] `It is not only A that ~, but B.`       It is not only talent that determines success, but also hard work.
+  - [ ] `It is not only A but B that ~`         It is not only the quality but the price that influences customers' decisions.
+  - [ ] `It is not so much A as B that ~`       It is not so much his talent as his dedication that led to his success.
+  - [ ] `It is B rather than A that ~`          It is passion rather than salary that motivates great employees.
+### 倒置
+- SVM -> MVS:                                 Never have I seen such a beautiful sunset.
+- SVC -> CVS:                                 Gone are the days when we could play freely.
+- SVO -> OSV:                                 This book, I have read three times already.
+- SVOO -> OSVO:                               The truth, he told no one.
+- SVOC -> OSVC:                               A genius, everyone considers him.
+- SVOC -> SVCO:                               They made clear their intentions from the start.
+
 ## 関係詞
 ### 形容詞節
 - (直前の名詞を修飾)
@@ -9,7 +40,7 @@
   - [x] `主格 who 応用` :       The woman `who` I thought was an American was in fact a Canadian.
   - [ ] `目的格 whom` :         The man `whom` I met yesterday is a famous scientist. [省略可能]
   - [ ] `目的格 which` :        The tea `which` we drank this morning is from Sri Lanka. [省略可能]
-  - [ ] `目的格 that` :         The movie `that` I watched last night was really interesting. [省略可能]
+  - [x] `目的格 that` :         The movie `that` I watched last night was really interesting. [省略可能]
   - [x] `目的格 where` :        This is the restaurant `where` we first met. [先行詞 or これを省略可能]
   - [x] `目的格 when` :         I remember the day `when` we graduated from university. [先行詞 or 省略可能]
   - [x] `目的格 why` :          That's the reason `why` I couldn't attend the meeting. [先行詞 or 省略可能]
