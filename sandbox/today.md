@@ -1,16 +1,16 @@
 # TODAY
 
-Hi, I'm Tana,
+Hello, I'm Tana,
 a software engineer in the Headphones section.
 
 I have a question
 regarding brand strategy and synergies with Samsung,
 particularly for brands other than B&W.
 
-Based on various articles available online,
-it is frequently mentioned that
+Based on various online articles,
+these articles frequently state that
 Harman plans to
-actively deploy B&W as a flagship brand for automotive applications.
+actively deploy B&W as a flagship brand in automotive applications.
 
 Given that Harman's core revenue stream comes from automotive applications,
 some speculate that

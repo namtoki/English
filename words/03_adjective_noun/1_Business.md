@@ -155,6 +155,13 @@
   - `upon us`                       ([Neutral] 間近に迫った)        Winter is upon us already.
   - `imminent` /ˈɪmɪnənt/           ([Formal] 差し迫った)           An announcement is imminent.
 
+## Organization
+> `division` /dɪˈvɪʒən/             ([Neutral] 事業部、部門)        He works in the Consumer Audio Division.
+  - `department` /dɪˈpɑːrtmənt/     ([Neutral] 部門、部)            She's in the Marketing Department.
+  - `section` /ˈsekʃən/             ([Neutral] 課、セクション)      I'm assigned to the Quality Control Section.
+  - `group` /ɡruːp/                 ([Neutral] グループ)            Our group handles product development.
+  - `team` /tiːm/                   ([Neutral] チーム)              The design team meets every Monday.
+
 ## Partnership (support / guarantee / approval / disapproval / discussion)
 > `support` /səˈpɔːrt/              ([Neutral] 支持、支援)          He gave his full support.
   - `help` /hɛlp/                   ([Neutral] 助け、支援)          We need your help.
