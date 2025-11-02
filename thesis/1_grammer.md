@@ -1,5 +1,10 @@
 # GRAMMER
 
+## 時制
+- `現在形`                          (確定未来, 公的スケジュール)  The train arrives at eight.
+- `進行形`                          (近い未来, 私的スケジュール)  I am hosting a dinner party tomorrow evening.
+- `未来進行形`                      (このまま行けば〜する流れ)    I'll be guiding your hike today.
+
 ## 構文
 
 ### 名詞、副詞を強調 (It be)
