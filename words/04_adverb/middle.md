@@ -267,3 +267,7 @@
 - `therein` /ˌðerˈɪn/               ([Formal] その中に、その点に)   The contract and all rights therein.
 - `whereby` /werˈbaɪ/               ([Formal] それによって)         A system whereby customers can complain.
 - `whatsoever` /ˌwʌtsoʊˈevər/       ([Formal] 少しの〜も)           There's no doubt whatsoever.
+
+- `probably`                        ([Neutral] おそらく～)          She's probably stuck in traffic.
+- `possibly`                        ([Neutral] もしかしたら～)      It could possibly work with some adjustments.
+

@@ -375,4 +375,3 @@
   - `no dice`                       ([Casual] だめだ、無理だ)       I asked for a refund, but no dice.
   - `out of luck`                   ([Casual] 運が悪い、ダメだった) Sorry, you're out of luck today.
   - `tough luck`                    ([Casual] 残念だったね)         You missed it? Tough luck.
-

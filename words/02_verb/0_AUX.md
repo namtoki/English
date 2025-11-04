@@ -135,30 +135,8 @@
   - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
   - `It hit 人` /hɪt/               ([Casual] 突然気づく)           It just hit me that we're late.
 
-- `I think` /aɪ θɪŋk/               ([Casual] 私は思う)             I think we should leave now.
-  - `It's more    of` O             ([Neutral] どちらかと言えば〜)  It’s more of a suggestion than a rule.
-  - `It's         like` O           ([Casual] まるでOみたい)        It's like a dream come true.
-  - `It's not     like` O           ([Casual] ～ってわけじゃない)   It's not like a traditional classroom.
-  - `It's just    like` O           ([Casual] まさにOだ)            It's just like running a marathon every day!
-  - `It's almost  like` O           ([Casual] ほとんどOみたい)      It's almost like we're starting from scratch.
-  - `It's kind of like` O           ([Casual] ちょっとOっぽい)      It's kind of like a puzzle you have to solve.
-  - `It's more    like` O           ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
-  - `It's not               that`   ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
-  - `It's just              that`   ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
-  - `It's more              that`   ([Neutral] どちらかというと)    It's more that I need some time to think.
-  - `It's not      the fact that`   ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
-  - `It's not just the fact that`   ([Neutral] だけが理由じゃない)  It's not just the fact that you called ...
-  - `It's not that A but (that) B`  ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
-  - `My concern is that S V`        ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
-  - `My understanding is (that)`    ([Neutral] 私の理解では)        My understanding is that we start Monday.
-  - `My take is` /maɪ teɪk ɪz/      ([Casual] 私の見方は)           My take is that we should proceed.
-- `It makes sense that S V`         ([Neutral] ～は理にかなってる)  It makes sense that prices went up.
-  - `It makes sense for A to B`     ([Neutral] AがBするのが理にかなう) It makes sense for them to wait.
-  - `It's only natural that S V`    ([Neutral] ～するのが自然)      It's only natural that he's tired.
-  - `It's logical that S V`         ([Formal] ～は論理的だ)         It's logical that we proceed carefully.
-  - `It's reasonable that S V`      ([Neutral] ～は妥当だ)          It's reasonable that they need more time.
-  - `It stands to reason that S V`  ([Formal] ～は当然だ)           It stands to reason that costs will rise.
-  - `It's understandable that S V`  ([Neutral] ～は理解できる)      It's understandable that she's upset.
-- `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
-  - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
-  - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
+- `be sure to` /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
+  - `be more likely to`             ([Neutral] する確率が高い)      People are more likely to work in their field.
+  - `be less likely to`             ([Neutral] する確率が低い)      It's less likely to get broken if you wrap it.
+
+  - `be bound to` /baʊnd tuː/       ([Neutral] ～に違いない)        He's bound to notice eventually.
