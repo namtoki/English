@@ -271,3 +271,10 @@
 - `probably`                        ([Neutral] おそらく～)          She's probably stuck in traffic.
 - `possibly`                        ([Neutral] もしかしたら～)      It could possibly work with some adjustments.
 
+- `in no uncertain terms`           ([Formal] はっきりと)           She told him in no uncertain terms that his behavior was unacceptable.
+  - `clearly` /ˈklɪrli/             ([Neutral] はっきりと)          He stated clearly that he disagreed.
+  - `explicitly` /ɪkˈsplɪsɪtli/     ([Formal] 明示的に)             The rules explicitly forbid smoking.
+  - `unambiguously`/ˌʌnæmˈbɪɡjuəsli/([Formal] 曖昧さなく)           The contract states unambiguously that payment is due.
+  - `bluntly` /ˈblʌntli/            ([Casual] 率直に)               To put it bluntly, your work needs improvement.
+  - `directly` /dəˈrektli/          ([Neutral] 直接的に)            He told her directly what the problem was.
+  - `plainly` /ˈpleɪnli/            ([Neutral] 明白に)              She plainly stated her objections.

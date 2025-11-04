@@ -44,10 +44,14 @@
   - `My take is`                    ([Casual] 私の見方は)           My take is that we should proceed.
 - ==There're times when==             ([Neutral] ～する時もある)      There're times when I feel overwhelmed with work.
   - `There's a side to A that`      ([Neutral] 一面がある)          There's a side to her that most people never see.
+- ==any O will do as long as S V==    ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
+- ==It's up in the air whether==      ([Casual] かどうかはまだ未定だ) It's up in the air whether we'll have the meeting tomorrow.
 
-  - `It's not               that`   ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
-  - `It's just              that`   ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
-  - `It's more              that`   ([Neutral] どちらかというと)    It's more that I need some time to think.
+## Opinion + Addition
+- `It's 〇〇 that`
+  - ==It's not               that==   ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
+  - ==It's just              that==   ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
+  - ==It's more              that==   ([Neutral] どちらかというと)    It's more that I need some time to think.
   - `It's not      the fact that`   ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
   - `It's not just the fact that`   ([Neutral] だけが理由じゃない)  It's not just the fact that you called ...
   - `It's more    of` O             ([Neutral] どちらかと言えば〜)  It’s more of a suggestion than a rule.
@@ -58,11 +62,8 @@
   - `It's kind of like` O           ([Casual] ちょっとOっぽい)      It's kind of like a puzzle you have to solve.
   - `It's more    like` O           ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
   - `It's not that A but (that) B`  ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
-
-  - ==it's not always the case that== ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
+- ==it's not always the case that==   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
   - `that's not to say that S V`    ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
-
-  - ==any O will do as long as S V==  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
 
 
 ## Assumption
@@ -93,30 +94,30 @@
   - `It may be (that)`              ([Formal] ～かもしれない)       It may be that we need more time.
   - `It might be (that)`            ([Neutral] ～かもしれない)      It might be that she forgot.
   - ==It could be (that)==            ([Neutral] ～の可能性がある)    It could be that she misunderstood.
-- `What are the chances that` S V?  ([Casual] S V の可能性は？)     `What are the chances that` the meeting will finish early?
-  - `How likely is it that` S V?    ([Neutral] S V の可能性は？)    `How likely is it that` the project will be delayed?
+- `What are the chances that` S V?  ([Casual] S V の可能性は？)     What are the chances that the meeting will finish early?
+  - `How likely is it that` S V?    ([Neutral] S V の可能性は？)    How likely is it that` the project will be delayed?
 
+## Emphasis
+- `I can't tell you how much`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
+- `You know as well as I do that`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
 
+---
 
-- `I can't tell you how much S V`       ([Casual] どれだけ～か言い表せない) `I can't tell you how much I appreciate your help.`
-- `You know as well as I do that S V`   ([Formal] ご存じかと思いますが) `You know as well as I do that this is very important.`
-- `It's up in the air whether S V`      ([Casual] ～かどうかはまだ未定だ) `It's up in the air whether` we'll have the meeting tomorrow.
 - `It's no use V-ing`                   ([Neutral] Vしても無駄だ) `It's no use arguing with someone who won't listen.`
-- `Turns out S V`                   ([Casual] ということがわかった) Turns out she was right all along.
+- `Turns out    `                   ([Casual] ということがわかった) Turns out she was right all along.
 - `be aware that`                   ([Neutral] に注意してください)  Be aware that the deadline is next Friday.
 - `I see you have V`                    ([Neutral] ～したようだね) `I see you have` finished the report early.
 - `It might be a good idea to V`        ([Neutral] ～した方がいいかもしれない) `It might be a good idea to` double-check the numbers.
 - `It wouldn't hurt to V`               ([Neutral] ～しても損はない) `It wouldn't hurt to` ask for help if you're stuck.
-- `It goes without saying that S V`     ([Formal] ～は言うまでもなく) `It goes without saying that` safety is our top priority.
-- `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn't change.`
-- `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
-- `That's not to say (that) S V`        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.
-
-- `S V-ing. That is C`              ([Neutral] している。それはCだ) Working overtime. That is exhausting.
-  - `S V-ing, that'd be C`          ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
-  - `S V. That I V`                 ([Neutral] Vだ。それは私がVだ)  It's raining. That I don't mind at all.
-  - `that's the way S V`            ([Neutral] このやり方が)        That's the way I like it. / That's the way I prefer it.
-- `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
+- `It goes without saying that    `     ([Formal] ～は言うまでもなく) `It goes without saying that` safety is our top priority.
+- `It doesn't mean anything that    `   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn't change.`
+- `We'll see whether    `               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
+- `That's not to say (that)    `        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.
+- `   -ing. That is C`              ([Neutral] している。それはCだ) Working overtime. That is exhausting.
+  - `   -ing, that'd be C`          ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
+  - `   . That I V`                 ([Neutral] Vだ。それは私がVだ)  It's raining. That I don't mind at all.
+  - `that's the way    `            ([Neutral] このやり方が)        That's the way I like it. / That's the way I prefer it.
+- `that doesn't mean    `           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
   - `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
   - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
 - ==A is one thing, but B is another==([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
@@ -128,8 +129,6 @@
   - `I've got my hands full`        ([Casual] 手がいっぱいだ)       `I've got my hands full` with this project right now.
 - `Leave it there`                  ([Casual] それで終わりにしよう) Let's `leave it there` for today.
   - `So much for O`                 ([Casual] これで終わ,期待外れ)  `So much for` our plans to go hiking.
-
-
 - `The same goes for O`             ([Neutral] Oも同様だ)           The same goes for our international team.
   - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
   - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.

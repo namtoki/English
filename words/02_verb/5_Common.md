@@ -382,6 +382,13 @@
   - `terminate` /ˈtɜːrmɪneɪt/       ([Formal] 終了する、打ち切る)   The contract was terminated early.
   - `suspend` /səˈspend/            ([Formal] 一時停止する)         Classes were suspended due to snow.
   - `prevent` /prɪˈvent/            ([Neutral] 防ぐ、妨げる)        This will prevent accidents.
+  - `nip it in the bud`             ([Neutral] 芽のうちに摘む)      We should nip this problem in the bud.
+  - `cut off at the pass`           ([Casual] 先手を打って阻止)     Let's cut this off at the pass.
+  - `head off` /hed ɔːf/            ([Neutral] 未然に防ぐ)          We need to head off any problems.
+  - `forestall` /fɔːrˈstɔːl/        ([Formal] 未然に防ぐ)           They forestalled the crisis.
+  - `preempt` /priːˈempt/           ([Formal] 先手を打つ)           The company preempted criticism.
+  - `avert` /əˈvɜːrt/               ([Formal] 回避する、防ぐ)       They averted a disaster.
+  - `stave off` /steɪv ɔːf/         ([Neutral] 食い止める)          We need to stave off bankruptcy.
   - `get in the way` /ɡet ɪn ðə weɪ/([Casual] 邪魔になる)           Don't get in the way.
   - `interfere` /ˌɪntərˈfɪr/        ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
   - `hinder` /ˈhɪndər/              ([Neutral] 妨げる、邪魔する)    Don't hinder their efforts.

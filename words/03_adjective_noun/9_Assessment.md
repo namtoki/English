@@ -583,6 +583,15 @@
 # VIII. OTHER (その他)
 # ========================================
 
+## CERTAINTY / INEVITABILITY
+- `a foregone conclusion`           ([Neutral] 既定の結論)          The election result was a foregone conclusion.
+  - `inevitable` /ɪnˈevɪtəbəl/      ([Neutral] 避けられない)        Change is inevitable.
+  - `inevitably` /ɪnˈevɪtəbli/      ([Neutral] 必然的に)            He will inevitably make mistakes.
+  - `certain` /ˈsɜːrtən/            ([Neutral] 確実な)              Victory is certain.
+  - `a done deal`                   ([Casual] 決まったこと)         The merger is a done deal.
+  - `a sure thing`                  ([Casual] 確実なこと)           His promotion is a sure thing.
+  - `predetermined` /ˌpriːdɪˈtɜːrmɪnd/ ([Formal] 予め決められた)    The outcome seemed predetermined.
+
 ## MINIMAL / MINIMUM
 - `minimal` /ˈmɪnɪməl/              ([Neutral] 最小限の)            The damage was minimal.
   - `minimum` /ˈmɪnɪməm/            ([Neutral] 最小限、最低限)      Keep expenses to a minimum.
