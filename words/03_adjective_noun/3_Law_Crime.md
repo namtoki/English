@@ -16,6 +16,7 @@
   - `legitimacy` /ləˈd͡ʒɪtɪməsi/     ([Formal] 正当性、合法性)       The legitimacy was challenged.
   - `validity` /vəˈlɪdɪti/          ([Formal] 有効性、妥当性)       We checked the validity of the claim.
   - `licit` /ˈlɪsɪt/                ([Formal] 合法的な、適法な)     The transaction was licit.
+> `tribunal` /trɪˈbjuːnəl/          ([Formal] 法廷、裁判所)         The tribunal sentenced him.
 > `decision` /dɪˈsɪʒən/             ([Neutral] 決定、判断)          The court reached a decision.
   - `judgment` /ˈdʒʌdʒmənt/         ([Neutral] 判断、判決)          He showed good judgment in the crisis.
   - `verdict` /ˈvɝdɪkt/             ([Neutral] 評決、判決)          The jury returned a guilty verdict.

@@ -153,6 +153,7 @@
   - `section` /ˈsekʃən/             ([Neutral] 課、セクション)      I'm assigned to the Quality Control Section.
   - `group` /ɡruːp/                 ([Neutral] グループ)            Our group handles product development.
   - `team` /tiːm/                   ([Neutral] チーム)              The design team meets every Monday.
+  - `affiliate` /əˈfɪliɪt/          ([Neutral] 支部、関連組織)      The company has affiliates worldwide.
 
 ## Partnership (support / guarantee / approval / disapproval / discussion)
 > `support` /səˈpɔːrt/              ([Neutral] 支持、支援)          He gave his full support.

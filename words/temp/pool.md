@@ -38,7 +38,6 @@ affair	3	【名】事件、仕事、不倫
 affectation	12	【名】気どり、ふりをすること
 affected	9	【形】気どった
 affectionate	7	【形】情愛の深い、愛情のこもった
-affiliate	10	【名】支部
 affiliated	11	【形】提携している、関連のある
 affiliation	10	【名】提携、入会
 affinity	10	【名】強い好み、親近感
@@ -1650,7 +1649,6 @@ hysteria	10	【名】興奮状態、ヒステリー
 hysterical	8	【形】ヒステリックな、狂乱の、ヒステリー症の
 iceberg	10	【名】氷山
 idiosyncratic	11	【形】特有の
-idleness	10	【名】怠惰、無為
 idyllic	11	【形】牧歌的な、のどかな
 ignition	8	【名】発火、燃焼、点火（装置）
 ignoble	12	【形】下品な、卑しい
@@ -3465,7 +3463,6 @@ tremor	11	【名】揺れ、身震い
 tremulous	12	【形】震えた、びくびくしている
 trench	8	【名】深い溝、塹壕（ざんごう）
 tribal	8	【形】部族の
-tribunal	9	【名】法廷、裁判所
 tribune	11	【名】人権の擁護者、軍団司令官
 trickle	9	【名】しずく、少量
 trident	12	【名】三叉のほこ

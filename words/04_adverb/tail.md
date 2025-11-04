@@ -149,6 +149,7 @@
   - `like hell` /laɪk hɛl/          ([Casual] 猛烈に、すごく)       We worked like hell to finish the job.
   - `like anything` /laɪk ˈeniθɪŋ/  ([Casual] とても、非常に)       It was raining like anything.
 - `on purpose` /ɔːn ˈpɜːrpəs/       ([Casual] わざと)               He spilled the drink on purpose.
+- `flat out` /flæt aʊt/            ([Neutral] 完全に)              I told him flat out.
 - `out of habit` /aʊt əv ˈhæbɪt/    ([Casual] 習慣として)           I got the Namboku line out of habit.
 - `on impulse` /ɔːn ˈɪmpʌls/        ([Casual] 衝動的に)             I bought the shoes on impulse.
 - `for the fun of it`               ([Casual] 楽しみで)             He tried skydiving for the fun of it.

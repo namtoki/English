@@ -662,6 +662,7 @@
   - `devastate` /ˈdevəsteɪt/        ([Formal] 壊滅させる)           The earthquake devastated the city.
   - `obliterate` /əˈblɪtəreɪt/      ([Formal] 完全に破壊する)       The explosion obliterated the building.
   - `annihilate` /əˈnaɪəleɪt/       ([Formal] 全滅させる)           The army annihilated the enemy forces.
+> `fall apart` /fɔːl əˈpɑːrt/       ([Neutral] 崩壊する)            Their marriage fell apart.
 
 ## AGGRESSIVE
 > `hold` /hoʊld/                    ([Neutral] 拘束する)            The police held him overnight.

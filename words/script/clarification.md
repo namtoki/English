@@ -1,6 +1,6 @@
 
-- 01_statement/template.md - 定型文
-- 01_statement/that-clause.md -  "that S V" という完全文が続く構文
+- 01_framework/cliche.md - 定型文
+- 01_framework/that-clause.md -  "that S V" という完全文が続く構文
 - 02_verb/0_AUX.md - 助動詞のような働きの動詞
 - 02_verb/1_SVC.md - SVC 文型の動詞
 - 02_verb/2_SVOC.md - SVOC 文型の動詞

@@ -1,34 +1,33 @@
 # TODAY
 
-Hello, I'm Tana,
-a software engineer in the Headphones section.
+I appreciate that Eva has created some pre-ES tickets,
+and I have a few things to share regarding them.
 
-I have a question
-regarding brand strategy and synergies with Samsung,
-particularly for brands other than B&W.
+First things first, I will communicate with you guys in these tickets
+about what is expected to be implemented from SoundUnited's perspective.
+I will be chatting in these tickets from now on, so it would be helpful
+if you guys could respond to me.
 
-Based on various online articles,
-these articles frequently state that
-Harman plans to
-actively deploy B&W as a flagship brand in automotive applications.
+Second,
 
-Given that Harman's core revenue stream comes from automotive applications,
-some speculate that
-the primary objective of acquiring Sound United
-was
-to obtain the B&W brand specifically.
+I'd like to
+  close out or move forward
+    the epics that are essentially done,
+    in other words,
+    those that have already been implemented in the PoC.
 
-In fact,
-Samsung's official press release page regarding this acquisition
-featured only the Samsung and B&W logos.
+I heard PerL2's source code is derived from the PoC.
 
-I would like to hear your candid thoughts on this understanding first.
+So, I think it is okay to assume that
+  items already implemented in the PoC are essentially done in the PerL2 development.
 
-At the same time,
-these articles mention that
-Samsung intends to integrate Sound United's audio technologies into consumer products
-such as smartphones, headsets, TVs, and soundbars.
+For example, ticket 27 Software Update has already been done, right?
+I'd like to sort out these things from now on.
 
-Could you share
-what strategic synergies are being considered
-between the Denon and Marantz brands and Samsung's product ecosystem?
+Finally,
+
+To clarify,
+these schedules, start dates and end dates are up in the air for now
+  since the RFQ has to be resubmitted.
+
+So we'd like to align these schedules in the course of the pre-ES stage development.

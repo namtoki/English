@@ -143,6 +143,7 @@
 ## ABSTRUSE / DIFFICULT / ARDUOUS
 - `abstruse` /æbˈstrus/              ([Writing] 難解な)               The abstruse theory confused students.
 - `arduous` /ˈɑːdjuəs/              ([Writing] 骨が折れる困難)      It was an arduous journey through the mountains.
+- `self-explanatory` /ˌself ɪkˈsplænətɔri/([Neutral] 説明不要の)          The title is self-explanatory.
 
 ## ADVERSE / UNFAVORABLE
 - `adverse` /ædˈvɜrs/               ([Formal] 不利な、有害な)        Adverse weather delayed the flight.
@@ -230,6 +231,8 @@
 - `active` /ˈæktɪv/                 ([Neutral] 活発な、積極的な)    She's active in the community.
   - `activist` /ˈæktɪvɪst/          ([Neutral] 活動家)              He's an environmental activist.
   - `activism` /ˈæktɪvɪzəm/         ([Neutral] 活動主義、社会運動)   She's involved in social activism.
+- `idle` /ˈaɪdəl/                   ([Neutral] 怠惰な、遊んでいる)  The machines are standing idle.
+  - `idleness` /ˈaɪdlnɪs/           ([Neutral] 怠惰、無為)          His idleness led to problems.
 
 ## ABIDING / ENDURING
 - `abiding` /əˈbaɪdɪŋ/              ([Neutral] 永続的な)             She has an abiding love for music.
