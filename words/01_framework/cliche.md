@@ -1,6 +1,6 @@
 # Cliche
 
-## INITIATION
+## Initiation
 - ==How's it going?==                 ([Casual] 調子はどう？)         How's it going with work?
   - `How've you been?`              ([Casual] 元気だった？)         How've you been since last time?
   - `What's up?`                    ([Casual] どう？何してる？)     What's up with you?
@@ -33,12 +33,12 @@
   - `Do you remember that O?`       ([Casual] 覚えている？)         Do you remember that bike at ABC Department Store?
   - `Did you hear O?`               ([Casual] 聞きました？)         Did you hear about Kim? She got promoted.
   - `I told you O, right?`          ([Casual] 〜って言ったよね？)   I told you it was going to rain, right? Now look at the sky!
-- `I hope you are doing well.`
+- ==I hope you are doing well.==
   - `Thank you for your continued support.`
   - `I appreciate your help as always.`
   - `I always appreciate your business.`
 
-## REPLY
+## Reply
 - ==Understood==                      ([Formal] 了解しました)         Please prioritize this. Understood.
   - `Got it`                        ([Casual] 了解です)             Please finish by 5. Got it.
   - `You got it`                    ([Casual] 了解です)             Close the door, please. You got it.
@@ -57,8 +57,6 @@
   - `I'll make sure it gets done`   ([Formal] 必ず実行します)       This is critical. I'll make sure it gets done.
   - `Consider it done`              ([Neutral] お任せください)      I need this by tomorrow. Consider it done.
   - `Happy to help`                 ([Casual] 喜んで手伝いますよ)   Thanks for reading my outline. Happy to help!
-
-## REPLY
 - `Makes sense`                     ([Casual] なるほど)             Makes sense. Let's do that.
   - ==That makes sense==              ([Casual] なるほど、納得)       That makes sense. I understand now.
   - `It makes sense`                ([Neutral] 理にかなってる)      It makes sense to start early.
@@ -100,8 +98,6 @@
   - `Thanks for the heads up`       ([Casual] 教てくれてありがとう) Thanks for the heads up about the meeting change.
   - `I appreciate the update`       ([Neutral] 報告ありがとう)      I appreciate the update on the project status.
   - `That's helpful`                ([Casual] 助かります)           That's helpful, I'll keep that in mind.
-
-## REPLY
 - `You flatter me`                  ([Formal] お世辞でも嬉しい)     You flatter me. I'm just doing my job.
   - `I'm flattered`                 ([Neutral] 光栄です)            I'm flattered by your compliment.
   - `You give me too much credit`   ([Neutral] 買いかぶりすぎです)  You give me too much credit. It was a team effort.
@@ -137,7 +133,7 @@
   - `Of course`                     ([Neutral] もちろんです)        Thanks for letting me know. Of course.
 - `That's really something`         ([Casual] 大したもんだね)       Wow, you finished the project early? That's really something!
 
-## OPINION
+## Opinion
 - ==How can I put this?==             ([Casual] なんて言えばいいかな) How can I put this? It's a bit complicated.
   - `What can I say`                ([Casual] なんというか)         I love coffee too much. What can I say?
   - `What do you want me to say`    ([Casual] 何て言えばいいの)     I failed again. What do you want me to say?
@@ -161,34 +157,9 @@
   - `I didn't catch that`           ([Casual] 聞き取れなかった)     I didn't catch that. Could you repeat?
 - ==Come again?==                     ([Casual] もう一回言って)       Come again? I didn't catch that.
   - `Sorry, what?`                  ([Casual] え、何？)             Sorry, what? I missed that.
-
-## OPINION
-- `S V-ing. That is C`              ([Neutral] している。それはCだ) Working overtime. That is exhausting.
-  - `S V-ing, that'd be C`          ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
-  - `S V. That I V`                 ([Neutral] Vだ。それは私がVだ)  It's raining. That I don't mind at all.
-  - `that's the way S V`            ([Neutral] このやり方が)        That's the way I like it. / That's the way I prefer it.
-- `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
-  - `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
-  - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
-  - ==it's not always the case that== ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
-  - `that's not to say that S V`    ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
-- ==A is one thing, but B is another==([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
-- `It's a custom to V`              ([Neutral] ～する習慣がある)    It's a custom to give gifts during the holidays.
-  - `It's traditional to V`         ([Neutral] ～するのが伝統だ)    It's traditional to celebrate New Year's with family.
-- `There're times when S V`         ([Neutral] ～する時もある)      There're times when I feel overwhelmed with work.
-- `There's a side to A that S V`    ([Neutral] 一面がある)          There's a side to her that most people never see.
-- `I'm V-ing ... at the moment.`    ([Casual] 今まさに～している)   I'm working on the report at the moment.
-  - `I'm still working on it`       ([Casual] まだ取り組んでいる)   I'm still working on it, but I should be done soon.
-  - `I'm in the middle of something`([Casual] 今手が離せない)       I'm in the middle of something right now, can I call you back?
-  - `I've got my hands full`        ([Casual] 手がいっぱいだ)       `I've got my hands full` with this project right now.
-- `Leave it there`                  ([Casual] それで終わりにしよう) Let's `leave it there` for today.
-  - `So much for O`                 ([Casual] これで終わ,期待外れ)  `So much for` our plans to go hiking.
-
-## OPINION (`I'm fine with` / No rush / `That would be great` / `That's the way it is` / `This is just one possibility`)
-- `I'm fine with`                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
+- ==I'm fine with==                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
   - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
-  - `any O will do as long as S V`  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
-  - `I'm not particular about it`   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
+  - ==I'm not particular about it==   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
   - `Nothing in particular`         ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
   - `It doesn't matter`             ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
 - `No rush`                         ([Casual] 急がなくていいよ)     `No rush,` take your time finishing the project.
@@ -203,7 +174,7 @@
   - `There is no particular urgency.`([Formal] 特に急ぎありません)  `There is no particular urgency` for this task.
   - `Please handle it at your convenience.`([Formal] ご都合のよい時に) `Please handle it at your convenience.`
 - `You name it`                     ([Casual] なんでも言って)       We have coffee, tea, juice—`you name it.`
-- `That would be great`             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
+- ==That would be great==             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
   - `That'd be perfect`             ([Casual] それは完璧だ)         That'd be perfect for our meeting schedule.
 - `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
   - `It is what it is`              ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
@@ -211,41 +182,14 @@
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
 - `I hope not`                      ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
 - `I hope I'm not interrupting you.`([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
-- `this is just one possibility`    ([Neutral] 可能性の話しだけど)  There may be other approaches as well — this is just one possibility.
+- ==this is just one possibility==    ([Neutral] 可能性の話しだけど)  There may be other approaches as well — this is just one possibility.
   - `this is one option`            ([Neutral] これは一つの選択肢)  This is one option we could consider.
   - `this is one approach`          ([Neutral] これは一つの方法)    This is one approach to solving the problem.
   - `this is one alternative`       ([Neutral] これは一つの代替案)  This is one alternative to the current plan.
   - `this is merely a suggestion`   ([Neutral] これはただの提案)    This is merely a suggestion, not a requirement.
   - `this is simply one scenario`   ([Neutral] 単に一つのシナリオ)  This is simply one scenario we might face.
 
-## FEELING (I can't believe one's eyes / I can't catch a break)
-- `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!
-  - `couldn't believe one's ears`   ([Casual] 信じられない)         I couldn't believe my ears when they announced the winner.
-  - `jaw dropped`                   ([Casual] 驚いた)               My jaw dropped when I saw the price.
-  - `blown away`                    ([Casual] 驚かされた)           I was blown away by the performance.
-  - `taken aback`                   ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
-  - `at a loss for words`           ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
-- `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
-  - `Nothing's going my way`        ([Casual] 何もうまくいかない)   Nothing's going my way today.
-  - `I'm having bad luck`           ([Neutral] 運が悪い)            I'm having bad luck with my car.
-  - `Everything's going wrong`      ([Neutral] 全て悪い方向)        Everything's going wrong lately.
-  - `I can't get anything right`    ([Casual] 何も上手くできない)   I can't get anything right today.
-  - `It's not my day`               ([Casual] ついてない日)         It's just not my day.
-  - `Things aren't working out for me`([Neutral] うまくいかない)      Things aren't working out for me.
-  - `I'm cursed`                    ([Casual] 呪われている)         I feel like I'm cursed.
-  - `I'm jinxed`                    ([Casual] 呪われている)         I must be jinxed or something.
-  - `I'm snake-bitten`              ([Casual] ついていない)         I've been snake-bitten all week.
-  - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
-  - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
-  - `Murphy's Law is in full effect`([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
-  - `no luck`                       ([Casual] 無理、うまくいかない) I tried to fix it, but no luck.
-  - `to no avail`                   ([Writing] 無駄に、甲斐なく)    All his efforts were to no avail.
-  - `without success`               ([Writing] 成功せずに)          He tried to start the car without success.
-  - `no dice`                       ([Casual] だめだ、無理だ)       I asked for a refund, but no dice.
-  - `out of luck`                   ([Casual] 運が悪い、ダメだった) Sorry, you're out of luck today.
-  - `tough luck`                    ([Casual] 残念だったね)         You missed it? Tough luck.
-
-## CONFIRMATION (are you okay?)
+## Confirmation
 - `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
   - `You okay?`                     ([Casual] 大丈夫？)             You okay? You seem quiet today.
   - `All good?`                     ([Casual] 大丈夫？)             All good? Ready to continue?
@@ -254,17 +198,15 @@
   - `Is everything all right?`      ([Neutral] 大丈夫ですか？)      Is everything all right with the project?
   - `Is everything okay?`           ([Neutral] すべて大丈夫？)      Is everything okay at home?
   - `Are you all right?`            ([Casual] 大丈夫？)             Are you all right? That was a hard fall.
-  - `Everything alright?`           ([Casual] 大丈夫？)             Everything alright with your order?
+  - ==Everything alright?==           ([Casual] 大丈夫？)             Everything alright with your order?
 
-## QUESTIONS (`Does that sound C?` / `What's your take on?` / `What are the chances that ...?`)
-- `Does that sound C?`              ([Casual] C のように聞こえる？) `Does that sound` good?
-- `What's your take on O?`          ([Casual] どう思う？)           `What's your take on` the new iPhone?
+## Question
+- ==Does that sound C?==              ([Casual] C のように聞こえる？) `Does that sound` good?
+- ==What's your take on O?==          ([Casual] どう思う？)           `What's your take on` the new iPhone?
   - `Any thoughts on O?`            ([Casual] 何か意見ある？)
   - `How do you feel about O?`      ([Neutral] どう思いますか？)    `How do you feel about` the service in Japan?
   - `How do you like O?`            ([Neutral] O は好きですか？)    `How do you like` your new shoes?
   - `What do you think about O?`    ([Neutral] どう思いますか？)    `What do you think about` moving to Osaka?
-- `What are the chances that` S V?  ([Casual] S V の可能性は？)     `What are the chances that` the meeting will finish early?
-  - `How likely is it that` S V?    ([Neutral] S V の可能性は？)    `How likely is it that` the project will be delayed?
 - `Should the focus be on` A or B?  ([Neutral] A, B どちらに重点？) Should the focus be on product quality or on cost reduction?
   - `Should we focus on` A or B?    ([Neutral] A, B どちらに重点？) Should we focus on increasing sales or ... ?
 - `What's the situation with O?`    ([Neutral] Oの状況はどう？)     `What's the situation with the project deadline?`
@@ -287,7 +229,7 @@
 - `Do/Would you happen to V?`       ([Polite] たまたま～ですか？)   Do you happen to know the time?
 - `Do you think you could V?`       ([Polite] してもらえる？)       Do you think you could talk to her?
 
-## WOULD YOU / COULD YOU / WOULD IT BE POSSIBLE TO / I'D APPRECIATE IT IF YOU COULD)
+## Request
 - `Could you V?`                    ([Neutral] してもらえる？)      Could you help me with this?
 - `Would you V?`                    ([Polite] してもらえますか？)   Would you pass me the salt?
 - `Can you V?`                      ([Casual] してくれる？)         Can you send me the file?
@@ -306,7 +248,7 @@
   - `Would you mind V-ing?`         ([Polite] してもらえません？)   Would you mind opening the window?
   - `I'd like to ask you a favor.`  ([Casual] お願いがあるんだけど) I'd like to ask you a favor regarding the report.
 
-## COULD I / CAN I / IS IT OK IF
+## Get permission
 - `Can I V?`                        ([Casual] してもいい？)         Can I ask you something?
 - `Could I V?`                      ([Polite] してもいいですか？)   Could I get a sandwich please?
 - `Is it OK if I V?`                ([Casual] してもいいですか？)   Is it OK if I park here?
@@ -322,7 +264,7 @@
   - `Am I allowed to V?`            ([Neutral] してもいいですか？)  Am I allowed to take photos here?
   - `Is it permitted to V?`         ([Formal] 許可されていますか？) Is it permitted to park here?
 
-## HOW ABOUT / WHY DON'T WE / WOULD YOU LIKE TO / DO YOU WANT TO
+## Suggestion
 - `How about V-ing?`                ([Casual] ～するのはどう？)     How about getting lunch together?
 - `Why don't we V?`                 ([Casual] ～しない？)           Why don't we take a break?
 - `What about V-ing?`               ([Casual] ～するのはどう？)     What about trying that new restaurant?
@@ -342,7 +284,7 @@
 - `Should I V?`                     ([Neutral] ～しましょうか？)    Should I make a reservation?
 - `Can I V for you?`                ([Neutral] ～しましょうか？)    Can I get that for you?
 
-## INTERJECTION (
+## Interjection
 - `I've got it!`                    ([Casual] そうだ！)             Wait — I've got it! What if we try a rotating schedule?"
 - `Here we go`                      ([Casual] さぁ！)               Here we go! Your dinner is ready!
   - `Here we go`                    ([Casual] はじめましょう)       Have you prepared everything? OK, `here we go`!
@@ -372,34 +314,32 @@
   - `Just like before`              ([Neutral] 以前と同じ)          It's happening just like before.
   - `Déjà vu`                       ([Neutral] デジャブ、既視感)    This situation feels like déjà vu.
 
-## CLICHE
-- `Forget about it` /fərˈɡet əˈbaʊt ɪt/([Casual] 忘れて、気にしないで) Forget about it, it's not a problem.
+## Others
+- ==Forget about it==                 ([Casual] 忘れて、気にしないで) Forget about it, it's not a problem.
 - `I need to be somewhere`          ([Casual] 行く必要がある)       I need to be somewhere in an hour.
   - `I have to be somewhere`        ([Casual] 行かなきゃ)           Sorry, I have to be somewhere right now.
   - `I have somewhere to be`        ([Casual] 行く所がある)         I have somewhere to be, so I can't stay.
   - `I gotta run`                   ([Casual] 行かなきゃ)           I gotta run. Talk to you later!
   - `I need to get going`           ([Casual] そろそろ行かなきゃ)   I need to get going now.
   - `I should get going`            ([Casual] そろそろ行くべき)     I should get going. It's getting late.
-- `Something came up`               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
+- ==Something came up==               ([Casual] 急な用事ができた)     Sorry, I can't make it tonight. Something came up.
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, I was on mute and didn’t hear you.
-- `the sky's the limit`             ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
+- ==the sky's the limit==             ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
 - `Just give it time`               ([Casual] 時間が解決してくれる) Just give it time; things will improve.
 - `mum's the word`                  ([Casual] 内緒にしてね)         `Mum's the word` about the surprise party.
-- `simple as that`                  ([Casual] それだけのこと)       Just follow the instructions. Simple as that.
-- `easy as that`                    ([Casual] それだけのこと)       You just need to click here. Easy as that.
-- `as simple as that`               ([Casual] それくらい簡単)       It's as simple as that.
-- `plain and simple`                ([Casual] 単純明快)             He lied to us, plain and simple.
-- `that's all there is to it`       ([Casual] それだけのこと)       Just study hard. That's all there is to it.
-- `nothing more to it`              ([Casual] それ以上何もない)     Press the button and wait. Nothing more to it.
+- ==simple as that==                  ([Casual] それだけのこと)       Just follow the instructions. Simple as that.
+  - `easy as that`                  ([Casual] それだけのこと)       You just need to click here. Easy as that.
+  - `as simple as that`             ([Casual] それくらい簡単)       It's as simple as that.
+  - `plain and simple`              ([Casual] 単純明快)             He lied to us, plain and simple.
+  - `that's all there is to it`     ([Casual] それだけのこと)       Just study hard. That's all there is to it.
+  - `nothing more to it`            ([Casual] それ以上何もない)     Press the button and wait. Nothing more to it.
 - `Get a life!`                     ([Casual] 人生を楽しめ)         Stop obsessing over work. Get a life!
   - `You need to have a life`       ([Casual] 人生を楽しむべきだ)   You need to have a life outside of work.
   - `Touch grass`                   ([Casual] 外に出ろ)             You've been online all day. Touch grass.
   - `Go outside`                    ([Casual] 外に出ろ)             Stop gaming and go outside for once.
   - `Take a break`                  ([Casual] 休憩を取れ)           You've been working for hours. Take a break.
-
-## CHALLENGING SITUATIONS (throw in the deep end / sink or swim / trial by fire)
-- `throw O in the deep end`        ([Casual] 準備なく難しい事させる) They threw me in the deep end on my first day.
-  - `in at the deep end`            ([Casual] 準備なく始める)       I was in at the deep end with no training.
+- `throw O in the deep end`         ([Casual] 準備なく難しい事させる) They threw me in the deep end on my first day.
+  - `be in at the deep end`         ([Casual] 準備なく始める)       I was in at the deep end with no training.
   - `jump in the deep end`          ([Casual] 自ら難しい事に飛込む) I decided to jump in the deep end.
   - `sink or swim`                  ([Casual] 自力でやるしかない)   It's sink or swim in this job.
   - `trial by fire`                 ([Neutral] 厳しい試練)          My first week was a trial by fire.
@@ -410,3 +350,29 @@
   - `dive in`                       ([Casual] 飛び込む)             Just dive in and start working.
   - `plunge in`                     ([Neutral] 突入する)            We decided to plunge in headfirst.
   - `take the plunge`               ([Casual] 思い切ってやる)       I finally took the plunge and quit.
+- `can't believe one's eyes`        ([Casual] 信じられない)         I can't believe my eyes! You really bought me a new car!
+  - `couldn't believe one's ears`   ([Casual] 信じられない)         I couldn't believe my ears when they announced the winner.
+  - `jaw dropped`                   ([Casual] 驚いた)               My jaw dropped when I saw the price.
+  - `blown away`                    ([Casual] 驚かされた)           I was blown away by the performance.
+  - `taken aback`                   ([Neutral] 驚いた)              I was taken aback by his sudden announcement.
+  - `at a loss for words`           ([Neutral] 言葉を失う)          I was at a loss for words when I heard the news.
+- `I can't catch a break`           ([Casual] 休む暇もない、運悪い) I can't catch a break this week.
+  - `Nothing's going my way`        ([Casual] 何もうまくいかない)   Nothing's going my way today.
+  - `I'm having bad luck`           ([Neutral] 運が悪い)            I'm having bad luck with my car.
+  - `Everything's going wrong`      ([Neutral] 全て悪い方向)        Everything's going wrong lately.
+  - `I can't get anything right`    ([Casual] 何も上手くできない)   I can't get anything right today.
+  - `It's not my day`               ([Casual] ついてない日)         It's just not my day.
+  - `Things aren't working out for me`([Neutral] うまくいかない)      Things aren't working out for me.
+  - `I'm cursed`                    ([Casual] 呪われている)         I feel like I'm cursed.
+  - `I'm jinxed`                    ([Casual] 呪われている)         I must be jinxed or something.
+  - `I'm snake-bitten`              ([Casual] ついていない)         I've been snake-bitten all week.
+  - `I'm star-crossed`              ([Writing] 運命に翻弄される)    We seem to be star-crossed lovers.
+  - `I'm down on my luck`           ([Neutral] 運が落ちている)      I've been down on my luck lately.
+  - `Murphy's Law is in full effect`([Casual] マーフィーの法則)     Murphy's Law is in full effect today.
+  - `no luck`                       ([Casual] 無理、うまくいかない) I tried to fix it, but no luck.
+  - `to no avail`                   ([Writing] 無駄に、甲斐なく)    All his efforts were to no avail.
+  - `without success`               ([Writing] 成功せずに)          He tried to start the car without success.
+  - `no dice`                       ([Casual] だめだ、無理だ)       I asked for a refund, but no dice.
+  - `out of luck`                   ([Casual] 運が悪い、ダメだった) Sorry, you're out of luck today.
+  - `tough luck`                    ([Casual] 残念だったね)         You missed it? Tough luck.
+

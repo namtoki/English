@@ -77,3 +77,30 @@
 - `It doesn't mean anything that S V`   ([Neutral] ～したからといって何の意味もない) `It doesn't mean anything that he apologized if he doesn't change.`
 - `We'll see whether S V`               ([Neutral] ～かどうか見てみよう) `We'll see whether the new plan works.`
 - `That's not to say (that) S V`        ([Neutral] だからといって～というわけではない) `That's not to say that` I disagree, but I have some concerns.
+
+  - ==it's not always the case that== ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
+  - `that's not to say that S V`    ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
+
+- `There're times when S V`         ([Neutral] ～する時もある)      There're times when I feel overwhelmed with work.
+- `There's a side to A that S V`    ([Neutral] 一面がある)          There's a side to her that most people never see.
+  - ==any O will do as long as S V==  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
+
+- `What are the chances that` S V?  ([Casual] S V の可能性は？)     `What are the chances that` the meeting will finish early?
+  - `How likely is it that` S V?    ([Neutral] S V の可能性は？)    `How likely is it that` the project will be delayed?
+
+- `S V-ing. That is C`              ([Neutral] している。それはCだ) Working overtime. That is exhausting.
+  - `S V-ing, that'd be C`          ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.
+  - `S V. That I V`                 ([Neutral] Vだ。それは私がVだ)  It's raining. That I don't mind at all.
+  - `that's the way S V`            ([Neutral] このやり方が)        That's the way I like it. / That's the way I prefer it.
+- `that doesn't mean S V`           ([Neutral] S V とは限らない)    He's quiet, but that doesn't mean he's unfriendly.
+  - `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
+  - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
+- ==A is one thing, but B is another==([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
+- `It's a custom to V`              ([Neutral] ～する習慣がある)    It's a custom to give gifts during the holidays.
+  - `It's traditional to V`         ([Neutral] ～するのが伝統だ)    It's traditional to celebrate New Year's with family.
+- `I'm V-ing ... at the moment.`    ([Casual] 今まさに～している)   I'm working on the report at the moment.
+  - `I'm still working on it`       ([Casual] まだ取り組んでいる)   I'm still working on it, but I should be done soon.
+  - `I'm in the middle of something`([Casual] 今手が離せない)       I'm in the middle of something right now, can I call you back?
+  - `I've got my hands full`        ([Casual] 手がいっぱいだ)       `I've got my hands full` with this project right now.
+- `Leave it there`                  ([Casual] それで終わりにしよう) Let's `leave it there` for today.
+  - `So much for O`                 ([Casual] これで終わ,期待外れ)  `So much for` our plans to go hiking.
