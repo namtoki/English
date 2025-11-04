@@ -21,24 +21,8 @@
 - `I get the impression (that)`     ([Neutral] ～な印象を受ける)    I get the impression that she's upset.
 
 ## Opinion
-- `I think` /aɪ θɪŋk/               ([Casual] 私は思う)             I think we should leave now.
-  - `It's more    of` O             ([Neutral] どちらかと言えば〜)  It’s more of a suggestion than a rule.
-  - `It's         like` O           ([Casual] まるでOみたい)        It's like a dream come true.
-  - `It's not     like` O           ([Casual] ～ってわけじゃない)   It's not like a traditional classroom.
-  - `It's just    like` O           ([Casual] まさにOだ)            It's just like running a marathon every day!
-  - `It's almost  like` O           ([Casual] ほとんどOみたい)      It's almost like we're starting from scratch.
-  - `It's kind of like` O           ([Casual] ちょっとOっぽい)      It's kind of like a puzzle you have to solve.
-  - `It's more    like` O           ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
-  - `It's not               that`   ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
-  - `It's just              that`   ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
-  - `It's more              that`   ([Neutral] どちらかというと)    It's more that I need some time to think.
-  - `It's not      the fact that`   ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
-  - `It's not just the fact that`   ([Neutral] だけが理由じゃない)  It's not just the fact that you called ...
-  - `It's not that A but (that) B`  ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
-  - `My concern is that S V`        ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
-  - `My understanding is (that)`    ([Neutral] 私の理解では)        My understanding is that we start Monday.
-  - `My take is` /maɪ teɪk ɪz/      ([Casual] 私の見方は)           My take is that we should proceed.
-- `I believe`                       ([Neutral] 私は信じる)          I believe we can achieve this goal.
+- `I think`                         ([Casual] 私は思う)             I think we should leave now.
+  - `I believe`                     ([Neutral] 私は信じる)          I believe we can achieve this goal.
   - `I bet`                         ([Casual] きっと～だ)           I bet he forgot about the meeting.
   - `I hope`                        ([Neutral] ～であってほしい)    I hope everything goes smoothly tomorrow.
   - ==I assume==                      ([Neutral] ～だと仮定する)      I assume you've heard the news.
@@ -55,12 +39,29 @@
   - `It's reasonable that    `      ([Neutral] ～は妥当だ)          It's reasonable that they need more time.
   - `It stands to reason that    `  ([Formal] ～は当然だ)           It stands to reason that costs will rise.
   - `It's understandable that    `  ([Neutral] ～は理解できる)      It's understandable that she's upset.
+- ==My concern is that==              ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
+  - `My understanding is (that)`    ([Neutral] 私の理解では)        My understanding is that we start Monday.
+  - `My take is`                    ([Casual] 私の見方は)           My take is that we should proceed.
+- ==There're times when==             ([Neutral] ～する時もある)      There're times when I feel overwhelmed with work.
+  - `There's a side to A that`      ([Neutral] 一面がある)          There's a side to her that most people never see.
+
+  - `It's not               that`   ([Neutral] ～というわけじゃない)It's not that I don't want to help, but I'm really busy.
+  - `It's just              that`   ([Casual] ただ～なだけ)         It's just that I was busy, so I couldn't reply.
+  - `It's more              that`   ([Neutral] どちらかというと)    It's more that I need some time to think.
+  - `It's not      the fact that`   ([Neutral] ～が問題じゃない)    It's not the fact that I find him boring.
+  - `It's not just the fact that`   ([Neutral] だけが理由じゃない)  It's not just the fact that you called ...
+  - `It's more    of` O             ([Neutral] どちらかと言えば〜)  It’s more of a suggestion than a rule.
+  - `It's         like` O           ([Casual] まるでOみたい)        It's like a dream come true.
+  - `It's not     like` O           ([Casual] ～ってわけじゃない)   It's not like a traditional classroom.
+  - `It's just    like` O           ([Casual] まさにOだ)            It's just like running a marathon every day!
+  - `It's almost  like` O           ([Casual] ほとんどOみたい)      It's almost like we're starting from scratch.
+  - `It's kind of like` O           ([Casual] ちょっとOっぽい)      It's kind of like a puzzle you have to solve.
+  - `It's more    like` O           ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
+  - `It's not that A but (that) B`  ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
 
   - ==it's not always the case that== ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
   - `that's not to say that S V`    ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
 
-- `There're times when S V`         ([Neutral] ～する時もある)      There're times when I feel overwhelmed with work.
-- `There's a side to A that S V`    ([Neutral] 一面がある)          There's a side to her that most people never see.
   - ==any O will do as long as S V==  ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
 
 
