@@ -2031,7 +2031,6 @@
 - `bracket`                            ([Neutral] かっこで囲む、腕木をつける)
 - `bridle`                            ([Neutral] 馬にくつわを付ける)
 - `bruise`                            ([Neutral] 打ち傷をつける、あざをつける)
-- `clinch`                            ([Neutral] 決着をつける、釘やねじの先を曲げて留める)
 - `daub`                            ([Neutral] 塗りつける、汚す)
 - `dip`                            ([Neutral] ちょっとつける、すくい上げる)
 - `disfigure`                            ([Neutral] 外観を損なう、傷をつける)
@@ -2636,6 +2635,7 @@
 - `rampart`                            ([Neutral] 城壁で囲む)
 - `rapture`                            ([Neutral] 有頂天にさせる)
 - `recapture`                            ([Neutral] 再び捕らえる、取り戻す、思い出す)
+- `repeat` /rɪˈpiːt/                    ([Neutral] 繰り返す)           Please repeat what you said.
 - `recompense`                            ([Neutral] 報いる)
 - `rind`                            ([Neutral] 外皮をはぐ)
 - `rinse`                            ([Neutral] すすぐ)

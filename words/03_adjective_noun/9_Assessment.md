@@ -354,6 +354,15 @@
 - `disgrace` /dɪsˈɡreɪs/            ([Formal] 恥辱、不名誉)         His behavior was a disgrace to the family.
 - `affront` /əˈfrʌnt/               ([Formal] 侮辱、怒らせる)       His comment was an affront to my dignity.
 
+## BORING / MONOTONOUS / REPETITIVE
+- `boring` /ˈbɔːrɪŋ/                ([Neutral] 退屈な、つまらない)  What a boring film that was!
+- `dull` /dʌl/                      ([Neutral] 退屈な、鈍い)        Life in a small town could be dull.
+- `monotonous` /məˈnɑtənəs/         ([Neutral] 単調な)              It's monotonous work, like most factory jobs.
+- `redundant` /rɪˈdʌndənt/          ([Neutral] 冗長な、不必要な)    The picture has too much redundant detail.
+- `repetition` /ˌrepəˈtɪʃən/        ([Neutral] 繰り返し、反復)      We do not want a repetition of last year's events.
+- `repetitive` /rɪˈpetətɪv/         ([Neutral] 繰り返しの、単調な)  The work is repetitive and boring.
+- `tedious` /ˈtiːdiəs/              ([Neutral] 退屈な、くどい)      The journey soon became tedious.
+
 ## REASSURANCE
 - `reassurance` /ˌriːəˈʃʊrəns/      ([Neutral] 安心、元気づけ)      He needed reassurance before the surgery.
 

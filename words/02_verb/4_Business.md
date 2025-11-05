@@ -197,7 +197,7 @@
   - `be almost finished`            ([Neutral] ほとんど終わている)  We're almost finished with testing.
 
 ## Result
-- `work out` /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
+- ==work out== /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
   - `go well` /ɡoʊ wel/             ([Neutral] 順調にいく)          The project is going well.
   - `work out well`                 ([Neutral] うまくいく)          The meeting worked out well.
   - `turn out well`                 ([Neutral] 結果的にうまくいく)  Everything turned out well.
@@ -226,8 +226,8 @@
   - `fulfill` /fʊlˈfɪl/             ([Formal] 履行する、実現する)   He fulfilled his promise.
   - `attain` /əˈteɪn/               ([Formal] 達成する、獲得する)   We worked hard to attain our goals.
   - `bring to completion`           ([Formal] 完成まで導く)         We need to bring this project to completion.
-- `come together`                   ([Neutral] まとまる)            The project is finally coming together.
-  - `fall into place`               ([Neutral] うまくまとまる)      The presentation is falling into place.
+- ==come together==                   ([Neutral] まとまる)            The project is finally coming together.
+  - ==fall into place==               ([Neutral] うまくまとまる)      The presentation is falling into place.
   - `click into place`              ([Casual] うまくいく、合う)     Everything just clicked into place.
   - `gel` /dʒel/                    ([Casual] うまく合う)           The team is starting to gel.
   - `mesh` /meʃ/                    ([Neutral] うまく合う)          Their ideas mesh perfectly.
@@ -247,20 +247,20 @@
   - `seal` /siːl/                   ([Neutral] 確定する、封じる)    They sealed the deal.
   - `wrap up` /ɹæp ʌp/              ([Casual] 完了する、決める)     Let's wrap up this project.
 
-## STEP (I'll start off by / Let's move on to)
-- `start off with` /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
+## Step
+- ==start off with== /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
   - `begin with` /bɪˈɡɪn wɪð/       ([Neutral] ～で始める)          Begin with the basics.
   - `kick off with` /kɪk ɔːf wɪð/   ([Casual] ～で始める)           Let's kick off with introductions.
   - `lead off with` /liːd ɔːf wɪð/  ([Neutral] ～で始める)          She led off with a joke.
   - `open with` /ˈoʊpən wɪð/        ([Neutral] ～で始める)          The show opened with a song.
   - `commence with` /kəˈmens wɪð/   ([Formal] ～で始める)           The ceremony commenced with a speech.
-- `start off by` /stɑːrt ɔːf baɪ/   ([Neutral] ～することから始る)  Start off by reading the instructions.
+- ==start off by== /stɑːrt ɔːf baɪ/   ([Neutral] ～することから始る)  Start off by reading the instructions.
   - `begin by` /bɪˈɡɪn baɪ/         ([Neutral] ～することから始る)  Begin by understanding the problem.
   - `kick off by` /kɪk ɔːf baɪ/     ([Casual] ～することから始める) We'll kick off by reviewing last week.
   - `lead off by` /liːd ɔːf baɪ/    ([Neutral] ～することから始る)  He led off by thanking everyone.
   - `open by` /ˈoʊpən baɪ/          ([Neutral] ～することから始る)  Open by stating your name.
   - `commence by` /kəˈmens baɪ/     ([Formal] ～することから始める) Commence by reading the instructions.
-- `move on to` /muːv ɑːn tuː/       ([Neutral] 次に進む、移る)      Let's move on to the next topic.
+- ==move on to== /muːv ɑːn tuː/       ([Neutral] 次に進む、移る)      Let's move on to the next topic.
   - `go to` /ɡoʊ tuː/               ([Neutral] 移る、向かう)        Let's go to the next agenda item.
   - `move to` /muːv tuː/            ([Neutral] 移る、移動する)      Let's move to the next agenda item.
   - `get to` /ɡet tuː/              ([Neutral] 取りかかる、到達する)Let's get to the next agenda item.
@@ -273,8 +273,8 @@
   - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
   - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
 
-## TRAITS (have an effect on / is related to / have something to do with / have things in common / It all comes down to)
-- `have an effect on`               ([Neutral] 影響を与える)        The weather can have an effect on mood.
+## Traits
+- ==have an effect on==               ([Neutral] 影響を与える)        The weather can have an effect on mood.
   - `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
   - `influence` /ˈɪnfluəns/         ([Neutral] 影響する、左右する)  Weather influences our mood.
   - `have an impact on`             ([Neutral] 影響を与える)        Your words have an impact on people.
@@ -286,41 +286,40 @@
   - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、決める)    Several factors determine the outcome.
   - `guide` /ɡaɪd/                  ([Neutral] 導く、指導する)      Let principles guide your actions.
   - `direct` /dəˈrekt/              ([Neutral] 指示する、導く)      She directs the operations.
-  - `sway` /sweɪ/                   ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
-  - `rub off on` /rʌb ɔːf ɑːn/      ([Casual] 影響を与える)         Her enthusiasm rubbed off on the team.
+  - ==sway== /sweɪ/                   ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
+  - ==rub off on== /rʌb ɔːf ɑːn/      ([Casual] 影響を与える)         Her enthusiasm rubbed off on the team.
   - `dictate` /dɪkˈteɪt/            ([Neutral] 左右する、決定する)  Market forces dictate the price.
   - `govern` /ˈɡʌvərn/              ([Formal] 支配する、左右する)   Supply and demand govern prices.
   - `steer` /stɪr/                  ([Neutral] 導く、左右する)      He steered the conversation away.
   - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
   - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
   - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
-- `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
+- ==be related to== /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
   - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
   - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
   - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
   - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
-- `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
+- ==have something to do with==       ([Neutral] 何か関係がある)      It has something to do with the weather.
   - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
   - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
   - `have little to do with`        ([Neutral] 関係がほとんどない)  This has little to do with money.
   - `have everything to do with`    ([Neutral] 全て関係がある)      This has everything to do with trust.
-- `have things in common`           ([Casual] 共通点がある)         Do we have things in common?
+- ==have things in common==           ([Casual] 共通点がある)         Do we have things in common?
   - `have a lot in common`          ([Neutral] 共通点が多い)        We have a lot in common.
   - `have little in common`         ([Neutral] 共通点が少ない)      They have little in common.
   - `have nothing in common`        ([Neutral] 共通点がない)        We have nothing in common.
   - `have similarities`             ([Neutral] 類似点がある)        The two cases have similarities.
   - `have no similarities`          ([Neutral] 類似点がない)        These systems have no similarities.
   - `have commonalities`            ([Formal] 共通性がある)         The cultures have commonalities.
-- `come down to` /kʌm daʊn tu/      ([Casual] ～に帰着する)         It all comes down to hard work.
+- ==come down to== /kʌm daʊn tu/      ([Casual] ～に帰着する)         It all comes down to hard work.
   - `boil down to` /bɔɪl daʊn tu/   ([Neutral] 要するに～である)    The issue boils down to money.
   - `depend on` /dɪˈpend ɑːn/       ([Neutral] ～に依存する)        Success depends on hard work.
-  - `result in` /rɪˈzʌlt ɪn/        ([Neutral] ～という結果になる)  Hard work results in success.
   - `amount to` /əˈmaʊnt tu/        ([Neutral] ～に等しい、要するに)His excuse amounts to nothing.
   - `center on` /ˈsentər ɑːn/       ([Neutral] ～を中心とする)      The debate centers on healthcare.
+  - ==hinge on== /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.
   - `reduce to` /rɪˈdus tu/         ([Neutral] ～に減らす、要約する)The problem reduces to a simple question.
   - `stem from` /stem frʌm/         ([Neutral] ～に由来する)        The problem stems from poor planning.
   - `revolve around`                ([Neutral] ～を中心とする)      The story revolves around family.
-  - `hinge on` /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.
 - `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
   - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
   - `be good to go`                 ([Casual] 準備万端)             We're good to go!
@@ -334,7 +333,7 @@
   - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
   - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
 
-## COGNITIVE (I don't get it / recognize)
+## Cognitive
 - `get` /ɡet/                       ([Casual] 理解する)             I get what you mean.
   - `understand` /ˌʌndərˈstænd/     ([Neutral] 理解する)            I understand your concern.
   - `see` /siː/                     ([Neutral] 想像する、理解する)  I can see that happening.
@@ -384,7 +383,7 @@
   - `pinpoint` /ˈpɪnpɔɪnt/          ([Neutral] 正確に特定する)      We need to pinpoint the problem.
   - `differentiate` /ˌdɪfəˈrenʃieɪt/([Formal] 区別する、差別化する) It's important to differentiate the brands.
 
-## COGNITIVE (think / consider)
+## Cognitive
 - `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
   - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
   - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
@@ -395,13 +394,13 @@
   - `sleep on` /sliːp ɒn/           ([Casual] 一晩考える)           Let me sleep on it and give you an answer tomorrow.
   - `reflect on` /rɪˈflekt ɒn/      ([Neutral] 振り返って考える)    I need time to reflect on what happened.
   - `mull over` /mʌl ˈəʊvə/         ([Neutral] じっくり考える)      I need to mull over the decision.
-  - `weigh up` /weɪ ʌp/             ([Neutral] 比較検討する)        We need to weigh up all the pros and cons.
+  - ==weigh up== /weɪ ʌp/             ([Neutral] 比較検討する)        We need to weigh up all the pros and cons.
   - `chew over` /tʃuː ˈəʊvə/        ([Casual] じっくり考える)       Let me chew over your idea for a bit.
   - `contemplate` /ˈkɒntəmpleɪt/    ([Formal] 熟考する、検討する)   I'm contemplating a career change.
   - `ponder` /ˈpɒndə/               ([Formal] じっくり考える)       He pondered the question for a moment.
   - `deliberate` /dɪˈlɪbəreɪt/      ([Formal] 熟考する、審議する)   The jury deliberated for two hours.
-- `come up with` /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
-  - `get an idea` /ɡet ən aɪˈdiːə/  ([Neutral] アイデアを思いつく)  I just got an idea!
+- ==come up with== /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
+  - ==get an idea== /ɡet ən aɪˈdiːə/  ([Neutral] アイデアを思いつく)  I just got an idea!
   - `hit on` /hɪt ɑːn/              ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
   - `devise` /dɪˈvaɪz/              ([Formal] 考案する、工夫する)   They devised a new strategy.
   - `formulate` /ˈfɔːrmjəleɪt/      ([Formal] 策定する、考案する)   They formulated a plan.

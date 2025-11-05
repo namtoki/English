@@ -11,6 +11,12 @@
 - `aboriginal` /ˌæbəˈrɪdʒɪnəl/     ([Formal] 先住の、原住の)        The aboriginal peoples of Australia have a rich culture.
 - `aboriginally` /ˌæbəˈrɪdʒɪnəli/ ([Formal] 原初から)            The land was aboriginally inhabited by tribes.
 - `aborigine` /ˌæbəˈrɪdʒɪni/     ([Formal] 原住民)              The aborigines were the first inhabitants.
+- `borough` /ˈbɝoʊ/                ([Writing] 自治町村)           The Bronx is one of the five boroughs of New York.
+- `district` /ˈdɪstrɪkt/           ([Neutral] 地区)               The city is divided into several districts.
+- `municipality` /mjuːˌnɪsɪˈpælɪti/ ([Writing] 自治体)            The floods hit 78 municipalities.
+- `precinct` /ˈpriːsɪŋkt/          ([Neutral] 管区、警察署)       Officers took him to a local precinct.
+- `township` /ˈtaʊnʃɪp/            ([Neutral] 郡区)               Voting will not be possible in 56 townships.
+- `ward` /wɔːrd/                   ([Neutral] 区、選挙区)         Only six out of 25 wards were contested.
 
 ## MONEY (MONEY / SAVINGS / INCOME / SPENDING / LUCRATIVE)
 > `money` /ˈmʌni/                   ([Neutral] お金)                I need to save more money.

@@ -737,6 +737,12 @@
 - `kind of thing`                   ([Neutral] 〜的なもの)          It's not my `kind of thing`.
 - `knee` /niː/                       ([Neutral] 膝)                  I scraped my knee when I fell.
 - `knot` /nɒt/                       ([Neutral] 結び目、もつれ)        I tied a knot in the rope.
+- `boy` /bɔɪ/                        ([Neutral] 少年、男の子)       I used to play here as a boy.
+- `kid` /kɪd/                        ([Casual] 子供)                 He took the kids to the park.
+- `lad` /læd/                        ([Casual] 少年、若者)           Come along, lad. Time for you to get home.
+- `teenager` /ˈtiːneɪdʒər/           ([Neutral] 10代の若者)         The magazine is aimed at teenagers.
+- `youngster` /ˈjʌŋstər/             ([Neutral] 若者、子供)          The camp is for youngsters aged 8 to 14.
+- `youth` /juːθ/                     ([Neutral] 若者、青年期)        In my youth my ambition had been to be an inventor.
 - `laborious` /ləˈbɔːriəs/          ([Writing] 骨の折れる)          It was a laborious process.
 - `landlady` /ˈlændleɪdi/         ([Neutral] 女性大家)            The landlady lives downstairs.
 - `landlord` /ˈlændlɔːrd/           ([Neutral] 大家、家主)          The landlord raised the rent.
@@ -777,6 +783,12 @@
 - `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
 - `many more`                     ([Neutral] ずっと多く)          Many more people joined.
 - `masses of`                     ([Casual] 大量の)               Masses of people attended.
+- `flagpole` /ˈflæɡpoʊl/             ([Neutral] 旗竿)                The new flag was hoisted up the flagpole.
+- `mast` /mæst/                      ([Neutral] マスト、柱)          The yacht lost its mast during the storm.
+- `pole` /poʊl/                      ([Neutral] 柱、棒)              The truck crashed into a telegraph pole.
+- `post` /poʊst/                     ([Neutral] 支柱、柱)            The device is fixed to a post.
+- `pylon` /ˈpaɪlɑːn/                 ([Neutral] 鉄塔、送電塔)        The bridge is supported by concrete pylons.
+- `spar` /spɑːr/                     ([Neutral] 帆柱、円材)          The mast was a solid spruce spar.
 - `mayhem` /ˈmeɪhem/                ([Neutral] 大混乱、騒乱)        The storm caused mayhem in the city.
 - `measure up` /ˈmeʒər ʌp/          ([Neutral] 基準に達する)        He doesn't measure up to the job.
 - `measured` /ˈmeʒərd/              ([Neutral] 測定された、慎重な)  He spoke in measured tones.

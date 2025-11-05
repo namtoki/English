@@ -101,6 +101,7 @@
   - `invariably` /ɪnˈveəriəbli/     ([Formal] 変わることなく)       He's invariably late.
   - `constantly` /ˈkɑːnstəntli/     ([Neutral] 絶えず、常に)        She's constantly worried about her children.
   - `regularly` /ˈreɡjələrli/       ([Neutral] 定期的に)            I exercise regularly.
+  - `repeatedly` /rɪˈpiːtɪdli/      ([Neutral] 繰り返し、何度も)    He repeatedly denied the claims.
   - `routinely` /ruːˈtiːnli/        ([Neutral] 習慣的に、定期的に)  The equipment is routinely inspected.
   - `habitually` /həˈbɪtʃuəli/      ([Formal] 習慣的に)             He habitually arrives late.
 - `continuously` /kənˈtɪnjuəsli/    ([Neutral] 連続して)            The machine runs continuously.
