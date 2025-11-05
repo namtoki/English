@@ -1436,3 +1436,27 @@
   - `naivety` /naɪˈiːvəti/           ([Neutral] 無邪気さ、世間知らず) His naivety is almost charming.
 > `oblivious` /əˈblɪviəs/            ([Neutral] 気づかない、無頓着な) She was oblivious to the danger.
   - `obliviousness`                  ([Neutral] 無頓着、無自覚)      His obliviousness is frustrating.
+
+
+## OPPOSITE / REVERSE (the other way around / vice versa)
+> `the other way around`            ([Casual] 逆)                   I thought you called me, not the other way around.
+  - `the other way round`           ([Casual] 逆)                   Put the fork on the left, not the other way round.
+  - `vice versa` /ˌvaɪsi ˈvɜːrsə/   ([Neutral] 逆もまた同様)        I help you and vice versa.
+  - `inversely` /ɪnˈvɜːrsli/        ([Formal] 逆に)                 Price increases inversely with demand.
+  - `contrarily` /ˈkɑːntrərəli/     ([Formal] 反対に)               Contrarily, evidence shows otherwise.
+
+## PRIVACY / BOUNDARIES
+> `none of one's business`          ([Neutral] 関係ない、余計なお世話) That's none of your business.
+  - `not one's concern`             ([Neutral] 関係ない)            How I spend my money is not your concern.
+  - `mind one's own business`       ([Casual] 自分の事だけ気にする) Why don't you mind your own business?
+  - `stay out of`                   ([Casual] 首を突っ込まない)     Please stay out of this matter.
+  - `keep out of`                   ([Neutral] 関わらない)          I try to keep out of office politics.
+  - `butt out`                      ([Casual] 首を突っ込むな)       Just butt out, okay?
+
+> `no good`                         ([Casual] 良くない)             This plan is no good.
+  - `no use`                         ([Casual] 役に立たない)         It's no use trying to fix it now.
+  - `not worth it`                   ([Casual] 価値がない)           The effort is not worth it.
+  - `useless`                        ([Casual] 役に立たない)         This tool is useless for our needs.
+> `better than nothing`              ([Casual] ないよりマシ)         It's not perfect, but it's better than nothing.
+  - `something is better than nothing` ([Neutral] 何かはないよりマシ)  Even a small donation is better than nothing.
+
