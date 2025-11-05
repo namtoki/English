@@ -157,37 +157,48 @@
   - `I didn't catch that`           ([Casual] 聞き取れなかった)     I didn't catch that. Could you repeat?
 - ==Come again?==                     ([Casual] もう一回言って)       Come again? I didn't catch that.
   - `Sorry, what?`                  ([Casual] え、何？)             Sorry, what? I missed that.
+- ==Please go ahead. I'll take any questions at the end==
 - ==I'm fine with==                   ([Casual] Oで大丈夫/で構わない) I'm fine with either option, so go ahead and choose.
   - `I'm okay with`                 ([Casual] それで大丈夫)         I'm okay with any option you choose.
   - ==I'm not particular about it==   ([Casual] こだわりはないよ)     I'm not particular about it, so whatever works for you is fine.
   - `Nothing in particular`         ([Casual] 特にありません)       Do you have any preferences? Nothing in particular.
   - `It doesn't matter`             ([Casual] どうでもいいよ)       Do you want coffee or tea? It doesn't matter.
-- `No rush`                         ([Casual] 急がなくていいよ)     `No rush,` take your time finishing the project.
-  - `Take your time with O`         ([Casual] ゆっくりやっていいよ) `Take your time with` the report; no rush.
-  - `No pressure to V`              ([Casual] 無理しなくていいよ)   `No pressure to` decide right now.
+- `No rush`                         ([Casual] 急がなくていいよ)     No rush, take your time finishing the project.
+  - `Take your time with O`         ([Casual] ゆっくりやっていいよ) Take your time with the report; no rush.
+  - `No pressure to V`              ([Casual] 無理しなくていいよ)   No pressure to decide right now.
   - `Don't feel pressured to V`     ([Casual] プレッシャ感じないで) Don't feel pressured to say yes.
   - `No obligation to V`            ([Neutral] ～する義務はないよ)  There's no obligation to attend.
   - `You don't have to V`           ([Casual] ～しなくていいよ)     You don't have to answer right away.
   - `Feel free to say no`           ([Casual] 断っていいよ)         Feel free to say no if you're busy.
   - `Only if you want to`           ([Casual] したいならだけだよ)   Come along, but only if you want to.
-  - `It's not urgent.`              ([Neutral] 急ぎじゃないよ)      `It's not urgent`, so you can handle it later.
-  - `There is no particular urgency.`([Formal] 特に急ぎありません)  `There is no particular urgency` for this task.
-  - `Please handle it at your convenience.`([Formal] ご都合のよい時に) `Please handle it at your convenience.`
-- `You name it`                     ([Casual] なんでも言って)       We have coffee, tea, juice—`you name it.`
+  - `It's not urgent.`              ([Neutral] 急ぎじゃないよ)      It's not urgent, so you can handle it later.
+  - `There is no particular urgency.`([Formal] 特に急ぎありません)  There is no particular urgency for this task.
+  - `Please handle it at your convenience.`([Formal] ご都合のよい時に) Please handle it at your convenience.
+- `You name it`                     ([Casual] なんでも言って)       We have coffee, tea, juice—you name it.
 - ==That would be great==             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
   - `That'd be perfect`             ([Casual] それは完璧だ)         That'd be perfect for our meeting schedule.
 - `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
   - `It is what it is`              ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
   - `That's just me`                ([Casual] それが私だから)       I can't help being late. That's just me.
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
-- `I hope not`                      ([Casual] そうじゃないといいな) `I hope not,` because that would be a big problem.
-- `I hope I'm not interrupting you.`([Casual] 邪魔していなければいいんだけど) `I hope I'm not interrupting you, but` could I ask a quick question?
+- `I hope not`                      ([Casual] そうじゃないといいな) I hope not, because that would be a big problem.
+- `I hope I'm not interrupting you.`([Casual] 邪魔なければいいけど) I hope I'm not interrupting you, but could I ask a quick question?
 - ==this is just one possibility==    ([Neutral] 可能性の話しだけど)  There may be other approaches as well — this is just one possibility.
   - `this is one option`            ([Neutral] これは一つの選択肢)  This is one option we could consider.
   - `this is one approach`          ([Neutral] これは一つの方法)    This is one approach to solving the problem.
   - `this is one alternative`       ([Neutral] これは一つの代替案)  This is one alternative to the current plan.
   - `this is merely a suggestion`   ([Neutral] これはただの提案)    This is merely a suggestion, not a requirement.
   - `this is simply one scenario`   ([Neutral] 単に一つのシナリオ)  This is simply one scenario we might face.
+- ==A is one thing, but B is another==([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
+- `I'm V-ing ... at the moment.`    ([Casual] 今まさに～している)   I'm working on the report at the moment.
+  - `I'm still working on it`       ([Casual] まだ取り組んでいる)   I'm still working on it, but I should be done soon.
+  - `I'm in the middle of something`([Casual] 今手が離せない)       I'm in the middle of something right now, can I call you back?
+  - `I've got my hands full`        ([Casual] 手がいっぱいだ)       I've got my hands full with this project right now.
+- `Leave it there`                  ([Casual] それで終わりにしよう) Let's leave it there for today.
+  - `So much for O`                 ([Casual] これで終わ,期待外れ)  So much for our plans to go hiking.
+- ==The same goes for O==             ([Neutral] Oも同様だ)           The same goes for our international team.
+  - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
+  - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
 
 ## Confirmation
 - `Are you okay?`                   ([Casual] 大丈夫？)             Are you okay? You look tired.
@@ -201,40 +212,40 @@
   - ==Everything alright?==           ([Casual] 大丈夫？)             Everything alright with your order?
 
 ## Question
-- ==Does that sound C?==              ([Casual] C のように聞こえる？) `Does that sound` good?
-- ==What's your take on O?==          ([Casual] どう思う？)           `What's your take on` the new iPhone?
+- ==Does that sound C?==              ([Casual] C のように聞こえる？) Does that sound good?
+- ==What's your take on O?==          ([Casual] どう思う？)           What's your take on the new iPhone?
   - `Any thoughts on O?`            ([Casual] 何か意見ある？)
-  - `How do you feel about O?`      ([Neutral] どう思いますか？)    `How do you feel about` the service in Japan?
-  - `How do you like O?`            ([Neutral] O は好きですか？)    `How do you like` your new shoes?
-  - `What do you think about O?`    ([Neutral] どう思いますか？)    `What do you think about` moving to Osaka?
+  - `How do you feel about O?`      ([Neutral] どう思いますか？)    How do you feel about the service in Japan?
+  - `How do you like O?`            ([Neutral] O は好きですか？)    How do you like your new shoes?
+  - `What do you think about O?`    ([Neutral] どう思いますか？)    What do you think about moving to Osaka?
 - `Should the focus be on` A or B?  ([Neutral] A, B どちらに重点？) Should the focus be on product quality or on cost reduction?
   - `Should we focus on` A or B?    ([Neutral] A, B どちらに重点？) Should we focus on increasing sales or ... ?
-- `What's the situation with O?`    ([Neutral] Oの状況はどう？)     `What's the situation with the project deadline?`
-  - `What's going on with O?`       ([Neutral] Oはどうなっている？) `What's going on with the project timeline?`
-- `(By) When ... ?`                 ([Neutral] いつまでですか？)    `(By) When` do I have to finish this?
+- ==What's the situation with O?==    ([Neutral] Oの状況はどう？)     What's the situation with the project deadline?
+  - `What's going on with O?`       ([Neutral] Oはどうなっている？) What's going on with the project timeline?
+- `(By) When ... ?`                 ([Neutral] いつまでですか？)    (By) When do I have to finish this?
 - `Do you have the time?`           ([Neutral] 今何時？)
 - `Do you know anyone in A?`        ([Neutral] A に知り合いはいる？)
-- `How long since S V?`             ([Neutral] S V からどれくらい)  `How long since` you met him?
+- `How long since S V?`             ([Neutral] S V からどれくらい)  How long since you met him?
 - `How was everything?`             ([Polite] お料理はいかがでしたか？)
-- `Is A the same as B?`             ([Neutral] A は B と同じ？)     `Is this the same skirt as` in the ad?
-- `What are you up to?`             ([Casual] 何しようとしているの？)
-- `What do you mean by that?`       ([Casual] それってどういう意味？)
+- `Is A the same as B?`             ([Neutral] A は B と同じ？)     Is this the same skirt as in the ad?
+- ==What are you up to?==             ([Casual] 何しようとしているの？)
+- `What do you mean?`               ([Neutral] どういう意味？)      What do you mean by "restructuring"?
+- ==What do you mean by that?==       ([Casual] それってどういう意味？)
 - `What's it called?`               ([Casual] それは何と呼ばれていますか？)
 - `Would you be more inclined to`   ([Formal] どちらをしたい？)     Would you be more inclined to invest in stocks or real estate?
-- `Would you like O?`               ([Neutral] O が欲しいですか？)  `Would you like` some more?
-- `Would you prefer to V or V?`     ([Neutral] どちらをしたい？)    `Would you prefer to stay home or go out?`
-- `Would you rather V or V?`        ([Neutral] どちらをしたい？)    `Would you rather stay home or go out tonight?`
-- `What do you mean?`               ([Neutral] どういう意味？)      What do you mean by "restructuring"?
+- `Would you like O?`               ([Neutral] O が欲しいですか？)  Would you like some more?
+- `Would you prefer to V or V?`     ([Neutral] どちらをしたい？)    Would you prefer to stay home or go out?
+- `Would you rather V or V?`        ([Neutral] どちらをしたい？)    Would you rather stay home or go out tonight?
 - `Please do me a favor and V`      ([Casual] お願いだから～して)   Please do me a favor and call him.
 - `Do/Would you happen to V?`       ([Polite] たまたま～ですか？)   Do you happen to know the time?
-- `Do you think you could V?`       ([Polite] してもらえる？)       Do you think you could talk to her?
 
 ## Request
 - `Could you V?`                    ([Neutral] してもらえる？)      Could you help me with this?
 - `Would you V?`                    ([Polite] してもらえますか？)   Would you pass me the salt?
 - `Can you V?`                      ([Casual] してくれる？)         Can you send me the file?
+- `Do you think you could V?`       ([Polite] してもらえる？)       Do you think you could talk to her?
 - `Would it be possible to V?`      ([Formal] 可能でしょうか？)     Would it be possible to reschedule?
-- `I'd appreciate it if you could`  ([Formal] してもらえると助る)   I'd appreciate it if you could review this.
+- ==I'd appreciate it if you could==  ([Formal] してもらえると助る)   I'd appreciate it if you could review this.
 - `I was wondering if you could V`  ([Polite] してもらえません？)   I was wondering if you could help me.
 - `I'd be grateful if you could V`  ([Formal] してもらえると感謝)   I'd be grateful if you could assist.
   - `Can you give me a hand?`       ([Casual] 手伝ってくれる？)
@@ -287,20 +298,20 @@
 ## Interjection
 - `I've got it!`                    ([Casual] そうだ！)             Wait — I've got it! What if we try a rotating schedule?"
 - `Here we go`                      ([Casual] さぁ！)               Here we go! Your dinner is ready!
-  - `Here we go`                    ([Casual] はじめましょう)       Have you prepared everything? OK, `here we go`!
-  - `Here we go`                    ([Casual] ハイチーズ)           Sure! Line up in front of that statue! 3, 2, 1, `here we go`!
-  - `Here we are`                   ([Casual] 着いた！)             `Here we are!` Home sweet home.
-  - `Here you go/are`               ([Casual] どうぞ)               `Here you go`. This is the doll you wanted.
+  - `Here we go`                    ([Casual] はじめましょう)       Have you prepared everything? OK, here we go!
+  - `Here we go`                    ([Casual] ハイチーズ)           Sure! Line up in front of that statue! 3, 2, 1, here we go!
+  - `Here we are`                   ([Casual] 着いた！)             Here we are! Home sweet home.
+  - `Here you go/are`               ([Casual] どうぞ)               Here you go. This is the doll you wanted.
   - `be coming right up`            ([Casual] すぐできます)         Your order will be coming right up!
   - `be on one's way`               ([Casual] 向かっています)       Your food is on its way to your table.
   - `be ready in a moment`          ([Casual] すぐできます)         Your coffee will be ready in a moment.
   - `be ready shortly`              ([Neutral] まもなく準備できます) Your table will be ready shortly.
   - `be out in a minute`            ([Casual] すぐ出てきます)       I'll be out in a minute!
   - `be right with you`             ([Casual] すぐ行きます)         I'll be right with you!
-  - `There we go.`                  ([Casual] ほらね／できたよ)     `There we go.` The printer is working again.
-  - `There we are.`                 ([Casual] よし！)               Well, `there we are`. I've finally finished my homework.
-  - `There you go.`                 ([Casual] どうぞ／その調子)     I'm going to go for it! / Yeah, `There you go`!
-- `why`                             ([Casual] おや／あら)           `Why,` I didn't expect to see you here!
+  - `There we go.`                  ([Casual] ほらね／できたよ)     There we go. The printer is working again.
+  - `There we are.`                 ([Casual] よし！)               Well, there we are. I've finally finished my homework.
+  - `There you go.`                 ([Casual] どうぞ／その調子)     I'm going to go for it! / Yeah, There you go!
+- `why`                             ([Casual] おや／あら)           Why, I didn't expect to see you here!
 - `Been there done that`            ([Casual] 経験済み、もういい)   I don't want to try that again. Been there done that.
   - `Story of my life`              ([Casual] いつものこと)         Late again? Story of my life.
   - `I've been there`               ([Casual] 経験したことある)     I've been there - it gets better with time.
@@ -326,7 +337,7 @@
 - `I was on mute`                   ([Casual] ミュートになってた)   Sorry, I was on mute and didn’t hear you.
 - ==the sky's the limit==             ([Neutral] 無限の可能性がある)  With your talent, the sky's the limit.
 - `Just give it time`               ([Casual] 時間が解決してくれる) Just give it time; things will improve.
-- `mum's the word`                  ([Casual] 内緒にしてね)         `Mum's the word` about the surprise party.
+- `mum's the word`                  ([Casual] 内緒にしてね)         Mum's the word about the surprise party.
 - ==simple as that==                  ([Casual] それだけのこと)       Just follow the instructions. Simple as that.
   - `easy as that`                  ([Casual] それだけのこと)       You just need to click here. Easy as that.
   - `as simple as that`             ([Casual] それくらい簡単)       It's as simple as that.

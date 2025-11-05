@@ -1,6 +1,6 @@
 # Aux
 
-## Future
+## Intention
 - ==gotta== /ˈɡɑːtə/                  ([Casual] ～しなきゃ)           I gotta go now.
   - `I had better` /aɪ hæd ˈbetər/  ([Casual] しなきゃ)             I had better get going.
   - `have got to` /hæv ɡɑːt tuː/    ([Casual] ～しなきゃ)           I've got to finish this tonight.
@@ -30,58 +30,18 @@
   - `was supposed to`               ([Neutral] するはずだった)      She was supposed to be here by now.
   - `was going to` /wəz ˈɡoʊɪŋ tuː/ ([Neutral] するつもりだった)    I was going to call but forgot.
   - `meant to` /ment tuː/           ([Neutral] ～するつもりだった)  I meant to call you earlier.
+- ==bite the bullet== /baɪt ðə ˈbʊlɪ  ([Neutral] 覚悟を決める)        I bit the bullet and asked for a raise.
+  - `take the risk` /teɪk ðə rɪsk/  ([Neutral] リスクを取る)        She took the risk and started her own business.
+  - `take the plunge` /teɪk ðə plʌnd([Neutral] 思い切る)            He finally took the plunge and quit.
+- ==go out of one's way to==          ([Neutral] わざわざする)        He always goes out of his way to help his colleagues.
+  - `be more than happy to`         ([Casual] 喜んで～する)         I'm more than happy to help you with the project.
 
 ## Past
 - `used to` /juːst tuː/             ([Neutral] 〜していたものだ)    I used to play tennis every week.
   - `would` /wʊd/                   ([Neutral] よく〜したものだ)    I would walk to school every day.
-- `somehow manage to` /ˈsʌmhaʊ/     ([Neutral] どうにか～する)      I somehow managed to finish on time.
-  - `still manage to` /ˈmænɪdʒ tuː/ ([Neutral] それでもしてしまう)  I still manage to make mistakes.
-  - `barely manage to` /ˈberli/     ([Neutral] かろうじて～する)    I barely managed to catch the bus.
-  - `hardly manage to` /ˈhɑːrdli/   ([Neutral] ほとんど～できない)  I can hardly manage to stay awake.
-  - `just manage to` /dʒʌst/        ([Neutral] なんとか～する)      I just managed to get there.
-  - `can still just about V`        ([Casual] ギリギリできる)       I can still just about make it to the meeting on time.
-
-## Preference
-- ==tend to== /tend tuː/              ([Neutral] 〜しがちである)      I tend to forget names.
-  - `be prone to` /biː proʊn tuː/   ([Neutral] 〜しがちである)      She's prone to headaches.
-  - `be likely to` /ˈlaɪkli tuː/    ([Neutral] 〜しそうである)      He's likely to be late.
-  - `be apt to` /æpt tuː/           ([Neutral] 〜しがちである)      She's apt to overreact.
-  - `have a tendency to`            ([Neutral] 〜する傾向がある)    He has a tendency to procrastinate.
-  - `be inclined to` /ɪnˈklaɪnd tuː/([Neutral] 〜する傾向がある)    I'm inclined to agree with you.
-  - `be liable to` /biː ˈlaɪəbəl tuː([Formal] 〜しがちである)       He's liable to forget important details.
-  - `be susceptible to`             ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
-  - `be vulnerable to`              ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
-  - `be subject to`                 ([Formal] 〜を受けやすい)       Prices are subject to change.
-  - `be predisposed to`             ([Formal] 〜になりやすい)       He's predisposed to anxiety.
-- ==go out of one's way to==          ([Neutral] わざわざする)        He always goes out of his way to help his colleagues.
-  - `be more than happy to`         ([Casual] 喜んで～する)         I'm more than happy to help you with the project.
-- ==have no choice but to==           ([Neutral] 選択肢がない)        I have no choice but to quit.
-  - `forced to` /fɔːrst tuː/        ([Neutral] ～を強いられる)      I was forced to leave early.
-  - `compelled to` /kəmˈpeld tuː/   ([Formal] ～せざるを得ない)     I felt compelled to speak up.
-- `be obligated to` /ˈɑːblɪɡeɪtɪd/  ([Formal] ～する義務がある)     I feel obligated to help.
-  - `be obliged to` /əˈblaɪdʒd tuː/ ([Formal] ～する義務がある)     You're obliged to report it.
-  - `be bound to` /baʊnd tuː/       ([Formal] ～する義務がある)     You're bound to follow the rules.
-  - `be duty-bound to`              ([Formal] ～する義務がある)     I'm duty-bound to report this.
-  - `be mandated to` /ˈmændeɪtɪd/   ([Formal] ～を義務付けられる)   We're mandated to comply.
-
-## + V-ing (I'm used to V-ing / I ended up V-ing / I came close to V-ing)
-- `be used to -ing` /juːzd tuː/     ([Neutral] ～に慣れている)      I'm used to working late.
-  - `get used to -ing`              ([Neutral] ～に慣れる)          I got used to living alone.
-  - `be accustomed to` /əˈkʌstəmd/  ([Formal] ～に慣れている)       She's accustomed to the cold.
-  - `be in the habit of` /ˈhæbɪt/   ([Neutral] ～の習慣がある)      I'm in the habit of jogging daily.
 - `ended up -ing` /end ʌp/          ([Neutral] 結局〜した)          I ended up staying home all day.
-- `come close to -ing`              ([Neutral] 危うくしそうになる)  I came close to missing my flight.
-  - `be on the verge of` /vɜːrdʒ/   ([Neutral] ～の寸前)            She's on the verge of tears.
-  - `be on the point of` /pɔɪnt/    ([Formal] まさに～しようと)     I was on the point of calling you.
-  - `be on the brink of` /brɪŋk/    ([Neutral] ～の瀬戸際)          We're on the brink of success.
-- `I have trouble V-ing`            ([Neutral] するのに苦労してる)  I have trouble understanding technical documents.
 
-## and + V
-- `bite the bullet` /baɪt ðə ˈbʊlɪ  ([Neutral] 覚悟を決める)        I bit the bullet and asked for a raise.
-  - `take the risk` /teɪk ðə rɪsk/  ([Neutral] リスクを取る)        She took the risk and started her own business.
-  - `take the plunge` /teɪk ðə plʌnd([Neutral] 思い切る)            He finally took the plunge and quit.
-
-## It V to V
+## Opinion
 - `it's important to`               ([Neutral] ～することが重要)    It's important to be on time.
   - `it's necessary to`             ([Formal] ～することが必要)     It's necessary to act quickly.
   - `it's essential to`             ([Formal] ～することが不可欠)   It's essential to follow the rules.
@@ -129,14 +89,45 @@
   - `it's useless to`               ([Neutral] ～するのは無駄)      It's useless to complain.
   - `it's wasteful to`              ([Neutral] ～するのは無駄)      It's wasteful to throw that away.
 
-## It V that/how S V (It crosses my mind)
-- `It crosses one's mind`           ([Casual] 頭をよぎる)           It never crossed my mind.
-  - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
-  - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
-  - `It hit 人` /hɪt/               ([Casual] 突然気づく)           It just hit me that we're late.
+## Assumption
+- ==be sure to== /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
+  - `be ==more== likely to`             ([Neutral] する確率が高い)      People are more likely to work in their field.
+  - `be ==less== likely to`             ([Neutral] する確率が低い)      It's less likely to get broken if you wrap it.
 
-- `be sure to` /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
-  - `be more likely to`             ([Neutral] する確率が高い)      People are more likely to work in their field.
-  - `be less likely to`             ([Neutral] する確率が低い)      It's less likely to get broken if you wrap it.
+## Status
+- `be used to -ing` /juːzd tuː/     ([Neutral] ～に慣れている)      I'm used to working late.
+  - `get used to -ing`              ([Neutral] ～に慣れる)          I got used to living alone.
+  - `be accustomed to` /əˈkʌstəmd/  ([Formal] ～に慣れている)       She's accustomed to the cold.
+  - `be in the habit of` /ˈhæbɪt/   ([Neutral] ～の習慣がある)      I'm in the habit of jogging daily.
+- `somehow manage to` /ˈsʌmhaʊ/     ([Neutral] どうにか～する)      I somehow managed to finish on time.
+  - `still manage to` /ˈmænɪdʒ tuː/ ([Neutral] それでもしてしまう)  I still manage to make mistakes.
+  - `barely manage to` /ˈberli/     ([Neutral] かろうじて～する)    I barely managed to catch the bus.
+  - `hardly manage to` /ˈhɑːrdli/   ([Neutral] ほとんど～できない)  I can hardly manage to stay awake.
+  - `just manage to` /dʒʌst/        ([Neutral] なんとか～する)      I just managed to get there.
+  - `can still just about V`        ([Casual] ギリギリできる)       I can still just about make it to the meeting on time.
+- `I have trouble V-ing`            ([Neutral] するのに苦労してる)  I have trouble understanding technical documents.
+- `come close to -ing`              ([Neutral] 危うくしそうになる)  I came close to missing my flight.
+  - `be on the ==verge== of` /vɜːrdʒ/   ([Neutral] ～の寸前)            She's on the verge of tears.
+  - `be on the ==point== of` /pɔɪnt/    ([Formal] まさに～しようと)     I was on the point of calling you.
+  - `be on the ==brink== of` /brɪŋk/    ([Neutral] ～の瀬戸際)          We're on the brink of success.
 
-  - `be bound to` /baʊnd tuː/       ([Neutral] ～に違いない)        He's bound to notice eventually.
+## Preference
+- ==tend to== /tend tuː/              ([Neutral] 〜しがちである)      I tend to forget names.
+  - `be prone to` /biː proʊn tuː/   ([Neutral] 〜しがちである)      She's prone to headaches.
+  - `be likely to` /ˈlaɪkli tuː/    ([Neutral] 〜しそうである)      He's likely to be late.
+  - `be apt to` /æpt tuː/           ([Neutral] 〜しがちである)      She's apt to overreact.
+  - `have a tendency to`            ([Neutral] 〜する傾向がある)    He has a tendency to procrastinate.
+  - `be inclined to` /ɪnˈklaɪnd tuː/([Neutral] 〜する傾向がある)    I'm inclined to agree with you.
+  - `be liable to` /biː ˈlaɪəbəl tuː([Formal] 〜しがちである)       He's liable to forget important details.
+  - `be susceptible to`             ([Formal] 〜に影響されやすい)   Children are susceptible to colds.
+  - `be vulnerable to`              ([Neutral] 〜に弱い)            The system is vulnerable to attacks.
+  - `be subject to`                 ([Formal] 〜を受けやすい)       Prices are subject to change.
+  - `be predisposed to`             ([Formal] 〜になりやすい)       He's predisposed to anxiety.
+- ==have no choice but to==           ([Neutral] 選択肢がない)        I have no choice but to quit.
+  - `forced to` /fɔːrst tuː/        ([Neutral] ～を強いられる)      I was forced to leave early.
+  - `compelled to` /kəmˈpeld tuː/   ([Formal] ～せざるを得ない)     I felt compelled to speak up.
+- `be obligated to` /ˈɑːblɪɡeɪtɪd/  ([Formal] ～する義務がある)     I feel obligated to help.
+  - `be obliged to` /əˈblaɪdʒd tuː/ ([Formal] ～する義務がある)     You're obliged to report it.
+  - `be bound to` /baʊnd tuː/       ([Formal] ～する義務がある)     You're bound to follow the rules.
+  - `be duty-bound to`              ([Formal] ～する義務がある)     I'm duty-bound to report this.
+  - `be mandated to` /ˈmændeɪtɪd/   ([Formal] ～を義務付けられる)   We're mandated to comply.

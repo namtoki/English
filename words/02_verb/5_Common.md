@@ -2832,3 +2832,5 @@
 - `crutch`                            ([Neutral] 支える)
 - `prop`                            ([Neutral] 支える、もたせかける)
 - `stake`                            ([Neutral] くいで支える、（金を･･･に）賭ける)
+
+- `be bound to` /baʊnd tuː/         ([Neutral] ～に違いない)        He's bound to notice eventually.
