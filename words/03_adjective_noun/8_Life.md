@@ -74,6 +74,8 @@
 - `at heart`                            ([Neutral] 本質的には／心の中では) He’s a kind person `at heart.`
 - `at least`                      ([Neutral] 少なくとも)          At least 50 people attended.
 - `at most`                       ([Neutral] せいぜい)            At most 10 people can fit.
+- `assault` /əˈsɔːlt/                ([Neutral] 襲撃、攻撃)          The rebels are poised for a new assault.
+- `attack` /əˈtæk/                   ([Neutral] 攻撃、襲撃)          The attack began at dawn.
 - `attacker` /əˈtækər/            ([Neutral] 攻撃者)              The attacker was identified.
 - `attacking` /əˈtækɪŋ/           ([Neutral] 攻撃的な)            Their attacking strategy failed.
 - `attribute` /ˈætrɪbjuːt/          ([Formal] 属性、特質)           Flexibility is an important attribute.
@@ -549,6 +551,7 @@
 - `fling` /flɪŋ/                    ([Casual] 短期の恋愛、情事)     They had a brief fling last summer.
 - `flop` /flʌp/                     ([Casual] 大失敗)               The movie was a complete flop.
 - `foe` /foʊ/                       ([Writing] 敵、仇敵)            The knight faced his mortal foe.
+- `foray` /ˈfɔːreɪ/                  ([Formal] 急襲、進出)           Vikings made a foray on the port.
 - `for which`                     ([Formal] そのために〜する)     The purpose `for which` it was made.
 - `fore`                            ([Nautical] 前部の)             The fore deck of the ship.
 - `foremost`                        ([Formal] 最前部の、主要な)     The foremost expert.
@@ -808,6 +811,7 @@
 - `mirage` /mɪˈrɑːʒ/                ([Neutral] 蜃気楼、幻想)        The desert mirage fooled the travelers.
 - `miserable` /ˈmɪzərəbəl/          ([Neutral] 惨めな、不幸な)      She had a miserable childhood.
 - `mishap` /ˈmɪshæp/                ([Neutral] 不運、事故)          A minor mishap delayed the flight.
+- `mission` /ˈmɪʃən/                 ([Neutral] 任務、作戦行動)      The military are fulfilling an important mission.
 - `mixture` /ˈmɪkstʃər/             ([Neutral] 混合、多様)            The city is a mixture of cultures.
 - `mock-up` /ˈmɑːk ʌp/            ([Neutral] モックアップ、模型)  The designer created a mock-up of the new interface.
 - `molestation` /ˌmoʊləˈsteɪʃən/   ([Formal] 性的嫌がらせ)         He was charged with molestation.
@@ -1002,6 +1006,7 @@
 - `quality` /ˈkwɑːləti/             ([Neutral] 質、品質)            The quality of this product is excellent.
 - `quiet` /ˈkwaɪət/                 ([Neutral] 静かな、落ち着いた)  He's a quiet person.
 - `racket` /ˈrækɪt/                 ([Casual] 騒音、がやがや)       Stop making such a racket!
+- `raid` /reɪd/                      ([Neutral] 襲撃、急襲)          The rebels attempted a surprise raid on a military camp.
 - `rancor` /ˈræŋkər/                ([Writing] 憎しみ、怨恨)        He spoke without rancor or bitterness.
 - `rancorous` /ˈræŋkərəs/         ([Writing] 怨恨に満ちた)        Their rancorous feud lasted decades.
 - `random` /ˈrændəm/                ([Casual] めちゃくちゃな)       That was so random! Why did he say that?
@@ -1166,6 +1171,7 @@
 - `sophisticated palate`            ([Formal] 洗練された味覚)       A sophisticated palate appreciates subtle flavors.
 - `sophisticated` /səˈfɪstɪkeɪtɪd/  ([Neutral] 洗練された、高度な)  This is a sophisticated system.
 - `sort of thing`                   ([Neutral] 〜的なもの)          That's the `sort of thing` I mean.
+- `sortie` /ˈsɔːrti/                 ([Formal] 出撃、攻撃任務)       The pilot had flown three sorties that day.
 - `sovereign` /ˈsɑːvrɪn/            ([Formal] 君主、元首)           The sovereign addressed the nation.
 - `sovereignty` /ˈsɑːvrənti/      ([Formal] 主権、統治権)         National sovereignty must be protected.
 - `spark` /spɑːrk/                  ([Neutral] 火花、きっかけ)      His words sparked a debate.

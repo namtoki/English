@@ -1356,7 +1356,6 @@ footpath	7	【名】小道
 footprint	5	【名】足跡
 footstep	5	【名】足跡、足音、歩み、階段
 forage	12	【名】飼料、まぐさ
-foray	11	【名】急襲、略奪、足を突っ込むこと
 forcible	9	【形】力ずくの、力強い、効果的な
 forcing	11	【名】促成栽培、強制、促成
 forearm	9	【名】前腕
