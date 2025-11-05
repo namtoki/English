@@ -16,7 +16,11 @@ Including that, has everything on the server side been handed over or not?
 In the case of embedded source code,
 AAT-related processing was kept confidential, so this was just a precautionary question.
 
-Second, are there any other software related to Denon PerL other than earbuds and cloud?
-Like, what about charger case?
-and a script which is used in the course of manufacturing, like installing Bluetooth address, calibration, and something like that.
+Second,
+are there any other software components related to Denon PerL other than the earbuds and cloud?
+For example, what about the charging case?
+And what about scripts used during the manufacturing process, such as programming the Bluetooth address, calibration, and something like that?
 
+Also,
+if there is any hardware used in debugging or manufacturing,
+is it okay to send them to us even if they are simple systems like Raspberry Pi?
