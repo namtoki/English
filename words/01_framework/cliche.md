@@ -183,20 +183,20 @@
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
 - `I hope not`                      ([Casual] そうじゃないといいな) I hope not, because that would be a big problem.
 - `I hope I'm not interrupting you.`([Casual] 邪魔なければいいけど) I hope I'm not interrupting you, but could I ask a quick question?
-- ==this is just one possibility==    ([Neutral] 可能性の話しだけど)  There may be other approaches as well — this is just one possibility.
+- ==!this is just one possibility==    ([Neutral] 可能性の話しだけど)  There may be other approaches as well — this is just one possibility.
   - `this is one option`            ([Neutral] これは一つの選択肢)  This is one option we could consider.
   - `this is one approach`          ([Neutral] これは一つの方法)    This is one approach to solving the problem.
   - `this is one alternative`       ([Neutral] これは一つの代替案)  This is one alternative to the current plan.
   - `this is merely a suggestion`   ([Neutral] これはただの提案)    This is merely a suggestion, not a requirement.
   - `this is simply one scenario`   ([Neutral] 単に一つのシナリオ)  This is simply one scenario we might face.
-- ==A is one thing, but B is another==([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
+- ==!A is one thing, but B is another==([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
 - `I'm V-ing ... at the moment.`    ([Casual] 今まさに～している)   I'm working on the report at the moment.
   - `I'm still working on it`       ([Casual] まだ取り組んでいる)   I'm still working on it, but I should be done soon.
   - `I'm in the middle of something`([Casual] 今手が離せない)       I'm in the middle of something right now, can I call you back?
   - `I've got my hands full`        ([Casual] 手がいっぱいだ)       I've got my hands full with this project right now.
 - `Leave it there`                  ([Casual] それで終わりにしよう) Let's leave it there for today.
   - `So much for O`                 ([Casual] これで終わ,期待外れ)  So much for our plans to go hiking.
-- ==The same goes for O==             ([Neutral] Oも同様だ)           The same goes for our international team.
+- ==!The same goes for O==             ([Neutral] Oも同様だ)           The same goes for our international team.
   - `It's the same with O`          ([Neutral] Oも同様だ)           It's the same with most startup companies.
   - `The same is the case with O`   ([Neutral] Oも同様だ)           The same is the case with remote workers.
 
@@ -228,7 +228,7 @@
 - `How long since S V?`             ([Neutral] S V からどれくらい)  How long since you met him?
 - `How was everything?`             ([Polite] お料理はいかがでしたか？)
 - `Is A the same as B?`             ([Neutral] A は B と同じ？)     Is this the same skirt as in the ad?
-- ==What are you up to?==             ([Casual] 何しようとしているの？)
+- ==!What are you up to?==             ([Casual] 何しようとしているの？)
 - `What do you mean?`               ([Neutral] どういう意味？)      What do you mean by "restructuring"?
 - ==What do you mean by that?==       ([Casual] それってどういう意味？)
 - `What's it called?`               ([Casual] それは何と呼ばれていますか？)

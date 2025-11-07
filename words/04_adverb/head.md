@@ -27,7 +27,7 @@
   - `ultimately` /ˈʌltɪmətli/       ([Formal] 最終的に)             Ultimately, it's your decision.
 - ==moving on== /ˈmuːvɪŋ ɒn/          ([Casual] 次に進むと)           Moving on, let's discuss sales.
   - `let's move on to`              ([Neutral] ～に話を進めましょ)  Let's move on to the next topic.
-- ==going back to== /ˈɡoʊɪŋ bæk tuː/  ([Casual] ～に話を戻すと)       Going back to your question, yes I agree.
+- ==!going back to== /ˈɡoʊɪŋ bæk tuː/  ([Casual] ～に話を戻すと)       Going back to your question, yes I agree.
   - `getting back to`               ([Neutral] ～に話を戻すと)      Getting back to the point, we need a decision.
   - `to get back to`                ([Neutral] ～に話を戻すと)      To get back to what you said earlier, I disagree.
   - `returning to`                  ([Neutral] ～に戻ると)          Returning to the main issue, what's our plan?

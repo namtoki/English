@@ -26,7 +26,7 @@
   - `I bet`                         ([Casual] きっと～だ)           I bet he forgot about the meeting.
   - `I hope`                        ([Neutral] ～であってほしい)    I hope everything goes smoothly tomorrow.
   - ==I assume==                      ([Neutral] ～だと仮定する)      I assume you've heard the news.
-- ==It crosses one's mind==           ([Casual] 頭をよぎる)           It never crossed my mind.
+- ==!It crosses one's mind==           ([Casual] 頭をよぎる)           It never crossed my mind.
   - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
   - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
   - `It hit 人` /hɪt/               ([Casual] 突然気づく)           It just hit me that we're late.
@@ -46,10 +46,10 @@
 - ==My concern is that==              ([Neutral] 私の懸念は〜だ)      My concern is that we might miss the deadline.
   - `My understanding is (that)`    ([Neutral] 私の理解では)        My understanding is that we start Monday.
   - `My take is`                    ([Casual] 私の見方は)           My take is that we should proceed.
-- ==There're times when==             ([Neutral] ～する時もある)      There're times when I feel overwhelmed with work.
+- ==!There're times when==             ([Neutral] ～する時もある)      There're times when I feel overwhelmed with work.
   - `There's a side to A that`      ([Neutral] 一面がある)          There's a side to her that most people never see.
 - ==any O will do as long as==        ([Neutral] どんなOでもいい)     Any location will do as long as we have Wi-Fi.
-- ==It's up in the air whether==      ([Casual] かどうかはまだ未定だ) It's up in the air whether we'll have the meeting tomorrow.
+- ==!It's up in the air whether==      ([Casual] かどうかはまだ未定だ) It's up in the air whether we'll have the meeting tomorrow.
 - ==Turns out==                       ([Casual] ということがわかった) Turns out she was right all along.
 - `It doesn't mean anything that`   ([Neutral] といって意味ない)    It doesn't mean anything that he apologized if he doesn't change.
 - `文章. ~~`
@@ -78,7 +78,7 @@
   - `It's kind of like` O           ([Casual] ちょっとOっぽい)      It's kind of like a puzzle you have to solve.
   - `It's more    like` O           ([Casual] どちらかと言えば)     It's more like a suggestion than an order.
   - `It's not that A but (that) B`  ([Neutral] AではなくBだ)        It's not that I'm angry but that I'm worried.
-- ==it's not always the case that==   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
+- ==!it's not always the case that==   ([Neutral] いつも～とは限らん)  It's not always the case that experience leads to wisdom.
   - `that's not to say that S V`    ([Formal] といって～ではない)   The plan has risks, but that's not to say we shouldn't try it.
 - ==be aware that==                   ([Neutral] に注意してください)  Be aware that the deadline is next Friday.
 

@@ -1,26 +1,23 @@
 # TODAY
 
-First things first,
-we are an embedded software team, and the server team is in Sydney.
+Hi, I'm Tana.
+Thank you for addressing my questions in the email.
 
-So we're not familiar with the server-side situation.
+I'm a software project manager.
+Our software project management team consists of two members: myself and Kuroishi, who is my team leader.
+He is absent today, but you will be communicating with him in future email exchanges and meetings.
 
-Have you already handed over all server components, such as AWS accounts and Git repositories?
-I'm not sure if you're using IaC like Terraform or CloudFormation or something like that, though.
+In terms of the overall software development structure,
+in addition to the two of us, we have application and server development teams,
+and for the embedded side, we're working with an ODM vendor for this project.
 
-Have all of these already been handed over to our Sydney team?
+Our software project management team coordinates tasks across all these teams.
 
-My concern is that the AAT calculation part is on the server side, right?
-Including that, has everything on the server side been handed over or not?
+That's it.
 
-In the case of embedded source code,
-AAT-related processing was kept confidential, so this was just a precautionary question.
 
-Second,
-are there any other software components related to Denon PerL other than the earbuds and cloud?
-For example, what about the charging case?
-And what about scripts used during the manufacturing process, such as programming the Bluetooth address, calibration, and something like that?
+A: Was the response in that email satisfactory?
+B: Yes, thank you very much. It was sufficient. The development credential keys and everything else are working without any issues.
 
-Also,
-if there is any hardware used in debugging or manufacturing,
-is it okay to send them to us even if they are simple systems like Raspberry Pi?
+A: Regarding the follow-up questions, would next week be acceptable?
+B: That's fine. Next week works for me. However, I would appreciate it if you could respond by around Tuesday.

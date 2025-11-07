@@ -293,10 +293,10 @@
   - `sooner or later`               ([Neutral] 遅かれ早かれ)        Sooner or later, the truth will come out.
   - `in time`                       ([Neutral] やがて、時が経てば)  In time, the pain will fade.
   - `in due time`                   ([Formal] 適切な時に)           All will be revealed in due time.
-- ==before long==                     ([Neutral] もうすぐ)            Before long, they will enter a crucial phase.
+- ==!before long==                     ([Neutral] もうすぐ)            Before long, they will enter a crucial phase.
   - `soon`                          ([Neutral] すぐに)              We'll know the results soon.
   - `shortly`                       ([Neutral] まもなく)            He'll be arriving shortly.
-  - ==in a little bit==               ([Casual] ちょっとしたら)       The ambulance will get here in a little bit.
+  - ==!in a little bit==               ([Casual] ちょっとしたら)       The ambulance will get here in a little bit.
   - `in just a little bit`          ([Casual] ちょっとしたら)       I'll be there in just a little bit.
   - `any minute now`                ([Casual] いつでも、すぐにでも) The bus should arrive any minute now.
   - `any time now`                  ([Casual] いつでも)             She could call any time now.

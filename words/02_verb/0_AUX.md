@@ -33,7 +33,7 @@
 - ==bite the bullet== /baɪt ðə ˈbʊlɪ  ([Neutral] 覚悟を決める)        I bit the bullet and asked for a raise.
   - `take the risk` /teɪk ðə rɪsk/  ([Neutral] リスクを取る)        She took the risk and started her own business.
   - `take the plunge` /teɪk ðə plʌnd([Neutral] 思い切る)            He finally took the plunge and quit.
-- ==go out of one's way to==          ([Neutral] わざわざする)        He always goes out of his way to help his colleagues.
+- ==!go out of one's way to==          ([Neutral] わざわざする)        He always goes out of his way to help his colleagues.
   - `be more than happy to`         ([Casual] 喜んで～する)         I'm more than happy to help you with the project.
 
 ## Past
@@ -91,8 +91,8 @@
 
 ## Assumption
 - ==be sure to== /biː ʃʊr tuː/        ([Neutral] きっと〜する)        You're sure to enjoy the show.
-  - `be ==more== likely to`             ([Neutral] する確率が高い)      People are more likely to work in their field.
-  - `be ==less== likely to`             ([Neutral] する確率が低い)      It's less likely to get broken if you wrap it.
+  - `be ==!more== likely to`             ([Neutral] する確率が高い)      People are more likely to work in their field.
+  - `be ==!less== likely to`             ([Neutral] する確率が低い)      It's less likely to get broken if you wrap it.
 
 ## Status
 - `be used to -ing` /juːzd tuː/     ([Neutral] ～に慣れている)      I'm used to working late.
