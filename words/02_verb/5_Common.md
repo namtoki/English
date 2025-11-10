@@ -1971,7 +1971,6 @@
 - `superintendent`                            ([Neutral] 監督する)
 - `supervise`                            ([Neutral] 目を光らせる、監督する)
 - `surrogate`                            ([Neutral] 代理にする)
-- `swamp`                            ([Neutral] 浸す、圧倒する)
 - `sweeten`                            ([Neutral] 甘くする、和らげる)
 - `swerve`                            ([Neutral] 急に逸れる、逸脱する)
 - `swoop`                            ([Neutral] 急降下する、突然襲う)
@@ -2834,3 +2833,8 @@
 - `stake`                            ([Neutral] くいで支える、（金を･･･に）賭ける)
 
 - `be bound to` /baʊnd tuː/         ([Neutral] ～に違いない)        He's bound to notice eventually.
+
+  - `baby` /ˈbeɪbi/                  ([Casual] 甘やかす 過保護に扱) Stop babying him!
+  - `coddle` /ˈkɑːdl/               ([Neutral] 甘やかす、過保護)    Don't coddle your children.
+  - `pamper` /ˈpæmpər/              ([Neutral] 甘やかす 大事にする) She pampers her students too much.
+  - `mollycoddle` /ˈmɑːlikɑːdl/     ([Formal] 過保護に扱う)         Stop mollycoddling them!

@@ -902,6 +902,14 @@
 - `overtly` /əʊˈvɜːtli/           ([Formal] 公然と)               He overtly criticized the decision.
 - `overwhelm` /ˌoʊvərˈwelm/       ([Neutral] 圧倒する)            The news overwhelmed her.
 - `overwhelming` /ˌoʊvərˈwelmɪŋ/    ([Neutral] 圧倒的な、困難な)    The workload is overwhelming.
+  - `overwhelmed` /ˌoʊvərˈwelmd/    ([Neutral] 圧倒された)          I feel overwhelmed by all these tasks.
+  - `inundate` /ˈɪnʌndeɪt/          ([Formal] 氾濫させる、殺到する) We were inundated with requests.
+  - `inundated` /ˈɪnʌndeɪtɪd/       ([Formal] 殺到された)            The office was inundated with calls.
+  - `flood` /flʌd/                  ([Neutral] 殺到する、氾濫させる) Complaints flooded the company.
+  - `flooded` /ˈflʌdɪd/             ([Neutral] 殺到された)          We were flooded with applications.
+  - `bury` /ˈberi/                  ([Neutral] 埋もれさせる)        I'm buried in paperwork.
+  - `buried` /ˈberid/               ([Neutral] 埋もれた)            She's buried under a mountain of work.
+  - `snowed under` /snoʊd ˈʌndər/   ([Casual] 忙殺されている)      I'm completely snowed under right now.
 - `pail` /peɪl/                     ([Neutral] バケツ、桶)           She carried water in a pail.
 - `pain` /peɪn/                    ([Casual] 面倒なこと)          Dealing with paperwork is a pain.
 > `pain in the neck` /peɪn ɪn ðə nɛk/ ([Casual] 厄介者、面倒な人)     He's such a pain in the neck.
@@ -1240,6 +1248,9 @@
 - `livelihood` /ˈlaɪvlihʊd/      ([Neutral] 生計、暮らし)        Fishing is their main livelihood.
 - `sustainable` /səˈsteɪnəbəl/     ([Neutral] 持続可能な)          We need sustainable energy sources.
 - `sustained` /səˈsteɪnd/          ([Formal] 持続的な、継続的な)  The team made a sustained effort.
+- `swamp` /swɑːmp/                  ([Neutral] 湿地、沼地)          The area is mostly swamp.
+- `swamp` /swɑːmp/                  ([Neutral] 圧倒する、忙殺する)  Orders swamped the small business.
+- `swampy` /ˈswɑːmpi/               ([Neutral] 沼地のような)        The ground was swampy after the rain.
 - `sway` /sweɪ/                     ([Neutral] 影響力)              He has considerable sway over the board.
 - `symbol` /ˈsɪmbəl/            ([Neutral] 象徴、記号)          The heart is a symbol of love.
 - `symbolic` /sɪmˈbɒlɪk/        ([Neutral] 象徴的な)            The gesture was purely symbolic.

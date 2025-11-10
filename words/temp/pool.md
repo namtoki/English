@@ -3301,7 +3301,6 @@ surveillance	10	【名】監視、監督
 surveyor	10	【名】測量士、監視者、輸入品検査官
 susceptibility	12	【名】影響されやすいこと、敏感な感情、感染しやすいこと
 swagger	11	【名】いばった態度
-swamp	6	【名】沼地
 sweeping	11	【形】圧倒的な、一掃するような、広範な
 sweetheart	6	【名】恋人、（呼びかけとして）ねえ、あなた
 swerve	10	【名】逸れること、脱線
