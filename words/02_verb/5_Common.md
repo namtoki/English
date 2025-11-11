@@ -2838,3 +2838,50 @@
   - `coddle` /ˈkɑːdl/               ([Neutral] 甘やかす、過保護)    Don't coddle your children.
   - `pamper` /ˈpæmpər/              ([Neutral] 甘やかす 大事にする) She pampers her students too much.
   - `mollycoddle` /ˈmɑːlikɑːdl/     ([Formal] 過保護に扱う)         Stop mollycoddling them!
+
+
+
+  - `approve` /əˈpruːv/             ([Neutral] 承認する)            The board approved the proposal.
+  - `acquiesce` /ˌækwiˈes/          ([Formal] 黙認する)             She acquiesced to their demands.
+
+  - `permit` /pərˈmɪt/              ([Formal] 許可する)             The law does not permit smoking here.
+  - `authorize` /ˈɔːθəraɪz/         ([Formal] 認可する)             Who authorized this purchase?
+
+
+  - `affirm` /əˈfɜrm/               ([Formal] 断言する)             He affirmed his commitment.
+  - `assert` /əˈsɜrt/               ([Neutral] 断言する、主張する)  He asserted his innocence.
+  - `declare` /dɪˈkler/             ([Neutral] 宣言する、公表する)  She declared her candidacy.
+  - `state` /steɪt/                 ([Neutral] 述べる、明言する)    Please state your name clearly.
+  - `proclaim` /prəˈkleɪm/          ([Formal] 宣言する、公表する)   The mayor proclaimed a holiday.
+  - `pronounce` /prəˈnaʊns/         ([Neutral] 宣告する、発音する)  The judge pronounced the verdict.
+  - `avow` /əˈvaʊ/                  ([Writing] 公言する、認める)    He avowed his love publicly.
+  - `aver` /əˈvɜr/                  ([Writing] 断言する、主張する)  She averred that she was innocent.
+  - `maintain` /meɪnˈteɪn/          ([Neutral] 主張する、維持する)  He maintains his innocence.
+
+- `follow` /ˈfɑːloʊ/                ([Neutral] 従う、続く)          Please follow the instructions.
+  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
+  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
+  - `keep` /kiːp/                   ([Neutral] 守る、保つ)          Keep the rules in mind.
+  - `go along with`                 ([Casual] 同調する、従う)       I'll go along with the plan.
+  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
+  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
+  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
+  - `listen to` /ˈlɪsən tuː/        ([Neutral] 聞き従う)            Listen to your parents.
+  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
+  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
+  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
+  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
+  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
+  - `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、守る)      Maintain professional standards.
+  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
+  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
+  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
+  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
+  - `accept` /əkˈsept/              ([Neutral] 受け入れる)          Accept the terms and conditions.
+  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
+  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
+  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
+
+  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
+  - `align with` /əˈlaɪn wɪð/       ([Formal] 同調する、一致する)   Our goals align with yours.

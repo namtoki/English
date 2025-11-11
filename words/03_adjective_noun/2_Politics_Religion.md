@@ -42,7 +42,6 @@
   - `chamber` /ˈtʃeɪmbər/           ([Formal] 議院、院)             Both chambers approved the proposal.
   - `diet` /ˈdaɪət/                 ([Formal] 議会、国会)           The Japanese Diet met today.
   - `council` /ˈkaʊnsl/             ([Neutral] 評議会、議会)        The city council voted unanimously.
-  - `amendment` /əˈmendmənt/        ([Formal] 修正案、改正)         The First Amendment protects free speech.
 > `speech` /spiːtʃ/                 ([Neutral] 演説、スピーチ)      She gave a great speech at the conference.
   - `talk` /tɔːk/                   ([Casual] 講演、話)             He gave a talk about climate change.
   - `presentation` /ˌprezənˈteɪʃən/ ([Neutral] プレゼンテーション)  The presentation was very informative.
@@ -72,6 +71,7 @@
 > `appointment` /əˈpɔɪntmənt/       ([Neutral] 任命、指名)          His appointment was announced today.
 > `promotion` /prəˈmoʊʃən/          ([Neutral] 昇進、昇格)          He received a promotion to director.
 > `election` /ɪˈlekʃən/             ([Neutral] 選挙、当選)          The election results were announced.
+- `amendment` /əˈmendmənt/          ([Formal] 修正案、改正)         The First Amendment protects free speech.
 
 ## International Relations
 > `ally` /ˈælaɪ/                    ([Neutral] 同盟国、味方)        France is a close ally of the United States.
