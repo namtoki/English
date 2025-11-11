@@ -1,23 +1,18 @@
 # TODAY
 
-Hi, I'm Tana.
-Thank you for addressing my questions in the email.
+This is feasible.
 
-I'm a software project manager.
-Our software project management team consists of two members: myself and Kuroishi, who is my team leader.
-He is absent today, but you will be communicating with him in future email exchanges and meetings.
+An inactive instance can load parameters when it becomes an active one.
+However, it requires a specific trigger to load them, such as an explicit action like a button press or a screen transition.
 
-In terms of the overall software development structure,
-in addition to the two of us, we have application and server development teams,
-and for the embedded side, we're working with an ODM vendor for this project.
+This is the same with my suggested method in this ticket.
+If the sleep timer has been set into the buds by an app, hereafter "App A," another device, for example "App B," can load the timer value on the buds when connected with it.
 
-Our software project management team coordinates tasks across all these teams.
+However, this is the behavior only when an app is actively connected to the buds.
+Given that users might terminate the app right after starting the sleep timer,
+it is difficult for "App A" to catch the new timer value set by "App B" after "App A" set the first timer value and was terminated by the user.
+To be precise, this is technically possible on Android but not on iOS.
 
-That's it.
+This is my point.
 
-
-A: Was the response in that email satisfactory?
-B: Yes, thank you very much. It was sufficient. The development credential keys and everything else are working without any issues.
-
-A: Regarding the follow-up questions, would next week be acceptable?
-B: That's fine. Next week works for me. However, I would appreciate it if you could respond by around Tuesday.
+In that case, while the timer has not expired, it is still possible for "App A" to load the new timer value set by "App B" by actively reconnecting to the buds.

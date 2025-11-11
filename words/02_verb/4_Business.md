@@ -10,7 +10,6 @@
   - `rap` /ræp/                     ([Casual] 話す、おしゃべりする) I enjoyed rapping with him about sports.
 - `discuss` /dɪˈskʌs/               ([Neutral] 議論する、話し合う)  We'll discuss this issue next week.
   - ==take up== /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
-  - `address` /əˈdres/              ([Neutral] 取り組む、対処する)  We'll address this issue next week.
   - `look at` /lʊk æt/              ([Neutral] 検討する、見る)      We'll look at this issue next week.
   - `cover` /ˈkʌvər/                ([Neutral] 扱う、カバーする)    We'll cover this issue next week.
   - `talk about` /tɔːk əˈbaʊt/      ([Casual] 話し合う)             We'll talk about this issue next week.
@@ -28,34 +27,52 @@
   - `put in your two cents`         ([Casual] ちょっと意見を言う)   Can I put in my two cents here?
   - `speak your mind`               ([Neutral] 率直に意見を言う)    Don't be afraid to speak your mind.
   - `have your say` /hæv jʊər seɪ/  ([Neutral] 意見言う機会を得る)  Everyone will have their say.
----
+- `tell` /tel/                      ([Neutral] 伝える)              Tell him I said hi.
+  - ==let know== /let noʊ/            ([Casual] 知らせる)             Let me know when you arrive.
+  - `share` /ʃer/                   ([Neutral] 共有する)            Share this with your team.
+  - `pass on` /pæs ɑːn/             ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
+  - `pass along` /pæs əˈlɔːŋ/       ([Neutral] 情報を伝える)        Please pass along the message.
+  - `spread` /spred/                ([Neutral] 広める)              The news spread quickly.
+  - `hand down` /hænd daʊn/         ([Neutral] 伝承する)            The tradition was handed down.
+  - `relay` /rɪˈleɪ/                ([Neutral] 中継する、伝える)    Please relay this message to her.
+  - `report` /rɪˈpɔːrt/             ([Neutral] 報告する、伝える)    I must report this incident.
+  - `deliver` /dɪˈlɪvər/            ([Neutral] 届ける、伝える)      He delivered the news personally.
+  - `keep posted` /kiːp ˈpoʊstɪd/   ([Neutral] 最新情報を知らせる)  Keep me posted on any developments.
+  - `forward` /ˈfɔːrwərd/           ([Neutral] 転送する)            I'll forward the email to you.
+  - `tip off` /tɪp ɔːf/             ([Casual] 密かに知らせる)       Someone tipped off the police.
   - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
   - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
-- `tell` /tel/                      ([Neutral] 伝える)              Tell him I said hi.
-- `let know` /let noʊ/              ([Casual] 知らせる)             Let me know when you arrive.
-- `share` /ʃer/                     ([Neutral] 共有する)            Share this with your team.
-- `pass on` /pæs ɑːn/               ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
-- `pass along` /pæs əˈlɔːŋ/         ([Neutral] 情報を伝える)        Please pass along the message.
-- `spread` /spred/                  ([Neutral] 広める)              The news spread quickly.
-- `hand down` /hænd daʊn/           ([Neutral] 伝承する)            The tradition was handed down.
-- `relay` /rɪˈleɪ/                  ([Neutral] 中継する、伝える)    Please relay this message to her.
-- `forward` /ˈfɔːrwərd/             ([Neutral] 転送する)            I'll forward the email to you.
-- `convey` /kənˈveɪ/                ([Formal] 伝達する)             Please convey my apologies.
-- `transmit` /trænzˈmɪt/            ([Formal] 送信する、伝える)     The data was transmitted securely.
-- `communicate` /kəˈmjuːnɪkeɪt/     ([Formal] 伝達する)             Communicate this to all staff.
-- `get across to` /ɡet əˈkrɔːs tuː/ ([Neutral] 伝わる、理解させる)  I got my point across to them.
-- `get through to` /ɡet θruː tuː/   ([Neutral] 伝わる、理解させる)  I can't get through to him.
-- `put across` /pʊt əˈkrɔːs/        ([Neutral] 伝える、わからせる)  She put her ideas across clearly.
-- `make clear to` /meɪk klɪr tuː/   ([Neutral] 明確に伝える)        Make it clear to everyone.
+  - `convey` /kənˈveɪ/              ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
+  - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
+  - `transmit` /trænzˈmɪt/          ([Formal] 送信する、伝える)     The data was transmitted securely.
+  - `communicate` /kəˈmjuːnɪkeɪt/   ([Formal] 伝達する)             Communicate this to all staff.
+  - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
+- ==get across to== /ɡet əˈkrɔːs tuː/ ([Neutral] 伝わる、理解させる)  I got my point across to them.
+  - `get through to` /ɡet θruː tuː/ ([Neutral] 伝わる、理解させる)  I can't get through to him.
+  - `put across` /pʊt əˈkrɔːs/      ([Neutral] 伝える、わからせる)  She put her ideas across clearly.
+  - `make clear to` /meɪk klɪr tuː/ ([Neutral] 明確に伝える)        Make it clear to everyone.
+
+## Phone
 - `contact` /ˈkɑːntækt/             ([Neutral] 連絡する)            I'll contact you later.
-  - `get in touch` /ɡet ɪn tʌtʃ/    ([Neutral] 連絡を取る)          Let's get in touch soon.
-  - `touch base` /tʌtʃ beɪs/        ([Neutral] 連絡を取る、報告)    Let's touch base next week.
+  - ==get in touch== /ɡet ɪn tʌtʃ/    ([Neutral] 連絡を取る)          Let's get in touch soon.
+  - `touch base with`               ([Casual] 連絡を取る)           Let me touch base with you next week.
   - `reach out` /riːtʃ aʊt/         ([Neutral] 連絡を取る)          I'll reach out to them.
   - `hit up` /hɪt ʌp/               ([Slang] 連絡する)              Hit me up later.
   - `drop a line` /drɑːp ə laɪn/    ([Informal] 一報入れる)         Drop me a line sometime.
-  - `get back to` /ɡet bæk tuː/     ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
+  - ==get back to== /ɡet bæk tuː/     ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
   - `get hold of` /ɡet hoʊld əv/    ([Neutral] 連絡を取る)          I couldn't get hold of him.
   - `get ahold of` /ɡet əˈhoʊld əv/ ([Informal] 連絡を取る)         Try to get ahold of her.
+  - `check in with` /tʃek ɪn wɪð/   ([Neutral] 連絡を取る、確認する) I need to check in with my manager.
+  - `reach out to` /riːtʃ aʊt tuː/  ([Neutral] 連絡を取る)         Feel free to reach out to me anytime.
+- ==keep in touch== /kiːp ɪn tʌtʃ/    ([Neutral] 連絡を保つ)          Let's keep in touch.
+  - `stay in touch` /steɪ ɪn tʌtʃ/  ([Neutral] 連絡を保つ)          Stay in touch!
+  - `be in contact`                 ([Neutral] 連絡を保つ)          We're still in contact.
+- ==lose touch==                      ([Neutral] 連絡が途絶える)      I lost touch with my old friends.
+  - `lose contact`                  ([Neutral] 連絡を失う)          I lost contact with my mentor.
+  - `fall out of touch`             ([Neutral] 連絡が途絶える)      We fell out of touch after college.
+  - `drift apart` /drɪft əˈpɑːrt/   ([Neutral] 疎遠になる)          We slowly drifted apart over time.
+  - `grow apart` /ɡroʊ əˈpɑːrt/     ([Neutral] 疎遠になる)          We grew apart after high school.
+  - `be out of touch`               ([Neutral] 連絡が取れない)      I've been out of touch with them.
 - `hear from` /hɪr frʌm/            ([Neutral] 連絡をもらう)        I hope to hear from you soon.
   - `receive` /rɪˈsiːv/             ([Neutral] 連絡をもらう)        I received your message yesterday.
   - `be contacted by`               ([Neutral] 連絡を受ける)        I was contacted by the manager.
@@ -66,27 +83,6 @@
   - `get off the phone`             ([Casual] 電話を切る)           I just got off the phone with him.
   - `ring up` /rɪŋ ʌp/              ([British] 電話をかける)        I'll ring you up tomorrow.
   - `hang up` /hæŋ ʌp/              ([Neutral] 電話を切る)          Don't hang up yet!
-- `keep in touch` /kiːp ɪn tʌtʃ/    ([Neutral] 連絡を保つ)          Let's keep in touch.
-  - `be in contact`                 ([Neutral] 連絡を保つ)          We're still in contact.
-  - `stay in touch` /steɪ ɪn tʌtʃ/  ([Neutral] 連絡を保つ)          Stay in touch!
-  - `lose touch`                    ([Neutral] 連絡が途絶える)      I lost touch with my old friends.
-  - `lose contact`                  ([Neutral] 連絡を失う)          I lost contact with my mentor.
-  - `fall out of touch`             ([Neutral] 連絡が途絶える)      We fell out of touch after college.
-  - `drift apart` /drɪft əˈpɑːrt/   ([Neutral] 疎遠になる)          We slowly drifted apart over time.
-  - `grow apart` /ɡroʊ əˈpɑːrt/     ([Neutral] 疎遠になる)          We grew apart after high school.
-  - `be out of touch`               ([Neutral] 連絡が取れない)      I've been out of touch with them.
-- `report` /rɪˈpɔːrt/               ([Neutral] 報告する、伝える)    I must report this incident.
-  - `deliver` /dɪˈlɪvər/            ([Neutral] 届ける、伝える)      He delivered the news personally.
-  - `keep posted` /kiːp ˈpoʊstɪd/   ([Neutral] 最新情報を知らせる)  Keep me posted on any developments.
-  - `convey` /kənˈveɪ/              ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
-  - `tip off` /tɪp ɔːf/             ([Casual] 密かに知らせる)       Someone tipped off the police.
-  - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
-  - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
-- `check in with` /tʃek ɪn wɪð/    ([Neutral] 連絡を取る、確認する) I need to check in with my manager.
-- `follow up with` /ˈfɒləʊ ʌp wɪð/ ([Neutral] フォローアップする)  I will follow up with the client tomorrow.
-- `touch base with` /tʌtʃ beɪs wɪð/ ([Casual] 連絡を取る)         Let me touch base with you next week.
-- `reach out to` /riːtʃ aʊt tuː/   ([Neutral] 連絡を取る)         Feel free to reach out to me anytime.
-- `keep in touch with` /kiːp ɪn tʌtʃ wɪð/ ([Neutral] 連絡を保つ)   Let's keep in touch with each other.
 - `catch up with` /kætʃ ʌp wɪð/    ([Casual] 近況を話し合う)       I need to catch up with an old friend.
 
 ## Task - Responsibility
@@ -156,7 +152,6 @@
   - `block out` /blɑːk aʊt/         ([Neutral] 時間をブロックする)  I'll block out time in my calendar.
   - `reserve` /rɪˈzɜːrv/            ([Neutral] 予約する、確保する)  Please reserve time for the presentation.
   - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
-  - `put together` /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
 
 ## Task
 - ==go about== /ɡoʊ əˈbaʊt/           ([Neutral] 取り組む、着手する)  How do you go about fixing this?
@@ -355,6 +350,7 @@
   - `attain` /əˈteɪn/               ([Formal] 達成する、獲得する)   We worked hard to attain our goals.
   - `bring to completion`           ([Formal] 完成まで導く)         We need to bring this project to completion.
 - ==come together==                   ([Neutral] まとまる)            The project is finally coming together.
+  - ==put together== /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
   - ==fall into place==               ([Neutral] うまくまとまる)      The presentation is falling into place.
   - `click into place`              ([Casual] うまくいく、合う)     Everything just clicked into place.
   - `gel` /dʒel/                    ([Casual] うまく合う)           The team is starting to gel.
@@ -622,7 +618,7 @@
   - `take a crack at O`             ([Casual] 試してみる)           I'll take a crack at fixing the computer.
   - `take a stab at O`              ([Casual] 試してみる)           Let me take a stab at solving this puzzle.
 
-### konomi
+## Preference
 - `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
   - `be fine` /bi faɪn/             ([Neutral] 大丈夫である)        That will be fine for me.
   - `that'll be fine`               ([Casual] それで大丈夫)         Any time will be fine.
@@ -697,7 +693,7 @@
   - `have an axe to grind`          ([Neutral] 私怨がある)          He has an axe to grind with the company.
   - `air grievances`                ([Formal] 不満を表明する)       The staff met to air their grievances.
 
-### opinion
+## Opinion
 - `I would` /aɪ wʊd/                ([Polite] 私なら〜します)       I would suggest taking a break.
   - `suggest` /səˈdʒest/              ([Neutral] 提案する、暗示する)  I suggest we leave early.
   - `recommend` /ˌrekəˈmend/          ([Neutral] 推薦する、勧める)    I recommend this restaurant.
