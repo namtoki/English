@@ -276,6 +276,10 @@
   - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
   - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
   - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
+  - `get the ball rolling`          ([Casual] 始める、着手する) Let's get the ball rolling.
+  - `get things started`            ([Neutral] 物事を始める) Let's get things started.
+  - `get the show on the road`      ([Casual] 始める、出発する) Time to get the show on the road!
+  - `set the wheels in motion`      ([Neutral] 着手する) We need to set the wheels in motion.
 - ==work on== /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
   - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
   - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
@@ -423,6 +427,16 @@
   - `be at the halfway point`       ([Neutral] 半分の地点にいる)    We're at the halfway point.
 - `be nearly done`                  ([Neutral] ほぼ終わっている)    The task is nearly done.
   - `be almost finished`            ([Neutral] ほとんど終わている)  We're almost finished with testing.
+- ==take ages== /teɪk ˈeɪdʒɪz/        ([Casual] とても時間がかかる)    It takes ages to get there.
+  - `take forever` /teɪk fəˈrevər/  ([Casual] 永遠に時間がかかる)    This download is taking forever!
+  - `take a while` /teɪk ə waɪl/    ([Neutral] しばらく時間がかかる) It'll take a while to finish.
+  - `be time-consuming`             ([Neutral] 時間がかかる)    This task is very time-consuming.
+  - ==drag on== /dræɡ ɑːn/            ([Casual] ダラダラ長引く)       The meeting dragged on for hours.
+  - `drag out` /dræɡ aʊt/           ([Casual] 長引かせる)           I don't want to drag out this talk.
+  - `linger on` /ˈlɪŋɡər ɑːn/       ([Neutral] 居残る、長引く)      The problem lingered on for months.
+  - `go on` /ɡoʊ ɑːn/               ([Neutral] 続く、長引く)        The meeting seemed to go on forever.
+  - `prolong` /pɹoʊˈlɔŋ/            ([Formal] 延長する、長引かせる) Complaining prolongs one's pain.
+  - `persist` /pɚˈsɪst/             ([Formal] 持続する、続く)       The symptoms persisted for weeks.
 
 ## Result
 - ==work out== /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
@@ -708,17 +722,17 @@
 ## Effort
 - ==cut corners== /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
   - ==slack off== /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
-  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
-  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
   - ==phone it in==                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
   - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
   - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
 - ==be sloppy== /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
   - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
   - `be half-hearted`               ([Neutral] やる気のない)        His effort was half-hearted.
-- `give it one's best shot`         ([Casual] 全力を尽くす)         I'll give it my best shot and see what happens.
+- ==give it one's best shot==         ([Casual] 全力を尽くす)         I'll give it my best shot and see what happens.
   - `go all out`                    ([Casual] 全力を尽くす)         Let's go all out and win this game!
-  - `give one's all`                ([Neutral] 全力を尽くす)        She gave her all in the competition.
-  - `do one's utmost`               ([Formal] 最善を尽くす)         We will do our utmost to meet the deadline.
   - `take a crack at O`             ([Casual] 試してみる)           I'll take a crack at fixing the computer.
   - `take a stab at O`              ([Casual] 試してみる)           Let me take a stab at solving this puzzle.
+  - `give one's all`                ([Neutral] 全力を尽くす)        She gave her all in the competition.
+  - `do one's utmost`               ([Formal] 最善を尽くす)         We will do our utmost to meet the deadline.

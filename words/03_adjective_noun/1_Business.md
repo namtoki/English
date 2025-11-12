@@ -214,3 +214,8 @@
   - `dialogue` /ˈdaɪəlɒɡ/           ([Neutral] 対話、話し合い)      They opened a dialogue with stakeholders.
   - `bargaining` /ˈbɑɹɡənɪŋ/        ([Neutral] 交渉、値切り)        Collective bargaining began yesterday.
   - `deliberation` /dɪˌlɪbəˈɹeɪʃən/ ([Formal] 審議、熟考)           After careful deliberation, we decided.
+> `hot topic` /hɑːt ˈtɑːpɪk/        ([Neutral] 話題のテーマ)        Climate change is a hot topic.
+  - `burning issue` /ˈbɜːrnɪŋ ˈɪʃuː/ ([Neutral] 緊急の課題)         Healthcare is a burning issue.
+  - `hot button issue` /hɑːt ˈbʌtən ˈɪʃuː/ ([Neutral] 論争を呼ぶ問題) Abortion is a hot button issue.
+  - `trending topic` /ˈtrendɪŋ ˈtɑːpɪk/ ([Casual] 流行のトピック)   AI is the trending topic now.
+  - `talking point` /ˈtɔːkɪŋ pɔɪnt/ ([Neutral] 話題、議題)          The budget became a talking point.

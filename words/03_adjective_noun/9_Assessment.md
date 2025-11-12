@@ -292,6 +292,7 @@
 > `annoyed` /əˈnɔɪd/                ([Neutral] イライラした)        She seemed annoyed by the question.
   - `bothered` /ˈbɑːðərd/           ([Casual] 悩まされた)           I'm bothered by the noise.
   - `peeved` /piːvd/                ([Casual] イライラした)         He was peeved about the delay.
+  - `salty` /ˈsɔːlti/               ([Casual] イライラした)         Why are you so salty about losing?
   > `upset` /ʌpˈset/                ([Neutral] 動揺した、怒った)    I'm upset about what happened.
   - `frustrated` /ˈfrʌstreɪtɪd/     ([Neutral] イライラした)        He felt frustrated with the process.
   - `irritated` /ˈɪrɪteɪtɪd/        ([Neutral] イライラした)        The noise made me irritated.
