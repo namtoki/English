@@ -1,6 +1,6 @@
 # TODAY
 
-## Jira Board. 
+## Jira Board 
 
 As background, we are supposed to manage tasks with Eastech in JIRA, and the JIRA project is here.
 
@@ -13,6 +13,8 @@ Almost all features are planned to be completed in the early stages.
 However, some items are requested to be locked down as early as possible, such as Multipoint and Touch control.
 Plus, from the software team's perspective, we need to complete the Personalization UI and Spatial Audio UI.
 So they are scheduled in the early phase.
+
+That said, regarding Multipoint, the ball is in the software team's court—we're asking Eastech how much effort will be required on their end, so please hold on for a moment.
 
 Based on this, we've organized the app-side task schedule like this.
 These tasks include some UX and PS tasks, which are created in a way that aligns well with Anders' team.
