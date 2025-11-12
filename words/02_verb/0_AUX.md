@@ -95,6 +95,12 @@
   - `be ==!less== likely to`             ([Neutral] する確率が低い)      It's less likely to get broken if you wrap it.
 
 ## Status
+- `get to` /ɡet tuː/                ([Neutral] 〜する機会を得る)    I got to meet her yesterday.
+  - `start to` /stɑːrt tuː/         ([Neutral] 〜し始める)          I started to feel tired.
+  - `begin to` /bɪˈɡɪn tuː/         ([Neutral] 〜し始める)          It began to rain.
+  - `learn to` /lɜːrn tuː/          ([Neutral] 〜できるようになる)  She learned to appreciate art.
+  - ==come to== /kʌm tuː/             ([Neutral] 次第に〜になる)      I came to realize he was right.
+  - `grow to` /ɡroʊ tuː/            ([Neutral] 次第に〜なる)        I grew to love this city.
 - `be used to -ing` /juːzd tuː/     ([Neutral] ～に慣れている)      I'm used to working late.
   - `get used to -ing`              ([Neutral] ～に慣れる)          I got used to living alone.
   - `be accustomed to` /əˈkʌstəmd/  ([Formal] ～に慣れている)       She's accustomed to the cold.

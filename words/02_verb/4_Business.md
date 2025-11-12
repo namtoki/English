@@ -454,18 +454,19 @@
   - `cut it` /kʌt ɪt/               ([Casual] うまくやる やり遂る)  I don't think he can cut it in this job.
   - `prevail` /prɪˈveɪl/            ([Formal] 勝つ、成功する)       We will prevail despite the challenges.
   - `triumph` /ˈtraɪʌmf/            ([Formal] 勝利する、成功する)   The team triumphed over adversity.
-- `achieve` /əˈtʃiːv/               ([Neutral] 達成する 成し遂げる) They achieved their objectives.
+- ==get through== /ɡet θruː/          ([Casual] [耐える] 切り抜ける)    We'll get through this together.
+  - `work through` /wɜːrk θruː/     ([Neutral] [解決] やり抜く)       We're working through the issues.
+  - `achieve` /əˈtʃiːv/             ([Neutral] 達成する 成し遂げる) They achieved their objectives.
   - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our goal.
-  - `deliver` /dɪˈlɪvər/            ([Neutral] 提供する 達成する)   We need to deliver on our promises.
-  - `get through` /ɡet θruː/        ([Casual] 切り抜ける)           We'll get through this together.
-  - `see through` /siː θruː/        ([Neutral] 最後までやり遂げる)  She saw the project through to completion.
-  - `work through` /wɜːrk θruː/     ([Neutral] やり抜く、解決する)  We're working through the issues.
-  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
   - `follow through`                ([Neutral] 最後までやり抜く)    Make sure to follow through on your commitments.
   - `follow through with`           ([Neutral] 最後までやり抜く)    We need to follow through with our plan.
-  - `go through with`               ([Neutral] やり遂げる 実行する) She decided to go through with the plan.
+  - `push through` /pʊʃ θruː/       ([Neutral] [強引] 乗り越える)     We pushed through the difficult times.
+  - `see through` /siː θruː/        ([Neutral] [責任] 最後やり遂げる) She saw the project through to completion.
+  - `go through with`               ([Neutral] [計画] 実行する)       She decided to go through with the plan.
+  - `deliver` /dɪˈlɪvər/            ([Neutral] 提供する 達成する)   We need to deliver on our promises.
   - `realize` /ˈriːəlaɪz/           ([Formal] 実現する、達成する)   We realized our vision.
   - `fulfill` /fʊlˈfɪl/             ([Formal] 履行する、実現する)   He fulfilled his promise.
+  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
   - `attain` /əˈteɪn/               ([Formal] 達成する、獲得する)   We worked hard to attain our goals.
   - `bring to completion`           ([Formal] 完成まで導く)         We need to bring this project to completion.
 - ==come together==                   ([Neutral] まとまる)            The project is finally coming together.
