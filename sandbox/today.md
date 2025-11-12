@@ -1,10 +1,8 @@
 # TODAY
 
-## The software team created a Jira Board. This should help us align on which functions/features we need to prioritize.
-## We want to finalize i) UX Handoff and ii)UX Spec for these four functions by the end of 2025:
+## Jira Board. 
 
-As background, +
-we are supposed to manage tasks with Eastech in JIRA, and the JIRA project is here.
+As background, we are supposed to manage tasks with Eastech in JIRA, and the JIRA project is here.
 
 There is also a JIRA project that manages the Denon Headphone App, here.
 
