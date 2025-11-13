@@ -41,7 +41,11 @@ base: /English/
   display: inline-block;
 }
 
-.triggered .crumble-char {
+.crumble-text.slidev-vclick-hidden {
+  opacity: 1 !important;
+}
+
+.crumble-text.slidev-vclick-hidden .crumble-char {
   animation: crumble 0.8s ease-in forwards;
   animation-delay: calc(var(--delay) * 0.1s);
 }
@@ -69,9 +73,9 @@ base: /English/
   opacity: 0;
 }
 
-.show-new-text {
+.new-text.slidev-vclick-current {
   animation: fade-in-up 1.2s ease-out forwards;
-  animation-delay: 1s;
+  animation-delay: 0s;
 }
 
 @keyframes fade-in-up {
@@ -93,9 +97,9 @@ base: /English/
   opacity: 0;
 }
 
-.show-subtitle {
+.subtitle.slidev-vclick-current {
   animation: fade-in 1s ease-out forwards;
-  animation-delay: 2s;
+  animation-delay: 1s;
 }
 
 @keyframes fade-in {
@@ -105,15 +109,13 @@ base: /English/
 }
 </style>
 
-<v-click />
-
 <div class="title-container">
   <div class="title-text">
-    英語の学習方法<span :class="{ 'triggered': $slidev.nav.clicks >= 1 }" class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span :class="{ 'show-new-text': $slidev.nav.clicks >= 1 }" class="new-text">見てください！</span>
+    英語の学習方法<span v-click.hide="1" class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span v-click="1" class="new-text">見てください！</span>
   </div>
 </div>
 
-<div :class="{ 'show-subtitle': $slidev.nav.clicks >= 1 }" class="subtitle">
+<div v-click="1" class="subtitle">
   📚 継続的な学習で英語力を向上させる旅
 </div>
 
