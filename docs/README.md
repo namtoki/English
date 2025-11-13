@@ -50,7 +50,7 @@ npm run export
 npm run build
 ```
 
-2. `dist/` フォルダの内容をGitHub Pagesブランチにプッシュ
+2. `dist/` フォルダ内容をGitHub Pagesブランチにプッシュ
 
 ### 自動デプロイ (GitHub Actions)
 
