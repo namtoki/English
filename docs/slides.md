@@ -25,11 +25,40 @@ base: /English/
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.title-container:hover .title-text {
+  text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
 }
 
 .title-text {
   display: inline-block;
   position: relative;
+  transition: text-shadow 0.3s;
+}
+
+.click-hint {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.6);
+  margin-top: 1rem;
+  animation: pulse 2s ease-in-out infinite;
+  transition: opacity 0.3s;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.animated .click-hint {
+  opacity: 0;
+  pointer-events: none;
 }
 
 .crumble-text {
@@ -39,8 +68,11 @@ base: /English/
 
 .crumble-char {
   display: inline-block;
+}
+
+.animated .crumble-char {
   animation: crumble 0.8s ease-in forwards;
-  animation-delay: calc(1.8s + var(--delay) * 0.1s);
+  animation-delay: calc(var(--delay) * 0.1s);
 }
 
 @keyframes crumble {
@@ -63,9 +95,12 @@ base: /English/
 
 .new-text {
   display: inline-block;
-  animation: fade-in-up 1.2s ease-out forwards;
-  animation-delay: 3s;
   opacity: 0;
+}
+
+.animated .new-text {
+  animation: fade-in-up 1.2s ease-out forwards;
+  animation-delay: 1s;
 }
 
 @keyframes fade-in-up {
@@ -85,8 +120,11 @@ base: /English/
 .subtitle {
   font-size: 1.5rem;
   opacity: 0;
+}
+
+.animated .subtitle {
   animation: fade-in 1s ease-out forwards;
-  animation-delay: 4s;
+  animation-delay: 2s;
 }
 
 @keyframes fade-in {
@@ -96,10 +134,11 @@ base: /English/
 }
 </style>
 
-<div class="title-container">
+<div @click="(e) => e.currentTarget.classList.add('animated')" class="title-container">
   <div class="title-text">
     英語の学習方法<span class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span class="new-text">見てください！</span>
   </div>
+  <div class="click-hint">👆 クリックしてね</div>
 </div>
 
 <div class="subtitle">
