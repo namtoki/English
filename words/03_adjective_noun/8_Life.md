@@ -1,14 +1,17 @@
 # Life
 
 ## LIFE STAGES
+>
 > `puberty` /ˈpjuːbərti/            ([Neutral] 思春期)              She reached puberty at age 12.
-  - `infancy` /ˈɪnfənsi/            ([Neutral] 幼児期、乳児期)      During infancy, babies grow rapidly.
-  - `childhood` /ˈtʃaɪldhʊd/        ([Neutral] 幼少期、子供時代)    I have fond memories of my childhood.
-  - `adolescence` /ˌædəˈlesəns/     ([Neutral] 青年期、思春期)      Adolescence is a challenging time.
-  - `adulthood` /ˈædʌlthʊd/         ([Neutral] 成人期)              He entered adulthood at 18.
-  - `old age` /oʊld eɪdʒ/           ([Neutral] 老年期)              Many people travel in old age.
+
+- `infancy` /ˈɪnfənsi/            ([Neutral] 幼児期、乳児期)      During infancy, babies grow rapidly.
+- `childhood` /ˈtʃaɪldhʊd/        ([Neutral] 幼少期、子供時代)    I have fond memories of my childhood.
+- `adolescence` /ˌædəˈlesəns/     ([Neutral] 青年期、思春期)      Adolescence is a challenging time.
+- `adulthood` /ˈædʌlthʊd/         ([Neutral] 成人期)              He entered adulthood at 18.
+- `old age` /oʊld eɪdʒ/           ([Neutral] 老年期)              Many people travel in old age.
 
 ## HABITS AND SKILLS
+
 - `second nature` /ˈsɛkənd ˈneɪtʃər/  ([Neutral] 自然にできる習慣)     Using it becomes second nature.
 - `ingrained` /ɪnˈɡreɪnd/             ([Neutral] 深く染み付いた)       Saying thank you is an ingrained habit.
 - `instinctive` /ɪnˈstɪŋktɪv/         ([Neutral] 本能的な)             Cats have an instinctive desire to hunt.
@@ -19,24 +22,29 @@
 - `independent` /ˌɪndɪˈpendənt/     ([Neutral] 独立した、自主的な)  The country became independent in 1960.
 
 ## SKIN / FACIAL FEATURES
+>
 > `pore` /pɔːr/                      ([Neutral] 毛穴)                Blackheads clog your pores.
-  - `clogged pore`                   ([Neutral] 詰まった毛穴)        She has clogged pores on her nose.
-  - `open pore`                      ([Neutral] 開いた毛穴)          Large open pores are visible.
-  - `pore-clogging`                  ([Neutral] 毛穴を詰まらせる)    Avoid pore-clogging products.
+
+- `clogged pore`                   ([Neutral] 詰まった毛穴)        She has clogged pores on her nose.
+- `open pore`                      ([Neutral] 開いた毛穴)          Large open pores are visible.
+- `pore-clogging`                  ([Neutral] 毛穴を詰まらせる)    Avoid pore-clogging products.
 
 ## CLOTHES (OUTFIT / THREADS)
+>
 > `outfit` /ˈaʊtfɪt/                ([Casual] 服装一式、衣装)       I love your outfit today!
   > `clothes` /kləʊðz/              ([Neutral] 服、衣服)            I need to wash my clothes.
   > `threads` /θredz/               ([Casual] [若者] 服、衣服)        Nice threads! Where did you get them?
-  - `clothing` /ˈkləʊðɪŋ/           ([Neutral] 衣類、衣服)          The charity collects used clothing.
-  - `dress` /dres/                  ([Neutral] 服装、ドレス)        The dress code is business casual.
-  - `wardrobe` /ˈwɔːdrəʊb/          ([Neutral] 衣装棚、持ち服)      She has an extensive wardrobe.
-  - `garment` /ˈɡɑːrmənt/           ([Neutral] [業界] 衣服、衣類)     She carefully folded each garment.
-  - `apparel` /əˈpærəl/             ([Formal] [業界] 衣服、衣料品)    The store sells women's apparel.
-  - `attire` /əˈtaɪər/              ([Formal] [正装] 服装、衣装)      Formal attire is required for the event.
-  - `ensemble` /ɒnˈsɒmbl/           ([Formal] 一揃いの服装)         Her ensemble was perfectly coordinated.
-  - `gear` /ɡɪər/                   ([Casual] [スポーツ] 装備、服装)  Don't forget your hiking gear.
-  - `costume` /ˈkɒstjuːm/           ([Neutral] [特定用途] 衣装、仮装) She wore a traditional costume.
+
+- `clothing` /ˈkləʊðɪŋ/           ([Neutral] 衣類、衣服)          The charity collects used clothing.
+- `dress` /dres/                  ([Neutral] 服装、ドレス)        The dress code is business casual.
+- `wardrobe` /ˈwɔːdrəʊb/          ([Neutral] 衣装棚、持ち服)      She has an extensive wardrobe.
+- `garment` /ˈɡɑːrmənt/           ([Neutral] [業界] 衣服、衣類)     She carefully folded each garment.
+- `apparel` /əˈpærəl/             ([Formal] [業界] 衣服、衣料品)    The store sells women's apparel.
+- `attire` /əˈtaɪər/              ([Formal] [正装] 服装、衣装)      Formal attire is required for the event.
+- `ensemble` /ɒnˈsɒmbl/           ([Formal] 一揃いの服装)         Her ensemble was perfectly coordinated.
+- `gear` /ɡɪər/                   ([Casual] [スポーツ] 装備、服装)  Don't forget your hiking gear.
+- `costume` /ˈkɒstjuːm/           ([Neutral] [特定用途] 衣装、仮装) She wore a traditional costume.
+
 > `wear` /weər/                     ([Neutral] 着用、磨耗)          The shoes show signs of wear.
 > `wearer` /ˈweərər/                ([Neutral] 着用者)              The wearer of this hat is stylish.
 > `dressed` /drest/                 ([Neutral] 服を着た)            She was dressed in black.
@@ -66,13 +74,14 @@
 - `at heart`                            ([Neutral] 本質的には／心の中では) He’s a kind person `at heart.`
 - `at least`                      ([Neutral] 少なくとも)          At least 50 people attended.
 - `at most`                       ([Neutral] せいぜい)            At most 10 people can fit.
+- `assault` /əˈsɔːlt/                ([Neutral] 襲撃、攻撃)          The rebels are poised for a new assault.
+- `attack` /əˈtæk/                   ([Neutral] 攻撃、襲撃)          The attack began at dawn.
 - `attacker` /əˈtækər/            ([Neutral] 攻撃者)              The attacker was identified.
 - `attacking` /əˈtækɪŋ/           ([Neutral] 攻撃的な)            Their attacking strategy failed.
 - `attribute` /ˈætrɪbjuːt/          ([Formal] 属性、特質)           Flexibility is an important attribute.
 - `audacious` /ɔːˈdeɪʃəs/         ([Formal] 大胆な、厚かましい)   That's an audacious claim.
 - `audacity` /ɔːˈdæsəti/            ([Formal] 大胆さ、厚かましさ)   He had the audacity to lie.
 - `author` /ˈɔːθə/                  ([Neutral] 著者)                He is the author of this book.
-- `authoritarian` /ɔːˌθɒrɪˈteəriən/ ([Writing] 権威主義の)          The country is run by an authoritarian regime.
 - `authoritative` /ɔːˈθɒrɪtətɪv/    ([Writing] 権威のある)          This is an authoritative biography.
 - `authority` /ɔːˈθɒrəti/           ([Neutral] 権威、権限)          He has no authority over me.
 - `autobiography` /ˌɔːtəbaɪˈɒɡrəfi/  ([Neutral] 自叙伝)               She wrote her autobiography last year.
@@ -115,13 +124,11 @@
 - `biographer` /baɪˈɒɡrəfər/        ([Neutral] 伝記作家)             Boswell was Johnson's biographer.
 - `biological` /ˌbaɪəˈlɑːdʒɪkəl/  ([Formal] 生物学の)             Biological diversity is important.
 - `biologist` /baɪˈɑːlədʒɪst/     ([Formal] 生物学者)             The biologist discovered a new species.
-- `biology` /baɪˈɑːlədʒi/           ([Neutral] 生物学)              Biology is a fascinating subject.
 - `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な)              That was a bizarre situation.
 - `black and white` /blæk ænd waɪt/ ([Neutral] 明白な、単純な)      The issue isn't black and white.
 - `blameless` /ˈbleɪmləs/       ([Neutral] 責められるべきでない)She was blameless in the incident.
 - `blameworthy` /ˈbleɪmwɜːrði/  ([Formal] 責められるべき)       His actions were clearly blameworthy.
 - `blatant` /ˈbleɪtənt/             ([Neutral] 露骨な、見え透いた)  That was a blatant lie.
-- `blatantly` /ˈbleɪtəntli/       ([Neutral] 露骨に、あからさまに) He blatantly ignored the rules.
 - `blemish` /ˈblemɪʃ/             ([Neutral] 傷、汚点)            The scandal was a blemish on her career.
 - `blend` /blend/                    ([Neutral] 混合、組み合わせ)    The music is a blend of styles.
 - `blueprint` /ˈbluːpɹɪnt/           ([Neutral] 青写真、設計図)          They drew up a blueprint for the house.
@@ -131,7 +138,6 @@
 - `bold` /boʊld/                 ([Neutral] 大胆な、厚かましい)  That's a bold request.
 - `boor` /bʊr/                    ([Writing] 無骨者、田舎者)      He's such a boor at parties.
 - `boorish` /ˈbʊrɪʃ/                ([Writing] 無骨な、田舎者の)    His boorish behavior embarrassed us.
-- `boorishly` /ˈbʊrɪʃli/          ([Writing] 無骨に)              He boorishly ignored social cues.
 - `boorishness` /ˈbʊrɪʃnəs/       ([Writing] 無骨、粗野)          His boorishness alienated everyone.
 - `bootless` /ˈbuːtləs/             ([Writing] 無益な)              Their bootless cries went unheard.
 - `booze` /buːz/                     ([Casual] 酒)                       Let's grab some booze for the party.
@@ -148,7 +154,6 @@
 - `brass` /bræs/                    ([Casual] 厚かましさ、真鍮)     She's got brass asking for more.
 - `brazen` /ˈbreɪzən/               ([Neutral] 図々しい 厚かましい) She made a brazen request.
 - `brazen` /ˈbreɪzən/               ([Writing] 厚かましい、露骨な)  It was a brazen attempt to cheat.
-- `brazenly` /ˈbreɪzənli/         ([Writing] 厚かましく)          She brazenly lied to everyone.
 - `brazenness` /ˈbreɪzənnəs/      ([Neutral] 図々しさ 厚かましさ) His brazenness was astounding.
 - `breach` /briːtʃ/                 ([Formal] 違反、裂け目)       The breach of contract was serious.
 - `break` /breɪk/                   ([Neutral] 休憩、中断)          Let's take a break.
@@ -165,7 +170,6 @@
 - `bygones` /ˈbaɪɡɔːnz/           ([Writing] 過去の事)            Let bygones be bygones.
 - `byproduct` /ˈbaɪprɒdʌkt/         ([Neutral] 副産物)              Pollution is a byproduct of industrialization.
 - `calamity` /kəˈlæməti/              ([Formal] 災難、不幸)          The fire was a calamity for the town.
-- `calculus` /ˈkælkjələs/           ([Neutral] 微積分学)            Calculus is required for engineering.
 - `calf` /kæf/                       ([Neutral] ふくらはぎ)          My calf muscles are tight.
 - `calm` /kɑːm/                     ([Neutral] 冷静な、穏やかな)    Stay calm during the emergency.
 - `can't stand` /kænt stænd/        ([Casual] 我慢できない)         I can't stand his behavior.
@@ -180,13 +184,10 @@
 - `catastrophe` /kəˈtæstrəfi/          ([Formal] 大惨事、破綻)        The flood was a complete catastrophe.
 - `cathedral` /kəˈθidrəl/           ([Neutral] 大聖堂)              The cathedral has beautiful stained glass.
 - `caustic` /ˈkɔːstɪk/              ([Writing] 辛辮な)              Her caustic remarks hurt everyone.
-- `ceasefire` /ˈsiːsfaɪə/           ([Formal] 停戦)                 Both sides agreed to a ceasefire.
 - `ceaseless` /ˈsiːsləs/            ([Formal] 絶え間ない、不断の)   The ceaseless noise kept me awake.
-- `ceaselessly` /ˈsiːsləsli/      ([Formal] 絶え間なく)           They worked ceaselessly on the project.
 - `celebrity` /səˈlebrəti/           ([Neutral] 有名人、著名人)      He's a local celebrity in town.
 - `cessation` /seˈseɪʃən/           ([Formal] 停止、中止)           The treaty brought a cessation of hostilities.
 - `challenging` /ˈtʃælɪndʒɪŋ/       ([Neutral] やりがいのある困難)  This project is very challenging.
-- `chamber` /ˈtʃeɪmbər/           ([Formal] 議院、会議場)         The upper chamber voted on the bill.
 - `champion` /ˈtʃæmpiən/            ([Neutral] 擁護者、チャンピオン) He's a champion of workers' rights.
 - `chaos` /ˈkeɪɑːs/                 ([Neutral] 混沌、大混乱)        The office was in complete chaos.
 - `chaos` /ˈkeɪɒs/                  ([Neutral] 混沌、大混乱)        The announcement caused chaos.
@@ -218,10 +219,12 @@
 - `clothesline` /ˈkləʊðzlaɪn/       ([Neutral] 物干しロープ)        Hang the laundry on the clothesline.
 - `clothespin` /ˈkləʊðzpɪn/         ([Neutral] 洗濯ばさみ)          Use clothespins to secure the sheets.
 - `clout` /klaʊt/                   ([Neutral] 影響力)              She has a lot of clout in the industry.
-- `coal` /koʊl/                     ([Neutral] 石炭)                They burn coal for energy.
-- `coalition` /ˌkoʊəˈlɪʃən/         ([Formal] 連立、連合)           The parties formed a coalition government.
+- `couch potato` /kaʊtʃ pəˈteɪtoʊ/   ([Casual] 怠け者、ソファ人間)    Don't be a couch potato all day!
+- `lazybones` /ˈleɪzɪboʊnz/        ([Casual] 怠け者、ぐうたら)     Get up, lazybones!
+- `layabout` /ˈleɪəbaʊt/           ([Casual] 怠け者、なまけ者)     He's such a layabout!
+- `slacker` /ˈslækər/              ([Casual] 怠け者、サボる人)     He's such a slacker at work.
+- `slouch` /slaʊtʃ/                  ([Casual] 怠け者、だらしない人) They're just a bunch of slouches.
 - `coarse` /kɔːrs/                  ([Neutral] 粗野な、粗い)        His coarse manners upset the guests.
-- `coarsely` /ˈkɔːrsli/           ([Neutral] 粗野に)              She laughed coarsely at the joke.
 - `coarseness` /ˈkɔːrsnəs/        ([Neutral] 粗野、粗さ)          His coarseness was evident.
 - `cocky` /ˈkɑːki/               ([Casual] 生意気な、うぬぼれた) He's getting too cocky.
 - `collapse` /kəˈlæps/              ([Neutral] 崩壊、破綻)          The collapse of the company was sudden.
@@ -229,19 +232,13 @@
 - `collective` /kəˈlɛktɪv/         ([Neutral] 集団の、共同の)       It was a collective decision.
 - `comfort` /ˈkʌmfət/                ([Neutral] 慰める、慰め)             She tried to comfort the crying child.
 - `comfortable` /ˈkʌmftəbəl/       ([Neutral] 快適な、安楽な)           This chair is very comfortable.
-- `comfortably` /ˈkʌmfərtəbli/     ([Neutral] 快適に、気楽に)       She sat comfortably in her favorite chair.
-- `commendable` /kəˈmendəbəl/     ([Writing] 称賛すべき)         Your commendable dedication is inspiring.
-- `commendation` /ˌkɑːmənˈdeɪʃən/ ([Formal] 表彰、称賛)          He received a commendation for bravery.
 - `commitment` /kəˈmɪtmənt/       ([Neutral] 献身、約束)          She made a commitment to help.
 - `committed` /kəˈmɪtɪd/            ([Neutral] 献身的な、約束した)  He's committed to the project.
 - `common` /ˈkɑːmən/                ([Neutral] 一般的な、よくある)  This is a common problem.
 - `commotion` /kəˈmoʊʃən/           ([Neutral] 騒動、混乱)          What's all this commotion about?
-- `competence` /ˈkɒmpɪtəns/       ([Neutral] 能力)                His competence is well recognized.
-- `competent` /ˈkɒmpɪtənt/          ([Neutral] 有能な)              She's a competent manager.
 - `complex` /kəmˈpleks/             ([Writing] 構造の複雑さ)        The human brain is an incredibly complex organ.
 - `complicated` /ˈkɒmplɪkeɪtɪd/  ([Neutral] 入り組んだ複雑さ)    The instructions were too complicated.
 - `complication`/ˌkɒmplɪˈkeɪʃən/  ([Writing] 面倒な事態)          The surgery was successful, but there were complications.
-- `compliment` /ˈkɑːmpləmənt/        ([Neutral] 賛辞、おせじ)     She gave him a sincere compliment.
 - `complimentary` /ˌkɑːmpləˈmentəri/ ([Formal] 賞賛の、無料の)  The review was complimentary about her performance.
 - `compose` /kəmˈpoʊz/            ([Neutral] 落ち着かせる)        Compose yourself before the interview.
 - `composed` /kəmˈpoʊzd/            ([Neutral] 落ち着いた、冷静な)  She remained composed throughout.
@@ -268,7 +265,6 @@
 - `consolation` /ˌkɑːnsəˈleɪʃən/   ([Formal] 慰めること、安らぎ)        The trophy was small consolation for losing.
 - `console` /kənˈsoʊl/               ([Formal] 慰める、元気づける)        He tried to console his grieving friend.
 - `conspicuous` /kənˈspɪkjuəs/      ([Formal] 目立つ、顕著な)       His absence was conspicuous.
-- `conspicuously` /kənˈspɪkjuəsli/ ([Formal] 目立って)            She was conspicuously silent during the meeting.
 - `containment` /kənˈteɪnmənt/       ([Neutral] 封じ込め、抑制)          The containment of the virus is critical.
 - `contemplation` /ˌkɒntəmˈpleɪʃn/ ([Formal] 熟考、瞑想)          She sat in quiet contemplation.
 - `continuum` /kənˈtɪnjuəm/         ([Formal] 連続体、範囲)          Political views exist on a continuum.
@@ -278,20 +274,17 @@
 - `contradictory` /ˌkɑːntrəˈdɪktəri/ ([Neutral] 矛盾した)        Their statements are contradictory.
 - `control` /kənˈtɹoʊl/              ([Neutral] 支配、管理)              She lost control of the car.
 - `controlled` /kənˈtroʊld/         ([Neutral] 制御された、冷静な)  He gave a controlled response.
-- `convent` /ˈkɑnvent/              ([Neutral] 修道院、女子修道院)  She entered the convent at age 18.
 - `convict` /ˈkɒnvɪkt/               ([Neutral] 有罪者、囚人)        The convict served ten years.
 - `convivial` /kənˈvɪviəl/          ([Writing] 陽気な、社交的な)    The convivial atmosphere made everyone relax.
 - `conviviality` /kənˌvɪviˈæləti/ ([Writing] 陽気さ、歓楽)        The party had an air of conviviality.
 - `convoluted` /ˈkɒnvəluːtɪd/       ([Writing] 複雑で分かりにくい)  His explanation was convoluted.
 - `cool` /kuːl/                     ([Casual] 冷静な、落ち着いた)   Keep cool under pressure.
 - `corner` /ˈkɔːrnər/               ([Neutral] 角、隅)              He sat in the corner.
-- `correct` /kəˈrekt/               ([Neutral] 正しい、正確な)      Is this answer correct?
 - `correction` /kəˈrekʃən/      ([Neutral] 訂正、修正)          The teacher made a correction.
 - `courage` /ˈkɜːrɪdʒ/              ([Neutral] 勇気)                It takes courage to admit mistakes.
 - `covertness` /ˈkoʊvərtnəs/      ([Formal] 隠密性)               The covertness of the operation was crucial.
 - `cranny` /ˈkræni/                 ([Neutral] 割れ目、隙間)         Every nook and cranny.
 - `crass` /kræs/                    ([Formal] 無神経な、粗野な)     That was a crass thing to say.
-- `crassly` /ˈkræsli/             ([Formal] 無神経に)             He crassly mentioned her weight.
 - `crassness` /ˈkræsnəs/          ([Formal] 無神経、粗野)         The crassness of his comment hurt her.
 - `credentials` /krɪˈdenʃəlz/       ([Formal] 資格、実績)           His credentials are outstanding.
 - `crevice` /ˈkrevɪs/               ([Neutral] 裂け目、割れ目)       Water seeped through the crevice.
@@ -301,13 +294,13 @@
 - `criticism` /ˈkrɪtɪsɪzəm/     ([Neutral] 批判、非難)          The criticism was harsh but fair.
 - `critique` /krɪˈtiːk/         ([Formal] 評論、批評)           The art critique was thoughtful and detailed.
 - `crude` /kruːd/                   ([Neutral] 粗野な、下品な)      His crude jokes offended everyone.
-- `crudely` /ˈkruːdli/            ([Neutral] 粗野に)              He crudely expressed his opinion.
 - `crudeness` /ˈkruːdnəs/         ([Neutral] 粗野、下品)          The crudeness of his language was shocking.
 - `crudity` /ˈkruːdəti/           ([Writing] 粗野、未熟)          The crudity of the design was obvious.
 - `cryptic` /ˈkrɪptɪk/               ([Neutral] 謎めいた)             He left a cryptic message.
 - `crystal clear` /ˈkrɪstəl klɪr/   ([Neutral] 非常に明確な)        The instructions are crystal clear.
 - `cultivated taste`                ([Formal] 培われた嗜好)         His cultivated taste shows in his wine selection.
 - `cumbersome` /ˈkʌmbɚsəm/        ([Neutral] 扱いにくい、煩雑な)  The process is cumbersome.
+  - `unwieldy` /ʌnˈwiːldi/           ([Neutral] 扱いにくい)           The package was large and unwieldy.
 - `cunning` /ˈkʌnɪŋ/              ([Neutral] 狡猾さ、巧妙さ)       His cunning helped him avoid detection.
 - `cut and dried` /kʌt ænd draɪd/   ([Casual] 明白な、決まりきった) The answer isn't cut and dried.
 - `dawn` /dɔːn/                     ([Writing] 夜明け、始まり)      The dawn of a new era has begun.
@@ -318,13 +311,11 @@
 - `debunking` /dɪˈbʌŋkɪŋ/         ([Neutral] 論破、暴露)          The debunking of myths is important.
 - `decadence` /ˈdekədəns/           ([Neutral] 退廃、堕落)          The decadence of the empire.
 - `deck` /dek/                    ([Neutral] デッキ)              We built a wooden deck in the backyard.
-- `declaration` /ˌdɛkləˈɹeɪʃən/      ([Formal] 宣言、申告)              He signed a customs declaration.
 - `dedicated` /ˈdedɪkeɪtɪd/         ([Neutral] 献身的な、専念した)  She's a dedicated teacher.
 - `dedication` /ˌdedɪˈkeɪʃən/     ([Neutral] 献身、専念)          His dedication to work is impressive.
 - `deep` /diːp/                     ([Neutral] 深い、強い)          She has deep feelings for him.
 - `defeat` /dɪˈfiːt/                ([Neutral] 敗北、挫折)          They suffered a crushing defeat.
 - `defection` /dɪˈfekʃən/         ([Formal] 離反、亡命)           His defection shocked everyone.
-- `defective` /dɪˈfektɪv/         ([Neutral] 欠陥のある)          The defective weapon was recalled.
 - `defender` /dɪˈfendə/           ([Neutral] 防御者、守備者)      The defender blocked the attack.
 - `defense` /dɪˈfens/             ([Neutral] 防御、防衛)          The city's defense was strong.
 - `defenseless` /dɪˈfensləs/      ([Neutral] 無防備の)            The village was left defenseless.
@@ -346,7 +337,6 @@
 - `dependable` /dɪˈpendəbəl/        ([Neutral] 頼りになる 良心的な) He's a dependable friend.
 - `deplorable` /dɪˈplɔrəbəl/        ([Formal] 嘆かわしい、酷い)     The housing conditions were deplorable.
 - `deposit` /dɪˈpɑːzɪt/             ([Neutral] 鉱床、堆積物)        They found a gold deposit.
-- `deposition` /ˌdepəˈzɪʃən/        ([Formal] 証言録取、退位)        She gave a deposition to the lawyer.
 - `derivation` /ˌderɪˈveɪʃən/     ([Formal] 由来、派生)           The derivation of this theory is complex.
 - `derivative` /dɪˈrɪvətɪv/         ([Formal] 派生物、派生的な)     This product is a derivative of their original design.
 - `despicable` /dɪˈspɪkəbəl/        ([Formal] 軽蔑すべき)           It was a despicable act.
@@ -360,7 +350,6 @@
 - `determine` /dɪˈtɜːmɪn/         ([Neutral] 決定する、決心する)   We need to determine the cause.
 - `determined` /dɪˈtɜːmɪnd/         ([Neutral] 決意した、断固とした) She is determined to succeed.
 - `determined` /dɪˈtɜːrmɪnd/        ([Neutral] 決意した、真剣な)    She's determined to succeed.
-- `determinedly` /dɪˈtɜːrmɪndli/  ([Neutral] 決意して、真剣に)    He worked determinedly toward his goal.
 - `detest` /dɪˈtest/                ([Formal] ひどく嫌う)           I detest being late.
 - `detestable` /dɪˈtestəbl/       ([Writing] 憎むべき)            His detestable actions hurt many.
 - `detestable` /dɪˈtestəbəl/        ([Formal] 忌まわしい)           His behavior was detestable.
@@ -372,7 +361,6 @@
 - `devotee` /ˌdevəˈtiː/           ([Writing] 心酔者、献身する人)  She's a devotee of classical music.
 - `devotion` /dɪˈvəʊʃən/          ([Neutral] 献身)                Her devotion to charity is admirable.
 - `devout` /dɪˈvaʊt/                ([Writing] 敬虔な、真摯な)      She's a devout believer.
-- `devoutly` /dɪˈvaʊtli/          ([Writing] 敬虔に、真摯に)      He devoutly wished for peace.
 - `diagram` /ˈdaɪəɡɹæm/              ([Neutral] 図、図表)                The diagram shows how it works.
 - `dialogue` /ˈdaɪəlɔːɡ/             ([Neutral] 対話、会話)          The dialogue between them was tense.
 - `diaspora` /daɪˈæspərə/            ([Writing] 離散)          The Jewish diaspora spans many countries.
@@ -393,7 +381,6 @@
 - `disappointed` /ˌdɪsəˈpɔɪntɪd/    ([Neutral] 失望した)            I was disappointed by the outcome.
 - `disaster` /dɪˈzæstər/             ([Neutral] 災害、惨事)        The earthquake was a major disaster.
 - `disastrous` /dɪˈzæstrəs/          ([Neutral] 悲惨な、破滅的な)   The storm had disastrous consequences.
-- `disastrously` /dɪˈzæstrəsli/      ([Neutral] 悲惨に、破滅的に)   The plan failed disastrously.
 - `discard` /dɪˈskɑːd/               ([Neutral] 捨てる、廃棄する)    Discard the old newspapers.
 - `discerning` /dɪˈsɜːrnɪŋ/     ([Formal] 目の肥えた)           He has discerning taste.
 - `discernment` /dɪˈsɜːrnmənt/  ([Formal] 識別力、洞察力)       She showed great discernment.
@@ -418,7 +405,6 @@
 - `disordered` /dɪsˈɔːrdərd/      ([Neutral] 乱れた、混乱した)    His thoughts were disordered.
 - `disorderly` /dɪsˈɔːrdərli/     ([Formal] 無秩序な、乱暴な)     They were arrested for disorderly conduct.
 - `dispassionate` /dɪsˈpæʃənət/     ([Formal] 冷静な、感情的でない) He gave a dispassionate analysis.
-- `dispassionately`               ([Formal] 冷静に、客観的に)     She analyzed the data dispassionately.
 - `displacement` /dɪsˈpleɪsmənt/     ([Neutral] 移動、置き換え)      The displacement of people due to war.
 - `displeased` /dɪsˈpliːzd/         ([Neutral] 不快な、不満な)      He was displeased with the service.
 - `disrepute` /ˌdɪsrɪˈpjuːt/        ([Formal] 悪評、不評)           The company fell into disrepute.
@@ -429,7 +415,6 @@
 - `distinction` /dɪˈstɪŋkʃən/        ([Formal] 区別、優秀性)      She graduated with high distinction.
 - `distinctive` /dɪˈstɪŋktɪv/       ([Neutral] 独特の)           The building has a distinctive architecture.
 - `distinctly` /dɪˈstɪŋktli/        ([Neutral] はっきりと)       I distinctly remember what happened.
-- `distinguished` /dɪˈstɪŋɡwɪʃt/([Formal] 卓越した、著名な)     She's a distinguished professor.
 - `disturb` /dɪˈstɜːrb/               ([Neutral] 動揺させる、妨げる)  The news disturbed her greatly.
 - `disturbance` /dɪˈstɜːrbəns/      ([Formal] 騒動、妨害)           The police were called about a disturbance.
 - `disturbance` /dɪˈstɜːrbəns/     ([Neutral] 妨害、騒動)          There was a disturbance outside.
@@ -501,8 +486,6 @@
 - `everything`                      ([Neutral] 全て)                `Everything` is going to be fine.
 - `evocation` /ˌevəˈkeɪʃən/     ([Writing] 想起、呼び起こし)    The evocation of past times was moving.
 - `evocative` /ɪˈvoʊkətɪv/      ([Writing] 想起させる)          The photo is evocative of old times.
-- `exact` /ɪɡˈzækt/               ([Neutral] 正確な、厳密な)      What's the exact time?
-- `exact` /ɪɡˈzækt/              ([Neutral] 正確な、厳密な)      What's the exact time?
 - `exacting` /ɪɡˈzæktɪŋ/          ([Formal] 厳密な、骨の折れる)   The job requires exacting standards.
 - `exalt` /ɪɡˈzɔːlt/               ([Writing] 称賛する、高める)      The poem exalts the beauty of nature.
 - `exaltation` /ˌeɡzɔːlˈteɪʃən/  ([Writing] 称賛、高揚)            He felt a sense of exaltation after winning.
@@ -538,14 +521,9 @@
 - `fanciful` /ˈfænsɪfəl/        ([Neutral] 空想的な、奇抜な)    That's a fanciful idea.
 - `fancy` /ˈfænsi/                  ([Writing] 空想、気まぐれ)      It was just a passing fancy.
 - `fantasize` /ˈfæntəsaɪz/        ([Casual] 空想する)             He likes to fantasize about traveling.
-- `fantastical` /fænˈtæstɪkəl/    ([Writing] 幻想的な)            The story had fantastical creatures.
 - `fantasy` /ˈfæntəsi/              ([Neutral] 幻想、空想)          Living in a castle is just a fantasy.
 - `far more`                      ([Neutral] はるかに多く)        This is far more difficult.
 - `fastidious` /fæˈstɪdiəs/         ([Writing] 細部にこだわる)      He's fastidious about cleanliness.
-- `fault` /fɔːlt/                   ([Neutral] 過失を見つける)      She always finds fault with everything.
-- `faultless` /ˈfɔːltləs/         ([Formal] 非の打ちどころのない) His reasoning was faultless.
-- `faultless` /ˈfɔːltləs/         ([Neutral] 完璧な、非の打ち所のない) Her performance was faultless.
-- `faulty` /ˈfɔːlti/              ([Neutral] 欠陥のある)          The faulty wiring caused a fire.
 - `feasible` /ˈfiːzəbəl/         ([Neutral] 実行可能な)          The plan is feasible with our budget.
 - `feat` /fiːt/                     ([Neutral] 偉業、功績)          Climbing Everest is an incredible feat.
 - `feature` /ˈfiːtʃər/              ([Neutral] 特徴、機能)          This app has many useful features.
@@ -573,6 +551,7 @@
 - `fling` /flɪŋ/                    ([Casual] 短期の恋愛、情事)     They had a brief fling last summer.
 - `flop` /flʌp/                     ([Casual] 大失敗)               The movie was a complete flop.
 - `foe` /foʊ/                       ([Writing] 敵、仇敵)            The knight faced his mortal foe.
+- `foray` /ˈfɔːreɪ/                  ([Formal] 急襲、進出)           Vikings made a foray on the port.
 - `for which`                     ([Formal] そのために〜する)     The purpose `for which` it was made.
 - `fore`                            ([Nautical] 前部の)             The fore deck of the ship.
 - `foremost`                        ([Formal] 最前部の、主要な)     The foremost expert.
@@ -585,7 +564,6 @@
 - `fortress` /ˈfɔːtrəs/           ([Neutral] 要塞、砦)            The fortress stood on the hill.
 - `free` /friː/                   ([Neutral] 自由な、無料の)      You are free to choose.
 - `freedom` /ˈfriːdəm/              ([Neutral] 自由)                Freedom of speech is important.
-- `freely` /ˈfriːli/              ([Neutral] 自由に)              Feel free to ask questions.
 - `freeze` /friːz/                    ([Neutral] 凍る、固まる)              I froze when I heard the noise.
 - `freezer` /ˈfriːzər/             ([Neutral] 冷凍庫)                    Put the ice cream in the freezer.
 - `freezing` /ˈfriːzɪŋ/           ([Neutral] 凍るような)                It's freezing outside today.
@@ -611,15 +589,10 @@
 - `gentle` /ˈdʒentəl/               ([Neutral] 優しい、穏やかな)    She has a gentle nature.
 - `gentleness` /ˈdʒentəlnəs/       ([Neutral] 優しさ、穏やかさ)         His gentleness won her heart.
 - `gently` /ˈdʒentli/              ([Neutral] 優しく、そっと)           He gently touched her shoulder.
-- `genuine` /ˈdʒenjuɪn/             ([Neutral] 本物の、真剣な)      She showed genuine concern.
-- `geometric` /ˌdʒiːəˈmetrɪk/     ([Neutral] 幾何学的な)          The geometric patterns are beautiful.
-- `geometrical` /ˌdʒiːəˈmetrɪkəl/ ([Formal] 幾何学的な)           The geometrical proof is elegant.
-- `geometry` /dʒiˈɑːmətri/          ([Neutral] 幾何学)              I'm studying geometry this semester.
 - `ghost` /ɡəʊst/                   ([Neutral] 幽霊、亡霊)          She saw a ghost in the attic.
 - `ghostly` /ˈɡəʊstli/            ([Neutral] 幽霊のような)        A ghostly figure appeared.
 - `glare` /ɡleər/                 ([Neutral] にらみつける)        She glared at him angrily.
 - `glaring` /ˈɡleərɪŋ/              ([Neutral] 明白な、目立つ)      There's a glaring error in the report.
-- `glaringly` /ˈɡleərɪŋli/        ([Neutral] 明白に)              The mistake was glaringly obvious.
 - `good things`                     ([Neutral] 良いこと)            `Good things` come to those who wait.
 - `good way forward`                ([Neutral] 良い前進方法)        That seems like a good way forward.
 - `graffiti` /ɡɹəˈfiti/             ([Neutral] 落書き、グラフィティ) The wall was covered with graffiti.
@@ -628,7 +601,6 @@
 - `gravity` /ˈɡrævəti/            ([Formal] 重大さ、深刻さ)       The gravity of the situation hit him.
 - `great` /ɡreɪt/                   ([Neutral] 大きな、強い)        She showed great courage.
 - `gregarious` /ɡrɪˈɡeəriəs/        ([Formal] 社交的な)             She's very gregarious and loves parties.
-- `gregariously` /ɡrɪˈɡeəriəsli/  ([Formal] 社交的に)             He gregariously mingled with everyone.
 - `gregariousness` /ɡrɪˈɡeəriəsnəs/ ([Formal] 社交性)             Her gregariousness makes her popular.
 - `grit` /ɡrɪt/                     ([Casual] 根性、気骨)           She has real grit and determination.
 - `gross` /ɡroʊs/                ([Casual] 気持ち悪い、ひどい)   That's really gross!
@@ -648,7 +620,6 @@
 - `hardworking` /ˈhɑːrdˌwɜːrkɪŋ/    ([Neutral] 勤勉な、真面目な)    She's a hardworking student.
 - `hardy` /ˈhɑːdi/                ([Writing] 頑丈な、耐寒性の)    This is a very hardy plant.
 - `harsh` /hɑːʃ/                    ([Neutral] 厳しい、過酷な)      The teacher gave harsh criticism.
-- `harshly` /ˈhɑːʃli/             ([Neutral] 厳しく)              He spoke harshly to the students.
 - `harshness` /ˈhɑːʃnəs/          ([Neutral] 厳しさ、過酷さ)      The harshness of winter was unbearable.
 - `hate` /heɪt/                  ([Neutral] 嫌う、憎む)          I hate doing laundry.
 - `hatred` /ˈheɪtrəd/             ([Neutral] 憎悪、嫌悪)          His hatred was obvious.
@@ -701,6 +672,7 @@
 - `icon` /ˈaɪkɒn/                   ([Neutral] アイコン、偶像)       She's an icon in the fashion world.
 - `identifiable` /aɪˌdentɪˈfaɪəbəl/ ([Formal] 識別できる、共感できる) The character is identifiable to readers.
 - `identify with` /aɪˈdentɪfaɪ wɪð/ ([Neutral] 共感する、同一視する) Many people identify with his struggles.
+- `idler` /ˈaɪdlər/                  ([Writing] 怠け者、遊び人)      He's such an idler at work.
 - `ill repute` /ɪl rɪˈpjuːt/        ([Formal] 悪評)                 The hotel has an ill repute.
 - `illusion` /ɪˈluːʒən/             ([Neutral] 錯覚、幻想)          The magician created an optical illusion.
 - `illusionist` /ɪˈluːʒənɪst/     ([Neutral] 手品師、幻術師)      The illusionist amazed the audience.
@@ -722,14 +694,9 @@
 - `in earnest`                          ([Formal] 本格的に／真剣に) They began the negotiations `in earnest` last week.
 - `in which`                      ([Formal] その中で〜する)       The situation `in which` we find ourselves.
 - `inadequate` /ɪnˈædɪkwət/       ([Neutral] 不適切な)            The budget is inadequate.
-- `incompetence` /ɪnˈkɒmpɪtəns/   ([Formal] 無能)                 His incompetence caused problems.
-- `incompetent` /ɪnˈkɒmpɪtənt/    ([Formal] 無能な)               The incompetent employee was fired.
 - `inconsolable` /ˌɪnkənˈsoʊləbəl/ ([Writing] 慰めようがない)         She was inconsolable after the tragedy.
 - `inconspicuous` /ˌɪnkənˈspɪkjuəs/ ([Neutral] 目立たない)        She tried to remain inconspicuous.
 - `indefensible` /ˌɪndɪˈfɛnsəbəl/   ([Formal] 弁護できない、正当化できない) Killing civilians is indefensible.
-- `independence` /ˌɪndɪˈpendəns/    ([Neutral] 独立)                The country gained independence.
-- `independent` /ˌɪndɪˈpendənt/   ([Neutral] 独立した)            She's an independent woman.
-- `independently` /ˌɪndɪˈpendəntli/ ([Neutral] 独立して)          They work independently of each other.
 - `indigenous` /ɪnˈdɪdʒənəs/       ([Formal] 固有の、土着の)        These plants are indigenous to the region.
 - `indistinct` /ˌɪndɪˈstɪŋkt/       ([Writing] 不明瞭な)         The voice on the phone was indistinct.
 - `indulgence` /ɪnˈdʊldʒəns/        ([Neutral] 放縦、甘やかし)       His indulgence in luxury was excessive.
@@ -744,7 +711,6 @@
 - `inscription` /ɪnˈskɹɪpʃən/     ([Formal] 碑文、刻まれた文字)   The inscription on the tomb was barely visible.
 - `inscrutability` /ɪnˌskruːtəˈbɪləti/ ([Writing] 不可解さ)           The inscrutability of his motives puzzled everyone.
 - `inscrutable` /ɪnˈskruːtəbəl/      ([Writing] 不可解な)             His expression remained inscrutable.
-- `inscrutably` /ɪnˈskruːtəbli/      ([Writing] 不可解に)             He smiled inscrutably.
 - `insignificance` /ˌɪnsɪɡˈnɪfɪkəns/ ([Neutral] 重要でないこと)    The insignificance of the error was obvious.
 - `insignificant` /ˌɪnsɪɡˈnɪfɪkənt/ ([Formal] 取るに足らない)       The difference is insignificant.
 - `insolence` /ˈɪnsələns/           ([Formal] 横柄さ、無礼)         I won't tolerate such insolence.
@@ -755,7 +721,6 @@
 - `insufficient` /ˌɪnsəˈfɪʃənt/   ([Neutral] 不十分な)            The evidence is insufficient.
 - `insurrection` /ˌɪnsəˈrekʃən/     ([Writing] 暴動、反乱)          The insurrection was quickly suppressed.
 - `intense` /ɪnˈtens/               ([Neutral] 激しい、強烈な)      She felt intense emotions.
-- `interim` /ˈɪntərɪm/            ([Formal] 暫定の、中間の)       She served as interim manager during the transition.
 - `interlude` /ˈɪntərluːd/          ([Writing] 幕間、合間)          It was a peaceful interlude in a busy day.
 - `intermediate` /ˌɪntərˈmiːdiət/ ([Neutral] 中間の、中級の)      We need an intermediate solution before the final one.
 - `intermission` /ˌɪntərˈmɪʃən/     ([Neutral] 休憩、幕間)          There's a 15-minute intermission after act one.
@@ -765,7 +730,6 @@
 - `introductory` /ˌɪntrəˈdʌktəri/ ([Neutral] 導入の、入門の)      This is an introductory meeting for new members.
 - `invade` /ɪnˈveɪd/              ([Formal] 侵略する、侵入)       The army invaded the neighboring country.
 - `invader` /ɪnˈveɪdə/            ([Formal] 侵略者、侵入者)       The invaders were repelled.
-- `invasion` /ɪnˈveɪʒən/            ([Formal] 侵攻、侵略)           The invasion was repelled.
 - `invention` /ɪnˈvenʃən/           ([Neutral] 作り話、創作)        That excuse is pure invention.
 - `involved` /ɪnˈvɒlvd/             ([Neutral] 関わっている 複雑な) The procedure is quite involved.
 - `irrefutable` /ˌɪrɪˈfjuːtəbəl/  ([Writing] 反駁できない)        The evidence is irrefutable.
@@ -776,9 +740,13 @@
 - `kind of thing`                   ([Neutral] 〜的なもの)          It's not my `kind of thing`.
 - `knee` /niː/                       ([Neutral] 膝)                  I scraped my knee when I fell.
 - `knot` /nɒt/                       ([Neutral] 結び目、もつれ)        I tied a knot in the rope.
-- `kudos` /ˈkuːdɑːs/                 ([Casual] 称賛、名声)         Kudos to you for finishing the project!
+- `boy` /bɔɪ/                        ([Neutral] 少年、男の子)       I used to play here as a boy.
+- `kid` /kɪd/                        ([Casual] 子供)                 He took the kids to the park.
+- `lad` /læd/                        ([Casual] 少年、若者)           Come along, lad. Time for you to get home.
+- `teenager` /ˈtiːneɪdʒər/           ([Neutral] 10代の若者)         The magazine is aimed at teenagers.
+- `youngster` /ˈjʌŋstər/             ([Neutral] 若者、子供)          The camp is for youngsters aged 8 to 14.
+- `youth` /juːθ/                     ([Neutral] 若者、青年期)        In my youth my ambition had been to be an inventor.
 - `laborious` /ləˈbɔːriəs/          ([Writing] 骨の折れる)          It was a laborious process.
-- `laboriously` /ləˈbɔːriəsli/    ([Writing] 骨を折って)          He laboriously completed the task.
 - `landlady` /ˈlændleɪdi/         ([Neutral] 女性大家)            The landlady lives downstairs.
 - `landlord` /ˈlændlɔːrd/           ([Neutral] 大家、家主)          The landlord raised the rent.
 - `lashing` /ˈlæʃɪŋ/            ([Neutral] 激しい非難)          He received a verbal lashing.
@@ -818,7 +786,12 @@
 - `manner | manners`            やり方、方法、立ち振る舞い | 礼儀、マナー
 - `many more`                     ([Neutral] ずっと多く)          Many more people joined.
 - `masses of`                     ([Casual] 大量の)               Masses of people attended.
-- `mathematics` /ˌmæθəˈmætɪks/      ([Formal] 数学)                 Mathematics is the language of science.
+- `flagpole` /ˈflæɡpoʊl/             ([Neutral] 旗竿)                The new flag was hoisted up the flagpole.
+- `mast` /mæst/                      ([Neutral] マスト、柱)          The yacht lost its mast during the storm.
+- `pole` /poʊl/                      ([Neutral] 柱、棒)              The truck crashed into a telegraph pole.
+- `post` /poʊst/                     ([Neutral] 支柱、柱)            The device is fixed to a post.
+- `pylon` /ˈpaɪlɑːn/                 ([Neutral] 鉄塔、送電塔)        The bridge is supported by concrete pylons.
+- `spar` /spɑːr/                     ([Neutral] 帆柱、円材)          The mast was a solid spruce spar.
 - `mayhem` /ˈmeɪhem/                ([Neutral] 大混乱、騒乱)        The storm caused mayhem in the city.
 - `measure up` /ˈmeʒər ʌp/          ([Neutral] 基準に達する)        He doesn't measure up to the job.
 - `measured` /ˈmeʒərd/              ([Neutral] 測定された、慎重な)  He spoke in measured tones.
@@ -829,7 +802,6 @@
 - `melting` /ˈmeltɪŋ/               ([Neutral] やさしい、優しげな)   She spoke in a melting voice.
 - `mess` /mes/                       ([Neutral] 散らかし、混乱)        What a mess you've made!
 - `metal` /ˈmetl/                   ([Neutral] 金属)                Gold is a precious metal.
-- `meticulous` /məˈtɪkjələs/     ([Writing] 細部にこだわる)      She's meticulous about her work.
 - `middle` /ˈmɪdəl/              ([Neutral] 中間の、真ん中の)    We're in the middle of testing phase.
 - `migrant` /ˈmaɪɡrənt/              ([Neutral] 移民、移住者)        Many migrants seek better opportunities.
 - `migratory` /ˈmaɪɡrətɔːri/         ([Writing] 移住性の)            Migratory birds travel thousands of miles.
@@ -839,13 +811,13 @@
 - `mirage` /mɪˈrɑːʒ/                ([Neutral] 蜃気楼、幻想)        The desert mirage fooled the travelers.
 - `miserable` /ˈmɪzərəbəl/          ([Neutral] 惨めな、不幸な)      She had a miserable childhood.
 - `mishap` /ˈmɪshæp/                ([Neutral] 不運、事故)          A minor mishap delayed the flight.
+- `mission` /ˈmɪʃən/                 ([Neutral] 任務、作戦行動)      The military are fulfilling an important mission.
 - `mixture` /ˈmɪkstʃər/             ([Neutral] 混合、多様)            The city is a mixture of cultures.
 - `mock-up` /ˈmɑːk ʌp/            ([Neutral] モックアップ、模型)  The designer created a mock-up of the new interface.
 - `molestation` /ˌmoʊləˈsteɪʃən/   ([Formal] 性的嫌がらせ)         He was charged with molestation.
 - `moment` /ˈmoʊmənt/               ([Neutral] 瞬間)                Wait a moment, please.
 - `monarch` /ˈmɑːnərk/              ([Formal] 君主、国王)           The monarch ruled for 50 years.
 - `monarchy` /ˈmɑːnərki/          ([Formal] 君主制、君主国)       The country is a constitutional monarchy.
-- `monastery` /ˈmɑnəstəri/          ([Neutral] 修道院)              The monastery houses 20 monks.
 - `monologue` /ˈmɑːnəlɔːɡ/           ([Neutral] 独白、一人語り)      The actor delivered a powerful monologue.
 - `moral` /ˈmɔːrəl/                 ([Neutral] 道徳的な、良心的な)  He has strong moral values.
 - `more than O`                          ([Neutral] よりももっと) I like chocolate `more than vanilla.`
@@ -873,15 +845,13 @@
 - `no more than`                  ([Neutral] せいぜい)            It costs no more than $20.
 - `no such thing`                   ([Neutral] そんなものはない)    There's `no such thing` as a free lunch.
 - `nobility` /noʊˈbɪləti/         ([Formal] 高貴さ、気高さ)       His nobility shines through.
-- `noble` /ˈnoʊbəl/                 ([Formal] 高貴な、気高い)       That was a noble gesture.
-- `nobly` /ˈnoʊbli/               ([Formal] 気高く、立派に)       She acted nobly.
 - `noise` /nɔɪz/                    ([Neutral] 騒音、音)            The noise from the street was too loud.
+  - `clunk` /klʌŋk/                  ([Neutral] ゴツンという音)      I heard a clunk from the engine.
 - `noisy` /ˈnɔɪzi/                ([Neutral] 騒々しい)            The children were being very noisy.
 - `nook` /nʊk/                      ([Neutral] 隅、片隅)            She found a cozy reading nook.
 - `normal` /ˈnɔːrməl/               ([Neutral] 正常な、普通の)      That's perfectly normal.
 - `notability` /ˌnoʊtəˈbɪləti/    ([Writing] 著名、注目度)        His notability grew after the discovery.
 - `notable` /ˈnoʊtəbl/              ([Neutral] 注目すべき)          There was a notable improvement.
-- `notably` /ˈnoʊtəbli/           ([Neutral] 特に、著しく)        She was notably absent from the meeting.
 - `nothing like that`               ([Neutral] そういうのじゃない)  It's `nothing like that`.
 - `nothing out of the ordinary` 普通
 - `nothing`                         ([Neutral] 何も〜ない)          There's `nothing` to worry about.
@@ -896,7 +866,6 @@
 - `obsolescent` /ˌɑːbsəˈlesnt/    ([Writing] 廃れつつある)        The obsolescent machinery needs replacing.
 - `obsolete` /ˌɑːbsəˈliːt/          ([Neutral] 時代遅れの、廃れた)  This technology is now obsolete.
 - `obvious` /ˈɒbviəs/               ([Neutral] 明らかな、明白な)    The answer is obvious.
-- `obviously` /ˈɒbviəsli/         ([Neutral] 明らかに)            Obviously, we need to change our approach.
 - `oddball` /ˈɑːdbɔːl/              ([Casual] 変人)                 He's a bit of an oddball.
 - `of a kind`                       ([Formal] ある種の、同類の)     They're two `of a kind`.
 - `of a sort`                       ([Neutral] 一応の、ある種の)    He's a leader `of a sort`.
@@ -910,7 +879,6 @@
 - `old-fashioned` /oʊld ˈfæʃənd/    ([Neutral] 古風な、旧式の)      She has old-fashioned values.
 - `old` /oʊld/                      ([Neutral] 古い、年老いた)      This is an old building.
 - `on average`                          ([Neutral] 平均して) `On average,` people sleep about eight hours a night.
-- `on-target` /ɑːn ˈtɑːrɡət/      ([Neutral] 的確な、正確な)      The forecast was on-target.
 - `once in a blue moon`                 (めったにない)
 - `one thing`                       ([Neutral] 一つのこと)          There's `one thing` I need to tell you.
 - `one-off`                     一度きりの                  The expense incurred this year to construct the building is a `one-off` cost.
@@ -919,7 +887,6 @@
 - `opponent` /əˈpoʊnənt/            ([Neutral] 相手、反対者)          She defeated her opponent easily.
 - `option` /ˈɑːpʃən/               ([Neutral] 選択肢)              We have several options to consider.
 - `or so`                           ([Neutral] 〜くらい)            It's 20 dollars `or so`.
-- `oration` /ɔːˈreɪʃən/              ([Formal] 演説、弁論)           He gave a stirring oration.
 - `ordinary` /ˈɔːrdəneri/           ([Neutral] 普通の、平凡な)      It's just an ordinary day.
 - `ore` /ɔːr/                       ([Writing] 鉱石)                Iron ore is mined here.
 - `other things`                    ([Neutral] 他のもの)            Among `other things`, we discussed the budget.
@@ -935,8 +902,22 @@
 - `overtly` /əʊˈvɜːtli/           ([Formal] 公然と)               He overtly criticized the decision.
 - `overwhelm` /ˌoʊvərˈwelm/       ([Neutral] 圧倒する)            The news overwhelmed her.
 - `overwhelming` /ˌoʊvərˈwelmɪŋ/    ([Neutral] 圧倒的な、困難な)    The workload is overwhelming.
+  - `overwhelmed` /ˌoʊvərˈwelmd/    ([Neutral] 圧倒された)          I feel overwhelmed by all these tasks.
+  - `inundate` /ˈɪnʌndeɪt/          ([Formal] 氾濫させる、殺到する) We were inundated with requests.
+  - `inundated` /ˈɪnʌndeɪtɪd/       ([Formal] 殺到された)            The office was inundated with calls.
+  - `flood` /flʌd/                  ([Neutral] 殺到する、氾濫させる) Complaints flooded the company.
+  - `flooded` /ˈflʌdɪd/             ([Neutral] 殺到された)          We were flooded with applications.
+  - `bury` /ˈberi/                  ([Neutral] 埋もれさせる)        I'm buried in paperwork.
+  - `buried` /ˈberid/               ([Neutral] 埋もれた)            She's buried under a mountain of work.
+  - `snowed under` /snoʊd ˈʌndər/   ([Casual] 忙殺されている)      I'm completely snowed under right now.
 - `pail` /peɪl/                     ([Neutral] バケツ、桶)           She carried water in a pail.
 - `pain` /peɪn/                    ([Casual] 面倒なこと)          Dealing with paperwork is a pain.
+> `pain in the neck` /peɪn ɪn ðə nɛk/ ([Casual] 厄介者、面倒な人)     He's such a pain in the neck.
+  - `nuisance` /ˈnuːsəns/           ([Neutral] 迷惑、厄介者)        That dog is a nuisance.
+  - `headache` /ˈhɛdeɪk/            ([Casual] 頭痛の種)             This project is a headache.
+  - `pest` /pɛst/                   ([Casual] 厄介者)               Stop being a pest!
+  - `hassle` /ˈhæsl̩/               ([Casual] 面倒、厄介)           Moving is such a hassle.
+  - `annoyance` /əˈnɔɪəns/          ([Neutral] 迷惑、厄介なもの)    The delay was an annoyance.
 - `painstaking` /ˈpeɪnzˌteɪkɪŋ/     ([Writing] 骨の折れる)          The restoration was painstaking work.
 - `pandemia` /pænˈdiːmiə/         ([Writing] 大流行、汎流行)      The pandemia spread rapidly.
 - `pandemic` /pænˈdemɪk/            ([Neutral] 世界的流行病)        The pandemic affected millions worldwide.
@@ -945,20 +926,17 @@
 - `partnership` /ˈpɑːrtnərʃɪp/    ([Neutral] 協力関係)            Their partnership was successful.
 - `passionate` /ˈpæʃənət/           ([Neutral] 情熱的な)            He's passionate about music.
 - `patent` /ˈpeɪtənt/               ([Writing] 明白な、明らかな)    That's a patent lie.
-- `patently` /ˈpeɪtəntli/         ([Writing] 明白に)              The claim is patently false.
 - `path forward`                  ([Neutral] 前進の道)            Let's discuss the path forward.
 - `pause` /pɔːz/                    ([Neutral] 一時停止、間)        There was a long pause in the conversation.
 - `peace` /piːs/                     ([Neutral] 平和、安らぎ)             She found peace in the quiet garden.
 - `peaceful` /ˈpiːsfəl/             ([Neutral] 平和な、穏やかな)    It was a peaceful afternoon.
 - `peaceful` /ˈpiːsfəl/            ([Neutral] 平和な、平穏な)           The village was peaceful and quiet.
-- `peacefully` /ˈpiːsfəli/         ([Neutral] 平和に、静かに)           He died peacefully in his sleep.
 - `peacekeeping` /ˈpiːskiːpɪŋ/     ([Formal] 平和維持の)            The peacekeeping forces arrived yesterday.
 - `peacetime` /ˈpiːstaɪm/          ([Formal] 平時の)                 During peacetime, the economy flourished.
 - `peat` /piːt/                      ([Neutral] 泥炭)                Peat is used as fuel in some countries.
 - `pedestal` /ˈpedɪstəl/            ([Neutral] 台座、高い地位)        The statue stands on a marble pedestal.
 - `pedestrian crossing`         横断歩道 crosswalk, crossway
 - `perception` /pərˈsepʃən/     ([Formal] 理解、知覚)           His perception was accurate.
-- `perfect` /ˈpɜːrfəkt/           ([Neutral] 完璧な、正確な)      She gave a perfect performance.
 - `perfection` /pərˈfekʃən/     ([Neutral] 完璧、完全)          She strives for perfection.
 - `perplexing` /pərˈpleksɪŋ/         ([Neutral] 当惑させる)           The perplexing riddle took hours to solve.
 - `perseverance` /ˌpɜːrsəˈvɪrəns/   ([Formal] 忍耐、根気)           Success requires perseverance.
@@ -984,7 +962,6 @@
 - `pitiable` /ˈpɪtiəbəl/            ([Neutral] 哀れな、同情すべき)  He was in a pitiable state.
 - `placid` /ˈplæsɪd/                ([Formal] 穏やかな、平静な)     She has a placid temperament.
 - `placidity` /plæˈsɪdəti/        ([Formal] 穏やかさ、平静さ)     Her placidity was remarkable.
-- `placidly` /ˈplæsɪdli/          ([Formal] 穏やかに)             The cow grazed placidly.
 - `plain as day` /pleɪn æz deɪ/     ([Casual] 明白な、はっきりした) The truth is plain as day.
 - `plan` /plæn/                      ([Neutral] 平面図、設計図)          Study the floor plan carefully.
 - `pleasure-seeking`                ([Neutral] 快楽追求)          His pleasure-seeking behavior worried us.
@@ -1007,10 +984,6 @@
 - `preceding`                       ([Formal] 先行する)             The preceding chapter.
 - `precipitant` /prɪˈsɪpɪtənt/      ([Formal] 誘因、沈殿剤)         Stress was the precipitant factor.
 - `precipitate` /prɪˈsɪpɪteɪt/    ([Formal] 引き起こす、沈殿させる)  The crisis precipitated changes.
-- `precise` /prɪˈsaɪs/            ([Neutral] 正確な、精密な)      Give me a precise answer.
-- `precise` /prɪˈsaɪs/           ([Neutral] 正確な、精密な)      She gave precise instructions.
-- `precision` /prɪˈsɪʒən/       ([Neutral] 正確さ、精密さ)      This task requires precision.
-- `preliminary` /prɪˈlɪmɪnəri/ ([Formal] 予備の、暫定的な)     I've reviewed the preliminary specs for the project.
 - `premise | premises`          前提 | 家屋,建物,構内,敷地内
 - `preparatory` /prɪˈpærətɔːri/   ([Formal] 準備の、予備の)       The preparatory work is almost complete.
 - `presumption` /prɪˈzʌmpʃən/       ([Formal] 思い上がり、推定)     His presumption annoyed me.
@@ -1018,25 +991,19 @@
 - `primordial` /praɪˈmɔːrdiəl/     ([Formal] 原始の、根本的な)      Life evolved from primordial conditions.
 - `principled` /ˈprɪnsəpəld/        ([Formal] 主義のある、良心的な) She's a principled person.
 - `prior to`                        ([Formal] 〜より前に)           Prior to the meeting.
-- `priory` /ˈpraɪəri/               ([Neutral] 小修道院)            The priory was founded in 1066.
 - `pristine` /prɪˈstiːn/            ([Writing] 手つかずの、新品同様) The beach was pristine and untouched.
 - `problematic` /ˌprɑːbləˈmætɪk/    ([Formal] 問題のある、困難な)   The situation is becoming problematic.
-- `proficiency` /prəˈfɪʃənsi/     ([Formal] 熟達)                 Her English proficiency is excellent.
-- `proficient` /prəˈfɪʃənt/         ([Formal] 熟達した)             He's proficient in three languages.
 - `profound` /prəˈfaʊnd/            ([Formal] 深い、激しい)         The loss had a profound impact.
 - `profusion` /prəˈfjuːʒən/         ([Formal] 大量、豊富)           A profusion of flowers bloomed.
 - `prominence` /ˈprɑːmɪnəns/      ([Neutral] 卓越、名声)          He rose to prominence quickly.
 - `prominent` /ˈprɑːmɪnənt/         ([Neutral] 卓越した、著名な)    She's a prominent scientist.
-- `prominently` /ˈprɑːmɪnəntli/   ([Neutral] 目立って)            The sign was prominently displayed.
 - `promised` /ˈprɑːmɪst/            ([Neutral] 約束された)          The promised reward never came.
 - `pronounce` /prəˈnaʊns/          ([Neutral] 発音する、宣言する)  How do you pronounce this word?
 - `pronounced` /prəˈnaʊnst/         ([Formal] 顕著な、明確な)       There's a pronounced difference.
-- `pronouncedly` /prəˈnaʊnsɪdli/  ([Formal] 顕著に)               The effect was pronouncedly visible.
 - `proponent` /prəˈpoʊnənt/         ([Formal] 支持者、提唱者)       He's a proponent of renewable energy.
 - `proscription` /pɹəˈskɹɪp.ʃən/     ([Formal] 禁止、排斥)            The proscription of certain books.
 - `proscriptive` /pɹəˈskɹɪptɪv/   ([Formal] 禁止の、規範的な)       The proscriptive rules were strict.
 - `prototype` /ˈproʊtətaɪp/       ([Neutral] 試作品、原型)        We need to test the prototype before production.
-- `provisional` /prəˈvɪʒənəl/  ([Formal] 暫定的な、仮の)       The provisional budget is subject to change.
 - `provocation` /ˌprɑːvəˈkeɪʃən/    ([Neutral] 挑発、刺激)          He acted without provocation.
 - `pull` /pʊl/                      ([Casual] 影響力)               She has a lot of pull with management.
 - `punctilious` /pʌŋkˈtɪliəs/       ([Writing] 細かいことにこだわる)He's punctilious about etiquette.
@@ -1047,17 +1014,16 @@
 - `quality` /ˈkwɑːləti/             ([Neutral] 質、品質)            The quality of this product is excellent.
 - `quiet` /ˈkwaɪət/                 ([Neutral] 静かな、落ち着いた)  He's a quiet person.
 - `racket` /ˈrækɪt/                 ([Casual] 騒音、がやがや)       Stop making such a racket!
+- `raid` /reɪd/                      ([Neutral] 襲撃、急襲)          The rebels attempted a surprise raid on a military camp.
 - `rancor` /ˈræŋkər/                ([Writing] 憎しみ、怨恨)        He spoke without rancor or bitterness.
 - `rancorous` /ˈræŋkərəs/         ([Writing] 怨恨に満ちた)        Their rancorous feud lasted decades.
 - `random` /ˈrændəm/                ([Casual] めちゃくちゃな)       That was so random! Why did he say that?
-- `randomly` /ˈrændəmli/          ([Casual] めちゃくちゃに)       He just randomly started singing.
 - `randomness` /ˈrændəmnəs/       ([Casual] めちゃくちゃさ)       I love the randomness of his jokes.
 - `range` /reɪndʒ/                    ([Neutral] 範囲、多様)             We have a wide range of options.
 - `rather than O`                        ([Neutral] よりかは) I like her `rather than him.`
 - `rational` /ˈræʃənəl/             ([Neutral] 理性的な、冷静な)    Try to be rational about this.
 - `rationality` /ˌræʃəˈnæləti/    ([Neutral] 理性)                His rationality impressed the jury.
 - `raucous` /ˈɹɔːkəs/               ([Neutral] やかましい、騒々しい) The raucous crowd cheered loudly.
-- `raucously` /ˈɹɔːkəsli/         ([Neutral] やかましく)          They raucously celebrated the victory.
 - `raucousness` /ˈɹɔːkəsnəs/      ([Neutral] やかましさ、騒々しさ) The raucousness of the party woke the neighbors.
 - `real estate agent`               ([Neutral] 不動産エージェント)  The real estate agent showed us the house.
 - `real estate broker`              ([Neutral] 不動産ブローカー)    He's a licensed real estate broker.
@@ -1091,11 +1057,8 @@
 - `relaxed` /rɪˈlækst/              ([Casual] リラックスした 冷静)  He seemed very relaxed about it.
 - `relent` /rɪˈlent/               ([Writing] 弱まる、情けをかける)    The storm finally began to relent.
 - `relentless` /rɪˈlentləs/         ([Writing] 容赦ない、執拗な)    The rain was relentless all day.
-- `relentlessly` /rɪˈlentləsli/   ([Writing] 容赦なく、執拗に)    He pursued his goal relentlessly.
 - `reliable` /rɪˈlaɪəbəl/           ([Neutral] 信頼できる 良心的な) She's a reliable worker.
 - `relieved` /rɪˈliːvd/            ([Neutral] 安心した、ほっとした)     I'm relieved that you're safe.
-- `remarkable` /rɪˈmɑːrkəbl/        ([Neutral] 注目すべき、顕著な)  She made remarkable progress.
-- `remarkably` /rɪˈmɑːrkəbli/     ([Neutral] 著しく)              He was remarkably calm during the crisis.
 - `remedy` /ˈremədi/                ([Neutral] 治療法、救済策)      Home remedies can be effective.
 - `removal` /rɪˈmuːvəl/             ([Neutral] 解任、除去)          The removal of the manager caused controversy.
 - `renewal notice`              更新通知
@@ -1111,8 +1074,6 @@
 - `resilient` /rɪˈzɪliənt/        ([Formal] 回復力のある)         He's remarkably resilient.
 - `resolute` /ˈrezəluːt/            ([Formal] 断固とした、毅然とした) The leader was resolute in his decision.
 - `resolute` /ˈrezəluːt/            ([Formal] 断固とした、真剣な)   He remained resolute in his decision.
-- `resolutely` /ˈrezəluːtli/      ([Formal] 断固として)           She resolutely refused.
-- `resolutely` /ˈrezəluːtli/      ([Formal] 断固として、毅然と)   She resolutely faced the challenge.
 - `resolution` /ˌrezəˈluːʃən/     ([Formal] 決意、決議)           His resolution was unwavering.
 - `resolution` /ˌrezəˈluːʃən/     ([Formal] 決意、解決)           His resolution never wavered.
 - `resonate with` /ˈrezəneɪt wɪð/ ([Neutral] 心に響く、共鳴する)  Her words resonate with the audience.
@@ -1137,10 +1098,8 @@
 - `revolted` /rɪˈvoʊltəd/         ([Neutral] 嫌悪感を抱いた)      I was revolted by his actions.
 - `revolting` /rɪˈvoʊltɪŋ/          ([Neutral] 不快な、嫌悪すべき)  The sight was revolting.
 - `rift` /rɪft/                     ([Neutral] 亀裂、不和)          A rift developed between the two leaders.
-- `right` /raɪt/                  ([Casual] 正しい、正確な)       You got the right answer.
 - `righteous` /ˈraɪtʃəs/            ([Formal] 正義の、道徳的な)     He has righteous anger.
 - `righteousness` /ˈraɪtʃəsnəs/   ([Formal] 正義、正しさ)         His righteousness is evident.
-- `rigorous` /ˈrɪɡərəs/             ([Formal] 厳密な、厳格な)       The study used rigorous methods.
 - `rival` /ˈraɪvəl/                 ([Neutral] 競争相手、ライバル)    The two companies are rivals.
 - `rizz` /rɪz/                      ([Casual] 異性を惹きつける魅力)  He's got serious rizz.
 - `robust` /roʊˈbʌst/               ([Formal] 強健な、力強い)       The economy shows robust growth.
@@ -1157,10 +1116,8 @@
 - `rupture` /ˈrʌptʃər/              ([Formal] 破裂、決裂)        The rupture in relations was permanent.
 - `salience` /ˈseɪliəns/          ([Writing] 顕著性、重要性)      The salience of the issue is clear.
 - `salient` /ˈseɪliənt/             ([Writing] 顕著な、目立つ)      The salient features were highlighted.
-- `saliently` /ˈseɪliəntli/       ([Writing] 顕著に)              The point was saliently made.
 - `sanctuary` /ˈsæŋktʃueri/         ([Formal] 聖域、保護区)         The church offered sanctuary to the fugitives.
 - `scathing` /ˈskeɪðɪŋ/             ([Writing] 容赦のない)          The review was absolutely scathing.
-- `scathingly` /ˈskeɪðɪŋli/       ([Writing] 容赦なく)            She scathingly dismissed his ideas.
 - `scenario` /səˈnæri.oʊ/          ([Neutral] シナリオ、想定)       Let's consider the worst-case scenario.
 - `schedule` /ˈskɛd͡ʒʊl/            ([Neutral] 予定表、スケジュール)  Check your schedule for the meeting.
 - `schematic` /skɪˈmætɪk/            ([Neutral] 図式、概略図)            Review the schematic before assembly.
@@ -1178,7 +1135,6 @@
 - `secrecy` /ˈsiːkrəsi/           ([Neutral] 秘密性)              The plan was carried out in secrecy.
 - `sect` /sekt/                     ([Neutral] 宗派、教派)          The sect has followers worldwide.
 - `self-gratification`              ([Neutral] 自己満足)          The pursuit of self-gratification.
-- `senate` /ˈsenət/                 ([Neutral] 上院、元老院)        The bill passed in the Senate.
 - `senator` /ˈsenətər/            ([Neutral] 上院議員)            She's a senator from California.
 - `senatorial` /ˌsenəˈtɔːriəl/    ([Formal] 上院の、元老院の)     The senatorial election is next month.
 - `serene` /səˈriːn/                ([Formal] 穏やかな、平静な)     She had a serene expression.
@@ -1186,7 +1142,6 @@
 - `serious` /ˈsɪriəs/               ([Neutral] 真剣な、深刻な)      This is a serious problem.
 - `setback` /ˈsetbæk/               ([Neutral] 後退、挫折)          This is only a temporary setback.
 - `severe` /sɪˈvɪə/                 ([Formal] 深刻な、厳格な)       The patient has severe symptoms.
-- `severely` /sɪˈvɪəli/           ([Formal] 厳しく、激しく)       He was severely injured in the accident.
 - `severity` /sɪˈverəti/          ([Formal] 深刻さ、厳しさ)       The severity of the storm surprised us.
 - `sheath` /ʃiːθ/                    ([Neutral] 鞘、覆い)                The leaf sheath wraps around the stem.
 - `shell` /ʃɛl/                      ([Neutral] 殻、外皮)                Crack the walnut shell carefully.
@@ -1202,9 +1157,6 @@
 - `siege` /siːdʒ/                   ([Formal] 包囲、包囲戦)         The siege lasted for months.
 - `sincere` /sɪnˈsɪr/               ([Neutral] 誠実な、真剣な)      She gave a sincere apology.
 - `sketch` /skɛt͡ʃ/                   ([Neutral] スケッチ、略図)          She made a quick sketch of the design.
-- `skill` /skɪl/                  ([Neutral] 技能)                Reading requires good language skills.
-- `skilled` /skɪld/                 ([Neutral] 熟練した)            He's a skilled craftsman.
-- `skillful` /ˈskɪlfəl/           ([Neutral] 熟練した、上手な)    She's very skillful with her hands.
 - `skirmish` /ˈskɜːmɪʃ/             ([Formal] 小競り合い)           A skirmish broke out at the border.
 - `smoothness` /ˈsmuːðnəs/          ([Neutral] 滑らかさ、器用さ)  His smoothness impressed everyone.
 - `sneakiness` /ˈsniːkinəs/       ([Casual] こっそりした行為)      His sneakiness made everyone suspicious.
@@ -1212,13 +1164,11 @@
 - `sobriety` /səˈbraɪəti/         ([Formal] 冷静さ、真面目さ)     His sobriety impressed everyone.
 - `sociability` /ˌsoʊʃəˈbɪləti/   ([Neutral] 社交性)              Her sociability helps in networking.
 - `sociable` /ˈsoʊʃəbl/             ([Neutral] 社交的な)            He's sociable and makes friends easily.
-- `sociably` /ˈsoʊʃəbli/          ([Neutral] 社交的に)            They chatted sociably over coffee.
 - `solace` /ˈsɑːləs/                 ([Formal] 慰め、安らぎ)               She found solace in music after the loss.
 - `solemn` /ˈsɑːləm/                ([Formal] 厳粛な、真剣な)       He wore a solemn expression.
 - `solemnity` /səˈlemnəti/        ([Formal] 厳粛さ、重々しさ)     The solemnity of the ceremony was moving.
 - `solid` /ˈsɒlɪd/                  ([Neutral] 固体の、しっかりした)This desk is made of solid wood.
 - `solidarity` /ˌsɒlɪˈdærəti/     ([Writing] 団結、連帯)          The workers showed solidarity during the strike.
-- `solidly` /ˈsɒlɪdli/            ([Neutral] 強固に、確実に)      The foundation was solidly built.
 - `soliloquy` /səˈlɪləkwi/           ([Formal] 独白、一人語り)       Hamlet's soliloquy is famous.
 - `some kind of`                    ([Neutral] ある種の、何かの)    He has `some kind of` allergy.
 - `some more`                     ([Casual] もう少し)              Can I have some more coffee?
@@ -1229,6 +1179,7 @@
 - `sophisticated palate`            ([Formal] 洗練された味覚)       A sophisticated palate appreciates subtle flavors.
 - `sophisticated` /səˈfɪstɪkeɪtɪd/  ([Neutral] 洗練された、高度な)  This is a sophisticated system.
 - `sort of thing`                   ([Neutral] 〜的なもの)          That's the `sort of thing` I mean.
+- `sortie` /ˈsɔːrti/                 ([Formal] 出撃、攻撃任務)       The pilot had flown three sorties that day.
 - `sovereign` /ˈsɑːvrɪn/            ([Formal] 君主、元首)           The sovereign addressed the nation.
 - `sovereignty` /ˈsɑːvrənti/      ([Formal] 主権、統治権)         National sovereignty must be protected.
 - `spark` /spɑːrk/                  ([Neutral] 火花、きっかけ)      His words sparked a debate.
@@ -1243,7 +1194,6 @@
 - `split` /splɪt/                   ([Neutral] 分裂、割れ目)        The party split over the issue.
 - `spoil` /spɔɪl/                 ([Neutral] 台無しにする)        Don't spoil the surprise.
 - `spoon-feeding` /ˈspuːn fiːdɪŋ/   ([Casual] 手取り足取りの指導)    Spoon-feeding prevents independent thinking.
-- `spot-on` /spɑːt ɑːn/           ([Casual] 的確な、正確な)       Your analysis was spot-on.
 - `spotless` /ˈspɒtləs/             ([Neutral] 汚れ一つない)        The kitchen was spotless after cleaning.
 - `spotting` /ˈspɑːtɪŋ/         ([Casual] 発見、斑点)           Bird spotting is his hobby.
 - `stable` /ˈsteɪbəl/               ([Neutral] 安定した 落ち着いた) She has a stable personality.
@@ -1251,8 +1201,6 @@
 - `startled` /ˈstɑːrtəld/          ([Neutral] びっくりした)        She looked startled by the question.
 - `steadfast` /ˈstedfæst/           ([Formal] 不動の、真剣な)       She remained steadfast in her beliefs.
 - `steadfast` /ˈstedfəst/           ([Writing] 確固とした、忠実な)  She remained steadfast in her beliefs.
-- `steadfastly` /ˈstedfæstli/     ([Formal] 確固として)           He steadfastly supported her.
-- `steadfastly` /ˈstedfəstli/     ([Writing] 確固として、忠実に)  He steadfastly refused to give up.
 - `steadfastness` /ˈstedfəstnəs/  ([Writing] 確固とした態度)      Her steadfastness was admirable.
 - `steady` /ˈstedi/                 ([Neutral] 落ち着いた 安定した) Keep a steady hand.
 - `stealth` /stelθ/                 ([Neutral] 隠密、ステルス)      The mission required complete stealth.
@@ -1267,13 +1215,11 @@
 - `street art` /stɹiːt ɑɹt/       ([Neutral] ストリートアート)    Street art has become popular in urban areas.
 - `strenuous` /ˈstrenjuəs/          ([Writing] 肉体的に激しい)      Avoid strenuous exercise for a few weeks.
 - `strict` /strɪkt/                 ([Neutral] 厳格な)              My parents are very strict.
-- `strictly` /ˈstrɪktli/          ([Neutral] 厳格に)              Smoking is strictly prohibited.
 - `stricture` /ˈstrɪktʃə/         ([Writing] 制限、批判)          The new strictures on travel are unpopular.
 - `strike` /straɪk/                ([Neutral] 打つ、印象づける)    Her words struck me deeply.
 - `striker` /ˈstraɪkər/            ([Neutral] ストライカー)        The striker scored two goals.
 - `striker` /ˈstraɪkər/           ([Neutral] 攻撃者、ストライカー) The striker scored a goal.
 - `striking` /ˈstraɪkɪŋ/            ([Neutral] 印象的な、顕著な)    The resemblance is striking.
-- `strikingly` /ˈstraɪkɪŋli/      ([Neutral] 印象的に)            She's strikingly beautiful.
 - `strong` /strɔːŋ/                 ([Neutral] 強い、激しい)        She has strong feelings about it.
 - `stuff`                           ([Casual] モノ、コト)           Where's my `stuff`?
 - `stun` /stʌn/                       ([Neutral] 茫然とさせる)        The verdict stunned the courtroom.
@@ -1292,14 +1238,19 @@
 - `supporter` /səˈpɔːrtər/          ([Neutral] 支持者、サポーター)  The team has many loyal supporters.
 - `surrender` /səˈrendə/            ([Neutral] 降伏、降参)          The enemy decided to surrender.
 - `suspension` /səˈspenʃən/         ([Formal] 一時停止、保留)       The suspension of classes lasted a week.
+
 > `sustenance` /ˈsʌstənəns/        ([Formal] 栄養、食料、生活支援) They depend on the forest for sustenance.
-  - `nourishment` /ˈnɜːrɪʃmənt/    ([Neutral] 栄養、食物)          The soup provides nourishment.
-  - `provisions` /prəˈvɪʒənz/      ([Neutral] 食料、供給品)        We packed provisions for the trip.
-  - `subsistence` /səbˈsɪstəns/    ([Formal] 最低限の生活、生計)  They live at subsistence level.
-  - `nutrition` /nuːˈtrɪʃən/       ([Neutral] 栄養)                Good nutrition is essential for health.
-  - `livelihood` /ˈlaɪvlihʊd/      ([Neutral] 生計、暮らし)        Fishing is their main livelihood.
+
+- `nourishment` /ˈnɜːrɪʃmənt/    ([Neutral] 栄養、食物)          The soup provides nourishment.
+- `provisions` /prəˈvɪʒənz/      ([Neutral] 食料、供給品)        We packed provisions for the trip.
+- `subsistence` /səbˈsɪstəns/    ([Formal] 最低限の生活、生計)  They live at subsistence level.
+- `nutrition` /nuːˈtrɪʃən/       ([Neutral] 栄養)                Good nutrition is essential for health.
+- `livelihood` /ˈlaɪvlihʊd/      ([Neutral] 生計、暮らし)        Fishing is their main livelihood.
 - `sustainable` /səˈsteɪnəbəl/     ([Neutral] 持続可能な)          We need sustainable energy sources.
 - `sustained` /səˈsteɪnd/          ([Formal] 持続的な、継続的な)  The team made a sustained effort.
+- `swamp` /swɑːmp/                  ([Neutral] 湿地、沼地)          The area is mostly swamp.
+- `swamp` /swɑːmp/                  ([Neutral] 圧倒する、忙殺する)  Orders swamped the small business.
+- `swampy` /ˈswɑːmpi/               ([Neutral] 沼地のような)        The ground was swampy after the rain.
 - `sway` /sweɪ/                     ([Neutral] 影響力)              He has considerable sway over the board.
 - `symbol` /ˈsɪmbəl/            ([Neutral] 象徴、記号)          The heart is a symbol of love.
 - `symbolic` /sɪmˈbɒlɪk/        ([Neutral] 象徴的な)            The gesture was purely symbolic.
@@ -1308,11 +1259,8 @@
 - `sympathetic` /ˌsɪmpəˈθetɪk/    ([Neutral] 同情的な)            He was sympathetic to my situation.
 - `tact` /tækt/                     ([Neutral] 機転、如才)           She handled it with tact.
 - `tactful` /ˈtæktfəl/             ([Neutral] 機転の利く)          Be tactful when you tell him.
-- `tactfully` /ˈtæktfəli/          ([Neutral] 機転を利かせて)      She tactfully changed the subject.
 - `tag` /tæɡ/                     ([Casual] 署名タグ、落書き)     He tagged the wall with his signature.
 - `taken with` /ˈteɪkən wɪð/      ([Casual] 気に入る、惹かれる)   He's quite taken with the idea.
-- `talent` /ˈtælənt/              ([Neutral] 才能)                He has a talent for music.
-- `talented` /ˈtæləntɪd/            ([Neutral] 才能のある)          She's a talented musician.
 - `tangles` /ˈtæŋɡəlz/               ([Neutral] もつれ、争い)          She brushed out the tangles in her hair.
 - `tarnish` /ˈtɑːnɪʃ/             ([Neutral] 汚す、変色する)      Silver tarnishes over time.
 - `tedious` /ˈtidiəs/             ([Neutral] 退屈な、飽き飽きする) The work is tedious but necessary.
@@ -1321,20 +1269,16 @@
 - `temporary` /ˈtempəreri/        ([Neutral] 一時的な、臨時の)    This is just a temporary solution.
 - `tenable` /ˈtɛnəbəl/              ([Formal] 支持できる、維持できる) Darwin's theory is tenable.
 - `tenacious` /tɪˈneɪʃəs/           ([Formal] 粘り強い、執拗な)     She is tenacious in pursuing her goals.
-- `tenaciously` /tɪˈneɪʃəsli/     ([Formal] 粘り強く、執拗に)     She worked tenaciously on the project.
 - `tenacity` /tɪˈnæsəti/          ([Formal] 粘り強さ、執拗さ)     His tenacity helped him succeed.
 - `tenant` /ˈtenənt/                ([Neutral] 借主、入居者)        The tenant pays rent monthly.
 - `tender` /ˈtendər/                 ([Neutral] 優しい、柔らかい)         She gave him a tender kiss.
-- `tenderly` /ˈtendərli/           ([Neutral] 優しく、親切に)           She tenderly cared for the injured bird.
 - `tenderness` /ˈtendərnəs/        ([Neutral] 優しさ、愛情)             His eyes showed great tenderness.
-- `tentative` /ˈtentətɪv/      ([Formal] 暫定的な、仮の)       We have a tentative schedule for the launch.
 - `terminal` /ˈtɜːrmɪnəl/            ([Neutral] ターミナル、終点)    We arrived at the bus terminal.
 - `termination` /ˌtɜːrmɪˈneɪʃən/    ([Formal] 終了、解雇)           The termination of the contract was unexpected.
 - `termination` /ˌtɜːrmɪˈneɪʃən/    ([Formal] 解雇、終了)           The termination was effective immediately.
 - `terminus` /ˈtɜːrmɪnəs/            ([Formal] 終点、終着駅)         This is the terminus of the line.
 - `terrace` /ˈterəs/              ([Neutral] テラス)              The restaurant has a lovely terrace.
 - `terrible` /ˈterəbəl/             ([Neutral] ひどい、恐ろしい)    The weather was terrible.
-- `terrific` /təˈrɪfɪk/           ([Casual] 素晴らしい)                That's a terrific idea!
 - `terrified` /ˈterɪfaɪd/         ([Neutral] 恐怖に陥った)              She was terrified of spiders.
 - `terrify` /ˈterɪfaɪ/              ([Neutral] 恐怖に陥れる)              The loud thunder terrified the dog.
 - `terrifying` /ˈterɪfaɪɪŋ/       ([Neutral] 恐ろしい)                  That was a terrifying nightmare.
@@ -1342,7 +1286,6 @@
 - `terrorism` /ˈterərɪzəm/        ([Neutral] テロリズム)               Terrorism threatens global security.
 - `terrorist` /ˈterərɪst/          ([Neutral] テロリスト)               The terrorist was arrested.
 - `test` /test/                   ([Neutral] テスト、試験)        Let's run a test before the full launch.
-- `testimony` /ˈtɛstɪmoʊni/          ([Formal] 証言)                    The witness gave testimony in court.
 - `tether` /ˈteðər/                 ([Neutral] 繋ぎ綱、拘束)        The dog reached the end of its tether.
 - `that I/you/we`                 ([Neutral] 私/君/我々が〜する)  The idea `that I` had yesterday.
 - `that thing`                      ([Casual] あれ、あのやつ)       Can you pass me `that thing`?
@@ -1376,7 +1319,6 @@
 - `those who`                     ([Formal] 〜する人々)           `Those who` work hard succeed.
 - `thoughtful` /ˈθɔːtfəl/           ([Neutral] 思慮深い、慎重な)    She gave a thoughtful response.
 - `thoughtful` /ˈθɔːtfəl/           ([Neutral] 思慮深い、真剣な)    That's a thoughtful question.
-- `thoughtfully` /ˈθɔːtfəli/      ([Neutral] 思慮深く)            He considered the question thoughtfully.
 - `thoughtfulness` /ˈθɔːtfəlnəs/  ([Neutral] 思慮深さ)            Her thoughtfulness impressed everyone.
 - `time-consuming` /ˈtaɪmkənˌsumɪŋ/ ([Neutral] 時間のかかる)      It's a time-consuming task.
 - `timeout` /ˈtaɪmaʊt/              ([Casual] タイムアウト、休憩)   Let's call a timeout.
@@ -1402,7 +1344,6 @@
 - `tranquilize` /ˈtræŋkwɪlaɪz/     ([Medical] 鎮静する、落ち着かせる)   The doctor had to tranquilize the patient.
 - `transitional` /trænˈzɪʃənəl/   ([Formal] 過渡的な、移行期の)   We're in a transitional period right now.
 - `treat oneself`               ご褒美
-- `tribute` /ˈtrɪbjuːt/              ([Formal] 賛辞、感謝の印)     The concert was a tribute to his legacy.
 - `tricky` /ˈtrɪki/                 ([Casual] コツがいる困難)       The last question on the test was tricky.
 - `trigger` /ˈtrɪɡər/               ([Neutral] 引き金、きっかけ)    The sound was the trigger for panic.
 - `triggered` /ˈtrɪɡərd/          ([Neutral] 誘発された)          The alarm was triggered by smoke.
@@ -1411,7 +1352,6 @@
 - `triviality` /ˌtrɪviˈæləti/     ([Writing] 些細なこと)          He focused on trivialities instead of the main issue.
 - `troublesome` /ˈtrʌbəlsəm/        ([Neutral] 面倒な、困難な)      He's a troublesome child.
 - `true` /truː/                     ([Neutral] 真実の、本当の)      Her feelings are true.
-- `true` /truː/                   ([Neutral] 本当の、正確な)      Is this statement true?
 - `trustworthiness`               ([Neutral] 信頼性)              Her trustworthiness is proven.
 - `trustworthy` /ˈtrʌstˌwɜːrði/     ([Neutral] 信頼できる 良心的な) He's very trustworthy.
 - `truth` /truːθ/               ([Neutral] 真実、事実)          Tell me the truth.
@@ -1431,11 +1371,9 @@
 - `unblemished` /ʌnˈblemɪʃt/        ([Writing] 傷のない、汚れのない) His unblemished record speaks for itself.
 - `uncomfortable` /ʌnˈkʌmftəbəl/   ([Neutral] 不快な、居心地悪い)       The silence made everyone uncomfortable.
 - `uncouth` /ʌnˈkuːθ/               ([Formal] 無作法な、粗野な)     His uncouth behavior shocked everyone.
-- `uncouthly` /ʌnˈkuːθli/         ([Formal] 無作法に)             He uncouthly interrupted the speech.
 - `uncouthness` /ʌnˈkuːθnəs/      ([Formal] 無作法、粗野)         His uncouthness made him unpopular.
 - `understandable` /ˌʌndərˈstændəbəl/ ([Neutral] 理解できる)        His reaction is understandable.
 - `undisputed` /ˌʌndɪˈspjuːtɪd/    ([Neutral] 議論の余地のない)     He's the undisputed champion.
-- `unerring` /ʌnˈerɪŋ/            ([Formal] 誤りのない、正確な)   She has an unerring sense of direction.
 - `unfathomable` /ʌnˈfæðəməbəl/      ([Writing] 計り知れない)         His unfathomable wisdom amazed us.
 - `unfounded` /ʌnˈfaʊndɪd/          ([Formal] 根拠のない)           Her fears proved unfounded.
 - `unhappy` /ʌnˈhæpi/               ([Neutral] 不幸な、不満な)      She's unhappy with her job.
@@ -1452,7 +1390,6 @@
 - `unsettle` /ʌnˈsetəl/               ([Neutral] 不安にさせる)        The strange events unsettled everyone.
 - `unsettled` /ʌnˈsetəld/          ([Neutral] 落ち着かない、不安な) She felt unsettled all day.
 - `unsettling` /ʌnˈsetəlɪŋ/        ([Neutral] 不安にさせる)        It was an unsettling experience.
-- `unskilled` /ʌnˈskɪld/          ([Neutral] 未熟練の)            Unskilled workers earn less money.
 - `unspoiled` /ʌnˈspɔɪld/           ([Neutral] 損なわれていない)    The island remains unspoiled by tourism.
 - `unsustainable` /ˌʌnsəˈsteɪnəbəl/ ([Formal] 持続できない)         This level of subsidy is unsustainable.
 - `untarnished` /ʌnˈtɑːnɪʃt/        ([Writing] 汚されていない)      His reputation remains untarnished.
@@ -1487,7 +1424,6 @@
 - `vulgar` /ˈvʌlɡər/                ([Formal] 下品な、俗悪な)       His vulgar language was inappropriate.
 - `vulgarity` /vʌlˈɡærəti/        ([Formal] 下品、俗悪)           Such vulgarity has no place here.
 - `vulgarize` /ˈvʌlɡəraɪz/        ([Writing] 俗化する)            Don't vulgarize the conversation.
-- `vulgarly` /ˈvʌlɡərli/          ([Formal] 下品に)               He spoke vulgarly at the dinner.
 - `wacky` /ˈwæki/                   ([Casual] 変な)                 He has a wacky sense of humor.
 - `wager` /ˈweɪdʒər/               ([Neutral] 賭け、賭け金)         He placed a wager on the race.
 - `wagering` /ˈweɪdʒərɪŋ/        ([Formal] 賭け、賭事)           Online wagering is regulated.
@@ -1522,3 +1458,34 @@
 - `zoologist` /zoʊˈɑːlədʒɪst/     ([Formal] 動物学者)             The zoologist studies animal behavior.
 - `zoology` /zoʊˈɑːlədʒi/           ([Formal] 動物学)               She studies zoology at university.
 - `assortment` /əˈsɔːrtmənt/        ([Neutral] 取り合わせ)            There's an assortment of cookies.
+> `unaware` /ˌʌnəˈwɛr/               ([Neutral] 気づいていない)      I was unaware of the problem.
+  - `unawareness`                    ([Neutral] 無自覚、無認識)      His unawareness is concerning.
+> `uninformed` /ˌʌnɪnˈfɔrmd/         ([Neutral] 情報不足の)          The public is largely uninformed.
+> `naive` /naɪˈiːv/                  ([Neutral] 世間知らず、無邪気な) Don't be so naive about it.
+  - `naivety` /naɪˈiːvəti/           ([Neutral] 無邪気さ、世間知らず) His naivety is almost charming.
+> `oblivious` /əˈblɪviəs/            ([Neutral] 気づかない、無頓着な) She was oblivious to the danger.
+  - `obliviousness`                  ([Neutral] 無頓着、無自覚)      His obliviousness is frustrating.
+
+
+## OPPOSITE / REVERSE (the other way around / vice versa)
+> `the other way around`            ([Casual] 逆)                   I thought you called me, not the other way around.
+  - `the other way round`           ([Casual] 逆)                   Put the fork on the left, not the other way round.
+  - `vice versa` /ˌvaɪsi ˈvɜːrsə/   ([Neutral] 逆もまた同様)        I help you and vice versa.
+  - `inversely` /ɪnˈvɜːrsli/        ([Formal] 逆に)                 Price increases inversely with demand.
+  - `contrarily` /ˈkɑːntrərəli/     ([Formal] 反対に)               Contrarily, evidence shows otherwise.
+
+## PRIVACY / BOUNDARIES
+> `none of one's business`          ([Neutral] 関係ない、余計なお世話) That's none of your business.
+  - `not one's concern`             ([Neutral] 関係ない)            How I spend my money is not your concern.
+  - `mind one's own business`       ([Casual] 自分の事だけ気にする) Why don't you mind your own business?
+  - `stay out of`                   ([Casual] 首を突っ込まない)     Please stay out of this matter.
+  - `keep out of`                   ([Neutral] 関わらない)          I try to keep out of office politics.
+  - `butt out`                      ([Casual] 首を突っ込むな)       Just butt out, okay?
+
+> `no good`                         ([Casual] 良くない)             This plan is no good.
+  - `no use`                         ([Casual] 役に立たない)         It's no use trying to fix it now.
+  - `not worth it`                   ([Casual] 価値がない)           The effort is not worth it.
+  - `useless`                        ([Casual] 役に立たない)         This tool is useless for our needs.
+> `better than nothing`              ([Casual] ないよりマシ)         It's not perfect, but it's better than nothing.
+  - `something is better than nothing` ([Neutral] 何かはないよりマシ)  Even a small donation is better than nothing.
+

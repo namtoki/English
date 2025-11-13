@@ -132,3 +132,15 @@
 - `relieve` /rɪˈliːv/              ([Neutral] 和らげる、軽減する)       This should relieve your headache.
 - `therapy` /ˈθerəpi/               ([Medical] 治療法、療法)        Physical therapy helped his recovery.
 - `treatment` /ˈtriːtmənt/          ([Medical] 治療)                The treatment was successful.
+
+## DISABILITY / IMPAIRMENT
+> `disability` /ˌdɪsəˈbɪləti/       ([Neutral] 障害、障がい)        Facilities for people with disabilities.
+  - `impairment` /ɪmˈpermənt/       ([Medical] 機能障害)            He has a hearing impairment.
+  - `condition` /kənˈdɪʃən/         ([Neutral] 疾患、状態)          She has a heart condition.
+  - `disorder` /dɪsˈɔːrdər/         ([Medical] 障害、疾患)          He suffers from an anxiety disorder.
+  - `affliction` /əˈflɪkʃən/        ([Formal] 苦痛、病気)           Cancer is a terrible affliction.
+> `disabled` /dɪsˈeɪbəld/          ([Neutral] 障害のある)          We support disabled students.
+  - `impaired` /ɪmˈperd/            ([Medical] 機能障害のある)      He is visually impaired.
+  - `handicapped` /ˈhændikæpt/      ([Dated] 障害のある)            The term is now considered dated.
+  - `infirm` /ɪnˈfɜːrm/             ([Formal] 虚弱な、病弱な)       She cares for the elderly and infirm.
+  - `debilitated` /dɪˈbɪlɪteɪtɪd/   ([Formal] 衰弱した)             The illness left him debilitated.

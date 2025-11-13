@@ -3,7 +3,7 @@
 S が C
 
 ## S が C（状態・性質を表す）
-> `be` /biː/                        ([Neutral] ～である)            She is a teacher.
+- `be` /biː/                        ([Neutral] ～である)            She is a teacher.
   - `look` /lʊk/                    ([Neutral] ～に見える)          You look tired today.
   - `appear` /əˈpɪr/                ([Formal] ～に見える)           He appears confident.
   - `seem` /siːm/                   ([Neutral] ～のようだ)          She seems happy.
@@ -15,7 +15,7 @@ S が C
   - `hold` /hoʊld/                  ([Formal] ～のままである)       The theory still holds true.
 
 ## 変化を表す動詞（～になる）
-> `become` /bɪˈkʌm/                 ([Neutral] ～になる)            She became a doctor.
+- `become` /bɪˈkʌm/                 ([Neutral] ～になる)            She became a doctor.
   - `turn` /tɜːrn/                  ([Neutral] ～に変わる)          His face turned red.
   - `turn into` /tɜːrn ˈɪntuː/      ([Neutral] ～に変わる)          He turned into a great leader.
   - `get` /ɡet/                     ([Casual] ～になる)             It's getting dark.
@@ -27,7 +27,7 @@ S が C
   - `wear` /wer/                    ([Neutral] ～になる)            My patience is wearing thin.
 
 ## 状態の継続を表す動詞（～のままである）
-> `remain` /rɪˈmeɪn/                ([Formal] ～のままである)       She remained calm.
+- `remain` /rɪˈmeɪn/                ([Formal] ～のままである)       She remained calm.
   - `stay` /steɪ/                   ([Neutral] ～のままでいる)      Stay positive.
   - `keep` /kiːp/                   ([Neutral] ～のままでいる)      Keep quiet.
   - `stand` /stænd/                 ([Neutral] ～の状態である)      The offer still stands valid.

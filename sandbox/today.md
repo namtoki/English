@@ -1,52 +1,48 @@
 # TODAY
 
-## Communication Tools
+## Jira Board 
 
-### JIRA - Our JIRA Principles
+As background, we are supposed to manage tasks with Eastech in JIRA, and the JIRA project is here.
 
-Hi, I'm Toshiyuki Tanamura, a software team member on the Harman side.
+There is also a JIRA project that manages the Denon Headphone App, here.
 
-When it comes to how we manage tasks collaboratively, we'd like to use JIRA on the Harman side, as we did in the C500 and C840 projects.
+The PerL2 feature implementation schedule is adjusted using these JIRA projects.
 
-And if you are familiar with JIRA, you may notice that JIRA is based on some Agile frameworks, like Scrum and Kanban.
-That being said, we don't enforce Eastech's work to follow a particular Agile framework.
+First things first, in this Eastech JIRA, we've recently adjusted the rough implementation schedule in consultation with Eastech.
+Almost all features are planned to be completed in the early stages.
+However, some items are requested to be locked down as early as possible, such as Multipoint and Touch control.
+Plus, from the software team's perspective, we need to complete the Personalization UI and Spatial Audio UI.
+So they are scheduled in the early phase.
 
-This is our core principle. So to speak, "No Framework Required: Eastech Drives Your Own Process."
+That said, regarding Multipoint, the ball is in the software team's court—we're asking Eastech how much effort will be required on their end, so please hold on for a moment.
 
-In other words, Eastech can feel free to move forward with tasks using your own management style.
-This is the core principle.
+Based on this, we've organized the app-side task schedule like this.
+These tasks include some UX and PS tasks, which are created in a way that aligns well with Anders' team.
 
-Based on that, how do we manage our tasks practically? The practical principle comes in now.
-The practical principle is simple.
-If you open the JIRA project, you can see "Main Board" here and we will monitor all the progress from here.
-In this board, there are just a few tabs because I trimmed it down and kept only the necessary ones.
+The point is, touch control tasks and connection tasks are expected to be completed this month, followed by Spatial Audio and Personalization, which are expected to finish next month.
 
-And almost all the time, you will see the "Timeline", and you can see some Milestones because we'd like to manage tasks based on Milestones.
-One thing to be aware of is that these milestones are displayed in the "Sprints" line, but you should think of this as "Milestones." This is one of JIRA's system limitations.
+Also, as you can see, the tasks are arranged so that many tasks are not concentrated at the same time.
+This assumes we work with a lot of buffer time.
+The important thing is not necessarily to work at these specific times, but rather to meet the due dates—if you finish ahead of schedule, that's perfectly fine.
 
-### JIRA - Practical Details
+## Let's set up regular meetings with Mimi and Fraunhofer if it helps to expedite the design process
 
-Next, there are four types of detailed guidelines: work types, work flow, and milestones and releases.
-I'd appreciate it if you could review this after the meeting, but now I'm gonna walk you through them briefly.
+I think it makes sense for our UX team and Mimi to directly discuss the App UI matters.
 
-#### Work type
+As you might have noticed from recent emails (you were all cc'd), I've been consulting with Karina at Mimi. These screens are provided as an out-of-the-box library and are difficult to customize the way we'd like.
 
-First of all, work types. As you know, JIRA is a ticket-based system, and each ticket has a work type, like these.
-You can use 7 types of work types and their definitions are here.
+The introduction and results screens are highly likely to be customizable as we need, and I've looked into the components—they seem replaceable with a more detailed API, but I need Mimi to double-check my understanding.
 
-To make a long story short, there is a three-level hierarchy: Epic is the only top-level hierarchy, Sub-task is the only bottom-level hierarchy, and the others are middle-level hierarchy. That's it.
+Also, we received a question from Mimi: "Why do you want to update the components?"
+This might indicate that Mimi could adjust the out-of-the-box library to align with our required design.
 
-Basically, the Harman side will create some Epics at least, and under the Epics, you can freely create Developments, Tasks, Subtasks, etc.
+I remember that May-san had a meeting with them a little while ago.
+So I think it makes sense for our UX team and Mimi to directly discuss the App UI matters.
 
-As we use it, if there are any inconveniences, we'd like to update it as needed.
+The same applies to Fraunhofer.
 
-#### Work flow
+## Quest developers have started reviewing the Figma design files
 
-Second, work flow. Each work type has its preprogrammed workflow.
-In this section, the only thing you should keep in mind is that some types have a limitation that only the reporter or SQA personnel are allowed to close these tickets.
-As we use it, if there are any inconveniences, we'd like to update it as needed.
-
-#### Milestones and Releases
-
-Finally, milestones and releases. Regarding these, the Harman side manages them and you'll get used to them in the course of this project.
-So you can skip reading this section.
+As you might know, some members of Matsumoto-san's team have recently added comments in Figma, right?
+They were busy until October because they had to deal with C-series items.
+But as planned, they've become available and have started working on the PerL2 tasks.

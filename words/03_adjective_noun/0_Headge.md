@@ -1,6 +1,6 @@
 # Hedge
 
-## VAGUE (a kind of / all kind of / and things like that)
+## VAGUE (`a kind of` / all kinds of / `most of` / `and things like that`)
 > `a kind of`                       ([Neutral] 一種の)              It's a kind of fruit.
   - `a sort of`                     ([Neutral] 一種の)              He felt a sort of sadness.
   - `a type of`                     ([Neutral] 一種の、タイプの)    This is a type of software.
@@ -8,6 +8,16 @@
   - `all sorts of`                  ([Casual] あらゆる種類の)       She reads all sorts of books.
   - `all kinds of things`           ([Neutral] 色々なもの)          They sell all kinds of things.
   - `various kinds of`              ([Neutral] 様々な種類の)        Various kinds of flowers bloom here.
+> `most of` /moʊst əv/              ([Neutral] ほとんど)            Most of the work is finished.
+  - `nearly all` /ˈnɪrli ɔːl/       ([Neutral] ほぼ全て)            Nearly all students passed.
+  - `almost all` /ˈɔːlmoʊst ɔːl/    ([Neutral] ほぼ全て)            Almost all people went there.
+  - `the bulk of` /ðə bʌlk əv/      ([Neutral] 大部分)              The bulk of the work is done.
+  - `the              majority of`  ([Neutral] 大多数)              The majority of students passed.
+  - `the vast         majority`     ([Neutral] 大多数)              The vast majority of tickets are sold online.
+  - `the overwhelming majority`     ([Formal] 圧倒的多数)           The overwhelming majority of participants were men.
+  - `the lion's share`              ([Neutral] 最大の取り分)        She claimed the lion's share of the credit.
+  - `the greater part of`           ([Writing] 大部分)              They live here the greater part of the year.
+  - `the larger part of`            ([Neutral] 大部分)              The larger part of the day was spent working.
 > `... and things like that`        ([Neutral] 〜などそういうもの)  Spanish and things like that.
   - `... and stuff like that`       ([Casual] 〜とかそういうの)     Budgets, deadlines, and stuff like that.
   - `... and things` /ænd θɪŋz/     ([Casual] とかいろいろ)         She bought shoes, bags, and things.
@@ -22,21 +32,16 @@
   - `... et cetera`                 ([Formal] 〜など)               Books, magazines, et cetera.
   - `... etc.`                      ([Neutral] 〜など)              Apples, oranges, etc.
 
-## SCALE (A out of B)
-> `A out of B`                      ([Neutral] BのうちのA)          3 out of 5 people agreed.
-  - `A in B`                        ([Neutral] BのうちのA)          1 in 10 people disagree.
-
-## AMOUNT (as little as / limited / a few / significant / a lot of / rich / as many as)
+## AMOUNT (`as little as` / `scant` / a few / several / significant / a lot of / rich / `as many as`)
 > `as little as`                    ([Neutral] わずか)              It costs as little as $10.
   - `as few as`                     ([Neutral] わずか)              As few as 5 people showed up.
-> `limited` /ˈlɪmɪtɪd/              ([Neutral] 限られた)            We have limited resources.
+> `scant` /skænt/                   ([Formal] わずかな、乏しい)     There is scant evidence.
+  - `scanty` /ˈskænti/              ([Formal] わずかな、不十分な)   The data was scanty.
+  - `limited` /ˈlɪmɪtɪd/            ([Neutral] 限られた)            We have limited resources.
   - `minimal` /ˈmɪnɪməl/            ([Neutral] 最小限の)            There was minimal damage.
   - `scarce` /skeərs/               ([Formal] 乏しい、不足)         Food was scarce during winter.
-  - `sparse` /spɑːrs/               ([Formal] まばらな、わずかな)   The area has sparse vegetation.
   - `negligible` /ˈneɡlɪdʒəbəl/     ([Formal] 無視できる程わずか)   The risk is negligible.
-  - `scant` /skænt/                 ([Formal] わずかな、乏しい)     There is scant evidence.
   - `meager` /ˈmiːɡər/              ([Formal] わずかな、乏しい)     He earns a meager salary.
-  - `scanty` /ˈskænti/              ([Formal] わずかな、不十分な)   The data was scanty.
   - `paltry` /ˈpɔːltri/             ([Formal] わずかな、些細な)     She received a paltry sum.
 > `a few`                           ([Neutral] 少数の)              I have a few questions.
   - `a handful of`                  ([Neutral] 少数の)              Only a handful of people came.
@@ -44,7 +49,7 @@
   - `a smattering of`               ([Formal] 少数の、わずかな)     A smattering of applause followed.
   - `a sprinkling of`               ([Neutral] わずかな、少数の)    A sprinkling of students came early.
   - `a little more`                 ([Neutral] もう少し)            Just a little more patience.
-  - `a bit more`                    ([Casual] もう少し)              I need a bit more time.
+  - `a bit more`                    ([Casual] もう少し)             I need a bit more time.
 > `several` /ˈsevrəl/               ([Neutral] いくつかの、数個の)  Several people attended.
   - `a couple of`                   ([Casual] いくつかの)           I need a couple of minutes.
   - `some` /sʌm/                    ([Neutral] いくつかの)          Some students were absent.
@@ -76,11 +81,11 @@
   - `a multitude of`                ([Formal] 多数の、たくさんの)   A multitude of issues arose.
 > `rich` /rɪtʃ/                     ([Neutral] 豊富な、豊かな)      The area is rich in resources.
   - `abundant` /əˈbʌndənt/          ([Neutral] 豊富な)              Food was abundant at the party.
+  - `abundance` /əˈbʌndəns/         ([Neutral] 豊富、大量)          There's an abundance of opportunities.
   - `ample` /ˈæmpəl/                ([Neutral] 十分な、豊富な)      There's ample time to finish.
   - `a wealth of`                   ([Neutral] 豊富な)               She has a wealth of experience.
   - `plentiful` /ˈplentɪfəl/        ([Neutral] 豊富な、十分な)      Food was plentiful.
   - `plenty` /ˈplenti/              ([Neutral] たくさん、豊富)      There's plenty of time.
-  - `abundance` /əˈbʌndəns/         ([Neutral] 豊富、大量)          There's an abundance of opportunities.
   - `copious` /ˈkoʊpiəs/            ([Formal] 豊富な、大量の)       He took copious notes.
   - `generous` /ˈdʒenərəs/          ([Neutral] 豊富な、気前の良い)  A generous amount was provided.
   - `bountiful` /ˈbaʊntɪfəl/        ([Formal] 豊富な、気前の良い)   The harvest was bountiful.

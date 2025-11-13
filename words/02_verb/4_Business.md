@@ -1,505 +1,55 @@
 # Business
 
-## WHO (I'm in charge of / I'll hand this over to / I'll leave it up to you / I'll take over from / I'll take on)
-> `be in charge of`                 ([Neutral] ～を担当する)        He's in charge of operations.
-  - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
-> `hand over to` /hænd ˈoʊvər tuː/  ([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
-  - `turn over to` /tɜːrn ˈoʊvər tuː([Neutral] 〜に引き渡す)        Turn the matter over to the lawyers.
-  - `pass over to` /pæs ˈoʊvər tuː/ ([Neutral] 〜に引き渡す)        I'll pass this over to the team lead.
-  - `transfer to` /trænsˈfɜːr tuː/  ([Formal] 〜に移す、転送する)   We'll transfer the case to another department.
-  - `pass to` /pæs tuː/             ([Neutral] 〜に渡す)            I'll pass the task to my colleague.
-> `leave ~ up to` /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.
-  - `put ~ in someone's hands`      ([Neutral] 〜の手に委ねる)      I put my future in your hands.
-  - `bank on` /bæŋk ɑːn/            ([Casual] 〜を当てにする)       Don't bank on getting that promotion.
-  - `delegate ~ to` /ˈdɛlɪɡeɪt tuː/ ([Formal] 〜に委任する)         She delegated the work to her team.
-  - `entrust ~ to` /ɪnˈtrʌst tuː/   ([Formal] 〜に委ねる)           I entrust this task to you.
-> `take over from` /teɪk ˈoʊvər/    ([Neutral] ～から引き継ぐ)      I'll take over from Sarah next week.
-  - `assume control`                ([Formal] 支配権を引き継ぐ)     She assumed control of the department.
-  - `succeed` /səkˈsiːd/            ([Formal] 後を継ぐ、引き継ぐ)   He succeeded his father as CEO.
-  - `take the reins` /teɪk ðə reɪnz/([Neutral] 指揮を執る)          She took the reins of the project.
-  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
-  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
-> `take` /teɪk/                     ([Neutral] 引き受ける、取る)    I'll take the job.
-  - `take on` /teɪk ɑːn/            ([Neutral] 引き受ける)          I'll take on this challenge.
-  - `take upon oneself`             ([Formal] 自ら引き受ける)       He took it upon himself to help.
-  - `accept` /əkˈsept/              ([Neutral] 受け入れる 引き受け) I accept the responsibility.
-  - `pick up` /pɪk ʌp/              ([Casual] 引き受ける 拾い上げ)  I'll pick up the slack.
-  - `undertake` /ˌʌndərˈteɪk/       ([Formal] 引き受ける、着手する) We'll undertake the project.
-  - `assume` /əˈsuːm/               ([Formal] 引き受ける、想定する) She assumed the role of manager.
-  - `shoulder` /ˈʃoʊldər/           ([Neutral] 肩に担う 引き受ける) He shouldered the responsibility.
-  - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
-  - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
-
-## TASK (I'll get on it / I'm working on it / I'll carry on with / Let's move forward with the plan / We'll carry out / go about)
-> `get on` /ɡet ɑːn/                ([Neutral] 取り掛かる)          I'll get on it right away.
-  - `get started on`                ([Neutral] 着手する、始める)    Let's get started on the analysis.
-  - `get to` /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
-    - `finally get to`              ([Neutral] ついに～する)        I finally got to meet her.
-  - `get down to` /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
-  - `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
-  - `get around to` /ɡet əˈraʊnd tuː([Neutral] [先延ばし] やっとする) I'll get around to fixing it soon.
-  - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
-  - `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
-  - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
-  - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] [すぐ] 飛び込む)        Let's jump into the discussion.
-  - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
-  - `set about` /set əˈbaʊt/        ([Neutral] [計画的] 取り掛かる)   Let's set about solving this.
-  - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
-  - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
-  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
-> `work on` /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
-  - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
-  - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
-  - `cope with` /koʊp wɪð/          ([Neutral] 対処する、対応する)  How do you cope with stress?
-  - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
-  - `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
-  - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する、取り組む)  We're focusing on this problem.
-  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'm attending to this matter.
-  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We're engaging with the challenge.
-  - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
-  - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
-  - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He's applying himself to the task.
-  - `confront` /kənˈfrʌnt/          ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
-  - `manage` /ˈmænɪdʒ/              ([Neutral] 管理する、対処する)  I can manage this situation.
-  - `take care of` /teɪk keər əv/   ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
-  - `see to` /siː tuː/              ([Neutral] 処理する 面倒を見る) I'll see to that right away.
-> `carry on` /ˈkæri ɑːn/            ([Neutral] 続ける、継続する)    We'll carry on despite the setbacks.
-  - `carry on with` /ˈkæri ɑːn wɪð/ ([Neutral] 続ける、継続する)    We'll carry on with the project despite the challenges.
-  - `continue` /kənˈtɪnjuː/         ([Neutral] 続ける、継続する)    Let's continue with the meeting.
-  - `continue working on`           ([Neutral] 作業を続ける)        Let's continue working on this project.
-  - `keep     working on`           ([Neutral] 作業を続ける)        I'll keep working on the proposal.
-  - `keep     going` /kiːp ˈɡoʊɪŋ/  ([Casual] 続ける、頑張る)       Just keep going, you're doing great!
-  - `keep             on`           ([Neutral] 続ける、継続する)    He'll keep on working until it's done.
-  - `proceed with` /prəˈsiːd wɪð/   ([Formal] 進める、続行する)     Please proceed with the implementation.
-  - `go on with` /ɡoʊ ɑːn wɪð/      ([Casual] 続ける、進む)         Please go on with your presentation.
-  - `resume` /rɪˈzuːm/              ([Neutral] 再開する、続ける)    We'll resume work after lunch.
-  - `stay on` /steɪ ɑːn/            ([Neutral] そのまま続ける)      I'll stay on this project until completion.
-  - `stay on track` /steɪ ɑːn træk/ ([Neutral] 軌道に乗り続ける)    Let's stay on track with our goals.
-  - `pursue further`                ([Formal] さらに追求する)       We should pursue this opportunity further.
-  - `pursue` /pərˈsuː/              ([Neutral] 追求する、進める)    We'll pursue this strategy.
-  - `persist` /pərˈsɪst/            ([Formal] 固執する、続ける)     She'll persist with her research.
-  - `stay the course` /steɪ ðə kɔːrs([Neutral] 最後まで続ける)      We must stay the course to succeed.
-> `move forward with`               ([Neutral] 前に進む、前進する)  Let's move forward with the plan.
-  - `press on with` /pres ɑːn wɪð/  ([Neutral] 押し進む、続行する)  We must press on with the deadline approaching.
-  - `press on` /pres ɑːn/           ([Neutral] 押し進む、続行する)  We must press on to meet the deadline.
-  - `go ahead` /ɡoʊ əˈhed/          ([Neutral] 先に進む、始める)    You can go ahead with the purchase.
-  - `move along` /muːv əˈlɔːŋ/      ([Neutral] 進める、進行する)    The project is moving along nicely.
-  - `push ahead` /pʊʃ əˈhed/        ([Neutral] 推し進める)          The CEO wants to push ahead with expansion.
-  - `push forward` /pʊʃ ˈfɔːrwərd/  ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
-  - `forge ahead` /fɔːrdʒ əˈhed/    ([Neutral] 突き進む)            We'll forge ahead with the new strategy.
-  - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
-  - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 前進する 優勢になる) Our proposal is gaining ground with management.
-> `carry out` /ˈkæri aʊt/           ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.
-  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、遂行する)   We need to execute the plan flawlessly.
-  - `implement` /ˈɪmplɪment/        ([Formal] 実装する、実施する)   When will we implement these changes?
-  - `put into practice`             ([Neutral] 実践する、実行する)  Let's put these ideas into practice.
-  - `put into action`               ([Neutral] 行動に移す 実行する) It's time to put our strategy into action.
-  - `put into effect`               ([Neutral] 実施する 発効させる) The new law was put into effect.
-  - `resolve` /rɪˈzɑːlv/            ([Formal] 解決する、解決する)   We need to resolve this conflict.
-  - `perform` /pərˈfɔːrm/           ([Neutral] 実行する、遂行する)  She performed the task well.
-  - `conduct` /kənˈdʌkt/            ([Formal] 実施する、遂行する)   They conducted the experiment.
-> `go about` /ɡoʊ əˈbaʊt/           ([Neutral] 取り組む、着手する)  How do you go about fixing this?
-  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
-
-## TASK (figure out / decide on / check / sort out / look into)
-> `figure out` /ˈfɪɡər aʊt/         ([Casual] 解明する、理解する)   We need to figure out what went wrong.
-  - `find out` /faɪnd aʊt/          ([Neutral] 調べる、発見する)    I need to find out the truth.
-  - `find a way to ~`               ([Neutral] する方法を見つける)  We need to find a way to reduce operational costs.
-  - `find a ~ form of ~`            ([Neutral] の〜な形を見つける)  We need to find a new form of leadership that suits it
-  - `discover` /dɪˈskʌvər/          ([Neutral] 発見する)            We discovered the root cause.
-  - `uncover` /ʌnˈkʌvər/            ([Neutral] 明らかにする)        The investigation uncovered new evidence.
-  - `get to the bottom of`          ([Casual] 真相を突き止める)     I'll get to the bottom of this.
-  - `track` /træk/                  ([Neutral] 追跡する)            We're tracking the shipment.
-  - `track down` /træk daʊn/        ([Neutral] 探し出す)            I finally tracked down the book I wanted.
-  - `hunt down` /hʌnt daʊn/         ([Neutral] 追い詰める)          Police hunted down the suspect.
-  - `trace` /treɪs/                 ([Neutral] 追跡する)            They traced the call to his location.
-  - `locate` /loʊˈkeɪt/             ([Neutral] 見つける)            We need to locate the source.
-  - `dig up` /dɪɡ ʌp/               ([Casual] 掘り出す)             She dug up some old photos.
-  - `pin down` /pɪn daʊn/           ([Neutral] 特定する、明確にする) Let's pin down the exact problem.
-  - `nail down` /neɪl daʊn/         ([Casual] 確定する、特定する)   We need to nail down the details.
-  - `root out` /ruːt aʊt/           ([Neutral] 根本原因を見つける)  We must root out the problem.
-  - `ferret out` /ˈferɪt aʊt/       ([Neutral] 探り出す、発見する)  She ferreted out the information.
-  - `suss out` /sʌs aʊt/            ([British Casual] 見抜く、理解) I'll suss out what's going on.
-> `decide on` /dɪˈsaɪd ɑːn/         ([Neutral] 決める、選ぶ)        We decided on the blue car.
-  - `choose` /tʃuːz/                ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
-  - `pick` /pɪk/                    ([Casual] 選ぶ、決める)         Pick a card, any card.
-  - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the small size.
-  - `go with` /ɡoʊ wɪð/             ([Casual] 選ぶ、決める)         I'll go with the chicken.
-  - `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、決める)         Let's go for the premium package.
-  - `select` /sɪˈlekt/              ([Neutral] 選ぶ、選択する)      Please select your option.
-  - `stick with` /stɪk wɪð/         ([Neutral] 選ぶ、続ける)        I'll stick with my original choice.
-  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    We settled on a compromise.
-  - `settle for` /ˈsetəl fɔːr/      ([Neutral] 妥協する、選ぶ)      I'll settle for the basic model.
-  - `narrow down` /ˈnæroʊ daʊn/     ([Neutral] 絞り込む)            Let's narrow down our options.
-  - `opt for` /ɑːpt fɔːr/           ([Neutral] 選択する)            I opted for the cheaper plan.
-  - `land on` /lænd ɑːn/            ([Casual] 決める、選ぶ)         We landed on a great restaurant.
-  - `pin down` /pɪn daʊn/           ([Neutral] 決める、特定する)    Let's pin down the details.
-  - `zero in on` /ˈzɪroʊ ɪn ɑːn/    ([Neutral] 絞り込む、決める)    We need to zero in on a solution.
-  - `single out` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す)            They singled out the best candidate.
-  - `fix on` /fɪks ɑːn/             ([Neutral] 決める、固定する)    We've fixed on a date for the meeting.
-  - `plump for` /plʌmp fɔːr/        ([British] 選ぶ、決める)        I'll plump for the chocolate cake.
-> `check` /tʃek/                    ([Casual] 確認する チェックる)  Let me check if that's correct.
-  - `double-check` /ˈdʌbəl tʃek/    ([Casual] 再確認する)           Please double-check the numbers.
-  - `cross-check` /ˈkrɔs tʃek/      ([Neutral] 照合確認する)        Let's cross-check the data.
-  - `make sure` /meɪk ʃʊr/          ([Casual] 確かめる)             Make sure you lock the door.
-  - `see if` /si ɪf/                ([Casual] ～かどうか確認する)   I'll see if she's available.
-  - `confirm` /kənˈfɜrm/            ([Neutral] 確認する)            Can you confirm the meeting time?
-  - `reconfirm` /ˌriːkənˈfɜrm/      ([Neutral] 再確認する)          Let's reconfirm the details.
-  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする)          Please ensure all forms are signed.
-  - `verify` /ˈvɛrɪfaɪ/             ([Formal] 検証する、確認する)   Please verify your email address.
-  - `validate` /ˈvælɪdeɪt/          ([Formal] 検証する、妥当性確認) The system will validate your input.
-  - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
-> `sort out` /sɔːrt aʊt/            ([Casual] 整理する、解決する)   I'll sort out the paperwork.
-  - `organize` /ˈɔːrɡənaɪz/         ([Neutral] 整理する、組織する)  I need to organize my files.
-  - `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
-  - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
-  - `order` /ˈɔːrdər/               ([Neutral] 整理する、注文する)  Order the items by priority.
-  - `coordinate` /koʊˈɔːrdɪneɪt/    ([Neutral] 調整する、まとめる)  Coordinate the different teams.
-  - `straighten out` /ˈstreɪtən aʊt/([Neutral] 整理する、解決する)  Let's straighten out these issues.
-  - `structure` /ˈstrʌktʃər/        ([Neutral] 構造化する 組織する) We need to structure the data.
-  - `reorganize` /riːˈɔːrɡənaɪz/    ([Neutral] 再編成す 整理し直す) We need to reorganize the department.
-  - `streamline` /ˈstriːmlaɪn/      ([Neutral] 合理化す 効率化する) We'll streamline our processes.
-  - `systematize` /ˈsɪstəmətaɪz/    ([Formal] 体系化す 組織化する)  Let's systematize our approach.
-  - `consolidate`/kənˈsɑːlɪdeɪt/    ([Formal] 統合する 整理統合す)  Consolidate all the reports.
-  - `align` /əˈlaɪn/                ([Neutral] 整列させる 調整する) Align the goals with strategy.
-  - `declutter` /diːˈklʌtər/        ([Casual] 散らかりを片付ける)   Declutter your workspace.
-> `look into` /lʊk ˈɪntuː/          ([Neutral] 調べる、検討する)    I'll look into that issue.
-  - `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
-  - `dive into` /daɪv ˈɪntuː/       ([Casual] 飛び込む、詳しく調べ) I'll dive into the research.
-  - `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Let me check out this website.
-  - `drill down` /drɪl daʊn/        ([Neutral] 掘り下げる)          We need to drill down further.
-  - `pore over` /pɔːr ˈoʊvər/       ([Neutral] 熟読する)            She pored over the documents.
-  - `explore` /ɪkˈsplɔːr/           ([Neutral] 探索する、調べる)    Let's explore this option.
-  - `research` /rɪˈsɜːrtʃ/          ([Formal] 研究する、調査する)   She's researching the topic.
-  - `examine` /ɪɡˈzæmɪn/            ([Formal] 検査する、調べる)     The doctor examined the patient.
-  - `investigate` /ɪnˈvestɪɡeɪt/    ([Formal] 調査する、捜査する)   Police are investigating the case.
-  - `inspect` /ɪnˈspekt/            ([Formal] 検査する、調べる)     Inspectors examined the building.
-  - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
-  - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
-  - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
-
-## PROGRESS (We're making progress on the project / The update is in progress / it's still early days / we're partway through)
-> `make progress`                   ([Neutral] 進捗する、前進する)  We're making progress on the project.
-  - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
-  - `get     results`               ([Neutral] 結果を出す 成果を得) Our new strategy is getting results.
-  - `achieve results`               ([Neutral] 結果を達成する)      The team achieved excellent results.
-  - `deliver results`               ([Neutral] 結果を出す 成果提供) We need to deliver results quickly.
-  - `produce results`               ([Formal] 結果を生み出す)       Our investment should produce results soon.
-  - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 進展する、前進する)  We're making headway on the problem.
-  - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
-  - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
-> `be in progress`                  ([Neutral] 進行中である)        The update is in progress.
-  - `be well underway`              ([Neutral] 順調に進行中)        The project is well underway.
-> `(still) early days`              ([Neutral] まだ初期段階)        Our progress has been slow, but it's still early days.
-> `be partway through`              ([Neutral] 途中まで進んでいる)  We're partway through the project.
-> `be halfway through`              ([Neutral] 半分終わっている)    I'm halfway through the report.
-  - `be midway  through`            ([Neutral] 中間点にいる)        She's midway through her studies.
-  - `be at the halfway point`       ([Neutral] 半分の地点にいる)    We're at the halfway point.
-> `be nearly done`                  ([Neutral] ほぼ終わっている)    The task is nearly done.
-  - `be almost finished`            ([Neutral] ほとんど終わている)  We're almost finished with testing.
-
-## RESULT (It worked out / They achieved / It is finally coming together / I made it in time / It paid off)
-> `work out` /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
-  - `go well` /ɡoʊ wel/             ([Neutral] 順調にいく)          The project is going well.
-  - `work out well`                 ([Neutral] うまくいく)          The meeting worked out well.
-  - `turn out well`                 ([Neutral] 結果的にうまくいく)  Everything turned out well.
-  - `turn out fine`                 ([Neutral] 結果的に良い)        Don't worry, it'll turn out fine.
-  - `succeed` /səkˈsiːd/            ([Neutral] 成功する)            I hope you succeed in your plans.
-  - `pull off`                      ([Casual] やり遂げる、成功する) He pulled off an amazing performance.
-  - `pan out` /pæn aʊt/             ([Neutral] うまくいく)          Let's see how it pans out.
-  - `come through` /kʌm θruː/       ([Neutral] うまくいく 成功する) She came through when it mattered.
-  - `come off` /kʌm ɔːf/            ([Neutral] 成功する)            The event came off perfectly.
-  - `turn out right`                ([Neutral] 正しく仕上がる)      I hope the recipe turns out right.
-  - `nail` /neɪl/                   ([Casual] 完璧にやる)           She nailed the presentation.
-  - `cut it` /kʌt ɪt/               ([Casual] うまくやる やり遂る)  I don't think he can cut it in this job.
-  - `prevail` /prɪˈveɪl/            ([Formal] 勝つ、成功する)       We will prevail despite the challenges.
-  - `triumph` /ˈtraɪʌmf/            ([Formal] 勝利する、成功する)   The team triumphed over adversity.
-> `achieve` /əˈtʃiːv/               ([Neutral] 達成する 成し遂げる) They achieved their objectives.
-  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our goal.
-  - `deliver` /dɪˈlɪvər/            ([Neutral] 提供する 達成する)   We need to deliver on our promises.
-  - `get through` /ɡet θruː/        ([Casual] 切り抜ける)           We'll get through this together.
-  - `see through` /siː θruː/        ([Neutral] 最後までやり遂げる)  She saw the project through to completion.
-  - `work through` /wɜːrk θruː/     ([Neutral] やり抜く、解決する)  We're working through the issues.
-  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
-  - `follow through`                ([Neutral] 最後までやり抜く)    Make sure to follow through on your commitments.
-  - `follow through with`           ([Neutral] 最後までやり抜く)    We need to follow through with our plan.
-  - `go through with`               ([Neutral] やり遂げる 実行する) She decided to go through with the plan.
-  - `realize` /ˈriːəlaɪz/           ([Formal] 実現する、達成する)   We realized our vision.
-  - `fulfill` /fʊlˈfɪl/             ([Formal] 履行する、実現する)   He fulfilled his promise.
-  - `attain` /əˈteɪn/               ([Formal] 達成する、獲得する)   We worked hard to attain our goals.
-  - `bring to completion`           ([Formal] 完成まで導く)         We need to bring this project to completion.
-> `come together`                   ([Neutral] まとまる)            The project is finally coming together.
-  - `fall into place`               ([Neutral] うまくまとまる)      The presentation is falling into place.
-  - `click into place`              ([Casual] うまくいく、合う)     Everything just clicked into place.
-  - `gel` /dʒel/                    ([Casual] うまく合う)           The team is starting to gel.
-  - `mesh` /meʃ/                    ([Neutral] うまく合う)          Their ideas mesh perfectly.
-  - `fit together`                  ([Neutral] うまく合う)          The pieces fit together perfectly.
-> `make it`                         ([Casual] 間に合う、成功する)   I'm sure you'll make it.
-  - `get there in time`             ([Casual] 間に合って到着する)   I hope we get there in time.
-  - `arrive in time`                ([Neutral] 時間内に到着する)    We arrived in time for the meeting.
-  - `show up on time`               ([Casual] 時間通りに現れる)     Please show up on time tomorrow.
-> `pay off` /peɪ ɔːf/               ([Neutral] 報われる)            All that hard work paid off.
-  - `bear fruit` /ber fruːt/        ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
-> `complete` /kəmˈpliːt/            ([Neutral] 完了する 完成させる) Complete the project by Friday.
-  - `finish` /ˈfɪnɪʃ/               ([Neutral] 終える、完成させる)  I need to finish this report.
-  - `wrap up` /ræp ʌp/              ([Neutral] まとめる 終わらせる) Let's wrap up this meeting.
-  - `be done with` /bi dʌn/         ([Casual] 終わった)             I'm done with my homework.
-> `clinch` /klɪnt͡ʃ/                 ([Neutral] 確実にする、獲得する) They clinched the championship.
-  - `secure` /səˈkjʊɹ/              ([Neutral] 確保する、獲得する)  We secured the contract.
-  - `seal` /siːl/                   ([Neutral] 確定する、封じる)    They sealed the deal.
-  - `wrap up` /ɹæp ʌp/              ([Casual] 完了する、決める)     Let's wrap up this project.
-
-## STEP (I'll start off by / Let's move on to)
-> `start off with` /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
-  - `begin with` /bɪˈɡɪn wɪð/       ([Neutral] ～で始める)          Begin with the basics.
-  - `kick off with` /kɪk ɔːf wɪð/   ([Casual] ～で始める)           Let's kick off with introductions.
-  - `lead off with` /liːd ɔːf wɪð/  ([Neutral] ～で始める)          She led off with a joke.
-  - `open with` /ˈoʊpən wɪð/        ([Neutral] ～で始める)          The show opened with a song.
-  - `commence with` /kəˈmens wɪð/   ([Formal] ～で始める)           The ceremony commenced with a speech.
-> `start off by` /stɑːrt ɔːf baɪ/   ([Neutral] ～することから始る)  Start off by reading the instructions.
-  - `begin by` /bɪˈɡɪn baɪ/         ([Neutral] ～することから始る)  Begin by understanding the problem.
-  - `kick off by` /kɪk ɔːf baɪ/     ([Casual] ～することから始める) We'll kick off by reviewing last week.
-  - `lead off by` /liːd ɔːf baɪ/    ([Neutral] ～することから始る)  He led off by thanking everyone.
-  - `open by` /ˈoʊpən baɪ/          ([Neutral] ～することから始る)  Open by stating your name.
-  - `commence by` /kəˈmens baɪ/     ([Formal] ～することから始める) Commence by reading the instructions.
-> `move on to` /muːv ɑːn tuː/       ([Neutral] 次に進む、移る)      Let's move on to the next topic.
-  - `go to` /ɡoʊ tuː/               ([Neutral] 移る、向かう)        Let's go to the next agenda item.
-  - `move to` /muːv tuː/            ([Neutral] 移る、移動する)      Let's move to the next agenda item.
-  - `get to` /ɡet tuː/              ([Neutral] 取りかかる、到達する)Let's get to the next agenda item.
-  - `proceed to` /prəˈsiːd tuː/     ([Formal] 進む、移る)           Let's proceed to the next agenda item.
-  - `turn to` /tɜːrn tuː/           ([Neutral] 取りかかる、向かう)  Let's turn to the next agenda item.
-  - `continue with` /kənˈtɪnjuː wɪð/([Neutral] 続ける、継続する)    Let's continue with the next agenda item.
-  - `shift to` /ʃɪft tuː/           ([Neutral] 切り替える、移る)    Let's shift to the next agenda item.
-  - `switch to` /swɪtʃ tuː/         ([Neutral] 切り替える、変える)  Let's switch to the next agenda item.
-  - `advance to` /ədˈvæns tuː/      ([Formal] 進む、前進する)       Let's advance to the next agenda item.
-  - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
-  - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
-
-## TRAITS (have an effect on / is related to / have something to do with / have things in common / It all comes down to)
-> `have an effect on`               ([Neutral] 影響を与える)        The weather can have an effect on mood.
-  - `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
-  - `influence` /ˈɪnfluəns/         ([Neutral] 影響する、左右する)  Weather influences our mood.
-  - `have an impact on`             ([Neutral] 影響を与える)        Your words have an impact on people.
-  - `make a difference`             ([Neutral] 影響を与える)        Your help really makes a difference.
-  - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
-  - `shape` /ʃeɪp/                  ([Neutral] 形作る、左右する)    Experiences shape our personality.
-  - `control` /kənˈtroʊl/           ([Neutral] 支配する、制御する)  Who controls the budget?
-  - `drive` /draɪv/                 ([Neutral] 駆動する、左右する)  Competition drives innovation.
-  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、決める)    Several factors determine the outcome.
-  - `guide` /ɡaɪd/                  ([Neutral] 導く、指導する)      Let principles guide your actions.
-  - `direct` /dəˈrekt/              ([Neutral] 指示する、導く)      She directs the operations.
-  - `sway` /sweɪ/                   ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
-  - `rub off on` /rʌb ɔːf ɑːn/      ([Casual] 影響を与える)         Her enthusiasm rubbed off on the team.
-  - `dictate` /dɪkˈteɪt/            ([Neutral] 左右する、決定する)  Market forces dictate the price.
-  - `govern` /ˈɡʌvərn/              ([Formal] 支配する、左右する)   Supply and demand govern prices.
-  - `steer` /stɪr/                  ([Neutral] 導く、左右する)      He steered the conversation away.
-  - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
-  - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
-  - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
-> `be related to` /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
-  - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
-  - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
-  - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
-  - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
-> `have something to do with`       ([Neutral] 何か関係がある)      It has something to do with the weather.
-  - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
-  - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
-  - `have little to do with`        ([Neutral] 関係がほとんどない)  This has little to do with money.
-  - `have everything to do with`    ([Neutral] 全て関係がある)      This has everything to do with trust.
-> `have things in common`           ([Casual] 共通点がある)         Do we have things in common?
-  - `have a lot in common`          ([Neutral] 共通点が多い)        We have a lot in common.
-  - `have little in common`         ([Neutral] 共通点が少ない)      They have little in common.
-  - `have nothing in common`        ([Neutral] 共通点がない)        We have nothing in common.
-  - `have similarities`             ([Neutral] 類似点がある)        The two cases have similarities.
-  - `have no similarities`          ([Neutral] 類似点がない)        These systems have no similarities.
-  - `have commonalities`            ([Formal] 共通性がある)         The cultures have commonalities.
-> `come down to` /kʌm daʊn tu/      ([Casual] ～に帰着する)         It all comes down to hard work.
-  - `boil down to` /bɔɪl daʊn tu/   ([Neutral] 要するに～である)    The issue boils down to money.
-  - `depend on` /dɪˈpend ɑːn/       ([Neutral] ～に依存する)        Success depends on hard work.
-  - `result in` /rɪˈzʌlt ɪn/        ([Neutral] ～という結果になる)  Hard work results in success.
-  - `amount to` /əˈmaʊnt tu/        ([Neutral] ～に等しい、要するに)His excuse amounts to nothing.
-  - `center on` /ˈsentər ɑːn/       ([Neutral] ～を中心とする)      The debate centers on healthcare.
-  - `reduce to` /rɪˈdus tu/         ([Neutral] ～に減らす、要約する)The problem reduces to a simple question.
-  - `stem from` /stem frʌm/         ([Neutral] ～に由来する)        The problem stems from poor planning.
-  - `revolve around`                ([Neutral] ～を中心とする)      The story revolves around family.
-  - `hinge on` /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.
-> `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
-  - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
-  - `be good to go`                 ([Casual] 準備万端)             We're good to go!
-  - `be ready for use`              ([Neutral] 使用可能な)          The equipment is ready for use.
-  - `be within reach` /wɪðɪn riːtʃ/ ([Neutral] 手の届く範囲にある)  Help is within reach.
-  - `be usable` /ˈjuːzəbəl/         ([Neutral] 使用可能な)          The software is now usable.
-  - `be at one's disposal`          ([Formal] 思い通りにできる)     The enormous property was at his disposal.
-  - `be at one's service`           ([Formal] お役に立てる)         I'm at your service.
-  - `be at one's command`           ([Formal] 命令に従う)           The troops are at your command.
-  - `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
-  - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
-  - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
-
-## COGNITIVE (I don't get it / recognize)
-> `get` /ɡet/                       ([Casual] 理解する)             I get what you mean.
-  - `understand` /ˌʌndərˈstænd/     ([Neutral] 理解する)            I understand your concern.
-  - `see` /siː/                     ([Neutral] 想像する、理解する)  I can see that happening.
-  - `grasp` /ɡræsp/                 ([Neutral] 把握する)            She quickly grasped the concept.
-  - `comprehend` /ˌkɑːmprɪˈhend/    ([Formal] 理解する)             I cannot comprehend his actions.
-  - `figure out` /ˈfɪɡər aʊt/       ([Neutral] 理解する、解決する)  Let me figure out the problem.
-  - `make sense of`                 ([Neutral] 理解する)            I can't make sense of this data.
-  - `follow` /ˈfɑːloʊ/              ([Neutral] 理解して聞く)        I follow your argument.
-  - `catch on` /kætʃ ɑːn/           ([Casual] 理解する、把握する)   He'll catch on eventually.
-  - `pick up` /pɪk ʌp/              ([Casual] 理解する、習得する)   Kids pick up languages quickly.
-  - `digest` /daɪˈdʒest/            ([Neutral] 理解・吸収する)      I need time to digest this information.
-  - `fathom` /ˈfæðəm/               ([Formal] 理解する、推測する)   I can't fathom his motives.
-  - `perceive` /pərˈsiːv/           ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
-> `not get` /nɑːt ɡet/              ([Casual] 理解できない)         I don't get it.
-  - `not understand`                ([Neutral] 理解できない)        I don't understand this part.
-  - `don't know` /dəʊnt nəʊ/        ([Neutral] わからない)          I don't know the answer to that question.
-  - `have no idea`                  ([Casual] 全くわからない)       I have no idea what you mean.
-  - `not make sense`                ([Neutral] 意味がわからない)    It doesn't make sense to me.
-  - `be confused`                   ([Neutral] 混乱している)        I'm confused about the process.
-  - `be lost`                       ([Neutral] ついていけない)      I'm lost in this discussion.
-  - `not follow`                    ([Neutral] ついていけない)      I can't follow your logic.
-  - `have trouble understanding`    ([Neutral] 理解に苦労する)      I'm having trouble understanding this.
-  - `not grasp` /nɑːt ɡræsp/        ([Neutral] つかめない)          I can't grasp the concept.
-  - `be completely lost`            ([Casual] 完全にわからない)     I'm completely lost.
-  - `have no clue` /hæv nəʊ kluː/   ([Casual] 全くわからない)       I have no clue what you're talking about.
-  - `be clueless` /biː ˈkluːləs/    ([Casual] 無知ある わかてない)  He's completely clueless about computers.
-  - `be at a loss` /biː ət ə lɒs/   ([Neutral] 困惑している)        I'm at a loss for words right now.
-  - `beats me` /biːts miː/          ([Casual] わからない、知らない) Why did they cancel? Beats me!
-  - `go over ~'s head`              ([Neutral] 理解を超える)        The joke went over my head.
-  - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
-  - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
-  - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
-  - `not wrap one's head around`    ([Casual] 理解できない)         I can't wrap my head around it.
-  - `not sure one follows`          ([Formal] ついていけていない)   I'm not sure I follow.
-  - `blank out`                     ([Casual] 頭が真っ白になる)     I blanked out during the exam.
-  - `not know the first thing about`([Casual] について全く知らない) I don't know the first thing about coding.
-> `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める)    I didn't recognize him at first.
-  - `identify` /aɪˈdentɪfaɪ/        ([Neutral] 見分ける、特定する)  Can you identify the suspect?
-  - `tell` /tel/                    ([Casual] 見分ける、区別する)   I can't tell the twins apart.
-  - `distinguish` /dɪˈstɪŋɡwɪʃ/     ([Formal] 区別する、見分ける)   It's hard to distinguish between them.
-  - `spot` /spɑːt/                  ([Casual] 見つける、見分ける)   I spotted him in the crowd.
-  - `detect` /dɪˈtekt/              ([Neutral] 発見する、探知する)  The test can detect cancer early.
-  - `discern` /dɪˈsɜːrn/            ([Formal] 識別する、見分ける)   I can discern a pattern here.
-  - `make out` /meɪk aʊt/           ([Casual] 見分ける、理解する)   I can barely make out the writing.
-  - `pick out` /pɪk aʊt/            ([Casual] 見分ける、選び出す)   Can you pick out your friend?
+## Opinion
+- ==I would== /aɪ wʊd/                ([Polite] 私なら〜します)       I would suggest taking a break.
+  - `suggest` /səˈdʒest/            ([Neutral] 提案する、暗示する)  I suggest we leave early.
+  - `recommend` /ˌrekəˈmend/        ([Neutral] 推薦する、勧める)    I recommend this restaurant.
+  - `advise` /ədˈvaɪz/              ([Neutral] 助言する、忠告する)  I advise you to be careful.
+  - `propose` /prəˈpoʊz/            ([Formal] 提案する、申し込む)   She proposed a new plan.
+  - `put forward` /pʊt ˈfɔːrwərd/   ([Formal] 提出する、提案する)   He put forward a new idea.
+  - `float an idea`                 ([Casual] アイデアを提案する)   Let me float an idea by you.
+  - `pitch` /pɪtʃ/                  ([Casual] 売り込む、提案する)   She pitched her idea to investors.
+- ==point out== /pɔɪnt aʊt/           ([Neutral] 指摘する、示す)      Let me point out the main issues.
+  - `specify` /ˈspesɪfaɪ/           ([Formal] 明記する、特定する)   Please specify your requirements.
+  - `identify` /aɪˈdentɪfaɪ/        ([Neutral] 特定する、確認する)  Can you identify the problem?
+  - `designate` /ˈdezɪɡneɪt/        ([Formal] 指定する、示す)       The area was designated as a park.
   - `single out` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す、特定する)  He was singled out for praise.
-  - `pinpoint` /ˈpɪnpɔɪnt/          ([Neutral] 正確に特定する)      We need to pinpoint the problem.
-  - `differentiate` /ˌdɪfəˈrenʃieɪt/([Formal] 区別する、差別化する) It's important to differentiate the brands.
+  - `pick out` /pɪk aʊt/            ([Casual] 選び出す、指定する)   Pick out your favorite color.
+- `agree with` /əˈɡriː wɪð/         ([Neutral] ～に賛成する)        I agree with the decision.
+  - `consent` /kənˈsent/            ([Formal] 同意する)             She consented to the treatment.
+  - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
+  - `be for` /biː fɔːr/             ([Casual] 賛成である)           I'm for the new policy.
+  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
+  - `be in favor of`                ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
+- ==come around to==                  ([Neutral] 徐々に同意する)      He came around to my way of thinking.
+  - `come round to`                 ([Neutral 英] 徐々に同意する)   He'll come round to my point of view.
+  - `warm up to`                    ([Neutral] 受け入れるようなる)  She's warming up to the idea.
+  - `be won over by`                ([Neutral] 説得されて同意する)  I was won over by his argument.
+- `support` /səˈpɔːrt/              ([Neutral] 支持する、支える)    I support your decision.
+  - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.
+  - `back up` /bæk ʌp/              ([Casual] 支援する、裏付ける)   I'll back you up.
+  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by you no matter what.
+  - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
+  - `get behind` /ɡet bɪˈhaɪnd/     ([Casual] 支持する、応援する)   Let's get behind this initiative.
+  - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
+  - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
+  - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
+  - `give support to`               ([Neutral] 支援する)            We give our support to the project.
+  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、裏書)       The senator endorsed the legislation.
+  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、擁護する)   I advocate for better education.
+  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He championed the rights of workers.
+  - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
+  - `second` /ˈsekənd/              ([Neutral] 支持する、賛同する)  I second the motion.
+  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
+  - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
+  - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
+  - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
+  - ==buy into==                      ([Casual] 信じて支持する)       I don't buy into that theory.
 
-## COGNITIVE (think / consider)
-> `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
-  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
-  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
-  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
-  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
-> `consider` /kənˈsɪdə/             ([Neutral] 検討する、考える)    We need to consider all options.
-  - `think over` /θɪŋk ˈəʊvə/       ([Neutral] よく考える)          Let me think over your proposal.
-  - `sleep on` /sliːp ɒn/           ([Casual] 一晩考える)           Let me sleep on it and give you an answer tomorrow.
-  - `reflect on` /rɪˈflekt ɒn/      ([Neutral] 振り返って考える)    I need time to reflect on what happened.
-  - `mull over` /mʌl ˈəʊvə/         ([Neutral] じっくり考える)      I need to mull over the decision.
-  - `weigh up` /weɪ ʌp/             ([Neutral] 比較検討する)        We need to weigh up all the pros and cons.
-  - `chew over` /tʃuː ˈəʊvə/        ([Casual] じっくり考える)       Let me chew over your idea for a bit.
-  - `contemplate` /ˈkɒntəmpleɪt/    ([Formal] 熟考する、検討する)   I'm contemplating a career change.
-  - `ponder` /ˈpɒndə/               ([Formal] じっくり考える)       He pondered the question for a moment.
-  - `deliberate` /dɪˈlɪbəreɪt/      ([Formal] 熟考する、審議する)   The jury deliberated for two hours.
-> `come up with` /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
-  - `get an idea` /ɡet ən aɪˈdiːə/  ([Neutral] アイデアを思いつく)  I just got an idea!
-  - `hit on` /hɪt ɑːn/              ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
-  - `devise` /dɪˈvaɪz/              ([Formal] 考案する、工夫する)   They devised a new strategy.
-  - `formulate` /ˈfɔːrmjəleɪt/      ([Formal] 策定する、考案する)   They formulated a plan.
-  - `strike` /straɪk/               ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
-  - `come to` /kʌm tuː/             ([Neutral] 思いつく)            The answer came to me suddenly.
-  - `flash through` /flæʃ θruː/     ([Neutral] 頭を一瞬よぎる)      An idea flashed through my mind.
-  - `dawn on` /dɔːn ɑːn/            ([Neutral] 気づく 分かってくる) The truth dawned on me.
-> `dream up` /driːm ʌp/             ([Casual] 考え出す でち上げる)  He dreamed up a crazy plan.
-  - `make up` /meɪk ʌp/             ([Casual] でっち上げる、作る)   Don't make up stories.
-  - `cook up` /kʊk ʌp/              ([Casual] でっち上げる)         He cooked up an excuse.
-  - `concoct` /kənˈkɑːkt/           ([Formal] でっち上げる、作る)   She concocted an elaborate plan.
-  - `hatch` /hætʃ/                  ([Casual] 企てる、計画する)     They hatched a secret plan.
-  - `conjure up` /ˈkʌndʒər ʌp/      ([Writing] 思い起こす 作り出す) He conjured up a fantastic story.
-> `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
-  - `think of` /θɪŋk ʌv/            ([Neutral] 思い出す、考えつく)  I can't think of his name.
-  - `think about` /θɪŋk əˈbaʊt/     ([Neutral] 考える、検討する)    Think about what I said.
-  - `imagine` /ɪˈmædʒɪn/            ([Neutral] 想像する)            Can you imagine living there?
-  - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
-  - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する 想像する) Try to visualize the solution.
-  - `envision` /ɪnˈvɪʒən/           ([Neutral] 心に描く 想像する)   I envision a better future.
-  - `conceive` /kənˈsiːv/           ([Formal] 具体的な創造)         She conceived the idea during her commute.
-  - `conceive of` /kənˈsiːv/        ([Formal] 抽象的な想像・理解)   I can't conceive of such cruelty.
-  - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
-  - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
-  - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
-> `guess` /ɡes/                     ([Neutral] 推測する)            I can only guess what happened.
-  - `assume` /əˈsuːm/               ([Neutral] 仮定する、思い込む)  Don't assume I know what you mean.
-  - `presume` /prɪˈzuːm/            ([Formal] 推定する、仮定する)   I presume you've heard the news.
-  - `suppose` /səˈpoʊz/             ([Neutral] 想定する、思う)      I suppose you're right.
-  - `speculate` /ˈspekjəleɪt/       ([Neutral] 推測する、投機する)  We can only speculate about the cause.
-  - `surmise` /sərˈmaɪz/            ([Formal] 推測する、推量する)   I surmised that he was upset.
-  - `conjecture` /kənˈdʒektʃər/     ([Writing] 推測、臆測)          It's all conjecture at this point.
-  - `hypothesize` /haɪˈpɑːθəsaɪz/   ([Formal] 仮説を立てる)         Scientists hypothesize about dark matter.
-  - `postulate` /ˈpɑːstʃəleɪt/      ([Writing] 仮定する、要請する)  Einstein postulated the speed of light.
-  - `theorize` /ˈθiːəraɪz/          ([Neutral] 理論化する)          They theorized about the origins.
-  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   What can we infer from this data?
-
-### taido
-> `cut corners` /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
-  - `slack off` /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
-  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
-  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
-  - `phone it in`                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
-  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
-  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
-> `be sloppy` /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
-  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
-  - `be half-hearted`               ([Neutral] やる気のない)        His effort was half-hearted.
-
-### kioku
-> `keep in mind`                    ([Neutral] 心に留める)          Keep in mind that he's new here.
-  - `bear in mind`                  ([Neutral] 心に留める)          Bear in mind the deadline.
-  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
-> `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
-  - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
-  - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
-> `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる)        This song reminds me of my childhood.
-  - `remember` /rɪˈmembər/          ([Neutral] 思い出す 覚えている) I remember meeting you before.
-  - `recall` /rɪˈkɔːl/              ([Neutral] 思い出す、回収する)  I can't recall his name.
-  - `trigger` /ˈtrɪɡər/             ([Neutral] 引き金、きっかけ)    The smell triggered old memories.
-  > `bring back` /brɪŋ bæk/         ([Neutral] 思い出させる)        This photo brings back memories.
-  - `call to mind` /kɔːl tuː maɪnd/ ([Neutral] 思い起こさせる)      Your voice calls her to mind.
-  - `stir up` /stɜːr ʌp/            ([Neutral] かき立てる)          The story stirred up old emotions.
-  - `awaken` /əˈweɪkən/             ([Neutral] 目覚めさせる)        The speech awakened memories of war.
-  - `revive` /rɪˈvaɪv/              ([Neutral] 蘇らせる 復活させる) The music revived fond memories.
-  - `recollect` /ˌrekəˈlekt/        ([Formal] 思い出す、回想する)   I recollect meeting him years ago.
-  - `evoke` /ɪˈvoʊk/                ([Writing] 想起させる)          The music evoked memories of childhood.
-  - `summon up` /ˈsʌmən ʌp/         ([Formal] 呼び起こす)           He summoned up courage from memories.
-> `forget` /fərˈɡet/                ([Neutral] 忘れる)              I forgot to bring my keys.
-  > `slip one's mind`               ([Casual] うっかり忘れる)       Your birthday slipped my mind.
-  - `draw a blank`                  ([Casual] 思い出せない)         I'm drawing a blank on his name.
-  - `can't place`                   ([Neutral] 思い出せない)        I can't place where I've seen you.
-  - `escape me`                     ([Neutral] 思い出せない)        His name escapes me right now.
-  - `lose track of`                 ([Neutral] 見失う、忘れる)      I lost track of time.
-  - `overlook` /ˌoʊvərˈlʊk/         ([Neutral] 見落とす、無視する)  Don't overlook the details.
-> `take note of` /teɪk noʊt əv/     ([Neutral] 注意しておく)        Take note of what he says.
-  - `be mindful of` /biː ˈmaɪndfəl/ ([Formal] 気をつける)           Be mindful of the time limit.
-  - `retain` /rɪˈteɪn/              ([Formal] 覚えておく、保持する) I'll retain this information.
-  - `commit to memory` /kəˈmɪt/     ([Formal] 記憶にとどめる)       She committed the poem to memory.
-  - `store away` /stɔːr əˈweɪ/      ([Neutral] 記憶にしまう)        I stored that fact away for later.
-  - `file away` /faɪl əˈweɪ/        ([Neutral] 記録しておく)        He filed the information away.
-  - `keep track of` /kiːp træk əv/  ([Neutral] 記録しておく)        Keep track of your expenses.
-  - `stay aware of` /steɪ əˈwer əv/ ([Neutral] 意識しておく)        Stay aware of the changing market.
-  - `be conscious of` /ˈkɑːnʃəs əv/ ([Formal] 意識する)             Be conscious of your posture.
-  - `lodge in memory` /lɑːdʒ ɪn/    ([Writing] 記憶に留める)        The image lodged in her memory.
-  - `etch in mind` /etʃ ɪn maɪnd/   ([Writing] 心に刻む)            The experience etched itself in his mind.
-  - `engrave on memory` /ɪnˈɡreɪv/  ([Writing] 記憶に刻む)          The moment was engraved on her memory.
-  - `treasure` /ˈtreʒər/            ([Neutral] 大切にする)          I treasure those memories.
-> `sink in` /sɪŋk ɪn/               ([Neutral] 実感が湧く)          It took a while for the news to sink in.
-
-### konomi
-> `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
-  > `be fine` /bi faɪn/             ([Neutral] 大丈夫である)        That will be fine for me.
-  - `that'll be fine`               ([Casual] それで大丈夫)         Any time will be fine.
-  > `will do` /wɪl duː/             ([Casual] 間に合う、十分だ)     This will do for now.
-  - `that'll do` /ðætəl duː/        ([Casual] それで十分)           That'll do, thanks.
+## Preference
+- `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
+  - ==be fine== /bi faɪn/             ([Neutral] 大丈夫である)        That will be fine for me.
+  - `will do` /wɪl duː/             ([Casual] 間に合う、十分だ)     This will do for now.
   - `do the trick` /duː ðə trɪk/    ([Casual] うまくいく、十分)     This should do the trick.
   - `be sufficient` /bi səˈfɪʃənt/  ([Formal] 十分である)           The budget should be sufficient.
   - `suffice` /səˈfaɪs/             ([Writing] 十分である)          A phone call will suffice.
@@ -507,24 +57,23 @@
   - `meet the need` /miːt ðə niːd/  ([Neutral] ニーズを満たす)      This solution meets the need.
   - `cover it` /ˈkʌvər ɪt/          ([Casual] カバーする、足りる)   Twenty dollars should cover it.
   - `serve the purpose`             ([Neutral] 目的を果たす)        This tool serves the purpose.
-> `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
-  > `would like` /wʊd laɪk/         ([Polite] 〜が欲しい)           I would like some water, please.
+- `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
+  - `would like` /wʊd laɪk/         ([Polite] 〜が欲しい)           I would like some water, please.
   - `wouldn't mind` /ˈwʊdnt maɪnd/  ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
   - `could use` /kʊd juːz/          ([Casual] 〜が欲しい)           I could use a coffee right now.
   - `could do with` /kʊd duː wɪð/   ([Casual] 〜が欲しい)           I could do with a vacation.
   - `be eager to` /biː ˈiːɡər tuː/  ([Neutral] 切望する)            She's eager to start her new job.
   - `desire` /dɪˈzaɪər/             ([Formal] 欲する、望む)         He desires success above all.
-> `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
-  - `物 need V-ing`                 ([Neutral] Vされる必要がある)   The car needs washing.
-  - `need for`                      ([Neutral] ～の必要性)          There's a need for change.
-  - `require` /rɪˈkwaɪər/           ([Formal] 必要とする、要求する) This job requires experience.
-    - `be required to`              ([Formal] することが求められる) Students are required to attend.
-> `like` /laɪk/                     ([Neutral] 好き)                I like chocolate.
+- `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
+  - ==物 need V-ing==                 ([Neutral] Vされる必要がある)   The car needs washing.
+  - ==require== /rɪˈkwaɪər/           ([Formal] 必要とする、要求する) This job requires experience.
+  - ==be required to==                ([Formal] することが求められる) Students are required to attend.
+- `like` /laɪk/                     ([Neutral] 好き)                I like chocolate.
   - `love` /lʌv/                    ([Neutral] 愛する、大好き)      I love this music.
   - `enjoy` /ɪnˈdʒɔɪ/               ([Neutral] 楽しむ、気に入る)    I enjoy reading books.
-  > `be into` /ɪnˈtuː/              ([Casual] 夢中である)           She's really into yoga.
+  - `be into` /ɪnˈtuː/              ([Casual] 夢中である)           She's really into yoga.
   - `be fond of` /fɑːnd əv/         ([Neutral] 好んでいる)          I'm fond of classical music.
-  > `be obsessed with`              ([Neutral] 夢中である)          He's obsessed with his new baby.
+  - ==be obsessed with==              ([Neutral] 夢中である)          He's obsessed with his new baby.
   - `be crazy about`                ([Casual] 夢中である)           He's crazy about sports cars.
   - `be passionate about`           ([Neutral] 情熱的である)        She's passionate about teaching.
   - `adore` /əˈdɔːr/                ([Neutral] 愛する、大好き)      I adore my grandmother.
@@ -533,21 +82,8 @@
   - `favor` /ˈfeɪvər/               ([Neutral] 好む、支持する)      I favor the first option.
   - `have a thing for`              ([Casual] 好きである)           She has a thing for vintage cars.
   - `be keen on` /kiːn ɑːn/         ([Neutral] 熱心である)          He's keen on photography.
-> `support` /səˈpɔːrt/              ([Neutral] 支持する、支える)    I support your decision.
-  - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.
-  - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
-  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by you no matter what.
-  - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
-  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He championed the rights of workers.
-  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、擁護する)   I advocate for better education.
-  - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
-  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、裏書)       The senator endorsed the legislation.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
-  - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
-  - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
-  - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
-  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
-> `complain about`                  ([Neutral] 文句を言う)          They complained about the delay.
+  - `lean towards` /liːn təˈwɔːrdz/ ([Neutral] 傾く、選ぶ傾向)      I'm leaning towards the first option.
+- `complain about`                  ([Neutral] 文句を言う)          They complained about the delay.
   - `be upset with`                 ([Casual] 腹を立てる)           I'm upset with his decision.
   - `be angry with`                 ([Neutral] 怒っている)          He's angry with the service.
   - `be mad at`                     ([Casual] 怒っている)           She's mad at me for being late.
@@ -569,115 +105,140 @@
   - `have an axe to grind`          ([Neutral] 私怨がある)          He has an axe to grind with the company.
   - `air grievances`                ([Formal] 不満を表明する)       The staff met to air their grievances.
 
-### kaiwa
-> `discuss` /dɪˈskʌs/               ([Neutral] 議論する、話し合う)  We'll discuss this issue next week.
-  - `take up` /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
-  - `address` /əˈdres/              ([Neutral] 取り組む、対処する)  We'll address this issue next week.
+## Conversation
+- `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
+  - `be said to` /biː sed tuː/      ([Neutral] と言われている)      He is said to have worked hard when young.
+  - ==get at== /ɡet æt/               ([Casual] 言おうとする)         What are you getting at?
+  - `drive at` /draɪv æt/           ([Casual] 言おうとする)         I see what you're driving at.
+- `talk` /tɔːk/                     ([Neutral] 話す、話し合う)      We need to talk about this.
+  - `speak` /spiːk/                 ([Neutral] 話す、演説する)      May I speak with you privately?
+  - `rap` /ræp/                     ([Casual] 話す、おしゃべりする) I enjoyed rapping with him about sports.
+- `discuss` /dɪˈskʌs/               ([Neutral] 議論する、話し合う)  We'll discuss this issue next week.
+  - ==take up== /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
   - `look at` /lʊk æt/              ([Neutral] 検討する、見る)      We'll look at this issue next week.
   - `cover` /ˈkʌvər/                ([Neutral] 扱う、カバーする)    We'll cover this issue next week.
   - `talk about` /tɔːk əˈbaʊt/      ([Casual] 話し合う)             We'll talk about this issue next week.
-> `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
-  > `be said to` /biː sed tuː/      ([Neutral] と言われている)      He is said to have worked hard when young.
-> `get at` /ɡet æt/                 ([Casual] 言おうとする)         What are you getting at?
-  - `drive at` /draɪv æt/           ([Casual] 言おうとする)         I see what you're driving at.
-> `explain` /ɪkˈspleɪn/             ([Neutral] 説明する、解釈する)  Let me explain the situation.
+- `explain` /ɪkˈspleɪn/             ([Neutral] 説明する、解釈する)  Let me explain the situation.
   - `describe` /dɪˈskraɪb/          ([Neutral] 描写する、説明する)  Can you describe what happened?
   - `clarify` /ˈklærɪfaɪ/           ([Neutral] 明確にする)          Can you clarify that point?
   - `outline` /ˈaʊtlaɪn/            ([Neutral] 概要を説明する)      Let me outline the plan.
-  > `elaborate` /ɪˈlæbəreɪt/        ([Formal] 詳しく説明する)       Could you elaborate on that?
+  - ==elaborate on== /ɪˈlæbəreɪt/     ([Formal] 詳しく説明する)       Could you elaborate on that?
   - `illustrate` /ˈɪləstreɪt/       ([Neutral] 説明する、例証する)  This example illustrates my point.
   - `demonstrate` /ˈdemənstreɪt/    ([Neutral] 実演して説明する)    Let me demonstrate how it works.
-  - `baby` /ˈbeɪbi/                  ([Casual] 甘やかす 過保護に扱) Stop babying him!
-  - `coddle` /ˈkɑːdl/               ([Neutral] 甘やかす、過保護)    Don't coddle your children.
-  - `pamper` /ˈpæmpər/              ([Neutral] 甘やかす 大事にする) She pampers her students too much.
-  - `mollycoddle` /ˈmɑːlikɑːdl/     ([Formal] 過保護に扱う)         Stop mollycoddling them!
-> `talk` /tɔːk/                     ([Neutral] 話す、話し合う)      We need to talk about this.
-  - `speak` /spiːk/                 ([Neutral] 話す、演説する)      May I speak with you privately?
-  - `rap` /ræp/                     ([Casual] 話す、おしゃべりする) I enjoyed rapping with him about sports.
-  > `cut to the chase`              ([Casual] 要点を言う)           Let me cut to the chase.
-> `have a say` /hæv ə seɪ/          ([Neutral] 発言権を持つ)        Everyone should have a say in this.
+  - ==cut to the chase==              ([Casual] 要点を言う)           Let me cut to the chase.
+- `have a say` /hæv ə seɪ/          ([Neutral] 発言権を持つ)        Everyone should have a say in this.
   - `have a voice` /hæv ə vɔɪs/     ([Neutral] 発言権を持つ)        We all have a voice in this decision.
   - `weigh in` /weɪ ɪn/             ([Neutral] 意見を述べる)        Let me weigh in on this issue.
   - `put in your two cents`         ([Casual] ちょっと意見を言う)   Can I put in my two cents here?
   - `speak your mind`               ([Neutral] 率直に意見を言う)    Don't be afraid to speak your mind.
   - `have your say` /hæv jʊər seɪ/  ([Neutral] 意見言う機会を得る)  Everyone will have their say.
-
-### renraku
+- `tell` /tel/                      ([Neutral] 伝える)              Tell him I said hi.
+  - ==let know== /let noʊ/            ([Casual] 知らせる)             Let me know when you arrive.
+  - `share` /ʃer/                   ([Neutral] 共有する)            Share this with your team.
+  - `pass on` /pæs ɑːn/             ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
+  - `pass along` /pæs əˈlɔːŋ/       ([Neutral] 情報を伝える)        Please pass along the message.
+  - `spread` /spred/                ([Neutral] 広める)              The news spread quickly.
+  - `hand down` /hænd daʊn/         ([Neutral] 伝承する)            The tradition was handed down.
+  - `relay` /rɪˈleɪ/                ([Neutral] 中継する、伝える)    Please relay this message to her.
+  - `report` /rɪˈpɔːrt/             ([Neutral] 報告する、伝える)    I must report this incident.
+  - `deliver` /dɪˈlɪvər/            ([Neutral] 届ける、伝える)      He delivered the news personally.
+  - `keep posted` /kiːp ˈpoʊstɪd/   ([Neutral] 最新情報を知らせる)  Keep me posted on any developments.
+  - `forward` /ˈfɔːrwərd/           ([Neutral] 転送する)            I'll forward the email to you.
+  - `tip off` /tɪp ɔːf/             ([Casual] 密かに知らせる)       Someone tipped off the police.
   - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
   - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
-- `tell` /tel/                      ([Neutral] 伝える)              Tell him I said hi.
-- `let know` /let noʊ/              ([Casual] 知らせる)             Let me know when you arrive.
-- `share` /ʃer/                     ([Neutral] 共有する)            Share this with your team.
-- `pass on` /pæs ɑːn/               ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
-- `pass along` /pæs əˈlɔːŋ/         ([Neutral] 情報を伝える)        Please pass along the message.
-- `spread` /spred/                  ([Neutral] 広める)              The news spread quickly.
-- `hand down` /hænd daʊn/           ([Neutral] 伝承する)            The tradition was handed down.
-- `relay` /rɪˈleɪ/                  ([Neutral] 中継する、伝える)    Please relay this message to her.
-- `forward` /ˈfɔːrwərd/             ([Neutral] 転送する)            I'll forward the email to you.
-- `convey` /kənˈveɪ/                ([Formal] 伝達する)             Please convey my apologies.
-- `transmit` /trænzˈmɪt/            ([Formal] 送信する、伝える)     The data was transmitted securely.
-- `communicate` /kəˈmjuːnɪkeɪt/     ([Formal] 伝達する)             Communicate this to all staff.
-- `get across to` /ɡet əˈkrɔːs tuː/ ([Neutral] 伝わる、理解させる)  I got my point across to them.
-- `get through to` /ɡet θruː tuː/   ([Neutral] 伝わる、理解させる)  I can't get through to him.
-- `put across` /pʊt əˈkrɔːs/        ([Neutral] 伝える、わからせる)  She put her ideas across clearly.
-- `make clear to` /meɪk klɪr tuː/   ([Neutral] 明確に伝える)        Make it clear to everyone.
-> `contact` /ˈkɑːntækt/             ([Neutral] 連絡する)            I'll contact you later.
-  - `get in touch` /ɡet ɪn tʌtʃ/    ([Neutral] 連絡を取る)          Let's get in touch soon.
-  > `touch base` /tʌtʃ beɪs/        ([Neutral] 連絡を取る、報告)    Let's touch base next week.
+  - `convey` /kənˈveɪ/              ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
+  - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
+  - `transmit` /trænzˈmɪt/          ([Formal] 送信する、伝える)     The data was transmitted securely.
+  - `communicate` /kəˈmjuːnɪkeɪt/   ([Formal] 伝達する)             Communicate this to all staff.
+  - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
+- ==get across to== /ɡet əˈkrɔːs tuː/ ([Neutral] 伝わる、理解させる)  I got my point across to them.
+  - `get through to` /ɡet θruː tuː/ ([Neutral] 伝わる、理解させる)  I can't get through to him.
+  - `put across` /pʊt əˈkrɔːs/      ([Neutral] 伝える、わからせる)  She put her ideas across clearly.
+  - `make clear to` /meɪk klɪr tuː/ ([Neutral] 明確に伝える)        Make it clear to everyone.
+
+## Phone
+- `contact` /ˈkɑːntækt/             ([Neutral] 連絡する)            I'll contact you later.
+  - ==get in touch== /ɡet ɪn tʌtʃ/    ([Neutral] 連絡を取る)          Let's get in touch soon.
+  - `touch base with`               ([Casual] 連絡を取る)           Let me touch base with you next week.
   - `reach out` /riːtʃ aʊt/         ([Neutral] 連絡を取る)          I'll reach out to them.
   - `hit up` /hɪt ʌp/               ([Slang] 連絡する)              Hit me up later.
   - `drop a line` /drɑːp ə laɪn/    ([Informal] 一報入れる)         Drop me a line sometime.
-  > `get back to` /ɡet bæk tuː/     ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
+  - ==get back to== /ɡet bæk tuː/     ([Neutral] 後で連絡する)        I'll get back to you tomorrow.
   - `get hold of` /ɡet hoʊld əv/    ([Neutral] 連絡を取る)          I couldn't get hold of him.
   - `get ahold of` /ɡet əˈhoʊld əv/ ([Informal] 連絡を取る)         Try to get ahold of her.
-> `hear from` /hɪr frʌm/            ([Neutral] 連絡をもらう)        I hope to hear from you soon.
-  - `receive` /rɪˈsiːv/             ([Neutral] 連絡をもらう)        I received your message yesterday.
-  - `be contacted by`               ([Neutral] 連絡を受ける)        I was contacted by the manager.
-  - `get     word from`             ([Neutral] 便りをもらう)        I got word from him this morning.
-  - `receive word from`             ([Formal] 便りを受ける)         We received word from headquarters.
-> `get  on the phone`               ([Neutral] 電話で話す)          Get on the phone with the supplier.
-  - `be   on the phone`             ([Neutral] 電話中である)        I'm on the phone with a client.
-  - `get off the phone`             ([Casual] 電話を切る)           I just got off the phone with him.
-  - `ring up` /rɪŋ ʌp/              ([British] 電話をかける)        I'll ring you up tomorrow.
-  - `hang up` /hæŋ ʌp/              ([Neutral] 電話を切る)          Don't hang up yet!
-> `keep in touch` /kiːp ɪn tʌtʃ/    ([Neutral] 連絡を保つ)          Let's keep in touch.
-  - `be in contact`                 ([Neutral] 連絡を保つ)          We're still in contact.
+  - `check in with` /tʃek ɪn wɪð/   ([Neutral] 連絡を取る、確認する) I need to check in with my manager.
+  - `reach out to` /riːtʃ aʊt tuː/  ([Neutral] 連絡を取る)         Feel free to reach out to me anytime.
+- ==keep in touch== /kiːp ɪn tʌtʃ/    ([Neutral] 連絡を保つ)          Let's keep in touch.
   - `stay in touch` /steɪ ɪn tʌtʃ/  ([Neutral] 連絡を保つ)          Stay in touch!
-  - `lose touch`                    ([Neutral] 連絡が途絶える)      I lost touch with my old friends.
+  - `be in contact`                 ([Neutral] 連絡を保つ)          We're still in contact.
+- ==lose touch==                      ([Neutral] 連絡が途絶える)      I lost touch with my old friends.
   - `lose contact`                  ([Neutral] 連絡を失う)          I lost contact with my mentor.
   - `fall out of touch`             ([Neutral] 連絡が途絶える)      We fell out of touch after college.
   - `drift apart` /drɪft əˈpɑːrt/   ([Neutral] 疎遠になる)          We slowly drifted apart over time.
   - `grow apart` /ɡroʊ əˈpɑːrt/     ([Neutral] 疎遠になる)          We grew apart after high school.
   - `be out of touch`               ([Neutral] 連絡が取れない)      I've been out of touch with them.
-> `report` /rɪˈpɔːrt/               ([Neutral] 報告する、伝える)    I must report this incident.
-  - `deliver` /dɪˈlɪvər/            ([Neutral] 届ける、伝える)      He delivered the news personally.
-  - `keep posted` /kiːp ˈpoʊstɪd/   ([Neutral] 最新情報を知らせる)  Keep me posted on any developments.
-  - `convey` /kənˈveɪ/              ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
-  - `tip off` /tɪp ɔːf/             ([Casual] 密かに知らせる)       Someone tipped off the police.
-  - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
-  - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
-- `check in with` /tʃek ɪn wɪð/    ([Neutral] 連絡を取る、確認する) I need to check in with my manager.
-- `follow up with` /ˈfɒləʊ ʌp wɪð/ ([Neutral] フォローアップする)  I will follow up with the client tomorrow.
-- `touch base with` /tʌtʃ beɪs wɪð/ ([Casual] 連絡を取る)         Let me touch base with you next week.
-- `reach out to` /riːtʃ aʊt tuː/   ([Neutral] 連絡を取る)         Feel free to reach out to me anytime.
-- `keep in touch with` /kiːp ɪn tʌtʃ wɪð/ ([Neutral] 連絡を保つ)   Let's keep in touch with each other.
+- `hear from` /hɪr frʌm/            ([Neutral] 連絡をもらう)        I hope to hear from you soon.
+  - `receive` /rɪˈsiːv/             ([Neutral] 連絡をもらう)        I received your message yesterday.
+  - `be contacted by`               ([Neutral] 連絡を受ける)        I was contacted by the manager.
+  - `get     word from`             ([Neutral] 便りをもらう)        I got word from him this morning.
+  - `receive word from`             ([Formal] 便りを受ける)         We received word from headquarters.
+- `get  on the phone`               ([Neutral] 電話で話す)          Get on the phone with the supplier.
+  - `be   on the phone`             ([Neutral] 電話中である)        I'm on the phone with a client.
+  - `get off the phone`             ([Casual] 電話を切る)           I just got off the phone with him.
+  - `ring up` /rɪŋ ʌp/              ([British] 電話をかける)        I'll ring you up tomorrow.
+  - `hang up` /hæŋ ʌp/              ([Neutral] 電話を切る)          Don't hang up yet!
 - `catch up with` /kætʃ ʌp wɪð/    ([Casual] 近況を話し合う)       I need to catch up with an old friend.
 
-### task
-> `assign` /əˈsaɪn/                 ([Neutral] 割り当てる 指定する) She was assigned to the project.
+## Task - Responsibility
+- ==be in charge of==                 ([Neutral] ～を担当する)        He's in charge of operations.
+  - `be responsible for`            ([Neutral] ～を担当する)        She's responsible for sales.
+- ==hand over to== /hænd ˈoʊvər tuː/  ([Neutral] 〜に引き渡す)        I'll hand this over to the manager.
+  - `turn over to` /tɜːrnˈoʊvər tuː/([Neutral] 〜に引き渡す)        Turn the matter over to the lawyers.
+  - `pass over to` /pæs ˈoʊvər tuː/ ([Neutral] 〜に引き渡す)        I'll pass this over to the team lead.
+  - `transfer to` /trænsˈfɜːr tuː/  ([Formal] 〜に移す、転送する)   We'll transfer the case to another department.
+  - `pass to` /pæs tuː/             ([Neutral] 〜に渡す)            I'll pass the task to my colleague.
+- ==leave ~ up to== /liːv ʌp tuː/     ([Neutral] 〜に任せる)          I'll leave it up to you.
+  - `put ~ in someone's hands`      ([Neutral] 〜の手に委ねる)      I put my future in your hands.
+  - `bank on` /bæŋk ɑːn/            ([Casual] 〜を当てにする)       Don't bank on getting that promotion.
+  - `delegate ~ to` /ˈdɛlɪɡeɪt tuː/ ([Formal] 〜に委任する)         She delegated the work to her team.
+  - `entrust ~ to` /ɪnˈtrʌst tuː/   ([Formal] 〜に委ねる)           I entrust this task to you.
+- ==take over from== /teɪk ˈoʊvər/    ([Neutral] ～から引き継ぐ)      I'll take over from Sarah next week.
+  - `assume control`                ([Formal] 支配権を引き継ぐ)     She assumed control of the department.
+  - `succeed` /səkˈsiːd/            ([Formal] 後を継ぐ、引き継ぐ)   He succeeded his father as CEO.
+  - `take the reins` /teɪk ðə reɪnz/([Neutral] 指揮を執る)          She took the reins of the project.
+  - `take responsibility for`       ([Neutral] 責任を引き受ける)    I'll take responsibility for this.
+  - `step up` /step ʌp/             ([Neutral] 引き受ける、頑張る)  Someone needs to step up.
+- `take` /teɪk/                     ([Neutral] 引き受ける、取る)    I'll take the job.
+  - `take on` /teɪk ɑːn/            ([Neutral] 引き受ける)          I'll take on this challenge.
+  - `take upon oneself`             ([Formal] 自ら引き受ける)       He took it upon himself to help.
+  - `accept` /əkˈsept/              ([Neutral] 受け入れる 引き受け) I accept the responsibility.
+  - `pick up` /pɪk ʌp/              ([Casual] 引き受ける 拾い上げ)  I'll pick up the slack.
+  - `undertake` /ˌʌndərˈteɪk/       ([Formal] 引き受ける、着手する) We'll undertake the project.
+  - `assume` /əˈsuːm/               ([Formal] 引き受ける、想定する) She assumed the role of manager.
+  - `shoulder` /ˈʃoʊldər/           ([Neutral] 肩に担う 引き受ける) He shouldered the responsibility.
+  - `bear` /ber/                    ([Formal] 負う、担う)           They bear the cost of repairs.
+  - `embrace` /ɪmˈbreɪs/            ([Neutral] 受け入れる 歓迎する) She embraced the challenge.
+- ==have ~ on one's plate==           ([Neutral] やることがある)      I have a lot on my plate this week.
+  - `have a full plate`             ([Neutral] 多くの責任抱えてる)  I have a full plate with work and family.
+  - `be swamped` /swɑːmpt/          ([Casual] 忙殺されている)       I'm swamped with emails right now.
+  - `be up to one's ears in work`   ([Casual] 非常に忙しい)         I'm up to my ears in work this month.
+  - `juggle` /ˈdʒʌɡəl/              ([Neutral] 複数の仕事をこなす)  I'm juggling three projects at once.
+
+## Task - Planning
+- `assign` /əˈsaɪn/                 ([Neutral] 割り当てる 指定する) She was assigned to the project.
   - `allocate` /ˈæləkeɪt/           ([Neutral] 割り当てる 配分する) We'll allocate resources to each team.
-  - `delegate` /ˈdelɪɡeɪt/          ([Neutral] 委任する 代表にする) I'll delegate this task to my assistant.
   - `distribute` /dɪˈstrɪbjuːt/     ([Neutral] 配布する、分配する)  We'll distribute tasks equally.
   - `designate` /ˈdezɪɡneɪt/        ([Formal] 指定する、任命する)   She was designated as team leader.
   - `appoint` /əˈpɔɪnt/             ([Formal] 任命する、指定する)   He was appointed as director.
   - `allot` /əˈlɑːt/                ([Neutral] 割り当てる 配分する) They allotted 30 minutes for discussion.
   - `earmark` /ˈɪərmɑːrk/           ([Neutral] 特定目的に割り当て)  Funds were earmarked for research.
-  - `set aside` /set əˈsaɪd/        ([Neutral] 取り分ける 割り当て) We set aside time for planning.
+  - ==set aside== /set əˈsaɪd/        ([Neutral] 取り分ける 割り当て) We set aside time for planning.
   - `portion out` /ˈpɔːrʃən aʊt/    ([Casual] 分配する、配分する)   She portioned out the work fairly.
   - `hand out` /hænd aʊt/           ([Casual] 配る、分配する)       The manager handed out assignments.
   - `dole out` /doʊl aʊt/           ([Casual] 小出しに配る)         They doled out tasks gradually.
   - `mete out` /miːt aʊt/           ([Formal] 割り当てる、与える)   The judge meted out sentences.
-> `schedule` /ˈskedʒuːl/            ([Neutral] スケジュールする)    Let's schedule a meeting for tomorrow.
+- `schedule` /ˈskedʒuːl/            ([Neutral] スケジュールする)    Let's schedule a meeting for tomorrow.
   - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up a meeting with the team.
   - `set things up` /set θɪŋz ʌp/   ([Neutral] 準備する、手配する)  Let me set things up for tomorrow.
   - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for the event.
@@ -694,89 +255,485 @@
   - `slot for` /slɑːt fɔːr/         ([Neutral] ~の枠を設ける)       I'll slot for 30 minutes to discuss this.
   - `pencil in` /ˈpensəl ɪn/        ([Casual] 仮に予定を入れる)     Let me pencil you in for 3 PM.
   - `block out` /blɑːk aʊt/         ([Neutral] 時間をブロックする)  I'll block out time in my calendar.
-  - `set aside` /set əˈsaɪd/        ([Neutral] 時間を取っておく)    Let's set aside time for planning.
   - `reserve` /rɪˈzɜːrv/            ([Neutral] 予約する、確保する)  Please reserve time for the presentation.
-  - `allocate` /ˈæləkeɪt/           ([Formal] 割り当てる、配分する) We need to allocate time for each task.
-  - `assign` /əˈsaɪn/               ([Neutral] 割り当てる、指定する)Let's assign specific time slots.
   - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
-  - `put together` /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
 
-### opinion
-> `I would` /aɪ wʊd/                ([Polite] 私なら〜します)       I would suggest taking a break.
-  - `suggest` /səˈdʒest/              ([Neutral] 提案する、暗示する)  I suggest we leave early.
-  - `recommend` /ˌrekəˈmend/          ([Neutral] 推薦する、勧める)    I recommend this restaurant.
-  - `advise` /ədˈvaɪz/                ([Neutral] 助言する、忠告する)  I advise you to be careful.
-  - `propose` /prəˈpoʊz/              ([Formal] 提案する、申し込む)   She proposed a new plan.
-  - `put forward` /pʊt ˈfɔːrwərd/     ([Formal] 提出する、提案する)   He put forward a new idea.
-  - `float an idea`                   ([Casual] アイデアを提案する)   Let me float an idea by you.
-  - `pitch` /pɪtʃ/                    ([Casual] 売り込む、提案する)   She pitched her idea to investors.
-- `point out` /pɔɪnt aʊt/           ([Neutral] 指摘する、示す)      Let me point out the main issues.
-  - `specify` /ˈspesɪfaɪ/             ([Formal] 明記する、特定する)   Please specify your requirements.
-  - `identify` /aɪˈdentɪfaɪ/          ([Neutral] 特定する、確認する)  Can you identify the problem?
-  > `designate` /ˈdezɪɡneɪt/          ([Formal] 指定する、示す)       The area was designated as a park.
-  - `assign` /əˈsaɪn/                 ([Neutral] 割り当てる 指定する) We assigned tasks to each member.
-  - `single out` /ˈsɪŋɡəl aʊt/        ([Neutral] 選び出す、特定する)  He was singled out for praise.
-  - `pick out` /pɪk aʊt/              ([Casual] 選び出す、指定する)   Pick out your favorite color.
-- `consent` /kənˈsent/               ([Formal] 同意する)             She consented to the treatment.
-  - `agree` /əˈɡriː/                   ([Neutral] 同意する)            I agree with your opinion.
-  - `approve` /əˈpruːv/                ([Neutral] 承認する)            The board approved the proposal.
-  - `permit` /pərˈmɪt/                 ([Formal] 許可する)             The law does not permit smoking here.
-  - `authorize` /ˈɔːθəraɪz/            ([Formal] 認可する)             Who authorized this purchase?
-  - `acquiesce` /ˌækwiˈes/             ([Formal] 黙認する)             She acquiesced to their demands.
-  > `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
-  - `assert` /əˈsɜrt/                 ([Neutral] 断言する、主張する)  He asserted his innocence.
-  - `declare` /dɪˈkler/               ([Neutral] 宣言する、公表する)  She declared her candidacy.
-  - `state` /steɪt/                   ([Neutral] 述べる、明言する)    Please state your name clearly.
-  - `proclaim` /prəˈkleɪm/            ([Formal] 宣言する、公表する)   The mayor proclaimed a holiday.
-  - `pronounce` /prəˈnaʊns/           ([Neutral] 宣告する、発音する)  The judge pronounced the verdict.
-  - `avow` /əˈvaʊ/                    ([Writing] 公言する、認める)    He avowed his love publicly.
-  - `aver` /əˈvɜr/                    ([Writing] 断言する、主張する)  She averred that she was innocent.
-  - `maintain` /meɪnˈteɪn/            ([Neutral] 主張する、維持する)  He maintains his innocence.
-> `agree with` /əˈɡriː wɪð/         ([Neutral] ～に賛成する)        I agree with the decision.
-  - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成する)  The board approved the plan.
-  - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
-  - `be for` /biː fɔːr/             ([Casual] 賛成である)           I'm for the new policy.
-  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
-  - `be in favor of`                ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
-> `come around to`                  ([Neutral] 徐々に同意する)      He came around to my way of thinking.
-  - `warm up to`                    ([Neutral] 受け入れるようなる)  She's warming up to the idea.
-  - `come round to`                 ([Neutral 英] 徐々に同意する)   He'll come round to my point of view.
-  - `be won over by`                ([Neutral] 説得されて同意する)  I was won over by his argument.
-> `buy into`                        ([Casual] 信じて支持する)       I don't buy into that theory.
-  - `back up` /bæk ʌp/              ([Casual] 支援する、裏付ける)   I'll back you up.
-  - `get behind` /ɡet bɪˈhaɪnd/     ([Casual] 支持する、応援する)   Let's get behind this initiative.
-  - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
-  - `second` /ˈsekənd/              ([Neutral] 支持する、賛同する)  I second the motion.
-  - `give support to`               ([Neutral] 支援する)            We give our support to the project.
-  - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
-  - `align with` /əˈlaɪn wɪð/       ([Formal] 同調する、一致する)   Our goals align with yours.
-  - `lend support to`               ([Formal] 支援する、支持する)   I lend my support to the cause.
-  - `get on board with`             ([Casual] 同意し参加する)       We need everyone on board with this.
-  - `embrace` /ɪmˈbreɪs/            ([Neutral] 喜んで受け入れる)    She embraced the new approach.
-> `follow` /ˈfɑːloʊ/                ([Neutral] 従う、続く)          Please follow the instructions.
-  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
-  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
-  - `keep` /kiːp/                   ([Neutral] 守る、保つ)          Keep the rules in mind.
-  - `go along with`                 ([Casual] 同調する、従う)       I'll go along with the plan.
-  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
-  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
-  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
-  - `listen to` /ˈlɪsən tuː/        ([Neutral] 聞き従う)            Listen to your parents.
-  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
-  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
-  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
-  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
-  - `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、守る)      Maintain professional standards.
-  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
-  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
-  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
-  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
-  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
-  - `accept` /əkˈsept/              ([Neutral] 受け入れる)          Accept the terms and conditions.
-  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
-  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
-  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
+## Task
+- ==go about== /ɡoʊ əˈbaʊt/           ([Neutral] 取り組む、着手する)  How do you go about fixing this?
+  - ==get on== /ɡet ɑːn/              ([Neutral] 取り掛かる)          I'll get on it right away.
+  - `get started on`                ([Neutral] 着手する、始める)    Let's get started on the analysis.
+  - ==get to== /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
+    - `finally get to`              ([Neutral] ついに～する)        I finally got to meet her.
+  - ==get down to== /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
+  - `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
+  - `get around to` /ɡet əˈraʊnd tuː([Neutral] [先延ばし] やっとする) I'll get around to fixing it soon.
+  - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
+  - `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
+  - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
+  - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] [すぐ] 飛び込む)        Let's jump into the discussion.
+  - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
+  - `set about` /set əˈbaʊt/        ([Neutral] [計画的] 取り掛かる)   Let's set about solving this.
+  - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
+  - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
+  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
+  - `get the ball rolling`          ([Casual] 始める、着手する) Let's get the ball rolling.
+  - `get things started`            ([Neutral] 物事を始める) Let's get things started.
+  - `get the show on the road`      ([Casual] 始める、出発する) Time to get the show on the road!
+  - `set the wheels in motion`      ([Neutral] 着手する) We need to set the wheels in motion.
+- ==work on== /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
+  - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
+  - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
+  - `cope with` /koʊp wɪð/          ([Neutral] 対処する、対応する)  How do you cope with stress?
+  - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
+  - `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
+  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
+  - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する、取り組む)  We're focusing on this problem.
+  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'm attending to this matter.
+  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We're engaging with the challenge.
+  - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
+  - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
+  - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He's applying himself to the task.
+  - `confront` /kənˈfrʌnt/          ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
+  - `manage` /ˈmænɪdʒ/              ([Neutral] 管理する、対処する)  I can manage this situation.
+  - `take care of` /teɪk keər əv/   ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
+  - `see to` /siː tuː/              ([Neutral] 処理する 面倒を見る) I'll see to that right away.
+- ==carry on== /ˈkæri ɑːn/            ([Neutral] 続ける、継続する)    We'll carry on despite the setbacks.
+  - `carry on with` /ˈkæri ɑːn wɪð/ ([Neutral] 続ける、継続する)    We'll carry on with the project despite the challenges.
+  - `continue` /kənˈtɪnjuː/         ([Neutral] 続ける、継続する)    Let's continue with the meeting.
+  - `continue working on`           ([Neutral] 作業を続ける)        Let's continue working on this project.
+  - `keep     working on`           ([Neutral] 作業を続ける)        I'll keep working on the proposal.
+  - `keep     going` /kiːp ˈɡoʊɪŋ/  ([Casual] 続ける、頑張る)       Just keep going, you're doing great!
+  - `keep             on`           ([Neutral] 続ける、継続する)    He'll keep on working until it's done.
+  - `proceed with` /prəˈsiːd wɪð/   ([Formal] 進める、続行する)     Please proceed with the implementation.
+  - `go on with` /ɡoʊ ɑːn wɪð/      ([Casual] 続ける、進む)         Please go on with your presentation.
+  - `resume` /rɪˈzuːm/              ([Neutral] 再開する、続ける)    We'll resume work after lunch.
+  - `stay on` /steɪ ɑːn/            ([Neutral] そのまま続ける)      I'll stay on this project until completion.
+  - `stay on track` /steɪ ɑːn træk/ ([Neutral] 軌道に乗り続ける)    Let's stay on track with our goals.
+  - `pursue further`                ([Formal] さらに追求する)       We should pursue this opportunity further.
+  - `pursue` /pərˈsuː/              ([Neutral] 追求する、進める)    We'll pursue this strategy.
+  - `persist` /pərˈsɪst/            ([Formal] 固執する、続ける)     She'll persist with her research.
+  - `stay the course` /steɪ ðə kɔːrs([Neutral] 最後まで続ける)      We must stay the course to succeed.
+- ==move forward with==               ([Neutral] 前に進む、前進する)  Let's move forward with the plan.
+  - `press on with` /pres ɑːn wɪð/  ([Neutral] 押し進む、続行する)  We must press on with the deadline approaching.
+  - `press on` /pres ɑːn/           ([Neutral] 押し進む、続行する)  We must press on to meet the deadline.
+  - `go ahead` /ɡoʊ əˈhed/          ([Neutral] 先に進む、始める)    You can go ahead with the purchase.
+  - `move along` /muːv əˈlɔːŋ/      ([Neutral] 進める、進行する)    The project is moving along nicely.
+  - `push ahead` /pʊʃ əˈhed/        ([Neutral] 推し進める)          The CEO wants to push ahead with expansion.
+  - `push forward` /pʊʃ ˈfɔːrwərd/  ([Neutral] 押し進める)          Despite setbacks, we'll push forward.
+  - `forge ahead` /fɔːrdʒ əˈhed/    ([Neutral] 突き進む)            We'll forge ahead with the new strategy.
+  - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 前進する、進展する)  We're finally making headway on this problem.
+  - `gain ground` /ɡeɪn ɡraʊnd/     ([Neutral] 前進する 優勢になる) Our proposal is gaining ground with management.
+- ==carry out== /ˈkæri aʊt/           ([Neutral] 実行する、遂行する)  We'll carry out the plan as discussed.
+  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、遂行する)   We need to execute the plan flawlessly.
+  - `implement` /ˈɪmplɪment/        ([Formal] 実装する、実施する)   When will we implement these changes?
+  - `put into practice`             ([Neutral] 実践する、実行する)  Let's put these ideas into practice.
+  - `put into action`               ([Neutral] 行動に移す 実行する) It's time to put our strategy into action.
+  - `put into effect`               ([Neutral] 実施する 発効させる) The new law was put into effect.
+  - `resolve` /rɪˈzɑːlv/            ([Formal] 解決する、解決する)   We need to resolve this conflict.
+  - `perform` /pərˈfɔːrm/           ([Neutral] 実行する、遂行する)  She performed the task well.
+  - `conduct` /kənˈdʌkt/            ([Formal] 実施する、遂行する)   They conducted the experiment.
 
-  - `lean towards` /liːn təˈwɔːrdz/ ([Neutral] 傾く、選ぶ傾向)      I'm leaning towards the first option.
-  - `favor` /ˈfeɪvər/               ([Neutral] 好む、選ぶ)          I favor the conservative approach.
+## TASK
+- ==figure out== /ˈfɪɡər aʊt/         ([Casual] 解明する、理解する)   We need to figure out what went wrong.
+  - `find out` /faɪnd aʊt/          ([Neutral] 調べる、発見する)    I need to find out the truth.
+  - `find a way to ~`               ([Neutral] する方法を見つける)  We need to find a way to reduce operational costs.
+  - `find a ~ form of ~`            ([Neutral] の〜な形を見つける)  We need to find a new form of leadership that suits it
+  - `discover` /dɪˈskʌvər/          ([Neutral] 発見する)            We discovered the root cause.
+  - `uncover` /ʌnˈkʌvər/            ([Neutral] 明らかにする)        The investigation uncovered new evidence.
+  - `get to the bottom of`          ([Casual] 真相を突き止める)     I'll get to the bottom of this.
+  - `track` /træk/                  ([Neutral] 追跡する)            We're tracking the shipment.
+  - `track down` /træk daʊn/        ([Neutral] 探し出す)            I finally tracked down the book I wanted.
+  - `hunt down` /hʌnt daʊn/         ([Neutral] 追い詰める)          Police hunted down the suspect.
+  - `trace` /treɪs/                 ([Neutral] 追跡する)            They traced the call to his location.
+  - `locate` /loʊˈkeɪt/             ([Neutral] 見つける)            We need to locate the source.
+  - `dig up` /dɪɡ ʌp/               ([Casual] 掘り出す)             She dug up some old photos.
+  - `pin down` /pɪn daʊn/           ([Neutral] 特定する、明確にする) Let's pin down the exact problem.
+  - `nail down` /neɪl daʊn/         ([Casual] 確定する、特定する)   We need to nail down the details.
+  - `root out` /ruːt aʊt/           ([Neutral] 根本原因を見つける)  We must root out the problem.
+  - `ferret out` /ˈferɪt aʊt/       ([Neutral] 探り出す、発見する)  She ferreted out the information.
+  - `suss out` /sʌs aʊt/            ([British Casual] 見抜く、理解) I'll suss out what's going on.
+- `decide on` /dɪˈsaɪd ɑːn/         ([Neutral] 決める、選ぶ)        We decided on the blue car.
+  - `choose` /tʃuːz/                ([Neutral] 選ぶ、選択する)      Please choose your preferred option.
+  - `pick` /pɪk/                    ([Casual] 選ぶ、決める)         Pick a card, any card.
+  - `take` /teɪk/                   ([Neutral] 取る、選ぶ)          I'll take the small size.
+  - ==go with== /ɡoʊ wɪð/             ([Casual] 選ぶ、決める)         I'll go with the chicken.
+  - `go for` /ɡoʊ fɔːr/             ([Casual] 選ぶ、決める)         Let's go for the premium package.
+  - `select` /sɪˈlekt/              ([Neutral] 選ぶ、選択する)      Please select your option.
+  - `stick with` /stɪk wɪð/         ([Neutral] 選ぶ、続ける)        I'll stick with my original choice.
+  - `settle on` /ˈsetəl ɑːn/        ([Neutral] 決める、落ち着く)    We settled on a compromise.
+  - `settle for` /ˈsetəl fɔːr/      ([Neutral] 妥協する、選ぶ)      I'll settle for the basic model.
+  - ==narrow down== /ˈnæroʊ daʊn/     ([Neutral] 絞り込む)            Let's narrow down our options.
+  - `opt for` /ɑːpt fɔːr/           ([Neutral] 選択する)            I opted for the cheaper plan.
+  - `land on` /lænd ɑːn/            ([Casual] 決める、選ぶ)         We landed on a great restaurant.
+  - `pin down` /pɪn daʊn/           ([Neutral] 決める、特定する)    Let's pin down the details.
+  - `zero in on` /ˈzɪroʊ ɪn ɑːn/    ([Neutral] 絞り込む、決める)    We need to zero in on a solution.
+  - `single out` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す)            They singled out the best candidate.
+  - `fix on` /fɪks ɑːn/             ([Neutral] 決める、固定する)    We've fixed on a date for the meeting.
+  - `plump for` /plʌmp fɔːr/        ([British] 選ぶ、決める)        I'll plump for the chocolate cake.
+- `check` /tʃek/                    ([Casual] 確認する チェックる)  Let me check if that's correct.
+  - `double-check` /ˈdʌbəl tʃek/    ([Casual] 再確認する)           Please double-check the numbers.
+  - `cross-check` /ˈkrɔs tʃek/      ([Neutral] 照合確認する)        Let's cross-check the data.
+  - `make sure` /meɪk ʃʊr/          ([Casual] 確かめる)             Make sure you lock the door.
+  - `see if` /si ɪf/                ([Casual] ～かどうか確認する)   I'll see if she's available.
+  - `confirm` /kənˈfɜrm/            ([Neutral] 確認する)            Can you confirm the meeting time?
+  - `reconfirm` /ˌriːkənˈfɜrm/      ([Neutral] 再確認する)          Let's reconfirm the details.
+  - `verify` /ˈvɛrɪfaɪ/             ([Formal] 検証する、確認する)   Please verify your email address.
+  - `ascertain` /ˌæsərˈteɪn/        ([Formal] 確かめる)             We need to ascertain the facts.
+- ==sort out== /sɔːrt aʊt/            ([Casual] 整理する、解決する)   I'll sort out the paperwork.
+  - `organize` /ˈɔːrɡənaɪz/         ([Neutral] 整理する、組織する)  I need to organize my files.
+  - `get straight` /ɡet streɪt/     ([Casual] 明確にする、整理する) Let's get this straight.
+  - `sort` /sɔːrt/                  ([Neutral] 分類する、整理する)  Sort these documents by date.
+  - `order` /ˈɔːrdər/               ([Neutral] 整理する、注文する)  Order the items by priority.
+  - `coordinate` /koʊˈɔːrdɪneɪt/    ([Neutral] 調整する、まとめる)  Coordinate the different teams.
+  - `straighten out` /ˈstreɪtən aʊt/([Neutral] 整理する、解決する)  Let's straighten out these issues.
+  - `structure` /ˈstrʌktʃər/        ([Neutral] 構造化する 組織する) We need to structure the data.
+  - `reorganize` /riːˈɔːrɡənaɪz/    ([Neutral] 再編成す 整理し直す) We need to reorganize the department.
+  - `streamline` /ˈstriːmlaɪn/      ([Neutral] 合理化す 効率化する) We'll streamline our processes.
+  - `systematize` /ˈsɪstəmətaɪz/    ([Formal] 体系化す 組織化する)  Let's systematize our approach.
+  - `consolidate`/kənˈsɑːlɪdeɪt/    ([Formal] 統合する 整理統合す)  Consolidate all the reports.
+  - `align` /əˈlaɪn/                ([Neutral] 整列させる 調整する) Align the goals with strategy.
+  - `declutter` /diːˈklʌtər/        ([Casual] 散らかりを片付ける)   Declutter your workspace.
+- ==look into== /lʊk ˈɪntuː/          ([Neutral] 調べる、検討する)    I'll look into that issue.
+  - `dig into` /dɪɡ ˈɪntuː/         ([Casual] 掘り下げる、調査する) We need to dig into the data.
+  - `dive into` /daɪv ˈɪntuː/       ([Casual] 飛び込む、詳しく調べ) I'll dive into the research.
+  - `check out` /tʃek aʊt/          ([Casual] 調べる、確認する)     Let me check out this website.
+  - `drill down` /drɪl daʊn/        ([Neutral] 掘り下げる)          We need to drill down further.
+  - `pore over` /pɔːr ˈoʊvər/       ([Neutral] 熟読する)            She pored over the documents.
+  - `explore` /ɪkˈsplɔːr/           ([Neutral] 探索する、調べる)    Let's explore this option.
+  - `research` /rɪˈsɜːrtʃ/          ([Formal] 研究する、調査する)   She's researching the topic.
+  - `examine` /ɪɡˈzæmɪn/            ([Formal] 検査する、調べる)     The doctor examined the patient.
+  - `investigate` /ɪnˈvestɪɡeɪt/    ([Formal] 調査する、捜査する)   Police are investigating the case.
+  - `inspect` /ɪnˈspekt/            ([Formal] 検査する、調べる)     Inspectors examined the building.
+  - `probe` /proʊb/                 ([Formal] 探る、調査する)       They probed the allegations.
+  - `delve into` /delv ˈɪntuː/      ([Formal] 深く調べる)           Let's delve into the details.
+  - `ransack` /ˈrænsæk/             ([Writing] あさり回る)          The thieves ransacked the house.
+
+## Progress
+- ==make progress==                   ([Neutral] 進捗する、前進する)  We're making progress on the project.
+  - `come along` /kʌm əˈlɔːŋ/       ([Neutral] 進歩する、発展する)  Her skills are coming along well.
+  - `get     results`               ([Neutral] 結果を出す 成果を得) Our new strategy is getting results.
+  - `achieve results`               ([Neutral] 結果を達成する)      The team achieved excellent results.
+  - `deliver results`               ([Neutral] 結果を出す 成果提供) We need to deliver results quickly.
+  - `produce results`               ([Formal] 結果を生み出す)       Our investment should produce results soon.
+  - `make headway` /meɪk ˈhedweɪ/   ([Neutral] 進展する、前進する)  We're making headway on the problem.
+  - `advance` /ədˈvæns/             ([Neutral] 前進する、進歩する)  The team continues to advance on the timeline.
+  - `get ahead` /ɡet əˈhed/         ([Casual] 先に進む、優位に立つ) Hard work helps you get ahead in your career.
+- `be in progress`                  ([Neutral] 進行中である)        The update is in progress.
+  - `be well underway`              ([Neutral] 順調に進行中)        The project is well underway.
+  - ==be (still) early days==         ([Neutral] まだ初期段階)        Our progress has been slow, but it's still early days.
+  - `be partway through`            ([Neutral] 途中まで進んでいる)  We're partway through the project.
+  - `be halfway through`            ([Neutral] 半分終わっている)    I'm halfway through the report.
+  - `be midway  through`            ([Neutral] 中間点にいる)        She's midway through her studies.
+  - `be at the halfway point`       ([Neutral] 半分の地点にいる)    We're at the halfway point.
+- `be nearly done`                  ([Neutral] ほぼ終わっている)    The task is nearly done.
+  - `be almost finished`            ([Neutral] ほとんど終わている)  We're almost finished with testing.
+- ==take ages== /teɪk ˈeɪdʒɪz/        ([Casual] とても時間がかかる)    It takes ages to get there.
+  - `take forever` /teɪk fəˈrevər/  ([Casual] 永遠に時間がかかる)    This download is taking forever!
+  - `take a while` /teɪk ə waɪl/    ([Neutral] しばらく時間がかかる) It'll take a while to finish.
+  - `be time-consuming`             ([Neutral] 時間がかかる)    This task is very time-consuming.
+  - ==drag on== /dræɡ ɑːn/            ([Casual] ダラダラ長引く)       The meeting dragged on for hours.
+  - `drag out` /dræɡ aʊt/           ([Casual] 長引かせる)           I don't want to drag out this talk.
+  - `linger on` /ˈlɪŋɡər ɑːn/       ([Neutral] 居残る、長引く)      The problem lingered on for months.
+  - `go on` /ɡoʊ ɑːn/               ([Neutral] 続く、長引く)        The meeting seemed to go on forever.
+  - `prolong` /pɹoʊˈlɔŋ/            ([Formal] 延長する、長引かせる) Complaining prolongs one's pain.
+  - `persist` /pɚˈsɪst/             ([Formal] 持続する、続く)       The symptoms persisted for weeks.
+
+## Result
+- ==work out== /wɜːrk aʊt/            ([Neutral] うまくいく 解決する) I'm sure everything will work out fine.
+  - `go well` /ɡoʊ wel/             ([Neutral] 順調にいく)          The project is going well.
+  - `work out well`                 ([Neutral] うまくいく)          The meeting worked out well.
+  - `turn out well`                 ([Neutral] 結果的にうまくいく)  Everything turned out well.
+  - `turn out fine`                 ([Neutral] 結果的に良い)        Don't worry, it'll turn out fine.
+  - `succeed` /səkˈsiːd/            ([Neutral] 成功する)            I hope you succeed in your plans.
+  - `pull off`                      ([Casual] やり遂げる、成功する) He pulled off an amazing performance.
+  - `pan out` /pæn aʊt/             ([Neutral] うまくいく)          Let's see how it pans out.
+  - `come through` /kʌm θruː/       ([Neutral] うまくいく 成功する) She came through when it mattered.
+  - `come off` /kʌm ɔːf/            ([Neutral] 成功する)            The event came off perfectly.
+  - `turn out right`                ([Neutral] 正しく仕上がる)      I hope the recipe turns out right.
+  - `nail` /neɪl/                   ([Casual] 完璧にやる)           She nailed the presentation.
+  - `cut it` /kʌt ɪt/               ([Casual] うまくやる やり遂る)  I don't think he can cut it in this job.
+  - `prevail` /prɪˈveɪl/            ([Formal] 勝つ、成功する)       We will prevail despite the challenges.
+  - `triumph` /ˈtraɪʌmf/            ([Formal] 勝利する、成功する)   The team triumphed over adversity.
+- ==get through== /ɡet θruː/          ([Casual] [耐える] 切り抜ける)    We'll get through this together.
+  - `work through` /wɜːrk θruː/     ([Neutral] [解決] やり抜く)       We're working through the issues.
+  - `achieve` /əˈtʃiːv/             ([Neutral] 達成する 成し遂げる) They achieved their objectives.
+  - `accomplish` /əˈkʌmplɪʃ/        ([Neutral] 達成する 成し遂げる) We accomplished our goal.
+  - `follow through`                ([Neutral] 最後までやり抜く)    Make sure to follow through on your commitments.
+  - `follow through with`           ([Neutral] 最後までやり抜く)    We need to follow through with our plan.
+  - `push through` /pʊʃ θruː/       ([Neutral] [強引] 乗り越える)     We pushed through the difficult times.
+  - `see through` /siː θruː/        ([Neutral] [責任] 最後やり遂げる) She saw the project through to completion.
+  - `go through with`               ([Neutral] [計画] 実行する)       She decided to go through with the plan.
+  - `deliver` /dɪˈlɪvər/            ([Neutral] 提供する 達成する)   We need to deliver on our promises.
+  - `realize` /ˈriːəlaɪz/           ([Formal] 実現する、達成する)   We realized our vision.
+  - `fulfill` /fʊlˈfɪl/             ([Formal] 履行する、実現する)   He fulfilled his promise.
+  - `rush through` /rʌʃ θruː/       ([Neutral] 急いでやる 雑にやる) Don't rush through your homework.
+  - `attain` /əˈteɪn/               ([Formal] 達成する、獲得する)   We worked hard to attain our goals.
+  - `bring to completion`           ([Formal] 完成まで導く)         We need to bring this project to completion.
+- ==come together==                   ([Neutral] まとまる)            The project is finally coming together.
+  - ==put together== /pʊt təˈɡeðər/   ([Neutral] まとめる、手配する)  Let's put together a conference schedule.
+  - ==fall into place==               ([Neutral] うまくまとまる)      The presentation is falling into place.
+  - `click into place`              ([Casual] うまくいく、合う)     Everything just clicked into place.
+  - `gel` /dʒel/                    ([Casual] うまく合う)           The team is starting to gel.
+  - `mesh` /meʃ/                    ([Neutral] うまく合う)          Their ideas mesh perfectly.
+  - `fit together`                  ([Neutral] うまく合う)          The pieces fit together perfectly.
+- `make it`                         ([Casual] 間に合う、成功する)   I'm sure you'll make it.
+  - `get there in time`             ([Casual] 間に合って到着する)   I hope we get there in time.
+  - `arrive in time`                ([Neutral] 時間内に到着する)    We arrived in time for the meeting.
+  - `show up on time`               ([Casual] 時間通りに現れる)     Please show up on time tomorrow.
+- `pay off` /peɪ ɔːf/               ([Neutral] 報われる)            All that hard work paid off.
+  - `bear fruit` /ber fruːt/        ([Neutral] 実を結ぶ)            Our efforts are starting to bear fruit.
+- `complete` /kəmˈpliːt/            ([Neutral] 完了する 完成させる) Complete the project by Friday.
+  - `finish` /ˈfɪnɪʃ/               ([Neutral] 終える、完成させる)  I need to finish this report.
+  - `wrap up` /ræp ʌp/              ([Neutral] まとめる 終わらせる) Let's wrap up this meeting.
+  - `be done with` /bi dʌn/         ([Casual] 終わった)             I'm done with my homework.
+- `clinch` /klɪnt͡ʃ/                 ([Neutral] 確実にする、獲得する) They clinched the championship.
+  - `secure` /səˈkjʊɹ/              ([Neutral] 確保する、獲得する)  We secured the contract.
+  - `seal` /siːl/                   ([Neutral] 確定する、封じる)    They sealed the deal.
+  - `wrap up` /ɹæp ʌp/              ([Casual] 完了する、決める)     Let's wrap up this project.
+
+## Step
+- ==start off with== /stɑːrt ɔːf wɪð/ ([Neutral] ～で始める)          Let's start off with a simple example.
+  - `begin with` /bɪˈɡɪn wɪð/       ([Neutral] ～で始める)          Begin with the basics.
+  - `kick off with` /kɪk ɔːf wɪð/   ([Casual] ～で始める)           Let's kick off with introductions.
+  - `lead off with` /liːd ɔːf wɪð/  ([Neutral] ～で始める)          She led off with a joke.
+  - `open with` /ˈoʊpən wɪð/        ([Neutral] ～で始める)          The show opened with a song.
+  - `commence with` /kəˈmens wɪð/   ([Formal] ～で始める)           The ceremony commenced with a speech.
+- ==start off by== /stɑːrt ɔːf baɪ/   ([Neutral] ～することから始る)  Start off by reading the instructions.
+  - `begin by` /bɪˈɡɪn baɪ/         ([Neutral] ～することから始る)  Begin by understanding the problem.
+  - `kick off by` /kɪk ɔːf baɪ/     ([Casual] ～することから始める) We'll kick off by reviewing last week.
+  - `lead off by` /liːd ɔːf baɪ/    ([Neutral] ～することから始る)  He led off by thanking everyone.
+  - `open by` /ˈoʊpən baɪ/          ([Neutral] ～することから始る)  Open by stating your name.
+  - `commence by` /kəˈmens baɪ/     ([Formal] ～することから始める) Commence by reading the instructions.
+- ==move on to== /muːv ɑːn tuː/       ([Neutral] 次に進む、移る)      Let's move on to the next topic.
+  - `go to` /ɡoʊ tuː/               ([Neutral] 移る、向かう)        Let's go to the next agenda item.
+  - `move to` /muːv tuː/            ([Neutral] 移る、移動する)      Let's move to the next agenda item.
+  - `get to` /ɡet tuː/              ([Neutral] 取りかかる、到達する)Let's get to the next agenda item.
+  - `proceed to` /prəˈsiːd tuː/     ([Formal] 進む、移る)           Let's proceed to the next agenda item.
+  - `turn to` /tɜːrn tuː/           ([Neutral] 取りかかる、向かう)  Let's turn to the next agenda item.
+  - `continue with` /kənˈtɪnjuː wɪð/([Neutral] 続ける、継続する)    Let's continue with the next agenda item.
+  - `shift to` /ʃɪft tuː/           ([Neutral] 切り替える、移る)    Let's shift to the next agenda item.
+  - `switch to` /swɪtʃ tuː/         ([Neutral] 切り替える、変える)  Let's switch to the next agenda item.
+  - `advance to` /ədˈvæns tuː/      ([Formal] 進む、前進する)       Let's advance to the next agenda item.
+  - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
+  - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
+
+## Traits
+- ==have an effect on==               ([Neutral] 影響を与える)        The weather can have an effect on mood.
+  - `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
+  - `influence` /ˈɪnfluəns/         ([Neutral] 影響する、左右する)  Weather influences our mood.
+  - `have an impact on`             ([Neutral] 影響を与える)        Your words have an impact on people.
+  - `make a difference`             ([Neutral] 影響を与える)        Your help really makes a difference.
+  - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
+  - `shape` /ʃeɪp/                  ([Neutral] 形作る、左右する)    Experiences shape our personality.
+  - `control` /kənˈtroʊl/           ([Neutral] 支配する、制御する)  Who controls the budget?
+  - `drive` /draɪv/                 ([Neutral] 駆動する、左右する)  Competition drives innovation.
+  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、決める)    Several factors determine the outcome.
+  - `guide` /ɡaɪd/                  ([Neutral] 導く、指導する)      Let principles guide your actions.
+  - `direct` /dəˈrekt/              ([Neutral] 指示する、導く)      She directs the operations.
+  - ==sway== /sweɪ/                   ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
+  - ==rub off on== /rʌb ɔːf ɑːn/      ([Casual] 影響を与える)         Her enthusiasm rubbed off on the team.
+  - `dictate` /dɪkˈteɪt/            ([Neutral] 左右する、決定する)  Market forces dictate the price.
+  - `govern` /ˈɡʌvərn/              ([Formal] 支配する、左右する)   Supply and demand govern prices.
+  - `steer` /stɪr/                  ([Neutral] 導く、左右する)      He steered the conversation away.
+  - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
+  - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
+  - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
+- ==be related to== /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
+  - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
+  - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
+  - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
+  - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
+- ==have something to do with==       ([Neutral] 何か関係がある)      It has something to do with the weather.
+  - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
+  - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
+  - `have little to do with`        ([Neutral] 関係がほとんどない)  This has little to do with money.
+  - `have everything to do with`    ([Neutral] 全て関係がある)      This has everything to do with trust.
+- ==have things in common==           ([Casual] 共通点がある)         Do we have things in common?
+  - `have a lot in common`          ([Neutral] 共通点が多い)        We have a lot in common.
+  - `have little in common`         ([Neutral] 共通点が少ない)      They have little in common.
+  - `have nothing in common`        ([Neutral] 共通点がない)        We have nothing in common.
+  - `have similarities`             ([Neutral] 類似点がある)        The two cases have similarities.
+  - `have no similarities`          ([Neutral] 類似点がない)        These systems have no similarities.
+  - `have commonalities`            ([Formal] 共通性がある)         The cultures have commonalities.
+- ==come down to== /kʌm daʊn tu/      ([Casual] ～に帰着する)         It all comes down to hard work.
+  - `boil down to` /bɔɪl daʊn tu/   ([Neutral] 要するに～である)    The issue boils down to money.
+  - `depend on` /dɪˈpend ɑːn/       ([Neutral] ～に依存する)        Success depends on hard work.
+  - `amount to` /əˈmaʊnt tu/        ([Neutral] ～に等しい、要するに)His excuse amounts to nothing.
+  - `center on` /ˈsentər ɑːn/       ([Neutral] ～を中心とする)      The debate centers on healthcare.
+  - ==hinge on== /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.
+  - `reduce to` /rɪˈdus tu/         ([Neutral] ～に減らす、要約する)The problem reduces to a simple question.
+  - `stem from` /stem frʌm/         ([Neutral] ～に由来する)        The problem stems from poor planning.
+  - `revolve around`                ([Neutral] ～を中心とする)      The story revolves around family.
+- `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
+  - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
+  - `be good to go`                 ([Casual] 準備万端)             We're good to go!
+  - `be ready for use`              ([Neutral] 使用可能な)          The equipment is ready for use.
+  - `be within reach` /wɪðɪn riːtʃ/ ([Neutral] 手の届く範囲にある)  Help is within reach.
+  - `be usable` /ˈjuːzəbəl/         ([Neutral] 使用可能な)          The software is now usable.
+  - `be at one's disposal`          ([Formal] 思い通りにできる)     The enormous property was at his disposal.
+  - `be at one's service`           ([Formal] お役に立てる)         I'm at your service.
+  - `be at one's command`           ([Formal] 命令に従う)           The troops are at your command.
+  - `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
+  - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
+  - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.
+
+## Cognitive - Understanding
+- ==get== /ɡet/                       ([Casual] 理解する)             I get what you mean.
+  - `understand` /ˌʌndərˈstænd/     ([Neutral] 理解する)            I understand your concern.
+  - `see` /siː/                     ([Neutral] 想像する、理解する)  I can see that happening.
+  - `grasp` /ɡræsp/                 ([Neutral] 把握する)            She quickly grasped the concept.
+  - `comprehend` /ˌkɑːmprɪˈhend/    ([Formal] 理解する)             I cannot comprehend his actions.
+  - `figure out` /ˈfɪɡər aʊt/       ([Neutral] 理解する、解決する)  Let me figure out the problem.
+  - `make sense of`                 ([Neutral] 理解する)            I can't make sense of this data.
+  - `follow` /ˈfɑːloʊ/              ([Neutral] 理解して聞く)        I follow your argument.
+  - `catch on` /kætʃ ɑːn/           ([Casual] 理解する、把握する)   He'll catch on eventually.
+  - `pick up` /pɪk ʌp/              ([Casual] 理解する、習得する)   Kids pick up languages quickly.
+  - `digest` /daɪˈdʒest/            ([Neutral] 理解・吸収する)      I need time to digest this information.
+  - `fathom` /ˈfæðəm/               ([Formal] 理解する、推測する)   I can't fathom his motives.
+  - `perceive` /pərˈsiːv/           ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
+- `not get` /nɑːt ɡet/              ([Casual] 理解できない)         I don't get it.
+  - `not understand`                ([Neutral] 理解できない)        I don't understand this part.
+  - `not grasp` /nɑːt ɡræsp/        ([Neutral] つかめない)          I can't grasp the concept.
+  - `not know` /dəʊnt nəʊ/          ([Neutral] わからない)          I don't know the answer to that question.
+  - `not know the first thing about`([Casual] について全く知らない) I don't know the first thing about coding.
+  - `not make sense`                ([Neutral] 意味がわからない)    It doesn't make sense to me.
+  - ==have no idea==                  ([Casual] 全くわからない)       I have no idea what you mean.
+  - `have no clue` /hæv nəʊ kluː/   ([Casual] 全くわからない)       I have no clue what you're talking about.
+  - `have trouble understanding`    ([Neutral] 理解に苦労する)      I'm having trouble understanding this.
+  - `be clueless` /biː ˈkluːləs/    ([Casual] 無知ある わかてない)  He's completely clueless about computers.
+- `be lost`                         ([Neutral] ついていけない)      I'm lost in this discussion.
+  - `be completely lost`            ([Casual] 完全にわからない)     I'm completely lost.
+  - `not follow`                    ([Neutral] ついていけない)      I can't follow your logic.
+  - `be at a loss` /biː ət ə lɒs/   ([Neutral] 困惑している)        I'm at a loss for words right now.
+  - `beats me` /biːts miː/          ([Casual] わからない、知らない) Why did they cancel? Beats me!
+  - ==go over ~'s head==              ([Neutral] 理解を超える)        The joke went over my head.
+  - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
+  - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
+  - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
+  - `not wrap one's head around`    ([Casual] 理解できない)         I can't wrap my head around it.
+  - `not sure one follows`          ([Formal] ついていけていない)   I'm not sure I follow.
+  - `blank out`                     ([Casual] 頭が真っ白になる)     I blanked out during the exam.
+
+## Cognitive - Recognition
+- `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める)    I didn't recognize him at first.
+  - `identify` /aɪˈdentɪfaɪ/        ([Neutral] 見分ける、特定する)  Can you identify the suspect?
+  - `tell` /tel/                    ([Casual] 見分ける、区別する)   I can't tell the twins apart.
+  - `distinguish` /dɪˈstɪŋɡwɪʃ/     ([Formal] 区別する、見分ける)   It's hard to distinguish between them.
+  - `spot` /spɑːt/                  ([Casual] 見つける、見分ける)   I spotted him in the crowd.
+  - `detect` /dɪˈtekt/              ([Neutral] 発見する、探知する)  The test can detect cancer early.
+  - `discern` /dɪˈsɜːrn/            ([Formal] 識別する、見分ける)   I can discern a pattern here.
+  - `make out` /meɪk aʊt/           ([Casual] 見分ける、理解する)   I can barely make out the writing.
+  - `pick out` /pɪk aʊt/            ([Casual] 見分ける、選び出す)   Can you pick out your friend?
+  - `single out` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す、特定する)  He was singled out for praise.
+  - `pinpoint` /ˈpɪnpɔɪnt/          ([Neutral] 正確に特定する)      We need to pinpoint the problem.
+  - `differentiate` /ˌdɪfəˈrenʃieɪt/([Formal] 区別する、差別化する) It's important to differentiate the brands.
+- ==keep in mind==                    ([Neutral] 心に留める)          Keep in mind that he's new here.
+  - ==bear in mind==                  ([Neutral] 心に留める)          Bear in mind the deadline.
+  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
+- `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
+  - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
+  - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
+- `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる)        This song reminds me of my childhood.
+  - `recall` /rɪˈkɔːl/              ([Neutral] 思い出す、回収する)  I can't recall his name.
+  - `trigger` /ˈtrɪɡər/             ([Neutral] 引き金、きっかけ)    The smell triggered old memories.
+  - `bring back` /brɪŋ bæk/         ([Neutral] 思い出させる)        This photo brings back memories.
+  - `call to mind` /kɔːl tuː maɪnd/ ([Neutral] 思い起こさせる)      Your voice calls her to mind.
+  - `awaken` /əˈweɪkən/             ([Neutral] 目覚めさせる)        The speech awakened memories of war.
+  - `revive` /rɪˈvaɪv/              ([Neutral] 蘇らせる 復活させる) The music revived fond memories.
+  - `recollect` /ˌrekəˈlekt/        ([Formal] 思い出す、回想する)   I recollect meeting him years ago.
+  - `evoke` /ɪˈvoʊk/                ([Writing] 想起させる)          The music evoked memories of childhood.
+  - `summon up` /ˈsʌmən ʌp/         ([Formal] 呼び起こす)           He summoned up courage from memories.
+- `forget` /fərˈɡet/                ([Neutral] 忘れる)              I forgot to bring my keys.
+  - ==slip one's mind==               ([Casual] うっかり忘れる)       Your birthday slipped my mind.
+  - `draw a blank`                  ([Casual] 思い出せない)         I'm drawing a blank on his name.
+  - `can't place`                   ([Neutral] 思い出せない)        I can't place where I've seen you.
+  - `escape me`                     ([Neutral] 思い出せない)        His name escapes me right now.
+  - `lose track of`                 ([Neutral] 見失う、忘れる)      I lost track of time.
+  - `overlook` /ˌoʊvərˈlʊk/         ([Neutral] 見落とす、無視する)  Don't overlook the details.
+- `take note of` /teɪk noʊt əv/     ([Neutral] 注意しておく)        Take note of what he says.
+  - `be mindful of` /biː ˈmaɪndfəl/ ([Formal] 気をつける)           Be mindful of the time limit.
+  - `retain` /rɪˈteɪn/              ([Formal] 覚えておく、保持する) I'll retain this information.
+  - `commit to memory` /kəˈmɪt/     ([Formal] 記憶にとどめる)       She committed the poem to memory.
+  - `store away` /stɔːr əˈweɪ/      ([Neutral] 記憶にしまう)        I stored that fact away for later.
+  - `file away` /faɪl əˈweɪ/        ([Neutral] 記録しておく)        He filed the information away.
+  - `keep track of` /kiːp træk əv/  ([Neutral] 記録しておく)        Keep track of your expenses.
+  - `stay aware of` /steɪ əˈwer əv/ ([Neutral] 意識しておく)        Stay aware of the changing market.
+  - `be conscious of` /ˈkɑːnʃəs əv/ ([Formal] 意識する)             Be conscious of your posture.
+  - `lodge in memory` /lɑːdʒ ɪn/    ([Writing] 記憶に留める)        The image lodged in her memory.
+  - `etch in mind` /etʃ ɪn maɪnd/   ([Writing] 心に刻む)            The experience etched itself in his mind.
+  - `engrave on memory` /ɪnˈɡreɪv/  ([Writing] 記憶に刻む)          The moment was engraved on her memory.
+  - `treasure` /ˈtreʒər/            ([Neutral] 大切にする)          I treasure those memories.
+- ==sink in== /sɪŋk ɪn/               ([Neutral] 実感が湧く)          It took a while for the news to sink in.
+
+## Cognitive
+- `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
+  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
+  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
+  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
+  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
+- `consider` /kənˈsɪdə/             ([Neutral] 検討する、考える)    We need to consider all options.
+  - `think over` /θɪŋk ˈəʊvə/       ([Neutral] よく考える)          Let me think over your proposal.
+  - `sleep on` /sliːp ɒn/           ([Casual] 一晩考える)           Let me sleep on it and give you an answer tomorrow.
+  - `reflect on` /rɪˈflekt ɒn/      ([Neutral] 振り返って考える)    I need time to reflect on what happened.
+  - `mull over` /mʌl ˈəʊvə/         ([Neutral] じっくり考える)      I need to mull over the decision.
+  - ==weigh up== /weɪ ʌp/             ([Neutral] 比較検討する)        We need to weigh up all the pros and cons.
+  - `chew over` /tʃuː ˈəʊvə/        ([Casual] じっくり考える)       Let me chew over your idea for a bit.
+  - `contemplate` /ˈkɒntəmpleɪt/    ([Formal] 熟考する、検討する)   I'm contemplating a career change.
+  - `ponder` /ˈpɒndə/               ([Formal] じっくり考える)       He pondered the question for a moment.
+  - `deliberate` /dɪˈlɪbəreɪt/      ([Formal] 熟考する、審議する)   The jury deliberated for two hours.
+- ==come up with== /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
+  - ==get an idea== /ɡet ən aɪˈdiːə/  ([Neutral] アイデアを思いつく)  I just got an idea!
+  - `hit on` /hɪt ɑːn/              ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
+  - `devise` /dɪˈvaɪz/              ([Formal] 考案する、工夫する)   They devised a new strategy.
+  - `formulate` /ˈfɔːrmjəleɪt/      ([Formal] 策定する、考案する)   They formulated a plan.
+  - `strike` /straɪk/               ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
+  - `come to` /kʌm tuː/             ([Neutral] 思いつく)            The answer came to me suddenly.
+  - `flash through` /flæʃ θruː/     ([Neutral] 頭を一瞬よぎる)      An idea flashed through my mind.
+  - `dawn on` /dɔːn ɑːn/            ([Neutral] 気づく 分かってくる) The truth dawned on me.
+- `dream up` /driːm ʌp/             ([Casual] 考え出す でち上げる)  He dreamed up a crazy plan.
+  - `make up` /meɪk ʌp/             ([Casual] でっち上げる、作る)   Don't make up stories.
+  - `cook up` /kʊk ʌp/              ([Casual] でっち上げる)         He cooked up an excuse.
+  - `concoct` /kənˈkɑːkt/           ([Formal] でっち上げる、作る)   She concocted an elaborate plan.
+  - `hatch` /hætʃ/                  ([Casual] 企てる、計画する)     They hatched a secret plan.
+  - `conjure up` /ˈkʌndʒər ʌp/      ([Writing] 思い起こす 作り出す) He conjured up a fantastic story.
+- `think` /θɪŋk/                    ([Neutral] 思う、想像する)      Think what would happen if...
+  - `think of` /θɪŋk ʌv/            ([Neutral] 思い出す、考えつく)  I can't think of his name.
+  - `think about` /θɪŋk əˈbaʊt/     ([Neutral] 考える、検討する)    Think about what I said.
+  - `imagine` /ɪˈmædʒɪn/            ([Neutral] 想像する)            Can you imagine living there?
+  - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
+  - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する 想像する) Try to visualize the solution.
+  - `envision` /ɪnˈvɪʒən/           ([Neutral] 心に描く 想像する)   I envision a better future.
+  - `conceive` /kənˈsiːv/           ([Formal] 具体的な創造)         She conceived the idea during her commute.
+  - `conceive of` /kənˈsiːv/        ([Formal] 抽象的な想像・理解)   I can't conceive of such cruelty.
+  - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
+  - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
+  - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
+- `guess` /ɡes/                     ([Neutral] 推測する)            I can only guess what happened.
+  - `assume` /əˈsuːm/               ([Neutral] 仮定する、思い込む)  Don't assume I know what you mean.
+  - `presume` /prɪˈzuːm/            ([Formal] 推定する、仮定する)   I presume you've heard the news.
+  - `suppose` /səˈpoʊz/             ([Neutral] 想定する、思う)      I suppose you're right.
+  - `speculate` /ˈspekjəleɪt/       ([Neutral] 推測する、投機する)  We can only speculate about the cause.
+  - `surmise` /sərˈmaɪz/            ([Formal] 推測する、推量する)   I surmised that he was upset.
+  - `conjecture` /kənˈdʒektʃər/     ([Writing] 推測、臆測)          It's all conjecture at this point.
+  - `hypothesize` /haɪˈpɑːθəsaɪz/   ([Formal] 仮説を立てる)         Scientists hypothesize about dark matter.
+  - `postulate` /ˈpɑːstʃəleɪt/      ([Writing] 仮定する、要請する)  Einstein postulated the speed of light.
+  - `theorize` /ˈθiːəraɪz/          ([Neutral] 理論化する)          They theorized about the origins.
+  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   What can we infer from this data?
+
+## Effort
+- ==cut corners== /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
+  - ==slack off== /slæk ɔːf/          ([Casual] 怠ける、手を抜く)     He's been slacking off lately.
+  - ==phone it in==                   ([Casual] 手を抜く、適当にやる) He's just phoning it in these days.
+  - `skimp on` /skɪmp ɑːn/          ([Casual] けちる、手を抜く)     Don't skimp on quality materials.
+  - `take shortcuts`                ([Neutral] 手抜きをする)        Taking shortcuts can be dangerous.
+  - `go through the motions`        ([Neutral] 形だけやる)          He's just going through the motions.
+  - `do the bare minimum`           ([Neutral] 最低限しかしない)    She does the bare minimum required.
+- ==be sloppy== /biː ˈslɑːpi/         ([Casual] いい加減である)       Your work has been sloppy lately.
+  - `be careless` /biː ˈkɛrləs/     ([Neutral] 不注意である)        Don't be careless with important documents.
+  - `be half-hearted`               ([Neutral] やる気のない)        His effort was half-hearted.
+- ==give it one's best shot==         ([Casual] 全力を尽くす)         I'll give it my best shot and see what happens.
+  - `go all out`                    ([Casual] 全力を尽くす)         Let's go all out and win this game!
+  - `take a crack at O`             ([Casual] 試してみる)           I'll take a crack at fixing the computer.
+  - `take a stab at O`              ([Casual] 試してみる)           Let me take a stab at solving this puzzle.
+  - `give one's all`                ([Neutral] 全力を尽くす)        She gave her all in the competition.
+  - `do one's utmost`               ([Formal] 最善を尽くす)         We will do our utmost to meet the deadline.
