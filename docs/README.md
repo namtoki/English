@@ -43,18 +43,30 @@ npm run export
 
 ## 🌐 GitHub Pagesへのデプロイ
 
-### 手動デプロイ
+### GitHub Pages設定
 
-1. ビルドを実行
-```bash
-npm run build
-```
-
-2. `dist/` フォルダの内容をGitHub Pagesブランチにプッシュ
+1. GitHubリポジトリの **Settings** → **Pages** に移動
+2. **Source** で **GitHub Actions** を選択
+3. mainブランチにプッシュすると自動デプロイされます
 
 ### 自動デプロイ (GitHub Actions)
 
-`.github/workflows/deploy.yml` を設定することで、プッシュ時に自動デプロイできます。
+`.github/workflows/deploy-slides.yml` が設定済みです。
+- mainまたはmasterブランチの`docs/`フォルダに変更があると自動実行
+- ビルドしてGitHub Pagesにデプロイ
+
+### Base URL設定
+
+GitHub Pagesでは、リポジトリ名がパスに含まれます：
+- URL: `https://namtoki.github.io/English/`
+- Base設定: `base: /English/` (slides.mdとpackage.jsonに設定済み)
+
+### 手動デプロイ
+
+```bash
+npm run build
+# dist/ フォルダが生成されます
+```
 
 ## 📝 スライドの編集
 

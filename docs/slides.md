@@ -12,6 +12,7 @@ drawings:
 transition: slide-left
 title: English Learning Journey
 mdc: true
+base: /English/
 ---
 
 # English Learning Journey
