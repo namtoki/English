@@ -25,26 +25,18 @@ base: /English/
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
-  user-select: none;
-}
-
-.title-container:hover .title-text {
-  text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
 }
 
 .title-text {
   display: inline-block;
   position: relative;
-  transition: text-shadow 0.3s;
 }
 
-.click-hint {
+.next-hint {
   font-size: 1rem;
   color: rgba(255, 255, 255, 0.6);
   margin-top: 1rem;
   animation: pulse 2s ease-in-out infinite;
-  transition: opacity 0.3s;
 }
 
 @keyframes pulse {
@@ -56,11 +48,6 @@ base: /English/
   }
 }
 
-.animated .click-hint {
-  opacity: 0;
-  pointer-events: none;
-}
-
 .crumble-text {
   display: inline-block;
   position: relative;
@@ -70,7 +57,7 @@ base: /English/
   display: inline-block;
 }
 
-.animated .crumble-char {
+.slidev-vclick-target .crumble-char {
   animation: crumble 0.8s ease-in forwards;
   animation-delay: calc(var(--delay) * 0.1s);
 }
@@ -96,9 +83,6 @@ base: /English/
 .new-text {
   display: inline-block;
   opacity: 0;
-}
-
-.animated .new-text {
   animation: fade-in-up 1.2s ease-out forwards;
   animation-delay: 1s;
 }
@@ -120,9 +104,6 @@ base: /English/
 .subtitle {
   font-size: 1.5rem;
   opacity: 0;
-}
-
-.animated .subtitle {
   animation: fade-in 1s ease-out forwards;
   animation-delay: 2s;
 }
@@ -134,14 +115,14 @@ base: /English/
 }
 </style>
 
-<div @click="(e) => e.currentTarget.classList.add('animated')" class="title-container">
+<div class="title-container">
   <div class="title-text">
-    英語の学習方法<span class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span class="new-text">見てください！</span>
+    英語の学習方法<span v-click class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span v-after class="new-text">見てください！</span>
   </div>
-  <div class="click-hint">👆 クリックしてね</div>
+  <div v-click-hide class="next-hint">👇 次へ進んでね (矢印キーかクリック)</div>
 </div>
 
-<div class="subtitle">
+<div v-after class="subtitle">
   📚 継続的な学習で英語力を向上させる旅
 </div>
 
