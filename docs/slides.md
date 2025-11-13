@@ -15,9 +15,96 @@ mdc: true
 base: /English/
 ---
 
-# English Learning Journey
+<style>
+.title-container {
+  font-size: 3rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 2rem;
+  min-height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
-📚 英語学習の体系的アプローチ
+.title-text {
+  display: inline-block;
+  position: relative;
+}
+
+.crumble-text {
+  display: inline-block;
+  position: relative;
+}
+
+.crumble-char {
+  display: inline-block;
+  animation: crumble 0.8s ease-in forwards;
+  animation-delay: calc(1.8s + var(--delay) * 0.1s);
+}
+
+@keyframes crumble {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  30% {
+    transform: translateY(10px) rotate(calc(var(--delay) * 5deg));
+    opacity: 0.9;
+  }
+  60% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateY(400px) rotate(calc(var(--delay) * 50deg + 180deg));
+    opacity: 0;
+  }
+}
+
+.new-text {
+  display: inline-block;
+  animation: fade-in-up 1.2s ease-out forwards;
+  animation-delay: 3s;
+  opacity: 0;
+}
+
+@keyframes fade-in-up {
+  0% {
+    transform: translateY(30px) scale(0.9);
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(-5px) scale(1.02);
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  opacity: 0;
+  animation: fade-in 1s ease-out forwards;
+  animation-delay: 4s;
+}
+
+@keyframes fade-in {
+  to {
+    opacity: 1;
+  }
+}
+</style>
+
+<div class="title-container">
+  <div class="title-text">
+    英語の学習方法<span class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span class="new-text">見てください！</span>
+  </div>
+</div>
+
+<div class="subtitle">
+  📚 継続的な学習で英語力を向上させる旅
+</div>
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
