@@ -32,22 +32,6 @@ base: /English/
   position: relative;
 }
 
-.next-hint {
-  font-size: 1rem;
-  color: rgba(255, 255, 255, 0.6);
-  margin-top: 1rem;
-  animation: pulse 2s ease-in-out infinite;
-}
-
-@keyframes pulse {
-  0%, 100% {
-    opacity: 0.6;
-  }
-  50% {
-    opacity: 1;
-  }
-}
-
 .crumble-text {
   display: inline-block;
   position: relative;
@@ -57,7 +41,7 @@ base: /English/
   display: inline-block;
 }
 
-.slidev-vclick-target .crumble-char {
+.triggered .crumble-char {
   animation: crumble 0.8s ease-in forwards;
   animation-delay: calc(var(--delay) * 0.1s);
 }
@@ -83,6 +67,9 @@ base: /English/
 .new-text {
   display: inline-block;
   opacity: 0;
+}
+
+.show-new-text {
   animation: fade-in-up 1.2s ease-out forwards;
   animation-delay: 1s;
 }
@@ -104,6 +91,9 @@ base: /English/
 .subtitle {
   font-size: 1.5rem;
   opacity: 0;
+}
+
+.show-subtitle {
   animation: fade-in 1s ease-out forwards;
   animation-delay: 2s;
 }
@@ -115,14 +105,15 @@ base: /English/
 }
 </style>
 
+<v-click />
+
 <div class="title-container">
   <div class="title-text">
-    英語の学習方法<span v-click class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span v-after class="new-text">見てください！</span>
+    英語の学習方法<span :class="{ 'triggered': $slidev.nav.clicks >= 1 }" class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span :class="{ 'show-new-text': $slidev.nav.clicks >= 1 }" class="new-text">見てください！</span>
   </div>
-  <div v-click-hide class="next-hint">👇 次へ進んでね (矢印キーかクリック)</div>
 </div>
 
-<div v-after class="subtitle">
+<div :class="{ 'show-subtitle': $slidev.nav.clicks >= 1 }" class="subtitle">
   📚 継続的な学習で英語力を向上させる旅
 </div>
 
