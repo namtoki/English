@@ -15,9 +15,109 @@ mdc: true
 base: /English/
 ---
 
-# English Learning Journey
+<style>
+.title-container {
+  font-size: 3rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 2rem;
+  min-height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
-📚 英語学習の体系的アプローチ
+.title-text {
+  display: inline-block;
+  position: relative;
+}
+
+.crumble-text {
+  display: inline-block;
+  position: relative;
+}
+
+.crumble-char {
+  display: inline-block;
+}
+
+.crumble-text.slidev-vclick-hidden {
+  opacity: 1 !important;
+}
+
+.crumble-text.slidev-vclick-hidden .crumble-char {
+  animation: crumble 0.8s ease-in forwards;
+  animation-delay: calc(var(--delay) * 0.1s);
+}
+
+@keyframes crumble {
+  0% {
+    transform: translateY(0) rotate(0deg);
+    opacity: 1;
+  }
+  30% {
+    transform: translateY(10px) rotate(calc(var(--delay) * 5deg));
+    opacity: 0.9;
+  }
+  60% {
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateY(400px) rotate(calc(var(--delay) * 50deg + 180deg));
+    opacity: 0;
+  }
+}
+
+.new-text {
+  display: inline-block;
+  opacity: 0;
+}
+
+.new-text.slidev-vclick-current {
+  animation: fade-in-up 1.2s ease-out forwards;
+  animation-delay: 0s;
+}
+
+@keyframes fade-in-up {
+  0% {
+    transform: translateY(30px) scale(0.9);
+    opacity: 0;
+  }
+  50% {
+    transform: translateY(-5px) scale(1.02);
+  }
+  100% {
+    transform: translateY(0) scale(1);
+    opacity: 1;
+  }
+}
+
+.subtitle {
+  font-size: 1.5rem;
+  opacity: 0;
+}
+
+.subtitle.slidev-vclick-current {
+  animation: fade-in 1s ease-out forwards;
+  animation-delay: 1s;
+}
+
+@keyframes fade-in {
+  to {
+    opacity: 1;
+  }
+}
+</style>
+
+<div class="title-container">
+  <div class="title-text">
+    英語の学習方法<span v-click.hide="1" class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span v-click="1" class="new-text">見てください！</span>
+  </div>
+</div>
+
+<div v-click="1" class="subtitle">
+  📚 継続的な学習で英語力を向上させる旅
+</div>
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -31,6 +131,330 @@ base: /English/
     <carbon-logo-github />
   </a>
 </div>
+
+---
+transition: fade-out
+---
+
+# 英語遍歴
+
+<div class="chart-container">
+  <canvas id="englishJourneyChart"></canvas>
+</div>
+
+<div v-click="1" style="height: 0; overflow: hidden;"></div>
+<div v-click="2" style="height: 0; overflow: hidden;"></div>
+<div v-click="3" style="height: 0; overflow: hidden;"></div>
+<div v-click="4" style="height: 0; overflow: hidden;"></div>
+<div v-click="5" style="height: 0; overflow: hidden;"></div>
+<div v-click="6" style="height: 0; overflow: hidden;"></div>
+<div v-click="7" style="height: 0; overflow: hidden;"></div>
+<div v-click="8" style="height: 0; overflow: hidden;"></div>
+<div v-click="9" style="height: 0; overflow: hidden;"></div>
+<div v-click="10" style="height: 0; overflow: hidden;"></div>
+<div v-click="11" style="height: 0; overflow: hidden;"></div>
+
+<script setup>
+import { onMounted, watch, ref } from 'vue'
+
+const allDataPoints = [
+  { x: '2008-01-01', y: 30 },
+  { x: '2015-01-01', y: 20 },
+  { x: '2022-01-01', y: 10 },
+  { x: '2024-05-01', y: 30 },
+  { x: '2024-11-01', y: 30 },
+  { x: '2025-06-01', y: 50 }
+]
+
+let chart = null
+let showImage = false
+let showSatoriImage = false
+let showToeic2022Image = false
+let showToeic202405Image = false
+let showToeic202411Image = false
+let showEiken202506Image = false
+
+onMounted(() => {
+  // Load Chart.js
+  const chartScript = document.createElement('script')
+  chartScript.src = 'https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js'
+
+  chartScript.onload = () => {
+    // Load date adapter
+    const adapterScript = document.createElement('script')
+    adapterScript.src = 'https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js'
+
+    adapterScript.onload = () => {
+      const ctx = document.getElementById('englishJourneyChart')
+      if (ctx) {
+        // Load images
+        const kikutanImg = new Image()
+        kikutanImg.src = '/kikutan.png'
+
+        const satoriImg = new Image()
+        satoriImg.src = '/satori.png'
+
+        const toeic2022Img = new Image()
+        toeic2022Img.src = '/toeic-2022.png'
+
+        const toeic202405Img = new Image()
+        toeic202405Img.src = '/toeic-202406.png'
+
+        const toeic202411Img = new Image()
+        toeic202411Img.src = '/toeic-202411.png'
+
+        const eiken202506Img = new Image()
+        eiken202506Img.src = '/toeic-eiken-202506.png'
+
+        // Helper function to draw image at data point
+        const drawImageAtPoint = (ctx, img, baseX, baseY, width, height, offsetX = 0, offsetY = null) => {
+          const finalOffsetY = offsetY !== null ? offsetY : -height - 10
+          ctx.drawImage(img, baseX + offsetX - width/2, baseY + finalOffsetY, width, height)
+        }
+
+        const imagePlugin = {
+          id: 'imagePlugin',
+          afterDatasetsDraw(chart) {
+            if (!showImage) return
+
+            const { ctx, chartArea: { top, bottom, left, right }, scales: { x, y } } = chart
+            const meta = chart.getDatasetMeta(0)
+
+            meta.data.forEach((dataPoint, index) => {
+              const baseX = dataPoint.x
+              const baseY = dataPoint.y
+
+              if (index === 0 && kikutanImg.complete) {
+                drawImageAtPoint(ctx, kikutanImg, baseX+60, baseY, 120, 120)
+              }
+
+              if (index === 1 && satoriImg.complete && showSatoriImage) {
+                drawImageAtPoint(ctx, satoriImg, baseX, baseY, 100, 120)
+              }
+
+              if (index === 2 && toeic2022Img.complete && showToeic2022Image) {
+                drawImageAtPoint(ctx, toeic2022Img, baseX-60, baseY, 90, 65)
+              }
+
+              if (index === 3 && toeic202405Img.complete && showToeic202405Image) {
+                drawImageAtPoint(ctx, toeic202405Img, baseX-80, baseY, 90, 65)
+              }
+
+              if (index === 4 && toeic202411Img.complete && showToeic202411Image) {
+                drawImageAtPoint(ctx, toeic202411Img, baseX-50, baseY-30, 90, 65)
+              }
+
+              if (index === 5 && eiken202506Img.complete && showEiken202506Image) {
+                drawImageAtPoint(ctx, eiken202506Img, baseX-80, baseY-10, 180, 110)
+              }
+            })
+          }
+        }
+
+        chart = new Chart(ctx, {
+          type: 'line',
+          data: {
+            datasets: [{
+              label: '英語の理解度',
+              data: [allDataPoints[0]],
+              borderColor: 'rgb(75, 192, 192)',
+              backgroundColor: 'rgba(75, 192, 192, 0.2)',
+              tension: 0.4,
+              fill: true,
+              borderWidth: 3,
+              pointRadius: 5,
+              pointBackgroundColor: 'rgb(75, 192, 192)',
+              pointBorderColor: '#fff',
+              pointBorderWidth: 2,
+              pointHoverRadius: 7
+            }]
+          },
+          plugins: [imagePlugin],
+          options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            animation: {
+              duration: 800,
+              easing: 'easeInOutQuart'
+            },
+            plugins: {
+              legend: {
+                display: true,
+                position: 'top',
+                labels: {
+                  color: '#333',
+                  font: {
+                    size: 14
+                  }
+                }
+              },
+              title: {
+                display: false
+              }
+            },
+            scales: {
+              y: {
+                beginAtZero: true,
+                max: 100,
+                ticks: {
+                  callback: function(value) {
+                    return value + '%'
+                  },
+                  color: '#666'
+                },
+                title: {
+                  display: true,
+                  text: '英語の理解度',
+                  color: '#333',
+                  font: {
+                    size: 14
+                  }
+                },
+                grid: {
+                  color: 'rgba(0, 0, 0, 0.1)'
+                }
+              },
+              x: {
+                type: 'time',
+                min: '2008-01-01',
+                max: '2025-06-01',
+                time: {
+                  unit: 'year',
+                  displayFormats: {
+                    year: 'yyyy',
+                    month: 'yyyy/MM'
+                  },
+                  tooltipFormat: 'yyyy年MM月'
+                },
+                ticks: {
+                  color: '#666',
+                  maxRotation: 45,
+                  minRotation: 0,
+                  source: 'auto'
+                },
+                title: {
+                  display: true,
+                  text: '時期',
+                  color: '#333',
+                  font: {
+                    size: 14
+                  }
+                },
+                grid: {
+                  color: 'rgba(0, 0, 0, 0.1)'
+                }
+              }
+            }
+          }
+        })
+      }
+    }
+    document.head.appendChild(adapterScript)
+  }
+  document.head.appendChild(chartScript)
+})
+
+watch($clicks, (clicks) => {
+  if (!chart) return
+
+  // Reset all image flags
+  showImage = false
+  showSatoriImage = false
+  showToeic2022Image = false
+  showToeic202405Image = false
+  showToeic202411Image = false
+  showEiken202506Image = false
+
+  if (clicks === 0) {
+    // Initial state: first data point only, no image
+    chart.data.datasets[0].data = allDataPoints.slice(0, 1)
+  } else if (clicks === 1) {
+    // First click: show kikutan image on 2008 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 1)
+    showImage = true
+  } else if (clicks === 2) {
+    // Second click: extend to 2015
+    chart.data.datasets[0].data = allDataPoints.slice(0, 2)
+    showImage = true
+  } else if (clicks === 3) {
+    // Third click: show satori image on 2015 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 2)
+    showImage = true
+    showSatoriImage = true
+  } else if (clicks === 4) {
+    // Fourth click: extend to 2022
+    chart.data.datasets[0].data = allDataPoints.slice(0, 3)
+    showImage = true
+    showSatoriImage = true
+  } else if (clicks === 5) {
+    // Fifth click: show toeic-2022 image on 2022 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 3)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+  } else if (clicks === 6) {
+    // Sixth click: extend to 2024/5
+    chart.data.datasets[0].data = allDataPoints.slice(0, 4)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+  } else if (clicks === 7) {
+    // Seventh click: show toeic-202405 image on 2024/5 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 4)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+  } else if (clicks === 8) {
+    // Eighth click: extend to 2024/11
+    chart.data.datasets[0].data = allDataPoints.slice(0, 5)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+  } else if (clicks === 9) {
+    // Ninth click: show toeic-202411 image on 2024/11 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 5)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+    showToeic202411Image = true
+  } else if (clicks === 10) {
+    // Tenth click: extend to 2025/6
+    chart.data.datasets[0].data = allDataPoints.slice(0, 6)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+    showToeic202411Image = true
+  } else if (clicks >= 11) {
+    // Eleventh click: show eiken-202506 image on 2025/6 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 6)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+    showToeic202411Image = true
+    showEiken202506Image = true
+  }
+
+  chart.update()
+})
+</script>
+
+<style scoped>
+.chart-container {
+  width: 85%;
+  max-width: 900px;
+  height: 450px;
+  margin: 2rem auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+</style>
 
 ---
 transition: fade-out
