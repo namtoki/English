@@ -2033,6 +2033,7 @@
 - `salvage`                            ([Neutral] 火災から財貨を救出する)
 - `sardine`                            ([Neutral] すし詰めにする)
 - `savage`                            ([Neutral] 猛烈に攻撃する)
+- `scare off` /skɛər ɔːf/            ([Neutral] 追い払う)            The alarm scared off the burglar.
 - `scorch`                            ([Neutral] 表面を焼く、枯らす、酷評する、焦げる)
 - `scout`                            ([Neutral] 調査する、偵察する)
 - `scrape`                            ([Neutral] すりむく、こする)

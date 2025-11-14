@@ -1,0 +1,143 @@
+# Cognitive
+
+## Think
+- `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
+  - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.
+  - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
+  - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
+  - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
+- `consider` /kənˈsɪdə/             ([Neutral] 検討する、考える)    We need to consider all options.
+  - `think over` /θɪŋk ˈəʊvə/       ([Neutral] よく考える)          Let me think over your proposal.
+  - `sleep on` /sliːp ɒn/           ([Casual] 一晩考える)           Let me sleep on it and give you an answer tomorrow.
+  - `reflect on` /rɪˈflekt ɒn/      ([Neutral] 振り返って考える)    I need time to reflect on what happened.
+  - `mull over` /mʌl ˈəʊvə/         ([Neutral] じっくり考える)      I need to mull over the decision.
+  - ==weigh up== /weɪ ʌp/             ([Neutral] 比較検討する)        We need to weigh up all the pros and cons.
+  - `chew over` /tʃuː ˈəʊvə/        ([Casual] じっくり考える)       Let me chew over your idea for a bit.
+  - `contemplate` /ˈkɒntəmpleɪt/    ([Formal] 熟考する、検討する)   I'm contemplating a career change.
+  - `ponder` /ˈpɒndə/               ([Formal] じっくり考える)       He pondered the question for a moment.
+  - `deliberate` /dɪˈlɪbəreɪt/      ([Formal] 熟考する、審議する)   The jury deliberated for two hours.
+- ==come up with== /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
+  - ==get an idea== /ɡet ən aɪˈdiːə/  ([Neutral] アイデアを思いつく)  I just got an idea!
+  - `hit on` /hɪt ɑːn/              ([Casual] 思いつく 偶然見つける)He hit on a brilliant solution.
+  - `devise` /dɪˈvaɪz/              ([Formal] 考案する、工夫する)   They devised a new strategy.
+  - `formulate` /ˈfɔːrmjəleɪt/      ([Formal] 策定する、考案する)   They formulated a plan.
+  - `strike` /straɪk/               ([Neutral] 思いつく 印象与える) An idea struck me suddenly.
+  - `come to` /kʌm tuː/             ([Neutral] 思いつく)            The answer came to me suddenly.
+  - `flash through` /flæʃ θruː/     ([Neutral] 頭を一瞬よぎる)      An idea flashed through my mind.
+  - `dawn on` /dɔːn ɑːn/            ([Neutral] 気づく 分かってくる) The truth dawned on me.
+- `dream up` /driːm ʌp/             ([Casual] 考え出す でち上げる)  He dreamed up a crazy plan.
+  - `make up` /meɪk ʌp/             ([Casual] でっち上げる、作る)   Don't make up stories.
+  - `cook up` /kʊk ʌp/              ([Casual] でっち上げる)         He cooked up an excuse.
+  - `concoct` /kənˈkɑːkt/           ([Formal] でっち上げる、作る)   She concocted an elaborate plan.
+  - `hatch` /hætʃ/                  ([Casual] 企てる、計画する)     They hatched a secret plan.
+  - `conjure up` /ˈkʌndʒər ʌp/      ([Writing] 思い起こす 作り出す) He conjured up a fantastic story.
+- `think of` /θɪŋk ʌv/              ([Neutral] 思い出す、考えつく)  I can't think of his name.
+  - `think about` /θɪŋk əˈbaʊt/     ([Neutral] 考える、検討する)    Think about what I said.
+  - `imagine` /ɪˈmædʒɪn/            ([Neutral] 想像する)            Can you imagine living there?
+  - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
+  - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する 想像する) Try to visualize the solution.
+  - `envision` /ɪnˈvɪʒən/           ([Neutral] 心に描く 想像する)   I envision a better future.
+  - `conceive` /kənˈsiːv/           ([Formal] 具体的な創造)         She conceived the idea during her commute.
+  - `conceive of` /kənˈsiːv/        ([Formal] 抽象的な想像・理解)   I can't conceive of such cruelty.
+  - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
+  - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
+  - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
+- `guess` /ɡes/                     ([Neutral] 推測する)            I can only guess what happened.
+  - `assume` /əˈsuːm/               ([Neutral] 仮定する、思い込む)  Don't assume I know what you mean.
+  - `presume` /prɪˈzuːm/            ([Formal] 推定する、仮定する)   I presume you've heard the news.
+  - `suppose` /səˈpoʊz/             ([Neutral] 想定する、思う)      I suppose you're right.
+  - `speculate` /ˈspekjəleɪt/       ([Neutral] 推測する、投機する)  We can only speculate about the cause.
+  - `surmise` /sərˈmaɪz/            ([Formal] 推測する、推量する)   I surmised that he was upset.
+  - `conjecture` /kənˈdʒektʃər/     ([Writing] 推測、臆測)          It's all conjecture at this point.
+  - `hypothesize` /haɪˈpɑːθəsaɪz/   ([Formal] 仮説を立てる)         Scientists hypothesize about dark matter.
+  - `postulate` /ˈpɑːstʃəleɪt/      ([Writing] 仮定する、要請する)  Einstein postulated the speed of light.
+  - `theorize` /ˈθiːəraɪz/          ([Neutral] 理論化する)          They theorized about the origins.
+  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   What can we infer from this data?
+
+## Recognition
+- `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める)    I didn't recognize him at first.
+  - `identify` /aɪˈdentɪfaɪ/        ([Neutral] 見分ける、特定する)  Can you identify the suspect?
+  - `tell` /tel/                    ([Casual] 見分ける、区別する)   I can't tell the twins apart.
+  - `distinguish` /dɪˈstɪŋɡwɪʃ/     ([Formal] 区別する、見分ける)   It's hard to distinguish between them.
+  - `spot` /spɑːt/                  ([Casual] 見つける、見分ける)   I spotted him in the crowd.
+  - `detect` /dɪˈtekt/              ([Neutral] 発見する、探知する)  The test can detect cancer early.
+  - `discern` /dɪˈsɜːrn/            ([Formal] 識別する、見分ける)   I can discern a pattern here.
+  - `make out` /meɪk aʊt/           ([Casual] 見分ける、理解する)   I can barely make out the writing.
+  - `pick out` /pɪk aʊt/            ([Casual] 見分ける、選び出す)   Can you pick out your friend?
+  - `single out` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す、特定する)  He was singled out for praise.
+  - `pinpoint` /ˈpɪnpɔɪnt/          ([Neutral] 正確に特定する)      We need to pinpoint the problem.
+  - `differentiate` /ˌdɪfəˈrenʃieɪt/([Formal] 区別する、差別化する) It's important to differentiate the brands.
+- ==keep in mind==                    ([Neutral] 心に留める)          Keep in mind that he's new here.
+  - ==bear in mind==                  ([Neutral] 心に留める)          Bear in mind the deadline.
+  - `hold in mind`                  ([Neutral] 心に留める)          Hold this advice in mind.
+- `remember` /rɪˈmembər/            ([Neutral] 忘れないでおく)      Remember to lock the door.
+  - `don't forget` /doʊnt fərˈɡet/  ([Casual] 忘れないで)           Don't forget to call me.
+  - `make mental note` /ˈmentəl noʊt([Neutral] 心に留める)          I made a mental note to call her.
+- `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる)        This song reminds me of my childhood.
+  - `recall` /rɪˈkɔːl/              ([Neutral] 思い出す、回収する)  I can't recall his name.
+  - `trigger` /ˈtrɪɡər/             ([Neutral] 引き金、きっかけ)    The smell triggered old memories.
+  - `bring back` /brɪŋ bæk/         ([Neutral] 思い出させる)        This photo brings back memories.
+  - `call to mind` /kɔːl tuː maɪnd/ ([Neutral] 思い起こさせる)      Your voice calls her to mind.
+  - `awaken` /əˈweɪkən/             ([Neutral] 目覚めさせる)        The speech awakened memories of war.
+  - `revive` /rɪˈvaɪv/              ([Neutral] 蘇らせる 復活させる) The music revived fond memories.
+  - `recollect` /ˌrekəˈlekt/        ([Formal] 思い出す、回想する)   I recollect meeting him years ago.
+  - `evoke` /ɪˈvoʊk/                ([Writing] 想起させる)          The music evoked memories of childhood.
+  - `summon up` /ˈsʌmən ʌp/         ([Formal] 呼び起こす)           He summoned up courage from memories.
+- `forget` /fərˈɡet/                ([Neutral] 忘れる)              I forgot to bring my keys.
+  - ==slip one's mind==               ([Casual] うっかり忘れる)       Your birthday slipped my mind.
+  - `draw a blank`                  ([Casual] 思い出せない)         I'm drawing a blank on his name.
+  - `can't place`                   ([Neutral] 思い出せない)        I can't place where I've seen you.
+  - `escape me`                     ([Neutral] 思い出せない)        His name escapes me right now.
+  - `lose track of`                 ([Neutral] 見失う、忘れる)      I lost track of time.
+  - `overlook` /ˌoʊvərˈlʊk/         ([Neutral] 見落とす、無視する)  Don't overlook the details.
+- `take note of` /teɪk noʊt əv/     ([Neutral] 注意しておく)        Take note of what he says.
+  - `be mindful of` /biː ˈmaɪndfəl/ ([Formal] 気をつける)           Be mindful of the time limit.
+  - `retain` /rɪˈteɪn/              ([Formal] 覚えておく、保持する) I'll retain this information.
+  - `commit to memory` /kəˈmɪt/     ([Formal] 記憶にとどめる)       She committed the poem to memory.
+  - `store away` /stɔːr əˈweɪ/      ([Neutral] 記憶にしまう)        I stored that fact away for later.
+  - `file away` /faɪl əˈweɪ/        ([Neutral] 記録しておく)        He filed the information away.
+  - `keep track of` /kiːp træk əv/  ([Neutral] 記録しておく)        Keep track of your expenses.
+  - `stay aware of` /steɪ əˈwer əv/ ([Neutral] 意識しておく)        Stay aware of the changing market.
+  - `be conscious of` /ˈkɑːnʃəs əv/ ([Formal] 意識する)             Be conscious of your posture.
+  - `lodge in memory` /lɑːdʒ ɪn/    ([Writing] 記憶に留める)        The image lodged in her memory.
+  - `etch in mind` /etʃ ɪn maɪnd/   ([Writing] 心に刻む)            The experience etched itself in his mind.
+  - `engrave on memory` /ɪnˈɡreɪv/  ([Writing] 記憶に刻む)          The moment was engraved on her memory.
+  - `treasure` /ˈtreʒər/            ([Neutral] 大切にする)          I treasure those memories.
+- ==sink in== /sɪŋk ɪn/               ([Neutral] 実感が湧く)          It took a while for the news to sink in.
+
+## Understanding
+- ==get== /ɡet/                       ([Casual] 理解する)             I get what you mean.
+  - `understand` /ˌʌndərˈstænd/     ([Neutral] 理解する)            I understand your concern.
+  - `see` /siː/                     ([Neutral] 想像する、理解する)  I can see that happening.
+  - `grasp` /ɡræsp/                 ([Neutral] 把握する)            She quickly grasped the concept.
+  - `comprehend` /ˌkɑːmprɪˈhend/    ([Formal] 理解する)             I cannot comprehend his actions.
+  - `figure out` /ˈfɪɡər aʊt/       ([Neutral] 理解する、解決する)  Let me figure out the problem.
+  - `make sense of`                 ([Neutral] 理解する)            I can't make sense of this data.
+  - `follow` /ˈfɑːloʊ/              ([Neutral] 理解して聞く)        I follow your argument.
+  - `catch on` /kætʃ ɑːn/           ([Casual] 理解する、把握する)   He'll catch on eventually.
+  - `pick up` /pɪk ʌp/              ([Casual] 理解する、習得する)   Kids pick up languages quickly.
+  - `digest` /daɪˈdʒest/            ([Neutral] 理解・吸収する)      I need time to digest this information.
+  - `fathom` /ˈfæðəm/               ([Formal] 理解する、推測する)   I can't fathom his motives.
+  - `perceive` /pərˈsiːv/           ([Formal] 理解する、知覚する)   She perceived the hidden meaning.
+- `not get` /nɑːt ɡet/              ([Casual] 理解できない)         I don't get it.
+  - `not understand`                ([Neutral] 理解できない)        I don't understand this part.
+  - `not grasp` /nɑːt ɡræsp/        ([Neutral] つかめない)          I can't grasp the concept.
+  - `not know` /dəʊnt nəʊ/          ([Neutral] わからない)          I don't know the answer to that question.
+  - `not know the first thing about`([Casual] について全く知らない) I don't know the first thing about coding.
+  - `not make sense`                ([Neutral] 意味がわからない)    It doesn't make sense to me.
+  - ==have no idea==                  ([Casual] 全くわからない)       I have no idea what you mean.
+  - `have no clue` /hæv nəʊ kluː/   ([Casual] 全くわからない)       I have no clue what you're talking about.
+  - `have trouble understanding`    ([Neutral] 理解に苦労する)      I'm having trouble understanding this.
+  - `be clueless` /biː ˈkluːləs/    ([Casual] 無知ある わかてない)  He's completely clueless about computers.
+- `be lost`                         ([Neutral] ついていけない)      I'm lost in this discussion.
+  - `be completely lost`            ([Casual] 完全にわからない)     I'm completely lost.
+  - `not follow`                    ([Neutral] ついていけない)      I can't follow your logic.
+  - `be at a loss` /biː ət ə lɒs/   ([Neutral] 困惑している)        I'm at a loss for words right now.
+  - `beats me` /biːts miː/          ([Casual] わからない、知らない) Why did they cancel? Beats me!
+  - ==go over ~'s head==              ([Neutral] 理解を超える)        The joke went over my head.
+  - `be beyond ~`                   ([Neutral] 理解を超える)        This topic is beyond me.
+  - `be above ~'s head`             ([Neutral] 理解を超える)        The math is above my head.
+  - `fly over ~'s head`             ([Casual] 理解を超える)         The concept completely flew over his head.
+  - `not wrap one's head around`    ([Casual] 理解できない)         I can't wrap my head around it.
+  - `not sure one follows`          ([Formal] ついていけていない)   I'm not sure I follow.
+  - `blank out`                     ([Casual] 頭が真っ白になる)     I blanked out during the exam.

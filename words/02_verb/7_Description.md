@@ -1,0 +1,115 @@
+# Description
+
+## Tell
+- `say` /seɪ/                       ([Neutral] 言う、述べる)        What did you say to him?
+  - `be said to` /biː sed tuː/      ([Neutral] と言われている)      He is said to have worked hard when young.
+  - ==get at== /ɡet æt/               ([Casual] 言おうとする)         What are you getting at?
+  - `drive at` /draɪv æt/           ([Casual] 言おうとする)         I see what you're driving at.
+- `talk` /tɔːk/                     ([Neutral] 話す、話し合う)      We need to talk about this.
+  - `speak` /spiːk/                 ([Neutral] 話す、演説する)      May I speak with you privately?
+  - `rap` /ræp/                     ([Casual] 話す、おしゃべりする) I enjoyed rapping with him about sports.
+- `discuss` /dɪˈskʌs/               ([Neutral] 議論する、話し合う)  We'll discuss this issue next week.
+  - ==take up== /teɪk ʌp/             ([Neutral] 取り上げる、始める)  We'll take up this issue next week.
+  - `look at` /lʊk æt/              ([Neutral] 検討する、見る)      We'll look at this issue next week.
+  - `cover` /ˈkʌvər/                ([Neutral] 扱う、カバーする)    We'll cover this issue next week.
+  - `talk about` /tɔːk əˈbaʊt/      ([Casual] 話し合う)             We'll talk about this issue next week.
+- `explain` /ɪkˈspleɪn/             ([Neutral] 説明する、解釈する)  Let me explain the situation.
+  - `describe` /dɪˈskraɪb/          ([Neutral] 描写する、説明する)  Can you describe what happened?
+  - `clarify` /ˈklærɪfaɪ/           ([Neutral] 明確にする)          Can you clarify that point?
+  - `outline` /ˈaʊtlaɪn/            ([Neutral] 概要を説明する)      Let me outline the plan.
+  - ==elaborate on== /ɪˈlæbəreɪt/     ([Formal] 詳しく説明する)       Could you elaborate on that?
+  - `illustrate` /ˈɪləstreɪt/       ([Neutral] 説明する、例証する)  This example illustrates my point.
+  - `demonstrate` /ˈdemənstreɪt/    ([Neutral] 実演して説明する)    Let me demonstrate how it works.
+  - ==cut to the chase==              ([Casual] 要点を言う)           Let me cut to the chase.
+- `have a say` /hæv ə seɪ/          ([Neutral] 発言権を持つ)        Everyone should have a say in this.
+  - `have a voice` /hæv ə vɔɪs/     ([Neutral] 発言権を持つ)        We all have a voice in this decision.
+  - `weigh in` /weɪ ɪn/             ([Neutral] 意見を述べる)        Let me weigh in on this issue.
+  - `put in your two cents`         ([Casual] ちょっと意見を言う)   Can I put in my two cents here?
+  - `speak your mind`               ([Neutral] 率直に意見を言う)    Don't be afraid to speak your mind.
+  - `have your say` /hæv jʊər seɪ/  ([Neutral] 意見言う機会を得る)  Everyone will have their say.
+- `tell` /tel/                      ([Neutral] 伝える)              Tell him I said hi.
+  - ==let know== /let noʊ/            ([Casual] 知らせる)             Let me know when you arrive.
+  - `share` /ʃer/                   ([Neutral] 共有する)            Share this with your team.
+  - `pass on` /pæs ɑːn/             ([Neutral] 伝言する 受け継ぐ)   Please pass on my regards.
+  - `pass along` /pæs əˈlɔːŋ/       ([Neutral] 情報を伝える)        Please pass along the message.
+  - `spread` /spred/                ([Neutral] 広める)              The news spread quickly.
+  - `hand down` /hænd daʊn/         ([Neutral] 伝承する)            The tradition was handed down.
+  - `relay` /rɪˈleɪ/                ([Neutral] 中継する、伝える)    Please relay this message to her.
+  - `report` /rɪˈpɔːrt/             ([Neutral] 報告する、伝える)    I must report this incident.
+  - `deliver` /dɪˈlɪvər/            ([Neutral] 届ける、伝える)      He delivered the news personally.
+  - `keep posted` /kiːp ˈpoʊstɪd/   ([Neutral] 最新情報を知らせる)  Keep me posted on any developments.
+  - `forward` /ˈfɔːrwərd/           ([Neutral] 転送する)            I'll forward the email to you.
+  - `tip off` /tɪp ɔːf/             ([Casual] 密かに知らせる)       Someone tipped off the police.
+  - `inform` /ɪnˈfɔːrm/             ([Formal] 知らせる、通知する)   Please inform me of any changes.
+  - `notify` /ˈnoʊtɪfaɪ/            ([Formal] 通知する、知らせる)   We will notify you of the results.
+  - `convey` /kənˈveɪ/              ([Formal] 伝える、運ぶ)         His tone conveyed disappointment.
+  - `impart` /ɪmˈpɑːrt/             ([Formal] 与える、伝える)       The teacher imparted valuable knowledge.
+  - `transmit` /trænzˈmɪt/          ([Formal] 送信する、伝える)     The data was transmitted securely.
+  - `communicate` /kəˈmjuːnɪkeɪt/   ([Formal] 伝達する)             Communicate this to all staff.
+  - `apprise` /əˈpraɪz/             ([Writing] 知らせる、通知する)  Keep me apprised of the situation.
+- ==get across to== /ɡet əˈkrɔːs tuː/ ([Neutral] 伝わる、理解させる)  I got my point across to them.
+  - `get through to` /ɡet θruː tuː/ ([Neutral] 伝わる、理解させる)  I can't get through to him.
+  - `put across` /pʊt əˈkrɔːs/      ([Neutral] 伝える、わからせる)  She put her ideas across clearly.
+  - `make clear to` /meɪk klɪr tuː/ ([Neutral] 明確に伝える)        Make it clear to everyone.
+
+## Relationship
+- ==have an effect on==               ([Neutral] 影響を与える)        The weather can have an effect on mood.
+  - `affect` /əˈfekt/               ([Neutral] 影響する、作用する)  The changes will affect everyone.
+  - `influence` /ˈɪnfluəns/         ([Neutral] 影響する、左右する)  Weather influences our mood.
+  - `have an impact on`             ([Neutral] 影響を与える)        Your words have an impact on people.
+  - `make a difference`             ([Neutral] 影響を与える)        Your help really makes a difference.
+  - `impact` /ˈɪmpækt/              ([Neutral] 影響する、衝撃)      This will impact our profits.
+  - `shape` /ʃeɪp/                  ([Neutral] 形作る、左右する)    Experiences shape our personality.
+  - `control` /kənˈtroʊl/           ([Neutral] 支配する、制御する)  Who controls the budget?
+  - `drive` /draɪv/                 ([Neutral] 駆動する、左右する)  Competition drives innovation.
+  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、決める)    Several factors determine the outcome.
+  - `guide` /ɡaɪd/                  ([Neutral] 導く、指導する)      Let principles guide your actions.
+  - `direct` /dəˈrekt/              ([Neutral] 指示する、導く)      She directs the operations.
+  - ==sway== /sweɪ/                   ([Neutral] 左右する、揺さぶる)  His opinion swayed the decision.
+  - ==rub off on== /rʌb ɔːf ɑːn/      ([Casual] 影響を与える)         Her enthusiasm rubbed off on the team.
+  - `dictate` /dɪkˈteɪt/            ([Neutral] 左右する、決定する)  Market forces dictate the price.
+  - `govern` /ˈɡʌvərn/              ([Formal] 支配する、左右する)   Supply and demand govern prices.
+  - `steer` /stɪr/                  ([Neutral] 導く、左右する)      He steered the conversation away.
+  - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
+  - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
+  - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
+- ==be related to== /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
+  - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
+  - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.
+  - `be linked to` /lɪŋkt tuː/      ([Neutral] 関連している)        The cases are linked to each other.
+  - `be associated with`            ([Neutral] 関連している)        This symptom is associated with stress.
+- ==have something to do with==       ([Neutral] 何か関係がある)      It has something to do with the weather.
+  - `have nothing to do with`       ([Neutral] 関係がない)          I have nothing to do with that decision.
+  - `have a lot to do with`         ([Neutral] 大いに関係がある)    Success has a lot to do with timing.
+  - `have little to do with`        ([Neutral] 関係がほとんどない)  This has little to do with money.
+  - `have everything to do with`    ([Neutral] 全て関係がある)      This has everything to do with trust.
+- ==have things in common==           ([Casual] 共通点がある)         Do we have things in common?
+  - `have a lot in common`          ([Neutral] 共通点が多い)        We have a lot in common.
+  - `have little in common`         ([Neutral] 共通点が少ない)      They have little in common.
+  - `have nothing in common`        ([Neutral] 共通点がない)        We have nothing in common.
+  - `have similarities`             ([Neutral] 類似点がある)        The two cases have similarities.
+  - `have no similarities`          ([Neutral] 類似点がない)        These systems have no similarities.
+  - `have commonalities`            ([Formal] 共通性がある)         The cultures have commonalities.
+- ==come down to== /kʌm daʊn tu/      ([Casual] ～に帰着する)         It all comes down to hard work.
+  - `boil down to` /bɔɪl daʊn tu/   ([Neutral] 要するに～である)    The issue boils down to money.
+  - `depend on` /dɪˈpend ɑːn/       ([Neutral] ～に依存する)        Success depends on hard work.
+  - `amount to` /əˈmaʊnt tu/        ([Neutral] ～に等しい、要するに)His excuse amounts to nothing.
+  - `center on` /ˈsentər ɑːn/       ([Neutral] ～を中心とする)      The debate centers on healthcare.
+  - ==hinge on== /hɪndʒ ɑːn/          ([Neutral] ～次第である)        The decision hinges on the budget.
+  - `reduce to` /rɪˈdus tu/         ([Neutral] ～に減らす、要約する)The problem reduces to a simple question.
+  - `stem from` /stem frʌm/         ([Neutral] ～に由来する)        The problem stems from poor planning.
+  - `revolve around`                ([Neutral] ～を中心とする)      The story revolves around family.
+
+## Status
+- `be available` /əˈveɪləbəl/       ([Neutral] 利用できる)          I'm available to help anytime.
+  - `be ready to go`                ([Casual] すぐ使える)           The car is ready to go.
+  - `be good to go`                 ([Casual] 準備万端)             We're good to go!
+  - `be ready for use`              ([Neutral] 使用可能な)          The equipment is ready for use.
+  - `be within reach` /wɪðɪn riːtʃ/ ([Neutral] 手の届く範囲にある)  Help is within reach.
+  - `be usable` /ˈjuːzəbəl/         ([Neutral] 使用可能な)          The software is now usable.
+  - `be at one's disposal`          ([Formal] 思い通りにできる)     The enormous property was at his disposal.
+  - `be at one's service`           ([Formal] お役に立てる)         I'm at your service.
+  - `be at one's command`           ([Formal] 命令に従う)           The troops are at your command.
+  - `be on hand`                    ([Neutral] 手元にある)          The tools are on hand.
+  - `have at hand` /hæv æt hænd/    ([Neutral] 手元に持っている)    I have the documents at hand.
+  - `have on standby`               ([Neutral] 待機させている)      We have backup servers on standby.

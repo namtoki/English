@@ -5,8 +5,11 @@
 - 02_verb/1_SVC.md - SVC 文型の動詞
 - 02_verb/2_SVOC.md - SVOC 文型の動詞
 - 02_verb/3_SVOO.md - SVOO 文型の動詞
-- 02_verb/4_Business.md - SV, SVO 文型の動詞の内、ビジネス英会話よりの表現
-- 02_verb/5_Common.md - SV, SVO 文型の動詞のその他の表現
+- 02_verb/4_Opinion.md - SV, SVO 文型の動詞の内、考えを述べる際に使用する表現
+- 02_verb/5_Cognitive.md - SV, SVO 文型の動詞の内、認識を説明する時に使用する表現
+- 02_verb/6_Task.md - SV, SVO 文型の動詞の内、タスク管理関連の表現
+- 02_verb/7_Description.md - SV, SVO 文型の動詞の内、何かを説明する時に使える表現
+- 02_verb/8_Common.md - SV, SVO 文型の動詞のその他の表現
 - 03_adjective_noun/0_Hedge.md - ぼやけさせる名詞、形容詞
 - 03_adjective_noun/1_Business.md - 個人的に仕事でよく使うなと思う名詞、形容詞
 - 03_adjective_noun/2_Politics_Religion.md - 政治、宗教関連の名詞、形容詞

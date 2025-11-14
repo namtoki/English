@@ -1,0 +1,132 @@
+# Opinion
+
+## Agree
+- `agree with` /əˈɡriː wɪð/         ([Neutral] ～に賛成する)        I agree with the decision.
+  - `consent` /kənˈsent/            ([Formal] 同意する)             She consented to the treatment.
+  - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
+  - `be for` /biː fɔːr/             ([Casual] 賛成である)           I'm for the new policy.
+  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
+  - `be in favor of`                ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
+- ==come around to==                  ([Neutral] 徐々に同意する)      He came around to my way of thinking.
+  - `come round to`                 ([Neutral 英] 徐々に同意する)   He'll come round to my point of view.
+  - `warm up to`                    ([Neutral] 受け入れるようなる)  She's warming up to the idea.
+  - `be won over by`                ([Neutral] 説得されて同意する)  I was won over by his argument.
+- `support` /səˈpɔːrt/              ([Neutral] 支持する、支える)    I support your decision.
+  - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.
+  - `back up` /bæk ʌp/              ([Casual] 支援する、裏付ける)   I'll back you up.
+  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by you no matter what.
+  - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
+  - `get behind` /ɡet bɪˈhaɪnd/     ([Casual] 支持する、応援する)   Let's get behind this initiative.
+  - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
+  - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
+  - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
+  - `give support to`               ([Neutral] 支援する)            We give our support to the project.
+  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、裏書)       The senator endorsed the legislation.
+  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、擁護する)   I advocate for better education.
+  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He championed the rights of workers.
+  - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
+  - `second` /ˈsekənd/              ([Neutral] 支持する、賛同する)  I second the motion.
+  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
+  - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
+  - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
+  - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
+  - ==buy into==                      ([Casual] 信じて支持する)       I don't buy into that theory.
+
+## So-so
+- `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
+  - ==be fine== /bi faɪn/             ([Neutral] 大丈夫である)        That will be fine for me.
+  - `will do` /wɪl duː/             ([Casual] 間に合う、十分だ)     This will do for now.
+  - `do the trick` /duː ðə trɪk/    ([Casual] うまくいく、十分)     This should do the trick.
+  - `be sufficient` /bi səˈfɪʃənt/  ([Formal] 十分である)           The budget should be sufficient.
+  - `suffice` /səˈfaɪs/             ([Writing] 十分である)          A phone call will suffice.
+  - `be adequate` /bi ˈædɪkwət/     ([Neutral] 適切である)          The response was adequate.
+  - `meet the need` /miːt ðə niːd/  ([Neutral] ニーズを満たす)      This solution meets the need.
+  - `cover it` /ˈkʌvər ɪt/          ([Casual] カバーする、足りる)   Twenty dollars should cover it.
+  - `serve the purpose`             ([Neutral] 目的を果たす)        This tool serves the purpose.
+
+## Need
+- `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
+  - `would like` /wʊd laɪk/         ([Polite] 〜が欲しい)           I would like some water, please.
+  - `wouldn't mind` /ˈwʊdnt maɪnd/  ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
+  - `could use` /kʊd juːz/          ([Casual] 〜が欲しい)           I could use a coffee right now.
+  - `could do with` /kʊd duː wɪð/   ([Casual] 〜が欲しい)           I could do with a vacation.
+  - `be eager to` /biː ˈiːɡər tuː/  ([Neutral] 切望する)            She's eager to start her new job.
+  - `desire` /dɪˈzaɪər/             ([Formal] 欲する、望む)         He desires success above all.
+- `need` /niːd/                     ([Neutral] 必要とする)          I need your help with this.
+  - ==物 need V-ing==                 ([Neutral] Vされる必要がある)   The car needs washing.
+  - ==require== /rɪˈkwaɪər/           ([Formal] 必要とする、要求する) This job requires experience.
+  - ==be required to==                ([Formal] することが求められる) Students are required to attend.
+
+## Like
+- `like` /laɪk/                     ([Neutral] 好き)                I like chocolate.
+  - `love` /lʌv/                    ([Neutral] 愛する、大好き)      I love this music.
+  - `enjoy` /ɪnˈdʒɔɪ/               ([Neutral] 楽しむ、気に入る)    I enjoy reading books.
+  - `be into` /ɪnˈtuː/              ([Casual] 夢中である)           She's really into yoga.
+  - `be fond of` /fɑːnd əv/         ([Neutral] 好んでいる)          I'm fond of classical music.
+  - ==be obsessed with==              ([Neutral] 夢中である)          He's obsessed with his new baby.
+  - `be crazy about`                ([Casual] 夢中である)           He's crazy about sports cars.
+  - `be passionate about`           ([Neutral] 情熱的である)        She's passionate about teaching.
+  - `adore` /əˈdɔːr/                ([Neutral] 愛する、大好き)      I adore my grandmother.
+  - `fancy` /ˈfænsi/                ([Casual] 好む、気に入る)       Do you fancy a cup of tea?
+  - `prefer` /prɪˈfɜːr/             ([Neutral] 好む、選ぶ)          I prefer coffee to tea.
+  - `favor` /ˈfeɪvər/               ([Neutral] 好む、支持する)      I favor the first option.
+  - `have a thing for`              ([Casual] 好きである)           She has a thing for vintage cars.
+  - `be keen on` /kiːn ɑːn/         ([Neutral] 熱心である)          He's keen on photography.
+  - `lean towards` /liːn təˈwɔːrdz/ ([Neutral] 傾く、選ぶ傾向)      I'm leaning towards the first option.
+- `complain about`                  ([Neutral] 文句を言う)          They complained about the delay.
+  - `be upset with`                 ([Casual] 腹を立てる)           I'm upset with his decision.
+  - `be angry with`                 ([Neutral] 怒っている)          He's angry with the service.
+  - `be mad at`                     ([Casual] 怒っている)           She's mad at me for being late.
+  - `criticize`                     ([Neutral] 批判する)            The press criticized the government's decision.
+  - `take issue with`               ([Neutral] 異議を唱える)        I take issue with your assessment.
+  - `be frustrated with`            ([Neutral] イライラしている)    I'm frustrated with this computer.
+  - `object to`                     ([Neutral] 反対する)            I object to this proposal.
+  - `disapprove of`                 ([Neutral] 反対する)            My parents disapprove of my career choice.
+  - `be irritated by`               ([Neutral] イライラする)        She's irritated by the noise.
+  - `call out`                      ([Casual] 非難する)             She called him out on his behavior.
+  - `find fault with`               ([Neutral] 欠点を見つける)      She always finds fault with my work.
+  - `hold accountable`              ([Neutral] 責任を問う)          We must hold them accountable for their actions.
+  - `have a beef with`              ([Casual] 不満がある)           She has a beef with her boss about the schedule.
+  - `have words with`               ([Casual] 言い争う)             I need to have words with him about this.
+  - `pick on`                       ([Casual] いじめる、文句を言う) Don't pick on your little brother.
+  - `take to task`                  ([Formal] 叱責する)             The manager took him to task for his mistakes.
+  - `take exception to`             ([Formal] 異議を申し立てる)     I take exception to your remarks.
+  - `have a bone to pick with`      ([Casual] 文句がある)           I have a bone to pick with you about yesterday.
+  - `have an axe to grind`          ([Neutral] 私怨がある)          He has an axe to grind with the company.
+  - `air grievances`                ([Formal] 不満を表明する)       The staff met to air their grievances.
+
+## Suggestion
+- ==I would== /aɪ wʊd/                ([Polite] 私なら〜します)       I would suggest taking a break.
+  - `suggest` /səˈdʒest/            ([Neutral] 提案する、暗示する)  I suggest we leave early.
+  - `recommend` /ˌrekəˈmend/        ([Neutral] 推薦する、勧める)    I recommend this restaurant.
+  - `advise` /ədˈvaɪz/              ([Neutral] 助言する、忠告する)  I advise you to be careful.
+  - `propose` /prəˈpoʊz/            ([Formal] 提案する、申し込む)   She proposed a new plan.
+  - `put forward` /pʊt ˈfɔːrwərd/   ([Formal] 提出する、提案する)   He put forward a new idea.
+  - `float an idea`                 ([Casual] アイデアを提案する)   Let me float an idea by you.
+  - `pitch` /pɪtʃ/                  ([Casual] 売り込む、提案する)   She pitched her idea to investors.
+- ==How about V-ing?==                ([Casual] ～するのはどう？)     How about getting lunch together?
+  - `Why don't we V?`               ([Casual] ～しない？)           Why don't we take a break?
+  - `What about V-ing?`             ([Casual] ～するのはどう？)     What about trying that new restaurant?
+  - `Would you like to V?`          ([Neutral] ～しませんか？)      Would you like to join us?
+  - `Want to V?`                    ([Casual] ～したい？)           Want to grab coffee?
+  - `Do you want to V?`             ([Casual] ～したい？)           Do you want to get dinner?
+  - `How about if we V?`            ([Casual] ～したらどう？)       How about if we meet tomorrow?
+  - `What if we V?`                 ([Casual] ～したらどう？)       What if we postpone the meeting?
+  - `Let's V`                       ([Casual] ～しよう)             Let's discuss this later.
+  - `Shall we V?`                   ([Neutral] ～しましょうか？)    Shall we begin?
+  - `Would you care to V?`          ([Formal] ～しませんか？)       Would you care to join me for lunch?
+  - `Would you be interested in V-ing?` ([Polite] ～に興味ある？)     Would you be interested in attending?
+  - `Feel like V-ing?`              ([Casual] ～したい気分？)       Feel like watching a movie?
+  - `Do you fancy V-ing?`           ([British] ～したい？)          Do you fancy going out tonight?
+  - `Would you like me to V?`       ([Polite] ～しましょうか？)     Would you like me to help?
+  - `Want me to V?`                 ([Casual] ～しようか？)         Want me to order for you?
+  - `Should I V?`                   ([Neutral] ～しましょうか？)    Should I make a reservation?
+  - `Can I V for you?`              ([Neutral] ～しましょうか？)    Can I get that for you?
+
+## Clarification
+- ==point out== /pɔɪnt aʊt/           ([Neutral] 指摘する、示す)      Let me point out the main issues.
+  - `specify` /ˈspesɪfaɪ/           ([Formal] 明記する、特定する)   Please specify your requirements.
+  - `identify` /aɪˈdentɪfaɪ/        ([Neutral] 特定する、確認する)  Can you identify the problem?
+  - `designate` /ˈdezɪɡneɪt/        ([Formal] 指定する、示す)       The area was designated as a park.
+  - `single ==out==` /ˈsɪŋɡəl aʊt/      ([Neutral] 選び出す、特定する)  He was singled out for praise.
+  - `pick ==out==` /pɪk aʊt/            ([Casual] 選び出す、指定する)   Pick out your favorite color.

@@ -275,26 +275,6 @@
   - `Am I allowed to V?`            ([Neutral] してもいいですか？)  Am I allowed to take photos here?
   - `Is it permitted to V?`         ([Formal] 許可されていますか？) Is it permitted to park here?
 
-## Suggestion
-- `How about V-ing?`                ([Casual] ～するのはどう？)     How about getting lunch together?
-- `Why don't we V?`                 ([Casual] ～しない？)           Why don't we take a break?
-- `What about V-ing?`               ([Casual] ～するのはどう？)     What about trying that new restaurant?
-- `Would you like to V?`            ([Neutral] ～しませんか？)      Would you like to join us?
-- `Want to V?`                      ([Casual] ～したい？)           Want to grab coffee?
-- `Do you want to V?`               ([Casual] ～したい？)           Do you want to get dinner?
-- `How about if we V?`              ([Casual] ～したらどう？)       How about if we meet tomorrow?
-- `What if we V?`                   ([Casual] ～したらどう？)       What if we postpone the meeting?
-- `Let's V`                         ([Casual] ～しよう)             Let's discuss this later.
-- `Shall we V?`                     ([Neutral] ～しましょうか？)    Shall we begin?
-- `Would you care to V?`            ([Formal] ～しませんか？)       Would you care to join me for lunch?
-- `Would you be interested in V-ing?` ([Polite] ～に興味ある？)     Would you be interested in attending?
-- `Feel like V-ing?`                ([Casual] ～したい気分？)       Feel like watching a movie?
-- `Do you fancy V-ing?`             ([British] ～したい？)          Do you fancy going out tonight?
-- `Would you like me to V?`         ([Polite] ～しましょうか？)     Would you like me to help?
-- `Want me to V?`                   ([Casual] ～しようか？)         Want me to order for you?
-- `Should I V?`                     ([Neutral] ～しましょうか？)    Should I make a reservation?
-- `Can I V for you?`                ([Neutral] ～しましょうか？)    Can I get that for you?
-
 ## Interjection
 - `I've got it!`                    ([Casual] そうだ！)             Wait — I've got it! What if we try a rotating schedule?"
 - `Here we go`                      ([Casual] さぁ！)               Here we go! Your dinner is ready!
