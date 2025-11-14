@@ -148,20 +148,31 @@ transition: fade-out
 <div v-click="4" style="height: 0; overflow: hidden;"></div>
 <div v-click="5" style="height: 0; overflow: hidden;"></div>
 <div v-click="6" style="height: 0; overflow: hidden;"></div>
+<div v-click="7" style="height: 0; overflow: hidden;"></div>
+<div v-click="8" style="height: 0; overflow: hidden;"></div>
+<div v-click="9" style="height: 0; overflow: hidden;"></div>
+<div v-click="10" style="height: 0; overflow: hidden;"></div>
+<div v-click="11" style="height: 0; overflow: hidden;"></div>
 
 <script setup>
-import { onMounted, watch } from 'vue'
+import { onMounted, watch, ref } from 'vue'
 
 const allDataPoints = [
-  { x: '2008-01-01', y: 40 },
-  { x: '2015-01-01', y: 30 },
-  { x: '2022-01-01', y: 15 },
-  { x: '2024-05-01', y: 35 },
-  { x: '2024-11-01', y: 35 },
+  { x: '2008-01-01', y: 30 },
+  { x: '2015-01-01', y: 20 },
+  { x: '2022-01-01', y: 10 },
+  { x: '2024-05-01', y: 30 },
+  { x: '2024-11-01', y: 30 },
   { x: '2025-06-01', y: 50 }
 ]
 
 let chart = null
+let showImage = false
+let showSatoriImage = false
+let showToeic2022Image = false
+let showToeic202405Image = false
+let showToeic202411Image = false
+let showEiken202506Image = false
 
 onMounted(() => {
   // Load Chart.js
@@ -176,6 +187,70 @@ onMounted(() => {
     adapterScript.onload = () => {
       const ctx = document.getElementById('englishJourneyChart')
       if (ctx) {
+        // Load images
+        const kikutanImg = new Image()
+        kikutanImg.src = '/kikutan.png'
+
+        const satoriImg = new Image()
+        satoriImg.src = '/satori.png'
+
+        const toeic2022Img = new Image()
+        toeic2022Img.src = '/toeic-2022.png'
+
+        const toeic202405Img = new Image()
+        toeic202405Img.src = '/toeic-202406.png'
+
+        const toeic202411Img = new Image()
+        toeic202411Img.src = '/toeic-202411.png'
+
+        const eiken202506Img = new Image()
+        eiken202506Img.src = '/toeic-eiken-202506.png'
+
+        // Helper function to draw image at data point
+        const drawImageAtPoint = (ctx, img, baseX, baseY, width, height, offsetX = 0, offsetY = null) => {
+          const finalOffsetY = offsetY !== null ? offsetY : -height - 10
+          ctx.drawImage(img, baseX + offsetX - width/2, baseY + finalOffsetY, width, height)
+        }
+
+        const imagePlugin = {
+          id: 'imagePlugin',
+          afterDatasetsDraw(chart) {
+            if (!showImage) return
+
+            const { ctx, chartArea: { top, bottom, left, right }, scales: { x, y } } = chart
+            const meta = chart.getDatasetMeta(0)
+
+            meta.data.forEach((dataPoint, index) => {
+              const baseX = dataPoint.x
+              const baseY = dataPoint.y
+
+              if (index === 0 && kikutanImg.complete) {
+                drawImageAtPoint(ctx, kikutanImg, baseX+60, baseY, 120, 120)
+              }
+
+              if (index === 1 && satoriImg.complete && showSatoriImage) {
+                drawImageAtPoint(ctx, satoriImg, baseX, baseY, 100, 120)
+              }
+
+              if (index === 2 && toeic2022Img.complete && showToeic2022Image) {
+                drawImageAtPoint(ctx, toeic2022Img, baseX-60, baseY, 90, 65)
+              }
+
+              if (index === 3 && toeic202405Img.complete && showToeic202405Image) {
+                drawImageAtPoint(ctx, toeic202405Img, baseX-80, baseY, 90, 65)
+              }
+
+              if (index === 4 && toeic202411Img.complete && showToeic202411Image) {
+                drawImageAtPoint(ctx, toeic202411Img, baseX-50, baseY-30, 90, 65)
+              }
+
+              if (index === 5 && eiken202506Img.complete && showEiken202506Image) {
+                drawImageAtPoint(ctx, eiken202506Img, baseX-80, baseY-10, 180, 110)
+              }
+            })
+          }
+        }
+
         chart = new Chart(ctx, {
           type: 'line',
           data: {
@@ -194,6 +269,7 @@ onMounted(() => {
               pointHoverRadius: 7
             }]
           },
+          plugins: [imagePlugin],
           options: {
             responsive: true,
             maintainAspectRatio: true,
@@ -281,17 +357,97 @@ onMounted(() => {
 watch($clicks, (clicks) => {
   if (!chart) return
 
-  const pointsToShow = Math.min(clicks + 1, allDataPoints.length)
-  chart.data.datasets[0].data = allDataPoints.slice(0, pointsToShow)
+  // Reset all image flags
+  showImage = false
+  showSatoriImage = false
+  showToeic2022Image = false
+  showToeic202405Image = false
+  showToeic202411Image = false
+  showEiken202506Image = false
+
+  if (clicks === 0) {
+    // Initial state: first data point only, no image
+    chart.data.datasets[0].data = allDataPoints.slice(0, 1)
+  } else if (clicks === 1) {
+    // First click: show kikutan image on 2008 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 1)
+    showImage = true
+  } else if (clicks === 2) {
+    // Second click: extend to 2015
+    chart.data.datasets[0].data = allDataPoints.slice(0, 2)
+    showImage = true
+  } else if (clicks === 3) {
+    // Third click: show satori image on 2015 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 2)
+    showImage = true
+    showSatoriImage = true
+  } else if (clicks === 4) {
+    // Fourth click: extend to 2022
+    chart.data.datasets[0].data = allDataPoints.slice(0, 3)
+    showImage = true
+    showSatoriImage = true
+  } else if (clicks === 5) {
+    // Fifth click: show toeic-2022 image on 2022 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 3)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+  } else if (clicks === 6) {
+    // Sixth click: extend to 2024/5
+    chart.data.datasets[0].data = allDataPoints.slice(0, 4)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+  } else if (clicks === 7) {
+    // Seventh click: show toeic-202405 image on 2024/5 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 4)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+  } else if (clicks === 8) {
+    // Eighth click: extend to 2024/11
+    chart.data.datasets[0].data = allDataPoints.slice(0, 5)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+  } else if (clicks === 9) {
+    // Ninth click: show toeic-202411 image on 2024/11 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 5)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+    showToeic202411Image = true
+  } else if (clicks === 10) {
+    // Tenth click: extend to 2025/6
+    chart.data.datasets[0].data = allDataPoints.slice(0, 6)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+    showToeic202411Image = true
+  } else if (clicks >= 11) {
+    // Eleventh click: show eiken-202506 image on 2025/6 point
+    chart.data.datasets[0].data = allDataPoints.slice(0, 6)
+    showImage = true
+    showSatoriImage = true
+    showToeic2022Image = true
+    showToeic202405Image = true
+    showToeic202411Image = true
+    showEiken202506Image = true
+  }
+
   chart.update()
 })
 </script>
 
 <style scoped>
 .chart-container {
-  width: 80%;
-  max-width: 800px;
-  height: 400px;
+  width: 85%;
+  max-width: 900px;
+  height: 450px;
   margin: 2rem auto;
   background: white;
   padding: 2rem;
