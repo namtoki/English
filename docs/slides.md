@@ -451,6 +451,133 @@ watch($clicks, (clicks) => {
 transition: fade-out
 ---
 
+# 目標設定と学習時間
+
+<v-clicks>
+
+<div class="grid grid-cols-2 gap-6 mt-6">
+
+<div class="bg-green-500/10 p-4 rounded">
+
+### ビジネス英語
+**1,500〜2,000時間**
+
+ビジネスの場で最低限の会話が成立する
+
+<div class="mt-3 text-sm">
+毎日2時間：2〜3年<br>
+毎日3時間：1.5〜2年
+</div>
+
+</div>
+
+<div class="bg-purple-500/10 p-4 rounded">
+
+### 日常英会話
+**3,000〜5,000時間**
+
+ネイティブ並みの日常会話
+
+<div class="mt-3 text-sm">
+毎日2時間：4〜7年<br>
+毎日3時間：3〜5年
+</div>
+
+</div>
+
+</div>
+
+## 📚 難関資格との比較
+
+- **公認会計士**：3,000〜5,000時間
+- **司法試験**：5,000〜8,000時間以上
+- **医師国家試験**（医学部6年間）：10,000時間以上
+
+<div class="mt-4 text-sm opacity-80">
+💡 ネイティブ並みの日常英会話は公認会計士や司法試験と同等かそれ以上の学習時間が必要
+</div>
+
+</v-clicks>
+
+---
+layout: center
+class: text-center
+---
+
+<div class="video-container">
+  <iframe
+    id="youtube-video"
+    <!-- src="https://www.youtube.com/embed/X2MNJVPcX3Q?si=MqmBrKx-p_2mHo48?autoplay=1&start=0&end=10&mute=0&controls=0&modestbranding=1&rel=0" -->
+    src="https://www.youtube.com/embed/VIDEO_ID?autoplay=1&start=0&end=10&mute=0&controls=0&modestbranding=1&rel=0"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+  ></iframe>
+</div>
+
+<style scoped>
+.video-container {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  margin: -2rem -2rem;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
+---
+layout: center
+class: text-center
+---
+
+<div class="transition-message">
+  <h1 class="text-6xl font-bold mb-8" v-click>
+    英語学習には<br>時間がかかる
+  </h1>
+
+  <div v-click class="text-5xl font-bold text-blue-400 mt-12 mb-8">
+    だからこそ
+  </div>
+
+  <h2 v-click class="text-7xl font-bold text-gradient">
+    効率的な学習が必要！
+  </h2>
+</div>
+
+<style scoped>
+.transition-message {
+  padding: 2rem;
+}
+
+.text-gradient {
+  background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: gradient-shift 3s ease infinite;
+}
+
+@keyframes gradient-shift {
+  0%, 100% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+}
+</style>
+
+---
+transition: fade-out
+---
+
 # 学習の目標
 
 継続的な英語力向上のための体系的アプローチ
