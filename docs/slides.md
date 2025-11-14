@@ -1,6 +1,6 @@
 ---
 theme: default
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: /mario.gif
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -71,16 +71,18 @@ base: /English/
 .new-text {
   display: inline-block;
   opacity: 0;
+  position: absolute;
+  left: 0;
 }
 
 .new-text.slidev-vclick-current {
   animation: fade-in-up 1.2s ease-out forwards;
-  animation-delay: 0s;
+  animation-delay: 0.8s;
 }
 
 @keyframes fade-in-up {
   0% {
-    transform: translateY(30px) scale(0.9);
+    transform: translateY(0) scale(0.9);
     opacity: 0;
   }
   50% {
@@ -111,25 +113,12 @@ base: /English/
 
 <div class="title-container">
   <div class="title-text">
-    英語の学習方法<span v-click.hide="1" class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span v-click="1" class="new-text">見てください！</span>
+    英語学習<span style="position: relative; display: inline-block;"><span v-click.hide="1" class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span v-click="1" class="new-text">仲間募集中</span></span>
   </div>
 </div>
 
 <div v-click="1" class="subtitle">
   📚 継続的な学習で英語力を向上させる旅
-</div>
-
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    始める <carbon:arrow-right class="inline"/>
-  </span>
-</div>
-
-<div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/namtoki/English" target="_blank" alt="GitHub"
-    class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
-    <carbon-logo-github />
-  </a>
 </div>
 
 ---
