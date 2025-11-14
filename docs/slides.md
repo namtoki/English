@@ -146,94 +146,119 @@ transition: fade-out
 import { onMounted } from 'vue'
 
 onMounted(() => {
-  const script = document.createElement('script')
-  script.src = 'https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js'
-  script.onload = () => {
-    const ctx = document.getElementById('englishJourneyChart')
-    if (ctx) {
-      new Chart(ctx, {
-        type: 'line',
-        data: {
-          labels: ['2008', '2015', '2022', '2024/05', '2024/11', '2025/06'],
-          datasets: [{
-            label: '英語の理解度',
-            data: [40, 30, 15, 35, 35, 50],
-            borderColor: 'rgb(75, 192, 192)',
-            backgroundColor: 'rgba(75, 192, 192, 0.2)',
-            tension: 0.4,
-            fill: true,
-            borderWidth: 3,
-            pointRadius: 5,
-            pointBackgroundColor: 'rgb(75, 192, 192)',
-            pointBorderColor: '#fff',
-            pointBorderWidth: 2,
-            pointHoverRadius: 7
-          }]
-        },
-        options: {
-          responsive: true,
-          maintainAspectRatio: true,
-          plugins: {
-            legend: {
-              display: true,
-              position: 'top',
-              labels: {
-                color: '#333',
-                font: {
-                  size: 14
-                }
-              }
-            },
-            title: {
-              display: false
-            }
+  // Load Chart.js
+  const chartScript = document.createElement('script')
+  chartScript.src = 'https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js'
+
+  chartScript.onload = () => {
+    // Load date adapter
+    const adapterScript = document.createElement('script')
+    adapterScript.src = 'https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@3.0.0/dist/chartjs-adapter-date-fns.bundle.min.js'
+
+    adapterScript.onload = () => {
+      const ctx = document.getElementById('englishJourneyChart')
+      if (ctx) {
+        new Chart(ctx, {
+          type: 'line',
+          data: {
+            datasets: [{
+              label: '英語の理解度',
+              data: [
+                { x: '2008-01-01', y: 40 },
+                { x: '2015-01-01', y: 30 },
+                { x: '2022-01-01', y: 15 },
+                { x: '2024-05-01', y: 35 },
+                { x: '2024-11-01', y: 35 },
+                { x: '2025-06-01', y: 50 }
+              ],
+              borderColor: 'rgb(75, 192, 192)',
+              backgroundColor: 'rgba(75, 192, 192, 0.2)',
+              tension: 0.4,
+              fill: true,
+              borderWidth: 3,
+              pointRadius: 5,
+              pointBackgroundColor: 'rgb(75, 192, 192)',
+              pointBorderColor: '#fff',
+              pointBorderWidth: 2,
+              pointHoverRadius: 7
+            }]
           },
-          scales: {
-            y: {
-              beginAtZero: true,
-              max: 100,
-              ticks: {
-                callback: function(value) {
-                  return value + '%'
-                },
-                color: '#666'
-              },
-              title: {
+          options: {
+            responsive: true,
+            maintainAspectRatio: true,
+            plugins: {
+              legend: {
                 display: true,
-                text: '英語の理解度',
-                color: '#333',
-                font: {
-                  size: 14
+                position: 'top',
+                labels: {
+                  color: '#333',
+                  font: {
+                    size: 14
+                  }
                 }
               },
-              grid: {
-                color: 'rgba(0, 0, 0, 0.1)'
+              title: {
+                display: false
               }
             },
-            x: {
-              ticks: {
-                color: '#666',
-                maxRotation: 45,
-                minRotation: 0
-              },
-              title: {
-                display: true,
-                text: '時期',
-                color: '#333',
-                font: {
-                  size: 14
+            scales: {
+              y: {
+                beginAtZero: true,
+                max: 100,
+                ticks: {
+                  callback: function(value) {
+                    return value + '%'
+                  },
+                  color: '#666'
+                },
+                title: {
+                  display: true,
+                  text: '英語の理解度',
+                  color: '#333',
+                  font: {
+                    size: 14
+                  }
+                },
+                grid: {
+                  color: 'rgba(0, 0, 0, 0.1)'
                 }
               },
-              grid: {
-                color: 'rgba(0, 0, 0, 0.1)'
+              x: {
+                type: 'time',
+                time: {
+                  unit: 'year',
+                  displayFormats: {
+                    year: 'yyyy',
+                    month: 'yyyy/MM'
+                  },
+                  tooltipFormat: 'yyyy年MM月'
+                },
+                ticks: {
+                  color: '#666',
+                  maxRotation: 45,
+                  minRotation: 0,
+                  source: 'auto'
+                },
+                title: {
+                  display: true,
+                  text: '時期',
+                  color: '#333',
+                  font: {
+                    size: 14
+                  }
+                },
+                grid: {
+                  color: 'rgba(0, 0, 0, 0.1)'
+                }
               }
             }
           }
-        }
-      })
+        })
+      }
     }
+    document.head.appendChild(adapterScript)
   }
-  document.head.appendChild(script)
+  document.head.appendChild(chartScript)
 })
 </script>
 
