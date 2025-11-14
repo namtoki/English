@@ -143,10 +143,8 @@ transition: fade-out
 </div>
 
 <script setup>
-import { onMounted, ref, watch } from 'vue'
-import { useSlideContext } from '@slidev/client'
+import { onMounted, ref, watchEffect } from 'vue'
 
-const { $slidev } = useSlideContext()
 const chartInstance = ref(null)
 
 const allData = [
@@ -272,13 +270,14 @@ onMounted(() => {
 })
 
 // Watch for clicks and update chart
-watch(() => $slidev.nav.clicks, (clicks) => {
-  if (chartInstance.value) {
+watchEffect(() => {
+  if (chartInstance.value && typeof $clicks !== 'undefined') {
+    const clicks = $clicks.value || 0
     const pointsToShow = Math.min(clicks, allData.length)
     chartInstance.value.data.datasets[0].data = allData.slice(0, pointsToShow)
     chartInstance.value.update()
   }
-}, { immediate: true })
+})
 </script>
 
 <style scoped>
