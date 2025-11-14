@@ -667,7 +667,7 @@ class: text-center
 <div class="video-container">
   <iframe
     id="youtube-video"
-    src="https://www.youtube.com/embed/X2MNJVPcX3Q?si=MqmBrKx-p_2mHo48?autoplay=1&start=20&end=30&mute=0&controls=0&modestbranding=1&rel=0"
+    src="https://www.youtube.com/embed/X2MNJVPcX3Q?autoplay=1&start=135&end=146&mute=0&controls=0&modestbranding=1&rel=0"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
