@@ -144,6 +144,7 @@ transition: fade-out
 
 <script setup>
 import { onMounted, watch } from 'vue'
+import { $slidev } from '@slidev/client'
 
 onMounted(() => {
   // Load Chart.js
