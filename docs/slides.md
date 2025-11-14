@@ -186,6 +186,24 @@ onMounted(() => {
           options: {
             responsive: true,
             maintainAspectRatio: true,
+            animation: {
+              x: {
+                duration: 2000,
+                from: 0,
+                easing: 'easeInOutQuart'
+              },
+              y: {
+                duration: 2000,
+                easing: 'easeInOutQuart'
+              },
+              delay: (context) => {
+                let delay = 0;
+                if (context.type === 'data' && context.mode === 'default') {
+                  delay = context.dataIndex * 300;
+                }
+                return delay;
+              }
+            },
             plugins: {
               legend: {
                 display: true,
