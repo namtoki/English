@@ -69,27 +69,33 @@
   - `line up` /laɪn ʌp/             ([Casual] 並べる、手配する)     I'll line up meetings for next week.
 
 ## Do
-- ==go about== /ɡoʊ əˈbaʊt/           ([Neutral] 取り組む、着手する)  How do you go about fixing this?
-  - ==get on== /ɡet ɑːn/              ([Neutral] 取り掛かる)          I'll get on it right away.
-  - `get started on`                ([Neutral] 着手する、始める)    Let's get started on the analysis.
+- ==get on== /ɡet ɑːn/                ([Neutral] [今すぐ] 取り掛かる)   I'll get on it right away.
   - ==get to== /ɡet tuː/              ([Neutral] [少遅て] とりかかる)   I'll get to it as soon as I can.
     - `finally get to`              ([Neutral] ついに～する)        I finally got to meet her.
+  - `get started on`                ([Neutral] 着手する、始める)    Let's get started on the analysis.
   - ==get down to== /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
+  - `get going` /ɡet ˈɡoʊɪŋ/        ([Casual] 始める、出発する)     Let's get going!
   - `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
   - `get around to` /ɡet əˈraʊnd tuː([Neutral] [先延ばし] やっとする) I'll get around to fixing it soon.
   - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
-  - `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
-  - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
-  - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] [すぐ] 飛び込む)        Let's jump into the discussion.
-  - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
-  - `set about` /set əˈbaʊt/        ([Neutral] [計画的] 取り掛かる)   Let's set about solving this.
-  - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
   - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
+  - `get the ball rolling`          ([Casual] 始める、着手する)     Let's get the ball rolling.
+  - `launch` /lɔːntʃ/               ([Neutral] 開始する 立ち上げる) They launched a new product.
+  - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
+  - `set out to` /set aʊt tuː/      ([Neutral] 着手する、目指す)    We set out to improve efficiency.
+  - `dive into` /daɪv ˈɪntuː/       ([Casual] [詳細] 飛び込む)        Let's dive into the details.
+  - `jump into` /dʒʌmp ˈɪntuː/      ([Casual] [すぐ] 飛び込む)        Let's jump into the discussion.
+  - `set about` /set əˈbaʊt/        ([Neutral] [計画的] 取り掛かる)   Let's set about solving this.
+  - `get cracking` /ɡet ˈkrækɪŋ/    ([Casual] 始める、取り掛かる)   We need to get cracking on this.
+  - `get underway` /ɡet ˌʌndərˈweɪ/ ([Neutral] 始まる 進行中になる) The project is getting underway.
+  - `get things started`            ([Neutral] 物事を始める)        Let's get things started.
+  - `set the wheels in motion`      ([Neutral] 着手する)            We need to set the wheels in motion.
+  - `get the show on the road`      ([Casual] 始める、出発する)     Time to get the show on the road!
+  - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
   - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
-  - `get the ball rolling`          ([Casual] 始める、着手する) Let's get the ball rolling.
-  - `get things started`            ([Neutral] 物事を始める) Let's get things started.
-  - `get the show on the road`      ([Casual] 始める、出発する) Time to get the show on the road!
-  - `set the wheels in motion`      ([Neutral] 着手する) We need to set the wheels in motion.
+  - `initiate` /ɪˈnɪʃieɪt/          ([Formal] 始める、開始する)     We'll initiate the project next week.
+  - `inaugurate` /ɪˈnɔːɡjəreɪt/     ([Formal] 就任する、開始する)   They inaugurated the new building.
+- ==go about== /ɡoʊ əˈbaʊt/           ([Neutral] [+How] 取り組む 着手)  How do you go about fixing this?
 - ==work on== /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
   - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
   - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
@@ -326,6 +332,27 @@
   - `advance to` /ədˈvæns tuː/      ([Formal] 進む、前進する)       Let's advance to the next agenda item.
   - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
   - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
+
+## BEGINNING & STARTING
+  - `set off` /set ɔːf/             ([Neutral] 出発する、引き起こす) They set off early in the morning.
+  - `fire up` /ˈfaɪər ʌp/           ([Casual] 起動する、やる気にさせる) Fire up the computer.
+- `open` /ˈoʊpən/                   ([Neutral] 開く、開始する)       The store opens at 9 AM.
+- `originate` /əˈrɪdʒɪneɪt/        ([Formal] 起こる、始まる)        The idea originated in Japan.
+- `ensue` /ɪnˈsuː/                  ([Formal] 続いて起こる)          Chaos ensued after the announcement.
+
+## ENDING & COMPLETION
+- `be over` /biː ˈoʊvər/              ([Casual] うんざりしている)     I'm so over this job.
+  - `be tired of` /ˈtaɪərd əv/       ([Neutral] うんざりしている)    I'm tired of this situation.
+  - `have had enough` /hæv hæd ɪˈnʌf/ ([Neutral] もううんざりだ)      I've had enough of your excuses.
+  - `be sick and tired of`           ([Casual] 本当にうんざり)       I'm sick and tired of waiting.
+  - `be done with` /biː dʌn wɪð/     ([Casual] もう終わりにしたい)   I'm done with this discussion.
+- `cease`                            ([Neutral] やめる、やむ)
+- `consummate`                            ([Neutral] 完了させる)
+- `discontinue`                            ([Neutral] やめる、やむ、終わる)
+- `lapse`                            ([Neutral] 終わる、とまる)
+- `spike`                            ([Neutral] 大くぎで止める、スパイクを打ちつける)
+
+
 
 ## Effort
 - ==cut corners== /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.
