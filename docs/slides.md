@@ -136,6 +136,116 @@ base: /English/
 transition: fade-out
 ---
 
+# 英語遍歴
+
+<div class="chart-container">
+  <canvas id="englishJourneyChart"></canvas>
+</div>
+
+<script setup>
+import { onMounted } from 'vue'
+
+onMounted(() => {
+  const script = document.createElement('script')
+  script.src = 'https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js'
+  script.onload = () => {
+    const ctx = document.getElementById('englishJourneyChart')
+    if (ctx) {
+      new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: ['2008', '2010', '2012', '2014', '2016', '2018', '2020', '2022', '2024'],
+          datasets: [{
+            label: '英語の理解度',
+            data: [10, 15, 20, 30, 40, 50, 60, 75, 85],
+            borderColor: 'rgb(75, 192, 192)',
+            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+            tension: 0.4,
+            fill: true
+          }]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: true,
+          plugins: {
+            legend: {
+              display: true,
+              position: 'top',
+              labels: {
+                color: '#333',
+                font: {
+                  size: 14
+                }
+              }
+            },
+            title: {
+              display: false
+            }
+          },
+          scales: {
+            y: {
+              beginAtZero: true,
+              max: 100,
+              ticks: {
+                callback: function(value) {
+                  return value + '%'
+                },
+                color: '#666'
+              },
+              title: {
+                display: true,
+                text: '英語の理解度',
+                color: '#333',
+                font: {
+                  size: 14
+                }
+              },
+              grid: {
+                color: 'rgba(0, 0, 0, 0.1)'
+              }
+            },
+            x: {
+              ticks: {
+                color: '#666'
+              },
+              title: {
+                display: true,
+                text: '時期',
+                color: '#333',
+                font: {
+                  size: 14
+                }
+              },
+              grid: {
+                color: 'rgba(0, 0, 0, 0.1)'
+              }
+            }
+          }
+        }
+      })
+    }
+  }
+  document.head.appendChild(script)
+})
+</script>
+
+<style scoped>
+.chart-container {
+  width: 80%;
+  max-width: 800px;
+  height: 400px;
+  margin: 2rem auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+</style>
+
+---
+transition: fade-out
+---
+
 # 学習の目標
 
 継続的な英語力向上のための体系的アプローチ
