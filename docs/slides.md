@@ -142,8 +142,26 @@ transition: fade-out
   <canvas id="englishJourneyChart"></canvas>
 </div>
 
+<div v-click="1" style="height: 0; overflow: hidden;"></div>
+<div v-click="2" style="height: 0; overflow: hidden;"></div>
+<div v-click="3" style="height: 0; overflow: hidden;"></div>
+<div v-click="4" style="height: 0; overflow: hidden;"></div>
+<div v-click="5" style="height: 0; overflow: hidden;"></div>
+<div v-click="6" style="height: 0; overflow: hidden;"></div>
+
 <script setup>
-import { onMounted } from 'vue'
+import { onMounted, watch } from 'vue'
+
+const allDataPoints = [
+  { x: '2008-01-01', y: 40 },
+  { x: '2015-01-01', y: 30 },
+  { x: '2022-01-01', y: 15 },
+  { x: '2024-05-01', y: 35 },
+  { x: '2024-11-01', y: 35 },
+  { x: '2025-06-01', y: 50 }
+]
+
+let chart = null
 
 onMounted(() => {
   // Load Chart.js
@@ -158,19 +176,12 @@ onMounted(() => {
     adapterScript.onload = () => {
       const ctx = document.getElementById('englishJourneyChart')
       if (ctx) {
-        new Chart(ctx, {
+        chart = new Chart(ctx, {
           type: 'line',
           data: {
             datasets: [{
               label: '英語の理解度',
-              data: [
-                { x: '2008-01-01', y: 40 },
-                { x: '2015-01-01', y: 30 },
-                { x: '2022-01-01', y: 15 },
-                { x: '2024-05-01', y: 35 },
-                { x: '2024-11-01', y: 35 },
-                { x: '2025-06-01', y: 50 }
-              ],
+              data: [allDataPoints[0]],
               borderColor: 'rgb(75, 192, 192)',
               backgroundColor: 'rgba(75, 192, 192, 0.2)',
               tension: 0.4,
@@ -187,22 +198,8 @@ onMounted(() => {
             responsive: true,
             maintainAspectRatio: true,
             animation: {
-              x: {
-                duration: 2000,
-                from: 0,
-                easing: 'easeInOutQuart'
-              },
-              y: {
-                duration: 2000,
-                easing: 'easeInOutQuart'
-              },
-              delay: (context) => {
-                let delay = 0;
-                if (context.type === 'data' && context.mode === 'default') {
-                  delay = context.dataIndex * 300;
-                }
-                return delay;
-              }
+              duration: 800,
+              easing: 'easeInOutQuart'
             },
             plugins: {
               legend: {
@@ -243,6 +240,8 @@ onMounted(() => {
               },
               x: {
                 type: 'time',
+                min: '2008-01-01',
+                max: '2025-06-01',
                 time: {
                   unit: 'year',
                   displayFormats: {
@@ -277,6 +276,14 @@ onMounted(() => {
     document.head.appendChild(adapterScript)
   }
   document.head.appendChild(chartScript)
+})
+
+watch($clicks, (clicks) => {
+  if (!chart) return
+
+  const pointsToShow = Math.min(clicks + 1, allDataPoints.length)
+  chart.data.datasets[0].data = allDataPoints.slice(0, pointsToShow)
+  chart.update()
 })
 </script>
 
