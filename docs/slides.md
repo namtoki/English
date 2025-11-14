@@ -187,24 +187,26 @@ onMounted(() => {
     adapterScript.onload = () => {
       const ctx = document.getElementById('englishJourneyChart')
       if (ctx) {
-        // Load images
+        // Load images with base path
+        const basePath = import.meta.env.BASE_URL || '/'
+
         const kikutanImg = new Image()
-        kikutanImg.src = '/kikutan.png'
+        kikutanImg.src = basePath + 'kikutan.png'
 
         const satoriImg = new Image()
-        satoriImg.src = '/satori.png'
+        satoriImg.src = basePath + 'satori.png'
 
         const toeic2022Img = new Image()
-        toeic2022Img.src = '/toeic-2022.png'
+        toeic2022Img.src = basePath + 'toeic-2022.png'
 
         const toeic202405Img = new Image()
-        toeic202405Img.src = '/toeic-202406.png'
+        toeic202405Img.src = basePath + 'toeic-202406.png'
 
         const toeic202411Img = new Image()
-        toeic202411Img.src = '/toeic-202411.png'
+        toeic202411Img.src = basePath + 'toeic-202411.png'
 
         const eiken202506Img = new Image()
-        eiken202506Img.src = '/toeic-eiken-202506.png'
+        eiken202506Img.src = basePath + 'toeic-eiken-202506.png'
 
         // Helper function to draw image at data point
         const drawImageAtPoint = (ctx, img, baseX, baseY, width, height, offsetX = 0, offsetY = null) => {
