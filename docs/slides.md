@@ -143,7 +143,20 @@ transition: fade-out
 </div>
 
 <script setup>
-import { onMounted, watch } from 'vue'
+import { onMounted, ref, watch } from 'vue'
+import { useSlideContext } from '@slidev/client'
+
+const { $slidev } = useSlideContext()
+const chartInstance = ref(null)
+
+const allData = [
+  { x: '2008-01-01', y: 40 },
+  { x: '2015-01-01', y: 30 },
+  { x: '2022-01-01', y: 15 },
+  { x: '2024-05-01', y: 35 },
+  { x: '2024-11-01', y: 35 },
+  { x: '2025-06-01', y: 50 }
+]
 
 onMounted(() => {
   // Load Chart.js
@@ -158,16 +171,7 @@ onMounted(() => {
     adapterScript.onload = () => {
       const ctx = document.getElementById('englishJourneyChart')
       if (ctx) {
-        const allData = [
-          { x: '2008-01-01', y: 40 },
-          { x: '2015-01-01', y: 30 },
-          { x: '2022-01-01', y: 15 },
-          { x: '2024-05-01', y: 35 },
-          { x: '2024-11-01', y: 35 },
-          { x: '2025-06-01', y: 50 }
-        ]
-
-        const chart = new Chart(ctx, {
+        chartInstance.value = new Chart(ctx, {
           type: 'line',
           data: {
             datasets: [{
@@ -260,19 +264,21 @@ onMounted(() => {
             }
           }
         })
-
-        // Watch for clicks and update chart
-        watch(() => $slidev.nav.clicks, (clicks) => {
-          const pointsToShow = Math.min(clicks, allData.length)
-          chart.data.datasets[0].data = allData.slice(0, pointsToShow)
-          chart.update()
-        }, { immediate: true })
       }
     }
     document.head.appendChild(adapterScript)
   }
   document.head.appendChild(chartScript)
 })
+
+// Watch for clicks and update chart
+watch(() => $slidev.nav.clicks, (clicks) => {
+  if (chartInstance.value) {
+    const pointsToShow = Math.min(clicks, allData.length)
+    chartInstance.value.data.datasets[0].data = allData.slice(0, pointsToShow)
+    chartInstance.value.update()
+  }
+}, { immediate: true })
 </script>
 
 <style scoped>
