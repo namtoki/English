@@ -122,6 +122,166 @@ base: /English/
 </div>
 
 ---
+
+# 自己紹介
+
+<div class="profile-layout">
+
+<v-clicks>
+
+<div class="profile-header">
+  <h2>棚村俊之（36）</h2>
+  <p class="join-date">2023年10月 中途入社</p>
+  <p class="department">Product Software Headphone team</p>
+</div>
+
+<div class="career-timeline">
+  <div class="career-item">
+    <img src="/pioneer.png" alt="Pioneer" class="company-logo logo-pioneer" />
+    <div class="duration">3年弱</div>
+  </div>
+  <div class="career-item">
+    <img src="/fixstars.png" alt="Fixstars" class="company-logo logo-fixstars" />
+    <div class="duration">6年弱</div>
+  </div>
+  <div class="career-item">
+    <img src="/optim.png" alt="OPTiM" class="company-logo logo-optim" />
+    <div class="duration">3年弱</div>
+  </div>
+  <div class="career-item current">
+    <img src="/dandm.png" alt="D&M" class="company-logo logo-dandm" />
+    <div class="duration">現在</div>
+  </div>
+</div>
+
+<div class="info-section">
+  <p><strong>Like:</strong> Vim, Claude, Swift, Flutter, ROS,,,</p>
+  <p><strong>最近は AWS 勉強してる</strong></p>
+</div>
+
+<div class="hometown">
+  <p>名古屋出身でベイスターズファン</p>
+</div>
+
+</v-clicks>
+
+</div>
+
+<style scoped>
+.profile-layout {
+  padding: 1rem 2rem;
+  background: linear-gradient(135deg, rgba(245, 222, 179, 0.3), rgba(255, 248, 220, 0.3));
+}
+
+.profile-header {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.profile-header h2 {
+  font-size: 1.6rem;
+  color: #5d4037;
+  margin-bottom: 0.3rem;
+}
+
+.join-date {
+  font-size: 1rem;
+  color: #333;
+  font-weight: 500;
+}
+
+.department {
+  font-size: 0.9rem;
+  color: #666;
+  font-weight: 400;
+  margin-top: 0.3rem;
+}
+
+.career-timeline {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 12px;
+}
+
+.career-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.company-logo {
+  width: auto;
+  object-fit: contain;
+}
+
+.logo-pioneer {
+  height: 30px;  /* 3年 ≈ 50% */
+}
+
+.logo-fixstars {
+  height: 50px;  /* 6年 = 100% (最大) */
+}
+
+.logo-optim {
+  height: 30px;  /* 3年 ≈ 50% */
+}
+
+.logo-dandm {
+  height: 25px;  /* 2年 ≈ 33% */
+}
+
+.duration {
+  font-size: 0.8rem;
+  color: #666;
+  font-weight: 500;
+}
+
+.career-item.current .duration {
+  color: rgba(16, 185, 129, 1);
+  font-weight: bold;
+}
+
+.info-section {
+  background: rgba(255, 255, 255, 0.7);
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.info-section p {
+  font-size: 0.95rem;
+  color: #333;
+  margin: 0.5rem 0;
+}
+
+.info-section strong {
+  color: #5d4037;
+}
+
+.hometown {
+  text-align: center;
+  padding: 0.8rem;
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 12px;
+  border: 2px dashed rgba(239, 68, 68, 0.4);
+}
+
+.hometown p {
+  font-size: 1rem;
+  color: #333;
+  margin: 0;
+  font-weight: 500;
+}
+</style>
+
+---
 transition: fade-out
 ---
 
@@ -507,8 +667,7 @@ class: text-center
 <div class="video-container">
   <iframe
     id="youtube-video"
-    <!-- src="https://www.youtube.com/embed/X2MNJVPcX3Q?si=MqmBrKx-p_2mHo48?autoplay=1&start=0&end=10&mute=0&controls=0&modestbranding=1&rel=0" -->
-    src="https://www.youtube.com/embed/VIDEO_ID?autoplay=1&start=0&end=10&mute=0&controls=0&modestbranding=1&rel=0"
+    src="https://www.youtube.com/embed/X2MNJVPcX3Q?si=MqmBrKx-p_2mHo48?autoplay=1&start=20&end=30&mute=0&controls=0&modestbranding=1&rel=0"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
@@ -1484,3 +1643,7 @@ transition: fade-out
   color: rgba(16, 185, 129, 1);
 }
 </style>
+
+
+---
+
