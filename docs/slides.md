@@ -699,3 +699,788 @@ transition: fade-out
 transition: fade-out
 ---
 
+# 英語学習の分析
+
+<div class="skill-image-container">
+  <img src="/skill.png" alt="4技能と学習領域" class="skill-chart" />
+
+  <div v-click class="focus-box">
+    <div class="focus-label">とりあえずここやろう</div>
+  </div>
+</div>
+
+<style scoped>
+.skill-image-container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4rem;
+  height: 100%;
+}
+
+.skill-chart {
+  max-width: 90%;
+  max-height: 80vh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+.focus-box {
+  position: absolute;
+  top: 79%;
+  left: 51.5%;
+  width: 600px;
+  height: 100px;
+  border: 4px solid red;
+  background: transparent;
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 0.5rem;
+}
+
+.focus-label {
+  background: rgba(255, 0, 0, 0.9);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 1rem;
+  white-space: nowrap;
+}
+</style>
+
+---
+transition: fade-out
+---
+
+# まずは基礎固め：文法と単語
+
+<div class="foundation-layout">
+
+<v-clicks>
+
+## 📚 取り組んだこと（2023年10月〜2024年5月：半年間）
+
+<div class="approach-box">
+  <div class="approach-item">
+    <h3>📖 文法</h3>
+    <p>基礎文法を一から学び直し</p>
+  </div>
+
+  <div class="approach-item">
+    <h3>📝 単語</h3>
+    <p>頻出単語を集中的に学習</p>
+  </div>
+</div>
+
+## 🎯 成果
+
+<div class="result-box">
+  <div class="result-year">2024年5月</div>
+  <div class="result-score">TOEIC <span class="score-number">755</span>点 取得</div>
+  <div class="result-comment">半年間の基礎固めで着実にスコアアップ！</div>
+
+  <div v-click class="timeline-container">
+    <img src="/timeline.png" alt="Timeline" class="timeline-img" />
+    <div class="timeline-focus-box"></div>
+  </div>
+</div>
+
+</v-clicks>
+
+</div>
+
+<style scoped>
+.foundation-layout {
+  padding: 1rem 2rem;
+}
+
+.foundation-layout h2 {
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.approach-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.approach-item {
+  background: rgba(59, 130, 246, 0.1);
+  border: 2px solid rgba(59, 130, 246, 0.3);
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.approach-item h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.approach-item p {
+  font-size: 0.9rem;
+  margin: 0.3rem 0;
+  color: #333;
+}
+
+.result-box {
+  position: relative;
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(59, 130, 246, 0.2));
+  border: 3px solid rgba(16, 185, 129, 0.5);
+  border-radius: 16px;
+  padding: 1.5rem;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.result-year {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: rgba(16, 185, 129, 1);
+  margin-bottom: 0.8rem;
+}
+
+.result-score {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 0.8rem;
+  color: #333;
+}
+
+.score-number {
+  font-size: 2.5rem;
+  color: rgba(16, 185, 129, 1);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.result-comment {
+  font-size: 1rem;
+  color: #444;
+  font-style: italic;
+}
+
+.timeline-container {
+  position: absolute;
+  top: -20px;
+  right: -60px;
+  width: 200px;
+  height: 150px;
+}
+
+.timeline-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.timeline-focus-box {
+  position: absolute;
+  top: 50%;
+  left: 89%;
+  width: 15px;
+  height: 80px;
+  border: 2px solid red;
+  background: transparent;
+  transform: translate(-50%, -50%);
+}
+</style>
+
+---
+transition: fade-out
+---
+
+# 次の挑戦：英会話
+
+<div class="foundation-layout conversation">
+
+<v-clicks>
+
+## 🗣️ 取り組んだこと（2024年6月〜11月：半年間）
+
+<div class="approach-box">
+  <div class="approach-item failure">
+    <h3>💬 英会話</h3>
+    <p>オンライン英会話に挑戦</p>
+  </div>
+
+  <div class="approach-item failure">
+    <h3>🤔 結果</h3>
+    <p>何も口から出ない...</p>
+  </div>
+</div>
+
+## 😰 課題発見
+
+<div class="result-box failure">
+  <div class="result-year failure">2024年11月</div>
+  <div class="result-score">TOEIC <span class="score-number">750</span>点（変化なし）</div>
+  <div class="result-comment failure">
+    <strong>発音知識</strong>と<strong>語法の知見</strong>が無いと何も話せない...
+  </div>
+
+  <div v-click class="timeline-container">
+    <img src="/timeline.png" alt="Timeline" class="timeline-img" />
+    <div class="timeline-focus-box-2"></div>
+  </div>
+</div>
+
+</v-clicks>
+
+</div>
+
+<style scoped>
+.foundation-layout {
+  padding: 1rem 2rem;
+}
+
+.foundation-layout h2 {
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.approach-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.approach-item {
+  background: rgba(59, 130, 246, 0.1);
+  border: 2px solid rgba(59, 130, 246, 0.3);
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.approach-item.failure {
+  background: rgba(239, 68, 68, 0.05);
+  border: 2px solid rgba(239, 68, 68, 0.3);
+}
+
+.approach-item h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.approach-item p {
+  font-size: 0.9rem;
+  margin: 0.3rem 0;
+  color: #333;
+}
+
+.result-box {
+  position: relative;
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(59, 130, 246, 0.2));
+  border: 3px solid rgba(16, 185, 129, 0.5);
+  border-radius: 16px;
+  padding: 1.5rem;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.result-box.failure {
+  background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), rgba(245, 158, 11, 0.1));
+  border: 3px solid rgba(239, 68, 68, 0.5);
+}
+
+.result-year {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: rgba(16, 185, 129, 1);
+  margin-bottom: 0.8rem;
+}
+
+.result-year.failure {
+  color: rgba(239, 68, 68, 1);
+}
+
+.result-score {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 0.8rem;
+  color: #333;
+}
+
+.score-number {
+  font-size: 2.5rem;
+  color: rgba(16, 185, 129, 1);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.result-comment {
+  font-size: 1rem;
+  color: #444;
+  font-style: italic;
+}
+
+.result-comment.failure {
+  font-size: 1rem;
+  color: #333;
+  font-style: normal;
+  line-height: 1.5;
+}
+
+.result-comment.failure strong {
+  color: rgba(239, 68, 68, 1);
+  font-weight: bold;
+}
+
+.foundation-layout.conversation .approach-box {
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.foundation-layout.conversation h2 {
+  margin-bottom: 0.8rem;
+  font-size: 1.2rem;
+}
+
+.foundation-layout.conversation {
+  padding: 0.5rem 2rem;
+}
+
+.foundation-layout.conversation .result-box {
+  padding: 1.2rem;
+}
+
+.foundation-layout.conversation .result-comment.failure {
+  font-size: 0.95rem;
+}
+
+.timeline-container {
+  position: absolute;
+  top: -20px;
+  right: -60px;
+  width: 200px;
+  height: 150px;
+}
+
+.timeline-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.timeline-focus-box-2 {
+  position: absolute;
+  top: 50%;
+  left: 94%;
+  width: 8px;
+  height: 80px;
+  border: 2px solid red;
+  background: transparent;
+  transform: translate(-50%, -50%);
+}
+</style>
+
+---
+transition: fade-out
+---
+
+# 再挑戦：発音と語法
+
+<div class="foundation-layout conversation">
+
+<v-clicks>
+
+## 📚 取り組んだこと（2024年11月〜2025年5月）
+
+<div class="approach-box">
+  <div class="approach-item">
+    <h3>🗣️ 発音</h3>
+    <p>発音記号から徹底学習</p>
+  </div>
+<div class="approach-item">
+    <h3>📖 語法</h3>
+    <p>表現パターンを習得</p>
+  </div>
+</div>
+
+## 🎯 成果
+
+<div class="result-box">
+  <div class="result-year">2025年6月</div>
+  <div class="result-score">TOEIC <span class="score-number">840</span>点</div>
+  <div class="result-comment">
+    <strong>発音</strong>と<strong>語法</strong>の学習でスコアアップ！
+  </div>
+
+  <div v-click class="timeline-container">
+    <img src="/timeline.png" alt="Timeline" class="timeline-img" />
+    <div class="timeline-focus-box-3"></div>
+  </div>
+</div>
+
+</v-clicks>
+
+</div>
+
+<style scoped>
+.foundation-layout {
+  padding: 1rem 2rem;
+}
+
+.foundation-layout.conversation {
+  padding: 0.5rem 2rem;
+}
+
+.foundation-layout h2 {
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.foundation-layout.conversation h2 {
+  margin-bottom: 0.8rem;
+  font-size: 1.2rem;
+}
+
+.approach-box {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.foundation-layout.conversation .approach-box {
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.approach-item {
+  background: rgba(59, 130, 246, 0.1);
+  border: 2px solid rgba(59, 130, 246, 0.3);
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+}
+
+.approach-item h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.approach-item p {
+  font-size: 0.9rem;
+  margin: 0.3rem 0;
+  color: #333;
+}
+
+.result-box {
+  position: relative;
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(59, 130, 246, 0.2));
+  border: 3px solid rgba(16, 185, 129, 0.5);
+  border-radius: 16px;
+  padding: 1.5rem;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.foundation-layout.conversation .result-box {
+  padding: 1.2rem;
+}
+
+.result-year {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: rgba(16, 185, 129, 1);
+  margin-bottom: 0.8rem;
+}
+
+.result-score {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 0.8rem;
+  color: #333;
+}
+
+.score-number {
+  font-size: 2.5rem;
+  color: rgba(16, 185, 129, 1);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.result-comment {
+  font-size: 1rem;
+  color: #444;
+  font-style: italic;
+}
+
+.foundation-layout.conversation .result-comment {
+  font-size: 0.95rem;
+}
+
+.result-comment strong {
+  color: rgba(16, 185, 129, 1);
+  font-weight: bold;
+}
+
+.timeline-container {
+  position: absolute;
+  top: -20px;
+  right: -60px;
+  width: 200px;
+  height: 150px;
+}
+
+.timeline-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.timeline-focus-box-3 {
+  position: absolute;
+  top: 50%;
+  left: 96%;
+  width: 6px;
+  height: 80px;
+  border: 1px solid red;
+  background: transparent;
+  transform: translate(-50%, -50%);
+}
+</style>
+
+---
+transition: fade-out
+---
+
+# 今取り組んでいること
+
+<div class="current-work-layout">
+
+<v-clicks>
+
+<div class="work-grid">
+  <div class="work-item">
+    <div class="work-icon">📚</div>
+    <h3>構文解析本の学習</h3>
+    <p>英文の構造を深く理解</p>
+  </div>
+
+  <div class="work-item">
+    <div class="work-icon">📝</div>
+    <h3>単語学習の継続</h3>
+    <p>語彙力を着実に強化</p>
+  </div>
+
+  <div class="work-item">
+    <div class="work-icon">🎧</div>
+    <h3>YouTube動画の多聴/精聴</h3>
+    <p>ネイティブの生の英語に触れる</p>
+  </div>
+
+  <div class="work-item">
+    <div class="work-icon">🗣️</div>
+    <h3>発話基礎練習</h3>
+    <p>実際に口を動かして練習</p>
+  </div>
+</div>
+
+<div class="goal-message">
+  <strong>目標：2025年末までにTOEIC 880点突破！</strong>
+</div>
+
+</v-clicks>
+
+</div>
+
+<style scoped>
+.current-work-layout {
+  padding: 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+.work-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.work-item {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(147, 51, 234, 0.1));
+  border: 2px solid rgba(59, 130, 246, 0.4);
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.work-item:hover {
+  transform: translateY(-5px);
+}
+
+.work-icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.work-item h3 {
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+  color: rgba(59, 130, 246, 1);
+}
+
+.work-item p {
+  font-size: 0.85rem;
+  color: #555;
+  margin: 0;
+}
+
+.goal-message {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(59, 130, 246, 0.2));
+  border: 3px solid rgba(16, 185, 129, 0.6);
+  border-radius: 12px;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.goal-message strong {
+  color: rgba(16, 185, 129, 1);
+}
+</style>
+
+---
+transition: fade-out
+---
+
+# これからやりたいこと
+
+<div class="future-layout">
+
+<v-clicks>
+
+<div class="future-content">
+  <div class="future-icon">🌟</div>
+  <h2>英会話への再挑戦</h2>
+
+  <div class="reason-box">
+    <p>発音と語法を学んだ今なら、きっと話せるはず！</p>
+  </div>
+
+  <div class="service-highlight">
+    <div class="service-icon">💬</div>
+    <h3>Cambly が気になっている</h3>
+    <ul>
+      <li>ネイティブ講師とマンツーマン</li>
+      <li>24時間いつでも予約なしでレッスン可能</li>
+      <li>実践的な会話力を鍛えられる</li>
+    </ul>
+  </div>
+
+  <div class="message-box">
+    <strong>基礎を固めた今こそ、実践の時！</strong>
+  </div>
+</div>
+
+</v-clicks>
+
+</div>
+
+<style scoped>
+.future-layout {
+  padding: 1.5rem 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.future-content {
+  text-align: center;
+  max-width: 700px;
+}
+
+.future-icon {
+  font-size: 4rem;
+  margin-bottom: 1rem;
+}
+
+.future-content h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: rgba(59, 130, 246, 1);
+}
+
+.reason-box {
+  background: rgba(245, 158, 11, 0.1);
+  border: 2px solid rgba(245, 158, 11, 0.4);
+  border-radius: 12px;
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.reason-box p {
+  font-size: 1.1rem;
+  color: #333;
+  margin: 0;
+  font-weight: 500;
+}
+
+.service-highlight {
+  background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(147, 51, 234, 0.1));
+  border: 3px solid rgba(59, 130, 246, 0.5);
+  border-radius: 16px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.service-icon {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.service-highlight h3 {
+  font-size: 1.3rem;
+  color: rgba(59, 130, 246, 1);
+  margin-bottom: 1rem;
+}
+
+.service-highlight ul {
+  text-align: left;
+  display: inline-block;
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.service-highlight li {
+  font-size: 0.95rem;
+  color: #444;
+  margin: 0.5rem 0;
+}
+
+.message-box {
+  background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(59, 130, 246, 0.2));
+  border: 3px solid rgba(16, 185, 129, 0.6);
+  border-radius: 12px;
+  padding: 1.2rem;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.message-box strong {
+  color: rgba(16, 185, 129, 1);
+}
+</style>
