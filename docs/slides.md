@@ -154,14 +154,20 @@ onMounted(() => {
       new Chart(ctx, {
         type: 'line',
         data: {
-          labels: ['2008', '2010', '2012', '2014', '2016', '2018', '2020', '2022', '2024'],
+          labels: ['2008', '2015', '2022', '2024/05', '2024/11', '2025/06'],
           datasets: [{
             label: '英語の理解度',
-            data: [10, 15, 20, 30, 40, 50, 60, 75, 85],
+            data: [40, 30, 15, 35, 35, 50],
             borderColor: 'rgb(75, 192, 192)',
             backgroundColor: 'rgba(75, 192, 192, 0.2)',
             tension: 0.4,
-            fill: true
+            fill: true,
+            borderWidth: 3,
+            pointRadius: 5,
+            pointBackgroundColor: 'rgb(75, 192, 192)',
+            pointBorderColor: '#fff',
+            pointBorderWidth: 2,
+            pointHoverRadius: 7
           }]
         },
         options: {
@@ -206,7 +212,9 @@ onMounted(() => {
             },
             x: {
               ticks: {
-                color: '#666'
+                color: '#666',
+                maxRotation: 45,
+                minRotation: 0
               },
               title: {
                 display: true,
