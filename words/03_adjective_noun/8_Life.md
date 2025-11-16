@@ -1489,3 +1489,12 @@
 > `better than nothing`              ([Casual] ないよりマシ)         It's not perfect, but it's better than nothing.
   - `something is better than nothing` ([Neutral] 何かはないよりマシ)  Even a small donation is better than nothing.
 
+
+## SOCIAL CRITICISM / MOCKERY
+- `derision` /dɪˈrɪʒən/             ([Formal] 嘲笑、あざけり)       His ideas were met with derision.
+  - `derisive` /dɪˈraɪsɪv/          ([Formal] 嘲笑的な)             She made a derisive comment.
+- `ostracism` /ˈɑːstrəsɪzəm/        ([Formal] 追放、排斥)           The ostracism was painful.
+- `vilification`                    ([Writing] 中傷、悪口)          The vilification was unjustified.
+
+## MANNER / TONE
+- `meltingly` /ˈmeltɪŋli/           ([Neutral] やさしく、優しげに)  She spoke meltingly to the child.

@@ -94,6 +94,11 @@
   - `have a bone to pick with`      ([Casual] 文句がある)           I have a bone to pick with you about yesterday.
   - `have an axe to grind`          ([Neutral] 私怨がある)          He has an axe to grind with the company.
   - `air grievances`                ([Formal] 不満を表明する)       The staff met to air their grievances.
+- `be over` /biː ˈoʊvər/              ([Casual] うんざりしている)     I'm so over this job.
+  - `be tired of` /ˈtaɪərd əv/       ([Neutral] うんざりしている)    I'm tired of this situation.
+  - `have had enough` /hæv hæd ɪˈnʌf/ ([Neutral] もううんざりだ)      I've had enough of your excuses.
+  - `be sick and tired of`           ([Casual] 本当にうんざり)       I'm sick and tired of waiting.
+  - `be done with` /biː dʌn wɪð/     ([Casual] もう終わりにしたい)   I'm done with this discussion.
 
 ## Suggestion
 - ==I would== /aɪ wʊd/                ([Polite] 私なら〜します)       I would suggest taking a break.

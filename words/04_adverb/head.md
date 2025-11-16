@@ -208,6 +208,7 @@
   - `at any rate` /æt ˈeni reɪt/    ([Neutral] とにかく)            At any rate, let's move forward.
   - `anyhow` /ˈenɪhaʊ/              ([Casual] とにかく)             Anyhow, that's my opinion on it.
   - `nonetheless` /ˌnʌnðəˈles/      ([Neutral] それにもかかわらず)  Nonetheless, we must continue trying.
+  - `admittedly` /ədˈmɪtɪdli/       ([Neutral] 確かに、認めるが)    Admittedly, it was a mistake.
 - ==overall== /ˌoʊvərˈɔːl/            ([Neutral] 全体的に)            Overall, the project was a success.
   - `all in all` /ɔːl ɪn ɔːl/       ([Neutral] 全体として)          All in all, it was a good experience.
 - `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.

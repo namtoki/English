@@ -6,15 +6,18 @@
   - `feel` /fiːl/                   ([Neutral] だと思う、感じる)    I feel this is the best option.
   - `figure` /ˈfɪɡər/               ([Casual] だと思う、考える)     I figure we should leave now.
   - `reckon` /ˈrekən/               ([Casual] だと思う、計算する)   I reckon it'll rain today.
+  - `repute` /rɪˈpjuːt/             ([Formal] 考える、みなす)      He is reputed to be an expert.
+  - `deem` /diːm/                   ([Formal] 考える、意見をもつ)  I deem it necessary to act now.
 - `consider` /kənˈsɪdə/             ([Neutral] 検討する、考える)    We need to consider all options.
-  - `think over` /θɪŋk ˈəʊvə/       ([Neutral] よく考える)          Let me think over your proposal.
+  - ==think over== /θɪŋk ˈəʊvə/       ([Neutral] よく考える)          Let me think over your proposal.
   - `sleep on` /sliːp ɒn/           ([Casual] 一晩考える)           Let me sleep on it and give you an answer tomorrow.
   - `reflect on` /rɪˈflekt ɒn/      ([Neutral] 振り返って考える)    I need time to reflect on what happened.
-  - `mull over` /mʌl ˈəʊvə/         ([Neutral] じっくり考える)      I need to mull over the decision.
   - ==weigh up== /weɪ ʌp/             ([Neutral] 比較検討する)        We need to weigh up all the pros and cons.
-  - `chew over` /tʃuː ˈəʊvə/        ([Casual] じっくり考える)       Let me chew over your idea for a bit.
+  - `mull over` /mʌl ˈəʊvə/         ([Neutral] じっくり考える)      I need to mull over the decision.
   - `contemplate` /ˈkɒntəmpleɪt/    ([Formal] 熟考する、検討する)   I'm contemplating a career change.
   - `ponder` /ˈpɒndə/               ([Formal] じっくり考える)       He pondered the question for a moment.
+  - `chew over` /tʃuː ˈəʊvə/        ([Casual] じっくり考える)       Let me chew over your idea for a bit.
+  - `brood` /bruːd/                 ([Neutral] くよくよ考える)      She broods over past mistakes.
   - `deliberate` /dɪˈlɪbəreɪt/      ([Formal] 熟考する、審議する)   The jury deliberated for two hours.
 - ==come up with== /kʌm ʌp wɪð/       ([Neutral] 思いつく、考え出す)  She came up with a great idea.
   - ==get an idea== /ɡet ən aɪˈdiːə/  ([Neutral] アイデアを思いつく)  I just got an idea!
@@ -37,22 +40,33 @@
   - `picture` /ˈpɪktʃər/            ([Neutral] 想像する、思い描く)  I can picture the scene clearly.
   - `visualize` /ˈvɪʒuəlaɪz/        ([Neutral] 視覚化する 想像する) Try to visualize the solution.
   - `envision` /ɪnˈvɪʒən/           ([Neutral] 心に描く 想像する)   I envision a better future.
+  - `envisage` /ɪnˈvɪzɪdʒ/          ([Formal] 心に描く、予想する)   I envisage a bright future.
   - `conceive` /kənˈsiːv/           ([Formal] 具体的な創造)         She conceived the idea during her commute.
   - `conceive of` /kənˈsiːv/        ([Formal] 抽象的な想像・理解)   I can't conceive of such cruelty.
   - `fancy` /ˈfænsi/                ([Casual] 想像する、思う)       I fancy he's already left.
   - `fantasize about` /ˈfæntəsaɪz/  ([Neutral] 空想する、夢想する)  She fantasizes about traveling.
   - `conjure` /ˈkʌndʒər/            ([Writing] 呼び起こす 想像する) He conjured images of ancient times.
+
+## Guess
 - `guess` /ɡes/                     ([Neutral] 推測する)            I can only guess what happened.
   - `assume` /əˈsuːm/               ([Neutral] 仮定する、思い込む)  Don't assume I know what you mean.
-  - `presume` /prɪˈzuːm/            ([Formal] 推定する、仮定する)   I presume you've heard the news.
   - `suppose` /səˈpoʊz/             ([Neutral] 想定する、思う)      I suppose you're right.
   - `speculate` /ˈspekjəleɪt/       ([Neutral] 推測する、投機する)  We can only speculate about the cause.
+  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   What can we infer from this data?
+  - `presume` /prɪˈzuːm/            ([Formal] 推定する、仮定する)   I presume you've heard the news.
+  - `theorize` /ˈθiːəraɪz/          ([Neutral] 理論化する)          They theorized about the origins.
+  - ==deduct== /dɪˈdʌkt/              ([Neutral] 差し引く、推論する)  I deducted the answer from the clues.
+  - `hypothesize` /haɪˈpɑːθəsaɪz/   ([Formal] 仮説を立てる)         Scientists hypothesize about dark matter.
   - `surmise` /sərˈmaɪz/            ([Formal] 推測する、推量する)   I surmised that he was upset.
   - `conjecture` /kənˈdʒektʃər/     ([Writing] 推測、臆測)          It's all conjecture at this point.
-  - `hypothesize` /haɪˈpɑːθəsaɪz/   ([Formal] 仮説を立てる)         Scientists hypothesize about dark matter.
   - `postulate` /ˈpɑːstʃəleɪt/      ([Writing] 仮定する、要請する)  Einstein postulated the speed of light.
-  - `theorize` /ˈθiːəraɪz/          ([Neutral] 理論化する)          They theorized about the origins.
-  - `infer` /ɪnˈfɜːr/               ([Formal] 推論する、推測する)   What can we infer from this data?
+- `doubt` /daʊt/                    ([Neutral] 疑う、疑問に思う)    I doubt that's true.
+  - `question` /ˈkwestʃən/          ([Neutral] 疑問視する、疑う)    I question his judgment.
+  - `suspect` /səˈspekt/            ([Neutral] 疑う、怪しむ)        I suspect he's lying.
+  - `distrust` /dɪsˈtrʌst/          ([Neutral] 信頼しない、疑う)    I distrust his motives.
+  - `mistrust` /mɪsˈtrʌst/          ([Neutral] 信用しない、疑う)    She mistrusts politicians.
+  - `be skeptical of` /ˈskeptɪkəl/  ([Neutral] 懐疑的である)        I'm skeptical of his claims.
+  - `be suspicious of` /səˈspɪʃəs/  ([Neutral] 疑わしく思う)        I'm suspicious of his intentions.
 
 ## Recognition
 - `recognize` /ˈrekəɡnaɪz/          ([Neutral] 見分ける、認める)    I didn't recognize him at first.
@@ -129,6 +143,7 @@
   - `have no clue` /hæv nəʊ kluː/   ([Casual] 全くわからない)       I have no clue what you're talking about.
   - `have trouble understanding`    ([Neutral] 理解に苦労する)      I'm having trouble understanding this.
   - `be clueless` /biː ˈkluːləs/    ([Casual] 無知ある わかてない)  He's completely clueless about computers.
+  - `elude` /ɪˈluːd/                ([Neutral] 避ける、理解できない) The answer eludes me.
 - `be lost`                         ([Neutral] ついていけない)      I'm lost in this discussion.
   - `be completely lost`            ([Casual] 完全にわからない)     I'm completely lost.
   - `not follow`                    ([Neutral] ついていけない)      I can't follow your logic.
@@ -141,3 +156,57 @@
   - `not wrap one's head around`    ([Casual] 理解できない)         I can't wrap my head around it.
   - `not sure one follows`          ([Formal] ついていけていない)   I'm not sure I follow.
   - `blank out`                     ([Casual] 頭が真っ白になる)     I blanked out during the exam.
+
+## Good Feeling
+- `thank` /θæŋk/                    ([Neutral] 感謝する、礼を言う)  Thank you for your help.
+  - `appreciate` /əˈpriːʃieɪt/      ([Neutral] 感謝する、評価する)  I appreciate your help with this project.
+  - `acknowledge` /əkˈnɑːlɪdʒ/      ([Formal] 認める、感謝を示す)   I acknowledge your contribution.
+  - `be grateful` /ˈɡreɪtfəl/       ([Neutral] 感謝している)        I'm grateful for your assistance.
+  - `be thankful` /ˈθæŋkfəl/        ([Neutral] 感謝している)        I'm thankful for this opportunity.
+  - `be appreciative` /əˈpriːʃətɪv/ ([Formal] 感謝している)         She was appreciative of their support.
+  - `be obliged` /əˈblaɪdʒd/        ([Formal] 恩義を感じる)         I'm much obliged for your help.
+  - `be indebted` /ɪnˈdetɪd/        ([Formal] 恩義がある)           I'm indebted to you for this.
+  - `be beholden` /bɪˈhoʊldən/      ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
+  - `owe` /oʊ/                      ([Neutral] 借りがある 恩がある) I owe you a debt of gratitude.
+- `respect` /rɪˈspekt/              ([Neutral] 尊敬、尊重)          I have great respect for her work.
+  - ==look up to== /lʊk ʌp tuː/       ([Casual] 尊敬する、見上げる)   Children look up to their parents.
+  - `honor` /ˈɑːnər/                ([Formal] 敬う、名誉を与える)   We honor their sacrifice.
+  - `regard` /rɪˈɡɑːrd/             ([Neutral] 見なす、敬意)        I regard him as a mentor.
+  - `esteem` /ɪˈstiːm/              ([Formal] 重んじる、尊敬)       She is held in high esteem by colleagues.
+  - `idolize` /ˈaɪdəlaɪz/           ([Neutral] 偶像化する、崇拝)    Fans idolize the rock star.
+  - `salute` /səˈluːt/              ([Neutral] 敬礼、敬意表す)      The soldiers saluted their commanding officer.
+  - `worship` /ˈwɜːrʃɪp/            ([Neutral] 崇拝する、礼拝する)  Some cultures worship nature.
+  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your expertise.
+  - `revere` /rɪˈvɪr/               ([Writing] あがめる)            Many people revere his memory.
+  - `venerate` /ˈvenəreɪt/          ([Writing] 崇拝する、尊敬する)  They venerate their ancestors.
+- `praise` /preɪz/                  ([Neutral] 称賛する、褒める)    She praised him for his hard work.
+  - `congratulate` /kənˈɡrætʃəleɪt/ ([Neutral] 祝う、褒める)        Congratulate her on the promotion!
+  - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、賞賛)      The audience applauded enthusiastically.
+  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認める、表彰する)    The company recognized his efforts.
+  - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit her with the success.
+  - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   The teacher commended her excellent performance.
+  - `celebrate` /ˈseləbreɪt/        ([Neutral] 祝う、称える)        Let's celebrate your achievement!
+  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、感嘆する)  I admire your dedication.
+  - `acclaim` /əˈkleɪm/             ([Formal] 絶賛する、喝采)       The film received critical acclaim.
+  - `hail` /heɪl/                   ([Neutral] 称賛する、歓迎する)  Critics hailed it as a masterpiece.
+  - `glorify` /ˈɡlɔːrɪfaɪ/          ([Neutral] 賛美する、美化する)  Don't glorify bad behavior.
+  - `exalt` /ɪɡˈzɔːlt/              ([Writing] 称賛する、高める)    They exalted his achievements.
+  - `laud` /lɔːd/                   ([Writing] 賞賛する、称える)    Critics lauded the novel's innovative style.
+  - `extol` /ɪkˈstoʊl/              ([Writing] 賞賛する、讃える)    Critics extol the director's latest film.
+  - `eulogize` /ˈjuːlədʒaɪz/        ([Writing] 賛美する、弔辞)      He eulogized his late mentor.
+  - `lionize` /ˈlaɪənaɪz/           ([Writing] もてはやす 有名人扱) The media lionized the young athlete.
+- `cherish` /ˈtʃerɪʃ/               ([Neutral] 大切にする 心に抱く) I cherish these memories.
+  - `treasure` /ˈtreʒər/            ([Neutral] 大切にする 宝物扱い) I treasure your advice.
+  - `value` /ˈvæljuː/               ([Neutral] 価値を認める 大切に) I value your opinion highly.
+
+## Bad Feeling
+- `stand` /stænd/                   ([Neutral] 耐える)              I can't stand the noise.
+  - `tolerate` /ˈtɑːləreɪt/         ([Neutral] 耐える、我慢する)    I won't tolerate such behavior.
+  - `bear` /ber/                    ([Neutral] 耐える)              I can't bear the pain.
+  - `endure` /ɪnˈdʊr/               ([Neutral] 耐え忍ぶ)            She endured years of hardship.
+  - ==put up with== /pʊt ʌp wɪð/      ([Casual] 我慢する)             I won't put up with this anymore.
+  - `abide` /əˈbaɪd/                ([Writing] 我慢する)            I can't abide his behavior.
+  - `withstand` /wɪðˈstænd/         ([Neutral] 耐える、抵抗する)    The building withstood the earthquake.
+- `rue` /ruː/                        ([Neutral] 悔いる、後悔する)    He rued his hasty decision.
+- `delude` /dɪˈluːd/                 ([Neutral] 惑わす、欺く)        Don't delude yourself.
+- `deplore` /dɪˈplɔːr/               ([Formal] 嘆く、遺憾に思う)     We deplore this violent act.

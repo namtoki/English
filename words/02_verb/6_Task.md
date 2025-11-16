@@ -75,10 +75,10 @@
   - `get started on`                ([Neutral] 着手する、始める)    Let's get started on the analysis.
   - ==get down to== /ɡet daʊn tuː/    ([Neutral] [本格的] 取り組む)     Let's get down to business.
   - `get going` /ɡet ˈɡoʊɪŋ/        ([Casual] 始める、出発する)     Let's get going!
-  - `get on with` /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
+  - ==get on with== /ɡet ɑːn wɪð/     ([Casual] [再会] 取り掛かる)      Let's get on with the task.
   - `get around to` /ɡet əˈraʊnd tuː([Neutral] [先延ばし] やっとする) I'll get around to fixing it soon.
   - `start on` /stɑːrt ɑːn/         ([Neutral] 着手する、始める)    I'll start on the report tomorrow.
-  - `start working on`              ([Neutral] 着手する、始める)    Let's start working on the project.
+  - `start ==working on==`              ([Neutral] 着手する、始める)    Let's start working on the project.
   - `get the ball rolling`          ([Casual] 始める、着手する)     Let's get the ball rolling.
   - `launch` /lɔːntʃ/               ([Neutral] 開始する 立ち上げる) They launched a new product.
   - `launch into` /lɔːntʃ ˈɪntuː/   ([Neutral] [勢い] 始める)         She launched into her presentation.
@@ -92,27 +92,27 @@
   - `set the wheels in motion`      ([Neutral] 着手する)            We need to set the wheels in motion.
   - `get the show on the road`      ([Casual] 始める、出発する)     Time to get the show on the road!
   - `embark on` /ɪmˈbɑːrk ɑːn/      ([Formal] [大きい] 乗り出す)      We're embarking on a new project.
-  - `begin working on`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
+  - `begin ==working on==`              ([Formal] 着手する、始める)     We'll begin working on the proposal.
   - `initiate` /ɪˈnɪʃieɪt/          ([Formal] 始める、開始する)     We'll initiate the project next week.
   - `inaugurate` /ɪˈnɔːɡjəreɪt/     ([Formal] 就任する、開始する)   They inaugurated the new building.
-- ==go about== /ɡoʊ əˈbaʊt/           ([Neutral] [+How] 取り組む 着手)  How do you go about fixing this?
-- ==work on== /wɜːrk ɑːn/             ([Neutral] 取り組む)            I'm working on the report now.
-  - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
+- ==go about== /ɡoʊ əˈbaʊt/           ([Neutral] [計画] 取り組む 着手)  How do you go about fixing this?
+- ==work on== /wɜːrk ɑːn/             ([Neutral] [実行] 取り組む)       I'm working on the report now.
   - `deal with` /diːl wɪð/          ([Neutral] 対処する、扱う)      We need to deal with this issue.
-  - `cope with` /koʊp wɪð/          ([Neutral] 対処する、対応する)  How do you cope with stress?
   - `handle` /ˈhændəl/              ([Neutral] 扱う、処理する)      Can you handle this task?
-  - `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
-  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
+  - `take care of` /teɪk keər əv/   ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
   - `focus on` /ˈfoʊkəs ɑːn/        ([Neutral] 集中する、取り組む)  We're focusing on this problem.
-  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'm attending to this matter.
-  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We're engaging with the challenge.
+  - `manage` /ˈmænɪdʒ/              ([Neutral] 管理する、対処する)  I can manage this situation.
+  - `tackle` /ˈtækəl/               ([Neutral] 取り組む 立ち向かう) Let's tackle the hardest part first.
+  - `cope with` /koʊp wɪð/          ([Neutral] 対処する、対応する)  How do you cope with stress?
+  - `approach` /əˈproʊtʃ/           ([Neutral] 取り組む、接近する)  How should we approach this problem?
+  - `see to` /siː tuː/              ([Neutral] 処理する 面倒を見る) I'll see to that right away.
+  - `address` /əˈdres/              ([Formal] 対処する、取り組む)   We must address these concerns.
+  - `confront` /kənˈfrʌnt/          ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
   - `grapple with` /ˈɡræpəl wɪð/    ([Neutral] 格闘する、取り組む)  We're grappling with complex issues.
   - `wrestle with` /ˈresəl wɪð/     ([Neutral] 格闘する、苦心する)  I'm wrestling with this problem.
+  - `attend to` /əˈtend tuː/        ([Formal] 対処する、世話する)   I'm attending to this matter.
+  - `engage with` /ɪnˈɡeɪdʒ wɪð/    ([Formal] 取り組む、関わる)     We're engaging with the challenge.
   - `apply oneself to` /əˈplaɪ/     ([Formal] 専念する、取り組む)   He's applying himself to the task.
-  - `confront` /kənˈfrʌnt/          ([Neutral] 立ち向かう 対峰する) We must confront this challenge.
-  - `manage` /ˈmænɪdʒ/              ([Neutral] 管理する、対処する)  I can manage this situation.
-  - `take care of` /teɪk keər əv/   ([Neutral] 面倒を見る 処理する) I'll take care of this problem.
-  - `see to` /siː tuː/              ([Neutral] 処理する 面倒を見る) I'll see to that right away.
 - ==carry on== /ˈkæri ɑːn/            ([Neutral] 続ける、継続する)    We'll carry on despite the setbacks.
   - `carry on with` /ˈkæri ɑːn wɪð/ ([Neutral] 続ける、継続する)    We'll carry on with the project despite the challenges.
   - `continue` /kənˈtɪnjuː/         ([Neutral] 続ける、継続する)    Let's continue with the meeting.
@@ -332,27 +332,6 @@
   - `advance to` /ədˈvæns tuː/      ([Formal] 進む、前進する)       Let's advance to the next agenda item.
   - `transition to` /trænˈzɪʃən tuː/([Formal] 移行する、移る)       Let's transition to the next agenda item.
   - `progress to` /ˈprɑːɡres tuː/   ([Formal] 進む、進行する)       Let's progress to the next agenda item.
-
-## BEGINNING & STARTING
-  - `set off` /set ɔːf/             ([Neutral] 出発する、引き起こす) They set off early in the morning.
-  - `fire up` /ˈfaɪər ʌp/           ([Casual] 起動する、やる気にさせる) Fire up the computer.
-- `open` /ˈoʊpən/                   ([Neutral] 開く、開始する)       The store opens at 9 AM.
-- `originate` /əˈrɪdʒɪneɪt/        ([Formal] 起こる、始まる)        The idea originated in Japan.
-- `ensue` /ɪnˈsuː/                  ([Formal] 続いて起こる)          Chaos ensued after the announcement.
-
-## ENDING & COMPLETION
-- `be over` /biː ˈoʊvər/              ([Casual] うんざりしている)     I'm so over this job.
-  - `be tired of` /ˈtaɪərd əv/       ([Neutral] うんざりしている)    I'm tired of this situation.
-  - `have had enough` /hæv hæd ɪˈnʌf/ ([Neutral] もううんざりだ)      I've had enough of your excuses.
-  - `be sick and tired of`           ([Casual] 本当にうんざり)       I'm sick and tired of waiting.
-  - `be done with` /biː dʌn wɪð/     ([Casual] もう終わりにしたい)   I'm done with this discussion.
-- `cease`                            ([Neutral] やめる、やむ)
-- `consummate`                            ([Neutral] 完了させる)
-- `discontinue`                            ([Neutral] やめる、やむ、終わる)
-- `lapse`                            ([Neutral] 終わる、とまる)
-- `spike`                            ([Neutral] 大くぎで止める、スパイクを打ちつける)
-
-
 
 ## Effort
 - ==cut corners== /kʌt ˈkɔːrnərz/     ([Casual] 手を抜く)             You shouldn't cut corners on safety.

@@ -1,1978 +1,2201 @@
 # Common
 
-## Movement & Travel
-- `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
-  - `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
-  - `displace` /dɪsˈpleɪs/          ([Neutral] 押しのける)          The flood displaced many families.
-  - `replace` /rɪˈpleɪs/            ([Neutral] 取り替える)          They replaced the old equipment.
-  - `substitute` /ˈsʌbstɪtuːt/      ([Neutral] 代用する)            We can substitute honey for sugar.
-  - `supplant` /səˈplænt/           ([Formal] 取って代わる)         New technology supplanted the old.
-  - `dislodge` /dɪsˈlɑːdʒ/          ([Neutral] 押しのける)          The storm dislodged several trees.
-  - `transfer` /trænsˈfɜːr/         ([Neutral] 移す、転勤する)      He transferred to the Tokyo office.
-  - `proceed` /prəˈsiːd/            ([Formal] 進む、続行する)       Please proceed to the gate.
-  - `advance` /ədˈvæns/             ([Neutral] 前進する)            The army advanced slowly.
-  - `head` /hed/                    ([Neutral] 向かう)              Let's head home.
-  - `pass` /pæs/                    ([Neutral] 通る、通過する)      We passed through the town.
-  - `cross` /krɔːs/                 ([Neutral] 横切る、渡る)        Cross the street carefully.
-  - `navigate` /ˈnævɪɡeɪt/          ([Neutral] 案内する、進む)      Navigate through the traffic.
-  - `uproot` /ʌpˈruːt/              ([Neutral] 根こそぎ移動する)    The family uprooted to start fresh.
-- `go` /ɡoʊ/                        ([Neutral] 行く、移動する)      Let's go to the store.
-  - `drive` /draɪv/                 ([Neutral] 運転する、行く)      I'll drive to the airport.
-  - `fly` /flaɪ/                    ([Neutral] 飛ぶ、飛行機で行く)  We're flying to Paris tomorrow.
-  - `depart` /dɪˈpɑːrt/             ([Formal] 出発する)             The train departs at noon.
-- `get to` /ɡet tuː/                ([Neutral] ～に着く、到着する)  How do I get to the station?
-  - `arrive at`                     ([Neutral] ～に到着する)        We arrived at our destination.
-  - `arrive in`                     ([Neutral] ～に到着する)        I arrived in Tokyo yesterday.
-  - `reach` /riːtʃ/                 ([Neutral] 到達する)            We reached the summit at noon.
-  - `make it to`                    ([Casual] ～に着く、間に合う)   I barely made it to the meeting.
-  - `get there`                     ([Casual] そこに着く)           How long does it take to get there?
-  - `show up` /ʃoʊ ʌp/              ([Casual] 現れる、着く)         He finally showed up at 9 PM.
-  - `turn up` /tɜːrn ʌp/            ([Casual] 現れる、着く)         She turned up late to the party.
-  - `pull up` /pʊl ʌp/              ([Casual] 車で着く)             A taxi pulled up outside.
-  - `roll up` /roʊl ʌp/             ([Casual] 車で着く)             They rolled up in a fancy car.
-  - `go to` /ɡoʊ tuː/               ([Neutral] ～に通う、行く)      I go to school every day.
-  - `attend` /əˈtend/               ([Formal] 通う、出席する)       She attends university in Boston.
-  - `commute to` /kəˈmjuːt tuː/     ([Neutral] 通勤する)            I commute to work by train.
-- `walk` /wɔːk/                     ([Neutral] 歩く)                I walk to work every day.
-  - `run` /rʌn/                     ([Neutral] 走る)                Run to catch the bus!
-  - `roam` /roʊm/                   ([Neutral] 放浪する、歩き回る)  They roamed the streets.
-  - `wander` /ˈwɑːndər/             ([Neutral] さまよう、歩き回る)  We wandered around the city.
-  - `drift` /drɪft/                 ([Neutral] 漂う、流れる)        The boat drifted downstream.
-- `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
-  - `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
-  - `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
-  - `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
-  - `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
-  - `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
-- `go down` /ɡoʊ daʊn/              ([Neutral] 下りる)              Go down the stairs carefully.
-  - `come down` /kʌm daʊn/          ([Neutral] 降りて来る)          Come down from there!
-  - `walk down` /wɔːk daʊn/         ([Neutral] 歩いて下る)          Walk down the hill slowly.
-  - `climb down` /klaɪm daʊn/       ([Neutral] よじ降りる)          Climb down the ladder.
-  - `drop` /drɑːp/                  ([Neutral] 落ちる、下がる)      The temperature dropped suddenly.
-  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Be careful not to fall!
-  - `lower` /ˈloʊər/                ([Neutral] 下げる)              Lower your voice please.
-  - `sink` /sɪŋk/                   ([Neutral] 沈む)                The sun sank below the horizon.
-  - `descend` /dɪˈsend/             ([Formal] 下降する)             The plane began to descend.
-  - `descending` /dɪˈsendɪŋ/        ([Formal] 下降する)             In descending order.
-  - `decline` /dɪˈklaɪn/            ([Formal] 下降する、衰える)     Sales declined last quarter.
-  - `plunge` /plʌndʒ/               ([Neutral] 急落する)            Stock prices plunged today.
-- `enter` /ˈɛntɚ/                   ([Neutral] 入る、入力する)      Please knock before you enter.
-  - `entry` /ˈɛntɹi/                ([Neutral] 入ること、記入項目)  The entry to the building is locked.
-  - `entrance` /ˈɛntɹəns/           ([Neutral] 入口、入場)          The entrance is on the left.
-  - `go in` /ɡoʊ ɪn/                ([Casual] 中に入る)             Let's go in, it's cold outside.
-  - `come in` /kʌm ɪn/              ([Casual] 入って来る)           Please come in and have a seat.
-  - `walk in` /wɔːk ɪn/             ([Neutral] 歩いて入る)          He walked in without knocking.
-  - `step in` /step ɪn/             ([Neutral] 中に入る、介入する)  Please step in to my office.
-- `tag along` /tæɡ əˈlɔŋ/           ([Casual] 一緒に行く)           Can I tag along with you?
-  - `come along` /kʌm əˈlɔŋ/        ([Casual] 一緒に来る)           Come along with me!
-  - `follow` /ˈfɑloʊ/               ([Neutral] ついて行く)          Just follow me.
-  - `accompany` /əˈkʌmpəni/         ([Formal] 同行する)             I'll accompany you to the meeting.
-  - `trail along` /tɹeɪl əˈlɔŋ/    ([Casual] 後についていく)       The kids trailed along behind us.
-  - `come with` /kʌm wɪð/           ([Casual] 一緒に来る)           Do you want to come with?
-- `travel` /ˈtrævəl/                ([Neutral] 旅行する、移動する)  I travel for work frequently.
-  - `journey` /ˈdʒɜːrni/            ([Neutral] 旅する)              They journeyed across the country.
-- `relocate` /ˌriːloʊˈkeɪt/         ([Neutral] 移転する)            The company relocated to Texas.
-  - `migrate` /maɪˈɡreɪt/           ([Neutral] 移住する)            Birds migrate south for winter.
-  - `emigrate` /ˈemɪɡreɪt/          ([Formal] 移住する)             They emigrated from Poland to Canada.
-  - `immigrate` /ˈɪmɪɡreɪt/         ([Formal] 移民する)             They immigrated to the United States.
-  - `transplant` /trænsˈplænt/      ([Neutral] 移植する、移住する)  They transplanted to California.
-  - `resettle` /riːˈsetəl/          ([Formal] 再定住する)           Refugees resettled in new countries.
-- `transport` /trænsˈpɔːrt/         ([Neutral] 輸送する)            We'll transport the goods by truck.
-- `get together` /ɡet təˈɡeðər/     ([Casual] 集まる)               Let's get together with the old college friends
-  - `gather` /ˈɡæðər/               ([Neutral] 集まる)              Let's gather at the park tomorrow.
-  - `meet` /miːt/                   ([Neutral] 会う)                Let's meet for coffee.
-  - `assemble` /əˈsembl/            ([Formal] 集合する)             Please assemble in the main hall.
-  - `congregate` /ˈkɒŋɡrɪɡeɪt/      ([Formal] 集合する)             Students congregate in the cafeteria.
-  - `convene` /kənˈviːn/            ([Formal] 招集する)             The committee will convene next week.
-  - `cluster` /ˈklʌstər/            ([Neutral] 群がる)              People clustered around the notice board.
-  - `huddle` /ˈhʌdl/                ([Casual] 身を寄せ合う)         We huddled together for warmth.
-  - `bunch` /bʌntʃ/                 ([Casual] 束になる)             Don't bunch up in the doorway!
-  - `flock` /flɒk/                  ([Neutral] 群がる)              Tourists flock to the beach in summer.
-  - `swarm` /swɔːm/                 ([Neutral] 群がる)              Reporters swarmed around the star.
-  - `converge` /kənˈvɜːdʒ/          ([Formal] 集中する)             Roads converge at the city center.
-  - `rally` /ˈræli/                 ([Neutral] 結集する)            Supporters will rally at the park.
-  - `muster` /ˈmʌstər/              ([Formal] 召集する)             Muster all available troops.
-  - `snuggle` /ˈsnʌɡl/              ([Casual] 寄り添う)             Let's snuggle on the couch.
-  - `nestle` /ˈnesl/                ([Casual] 寄り添う)             The kitten nestled in my lap.
-- `show up` /ʃoʊ ʌp/                ([Neutral] 現れる、姿を見せる)  He finally showed up at noon.
-  - `come up` /kʌm ʌp/              ([Neutral] 出てくる、起こる)    This is about the question that came up during yesterday's UX meeting.
-  - `turn up` /tɜːrn ʌp/            ([Neutral] 現れる、見つかる)    My keys turned up in the car.
-  - `appear` /əˈpɪr/                ([Neutral] 現れる、出現する)    She appeared at the door.
-  - `pop up` /pɑːp ʌp/              ([Neutral] 現れる、出現する)    A message popped up on screen.
-  - `crop up` /krɑːp ʌp/            ([Casual] 突然起こる)           Problems keep cropping up.
-  - `emerge` /ɪˈmɜːrdʒ/             ([Neutral] 現れる、浮上する)    The sun emerged from the clouds.
-  - `surface` /ˈsɜːrfɪs/            ([Neutral] 浮上する、現れる)    New evidence surfaced yesterday.
-  - `spring up` /sprɪŋ ʌp/          ([Neutral] 急に現れる)          New shops are springing up everywhere.
-  - `be in for` /bi ɪn fɔːr/        ([Casual] 直面する)             Looks like we'll be in for some wet weather over the next few days.
-  - `materialize` /məˈtɪriəlaɪz/    ([Formal] 実体化する、現れる)   Help materialized quickly.
-- `rush` /rʌʃ/                      ([Neutral] 急ぐ、突進する)      We rushed to the hospital.
-  - `speed` /spiːd/                 ([Neutral] スピードを出す)      Don't speed on the highway.
-  - `race` /reɪs/                   ([Neutral] 疾走する)            He raced down the stairs.
-  - `dash` /dæʃ/                    ([Neutral] ダッシュする)        She dashed to catch the bus.
-  - `zoom` /zuːm/                   ([Casual] 急速に動く)           The car zoomed past us.
-  - `zip` /zɪp/                     ([Casual] 素早く動く)           He zipped through traffic.
-  - `whiz` /wɪz/                    ([Casual] ビュンと飛ぶ)         The bullet whizzed past my ear.
-  - `bolt` /boʊlt/                  ([Neutral] 突進する)            The horse bolted from the stable.
-- `see a doctor`                    ([Neutral] 医者に診てもらう)    I need to see a doctor about this pain.
-  - `go to the doctor`              ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
-  - `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
-  - `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
-- `step out` /step aʊt/             ([Neutral] ちょっと出かける)    I'll step out for a few minutes.
-  - `pop out` /pɑːp aʊt/            ([Casual] ちょっと外出する)     I'll just pop out to the store.
-  - `duck out` /dʌk aʊt/            ([Casual] こっそり抜け出す)     I ducked out of the meeting early.
-  - `slip out` /slɪp aʊt/           ([Casual] こっそり出る)         I slipped out before anyone noticed.
-  - `nip out` /nɪp aʊt/             ([Casual 英] さっと出る)        I'll nip out for some milk.
-
-- `backfire`                            ([Neutral] 裏目に出る、逆発する)
-
-- `catapult`                            ([Neutral] 急激に動く、発射する)
-- `dart`                            ([Neutral] さっと動く、飛ぶ)
-- `hurtle`                            ([Neutral] 突進する、高速で動く)
-
-- `exude`                            ([Neutral] 発する、にじみ出る)
-
-- `clamber`                            ([Neutral] よじ登る)
-
-- `amble`                            ([Neutral] のんびり歩く、（馬が）側対歩で歩く)
-- `clamp`                            ([Neutral] 固定する、重々しい足どりで歩く)
-- `clump`                            ([Neutral] 重い足どりで歩く、～をかたまりにする)
-- `meander`                            ([Neutral] ぶらぶら歩く、曲がりくねって進む)
-- `peddle`                            ([Neutral] 広めようとする、売り歩く)
-- `plod`                            ([Neutral] こつこつ進める、重い足どりで歩く)
-- `promenade`                            ([Neutral] 散歩する、連れて歩く)
-- `scuffle`                            ([Neutral] 取っ組み合う、慌てふためいて歩く)
-- `shuffle`                            ([Neutral] 足をひきずって歩く、言い抜ける、シャッフルする)
-- `sneak`                            ([Neutral] こそこそ歩く、こっそり入る、くすねる)
-- `stride`                            ([Neutral] 大股で歩く、またぐ)
-- `strut`                            ([Neutral] 気どって歩く、見せびらかす)
-- `swagger`                            ([Neutral] いばって歩く)
-- `toil`                            ([Neutral] 精を出して働く、苦労して歩く、疲れさせる)
-- `totter`                            ([Neutral] 揺れる、よろよろ歩く)
-- `traverse`                            ([Neutral] 横切る、越える、あちこち歩く)
-- `tread`                            ([Neutral] 踏む、歩く)
-- `trudge`                            ([Neutral] 重い足どりで歩く)
-- `limp`                            ([Neutral] 足を引きずる、のろのろ進む)
-
-- `gallop`                            ([Neutral] 全速力で走る)
-
-- `debut`                            ([Neutral] 初めて出る)
-
-- `devour`                            ([Neutral] むさぼり食う、食い入るように見る)
-
-
-- `frost`                            ([Neutral] 霜で覆う、霜が降りる)
-- `gush`                            ([Neutral] 勢いよく流れ出る、湧き出る)
-- `hare`                            ([Neutral] 速く走る)
-- `hearten`                            ([Neutral] 元気づける、元気が出る)
-- `jut`                            ([Neutral] 突き出る、張り出す)
-- `ooze`                            ([Neutral] 流れ出る、みなぎらせる)
-- `overture`                            ([Neutral] 申し出る)
-- `plateau`                            ([Neutral] 停滞期に入る)
-- `proffer`                            ([Neutral] 提供する、申し出る)
-- `protrude`                            ([Neutral] 突き出る、突き出す)
-- `rattle`                            ([Neutral] ガタガタ鳴る、音をたてて走る)
-- `revert`                            ([Neutral] 戻る、再び始める)
-- `rustle`                            ([Neutral] カサカサ音をたてる、活発に動く、てきぱきと動かす)
-- `scuttle`                            ([Neutral] 船底に穴をあけて沈没させる、慌てて走る)
-- `skid`                            ([Neutral] 滑る、横滑りさせる)
-- `slither`                            ([Neutral] ずるずる滑る、滑るように進む、（ヘビなどが）するすると這う)
-- `spook`                            ([Neutral] 怖がらせる、（幽霊が）出る)
-- `twitch`                            ([Neutral] 急に引っ張る、つねる、ぴくっと動く)
-- `wade`                            ([Neutral] 水中を歩いて渡る、苦労して進む)
-- `wag`                            ([Neutral] 振る、揺する、しきりに動く)
-- `waver`                            ([Neutral] 動揺する、揺れ動く、ぐらつく)
-- `wriggle`                            ([Neutral] うまく切り抜ける、くねくね進む)
-
-## CHANGE & TRANSFORMATION
-- `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
-  - `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
-  - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
-  - `improve` /ɪmˈpruːv/            ([Neutral] 改善する、良くなる)  His condition is improving daily.
-  - `recover` /rɪˈkʌvər/            ([Neutral] 回復する)            She recovered from the illness.
-  - `heal` /hiːl/                   ([Neutral] 癒える、治る)        The wound will heal in time.
-  - `pick up` /pɪk ʌp/              ([Casual] 回復する、元気になる) She's starting to pick up now.
-  - `bounce back` /baʊns bæk/       ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
-  - `be on the mend` /ɒn ðə mend/   ([Casual] 回復中)               He's on the mend now.
-  - `pull through` /pʊl θruː/       ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
-  - `get back on one's feet`        ([Casual] 立ち直る)             It took months to get back on his feet.
-  - `turn the corner`               ([Neutral] 峠を越える)          The patient has turned the corner.
-  - `come around` /kʌm əˈraʊnd/     ([Neutral] 意識を取り戻す)      He came around after the surgery.
-  - `perk up` /pɜːk ʌp/             ([Casual] 元気を取り戻す)       She perked up after some rest.
-  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
-  - `recuperate` /rɪˈkuːpəreɪt/     ([Formal] 回復する、療養する)   He's recuperating at home.
-  - `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
-  - `revive` /rɪˈvaɪv/              ([Medical] 蘇生する、復活する)  The paramedics revived him.
-  - `rally` /ˈræli/                 ([Medical] 持ち直す)            The patient rallied overnight.
-  - `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
-  - `recoup` /rɪˈkuːp/              ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
-  - `be in remission` /rɪˈmɪʃən/    ([Medical] 寛解、軽快)          The cancer is in remission.
-  - `rehabilitate` /ˌriːəˈbɪlɪteɪt/ ([Formal] リハビリする)         They rehabilitated his injured knee.
-  - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
-  - `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
-  - `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養す 回復期にある) She's convalescing after surgery.
-- `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
-  - `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
-  - `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
-  - `diminish` /dɪˈmɪnɪʃ/           ([Neutral] 減少する)            The threat has diminished.
-  - `dwindle` /ˈdwɪndəl/            ([Neutral] 減少する)            Their savings dwindled to nothing.
-  - `taper` /ˈteɪpər/               ([Neutral] 徐々に減る)          We'll taper off the medication.
-- `decline` /dɪˈklaɪn/              ([Neutral] 衰える)              Her health has been declining.
-  - `fade` /feɪd/                   ([Neutral] 薄れる)              The light faded gradually.
-  - `shrink` /ʃrɪŋk/                ([Neutral] 縮小する)            The market has shrunk considerably.
-  - `wane` /weɪn/                   ([Neutral] 衰える)              Her enthusiasm waned rapidly.
-  - `recede` /rɪˈsiːd/              ([Formal] 後退する)             The prospect of bankruptcy receded.
-  - `ebb` /eb/                      ([Writing] 引く、衰える)        His life is gradually ebbing.
-- `ease` /iːz/                      ([Neutral] 和らぐ)              The pain will ease soon.
-  - `let up` /let ʌp/               ([Casual] 和らぐ、弱まる)       The rain finally let up.
-  - `die down` /daɪ daʊn/           ([Casual] 静まる、弱まる)       The noise died down eventually.
-  - `subside` /səbˈsaɪd/            ([Formal] 和らぐ)               The pain gradually subsided.
-  - `abate` /əˈbeɪt/                ([Formal] 和らぐ)               We waited for the wind to abate.
-  - `lessen` /ˈlesən/               ([Neutral] 和らぐ、減る)        The symptoms lessened over time.
-  - `soften` /ˈsɒfən/               ([Neutral] 和らぐ 柔らかくなる) Her expression softened slightly.
-  - `melt` /melt/                   ([Neutral] 溶ける、心が和らぐ)  His heart melted at her smile.
-    - `meltingly` /ˈmeltɪŋli/       ([Neutral] やさしく、優しげに)  She spoke meltingly to the child.
-- `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
-  - `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
-  - `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
-- `quit` /kwɪt/                     ([Casual] 辞める)               I quit my job yesterday.
-  - `leave` /liːv/                  ([Neutral] 去る、辞める)        She's leaving the company.
-  - `resign` /rɪˈzaɪn/              ([Neutral] 辞任する)            She resigned from her position.
-  - `retire` /rɪˈtaɪər/             ([Neutral] 退職する、引退する)  He retired after 30 years.
-  - `step down` /step daʊn/         ([Neutral] 退く)                The CEO will step down next month.
-  - `walk away` /wɔːk əˈweɪ/        ([Casual] 立ち去る、辞める)     He walked away from the deal.
-  - `give up` /ɡɪv ʌp/              ([Neutral] 諦める、辞める)      Don't give up your dreams.
-  - `bow out` /baʊ aʊt/             ([Neutral] 身を引く)            She bowed out gracefully.
-  - `withdraw` /wɪðˈdrɔː/           ([Neutral] 撤退する、引く)      They withdrew from the competition.
-  - `vacate` /veɪˈkeɪt/             ([Formal] 明け渡す、退去する)   Please vacate the premises.
-  - `depart` /dɪˈpɑːrt/             ([Formal] 去る、出発する)       The director departed suddenly.
-  - `exit` /ˈeɡzɪt/                 ([Neutral] 退場する、辞める)    He exited the business.
-  - `abandon` /əˈbændən/            ([Neutral] 放棄する、見捨てる)  They abandoned the project.
-  - `surrender` /səˈrendər/         ([Neutral] 降伏する、明け渡す)  He surrendered his position.
-  - `renounce` /rɪˈnaʊns/           ([Formal] 放棄する)             He renounced his claim to the throne.
-  - `relinquish` /rɪˈlɪŋkwɪʃ/       ([Formal] 手放す)               She relinquished control of the company.
-  - `abdicate` /ˈæbdɪkeɪt/          ([Formal] 退位する)             The king abdicated the throne.
-  - `step aside` /step əˈsaɪd/      ([Neutral] 身を引く、譲る)      He stepped aside for younger talent.
-  - `hand over` /hænd ˈoʊvər/       ([Neutral] 引き渡す)            She handed over her responsibilities.
-  - `turn in` /tɜːrn ɪn/            ([Casual] 提出する、辞める)     He turned in his badge.
-  - `call it quits` /kɔːl ɪt kwɪts/ ([Casual] やめる、終わりにする) Let's call it quits for today.
-  - `throw in the towel`            ([Casual] 諦める、降参する)     He threw in the towel after years of trying.
-  - `cede` /siːd/                   ([Formal] 譲渡する)             They ceded territory to the enemy.
-  - `forfeit` /ˈfɔːrfɪt/            ([Neutral] 没収される、失う)    He forfeited his rights.
-  - `waive` /weɪv/                  ([Formal] 放棄する、免除する)   She waived her claim to the property.
-- `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
-- `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
-- `reduce` /rɪˈduːs/                ([Neutral] 減らす)              We need to reduce costs.
-  - `lessen` /ˈlesən/               ([Neutral] 減らす)              This should lessen the pain.
-  - `weaken` /ˈwiːkən/              ([Neutral] 弱くする)            The illness weakened him.
-- `cut back on` /kʌt bæk ɑːn/      ([Neutral] を減らす)            I need to cut back on sugar.
-  - `cut down on` /kʌt daʊn ɑːn/   ([Neutral] を減らす)            I'm cutting down on junk food.
-  - `scale down` /skeɪl daʊn/      ([Neutral] 縮小する)            They scaled down the project.
-  - `ease up on` /iːz ʌp ɑːn/      ([Casual] を緩める)             Ease up on the pressure.
-  - `trim down` /trɪm daʊn/        ([Neutral] 削減する)            We need to trim down costs.
-- `extend` /ɪkˈstend/               ([Neutral] 延ばす、拡張する)    They extended the deadline.
-  - `expand` /ɪkˈspænd/             ([Neutral] 拡張する 発展させる) They plan to expand the business.
-  - `diversify` /daɪˈvɜːrsəfaɪ/     ([Formal] 多様化する)           The company diversified its products.
-  - `widen` /ˈwaɪdən/               ([Neutral] 広げる、拡幅する)    They widened the road.
-  - `broaden` /ˈbrɔːdən/            ([Neutral] 広げる、拡大する)    Travel broadens your horizons.
-  - `enlarge` /ɪnˈlɑːrdʒ/           ([Neutral] 拡大する 大きくする) Can you enlarge this photo?
-  - `stretch` /stretʃ/              ([Neutral] 伸ばす、拡張する)    We need to stretch the budget.
-  - `amplify` /ˈæmplɪfaɪ/           ([Formal] 拡大する、増幅する)   We need to amplify our efforts.
-- `update` /ˌʌpˈdeɪt/               ([Neutral] 更新する)            Update the document regularly.
-  - `modify` /ˈmɑːdɪfaɪ/            ([Neutral] 修正する)            They modified the original plan.
-  - `revise` /rɪˈvaɪz/              ([Neutral] 改訂する)            Please revise your proposal.
-  - `alter` /ˈɔːltər/               ([Neutral] 変更する)            We can alter the schedule.
-  - `amend` /əˈmend/                ([Formal] 修正する、改正する)   We need to amend the contract.
-- `season` /ˈsiːzən/                ([Neutral] 味付けする)          Season the meat with salt.
-  - `spice up` /spaɪs ʌp/           ([Casual] 味付けす 刺激を加え) Let's spice up the dish.
-  - `flavor` /ˈfleɪvər/             ([Neutral] 味をつける)          Flavor the soup with herbs.
-- `clean up` /kliːn ʌp/             ([Casual] 片付ける、掃除する)   We need to clean up this mess.
-  - `tidy` /ˈtaɪdi/                 ([Casual] 片付ける、整頓する)   Tidy up your desk before leaving.
-  - `tidy up` /ˈtaɪdi ʌp/           ([Casual] 片付ける、整理する)   Let's tidy up the office.
-  - `arrange` /əˈreɪndʒ/            ([Neutral] 整理する、配置する)  Let's arrange the meeting room.
-  - `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
-  - `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
-  - `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
-- `get rid of` /ɡet rɪd əv/         ([Casual] 処分する)             Get rid of that old sofa.
-  - `throw away` /θrəʊ əˈweɪ/       ([Casual] 捨てる)               Don't throw away good food.
-  - `throw out` /θrəʊ aʊt/          ([Casual] 捨てる)               Throw out the expired milk.
-  - `toss` /tɔːs/                   ([Casual] 投げ捨てる)           Just toss it in the trash.
-  - `toss out` /tɔːs aʊt/           ([Casual] 捨てる)               Toss out those old magazines.
-  - `dump` /dʌmp/                   ([Casual] 投げ捨てる)           Don't dump garbage here.
-  - `ditch` /dɪtʃ/                  ([Casual] 捨てる、見捨てる)     He ditched his old phone.
-  - `chuck` /tʃʌk/                  ([Casual] 投げ捨てる)           Chuck it in the bin.
-  - `remove` /rɪˈmuːv/              ([Neutral] 取り除く)            Please remove your shoes.
-  - `discard` /dɪˈskɑːrd/           ([Formal] 廃棄する)             Discard any damaged items.
-  - `dispose of` /dɪˈspəʊz əv/      ([Formal] 処分する)             Dispose of hazardous waste properly.
-  - `eliminate` /ɪˈlɪmɪneɪt/        ([Formal] 除去する)             Eliminate unnecessary expenses.
-  - `do away with` /duː əˈweɪ wɪð/  ([Neutral] 廃止する)            They did away with the old rules.
-  - `scrap` /skræp/                 ([Casual] 廃棄する)             We scrapped the old plan.
-  - `junk` /dʒʌŋk/                  ([Casual] 廃棄する)             I junked my old computer.
-- `clear` /klɪr/                    ([Casual] 無実を証明する)       The evidence cleared him of all charges.
-  - `prove innocent`                ([Neutral] 無実を証明する)      The investigation proved him innocent.
-  - `acquit` /əˈkwɪt/               ([Legal] 無罪とする)            The jury acquitted the defendant.
-  - `vindicate` /ˈvɪndɪkeɪt/        ([Formal] 汚名を晴らす)         The investigation vindicated his claims.
-  - `exonerate` /ɪɡˈzɒnəreɪt/       ([Formal] 無罪とする)           The new evidence exonerated him.
-  - `absolve` /əbˈzɒlv/             ([Formal] 免罪する)             The priest absolved him of his sins.
-  - `pardon` /ˈpɑːdən/              ([Formal] 恩赦する)             The president pardoned the prisoner.
-  - `exculpate` /ˈekskʌlpeɪt/       ([Legal] 無罪を証明する)        The evidence exculpated the suspect.
-- `break` /breɪk/                   ([Neutral] 破る、違反する)      Don't break the rules.
-  - `violate` /ˈvaɪəleɪt/           ([Formal] 違反する、侵害する)   He violated the company rules.
-  - `breach` /briːtʃ/               ([Formal] 違反する、破る)       They breached the contract terms.
-  - `infringe` /ɪnˈfrɪndʒ/          ([Formal] 侵害する、違反する)   This infringes on our privacy rights.
-  - `transgress` /trænzˈɡres/       ([Formal] 違反する、逸脱する)   He transgressed the moral boundaries.
-  - `contravene` /ˌkɒntrəˈviːn/     ([Formal] 違反する、逆らう)     This contravenes international law.
-  - `flout` /flaʊt/                 ([Formal] 軽蔑して無視する)     They flouted safety regulations.
-  - `defy` /dɪˈfaɪ/                 ([Neutral] 逆らう、無視する)    Don't defy my authority.
-- `damage` /ˈdæmɪdʒ/                ([Neutral] 損傷させる)          The storm damaged many houses.
-  - `destroy` /dɪˈstrɔɪ/            ([Neutral] 破壊する)            The fire destroyed the building.
-  - `ruin` /ˈruːɪn/                 ([Neutral] 台無しにする)        The rain ruined our picnic.
-  - `wreck` /rɛk/                   ([Neutral] 破壊する、難破船)    The storm will wreck the ship.
-  - `demolish` /dɪˈmɑːlɪʃ/          ([Neutral] 取り壊す)            They demolished the old factory.
-  - `shatter` /ˈʃætər/              ([Neutral] 粉砕する)            The ball shattered the window.
-  - `crush` /krʌʃ/                  ([Neutral] 押しつぶす)          The machine crushed the cans.
-  - `smash` /smæʃ/                  ([Neutral] 粉砕する)            He smashed the glass with a hammer.
-  - `devastate` /ˈdevəsteɪt/        ([Formal] 壊滅させる)           The earthquake devastated the city.
-  - `obliterate` /əˈblɪtəreɪt/      ([Formal] 完全に破壊する)       The explosion obliterated the building.
-  - `annihilate` /əˈnaɪəleɪt/       ([Formal] 全滅させる)           The army annihilated the enemy forces.
-- `fall apart` /fɔːl əˈpɑːrt/       ([Neutral] 崩壊する)            Their marriage fell apart.
-- `stir` /stɜːr/                    ([Neutral] 感情を揺さぶる)      The movie stirred my emotions.
-  - `fuel` /fjuːl/                  ([Neutral] 煽る、助長する)      His remarks fueled the debate.
-  - `provoke` /prəˈvoʊk/            ([Neutral] 挑発する)            His comment provoked anger.
-  - `rouse` /raʊz/                  ([Neutral] 目覚めさせる)        The speech roused the audience.
-  - `agitate` /ˈædʒɪteɪt/           ([Neutral] かき乱す、扇動する)  The news agitated the crowd.
-  - `incite` /ɪnˈsaɪt/              ([Neutral] 扇動する 駆り立てる) He incited the crowd to protest.
-  - `perturb` /pərˈtɜːrb/           ([Formal] 心を乱す 動揺させる)  The news perturbed her greatly.
-  - `stimulate` /ˈstɪmjəleɪt/       ([Neutral] 刺激する 活性化する) Exercise stimulates blood flow.
-  - `arouse` /əˈraʊz/               ([Neutral] 呼び起こす 喚起する) The speech aroused strong emotions.
-  - `inspire` /ɪnˈspaɪər/           ([Neutral] 鼓舞する、感化する)  Her story inspired many people.
-  - `motivate` /ˈmoʊtəveɪt/         ([Neutral] 動機付ける)          Money motivates some people.
-  - `energize` /ˈenərdʒaɪz/         ([Neutral] 活力を与える)        The music energized the crowd.
-  - `galvanize` /ˈɡælvənaɪz/        ([Formal] 活気づける 奮起させ)  The crisis galvanized the nation.
-  - `entangle` /ɪnˈtæŋɡəl/          ([Neutral] からませる)          Don't entangle yourself in that wire.
-  - `twist` /twɪst/                 ([Neutral] ひねる、曲げる)      Twist the cap to open the bottle.
-- `treat` /triːt/                   ([Neutral] 治療する)            They treated his broken arm.
-  - `heal` /hiːl/                   ([Neutral] 治る、癒す)          The wound healed quickly.
-  - `cure` /kjʊə/                   ([Neutral] 治す、治療法)        Scientists are searching for a cure.
-  - `relieve` /rɪˈliːv/             ([Neutral] 和らげる、緩和する)  The medication relieved his pain.
-  - `examine` /ɪɡˈzæmɪn/            ([Neutral] 診察する、検査する)  The doctor examined the patient.
-  - `prescribe` /prɪˈskraɪb/        ([Medical] 処方する)            The doctor prescribed antibiotics.
-  - `diagnose` /ˈdaɪəɡnoʊs/         ([Medical] 診断する)            The doctor diagnosed pneumonia.
-  - `nurse` /nɜːrs/                 ([Neutral] 看護する、介抱する)  She nursed him back to health.
-  - `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
-  - `remedy` /ˈremədi/              ([Neutral] 治療する、改善する)  We need to remedy this situation.
-  - `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を投与する)        They medicated the patient for pain.
-  - `administer` /ədˈmɪnɪstər/      ([Medical] 投与する、施す)      The nurse administered the vaccine.
-- `assimilate`                            ([Neutral] 同化する、適合する、吸収する)
-- `buttress`                            ([Neutral] 議論を強化する、支持する)
-- `civilize`                            ([Neutral] 文明化する、教化する)
-- `cleanse`                            ([Neutral] 洗浄する、罪などを清める、浄化する)
-- `commute`                            ([Neutral] 通勤・通学する、代える、変化させる、取り替える)
-- `comprise`                            ([Neutral] ～より成る、含む)
-- `degenerate`                            ([Neutral] 悪化する)
-- `incubate`                            ([Neutral] ふ化する、培養する、熟考する、企てる)
-- `industrialize`                            ([Neutral] 工業化する、工業主義に転換する)
-- `landscape`                            ([Neutral] 美化する、庭師をする)
-- `modernize`                            ([Neutral] 現代化する、当世風にする)
-- `personalize`                            ([Neutral] 個人のものにする、特定の人向けにする、擬人化する)
-- `privatize`                            ([Neutral] 民営化する)
-- `repent`                            ([Neutral] 悔い改める、悔やむ)
-- `sublime`                            ([Neutral] 純化する、（固体が）昇華する)
-- `veer`                            ([Neutral] 進路や話題を急に変える)
-
-## COMMUNICATION
-- `be upfront about`                ([Casual] について正直に言う)   She's very upfront about her feelings.
-  - `be honest about` /ˈɑːnəst/     ([Neutral] について正直に言う)  I want you to be honest about it.
-  - `be candid about` /ˈkæn.dɪd/    ([Formal] について率直に言う)   To be candid about the situation.
-  - `be frank about` /fɹæŋk/        ([Neutral] について率直に言う)  Let me be frank about my concerns.
-  - `be straightforward about`      ([Neutral] について率直に言う)  Be straightforward about your needs.
-  - `be transparent about`          ([Formal] について透明性を持つ) Our accounting is transparent about costs.
-- `ask` /æsk/                       ([Neutral] 頼む、尋ねる)        Can I ask you a favor?
-- `request` /rɪˈkwest/              ([Neutral] 要請する、頼む)      I request your assistance.
-- `please` /pliːz/                  ([Neutral] お願いする 喜ばせる) Please help me with this.
-- `beg` /beɡ/                       ([Neutral] 懇願する、物乞い)    I beg you to reconsider.
-- `plead` /pliːd/                   ([Neutral] 嘆願する、弁護する)  She pleaded for mercy.
-  - `plea` /pliː/                   ([Neutral] 嘆願、弁解)          Her plea was ignored.
-- `implore` /ɪmˈplɔːr/              ([Formal] 懇願する、哀願する)   I implore you to listen.
-- `entreat` /ɪnˈtriːt/              ([Formal] 懇願する、頼む)       She entreated him to stay.
-  - `entreaty` /ɪnˈtriːti/          ([Formal] 懇願、嘆願)           His entreaties fell on deaf ears.
-- `beseech` /bɪˈsiːtʃ/              ([Writing] 懇願する、切願する)  I beseech you to help us.
-- `appeal` /əˈpiːl/                 ([Neutral] 訴える、懇願する)    They appealed for help.
-- `petition` /pəˈtɪʃən/             ([Formal] 請願する、嘆願する)   Citizens petitioned the government.
-- `solicit` /səˈlɪsɪt/              ([Formal] 求める、勧誘する)     He solicited donations for charity.
-  - `solicitor` /səˈlɪsɪtər/        ([Formal] 事務弁護士、勧誘者)   The solicitor handled the legal matter.
-- `supplicate` /ˈsʌplɪkeɪt/         ([Writing] 嘆願する、懇願する)  They supplicated for divine help.
-  - `supplicant` /ˈsʌplɪkənt/       ([Writing] 嘆願者)              The supplicant knelt before the king.
-- `vent` /vent/                     ([Neutral] 感情を発散する)      She vented her frustration to a friend.
-  - `venting` /ˈventɪŋ/             ([Neutral] 発散、愚痴)          He was venting about his boss.
-  - `vented` /ˈventɪd/              ([Neutral] 発散した)            She vented her anger at the meeting.
-- `release` /rɪˈliːs/               ([Neutral] 解放する、発散する)  Exercise helps release stress.
-- `unleash` /ʌnˈliːʃ/               ([Neutral] 解き放つ 爆発させる) He unleashed his anger.
-  - `unleashing` /ʌnˈliːʃɪŋ/        ([Neutral] 解き放つこと)        The unleashing of emotions was cathartic.
-  - `unleashed` /ʌnˈliːʃt/          ([Neutral] 解き放たれた)        Her creativity was finally unleashed.
-- `pour out` /pɔːr aʊt/             ([Casual] 吐き出す、打ち明ける) She poured out her troubles to me.
-- `unload` /ʌnˈloʊd/                ([Casual] 感情を吐き出す)       He unloaded all his problems on me.
-- `discharge` /dɪsˈtʃɑːrdʒ/         ([Formal] 放出する、発散する)   She discharged her emotions through art.
-- `unburden` /ʌnˈbɜːrdən/           ([Formal] 重荷を下ろ 打ち明け)  She unburdened herself to her friend.
-  - `unburdening` /ʌnˈbɜːrdənɪŋ/    ([Formal] 重荷を下ろすこと)     The unburdening brought relief.
-  - `unburdened` /ʌnˈbɜːrdənd/      ([Formal] 重荷から解放された)   He felt unburdened after confessing.
-- `confide` /kənˈfaɪd/              ([Neutral] 打ち明ける 信頼する) She confided her fears to him.
-  - `confidant` /ˈkɑːnfɪdænt/       ([Neutral] 親友、相談相手)      She's my closest confidant.
-- `allege`                            ([Neutral] 主張する、断言する)
-- `articulate`                            ([Neutral] はっきり話す)
-- `babble`                            ([Neutral] 片言を言う、おしゃべりをする)
-- `badger`                            ([Neutral] しつこく言う、困らせる)
-- `bequeath`                            ([Neutral] 遺贈する、伝える)
-- `bulletin`                            ([Neutral] 公表する)
-- `cant`                            ([Neutral] きれいごとを語る、斜めにする)
-- `chide`                            ([Neutral] たしなめる、小言を言う)
-- `chirp`                            ([Neutral] チュンチュンと鳴く、にぎやかに話す)
-- `congratulate`                            ([Neutral] お祝いを言う)
-- `construe`                            ([Neutral] 説明する、解釈する、翻訳する)
-- `downplay`                            ([Neutral] 軽視する、控えめに言う)
-- `drawl`                            ([Neutral] 気どってゆっくり話す)
-- `enunciate`                            ([Neutral] 明確に発音する・述べる)
-- `exclaim`                            ([Neutral] 叫ぶ)
-- `gargle`                            ([Neutral] うがいして清める、がらがら声で言う)
-- `grouse`                            ([Neutral] 不平を言う)
-- `grumble`                            ([Neutral] 不平を言う、ぶつぶつ言う)
-- `herald`                            ([Neutral] 到来を告げる)
-- `hiss`                            ([Neutral] シューと音をたてる、語気強く小声で言う)
-- `hoot`                            ([Neutral] わめく、叫ぶ、やじる)
-- `hurrah`                            ([Neutral] フレーと叫ぶ)
-- `malign`                            ([Neutral] 害を及ぼす、悪口を言う)
-- `mutter`                            ([Neutral] 不明瞭な声で言う、ぼそぼそ文句を言う)
-- `overstate`                            ([Neutral] 誇張して話す、大げさに述べる)
-- `pant`                            ([Neutral] 荒い息をする、あえぎながら言う)
-- `patter`                            ([Neutral] パラパラと音をたてる、早口に話す)
-- `predicate`                            ([Neutral] 基礎を置く、含意する、断言する)
-- `pun`                            ([Neutral] しゃれを言う)
-- `purport`                            ([Neutral] 称する、主張する、意味する)
-- `quip`                            ([Neutral] 皮肉を言う)
-- `ramble`                            ([Neutral] 散歩する、曲がりくねっている、とりとめもなく話す)
-- `rant`                            ([Neutral] わめく、大きなことを言う)
-- `rationalize`                            ([Neutral] 合理的に説明する、合理化する、正当化する、推理する)
-- `rave`                            ([Neutral] うわごとを言う、熱弁をふるう、わめきたてる)
-- `recite`                            ([Neutral] 暗唱する、話す)
-- `recount`                            ([Neutral] 詳しく話す、物語る)
-- `rehearse`                            ([Neutral] 稽古する、詳しく述べる)
-- `reiterate`                            ([Neutral] 繰り返して言う、何度も行う)
-- `reminisce`                            ([Neutral] 思い出を語る、楽しく思い出す)
-- `screech`                            ([Neutral] 悲鳴をあげる、金切り声で言う)
-- `shriek`                            ([Neutral] 金切り声で叫ぶ)
-- `testify`                            ([Neutral] 証言する、証拠となる、おごそかに宣言する)
-- `trifle`                            ([Neutral] 粗末に扱う、冗談を言う)
-- `vow`                            ([Neutral] 誓う、断言する)
-- `wail`                            ([Neutral] 泣き叫ぶ、もの悲しい音を出す)
-- `whimper`                            ([Neutral] （子どもが）すすり泣く、泣き言を言う、クンクン鳴く)
-- `whine`                            ([Neutral] （犬が）クンクン鳴く、哀れな声を出す、めそめそグチを言う)
-
-## COGNITIVE & THINKING
-- `thank` /θæŋk/                    ([Neutral] 感謝する、礼を言う)  Thank you for your help.
-  - `appreciate` /əˈpriːʃieɪt/      ([Neutral] 感謝する、評価する)  I appreciate your help with this project.
-  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認識する 功績認める) We recognize your efforts.
-  - `acknowledge` /əkˈnɑːlɪdʒ/      ([Formal] 認める、感謝を示す)   I acknowledge your contribution.
-  - `cherish` /ˈtʃerɪʃ/             ([Neutral] 大切にする 心に抱く) I cherish these memories.
-  - `treasure` /ˈtreʒər/            ([Neutral] 大切にする 宝物扱い) I treasure your advice.
-  - `be grateful` /ˈɡreɪtfəl/       ([Neutral] 感謝している)        I'm grateful for your assistance.
-  - `be thankful` /ˈθæŋkfəl/        ([Neutral] 感謝している)        I'm thankful for this opportunity.
-  - `be appreciative` /əˈpriːʃətɪv/ ([Formal] 感謝している)         She was appreciative of their support.
-  - `be obliged` /əˈblaɪdʒd/        ([Formal] 恩義を感じる)         I'm much obliged for your help.
-  - `be indebted` /ɪnˈdetɪd/        ([Formal] 恩義がある)           I'm indebted to you for this.
-  - `be beholden` /bɪˈhoʊldən/      ([Writing] 恩義を受けて)        I'm beholden to you for this favor.
-  - `owe` /oʊ/                      ([Neutral] 借りがある 恩がある) I owe you a debt of gratitude.
-- `respect` /rɪˈspekt/              ([Neutral] 尊敬、尊重)          I have great respect for her work.
-  - `value` /ˈvæljuː/               ([Neutral] 価値を認める 大切に) I value your opinion highly.
-  - `look up to` /lʊk ʌp tuː/       ([Casual] 尊敬する、見上げる)   Children look up to their parents.
-  - `honor` /ˈɑːnər/                ([Formal] 敬う、名誉を与える)   We honor their sacrifice.
-  - `regard` /rɪˈɡɑːrd/             ([Neutral] 見なす、敬意)        I regard him as a mentor.
-  - `esteem` /ɪˈstiːm/              ([Formal] 重んじる、尊敬)       She is held in high esteem by colleagues.
-  - `idolize` /ˈaɪdəlaɪz/           ([Neutral] 偶像化する、崇拝)    Fans idolize the rock star.
-  - `salute` /səˈluːt/              ([Neutral] 敬礼、敬意表す)      The soldiers saluted their commanding officer.
-  - `worship` /ˈwɜːrʃɪp/            ([Neutral] 崇拝する、礼拝する)  Some cultures worship nature.
-  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your expertise.
-  - `revere` /rɪˈvɪr/               ([Writing] あがめる)            Many people revere his memory.
-  - `venerate` /ˈvenəreɪt/          ([Writing] 崇拝する、尊敬する)  They venerate their ancestors.
-- `praise` /preɪz/                  ([Neutral] 称賛する、褒める)    She praised him for his hard work.
-  - `congratulate` /kənˈɡrætʃəleɪt/ ([Neutral] 祝う、褒める)        Congratulate her on the promotion!
-  - `applaud` /əˈplɔːd/             ([Neutral] 拍手する、賞賛)      The audience applauded enthusiastically.
-  - `recognize` /ˈrekəɡnaɪz/        ([Neutral] 認める、表彰する)    The company recognized his efforts.
-  - `credit` /ˈkredɪt/              ([Neutral] 功績を認める)        I credit her with the success.
-  - `commend` /kəˈmend/             ([Formal] 称賛する、推薦する)   The teacher commended her excellent performance.
-  - `celebrate` /ˈseləbreɪt/        ([Neutral] 祝う、称える)        Let's celebrate your achievement!
-  - `admire` /ədˈmaɪər/             ([Neutral] 賞賛する、感嘆する)  I admire your dedication.
-  - `acclaim` /əˈkleɪm/             ([Formal] 絶賛する、喝采)       The film received critical acclaim.
-  - `hail` /heɪl/                   ([Neutral] 称賛する、歓迎する)  Critics hailed it as a masterpiece.
-  - `glorify` /ˈɡlɔːrɪfaɪ/          ([Neutral] 賛美する、美化する)  Don't glorify bad behavior.
-  - `exalt` /ɪɡˈzɔːlt/              ([Writing] 称賛する、高める)    They exalted his achievements.
-  - `laud` /lɔːd/                   ([Writing] 賞賛する、称える)    Critics lauded the novel's innovative style.
-  - `extol` /ɪkˈstoʊl/              ([Writing] 賞賛する、讃える)    Critics extol the director's latest film.
-  - `eulogize` /ˈjuːlədʒaɪz/        ([Writing] 賛美する、弔辞)      He eulogized his late mentor.
-  - `lionize` /ˈlaɪənaɪz/           ([Writing] もてはやす 有名人扱) The media lionized the young athlete.
-- `stand` /stænd/                   ([Neutral] 耐える)              I can't stand the noise.
-  - `tolerate` /ˈtɑːləreɪt/         ([Neutral] 耐える、我慢する)    I won't tolerate such behavior.
-  - `bear` /ber/                    ([Neutral] 耐える)              I can't bear the pain.
-  - `endure` /ɪnˈdʊr/               ([Neutral] 耐え忍ぶ)            She endured years of hardship.
-  - `put up with` /pʊt ʌp wɪð/      ([Casual] 我慢する)             I won't put up with this anymore.
-  - `abide` /əˈbaɪd/                ([Writing] 我慢する)            I can't abide his behavior.
-  - `withstand` /wɪðˈstænd/         ([Neutral] 耐える、抵抗する)    The building withstood the earthquake.
-- `brood`                            ([Neutral] 卵を抱く、じっと考える)
-- `deduct`                            ([Neutral] 差し引く、推論する、演繹する)
-- `deem`                            ([Neutral] 考える、意見をもつ)
-- `delude`                            ([Neutral] 心・判断を惑わす、欺く)
-- `deplore`                            ([Neutral] 嘆く、遺憾に思う、非難する)
-- `distrust`                            ([Neutral] 疑う、信頼しない)
-- `elude`                            ([Neutral] うまく避ける、理解できない)
-- `envisage`                            ([Neutral] 心に描く、予想する)
-- `misplace`                            ([Neutral] 置き忘れる、置き違える)
-- `mistrust`                            ([Neutral] 信用しない、疑う)
-- `ponder`                            ([Neutral] じっくり考える)
-- `repute`                            ([Neutral] 考える、みなす)
-- `rue`                            ([Neutral] なければよかったと思う、悔いる)
-
-## AGREEMENT & PROMISE
-- `promise` /ˈprɑːmɪs/              ([Neutral] 約束する、保証する)  She promised to call.
-  - `assure` /əˈʃʊr/                ([Neutral] 保証する、断言する)  I can assure you it's safe.
-  - `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
-  - `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
-  - `confirm` /kənˈfɜːrm/           ([Neutral] 確認する、確証する)  Please confirm your attendance.
-  - `verify` /ˈverɪfaɪ/             ([Neutral] 確認する、証明する)  We need to verify your identity.
-  - `secure` /sɪˈkjʊr/              ([Neutral] 確保する、保証する)  We secured funding for the project.
-  - `back` /bæk/                    ([Casual] 支持する、保証する)   I'll back you on this decision.
-  - `insure` /ɪnˈʃʊr/               ([Neutral] 保証する 保険かける) Insure your valuables.
-  - `vouch for` /vaʊtʃ/             ([Neutral] ～を保証する)        I'll vouch for his character.
-  - `certify` /ˈsɜːrtɪfaɪ/          ([Formal] 証明する、認定する)   The document must be certified.
-  - `attest` /əˈtest/               ([Formal] 証明する、保証する)   I can attest to the accuracy.
-  - `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
-  - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
-  - `underwrite` /ˌʌndərˈraɪt/      ([Formal] 保証する 引受ける)    The bank will underwrite the loan.
-  - `validate` /ˈvælɪdeɪt/          ([Formal] 有効にする 確認する)  Please validate your ticket.
-  - `substantiate` /səbˈstænʃieɪt/  ([Formal] 実証する、立証する)   Can you substantiate your claims?
-  - `hallmark` /ˈhɔːlmɑːrk/         ([Formal] 品質保証する)         The item is hallmarked.		
-- `relate to` /ɹɪˈleɪt tuː/         ([Neutral] 共感する、関連する)  I can relate to your experience.
-- `rely on` /rɪˈlaɪ ɑːn/            ([Neutral] 頼る、依存する)      We rely on public transport.
-- `depend on` /dɪˈpend ɑːn/         ([Neutral] 頼る、次第である)    Success depends on hard work.
-- `count on` /kaʊnt ɑːn/            ([Neutral] 頼る、当てにする)    I'm counting on you to help me.
-- `count toward` /kaʊnt təˈwɔrd/     ([Neutral] ～に含まれる)        This course counts toward your degree.
-  - `contribute toward` /kənˈtɹɪb.jut təˈwɔrd/ ([Neutral] ～に貢献する) Every donation contributes toward our goal.
-  - `go toward` /ɡoʊ təˈwɔrd/       ([Neutral] ～に充てられる)      The money will go toward new equipment.
-  - `apply toward` /əˈplaɪ təˈwɔrd/ ([Neutral] ～に充当する)        Credits apply toward your next purchase.
-- `trust` /trʌst/                   ([Neutral] 信頼する)            You can trust me not to tell anyone.
-- `turn to` /tɜːrn tuː/             ([Neutral] 頼る、助けを求める)  She turned to her family for support.
-- `look to` /lʊk tuː/               ([Neutral] 頼る、期待する)      We look to you for guidance.
-- `bank on` /bæŋk ɑːn/              ([Neutral] 当てにする)          I'm banking on your help.
-- `lean on` /liːn ɑːn/              ([Neutral] 頼る、支えにする)    She had her friends to lean on.
-- `have confidence in`              ([Neutral] 信頼する)            I have confidence in her abilities.
-- `fall back on` /fɔːl bæk ɑːn/     ([Neutral] 頼る、最終手段)      I have savings to fall back on.
-- `resort to` /rɪˈzɔːrt tuː/        ([Neutral] 頼る、手段に訴える)  They resorted to borrowing money.
-- `rest on` /rest ɑːn/              ([Formal] 基づく、頼る)         Our hopes rest on this decision.
-- `pin hopes on` /pɪn hoʊps ɑːn/    ([Neutral] 期待をかける)        They pinned their hopes on winning.
-- `hinge on` /hɪndʒ ɑːn/            ([Neutral] 次第である、頼る)    Everything hinges on the outcome.
-- `bet on` /bet ɑːn/                ([Casual] 当てにする、賭ける)   I wouldn't bet on him showing up.
-- `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
-- `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
-- `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.
-
-## CONFLICT & AGGRESSION
-- `fight` /faɪt/                    ([Neutral] 戦う、喧嘩する)      They fought over money.
-  - `fight with`                    ([Neutral] ～と戦う)            He fought with his brother.
-  - `conflict` /kənˈflɪkt/          ([Neutral] 対立する)            Their interests conflict.
-  - `conflict with`                 ([Neutral] ～と対立する)        This conflicts with our policy.
-  - `clash` /klæʃ/                  ([Neutral] 衝突する)            The two groups clashed violently.
-  - `clash with`                    ([Neutral] ～と衝突する)        His ideas clash with mine.
-  - `butt heads` /bʌt hedz/         ([Casual] 衝突する)             We always butt heads on this issue.
-  - `lock horns` /lɑːk hɔːrnz/      ([Casual] 激しく対立する)       They locked horns over the budget.
-  - `tangle with`                   ([Neutral] ～と争う)            He tangled with the wrong people.
-  - `scuffle` /ˈskʌfəl/             ([Neutral] もみ合う)            They scuffled in the hallway.
-  - `tussle` /ˈtʌsəl/               ([Neutral] 取っ組み合う)        The boys tussled on the playground.
-  - `grapple` /ˈɡræpəl/             ([Neutral] 格闘する)            They grappled on the ground.
-  - `snarl` /snɑːrl/                ([Neutral] もつれ、うなる)      Traffic is in a snarl downtown.
-- `attack` /əˈtæk/                  ([Neutral] 攻撃する)            The enemy attacked at dawn.
-  - `assault` /əˈsɔːlt/             ([Neutral] 襲撃する)            He was charged with assault.
-  - `strike` /straɪk/               ([Neutral] 打つ、攻撃する)      The army will strike at midnight.
-  - `raid` /reɪd/                   ([Neutral] 襲撃する)            Police raided the building.
-  - `ambush` /ˈæmbʊʃ/               ([Neutral] 待ち伏せ攻撃する)    They ambushed the convoy.
-- `confront` /kənˈfrʌnt/            ([Neutral] 立ち向かう)          She confronted him about the lies.
-  - `challenge` /ˈtʃælɪndʒ/         ([Neutral] 挑戦する)            He challenged her to a debate.
-  - `oppose` /əˈpoʊz/               ([Neutral] 反対する)            They opposed the new policy.
-  - `depose` /dɪˈpoʊz/              ([Formal] 退位させる、証言する)  The rebels deposed the dictator.
-  - `overthrow` /ˌoʊvərˈθroʊ/       ([Neutral] 打倒する、転覆する)  They plotted to overthrow the government.
-  - `oust` /aʊst/                   ([Neutral] 追放する、失脚させる) The board ousted the CEO.
-  - `dethrone` /diːˈθroʊn/          ([Formal] 王位から退ける)      The revolution dethroned the monarch.
-  - `topple` /ˈtɑːpəl/              ([Neutral] 倒す、打倒する)      The scandal toppled the administration.
-  - `unseat` /ʌnˈsiːt/              ([Formal] 議席を失わせる)      Voters unseated the incumbent.
-  - `take on` /teɪk ɑːn/            ([Neutral] 挑む)                She took on the challenge.
-  - `face off` /feɪs ɔːf/           ([Neutral] 対決する)            The teams faced off in the finals.
-  - `stand up to` /stænd ʌp tuː/    ([Casual] 立ち向かう)           He stood up to the bully.
-  - `defy` /dɪˈfaɪ/                 ([Neutral] 反抗する)            She defied her parents' wishes.
-  - `cross` /krɔːs/                 ([Neutral] 逆らう)              Don't cross him when he's angry.
-  - `square off` /skwer ɔːf/        ([Casual] 対峙する)             The boxers squared off.
-  - `go head-to-head`               ([Casual] 真っ向勝負する)       The rivals went head-to-head.
-  - `antagonize` /ænˈtæɡənaɪz/      ([Formal] 敵対させる)           Try not to antagonize your boss.
-  - `lock horns` /lɑːk hɔːrnz/      ([Casual] 激しく対立する)       They locked horns over the budget.
-  - `square up to`                  ([British] 立ち向かう)          He squared up to his opponent.
-  - `eyeball` /ˈaɪbɔːl/             ([Casual] にらみ合う)           The two teams eyeballed each other.
-- `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
-  - `stop` /stɑːp/                  ([Neutral] 止める)              Stop interrupting me!
-  - `cease` /siːs/                  ([Formal] 停止する、やめる)     The fighting ceased at midnight.
-  - `halt` /hɔːlt/                  ([Formal] 停止する、中止する)   The project was halted due to funding.
-  - `discontinue` /ˌdɪskənˈtɪnjuː/  ([Formal] 中止する、廃止する)   They discontinued the product line.
-  - `terminate` /ˈtɜːrmɪneɪt/       ([Formal] 終了する、打ち切る)   The contract was terminated early.
-  - `suspend` /səˈspend/            ([Formal] 一時停止する)         Classes were suspended due to snow.
-  - `prevent` /prɪˈvent/            ([Neutral] 防ぐ、妨げる)        This will prevent accidents.
-  - `nip it in the bud`             ([Neutral] 芽のうちに摘む)      We should nip this problem in the bud.
-  - `cut off at the pass`           ([Casual] 先手を打って阻止)     Let's cut this off at the pass.
-  - `head off` /hed ɔːf/            ([Neutral] 未然に防ぐ)          We need to head off any problems.
-  - `forestall` /fɔːrˈstɔːl/        ([Formal] 未然に防ぐ)           They forestalled the crisis.
-  - `preempt` /priːˈempt/           ([Formal] 先手を打つ)           The company preempted criticism.
-  - `avert` /əˈvɜːrt/               ([Formal] 回避する、防ぐ)       They averted a disaster.
-  - `stave off` /steɪv ɔːf/         ([Neutral] 食い止める)          We need to stave off bankruptcy.
-  - `get in the way` /ɡet ɪn ðə weɪ/([Casual] 邪魔になる)           Don't get in the way.
-  - `interfere` /ˌɪntərˈfɪr/        ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
-  - `hinder` /ˈhɪndər/              ([Neutral] 妨げる、邪魔する)    Don't hinder their efforts.
-  - `hold up` /hoʊld ʌp/            ([Casual] 遅らせる)             Traffic held us up.
-  - `slow down` /sloʊ daʊn/         ([Neutral] 遅くする)            This will slow down progress.
-  - `be an obstacle`                ([Neutral] 障害になる)          Language can be an obstacle.
-  - `disrupt` /dɪsˈrʌpt/            ([Neutral] 混乱させる)          Don't disrupt the meeting.
-  - `hamper` /ˈhæmpər/              ([Neutral] 妨げる、邪魔する)    Rain hampered the rescue efforts.
-  - `obstruct` /əbˈstrʌkt/          ([Formal] 妨害する、塞ぐ)       Don't obstruct the exit.
-  - `impede` /ɪmˈpiːd/              ([Formal] 妨げる、遅らせる)     Bad weather impeded our progress.
-  - `thwart` /θwɔːrt/               ([Formal] 阻止する、挫折させる) They thwarted our plans.
-- `kidnap` /ˈkɪdnæp/                ([Neutral] 誘拐する)            They kidnapped the businessman.
-  - `abduct` /æbˈdʌkt/              ([Formal] 誘拐する)             The criminals abducted the child.
-  - `take hostage`                  ([Neutral] 人質に取る)          The terrorists took hostages.
-- `grab` /ɡræb/                     ([Casual] つかむ、奪う)         He grabbed my phone and ran.
-  - `snatch` /snætʃ/                ([Casual] ひったくる)           Someone snatched her purse.
-  - `steal` /stiːl/                 ([Neutral] 盗む)                They stole his wallet.
-  - `take` /teɪk/                   ([Neutral] 取る)                Someone took my bag.
-  - `swipe` /swaɪp/                 ([Casual] 盗む)                 He swiped the candy bar.
-  - `pilfer` /ˈpɪlfər/              ([Neutral] こそ泥する)          The employee pilfered office supplies.
-  - `lift` /lɪft/                   ([Casual] 盗む)                 She lifted a magazine from the store.
-  - `nick` /nɪk/                    ([British] 盗む)                Someone nicked my bike.
-  - `pinch` /pɪntʃ/                 ([Casual] つまむ、盗む)         He pinched an apple from the cart.
-  - `make off with` /meɪk ɔːf wɪð/  ([Casual] 持ち逃げする)         The thieves made off with the jewelry.
-  - `run off with` /rʌn ɔːf wɪð/    ([Casual] 持ち逃げする)         He ran off with the money.
-  - `walk off with` /wɔːk ɔːf wɪð/  ([Casual] 持ち去る)             Someone walked off with my umbrella.
-  - `filch` /fɪltʃ/                 ([Casual] 盗む)                 The kid filched cookies from the jar.
-  - `purloin` /pərˈlɔɪn/            ([Formal] 盗用する)             He purloined the company's secrets.
-  - `embezzle` /ɪmˈbezəl/           ([Formal] 横領する)             The accountant embezzled funds from the company.
-  - `misappropriate` /ˌmɪsəˈproʊpriˌeɪt/ ([Formal] 不正流用する)    He misappropriated public money.
-  - `defraud` /dɪˈfrɔːd/            ([Formal] 詐取する)             They defrauded investors of millions.
-  - `siphon off` /ˈsaɪfən ɔːf/      ([Neutral] 不正に抜き取る)      He siphoned off company funds.
-- `blame` /bleɪm/                   ([Neutral] せいにする、責める)  Don't blame me for your mistakes.
-  - `criticize` /ˈkrɪtɪsaɪz/        ([Neutral] 非難する、批判)      She criticized his poor performance.
-  - `accuse` /əˈkjuːz/              ([Neutral] 非難する、告発する)  She accused him of lying.
-  - `scold` /skoʊld/                ([Neutral] しかる、叱責する)    The mother scolded her naughty child.
-  - `condemn` /kənˈdem/             ([Formal] 非難する、刑宣告)     The court condemned his actions.
-  - `blast` /blæst/                 ([Casual] 激しく非難する)       The media blasted the politician.
-  - `slam` /slæm/                   ([Casual] こき下ろす、酷評する) Critics slammed the new movie.
-  - `denounce` /dɪˈnaʊns/           ([Formal] 公然と非難する)       The activist denounced the government's policy.
-  - `reprimand` /ˈreprɪmænd/        ([Formal] 叱責する)             The boss reprimanded him for being late.
-  - `reproach` /rɪˈproʊtʃ/          ([Formal] 非難する、恥辱)       She reproached him for his selfishness.
-  - `rebuke` /rɪˈbjuːk/             ([Formal] 叱責する、非難する)   The teacher rebuked the student for cheating.
-  - `censure` /ˈsenʃər/             ([Formal] 激しく非難する)       The senator was censured for misconduct.
-  - `chastise` /ˈtʃæstaɪz/          ([Formal] 厳しく非難する)       The coach chastised the team for poor performance.
-  - `lash` /læʃ/                    ([Neutral] 激しく非難する)      The senator lashed out at his critics.
-  - `berate` /bɪˈreɪt/              ([Formal] 激しく叱る)           She berated him for his carelessness.
-  - `upbraid` /ʌpˈbreɪd/            ([Writing] 叱責する、非難する)  He upbraided them for their negligence.
-  - `castigate` /ˈkæstɪɡeɪt/        ([Writing] 厳しく批判する)      The editorial castigated the government.
-  - `lambaste` /læmˈbeɪst/          ([Casual] 激しく非難する)       The coach lambasted the referee's decision.
-  - `excoriate` /ɪkˈskɔːrieɪt/      ([Writing] 痛烈に批判する)      The review excoriated the author.
-  - `assail` /əˈseɪl/               ([Writing] 激しく非難する)      Critics assailed the new policy.
-- `interfere with`                  ([Neutral] ～に干渉する)        Don't interfere with their plans.
-  - `interrupt` /ˌɪntəˈrʌpt/        ([Neutral] 邪魔する、中断する)  Don't interrupt me while I'm talking.
-  - `get in the way`                ([Casual] 邪魔する)             Your car is getting in the way.
-  - `butt in` /bʌt ɪn/              ([Casual] 口を挟む)             Don't butt in on our conversation.
-  - `meddle in`                     ([Neutral] ～に口出しする)      Stop meddling in my business.
-  - `intrude` /ɪnˈtruːd/            ([Neutral] 侵入する、割り込む)  Sorry to intrude on your meeting.
-  - `step on someone's toes`        ([Casual] 他人の領域を侵す)     I don't want to step on your toes.
-  - `overstep` /ˌoʊvərˈstep/        ([Neutral] 越権行為をする)      You overstepped your authority.
-  - `encroach` /ɪnˈkroʊtʃ/          ([Formal] 侵害する)             The city encroaches on farmland.
-  - `impinge` /ɪmˈpɪndʒ/            ([Formal] 影響を与える)         This impinges on our rights.
-- `mess with` /mes wɪð/             ([Casual] ちょっかいを出す)     Don't mess with those guys.
-  - `pick on` /pɪk ɑːn/             ([Casual] いじめる、からかう)   Why do you always pick on me?
-  - `harass` /həˈræs/               ([Neutral] 嫌がらせをする)      He was accused of harassing coworkers.
-  - `provoke` /prəˈvoʊk/            ([Neutral] 挑発する)            Don't provoke the dog.
-  - `needle` /ˈniːdəl/              ([Casual] ちくちく言う)         He kept needling me about my mistake.
-  - `bully` /ˈbʊli/                 ([Neutral] いじめる)            He was bullied at school.
-- `argue` /ˈɑːrɡjuː/                ([Neutral] 議論する、口論する)  We argued about the decision.
-  - `bicker` /ˈbɪkər/               ([Neutral] 些細な口論をする)    The couple bickered constantly.
-  - `quarrel` /ˈkwɔːrəl/            ([Neutral] 口論する)            They quarreled about politics.
-  - `dispute` /dɪˈspjuːt/           ([Formal] 論争する)             They disputed the claim.
-  - `squabble` /ˈskwɑːbəl/          ([Casual] つまらない口論)       Kids squabble over toys.
-  - `wrangle` /ˈræŋɡəl/             ([Neutral] 口論する)            They wrangled for hours.
-  - `nag` /næɡ/                     ([Casual] がみがみ言う)         Stop nagging me about chores.
-  - `spar` /spɑːr/                  ([Neutral] 口論する、練習試合)  They sparred over policy details.
-  - `cross swords` /krɔːs sɔːrdz/   ([Formal] 論争する)             They crossed swords in court.
-- `laugh at` /læf æt/               ([Neutral] 笑う、あざ笑う)      Everyone laughed at his mistake.
-  - `make fun of` /meɪk fʌn ʌv/     ([Casual] からかう)             Don't make fun of his accent.
-  - `tease` /tiːz/                  ([Neutral] からかう、いじる)    Stop teasing your little brother.
-  - `mock` /mɑːk/                   ([Neutral] あざける、まねる)    The children mocked his accent.
-  - `ridicule` /ˈrɪdɪkjuːl/         ([Neutral] あざ笑う、嘲笑する)  Don't ridicule his efforts.
-  - `scoff` /skɔːf/                 ([Neutral] あざ笑う、嘲笑する)  She scoffed at his suggestion.
-  - `taunt` /tɔːnt/                 ([Neutral] あざける、ののしる)  The bullies taunted the younger kids.
-  - `sneer` /snɪr/                  ([Neutral] あざ笑う、冷笑する)  He sneered at their attempts.
-  - `jeer` /dʒɪr/                   ([Neutral] ヤジを飛ばす)        The crowd jeered at the opposing team.
-  - `deride` /dɪˈraɪd/              ([Formal] あざける、嘲笑する)   Critics derided his performance.
-    - `derision` /dɪˈrɪʒən/         ([Formal] 嘲笑、あざけり)       His ideas were met with derision.
-    - `derisive` /dɪˈraɪsɪv/        ([Formal] 嘲笑的な)             She made a derisive comment.
-  - `vilify` /ˈvɪlɪfaɪ/             ([Writing] 中傷する、けなす)    The press vilified the celebrity.
-    - `vilification`                ([Writing] 中傷、悪口)          The vilification was unjustified.
-  - `revile` /rɪˈvaɪl/              ([Writing] 罵倒する 悪口を言う) They reviled him as a traitor.
-- `ignore` /ɪɡˈnɔːr/                ([Neutral] 無視する)            He ignored my messages.
-  - `reject` /rɪˈdʒekt/             ([Neutral] 拒絶する)            They rejected his proposal.
-  - `dismiss` /dɪsˈmɪs/             ([Neutral] 却下する、退ける)    She dismissed his concerns.
-  - `snub` /snʌb/                   ([Neutral] 冷たくあしらう)      She snubbed him at the party.
-  - `shun` /ʃʌn/                    ([Formal] 避ける、敬遠する)     The community shunned the family.
-  - `rebuff` /rɪˈbʌf/               ([Formal] 拒絶する、はねつける) She rebuffed his advances.
-  - `spurn` /spɜːrn/                ([Writing] 拒絶する はねつける) She spurned his affection.
-  - `ostracize` /ˈɑːstrəsaɪz/       ([Formal] 追放する、排斥する)   They ostracized him from the group.
-    - `ostracism` /ˈɑːstrəsɪzəm/    ([Formal] 追放、排斥)           The ostracism was painful.
-- `offend` /əˈfend/                 ([Neutral] 不快にさせる)        I didn't mean to offend you.
-  - `disrespect` /ˌdɪsrɪˈspekt/     ([Neutral] 失礼な態度を取る)    Don't disrespect your elders.
-- `frustrate` /ˈfrʌstreɪt/          ([Neutral] 欲求不満にさせる)    The lack of progress frustrates me.
-  - `annoy` /əˈnɔɪ/                 ([Neutral] いらだたせる)        The noise really annoys me.
-  - `irritate` /ˈɪrɪteɪt/           ([Neutral] いらだたせる)        His attitude irritates everyone.
-  - `get on someone's nerves`       ([Casual] 神経に障る)           He really gets on my nerves.
-  - `bug` /bʌɡ/                     ([Casual] いらだたせる)         Stop bugging me!
-  - `drive someone crazy/nuts`      ([Casual] 気が狂いそうになる)   This noise is driving me crazy!
-  - `aggravate` /ˈæɡrəveɪt/         ([Neutral] 悪化させる、苛立つ)  The situation aggravated tensions.
-  - `tick off` /tɪk ɔːf/            ([Casual] 怒らせる)             That really ticks me off.
-  - `get under someone's skin`      ([Casual] いらいらさせる)       He knows how to get under my skin.
-  - `rub someone the wrong way`     ([Casual] 気に障る)             She just rubs me the wrong way.
-  - `drive someone up the wall`     ([Casual] いらいらさせる)       That music drives me up the wall.
-  - `piss off` /pɪs ɔːf/            ([Vulgar] 怒らせる)             He really pissed me off.
-  - `peeve` /piːv/                  ([Casual] いらだたせる)         That really peeves me.
-  - `irk` /ɜːrk/                    ([Neutral] いらだたせる)        His comments irked the team.
-  - `rile` /raɪl/                   ([Casual] 怒らせる)             Don't let him rile you up.
-  - `grate on` /ɡreɪt ɑːn/          ([Neutral] いらだたせる)        Her voice grates on me.
-  - `wind up` /waɪnd ʌp/            ([British] からかう)            Stop trying to wind me up!
-  - `cheese off` /tʃiːz ɔːf/        ([British] いらだたせる)        That really cheeses me off.
-  - `nark` /nɑːrk/                  ([British] いらだたせる)        It narks me when he does that.
-  - `chafe` /tʃeɪf/                 ([Formal] いらだたせる)         The restrictions chafe at him.
-  - `nettle` /ˈnetəl/               ([Formal] いらだたせる)         Her remarks nettled him.
-  - `vex` /veks/                    ([Writing] いらだたせる)        The problem vexed the scientists.
-  - `outrage` /ˈaʊtreɪdʒ/           ([Neutral] 激怒させる)          His comments outraged the community.
-- `lose one's temper`               ([Neutral] かっとなる)          Don't lose your temper with them.
-- `blow up` /bloʊ ʌp/               ([Casual] 爆発する、怒る)       He blew up when he heard the news.
-- `dismiss` /dɪsˈmɪs/               ([Neutral] 軽視する、退ける)    She dismissed his concerns.
-  - `brush off` /brʌʃ ɔːf/          ([Casual] 軽くあしらう)         He brushed off my suggestions.
-  - `write off` /raɪt ɔːf/          ([Casual] 見限る、無視する)     Don't write off his potential.
-  - `downplay` /ˌdaʊnˈpleɪ/         ([Neutral] 軽視する、過小評価)  They downplayed the risks.
-  - `belittle` /bɪˈlɪtəl/           ([Neutral] 軽んじる、見くびる)  Don't belittle her achievements.
-  - `trivialize` /ˈtrɪviəlaɪz/      ([Neutral] 軽視する、矮小化)    Don't trivialize their concerns.
-  - `underestimate`                 ([Neutral] 過小評価する)        Don't underestimate her abilities.
-  - `minimize` /ˈmɪnɪmaɪz/          ([Neutral] 最小限に評価する)    He minimized the importance of the issue.
-  - `play down` /pleɪ daʊn/         ([Casual] 軽視する)             She played down her role in the success.
-  - `slight` /slaɪt/                ([Neutral] 軽視する、無視する)  She felt slighted by his comments.
-  - `disparage` /dɪˈspærɪdʒ/        ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
-  - `discount` /ˈdɪskaʊnt/          ([Neutral] 軽視する、割り引く)  Don't discount their experience.
-  - `disregard` /ˌdɪsrɪˈɡɑːrd/      ([Formal] 無視する、軽視する)   He disregarded all warnings.
-- `despise` /dɪˈspaɪz/              ([Neutral] 軽蔑する)            He despises dishonesty.
-  - `look down on`                  ([Neutral] 見下す)              She looks down on people without degrees.
-  - `scorn` /skɔːrn/                ([Formal] 軽蔑する)             She scorned his feeble excuses.
-  - `contempt` /kənˈtempt/          ([Formal] 軽蔑、侮辱)           She looked at him with contempt.
-  - `disdain` /dɪsˈdeɪn/            ([Formal] 軽蔑する、見下す)     He disdained their offer.
----
-- `hold` /hoʊld/                    ([Neutral] 拘束する)            The police held him overnight.
-  - `detain` /dɪˈteɪn/              ([Formal] 拘束する)             The authorities detained the suspect.
-  - `arrest` /əˈrest/               ([Neutral] 逮捕する)            They arrested him for theft.
-  - `lock up` /lɑːk ʌp/             ([Casual] 監禁する)             They locked him up in jail.
-  - `keep` /kiːp/                   ([Neutral] 留める)              They kept him at the station.
-  - `hold captive`                  ([Neutral] 監禁する)            They held him captive for days.
-  - `imprison` /ɪmˈprɪzən/          ([Formal] 監禁する)             He was imprisoned in the basement.
-  - `confine` /kənˈfaɪn/            ([Formal] 監禁する)             They confined her to a small room.
-  - `restrain` /rɪˈstreɪn/          ([Neutral] 拘束する)            The guards restrained the prisoner.
-  - `incarcerate` /ɪnˈkɑːrsəreɪt/   ([Formal] 収監する)             He was incarcerated for ten years.
-  - `jail` /dʒeɪl/                  ([Neutral] 監禁する)            They jailed him for fraud.
-  - `cage` /keɪdʒ/                  ([Casual] 檻に入れる)           The dictator caged his opponents.
-  - `pen up` /pen ʌp/               ([Casual] 囲い込む)             They penned up the protesters.
-  - `shut up` /ʃʌt ʌp/              ([Casual] 閉じ込める)           He shut them up in the cellar.
-  - `tie up` /taɪ ʌp/               ([Casual] 縛る)                 The robbers tied up the guards.
-  - `intern` /ɪnˈtɜːrn/             ([Formal] 抑留する)             They interned enemy aliens during the war.
-- `abuse` /əˈbjuːz/                 ([Neutral] 虐待する、濫用する)  Don't abuse your authority.
-  - `mistreat` /ˌmɪsˈtriːt/         ([Neutral] 虐待する 粗末に扱う) Don't mistreat animals.
-  - `maltreat` /ˌmælˈtriːt/         ([Formal] 虐待する、酷使する)   They maltreated the prisoners.
-  - `molest` /məˈlest/              ([Formal] 性的暴行、嫌がらせ)   He was arrested for molesting children.
-  - `harass` /həˈræs/               ([Neutral] 嫌がらせする)        She was harassed at work.
-  - `violate` /ˈvaɪəleɪt/           ([Formal] 侵害する、暴行する)    The crime violated his rights.
-  - `victimize` /ˈvɪktɪmaɪz/        ([Neutral] 被害者にする)        Don't victimize the innocent.
-  - `persecute` /ˈpɜːrsɪkjuːt/      ([Formal] 迫害する)             They persecuted religious minorities.
-  - `brutalize` /ˈbruːtəlaɪz/       ([Formal] 残虐に扱う)           The prisoners were brutalized.
-- `abuse` /əˈbjuːz/                 ([Neutral] 悪用する、濫用する)  She abused her position of power.
-  - `misuse` /ˌmɪsˈjuːz/            ([Neutral] 誤用する、悪用する)  He misused company funds.
-  - `exploit` /ɪkˈsplɔɪt/           ([Neutral] 悪用する、利用する)  They exploited the loophole in the system.
-  - `manipulate` /məˈnɪpjʊleɪt/     ([Neutral] 操作する、悪用する)  He manipulated the data to his advantage.
-  - `take advantage of`             ([Neutral] 悪用する、つけ込む)  Don't take advantage of his kindness.
-  - `pervert` /pəˈvɜrt/             ([Formal] 悪用する、歪める)     They perverted the course of justice.
-  - `corrupt` /kəˈrʌpt/             ([Formal] 堕落させる、悪用する) Power corrupts those who wield it.
-  - `distort` /dɪˈstɔrt/            ([Neutral] 歪める、悪用する)    The media distorted the facts.
-  - `twist` /twɪst/                 ([Neutral] 歪める、悪用する)    He twisted her words against her.
-- `fake` /feɪk/                     ([Neutral] 偽造する、装う)      Don't fake your identity.
-  - `forge` /fɔːrdʒ/                ([Neutral] 偽造する)            He forged the signature.
-  - `falsify` /ˈfɔːlsɪfaɪ/          ([Formal] 偽造する、反証する)   He falsified the documents.
-  - `counterfeit` /ˈkaʊntərfɪt/     ([Formal] 偽造する)             They counterfeited the money.
-  - `fabricate` /ˈfæbrɪkeɪt/        ([Formal] でっち上げる)         He fabricated the entire story.
-  - `doctor` /ˈdɑːktər/             ([Neutral] 改ざんする)          Someone doctored the photos.
-  - `tamper with` /ˈtæmpər wɪð/     ([Neutral] 改ざんする)          Don't tamper with the evidence.
-  - `manipulate` /məˈnɪpjʊleɪt/     ([Neutral] 操作する)            He manipulated the test results.
-  - `alter` /ˈɔːltər/               ([Neutral] 変更する)            They altered the contract terms.
-- `trick` /trɪk/                    ([Neutral] だます、トリック)    He tricked me into paying more.
-  - `fool` /fuːl/                   ([Casual] だます、ばか者)       You can't fool me twice.
-  - `deceive` /dɪˈsiːv/             ([Neutral] 欺く、だます)        Don't try to deceive me.
-  - `mislead` /ˌmɪsˈliːd/           ([Neutral] 誤解させる)          The advertisement misled consumers.
-  - `manipulate` /məˈnɪpjəleɪt/     ([Neutral] 操る、操作する)      She manipulated him into lending her money.
-  - `con` /kɒn/                     ([Casual] だます、詐欺)         He conned them out of their money.
-  - `cheat` /tʃiːt/                 ([Neutral] だます、不正をする)  Don't cheat on the exam.
-  - `swindle` /ˈswɪndəl/            ([Neutral] 詐取する)            He swindled her out of her savings.
-  - `dupe` /djuːp/                  ([Neutral] だます、カモ)        They duped him into signing the contract.
-  - `exploit` /ɪkˈsplɔɪt/           ([Neutral] 搾取する、利用する)  They exploited workers for cheap labor.
-  - `scheme` /skiːm/                ([Neutral] 企む、陰謀を企てる)  They schemed to take over the company.
-  - `bamboozle` /bæmˈbuːzəl/        ([Casual] だます、煙に巻く)     Don't let them bamboozle you.
-  - `hoodwink` /ˈhʊdwɪŋk/           ([Writing] だます、欺く)        They hoodwinked investors out of millions.
-  - `gull` /ɡʌl/                    ([Neutral] だます、欺く)        He was gulled into buying fake tickets.
-  - `engineer` /ˌendʒɪˈnɪr/         ([Neutral] 画策する、仕組む)    They engineered his downfall.
-  - `maneuver` /məˈnuːvər/          ([Neutral] 策略を用いる)        He maneuvered himself into a position of power.
-  - `finesse` /fɪˈnes/              ([Formal] 巧みに扱う)           She finessed the situation perfectly.
-- `impose` /ɪmˈpoʊz/               ([Neutral] 課す、押し付ける)    Don't impose your beliefs on others.
-  - `imposition` /ˌɪmpəˈzɪʃən/     ([Neutral] 押し付け、負担)      I hope it's not an imposition.
-  - `enforce` /ɪnˈfɔːrs/            ([Neutral] 強制する、施行する)  The police enforce the law.
-  - `inflict` /ɪnˈflɪkt/            ([Neutral] 負わせる、与える)    Don't inflict pain on others.
-  - `thrust` /θrʌst/                ([Neutral] 押し付ける、突く)    The role was thrust upon him.
-- `push the boundaries` /pʊʃ ðə ˈbaʊndriz/ ([Neutral] 限界を押し広げる)   This research pushes the boundaries of science.
-  - `push the envelope` /pʊʃ ði ˈenvəloʊp/ ([Neutral] 限界に挑戦する)   The director pushes the envelope with this film.
-  - `break barriers` /breɪk ˈbæriərz/   ([Neutral] 障壁を打ち破る)   She broke barriers in the industry.
-  - `push the limits` /pʊʃ ðə ˈlɪmɪts/   ([Neutral] 限界に挑む)       Athletes push the limits of human performance.
-  - `challenge the status quo` /ˈtʃælɪndʒ ðə ˈsteɪtəs kwoʊ/ ([Formal] 現状に挑戦する) We need to challenge the status quo.
-  - `push back the frontiers` /pʊʃ bæk ðə ˌfrʌnˈtɪrz/ ([Formal] 未知の領域を広げる) Scientists push back the frontiers of knowledge.
-  - `be on fire`                   ([Casual] 絶好調である)          The team is on fire right now.
-- `blow one's mind`                 ([Casual] 驚かせる、感動させる) That movie blew my mind!
-- `be hyped`                        ([Casual] 興奮している)         I'm so hyped for the concert!
-  - `be pumped`                     ([Casual] やる気満々、興奮)     I'm pumped for the game tonight!
-  - `be stoked`                     ([Casual] すごく興奮している)   I'm stoked about the trip!
-  - `be psyched`                    ([Casual] ワクワクしている)     I'm psyched for the party!
-  - `be fired up`                   ([Casual] やる気満々、熱くなる) I'm fired up for the match!
-  - `be thrilled`                   ([Neutral] とても喜んでいる)    I'm thrilled about the news!
-- `contend`                            ([Neutral] 戦う、取り組む)
-- `mob`                            ([Neutral] 群がって押し寄せる、襲う)
-- `vie`                            ([Neutral] 競う、争う)
-
-## ACQUISITION & POSSESSION
-- `miss out` /mɪs aʊt/              ([Neutral] 機会を逃す)          Don't miss out on this opportunity.
-  - `pass up` /pæs ʌp/              ([Neutral] 見送る、断る)        I can't pass up such a great offer.
-  - `skip` /skɪp/                   ([Casual] 飛ばす、欠席する)     Let's skip the meeting today.
-  - `forgo` /fɔːrˈɡoʊ/              ([Formal] 控える、断念する)     I'll forgo dessert tonight.
-  - `overlook` /ˌoʊvərˈlʊk/         ([Neutral] 見落とす、見逃す)    Don't overlook the details.
-  - `let slip` /let slɪp/           ([Neutral] 逃す、漏らす)        I let the chance slip away.
-- `bask`                            ([Neutral] 日光に当たる、恩恵を受ける)
-- `bum`                            ([Neutral] ただで手に入れる、せびる)
-- `cull`                            ([Neutral] 間引く、選び取る)
-- `eradicate`                            ([Neutral] 全滅させる、取る)
-- `extradite`                            ([Neutral] 引き取る、引き渡す)
-- `fluke`                            ([Neutral] まぐれで手に入れる)
-- `gill`                            ([Neutral] 刺し網で捕る、えらやはらわたを取る)
-- `hull`                            ([Neutral] 外皮を取る)
-- `mow`                            ([Neutral] 刈り取る、手当たり次第になぎたおす)
-- `reel`                            ([Neutral] 巻き取る)
-- `rim`                            ([Neutral] 縁取る)
-- `rip`                            ([Neutral] 引き裂く、暴く、はぎ取る)
-- `shear`                            ([Neutral] 毛を刈り込む、はぎ取る)
-- `skim`                            ([Neutral] ざっと読む、すくい取る)
-- `subtract`                            ([Neutral] 減じる、引き取る、取り去る)
-- `undercut`                            ([Neutral] 下を切り取る、安く売る)
-- `wrest`                            ([Neutral] 苦心して手に入れる、もぎ取る、ねじる)
-
-## GIVING & PROVIDING
-- `animate`                            ([Neutral] 生気を与える、活発にさせる、動かす)
-- `bestow`                            ([Neutral] 授ける、費やす)
-- `decorate`                            ([Neutral] 飾る、勲章を授ける)
-- `entitle`                            ([Neutral] 資格・権利を与える、表題をつける)
-- `exempt`                            ([Neutral] 免じてやる、除いてやる)
-- `gird`                            ([Neutral] 締める、取り囲む、授ける)
-- `lob`                            ([Neutral] ボールをロブで上げる、高く放りあげる)
-- `loiter`                            ([Neutral] あてもなくぶらつく、ぐずぐずやる)
-- `muck`                            ([Neutral] 肥料をやる、汚す)
-- `ransom`                            ([Neutral] お金と引き換えに返す、償う)
-- `rebate`                            ([Neutral] リベートを与える)
-- `revitalize`                            ([Neutral] 新しい活力を与える)
-- `seethe`                            ([Neutral] 怒りや興奮に沸く、泡立つ、ごった返す)
-- `shore`                            ([Neutral] 陸にあげる)
-- `squeal`                            ([Neutral] キーッという声をあげる、キーッと鳴る)
-- `underpin`                            ([Neutral] 根拠を与える、下から支える)
-
-## CREATION & PRODUCTION
-- `make` /meɪk/                     ([Neutral] させる、強いる)      They made him apologize.
-- `urge` /ɜːrdʒ/                    ([Neutral] 強く勧める、促す)    I urge you to act quickly.
-- `coax` /koʊks/                    ([Neutral] 優しく説得する)      She coaxed him into trying it.
-- `persuade` /pərˈsweɪd/            ([Neutral] 説得する)            He persuaded me to stay.
-- `cajole` /kəˈdʒoʊl/               ([Neutral] おだてて説得する)    She cajoled him into helping her.
-- `wheedle` /ˈwiːdəl/               ([Neutral] 甘言で説得する)      He wheedled money out of her.
-- `entice` /ɪnˈtaɪs/                ([Neutral] 誘惑する、そそのかす) The offer enticed him to accept.
-- `lure` /lʊr/                      ([Neutral] 誘い込む、誘惑する)  They lured customers with discounts.
-- `encourage` /ɪnˈkɜːrɪdʒ/          ([Neutral] 励ます、奨励する)    She encouraged me to apply.
-- `press` /pres/                    ([Neutral] 強く勧める、迫る)    They pressed him for an answer.
-- `push` /pʊʃ/                      ([Casual] 押す、強く勧める)     Don't push me to decide now.
-- `prod` /prɑːd/                    ([Neutral] 促す、刺激する)      She prodded him to finish the work.
-- `prompt` /prɑːmpt/                ([Neutral] 促す、引き起こす)    What prompted you to call?
-- `exhort` /ɪɡˈzɔːrt/               ([Writing] 熱心に勧める、諭す)  He exhorted them to try harder.
-- `assemble`                            ([Neutral] 集める、まとめる、組み立てる)
-- `improvise`                            ([Neutral] 即興で作る、間に合わせで急場をしのぐ)
-- `mason`                            ([Neutral] れんがで建てる)
-- `mold`                            ([Neutral] こねて作る、型に入れて作る)
-- `puddle`                            ([Neutral] 水たまりを作る)
-- `sire`                            ([Neutral] （馬などが）子を産む、雄親となる)
-- `timber`                            ([Neutral] 木材で建てる)
-- `trench`                            ([Neutral] 堀で囲む、堀を作る)
-- `wrinkle`                            ([Neutral] しわを作る)
-
-## DESTRUCTION & DAMAGE
-- `sting` /stɪŋ/                    ([Neutral] 刺す、ヒリヒリする)  A bee stung me on my arm.
-  - `bite` /baɪt/                   ([Neutral] 噛む)                The dog bit the stranger.
-  - `prick` /prɪk/                  ([Neutral] チクリと刺す)        I pricked my finger on a needle.
-  - `pierce` /pɪrs/                 ([Neutral] 突き刺す、貫く)      The arrow pierced the target.
-  - `burn` /bɜːrn/                  ([Neutral] 焼く、ヒリヒリする)  My eyes burn from the smoke.
-  - `smart` /smɑːrt/                ([Writing] ヒリヒリする)        The cut smarts when water touches it.
-- `disable` /dɪsˈeɪbəl/            ([Neutral] 無効にする、障害を与) He was disabled in the accident.
-  - `injure` /ˈɪndʒər/              ([Neutral] 負傷させる)          She injured her knee playing soccer.
-  - `impair` /ɪmˈper/               ([Formal] 損なう、害する)       Alcohol can impair your judgment.
-  - `debilitate` /dɪˈbɪlɪteɪt/     ([Formal] 衰弱させる)           The disease debilitated him.
-  - `incapacitate` /ˌɪnkəˈpæsɪteɪt/ ([Formal] 無能力にする)         The injury incapacitated him for months.
-- `detract`                            ([Neutral] 損なう、そらす、減じる)
-- `mar`                            ([Neutral] 完全さを損なう、傷つける、台無しにする)
-- `sideline`                            ([Neutral] （事故や負傷が）出場を妨げる)
-- `crumble`                            ([Neutral] 砕く、粉々に崩れる)
-- `demolish`                            ([Neutral] 破壊する、くつがえす)
-- `fracture`                            ([Neutral] 壊す)
-- `ravage`                            ([Neutral] 破壊する、略奪する)
-- `raze`                            ([Neutral] 徹底的に破壊する、こすり落とす)
-
-## INCREASE & GROWTH
-- `augment`                            ([Neutral] 増やす、増大する)
-- `bulge`                            ([Neutral] 膨れ上がる)
-- `constrict`                            ([Neutral] 収縮する、締めつける、発展を抑える)
-- `crane`                            ([Neutral] 首を伸ばす)
-- `dilate`                            ([Neutral] 膨らむ、体の器官を広げる)
-- `germinate`                            ([Neutral] （アイデアが）生まれる、発芽する、成長し始める)
-- `magnify`                            ([Neutral] 拡大する、～を大きく見せる)
-- `soar`                            ([Neutral] 舞い上がる、昇る)
-- `stagnate`                            ([Neutral] 成長が止まる、活気がなくなる、よどむ)
-- `surge`                            ([Neutral] 波となって打ち寄せる、沸き上がる)
-
-## DECREASE & REDUCTION
-- `run out of` /rʌn aʊt ʌv/        ([Neutral] 使い果たす)          We ran out of milk.
-  - `use up` /juːz ʌp/              ([Neutral] 使い切る)            We used up all the flour.
-  - `exhaust` /ɪɡˈzɔːst/            ([Formal] 使い果たす)           They exhausted their savings.
-  - `deplete` /dɪˈpliːt/            ([Formal] 枯渇させる)           War depleted their resources.
-  - `go through` /ɡoʊ θruː/         ([Neutral] 使い果たす)          We went through two bottles.
-  - `consume` /kənˈsuːm/            ([Neutral] 消費する)            The fire consumed the building.
+- ==fire up== /ˈfaɪər ʌp/             ([Casual] 起動する)             Fire up the computer.
+- ==turn on== /tɜːrn ɑːn/             ([Neutral] 電源を入れる)        Turn on the machine.
+- `abandon` /əˈbændən/              ([Neutral] 放棄する、見捨てる)  They abandoned the project.
+- `abate` /əˈbeɪt/                  ([Formal] 和らぐ)               We waited for the wind to abate.
+- `abbreviate` /əˈbriːvieɪt/        ([Formal] 短縮する)             Please abbreviate the company name.
+- `abdicate` /ˈæbdɪkeɪt/            ([Formal] 退位する)             The king abdicated the throne.
+- `abduct` /æbˈdʌkt/                ([Formal] 誘拐する)             The criminals abducted the child.
+- `abet` /əˈbet/                    ([Writing] 幇助する)            He was accused of abetting fraud.
+- `abide by` /əˈbaɪd baɪ/           ([Formal] 遵守する、従う)       We must abide by the contract terms.
+- `abridge` /əˈbrɪdʒ/               ([Formal] 短縮する)             They abridged the novel for young readers.
+- `absolve` /əbˈzɒlv/               ([Formal] 免罪する)             The priest absolved him of his sins.
+- `abstain from` /əbˈsteɪn frʌm/    ([Formal] 控える、禁欲する)     He abstains from alcohol.
+- `accept` /əkˈsept/                ([Neutral] 受け入れる)          Accept the terms and conditions.
+- `accommodate` /əˈkɑːmədeɪt/       ([Formal] 対応する、収容する)   We can accommodate your request.
+- `accompany` /əˈkʌmpəni/           ([Formal] 同行する)             I'll accompany you to the meeting.
+- `accumulate` /əˈkjuːmjəleɪt/      ([Neutral] 蓄積する、積み重ねる)Dust accumulated on the shelves.
+- `accuse` /əˈkjuːz/                ([Neutral] 非難する、告発する)  She accused him of lying.
+- `acquiesce` /ˌækwiˈes/            ([Formal] 黙認する)             She acquiesced to their demands.
+- `acquire` /əˈkwaɪər/              ([Formal] 取得する、習得する)   She acquired new skills quickly.
+- `acquit` /əˈkwɪt/                 ([Legal] 無罪とする)            The jury acquitted the defendant.
+- `activate` /ˈæktɪveɪt/            ([Neutral] 作動させる)          Activate the software.
+- `adhere to` /ædˈhɪr tuː/          ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
+- `adjudicate` /əˈdʒuːdɪkeɪt/       ([Formal] 判決を下す、裁定する) The court adjudicated the dispute.
+- `administer` /ədˈmɪnɪstər/        ([Medical] 投与する、施す)      The nurse administered the vaccine.
+- `advance` /ədˈvæns/               ([Neutral] 前進する)            The army advanced slowly.
+- `affirm` /əˈfɜrm/                 ([Formal] 断言する)             He affirmed his commitment.
+- `afflict` /əˈflɪkt/               ([Formal] 苦しめる)             Pain afflicted his entire body.
+- `afford` /əˈfɔːd/                 ([Neutral] 余裕がある)          Can you afford a new car?
+- `aggravate` /ˈæɡrəveɪt/           ([Neutral] 悪化させる、苛立つ)  The situation aggravated tensions.
+- `agitate` /ˈædʒɪteɪt/             ([Neutral] かき乱す、扇動する)  The news agitated the crowd.
+- `agonize` /ˈæɡənaɪz/              ([Neutral] 苦悩させる)          The decision agonized him for days.
+- `aid and abet`                    ([Legal] 幇助する)              She aided and abetted the crime.
+- `align with` /əˈlaɪn wɪð/         ([Formal] 同調する、一致する)   Our goals align with yours.
+- `allay` /əˈleɪ/                   ([Writing] 和らげる、静める)    The medicine helped allay his pain.
+- `alleviate` /əˈliːvieɪt/          ([Formal] 緩和する、軽減する)   This will alleviate the symptoms.
+- `allocate` /ˈæləkeɪt/             ([Formal] 配分する)             We need to allocate funds wisely.
+- `allow` /əˈlaʊ/                   ([Neutral] 許可する)            My parents allowed me to go to the party.
+- `alter` /ˈɔːltər/                 ([Neutral] 変更する)            They altered the contract terms.
+- `alter` /ˈɔːltər/                 ([Neutral] 変更する)            We can alter the schedule.
+- `amass` /əˈmæs/                   ([Neutral] 蓄積する、集める)    He amassed a fortune in business.
+- `ambush` /ˈæmbʊʃ/                 ([Neutral] 待ち伏せ攻撃する)    They ambushed the convoy.
+- `amend` /əˈmend/                  ([Formal] 修正する、改正する)   We need to amend the contract.
+- `amplify` /ˈæmplɪfaɪ/             ([Formal] 拡大する、増幅する)   We need to amplify our efforts.
+- `amplify` /ˈæmplɪfaɪ/             ([Neutral] 増幅する、拡大する)  We need to amplify the signal.
+- `annihilate` /əˈnaɪəleɪt/         ([Formal] 全滅させる)           The army annihilated the enemy forces.
+- `annoy` /əˈnɔɪ/                   ([Neutral] いらだたせる)        The noise really annoys me.
+- `annul` /əˈnʌl/                   ([Formal] 無効にする)           They decided to annul the marriage.
+- `antagonize` /ænˈtæɡənaɪz/        ([Formal] 敵対させる)           Try not to antagonize your boss.
+- `anticipate` /ænˈtɪsɪpeɪt/        ([Neutral] 予期する 楽しみする) We anticipate good results.
+- `appear` /əˈpɪr/                  ([Neutral] 現れる、出現する)    She appeared at the door.
+- `appease` /əˈpiːz/                ([Formal] なだめる、満足させる) This offer should appease them.
+- `apply toward` /əˈplaɪ təˈwɔrd/   ([Neutral] ～に充当する)        Credits apply toward your next purchase.
+- `apply` /əˈplaɪ/                  ([Neutral] 適用する、申請する)  We'll apply the new regulations.
+- `appraise` /əˈpreɪz/              ([Formal] 評価する、鑑定する)   The expert appraised the painting.
+- `approve` /əˈpruːv/               ([Neutral] 承認する)            The board approved the proposal.
+- `approve` /əˈpruːv/               ([Neutral] 承認する、賛成)      The committee approved the new policy.
+- `arouse` /əˈraʊz/                 ([Neutral] 呼び起こす 喚起する) The speech aroused strong emotions.
+- `arrange` /əˈreɪndʒ/              ([Neutral] 整理する、配置する)  Let's arrange the meeting room.
+- `arrest` /əˈrest/                 ([Neutral] 逮捕する)            They arrested him for theft.
+- `arrive at`                       ([Neutral] ～に到着する)        We arrived at our destination.
+- `arrive in`                       ([Neutral] ～に到着する)        I arrived in Tokyo yesterday.
+- `assail` /əˈseɪl/                 ([Writing] 激しく非難する)      Critics assailed the new policy.
+- `assault` /əˈsɔːlt/               ([Neutral] 襲撃する)            He was charged with assault.
+- `assemble` /əˈsembl/              ([Formal] 集合する)             Please assemble in the main hall.
+- `assemble` /əˈsembəl/             ([Neutral] 集める、組み立てる)  We need to assemble all the parts.
+- `assert` /əˈsɜrt/                 ([Neutral] 断言する、主張する)  He asserted his innocence.
+- `assert` /əˈsɜːrt/                ([Neutral] 主張する、行使する)  She asserted her authority over the team.
+- `assess` /əˈses/                  ([Neutral] 評価する、査定する)  The damage was assessed at $5,000.
+- `assuage` /əˈsweɪdʒ/              ([Writing] 和らげる、軽減する)  Nothing could assuage his guilt.
+- `assure` /əˈʃʊr/                  ([Neutral] 保証する、断言する)  I can assure you it's safe.
+- `attach` /əˈtætʃ/                 ([Neutral] 取り付ける)          Attach the file to your email.
+- `attend` /əˈtend/                 ([Formal] 通う、出席する)       She attends university in Boston.
+- `attest` /əˈtest/                 ([Formal] 証明する、保証する)   I can attest to the accuracy.
+- `attest` /əˈtɛst/                 ([Formal] 証明する)             I can attest to her honesty.
+- `augment` /ɔːɡˈment/              ([Formal] 増やす、増大する)     We need to augment our staff.
+- `authenticate` /ɔˈθɛntɪkeɪt/      ([Formal] 認証する)             The museum authenticated the painting.
+- `authorize` /ˈɔːθəraɪz/           ([Formal] 権限を与える)         Only authorized personnel can enter this area.
+- `authorize` /ˈɔːθəraɪz/           ([Formal] 認可する)             Who authorized this purchase?
+- `aver` /əˈvɜr/                    ([Writing] 断言する、主張する)  She averred that she was innocent.
+- `avert` /əˈvɜːrt/                 ([Formal] 回避する、防ぐ)       They averted a disaster.
+- `avow` /əˈvaʊ/                    ([Writing] 公言する、認める)    He avowed his love publicly.
+- `await` /əˈweɪt/                  ([Formal] 待つ、期待する)       We await your response.
+- `baby` /ˈbeɪbi/                   ([Casual] 甘やかす 過保護に扱)  Stop babying him!
+- `back up` /bæk ʌp/              ([Casual] 裏付ける、支持する)   Can you back up your statement?
+- `back` /bæk/                    ([Casual] 支持する、保証する)   I'll back you on this decision.
+- `bamboozle` /bæmˈbuːzəl/        ([Casual] だます、煙に巻く)     Don't let them bamboozle you.
+- `ban` /bæn/                     ([Neutral] 禁止する)            They banned plastic bags.
+- `baptize` /bæpˈtaɪz/            ([Neutral] 洗礼を施す)          The baby was baptized last month.
+- `bar` /bɑːr/                    ([Neutral] 締め出す、妨げる)    They barred him from entering.
+- `be a drag` /bi ə dɹæɡ/         ([Casual] つまらない)           This work is such a drag.
+- `be a killjoy` /bi ə ˈkɪldʒɔɪ/  ([Casual] 興を削ぐ)             Don't be a killjoy!
+- `be a wet blanket`              ([Casual] 場をしらけさせる)     He's such a wet blanket.
+- `be an obstacle`                ([Neutral] 障害になる)          Language can be an obstacle.
+- `be at the ready`               ([Formal] 準備完了している)     The team is at the ready.
+- `be boring` /bi ˈboɹɪŋ/         ([Neutral] 退屈である)          This movie is boring.
+- `be burdened with`              ([Formal] 重荷を負う)           He's burdened with responsibilities.
+- `be candid about` /ˈkæn.dɪd/    ([Formal] について率直に言う)   To be candid about the situation.
+- `be dull` /bi dʌl/              ([Neutral] 退屈である)          The lecture was dull.
+- `be eating me alive`            ([Casual] 蝕んでいる)           Keeping secrets was eating me alive.
+- `be fired up`                   ([Casual] やる気満々、熱くなる) I'm fired up for the match!
+- `be frank about` /fɹæŋk/        ([Neutral] について率直に言う)  Let me be frank about my concerns.
+- `be honest about` /ˈɑːnəst/     ([Neutral] について正直に言う)  I want you to be honest about it.
+- `be in for` /bi ɪn fɔːr/        ([Casual] 直面する)             Looks like we'll be in for some wet weather over the next few days.
+- `be in remission` /rɪˈmɪʃən/    ([Medical] 寛解、軽快)          The cancer is in remission.
+- `be in the way`                 ([Neutral] 邪魔になる)          Your bag is in the way.
+- `be landed with`                ([Casual 英] 負わされる)        I've been landed with the dog.
+- `be lumbered with`              ([Casual 英] 押し付けられる)    I got lumbered with cleaning up.
+- `be on fire`                   ([Casual] 絶好調である)          The team is on fire right now.
+- `be on standby` /ˈstænbaɪ/      ([Neutral] 待機している)        Medical staff are on standby.
+- `be on the mend` /ɒn ðə mend/   ([Casual] 回復中)               He's on the mend now.
+- `be psyched`                    ([Casual] ワクワクしている)     I'm psyched for the party!
+- `be pumped`                     ([Casual] やる気満々、興奮)     I'm pumped for the game tonight!
+- `be saddled with`               ([Neutral] 責任を負わされる)    I was saddled with all the debt.
+- `be stoked`                     ([Casual] すごく興奮している)   I'm stoked about the trip!
+- `be straightforward about`      ([Neutral] について率直に言う)  Be straightforward about your needs.
+- `be subjected to`               ([Formal] 受ける、さらされる)   The samples were subjected to testing.
+- `be thrilled`                   ([Neutral] とても喜んでいる)    I'm thrilled about the news!
+- `be transparent about`          ([Formal] について透明性を持つ) Our accounting is transparent about costs.
+- `be trapped with`               ([Neutral] 閉じ込められている)  I felt trapped with no way out.
+- `bear out` /beər aʊt/           ([Neutral] 裏付ける、証明する)  The facts bear out her story.
+- `bedevil` /bɪˈdevəl/            ([Formal] 悩ます)               Technical issues bedeviled the launch.
+- `beleaguer` /bɪˈliːɡər/         ([Formal] 困らせる)             The team was beleaguered by injuries.
+- `belittle` /bɪˈlɪtəl/           ([Neutral] 軽んじる、見くびる)  Don't belittle her achievements.
+- `berate` /bɪˈreɪt/              ([Formal] 激しく叱る)           She berated him for his carelessness.
+- `bet` /bet/                     ([Neutral] 賭ける)              I bet $50 on the game.
+- `bicker` /ˈbɪkər/               ([Neutral] 些細な口論をする)    The couple bickered constantly.
+- `bind` /baɪnd/                  ([Neutral] 縛る、拘束する)      They bound his hands with rope.
+- `bite` /baɪt/                   ([Neutral] 噛む)                The dog bit the stranger.
+- `blabbing` /ˈblæbɪŋ/            ([Casual] おしゃべり)           His blabbing ruined the surprise.
+- `blast` /blæst/                 ([Casual] 激しく非難する)       The media blasted the politician.
+- `blow` /bləʊ/                   ([Casual] 浪費する)             He blew all his money at the casino.
+- `bolt` /boʊlt/                  ([Neutral] 突進する)            The horse bolted from the stable.
+- `boost` /buːst/                 ([Neutral] 増やす、押し上げる)  This will boost our revenue.
+- `boot up` /buːt ʌp/             ([Neutral] 起動する)            The system is booting up.
+- `bounce back` /baʊns bæk/       ([Casual] 立ち直る、回復する)   He bounced back quickly from the flu.
+- `bow out` /baʊ aʊt/             ([Neutral] 身を引く)            She bowed out gracefully.
+- `breach` /briːtʃ/               ([Formal] 違反する、破る)       They breached the contract terms.
+- `break barriers` /breɪk ˈbæriərz/   ([Neutral] 障壁を打ち破る)   She broke barriers in the industry.
+- `breed` /briːd/                 ([Neutral] 繁殖させる、育種する) They breed horses for racing.
+- `bring to bear` /brɪŋ tuː beər/ ([Neutral] 及ぼす、行使する)    They brought pressure to bear on the decision.
+- `bring` /brɪŋ/                  ([Neutral] 連れてくる、持参)    Please bring your friend to the party.
+- `broaden` /ˈbrɔːdən/            ([Neutral] 広げる、拡大する)    Travel broadens your horizons.
+- `brush off` /brʌʃ ɔːf/          ([Casual] 軽くあしらう)         He brushed off my suggestions.
+- `brush` /brʌʃ/                  ([Neutral] 軽く触れる、払う)    He brushed her hand with his fingers.
+- `brutalize` /ˈbruːtəlaɪz/       ([Formal] 残虐に扱う)           The prisoners were brutalized.
+- `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
+- `budget` /ˈbʌdʒɪt/              ([Neutral] 予算を立てる)        I budget $200 for groceries monthly.
+- `bug` /bʌɡ/                     ([Casual] いらだたせる)         Stop bugging me!
+- `bulge` /bʌldʒ/                 ([Neutral] 膨らむ、膨れ上がる)  His pockets bulged with coins.
+- `bully` /ˈbʊli/                 ([Neutral] いじめる)            He was bullied at school.
+- `bunch` /bʌntʃ/                 ([Casual] 束になる)             Don't bunch up in the doorway!
+- `burn through` /bɜːn θruː/      ([Casual] 使い果たす)           He burned through his savings in a month.
+- `burn` /bɜːrn/                  ([Neutral] 焼く、ヒリヒリする)  My eyes burn from the smoke.
+- `bustle` /ˈbʌsəl/               ([Neutral] 忙しく動き回る)      She bustled around the kitchen.
+- `butt heads` /bʌt hedz/         ([Casual] 衝突する)             We always butt heads on this issue.
+- `butt in` /bʌt ɪn/              ([Casual] 口を挟む)             Don't butt in on our conversation.
+- `buy it` /baɪ ɪt/               ([Casual] 信じる、受け入れる)   I don't buy it at all.
+- `cage` /keɪdʒ/                  ([Casual] 檻に入れる)           The dictator caged his opponents.
+- `call it quits` /kɔːl ɪt kwɪts/ ([Casual] やめる、終わりにする) Let's call it quits for today.
+- `call out` /kɔːl aʊt/           ([Neutral] 呼び出す、非難する)  The teacher called out the student's name.
+- `call up` /kɔːl ʌp/             ([Neutral] 電話する、呼び出す)  I'll call you up tomorrow.
+- `can't help` /kænt help/        ([Neutral] 我慢できない)        I can't help feeling sad.
+- `care for` /keər fɔːr/          ([Neutral] 世話をする)          He cares for his elderly mother.
+- `caress` /kəˈres/               ([Neutral] 愛撫する、優しく触る) He caressed her cheek softly.
+- `cast` /kæst/                   ([Formal] 投げる、投じる)       He cast his line into the water.
+- `castigate` /ˈkæstɪɡeɪt/        ([Writing] 厳しく批判する)      The editorial castigated the government.
+- `cater to` /ˈkeɪtər tuː/        ([Neutral] 迎合する、対応する)  We cater to all dietary needs.
+- `cease` /siːs/                  ([Formal] 停止する、やめる)     The fighting ceased at midnight.
+- `cede` /siːd/                   ([Formal] 譲渡する)             They ceded territory to the enemy.
+- `censure` /ˈsenʃər/             ([Formal] 激しく非難する)       The senator was censured for misconduct.
+- `certify` /ˈsɜrtɪfaɪ/           ([Formal] 証明する)             The doctor certified her fitness.
+- `certify` /ˈsɜːrtɪfaɪ/          ([Formal] 証明する、認定する)   The document must be certified.
+- `chafe` /tʃeɪf/                 ([Formal] いらだたせる)         The restrictions chafe at him.
+- `challenge the status quo` /ˈtʃælɪndʒ ðə ˈsteɪtəs kwoʊ/ ([Formal] 現状に挑戦する) We need to challenge the status quo.
+- `challenge` /ˈtʃælɪndʒ/         ([Neutral] 挑戦する)            He challenged her to a debate.
+- `chastise` /ˈtʃæstaɪz/          ([Formal] 厳しく非難する)       The coach chastised the team for poor performance.
+- `cheat` /tʃiːt/                 ([Neutral] だます、不正をする)  Don't cheat on the exam.
+- `cheese off` /tʃiːz ɔːf/        ([British] いらだたせる)        That really cheeses me off.
+- `chip in`                       ([Casual] お金を出し合う)       Everyone chipped in for the gift.
+- `chuck` /tʃʌk/                  ([Casual] 投げ捨てる)           Chuck it in the bin.
+- `circulation` /ˌsɜːrkjəˈleɪʃən/ ([Neutral] 流通、発行部数)      The newspaper has wide circulation.
+- `clash with`                    ([Neutral] ～と衝突する)        His ideas clash with mine.
+- `clash` /klæʃ/                  ([Neutral] 衝突する)            The two groups clashed violently.
+- `climb down` /klaɪm daʊn/       ([Neutral] よじ降りる)          Climb down the ladder.
+- `clothe` /kləʊð/                ([Formal] 服を着せる)           They clothed the children warmly.
+- `clout` /klaʊt/                 ([Casual] 殴る)                 Don't make me clout you!
+- `clunk` /klʌŋk/                  ([Neutral] ゴツンと音を立てる)  The old car clunked down the road.
+- `cluster` /ˈklʌstər/            ([Neutral] 群がる)              People clustered around the notice board.
+- `coddle` /ˈkɑːdl/               ([Neutral] 甘やかす、過保護)    Don't coddle your children.
+- `collect` /kəˈlekt/             ([Neutral] 集める、収集する)    She collects stamps as a hobby.
+- `collude` /kəˈluːd/             ([Formal] 共謀する)             The companies colluded to fix prices.
+- `come along` /kʌm əˈlɔŋ/        ([Casual] 一緒に来る)           Come along with me!
+- `come around` /kʌm əˈraʊnd/     ([Neutral] 意識を取り戻す)      He came around after the surgery.
+- `come by` /kʌm baɪ/             ([Casual] 立ち寄る)             Come by whenever you're free.
+- `come down` /kʌm daʊn/          ([Neutral] 降りて来る)          Come down from there!
+- `come in` /kʌm ɪn/              ([Casual] 入って来る)           Please come in and have a seat.
+- `come round` /kʌm raʊnd/        ([British] 意識を取り戻す)      She's coming round from the anesthetic.
+- `come up` /kʌm ʌp/              ([Neutral] 出てくる、起こる)    This is about the question that came up during yesterday's UX meeting.
+- `come with` /kʌm wɪð/           ([Casual] 一緒に来る)           Do you want to come with?
+- `commute to` /kəˈmjuːt tuː/     ([Neutral] 通勤する)            I commute to work by train.
+- `compile` /kəmˈpaɪl/            ([Neutral] 編集する、収集する)  She compiled a list of contacts.
+- `comply with` /kəmˈplaɪ wɪð/    ([Formal] 従う、応じる)         We comply with all regulations.
+- `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
+- `con` /kɒn/                     ([Casual] だます、詐欺)         He conned them out of their money.
+- `concern` /kənˈsɜːrn/           ([Neutral] 心配させる)          Rising prices concern everyone.
+- `conciliate` /kənˈsɪlieɪt/      ([Writing] 懐柔する、調停する)  He tried to conciliate the warring factions.
+- `condemn` /kənˈdem/             ([Formal] 非難する、刑宣告)     The court condemned his actions.
+- `condense` /kənˈdens/           ([Neutral] 凝縮する)            Condense your report to one page.
+- `confidant` /ˈkɑːnfɪdænt/       ([Neutral] 親友、信頼できる人)  He was her trusted confidant.
+- `confidant` /ˈkɑːnfɪdænt/       ([Neutral] 親友、相談相手)      She's my closest confidant.
+- `confidential`                  ([Formal] 機密の)               The information is confidential.
+- `confine` /kənˈfaɪn/            ([Formal] 監禁する)             They confined her to a small room.
+- `confirm` /kənˈfɜrm/            ([Neutral] 確証する)            The results confirm our hypothesis.
+- `confirm` /kənˈfɜːrm/           ([Neutral] 確認する、確証する)  Please confirm your attendance.
+- `conflict with`                 ([Neutral] ～と対立する)        This conflicts with our policy.
+- `conflict` /kənˈflɪkt/          ([Neutral] 対立する)            Their interests conflict.
+- `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
+- `confront` /kənˈfrʌnt/          ([Neutral] 直面する 立ち向かう) They confronted many challenges.
+- `congregate` /ˈkɒŋɡrɪɡeɪt/      ([Formal] 集合する)             Students congregate in the cafeteria.
+- `conspire` /kənˈspaɪər/         ([Formal] 共謀する)             They conspired against the government.
+- `consult a doctor`              ([Formal] 医師に相談する)       Please consult a doctor before taking this.
+- `consume` /kənˈsuːm/            ([Neutral] 消費する)            The fire consumed the building.
+- `consummate` /ˈkɑːnsəmeɪt/      ([Formal] 完了させる、成就する) They consummated the deal.
+- `contact` /ˈkɑːntækt/           ([Neutral] 連絡する)            Please contact me if you need help.
+- `contempt` /kənˈtempt/          ([Formal] 軽蔑、侮辱)           She looked at him with contempt.
+- `content` /kənˈtent/            ([Neutral] 満足させる)          She contented herself with the result.
+- `contravene` /ˌkɒntrəˈviːn/     ([Formal] 違反する、逆らう)     This contravenes international law.
+- `contribute toward` /kənˈtɹɪb.jut təˈwɔrd/ ([Neutral] ～に貢献する) Every donation contributes toward our goal.
+- `contribute` /kənˈtrɪbjuːt/     ([Formal] 寄付する)             They contribute to charity regularly.
+- `convalesce` /ˌkɒnvəˈles/       ([Writing] 療養す 回復期にある) She's convalescing after surgery.
+- `convene` /kənˈviːn/            ([Formal] 招集する)             The committee will convene next week.
+- `converge` /kənˈvɜːdʒ/          ([Formal] 集中する)             Roads converge at the city center.
+- `corroborate` /kəˈrɑbəreɪt/     ([Writing] 裏付ける)            The evidence was corroborated by witnesses.
+- `corrupt` /kəˈrʌpt/             ([Formal] 堕落させる、悪用する) Power corrupts those who wield it.
+- `counterfeit` /ˈkaʊntərfɪt/     ([Formal] 偽造する)             They counterfeited the money.
+- `crave` /kreɪv/                 ([Neutral] 渇望する 欲する)     I crave chocolate sometimes.
+- `criticize` /ˈkrɪtɪsaɪz/        ([Neutral] 非難する、批判)      She criticized his poor performance.
+- `crop up` /krɑːp ʌp/            ([Casual] 突然起こる)           Problems keep cropping up.
+- `cross swords` /krɔːs sɔːrdz/   ([Formal] 論争する)             They crossed swords in court.
+- `cross` /krɔːs/                 ([Neutral] 横切る、渡る)        Cross the street carefully.
+- `cross` /krɔːs/                 ([Neutral] 逆らう)              Don't cross him when he's angry.
+- `crouch` /kraʊtʃ/               ([Neutral] しゃがむ)            He crouched behind the wall.
+- `crush` /krʌʃ/                  ([Neutral] 押しつぶす)          The machine crushed the cans.
+- `cry` /kraɪ/                    ([Neutral] 叫ぶ、泣く)          She cried out in pain.
+- `cure` /kjʊə/                   ([Neutral] 治す、治療法)        Scientists are searching for a cure.
+- `curtail` /kɜːrˈteɪl/           ([Formal] 削減する)             We had to curtail our expenses.
+- `cut down on` /kʌt daʊn ɑːn/   ([Neutral] を減らす)            I'm cutting down on junk food.
+- `cut off at the pass`           ([Casual] 先手を打って阻止)     Let's cut this off at the pass.
+- `dash` /dæʃ/                    ([Neutral] ダッシュする)        She dashed to catch the bus.
+- `dash` /dæʃ/                    ([Neutral] 急いで走る)          I need to dash to the store.
+- `debilitate` /dɪˈbɪlɪteɪt/     ([Formal] 衰弱させる)           The disease debilitated him.
+- `deceive` /dɪˈsiːv/             ([Neutral] 欺く、だます)        Don't try to deceive me.
+- `declare` /dɪˈkler/             ([Neutral] 宣言する、公表する)  She declared her candidacy.
+- `decline` /dɪˈklaɪn/            ([Formal] 下降する、衰える)     Sales declined last quarter.
+- `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
+- `defraud` /dɪˈfrɔːd/            ([Formal] 詐取する)             They defrauded investors of millions.
+- `defy` /dɪˈfaɪ/                 ([Neutral] 反抗する)            She defied her parents' wishes.
+- `defy` /dɪˈfaɪ/                 ([Neutral] 逆らう、無視する)    Don't defy my authority.
+- `demolish` /dɪˈmɑːlɪʃ/          ([Neutral] 取り壊す)            They demolished the old factory.
+- `demonstrate` /ˈdemənstreɪt/    ([Formal] 証明する、示す)       The results demonstrate our success.
+- `denounce` /dɪˈnaʊns/           ([Formal] 公然と非難する)       The activist denounced the government's policy.
+- `depart` /dɪˈpɑːrt/             ([Formal] 出発する)             The train departs at noon.
+- `depart` /dɪˈpɑːrt/             ([Formal] 去る、出発する)       The director departed suddenly.
+- `deplete` /dɪˈpliːt/            ([Formal] 枯渇させる)           War depleted their resources.
+- `depose` /dɪˈpoʊz/              ([Formal] 退位させる、証言する)  The rebels deposed the dictator.
+- `deride` /dɪˈraɪd/              ([Formal] あざける、嘲笑する)   Critics derided his performance.
+- `descend` /dɪˈsend/             ([Formal] 下降する)             The plane began to descend.
+- `descending` /dɪˈsendɪŋ/        ([Formal] 下降する)             In descending order.
+- `desist from` /dɪˈzɪst frʌm/    ([Formal] やめる、控える)       He was ordered to desist from such activities.
+- `destroy` /dɪˈstrɔɪ/            ([Neutral] 破壊する)            The fire destroyed the building.
+- `detain` /dɪˈteɪn/              ([Formal] 拘束する)             The authorities detained the suspect.
+- `deter` /dɪˈtɜːr/               ([Neutral] 思いとどまらせる)    High prices deter customers.
+- `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、判断する)  Tests will determine the cause.
+- `dethrone` /diːˈθroʊn/          ([Formal] 王位から退ける)      The revolution dethroned the monarch.
+- `devastate` /ˈdevəsteɪt/        ([Formal] 壊滅させる)           The earthquake devastated the city.
+- `diagnose` /ˈdaɪəɡnoʊs/         ([Medical] 診断する)            The doctor diagnosed pneumonia.
+- `dial` /ˈdaɪəl/                 ([Neutral] ダイヤルする)        Please dial the emergency number.
+- `die down` /daɪ daʊn/           ([Casual] 静まる、弱まる)       The noise died down eventually.
+- `dilate` /daɪˈleɪt/             ([Formal] 膨張する、拡大する)   Her pupils dilated in the dark.
+- `diminish` /dɪˈmɪnɪʃ/           ([Neutral] 減少する)            The threat has diminished.
+- `disapprove` /ˌdɪsəˈpruːv/      ([Formal] 不承認する)           I disapprove of your decision.
+- `discard` /dɪˈskɑːrd/           ([Formal] 廃棄する)             Discard any damaged items.
+- `discontinue` /ˌdɪskənˈtɪnjuː/  ([Formal] 中止する、やめる)     We discontinued that product.
+- `discontinue` /ˌdɪskənˈtɪnjuː/  ([Formal] 中止する、廃止する)   They discontinued the product line.
+- `discount` /ˈdɪskaʊnt/          ([Neutral] 軽視する、割り引く)  Don't discount their experience.
+- `discourage` /dɪsˈkɜːrɪdʒ/      ([Neutral] 思いとどまらせる)    Don't discourage their efforts.
+- `disdain` /dɪsˈdeɪn/            ([Formal] 軽蔑する、見下す)     He disdained their offer.
+- `disgust` /dɪsˈɡʌst/            ([Neutral] 嫌悪感を抱かせる)    The sight disgusted me.
+- `dishonor` /dɪsˈɑnər/           ([Formal] 名誉を傷つける)       The scandal dishonored his reputation.
+- `dislodge` /dɪsˈlɑːdʒ/          ([Neutral] 押しのける)          The storm dislodged several trees.
+- `dismiss` /dɪsˈmɪs/             ([Neutral] 却下する、退ける)    She dismissed his concerns.
+- `disparage` /dɪˈspærɪdʒ/        ([Formal] けなす、信用落とす)   He disparaged her efforts unfairly.
+- `dispersal` /dɪˈspɜːrsəl/       ([Formal] 分散、散布)           The dispersal pattern was studied.
+- `dispersion` /dɪˈspɜːrʒən/      ([Writing] 分散、散乱)          Light dispersion creates rainbows.
+- `displace` /dɪsˈpleɪs/          ([Neutral] 押しのける)          The flood displaced many families.
+- `dispose of` /dɪˈspəʊz əv/      ([Formal] 処分する)             Dispose of hazardous waste properly.
+- `dispute` /dɪˈspjuːt/           ([Formal] 論争する)             They disputed the claim.
+- `disregard` /ˌdɪsrɪˈɡɑːrd/      ([Formal] 無視する、軽視する)   He disregarded all warnings.
+- `disrespect` /ˌdɪsrɪˈspekt/     ([Neutral] 失礼な態度を取る)    Don't disrespect your elders.
+- `disrupt` /dɪsˈrʌpt/            ([Neutral] 混乱させる)          Don't disrupt the meeting.
+- `disrupt` /dɪsˈrʌpt/            ([Neutral] 混乱させる、妨害)    The noise disrupted the meeting.
+- `dissemination`                 ([Writing] 普及、配布)          The dissemination of research findings
+- `distort` /dɪˈstɔrt/            ([Neutral] 歪める、悪用する)    The media distorted the facts.
+- `disturb` /dɪˈstɜːrb/           ([Neutral] 動揺させる)          Don't disturb him while working.
+- `ditch` /dɪtʃ/                  ([Casual] 捨てる、見捨てる)     He ditched his old phone.
+- `diversify` /daɪˈvɜːrsəfaɪ/     ([Formal] 多様化する)           The company diversified its products.
+- `divulgence` /daɪˈvʌldʒəns/     ([Writing] 暴露、漏洩)          The divulgence of secrets was forbidden.
+- `do away with` /duː əˈweɪ wɪð/  ([Neutral] 廃止する)            They did away with the old rules.
+- `doctor` /ˈdɑːktər/             ([Neutral] 改ざんする)          Someone doctored the photos.
+- `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
+- `doff` /dɒf/                    ([Formal] 脱ぐ)                 He doffed his hat politely.
+- `don` /dɒn/                     ([Formal] 身に着ける)           He donned his formal attire.
+- `downplay` /ˌdaʊnˈpleɪ/         ([Neutral] 軽視する、過小評価)  They downplayed the risks.
+- `drain` /dreɪn/                 ([Neutral] 使い果たす)          This project is draining our budget.
+- `dream of` /driːm ʌv/           ([Neutral] 夢見る、憧れる)      She dreams of becoming famous.
+- `dress up` /dres ʌp/            ([Casual] おしゃれする)         She loves to dress up for parties.
+- `drift` /drɪft/                 ([Neutral] 漂う、流れる)        The boat drifted downstream.
+- `drive someone crazy/nuts`      ([Casual] 気が狂いそうになる)   This noise is driving me crazy!
+- `drive someone up the wall`     ([Casual] いらいらさせる)       That music drives me up the wall.
+- `drive` /draɪv/                 ([Neutral] 運転する、行く)      I'll drive to the airport.
+- `drop by` /drɑːp baɪ/           ([Casual] 立ち寄る)             Feel free to drop by anytime.
+- `drop in` /drɑːp ɪn/            ([Casual] 予告なしに立ち寄る)   She dropped in unexpectedly.
+- `drop` /drɑːp/                  ([Casual] 下がる)               The temperature dropped suddenly.
+- `drop` /drɑːp/                  ([Neutral] 落ちる、下がる)      The temperature dropped suddenly.
+- `dub` /dʌb/                     ([Neutral] 名づける、称する)    He was dubbed 'The King'.
+- `duck out` /dʌk aʊt/            ([Casual] こっそり抜け出す)     I ducked out of the meeting early.
+- `dump` /dʌmp/                   ([Casual] 投げ捨てる)           Don't dump garbage here.
+- `dupe` /djuːp/                  ([Neutral] だます、カモ)        They duped him into signing the contract.
+- `dwindle` /ˈdwɪndəl/            ([Neutral] 減少する)            Their savings dwindled to nothing.
+- `ease up on` /iːz ʌp ɑːn/      ([Casual] を緩める)             Ease up on the pressure.
+- `ease` /iːz/                    ([Neutral] 和らげる、楽にする)  The medicine will ease the pain.
+- `eavesdrop on` /ˈiːvzdrɑːp ɑːn/ ([Neutral] 盗み聞きする)        He was eavesdropping on their conversation.
+- `ebb` /eb/                      ([Writing] 引く、衰える)        His life is gradually ebbing.
+- `educate` /ˈedʒukeɪt/           ([Neutral] 教育する)            We need to educate people about this.
+- `egg on` /eɡ ɑːn/               ([Casual] けしかける)           They egged him on to fight.
+- `eliminate` /ɪˈlɪmɪneɪt/        ([Formal] 除去する)             Eliminate unnecessary expenses.
+- `embezzle` /ɪmˈbezəl/           ([Formal] 横領する)             The accountant embezzled funds from the company.
+- `emerge` /ɪˈmɜːrdʒ/             ([Neutral] 現れる、浮上する)    The sun emerged from the clouds.
+- `emigrate` /ˈemɪɡreɪt/          ([Formal] 移住する)             They emigrated from Poland to Canada.
+- `employ` /ɪmˈplɔɪ/              ([Formal] 使用する、行使する)   They employed legal measures.
+- `encounter` /ɪnˈkaʊntər/        ([Neutral] 遭遇する、経験する)  We encountered several problems.
+- `encroach` /ɪnˈkroʊtʃ/          ([Formal] 侵害する)             The city encroaches on farmland.
+- `energize` /ˈenərdʒaɪz/         ([Neutral] 活力を与える)        The music energized the crowd.
+- `enforce` /ɪnˈfɔːrs/            ([Neutral] 強制する、施行する)  The police enforce the law.
+- `enforce` /ɪnˈfɔːrs/            ([Neutral] 強制する、施行する)  The police enforce the law.
+- `engineer` /ˌendʒɪˈnɪr/         ([Neutral] 画策する、仕組む)    They engineered his downfall.
+- `enlarge` /ɪnˈlɑːrdʒ/           ([Neutral] 拡大する 大きくする) Can you enlarge this photo?
+- `enlighten` /ɪnˈlaɪtn/          ([Formal] 啓発する、教える)     Let me enlighten you on this matter.
+- `ensue` /ɪnˈsuː/                ([Formal] 続いて起こる)         Chaos ensued after the announcement.
+- `ensure` /ɪnˈʃʊr/               ([Neutral] 確実にする 保証する) Please ensure the door is locked.
+- `entangle` /ɪnˈtæŋɡəl/          ([Neutral] からませる)          Don't entangle yourself in that wire.
+- `entrance` /ˈɛntɹəns/           ([Neutral] 入口、入場)          The entrance is on the left.
+- `entreaty` /ɪnˈtriːti/          ([Formal] 懇願、嘆願)           His entreaties fell on deaf ears.
+- `entry` /ˈɛntɹi/                ([Neutral] 入ること、記入項目)  The entry to the building is locked.
+- `escalate` /ˈeskəleɪt/          ([Neutral] 段階的に増大する)    Costs are escalating rapidly.
+- `establish` /ɪˈstæblɪʃ/         ([Formal] 確立する、証明する)   We need to establish the facts.
+- `evaluate` /ɪˈvæljueɪt/         ([Neutral] 評価する)            We need to evaluate the results.
+- `examine` /ɪɡˈzæmɪn/            ([Neutral] 診察する、検査する)  The doctor examined the patient.
+- `excoriate` /ɪkˈskɔːrieɪt/      ([Writing] 痛烈に批判する)      The review excoriated the author.
+- `exculpate` /ˈekskʌlpeɪt/       ([Legal] 無罪を証明する)        The evidence exculpated the suspect.
+- `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、執行する)   The court will execute the warrant.
+- `exert` /ɪɡˈzɜːrt/              ([Neutral] 及ぼす、行使する)    He exerted his authority to resolve the dispute.
+- `exhaust` /ɪɡˈzɔːst/            ([Formal] 使い果たす)           They exhausted their savings.
+- `exhibit` /ɪɡˈzɪbɪt/            ([Formal] 展示する、示す)       The museum exhibits ancient artifacts.
+- `exit` /ˈeɡzɪt/                 ([Neutral] 退場する、辞める)    He exited the business.
+- `exonerate` /ɪɡˈzɒnəreɪt/       ([Formal] 無罪とする)           The new evidence exonerated him.
+- `expand` /ɪkˈspænd/             ([Neutral] 拡大する、膨張する)  The business is expanding overseas.
+- `expand` /ɪkˈspænd/             ([Neutral] 拡張する 発展させる) They plan to expand the business.
+- `expect` /ɪkˈspekt/             ([Neutral] 期待する、予想する)  I expect him to arrive soon.
+- `experience` /ɪkˈspɪriəns/      ([Neutral] 経験する)            We experienced some difficulties.
+- `exploit` /ɪkˈsplɔɪt/           ([Neutral] 悪用する、利用する)  They exploited the loophole in the system.
+- `exploit` /ɪkˈsplɔɪt/           ([Neutral] 搾取する、利用する)  They exploited workers for cheap labor.
+- `eye` /aɪ/                      ([Neutral] じろじろ見る)        He eyed the stranger suspiciously.
+- `eyeball` /ˈaɪbɔːl/             ([Casual] にらみ合う)           The two teams eyeballed each other.
+- `fabricate` /ˈfæbrɪkeɪt/        ([Formal] でっち上げる)         He fabricated the entire story.
+- `face off` /feɪs ɔːf/           ([Neutral] 対決する)            The teams faced off in the finals.
+- `face` /feɪs/                   ([Neutral] 直面する)            She faces surgery next month.
+- `facilitate` /fəˈsɪlɪteɪt/      ([Formal] 促進する)             The system facilitated money laundering.
+- `fade` /feɪd/                   ([Neutral] 薄れる)              The light faded gradually.
+- `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
+- `fall` /fɔːl/                   ([Neutral] 落ちる)              Be careful not to fall!
+- `fall` /fɔːl/                   ([Neutral] 落ちる)              Profits fell sharply.
+- `falsify` /ˈfɔːlsɪfaɪ/          ([Formal] 偽造する、反証する)   He falsified the documents.
+- `fasten` /ˈfæsən/               ([Neutral] 固定する、留める)    Fasten your seatbelt.
+- `feel better` /fiːl ˈbetər/     ([Casual] 気分が良くなる)       Do you feel better today?
+- `fetch` /fɛtʃ/                  ([Neutral] 取てくる 連れてくる) Go fetch the newspaper from outside.
+- `fight with`                    ([Neutral] ～と戦う)            He fought with his brother.
+- `filch` /fɪltʃ/                 ([Casual] 盗む)                 The kid filched cookies from the jar.
+- `file` /faɪl/                   ([Neutral] ファイルす 整理する) File these reports properly.
+- `finesse` /fɪˈnes/              ([Formal] 巧みに扱う)           She finessed the situation perfectly.
+- `fit` /fɪt/                     ([Neutral] 適合する、合う)      This solution fits our needs perfectly.
+- `fix one's eyes on`             ([Neutral] 目を据える 注視する) She fixed her eyes on the target.
+- `flavor` /ˈfleɪvər/             ([Neutral] 味をつける)          Flavor the soup with herbs.
+- `flock` /flɒk/                  ([Neutral] 群がる)              Tourists flock to the beach in summer.
+- `flout` /flaʊt/                 ([Formal] 軽蔑して無視する)     They flouted safety regulations.
+- `flush down` /flʌʃ daʊn/        ([Casual] 無駄にする)           He flushed his money down the drain.
+- `fly` /flaɪ/                    ([Neutral] 飛ぶ、飛行機で行く)  We're flying to Paris tomorrow.
+- `foil` /fɔɪl/                   ([Neutral] 挫折させる、阻止)    Police foiled the robbery.
+- `follow` /ˈfɑloʊ/               ([Neutral] ついて行く)          Just follow me.
+- `foment` /foʊˈment/             ([Formal] 煽動する)             He fomented discord in the group.
+- `fool` /fuːl/                   ([Casual] だます、ばか者)       You can't fool me twice.
+- `forbid` /fərˈbɪd/              ([Neutral] 禁じる)              I forbid you to go.
+- `forestall` /fɔːrˈstɔːl/        ([Formal] 未然に防ぐ)           They forestalled the crisis.
+- `forfeit` /ˈfɔːrfɪt/            ([Neutral] 没収される、失う)    He forfeited his rights.
+- `forge` /fɔːrdʒ/                ([Neutral] 偽造する)            He forged the signature.
+- `forgo` /fɔːrˈɡoʊ/              ([Formal] 控える、断念する)     I'll forgo dessert tonight.
+- `fritter` /ˈfrɪtə/              ([Writing] 浪費する)            He frittered away his inheritance.
+- `frustrate` /ˈfrʌstreɪt/        ([Neutral] 挫折させる 苛立たせ) Technical issues frustrated our efforts.
+- `fuel` /fjuːl/                  ([Neutral] 煽る、助長する)      His remarks fueled the debate.
+- `fulfill` /fʊlˈfɪl/             ([Formal] 満たす、成就する)     We need to fulfill our obligations.
+- `fund` /fʌnd/                   ([Neutral] 資金を出す)          The government funded the project.
+- `galvanize` /ˈɡælvənaɪz/        ([Formal] 活気づける 奮起させ)  The crisis galvanized the nation.
+- `gamble` /ˈɡæmbəl/              ([Neutral] 賭ける、賭博をする)  He gambled all his money away.
+- `garner` /ˈɡɑːrnər/             ([Formal] 獲得する、集める)     The candidate garnered significant support.
+- `gather` /ˈɡæðər/               ([Neutral] 集まる)              Let's gather at the park tomorrow.
+- `gather` /ˈɡæðər/               ([Neutral] 集める、収集する)    Please gather all the documents.
+- `gawk at` /ɡɔːk æt/             ([Casual] まじまじと見る)       Don't gawk at strangers.
+- `gaze at` /ɡeɪz æt/             ([Neutral] 見つめる、凝視する)  She gazed at the stars.
+- `gear up for` /ɡɪr ʌp/          ([Casual] 準備する)             We're gearing up for the launch.
+- `genuflect` /ˈdʒenjʊflekt/      ([Formal] 片膝をつく)           Catholics genuflect before the altar.
+- `get back on one's feet`        ([Casual] 立ち直る)             It took months to get back on his feet.
+- `get checked`                   ([Casual] 検査を受ける)         You should get checked soon.
+- `get in the way`                ([Casual] 邪魔する)             Your car is getting in the way.
+- `get in the way`                ([Neutral] 邪魔をする)          Don't let fear get in the way.
+- `get in the way` /ɡet ɪn ðə weɪ/([Casual] 邪魔になる)           Don't get in the way.
+- `get on someone's nerves`       ([Casual] 神経に障る)           He really gets on my nerves.
+- `get there`                     ([Casual] そこに着く)           How long does it take to get there?
+- `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
+- `get under someone's skin`      ([Casual] いらいらさせる)       He knows how to get under my skin.
+- `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
+- `give a wide berth to`          ([Formal] 避ける、近寄らない)   I give that restaurant a wide berth.
+- `give up` /ɡɪv ʌp/              ([Neutral] 諦める、辞める)      Don't give up your dreams.
+- `glance over` /ɡlæns ˈoʊvər/    ([Neutral] ざっと見る)          She glanced over the report.
+- `glean` /ɡliːn/                 ([Writing] 拾い集める、収集する)I gleaned information from various sources.
+- `glimpse at` /ɡlɪmps æt/        ([Neutral] ちらっと見る)        I glimpsed at the photo.
+- `go Dutch`                      ([Casual] 割り勘にする)         Should we go Dutch on this meal?
+- `go along with`                 ([Casual] 同調する、従う)       I'll go along with the plan.
+- `go head-to-head`               ([Casual] 真っ向勝負する)       The rivals went head-to-head.
+- `go in` /ɡoʊ ɪn/                ([Casual] 中に入る)             Let's go in, it's cold outside.
+- `go through` /ɡoʊ θruː/         ([Casual] 経験する、通り抜ける) He went through a difficult time.
+- `go through` /ɡoʊ θruː/         ([Neutral] 使い果たす)          We went through two bottles.
+- `go to the doctor`              ([Casual] 医者に行く)           I'm going to the doctor tomorrow.
+- `go to` /ɡoʊ tuː/               ([Neutral] ～に通う、行く)      I go to school every day.
+- `go toward` /ɡoʊ təˈwɔrd/       ([Neutral] ～に充てられる)      The money will go toward new equipment.
+- `goad` /ɡoʊd/                   ([Neutral] 駆り立てる)          She goaded him into taking risks.
+- `grapple` /ˈɡræpəl/             ([Neutral] 格闘する)            They grappled on the ground.
+- `grate on` /ɡreɪt ɑːn/          ([Neutral] いらだたせる)        Her voice grates on me.
+- `gratify` /ˈɡrætɪfaɪ/           ([Formal] 満足させる、喜ばせる) The results gratified the team.
+- `group` /ɡruːp/                 ([Neutral] グループ分けする)    Group similar items together.
+- `guarantee` /ˌɡærənˈtiː/        ([Neutral] 保証する、約束する)  We guarantee quality service.
+- `gull` /ɡʌl/                    ([Neutral] だます、欺く)        He was gulled into buying fake tickets.
+- `hallmark` /ˈhɔːlmɑːrk/         ([Formal] 品質保証する)         The item is hallmarked.		
+- `halt` /hɔːlt/                  ([Formal] 停止する、中止する)   The project was halted due to funding.
+- `hamper` /ˈhæmpər/              ([Neutral] 妨げる、邪魔する)    Rain hampered the rescue efforts.
+- `hamper` /ˈhæmpər/              ([Neutral] 妨げる、邪魔する)    Rain hampered the rescue efforts.
+- `hand over` /hænd ˈoʊvər/       ([Neutral] 引き渡す)            She handed over her responsibilities.
+- `harass` /həˈræs/               ([Neutral] 嫌がらせする)        She was harassed at work.
+- `harass` /həˈræs/               ([Neutral] 嫌がらせをする)      He was accused of harassing coworkers.
+- `harvest` /ˈhɑːrvɪst/           ([Neutral] 収穫する、得る)      They harvest data from users.
+- `hassle` /ˈhæsəl/               ([Casual] 困らせる、悩ます)     Don't hassle me about it.
+- `haunt` /hɔːnt/                 ([Neutral] つきまとう)          The memory haunts me still.
+- `have on` /hæv ɒn/              ([Neutral] 着ている)            What do you have on today?
+- `head off` /hed ɔːf/            ([Neutral] 未然に防ぐ)          We need to head off any problems.
+- `head` /hed/                    ([Neutral] 向かう)              Let's head home.
+- `heal` /hiːl/                   ([Neutral] 治る、癒す)          The wound healed quickly.
+- `heal` /hiːl/                   ([Neutral] 癒える、治る)        The wound will heal in time.
+- `hear` /hɪr/                    ([Neutral] 聞く、聴く)          Did you hear that sound?
+- `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
+- `heed` /hiːd/                   ([Formal] 耳を傾ける、注意する) Heed my warning carefully.
+- `hinder` /ˈhɪndər/              ([Neutral] 妨げる、邪魔する)    Bad weather hindered our progress.
+- `hinder` /ˈhɪndər/              ([Neutral] 妨げる、邪魔する)    Don't hinder their efforts.
+- `hoard` /hɔːrd/                 ([Neutral] 貯め込む、買い占める)Don't hoard toilet paper.
+- `hold back from`                ([Neutral] 控える、我慢する)    She held back from commenting.
+- `hold captive`                  ([Neutral] 監禁する)            They held him captive for days.
+- `hold off` /hoʊld ɔːf/          ([Neutral] 延期する)            Let's hold off on the decision.
+- `hold up` /hoʊld ʌp/            ([Casual] 遅らせる)             Traffic held us up.
+- `holler` /ˈhɑːlər/              ([Casual] 大声で呼ぶ)           He hollered for help.
+- `hoodwink` /ˈhʊdwɪŋk/           ([Writing] だます、欺く)        They hoodwinked investors out of millions.
+- `huddle` /ˈhʌdl/                ([Casual] 身を寄せ合う)         We huddled together for warmth.
+- `humiliate` /hjuˈmɪlɪeɪt/       ([Formal] 屈辱する)             She humiliated him in front of everyone.
+- `hunch` /hʌntʃ/                 ([Casual] 背を丸める)           Don't hunch over your desk.
+- `hunger for` /ˈhʌŋɡər fɔːr/     ([Neutral] 渇望する)            They hunger for knowledge.
+- `hurl` /hɜːrl/                  ([Neutral] 投げる、放る)        She hurled the stone into the river.
+- `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
+- `immigrate` /ˈɪmɪɡreɪt/         ([Formal] 移民する)             They immigrated to the United States.
+- `impair` /ɪmˈper/               ([Formal] 損なう、害する)       Alcohol can impair your judgment.
+- `impede` /ɪmˈpiːd/              ([Formal] 妨げる、遅らせる)     Bad weather impeded our progress.
+- `impede` /ɪmˈpiːd/              ([Formal] 妨げる、遅らせる)     Snow impeded traffic.
+- `impinge` /ɪmˈpɪndʒ/            ([Formal] 影響を与える)         This impinges on our rights.
+- `implement` /ˈɪmplɪment/        ([Formal] 実施する、実装する)   The government will implement new policies.
+- `imposition` /ˌɪmpəˈzɪʃən/     ([Neutral] 押し付け、負担)      I hope it's not an imposition.
+- `impregnate` /ɪmˈpreɡneɪt/      ([Formal] 妊娠させる)           The male impregnated the female.
+- `imprison` /ɪmˈprɪzən/          ([Formal] 監禁する)             He was imprisoned in the basement.
+- `improve` /ɪmˈpruːv/            ([Neutral] 改善する、良くなる)  His condition is improving daily.
+- `incapacitate` /ˌɪnkəˈpæsɪteɪt/ ([Formal] 無能力にする)         The injury incapacitated him for months.
+- `incarcerate` /ɪnˈkɑːrsəreɪt/   ([Formal] 収監する)             He was incarcerated for ten years.
+- `incite` /ɪnˈsaɪt/              ([Neutral] 扇動する 駆り立てる) He incited the crowd to protest.
+- `incite` /ɪnˈsaɪt/              ([Neutral] 扇動する)            The speech incited violence.
+- `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増える)    Sales increased by 20%.
+- `increase` /ɪnˈkriːs/           ([Neutral] 増加する、増やす)    Sales increased by 20%.
+- `indicate` /ˈɪndɪkeɪt/          ([Neutral] 示す、表す)          The signs indicate success.
+- `indulge` /ɪnˈdʌldʒ/            ([Neutral] 甘やかす 満足させる) Don't indulge his bad behavior.
+- `inflict` /ɪnˈflɪkt/            ([Neutral] 負わせる、与える)    Don't inflict pain on others.
+- `inform` /ɪnˈfɔːrm/             ([Neutral] 知らせる、通知する)  Please inform me of any changes.
+- `infringe` /ɪnˈfrɪndʒ/          ([Formal] 侵害する、違反する)   This infringes on our privacy rights.
+- `inhibit` /ɪnˈhɪbɪt/            ([Formal] 抑制する、妨げる)     Fear inhibits learning.
+- `initialize` /ɪˈnɪʃəlaɪz/       ([Formal] 初期化する、起動する) Initialize the system.
+- `injure` /ˈɪndʒər/              ([Neutral] 負傷させる)          She injured her knee playing soccer.
+- `inseminate` /ɪnˈsemɪneɪt/      ([Technical] 授精する)          The cattle were artificially inseminated.
+- `inspire` /ɪnˈspaɪər/           ([Neutral] 鼓舞する、感化する)  Her story inspired many people.
+- `instigate` /ˈɪnstɪɡeɪt/        ([Neutral] 扇動する)            He instigated a rebellion.
+- `insure` /ɪnˈʃʊr/               ([Neutral] 保証する 保険かける) Insure your valuables.
+- `interdict` /ɪntɚˈdɪkt/         ([Formal] 禁じる、阻止する)     I have ordered to interdict any communication.
+- `interfere` /ˌɪntərˈfɪr/        ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
+- `interfere` /ˌɪntərˈfɪr/        ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
+- `intern` /ɪnˈtɜːrn/             ([Formal] 抑留する)             They interned enemy aliens during the war.
+- `interrupt` /ˌɪntəˈrʌpt/        ([Neutral] 中断する、遮る)      Please don't interrupt me.
+- `interrupt` /ˌɪntəˈrʌpt/        ([Neutral] 邪魔する、中断する)  Don't interrupt me while I'm talking.
+- `intrude` /ɪnˈtruːd/            ([Neutral] 侵入する、割り込む)  Sorry to intrude on your meeting.
+- `invalidate` /ɪnˈvælɪˌdeɪt/     ([Formal] 無効にする)           This will invalidate your warranty.
+- `invest` /ɪnˈvest/              ([Neutral] 投資する)            She invested in the stock market.
+- `invoke` /ɪnˈvoʊk/              ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
+- `irk` /ɜːrk/                    ([Neutral] いらだたせる)        His comments irked the team.
+- `irritate` /ˈɪrɪteɪt/           ([Neutral] いらだたせる)        His attitude irritates everyone.
+- `jail` /dʒeɪl/                  ([Neutral] 監禁する)            They jailed him for fraud.
+- `jeer` /dʒɪr/                   ([Neutral] ヤジを飛ばす)        The crowd jeered at the opposing team.
+- `journey` /ˈdʒɜːrni/            ([Neutral] 旅する)              They journeyed across the country.
+- `junk` /dʒʌŋk/                  ([Casual] 廃棄する)             I junked my old computer.
+- `keep an eye on` /kiːp ən aɪ ɑːn/ ([Neutral] 目を光らせる)      Keep an eye on the oven, please.
+- `keep away from`                ([Neutral] 近寄らない、避ける)  Keep away from the edge.
+- `keep from` /kiːp frʌm/         ([Neutral] 我慢する、控える)    I couldn't keep from laughing.
+- `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
+- `keep` /kiːp/                   ([Neutral] 保つ、維持する)      Keep the temperature constant.
+- `keep` /kiːp/                   ([Neutral] 守る、保つ)          Keep the rules in mind.
+- `keep` /kiːp/                   ([Neutral] 留める)              They kept him at the station.
+- `kick in`                       ([Casual] お金を出す)           I'll kick in $20 for the gift.
+- `kick off` /kɪk ɒf/             ([Casual] 蹴って脱ぐ)           She kicked off her heels.
+- `lambaste` /læmˈbeɪst/          ([Casual] 激しく非難する)       The coach lambasted the referee's decision.
+- `lapse` /læps/                  ([Neutral] 失効する、終わる)    My membership lapsed last month.
+- `lash` /læʃ/                    ([Neutral] 激しく非難する)      The senator lashed out at his critics.
+- `launch` /lɔːntʃ/               ([Neutral] 起動する、開始する)  Launch the application.
+- `leave` /liːv/                  ([Neutral] 去る、辞める)        She's leaving the company.
+- `lessen` /ˈlesən/               ([Neutral] 和らぐ、減る)        The symptoms lessened over time.
+- `lessen` /ˈlesən/               ([Neutral] 減らす)              This should lessen the pain.
+- `let slip` /let slɪp/           ([Neutral] 逃す、漏らす)        I let the chance slip away.
+- `let up` /let ʌp/               ([Casual] 和らぐ、弱まる)       The rain finally let up.
+- `lift` /lɪft/                   ([Casual] 盗む)                 She lifted a magazine from the store.
+- `limit` /ˈlɪmɪt/                ([Neutral] 制限する)            Time limits our choices.
+- `listen to` /ˈlɪsən tuː/        ([Neutral] 聞き従う)            Listen to your parents.
+- `lock horns` /lɑːk hɔːrnz/      ([Casual] 激しく対立する)       They locked horns over the budget.
+- `lock horns` /lɑːk hɔːrnz/      ([Casual] 激しく対立する)       They locked horns over the budget.
+- `lock up` /lɑːk ʌp/             ([Casual] 監禁する)             They locked him up in jail.
+- `long for` /lɔːŋ fɔːr/          ([Neutral] 恋しがる 切望する)   She longs for her homeland.
+- `look after` /lʊk ˈæftər/       ([Neutral] 世話をする)          She looks after her parents.
+- `look down on`                  ([Neutral] 見下す)              She looks down on people without degrees.
+- `look forward to`               ([Neutral] 楽しみにする)        I look forward to seeing you.
+- `look out` /lʊk aʊt/            ([Casual] 気をつけて)           Look out! It's slippery.
+- `lower` /ˈloʊər/                ([Neutral] 下げる)              Lower your voice please.
+- `magnify` /ˈmæɡnɪfaɪ/           ([Neutral] 拡大する、誇張する)  The lens magnifies the text.
+- `maintain` /meɪnˈteɪn/          ([Neutral] 主張する、維持する)  He maintains his innocence.
+- `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、保つ)      We need to maintain our standards.
+- `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、守る)      Maintain professional standards.
+- `make arrangements for`         ([Neutral] 手配する)            I'll make arrangements for the trip.
+- `make fun of` /meɪk fʌn ʌv/     ([Casual] からかう)             Don't make fun of his accent.
+- `make it to`                    ([Casual] ～に着く、間に合う)   I barely made it to the meeting.
+- `make off with` /meɪk ɔːf wɪð/  ([Casual] 持ち逃げする)         The thieves made off with the jewelry.
+- `make preparations for`         ([Formal] 準備する)             Make preparations for the event.
+- `maltreat` /ˌmælˈtriːt/         ([Formal] 虐待する、酷使する)   They maltreated the prisoners.
+- `maneuver` /məˈnuːvər/          ([Neutral] 策略を用いる)        He maneuvered himself into a position of power.
+- `manipulate` /məˈnɪpjəleɪt/     ([Neutral] 操る、操作する)      She manipulated him into lending her money.
+- `manipulate` /məˈnɪpjʊleɪt/     ([Neutral] 操作する)            He manipulated the test results.
+- `manipulate` /məˈnɪpjʊleɪt/     ([Neutral] 操作する、悪用する)  He manipulated the data to his advantage.
+- `materialize` /məˈtɪriəlaɪz/    ([Formal] 実体化する、現れる)   Help materialized quickly.
+- `meddle in`                     ([Neutral] ～に口出しする)      Stop meddling in my business.
+- `medicate` /ˈmedɪkeɪt/          ([Medical] 薬を投与する)        They medicated the patient for pain.
+- `meet` /miːt/                   ([Neutral] 会う)                Let's meet for coffee.
+- `melt` /melt/                   ([Neutral] 溶ける、心が和らぐ)  His heart melted at her smile.
+- `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
+- `mend` /mend/                   ([Neutral] 回復する、修復する)  His broken bones are mending well.
+- `migrate` /maɪˈɡreɪt/           ([Neutral] 移住する)            Birds migrate south for winter.
+- `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
+- `minimize` /ˈmɪnɪmaɪz/          ([Neutral] 最小限に評価する)    He minimized the importance of the issue.
+- `misappropriate` /ˌmɪsəˈproʊpriˌeɪt/ ([Formal] 不正流用する)    He misappropriated public money.
+- `mislead` /ˌmɪsˈliːd/           ([Neutral] 誤解させる)          The advertisement misled consumers.
+- `mistreat` /ˌmɪsˈtriːt/         ([Neutral] 虐待する 粗末に扱う) Don't mistreat animals.
+- `misuse` /ˌmɪsˈjuːz/            ([Neutral] 誤用する、悪用する)  He misused company funds.
+- `mock` /mɑːk/                   ([Neutral] あざける、まねる)    The children mocked his accent.
+- `modify` /ˈmɑːdɪfaɪ/            ([Neutral] 修正する)            They modified the original plan.
+- `molest` /məˈlest/              ([Formal] 性的暴行、嫌がらせ)   He was arrested for molesting children.
+- `mollify` /ˈmɒlɪfaɪ/            ([Writing] 和らげる、なだめる)  His apology mollified her anger.
+- `mollycoddle` /ˈmɑːlikɑːdl/     ([Formal] 過保護に扱う)         Stop mollycoddling them!
+- `motivate` /ˈmoʊtəveɪt/         ([Neutral] 動機付ける)          Money motivates some people.
+- `multiply` /ˈmʌltɪplaɪ/         ([Neutral] 増殖する、倍増する)  Problems multiplied quickly.
+- `muster` /ˈmʌstər/              ([Formal] 召集する)             Muster all available troops.
+- `nag` /næɡ/                     ([Casual] がみがみ言う)         Stop nagging me about chores.
+- `nag` /næɡ/                     ([Casual] しつこく悩ませる)     Self-doubt nagged at her constantly.
+- `name` /neɪm/                   ([Neutral] 名づける、命名する)  They named their son Michael.
+- `name` /neɪm/                   ([Neutral] 名前を付ける)        They named their baby Sarah.
+- `nark` /nɑːrk/                  ([British] いらだたせる)        It narks me when he does that.
+- `nauseate` /ˈnɔːzieɪt/          ([Formal] 吐き気を催させる)     The smell nauseated me.
+- `navigate` /ˈnævɪɡeɪt/          ([Neutral] 案内する、進む)      Navigate through the traffic.
+- `needle` /ˈniːdəl/              ([Casual] ちくちく言う)         He kept needling me about my mistake.
+- `nestle` /ˈnesl/                ([Casual] 寄り添う)             The kitten nestled in my lap.
+- `nettle` /ˈnetəl/               ([Formal] いらだたせる)         Her remarks nettled him.
+- `nick` /nɪk/                    ([British] 盗む)                Someone nicked my bike.
+- `nickname` /ˈnɪkneɪm/           ([Casual] あだ名をつける)       We nicknamed him 'Slowcoach'.
+- `nip it in the bud`             ([Neutral] 芽のうちに摘む)      We should nip this problem in the bud.
+- `nip out` /nɪp aʊt/             ([Casual 英] さっと出る)        I'll nip out for some milk.
+- `no questions asked`            ([Neutral] 無条件で受け入れる)  We'll accept it, no questions asked.
+- `nullify` /ˈnʌlɪˌfaɪ/           ([Formal] 無効化する)           The court nullified the contract.
+- `nurse` /nɜːrs/                 ([Neutral] 看護する、介抱する)  She nursed him back to health.
+- `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
+- `obliterate` /əˈblɪtəreɪt/      ([Formal] 完全に破壊する)       The explosion obliterated the building.
+- `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
+- `obstruct` /əbˈstrʌkt/          ([Formal] 妨害する、塞ぐ)       Don't obstruct the exit.
+- `obstruct` /əbˈstrʌkt/          ([Formal] 妨害する、塞ぐ)       Don't obstruct the exit.
+- `obtain` /əbˈteɪn/              ([Formal] 獲得する、入手する)   You need to obtain permission first.
+- `oppose` /əˈpoʊz/               ([Neutral] 反対する)            They opposed the new policy.
+- `ostracize` /ˈɑːstrəsaɪz/       ([Formal] 追放する、排斥する)   They ostracized him from the group.
+- `oust` /aʊst/                   ([Neutral] 追放する、失脚させる) The board ousted the CEO.
+- `outlaw` /ˈaʊt.lɔ/              ([Neutral] 禁止する、違法化)    They outlawed zombie knives.
+- `outrage` /ˈaʊtreɪdʒ/           ([Neutral] 激怒させる)          His comments outraged the community.
+- `overlook` /ˌoʊvərˈlʊk/         ([Neutral] 見落とす、見逃す)    Don't overlook the details.
+- `override` /ˌoʊvərˈraɪd/        ([Formal] 無効にする)           The president can override the veto.
+- `overrule` /ˌoʊvərˈruːl/        ([Formal] 却下する)             The judge overruled the objection.
+- `overstep` /ˌoʊvərˈstep/        ([Neutral] 越権行為をする)      You overstepped your authority.
+- `overthrow` /ˌoʊvərˈθroʊ/       ([Neutral] 打倒する、転覆する)  They plotted to overthrow the government.
+- `pacify` /ˈpæsɪfaɪ/             ([Neutral] 鎮める、平定する)    The mother pacified her crying baby.
+- `pamper` /ˈpæmpər/              ([Neutral] 甘やかす 大事にする) She pampers her students too much.
+- `pardon` /ˈpɑːdən/              ([Formal] 恩赦する)             The president pardoned the prisoner.
+- `pass up` /pæs ʌp/              ([Neutral] 見送る、断る)        I can't pass up such a great offer.
+- `pass` /pæs/                    ([Neutral] 通る、通過する)      We passed through the town.
+- `pat` /pæt/                     ([Neutral] 軽くたたく、ポンポンする) She patted him on the shoulder.
+- `pay attention to`              ([Neutral] 注意を払う 注目する) Pay attention to the details.
+- `pay for` /peɪ fɔː/             ([Neutral] 支払う)              I'll pay for dinner tonight.
+- `peek at` /piːk æt/             ([Casual] のぞき見る ちらっと見る) He peeked at the answer.
+- `peer at` /pɪr æt/              ([Neutral] じっと見る のぞき込む) He peered at the document.
+- `peeve` /piːv/                  ([Casual] いらだたせる)         That really peeves me.
+- `pen up` /pen ʌp/               ([Casual] 囲い込む)             They penned up the protesters.
+- `perk up` /pɜːk ʌp/             ([Casual] 元気を取り戻す)       She perked up after some rest.
+- `permit` /pərˈmɪt/              ([Formal] 許可する)             The law does not permit smoking here.
+- `permit` /pəˈmɪt/               ([Formal] 許可する)             Smoking is not permitted here.
+- `persecute` /ˈpɜːrsɪkjuːt/      ([Formal] 迫害する)             They persecuted religious minorities.
+- `persist` /pərˈsɪst/            ([Neutral] しつこく悩ませる)    The problem persists despite efforts.
+- `perturb` /pərˈtɜːrb/           ([Formal] 心を乱す 動揺させる)  The news perturbed her greatly.
+- `pervert` /pəˈvɜrt/             ([Formal] 悪用する、歪める)     They perverted the course of justice.
+- `pester` /ˈpestər/              ([Neutral] しつこく悩ます)      The kids pestered their parents for toys.
+- `phone` /foʊn/                  ([Neutral] 電話する)            Can you phone the restaurant?
+- `pick on` /pɪk ɑːn/             ([Casual] いじめる、からかう)   Why do you always pick on me?
+- `pick up` /pɪk ʌp/              ([Casual] 回復する、元気になる) She's starting to pick up now.
+- `pierce` /pɪrs/                 ([Neutral] 突き刺す、貫く)      The arrow pierced the target.
+- `pilfer` /ˈpɪlfər/              ([Neutral] こそ泥する)          The employee pilfered office supplies.
+- `pinch` /pɪntʃ/                 ([Casual] つまむ、盗む)         He pinched an apple from the cart.
+- `piss off` /pɪs ɔːf/            ([Vulgar] 怒らせる)             He really pissed me off.
+- `pitch in`                      ([Casual] お金を出し合う)       We all pitched in for lunch.
+- `placate` /pləˈkeɪt/            ([Formal] なだめる、懐柔する)   She tried to placate the angry customer.
+- `plague` /pleɪɡ/                ([Neutral] 苦しめる)            Doubts plagued him all night.
+- `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
+- `play down` /pleɪ daʊn/         ([Casual] 軽視する)             She played down her role in the success.
+- `plea` /pliː/                   ([Neutral] 嘆願、弁解)          Her plea was ignored.
+- `please` /pliːz/                ([Neutral] 喜ばせる 満足させる) It's hard to please everyone.
+- `pledge` /pledʒ/                ([Formal] 誓約する、約束する)   He pledged his support.
+- `plunge` /plʌndʒ/               ([Neutral] 急落する)            Stock prices plunged today.
+- `point to` /pɔɪnt tuː/          ([Casual] 示す、指摘する)       All evidence points to success.
+- `poke` /poʊk/                   ([Casual] 突く、つつく)         Don't poke me with your finger.
+- `pollinate` /ˈpɑːləneɪt/        ([Technical] 受粉させる)        Bees pollinate the apple trees.
+- `pool money`                    ([Neutral] お金をまとめる)      Let's pool our money together.
+- `pop in` /pɑːp ɪn/              ([Casual] ちょっと立ち寄る)     I'll pop in to say hi.
+- `pop out` /pɑːp aʊt/            ([Casual] ちょっと外出する)     I'll just pop out to the store.
+- `pop up` /pɑːp ʌp/              ([Neutral] 現れる、出現する)    A message popped up on screen.
+- `power on` /ˈpaʊər ɑːn/         ([Neutral] 電源を入れる)        Power on the device.
+- `preempt` /priːˈempt/           ([Formal] 先手を打つ)           The company preempted criticism.
+- `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+- `prescribe` /prɪˈskraɪb/        ([Medical] 処方する)            The doctor prescribed antibiotics.
+- `preserve` /prɪˈzɜːrv/          ([Neutral] 保存する、維持する)  They preserved the old building.
+- `prevent oneself from`          ([Formal] 控える、我慢する)     She prevented herself from interrupting.
+- `prevent` /prɪˈvent/            ([Neutral] 防ぐ、妨げる)        This will prevent accidents.
+- `prevent` /prɪˈvent/            ([Neutral] 防ぐ、妨げる)        We need to prevent accidents.
+- `prick` /prɪk/                  ([Neutral] チクリと刺す)        I pricked my finger on a needle.
+- `proceed` /prəˈsiːd/            ([Formal] 進む、続行する)       Please proceed to the gate.
+- `proclaim` /prəˈkleɪm/          ([Formal] 宣言する、公表する)   The mayor proclaimed a holiday.
+- `prohibit` /prəˈhɪbɪt/          ([Formal] 禁止する)             The law prohibits smoking here.
+- `proliferation`                 ([Formal] 拡散、急増)           The proliferation of technology
+- `promulgation`                  ([Writing] 公布、発布)          The promulgation was official.
+- `pronounce` /prəˈnaʊns/         ([Neutral] 宣告する、発音する)  The judge pronounced the verdict.
+- `propagation` /ˌprɑːpəˈɡeɪʃən/  ([Formal] 伝播、普及)           The propagation of ideas takes time.
+- `proscribe` /pɹəˈskɹaɪb/        ([Formal] 禁止する、排斥する)   The law proscribes intoxicated driving.
+- `prove innocent`                ([Neutral] 無実を証明する)      The investigation proved him innocent.
+- `provoke` /prəˈvoʊk/            ([Neutral] 挑発する)            Don't provoke the dog.
+- `provoke` /prəˈvoʊk/            ([Neutral] 挑発する)            His comment provoked anger.
+- `publicity` /pʌˈblɪsəti/        ([Neutral] 宣伝、知名度)        The publicity helped sales increase.
+- `pull off` /pʊl ɒf/             ([Casual] 引っ張って脱ぐ)       Pull off your wet socks.
+- `pull through` /pʊl θruː/       ([Neutral] 乗り切る、回復する)  The doctors think she'll pull through.
+- `pull up` /pʊl ʌp/              ([Casual] 車で着く)             A taxi pulled up outside.
+- `punt` /pʌnt/                   ([British Casual] 賭ける)       I'll punt a fiver on that horse.
+- `purloin` /pərˈlɔɪn/            ([Formal] 盗用する)             He purloined the company's secrets.
+- `push back the frontiers` /pʊʃ bæk ðə ˌfrʌnˈtɪrz/ ([Formal] 未知の領域を広げる) Scientists push back the frontiers of knowledge.
+- `push the envelope` /pʊʃ ði ˈenvəloʊp/ ([Neutral] 限界に挑戦する)   The director pushes the envelope with this film.
+- `push the limits` /pʊʃ ðə ˈlɪmɪts/   ([Neutral] 限界に挑む)       Athletes push the limits of human performance.
+- `put in order`                  ([Neutral] 整理する 順番に並べ) Put these files in order.
+- `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
+- `put off` /pʊt ɔːf/             ([Neutral] 延期する)            We put off the wedding.
+- `quarrel` /ˈkwɔːrəl/            ([Neutral] 口論する)            They quarreled about politics.
+- `quench` /kwentʃ/               ([Neutral] 満たす、鎮める)      Water quenched his thirst.
+- `race` /reɪs/                   ([Neutral] 疾走する)            He raced down the stairs.
+- `raid` /reɪd/                   ([Neutral] 襲撃する)            Police raided the building.
+- `rally` /ˈræli/                 ([Medical] 持ち直す)            The patient rallied overnight.
+- `rally` /ˈræli/                 ([Neutral] 結集する)            Supporters will rally at the park.
+- `rap` /ræp/                     ([Neutral] 叩く、ノックする)    He rapped on the door loudly.
+- `reach` /riːtʃ/                 ([Neutral] 到達する)            We reached the summit at noon.
+- `rebuff` /rɪˈbʌf/               ([Formal] 拒絶する、はねつける) She rebuffed his advances.
+- `rebuke` /rɪˈbjuːk/             ([Formal] 叱責する、非難する)   The teacher rebuked the student for cheating.
+- `recede` /rɪˈsiːd/              ([Formal] 後退する)             The prospect of bankruptcy receded.
+- `receive` /rɪˈsiːv/             ([Neutral] 受ける)              She received treatment for her condition.
+- `reconcile` /ˈrekənsaɪl/        ([Writing] 和解させる)          They reconciled after their argument.
+- `recoup` /rɪˈkuːp/              ([Neutral] 回復する、取り戻す)  He needs time to recoup his strength.
+- `recover` /rɪˈkʌvər/            ([Neutral] 回復する)            She recovered from the illness.
+- `recuperate` /rɪˈkuːpəreɪt/     ([Formal] 回復する、療養する)   He's recuperating at home.
+- `regenerate` /rɪˈdʒenəreɪt/     ([Medical] 再生する)            Some tissues can regenerate naturally.
+- `rehabilitate` /ˌriːəˈbɪlɪteɪt/ ([Formal] リハビリする)         They rehabilitated his injured knee.
+- `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
+- `reinforce` /ˌriːɪnˈfɔːrs/      ([Neutral] 強化する、裏付ける)  This reinforces our argument.
+- `reject` /rɪˈdʒekt/             ([Neutral] 拒絶する)            They rejected his proposal.
+- `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
+- `relieve` /rɪˈliːv/             ([Neutral] 和らげる、緩和する)  The medication relieved his pain.
+- `relinquish` /rɪˈlɪŋkwɪʃ/       ([Formal] 手放す)               She relinquished control of the company.
+- `remain available`              ([Neutral] 利用可能である)      I'll remain available if needed.
+- `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
+- `remedy` /ˈremədi/              ([Neutral] 治療する、改善する)  We need to remedy this situation.
+- `remove` /rɪˈmuːv/              ([Neutral] 取り除く)            Please remove your shoes.
+- `renounce` /rɪˈnaʊns/           ([Formal] 放棄する)             He renounced his claim to the throne.
+- `repeal` /rɪˈpiːl/              ([Formal] 廃止する)             Congress repealed the law.
+- `replace` /rɪˈpleɪs/            ([Neutral] 取り替える)          They replaced the old equipment.
+- `reprimand` /ˈreprɪmænd/        ([Formal] 叱責する)             The boss reprimanded him for being late.
+- `reproach` /rɪˈproʊtʃ/          ([Formal] 非難する、恥辱)       She reproached him for his selfishness.
+- `repulse` /rɪˈpʌls/             ([Formal] 嫌悪させる)           His behavior repulsed her.
+- `rescind` /rɪˈsɪnd/             ([Formal] 撤回する)             The company rescinded the offer.
+- `resettle` /riːˈsetəl/          ([Formal] 再定住する)           Refugees resettled in new countries.
+- `resign` /rɪˈzaɪn/              ([Neutral] 辞任する)            She resigned from her position.
+- `resist` /rɪˈzɪst/              ([Neutral] 抵抗する、我慢する)  I couldn't resist the temptation.
+- `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
+- `restrain oneself from`         ([Formal] 控える、我慢する)     He restrained himself from commenting.
+- `restrain` /rɪˈstreɪn/          ([Neutral] 拘束する)            The guards restrained the prisoner.
+- `restrict` /rɪˈstrɪkt/          ([Neutral] 制限する、制約する)  Rules restrict our options.
+- `retire` /rɪˈtaɪər/             ([Neutral] 退職する、引退する)  He retired after 30 years.
+- `retrieve` /rɪˈtriːv/           ([Formal] 取り戻す、回収する)   Please retrieve the files from the archive.
+- `reveal` /rɪˈviːl/              ([Neutral] 明らかにする)        The study revealed important findings.
+- `revile` /rɪˈvaɪl/              ([Writing] 罵倒する 悪口を言う) They reviled him as a traitor.
+- `revise` /rɪˈvaɪz/              ([Neutral] 改訂する)            Please revise your proposal.
+- `revive` /rɪˈvaɪv/              ([Medical] 蘇生する、復活する)  The paramedics revived him.
+- `revoke` /rɪˈvoʊk/              ([Formal] 取り消す)             His license was revoked.
+- `ridicule` /ˈrɪdɪkjuːl/         ([Neutral] あざ笑う、嘲笑する)  Don't ridicule his efforts.
+- `rile` /raɪl/                   ([Casual] 怒らせる)             Don't let him rile you up.
+- `ring` /rɪŋ/                    ([Neutral] 電話する、鳴らす)    I'll ring you tomorrow.
+- `rise` /raɪz/                   ([Neutral] 上がる、上昇する)    Temperatures are rising.
+- `risk` /rɪsk/                   ([Neutral] 危険に晒す)          Don't risk your life savings.
+- `roam` /roʊm/                   ([Neutral] 放浪する、歩き回る)  They roamed the streets.
+- `roll up` /roʊl ʌp/             ([Casual] 車で着く)             They rolled up in a fancy car.
+- `rouse` /raʊz/                  ([Neutral] 目覚めさせる)        The speech roused the audience.
+- `rub someone the wrong way`     ([Casual] 気に障る)             She just rubs me the wrong way.
+- `ruin` /ˈruːɪn/                 ([Neutral] 台無しにする)        The rain ruined our picnic.
+- `run off with` /rʌn ɔːf wɪð/    ([Casual] 持ち逃げする)         He ran off with the money.
+- `run` /rʌn/                     ([Neutral] 走る)                Run to catch the bus!
+- `satiate` /ˈseɪʃieɪt/           ([Writing] 十分に満たす)        The meal satiated his hunger.
+- `scale down` /skeɪl daʊn/      ([Neutral] 縮小する)            They scaled down the project.
+- `scan` /skæn/                   ([Neutral] ざっと見る 走査する) He scanned the headlines.
+- `scheme` /skiːm/                ([Neutral] 企む、陰謀を企てる)  They schemed to take over the company.
+- `scoff` /skɔːf/                 ([Neutral] あざ笑う、嘲笑する)  She scoffed at his suggestion.
+- `scold` /skoʊld/                ([Neutral] しかる、叱責する)    The mother scolded her naughty child.
+- `scorn` /skɔːrn/                ([Formal] 軽蔑する)             She scorned his feeble excuses.
+- `scramble` /ˈskræmbəl/          ([Neutral] よじ登る、慌てる)    Everyone scrambled to finish on time.
+- `scrap` /skræp/                 ([Casual] 廃棄する)             We scrapped the old plan.
+- `scuffle` /ˈskʌfəl/             ([Neutral] もみ合う)            They scuffled in the hallway.
+- `scurry` /ˈskɜːri/              ([Neutral] あわただしく動く)    Mice scurried across the floor.
+- `secure` /sɪˈkjʊr/              ([Neutral] 固定する、確保する)  Secure the rope to the post.
+- `secure` /sɪˈkjʊr/              ([Neutral] 確保する、保証する)  We secured funding for the project.
+- `send for` /sɛnd fɔːr/          ([Neutral] 呼びに行かせる)      We sent for the doctor immediately.
+- `serve` /sɜːrv/                 ([Neutral] 仕える、役に立つ)    This tool will serve our purpose.
+- `set back` /set bæk/            ([Neutral] 遅らせる)            The storm set back our plans.
+- `set off` /set ɔːf/             ([Neutral] 出発する、引き起こす) They set off early in the morning.
+- `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
+- `shame` /ʃeɪm/                  ([Neutral] 恥をかかせる)        She tried to shame him into apologizing.
+- `shatter` /ˈʃætər/              ([Neutral] 粉砕する)            The ball shattered the window.
+- `shed` /ʃɛd/                    ([Neutral] 脱ぐ)                He shed his coat at the door.
+- `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
+- `shout` /ʃaʊt/                  ([Neutral] 叫ぶ、大声で言う)    He shouted across the street.
+- `show up` /ʃoʊ ʌp/              ([Casual] 現れる、着く)         He finally showed up at 9 PM.
+- `show` /ʃoʊ/                    ([Casual] 示す、見せる)         The results show that it works.
+- `shrink` /ʃrɪŋk/                ([Neutral] 縮小する)            The market has shrunk considerably.
+- `shun` /ʃʌn/                    ([Formal] 避ける、敬遠する)     She shuns publicity.
+- `shun` /ʃʌn/                    ([Formal] 避ける、敬遠する)     The community shunned the family.
+- `shut up` /ʃʌt ʌp/              ([Casual] 閉じ込める)           He shut them up in the cellar.
+- `sicken` /ˈsɪkən/               ([Neutral] 気分を害させる)      The violence sickened everyone.
+- `sink` /sɪŋk/                   ([Neutral] 沈む)                The sun sank below the horizon.
+- `siphon off` /ˈsaɪfən ɔːf/      ([Neutral] 不正に抜き取る)      He siphoned off company funds.
+- `skim through` /skɪm θruː/      ([Neutral] ざっと見る、斜め読みする) I skimmed through the document.
+- `skip` /skɪp/                   ([Casual] 飛ばす、欠席する)     Let's skip the meeting today.
+- `slam` /slæm/                   ([Casual] こき下ろす、酷評する) Critics slammed the new movie.
+- `slight` /slaɪt/                ([Neutral] 軽視する、無視する)  She felt slighted by his comments.
+- `slip off` /slɪp ɒf/            ([Casual] さっと脱ぐ)           She slipped off her shoes.
+- `slip on` /slɪp ɒn/             ([Casual] さっと着る)           I'll just slip on a sweater.
+- `slip out` /slɪp aʊt/           ([Casual] こっそり出る)         I slipped out before anyone noticed.
+- `slouch` /slaʊtʃ/               ([Casual] 前かがみになる)       Don't slouch in your chair.
+- `slough` /slʌf/                 ([Writing] 脱ぎ捨てる)          The snake sloughed its skin.
+- `slow down` /sloʊ daʊn/         ([Neutral] 遅くする)            This will slow down progress.
+- `slug` /slʌg/                   ([Casual] 強く殴る)             The boxer slugged his opponent hard.
+- `slump` /slʌmp/                 ([Neutral] 前かがみになる)      He slumped in his chair.
+- `smart` /smɑːrt/                ([Writing] ヒリヒリする)        The cut smarts when water touches it.
+- `smash` /smæʃ/                  ([Neutral] 粉砕する)            He smashed the glass with a hammer.
+- `snarl` /snɑːrl/                ([Neutral] もつれ、うなる)      Traffic is in a snarl downtown.
+- `snatch` /snætʃ/                ([Casual] ひったくる)           Someone snatched her purse.
+- `sneer` /snɪr/                  ([Neutral] あざ笑う、冷笑する)  He sneered at their attempts.
+- `snub` /snʌb/                   ([Neutral] 冷たくあしらう)      She snubbed him at the party.
+- `snuggle` /ˈsnʌɡl/              ([Casual] 寄り添う)             Let's snuggle on the couch.
+- `soar` /sɔːr/                   ([Neutral] 急上昇する)          Prices soared last month.
+- `sock` /sɒk/                    ([Casual] 殴る)                 He socked him right in the jaw.
+- `soften` /ˈsɒfən/               ([Neutral] 和らぐ 柔らかくなる) Her expression softened slightly.
+- `solicitor` /səˈlɪsɪtər/        ([Formal] 事務弁護士、勧誘者)   The solicitor handled the legal matter.
+- `soothe` /suːð/                 ([Neutral] なだめる、和らげる)  The music soothed his nerves.
+- `spar` /spɑːr/                  ([Neutral] 口論する、練習試合)  They sparred over policy details.
+- `speed` /spiːd/                 ([Neutral] スピードを出す)      Don't speed on the highway.
+- `spend like water` /spend/      ([Casual] 湯水のように使う)     She spends money like water.
+- `spice up` /spaɪs ʌp/           ([Casual] 味付けす 刺激を加え) Let's spice up the dish.
+- `spike` /spaɪk/                 ([Neutral] 中止する、却下する)  They spiked the proposal.
+- `spilling` /ˈspɪlɪŋ/            ([Casual] こぼし、漏らし)       The spilling of secrets was inevitable.
+- `split the cost`                ([Neutral] 費用を分担する)      Let's split the cost of dinner.
+- `splurge` /splɜːdʒ/             ([Casual] 散財する)             I decided to splurge on a new car.
+- `sport` /spɔːt/                 ([Casual] 身に着けて見せる)     She was sporting a new haircut.
+- `spreading` /ˈspredɪŋ/          ([Neutral] 拡散、伝播)          The spreading of rumors is harmful.
+- `spring up` /sprɪŋ ʌp/          ([Neutral] 急に現れる)          New shops are springing up everywhere.
+- `spur on` /spɜːr ɑːn/           ([Neutral] 駆り立てる)          His anger spurred him on to revenge.
+- `spurn` /spɜːrn/                ([Writing] 拒絶する はねつける) She spurned his affection.
+- `squabble` /ˈskwɑːbəl/          ([Casual] つまらない口論)       Kids squabble over toys.
+- `squander` /ˈskwɒndə/           ([Writing] 浪費する)            Don't squander your money on useless things.
+- `square off` /skwer ɔːf/        ([Casual] 対峙する)             The boxers squared off.
+- `square up to`                  ([British] 立ち向かう)          He squared up to his opponent.
+- `stagnate` /ˈstæɡneɪt/          ([Neutral] 停滞する、よどむ)    The economy has stagnated.
+- `stake` /steɪk/                 ([Neutral] 賭ける、危険に晒す)  She staked everything on success.
+- `stand by`                      ([Neutral] 待機する)            Please stand by for instructions.
+- `stand in the way`              ([Neutral] 邪魔になる、阻む)    Nothing can stand in our way.
+- `stand up to` /stænd ʌp tuː/    ([Casual] 立ち向かう)           He stood up to the bully.
+- `stare at` /ster æt/            ([Neutral] じっと見る 見つめる) He stared at the painting.
+- `state` /steɪt/                 ([Neutral] 述べる、明言する)    Please state your name clearly.
+- `stave off` /steɪv ɔːf/         ([Neutral] 食い止める)          We need to stave off bankruptcy.
+- `stay away from`                ([Casual] 近寄らない、避ける)   Stay away from that area at night.
+- `steal` /stiːl/                 ([Neutral] 盗む)                They stole his wallet.
+- `steer clear of` /stɪr klɪr ʌv/ ([Casual] 避ける、近寄らない)   You should steer clear of that topic.
+- `step aside` /step əˈsaɪd/      ([Neutral] 身を引く、譲る)      He stepped aside for younger talent.
+- `step down` /step daʊn/         ([Neutral] 退く)                The CEO will step down next month.
+- `step in` /step ɪn/             ([Neutral] 中に入る、介入する)  Please step in to my office.
+- `step on someone's toes`        ([Casual] 他人の領域を侵す)     I don't want to step on your toes.
+- `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
+- `stimulate` /ˈstɪmjəleɪt/       ([Neutral] 刺激する 活性化する) Exercise stimulates blood flow.
+- `stir up` /stɜːr ʌp/            ([Casual] 煽り立てる)           He stirred up trouble at work.
+- `stockpile` /ˈstɑːkpaɪl/        ([Neutral] 備蓄する、蓄える)    They stockpiled food for winter.
+- `stoop` /stuːp/                 ([Neutral] かがむ)              Don't stoop to their level.
+- `stop by` /stɑːp baɪ/           ([Casual] 立ち寄る)             I'll stop by the store later.
+- `stop oneself from`             ([Neutral] 我慢する、控える)    I couldn't stop myself from crying.
+- `stop` /stɑːp/                  ([Neutral] 止める)              Stop interrupting me!
+- `stop` /stɑːp/                  ([Neutral] 止める、妨げる)      Stop interrupting me!
+- `stretch` /stretʃ/              ([Neutral] 伸ばす、拡張する)    We need to stretch the budget.
+- `strike` /straɪk/               ([Neutral] 打つ、攻撃する)      The army will strike at midnight.
+- `strip off` /strɪp ɒf/          ([Casual] すばやく脱ぐ)         Strip off those wet clothes.
+- `strip` /strɪp/                 ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
+- `stroke` /stroʊk/               ([Neutral] なでる、撫でる)      She stroked the cat gently.
+- `stymie` /ˈstaɪmi/              ([Casual] 妨害する、困らせる)   The problem stymied us.
+- `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
+- `submit to` /səbˈmɪt tuː/       ([Neutral] 服従する 受け入れる) He submitted to the medical examination.
+- `subside` /səbˈsaɪd/            ([Formal] 和らぐ)               The pain gradually subsided.
+- `substantiate` /səbˈstænʃieɪt/  ([Formal] 実証する)             He failed to substantiate his claims.
+- `substantiate` /səbˈstænʃieɪt/  ([Formal] 実証する、立証する)   Can you substantiate your claims?
+- `substitute` /ˈsʌbstɪtuːt/      ([Neutral] 代用する)            We can substitute honey for sugar.
+- `suggest` /səˈdʒest/            ([Neutral] 示唆する)            The evidence suggests otherwise.
+- `suit` /suːt/                   ([Neutral] 適する、合う)        This schedule suits me fine.
+- `summon` /ˈsʌmən/               ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
+- `supersede` /ˌsuːpərˈsiːd/      ([Formal] 取って代わる)         The new law will supersede the old one.
+- `supplant` /səˈplænt/           ([Formal] 取って代わる)         New technology supplanted the old.
+- `supplicant` /ˈsʌplɪkənt/       ([Writing] 嘆願者)              The supplicant knelt before the king.
+- `support` /səˈpɔːrt/            ([Neutral] 支える、支持する)    The pillars support the roof.
+- `support` /səˈpɔːrt/            ([Neutral] 裏付ける、支持する)  The data supports our theory.
+- `surface` /ˈsɜːrfɪs/            ([Neutral] 浮上する、現れる)    New evidence surfaced yesterday.
+- `surge` /sɜːrdʒ/                ([Neutral] 急増する、殺到する)  Demand surged during the pandemic.
+- `surrender` /səˈrendər/         ([Neutral] 降伏する、明け渡す)  He surrendered his position.
+- `suspend` /səˈspend/            ([Formal] 一時停止する)         Classes were suspended due to snow.
+- `swarm` /swɔːm/                 ([Neutral] 群がる)              Reporters swarmed around the star.
+- `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
+- `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to thousands.
+- `swindle` /ˈswɪndəl/            ([Neutral] 詐取する)            He swindled her out of her savings.
+- `swipe` /swaɪp/                 ([Casual] 盗む)                 He swiped the candy bar.
+- `take advantage of`             ([Neutral] 悪用する、つけ込む)  Don't take advantage of his kindness.
+- `take hostage`                  ([Neutral] 人質に取る)          The terrorists took hostages.
+- `take it on faith`              ([Neutral] 証拠なしで信じる)    You'll have to take it on faith.
+- `take on` /teɪk ɑːn/            ([Neutral] 挑む)                She took on the challenge.
+- `take 人 at one's word`         ([Neutral] 言葉通りに信じる)    I'll take her at her word.
+- `take` /teɪk/                   ([Neutral] 取る)                Someone took my bag.
+- `tamper with` /ˈtæmpər wɪð/     ([Neutral] 改ざんする)          Don't tamper with the evidence.
+- `tangle with`                   ([Neutral] ～と争う)            He tangled with the wrong people.
+- `taper` /ˈteɪpər/               ([Neutral] 徐々に減る)          We'll taper off the medication.
+- `tattletale` /ˈtætəlteɪl/       ([Casual] 告げ口する人)         Nobody likes a tattletale.
+- `tattling` /ˈtætəlɪŋ/           ([Casual] 告げ口)               Tattling will get you in trouble.
+- `taunt` /tɔːnt/                 ([Neutral] あざける、ののしる)  The bullies taunted the younger kids.
+- `tease` /tiːz/                  ([Neutral] からかう、いじる)    Stop teasing your little brother.
+- `terminate` /ˈtɜːrmɪneɪt/       ([Formal] 終了する、打ち切る)   The contract was terminated early.
+- `tether` /ˈteðər/               ([Neutral] 繋ぎ止める)          He tethered his horse to the tree.
+- `throw away` /θrəʊ əˈweɪ/       ([Casual] 捨てる)               Don't throw away good food.
+- `throw away` /θrəʊ əˈweɪ/       ([Neutral] 無駄にする)          Don't throw away your money on that.
+- `throw in the towel`            ([Casual] 諦める、降参する)     He threw in the towel after years of trying.
+- `throw off` /θrəʊ ɒf/           ([Casual] 急いで脱ぐ)           He threw off his jacket.
+- `throw on` /θrəʊ ɒn/            ([Casual] 急いで着る)           I threw on my jacket and left.
+- `throw out` /θrəʊ aʊt/          ([Casual] 捨てる)               Throw out the expired milk.
+- `thrust` /θrʌst/                ([Neutral] 押し付ける、突く)    The role was thrust upon him.
+- `thwack` /θwæk/                 ([Casual] 強打音)               The thwack of the bat hitting the ball.
+- `thwart` /θwɔːrt/               ([Formal] 阻止する、挫折させる) They thwarted our plans.
+- `thwart` /θwɔːrt/               ([Formal] 阻止する、挫折させる) They thwarted our plans.
+- `tick off` /tɪk ɔːf/            ([Casual] 怒らせる)             That really ticks me off.
+- `tidy up` /ˈtaɪdi ʌp/           ([Casual] 片付ける、整理する)   Let's tidy up the office.
+- `tidy` /ˈtaɪdi/                 ([Casual] 片付ける、整頓する)   Tidy up your desk before leaving.
+- `tie up` /taɪ ʌp/               ([Casual] 縛る)                 The robbers tied up the guards.
+- `tie up` /taɪ ʌp/               ([Neutral] 拘束する)            I'm tied up in a meeting.
+- `tie` /taɪ/                     ([Neutral] 結ぶ、縛る)          Please tie your shoes.
+- `tilt` /tɪlt/                   ([Neutral] 傾ける)              Tilt your head to the side.
+- `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
+- `topple` /ˈtɑːpəl/              ([Neutral] 倒す、打倒する)      The scandal toppled the administration.
+- `torment` /tɔːrˈment/           ([Neutral] 苦しめる)            Guilt tormented her for years.
+- `torture` /ˈtɔːrtʃər/           ([Neutral] 拷問する、苦しめる)  Guilt tortured him endlessly.
+- `toss out` /tɔːs aʊt/           ([Casual] 捨てる)               Toss out those old magazines.
+- `toss` /tɔːs/                   ([Casual] 投げる、ほうり投げる) He tossed the keys to me.
+- `toss` /tɔːs/                   ([Casual] 投げ捨てる)           Just toss it in the trash.
+- `trail along` /tɹeɪl əˈlɔŋ/    ([Casual] 後についていく)       The kids trailed along behind us.
+- `train` /treɪn/                 ([Neutral] 訓練する、教育する)  He trained staff on the new system.
+- `transfer` /trænsˈfɜːr/         ([Neutral] 移す、転勤する)      He transferred to the Tokyo office.
+- `transgress` /trænzˈɡres/       ([Formal] 違反する、逸脱する)   He transgressed the moral boundaries.
+- `transplant` /trænsˈplænt/      ([Neutral] 移植する、移住する)  They transplanted to California.
+- `trim down` /trɪm daʊn/        ([Neutral] 削減する)            We need to trim down costs.
+- `trivialize` /ˈtrɪviəlaɪz/      ([Neutral] 軽視する、矮小化)    Don't trivialize their concerns.
+- `trouble` /ˈtrʌbəl/             ([Neutral] 悩ませる)            What troubles you most?
+- `truncate` /ˈtrʌŋkeɪt/          ([Formal] 切り詰める)           The system truncates long file names.
+- `try on` /traɪ ɒn/              ([Neutral] 試着する)            I want to try on this shirt.
+- `tune in to` /tuːn ɪn tuː/      ([Casual] 耳を傾ける、注目する) Tune in to what she's saying.
+- `turn in` /tɜːrn ɪn/            ([Casual] 提出する、辞める)     He turned in his badge.
+- `turn the corner`               ([Neutral] 峠を越える)          The patient has turned the corner.
+- `turn up` /tɜːrn ʌp/            ([Casual] 現れる、着く)         She turned up late to the party.
+- `turn up` /tɜːrn ʌp/            ([Neutral] 現れる、見つかる)    My keys turned up in the car.
+- `tussle` /ˈtʌsəl/               ([Neutral] 取っ組み合う)        The boys tussled on the playground.
+- `twist` /twɪst/                 ([Neutral] ひねる、曲げる)      Twist the cap to open the bottle.
+- `twist` /twɪst/                 ([Neutral] 歪める、悪用する)    He twisted her words against her.
+- `unburdened` /ʌnˈbɜːrdənd/      ([Formal] 重荷から解放された)   He felt unburdened after confessing.
+- `unburdening` /ʌnˈbɜːrdənɪŋ/    ([Formal] 重荷を下ろすこと)     The unburdening brought relief.
+- `uncovering` /ʌnˈkʌvərɪŋ/       ([Neutral] 発見、暴露)          The uncovering of truth was important.
+- `underestimate`                 ([Neutral] 過小評価する)        Don't underestimate her abilities.
+- `undergo` /ˌʌndərˈɡoʊ/          ([Neutral] 経験する、受ける)    She will undergo surgery tomorrow.
+- `underwrite` /ˌʌndərˈraɪt/      ([Formal] 保証する 引受ける)    The bank will underwrite the loan.
+- `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
+- `unleashed` /ʌnˈliːʃt/          ([Neutral] 解き放たれた)        Her creativity was finally unleashed.
+- `unleashing` /ʌnˈliːʃɪŋ/        ([Neutral] 解き放つこと)        The unleashing of emotions was cathartic.
+- `unseat` /ʌnˈsiːt/              ([Formal] 議席を失わせる)      Voters unseated the incumbent.
+- `unveiling` /ʌnˈveɪlɪŋ/         ([Formal] 発表、除幕式)         The unveiling ceremony was grand.
+- `upbraid` /ʌpˈbreɪd/            ([Writing] 叱責する、非難する)  He upbraided them for their negligence.
+- `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
+- `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
+- `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
+- `uproot` /ʌpˈruːt/              ([Neutral] 根こそぎ移動する)    The family uprooted to start fresh.
+- `upset` /ʌpˈset/                ([Neutral] 動揺させる)          The news upset everyone.
+- `use up` /juːz ʌp/              ([Neutral] 使い切る)            We used up all the flour.
+- `utilize` /ˈjuːtɪlaɪz/          ([Formal] 利用する、活用する)   We'll utilize all available resources.
+- `vacate` /veɪˈkeɪt/             ([Formal] 明け渡す、退去する)   Please vacate the premises.
+- `validate` /ˈvælɪdeɪt/          ([Formal] 有効にする 確認する)  Please validate your ticket.
+- `vented` /ˈventɪd/              ([Neutral] 発散した)            She vented her anger at the meeting.
+- `venting` /ˈventɪŋ/             ([Neutral] 発散、愚痴)          He was venting about his boss.
+- `verify` /ˈverɪfaɪ/             ([Neutral] 確認する、証明する)  We need to verify your identity.
+- `veto` /ˈviːtoʊ/                ([Formal] 拒否権行使)           The governor vetoed the bill.
+- `vex` /veks/                    ([Writing] いらだたせる)        The problem vexed the scientists.
+- `victimize` /ˈvɪktɪmaɪz/        ([Neutral] 被害者にする)        Don't victimize the innocent.
+- `vilify` /ˈvɪlɪfaɪ/             ([Writing] 中傷する、けなす)    The press vilified the celebrity.
+- `vindicate` /ˈvɪndɪkeɪt/        ([Formal] 汚名を晴らす)         The investigation vindicated his claims.
+- `violate` /ˈvaɪəleɪt/           ([Formal] 侵害する、暴行する)    The crime violated his rights.
+- `violate` /ˈvaɪəleɪt/           ([Formal] 違反する、侵害する)   He violated the company rules.
+- `vouch for` /vaʊtʃ/             ([Neutral] ～を保証する)        I'll vouch for his character.
+- `waive` /weɪv/                  ([Formal] 放棄する、免除する)   She waived her claim to the property.
+- `walk away` /wɔːk əˈweɪ/        ([Casual] 立ち去る、辞める)     He walked away from the deal.
+- `walk down` /wɔːk daʊn/         ([Neutral] 歩いて下る)          Walk down the hill slowly.
+- `walk in` /wɔːk ɪn/             ([Neutral] 歩いて入る)          He walked in without knocking.
+- `walk off with` /wɔːk ɔːf wɪð/  ([Casual] 持ち去る)             Someone walked off with my umbrella.
+- `wallop` /ˈwɒləp/               ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
+- `wander` /ˈwɑːndər/             ([Neutral] さまよう、歩き回る)  We wandered around the city.
+- `wane` /weɪn/                   ([Neutral] 衰える)              Her enthusiasm waned rapidly.
+- `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
+- `watch over` /wɑːtʃ ˈoʊvər/     ([Neutral] 見守る、保護する)    I'll watch over the kids tonight.
+- `weaken` /ˈwiːkən/              ([Neutral] 弱くする)            The illness weakened him.
+- `wear` /weər/                   ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
+- `weather` /ˈweðər/              ([Neutral] 切り抜ける 乗り切る) The company weathered the crisis.
+- `whack` /wæk/                   ([Casual] 強く打つ)             She whacked the piñata with a stick.
+- `whistleblower`                 ([Neutral] 内部告発者)          The whistleblower exposed the scandal.
+- `whiz` /wɪz/                    ([Casual] ビュンと飛ぶ)         The bullet whizzed past my ear.
+- `widen` /ˈwaɪdən/               ([Neutral] 広げる、拡幅する)    They widened the road.
+- `wield` /wiːld/                 ([Neutral] 振るう、行使する)    She wields considerable influence.
+- `wind up` /waɪnd ʌp/            ([British] からかう)            Stop trying to wind me up!
+- `wish for` /wɪʃ fɔːr/           ([Neutral] 願う 望む)           I wish for world peace.
+- `withdraw` /wɪðˈdrɔː/           ([Neutral] 撤退する、引く)      They withdrew from the competition.
+- `withhold from` /wɪðˈhoʊld frʌm/([Formal] 控える、差し控える)   She withheld from making a judgment.
+- `wound` /wuːnd/                 ([Formal] 深く傷つける)         Her words wounded him deeply.
+- `wrangle` /ˈræŋɡəl/             ([Neutral] 口論する)            They wrangled for hours.
+- `wreck` /rɛk/                   ([Neutral] 破壊する、難破船)    The storm will wreck the ship.
+- `write off` /raɪt ɔːf/          ([Casual] 見限る、無視する)     Don't write off his potential.
+- `yearn for` /jɜːrn fɔːr/        ([Neutral] あこがれる 熱望する) He yearns for recognition.
+- `yell` /jɛl/                    ([Casual] 叫ぶ、怒鳴る)         The coach yelled at the players.
+- `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
+- `zip` /zɪp/                     ([Casual] 素早く動く)           He zipped through traffic.
+- `zoom` /zuːm/                   ([Casual] 急速に動く)           The car zoomed past us.
+- `I don't care for O`                  ([Casual] Oは好きじゃない) `I don't care for` spicy food.
+- `I'm heading out`                  ([Casual] 出かける)              I'm heading out for lunch.
+- `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
+- `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
+- `I'm leaving`                      ([Neutral] 出発する、行く)       I'm leaving in five minutes.
+- `I'm off`                          ([Casual] 出発する、行くよ)      I'm off to work now. See you later\!
+- `I'm out`                          ([Casual] 出る、行く)            I'm out. Catch you later\!
+- `I'm taking off`                   ([Casual] 出発する)              I'm taking off now. Talk later\!
+- `I'm terrible with O`                 ([Casual] Oがとても苦手だ) `I'm terrible with` directions.
+- `I've gotta go`                    ([Casual] もう行かなきゃ)        I've gotta go. The meeting starts soon.
+- `abhor` /əbˈhɔːr/                 ([Writing] 忌み嫌う)            I abhor violence in any form.
 - `abominate` /əˈbɑːmɪneɪt/       ([Formal] 嫌悪する)             I abominate dogma.
 - `abort` /əˈbɔːrt/               ([Formal] 中止する)             We had to abort the mission.
-- `accelerate` /ækˈseləreɪt/      ([Neutral] 加速する、促進する)  The car began to accelerate.
-- `appalling` /əˈpɔːlɪŋ/          ([Neutral] ひどい、ぞっとする)       The living conditions were appalling.
-- `besiege` /bɪˈsiːdʒ/              ([Writing] 包囲する)            The castle was besieged for weeks.
-- `characterize` /ˈkærəktəraɪz/     ([Formal] 特徴づける、描写する)   Kindness characterizes her approach.
-- `coarsen` /ˈkɔːrsən/            ([Neutral] 粗野にする)          Years of hardship coarsened him.
-- `defect` /dɪˈfekt/                ([Formal] 離反する、亡命する)   The spy defected to the enemy.
-- `defend` /dɪˈfend/              ([Neutral] 守る、擁護する)      They defended their territory.
-- `derive` /dɪˈraɪv/              ([Formal] 由来する、派生する)   The word derives from Latin.
-- `abhor` /əbˈhɔːr/                 ([Writing] 忌み嫌う)            I abhor violence in any form.
-- `dangle`                            ([Neutral] ぶら下がる・下げる、追い回す、見せびらかす)
-- `decimate`                            ([Neutral] 多くを殺す、かなり減らす)
-- `lag`                            ([Neutral] 遅れる、低下する)
-- `sink`                            ([Neutral] 沈む、徐々に下がる、沈める)
-- `wither`                            ([Neutral] しおれる、衰える、あせる、消えてなくなる)
-
-## SHOWING & REVEALING
-- `indicate` /ˈɪndɪkeɪt/            ([Neutral] 示す、指し示す)      The data indicates a positive trend.
-- `imply` /ɪmˈplaɪ/                 ([Neutral] 暗に示す、含意する)  What are you trying to imply?
-- `hint` /hɪnt/                     ([Neutral] ほのめかす、ヒント)  She hinted that she might quit.
-- `drop a hint` /drɑːp ə hɪnt/      ([Casual] ほのめかす)           She dropped a hint about her birthday.
-- `insinuate` /ɪnˈsɪnjueɪt/         ([Formal] 遠回しに言う)         What are you insinuating?
-- `signify` /ˈsɪɡnɪfaɪ/             ([Formal] 意味する、示す)       What does this symbol signify?
-- `intimate` /ˈɪntɪmeɪt/            ([Formal] それとなく知らせる)   He intimated his disapproval.
-- `denote` /dɪˈnoʊt/                ([Formal] 示す、意味する)       The red light denotes danger.
-- `connote` /kəˈnoʊt/               ([Writing] 含意する、暗示する)  The word connotes negative feelings.
-- `allude` /əˈluːd/                 ([Writing] 暗に言及する)        He alluded to past problems.
-- `show` /ʃoʊ/                      ([Neutral] 示す、見せる)        Show me what you mean.
-- `express` /ɪkˈspres/              ([Neutral] 表現する、述べる)    She expressed her feelings clearly.
-- `present` /prɪˈzent/              ([Neutral] 提示する、発表する)  She will present her findings.
-- `manifest` /ˈmænɪfest/            ([Formal] 明示する、現れる)     Her talent manifests in her art.
-- `represent` /ˌreprɪˈzent/         ([Neutral] 代表する、表す)      The flag represents our nation.
-- `display` /dɪˈspleɪ/              ([Neutral] 示す、陳列する)      The store displays its best products.
-  - `exhibit` /ɪɡˈzɪbɪt/            ([Formal] 展示する、示す)       The museum exhibits ancient artifacts.
-- `describe` /dɪˈskraɪb/            ([Neutral] 描写する、説明する)  Can you describe what happened?
-- `portray` /pɔːrˈtreɪ/             ([Neutral] 描写する、演じる)    The actor portrayed a villain.
-- `depict` /dɪˈpɪkt/                ([Neutral] 描く、描写する)      The painting depicts a rural scene.
-- `reveal` /rɪˈviːl/                ([Neutral] 明らかにする)        She revealed her true feelings.
-- `expose` /ɪkˈspoʊz/               ([Neutral] 暴露する、さらす)    The scandal exposed corruption.
-- `confess` /kənˈfes/               ([Neutral] 告白する、白状する)  He confessed his mistake.
-- `admit` /ədˈmɪt/                  ([Neutral] 認める、白状する)    I admit I was wrong.
-  - `admittedly` /ədˈmɪtɪdli/       ([Neutral] 確かに、認めるが)    Admittedly, it was a mistake.
-- `leak` /liːk/                     ([Neutral] 漏らす、漏れる)      Someone leaked the information.
-- `confide` /kənˈfaɪd/              ([Neutral] 打ち明ける 信頼して) She confided in her best friend.
-  - `confidant` /ˈkɑːnfɪdænt/       ([Neutral] 親友、信頼できる人)  He was her trusted confidant.
-  - `confidential`                  ([Formal] 機密の)               The information is confidential.
-- `uncover` /ʌnˈkʌvər/              ([Neutral] 暴く、発見する)      The investigation uncovered fraud.
-  - `uncovering` /ʌnˈkʌvərɪŋ/       ([Neutral] 発見、暴露)          The uncovering of truth was important.
-- `disclose` /dɪsˈkloʊz/            ([Formal] 開示する 明らかにする)The company disclosed its financial results.
-- `betray` /bɪˈtreɪ/                ([Neutral] 裏切る、漏らす)      He betrayed their trust.
-- `unveil` /ʌnˈveɪl/                ([Formal] 明らかにする 発表する)They unveiled the new product.
-  - `unveiling` /ʌnˈveɪlɪŋ/         ([Formal] 発表、除幕式)         The unveiling ceremony was grand.
-- `divulge` /daɪˈvʌldʒ/             ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
-  - `divulgence` /daɪˈvʌldʒəns/     ([Writing] 暴露、漏洩)          The divulgence of secrets was forbidden.
-- `let out` /let aʊt/               ([Casual] 漏らす、明かす)       Don't let out the secret.
-- `blow the whistle`                ([Casual] 内部告発する)         She blew the whistle on corruption.
-  - `whistleblower`                 ([Neutral] 内部告発者)          The whistleblower exposed the scandal.
-- `spill` /spɪl/                    ([Casual] こぼす、漏らす)       She spilled the beans about the surprise.
-  - `spilling` /ˈspɪlɪŋ/            ([Casual] こぼし、漏らし)       The spilling of secrets was inevitable.
-- `rat out` /ræt aʊt/               ([Casual] 密告する、ちくる)     He ratted out his accomplice.
-- `snitch` /snɪtʃ/                  ([Casual] 密告する、ちくる)     Don't snitch on your friends.
-- `blab` /blæb/                     ([Casual] ペラペラしゃべる)     She blabbed about the surprise party.
-  - `blabbing` /ˈblæbɪŋ/            ([Casual] おしゃべり)           His blabbing ruined the surprise.
-- `tattle` /ˈtætəl/                 ([Casual] 告げ口する)           Don't tattle on your sister.
-  - `tattling` /ˈtætəlɪŋ/           ([Casual] 告げ口)               Tattling will get you in trouble.
-  - `tattletale` /ˈtætəlteɪl/       ([Casual] 告げ口する人)         Nobody likes a tattletale.
-- `subject` /səbˈdʒekt/             ([Formal] 〜にさらす)           Don't subject me to your complaints.
-- `disprove` /dɪsˈpruːv/            ([Neutral] 反証する)            The evidence disproves his claim.
-- `refute` /rɪˈfjuːt/               ([Formal] 論破する、反駁する)   She refuted the allegations completely.
-- `contradict` /ˌkɑːntrəˈdɪkt/      ([Neutral] 矛盾する)            Don't contradict me in public.
-- `debunk` /dɪˈbʌŋk/                ([Neutral] 正体を暴く 論破する) Scientists debunked the conspiracy theory.
-- `rebut` /rɪˈbʌt/                  ([Formal] 反論する、反証する)   He rebutted the accusations firmly.
-- `invalidate` /ɪnˈvælɪdeɪt/        ([Formal] 無効にする、論破する) New evidence invalidated the theory.
-- `dispute` /dɪˈspjuːt/             ([Neutral] 異議を唱える)        They disputed the findings.
-- `contest` /kənˈtest/              ([Formal] 異議を申し立てる)     She contested the decision.
-- `challenge` /ˈtʃælɪndʒ/           ([Neutral] 異議を唱える)        He challenged their assumptions.
-- `deny` /dɪˈnaɪ/                   ([Neutral] 否定する)            She denied the accusations.
-- `negate` /nɪˈɡeɪt/                ([Formal] 否定する)             This negates your argument.
-- `falsify` /ˈfɔːlsɪfaɪ/            ([Neutral] 偽造する、反証する)  The data falsifies the hypothesis.
-- `judge` /dʒʌdʒ/                   ([Neutral] 判断する、審査する)  Don't judge me by my appearance.
-  - `evaluate` /ɪˈvæljueɪt/         ([Neutral] 評価する)            We need to evaluate the results.
-  - `assess` /əˈses/                ([Neutral] 評価する、査定する)  The damage was assessed at $5,000.
-  - `appraise` /əˈpreɪz/            ([Formal] 評価する、鑑定する)   The expert appraised the painting.
-  - `determine` /dɪˈtɜːrmɪn/        ([Neutral] 決定する、判断する)  Tests will determine the cause.
-  - `adjudicate` /əˈdʒuːdɪkeɪt/     ([Formal] 判決を下す、裁定する) The court adjudicated the dispute.
-- `spread` /spred/                  ([Neutral] 広める、広がる)      The news spread quickly.
-  - `spreading` /ˈspredɪŋ/          ([Neutral] 拡散、伝播)          The spreading of rumors is harmful.
-- `share` /ʃɛər/                    ([Neutral] 共有する 分かち合う) Let me share some news with you.
-- `announce` /əˈnaʊns/              ([Neutral] 発表する、公表する)  They announced the winner.
-- `disseminate` /dɪˈsemɪneɪt/       ([Writing] 普及する、広める)    They disseminated the information widely.
-  - `dissemination`                 ([Writing] 普及、配布)          The dissemination of research findings
-- `broadcast` /ˈbrɔːdkæst/          ([Neutral] 放送する、広める)    The station broadcasts 24 hours a day.
-- `circulate` /ˈsɜːrkjəleɪt/        ([Neutral] 流通する、広める)    Rumors circulated about the merger.
-  - `circulation` /ˌsɜːrkjəˈleɪʃən/ ([Neutral] 流通、発行部数)      The newspaper has wide circulation.
-- `distribute` /dɪˈstrɪbjuːt/       ([Neutral] 配布する、分配する)  They distributed flyers to everyone.
-- `propagate` /ˈprɑːpəɡeɪt/         ([Formal] 広める、伝播する)     They propagated their beliefs widely.
-  - `propagation` /ˌprɑːpəˈɡeɪʃən/  ([Formal] 伝播、普及)           The propagation of ideas takes time.
-- `publicize` /ˈpʌblɪsaɪz/          ([Neutral] 公表する、宣伝する)  They publicized the event heavily.
-  - `publicity` /pʌˈblɪsəti/        ([Neutral] 宣伝、知名度)        The publicity helped sales increase.
-- `promulgate` /ˈprɑːməlɡeɪt/       ([Writing] 公布する、広める)    The law was promulgated yesterday.
-  - `promulgation`                  ([Writing] 公布、発布)          The promulgation was official.
-- `proliferate` /prəˈlɪfəreɪt/      ([Formal] 急増する、拡散する)   Fake news proliferates online.
-  - `proliferation`                 ([Formal] 拡散、急増)           The proliferation of technology
-- `disperse` /dɪˈspɜːrs/            ([Neutral] 分散する、散布する)  The seeds dispersed in the wind.
-  - `dispersal` /dɪˈspɜːrsəl/       ([Formal] 分散、散布)           The dispersal pattern was studied.
-  - `dispersion` /dɪˈspɜːrʒən/      ([Writing] 分散、散乱)          Light dispersion creates rainbows.
-
-## PHYSICAL CONTACT
-- `tickle` /ˈtɪkəl/                 ([Neutral] くすぐる)            Stop tickling me!
-  - `stroke` /stroʊk/               ([Neutral] なでる、撫でる)      She stroked the cat gently.
-  - `caress` /kəˈres/               ([Neutral] 愛撫する、優しく触る) He caressed her cheek softly.
-  - `pat` /pæt/                     ([Neutral] 軽くたたく、ポンポンする) She patted him on the shoulder.
-  - `brush` /brʌʃ/                  ([Neutral] 軽く触れる、払う)    He brushed her hand with his fingers.
-  - `poke` /poʊk/                   ([Casual] 突く、つつく)         Don't poke me with your finger.
-- `affix`                            ([Neutral] はる、添える)
-- `bait`                            ([Neutral] えさをつける、おびき寄せる)
-- `bracket`                            ([Neutral] かっこで囲む、腕木をつける)
-- `bridle`                            ([Neutral] 馬にくつわを付ける)
-- `bruise`                            ([Neutral] 打ち傷をつける、あざをつける)
-- `daub`                            ([Neutral] 塗りつける、汚す)
-- `dip`                            ([Neutral] ちょっとつける、すくい上げる)
-- `disfigure`                            ([Neutral] 外観を損なう、傷をつける)
-- `frill`                            ([Neutral] ひだ飾りを付ける)
-- `gloss`                            ([Neutral] 光沢をつける)
-- `grind`                            ([Neutral] すりつぶす、激しくこすりつける、（刃物を）研ぐ)
-- `ignite`                            ([Neutral] 火をつける、火がつく、燃えたたせる)
-- `kindle`                            ([Neutral] 火をつける、火をおこす、燃え立たせる、燃える)
-- `luster`                            ([Neutral] 光沢をつける)
-- `nick`                            ([Neutral] 刻み目をつける)
-- `notch`                            ([Neutral] 刻み目をつける)
-- `pebble`                            ([Neutral] 石目をつける)
-- `pinch`                            ([Neutral] 締めつける、挟む)
-- `plume`                            ([Neutral] 羽毛をつける、羽毛を整える)
-- `ram`                            ([Neutral] 大きな力でぶつける)
-- `reed`                            ([Neutral] アシで飾る、（楽器などに）舌をつける)
-- `rouge`                            ([Neutral] 紅をつける)
-- `smear`                            ([Neutral] 塗りつける)
-- `snuff`                            ([Neutral] 鼻で吸う、かぎつける、消す)
-- `spurn`                            ([Neutral] はねつける、鼻であしらう)
-- `starch`                            ([Neutral] のりをつける)
-- `tag`                            ([Neutral] 正札をつける、レッテルをはる、捕まえる)
-- `thong`                            ([Neutral] 革ひもをつける)
-- `thump`                            ([Neutral] 激しくひっぱたく、たたきつける)
-- `tick`                            ([Neutral] 項目にしるしをつける)
-- `tint`                            ([Neutral] 薄い色合いをつける)
-- `trample`                            ([Neutral] 強く踏みつける、手荒く扱う)
-- `undermine`                            ([Neutral] （名声などを）ひそかに傷つける、下を掘る、徐々に衰えさせる)
-- `wig`                            ([Neutral] かつらを付ける)
-- `chip`                            ([Neutral] 切る、削る)
-- `detach`                            ([Neutral] 分離する、派遣する)
-- `disrupt`                            ([Neutral] 混乱させる、崩壊させる、分離する)
-- `jigsaw`                            ([Neutral] 糸のこで切る)
-- `segregate`                            ([Neutral] 分離する、別れる)
-- `snip`                            ([Neutral] チョキンと切る)
-- `wean`                            ([Neutral] 乳離れさせる、引き離す)
-- `clench`                            ([Neutral] （こぶし・手などを）堅く締める、しっかりつかむ)
-- `clutch`                            ([Neutral] しっかり握る、つかみかかる)
-- `eclipse`                            ([Neutral] 影を投げる)
-- `forestall`                            ([Neutral] 未然に防ぐ、先手を打つ、買い占める)
-- `grapple`                            ([Neutral] しっかりつかむ、かぎで引っ掛ける)
-- `heave`                            ([Neutral] 持ち上げる、投げる、動かす)
-- `hurl`                            ([Neutral] 強く投げる、飛びかかる)
-- `imprint`                            ([Neutral] 刻みこむ、押す)
-- `jostle`                            ([Neutral] 乱暴に押す、ひじで突く、押して動かす)
-- `loft`                            ([Neutral] 高く打つ、軌道に打ち上げる)
-- `nudge`                            ([Neutral] 軽く押す、ひじでそっと突く)
-- `obliterate`                            ([Neutral] 消し去る、消印を押す)
-- `paddle`                            ([Neutral] こぐ、へら棒で打つ)
-- `peg`                            ([Neutral] くぎを打つ)
-- `pelt`                            ([Neutral] 投げつける、強く打つ、質問や非難を浴びせる)
-- `scourge`                            ([Neutral] 苦しませる、むちで打つ)
-- `shove`                            ([Neutral] 押す、押し込む、押しのける、突く)
-- `sling`                            ([Neutral] 投げる)
-- `smite`                            ([Neutral] 打ち倒す、心を強く打つ)
-- `thrash`                            ([Neutral] 強く打つ、手足をばたばたさせる、打ち負かす)
-- `tide`                            ([Neutral] 潮のように流れる、流れに乗せて運ぶ)
-- `tow`                            ([Neutral] 中へ引く)
-- `tram`                            ([Neutral] 電車で運ぶ)
-- `trolley`                            ([Neutral] 電車で運ぶ)
-- `tug`                            ([Neutral] 強く引く)
-- `waft`                            ([Neutral] 空中を漂う、空中をふわりと運ぶ)
-
-## CARE & SUPPORT
-- `warn` /wɔːrn/                    ([Neutral] 警告する、注意する)  I warned him about the danger.
-- `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる、注意)  Remind me to call tomorrow.
-- `alert` /əˈlɜːrt/                 ([Neutral] 警戒させる 注意喚起) We alerted them to the problem.
-- `advise` /ədˈvaɪz/                ([Neutral] 忠告する、助言する)  I advise you to study harder.
-- `caution` /ˈkɔːʃən/               ([Neutral] 警告する、注意する)  The doctor cautioned against overwork.
-- `heads up` /hedz ʌp/              ([Casual] 注意して、気をつけて) Heads up! There's a step there.
-- `watch out` /wɑːtʃ aʊt/           ([Casual] 気をつけて)           Watch out for that car!
-  - `look out` /lʊk aʊt/            ([Casual] 気をつけて)           Look out! It's slippery.
-- `be careful` /biː ˈkerfəl/        ([Neutral] 気をつけて)          Be careful with that glass.
-- `admonish` /ədˈmɑːnɪʃ/            ([Formal] 諭す、勧告する)       She admonished him to be more careful.
-- `forewarn` /fɔːrˈwɔːrn/           ([Formal] 前もって警告する)     We forewarned them of delays.
-- `counsel` /ˈkaʊnsəl/              ([Formal] 助言する、相談する)   The lawyer counseled patience.
-- `look out for` /lʊk aʊt fɔːr/     ([Neutral] 面倒を見る)          Can you look out for my brother?
-  - `look after` /lʊk ˈæftər/       ([Neutral] 世話をする)          She looks after her parents.
-  - `watch over` /wɑːtʃ ˈoʊvər/     ([Neutral] 見守る、保護する)    I'll watch over the kids tonight.
-  - `keep an eye on` /kiːp ən aɪ ɑːn/ ([Neutral] 目を光らせる)      Keep an eye on the oven, please.
-  - `care for` /keər fɔːr/          ([Neutral] 世話をする)          He cares for his elderly mother.
-- `cradle`                            ([Neutral] 支える)
-- `crutch`                            ([Neutral] 支える)
-- `prop`                            ([Neutral] 支える、もたせかける)
-- `stake`                            ([Neutral] くいで支える、（金を･･･に）賭ける)
-- `be bound to` /baʊnd tuː/         ([Neutral] ～に違いない)        He's bound to notice eventually.
-  - `baby` /ˈbeɪbi/                  ([Casual] 甘やかす 過保護に扱) Stop babying him!
-  - `coddle` /ˈkɑːdl/               ([Neutral] 甘やかす、過保護)    Don't coddle your children.
-  - `pamper` /ˈpæmpər/              ([Neutral] 甘やかす 大事にする) She pampers her students too much.
-  - `mollycoddle` /ˈmɑːlikɑːdl/     ([Formal] 過保護に扱う)         Stop mollycoddling them!
-  - `approve` /əˈpruːv/             ([Neutral] 承認する)            The board approved the proposal.
-  - `acquiesce` /ˌækwiˈes/          ([Formal] 黙認する)             She acquiesced to their demands.
-  - `permit` /pərˈmɪt/              ([Formal] 許可する)             The law does not permit smoking here.
-  - `authorize` /ˈɔːθəraɪz/         ([Formal] 認可する)             Who authorized this purchase?
-  - `affirm` /əˈfɜrm/               ([Formal] 断言する)             He affirmed his commitment.
-  - `assert` /əˈsɜrt/               ([Neutral] 断言する、主張する)  He asserted his innocence.
-  - `declare` /dɪˈkler/             ([Neutral] 宣言する、公表する)  She declared her candidacy.
-  - `state` /steɪt/                 ([Neutral] 述べる、明言する)    Please state your name clearly.
-  - `proclaim` /prəˈkleɪm/          ([Formal] 宣言する、公表する)   The mayor proclaimed a holiday.
-  - `pronounce` /prəˈnaʊns/         ([Neutral] 宣告する、発音する)  The judge pronounced the verdict.
-  - `avow` /əˈvaʊ/                  ([Writing] 公言する、認める)    He avowed his love publicly.
-  - `aver` /əˈvɜr/                  ([Writing] 断言する、主張する)  She averred that she was innocent.
-  - `maintain` /meɪnˈteɪn/          ([Neutral] 主張する、維持する)  He maintains his innocence.
-- `follow` /ˈfɑːloʊ/                ([Neutral] 従う、続く)          Please follow the instructions.
-  - `obey` /oʊˈbeɪ/                 ([Neutral] 従う、命令に従う)    Employees must obey safety protocols.
-  - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
-  - `keep` /kiːp/                   ([Neutral] 守る、保つ)          Keep the rules in mind.
-  - `go along with`                 ([Casual] 同調する、従う)       I'll go along with the plan.
-  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
-  - `observe` /əbˈzɜːrv/            ([Formal] 遵守する、守る)       Please observe the dress code.
-  - `mind` /maɪnd/                  ([Casual] 気をつける、従う)     Mind the safety rules.
-  - `listen to` /ˈlɪsən tuː/        ([Neutral] 聞き従う)            Listen to your parents.
-  - `abide by` /əˈbaɪd baɪ/         ([Formal] 遵守する、従う)       We must abide by the contract terms.
-  - `adhere to` /ædˈhɪr tuː/        ([Formal] 忠実に従う、遵守する) Please adhere to the guidelines.
-  - `conform to` /kənˈfɔːrm tuː/    ([Formal] 適合する、従う)       The design must conform to standards.
-  - `play by the rules`             ([Neutral] ルールを守る)        If you want to succeed, play by the rules.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
-  - `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、守る)      Maintain professional standards.
-  - `keep to` /kiːp tuː/            ([Neutral] 守る、従う)          We need to keep to the schedule.
-  - `heed` /hiːd/                   ([Formal] 留意する、従う)       Please heed the warning signs.
-  - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
-  - `defer to` /dɪˈfɜːr tuː/        ([Formal] 敬意を表して従う)     I defer to your judgment.
-  - `submit to` /səbˈmɪt tuː/       ([Formal] 服従する、従う)       We must submit to the inspection.
-  - `accept` /əkˈsept/              ([Neutral] 受け入れる)          Accept the terms and conditions.
-  - `toe the line` /toʊ ðə laɪn/    ([Neutral] 規則を守る、従う)    New employees must toe the line.
-  - `fall in line` /fɔːl ɪn laɪn/   ([Neutral] 列に並ぶ、従う)      Everyone needs to fall in line with policy.
-  - `buckle under` /ˈbʌkəl ˈʌndər/  ([Casual] 屈服する、従う)       He eventually buckled under pressure.
-  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Formal] 強化する、補強する)   These examples reinforce my point.
-  - `align with` /əˈlaɪn wɪð/       ([Formal] 同調する、一致する)   Our goals align with yours.
-
-## BEHAVIOR & ACTIONS
-- `hustle` /ˈhʌsəl/                 ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
-  - `hurry` /ˈhɜːri/                ([Neutral] 急ぐ)                Please hurry or we'll be late.
-  - `dash` /dæʃ/                    ([Neutral] 急いで走る)          I need to dash to the store.
-  - `scramble` /ˈskræmbəl/          ([Neutral] よじ登る、慌てる)    Everyone scrambled to finish on time.
-  - `scurry` /ˈskɜːri/              ([Neutral] あわただしく動く)    Mice scurried across the floor.
-  - `bustle` /ˈbʌsəl/               ([Neutral] 忙しく動き回る)      She bustled around the kitchen.
-- `be on call`                      ([Neutral] 呼び出し対応可能)    I'm on call this weekend.
-  - `be on standby` /ˈstænbaɪ/      ([Neutral] 待機している)        Medical staff are on standby.
-  - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
-  - `stand by`                      ([Neutral] 待機する)            Please stand by for instructions.
-  - `be at the ready`               ([Formal] 準備完了している)     The team is at the ready.
-  - `remain available`              ([Neutral] 利用可能である)      I'll remain available if needed.
-- `be stuck with` /stʌk wɪð/        ([Casual] ～で身動き取れない)   I'm stuck with this decision.
-  - `be saddled with`               ([Neutral] 責任を負わされる)    I was saddled with all the debt.
-  - `be lumbered with`              ([Casual 英] 押し付けられる)    I got lumbered with cleaning up.
-  - `be landed with`                ([Casual 英] 負わされる)        I've been landed with the dog.
-  - `be burdened with`              ([Formal] 重荷を負う)           He's burdened with responsibilities.
-  - `be trapped with`               ([Neutral] 閉じ込められている)  I felt trapped with no way out.
-- `hold up` /hoʊld ʌp/              ([Casual] 遅らせる)             What's holding you up?
-  - `tie up` /taɪ ʌp/               ([Neutral] 拘束する)            I'm tied up in a meeting.
-  - `put off` /pʊt ɔːf/             ([Neutral] 延期する)            We put off the wedding.
-  - `set back` /set bæk/            ([Neutral] 遅らせる)            The storm set back our plans.
-  - `hold off` /hoʊld ɔːf/          ([Neutral] 延期する)            Let's hold off on the decision.
-- `be no fun` /bi noʊ fʌn/          ([Casual] 楽しくない)           This game is no fun.
-  - `be boring` /bi ˈboɹɪŋ/         ([Neutral] 退屈である)          This movie is boring.
-  - `be a drag` /bi ə dɹæɡ/         ([Casual] つまらない)           This work is such a drag.
-  - `be dull` /bi dʌl/              ([Neutral] 退屈である)          The lecture was dull.
-  - `be a killjoy` /bi ə ˈkɪldʒɔɪ/  ([Casual] 興を削ぐ)             Don't be a killjoy!
-  - `be a wet blanket`              ([Casual] 場をしらけさせる)     He's such a wet blanket.
----
-- `go behind ~'s back`              ([Neutral] 陰で行う)            He went behind his boss's back.
-- `make a note of` /meɪk ə noʊt/    ([Neutral] メモしておく)        Make a note of this address.
-- `satisfy` /ˈsætɪsfaɪ/             ([Neutral] 満足させる)          This answer will satisfy your question.
-  - `serve` /sɜːrv/                 ([Neutral] 仕える、役に立つ)    This tool will serve our purpose.
-  - `fit` /fɪt/                     ([Neutral] 適合する、合う)      This solution fits our needs perfectly.
-  - `suit` /suːt/                   ([Neutral] 適する、合う)        This schedule suits me fine.
-  - `please` /pliːz/                ([Neutral] 喜ばせる 満足させる) It's hard to please everyone.
-  - `fulfill` /fʊlˈfɪl/             ([Formal] 満たす、成就する)     We need to fulfill our obligations.
-  - `accommodate` /əˈkɑːmədeɪt/     ([Formal] 対応する、収容する)   We can accommodate your request.
-  - `content` /kənˈtent/            ([Neutral] 満足させる)          She contented herself with the result.
-  - `gratify` /ˈɡrætɪfaɪ/           ([Formal] 満足させる、喜ばせる) The results gratified the team.
-  - `appease` /əˈpiːz/              ([Formal] なだめる、満足させる) This offer should appease them.
-  - `quench` /kwentʃ/               ([Neutral] 満たす、鎮める)      Water quenched his thirst.
-  - `satiate` /ˈseɪʃieɪt/           ([Writing] 十分に満たす)        The meal satiated his hunger.
-  - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 従う、応じる)         We comply with all regulations.
-  - `cater to` /ˈkeɪtər tuː/        ([Neutral] 迎合する、対応する)  We cater to all dietary needs.
-  - `indulge` /ɪnˈdʌldʒ/            ([Neutral] 甘やかす 満足させる) Don't indulge his bad behavior.
-- `calm` /kɑːm/                     ([Neutral] 落ち着かせる)        Try to calm down before speaking.
-  - `ease` /iːz/                    ([Neutral] 和らげる、楽にする)  The medicine will ease the pain.
-  - `soothe` /suːð/                 ([Neutral] なだめる、和らげる)  The music soothed his nerves.
-  - `reconcile` /ˈrekənsaɪl/        ([Writing] 和解させる)          They reconciled after their argument.
-  - `pacify` /ˈpæsɪfaɪ/             ([Neutral] 鎮める、平定する)    The mother pacified her crying baby.
-  - `placate` /pləˈkeɪt/            ([Formal] なだめる、懐柔する)   She tried to placate the angry customer.
-  - `alleviate` /əˈliːvieɪt/        ([Formal] 緩和する、軽減する)   This will alleviate the symptoms.
-  - `allay` /əˈleɪ/                 ([Writing] 和らげる、静める)    The medicine helped allay his pain.
-  - `assuage` /əˈsweɪdʒ/            ([Writing] 和らげる、軽減する)  Nothing could assuage his guilt.
-  - `mollify` /ˈmɒlɪfaɪ/            ([Writing] 和らげる、なだめる)  His apology mollified her anger.
-  - `conciliate` /kənˈsɪlieɪt/      ([Writing] 懐柔する、調停する)  He tried to conciliate the warring factions.
-- `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
-  - `stop` /stɑːp/                  ([Neutral] 止める、妨げる)      Stop interrupting me!
-  - `prevent` /prɪˈvent/            ([Neutral] 防ぐ、妨げる)        We need to prevent accidents.
-  - `get in the way`                ([Neutral] 邪魔をする)          Don't let fear get in the way.
-  - `be in the way`                 ([Neutral] 邪魔になる)          Your bag is in the way.
-  - `stand in the way`              ([Neutral] 邪魔になる、阻む)    Nothing can stand in our way.
-  - `interfere` /ˌɪntərˈfɪr/        ([Neutral] 干渉する、邪魔する)  Don't interfere with my work.
-  - `interrupt` /ˌɪntəˈrʌpt/        ([Neutral] 中断する、遮る)      Please don't interrupt me.
-  - `disrupt` /dɪsˈrʌpt/            ([Neutral] 混乱させる、妨害)    The noise disrupted the meeting.
-  - `obstruct` /əbˈstrʌkt/          ([Formal] 妨害する、塞ぐ)       Don't obstruct the exit.
-  - `hinder` /ˈhɪndər/              ([Neutral] 妨げる、邪魔する)    Bad weather hindered our progress.
-  - `hamper` /ˈhæmpər/              ([Neutral] 妨げる、邪魔する)    Rain hampered the rescue efforts.
-  - `impede` /ɪmˈpiːd/              ([Formal] 妨げる、遅らせる)     Snow impeded traffic.
-  - `restrict` /rɪˈstrɪkt/          ([Neutral] 制限する、制約する)  Rules restrict our options.
-  - `limit` /ˈlɪmɪt/                ([Neutral] 制限する)            Time limits our choices.
-  - `inhibit` /ɪnˈhɪbɪt/            ([Formal] 抑制する、妨げる)     Fear inhibits learning.
-  - `thwart` /θwɔːrt/               ([Formal] 阻止する、挫折させる) They thwarted our plans.
-  - `foil` /fɔɪl/                   ([Neutral] 挫折させる、阻止)    Police foiled the robbery.
-  - `frustrate` /ˈfrʌstreɪt/        ([Neutral] 挫折させる 苛立たせ) Technical issues frustrated our efforts.
-  - `stymie` /ˈstaɪmi/              ([Casual] 妨害する、困らせる)   The problem stymied us.
-  - `bar` /bɑːr/                    ([Neutral] 締め出す、妨げる)    They barred him from entering.
-  - `prohibit` /prəˈhɪbɪt/          ([Formal] 禁止する)             The law prohibits smoking here.
-  - `forbid` /fərˈbɪd/              ([Neutral] 禁じる)              I forbid you to go.
-  - `ban` /bæn/                     ([Neutral] 禁止する)            They banned plastic bags.
-  - `proscribe` /pɹəˈskɹaɪb/        ([Formal] 禁止する、排斥する)   The law proscribes intoxicated driving.
-  - `outlaw` /ˈaʊt.lɔ/              ([Neutral] 禁止する、違法化)    They outlawed zombie knives.
-  - `interdict` /ɪntɚˈdɪkt/         ([Formal] 禁じる、阻止する)     I have ordered to interdict any communication.
-  - `deter` /dɪˈtɜːr/               ([Neutral] 思いとどまらせる)    High prices deter customers.
-  - `discourage` /dɪsˈkɜːrɪdʒ/      ([Neutral] 思いとどまらせる)    Don't discourage their efforts.
-- `hope for` /hoʊp fɔːr/            ([Neutral] 期待する 望む)       We hope for good weather tomorrow.
-  - `wish for` /wɪʃ fɔːr/           ([Neutral] 願う 望む)           I wish for world peace.
-  - `crave` /kreɪv/                 ([Neutral] 渇望する 欲する)     I crave chocolate sometimes.
-  - `long for` /lɔːŋ fɔːr/          ([Neutral] 恋しがる 切望する)   She longs for her homeland.
-  - `yearn for` /jɜːrn fɔːr/        ([Neutral] あこがれる 熱望する) He yearns for recognition.
-  - `hunger for` /ˈhʌŋɡər fɔːr/     ([Neutral] 渇望する)            They hunger for knowledge.
-  - `dream of` /driːm ʌv/           ([Neutral] 夢見る、憧れる)      She dreams of becoming famous.
-- `wait for` /weɪt fɔːr/            ([Neutral] 待つ)                I'm waiting for the bus.
-  - `await` /əˈweɪt/                ([Formal] 待つ、期待する)       We await your response.
-  - `expect` /ɪkˈspekt/             ([Neutral] 期待する、予想する)  I expect him to arrive soon.
-  - `anticipate` /ænˈtɪsɪpeɪt/      ([Neutral] 予期する 楽しみする) We anticipate good results.
-  - `look forward to`               ([Neutral] 楽しみにする)        I look forward to seeing you.
-- `smack` /smæk/                    ([Casual] 叩く)                 She smacked him across the face.
-  - `rap` /ræp/                     ([Neutral] 叩く、ノックする)    He rapped on the door loudly.
-  - `whack` /wæk/                   ([Casual] 強く打つ)             She whacked the piñata with a stick.
-  - `sock` /sɒk/                    ([Casual] 殴る)                 He socked him right in the jaw.
-  - `slug` /slʌg/                   ([Casual] 強く殴る)             The boxer slugged his opponent hard.
-  - `clout` /klaʊt/                 ([Casual] 殴る)                 Don't make me clout you!
-  - `wallop` /ˈwɒləp/               ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
-  - `thwack` /θwæk/                 ([Casual] 強打音)               The thwack of the bat hitting the ball.
-  - `clunk` /klʌŋk/                  ([Neutral] ゴツンと音を立てる)  The old car clunked down the road.
-- `exercise` /ˈeksərsaɪz/           ([Neutral] 行使する、発動する)  They exercised their voting rights.
-  - `wield` /wiːld/                 ([Neutral] 振るう、行使する)    She wields considerable influence.
-  - `exert` /ɪɡˈzɜːrt/              ([Neutral] 及ぼす、行使する)    He exerted his authority to resolve the dispute.
-  - `assert` /əˈsɜːrt/              ([Neutral] 主張する、行使する)  She asserted her authority over the team.
-  - `invoke` /ɪnˈvoʊk/              ([Formal] 呼び出す、発動する)   He invoked his right to remain silent.
-  - `enforce` /ɪnˈfɔːrs/            ([Neutral] 強制する、施行する)  The police enforce the law.
-  - `execute` /ˈeksɪkjuːt/          ([Formal] 実行する、執行する)   The court will execute the warrant.
-  - `implement` /ˈɪmplɪment/        ([Formal] 実施する、実装する)   The government will implement new policies.
-  - `apply` /əˈplaɪ/                ([Neutral] 適用する、申請する)  We'll apply the new regulations.
-  - `activate` /ˈæktɪveɪt/          ([Neutral] 活性化する 発動する) They activated the emergency protocol.
-  - `employ` /ɪmˈplɔɪ/              ([Formal] 使用する、行使する)   They employed legal measures.
-  - `utilize` /ˈjuːtɪlaɪz/          ([Formal] 利用する、活用する)   We'll utilize all available resources.
-  - `bring to bear` /brɪŋ tuː beər/ ([Neutral] 及ぼす、行使する)    They brought pressure to bear on the decision.
-- `take one's word for it`          ([Neutral] 真に受ける)          I'll take your word for it.
-  - `take it on faith`              ([Neutral] 証拠なしで信じる)    You'll have to take it on faith.
-  - `take 人 at one's word`         ([Neutral] 言葉通りに信じる)    I'll take her at her word.
-  - `buy it` /baɪ ɪt/               ([Casual] 信じる、受け入れる)   I don't buy it at all.
-  - `no questions asked`            ([Neutral] 無条件で受け入れる)  We'll accept it, no questions asked.
-- `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.
-  - `condense` /kənˈdens/           ([Neutral] 凝縮する)            Condense your report to one page.
-  - `abbreviate` /əˈbriːvieɪt/      ([Formal] 短縮する)             Please abbreviate the company name.
-  - `curtail` /kɜːrˈteɪl/           ([Formal] 削減する)             We had to curtail our expenses.
-  - `truncate` /ˈtrʌŋkeɪt/          ([Formal] 切り詰める)           The system truncates long file names.
-  - `abridge` /əˈbrɪdʒ/             ([Formal] 短縮する)             They abridged the novel for young readers.
-- `grant` /ɡrɑːnt/                  ([Formal] 認可する、付与する)   The committee granted my request.
-  - `allow` /əˈlaʊ/                 ([Neutral] 許可する)            My parents allowed me to go to the party.
-  - `permit` /pəˈmɪt/               ([Formal] 許可する)             Smoking is not permitted here.
-  - `approve` /əˈpruːv/             ([Neutral] 承認する、賛成)      The committee approved the new policy.
-  - `disapprove` /ˌdɪsəˈpruːv/      ([Formal] 不承認する)           I disapprove of your decision.
-  - `authorize` /ˈɔːθəraɪz/         ([Formal] 権限を与える)         Only authorized personnel can enter this area.
-  - `override` /ˌoʊvərˈraɪd/        ([Formal] 無効にする)           The president can override the veto.
-  - `supersede` /ˌsuːpərˈsiːd/      ([Formal] 取って代わる)         The new law will supersede the old one.
-  - `weather` /ˈweðər/              ([Neutral] 切り抜ける 乗り切る) The company weathered the crisis.
-  - `overrule` /ˌoʊvərˈruːl/        ([Formal] 却下する)             The judge overruled the objection.
-  - `nullify` /ˈnʌlɪˌfaɪ/           ([Formal] 無効化する)           The court nullified the contract.
-  - `veto` /ˈviːtoʊ/                ([Formal] 拒否権行使)           The governor vetoed the bill.
-  - `annul` /əˈnʌl/                 ([Formal] 無効にする)           They decided to annul the marriage.
-  - `revoke` /rɪˈvoʊk/              ([Formal] 取り消す)             His license was revoked.
-  - `repeal` /rɪˈpiːl/              ([Formal] 廃止する)             Congress repealed the law.
-  - `rescind` /rɪˈsɪnd/             ([Formal] 撤回する)             The company rescinded the offer.
-  - `invalidate` /ɪnˈvælɪˌdeɪt/     ([Formal] 無効にする)           This will invalidate your warranty.
-- `fling` /flɪŋ/                    ([Casual] 投げる、放る)         He flung the ball across the field.
-  - `hurl` /hɜːrl/                  ([Neutral] 投げる、放る)        She hurled the stone into the river.
-  - `toss` /tɔːs/                   ([Casual] 投げる、ほうり投げる) He tossed the keys to me.
-  - `cast` /kæst/                   ([Formal] 投げる、投じる)       He cast his line into the water.
-- `refrain from` /rɪˈfreɪn frʌm/    ([Formal] 控える、慎む)         Please refrain from smoking here.
-  - `abstain from` /əbˈsteɪn frʌm/  ([Formal] 控える、禁欲する)     He abstains from alcohol.
-  - `hold back from`                ([Neutral] 控える、我慢する)    She held back from commenting.
-  - `keep from` /kiːp frʌm/         ([Neutral] 我慢する、控える)    I couldn't keep from laughing.
-  - `stop oneself from`             ([Neutral] 我慢する、控える)    I couldn't stop myself from crying.
-  - `prevent oneself from`          ([Formal] 控える、我慢する)     She prevented herself from interrupting.
-  - `restrain oneself from`         ([Formal] 控える、我慢する)     He restrained himself from commenting.
-  - `withhold from` /wɪðˈhoʊld frʌm/([Formal] 控える、差し控える)   She withheld from making a judgment.
-  - `can't help` /kænt help/        ([Neutral] 我慢できない)        I can't help feeling sad.
-  - `resist` /rɪˈzɪst/              ([Neutral] 抵抗する、我慢する)  I couldn't resist the temptation.
-  - `desist from` /dɪˈzɪst frʌm/    ([Formal] やめる、控える)       He was ordered to desist from such activities.
-- `avoid` /əˈvɔɪd/                  ([Neutral] 避ける)              Try to avoid making mistakes.
-  - `stay away from`                ([Casual] 近寄らない、避ける)   Stay away from that area at night.
-  - `keep away from`                ([Neutral] 近寄らない、避ける)  Keep away from the edge.
-  - `steer clear of` /stɪr klɪr ʌv/ ([Casual] 避ける、近寄らない)   You should steer clear of that topic.
-  - `give a wide berth to`          ([Formal] 避ける、近寄らない)   I give that restaurant a wide berth.
-  - `shun` /ʃʌn/                    ([Formal] 避ける、敬遠する)     She shuns publicity.
-- `listen to` /ˈlɪsən tuː/          ([Neutral] 聴く、耳を傾ける)    Listen to the music.
-  - `hear` /hɪr/                    ([Neutral] 聞く、聴く)          Did you hear that sound?
-  - `pay attention to`              ([Neutral] 注意を払う 注目する) Pay attention to the details.
-  - `heed` /hiːd/                   ([Formal] 耳を傾ける、注意する) Heed my warning carefully.
-  - `tune in to` /tuːn ɪn tuː/      ([Casual] 耳を傾ける、注目する) Tune in to what she's saying.
-  - `eavesdrop on` /ˈiːvzdrɑːp ɑːn/ ([Neutral] 盗み聞きする)        He was eavesdropping on their conversation.
-- `glance at` /ɡlæns æt/            ([Neutral] ちらっと見る)        She glanced at her watch.
-  - `peek at` /piːk æt/             ([Casual] のぞき見る ちらっと見る) He peeked at the answer.
-  - `glimpse at` /ɡlɪmps æt/        ([Neutral] ちらっと見る)        I glimpsed at the photo.
-  - `glance over` /ɡlæns ˈoʊvər/    ([Neutral] ざっと見る)          She glanced over the report.
-  - `skim through` /skɪm θruː/      ([Neutral] ざっと見る、斜め読みする) I skimmed through the document.
-  - `scan` /skæn/                   ([Neutral] ざっと見る 走査する) He scanned the headlines.
-  - `stare at` /ster æt/            ([Neutral] じっと見る 見つめる) He stared at the painting.
-  - `gaze at` /ɡeɪz æt/             ([Neutral] 見つめる、凝視する)  She gazed at the stars.
-  - `gawk at` /ɡɔːk æt/             ([Casual] まじまじと見る)       Don't gawk at strangers.
-  - `peer at` /pɪr æt/              ([Neutral] じっと見る のぞき込む) He peered at the document.
-  - `fix one's eyes on`             ([Neutral] 目を据える 注視する) She fixed her eyes on the target.
-  - `eye` /aɪ/                      ([Neutral] じろじろ見る)        He eyed the stranger suspiciously.
-- `gross out` /ɡroʊs aʊt/           ([Casual] 気持ち悪がらせる)     That smell really grossed me out.
-  - `nauseate` /ˈnɔːzieɪt/          ([Formal] 吐き気を催させる)     The smell nauseated me.
-- `turn off` /tɜːrn ɔːf/            ([Casual] 嫌気がさす)           His attitude really turned me off.
-  - `disgust` /dɪsˈɡʌst/            ([Neutral] 嫌悪感を抱かせる)    The sight disgusted me.
-  - `sicken` /ˈsɪkən/               ([Neutral] 気分を害させる)      The violence sickened everyone.
-  - `repulse` /rɪˈpʌls/             ([Formal] 嫌悪させる)           His behavior repulsed her.
-- `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.
-  - `concern` /kənˈsɜːrn/           ([Neutral] 心配させる)          Rising prices concern everyone.
-  - `disturb` /dɪˈstɜːrb/           ([Neutral] 動揺させる)          Don't disturb him while working.
-  - `upset` /ʌpˈset/                ([Neutral] 動揺させる)          The news upset everyone.
-  - `haunt` /hɔːnt/                 ([Neutral] つきまとう)          The memory haunts me still.
-- `distress` /dɪˈstres/             ([Neutral] 苦痛を与える)        The news distressed the family.
-  - `plague` /pleɪɡ/                ([Neutral] 苦しめる)            Doubts plagued him all night.
-  - `torment` /tɔːrˈment/           ([Neutral] 苦しめる)            Guilt tormented her for years.
-  - `torture` /ˈtɔːrtʃər/           ([Neutral] 拷問する、苦しめる)  Guilt tortured him endlessly.
-  - `afflict` /əˈflɪkt/             ([Formal] 苦しめる)             Pain afflicted his entire body.
-  - `be eating me alive`            ([Casual] 蝕んでいる)           Keeping secrets was eating me alive.
-- `bother` /ˈbɑːðər/                ([Neutral] 邪魔する、悩ます)    Don't bother him while he's working.
-  - `hassle` /ˈhæsəl/               ([Casual] 困らせる、悩ます)     Don't hassle me about it.
-  - `pester` /ˈpestər/              ([Neutral] しつこく悩ます)      The kids pestered their parents for toys.
-  - `trouble` /ˈtrʌbəl/             ([Neutral] 悩ませる)            What troubles you most?
-  - `nag` /næɡ/                     ([Casual] しつこく悩ませる)     Self-doubt nagged at her constantly.
-  - `agonize` /ˈæɡənaɪz/            ([Neutral] 苦悩させる)          The decision agonized him for days.
-  - `bedevil` /bɪˈdevəl/            ([Formal] 悩ます)               Technical issues bedeviled the launch.
-  - `beleaguer` /bɪˈliːɡər/         ([Formal] 困らせる)             The team was beleaguered by injuries.
-  - `persist` /pərˈsɪst/            ([Neutral] しつこく悩ませる)    The problem persists despite efforts.
-- `embarrass` /ɪmˈbærəs/            ([Neutral] 恥をかかせる)        Don't embarrass me in public.
-  - `shame` /ʃeɪm/                  ([Neutral] 恥をかかせる)        She tried to shame him into apologizing.
-  - `humiliate` /hjuˈmɪlɪeɪt/       ([Formal] 屈辱する)             She humiliated him in front of everyone.
-- `dismiss` /dɪsˈmɪs/               ([Formal] 解雇する、却下する)   The company dismissed him for misconduct.
-- `hurt` /hɜːrt/                    ([Neutral] 傷つける)            You hurt my feelings.
-  - `wound` /wuːnd/                 ([Formal] 深く傷つける)         Her words wounded him deeply.
-- `insult` /ɪnˈsʌlt/                ([Neutral] 侮辱する)            Don't insult his intelligence.
-  - `dishonor` /dɪsˈɑnər/           ([Formal] 名誉を傷つける)       The scandal dishonored his reputation.
-- `prove` /pruv/                    ([Neutral] 証明する)            She proved her innocence.
-- `wager` /ˈweɪdʒər/                ([Neutral] 賭ける)              I'll wager he's already gone.
-  - `bet` /bet/                     ([Neutral] 賭ける)              I bet $50 on the game.
-  - `gamble` /ˈɡæmbəl/              ([Neutral] 賭ける、賭博をする)  He gambled all his money away.
-  - `stake` /steɪk/                 ([Neutral] 賭ける、危険に晒す)  She staked everything on success.
-  - `risk` /rɪsk/                   ([Neutral] 危険に晒す)          Don't risk your life savings.
-  - `punt` /pʌnt/                   ([British Casual] 賭ける)       I'll punt a fiver on that horse.
-  - `show` /ʃoʊ/                    ([Casual] 示す、見せる)         The results show that it works.
-  - `support` /səˈpɔːrt/            ([Neutral] 裏付ける、支持する)  The data supports our theory.
-  - `back up` /bæk ʌp/              ([Casual] 裏付ける、支持する)   Can you back up your statement?
-  - `demonstrate` /ˈdemənstreɪt/    ([Formal] 証明する、示す)       The results demonstrate our success.
-  - `indicate` /ˈɪndɪkeɪt/          ([Neutral] 示す、表す)          The signs indicate success.
-  - `suggest` /səˈdʒest/            ([Neutral] 示唆する)            The evidence suggests otherwise.
-  - `confirm` /kənˈfɜrm/            ([Neutral] 確証する)            The results confirm our hypothesis.
-  - `establish` /ɪˈstæblɪʃ/         ([Formal] 確立する、証明する)   We need to establish the facts.
-  - `reveal` /rɪˈviːl/              ([Neutral] 明らかにする)        The study revealed important findings.
-  - `bear out` /beər aʊt/           ([Neutral] 裏付ける、証明する)  The facts bear out her story.
-  - `point to` /pɔɪnt tuː/          ([Casual] 示す、指摘する)       All evidence points to success.
-  - `substantiate` /səbˈstænʃieɪt/  ([Formal] 実証する)             He failed to substantiate his claims.
-  - `corroborate` /kəˈrɑbəreɪt/     ([Writing] 裏付ける)            The evidence was corroborated by witnesses.
-  - `authenticate` /ɔˈθɛntɪkeɪt/    ([Formal] 認証する)             The museum authenticated the painting.
-  - `certify` /ˈsɜrtɪfaɪ/           ([Formal] 証明する)             The doctor certified her fitness.
-  - `reinforce` /ˌriːɪnˈfɔːrs/      ([Neutral] 強化する、裏付ける)  This reinforces our argument.
-  - `uphold` /ʌpˈhoʊld/             ([Neutral] 支持する、証明する)  The court upheld the verdict.
-  - `document` /ˈdɑːkjəmənt/        ([Neutral] 記録する、証明する)  Please document your findings.
-  - `attest` /əˈtɛst/               ([Formal] 証明する)             I can attest to her honesty.
-- `spend` /spend/                   ([Neutral] 使う、費やす)        I spend too much on clothes.
-  - `pay for` /peɪ fɔː/             ([Neutral] 支払う)              I'll pay for dinner tonight.
-  - `afford` /əˈfɔːd/               ([Neutral] 余裕がある)          Can you afford a new car?
-  - `budget` /ˈbʌdʒɪt/              ([Neutral] 予算を立てる)        I budget $200 for groceries monthly.
-  - `invest` /ɪnˈvest/              ([Neutral] 投資する)            She invested in the stock market.
-  - `fund` /fʌnd/                   ([Neutral] 資金を出す)          The government funded the project.
-  - `splurge` /splɜːdʒ/             ([Casual] 散財する)             I decided to splurge on a new car.
-  - `contribute` /kənˈtrɪbjuːt/     ([Formal] 寄付する)             They contribute to charity regularly.
-  - `chip in`                       ([Casual] お金を出し合う)       Everyone chipped in for the gift.
-  - `pitch in`                      ([Casual] お金を出し合う)       We all pitched in for lunch.
-  - `kick in`                       ([Casual] お金を出す)           I'll kick in $20 for the gift.
-  - `pool money`                    ([Neutral] お金をまとめる)      Let's pool our money together.
-  - `split the cost`                ([Neutral] 費用を分担する)      Let's split the cost of dinner.
-  - `go Dutch`                      ([Casual] 割り勘にする)         Should we go Dutch on this meal?
-  - `allocate` /ˈæləkeɪt/           ([Formal] 配分する)             We need to allocate funds wisely.
-- `waste` /weɪst/                   ([Neutral] 無駄にする)          Don't waste your time on this.
-  - `throw away` /θrəʊ əˈweɪ/       ([Neutral] 無駄にする)          Don't throw away your money on that.
-  - `blow` /bləʊ/                   ([Casual] 浪費する)             He blew all his money at the casino.
-  - `drain` /dreɪn/                 ([Neutral] 使い果たす)          This project is draining our budget.
-  - `burn through` /bɜːn θruː/      ([Casual] 使い果たす)           He burned through his savings in a month.
-  - `spend like water` /spend/      ([Casual] 湯水のように使う)     She spends money like water.
-  - `flush down` /flʌʃ daʊn/        ([Casual] 無駄にする)           He flushed his money down the drain.
-  - `squander` /ˈskwɒndə/           ([Writing] 浪費する)            Don't squander your money on useless things.
-  - `fritter` /ˈfrɪtə/              ([Writing] 浪費する)            He frittered away his inheritance.
-- `have` /hæv/                      ([Neutral] 受ける、経験する)    I had surgery last week.
-  - `go through` /ɡoʊ θruː/         ([Casual] 経験する、通り抜ける) He went through a difficult time.
-  - `experience` /ɪkˈspɪriəns/      ([Neutral] 経験する)            We experienced some difficulties.
-  - `face` /feɪs/                   ([Neutral] 直面する)            She faces surgery next month.
-  - `receive` /rɪˈsiːv/             ([Neutral] 受ける)              She received treatment for her condition.
-  - `encounter` /ɪnˈkaʊntər/        ([Neutral] 遭遇する、経験する)  We encountered several problems.
-  - `undergo` /ˌʌndərˈɡoʊ/          ([Neutral] 経験する、受ける)    She will undergo surgery tomorrow.
-  - `confront` /kənˈfrʌnt/          ([Neutral] 直面する 立ち向かう) They confronted many challenges.
-  - `submit to` /səbˈmɪt tuː/       ([Neutral] 服従する 受け入れる) He submitted to the medical examination.
-  - `be subjected to`               ([Formal] 受ける、さらされる)   The samples were subjected to testing.
-- `call` /kɔːl/                     ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
-  - `shout` /ʃaʊt/                  ([Neutral] 叫ぶ、大声で言う)    He shouted across the street.
-  - `yell` /jɛl/                    ([Casual] 叫ぶ、怒鳴る)         The coach yelled at the players.
-  - `ring` /rɪŋ/                    ([Neutral] 電話する、鳴らす)    I'll ring you tomorrow.
-  - `phone` /foʊn/                  ([Neutral] 電話する)            Can you phone the restaurant?
-  - `name` /neɪm/                   ([Neutral] 名前を付ける)        They named their baby Sarah.
-  - `cry` /kraɪ/                    ([Neutral] 叫ぶ、泣く)          She cried out in pain.
-  - `contact` /ˈkɑːntækt/           ([Neutral] 連絡する)            Please contact me if you need help.
-  - `holler` /ˈhɑːlər/              ([Casual] 大声で呼ぶ)           He hollered for help.
-  - `dial` /ˈdaɪəl/                 ([Neutral] ダイヤルする)        Please dial the emergency number.
-- `get` /ɡɛt/                       ([Neutral] 取ってくる 呼び出す) Can you get the manager?
-  - `bring` /brɪŋ/                  ([Neutral] 連れてくる、持参)    Please bring your friend to the party.
-  - `fetch` /fɛtʃ/                  ([Neutral] 取てくる 連れてくる) Go fetch the newspaper from outside.
-  - `retrieve` /rɪˈtriːv/           ([Formal] 取り戻す、回収する)   Please retrieve the files from the archive.
-  - `send for` /sɛnd fɔːr/          ([Neutral] 呼びに行かせる)      We sent for the doctor immediately.
-  - `call out` /kɔːl aʊt/           ([Neutral] 呼び出す、非難する)  The teacher called out the student's name.
-  - `call up` /kɔːl ʌp/             ([Neutral] 電話する、呼び出す)  I'll call you up tomorrow.
-  - `summon` /ˈsʌmən/               ([Formal] 召喚する、呼び出す)   The court summoned him as a witness.
-- `put on` /pʊt ɒn/                 ([Neutral] 着る、身に着ける)    Please put on your jacket.
-  - `wear` /weər/                   ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
-  - `slip on` /slɪp ɒn/             ([Casual] さっと着る)           I'll just slip on a sweater.
-  - `dress up` /dres ʌp/            ([Casual] おしゃれする)         She loves to dress up for parties.
-  - `throw on` /θrəʊ ɒn/            ([Casual] 急いで着る)           I threw on my jacket and left.
-  - `have on` /hæv ɒn/              ([Neutral] 着ている)            What do you have on today?
-  - `don` /dɒn/                     ([Formal] 身に着ける)           He donned his formal attire.
-  - `sport` /spɔːt/                 ([Casual] 身に着けて見せる)     She was sporting a new haircut.
-  - `clothe` /kləʊð/                ([Formal] 服を着せる)           They clothed the children warmly.
-  - `try on` /traɪ ɒn/              ([Neutral] 試着する)            I want to try on this shirt.
-- `take off` /teɪk ɒf/              ([Neutral] 脱ぐ)                Take off your shoes at the door.
-  - `undress` /ʌnˈdres/             ([Neutral] 服を脱ぐ)            The doctor asked him to undress for the exam.
-  - `shed` /ʃɛd/                    ([Neutral] 脱ぐ)                He shed his coat at the door.
-  - `slip off` /slɪp ɒf/            ([Casual] さっと脱ぐ)           She slipped off her shoes.
-  - `strip off` /strɪp ɒf/          ([Casual] すばやく脱ぐ)         Strip off those wet clothes.
-  - `doff` /dɒf/                    ([Formal] 脱ぐ)                 He doffed his hat politely.
-  - `strip` /strɪp/                 ([Casual] 脱ぐ、剥がす)         Strip off those wet clothes.
-  - `pull off` /pʊl ɒf/             ([Casual] 引っ張って脱ぐ)       Pull off your wet socks.
-  - `throw off` /θrəʊ ɒf/           ([Casual] 急いで脱ぐ)           He threw off his jacket.
-  - `kick off` /kɪk ɒf/             ([Casual] 蹴って脱ぐ)           She kicked off her heels.
-  - `slough` /slʌf/                 ([Writing] 脱ぎ捨てる)          The snake sloughed its skin.
-- `sit` /sɪt/                       ([Neutral] 座る)                Sit down and relax.
-- `bend` /bend/                     ([Neutral] 曲げる)              Bend your knees when lifting.
-  - `hunch` /hʌntʃ/                 ([Casual] 背を丸める)           Don't hunch over your desk.
-- `lean` /liːn/                     ([Neutral] 傾く、もたれる)      Don't lean against the wet paint.
-  - `tilt` /tɪlt/                   ([Neutral] 傾ける)              Tilt your head to the side.
-- `squat` /skwɒt/                   ([Neutral] しゃがむ)            Squat down to pick it up.
-  - `crouch` /kraʊtʃ/               ([Neutral] しゃがむ)            He crouched behind the wall.
-- `kneel` /niːl/                    ([Neutral] ひざまずく)          Please kneel during prayer.
-  - `genuflect` /ˈdʒenjʊflekt/      ([Formal] 片膝をつく)           Catholics genuflect before the altar.
-- `duck` /dʌk/                      ([Casual] 身をかがめる)         Duck your head under the branch!
-  - `stoop` /stuːp/                 ([Neutral] かがむ)              Don't stoop to their level.
-  - `slouch` /slaʊtʃ/               ([Casual] 前かがみになる)       Don't slouch in your chair.
-  - `slump` /slʌmp/                 ([Neutral] 前かがみになる)      He slumped in his chair.
+- `abound` /əˈbaʊnd/                 ([Neutral] 豊富にある)          Opportunities abound in this city.
 - `abstain`                            ([Neutral] 控える、慎む、棄権する)
+- `abuse` /əˈbjuːz/                 ([Neutral] 悪用する、濫用する)  She abused her position of power.
+- `abuse` /əˈbjuːz/                 ([Neutral] 虐待する、濫用する)  Don't abuse your authority.
 - `accede`                            ([Neutral] 同意する、権力の座につく、条約に加盟する)
+- `accelerate` /ækˈseləreɪt/      ([Neutral] 加速する、促進する)  The car began to accelerate.
 - `accrue`                            ([Neutral] 結果として生じる、獲得する)
+- `ache` /eɪk/                       ([Neutral] 痛む)                My back aches after sitting too long.
+- `addict`                            ([Neutral] （悪癖などに）ふけらせる)
 - `adjourn`                            ([Neutral] 休廷する、休会する、会議をもち越す)
+- `admit` /ədˈmɪt/                  ([Neutral] 認める、白状する)    I admit I was wrong.
+- `admonish` /ədˈmɑːnɪʃ/            ([Formal] 諭す、勧告する)       She admonished him to be more careful.
 - `adorn`                            ([Neutral] 装飾する、魅力的にする)
+- `advise` /ədˈvaɪz/                ([Neutral] 忠告する、助言する)  I advise you to study harder.
 - `affiliate`                            ([Neutral] 合併する、会員にする)
+- `affix`                            ([Neutral] はる、添える)
 - `affront`                            ([Neutral] 公然と侮辱する)
+- `aggregate`                            ([Neutral] 集まる、合計で～になる)
+- `agonize` /ˈæɡənaɪz/              ([Neutral] 苦悶する)            He agonized over the decision.
+- `ail`                            ([Neutral] 患わせる、悩ます、弊害となる)
+- `alert` /əˈlɜːrt/                 ([Neutral] 警戒させる 注意喚起) We alerted them to the problem.
 - `alienate`                            ([Neutral] 遠ざける、譲渡する)
+- `allege`                            ([Neutral] 主張する、断言する)
+- `alloy`                            ([Neutral] 混ぜる)
+- `allude` /əˈluːd/                 ([Writing] 暗に言及する)        He alluded to past problems.
 - `amalgamate`                            ([Neutral] 会社を合併する、融合する)
+- `amble`                            ([Neutral] のんびり歩く、（馬が）側対歩で歩く)
+- `anguish`                            ([Neutral] 苦しめる)
+- `animate` /ˈænɪmeɪt/               ([Neutral] 活気づける、動かす)  The music animated the crowd.
 - `annex`                            ([Neutral] 併合する、付け足す)
 - `annihilate`                            ([Neutral] 滅ぼす、選挙で圧勝する、無効にする)
+- `announce` /əˈnaʊns/              ([Neutral] 発表する、公表する)  They announced the winner.
 - `antagonize`                            ([Neutral] 苛だたせる、敵に回す、中和する)
+- `appalling` /əˈpɔːlɪŋ/          ([Neutral] ひどい、ぞっとする)       The living conditions were appalling.
+- `appeal` /əˈpiːl/                 ([Neutral] 訴える、懇願する)    They appealed for help.
+- `appear` /əˈpɪr/                 ([Neutral] ～のように見える)    She appears confident.
 - `applaud`                            ([Neutral] 拍手を送る、賞賛する)
 - `appraise`                            ([Neutral] 鑑定する、評価する、見積もる)
+- `apprehend`                            ([Neutral] 逮捕する、心配する)
+- `apprentice`                            ([Neutral] 見習いに出す)
+- `argue` /ˈɑːrɡjuː/                ([Neutral] 議論する、口論する)  We argued about the decision.
+- `arrive` /əˈraɪv/                ([Neutral] 到着する)            We arrived at the hotel at 6 PM.
+- `articulate`                            ([Neutral] はっきり話す)
 - `ascribe`                            ([Neutral] ～に帰する、考えを抱く)
+- `ask` /æsk/                       ([Neutral] 頼む、尋ねる)        Can I ask you a favor?
 - `aspire`                            ([Neutral] 熱望する)
 - `assassinate`                            ([Neutral] 暗殺する、傷つける)
 - `assay`                            ([Neutral] 分析する、調べる、試す)
+- `assemble`                            ([Neutral] 集める、まとめる、組み立てる)
+- `assimilate`                            ([Neutral] 同化する、適合する、吸収する)
+- `atone`                            ([Neutral] 償う、あがなう)
+- `attack` /əˈtæk/                  ([Neutral] 攻撃する)            The enemy attacked at dawn.
 - `audit`                            ([Neutral] 検査する、聴講する)
+- `avail`                            ([Neutral] 役立つ)
 - `avalanche`                            ([Neutral] 圧倒する)
 - `avenge`                            ([Neutral] ～のかたきを討つ、報復する)
+- `avert`                            ([Neutral] 防ぐ、そらす、転じる)
+- `avoid` /əˈvɔɪd/                  ([Neutral] 避ける)              Try to avoid making mistakes.
+- `awe`                            ([Neutral] 畏敬の念を起こさせる)
+- `babble`                            ([Neutral] 片言を言う、おしゃべりをする)
+- `backfire`                            ([Neutral] 裏目に出る、逆発する)
 - `backlash`                            ([Neutral] 激しく反発する)
+- `badger`                            ([Neutral] しつこく言う、困らせる)
+- `baffle`                            ([Neutral] まごつかせる、くじく)
 - `bail`                            ([Neutral] 保釈してもらう、委託する)
+- `bait`                            ([Neutral] えさをつける、おびき寄せる)
 - `bale`                            ([Neutral] 梱包する)
 - `balk`                            ([Neutral] しりごみする、妨害する)
 - `ballot`                            ([Neutral] 投票する)
 - `bandage`                            ([Neutral] 包帯をする)
 - `banish`                            ([Neutral] 追い出す、追放する)
+- `bank on` /bæŋk ɑːn/              ([Neutral] 当てにする)          I'm banking on your help.
+- `banter`                            ([Neutral] からかう、ひやかす)
+- `bargain`                            ([Neutral] 条件を話し合う)
+- `barn`                            ([Neutral] 納屋に蓄える)
 - `barrack`                            ([Neutral] ～を兵舎に収容する)
+- `barrage`                            ([Neutral] 質問を浴びせる)
 - `barter`                            ([Neutral] 物々交換する)
 - `bash`                            ([Neutral] 強打する)
+- `bask`                            ([Neutral] 日光に当たる、恩恵を受ける)
+- `batch`                            ([Neutral] 1回分にまとめる)
 - `batten`                            ([Neutral] 当て木をする、たらふく食べる、食い物にする)
 - `batter`                            ([Neutral] めった打ちにする、打ち壊す、激しく当たる)
+- `be bathed in` /bi beɪðd ɪn/      ([Writing] まみれになる)        The room was bathed in soft light.
+- `be bound to` /baʊnd tuː/         ([Neutral] ～に違いない)        He's bound to notice eventually.
+- `be careful` /biː ˈkerfəl/        ([Neutral] 気をつけて)          Be careful with that glass.
+- `be finished` /bi ˈfɪnɪʃt/        ([Neutral] 終わった)            The meeting is finished.
+- `be for` /bi fɔːr/                ([Casual] 合う)                 That job wasn't for me.
+- `be hyped`                        ([Casual] 興奮している)         I'm so hyped for the concert!
+- `be no fun` /bi noʊ fʌn/          ([Casual] 楽しくない)           This game is no fun.
+- `be on call`                      ([Neutral] 呼び出し対応可能)    I'm on call this weekend.
+- `be stuck with` /stʌk wɪð/        ([Casual] ～で身動き取れない)   I'm stuck with this decision.
+- `be upfront about`                ([Casual] について正直に言う)   She's very upfront about her feelings.
 - `beacon`                            ([Neutral] 誘導する)
 - `beckon`                            ([Neutral] 合図する、差し招く)
+- `beg` /beɡ/                       ([Neutral] 懇願する、物乞い)    I beg you to reconsider.
+- `beget`                            ([Neutral] 生じさせる、父親が子をもうける)
 - `beguile`                            ([Neutral] 魅する、だます、だまし取る)
 - `behold`                            ([Neutral] 注視する、見守る)
 - `belie`                            ([Neutral] ～と矛盾する、偽る)
+- `bellow`                            ([Neutral] 大声で鳴く、どなる)
+- `bemoan`                            ([Neutral] 嘆く、哀れむ)
+- `bend` /bend/                     ([Neutral] 曲げる)              Bend your knees when lifting.
+- `bequeath`                            ([Neutral] 遺贈する、伝える)
+- `beseech` /bɪˈsiːtʃ/              ([Writing] 懇願する、切願する)  I beseech you to help us.
 - `beset`                            ([Neutral] 悩ませる、包囲攻撃する、襲撃する)
+- `besiege` /bɪˈsiːdʒ/              ([Writing] 包囲する)            The castle was besieged for weeks.
+- `bestow` /bɪˈstoʊ/                 ([Formal] 授ける、与える)       The queen bestowed honors on him.
+- `bet on` /bet ɑːn/                ([Casual] 当てにする、賭ける)   I wouldn't bet on him showing up.
+- `betray` /bɪˈtreɪ/                ([Neutral] 裏切る、漏らす)      He betrayed their trust.
 - `beware`                            ([Neutral] 注意する、用心する)
+- `bewilder`                            ([Neutral] 当惑させる、混乱させる)
+- `billow`                            ([Neutral] 波だつ、うねる)
+- `blab` /blæb/                     ([Casual] ペラペラしゃべる)     She blabbed about the surprise party.
 - `blackmail`                            ([Neutral] 恐喝する、強要する)
+- `blame` /bleɪm/                   ([Neutral] せいにする、責める)  Don't blame me for your mistakes.
 - `blanch`                            ([Neutral] 白くする、湯がく)
+- `blanket`                            ([Neutral] 毛布で覆う)
 - `bleach`                            ([Neutral] 漂白する、白くなる)
 - `blight`                            ([Neutral] だめにする、挫折させる)
 - `blister`                            ([Neutral] 水ぶくれができる、激しく非難する)
+- `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
+- `block` /blɑːk/                   ([Neutral] 塞ぐ、妨げる)        A truck is blocking the road.
+- `blot`                            ([Neutral] 汚す)
+- `blow one's mind`                 ([Casual] 驚かせる、感動させる) That movie blew my mind!
+- `blow the whistle`                ([Casual] 内部告発する)         She blew the whistle on corruption.
+- `blow up` /bloʊ ʌp/               ([Casual] 爆発する、怒る)       He blew up when he heard the news.
+- `bluff`                            ([Neutral] はったりでだます)
+- `blunt`                            ([Neutral] 鈍らせる)
+- `blurt`                            ([Neutral] うっかりしゃべる)
+- `bode`                            ([Neutral] ～の前兆となる)
 - `bombard`                            ([Neutral] 攻めたてる、砲撃する)
+- `booze`                            ([Neutral] 大酒を飲む)
 - `botch`                            ([Neutral] 下手にやる、台なしにする)
+- `bother` /ˈbɑːðər/                ([Neutral] 邪魔する、悩ます)    Don't bother him while he's working.
+- `bower`                            ([Neutral] 木の葉や枝で囲む)
 - `brace`                            ([Neutral] 補強する、支える、奮い立たせる)
+- `bracket`                            ([Neutral] かっこで囲む、腕木をつける)
 - `brag`                            ([Neutral] 自慢する)
+- `braid`                            ([Neutral] 編む、結わえる)
 - `brandish`                            ([Neutral] 威嚇するように振り回す、これ見よがしに見せる)
 - `brawl`                            ([Neutral] 騒々しくけんかする)
+- `break` /breɪk/                   ([Neutral] 破る、違反する)      Don't break the rules.
+- `bridle`                            ([Neutral] 馬にくつわを付ける)
+- `bristle`                            ([Neutral] 逆立つ、怒らせる)
+- `broadcast` /ˈbrɔːdkæst/          ([Neutral] 放送する、広める)    The station broadcasts 24 hours a day.
 - `brook`                            ([Neutral] 我慢する、許す)
+- `browse`                            ([Neutral] ざっと見る、食べる)
+- `bruise`                            ([Neutral] 打ち傷をつける、あざをつける)
 - `buck`                            ([Neutral] 抵抗する)
+- `buckle`                            ([Neutral] 留め金で留める、曲げる)
+- `buffer`                            ([Neutral] 衝撃を和らげる、防ぐ)
+- `bulletin`                            ([Neutral] 公表する)
+- `bully`                            ([Neutral] いじめる、脅して～させる)
+- `bum`                            ([Neutral] ただで手に入れる、せびる)
+- `bump`                            ([Neutral] ドンとぶつかる)
+- `bumper`                            ([Neutral] なみなみとつぐ)
 - `bunk`                            ([Neutral] ごろ寝する)
+- `burgeon`                            ([Neutral] 急に大きくなる、芽ぐむ)
 - `burnish`                            ([Neutral] つや出しする、磨く)
+- `burrow`                            ([Neutral] 穴を掘る、隠れる)
+- `buttress`                            ([Neutral] 議論を強化する、支持する)
+- `cajole` /kəˈdʒoʊl/               ([Neutral] おだてて説得する)    She cajoled him into helping her.
+- `call` /kɔːl/                     ([Neutral] 呼ぶ、電話する)      Please call me when you arrive.
+- `calm` /kɑːm/                     ([Neutral] 落ち着かせる)        Try to calm down before speaking.
 - `camouflage`                            ([Neutral] カモフラージュする)
+- `cant`                            ([Neutral] きれいごとを語る、斜めにする)
 - `canvass`                            ([Neutral] 地域を訪ね回る、遊説する、調査する)
+- `cap`                            ([Neutral] かぶせる、上限を設ける)
 - `capitalize`                            ([Neutral] 大文字で書く、出資する、利用する)
 - `capitulate`                            ([Neutral] 降伏する)
 - `captivate`                            ([Neutral] 心を奪う、夢中にする)
+- `caress`                            ([Neutral] 撫でる)
+- `carol`                            ([Neutral] クリスマスキャロルを歌ってまわる)
 - `carry`                            ([Neutral] 運ぶ、進める、持っている、掲載する)
+- `carve`                            ([Neutral] 彫る、刻む)
 - `cashier`                            ([Neutral] 解雇する、捨てる)
+- `catapult`                            ([Neutral] 急激に動く、発射する)
 - `cater`                            ([Neutral] 応える、料理の仕出しをする)
 - `caucus`                            ([Neutral] 議員総会で討議する)
+- `caution` /ˈkɔːʃən/               ([Neutral] 警告する、注意する)  The doctor cautioned against overwork.
+- `cavern`                            ([Neutral] ほら穴を掘る、封じ込める)
+- `cease` /siːs/                    ([Formal] やめる、停止する)     They ceased all operations.
 - `censor`                            ([Neutral] 検閲する)
 - `census`                            ([Neutral] 調査を行う)
+- `centralize`                            ([Neutral] 中心に集める、集中させる)
+- `chaff`                            ([Neutral] からかう)
+- `challenge` /ˈtʃælɪndʒ/           ([Neutral] 異議を唱える)        He challenged their assumptions.
+- `chant`                            ([Neutral] 歌う)
+- `chap`                            ([Neutral] ひびを生じさせる)
+- `characterize` /ˈkærəktəraɪz/     ([Formal] 特徴づける、描写する)   Kindness characterizes her approach.
 - `charge`                            ([Neutral] 請求する、非難する、詰める、（バッテリーなどを）充電する)
 - `charter`                            ([Neutral] 設立を特許する)
 - `chasten`                            ([Neutral] 罰する、懲らしめる、感情を抑える)
+- `chatter`                            ([Neutral] しゃべる)
 - `chauffeur`                            ([Neutral] 運転する)
+- `chide`                            ([Neutral] たしなめる、小言を言う)
+- `chip`                            ([Neutral] 切る、削る)
+- `chirp`                            ([Neutral] チュンチュンと鳴く、にぎやかに話す)
+- `chisel`                            ([Neutral] 彫る、だます)
 - `choke`                            ([Neutral] 窒息する、息が詰まる)
+- `christen` /ˈkrɪsən/              ([Neutral] 洗礼名を付ける)      She was christened Susan.
 - `chronicle`                            ([Neutral] 年代順に記録する)
+- `chuck`                            ([Neutral] 捨てる、軽くたたく、放る、辞める)
+- `chuckle`                            ([Neutral] くすくすと笑う、声を出さずに笑う)
 - `chum`                            ([Neutral] 親しくする)
+- `churn`                            ([Neutral] 激しくかき混ぜる)
+- `circulate` /ˈsɜːrkjəleɪt/        ([Neutral] 流通する、広める)    Rumors circulated about the merger.
 - `circumscribe`                            ([Neutral] 制限する、周辺に線を引く、区切る)
 - `circumvent`                            ([Neutral] 巧みに逃れる、包囲する、挫折させる)
+- `civilize`                            ([Neutral] 文明化する、教化する)
 - `clam`                            ([Neutral] 潮干狩りをする)
+- `clamber`                            ([Neutral] よじ登る)
+- `clamp`                            ([Neutral] 固定する、重々しい足どりで歩く)
 - `clash`                            ([Neutral] 衝突する)
+- `clasp`                            ([Neutral] 握りしめる)
+- `clatter`                            ([Neutral] ガタガタ音をたてる)
+- `claw`                            ([Neutral] 裂く、引っ張る)
+- `clean up` /kliːn ʌp/             ([Casual] 片付ける、掃除する)   We need to clean up this mess.
+- `cleanse`                            ([Neutral] 洗浄する、罪などを清める、浄化する)
+- `clear` /klɪr/                    ([Casual] 無実を証明する)       The evidence cleared him of all charges.
+- `cleave`                            ([Neutral] 道を切り開く、裂く)
+- `clench`                            ([Neutral] （こぶし・手などを）堅く締める、しっかりつかむ)
 - `cling`                            ([Neutral] 執着する、しがみつく)
+- `cloak`                            ([Neutral] 覆い隠す)
+- `clog`                            ([Neutral] 動きを妨げる、詰まらせる)
 - `clot`                            ([Neutral] 凝固する、こびりつく)
+- `clown`                            ([Neutral] おどける、からかう)
+- `clump`                            ([Neutral] 重い足どりで歩く、～をかたまりにする)
+- `clutch`                            ([Neutral] しっかり握る、つかみかかる)
+- `clutter`                            ([Neutral] 散らかす、心を乱す)
 - `coalesce`                            ([Neutral] 合併する、連合する、（傷口などが）癒着(ゆちゃく)する)
+- `coarsen` /ˈkɔːrsən/            ([Neutral] 粗野にする)          Years of hardship coarsened him.
+- `coax` /koʊks/                    ([Neutral] 優しく説得する)      She coaxed him into trying it.
 - `coerce`                            ([Neutral] 強制する、強制によって達成する)
+- `coffer`                            ([Neutral] 箱や金庫にしまう)
+- `coffin`                            ([Neutral] 棺におさめる)
+- `coil`                            ([Neutral] ぐるぐる巻く)
+- `come across` /kʌm əˈkrɒs/       ([Casual] 印象を与える)         I didn't mean to come across like that.
+- `come home` /kʌm həʊm/           ([Neutral] 帰宅する)            What time will you come home today?
+- `come off as` /kʌm ɔːf æz/       ([Casual] ～のように見える)     He comes off as arrogant sometimes.
+- `come over` /kʌm ˈoʊvər/         ([Casual] 家に来る)             Can you come over tonight?
+- `commit` /kəˈmɪt/               ([Neutral] 専念する、約束する)  They committed resources to the project.
+- `commute`                            ([Neutral] 通勤・通学する、代える、変化させる、取り替える)
+- `compel`                            ([Neutral] 無理にさせる、せざるをえない)
 - `compensate`                            ([Neutral] 埋め合わせる、相殺する、補償する、報酬を支払う)
 - `compile`                            ([Neutral] まとめる、編集する、集める)
+- `complement`                            ([Neutral] よさを引きたてる)
 - `compose`                            ([Neutral] ～から成る、構成する、作曲する)
 - `compress`                            ([Neutral] 押しつける、圧縮する、固めて～にする)
+- `comprise`                            ([Neutral] ～より成る、含む)
 - `conceal`                            ([Neutral] 隠す、秘密にする)
+- `concede`                            ([Neutral] 認める、容認する、負けを認める)
+- `conceit`                            ([Neutral] 得意になる、うぬぼれる)
 - `concur`                            ([Neutral] 同意見である、一致する、同時に起こる)
+- `condescend`                            ([Neutral] 見下した態度をとる、へりくだる)
 - `condone`                            ([Neutral] 大目に見る、容赦する)
 - `confer`                            ([Neutral] 与える、相談する)
+- `confess` /kənˈfes/               ([Neutral] 告白する、白状する)  He confessed his mistake.
+- `confide` /kənˈfaɪd/              ([Neutral] 打ち明ける 信頼して) She confided in her best friend.
+- `confide` /kənˈfaɪd/              ([Neutral] 打ち明ける 信頼する) She confided her fears to him.
 - `confiscate`                            ([Neutral] 没収する、差し押さえる)
+- `confound`                            ([Neutral] まごつかせる、困惑させる)
+- `confront` /kənˈfrʌnt/            ([Neutral] 立ち向かう)          She confronted him about the lies.
+- `congratulate`                            ([Neutral] お祝いを言う)
+- `connote` /kəˈnoʊt/               ([Writing] 含意する、暗示する)  The word connotes negative feelings.
 - `consecrate`                            ([Neutral] 聖職に任命する、神聖にする、ささげる)
 - `conserve`                            ([Neutral] 保存する、節約する)
+- `consign`                            ([Neutral] 渡す、預ける、託す)
 - `conspire`                            ([Neutral] 共謀する、たくらむ、図る)
 - `constitute`                            ([Neutral] 構成する、任命する)
+- `constrict` /kənˈstrɪkt/          ([Neutral] 収縮する、締めつける) The snake constricted its prey.
+- `construe`                            ([Neutral] 説明する、解釈する、翻訳する)
 - `contaminate`                            ([Neutral] 汚染する、不純にする)
+- `contend`                            ([Neutral] 戦う、取り組む)
+- `contest` /kənˈtest/              ([Formal] 異議を申し立てる)     She contested the decision.
+- `contradict` /ˌkɑːntrəˈdɪkt/      ([Neutral] 矛盾する)            Don't contradict me in public.
 - `contravene`                            ([Neutral] 違反する、矛盾する)
 - `contrive`                            ([Neutral] 企てる、もくろむ、考案する)
 - `convoy`                            ([Neutral] 護送する)
+- `coop`                            ([Neutral] 閉じ込める)
 - `cop`                            ([Neutral] 獲得する)
 - `corrode`                            ([Neutral] 腐食する、徐々に悪くなる)
+- `couch`                            ([Neutral] 表す、うずくまる)
+- `counsel` /ˈkaʊnsəl/              ([Formal] 助言する、相談する)   The lawyer counseled patience.
+- `count on` /kaʊnt ɑːn/            ([Neutral] 頼る、当てにする)    I'm counting on you to help me.
+- `count toward` /kaʊnt təˈwɔrd/     ([Neutral] ～に含まれる)        This course counts toward your degree.
 - `counteract`                            ([Neutral] 反対に作用する、無効にする、中和する)
 - `counterfeit`                            ([Neutral] 偽造する、ふりをする)
 - `covet`                            ([Neutral] 切望する)
 - `cower`                            ([Neutral] 縮こまる、畏縮する)
 - `cozy`                            ([Neutral] 仲よくする)
+- `crackle`                            ([Neutral] パチパチ音をたてる、細かいひびができる)
+- `cradle`                            ([Neutral] 支える)
+- `cram`                            ([Neutral] 詰め込む)
+- `crane` /kreɪn/                   ([Neutral] 首を伸ばす)          She craned her neck to see.
 - `crash`                            ([Neutral] 衝突する、砕く)
+- `crater`                            ([Neutral] 穴があく、へこみができる)
+- `craze`                            ([Neutral] 気を狂わせる、気がおかしくなる)
+- `creak`                            ([Neutral] キーキー鳴る、きしる)
 - `crease`                            ([Neutral] 折り目をつける、しわくちゃにする)
 - `crib`                            ([Neutral] カンニングする)
 - `cringe`                            ([Neutral] 縮こまる、ぺこぺこする、うんざりする)
 - `cripple`                            ([Neutral] 手足を不自由にする)
+- `crochet`                            ([Neutral] かぎ針で編む)
+- `crook`                            ([Neutral] 曲げる)
 - `crucify`                            ([Neutral] 十字架にはりつけにする、虐待する)
+- `crumble`                            ([Neutral] 砕く、粉々に崩れる)
 - `crumple`                            ([Neutral] くしゃくしゃにする、しわくちゃになる)
+- `crunch`                            ([Neutral] ボリボリかむ、バリバリ砕ける)
+- `crusade`                            ([Neutral] 十字軍に加わる)
+- `crust`                            ([Neutral] 外皮で覆う)
+- `crutch`                            ([Neutral] 支える)
+- `cuddle`                            ([Neutral] 抱きしめる、すり寄る)
+- `cull`                            ([Neutral] 間引く、選び取る)
 - `cultivate`                            ([Neutral] 耕す、栽培する)
 - `curb`                            ([Neutral] 抑制する)
 - `customize`                            ([Neutral] 特注する、好みに合うように直す)
+- `cut back on` /kʌt bæk ɑːn/      ([Neutral] を減らす)            I need to cut back on sugar.
+- `dab`                            ([Neutral] 軽く塗る・たたく)
+- `dabble`                            ([Neutral] 水をはねかける、ちょっと手を出す)
 - `dally`                            ([Neutral] からかい半分に手を出す、ぐずぐず処理する、ぶらぶら過ごす)
+- `damage` /ˈdæmɪdʒ/                ([Neutral] 損傷させる)          The storm damaged many houses.
+- `damn`                            ([Neutral] けなす、ののしる)
+- `damp`                            ([Neutral] 湿らせる)
+- `dangle`                            ([Neutral] ぶら下がる・下げる、追い回す、見せびらかす)
 - `darken`                            ([Neutral] 暗くする)
+- `darn`                            ([Neutral] 繕う、のろう)
+- `dart`                            ([Neutral] さっと動く、飛ぶ)
+- `daub`                            ([Neutral] 塗りつける、汚す)
 - `daunt`                            ([Neutral] ひるませる、威圧する)
+- `daze`                            ([Neutral] ぼうっとさせる、目をくらませる)
 - `dazzle`                            ([Neutral] 圧倒する、目がくらむ)
+- `debase`                            ([Neutral] 品位や評価を落とす)
 - `debit`                            ([Neutral] 借方に記入する)
+- `debunk` /dɪˈbʌŋk/                ([Neutral] 正体を暴く 論破する) Scientists debunked the conspiracy theory.
+- `debut`                            ([Neutral] 初めて出る)
 - `decease`                            ([Neutral] 死亡する)
 - `decentralize`                            ([Neutral] 地方分権にする、分散させる)
+- `decimate`                            ([Neutral] 多くを殺す、かなり減らす)
 - `decipher`                            ([Neutral] 解読する、はっきりさせる)
+- `decline` /dɪˈklaɪn/              ([Neutral] 衰える)              Her health has been declining.
+- `decorate` /ˈdekəreɪt/             ([Neutral] 飾る、勲章を授ける)  They decorated him for bravery.
+- `decoy`                            ([Neutral] おびき寄せる)
+- `decrease` /dɪˈkriːs/             ([Neutral] 減少する)            Sales decreased by 10%.
 - `dedicate`                            ([Neutral] ささげる、献身する)
+- `dedicate` /ˈdedɪkeɪt/          ([Neutral] 捧げる、専念する)    He dedicated his life to science.
 - `deduce`                            ([Neutral] 推定する、演繹する)
 - `deepen`                            ([Neutral] 深くする、濃くする)
+- `defect` /dɪˈfekt/                ([Formal] 離反する、亡命する)   The spy defected to the enemy.
+- `defend` /dɪˈfend/              ([Neutral] 守る、擁護する)      They defended their territory.
 - `defer`                            ([Neutral] 延期する)
+- `deflate`                            ([Neutral] しょげさせる、しぼむ)
+- `deflect`                            ([Neutral] そらす、屈折させる)
 - `deform`                            ([Neutral] 変形させる、奇形にする)
 - `defy`                            ([Neutral] 挑む、無視する、ものともしない)
+- `degenerate`                            ([Neutral] 悪化する)
 - `deliberate`                            ([Neutral] 熟考する)
 - `deluge`                            ([Neutral] 殺到する)
+- `demolish`                            ([Neutral] 破壊する、くつがえす)
+- `demoralize`                            ([Neutral] 士気をくじく、困惑させる)
 - `demur`                            ([Neutral] 反対する)
+- `den`                            ([Neutral] ほら穴に住む)
+- `denote` /dɪˈnoʊt/                ([Formal] 示す、意味する)       The red light denotes danger.
+- `dent`                            ([Neutral] へこませる、めり込む)
+- `deny` /dɪˈnaɪ/                   ([Neutral] 否定する)            She denied the accusations.
+- `depend on` /dɪˈpend ɑːn/         ([Neutral] 頼る、次第である)    Success depends on hard work.
+- `depict` /dɪˈpɪkt/                ([Neutral] 描く、描写する)      The painting depicts a rural scene.
 - `deplete`                            ([Neutral] 使い果たす、激減させる)
 - `deport`                            ([Neutral] 国外に追放する、輸送する)
+- `depress`                            ([Neutral] 意気消沈させる、ゆううつにさせる、弱める)
+- `deprive`                            ([Neutral] 奪う、取り上げる)
+- `derive` /dɪˈraɪv/              ([Formal] 由来する、派生する)   The word derives from Latin.
+- `describe` /dɪˈskraɪb/            ([Neutral] 描写する、説明する)  Can you describe what happened?
+- `desolate`                            ([Neutral] 悲しくさせる、荒廃させる)
+- `despise` /dɪˈspaɪz/              ([Neutral] 軽蔑する)            He despises dishonesty.
+- `detach`                            ([Neutral] 分離する、派遣する)
 - `detain`                            ([Neutral] 拘留する、引き留める)
 - `deter`                            ([Neutral] 思いとどまらせる、抑止する)
 - `deteriorate`                            ([Neutral] 悪くなる、退廃する)
 - `detour`                            ([Neutral] 遠回りする)
+- `detract`                            ([Neutral] 損なう、そらす、減じる)
+- `devalue`                            ([Neutral] 平価を切り下げる、価値を減じる)
 - `devastate`                            ([Neutral] 壊滅させる、荒廃させる、圧倒する、くじけさせる)
 - `deviate`                            ([Neutral] 逸脱する、コースを逸れる)
+- `devolve`                            ([Neutral] 義務や財産が移る、義務や権利を譲り渡す)
+- `devote` /dɪˈvoʊt/              ([Neutral] 捧げる、専念する)    She devotes time to volunteering.
+- `devour`                            ([Neutral] むさぼり食う、食い入るように見る)
+- `diaper`                            ([Neutral] おむつを替える)
+- `diffuse`                            ([Neutral] 散らす、放散させる、広める)
 - `dignify`                            ([Neutral] 威厳をつける、おごそかにする、高貴にする、もったいをつける)
+- `dilute`                            ([Neutral] 薄める)
 - `dine`                            ([Neutral] 食事をする)
+- `dip`                            ([Neutral] ちょっとつける、すくい上げる)
+- `disable` /dɪsˈeɪbəl/            ([Neutral] 無効にする、障害を与) He was disabled in the accident.
 - `disarm`                            ([Neutral] 武器を取りあげる、武装を解除する)
 - `disband`                            ([Neutral] 解散する、組織を解体する)
+- `discharge` /dɪsˈtʃɑːrdʒ/         ([Formal] 放出する、発散する)   She discharged her emotions through art.
+- `disclose` /dɪsˈkloʊz/            ([Formal] 開示する 明らかにする)The company disclosed its financial results.
+- `discourage`                            ([Neutral] 希望を失わせる、やめさせる)
 - `discriminate`                            ([Neutral] 差別する、正しく区別する)
+- `disfigure`                            ([Neutral] 外観を損なう、傷をつける)
+- `disguise`                            ([Neutral] 変装させる)
 - `disintegrate`                            ([Neutral] 分解する、くずれて～になる)
 - `dismantle`                            ([Neutral] 取り壊す、廃止する、はぎ取る)
+- `dismiss` /dɪsˈmɪs/               ([Formal] 解雇する、却下する)   The company dismissed him for misconduct.
+- `dismiss` /dɪsˈmɪs/               ([Neutral] 軽視する、退ける)    She dismissed his concerns.
 - `disobey`                            ([Neutral] 服従しない、違反する、背く、従順でない)
 - `dispel`                            ([Neutral] 追い払う、一掃する)
 - `dispense`                            ([Neutral] 施す、施行する、免ずる)
+- `disperse` /dɪˈspɜːrs/            ([Neutral] 分散する、散布する)  The seeds dispersed in the wind.
+- `display` /dɪˈspleɪ/              ([Neutral] 示す、陳列する)      The store displays its best products.
+- `dispose`                            ([Neutral] 配置する、整理する、処分する)
+- `disprove` /dɪsˈpruːv/            ([Neutral] 反証する)            The evidence disproves his claim.
+- `dispute` /dɪˈspjuːt/             ([Neutral] 異議を唱える)        They disputed the findings.
+- `disquiet`                            ([Neutral] 平静（平穏、平和）を乱す)
 - `disregard`                            ([Neutral] 注意をはらわない、無視する、軽視する)
+- `disrupt`                            ([Neutral] 混乱させる、崩壊させる、分離する)
 - `dissect`                            ([Neutral] 解剖する、細かく調べる)
+- `disseminate` /dɪˈsemɪneɪt/       ([Writing] 普及する、広める)    They disseminated the information widely.
 - `dissipate`                            ([Neutral] 消散する、分散させる)
 - `dissolve`                            ([Neutral] 溶ける、溶かす、解散する)
 - `distill`                            ([Neutral] 蒸留する、要点を抜き出す)
+- `distract`                            ([Neutral] （心を）そらす、取り乱させる)
 - `distress`                            ([Neutral] 苦悩する)
+- `distress` /dɪˈstres/             ([Neutral] 苦痛を与える)        The news distressed the family.
+- `distribute` /dɪˈstrɪbjuːt/       ([Neutral] 配布する、分配する)  They distributed flyers to everyone.
+- `ditch`                            ([Neutral] みぞを掘る)
 - `diverge`                            ([Neutral] 分岐する、異なる)
+- `divert`                            ([Neutral] そらす、迂回させる)
+- `divulge` /daɪˈvʌldʒ/             ([Formal] 暴露する、漏らす)     He refused to divulge the secret.
+- `dizzy`                            ([Neutral] めまいを起こさせる)
+- `dodge`                            ([Neutral] 素早く身をかわす、ごまかす)
+- `domicile`                            ([Neutral] 定住させる)
+- `doom`                            ([Neutral] 運命づける、〈受身で〉消える運命にある)
 - `douse`                            ([Neutral] 水を浴びせる、ずぶ濡れにする、灯火を消す)
 - `download`                            ([Neutral] ダウンロードする)
+- `downplay`                            ([Neutral] 軽視する、控えめに言う)
 - `doze`                            ([Neutral] うたた寝する、ぼんやりしている)
 - `dramatize`                            ([Neutral] 劇にする、脚色する)
+- `drape`                            ([Neutral] 布で優美に覆う、きれいなひだが寄る)
+- `drawl`                            ([Neutral] 気どってゆっくり話す)
+- `dread`                            ([Neutral] 非常に恐がる)
+- `dredge`                            ([Neutral] 水底の泥をさらう、掘り出す)
 - `drench`                            ([Neutral] ずぶ濡れにする、浸す)
 - `dribble`                            ([Neutral] したたる、ドリブルする)
+- `drip`                            ([Neutral] ぽたぽた落ちる)
+- `drizzle`                            ([Neutral] 霧雨が降る)
+- `drone`                            ([Neutral] ブンブン音をたてる)
+- `droop`                            ([Neutral] だらりと垂れる、うなだれる、弱る)
+- `drop a hint` /drɑːp ə hɪnt/      ([Casual] ほのめかす)           She dropped a hint about her birthday.
+- `drown`                            ([Neutral] おぼれる、おぼれさせる)
+- `duck`                            ([Neutral] 身をかがめる)
+- `duck` /dʌk/                      ([Casual] 身をかがめる)         Duck your head under the branch!
 - `dull`                            ([Neutral] 鈍くする)
+- `dump`                            ([Neutral] どさっと降ろす、捨てる)
+- `dung`                            ([Neutral] 肥料を施す)
 - `duplicate`                            ([Neutral] 複製する)
 - `dusk`                            ([Neutral] 薄暗くする)
 - `dwarf`                            ([Neutral] 小さくする)
+- `ease` /iːz/                      ([Neutral] 和らぐ)              The pain will ease soon.
 - `eavesdrop`                            ([Neutral] 盗み聞きする)
+- `eclipse`                            ([Neutral] 影を投げる)
 - `economize`                            ([Neutral] 倹約・節約する、効率よく利用する)
+- `eddy`                            ([Neutral] 渦を巻く)
 - `edify`                            ([Neutral] 啓発する、道徳心を養う)
+- `efface`                            ([Neutral] こすり消す、ぬぐい去る)
 - `electrify`                            ([Neutral] 電力を供給する、感電させる)
 - `eliminate`                            ([Neutral] 除く、排除する)
 - `elucidate`                            ([Neutral] 解明する、明瞭にする)
 - `emanate`                            ([Neutral] 出てくる、生じる、発する)
 - `emancipate`                            ([Neutral] 解放する)
+- `embarrass` /ɪmˈbærəs/            ([Neutral] 恥をかかせる)        Don't embarrass me in public.
 - `embellish`                            ([Neutral] 話をおもしろくする、誇張する、美しく飾る)
 - `embroider`                            ([Neutral] 刺しゅうを施す、潤色する)
+- `embroil`                            ([Neutral] 巻き込む、混乱させる)
 - `empower`                            ([Neutral] 権利を与える、地位を向上させる、～できるようにする)
 - `emulate`                            ([Neutral] 見習う、張り合う、匹敵する)
 - `enact`                            ([Neutral] 制定する)
 - `encompass`                            ([Neutral] 包み込む、包囲する)
+- `encourage` /ɪnˈkɜːrɪdʒ/          ([Neutral] 励ます、奨励する)    She encouraged me to apply.
 - `encroach`                            ([Neutral] 侵入する、侵害する)
 - `endow`                            ([Neutral] 寄付する、授ける)
+- `engender`                            ([Neutral] 生じさせる、引き起こす)
+- `engulf`                            ([Neutral] 飲み込む、巻き込む)
 - `enjoin`                            ([Neutral] 命じる、要求する、禁じる)
 - `enlist`                            ([Neutral] 入隊する、協力する、参加する)
 - `enshrine`                            ([Neutral] 正式に記す、神聖なものとして祭る、安置する)
 - `entail`                            ([Neutral] 伴う、必要とする)
+- `enter` /ˈɛntɚ/                   ([Neutral] 入る、入力する)      Please knock before you enter.
+- `entice` /ɪnˈtaɪs/                ([Neutral] 誘惑する、そそのかす) The offer enticed him to accept.
+- `entitle` /ɪnˈtaɪtəl/              ([Formal] 資格を与える)         This entitles you to a discount.
+- `entreat` /ɪnˈtriːt/              ([Formal] 懇願する、頼む)       She entreated him to stay.
 - `entrench`                            ([Neutral] 揺るぎないものにする、堀を造って囲む、侵害する)
+- `enunciate`                            ([Neutral] 明確に発音する・述べる)
 - `equalize`                            ([Neutral] 平等にする、等しくする)
 - `equip`                            ([Neutral] 備える、用意する、装備する)
+- `eradicate`                            ([Neutral] 全滅させる、取る)
 - `erect`                            ([Neutral] 直立させる、勃起する)
 - `erode`                            ([Neutral] 浸食する、むしばむ)
 - `erupt`                            ([Neutral] 噴火する、噴出する)
+- `eschew`                            ([Neutral] 控える、避ける)
 - `espouse`                            ([Neutral] 支持する、信奉する)
 - `etch`                            ([Neutral] くっきり描く、刻み込む、エッチングする)
 - `evacuate`                            ([Neutral] 立ち退かせる、排出する、避難する)
+- `evade`                            ([Neutral] 逃れる、避ける)
 - `evaporate`                            ([Neutral] 蒸発する、消滅する)
+- `evict`                            ([Neutral] 立ち退かせる、追い払う、取り戻す)
+- `exacerbate`                            ([Neutral] 悪化させる、悪い感情を募らせる、憤慨させる)
 - `excavate`                            ([Neutral] 掘る、発掘する)
 - `excerpt`                            ([Neutral] 抜粋する)
+- `exclaim`                            ([Neutral] 叫ぶ)
+- `exempt` /ɪɡˈzempt/                ([Formal] 免除する)             Students are exempted from the fee.
+- `exercise` /ˈeksərsaɪz/           ([Neutral] 行使する、発動する)  They exercised their voting rights.
 - `exhale`                            ([Neutral] 息を吐き出す、発散する、ぶちまける)
 - `exhilarate`                            ([Neutral] 活気づける、愉快にする、興奮させる)
+- `exhort` /ɪɡˈzɔːrt/               ([Writing] 熱心に勧める、諭す)  He exhorted them to try harder.
 - `exile`                            ([Neutral] 国外追放する、引き離す)
+- `exorcise`                            ([Neutral] 悪魔を追い払う、悩みを取り除く)
 - `expatriate`                            ([Neutral] 故国から追放する)
 - `expedite`                            ([Neutral] 迅速に処理する、促進する)
 - `expel`                            ([Neutral] 除名する、免職にする、追い出す)
+- `expose` /ɪkˈspoʊz/               ([Neutral] 暴露する、さらす)    The scandal exposed corruption.
 - `expound`                            ([Neutral] 理論を詳しく説く、経典を解釈する)
+- `express` /ɪkˈspres/              ([Neutral] 表現する、述べる)    She expressed her feelings clearly.
+- `extend` /ɪkˈstend/               ([Neutral] 延ばす、拡張する)    They extended the deadline.
+- `extradite`                            ([Neutral] 引き取る、引き渡す)
 - `extricate`                            ([Neutral] 救い出す、解放する)
+- `exude`                            ([Neutral] 発する、にじみ出る)
 - `exult`                            ([Neutral] 大喜びする、勝ち誇る)
 - `eyewitness`                            ([Neutral] 目撃する)
+- `faint`                            ([Neutral] 気が遠くなる)
+- `fake` /feɪk/                     ([Neutral] 偽造する、装う)      Don't fake your identity.
+- `fall apart` /fɔːl əˈpɑːrt/       ([Neutral] 崩壊する)            Their marriage fell apart.
+- `fall back on` /fɔːl bæk ɑːn/     ([Neutral] 頼る、最終手段)      I have savings to fall back on.
+- `falsify` /ˈfɔːlsɪfaɪ/            ([Neutral] 偽造する、反証する)  The data falsifies the hypothesis.
+- `falter` /ˈfɔːltər/                ([Neutral] よろめく、躊躇する)  Her voice faltered with emotion.
+- `fan`                            ([Neutral] あおぐ、かき立てる)
 - `farce`                            ([Neutral] 面白く味つけする)
+- `fare`                            ([Neutral] やっていく)
+- `fawn`                            ([Neutral] こびへつらう、甘える)
+- `feign`                            ([Neutral] 装う、でっち上げる)
 - `ferment`                            ([Neutral] 発酵する)
+- `fertilize` /ˈfɜːrtəlaɪz/         ([Technical] 受精させる、施肥) Bees fertilize flowers as they gather nectar.
 - `feud`                            ([Neutral] 長い間反目する)
+- `fiddle`                            ([Neutral] バイオリンを弾く、いじくる)
+- `fight` /faɪt/                    ([Neutral] 戦う、喧嘩する)      They fought over money.
 - `fillet`                            ([Neutral] 切り身にする)
 - `financier`                            ([Neutral] 資金を供給する)
 - `fission`                            ([Neutral] 核分裂する)
 - `flail`                            ([Neutral] 連打する、殻ざおで打つ、激しく揺れる)
+- `flake`                            ([Neutral] はがれ落ちる)
+- `flaunt`                            ([Neutral] 見せびらかす、わがもの顔にふるまう)
+- `fleece`                            ([Neutral] ヒツジの毛を刈る、金品を巻き上げる)
 - `flesh`                            ([Neutral] 肉付けをする)
+- `flex`                            ([Neutral] 筋肉を収縮させる、曲げる、ほぐす、フレックスタイムで働く)
+- `flick`                            ([Neutral] はじく)
+- `flicker`                            ([Neutral] ゆらゆら揺れる、ぴくぴく動かす)
 - `flinch`                            ([Neutral] ひるむ、しりごみする)
+- `fling` /flɪŋ/                    ([Casual] 投げる、放る)         He flung the ball across the field.
 - `flip`                            ([Neutral] はじく、めくる、宙返りする)
 - `flirt`                            ([Neutral] 浮気する、いちゃつく、もてあそぶ)
+- `flit`                            ([Neutral] せわしなく動き回る、時が素早く過ぎ去る)
+- `flounder` /ˈflaʊndər/             ([Neutral] もがく、困惑する)    He floundered during the interview.
+- `flourish` /ˈflɜːrɪʃ/             ([Neutral] 繁栄する)            The arts flourish in this city.
+- `fluff`                            ([Neutral] けばだつ)
+- `fluke`                            ([Neutral] まぐれで手に入れる)
+- `flurry`                            ([Neutral] うろたえる)
 - `flutter`                            ([Neutral] はためく、ぱたぱたする)
+- `foil`                            ([Neutral] 失敗させる、くじく)
+- `follow` /ˈfɑːloʊ/                ([Neutral] 従う、続く)          Please follow the instructions.
+- `fondle`                            ([Neutral] なで回す、愛情を込めて触れる、かわいがる)
+- `forage`                            ([Neutral] 食糧を探し回る)
 - `foray`                            ([Neutral] 略奪する)
 - `foreclose`                            ([Neutral] 担保権を行使する、締め出す、妨害する)
+- `forestall`                            ([Neutral] 未然に防ぐ、先手を打つ、買い占める)
 - `foretell`                            ([Neutral] 予言する、予告する)
+- `forewarn` /fɔːrˈwɔːrn/           ([Formal] 前もって警告する)     We forewarned them of delays.
+- `forgo`                            ([Neutral] なしで済ませる、楽しみを慎む)
+- `forsake`                            ([Neutral] 見捨てる、見放す)
 - `foster`                            ([Neutral] 促進する)
+- `founder`                            ([Neutral] 浸水して沈む)
 - `fox`                            ([Neutral] だます、キツネ狩りをする)
+- `fracture`                            ([Neutral] 壊す)
+- `fragment`                            ([Neutral] 砕ける)
+- `freight`                            ([Neutral] 負わせる、積む)
+- `frenzy`                            ([Neutral] 狂乱させる)
 - `freshen`                            ([Neutral] 新しくする、元気づける、さっぱりさせる)
+- `fret`                            ([Neutral] イライラする、思い悩む、むしばむ)
+- `frill`                            ([Neutral] ひだ飾りを付ける)
+- `frolic`                            ([Neutral] はしゃぐ)
+- `frost`                            ([Neutral] 霜で覆う、霜が降りる)
+- `frown`                            ([Neutral] 眉をひそめる)
+- `frustrate` /ˈfrʌstreɪt/          ([Neutral] 欲求不満にさせる)    The lack of progress frustrates me.
+- `fudge`                            ([Neutral] まともに取り組まない、でっち上げる)
+- `fumble` /ˈfʌmbəl/                 ([Neutral] 手探りする、もたつく) He fumbled for his keys.
 - `funnel`                            ([Neutral] 送る、一カ所に集中する)
+- `furrow`                            ([Neutral] 耕す、しわが寄る)
 - `gag`                            ([Neutral] 口止めする、言論の抑圧をする、さるぐつわをはめる)
+- `gall`                            ([Neutral] すりむく、苛だたせる)
+- `gallop`                            ([Neutral] 全速力で走る)
+- `gape`                            ([Neutral] 口をぽかんと開けて見る、大きく裂ける)
+- `gargle`                            ([Neutral] うがいして清める、がらがら声で言う)
+- `garland`                            ([Neutral] 花輪で飾る)
 - `garnish`                            ([Neutral] 付け合わせをする、飾る)
 - `garrison`                            ([Neutral] 軍隊を配置する)
+- `gasp`                            ([Neutral] あえぐ、息が止まる)
 - `gauge`                            ([Neutral] 測る、評価する)
+- `generalize` /ˈdʒenərəlaɪz/    ([Neutral] 一般化する)          Don't generalize from one example.
+- `germinate` /ˈdʒɜːrmɪneɪt/        ([Formal] 発芽する、芽生える)   The seeds germinated quickly.
+- `get ahead of oneself`            ([Neutral] 先走る、早とちりする) Let's not get ahead of ourselves.
+- `get better` /ɡet ˈbetər/         ([Casual] 良くなる、回復する)   I hope you get better soon.
+- `get home` /ɡet həʊm/            ([Neutral] 帰宅する)            I usually get home around 7 PM.
+- `get in` /ɡet ɪn/                 ([Neutral] 到着する、帰宅する)  What time did you get in last night?
+- `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
+- `get rid of` /ɡet rɪd əv/         ([Casual] 処分する)             Get rid of that old sofa.
+- `get the hang of` /ɡet ðə hæŋ əv/ ([Casual] コツをつかむ)         I'm getting the hang of it now.
+- `get to` /ɡet tuː/                ([Neutral] ～に着く、到着する)  How do I get to the station?
+- `get together` /ɡet təˈɡeðər/     ([Casual] 集まる)               Let's get together with the old college friends
+- `get` /ɡet/                       ([Neutral] 得る、手に入れる)    I need to get some groceries.
+- `get` /ɡɛt/                       ([Neutral] 取ってくる 呼び出す) Can you get the manager?
 - `giddy`                            ([Neutral] めまいがする)
+- `giggle`                            ([Neutral] くっくと笑う)
+- `gild`                            ([Neutral] 金ぱくをかぶせる、うわべを飾る)
+- `gill`                            ([Neutral] 刺し網で捕る、えらやはらわたを取る)
+- `gird` /ɡɜːrd/                     ([Writing] 身構える、備える)    We must gird ourselves for battle.
+- `give the impression` /ɡɪv ði ɪmˈpreʃən/ ([Neutral] 印象を与える) You give the impression of being busy.
+- `glance at` /ɡlæns æt/            ([Neutral] ちらっと見る)        She glanced at her watch.
+- `glaze`                            ([Neutral] 板ガラスをはめる、つやを出す)
+- `gleam`                            ([Neutral] きらりと光る)
+- `glimmer`                            ([Neutral] ちらちら光る)
+- `glimpse`                            ([Neutral] ちらりと見る)
+- `glint`                            ([Neutral] きらっと光る)
+- `glisten`                            ([Neutral] きらきら輝く)
+- `glitter`                            ([Neutral] きらめく、照り輝く)
+- `gloat`                            ([Neutral] ほくそ笑む)
+- `gloom`                            ([Neutral] ゆううつにさせる)
+- `gloss`                            ([Neutral] 光沢をつける)
+- `glut`                            ([Neutral] 十分に食べさせる、欲望を満たす)
+- `gnaw`                            ([Neutral] 悩ます、かじる)
+- `go behind ~'s back`              ([Neutral] 陰で行う)            He went behind his boss's back.
+- `go down` /ɡoʊ daʊn/              ([Neutral] 下りる)              Go down the stairs carefully.
+- `go` /ɡoʊ/                        ([Neutral] 行く、移動する)      Let's go to the store.
+- `goad`                            ([Neutral] あおりたてる、突き棒で追いたてる)
+- `gorge`                            ([Neutral] がつがつと飲み込む)
+- `gouge`                            ([Neutral] えぐる、丸のみで彫る)
+- `grab` /ɡræb/                     ([Casual] つかむ、奪う)         He grabbed my phone and ran.
 - `grace`                            ([Neutral] 優雅にする)
 - `graft`                            ([Neutral] 移植する、接ぎ木をする)
+- `grant` /ɡrɑːnt/                  ([Formal] 認可する、付与する)   The committee granted my request.
+- `grapple`                            ([Neutral] しっかりつかむ、かぎで引っ掛ける)
+- `grate`                            ([Neutral] おろし金でおろす、きしらせる)
+- `gratify`                            ([Neutral] 満足させる、楽しませる)
+- `gravel`                            ([Neutral] 砂利を敷く、当惑させる)
 - `graze`                            ([Neutral] （家畜が）生草を食う、家畜を放牧する、軽く触れる、すりむく)
+- `grease`                            ([Neutral] グリースを塗る)
+- `grieve`                            ([Neutral] 深く悲しむ)
+- `grimace`                            ([Neutral] 顔をゆがめる)
+- `grin`                            ([Neutral] にっこり笑う)
+- `grind`                            ([Neutral] すりつぶす、激しくこすりつける、（刃物を）研ぐ)
+- `groan`                            ([Neutral] うめく)
 - `groom`                            ([Neutral] きれいにする、手入れする)
 - `grope`                            ([Neutral] 模索する、手探りする)
+- `gross out` /ɡroʊs aʊt/           ([Casual] 気持ち悪がらせる)     That smell really grossed me out.
+- `grouse`                            ([Neutral] 不平を言う)
+- `grow` /ɡroʊ/                     ([Neutral] 成長する、増加する)  The company is growing rapidly.
+- `grow` /ɡroʊ/                     ([Neutral] 成長する、拡大する)  The company grew rapidly.
+- `grudge`                            ([Neutral] 出し惜しむ、妬む)
+- `grumble`                            ([Neutral] 不平を言う、ぶつぶつ言う)
+- `grunt`                            ([Neutral] ブーブー鳴く・音をたてる)
+- `gulf`                            ([Neutral] 渦に巻き込む)
+- `gulp`                            ([Neutral] 息が詰まる、むせる、ぐっと飲み込む)
+- `gurgle`                            ([Neutral] （人や鳥が）のどを鳴らす、（水が）ゴボゴボ流れる)
+- `gush`                            ([Neutral] 勢いよく流れ出る、湧き出る)
+- `gust`                            ([Neutral] 急に吹く)
+- `hale`                            ([Neutral] 強く引っ張る)
 - `halve`                            ([Neutral] 半分にする、半減する)
+- `handcuff`                            ([Neutral] 手錠をかける)
+- `hare`                            ([Neutral] 速く走る)
 - `hark`                            ([Neutral] 傾聴する、呼び戻す、過去にさかのぼる)
 - `harness`                            ([Neutral] 役立たせる、利用する)
+- `harrow`                            ([Neutral] 人の心をかき乱す)
 - `harry`                            ([Neutral] うるさく求める、悩ます、何度も攻撃する)
+- `haul`                            ([Neutral] 引っ張る、引きずる、たぐる)
+- `have confidence in`              ([Neutral] 信頼する)            I have confidence in her abilities.
+- `have` /hæv/                      ([Neutral] 受ける、経験する)    I had surgery last week.
 - `haze`                            ([Neutral] かすむ、ぼんやりする)
+- `heads up` /hedz ʌp/              ([Casual] 注意して、気をつけて) Heads up! There's a step there.
+- `hearten`                            ([Neutral] 元気づける、元気が出る)
+- `heave`                            ([Neutral] 持ち上げる、投げる、動かす)
 - `heed`                            ([Neutral] 気をつける、注意する)
 - `helm`                            ([Neutral] 舵をとる、指揮する)
+- `hem`                            ([Neutral] へりを縫う、取り囲む)
+- `herald`                            ([Neutral] 到来を告げる)
+- `hinge on` /hɪndʒ ɑːn/            ([Neutral] 次第である、頼る)    Everything hinges on the outcome.
+- `hint` /hɪnt/                     ([Neutral] ほのめかす、ヒント)  She hinted that she might quit.
+- `hiss`                            ([Neutral] シューと音をたてる、語気強く小声で言う)
 - `hitch`                            ([Neutral] 引っかける、つなぐ、ヒッチハイクする)
+- `hive`                            ([Neutral] 巣箱に集める)
+- `hoax`                            ([Neutral] だます)
+- `hoe`                            ([Neutral] くわで掘る)
+- `hoist`                            ([Neutral] 高く掲げる、持ち上げる)
+- `hold up` /hoʊld ʌp/              ([Casual] 遅らせる)             What's holding you up?
+- `hold` /hoʊld/                    ([Neutral] 拘束する)            The police held him overnight.
+- `hone`                            ([Neutral] 技能を磨く、砥石でとぐ)
+- `honk`                            ([Neutral] 警笛を鳴らす、鳴く)
+- `hoot`                            ([Neutral] わめく、叫ぶ、やじる)
+- `hope for` /hoʊp fɔːr/            ([Neutral] 期待する 望む)       We hope for good weather tomorrow.
+- `horde`                            ([Neutral] 群がる)
+- `hospitalize`                            ([Neutral] 入院させる)
 - `hound`                            ([Neutral] 追跡する)
 - `howl`                            ([Neutral] 遠ぼえする)
+- `hull`                            ([Neutral] 外皮を取る)
+- `hum`                            ([Neutral] ブンブンという音をたてる、鼻歌を歌う)
 - `humble`                            ([Neutral] 謙虚にする)
 - `hump`                            ([Neutral] 背を丸くする、努力する)
+- `hurl`                            ([Neutral] 強く投げる、飛びかかる)
+- `hurrah`                            ([Neutral] フレーと叫ぶ)
+- `hurt` /hɜːrt/                    ([Neutral] 傷つける)            You hurt my feelings.
+- `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
+- `hurtle`                            ([Neutral] 突進する、高速で動く)
 - `hush`                            ([Neutral] 静かにする)
+- `husk`                            ([Neutral] 殻をむく)
+- `hustle` /ˈhʌsəl/                 ([Casual] 急いで動く、頑張る)   We need to hustle to make the deadline.
+- `hut`                            ([Neutral] 小屋に仮泊させる)
 - `hype`                            ([Neutral] 誇大に宣伝する、だます)
+- `ignite`                            ([Neutral] 火をつける、火がつく、燃えたたせる)
+- `ignore` /ɪɡˈnɔːr/                ([Neutral] 無視する)            He ignored my messages.
+- `imbue`                            ([Neutral] 感情をしみ込ませる、吹き込む)
+- `immerse`                            ([Neutral] 浸す、没頭させる)
 - `immunize`                            ([Neutral] 免疫性を与える、無害にする)
 - `impeach`                            ([Neutral] 弾劾する、告発する)
+- `impel`                            ([Neutral] かりたてる、押し進める)
 - `impersonate`                            ([Neutral] ものまねをする、ふりをする、演じる)
 - `impinge`                            ([Neutral] （権利を）侵害する、作用する)
 - `implicate`                            ([Neutral] （意味・結果などを）含意する、犯罪などに巻き込む)
+- `implore` /ɪmˈplɔːr/              ([Formal] 懇願する、哀願する)   I implore you to listen.
+- `imply` /ɪmˈplaɪ/                 ([Neutral] 暗に示す、含意する)  What are you trying to imply?
+- `impose` /ɪmˈpoʊz/               ([Neutral] 課す、押し付ける)    Don't impose your beliefs on others.
+- `imprint`                            ([Neutral] 刻みこむ、押す)
 - `imprison`                            ([Neutral] 刑務所に入れる、監禁する)
+- `improvise`                            ([Neutral] 即興で作る、間に合わせで急場をしのぐ)
+- `inconvenience`                            ([Neutral] ～に迷惑をかける)
 - `incorporate`                            ([Neutral] 組み入れる、合体する、法人組織にする)
 - `incriminate`                            ([Neutral] 有罪とする、訴える、巻き込む)
+- `incubate`                            ([Neutral] ふ化する、培養する、熟考する、企てる)
+- `incur`                            ([Neutral] こうむる、陥る、招く)
+- `indicate` /ˈɪndɪkeɪt/            ([Neutral] 示す、指し示す)      The data indicates a positive trend.
 - `induce`                            ([Neutral] 誘発する、説いて～させる、帰納する)
+- `indulge`                            ([Neutral] ふける、身を任せる、満足させる、甘やかす)
+- `industrialize`                            ([Neutral] 工業化する、工業主義に転換する)
 - `infest`                            ([Neutral] 群がる、出没する)
 - `inflame`                            ([Neutral] 刺激する、燃え上がらせる、火がつく)
+- `inflate`                            ([Neutral] 膨らませる、インフレをもたらす)
 - `infringe`                            ([Neutral] 権利を侵す、違反する)
+- `infuriate`                            ([Neutral] 激怒させる)
+- `infuse`                            ([Neutral] 考えを吹き込む、注ぎ込む、煎じる)
+- `inhabit`                            ([Neutral] 住む)
+- `inhale`                            ([Neutral] 吸い込む、たいらげる)
+- `inhibit`                            ([Neutral] 抑制する、妨げる)
 - `inject`                            ([Neutral] 注入する、注射をする、差しはさむ)
 - `inscribe`                            ([Neutral] ことばを刻む、記す、名前を書いて贈呈する)
+- `insinuate` /ɪnˈsɪnjueɪt/         ([Formal] 遠回しに言う)         What are you insinuating?
 - `instill`                            ([Neutral] 主義・感情を徐々に教え込む、点滴する)
+- `instruct` /ɪnˈstrʌkt/            ([Neutral] 指示する、教える)    She instructed them to wait outside.
 - `insulate`                            ([Neutral] 断熱する、絶縁させる、孤立させる)
+- `insult` /ɪnˈsʌlt/                ([Neutral] 侮辱する)            Don't insult his intelligence.
 - `integrate`                            ([Neutral] 統合する、まとめる、完全なものにする)
 - `inter`                            ([Neutral] 埋葬する、葬る)
 - `interchange`                            ([Neutral] 互いにやりとりする、入れ替える)
+- `interfere with`                  ([Neutral] ～に干渉する)        Don't interfere with their plans.
+- `interlock`                            ([Neutral] 連動させる、組み合わせる、かみあう)
 - `interrogate`                            ([Neutral] 問いただす、質問する)
+- `intimate` /ˈɪntɪmeɪt/            ([Formal] それとなく知らせる)   He intimated his disapproval.
 - `intimidate`                            ([Neutral] 怖がらせる、脅迫する)
 - `intrigue`                            ([Neutral] 好奇心をそそる、計略で達成する、陰謀を企てる)
 - `inundate`                            ([Neutral] 殺到する、氾濫する)
+- `invalidate` /ɪnˈvælɪdeɪt/        ([Formal] 無効にする、論破する) New evidence invalidated the theory.
 - `invert`                            ([Neutral] 上下を逆にする)
+- `invigorate`                            ([Neutral] 活気づける、活性化させる)
 - `irrigate`                            ([Neutral] 灌漑する、水を注ぐ、活性化させる)
+- `jab`                            ([Neutral] 激しく突き刺す、素早い一撃を食わせる)
+- `jack`                            ([Neutral] 高める)
+- `jam`                            ([Neutral] 詰め込む)
+- `jar`                            ([Neutral] ぶつかり合う、きしらせる)
 - `jeopardize`                            ([Neutral] 危うくする)
+- `jerk`                            ([Neutral] ぐいと引っ張る、動かす)
+- `jest`                            ([Neutral] からかう)
+- `jettison`                            ([Neutral] 投げ捨てる)
+- `jigsaw`                            ([Neutral] 糸のこで切る)
+- `jingle`                            ([Neutral] チリンチリンと鳴る、調子よく響く)
+- `jockey`                            ([Neutral] ずるい手を使う)
 - `jolt`                            ([Neutral] 揺する、驚かす、急に引き戻す)
+- `jostle`                            ([Neutral] 乱暴に押す、ひじで突く、押して動かす)
+- `jot`                            ([Neutral] 手早く書き留める)
+- `judge` /dʒʌdʒ/                   ([Neutral] 判断する、審査する)  Don't judge me by my appearance.
+- `jug`                            ([Neutral] 水差しに入れる)
 - `juggle`                            ([Neutral] 曲芸する、手際よくこなす)
 - `jumble`                            ([Neutral] ごたまぜにする)
+- `jut`                            ([Neutral] 突き出る、張り出す)
 - `keel`                            ([Neutral] 転覆する)
+- `kidnap` /ˈkɪdnæp/                ([Neutral] 誘拐する)            They kidnapped the businessman.
+- `kiln`                            ([Neutral] 窯で焼く)
+- `kindle`                            ([Neutral] 火をつける、火をおこす、燃え立たせる、燃える)
+- `kneel` /niːl/                    ([Neutral] ひざまずく)          Please kneel during prayer.
 - `knell`                            ([Neutral] 死を予告する)
+- `knuckle`                            ([Neutral] はじき出す)
+- `lag`                            ([Neutral] 遅れる、低下する)
+- `lament`                            ([Neutral] 悲しむ、後悔する)
 - `lance`                            ([Neutral] 槍で突く、ランセットで切開する)
+- `landscape`                            ([Neutral] 美化する、庭師をする)
 - `languish`                            ([Neutral] みじめに暮らす、活気がなくなる、切望する)
 - `lark`                            ([Neutral] ふざけたいたずらをする)
+- `latch`                            ([Neutral] 掛け金をかける)
+- `lather`                            ([Neutral] 泡立つ、せっけんの泡を塗る)
+- `laugh at` /læf æt/               ([Neutral] 笑う、あざ笑う)      Everyone laughed at his mistake.
 - `launder`                            ([Neutral] 金の出所を隠す、マネーロンダリングする)
 - `leach`                            ([Neutral] 絞り取る、濾過する)
+- `leak` /liːk/                     ([Neutral] 漏らす、漏れる)      Someone leaked the information.
+- `lean on` /liːn ɑːn/              ([Neutral] 頼る、支えにする)    She had her friends to lean on.
+- `lean` /liːn/                     ([Neutral] 傾く、もたれる)      Don't lean against the wet paint.
+- `let out` /let aʊt/               ([Casual] 漏らす、明かす)       Don't let out the secret.
 - `levy`                            ([Neutral] 課税する)
 - `liaison`                            ([Neutral] 連絡する)
 - `libel`                            ([Neutral] 中傷する、告訴する)
+- `lick`                            ([Neutral] なめる)
+- `liken`                            ([Neutral] なぞらえる、例える)
+- `limp`                            ([Neutral] 足を引きずる、のろのろ進む)
 - `liquidate`                            ([Neutral] 負債を清算する、会社を解体する)
+- `listen to` /ˈlɪsən tuː/          ([Neutral] 聴く、耳を傾ける)    Listen to the music.
+- `litter`                            ([Neutral] 散らかす、汚す)
+- `loaf`                            ([Neutral] ぶらつき回る)
+- `lob` /lɑːb/                       ([Neutral] 高く投げる)          He lobbed the ball over the net.
+- `loft`                            ([Neutral] 高く打つ、軌道に打ち上げる)
+- `loiter` /ˈlɔɪtər/                 ([Neutral] うろつく、たむろする) Don't loiter in the hallway.
+- `look out for` /lʊk aʊt fɔːr/     ([Neutral] 面倒を見る)          Can you look out for my brother?
+- `look to` /lʊk tuː/               ([Neutral] 頼る、期待する)      We look to you for guidance.
+- `loom`                            ([Neutral] 不気味に現れる、ぼんやり見える、織る)
+- `loose`                            ([Neutral] 解き放つ、離れる)
+- `loosen`                            ([Neutral] ほどく、ゆるめる、たるむ)
+- `lose one's temper`               ([Neutral] かっとなる)          Don't lose your temper with them.
 - `lubricate`                            ([Neutral] 油を差す、すべすべにする)
+- `lumber`                            ([Neutral] 材木を切り出す)
 - `lunge`                            ([Neutral] 突進する、突き刺す)
+- `lurch`                            ([Neutral] 不意に揺れる)
+- `lure` /lʊr/                      ([Neutral] 誘い込む、誘惑する)  They lured customers with discounts.
 - `lurk`                            ([Neutral] 潜む、こそこそ歩き回る、潜在する)
 - `lust`                            ([Neutral] 切望する)
+- `luster`                            ([Neutral] 光沢をつける)
 - `madden`                            ([Neutral] かんかんに怒らせる、気を変にする)
+- `make a note of` /meɪk ə noʊt/    ([Neutral] メモしておく)        Make a note of this address.
+- `make it` /meɪk ɪt/              ([Casual] 間に合う、到着する)   Can you make it to the meeting by 3 PM?
+- `make` /meɪk/                     ([Neutral] させる、強いる)      They made him apologize.
+- `malign`                            ([Neutral] 害を及ぼす、悪口を言う)
 - `malt`                            ([Neutral] 麦芽にする、麦芽で作る)
+- `manifest` /ˈmænɪfest/            ([Formal] 明示する、現れる)     Her talent manifests in her art.
+- `mar`                            ([Neutral] 完全さを損なう、傷つける、台無しにする)
 - `marshal`                            ([Neutral] 配列させる、案内する)
+- `martyr`                            ([Neutral] 苦しめる)
+- `marvel`                            ([Neutral] 驚く)
+- `mason`                            ([Neutral] れんがで建てる)
 - `massacre`                            ([Neutral] 虐殺する)
+- `mast`                            ([Neutral] マストを立てる)
+- `maze`                            ([Neutral] 当惑させる)
+- `meander`                            ([Neutral] ぶらぶら歩く、曲がりくねって進む)
 - `meddle`                            ([Neutral] よけいな世話を焼く、干渉する、いじくりまわす)
+- `mellow`                            ([Neutral] 熟させる、落ち着く)
 - `menace`                            ([Neutral] 脅迫する)
 - `merchandise`                            ([Neutral] 売買する)
+- `mess with` /mes wɪð/             ([Casual] ちょっかいを出す)     Don't mess with those guys.
 - `mingle`                            ([Neutral] 参加する、混ざる、いっしょになる)
+- `misdirect`                            ([Neutral] 誤って教える、誤った宛名を書く、ねらいを誤る)
+- `misfit`                            ([Neutral] ぴったりしない)
+- `miss out` /mɪs aʊt/              ([Neutral] 機会を逃す)          Don't miss out on this opportunity.
 - `mitigate`                            ([Neutral] 刑罰を軽くする、怒りや過酷さを和らげる)
+- `moan`                            ([Neutral] うめく)
+- `moat`                            ([Neutral] 堀で取り囲む)
+- `mob`                            ([Neutral] 群がって押し寄せる、襲う)
 - `mobilize`                            ([Neutral] 戦時動員する、結集する、準備する)
+- `modernize`                            ([Neutral] 現代化する、当世風にする)
 - `modulate`                            ([Neutral] 調節する、調子を和らげる)
+- `moisten`                            ([Neutral] 湿らす、濡れる)
+- `mold`                            ([Neutral] こねて作る、型に入れて作る)
 - `monopolize`                            ([Neutral] 独占する)
+- `moor`                            ([Neutral] 停泊させる)
 - `moot`                            ([Neutral] 討議する)
+- `moss`                            ([Neutral] コケで覆う)
+- `mound`                            ([Neutral] 土塁を築く、盛り上げる)
 - `mountaineer`                            ([Neutral] 登山する)
+- `mourn`                            ([Neutral] 嘆く、悲しむ)
+- `move` /muːv/                     ([Neutral] 移動する)            We're moving to a new city.
+- `mow`                            ([Neutral] 刈り取る、手当たり次第になぎたおす)
+- `muck` /mʌk/                       ([Casual] 汚す、台無しにする)   Don't muck up the floor.
+- `muffle`                            ([Neutral] 防音のために覆う、顔や首をくるむ)
 - `mug`                            ([Neutral] 襲う、大げさな表情をする)
+- `mum`                            ([Neutral] パントマイムを演じる)
+- `munch`                            ([Neutral] むしゃむしゃ食べる)
 - `muse`                            ([Neutral] 熟考する、思いにふける)
+- `mute`                            ([Neutral] 消す、弱める)
 - `mutilate`                            ([Neutral] 損傷により損なう、手足を切断する)
+- `mutter`                            ([Neutral] 不明瞭な声で言う、ぼそぼそ文句を言う)
+- `muzzle`                            ([Neutral] 口輪をはめる)
 - `mystify`                            ([Neutral] 神秘的にする、煙にまく、欺く)
 - `nap`                            ([Neutral] うたた寝する、まどろむ)
 - `necessitate`                            ([Neutral] 必要とする、強いて～させる)
+- `negate` /nɪˈɡeɪt/                ([Formal] 否定する)             This negates your argument.
+- `nettle`                            ([Neutral] イライラさせる)
 - `neutralize`                            ([Neutral] 中和する、無効にする)
+- `nibble`                            ([Neutral] 少しずつかじる、ちびちび飲む)
+- `nick`                            ([Neutral] 刻み目をつける)
+- `nip`                            ([Neutral] つまむ、はさみきる、はばむ)
 - `nitrate`                            ([Neutral] 硝酸で処理する)
+- `notch`                            ([Neutral] 刻み目をつける)
 - `nourish`                            ([Neutral] ～に栄養分を与える、心に抱く、助長する)
+- `nudge`                            ([Neutral] 軽く押す、ひじでそっと突く)
 - `nurture`                            ([Neutral] 養育する、助成する)
+- `oblige`                            ([Neutral] 強いる、感謝している)
+- `obliterate`                            ([Neutral] 消し去る、消印を押す)
+- `offend` /əˈfend/                 ([Neutral] 不快にさせる)        I didn't mean to offend you.
+- `ooze`                            ([Neutral] 流れ出る、みなぎらせる)
 - `oppress`                            ([Neutral] しいたげる、圧迫する、重くのしかかる)
 - `orchestrate`                            ([Neutral] 組織する、まとめ上げる)
 - `ordain`                            ([Neutral] 任命する、定める、運命づける、規定する)
+- `originate` /əˈrɪdʒɪneɪt/         ([Formal] 起こる、始まる)       The idea originated in Japan.
 - `oscillate`                            ([Neutral] 振り子のように振れる、動揺する)
+- `outcry`                            ([Neutral] 大声を出す)
 - `outlaw`                            ([Neutral] 追放する、不法とする、禁止する)
 - `outlay`                            ([Neutral] 出費する)
+- `outnumber`                            ([Neutral] 数で勝る)
+- `outstrip`                            ([Neutral] 追い越す、～より勝る)
+- `outweigh`                            ([Neutral] 勝る、より重い)
+- `outwit`                            ([Neutral] 裏をかく、出し抜く)
+- `overcrowd`                            ([Neutral] 詰め込みすぎる、混雑させる)
+- `overdose`                            ([Neutral] 薬を飲みすぎる)
 - `overhaul`                            ([Neutral] 徹底的に点検する)
 - `overlap`                            ([Neutral] 重なる、一部を覆う、部分的に一致する)
+- `overload`                            ([Neutral] 荷を積みすぎる、負荷をかけすぎる)
 - `overpower`                            ([Neutral] 征服する、圧倒する、過度の力を加える)
 - `overrate`                            ([Neutral] 過大に評価する)
 - `overrun`                            ([Neutral] 群がる、圧倒する、急速に広まる、走り越す、オーバーランする)
 - `oversee`                            ([Neutral] 監督する、こっそり見る)
+- `overshadow`                            ([Neutral] 見劣りさせる、影を投げかける)
+- `overstate`                            ([Neutral] 誇張して話す、大げさに述べる)
+- `overtake`                            ([Neutral] 追い越す、追いつく)
+- `overture`                            ([Neutral] 申し出る)
 - `overturn`                            ([Neutral] 転覆する、ひっくりかえす、打倒する)
 - `pad`                            ([Neutral] 当てものをする)
+- `paddle`                            ([Neutral] こぐ、へら棒で打つ)
 - `panhandle`                            ([Neutral] 物乞いする)
+- `pant`                            ([Neutral] 荒い息をする、あえぎながら言う)
 - `partake`                            ([Neutral] 参加する、食べる、（性質を）いくぶん帯びる)
 - `partition`                            ([Neutral] 分配する)
 - `pasture`                            ([Neutral] 放牧する)
 - `patronize`                            ([Neutral] 恩着せがましくする、ひいきにする、後援する)
+- `patter`                            ([Neutral] パラパラと音をたてる、早口に話す)
+- `paw`                            ([Neutral] 足でたたく)
+- `pawn`                            ([Neutral] 質に入れる)
+- `peacock`                            ([Neutral] 見えを張る)
+- `peal`                            ([Neutral] 鳴り響かせる)
+- `pebble`                            ([Neutral] 石目をつける)
+- `peddle`                            ([Neutral] 広めようとする、売り歩く)
 - `peek`                            ([Neutral] そっとのぞく、盗み見する)
+- `peep`                            ([Neutral] のぞく)
+- `peg`                            ([Neutral] くぎを打つ)
+- `pelt`                            ([Neutral] 投げつける、強く打つ、質問や非難を浴びせる)
 - `penance`                            ([Neutral] 罰する)
+- `pep`                            ([Neutral] 元気づける)
+- `perch`                            ([Neutral] （木に）止まる、止まらせる)
+- `peril`                            ([Neutral] 危険にさらす)
+- `perish`                            ([Neutral] 災害などで死ぬ、消える)
+- `perk`                            ([Neutral] 頭を元気よく上げる、元気を取り戻す)
 - `permeate`                            ([Neutral] しみ込む、浸透する、通り抜ける)
+- `perpetrate`                            ([Neutral] 犯罪や過失を犯す、しでかす)
 - `perpetuate`                            ([Neutral] 永存させる、不朽にする)
+- `perplex`                            ([Neutral] 当惑させる、迷わす)
+- `personalize`                            ([Neutral] 個人のものにする、特定の人向けにする、擬人化する)
+- `persuade` /pərˈsweɪd/            ([Neutral] 説得する)            He persuaded me to stay.
 - `pertain`                            ([Neutral] 付属する、関係する、ふさわしい)
 - `peruse`                            ([Neutral] 詳細に調べる、熟読する)
 - `pervade`                            ([Neutral] 全体に普及する、充満する)
 - `pervert`                            ([Neutral] （正しい道を）逸れる、曲解する)
+- `petition` /pəˈtɪʃən/             ([Formal] 請願する、嘆願する)   Citizens petitioned the government.
+- `pew`                            ([Neutral] ベンチ席を設ける)
 - `photocopy`                            ([Neutral] 複写する)
+- `pike`                            ([Neutral] 槍で突く)
 - `pilfer`                            ([Neutral] くすねる、盗塁する)
 - `pilgrim`                            ([Neutral] 放浪する)
 - `pilgrimage`                            ([Neutral] 巡礼する)
 - `pillage`                            ([Neutral] 略奪する、ぶんどる)
+- `pin hopes on` /pɪn hoʊps ɑːn/    ([Neutral] 期待をかける)        They pinned their hopes on winning.
+- `pinch`                            ([Neutral] 締めつける、挟む)
+- `pine`                            ([Neutral] 思いこがれる)
+- `pique`                            ([Neutral] 憤慨させる、あおる)
 - `pirate`                            ([Neutral] 海賊行為をする)
 - `pivot`                            ([Neutral] 旋回心軸で回転する)
 - `placard`                            ([Neutral] はり紙をする)
+- `place reliance on`               ([Formal] 信頼を置く)           We place reliance on your expertise.
+- `plank`                            ([Neutral] 厚板を張る、板の上で料理して出す)
+- `plaster`                            ([Neutral] しっくいを塗る)
+- `plateau`                            ([Neutral] 停滞期に入る)
+- `plead` /pliːd/                   ([Neutral] 嘆願する、弁護する)  She pleaded for mercy.
+- `please` /pliːz/                  ([Neutral] お願いする 喜ばせる) Please help me with this.
+- `plod`                            ([Neutral] こつこつ進める、重い足どりで歩く)
+- `plow`                            ([Neutral] すきで耕す)
+- `pluck`                            ([Neutral] 引き抜く、引っ張る)
 - `plumb`                            ([Neutral] 垂直にする、垂直かどうか調べる)
+- `plume`                            ([Neutral] 羽毛をつける、羽毛を整える)
 - `plummet`                            ([Neutral] まっすぐに落ちる、急落する)
 - `plunder`                            ([Neutral] 略奪する)
+- `plunge`                            ([Neutral] 飛び込む、浸す、押し込む)
+- `ply`                            ([Neutral] せっせと働かせる、どんどん勧める)
 - `poach`                            ([Neutral] 侵入する、密猟する)
 - `polarize`                            ([Neutral] 分裂する、対立させる、分極化させる)
+- `populate`                            ([Neutral] 住む、住みつく、～の住民である、人を居住させる)
+- `portray` /pɔːrˈtreɪ/             ([Neutral] 描写する、演じる)    The actor portrayed a villain.
 - `pose`                            ([Neutral] ふりをする、ポーズをとらせる)
 - `posh`                            ([Neutral] おめかしする)
+- `posture`                            ([Neutral] ある姿勢をとる)
 - `pounce`                            ([Neutral] 突然飛びかかる、激しく非難する、わしづかみにする)
+- `pour out` /pɔːr aʊt/             ([Casual] 吐き出す、打ち明ける) She poured out her troubles to me.
 - `pout`                            ([Neutral] ふくれっ面をする、唇を突き出す)
 - `prank`                            ([Neutral] いたずらをする)
+- `prawn`                            ([Neutral] エビを捕らえる)
 - `precede`                            ([Neutral] 先行する、上位である)
 - `preclude`                            ([Neutral] 妨げる、排除する)
+- `predicate`                            ([Neutral] 基礎を置く、含意する、断言する)
+- `premiere`                            ([Neutral] 初公開される)
 - `premise`                            ([Neutral] 前提とする)
 - `preoccupy`                            ([Neutral] 夢中にする、心を奪う、先取りする)
 - `presage`                            ([Neutral] 前もって知らせる、予感する)
+- `present` /prɪˈzent/              ([Neutral] 提示する、発表する)  She will present her findings.
 - `preside`                            ([Neutral] 取りしきる、主宰する、中心的な位置を占める)
+- `press` /pres/                    ([Neutral] 強く勧める、迫る)    They pressed him for an answer.
 - `pretext`                            ([Neutral] 口実にする)
 - `prey`                            ([Neutral] 捕食する、えじきにする)
+- `prim`                            ([Neutral] きちんと整える)
+- `privatize`                            ([Neutral] 民営化する)
+- `procrastinate`                            ([Neutral] ぐずぐずと引き延ばす)
+- `prod` /prɑːd/                    ([Neutral] 促す、刺激する)      She prodded him to finish the work.
 - `profane`                            ([Neutral] 冒とくする)
 - `profess`                            ([Neutral] 明言する、教える、装う)
+- `proffer`                            ([Neutral] 提供する、申し出る)
+- `proliferate` /prəˈlɪfəreɪt/       ([Formal] 急増する、繁殖する)   Smartphones proliferated rapidly.
+- `proliferate` /prəˈlɪfəreɪt/      ([Formal] 急増する、拡散する)   Fake news proliferates online.
+- `promenade`                            ([Neutral] 散歩する、連れて歩く)
+- `promise` /ˈprɑːmɪs/              ([Neutral] 約束する、保証する)  She promised to call.
+- `prompt` /prɑːmpt/                ([Neutral] 促す、引き起こす)    What prompted you to call?
+- `promulgate` /ˈprɑːməlɡeɪt/       ([Writing] 公布する、広める)    The law was promulgated yesterday.
+- `prop`                            ([Neutral] 支える、もたせかける)
+- `propagate` /ˈprɑːpəɡeɪt/         ([Formal] 広める、伝播する)     They propagated their beliefs widely.
+- `propel`                            ([Neutral] 進ませる、精進させる、かりたてる)
+- `proportionate`                            ([Neutral] 比例させる)
 - `proposition`                            ([Neutral] 計画を提案する)
 - `prosecute`                            ([Neutral] 起訴する、請求する、推し進める、営む)
 - `prosper`                            ([Neutral] 成功する、栄える)
 - `prostitute`                            ([Neutral] 才能・能力を金のために使う、売春する)
+- `prostrate`                            ([Neutral] ひれ伏す、横たえる)
+- `protrude`                            ([Neutral] 突き出る、突き出す)
+- `prove` /pruv/                    ([Neutral] 証明する)            She proved her innocence.
+- `provoke` /prəˈvoʊk/              ([Neutral] 引き起こす)          His words provoked anger.
+- `prowl`                            ([Neutral] こそこそとうろつく)
+- `prune`                            ([Neutral] 刈り込む、削る)
+- `pry`                            ([Neutral] てこで動かす、苦労して引き出す)
+- `psalm`                            ([Neutral] 賛美歌でたたえる)
+- `publicize` /ˈpʌblɪsaɪz/          ([Neutral] 公表する、宣伝する)  They publicized the event heavily.
+- `puddle`                            ([Neutral] 水たまりを作る)
+- `puff`                            ([Neutral] ぷっと吹き出す)
 - `pulp`                            ([Neutral] パルプにする)
 - `pulse`                            ([Neutral] 鼓動する)
+- `pun`                            ([Neutral] しゃれを言う)
 - `punctuate`                            ([Neutral] 句読点をつける、中断させる、強調する)
+- `puncture`                            ([Neutral] 刺して穴をあける)
 - `purge`                            ([Neutral] 追放する、清める)
+- `purport`                            ([Neutral] 称する、主張する、意味する)
+- `purr`                            ([Neutral] （猫が）のどを鳴らす、満足げな様子を示す)
+- `push the boundaries` /pʊʃ ðə ˈbaʊndriz/ ([Neutral] 限界を押し広げる)   This research pushes the boundaries of science.
+- `push` /pʊʃ/                      ([Casual] 押す、強く勧める)     Don't push me to decide now.
+- `put on` /pʊt ɒn/                 ([Neutral] 着る、身に着ける)    Please put on your jacket.
 - `putt`                            ([Neutral] ゴルフの球をパットする)
 - `quadruple`                            ([Neutral] 4倍にする・なる)
+- `quake`                            ([Neutral] 震える、おののく、揺れる)
 - `quarantine`                            ([Neutral] 隔離する)
+- `quarry`                            ([Neutral] あさる)
 - `quash`                            ([Neutral] 抑える、鎮圧する、無効にする)
+- `quaver`                            ([Neutral] （音が）震える、わなわな震える)
 - `quell`                            ([Neutral] 鎮圧する、和らげる)
+- `quest`                            ([Neutral] 探し求める)
+- `queue`                            ([Neutral] 列をつくらせる)
+- `quip`                            ([Neutral] 皮肉を言う)
+- `quit` /kwɪt/                     ([Casual] 辞める)               I quit my job yesterday.
+- `quiver`                            ([Neutral] ブルブル震える、揺れる、震わせる)
 - `quote`                            ([Neutral] 引用する、示す)
+- `rack`                            ([Neutral] ラックに入れる)
 - `radiate`                            ([Neutral] 放射状に広がる、発する、輝く)
+- `rag`                            ([Neutral] 着飾る、しかる、いじめる)
+- `rake`                            ([Neutral] くま手で集める、除く)
+- `ram`                            ([Neutral] 大きな力でぶつける)
+- `ramble`                            ([Neutral] 散歩する、曲がりくねっている、とりとめもなく話す)
+- `rampart`                            ([Neutral] 城壁で囲む)
+- `ransom` /ˈrænsəm/                 ([Neutral] 身代金で取り戻す)    They ransomed the hostages.
+- `rant`                            ([Neutral] わめく、大きなことを言う)
+- `rapture`                            ([Neutral] 有頂天にさせる)
 - `rasp`                            ([Neutral] ヤスリでこする、苛だたせる)
+- `rat out` /ræt aʊt/               ([Casual] 密告する、ちくる)     He ratted out his accomplice.
 - `ratify`                            ([Neutral] 承認する、批准する)
 - `ration`                            ([Neutral] 支給する、制限する)
+- `rationalize`                            ([Neutral] 合理的に説明する、合理化する、正当化する、推理する)
+- `rattle`                            ([Neutral] ガタガタ鳴る、音をたてて走る)
+- `ravage`                            ([Neutral] 破壊する、略奪する)
+- `rave`                            ([Neutral] うわごとを言う、熱弁をふるう、わめきたてる)
+- `raze`                            ([Neutral] 徹底的に破壊する、こすり落とす)
+- `reach` /riːtʃ/                  ([Neutral] 到着する、達する)    We reached Tokyo by train.
 - `reap`                            ([Neutral] 収穫する)
+- `rebate` /ˈriːbeɪt/                ([Neutral] リベートを与える)    The company rebated part of the cost.
 - `rebuff`                            ([Neutral] 拒絶する)
+- `rebut` /rɪˈbʌt/                  ([Formal] 反論する、反証する)   He rebutted the accusations firmly.
+- `recapture`                            ([Neutral] 再び捕らえる、取り戻す、思い出す)
 - `recharge`                            ([Neutral] 再充電する、元気を回復させる)
+- `recite`                            ([Neutral] 暗唱する、話す)
+- `reckon on` /ˈrekən ɑːn/          ([Casual] 当てにする、期待する) I hadn't reckoned on rain.
 - `reclaim`                            ([Neutral] 開墾する、埋め立てる、再利用する)
 - `recoil`                            ([Neutral] （バネなどが）反動ではね返る、後ずさりする)
+- `recompense`                            ([Neutral] 報いる)
+- `recount`                            ([Neutral] 詳しく話す、物語る)
 - `recreate`                            ([Neutral] 気晴らしをする、気晴らしさせる、レクリエーションをする)
 - `rectify`                            ([Neutral] 調整する、修正する)
 - `recur`                            ([Neutral] 再発する、循環する)
 - `redden`                            ([Neutral] 赤くなる、赤くする)
 - `redeem`                            ([Neutral] （商品券などを商品などと）引き換える、償う、名誉をばん回する)
 - `redress`                            ([Neutral] 正す、苦痛を軽減する)
+- `reduce` /rɪˈduːs/                ([Neutral] 減らす)              We need to reduce costs.
+- `reed`                            ([Neutral] アシで飾る、（楽器などに）舌をつける)
+- `reel`                            ([Neutral] 巻き取る)
 - `reelect`                            ([Neutral] 再選する)
 - `refill`                            ([Neutral] 再び満たす、詰め替える、補充する)
+- `refrain from` /rɪˈfreɪn frʌm/    ([Formal] 控える、慎む)         Please refrain from smoking here.
 - `refurbish`                            ([Neutral] 改装する、磨き直す)
+- `refute` /rɪˈfjuːt/               ([Formal] 論破する、反駁する)   She refuted the allegations completely.
 - `regiment`                            ([Neutral] 連隊に編入する、厳しく訓練する)
+- `rehearse`                            ([Neutral] 稽古する、詳しく述べる)
 - `reign`                            ([Neutral] 支配する)
 - `reimburse`                            ([Neutral] 返済する、弁償する)
+- `reinstate`                            ([Neutral] 回復させる、元の地位に戻す)
+- `reiterate`                            ([Neutral] 繰り返して言う、何度も行う)
+- `rejoice`                            ([Neutral] 喜ぶ)
+- `relate to` /ɹɪˈleɪt tuː/         ([Neutral] 共感する、関連する)  I can relate to your experience.
+- `relate` /rɪˈleɪt/             ([Neutral] 関連する、関係づける) This issue relates to security.
+- `release` /rɪˈliːs/               ([Neutral] 解放する、発散する)  Exercise helps release stress.
 - `relegate`                            ([Neutral] 追いやる、任せる、分類する)
 - `relish`                            ([Neutral] 享受する、風味がある)
+- `relocate` /ˌriːloʊˈkeɪt/         ([Neutral] 移転する)            The company relocated to Texas.
+- `rely on` /rɪˈlaɪ ɑːn/            ([Neutral] 頼る、依存する)      We rely on public transport.
+- `remind` /rɪˈmaɪnd/               ([Neutral] 思い出させる、注意)  Remind me to call tomorrow.
+- `reminisce`                            ([Neutral] 思い出を語る、楽しく思い出す)
 - `render`                            ([Neutral] （～に）する、させる、与える)
 - `rendezvous`                            ([Neutral] 集合する)
 - `repatriate`                            ([Neutral] 本国に送還する)
+- `repeat` /rɪˈpiːt/                    ([Neutral] 繰り返す)           Please repeat what you said.
 - `repel`                            ([Neutral] 撃退する、防ぐ)
+- `repent`                            ([Neutral] 悔い改める、悔やむ)
 - `replay`                            ([Neutral] 再生する、再演する)
 - `replenish`                            ([Neutral] 継ぎ足す、補給する)
+- `repose trust in`                 ([Writing] 信頼を置く)          They reposed their trust in him.
 - `repose`                            ([Neutral] 休息する)
+- `represent` /ˌreprɪˈzent/         ([Neutral] 代表する、表す)      The flag represents our nation.
 - `repress`                            ([Neutral] 抑制する)
 - `reprint`                            ([Neutral] 増刷する、再び焼き付ける、転載する)
 - `repudiate`                            ([Neutral] 否認する、拒否する、妻子を捨てる)
+- `request` /rɪˈkwest/              ([Neutral] 要請する、頼む)      I request your assistance.
 - `reside`                            ([Neutral] 住む、存在する、備わっている)
 - `resin`                            ([Neutral] 樹脂加工する)
+- `resort to` /rɪˈzɔːrt tuː/        ([Neutral] 頼る、手段に訴える)  They resorted to borrowing money.
+- `resort`                            ([Neutral] 訴える、頼る)
+- `rest on` /rest ɑːn/              ([Formal] 基づく、頼る)         Our hopes rest on this decision.
 - `resuscitate`                            ([Neutral] 生き返らせる、よみがえらせる、復活する)
 - `retail`                            ([Neutral] 小売りをする、受け売りする)
 - `retaliate`                            ([Neutral] 仕返しする)
@@ -1983,740 +2206,426 @@
 - `retract`                            ([Neutral] 撤回する)
 - `reunite`                            ([Neutral] 再結合させる、再会する)
 - `revamp`                            ([Neutral] 刷新する、改造する)
+- `reveal` /rɪˈviːl/                ([Neutral] 明らかにする)        She revealed her true feelings.
+- `revel`                            ([Neutral] 非常に喜ぶ、どんちゃん騒ぎをする)
 - `reverberate`                            ([Neutral] 反響する、反射する)
+- `revert`                            ([Neutral] 戻る、再び始める)
+- `revitalize` /riːˈvaɪtəlaɪz/       ([Neutral] 活性化する)          The plan will revitalize the economy.
 - `riddle`                            ([Neutral] なぞをかける、穴だらけにする、満たす)
 - `rig`                            ([Neutral] 不正に操作する、急いで作る)
+- `rim`                            ([Neutral] 縁取る)
+- `rind`                            ([Neutral] 外皮をはぐ)
+- `rinse`                            ([Neutral] すすぐ)
+- `riot`                            ([Neutral] 暴動を起こす)
+- `rip`                            ([Neutral] 引き裂く、暴く、はぎ取る)
+- `ripple`                            ([Neutral] さざ波を立てる、波紋のように広がる)
 - `rivet`                            ([Neutral] びょうで留める、しっかり固定する)
+- `roar`                            ([Neutral] わめく、怒鳴る)
+- `rogue`                            ([Neutral] だます)
 - `romp`                            ([Neutral] はしゃぎ回る、楽勝する)
+- `roost`                            ([Neutral] 止まり木に止まる)
+- `rot`                            ([Neutral] 腐る、やつれる、堕落させる)
+- `rouge`                            ([Neutral] 紅をつける)
+- `rout`                            ([Neutral] 完敗させる)
 - `rove`                            ([Neutral] 放浪する、目がきょろきょろする)
+- `rubbish`                            ([Neutral] けなす)
 - `ruddy`                            ([Neutral] 赤くする)
 - `ruffle`                            ([Neutral] 羽を逆立てる、波だたせる、くしゃくしゃにする)
+- `rumble`                            ([Neutral] ゴロゴロ音をたてる、とどろく)
 - `ruminate`                            ([Neutral] 思い巡らす、反すうする)
+- `rummage`                            ([Neutral] くまなく捜す、捜し出す)
+- `run out of` /rʌn aʊt ʌv/        ([Neutral] 使い果たす)          We ran out of milk.
+- `rush` /rʌʃ/                      ([Neutral] 急ぐ、突進する)      We rushed to the hospital.
+- `rustle`                            ([Neutral] カサカサ音をたてる、活発に動く、てきぱきと動かす)
 - `saddle`                            ([Neutral] 鞍を置く、課する)
+- `sag`                            ([Neutral] 落ち込む、たるむ)
 - `salvage`                            ([Neutral] 火災から財貨を救出する)
+- `sap`                            ([Neutral] 徐々に奪う)
 - `sardine`                            ([Neutral] すし詰めにする)
+- `satisfy` /ˈsætɪsfaɪ/             ([Neutral] 満足させる)          This answer will satisfy your question.
+- `saturate`                            ([Neutral] 浸す、満たす、飽和させる、没頭させる)
 - `savage`                            ([Neutral] 猛烈に攻撃する)
+- `savor`                            ([Neutral] 十分に味わう)
 - `scare off` /skɛər ɔːf/            ([Neutral] 追い払う)            The alarm scared off the burglar.
+- `scoop`                            ([Neutral] すくう、掘る)
+- `scope`                            ([Neutral] よく見る)
 - `scorch`                            ([Neutral] 表面を焼く、枯らす、酷評する、焦げる)
+- `scour`                            ([Neutral] こすって磨く、捜し回る、書類を徹底的に調べる)
+- `scourge`                            ([Neutral] 苦しませる、むちで打つ)
 - `scout`                            ([Neutral] 調査する、偵察する)
+- `scowl`                            ([Neutral] にらむ、顔をしかめる)
+- `scrabble`                            ([Neutral] かき回して捜す、ひっかく)
 - `scrape`                            ([Neutral] すりむく、こする)
 - `scrawl`                            ([Neutral] ぞんざいに書く、走り書きする、落書きする)
+- `screech`                            ([Neutral] 悲鳴をあげる、金切り声で言う)
 - `scribble`                            ([Neutral] なぐり書きする、落書きする)
 - `scrub`                            ([Neutral] ごしごしこする、取りやめる)
+- `scrutinize`                            ([Neutral] 詳細に調べる、じろじろ見る)
+- `scuffle`                            ([Neutral] 取っ組み合う、慌てふためいて歩く)
 - `sculpture`                            ([Neutral] 彫刻する)
+- `scuttle`                            ([Neutral] 船底に穴をあけて沈没させる、慌てて走る)
+- `sear`                            ([Neutral] 表面を焼く、強く焼きつく)
+- `season` /ˈsiːzən/                ([Neutral] 味付けする)          Season the meat with salt.
 - `secede`                            ([Neutral] 脱退する)
 - `seclude`                            ([Neutral] 引きこもらせる、隔離する)
 - `secrete`                            ([Neutral] 分泌する)
+- `sedate`                            ([Neutral] 鎮静させる)
+- `see a doctor`                    ([Neutral] 医者に診てもらう)    I need to see a doctor about this pain.
+- `seem` /siːm/                    ([Neutral] ～のようだ)          He seems tired today.
 - `seep`                            ([Neutral] しみ込む、漏れる、浸透する)
+- `seethe` /siːð/                    ([Neutral] 煮えくり返る)        He was seething with anger.
+- `segregate`                            ([Neutral] 分離する、別れる)
+- `sequester`                            ([Neutral] 引きこもらせる、一時差し押さえる)
 - `sever`                            ([Neutral] 切断する、不和にする、分かれる)
+- `sewer`                            ([Neutral] 下水設備を設ける)
 - `shackle`                            ([Neutral] 拘束する)
 - `sham`                            ([Neutral] 偽造する)
+- `share` /ʃɛər/                    ([Neutral] 共有する 分かち合う) Let me share some news with you.
 - `shatter`                            ([Neutral] 粉々になる、害する、くじく)
+- `shear`                            ([Neutral] 毛を刈り込む、はぎ取る)
 - `shelve`                            ([Neutral] 棚に載せる、棚上げにする)
 - `shepherd`                            ([Neutral] （羊の）番をする)
+- `shimmer`                            ([Neutral] かすかに光る、揺らめく)
 - `shiver`                            ([Neutral] 身震いする、おののく、揺れる)
 - `shoplift`                            ([Neutral] 万引する)
+- `shore` /ʃɔːr/                     ([Neutral] 支える、補強する)    We need to shore up the wall.
+- `shorten` /ˈʃɔːrtən/              ([Neutral] 短くする)            We need to shorten the presentation.
+- `shove`                            ([Neutral] 押す、押し込む、押しのける、突く)
+- `show up` /ʃoʊ ʌp/                ([Neutral] 現れる、姿を見せる)  He finally showed up at noon.
+- `show` /ʃoʊ/                      ([Neutral] 示す、見せる)        Show me what you mean.
+- `shred`                            ([Neutral] シュレッダーにかける)
+- `shriek`                            ([Neutral] 金切り声で叫ぶ)
+- `shrug`                            ([Neutral] 肩をすくめる)
 - `shudder`                            ([Neutral] 震える、激しく震動する)
+- `shuffle`                            ([Neutral] 足をひきずって歩く、言い抜ける、シャッフルする)
+- `sicken`                            ([Neutral] むかつかせる、吐き気を催させる、病気になる)
+- `sickle`                            ([Neutral] 鎌で刈る)
+- `sideline`                            ([Neutral] （事故や負傷が）出場を妨げる)
+- `sieve`                            ([Neutral] ふるいにかける)
+- `sift`                            ([Neutral] ふるいにかける、調べる)
+- `signify` /ˈsɪɡnɪfaɪ/             ([Formal] 意味する、示す)       What does this symbol signify?
+- `silhouette`                            ([Neutral] シルエットで描く)
+- `simmer`                            ([Neutral] ぐつぐつ煮える、今にも爆発しそうな)
+- `sink`                            ([Neutral] 沈む、徐々に下がる、沈める)
+- `sip`                            ([Neutral] ちびちび飲む)
+- `sire`                            ([Neutral] （馬などが）子を産む、雄親となる)
 - `siren`                            ([Neutral] サイレンを鳴らす、誘惑する)
+- `sit` /sɪt/                       ([Neutral] 座る)                Sit down and relax.
+- `skid`                            ([Neutral] 滑る、横滑りさせる)
+- `skim`                            ([Neutral] ざっと読む、すくい取る)
 - `skyrocket`                            ([Neutral] 高騰する、急騰する)
 - `slab`                            ([Neutral] 厚板にする)
 - `slacken`                            ([Neutral] 商売が不活発になる、ぞんざいにする、緩める)
 - `slander`                            ([Neutral] 中傷する)
 - `slash`                            ([Neutral] 深く切りつける、削減する)
 - `slaughter`                            ([Neutral] 解体処理する、虐殺する)
+- `slay`                            ([Neutral] 殺す、絶滅させる)
+- `sled`                            ([Neutral] そりですべる)
 - `sleek`                            ([Neutral] なめらかにする)
+- `sling`                            ([Neutral] 投げる)
+- `slither`                            ([Neutral] ずるずる滑る、滑るように進む、（ヘビなどが）するすると這う)
+- `slouch`                            ([Neutral] 前かがみになる)
 - `slur`                            ([Neutral] 中傷する)
+- `smack` /smæk/                    ([Casual] 叩く)                 She smacked him across the face.
+- `smear`                            ([Neutral] 塗りつける)
 - `smelt`                            ([Neutral] 溶解する)
+- `smirk`                            ([Neutral] にやにや笑う)
+- `smite`                            ([Neutral] 打ち倒す、心を強く打つ)
+- `smock`                            ([Neutral] スモックを着せる、刺繍で飾る)
+- `smolder`                            ([Neutral] 感情をたぎらせる、くすぶる)
+- `smother`                            ([Neutral] 窒息させる、たっぷりかける、押し隠す)
+- `smudge`                            ([Neutral] 汚す、いぶす)
 - `smuggle`                            ([Neutral] 密輸入・輸出する、こっそり持ち込む・持ち去る)
 - `snag`                            ([Neutral] じゃまをする)
 - `snap`                            ([Neutral] パチンと鳴らす、プツンと切れる、素早く行う)
+- `snare`                            ([Neutral] わなにかける、誘惑して～させる)
+- `sneak`                            ([Neutral] こそこそ歩く、こっそり入る、くすねる)
 - `sneeze`                            ([Neutral] くしゃみする)
+- `sniff`                            ([Neutral] においをかぐ、鼻であしらう)
+- `snip`                            ([Neutral] チョキンと切る)
+- `snitch` /snɪtʃ/                  ([Casual] 密告する、ちくる)     Don't snitch on your friends.
 - `snooze`                            ([Neutral] うたた寝する)
+- `snore`                            ([Neutral] いびきをかく、眠りほうけて過ごす)
+- `snort`                            ([Neutral] 鼻を鳴らす、大声で笑う、吸う、シューッと吹き出す)
 - `snowball`                            ([Neutral] 加速度的に大きくする)
+- `snuff`                            ([Neutral] 鼻で吸う、かぎつける、消す)
+- `sob`                            ([Neutral] むせび泣く、うめく)
+- `sodden`                            ([Neutral] びっしょり濡らす)
 - `sojourn`                            ([Neutral] 滞在する)
+- `solicit` /səˈlɪsɪt/              ([Formal] 求める、勧誘する)     He solicited donations for charity.
 - `soot`                            ([Neutral] すすだらけにする)
 - `sortie`                            ([Neutral] 出撃する)
+- `sound like` /saʊnd laɪk/        ([Casual] ～のように聞こえる)   You sound like you're angry.
+- `spank`                            ([Neutral] （罰として）たたく)
 - `spar`                            ([Neutral] スパーリングをする、言い争う)
 - `spawn`                            ([Neutral] 産む、産卵する)
+- `spear`                            ([Neutral] 突き刺す)
+- `spearhead`                            ([Neutral] 先頭に立つ)
 - `speck`                            ([Neutral] しみをつける、点在する)
+- `spend` /spend/                   ([Neutral] 使う、費やす)        I spend too much on clothes.
+- `spill` /spɪl/                    ([Casual] こぼす、漏らす)       She spilled the beans about the surprise.
+- `spire`                            ([Neutral] 高くそびえる)
+- `spit`                            ([Neutral] 吐き出す、つばを吐く、突き刺す)
 - `spite`                            ([Neutral] ～に意地悪をする)
+- `splice`                            ([Neutral] 木材や縄などを継ぐ)
 - `splinter`                            ([Neutral] ばらばらにする)
+- `spook`                            ([Neutral] 怖がらせる、（幽霊が）出る)
 - `spout`                            ([Neutral] 噴出する、まくしたてる)
+- `sprawl`                            ([Neutral] 四方に広がる、手足を広げる)
+- `spread` /spred/                  ([Neutral] 広める、広がる)      The news spread quickly.
+- `spree`                            ([Neutral] 浮かれる)
 - `sprout`                            ([Neutral] 生長しはじめる、発芽する)
 - `spruce`                            ([Neutral] こぎれいにする)
 - `spur`                            ([Neutral] 拍車をかける、刺激する)
+- `spurn`                            ([Neutral] はねつける、鼻であしらう)
 - `spurt`                            ([Neutral] 噴出する、大奮闘する)
-- `squabble`                            ([Neutral] 言い争いをする)
-- `squirm`                            ([Neutral] もじもじする、もがいて逃げる)
-- `squirt`                            ([Neutral] 吹きかける、噴出する)
-- `sterilize`                            ([Neutral] 殺菌する、不妊にする、不毛にする)
-- `stiffen`                            ([Neutral] こわばらせる、強める、硬直する、緊張する)
-- `stifle`                            ([Neutral] 窒息させる、鎮圧する)
-- `stipulate`                            ([Neutral] 条件として要求する、約束する)
-- `stoke`                            ([Neutral] かき立てる、補給する、腹ごしらえをする)
-- `stopper`                            ([Neutral] 栓をする)
-- `strangle`                            ([Neutral] 絞め殺す、絞めつける、抑圧する)
-- `strive`                            ([Neutral] 努力する、競う)
-- `stroll`                            ([Neutral] ぶらつく、散歩する)
-- `stunt`                            ([Neutral] 離れわざを行う)
-- `subdue`                            ([Neutral] 圧倒する、抑制する、征服する、和らげる)
-- `subsidize`                            ([Neutral] 助成金を支給する、援助を得る)
-- `succumb`                            ([Neutral] 屈服する、負ける、死ぬ)
-- `suffocate`                            ([Neutral] 窒息する、息苦しくさせる、抑圧する)
-- `superimpose`                            ([Neutral] 重ねる、付加する)
-- `superintendent`                            ([Neutral] 監督する)
-- `supervise`                            ([Neutral] 目を光らせる、監督する)
-- `surrogate`                            ([Neutral] 代理にする)
-- `sweeten`                            ([Neutral] 甘くする、和らげる)
-- `swerve`                            ([Neutral] 急に逸れる、逸脱する)
-- `swoop`                            ([Neutral] 急降下する、突然襲う)
-- `taint`                            ([Neutral] 汚染する、感染させる)
-- `tally`                            ([Neutral] 勘定する、得点を記録する)
-- `tan`                            ([Neutral] 日に焼く、褐色にする)
-- `tarry`                            ([Neutral] ぐずぐずする、場所にとどまる)
-- `throttle`                            ([Neutral] 絞め殺す、窒息させる、抑圧する)
-- `tinker`                            ([Neutral] いじくり回す、下手に修繕する)
-- `toast`                            ([Neutral] 祝いの乾杯をする)
-- `torpedo`                            ([Neutral] 魚雷で攻撃する、粉砕する)
-- `tout`                            ([Neutral] 褒めちぎる、大げさに宣伝する、押し売りする)
-- `tramp`                            ([Neutral] 強く踏みつける、放浪する)
-- `transit`                            ([Neutral] 通過する)
-- `treble`                            ([Neutral] 3倍にする、3倍になる)
-- `trespass`                            ([Neutral] 不法侵入する、邪魔する)
-- `troupe`                            ([Neutral] 巡業する)
-- `tumble`                            ([Neutral] 転ぶ、倒れる、崩壊する)
-- `tweak`                            ([Neutral] ひねる、つねる、手直しする)
-- `umpire`                            ([Neutral] 審判をする)
-- `underscore`                            ([Neutral] 強調する、目立たせる)
-- `unearth`                            ([Neutral] 明らかにする、掘り出す)
-- `unfit`                            ([Neutral] 不適当にする)
-- `unify`                            ([Neutral] ひとつのまとまりにする、統一する)
-- `untidy`                            ([Neutral] 台無しにする、乱す)
-- `untie`                            ([Neutral] 解く、ほどく、解放する)
-- `usurp`                            ([Neutral] 権力を暴力で奪う、不法使用する)
-- `valve`                            ([Neutral] 弁で流れを調節する)
-- `vanquish`                            ([Neutral] 負かす、征服する)
-- `vend`                            ([Neutral] 販売する)
-- `ventilate`                            ([Neutral] 空気を通す、酸素を供給する)
-- `verge`                            ([Neutral] 縁にある、へりを成す)
-- `vibrate`                            ([Neutral] 振動する、揺れる、反響する、揺り動かす)
-- `volley`                            ([Neutral] いっせいに射撃する)
-- `weld`                            ([Neutral] 溶接する、結合する)
-- `wheeze`                            ([Neutral] 苦しそうに息をする、あえぐような音を出す)
-- `whet`                            ([Neutral] 欲求を刺激する、砥石でとぐ)
-- `whore`                            ([Neutral] 売春する)
-- `widow`                            ([Neutral] 未亡人にする)
-- `wince`                            ([Neutral] 顔をしかめる、しりごみする、たじろぐ)
-- `withhold`                            ([Neutral] 保留する、抑える、引き留める)
-- `worsen`                            ([Neutral] より悪くする、より悪くなる)
-- `wrangle`                            ([Neutral] 論争する、せしめる)
-- `wrestle`                            ([Neutral] 取り組む、組み打ちをする、ねじ伏せる)
-- `wring`                            ([Neutral] 絞り取る、圧縮する、堅く握る、ぐいとひねる)
-- `yarn`                            ([Neutral] 物語をする)
-- `yield`                            ([Neutral] 生じる、産出する)
-- `yoke`                            ([Neutral] くびきをかける、結合する)
-- `zinc`                            ([Neutral] 亜鉛でメッキする)
-
-## CONTROL & INFLUENCE
-- `provoke` /prəˈvoʊk/              ([Neutral] 引き起こす)          His words provoked anger.
-  - `incite` /ɪnˈsaɪt/              ([Neutral] 扇動する)            The speech incited violence.
-  - `instigate` /ˈɪnstɪɡeɪt/        ([Neutral] 扇動する)            He instigated a rebellion.
-  - `stir up` /stɜːr ʌp/            ([Casual] 煽り立てる)           He stirred up trouble at work.
-  - `egg on` /eɡ ɑːn/               ([Casual] けしかける)           They egged him on to fight.
-  - `goad` /ɡoʊd/                   ([Neutral] 駆り立てる)          She goaded him into taking risks.
-  - `facilitate` /fəˈsɪlɪteɪt/      ([Formal] 促進する)             The system facilitated money laundering.
-  - `conspire` /kənˈspaɪər/         ([Formal] 共謀する)             They conspired against the government.
-  - `abet` /əˈbet/                  ([Writing] 幇助する)            He was accused of abetting fraud.
-  - `spur on` /spɜːr ɑːn/           ([Neutral] 駆り立てる)          His anger spurred him on to revenge.
-  - `collude` /kəˈluːd/             ([Formal] 共謀する)             The companies colluded to fix prices.
-  - `foment` /foʊˈment/             ([Formal] 煽動する)             He fomented discord in the group.
-  - `aid and abet`                  ([Legal] 幇助する)              She aided and abetted the crime.
-- `subjugate`                            ([Neutral] 支配下に置く、意のままに操る)
-- `trustee`                            ([Neutral] 受託者の管理に移す)
-- `concede`                            ([Neutral] 認める、容認する、負けを認める)
-- `clog`                            ([Neutral] 動きを妨げる、詰まらせる)
-- `inhibit`                            ([Neutral] 抑制する、妨げる)
-
-## SPECIALIZED & OTHER
-- `be for` /bi fɔːr/                ([Casual] 合う)                 That job wasn't for me.
-- `get the hang of` /ɡet ðə hæŋ əv/ ([Casual] コツをつかむ)         I'm getting the hang of it now.
-- `suffer` /ˈsʌfər/                 ([Neutral] 苦しむ、患う)        She suffers from migraines.
-- `agonize` /ˈæɡənaɪz/              ([Neutral] 苦悶する)            He agonized over the decision.
-- `struggle` /ˈstrʌɡəl/               ([Neutral] 苦闘する)            She struggled with depression.
-- `flounder` /ˈflaʊndər/             ([Neutral] もがく、困惑する)    He floundered during the interview.
-- `sustain` /səˈsteɪn/              ([Formal] 維持する、支える)     The funds will sustain the program.
-  - `maintain` /meɪnˈteɪn/          ([Neutral] 維持する、保つ)      We need to maintain our standards.
-  - `support` /səˈpɔːrt/            ([Neutral] 支える、支持する)    The pillars support the roof.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、守る)       We must uphold the law.
-  - `preserve` /prɪˈzɜːrv/          ([Neutral] 保存する、維持する)  They preserved the old building.
-  - `keep` /kiːp/                   ([Neutral] 保つ、維持する)      Keep the temperature constant.
-- `stumble` /ˈstʌmbəl/               ([Neutral] つまずく、よろめく)  I stumbled over the stone.
-- `falter` /ˈfɔːltər/                ([Neutral] よろめく、躊躇する)  Her voice faltered with emotion.
-- `fumble` /ˈfʌmbəl/                 ([Neutral] 手探りする、もたつく) He fumbled for his keys.
-- `stagger` /ˈstæɡər/                ([Neutral] ふらつく、よろめく)  He staggered out of the bar.
-- `abound` /əˈbaʊnd/                 ([Neutral] 豊富にある)          Opportunities abound in this city.
-- `proliferate` /prəˈlɪfəreɪt/       ([Formal] 急増する、繁殖する)   Smartphones proliferated rapidly.
-- `flourish` /ˈflɜːrɪʃ/             ([Neutral] 繁栄する)            The arts flourish in this city.
-- `thrive` /θraɪv/                   ([Neutral] 繁栄する、成長する)  Children thrive with encouragement.
-- `teem` /tiːm/                      ([Neutral] あふれる、満ちる)    The forest teems with wildlife.
-- `ache` /eɪk/                       ([Neutral] 痛む)                My back aches after sitting too long.
-- `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
-- `throb` /θrɒb/                    ([Neutral] ズキズキ痛む)        My tooth is throbbing.
-- `get ahead of oneself`            ([Neutral] 先走る、早とちりする) Let's not get ahead of ourselves.
-  - `tether` /ˈteðər/               ([Neutral] 繋ぎ止める)          He tethered his horse to the tree.
-  - `tie` /taɪ/                     ([Neutral] 結ぶ、縛る)          Please tie your shoes.
-  - `bind` /baɪnd/                  ([Neutral] 縛る、拘束する)      They bound his hands with rope.
-  - `fasten` /ˈfæsən/               ([Neutral] 固定する、留める)    Fasten your seatbelt.
-  - `secure` /sɪˈkjʊr/              ([Neutral] 固定する、確保する)  Secure the rope to the post.
-  - `attach` /əˈtætʃ/               ([Neutral] 取り付ける)          Attach the file to your email.
-- `I'm terrible with O`                 ([Casual] Oがとても苦手だ) `I'm terrible with` directions.
-- `I don't care for O`                  ([Casual] Oは好きじゃない) `I don't care for` spicy food.
-- `I'm in the mood for O`               ([Casual] Oの気分だ) `I'm in the mood for some pizza tonight.`
-- `I'm in the mood to V`                ([Casual] ～したい気分だ) `I'm in the mood to watch a movie.`
-- `get in` /ɡet ɪn/                 ([Neutral] 到着する、帰宅する)  What time did you get in last night?
-- `arrive` /əˈraɪv/                ([Neutral] 到着する)            We arrived at the hotel at 6 PM.
-- `reach` /riːtʃ/                  ([Neutral] 到着する、達する)    We reached Tokyo by train.
-- `get home` /ɡet həʊm/            ([Neutral] 帰宅する)            I usually get home around 7 PM.
-- `come home` /kʌm həʊm/           ([Neutral] 帰宅する)            What time will you come home today?
-- `come over` /kʌm ˈoʊvər/         ([Casual] 家に来る)             Can you come over tonight?
-- `come across` /kʌm əˈkrɒs/       ([Casual] 印象を与える)         I didn't mean to come across like that.
-- `come off as` /kʌm ɔːf æz/       ([Casual] ～のように見える)     He comes off as arrogant sometimes.
-- `sound like` /saʊnd laɪk/        ([Casual] ～のように聞こえる)   You sound like you're angry.
-- `appear` /əˈpɪr/                 ([Neutral] ～のように見える)    She appears confident.
-- `seem` /siːm/                    ([Neutral] ～のようだ)          He seems tired today.
-- `give the impression` /ɡɪv ði ɪmˈpreʃən/ ([Neutral] 印象を与える) You give the impression of being busy.
-- `make it` /meɪk ɪt/              ([Casual] 間に合う、到着する)   Can you make it to the meeting by 3 PM?
-- `I'm off`                          ([Casual] 出発する、行くよ)      I'm off to work now. See you later\!
-- `I'm leaving`                      ([Neutral] 出発する、行く)       I'm leaving in five minutes.
-- `I'm heading out`                  ([Casual] 出かける)              I'm heading out for lunch.
-- `I'm taking off`                   ([Casual] 出発する)              I'm taking off now. Talk later\!
-- `I've gotta go`                    ([Casual] もう行かなきゃ)        I've gotta go. The meeting starts soon.
-- `I'm out`                          ([Casual] 出る、行く)            I'm out. Catch you later\!
-- `get ready for`                   ([Neutral] 準備する)            Get ready for the presentation.
-  - `get things ready`              ([Neutral] 準備を整える)        I'll get things ready for tomorrow.
-  - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
-  - `make preparations for`         ([Formal] 準備する)             Make preparations for the event.
-  - `set up` /set ʌp/               ([Neutral] 設定する、手配する)  I'll set up the equipment.
-  - `gear up for` /ɡɪr ʌp/          ([Casual] 準備する)             We're gearing up for the launch.
-  - `make arrangements for`         ([Neutral] 手配する)            I'll make arrangements for the trip.
-  - `put in place`                  ([Neutral] 準備を整える)        Put everything in place first.
-- `get` /ɡet/                       ([Neutral] 得る、手に入れる)    I need to get some groceries.
-  - `collect` /kəˈlekt/             ([Neutral] 集める、収集する)    She collects stamps as a hobby.
-  - `gather` /ˈɡæðər/               ([Neutral] 集める、収集する)    Please gather all the documents.
-  - `obtain` /əbˈteɪn/              ([Formal] 獲得する、入手する)   You need to obtain permission first.
-  - `acquire` /əˈkwaɪər/            ([Formal] 取得する、習得する)   She acquired new skills quickly.
-  - `accumulate` /əˈkjuːmjəleɪt/    ([Neutral] 蓄積する、積み重ねる)Dust accumulated on the shelves.
-  - `assemble` /əˈsembəl/           ([Neutral] 集める、組み立てる)  We need to assemble all the parts.
-  - `compile` /kəmˈpaɪl/            ([Neutral] 編集する、収集する)  She compiled a list of contacts.
-  - `amass` /əˈmæs/                 ([Neutral] 蓄積する、集める)    He amassed a fortune in business.
-  - `hoard` /hɔːrd/                 ([Neutral] 貯め込む、買い占める)Don't hoard toilet paper.
-  - `stockpile` /ˈstɑːkpaɪl/        ([Neutral] 備蓄する、蓄える)    They stockpiled food for winter.
-  - `garner` /ˈɡɑːrnər/             ([Formal] 獲得する、集める)     The candidate garnered significant support.
-  - `glean` /ɡliːn/                 ([Writing] 拾い集める、収集する)I gleaned information from various sources.
-  - `harvest` /ˈhɑːrvɪst/           ([Neutral] 収穫する、得る)      They harvest data from users.
-- `dedicate` /ˈdedɪkeɪt/          ([Neutral] 捧げる、専念する)    He dedicated his life to science.
-- `devote` /dɪˈvoʊt/              ([Neutral] 捧げる、専念する)    She devotes time to volunteering.
-- `commit` /kəˈmɪt/               ([Neutral] 専念する、約束する)  They committed resources to the project.
-- `generalize` /ˈdʒenərəlaɪz/    ([Neutral] 一般化する)          Don't generalize from one example.
-- `relate` /rɪˈleɪt/             ([Neutral] 関連する、関係づける) This issue relates to security.
-- `christen` /ˈkrɪsən/              ([Neutral] 洗礼名を付ける)      She was christened Susan.
-  - `baptize` /bæpˈtaɪz/            ([Neutral] 洗礼を施す)          The baby was baptized last month.
-  - `nickname` /ˈnɪkneɪm/           ([Casual] あだ名をつける)       We nicknamed him 'Slowcoach'.
-  - `dub` /dʌb/                     ([Neutral] 名づける、称する)    He was dubbed 'The King'.
-  - `name` /neɪm/                   ([Neutral] 名づける、命名する)  They named their son Michael.
-- `fertilize` /ˈfɜːrtəlaɪz/         ([Technical] 受精させる、施肥) Bees fertilize flowers as they gather nectar.
-  - `pollinate` /ˈpɑːləneɪt/        ([Technical] 受粉させる)        Bees pollinate the apple trees.
-  - `inseminate` /ɪnˈsemɪneɪt/      ([Technical] 授精する)          The cattle were artificially inseminated.
-  - `impregnate` /ɪmˈpreɡneɪt/      ([Formal] 妊娠させる)           The male impregnated the female.
-  - `breed` /briːd/                 ([Neutral] 繁殖させる、育種する) They breed horses for racing.
-- `instruct` /ɪnˈstrʌkt/            ([Neutral] 指示する、教える)    She instructed them to wait outside.
-  - `educate` /ˈedʒukeɪt/           ([Neutral] 教育する)            We need to educate people about this.
-  - `inform` /ɪnˈfɔːrm/             ([Neutral] 知らせる、通知する)  Please inform me of any changes.
-  - `enlighten` /ɪnˈlaɪtn/          ([Formal] 啓発する、教える)     Let me enlighten you on this matter.
-  - `train` /treɪn/                 ([Neutral] 訓練する、教育する)  He trained staff on the new system.
-- `loom`                            ([Neutral] 不気味に現れる、ぼんやり見える、織る)
-- `hone`                            ([Neutral] 技能を磨く、砥石でとぐ)
-- `scour`                            ([Neutral] こすって磨く、捜し回る、書類を徹底的に調べる)
-- `garland`                            ([Neutral] 花輪で飾る)
-- `gild`                            ([Neutral] 金ぱくをかぶせる、うわべを飾る)
-- `rag`                            ([Neutral] 着飾る、しかる、いじめる)
-- `smock`                            ([Neutral] スモックを着せる、刺繍で飾る)
-- `whitewash`                            ([Neutral] うわべを飾る)
-- `apprehend`                            ([Neutral] 逮捕する、心配する)
-- `fret`                            ([Neutral] イライラする、思い悩む、むしばむ)
-- `gratify`                            ([Neutral] 満足させる、楽しませる)
-- `grieve`                            ([Neutral] 深く悲しむ)
-- `indulge`                            ([Neutral] ふける、身を任せる、満足させる、甘やかす)
-- `lament`                            ([Neutral] 悲しむ、後悔する)
-- `marvel`                            ([Neutral] 驚く)
-- `mourn`                            ([Neutral] 嘆く、悲しむ)
-- `purr`                            ([Neutral] （猫が）のどを鳴らす、満足げな様子を示す)
-- `rejoice`                            ([Neutral] 喜ぶ)
-- `revel`                            ([Neutral] 非常に喜ぶ、どんちゃん騒ぎをする)
-- `tremble`                            ([Neutral] 震える、恐れる)
-- `woo`                            ([Neutral] せがむ、求愛する、得ようと努める)
-- `resort`                            ([Neutral] 訴える、頼る)
-- `tamper`                            ([Neutral] 許可なくいじる、ひそかに携わる)
-- `burrow`                            ([Neutral] 穴を掘る、隠れる)
-- `cloak`                            ([Neutral] 覆い隠す)
-- `smother`                            ([Neutral] 窒息させる、たっぷりかける、押し隠す)
-- `submerge`                            ([Neutral] 潜水する、水中に入れる、水をかぶせる、覆い隠す)
-- `dispose`                            ([Neutral] 配置する、整理する、処分する)
-- `prim`                            ([Neutral] きちんと整える)
-- `tier`                            ([Neutral] 段々に並べる)
-- `addict`                            ([Neutral] （悪癖などに）ふけらせる)
-- `ail`                            ([Neutral] 患わせる、悩ます、弊害となる)
-- `alloy`                            ([Neutral] 混ぜる)
-- `anguish`                            ([Neutral] 苦しめる)
-- `apprentice`                            ([Neutral] 見習いに出す)
-- `atone`                            ([Neutral] 償う、あがなう)
-- `avail`                            ([Neutral] 役立つ)
-- `avert`                            ([Neutral] 防ぐ、そらす、転じる)
-- `awe`                            ([Neutral] 畏敬の念を起こさせる)
-- `baffle`                            ([Neutral] まごつかせる、くじく)
-- `banter`                            ([Neutral] からかう、ひやかす)
-- `bargain`                            ([Neutral] 条件を話し合う)
-- `barn`                            ([Neutral] 納屋に蓄える)
-- `barrage`                            ([Neutral] 質問を浴びせる)
-- `batch`                            ([Neutral] 1回分にまとめる)
-- `beget`                            ([Neutral] 生じさせる、父親が子をもうける)
-- `bellow`                            ([Neutral] 大声で鳴く、どなる)
-- `bemoan`                            ([Neutral] 嘆く、哀れむ)
-- `bewilder`                            ([Neutral] 当惑させる、混乱させる)
-- `billow`                            ([Neutral] 波だつ、うねる)
-- `blanket`                            ([Neutral] 毛布で覆う)
-- `blot`                            ([Neutral] 汚す)
-- `bluff`                            ([Neutral] はったりでだます)
-- `blunt`                            ([Neutral] 鈍らせる)
-- `blurt`                            ([Neutral] うっかりしゃべる)
-- `bode`                            ([Neutral] ～の前兆となる)
-- `booze`                            ([Neutral] 大酒を飲む)
-- `bower`                            ([Neutral] 木の葉や枝で囲む)
-- `braid`                            ([Neutral] 編む、結わえる)
-- `bristle`                            ([Neutral] 逆立つ、怒らせる)
-- `buckle`                            ([Neutral] 留め金で留める、曲げる)
-- `buffer`                            ([Neutral] 衝撃を和らげる、防ぐ)
-- `bully`                            ([Neutral] いじめる、脅して～させる)
-- `bump`                            ([Neutral] ドンとぶつかる)
-- `bumper`                            ([Neutral] なみなみとつぐ)
-- `burgeon`                            ([Neutral] 急に大きくなる、芽ぐむ)
-- `cap`                            ([Neutral] かぶせる、上限を設ける)
-- `caress`                            ([Neutral] 撫でる)
-- `carol`                            ([Neutral] クリスマスキャロルを歌ってまわる)
-- `carve`                            ([Neutral] 彫る、刻む)
-- `cavern`                            ([Neutral] ほら穴を掘る、封じ込める)
-- `chaff`                            ([Neutral] からかう)
-- `chant`                            ([Neutral] 歌う)
-- `chap`                            ([Neutral] ひびを生じさせる)
-- `chatter`                            ([Neutral] しゃべる)
-- `chisel`                            ([Neutral] 彫る、だます)
-- `chuck`                            ([Neutral] 捨てる、軽くたたく、放る、辞める)
-- `chuckle`                            ([Neutral] くすくすと笑う、声を出さずに笑う)
-- `churn`                            ([Neutral] 激しくかき混ぜる)
-- `clasp`                            ([Neutral] 握りしめる)
-- `clatter`                            ([Neutral] ガタガタ音をたてる)
-- `claw`                            ([Neutral] 裂く、引っ張る)
-- `cleave`                            ([Neutral] 道を切り開く、裂く)
-- `clown`                            ([Neutral] おどける、からかう)
-- `clutter`                            ([Neutral] 散らかす、心を乱す)
-- `coffer`                            ([Neutral] 箱や金庫にしまう)
-- `coffin`                            ([Neutral] 棺におさめる)
-- `coil`                            ([Neutral] ぐるぐる巻く)
-- `compel`                            ([Neutral] 無理にさせる、せざるをえない)
-- `complement`                            ([Neutral] よさを引きたてる)
-- `conceit`                            ([Neutral] 得意になる、うぬぼれる)
-- `condescend`                            ([Neutral] 見下した態度をとる、へりくだる)
-- `confound`                            ([Neutral] まごつかせる、困惑させる)
-- `consign`                            ([Neutral] 渡す、預ける、託す)
-- `coop`                            ([Neutral] 閉じ込める)
-- `couch`                            ([Neutral] 表す、うずくまる)
-- `crackle`                            ([Neutral] パチパチ音をたてる、細かいひびができる)
-- `cram`                            ([Neutral] 詰め込む)
-- `crater`                            ([Neutral] 穴があく、へこみができる)
-- `craze`                            ([Neutral] 気を狂わせる、気がおかしくなる)
-- `creak`                            ([Neutral] キーキー鳴る、きしる)
-- `crochet`                            ([Neutral] かぎ針で編む)
-- `crook`                            ([Neutral] 曲げる)
-- `crunch`                            ([Neutral] ボリボリかむ、バリバリ砕ける)
-- `crust`                            ([Neutral] 外皮で覆う)
-- `cuddle`                            ([Neutral] 抱きしめる、すり寄る)
-- `dab`                            ([Neutral] 軽く塗る・たたく)
-- `dabble`                            ([Neutral] 水をはねかける、ちょっと手を出す)
-- `damn`                            ([Neutral] けなす、ののしる)
-- `damp`                            ([Neutral] 湿らせる)
-- `darn`                            ([Neutral] 繕う、のろう)
-- `daze`                            ([Neutral] ぼうっとさせる、目をくらませる)
-- `debase`                            ([Neutral] 品位や評価を落とす)
-- `decoy`                            ([Neutral] おびき寄せる)
-- `deflate`                            ([Neutral] しょげさせる、しぼむ)
-- `deflect`                            ([Neutral] そらす、屈折させる)
-- `demoralize`                            ([Neutral] 士気をくじく、困惑させる)
-- `den`                            ([Neutral] ほら穴に住む)
-- `dent`                            ([Neutral] へこませる、めり込む)
-- `depress`                            ([Neutral] 意気消沈させる、ゆううつにさせる、弱める)
-- `deprive`                            ([Neutral] 奪う、取り上げる)
-- `desolate`                            ([Neutral] 悲しくさせる、荒廃させる)
-- `devalue`                            ([Neutral] 平価を切り下げる、価値を減じる)
-- `devolve`                            ([Neutral] 義務や財産が移る、義務や権利を譲り渡す)
-- `diaper`                            ([Neutral] おむつを替える)
-- `diffuse`                            ([Neutral] 散らす、放散させる、広める)
-- `dilute`                            ([Neutral] 薄める)
-- `discourage`                            ([Neutral] 希望を失わせる、やめさせる)
-- `disguise`                            ([Neutral] 変装させる)
-- `disquiet`                            ([Neutral] 平静（平穏、平和）を乱す)
-- `distract`                            ([Neutral] （心を）そらす、取り乱させる)
-- `ditch`                            ([Neutral] みぞを掘る)
-- `divert`                            ([Neutral] そらす、迂回させる)
-- `dizzy`                            ([Neutral] めまいを起こさせる)
-- `dodge`                            ([Neutral] 素早く身をかわす、ごまかす)
-- `domicile`                            ([Neutral] 定住させる)
-- `doom`                            ([Neutral] 運命づける、〈受身で〉消える運命にある)
-- `drape`                            ([Neutral] 布で優美に覆う、きれいなひだが寄る)
-- `dread`                            ([Neutral] 非常に恐がる)
-- `dredge`                            ([Neutral] 水底の泥をさらう、掘り出す)
-- `drip`                            ([Neutral] ぽたぽた落ちる)
-- `drizzle`                            ([Neutral] 霧雨が降る)
-- `drone`                            ([Neutral] ブンブン音をたてる)
-- `droop`                            ([Neutral] だらりと垂れる、うなだれる、弱る)
-- `drown`                            ([Neutral] おぼれる、おぼれさせる)
-- `duck`                            ([Neutral] 身をかがめる)
-- `dump`                            ([Neutral] どさっと降ろす、捨てる)
-- `dung`                            ([Neutral] 肥料を施す)
-- `eddy`                            ([Neutral] 渦を巻く)
-- `efface`                            ([Neutral] こすり消す、ぬぐい去る)
-- `embroil`                            ([Neutral] 巻き込む、混乱させる)
-- `engender`                            ([Neutral] 生じさせる、引き起こす)
-- `engulf`                            ([Neutral] 飲み込む、巻き込む)
-- `eschew`                            ([Neutral] 控える、避ける)
-- `evade`                            ([Neutral] 逃れる、避ける)
-- `evict`                            ([Neutral] 立ち退かせる、追い払う、取り戻す)
-- `exacerbate`                            ([Neutral] 悪化させる、悪い感情を募らせる、憤慨させる)
-- `exorcise`                            ([Neutral] 悪魔を追い払う、悩みを取り除く)
-- `faint`                            ([Neutral] 気が遠くなる)
-- `fan`                            ([Neutral] あおぐ、かき立てる)
-- `fare`                            ([Neutral] やっていく)
-- `fawn`                            ([Neutral] こびへつらう、甘える)
-- `feign`                            ([Neutral] 装う、でっち上げる)
-- `fiddle`                            ([Neutral] バイオリンを弾く、いじくる)
-- `flake`                            ([Neutral] はがれ落ちる)
-- `flaunt`                            ([Neutral] 見せびらかす、わがもの顔にふるまう)
-- `fleece`                            ([Neutral] ヒツジの毛を刈る、金品を巻き上げる)
-- `flex`                            ([Neutral] 筋肉を収縮させる、曲げる、ほぐす、フレックスタイムで働く)
-- `flick`                            ([Neutral] はじく)
-- `flicker`                            ([Neutral] ゆらゆら揺れる、ぴくぴく動かす)
-- `flit`                            ([Neutral] せわしなく動き回る、時が素早く過ぎ去る)
-- `fluff`                            ([Neutral] けばだつ)
-- `flurry`                            ([Neutral] うろたえる)
-- `foil`                            ([Neutral] 失敗させる、くじく)
-- `forage`                            ([Neutral] 食糧を探し回る)
-- `forgo`                            ([Neutral] なしで済ませる、楽しみを慎む)
-- `forsake`                            ([Neutral] 見捨てる、見放す)
-- `founder`                            ([Neutral] 浸水して沈む)
-- `fragment`                            ([Neutral] 砕ける)
-- `freight`                            ([Neutral] 負わせる、積む)
-- `frenzy`                            ([Neutral] 狂乱させる)
-- `frolic`                            ([Neutral] はしゃぐ)
-- `frown`                            ([Neutral] 眉をひそめる)
-- `fudge`                            ([Neutral] まともに取り組まない、でっち上げる)
-- `furrow`                            ([Neutral] 耕す、しわが寄る)
-- `gall`                            ([Neutral] すりむく、苛だたせる)
-- `gasp`                            ([Neutral] あえぐ、息が止まる)
-- `giggle`                            ([Neutral] くっくと笑う)
-- `glaze`                            ([Neutral] 板ガラスをはめる、つやを出す)
-- `gleam`                            ([Neutral] きらりと光る)
-- `glimmer`                            ([Neutral] ちらちら光る)
-- `glint`                            ([Neutral] きらっと光る)
-- `glisten`                            ([Neutral] きらきら輝く)
-- `glitter`                            ([Neutral] きらめく、照り輝く)
-- `gloat`                            ([Neutral] ほくそ笑む)
-- `gloom`                            ([Neutral] ゆううつにさせる)
-- `glut`                            ([Neutral] 十分に食べさせる、欲望を満たす)
-- `gnaw`                            ([Neutral] 悩ます、かじる)
-- `goad`                            ([Neutral] あおりたてる、突き棒で追いたてる)
-- `gorge`                            ([Neutral] がつがつと飲み込む)
-- `gouge`                            ([Neutral] えぐる、丸のみで彫る)
-- `grate`                            ([Neutral] おろし金でおろす、きしらせる)
-- `gravel`                            ([Neutral] 砂利を敷く、当惑させる)
-- `grease`                            ([Neutral] グリースを塗る)
-- `grimace`                            ([Neutral] 顔をゆがめる)
-- `grin`                            ([Neutral] にっこり笑う)
-- `groan`                            ([Neutral] うめく)
-- `grudge`                            ([Neutral] 出し惜しむ、妬む)
-- `grunt`                            ([Neutral] ブーブー鳴く・音をたてる)
-- `gulf`                            ([Neutral] 渦に巻き込む)
-- `gulp`                            ([Neutral] 息が詰まる、むせる、ぐっと飲み込む)
-- `gurgle`                            ([Neutral] （人や鳥が）のどを鳴らす、（水が）ゴボゴボ流れる)
-- `gust`                            ([Neutral] 急に吹く)
-- `hale`                            ([Neutral] 強く引っ張る)
-- `handcuff`                            ([Neutral] 手錠をかける)
-- `harrow`                            ([Neutral] 人の心をかき乱す)
-- `haul`                            ([Neutral] 引っ張る、引きずる、たぐる)
-- `hem`                            ([Neutral] へりを縫う、取り囲む)
-- `hoax`                            ([Neutral] だます)
-- `hoe`                            ([Neutral] くわで掘る)
-- `hoist`                            ([Neutral] 高く掲げる、持ち上げる)
-- `honk`                            ([Neutral] 警笛を鳴らす、鳴く)
-- `horde`                            ([Neutral] 群がる)
-- `hospitalize`                            ([Neutral] 入院させる)
-- `hum`                            ([Neutral] ブンブンという音をたてる、鼻歌を歌う)
-- `husk`                            ([Neutral] 殻をむく)
-- `hut`                            ([Neutral] 小屋に仮泊させる)
-- `imbue`                            ([Neutral] 感情をしみ込ませる、吹き込む)
-- `immerse`                            ([Neutral] 浸す、没頭させる)
-- `impel`                            ([Neutral] かりたてる、押し進める)
-- `inconvenience`                            ([Neutral] ～に迷惑をかける)
-- `incur`                            ([Neutral] こうむる、陥る、招く)
-- `inflate`                            ([Neutral] 膨らませる、インフレをもたらす)
-- `infuriate`                            ([Neutral] 激怒させる)
-- `infuse`                            ([Neutral] 考えを吹き込む、注ぎ込む、煎じる)
-- `inhabit`                            ([Neutral] 住む)
-- `inhale`                            ([Neutral] 吸い込む、たいらげる)
-- `interlock`                            ([Neutral] 連動させる、組み合わせる、かみあう)
-- `invigorate`                            ([Neutral] 活気づける、活性化させる)
-- `jab`                            ([Neutral] 激しく突き刺す、素早い一撃を食わせる)
-- `jack`                            ([Neutral] 高める)
-- `jam`                            ([Neutral] 詰め込む)
-- `jar`                            ([Neutral] ぶつかり合う、きしらせる)
-- `jerk`                            ([Neutral] ぐいと引っ張る、動かす)
-- `jest`                            ([Neutral] からかう)
-- `jettison`                            ([Neutral] 投げ捨てる)
-- `jingle`                            ([Neutral] チリンチリンと鳴る、調子よく響く)
-- `jockey`                            ([Neutral] ずるい手を使う)
-- `jot`                            ([Neutral] 手早く書き留める)
-- `jug`                            ([Neutral] 水差しに入れる)
-- `kiln`                            ([Neutral] 窯で焼く)
-- `knuckle`                            ([Neutral] はじき出す)
-- `latch`                            ([Neutral] 掛け金をかける)
-- `lather`                            ([Neutral] 泡立つ、せっけんの泡を塗る)
-- `lick`                            ([Neutral] なめる)
-- `liken`                            ([Neutral] なぞらえる、例える)
-- `litter`                            ([Neutral] 散らかす、汚す)
-- `loaf`                            ([Neutral] ぶらつき回る)
-- `loosen`                            ([Neutral] ほどく、ゆるめる、たるむ)
-- `lumber`                            ([Neutral] 材木を切り出す)
-- `lurch`                            ([Neutral] 不意に揺れる)
-- `martyr`                            ([Neutral] 苦しめる)
-- `mast`                            ([Neutral] マストを立てる)
-- `maze`                            ([Neutral] 当惑させる)
-- `mellow`                            ([Neutral] 熟させる、落ち着く)
-- `misdirect`                            ([Neutral] 誤って教える、誤った宛名を書く、ねらいを誤る)
-- `misfit`                            ([Neutral] ぴったりしない)
-- `moan`                            ([Neutral] うめく)
-- `moat`                            ([Neutral] 堀で取り囲む)
-- `moisten`                            ([Neutral] 湿らす、濡れる)
-- `moor`                            ([Neutral] 停泊させる)
-- `moss`                            ([Neutral] コケで覆う)
-- `mound`                            ([Neutral] 土塁を築く、盛り上げる)
-- `muffle`                            ([Neutral] 防音のために覆う、顔や首をくるむ)
-- `mum`                            ([Neutral] パントマイムを演じる)
-- `munch`                            ([Neutral] むしゃむしゃ食べる)
-- `mute`                            ([Neutral] 消す、弱める)
-- `muzzle`                            ([Neutral] 口輪をはめる)
-- `nettle`                            ([Neutral] イライラさせる)
-- `nibble`                            ([Neutral] 少しずつかじる、ちびちび飲む)
-- `nip`                            ([Neutral] つまむ、はさみきる、はばむ)
-- `oblige`                            ([Neutral] 強いる、感謝している)
-- `outcry`                            ([Neutral] 大声を出す)
-- `outnumber`                            ([Neutral] 数で勝る)
-- `outstrip`                            ([Neutral] 追い越す、～より勝る)
-- `outweigh`                            ([Neutral] 勝る、より重い)
-- `outwit`                            ([Neutral] 裏をかく、出し抜く)
-- `overcrowd`                            ([Neutral] 詰め込みすぎる、混雑させる)
-- `overdose`                            ([Neutral] 薬を飲みすぎる)
-- `overload`                            ([Neutral] 荷を積みすぎる、負荷をかけすぎる)
-- `overshadow`                            ([Neutral] 見劣りさせる、影を投げかける)
-- `overtake`                            ([Neutral] 追い越す、追いつく)
-- `paw`                            ([Neutral] 足でたたく)
-- `pawn`                            ([Neutral] 質に入れる)
-- `peacock`                            ([Neutral] 見えを張る)
-- `peal`                            ([Neutral] 鳴り響かせる)
-- `peep`                            ([Neutral] のぞく)
-- `pep`                            ([Neutral] 元気づける)
-- `perch`                            ([Neutral] （木に）止まる、止まらせる)
-- `peril`                            ([Neutral] 危険にさらす)
-- `perish`                            ([Neutral] 災害などで死ぬ、消える)
-- `perk`                            ([Neutral] 頭を元気よく上げる、元気を取り戻す)
-- `perpetrate`                            ([Neutral] 犯罪や過失を犯す、しでかす)
-- `perplex`                            ([Neutral] 当惑させる、迷わす)
-- `pew`                            ([Neutral] ベンチ席を設ける)
-- `pike`                            ([Neutral] 槍で突く)
-- `pine`                            ([Neutral] 思いこがれる)
-- `pique`                            ([Neutral] 憤慨させる、あおる)
-- `plank`                            ([Neutral] 厚板を張る、板の上で料理して出す)
-- `plaster`                            ([Neutral] しっくいを塗る)
-- `plow`                            ([Neutral] すきで耕す)
-- `pluck`                            ([Neutral] 引き抜く、引っ張る)
-- `plunge`                            ([Neutral] 飛び込む、浸す、押し込む)
-- `ply`                            ([Neutral] せっせと働かせる、どんどん勧める)
-- `populate`                            ([Neutral] 住む、住みつく、～の住民である、人を居住させる)
-- `posture`                            ([Neutral] ある姿勢をとる)
-- `prawn`                            ([Neutral] エビを捕らえる)
-- `premiere`                            ([Neutral] 初公開される)
-- `procrastinate`                            ([Neutral] ぐずぐずと引き延ばす)
-- `propel`                            ([Neutral] 進ませる、精進させる、かりたてる)
-- `proportionate`                            ([Neutral] 比例させる)
-- `prostrate`                            ([Neutral] ひれ伏す、横たえる)
-- `prowl`                            ([Neutral] こそこそとうろつく)
-- `prune`                            ([Neutral] 刈り込む、削る)
-- `pry`                            ([Neutral] てこで動かす、苦労して引き出す)
-- `psalm`                            ([Neutral] 賛美歌でたたえる)
-- `puff`                            ([Neutral] ぷっと吹き出す)
-- `puncture`                            ([Neutral] 刺して穴をあける)
-- `quake`                            ([Neutral] 震える、おののく、揺れる)
-- `quarry`                            ([Neutral] あさる)
-- `quaver`                            ([Neutral] （音が）震える、わなわな震える)
-- `queue`                            ([Neutral] 列をつくらせる)
-- `quiver`                            ([Neutral] ブルブル震える、揺れる、震わせる)
-- `rack`                            ([Neutral] ラックに入れる)
-- `rampart`                            ([Neutral] 城壁で囲む)
-- `rapture`                            ([Neutral] 有頂天にさせる)
-- `recapture`                            ([Neutral] 再び捕らえる、取り戻す、思い出す)
-- `repeat` /rɪˈpiːt/                    ([Neutral] 繰り返す)           Please repeat what you said.
-- `recompense`                            ([Neutral] 報いる)
-- `rind`                            ([Neutral] 外皮をはぐ)
-- `rinse`                            ([Neutral] すすぐ)
-- `riot`                            ([Neutral] 暴動を起こす)
-- `ripple`                            ([Neutral] さざ波を立てる、波紋のように広がる)
-- `roar`                            ([Neutral] わめく、怒鳴る)
-- `rogue`                            ([Neutral] だます)
-- `roost`                            ([Neutral] 止まり木に止まる)
-- `rot`                            ([Neutral] 腐る、やつれる、堕落させる)
-- `rout`                            ([Neutral] 完敗させる)
-- `rubbish`                            ([Neutral] けなす)
-- `rumble`                            ([Neutral] ゴロゴロ音をたてる、とどろく)
-- `rummage`                            ([Neutral] くまなく捜す、捜し出す)
-- `sag`                            ([Neutral] 落ち込む、たるむ)
-- `sap`                            ([Neutral] 徐々に奪う)
-- `saturate`                            ([Neutral] 浸す、満たす、飽和させる、没頭させる)
-- `scoop`                            ([Neutral] すくう、掘る)
-- `scowl`                            ([Neutral] にらむ、顔をしかめる)
-- `scrabble`                            ([Neutral] かき回して捜す、ひっかく)
-- `sear`                            ([Neutral] 表面を焼く、強く焼きつく)
-- `sedate`                            ([Neutral] 鎮静させる)
-- `sequester`                            ([Neutral] 引きこもらせる、一時差し押さえる)
-- `sewer`                            ([Neutral] 下水設備を設ける)
-- `shimmer`                            ([Neutral] かすかに光る、揺らめく)
-- `shred`                            ([Neutral] シュレッダーにかける)
-- `shrug`                            ([Neutral] 肩をすくめる)
-- `sicken`                            ([Neutral] むかつかせる、吐き気を催させる、病気になる)
-- `sickle`                            ([Neutral] 鎌で刈る)
-- `sieve`                            ([Neutral] ふるいにかける)
-- `sift`                            ([Neutral] ふるいにかける、調べる)
-- `silhouette`                            ([Neutral] シルエットで描く)
-- `simmer`                            ([Neutral] ぐつぐつ煮える、今にも爆発しそうな)
-- `sip`                            ([Neutral] ちびちび飲む)
-- `slay`                            ([Neutral] 殺す、絶滅させる)
-- `sled`                            ([Neutral] そりですべる)
-- `slouch`                            ([Neutral] 前かがみになる)
-- `smirk`                            ([Neutral] にやにや笑う)
-- `smolder`                            ([Neutral] 感情をたぎらせる、くすぶる)
-- `smudge`                            ([Neutral] 汚す、いぶす)
-- `snare`                            ([Neutral] わなにかける、誘惑して～させる)
-- `sniff`                            ([Neutral] においをかぐ、鼻であしらう)
-- `snore`                            ([Neutral] いびきをかく、眠りほうけて過ごす)
-- `snort`                            ([Neutral] 鼻を鳴らす、大声で笑う、吸う、シューッと吹き出す)
-- `sob`                            ([Neutral] むせび泣く、うめく)
-- `sodden`                            ([Neutral] びっしょり濡らす)
-- `spank`                            ([Neutral] （罰として）たたく)
-- `spear`                            ([Neutral] 突き刺す)
-- `spearhead`                            ([Neutral] 先頭に立つ)
-- `spire`                            ([Neutral] 高くそびえる)
-- `spit`                            ([Neutral] 吐き出す、つばを吐く、突き刺す)
-- `splice`                            ([Neutral] 木材や縄などを継ぐ)
-- `sprawl`                            ([Neutral] 四方に広がる、手足を広げる)
-- `spree`                            ([Neutral] 浮かれる)
 - `sputter`                            ([Neutral] パチパチ音をたてる、口からつばを飛ばす)
+- `squabble`                            ([Neutral] 言い争いをする)
+- `squat` /skwɒt/                   ([Neutral] しゃがむ)            Squat down to pick it up.
 - `squeak`                            ([Neutral] キーキー音をたてる、チューチュー鳴く)
+- `squeal` /skwiːl/                  ([Neutral] キーッと鳴く)        The tires squealed.
+- `squint`                            ([Neutral] 細目で見る)
+- `squirm`                            ([Neutral] もじもじする、もがいて逃げる)
 - `squirrel`                            ([Neutral] 蓄える、隠しておく)
+- `squirt`                            ([Neutral] 吹きかける、噴出する)
 - `stab`                            ([Neutral] 突き刺す)
 - `stack`                            ([Neutral] 山に積む)
+- `stagger` /ˈstæɡər/                ([Neutral] ふらつく、よろめく)  He staggered out of the bar.
+- `stake`                            ([Neutral] くいで支える、（金を･･･に）賭ける)
 - `stalemate`                            ([Neutral] 手詰まりにさせる)
 - `stalk`                            ([Neutral] 忍び寄る、（人に）犯意をもってしつこく近づく)
 - `stall`                            ([Neutral] エンストを起こさせる)
 - `stammer`                            ([Neutral] どもる、口ごもる)
 - `staple`                            ([Neutral] ホチキスでとめる)
+- `starch`                            ([Neutral] のりをつける)
+- `start up` /stɑːrt ʌp/            ([Neutral] 起動する、始動する)  Start up your computer.
 - `stave`                            ([Neutral] 桶板をはずす)
+- `step out` /step aʊt/             ([Neutral] ちょっと出かける)    I'll step out for a few minutes.
+- `sterilize`                            ([Neutral] 殺菌する、不妊にする、不毛にする)
 - `stew`                            ([Neutral] とろ火で煮る、汗だくになる)
 - `steward`                            ([Neutral] 乗客係を務める)
+- `stiffen`                            ([Neutral] こわばらせる、強める、硬直する、緊張する)
+- `stifle`                            ([Neutral] 窒息させる、鎮圧する)
+- `sting` /stɪŋ/                    ([Neutral] 刺す、ヒリヒリする)  A bee stung me on my arm.
 - `stint`                            ([Neutral] 出し惜しむ)
+- `stipulate`                            ([Neutral] 条件として要求する、約束する)
+- `stir` /stɜːr/                    ([Neutral] 感情を揺さぶる)      The movie stirred my emotions.
+- `stoke`                            ([Neutral] かき立てる、補給する、腹ごしらえをする)
 - `stoop`                            ([Neutral] 腰が曲がっている、かがむ)
+- `stopper`                            ([Neutral] 栓をする)
 - `stow`                            ([Neutral] 船荷を積み込む、しまい込む、～を入れる余地がある)
 - `strand`                            ([Neutral] 立ち往生させる、座礁させる)
+- `strangle`                            ([Neutral] 絞め殺す、絞めつける、抑圧する)
 - `strew`                            ([Neutral] まき散らす、広める)
+- `stride`                            ([Neutral] 大股で歩く、またぐ)
+- `strive`                            ([Neutral] 努力する、競う)
+- `stroll`                            ([Neutral] ぶらつく、散歩する)
+- `struggle` /ˈstrʌɡəl/               ([Neutral] 苦闘する)            She struggled with depression.
+- `strut`                            ([Neutral] 気どって歩く、見せびらかす)
 - `stub`                            ([Neutral] ぶつかる、引き抜く)
 - `stud`                            ([Neutral] ちりばめる)
+- `stumble` /ˈstʌmbəl/               ([Neutral] つまずく、よろめく)  I stumbled over the stone.
 - `stump`                            ([Neutral] 困らせる)
+- `stunt`                            ([Neutral] 離れわざを行う)
+- `subdue`                            ([Neutral] 圧倒する、抑制する、征服する、和らげる)
+- `subject` /səbˈdʒekt/             ([Formal] 〜にさらす)           Don't subject me to your complaints.
+- `subjugate`                            ([Neutral] 支配下に置く、意のままに操る)
+- `sublime`                            ([Neutral] 純化する、（固体が）昇華する)
+- `submerge`                            ([Neutral] 潜水する、水中に入れる、水をかぶせる、覆い隠す)
 - `subordinate`                            ([Neutral] 下位に置く)
+- `subsidize`                            ([Neutral] 助成金を支給する、援助を得る)
+- `subtract`                            ([Neutral] 減じる、引き取る、取り去る)
 - `subvert`                            ([Neutral] 堕落させる、体制を転覆させる)
+- `succumb`                            ([Neutral] 屈服する、負ける、死ぬ)
 - `sue`                            ([Neutral] 訴訟を起こす)
+- `suffer` /ˈsʌfər/                 ([Neutral] 苦しむ、患う)        She suffers from migraines.
+- `suffocate`                            ([Neutral] 窒息する、息苦しくさせる、抑圧する)
 - `sulk`                            ([Neutral] すねる)
+- `superimpose`                            ([Neutral] 重ねる、付加する)
+- `superintendent`                            ([Neutral] 監督する)
+- `supervise`                            ([Neutral] 目を光らせる、監督する)
 - `supplement`                            ([Neutral] 補足となる、埋め合わせる)
+- `supplicate` /ˈsʌplɪkeɪt/         ([Writing] 嘆願する、懇願する)  They supplicated for divine help.
 - `suppress`                            ([Neutral] 抑える、やめさせる)
 - `surcharge`                            ([Neutral] 追加料金を課す)
 - `surmount`                            ([Neutral] 乗り越える、上にある)
 - `surpass`                            ([Neutral] 上回る、より勝る)
+- `surrogate`                            ([Neutral] 代理にする)
+- `sustain` /səˈsteɪn/              ([Formal] 維持する、支える)     The funds will sustain the program.
+- `swagger`                            ([Neutral] いばって歩く)
+- `sweeten`                            ([Neutral] 甘くする、和らげる)
+- `swerve`                            ([Neutral] 急に逸れる、逸脱する)
+- `swing by` /swɪŋ baɪ/             ([Casual] 立ち寄る)             I'll swing by your office later.
 - `swirl`                            ([Neutral] ぐるぐる回る、跳びはねる、回転させる)
 - `swoon`                            ([Neutral] 気が遠くなる、無我夢中になる)
+- `swoop`                            ([Neutral] 急降下する、突然襲う)
 - `tack`                            ([Neutral] びょうで留める、つなぐ)
+- `tag along` /tæɡ əˈlɔŋ/           ([Casual] 一緒に行く)           Can I tag along with you?
+- `tag`                            ([Neutral] 正札をつける、レッテルをはる、捕まえる)
+- `taint`                            ([Neutral] 汚染する、感染させる)
+- `take off` /teɪk ɒf/              ([Neutral] 脱ぐ)                Take off your shoes at the door.
+- `take one's word for it`          ([Neutral] 真に受ける)          I'll take your word for it.
+- `tally`                            ([Neutral] 勘定する、得点を記録する)
+- `tamper`                            ([Neutral] 許可なくいじる、ひそかに携わる)
+- `tan`                            ([Neutral] 日に焼く、褐色にする)
 - `tantalize`                            ([Neutral] じらして苦しめる、見せびらかしてじらす)
+- `tarry`                            ([Neutral] ぐずぐずする、場所にとどまる)
+- `tattle` /ˈtætəl/                 ([Casual] 告げ口する)           Don't tattle on your sister.
 - `tear`                            ([Neutral] 引き裂く)
+- `teem` /tiːm/                      ([Neutral] あふれる、満ちる)    The forest teems with wildlife.
 - `temper`                            ([Neutral] 厳しさを和らげる)
+- `testify`                            ([Neutral] 証言する、証拠となる、おごそかに宣言する)
 - `thatch`                            ([Neutral] 屋根を草でふく)
 - `thaw`                            ([Neutral] 溶ける、暖まってほぐれる)
+- `thong`                            ([Neutral] 革ひもをつける)
+- `thrash`                            ([Neutral] 強く打つ、手足をばたばたさせる、打ち負かす)
+- `thrive` /θraɪv/                   ([Neutral] 繁栄する、成長する)  Children thrive with encouragement.
+- `throb` /θrɒb/                    ([Neutral] ズキズキ痛む)        My tooth is throbbing.
 - `throng`                            ([Neutral] 群がる、混雑した)
+- `throttle`                            ([Neutral] 絞め殺す、窒息させる、抑圧する)
 - `thud`                            ([Neutral] ドスンと当たる)
+- `thump`                            ([Neutral] 激しくひっぱたく、たたきつける)
+- `tick`                            ([Neutral] 項目にしるしをつける)
+- `tickle` /ˈtɪkəl/                 ([Neutral] くすぐる)            Stop tickling me!
+- `tide`                            ([Neutral] 潮のように流れる、流れに乗せて運ぶ)
+- `tier`                            ([Neutral] 段々に並べる)
+- `timber`                            ([Neutral] 木材で建てる)
 - `tinge`                            ([Neutral] 色合いを帯びさせる)
+- `tinker`                            ([Neutral] いじくり回す、下手に修繕する)
+- `tint`                            ([Neutral] 薄い色合いをつける)
+- `toast`                            ([Neutral] 祝いの乾杯をする)
+- `toil`                            ([Neutral] 精を出して働く、苦労して歩く、疲れさせる)
 - `toll`                            ([Neutral] （鐘を）鳴らす、報じる、鳴る)
+- `torpedo`                            ([Neutral] 魚雷で攻撃する、粉砕する)
+- `totter`                            ([Neutral] 揺れる、よろよろ歩く)
+- `tout`                            ([Neutral] 褒めちぎる、大げさに宣伝する、押し売りする)
+- `tow`                            ([Neutral] 中へ引く)
+- `tram`                            ([Neutral] 電車で運ぶ)
+- `tramp`                            ([Neutral] 強く踏みつける、放浪する)
+- `trample`                            ([Neutral] 強く踏みつける、手荒く扱う)
 - `trance`                            ([Neutral] 失神させる)
 - `transcend`                            ([Neutral] 超える、しのぐ)
 - `transcribe`                            ([Neutral] 文字に起こす、書き換える)
+- `transit`                            ([Neutral] 通過する)
+- `transport` /trænsˈpɔːrt/         ([Neutral] 輸送する)            We'll transport the goods by truck.
+- `travel` /ˈtrævəl/                ([Neutral] 旅行する、移動する)  I travel for work frequently.
+- `traverse`                            ([Neutral] 横切る、越える、あちこち歩く)
+- `tread`                            ([Neutral] 踏む、歩く)
+- `treat` /triːt/                   ([Neutral] 治療する)            They treated his broken arm.
+- `treble`                            ([Neutral] 3倍にする、3倍になる)
+- `tremble`                            ([Neutral] 震える、恐れる)
+- `trench`                            ([Neutral] 堀で囲む、堀を作る)
+- `trespass`                            ([Neutral] 不法侵入する、邪魔する)
+- `trick` /trɪk/                    ([Neutral] だます、トリック)    He tricked me into paying more.
 - `trickle`                            ([Neutral] したたり落ちる、漏れる)
+- `trifle`                            ([Neutral] 粗末に扱う、冗談を言う)
+- `trolley`                            ([Neutral] 電車で運ぶ)
+- `troop`                            ([Neutral] ぞろぞろ集まる)
 - `trot`                            ([Neutral] 速足で駆ける、急ぐ)
+- `troupe`                            ([Neutral] 巡業する)
+- `trudge`                            ([Neutral] 重い足どりで歩く)
+- `trust` /trʌst/                   ([Neutral] 信頼する)            You can trust me not to tell anyone.
+- `trustee`                            ([Neutral] 受託者の管理に移す)
 - `tuck`                            ([Neutral] すそを押し込む、すぼまる)
+- `tug`                            ([Neutral] 強く引く)
+- `tumble`                            ([Neutral] 転ぶ、倒れる、崩壊する)
 - `turf`                            ([Neutral] 芝生を植える)
+- `turn off` /tɜːrn ɔːf/            ([Casual] 嫌気がさす)           His attitude really turned me off.
+- `turn to` /tɜːrn tuː/             ([Neutral] 頼る、助けを求める)  She turned to her family for support.
+- `tweak`                            ([Neutral] ひねる、つねる、手直しする)
 - `twinkle`                            ([Neutral] 輝く、きらりと光る)
+- `twitch`                            ([Neutral] 急に引っ張る、つねる、ぴくっと動く)
 - `twitter`                            ([Neutral] さえずる、ぺちゃくちゃしゃべる)
+- `umpire`                            ([Neutral] 審判をする)
+- `unburden` /ʌnˈbɜːrdən/           ([Formal] 重荷を下ろ 打ち明け)  She unburdened herself to her friend.
 - `unbutton`                            ([Neutral] ボタンをはずす、打ち明ける)
+- `uncover` /ʌnˈkʌvər/              ([Neutral] 暴く、発見する)      The investigation uncovered fraud.
+- `undercut`                            ([Neutral] 下を切り取る、安く売る)
 - `underlie`                            ([Neutral] 基礎にある、根拠をなす)
+- `undermine`                            ([Neutral] （名声などを）ひそかに傷つける、下を掘る、徐々に衰えさせる)
+- `underpin` /ˌʌndərˈpɪn/            ([Formal] 支える、裏付ける)     This theory underpins our approach.
+- `underscore`                            ([Neutral] 強調する、目立たせる)
+- `unearth`                            ([Neutral] 明らかにする、掘り出す)
+- `unfit`                            ([Neutral] 不適当にする)
 - `unfold`                            ([Neutral] 開く)
 - `unfurl`                            ([Neutral] 広げる、繰り広げる)
+- `unify`                            ([Neutral] ひとつのまとまりにする、統一する)
+- `unleash` /ʌnˈliːʃ/               ([Neutral] 解き放つ 爆発させる) He unleashed his anger.
+- `unload` /ʌnˈloʊd/                ([Casual] 感情を吐き出す)       He unloaded all his problems on me.
 - `unpack`                            ([Neutral] 開ける、中身を出す、重荷を下ろす)
 - `unravel`                            ([Neutral] ほどく、解ける、計画をつぶす)
+- `untidy`                            ([Neutral] 台無しにする、乱す)
+- `untie`                            ([Neutral] 解く、ほどく、解放する)
+- `unveil` /ʌnˈveɪl/                ([Formal] 明らかにする 発表する)They unveiled the new product.
+- `update` /ˌʌpˈdeɪt/               ([Neutral] 更新する)            Update the document regularly.
 - `uplift`                            ([Neutral] 高める、掲げる、隆起させる)
+- `urge` /ɜːrdʒ/                    ([Neutral] 強く勧める、促す)    I urge you to act quickly.
 - `usher`                            ([Neutral] 案内役を務める、先がけとなる)
+- `usurp`                            ([Neutral] 権力を暴力で奪う、不法使用する)
+- `valve`                            ([Neutral] 弁で流れを調節する)
+- `vanquish`                            ([Neutral] 負かす、征服する)
 - `vapor`                            ([Neutral] 蒸発させる)
 - `vat`                            ([Neutral] 大樽に入れる)
+- `veer`                            ([Neutral] 進路や話題を急に変える)
+- `vend`                            ([Neutral] 販売する)
+- `vent` /vent/                     ([Neutral] 感情を発散する)      She vented her frustration to a friend.
+- `ventilate`                            ([Neutral] 空気を通す、酸素を供給する)
+- `verge`                            ([Neutral] 縁にある、へりを成す)
+- `vibrate`                            ([Neutral] 振動する、揺れる、反響する、揺り動かす)
+- `vie`                            ([Neutral] 競う、争う)
+- `volley`                            ([Neutral] いっせいに射撃する)
 - `vomit`                            ([Neutral] 食物を吐く)
+- `vow`                            ([Neutral] 誓う、断言する)
+- `wade`                            ([Neutral] 水中を歩いて渡る、苦労して進む)
+- `waft`                            ([Neutral] 空中を漂う、空中をふわりと運ぶ)
+- `wag`                            ([Neutral] 振る、揺する、しきりに動く)
+- `wager` /ˈweɪdʒər/                ([Neutral] 賭ける)              I'll wager he's already gone.
+- `wail`                            ([Neutral] 泣き叫ぶ、もの悲しい音を出す)
+- `wait for` /weɪt fɔːr/            ([Neutral] 待つ)                I'm waiting for the bus.
+- `walk` /wɔːk/                     ([Neutral] 歩く)                I walk to work every day.
 - `wallpaper`                            ([Neutral] 壁紙をはる)
 - `warble`                            ([Neutral] さえずる、声を震わせて歌う)
+- `warn` /wɔːrn/                    ([Neutral] 警告する、注意する)  I warned him about the danger.
 - `warp`                            ([Neutral] よじ曲げる、そらせる、ゆがめる、曲がる)
+- `waste` /weɪst/                   ([Neutral] 無駄にする)          Don't waste your time on this.
+- `watch out` /wɑːtʃ aʊt/           ([Casual] 気をつけて)           Watch out for that car!
+- `waver`                            ([Neutral] 動揺する、揺れ動く、ぐらつく)
+- `wean`                            ([Neutral] 乳離れさせる、引き離す)
 - `wedge`                            ([Neutral] 裂く)
 - `weed`                            ([Neutral] 雑草をとる)
 - `weep`                            ([Neutral] 泣く)
+- `weld`                            ([Neutral] 溶接する、結合する)
 - `welter`                            ([Neutral] うねる、転がり回る)
+- `wheedle` /ˈwiːdəl/               ([Neutral] 甘言で説得する)      He wheedled money out of her.
+- `wheeze`                            ([Neutral] 苦しそうに息をする、あえぐような音を出す)
+- `whet`                            ([Neutral] 欲求を刺激する、砥石でとぐ)
 - `whiff`                            ([Neutral] 軽く吹く)
+- `whimper`                            ([Neutral] （子どもが）すすり泣く、泣き言を言う、クンクン鳴く)
+- `whine`                            ([Neutral] （犬が）クンクン鳴く、哀れな声を出す、めそめそグチを言う)
 - `whirl`                            ([Neutral] ぐるぐる回る)
 - `whisk`                            ([Neutral] 泡立てる、さっと払う)
+- `whitewash`                            ([Neutral] うわべを飾る)
+- `whore`                            ([Neutral] 売春する)
+- `widow`                            ([Neutral] 未亡人にする)
+- `wig`                            ([Neutral] かつらを付ける)
+- `wince`                            ([Neutral] 顔をしかめる、しりごみする、たじろぐ)
 - `windmill`                            ([Neutral] 回転させる)
+- `wither`                            ([Neutral] しおれる、衰える、あせる、消えてなくなる)
+- `withhold`                            ([Neutral] 保留する、抑える、引き留める)
 - `wobble`                            ([Neutral] よろめく、ためらう)
+- `woo`                            ([Neutral] せがむ、求愛する、得ようと努める)
+- `worry` /ˈwʌri/                   ([Neutral] 心配させる)          The situation worries me greatly.
+- `worsen`                            ([Neutral] より悪くする、より悪くなる)
+- `wrangle`                            ([Neutral] 論争する、せしめる)
 - `wrench`                            ([Neutral] ねじる、くじく)
+- `wrest`                            ([Neutral] 苦心して手に入れる、もぎ取る、ねじる)
+- `wrestle`                            ([Neutral] 取り組む、組み打ちをする、ねじ伏せる)
+- `wriggle`                            ([Neutral] うまく切り抜ける、くねくね進む)
+- `wring`                            ([Neutral] 絞り取る、圧縮する、堅く握る、ぐいとひねる)
+- `wrinkle`                            ([Neutral] しわを作る)
 - `writhe`                            ([Neutral] 身をよじる、ひん曲げる)
 - `wry`                            ([Neutral] ねじる)
-- `browse`                            ([Neutral] ざっと見る、食べる)
-- `fondle`                            ([Neutral] なで回す、愛情を込めて触れる、かわいがる)
-- `gape`                            ([Neutral] 口をぽかんと開けて見る、大きく裂ける)
-- `glimpse`                            ([Neutral] ちらりと見る)
-- `savor`                            ([Neutral] 十分に味わう)
-- `scope`                            ([Neutral] よく見る)
-- `scrutinize`                            ([Neutral] 詳細に調べる、じろじろ見る)
-- `squint`                            ([Neutral] 細目で見る)
-- `reinstate`                            ([Neutral] 回復させる、元の地位に戻す)
-- `quest`                            ([Neutral] 探し求める)
-- `aggregate`                            ([Neutral] 集まる、合計で～になる)
-- `centralize`                            ([Neutral] 中心に集める、集中させる)
-- `crusade`                            ([Neutral] 十字軍に加わる)
-- `hive`                            ([Neutral] 巣箱に集める)
-- `loose`                            ([Neutral] 解き放つ、離れる)
-- `rake`                            ([Neutral] くま手で集める、除く)
-- `troop`                            ([Neutral] ぞろぞろ集まる)
-
+- `yarn`                            ([Neutral] 物語をする)
+- `yield`                            ([Neutral] 生じる、産出する)
+- `yoke`                            ([Neutral] くびきをかける、結合する)
+- `zinc`                            ([Neutral] 亜鉛でメッキする)
