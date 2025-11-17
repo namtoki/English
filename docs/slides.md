@@ -614,50 +614,18 @@ layout: center
 class: text-center
 ---
 
-<div class="video-container">
-  <iframe
-    id="youtube-video"
-    src="https://www.youtube.com/embed/X2MNJVPcX3Q?autoplay=1&start=135&end=146&mute=0&controls=0&modestbranding=1&rel=0"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
-  ></iframe>
-</div>
-
-<style scoped>
-.video-container {
-  position: relative;
-  width: 100vw;
-  height: 100vh;
-  margin: -2rem -2rem;
-}
-
-.video-container iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
-
----
-layout: center
-class: text-center
----
-
 <div class="transition-message">
   <h1 class="text-6xl font-bold mb-8" v-click>
-    英語学習には<br>時間がかかる
+    英語学習には時間がかかる...
   </h1>
 
   <div v-click class="text-5xl font-bold text-blue-400 mt-12 mb-8">
     だからこそ
   </div>
 
-  <h2 v-click class="text-7xl font-bold text-gradient">
-    効率的な学習が必要！
-  </h2>
+  <h1 v-click class="text-7xl font-bold text-gradient">
+    計画的な学習とモチベーション管理が必要！
+  </h1>
 </div>
 
 <style scoped>
@@ -687,7 +655,7 @@ class: text-center
 transition: fade-out
 ---
 
-# ラフな目標設定と計画
+# どれくらいで終わるかな...
 
 <div class="compact-layout">
 
@@ -715,8 +683,8 @@ transition: fade-out
 <div v-click class="stamp-overlay">
   <div class="stamp-inner">
     <div class="stamp-label">現在</div>
-    <div class="stamp-hours">1,250時間</div>
-    <div class="stamp-sublabel">達成済み</div>
+    <div class="stamp-hours">約1,200時間</div>
+    <div class="stamp-sublabel">達成済み(たぶん)</div>
   </div>
 </div>
 
@@ -808,13 +776,19 @@ transition: fade-out
 transition: fade-out
 ---
 
-# 英語学習の分析
+# 何からやろうか...
 
 <div class="skill-image-container">
   <img src="/skill.png" alt="4技能と学習領域" class="skill-chart" />
 
-  <div v-click class="focus-box">
+  <div v-click="1" class="focus-box">
     <div class="focus-label">とりあえずここやろう</div>
+  </div>
+
+  <div v-click="2" class="book-images">
+    <img src="/duo.jpg" alt="DUO" class="book-img" />
+    <img src="/ichiokunin.jpg" alt="一億人の英文法" class="book-img" />
+    <img src="/shineibunpo.jpg" alt="真・英文法大全" class="book-img" />
   </div>
 </div>
 
@@ -860,13 +834,111 @@ transition: fade-out
   font-size: 1rem;
   white-space: nowrap;
 }
+
+.book-images {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  gap: 1.5rem;
+  z-index: 10;
+  align-items: flex-end;
+}
+
+.book-img {
+  height: 200px;
+  width: auto;
+  object-fit: contain;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+}
+</style>
+
+---
+---
+
+# モチベーションが続かない...
+
+<div class="motivation-page">
+  <div v-click class="solution-content">
+    <h2 class="solution-title">YouTube で楽しく発音勉強</h2>
+    <div class="solution-items">
+      <div class="solution-item">
+        <img src="/atsuhatuon.png" alt="Atsu発音講座" class="solution-img" />
+        <p class="solution-text">Atsuさんの発音講座で<br>発音の基礎を学習</p>
+      </div>
+      <div class="solution-item">
+        <img src="/youtube.png" alt="YouTube" class="solution-img" />
+        <p class="solution-text">YouTubeでネイティブの<br>発音にたくさん触れた</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<style scoped>
+.motivation-page {
+  padding: 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.solution-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.solution-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #10b981;
+  margin: 0;
+}
+
+.solution-items {
+  display: flex;
+  gap: 2rem;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.solution-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+.solution-img {
+  width: 180px;
+  height: auto;
+  object-fit: contain;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+.solution-item:nth-child(2) .solution-img {
+  width: 370px;
+}
+
+.solution-text {
+  font-size: 1rem;
+  font-weight: 600;
+  text-align: center;
+  line-height: 1.5;
+  color: #333;
+}
 </style>
 
 ---
 transition: fade-out
 ---
 
-# まずは基礎固め：文法と単語
+# まずは基礎固め：文法と単語とちょびっと発音
 
 <div class="foundation-layout">
 
@@ -1034,7 +1106,7 @@ transition: fade-out
   <div class="result-year failure">2024年11月</div>
   <div class="result-score">TOEIC <span class="score-number">750</span>点（変化なし）</div>
   <div class="result-comment failure">
-    <strong>発音知識</strong>と<strong>語法の知見</strong>が無いと何も話せない...
+    <strong>英語のリズム</strong>と<strong>語法の知見</strong>が無いと何も話せない...
   </div>
 
   <div v-click class="timeline-container">
@@ -1200,7 +1272,7 @@ transition: fade-out
 transition: fade-out
 ---
 
-# 再挑戦：発音と語法
+# 再挑戦：英文のリズムと語法
 
 <div class="foundation-layout conversation">
 
@@ -1211,7 +1283,7 @@ transition: fade-out
 <div class="approach-box">
   <div class="approach-item">
     <h3>🗣️ 発音</h3>
-    <p>発音記号から徹底学習</p>
+    <p>発音の応用知識を学習</p>
   </div>
 <div class="approach-item">
     <h3>📖 語法</h3>
@@ -1403,7 +1475,7 @@ transition: fade-out
 </div>
 
 <div class="goal-message">
-  <strong>目標：2025年末までにTOEIC 880点突破！</strong>
+  <strong>目標：2026年中にTOEIC 900点突破！</strong>
 </div>
 
 </v-clicks>
