@@ -12,16 +12,18 @@
 ## Daily
 - `throw away` /θrəʊ əˈweɪ/         ([Casual] 捨てる)               Don't throw away good food.
   - `throw out` /θrəʊ aʊt/          ([Casual] 捨てる)               Throw out the expired milk.
-  - `toss out` /tɔːs aʊt/           ([Casual] 捨てる)               Toss out those old magazines.
-  - `chuck` /tʃʌk/                  ([Casual] 投げ捨てる)           Chuck it in the bin.
-  - `dump` /dʌmp/                   ([Casual] 投げ捨てる)           Don't dump garbage here.
   - `toss` /tɔːs/                   ([Casual] 投げ捨てる)           Just toss it in the trash.
+  - `give up` /ɡɪv ʌp/              ([Casual] 放棄する)             He gave up his claim.
+  - `toss out` /tɔːs aʊt/           ([Casual] 捨てる)               Toss out those old magazines.
+  - `dump` /dʌmp/                   ([Casual] 投げ捨てる)           Don't dump garbage here.
   - `abandon` /əˈbændən/            ([Neutral] 放棄する、見捨てる)  They abandoned the project.
+  - `chuck` /tʃʌk/                  ([Casual] 投げ捨てる)           Chuck it in the bin.
   - `scrap` /skræp/                 ([Casual] 廃棄する)             We scrapped the old plan.
   - `discard` /dɪˈskɑːrd/           ([Formal] 廃棄する)             Discard any damaged items.
   - `junk` /dʒʌŋk/                  ([Casual] 廃棄する)             I junked my old computer.
   - `waive` /weɪv/                  ([Formal] [権利] 放棄する)        She waived her claim to the property.
-  - `renounce` /rɪˈnaʊns/           ([Formal] [権利] 放棄する)        He renounced his claim to the throne.
+  - `relinquish` /rɪˈlɪŋkwɪʃ/       ([Formal] 手放す)               She relinquished control.
+  - `renounce` /rɪˈnaʊns/           ([Formal] 放棄する)             He renounced his title.
   - `jettison` /ˈdʒetɪsn/           ([Formal] 乗り物から投げ捨てる) The crew jettisoned cargo to save the ship.
 
 ## Relationship
@@ -34,19 +36,29 @@
   - `forsake` /fɔːˈseɪk/            ([Writing] 見捨てる)            He forsook his friends in their time of need.
   - `jilt` /dʒɪlt/                  ([Casual] 恋人を捨てる)         She jilted him at the altar.
 - `quit` /kwɪt/                     ([Casual] 辞める)               He quit his job.
-- `resign` /rɪˈzaɪn/                ([Formal] 辞任する)             She resigned from her position.
-- `retire` /rɪˈtaɪər/               ([Neutral] 引退する)            He retired at age 65.
-- `step down` /step daʊn/           ([Neutral] 退く)                The CEO stepped down.
-- `give up` /ɡɪv ʌp/                ([Casual] 放棄する)             He gave up his claim.
-- `stand down` /stænd daʊn/         ([Formal] 退く)                 The chairman stood down.
-- `hand over` /hænd ˈoʊvər/         ([Neutral] 引き渡す)            He handed over power.
-- `relinquish` /rɪˈlɪŋkwɪʃ/         ([Formal] 手放す)               She relinquished control.
-- `renounce` /rɪˈnaʊns/             ([Formal] 放棄する)             He renounced his title.
-- `abdicate` /ˈæbdɪkeɪt/            ([Formal] 退位する)             The king abdicated the throne.
-- `surrender` /səˈrendər/           ([Formal] 譲り渡す)             They surrendered power.
-- `cede` /siːd/                     ([Formal] 譲る)                 The nation ceded territory.
-- `vacate` /ˈveɪkeɪt/               ([Formal] 明け渡す)             She vacated her office.
-- `yield` /jiːld/                   ([Formal] 譲る)                 He yielded to pressure.
+  - `resign` /rɪˈzaɪn/              ([Formal] 辞任する)             She resigned from her position.
+  - `retire` /rɪˈtaɪər/             ([Neutral] 引退する)            He retired at age 65.
+  - `step down` /step daʊn/         ([Neutral] 退く)                The CEO stepped down.
+  - `stand down` /stænd daʊn/       ([Formal] 退く)                 The chairman stood down.
+  - `abdicate` /ˈæbdɪkeɪt/          ([Formal] 退位する)             The king abdicated the throne.
+- `give in` /ɡɪv ɪn/                ([Casual] 屈する、譲歩する)     I finally gave in to his demands.
+  - `give way` /ɡɪv weɪ/            ([Neutral] 譲る、屈する)        The bridge gave way.
+  - `hand over` /hænd ˈoʊvər/       ([Neutral] 引き渡す)            Hand over the documents.
+  - `make way` /meɪk weɪ/           ([Neutral] 道を譲る)            Make way for the ambulance.
+  - `concede` /kənˈsiːd/            ([Formal] 認める、譲歩する)     He conceded defeat.
+  - `yield` /jiːld/                 ([Formal] 譲る)                 Yield to oncoming traffic.
+  - `back down` /bæk daʊn/          ([Casual] 引き下がる)           He backed down from the argument.
+  - `turn over` /tɜːrn ˈoʊvər/      ([Neutral] 引き渡す)            Turn over control to the new team.
+  - `submit` /səbˈmɪt/              ([Formal] 服従する、従う)       They submitted to authority.
+  - `defer` /dɪˈfɜːr/               ([Formal] 譲る、従う)           I defer to your judgment.
+  - `surrender` /səˈrendər/         ([Formal] 譲り渡す)             They surrendered power.
+  - `bow` /baʊ/                     ([Formal] 屈する)               He bowed to pressure.
+  - `cave in` /keɪv ɪn/             ([Casual] 屈する)               She caved in to their demands.
+  - `relent` /rɪˈlent/              ([Formal] 折れる、譲歩する)     He finally relented.
+  - `succumb` /səˈkʌm/              ([Formal] 屈する)               She succumbed to temptation.
+  - `capitulate` /kəˈpɪtʃəleɪt/     ([Formal] 降伏する)             The army capitulated.
+  - `cede` /siːd/                   ([Formal] 譲る)                 The nation ceded territory.
+  - `vacate` /ˈveɪkeɪt/             ([Formal] 明け渡す)             She vacated her office.
 
 ## Change
 - `decrease` /dɪˈkriːs/             ([Neutral] [数] 減少する)         Sales decreased last month.
@@ -494,7 +506,6 @@
 - `get under someone's skin`      ([Casual] いらいらさせる)       He knows how to get under my skin.
 - `get well` /ɡet wel/            ([Casual] 元気になる)           Get well soon!
 - `give a wide berth to`          ([Formal] 避ける、近寄らない)   I give that restaurant a wide berth.
-- `give up` /ɡɪv ʌp/              ([Neutral] 諦める、辞める)      Don't give up your dreams.
 - `glance over` /ɡlæns ˈoʊvər/    ([Neutral] ざっと見る)          She glanced over the report.
 - `glean` /ɡliːn/                 ([Writing] 拾い集める、収集する)I gleaned information from various sources.
 - `glimpse at` /ɡlɪmps æt/        ([Neutral] ちらっと見る)        I glimpsed at the photo.
@@ -782,7 +793,6 @@
 - `reject` /rɪˈdʒekt/             ([Neutral] 拒絶する)            They rejected his proposal.
 - `rejuvenate` /rɪˈdʒuːvəneɪt/    ([Neutral] 若返らせる 活力回復) The vacation rejuvenated her.
 - `relieve` /rɪˈliːv/             ([Neutral] 和らげる、緩和する)  The medication relieved his pain.
-- `relinquish` /rɪˈlɪŋkwɪʃ/       ([Formal] 手放す)               She relinquished control of the company.
 - `remain available`              ([Neutral] 利用可能である)      I'll remain available if needed.
 - `remain on hand`                ([Formal] 待機する)             Staff will remain on hand.
 - `remedy` /ˈremədi/              ([Neutral] 治療する、改善する)  We need to remedy this situation.
@@ -794,7 +804,6 @@
 - `repulse` /rɪˈpʌls/             ([Formal] 嫌悪させる)           His behavior repulsed her.
 - `rescind` /rɪˈsɪnd/             ([Formal] 撤回する)             The company rescinded the offer.
 - `resettle` /riːˈsetəl/          ([Formal] 再定住する)           Refugees resettled in new countries.
-- `resign` /rɪˈzaɪn/              ([Neutral] 辞任する)            She resigned from her position.
 - `resist` /rɪˈzɪst/              ([Neutral] 抵抗する、我慢する)  I couldn't resist the temptation.
 - `restore` /rɪˈstɔːr/            ([Formal] 回復する、復元する)   The treatment restored his health.
 - `restrain oneself from`         ([Formal] 控える、我慢する)     He restrained himself from commenting.
@@ -902,7 +911,6 @@
 - `steal` /stiːl/                 ([Neutral] 盗む)                They stole his wallet.
 - `steer clear of` /stɪr klɪr ʌv/ ([Casual] 避ける、近寄らない)   You should steer clear of that topic.
 - `step aside` /step əˈsaɪd/      ([Neutral] 身を引く、譲る)      He stepped aside for younger talent.
-- `step down` /step daʊn/         ([Neutral] 退く)                The CEO will step down next month.
 - `step in` /step ɪn/             ([Neutral] 中に入る、介入する)  Please step in to my office.
 - `step on someone's toes`        ([Casual] 他人の領域を侵す)     I don't want to step on your toes.
 - `stick to` /stɪk tuː/           ([Casual] 忠実に従う、続ける)   Let's stick to the original plan.
@@ -935,7 +943,6 @@
 - `support` /səˈpɔːrt/            ([Neutral] 裏付ける、支持する)  The data supports our theory.
 - `surface` /ˈsɜːrfɪs/            ([Neutral] 浮上する、現れる)    New evidence surfaced yesterday.
 - `surge` /sɜːrdʒ/                ([Neutral] 急増する、殺到する)  Demand surged during the pandemic.
-- `surrender` /səˈrendər/         ([Neutral] 降伏する、明け渡す)  He surrendered his position.
 - `suspend` /səˈspend/            ([Formal] 一時停止する)         Classes were suspended due to snow.
 - `swarm` /swɔːm/                 ([Neutral] 群がる)              Reporters swarmed around the star.
 - `swell` /swel/                  ([Neutral] 膨らむ、増大する)    The crowd swelled to 5000 people.
@@ -2141,7 +2148,6 @@
 - `quest`                            ([Neutral] 探し求める)
 - `queue`                            ([Neutral] 列をつくらせる)
 - `quip`                            ([Neutral] 皮肉を言う)
-- `quit` /kwɪt/                     ([Casual] 辞める)               I quit my job yesterday.
 - `quiver`                            ([Neutral] ブルブル震える、揺れる、震わせる)
 - `quote`                            ([Neutral] 引用する、示す)
 - `rack`                            ([Neutral] ラックに入れる)
