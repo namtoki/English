@@ -1,6 +1,6 @@
 ---
 theme: default
-background: /mario.gif
+background: /robot.gif
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -29,96 +29,46 @@ base: /English/
 
 .title-text {
   display: inline-block;
-  position: relative;
-}
-
-.crumble-text {
-  display: inline-block;
-  position: relative;
-}
-
-.crumble-char {
-  display: inline-block;
-}
-
-.crumble-text.slidev-vclick-hidden {
-  opacity: 1 !important;
-}
-
-.crumble-text.slidev-vclick-hidden .crumble-char {
-  animation: crumble 0.8s ease-in forwards;
-  animation-delay: calc(var(--delay) * 0.1s);
-}
-
-@keyframes crumble {
-  0% {
-    transform: translateY(0) rotate(0deg);
-    opacity: 1;
-  }
-  30% {
-    transform: translateY(10px) rotate(calc(var(--delay) * 5deg));
-    opacity: 0.9;
-  }
-  60% {
-    opacity: 0.5;
-  }
-  100% {
-    transform: translateY(400px) rotate(calc(var(--delay) * 50deg + 180deg));
-    opacity: 0;
-  }
-}
-
-.new-text {
-  display: inline-block;
-  opacity: 0;
-  position: absolute;
-  left: 0;
-}
-
-.new-text.slidev-vclick-current {
-  animation: fade-in-up 1.2s ease-out forwards;
-  animation-delay: 0.8s;
-}
-
-@keyframes fade-in-up {
-  0% {
-    transform: translateY(0) scale(0.9);
-    opacity: 0;
-  }
-  50% {
-    transform: translateY(-5px) scale(1.02);
-  }
-  100% {
-    transform: translateY(0) scale(1);
-    opacity: 1;
-  }
+  font-size: 4.5rem;
 }
 
 .subtitle {
   font-size: 1.5rem;
-  opacity: 0;
 }
 
-.subtitle.slidev-vclick-current {
-  animation: fade-in 1s ease-out forwards;
-  animation-delay: 1s;
+.author-info {
+  position: absolute;
+  bottom: 2rem;
+  right: 1rem;
+  text-align: right;
+  color: white;
+  font-size: 1rem;
 }
 
-@keyframes fade-in {
-  to {
-    opacity: 1;
-  }
+.author-name {
+  font-weight: bold;
+  margin-bottom: 0.3rem;
+}
+
+.author-department {
+  font-size: 0.9rem;
+  opacity: 0.9;
 }
 </style>
 
 <div class="title-container">
   <div class="title-text">
-    英語学習<span style="position: relative; display: inline-block;"><span v-click.hide="1" class="crumble-text"><span class="crumble-char" style="--delay: 0">教</span><span class="crumble-char" style="--delay: 1">え</span><span class="crumble-char" style="--delay: 2">ま</span><span class="crumble-char" style="--delay: 3">す</span><span class="crumble-char" style="--delay: 4">！</span></span><span v-click="1" class="new-text">仲間募集中</span></span>
+    コツコツ続ける英語学習
   </div>
 </div>
 
-<div v-click="1" class="subtitle">
+<div class="subtitle">
   📚 継続的な学習で英語力を向上させる旅
+</div>
+
+<div class="author-info">
+  <div class="author-name">棚村俊之</div>
+  <div class="author-department">Product Software Headphone team</div>
 </div>
 
 ---
