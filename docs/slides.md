@@ -286,6 +286,14 @@ onMounted(() => {
     adapterScript.onload = () => {
       const ctx = document.getElementById('englishJourneyChart')
       if (ctx) {
+        // Set high resolution for canvas
+        const dpr = window.devicePixelRatio || 2
+        const rect = ctx.getBoundingClientRect()
+        ctx.width = rect.width * dpr
+        ctx.height = rect.height * dpr
+        ctx.style.width = rect.width + 'px'
+        ctx.style.height = rect.height + 'px'
+
         // Load images with base path
         const basePath = import.meta.env.BASE_URL || '/'
 
@@ -362,18 +370,19 @@ onMounted(() => {
               backgroundColor: 'rgba(75, 192, 192, 0.2)',
               tension: 0.4,
               fill: true,
-              borderWidth: 3,
-              pointRadius: 5,
+              borderWidth: 4,
+              pointRadius: 6,
               pointBackgroundColor: 'rgb(75, 192, 192)',
               pointBorderColor: '#fff',
-              pointBorderWidth: 2,
-              pointHoverRadius: 7
+              pointBorderWidth: 3,
+              pointHoverRadius: 8
             }]
           },
           plugins: [imagePlugin],
           options: {
             responsive: true,
             maintainAspectRatio: true,
+            devicePixelRatio: Math.max(window.devicePixelRatio || 2, 3),
             animation: {
               duration: 800,
               easing: 'easeInOutQuart'
@@ -385,7 +394,8 @@ onMounted(() => {
                 labels: {
                   color: '#333',
                   font: {
-                    size: 14
+                    size: 16,
+                    weight: '500'
                   }
                 }
               },
@@ -408,7 +418,8 @@ onMounted(() => {
                   text: '英語の理解度',
                   color: '#333',
                   font: {
-                    size: 14
+                    size: 16,
+                    weight: '500'
                   }
                 },
                 grid: {
@@ -438,7 +449,8 @@ onMounted(() => {
                   text: '時期',
                   color: '#333',
                   font: {
-                    size: 14
+                    size: 16,
+                    weight: '500'
                   }
                 },
                 grid: {
@@ -555,6 +567,11 @@ watch($clicks, (clicks) => {
   border-radius: 12px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+.chart-container canvas {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+}
 </style>
 
 ---
@@ -567,7 +584,7 @@ transition: fade-out
 
 <div class="grid grid-cols-2 gap-6 mt-6">
 
-<div class="bg-green-500/10 p-4 rounded">
+<div class="bg-green-500/10 p-4 rounded goal-box">
 
 ### ビジネス英語
 **1,500〜2,000時間**
@@ -581,7 +598,7 @@ transition: fade-out
 
 </div>
 
-<div class="bg-purple-500/10 p-4 rounded">
+<div class="bg-purple-500/10 p-4 rounded goal-box">
 
 ### 日常英会話
 **3,000〜5,000時間**
@@ -608,6 +625,16 @@ transition: fade-out
 </div>
 
 </v-clicks>
+
+<style scoped>
+.goal-box {
+  transition: transform 0.3s ease;
+}
+
+.goal-box:hover {
+  transform: translateY(-5px);
+}
+</style>
 
 ---
 layout: center
@@ -947,12 +974,12 @@ transition: fade-out
 ## 📚 取り組んだこと（2023年10月〜2024年5月：半年間）
 
 <div class="approach-box">
-  <div class="approach-item">
+  <div class="approach-item foundation-approach">
     <h3>📖 文法</h3>
     <p>基礎文法を一から学び直し</p>
   </div>
 
-  <div class="approach-item">
+  <div class="approach-item foundation-approach">
     <h3>📝 単語</h3>
     <p>頻出単語を集中的に学習</p>
   </div>
@@ -998,6 +1025,11 @@ transition: fade-out
   border-radius: 12px;
   padding: 1rem;
   text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.foundation-approach:hover {
+  transform: translateY(-5px);
 }
 
 .approach-item h3 {
@@ -1089,12 +1121,12 @@ transition: fade-out
 ## 🗣️ 取り組んだこと（2024年6月〜11月：半年間）
 
 <div class="approach-box">
-  <div class="approach-item failure">
+  <div class="approach-item failure conversation-approach">
     <h3>💬 英会話</h3>
     <p>オンライン英会話に挑戦</p>
   </div>
 
-  <div class="approach-item failure">
+  <div class="approach-item failure conversation-approach">
     <h3>🤔 結果</h3>
     <p>何も口から出ない...</p>
   </div>
@@ -1147,6 +1179,10 @@ transition: fade-out
 .approach-item.failure {
   background: rgba(239, 68, 68, 0.05);
   border: 2px solid rgba(239, 68, 68, 0.3);
+}
+
+.conversation-approach:hover {
+  transform: translateY(-5px);
 }
 
 .approach-item h3 {
@@ -1281,16 +1317,16 @@ transition: fade-out
 ## 📚 取り組んだこと（2024年11月〜2025年5月）
 
 <div class="approach-box">
-  <div class="approach-item">
+  <div class="approach-item rechallenge-approach">
     <h3>🗣️ 発音</h3>
     <p>発音の応用知識を学習</p>
     <img src="/doctord.png" alt="ドクターD" class="approach-book-img" />
   </div>
-  <div class="approach-item">
+  <div class="approach-item rechallenge-approach">
     <h3>📖 語法</h3>
     <p>表現パターンを習得</p>
   </div>
-  <div class="approach-item">
+  <div class="approach-item rechallenge-approach">
     <h3>💭 英語の気持ち</h3>
     <p>新書が結構面白い</p>
     <img src="/nihonjin.jpg" alt="一億人の英文法" class="approach-book-img" />
@@ -1354,6 +1390,10 @@ transition: fade-out
   border-radius: 12px;
   padding: 0.8rem;
   text-align: center;
+}
+
+.rechallenge-approach:hover {
+  transform: translateY(-5px);
 }
 
 .foundation-layout.conversation .approach-item {
@@ -1666,6 +1706,11 @@ transition: fade-out
   border-radius: 12px;
   padding: 1rem;
   margin-bottom: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.reason-box:hover {
+  transform: translateY(-5px);
 }
 
 .reason-box p {
@@ -1681,6 +1726,11 @@ transition: fade-out
   border-radius: 16px;
   padding: 1.5rem;
   margin-bottom: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.service-highlight:hover {
+  transform: translateY(-5px);
 }
 
 .service-icon {
