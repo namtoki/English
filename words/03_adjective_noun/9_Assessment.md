@@ -27,6 +27,7 @@
   - `helpful` /ˈhelpfəl/            ([Neutral] 役立つ、有益な)      Your advice was very helpful.
   - `useful` /ˈjuːsfəl/             ([Neutral] 役に立つ、有用な)    This tool is very useful.
   - `valuable` /ˈvæljuəbəl/         ([Neutral] 貴重な、価値ある)    That's valuable information.
+  - `go-to` /ˈɡoʊ tuː/              ([Casual] 頼りになる、定番の)   She's my go-to person for advice.
 > `promising` /ˈprɑːmɪsɪŋ/          ([Neutral] 有望な、前途有望)    A promising young talent.
   - `desirable` /dɪˈzaɪərəbəl/      ([Neutral] 望ましい)            That's a desirable outcome.
   - `undesirable` /ˌʌndɪˈzaɪərəbəl/ ([Neutral] 望ましくない)        That's an undesirable result.
@@ -104,6 +105,8 @@
 
 - `accessible` /ækˈsesəbəl/       ([Neutral] 理解しやすい、近づき) The book is accessible to beginners.
 - `adequate` /ˈædɪkwət/             ([Neutral] 適切な、十分な)      The response was adequate.
+- `ready` /ˈredi/                   ([Neutral] 準備ができた)        Are you ready for the meeting?
+  - `prepared` /prɪˈperd/           ([Neutral] 準備ができた)        I'm well prepared for the exam.
 
 # ========================================
 # II. NEGATIVE EVALUATION (ネガティブな評価)

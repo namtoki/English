@@ -219,3 +219,4 @@
   - `hot button issue` /hɑːt ˈbʌtən ˈɪʃuː/ ([Neutral] 論争を呼ぶ問題) Abortion is a hot button issue.
   - `trending topic` /ˈtrendɪŋ ˈtɑːpɪk/ ([Casual] 流行のトピック)   AI is the trending topic now.
   - `talking point` /ˈtɔːkɪŋ pɔɪnt/ ([Neutral] 話題、議題)          The budget became a talking point.
+> `go-to-market` /ɡoʊ tuː ˈmɑːrkɪt/  ([Neutral] 市場開拓戦略)        We need a solid go-to-market strategy.

@@ -288,6 +288,7 @@
 - `come with` /kʌm wɪð/           ([Casual] 一緒に来る)           Do you want to come with?
 - `commute to` /kəˈmjuːt tuː/     ([Neutral] 通勤する)            I commute to work by train.
 - `compile` /kəmˈpaɪl/            ([Neutral] 編集する、収集する)  She compiled a list of contacts.
+- `compound` /kəmˈpaʊnd/          ([Neutral] 悪化させる、複利増)  This will compound the problem.
 - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 従う、応じる)         We comply with all regulations.
 - `comply with` /kəmˈplaɪ wɪð/    ([Formal] 遵守する、従う)       We must comply with regulations.
 - `con` /kɒn/                     ([Casual] だます、詐欺)         He conned them out of their money.

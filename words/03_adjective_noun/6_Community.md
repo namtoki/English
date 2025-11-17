@@ -45,6 +45,7 @@
   - `commission` /kəˈmɪʃən/         ([Neutral] 手数料、歩合)        Sales staff earn commission.
   - `dividend` /ˈdɪvɪdend/          ([Formal] 配当金)               The company paid dividends to shareholders.
   - `interest` /ˈɪntrəst/           ([Neutral] 利息)                The bank pays interest on savings.
+    - `compound interest` /ˈkɑmpaʊnd ˈɪntrəst/ ([Neutral] 複利)   Compound interest grows exponentially.
   - `revenue` /ˈrevənjuː/           ([Formal] 収益)                 Company revenue grew last quarter.
   - `allowance` /əˈlaʊəns/          ([Neutral] 小遣い、手当)        My parents give me a weekly allowance.
   - `inheritance` /ɪnˈherɪtəns/     ([Neutral] 相続財産)            He received an inheritance from his uncle.

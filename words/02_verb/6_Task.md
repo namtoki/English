@@ -55,6 +55,7 @@
   - `put things in place`           ([Neutral] 準備を整える)        We need to put things in place first.
   - `make arrangements`             ([Neutral] 手配する、準備する)  I'll make arrangements for the trip.
   - `prepare` /prɪˈper/             ([Neutral] 準備する、用意する)  Let's prepare everything we need.
+  - `prep` /prep/                   ([Casual] 準備する)             I'm prepping for the meeting.
   - `establish` /ɪˈstæblɪʃ/         ([Formal] 設立する、確立する)   We need to establish the process.
   - `arrange` /əˈreɪndʒ/            ([Neutral] 手配する、調整する)  I'll arrange a time that works for everyone.
   - `plan` /plæn/                   ([Neutral] 計画する、予定する)  Let's plan the project timeline.

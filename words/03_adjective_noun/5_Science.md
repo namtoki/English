@@ -169,6 +169,7 @@
 - `coal` /koʊl/                     ([Neutral] 石炭)                Coal is used for generating electricity.
 - `lead` /led/                      ([Neutral] 鉛)                  Lead is a heavy metal.
 - `pencil lead` /ˈpensəl led/       ([Neutral] 鉛筆の芯)            Pencil lead is actually graphite.
+- `compound` /ˈkɑmpaʊnd/            ([Neutral] 化合物、複合物)      Water is a chemical compound.
 
 ## Material Properties
 > `flexible` /ˈfleksəbl/            ([Neutral] 柔軟な)              This material is very flexible.
