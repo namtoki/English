@@ -1284,10 +1284,16 @@ transition: fade-out
   <div class="approach-item">
     <h3>🗣️ 発音</h3>
     <p>発音の応用知識を学習</p>
+    <img src="/doctord.png" alt="ドクターD" class="approach-book-img" />
   </div>
-<div class="approach-item">
+  <div class="approach-item">
     <h3>📖 語法</h3>
     <p>表現パターンを習得</p>
+  </div>
+  <div class="approach-item">
+    <h3>💭 英語の気持ち</h3>
+    <p>新書が結構面白い</p>
+    <img src="/nihonjin.jpg" alt="一億人の英文法" class="approach-book-img" />
   </div>
 </div>
 
@@ -1316,7 +1322,7 @@ transition: fade-out
 }
 
 .foundation-layout.conversation {
-  padding: 0.5rem 2rem;
+  padding: 0.2rem 1.5rem;
 }
 
 .foundation-layout h2 {
@@ -1325,8 +1331,8 @@ transition: fade-out
 }
 
 .foundation-layout.conversation h2 {
-  margin-bottom: 0.8rem;
-  font-size: 1.2rem;
+  margin-bottom: 0.3rem;
+  font-size: 1rem;
 }
 
 .approach-box {
@@ -1337,16 +1343,44 @@ transition: fade-out
 }
 
 .foundation-layout.conversation .approach-box {
-  gap: 1rem;
-  margin-bottom: 1rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .approach-item {
   background: rgba(59, 130, 246, 0.1);
   border: 2px solid rgba(59, 130, 246, 0.3);
   border-radius: 12px;
-  padding: 1rem;
+  padding: 0.8rem;
   text-align: center;
+}
+
+.foundation-layout.conversation .approach-item {
+  padding: 0.5rem;
+}
+
+.approach-book-img {
+  width: 80px;
+  height: auto;
+  margin-top: 0.3rem;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.foundation-layout.conversation .approach-book-img {
+  width: 60px;
+  margin-top: 0.2rem;
+}
+
+.foundation-layout.conversation .approach-item h3 {
+  font-size: 0.95rem;
+  margin-bottom: 0.2rem;
+}
+
+.foundation-layout.conversation .approach-item p {
+  font-size: 0.75rem;
+  margin: 0.1rem 0;
 }
 
 .approach-item h3 {
@@ -1372,7 +1406,21 @@ transition: fade-out
 }
 
 .foundation-layout.conversation .result-box {
-  padding: 1.2rem;
+  padding: 0.8rem;
+  max-width: 500px;
+}
+
+.foundation-layout.conversation .result-comment {
+  font-size: 0.85rem;
+}
+
+.foundation-layout.conversation .result-score {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.foundation-layout.conversation .score-number {
+  font-size: 2rem;
 }
 
 .result-year {
@@ -1416,6 +1464,13 @@ transition: fade-out
   right: -60px;
   width: 200px;
   height: 150px;
+}
+
+.foundation-layout.conversation .timeline-container {
+  width: 150px;
+  height: 110px;
+  top: -15px;
+  right: -40px;
 }
 
 .timeline-img {
