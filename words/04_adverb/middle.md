@@ -57,14 +57,24 @@
 
 ## Emphasis
 - `a lot` /ə ˈlɑt/                  ([Casual] とても、すごく)       Thanks a lot for listening to me.
-  - ==legit== /ləˈdʒɪt/               ([Casual] 本当に、マジで)       I legit thought he was joking.
-  - ==literally== /ˈlɪtərəli/         ([Neutral] 文字通り、本当に)    I'm literally starving right now.
-  - `genuinely` /ˈdʒenjuɪnli/       ([Neutral] 本当に、心から)      I'm genuinely happy for you.
   - `really` /ˈriːəli/              ([Neutral] 本当に、本気で)      I really appreciate your help.
+  - ==literally== /ˈlɪtərəli/         ([Neutral] 文字通り、本当に)    I'm literally starving right now.
+  - `actually` /ˈæktʃuəli/          ([Neutral] 実は、本当に)        I'm actually quite tired.
+  - `seriously` /ˈsɪriəsli/         ([Neutral] 本気で、マジで)      Are you seriously leaving now?
+  - `honestly` /ˈɑːnɪstli/          ([Neutral] 正直に、本当に)      I honestly don't know what to do.
+  - `genuinely` /ˈdʒenjuɪnli/       ([Neutral] 本当に、心から)      I'm genuinely happy for you.
   - `truly` /ˈtruːli/               ([Neutral] 本当に、真に)        I'm truly sorry for the mistake.
+  - ==legit== /ləˈdʒɪt/               ([Casual] 本当に、マジで)       I legit thought he was joking.
+  - `for real` /fɔːr riːl/          ([Casual] マジで、本当に)       Are you leaving for real?
+  - `no joke` /noʊ dʒoʊk/           ([Casual] 冗談抜きで)           This is important, no joke.
 - ==especially== /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
   - ==particularly== /pərˈtɪkjələrli/ ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
+  - `specifically` /spɪˈsɪfɪkli/    ([Neutral] 特に、具体的に)      I'm looking for help, specifically with coding.
   - `notably` /ˈnoʊtəbli/           ([Neutral] 特に、著しく)        She was notably absent from the meeting.
+  - `in particular`                 ([Neutral] 特に、とりわけ)      I like Italian food, pasta in particular.
+  - `chiefly` /ˈtʃiːfli/            ([Formal] 主に、特に)           He's interested chiefly in history.
+  - ==largely== /ˈlɑːrdʒli/           ([Neutral] 主に、大部分は)      The decision was largely based on cost.
+  - `markedly` /ˈmɑːrkɪdli/         ([Formal] 著しく、顕著に)       Sales improved markedly this quarter.
 - `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
   - `principally` /ˈprɪnsəpəli/     ([Formal] 主に、主として)       He's known principally for his novels.
   - `predominantly` /prɪˈdɑːmɪnəntli([Formal] 大部分は)             The area is predominantly residential.
