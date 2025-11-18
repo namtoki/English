@@ -71,7 +71,7 @@
   - `Neither do I`                  ([Casual] 私もそうです)         I don't like spicy food. Neither do I.
 - ==Fair enough==                     ([Casual] まあそれもありだね)   Fair enough, I see your point.
   - `I know what you're saying,but` ([Casual] わかるけど)           I know what you're saying, but we need to consider the budget.
-  - `I see your point, but`         ([Neutral] おしゃる通りですが)  I see your point, but there are other factors.
+  - ==I see your point, but==         ([Neutral] おしゃる通りですが)  I see your point, but there are other factors.
   - `That's true, but`              ([Casual] それは確かだけど)     That's true, but we should think about timing.
   - `You have a point, but`         ([Neutral] 一理ありますが)      You have a point, but I'm not fully convinced.
   - `I hear you, but`               ([Casual] 言いたいことわかるが) I hear you, but let's consider alternatives.
@@ -95,7 +95,7 @@
   - `I couldn't agree more`         ([Neutral] 大賛成です)          I couldn't agree more with your assessment.
   - `My thoughts exactly`           ([Neutral] 私もそう思ってた)    My thoughts exactly about the new policy.
 - ==Good to know==                    ([Casual] 知れてよかった)       Thanks for the update. Good to know.
-  - `Thanks for the heads up`       ([Casual] 教てくれてありがとう) Thanks for the heads up about the meeting change.
+  - ==Thanks for the heads up==       ([Casual] 教てくれてありがとう) Thanks for the heads up about the meeting change.
   - `I appreciate the update`       ([Neutral] 報告ありがとう)      I appreciate the update on the project status.
   - `That's helpful`                ([Casual] 助かります)           That's helpful, I'll keep that in mind.
 - `You flatter me`                  ([Formal] お世辞でも嬉しい)     You flatter me. I'm just doing my job.
@@ -178,7 +178,7 @@
 - ==That would be great==             ([Casual] そうしてくれると嬉し) If you could send me the files, that would be great.
   - `That'd be perfect`             ([Casual] それは完璧だ)         That'd be perfect for our meeting schedule.
 - `That's the way it is`            ([Neutral] そういうものだ)      Sometimes things don’t go as planned, but that's the way it is.
-  - `It is what it is`              ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
+  - ==It is what it is==              ([Casual] そういうものだ)       The weather ruined our plans. It is what it is.
   - `That's just me`                ([Casual] それが私だから)       I can't help being late. That's just me.
   - `It's a thing now`              ([Casual] 今はそういうものだ)   Using reusable bags? It's a thing now.
 - `I hope not`                      ([Casual] そうじゃないといいな) I hope not, because that would be a big problem.

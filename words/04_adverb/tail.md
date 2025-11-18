@@ -141,6 +141,19 @@
   - `, accompanied by O`            ([Formal] Oを伴って)            Meals, accompanied by wine pairings.
   - `, including O`                 ([Neutral] Oを含めて)           Packages, including delivery service.
   - `, with O included`             ([Neutral] Oが含まれて)         Subscriptions, with premium features included.
+- `respectively` /rɪˈspektɪvli/     ([Formal] それぞれ、各自)       John and Mary are 30 and 25 respectively.
+  - `individually` /ˌɪndɪˈvɪdʒuəli/ ([Neutral] 個々に、それぞれ)    We need to address each issue individually.
+  - `separately` /ˈsepərətli/       ([Neutral] 別々に、個別に)      Please handle these tasks separately.
+  - `each` /iːtʃ/                   ([Neutral] それぞれ、各自)      They each received a prize.
+  - `apiece` /əˈpiːs/               ([Neutral] 一人につき、各自)    They received $10 apiece.
+## Detail
+- `minutely` /maɪˈnuːtli/           ([Formal] 詳細に、綿密に)       She examined it minutely.
+- `evenly` /ˈiːvənli/               ([Neutral] 均等に、平等に)      Spread the butter evenly on the bread.
+
+
+- `simultaneously` /ˌsaɪməlˈteɪniəsli/ ([Formal] 同時に)            Press both buttons simultaneously.
+
+
 
 ## EMPHASIS
 - ==in the first place==              ([Neutral] そもそも、第一に)    Why did you do it in the first place?

@@ -1,6 +1,14 @@
 # That Clause
 
-## Hearing
+## Impression
+- ==I get the impression (that)==     ([Neutral] ～な印象を受ける)    I get the impression that she's upset.
+  - `I have the impression (that)`  ([Neutral] ～な印象を持ている)  I have the impression that he's not interested.
+  - `I'm under the impression (that)` ([Neutral] ～だと思っている)  I'm under the impression that the meeting was cancelled.
+  - `It gives me the impression (that)` ([Neutral] ～な印象与える)  It gives me the impression that they're not ready.
+  - `I sense (that)`                ([Neutral] ～を感じ取る)        I sense that something's wrong.
+  - `I gather (that)`               ([Neutral] ～と理解している)    I gather that you're not coming.
+  - `It strikes me (that)`          ([Neutral] ～だと感じる)        It strikes me that we might be overlooking something.
+  - `My sense is (that)`            ([Neutral] 私の感覚では)        My sense is that they're willing to negotiate.
 - ==It looks like==                   ([Casual] ～みたいだ)           It looks like it's going to rain.
   - `It seems (that)`               ([Neutral] ～のようだ)          It seems that we have a problem.
   - `It seems as if/though`         ([Neutral] ～のように見える)    It seems as if he's not interested in the proposal.
@@ -18,7 +26,6 @@
   - `Several sources indicate that` ([Writing] 複数の情報源が示す)  Several sources indicate that profits are rising.
   - `Multiple reports claim that`   ([Writing] 複数の報道が主張)    Multiple reports claim that the merger is imminent.
   - `Various publications note that`([Writing] 様々な出版物が指摘)  Various publications note that innovation is accelerating.
-- `I get the impression (that)`     ([Neutral] ～な印象を受ける)    I get the impression that she's upset.
 
 ## Opinion
 - `I think`                         ([Casual] 私は思う)             I think we should leave now.
@@ -27,8 +34,8 @@
   - `I hope`                        ([Neutral] ～であってほしい)    I hope everything goes smoothly tomorrow.
   - ==I assume==                      ([Neutral] ～だと仮定する)      I assume you've heard the news.
 - ==!It crosses one's mind==           ([Casual] 頭をよぎる)           It never crossed my mind.
-  - `It dawns on 人` /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
-  - `It occurs to 人` /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
+  - ==It dawns on 人== /dɔːn ɑːn/     ([Casual] 気づく 分かってくる)  It dawned on me that I was wrong.
+  - ==It occurs to 人== /əˈkɜːr/      ([Neutral] 思い浮かぶ)          It never occurred to me.
   - `It hit 人` /hɪt/               ([Casual] 突然気づく)           It just hit me that we're late.
 - `I'm sure (that)`                 ([Neutral] ～を確信している)    I'm sure that everything will work out fine.
   - ==I'm confident (that)==          ([Neutral] ～を確信している)    I'm confident that we can meet the deadline.
@@ -107,13 +114,13 @@
   - `supposedly`                    ([Neutral] ～らしい)            Supposedly, he's an expert in this field.
   - `maybe`                         ([Casual] たぶん～)             Maybe we should try a different approach.
   - `It's possible (that)`          ([Neutral] ～の可能性がある)    It's possible that we made an error.
-  - `There's a chance (that)`       ([Neutral] ～の可能性がある)    There's a chance that he'll show up.
-  - `There's a possibility (that)`  ([Neutral] ～の可能性がある)    There's a possibility that we're wrong.
+  - ==There's a chance (that)==       ([Neutral] ～の可能性がある)    There's a chance that he'll show up.
+  - ==There's a possibility (that)==  ([Neutral] ～の可能性がある)    There's a possibility that we're wrong.
   - `It may be (that)`              ([Formal] ～かもしれない)       It may be that we need more time.
   - `It might be (that)`            ([Neutral] ～かもしれない)      It might be that she forgot.
   - ==It could be (that)==            ([Neutral] ～の可能性がある)    It could be that she misunderstood.
-- ==What are the chances that==       ([Casual] S V の可能性は？)     What are the chances that the meeting will finish early?
-  - `How likely is it that`         ([Neutral] S V の可能性は？)    How likely is it that` the project will be delayed?
+- ==How likely is it that==           ([Neutral] S V の可能性は？)    How likely is it that` the project will be delayed?
+  - ==What are the chances that==     ([Casual] S V の可能性は？)     What are the chances that the meeting will finish early?
 
 ## Emphasis
 - `I can't tell you how much`       ([Casual] どれだけ～か言い表せない) I can't tell you how much I appreciate your help.

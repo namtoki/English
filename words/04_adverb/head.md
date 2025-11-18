@@ -116,7 +116,7 @@
   - `basically`                     ([Casual] 基本的に、要するに)   Basically, we need to start over.
   - ==the thing is==                  ([Casual] 実は、要は)           The thing is, I forgot my wallet.
   - ==the point is==                  ([Neutral] 要点は)              The point is, we can't afford it.
-  - `as in`                         ([Neutral] つまり)              Give me a fruit, as in an apple or orange.
+  - ==as in==                         ([Neutral] つまり)              Give me a fruit, as in an apple or orange.
   - `in other words`                ([Neutral] 言い換えると)        She's busy. In other words, she can't come.
   - `let me rephrase that`          ([Neutral] 言い直すと)          Let me rephrase that - it's challenging.
   - `to put it another way`         ([Neutral] 別の言い方をすると)  To put it another way, we're broke.
@@ -318,30 +318,28 @@
   - `as of now`                     ([Neutral] 現時点で)            As of now, we have 100 members.
   - `as of today`                   ([Neutral] 今日時点で)          As of today, the deal is still pending.
   - `as of this morning`            ([Neutral] 今朝時点で)          As of this morning, no decision has been made.
-- ==on a scale of 1 to 10==           ([Neutral] 1から10で評価すると) On a scale of 1 to 10, how was your day?
+- ==!on a scale of 1 to 10==           ([Neutral] 1から10で評価すると) On a scale of 1 to 10, how was your day?
   - `on a scale of 1 to 5`          ([Neutral] 1から5で評価すると)  On a scale of 1 to 5, rate the service.
   - `from 1 to 10`                  ([Casual] 1から10で)            From 1 to 10, how likely are you to recommend us?
   - `rate from 1 to 10`             ([Neutral] 1から10で評価して)   Rate from 1 to 10 your satisfaction level.
   - `scale from 0 to 10`            ([Neutral] 0から10の範囲で)     Scale from 0 to 10, where 0 is worst.
 
 ## OPINION
-- ==to me== /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
-  - ==in my opinion==                 ([Neutral] 私の意見では)        In my opinion, this is the best option.
+- `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
+  - `in my opinion`                 ([Neutral] 私の意見では)        In my opinion, this is the best option.
   - `in my view` /ɪn maɪ vjuː/      ([Neutral] 私の見解では)        In my view, we need more time.
   - `to my mind` /tuː maɪ maɪnd/    ([Neutral] 私の考えでは)        To my mind, this solution works best.
   - `personally` /ˈpɜːrsənəli/      ([Neutral] 個人的には)          Personally, I prefer the first design.
-  - `the way I see it`              ([Casual] 私の考えでは)         The way I see it, we have two choices.
+  - ==the way I see it==              ([Casual] 私の考えでは)         The way I see it, we have two choices.
   - `from my point of view`         ([Neutral] 私の視点では)        From my point of view, it's too risky.
   - `from my perspective`           ([Neutral] 私の観点から)        From my perspective, it's a win-win.
   - `if you ask me`                 ([Casual] 私に言わせれば)       If you ask me, it's a waste of time.
-- `I think`                         ([Casual] 確か)                 I think the meeting is at 3.
-  - `I believe`                     ([Neutral] 確か)                I believe it was Tuesday.
-  - `as far as I know`              ([Neutral] 知る限りでは)        As far as I know, he's still working there.
+- ==as far as I know==                ([Neutral] 知る限りでは)        As far as I know, he's still working there.
   - `as I understand it`            ([Neutral] 理解している限り)    As I understand it, the plan changed.
-  - `from what I understand`        ([Neutral] 理解している限り)    From what I understand, it's canceled.
-  - `from what I've heard`          ([Casual] 聞いた話では)         From what I've heard, she's moving.
-  - `from what I know`              ([Casual] 知っている限り)       From what I know, it's true.
-- `reportedly` /rɪˈpɔːrtɪdli/       ([Neutral] 伝えられるところによれば) Reportedly, they're closing the office.
+  - `==from what I== understand`        ([Neutral] 理解している限り)    From what I understand, it's canceled.
+  - `==from what I=='ve heard`          ([Casual] 聞いた話では)         From what I've heard, she's moving.
+  - `==from what I== know`              ([Casual] 知っている限り)       From what I know, it's true.
+- `reportedly` /rɪˈpɔːrtɪdli/       ([Neutral] 伝えられるところ)    Reportedly, they're closing the office.
   - `allegedly` /əˈledʒɪdli/        ([Neutral] 申し立てによると)    Allegedly, he was involved in the scandal.
 - ==if I'm not mistaken==             ([Neutral] 間違っていなければ)  If I'm not mistaken, the meeting is at 3 p.m.
   - `if I'm not wrong`              ([Casual] 間違ってなければ)     If I'm not wrong, he said Monday.
