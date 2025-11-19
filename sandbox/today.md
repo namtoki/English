@@ -84,8 +84,7 @@ Regardless of whether we reset the timer or not, I believe that at least,
 
 Device A and Device B should behave the same way in this flow.
 
-
-
+> ..
 
 Next, this flow outlines the limitations of the Sleep timer.
 
