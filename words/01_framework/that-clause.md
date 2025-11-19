@@ -59,6 +59,7 @@
 - ==!It's up in the air whether==      ([Casual] かどうかはまだ未定だ) It's up in the air whether we'll have the meeting tomorrow.
 - ==Turns out==                       ([Casual] ということがわかった) Turns out she was right all along.
 - `It doesn't mean anything that`   ([Neutral] といって意味ない)    It doesn't mean anything that he apologized if he doesn't change.
+- `meant that`                      ([Neutral] ことになった)        The delay meant that we missed our flight.
 - `文章. ~~`
   - `   -ing. That is C`            ([Neutral] している。それはCだ) Working overtime. That is exhausting.
   - `   -ing. That'd be C`          ([Casual] SしてたらそれはCだね) Working late again, that'd be tiring.

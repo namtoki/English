@@ -1,6 +1,6 @@
 # Tail
 
-## WHY
+## Why
 - ==because== /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
   - `because of` /bɪˈkɔːz əv/       ([Neutral] ～のため)            The game was canceled because of rain.
   - `so` /soʊ/                      ([Casual] だから)               I was hungry, so I ate a sandwich.
@@ -10,13 +10,11 @@
   - `due to` /duː tuː/              ([Neutral] ～が原因で)          The delay was due to bad weather.
   - `thanks to` /θæŋks tuː/         ([Neutral] ～のおかげで)        Thanks to your help, we succeeded.
   - `for` /fɔːr/                    ([Neutral] ～ので)              He was famous for his kindness.
-  - `meant that` /ment ðæt/         ([Casual] だから)               Their support meant that we could continue.
   - `as a result` /æz ə rɪˈzʌlt/    ([Neutral] その結果)            He didn't study and, as a result, he failed.
   - `, V-ing`                       ([Neutral] その結果)            The boy stood on the mountain, looking at the valley.
   - `now that` /naʊ ðæt/            ([Neutral] 今～なので)          Now that you're here, we can begin.
   - `seeing that` /ˈsiːɪŋ ðæt/      ([Neutral] ～を考えると)        Seeing that it's late, let's go home.
   - `for that reason`               ([Formal] その理由で)           For that reason, we decided to postpone.
-  - `consequently` /ˈkɑːnsɪkwəntli/ ([Formal] 結果的に)             He made a mistake, and consequently lost his chance.
   - `on account of` /ɑːn əˈkaʊnt əv/([Formal] ～の理由で)           The event was postponed on account of rain.
   - `owing to` /ˈoʊɪŋ tuː/          ([Formal] ～のために)           Owing to illness, he couldn't attend.
   - `by virtue of` /baɪ ˈvɜːrtʃuː əv([Formal] ～によって)           She succeeded by virtue of hard work.
@@ -619,3 +617,29 @@
   - `face out`                      ([Neutral] 外向きに)            Display items face out.
   - `facing out`                    ([Neutral] 外を向いて)          Position it facing out.
 - `right side up`                   ([Neutral] 正しい向きで)        Place it right side up.
+
+## Location
+- `remotely` /rɪˈmoʊtli/            ([Neutral] 遠隔で、遠くから)    We work remotely now.
+  - `from afar` /əˈfɑːr/            ([Formal] 遠くから)             He watched from afar.
+  - `distantly` /ˈdɪstəntli/        ([Formal] 遠くに、離れて)       I could distantly hear voices.
+  - `far afield` /fɑːr əˈfiːld/     ([Formal] 遠くへ、離れて)       They traveled far afield.
+- `inside` /ɪnˈsaɪd/                ([Neutral] 内側に、中に)        Let's go inside.
+- `indoors` /ˌɪnˈdɔːrz/             ([Neutral] 屋内で)              We stayed indoors all day.
+- `internally` /ɪnˈtɜːrnəli/        ([Formal] 内部的に)             The issue was handled internally.
+- `inward` /ˈɪnwərd/                ([Neutral] 内側へ)              The door opens inward.
+- `inland` /ˈɪnlənd/                ([Neutral] 内陸に)              We drove inland from the coast.
+- `within` /wɪˈðɪn/                 ([Formal] 内部に、内側に)       The answer lies within.
+- `underwater` /ˌʌndərˈwɔːtər/      ([Neutral] 水中で)              The camera works underwater.
+- `abreast` /əˈbrest/               ([Formal] 横に並んで)           They walked abreast down the street.
+- `aloof` /əˈluːf/                  ([Formal] 離れて、超然として)   He stood aloof from the crowd.
+- `asunder` /əˈsʌndər/              ([Formal] バラバラに)           The family was torn asunder.
+- `astray` /əˈstreɪ/                ([Neutral] 道を外れて)          Don't lead him astray.
+- `downhill` /ˌdaʊnˈhɪl/            ([Neutral] 下方へ)              The road goes downhill from here.
+  - `headlong` /ˈhedlɔːŋ/           ([Formal] まっさかさまに)       He rushed headlong into danger.
+- `aft` /æft/                       ([Formal] 船尾へ)               Move aft to balance the boat.
+  - `astern` /əˈstɜːrn/             ([Formal] 後方に)               The ship moved astern slowly.
+- `counterclockwise` /ˌkaʊntərˈklɑːkwaɪz/ ([Neutral] 反時計回りに) Turn the dial counterclockwise.
+
+- `indefinitely` /ɪnˈdefɪnətli/     ([Neutral] 無期限に)            The meeting was postponed indefinitely.
+- `midweek` /ˌmɪdˈwiːk/             ([Neutral] 週の中ごろに)        I'll call you midweek.
+- `bimonthly` /baɪˈmʌnθli/          ([Neutral] 隔月に)              The magazine is published bimonthly.

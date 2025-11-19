@@ -20,6 +20,6 @@
 - 03_adjective_noun/7_Health.md - 病院、健康、医療関連の名詞、形容詞
 - 03_adjective_noun/8_Life.md - 日常関連の名詞、形容詞
 - 03_adjective_noun/9_Assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞
-- 04_adverb/head.md - 文の最初に置くことが多い副詞
-- 04_adverb/middle.md - 動詞前後に置くことが多い副詞
-- 04_adverb/tail.md - 文の最後に置くことが多い副詞
+- 04_adverb/1_Head.md - 文の最初に置くことが多い副詞節
+- 04_adverb/2_Common.md - 副詞節ではない、通常の副詞
+- 04_adverb/3_Tail.md - 文の最後に置くことが多い副詞節

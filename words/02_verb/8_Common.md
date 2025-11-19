@@ -2664,3 +2664,6 @@
 - `yield`                            ([Neutral] 生じる、産出する)
 - `yoke`                            ([Neutral] くびきをかける、結合する)
 - `zinc`                            ([Neutral] 亜鉛でメッキする)
+
+
+- `afoot` /əˈfʊt/                   ([Formal] 進行中で)             A plan is afoot to change the rules.

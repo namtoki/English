@@ -1,6 +1,6 @@
 # Head
 
-## STEP
+## Step
 - ==to begin with== /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
   - ==first things first==            ([Neutral] まず第一に)          First things first, let's finish the report.
   - `first of all` /fɜːrst əv ɔːl/  ([Neutral] まず第一に)          First of all, let me thank you.
@@ -34,7 +34,7 @@
   - `to return to`                  ([Formal] ～に戻ると)           To return to my original point, this is crucial.
   - `to circle back`                ([Neutral] 話を戻すと)          Just to circle back to the budget issue.
 
-## TOPIC
+## Topic
 - ==like/as S Vpast==                 (S が V した通り)
   - `like/as I said`                ([Casual] さっき言ったように)   Like I said, we need to leave early.
   - `like/as I told you`            ([Casual] 言った通り)           Like I told you, he's always late.
@@ -69,7 +69,7 @@
   - `apropos` /ˌæprəˈpoʊ/           ([Formal] ～について)           Apropos your suggestion, I agree.
   - `vis-à-vis` /ˌviːzɑːˈviː/       ([Formal] ～に関して)           Vis-à-vis the competition, we're ahead.
 
-## ADDITION
+## Addition
 - ==also== /ˈɔːlsoʊ/                  ([Neutral] また、さらに)        Also, we need to update the website.
   - `and also`                      ([Casual] そしてまた)           And also, don't forget to save your work.
   - ==plus== /plʌs/                   ([Casual] それに、加えて)       Plus, it's really easy to use.
@@ -104,7 +104,7 @@
 - `on the other hand`               ([Neutral] 一方で、他方では)    On the other hand, it costs more.
   - ==on the flip side==              ([Neutral] 一方で、逆に言えば)  The pay is low. On the flip side, the work is flexible.
 - ==instead== /ɪnˈsted/               ([Neutral] 代わりに、むしろ)    Instead, we should focus on quality.
-  - `rather` /ˈræðər/               ([Neutral] むしろ、それどころか) Rather, I think we should wait.
+  - `rather` /ˈræðər/               ([Neutral] むしろ それどころか) Rather, I think we should wait.
   - `conversely` /kənˈvɜːrsli/      ([Formal] 逆に)                 Conversely, we could wait and see.
   - `by contrast` /baɪ ˈkɑːntræst/  ([Formal] 対照的に)             By contrast, last year was much better.
   - `in contrast`                   ([Formal] 対照的に)             In contrast, the new model is faster.
@@ -156,7 +156,7 @@
   - `for    my own curiosity`       ([Casual] 個人的に気になって)   For my own curiosity, what made you choose this?
   - `satisfy my curiosity`          ([Neutral] 好奇心を満たして)    Can you satisfy my curiosity about this?
 
-## RETROSPECT
+## Retrospect
 - ==looking back== /ˈlʊkɪŋ bæk/       ([Neutral] 振り返ると)          Looking back, it was a good decision.
   - `thinking back` /ˈθɪŋkɪŋ bæk/   ([Neutral] 思い返すと)          Thinking back, we made the right choice.
   - ==in hindsight== /ɪn ˈhaɪndsaɪt/  ([Neutral] 振り返ってみると)    In hindsight, I should have studied harder.
@@ -181,7 +181,7 @@
   - `if memory serves`              ([Neutral] 記憶が正しければ)    If memory serves, we met in 2019.
   - `without thinking too much`     ([Casual] あまり考えずに)       Without thinking too much, I'd say we need more time.
 
-## CONCLUSION
+## Conclusion
 - `so` /soʊ/                        ([Casual] それで、さて)         So, what were we talking about?
   - `now` /naʊ/                     ([Neutral] さて、今)            Now, let's begin the presentation.
 - ==this way== /ðɪs weɪ/              ([Neutral] このようにして)      Do it this way for best results.
@@ -224,7 +224,7 @@
   - `in short` /ɪn ʃɔːrt/           ([Neutral] 要するに)            In short, we need to work harder.
   - ==the bottom line is==            ([Casual] 要は)                 The bottom line is we need more funding.
 
-## FEELING
+## Feeling
 - `to be honest`                    ([Casual] 正直に言うと)         To be honest, I didn't like the movie.
   - `honestly` /ˈɑːnɪstli/          ([Casual] 正直に言って)         Honestly, I think we should wait.
   - `frankly` /ˈfræŋkli/            ([Neutral] 率直に言って)        Frankly, I'm disappointed.
@@ -261,7 +261,7 @@
   - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
 - `arguably` /ˈɑːrɡjuəbli/          ([Neutral] ほぼ間違いなく)      Arguably, she's the best player on the team.
 
-## CONDITION
+## Condition
 - `if` /ɪf/                         ([Neutral] もし～なら)          If it rains, we'll move inside.
   - `in case` /ɪn keɪs/             ([Neutral] ～に備えて)          In case it rains, bring an umbrella.
   - `in the event of`               ([Formal] ～の場合には)         In the event of rain, we'll move inside.
@@ -301,7 +301,7 @@
   - `if I had to guess`             ([Casual] 推測するなら)         If I had to guess, they'll arrive late.
   - `if I were to guess`            ([Formal] 推測するとすれば)     If I were to guess, I'd say it's broken.
 
-## CONDITION
+## Condition
 - `if it works for you`             ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
   - `if you don't mind`             ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
   - `if that's ok (with you)`       ([Casual] それでよければ)       I'll call you tomorrow if that's ok with you.
@@ -324,7 +324,7 @@
   - `rate from 1 to 10`             ([Neutral] 1から10で評価して)   Rate from 1 to 10 your satisfaction level.
   - `scale from 0 to 10`            ([Neutral] 0から10の範囲で)     Scale from 0 to 10, where 0 is worst.
 
-## OPINION
+## Opinion
 - `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
   - `in my opinion`                 ([Neutral] 私の意見では)        In my opinion, this is the best option.
   - `in my view` /ɪn maɪ vjuː/      ([Neutral] 私の見解では)        In my view, we need more time.
@@ -356,7 +356,7 @@
   - `as far as I can tell`          ([Neutral] 分かる限りでは)      As far as I can tell, everything's fine.
   - `from my understanding`         ([Neutral] 私の理解では)        From my understanding, we start Monday.
 
-## FREQUENCY
+## Frequency
 - ==often times== /ˈɔːfən taɪmz/      ([Casual] しばしば)             Often times, people don't realize the impact.
   - `at times` /æt taɪmz/           ([Neutral] 時として)            At times, life can be difficult.
   - `sometimes` /ˈsʌmtaɪmz/         ([Neutral] 時々)                Sometimes I walk to work.
