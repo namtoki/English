@@ -70,6 +70,7 @@
   - `just because A doesn't mean B` ([Neutral] AだからBとは限らん)  Just because it's raining doesn't mean the event will be canceled.
   - `A doesn't necessarily mean B`  ([Neutral] AがBを意味するとは限らん) Being busy doesn't necessarily mean being productive.
 - ==We'll see whether==               ([Neutral] ～かどうか見てみよう) We'll see whether the new plan works.
+- ==the reason being that==           ([Neutral] 理由は～だからだ)    She declined it, the reason being that she was too busy.
 
 ## Opinion + Addition
 - `It's 〇〇 that`
