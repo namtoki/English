@@ -80,7 +80,7 @@ base: /English/
 <v-clicks>
 
 <div class="profile-header">
-  <h2>棚村俊之（36）</h2>
+  <h2>棚村俊之</h2>
   <p class="join-date">2023年10月 中途入社</p>
   <p class="department">Product Software Headphone team</p>
 </div>
