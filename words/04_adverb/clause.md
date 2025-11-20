@@ -1,10 +1,6 @@
 # Adverbal Clause
 
----
-
-## Level 1 (Basic Information)
-
-### Reason
+## Reason
 - ==because== /bɪˈkɔːz/               ([Neutral] なので)              I stayed home because I was tired.
   - `because of` /bɪˈkɔːz əv/       ([Neutral] ～のため)            The game was canceled because of rain.
   - `'cause` /kəz/                  ([Casual] なので)               I'm late 'cause I missed the bus.
@@ -27,7 +23,7 @@
   - `in respect that`               ([Formal] ～という点において)   It differs in respect that it's automated.
   - `to the degree that`            ([Formal] ～する程度において)   Success depends to the degree that we prepare.
 
-### Objective
+## Objective
 - ==to== /tuː/                        ([Casual] ～するために)         I left early to catch the train.
   - ==!so that== /soʊ ðæt/             ([Neutral] ～するために)        Mary spoke loudly so that everyone could hear.
   - ==in order to== /ɪn ˈɔːrdər tuː/  ([Neutral] ～するために)        In order to succeed, you must work hard.
@@ -138,10 +134,6 @@
   - `in brief` /ɪn briːf/           ([Neutral] 簡潔に言うと)        In brief, the plan failed.
   - `to put it simply`              ([Neutral] 簡単に言うと)        To put it simply, we're out of time.
   - `put simply`                    ([Neutral] 簡単に言えば)        Put simply, it won't work.
-
----
-
-## Level 2 (Detail)
 
 ### Concession
 - `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.

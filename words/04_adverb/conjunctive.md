@@ -234,7 +234,6 @@
   - `at long last` /æt lɔːŋ læst/   ([Neutral] ようやく)            At long last, the wait is over.
   - `when all is said and done`     ([Neutral] 結局のところ)        When all is said and done, we succeeded.
 - ==I mean==                          ([Casual] つまり、その)         I'm tired. I mean, I only slept 3 hours.
-  - `basically`                     ([Casual] 基本的に、要するに)   Basically, we need to start over.
   - ==the thing is==                  ([Casual] 実は、要は)           The thing is, I forgot my wallet.
   - ==the point is==                  ([Neutral] 要点は)              The point is, we can't afford it.
   - ==as in==                         ([Neutral] つまり)              Give me a fruit, as in an apple or orange.
@@ -252,7 +251,7 @@
   - `what I meant to say was`       ([Neutral] 言うつもりだたのは)  Sorry, what I meant to say was Thursday.
 
 ## Feeling
-- `to be honest`                    ([Casual] 正直に言うと)         To be honest, I didn't like the movie.
+- ==to be honest==                    ([Casual] 正直に言うと)         To be honest, I didn't like the movie.
   - `honestly` /ˈɑːnɪstli/          ([Casual] 正直に言って)         Honestly, I think we should wait.
   - `frankly` /ˈfræŋkli/            ([Neutral] 率直に言って)        Frankly, I'm disappointed.
   - `to be frank`                   ([Neutral] 率直に言うと)        To be frank, your idea needs work.
@@ -271,7 +270,7 @@
   - `not gonna lie`                 ([Slang] 嘘つかないけど)        Not gonna lie, that was impressive.
   - `no word of a lie`              ([British] 嘘じゃなく)          No word of a lie, it was amazing.
   - `truth be told`                 ([Neutral] 実を言うと)          Truth be told, I never liked him.
-- ==to my== `surprise`                  ([Neutral] 驚いたことに)        To my surprise, she agreed immediately.
+- `==to my== surprise`                  ([Neutral] 驚いたことに)        To my surprise, she agreed immediately.
   - `to my amazement`               ([Neutral] 驚いたことに)        To my amazement, he solved it in minutes.
   - `to my astonishment`            ([Formal] 驚いたことに)         To my astonishment, they knew each other.
   - `to my delight`                 ([Neutral] 嬉しいことに)        To my delight, the package arrived early.
@@ -286,7 +285,20 @@
 - `much to the relief of O`         ([Neutral] Oが安心したことには) Much to the relief of the team,
   - `much to the surprise of O`     ([Neutral] Oが驚いたことには)   Much to the surprise of everyone, she quit.
   - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
-- `arguably` /ˈɑːrɡjuəbli/          ([Neutral] ほぼ間違いなく)      Arguably, she's the best player on the team.
+- `probably` /ˈprɑːbəbli/           ([Neutral] おそらく)            Probably, he'll arrive late.
+  - `presumably` /prɪˈzuːməbli/     ([Neutral] おそらく、推定では)  Presumably, they already know.
+  - `apparently` /əˈpærəntli/       ([Neutral] 見たところ)          Apparently, he's not coming.
+  - `evidently` /ˈevɪdəntli/        ([Neutral] 明らかに)            Evidently, she was upset.
+  - `clearly` /ˈklɪrli/             ([Neutral] 明らかに)            Clearly, we need more time.
+  - `obviously` /ˈɑːbviəsli/        ([Neutral] 明らかに)            Obviously, that won't work.
+  - `certainly` /ˈsɜːrtnli/         ([Neutral] 確かに)              Certainly, we can help.
+  - `definitely` /ˈdefɪnətli/       ([Casual] 絶対に)               Definitely, I'll be there.
+  - `surely` /ˈʃʊrli/               ([Neutral] 確かに、きっと)      Surely, you remember me?
+  - `undoubtedly` /ʌnˈdaʊtɪdli/     ([Formal] 疑いなく)             Undoubtedly, this is the best option.
+  - `no doubt` /noʊ daʊt/           ([Neutral] 疑いなく)            No doubt, she'll succeed.
+  - `without (a) doubt`             ([Neutral] 疑いなく)            Without doubt, he's the best.
+  - `unquestionably` /ʌnˈkwestʃənəbli/ ([Formal] 疑問の余地なく)   Unquestionably, she's talented.
+  - `arguably` /ˈɑːrɡjuəbli/        ([Neutral] 議論の余地はあるが)  Arguably, she's the best player on the team.
 - `I'm curious`                     ([Casual] 気になるんだけど)     I'm curious - how did you learn English?
   - `just curious`                  ([Casual] ただ気になって)       Just curious, but do you like it here?
   - `I've been wondering`           ([Casual] ずっと気になってて)   I've been wondering about your accent.
