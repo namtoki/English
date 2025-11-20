@@ -1770,7 +1770,3 @@ transition: fade-out
   color: rgba(16, 185, 129, 1);
 }
 </style>
-
-
----
-
