@@ -56,16 +56,12 @@
   - `lest` /lest/                   ([Formal] ～しないように)       Study hard lest you fail the exam.
   - `for fear that`                 ([Formal] ～を恐れて)           He whispered for fear that someone might hear.
 
-### Detail
+## How
 - ==!in a way that== /ɪn ə weɪ ðæt/    ([Neutral] という方法で)        He explains that in a way that makes it sound complicated.
   - `in such a way that`            ([Neutral] ～するような方法で)  Arrange them in such a way that everyone can see the screen.
   - `by V-ing` /baɪ/                ([Neutral] ～することによって)  She improved her skills by practicing daily.
   - `through V-ing` /θruː/          ([Neutral] ～を通じて)          He learned through making mistakes.
   - `via` /ˈvaɪə/                   ([Neutral] ～を経由して)        Send the document via email.
-  - `somehow` /ˈsʌmhaʊ/             ([Casual] どうにかして)         I'll manage it somehow.
-  - `for whatever reason`           ([Casual] どんな理由であれ)     For whatever reason, he quit.
-  - `at the expense of`             ([Neutral] 犠牲にして)          He got promoted at the expense of his colleague.
-  - `by heart` /baɪ hɑːrt/          ([Neutral] 暗記で)              First of all, learn the formula by heart.
   - `in a manner that`              ([Formal] ～という方法で)       Behave in a manner that reflects well on the company.
   - `by means of` /baɪ miːnz əv/    ([Formal] ～によって)           They communicated by means of sign language.
 - ==!to the point where==              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
@@ -80,25 +76,25 @@
   - `should` /ʃʊd/                  ([Formal] もし～なら)           Should you need help, call me.
   - `were` /wɜːr/                   ([Formal] もし～なら)           Were I you, I would wait.
   - `had` /hæd/                     ([Formal] もし～だったら)       Had I known, I would have helped.
-- ==assuming that== /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
+- ==!assuming that== /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
   - ==supposing that==                ([Neutral] ～だと仮定して)      Supposing that he refuses, what will you do?
   - `on the assumption that`        ([Formal] ～という前提で)       We proceeded on the assumption that approval would come.
   - `say` /seɪ/                     ([Casual] 仮に～だとして)       Say you win the lottery, what would you do?
   - ==let's say== /lets seɪ/          ([Casual] 仮に～としよう)       Let's say 5 o'clock. Does that work?
-- ==given that== /ˈɡɪvən ðæt/         ([Neutral] ～を考えると)        Given that he's new, he did remarkably well.
+- ==!given that== /ˈɡɪvən ðæt/         ([Neutral] ～を考えると)        Given that he's new, he did remarkably well.
   - `considering that`              ([Neutral] ～を考慮すると)      Considering that it's raining, we should take umbrellas.
   - `in light of` /ɪn laɪt əv/      ([Formal] ～を踏まえて)         In light of recent events, we postponed the meeting.
   - `in view of` /ɪn vjuː əv/       ([Formal] ～を考慮して)         In view of the circumstances, we'll make an exception.
   - `taking into account`           ([Neutral] ～を考慮に入れて)    Taking into account the delay, we adjusted the schedule.
   - `seeing that` /ˈsiːɪŋ ðæt/      ([Neutral] ～を考えると)        Seeing that it's late, let's go home.
   - ==all things considered==         ([Formal] 全体的に考えると)     All things considered, that was a successful event.
-  - ==with that in mind==             ([Neutral] それを踏まえて)      With that in mind, let's move forward.
+  - ==!with that in mind==             ([Neutral] それを踏まえて)      With that in mind, let's move forward.
   - `bearing that in mind`          ([Neutral] それを念頭に置いて)  Bearing that in mind, proceed carefully.
   - `keeping that in mind`          ([Neutral] それを心に留めて)    Keeping that in mind, I'll adjust the schedule.
   - `with this understanding`       ([Formal] この理解のもとで)     We agreed with this understanding.
   - `for that reason`               ([Formal] その理由で)           For that reason, we decided to postpone.
   - `on that note`                  ([Neutral] その点について)      On that note, let's discuss the budget.
-- ==provided that==                   ([Formal] ～という条件で)       You can go provided that you finish your work.
+- ==!provided that==                   ([Formal] ～という条件で)       You can go provided that you finish your work.
   - `on condition that`             ([Formal] ～という条件で)       You may leave on condition that you return by 5.
 - `depending on how you look at it` ([Neutral] 考え方によっては)    Depending on how you look at it, this law is ...
   - `from a certain perspective`    ([Formal] ある観点から見ると)   From a certain perspective, he's right.
@@ -300,3 +296,8 @@
   - `if   you look     at it`       ([Casual] 見れば)               If you look at it closely, you'll see the problem.
   - `when you consider    it`       ([Neutral] 考慮すると)          When you consider it, the cost is reasonable.
   - `if   you consider`             ([Neutral] 考慮すれば)          If you consider the alternatives, this is best.
+
+  - `as follows` /æz ˈfɑːloʊz/      ([Formal] 次のように)           The steps are as follows.
+  - `by means of` /baɪ miːnz əv/    ([Formal] ～を用いて)           We solved it by means of negotiation.
+  - `via` /ˈvaɪə/                   ([Neutral] ～を通じて)          We contacted them via email.
+  - `through` /θruː/                ([Neutral] ～を通して)          We achieved this through hard work.

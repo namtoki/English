@@ -1,10 +1,6 @@
 # Conjunctive Adverb
 
----
-
-## Basic
-
-### Heading
+## Heading
 - `so` /soʊ/                        ([Casual] それで、さて)         So, what were we talking about?
   - `okay` /ˌoʊˈkeɪ/                ([Casual] さて、では)           Okay, let's get started.
   - `alright` /ɔːlˈraɪt/            ([Casual] よし、では)           Alright, let's begin the meeting.
@@ -14,7 +10,7 @@
   - `right then` /raɪt ðen/         ([Casual] では、それじゃ)       Right then, shall we begin?
   - `okay then` /ˌoʊˈkeɪ ðen/       ([Casual] それじゃあ)           Okay then, let's move on.
 - `to begin with` /tuː bɪˈɡɪn wɪð/  ([Neutral] まず初めに)          To begin with, let's discuss the basics.
-  - ==first things first==            ([Neutral] まず第一に)          First things first, let's finish the report.
+  - ==!first things first==            ([Neutral] まず第一に)          First things first, let's finish the report.
   - `first of all` /fɜːrst əv ɔːl/  ([Neutral] まず第一に)          First of all, let me thank you.
   - `for starters` /fɔːr ˈstɑːrtərz/([Casual] まず第一に)           For starters, we need more time.
   - `firstly` /ˈfɜːrstli/           ([Formal] 第一に)               Firstly, we need to review the budget.
@@ -41,14 +37,14 @@
   - `to return to`                  ([Formal] ～に戻ると)           To return to my original point, this is crucial.
   - `to circle back`                ([Neutral] 話を戻すと)          Just to circle back to the budget issue.
 
-### Change
+## Change
 - `by the way` /baɪ ðə weɪ/         ([Casual] ところで)             By the way, did you see the email?
   - `speaking of` /ˈspiːkɪŋ əv/     ([Casual] そういえば)           Speaking of John, where is he?
   - `actually` /ˈæktʃuəli/          ([Neutral] 実は、ところで)      Actually, I have a question.
 - ==that reminds me==                 ([Casual] それで思い出したけど) That reminds me, I need to call her.
   - `incidentally` /ˌɪnsɪˈdentəli/  ([Neutral] ついでに言うと)      Incidentally, I saw him yesterday.
   - `while we're on the subject`    ([Neutral] この話題のついでに)  While we're on the subject, let me add this.
-- ==on a side note==                  ([Neutral] 余談ですが)          On a side note, the cafeteria is closed.
+- ==!on a side note==                  ([Neutral] 余談ですが)          On a side note, the cafeteria is closed.
   - `as an aside` /æz ən əˈsaɪd/    ([Formal] 余談として)           As an aside, this method is outdated.
   - `parenthetically`               ([Formal] 補足的に言うと)       Parenthetically, this issue arose before.
 - ==off-topic, but==                  ([Casual] 話が逸れるけど)       Off-topic, but have you seen the new office?
@@ -56,7 +52,7 @@
   - `changing the subject`          ([Neutral] 話を変えますが)      Changing the subject, how was your vacation?
   - `to digress` /tuː daɪˈɡres/     ([Formal] 脱線しますが)         To digress for a moment, let me explain this.
 
-### And
+## And
 - `then` /ðen/                      ([Casual] それから)             I finished work, then went home.
   - `and then` /ænd ðen/            ([Neutral] それから)            And then, we decided to go home.
   - ==after that== /ˈæftər ðæt/       ([Casual] その後)               We ate dinner. After that, we watched TV.
@@ -87,7 +83,7 @@
   - `above all` /əˈbʌv ɔːl/         ([Neutral] 何よりも、特に)      Above all, be true to yourself.
   - `most importantly`              ([Neutral] 最も重要なことに)    Most importantly, stay safe.
 
-### But
+## But
 - `however` /haʊˈevər/              ([Neutral] しかしながら)        It's expensive; however, it's worth it.
   - `but` /bʌt/                     ([Casual] しかし)               I wanted to go, but I was too tired.
   - `still` /stɪl/                  ([Casual] それでも)             It's difficult. Still, we should try.
@@ -101,7 +97,7 @@
   - ==that being said==               ([Neutral] そうは言っても)      That being said, we can't ignore the risks.
   - `admittedly` /ədˈmɪtɪdli/       ([Neutral] 確かに、認めるが)    Admittedly, it was a mistake.
 - `on the other hand`               ([Neutral] 一方で、他方では)    On the other hand, it costs more.
-  - ==on the flip side==              ([Neutral] 一方で、逆に言えば)  The pay is low. On the flip side, the work is flexible.
+  - ==!on the flip side==              ([Neutral] 一方で、逆に言えば)  The pay is low. On the flip side, the work is flexible.
   - ==instead== /ɪnˈsted/             ([Neutral] 代わりに、むしろ)    Instead, we should focus on quality.
   - `rather` /ˈræðər/               ([Neutral] むしろ それどころか) Rather, I think we should wait.
   - `conversely` /kənˈvɜːrsli/      ([Formal] 逆に)                 Conversely, we could wait and see.
@@ -112,19 +108,18 @@
   - `as opposed to`                 ([Formal] ～とは対照的に)       As opposed to last year, sales are up.
   - `perversely` /pɚˈvɝsli/         ([Formal] ひねくれて、逆に)     Perversely, we love that character.
 
-### Reason ->
+## Reason ->
 - `so` /soʊ/                        ([Casual] だから)               I was tired, so I went to bed.
   - ==that's why== /ðæts waɪ/         ([Neutral] だから)              That's why I called you.
+  - `this is why` /ðɪs ɪz waɪ/      ([Neutral] そういうわけで)      We missed the deadline. This is why we need better planning.
   - `as a result` /æz ə rɪˈzʌlt/    ([Neutral] その結果)            He didn't study and, as a result, he failed.
   - `, V-ing`                       ([Neutral] その結果)            The boy stood on the mountain, looking at the valley.
-  - `this is why` /ðɪs ɪz waɪ/      ([Neutral] そういうわけで)      We missed the deadline. This is why we need better planning.
-  - `therefore` /ˈðerfɔːr/          ([Formal] したがって)           Therefore, we must act now.
-  - `thus` /ðʌs/                    ([Formal] それゆえに)           He broke the rules; thus, he was dismissed.
-  - `hence` /hens/                  ([Formal] それゆえに)           He was late, hence the penalty.
-  - `consequently` /ˈkɑːnsɪkwəntli/ ([Formal] 結果として)           Consequently, the project failed.
   - `for this reason`               ([Neutral] この理由で)          For this reason, we need to be careful.
   - `because of this`               ([Neutral] このため)            Because of this, we changed the approach.
   - `due to this`                   ([Neutral] これが原因で)        Due to this, the deadline was extended.
+  - `therefore` /ˈðerfɔːr/          ([Formal] したがって)           Therefore, we must act now.
+  - `hence` /hens/                  ([Formal] それゆえに)           He was late, hence the penalty.
+  - `consequently` /ˈkɑːnsɪkwəntli/ ([Formal] 結果として)           Consequently, the project failed.
   - `thereby` /ðerˈbaɪ/             ([Formal] それによって)         He resigned, thereby ending the conflict.
   - `thereupon` /ˌðerəˈpɑːn/        ([Formal] その結果)             Thereupon, he left the meeting.
 - ==accordingly== /əˈkɔːrdɪŋli/       ([Formal] それに応じて)         We received new data. Accordingly, we revised the plan.
@@ -133,24 +128,17 @@
   - `in response to`                ([Neutral] ～に応じて)          In response to feedback, we made changes.
   - `as appropriate`                ([Neutral] 適切に応じて)        We'll adjust as appropriate.
 
-### How ->
+## How ->
 - ==this way== /ðɪs weɪ/              ([Neutral] このようにして)      Do it this way for best results.
   - ==that way== /ðæt weɪ/            ([Casual] そうすれば)           Leave early. That way, you won't be late.
   - ==that's how== /ðæts haʊ/         ([Casual] このようにして)       That's how we met.
-  - `like this` /laɪk ðɪs/          ([Casual] このように)           Do it like this.
-  - `like so` /laɪk soʊ/            ([Casual] このようにして)       Fold the paper like so.
   - `in this way` /ɪn ðɪs weɪ/      ([Neutral] このようにして)      In this way, we can solve the problem.
   - `by doing so` /baɪ ˈduːɪŋ soʊ/  ([Neutral] そうすることで)      By doing so, you'll save time.
   - `by doing this` /baɪ ˈduːɪŋ ðɪs/([Casual] こうすることで)       By doing this, we reduce costs.
   - `in this manner` /ɪn ðɪs ˈmænər/([Formal] このようなやり方で)   In this manner, we maintain quality.
   - `thus` /ðʌs/                    ([Formal] このようにして)       Mix well, thus creating a smooth paste.
-  - `as follows` /æz ˈfɑːloʊz/      ([Formal] 次のように)           The steps are as follows.
-  - `in such a way` /ɪn sʌtʃ ə weɪ/ ([Neutral] そのようにして)      Act in such a way that others trust you.
-  - `by means of` /baɪ miːnz əv/    ([Formal] ～を用いて)           We solved it by means of negotiation.
-  - `via` /ˈvaɪə/                   ([Neutral] ～を通じて)          We contacted them via email.
-  - `through` /θruː/                ([Neutral] ～を通して)          We achieved this through hard work.
 
-### Case ->
+## Case ->
 - `then` /ðen/                      ([Casual] それなら)             If you're ready, then let's go.
   - ==in that case== /ɪn ðæt keɪs/    ([Neutral] その場合は)          In that case, we can reschedule.
   - `if so` /ɪf soʊ/                ([Neutral] もしそうなら)        Are you busy? If so, we can wait.
@@ -163,11 +151,7 @@
   - `should that happen`            ([Formal] もしそうなったら)     Should that happen, contact me immediately.
   - `under those circumstances`     ([Formal] その状況下では)       Under those circumstances, I'd agree.
 
----
-
-## Additional
-
-### Retrospect
+## Retrospect
 - ==at first== /æt fɜːrst/            ([Neutral] 最初は)              At first, I thought he was shy.
   - `initially` /ɪˈnɪʃəli/          ([Neutral] 最初は、当初は)      Initially, I was skeptical.
   - `originally` /əˈrɪdʒɪnəli/      ([Neutral] 元々は、当初は)      Originally, we had intended to go to Italy.
@@ -211,14 +195,14 @@
 ## Conclusion
 - `basically` /ˈbeɪsɪkli/           ([Casual] 基本的に、要するに)   Basically, we need more time.
   - `in short` /ɪn ʃɔːrt/           ([Neutral] 要するに)            In short, we need to work harder.
-  - ==the bottom line is==            ([Casual] 要は)                 The bottom line is we need more funding.
+  - ==!the bottom line is==            ([Casual] 要は)                 The bottom line is we need more funding.
   - `to sum up` /tuː sʌm ʌp/        ([Neutral] 要約すると)          To sum up, the plan is risky.
   - `in a nutshell` /ɪn ə ˈnʌtʃel/  ([Casual] 簡単に言うと)         In a nutshell, we're behind schedule.
   - `essentially` /ɪˈsenʃəli/       ([Neutral] 本質的には)          Essentially, it's a matter of cost.
   - `in essence` /ɪn ˈesəns/        ([Neutral] 要するに)            In essence, we agree on the main points.
   - `in summary` /ɪn ˈsʌməri/       ([Neutral] 要約すると)          In summary, we had a productive meeting.
   - `in brief` /ɪn briːf/           ([Neutral] 簡潔に言うと)        In brief, the project was successful.
-  - ==at the end of the day==         ([Casual] 結局のところ)         At the end of the day, we're all human.
+  - ==!at the end of the day==         ([Casual] 結局のところ)         At the end of the day, we're all human.
 - `anyway` /ˈeniweɪ/                ([Casual] とにかく)             Anyway, let's get back to work.
   - `in any case` /ɪn ˈeni keɪs/    ([Neutral] いずれにせよ)        In any case, we should be prepared.
   - `at any rate` /æt ˈeni reɪt/    ([Neutral] とにかく)            At any rate, let's move forward.
@@ -299,14 +283,10 @@
   - `without (a) doubt`             ([Neutral] 疑いなく)            Without doubt, he's the best.
   - `unquestionably` /ʌnˈkwestʃənəbli/ ([Formal] 疑問の余地なく)   Unquestionably, she's talented.
   - `arguably` /ˈɑːrɡjuəbli/        ([Neutral] 議論の余地はあるが)  Arguably, she's the best player on the team.
-- `I'm curious`                     ([Casual] 気になるんだけど)     I'm curious - how did you learn English?
+- `I was wondering`                 ([Casual] ちょっと気になって)   I was wondering if you're free tonight.
+  - `I'm curious`                   ([Casual] 気になるんだけど)     I'm curious - how did you learn English?
+    - `I'm just curious about`      ([Casual] ちょっと気になって)   I'm just curious about your background.
   - `just curious`                  ([Casual] ただ気になって)       Just curious, but do you like it here?
+  - ==out of curiosity==              ([Neutral] 興味から)            Out of curiosity, what's your favorite food?
+    - `just out of curiosity`       ([Casual] 単に興味から)         Just out of curiosity, why did you come to Japan?
   - `I've been wondering`           ([Casual] ずっと気になってて)   I've been wondering about your accent.
-  - `I can't help but wonder`       ([Neutral] つい気になって)      I can't help but wonder how you manage it all.
-  - `I'm just curious about`        ([Casual] ちょっと気になって)   I'm just curious about your background.
-  - `I was wondering`               ([Casual] ちょっと気になって)   I was wondering if you're free tonight.
-- `out of curiosity`                ([Neutral] 興味から)            Out of curiosity, what's your favorite food?
-  - `just   out of curiosity`       ([Casual] 単に興味から)         Just out of curiosity, why did you come to Japan?
-  - `purely out of curiosity`       ([Neutral] 純粋に興味から)      Purely out of curiosity, how long have you been here?
-  - `for    my own curiosity`       ([Casual] 個人的に気になって)   For my own curiosity, what made you choose this?
-  - `satisfy my curiosity`          ([Neutral] 好奇心を満たして)    Can you satisfy my curiosity about this?

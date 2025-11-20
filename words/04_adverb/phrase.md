@@ -792,3 +792,8 @@
   - `scale from 0 to 10`            ([Neutral] 0から10の範囲で)     Scale from 0 to 10, where 0 is worst.
 
   - `accordingly` /əˈkɔːrdɪŋli/     ([Formal] それに応じて)         Plan accordingly.
+
+  - `somehow` /ˈsʌmhaʊ/             ([Casual] どうにかして)         I'll manage it somehow.
+  - `for whatever reason`           ([Casual] どんな理由であれ)     For whatever reason, he quit.
+  - `at the expense of`             ([Neutral] 犠牲にして)          He got promoted at the expense of his colleague.
+  - `by heart` /baɪ hɑːrt/          ([Neutral] 暗記で)              First of all, learn the formula by heart.
