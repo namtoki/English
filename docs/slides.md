@@ -63,7 +63,7 @@ base: /English/
 </div>
 
 <div class="subtitle">
-  📚 継続的な学習で英語力を向上させる旅
+  📚 天才ではない人のための地道な足掻き
 </div>
 
 <div class="author-info">
@@ -90,7 +90,7 @@ base: /English/
     <img src="/pioneer.png" alt="Pioneer" class="company-logo logo-pioneer" />
     <div class="duration">3年弱</div>
   </div>
-  <div class="career-item">
+  <div class="career-item fixstars-container">
     <img src="/fixstars.png" alt="Fixstars" class="company-logo logo-fixstars" />
     <div class="duration">6年弱</div>
   </div>
@@ -104,9 +104,16 @@ base: /English/
   </div>
 </div>
 
+<img v-click src="/fixstars-okinawa.jpg" alt="Fixstars Okinawa" class="fixstars-okinawa" />
+
 <div class="info-section">
   <p><strong>Like:</strong> Vim, Claude, Swift, Flutter, ROS,,,</p>
-  <p><strong>最近は AWS 勉強してる</strong></p>
+  <p><strong>最近は AWS, Terraform など Cloud 関連勉強中</strong></p>
+</div>
+
+<div v-click class="flutterkaigi-images">
+  <img src="/flutterkaigi1.jpg" alt="FlutterKaigi 1" class="flutterkaigi-img" />
+  <img src="/flutterkaigi2.jpg" alt="FlutterKaigi 2" class="flutterkaigi-img" />
 </div>
 
 <div class="hometown">
@@ -121,6 +128,7 @@ base: /English/
 .profile-layout {
   padding: 1rem 2rem;
   background: linear-gradient(135deg, rgba(245, 222, 179, 0.3), rgba(255, 248, 220, 0.3));
+  position: relative;
 }
 
 .profile-header {
@@ -166,6 +174,10 @@ base: /English/
   gap: 0.3rem;
 }
 
+.fixstars-container {
+  position: relative;
+}
+
 .company-logo {
   width: auto;
   object-fit: contain;
@@ -185,6 +197,35 @@ base: /English/
 
 .logo-dandm {
   height: 25px;  /* 2年 ≈ 33% */
+}
+
+.fixstars-okinawa {
+  position: absolute;
+  top: 200px;
+  left: 53%;
+  transform: translateX(-50px);
+  width: 150px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  z-index: 10;
+}
+
+.flutterkaigi-images {
+  position: absolute;
+  top: 275px;
+  left: 72%;
+  transform: translateX(-50px);
+  display: flex;
+  gap: 0.5rem;
+  z-index: 10;
+}
+
+.flutterkaigi-img {
+  width: 140px;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
 }
 
 .duration {
@@ -663,7 +704,7 @@ transition: fade-out
 transition: fade-out
 ---
 
-# 目標設定と学習時間
+# 素数を数えて落ち着くんだ...
 
 <v-clicks>
 
@@ -711,6 +752,10 @@ transition: fade-out
 
 </v-clicks>
 
+<div v-click class="pc-overlay">
+  <img src="/pc.gif" alt="PC" class="pc-image" />
+</div>
+
 <style scoped>
 .goal-box {
   transition: transform 0.3s ease;
@@ -718,6 +763,25 @@ transition: fade-out
 
 .goal-box:hover {
   transform: translateY(-5px);
+}
+
+.pc-overlay {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pc-image {
+  max-width: 600px;
+  max-height: 500px;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
 }
 </style>
 
@@ -888,6 +952,125 @@ transition: fade-out
 transition: fade-out
 ---
 
+# どんな学習をすればいいんだ？
+
+<div class="learning-method-layout">
+
+<v-clicks>
+
+<div class="thought-box">
+  <p>「幼少期以降に勉強して英語がネイティブのように話せるようになった日本人」がやっていたことを真似よう</p>
+</div>
+
+<div class="thought-box doubt">
+  <p>いや、ていうかその人がネイティブのように話せているのか判断がつかない</p>
+</div>
+
+<div class="thought-box idea">
+  <p>逆に「幼少期以降に日本語を勉強してネイティブのように話せるようになった英語話者」を参考にした方が良いのでは？と思い当たる</p>
+</div>
+
+<div class="discovery-section">
+  <h3>📚 2名の該当者を見つけ、超インプット学習が大事であることを知る</h3>
+
+  <div class="video-container">
+    <div class="video-wrapper">
+      <iframe
+        src="https://www.youtube.com/embed/NS97LNh-fQQ?start=132&end=175"
+        title="YouTube video 1"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+    <div class="video-wrapper">
+      <iframe
+        src="https://www.youtube.com/embed/_l0mg-K3JlU?start=176&end=200"
+        title="YouTube video 2"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen>
+      </iframe>
+    </div>
+  </div>
+</div>
+
+</v-clicks>
+
+</div>
+
+<style scoped>
+.learning-method-layout {
+  padding: 0.5rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.thought-box {
+  background: rgba(59, 130, 246, 0.1);
+  border-left: 4px solid rgba(59, 130, 246, 0.6);
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  line-height: 1.4;
+}
+
+.thought-box.doubt {
+  background: rgba(245, 158, 11, 0.1);
+  border-left-color: rgba(245, 158, 11, 0.6);
+}
+
+.thought-box.idea {
+  background: rgba(16, 185, 129, 0.1);
+  border-left-color: rgba(16, 185, 129, 0.6);
+}
+
+.thought-box p {
+  margin: 0;
+  color: #333;
+}
+
+.discovery-section {
+  margin-top: 0.5rem;
+}
+
+.discovery-section h3 {
+  font-size: 0.95rem;
+  color: rgba(16, 185, 129, 1);
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+.video-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+
+.video-wrapper {
+  position: relative;
+  padding-bottom: 40%;
+  height: 0;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+
+---
+transition: fade-out
+---
+
 # 何からやろうか...
 
 <div class="skill-image-container">
@@ -901,6 +1084,8 @@ transition: fade-out
     <img src="/duo.jpg" alt="DUO" class="book-img" />
     <img src="/ichiokunin.jpg" alt="一億人の英文法" class="book-img" />
     <img src="/shineibunpo.jpg" alt="真・英文法大全" class="book-img" />
+    <img src="/toshizu.jpg" alt="トシズ" class="book-img" />
+    <img src="/porepore.jpg" alt="ポレポレ" class="book-img" />
   </div>
 </div>
 
@@ -949,17 +1134,20 @@ transition: fade-out
 
 .book-images {
   position: absolute;
-  top: 60%;
+  top: 55%;
   left: 50%;
   transform: translate(-50%, -50%);
   display: flex;
-  gap: 1.5rem;
+  gap: 1rem;
   z-index: 10;
   align-items: flex-end;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 90%;
 }
 
 .book-img {
-  height: 200px;
+  height: 180px;
   width: auto;
   object-fit: contain;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
@@ -1738,21 +1926,21 @@ transition: fade-out
   <h2>英会話への再挑戦</h2>
 
   <div class="reason-box">
-    <p>発音と語法を学んだ今なら、きっと話せるはず！</p>
+    <p>発音と語法をもうちょい学んだら、きっとためになるはず</p>
   </div>
 
   <div class="service-highlight">
     <div class="service-icon">💬</div>
     <h3>Cambly が気になっている</h3>
     <ul>
-      <li>ネイティブ講師とマンツーマン</li>
+      <li>AI フィードバック機能がすごい</li>
+      <li>発語スピードも表示される</li>
       <li>24時間いつでも予約なしでレッスン可能</li>
-      <li>実践的な会話力を鍛えられる</li>
     </ul>
   </div>
 
   <div class="message-box">
-    <strong>基礎を固めた今こそ、実践の時！</strong>
+    <strong>基礎を固めたら、実践の時！</strong>
   </div>
 </div>
 
@@ -1762,7 +1950,7 @@ transition: fade-out
 
 <style scoped>
 .future-layout {
-  padding: 1.5rem 2rem;
+  padding: 0.5rem 2rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1775,13 +1963,13 @@ transition: fade-out
 }
 
 .future-icon {
-  font-size: 4rem;
-  margin-bottom: 1rem;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .future-content h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  margin-bottom: 0.6rem;
   color: rgba(59, 130, 246, 1);
 }
 
@@ -1789,8 +1977,8 @@ transition: fade-out
   background: rgba(245, 158, 11, 0.1);
   border: 2px solid rgba(245, 158, 11, 0.4);
   border-radius: 12px;
-  padding: 1rem;
-  margin-bottom: 1.5rem;
+  padding: 0.7rem;
+  margin-bottom: 0.8rem;
   transition: transform 0.3s ease;
 }
 
@@ -1799,7 +1987,7 @@ transition: fade-out
 }
 
 .reason-box p {
-  font-size: 1.1rem;
+  font-size: 0.95rem;
   color: #333;
   margin: 0;
   font-weight: 500;
@@ -1809,8 +1997,8 @@ transition: fade-out
   background: linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(147, 51, 234, 0.1));
   border: 3px solid rgba(59, 130, 246, 0.5);
   border-radius: 16px;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
+  padding: 1rem;
+  margin-bottom: 0.8rem;
   transition: transform 0.3s ease;
 }
 
@@ -1819,14 +2007,14 @@ transition: fade-out
 }
 
 .service-icon {
-  font-size: 2.5rem;
-  margin-bottom: 0.5rem;
+  font-size: 2rem;
+  margin-bottom: 0.3rem;
 }
 
 .service-highlight h3 {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   color: rgba(59, 130, 246, 1);
-  margin-bottom: 1rem;
+  margin-bottom: 0.6rem;
 }
 
 .service-highlight ul {
@@ -1837,17 +2025,17 @@ transition: fade-out
 }
 
 .service-highlight li {
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   color: #444;
-  margin: 0.5rem 0;
+  margin: 0.3rem 0;
 }
 
 .message-box {
   background: linear-gradient(135deg, rgba(16, 185, 129, 0.2), rgba(59, 130, 246, 0.2));
   border: 3px solid rgba(16, 185, 129, 0.6);
   border-radius: 12px;
-  padding: 1.2rem;
-  font-size: 1.2rem;
+  padding: 0.8rem;
+  font-size: 1rem;
   color: #333;
 }
 
