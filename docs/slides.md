@@ -257,7 +257,7 @@ transition: fade-out
 import { onMounted, watch, ref } from 'vue'
 
 const allDataPoints = [
-  { x: '2008-01-01', y: 30 },
+  { x: '2008-01-01', y: 40 },
   { x: '2015-01-01', y: 20 },
   { x: '2022-01-01', y: 10 },
   { x: '2024-05-01', y: 30 },
@@ -571,6 +571,91 @@ watch($clicks, (clicks) => {
 .chart-container canvas {
   image-rendering: -webkit-optimize-contrast;
   image-rendering: crisp-edges;
+}
+</style>
+
+---
+transition: fade-out
+---
+
+# 何故英語を勉強し始めたのか
+
+<div class="simple-reason-layout">
+
+<div v-click>
+  <div class="reason-text">
+    入社したら隣に外国人がいたから
+  </div>
+</div>
+
+<div class="image-container">
+  <div v-click="1" class="image-placeholder image-main">
+    <img src="/foreigner.gif" alt="外国人の同僚" class="reason-image" />
+  </div>
+  <div v-click="2" class="image-placeholder image-small">
+    <img src="/kaonashi.jpg" alt="カオナシ" class="reason-image reason-image-small" />
+  </div>
+</div>
+
+</div>
+
+<style scoped>
+.simple-reason-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 1rem 2rem;
+  gap: 1.5rem;
+}
+
+.reason-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.image-container {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  min-height: 300px;
+}
+
+.image-placeholder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-main {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.image-small {
+  position: absolute;
+  left: 50%;
+  transform: translateX(calc(150px + 0.5rem));
+}
+
+.reason-image {
+  max-width: 100%;
+  max-height: 300px;
+  object-fit: contain;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.reason-image-small {
+  max-height: 150px;
 }
 </style>
 
