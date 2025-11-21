@@ -1,0 +1,102 @@
+# Condition
+
+## Assumption
+- `if` /ɪf/                         ([Neutral] もし～なら)          If it rains, we'll move inside.
+  - `in the event of`               ([Formal] ～の場合には)         In the event of rain, we'll move inside.
+  - `in the event that`             ([Formal] ～の場合は)           In the event that it rains, we'll move inside.
+  - `should` /ʃʊd/                  ([Formal] もし～なら)           Should you need help, call me.
+  - `were` /wɜːr/                   ([Formal] もし～なら)           Were I you, I would wait.
+  - `had` /hæd/                     ([Formal] もし～だったら)       Had I known, I would have helped.
+- ==!assuming that== /əˈsuːmɪŋ ðæt/    ([Neutral] ～だと仮定すると)    Assuming that he arrives on time, we can start at 9.
+  - ==supposing that==                ([Neutral] ～だと仮定して)      Supposing that he refuses, what will you do?
+  - `on the assumption that`        ([Formal] ～という前提で)       We proceeded on the assumption that approval would come.
+  - `say` /seɪ/                     ([Casual] 仮に～だとして)       Say you win the lottery, what would you do?
+  - ==let's say== /lets seɪ/          ([Casual] 仮に～としよう)       Let's say 5 o'clock. Does that work?
+- `depending on how you look at it` ([Neutral] 考え方によっては)    Depending on how you look at it, this law is ...
+  - `from a certain perspective`    ([Formal] ある観点から見ると)   From a certain perspective, he's right.
+  - `from one angle`                ([Neutral] ある角度から見ると)  From one angle, it seems unfair.
+  - `on reflection`                 ([Formal] よく考えてみると)     On reflection, I agree with you.
+  - `upon consideration`            ([Formal] 考慮した結果)         Upon consideration, we'll proceed.
+- ==as long as== /æz lɔːŋ æz/         ([Neutral] ～する限り)          As long as you try, that's what matters.
+  - `to the extent that`            ([Neutral] ～する限りにおいて)  It works to the extent that we have funding.
+  - `inasmuch as` /ˌɪnəzˈmʌtʃ æz/   ([Formal] ～する限りにおいて)   Inasmuch as we agree, let's proceed.
+- ==as far as== /æz fɑːr æz/          ([Neutral] ～する範囲では)      As far as I know, the meeting is still on.
+  - `insofar as` /ˌɪnsoʊˈfɑːr æz/   ([Formal] ～する限りにおいて)   Insofar as I know, the project is on track.
+- ==!whether or not==                  ([Neutral] するしない関係なく)  I'm going whether or not you come with me.
+  - ==regardless of== /rɪˈɡɑːrdləs əv/([Neutral] 〜に関係なく)        The show will go on regardless of the weather.
+  - `no matter what` /noʊ ˈmætər wʌt([Neutral] 何があっても)        No matter what happens, I'll support you.
+  - `come what may` /kʌm wʌt meɪ/   ([Formal] 何が起ころうと)       Come what may, we'll face it together.
+  - `whatever happens`              ([Casual] 何があっても)         Whatever happens, don't give up.
+- ==every time== /ˈevri taɪm/         ([Neutral] するときはいつも)    Every time you make them, they are perfect.
+- ==as soon as== /æz sun æz/          ([Neutral] したらすぐに)        As soon as I get home, I'll call you.
+  - `once` /wʌns/                   ([Neutral] したらすぐに)        Call me once you get home.
+  - `upon X/doing` /əˈpɑːn/         ([Formal] Xしてすぐ)            Upon arrival at headquarters, report to security.
+- `by the time S V` /baɪ ðə taɪm/   ([Neutral] するときまでに)      By the time I woke up, the snow had stopped.
+  - `until such time as S V`        ([Formal] までの間は)           We cannot review it until such time as we receive that.
+
+## Fact
+- ==!given that== /ˈɡɪvən ðæt/         ([Neutral] ～を考えると)        Given that he's new, he did remarkably well.
+  - `considering that`              ([Neutral] ～を考慮すると)      Considering that it's raining, we should take umbrellas.
+  - ==!with that in mind==             ([Neutral] それを踏まえて)      With that in mind, let's move forward.
+  - `keeping that in mind`          ([Neutral] それを心に留めて)    Keeping that in mind, I'll adjust the schedule.
+  - `taking into account`           ([Neutral] ～を考慮に入れて)    Taking into account the delay, we adjusted the schedule.
+  - `in light of` /ɪn laɪt əv/      ([Formal] ～を踏まえて)         In light of recent events, we postponed the meeting.
+  - `bearing that in mind`          ([Neutral] それを念頭に置いて)  Bearing that in mind, proceed carefully.
+  - `when you think about it`       ([Casual] 考えてみると)         When you think about it, life is pretty amazing.
+  - `if   you think about it`       ([Casual] 考えてみると)         It's crazy, if you think about it.
+  - `seeing that` /ˈsiːɪŋ ðæt/      ([Neutral] ～を考えると)        Seeing that it's late, let's go home.
+  - `in view of` /ɪn vjuː əv/       ([Formal] ～を考慮して)         In view of the circumstances, we'll make an exception.
+  - `on that note`                  ([Neutral] その点について)      On that note, let's discuss the budget.
+  - `looking at`                    ([Casual] 見ると)               Looking at it now, we were lucky.
+  - `when you look     at it`       ([Casual] 見てみると)           When you look at it that way, it's obvious.
+  - `if   you look     at it`       ([Casual] 見れば)               If you look at it closely, you'll see the problem.
+  - `thinking about`                ([Casual] 考えてみると)         Thinking about it now, that was risky.
+  - `when you consider    it`       ([Neutral] 考慮すると)          When you consider it, the cost is reasonable.
+  - `if   you consider`             ([Neutral] 考慮すれば)          If you consider the alternatives, this is best.
+  - ==all things considered==         ([Formal] 全体的に考えると)     All things considered, that was a successful event.
+  - `with this understanding`       ([Formal] この理解のもとで)     We agreed with this understanding.
+- ==!provided that==                   ([Formal] ～という条件で)       You can go provided that you finish your work.
+  - `on condition that`             ([Formal] ～という条件で)       You may leave on condition that you return by 5.
+- `now that` /naʊ ðæt/            ([Neutral] 今～なので)          Now that you're here, we can begin.
+  - ==for one/another thing==         ([Casual] ひとつには／それから) `For one thing,` it's ~. `For another thing,` it's ~.
+
+## Retrospect
+- ==at first== /æt fɜːrst/            ([Neutral] 最初は)              At first, I thought he was shy.
+  - `initially` /ɪˈnɪʃəli/          ([Neutral] 最初は、当初は)      Initially, I was skeptical.
+  - `originally` /əˈrɪdʒɪnəli/      ([Neutral] 元々は、当初は)      Originally, we had intended to go to Italy.
+  - `at the outset` /æt ði ˈaʊtset/ ([Formal] 当初、最初に)         At the outset of the meeting, the agenda was reviewed.
+  - `in the beginning`              ([Neutral] 初めは)              In the beginning, it was just the two of us.
+- ==often times== /ˈɔːfən taɪmz/      ([Casual] しばしば)             Often times, people don't realize the impact.
+  - `at times` /æt taɪmz/           ([Neutral] 時として)            At times, life can be difficult.
+  - `sometimes` /ˈsʌmtaɪmz/         ([Neutral] 時々)                Sometimes I walk to work.
+  - `from time to time`             ([Neutral] 時々)                From time to time, we meet for coffee.
+  - `once in a while`               ([Casual] たまに)               Once in a while, I treat myself.
+  - `every now and then` /ˈevri naʊ/([Casual] 時々)                 Every now and then, he calls me.
+  - `now and then` /naʊ ænd ðen/    ([Casual] 時々)                 Now and then, we go out for dinner.
+  - `every so often`                ([Casual] 時々)                 Every so often, I check my email.
+  - `on occasion` /ɑːn əˈkeɪʒən/    ([Formal] 時として)             On occasion, we work late.
+- ==till recently==                   ([Casual] 最近まで)             Till recently, I didn't believe in love.
+  - `until recently`                ([Neutral] 最近まで)            Until recently, I lived in Tokyo.
+  - `up until recently`             ([Neutral] つい最近まで)        Up until recently, this was impossible.
+  - `as recently as`                ([Neutral] 最近の〜まで)        As recently as last year, this was banned.
+- `recently` /ˈriːsəntli/           ([Neutral] 最近)                Recently, I moved to a new apartment.
+  - `just recently`                 ([Casual] つい最近)             I saw him just recently.
+  - `only recently`                 ([Neutral] つい最近になって)    Only recently did we understand this.
+  - `quite recently`                ([Neutral] ごく最近)            Quite recently, the policy changed.
+  - `not long ago`                  ([Neutral] つい最近)            Not long ago, this area was farmland.
+  - `of late` /ʌv leɪt/             ([Formal] 最近)                 Of late, he's been working harder.
+  - `in recent times`               ([Formal] 最近では)             In recent times, technology has advanced rapidly.
+- ==looking back== /ˈlʊkɪŋ bæk/       ([Neutral] 振り返ると)          Looking back, it was a good decision.
+  - `thinking back` /ˈθɪŋkɪŋ bæk/   ([Neutral] 思い返すと)          Thinking back, we made the right choice.
+  - ==in hindsight== /ɪn ˈhaɪndsaɪt/  ([Neutral] 振り返ってみると)    In hindsight, I should have studied harder.
+  - ==in retrospect== /ɪn ˈretrəspekt/([Formal] 振り返ってみると)     In retrospect, we were too hasty.  
+  - `with the benefit of hindsight` ([Formal] 後知恵で言えば)       With the benefit of hindsight, we erred.
+- ==now that I think about it==       ([Casual] 今思えば)             Now that I think about it, that's odd.
+  - `on second thought`             ([Neutral] 考え直してみると)    On second thought, let's stay home.
+  - `come to think of it`           ([Casual] そういえば)           Come to think of it, he was right.
+- ==off the top of my head==          ([Casual] 思いつくままに)       Off the top of my head, I think it's wrong.
+  - `from memory`                   ([Neutral] 記憶では)            From memory, it was around noon.
+  - `as I recall`                   ([Neutral] 記憶では)            As I recall, he was tall.
+  - `if I remember correctly`       ([Neutral] 記憶が正しければ)    If I remember correctly, it was Tuesday.
+  - `if memory serves`              ([Neutral] 記憶が正しければ)    If memory serves, we met in 2019.
+  - `without thinking too much`     ([Casual] あまり考えずに)       Without thinking too much, I'd say we need more time.

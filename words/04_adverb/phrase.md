@@ -1,5 +1,10 @@
 # Adverb Phrase
 
+
+  - `as follows` /æz ˈfɑːloʊz/      ([Formal] 次のように)           The steps are as follows.
+  - `by means of` /baɪ miːnz əv/    ([Formal] ～を用いて)           We solved it by means of negotiation.
+  - `via` /ˈvaɪə/                   ([Neutral] ～を通じて)          We contacted them via email.
+  - `through` /θruː/                ([Neutral] ～を通して)          We achieved this through hard work.
 ## Degree
 - ==kind of== /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
   - ==sort of== /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
@@ -797,3 +802,15 @@
   - `for whatever reason`           ([Casual] どんな理由であれ)     For whatever reason, he quit.
   - `at the expense of`             ([Neutral] 犠牲にして)          He got promoted at the expense of his colleague.
   - `by heart` /baɪ hɑːrt/          ([Neutral] 暗記で)              First of all, learn the formula by heart.
+
+- ==overall== /ˌoʊvərˈɔːl/            ([Neutral] 全体的に)            Overall, the project was a success.
+  - `all in all` /ɔːl ɪn ɔːl/       ([Neutral] 全体として)          All in all, it was a good experience.
+- `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.
+  - `simply put`                    ([Neutral] 簡単に言えば)        Simply put, we need to improve communication.
+  - `to recap` /tuː ˈriːkæp/        ([Neutral] 要約すると)          To recap, we have three main goals.
+  - `in a nutshell`                 ([Neutral] 手短に言えば)        In a nutshell, the project was a success.
+  - ==long story short==              ([Casual] 手短に言うと)         Long story short, we won the contract.
+  - `to make a long story short`    ([Casual] 手短に言うと)         To make a long story short, I got the job.
+  - `in brief` /ɪn briːf/           ([Neutral] 簡潔に言うと)        In brief, the plan failed.
+  - `to put it simply`              ([Neutral] 簡単に言うと)        To put it simply, we're out of time.
+  - `put simply`                    ([Neutral] 簡単に言えば)        Put simply, it won't work.

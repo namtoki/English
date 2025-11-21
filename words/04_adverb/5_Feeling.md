@@ -1,0 +1,71 @@
+# Feeling
+
+## Stance
+- ==to be honest==                    ([Casual] 正直に言うと)         To be honest, I didn't like the movie.
+  - `honestly` /ˈɑːnɪstli/          ([Casual] 正直に言って)         Honestly, I think we should wait.
+  - `frankly` /ˈfræŋkli/            ([Neutral] 率直に言って)        Frankly, I'm disappointed.
+  - `to be frank`                   ([Neutral] 率直に言うと)        To be frank, your idea needs work.
+  - `The fact is`                   ([Neutral] 実を言うと)          The fact is, I don't have enough money.
+  - `truthfully` /ˈtruːθfəli/       ([Neutral] 正直に言って)        Truthfully, I wasn't expecting this.
+  - `to tell (you) the truth`       ([Casual] 本当のことを言うと)   To tell you the truth, I forgot all about it.
+  - `if I'm being honest`           ([Casual] 正直に言うと)         If I'm being honest, I'm not a fan.
+  - `in all honesty`                ([Neutral] 正直なところ)        In all honesty, I don't know what to do.
+  - `to be perfectly honest`        ([Neutral] 完全に正直に言うと)  To be perfectly honest, I'm nervous.
+  - `to be candid`                  ([Formal] 率直に言うと)         To be candid, we're facing challenges.
+  - `candidly` /ˈkændɪdli/          ([Formal] 率直に)               Candidly, the results were disappointing.
+  - `to put it bluntly`             ([Neutral] 単刀直入に言うと)    To put it bluntly, you failed.
+  - `bluntly` /ˈblʌntli/            ([Neutral] 単刀直入に)          Bluntly, this isn't working.
+  - `to be straight with you`       ([Casual] 正直に言うと)         To be straight with you, I disagree.
+  - `straight up`                   ([Slang] 正直に)                Straight up, that's a bad idea.
+  - `not gonna lie`                 ([Slang] 嘘つかないけど)        Not gonna lie, that was impressive.
+  - `no word of a lie`              ([British] 嘘じゃなく)          No word of a lie, it was amazing.
+  - `truth be told`                 ([Neutral] 実を言うと)          Truth be told, I never liked him.
+- `==to my== surprise`                  ([Neutral] 驚いたことに)        To my surprise, she agreed immediately.
+  - `to my amazement`               ([Neutral] 驚いたことに)        To my amazement, he solved it in minutes.
+  - `to my astonishment`            ([Formal] 驚いたことに)         To my astonishment, they knew each other.
+  - `to my delight`                 ([Neutral] 嬉しいことに)        To my delight, the package arrived early.
+  - `to my disappointment`          ([Neutral] がっかりしたことに)  To my disappointment, the show was cancelled.
+  - `to my horror`                  ([Neutral] 恐ろしいことに)      To my horror, I had forgotten my wallet.
+  - `to my dismay`                  ([Neutral] 落胆したことに)      To my dismay, the train had already left.
+  - `to my relief`                  ([Neutral] 安心したことに)      To my relief, everyone was safe.
+  - `to my satisfaction`            ([Formal] 満足したことに)       To my satisfaction, the work was completed.
+- ==much to my== `surprise`             ([Neutral] とても驚いたことに)  Much to my surprise, he remembered my birthday.
+  - `much to my delight`            ([Neutral] とても嬉しいことに)  Much to my delight, they offered me the job.
+  - `much to my disappointment`     ([Neutral] とても残念なことに)  Much to my disappointment, it was sold out.
+- `much to the relief of O`         ([Neutral] Oが安心したことには) Much to the relief of the team,
+  - `much to the surprise of O`     ([Neutral] Oが驚いたことには)   Much to the surprise of everyone, she quit.
+  - `much to the delight of O`      ([Neutral] Oが喜んだことには)   Much to the delight of fans, they reunited.
+- `I was wondering`                 ([Casual] ちょっと気になって)   I was wondering if you're free tonight.
+  - `I'm curious`                   ([Casual] 気になるんだけど)     I'm curious - how did you learn English?
+    - `I'm just curious about`      ([Casual] ちょっと気になって)   I'm just curious about your background.
+  - `just curious`                  ([Casual] ただ気になって)       Just curious, but do you like it here?
+  - ==out of curiosity==              ([Neutral] 興味から)            Out of curiosity, what's your favorite food?
+    - `just out of curiosity`       ([Casual] 単に興味から)         Just out of curiosity, why did you come to Japan?
+  - `I've been wondering`           ([Casual] ずっと気になってて)   I've been wondering about your accent.
+
+## Tag
+- ==!, if that makes sense==           ([Neutral] 伝わればいいけど)    It's more of a vibe than a strict rule, if that makes sense.
+  - ==, you know what I mean?==       ([Casual] わかるでしょ？)       It's just not worth the trouble, you know what I mean?
+  - `, right?` /raɪt/               ([Casual] ～だよね？)           You're coming to the party tonight, right?
+  - `, you know?` /ju noʊ/          ([Casual] 〜じゃん？)           It's just been really hectic lately, you know?
+  - `, yeah?` /jeə/                 ([Casual] 〜だよね？)           That was pretty crazy, yeah?
+  - `, y'know?` /jəˈnoʊ/            ([Casual] 〜じゃん？)           It's just one of those things, y'know?
+  - `, don't you think?`            ([Neutral] そう思わない？)      The weather's been nice lately, don't you think?
+  - `, does that make sense?`       ([Neutral] 意味わかる？)        We'll split the tasks like this, does that make sense?
+  - `, isn't it?` /ˈɪznt ɪt/        ([Neutral] 〜でしょ？)          It's a beautiful day, isn't it?
+  - `, or...?` /ɔːr/                ([Casual] それとも...？)        Should we meet at 7, or...?
+  - `, I guess` /aɪ ɡes/            ([Casual] 〜と思うけど)         It's kind of expensive, I guess.
+  - `, you see?` /ju siː/           ([Casual] わかるでしょ？)       It's not just about money, you see? It's about respect.
+  - `, see what I mean?`            ([Casual] わかるでしょ？)       First it broke, then it leaked. See what I mean?
+  - `, am I right?` /æm aɪ raɪt/    ([Casual] 合ってるよね？)       This whole thing is just a mess, am I right?
+  - `, you get me?` /ju ɡet miː/    ([Slang] わかる？)              I'm not trying to be rude, you get me?
+  - `, you feel me?` /ju fiːl miː/  ([Slang] わかるっしょ？)        I just need some space, you feel me?
+  - `, know what I'm saying?`       ([Slang] わかるっしょ？)        We gotta stick together out there, know what I'm saying?
+  - `, innit?` /ˈɪnɪt/              ([British] 〜でしょ？)          Bit cold today, innit?
+  - `, eh?` /eɪ/                    ([Canadian] 〜だよね？)         Nice game last night, eh?
+- `or not really?`                  ([Casual] そうでもない？)       You're into horror movies, or not really?
+  - `or what?` /ɔːr wʌt/            ([Casual] それともどう？)       Is this the plan, or what?
+  - `or no?` /ɔːr noʊ/              ([Casual] それとも違う？)       Should I wait or no?
+  - `or not?` /ɔːr nɑːt/            ([Neutral] それとも違う？)      Are you coming or not?
+  - `or something?` /ɔːr ˈsʌmθɪŋ/   ([Casual] か何か？)             Are you sick or something?
+  - `or whatever` /ɔːr wʌtˈevər/    ([Casual] か何でも)             We can get pizza or whatever.

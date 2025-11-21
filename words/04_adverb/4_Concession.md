@@ -1,0 +1,79 @@
+# Concession
+
+- `probably` /ˈprɑːbəbli/           ([Neutral] おそらく)            Probably, he'll arrive late.
+  - `presumably` /prɪˈzuːməbli/     ([Neutral] おそらく、推定では)  Presumably, they already know.
+  - `apparently` /əˈpærəntli/       ([Neutral] 見たところ)          Apparently, he's not coming.
+  - `evidently` /ˈevɪdəntli/        ([Neutral] 明らかに)            Evidently, she was upset.
+  - `clearly` /ˈklɪrli/             ([Neutral] 明らかに)            Clearly, we need more time.
+  - `obviously` /ˈɑːbviəsli/        ([Neutral] 明らかに)            Obviously, that won't work.
+  - `certainly` /ˈsɜːrtnli/         ([Neutral] 確かに)              Certainly, we can help.
+  - `definitely` /ˈdefɪnətli/       ([Casual] 絶対に)               Definitely, I'll be there.
+  - `surely` /ˈʃʊrli/               ([Neutral] 確かに、きっと)      Surely, you remember me?
+  - `undoubtedly` /ʌnˈdaʊtɪdli/     ([Formal] 疑いなく)             Undoubtedly, this is the best option.
+  - `no doubt` /noʊ daʊt/           ([Neutral] 疑いなく)            No doubt, she'll succeed.
+  - `without (a) doubt`             ([Neutral] 疑いなく)            Without doubt, he's the best.
+  - `unquestionably` /ʌnˈkwestʃənəbli/ ([Formal] 疑問の余地なく)   Unquestionably, she's talented.
+  - `arguably` /ˈɑːrɡjuəbli/        ([Neutral] 議論の余地はあるが)  Arguably, she's the best player on the team.
+
+- ==even though== /ˈiːvən ðoʊ/        ([Neutral] 〜にも関わらず)      Even though he's new to the team, ~~
+  - `although` /ɔːlˈðoʊ/            ([Neutral] 〜にも関わらず)      Although it was raining, we went for a walk.
+  - `though` /ðoʊ/                  ([Casual] 〜だけど)             I'll help you, though I'm really busy.
+  - `despite` /dɪˈspaɪt/            ([Formal] 〜にもかかわらず)     Despite the weather, the event went on as planned.
+  - `in spite of` /ɪn spaɪt əv/     ([Formal] 〜に反して)           In spite of our compliments, he frowned and turned away.
+  - ==for all== /fɔːr ɔːl/            ([Formal] 〜にもかかわらず)     For all her experience, she still ~~
+  - `notwithstanding`               ([Formal] 〜にもかかわらず)     Notwithstanding the difficulties, we succeeded.
+- ==even if== /ˈiːvən ɪf/             ([Neutral] たとえ〜しても)      Even if it rains, we'll still go to the park.
+  - `no matter how` /noʊ ˈmætər haʊ/([Neutral] どんなに〜でも)      No matter how hard I try, I can't solve this.
+  - `however much` /haʊˈevər mʌtʃ/  ([Neutral] どれだけ〜しても)    However much you study, there's always more to learn.
+  - `with all` /wɪð ɔːl/            ([Formal] 〜があっても)         With all his experience, he still made a rookie mistake.
+
+## Concession
+- `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
+  - `in my opinion`                 ([Neutral] 私の意見では)        In my opinion, this is the best option.
+  - `in my view` /ɪn maɪ vjuː/      ([Neutral] 私の見解では)        In my view, we need more time.
+  - `to my mind` /tuː maɪ maɪnd/    ([Neutral] 私の考えでは)        To my mind, this solution works best.
+  - `personally` /ˈpɜːrsənəli/      ([Neutral] 個人的には)          Personally, I prefer the first design.
+  - ==the way I see it==              ([Casual] 私の考えでは)         The way I see it, we have two choices.
+  - `from my point of view`         ([Neutral] 私の視点では)        From my point of view, it's too risky.
+  - `from my perspective`           ([Neutral] 私の観点から)        From my perspective, it's a win-win.
+  - `if you ask me`                 ([Casual] 私に言わせれば)       If you ask me, it's a waste of time.
+- ==as far as I know==                ([Neutral] 知る限りでは)        As far as I know, he's still working there.
+  - ==as I understand it==            ([Neutral] 理解している限り)    As I understand it, the plan changed.
+  - `==from what I== understand`        ([Neutral] 理解している限り)    From what I understand, it's canceled.
+  - `==from what I=='ve heard`          ([Casual] 聞いた話では)         From what I've heard, she's moving.
+  - `==from what I== know`              ([Casual] 知っている限り)       From what I know, it's true.
+- ==reportedly== /rɪˈpɔːrtɪdli/       ([Neutral] 伝えられるところ)    Reportedly, they're closing the office.
+  - `allegedly` /əˈledʒɪdli/        ([Neutral] 申し立てによると)    Allegedly, he was involved in the scandal.
+- ==if I'm not mistaken==             ([Neutral] 間違っていなければ)  If I'm not mistaken, the meeting is at 3 p.m.
+  - `if I'm not wrong`              ([Casual] 間違ってなければ)     If I'm not wrong, he said Monday.
+  - `if I recall correctly`         ([Neutral] 記憶が正しければ)    If I recall correctly, it was expensive.
+  - `if memory serves me right`     ([Neutral] 記憶が正しければ)    If memory serves me right, it was June.
+  - `unless I'm mistaken`           ([Neutral] 間違いでなければ)    Unless I'm mistaken, she's the manager.
+  - `unless I'm wrong`              ([Casual] 間違いでなければ)     Unless I'm wrong, it's this Friday.
+  - ==correct me if I'm wrong, but==  ([Neutral] 間違ってたら訂正を)  Correct me if I'm wrong, but isn't he from Texas?
+  - `I could be wrong, but`         ([Casual] 間違ってるかもだけど) I could be wrong, but I think it's blue.
+  - `I may be wrong, but`           ([Neutral] 間違てるかもだけど)  I may be wrong, but that sounds expensive.
+  - `I might be wrong, but`         ([Casual] 間違ってるかもだけど) I might be wrong, but wasn't it yesterday?
+  - `to the best of my knowledge`   ([Formal] 知る限りでは)         To the best of my knowledge, it's accurate.
+  - `to my knowledge`               ([Neutral] 私の知る限り)        To my knowledge, he's never been there.
+  - `as far as I can tell`          ([Neutral] 分かる限りでは)      As far as I can tell, everything's fine.
+  - `from my understanding`         ([Neutral] 私の理解では)        From my understanding, we start Monday.
+- ==if it works for you==             ([Neutral] それで都合よければ)  We can meet at 3 p.m. tomorrow if it works for you.
+  - `if you don't mind`             ([Neutral] よろしければ)        If you don't mind, could I ask you a few questions?
+  - `if that's ok (with you)`       ([Casual] それでよければ)       I'll call you tomorrow if that's ok with you.
+  - `if that's alright`             ([Neutral] それで大丈夫なら)    I'll arrive at 10, if that's alright.
+  - `if you're ok with that`        ([Casual] それでよければ)       We'll split the bill, if you're ok with that.
+  - `if that's fine (with you)`     ([Neutral] それでいいなら)      Let's meet at noon if that's fine with you.
+  - `unless you mind`               ([Neutral] 構わなければ)        I'll join you, unless you mind.
+  - `if you wouldn't mind`          ([Polite] よろしければ)         If you wouldn't mind, I'd like to review this.
+  - `if it's not too much trouble`  ([Polite] ご迷惑でなければ)     If it's not too much trouble, could you help me?
+  - `if you're comfortable with that` ([Polite] それで問題なければ) I'll handle this part, if you're comfortable with that.
+  - `if you have no objection`      ([Formal] ご異議なければ)       If you have no objection, we'll proceed.
+  - `if it suits you`               ([Formal] ご都合がよければ)     We can reschedule if it suits you better.
+- `if anything`                     ([Casual] どちらかと言えば)     If anything, this situation calls for more caution.
+  - `if nothing else`               ([Neutral] 少なくとも)          If nothing else, we learned from the experience.
+  - `if memory serves`              ([Neutral] 記憶が正しければ)    If memory serves, we met in 2019.
+  - ==if I had to say==               ([Casual] しいて言うなら)       If I had to say, I'd agree with you.
+  - `if I had to choose`            ([Neutral] 選ぶなら)            If I had to choose, I'd pick the blue one.
+  - `if I had to guess`             ([Casual] 推測するなら)         If I had to guess, they'll arrive late.
+  - `if I were to guess`            ([Formal] 推測するとすれば)     If I were to guess, I'd say it's broken.
