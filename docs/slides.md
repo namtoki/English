@@ -184,7 +184,7 @@ base: /English/
 }
 
 .logo-pioneer {
-  height: 30px;  /* 3年 ≈ 50% */
+  height: 50px;  /* 3年 ≈ 50% */
 }
 
 .logo-fixstars {
@@ -192,11 +192,11 @@ base: /English/
 }
 
 .logo-optim {
-  height: 30px;  /* 3年 ≈ 50% */
+  height: 50px;  /* 3年 ≈ 50% */
 }
 
 .logo-dandm {
-  height: 25px;  /* 2年 ≈ 33% */
+  height: 50px;  /* 2年 ≈ 33% */
 }
 
 .fixstars-okinawa {
