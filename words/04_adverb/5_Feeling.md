@@ -1,5 +1,103 @@
 # Feeling
 
+## Degree
+- ==kind of== /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
+  - ==sort of== /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
+  - `kinda` /ˈkaɪndə/               ([Casual] ちょっと、なんとなく) I'm kinda hungry.
+  - `sorta` /ˈsɔːrtə/               ([Casual] ちょっと、なんか)     I sorta get it now.
+- ==a little bit== /ə ˈlɪtəl bɪt/     ([Casual] 少し、ちょっと)       I'm a little bit tired today.
+  - `a little` /ə ˈlɪtəl/           ([Neutral] 少し、ちょっと)      She seems a little upset.
+  - `a bit` /ə bɪt/                 ([Casual] ちょっと、少し)       It's a bit cold outside.
+  - `a tad` /ə tæd/                 ([Casual] ほんの少し)           The coffee is a tad too sweet.
+  - `low-key` /ˌloʊˈkiː/            ([Casual] ちょっと、密かに)     I'm low-key obsessed with that show.
+  - ==somewhat== /ˈsʌmwʌt/            ([Neutral] いくぶん、多少)      The results were somewhat surprising.
+  - ==slightly== /ˈslaɪtli/           ([Neutral] わずかに、少し)      I'm slightly concerned about this.
+  - `barely` /ˈberli/               ([Neutral] かろうじて)          He could barely hear the whisper.
+  - `faintly` /ˈfeɪntli/            ([Neutral] かすかに)            She smiled faintly at the joke.
+- ==more or less== /mɔːr ɔːr les/     ([Neutral] だいたい、多少)      The work is more or less done.
+  - `moderately` /ˈmɑːdərətli/      ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
+  - `reasonably` /ˈriːzənəbli/      ([Neutral] 適度に、まあまあ)    The prices are reasonably affordable.
+  - `relatively` /ˈrelətɪvli/       ([Neutral] 比較的)              It's relatively easy to learn.
+  - `comparatively` /kəmˈpærətɪvli/ ([Neutral] 比較的)              Comparatively speaking, it's not expensive.
+  - `adequately` /ˈædɪkwətli/       ([Formal] 適切に、十分に)       The room was adequately furnished.
+  - `tolerably` /ˈtɑːlərəbli/       ([Formal] まあまあ、かなり)     The food was tolerably good.
+  - `passably` /ˈpæsəbli/           ([Formal] まあまあ、そこそこ)   She speaks French passably well.
+- `pretty` /ˈprɪti/                 ([Casual] かなり、相当)         She's pretty smart.
+  - `quite` /kwaɪt/                 ([Neutral] かなり、相当)        That's quite interesting.
+  - `fairly` /ˈferli/               ([Neutral] かなり、まあまあ)    He speaks English fairly well.
+  - `rather` /ˈræðər/               ([Neutral] かなり、やや)        The movie was rather disappointing.
+  - `pretty much` /ˈprɪti mʌtʃ/     ([Casual] ほとんど、だいたい)   I pretty much finished the report.
+  - `very` /ˈveri/                  ([Neutral] とても、非常に)      She's very intelligent.
+  - `considerably` /kənˈsɪdərəbli/  ([Formal] かなり、相当に)       The price has increased considerably.
+  - `significantly` /sɪɡˈnɪfɪkəntli/([Formal] 著しく、かなり)       Sales have grown significantly.
+- `absolutely` /ˈæbsəluːtli/        ([Neutral] 絶対に、完全に)      You're absolutely right about that.
+  - `completely` /kəmˈpliːtli/      ([Neutral] 完全に、すっかり)    The project is completely finished.
+  - ==totally== /ˈtoʊtəli/            ([Casual] 完全に、まったく)     I totally agree with you.
+  - `entirely` /ɪnˈtaɪərli/         ([Neutral] 完全に、全く)        That's entirely possible.
+  - `fully` /ˈfʊli/                 ([Neutral] 完全に、十分に)      I fully understand your concern.
+  - `wholly` /ˈhoʊli/               ([Formal] 完全に、全く)         I'm wholly committed to this project.
+  - `utterly` /ˈʌtərli/             ([Neutral] まったく、完全に)    I'm utterly exhausted from work.
+  - `thoroughly` /ˈθʌrəli/          ([Neutral] 徹底的に、完全に)    Please read it thoroughly first.
+  - `downright` /ˈdaʊnraɪt/         ([Casual] まったく、完全に)     That's downright ridiculous!
+  - `incredibly` /ɪŋˈkɹɛdɪbli/      ([Neutral] 非常に、とても)      He was incredibly wealthy.
+  - `perfectly` /ˈpɜːrfɪktli/       ([Neutral] 完璧に、完全に)      I understand perfectly.
+  - `purely` /ˈpjʊərli/             ([Neutral] 純粋に、全く)        This is purely a business decision.
+- `a lot` /ə ˈlɑt/                  ([Casual] とても、すごく)       Thanks a lot for listening to me.
+  - `really` /ˈriːəli/              ([Neutral] 本当に、本気で)      I really appreciate your help.
+  - ==literally== /ˈlɪtərəli/         ([Neutral] 文字通り、本当に)    I'm literally starving right now.
+  - `actually` /ˈæktʃuəli/          ([Neutral] 実は、本当に)        I'm actually quite tired.
+  - `seriously` /ˈsɪriəsli/         ([Neutral] 本気で、マジで)      Are you seriously leaving now?
+  - `honestly` /ˈɑːnɪstli/          ([Neutral] 正直に、本当に)      I honestly don't know what to do.
+  - `genuinely` /ˈdʒenjuɪnli/       ([Neutral] 本当に、心から)      I'm genuinely happy for you.
+  - `truly` /ˈtruːli/               ([Neutral] 本当に、真に)        I'm truly sorry for the mistake.
+  - ==legit== /ləˈdʒɪt/               ([Casual] 本当に、マジで)       I legit thought he was joking.
+  - `for real` /fɔːr riːl/          ([Casual] マジで、本当に)       Are you leaving for real?
+  - `high-key` /ˌhaɪˈkiː/           ([Casual] 完全に、明らかに)     I'm high-key stressed about the exam.
+  - `no joke` /noʊ dʒoʊk/           ([Casual] 冗談抜きで)           This is important, no joke.
+- ==especially== /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
+  - ==particularly== /pərˈtɪkjələrli/ ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
+  - `specifically` /spɪˈsɪfɪkli/    ([Neutral] 特に、具体的に)      I'm looking for help, specifically with coding.
+  - `notably` /ˈnoʊtəbli/           ([Neutral] 特に、著しく)        She was notably absent from the meeting.
+  - `in particular`                 ([Neutral] 特に、とりわけ)      I like Italian food, pasta in particular.
+  - `chiefly` /ˈtʃiːfli/            ([Formal] 主に、特に)           He's interested chiefly in history.
+  - ==largely== /ˈlɑːrdʒli/           ([Neutral] 主に、大部分は)      The decision was largely based on cost.
+  - `markedly` /ˈmɑːrkɪdli/         ([Formal] 著しく、顕著に)       Sales improved markedly this quarter.
+- `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
+  - `principally` /ˈprɪnsəpəli/     ([Formal] 主に、主として)       He's known principally for his novels.
+  - `predominantly` /prɪˈdɑːmɪnəntli([Formal] 大部分は)             The area is predominantly residential.
+  - `importantly` /ɪmˈpɔːrtəntli/   ([Neutral] 重要なことには)      More importantly, we need to act now.
+- ==like crazy== /laɪk ˈkɹeɪzi/       ([Casual] ものすごく、猛烈に)   She stayed late, working like crazy.
+  - `like mad` /laɪk mæd/           ([Casual] 猛烈に、必死で)       We ran like mad to get home.
+  - `like hell` /laɪk hɛl/          ([Casual] 猛烈に、すごく)       We worked like hell to finish the job.
+  - `like anything` /laɪk ˈeniθɪŋ/  ([Casual] とても、非常に)       It was raining like anything.
+- `needlessly` /ˈniːdləsli/         ([Neutral] 不必要に)            Don't worry needlessly.
+  - `redundantly` /rɪˈdʌndəntli/    ([Formal] 冗長に)               The phrase was redundantly repeated.
+  - `superfluously` /suːˈpɜːrfluəsli([Formal] 余分に)               The word was superfluously added.
+- `conspicuously` /kənˈspɪkjuəsli/  ([Formal] 目立って)             She was conspicuously silent during the meeting.
+  - `prominently` /ˈprɑːmɪnəntli/   ([Neutral] 目立って)            The sign was prominently displayed.
+  - `strikingly` /ˈstraɪkɪŋli/      ([Neutral] 印象的に)            She's strikingly beautiful.
+  - `remarkably` /rɪˈmɑːrkəbli/     ([Neutral] 著しく)              He was remarkably calm during the crisis.
+  - `pronouncedly` /prəˈnaʊnsɪdli/  ([Formal] 顕著に)               The effect was pronouncedly visible.
+  - `saliently` /ˈseɪliəntli/       ([Writing] 顕著に)              The point was saliently made.
+- ==extremely== /ɪkˈstriːmli/         ([Neutral] 極端に、非常に)      It's extremely important.
+  - `exceedingly` /ɪkˈsiːdɪŋli/     ([Formal] 非常に、極めて)       She was exceedingly polite.
+  - `exceptionally` /ɪkˈsepʃənəli/  ([Neutral] 例外的に、非常に)    He's exceptionally talented.
+  - `excessively` /ɪkˈsesɪvli/      ([Neutral] 過度に)              The room is excessively hot.
+  - `overly` /ˈoʊvərli/             ([Neutral] 過度に)              Don't be overly concerned.
+  - `dramatically` /drəˈmætɪkli/    ([Neutral] 劇的に)              Prices rose dramatically.
+  - `exponentially` /ˌekspəˈnenʃəli/([Formal] 加速度的に)          The problem grew exponentially.
+  - `unreasonably` /ʌnˈriːzənəbli/  ([Neutral] 不合理に)            The price is unreasonably high.
+  - `outrageously` /aʊtˈreɪdʒəsli/  ([Neutral] 法外に)              It's outrageously expensive.
+  - `notoriously` /noʊˈtɔːriəsli/   ([Formal] 悪名高いほど)         This area is notoriously difficult.
+  - `infamously` /ˈɪnfəməsli/       ([Formal] 悪名高いことに)       He's infamously unreliable.
+  - `disastrously` /dɪˈzæstrəsli/   ([Neutral] 悲惨に、破滅的に)    The plan failed disastrously.
+  - `abjectly` /ˈæbdʒektli/         ([Writing] 極度に、悲惨に)      He failed abjectly.
+  - `abominably` /əˈbɑːmɪnəbli/     ([Formal] ひどく)               She behaved abominably.
+  - `dearly` /ˈdɪrli/               ([Neutral] 非常に、ひどく)      She'll pay dearly for that mistake.
+  - `sorely` /ˈsɔːrli/              ([Formal] ひどく、激しく)       You'll be sorely missed.
+  - `substantially` /səbˈstænʃəli/  ([Formal] 実質上、かなり)       Costs have increased substantially.
+  - `amply` /ˈæmpli/                ([Formal] 十分に、豊富に)       The evidence amply demonstrates this.
+
 ## Stance
 - ==to be honest==                    ([Casual] 正直に言うと)         To be honest, I didn't like the movie.
   - `honestly` /ˈɑːnɪstli/          ([Casual] 正直に言って)         Honestly, I think we should wait.
@@ -42,6 +140,26 @@
   - ==out of curiosity==              ([Neutral] 興味から)            Out of curiosity, what's your favorite food?
     - `just out of curiosity`       ([Casual] 単に興味から)         Just out of curiosity, why did you come to Japan?
   - `I've been wondering`           ([Casual] ずっと気になってて)   I've been wondering about your accent.
+
+## Assessment
+- `masterly` /ˈmæstərli/            ([Formal] 見事に)               He played the piece masterly.
+- `auspiciously` /ɔːˈspɪʃəsli/      ([Formal] 幸先よく)             The year began auspiciously.
+- `beastly` /ˈbiːstli/              ([Informal] ひどく)             It's beastly cold today.
+- `oddly` /ˈɑːdli/                  ([Neutral] 奇妙に)              Oddly, he never mentioned it.
+- `narrowly` /ˈnæroʊli/             ([Neutral] かろうじて、辛うじて) He narrowly escaped injury.
+- `doubtless` /ˈdaʊtləs/            ([Formal] 確かに、おそらく)     Doubtless, he'll be late again.
+- ==obviously== /ˈɒbviəsli/           ([Neutral] 明らかに)            Obviously, we need to change our approach.
+  - `glaringly` /ˈɡleərɪŋli/        ([Neutral] 明白に)              The mistake was glaringly obvious.
+  - `patently` /ˈpeɪtəntli/         ([Writing] 明白に)              The claim is patently false.
+- `in no uncertain terms`           ([Formal] はっきりと)           She told him in no uncertain terms that his behavior was unacceptable.
+  - `clearly` /ˈklɪrli/             ([Neutral] はっきりと)          He stated clearly that he disagreed.
+  - `explicitly` /ɪkˈsplɪsɪtli/     ([Formal] 明示的に)             The rules explicitly forbid smoking.
+  - `unambiguously`/ˌʌnæmˈbɪɡjuəsli/([Formal] 曖昧さなく)           The contract states unambiguously that payment is due.
+  - `bluntly` /ˈblʌntli/            ([Casual] 率直に)               To put it bluntly, your work needs improvement.
+  - `directly` /dəˈrektli/          ([Neutral] 直接的に)            He told her directly what the problem was.
+  - `plainly` /ˈpleɪnli/            ([Neutral] 明白に)              She plainly stated her objections.
+
+- ==in the first place==              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
 
 ## Tag
 - ==!, if that makes sense==           ([Neutral] 伝わればいいけど)    It's more of a vibe than a strict rule, if that makes sense.

@@ -1,5 +1,8 @@
 # Condition
 
+- ==overall== /ˌoʊvərˈɔːl/            ([Neutral] 全体的に)            Overall, the project was a success.
+  - `all in all` /ɔːl ɪn ɔːl/       ([Neutral] 全体として)          All in all, it was a good experience.
+
 ## Assumption
 - `if` /ɪf/                         ([Neutral] もし～なら)          If it rains, we'll move inside.
   - `in the event of`               ([Formal] ～の場合には)         In the event of rain, we'll move inside.
@@ -33,6 +36,11 @@
   - `upon X/doing` /əˈpɑːn/         ([Formal] Xしてすぐ)            Upon arrival at headquarters, report to security.
 - `by the time S V` /baɪ ðə taɪm/   ([Neutral] するときまでに)      By the time I woke up, the snow had stopped.
   - `until such time as S V`        ([Formal] までの間は)           We cannot review it until such time as we receive that.
+- ==!on a scale of 1 to 10==           ([Neutral] 1から10で評価すると) On a scale of 1 to 10, how was your day?
+  - `on a scale of 1 to 5`          ([Neutral] 1から5で評価すると)  On a scale of 1 to 5, rate the service.
+  - `from 1 to 10`                  ([Casual] 1から10で)            From 1 to 10, how likely are you to recommend us?
+  - `rate from 1 to 10`             ([Neutral] 1から10で評価して)   Rate from 1 to 10 your satisfaction level.
+  - `scale from 0 to 10`            ([Neutral] 0から10の範囲で)     Scale from 0 to 10, where 0 is worst.
 
 ## Fact
 - ==!given that== /ˈɡɪvən ðæt/         ([Neutral] ～を考えると)        Given that he's new, he did remarkably well.
@@ -100,3 +108,4 @@
   - `if I remember correctly`       ([Neutral] 記憶が正しければ)    If I remember correctly, it was Tuesday.
   - `if memory serves`              ([Neutral] 記憶が正しければ)    If memory serves, we met in 2019.
   - `without thinking too much`     ([Casual] あまり考えずに)       Without thinking too much, I'd say we need more time.
+

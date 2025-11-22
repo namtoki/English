@@ -1,234 +1,4 @@
-# Adverb Phrase
-
-
-  - `as follows` /æz ˈfɑːloʊz/      ([Formal] 次のように)           The steps are as follows.
-  - `by means of` /baɪ miːnz əv/    ([Formal] ～を用いて)           We solved it by means of negotiation.
-  - `via` /ˈvaɪə/                   ([Neutral] ～を通じて)          We contacted them via email.
-  - `through` /θruː/                ([Neutral] ～を通して)          We achieved this through hard work.
-## Degree
-- ==kind of== /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
-  - ==sort of== /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
-  - `kinda` /ˈkaɪndə/               ([Casual] ちょっと、なんとなく) I'm kinda hungry.
-  - `sorta` /ˈsɔːrtə/               ([Casual] ちょっと、なんか)     I sorta get it now.
-- ==a little bit== /ə ˈlɪtəl bɪt/     ([Casual] 少し、ちょっと)       I'm a little bit tired today.
-  - `a little` /ə ˈlɪtəl/           ([Neutral] 少し、ちょっと)      She seems a little upset.
-  - `a bit` /ə bɪt/                 ([Casual] ちょっと、少し)       It's a bit cold outside.
-  - `a tad` /ə tæd/                 ([Casual] ほんの少し)           The coffee is a tad too sweet.
-  - `low-key` /ˌloʊˈkiː/            ([Casual] ちょっと、密かに)     I'm low-key obsessed with that show.
-  - ==somewhat== /ˈsʌmwʌt/            ([Neutral] いくぶん、多少)      The results were somewhat surprising.
-  - ==slightly== /ˈslaɪtli/           ([Neutral] わずかに、少し)      I'm slightly concerned about this.
-  - `barely` /ˈberli/               ([Neutral] かろうじて)          He could barely hear the whisper.
-  - `faintly` /ˈfeɪntli/            ([Neutral] かすかに)            She smiled faintly at the joke.
-- ==more or less== /mɔːr ɔːr les/     ([Neutral] だいたい、多少)      The work is more or less done.
-  - `moderately` /ˈmɑːdərətli/      ([Formal] 適度に、ほどほどに)   The weather was moderately warm.
-  - `reasonably` /ˈriːzənəbli/      ([Neutral] 適度に、まあまあ)    The prices are reasonably affordable.
-  - `relatively` /ˈrelətɪvli/       ([Neutral] 比較的)              It's relatively easy to learn.
-  - `comparatively` /kəmˈpærətɪvli/ ([Neutral] 比較的)              Comparatively speaking, it's not expensive.
-  - `adequately` /ˈædɪkwətli/       ([Formal] 適切に、十分に)       The room was adequately furnished.
-  - `tolerably` /ˈtɑːlərəbli/       ([Formal] まあまあ、かなり)     The food was tolerably good.
-  - `passably` /ˈpæsəbli/           ([Formal] まあまあ、そこそこ)   She speaks French passably well.
-- `pretty` /ˈprɪti/                 ([Casual] かなり、相当)         She's pretty smart.
-  - `quite` /kwaɪt/                 ([Neutral] かなり、相当)        That's quite interesting.
-  - `fairly` /ˈferli/               ([Neutral] かなり、まあまあ)    He speaks English fairly well.
-  - `rather` /ˈræðər/               ([Neutral] かなり、やや)        The movie was rather disappointing.
-  - `pretty much` /ˈprɪti mʌtʃ/     ([Casual] ほとんど、だいたい)   I pretty much finished the report.
-  - `very` /ˈveri/                  ([Neutral] とても、非常に)      She's very intelligent.
-  - `considerably` /kənˈsɪdərəbli/  ([Formal] かなり、相当に)       The price has increased considerably.
-  - `significantly` /sɪɡˈnɪfɪkəntli/([Formal] 著しく、かなり)       Sales have grown significantly.
-- `absolutely` /ˈæbsəluːtli/        ([Neutral] 絶対に、完全に)      You're absolutely right about that.
-  - `completely` /kəmˈpliːtli/      ([Neutral] 完全に、すっかり)    The project is completely finished.
-  - ==totally== /ˈtoʊtəli/            ([Casual] 完全に、まったく)     I totally agree with you.
-  - `entirely` /ɪnˈtaɪərli/         ([Neutral] 完全に、全く)        That's entirely possible.
-  - `fully` /ˈfʊli/                 ([Neutral] 完全に、十分に)      I fully understand your concern.
-  - `wholly` /ˈhoʊli/               ([Formal] 完全に、全く)         I'm wholly committed to this project.
-  - `utterly` /ˈʌtərli/             ([Neutral] まったく、完全に)    I'm utterly exhausted from work.
-  - `thoroughly` /ˈθʌrəli/          ([Neutral] 徹底的に、完全に)    Please read it thoroughly first.
-  - `downright` /ˈdaʊnraɪt/         ([Casual] まったく、完全に)     That's downright ridiculous!
-  - `incredibly` /ɪŋˈkɹɛdɪbli/      ([Neutral] 非常に、とても)      He was incredibly wealthy.
-  - `perfectly` /ˈpɜːrfɪktli/       ([Neutral] 完璧に、完全に)      I understand perfectly.
-  - `purely` /ˈpjʊərli/             ([Neutral] 純粋に、全く)        This is purely a business decision.
-
-## Emphasis
-- `again` /əˈɡen/                   ([Neutral] 再び、もう一度)      Let me try again.
-  - `once more` /wʌns mɔːr/         ([Neutral] もう一度)            Can you say that once more?
-  - `once again` /wʌns əˈɡen/       ([Neutral] もう一度、再び)      Once again, thank you all.
-  - `over` /ˈoʊvər/                 ([Neutral] もう一度、やり直し)  Let's do it over.
-  - `newly` /ˈnuːli/                ([Neutral] 新しく、新たに)      The house is newly built.
-  - `freshly` /ˈfreʃli/             ([Neutral] 新しく、新鮮に)      Freshly baked bread smells great.
-  - `afresh` /əˈfreʃ/               ([Formal] 新たに、再び)         Let's start afresh tomorrow.
-  - `anew` /əˈnuː/                  ([Formal] 改めて、もう一度)     We must begin anew.
-
-## Condition
-- `before` /bɪˈfɔːr/                ([Neutral] 以前、前に)          I've seen this before.
-  - `previously` /ˈpriːviəsli/      ([Neutral] 以前に、これまで)    We previously discussed this.
-  - `earlier` /ˈɜːrliər/            ([Neutral] より早く、以前)      I mentioned this earlier.
-  - ==so far== /soʊ fɑːr/             ([Neutral] これまで、今のところ) So far, everything is fine.
-  - `formerly` /ˈfɔːrmərli/         ([Formal] かつて、以前は)       He was formerly a teacher.
-  - `thus far` /ðʌs fɑːr/           ([Formal] これまで)             Thus far, we have succeeded.
-  - `hitherto` /ˌhɪðərˈtuː/         ([Formal] 今まで、これまで)     This was hitherto unknown.
-  - `heretofore` /ˌhɪrtuˈfɔːr/      ([Formal] 今まで)               Heretofore unknown facts emerged.
-- ==secondhand== /ˌsekəndˈhænd/       ([Neutral] 中古で、間接的に)    I bought this secondhand.
-- `immediately` /ɪˈmiːdiətli/       ([Neutral] すぐに、即座に)      Please respond immediately.
-  - `quickly` /ˈkwɪkli/             ([Neutral] 素早く、すぐに)      We must act quickly.
-  - `soon` /suːn/                   ([Neutral] すぐに、まもなく)    I'll be there soon.
-  - `right away` /raɪt əˈweɪ/       ([Casual] すぐに)               I'll do it right away.
-  - `instantly` /ˈɪnstəntli/        ([Neutral] 即座に、すぐに)      He instantly recognized her.
-  - `at once` /ət wʌns/             ([Neutral] すぐに、直ちに)      Come here at once.
-  - `promptly` /ˈprɑːmptli/         ([Formal] 速やかに、すぐに)     He arrived promptly at 9 AM.
-  - `shortly` /ˈʃɔːrtli/            ([Neutral] まもなく、すぐに)    The meeting will begin shortly.
-  - `readily` /ˈredɪli/             ([Neutral] すぐに、容易に)      The information is readily available.
-  - `swiftly` /ˈswɪftli/            ([Formal] 素早く、迅速に)       They responded swiftly.
-  - `presently` /ˈprezəntli/        ([Formal] まもなく、すぐに)     The doctor will see you presently.
-  - `straightaway` /ˌstreɪtəˈweɪ/   ([Neutral] すぐに)              I'll get to it straightaway.
-  - `forthwith` /fɔːrθˈwɪθ/         ([Formal] 直ちに)               The order must be executed forthwith.
-
-
-
-## Feeling
-- `masterly` /ˈmæstərli/            ([Formal] 見事に)               He played the piece masterly.
-- `auspiciously` /ɔːˈspɪʃəsli/      ([Formal] 幸先よく)             The year began auspiciously.
-
-## 強調
-- `beastly` /ˈbiːstli/              ([Informal] ひどく)             It's beastly cold today.
-- `oddly` /ˈɑːdli/                  ([Neutral] 奇妙に)              Oddly, he never mentioned it.
-- `narrowly` /ˈnæroʊli/             ([Neutral] かろうじて、辛うじて) He narrowly escaped injury.
-- `doubtless` /ˈdaʊtləs/            ([Formal] 確かに、おそらく)     Doubtless, he'll be late again.
-- `judicially` /dʒuːˈdɪʃəli/        ([Formal] 司法的に、裁判で)     The matter was resolved judicially.
-- `diplomatically` /ˌdɪpləˈmætɪkli/ ([Formal] 外交的に)             He diplomatically avoided the topic.
-- `duly` /ˈduːli/                   ([Formal] 正式に、正当に)       The contract was duly signed.
-- `formally` /ˈfɔːrməli/            ([Formal] 正式に)               She was formally introduced to the board.
-
-## 様子
-- `sprightly` /ˈspraɪtli/           ([Formal] 活発に)               She moved sprightly despite her age.
-- `forthright` /ˌfɔːrθˈraɪt/        ([Formal] 率直に)               She spoke forthright about the issues.
-- `meagerly` /ˈmiːɡərli/            ([Formal] 貧弱に)               Meagerly covered.
-- `solidly` /ˈsɒlɪdli/              ([Neutral] 強固に、確実に)      The foundation was solidly built.
-  - `stoutly` /ˈstaʊtli/            ([Neutral] 頑丈に)              Stoutly built.
-- `tenaciously` /tɪˈneɪʃəsli/       ([Formal] 粘り強く、執拗に)     She worked tenaciously on the project.
-  - `relentlessly` /rɪˈlentləsli/   ([Writing] 容赦なく、執拗に)    He pursued his goal relentlessly.
-  - `laboriously` /ləˈbɔːriəsli/    ([Writing] 骨を折って)          He laboriously completed the task.
-- `blatantly` /ˈbleɪtəntli/         ([Neutral] 露骨に あからさまに) He blatantly ignored the rules.
-  - `brazenly` /ˈbreɪzənli/         ([Writing] 厚かましく)          She brazenly lied to everyone.
-- `randomly` /ˈrændəmli/            ([Casual] めちゃくちゃに)       He just randomly started singing.
-  - `chaotically` /keɪˈɒtɪkli/      ([Neutral] 混乱して)            People ran chaotically in all directions.
-- `indifferently` /ɪnˈdɪfərəntli/   ([Formal] 無関心に)             He shrugged indifferently.
-  - `apathetically` /ˌæpəˈθetɪkli/  ([Formal] 無関心に)             She responded apathetically to the news.
-- `inscrutably` /ɪnˈskruːtəbli/     ([Writing] 不可解に)            He smiled inscrutably.
-- `raucously` /ˈɹɔːkəsli/           ([Neutral] やかましく)          They raucously celebrated the victory.
-  - `noisily` /ˈnɔɪzɪli/            ([Neutral] 騒々しく)            The children played noisily outside.
-- `coarsely` /ˈkɔːrsli/             ([Neutral] 粗野に)              She laughed coarsely at the joke.
-  - `crudely` /ˈkruːdli/            ([Neutral] 粗野に)              He crudely expressed his opinion.
-  - `boorishly` /ˈbʊrɪʃli/          ([Writing] 無骨に)              He boorishly ignored social cues.
-  - `uncouthly` /ʌnˈkuːθli/         ([Formal] 無作法に)             He uncouthly interrupted the speech.
-  - `vulgarly` /ˈvʌlɡərli/          ([Formal] 下品に)               He spoke vulgarly at the dinner.
-  - `crassly` /ˈkræsli/             ([Formal] 無神経に)             He crassly mentioned her weight.
-  - `cruelly` /ˈkruːəli/            ([Neutral] 残酷に、ひどく)      They were treated cruelly.
-- `cowardly` /ˈkaʊərdli/            ([Neutral] 臆病に、卑怯に)      He cowardly refused to help.
-- `loosely` /ˈluːsli/               ([Neutral] ゆるく、大まかに)    The term is loosely defined.
-- `barefoot` /ˈberfʊt/              ([Neutral] 素足で)              The children ran barefoot on the beach.
-  - `sparsely` /ˈspɑːrsli/          ([Formal] まばらに)             Sparsely populated.
-
-## How
-- `foul` /faʊl/                     ([Neutral] 不正に)              He played foul during the game.
-- `piecemeal` /ˈpiːsmiːl/           ([Formal] 少しずつ)             The plan was implemented piecemeal.
-- `haphazard` /hæpˈhæzərd/          ([Neutral] でたらめに)          The books were arranged haphazard.
-- `impromptu` /ɪmˈprɑːmptuː/        ([Formal] 即興で)               He gave an impromptu speech.
-
-
-## 形式的参照
-- `therein` /ˌðerˈɪn/               ([Formal] その中に、その点に)   The contract and all rights therein.
-- `whereby` /werˈbaɪ/               ([Formal] それによって)         A system whereby customers can complain.
-- `whatsoever` /ˌwʌtsoʊˈevər/       ([Formal] 少しの〜も)           There's no doubt whatsoever.
-  - `at secondhand` /ət ˌsekəndˈhænd/ ([Neutral] 間接的に、又聞きで)  I heard it at secondhand.
-
-## Range
-- `broadly` /ˈbrɔːdli/              ([Neutral] 広く、概して)        Broadly speaking, the plan worked.
-  - `widely` /ˈwaɪdli/              ([Neutral] 広く、広範囲に)      The news was widely reported.
-  - `extensively` /ɪkˈstensɪvli/    ([Formal] 広範囲に、大々的に)   The topic has been extensively studied.
-  - `generally` /ˈdʒenərəli/        ([Neutral] 一般的に、広く)      This is generally accepted.
-  - `universally` /ˌjuːnɪˈvɜːrsəli/ ([Formal] 普遍的に、広く)       The idea is universally recognized.
-  - `comprehensively`               ([Formal] 包括的に、広範に)     The issue was comprehensively addressed.
-- `variously` /ˈveəriəsli/          ([Formal] さまざまに)           He was variously described as genius or fool.
-  - `diversely` /daɪˈvɜːrsli/       ([Formal] 多様に、さまざまに)   The region is diversely populated.
-  - `differently` /ˈdɪfərəntli/     ([Neutral] 異なって、別様に)    Everyone reacts differently to stress.
-
-## Emphasis
-- `a lot` /ə ˈlɑt/                  ([Casual] とても、すごく)       Thanks a lot for listening to me.
-  - `really` /ˈriːəli/              ([Neutral] 本当に、本気で)      I really appreciate your help.
-  - ==literally== /ˈlɪtərəli/         ([Neutral] 文字通り、本当に)    I'm literally starving right now.
-  - `actually` /ˈæktʃuəli/          ([Neutral] 実は、本当に)        I'm actually quite tired.
-  - `seriously` /ˈsɪriəsli/         ([Neutral] 本気で、マジで)      Are you seriously leaving now?
-  - `honestly` /ˈɑːnɪstli/          ([Neutral] 正直に、本当に)      I honestly don't know what to do.
-  - `genuinely` /ˈdʒenjuɪnli/       ([Neutral] 本当に、心から)      I'm genuinely happy for you.
-  - `truly` /ˈtruːli/               ([Neutral] 本当に、真に)        I'm truly sorry for the mistake.
-  - ==legit== /ləˈdʒɪt/               ([Casual] 本当に、マジで)       I legit thought he was joking.
-  - `for real` /fɔːr riːl/          ([Casual] マジで、本当に)       Are you leaving for real?
-  - `high-key` /ˌhaɪˈkiː/           ([Casual] 完全に、明らかに)     I'm high-key stressed about the exam.
-  - `no joke` /noʊ dʒoʊk/           ([Casual] 冗談抜きで)           This is important, no joke.
-- ==especially== /ɪˈspeʃəli/          ([Neutral] 特に、とりわけ)      I love fruits, especially apples.
-  - ==particularly== /pərˈtɪkjələrli/ ([Neutral] 特に、とりわけ)      I'm particularly fond of jazz.
-  - `specifically` /spɪˈsɪfɪkli/    ([Neutral] 特に、具体的に)      I'm looking for help, specifically with coding.
-  - `notably` /ˈnoʊtəbli/           ([Neutral] 特に、著しく)        She was notably absent from the meeting.
-  - `in particular`                 ([Neutral] 特に、とりわけ)      I like Italian food, pasta in particular.
-  - `chiefly` /ˈtʃiːfli/            ([Formal] 主に、特に)           He's interested chiefly in history.
-  - ==largely== /ˈlɑːrdʒli/           ([Neutral] 主に、大部分は)      The decision was largely based on cost.
-  - `markedly` /ˈmɑːrkɪdli/         ([Formal] 著しく、顕著に)       Sales improved markedly this quarter.
-- `primarily` /praɪˈmerəli/         ([Formal] 主に、第一に)         We're primarily concerned with safety.
-  - `principally` /ˈprɪnsəpəli/     ([Formal] 主に、主として)       He's known principally for his novels.
-  - `predominantly` /prɪˈdɑːmɪnəntli([Formal] 大部分は)             The area is predominantly residential.
-  - `importantly` /ɪmˈpɔːrtəntli/   ([Neutral] 重要なことには)      More importantly, we need to act now.
-
-- ==obviously== /ˈɒbviəsli/           ([Neutral] 明らかに)            Obviously, we need to change our approach.
-  - `glaringly` /ˈɡleərɪŋli/        ([Neutral] 明白に)              The mistake was glaringly obvious.
-  - `patently` /ˈpeɪtəntli/         ([Writing] 明白に)              The claim is patently false.
-- `in no uncertain terms`           ([Formal] はっきりと)           She told him in no uncertain terms that his behavior was unacceptable.
-  - `clearly` /ˈklɪrli/             ([Neutral] はっきりと)          He stated clearly that he disagreed.
-  - `explicitly` /ɪkˈsplɪsɪtli/     ([Formal] 明示的に)             The rules explicitly forbid smoking.
-  - `unambiguously`/ˌʌnæmˈbɪɡjuəsli/([Formal] 曖昧さなく)           The contract states unambiguously that payment is due.
-  - `bluntly` /ˈblʌntli/            ([Casual] 率直に)               To put it bluntly, your work needs improvement.
-  - `directly` /dəˈrektli/          ([Neutral] 直接的に)            He told her directly what the problem was.
-  - `plainly` /ˈpleɪnli/            ([Neutral] 明白に)              She plainly stated her objections.
-
-- `effectively` /ɪˈfektɪvli/        ([Neutral] 効果的に、事実上)    This effectively ends the discussion.
-  - `virtually` /ˈvɜːrtʃuəli/       ([Neutral] 事実上、実質的に)    The project is virtually complete.
-- `potentially` /pəˈtenʃəli/        ([Neutral] 潜在的に)            This could potentially save lives.
-  - `inevitably` /ɪnˈevɪtəbli/      ([Neutral] 必然的に)            This will inevitably lead to problems.
-- `purposely` /ˈpɜːrpəsli/          ([Neutral] 故意に)              She purposely ignored the warning signs.
-  - ==deliberately== /dɪˈlɪbərətli/   ([Neutral] 意図的に)            He deliberately left early.
-  - `intentionally` /ɪnˈtenʃənəli/  ([Neutral] 意図的に)            She intentionally missed the meeting.
-  - `consciously` /ˈkɑːnʃəsli/      ([Neutral] 意識的に)            She consciously chose to help.
-  - `knowingly` /ˈnoʊɪŋli/          ([Formal] 承知の上で)           He knowingly broke the rules.
-  - `willfully` /ˈwɪlfəli/          ([Formal] 故意に)               She willfully ignored the instructions.
-- `needlessly` /ˈniːdləsli/         ([Neutral] 不必要に)            Don't worry needlessly.
-  - `redundantly` /rɪˈdʌndəntli/    ([Formal] 冗長に)               The phrase was redundantly repeated.
-  - `superfluously` /suːˈpɜːrfluəsli([Formal] 余分に)               The word was superfluously added.
-- `conspicuously` /kənˈspɪkjuəsli/  ([Formal] 目立って)             She was conspicuously silent during the meeting.
-  - `prominently` /ˈprɑːmɪnəntli/   ([Neutral] 目立って)            The sign was prominently displayed.
-  - `strikingly` /ˈstraɪkɪŋli/      ([Neutral] 印象的に)            She's strikingly beautiful.
-  - `remarkably` /rɪˈmɑːrkəbli/     ([Neutral] 著しく)              He was remarkably calm during the crisis.
-  - `pronouncedly` /prəˈnaʊnsɪdli/  ([Formal] 顕著に)               The effect was pronouncedly visible.
-  - `saliently` /ˈseɪliəntli/       ([Writing] 顕著に)              The point was saliently made.
-- ==extremely== /ɪkˈstriːmli/         ([Neutral] 極端に、非常に)      It's extremely important.
-  - `exceedingly` /ɪkˈsiːdɪŋli/     ([Formal] 非常に、極めて)       She was exceedingly polite.
-  - `exceptionally` /ɪkˈsepʃənəli/  ([Neutral] 例外的に、非常に)    He's exceptionally talented.
-  - `excessively` /ɪkˈsesɪvli/      ([Neutral] 過度に)              The room is excessively hot.
-  - `overly` /ˈoʊvərli/             ([Neutral] 過度に)              Don't be overly concerned.
-  - `dramatically` /drəˈmætɪkli/    ([Neutral] 劇的に)              Prices rose dramatically.
-  - `exponentially` /ˌekspəˈnenʃəli/([Formal] 加速度的に)          The problem grew exponentially.
-  - `unreasonably` /ʌnˈriːzənəbli/  ([Neutral] 不合理に)            The price is unreasonably high.
-  - `outrageously` /aʊtˈreɪdʒəsli/  ([Neutral] 法外に)              It's outrageously expensive.
-  - `notoriously` /noʊˈtɔːriəsli/   ([Formal] 悪名高いほど)         This area is notoriously difficult.
-  - `infamously` /ˈɪnfəməsli/       ([Formal] 悪名高いことに)       He's infamously unreliable.
-  - `disastrously` /dɪˈzæstrəsli/   ([Neutral] 悲惨に、破滅的に)    The plan failed disastrously.
-  - `abjectly` /ˈæbdʒektli/         ([Writing] 極度に、悲惨に)      He failed abjectly.
-  - `abominably` /əˈbɑːmɪnəbli/     ([Formal] ひどく)               She behaved abominably.
-  - `dearly` /ˈdɪrli/               ([Neutral] 非常に、ひどく)      She'll pay dearly for that mistake.
-  - `sorely` /ˈsɔːrli/              ([Formal] ひどく、激しく)       You'll be sorely missed.
-  - `substantially` /səbˈstænʃəli/  ([Formal] 実質上、かなり)       Costs have increased substantially.
-  - `amply` /ˈæmpli/                ([Formal] 十分に、豊富に)       The evidence amply demonstrates this.
-
-- `probably`                        ([Neutral] おそらく～)          She's probably stuck in traffic.
-- `possibly`                        ([Neutral] もしかしたら～)      It could possibly work with some adjustments.
+# When / Where
 
 ## FREQUENCY
 - ==generally== /ˈdʒenərəli/          ([Neutral] たいてい、一般的に)  I generally wake up at 7 AM.
@@ -257,101 +27,53 @@
   - `eternally` /ɪˈtɜːrnəli/        ([Formal] 永遠に)               She will be eternally grateful.
   - `infinitely` /ˈɪnfɪnətli/       ([Formal] 無限に)               This is infinitely better.
 
-## STANCE (GOOD)
-- `determinedly` /dɪˈtɜːrmɪndli/    ([Neutral] 決意して、真剣に)    He worked determinedly toward his goal.
-  - `resolutely` /ˈrezəluːtli/      ([Formal] 断固として)           She resolutely refused.
-  - `steadfastly` /ˈstedfæstli/     ([Formal] 確固として)           He steadfastly supported her.
-- `comfortably` /ˈkʌmfərtəbli/      ([Neutral] 快適に、気楽に)      She sat comfortably in her favorite chair.
-  - `peacefully` /ˈpiːsfəli/        ([Neutral] 平和に、静かに)      He died peacefully in his sleep.
-  - `placidly` /ˈplæsɪdli/          ([Formal] 穏やかに)             The cow grazed placidly.
-- `freely` /ˈfriːli/                ([Neutral] 自由に)              Feel free to ask questions.
-  - `independently` /ˌɪndɪˈpendəntli([Neutral] 独立して)            They work independently of each other.
-- `sociably` /ˈsoʊʃəbli/            ([Neutral] 社交的に)            They chatted sociably over coffee.
-  - `gregariously` /ɡrɪˈɡeəriəsli/  ([Formal] 社交的に)             He gregariously mingled with everyone.
-  - `affably` /ˈæfəbli/             ([Formal] 愛想よく)             She greeted us affably at the door.
-  - `amiably` /ˈeɪmiəbli/           ([Formal] 親しみやすく)         They chatted amiably for hours.
-  - `affectionately` /əˈfekʃənətli/ ([Neutral] 愛情を込めて)        He patted her shoulder affectionately.
-- `heartily` /ˈhɑːrtɪli/            ([Neutral] 心から、元気よく)    They laughed heartily at the joke.
-  - `gaily` /ˈɡeɪli/                ([Formal] 陽気に、はでに)       She waved gaily at the crowd.
-  - `merrily` /ˈmerəli/             ([Neutral] 楽しく、陽気に)      The children sang merrily.
-- `pleasantly` /ˈplezəntli/         ([Neutral] 愉快に、気持ちよく)  She smiled pleasantly at everyone.
-  - `nicely` /ˈnaɪsli/              ([Neutral] うまく、きちんと)    The plan worked out nicely.
-- `proudly` /ˈpraʊdli/              ([Neutral] 堂々と、誇らしげに)  She proudly displayed her medal.
-- `gently` /ˈdʒentli/               ([Neutral] 優しく、そっと)      Handle the glass gently.
-  - `softly` /ˈsɔːftli/             ([Neutral] 優しく、静かに)      She spoke softly to the baby.
-  - `lightly` /ˈlaɪtli/             ([Neutral] 軽く、そっと)        Touch the surface lightly.
-  - `mildly` /ˈmaɪldli/             ([Neutral] 穏やかに)            He was mildly surprised.
-  - `subtly` /ˈsʌtli/               ([Neutral] 微妙に)              The flavor changed subtly.
-  - `delicately` /ˈdelɪkətli/       ([Neutral] 繊細に、慎重に)      She handled the antique delicately.
-  - `gingerly` /ˈdʒɪndʒərli/        ([Neutral] 非常に慎重に)        He gingerly touched the wound.
-  - `tenderly` /ˈtendərli/          ([Writing] 優しく、愛情深く)    She held the baby tenderly.
-  - `feebly` /ˈfiːbli/              ([Neutral] 弱々しく)            He spoke feebly after the illness.
-- `briskly` /ˈbrɪskli/              ([Neutral] 活発に、きびきびと)  She walked briskly to the office.
-  - `hastily` /ˈheɪstɪli/           ([Neutral] 急いで、慌てて)      He left hastily without explanation.
-- `leisurely` /ˈleʒərli/            ([Neutral] ゆったりと)          They strolled leisurely through the park.
-- `thoughtfully` /ˈθɔːtfəli/        ([Neutral] 思慮深く)            He considered the question thoughtfully.
-  - `tactfully` /ˈtæktfəli/         ([Neutral] 機転を利かせて)      She tactfully changed the subject.
-  - `cleverly` /ˈklevərli/          ([Neutral] 利口に、巧みに)      She cleverly solved the puzzle.
-  - `profoundly` /prəˈfaʊndli/      ([Formal] 深く、心から)         I was profoundly moved by her story.
-- `casually` /ˈkæʒuəli/             ([Neutral] 何気なく、気軽に)    He casually mentioned the news.
-- `faithfully` /ˈfeɪθfəli/          ([Neutral] 忠実に、誠実に)      She faithfully attended every meeting.
-- `desperately` /ˈdespərətli/       ([Neutral] 必死に、ひどく)      They desperately need help.
-  - `madly` /ˈmædli/                ([Neutral] 激しく、狂ったように) She's madly in love with him.
-- `emphatically` /ɪmˈfætɪkli/       ([Formal] 強調して、断固として)  He emphatically denied the charges.
-- `idly` /ˈaɪdli/                   ([Neutral] 怠けて、ぼんやりと)  She sat idly watching TV.
-- `inadvertently` /ˌɪnədˈvɜːrtəntli/ ([Formal] 不注意に、うっかり)  I inadvertently deleted the file.
-- `nobly` /ˈnoʊbli/                 ([Formal] 気高く、立派に)       She acted nobly.
-- `naively` /naɪˈiːvli/             ([Neutral] 無邪気に)            She naively trusted everyone.
-- `sensually` /ˈsɛnʃuəli/           ([Neutral] 官能的に)            The fabric draped sensually.
-- `dispassionately`                 ([Formal] 冷静に、客観的に)     She analyzed the data dispassionately.
-  - `phlegmatically` /flɛɡˈmætɪkli/ ([Writing] 冷静に)              He responded phlegmatically to the crisis.
-  - `austerely` /ɔːˈstɪrli/         ([Formal] 簡素に、厳格に)       She lived austerely in prayer.
-  - `simply` /ˈsɪmpli/              ([Neutral] 簡素に、単に)        They lived simply in the country.
-  - `plainly` /ˈpleɪnli/            ([Neutral] 質素に、明白に)      She dressed plainly for the occasion.
-- `leniently` /ˈliːniəntli/         ([Neutral] 寛大に)              He was treated leniently.
-- ==eagerly== /ˈiːɡəli/               ([Neutral] 熱心に、熱望して)    She eagerly awaited the results.
-  - `devoutly` /dɪˈvaʊtli/          ([Writing] 敬虔に、真摯に)      He devoutly wished for peace.
-- `harshly` /ˈhɑːʃli/               ([Neutral] 厳しく)              He spoke harshly to the students.
-  - `scathingly` /ˈskeɪðɪŋli/       ([Writing] 容赦なく)            She scathingly dismissed his ideas.
-  - `caustically` /ˈkɔːstɪkli/      ([Writing] 辛辣に)              He caustically criticized the proposal.
-  - `severely` /sɪˈvɪəli/           ([Formal] 厳しく、激しく)       He was severely injured in the accident.
-- `strictly` /ˈstrɪktli/            ([Neutral] 厳格に、厳密に)      The rules must be strictly followed.
-
-- `respectively` /rɪˈspektɪvli/     ([Formal] それぞれ、各自)       John and Mary are 30 and 25 respectively.
-  - `individually` /ˌɪndɪˈvɪdʒuəli/ ([Neutral] 個々に、それぞれ)    We need to address each issue individually.
-  - `separately` /ˈsepərətli/       ([Neutral] 別々に、個別に)      Please handle these tasks separately.
-  - `each` /iːtʃ/                   ([Neutral] それぞれ、各自)      They each received a prize.
-  - `apiece` /əˈpiːs/               ([Neutral] 一人につき、各自)    They received $10 apiece.
-- `minutely` /maɪˈnuːtli/           ([Formal] 詳細に、綿密に)       She examined it minutely.
-- `evenly` /ˈiːvənli/               ([Neutral] 均等に、平等に)      Spread the butter evenly on the bread.
-
-
-- `simultaneously` /ˌsaɪməlˈteɪniəsli/ ([Formal] 同時に)            Press both buttons simultaneously.
-
-
-- `on purpose` /ɔːn ˈpɜːrpəs/       ([Casual] わざと)               He spilled the drink on purpose.
-- `flat out` /flæt aʊt/            ([Neutral] 完全に)              I told him flat out.
-- `out of habit` /aʊt əv ˈhæbɪt/    ([Casual] 習慣として)           I got the Namboku line out of habit.
-- `on impulse` /ɔːn ˈɪmpʌls/        ([Casual] 衝動的に)             I bought the shoes on impulse.
-- `for the fun of it`               ([Casual] 楽しみで)             He tried skydiving for the fun of it.
-- `in support of` /ɪn səˈpɔːrt əv/  ([Neutral] 支持して)            They organized a rally in support of the new policy.
-
-- ==in the first place==              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
-- ==like crazy== /laɪk ˈkɹeɪzi/       ([Casual] ものすごく、猛烈に)   She stayed late, working like crazy.
-  - `like mad` /laɪk mæd/           ([Casual] 猛烈に、必死で)       We ran like mad to get home.
-  - `like hell` /laɪk hɛl/          ([Casual] 猛烈に、すごく)       We worked like hell to finish the job.
-  - `like anything` /laɪk ˈeniθɪŋ/  ([Casual] とても、非常に)       It was raining like anything.
-
-
-- `back to back` /bæk tə bæk/       ([Neutral] 連続して)            We have two meetings back to back.
-- `at the same time`                ([Neutral] 同時に)              It's hard being A and B at the same time.
-- `back and forth`                  ([Neutral] 行ったり来たり)      Bob was pacing back and forth along the sidewalk.
-  - `up and down`                   ([Neutral] 上下に、あちこち)    She walked up and down the hallway.
-  - `in and out`                    ([Neutral] 出たり入ったり)      People were going in and out all day.
-  - `to and fro`                    ([Neutral] 行ったり来たり)      I have been traveling to and fro between A and B for years.
-- `on and off` /ɑːn ænd ɔːf/        ([Neutral] 断続的に)            It's been raining on and off all day today.
-  - `in a row` /ɪn ə roʊ/           ([Neutral] 連続で)              The rate has risen three quarters in a row.
-  - `with each passing day/year`    ([Neutral] 日を追うごとに)      With each passing day, her skills improved.
+## Time
+- `again` /əˈɡen/                   ([Neutral] 再び、もう一度)      Let me try again.
+  - `once more` /wʌns mɔːr/         ([Neutral] もう一度)            Can you say that once more?
+  - `once again` /wʌns əˈɡen/       ([Neutral] もう一度、再び)      Once again, thank you all.
+  - `over` /ˈoʊvər/                 ([Neutral] もう一度、やり直し)  Let's do it over.
+  - `newly` /ˈnuːli/                ([Neutral] 新しく、新たに)      The house is newly built.
+  - `freshly` /ˈfreʃli/             ([Neutral] 新しく、新鮮に)      Freshly baked bread smells great.
+  - `afresh` /əˈfreʃ/               ([Formal] 新たに、再び)         Let's start afresh tomorrow.
+  - `anew` /əˈnuː/                  ([Formal] 改めて、もう一度)     We must begin anew.
+- `before` /bɪˈfɔːr/                ([Neutral] 以前、前に)          I've seen this before.
+  - `previously` /ˈpriːviəsli/      ([Neutral] 以前に、これまで)    We previously discussed this.
+  - `earlier` /ˈɜːrliər/            ([Neutral] より早く、以前)      I mentioned this earlier.
+  - ==so far== /soʊ fɑːr/             ([Neutral] これまで、今のところ) So far, everything is fine.
+  - `formerly` /ˈfɔːrmərli/         ([Formal] かつて、以前は)       He was formerly a teacher.
+  - `thus far` /ðʌs fɑːr/           ([Formal] これまで)             Thus far, we have succeeded.
+  - `hitherto` /ˌhɪðərˈtuː/         ([Formal] 今まで、これまで)     This was hitherto unknown.
+  - `heretofore` /ˌhɪrtuˈfɔːr/      ([Formal] 今まで)               Heretofore unknown facts emerged.
+- `immediately` /ɪˈmiːdiətli/       ([Neutral] すぐに、即座に)      Please respond immediately.
+  - `quickly` /ˈkwɪkli/             ([Neutral] 素早く、すぐに)      We must act quickly.
+  - `soon` /suːn/                   ([Neutral] すぐに、まもなく)    I'll be there soon.
+  - `right away` /raɪt əˈweɪ/       ([Casual] すぐに)               I'll do it right away.
+  - `instantly` /ˈɪnstəntli/        ([Neutral] 即座に、すぐに)      He instantly recognized her.
+  - `at once` /ət wʌns/             ([Neutral] すぐに、直ちに)      Come here at once.
+  - `promptly` /ˈprɑːmptli/         ([Formal] 速やかに、すぐに)     He arrived promptly at 9 AM.
+  - `shortly` /ˈʃɔːrtli/            ([Neutral] まもなく、すぐに)    The meeting will begin shortly.
+  - `readily` /ˈredɪli/             ([Neutral] すぐに、容易に)      The information is readily available.
+  - `swiftly` /ˈswɪftli/            ([Formal] 素早く、迅速に)       They responded swiftly.
+  - `presently` /ˈprezəntli/        ([Formal] まもなく、すぐに)     The doctor will see you presently.
+  - `straightaway` /ˌstreɪtəˈweɪ/   ([Neutral] すぐに)              I'll get to it straightaway.
+  - `forthwith` /fɔːrθˈwɪθ/         ([Formal] 直ちに)               The order must be executed forthwith.
+- `as of` /æz ʌv/                   ([Neutral] 〜時点で)            As of January 2014, the population was 50,000.
+  - `as of now`                     ([Neutral] 現時点で)            As of now, we have 100 members.
+  - `as of today`                   ([Neutral] 今日時点で)          As of today, the deal is still pending.
+  - `as of this morning`            ([Neutral] 今朝時点で)          As of this morning, no decision has been made.
+- `when I was N`                    ([Neutral] 私がN歳の時)         When I was 10, we moved to Tokyo.
+  - `at the age of`                 ([Neutral] 〜歳で)              She started piano at the age of five.
+  - `back when`                     ([Casual] 〜だった頃)           Back when I was young, things were different.
+  - `at N years old`                ([Neutral] N歳で)               He learned to read at 4 years old.
+  - `back in`                       ([Casual] 〜頃に)               Back in 1995, computers were expensive.
+  - `at age N`                      ([Neutral] N歳で)               She graduated at age 16.
+- `every (period)` /ˈevri/          ([Neutral] ~~毎に)              The vehicles are inspected every three months.
+  - `every other (period)`          ([Neutral] 隔~~毎に)            I work out every other day.
+  - `by N at the latest`            ([Formal] 遅くとも)             Estimate the losses by Friday at the latest.
+  - `no later than N`               ([Formal] までには)             Submit your assignment no later than 5 PM on June 10.
+- `indefinitely` /ɪnˈdefɪnətli/     ([Neutral] 無期限に)            The meeting was postponed indefinitely.
+- `midweek` /ˌmɪdˈwiːk/             ([Neutral] 週の中ごろに)        I'll call you midweek.
+- `bimonthly` /baɪˈmʌnθli/          ([Neutral] 隔月に)              The magazine is published bimonthly.
 
 ## DURATION
 - `for` /fɔːr/                      ([Neutral] 〜間)                I've been working for the company for 6 months.
@@ -503,8 +225,6 @@
   - `night and day`                 ([Neutral] 昼夜を問わず)        There's a night and day difference.
 - ==for the first time in (N)==       ([Neutral] (N)ぶりに初めて)     I'm going to Hawaii for the first time in 1 year.
   - `for the first time`            ([Neutral] 初めて)              Last Saturday, I came here for the first time.
-
----
 
 ## OBJECTIVE POSITION
 - ==in front of==                     ([Neutral] 〜の前に)            Stand in front of the door.
@@ -769,48 +489,3 @@
 - `aft` /æft/                       ([Formal] 船尾へ)               Move aft to balance the boat.
   - `astern` /əˈstɜːrn/             ([Formal] 後方に)               The ship moved astern slowly.
 - `counterclockwise` /ˌkaʊntərˈklɑːkwaɪz/ ([Neutral] 反時計回りに) Turn the dial counterclockwise.
-
-- `indefinitely` /ɪnˈdefɪnətli/     ([Neutral] 無期限に)            The meeting was postponed indefinitely.
-- `midweek` /ˌmɪdˈwiːk/             ([Neutral] 週の中ごろに)        I'll call you midweek.
-- `bimonthly` /baɪˈmʌnθli/          ([Neutral] 隔月に)              The magazine is published bimonthly.
-
-
-- `when I was N`                    ([Neutral] 私がN歳の時)         When I was 10, we moved to Tokyo.
-  - `at the age of`                 ([Neutral] 〜歳で)              She started piano at the age of five.
-  - `back when`                     ([Casual] 〜だった頃)           Back when I was young, things were different.
-  - `at N years old`                ([Neutral] N歳で)               He learned to read at 4 years old.
-  - `back in`                       ([Casual] 〜頃に)               Back in 1995, computers were expensive.
-  - `at age N`                      ([Neutral] N歳で)               She graduated at age 16.
-- `every (period)` /ˈevri/          ([Neutral] ~~毎に)              The vehicles are inspected every three months.
-  - `every other (period)`          ([Neutral] 隔~~毎に)            I work out every other day.
-  - `by N at the latest`            ([Formal] 遅くとも)             Estimate the losses by Friday at the latest.
-  - `no later than N`               ([Formal] までには)             Submit your assignment no later than 5 PM on June 10.
-
-- `as of` /æz ʌv/                   ([Neutral] 〜時点で)            As of January 2014, the population was 50,000.
-  - `as of now`                     ([Neutral] 現時点で)            As of now, we have 100 members.
-  - `as of today`                   ([Neutral] 今日時点で)          As of today, the deal is still pending.
-  - `as of this morning`            ([Neutral] 今朝時点で)          As of this morning, no decision has been made.
-- ==!on a scale of 1 to 10==           ([Neutral] 1から10で評価すると) On a scale of 1 to 10, how was your day?
-  - `on a scale of 1 to 5`          ([Neutral] 1から5で評価すると)  On a scale of 1 to 5, rate the service.
-  - `from 1 to 10`                  ([Casual] 1から10で)            From 1 to 10, how likely are you to recommend us?
-  - `rate from 1 to 10`             ([Neutral] 1から10で評価して)   Rate from 1 to 10 your satisfaction level.
-  - `scale from 0 to 10`            ([Neutral] 0から10の範囲で)     Scale from 0 to 10, where 0 is worst.
-
-  - `accordingly` /əˈkɔːrdɪŋli/     ([Formal] それに応じて)         Plan accordingly.
-
-  - `somehow` /ˈsʌmhaʊ/             ([Casual] どうにかして)         I'll manage it somehow.
-  - `for whatever reason`           ([Casual] どんな理由であれ)     For whatever reason, he quit.
-  - `at the expense of`             ([Neutral] 犠牲にして)          He got promoted at the expense of his colleague.
-  - `by heart` /baɪ hɑːrt/          ([Neutral] 暗記で)              First of all, learn the formula by heart.
-
-- ==overall== /ˌoʊvərˈɔːl/            ([Neutral] 全体的に)            Overall, the project was a success.
-  - `all in all` /ɔːl ɪn ɔːl/       ([Neutral] 全体として)          All in all, it was a good experience.
-- `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.
-  - `simply put`                    ([Neutral] 簡単に言えば)        Simply put, we need to improve communication.
-  - `to recap` /tuː ˈriːkæp/        ([Neutral] 要約すると)          To recap, we have three main goals.
-  - `in a nutshell`                 ([Neutral] 手短に言えば)        In a nutshell, the project was a success.
-  - ==long story short==              ([Casual] 手短に言うと)         Long story short, we won the contract.
-  - `to make a long story short`    ([Casual] 手短に言うと)         To make a long story short, I got the job.
-  - `in brief` /ɪn briːf/           ([Neutral] 簡潔に言うと)        In brief, the plan failed.
-  - `to put it simply`              ([Neutral] 簡単に言うと)        To put it simply, we're out of time.
-  - `put simply`                    ([Neutral] 簡単に言えば)        Put simply, it won't work.

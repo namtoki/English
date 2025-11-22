@@ -1,5 +1,6 @@
 # Concession
 
+## Probably
 - `probably` /ˈprɑːbəbli/           ([Neutral] おそらく)            Probably, he'll arrive late.
   - `presumably` /prɪˈzuːməbli/     ([Neutral] おそらく、推定では)  Presumably, they already know.
   - `apparently` /əˈpærəntli/       ([Neutral] 見たところ)          Apparently, he's not coming.
@@ -14,7 +15,10 @@
   - `without (a) doubt`             ([Neutral] 疑いなく)            Without doubt, he's the best.
   - `unquestionably` /ʌnˈkwestʃənəbli/ ([Formal] 疑問の余地なく)   Unquestionably, she's talented.
   - `arguably` /ˈɑːrɡjuəbli/        ([Neutral] 議論の余地はあるが)  Arguably, she's the best player on the team.
+- `probably`                        ([Neutral] おそらく～)          She's probably stuck in traffic.
+- `possibly`                        ([Neutral] もしかしたら～)      It could possibly work with some adjustments.
 
+## Even though/if
 - ==even though== /ˈiːvən ðoʊ/        ([Neutral] 〜にも関わらず)      Even though he's new to the team, ~~
   - `although` /ɔːlˈðoʊ/            ([Neutral] 〜にも関わらず)      Although it was raining, we went for a walk.
   - `though` /ðoʊ/                  ([Casual] 〜だけど)             I'll help you, though I'm really busy.
@@ -27,7 +31,7 @@
   - `however much` /haʊˈevər mʌtʃ/  ([Neutral] どれだけ〜しても)    However much you study, there's always more to learn.
   - `with all` /wɪð ɔːl/            ([Formal] 〜があっても)         With all his experience, he still made a rookie mistake.
 
-## Concession
+## Opinion
 - `to me` /tuː miː/                 ([Casual] 私にとっては)         To me, it seems like a good idea.
   - `in my opinion`                 ([Neutral] 私の意見では)        In my opinion, this is the best option.
   - `in my view` /ɪn maɪ vjuː/      ([Neutral] 私の見解では)        In my view, we need more time.

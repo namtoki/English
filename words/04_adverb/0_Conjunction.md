@@ -230,3 +230,12 @@
   - `what I meant was`              ([Neutral] 言いたかったのは)    What I meant was, you should be careful.
   - `one that is`                   ([Neutral] ~であるもの)         I need a car, one that is reliable.
   - `what I meant to say was`       ([Neutral] 言うつもりだたのは)  Sorry, what I meant to say was Thursday.
+- `to sum up` /tuː sʌm ʌp/          ([Neutral] 要約すると)          To sum up, we need more resources.
+  - `simply put`                    ([Neutral] 簡単に言えば)        Simply put, we need to improve communication.
+  - `to recap` /tuː ˈriːkæp/        ([Neutral] 要約すると)          To recap, we have three main goals.
+  - `in a nutshell`                 ([Neutral] 手短に言えば)        In a nutshell, the project was a success.
+  - ==long story short==              ([Casual] 手短に言うと)         Long story short, we won the contract.
+  - `to make a long story short`    ([Casual] 手短に言うと)         To make a long story short, I got the job.
+  - `in brief` /ɪn briːf/           ([Neutral] 簡潔に言うと)        In brief, the plan failed.
+  - `to put it simply`              ([Neutral] 簡単に言うと)        To put it simply, we're out of time.
+  - `put simply`                    ([Neutral] 簡単に言えば)        Put simply, it won't work.
