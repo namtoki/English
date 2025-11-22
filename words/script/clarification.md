@@ -20,6 +20,10 @@
 - 03_adjective_noun/7_Health.md - 病院、健康、医療関連の名詞、形容詞
 - 03_adjective_noun/8_Life.md - 日常関連の名詞、形容詞
 - 03_adjective_noun/9_Assessment.md - 客観的な物, 人に対する評価を表現する名詞、形容詞
-- 04_adverb/conjunctive.md - 接続副詞
-- 04_adverb/clause.md - 副詞節
-- 04_adverb/phrase.md - 副詞句
+- 04_adverb/0_Conjunction.md - 接続副詞
+- 04_adverb/1_Reason.md - 理由、目的の副詞
+- 04_adverb/2_How.md - 「どのように」を説明する副詞
+- 04_adverb/3_Condition.md - 条件を表す副詞
+- 04_adverb/4_Concession.md - 譲歩を表す副詞
+- 04_adverb/5_Feeling.md - 主観による情報を補足する副詞
+- 04_adverb/6_When_Where.md - 時間、場所を補足する副詞
