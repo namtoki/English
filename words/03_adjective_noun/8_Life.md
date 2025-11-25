@@ -1498,3 +1498,5 @@
 
 ## MANNER / TONE
 - `meltingly` /ˈmeltɪŋli/           ([Neutral] やさしく、優しげに)  She spoke meltingly to the child.
+
+- `anterior`                        ([Medical] 前部の)              The anterior part of the brain.

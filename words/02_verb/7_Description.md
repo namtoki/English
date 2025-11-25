@@ -73,6 +73,12 @@
   - `rule` /ruːl/                   ([Neutral] 支配する、統治する)  Logic should rule our decisions.
   - `regulate` /ˈreɡjəleɪt/         ([Formal] 規制する、調整する)   The government regulates industries.
   - `dominate` /ˈdɑːmɪneɪt/         ([Neutral] 支配する、左右する)  One company dominates the market.
+- `matter` /ˈmætər/                 ([Neutral] 重要である)          It doesn't matter what you think.
+  - `count` /kaʊnt/                 ([Neutral] 数える、重要である)  What you say counts a lot.
+  - `signify` /ˈsɪɡnɪfaɪ/           ([Formal] 意味する、重要である) Does it signify anything to you?
+  - `mean` /miːn/                   ([Neutral] 意味する 重要である) Your support means a lot to me.
+  - `concern` /kənˈsɜːrn/           ([Neutral] 関係する 重要である) It doesn't concern me what they say.
+  - `be of importance` /ɪmˈpɔːrtəns/ ([Formal] 重要である)          Is it of any importance to you?
 - ==be related to== /rɪˈleɪtəd tuː/   ([Neutral] 関連している)        The problem is related to funding.
   - `be connected to`               ([Neutral] 繋がっている)        This is connected to yesterday's issue.
   - `be concerned with`             ([Neutral] 関わっている)        This chapter is concerned with history.

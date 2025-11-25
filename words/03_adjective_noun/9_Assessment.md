@@ -490,7 +490,6 @@
   - `helpless` /ˈhelpləs/           ([Neutral] 無力な、頼りない)    The baby is helpless.
   - `defenseless` /dɪˈfensləs/      ([Neutral] 無防備な、弱い)      She was defenseless against him.
   - `infirm` /ɪnˈfɜːrm/             ([Formal] 虚弱な、病弱な)       The infirm patient needed care.
-  - `debilitated` /dɪˈbɪlɪteɪtɪd/   ([Medical] 衰弱した)            He was debilitated by illness.
   - `enfeebled` /ɪnˈfiːbəld/        ([Formal] 弱体化した)           Age had enfeebled him.
   - `decrepit` /dɪˈkrepɪt/          ([Neutral] 老衰した、弱った)    The decrepit old man struggled.
   - `anemic` /əˈniːmɪk/             ([Medical] 貧血の、弱々しい)    She looks anemic and tired.

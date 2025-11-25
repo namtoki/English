@@ -249,6 +249,12 @@
 - `call it quits` /kɔːl ɪt kwɪts/ ([Casual] やめる、終わりにする) Let's call it quits for today.
 - `call out` /kɔːl aʊt/           ([Neutral] 呼び出す、非難する)  The teacher called out the student's name.
 - `call up` /kɔːl ʌp/             ([Neutral] 電話する、呼び出す)  I'll call you up tomorrow.
+- `hop on calls` /hɑːp ɑːn kɔːlz/ ([Casual] 電話会議に参加する)   I need to hop on calls all afternoon.
+  - `join a call` /dʒɔɪn ə kɔːl/ ([Neutral] 通話に参加する)      Can you join the call at 2 PM?
+  - `jump on a call` /dʒʌmp ɑːn ə kɔːl/ ([Casual] 通話に入る)   Let me jump on the call quickly.
+  - `get on a call` /ɡet ɑːn ə kɔːl/ ([Neutral] 通話に参加する) I need to get on a call.
+  - `dial in` /ˈdaɪəl ɪn/        ([Neutral] 電話で参加する)      You can dial in from anywhere.
+  - `connect to a call`          ([Neutral] 通話に接続する)      I'll connect to the call now.
 - `can't help` /kænt help/        ([Neutral] 我慢できない)        I can't help feeling sad.
 - `care for` /keər fɔːr/          ([Neutral] 世話をする)          He cares for his elderly mother.
 - `caress` /kəˈres/               ([Neutral] 愛撫する、優しく触る) He caressed her cheek softly.

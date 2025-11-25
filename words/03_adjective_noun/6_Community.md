@@ -17,6 +17,30 @@
 - `precinct` /ˈpriːsɪŋkt/          ([Neutral] 管区、警察署)       Officers took him to a local precinct.
 - `township` /ˈtaʊnʃɪp/            ([Neutral] 郡区)               Voting will not be possible in 56 townships.
 - `ward` /wɔːrd/                   ([Neutral] 区、選挙区)         Only six out of 25 wards were contested.
+- `thoroughfare` /ˈθɜːroʊfer/      ([Formal] 大通り、幹線道路)     The street is a major thoroughfare.
+  - `main road` /meɪn roʊd/        ([Neutral] 主要道路)            Take the main road to the city.
+  - `highway` /ˈhaɪweɪ/            ([Neutral] 高速道路)            The highway was congested.
+  - `boulevard` /ˈbʊləvɑːrd/       ([Neutral] 大通り)              We strolled along the boulevard.
+  - `avenue` /ˈævənjuː/            ([Neutral] 大通り)              The shop is on Fifth Avenue.
+  - `arterial road` /ɑːrˈtɪriəl roʊd/ ([Formal] 幹線道路)         This is an important arterial road.
+- `backup` /ˈbækʌp/                ([Neutral] 渋滞、交通渋滞)   There's a huge backup on the highway.
+  - `traffic jam` /ˈtræfɪk dʒæm/   ([Neutral] 交通渋滞)        We got stuck in a traffic jam.
+  - `congestion` /kənˈdʒestʃən/    ([Neutral] 渋滞、混雑)      Traffic congestion is common here.
+  - `gridlock` /ˈɡrɪdlɑːk/         ([Neutral] 交通麻痺)        The city was in complete gridlock.
+  - `bottleneck` /ˈbɑːtlnek/       ([Neutral] ボトルネック)    This intersection is a bottleneck.
+  - `holdup` /ˈhoʊldʌp/            ([Neutral] 遅延、渋滞)      There's a holdup on Main Street.
+- `stop-and-go` /stɑːp ənd ɡoʊ/    ([Neutral] のろのろ運転の)   The stop-and-go traffic was frustrating.
+  - `bumper-to-bumper` /ˈbʌmpər tuː ˈbʌmpər/ ([Neutral] 渋滞の) Traffic was bumper-to-bumper.
+  - `crawling traffic`             ([Neutral] のろのろ運転)     We were stuck in crawling traffic.
+  - `slow-moving` /sloʊ ˈmuːvɪŋ/   ([Neutral] のろのろ進む)     The slow-moving traffic delayed us.
+  - `sluggish traffic` /ˈslʌɡɪʃ/  ([Neutral] のろのろした交通) Sluggish traffic continued all day.
+  - `creeping along` /ˈkriːpɪŋ əˈlɔːŋ/ ([Neutral] のろのろ進む) Cars were creeping along the highway.
+- `snarl` /snɑːrl/                 ([Neutral] 交通渋滞、混乱)   The accident caused a traffic snarl.
+  - `traffic snarl` /ˈtræfɪk snɑːrl/ ([Neutral] 交通渋滞)      The traffic snarl lasted for hours.
+  - `tangle` /ˈtæŋɡl/              ([Neutral] もつれ、混乱)     The streets became a tangle of cars.
+  - `tie-up` /ˈtaɪ ʌp/             ([Neutral] 渋滞、停滞)       There's a traffic tie-up downtown.
+  - `logjam` /ˈlɔːɡdʒæm/           ([Neutral] 渋滞、行き詰まり) The construction caused a logjam.
+  - `pileup` /ˈpaɪlʌp/             ([Neutral] 玉突き事故)       A pileup blocked the highway.
 
 ## MONEY (MONEY / SAVINGS / INCOME / SPENDING / LUCRATIVE)
 > `money` /ˈmʌni/                   ([Neutral] お金)                I need to save more money.
@@ -51,6 +75,12 @@
   - `inheritance` /ɪnˈherɪtəns/     ([Neutral] 相続財産)            He received an inheritance from his uncle.
   - `grant` /ɡrænt/                 ([Neutral] 助成金)              She received a research grant.
   - `subsidy` /ˈsʌbsədi/            ([Formal] 補助金)               The government provides farming subsidies.
+> `tax return` /tæks rɪˈtɜːrn/      ([Neutral] 確定申告書)          I need to file my tax return by April 15th.
+  - `tax filing` /tæks ˈfaɪlɪŋ/     ([Neutral] 税務申告)            Tax filing season is here.
+  - `income tax` /ˈɪnkʌm tæks/      ([Neutral] 所得税)              I paid my income tax yesterday.
+  - `tax form` /tæks fɔːrm/         ([Neutral] 税務書類)            Fill out the tax form carefully.
+  - `tax refund` /tæks ˈriːfʌnd/    ([Neutral] 税金還付)            I got a tax refund this year.
+  - `tax liability` /tæks ˌlaɪəˈbɪləti/ ([Formal] 納税義務)         Calculate your tax liability accurately.
 > `spending` /ˈspendɪŋ/             ([Neutral] 支出)                Government spending has increased.
 > `lucrative` /ˈluːkrətɪv/          ([Writing] 儲かる、有利な)      He has a lucrative business.
   - `profitable` /ˈprɒfɪtəbəl/      ([Neutral] 利益の出る)          The company had a profitable year.

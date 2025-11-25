@@ -100,6 +100,12 @@
   - `weak point`                    ([Neutral] 弱点)                Security is our weak point.
 > `problem` /ˈprɑːbləm/             ([Neutral] 問題点)              The main problem is the budget.
   - `issue` /ˈɪʃuː/                 ([Neutral] 問題点、課題)        We need to address this issue.
+  - ==pain point== /peɪn pɔɪnt/       ([Neutral] 課題、問題点)        Our product addresses the main pain points.
+  - `bottleneck` /ˈbɑːtlnek/        ([Neutral] ボトルネック、障害)  The shipping process is a bottleneck.
+  - `hurdle` /ˈhɜːrdl/              ([Neutral] ハードル、障害)      We need to overcome several hurdles.
+  - `obstacle` /ˈɑːbstəkl/          ([Neutral] 障害、妨げ)          Budget is the main obstacle.
+  - `challenge` /ˈtʃælɪndʒ/         ([Neutral] 課題、難題)          We face several challenges ahead.
+  - `friction point`                ([Neutral] 摩擦点、問題点)      We identified key friction points.
 > `downside` /ˈdaʊnˌsaɪd/           ([Casual] マイナス面、悪い面)   The downside is the long commute.
   - `drawback` /ˈdrɔːbæk/           ([Neutral] 欠点、マイナス面)    The main drawback is the cost.
   - `disadvantage` /ˌdɪsədˈvæntɪdʒ/ ([Neutral] 不利な点 デメリット) One disadvantage is the high cost.
@@ -220,3 +226,15 @@
   - `trending topic` /ˈtrendɪŋ ˈtɑːpɪk/ ([Casual] 流行のトピック)   AI is the trending topic now.
   - `talking point` /ˈtɔːkɪŋ pɔɪnt/ ([Neutral] 話題、議題)          The budget became a talking point.
 > `go-to-market` /ɡoʊ tuː ˈmɑːrkɪt/  ([Neutral] 市場開拓戦略)        We need a solid go-to-market strategy.
+> `product-led` /ˈprɑːdʌkt led/     ([Neutral] 製品主導の)          The company uses a product-led strategy.
+  - `customer-led` /ˈkʌstəmər led/  ([Neutral] 顧客主導の)          A customer-led approach focuses on needs.
+  - `sales-led` /seɪlz led/         ([Neutral] 営業主導の)          They use a sales-led model.
+  - `marketing-led` /ˈmɑːrkɪtɪŋ led/ ([Neutral] マーケティング主導) Marketing-led companies focus on branding.
+  - `data-driven` /ˈdeɪtə ˈdrɪvən/  ([Neutral] データ駆動の)        We use a data-driven approach.
+  - `user-centric` /ˈjuːzər ˈsentrɪk/ ([Neutral] ユーザー中心の)    User-centric design is essential.
+> `word` /wɜːrd/                    ([Neutral] お知らせ、連絡)      Send word when you arrive.
+  - `news` /njuːz/                  ([Neutral] ニュース、知らせ)    Have you heard the news?
+  - `message` /ˈmesɪdʒ/             ([Neutral] 伝言、メッセージ)    I got your message.
+  - `notice` /ˈnoʊtɪs/              ([Neutral] お知らせ、通知)      Did you see the notice?
+  - `update` /ˈʌpdeɪt/              ([Neutral] 最新情報、更新)      Send me an update later.
+  - `information` /ˌɪnfərˈmeɪʃən/  ([Neutral] 情報)                I need more information about this.

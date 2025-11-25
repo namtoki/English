@@ -722,7 +722,6 @@ coronation	10	【名】戴冠式、即位
 coroner	12	【名】検死官
 corporal	11	【形】肉体の、胴体の、個人の
 corps	7	【名】兵団
-corpse	7	【名】死体
 corpus	11	【名】言語資料、全集、元金
 correlation	8	【名】相互関係、相関関係、相関作用
 correspondence	7	【名】文通、往復書簡、一致、通信
@@ -855,7 +854,6 @@ debris	10	【名】破片、がらくた
 debtor	10	【名】借主、債務者
 debut	7	【名】デビュー、初公開
 decease	10	【名】死亡
-deceased	10	【形】死んだ
 decency	8	【名】上品なこと、親切、良識、礼儀作法
 deception	6	【名】だますこと、うそ、ごまかし
 deceptive	9	【形】人をだます、当てにならない
@@ -1819,8 +1817,6 @@ interrogation	10	【名】尋問
 intersection	7	【名】交差点、交差すること
 interviewee	9	【名】面接を受ける人、インタビューされる人
 interviewer	5	【名】訪問記者、インタビュアー、面接担当者
-intestinal	11	【形】腸の
-intestine	9	【名】腸 【形】内部の、国内の
 intimacy	8	【名】親密、親交、詳細な知識
 intolerable	8	【形】耐えられない、たいへんな
 intolerance	9	【名】不寛容、耐えられないこと
