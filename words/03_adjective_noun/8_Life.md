@@ -1,7 +1,18 @@
 # Life
 
+## Food
+- `husk` /hʌsk/                     ([Neutral] トウモロコシの皮 殻) Remove the husk from the corn.
+  - `husky` /ˈhʌski/                ([Neutral] しわがれた がっしり) He has a husky voice.
+  - `hull` /hʌl/                    ([Neutral] [穀物] 殻、外皮)       The hull protects the seed inside.
+  - `shell` /ʃel/                   ([Neutral] [卵ナッツ貝] 殻)       Crack the egg shell carefully.
+  - `peel` /piːl/                   ([Neutral] [果物野菜] 皮)         Banana peel is slippery.
+  - `rind` /raɪnd/                  ([Neutral] [橘類チーズ] 皮)       Lemon rind adds flavor.
+  - `pod` /pɑːd/                    ([Neutral] [豆類] さや)           Pea pods are edible.
+  - `bark` /bɑːrk/                  ([Neutral] [樹]皮)                The bark protects the tree.
+
+---
+
 ## LIFE STAGES
->
 > `puberty` /ˈpjuːbərti/            ([Neutral] 思春期)              She reached puberty at age 12.
 
 - `infancy` /ˈɪnfənsi/            ([Neutral] 幼児期、乳児期)      During infancy, babies grow rapidly.
@@ -666,9 +677,7 @@
 - `household name` /ˈhaʊshoʊld neɪm/ ([Neutral] 有名人、著名な名前)  She became a household name in the 1960s.
 - `how`                             ([Neutral] 〜する方法)          That's `how` I learned to cook.
 - `hubbub` /ˈhʌbʌb/                 ([Casual] 騒音、ざわめき)       The hubbub in the restaurant was overwhelming.
-- `hull` /hʌl/                       ([Neutral] 殻、外皮)                The hull protects the seed inside.
 - `humiliated` /hjuˈmɪlɪeɪtɪd/    ([Neutral] 屈辱を受けた)        She felt humiliated in front of everyone.
-- `husk` /hʌsk/                      ([Neutral] 外皮、殻)                Remove the corn husk before cooking.
 - `icon` /ˈaɪkɒn/                   ([Neutral] アイコン、偶像)       She's an icon in the fashion world.
 - `identifiable` /aɪˌdentɪˈfaɪəbəl/ ([Formal] 識別できる、共感できる) The character is identifiable to readers.
 - `identify with` /aɪˈdentɪfaɪ wɪð/ ([Neutral] 共感する、同一視する) Many people identify with his struggles.
@@ -966,7 +975,6 @@
 - `plan` /plæn/                      ([Neutral] 平面図、設計図)          Study the floor plan carefully.
 - `pleasure-seeking`                ([Neutral] 快楽追求)          His pleasure-seeking behavior worried us.
 - `pledge` /pledʒ/                  ([Formal] 誓約、約束)           He made a pledge to help.
-- `pod` /pɑːd/                       ([Neutral] さや、ポッド)            The peas are in the pod.
 - `poise` /pɔɪz/                  ([Formal] 平静、落ち着き)       She handled it with poise.
 - `poised` /pɔɪzd/                  ([Formal] 落ち着いた Ready)     She's poised and confident.
 - `poor` /pɔːr/                     ([Neutral] 貧しい、悪い)        The sound quality is poor.
@@ -1026,10 +1034,17 @@
 - `raucous` /ˈɹɔːkəs/               ([Neutral] やかましい、騒々しい) The raucous crowd cheered loudly.
 - `raucousness` /ˈɹɔːkəsnəs/      ([Neutral] やかましさ、騒々しさ) The raucousness of the party woke the neighbors.
 - `real estate agent`               ([Neutral] 不動産エージェント)  The real estate agent showed us the house.
-- `real estate broker`              ([Neutral] 不動産ブローカー)    He's a licensed real estate broker.
-- `real estate developer`           ([Neutral] 不動産開発業者)      The developer built this complex.
+  - `real estate broker`            ([Neutral] 不動産ブローカー)    He's a licensed real estate broker.
+  - `real estate developer`         ([Neutral] 不動産開発業者)      The developer built this complex.
+  - `realtor` /ˈriːəltər/           ([Neutral] 不動産仲介業者)      She's a licensed realtor in California.
+- `fixer-upper` /ˈfɪksər ˈʌpər/    ([Casual] 修繕が必要な物件)    We bought a fixer-upper to save money.
+  - `handyman special`              ([Casual] 日曜大工向け物件)     It's a handyman special but has potential.
+  - `turnkey`                       ([Neutral] すぐ住める物件)      They wanted a turnkey property.
+  - `move-in ready`                 ([Neutral] すぐ入居可能)        The house is move-in ready.
+  - `flip a house`                  ([Casual] 家を改装して転売)     He flips houses for a living.
+  - `gut renovation`                ([Neutral] 全面改装)            The place needs a gut renovation.
+  - `as-is`                         ([Neutral] 現状渡し)            The property is sold as-is.
 - `real` /riːl/                     ([Casual] 本当の、真剣な)       Are you real about this?
-- `realtor` /ˈriːəltər/             ([Neutral] 不動産仲介業者)      She's a licensed realtor in California.
 - `reasonable` /ˈriːzənəbəl/        ([Neutral] 理性的な、穏健な)    He's a reasonable person.
 - `reassure` /ˌriːəˈʃʊr/             ([Neutral] 元気づける、安心させる)   She reassured him that everything would be fine.
 - `reassuring` /ˌriːəˈʃʊrɪŋ/       ([Neutral] 安心させる)               Her reassuring smile calmed his nerves.
@@ -1144,7 +1159,6 @@
 - `severe` /sɪˈvɪə/                 ([Formal] 深刻な、厳格な)       The patient has severe symptoms.
 - `severity` /sɪˈverəti/          ([Formal] 深刻さ、厳しさ)       The severity of the storm surprised us.
 - `sheath` /ʃiːθ/                    ([Neutral] 鞘、覆い)                The leaf sheath wraps around the stem.
-- `shell` /ʃɛl/                      ([Neutral] 殻、外皮)                Crack the walnut shell carefully.
 - `shelter` /ˈʃeltər/               ([Neutral] 避難所、保護)        We found shelter from the rain.
 - `sheltered` /ˈʃeltərd/          ([Neutral] 保護された)          She lived a sheltered life.
 - `shin` /ʃɪn/                       ([Neutral] すね)                I bumped my shin on the table.
@@ -1490,13 +1504,3793 @@
   - `something is better than nothing` ([Neutral] 何かはないよりマシ)  Even a small donation is better than nothing.
 
 
+## SOCIAL SETTING / ENVIRONMENT
+- `social setting`                 ([Neutral] 社交的な場)          He feels awkward in social settings.
+  - `social situation`             ([Neutral] 社交的な状況)        Different social situations require different behavior.
+  - `social environment`           ([Neutral] 社会的環境)          The social environment shapes our behavior.
+  - `social context`               ([Formal] 社会的文脈)           Consider the social context of the decision.
+  - `social gathering`             ([Neutral] 社交的な集まり)      We attended a social gathering last night.
+  - `public setting`               ([Neutral] 公の場)              Be careful what you say in public settings.
+
+## PERSONALITY TYPE (INTROVERT / EXTROVERT)
+- `introvert` /ˈɪntrəvɜːrt/        ([Neutral] 内向的な人)          I'm an introvert, so large parties drain me.
+  - `introverted` /ˈɪntrəvɜːrtɪd/  ([Neutral] 内向的な)            She's quite introverted and prefers reading alone.
+  - `introversion` /ˌɪntrəˈvɜːrʒən/([Neutral] 内向性)              Introversion is not the same as shyness.
+- `extrovert` /ˈekstrəvɜːrt/       ([Neutral] 外向的な人)          He's an extrovert who loves meeting people.
+  - `extroverted` /ˈekstrəvɜːrtɪd/ ([Neutral] 外向的な)            She's extroverted and outgoing.
+  - `extroversion` /ˌekstrəˈvɜːrʒən/([Neutral] 外向性)             Extroversion is valued in sales jobs.
+- `ambivert` /ˈæmbɪvɜːrt/          ([Neutral] 両向型の人)          Most people are ambiverts, not pure types.
+- `reserved` /rɪˈzɜːrvd/           ([Neutral] 控えめな、内気な)    He's quite reserved around strangers.
+- `withdrawn` /wɪðˈdrɔːn/          ([Neutral] 引っ込み思案の)      She became withdrawn after the incident.
+- `outgoing` /ˈaʊtɡoʊɪŋ/           ([Neutral] 社交的な、外向的な)  She has an outgoing personality.
+- `sociable` /ˈsoʊʃəbl/            ([Neutral] 社交的な)            He's very sociable and makes friends easily.
+- `solitary` /ˈsɑːləteri/          ([Neutral] 孤独を好む)          He lives a solitary life in the mountains.
+- `the life of the party`          ([Casual] 盛り上げ役、中心人物) She's always the life of the party.
+  - `party animal`                 ([Casual] パーティー好きな人)   He's a total party animal.
+  - `social butterfly`             ([Casual] 社交的な人)           She's a social butterfly who knows everyone.
+  - `center of attention`          ([Neutral] 注目の的)            He loves being the center of attention.
+- `wallflower` /ˈwɔːlflaʊər/       ([Neutral] 壁の花、内気な人)    She was a wallflower at the dance.
+  - `party pooper`                 ([Casual] 場を白けさせる人)     Don't be a party pooper!
+  - `killjoy` /ˈkɪldʒɔɪ/           ([Casual] 興を削ぐ人)           He's such a killjoy.
+  - `buzzkill` /ˈbʌzkɪl/           ([Casual] 盛り下げる人)         That news was a real buzzkill.
+
+## NONSENSE / LIES / BS
+- `BS` /ˌbiːˈes/                   ([Casual] でたらめ、嘘)         That's total BS and you know it.
+  - `bullshit` /ˈbʊlʃɪt/           ([Vulgar] でたらめ、嘘)         That's complete bullshit.
+  - `bull` /bʊl/                   ([Casual] でたらめ)             That's a load of bull.
+- `crap` /kræp/                    ([Casual] くだらないもの)       Don't give me that crap.
+- `nonsense` /ˈnɑːnsens/           ([Neutral] ナンセンス、たわごと) That's complete nonsense.
+- `rubbish` /ˈrʌbɪʃ/               ([British] くだらない、でたらめ) That's utter rubbish.
+- `baloney` /bəˈloʊni/             ([Casual] でたらめ、嘘)         That story is baloney.
+- `hogwash` /ˈhɒɡwɒʃ/              ([Casual] たわごと、でたらめ)   His excuse was pure hogwash.
+- `gibberish` /ˈdʒɪbərɪʃ/          ([Neutral] ちんぷんかんぷん)    I couldn't understand his gibberish.
+
 ## SOCIAL CRITICISM / MOCKERY
 - `derision` /dɪˈrɪʒən/             ([Formal] 嘲笑、あざけり)       His ideas were met with derision.
   - `derisive` /dɪˈraɪsɪv/          ([Formal] 嘲笑的な)             She made a derisive comment.
 - `ostracism` /ˈɑːstrəsɪzəm/        ([Formal] 追放、排斥)           The ostracism was painful.
-- `vilification`                    ([Writing] 中傷、悪口)          The vilification was unjustified.
+- `vilification`                    ([Writing] 中傒、悪口)          The vilification was unjustified.
 
 ## MANNER / TONE
 - `meltingly` /ˈmeltɪŋli/           ([Neutral] やさしく、優しげに)  She spoke meltingly to the child.
 
 - `anterior`                        ([Medical] 前部の)              The anterior part of the brain.
+
+abrasive	11	【形】耳ざわりな、かんにさわる 【名】研磨材
+abstinence	11	【名】禁酒、自制、禁欲
+accession	12	【名】就任、取得、付加
+acclamation	12	【名】満場一致、発声投票、拍手喝さい
+accommodating	10	【形】親切な、人の言いなりになる
+accommodation	5	【名】宿泊設備、適応、和解
+accomplice	11	【名】共犯者、仲間
+accountable	10	【形】責任がある、もっともな
+accumulation	8	【名】蓄積
+acorn	12	【名】ドングリ
+acreage	12	【名】1エーカーほどの土地、エーカーで測った面積、地積
+acrid	12	【形】（味やにおいが）刺すような、辛らつな
+acumen	11	【名】洞察力、明敏
+adage	12	【名】ことわざ、格言
+adamant	11	【形】譲らない、非常に堅い、不動の
+adaptation	7	【名】脚色、改作、適合、適応
+addict	8	【名】依存症の人、中毒者
+addicted	9	【形】中毒になっている、病みつきの
+addiction	8	【名】依存症、中毒
+addictive	9	【形】中毒性の、病みつきになる
+adequacy	9	【名】適切さ、妥当性
+adhesive	10	【形】粘着性の、固執する 【名】粘着性のもの、接着剤
+adjoining	11	【形】隣の、接している
+adjunct	12	【形】補助の、付属の 【名】助手、付加物
+admiral	7	【名】提督、艦隊司令官
+admittance	9	【名】入場許可、入場
+adorable	9	【形】かわいい、愛らしい、崇拝できる
+adoration	10	【名】崇拝、愛情
+adornment	9	【名】装飾品、飾りたてること
+adrift	11	【形】さまよった
+adultery	11	【名】姦通、不倫
+adversity	9	【名】逆境、不運
+advisable	8	【形】望ましい、賢明な
+aegis	12	【名】後援、保護、（米海軍）イージス艦
+aerial	8	【形】空気の、航空機の
+aerospace	8	【名】大気圏および宇宙空間
+affair	3	【名】事件、仕事、不倫
+affectation	12	【名】気どり、ふりをすること
+affected	9	【形】気どった
+affectionate	7	【形】情愛の深い、愛情のこもった
+affiliated	11	【形】提携している、関連のある
+affiliation	10	【名】提携、入会
+affinity	10	【名】強い好み、親近感
+affix	9	【名】接辞
+affront	12	【名】侮辱
+aftermath	10	【名】余波、結果、後遺症
+aggregate	10	【名】集合体
+aggregation	12	【名】集団、集合体
+aggrieved	11	【形】法的に侵害を受けた、虐げられた、悲しんでいる
+aging	8	【名】老化、熟成 【形】年老いた、古ぼけた
+agony	5	【名】苦痛、感情
+agrarian	12	【形】農業の、農地の
+ailing	11	【形】（企業などが）不調の、病んでいる
+airborne	11	【形】空気で運ばれる、飛行中の
+airfare	9	【名】航空運賃
+airtight	12	【形】すきのない、空気を通さない
+akin	9	【形】同種の、同族の
+alas	10	【間】（悲しみ、悲痛を表して）ああ
+alderman	12	【名】市会議員
+algae	12	【名】藻
+alienation	9	【名】疎外感、譲渡
+alignment	8	【名】整列、一列に並んだもの
+allegation	8	【名】申し立て、主張、陳述
+alleged	8	【形】申し立てられた、疑わしい
+allegiance	10	【名】忠誠
+allegory	12	【名】たとえ話
+alley	6	【名】裏通り
+alloy	10	【名】合金、混ざりもの
+alpine	9	【形】高山の、非常に高い、アルプスの 【名】高山植物
+altar	7	【名】祭壇
+alteration	7	【名】変更、改変、修正、寸法直し
+altercation	12	【名】口論、激論
+altruism	11	【名】利他的行為、愛他主義
+alumnus	11	【名】男子の卒業生、同窓生（複 alumni）
+ambivalent	11	【形】相反する感情の、心が不安定な
+amble	12	【名】（馬の）側対歩
+amenable	12	【形】従順な、責任を負うべき
+amends	12	【名】償い
+amenity	9	【名】娯楽、生活を楽しくする物、快適さ
+amity	12	【名】友好、親善
+ammunition	10	【名】弾薬
+amnesty	10	【名】恩赦
+amphibian	12	【名】両生類 【形】水陸両生の
+amphitheater	12	【名】円形劇場
+analogous	9	【形】似ている、相似の
+anchorage	10	【名】停泊地、固定するもの、頼みの綱
+ancillary	12	【形】付属の、補助の 【名】付属物
+anemia	11	【名】貧血、無気力
+anesthesia	11	【名】麻酔（状態）、無感覚
+anesthetic	11	【名】麻酔薬 【形】麻酔の、麻痺状態の
+angelic	9	【形】天使のような、天使の
+angler	12	【名】釣り人
+anguish	8	【名】激しい苦痛、苦悩
+animated	9	【形】生き生きとした、アニメの
+annex	11	【名】別館、離れ
+annexation	12	【名】領土の併合、付加
+annuity	11	【名】年金、年金支払義務
+anorexia	12	【名】食欲不振
+antagonism	10	【名】敵意、敵対、対立
+antagonist	10	【名】相手、敵対者、競争相手
+antarctic	7	【形】南極の 【名】南極地域
+ante	11	【名】共同事業の出資金、個人分担金、アンティー（ポーカーの参加料）
+antecedent	12	【形】前の、先行する、優先する 【名】前例、先祖（～s）
+anteroom	12	【名】控えの間、待合室
+anthropologist	10	【名】人類学者
+anthropology	7	【名】人類学、人間学
+antibody	8	【名】抗毒素、抗体
+antic	12	【名】ふざけたしぐさ、滑稽な態度
+antidote	11	【名】解毒剤、対抗手段
+antigen	12	【名】抗原、抗原性薬剤
+antipathy	11	【名】反感、嫌悪
+antiseptic	12	【形】殺菌の、清潔な 【名】消毒剤
+antithesis	12	【名】正反対、対照
+antonym	10	【名】反意語
+aperture	12	【名】カメラの絞り、すき間
+apocalypse	11	【名】世の終末、啓示、ヨハネの黙示録（the A_)、大災害
+apologetic	10	【形】謝罪する、わびの 【名】弁明
+apostle	11	【名】使徒、最初の伝道者、主唱者
+apparatus	5	【名】器具、機械、器官
+appendix	7	【名】付録、追加、盲腸
+appetizer	7	【名】前菜、食欲をそそるもの
+appetizing	9	【形】食欲をそそる、人の気をそそる
+applicable	7	【形】適用できる、適切な
+applicant	7	【名】応募者、志願者
+appraisal	8	【名】評価、査定
+apprehension	7	【名】不安、心配、逮捕
+apprehensive	11	【形】恐れている、気づかっている、聡明な
+apprentice	7	【名】見習い、初心者
+apprenticeship	9	【名】見習い（期間）
+appropriation	10	【名】専有、充当
+approximation	12	【名】近付くこと、接近、近似、近似値
+aptitude	9	【名】才能、適性、傾向
+aquatic	9	【形】水の、水生の
+arable	12	【形】耕作に適した 【名】耕作地
+arbitrary	8	【形】自由裁量による、専制的な、気ままな
+arbitration	12	【名】仲裁、調停
+arbor	11	【名】あずまや、木陰の休み場所
+archaeologist	10	【名】考古学者
+archaeology	7	【名】考古学
+archbishop	9	【名】大司教
+archipelago	11	【名】群島、列島
+arctic	7	【形】北極の、ひどく寒い 【名】北極地域
+aria	11	【名】旋律、アリア
+arid	11	【形】湿気のない、無味乾燥の
+aristocracy	8	【名】上流階級、貴族、貴族政治
+aristocrat	8	【名】貴族、特権階級の人、最高級品
+aristocratic	8	【形】貴族の、貴族的な、貴族政治の
+ark	11	【名】ノアの箱舟、避難所
+armament	10	【名】兵器、軍備
+armchair	6	【名】ひじかけいす
+armful	9	【名】腕いっぱいの量、ひとかかえ
+armored	7	【形】武装した、よろいを着た
+armpit	12	【名】わきの下、むさ苦しい場所
+arrogance	8	【名】尊大、横柄、ごう慢
+arsenal	10	【名】兵器庫、兵器工場
+arsenic	12	【名】ヒ素 【形】ヒ素の
+arson	11	【名】放火
+artery	10	【名】動脈、幹線道路
+artful	9	【形】巧妙な、器用な
+arthritis	11	【名】関節炎
+articulate	10	【形】はっきり発音された、明確な
+articulation	12	【名】明瞭な発音、明確な表現
+artifice	12	【名】巧みな策略、巧妙さ、ごまかし
+artillery	10	【名】砲兵隊
+ascendancy	11	【名】支配力、優勢
+aspen	11	【名】ポプラ、アスペン 【形】アスペンの
+aspiration	8	【名】強い願望、呼吸
+assassination	9	【名】暗殺
+assertion	7	【名】主張、断言
+assertive	9	【形】断定的な、はきはきした
+asset	6	【名】財産、価値あるもの
+assimilation	12	【名】同化、吸収
+assorted	8	【形】種種雑多の、（～な）組み合わせの
+asteroid	11	【名】小惑星、ヒトデ 【形】星状の
+asthma	10	【名】喘息
+astronomical	9	【形】けたはずれに大きい、天文学の
+astute	11	【形】明敏な、洞察力のある
+atheist	12	【名】無神論者、不信心者
+atlas	8	【名】地図帳
+atmospheric	7	【形】大気の、雰囲気のある
+atrocity	10	【名】残虐行為
+attempted	8	【形】未遂の
+attentive	8	【形】注意深い、親切な
+attic	8	【名】屋根裏部屋
+attorney	7	【名】弁護士、代理人
+attributable	10	【形】起因する
+attrition	11	【名】減少、消耗、抵抗力の低下
+audacity	11	【名】大胆、勇敢、ずうずうしさ
+audible	10	【形】聞こえる
+audit	8	【名】会計監査、監査報告書
+auditor	9	【名】監査役、会計検査官、聴講生
+authenticity	10	【名】信憑性、真正であること
+autism	12	【名】自閉症
+autocratic	11	【形】独裁的な、専制の
+autograph	10	【名】署名、サイン
+auxiliary	12	【形】補助の、予備の 【名】援助者
+avail	9	【名】利益
+avalanche	9	【名】雪崩
+avarice	12	【名】強欲
+aviary	12	【名】鳥小屋
+aviation	8	【名】飛行、航空機（産業）、軍用機
+avocado	8	【名】アボカド
+awe	5	【名】畏敬
+axiom	12	【名】公理. 定理、金言、原理、格言
+babble	8	【名】はっきり聞き取れないことば
+backdrop	11	【名】背景、バックドロップ
+backfire	10	【名】バックファイア、さか火
+backlash	11	【名】反発、反動
+bacterial	10	【形】細菌の
+badge	8	【名】記章、バッジ、しるし
+badger	9	【名】アナグマ
+baggy	11	【形】だぶだぶの、袋のような、垂れ下がった
+bail	8	【名】保釈（金）、保釈保証人
+bait	7	【名】えさ
+bald	6	【形】はげた、すり減った
+bale	12	【名】俵、梱（こり）
+balk	11	【名】妨害
+ballad	8	【名】民間伝承の物語詩、バラード形式の詩・曲、歌謡
+ballast	12	【名】船の底荷、安定させるもの、気球の砂袋
+ballot	7	【名】投票、投票用紙
+baloney	12	【名】たわ言、愚かな考え
+banal	12	【形】ありきたりな、平凡な
+bandage	7	【名】包帯
+bandit	12	【名】山賊、追いはぎ、無法者
+bane	11	【名】破滅のもと、悩みの種
+banter	11	【名】冗談の言い合い、ひやかし
+barbarian	10	【名】野蛮人
+barbarism	9	【名】野蛮、未開
+barbed	11	【形】とげのある、辛らつな
+bard	11	【名】吟遊詩人
+bargain	3	【名】安売り、格安品
+barge	10	【名】はしけ、屋形船
+barley	7	【名】オオムギ
+barn	5	【名】納屋
+barometer	9	【名】気圧計、動向を示す指標
+baron	8	【名】男爵
+baroque	11	【形】バロック様式の、過度に装飾的な 【名】バロック様式
+barrack	7	【名】〈通例複数形で〉兵舎
+barrage	11	【名】ことばや殴打の連発、弾幕砲火
+barren	8	【形】不毛の、不妊の 【名】やせ地
+barrow	12	【名】墓の上に盛った塚、古墳、手押し車
+barter	9	【名】物々交換
+bash	10	【名】とても楽しいパーティー
+bashful	12	【形】恥ずかしがり屋の、内気な
+bass	8	【形】低音の、最低音部の 【名】低音、ベース、バス
+bastard	10	【名】非嫡出子、（いやな）野郎
+bastion	11	【名】とりで、最後のよりどころ
+batch	8	【名】一束、一団、1回分
+battalion	11	【名】大隊、大群
+battlefield	9	【名】戦場
+beacon	11	【名】灯台、かがり火、指針となるもの
+bead	10	【名】ビーズ
+bearer	8	【名】運ぶ人、運搬人、持参人
+bearing	8	【名】身のこなし、態度、結実、我慢、〈bearingsの形で〉方向感覚
+beating	5	【名】敗北、打つこと、むち打ちの刑
+bedding	7	【名】寝具類、下地
+beet	9	【名】ビート、カエンサイ
+behavioral	9	【形】行動の
+beige	10	【名】ベージュ 【形】ベージュ色の
+belated	8	【形】遅れた、時期遅れの
+belligerent	11	【形】けんか早い、戦争中の 【名】戦闘相手
+belonging	5	【名】所属するもの、所持品、同一性
+bench	1	【名】ベンチ、法廷、裁判官
+benchmark	11	【名】尺度、基準、標準価格
+benefactor	11	【名】後援者、寄付する人、慈善事業家
+beneficiary	10	【名】利益を受ける人
+benevolence	12	【名】善行、慈善の心
+benevolent	10	【形】慈悲の心に富んだ
+benign	10	【形】良性の、親切な
+bereaved	12	【形】近親者を亡くした、死別された
+berth	12	【名】船や列車の寝台、停泊位置
+bewilderment	8	【名】うろたえた様子、困惑、混乱
+bibliography	10	【名】図書目録、参考文献一覧表
+biceps	12	【名】二頭筋、力こぶ
+bidder	11	【名】入札者、値をつける人、命令者
+bigotry	11	【名】偏狭な考え
+bilateral	12	【形】双方の、二者間の 【名】二者会議
+bile	12	【名】かんしゃく、不機嫌、胆汁
+billboard	10	【名】掲示板、広告板
+billiards	9	【名】ビリヤード〈単数扱い〉 【形】〈billiardの形で〉ビリヤードの
+billow	12	【名】炎や煙のうねり、大波
+bin	9	【名】ふた付きの容器、貯蔵所
+binding	7	【形】拘束力のある 【名】結合、束縛
+binocular	12	【形】両眼の 【名】双眼鏡（～s）
+biotechnology	9	【名】生命工学
+birch	11	【名】カバノキ
+birthright	10	【名】生得権、相続権
+bitch	9	【名】嫌な女、あばずれ、雌犬
+bitterness	6	【名】苦味、苦しみ
+blackmail	8	【名】恐喝で得た金品
+blackout	10	【名】停電、記憶喪失
+blacksmith	8	【名】鍛冶屋
+bladder	10	【名】膀胱
+bland	10	【形】風味の乏しい、穏やかな
+blanket	2	【名】毛布 【形】包括的な
+blasphemy	12	【名】神への冒とく、冒とく的な言動
+bleach	6	【名】漂白剤
+bleak	8	【形】荒涼とした、暗い
+blessing	4	【名】恩恵、天の恵み
+blight	11	【名】損傷の原因
+blinding	10	【形】目をくらます、分別を失わせるような
+bliss	7	【名】無上の喜び、至福
+blister	11	【名】水ぶくれ
+blithe	12	【形】陽気な、思慮のない
+blizzard	9	【名】猛吹雪
+bloke	10	【名】やつ、男
+blot	9	【名】汚れ
+bluff	11	【名】からいばり、断崖
+blunt	7	【形】ぶっきらぼうな、鈍い、丸い
+blurt	11	【名】うっかり口走ること
+boarder	9	【名】下宿人、寄宿生、寮生
+boarding	9	【名】乗船、乗車、板張り、寄宿
+boardroom	11	【名】重役用会議室
+boastful	10	【形】自慢する、自慢好きの
+bog	9	【名】沼地、湿地帯
+bogus	11	【形】偽の、遅れている
+boisterous	11	【形】ばか騒ぎの、騒々しい、（天候が）荒れ狂った
+bombardment	11	【名】爆撃、砲撃、殺到
+bomber	9	【名】爆撃機
+bondage	9	【名】緊縛、奴隷の境遇
+bonfire	9	【名】大かがり火、たき火
+boomer	11	【名】ベビーブーム世代、景気をあおるもの
+boon	9	【名】恩恵、利益
+booth	6	【名】ブース
+booty	11	【名】略奪品、戦利品
+booze	11	【名】酒、酒宴
+borderline	8	【形】国境線上の、国境近くの、不明確な 【名】境界、国境
+boredom	5	【名】退屈、ものぐさ
+borrower	8	【名】借り主、借り手
+borrowing	10	【名】借入金、借り（もの）
+bosom	11	【名】胸 【形】親しい
+botch	11	【名】下手な仕事、やり損ない
+bottomless	9	【形】底知れぬほど深い、不可解な
+bough	12	【名】大きな枝
+boulder	9	【名】巨石
+boulevard	9	【名】広い並木道、大通り
+bounty	11	【名】恵みもの、報奨金、気前のよさ
+bouquet	7	【名】花束、お世辞
+bourgeois	10	【名】ブルジョア 【形】中産階級の
+bout	10	【名】一時的な期間、不快な状態、一試合
+boutique	10	【名】ブティック
+bovine	12	【形】のっそりした、ウシのような 【名】ウシ亜科の動物
+bowel	7	【名】腸、はらわた
+bower	11	【名】あずまや、木陰の休息所
+brace	8	【名】締め金、補強材
+bracket	7	【名】かっこ、張り出し棚
+brag	10	【名】ほら
+braid	10	【名】お下げ髪、ひも
+bran	9	【名】ふすま、ぬか、もみ殻
+brash	11	【形】性急な、がむしゃらな、不作法な
+bravado	11	【名】虚勢、からいばり
+brawl	11	【名】騒々しいけんか
+breadwinner	12	【名】稼ぎ手、稼業、大黒柱
+breakup	8	【名】分解、分裂、崩壊、仲違い、別離
+breathless	7	【形】息切れした、息もつけない
+breathtaking	8	【形】息をのむような、すごい
+breeding	9	【名】繁殖、飼育、しつけ、教養
+brethren	11	【名】同胞、会員、同業者
+brevity	12	【名】簡潔さ、時間の短さ
+bridal	10	【形】花嫁の 【名】結婚式
+bridegroom	12	【名】花婿
+bridle	12	【名】くつわ
+briefing	9	【名】簡単な報告・指令、状況説明
+brigade	10	【名】組織、大部隊、旅団
+brilliance	6	【名】輝き、強い明るさ、光沢、（才能・頭脳の）傑出
+brim	8	【名】縁、へり
+brink	8	【名】縁、瀬戸際、危機
+brisk	7	【形】元気のよい、きびきびした、活発な、すがすがしい
+brokerage	11	【名】証券会社、仲介業者、仲介手数料
+bromide	12	【名】決まり文句、臭化物、ブロマイド
+bronchitis	12	【名】気管支炎
+brood	8	【名】ひとかえりのひな、種族、やから
+brook	6	【名】小川
+broom	6	【名】ほうき
+broth	10	【名】ブロス （肉・魚・野菜などを煮出したスープ)
+brownie	8	【名】ブラウニー（チョコレート入りケーキ）、ガールスカウトの幼年団員
+bruise	7	【名】傷、打撲
+brunch	7	【名】ブランチ、朝食を兼ねた昼食
+brunt	12	【名】襲撃、攻撃のほこ先
+brusque	12	【形】ぶっきらぼうな、そっけない
+brutal	5	【形】残忍な、非人間的な
+brutality	10	【名】残忍性、残虐行為
+brute	7	【形】動物の、凶暴な 【名】動物、獣
+buck	9	【名】雄ジカ、金（green buckでドル紙幣）
+buckle	8	【名】バックル、ゆがみ
+buddy	8	【名】仲間
+buffalo	8	【名】バッファロー
+buffer	11	【名】緩衝器、緩衝となるもの
+buffet	7	【名】ビュッフェ、立食、食器棚
+buggy	12	【名】名頭立て軽装馬車、乳母車、四輪車
+buildup	10	【名】増強、渋滞、発展、たくわえ
+bulge	10	【名】出っぱり
+bulletin	7	【名】掲示、広報、速報
+bullish	11	【形】楽観的な、頑固な、経済の見通しの明るい
+bully	8	【名】ごろつき、いばり散らす人
+bum	8	【名】怠け者、放浪者
+bump	5	【名】打ち当てること、（道路などの）隆起
+bumper	8	【名】バンパー、ぶつかる人、満杯 【形】非常に豊富な
+bumpy	10	【形】でこぼこの多い
+bun	11	【名】丸いパン、巻き髪
+bungalow	8	【名】一戸建ての平屋、バンガロー
+bunk	12	【名】船の寝台、かいば桶、場当たりの話
+burdensome	9	【形】やっかいな、つらい
+burgeon	11	【名】新芽
+burglar	5	【名】押し込み泥棒
+burial	6	【名】埋葬、墓所
+burnish	11	【名】つや、光沢
+burnout	10	【名】消耗、燃えつき
+burnt	7	【形】焼いた、焦げた、ふつうより濃い、ネズミ色がかった
+burrow	11	【名】ウサギやキツネの巣穴、避難場所
+businesslike	6	【形】事務的な、てきぱきした
+bust	9	【名】胸囲、胸像
+bustling	11	【形】せわしない、騒々しい
+butt	10	【名】太いほうの端、残り、切れ端、吸いさし
+buttock	12	【名】尻（～s）
+buttress	11	【名】支え、バトレス
+buyout	11	【名】買収、買い占め
+cactus	12	【名】サボテン（複 cacti)
+caddie	10	【名】キャディー、使い走りや雑用をする人
+cadence	12	【名】律動的な流れ、リズム
+cadet	11	【名】士官候補生、士官学校生、見習い
+calamity	7	【名】災難、不幸、苦難
+calcium	7	【名】カルシウム
+calculating	10	【形】計算ができる、抜け目ない、利己的な
+caliber	11	【名】銃の口径、直径、能力
+calligraphy	4	【名】書道、習字
+callous	12	【形】無神経な、皮膚が硬くなった 【名】皮膚のたこ
+camouflage	9	【名】偽装、変装
+campaigner	7	【名】（選挙などの）運動家
+cancellation	8	【名】取り消し
+candid	10	【形】率直な
+canine	11	【名】犬科の動物 【形】犬のような
+canny	11	【形】抜け目のない、慎重な
+canon	9	【名】規範、原則、公認正典
+canopy	12	【名】天蓋（てんがい）のように覆うもの、高貴な身分の人、（生態）樹冠
+cant	12	【名】隠語、うわべだけのことば、凸角
+canteen	12	【名】社員食堂、学生食堂、水筒
+cap	1	【名】縁なし帽子、ふた、上限
+capability	6	【名】能力、才能
+cape	5	【名】岬、ケープ、袖なしの肩マント
+caprice	12	【名】気まぐれ、移り気、予知できない急変
+capricious	12	【形】気まぐれの、移り気な
+captivity	8	【名】捕らわれの身
+carbohydrate	10	【名】炭水化物
+carcinogen	12	【名】発ガン性物質、発ガン因
+cardboard	7	【名】ボール紙 【形】ボール紙製の
+cardiac	11	【形】心臓の 【名】心臓病患者、強心剤
+cardinal	10	【形】基本的な
+cardiovascular	11	【形】心臓血管の
+carefree	9	【形】のんきな、心配のない、楽しい
+caress	6	【名】愛撫
+caretaker	9	【名】世話人、管理人 【形】代理の、暫定の
+cargo	6	【名】貨物、積み荷
+caricature	10	【名】風刺漫画
+caring	5	【形】思いやりのある、気づかう
+carol	9	【名】聖歌、（鳥の）さえずり
+carousel	12	【名】回転木馬
+carriage	5	【名】車、客車
+cartel	11	【名】企業連合、カルテル、挑戦状
+cartoon	6	【名】時事風刺漫画、アニメ
+cartridge	7	【名】カートリッジ、爆薬筒
+cascade	10	【名】小滝
+cashier	6	【名】レジ係、現金出納係
+casket	12	【名】棺、宝庫
+casserole	10	【名】キャセロール、蒸し焼き鍋
+caste	11	【名】カースト制度、閉鎖的社会、特権的階級
+casting	9	【名】投げること、鋳造、配役
+casualty	8	【名】死傷者、被害者、大事故、惨事、損害
+cataclysm	12	【名】地殻の激変、大洪水、大変動
+catapult	11	【名】石弓、カタパルト、（艦船の）飛行機射出機
+cataract	12	【名】白内障、滝、大雨
+catastrophe	7	【名】大惨事、不幸
+catastrophic	10	【形】壊滅的な、最悪の
+categorical	8	【形】無条件の、明確な、分類別の
+caterpillar	9	【名】いも虫、キャタピラー
+caucus	11	【名】党員集会、政党の幹部会
+causal	10	【形】原因の、因果関係の
+cavalier	12	【形】横柄な、むとんちゃくな 【名】騎士
+cavalry	12	【名】騎兵隊、乗馬者
+cavern	12	【名】洞窟
+cavity	6	【名】空洞、虫歯
+ceaseless	9	【形】絶え間ない
+cedar	9	【名】ヒマラヤスギ
+celestial	9	【形】天の、神聖な
+cellular	10	【形】細胞の（＊cellular phone=携帯電話）
+cemetery	6	【名】墓地、共同墓地
+censor	9	【名】検閲官
+censorship	9	【名】検閲
+census	7	【名】人口調査、国勢調査
+centenary	11	【形】100年の
+centennial	11	【名】100周年 【形】100年目の、100年間の
+centigrade	8	【形】（温度計が）摂氏の、百分度の、百度目盛りに分けた
+centralization	10	【名】中央集権、集中化
+ceramic	10	【形】陶磁器の 【名】セラミック
+cerebral	10	【形】脳の、知性に訴える
+ceremonial	7	【形】儀礼上の、儀式の 【名】式典、儀礼
+ceremonious	10	【形】おごそかな、儀式ばった、儀礼を尽くした
+certainty	6	【名】確実性、必然性
+chaff	12	【名】もみ殻、切りわら
+chancellor	7	【名】首相、（英）大蔵大臣（C_)
+chant	9	【名】歌、唱歌
+chap	7	【名】やつ、男、亀裂、あかぎれ
+chaplain	11	【名】礼拝堂つきの牧師、（刑務所の）教戒師、宗教儀式係
+charge	2	【名】料金、非難
+chariot	7	【名】一人乗り二輪戦車、荷馬車
+charitable	8	【形】寛大な、慈悲深い、情け深い
+charlatan	12	【名】ペテン師、ニセ医者
+charming	5	【形】魅力的な、うっとりさせるような
+charred	11	【形】黒こげの
+charter	5	【名】特許状、（乗り物の）貸し切り 【形】特許による
+chaste	12	【形】慎みのある、純潔な、簡潔な
+chatter	7	【名】おしゃべり、鳴き騒ぎ
+chauffeur	9	【名】お抱え運転手
+chauvinism	12	【名】極端な性差別主義、熱狂的愛国主義
+checklist	8	【名】確認リスト
+cheeky	9	【形】生意気な、厚かましい、ほおの垂れさがった
+cheering	6	【形】激励の、元気づける
+cheery	9	【形】上機嫌の、活気づける
+chemotherapy	12	【名】化学療法
+chestnut	7	【名】クリ、クリの木
+chic	10	【形】しゃれた
+childbearing	10	【名】出産、分娩 【形】出産可能な
+childbirth	9	【名】出産
+childcare	6	【名】保育、児童保護
+childless	9	【形】子どものない
+chilly	6	【形】ひんやりする、冷淡な
+chip	5	【名】切れ端
+chirp	8	【名】甲高い音（小鳥の鳴き声など）
+chisel	10	【名】のみ、彫刻刀
+chivalry	12	【名】騎士道精神
+chlorine	12	【名】塩素
+choke	6	【名】窒息
+chore	7	【名】家事、雑用
+choreographer	11	【名】振付師
+chromosome	11	【名】染色体
+chronicle	9	【名】年代記、歴史
+chronology	12	【名】年代記、年代順配列
+chum	12	【名】親友、まき餌
+chunk	9	【名】大きい塊
+churchyard	7	【名】教会付属の墓地、教会堂に隣接する庭
+churn	10	【名】かくはん器
+circumspect	12	【形】慎重な、熟慮した
+circumstantial	9	【形】状況の、付随的な
+cistern	12	【名】タンク、貯水池
+citadel	12	【名】要塞、とりで
+civic	7	【形】市民の、都市の、市の
+civility	11	【名】礼儀正しさ、丁寧な行為
+civilization	5	【名】文明、洗練
+claimant	12	【名】原告、要求者、社会保障受給者
+clairvoyant	12	【名】千里眼 【形】千里眼の、洞察力のある、透視力のある
+clam	10	【名】二枚貝、無口な人
+clamber	10	【名】はい登り
+clamp	11	【名】留め金
+clan	10	【名】一族
+clandestine	11	【形】秘密で行われる
+clarity	8	【名】透明、清澄、明瞭
+clash	6	【名】戦闘、衝突
+clasp	8	【名】留め金、締め具、しっかり握ること
+clatter	7	【名】騒々しさ、やかましい音
+claustrophobia	12	【名】閉所恐怖症
+claw	8	【名】鉤つめ、（昆虫の）つめ、（エビ・カニの）はさみ
+cleanliness	9	【名】潔癖、清潔
+cleanser	8	【名】洗剤、クレンザー、清掃係
+cleanup	6	【名】掃除、浄化
+clearance	9	【名】撤去、在庫一掃、清算
+clearing	6	【名】除去、掃除、空き地、決算
+clearness	6	【名】透明、明るさ、明快
+cleavage	12	【名】胸の谷間、分裂、決定的相違
+clench	8	【名】堅く締めること
+cleric	11	【名】牧師、聖職者 【形】聖職者の
+clerical	8	【形】事務員の、書記の、聖職者の 【名】聖職者
+clientele	11	【名】常連、顧客、依頼人
+climatic	6	【形】気候上の、気候による
+clinical	7	【形】臨床の、病床の
+cloak	6	【名】マント
+clockwork	7	【名】時計仕掛け、ぜんまい仕掛け
+clog	9	【名】障害物
+clot	11	【名】血などのかたまり
+cloudless	8	【形】一点の雲もない、晴れわたった、影のない
+clown	7	【名】道化役者、おどけ者
+clump	12	【名】茂み、集団
+clutch	7	【名】クラッチ、つめ
+clutter	11	【名】散らかった物の山、がらくた
+coastline	9	【名】海岸線
+cobble	11	【名】丸石
+cobweb	10	【名】クモの巣
+coercion	12	【名】強制力、強制、圧政
+coffer	11	【名】貴重品を入れる箱、金庫（～s）
+coffin	7	【名】棺
+coherence	9	【名】首尾一貫性、一致
+coherent	8	【形】互いに密着する、緊密に結びついた、首尾一貫した
+cohesion	10	【名】つながり、粘着、団結
+cohort	11	【名】共犯者、軍隊、軍団
+coil	7	【名】とぐろ巻き、輪、コイル
+colitis	12	【名】結腸炎、大腸炎
+collateral	11	【名】担保物件 【形】横にある、追加の
+colloquial	10	【形】口語（体）の
+collusion	12	【名】共謀
+colon	9	【名】結腸、コロン、句読点
+colonel	7	【名】大佐
+coloring	6	【名】塗り絵、着色、色合い、血色
+colossal	10	【形】巨大な、とてつもない
+colt	11	【名】雄の子馬、初心者
+coma	10	【名】昏睡
+comatose	11	【形】昏睡状態の、ひどく眠い
+commandment	11	【名】戒律、命令
+commencement	10	【名】卒業式、始まり
+commodity	6	【名】商品、産物、有用なもの
+commoner	10	【名】平民、庶民、下院議員、一般学生
+commonwealth	7	【名】団体、連邦（C_)
+communal	10	【形】共同社会の、共同使用の
+communique	11	【名】公式声明、公式発表
+comparable	6	【形】匹敵する、似ている、比較できる
+comparative	6	【形】比較の、かなりの
+compartment	7	【名】区画、分室、仕切り客室、小物入れ
+compassion	8	【名】思いやり、深い同情
+compassionate	9	【形】思いやりのある、哀れみ深い
+compatible	8	【形】仲よくやっていける、両立できる、矛盾のない、互換性のある
+compelling	8	【形】説得力のある、強制的な
+compensation	6	【名】補償金、報酬、埋め合わせ
+compilation	11	【名】編集（したもの）
+complacency	11	【名】現状に満足しきっていること、自己満足
+complacent	9	【形】悦に入った、愛想のいい、無関心な
+complainant	12	【名】原告（側）
+complement	7	【名】補完物
+complementary	10	【形】補充する、補足的な
+complexion	10	【名】顔色、外観
+compliant	12	【形】従順な、言いなりの
+composite	8	【形】各種の要素から成る、合成の 【名】合成物
+comprehensible	9	【形】理解できる
+comprehension	5	【名】理解、知識、包括
+compression	10	【名】圧縮、要約
+comptroller	11	【名】会計監査（役）、経理部長
+compulsion	9	【名】衝動強迫、無理強い
+compulsive	9	【形】何かにとりつかれたような、人の心をとらえて離さない
+compulsory	6	【形】強制された、義務的な
+concealment	10	【名】隠すこと、潜伏
+conceit	8	【名】うぬぼれ、過大評価、気まぐれ
+conceited	9	【形】うぬぼれた
+concerted	11	【形】一致団結した、断固とした
+concerto	11	【名】コンチェルト、協奏曲
+conclusive	8	【形】決定的な、確実な、終結的な、終了させる
+concomitant	12	【形】同時に起こる、付随する 【名】付属物
+concord	10	【名】一致、平和
+concordance	12	【名】用語索引、一致
+concussion	11	【名】脳震盪、衝撃
+condolence	12	【名】悔やみ、哀悼、弔辞
+confetti	12	【名】紙ふぶき、キャンディー、ボンボン
+configuration	10	【名】形、星位、（コンピューター）機器の構成
+confinement	8	【名】幽閉、監禁、出産
+confiscate	11	【形】没収した
+confluence	12	【名】河川の合流、合流点、集合
+confrontation	7	【名】対決、直面
+congenial	9	【形】適した、性分に合った、気心の合った
+congestion	9	【名】密集、充満、充血、詰まること
+conglomerate	11	【名】複合企業、集合体 【形】複合企業の
+congratulation	5	【名】祝辞、祝うこと
+congressional	8	【形】会議の、集会の、アメリカ議会の
+congressman	6	【名】下院議員
+conjunction	10	【名】結合、共同、接続詞
+connoisseur	11	【名】通、鑑識家、目利き
+consecutive	10	【形】連続した、論理の一貫した
+consequent	7	【形】引き続いて起こる、結果として起こる
+conservationist	11	【名】自然保護論者 【形】自然保護論者の
+conservatory	12	【名】温室、音楽学校
+consignment	12	【名】委託、委託販売品、積送品
+consistency	8	【名】一貫性、堅さ、一致、調和
+consistent	5	【形】一致する、不変の、首尾一貫した
+consolidation	8	【名】合同、合併、整理統合、合同体、強化
+consonant	7	【名】子音 【形】一致する
+constable	9	【名】巡査
+constellation	12	【名】星座（の位置）、一群
+consternation	12	【名】驚愕、仰天、恐怖
+constipation	12	【名】便秘、不活発
+constituency	9	【名】有権者、選挙区、後援団体
+constituent	9	【形】構成する、構成要素である、選挙権のある
+constitution	4	【名】憲法、規約
+constitutional	7	【形】憲法上の、立憲的な、健康によい
+consul	10	【名】領事、執政官
+consulate	10	【名】領事館、領事職
+consummate	11	【形】完璧な、実に見事な
+consummation	12	【名】成就、仕上げ、終焉
+contagion	12	【名】接触伝染病、感染、感化
+contagious	8	【形】接触伝染性の、感染させる
+contaminant	9	【名】汚染物質
+contamination	9	【名】汚濁、汚染（物質）
+contemptuous	9	【形】軽蔑を示す、蔑んだ
+contender	10	【名】競争者
+contented	8	【形】満足した、甘んじた
+contention	9	【名】主張、論争、闘争
+contentious	11	【形】議論を起こす、論争好きの
+contentment	6	【名】満足、安ど
+contingency	11	【名】不慮の出来事、偶然性、続発事件
+contingent	11	【形】～を条件とする、～に付随する、不慮の 【名】偶発事、選手団
+continual	6	【形】絶え間のない
+continuance	10	【名】継続、連続、続き
+continuation	7	【名】連続、存続、話などの続き
+continuity	7	【名】連続、継続性、ひと続き、映画の撮影用台本（コンテ）
+continuous	5	【形】連続的な
+contraception	11	【名】避妊、産児制限
+contraceptive	11	【形】避妊の 【名】避妊器具、避妊薬
+contrition	11	【名】悔い改め、悔恨
+conundrum	11	【名】難問、なぞ
+convergence	11	【名】意見の合致、集中、同時発生
+convertible	10	【形】変換できる、コンバーチブル型の 【名】ほろ型自動車
+conviction	5	【名】信念、確信、説得、有罪判決
+convoy	10	【名】トラックなどの集団
+convulsion	12	【名】けいれん、笑いの発作、動乱
+cookery	11	【名】料理業、料理場、料理術
+coop	12	【名】鶏小屋、狭苦しい場所
+cooper	11	【名】樽類製造者、桶屋
+coordination	8	【名】調整、一致、対等、同格
+cop	4	【名】警官
+copper	5	【名】銅、銅貨
+coral	10	【名】サンゴ
+cordial	9	【形】誠心誠意の 【名】元気づけるもの
+cordon	12	【名】非常線、綬章、ひも飾り
+cornerstone	11	【名】土台、肝要なもの
+corollary	12	【名】必然の結果 【形】結果として生じている
+coronary	11	【形】心臓の、冠状に囲む 【名】心筋梗塞
+coronation	10	【名】戴冠式、即位
+coroner	12	【名】検死官
+corporal	11	【形】肉体の、胴体の、個人の
+corps	7	【名】兵団
+corpus	11	【名】言語資料、全集、元金
+correlation	8	【名】相互関係、相関関係、相関作用
+correspondence	7	【名】文通、往復書簡、一致、通信
+correspondent	6	【名】通信員、特派員 【形】一致している、対応している
+corresponding	8	【形】対応する、類似の、付随する
+corrosive	11	【形】腐食する、痛烈な
+cortex	11	【名】（大脳）皮質、樹皮
+cosmic	9	【形】宇宙の、無限の
+cosmopolitan	8	【形】国際的な、外国人に対して偏見のない 【名】国際人
+cot	12	【名】簡易ベッド、小屋
+couch	4	【名】長いす
+councilor	10	【名】議員、評議員、顧問官
+countenance	8	【名】顔つき、見かけ、落ち着き、精神的支持
+counter	4	【名】カウンター、勘定台 【形】反対の
+counterfeit	11	【形】偽の、見せかけの
+counterpart	6	【名】対をなすものの片方、よく似た人・もの、写し
+countless	6	【形】数えきれないほどの、無数の
+coup	8	【名】クーデター、大当たり、大成功
+courier	10	【名】配達人、宅配便業者、特使、案内人
+courteous	7	【形】礼儀正しい、いんぎんな
+courtesy	6	【名】礼儀正しいこと、丁寧 【形】儀礼上の
+courthouse	11	【名】裁判所の庁舎、郡庁所在地
+courtroom	10	【名】法廷
+courtship	11	【名】婚約以前の交際、求愛
+courtyard	8	【名】（特に四方を建物・塀で囲まれた）中庭
+cove	12	【名】入り江、奥まった場所、ほら穴
+covenant	10	【名】契約、約束、約款
+covering	5	【名】覆い 【形】覆う
+covert	11	【形】秘密の、覆われた 【名】隠れ場
+cowardice	9	【名】憶病、小胆
+coworker	5	【名】同僚
+coy	11	【形】純情ぶっている、内気な
+cozy	6	【形】居心地のよい、つるんだ
+crackdown	11	【名】断固たる取り締まり、法律の厳格な施行
+cracked	7	【形】ひびの入った、砕いた、砕けた
+crackle	11	【名】ひび模様
+cradle	5	【名】揺りかご
+crafty	10	【形】悪賢い、器用な
+cram	8	【名】詰め込み式の受験勉強、超満員
+cramp	8	【名】けいれん、ひきつり、激しい腹痛
+crane	4	【名】クレーン、鶴
+crank	10	【名】風変わりな考え、変人、クランク 【形】嫌がらせの
+crash	2	【名】衝突 【形】集中的な
+crate	11	【名】枠箱、クレート（60×30×30cmの箱1杯分の単位）
+crater	8	【名】噴火口、クレーター
+craze	8	【名】熱狂的大流行、熱狂
+crease	12	【名】折り目、しわ
+creativity	5	【名】創造性、独創力
+credential	8	【名】信任状、証明書
+credibility	9	【名】信頼性
+credible	8	【形】信じられる、信用できる
+creditor	7	【名】債権者、貸し売りする人
+creed	8	【名】信念、信条、教義、宗教
+creek	7	【名】小川、（おもに英）入り江
+creepy	10	【形】むずむずする、身の毛のよだつような、はう
+crescent	9	【名】三日月、新月
+crib	10	【名】幼児用寝台、かいば桶、盗用
+cricket	5	【名】コオロギ、クリケット（スポーツ）
+crimson	9	【形】深紅色の、紅潮した、血なまぐさい
+cripple	7	【名】手足の不自由な人
+crisp	6	【形】かりかりした、身の引き締まるような
+criterion	7	【名】規準、標準、尺度
+crochet	12	【名】かぎ針編み
+crony	11	【名】仲間、ぐる、取り巻き
+crook	8	【名】不正直な人、詐欺師 【形】病気の、不正な
+crooked	8	【形】湾曲した、不正な、心の曲がった
+crucifixion	12	【名】はりつけ、キリストの十字架上の死、大きな苦難
+cruiser	8	【名】巡洋艦、巡航船、巡回パトカー、流しのタクシー
+crumb	7	【名】かけら 【形】わずかの
+crusade	8	【名】十字軍、聖戦、改革運動
+crust	7	【名】地殻、パンの堅い外皮
+crutch	7	【名】松葉づえ、支え
+crux	12	【名】最も重要な点、難問、十字架
+crypt	12	【名】遺体安置所、穴蔵、地下室
+cub	11	【名】肉食哺乳動物の子、青二才、見習い、新米
+cubicle	12	【名】小寝室、小部屋
+cuddle	9	【名】寄り添うこと
+cuff	11	【名】そで口、ズボンのすその折り返し、手錠（～s）
+cuisine	9	【名】料理法、料理
+culinary	11	【形】料理の、台所の
+cull	11	【名】選択、間引き
+culprit	10	【名】刑事被告人、犯人
+cult	9	【名】狂信的教団、崇拝
+cultivation	7	【名】耕作、教養
+cultivator	9	【名】耕作者、養成者、向上させるもの
+cumbersome	11	【形】扱いにくい、重荷となる
+cumulative	10	【形】累積する、漸増する
+curator	11	【名】学芸員、園長、支配人
+curb	9	【名】抑制、制限、歩道の縁石
+curfew	9	【名】夜間外出禁止令、消灯令、門限
+curio	12	【名】骨董品
+cursory	12	【形】ぞんざいな、うわっつらの
+curt	11	【形】ぶっきらぼうな、ことばが短い
+custard	8	【名】カスタード、カスタードソース
+custodian	10	【名】管理人、用務員
+custody	8	【名】保管、管理、保護、監禁、拘留
+customary	8	【形】習慣的な、しきたりの、慣例の、常習的な
+cutback	11	【名】削減、カットバック
+cutlery	10	【名】食事用器具類、刃物類、刃物製造業
+cyclical	11	【形】周期的な、循環する
+cyclist	6	【名】サイクリスト、自転車乗り
+cynic	11	【名】皮肉屋 【形】皮肉な、冷笑的な
+cynical	9	【形】冷笑的な、疑う、認めない、ひねくれた
+cynicism	11	【名】皮肉なことば・考え方
+czar	11	【名】親玉、皇帝、独裁者
+dab	12	【名】軽打
+daffodil	9	【名】ラッパズイセン、カナリア色
+daft	12	【形】精神異常の、熱狂した
+dagger	8	【名】短剣、短刀、敵意
+dainty	10	【形】優美な、上品な、おいしい、好みにうるさい
+dairy	5	【形】乳製の 【名】バター・チーズ製造所、酪農業
+daisy	5	【名】デイジー（ヒナギクなど）
+damn	5	【名】ののしり
+damp	5	【形】湿気のある 【名】湿気、失望
+dandelion	8	【名】（セイヨウ）タンポポ
+daring	5	【形】大胆不敵な 【名】大胆不敵、勇気
+dart	6	【名】投げ矢、突進
+daub	12	【名】壁塗りの材料、しっくい
+daunting	11	【形】人の気力をくじく、おびえさせる
+daybreak	6	【名】夜明け
+daylight	5	【名】日光、昼の光、夜明け
+daze	9	【名】ぼうっとした状態
+deafening	12	【名】防音装置 【形】耳をつんざくような
+dean	7	【名】学部長
+dearth	11	【名】不足、飢きん
+deathbed	8	【名】死の床、臨終
+debatable	9	【形】異論のある、論争可能な、未解決の
+debit	9	【名】負債、借方
+debris	10	【名】破片、がらくた
+debtor	10	【名】借主、債務者
+debut	7	【名】デビュー、初公開
+decease	10	【名】死亡
+decency	8	【名】上品なこと、親切、良識、礼儀作法
+deception	6	【名】だますこと、うそ、ごまかし
+deceptive	9	【形】人をだます、当てにならない
+decimal	8	【形】小数の、十進法の 【名】小数
+decipher	11	【名】解読
+decisive	7	【形】決定的な、断固とした
+decor	11	【名】装飾物、装飾様式、舞台装置
+decoration	5	【名】飾り付け
+decorative	8	【形】装飾的な、装飾本位の
+decorum	12	【名】礼儀正しさ、適切なもの、秩序正しさ
+decoy	12	【名】おとり
+dedication	8	【名】献納、奉納、献身、専念
+deduction	9	【名】差し引き、控除、推論、演繹
+defamation	11	【名】名誉毀損、中傷
+default	7	【名】不出場、債務不履行
+defendant	6	【名】被告人
+deference	11	【名】服従、敬意
+defiance	10	【名】抵抗、反抗、軽蔑
+defiant	10	【形】反抗的な、挑戦的な、大胆な
+deficiency	7	【名】欠乏
+deficient	10	【形】欠けた、不足した
+deficit	6	【名】赤字、不足額
+definitive	10	【形】最も信頼のおける、最終的な、限定的な
+deforestation	7	【名】山林伐採
+deft	11	【形】器用な、腕のよい
+degenerate	11	【形】悪化した、退化した
+degradation	8	【名】不名誉、体面を傷つけること、左遷、低下、劣化
+deity	11	【名】神、神性
+dejected	12	【形】しょげている、意気消沈した
+deliberate	6	【形】故意の、よく考えた
+delicacy	8	【名】ごちそう、美味、繊細さ、思いやり
+delineation	12	【名】描写、図表、概要説明
+delinquency	12	【名】非行、過失、義務の不履行
+delinquent	10	【形】怠慢な、非行の 【名】非行少年少女
+delirious	12	【形】意識が混濁した、興奮状態の
+delirium	12	【名】狂乱状態、幻覚症状
+deliverance	12	【名】意見の表明、陪審の評決、救出
+deluge	11	【名】大雨、大洪水、殺到
+demarcation	12	【名】境界画定、境界線、区分
+demeanor	11	【名】顔つき、物腰、態度
+dementia	8	【名】痴呆
+demerit	6	【名】短所、罰点
+democrat	7	【名】民主党員（D_）、民主主義者、平等論者
+demolition	11	【名】取り壊し、破壊、廃止
+demur	11	【名】異議、ためらい
+demure	12	【形】慎み深い、上品ぶった
+den	7	【名】ほら穴、ねぐら
+denomination	11	【名】貨幣単位、額面、宗派
+dent	11	【名】表面のくぼみ、減少
+deodorant	8	【名】デオドラント、体臭防止剤、脱臭剤 【形】脱臭効果のある
+depletion	12	【名】減少、枯渇
+deportation	11	【名】国外追放、輸送
+depot	9	【名】倉庫、バス車庫
+depraved	12	【形】邪悪な、堕落した
+depressed	6	【形】元気のない、ゆううつな、不景気の
+depressing	6	【形】元気を失わせる、ゆううつな、貧困の
+depression	5	【名】不景気、ゆううつ、意気消沈
+deprivation	8	【名】はく奪、貧困、喪失
+deputy	6	【名】代理、代表者 【形】代理の
+derelict	12	【形】放棄された、無責任な
+derisive	12	【形】嘲笑的な、愚弄するような
+dermatologist	12	【名】皮膚科専門医
+derogatory	12	【形】軽蔑的な、権威を傷つけるような
+descendant	6	【名】子孫
+deserted	6	【形】ひとけのない、見捨てられた
+deserved	8	【形】当然の、功罪に応じた、それだけの価値がある
+deserving	10	【形】資格のある、値する
+designing	8	【形】計画的な、先見の明のある、腹黒い、ずるい 【名】設計
+desirous	9	【形】望む
+desolate	10	【形】荒れ果てた、人けのない
+despair	4	【名】絶望、失望
+desperate	5	【形】絶望的な、自暴自棄の、～したくてたまらない
+desperation	8	【名】自暴自棄、死にものぐるい
+despondent	12	【形】落胆しきった、しょげ返った
+despotic	12	【形】独裁的な、横暴な
+destitute	11	【形】極貧の、持っていない
+destitution	12	【名】極貧、欠乏
+destructive	5	【形】破壊的な、有害な
+detention	10	【名】監禁、居残り
+detergent	7	【名】合成洗剤 【形】洗浄性の
+deterioration	11	【名】劣化、悪化、低下
+deterrence	12	【名】戦争抑止、制止
+deterrent	10	【名】妨害物、（軍事的）抑止力
+detour	7	【名】迂回路、回り道
+detriment	12	【名】損失の原因、損害
+detrimental	12	【形】有害な、不利益な
+devaluation	11	【名】平価切り下げ、価値の引き下げ、地位の格下げ
+devastating	10	【形】破壊的な、痛烈な
+devious	11	【形】正道をはずれた、曲がりくねった
+devoid	9	【形】欠いている
+devolution	12	【名】権利の移行、継承、退化
+dew	9	【名】露、しずく、純粋なもの
+dexterity	10	【名】器用さ、抜け目なさ
+diabetes	9	【名】糖尿病
+diabetic	11	【名】糖尿病患者 【形】糖尿病の
+diabolic	12	【形】極悪非道な、悪魔の、魔性の
+dialectic	12	【形】弁証法の 【名】弁証法、論証、対立
+diaper	11	【名】おむつ
+diarrhea	10	【名】下痢
+dichotomy	12	【名】二分、二分裂、二項対立
+dictator	8	【名】独裁者、指令者、口述者
+dictatorship	9	【名】独裁政権、独裁権
+diction	12	【名】言葉づかい、口調
+dictum	11	【名】ことわざ、言明
+diesel	10	【名】ディーゼル機関車 【形】ディーゼルエンジンを動力とする
+dietary	10	【形】食物の
+differential	9	【形】区別を示す、差別的な
+diffident	12	【形】自信のない、気おくれしている
+diffusion	9	【名】拡散
+digestion	6	【名】消化、消化力、理解
+digestive	10	【形】消化の
+digit	9	【名】アラビア数字、桁
+dignity	5	【名】威厳、重々しさ
+dilapidated	12	【形】ぼろぼろになった、荒廃した
+dilute	9	【形】薄い、あせた
+dim	5	【形】薄暗い、ぼやけた
+dime	6	【名】10セント硬貨
+dinghy	12	【名】小舟、小ボート
+dingy	12	【形】薄汚い、陰気な
+dining	5	【名】ディナーを食べること、食事
+dioxide	5	【名】二酸化物
+dip	5	【名】くぼみ、（野菜などをちょっと浸す）ディップ
+diploma	7	【名】卒業証書、学位、公文書
+dire	11	【形】悲惨な、不吉な
+directive	7	【名】公式の指示、指令 【形】指示的な、指導的な
+directory	8	【名】住所氏名録、人名簿、指導書、規則書
+disadvantaged	10	【形】恵まれない、貧しい
+disagreeable	7	【形】嫌な、好みに合わない、不愉快な
+disagreement	6	【名】意見の相違、不一致、不調和
+disappearance	7	【名】見えなくなること、失そう、消失
+disarmament	7	【名】軍備縮小、武装解除
+disastrous	7	【形】大失敗の、災害を引き起こす、破滅を招く
+disbelief	7	【名】信じないこと、疑惑
+disciple	7	【名】弟子、信奉者
+disciplinary	8	【形】訓練の、鍛錬のための、規律上の、学問の
+disciplined	8	【形】厳しくしつけられた、よく訓練された
+discomfiture	12	【名】敗北、挫折
+discouragement	9	【名】落胆、がっかりさせること
+discoverer	9	【名】発見者、創案者
+discreet	9	【形】思慮のある、控えめの
+discrepancy	10	【名】相違、矛盾
+discrete	12	【形】別個の、不連続の
+discrimination	6	【名】差別、区別
+disgruntled	11	【形】不満な、不機嫌な
+disguise	5	【名】変装
+disheveled	12	【形】だらしない、ぼさぼさの
+dishonest	6	【形】不正直な
+dishonesty	10	【名】不正直、不誠実、不正
+disintegration	11	【名】崩壊、分裂
+disinterested	8	【形】公平無私な、関心をもたない、冷淡な
+dismal	7	【形】ゆううつな、見るに耐えない 【名】ゆううつ
+disobedience	8	【名】不服従、反抗、違反
+disobedient	9	【形】反抗的な
+disparate	11	【形】異種の、本質的に異なる
+disparity	11	【名】格差、不釣り合い、相違
+dispensary	12	【名】調剤室、無料または低料金の診療所
+displeasure	8	【名】不満、不機嫌、立腹、不安
+disposable	8	【形】使い捨ての、簡単に処分できる
+disposal	7	【名】処分、除去、売却
+disproportionate	11	【形】不釣り合いな
+disquiet	10	【名】不穏、心配
+disregard	8	【名】無関心、軽視
+disrupt	8	【形】混乱した
+disruption	8	【名】分裂、混乱、崩壊
+disruptive	9	【形】破壊的な
+dissertation	12	【名】（博士）論文
+dissident	10	【名】批判者 【形】意見を異にする
+dissolution	8	【名】分解、解散、解除、解約
+dissonance	12	【名】不調和な音、不協和音、不和
+distal	12	【形】抹消部の、末端の
+distaste	9	【名】嫌悪、嫌気
+distracted	9	【形】気を散らされた、取り乱した
+distraction	8	【名】気を散らすこと、放心、注意散漫、動転
+distraught	11	【形】取り乱した、狂気の
+distress	5	【名】苦悩、悲嘆、苦痛
+distributor	7	【名】販売者、流通業者、分配
+distrust	6	【名】不信
+ditch	6	【名】みぞ、水路
+divergent	12	【形】不一致の、分岐している
+diversion	8	【名】気晴らし、娯楽、排水路、わきへそらせること、転換、けん制
+divinity	8	【名】神性、神々しさ、神
+divisional	10	【形】分割の、分ける、地区の
+dizzy	6	【形】目が回る、混乱した
+docile	12	【形】従順な、素直な
+dock	5	【名】埠頭、波止場
+doctorate	11	【名】博士号
+doctrine	7	【名】教義、信条、政策
+dodge	8	【名】巧妙な方策
+doe	11	【名】シカやヤギの雌
+dogged	11	【形】根気強い、容易に屈しない、頑固な
+dogma	9	【名】教義、定説、独断
+dogmatic	12	【形】独善的な、独断的な、教義上の
+doldrums	12	【名】ゆううつ、不振、赤道無風帯
+dolly	11	【名】手押し車、お人形さん、豆機関車 【形】魅力的な
+domicile	12	【名】居住地、定住所
+dominance	8	【名】支配、優勢、（遺伝子の）優性
+dominant	5	【形】支配的な、有力な、優勢な
+domination	8	【名】支配すること、優位を占めること
+dominion	10	【名】支配（権）、領地
+donor	8	【名】提供者、寄贈者
+doom	7	【名】運命
+doorstep	5	【名】戸口の踏み段
+dorm	5	【名】｟dormitoryの短縮形｠寮
+dormant	10	【形】眠っている、実施されていない
+dormitory	7	【名】寄宿舎
+doubtful	5	【形】疑問を抱かせる、疑わしい
+dough	8	【名】パン生地、生パン、金、現金
+dour	11	【形】気むずかしい、不機嫌な
+douse	12	【名】びしょ濡れ
+dove	5	【名】ハト、平和
+downcast	12	【形】意気消沈した、うつむいた
+downfall	9	【名】失墜、転落、降雨
+downstream	9	【形】流れに沿った、流れを下った 【名】下流
+drab	11	【名】売春婦、淡褐色 【形】さえない、淡褐色の
+dramatist	8	【名】劇作家、戯曲作者
+drape	11	【名】厚地のカーテン
+drawl	11	【名】ゆっくりした話ぶり
+drawn	6	【形】やつれた、緊張した
+dread	5	【名】心配
+dreamer	9	【名】夢を見る人、夢想家
+dreamy	7	【形】夢のような、夢を見る、すばらしい
+dreary	9	【形】わびしい、ものうい
+dredge	11	【名】浚渫（しゅんせつ）機
+drench	11	【名】水浸し
+dripping	10	【名】したたり、水滴 【形】ずぶ濡れの
+driveway	6	【名】（道路から自宅の車庫への）私道
+drizzle	12	【名】霧雨
+drone	5	【名】雄バチ、ドローン（無人飛行物体）
+droop	9	【名】垂下
+dropout	6	【名】脱落者、脱落、中退、中退者
+dropping	10	【名】落下、降下、しずく、糞
+drought	9	【名】日照り、干ばつ、欠乏
+drowsy	9	【形】眠たい、鈍い
+drudgery	12	【名】骨の折れる退屈な仕事、苦役
+drummer	10	【名】ドラマー、泥棒
+drunken	6	【形】酒に酔った、大酒飲みの
+dryer	5	【名】乾燥器、ドライヤー
+dual	10	【形】二重の、二元的な
+dubious	9	【形】怪しい、疑う、半信半疑の
+duchess	9	【名】公爵夫人、女
+duchy	12	【名】公爵領、公国
+duck	3	【名】カモ、アヒル
+duckling	10	【名】カモ（アヒル）の子
+duct	11	【名】ダクト、導管
+duke	6	【名】公爵、君主
+dullness	10	【名】のろいこと、鈍感
+dumb	4	【形】口のきけない、押し黙っている
+dummy	8	【名】模型、替え玉、マネキン、間抜け 【形】模造の、名義だけの
+dump	6	【名】ゴミ捨て場、ゴミの山
+dune	12	【名】砂丘
+dung	12	【名】糞、こやし、汚いもの
+duplicate	9	【名】複製
+durable	8	【形】耐久力のある、じょうぶな 【名】耐久消費財
+duration	7	【名】継続時間、連続
+dusk	7	【名】夕暮れ 【形】暮れかかった
+dusky	10	【形】薄暗い、陰うつな
+duster	10	【名】ふきん、ほこりを払う人・もの
+dutiful	9	【形】忠実な、本分を守る、礼儀正しい
+dwarf	6	【名】小人 【形】小さい
+dynamics	8	【名】力学、原動力
+dynasty	9	【名】王朝、支配者層
+earthen	12	【形】土で作った、陶製の、世俗の
+earthly	8	【形】地上の、地球の、俗界の
+earthworm	9	【名】ミミズ
+easygoing	7	【形】のんきな、安易な
+eccentric	7	【形】変わった 【名】変人
+eccentricity	8	【名】奇行、風変わり
+ecclesiastical	12	【形】教会の、聖職者に関する
+eclectic	11	【形】（趣味や意見が）幅広い、取捨選択する、折衷主義の
+eclipse	9	【名】食、光の消滅
+ecstatic	9	【形】われを忘れた、恍惚とした、熱狂的な
+eddy	12	【名】渦、反主流
+edible	7	【形】食用の、魅力的な 【名】食料品
+edifice	11	【名】大建造物、体系
+editorial	7	【名】社説、論説 【形】編集の
+eerie	10	【形】薄気味の悪い、異常な
+effervescent	12	【形】快活な、発泡性の
+efficacy	11	【名】有効性、効き目
+effortless	9	【形】努力を要しない、楽な
+egalitarian	12	【形】平等主義の 【名】平等主義者
+eggplant	6	【名】ナス
+egocentric	10	【形】自己中心的な 【名】自分本位な人
+elaboration	9	【名】入念に作り上げること、推敲
+elation	12	【名】上機嫌、意気揚々
+elective	5	【形】選挙で選ばれる、任意の
+electoral	8	【形】選挙（人）の
+electorate	10	【名】選挙民
+electrical	4	【形】電気の、電気に関する
+electrician	4	【名】電気技師
+electron	6	【名】電子
+electronic	4	【形】電子の
+elemental	9	【形】基本的な、まったく単純な、要素の
+elementary	5	【形】初歩の、簡単な
+elf	11	【名】いたずら者、小さな妖精
+eligibility	11	【名】被選挙権、適任性、被任命資格
+eligible	10	【形】選ばれるのにふさわしい
+eloquence	8	【名】雄弁、能弁、力強さ、巧みさ
+eloquent	7	【形】雄弁な、よく表している
+elusive	10	【形】手に入りにくい、とらえどころのない
+embargo	10	【名】通商停止、出入港の禁止命令
+embassy	5	【名】大使館、大使の職
+embroidery	12	【名】刺しゅう、話の誇張
+embryo	10	【名】胚、胎児
+embryonic	12	【形】初期の、未発達の、胚に関する
+eminence	10	【名】高貴、卓越、著名、枢機卿
+eminent	7	【形】著名な、地位の高い
+emissary	12	【名】使節、スパイ 【形】使者の
+emphatic	8	【形】強調された、強勢のある、明らかな
+empirical	10	【形】経験による、実地経験主義の
+empress	9	【名】女帝、皇后
+enactment	11	【名】法律の制定、法令、上演
+enclosure	7	【名】囲い地、包囲、同封
+endemic	11	【形】ある地方特有の、風土性の 【名】風土病
+endowment	8	【名】寄付、素質、基金、基本財産
+enforcement	7	【名】施行、実施、強制、主張
+engaged	4	【形】予約済みの、婚約中の
+engaging	7	【形】魅力のある、人を引きつける
+enmity	9	【名】憎しみ、恨み
+entitlement	10	【名】資格や権利をもつこと
+entity	8	【名】（実在する）もの、本質、実体
+entourage	11	【名】側近の人々、周囲
+entrepreneur	8	【名】企業家、請負人
+environs	12	【名】近郊、周辺地域、環境
+envoy	10	【名】使節、使者
+enzyme	10	【名】酵素
+epic	9	【形】叙事詩の、壮大な
+epidemic	8	【名】流行 【形】流行性の、広まっている
+epilepsy	12	【名】てんかん
+epitaph	11	【名】墓碑銘、追悼詩文、碑文体の詩文
+epoch	7	【名】時代、時期、新時代
+equality	5	【名】平等
+equation	6	【名】方程式、平均化
+equestrian	12	【形】馬術の 【名】乗馬者
+equilibrium	8	【名】つり合い、平静、落ち着き
+equity	8	【名】公平さ、公明正大、無私無欲
+equivalent	6	【形】同等の、（～に）相当する 【名】同等のもの
+erect	5	【形】直立した、垂直の
+erection	10	【名】建設、直立、起立
+erosion	10	【名】浸食、腐食、侵害
+errand	5	【名】使い、用足し
+erratic	10	【形】とっぴな、常軌を逸した
+erroneous	9	【形】間違った、誤りのある
+eruption	8	【名】発生、爆発、発疹
+escapade	12	【名】いたずら、とっぴな行為、脱出
+esophagus	12	【名】食道
+esoteric	12	【形】難解な、深遠な、秘密の
+espionage	11	【名】スパイ行為、偵察
+eternity	8	【名】永遠、無限
+ethereal	11	【形】霊妙な、軽やかな、極めて優美な
+ethic	9	【名】倫理、道徳
+ethos	11	【名】精神、気風、風潮、道徳的規範
+etiquette	8	【名】礼儀、エチケット、交際法
+euphemism	11	【名】婉曲語句、婉曲語法
+euphoria	11	【名】強い高揚感、幸福感
+euthanasia	11	【名】安楽死
+evangelical	11	【形】福音（主義）の 【名】福音主義者（E_）
+evangelist	11	【名】伝道者、福音を説く人、主義の熱烈な支持者
+evasion	11	【名】逃れること
+evasive	11	【形】責任逃れの、回避的な、捕えがたい
+eventful	9	【形】出来事の多い、波乱に富んだ、重大な結果をもたらす
+eventual	7	【形】結果として生ずる、究極的な
+evergreen	9	【形】常緑の、いつまでも新鮮な
+everlasting	6	【形】永遠の、不朽の 【名】永続
+eviction	12	【名】立ち退き、取り戻し
+evolutionary	9	【形】進化の、進化論による
+ewe	12	【名】成長した雌羊
+exacting	11	【形】骨の折れる、厳しい
+exceeding	9	【形】過度の、非常な、異常な
+exceptional	6	【形】例外的な、普通でない、優秀な
+excerpt	9	【名】抜粋、引用
+exchequer	12	【名】財務、資金、国庫
+exclamation	7	【名】感嘆の声、感嘆文
+execution	7	【名】死刑執行、遂行、できばえ
+executive	5	【名】経営幹部、重役、行政官
+exemplar	12	【名】手本、典型、代表例
+exempt	9	【形】免除されている
+exemption	9	【名】控除、免除（品）
+exertion	9	【名】激しい活動、骨折り、行使
+exile	7	【名】国外追放、亡命
+exorbitant	12	【形】法外な、過度の
+expatriate	11	【名】国外追放者 【形】国外居住の
+expectancy	10	【名】期待、予想、見込み
+expectant	10	【形】期待をもった、見込みのある、妊娠中の
+expedient	12	【形】目的にかなった、都合がよい、功利主義的な
+expedition	5	【名】探検、遠征
+expenditure	7	【名】支出、経費、支払い
+explicit	5	【形】明快な、あからさまの、露骨な
+explosive	6	【形】爆発性の、強烈な、激情的な
+exponent	12	【名】提唱者、解説者
+exporter	6	【名】輸出業者、輸出国
+exposition	10	【名】展示会、解説
+expulsion	10	【名】除名、追放
+exquisite	7	【形】非常に美しい、申し分のない、洗練された
+extant	12	【形】現存の
+extemporaneous	12	【形】突発的な、即興的な
+extradition	11	【名】逃亡犯人の送還
+extremist	11	【名】過激主義者、極端論者 【形】過激主義的な
+eyesight	7	【名】視力、視覚
+eyewitness	8	【名】目撃者
+fable	6	【名】寓話
+facade	10	【名】うわべ、正面
+facet	10	【名】宝石などの小平面、様相
+facetious	12	【形】冗談で言った、おかしな、軽薄な
+facile	10	【形】軽快な、手軽な、容易な
+faculty	6	【名】能力、機能、学部、学部の全教員
+fad	8	【名】一時的流行、～熱、流行のもの、気むずかしさ
+faint	4	【形】ぼんやりした、かすかな
+faith	3	【名】信頼、自信、信条
+faithless	9	【形】忠実でない、信仰心のない、当てにならない
+fallacy	12	【名】間違った考え、誤った議論
+falsehood	7	【名】うそ
+fan	2	【名】ファン、扇
+farce	11	【名】茶番、笑劇
+fare	2	【名】乗車料金、料理
+farewell	5	【名】別れのことば 【間】さようなら
+farmhouse	5	【名】農場内の家屋、農家
+farmland	6	【名】農地、耕地
+farmyard	11	【名】農家の庭
+fatality	8	【名】災害、災難、死亡者、運命
+fateful	10	【形】運命を決する、破滅的な、宿命的な
+fatherland	9	【名】祖国
+fatty	10	【形】脂肪の、油っこい 【名】でぶ
+fauna	12	【名】動物相、動物誌
+fearless	6	【形】勇敢な、大胆不敵な
+ferment	11	【名】発酵、興奮、政治的動揺
+fern	12	【名】シダ
+ferocious	10	【形】恐ろしい、凶暴な、猛烈な
+ferocity	11	【名】狂暴性、残忍な行為
+fertile	5	【形】肥えた、肥沃な
+fertility	8	【名】肥沃、多産、生産力、受胎能力
+festive	8	【形】祝祭の、祭日の、はなやいだ
+festivity	8	【名】祝祭、行事、にぎわい
+fetus	11	【名】胎児
+feud	11	【名】確執、不和
+feudal	9	【形】封建制度の、封建的な
+feudalism	10	【名】封建主義
+fiat	11	【名】許可、法令、命令
+fickle	11	【形】移り気の、変わりやすい
+fiddle	11	【名】フィドル
+fidelity	10	【名】厳守、忠誠、貞節
+fiduciary	11	【形】信用状の、信託の 【名】受託者
+fiend	12	【名】悪魔のような人、魔神、熱狂者
+fig	7	【名】イチジク、ささいな量
+figurative	10	【形】比ゆ的な、文字どおりでない
+filial	12	【形】子の、子にふさわしい、（親に対して）子の関係の
+fillet	8	【名】骨のない切り身、開き身、ヒレ
+filling	8	【名】中身、詰め物 【形】腹をいっぱいにする
+filth	12	【名】ゴミ、道徳的腐敗、堕落
+filthy	8	【形】汚れた、不潔な、下品な、たくさんある、非常に
+fin	7	【名】ヒレ、魚類
+financier	11	【名】資本家、財務官
+finery	12	【名】美しい服、はでやかなもの
+fingernail	8	【名】指のつめ、丸かっこ
+fingerprint	7	【名】指紋
+fingertip	9	【名】指先、指サック
+fir	12	【名】モミ
+firing	10	【名】発砲、点火
+fishy	9	【形】魚くさい、疑わしい
+fission	12	【名】分裂、分体
+fitful	12	【形】断続的な、発作的な、気まぐれな
+fixing	10	【名】添えもの、固定、修理
+fixture	9	【名】備品、定着物、居座った人
+flail	12	【名】殻ざお
+flair	9	【名】才能、コツ、勘
+flake	7	【名】破片、ひとひら
+flamboyant	11	【形】きらびやかな、けばけばしい、大げさな
+flashing	9	【名】閃光、雨押さえ、水切り、放水
+flea	9	【名】ノミ、くだらないやつ
+fledgling	11	【形】駆け出しの 【名】巣立ちしたばかりのひな鳥、未熟者
+fleece	12	【名】ヒツジの毛 、フリース地の衣服
+flesh	4	【名】肉
+flick	10	【名】軽く打つこと、ビシッという音
+flicker	10	【名】揺らめく炎・光
+flint	10	【名】火打ち石
+flip	7	【名】ひと飛び、宙返り
+flippant	12	【形】ぶしつけな、軽薄な
+flirtation	11	【名】戯れの恋、浮気、いいかげんな手出し
+flit	12	【名】軽快な動き
+floppy	10	【形】柔軟な、ばたつきやすい、意気地のない
+flora	12	【名】植物相、植生、植物誌
+fluff	12	【名】綿毛、軽薄でつまらないもの
+fluke	11	【名】まぐれ、思わぬ幸運
+fluorescent	11	【形】蛍光性の、鮮やかな 【名】蛍光灯
+fluoride	12	【名】フッ化物
+flurry	11	【名】株価の一時的波乱、突風、突然の混乱
+flutter	6	【名】羽ばたき、はためき
+flux	11	【名】不安定さ、流動、氾濫
+focal	10	【形】焦点の、重要な
+fodder	11	【名】おきまりの素材、間に合わせ、飼い葉
+foggy	5	【形】霧の深い、ぼんやりした、はっきりしない
+foil	8	【名】金属の薄片、金属裏張り
+foliage	12	【名】葉、枝葉、（絵画などの）葉（花、枝）飾り
+folklore	7	【名】民間伝承
+folly	6	【名】愚かなこと、愚劣
+footage	11	【名】映画やテレビの場面、フィート数、全長
+footing	11	【名】確固たる地歩、立場、足場
+footpath	7	【名】小道
+footprint	5	【名】足跡
+footstep	5	【名】足跡、足音、歩み、階段
+forage	12	【名】飼料、まぐさ
+forcible	9	【形】力ずくの、力強い、効果的な
+forcing	11	【名】促成栽培、強制、促成
+forearm	9	【名】前腕
+forefather	10	【名】先祖
+forefinger	9	【名】人さし指、食指
+forefront	8	【名】最前部、最前線
+foreground	9	【名】最前面、最も目立つ位置
+forehead	5	【名】額、前額部
+foreman	11	【名】工事現場の監督、作業長、陪審長
+forestry	8	【名】林業、林学、森林管理、森林地
+forgery	12	【名】（文書）偽造、捏造
+forlorn	11	【形】わびしい、見捨てられた、絶望の
+formality	6	【名】形式的であること、頑固、きちょうめんさ
+forte	12	【名】強み 【形】強音の
+forthcoming	7	【形】来たるべき、用意された
+foster	6	【形】里親の
+founder	4	【名】創始者
+foundry	12	【名】鋳物工場、鋳物造り
+fowl	6	【名】家禽（かきん）、鳥類
+fox	1	【名】キツネ、ずる賢い人
+foyer	12	【名】休憩室、玄関
+fraction	6	【名】分数、比、ごく少量
+fracture	10	【名】骨折、割れ目
+fragment	6	【名】破片
+fragmentary	10	【形】断片からなる
+fragmentation	11	【名】分裂、崩壊、フラグメンテーション
+frantic	8	【形】取り乱した、半狂乱の、すごい
+fraternal	11	【形】兄弟のような、友愛（会）の
+fraternity	10	【名】男子学生友愛会、兄弟関係
+fraudulent	11	【形】詐欺的な、不正直な
+fraught	10	【形】困難な、伴う、満ちた
+fray	10	【名】けんか、争い
+freight	7	【名】貨物
+frenzy	10	【名】熱狂、激高
+freshman	5	【名】新入生、1年生、未経験者、新人
+freshwater	10	【形】真水の、淡水の
+friar	12	【名】修道士
+friction	7	【名】摩擦、衝突
+friendliness	8	【名】友好的であること、親切
+fright	7	【名】恐怖、ぞっとさせるような人・もの
+frightening	5	【形】恐ろしい、ぞっとするような
+frightful	7	【形】恐ろしい、ものすごい、不愉快な
+frigid	11	【形】ひどく寒い、温かみのない
+frill	10	【名】フリル
+fringe	7	【名】ふさ飾り、へり、末端 【形】二次的な、狂信的な
+frock	12	【名】女性用ドレス、ゆったりした上っぱり、修道服
+frolic	11	【名】お祭り騒ぎ
+frost	7	【名】霜
+frosty	10	【形】霜の降りた、凍るような、白い
+froth	12	【名】ビールの泡、唾液の泡、空疎なもの
+frown	5	【名】むずかしい顔つき
+frugal	9	【形】つましい、費用のかからない
+fudge	12	【名】でっち上げ
+fullness	8	【名】充満、充足、十分、ふくよかさ
+fume	10	【名】ガス、におい
+functionary	12	【名】役人、職員
+fungus	10	【名】真菌、カビ
+funk	11	【名】落ち込み、憶病、ポップアート
+funnel	11	【名】じょうご
+furlough	12	【名】軍人の休暇、一時的解雇
+furnace	7	【名】かまど、ひどく暑い場所
+furor	11	【名】騒動、熱狂(的大流行)
+furrow	11	【名】深いしわ、溝
+furtive	12	【形】こそこそした、人目を盗んだ
+fury	7	【名】激怒、激しさ
+futility	12	【名】無益、無用、くだらないもの
+fuzzy	6	【形】ぼやけた、けば状の、縮んだ
+gale	8	【名】強風
+gall	11	【名】ずうずうしさ、すり傷
+gallant	10	【形】勇ましい、堂々とした、親切な
+galley	12	【名】船や飛行機の調理室、ガレー船
+gallop	9	【名】疾走、ギャロップ
+gape	10	【名】ぼう然としていること
+garish	12	【形】けばけばしい、凝りすぎた
+garland	11	【名】花飾り、花冠、栄誉
+garnish	12	【名】付け合わせ
+garrison	11	【名】駐屯地、守備隊
+gasp	6	【名】あえぎ、息切れ
+gastric	10	【形】胃の
+gathering	6	【名】集会、集めること
+gauge	8	【名】計測器、ゲージ
+gauntlet	11	【名】甲冑のこて、バイク・フェンシング用の長手袋、苦しい状況
+gem	6	【名】宝石、逸品
+genealogy	11	【名】家系、血統、系図学
+genial	10	【形】親切な、温暖な
+genital	11	【名】生殖器（～s） 【形】生殖の、生殖器の
+genteel	11	【形】上流社会の、優雅な、上品ぶった
+gentile	12	【名】（ユダヤ人にとっての）キリスト教徒・異教徒 【形】非ユダヤ人の、異教徒の
+genus	12	【名】属、種類
+geological	9	【形】地質学の
+geology	7	【名】地質学
+germ	9	【名】細菌、病原菌、芽生え 【形】病原菌の
+ghetto	11	【名】スラム街
+giddy	11	【形】めまいがする、目の回るような
+gifted	9	【形】優れた才能に恵まれた
+giggle	7	【名】おもしろい人、ジョーク
+gill	12	【名】魚のえら（～s）
+gilt	12	【形】金めっきした 【名】金ぱく
+gist	12	【名】要点、主旨
+glacial	12	【形】氷の、氷河期の、冷たい
+glacier	7	【名】氷河
+glamour	10	【名】素晴らしい刺激、うっとりするような魅力、魔法
+gland	10	【名】腺
+glaze	8	【名】表面のつや、雨氷
+gleam	8	【名】輝き、閃光
+glee	11	【名】歓喜、ほくそ笑むこと
+glib	11	【形】軽薄な、ペラペラよくしゃべる
+glimmer	11	【名】かすかな光、わずかな兆し
+glimpse	6	【名】ちらっと見ること、一目
+glint	12	【名】輝き、閃光
+glisten	9	【名】きらめき
+glitter	6	【名】きらびやかさ
+gloat	11	【名】満悦
+gloom	8	【名】暗闇、薄暗さ、ゆううつ
+gloomy	5	【形】暗い、ゆううつにする
+gloss	10	【名】光沢、見せかけ
+glossary	10	【名】用語解説
+glossy	10	【形】光沢のある、もっともらしい 【名】高級雑誌
+glowing	11	【形】燃えたつような、ほてった、熱烈な、生き生きした
+glucose	12	【名】ブドウ糖、グルコース
+glum	11	【形】落胆した、陰気な、不機嫌な
+glut	11	【名】供給過剰
+glutton	12	【名】大食家、凝り屋
+goad	11	【名】刺激
+goblin	12	【名】悪鬼、小鬼
+goldfish	7	【名】金魚
+goldsmith	11	【名】金細工人
+goodwill	8	【名】親切、善意、信用、ひいき
+goody	11	【間】すごいぞ 【名】うまいもの、楽しませるもの
+gorge	9	【名】峡谷、腹いっぱいの食事
+gouge	11	【名】刃の丸いのみ、詐欺
+grace	3	【名】品のよさ、恩恵
+gracious	7	【形】親切な、やさしい、上品な
+grader	8	【名】採点者、地ならし機
+gradual	4	【形】漸進的な
+graduation	5	【名】卒業式、卒業
+graft	11	【名】接ぎ木、不正利得
+grammatical	6	【形】文法の、文法的に正しい
+grandeur	9	【名】偉大さ、威厳、壮大さ
+grandiose	11	【形】壮大な、大げさな
+granite	10	【名】花崗（かこう）岩、堅固なもの
+grapple	11	【名】引っ掛けかぎ
+grasshopper	9	【名】キリギリス・バッタ・イナゴなどの総称
+grate	12	【名】鉄格子
+gratuitous	12	【形】根拠のない、無料の、無報酬の
+gratuity	12	【名】チップ、心づけ
+gravel	9	【名】砂利
+gravy	9	【名】グレービーソース、肉汁、楽に得た金
+grease	7	【名】グリース、潤滑油
+greasy	10	【形】油っこい、お世辞たらたらの
+greatness	6	【名】偉大さ、広大さ、重要さ
+grief	4	【名】深い苦悩、嘆き
+grievance	10	【名】不平のもと
+grim	5	【形】気味の悪い、恐ろしい、厳格な
+grimace	10	【名】しかめっつら
+groan	5	【名】うめき声
+groin	12	【名】脚のつけ根、防波堤
+groom	7	【名】新郎、馬手
+groove	10	【名】溝、慣例、楽しく愉快なこと
+grope	11	【名】手探り
+groundless	10	【形】根拠のない、事実無根の
+groundwork	8	【名】下地、基礎（工事）、背景
+grouse	11	【名】不平
+grubby	12	【形】薄汚い、卑しい
+grudge	11	【名】恨み
+grudging	11	【形】いやいやの、けちけちした
+grumble	7	【名】不平、不満
+grunt	11	【名】不平、不満
+guerrilla	8	【名】ゲリラ兵 【形】ゲリラ兵の
+guise	11	【名】見せかけ、外観、口実
+gulf	4	【名】湾、深い穴
+gully	12	【名】小峡谷、雨裂、溝
+gulp	8	【名】ゴクゴク飲むこと
+gush	10	【名】ほとばしり、噴出
+gust	9	【名】一陣の風、突風、噴出
+gusto	12	【名】心からの楽しみ、好み、飲食物の賞味
+gutter	9	【名】溝、貧民街、どん底の生活
+gymnasium	8	【名】体育館、屋内競技場
+gymnastics	10	【名】体操、体育、知的訓練
+hackneyed	12	【形】使い古された、陳腐な
+haggard	12	【形】やつれた、狂暴な目つきの
+hairy	7	【形】毛深い、毛で覆われた、困難な
+hale	10	【形】元気がよい、強健な
+halo	11	【名】太陽や月の暈（かさ）、後光、神々しさ
+handcuff	11	【名】手錠（～s）
+handiwork	10	【名】手仕事、手工品、方法
+handling	5	【名】取り扱い、手で触れること
+handout	7	【名】資料、サンプル、ビラ、印刷物
+hangar	12	【名】格納庫、大きな納屋
+hapless	11	【形】不幸な、不運な
+hare	7	【名】野ウサギ
+harness	9	【名】馬車馬の引き具
+harrow	12	【名】馬鍬（まぐわ）
+harrowing	11	【形】悲惨な、つらい
+hatchet	12	【名】手おの
+hateful	8	【形】憎らしい、不愉快な
+hatred	4	【名】強い嫌悪
+haughty	10	【形】横柄な、高慢な
+haunted	10	【形】幽霊のよく出る、とりつかれた
+haze	9	【名】もや、かすみ
+hazelnut	8	【名】ハシバミの実、ヘーゼルナッツ
+hazy	9	【形】かすみがかった、ぼんやりした
+headmaster	6	【名】校長
+headteacher	10	【名】（英）校長（= principal）
+hearsay	12	【名】うわさ、風聞 【形】聞き伝えの
+hearth	7	【名】暖炉、いろり、炉辺
+heartless	10	【形】無情な、つれない、残酷な
+hearty	7	【形】心からの、心の温かい、豊富な
+heath	9	【名】荒野、ヒース
+heather	11	【名】種々のヒースの総称 【形】ヒースの、（織物が）多色混合の
+heavyweight	8	【形】ヘビー級の、目方の重い 【名】有力者
+hectic	9	【形】てんてこ舞いの、ひどく興奮した、消耗性の
+hedgehog	12	【名】ハリネズミ、怒りっぽく意地悪な人
+hegemony	11	【名】主導権、優位
+heiress	9	【名】女子相続人
+helm	10	【名】舵、支配
+hem	12	【名】すそ
+hemorrhage	12	【名】国外流出、出血、損失
+hepatitis	11	【名】肝臓炎
+herald	9	【名】王の使者、予兆
+herd	5	【名】群れ、民衆
+heresy	11	【名】異説、異論、異端
+heretic	12	【名】異端者、異教徒
+hermit	12	【名】隠者、宗教的隠遁者
+herring	9	【名】ニシン
+heterosexual	11	【名】異性愛の人 【形】異性愛の、異性の
+hiccup	12	【名】しゃっくり、ちょっとした問題
+hideous	10	【形】恐ろしい、いまわしい
+highland	6	【名】高地、台地、山岳地方
+highness	9	【名】高いこと、殿下
+hilarious	11	【形】とてもおかしい、陽気な
+hillside	4	【名】丘の中腹、丘陵の斜面
+hilly	6	【形】小山の多い、小高い、けわしい
+hindrance	7	【名】じゃま、妨害する人
+hippopotamus	5	【名】カバ｟短縮形：hippo｠
+hiss	7	【名】シューという音
+hitch	8	【名】つなぐこと、結び目
+hive	7	【名】ハチの巣
+hoarse	12	【形】しわがれ声の、ハスキーな、耳ざわりな音を出す
+hoax	11	【名】悪ふざけ、人をかつぐこと
+hoe	9	【名】西洋くわ
+hog	10	【名】ブタ、利己的なやつ
+hoist	12	【名】引き上げ
+holistic	10	【形】全体論的な、総体的な
+holly	9	【名】モチノキ、ヒイラギ
+holocaust	9	【名】大破壊、大虐殺、ユダヤ人大虐殺
+homecoming	7	【名】同窓会、帰郷
+homely	10	【形】不器量な、やぼったい、家庭的な
+homestead	10	【名】農家、家屋敷、家と敷地
+homicide	8	【名】殺人（罪）、殺人犯
+homogeneous	12	【形】同種の、均質の
+hone	11	【名】かみそり用の砥石
+honk	9	【名】警笛の音、ガンの鳴き声
+hoof	9	【名】ひづめ
+hoop	8	【名】（金属・木などの）輪、たが
+hoot	9	【名】フクロウの鳴き声、叫び声
+horde	11	【名】大群、多数
+horseshoe	9	【名】馬てい 【形】馬てい形の
+hospice	9	【名】宿泊所、ホスピス
+hospitable	9	【形】温かくもてなす、適した
+hostile	6	【形】敵意をもった、対立する、敵の
+hostility	6	【名】敵意、対立、反対
+hound	7	【名】猟犬、熱中者
+housekeeper	5	【名】家政婦、家事をする人
+housekeeping	5	【名】家事、家計費、日常業務
+hulk	11	【名】建物や乗物の残がい、ばかでかいもの
+hum	6	【名】ブンブンという音、鼻歌
+humane	9	【形】人間味のある、人道的な
+humble	6	【形】謙虚な
+humdrum	12	【名】単調さ、退屈な話 【形】単調な
+humidity	8	【名】湿気、湿度
+humility	7	【名】謙そん、卑下、屈辱
+hump	11	【名】こぶ
+hurrah	8	【間】フレー、万歳
+hurtle	11	【名】衝突
+hut	4	【名】小屋
+hydrogen	7	【名】水素
+hygiene	9	【名】衛生状態、健康法、衛生学
+hype	10	【名】詐欺、誇大広告
+hyperbole	11	【名】誇張
+hypertension	11	【名】過度の緊張、高血圧
+hypnosis	12	【名】催眠状態、夢幻状態
+hypocrisy	8	【名】偽善、見せかけ、猫かぶり
+hypocrite	9	【名】偽善者、猫かぶり
+hysteria	10	【名】興奮状態、ヒステリー
+hysterical	8	【形】ヒステリックな、狂乱の、ヒステリー症の
+iceberg	10	【名】氷山
+idiosyncratic	11	【形】特有の
+idyllic	11	【形】牧歌的な、のどかな
+ignition	8	【名】発火、燃焼、点火（装置）
+ignoble	12	【形】下品な、卑しい
+illegitimate	9	【形】非嫡出の、私生の、規則違反の 【名】私生児
+illicit	11	【形】不法の、禁制の、道徳的に認められない
+illogical	9	【形】非論理的な、筋の通らない、ばかげた
+illustrious	12	【形】傑出した、輝かしい
+imagery	8	【名】比ゆ的描写、心像
+imbalance	8	【名】不安定、不釣り合い、平衡失調
+immaterial	12	【形】無関係な、重要でない、非物質的な
+immature	6	【形】未熟な、未完成の
+immeasurable	9	【形】計れない、計り知れない
+immemorial	12	【形】遠い昔の、有史以前の
+immoral	8	【形】不道徳な、ふしだらな
+immortal	6	【形】不滅の、不死身の 【名】不死の人
+immortality	8	【名】不死、不朽（の名声）
+immovable	10	【形】動かせない、変化しない
+immune	9	【形】免疫の、免除された
+immunity	9	【名】免疫、免除、免責
+impasse	11	【名】行き詰まり
+impassive	12	【形】冷静な、無感動の
+impatience	6	【名】短気、切望
+impatient	5	【形】我慢できない、耐えられない、せっかちな
+impending	10	【形】切迫した、今にも起こる
+imperative	10	【形】必須の、急を要する、命令的な 【名】緊急になすべきこと
+impersonal	8	【形】人間味のない、人格をもたない、個人に関係ない
+impertinent	12	【形】ずうずうしい、無作法な、無関係な
+impervious	12	【形】影響されない、不浸透性の、感じない
+implacable	11	【形】執念深い、なだめられない、無慈悲な
+implied	8	【形】暗黙の、言外の
+impolite	6	【形】無礼な
+imposition	11	【名】義務を課すること、負担、つけ込むこと
+impotent	9	【形】無力な、虚弱な、性交不能の
+impoverished	11	【形】貧窮化した、力を失った、さえない
+impractical	8	【形】実用的でない、実践力のない、実行不可能な
+imprint	8	【名】印、跡、印象
+imprisonment	7	【名】投獄、禁固、拘束
+improbable	8	【形】起こりそうにもない、本当らしくない
+imprudent	9	【形】軽率な、無分別な
+impulsive	8	【形】衝動的な
+impunity	11	【名】無事、刑罰を免れること
+inadvertent	12	【形】故意でない、不注意な
+inaugural	10	【形】就任の、最初の 【名】就任演説
+inauguration	10	【名】就任（式）、発会、開業、除幕
+incandescent	12	【形】光り輝く、素晴らしい、熱烈な、白熱灯の
+incarnation	11	【名】化身、肉体化
+incendiary	11	【形】火をつけるのに用いる、放火の 【名】焼夷弾
+incense	10	【名】香、芳香、尊敬
+incentive	7	【名】動機、誘因 【形】刺激的な
+inception	12	【名】始まり
+incessant	11	【形】絶え間のない
+incest	11	【名】近親相姦
+incinerator	12	【名】焼却炉、火葬炉
+incoherent	9	【形】つじつまの合わない、まとまりのない
+incomparable	10	【形】比類のない、ずば抜けた
+incompatible	9	【形】互換性のない、気が合わない、両立しない
+incomprehensible	8	【形】理解しがたい、不可解な
+inconceivable	9	【形】信じられない、想像もできない
+inconclusive	9	【形】決定的でない、結論の出ない
+incongruity	12	【名】不一致、不釣り合い、不調和なもの
+incongruous	12	【形】つじつまの合わない、不適当な、不調和な
+inconsistency	9	【名】矛盾、不一致
+inconsistent	8	【形】調和の欠けている、食い違っている、矛盾する、一貫しない
+inconvenience	7	【名】不便、不自由、迷惑
+inconvenient	7	【形】不便な、不自由な、都合の悪い
+incorporated	8	【形】法人組織の、有限責任の、併合した
+incorrect	6	【形】間違いの、事実に反する
+incredible	5	【形】驚くべき、信じられない
+incredulous	12	【形】疑うような、容易に信じない
+incremental	10	【形】増加分の、増量の
+incumbent	10	【形】現職の、責務である
+indecent	9	【形】不作法な、下品な、わいせつな
+indefinite	10	【形】無期限の、不明確な
+indelible	11	【形】消すことのできない
+indemnity	12	【名】賠償、保護
+indigenous	10	【形】固有の、生まれながらの
+indigestion	10	【名】消化不良、胃弱、未熟
+indignity	9	【名】侮辱、冷遇
+indirect	5	【形】間接的な、遠回しの
+indispensable	7	【形】必須の、無視できない
+indolent	12	【形】怠惰な、（腫瘍が）痛みを伴わない
+inducement	10	【名】誘因、動機、促すもの
+induction	12	【名】徴兵、就任、誘発、帰納的結論
+indulgent	9	【形】寛大な、大目に見る、甘い
+industrious	5	【形】勤勉な、熱心な
+ineligible	12	【形】資格のない、不適当な 【名】不適格者
+inequality	8	【名】不平等、不均衡、不公平、平らでないこと
+inert	12	【形】不活性の、自力で運動できない、のろまな
+inertia	10	【名】慣性、不活発
+inescapable	9	【形】免れ得ない、回避できない
+inexorable	11	【形】容赦しない、不変の
+inexpensive	6	【形】安価な、費用のかからない
+inexplicable	9	【形】不可解な、説明がつかない
+infallible	12	【形】絶対確実な、けっして誤らない
+infantry	10	【名】歩兵（隊）
+infatuation	12	【名】夢中になっている状態、夢中にさせるもの
+inferiority	8	【名】劣っていること、粗悪、下級
+inflation	5	【名】インフレーション、膨張
+influential	5	【形】大きな影響を与える、動機となる
+influx	10	【名】流入
+informant	11	【名】情報提供者
+infrared	11	【形】赤外線の 【名】スペクトルの赤外部
+infringement	11	【名】侵害、違反
+infusion	11	【名】注入、煎じて出すこと
+ingenious	7	【形】独創性のある、巧妙な
+ingenuity	9	【名】発明の才、工夫、巧妙さ
+ingratitude	10	【名】恩知らず
+inhabitant	5	【名】居住者、ある場所に住む人
+inherent	7	【形】生まれつきの、本来備わっている、固有の
+inhibition	10	【名】抑制、抑圧、妨害
+inhuman	9	【形】冷酷な、非人間的な
+iniquity	12	【名】不法行為、悪行
+initiation	8	【名】加入、入会、入社、儀式
+initiative	6	【名】開始、先制、指導力、イニシアチブ 【形】率先の、手始めの
+injection	7	【名】注射、注入
+injunction	11	【名】差し止め命令、勧告すること
+injurious	10	【形】有害な、傷つける、無礼な
+injustice	7	【名】不公平、不正、不法
+inlaid	12	【形】模様を表面にはめ込んだ、象眼装飾した
+inlet	12	【名】入り江、小海峡、注入口
+innkeeper	8	【名】宿屋・居酒屋の主人
+innocuous	11	【形】当たり障りのない、無害の、無毒の
+innuendo	12	【名】当てつけ、暗示
+innumerable	7	【形】数えきれないほどの
+inoculation	11	【名】予防接種、感化
+inquisitive	12	【形】探求的な、詮索好きの
+insatiable	11	【形】飽くことを知らない、強欲な
+inscription	8	【名】記されたもの、題辞、記すこと、記入
+insecticide	12	【名】殺虫剤
+insecure	9	【形】不安な、安全でない、心もとない
+insecurity	9	【名】不安感、不安定、頼りなさ
+insensitive	9	【形】鈍感な、無神経な、無感覚な
+inseparable	8	【形】分離できない 【名】分けることのできないもの
+insider	5	【名】部内者、事情通
+insidious	11	【形】こっそり企まれた、知らない間に作用する、油断のならない
+insincere	9	【形】不誠実な、本心を表していない、偽りの
+insipid	12	【形】退屈な、おもしろくない、風味がない
+insistent	6	【形】固執する、しつこい
+insolvent	11	【形】一文無しの、支払い不能の 【名】破産者
+insomnia	12	【名】不眠症
+instability	10	【名】不安定な性質、変わりやすさ
+installment	10	【名】ローンの1回分の支払い、連続ものの1回分
+instantaneous	9	【形】瞬間的な、即座の
+institutional	6	【形】制度の、制度化した、協会の、機関が行う
+instrumental	6	【形】手段となる、役立つ、楽器の
+insular	12	【形】孤立した、島の、偏狭な 【名】島民
+insulation	12	【名】断熱材、絶縁、防音、隔離
+insulting	7	【形】侮辱的な、無礼な
+insurgent	11	【名】暴徒、反乱者 【形】反乱を起こした
+insurmountable	12	【形】打ち勝つことができない
+intact	7	【形】損なわれていない、完全な、変わっていない
+intake	7	【名】取り入れ、吸い込み
+intangible	12	【形】漠然とした、触れることのできない、不可解な
+integral	8	【形】不可欠の、肝要な、完全な 【名】全体、総体
+integrated	8	【形】統合された、差別をしない、平等の
+integration	8	【名】統合、集大成、調和、積分、人種差別の撤廃
+integrity	8	【名】正直さ、誠実さ、完全な状態
+intellect	6	【名】知性、思考力
+intellectual	4	【形】知的な、知力の
+intelligible	7	【形】わかりやすい、理解しやすい、明瞭な
+intended	6	【形】意図された、わざと行われた、故意の、予定された
+intentional	7	【形】意図的な、意識的な
+interchange	8	【名】インターチェンジ
+intercourse	8	【名】交わり、交際
+interdisciplinary	12	【形】学際的な、異なった学問分野にまたがる
+intermediary	10	【形】中間の 【名】仲裁者、媒介
+interminable	12	【形】飽きるほど長い、終わりのない
+interrogation	10	【名】尋問
+intersection	7	【名】交差点、交差すること
+interviewee	9	【名】面接を受ける人、インタビューされる人
+interviewer	5	【名】訪問記者、インタビュアー、面接担当者
+intimacy	8	【名】親密、親交、詳細な知識
+intolerable	8	【形】耐えられない、たいへんな
+intolerance	9	【名】不寛容、耐えられないこと
+intolerant	9	【形】寛容でない、偏狭な、我慢できない
+intoxication	12	【名】酔った状態、陶酔
+intractable	11	【形】手に負えない、頑固な 【名】頑固者
+intravenous	11	【形】静脈内の、静脈注射の 【名】静脈注射
+intrepid	11	【形】恐れを知らぬ、大胆不敵な
+intricacy	9	【名】複雑さ、込み入っていること、入り組んだもの
+intriguing	10	【形】興味をそそられる、陰謀を企む
+intrinsic	9	【形】本来備わっている、固有の、本質的な
+introspection	12	【名】内省、内省的性質
+introspective	11	【形】内省的な
+intuition	8	【名】直感、直覚、直観的真実
+intuitive	9	【形】直感的に認識する、直感力のある
+invaluable	8	【形】計り知れないほど貴重な
+invariable	10	【形】変えられない、不変の 【名】不変のもの、定数
+inventory	9	【名】目録、在庫品一覧、棚卸し
+invincible	10	【形】無敵の、征服できない
+invoice	8	【名】請求明細書、送り状、仕入れ書
+involuntary	8	【形】無意識の、何気なしの、不本意の
+iris	12	【名】眼球の虹彩、アイリス、アヤメ
+irksome	12	【形】やっかいな、イライラするような
+irrational	8	【形】不合理な、分別のない
+irredeemable	12	【形】取り返しのつかない、救いがたい
+irrelevance	9	【名】不適切、的はずれ、筋違い
+irrelevant	8	【形】関係のない、不適切な、見当違いの
+irresistible	9	【形】非常に魅力的な、抵抗できない
+irresponsible	6	【形】無責任な、信頼できない 【名】責任のない人
+irrevocable	12	【形】取り返しがつかない、呼び戻せない、廃止できない
+irrigation	9	【名】灌漑、注水、洗浄
+isle	6	【名】島
+itinerant	12	【形】渡り労働の、巡回する、移動式の 【名】遊歴者、旅芸人
+itinerary	7	【名】旅行日程、旅行記 【形】旅行の
+ivy	8	【名】セイヨウキヅタ、ツタ
+jab	11	【名】鋭い突き
+jack	9	【名】ジャッキ、起重機、（トランプの）ジャック
+jackpot	9	【名】特賞、大成功 【形】大当たりの
+jagged	11	【形】ギザギザの、耳ざわりな、荒削りの
+jam	1	【名】ジャム、混雑
+janitor	9	【名】用務員、管理人、門番
+jar	3	【名】広口びん、耳ざわりな音
+jargon	10	【名】特殊用語、専門語
+javelin	12	【名】やり投げ用の槍、やり投げ
+jay	11	【名】カケス、おしゃべりな人
+jeopardy	11	【名】危険にさらされること、有罪になる危険性
+jerk	6	【名】ばか、世間知らず、急に動くこと
+jest	9	【名】冗談、しゃれ、ひやかし
+jettison	11	【名】船外投棄
+jigsaw	9	【名】ジグソーパズル、糸のこ
+jingle	8	【名】チリンチリンと鳴る音
+jobless	8	【形】仕事のない、失業者の 【名】失業中の人々
+jockey	7	【名】騎手、運転者
+jolt	10	【名】ショックを起こすもの
+jovial	12	【形】陽気な、気持ちのよい
+joyous	8	【形】うれしい、喜びに満ちた
+jubilant	11	【形】喜びに満ちた
+jubilee	12	【名】記念祭、祝典、歓喜
+judicious	12	【形】分別のある、賢明な
+jug	7	【名】水差し、つぼ
+juggle	9	【名】手品、ごまかし
+jumble	11	【名】ごたごたの山、雑然とした状態
+junction	7	【名】連絡駅、連結、接合
+junta	11	【名】（クーデター直後の）臨時政府、軍事政府、評議会
+jurisdiction	8	【名】裁判権、権限、法域、管轄区域
+jury	6	【名】陪審、審査員
+jut	12	【名】突起
+juxtaposition	12	【名】並列、並置
+keel	12	【名】竜骨
+kerosene	12	【名】灯油
+kickback	12	【名】リベート、手数料、反動
+kidney	9	【名】腎臓、気質
+kiln	12	【名】窯
+kin	7	【名】親族 【形】親族で、同類で
+kindred	12	【形】類似の、同族の 【名】同質性、血族関係
+kinetic	12	【形】運動(上)の
+kinship	8	【名】親族関係、同族関係、関連、共通
+knack	11	【名】才覚、コツ、特性
+knell	12	【名】弔鐘、滅亡の前兆
+knowledgeable	7	【形】博識な、理解力のある
+knuckle	7	【名】指関節、げんこつ
+labyrinth	11	【名】迷路、迷宮、混迷した事情
+lag	10	【名】経過
+lagoon	12	【名】小さな沼、潟
+lair	12	【名】動物の巣、秘密の隠れ家
+laity	12	【名】俗人、素人
+lama	11	【名】ラマ教の高僧・生き仏
+lame	5	【形】足の不自由な、不十分な、時代遅れの
+lamentable	10	【形】悲しむべき、粗末な
+lamppost	9	【名】街灯柱
+lance	10	【名】槍
+landfill	8	【名】ごみ処理場、埋め立て地
+landmine	6	【名】地雷
+landowner	8	【名】土地所有者、地主
+landscape	4	【名】風景、風景画
+languid	12	【形】気だるい、活気のない
+lapse	7	【名】時の経過、ささいな過ち
+lark	5	【名】ヒバリ、愉快で楽しいこと
+larva	10	【名】幼虫
+latch	9	【名】掛け金
+latent	10	【形】潜在性の、表面に出ない
+lateral	12	【形】横の、横に向かった
+lathe	12	【名】旋盤
+lather	10	【名】せっけんの泡
+lattice	12	【名】格子づくりの窓
+laughable	10	【形】ばかばかしい、おかしい
+laughter	4	【名】笑い、楽しそうな表情
+laureate	11	【名】受賞者、名誉を受けた人 【形】ある分野で優秀な
+lava	12	【名】溶岩
+lavatory	11	【名】洗面所
+lawmaking	7	【形】立法の
+lawn	3	【名】芝生、芝地
+lawsuit	8	【名】訴訟、告訴
+lax	10	【形】手ぬるい、だらしのない
+layman	9	【名】素人、門外漢
+leach	11	【名】濾過器、こし器
+leaden	12	【形】鉛のように重い、活気のない、鉛色の
+leaflet	7	【名】ちらし
+leafy	8	【形】葉の多い、葉で覆われた、葉のような
+leaning	10	【名】傾向、趣味、傾斜
+ledge	9	【名】水平の出っ張り、壁に取り付けた棚、岩層
+ledger	12	【名】台帳
+leech	12	【名】ヒル、人を食い物にする人
+leftover	7	【名】料理の残り物、余り 【形】残りの
+legible	12	【形】読みやすい
+legion	11	【名】大群、部隊、軍団
+legislation	4	【名】立法行為、法律制定
+legislative	7	【形】立法上の
+legislator	10	【名】立法者
+lethal	9	【形】致命的な
+leukemia	11	【名】白血病
+levy	10	【名】召集
+lewd	11	【形】わいせつな
+lexical	11	【形】語彙の、辞書の、辞書的な
+lexicon	11	【名】用語集、特定の分野の語彙、目録
+liability	7	【名】負債、責任、不利となるもの
+liaison	10	【名】密通、連絡、リエゾン
+libel	11	【名】名誉毀損、侮辱
+librarian	6	【名】図書館員、司書
+licensed	8	【形】認可された、免許を受けた、世間の認める
+lick	5	【名】ひとなめ、少量
+lifeboat	7	【名】救命艇
+lifelike	9	【形】生きているような、実物そっくりな
+lifelong	4	【形】一生の、生涯にわたる
+ligament	12	【名】靱帯、きずな
+lighthearted	9	【形】のんきな、気楽な、愉快な
+lightweight	8	【形】軽い、まじめさのない、ライト級の 【名】つまらない人間
+likeness	8	【名】似ていること、類似点、外観、似顔絵
+lilac	10	【名】ライラック、薄紫色
+limitation	5	【名】制限、極限
+limp	7	【名】足を引きずること 【形】力のない
+lineage	11	【名】血筋、種族
+liner	6	【名】定期船、線をひく人、（コートなどの）裏地
+lingerie	11	【名】ランジェリー、女性用肌着類
+lining	6	【名】裏地、裏当て
+lioness	9	【名】ライオンの雌
+liquidity	10	【名】流動性、換金性
+lisp	12	【名】舌足らずの発音、波や葉がサラサラいう音
+listless	12	【形】疲れて気の抜けた、無関心な
+lithe	12	【形】しなやかな、柔軟な
+litigant	12	【名】訴訟当事者 【形】訴訟に関係している
+litigation	11	【名】訴訟、告訴
+litter	8	【名】錯乱したもの、くず
+livelihood	7	【名】生計、暮らし
+liver	5	【名】肝臓、生活者
+livestock	10	【名】家畜類
+loaded	9	【形】弾薬を込めた、詰め込んだ、フィルムを装填した、ずるい
+loading	9	【名】荷積み、荷重、ローディング
+loaf	3	【名】ひとかたまり
+lob	11	【名】ロブ
+lobe	12	【名】耳たぶ、丸い屋根
+locus	12	【名】力の中心、位置
+lodger	8	【名】下宿人、間借り人、宿泊者
+lodging	8	【名】宿、一時的な滞在場所
+loft	10	【名】屋根裏
+lofty	7	【形】非常に高い、高位の、高貴な、威厳のある
+logging	11	【名】木材の切り出し、伐木搬出
+lone	6	【形】ただひとつの、ひとりの、ぽつんと立っている
+longevity	9	【名】長生き、寿命
+longing	8	【名】あこがれ、熱望 【形】あこがれる、切望する
+longstanding	10	【形】ずっと昔からの、長く続き得る
+longtime	7	【形】昔からの、長年の
+lookout	8	【名】用心、見張り（人）、見晴らし、展望台
+loom	10	【名】はた
+loophole	11	【名】抜け道、小窓、すき間
+loose	3	【形】ゆるい、ルーズな 【名】（矢の）発射
+loot	10	【名】戦利品、不正利得
+lordship	9	【名】君主の地位、閣下、支配
+lore	11	【名】言い伝え、教訓、知識
+lorry	7	【名】大型トラック、運搬車
+lotion	7	【名】化粧水、水薬、ローション
+loudspeaker	6	【名】拡声器、スピーカー
+lovable	9	【形】愛らしい、かわいい
+loyalist	9	【名】愛国者、忠臣
+lucid	12	【形】明快な、わかりやすい、頭脳明晰な
+ludicrous	11	【形】こっけいな、嘲笑を招くような
+lukewarm	9	【形】生ぬるい、微温の、いい加減な
+lumber	6	【名】製材、材木
+luminous	8	【形】光を出す、明るい、照明された、聡明な
+lump	5	【名】塊、こぶ、角砂糖
+lunar	8	【形】月の、月の運行で測った、銀の、月に似た
+lunatic	8	【名】狂人、精神異常者 【形】狂気の、常軌を逸した
+luncheon	7	【名】午餐、昼食
+lunge	12	【名】（フェンシングの）突き
+lurch	11	【名】突然の揺れ、よろめき
+lurid	11	【形】身の毛のよだつような、どぎつい、赤く輝いている
+lush	11	【形】青々と茂った、豪華な
+lust	8	【名】情欲、渇望、熱意
+luster	11	【名】光沢、栄光
+lusty	12	【形】好色な、元気溢れる、（食事が）たっぷりの
+lynx	12	【名】オオヤマネコ
+lyrical	9	【形】詩的な、叙情的な
+mackerel	12	【名】サバ
+maggot	12	【名】ウジ、気まぐれ
+magistrate	8	【名】判事、行政官、執政官
+magnate	12	【名】業界の有力者、大物
+magnificence	10	【名】壮麗、壮大、壮厳な雰囲気
+magnitude	7	【名】規模、大きさ、マグニチュード
+magnolia	11	【名】モクレン
+maiden	6	【名】娘 【形】乙女の、未婚の
+mainframe	10	【名】メーンフレーム、大型汎用コンピュータ
+majesty	5	【名】王族、陛下（皇族などに対する敬称）、尊厳さ、王者の威厳
+makeshift	11	【形】間に合わせの 【名】一時しのぎのもの
+malaise	11	【名】イライラ、気分のすぐれない状態
+malevolent	12	【形】邪悪な、悪意のある
+malfunction	9	【名】故障、機能不全
+malice	7	【名】悪意、恨み
+malicious	9	【形】意地の悪い、悪意のある
+malign	11	【形】悪性の
+malignant	10	【形】悪性の、きわめて有害な
+malt	10	【名】麦芽、モルトウイスキー
+mammoth	8	【名】マンモス、巨大なもの 【形】巨大な
+manageable	10	【形】操作できる、処理しやすい
+managerial	10	【形】経営上の、経営者の
+mandate	10	【名】指令書、委任統治
+mandatory	8	【形】命令の、義務的な
+mane	12	【名】たてがみ、長く豊かな頭髪
+manhood	6	【名】男らしさ、男であること
+manifesto	9	【名】宣言、声明
+mankind	6	【名】人類
+manly	6	【形】男らしい、勇気のある
+mannerism	11	【名】癖、わざとらしさ、型にはまった手法
+manor	8	【名】荘園、領地、領主の邸宅
+manpower	8	【名】人的資源
+mansion	7	【名】大邸宅、マンション
+mantelpiece	10	【名】マントルピース、炉棚
+mantle	7	【名】マント
+manuscript	6	【名】原稿、手書きのもの
+mare	9	【名】雌馬、母馬
+marginal	8	【形】境界の、欄外の、不十分な、限界に近い
+marijuana	9	【名】マリファナ、インド大麻
+marital	9	【形】結婚生活の、夫婦の
+maritime	10	【形】海事の
+marked	4	【形】際立った、著しい
+marketable	8	【形】市場向きの、よく売れる、売買上の、取引の
+marquee	11	【名】劇場出入り口のひさし
+marrow	11	【名】髄、心髄、栄養物
+marsh	7	【名】沼地、低湿地
+marshal	7	【名】元帥、司令官
+martial	9	【形】好戦的な、勇敢な、軍の
+martyr	10	【名】殉教者
+marvel	6	【名】驚くべきこと、不思議
+masculine	7	【形】男らしい、力強い 【名】男性
+mason	11	【名】タイル工、石工屋
+massacre	9	【名】大虐殺
+masterpiece	6	【名】傑作
+mastery	8	【名】熟達、精通、専門的技能、勝利、支配
+mat	5	【名】マット、ござ
+matrimony	12	【名】結婚生活、夫婦関係
+matron	12	【名】既婚女性、寮母
+maturity	7	【名】成熟、円熟、完成
+maverick	11	【名】一匹オオカミ、異端者 【形】（政治家が）無所属の
+maxim	9	【名】格言、金言、処世訓
+maze	8	【名】迷路、迷宮、当惑
+meander	11	【名】曲がりくねった道
+medieval	5	【形】中世の、中世的な、古めかしい
+mediocre	9	【形】二流の、可もなく不可もない
+meek	9	【形】おとなしい、柔和な
+melancholy	7	【名】ゆううつ、深い物思い 【形】ゆううつな
+mellow	8	【形】柔らかくて豊かな、円熟した
+membrane	12	【名】細胞膜
+memento	12	【名】記念の品、かたみ
+memorandum	7	【名】覚書、メモ
+menace	7	【名】危険、脅迫、やっかい者
+menial	12	【形】（仕事が）単調で退屈な、召使いの 【名】召使い
+menopause	11	【名】更年期
+mercenary	12	【形】欲得ずくの、報酬目当ての 【名】傭兵
+merchandise	7	【名】商品、品物
+merchandising	9	【名】商品化計画、販売促進、キャラクター商品業
+merciful	7	【形】慈悲深い、情け深い
+merciless	8	【形】無慈悲な、無情な
+mercury	7	【名】水銀
+merriment	12	【名】陽気な騒ぎ、歓楽
+messy	7	【形】乱雑な、汚い、混乱を起こす
+metabolic	8	【形】代謝の
+metabolism	8	【名】新陳代謝、物質交代
+metaphysical	11	【形】形而上学的な、極めて抽象的な、難解な
+meteor	11	【名】流星、めざましく躍進するもの
+microbe	11	【名】微生物、病原菌
+microscopic	10	【形】顕微鏡でしか見えない、微小の
+mid	5	【形】中間にある、真ん中の
+midday	5	【名】昼頃、正午 【形】真昼の
+middleman	11	【名】仲介者、中間商人
+midland	10	【名】内陸部、中部
+midst	6	【名】真ん中、中央
+midwife	10	【名】助産婦
+migrant	10	【形】移住性の 【名】移住者
+mileage	7	【名】総マイル数、マイル当たりの費用
+milieu	11	【名】社会的環境、文化的環境
+militant	9	【形】好戦的な、何者をも恐れない 【名】闘争的な人
+militia	10	【名】市民軍、民兵
+millionth	5	【形】100万番目の、100万分（の1）の 【名】100万分の1、100万番目
+mindless	9	【形】愚かな、思慮のない、容赦しない
+miraculous	7	【形】奇跡の、超自然的な、驚くべき
+mirth	12	【名】陽気、浮かれ騒ぎ、笑い
+misbehavior	9	【名】不作法、非行、不正行為
+miscarriage	11	【名】流産、誤配、誤り
+miscellaneous	12	【形】種々雑多な、多岐にわたる
+mischief	5	【名】いたずら、ちゃめっ気、損害
+mischievous	8	【形】いたずら好きな、茶目っ気のある、人に害を及ぼす
+misconception	10	【名】誤認、勘違い
+misconduct	10	【名】非行、職権乱用
+misdemeanor	11	【名】軽罪、無作法、非行
+miser	9	【名】守銭奴、欲張り
+misery	4	【名】悲惨、不幸
+misfit	9	【名】はみ出し者、よく合わないもの
+misfortune	5	【名】不運、逆境
+misgiving	11	【名】不安、疑惑
+misguided	9	【形】誤り導かれた、見当違いの
+missionary	8	【名】宣教師、使節 【形】伝道の
+mistress	9	【名】愛人、権威をもつ女性
+mistrust	9	【名】不信、疑惑
+misty	8	【形】霧が立ちこめた、霧状の、はっきりしない
+misunderstanding	6	【名】誤解、解釈違い、意見の相違
+mite	12	【名】微力、わずかの金、ごくわずか
+mitten	5	【名】手袋、ミトン
+moan	5	【名】うめき、うなり、不平
+moat	12	【名】堀
+mob	8	【名】暴徒、群衆
+moderation	6	【名】節度、適度、緩和
+modernism	10	【名】現代風、モダニズム
+modernist	10	【名】現代主義者、モダニスト
+mold	6	【名】鋳型
+molding	12	【名】刳形（くりがた）、型で作ること
+mole	11	【名】あざ、ほくろ、モグラ、スパイ
+momentous	10	【形】重大な、ゆゆしい
+momentum	9	【名】はずみ、勢い、運動量
+monastic	12	【形】禁欲的な、修道院の
+monk	7	【名】修道士、修士
+monotony	9	【名】単調さ、変化のなさ
+monstrous	7	【形】奇怪な、恐ろしい、巨大な
+moody	8	【形】不機嫌な、ふさぎこむ、気まぐれな
+moor	9	【名】荒れ地、湿原地
+moot	12	【形】議論の余地がある、純粋に学問的な
+moribund	11	【形】停滞している、消滅寸前の
+morose	12	【形】不機嫌な、むっつりした
+mortal	6	【形】死を免れない、臨終の 【名】死すべき者
+mortality	7	【名】死亡、死すべき運命、死を免れないこと
+mortar	10	【名】モルタル、しっくい
+mortuary	12	【形】埋葬の 【名】葬儀場、霊安室
+mosaic	9	【名】寄せ木細工 【形】モザイクの、寄せ集めの
+moss	5	【名】コケ
+moth	8	【名】蛾、しみ、（衣食の）虫食い
+motherhood	9	【名】母であること、母性
+motionless	7	【形】動かない、じっとしている
+motley	11	【形】雑多な要素からなる 【名】まだら、寄せ集め
+mound	8	【名】塚、古墳、小山
+mountaineer	10	【名】山地の住人、登山者
+mountaineering	9	【名】登山
+mounting	11	【形】増加していく、悪化していく 【名】壇にのぼること、乗馬
+mournful	9	【形】悲しげな、死者を悼む、陰気な
+mouthful	6	【名】口いっぱい、少量
+muck	12	【名】泥、こやし
+muddle	10	【名】混乱状態
+muffle	12	【名】覆い
+mug	6	【名】マグカップ、顔
+mule	11	【名】ラバ、頑固者
+multinational	9	【形】多国籍の 【名】多国籍企業
+multiplication	8	【名】増加、増大、増量、増殖、乗法
+mum	8	【形】黙っている 【間】シッ
+mummy	5	【名】ミイラ、ひからびたもの
+mumps	12	【名】おたふく風邪
+munch	9	【名】スナック菓子
+mundane	10	【形】現世の、平凡な
+mural	11	【名】壁画 【形】壁面の
+murky	11	【形】まっ暗な、どんよりした、あいまいな
+mutant	11	【形】突然変異による 【名】突然変異体
+mutation	7	【名】突然変異、変化、盛衰
+mute	7	【形】沈黙した
+muzzle	12	【名】動物の口輪、銃口
+myriad	9	【形】無数の 【名】無数
+mystic	10	【形】秘密の、神秘的な 【名】神秘論主義者
+mystical	8	【形】神秘的な、神秘主義の、あいまいな、不可解な、霊感の
+nanny	5	【名】子守、（住み込みの）ベビーシッター
+nap	4	【名】昼寝
+narcissus	12	【名】スイセン（複 narcissi）、（ギリシャ神話）ナルキッソス
+narcotic	10	【名】麻薬 【形】眠くなるような
+narrative	6	【名】物語 【形】物語から成る
+nasal	11	【形】鼻の、鼻にかかった 【名】鼻音
+naught	12	【名】無、ゼロ 【形】滅びた
+naughty	6	【形】いたずらな、言うことを聞かない
+naval	6	【形】海軍の
+nave	12	【名】身廊
+navel	9	【名】へそ
+needy	6	【形】貧窮の
+neglectful	10	【形】怠慢な、ずぼらな、不注意な
+negligence	7	【名】怠慢、不注意
+negligent	8	【形】怠慢な、不注意な、無関心な、飾らない、自然な
+negotiable	9	【形】交渉の余地がある、譲渡できる
+nettle	12	【名】イラクサ、イライラさせること
+neurosis	12	【名】神経症、ノイローゼ
+neurotic	10	【形】神経症の 【名】神経症患者
+neutrality	9	【名】中立（状態）
+nibble	11	【名】ひとかじり
+nick	9	【名】刻み目、切り傷、欠けたところ
+nightfall	8	【名】日暮れ、夕暮れ
+nip	9	【名】はさむこと、厳しい寒さ
+nitrate	12	【名】硝酸塩
+nitrogen	11	【名】窒素
+nobleman	10	【名】貴族、高貴な生まれの人
+nocturnal	12	【形】夜行性の、夜の
+node	12	【名】皮膚の腫れ、こぶ、中心点、（曲線・面の）結節点
+nominal	11	【形】ほんのわずかの、名目上の、予定通りの
+nonchalant	12	【形】平然とした、無頓着な、無関心な
+nondescript	12	【形】目立たない、特徴のない 【名】特徴のないもの
+noonday	10	【名】真昼、正午 【形】真昼の
+norm	9	【名】標準、模範、典型、平均
+nostril	12	【名】鼻孔、小鼻
+notch	10	【名】段階、V字型の切り込み
+noteworthy	9	【形】注目に値する、目立つ、著しい
+noticeable	5	【形】人目を引く、目立つ
+nourishment	8	【名】食物、栄養、養育
+novelty	8	【名】目新しさ、斬新さ、目先の変わったこと
+novice	8	【名】未熟者、新参者
+noxious	12	【形】有毒な、有害な、不快な
+nucleus	9	【名】中心部分、核心、原子核
+nudge	11	【名】軽いひと突き
+nudity	9	【名】裸、赤裸々、むき出し
+nun	6	【名】尼、修道女
+nuptial	11	【形】結婚の 【名】結婚式（～s）
+nursery	5	【名】保育園、託児所
+nurture	8	【名】滋養物
+nutrition	6	【名】栄養分、食物、栄養学
+nutritious	7	【形】栄養になる、滋養の多い
+nutty	11	【形】風変わりな、ばかげた、内容の充実した、木の実の味の
+obedient	7	【形】従順な
+obituary	12	【名】死亡記事 【形】死の
+objection	6	【名】異議、難点
+objectionable	10	【形】異議のある、いかがわしい
+obligatory	9	【形】必須の、義務的な
+oblivion	9	【名】忘れられている状態、無意識の状態、恩赦
+oblivious	10	【形】忘れっぽい、気づかない
+obnoxious	11	【形】とても不快な、醜悪な
+obscene	8	【形】わいせつな、嫌な、不愉快な
+obscenity	11	【名】わいせつ（なもの）
+obscurity	8	【名】無名の人、不明なもの、あいまいな状態
+observatory	9	【名】天文台、観測所
+obstetrician	12	【名】産科医
+obstinate	7	【形】頑固な、意固地な、執拗な
+obtrusive	12	【形】ひどく目立つ、押しつけがましい
+occidental	9	【形】西洋（人）の、西洋風の 【名】西洋人
+occupational	8	【形】職業の、職業的な、占領の
+oddity	9	【名】異常なもの、風変わりな人、奇異な出来事
+ode	12	【名】オード、頌歌（しょうか）
+odor	6	【名】臭気、評判
+ointment	12	【名】軟膏
+omen	11	【名】前兆、予知
+ominous	11	【形】不吉な、前ぶれの
+omnipotent	12	【形】全能の 【名】全能者、全能の神（the O_)
+omniscient	12	【形】全知の、博識な 【名】博識者、神（the O_)
+omnivorous	12	【形】雑食性の、何でも食べる
+oneness	12	【名】一体感、単一性、一致
+onlooker	12	【名】見物人、傍観者
+onus	12	【名】責任、負担
+ooze	11	【名】分泌
+opaque	11	【形】くすんだ、不明瞭な 【名】不透明なもの
+opinionated	12	【形】頑固な、独断的な
+opium	11	【名】アヘン、麻痺させるもの
+opportune	10	【形】適切な、適当な、時宜を得た
+oppression	7	【名】圧政、抑圧、圧迫
+oppressive	8	【形】圧制的な、不当に厳しい、度が過ぎる
+opus	11	【名】音楽作品、作品番号、著作
+oracle	11	【名】神のお告げ、助言を与える人
+orator	12	【名】演説者、雄弁家
+orchid	12	【名】ラン
+ordeal	9	【名】厳しい試練、難儀、神判
+orderly	7	【形】規則正しい、整頓された 【名】病棟勤務員
+ordinance	11	【名】条例、法令、聖餐式
+orgy	11	【名】乱痴気騒ぎ、～にふけること
+ornate	10	【形】どぎつく飾りたてた、極度に修辞的な
+orphan	6	【名】孤児 【形】親のない、孤児の
+orthodoxy	10	【名】正統性、正説
+ostensible	12	【形】明らかな、表向きの
+ostentatious	12	【形】けばけばしい、これ見よがしの
+ostrich	8	【名】ダチョウ
+otter	12	【名】カワウソ
+outburst	10	【名】爆発、ほとばしり
+outcast	10	【名】見捨てられた人、浮浪者
+outcry	10	【名】絶叫、激しい抗議
+outlaw	8	【名】無法者、お尋ね者
+outlay	12	【名】支出
+outlet	5	【名】直販店、コンセント、はけ口
+outlook	5	【名】見解、視野、見通し、見張り台
+outset	10	【名】着手、手始め
+outsider	6	【名】部外者、門外漢
+outskirts	6	【名】郊外、場末
+outspoken	11	【形】率直な、遠慮のない
+ovary	12	【名】卵巣
+ovation	11	【名】大喝さい、熱烈な歓迎
+overbearing	12	【形】高圧的な、圧倒的な
+overblown	11	【形】大げさな、度が過ぎた、盛りを過ぎた
+overdose	11	【名】薬や麻薬の過剰摂取
+overdue	9	【形】期日を過ぎた、機が熟しきっている、過度の
+overhaul	10	【名】点検整備、オーバーホール
+overlap	8	【名】重複部分
+overload	10	【名】積みすぎ、過負荷
+oversight	9	【名】見過ごし、手落ち、監視、監督
+overtone	12	【名】含み、倍音
+overture	11	【名】提案、序曲、序章
+oxide	12	【名】酸化物
+pacifist	10	【名】平和主義者、無抵抗主義者 【形】平和主義の
+pad	5	【名】当てもの 、スタンプ台、メモ帳
+padding	10	【名】詰め物、不必要な挿入語句、水増し
+paddle	8	【名】櫂（かい）、外輪
+padlock	12	【名】南京錠
+pagan	9	【名】異教徒、多神教徒 【形】異教の、異教的な
+pageant	10	【名】野外劇、コンテスト、仮装行列
+pal	5	【名】仲間、仲良し
+palatable	11	【形】快い、口に合う
+pall	12	【名】覆って暗くするもの、棺に掛ける布
+palpable	11	【形】明白な、容易にわかる、手で触れそうな
+panacea	12	【名】万能薬、あらゆる問題の解決策
+pane	9	【名】窓枠、窓ガラス、羽目板
+pang	9	【名】悲痛、激痛
+panhandle	12	【名】細長く伸びている地域
+panorama	7	【名】全景、回転画、パノラマ
+pant	6	【名】あえぎ、息切れ
+panther	11	【名】凶暴な男、ピューマ 【形】凶暴な
+papal	7	【形】ローマ法王の、ローマカトリック教会の
+par	8	【名】標準、基準、等価、等位 【形】標準の
+parable	8	【名】寓話、比ゆ
+paranoia	11	【名】偏執症、被害妄想、パラノイア
+parasite	9	【名】寄生生物、寄生虫、ヤドリギ
+parched	10	【形】乾いた、干からびた
+parental	8	【形】親の（ような）、親にふさわしい、母体となっている
+parish	9	【名】小教区、教会区、行政区
+parity	11	【名】同額、同等、一致、平価
+parliamentary	6	【形】議会の、議会制の
+parlor	6	【名】応接間、営業所 【形】客間用の
+parochial	11	【形】偏狭な、教会区の
+parson	12	【名】牧師、聖職者
+participle	9	【名】分詞
+particularity	10	【名】気むずかしさ、独自性、個別性、詳細
+parting	8	【名】出発、いとまごい、告別 【形】別れの
+partisan	10	【名】同志、味方、遊撃兵 【形】党派心の強い
+partition	9	【名】仕切り
+passable	9	【形】基準をかろうじて満たす、まずまずの、通行できる
+passbook	12	【名】預金通帳
+passerby	8	【名】通行人
+pastel	10	【名】柔らかな淡い色彩、パステル（画）
+pastor	7	【名】牧師、羊飼い
+pastoral	8	【形】羊飼いの、田園の、のどかな、牧師の 【名】牧歌
+pasture	5	【名】牧草地、牧草
+paternal	10	【形】父親らしい、父（方）の
+pathological	12	【形】病的な、病理学の
+pathology	11	【名】病理学、病変
+pathway	7	【名】進路、小道、歩道
+patriarch	11	【名】家父長、族長、総大司教
+patrician	11	【形】高い身分の 【名】貴族
+patronage	11	【名】芸術や事業への後援、顧客のひいき
+patter	12	【名】パタパタいう音、早口
+paw	6	【名】動物の足
+pawn	10	【名】チェスのポーン、人にあやつられるもの
+payoff	10	【名】献金、わいろ、支払い、報い
+peacock	6	【名】クジャク
+peal	12	【名】鐘の響き、大きな響き
+pebble	7	【名】丸い小石
+pedagogy	12	【名】教育学
+pedantic	12	【形】物知り顔の、学者ぶった
+peddler	12	【名】行商人、麻薬の売人
+pedestrian	7	【名】歩行者、徒歩旅行者 【形】徒歩の
+pedigree	11	【名】血統、家系、起源 【形】純血種の
+peek	9	【名】のぞき見
+peep	9	【名】盗み見
+peevish	12	【形】不機嫌な、怒りっぽい
+peg	7	【名】くぎ、くい
+pellet	12	【名】小粒、錠剤
+pelvis	12	【名】骨盤
+penal	10	【形】刑罰の、処罰されるべき、刑場として用いられる
+penance	12	【名】贖罪、苦痛
+peninsula	7	【名】半島
+pensive	12	【形】物思いに沈んだ、哀愁を漂わせている
+pep	10	【名】活気
+peppery	12	【形】短気な、辛らつな、コショウの利いた
+perch	6	【名】止まり木、休む場所
+perennial	11	【形】永続する、絶え間のない
+perfection	6	【名】完全、完成
+perfunctory	12	【形】おざなりの、熱意のない、通り一遍の
+peril	6	【名】危険、危機
+perilous	8	【形】危険な、冒険的な
+periodical	8	【名】定期刊行物、雑誌 【形】定期刊行の
+periphery	12	【名】周辺、表面
+periscope	12	【名】潜望鏡
+perjury	11	【名】偽証罪、偽り
+perk	11	【名】特典
+perky	11	【形】活発な、生意気な
+permanence	8	【名】永続、耐久、恒久不変
+pernicious	11	【形】有害な、破滅的な、命にかかわる
+perplexity	10	【名】当惑、混乱、難問題
+persecution	8	【名】迫害、虐待、うるさく悩ますこと
+perspiration	10	【名】汗、努力
+pert	12	【形】小生意気な、でしゃばりな、いきな
+pertinent	10	【形】適切な 【名】付属物
+pervasive	10	【形】行き渡る、普及する
+pervert	10	【名】変質者、背教者
+pest	8	【名】有害な動物、やっかいもの、疫病
+petal	11	【名】花びら
+petroleum	9	【名】石油
+petulant	12	【形】短気な、こらえ性のない
+pew	11	【名】聖堂信者席
+pharmaceutical	9	【形】薬剤の、薬学の 【名】製薬
+pheasant	12	【名】キジ
+phenomenal	9	【形】並でない、驚くべき
+philanthropy	11	【名】慈善活動、博愛
+philosopher	5	【名】哲学者、悟りを開いた人
+philosophical	8	【形】哲学の、哲学を研究する、理性的な、冷静な
+phoenix	10	【名】不死鳥、非常に美しいもの
+phonetic	9	【形】音声の
+phony	10	【形】偽の、ほら吹きの
+phosphorus	12	【名】リン
+photocopy	9	【名】写真複写
+photographic	6	【形】写真の、非常に写実的な
+pickpocket	8	【名】すり
+piercing	7	【形】甲高い、鋭い、刺すように
+piety	9	【名】信心深さ、敬愛、忠誠
+pike	12	【名】槍、有料道路
+pilgrim	8	【名】巡礼者、旅人、放浪者、最初の移住者
+pilgrimage	11	【名】巡礼、長旅
+pillage	12	【名】略奪
+pimp	11	【名】売春あっせん業者、売春婦のヒモ
+pinch	5	【名】つまむこと
+pine	4	【名】マツ
+pious	7	【形】信心深い、偽善的な
+piracy	11	【名】著作権侵害
+pirate	8	【名】海賊、略奪者
+piss	10	【名】小便
+pitiful	7	【形】かわいそうな、哀れをもよおす、情けない
+pitiless	10	【形】情け容赦のない、無情な
+pivot	11	【名】中心、軸
+pivotal	11	【形】極めて重要な、回転の軸となる、中枢の
+placard	9	【名】はり紙、掲示、名札
+placebo	11	【名】偽薬、気休め
+plagiarism	11	【名】盗作
+plaintiff	8	【名】原告
+plaintive	12	【形】悲しげな、哀れな
+planetary	7	【形】惑星の
+plank	8	【名】厚板、支持物
+plantation	6	【名】農園
+planter	8	【名】植えつける人、栽培者、農園主、プランター、入植者
+plaque	9	【名】飾り額、バッジ、歯垢
+plaster	7	【名】しっくい、石こう
+plateau	9	【名】高原、安定期
+platonic	9	【形】観念的な、プラトニックな
+platoon	11	【名】小隊、集団
+plausible	10	【形】もっともらしく思われる、もっともな
+playful	7	【形】遊び戯れる、はしゃぐ、陽気な、こっけいな
+plaything	10	【名】オモチャ
+playwright	9	【名】劇作家
+pleasurable	10	【形】楽しい、快い、満足を与える
+plebiscite	12	【名】国民投票、一般投票
+plenary	12	【形】全員出席の、完全な、正式の
+plethora	12	【名】過多、大量
+plight	10	【名】ありさま、苦境
+plow	5	【名】すき
+plumage	12	【名】羽毛、はでな服
+plumb	12	【形】垂直な 【名】おもり
+plumbing	10	【名】鉛管敷設、配管工事、配管系統（設備）、水深測量
+plume	9	【名】羽毛、大羽
+plummet	9	【名】おもり、急落
+plunder	10	【名】盗品、強奪
+plunge	6	【名】突進
+plush	11	【形】プラッシュの、ぜいたくな 【名】プラッシュ（ビロードの一種）
+plywood	11	【名】ベニヤ板
+pneumonia	11	【名】肺炎
+pocketbook	9	【名】財布、紙入れ、ハンドバッグ
+podium	9	【名】表彰台、演台
+poignant	11	【形】心を打つ、痛恨の、辛らつな
+pointless	9	【形】無意味な、先のない、力のない
+polar	7	【形】極の、北極の、正反対の
+polemic	12	【名】論争、反論
+polished	9	【形】研ぎあげた、洗練された
+politic	10	【形】賢明な
+pollen	8	【名】花粉
+pollutant	9	【名】汚染物質
+polytechnic	10	【名】技術専門学校 【形】工芸教育の
+pomp	12	【名】仰々しさ、壮観、華やかさ
+pompous	12	【形】思いあがった、尊大な、大げさな
+ponderous	12	【形】大きくて重い、どっしりした、退屈な
+pope	5	【名】ローマ法王（しばしばP_）
+poppy	12	【名】ケシ、アヘン
+populous	9	【形】人口の多い、数が多い
+porcelain	10	【名】磁器
+porous	12	【形】浸透性の、小穴の多い
+porridge	9	【名】ポリッジ、かゆ
+pose	3	【名】姿勢
+posh	11	【形】こぎれいな、しゃれた
+possessed	10	【形】とりつかれた、所有して、落ち着いた
+postage	6	【名】送料
+posterity	9	【名】後世、子孫
+postgraduate	8	【形】大学卒業後の、大学院の 【名】大学院生、研究生
+posthumous	12	【形】死後の、著者の死後に出版された
+posture	8	【名】姿勢、気どった態度、考え方、心構え
+potassium	12	【名】カリウム
+potentiality	8	【名】潜在状態、潜在的なもの、潜在力、可能性
+potluck	12	【名】あり合わせの食物 【形】みんながごちそうを持ち寄る
+potter	10	【名】陶器職人
+pouch	7	【名】小物袋、ポーチ、袋
+poultry	9	【名】家禽（かきん）、飼っている鳥類
+pout	12	【名】ふくれっ面
+powdery	10	【形】粉だらけの、粉末からなる、粉になりやすい
+practicable	10	【形】実施できる、実用的な、実物の
+practitioner	8	【名】実践している人、開業者（特に開業医、弁護士）
+prairie	8	【名】草原地帯
+prank	9	【名】いたずら
+prawn	10	【名】クルマエビ
+precarious	9	【形】不安定な、いい加減な
+precedence	12	【名】（空間・時間的に）先立つこと、（序列・地位・重要性などで）優先であること
+precedent	9	【名】前例
+precept	12	【名】処世訓、教え、戒め
+precipice	12	【名】断崖、危機
+precipitation	9	【名】降水量、落下
+precipitous	12	【形】険しい、断崖絶壁の、大急ぎの
+precocious	11	【形】早熟な、ませた、意外に早い
+precursor	11	【名】先駆者、前ぶれ、前駆物質
+predator	10	【名】捕食者
+predatory	11	【形】食い物にする、捕食性の、略奪する
+predecessor	7	【名】前任者、先輩、前にあったもの
+predicament	11	【名】窮地、苦境、境遇
+predicate	9	【名】断定、述語
+predictable	8	【形】予言できる、先の見えた
+prediction	6	【名】予言、予報
+predictive	10	【形】予言の、前兆となる
+predominant	9	【形】支配的な、おもな
+prehistoric	8	【形】先史時代の、有史以前の、まったく時代遅れの
+prelude	11	【名】前奏曲、前ぶれ、準備行為
+premature	9	【形】早すぎる 【名】早産児
+premiere	10	【名】初日、主演女優 【形】主要な
+premise	6	【名】前提、土地、根拠
+premium	8	【名】保険料、賞品、ハイオクガソリン 【形】上等な、割増の
+premonition	12	【名】予感、徴候、予告
+preoccupation	9	【名】没頭、夢中にさせるもの、先取り
+preoccupied	7	【形】夢中になった、先取りされた
+preponderance	12	【名】（数や重量で）勝ること、優勢
+preposterous	11	【形】非常識な、不合理な、本末転倒の
+prerequisite	12	【名】必要条件 【形】前もって必要な
+prerogative	12	【名】特権、特典 【形】特権の
+presage	12	【名】前兆、予知
+preschool	6	【形】就学前の 【名】幼稚園
+presidency	8	【名】米国大統領の職
+pressing	4	【形】緊急の、熱心な
+prestige	7	【名】名声、威信 【形】評判の高い
+prestigious	8	【形】名声のある、一流の
+pretense	6	【名】偽ること、にせ、見せかけ
+pretension	8	【名】みせかけ、うぬぼれ、自負、要求
+pretentious	8	【形】うぬぼれた、もったいぶった、大げさな
+pretext	9	【名】口実、名目、言い訳
+prevailing	7	【形】行き渡った、一般の、優勢な、特有の
+prevalent	7	【形】広く行き渡った、流行した、優勢な
+preventive	8	【形】予防の、防止に役立つ、妨害の 【名】予防薬、予防手段
+prey	6	【名】えじき、犠牲、被害者
+prim	12	【形】堅苦しい、整った
+primal	10	【形】第一の、原始の、主要な
+primordial	12	【形】根源の、最初の、原始の 【名】基本原理
+principal	3	【形】おもな、元金の 【名】長、校長
+privy	12	【形】内情に通じた、私的な
+pro	8	【前】賛成して 【名】支持者、｟professionalの短縮形｠プロ
+probation	11	【名】試用期間、審査、保護観察期間
+procrastination	12	【名】優柔不断
+prodigal	12	【形】金遣いの荒い、物惜しみしない 【名】浪費家
+prodigious	11	【形】驚くべき、莫大な
+prodigy	11	【名】神童、奇才、並はずれたもの
+profane	11	【形】俗悪な、冒とく的な
+proffer	11	【名】申し出
+projectile	12	【名】発射体 【形】発射される、推進する
+projection	7	【名】突出、発射、投影、噴出、見積り
+prolific	11	【形】多作の、多産の、～に富んでいる
+promenade	10	【名】散歩（道）
+promiscuous	12	【形】見境なく性的関係をもつ、ごたまぜの
+promontory	12	【名】岬、高台
+prop	7	【名】支え、支持者
+propaganda	7	【名】宣伝、宣伝された主義
+prophecy	8	【名】予言、お告げ
+prophet	7	【名】予言者、イスラム教の教祖、代弁者
+proportional	8	【形】比例する、釣り合う、比例にもとづく 【名】比例数
+proportionate	10	【形】比例した、釣り合った
+proposition	6	【名】提案、提議
+proprietary	11	【形】専売特許の、所有者の、私有の 【名】所有者
+proprietor	11	【名】経営者、企業やホテルの所有者、植民地領主
+propriety	10	【名】上品、端正、妥当性、正統性
+prosaic	12	【形】平凡な、散文体の
+prospectus	12	【名】学校案内、事業内容説明書、目論見書
+prostitute	8	【名】売春婦
+prostitution	11	【名】売春、堕落、金目当ての変節
+prostrate	12	【形】疲れ果てた、倒れた
+protagonist	11	【名】主人公、主唱者、参加者
+protectionism	10	【名】保護貿易政策、保護主義
+protective	5	【形】保護する、保護用の
+protector	6	【名】保護者、後援者、プロテクター、保護するもの
+protein	5	【名】タンパク質 【形】タンパク性の
+providence	9	【名】神意、摂理
+provincial	5	【形】州の、地方の、いなかくさい、偏狭な 【名】地方の人
+provision	5	【名】供給、支給、蓄え、条項、食糧
+proviso	12	【名】条件、ただし書き
+provocative	10	【形】挑発的な、物議をかもす 【名】誘発物
+prowess	11	【名】戦場での勇気、優れた腕前
+proxy	10	【名】代理
+prudent	7	【形】分別のある、慎重な
+prune	7	【名】プルーン、干しスモモ、まぬけ
+pry	9	【名】てこを応用した道具
+psalm	12	【名】詩編、聖歌、賛美歌
+pseudonym	11	【名】偽名、仮名
+psyche	11	【名】精神、魂
+psychiatric	10	【形】精神医学の
+psychiatrist	9	【名】精神科医
+psychiatry	9	【名】精神医学
+psychic	9	【形】心霊の、霊能力をもった
+puddle	9	【名】水たまり
+puff	6	【名】ひと吹き
+pulp	9	【名】パルプ、どろどろしたもの、果肉
+pulpit	10	【名】説教壇、聖職
+pulse	7	【名】脈拍
+pun	11	【名】だじゃれ
+punctual	5	【形】約束の時間を厳守する、規則正しい
+punctuation	9	【名】句読点、中断
+puncture	11	【名】とがった物で刺すこと、パンク
+pundit	11	【名】評論家、専門家
+pungent	12	【形】鼻や舌を刺激する、激しい苦痛を与えるような、痛烈な
+punitive	11	【形】懲罰的な、処罰のための、過酷な
+pupil	2	【名】生徒、ひとみ
+purport	10	【名】目標
+putative	11	【形】うわさの、推定上の、架空の
+putt	11	【名】パットの一打
+quadruple	11	【形】4倍の
+quagmire	11	【名】窮地、ぬかるんだ土地
+quail	12	【名】ウズラ
+quaint	7	【形】古風なおもむきがある、風変わりでおもしろい
+quake	8	【名】おののき、揺れ
+quantum	11	【名】量子、分量、多量
+quarantine	12	【名】検疫所、（強制）隔離
+quarrelsome	10	【形】気短かな、けんか好きな
+quarry	10	【名】採石場、源泉
+quartz	9	【名】石英、クオーツ時計
+quay	12	【名】埠頭、岸壁
+quest	6	【名】追求、探索、冒険の旅
+questionable	10	【形】疑わしい、いかがわしい
+queue	6	【名】列、（待っている）一群の人々
+quid	10	【名】（かみタバコの）ひと口分
+quietness	6	【名】静寂
+quilt	8	【名】キルト（仕上げのもの）
+quintessential	11	【形】典型的な、真髄の
+quip	11	【名】皮肉、言い逃れ
+quirk	11	【名】気まぐれ、言い逃れ、奇抜さ
+quiver	8	【名】震え、振動
+quorum	12	【名】定足数、選抜団体
+quota	8	【名】割り当て数量、持ち分、取り分
+quotation	7	【名】引用、見積もり、相場づけ
+rabid	11	【形】過激な、凶暴な、狂犬病にかかった
+rabies	12	【名】狂犬病
+racecourse	10	【名】競走路、レースコース
+racial	5	【形】人種の
+racism	9	【名】人種差別、民族主義政策
+racist	7	【名】人種差別主義者 【形】人種差別主義者の
+rack	6	【名】棚、～掛け
+radar	6	【名】レーダー、電波探知法
+radiant	9	【形】晴れやかな、光を放つ 【名】光点
+radical	4	【形】基本的な、急進主義的な、徹底的な 【名】急進主義者
+radioactive	9	【形】放射能をもった、放射能による
+radish	6	【名】ダイコン、ラディッシュ
+radium	8	【名】ラジウム
+rag	5	【名】ぼろ切れ
+ragged	6	【形】ぼろぼろの、ぼろ服を着た、不規則な
+raindrop	5	【名】雨滴
+rainfall	6	【名】降雨、降雨量
+rainforest	6	【名】熱帯雨林
+raised	8	【形】高くした、酵母で膨らませた
+raisin	5	【名】干しブドウ
+rake	7	【名】くま手
+ram	6	【名】雄羊
+ramification	12	【名】派生して起こる結果、細分化、分岐
+ramp	9	【名】斜面、タラップ、（不正な）株価のつり上げ
+rampant	11	【形】（病気や犯罪が）はびこっている、凶暴な
+rampart	11	【名】防御物、城壁
+ranch	7	【名】大牧場、農場
+ranger	8	【名】森林警備官
+ransom	11	【名】身代金、受け戻し
+rant	11	【名】大言壮語
+rapport	11	【名】調和的な関係、意思の疎通性
+rapprochement	11	【名】和解、親交関係の確立
+rapt	12	【形】心を奪われている、うっとりしている
+rapture	8	【名】狂喜、有頂天
+rarity	8	【名】珍品、珍しさ、絶妙さ、希薄さ
+rascal	9	【名】いたずら者、わんぱく小僧、やつ、下劣な
+rash	7	【名】発疹 【形】向こう見ずな、無分別な
+ration	10	【名】割り当て量
+rationale	11	【名】論理的根拠、理由づけ
+rationality	7	【名】合理性
+ravage	9	【名】破壊
+rave	8	【名】夢中
+raven	10	【名】カラス 【形】漆黒の
+reactionary	11	【形】反動の、保守的な、反動主義者
+reactive	10	【形】よく反応する、反発する
+readiness	8	【名】用意ができていること、迅速、即座、快諾
+reasoning	6	【名】論法、推理、推論
+rebate	10	【名】払い戻し
+rebuff	11	【名】ひじ鉄砲、妨害、断固たる拒絶
+recalcitrant	11	【形】扱いにくい、権力に抵抗する 【名】扱いにくい人
+recapture	9	【名】回復、再逮捕
+receivable	9	【形】受領し得る、受け取るべき、信用できる 【名】受取勘定
+receptive	10	【形】受け入れる、わかりの早い
+receptor	9	【名】受容器官、受容体
+recession	5	【名】景気後退
+recipient	8	【名】受領者、容器
+reciprocal	9	【形】お返しの、代償の、相互関係を表す、反比例の
+recitation	10	【名】暗唱、口答、列挙
+reckless	6	【形】無鉄砲な
+recluse	12	【名】隠遁者、世捨て人
+recompense	12	【名】報酬、お礼
+reconnaissance	11	【名】偵察、調査
+recording	4	【名】記録、記載、レコード
+recourse	10	【名】頼ること、頼みとされる人
+recreation	6	【名】気晴らし、レクリエーション
+recreational	9	【形】娯楽の、気晴らしの、休養の
+recrimination	12	【名】逆襲、非難し返すこと
+rectitude	11	【名】公正、正しさ、正直
+recurrence	9	【名】再発、再現、反復、回帰
+recurrent	10	【形】再発する、頻発する、循環する
+reddish	8	【形】やや赤い、赤らんだ、赤みを帯びた
+redemption	9	【名】償い、贖罪、救出
+redress	12	【名】矯正
+reduction	4	【名】減少、割引
+reed	7	【名】アシ、リード
+reel	6	【名】リール、糸巻き
+referendum	10	【名】国民投票、住民投票
+refill	8	【名】リフィル、補給
+refinement	7	【名】洗練、精製、上品、教養
+reflective	6	【形】反射する、反射による
+reflex	11	【名】反射神経（～es） 【形】反射性の、反動の
+refreshment	6	【名】軽食、飲食物、元気回復
+regime	7	【名】政権、政体、制度
+regimen	11	【名】（食事などの規制による）療法、養生法
+regiment	9	【名】連隊
+regrettable	7	【形】悲しむべき、残念な、痛ましい
+regulator	10	【名】調節装置、取り締まる人
+regulatory	10	【形】調整する、取り締まる
+reign	6	【名】治世
+reimbursement	10	【名】弁償
+reindeer	9	【名】トナカイ
+rejoinder	12	【名】言い返し、返答、口答え
+relational	10	【形】親類の、関係を示す、相関的な
+relativity	10	【名】関連性、相対性
+relevance	8	【名】関連性、適切さ、妥当性
+relevant	6	【形】関係のある、適切な、相当する
+reliance	8	【名】当てにすること、依存、信用
+reliant	10	【形】頼っている
+relic	8	【名】遺物、遺跡、残骸、遺品
+relish	8	【名】味わうこと、楽しむこと、風味
+reminiscence	9	【名】思い出、記憶
+reminiscent	8	【形】思い出させる、連想させる
+remittance	10	【名】（現金・小切手などの）送金
+remnant	9	【名】残部、断片、なごり
+remorse	11	【名】自責の念、深い後悔
+removed	8	【形】隔たった、かけ離れた
+rendezvous	11	【名】待ち合わせ、集合場所、ランデブー
+rendition	11	【名】演奏、翻訳
+renegade	11	【形】背教の、反逆の 【名】背教者、裏切り者
+renown	9	【名】有名、高名
+renowned	9	【形】有名な
+reorganization	7	【名】再編
+reparation	12	【名】賠償金（～s）、償い
+repatriate	12	【名】送還者
+repeated	6	【形】くり返された、たびたびの
+repellent	12	【形】不快な、はねつける 【名】寄せつけないもの、防虫剤
+repentance	9	【名】良心の呵責、後悔
+repertoire	10	【名】レパートリー
+replay	6	【名】再生、再演
+replete	12	【形】～でいっぱいの、腹いっぱいの
+repose	9	【名】休息、静けさ
+repository	10	【名】容器、収納庫、納骨堂
+repression	9	【名】抑圧、衝動、本能
+repressive	9	【形】弾圧的な、抑圧的な
+reprint	7	【名】増刷
+reptile	7	【名】は虫類、いやなやつ
+republican	5	【名】共和党員（R_） 【形】共和党の（R_）、共和制の
+reputation	4	【名】評判、うわさ
+repute	9	【名】世評、好評
+requisite	11	【名】必需品 【形】不可欠の
+resemblance	6	【名】類似
+resentful	8	【形】憤慨している、ひどく嫌がる、怒りっぽい
+resentment	6	【名】怒り、敵意、恨み
+reservoir	9	【名】貯め池、蓄積
+residual	12	【形】残りの 【名】残り、後遺症
+residue	9	【名】残り
+resignation	8	【名】辞職、辞任、辞表、あきらめ
+resin	10	【名】樹脂
+resonance	10	【名】反響、残響、共鳴
+resonant	11	【形】よく響く、共鳴を起こす
+resort	4	【名】リゾート地、頼みの綱
+resourceful	9	【形】臨機の才のある、資源に富む
+respective	7	【形】それぞれの、各自の
+respiration	11	【名】呼吸（作用）
+respiratory	11	【形】呼吸器官の、呼吸の
+resplendent	12	【形】まばゆい、きらきら輝く
+respondent	9	【名】応答者、回答者 【形】応答する、反応する
+responsive	7	【形】すぐ反応する、敏感な
+restitution	12	【名】損害賠償、補償、回復
+restless	6	【形】落ち着かない、不安な
+resumption	10	【名】取り戻すこと、再開
+retail	6	【名】小売り
+retailer	8	【名】小売り商人、受け売りする人
+retaliation	11	【名】仕返し
+retarded	10	【形】知能の遅れた
+retention	9	【名】保有、保存、記憶
+rethink	7	【名】再考
+retina	11	【名】網膜
+retired	4	【形】引退した、奥まった
+retiring	10	【形】内気の、遠慮がちな、隠棲生活を好む
+retort	8	【名】反ばく
+retribution	11	【名】懲罰、報い、天罰
+retrieval	10	【名】回復、救助、検索
+reunion	9	【名】同窓会、再会
+reversal	9	【名】逆転、転倒、挫折
+revulsion	11	【名】強い嫌悪、感情の急変
+rhinoceros	6	【名】サイ｟短縮形：rhino｠
+rib	5	【名】ろっ骨、あばら骨
+riddle	6	【名】なぞなぞ
+rife	11	【形】（好ましくないもの・事が）はびこって
+rig	9	【名】掘削装置、釣具、艤装
+rigor	11	【名】苦しさ、厳しさ、厳密さ
+rim	7	【名】縁、枠
+rink	9	【名】アイススケート場
+rinse	5	【名】ゆすぎ（洗い）
+riot	7	【名】暴動、騒動
+rip	6	【名】裂け目
+ripple	8	【名】さざ波
+rite	8	【名】儀式、典礼、習慣
+rivet	11	【名】びょう
+roadside	9	【形】道路沿いの 【名】道ばた
+roar	5	【名】叫び声、うなり声
+robin	9	【名】コマドリ、コマツグミ
+rocker	9	【名】揺りいす、ロック歌手
+rocky	5	【形】岩石の多い、困難の多い
+rodent	11	【名】リス・ネズミなどの齧歯（げっし）類 【形】齧歯類の
+rogue	9	【名】いたずらっ子、はみ出し者、変異
+romp	11	【名】子どもの大騒ぎ、快走
+roost	12	【名】止まり木、鳥小屋
+rooster	7	【名】オンドリ、気どった男
+rostrum	12	【名】演壇、演説家
+rosy	7	【形】バラのような、健康そうな、楽観的な
+rot	7	【名】腐敗、堕落
+rotor	12	【名】ヘリコプターの回転翼、回転子
+rouge	8	【名】ほお紅、口紅
+roundabout	7	【形】遠回りの、間接の 【名】メリーゴーラウンド、ロータリー
+roundup	12	【名】一斉逮捕、家畜の駆り集め、総括
+rout	11	【名】総くずれ、暴徒
+rove	11	【名】流浪
+rover	11	【名】放浪者、さまよう人、気まぐれ屋
+royalist	10	【名】王政主義者、王党員 【形】王党派の
+royalty	7	【名】印税、特許権使用料
+rubber	3	【名】ゴム、ゴム製品 【形】ゴム製の
+rubbish	6	【名】くず 【形】下手な
+rubble	10	【名】粗石、破片、瓦礫
+rudder	12	【名】船のかじ、指針
+ruddy	12	【形】血色のよい
+rudimentary	12	【形】初歩の、基本の、未発達の
+rueful	11	【形】痛ましい、悲しそうな
+ruffle	12	【名】さざ波
+rug	7	【名】じゅうたん、肩掛け
+rumble	8	【名】轟音
+rump	12	【名】動物の尻、残りかす
+runaway	9	【名】逃亡者 【形】逃亡した、大勝の、急騰する
+rung	10	【名】（はしごの）横桟（さん）、じょうぶな棒
+rustic	9	【形】いなかの、素朴な、粗野な 【名】いなかの人
+rut	12	【名】マンネリ、決まりきった型、わだち
+ruthless	9	【形】残酷な
+rye	8	【名】ライムギ
+sabbath	12	【名】安息日(the S_)
+sabbatical	12	【名】大学教授の休暇年度 【形】安息日の（S_）
+sacred	5	【形】神聖な、宗教的な
+sacrilegious	12	【形】神聖をけがすような、不信心の
+saddle	5	【名】鞍、サドル
+sag	11	【名】たるみ、落ち込み
+sagacious	12	【形】賢明な、機敏な
+sage	9	【名】賢者 【形】賢い、厳粛な
+saliva	12	【名】唾液
+saloon	7	【名】酒場、大きな部屋
+salty	4	【形】塩を含んだ、辛らつな
+salutary	12	【形】有益な、ためになる、健康によい
+salvage	11	【名】海難救助、財貨の救出
+salvation	9	【名】救い、救出
+sanctity	11	【名】神聖さ、高潔
+sandstone	10	【名】砂岩
+sanguine	11	【形】楽天的な、自信たっぷりの、赤みを帯びた
+sap	9	【名】樹液、元気
+sardine	9	【名】イワシ
+sardonic	11	【形】冷笑的な
+satchel	12	【名】学生カバン、小カバン
+saturation	12	【名】飽和状態、浸透、彩度、軍事力の集中
+savage	6	【形】どう猛な、粗野な、激しい 【名】粗野な人
+savior	11	【名】救済者、救世主（S_ ，Saviour）
+savor	10	【名】味、におい、特色、感じ
+savvy	12	【形】物知りの、精通した 【名】知識
+scalp	11	【名】頭皮、戦利品、薄利
+scandalous	7	【形】恥ずべき、不面目な、中傷的な
+scapegoat	10	【名】身代わり、犠牲、他人の罪を負う者
+scarcity	8	【名】不足、欠乏、食糧難
+scarlet	7	【名】緋色 【形】緋色の
+scary	5	【形】恐ろしい
+scenic	8	【形】風景の、景色のいい、劇の、生き生きとした
+schizophrenia	11	【名】精神分裂病
+scholarly	9	【形】学術的な、学者の
+schooling	6	【名】学校教育、教えること、授業料
+scoop	7	【名】ひとすくいの量、ひしゃく、特ダネ
+scope	6	【名】（能力・理解などの）範囲、限界、余地
+scornful	7	【形】嘲笑的な、軽蔑に満ちた
+scour	11	【名】洗浄、洗剤
+scourge	11	【名】災難の原因、たたり
+scout	4	【名】調査、偵察、スカウト
+scowl	12	【名】しかめっ面
+scrabble	12	【名】ひっかくこと、走り書き
+scrape	6	【名】こすること
+screaming	10	【名】叫び声、絶叫 【形】けばけばしい
+screech	11	【名】荒く甲高い音
+scripture	9	【名】聖書、聖句
+scrub	8	【名】みがくこと
+scruffy	12	【形】だらしがない、むさ苦しい
+scruple	12	【名】良心のとがめ（～s）
+scrutiny	9	【名】精密な調査、監視
+scuffle	12	【名】取っ組み合い
+sculptor	8	【名】彫刻家
+sculpture	5	【名】彫刻
+scum	12	【名】浮きかす、くず
+scuttle	11	【名】舷窓、急ぎ足
+seaman	7	【名】船員、上等水兵
+seasonal	7	【形】ある季節に限った
+secession	12	【名】脱退、離脱
+secluded	12	【形】人里離れた、隠遁した、隔離された
+secretarial	10	【形】秘書の（仕事に関する）
+secretive	10	【形】隠しだてする、秘密主義の
+sectarian	11	【形】党派の、宗派の、偏狭な 【名】派閥に属する人
+secular	9	【形】世俗の、非宗教的な、修道院外の 【名】俗人
+sedate	12	【形】落ち着いた、活気のない
+sedative	11	【名】鎮静剤 【形】鎮静させる
+sedentary	12	【形】定住性の、座った姿勢の
+sediment	12	【名】堆積物、沈殿物
+seedy	11	【形】みすぼらしい、いかがわしい
+seeming	9	【形】うわべの 【名】見せかけ
+seep	11	【名】水たまり
+segregation	9	【名】人種（性別）的分離（待遇）、分離
+seismic	11	【形】地震の、激しい
+seizure	9	【名】差し押さえ、つかむこと、発作、急病
+semantic	12	【形】語義の、意味論の
+semblance	10	【名】外見、類似
+seminal	11	【形】影響力の大きい、生殖の
+seminary	11	【名】神学校
+senile	12	【形】もうろくした、老衰した、老人の
+seniority	10	【名】年上、年功
+sensibility	8	【名】感覚、感性、感受性、敏感さ
+sensitivity	6	【名】敏感さ、感じやすさ、感受性
+sensory	9	【形】知覚の、感覚の
+sensuous	8	【形】感覚の、感覚を喜ばせる、官能的な、敏感な
+sentry	12	【名】見張り、番兵
+sequel	9	【名】続編
+sergeant	7	【名】軍曹、巡査部長
+serpent	7	【名】ヘビ、悪魔、悪意のある人
+serum	12	【名】血清
+serviceman	12	【名】軍人、修理人
+servile	12	【形】奴隷の、卑しい
+serving	6	【名】給仕をすること、（食事の）一人前
+setback	9	【名】妨げ、逆行
+sewage	11	【名】汚水、下水
+sewer	9	【名】下水管
+sewerage	12	【名】下水道、下水処理、汚い考え
+shackle	11	【名】手錠（～s）、束縛
+shadowy	7	【形】謎につつまれた、陰になった、あいまいな、まぼろしの
+shady	6	【形】陰にする、影の多い、怪しい
+shaft	7	【名】柄、軸、矢、一条の光線
+shaggy	10	【形】毛むくじゃらの、はびこった
+sham	10	【名】まがいもの、詐欺師 【形】見せかけの
+shaped	9	【形】（複合語で）～の形をした
+shatter	6	【名】破片
+shear	11	【名】大ばさみ（～s）
+sheath	12	【名】刀剣のさや、ぴったりしたドレス
+sheen	11	【名】光沢、輝き
+sheepish	10	【形】羊のような、恥ずかしがる、柔和な
+shellfish	8	【名】甲殻類、貝
+shepherd	7	【名】羊飼い
+sherbet	9	【名】シャーベット
+sheriff	9	【名】保安官、州長官
+sherry	7	【名】シェリー酒
+shifty	12	【形】うさんくさい、ごまかしの多い、動きの素早い
+shingle	11	【名】こけら板、小看板
+shipbuilding	9	【名】造船
+shipwreck	10	【名】難破（船）、残がい、破壊
+shoal	12	【名】浅瀬、大群、隠れた危険 【形】浅い
+shoddy	11	【形】見せかけの 【名】見せかけ、再生毛糸
+shore	2	【名】海岸、陸地 【形】陸の
+shoreline	8	【名】海岸線
+shortcoming	10	【名】欠点、不十分な点
+shorthand	10	【名】速記、簡単明瞭な言い方
+showdown	10	【名】最終的段階、どたん場、暴露
+showy	9	【形】はでな、人目を引く
+shred	10	【名】切れ端
+shrewd	8	【形】抜け目のない、鋭い
+shriek	7	【名】叫び声、悲鳴
+shrill	8	【形】甲高い、高くて鋭い、辛らつな
+shroud	10	【名】幕、覆い、とばり、経かたびら
+shrub	7	【名】低木
+shrug	7	【名】肩をすくめること
+shudder	8	【名】身震い、激しい震動
+sickle	11	【名】鎌
+sideline	11	【名】副業、横線、控え選手の立場
+sierra	11	【名】ノコギリ状の山脈、サワラ
+sieve	12	【名】ふるい、ざる、口の軽い人
+signpost	9	【名】道標、手がかり、指針
+silhouette	9	【名】シルエット、影絵
+silvery	9	【形】銀のような、銀鈴を鳴らすような、銀を含有する
+simplicity	6	【名】単純、簡単、平易
+simplistic	10	【形】単純化した
+simultaneous	7	【形】同時の
+sinew	12	【名】筋肉、腱、体力
+sink	2	【名】流し
+sinner	9	【名】（道徳・宗教上の）罪人
+sip	7	【名】ひと口、ひとすすり
+sire	11	【名】動物の雄親、種馬
+siren	8	【名】サイレン、魅惑的な美女
+skeleton	8	【名】骨格、骸骨、やせこけた人、概要
+skeptic	10	【名】懐疑論者、無神論者
+skeptical	9	【形】懐疑的な、懐疑派の
+skepticism	9	【名】懐疑的な態度、無神論
+skid	8	【名】横滑り、（飛行機などの着陸用）そり
+skim	7	【名】すくい取ること、浮遊物
+skinner	11	【名】詐欺師、皮加工人
+skipper	12	【名】小型船の船長、主将、指揮官
+skull	10	【名】頭がい骨、おつむ
+skyline	7	【名】スカイライン、空を背景とした輪郭
+slab	9	【名】広い厚板、厚切り
+slander	12	【名】中傷、名誉毀損
+slapstick	12	【形】どたばた喜劇の 【名】どたばた喜劇
+slash	8	【名】すっと切りつけること、切り傷、斜線
+slate	10	【名】スレート、石板、候補者名簿
+slaughter	8	【名】食肉解体処理、残酷な殺人
+sleazy	11	【形】安っぽい、けちな、取るに足らない
+sled	9	【名】そり
+sleek	11	【形】つやつやした、栄養がよい
+sleepless	6	【形】眠れない、不眠症の
+sleigh	7	【名】そり
+slick	10	【形】すべすべした、ずるい、物柔らかな 【名】滑らかな場所
+sliding	9	【形】引いて開ける形の、滑る、操作する
+sling	9	【名】投石器、三角巾、吊革、パチンコ
+sliver	11	【名】破片、細長い小片
+sloppy	10	【形】ぞんざいな、だらしない、めそめそした、泥んこの
+slouch	11	【名】前かがみのだらけた姿勢
+slovenly	12	【形】だらしない、身なりが汚い
+sludge	11	【名】泥、ぬかるみ
+sluggish	10	【形】ものぐさな、活気のない
+sluice	12	【名】水路、水門
+slur	11	【名】中傷、不明瞭な発音
+sly	7	【形】ずるい、意味ありげな、こそこそした
+smear	10	【名】汚れ
+smirk	11	【名】気どった笑い
+smite	11	【名】一撃
+smock	10	【名】上っぱり
+smoky	6	【形】いぶる、かすんだ、煙で暗くなった
+smother	10	【名】濃霧
+smudge	12	【名】汚れ、いぶし火
+smug	11	【形】うぬぼれの強い、自己満足の
+smuggler	8	【名】密輸業者、密輸船
+snag	11	【名】思わぬ障害、船を妨害する沈み木
+snail	7	【名】カタツムリ、巻き貝、のらくら者
+snap	4	【名】留め金、ポキッと折れること、パチンと鳴ること
+snare	7	【名】わな、誘惑
+sneak	8	【形】予告なしの
+sneeze	5	【名】くしゃみ
+sniff	8	【名】鼻をクンクン鳴らすこと
+snip	12	【名】（はさみで）チョキンと切ること、切り目
+snob	9	【名】俗物、お高くとまった人
+snooze	12	【名】うたた寝
+snore	7	【名】いびき
+snowball	9	【名】雪玉、雪だるま式に大きくなるもの
+snowflake	10	【名】雪片、オオマツユキソウ
+snowstorm	6	【名】吹雪
+snuff	10	【名】におい
+snug	9	【形】居心地のよい、暖かくて気持ちいい、体にぴったりの
+socioeconomic	9	【形】社会経済の
+sociological	9	【形】社会環境論的な、社会学的に
+sociologist	7	【名】社会学者
+sod	12	【名】芝、芝生、芝土
+sodden	12	【形】びしょ濡れの、ふやけた、ぼんやりした
+sodium	11	【名】ナトリウム
+soggy	12	【形】ねっとりした、びしょ濡れの、しまりのない
+sojourn	12	【名】滞在
+solstice	12	【名】（太陽の）至、至点
+solvent	12	【名】溶剤 【形】支払い能力がある、溶解力のある
+somber	11	【形】陰気な、ゆううつな、薄暗い
+soot	10	【名】すす
+sorcerer	12	【名】魔術師、魔法使い
+sordid	11	【形】下劣な、あさましい、汚い
+spacecraft	6	【名】宇宙船
+spank	9	【名】平手打ち
+sparing	10	【形】寛大な、倹約する、質素な
+spasm	10	【名】けいれん、発作
+spate	11	【名】大量、ことばや感情のほとばしり
+spawn	10	【名】子どもたち
+spear	7	【名】槍
+spearhead	11	【名】先頭、最前線、槍の穂先
+specimen	7	【名】標本、実例、やつ
+specious	12	【形】うわべはよく見える、見かけだおしの
+speck	9	【名】少量、しみ
+spectator	5	【名】観客、見物人
+speculative	9	【形】思索的な、投機的な、危険な
+speculator	10	【名】投機家、思索家
+speechless	9	【形】強い感情でものが言えない、無言の
+sperm	10	【名】精子、精液
+spike	7	【名】大くぎ、スパイク
+spinach	6	【名】ホウレンソウ
+spinal	11	【形】背骨の、脊髄の 【名】脊髄麻酔薬
+spinning	9	【名】紡績、投げ釣り
+spit	6	【名】唾液、くし
+spite	4	【名】悪意、恨み
+splendor	7	【名】素晴らしさ、豪華、壮観、輝き
+splice	11	【名】組み継ぎ、接合
+splinter	9	【名】とげ、分派
+spoke	7	【名】（車輪の）スポーク、輪止め、はしごの段
+spontaneity	9	【名】自然さ、自発性、自然発生
+spontaneous	7	【形】自然に起こる、任意の、無意識の
+spook	11	【名】幽霊、スパイ
+sporadic	11	【形】散発的な、ときどき起こる、散在している
+spouse	8	【名】配偶者
+spout	10	【名】（やかんなどの）口、噴出
+sprawl	8	【名】不規則な広がり
+spreadsheet	9	【名】集計表、スプレッドシート、簿記用紙
+spree	11	【名】欲望や気分にふけること、ばか騒ぎ
+sprig	12	【名】小枝
+springtime	6	【名】春季、初期
+sprite	12	【名】妖精
+sprout	10	【名】芽、芽キャベツ、もやし
+spruce	12	【形】こぎれいな
+spur	7	【名】拍車、激励
+spurious	12	【形】論理的に誤った、偽ものの、私生児の
+spurn	11	【名】にべもない拒絶
+spurt	10	【名】ほとばしり、一時的な力走
+squabble	11	【名】つまらないけんか
+squadron	11	【名】戦隊、小艦隊、団体
+squalid	12	【形】むさ苦しい、卑しい
+squalor	12	【名】汚らしさ、むさ苦しさ、あさましさ、みすぼらしさ
+squarely	9	【形】真っ正面に、四角に
+squatter	12	【名】無断居住者、うずくまる人
+squeak	9	【名】きしる音
+squeal	11	【名】悲鳴、歓声
+squeamish	12	【形】すぐに気分が悪くなる、上品ぶった、怖がりの
+squint	11	【名】ちらりと見ること
+squirrel	5	【名】リス
+squirt	12	【名】噴水
+stab	7	【名】突き刺すこと、攻撃
+stack	6	【名】山、積み重ね、書棚の列
+stag	12	【名】成熟した雄鹿 【形】男性だけの
+stagnant	11	【形】よどんだ、発達のない
+stagnation	11	【名】沈滞、不振、停滞
+stairway	9	【名】階段
+stake	4	【名】くい、棒、掛け金、出資金
+stale	6	【形】新鮮でない、気の抜けた
+stalemate	11	【名】行き詰まり
+stalk	6	【名】忍び寄ること
+stall	4	【名】売店、馬小屋
+stallion	12	【名】種馬
+stammer	8	【名】どもり
+staple	7	【形】基本的な、主要な 【名】とじ金
+starch	9	【名】でんぷん、洗濯用のり、堅苦しさ
+statesman	8	【名】政治家
+stationary	8	【形】静止した、同じ状態を保つ、固定された
+stationery	4	【名】文房具、便せん
+stature	8	【名】名声、身長、発達
+statute	8	【名】法令、制定法、規則
+staunch	11	【形】忠実な、頑丈な、揺るぎない
+stave	11	【名】桶板、さお
+stead	12	【名】代わり、有用、利益
+steamboat	9	【名】蒸気船
+steamship	9	【名】汽船
+steeple	9	【名】教会などの尖塔、塔状建物
+stein	11	【名】陶製ジョッキ
+stellar	11	【形】花形の、星の（ような）
+stench	12	【名】悪臭
+stenographer	12	【名】速記者
+stepfather	9	【名】義父、継父
+stepmother	9	【名】義母、継母
+sterile	8	【形】不妊の、実のならない、無菌の、やせた、不毛の
+sterling	10	【形】英貨の、りっぱな、（銀・金が）法定純度の
+stew	4	【名】シチュー
+steward	7	【名】乗物の乗客係、執事、給仕長
+stigma	11	【名】汚名、汚点、焼き印
+stillness	6	【名】静けさ
+stingy	10	【形】けちな、乏しい
+stint	11	【名】割り当てられた仕事
+stony	6	【形】石の多い、石質の、冷酷な
+stopover	10	【名】ちょっと立ち寄ること、途中下車
+stoppage	10	【名】中止すること、障害
+stopper	7	【名】栓、詰め、止める人
+storekeeper	7	【名】店主、倉庫管理人
+stormy	4	【形】あらしの、怒り狂った
+strait	6	【名】海峡、苦境 【形】狭い、厳しい
+strand	7	【名】髪の毛、（髪の）ふさ
+stratum	12	【名】地層、階層、層
+straw	2	【名】わら 【形】わらでできた
+streetcar	7	【名】路面電車、市街電車
+stricken	11	【形】災害や病気に襲われた、打ちひしがれた
+stride	5	【名】大股の足どり
+strident	11	【形】執拗な、耳ざわりな、きしる
+strife	6	【名】敵対、けんか
+stringent	11	【形】（規則が）厳しい、強制的な、差し迫っている
+stroll	8	【名】ぶらぶら歩き、散歩
+stronghold	11	【名】本拠地、最後のよりどころ、とりで
+strut	10	【名】気どって歩くこと
+stub	10	【名】半券、切り株
+stubble	12	【名】無精ひげ、刈り株
+stubborn	5	【形】頑固な、強情な
+stud	10	【名】飾りびょう
+stuffy	12	【形】空気がよどんだ、息苦しい、退屈な
+stump	6	【名】切り株、幹
+stunt	11	【名】人目を引くための行為、離れわざ、発育の停止
+stupendous	12	【形】驚くべき、膨大な
+stupidity	6	【名】愚かさ
+stupor	12	【名】無感覚状態、ぼう然自失の状態
+stylistic	7	【形】文体(論)の
+subcommittee	9	【名】小委員会
+subconscious	8	【名】潜在意識 【形】潜在意識の
+subdued	9	【形】落ち着いた、沈んだ、征服された
+sublime	7	【形】気品のある、崇高な、壮大な 【名】崇高なもの
+submission	7	【名】提出、提案、降伏
+submissive	9	【形】服従的な
+subordinate	8	【形】下の、副次的な 【名】部下
+subsidiary	7	【名】補助、子会社 【形】従属する、補助の、助成金の
+subsistence	12	【名】必要最低限の生活、生存、扶養
+substantive	10	【形】実質的な、かなりの
+subtlety	9	【名】巧妙さ、希薄（であること）、繊細さ
+suburban	8	【形】郊外の、郊外に住む、退屈な、偏狭な
+subversion	12	【名】（政府・組織などの）密かな破壊・転覆活動
+subversive	11	【形】破壊的な、転覆させる 【名】破壊分子
+succulent	12	【形】汁気の多い、生気のある
+suffrage	12	【名】選挙権、賛成票
+suite	9	【名】ひと揃い、特別室、組曲
+suitor	10	【名】原告、求婚者
+sulfur	10	【名】イオウ
+sulk	12	【名】不機嫌
+sullen	7	【形】黙り込んだ、気むずかしい、陰気な
+sultan	12	【名】イスラム教国の君主、暴君
+sultry	12	【形】蒸し暑い、情熱的な
+sumptuous	11	【形】豪華な、高価な
+sundry	12	【形】いろいろな、種々の
+sunken	9	【形】沈んだ、水中の、下がった
+superficial	8	【形】外見上の、浅薄な、実体のない
+superintendent	9	【名】指導監督者、管理者
+superiority	8	【名】上位、優越、優勢
+supernatural	7	【形】超自然の、信じられないほどの、神わざの
+supersonic	9	【形】超音速の
+supper	5	【名】夕食、晩餐
+supplement	6	【名】補足、付録
+supplementary	9	【形】補助的な、追加の 【名】補充となる人
+suppression	7	【名】抑圧、鎮圧、弾圧、抑制、禁止
+supremacy	9	【名】優位、優越性、最高（級）
+surcharge	11	【名】追加料金、暴利
+surge	9	【名】殺到、電圧変化
+surly	12	【形】無愛想な、苛だっている
+surrogate	11	【名】代理 【形】代理の
+surveillance	10	【名】監視、監督
+surveyor	10	【名】測量士、監視者、輸入品検査官
+susceptibility	12	【名】影響されやすいこと、敏感な感情、感染しやすいこと
+swagger	11	【名】いばった態度
+sweeping	11	【形】圧倒的な、一掃するような、広範な
+sweetheart	6	【名】恋人、（呼びかけとして）ねえ、あなた
+swerve	10	【名】逸れること、脱線
+swine	12	【名】ブタ、イノシシ、嫌な奴
+swirl	8	【名】回転、渦巻き
+swollen	9	【形】腫れあがった、膨れた、増水した、誇張した
+swoon	11	【名】気絶、卒倒
+swoop	9	【名】不意の襲撃
+symmetrical	10	【形】左右相称的な、釣り合いのとれた
+synod	12	【名】（教会の）会議
+synopsis	12	【名】あらすじ、概要、一覧
+synthetic	9	【形】合成の、統合的な、作り事の 【名】合成品、模造品
+tableau	12	【名】劇的場面、絵画的な描写
+tabloid	9	【名】タブロイド判新聞、要約
+tacit	11	【形】暗黙の、無言の
+tack	8	【名】留めびょう、しつけ、仮縫い、方針
+tactical	10	【形】戦術の、抜け目ない、適切な、急場しのぎの
+tadpole	12	【名】オタマジャクシ
+tag	6	【名】札、鬼ごっこ
+taint	9	【名】痕跡、汚染
+takeout	7	【名】持ち帰り用の料理 【形】持ち帰り用の
+talisman	12	【名】お守り
+talkative	7	【形】話し好きな、口数の多い
+tally	11	【名】勘定、割り符
+talon	12	【名】猛鳥のかぎつめ、トランプの残り札
+tan	7	【名】日焼けの色
+tangible	9	【形】実体のある、明確な、効果的な
+tantalizing	11	【形】人の期待をかきたてる、じれったい
+tantrum	11	【名】かんしゃく
+tardy	12	【形】遅刻した、のろのろした
+tart	9	【形】酸っぱい、ぴりっとした、辛辣な
+tasteful	7	【形】上品な、趣味のよい
+tasteless	9	【形】味のない、趣味の悪い
+taut	11	【形】ぴんと張った、緊張した、厳格な
+tavern	8	【名】居酒屋、宿屋
+tawdry	11	【形】はでで安っぽい 【名】けばけばしい飾り
+taxpayer	6	【名】納税者
+tear	2	【名】涙 、裂け目
+tearful	7	【形】涙を誘う、涙でいっぱいの、泣いている
+tee	10	【名】T字型のもの、目標、（ゴルフの）ティー
+temper	5	【名】気分
+temperament	8	【名】体質、気質、性分
+temperance	9	【名】節制、禁酒、節度
+temperate	7	【形】温和な、控えめな
+tempest	7	【名】大嵐、大騒動
+tempestuous	12	【形】激しい、大嵐の、騒々しい
+temporal	9	【形】時間の、現世の、一時の、側頭部の
+tenancy	12	【名】借用期間、土地や家屋の保有、保有期間
+tenement	12	【名】安アパート、家屋、貸し部屋
+tenet	11	【名】教義、信条、見解
+tenor	11	【名】趣旨、傾向、テノール
+tentacle	12	【名】触手、触覚
+tenuous	11	【形】取るに足りない、薄い、浅はかな
+tenure	10	【名】長期在職権、保有期間
+tepid	11	【形】生ぬるい、熱意に欠ける
+terrain	11	【名】地形、地勢
+terrestrial	12	【形】陸地の、地球の、この世の 【名】地球に住むもの
+territorial	7	【形】領土に関する、地域的な、一地域の、土地の
+testament	8	【名】証拠、遺言、契約、聖書
+testimonial	11	【形】感謝や賞賛を表す、証明となる 【名】証明書、賞状
+tetanus	12	【名】破傷風
+textile	7	【名】布地、織物 【形】織られた、織物の
+thatch	12	【名】わらぶき屋根、屋根をふく材料
+thaw	7	【名】解けること、うち解けること
+theatrical	6	【形】演劇の、芝居がかった
+thee	10	【代】なんじを
+thesaurus	12	【名】分類語彙辞典、シソーラス、百科事典
+thesis	7	【名】卒業論文、学位論文、命題
+thicket	7	【名】低木の茂み、やぶ、雑木林
+thimble	12	【名】指ぬき
+thong	9	【名】革ひも、サンダル
+thorn	7	【名】とげ、苦痛の種
+thoroughbred	12	【形】サラブレッド種の、純血種の 【名】サラブレッド
+thoroughfare	12	【名】大通り、通過
+thou	9	【代】そなた（二人称単数主格）
+thoughtless	7	【形】軽率な、不注意な、思いやりのない、不親切な
+threadbare	12	【形】すり切れた、みすぼらしい、お粗末な
+thrift	8	【名】倹約、繁茂
+thrifty	12	【形】倹約的な、つましい
+throne	5	【名】王位、王座、国王
+throng	9	【名】群衆、雑踏
+throttle	11	【名】（機械）スロットル、絞り
+thrush	9	【名】ツグミ
+thud	12	【名】ドスンという音、ゴツンという一撃
+thug	11	【名】残忍な悪漢、殺し屋、暴漢
+thump	9	【名】ゴツンという音、強打
+thunderous	9	【形】雷のような、とどろきわたる、途方もない
+thunderstorm	7	【名】激しい雷雨
+tick	6	【名】チェックマーク、時計のカチカチという音
+tidal	7	【形】潮の、干満の、周期的な
+tide	4	【名】潮（の干満）
+tier	11	【名】段階、列、段
+timber	7	【名】材木、森林、人柄
+timid	6	【形】気の小さい
+timidity	10	【名】憶病、小心
+tinge	11	【名】（a tinge of～）かすかな味や様子
+tinker	10	【名】何でも屋
+tint	10	【名】色合い
+tireless	7	【形】根気強い、疲れない、不断の、衰えない
+tiring	6	【形】疲れる、骨の折れる
+tithe	12	【名】（中世ヨーロッパで教会に納めた）10分の1税、10分の1
+toad	12	【名】ヒキガエル、嫌なやつ
+toast	3	【名】トースト、祝杯
+toddler	10	【名】よちよち歩きの小児
+toil	7	【名】苦労
+tolerable	7	【形】耐えられる、悪くない、まあまあの
+tolerant	7	【形】寛容な、耐える、耐性がある
+toll	7	【名】使用料、犠牲者
+tome	11	【名】学術書、大冊、大著の中の名冊
+tongs	12	【名】火ばし、物を挟む道具
+tonic	8	【名】トニックウォーター、強壮剤 【形】強壮にする、元気づける
+toothpick	9	【名】ようじ
+topical	6	【形】時事問題の、局所の
+topography	12	【名】地形（学）、地形図
+torpedo	11	【名】魚雷
+torrent	9	【名】急流、激発、連発
+tort	11	【名】不法行為
+tow	8	【名】引くこと、引き船、けん引車
+townspeople	9	【名】町の住民、都会人
+tract	10	【名】大きな広がり、地域、管
+tragedy	5	【名】悲劇
+tragic	5	【形】悲劇の、悲惨な、痛ましい
+trailer	8	【名】ハウストレーラー、移動住宅、映画の予告編
+trainee	7	【名】見習い
+traitor	7	【名】裏切り者
+trajectory	11	【名】軌道、曲線、弧
+tram	5	【名】市街電車、線路、トロッコ
+tramp	7	【名】放浪者 【形】決まった宿のない
+trample	7	【名】踏みつけること
+trance	10	【名】夢うつつ、人事不省
+transcontinental	10	【形】大陸横断の
+transcript	8	【名】筆記録、写し、成績証明書
+transfusion	9	【名】輸血（blood transfusion）、注入
+transit	9	【名】通過、運送、移り変わり
+translucent	11	【形】半透明の、明快な
+traverse	8	【名】縦走、横断
+treacherous	8	【形】不誠実な、裏切りをする、当てにならない、不安定な、危険な
+treachery	10	【名】不信、裏切り
+tread	5	【名】足音、タイヤの溝形
+treason	11	【名】国家への反逆（罪）、裏切り
+treasurer	7	【名】会計係、財務担当者、国庫
+treasury	6	【名】国庫、公庫、基金、財務省
+treatise	10	【名】専門書、論文
+treble	9	【形】3倍の、かん高い
+trek	10	【名】旅行、トレッキング
+tremor	11	【名】揺れ、身震い
+tremulous	12	【形】震えた、びくびくしている
+trench	8	【名】深い溝、塹壕（ざんごう）
+tribal	8	【形】部族の
+tribune	11	【名】人権の擁護者、軍団司令官
+trickle	9	【名】しずく、少量
+trident	12	【名】三叉のほこ
+trifle	7	【名】少量、つまらないもの
+trillion	9	【名】1兆、無数
+trimming	10	【名】整頓、刈り込み、添えもの
+trite	12	【形】古くさい、陳腐な
+trolley	9	【名】路面電車
+troop	5	【名】軍隊、警官
+trooper	11	【名】州警察官、騎馬警官、騎兵
+tropic	12	【名】回帰線 【形】熱帯地方の
+trough	12	【名】かいばおけ、雨どい、地溝、景気の谷間
+troupe	11	【名】一座、一行
+trout	8	【名】マス
+truant	12	【形】ずる休みしている 【名】無断欠席者
+trudge	11	【名】重い足どり
+trump	9	【名】切り札
+trustee	7	【名】理事、役員、受託者、保管人
+truthful	6	【形】正直な、真実の
+tuberculosis	11	【名】結核
+tuck	6	【名】すそ、タック
+tug	8	【名】強く引くこと、努力、引き綱
+tuition	7	【名】授業料、教育
+tumble	7	【名】転ぶこと、転倒
+tumor	9	【名】腫瘍、ふくらみ、尊大
+turbulence	10	【名】大荒れ、乱気流
+turbulent	9	【形】動揺した、荒れ狂う
+turf	9	【名】芝生、競馬
+turner	11	【名】ろくろ工、フライ返し
+turnip	8	【名】カブ
+turnout	11	【名】人出、投票率、出動
+turnover	7	【名】交替数、転覆、（商品などの）回転率 【形】折り返された
+turnpike	12	【名】有料道路
+tweak	11	【名】微調整
+twig	7	【名】小枝
+twinkle	5	【名】きらめき
+twitch	9	【名】けいれん
+twitter	12	【名】さえずり
+typhoid	12	【名】腸チフス 【形】腸チフス性の
+tyrannical	9	【形】圧政的な、暴君的な
+tyranny	7	【名】専制政治、暴政、過酷
+tyrant	7	【名】暴君
+ubiquitous	8	【形】あちこちに現れる、遍在する
+ulcer	10	【名】潰瘍（かいよう）、腐敗、病根
+ultimatum	11	【名】最後通告、最後通牒、究極点、根本原理
+ultraviolet	10	【形】紫外線を用いた 【名】紫外線
+umpire	6	【名】審判員、アンパイア、仲裁員
+unaccountable	10	【形】説明できない、奇妙な、責任がない
+unbearable	6	【形】耐えられない
+unbeaten	10	【形】敗れたことのない、踏まれていない
+uncanny	11	【形】超人的な、神秘的な、不可思議な
+uncompromising	10	【形】妥協しない、徹底的な、頑固な
+unconcerned	9	【形】関係していない、むとんちゃくな、心配しない
+unconventional	9	【形】因習にとらわれない、自由な
+undeniable	9	【形】非の打ちどころのない、否定できない、議論の余地のない
+undercover	10	【形】秘密の
+underlying	8	【形】基礎をなす、内在する、第一の
+undertaking	7	【名】仕事、引き受けること、約束、事業
+undisturbed	8	【形】じゃまされない、平穏な、そのままにしてある
+undone	9	【形】破滅した、未完成の、ほどけた
+undoubted	6	【形】疑問の余地がない
+undue	12	【形】過度の、適切でない、支払期限がまだの
+uneasy	6	【形】不安な
+unequivocal	12	【形】絶対的な、あいまいでない
+uneven	8	【形】平らでない、でこぼこの、不規則な、奇数の、段差のある
+unfavorable	8	【形】好意的でない、不利な、不運な
+unfit	8	【形】不適当な、健康でない、適さない
+unforeseen	10	【形】予期しない、不測の
+unforgettable	8	【形】忘れられない、いつまでも記憶に残る
+unification	9	【名】統一、結合（状態）
+uniformity	7	【名】均一性、一様、不変性
+unilateral	11	【形】一方的な、片側だけの
+unintelligible	9	【形】理解できない
+unintentional	9	【形】故意でない、何気ない
+uninterrupted	9	【形】とぎれない、連続する
+unionist	10	【名】労働組合員、合同主義者、連邦主義者
+unkempt	12	【形】くしでとかしていない、手入れをしていない
+unloved	9	【形】愛されていない、好かれていない
+unmarried	6	【形】未婚の
+unmistakable	6	【形】間違いようのない
+unnatural	6	【形】不自然な
+unnoticed	9	【形】気づかれない、注目されない
+unobtrusive	12	【形】控えめな、出しゃばらない
+unorthodox	10	【形】正統でない、異端の
+unparalleled	10	【形】並ぶ者のない、無比の、前代未聞の
+unprecedented	9	【形】前例のない
+unpredictable	7	【形】予測できない
+unprofitable	10	【形】利益のない、損な、無駄な
+unreal	8	【形】実在しない、信じられないくらいすばらしい
+unrest	9	【名】不安、社会的動揺
+unruly	11	【形】乱暴な、規則に従わない、荒れ狂う
+unseen	6	【形】目に見えない、初見の
+unselfish	6	【形】利己的でない、無私の
+unsold	9	【形】売れない、売れ残りの
+unspoken	10	【形】言外の、無言の
+unsuitable	6	【形】不適当な
+unsure	7	【形】自信がない、不確かな
+unsuspecting	8	【形】疑わない
+unthinkable	10	【形】考えられない、問題にならない 【名】考えられないこと
+untidy	6	【形】乱雑な、だらしない
+untouched	10	【形】触れられていない、手つかずの
+untrue	8	【形】虚偽の、忠実でない、不正な、標準に合わない
+unwanted	8	【形】望まれていない、無用の
+unwavering	12	【形】揺るぎない、断固とした
+unwise	6	【形】思慮が足りない
+unworthy	6	【形】（～に）値しない、価値のない
+upbeat	11	【形】楽天的な、陽気な
+upbringing	11	【名】しつけ、教育
+upheaval	10	【名】隆起、大変動
+upholstery	12	【名】掛け布、室内装飾用品
+upland	9	【名】高地、高原地方 【形】高地の
+uplift	8	【名】持ち上げること
+uplifting	11	【形】気持ちを高揚させる、励みになる
+upmarket	12	【形】高所得層向けの、高級品市場向けの
+upshot	11	【名】結末、結論、議論の要点
+upside	6	【名】上側、上部、上昇傾向
+upstart	11	【名】成り上がり者、成金 【形】成金の
+uranium	9	【名】ウラン
+urbane	12	【形】洗練されている、あかぬけた、礼儀正しい
+urn	12	【名】骨つぼ、装飾的なつぼ
+usable	10	【形】使用に適した、使うのに便利な
+usefulness	6	【名】有用性
+usher	8	【名】案内係、門番、先導役
+utilitarian	10	【形】実用的な 【名】功利主義
+vacancy	7	【名】空き室、空き地、空虚、空間
+vagabond	12	【名】放浪者 【形】放浪の、評判のよくない
+vale	12	【名】谷
+valiant	12	【形】勇気ある、価値ある
+valor	12	【名】勇敢さ、武勇
+valuation	9	【名】評価、価値判断
+valve	7	【名】弁、バルブ、弁膜
+vandalism	11	【名】公共物の汚損、芸術文化の破壊
+vane	12	【名】風車の羽根、風見
+vanguard	11	【名】先駆者、指導的地位、軍の前衛
+vanity	6	【名】虚栄心
+vantage	12	【名】見晴らしのよい地点、有利、優越
+vapor	7	【名】蒸気
+variable	7	【形】変わりやすい、移り気な 【名】変化するもの、変数
+variant	10	【名】異なるもの、変形 【形】異なる、さまざまな
+varied	6	【形】変化に富む、変えられた
+varnish	10	【名】ワニス、ニス、光沢、ごまかし
+vat	12	【名】大樽、タンク、塩田
+vault	10	【名】アーチ形の天井、地下貯蔵室、金庫室
+veal	10	【名】子牛の肉、肉用の子牛
+vector	12	【名】軌道、衝動、ベクトル
+veer	11	【名】進路転換
+vegetarian	8	【名】菜食主義者 【形】菜食主義の
+vegetation	9	【名】植物、植物の生育
+vein	7	【名】静脈、血管、葉脈、鉱脈
+velocity	8	【名】速さ、速度
+velvet	6	【名】ビロード、ベルベット 【形】ビロード製の
+vendor	6	【名】売る人
+venerable	10	【形】尊敬すべき、由緒ある
+vengeance	11	【名】復讐、仕返し
+venom	12	【名】毒、悪意
+venomous	12	【形】有毒な、悪意のある
+ventilation	10	【名】換気、自由な討議
+venue	7	【名】会場、現場
+verbal	7	【形】言葉の、口頭の 【名】準動詞
+verge	9	【名】境界、端、瀬戸際
+veritable	11	【形】まぎれもない、本当の
+vernacular	11	【形】その土地固有の 【名】その土地の言葉（the ～）
+versatile	10	【形】多芸多才の、気まぐれな、多目的の
+verse	6	【名】詩、詩の1行、節
+vested	12	【形】既得の、確立した
+vestige	12	【名】なごり、痕跡、ごくわずか
+veteran	8	【名】退役軍人、古参兵 【形】ベテランの、歴戦の
+veterinarian	7	【名】獣医
+viable	10	【形】生きていける、真に迫った、実行可能な
+vibration	8	【名】振動、霊気、感じ
+vicar	10	【名】司教・教皇代理、代理（人）
+vicinity	12	【名】周辺、近いこと
+vicious	6	【形】意地の悪い、不道徳な、ひどい
+victor	7	【名】優勝者、征服者、勝利者
+vigil	11	【名】不眠、徹夜
+vigilant	11	【形】油断がない、寝ずに番をする
+vigor	6	【名】勢い、活動力
+vile	10	【形】不潔な、非常に嫌な、貧弱な
+villa	6	【名】大邸宅、別荘
+vindictive	12	【形】復讐心のある、執念深い
+vine	5	【名】つる、つる植物、ブドウの木
+vintage	6	【名】収穫、極上のワイン
+virile	12	【形】男らしい、強健な、生殖の
+visage	12	【名】顔つき、顔だち、様相
+vista	10	【名】展望、見通しのきく街路、回想、予想
+vociferous	12	【形】やかましい、（抗議が）声高な
+vogue	9	【名】流行、人気
+volatile	10	【形】激しやすい、気まぐれな、揮発性の、はかない
+volcanic	8	【形】火山の(ある)
+volition	12	【名】意志、意欲、決意
+volley	10	【名】一斉射撃
+voluble	12	【形】流暢な、多弁な
+voluptuous	12	【形】豊満な体をした、官能的な、ぜいたくな
+vomit	8	【名】嘔吐、噴出
+voter	6	【名】投票者、有権者、選挙人
+vow	5	【名】誓い
+vulture	12	【名】ハゲワシ、貪欲な人
+wag	8	【名】いたずら
+waistcoat	9	【名】男性用チョッキ、ベスト
+waiver	11	【名】権利放棄の証書、権利放棄
+wallpaper	7	【名】壁紙
+walnut	6	【名】クルミ
+wand	12	【名】魔法のつえ、しなやかな細い枝
+wanting	9	【形】欠けている、足りない
+wanton	12	【形】勝手気ままな、非人道的な
+warble	12	【名】さえずり
+warden	11	【名】刑務所長、監視人、長官
+ware	7	【名】商品、陶器
+warfare	7	【名】戦争行為、戦争状態、武力衝突
+warlike	10	【形】好戦的な、戦争に適した
+warren	11	【名】ウサギの繁殖地、過密な住居、ごみごみした所
+warship	8	【名】軍艦
+wart	12	【名】いぼ、欠点
+wary	10	【形】警戒している、慎重な、油断のない
+wash		8	【名】番犬、番人、監視員、監視機関
+watchful	6	【形】油断のない、見張って
+watchman	6	【名】警備員
+waterfall	6	【名】滝、落水
+waterfront	8	【名】海岸の土地、波止場地区
+watering	7	【名】水まき、波紋形 【形】水を供給する、温泉の
+watershed	11	【形】重大な転機となる 【名】重大な分岐点、分水地点
+watertight	9	【形】水を通さない、すきのない
+watery	9	【形】淡い、水の（多い）、迫力のない、水色の
+wavelength	12	【名】ものの考え方、波長
+waver	7	【名】揺れ
+wayward	11	【形】気まぐれな、理不尽な、不規則な
+weary	7	【形】疲れきった、飽き飽きしている、疲れさせる
+wedge	10	【名】くさび、妨害
+wee	10	【形】小さい、非常に早い
+weed	4	【名】雑草
+weep	5	【名】泣くこと
+weighty	10	【形】重い、重要な、影響力のある
+welter	12	【名】ごたまぜ、うねり、混乱
+wharf	10	【名】埠頭、波止場
+whereas	6	【接】～であるのに対して
+whiff	11	【名】香りのひと嗅ぎ、ひと吹き、ほのかな香り
+whim	10	【名】気まぐれ、出来心、むら気
+whimsical	11	【形】気まぐれな、風変わりな
+whirl	6	【名】旋回
+whirlpool	12	【名】渦、渦巻、混乱
+whirlwind	11	【名】旋風、（拍手などの）あらし
+whisk	11	【名】泡立て器
+whisker	12	【名】ほおひげ（～s）、ひげ、少しの距離
+whiteness	6	【名】白さ、純粋
+whitewash	12	【名】水しっくい、ごまかし策
+wholesome	7	【形】健全な、有益な
+whore	11	【名】売春婦
+wicked	6	【形】たちの悪い、（物・状況などが）ひどい
+wicker	12	【形】小枝で作った 【名】枝編み細工
+wicket	8	【名】窓口、くぐり戸、水門、（クリケット）ウィケット
+widow	5	【名】未亡人
+widower	9	【名】男やもめ
+wig	10	【名】かつら、高位の人 【形】すごい
+wilderness	4	【名】荒野、荒れ地
+willingness	9	【名】意欲、いとわずにすること
+windfall	11	【名】もうけもの、意外な授かりもの、風で落ちた果実
+windmill	8	【名】風車、想像上の敵
+wiring	9	【名】配線、針金接合 【形】配線の
+wistful	10	【形】物欲しそうな、もの思いにふける
+witty	7	【形】機知のある、しゃれのうまい、気の利いた
+wobble	11	【名】ぐらつき
+woe	9	【名】悲哀、苦悩
+womb	11	【名】子宮、発生源
+wont	12	【形】～するのを常としている 【名】習慣
+woodwork	9	【名】木工品、工作
+woolen	6	【形】羊毛製の
+workable	9	【形】実行可能な、加工できる
+workaholic	8	【名】働きすぎの人、仕事中毒の人、仕事の虫
+workforce	6	【名】労働力、全労働人口
+worldly	6	【形】この世の、世知に長けた、世俗的な
+worrying	4	【形】やっかいな、面倒な
+worthless	6	【形】価値のない
+worthwhile	6	【形】やりがいのある、値打ちのある
+wrangle	11	【名】口論
+wrapper	8	【名】包装係、包装紙、長くゆったりした外衣、本のカバー
+wrath	11	【名】激怒、懲罰
+wreath	7	【名】花輪、冠
+wrench	10	【名】レンチ、悲愴な思い
+wrestle	10	【名】レスリング
+wretch	10	【名】不幸な人、（おどけて）やつ
+wring	7	【名】ひとねじり
+wrinkle	6	【名】しわ、ひだ
+writ	11	【名】令状
+wrongdoing	8	【名】悪事を働くこと、非行、犯罪
+wry	10	【形】皮肉たっぷりの、しかめっ面の
+xenophobia	12	【名】外国人嫌い、外来者恐怖症
+yarn	7	【名】糸、物語
+ye	9	【代】なんじら、あなたがた
+yeast	9	【名】イースト、（特にビールの）泡、きっかけ
+yield	4	【名】生産
+yielding	9	【形】柔軟な、譲歩しやすい、肥沃な
+yoke	9	【名】くびき、服従
+yolk	9	【名】卵黄
+zest	12	【名】熱意、心地よい刺激、活力
+zinc	11	【名】亜鉛
+zodiac	12	【名】十二宮図、黄道帯
+zone	3	【名】地帯

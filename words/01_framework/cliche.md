@@ -190,6 +190,14 @@
   - `this is merely a suggestion`   ([Neutral] これはただの提案)    This is merely a suggestion, not a requirement.
   - `this is simply one scenario`   ([Neutral] 単に一つのシナリオ)  This is simply one scenario we might face.
 - ==!A is one thing, but B is another==([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
+- `Here's the catch`                ([Casual] ただし問題がある)     The job pays well, but here's the catch — weekends.
+  - `There's a catch`               ([Casual] 落とし穴がある)       It sounds great, but there's a catch.
+  - `What's the catch?`             ([Casual] 何か裏があるの？)     Free money? What's the catch?
+  - `The catch is ~`                ([Casual] 問題は～だ)           The catch is you need 5 years of experience.
+  - `No catch`                      ([Casual] 裏はない、条件なし)   Free trial, no catch.
+  - `no strings attached`           ([Casual] 条件なし、見返りなし) I'll help you, no strings attached.
+  - `too good to be true`           ([Casual] うますぎる話)         This deal is too good to be true.
+  - `fine print`                    ([Neutral] 細則、小さい文字)    Always read the fine print.
 - `I'm V-ing ... at the moment.`    ([Casual] 今まさに～している)   I'm working on the report at the moment.
   - `I'm still working on it`       ([Casual] まだ取り組んでいる)   I'm still working on it, but I should be done soon.
   - `I'm in the middle of something`([Casual] 今手が離せない)       I'm in the middle of something right now, can I call you back?

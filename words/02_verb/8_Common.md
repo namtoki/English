@@ -412,8 +412,21 @@
 - `drop` /drɑːp/                  ([Neutral] 落ちる、下がる)      The temperature dropped suddenly.
 - `dub` /dʌb/                     ([Neutral] 名づける、称する)    He was dubbed 'The King'.
 - `duck out` /dʌk aʊt/            ([Casual] こっそり抜け出す)     I ducked out of the meeting early.
+- `cop out` /kɑːp aʊt/            ([Casual] 逃げる、責任回避する) Don't cop out on me now.
+  - `cop-out` /ˈkɑːp aʊt/         ([Casual] 言い訳、逃げ) [名詞]  That excuse is a total cop-out.
+  - `chicken out`                 ([Casual] 怖気づいて逃げる)     He chickened out at the last minute.
+  - `back out`                    ([Casual] 撤回する、手を引く)   She backed out of the deal.
+  - `bail out`                    ([Casual] 逃げる、抜ける)       He bailed out when things got tough.
+  - `weasel out`                  ([Casual] ずる賢く逃れる)       He weaseled out of his promise.
 - `dupe` /djuːp/                  ([Neutral] だます、カモ)        They duped him into signing the contract.
 - `ease up on` /iːz ʌp ɑːn/      ([Casual] を緩める)             Ease up on the pressure.
+- `take the pressure off`        ([Neutral] 負担を軽くする)      Let me help — I want to take the pressure off you.
+  - `ease the pressure`          ([Neutral] プレッシャーを和らげる) This will ease the pressure on the team.
+  - `relieve the stress`         ([Neutral] ストレスを取り除く)  Exercise helps relieve the stress.
+  - `lighten the load`           ([Neutral] 負担を軽くする)      Hiring help will lighten the load.
+  - `take a load off`            ([Casual] 楽にする、座る)       Take a load off and relax.
+- `put pressure on`              ([Neutral] プレッシャーをかける) They put pressure on him to resign.
+  - `pile on the pressure`       ([Casual] プレッシャーを増やす) The boss piled on the pressure.
 - `eavesdrop on` /ˈiːvzdrɑːp ɑːn/ ([Neutral] 盗み聞きする)        He was eavesdropping on their conversation.
 - `educate` /ˈedʒukeɪt/           ([Neutral] 教育する)            We need to educate people about this.
 - `egg on` /eɡ ɑːn/               ([Casual] けしかける)           They egged him on to fight.
@@ -2673,3 +2686,4 @@
 
 
 - `afoot` /əˈfʊt/                   ([Formal] 進行中で)             A plan is afoot to change the rules.
+  - `husk` (v)                      ([Neutral] 皮をむく)            Husk the corn before cooking.

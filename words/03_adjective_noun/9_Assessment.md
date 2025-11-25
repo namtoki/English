@@ -172,6 +172,13 @@
 - `unusual` /ʌnˈjuːʒuəl/            ([Neutral] 珍しい、異常な)      It's unusual for him to be late.
 - `bizarre` /bɪˈzɑːr/               ([Neutral] 奇妙な、異様な)      That was a bizarre experience.
 - `queer` /kwɪr/                    ([Writing] 奇妙な、変な)        That's a queer situation.
+- `freaky` /ˈfriːki/               ([Casual] 奇妙な、気味悪い)     That coincidence is freaky.
+  - `freak` /friːk/                ([Casual] 変人、マニア)         He's a fitness freak.
+  - `freak out`                    ([Casual] パニくる、びびる)     Don't freak out, it's just a spider.
+  - `freakish` /ˈfriːkɪʃ/          ([Neutral] 異常な、奇怪な)      His freakish strength surprised everyone.
+  - `freakishly` /ˈfriːkɪʃli/      ([Neutral] 異常に)              He's freakishly tall.
+- `creepy` /ˈkriːpi/               ([Casual] 気味悪い、ゾッとする) That guy is creepy.
+- `spooky` /ˈspuːki/               ([Casual] 不気味な、怖い)       The old house looks spooky at night.
 
 # ========================================
 # III. PERSONALITY TRAITS (性格特性)
