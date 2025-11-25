@@ -545,7 +545,6 @@
 > `sturdy` /ˈstɜːdi/                ([Neutral] 頑丈な)              This is a sturdy wooden table.
   - `flimsy` /ˈflɪmzi/              ([Neutral] 薄っぺらな)          The excuse was flimsy and unconvincing.
   - `fragile` /ˈfrædʒaɪl/           ([Neutral] 壊れやすい)          Handle the package carefully, it's fragile.
-    - `fragility` /frəˈdʒɪləti/     ([Writing] 脆弱性)              The fragility of the ecosystem is concerning.
   - `robust` /roʊˈbʌst/             ([Neutral] 頑丈な、厚い)        A robust frame.
   - `solid` /ˈsɑːlɪd/               ([Neutral] 固体の、厚い)        Solid walls.
 

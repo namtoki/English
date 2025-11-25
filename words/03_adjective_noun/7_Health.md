@@ -1,25 +1,50 @@
 # Health
 
+## Mentality
+- ==sanity== /ˈsænəti/                ([Neutral] 正気、健全な精神)    She questioned her own sanity.
+    - `sane` /seɪn/                 ([Neutral] 正気の、まともな)    He's the only sane person here.
+  - `insanity` /ɪnˈsænəti/          ([Neutral] 狂気、精神異常)      The defendant pleaded insanity.
+    - ==insane== /ɪnˈseɪn/            ([Neutral] 狂気の、正気でない)  That's an insane idea.
+  - `mental stability`              ([Neutral] 精神的安定)          Meditation improves mental stability.
+  - `rationality` /ˌræʃəˈnæləti/    ([Neutral] 理性、合理性)        His rationality helped solve the problem.
+- `relief` /rɪˈliːf/                ([Neutral] 緩和、救済)          The medicine provided instant relief.
+  - `alleviation` /əˌliːviˈeɪʃən/   ([Formal] 軽減、緩和)           The alleviation of suffering is important.
+- `patient` /ˈpeɪʃənt/              ([Neutral] 忍耐強い 落ち着いた) Be patient with children.
+
 ## Disability
 - `disability` /ˌdɪsəˈbɪləti/       ([Neutral] 障害、障がい)        Facilities for people with disabilities.
   - `disabled` /dɪsˈeɪbəld/         ([Neutral] 障害のある)          We support disabled students.
-  - `impairment` /ɪmˈpermənt/       ([Medical] 機能障害)            He has a hearing impairment.
+  - ==impairment== /ɪmˈpermənt/       ([Medical] 機能障害)            He has a hearing impairment.
   - `impaired` /ɪmˈperd/            ([Medical] 機能障害のある)      He is visually impaired.
   - `condition` /kənˈdɪʃən/         ([Neutral] 疾患、状態)          She has a heart condition.
   - `disorder` /dɪsˈɔːrdər/         ([Medical] 障害、疾患)          He suffers from an anxiety disorder.
-  - `affliction` /əˈflɪkʃən/        ([Formal] 苦痛、病気)           Cancer is a terrible affliction.
+  - `handicap` /ˈhændikæp/          ([Neutral] ハンディキャップ)    He overcame his physical handicap.
   - `handicapped` /ˈhændikæpt/      ([Dated] 障害のある)            The term is now considered dated.
-  - `infirm` /ɪnˈfɜːrm/             ([Formal] 虚弱な、病弱な)       She cares for the elderly and infirm.
-  - `debilitated` /dɪˈbɪlɪteɪtɪd/   ([Formal] 衰弱した)             The illness left him debilitated.
+  - `physical limitation`           ([Neutral] 身体障害)            Physical limitations don't define you.
+  - `defect` /ˈdiːfekt/             ([Medical] 欠陥、障害)          He was born with a heart defect.
+  - `lesion` /ˈliːʒən/              ([Medical] 損傷、病巣)          The brain lesion caused symptoms.
+  - `dysfunction` /dɪsˈfʌŋkʃən/     ([Medical] 機能不全)            He has erectile dysfunction.
+  - `impediment` /ɪmˈpedɪmənt/      ([Formal] 障害、妨害)           He has a speech impediment.
+- `weakness` /ˈwiːknəs/             ([Neutral] 弱さ、虚弱)          He showed signs of weakness.
+  - `fragility` /frəˈdʒɪləti/       ([Neutral] [繊細] 脆弱性、もろさ) The fragility of her health worried them.
+    - `fragile` /ˈfrædʒaɪl/         ([Neutral] [繊細] もろい、虚弱な) She has been fragile since the surgery.
+  - `vulnerability` /vʌlnərəˈbɪləti/([Neutral] [リスク] 脆弱性)       His vulnerability to illness increased.
+    - `vulnerable` /ˈvʌlnərəbl/     ([Neutral] [リスク] 脆弱な)       The elderly are vulnerable to infections.
+  - `frailty` /ˈfreɪlti/            ([Formal] [細い] 虚弱、もろさ)    The frailty of old age affected him.
+    - `frail` /freɪl/               ([Neutral] [細い] 虚弱な、か弱い) My grandmother has become frail.
+  - `debility` /dɪˈbɪləti/          ([Medical] [病気] 虚弱、衰弱)     The debility prevented him from working.
+    - `debilitated` /dɪˈbɪlɪteɪtɪd/ ([Formal] [病気] 衰弱した)        The illness left him debilitated.
+  - `infirmity` /ɪnˈfɜːrməti/       ([Formal] [慢性] 虚弱、病弱)      Despite his infirmities, he remained active.
+    - `infirm` /ɪnˈfɜːrm/           ([Formal] [慢性] 虚弱な、病弱な)  She cares for the elderly and infirm.
+  - `feebleness` /ˈfiːblnəs/        ([Formal] [力が] 弱さ、衰弱)      His feebleness was evident.
+    - `feeble` /ˈfiːbl/             ([Neutral] [力が] 弱々い 衰弱た)  His voice was feeble after the illness.
+
+## Desease
 - `illness` /ˈɪlnəs/                ([Neutral] 病気)                The illness lasted two weeks.
   - `disease` /dɪˈziːz/             ([Medical] 病気、疾患)          Heart disease is preventable.
   - `sickness` /ˈsɪknəs/            ([Neutral] 病気、体調不良)      Morning sickness is common in pregnancy.
   - `bug` /bʌɡ/                     ([Casual] 風邪、軽い病気)       I caught a stomach bug last week.
-  - `infection` /ɪnˈfekʃən/         ([Medical] 感染症)              The wound developed an infection.
-  - `virus` /ˈvaɪərəs/              ([Medical] ウイルス、感染症)    She caught a virus at school.
-  - `condition` /kənˈdɪʃən/         ([Medical] 病状、疾患)          He has a heart condition.
   - `ailment` /ˈeɪlmənt/            ([Neutral] 病気、不調)          Minor ailments are common.
-  - `disorder` /dɪsˈɔːdə/           ([Medical] 疾患、障害)          She has an eating disorder.
   - `malady` /ˈmælədi/              ([Writing] 病気、疾患)          The mysterious malady puzzled doctors.
   - `affliction` /əˈflɪkʃən/        ([Writing] 苦痛、病気)          His affliction was incurable.
   - `plague` /pleɪɡ/                ([Writing] 疫病、災い)          The plague devastated medieval Europe.
@@ -27,14 +52,20 @@
 - `symptom` /ˈsɪmptəm/              ([Medical] 症状)                Fever is a common symptom.
   - `sign` /saɪn/                   ([Medical] 兆候、症状)          Pain is a sign of inflammation.
   - `complaint` /kəmˈpleɪnt/        ([Medical] 症状、不調)          Her main complaint is headaches.
+  - `indication` /ˌɪndɪˈkeɪʃən/     ([Medical] 兆候、徴候)          Coughing is an indication of illness.
+  - `manifestation`                 ([Medical] 症状、現れ)          The rash is a manifestation of the disease.
   - `syndrome` /ˈsɪndrəʊm/          ([Medical] 症候群)              Chronic fatigue syndrome is serious.
-  - `chronic` /ˈkrɒnɪk/             ([Medical] 慢性の)              She has chronic back pain.
+  - `presentation` /ˌprezənˈteɪʃən/ ([Medical] 症状の現れ方)        The clinical presentation was unusual.
+- `infection` /ɪnˈfekʃən/           ([Medical] 感染症)              The wound developed an infection.
   - `infectious` /ɪnˈfekʃəs/        ([Medical] 伝染性の)            The disease is highly infectious.
-  - `inflammation` /ˌɪnfləˈmeɪʃən/  ([Medical] 炎症)                The inflammation caused swelling.
-    - `inflammatory` /ɪnˈflæmətɔːri/([Medical] 炎症性の)            The inflammatory response was severe.
-  - `fever` /ˈfiːvə/                ([Medical] 発熱、熱)            The child had a high fever.
-    - `feverish` /ˈfiːvərɪʃ/        ([Medical] 熱がある、熱的)      The patient felt feverish and weak.
-  - `nausea` /ˈnɔːziə/              ([Medical] 吐き気)              The medication caused nausea.
+  - `virus` /ˈvaɪərəs/              ([Medical] ウイルス、感染症)    She caught a virus at school.
+- `measles` /ˈmiːzlz/               ([Medical] はしか、麻疹)        Measles is a contagious disease.
+- `chronic` /ˈkrɒnɪk/               ([Medical] 慢性の)              She has chronic back pain.
+- `inflammation` /ˌɪnfləˈmeɪʃən/    ([Medical] 炎症)                The inflammation caused swelling.
+  - `inflammatory` /ɪnˈflæmətɔːri/  ([Medical] 炎症性の)            The inflammatory response was severe.
+- `fever` /ˈfiːvə/                  ([Medical] 発熱、熱)            The child had a high fever.
+  - `feverish` /ˈfiːvərɪʃ/          ([Medical] 熱がある、熱的)      The patient felt feverish and weak.
+- `nausea` /ˈnɔːziə/                ([Medical] 吐き気)              The medication caused nausea.
 - `heredity` /hɪˈredɪtɪ/            ([Writing] 遺伝)                Gregor Mendel studied heredity in pea plants.
   - `genetic` /dʒəˈnetɪk/           ([Writing] 遺伝子の)            Genetic testing revealed the mutation.
   - `inborn` /ˈɪnbɔːrn/             ([Writing] 生来の)              He has an inborn sense of rhythm.
@@ -42,6 +73,7 @@
   - `innate` /ɪˈneɪt/               ([Writing] 生得の)              Children have an innate ability to learn.
   - `hereditary` /həˈredɪtərɪ/      ([Neutral] 遺伝性の)            Hair color is hereditary.
 - `gastritis` /ɡæˈstraɪtɪs/         ([Medical] 胃炎)                She was diagnosed with gastritis.
+- `deformity` /dɪˈfɔːrməti/         ([Medical] 奇形、変形)          The accident caused a deformity.
 
 ## Anatomy
 - `anatomy` /əˈnætəmi/              ([Neutral] 解剖学、構造)        She's studying human anatomy.
@@ -77,7 +109,7 @@
   - `large intestine`               ([Medical] 大腸)                The large intestine absorbs water.
   - `colon` /ˈkoʊlən/               ([Medical] 結腸、大腸)          He had colon surgery.
 
-## CURE (MEDICINE / CHECK-UP / SURGERY / INCISION / EXCISION)
+## Medical Care
 - `medicine` /ˈmedɪsɪn/             ([Neutral] 薬、医学)            Take your medicine three times a day.
   - `prescription` /prɪˈskrɪpʃən/   ([Medical] 処方箋)              The doctor wrote a prescription.
   - `antibiotic` /ˌæntɪbaɪˈɑːtɪk/   ([Medical] 抗生物質)            Take the antibiotic for ten days.
@@ -142,15 +174,3 @@
     - `paralyze` /ˈpærəlaɪz/        ([Medical] 麻痺させる)          The injury paralyzed his leg.
   - `relapse` /rɪˈlæps/             ([Medical] 再発、逆戻り)        The patient had a relapse.
   - `prognosis` /prɒɡˈnəʊsɪs/       ([Medical] 予後、見通し)        The patient's prognosis is good.
-
-## MENTAL HEALTH
-- `sanity` /ˈsænəti/                ([Neutral] 正気、健全な精神)    She questioned her own sanity.
-  - `sane` /seɪn/                   ([Neutral] 正気の、まともな)    He's the only sane person here.
-  - `insanity` /ɪnˈsænəti/          ([Neutral] 狂気、精神異常)      The defendant pleaded insanity.
-  - `insane` /ɪnˈseɪn/              ([Neutral] 狂気の、正気でない)  That's an insane idea.
-  - `rationality` /ˌræʃəˈnæləti/    ([Neutral] 理性、合理性)        His rationality helped solve the problem.
-  - `mental stability`              ([Neutral] 精神的安定)          Meditation improves mental stability.
-- `relief` /rɪˈliːf/                ([Neutral] 緩和、救済)          The medicine provided instant relief.
-  - `alleviation` /əˌliːviˈeɪʃən/   ([Formal] 軽減、緩和)           The alleviation of suffering is important.
-  - `therapy` /ˈθerəpi/             ([Medical] 治療法、療法)        Physical therapy helped his recovery.
-- `patient` /ˈpeɪʃənt/              ([Neutral] 忍耐強い 落ち着いた) Be patient with children.

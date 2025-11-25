@@ -1667,7 +1667,6 @@ impasse	11	【名】行き詰まり
 impassive	12	【形】冷静な、無感動の
 impatience	6	【名】短気、切望
 impatient	5	【形】我慢できない、耐えられない、せっかちな
-impediment	10	【名】妨害、身体的障害
 impending	10	【形】切迫した、今にも起こる
 imperative	10	【形】必須の、急を要する、命令的な 【名】緊急になすべきこと
 impersonal	8	【形】人間味のない、人格をもたない、個人に関係ない
@@ -1742,7 +1741,6 @@ infallible	12	【形】絶対確実な、けっして誤らない
 infantry	10	【名】歩兵（隊）
 infatuation	12	【名】夢中になっている状態、夢中にさせるもの
 inferiority	8	【名】劣っていること、粗悪、下級
-infirmity	12	【名】病気、無気力、欠陥
 inflation	5	【名】インフレーション、膨張
 influential	5	【形】大きな影響を与える、動機となる
 influx	10	【名】流入
@@ -1946,7 +1944,6 @@ legion	11	【名】大群、部隊、軍団
 legislation	4	【名】立法行為、法律制定
 legislative	7	【形】立法上の
 legislator	10	【名】立法者
-lesion	12	【名】損傷、障害、病巣
 lethal	9	【形】致命的な
 leukemia	11	【名】白血病
 levy	10	【名】召集
@@ -2093,7 +2090,6 @@ maverick	11	【名】一匹オオカミ、異端者 【形】（政治家が）�
 maxim	9	【名】格言、金言、処世訓
 maze	8	【名】迷路、迷宮、当惑
 meander	11	【名】曲がりくねった道
-measles	11	【名】はしか、発疹性の病気
 medieval	5	【形】中世の、中世的な、古めかしい
 mediocre	9	【形】二流の、可もなく不可もない
 meek	9	【形】おとなしい、柔和な
