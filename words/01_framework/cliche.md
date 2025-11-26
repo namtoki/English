@@ -44,7 +44,6 @@
   - `You got it`                    ([Casual] 了解です)             Close the door, please. You got it.
   - ==Noted==                         ([Neutral] 了解しました)        The deadline is Friday. Noted.
   - `Sure thing`                    ([Casual] もちろんです)         Can you help me? Sure thing.
-  - `No problem`                    ([Casual] 問題ないです)         Can you do this? No problem.
   - `Absolutely`                    ([Neutral] もちろんです)        Can you attend? Absolutely.
   - `You bet`                       ([Casual] もちろんです)         Are you coming? You bet.
 - ==Will do==                         ([Casual] やっておきます)       Can you send the report? Will do.
@@ -94,7 +93,7 @@
   - `Tell me about it`              ([Casual] まったくその通り)     Tell me about it! I've been so busy lately.
   - `I couldn't agree more`         ([Neutral] 大賛成です)          I couldn't agree more with your assessment.
   - `My thoughts exactly`           ([Neutral] 私もそう思ってた)    My thoughts exactly about the new policy.
-- ==Good to know==                    ([Casual] 知れてよかった)       Thanks for the update. Good to know.
+- `Good to know`                    ([Casual] 知れてよかった)       Thanks for the update. Good to know.
   - ==Thanks for the heads up==       ([Casual] 教てくれてありがとう) Thanks for the heads up about the meeting change.
   - `I appreciate the update`       ([Neutral] 報告ありがとう)      I appreciate the update on the project status.
   - `That's helpful`                ([Casual] 助かります)           That's helpful, I'll keep that in mind.
@@ -142,11 +141,11 @@
   - `How should I say this?`        ([Neutral] どう言えばいいかな)  How should I say this? It's sensitive.
   - `What's the word for it?`       ([Casual] 何て言うんだっけ？)   What's the word for it? It's on the tip of my tongue.
   - `How do I explain this?`        ([Neutral] どう説明すればいい)  How do I explain this? It's technical.
-  - `Let me think how to say this`  ([Neutral] どう言うか考えさせて) Let me think how to say this properly.
+  - ==Let me think how to say this==  ([Neutral] どう言うか考えさせて) Let me think how to say this properly.
   - `I'm trying to find the right words` ([Neutral] 適切な言葉を探してる) I'm trying to find the right words here.
   - `It's hard to explain`          ([Casual] 説明が難しい)         It's hard to explain, but I'll try.
   - `I don't know how to put it`    ([Casual] どう言えばいいか)     I don't know how to put it exactly.
-- `You lost me`                     ([Casual] ついていけなくなった) You lost me at the third step.
+- ==You lost me==                     ([Casual] ついていけなくなった) You lost me at the third step.
   - `I'm not sure I follow`         ([Neutral] よく理解できません)  I'm not sure I follow what you mean. Could you explain?
   - `I don't follow`                ([Casual] わからない)           I don't follow your logic here.
   - `I'm confused`                  ([Casual] 混乱している)         I'm confused about the timeline.
@@ -190,7 +189,7 @@
   - `this is merely a suggestion`   ([Neutral] これはただの提案)    This is merely a suggestion, not a requirement.
   - `this is simply one scenario`   ([Neutral] 単に一つのシナリオ)  This is simply one scenario we might face.
 - ==!A is one thing, but B is another==([Neutral] AとBは別問題)        Knowing the theory is one thing, but applying it is another.
-- `Here's the catch`                ([Casual] ただし問題がある)     The job pays well, but here's the catch — weekends.
+- ==Here's the catch==                ([Casual] ただし問題がある)     The job pays well, but here's the catch — weekends.
   - `There's a catch`               ([Casual] 落とし穴がある)       It sounds great, but there's a catch.
   - `What's the catch?`             ([Casual] 何か裏があるの？)     Free money? What's the catch?
   - `The catch is ~`                ([Casual] 問題は～だ)           The catch is you need 5 years of experience.

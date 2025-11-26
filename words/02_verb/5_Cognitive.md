@@ -1,5 +1,13 @@
 # Cognitive
 
+## Separate
+- `separate` /ˈsepəreɪt/           ([Neutral] 分ける、切り離す)     Separate the whites from the yolks.
+  - ==divorce== /dɪˈvɔːrs/           ([Neutral] [概念] 切り離す)        You can't divorce art from politics.
+  - `disconnect` /ˌdɪskəˈnekt/     ([Neutral] [物理] 切り離す)        Disconnect the cable first.
+  - `sever` /ˈsevər/               ([Formal] 断つ、切り離す)        They severed ties with the company.
+  - `dissociate` /dɪˈsoʊʃieɪt/     ([Formal] [関係] 切り離す)         He dissociated himself from the group.
+  - `decouple` /diːˈkʌpl/          ([Formal] 分離する、切り離す)   We need to decouple these two systems.
+
 ## Think
 - `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.
   - `believe` /bɪˈliːv/             ([Neutral] だと思う、信じる)    I believe this is the right choice.

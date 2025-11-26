@@ -30,12 +30,13 @@
   - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
   - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
   - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
-  - ==buy into==                      ([Casual] 信じて支持する)       I don't buy into that theory.
+  - ==!buy into==                      ([Casual] 信じて支持する)       I don't buy into that theory.
 
 ## So-so
 - `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
   - ==be fine== /bi faɪn/             ([Neutral] 大丈夫である)        That will be fine for me.
   - `will do` /wɪl duː/             ([Casual] 間に合う、十分だ)     This will do for now.
+  - `wouldn't mind` /ˈwʊdnt maɪnd/  ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
   - `do the trick` /duː ðə trɪk/    ([Casual] うまくいく、十分)     This should do the trick.
   - `be sufficient` /bi səˈfɪʃənt/  ([Formal] 十分である)           The budget should be sufficient.
   - `suffice` /səˈfaɪs/             ([Writing] 十分である)          A phone call will suffice.
@@ -47,7 +48,6 @@
 ## Need
 - `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
   - `would like` /wʊd laɪk/         ([Polite] 〜が欲しい)           I would like some water, please.
-  - `wouldn't mind` /ˈwʊdnt maɪnd/  ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
   - `could use` /kʊd juːz/          ([Casual] 〜が欲しい)           I could use a coffee right now.
   - `could do with` /kʊd duː wɪð/   ([Casual] 〜が欲しい)           I could do with a vacation.
   - `be eager to` /biː ˈiːɡər tuː/  ([Neutral] 切望する)            She's eager to start her new job.
@@ -94,11 +94,11 @@
   - `have a bone to pick with`      ([Casual] 文句がある)           I have a bone to pick with you about yesterday.
   - `have an axe to grind`          ([Neutral] 私怨がある)          He has an axe to grind with the company.
   - `air grievances`                ([Formal] 不満を表明する)       The staff met to air their grievances.
-- `be over` /biː ˈoʊvər/              ([Casual] うんざりしている)     I'm so over this job.
-  - `be tired of` /ˈtaɪərd əv/       ([Neutral] うんざりしている)    I'm tired of this situation.
-  - `have had enough` /hæv hæd ɪˈnʌf/ ([Neutral] もううんざりだ)      I've had enough of your excuses.
-  - `be sick and tired of`           ([Casual] 本当にうんざり)       I'm sick and tired of waiting.
-  - `be done with` /biː dʌn wɪð/     ([Casual] もう終わりにしたい)   I'm done with this discussion.
+- ==be over== /biː ˈoʊvər/            ([Casual] うんざりしている)     I'm so over this job.
+  - `be tired of` /ˈtaɪərd əv/      ([Neutral] うんざりしている)    I'm tired of this situation.
+  - `have had enough`               ([Neutral] もううんざりだ)      I've had enough of your excuses.
+  - `be sick and tired of`          ([Casual] 本当にうんざり)       I'm sick and tired of waiting.
+  - `be done with` /biː dʌn wɪð/    ([Casual] もう終わりにしたい)   I'm done with this discussion.
 
 ## Suggestion
 - ==I would== /aɪ wʊd/                ([Polite] 私なら〜します)       I would suggest taking a break.

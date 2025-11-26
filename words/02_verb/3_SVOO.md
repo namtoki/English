@@ -25,8 +25,8 @@
   - `show` /ʃoʊ/                    ([Neutral] 見せる、示す)        Show me your homework.
   - `teach` /tiːtʃ/                 ([Neutral] 教える)              He taught me English.
   - `explain` /ɪkˈspleɪn/           ([Neutral] 説明する)            Explain the rules to them.
-  - ==walk through== /wɔːk θruː/      ([Neutral] 順を追って説明する)  Walk me through the process.
-  - ==go over== /ɡoʊ ˈoʊvər/          ([Neutral] 詳しく説明する)      Let's go over the details.
+  - ==!walk through== /wɔːk θruː/      ([Neutral] 順を追って説明する)  Walk me through the process.
+  - ==!go over== /ɡoʊ ˈoʊvər/          ([Neutral] 詳しく説明する)      Let's go over the details.
   - ==break down== /breɪk daʊn/       ([Neutral] 分かりやすく説明す)  Can you break it down for me?
   - ==fill in== /fɪl ɪn/              ([Neutral] 詳しく情報提供する)  Please fill me in on what happened.
   - `give an update` /ˈʌpdeɪt/      ([Neutral] 最新情報を伝える)    Give me an update.

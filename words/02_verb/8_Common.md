@@ -1,5 +1,49 @@
 # Common
 
+## Verbal Action
+- `shout` /ʃaʊt/                    ([Neutral] 叫ぶ、大声で言う)    He shouted across the street.
+  - `yell` /jel/                    ([Casual] 叫ぶ、怒鳴る)         The coach yelled at the players.
+  - `scream` /skriːm/               ([Neutral] 叫ぶ、悲鳴を上げる)  He screamed for help.
+  - `cry out`                       ([Neutral] 叫ぶ、声を上げる)    She cried out in pain.
+  - `call out`                      ([Neutral] 呼びかける、叫ぶ)    He called out her name.
+  - `shriek` /ʃriːk/                ([Neutral] 悲鳴を上げる)        She shrieked in terror.
+  - `screech` /skriːtʃ/             ([Neutral] 金切り声を上げる)    The car screeched to a halt.
+  - `howl` /haʊl/                   ([Neutral] 遠吠えする 泣き叫ぶ) The wolves howled at the moon.
+  - `wail` /weɪl/                   ([Neutral] 泣き叫ぶ)            The baby wailed all night.
+  - `holler` /ˈhɑːlər/              ([Casual] 叫ぶ、怒鳴る)         He hollered at the kids to come inside.
+  - `bellow` /ˈbeloʊ/               ([Neutral] 怒鳴る、大声で叫ぶ)  The sergeant bellowed orders.
+  - `roar` /rɔːr/                   ([Neutral] 吠える、怒鳴る)      The lion roared loudly.
+  - `cry` /kraɪ/                    ([Neutral] 叫ぶ、泣く)          She cried out in pain.
+  - `exclaim` /ɪkˈskleɪm/           ([Neutral] 叫ぶ、声を上げる)    "Wow!" she exclaimed.
+  - `hoot` /huːt/                   ([Neutral] わめく 叫ぶ、やじる) The crowd hooted at the speaker.
+  - `hurrah` /hʊˈrɑː/               ([Neutral] フレーと叫ぶ)        The fans hurrahed for their team.
+
+## Sound (音)
+- `squeal` /skwiːl/                 ([Neutral] キーキー鳴く)        The tires squealed on the pavement.
+  - `squeak` /skwiːk/               ([Neutral] キーキー鳴る)        The door squeaked when opened.
+  - `creak` /kriːk/                 ([Neutral] きしむ)              The old floor creaked underfoot.
+
+## Body Action
+- `inhale` /ɪnˈheɪl/                ([Neutral] 吸い込む たいらげる) Inhale deeply and relax.
+  - `inhalation` /ˌɪnhəˈleɪʃən/     ([Medical] 吸入)                Smoke inhalation is dangerous.
+  - `inhaler` /ɪnˈheɪlər/           ([Medical] 吸入器)              She uses an inhaler for asthma.
+  - `exhale` /eksˈheɪl/             ([Neutral] 吐き出す)            Exhale slowly through your mouth.
+  - `exhalation` /ˌekshəˈleɪʃən/    ([Medical] 呼気)                Exhalation removes carbon dioxide.
+- `devour` /dɪˈvaʊər/               ([Neutral] むさぼり食う)        He devoured the entire meal.
+  - `wolf down`                     ([Casual] かきこむ)             He wolfed down his breakfast.
+  - `scarf down`                    ([Casual] がつがつ食べる)       She scarfed down three slices.
+  - `gobble up`                     ([Casual] がつがつ食べる)       The kids gobbled up the snacks.
+  - `polish off`                    ([Casual] 平らげる)             We polished off the whole cake.
+- `punch` /pʌntʃ/                   ([Neutral] 殴る)                He punched him in the face.
+  - `wallop` /ˈwɒləp/               ([Casual] [ぶん]殴る、強打)       With one brutal wallop, he sent him flying.
+  - `smack` /smæk/                  ([Casual] [平手] ピシャリと叩く)  She smacked him across the face.
+  - `whack` /wæk/                   ([Casual] 強く[叩く])             She whacked the piñata with a stick.
+  - `slug` /slʌɡ/                   ([Casual] 強く[殴る])             The boxer slugged his opponent hard.
+  - `clobber` /ˈklɒbər/             ([Casual] ぶん殴る、叩きのめす) He clobbered the guy who insulted him.
+  - `bash` /bæʃ/                    ([Casual] 強く打つ)             He bashed his head on the door.
+
+---
+
 ## Tools
 - `launch` /lɔːntʃ/                 ([Neutral] 起動する、開始する)  Launch the application.
   - ==turn on== /tɜːrn ɑːn/           ([Neutral] 電源を入れる)        Turn on the machine.
@@ -336,7 +380,6 @@
 - `cross` /krɔːs/                 ([Neutral] 逆らう)              Don't cross him when he's angry.
 - `crouch` /kraʊtʃ/               ([Neutral] しゃがむ)            He crouched behind the wall.
 - `crush` /krʌʃ/                  ([Neutral] 押しつぶす)          The machine crushed the cans.
-- `cry` /kraɪ/                    ([Neutral] 叫ぶ、泣く)          She cried out in pain.
 - `cure` /kjʊə/                   ([Neutral] 治す、治療法)        Scientists are searching for a cure.
 - `cut off at the pass`           ([Casual] 先手を打って阻止)     Let's cut this off at the pass.
 - `dash` /dæʃ/                    ([Neutral] ダッシュする)        She dashed to catch the bus.
@@ -570,7 +613,6 @@
 - `hold captive`                  ([Neutral] 監禁する)            They held him captive for days.
 - `hold off` /hoʊld ɔːf/          ([Neutral] 延期する)            Let's hold off on the decision.
 - `hold up` /hoʊld ʌp/            ([Casual] 遅らせる)             Traffic held us up.
-- `holler` /ˈhɑːlər/              ([Casual] 大声で呼ぶ)           He hollered for help.
 - `hoodwink` /ˈhʊdwɪŋk/           ([Writing] だます、欺く)        They hoodwinked investors out of millions.
 - `huddle` /ˈhʌdl/                ([Casual] 身を寄せ合う)         We huddled together for warmth.
 - `humiliate` /hjuˈmɪlɪeɪt/       ([Formal] 屈辱する)             She humiliated him in front of everyone.
@@ -869,7 +911,6 @@
 - `shatter` /ˈʃætər/              ([Neutral] 粉砕する)            The ball shattered the window.
 - `shed` /ʃɛd/                    ([Neutral] 脱ぐ)                He shed his coat at the door.
 - `shift` /ʃɪft/                  ([Neutral] 移動する、変わる)    Shift your weight to the left.
-- `shout` /ʃaʊt/                  ([Neutral] 叫ぶ、大声で言う)    He shouted across the street.
 - `show up` /ʃoʊ ʌp/              ([Casual] 現れる、着く)         He finally showed up at 9 PM.
 - `show` /ʃoʊ/                    ([Casual] 示す、見せる)         The results show that it works.
 - `shrink` /ʃrɪŋk/                ([Neutral] 縮小する)            The market has shrunk considerably.
@@ -888,7 +929,6 @@
 - `slip out` /slɪp aʊt/           ([Casual] こっそり出る)         I slipped out before anyone noticed.
 - `slouch` /slaʊtʃ/               ([Casual] 前かがみになる)       Don't slouch in your chair.
 - `slow down` /sloʊ daʊn/         ([Neutral] 遅くする)            This will slow down progress.
-- `slug` /slʌg/                   ([Casual] 強く殴る)             The boxer slugged his opponent hard.
 - `slump` /slʌmp/                 ([Neutral] 前かがみになる)      He slumped in his chair.
 - `smart` /smɑːrt/                ([Writing] ヒリヒリする)        The cut smarts when water touches it.
 - `smash` /smæʃ/                  ([Neutral] 粉砕する)            He smashed the glass with a hammer.
@@ -1054,14 +1094,12 @@
 - `walk down` /wɔːk daʊn/         ([Neutral] 歩いて下る)          Walk down the hill slowly.
 - `walk in` /wɔːk ɪn/             ([Neutral] 歩いて入る)          He walked in without knocking.
 - `walk off with` /wɔːk ɔːf wɪð/  ([Casual] 持ち去る)             Someone walked off with my umbrella.
-- `wallop` /ˈwɒləp/               ([Casual] 殴打)                 With one brutal wallop, he sent him flying.
 - `wander` /ˈwɑːndər/             ([Neutral] さまよう、歩き回る)  We wandered around the city.
 - `warrant` /ˈwɔːrənt/            ([Formal] 保証する、正当化する) This doesn't warrant such action.
 - `watch over` /wɑːtʃ ˈoʊvər/     ([Neutral] 見守る、保護する)    I'll watch over the kids tonight.
 - `weaken` /ˈwiːkən/              ([Neutral] 弱くする)            The illness weakened him.
 - `wear` /weər/                   ([Neutral] 着る、身に着ける)    I always wear a coat in winter.
 - `weather` /ˈweðər/              ([Neutral] 切り抜ける 乗り切る) The company weathered the crisis.
-- `whack` /wæk/                   ([Casual] 強く打つ)             She whacked the piñata with a stick.
 - `whistleblower`                 ([Neutral] 内部告発者)          The whistleblower exposed the scandal.
 - `whiz` /wɪz/                    ([Casual] ビュンと飛ぶ)         The bullet whizzed past my ear.
 - `widen` /ˈwaɪdən/               ([Neutral] 広げる、拡幅する)    They widened the road.
@@ -1075,7 +1113,6 @@
 - `wreck` /rɛk/                   ([Neutral] 破壊する、難破船)    The storm will wreck the ship.
 - `write off` /raɪt ɔːf/          ([Casual] 見限る、無視する)     Don't write off his potential.
 - `yearn for` /jɜːrn fɔːr/        ([Neutral] あこがれる 熱望する) He yearns for recognition.
-- `yell` /jɛl/                    ([Casual] 叫ぶ、怒鳴る)         The coach yelled at the players.
 - `yield to` /jiːld tuː/          ([Neutral] 屈服する、従う)      I'll yield to your expertise.
 - `zip` /zɪp/                     ([Casual] 素早く動く)           He zipped through traffic.
 - `zoom` /zuːm/                   ([Casual] 急速に動く)           The car zoomed past us.
@@ -1170,7 +1207,6 @@
 - `barrack`                            ([Neutral] ～を兵舎に収容する)
 - `barrage`                            ([Neutral] 質問を浴びせる)
 - `barter`                            ([Neutral] 物々交換する)
-- `bash`                            ([Neutral] 強打する)
 - `bask`                            ([Neutral] 日光に当たる、恩恵を受ける)
 - `batch`                            ([Neutral] 1回分にまとめる)
 - `batten`                            ([Neutral] 当て木をする、たらふく食べる、食い物にする)
@@ -1192,7 +1228,6 @@
 - `beguile`                            ([Neutral] 魅する、だます、だまし取る)
 - `behold`                            ([Neutral] 注視する、見守る)
 - `belie`                            ([Neutral] ～と矛盾する、偽る)
-- `bellow`                            ([Neutral] 大声で鳴く、どなる)
 - `bemoan`                            ([Neutral] 嘆く、哀れむ)
 - `bend` /bend/                     ([Neutral] 曲げる)              Bend your knees when lifting.
 - `bequeath`                            ([Neutral] 遺贈する、伝える)
@@ -1471,7 +1506,6 @@
 - `deviate`                            ([Neutral] 逸脱する、コースを逸れる)
 - `devolve`                            ([Neutral] 義務や財産が移る、義務や権利を譲り渡す)
 - `devote` /dɪˈvoʊt/              ([Neutral] 捧げる、専念する)    She devotes time to volunteering.
-- `devour`                            ([Neutral] むさぼり食う、食い入るように見る)
 - `diaper`                            ([Neutral] おむつを替える)
 - `diffuse`                            ([Neutral] 散らす、放散させる、広める)
 - `dignify`                            ([Neutral] 威厳をつける、おごそかにする、高貴にする、もったいをつける)
@@ -1593,10 +1627,8 @@
 - `exacerbate`                            ([Neutral] 悪化させる、悪い感情を募らせる、憤慨させる)
 - `excavate`                            ([Neutral] 掘る、発掘する)
 - `excerpt`                            ([Neutral] 抜粋する)
-- `exclaim`                            ([Neutral] 叫ぶ)
 - `exempt` /ɪɡˈzempt/                ([Formal] 免除する)             Students are exempted from the fee.
 - `exercise` /ˈeksərsaɪz/           ([Neutral] 行使する、発動する)  They exercised their voting rights.
-- `exhale`                            ([Neutral] 息を吐き出す、発散する、ぶちまける)
 - `exhilarate`                            ([Neutral] 活気づける、愉快にする、興奮させる)
 - `exhort` /ɪɡˈzɔːrt/               ([Writing] 熱心に勧める、諭す)  He exhorted them to try harder.
 - `exile`                            ([Neutral] 国外追放する、引き離す)
@@ -1787,18 +1819,15 @@
 - `hold` /hoʊld/                    ([Neutral] 拘束する)            The police held him overnight.
 - `hone`                            ([Neutral] 技能を磨く、砥石でとぐ)
 - `honk`                            ([Neutral] 警笛を鳴らす、鳴く)
-- `hoot`                            ([Neutral] わめく、叫ぶ、やじる)
 - `hope for` /hoʊp fɔːr/            ([Neutral] 期待する 望む)       We hope for good weather tomorrow.
 - `horde`                            ([Neutral] 群がる)
 - `hospitalize`                            ([Neutral] 入院させる)
 - `hound`                            ([Neutral] 追跡する)
-- `howl`                            ([Neutral] 遠ぼえする)
 - `hull`                            ([Neutral] 外皮を取る)
 - `hum`                            ([Neutral] ブンブンという音をたてる、鼻歌を歌う)
 - `humble`                            ([Neutral] 謙虚にする)
 - `hump`                            ([Neutral] 背を丸くする、努力する)
 - `hurl`                            ([Neutral] 強く投げる、飛びかかる)
-- `hurrah`                            ([Neutral] フレーと叫ぶ)
 - `hurt` /hɜːrt/                    ([Neutral] 傷つける)            You hurt my feelings.
 - `hurt` /hɜːrt/                    ([Neutral] 痛む)                My head hurts badly.
 - `hurtle`                            ([Neutral] 突進する、高速で動く)
@@ -1839,7 +1868,6 @@
 - `infuriate`                            ([Neutral] 激怒させる)
 - `infuse`                            ([Neutral] 考えを吹き込む、注ぎ込む、煎じる)
 - `inhabit`                            ([Neutral] 住む)
-- `inhale`                            ([Neutral] 吸い込む、たいらげる)
 - `inhibit`                            ([Neutral] 抑制する、妨げる)
 - `inject`                            ([Neutral] 注入する、注射をする、差しはさむ)
 - `inscribe`                            ([Neutral] ことばを刻む、記す、名前を書いて贈呈する)
@@ -2275,7 +2303,6 @@
 - `rip`                            ([Neutral] 引き裂く、暴く、はぎ取る)
 - `ripple`                            ([Neutral] さざ波を立てる、波紋のように広がる)
 - `rivet`                            ([Neutral] びょうで留める、しっかり固定する)
-- `roar`                            ([Neutral] わめく、怒鳴る)
 - `rogue`                            ([Neutral] だます)
 - `romp`                            ([Neutral] はしゃぎ回る、楽勝する)
 - `roost`                            ([Neutral] 止まり木に止まる)
@@ -2312,7 +2339,6 @@
 - `scrabble`                            ([Neutral] かき回して捜す、ひっかく)
 - `scrape`                            ([Neutral] すりむく、こする)
 - `scrawl`                            ([Neutral] ぞんざいに書く、走り書きする、落書きする)
-- `screech`                            ([Neutral] 悲鳴をあげる、金切り声で言う)
 - `scribble`                            ([Neutral] なぐり書きする、落書きする)
 - `scrub`                            ([Neutral] ごしごしこする、取りやめる)
 - `scrutinize`                            ([Neutral] 詳細に調べる、じろじろ見る)
@@ -2331,7 +2357,6 @@
 - `seethe` /siːð/                    ([Neutral] 煮えくり返る)        He was seething with anger.
 - `segregate`                            ([Neutral] 分離する、別れる)
 - `sequester`                            ([Neutral] 引きこもらせる、一時差し押さえる)
-- `sever`                            ([Neutral] 切断する、不和にする、分かれる)
 - `sewer`                            ([Neutral] 下水設備を設ける)
 - `shackle`                            ([Neutral] 拘束する)
 - `sham`                            ([Neutral] 偽造する)
@@ -2348,7 +2373,6 @@
 - `show up` /ʃoʊ ʌp/                ([Neutral] 現れる、姿を見せる)  He finally showed up at noon.
 - `show` /ʃoʊ/                      ([Neutral] 示す、見せる)        Show me what you mean.
 - `shred`                            ([Neutral] シュレッダーにかける)
-- `shriek`                            ([Neutral] 金切り声で叫ぶ)
 - `shrug`                            ([Neutral] 肩をすくめる)
 - `shudder`                            ([Neutral] 震える、激しく震動する)
 - `shuffle`                            ([Neutral] 足をひきずって歩く、言い抜ける、シャッフルする)
@@ -2380,7 +2404,6 @@
 - `slither`                            ([Neutral] ずるずる滑る、滑るように進む、（ヘビなどが）するすると這う)
 - `slouch`                            ([Neutral] 前かがみになる)
 - `slur`                            ([Neutral] 中傷する)
-- `smack` /smæk/                    ([Casual] 叩く)                 She smacked him across the face.
 - `smear`                            ([Neutral] 塗りつける)
 - `smelt`                            ([Neutral] 溶解する)
 - `smirk`                            ([Neutral] にやにや笑う)
@@ -2634,7 +2657,6 @@
 - `waft`                            ([Neutral] 空中を漂う、空中をふわりと運ぶ)
 - `wag`                            ([Neutral] 振る、揺する、しきりに動く)
 - `wager` /ˈweɪdʒər/                ([Neutral] 賭ける)              I'll wager he's already gone.
-- `wail`                            ([Neutral] 泣き叫ぶ、もの悲しい音を出す)
 - `wait for` /weɪt fɔːr/            ([Neutral] 待つ)                I'm waiting for the bus.
 - `walk` /wɔːk/                     ([Neutral] 歩く)                I walk to work every day.
 - `wallpaper`                            ([Neutral] 壁紙をはる)

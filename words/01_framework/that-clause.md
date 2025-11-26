@@ -108,7 +108,7 @@
   - `I feel like`                   ([Casual] ～な気がする)         I feel like this project is going to take longer.
 - `Assumption - 客観的表現（確度：高→低）`
   - ==It's likely (that)==            ([Neutral] ～の可能性が高い)    It's likely that they'll accept our proposal.
-  - ==Chances are (that)==            ([Casual] たぶん～だろう)       Chances are she forgot about the meeting.
+  - `Chances are (that)`            ([Casual] たぶん～だろう)       Chances are she forgot about the meeting.
   - `The odds are (that)`           ([Neutral] おそらく～だろう)    The odds are that it will rain tomorrow.
   - `presumably`                    ([Formal] おそらく～)           Presumably, they've already been informed.
   - `perhaps`                       ([Formal] おそらく～)           Perhaps we should reconsider our approach.
@@ -116,13 +116,13 @@
   - `supposedly`                    ([Neutral] ～らしい)            Supposedly, he's an expert in this field.
   - `maybe`                         ([Casual] たぶん～)             Maybe we should try a different approach.
   - `It's possible (that)`          ([Neutral] ～の可能性がある)    It's possible that we made an error.
-  - ==There's a chance (that)==       ([Neutral] ～の可能性がある)    There's a chance that he'll show up.
+  - `There's a chance (that)`       ([Neutral] ～の可能性がある)    There's a chance that he'll show up.
   - ==There's a possibility (that)==  ([Neutral] ～の可能性がある)    There's a possibility that we're wrong.
   - `It may be (that)`              ([Formal] ～かもしれない)       It may be that we need more time.
   - `It might be (that)`            ([Neutral] ～かもしれない)      It might be that she forgot.
   - ==It could be (that)==            ([Neutral] ～の可能性がある)    It could be that she misunderstood.
 - ==How likely is it that==           ([Neutral] S V の可能性は？)    How likely is it that` the project will be delayed?
-  - ==What are the chances that==     ([Casual] S V の可能性は？)     What are the chances that the meeting will finish early?
+  - `What are the chances that`     ([Casual] S V の可能性は？)     What are the chances that the meeting will finish early?
 
 ## Emphasis
 - `I can't tell you how much`       ([Casual] どれだけ～か言い表せない) I can't tell you how much I appreciate your help.

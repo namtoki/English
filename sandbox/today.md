@@ -1,12 +1,5 @@
 # TODAY
 
-## Intro
-
-As Kuroishi-san mentioned earlier, there are three items on the agenda from the engineering side.
-
-They are multipoint, key assignment, and screen design process
-— things like defining all the happy path screen transitions first and deferring the edge cases for later.
-
 ## Others
 
 I'm fine with that.
@@ -27,18 +20,6 @@ To be honest, I probably won't be much help
 
 Also, given the timezone constraints,
 please don't feel obligated to include me. Feel free to discuss at a time that works better for Germany and the UK.
-
-## Multipoint
-
-...
-
-## Touch control
-
-Sorry to jump in, but it seems there's no request to make the touch control during calls reassignable.
-Apparently, they checked with sales and the call center — or whoever handles that — and there were no specific requests.
-I believe Sagawa-san mentioned you about this.
-
-Should we discuss this beforehand?
 
 ## Re-married mode
 
