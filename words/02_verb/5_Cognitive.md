@@ -6,7 +6,21 @@
   - `disconnect` /ˌdɪskəˈnekt/     ([Neutral] [物理] 切り離す)        Disconnect the cable first.
   - `sever` /ˈsevər/               ([Formal] 断つ、切り離す)        They severed ties with the company.
   - `dissociate` /dɪˈsoʊʃieɪt/     ([Formal] [関係] 切り離す)         He dissociated himself from the group.
-  - `decouple` /diːˈkʌpl/          ([Formal] 分離する、切り離す)   We need to decouple these two systems.
+  - `decouple` /diːˈkʌpl/          ([Formal] 分離する、切り離す)    We need to decouple these two systems.
+
+## Dislike
+- ==hesitate== /ˈhezɪteɪt/            ([Neutral] 躊躇する、ためらう)  She hesitated before replying.
+  - `waver` /ˈweɪvər/               ([Neutral] [選択肢] 揺らぐ、迷う) He wavered between two choices.
+  - `balk at` /bɔːk ət/             ([Neutral] しりごみする、拒む)  Many parents balk at the cost.
+  - `vacillate` /ˈvæsəleɪt/         ([Formal] [優柔不断]である)       She vacillated over the decision.
+  - `dither` /ˈdɪðər/               ([Neutral] [無駄に]迷う)          Stop dithering and make a choice.
+  - `falter` /ˈfɔːltər/             ([Neutral] [恐れ] ためらう)       His voice faltered as he spoke.
+- `refuse` /rɪˈfjuːz/               ([Neutral] 拒む、断る)          He refused to discuss the matter.
+  - `reject` /rɪˈdʒekt/             ([Neutral] [明確] 拒絶,却下する)  They rejected the proposal.
+  - `decline` /dɪˈklaɪn/            ([Formal] [丁重に] 断る)          She declined the invitation.
+  - ==turn down== /tɜːrn daʊn/        ([Casual] 断る)                 I had to turn down the offer.
+  - `rebuff` /rɪˈbʌf/               ([Formal] [そっけなく]拒絶する)   He rebuffed all her attempts.
+  - `spurn` /spɜːrn/                ([Writing] [軽蔑的に]拒む)        She spurned his advances.
 
 ## Think
 - `think` /θɪŋk/                    ([Neutral] だと思う、考える)    I think he's right about this.

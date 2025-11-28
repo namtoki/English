@@ -47,6 +47,7 @@
   - `pardon` /ˈpɑːrdən/             ([Formal] 恩赦、許し)           The governor granted him a pardon.
   - `absolution` /ˌæbsəˈluːʃən/     ([Formal] 免罪、赦し)           He sought absolution for his mistakes.
   - `discharge` /dɪsˈtʃɑːrdʒ/       ([Legal] 免責、釈放)            The court ordered his discharge.
+> `rescission` /rɪˈsɪʒən/           ([Legal] 契約取消、撤回)        They are seeking a rescission of the merger.
 > `statement` /ˈsteɪtmənt/          ([Neutral] 供述、陳述)          He gave a statement to police.
   - `testimony` /ˈtɛstɪmoʊni/       ([Formal] 証言、供述)           Her testimony was crucial.
   - `affidavit` /ˌæfɪˈdeɪvɪt/       ([Formal] 宣誓供述書)           She filed an affidavit with the court.

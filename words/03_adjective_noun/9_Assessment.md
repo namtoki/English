@@ -190,6 +190,8 @@
   - `wayward` /ˈweɪwəd/             ([Neutral] 気まぐれな、言う事聞) A wayward child needs guidance.
   - `obstinate` /ˈɑːbstənət/        ([Neutral] 頑固な、強情な)      He was obstinate in his refusal.
   - `stubborn` /ˈstʌbɚn/            ([Neutral] 頑固な、強情な)      She's too stubborn to admit she's wrong.
+  - `balky` /ˈbɔːki/                ([Neutral] しりごみする 従わない) The balky horse refused to move.
+    - `balkiness` /ˈbɔːkinəs/       ([Neutral] しりごみ、従わないこと) The balkiness of the machine frustrated us.
   - `contrary` /ˈkɑntɹɛɹi/          ([Neutral] 反抗的な、逆の)      The child was being contrary.
   - `twisted` /ˈtwɪstɪd/            ([Casual] ひねくれた、倒錯した)  He has a twisted sense of humor.
 
