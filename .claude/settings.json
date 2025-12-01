@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "english-trainer": {
+      "source": {
+        "source": "github",
+        "repo": "namtoki/english-trainer-plugin"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "evt@english-trainer": true
+  }
+}
