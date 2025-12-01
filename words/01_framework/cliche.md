@@ -1,21 +1,21 @@
 # Cliche
 
 ## Initiation
-- ==How's it going?==                 ([Casual] 調子はどう？)         How's it going with work?
+- How's it going?
   - `How've you been?`              ([Casual] 元気だった？)         How've you been since last time?
   - `What's up?`                    ([Casual] どう？何してる？)     What's up with you?
   - `How are you?`                  ([Formal] いかがですか？)       How are you today?
   - `How are you doing?`            ([Neutral] お元気ですか？)      How are you doing lately?
   - `How are things?`               ([Casual] 最近どう？)           How are things at home?
   - `How's your day going?`         ([Casual] 今日の調子はどう？)   How's your day going so far?
-- ==It's been a while==               ([Casual] 久しぶり)             It's been a while. How have you been?
+- It's been a while
   - `It's been a while since S V`   ([Neutral] してからしばらく経つ)It's been a while since we last met.
   - `It's been ages    since S V`   ([Casual] してからしばらく経つ) It's been ages since we last hung out.
   - `It's been a month since S V`   ([Neutral] S V ぶり)            It's been a month since we met the last time.
   - `It's been a long time since S V` ([Neutral] )                  It's been a long time since we visited that place.
   - `I haven't seen you in O`       ([Neutral] Oぶり)               I haven't seen you in a month.
   - `Hey, stranger!`                ([Casual] 珍しいね)             Hey, stranger! Long time no see.
-- ==Do you have a minute?==           ([Casual] ちょっといい？)       Do you have a minute to discuss this?
+- Do you have a minute?
   - `Do you have time?`             ([Neutral] お時間ありますか？)  Do you have time to talk?
   - `Is this a good time?`          ([Casual] 今いい？)             Is this a good time to call?
   - `Can I borrow you for a second?`([Casual] ちょっといい？)       Can I borrow you for a second? I need your advice.
@@ -33,7 +33,7 @@
   - `Do you remember that O?`       ([Casual] 覚えている？)         Do you remember that bike at ABC Department Store?
   - `Did you hear O?`               ([Casual] 聞きました？)         Did you hear about Kim? She got promoted.
   - `I told you O, right?`          ([Casual] 〜って言ったよね？)   I told you it was going to rain, right? Now look at the sky!
-- ==I hope you are doing well.==
+- I hope you are doing well.
   - `Thank you for your continued support.`
   - `I appreciate your help as always.`
   - `I always appreciate your business.`

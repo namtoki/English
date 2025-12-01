@@ -1,10 +1,10 @@
 # Opinion
 
 ## Agree
-- `agree with` /əˈɡriː wɪð/         ([Neutral] ～に賛成する)        I agree with the decision.
-  - `consent` /kənˈsent/            ([Formal] 同意する)             She consented to the treatment.
-  - `approve of` /əˈpruːv əv/       ([Neutral] ～を良いと思う)      I approve of your choice.
-  - `be for` /biː fɔːr/             ([Casual] 賛成である)           I'm for the new policy.
+- agree with
+  - consent
+  - approve of
+  - be for
   - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
   - `be in favor of`                ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
 - ==come around to==                  ([Neutral] 徐々に同意する)      He came around to my way of thinking.
