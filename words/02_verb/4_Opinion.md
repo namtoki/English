@@ -1,21 +1,11 @@
 # Opinion
 
 ## Agree
-- agree with
-  - consent
-  - approve of
-  - be for
-  - be all for
-  - be in favor of
-- come around to
-  - warm up to
-  - `be won over by`                ([Neutral] 説得されて同意する)  I was won over by his argument.
-- `support` /səˈpɔːrt/              ([Neutral] 支持する、支える)    I support your decision.
-  - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.
-  - `back up` /bæk ʌp/              ([Casual] 支援する、裏付ける)   I'll back you up.
-  - `stand by` /stænd baɪ/          ([Neutral] 支持する、味方する)  I'll stand by you no matter what.
-  - `stand behind` /stænd bɪˈhaɪnd/ ([Neutral] 支持する 後ろ盾なる) We stand behind our employees.
-  - `get behind` /ɡet bɪˈhaɪnd/     ([Casual] 支持する、応援する)   Let's get behind this initiative.
+- support
+  - back
+  - back up
+  - stand by
+  - get behind
   - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
   - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
   - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
@@ -29,7 +19,7 @@
   - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
   - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
   - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
-  - ==!buy into==                      ([Casual] 信じて支持する)       I don't buy into that theory.
+  - buy into
 
 ## So-so
 - `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
