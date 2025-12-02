@@ -5,11 +5,10 @@
   - consent
   - approve of
   - be for
-  - `be all for` /biː ɔːl fɔːr/     ([Casual] 大賛成である)         I'm all for that idea!
-  - `be in favor of`                ([Neutral] 賛成する、支持する)  I'm in favor of the new proposal.
-- ==come around to==                  ([Neutral] 徐々に同意する)      He came around to my way of thinking.
-  - `come round to`                 ([Neutral 英] 徐々に同意する)   He'll come round to my point of view.
-  - `warm up to`                    ([Neutral] 受け入れるようなる)  She's warming up to the idea.
+  - be all for
+  - be in favor of
+- come around to
+  - warm up to
   - `be won over by`                ([Neutral] 説得されて同意する)  I was won over by his argument.
 - `support` /səˈpɔːrt/              ([Neutral] 支持する、支える)    I support your decision.
   - `back` /bæk/                    ([Neutral] 支持する、後援する)  The board backed the proposal.

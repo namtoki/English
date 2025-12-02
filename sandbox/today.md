@@ -1,31 +1,61 @@
 # TODAY
 
-## Others
+---
 
-I'm fine with that.
+## Update
 
-This isn't just my personal opinion — I believe it's the consensus from the engineering side.
+A quick update on some Story issues:
+The issues assigned to me that are currently in "Working" status are items where the technical requirements have been defined.
+The ones assigned to me that are marked as "Done" are features that were confirmed to be implemented during the PoC phase—specifically, Volume, Name Customization, and Software Update.
 
-## Personalization
+As for the items in TODO and Backlog, I'm still working on defining the technical requirements, so please bear with me.
 
-It looks like Kary is back from leave — you should have received an email, right?
-I've already worked with Oded to address the software-related concerns, so that's been resolved.
+I'd like to check the progress on the "Working" items regularly.
+Regarding Manual Pairing, since the related issue has been closed, I'm thinking we could close this one as well.
+Can I assume that the implementation I summarized in the comments has been completed?
 
-Could you coordinate with Kary regarding the screens that are currently marked as non-customizable?
-It seems they can't fully customize them for Denon, but they're open to making some minor adjustments.
-So if you could discuss specifics — like which components you'd like to change and why — that would be helpful.
+Lastly, could you tell me why Touch Controls is already marked as "Done"?
+Is it because the basic framework implementation is complete, and only minor adjustments to Assignable remain?
 
-To be honest, I probably won't be much help
-— I might not even be able to follow the conversation in English.
+---
 
-Also, given the timezone constraints,
-please don't feel obligated to include me. Feel free to discuss at a time that works better for Germany and the UK.
+## Multi Point
+So, just to clarify the next steps:
+> Let me confirm the next steps:
 
-## Re-married mode
+The UI specification has been finalized,
+> We've finalized the UI specification,
 
-Vefa-san, I know you're super busy, so no rush at all, but —
-I left a comment on the UX spec this morning about this.
-Eastech pointed out that we might need a case lighting pattern to indicate failure for Re-married mode.
-Personally, I think we could just use the same pattern as a regular pairing failure.
+and what the buds should be able to do is, sharing their pairing list,
+> and the required features for the buds are syncing their pairing list,
 
-When you have a moment, could you take a look and let me know your thoughts?
+actively forgetting a device,
+> manually removing a device,
+
+and actively connecting to a device.
+> and manually connecting to a device.
+
+Is that correct?
+> Is my understanding correct?
+
+These features are not part of Airoha SDK's default functionality, right?
+> These aren't included in the Airoha SDK out of the box, correct?
+
+If that's the case, the next step would be to proceed with a feasibility study with Airoha. Does that sound right?
+> If so, we should move forward with a feasibility assessment with Airoha. Does that make sense?
+
+---
+
+## Jira boards
+Quick question about JIRA boards:
+> I have a quick question regarding JIRA boards:
+
+Does anyone know what the "SW Related Issue" board is for? If no one's using it, I'll go ahead and delete it.
+> Does anyone know the purpose of the "SW Related Issue" board? If it's not being used, I'll remove it.
+
+---
+
+## Other
+
+Just to understand your question:
+are you concerned that [YYY] could be problematic when [ZZZ], so we should consider [XXX]?
