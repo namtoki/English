@@ -4,21 +4,6 @@
 
 ## Key Phrases
 
-- ==!to the point where==              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
-  - `to some degree`                ([Neutral] ある程度)            I agree with you to some degree.
-  - `to a certain extent`           ([Formal] ある程度まで)         To a certain extent, he's right.
-- ==, each with O==                   ([Neutral] それぞれが持ている)  Instant cameras, each with their own unique shape and design.
-  - `, each V-ing O`                ([Neutral] それぞれがOを...)    Students, each having different strengths.
-- `, all with O`                    ([Neutral] 全てがOを持っている) Three cars, all with leather seats.
-  - `, both with O`                 ([Neutral] 両方とも持っている)  Two phones, both with cracked screens.
-- ==instead of== /ɪnˈsted əv/         ([Neutral] ～の代わりに)        We stayed home instead of going out.
-  - ==rather than== /ˈræðər ðæn/      ([Neutral] ～よりむしろ)        I'd walk rather than take the bus.
-  - `in place of` /ɪn pleɪs əv/     ([Formal] ～の代替として)       She attended in place of her boss.
-  - `in lieu of` /ɪn luː əv/        ([Formal] ～の代わりに)         They gave vouchers in lieu of refunds.
-  - `as an alternative to`          ([Neutral] ～の代替案として)    We chose this as an alternative to the original plan.
-  - `in preference to`              ([Formal] ～より優先して)       They hired her in preference to other candidates.
-  - `over` /ˈoʊvər/                 ([Casual] ～より)               I chose tea over coffee.
-  - `instead` /ɪnˈsted/             ([Neutral] その代わりに)        I couldn't go. I sent a gift instead.
 - ==unlike== /ʌnˈlaɪk/                ([Neutral] ～とは異なり)        Unlike his earlier works, this novel is far more political.
   - `contrary to` /ˈkɑːntreri tuː/  ([Formal] ～に反して)           Contrary to popular belief, the earth is not flat.
   - `in contrast to`                ([Formal] ～と対照的に)         In contrast to last year, this year's sales increased.
