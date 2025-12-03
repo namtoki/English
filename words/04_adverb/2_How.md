@@ -4,13 +4,6 @@
 
 ## Key Phrases
 
-- ==!in a way that== /ɪn ə weɪ ðæt/    ([Neutral] という方法で)        He explains that in a way that makes it sound complicated.
-  - `in such a way that`            ([Neutral] ～するような方法で)  Arrange them in such a way that everyone can see the screen.
-  - `by V-ing` /baɪ/                ([Neutral] ～することによって)  She improved her skills by practicing daily.
-  - `through V-ing` /θruː/          ([Neutral] ～を通じて)          He learned through making mistakes.
-  - `via` /ˈvaɪə/                   ([Neutral] ～を経由して)        Send the document via email.
-  - `in a manner that`              ([Formal] ～という方法で)       Behave in a manner that reflects well on the company.
-  - `by means of` /baɪ miːnz əv/    ([Formal] ～によって)           They communicated by means of sign language.
 - ==!to the point where==              ([Neutral] ～するほどまでに)    I was tired to the point where I couldn't think.
   - `to some degree`                ([Neutral] ある程度)            I agree with you to some degree.
   - `to a certain extent`           ([Formal] ある程度まで)         To a certain extent, he's right.

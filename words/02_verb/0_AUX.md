@@ -22,7 +22,6 @@
   - `be destined to` /ˈdestɪnd tuː/ ([Formal] ～する運命)           She was destined to succeed.
 - ==be gonna== /ˈɡʌnə/                ([Casual] ～しようとしている)   I'm gonna head out soon.
   - `be going to` /ˈɡoʊɪŋ tuː/      ([Casual] ～しようとしている)   I'm going to call him now.
-  - `be about to` /əˈbaʊt tuː/      ([Neutral] まさに～するところ)  The show is about to start.
   - `be just about to`              ([Neutral] ちょうどするところ)  I was just about to leave.
   - `be fixin' to` /ˈfɪksɪn tuː/    ([Casual 米南部] ～するところ)  I'm fixin' to make dinner.
 - `was gonna` /wəz ˈɡʌnə/           ([Casual] するつもりだった)     I was gonna text you later.
