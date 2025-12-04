@@ -1,14 +1,6 @@
 # That Clause
 
 ## Impression
-- ==I get the impression (that)==     ([Neutral] ～な印象を受ける)    I get the impression that she's upset.
-  - `I have the impression (that)`  ([Neutral] ～な印象を持ている)  I have the impression that he's not interested.
-  - `I'm under the impression (that)` ([Neutral] ～だと思っている)  I'm under the impression that the meeting was cancelled.
-  - `It gives me the impression (that)` ([Neutral] ～な印象与える)  It gives me the impression that they're not ready.
-  - `I sense (that)`                ([Neutral] ～を感じ取る)        I sense that something's wrong.
-  - `I gather (that)`               ([Neutral] ～と理解している)    I gather that you're not coming.
-  - `It strikes me (that)`          ([Neutral] ～だと感じる)        It strikes me that we might be overlooking something.
-  - `My sense is (that)`            ([Neutral] 私の感覚では)        My sense is that they're willing to negotiate.
 - ==It looks like==                   ([Casual] ～みたいだ)           It looks like it's going to rain.
   - `It seems (that)`               ([Neutral] ～のようだ)          It seems that we have a problem.
   - `It seems as if/though`         ([Neutral] ～のように見える)    It seems as if he's not interested in the proposal.
