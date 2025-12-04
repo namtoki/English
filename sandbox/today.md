@@ -2,33 +2,24 @@
 
 ---
 
-## Touch
+Thanks for your comment.
 
-## Spatial Audio
+I understand where you're coming from now.
 
-From a software perspective, I'll leave this up to the UX team.
-At the end of the day, it all comes down to what users find easiest to use based on your research.
-There shouldn't be any technical limitations regardless of which option you choose.
-So, I'm good with whatever you decide.
+Taking everything into account, I'd like to move forward with this as follows:
 
-## Auracast
+- UX/UI:
+  - Assuming we go with the new login method, we'll proceed with the UI/UX design.
+    - In other words, for now:
+      - We won't factor in the engineering effort.
+      - We won't consider the Denon brand apps consolidation.
+- Server:
+  - Around late January or early February, the team will start looking into how much effort it'll take to change the login method.
+  - Depending on the results, we may need to revisit the UX/UI.
 
-As mentioned in the Jira ticket,
-Eastech is asking whether music playback should be able to interrupt Auracast playback.
+---
 
-Here's where we stand:
-We originally decided to follow the same spec as the C-series,
-meaning music playback cannot interrupt Auracast.
-The broadcast stays connected unless the user explicitly chooses to leave.
+Thanks a lot.
 
-However, Eastech is now suggesting we allow music to interrupt Auracast.
-Their reasoning is that the Airoha SDK v5.7.0 used in Perl2 already works this way,
-and they're finding it difficult to implement the behavior we originally specified.
-
-Just giving you a heads-up on this.
-
-The software team is currently looking into how difficult it would be to stick with the original spec.
-
-That said,
-if it turns out to be too challenging from a software perspective,
-would it be okay to go with the behavior where music playback can interrupt Auracast?
+That said, you have way more knowledge about the Airoha SDK, so if I'm off on anything, please feel free to point it out.
+Also, we're still open to adopting the suggestion from the Eastech side.
