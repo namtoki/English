@@ -1,14 +1,7 @@
 # Feeling
 
 ## Degree
-- ==kind of== /kaɪnd əv/              ([Casual] ちょっと、なんとなく) I'm kind of tired today.
-  - ==sort of== /sɔːrt əv/            ([Casual] ちょっと、なんか)     I sort of understand what you mean.
-  - `kinda` /ˈkaɪndə/               ([Casual] ちょっと、なんとなく) I'm kinda hungry.
-  - `sorta` /ˈsɔːrtə/               ([Casual] ちょっと、なんか)     I sorta get it now.
-- ==a little bit== /ə ˈlɪtəl bɪt/     ([Casual] 少し、ちょっと)       I'm a little bit tired today.
-  - `a little` /ə ˈlɪtəl/           ([Neutral] 少し、ちょっと)      She seems a little upset.
-  - `a bit` /ə bɪt/                 ([Casual] ちょっと、少し)       It's a bit cold outside.
-  - `a tad` /ə tæd/                 ([Casual] ほんの少し)           The coffee is a tad too sweet.
+- a little bit
   - `low-key` /ˌloʊˈkiː/            ([Casual] ちょっと、密かに)     I'm low-key obsessed with that show.
   - ==somewhat== /ˈsʌmwʌt/            ([Neutral] いくぶん、多少)      The results were somewhat surprising.
   - ==slightly== /ˈslaɪtli/           ([Neutral] わずかに、少し)      I'm slightly concerned about this.
@@ -158,8 +151,6 @@
   - `bluntly` /ˈblʌntli/            ([Casual] 率直に)               To put it bluntly, your work needs improvement.
   - `directly` /dəˈrektli/          ([Neutral] 直接的に)            He told her directly what the problem was.
   - `plainly` /ˈpleɪnli/            ([Neutral] 明白に)              She plainly stated her objections.
-
-- ==in the first place==              ([Neutral] そもそも、第一に)    Why did you do it in the first place?
 
 ## Tag
 - ==!, if that makes sense==           ([Neutral] 伝わればいいけど)    It's more of a vibe than a strict rule, if that makes sense.
