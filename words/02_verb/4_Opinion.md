@@ -1,39 +1,5 @@
 # Opinion
 
-## Agree
-- support
-  - back
-  - back up
-  - stand by
-  - get behind
-  - `promote` /prəˈmoʊt/            ([Neutral] 促進する、推進する)  We promote sustainable practices.
-  - `favor` /ˈfeɪvər/               ([Neutral] 支持する、好む)      I favor this approach.
-  - `side with` /saɪd wɪð/          ([Neutral] 味方する、支持する)  She sided with the opposition.
-  - `give support to`               ([Neutral] 支援する)            We give our support to the project.
-  - `endorse` /ɪnˈdɔːrs/            ([Formal] 支持する、裏書)       The senator endorsed the legislation.
-  - `advocate` /ˈædvəkeɪt/          ([Formal] 主張する、擁護する)   I advocate for better education.
-  - `champion` /ˈtʃæmpiən/          ([Neutral] 擁護する、支持する)  He championed the rights of workers.
-  - `rally` /ˈræli/                 ([Neutral] 結集する、支援する)  The community rallied around the family.
-  - `second` /ˈsekənd/              ([Neutral] 支持する、賛同する)  I second the motion.
-  - `uphold` /ʌpˈhoʊld/             ([Formal] 支持する、維持する)   The court upheld the decision.
-  - `throw support behind`          ([Neutral] 支援を投じる)        They threw their support behind the candidate.
-  - `sustain` /səˈsteɪn/            ([Formal] 支える、持続させる)   We must sustain our efforts.
-  - `bolster` /ˈboʊlstər/           ([Formal] 強化する、支える)     This evidence bolsters our case.
-  - buy into
-
-## So-so
-- `be enough` /bi ɪˈnʌf/            ([Neutral] 十分である)          Three bottles will be enough.
-  - ==be fine== /bi faɪn/             ([Neutral] 大丈夫である)        That will be fine for me.
-  - `will do` /wɪl duː/             ([Casual] 間に合う、十分だ)     This will do for now.
-  - `wouldn't mind` /ˈwʊdnt maɪnd/  ([Casual] 〜でも構わない)       I wouldn't mind a cup of tea.
-  - `do the trick` /duː ðə trɪk/    ([Casual] うまくいく、十分)     This should do the trick.
-  - `be sufficient` /bi səˈfɪʃənt/  ([Formal] 十分である)           The budget should be sufficient.
-  - `suffice` /səˈfaɪs/             ([Writing] 十分である)          A phone call will suffice.
-  - `be adequate` /bi ˈædɪkwət/     ([Neutral] 適切である)          The response was adequate.
-  - `meet the need` /miːt ðə niːd/  ([Neutral] ニーズを満たす)      This solution meets the need.
-  - `cover it` /ˈkʌvər ɪt/          ([Casual] カバーする、足りる)   Twenty dollars should cover it.
-  - `serve the purpose`             ([Neutral] 目的を果たす)        This tool serves the purpose.
-
 ## Need
 - `want` /wɑːnt/                    ([Casual] 欲しい)               I want to go home early.
   - `would like` /wʊd laɪk/         ([Polite] 〜が欲しい)           I would like some water, please.
